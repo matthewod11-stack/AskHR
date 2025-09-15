@@ -1,0 +1,1 @@
+## Original Scoring for Mixed-Standard Scales

@@ -1,0 +1,21 @@
+# ISSN 2393-9451
+
+investment banks working in Pakistan. Financial ratios are divided into three main categories and measures including two indicators. Seven investment banks out of nine are selected for analysis for comparison purpose. They concluded that the performance of investment banks on the basis of efficiency ratio is different than on the basis of liquidity ratio, capital or leverage ratio and financial measures. Due to the unavailability o f data of other two banks, the results are compiled from the data of seven banks. The findings were consistent with the analysis reported by the central bank of Pakistan (State Bank of Pakistan, SBP) in its report for financial sector analysis 2006-09.
+
+Financial ratios and financial measures were taken for the said purpose. Investment banks are the most important contributors in the economic development of a country. And they offer huge impact on capital and credit markets of the country. Financial measures were based upon two indicators total asset and total equity. Financial ratios included return on assets ratio (ROA), return on Equity ratio (ROE), Admin Expenses to Profit before Tax Ratio, Cash and Cash Equivalent to Total Assets Ratio, and capital ratio. This study concluded that ranking of banks differs as th e financial ratios change.
+
+Alam, Raza, Farhan and Akram(2011) intended to classify the leasing companies on the basis of financial ratios and to make horizontal and as well as vertic al analysis among leasing companies for the period 2006- 2009. Ten leasing companies out of ten companies are analyzed. That study concluded that ranking of leasing companies on the base of net investment in finance lease is different from the ranking based o n return on assets (ROA), return on equity (ROE), return on revenues (ROR) and lease ratio (LR) and the ratios such as ROA, ROE, ROR and LR are negative in 2009 due to the net loss after tax.
+
+Dalfard, Sohrabian, Montazeriand Alvani (2012) conducted the study related with the assessment of leasing companies’ efficiency. This article applied data envelopment analysis (DEA) models for the efficiency assessment and ranking of leasing companies on the Tehran Stock Exchange (TSE). Total asset, P/E, and ROE are considered as inputs and EPS, current ratio, and sales growth are considered as outputs of each DMU. The results indicated that both the CCR and BCC models are not capable of ranking the five considered leasing companies. Due to the failure of the standard DEA models to rank the efficient set o f leasing companies, a super efficiency DEA model, namely AP-DEA, is applied. The unique feature of this study is the use of a super efficiency DEA model to rank the leasing companies of the TSE.
+
+- 4. Objectives of the study: In the present study an attempt has been made to evaluate the close relationship between earnings and profitability and earnings and liquidity of the five non banking finance companies (NBFC) viz. Bajaj Finance, Shriram Transport Finance Corporation, Mahindra & Mahindra Financial Services, Sundaram Finance and Cholamandalam Investment & Finance Company. More specifically the following are the objectives of the study:- (cid:216) Find out relation between earning per share as a measure of earning and Net profit,Return on capital employed,Return on assets as measure of profitability. (cid:216) Find out relation between earning per share as a measure of earning and Current ratio,Quick ratio,Cash earnings retention ratio as measure of liquidity.
+
+- 5. Research Methodology: (cid:216) Selection of Data: Five non banking finance company (NBFC) Bajaj Finance, Shriram Transport Finance Corporation, Mahindra &Mahindra Financial Services, Sundaram Finance and CholamandalamInvestment & Finance Company have been selected on the basis of their market capitalization more than Rs.15,000 crores and total assets amounting more than Rs.10,000 crores as on 01.07.2017.
+
+Jamil, Iilahi and Kazmi(2014) compared the financial performance of top ten investment banks on the basis of credit rating in 2014 for the period of 2009 to 2013.
+
+(cid:216) Collection of Data: This study is based on secondary data only. The secondary data have
+
+IITM Journal of Business Studies (JBS)
+
+67

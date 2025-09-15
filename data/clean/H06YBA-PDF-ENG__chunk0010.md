@@ -1,0 +1,1 @@
+## The deficit perspective and the diversity perspective

@@ -1,0 +1,1 @@
+## managerial representation across seven demographic groups: white women, Black

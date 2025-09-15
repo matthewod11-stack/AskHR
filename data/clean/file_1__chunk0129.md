@@ -1,0 +1,5 @@
+# 3.2.1. Data validity and reliability
+
+Validity and reliability are the main concepts when evaluating the quality of empirical research. Four tests are commonly applied when evaluating the quality of research design, namely construct validity, internal validity, external validity, and reliability (Yin, 2003). External validity concerns the extent to which the findings of a study can be generalized beyond Finland (Bryman and Bell, 2003). Since some aspects of the research context are unique, it may be difficult to fully differentiate between universal and context-specific phenomena which may cause a potential threat to the external validity of this research.
+
+Internal validity refers to the issues of causality, meaning how certain it is that the independent variable is causing variation in the dependent variable (Bryman and Bell, 2003). The response rate of 64% shows the data’s high internal validity. In addition, Statistics of Finland made a significant effort to certify its internal validity by adequate variation in observations and respondents’ characteristics:

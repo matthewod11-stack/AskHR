@@ -1,0 +1,3 @@
+# Thi Bich Hanh Tran and Suk Bong Choi
+
+afford employees opportunities to expand their skills. Lastly, inclu- sive leaders’ openness and accessibility to interact with employees contribute to fostering a shared vision, which facilitates a learning- oriented organization (Real, Roldan, & Leal, 2014). Previous studies have indicated that intense open interaction between leaders and employees offers clarity related to organizational goals (Zagorsek et al., 2009). Hence, we propose Hypothesis 4: Inclusive leadership positively influences organizational learning culture.

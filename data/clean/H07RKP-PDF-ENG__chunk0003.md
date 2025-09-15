@@ -1,0 +1,1 @@
+# HBR / Digital Article / Designing Generative AI to Work for People with Disabilities

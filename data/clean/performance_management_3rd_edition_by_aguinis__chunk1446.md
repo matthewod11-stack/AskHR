@@ -1,0 +1,3 @@
+# Part III • Employee Development
+
+feedback. After the assessment, a developmental plan is constructed, based on each individual’s strengths and weaknesses. Furthermore, an online leadership develop- mental suite is available that includes a self-initiated online 6-month and 12-month follow-up. Given the availability of Compass and other systems such as those described in Table 8.3, there is little excuse to implement a system that does not include most of the characteristics listed in Table 8.5.

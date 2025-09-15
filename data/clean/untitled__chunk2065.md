@@ -1,0 +1,1 @@
+## Mann, A. (Ed.). (1975). The progressive era (2nd ed.). Hinsdale, IL:

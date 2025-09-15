@@ -1,0 +1,3 @@
+# ORGANIZATIONS AND ACTIVISM
+
+For many feminist psychologists, exposing inequity and in- justices that women face is the very core of their work. They also hold an ethic that uncovering abuses of power must be accompanied by actions aimed at reform and redress. This has required organizational structures that support and foster research, practice, and activism. Several organizations have provided venues for addressing issues of importance in the ﬁeld of the psychology of women and gender.

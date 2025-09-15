@@ -1,0 +1,1 @@
+## team responsible for the creation of a strategy and accountable for its

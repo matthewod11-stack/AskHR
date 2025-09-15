@@ -1,0 +1,9 @@
+# that shift:
+
+First, Jack Welch became CEO of General Electric in 1981. To deal with the long-standing concern that supervisors failed to label real differences in per- formance, Welch championed the forced-ranking system—another military creation. Though the U.S. Army had devised it, just before entering World War II, to quickly identify a large number of officer candi- dates for the country’s imminent military expansion, GE used it to shed people at the bottom. Equating performance with individuals’ inherent capabilities (and largely ignoring their potential to grow), Welch divided his workforce into “A” players, who must be rewarded; “B” players, who should be accommo- dated; and “C” players, who should be dismissed. In that system, development was reserved for the “A” players—the high-potentials chosen to advance into senior positions.
+
+Second, 1993 legislation limited the tax deduct- ibility of executive salaries to $1 million but ex- empted performance-based pay. That led to a rise in outcome-based bonuses for corporate leaders—a change that trickled down to frontline managers and even hourly employees—and organizations relied even more on the appraisal process to assess merit.
+
+Third, McKinsey’s War for Talent research project in the late 1990s suggested that some executives were fundamentally more talented than others (you knew them when you saw them, the thinking went). Because such executives were, by definition, in short supply, organizations felt they needed to take great care in tracking and rewarding them. Nothing in the McKinsey studies showed that fixed personality traits actually made certain individuals perform bet- ter, but that was the assumption.
+
+October 2016 Harvard Business Review 1503

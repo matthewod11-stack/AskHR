@@ -1,0 +1,1 @@
+## Laid off Downsized Rightsized Wrongsized Reengineered

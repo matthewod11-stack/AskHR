@@ -1,0 +1,1 @@
+# employer) primarily providing fellowship and protection (companionship services) to seniors and/or

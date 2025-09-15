@@ -1,0 +1,1 @@
+## Multiple Comparisons Dependent Variable: Mean GP Tukey HSD Table 3

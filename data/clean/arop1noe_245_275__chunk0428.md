@@ -1,0 +1,1 @@
+# influences of learning culture, creativity, and knowledge. Hum. Resour. Dev. Int. 13:249–64

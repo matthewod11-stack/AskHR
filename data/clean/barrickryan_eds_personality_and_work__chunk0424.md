@@ -1,0 +1,13 @@
+# 122 PERSONALITY AND WORK
+
+are so fundamental that simple examinations of relationships be- tween the two, as is often seen in the literature, can be misleading and misdirected.
+
+Affect is a state, and the fundamental characteristic of state con- structs is change. If we can envision a continuous stream of experi- ence, we can also envision particular moments in that stream when change occurs, when people move from one state to another. Such states can vary in length. Pain from touching a hot surface can last moments. Anger or guilt can last for hours. Marriage is a state that for some can last for decades, for others weeks. Nonetheless, and regardless of the time frame, states are time-bound constructs.
+
+By this characterization, affect is a state. Researchers make the distinction between two forms of affect: moods and discrete emo- tions. Moods are generally considered to be more diffuse affective states, lacking a deﬁning object, and disconnected from particular objects or circumstances. Discrete emotions are affective states that are connected to objects or circumstances. They are about some- thing. The difference can be seen in the language of moods and discrete emotions. “I’m feeling angry with my boss” and “I’m feel- ing guilty about missing my son’s soccer game” are statements in the language of emotion. “I’m feeling down” and “I’m feeling kind of perky” are statements in the language of mood.
+
+Both moods and emotions are state variables, characterized by beginnings and endings. Affective states, when compared to other kinds of state variables, are generally of relatively short duration. For example, moods might last for a few minutes, as is often the case in the laboratory, to a few hours. The experience of anger or guilt might follow the same sort of time frame.
+
+Figures 5.1, 5.2, and 5.3 illustrate the momentary variability of affect. In each of the cases illustrated in these ﬁgures, data were col- lected by using ecological momentary assessment (Stone, Shiffman, & DeVries, 1999) to capture momentary affective states among work- ers. Participants were signaled at random points through the day and asked to indicate their current mood states (pleasant versus un- pleasant and aroused versus unaroused). These immediate mood states were collected over two- or three-week periods.
+
+These charts are useful but rather limited in their description of true affective experience as it plays out over time. By dropping

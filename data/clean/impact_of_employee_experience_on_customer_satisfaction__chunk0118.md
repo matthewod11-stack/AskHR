@@ -1,0 +1,1 @@
+# religion or spirituality, materialistic value orientation or sexual orientation. James

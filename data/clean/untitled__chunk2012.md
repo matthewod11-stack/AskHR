@@ -1,0 +1,1 @@
+## Report of Committee of Clinical Section of APA. (1935). Psycho-

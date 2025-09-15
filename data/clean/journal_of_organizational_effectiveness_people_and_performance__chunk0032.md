@@ -1,0 +1,1 @@
+# INDIVIDUAL OUTCOMES Attitudes job satisfaction commitment turnover intention, etc.

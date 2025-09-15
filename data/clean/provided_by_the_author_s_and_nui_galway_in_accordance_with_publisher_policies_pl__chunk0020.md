@@ -1,0 +1,1 @@
+## Miller, Burke and Glick, 1998), and strategic human resource management (SHRM)

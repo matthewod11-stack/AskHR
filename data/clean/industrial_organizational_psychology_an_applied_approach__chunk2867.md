@@ -1,0 +1,3 @@
+# about the concept of leadership. Leader-
+
+ship is one of those key compe- tencies that differentiate great organizations from good orga- nizations. Because a successful organization must grow and develop leaders, it is imperative that it determine what behav- iors and actions are associated with leadership. Leadership is about coping with and driving change, setting direction by developing a vision for the future, aligning people with the vision, and creating strate- gies for producing the changes needed to achieve the vision.

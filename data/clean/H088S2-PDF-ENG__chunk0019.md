@@ -1,0 +1,1 @@
+## HBR / Digital Article / A New Model for Continuous Transformation

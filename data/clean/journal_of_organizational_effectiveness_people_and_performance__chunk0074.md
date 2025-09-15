@@ -1,0 +1,1 @@
+# (1) depletion of physical energy;

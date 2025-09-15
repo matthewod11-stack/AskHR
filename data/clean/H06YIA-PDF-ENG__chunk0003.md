@@ -1,0 +1,1 @@
+## HBR / Digital Article / When to Change Your Company’s P&L Responsibilities

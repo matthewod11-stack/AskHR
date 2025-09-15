@@ -1,0 +1,1 @@
+## encourage chance encounters and spontaneous collaboration.

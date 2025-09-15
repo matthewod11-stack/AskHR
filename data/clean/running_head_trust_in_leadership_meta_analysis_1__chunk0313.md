@@ -1,0 +1,3 @@
+# Transactional Leadership
+
+Transactional leadership is based on an economic exchange process in which the leader provides rewards in return for the subordinate’s effort and performance. The dimensions of transactional leadership model include contingent reward (followers and leaders have a positively reinforcing interaction) and management-by-exception (the leader intervenes only when things go wrong).

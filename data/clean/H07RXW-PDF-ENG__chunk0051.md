@@ -1,0 +1,1 @@
+# HBR / Digital Article / Is Organizational Hierarchy Getting in the Way of Innovation?

@@ -1,0 +1,1 @@
+## partner, or an information source, anyone

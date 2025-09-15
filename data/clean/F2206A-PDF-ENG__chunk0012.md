@@ -1,0 +1,1 @@
+## Over the course of the pandemic, almost all the 6,500 global associates

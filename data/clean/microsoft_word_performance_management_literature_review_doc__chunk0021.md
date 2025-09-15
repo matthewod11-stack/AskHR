@@ -1,0 +1,13 @@
+# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:44)(cid:10) (cid:10)
+
+(cid:41) (cid:1)(cid:13)(cid:14)(cid:11)(cid:10)(cid:44)(cid:5)(cid:2)(cid:33)(cid:8)(cid:4)(cid:20)(cid:7)(cid:8)(cid:12)(cid:9)(cid:9)(cid:7)(cid:28)(cid:4)(cid:5)(cid:44)(cid:7)(cid:2)(cid:7)(cid:3)(cid:3)(cid:8)(cid:10)(cid:9)(cid:8)
+
+(cid:30)(cid:7)(cid:11)(cid:9)(cid:10)(cid:11)(cid:13)(cid:31)(cid:2)(cid:28)(cid:7)(cid:8)(cid:35)(cid:14)(cid:14)(cid:11)(cid:31)(cid:5)(cid:3)(cid:31)(cid:15)(cid:3)(cid:8)
+
+The E-reward survey (2005) highlights a number of conditions for success in performance appraisal, showing that simplification and the use of competencies are among the most common measures applied to improve existing systems. Further conditions for success stem from these, for example, a simplification of systems can be supported by establishing more regular review meetings but to ensure these meetings are valuable and provide a forum for quality discussion managers need to be capable of conducting useful appraisals and be committed to the process. It could be argued this capability and commitment should be driven by the senior leadership. The senior team should also ensure that performance management is aligned with the corporate strategy, so that individuals understand how what they do contributes to the overall goals of the organisation.
+
+In parallel to this, is the need to integrate the performance management process with the culture of an organisation and equally tailor the process to the varying needs of different employees. One way organisations are attempting to engage employees with the performance management process is to use technology to make the process more enjoyable and accessible. All of these elements require co- ordination and the process needs to be monitored to ensure it is capable of responding to changing business circumstances. In the following section we consider each of these conditions for success in more detail.
+
+(cid:41)(cid:37)(cid:27) (cid:17)(cid:5)(cid:13)(cid:14)(cid:15)(cid:5)(cid:9)(cid:5)(cid:28)(cid:31)(cid:4)(cid:5)(cid:10)(cid:2)(cid:8)
+
+As described earlier, performance appraisal within organisations can attempt to fulfil many different purposes. Whilst there has been greater use of input measures, such as competencies (Armstrong and Baron, 1998) and more adoption of personal development, there is still more progress to be made with respect to process simplification. The CIPD’s 2005 survey of performance management found that over a quarter of respondents thought performance management

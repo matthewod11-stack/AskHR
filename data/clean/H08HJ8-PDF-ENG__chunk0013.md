@@ -1,0 +1,1 @@
+## HBR / Digital Article / When Your Manager Is Ineffective — and You Feel Stuck

@@ -1,0 +1,7 @@
+# A “PROFESSIONAL” JOURNALWITHIN APA
+
+When the new APA was formed in 1946, a new “profes- sional” journal was established, the American Psychologist. Initially, many articles on professional training and profes- sional job opportunities were published in the AP. After 10 years, the AP was serving a broader associationwide role, and the statement about “the professional journal” of psy- chology was quietly removed in 1957.
+
+It would be 12 more years before practitioners got back a “professional” journal from the APA. In 1966, Donald K. Freedheim was asked by George W. Albee, who was then president of the Division of Clinical Psychology (12), to edit the newsletter of the division, which was a mimeographed publication. A magazine-like format, with a new logo, was developed. The format lent itself to having pictures, which enhanced the readability of the publication, but also helped to identify authors at conventions. With this new professional- looking publication, the editor invited contributions from members of other service divisions (e.g., school, indus- trial, counseling), as they were facing similar issues of standards of practice, training, and licensing that were of concern to the clinical members. Submissions from across the spectrum of professional fields in psychology grew, and there were clearly important issues that all the spe- cialties shared.
+
+The APA had a ﬁne stable of scientiﬁc journals at the time but no publication that was appropriate for the sorts of

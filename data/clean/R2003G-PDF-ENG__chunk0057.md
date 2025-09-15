@@ -1,0 +1,1 @@
+## Manages a department, such as strategy implementation or communications

@@ -1,0 +1,3 @@
+# The Kaleidoscope Career
+
+In response to changing family structures and the prevalence of dual career households, career devel- opment researchers introduced new career concepts in the mid-2000s that emphasized the influence of nonwork roles on career management decisions. The kaleidoscope career concept emphasizes that employees’ career patterns shift by continuously considering the impact of work and nonwork

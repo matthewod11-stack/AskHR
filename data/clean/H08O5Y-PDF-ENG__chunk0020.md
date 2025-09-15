@@ -1,0 +1,1 @@
+## Some roles share common terminology across sectors—think employee

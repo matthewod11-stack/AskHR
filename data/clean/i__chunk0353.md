@@ -1,0 +1,1 @@
+## sns.countplot(data = category_data, x = column)

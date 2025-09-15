@@ -1,0 +1,11 @@
+# HBR / Digital Article / Watch Out for These 3 Gender Biases in Performance Reviews
+
+other employees belong to the in-group. At performance-review time,
+
+reviewers were also asked to recall one thing they had in common
+
+with the person they were about to review. We found that this
+
+simple intervention, which meant that reviews began from a point of
+
+commonality, decreased the gender discrimination in the company’s

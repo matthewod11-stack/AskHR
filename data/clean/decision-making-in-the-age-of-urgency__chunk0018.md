@@ -1,0 +1,3 @@
+## The potential costs of ineffective decision making: A thought experiment
+
+Ineffective decision making has significant implications for company productivity. On average, respondents spend 37 percent of their time making decisions, and more than half of this time was thought to be spent ineffectively. For managers at an average Fortune 500 company, this could trans- late into more than 530,000 days of lost

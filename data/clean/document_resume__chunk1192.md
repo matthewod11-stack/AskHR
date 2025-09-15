@@ -1,0 +1,3 @@
+# 5 Exceptional
+
+Serves as a resource person or exhibits leadership in developing or refining evaluation procedures. Attends workshops and con- ducts research related to student evaluations of instructors. In addition to the administration's quarterly evaluations, administers alternative forms of evaluations for more personal and specific feedback. Thoroughly reviews strengths and weaknesses as viewed by students.

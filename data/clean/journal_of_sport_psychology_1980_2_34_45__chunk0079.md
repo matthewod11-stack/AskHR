@@ -1,0 +1,1 @@
+# Barrow, J.C. The variables of leadership: A review and conceptual framework. Academy

@@ -1,0 +1,1 @@
+## HBR / Digital Article / How to Sync Your Budget with a Strategic Plan

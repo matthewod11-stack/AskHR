@@ -1,0 +1,3 @@
+# managerial
+
+to distributed

@@ -1,0 +1,1 @@
+# Dikmen, A. A. (1995). Relatiohsnip between Work Satisfaction and Life Satisfaction. Journal

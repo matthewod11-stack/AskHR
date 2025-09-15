@@ -1,0 +1,3 @@
+# Employment Interviews
+
+Undoubtedly, the most commonly used method to select employees is the employment interview. In fact, if you think back to all of the part-time and sum- mer jobs to which you applied, most of those jobs were obtained after you went through an interview process. You might even remember the sweaty palms that went along with the interview. In all likelihood, the interviews you have been through could be labeled “traditional” or “unstructured” and must be distinguished fro m the structured interviews that will be discussed in this chapter.

@@ -1,0 +1,1 @@
+## métrica individual, também tem grande potencial para ser preditor de resultados

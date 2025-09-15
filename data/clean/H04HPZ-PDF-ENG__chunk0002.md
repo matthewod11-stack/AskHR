@@ -1,0 +1,5 @@
+# HBR / Digital Article / How HR and Judges Made It Almost Impossible for Victims of Se…
+
+How HR and Judges Made It Almost Impossible for Victims of Sexual Harassment to Win in Court
+
+Having a policy is often enough to avoid liability, even if it isn’t effective. by Lauren B. Edelman

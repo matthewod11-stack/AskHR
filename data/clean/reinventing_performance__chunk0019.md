@@ -1,0 +1,9 @@
+## THE BIG IDEA REINVENTING PERFORMANCE MANAGEMENT
+
+of a team member (in a 360-degree or an upward- feedback survey, for example), we found that we will need to ask only the immediate team leader— but, critically, to ask a different kind of question. People may rate other people’s skills inconsistently, but they are highly consistent when rating their own feelings and intentions. To see performance at the individual level, then, we will ask team leaders not about the skills of each team member but about their own future actions with respect to that person.
+
+In the end, it’s not the particular number we assign to a person that’s the problem; rather, it’s the fact that there is a single number.
+
+At the end of every project (or once every quarter for long-term projects) we will ask team leaders to respond to four future- focused statements about each team member. We’ve refined the wording of these statements through successive tests, and we know that at Deloitte they clearly highlight differences among indi- viduals and reliably measure performance. Here are the four: 1. Given what I know of this person’s performance, and if it were my money, I would award this person the highest possible compensation increase and bo- nus [measures overall performance and unique value to the organization on a five-point scale from “strongly agree” to “strongly disagree”]. 2. Given what I know of this person’s per- formance, I would always want him or her on my team [measures ability to work well with others on the same five-point scale]. 3. This person is at risk for low perfor- mance [identifies problems that might harm the customer or the team on a yes- or-no basis].
+
+46  Harvard Business Review April 2015

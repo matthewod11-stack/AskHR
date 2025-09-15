@@ -1,0 +1,1 @@
+## CIT Categories and Frequencies for Excellent and Poor Resident Assistants

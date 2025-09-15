@@ -1,0 +1,1 @@
+# Stevens, J. (1996). Applied multivariate statistics for the social sciences. Mahwah, NJ:

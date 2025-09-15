@@ -1,0 +1,3 @@
+# Sample Size
+
+40

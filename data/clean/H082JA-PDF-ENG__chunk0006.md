@@ -1,0 +1,1 @@
+# David Malan/Getty Images

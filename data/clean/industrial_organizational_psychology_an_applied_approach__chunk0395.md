@@ -1,0 +1,1 @@
+# Trade Magazines HR Magazine Personnel

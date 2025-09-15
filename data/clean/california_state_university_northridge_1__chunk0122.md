@@ -1,0 +1,1 @@
+# Model Employment Termination Act

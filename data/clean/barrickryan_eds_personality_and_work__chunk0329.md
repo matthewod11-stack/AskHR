@@ -1,0 +1,5 @@
+# Proactive Cognitive Processes
+
+Judge and Ilies (2002) conducted a meta-analysis of the relation- ship between the Big Five and the proactive motivation constructs of expectancy motivation, self-efﬁcacy, and goal setting. Studies measuring expectancy generally asked respondents to indicate the extent to which exerting effort in a particular direction would re- sult in a speciﬁc outcome. Neuroticism and Conscientiousness were most highly correlated with expectancy motivation. Neuroti- cism and Extraversion were most strongly related to self-efﬁcacy, with Conscientiousness and Openness to Experience also display- ing nonzero correlations.
+
+The goal-setting variables measured in studies included in Judge and Ilies (2002) generally measured goal content (choices of goal level or goal difﬁculty). All the Big Five traits had nonzero rela- tionships with goal content, with Neuroticism, Agreeableness, and

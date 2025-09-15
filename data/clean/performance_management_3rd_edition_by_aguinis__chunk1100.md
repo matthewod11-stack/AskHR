@@ -1,0 +1,1 @@
+## Chapter 6 • Gathering Performance Information

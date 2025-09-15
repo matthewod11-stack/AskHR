@@ -1,0 +1,1 @@
+## Millon Clinical Multiaxial Inventory (MCMI), 285 Mind:

@@ -1,0 +1,3 @@
+# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
+
+experience to ﬁll in the gaps. For example, Procter & Gamble developed

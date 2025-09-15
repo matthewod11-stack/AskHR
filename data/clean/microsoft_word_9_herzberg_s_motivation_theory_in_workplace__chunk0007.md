@@ -1,0 +1,7 @@
+# Introduction
+
+Employee motivation is a main factor of organizational performance and employee satisfaction and retention. In fact, few organizations have made job satisfaction as a top priority, because they have not understood the amazing opportunity they have in front of them. Undoubtedly satisfied employees tend to be more creative, productive, and committed to their employers. Recent researches also have shown that there is connection between staff satisfaction and staff efficiency. Herzberg’s two-factor theory of motivation specializes in which factors are relevant for motivating employees. The theory was founded on research carried out in the 1960’s. Herzberg’s motivation-hygiene theory (also known as Herzberg’s two-factor theory) states that certain factors in workplace cause job satisfaction while a separate set of factors cause dissatisfaction, all of which act independently of each other.
+
+In 1959, Herzberg, Mausner, and Snyderman published the two-factor model of work motivation and developed the motivation-hygiene theory, which was influenced by Maslow’s hierarchy of needs (Jones, 2011). Herzberg created an example of two major factors influencing people’s attitudes towards work. Initially Herzberg and his colleagues developed a theory that satisfaction and dissatisfaction with a job were affected by two different factors and due to this, satisfaction and dissatisfaction could not be reliably measured on the same
+
+Giannis Peramatzis, BSC in economics, Master’s Program in Organizational Psychology, The American College of Greece,

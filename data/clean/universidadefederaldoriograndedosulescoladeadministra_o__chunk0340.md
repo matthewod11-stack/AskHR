@@ -1,0 +1,1 @@
+## d) não oferece a garantia de que a maioria das pessoas devolvam-no

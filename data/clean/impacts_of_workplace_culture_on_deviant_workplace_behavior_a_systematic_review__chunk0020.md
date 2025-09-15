@@ -1,0 +1,1 @@
+# Scopus database (n = 192)

@@ -1,0 +1,1 @@
+## Organizational Climate and Culture Benjamin Schneider, Editor

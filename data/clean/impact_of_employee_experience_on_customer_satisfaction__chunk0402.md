@@ -1,0 +1,1 @@
+# LI – Leadership index

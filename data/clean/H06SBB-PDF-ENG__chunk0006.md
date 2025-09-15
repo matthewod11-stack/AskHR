@@ -1,0 +1,3 @@
+# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
+
+- How design thinking can help us learn the most from our current

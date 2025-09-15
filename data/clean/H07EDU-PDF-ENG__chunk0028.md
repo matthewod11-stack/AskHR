@@ -1,0 +1,1 @@
+## HBR / Digital Article / What Companies Still Get Wrong About Layoffs

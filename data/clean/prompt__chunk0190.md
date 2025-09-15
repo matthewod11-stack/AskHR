@@ -1,0 +1,1 @@
+## Table 7. An example of contextual prompting

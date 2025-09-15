@@ -1,0 +1,1 @@
+## Thorndike, E. L. (1898). Animal intelligence. Psychological Review

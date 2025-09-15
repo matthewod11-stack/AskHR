@@ -1,0 +1,1 @@
+## HBR / Digital Article / When Your Vacation Wasn’t Exactly Relaxing

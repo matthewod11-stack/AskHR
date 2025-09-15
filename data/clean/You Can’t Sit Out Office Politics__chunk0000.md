@@ -1,0 +1,3 @@
+# You Can’t Sit Out Office Politics
+
+as an executive across thecorporate, nonprofit, and public sectors. Throughout these years,I wore my refusal to engage in office politics as a badge of honor.To anyone who would listen (and perhaps even a few whowouldn’t), I said: “I really don’t have the stomach for all of thatstuff. Politics are dreadful, dangerous, and unnecessary, and I’msimply too straightforward for all of the subterfuge they require. I

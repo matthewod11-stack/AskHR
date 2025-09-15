@@ -1,0 +1,1 @@
+## Ladd,G.T.(1888).Elementsofphysiologicalpsychology.NewYork:

@@ -1,0 +1,1 @@
+Revisiting equity theory in the global virtual teams

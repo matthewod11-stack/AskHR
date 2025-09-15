@@ -1,0 +1,15 @@
+# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
+
+unless, of course, you are competing for status with your neighbors
+
+or classmates. In business, the ideal solution usually needs to be
+
+competitively advantageous by being robust to competitors’ likely
+
+responses and hard for others to imitate. Using the same data and
+
+algorithms your competitors have access to, to solve the same problems
+
+they face, will not reveal unique or superior opportunities. Rather,
+
+it is tantamount to commoditizing one’s business by using a generic

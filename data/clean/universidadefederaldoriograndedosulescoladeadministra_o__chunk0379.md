@@ -1,0 +1,1 @@
+# recorrências muito espaçadas, dificultava o comparativo histórico além de impedir a

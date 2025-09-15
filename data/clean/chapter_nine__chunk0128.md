@@ -1,0 +1,1 @@
+# McCormack, B., McCance, T. (2010) Person-Centred Nursing: Theory and Practice. Chichester: John

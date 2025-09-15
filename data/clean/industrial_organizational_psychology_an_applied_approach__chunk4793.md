@@ -1,0 +1,1 @@
+## Scale, 587 Organizational culture, 522–527

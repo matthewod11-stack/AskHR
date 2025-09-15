@@ -1,0 +1,1 @@
+# HBR / Digital Article / Research: Executives Who Used Gen AI Made Worse Predictions

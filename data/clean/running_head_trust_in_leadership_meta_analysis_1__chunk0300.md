@@ -1,0 +1,1 @@
+## Walumbwa, Avolio, Gardner, Wernsing & Peterson (2008)

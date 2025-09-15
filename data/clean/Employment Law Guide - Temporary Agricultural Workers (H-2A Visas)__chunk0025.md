@@ -1,0 +1,1 @@
+## agricultural labor or services of a temporary or seasonal nature.

@@ -1,0 +1,1 @@
+## levels of the emotional exhaustion component of burnout (Gibson et al. 2009).

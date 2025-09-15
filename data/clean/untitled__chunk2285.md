@@ -1,0 +1,1 @@
+## Lockhart v. McCree, 106 S. Ct. 1758 (1986).

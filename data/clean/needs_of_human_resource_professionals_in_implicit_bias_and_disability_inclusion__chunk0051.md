@@ -1,0 +1,3 @@
+# Bezyak et al.
+
+of disability inclusion in the workplace.” Participants also indicated: “It’s important to have equity training, diversity, and inclusion training … We can celebrate and promote success stories as a strategy to help combat stereotypes.” Participants further reported the need to communicate: “Research on disability employment outcomes, benefits of hiring people with disabilities, and the effectiveness of disability inclusion policies.”

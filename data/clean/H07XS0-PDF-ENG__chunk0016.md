@@ -1,0 +1,1 @@
+## Global Coaching Study, in 2022, coach practitioners on average spent

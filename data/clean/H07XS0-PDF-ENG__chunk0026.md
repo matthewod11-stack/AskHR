@@ -1,0 +1,3 @@
+# PN
+
+Priya Nalkur, Ed.D. is the President of the RoundTable Institute where she leads a global group of coaches and facilitators to help companies build more eﬀective leaders, teams, and workplaces. She is a professional speaker, coach and facilitator and has taught at the Harvard Graduate School of Education and the Heller School for Social Policy and has several courses on Udemy for Business. She is the author of Stumbling Towards Inclusion: Finding Grace in Imperfect Leadership.

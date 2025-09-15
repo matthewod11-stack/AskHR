@@ -1,0 +1,1 @@
+# Initial Sample n = 601

@@ -1,0 +1,3 @@
+# FRED C. LUNENBURG _____________________________________________________________________________________3
+
+Specific goals (often quantified) let organization members know what to reach for and allow them to measure their own progress. Research indicates that specific goals help bring about other desirable organizational goals, such as reducing absenteeism, tardiness, and turnover (Locke & Latham, 2002).

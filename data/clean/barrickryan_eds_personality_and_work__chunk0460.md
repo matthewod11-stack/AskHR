@@ -1,0 +1,5 @@
+## Connecting Dispositions to the Emotion Process
+
+The emotion processes just discussed suggest that there are several places in which dispositions may inﬂuence emotional experiences and their consequences (see Figure 5.4). The environment that one creates, the appraisal processes, the emotional episodes, and the behavioral and attitudinal reactions that one has when emo- tions are experienced can all be inﬂuenced in different ways.
+
+Consistent with a general process approach we are advocating, Larsen (2000c; Larsen, Diener, & Lucas, 2002) has proposed a simple stimulus-organism-response (S-O-R) model for under- standing the role of personality dispositions in emotion processes. Larsen argues that dispositions may inﬂuence the S-O link in terms of processes related to stimulus sensitivity. He then suggests that dispositions may inﬂuence the O-R link by connecting with processes related to emotional response regulation. Larsen et al. (2002) present a full discussion of dispositional inﬂuences on both links. Our discussion is very much in keeping with Larsen’s model, with issues of cognitive appraisal added to the process elements.

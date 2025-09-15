@@ -1,0 +1,3 @@
+# Literature reviews
+
+that may hold more relevance for the nursing profession today due to the rapidly changing nature of nursing over recent years. Where possible, the search was globally limited to research (e.g. within CINAHL) and manually where electronic search limits were not possible. Speciﬁc criteria for inclusion and exclusion (Table 1) were also applied to ensure fulﬁlment of the aim of this review and manual scanning of abstracts was undertaken for the purpose of checking article suitability. While it was not possible to retrieve a small number of papers, the application of the inclusion/exclusion criteria resulted in nine research articles being selected. These articles are summarised in Table 2.

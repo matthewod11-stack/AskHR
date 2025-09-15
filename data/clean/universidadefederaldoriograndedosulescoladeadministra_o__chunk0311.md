@@ -1,0 +1,1 @@
+## redação deste trabalho, o que aconteceu inúmeras vezes.

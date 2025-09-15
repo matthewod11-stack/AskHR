@@ -1,0 +1,3 @@
+## 398 • HUMAN RESOURCE MANAGEMENT, Winter 2000
+
+the effects of supervisor and shop steward behavior on grievance procedure usage. From this research, it is relatively clear that younger, male, more educated, and more skilled employees are most likely to file griev- ances; considerate or democratic supervision is associated with lower grievance filing rates; and employee complaints to shop stewards are a harbinger of formal grievance filing.3

@@ -1,0 +1,3 @@
+# HBR / Digital Article / When You’re Suddenly Managing More People—and Feeling Buri…
+
+Simpliﬁcation at this level may seem small, but it sends a powerful

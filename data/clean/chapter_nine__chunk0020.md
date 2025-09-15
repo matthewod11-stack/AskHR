@@ -1,0 +1,1 @@
+# Cultural change Effective culture

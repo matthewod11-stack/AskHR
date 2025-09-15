@@ -1,0 +1,5 @@
+# A Social Psychology of Social Psychology
+
+Not quite mirroring one another, social psychology’s troubles around its individual–social world relation were becoming as fraught as the internal–external divide constituting the imag- ined interior of its subject. Julian Henriques (1984/1998), for one, argues that “for psychology the belief in rationality and in perfect representation come together in the idea of scien- tiﬁc practice” such that with an individual subject prone to errors “the path is set for empiricist science to intervene with methodologies which can constrain the individual from the non-rational as, for example, Allport has social psychol- ogy protecting individuals against the lure of communist misinformation and society against subversion” (p. 80). Other analyses had begun to show in different ways prob- lems with social psychology’s individual–social world and person–situation dualisms. With these problems came the appearance of splinters in social psychology’s positivist de- sires for knowledge outside history, culture, and time. Social
+
+237

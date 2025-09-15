@@ -1,0 +1,1 @@
+# A sworn statement by a successor entity accepting all liabilities of predecessor entity

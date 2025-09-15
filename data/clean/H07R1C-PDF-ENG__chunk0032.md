@@ -1,0 +1,1 @@
+## time management, delegation, EQ, adaptability, conﬂict resolution, and

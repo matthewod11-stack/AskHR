@@ -1,0 +1,1 @@
+## new experiences, a sense of curiosity and inquiry, and a willingness to

@@ -1,0 +1,1 @@
+# Amankwah-Amoah, J. (2016). An integrative process model of organisational failure. Journal of

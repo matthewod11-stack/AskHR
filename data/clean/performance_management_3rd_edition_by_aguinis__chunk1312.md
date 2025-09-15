@@ -1,0 +1,13 @@
+# the system:
+
+- Number of individuals evaluated. One of the most basic measures is to assess the number of employees who are actually participating in the system. If performance evaluations have not been completed for some employees, we need to find out who they are and why a performance review has not been completed.
+
+- Distribution of performance ratings. An indicator of quality of the performance assessments is whether all or most scores are too high, too low, or clumped around the center of the distribution. This may indicate intentional errors such as leniency, severity, and central tendency. Distributions of performance ratings can be broken down by unit and supervisor to determine whether any trends exist regarding rating distortion and whether these distortions are localized in particular units. Note that there may be exceptional units in which most employees are outstand- ing performers and units in which most employees are poor performers. This is the exception to the rule, however, and such distributions usually indicate inten- tional errors on the part of raters.
+
+- Quality of information. Another indicator of quality of the performance assess- ments is the quality of the information provided in the open-ended sections of the forms. For example, how much did the rater write? What is the relevance of the examples provided?
+
+- Quality of follow-up actions. A good indicator of the quality of the system is whether it leads to important follow-up actions in terms of development activities or improved processes. For example, to what extent do follow-up actions involve exclusively the supervisor as opposed to the employee? If this is the case, then the system may not be working as intended because it may be an indicator that employees are not sufficiently involved.31
+
+- Quality of performance discussion meeting. A confidential survey can be distributed to all employees on a regular basis to gather information about how the supervisor is managing the performance discussion meetings. For example, is the feedback useful? Has the supervisor made resources available so that the employee can ac- complish the developmental plan objectives? How relevant was the performance review discussion to one’s job? To what degree have developmental objectives and plans been discussed?32
+
+- System satisfaction. A confidential survey could also be distributed to assess the perceptions of the system’s users, both raters and ratees. This survey can include questions about satisfaction with equity, usefulness, and accuracy.

@@ -1,0 +1,1 @@
+## importante para o ambiente organizacional, uma vez que é preditivo de boa

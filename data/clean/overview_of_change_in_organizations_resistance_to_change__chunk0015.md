@@ -1,0 +1,1 @@
+## Table no. 1 Techniques for Reducing Resistance to Change

@@ -1,0 +1,3 @@
+# HBR / Digital Article / Surveilling Employees Erodes Trust — and Puts Managers in a B…
+
+Additionally, since employee monitoring can empower employees with

@@ -1,0 +1,3 @@
+## Courses: Catalog Studies and Surveys of the Undergraduate Curriculum
+
+Psychologists have been conscientious in mapping the land- scape of their discipline’s undergraduate courses over the past 100 years. In an APA committee report, Whipple (1910) described the teaching of psychology from 100 normal

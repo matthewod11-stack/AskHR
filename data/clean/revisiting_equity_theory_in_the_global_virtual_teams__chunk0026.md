@@ -1,0 +1,1 @@
+## Table 1. Distribution of equity groups Equity groups

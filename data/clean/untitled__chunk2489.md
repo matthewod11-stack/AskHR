@@ -1,0 +1,1 @@
+## Kinsey,A.J.(1953).Sexualbehaviorofhumanfemale.Philadelphia:

@@ -1,0 +1,3 @@
+# Limitations of the study
+
+The study faced some challenges such as some targeted respondents were reluctant to share others sensitive misinterpreted the research and refused to provide accurate information for fear of disclosure. However, by discussing the relevance of the study to the respondents it helped to provide the required information. The researcher presented an introduction letter that was obtained from the university to the Mukurwe-ini Wakulima Dairy management and this helped to avoid suspicion and enabled the targeted respondents to disclose much of the information sought by the study. The target group that the study focused on was quite busy carrying out their duties and

@@ -1,0 +1,1 @@
+## Figure 7.10 Example of a forcedchoice rating scale (bank teller)

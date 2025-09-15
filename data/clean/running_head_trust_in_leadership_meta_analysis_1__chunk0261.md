@@ -1,0 +1,1 @@
+# mediators for transformational and transactional leadership: A two-sample study. Journal

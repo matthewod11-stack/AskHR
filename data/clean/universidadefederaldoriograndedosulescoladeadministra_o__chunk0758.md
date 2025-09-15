@@ -1,0 +1,1 @@
+# de pesquisa e como as qualifica.

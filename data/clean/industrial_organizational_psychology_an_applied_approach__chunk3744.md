@@ -1,0 +1,1 @@
+## Reducing Stress at a Manufacturing Company

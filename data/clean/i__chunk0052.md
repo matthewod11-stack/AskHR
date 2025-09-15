@@ -1,0 +1,1 @@
+## Figure 2: Cost of Storage and data availability

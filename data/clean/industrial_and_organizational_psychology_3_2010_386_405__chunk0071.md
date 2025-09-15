@@ -1,0 +1,3 @@
+# Philosophical traditions
+
+JDM typically follows a normative, paradigmatic approach involving formal models, such an approach facilitates the cumulation of knowledge (e.g., Pfeffer, 1993). IOOB typically focuses on outcomes, and the selection of models is based on what appears most useful in each case. Such an approach facilitates the examination of a broader set of problems. The two philosophical approaches should be viewed as complementary.

@@ -1,0 +1,1 @@
+You have an important presentation due in two days. Afterspending hours writing and polishing it, you’re finally confidentthat it’s in great shape. You send the final slides to your boss,hoping for a simple sign-off. “Hi Erna,” you write, “I would love to

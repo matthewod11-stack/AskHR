@@ -1,0 +1,1 @@
+# penalties for each violation.

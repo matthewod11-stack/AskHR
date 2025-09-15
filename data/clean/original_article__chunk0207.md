@@ -1,0 +1,1 @@
+## Strategic Management Journal 13(S2): 163–182.

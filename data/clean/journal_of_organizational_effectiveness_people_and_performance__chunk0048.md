@@ -1,0 +1,19 @@
+# JOEPP 2,1
+
+12
+
+engagement can be validly distinguished from related but distinct attitudes such as job satisfaction, job involvement, and commitment.
+
+The job demands-resources (JD-R) model (Bakker and Demerouti, 2007, 2008, 2014) is the most widely cited theoretical model of work engagement. JD-R theory delineates how job resources (e.g. autonomy, feedback, supervisor support) and personal resources (e.g. self-efficacy, optimism, resilience) directly influence work engagement, which in turn influences important downstream outcomes such as in-role performance, extra-role performance, creativity, and financial returns. Beyond performance-related outcomes, Bakker and Demerouti (2014) noted that JD-R research has also been used to explain important individual well-being outcomes such as burnout, organizational commitment, work enjoyment, connectedness, job satisfaction, and sickness absenteeism. Similarly, Robertson and Cooper (2010) explicitly recognized the important well-being, positive psychological, and eudaimonic or “sense of purpose” dimensions of engagement in a construct they referred to as “full engagement”. More generally, intrinsic motivation is fundamental to an understanding of employee engagement (Bakker and Demerouti, 2014). As implied by the use of the word “job” and the corresponding “J” in JD-R, researchers have generally focused on identifying the job level and individual level demands and resources that influence engagement. There has been less research attention devoted to the influence of contextual-level variables such as clarity of organizational purpose and vision, HRM systems, and organizational climate on engagement. Halbesleben’s (2010) meta-analysis, for example, showed that organizational climate has positive links with dimensions of engagement. Alfes et al. (2013) showed a positive association between perceived HRM practices and employee engagement in two independent samples. Overall, however, only a limited number of studies have linked such organizational contextual level variables with engagement and more research is required. Figure 1 shows how organizational level variables such as HR practices and organizational climate can be integrated within an elaborated JD-R engagement framework.
+
+Engagement and competitive advantage Consistent with the modelling in Figure 1, research evidence suggests that employee engagement can be a source of competitive advantage. Macey et al. (2009), for example, reported substantial differences between firms in the top quartile of average employee engagement from those in the bottom quartile with respect to return on assets, profitability, and market value. Consistent with the modelling in Figure 1, a number of meta-analyses and reviews have also demonstrated that engagement is positively associated with attitudinal, behavioural, and performance related outcomes (e.g. Christian et al., 2011; Demerouti and Cropanzano, 2010; Halbesleben, 2010; Mauno et al., 2010; Simpson, 2008). Although performance is a complex and multi-faceted construct (see Demerouti and Cropanzano, 2010), consistent with Griffin et al. (2007), Figure 1 acknowledges that performance can usefully be examined at the level of the individual, the unit or team, and the organization, and by distinguishing between task, adaptive, and proactive performance at each of the levels. In support of the modelling, meta- analyses (e.g. Christian et al., 2011; Rich et al., 2010) have shown that engagement is associated with individual employee task and extra-role performance. Researchers have also recently focused on team level engagement and its relevance to competitive advantage (Albrecht, 2014; Costa et al., 2014; Richardson and West, 2010). Xanthopoulou et al. (2009a) at the organizational level demonstrated a positive relationship between work engagement and daily financial returns in the fast food sector. Our second
+
+) T P (
+
+5 1 0 2
+
+h c r a
+
+M 9 0
+
+0 0 : 8 0

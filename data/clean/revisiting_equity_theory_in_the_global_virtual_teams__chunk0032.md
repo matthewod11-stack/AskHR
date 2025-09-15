@@ -1,0 +1,1 @@
+## Table 3. Results of the multiple regression model

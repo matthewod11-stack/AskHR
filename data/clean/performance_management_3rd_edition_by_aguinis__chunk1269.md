@@ -1,0 +1,1 @@
+# TABLE 7.1 Considerations to Minimize the

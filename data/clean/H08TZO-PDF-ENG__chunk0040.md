@@ -1,0 +1,1 @@
+## goals. Structure teams for a generational mix. Make mentorship

@@ -1,0 +1,1 @@
+# Succession Planning Best Practices for Organizations: A Systematic Literature Review Approach

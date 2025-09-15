@@ -1,0 +1,5 @@
+## FORMALIZATION OF THE FIELD WITHIN PSYCHOLOGY
+
+Historically, psychologists were active participants in the development of psychosomatic medicine. In fact, a number of presidents of theAmerican Psychosomatic Society have been psychologists, including Margaret Thaler Singer (1972, the ﬁrst PhD and the ﬁrst woman to be president), Robert Ader (1979),C.DavidJenkins(1983),BernardEngel(1985),Karen Matthews (1990), James Blumenthal (1995), and Margaret Chesney (1997).
+
+Perhaps the ﬁrst action of organized psychology in relation to organized medicine was the appointment of a committee in 1911 that examined the teaching of psychology in medical schools (Franz, 1913). This early focus was designed to pro- mote psychological competence in medical practice through the instruction of medical students; thus, psychology began its role in the health care system as a teacher of medical stu- dents. The growth of health-service-provider psychologists came later.

@@ -1,0 +1,1 @@
+# TIQ SC Potency

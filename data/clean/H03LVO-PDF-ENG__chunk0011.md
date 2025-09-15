@@ -1,0 +1,1 @@
+## experienced much faster patent growth between 1940 and 2000 than

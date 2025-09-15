@@ -1,0 +1,5 @@
+# Performance Appraisal
+
+study, but those weighted results correlated roughly at the zero le% el with the other weights. Because of the nature of canonical correlation, that particular result was expected by the researchers.
+
+Decisions made on the weighted, summed; or otherwise statistically or conceptu- ally treated data must be made by those who designed the performance appraisal system. Standard setting and cut-scores, numbers of items at paracular levels, and levels of performance required must be determined in terms of local needs. One caution that all using performance appraisal instruments must heed, however, is that many of the traits, behaviors, attributes, aptitudes, etc. that are being appraised are not parallel either in importance or in ease of measurement or obsery anon. These consider- ations must be attended to in any performance appraisal approach.

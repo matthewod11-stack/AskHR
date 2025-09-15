@@ -1,0 +1,1 @@
+## Brogden-Cronbach- Gleser utility formula, 221–223

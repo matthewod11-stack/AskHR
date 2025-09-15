@@ -1,0 +1,5 @@
+## THE MULTILEVEL ROLE OF PERSONALITY IN TEAMS 195
+
+ported by Barrick et al. (1998), who found the mean level of Con- scientiousness to correlate with team performance. However, the evidence also supports a dominance effect for Conscientiousness. Neuman and Wright (1999) found the inclusion of a single team member low on Conscientiousness to harm measures of team ac- curacy and work completion. Conscientiousness is thus likely to ag- gregate by both additive and dominance effects, with the team’s tasks potentially playing an important role. Tasks that are not highly interdependent and allow team members to compensate for the shortcomings of individuals should result in more of an addi- tive effect.
+
+Emotional Stability at the team level also seems to operate with additive and dominant effects. Barrick et al. (1998) found that the mean and minimum levels of Emotional Stability relate to a vari- ety of team process measures, including cohesion, conﬂict, ﬂexi- bility, communication, and workload sharing. The inclusion of even a single member low on Emotional Stability thus seems to have a harmful impact on the internal dynamics of a team.

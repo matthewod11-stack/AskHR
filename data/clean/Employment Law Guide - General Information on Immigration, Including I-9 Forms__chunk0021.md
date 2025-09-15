@@ -1,0 +1,1 @@
+# Under the INA, employers may hire only persons who may legally work in the United States (i.e., citizens and nationals of the U.S.)

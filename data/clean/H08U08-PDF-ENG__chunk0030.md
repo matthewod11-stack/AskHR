@@ -1,0 +1,1 @@
+## Clasificación del riesgo (bajo, medio o alto)

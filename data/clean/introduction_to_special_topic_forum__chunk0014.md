@@ -1,0 +1,7 @@
+# Academy of Management Review
+
+These changes can have a profound influence on how companies attempt to attract, retain, and motivate their employees. Yet we lack new mod- els capable of guiding managerial behavior in this new era of work. As Cappelli notes, “Most observers of the corporate world believe that the traditional relationship between employer and employee is gone, but there is little understand- ing of why it ended and even less about what is replacing that relationship” (1999: 1). We believe that the time has come to redirect our intellec- tual energies into discovering new models—and research toward new models—of work motiva- tion and job performance commensurate with this new era.
+
+tions for developing more complex theories of work motivation that are more valid, more com- plete, broader in scope, and, by implication, more useful to practitioners than existing theories.
+
+In the second, Yitzhak Fried and Linda Haynes Slowik examine ways in which time factors can influence goal-setting processes and job perfor- mance in work organizations. They argue that the addition of time as a key variable in goal- setting theory adds to its dynamism and validity in helping explain employee behavior in in- creasingly complex, continually evolving work environments.

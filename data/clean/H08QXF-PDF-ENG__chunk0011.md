@@ -1,0 +1,3 @@
+# HBR / Digital Article / Research: Women’s Complaints of Workplace Abuse Get Ignore…
+
+Separating intake from evaluation helps ensure decisions are based on

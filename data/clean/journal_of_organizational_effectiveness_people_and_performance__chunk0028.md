@@ -1,0 +1,1 @@
+## State Personal Resources Meaning, Safety, Availability

@@ -1,0 +1,5 @@
+# An Operant Orientation
+
+Another extension of learning theory that emerged during this era was operant learning theory. This approach was de- veloped by B. F. Skinner (1904–1990) at Harvard Univer- sity. In contrast to Hullian theory, with its drive-centered focus, Skinner’s theory emphasized contingent reinforce- ment of behavior as the central learning mechanism. Although Skinner was not a developmental theorist, his
+
+thinking had a profound impact on developmental psychol- ogy. Such inﬂuential developmental researchers as Bijou, Baer, and Gewirtz were all inﬂuenced by Skinner (Bijou & Baer, 1961; Gewirtz, 1969). The modern behavior modiﬁca- tion approach to the control and shaping of children’s be- havior in classrooms, homes, and institutional settings owes a direct debt to Skinner and his theory of operant learning.

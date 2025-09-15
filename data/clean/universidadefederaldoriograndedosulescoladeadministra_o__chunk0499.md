@@ -1,0 +1,1 @@
+## favorabilidade nesta questão (somente respostas

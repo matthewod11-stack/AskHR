@@ -1,0 +1,1 @@
+Patrick was shocked. He’d worked at his company for six yearsand had always received positive reviews. But everything changedwhen he got a new manager. Suddenly, he was getting negativefeedback left and right. He was told he was disorganized, bad at

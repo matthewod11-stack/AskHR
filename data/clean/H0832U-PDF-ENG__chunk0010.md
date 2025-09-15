@@ -1,0 +1,1 @@
+## key national/global events, trends, and social forces (e.g., economic

@@ -1,0 +1,1 @@
+# operating units within a single site of employment results in an employment loss as deﬁned by WARN regulations. A covered mass layoﬀ

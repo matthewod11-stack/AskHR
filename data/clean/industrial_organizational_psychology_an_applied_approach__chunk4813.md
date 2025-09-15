@@ -1,0 +1,1 @@
+## Physical proximity, 475 Physical Symptoms

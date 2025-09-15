@@ -1,0 +1,1 @@
+## Robinson, I. (2006). Human Resource Management in Organizations. London:

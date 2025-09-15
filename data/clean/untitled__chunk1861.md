@@ -1,0 +1,3 @@
+# Pavlov
+
+Pavlov provided one such typology. He theorized that behav- ior, both normal and pathological, is determined by the inter- action of three basic properties of the nervous system. These are the strength of the excitatory and inhibitory processes, the equilibrium of these processes, and their mobility. Pavlov ini- tially based the typology upon observations of dogs in his laboratory, but later extended it to humans.

@@ -1,0 +1,1 @@
+# ensure compliance with the Mine Act and related standards. Under these provisions, MSHA is authorized to propose the assessment of a civil

@@ -1,0 +1,1 @@
+# The INA applies to employers seeking to hire nonimmigrant aliens as workers in specialty occupations or as fashion models of

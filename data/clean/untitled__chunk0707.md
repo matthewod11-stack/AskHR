@@ -1,0 +1,5 @@
+## Behaviorism: The Golden Age of Learning Theory
+
+With a single exception, E. C. Tolman (see following), be- haviorism ﬁrmly grasped the second of the two choices possible within the Cartesian framework. They chose to treat humans and animals as Cartesian beast-machines whose be- havior could be fully explained in mechanistic causal terms without reference to mental states or consciousness. They thus dispensed with cognition altogether and studied proce- dural learning alone, examining how behavior is changed by exposure to physical stimuli and material rewards and
+
+punishments. Behaviorists divided on how to treat the stub- born fact of consciousness. Methodological behaviorists ad- mitted the existence of consciousness but said that its private, subjective nature excluded it from scientiﬁc study; they left it the arts to express, not explain, subjectivity. Metaphysical behaviorists had more imperial aims. They wanted to explain consciousness scientiﬁcally, ceding nothing to the humanities (Lashley, 1923).

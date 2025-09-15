@@ -1,0 +1,3 @@
+# Teller Activities 7 7 7 7 7 7 7 7 7 7
+
+Enrolls new members and opens and closes accounts Reconciles accounts Issues money orders and traveler’s checks Conducts history of accounts Processes and issues receipts for transactions Asks for identifi cation if person making transaction is not known Daily enters transaction totals onto a list sent to the bank Orders new or replacement checks for members Prints and issues checks Makes proper referrals

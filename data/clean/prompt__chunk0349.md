@@ -1,0 +1,1 @@
+# Check if the folder exists if not os.path.isdir(folder_name): print("Folder does not exist.") exit(1)

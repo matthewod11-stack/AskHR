@@ -1,0 +1,1 @@
+## submit backup every time a physician may access a patient’s record

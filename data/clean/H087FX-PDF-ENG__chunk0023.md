@@ -1,0 +1,1 @@
+## share some symptoms with long Covid — for example, post-concussion

@@ -1,0 +1,5 @@
+# J. W. MOWAT ET AL.
+
+formal coaching would create a felt obligation in employees (Haar & Spell, 2004), leading to reciprocity in the form of improved work-related attitudes and behaviours (S. Kim & Kuo, 2015; Tanskanen et al., 2019). While SET and LMX successfully predicted between- group differences in positive outcomes (i.e. meaningful work and OCBs), they did not account for the absence of difference in negative outcomes (i.e. turnover intentions and CWBs). This suggests the need to explore alternative theories that may explain why offers of formal coaching did not reduce negative work-related attitudes and behaviours.
+
+Psychological Reactance Theory (PRT) (Brehm, 1966) argues that individuals view themselves as autonomous agents, free to act as they choose. When this freedom is threatened, they tend to resist (Steindl et al., 2015). In our study, participants offered formal coaching may have viewed the implied obligation to reciprocate to be an unwel- come constraint on their autonomy, motivating them to resist by preserving their negative work-related attitudes and behaviours.

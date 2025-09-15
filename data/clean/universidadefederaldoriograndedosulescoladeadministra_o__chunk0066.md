@@ -1,0 +1,1 @@
+## A publicação deste trabalho representa também, em última instância, uma

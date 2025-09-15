@@ -1,0 +1,1 @@
+# Armstrong (2011), handbook of Human Resource Management Practice,11thed, KoganPage

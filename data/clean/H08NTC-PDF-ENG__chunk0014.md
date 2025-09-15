@@ -1,0 +1,3 @@
+# HBR / Digital Article / A Manager’s Guide to Supporting Employees Impacted by Natura…
+
+connectedness and create a sense of community and support during

@@ -1,0 +1,17 @@
+## Herzberg’s motivation hygiene theory.(cid:32)
+
+(cid:65)(cid:112)(cid:97)(cid:114)(cid:116)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:99)(cid:97)(cid:115)(cid:104)(cid:32)(cid:111)(cid:114)(cid:32)(cid:109)(cid:111)(cid:110)(cid:101)(cid:116)(cid:97)(cid:114)(cid:121)(cid:32)(cid:114)(cid:101)(cid:119)(cid:97)(cid:114)(cid:100)(cid:115)(cid:44)(cid:32)(cid:109)(cid:111)(cid:116)(cid:105)(cid:118)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:116)(cid:104)(cid:101)(cid:111)(cid:114)(cid:105)(cid:101)(cid:115)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:101)(cid:109)(cid:112)(cid:105)(cid:114)(cid:105)(cid:99)(cid:97)(cid:108)(cid:32)(cid:115)(cid:116)(cid:117)(cid:100)(cid:105)(cid:101)(cid:115)(cid:32)(cid:97)(cid:108)(cid:115)(cid:111)(cid:32)
+
+(cid:97)(cid:116)(cid:116)(cid:101)(cid:115)(cid:116)(cid:32)(cid:116)(cid:111)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:114)(cid:111)(cid:108)(cid:101)(cid:32)(cid:111)(cid:102)(cid:32)(cid:110)(cid:111)(cid:110)(cid:45)(cid:99)(cid:97)(cid:115)(cid:104)(cid:32)(cid:114)(cid:101)(cid:119)(cid:97)(cid:114)(cid:100)(cid:115)(cid:32)(cid:105)(cid:110)(cid:32)(cid:109)(cid:111)(cid:116)(cid:105)(cid:118)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:101)(cid:115)(cid:112)(cid:101)(cid:99)(cid:105)(cid:97)(cid:108)(cid:108)(cid:121)(cid:32)(cid:105)(cid:110)(cid:32)(cid:116)(cid:101)(cid:99)(cid:104)(cid:110)(cid:111)(cid:108)(cid:111)(cid:103)(cid:121)–(cid:98)(cid:97)(cid:115)(cid:101)(cid:100)(cid:44)(cid:32)(cid:104)(cid:105)(cid:103)(cid:104)(cid:32)(cid:112)(cid:97)(cid:121)(cid:105)(cid:110)(cid:103)(cid:32)
+
+(cid:106)(cid:111)(cid:98)(cid:115)(cid:46)(cid:32)(cid:66)(cid:114)(cid:111)(cid:119)(cid:110)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:65)(cid:114)(cid:109)(cid:115)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:32)(cid:40)(cid:49)(cid:57)(cid:57)(cid:57)(cid:41)(cid:32)(cid:114)(cid:101)(cid:112)(cid:111)(cid:114)(cid:116)(cid:101)(cid:100)(cid:32)(cid:116)(cid:104)(cid:97)(cid:116)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:110)(cid:111)(cid:110)(cid:45)(cid:102)(cid:105)(cid:110)(cid:97)(cid:110)(cid:99)(cid:105)(cid:97)(cid:108)(cid:32)(cid:115)(cid:99)(cid:104)(cid:101)(cid:109)(cid:101)(cid:115)(cid:32)(cid:105)(cid:110)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:115)(cid:117)(cid:114)(cid:118)(cid:101)(cid:121)(cid:32)(cid:119)(cid:101)(cid:114)(cid:101)(cid:32)
+
+(cid:32)
+
+(cid:76)(cid:105)(cid:99)(cid:101)(cid:110)(cid:115)(cid:101)(cid:100)(cid:32)(cid:117)(cid:110)(cid:100)(cid:101)(cid:114)(cid:32)(cid:67)(cid:114)(cid:101)(cid:97)(cid:116)(cid:105)(cid:118)(cid:101)(cid:32)(cid:67)(cid:111)(cid:109)(cid:109)(cid:111)(cid:110)
+
+(cid:32)
+
+(cid:32)
+
+(cid:80)(cid:97)(cid:103)(cid:101)(cid:32)(cid:54)(cid:54)(cid:53)(cid:32)

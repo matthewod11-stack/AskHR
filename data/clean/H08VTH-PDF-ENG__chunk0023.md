@@ -1,0 +1,3 @@
+# HBR / Digital Article / When You’re Suddenly Managing More People—and Feeling Buri…
+
+When you protect your energy and trust your teams, autonomy and

@@ -1,0 +1,1 @@
+## individual strengths and organizational goals.

@@ -1,0 +1,1 @@
+## la perspectiva, el contexto y las opciones que necesitan para tomar

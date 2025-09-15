@@ -1,0 +1,1 @@
+# variable of Entrepreneurial Orientation among Entrepreneurs and Managerial individuals in Tamil

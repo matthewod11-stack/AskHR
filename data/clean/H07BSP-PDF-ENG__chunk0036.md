@@ -1,0 +1,1 @@
+## Trond Aas is co-founder and CEO of Attensi.

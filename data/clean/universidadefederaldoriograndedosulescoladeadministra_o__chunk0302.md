@@ -1,0 +1,1 @@
+# o estudo com subjetividade.

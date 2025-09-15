@@ -1,0 +1,1 @@
+## Weiner, I. B. (1998). Principles of Rorschach interpretation.

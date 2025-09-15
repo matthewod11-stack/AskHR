@@ -1,0 +1,9 @@
+# Author Index 575
+
+Smith, C. S., 376, 386 Smith, H. H., 282, 300 Smith, J. M., 77 Smith, L., 8, 9, 23, 25, 124, 132, 443, 448 Smith, M. B., 75, 235, 246, 435, 448 Smith, M. L., 351, 355 Smith, R., 99, 108, 180, 181, 202, 229, 234, 239, 241, 246, 455, 462, 475,
+
+478, 535, 554 Smolensky, P., 129, 130, 132 Smothergill, D. W., 479 Smyer, M. A., 42, 45 Snook, S., 156 Snow, R. E., 128, 137, 143, 155 Snowden, L. R., 444, 446 Soffer, R. N., 225, 246 Sokal, M., 4, 13, 25, 28, 34, 45, 183, 202, 228, 246, 373, 378, 388, 389,
+
+540, 544, 551, 554
+
+Sokolov, E. M., 56, 65 Sontag, L. W., 208, 221 Soueif, M. I., 510, 531, 533 Spangler, G., 214, 219 Spanos, N., 325, 336 Spaulding, J., 440, 448 Spearly, J. L., 437, 446 Spearman, C., 107, 136, 141, 142, 145, 146, 147, 151, 152, 155, 158 Spence, J. T., 253, 264, 267 Spence, K., 75, 121, 122, 132 Spencer, H., 7, 8, 25, 334 Spencer, W. A., 56, 66 Sperry, R. W., 54, 61, 65, 75, 149, 155 Spiegler, B. J., 60, 65 Spielberger, C. D., 174, 438, 446, 457, 463 Spilich, G. J., 148, 153 Spinoza, B., 158, 175 Spitzer, R. L., 290, 291, 298, 301 Spivack, G., 436, 441, 448 Sporer, S. L., 406, 411 Sprague, R. L., 351, 355 Spreen, O., 293, 301 Sprowls, J. W., 225, 227, 246 Sprung, L., 539, 554 Squire, L., 60, 61, 65, 66, 118, 132, 247 Sroufe, L. A., 212, 216, 221 Stagner, R., 178, 186, 187, 202, 367, 387, 541, 554 Stam, H. J., 14, 25, 229, 246, 247 Staples, S. L., 455, 463 Star, S. L., 48, 65, 83, 223, 373 Starr, P., 468, 551, 554 Staub, E., 194, 202, 220 Steadman, H., 401, 407, 409, 411 Stedman, J. M., 297, 301 Steele, R., 225, 246, 439, 448 Steinberg, L., 214, 221 Steiner, I., 175, 236, 237, 240, 246 Stellar, E., 57, 58, 65, 216 Stelzner, S. P., 446 Stenberg, C., 212, 218 Stephens, W. R., 359, 365 Stern, D. N., 212, 221

@@ -1,0 +1,13 @@
+## Part I • Strategic and General Considerations
+
+Omega’s sales success. To make things more complicated, until recently there was no clear understanding of the role of the sales representatives and there were no formal sales processes in place. Sales representatives varied greatly in terms of their level of skill and knowledge; most put out little effort beyond taking orders, and they did not feel motivated to make addi- tional sales. Finally, franchises varied greatly regarding their management strategies and follow-up with Omega.
+
+Recently, understanding the need to improve the per- formance of sales representatives, Omega agreed to partially fund and support a training program for them. The network of franchise owners in turn agreed to work together to imple- ment a performance management system. As a first step in creating the performance management system, the franchise owners conducted a job analysis of the role of the sale repre- sentatives, wrote a job description, and distributed it to all sales representatives. The franchise owners also adopted a franchise-wide mission statement based primarily on the need to provide high-quality customer service. This mission state- ment was posted in all franchise offices, and each franchise owner spoke with his employees about the contribution made by individual sales on achieving their mission. As a second step, the managers set performance goals (i.e., sales quotas) for each employee. Then, all sales representatives attended extensive training sessions. The employees received feedback based on their performance in the training course and then were reminded once again of their sales quotas.
+
+discussions were not documented. This lack of feedback continued, and although sales quotas were being met for the first few months, franchise owners received complaints from customers about the low quality of customer service they were receiving. Subsequently, sales began to decline. Furthermore, many orders were often incorrect, forcing customers to return items to Omega.
+
+While the new performance management process was an improvement over no performance management (at least initially), the franchise owners were still far from having a system that included a smooth transition between each of the components of the performance management process. Based on Omega’s situation, please answer the following questions.
+
+- 1. Consider each of the links of the performance manage- ment process as shown in Figure 2.1: a. prerequisites : performance planning b. performance planning : performance execution c. performance execution : performance assessment d. performance assessment : performance review e. performance review : performance renewal and
+
+recontracting

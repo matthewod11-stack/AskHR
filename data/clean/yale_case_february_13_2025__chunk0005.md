@@ -1,0 +1,3 @@
+# 4 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
+
+Ultimately, effective termination decisions rely on balancing individual accountability with organizational self-assessment. Firing should always be a last resort, pursued only after exploring whether the organization has done everything possible to enable an employee’s success. By prioritizing introspection and improvement, leaders can ensure that such decisions align with both ethical practices and strategic objectives.

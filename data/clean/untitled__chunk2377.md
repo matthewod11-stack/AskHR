@@ -1,0 +1,7 @@
+# Training Development
+
+Training programs expanded rapidly in the 1970s, and for the remainder of the period between 200 and 230 institutions were offering programs at the master’s, specialists, and doc- toral levels. Program standards were proffered by the NASP that were in contrast to those of the APA. Both organizations offered procedures for program approval and accreditation.
+
+By 2000, the NCATE, with the NASP as a constituent mem- ber, was the largest accreditor of nondoctoral programs, although the APAmaintained a stronger presence among doc- toral programs and related internship and postdoctoral train- ing sites. The Thoroughbred Years were characterized by much greater consistency in training curricula, the standards for which were increasingly interlocked with the credential- ing expectations of the state education and psychology boards.
+
+Doctoral programs offered subspecializations (e.g., neu- ropsychology, preschool) to coincide with the broadening in- terests and practices of school psychologists and their diverse practice settings. Many subspecializations were represented in special-interest groups within the NASP and the APA. Some even had their own publications. As the number of subspecializations expanded, there was concern that the tra- ditional specialties of clinical, counseling, and school psy- chology might lose their identities because subspecialization often merged the interests of two or more specialty groups (e.g., school and child-clinical psychology along lines of pediatric applications).

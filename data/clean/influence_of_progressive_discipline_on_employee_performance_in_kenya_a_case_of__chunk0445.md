@@ -1,0 +1,1 @@
+# Dessler, G (1994), Human Resource Management, 6th Edition, Prentice Hall Publishers.

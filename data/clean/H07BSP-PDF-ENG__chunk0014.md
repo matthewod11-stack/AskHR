@@ -1,0 +1,1 @@
+## the “8Ps” of the U.S. Air Force, “Proper Prior Planning and Preparation

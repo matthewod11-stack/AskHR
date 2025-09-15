@@ -1,0 +1,1 @@
+## HBR / Digital Article / How LinkedIn Redesigned Its HQ for Hybrid Work

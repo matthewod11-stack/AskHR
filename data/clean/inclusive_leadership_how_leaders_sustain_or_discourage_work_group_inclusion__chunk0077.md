@@ -1,0 +1,1 @@
+## Academy of Management Journal, 56(6), 1754-1774.

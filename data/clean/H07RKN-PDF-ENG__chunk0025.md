@@ -1,0 +1,1 @@
+## in spontaneous, in-the-moment situations where a pitching opportunity

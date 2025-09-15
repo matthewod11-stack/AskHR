@@ -1,0 +1,1 @@
+# that avoids duplication of eﬀort and prevents application of inconsistent or conﬂicting standards for the same

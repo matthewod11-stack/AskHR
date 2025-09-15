@@ -1,0 +1,1 @@
+# One way Anova Mean GP Table:12

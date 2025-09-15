@@ -1,0 +1,1 @@
+## of upward potential at that moment and with the information

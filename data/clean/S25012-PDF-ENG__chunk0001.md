@@ -1,0 +1,1 @@
+## From the Magazine (January–February 2025) / Reprint S25012

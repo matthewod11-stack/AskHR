@@ -1,0 +1,1 @@
+# Get the list of files in the folder files=( "$folder_name"/* )

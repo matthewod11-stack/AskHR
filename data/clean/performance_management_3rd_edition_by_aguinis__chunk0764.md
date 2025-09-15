@@ -1,0 +1,1 @@
+## TABLE 5.4 Anchors for Checklists of Frequency and Amount

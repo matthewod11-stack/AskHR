@@ -1,0 +1,5 @@
+# Research Methodology
+
+The author has conducted the employee satisfaction surveys for several compa- nies. In this paper there will be presented parts of this research. Presented data was gathered in 2019 in three different companies. To ensure data confidentiality, further in the text these firms will be referred to as Company A (N = ca. 6000), Company B (N = ca. 100) and Company C (N = ca. 400)29. The companies were operating in Poland and all the surveys were conducted in Polish. In each case, all the employees employed, at the moment of the research, were asked to participate in the surveys. The respondents received an invitation to a CAWI (Computer As- sisted Web Interviewing) survey, sent to the company’s email address. The aver- age response rate in these 3 surveys was 63%. The structure of surveys was differ- ent in all the companies.
+
+25 E. A. Locke, The nature and causes of job satisfaction, [in:] M. D. Dunnette (ed.), Handbook

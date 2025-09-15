@@ -1,0 +1,5 @@
+# BOX 3.2
+
+Job Description for Trailer Truck Driver: Civilian Personnel Management Service, U.S. Department of Defense
+
+Operates gasoline or diesel powered truck or truck tractor equipped with two or more driving wheels and with four or more forward speed transmissions, which may include two or more gear ranges. These vehicles are coupled to a trailer or semi-trailer by use of a turntable (fifth wheel) or pintle (pivot) hook. Drives over public roads to transport materials, merchandise, or equipment. Performs difficult driving tasks such as backing truck to loading platform, turning narrow corners, negotiating narrow passageways, and keeping truck and trailer under control, particularly on wet or icy highways. May assist in loading and unloading truck. May also handle manifest, bills of lading, expense accounts, and other papers pertinent to the shipment.

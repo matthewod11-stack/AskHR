@@ -1,0 +1,1 @@
+# Permissioned Medium Access to Read Data

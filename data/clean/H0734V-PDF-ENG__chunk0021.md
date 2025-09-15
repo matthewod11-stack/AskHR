@@ -1,0 +1,3 @@
+# MA
+
+Mathieu Aguesse is an entrepreneur, founder, and CEO of Schoolab US, an innovation studio working with major corporations, startups, and universities across the world. He has been developing unique innovation and design frameworks, such as “design fiction,” which he sees as the new essential framework for the leaders of the future. He teaches design for impact at UC Berkeley and successfully launched the first open innovation class dedicated to solving plastic pollution, Deplastify the Planet.

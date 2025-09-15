@@ -1,0 +1,1 @@
+## TABLE 3.3 Characteristics of Good Vision Statements

@@ -1,0 +1,3 @@
+# that
+
+(cid:862)glo(cid:271)alizatio(cid:374)(cid:863) (cid:449)he(cid:374) e(cid:373)plo(cid:455)ees (cid:271)ega(cid:374) to fa(cid:272)e restructuring, and downsizing. Employees broke the rules, mutual obligations lifetime employment and devotion is no longer expected, job hopping is considered to be a normal phenomenon and people are constantly striving for higher salaries or better working conditions.

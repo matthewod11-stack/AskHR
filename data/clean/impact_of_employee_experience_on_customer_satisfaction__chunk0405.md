@@ -1,0 +1,1 @@
+# EBIT – Earning before interest and taxes

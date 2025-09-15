@@ -1,0 +1,1 @@
+## incorporate all three into their strategy process.

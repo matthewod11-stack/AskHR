@@ -1,0 +1,1 @@
+## dos pontos descobertos por meio da pesquisa, exatamente como apontam

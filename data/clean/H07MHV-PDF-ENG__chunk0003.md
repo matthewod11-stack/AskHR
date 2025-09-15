@@ -1,0 +1,1 @@
+## HBR / Digital Article / When Great Minds Don’t Think Alike

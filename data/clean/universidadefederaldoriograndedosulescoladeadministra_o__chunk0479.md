@@ -1,0 +1,1 @@
+# sem funções gratificadas

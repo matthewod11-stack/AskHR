@@ -1,0 +1,7 @@
+# LEGAL ISSUES
+
+Human resource management came under legal scrutiny in 1964 with the passage of Title VII of the Civil Rights Act in the United States (U.S.). This act makes it illegal to allow sex, age, race, religion, or ethnicity to inﬂu- ence decisions regarding the recruiting, training, upgrading, compensating, demot- ing, or terminating of an employee. Legal issues are increasingly problematic for orga- nizations as people are becoming more aware of their legal rights. In fact, there has been a 100% increase in the number of
+
+77
+
+employment discrimination cases ﬁled since 1995, and these cases have usually involved complaints regarding a performance apprai- sal. Legal confrontations regarding perfor- mance appraisals have led to the discovery of ways to minimize them. Organizations are most likely to win court challenges when: (1) the appraisal instrument is based on a writ- ten job analysis; (2) it is behavioral; (3) there is a written manual for appraising and then coaching an employee; (4) reliability and validity of the appraisal decisions have been documented; (5) the results of an appraisal have been reviewed with the employee; and (6) organizations can show that appraising and coaching of employees is ‘‘fair.’’

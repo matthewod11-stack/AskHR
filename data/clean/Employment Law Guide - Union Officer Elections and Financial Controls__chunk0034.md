@@ -1,0 +1,1 @@
+# Title VII amends the Labor Management Relations Act (LMRA), otherwise known as the Taft-Hartley Act,

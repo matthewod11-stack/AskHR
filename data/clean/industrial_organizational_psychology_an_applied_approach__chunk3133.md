@@ -1,0 +1,3 @@
+# S
+
+If you or your team is given an assignment or project, be sure that you fully understand the goal of that assignment and what is expected of you. To do this, go to your manager or another colleague to get clarification. Ask about the goal and the expectations. Will you and/or your team be responsible just for gathering and submitting information? Will you serve as an advisory group, giving recommendations or suggestions? Or do you have full authority to carry out all decisions regarding the project or assignment?

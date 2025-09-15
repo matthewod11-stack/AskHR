@@ -1,0 +1,1 @@
+## Go deeper: “Strategy as a Portfolio of Real Options,” by Timothy A.

@@ -1,0 +1,3 @@
+# 418 School Psychology
+
+degrees under Hall at Clark University contributed to the knowledge of some who practiced in school settings, but this was not a “school psychology” program. Practical experi- ences were often available beyond the training programs in localclinicsorinstitutions.Theﬁrstformalinternshipappears to have been available as early as 1908 at the Vineland Train- ing School in New Jersey (Morrow, 1946). Also absent were avenues for the formal granting of credentials to psycholo- gists in school or other settings.

@@ -1,0 +1,1 @@
+# Ivanov, D.A. (2020). Viable supply chain model: integrating agility, resilience and

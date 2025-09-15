@@ -1,0 +1,1 @@
+## Table 2: Overview of data collection and sample

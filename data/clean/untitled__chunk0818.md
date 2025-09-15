@@ -1,0 +1,11 @@
+# Intelligence
+
+- 4. Memory—the ability to remember strings of words, let- ters, numbers, or other symbols or items. This ability is measured by serial- or free-recall tests.
+
+- 5. Perceptual speed—the ability rapidly to recognize letters, numbers, or other symbols. This ability is measured by proofreading tests, or by tests that require individu- als to cross out a given letter (such as A) in a string of letters.
+
+- 6. Inductive reasoning—the ability to reason from the speciﬁc to the general. This ability is measured by tests such as letters series (“What letter comes next in the fol- lowing series? b, d, g, k, . . . .”) and number series (“What number comes next in the following series? 4, 12, 10, 30, 28, 84, . . .”).
+
+- 7. Spatial visualization—the ability involved in visualizing shapes, rotations of objects, and how pieces of a puzzle would ﬁt together. This ability is measured by tests that re- quire mental rotations or other manipulations of geometric objects.
+
+The argument between Spearman and Thurstone was not resoluble on mathematical grounds, simply because in ex- ploratory factor analysis, any of an inﬁnite number of rota- tions of axes is acceptable. As an analogy, consider axes used to understand world geography (Vernon, 1971). One can use lines of longitude and latitude, but really any axes at all could be used, orthogonal or oblique, or even axes that serve differ- ent functions, such as in polar coordinates. The locations of points, and the distances between them, do not change in Euclidean space as a result of how the axes are placed. Be- cause Thurstone’s primary mental abilities are intercorre- lated, Spearman and others have argued that they are nothing more than varied manifestations of g: Factor-analyze these factors, and a general factor will emerge as a second-order factor. Thurstone, of course, argued that the primary mental abilities were more basic. Such arguments became largely polemical because there really neither was nor is any way of resolving the debate in the terms in which it was presented. Some synthesis was needed for the opposing thesis of g ver- sus the antithesis of primary mental abilities.

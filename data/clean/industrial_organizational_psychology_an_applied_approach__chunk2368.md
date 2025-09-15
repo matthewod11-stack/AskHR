@@ -1,0 +1,1 @@
+## Table 10.3 Job Satisfaction (1–100 scale) 2007 FDS Survey

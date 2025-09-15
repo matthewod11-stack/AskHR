@@ -1,0 +1,1 @@
+## correlates with, 440 Fiedler’s contingency model, 447–448

@@ -1,0 +1,5 @@
+# s
+
+employees whose job satisfaction attitudes are not so well developed ( Schleicher, Watt, & Greguras, ).
+
+Though the relationships between job satisfaction and organizational com- mitment and attendance, performance, tardiness, and turnover are not as large as one would expect, it is important to note that there are many other factors affecting work behavior (Judge et al., ). For example, a dissatisfied employee may want to quit her job but not be able to because no other jobs are available. Likewise, a dissatisfied employee may want to miss work but realizes that she will lose pay if she does. Thus we often find that job satisfaction and organizational commitment are related more to a desire to quit, miss work, or reduce effort than they are to actual behaviors. To get you thinking about job satisfaction in your life, complete Exercise . in your workbook.

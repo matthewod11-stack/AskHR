@@ -1,0 +1,1 @@
+# Figure 5.4. Some Possible Personality Inﬂuences on the Emotion-Generating Process.

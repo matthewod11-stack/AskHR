@@ -1,0 +1,1 @@
+# For child labor violations, employers are subject to a civil money penalty for each violation. In addition,

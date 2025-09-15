@@ -1,0 +1,1 @@
+## indicators of systemic silos within the organization.

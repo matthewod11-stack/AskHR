@@ -1,0 +1,5 @@
+## The Discipline: Recommendations from the Experts
+
+Discipline-based curricula are a social construction developed by academics. Over time, knowledge has been organized into key terms, concepts, models, and modes of inquiry. Academics add to and test these knowledge constructs using their disciplinary associations as means of verbal and written communication. Cur- ricular change is conditioned by the role of the disciplines in con- serving and transmitting their organization and representation of what is worth knowing, why, and how. (Ratcliff, 1997, p. 15)
+
+In this section, we review various statements made by psy- chologists after World War II about what was “worth know- ing, why, and how” in the study of undergraduate psychology. Such statements carried added weight by virtue of discipli- nary association (APA) or sponsorship in process (national conferences and studies) and outcome (publication in jour-

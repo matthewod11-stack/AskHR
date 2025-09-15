@@ -1,0 +1,1 @@
+# We can see that only three varibales play a role in the prediction

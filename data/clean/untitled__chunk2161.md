@@ -1,0 +1,1 @@
+## Griggs v. Duke Power Company, 401 U.S. 424 (1971).

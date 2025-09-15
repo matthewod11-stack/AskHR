@@ -1,0 +1,1 @@
+## TABLE 3. Means and Standard Deviations for Company-Level HERO Scorecard Measures

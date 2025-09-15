@@ -1,0 +1,1 @@
+# The Fair Labor Standards Act (FLSA or Act) is administered by the Wage and Hour Division (WHD). The Act

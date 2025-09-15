@@ -1,0 +1,1 @@
+# Employers may obtain information on how to apply for a permanent labor certiﬁcation, including application forms and regulatory

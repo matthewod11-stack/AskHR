@@ -1,0 +1,15 @@
+# Figure 9.1 Premack Principle
+
+346
+
+chapter 
+
+Premack Principle An interesting method of providing incentives that meet the individual needs of each employee stems from the Premack Principle (Premack, ), which states that reinforcement is relative and that a supervisor can reinforce an employee with something that on the surface does not appear to be a reinforcer. The best way to explain this principle is to construct a reinforcement hierarchy on which an employee lists his preferences for a variety of reinforcers.
+
+As Figure . shows, our hypothetical employee most desires money and time off from work and least desires typesetting and cleaning the press. Our employee can enjoy and do a better job of cleaning his press if we give him money for each time he properly completes the task, but such a reward system can become expen- sive. Thus, according to the Premack Principle, we can get our employee to clean his press properly by allowing him to do one of the activities he likes more than cleaning. From his reinforcement hierarchy, we can see that he ranks throwing out oily rags as more enjoyable because he can take a short break by walking outdoors to the disposal area. Thus all we need for a reward is to let him dispose of the rags.
+
+The Premack Principle may sound silly, but think of the reinforcers you have used to reward yourself for studying. After reading a certain number of pages, you might allow yourself a trip to the water fountain. Certainly, getting a drink of water is hardly anyone’s idea of a good time, but it may be more interesting than studying and so can become a reinforcer to increase studying.
+
+When I was in high school, I worked at a printing plant that produced stock reports. All entry-level employees were “collators,” whose job was to place  copies of a book page on a piece of wood strapped to their necks and then walk around a room placing a piece of paper in each of the  slots. This process was repeated about  times until a complete book was put together. As you can imagine, the job was extremely boring. To motivate us, our supervisor would “reward” the fastest collators by allowing them to take out the trash, to go pick up lunch (it was kind of cool ordering  Whoppers and  fries and watching the Burger King employees’ expressions), or to move the paper carts from one end of the building to the other. I didn’t realize until ten years later that my boss was using the Premack Principle—rewarding performance of a very boring task by allowing us to perform a less boring task.
+
+As another example, my previous boss (the department chair) was a master at using the Premack Principle. Because salary raises are small in size and never a certainty, it is difficult to motivate faculty to do the “little things” by offering

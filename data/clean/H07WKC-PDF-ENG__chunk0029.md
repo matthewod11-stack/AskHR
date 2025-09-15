@@ -1,0 +1,1 @@
+## HBR / Digital Article / Can GenAI Do Strategy?

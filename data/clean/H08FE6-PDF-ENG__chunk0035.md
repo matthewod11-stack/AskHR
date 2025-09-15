@@ -1,0 +1,1 @@
+## operations leader with tremendous authority over the GTM strategy

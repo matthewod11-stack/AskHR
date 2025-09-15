@@ -1,0 +1,1 @@
+## Work in smaller independent units rather than larger traditional business units.

@@ -1,0 +1,1 @@
+## Fig. 2. HC BRidge® Decision Framework from Boudreau and Ramstad (2005).

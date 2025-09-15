@@ -1,0 +1,1 @@
+## HBR / Spotlight / Why People Resist Embracing AI

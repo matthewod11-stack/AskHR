@@ -1,0 +1,1 @@
+# representatividade da amostra;

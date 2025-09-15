@@ -1,0 +1,3 @@
+# I–Opsychologyandworkplacedecisions
+
+(2003). The naturalistic decision making perspective. In S. L. Schneider & J. Shanteau (Eds.), Emerging perspectives on judgment and decision research (pp. 559–585). Cambridge, UK: Cambridge University Press. Ross, J., & Staw, B. M. (1993). Organizational escala- tion and exit: Lessons from the Shoreham nuclear power plant.AcademyofManagementJournal,36, 701–732.

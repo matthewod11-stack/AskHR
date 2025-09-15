@@ -1,0 +1,1 @@
+# Foote, D.A. and Harmon, S. (2006), “Measuring equity sensitivity”, Journal of Managerial

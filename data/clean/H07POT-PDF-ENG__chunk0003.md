@@ -1,0 +1,1 @@
+## HBR / Digital Article / Worried About Impending Layoffs?

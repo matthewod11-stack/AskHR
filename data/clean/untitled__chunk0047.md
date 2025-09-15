@@ -1,0 +1,1 @@
+## Jack A. Naglieri, PhD George Mason University Fairfax, Virginia

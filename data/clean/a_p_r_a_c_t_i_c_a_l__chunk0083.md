@@ -1,0 +1,1 @@
+## For example, here’s how you could implement this pattern in the Agents SDK:

@@ -1,0 +1,5 @@
+# Interpersonal Communication Skills
+
+One of the most common methods used to increase interpersonal communica- tion skills is the training workshop conducted by an outside consultant. Although a large number of consultants lead communication workshops, such workshops often bring only short-term improvement in skills.
+
+An exception to this general failure to produce long-term improvements was reported by Freston and Lease () from their work with Questar Corporation in Salt Lake City. As the personnel manager at Questar, Freston believed that the organization’s managers were not properly trained in communication. Questar thus hired Lease as a communications consultant, and together Freston and Lease designed a new training program that included seminars on awareness, nonverbal communication, assertiveness, and listening. In addition to the seminars, Freston and Lease also used role play and group discussion. The revised training program brought more positive attitudes for supervisors and increased performance qual- ity in tasks such as performance appraisal and training.

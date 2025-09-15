@@ -1,0 +1,1 @@
+## more representative of their best self than their authentic, real, or whole

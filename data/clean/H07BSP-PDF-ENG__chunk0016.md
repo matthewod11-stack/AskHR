@@ -1,0 +1,1 @@
+## components of management development: 1) decision-making and

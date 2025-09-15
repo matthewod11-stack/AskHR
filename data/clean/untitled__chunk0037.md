@@ -1,0 +1,1 @@
+## William M. Reynolds, PhD Humboldt State University Arcata, California

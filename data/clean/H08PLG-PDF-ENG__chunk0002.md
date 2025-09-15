@@ -1,0 +1,1 @@
+# HBR Staff/Marco Bottigelli/Getty Images

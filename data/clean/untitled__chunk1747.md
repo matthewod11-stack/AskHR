@@ -1,0 +1,1 @@
+## Pope, B. (1979). The mental health interview: Research and appli-

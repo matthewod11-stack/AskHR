@@ -1,0 +1,3 @@
+# TRUST IN LEADERSHIP META-ANALYSIS
+
+suggest that a better fit to the model might be achieved if a few data points were eliminated, it is difficult to determine the precise reason for the findings (e.g., substantive difference in the studies, loss of statistical power). Consequently, results are reported with all data points included. A report of results with studies removed can be obtained from the authors.

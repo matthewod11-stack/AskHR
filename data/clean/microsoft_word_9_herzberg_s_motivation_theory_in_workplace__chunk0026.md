@@ -1,0 +1,3 @@
+## HERZBERG’S MOTIVATION THEORY IN WORKPLACE
+
+build on existing theories of work motivation by adapting and extending them to fit the realities of the changing contemporary workplace. The six papers appearing in this special issue address a variety of issues critical to advancing our understanding of motivation theory and motivation in the workplace. Throughout, all of these contribute to the long tradition of substantive research and theoretical development in the field of work motivation that benefit both organizational researchers and practicing managers alike.

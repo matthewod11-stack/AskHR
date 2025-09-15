@@ -1,0 +1,1 @@
+# Figure (cid:1008).(cid:1011): Le(cid:448)el of satisfa(cid:272)tio(cid:374) of e(cid:373)plo(cid:455)ee repri(cid:373)a(cid:374)d s(cid:455)ste(cid:373)

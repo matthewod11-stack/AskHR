@@ -1,0 +1,1 @@
+## Independent variable The manipulated variable in an

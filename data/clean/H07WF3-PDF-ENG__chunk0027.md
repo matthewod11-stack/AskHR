@@ -1,0 +1,1 @@
+# HBR / Digital Article / A Sports Analogy for Understanding Different Ways to Use AI

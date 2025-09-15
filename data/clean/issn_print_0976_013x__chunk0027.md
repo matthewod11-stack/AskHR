@@ -1,0 +1,1 @@
+## Evolutions in Supply Chain Paradigms and Future Research Scopes

@@ -1,0 +1,3 @@
+# 170 PERSONALITY AND WORK
+
+distributive justice, which is concerned with perceptions of the fair- ness of the outcomes themselves. Perceptions of injustice are by deﬁnition caused by workplace policies and procedures. Research examining which types of policies and procedures can give rise to perceptions of injustice has burgeoned in recent years and in- cludes procedures relating to selection and stafﬁng, performance appraisal, compensation, and layoffs (Gilliland & Chan, 2001).

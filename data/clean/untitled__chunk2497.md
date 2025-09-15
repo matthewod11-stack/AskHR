@@ -1,0 +1,1 @@
+## Long, B. B. (1989). The mental health association and prevention.

@@ -1,0 +1,1 @@
+## companies in the Russell 3000, an index of the top 3,000

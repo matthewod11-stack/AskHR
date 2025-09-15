@@ -1,0 +1,5 @@
+## Part IV • Reward Systems, Legal Issues, and Team Performance Management
+
+to work faster, giving rewards for cooperation may be yet another example of the “folly of rewarding A while hoping for B.”
+
+An organization can have a variable pay system in which an individual is eligible for a bonus if his or her team achieves specific results. This reward would be eligible in addition to any performance-based rewards allocated according to individual perform- ance (either task performance or contextual performance). The amount of the bonus could also be controlled by the team: Teams that are able to generate savings that result from controlling cost and improving efficiency may see some of this money come back in the form of bonuses. In this case, the rewards are called self-funded. In other cases, the bonus can come from a company-wide pool that varies each year based on overall orga- nizational performance.

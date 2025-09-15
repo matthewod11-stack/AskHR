@@ -1,0 +1,1 @@
+## específica para os respondentes, não toma muito tempo e é facilmente

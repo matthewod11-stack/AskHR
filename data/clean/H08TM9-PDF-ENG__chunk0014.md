@@ -1,0 +1,1 @@
+## team decisions or an abrupt change in an executive’s communication

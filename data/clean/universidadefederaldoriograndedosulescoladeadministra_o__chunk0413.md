@@ -1,0 +1,1 @@
+## Figura 7 - Exemplo pesquisa eNPS - dashboard de resultados

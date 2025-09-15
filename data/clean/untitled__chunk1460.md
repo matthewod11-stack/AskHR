@@ -1,0 +1,1 @@
+## Shotter, J. (1975). Images of man in psychological research.

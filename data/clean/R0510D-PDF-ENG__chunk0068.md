@@ -1,0 +1,5 @@
+# The Office of Strategy Management
+
+of its communication responsibilities, the OSM must cooperate with HR to ensure that education about the scorecard and its role is included in employee training programs.
+
+Strategic ini- tiatives—such as a TQM program or the im- plementation of CRM software—are discre- tionary programs that help companies accomplish strategic objectives. The executive team typically identiﬁes these initiatives as part of its annual planning process, although new initiatives may arise throughout the year. Ideally, the entire portfolio of such initiatives should be assessed and reprioritized several times annually. The screening, selection, and management of strategic initiatives are what drive change in the company and produce re- sults. Our experience suggests that such initia- tives should be managed separately from rou- tine operations. Typically, they are managed by the units most closely associated with them (a CRM project, for instance, is best managed

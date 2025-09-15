@@ -1,0 +1,1 @@
+# attrition_data.describe().T.style.background_gradient(axis = 0 ,cmap = "Oranges" )

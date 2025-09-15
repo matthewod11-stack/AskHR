@@ -1,0 +1,3 @@
+# Broad Models
+
+Using Project A data, Borman et al. (1991) partially conﬁrmed Hunter’s model (1983), but accounted for more than twice the variance in ratings with a model that added achievement orienta- tion, dependability, awards, and disciplinary actions (for problem behavior). In this expanded model, achievement orientation and dependability had both a direct inﬂuence on supervisory ratings and an indirect inﬂuence through their substantial effects on awards and disciplinary actions, respectively. The analyses demon- strated the importance of personality constructs as determinants of supervisory ratings of performance and highlighted the role of dependability in the acquisition of job knowledge.

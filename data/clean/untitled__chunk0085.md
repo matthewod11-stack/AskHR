@@ -1,0 +1,3 @@
+## ASSESSMENT PSYCHOLOGY 279 Irving B. Weiner
+
+15

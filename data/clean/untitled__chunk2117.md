@@ -1,0 +1,9 @@
+# Conﬂuence of Dynamic Forces
+
+ingenuity to connect them, even when in many cases the connec- tion is far from obvious. (Bills, 1953, p. 145)
+
+On several occasions, Bruce V. Moore, the ﬁrst president of APA Division 14 (now SIOP), espoused his belief that in- dustrial psychology as an applied discipline values equally research and implementation (Farr & Tesluk, 1997). Moore stated,
+
+[The] pure scientist has no basis for intellectual snobbery or con- tempt for the applied scientist. What both should avoid is busy work without thinking, or activity without relating it to theory, or the quick answer without adequate facts or basic research. . . . The extreme applied practitioner is in danger of narrow, myopic thinking, but the extremely pure scientist is in danger of being isolated from facts. (Cited in Farr & Tesluk, 1997, p. 484)
+
+Thescientist-practitionertensionprevailstoday,asevident by the attention it continues to receive (e.g., Dunnette & Hough, 1990; Holland, Hogan, & Sheton, 1999; Klimoski, 1992).Hackman(1985)identiﬁedfactorsthatcontributetothe currentgapbetweenI-Oscientistsandpractitioners.Thesein- clude corporate reward systems that compensate I-O psychol- ogists for performing as professional practitioners rather than as scientists, differences in the conceptual and research para- digms of scientists and practitioners, and the failure of labora- tory and ﬁeld experiments to guide practice. J. P. Campbell (1992) noted, however, that the latent needs of the two par- ties are actually more similar than their surface dissimilarities would suggest. When he was 93 years old, Morris Viteles stated,“Ifitisn’tscientiﬁc,it’snotgoodpractice,andifitisn’t practical, it’s not good science” (cited in Katzell & Austin, 1992,p.826).Thetwopolesmustblendinordertoaddressthe complex work issues of organizations today.

@@ -1,0 +1,1 @@
+# HBR / Digital Article / Why Cross-Functional Collaboration Stalls, and How to Fix It

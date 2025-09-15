@@ -1,0 +1,1 @@
+## Platt, J. (1992). “Case study” in American methodological thought.

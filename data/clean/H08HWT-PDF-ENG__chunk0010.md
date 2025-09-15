@@ -1,0 +1,1 @@
+## HBR / Digital Article / Train Your Brain to Work Creatively with Gen AI

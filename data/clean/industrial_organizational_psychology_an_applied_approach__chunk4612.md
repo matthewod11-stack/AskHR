@@ -1,0 +1,1 @@
+# Comparable worth, 69 Comparison, 486 Compensable job factors, 65 Compensatory approach to

@@ -1,0 +1,1 @@
+## Agentic RAG: A Critical Evolution in Retrieval-Augmented Generation

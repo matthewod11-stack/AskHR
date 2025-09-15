@@ -1,0 +1,1 @@
+## Reichheld e Markey (2018) atribuem tanto à extensão quanto à metodologia

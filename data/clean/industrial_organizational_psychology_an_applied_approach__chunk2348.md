@@ -1,0 +1,1 @@
+# Correlations Between Individual Difference Variables and Satisfaction and Work Behavior

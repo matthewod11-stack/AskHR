@@ -1,0 +1,7 @@
+# Using BARS
+
+To use the scale when actually rating performance, the supervisor compares the incidents she has recorded for each employee with the incidents on each scale. This can be done in one of two ways. The most accurate (and the most time-consuming) method compares each of the recorded incidents with the anchors and records the value of the incident on the scale that most closely resembles the recorded incident. This is done for each recorded incident. The value for each incident is summed and divided by the total number of incidents recorded for that dimension; this yields an average incident value, which is the employee’s rating for that particular job dimension.
+
+In the second method (easier, but probably less accurate) all of the recorded incidents are read to obtain a general impression of each employee. This general impression is compared with the incidents that anchor each scale point. The scale point next to the incident that most closely resembles the general impression gained from the incidents then becomes an employee’s score for that dimension.
+
+The third way to use BARS (and the least recommended) is to use the incidents contained in the BARS to arrive at a rating of the employee without recording actual incidents. Instead, the BARS are only used to provide meaning to the  scale points.

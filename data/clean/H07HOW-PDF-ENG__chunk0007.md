@@ -1,0 +1,1 @@
+## HBR / Digital Article / Navigating Uncertainty About Your Role During a Reorg

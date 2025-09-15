@@ -1,0 +1,33 @@
+## by Aaron De Smet, Gregor Jost, and Leigh Weiss
+
+Two years ago, we wrote about how it was simultaneously the best and worst of times for decision makers in senior management.1 Best because of more data, better analytics, and clearer understanding of how to mitigate the cognitive biases that often undermine corporate decision processes. Worst because organizational dynamics and digital decision-making dysfunctions were causing growing levels of frustration among senior leaders we knew.
+
+Since then, we’ve conducted research to more clearly understand this balance, and the results have been disquieting. A survey we conducted recently with more than 1,200 managers across a range of global companies gave strong signs of growing levels of frustration with broken decision-making processes, with the slow pace
+
+1 See Aaron De Smet, Gerald Lackey, and Leigh M. Weiss, “Untangling your organization’s decision making,” McKinsey Quarterly, June 2017, McKinsey.com.
+
+2
+
+of decision-making deliberations, and with the uneven quality of decision-making outcomes. Fewer than half of the survey respondents say that decisions are timely, and 61 percent say that at least half the time spent making them is ineffective. The opportunity costs of this are staggering: about 530,000 days of managers’ time potentially squandered each year for a typical Fortune 500 company, equivalent to some $250 million in wages annually.2
+
+The reasons for the dissatisfaction are manifold: decision makers complain about everything from lack of real debate, convoluted processes, and an overreliance on consensus and death by committee, to unclear organizational roles, information overload (and the resulting inability to separate signal from noise), and company cultures that lack empowerment. One healthcare executive told us he sat through the same 90-minute proposal three times on separate committees because no one knew who was authorized to approve the decision. A pharma company hesitated so long over whether to pounce on an acquisition target that it lost the deal to a competitor. And a chemicals company CEO we know found himself devoting precious time to making hiring decisions four levels down the organization.
+
+In our previous article, we proposed solutions that centered around categorizing decision types and organizing quite different processes against them. Our latest research confirms the importance of this approach, and it also highlights for each major decision category a noteworthy practice—sometimes stimulating debate, for example, while in other cases empowering employees—that can yield outsize improvements in effectiveness. When improvements in these areas are coupled with an organizational commitment to implement decisions—embracing not undercutting them—companies can achieve lasting improvements in both decision quality and speed. Indeed, faster decisions are often a happy outcome of these efforts. Our survey showed a strong correlation between quick decisions and good ones,3 suggesting that a commonly held assumption among executives—namely, “We can have good decisions or fast ones, but not both”—is flawed.
+
+Three fixes that make a difference Of the four decision categories we identified two years ago, three matter most to senior leaders. Big-bet decisions (such as a possible acquisition) are infrequent but high risk and have the potential to shape the future of the company; these are generally the domain of the top team and the board. Cross-cutting decisions (such as a pricing decision), which can be high risk, happen frequently and are made in cross-functional forums as part of a collaborative, end-to-end process. Delegated decisions are frequent but low risk and are effectively handled by an individual or working team, with limited input from others. (The fourth category, ad hoc decisions, which are infrequent and low stakes, is not addressed in this article.) Clearly, it
+
+2 On average, 54 percent of respondents to our survey report spending more than 30 percent of their time on decision
+
+making. And 14 percent of C-suite executives report spending more than 70 percent of their time on the topic. Assuming that at an average Fortune 500 company of 56,400 employees, 20 percent are managers who work 220 days per year: these managers spend an average of 37 percent of their time making decisions, and 58 percent of this time is used ineffectively. Our sources for this estimate included fortune.com and the US Bureau of Labor Statistics (for salary data). 3 Respondents who reported that decision making was fast were 1.98 times more likely than other respondents to say that
+
+decisions were also of high quality.
+
+is important that these types of decisions happen at the appropriate level of the company (CEOs, for example, shouldn’t make decisions that are best delegated). And yet, just as clearly, many decisions rise up much higher in the company than they should (see sidebar, “Avoiding life on the bubble”).
+
+Even those businesses that do make decisions at the right level, however, complain about slow and bad outcomes. The evidence of our survey—and our experience watching executives grapple with this—suggests that while the best practices for making better decisions are interrelated, there’s nonetheless one standout practice that makes the biggest difference for each type of decision (exhibit).
+
+Big bets—facilitate productive debate Big-bet decisions can be future-shapers for a company, the most important decisions leaders make. And they often receive much less scrutiny than they should.
+
+The dynamic inside many decision meetings doesn’t help. It’s as if there is an unspoken understanding that the meeting should proceed like a short, three-act play. In the first act, the proposal is delivered in a snappy PowerPoint presentation that summarizes the relevant information; in the second, a few tough yet perfunctory questions are asked of the presenter and answered well; in the final act, resolution arrives in the form of an undramatic “yes” that may seem preordained. Little substantive discussion takes place.
+
+In a global agricultural company, for example, the members of the executive committee tended to speak up only if their particular area of the business was being discussed. The tacit assumption was that people wouldn’t intrude on colleagues’ area of responsibility. Consequently, when the top team moved to decide on a proposed new initiative in Europe, the leaders from the US business stayed silent, even though they had years of hard-won experience in marketing and cross-selling

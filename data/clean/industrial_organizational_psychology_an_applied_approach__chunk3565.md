@@ -1,0 +1,1 @@
+## On the Job: Applied Case Study: Reducing Stress at a Manufacturing Company

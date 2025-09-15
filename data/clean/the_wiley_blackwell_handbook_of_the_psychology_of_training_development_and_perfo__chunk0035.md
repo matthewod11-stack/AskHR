@@ -1,0 +1,3 @@
+# Training and Workplace Learning
+
+environments. The perspective of social ecology provides a way into understanding the complexities of factors that impact on learning in the workplace, through the interplay of actors, structures, processes, and environments. This interplay is not restricted to the work- place but involves the overlap of the learning spaces and other contexts that extend way beyond the workplace. The concept of learning in, for, and through the workplace thus attends to the social processes that shape employees’ perceptions and attitudes towards engagement in workplace learning, influencing their professional and personal development and life chances within the workplace and beyond.

@@ -1,0 +1,1 @@
+## the words of one employee, a “calm and teachable spirit.”

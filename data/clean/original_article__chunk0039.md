@@ -1,0 +1,1 @@
+## Hypothesis 2: Higher levels of Professional increase team interaction

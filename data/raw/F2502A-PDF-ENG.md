@@ -1,0 +1,369 @@
+# Magazine Article / Personal Productivity
+
+How Is Your Team Spending the Time Saved by Gen AI? Be sure you put those newfound hours to good use.
+
+## From the Magazine (March–April 2025) / Reprint F2502A
+
+# Michał Bednarski
+
+Generative AI is changing how we work. Tools like ChatGPT and Copilot
+
+help people write everything from emails to blog posts to plans for
+
+internal analyses 40% faster than they used to, according to a 2023
+
+MIT study. The new technologies are transforming technical jobs in
+
+## particular. A study by MIT Sloan, Microsoft Research, and GitHub
+
+determined that gen AI coding tools can cut programming time by 56%,
+
+# for instance.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+
+How should workers use such time windfalls? Experts have been
+
+debating that ever since OpenAI introduced ChatGPT, in November
+
+- 2022. Boston Consulting Group, for example, found that many people
+
+devote their extra hours to problem-solving, interacting with others,
+
+or learning new things. Christopher Pissarides, a Nobel Prize–winning
+
+economist, has diﬀerent ideas: He believes that we should leverage this
+
+new free time to improve our well-being and even to move to a four-day
+
+# workweek.
+
+The popular view is that people will use AI-generated time savings
+
+to enhance their personal lives, develop innovations, or increase
+
+## productivity. However, two surveys of 302 AI users and 57 managers
+
+from around the world, conducted by the University of Lausanne,
+
+Switzerland, in early 2024, challenge that thinking. The surveys asked
+
+questions like, Do you save time using gen AI? Do you feel you have
+
+more time for other things? Do you reallocate time for personal or work-
+
+related tasks? How frequently do you waste the time you saved?
+
+The researchers found that gen AI saved the managers about two hours
+
+and 50 minutes a week, on average. Eighty-two percent of them said
+
+that the technology helped them do their jobs faster. But many in that
+
+group failed to fully capitalize on their freed-up time: Thirty-six percent
+
+of them admitted to wasting more than half of it. Similarly, 83% of
+
+people in the gen AI user group who saved time admitted to wasting
+
+at least a quarter of it. When asked how they did use their extra time
+
+productively, more than half of the managers said they just did more of
+
+the same work they’d always done. Few managers said they used it to
+
+connect with others, enjoy their families, learn new skills, or improve
+
+# their physical and emotional health.
+
+“Reallocating time savings requires people to track when they’re saving
+
+time,” says Isabelle Engeler, an associate professor in the marketing
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+
+department at the University of Lausanne who is the lead author of the
+
+study. Only once they have a good idea of how much they’ve gained
+
+can they decide how to beneﬁt from it, she argues. “Unfortunately,” she
+
+notes, “many people don’t immediately notice it.” That was true for 37%
+
+of the managers in the study who said that AI had saved them time.
+
+To optimize AI-related time savings, Engeler suggests, managers should
+
+take these four steps:
+
+Be strategic. Focus on gathering information on how much time gets
+
+shaved oﬀ the tasks for which the most signiﬁcant beneﬁts are expected.
+
+But don’t start doing that with too large a group of people; begin with a
+
+# small pilot.
+
+“If your goal is simply to get an estimate of AI-related time savings,
+
+you don’t need many people in your pilot,” says Engeler. “But if your
+
+objective is to monitor the impact of saved time on your team or the
+
+organization as a whole, you need a larger sample.”
+
+Ask people to log their time. Once you’ve decided what and whom to
+
+track, get the chosen employees to record the minutes they save each
+
+day. There are several ways to do this. Employees can self-report by
+
+reﬂecting on their daily activities and estimating how much time AI
+
+saved them, perhaps noting it in diary entries. Or they can simply jot
+
+down the minutes it takes to perform a task without gen AI and then
+
+how long it takes to do it with AI.
+
+Productivity-tracking software like Harvest and ActivTrak, which allow
+
+managers to observe and log how long tasks take, can provide numbers
+
+for the time savings that are more precise and objective than those
+
+generated by self-reporting. Regardless of the method, any form of
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+
+tracking should give you a good sense of how much time you have freed
+
+# up.
+
+Asking employees to track time requires that they have the bandwidth
+
+to engage in this process in the ﬁrst place. If they are already
+
+overwhelmed with tasks, they are more likely to move straight to the
+
+next item on their list and tracking time gains may feel like just another
+
+# burden.
+
+Develop a blueprint for reallocating time. Once you have a handle
+
+on how many hours your team will save with gen AI, design a plan
+
+to use them in a meaningful way—for instance, in activities that
+
+promote employee well-being, productivity, and personal growth. Ask
+
+your people how they’ve traditionally spent time savings and where
+
+investing more time would beneﬁt them most. But keep in mind that
+
+as the manager, you are responsible for setting the direction—whether
+
+by urging employees to recharge or prompting them to tackle new
+
+# challenges.
+
+“What employees do with the extra time ultimately depends on how
+
+managers encourage them to use it,” Engeler says. “Employees could
+
+plan to use it for stretching, getting a coﬀee, interacting with colleagues,
+
+or working on a strategic project. Whatever it is, it’s important to
+
+allocate this time purposefully in advance. Without guidance and
+
+preplanned activities, the saved time might easily slip away unused.”
+
+Monitor how the time is redirected. Regular monitoring and feedback
+
+are crucial to help employees make the most of their newfound time.
+
+Managers should stay engaged, observing what their reports do with
+
+time windfalls and promoting eﬀective uses.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+
+“Generative AI tools can boost productivity, and they can help
+
+employees improve work-life balance. But time reallocation requires
+
+a deliberate, intentional, and ongoing approach,” says Engeler. “By
+
+helping employees notice and reallocate their saved time, companies can ensure that AI-driven eﬃciency leads to meaningful changes in the
+
+workplace and beyond.”
+
+About the research: “What Do You Do with the Time Saved by Generative AI Tools? Many Waste It, Managers Included,” by Isabelle Engeler et al. (working paper, 2024)
+
+## “I Want Them to Use the Time Windfall to Streamline Tasks”
+
+Travis Muhlestein is the chief data and analytics officer at GoDaddy, a
+
+U.S.-based web-hosting company. He manages 440 engineers, business
+
+## analysts, and product-management, machine-learning, and user-experience
+
+professionals. Gen AI has helped them complete in seconds processes that
+
+used to take weeks. He spoke with HBR about how his people are using the
+
+time savings. Edited excerpts of that conversation follow.
+
+Where has your team saved time using
+
+# gen AI?
+
+One notable example is in threat modeling
+
+## for security practices. Traditionally, the
+
+process involves multiple stages of
+
+# detailed analysis. With gen AI we
+
+can automate the submission and
+
+analysis of data-flow diagrams, identify
+
+## vulnerabilities, and suggest mitigations in
+
+seconds. This gives us additional time
+
+# Brandon Hill
+
+# to measure and remeasure accuracy and
+
+security. However, every role and task has
+
+benefited from gen AI.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+
+How have you asked your team to invest the extra time?
+
+To better understand and serve our customers. By automating data
+
+analysis, we can quickly gain insights into their preferences and behaviors.
+
+For example, AI helps us analyze customer interactions and feedback,
+
+allowing us to tailor our products and services to their needs better. This
+
+has improved customer satisfaction and loyalty. We never would have been
+
+able to do it as well without gen AI.
+
+What has gen AI helped you learn?
+
+Customers, especially small-business owners, are particular about the
+
+## design of their websites, logos, and other branding materials. The extra
+
+time gen AI gave us allowed us to uncover patterns in their preferences,
+
+and we may not have been able to delve so deeply into the data without
+
+it. Gen AI also helps us quickly test and iterate on new ideas. We use
+
+it to run numerous experiments simultaneously to identify which new
+
+processes work better than traditional methods. That has led to significant
+
+## innovations and improvements in our products and customer service.
+
+How did you communicate the AI directive to your employees?
+
+A common fear is that AI might take their jobs. Some people don’t even
+
+want to use it. So I emphasize the importance of their career aspirations.
+
+I say I want to help them use the time windfall to further streamline tasks
+
+that hinder their progress. I ask people to imagine how they’d like to do
+
+their jobs three, five, and 10 years from now. What would they automate and
+
+why? Then we try to automate it.
+
+What kind of tasks are your people applying gen AI to?
+
+One of our business analysts proposed a project to improve our support
+
+channels. He developed a system that uses AI to analyze call routing and
+
+ensure that customers are directed to the right support engineer quickly.
+
+It not only improved our efficiency but also demonstrated AI’s potential to
+
+help employees drive innovation. The success of this project has inspired
+
+other employees to explore AI-driven solutions for their work.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+
+How do you recommend that managers track and oversee the time
+
+# savings?
+
+Managers must give employees the space to experiment and fail. I suggest
+
+A/B testing productivity before and after implementing AI. Using control
+
+and variation groups, managers should also run rigorous tests and validate
+
+how employees have budgeted the time windfall. That will help managers
+
+develop guidelines and techniques for how employees use the extra time.
+
+Finally, managers should constantly collect data to track it all.
+
+A version of this article appeared in the March–April 2025 issue of Harvard Business Review.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

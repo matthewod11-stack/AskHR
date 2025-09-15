@@ -1,0 +1,3 @@
+# The Scientiﬁc Context
+
+The emerging natural sciences of the eighteenth and nine- teenth centuries became increasingly specialized as knowl- edge increased and as opportunities for specialized teaching and research came into being in the German universities (Ben-David, 1971). The study of physiology emerged as a discipline separate from anatomy as the nineteenth century began. Studying intact physiological systems, in vivo or in vitro, accelerated the understanding of the functional charac- teristics of those systems and built on the knowledge gained from the study of anatomy via dissection. The methods and subject matter of physiology, especially sensory physiology, helped to provide the scientiﬁc basis for psychology.

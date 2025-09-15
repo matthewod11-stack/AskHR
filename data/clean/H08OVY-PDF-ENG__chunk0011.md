@@ -1,0 +1,1 @@
+## stress and approach disagreements with a clearer head.

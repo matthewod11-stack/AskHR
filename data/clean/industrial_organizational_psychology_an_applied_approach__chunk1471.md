@@ -1,0 +1,1 @@
+## Selection Ratio Conversion Table for Utility Formula

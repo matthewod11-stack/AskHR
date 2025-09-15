@@ -1,0 +1,1 @@
+## From the Magazine (March–April 2024) / Case Study and Commentary Reprint R2402M

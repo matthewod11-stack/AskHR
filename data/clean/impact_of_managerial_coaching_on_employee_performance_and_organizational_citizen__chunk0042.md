@@ -1,0 +1,1 @@
+## Note: N= 280 *p < .05, two-tailed **p < .01, two-tailed.

@@ -1,0 +1,1 @@
+# Types of Organizational Communication Upward Communication Downward Communication Business Communication Informal Communication

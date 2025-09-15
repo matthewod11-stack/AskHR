@@ -1,0 +1,1 @@
+## attitudes towards individualism, long-term decision-making, and risk

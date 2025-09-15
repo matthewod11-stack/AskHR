@@ -1,0 +1,1 @@
+# Figure 3.1 Graphic Trait Rating Scale

@@ -1,0 +1,1 @@
+## The Portuguese Psychological Society was founded.

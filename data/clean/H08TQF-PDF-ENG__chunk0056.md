@@ -1,0 +1,1 @@
+## scale, transparency matters more than performance, and domain

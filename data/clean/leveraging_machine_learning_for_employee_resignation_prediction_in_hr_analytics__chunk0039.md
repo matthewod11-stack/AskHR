@@ -1,0 +1,9 @@
+## w/ random graph w/ o a(cid:2386)ention Graph A(cid:2386)ention Network (GAT)
+
+0.78 0.85 0.91
+
+0.74 0.81 0.89
+
+neighbors. Even inferior performance of the model with a random graph topology emphasizes the need of the interactions among employees in the prediction process. (cid:2399)e results of the experiment show that in forecasting employee a(cid:2386)rition, the Graph A(cid:2386)ention Network (GAT) much outperforms conventional machine learning models including logistic regression and decision trees. (cid:2399)e GAT model o(cid:2646)ers HR departments a potential strategy to actively control employee turnover by capturing intricate interactions between employees, therefore producing more accurate and dependable forecasts.
+
+5 Conclusion In this article, we developed a fresh method based on Graph At- tention Networks (GAT) for employee a(cid:2386)rition prediction. Our methodology beats conventional machine learning models includ- ing logistic regression and decision trees by using the graph-based structure of employee characteristics and catching the intricate interactions among them. (cid:2399)e experimental results show that GAT can o(cid:2646)er HR departments useful insights and more precise and dependable forecasts, therefore helping them to proactively control sta(cid:2646) turnover. Moreover, the way feature connections are shown emphasizestheneedofimportantemployeetraitsina(cid:2386)ritionpredic- tion, therefore o(cid:2646)ering a be(cid:2386)er knowledge of the elements a(cid:2646)ecting employee behavior. (cid:2399)is method o(cid:2646)ers a good path to strengthen retention plans and enhance human resource analytics.

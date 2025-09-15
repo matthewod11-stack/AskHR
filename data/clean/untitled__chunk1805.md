@@ -1,0 +1,7 @@
+# The Anatomy of Melancholy
+
+Robert Burton (1577–1640), an English clergyman, wrote The Anatomy of Melancholy, ﬁrst published in 1621. Burton undertook the task of “anatomizing” melancholy, a term that embraced all kinds of madness. He compiled all the descrip- tive and conjectural writings on the nature, causes, and cures of melancholy, accumulated from the classical period to his own time. His book, which went through numerous editions, was highly regarded as a medical treaties into the eighteenth century and is an invaluable source for information regard- ing the history of ideas about mental illness and its treat- ment. Largely derived from Galen and modiﬁed by Christian theology, his work testiﬁes to the longevity of the humoral/ pneumatic theory.
+
+Burton, as had Galen, stated that the passions may be called diseases, and are a frequent cause of melancholy. Other causes include defective heredity; bad nursing in infancy; too rigorous, severe, remiss, or indulgent education by bad parents, step-mothers, and teachers; and loss of lib- erty, servitude, poverty, and death of friends. He wrote that although melancholy is difﬁcult to treat, it may be cured or at least mitigated if it is not hereditary, if it is treated early, and if the patient is willing to be helped. The physician should
+
+311

@@ -1,0 +1,1 @@
+## From the Magazine (March–April 2023) / Reprint R2302A

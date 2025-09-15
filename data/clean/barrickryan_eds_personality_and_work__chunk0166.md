@@ -1,0 +1,5 @@
+# THE HAPPY WORKER 43
+
+helping behavior. Is it possible that happiness can lead to feelings of sociability, helpfulness, and cooperation and to arrogance and insubordination? We do not believe (and have found no evidence) that happiness in any form is likely to lead to these more hostile forms of self-conﬁdence. In fact, in experience sampling studies, we found that when people are feeling happy, they are likely to feel both more assertive and more affectionate (Lucas, 2000).
+
+Organizational research may provide a useful test of these ef- fects. Certain sales jobs, for example, require individuals to be so- ciable and friendly at the same time that they are trying to take advantage of the person to whom they are selling. Does positive af- fect make them appear more friendly at the same time that they are being more cunning (the appearance of helpfulness and co- operation), or does positive affect actually make sales associates more likely to give the buyer a better deal (actual helpfulness and cooperation)? Organizational settings can provide researchers with a unique opportunity to test these separable, and perhaps con- ﬂicting, effects of positive affect.

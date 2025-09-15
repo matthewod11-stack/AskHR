@@ -1,0 +1,3 @@
+# 6.2 Cultural Intelligence
+
+individuals in the two cultures was the difference in how unequal pay is perceived. Russians perceived large differences in pay negatively, whereas Americans expected it. Camiah and Hollinshead’s suggestion to surmount these problems based on differing attributions assumed that adjustment will come easiest to those who focus on relationship building. A relationship allows open exchange of attri- butions that can be used both as a building block for future interactions and abstracted to other experiences.

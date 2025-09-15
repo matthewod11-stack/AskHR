@@ -1,0 +1,5 @@
+## Shepherd et al. BMC Health Services Research (2019) 19:135
+
+Background In recent decades, several key public health care reports and research studies on health care experiences have in- dicated that particular cultural groups are more likely to be underserved, perceive negative treatment, and receive In response, differential health care systems in North America and other CANZUS nations, have endeavored to adapt their ser- vice delivery practices and policies to improve the qual- ity and linguistically diverse groups [4–7]. Industry objectives in health care settings contemporaneously aspire to, i) im- prove cross-cultural communication ii) enhance respon- siveness to the health care needs of diverse patients iii) reduce health care provider discrimination and iv) re- duce health care disparities. Health care organizations have embraced and enlisted a variety of cross-cultural educational approaches (e.g., cultural awareness, cultural competence etc.) to achieve these objectives.
+
+[1–3].

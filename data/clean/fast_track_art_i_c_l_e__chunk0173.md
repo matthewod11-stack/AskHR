@@ -1,0 +1,1 @@
+## TABLE 5. Means and Standard Deviations for Individual-Level Measures

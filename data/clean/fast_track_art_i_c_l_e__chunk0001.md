@@ -1,0 +1,3 @@
+# FromStayWellHealthManagement(DrsTerryandGrossmeierandMrGingerich), St. Paul, Minn, and Mangen Research Associates, Mound, Minn (Dr Mangen).
+
+No grant funding was used to support this research. DrTerry,DrGrossmeier,andMrGingerichwere/areemployeesofStayWellHealth Management (StayWell) at the time this research was conducted. StayWell is a vendor of health management programs, whose products are evaluated in the manuscript. Dr Mangen performed work on this research as a consultant paid by StayWell Health Management. The authors declare no conﬂicts of interest. Address correspondence to: Stefan B. Gingerich, MS, 3000 Ames Crossing Road,

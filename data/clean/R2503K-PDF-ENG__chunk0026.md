@@ -1,0 +1,1 @@
+## HBR / Magazine Article / Leading Global Teams Effectively

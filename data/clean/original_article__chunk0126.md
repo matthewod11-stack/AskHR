@@ -1,0 +1,1 @@
+## Table 6: Mean, standard deviation and correlation coefﬁcients

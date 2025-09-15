@@ -1,0 +1,3 @@
+# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
+
+It feels like great questions will come up as we become more intentional

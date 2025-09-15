@@ -1,0 +1,1 @@
+# Figure 2: The WWL Way Model

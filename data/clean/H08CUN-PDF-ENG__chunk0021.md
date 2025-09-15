@@ -1,0 +1,1 @@
+## HBR / Digital Article / When Resentment Is Building on Your Team

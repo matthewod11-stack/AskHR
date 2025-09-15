@@ -1,0 +1,1 @@
+# price reaction to sudden executive deaths: implications for the management labor market.

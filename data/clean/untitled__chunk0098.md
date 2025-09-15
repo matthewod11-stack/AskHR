@@ -1,0 +1,1 @@
+# Charles L. Brewer, PhD Department of Psychology Furman University Greenville, South Carolina

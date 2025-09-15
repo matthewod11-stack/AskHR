@@ -1,0 +1,3 @@
+# HBR / Digital Article / Research: Immigrants Played an Outsize Role in America’s Age o…
+
+types of individuals in the market is lower due to factors unrelated to

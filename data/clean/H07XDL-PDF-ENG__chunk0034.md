@@ -1,0 +1,1 @@
+## strategic life areas (SLAs): relationships; body, mind, and spirituality;

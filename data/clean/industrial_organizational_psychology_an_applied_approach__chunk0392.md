@@ -1,0 +1,1 @@
+# The Psychologist Manager Journal

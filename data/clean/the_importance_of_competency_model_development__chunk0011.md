@@ -1,0 +1,1 @@
+## Figure 2 | Main advantages of competency model development

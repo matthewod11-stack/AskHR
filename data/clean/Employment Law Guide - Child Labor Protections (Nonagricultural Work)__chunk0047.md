@@ -1,0 +1,1 @@
+## Total daily or weekly straight-time earnings

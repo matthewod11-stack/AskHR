@@ -1,0 +1,1 @@
+## Nzuve, S.N.M. (2010). Management of Human Resources: A Kenyan Perspective.

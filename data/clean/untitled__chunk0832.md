@@ -1,0 +1,7 @@
+# Equilibration
+
+Piaget (1926, 1928, 1952, 1972), like many other theorists of intelligence, recognized the importance of adaptation to in- telligence. Indeed, he believed adaptation to be its most im- portant principle. In adaptation, individuals learn from the environment and learn to address changes in the environ- ment. Adjustment consists of two complementary processes: assimilation and accommodation. Assimilation is the process
+
+of absorbing new information and ﬁtting it into an already existing cognitive structure about what the world is like. The complementary process, accommodation, involves forming a new cognitive structure in order to understand information. In other words, if no existing cognitive structure seems ade- quate to understand new information, a new cognitive struc- ture must be formed through the accommodation process.
+
+The complementary processes of assimilation and accom- modation, taken together in an interaction, constitute what Piaget referred to as equilibration. Equilibration is the bal- ancing of the two, and it is through this balance that people either add to old schemas or form new ones. A schema, for Piaget, is a mental image or action pattern. It is essentially a way of organizing sensory information. For example, we have schemas for going to the bank, riding a bicycle, eating a meal, visiting a doctor’s ofﬁce, and the like.

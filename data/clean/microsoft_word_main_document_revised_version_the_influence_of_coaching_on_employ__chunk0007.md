@@ -1,0 +1,3 @@
+# 1.2 Purpose of the paper
+
+The goal of this paper is to contribute to the literature investigating the impact of coaching on performance, by reporting the results from two international quantitative studies. One of the studies used a sample of business-to-business employees working in one of the central countries in Latin-America for an American industrial manufacturer. The other sample consisted of frontline employees, holding sales responsibilities at one of the biggest regional banks in Central Canada.

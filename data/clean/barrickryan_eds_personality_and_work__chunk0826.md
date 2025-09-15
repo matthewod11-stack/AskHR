@@ -1,0 +1,3 @@
+# New Directions: Dependent Variables
+
+We make many choices when building models and conducting re- search. An especially important set of choices involves the outcome variables, that is, the dependent or criterion variables in our mod- els. The relationships between personality variables and a wide va- riety of criteria have been examined. Most of our research and hence knowledge relates to individual-level performance variables,

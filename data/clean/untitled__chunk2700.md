@@ -1,0 +1,9 @@
+# several goals:
+
+- Attaining inﬂuence in the American Psychological Asso- ciation. We felt it was necessary to have Asian Ameri- cans on governance structures (e.g., boards, committees, and elected ofﬁces) of APA. We tried to help elect those who were concerned about Asian Americans to APA boards and committees so that APA would have to deal with Asian American issues. Because it was necessary to convince APA that AAPA had a solid constituency, in the early days, we told APA that we had over 300 members, but we did not say that most of the members were not dues paying! Recently, AAPA has been able to celebrate its involvement with APA by noting the prominence of some of its members such as Richard Suinn (past president of APA) and Alice Chang (past board of direc- tors member of APA).
+
+- Publications in journals. Publications are important not only for developing research careers, but also for inform- ing others of Asian American research and issues. Some AAPA members felt that journals were not interested in publishing papers on Asian Americans and did not have qualiﬁed reviewers to evaluate Asian American papers. Therefore,anothergoalwastotrytohaveAsianAmericans scholars named to editorial boards or as reviewers for journals.
+
+- Research grants. We needed money to conduct research. We wanted to have input into funding priorities of funding agencies (such as NIMH and NSF), to encourage grant applications on Asian Americans, and to have some of our members serve on research review groups for the agencies. Research on ethnics was largely directed to African Americans and Latino Americans. We felt left out. While AAPA made it clear that funding for all ethnic groups should be increased, we were particularly concerned about the situation with Asian Americans.
+
+491

@@ -1,0 +1,1 @@
+## Fig. 35 Culture Index in three different markets

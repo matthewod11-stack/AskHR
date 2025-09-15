@@ -1,0 +1,1 @@
+## Attitudes. Journal of Monetary Economics, 50, (1), 225-82

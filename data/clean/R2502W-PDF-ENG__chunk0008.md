@@ -1,0 +1,1 @@
+## HBR / Magazine Article / Strategy in an Era of Abundant Expertise

@@ -1,0 +1,5 @@
+## International Psychological Organizations
+
+After 1959, the mission of the ICP was broadened so that the advancement of women and men in psychology was fo- cused on psychological science and practice in the interna- tional arena. The ICP now has women and men members in over 90 countries and sponsors annual meetings at various sites around the world. The ICP is registered as a Non- Governmental Organization with consultative status at the United Nations and has representation on many UN initia- tives. Members of the ICP are organized in committees and interest groups that reﬂect a broad array of psychologi- cal concerns and activities (Davis, 2000; Gielen, Adler, & Milgram, 1992).
+
+The ICP and the APA cohost a reception for international visitors at each annual APA convention. The two organiza- tions also jointly sponsor a program to donate books and journals to libraries in third-world countries.

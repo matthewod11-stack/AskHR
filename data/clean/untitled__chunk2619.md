@@ -1,0 +1,9 @@
+# 472 Undergraduate Education
+
+diversity, breadth and depth of knowledge, methodological competence, practical experience and applications, commu- nications skills, and sensitivity to ethical issues. To accom- plish these goals, a sequence of four levels of courses was recommended: introductory course, methodology courses, content courses, and an integrative or capstone experience. Content courses should be balanced between the natural sci- ence and social science knowledge bases of an increasingly complex discipline. Aspecial section was devoted to the inte- gration of the community college curriculum with upper- division courses in the major taken at another institution.
+
+Perlman and McCann’s (1999b) review of the structures of the undergraduate curriculum in 500 catalogs indicated that the St. Mary’s Conference, like its predecessors, had some intended consequences and speciﬁc areas of minimal inﬂuence. Although a senior capstone experience has been advocated since the Cornell Conference, this recommenda- tion has gone unheeded, particularly in doctoral institutions. The same is true for the teaching of psychometric methods as part of a core methodology trio of courses with statistics and experimental psychology. Fiscal, stafﬁng, and space prob- lems were often cited as obstacles to the development and maintenance of laboratory facilities. These authors drew the following overall conclusions about the status of the curricu- lum at the end of the twentieth century:
+
+The Cornell report’s (Buxton et al., 1952) emphasis on teaching psychology as a scientiﬁc discipline in the liberal arts tradition remains current. The required core as recommended by the St. Mary’s report (Brewer et al., 1993) as implemented by de- partments seems to cover “both natural science and social sci- ence aspects of psychology.” (p. 439, pp. 175–176)
+
+We now turn to the ways in which psychologists evaluated

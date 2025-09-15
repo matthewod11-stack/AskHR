@@ -1,0 +1,1 @@
+## HBR / Digital Article / The Right Way to Implement Stretch Assignments

@@ -1,0 +1,1 @@
+# Job Adaptability Inventory (JAI), 61–62

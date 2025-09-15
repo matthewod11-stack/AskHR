@@ -1,0 +1,1 @@
+Journal of Business and Management Studies ISSN: 2709-0876 DOI: 10.32996/jbms Journal Homepage: www.al-kindipublisher.com/index.php/jbms

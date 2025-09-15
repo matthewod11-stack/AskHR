@@ -1,0 +1,1 @@
+## From the Magazine (July–August 2024) / Reprint R2404K

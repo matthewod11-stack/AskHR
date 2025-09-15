@@ -1,0 +1,1 @@
+# Table 2 Results of Primary Meta-Analysis: Hypothesized Antecedents of Trust in Leadership

@@ -1,0 +1,17 @@
+# REGE 25,1
+
+This finding evidences the importance of these two constructs in the wish of employees to leave. There also exist other variables that maybe identified as the ones in the content analysis that represent rest of the 69.8 percent.
+
+98
+
+The answers of the open question submitted to the content analysis enabled the identification of other variables which influenced the remaining individuals. Beyond mentioned in quantitative part (activity, people, remuneration and commitment), they were identified also by the groups (A and B) the opportunity of learning and the work environment, this is, even who think about leaving consider it a good work environment and a place that enables the learning.
+
+These identified variables require further studies, however, they already are a good source of information to help the management in the retention of talents, as well as they can be used as a base for other studies about the intention to leave for professionals of the area, since all these variables are present in research works regarding the turnover intention of IT professionals (Joseph et al., 2007; Thatcher et al., 2003).
+
+The theme “employees’ turnover in IT,” as said before, is very complex. It is necessary to enlarge this study here in Brazil so that to we can have more clarification about this topic and it will even help to the creation of a turnover model adapted to the Brazilian reality.
+
+As suggested, future research works must be realized to analyze the demographic variables in attitudes and behaviors of IT professionals, since there are no conclusive studies about this subject. Research works of longitudinal nature would be interesting to correlate data of turnover intention with the effective turnover, as well research works in other IT enterprises to verify if the results found here are similar to the results found in other organization. In an exploratory phase, few qualitative research works were found which talked about this subject, maybe because of the peculiarity of the theme. However, the usage of this approach to identify the variables which influence the retention of a specific group of individuals may work as a guide to elaborate a questionnaire.
+
+Some limitations were identified during this research as follows: the locus chosen for the case study was T.E.C, so it would not be possible to generalize this research to other enterprises and institutes of IT; only the technical professionals in T.E.C were chosen as the population that acts directly in the final area of the enterprise, that is, IT professionals who do not execute management functions. It means that it cannot be generalized to all professionals who act in IT enterprises or to managers; a limitation which was determinant in method choose of collecting is due to the fact of one of the researchers be part of the Human Capital of Institute, which impossible that other methods be used, for example, interviews about the theme turnover intention. Probably, any employee would feel comfortable in talking about such delicate subjects with someone in Human Resource Department of the enterprises where he/she works. This limitation was reinforced by the participants of the pre-test.
+
+Note 1. Translator’s note: “celetista” is an adjective in Portuguese language, to describe persons who work

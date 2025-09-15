@@ -1,0 +1,7 @@
+# CHAPTER 10
+
+Focusing on Personality in Person-Organization Fit Research Unaddressed Issues Ann Marie Ryan Amy Kristof-Brown
+
+Kristof-Brown (2000) noted that one can distinguish person-job (PJ) ﬁt, or the match between an applicant’s knowledge, skills, and abilities and the job requirements, and person-organization (PO) fit, that is, the match between the person and broader organizational attributes. One of the primary foci of person-environment ﬁt re- search has been person-vocation (PV) ﬁt (Holland, 1985), or the match between an individual’s attributes and preferences and his or her occupation. Furthermore, researchers have recently begun to explore what could be labeled person-group (PG) ﬁt (Barrick, Stewart, Neubert, & Mount, 1998; Kristof-Brown & Stevens, 2001; Chapter Seven, this volume), or the ﬁt between a person and mem- bers of his or her immediate work group. In all of these types of ﬁt— PO, PJ, PV, and PG ﬁt—personality may play a role. Furthermore, there are relationships between these (with a poor PV ﬁt, one may also experience poor PJ ﬁt; poor PJ or PG ﬁt might negatively in- ﬂuence perceptions of PO ﬁt), although research has supported their distinctiveness (Kristof-Brown, 2000; Lauver & Kristof-Brown, 2002; Saks & Ashforth, 1997). We focus our chapter solely on PO ﬁt because research on PJ and PV ﬁt and personality is more ex-
+
+262

@@ -1,0 +1,1 @@
+## employee compensation of $50/hour, and an average employee count

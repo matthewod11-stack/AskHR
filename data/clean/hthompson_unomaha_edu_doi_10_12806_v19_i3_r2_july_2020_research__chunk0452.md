@@ -1,0 +1,1 @@
+## Figure 7. Leadership Framework Emphasis for RD2

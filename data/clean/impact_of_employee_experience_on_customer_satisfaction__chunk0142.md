@@ -1,0 +1,1 @@
+## Commitment, Pride, Achievement, Alignment, Effort

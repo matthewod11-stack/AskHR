@@ -1,0 +1,1 @@
+## X_train2, X_test2, y_train2, y_test2 = train_test_split(X2, y2, random_state=42)

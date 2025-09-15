@@ -1,0 +1,1 @@
+# c. Competence and effort

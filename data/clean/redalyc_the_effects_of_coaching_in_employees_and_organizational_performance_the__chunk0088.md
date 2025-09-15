@@ -1,0 +1,1 @@
+## Intangible Capital – http://dx.doi.org/10.3926/ic.586

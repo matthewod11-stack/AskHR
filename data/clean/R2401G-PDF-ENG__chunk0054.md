@@ -1,0 +1,1 @@
+## “ankle swelling,” “tachycardia” into “fast heart rate,” and “idiopathic”

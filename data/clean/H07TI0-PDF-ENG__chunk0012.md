@@ -1,0 +1,15 @@
+# as conditions shift.
+
+For instance, instead of a sales manager’s job description listing tasks
+
+such as “meet key clients once per quarter ” or “prepare sales reports on
+
+a monthly basis,” it would describe outcomes such as “increase regional
+
+sales by 15%” and “improve customer retention by 10%.”
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

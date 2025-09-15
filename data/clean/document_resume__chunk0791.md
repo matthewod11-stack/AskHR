@@ -1,0 +1,1 @@
+## Stress, in some way, important points in the material"

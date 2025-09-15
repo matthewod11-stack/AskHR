@@ -1,0 +1,1 @@
+# McCormack, B. (2004) Person-centredness in gerontological nursing: an overview of the literature.

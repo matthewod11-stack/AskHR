@@ -1,0 +1,1 @@
+## Table 5: Regression Coefficients to Examine Thriving at Work

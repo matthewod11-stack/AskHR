@@ -1,0 +1,3 @@
+## Keywords: Talent management, Employee performance, Telecommunication, Pakistan
+
+INTRODUCTION Talent management has become vital for organizational competitiveness and sustainability in dynamic business environment. This aspect is receiving importance and attention of researchers that necessitates further exploring this phenomenon (Collings & Mellahi, 2009). Within the context of Pakistan, the telecommunication industry is experiencing performance gap and organizations are pursuing talent management strategies to improve performance (Cooke, 2014).

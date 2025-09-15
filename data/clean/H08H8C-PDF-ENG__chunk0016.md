@@ -1,0 +1,1 @@
+## homework to share their perspective, and proactively shares their own

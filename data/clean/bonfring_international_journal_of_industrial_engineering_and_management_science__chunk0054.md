@@ -1,0 +1,1 @@
+## [8] Greer,R. Strategic Human Resource Management: A general managerial

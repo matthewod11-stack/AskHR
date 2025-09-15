@@ -1,0 +1,1 @@
+# responsiveness, flexible robustness in relationship and orientation of entities towards goal

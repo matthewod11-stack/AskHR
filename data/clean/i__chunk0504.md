@@ -1,0 +1,9 @@
+# # Print out the best result
+
+print("Best result is obtained using", grid_result.best_params_)
+
+Best result is obtained using {'max_depth': 6, 'min_samples_leaf': 10}
+
+73
+
+attrition_rf = RandomForestClassifier(n_estimators = 200, max_depth = 6,

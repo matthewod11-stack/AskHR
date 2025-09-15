@@ -1,0 +1,1 @@
+# conditions under which subminimum wages may be paid. The poster must be posted in a conspicuous place

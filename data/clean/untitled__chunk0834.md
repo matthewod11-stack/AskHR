@@ -1,0 +1,5 @@
+# Vygotsky and Feuerstein’s Theories
+
+Whereas Piaget has emphasized primarily biological matura- tion in the development of intelligence, other theorists inter- ested in structures, such as Vygotsky (1978) and Feuerstein (1979), have emphasized more the role of interactions of in- dividuals with the environment. Vygotsky suggested that basic to intelligence is internalization, which is the internal reconstruction of an external operation. The basic notion is that we observe those in the social environment around us acting in certain ways and we internalize their actions so that they become a part of ourselves.
+
+Vygotsky (1978) gave as an example of internalization the development of pointing. He suggested that, initially, point- ing is nothing more than an unsuccessful attempt to grasp something. The child attempts to grasp an object beyond his reach and, initially, is likely to fail. When the mother sees the

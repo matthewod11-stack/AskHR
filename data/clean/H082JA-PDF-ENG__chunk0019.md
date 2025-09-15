@@ -1,0 +1,1 @@
+## agility, empowerment, and direct communication.

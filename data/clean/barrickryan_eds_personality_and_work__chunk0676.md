@@ -1,0 +1,1 @@
+## Personality and Social Psychology, 30, 526–537.

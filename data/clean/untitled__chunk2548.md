@@ -1,0 +1,3 @@
+# 460 Health Psychology
+
+advances in medical technology in assessment and treatment (e.g., ambulatory monitoring, home testing, imaging tech- niques, medical devices), organ and tissue transplantation, pharmacology, telehealth, health informatics, primary care, and issues of diversity in health care. Participants remained excited about future opportunities for growth in the ﬁeld and for its potential to make signiﬁcant contributions to the public welfare.

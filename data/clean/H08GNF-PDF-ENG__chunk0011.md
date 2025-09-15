@@ -1,0 +1,9 @@
+# generally start with:
+
+- Tell me about a time when…
+
+- Have you ever had to deal with….
+
+- Give me an example of…
+
+- Describe a situation where…

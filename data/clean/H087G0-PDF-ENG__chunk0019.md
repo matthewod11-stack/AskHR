@@ -1,0 +1,1 @@
+## Legislation such as the United States’ Americans with Disabilities

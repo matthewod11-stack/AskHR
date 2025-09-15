@@ -1,0 +1,1 @@
+## HBR / Magazine Article / The Power of Strategic Fit

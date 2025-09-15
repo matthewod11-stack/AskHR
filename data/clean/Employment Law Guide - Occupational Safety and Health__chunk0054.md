@@ -1,0 +1,1 @@
+## By telephone to the 24-hour OSHA hotline (1-800-321-OSHA or 1-800-321-6742).

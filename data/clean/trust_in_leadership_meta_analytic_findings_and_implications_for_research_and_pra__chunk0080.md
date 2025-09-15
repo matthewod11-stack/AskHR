@@ -1,0 +1,3 @@
+# Discussion
+
+The concept of trust in leadership has played an important role in numerous literatures. To date, however, there has been no attempt to quantitatively summarize and explore the theoretical underpinnings of this body of research. In this article we have provided the first meta-analysis of the primary relationships be- tween trust in leadership and other constructs, explored whether different specifications of the construct moderate these primary relationships, and attempted to provide insight and theoretical parsimony to the literature on trust in leadership.

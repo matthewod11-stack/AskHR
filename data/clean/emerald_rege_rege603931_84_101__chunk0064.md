@@ -1,0 +1,1 @@
+# Table VIII. Correlation among dimensions of job satisfaction and turnover intention

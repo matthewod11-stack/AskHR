@@ -1,0 +1,1 @@
+## Development, Efficiency, Knowledge, Methods, Organization, Skills, Training.

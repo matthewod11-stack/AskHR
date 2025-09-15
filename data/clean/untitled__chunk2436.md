@@ -1,0 +1,3 @@
+# STRENGTHS OF PERSONS AND COMMUNITIES
+
+Throughout the course of the history of health and social sciences, there has been a trend of moving from a deﬁcits perspective toward an emphasis on positive development of people and their communities. More speciﬁcally, the strengths perspective, and how it should be both deﬁned and addressed, has been discussed among community psycholo- gists over the past 35 years since Swampscott (Bennett et al., 1966; Chavis, 1993; Cowen, 1997, 2000b; Glidewell, 1977;

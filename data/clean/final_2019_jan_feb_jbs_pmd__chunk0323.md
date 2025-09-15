@@ -1,0 +1,1 @@
+# Table 2 ANOVA MEAN_GP

@@ -1,0 +1,1 @@
+excellent job, it would be difficult to leave an organization if the only alternative was to relocate to another community.

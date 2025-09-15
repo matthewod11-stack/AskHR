@@ -1,0 +1,1 @@
+## McCosh, J. (1886). Psychology: The cognitive powers. New York:

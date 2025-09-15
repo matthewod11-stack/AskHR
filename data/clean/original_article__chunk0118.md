@@ -1,0 +1,1 @@
+# 10 per cent; no degree 1 per cent

@@ -1,0 +1,9 @@
+# S
+
+future and is probably the most important test that you will ever take. Treat it as such and prepare.
+
+Take at least one psychology course in each of the areas of statistics, experimental methods, abnor- mal psychology, personality, social psychology, physiological psychology, learning, and cognitive psychology; each area is covered in the GRE’s psy- chology portion. Although courses in sex and group dynamics are interesting and will help you in the future, they will not help you to score well on the GRE.
+
+Make sure that you have at least three people who can write positive letters of recommendation for you. Getting an A in a professor’s class is not enough to expect a good letter that will carry weight with an admissions committee. Let the professors get to know you as both student and person. Talk with different professors and become involved with their research; this not only will allow you to have research of your own to show prospective graduate programs, but will result in better and more com- plete letters of recommendation. Get involved! Conduct independent research proj- ects, join professional clubs, get a summer job or an internship related to your field—anything to demonstrate your desire to be a professional.
+
+that the dissertation is broader in scope, longer, and requires more original and independent effort than the thesis (Riddle & Foster, ). Doctoral programs also involve a series of comprehensive exams that are similar to, but more extensive than, the exams taken in a master’s program. A complete list of I/O psychology graduate programs can be found on the text webpage. (Information on programs is available from the SIOP at www.siop.org).

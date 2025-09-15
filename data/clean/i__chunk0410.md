@@ -1,0 +1,1 @@
+# result = logit_model.fit()

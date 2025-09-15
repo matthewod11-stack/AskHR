@@ -1,0 +1,1 @@
+# # Move the file to the new name shutil.move(os.path.join(folder_name, file), os.path.join(folder_name, new_file_name))

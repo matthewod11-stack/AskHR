@@ -1,0 +1,1 @@
+## International Journal of Nursing Studies 44 (2007) 297–314

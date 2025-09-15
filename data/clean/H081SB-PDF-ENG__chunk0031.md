@@ -1,0 +1,3 @@
+# AD
+
+Andrea Derler is Visier’s principal of research and value, where she collaborates with Visier’s team of data scientists, people analytics experts, as well as HR professionals to help produce practical, data-driven insights for organizations. Visier is a Canadian-based people analytics technology provider, which maintains a database of more than 15 million employee records from over 15,000 companies globally.

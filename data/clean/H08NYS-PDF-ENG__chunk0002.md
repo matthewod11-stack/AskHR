@@ -1,0 +1,1 @@
+# Wong Yu Liang/Getty Images

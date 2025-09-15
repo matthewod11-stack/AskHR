@@ -1,0 +1,3 @@
+# I Setiawan (2020)
+
+I Setiawan et.al done the research on “HR Analytics-Employee Attrition using Logistic Regression.” Researchers used Logistic Regression for the employee attrition. For more analysing understanding the authors apply R studio for data mixing, empirical data analysis, data planning, and logistic visualization. Authors created 5 stages of their study – data gathering and business awareness, data pre- managing, experimental data analysis, model selection and preparation, and analysis & assessment of the model.

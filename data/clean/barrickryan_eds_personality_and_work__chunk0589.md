@@ -1,0 +1,3 @@
+# Team-Level Personality
+
+Applying the concept of personality to teams risks anthropomor- phism, which occurs when things not human are ascribed human characteristics. Although such application can often be danger- ously superﬁcial, Kozlowski and Klein (2000) point out that a process of emergence can occur whereby individual phenomena aggregate to form collective phenomena. The key to effective cross- level application is to clearly describe the nature of the construct at the new level and how the phenomena are linked across levels.

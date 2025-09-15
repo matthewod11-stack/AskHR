@@ -1,0 +1,1 @@
+## 24.Seu líder costuma reservar um tempo para apresentar os resultados

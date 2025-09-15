@@ -1,0 +1,1 @@
+# HBR / Digital Article / How One Person Can Change the Conscience of an Organization

@@ -1,0 +1,3 @@
+# 1.5.3 Informational Purpose
+
+Performance management systems serve as an important communication device. First, they inform employees about how they are doing and provide them with information on specific areas that may need improvement. Second, related to the strategic purpose, they provide information regarding the organization’s and the supervisor’s expecta- tions and what aspects of work the supervisor believes are most important.

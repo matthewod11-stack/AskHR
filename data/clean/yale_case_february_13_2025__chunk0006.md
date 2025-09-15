@@ -1,0 +1,1 @@
+## Figure 2: Key areas of potential company failure

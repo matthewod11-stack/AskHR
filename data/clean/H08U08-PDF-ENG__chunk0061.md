@@ -1,0 +1,1 @@
+## En tiempos de incertidumbre, es tentador para las organizaciones

@@ -1,0 +1,1 @@
+# Al-Hussaini, S. H., Turi, J. A., Altamimi, A. N. A., Khan, M. A., & Ahmad, M. (2019). Impact Of Talent Management Strategies On Employee Performance Behaviour With The Mediating Role Of Talent Management Outputs. Archives of Business Research, 7(3), 116-124.

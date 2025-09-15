@@ -1,0 +1,1 @@
+## of participants, in-person or virtual, the sensitivity of the topic, time

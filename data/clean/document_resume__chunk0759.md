@@ -1,0 +1,1 @@
+## Instruction on the avoidance of common pitfalls in rating

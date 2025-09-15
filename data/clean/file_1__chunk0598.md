@@ -1,0 +1,1 @@
+## Table 1 Key Supply- and Demand-Side Factors Predicting Monthly Pay Level

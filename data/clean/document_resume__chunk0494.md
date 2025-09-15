@@ -1,0 +1,1 @@
+## Sidney Fine's Functional Job Analysis, developed during and after World War II.

@@ -1,0 +1,1 @@
+# placement of a child for adoption or foster care, for the care of a child, spouse, or parent with a serious health condition, or

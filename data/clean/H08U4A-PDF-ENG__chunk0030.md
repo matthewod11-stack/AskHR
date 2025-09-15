@@ -1,0 +1,1 @@
+## and customers, as well as external stakeholders such as suppliers

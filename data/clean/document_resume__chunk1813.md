@@ -1,0 +1,1 @@
+## Reads and incorporates research from professional journals in academic work.

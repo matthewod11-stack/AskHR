@@ -1,0 +1,1 @@
+## HBR / Digital Article / How a Playful Mindset Can Boost Creativity on Your Team

@@ -1,0 +1,3 @@
+# The Nature of Systems Models
+
+In recent times, systems models have been proposed as use- ful bases for understanding intelligence. These models seek to understand the complexity of intelligence from multiple points of view and generally combine at least two and often more of the models described above. For example, Gardner (1983, 1993, 1999) has proposed a theory of multiple intel- ligences, according to which intelligence is not just one thing but multiple things. According to this theory, there are 8 or possibly even 10 multiple intelligences—linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic,

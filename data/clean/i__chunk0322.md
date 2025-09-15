@@ -1,0 +1,1 @@
+# We conduct to check and drop features with just one value

@@ -1,0 +1,1 @@
+## Figure 3.1. The Full Motivational Mediator Model.

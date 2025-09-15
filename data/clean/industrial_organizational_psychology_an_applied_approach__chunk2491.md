@@ -1,0 +1,3 @@
+# S
+
+Just because your coworkers are constantly com- plaining about the job or the organization doesn’t mean that you have to as well. Change the topic or remain silent. Try to socialize with employees who have a better attitude. The longer you hang around the whiners, the worse your attitude will be. If you don’t think you are being treated fairly or are not being appreciated, say something. Rationally explain to your supervisor why you think you are

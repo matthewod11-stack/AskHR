@@ -1,0 +1,9 @@
+## Part IV • Reward Systems, Legal Issues, and Team Performance Management
+
+for a total of not more than five bands that would include all jobs, from security guards to professors to university president.
+
+Broad banding has become increasingly popular worldwide. For example, a survey distributed to 193 organizations by the Institute of Personnel and Development (IPD) showed that broad banding is the most commonly used pay structure.33 This same survey indicated that the foremost reason for implementing broad banding is that it provides more flexibility in rewarding people. Other rea- sons include the need to reflect changes in organizational structure, to provide a better base for rewarding growth in competence, to devolve more responsibility for pay decisions to managers, and to provide a better basis for rewarding career progression.
+
+The fact that so many organizations are embracing broad banding to design their pay structures is reflective of changes in the nature of work. Because of the democratization of information produced by the Internet, workers can gather data about what other organizations are paying employees with similar skills and experi- ence. Those workers who believe that they are underpaid can try to find work elsewhere. Organizations cannot afford to lose their most competent workers, and having a pay structure based on broad banding allows salary increases for individuals based on merit that do not require a change in job classification or even job title. In addition, organizations are becoming flatter and less hierarchical, and broad banding reflects these organizational changes. Because of this, the IPD report concluded that “whatever the many forms broad banding takes, it seems to be here to stay.”
+
+So far, this chapter has discussed the relationship between performance manage- ment and reward systems. Next, we turn to a different topic: the relationship between performance management and the law.

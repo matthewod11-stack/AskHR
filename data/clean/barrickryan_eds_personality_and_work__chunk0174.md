@@ -1,0 +1,3 @@
+# 48 PERSONALITY AND WORK
+
+The increased vigilance of the unhappy worker does, however, have a trade-off: these workers may not be as efﬁcient or as able to deal with complicated tasks as the happy individual. Happy work- ers may adopt more efﬁcient processing strategies and more ef- fective heuristics that allow them to accomplish complicated tasks very quickly, even if they are more likely to make errors. Thus, happy people may be able to engage in multitasking and other complicated tasks more effectively.

@@ -1,0 +1,1 @@
+# Brogden-Cronbach-Gleser

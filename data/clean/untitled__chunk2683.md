@@ -1,0 +1,7 @@
+# ADELBERT M. JENKINS
+
+In the nearly 40-year period of my professional career, which began in the early 1960s, I have been privileged to witness important social and political changes in American society. While important to the nation generally, the events of this period provided a context for changes within the discipline of psychology, as well. An important expression of these times was the civil rights movement in America. The dynamics emerging from this crusade required psychol- ogy to reexamine its descriptive stance toward African Americans and people of color generally. Prior to the 1960s
+
+if mainstream twentieth century social science turned its at- tention to African Americans, it tended to stress the ineffec- tualness of the adaptive abilities of ethnic minority people (Thomas & Sillen, 1972). Typical were such comments as those of the psychiatrists Kardiner and Ovesey (1951/1962). Impressed with the debilitating psychological effects that centuries of American racism had on African Americans, they concluded that the “Negro has no possible basis for a healthy self-esteem” (p. 297). Crain and Weisman (1972) in their large scale study of northern Black adults noted their
+
+483

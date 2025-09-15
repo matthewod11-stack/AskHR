@@ -1,0 +1,1 @@
+# GureckisTM, MarkantDB.2012.Self-directed learning:acognitiveand computationalperspective.Perspect.

@@ -1,0 +1,1 @@
+## the default meeting length on Outlook software from 30 minutes to 15

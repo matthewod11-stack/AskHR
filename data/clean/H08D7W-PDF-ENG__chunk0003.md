@@ -1,0 +1,1 @@
+## HBR / Digital Article / 4 Pillars of Innovation Every Organization Needs

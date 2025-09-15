@@ -1,0 +1,23 @@
+# HBR / Digital Article / Research: When Is Leniency the Right Response to Employee M…
+
+Will your decision to be lenient display bias, favoritism, and unjust
+
+application of the rules? Or will it demonstrate your sense of humanity
+
+and compassion? That is, will other employees understand the merits
+
+of being lenient or the need to be compassionate toward the oﬀender?
+
+And do other employees understand any personal issues behind the
+
+misconduct that might inspire compassion?
+
+How others see your decisions meaningfully inﬂuences how they will
+
+act. Because our research suggests that leniency can evoke strong
+
+reactions — and even contempt — from observing employees (unless
+
+there is a clear and compelling reason for compassion), suspend your
+
+own perspective as a manager to consider the impact of your response

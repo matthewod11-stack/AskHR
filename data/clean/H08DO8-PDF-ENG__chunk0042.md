@@ -1,0 +1,1 @@
+## HBR / Digital Article / How CEOs Are Using Gen AI for Strategic Planning

@@ -1,0 +1,1 @@
+## construído por Legerstee (2013), um índice considerado extremamente alto.

@@ -1,0 +1,3 @@
+# P
+
+ﬁ ndings? It is clear that icon/symbol signs are easier to read than signs contain- ing text. However, seeing a symbol and understanding its meaning are two diﬀ er- ent things. Look at the highway signs shown in Figure A.. All of them are easy to read, yet some of them may not be familiar to you. If you aren’t familiar with the meaning, or if you are familiar with the meaning (“slow down” in the Figure) but

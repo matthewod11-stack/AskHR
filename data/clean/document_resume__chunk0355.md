@@ -1,0 +1,1 @@
+# Above Average (20%)

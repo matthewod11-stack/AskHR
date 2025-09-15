@@ -1,0 +1,1 @@
+## The Finnish Psychological Society was founded.

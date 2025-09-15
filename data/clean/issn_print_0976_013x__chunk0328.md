@@ -1,0 +1,1 @@
+# sustainability dimensions for Industry 5.0 and the hyper-agile environment. The research

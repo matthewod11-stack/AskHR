@@ -1,0 +1,1 @@
+# Employee Attrition Prediction in the USA: A Machine Learning Approach for HR Analytics and Talent Retention Strategies

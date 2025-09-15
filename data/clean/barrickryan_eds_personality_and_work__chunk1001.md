@@ -1,0 +1,1 @@
+## ing, 250–254; personal striving to- ward, 64–66; and self-conﬁdence, 41–42

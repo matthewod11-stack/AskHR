@@ -1,0 +1,3 @@
+# HBR / Digital Article / Don’t Let Your Company’s Culture Stifle Leadership Developme…
+
+Playbook, 95% of VPs voluntarily attended our ﬁrst executive program,

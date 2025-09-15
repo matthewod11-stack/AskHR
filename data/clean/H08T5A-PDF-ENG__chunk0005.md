@@ -1,0 +1,1 @@
+## unusually fragile work culture—all reliant on the adrenaline of constant

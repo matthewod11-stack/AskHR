@@ -1,0 +1,1 @@
+## The Scientiﬁc Revolution and a New Understanding

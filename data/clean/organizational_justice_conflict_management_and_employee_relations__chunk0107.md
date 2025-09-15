@@ -1,0 +1,1 @@
+## Table IV. Convergent and discriminant validity

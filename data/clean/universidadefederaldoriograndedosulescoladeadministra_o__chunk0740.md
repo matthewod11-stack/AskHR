@@ -1,0 +1,1 @@
+## 22.Comparada às pesquisas de clima organizacional tradicionais, você considera

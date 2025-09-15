@@ -1,0 +1,3 @@
+# 74
+
+Table 4 presents the results of OLS regression analysis in which two models are represented. Due to the missing information in some of the responses, the effective sample size for regression analyses is N=610 and 606 respectfully. The table consists of two models. The first one incorporates the impact of various factors on employees’ perceptions of societal gender inequality, and the second depicts the impact of the same factors on employees’ perceptions of workplace gender inequality.

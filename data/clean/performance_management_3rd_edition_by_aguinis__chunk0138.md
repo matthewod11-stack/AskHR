@@ -1,0 +1,9 @@
+## Chapter 1 • Performance Management and Reward Systems in Context
+
+their present job. As an illustration of this point, results of a study including 93 professors at a university in South Africa suggested that the implementation of a good performance management system would be useful in preventing them from leaving their university jobs.18
+
+- 15. Voice behavior is encouraged. A well-implemented performance management system allows employees to engage in voice behavior that can lead to improved organizational processes. Voice behavior involves making suggestions for changes and improvements that are innovative, challenge the status quo, are intended to be constructive, and are offered even when others disagree.19 For example, the per- formance review meeting can lead to a conversation during which the employee provides suggestions on how to reduce cost or speed up specific process.
+
+- 16. Employee engagement is enhanced. A good performance management system leads to enhanced employee engagement. Employees who are engaged feel involved, committed, passionate, and empowered. Moreover, these attitudes and feelings result in behaviors that are innovative and, overall, demonstrate good organizational citizenship and take action in support of the organization. Employee engagement is an important predictor of organizational performance and success and, consequently, engagement is an important contribution of good performance management systems.20
+
+Table 1.1 lists the 16 contributions made by performance management systems. Recall Sally’s situation earlier in the chapter. Which of the contributions included in Table 1.1 result from the system implemented at Sally’s organization? For example, are Sally’s employees more motivated to perform as a consequence of implementing their “performance management” system? Is their self-esteem increased? What about Sally’s

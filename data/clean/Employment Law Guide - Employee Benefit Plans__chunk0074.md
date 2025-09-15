@@ -1,0 +1,1 @@
+# In addition, ERISA's general prohibitions against assignment or alienation of retirement beneﬁts do not apply

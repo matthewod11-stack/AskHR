@@ -1,0 +1,1 @@
+## Path-goal theory Situational leadership theory Vertical dyad linkage theory

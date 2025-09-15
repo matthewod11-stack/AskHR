@@ -1,0 +1,1 @@
+## Table 7. Variables scores for athlete leaders groups.

@@ -1,0 +1,1 @@
+# Copyright 2002 by the American Psychological Association, Inc. 0021-9010/02/$5.00 DOI: 10.1037//0021-9010.87.4.611

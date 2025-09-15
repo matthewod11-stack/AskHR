@@ -1,0 +1,1 @@
+## X3= attrition_data.drop(['Attrition'], axis=1)

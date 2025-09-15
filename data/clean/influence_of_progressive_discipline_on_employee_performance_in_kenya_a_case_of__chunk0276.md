@@ -1,0 +1,3 @@
+## Figure 4.8: Rating of employee disciplinary procedures
+
+The study sought to establish about employee understanding disciplinary procedures at Mukurwe-ini Dairy Ltd. The study found out that most of the respondents (45%) were of the opinion that they understood employee disciplinary procedures to a moderate extent, 27% cited to a great extent and 28% to no extent at all. According to whitford(2006) stated that disciplinary procedures need to be supervisors. understood by

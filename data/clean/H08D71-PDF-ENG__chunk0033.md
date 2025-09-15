@@ -1,0 +1,3 @@
+# HBR / Digital Article / The 4 Key Strengths of China’s Economy — and What They Mea…
+
+heavy- and medium-duty trucks in 2023, which is approximately 30%

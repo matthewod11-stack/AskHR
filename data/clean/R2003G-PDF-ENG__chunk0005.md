@@ -1,0 +1,1 @@
+## From the Magazine (May–June 2020) / Reprint R2003G

@@ -1,0 +1,1 @@
+## Weiner, B. (1983). Some methodological pitfalls in attribution research.

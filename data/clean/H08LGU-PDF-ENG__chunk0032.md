@@ -1,0 +1,1 @@
+## and contributes to the independence, dignity, and agency of all people.

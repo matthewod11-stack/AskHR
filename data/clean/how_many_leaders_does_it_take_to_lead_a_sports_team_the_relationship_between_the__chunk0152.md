@@ -1,0 +1,1 @@
+## Table 6. Differences between zero, one, or two external leaders.

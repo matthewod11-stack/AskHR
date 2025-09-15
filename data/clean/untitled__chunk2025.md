@@ -1,0 +1,1 @@
+# Psychological Clinic, 3, 266–280.

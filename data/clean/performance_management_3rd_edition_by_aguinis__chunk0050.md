@@ -1,0 +1,1 @@
+## (cid:2) CASE STUDY 5-4: Creating BARS-Based Graphic Rating Scales for

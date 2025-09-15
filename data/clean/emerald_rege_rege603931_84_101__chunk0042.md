@@ -1,0 +1,1 @@
+## Table IV. Indicators of job satisfaction and general satisfaction (frequency)

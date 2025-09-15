@@ -1,0 +1,1 @@
+## Orderliness Decisiveness-consistency Reliability, industriousness

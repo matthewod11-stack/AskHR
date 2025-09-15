@@ -1,0 +1,3 @@
+# 42
+
+regard to the first two research objectives, which are addressed in papers 1 and 2, are presented in section 5.1.1. The findings and contributions in connection with the third research objective, which is delivered in paper 3, are discussed in section 5.1.2. Finally, the findings and contributions responding to the last objective, which is examined in the last paper 4, are addressed in the subsequent section 5.1.3.

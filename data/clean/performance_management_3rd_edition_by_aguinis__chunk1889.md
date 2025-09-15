@@ -1,0 +1,3 @@
+## FIGURE 11.2 Performance Management Process
+
+You will probably recognize these KSAs because they are closely related to our discussion in Chapter 4 of what we labeled contextual performance, prosocial behaviors, or organizational citizenship behaviors. Contextual and task performance must be considered separately because they are not necessarily parallel. An employee can be highly proficient at her task but be an underperformer regarding contextual

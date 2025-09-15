@@ -1,0 +1,3 @@
+## FORMALIZATION AS A FIELD OF INQUIRY AND PRACTICE
+
+The more formalized ﬁeld of psychosomatic medicine emerged between 1920 and 1950, dominated by two major frameworks: psychodynamic and psychophysiologic. Major contributions of psychosomatic medicine were the recogni- tion of the role of psychological and social factors in the etiology, course, maintenance, and treatment of disease (especially those that deﬁed biomedical explanations), and the promotion of behavioral health research.

@@ -1,0 +1,1 @@
+## Published on HBR.org / October 31, 2018 / Reprint H04MNA

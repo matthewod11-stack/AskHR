@@ -1,0 +1,1 @@
+## HBR / Magazine Article / Lessons from Large Family Firms About Choosing a CEO

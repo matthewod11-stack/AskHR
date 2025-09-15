@@ -1,0 +1,1 @@
+# The ﬁrst International Congress of Behavioral Medicine took place in Uppsala, Sweden.

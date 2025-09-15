@@ -1,0 +1,1 @@
+## exertional heat stroke and other medical emergencies.”

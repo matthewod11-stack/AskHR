@@ -1,0 +1,11 @@
+# Reasons for Aﬃ rmative Action Plans
+
+Organizations have affirmative action plans for one of four reasons, two of which are involuntary and two voluntary (Robinson, Allen, & Abraham, ).
+
+Involuntary: Government Regulation Most affirmative action requirements are the result of Presidential Executive Order . This order, as well as sections of several laws, requires federal con- tractors and subcontractors with more than  employees to submit an annual EEO- Report and requires federal contractors and subcontractors with contracts in excess of $, to have formal affirmative action plans. Most state and local governments also have such requirements, although the number of employees and dollar amounts of contracts will differ. These mandatory affirmative action plans typically involve analyses of all major job categories and indicate which cat- egories have underrepresentations of the protected classes, as well as goals and plans for overcoming such underrepresentations.
+
+Involuntary: Court Order When a court finds a public agency such as a police or fire department guilty of not hiring or promoting enough members of a protected class, it can order the agency to begin an affirmative action program. As previously discussed, this pro- gram may involve increased recruitment efforts or may entail specific hiring or promotion goals.
+
+Voluntary: Consent Decree If a discrimination complaint has been filed with a court, a public agency can “voluntarily” agree to an affirmative action plan rather than have a plan forced on it by the court. With a consent decree, the agency agrees that it has not hired or promoted enough members of a protected class and is willing to make changes. The specific nature of these changes is agreed upon by the group filing the com- plaint and the agency that is the subject of the complaint. This agreement is then approved and monitored by the court.
+
+Voluntary: Desire to Be a Good Citizen Rather than wait for a discrimination complaint, some organizations develop affirmative action programs out of a desire to be good citizens. That is, they want to voluntarily ensure that their employment practices are fair to all groups of people.

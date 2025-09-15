@@ -1,0 +1,5 @@
+# Who is Covered
+
+The major goal in performance appraisal should be to access individual work related contributions within the total institution--not just the faculty, nor the administra- tion, nor the support staff. A performance appraisal program should be for everyone, beginning with the president. There should be, of course, different procedures for dif- ferent job families. The performance of a dean is measured in terms of outcomes such as goals achieved and expectations net while the performance a library technician is expressed in temis of appropriate job-related behaviors. But in the final analysis, each person's performance is rated against a standard.
+
+While there is disagreement in the literature on rating formats and rating scales, it is necessary to develop appropriate instrumentation. At Southern Union there are three subsystems, however, they each follow the same rules of combination and produce a rating on a 5-point scale. Thusi department chair, instructor, and custodian who receive an overall rating of "3.5" are performing at the same level, albeit in vastly different roles.

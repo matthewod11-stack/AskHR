@@ -1,0 +1,3 @@
+# HBR / Digital Article / Surveilling Employees Erodes Trust — and Puts Managers in a B…
+
+for developmental purposes, rather than punitive ones, when engaging

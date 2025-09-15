@@ -1,0 +1,3 @@
+# 93
+
+perceptions concerning family’s income and its sources (Factor 2) nor questions about general status of men and women in Finland (Factor 3) were examined since the study aimed at analyzing only perceptions of individuals concerning overall gender inequality. However, in future all set of factors are planned to be examined in order to provide a broader picture of the general status of men and women in Finland.

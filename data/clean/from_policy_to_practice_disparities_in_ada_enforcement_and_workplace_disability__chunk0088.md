@@ -1,0 +1,3 @@
+## 1–15). Cham: Springer International Publishing.
+
+34.(cid:32) McGowan, B. L., Hopson, R., Epperson, L., & Leopold, M. (2025). Navigating the backlash and reimagining diversity, equity, and inclusion in a changing sociopolitical and legal landscape. Journal of College and Character, *26*(1), 1–11. 35.(cid:32) Miller, T. (2024). Boosting Employment for People with Disabilities: Reforms Beyond the ADA. Mercatus Policy Brief

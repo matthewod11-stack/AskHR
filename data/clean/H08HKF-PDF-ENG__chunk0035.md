@@ -1,0 +1,1 @@
+# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist

@@ -1,0 +1,7 @@
+# The Twentieth Century
+
+behavior was maladaptive but ignored the patient when be- havior was adaptive (“normal”) thereby serving to reinforce symptomatic behavior and to extinguish normal behavior. Rewarding normal behavior would provide a more rational approach to eliminating symptoms. Studies directed toward eliminating eating problems, mutism, and other symptoms, reported successes (e.g., Allyon, 1963, Allyon & Haughton, 1962) and led some public hospitals to develop large-scale “token reinforcement” programs.
+
+Behavioral methods of this kind ran into criticism. One criticism was that they turned the professional ethical imper- ative to provide care and attention to the sick on its head and therefore compromised patients’rights. Another was that pa- tient improvements often were speciﬁc to the hospital setting and failed to persist after the patient was discharged. But the main factor in limiting the spread of this approach was the success of the new medications.
+
+Behavior therapy proved broadly successful in treating nonpsychotic problems such as systematic desensitization of phobias, eliminating fear of ﬂying, smoking reduction, and training mentally retarded patients and passed into the reper- toire of psychiatric practice.

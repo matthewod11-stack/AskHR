@@ -1,0 +1,1 @@
+## Psychological Corporation. (1999). Wechsler Abbreviated Scale of

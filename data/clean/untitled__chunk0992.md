@@ -1,0 +1,1 @@
+# Journal of Psychology, 39, 390–401.

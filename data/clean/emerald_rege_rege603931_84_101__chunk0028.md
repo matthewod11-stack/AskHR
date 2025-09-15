@@ -1,0 +1,1 @@
+## Table II. Dimensions and definitions of job satisfaction

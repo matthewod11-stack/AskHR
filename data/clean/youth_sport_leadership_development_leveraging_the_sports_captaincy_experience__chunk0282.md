@@ -1,0 +1,3 @@
+## GETTING THE RIGHT STUDENT ATHLETES INVOLVED
+
+We quickly discovered that some athletes viewed the program as a day off of school rather than an opportunity to develop athletic and leadership potential. These athletes were simply not paying attention, and instructors had to work even harder to engage them. In a few cases, athletes were asked to leave the session. One way we are trying to resolve this issue is by having the MHSAA implement a more rigorous and standardized selection process that increases the likelihood of inviting athletes who really want to be there. Some could argue that the athletes who are not as interested in leadership

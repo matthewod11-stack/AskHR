@@ -1,0 +1,3 @@
+# Neha Anand*
+
+Abstract This paper examines the impact of factors determini ng foreign direct investment (FDI) inflow of South Asian countries using annual data sets from the period 2005-2017 and estimates overall trends and factors impacting FDI in South Asian countries. The study utilizes panel data analysis and examines the selected variable like GDP, export exchange rate. The empirical results are robust in general for alternative variable determining FDI inflow. The policy inference of the study is that expandi ng the interest of economic integration around the globe and interdependence of FDI between member’s countries is a vital feature for maintaining the sustainability of growth.

@@ -1,0 +1,1 @@
+## aplicado, pois um questionário mal construído pode gerar mais problemas que

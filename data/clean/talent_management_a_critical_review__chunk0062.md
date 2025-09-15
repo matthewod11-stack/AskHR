@@ -1,0 +1,1 @@
+## Fig. 4. Example of a common retail organization field career ladder.

@@ -1,0 +1,1 @@
+## Impact of Diversity and Inclusion on Workplace Effectiveness

@@ -1,0 +1,1 @@
+# HBR / Digital Article / When New Hires Get Paid More, Top Performers Resign First

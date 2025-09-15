@@ -1,0 +1,3 @@
+# A Textbook of Industrial Psychology
+
+Managers accomplish this through enhancing employees' jobs to make them more difficult and by giving feedback and acknowledgment (Dressler, Barkhuizen, Bezuidenhout, Braine, and Plessis. In addition to encouraging retention inside the company, rewards as the primary motivating factor can also have a positive impact on the wider employment relationship and social interaction. The main goal of motivation is to guarantee employees' employment[3], [4].

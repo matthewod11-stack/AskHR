@@ -1,0 +1,1 @@
+## Além da entrevista com pessoa da área responsável pelas pesquisas, foi

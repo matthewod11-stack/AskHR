@@ -1,0 +1,1 @@
+## From the Magazine (November–December 2023) / Reprint R2306H

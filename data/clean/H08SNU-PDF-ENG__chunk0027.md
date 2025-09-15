@@ -1,0 +1,1 @@
+## HBR / Digital Article / In Turbulent Times, Consider “Strategic Subtraction”

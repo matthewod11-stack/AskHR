@@ -1,0 +1,1 @@
+## dados não estruturados, como textos, eram muito complexos para serem

@@ -1,0 +1,1 @@
+## Go deeper: “The Secrets to Successful Strategy Execution,” by Gary L.

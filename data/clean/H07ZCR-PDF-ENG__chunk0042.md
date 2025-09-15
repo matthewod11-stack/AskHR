@@ -1,0 +1,1 @@
+# openness in my interactions with others?

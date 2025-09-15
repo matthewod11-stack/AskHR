@@ -1,0 +1,1 @@
+## X = prediction_data.drop(['Attrition'], axis=1)

@@ -1,0 +1,1 @@
+## Intelligence Is Simple: Galton’s Theory of

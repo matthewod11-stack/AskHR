@@ -1,0 +1,1 @@
+## Differences in beliefs cause difficulties in communication, especially in low

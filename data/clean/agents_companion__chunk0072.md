@@ -1,0 +1,1 @@
+# and external tool management, agent brain prompt (goal, profile, instructions) and

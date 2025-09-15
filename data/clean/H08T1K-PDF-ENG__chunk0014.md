@@ -1,0 +1,1 @@
+## HBR / Digital Article / How to Communicate with Your Team When Business Is Bad

@@ -1,0 +1,1 @@
+# Table 10.2 Individual Difference

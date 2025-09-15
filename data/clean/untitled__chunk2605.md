@@ -1,0 +1,1 @@
+## D. Genetic psychology. Seven lectures. Dr. Thorndike.

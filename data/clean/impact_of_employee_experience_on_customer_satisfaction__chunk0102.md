@@ -1,0 +1,1 @@
+## James E. Maddux in his book Subjective Well-Being and Life Satisfaction defines

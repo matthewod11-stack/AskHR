@@ -1,0 +1,1 @@
+## Porter (1979), and “The Five Competitive Forces That Shape Strategy,”

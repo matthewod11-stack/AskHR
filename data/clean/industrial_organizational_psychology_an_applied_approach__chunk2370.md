@@ -1,0 +1,1 @@
+## Job Satisfaction Level (1–7 scale) 2000 ISSP Survey

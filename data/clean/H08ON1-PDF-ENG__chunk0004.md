@@ -1,0 +1,3 @@
+# HBR / Digital Article / A Guide to Building a Unified Culture After a Merger or Acquisiti…
+
+signiﬁcant investment of time and resources, many M&As do not

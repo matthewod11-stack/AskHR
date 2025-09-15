@@ -1,0 +1,3 @@
+# Conclusion and discussion
+
+In this study, we aimed to investigate how and why inclusive leadership influenced employee innovative behavior based on organizational support theory and social exchange theory. Con- sistent with organizational support theory, we found that inclusive leadership was positively related to employee innovative behavior and POS mediated the relationship between inclusive leadership and employee innovative behavior. That is, when employees perceived that leaders showed more inclusiveness to their new ideas, technologies, and processes, they perceived being more valued and cared about by the organization and thus, increased their innovative behavior.

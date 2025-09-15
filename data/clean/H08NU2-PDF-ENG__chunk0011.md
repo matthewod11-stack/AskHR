@@ -1,0 +1,7 @@
+## Inc., resistance from one of their small automobile parts manufacturing
+
+facilities to automating its bill of materials (BOMs) results in manual
+
+planning at that location, limiting centralized control and impacting eﬃciency across the company. We will use these three examples to
+
+understand the three types of silos: systemic, elitist, and protectionist.

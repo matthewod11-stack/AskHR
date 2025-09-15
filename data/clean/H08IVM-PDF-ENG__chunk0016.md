@@ -1,0 +1,1 @@
+# HBR / Digital Article / Contract Negotiations Should Be Collaborative, Not Adversarial

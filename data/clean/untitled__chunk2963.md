@@ -1,0 +1,3 @@
+# Congresses
+
+The ﬁrst Advanced Research Training Seminars (ARTS) was held, in conjunction with the 25th International Congress of Psychology in Brussels. Cosponsored by the Association of Cross-Cultural Psychology, the International Association of Applied Psychology, the International Union of Psychological Sciences, ARTS has been held every two years in conjunction with the International Congress of Psychology and the International Congress of Applied Psychology.

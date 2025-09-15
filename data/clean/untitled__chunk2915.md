@@ -1,0 +1,1 @@
+# The Revista de Psicopatologia, Psicologia Medica, y Psicoterapia began publication in Peru.

@@ -1,0 +1,3 @@
+## The Psychological Laboratory and the Psychological Experiment
+
+Thorndike, she advocated the use of objective and rigorous experimental procedures, but, like Morgan, she persisted in her view that animals possessed a consciousness that psy- chology was obliged to deﬁne and characterize (Washburn, 1917, 1926, 1936). To carry out its responsibility, psychology needed to adopt objective and rigorous experimental proce- dures. Despite the growing emphasis on the sufﬁciency of behavioral data and the emphatic rejection of mind and con- sciousness as the only legitimate subject matter for a scien- tiﬁc psychology, as Thorndike advocated, Washburn held to her position (Goodman, 1980).

@@ -1,0 +1,1 @@
+# responsibilities, their work plan and the association's objectives, destinations and vital

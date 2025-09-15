@@ -1,0 +1,3 @@
+# In addition to traditional
+
+benefits, the kitchen staff receive a free meal each shift, and all employees receive 50% off meals for themselves and up to three guests when they are not working. Man- agers receive two weeks of vacation to start, and four weeks after ten years. They are also part of a bonus program that allows them to earn up to 200% of their potential. The company uses salary surveys to ensure that their pay and bonus package is competitive.

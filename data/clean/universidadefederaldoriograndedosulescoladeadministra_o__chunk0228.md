@@ -1,0 +1,1 @@
+# Figura 1 - Exemplo pesquisa NPS

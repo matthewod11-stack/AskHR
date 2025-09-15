@@ -1,0 +1,3 @@
+# 10
+
+important and active in gender equality issues (Saari, 2011). In order to promote further equal pay, the Finnish government and the central labour market organizations have undertaken a commitment the Equal Pay Programme, according to which, gender-based pay difference has to be narrowed to 15 % by 20153. In February 2011, a report of the overall assessment of the Equal Pay Programme 2007-2010 was published. According to the report, the factors that have narrowed gender pay differences are collective agreements, introduction of new analytical pay systems, equality planning and pay surveys, and career development for women (Salonius, 2011).

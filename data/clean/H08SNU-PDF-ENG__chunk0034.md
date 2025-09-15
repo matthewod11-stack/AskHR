@@ -1,0 +1,1 @@
+## innovation ideas for [Company Name] that deliver equal or better value

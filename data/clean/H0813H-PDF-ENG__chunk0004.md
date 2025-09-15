@@ -1,0 +1,3 @@
+# HBR / Digital Article / Surveilling Employees Erodes Trust — and Puts Managers in a B…
+
+its own software to record how long employees spend on Zoom calls,

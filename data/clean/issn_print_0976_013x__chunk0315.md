@@ -1,0 +1,1 @@
+# computing, blockchain, IoT, data mining, ERP and other data integration tools, vision

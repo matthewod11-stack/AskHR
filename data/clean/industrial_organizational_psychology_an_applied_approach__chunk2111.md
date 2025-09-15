@@ -1,0 +1,1 @@
+# Personal Tendency Toward Motivation

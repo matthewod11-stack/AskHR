@@ -1,0 +1,5 @@
+# 172 PERSONALITY AND WORK
+
+Perceptions of injustice are also related to theft (Greenberg, 1993; Skarlicki & Folger, 1997), retaliatory behaviors (Skarlicki, Folger, & Tesluk, 1999), organizational withdrawal, and other CWBs. In a recent meta-analysis, Colquitt, Conlon, Wesson, Porter, and Ng (2001) reported that the estimated population correlation between procedural justice and withdrawal, after correcting for sampling error and unreliability, was −.36 for procedural justice and −.41 for distributive justice.
+
+Finally, perceptions of workplace stress often result in CWBs. In the face of a perceived environmental stressor, individuals must somehow cope. CWBs such as withdrawal from work or substance abuse may be the chosen ways of coping. Perceived work stress has been linked to withdrawal (Leiter & Robichaud, 1997), turnover intention (Jamal, 1990), and sabotage (Storms & Spector, 1987).

@@ -1,0 +1,3 @@
+# HBR / Digital Article / Research: Why Employees Work While Sick—and How Leaders C…
+
+- 2. Train managers to identify and act on early signs of stress and presenteeism. Equip managers with practical tools to proactively recognize and

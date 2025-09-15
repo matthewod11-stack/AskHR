@@ -1,0 +1,3 @@
+## fix each of the disrupted links in the process?
+
+Source:This case study is loosely based on J. Swinney and B. Couch, Sales Performance Improvement Getting Results Through a Franchise Sales Organization. International Society for Performance Improvement Case Studies (2003). Available online at http:// www.ispi.org/services/gotResults/ 2003/GotResults_Swinney.pdf. Retrieval date: March 6, 2007. (cid:2)

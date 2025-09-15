@@ -1,0 +1,3 @@
+# Determining Salary Increases
+
+As mentioned in Chapter , a job’s worth is determined by many factors, including the degree of responsibility and level of education required to per- form the job. But the difference in compensation between two individuals within the same job is a function of both tenure and job performance. That is, it would not seem fair to pay a poor-performing employee the same amount as an excel- lently performing one. Thus, one important reason for evaluating employee performance is to provide a fair basis on which to determine an employee’s sal- ary increase. If performance appraisal results are to be used to determine salary increases, a numerical rather than narrative format is probably needed.

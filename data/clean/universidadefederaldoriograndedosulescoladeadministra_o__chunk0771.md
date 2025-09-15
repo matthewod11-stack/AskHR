@@ -1,0 +1,1 @@
+# c. Nem insatisfeito nem satisfeito

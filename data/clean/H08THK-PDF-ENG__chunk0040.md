@@ -1,0 +1,1 @@
+## This tip is adapted from “How Great Leaders Communicate,” by Carmine

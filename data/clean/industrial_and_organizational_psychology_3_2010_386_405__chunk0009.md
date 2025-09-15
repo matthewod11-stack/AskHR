@@ -1,0 +1,19 @@
+# I–Opsychologyandworkplacedecisions
+
+Shutting down the assembly-line after hearing a suspicious sound, selecting one out of several job applicants, prioritizing one work task over another, and smoking marijuana in one’s ofﬁce cubicle are all examples of decisions made by employees. Similarly, estimating how long a particular take to complete, task will forecasting the next year, appraising the sales for fairness of received outcomes, and rating the job performance of subordinates are all examples ofjudgments madebyemployees. We therefore argue that a consider- able proportion of the topics of interest to the ﬁeld of industrial–organizational (I–O) psychology and the related ﬁeld of orga- nizational behavior and human resources fall (collectively abbreviated as within the purview of the ﬁeld of judgment and decision making (JDM). Of course, some IOOB topics are likely to fall out- JDM. For example, side the purview of consider work behavior. Behavior that is completely ‘‘routinized’’ (Weiss & Ilgen, 1985) or that is enacted under the dictates of prohibitively ‘‘strong’’ situations (Meyer, Dalal, & Bonaccio, 2009) may fall out- side the JDM sphere. Even so, this leaves an awfully large portion of the construct space of work behavior potentially within the domain of JDM.
+
+IOOB)
+
+It is not the case that IOOB is uninter- ested in the types of decisions (or judg- ments) mentioned in the ﬁrst paragraph. On the contrary, IOOB has avidly studied, and continues to avidly study, most of them. The issue, as we see it, is that IOOB does not typically study these workplace decisions asdecisions.
+
+Inrecent years,books suchasPredictably Irrational (Ariely, 2008), Blink (Gladwell, 2005), Nudge (Thaler & Sunstein, 2008), and others have focused on the appli- cation of JDM ideas to various domains life—and have gone on to become of bestsellers. JDM approaches have pene- trated areas as diverse as medical decision making, ﬁnancial forecasting, jury decision making, consumer behavior, accounting and auditing, economics, and even other areas of psychology (e.g., social psychology
+
+and neuropsychology) because each of these ﬁelds often involves the study of judgments and decisions. Yet, despite the fact that numerous topics within IOOB also involve judgments or decisions, JDM approaches have not (barring a few promi- nent exceptions) penetrated IOOB.
+
+This lack of cross-fertilization between JDM and IOOB is suggested by several lines of evidence:
+
+- JDM topics are not well represented in the IOOB journals (other than Organizational Behavior and Human Decision Processes). Fewer than 5 of the 100 most published authors in the Journal of Applied Psychology (JAP) and PersonnelPsychology (PPsych) in the 1990s (see Ones & Viswesvaran, 2000) appear to have meaningful JDM interests. Similarly, Cascio and Aguinis (2008) concluded that, during the 2003–2007 period, only 5.25% of the 457 articles published in JAP and 0.00% of the 111 articles published in PPsychfocused on JDM topics (loosely deﬁned). In line with these ﬁndings, fewer than 10 of the over 200 current JAP editorial board members appear to have meaningful JDM interests. • JDM is not well represented at the SIOP conference. In 2007–2010, the JDM category of the SIOP conference than 11 program contained fewer entries per year (though a handful of other entries in other categories could also arguably be classiﬁed as JDM). In a related vein, not one of the 24 presidents listed on the Web site of the Society for Judgment and Decision Making is currently a member of SIOP.1
+
+- JDMtopicsarenotwellrepresentedin undergraduate-levelIOOBtextbooks. Not one of the well-known I–O text books has a chapter speciﬁcally on though some OB text books JDM,
+
+- 1. Moreover, not one of the 65 presidents listed on the SIOP Web site is currently a member of the Society for Judgment and Decision Making.

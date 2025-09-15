@@ -1,0 +1,1 @@
+# Get a list of all files in the folder files = os.listdir(folder_name)

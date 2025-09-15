@@ -1,0 +1,3 @@
+# DIRKS AND FERRIN
+
+overall trust. Hence, overall trust scales were frequently a composite. We chose 75% as the cutoff because it represented the midpoint between an exact combination of two dimensions (50%) and a pure set of items from a single dimension (100%). We wanted to set the cutoff value high enough that a measure could be considered to represent a single definition of trust without making the standard unreasonably difficult to attain. Clearly, researchers applying a different set of principles might set the cutoff level at a different value.

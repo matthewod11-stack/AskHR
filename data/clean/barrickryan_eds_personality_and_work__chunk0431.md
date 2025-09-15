@@ -1,0 +1,1 @@
+## Figure 5.2. Another Manager’s Emotional States over Ten Days.

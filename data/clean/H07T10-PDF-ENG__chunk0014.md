@@ -1,0 +1,3 @@
+# HBR / Digital Article / How to Evaluate a Job Candidate’s Critical Thinking Skills in an…
+
+of further analysis. Hiring managers can apply this model to create a diﬀerent dialogue with candidates in a modern-day organization.

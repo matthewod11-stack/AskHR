@@ -1,0 +1,1 @@
+## Company-level aggregation of individual data

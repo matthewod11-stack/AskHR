@@ -1,0 +1,1 @@
+## Fairﬁ eld County Business Journal, 40(19), 20.

@@ -1,0 +1,1 @@
+## This tip is adapted from “Why Senior Leaders Should Stop Having So

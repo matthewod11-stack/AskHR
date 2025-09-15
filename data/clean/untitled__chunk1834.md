@@ -1,0 +1,3 @@
+# Late Nineteenth into Twentieth Century
+
+tants organized the experiments and demonstrations, pre- pared the patients, and conducted the hypnotic sessions, and that, because Charcot failed to check the conduct of the ex- periments, he was unaware of their inadequacies. Sigmund Freud studied with Charcot for six months in 1889. Other stu- dents of Charcot to achieve fame include Pierre Janet, Gilles de La Tourette, and Joseph Babinski (Harrington, 1987).

@@ -1,0 +1,9 @@
+## HBR / Digital Article / The Definitive HBR Strategy Glossary
+
+Purpose at the core of strategy: Purpose is usually seen as an add-
+
+on—a way to create shared value, improve employee morale and
+
+commitment, give back to the community, and help the environment.
+
+But research on high-growth companies ﬁnds that many have moved

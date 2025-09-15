@@ -1,0 +1,1 @@
+## Educational Requirements and Types of Programs

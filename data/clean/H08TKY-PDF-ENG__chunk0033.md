@@ -1,0 +1,1 @@
+## Go deeper: “The Core Competence of the Corporation,” by C.K. Prahalad

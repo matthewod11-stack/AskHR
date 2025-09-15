@@ -1,0 +1,1 @@
+# Cooperates and collaborates with colleagues as appropriate; works in partnership with others.

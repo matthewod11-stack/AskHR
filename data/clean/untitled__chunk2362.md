@@ -1,0 +1,5 @@
+# 420 School Psychology
+
+Board of Education, 1938; City of Chicago, Board of Educa- tion, 1941). These sources give clear indication that psycho- logicalworkerswereoftenprovidingremediation,counseling, andin-serviceinstructioninadditiontoconductingregularand special education assessments.
+
+Service delivery was increasingly provided by district- based psychologists. However, services through school and community clinics or research bureaus were common in large and medium-sized cities, and some rural areas were served through traveling clinics. In the latter model, services were provided by small teams of workers (e.g., a psychiatrist, a psychologist, and a social worker) traveling to small districts and providing evaluations, recommendations, and consulta- tion on a periodic basis. Such services lacked the continuity that could be provided by a district served by its own school psychologist. By the end of the period, as many as 500 school psychologists may have been employed in connection with the schools.

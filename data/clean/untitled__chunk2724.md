@@ -1,0 +1,3 @@
+# MINORITIES PROGRESS DURING 1999
+
+The year began with an unprecedented gathering of ethnic minority leadership, as the First National Multicultural Con- ference and Summit was organized by the four ethnic minor- ity past or then-current presidents of APA Divisions: Rosie Bingham, president, Division of Counseling Psychology; Lisa M. Porche Burke, past-president and Derald Wing Sue, president, Society for the Psychological Study of Ethnic Minority Issues; and Melba J. T. Vasquez, president, Division of the Psychology of Women. The Conference was so suc- cessful that extra room was required for additional regis- trants, and even then many had to be turned away. In 2001, the second Conference and Summit was organized, and once more ﬁlled the registration to its maximum.

@@ -1,0 +1,7 @@
+# International Psychology
+
+Germany awaited a change in generations curious to learn what had developed elsewhere. Gifts of textbooks, back issues of scientiﬁc journals, and travel grants helped to over- come the isolation imposed during the Nazi period.
+
+As Jing (2000) observed, “Because of the questionable applicability of Euro-American psychological theories to the third world countries, a revolt is underway to build an indige- nous psychology in the study of a society’s own problems by native psychologists who are familiar with the cultural envi- ronment and using methods suitable to the solution of these problems” (p. 579).
+
+As noted by Poortinga (1997), there is also a need to demonstrate “the universal roots of human psychological functioning underneath the rich and varied cultural variations in behavior.” In his view, culture-comparative research is based on the assumption of the universality of psychologi- cal process and mechanisms shared by all human beings. Dif- ferences in behavior are explained in terms of antecedent conditions, of an ecological, economic, sociocultural, or his- torical nature. Poortinga holds that criticisms raised by schools of cultural psychology “strike at Achilles’ heels” of cross-cultural research, “but that weaknesses are circumstan- tial rather than essential.”

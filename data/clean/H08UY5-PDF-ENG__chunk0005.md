@@ -1,0 +1,1 @@
+## just sales numbers or project deliveries, but those with true leadership

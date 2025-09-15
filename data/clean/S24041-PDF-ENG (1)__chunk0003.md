@@ -1,0 +1,1 @@
+## HBR / Spotlight Article / Power, Influence, and CEO Succession

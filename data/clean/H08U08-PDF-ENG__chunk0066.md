@@ -1,0 +1,1 @@
+## reputación y la capacidad de la empresa para cumplir lo que más

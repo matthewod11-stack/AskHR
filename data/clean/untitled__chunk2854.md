@@ -1,0 +1,1 @@
+## The Swiss Psychological Society was founded.

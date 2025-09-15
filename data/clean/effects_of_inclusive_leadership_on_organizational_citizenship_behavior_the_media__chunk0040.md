@@ -1,0 +1,1 @@
+## Table 2. Estimates from the structural model

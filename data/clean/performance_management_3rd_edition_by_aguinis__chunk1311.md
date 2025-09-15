@@ -1,0 +1,5 @@
+# Part II • System Implementation
+
+Evaluation data should include reactions to the system and assessments of the system’s operational and technical requirements. For example, a confidential survey could be administered to all employees asking about perceptions and attitudes regarding the system. This survey can be administered during the initial stages of implementation and then at the end of the first review cycle to find out if there have been any changes. In addition, regarding the system’s results, one can assess perform- ance ratings over time to see what positive effects the implementation of the system is having. Finally, interviews can be conducted with key stakeholders including managers and employees who have been involved in developing and implementing the performance management system.30
+
+Several additional measures can be used on a regular basis to monitor and evaluate

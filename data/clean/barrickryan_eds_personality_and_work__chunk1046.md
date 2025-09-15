@@ -1,0 +1,1 @@
+# Situational model of personality, 231 Situational variables, 304–309 Six Factors Personality Question-

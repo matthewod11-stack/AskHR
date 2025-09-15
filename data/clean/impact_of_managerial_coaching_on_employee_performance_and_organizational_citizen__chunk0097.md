@@ -1,0 +1,1 @@
+# Table 8: Regression Coefficients to Predict OCB-Individual through Thriving at Work

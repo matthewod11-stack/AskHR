@@ -1,0 +1,1 @@
+## Table 2 Factor analysis results for perception items

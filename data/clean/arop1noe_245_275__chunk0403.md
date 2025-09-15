@@ -1,0 +1,1 @@
+# Sluss DM, Thompson BS. 2012. Socializing the newcomer: the mediating role of leader–member exchange.

@@ -1,0 +1,1 @@
+## Snippet 5. De(cid:450)nition of the structured output schema

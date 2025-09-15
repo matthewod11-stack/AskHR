@@ -1,0 +1,7 @@
+# York: Free Press.
+
+Bass, B. M. (1990). Bass & Stogdill’s handbook of leadership: Theory, research, and managerial applications (3rd ed.). New York: Free Press. *Behson, S. (2001, April). Which dominates? The relative importance of work-family organizational support and general organizational context on employee outcomes. Paper presented at the Society for Industrial and Organizational Psychology conference, San Diego, CA.
+
+- Bigley, G. (1996). Follower trust in the leader at work: Concept devel- opment, behavioral antecedents, and effects on followers’ fairness per- ceptions and organizational citizenship behaviors. Unpublished doctoral dissertation, University of California, Irvine. Blau, P. (1964). Exchange and power in social life. New York: Wiley. Bobocel, D. R., & Holmvall, C. (2001). Are interactional justice and procedural justice different? Framing the debate. In S. Gilliland, D. Steiner, & D. Skarlicki (Eds.), Theoretical and cultural perspectives on organizational justice (pp. 85–110). Greenwich, CT: Information Age. *Bommer, W. (1995). Contextual influences on transformational leader behavior’s effectiveness: Transformational leader behavior in a substi- tutes for leadership framework. Unpublished doctoral dissertation, In- diana University.
+
+Brockner, J., & Siegel, P. (1996). Understanding the interaction between procedural and distributive justice: The role of trust. In R. Kramer & T. Tyler (Eds.), Trust in organizations (pp. 390–413). Thousand Oaks, CA: Sage.

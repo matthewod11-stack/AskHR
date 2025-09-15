@@ -1,0 +1,3 @@
+# 34 PERSONALITY AND WORK
+
+in very different ways. In addition, certain forms of happiness may be related to certain types of halo effects, in which happy people are liked more and rated as being more productive even when there are no objective differences in productivity. Therefore, it will be necessary, when formulating and testing hypotheses, to state ex- plicitly which form of productivity should be related to each com- ponent of well-being. Ideally, a variety of objective and subjective measures of productivity would be used to provide the most con- vincing tests of the happy worker hypothesis.

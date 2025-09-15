@@ -1,0 +1,5 @@
+# The Clinico-Anatomic Method
+
+The discovery of cerebral localization of motor, sensory, and even integrative psychological functions supported the thesis that psychological functions are localized in the brain. If particular psychological functions are localized in different parts of the brain, it follows that various manifestations of psychopathology might be caused by diseases of speciﬁc parts of the brain. In this view, the domain of psychopathol-
+
+ogy represents various speciﬁc diseases to be described in order to establish descriptive categories. The diseases can then be related to speciﬁc underlying diagnosable neurologi- cal pathologies. This is conceptually a “pathogen model” of psychopathology. This view was largely hereditarian but not necessarily so, as organically based psychopathology could be caused by innate or acquired brain dysfunctions.

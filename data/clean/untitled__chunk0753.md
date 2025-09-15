@@ -1,0 +1,1 @@
+## Haugeland, J. (1985). Artiﬁcial intelligence: The very idea.

@@ -1,0 +1,1 @@
+## The Slovak Psychological Association was founded.

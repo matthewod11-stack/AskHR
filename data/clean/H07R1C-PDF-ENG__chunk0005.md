@@ -1,0 +1,1 @@
+## Published on HBR.org / August 10, 2023 / Reprint H07R1C

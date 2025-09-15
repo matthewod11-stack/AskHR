@@ -1,0 +1,5 @@
+## Postwar Growth of the Practice of Psychology 35
+
+Issues, or SPSSI, and the Psychometric Society) but princi- pally steered by the two heavyweights, the APA and the AAAP, led to the establishment of a “new” American Psychological Association.
+
+The new APA began with 18 charter divisions, a model borrowed from the sectional structure of the AAAP; a new journal that was intended to be a journal of “professional psy- chology,” the American Psychologist (Benjamin, 1996); and a new central ofﬁce in Washington, D.C. (Capshew, 1999). The new APA also had a new statement of objectives which read: “to advance psychology as a science, as a profession, and as a means of promoting human welfare” (Wolﬂe, 1946/1997, p. 721). The “professional” goal had come, of course, from the AAAP, and the “human welfare” goal from the SPSSI. The APA looked and sounded like a new kind of organization, one that had ﬁnally acknowledged the presence of the profession of psychology. However, professional psy- chologists would soon learn that they had little real support (or power) within the new association. It would be almost 30 years before that situation changed in any dramatic way.

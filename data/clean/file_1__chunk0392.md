@@ -1,0 +1,5 @@
+# Research context
+
+The current study concentrates on Finnish employees, thus the development of the gender system in Finland needs to be examined. ‘Passion for gender equality’ is frequently marked as an essential feature of Nordic countries (Holli, Magnusson, and Rönnblom, 2005). Nevertheless, this perception becomes challenging when the degree of achievement of gender equality is taken into practice. On the one hand, Finland reached third place after Iceland and Norway in the Global Gender Gap Index 2010 (Global Gender Gap Report, 2010). Finland showed one of the highest percentages of total female employees (44%) in the population (Corporate Gender Gap Report, 2010). It is also characterized by women’s full- time employment, high participation in political life, and high educational level (Husu, 2001).
+
+However, at the same time, the top positions of the Finnish business companies are mainly occupied by men, and only 13% of CEOs are women (Corporate Gender Gap Report, 2010).

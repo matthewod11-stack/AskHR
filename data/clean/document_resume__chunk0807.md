@@ -1,0 +1,7 @@
+# A President's Perspective
+
+progress has been made in developing an efficient, Lost effeLin e, and psychometrically sound technique of performance appraisal.5
+
+Consider, however, a different perspective. There are few, if any. other adminis- trative functions and processes in which there are proven methods. In fact the state-of- the-art in management is just as much a "jungle" as when Harold Koontz wrote his classic article.' But that doesn't seem to stop us in other activities. For example, the personnel selection process has the most far reaching consequences of any activity in administration. No researcher has ever devised a "perfect" selection test for any job; the best predictors of job success are only slightly better than chance. Yet we hire people like we know what we are doing. In fact, we also pay, promote and develop people based on imperfect theories.
+
+This is not to disparage the literature. Revit w it but do not be intimidated by it. There are a numt_r of behavioral and outcome concepts and techniques that have been shown to work reasonably well. In fact, such authorities as Redfern and Scriven have developed models for public school systems and much of their work is useful in post- secondary education.' There are other methods such as trait rating scales, unstructured and impressionistic systems. and other non- job related approaches which work poorly, if at all. An examination of the different approaches should lead to a program that best fits the needs of the institution.

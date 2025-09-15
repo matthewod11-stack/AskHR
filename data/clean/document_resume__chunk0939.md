@@ -1,0 +1,3 @@
+# PART II PERFORMANCE FACTORS
+
+Comment on each of the factors which influencea performance in as,igned responsibilities Use specific examples and, as appropriate, emphasize both strengths and areas needing improvement Comments should not focus on personality traits or personal habits but rather n how they translate into observed behaviors in getting the job done If a factor was not applicable during the rating period. leave it blank The performance factors, while not directly rated, are important in understanding how results were achieved and in identifying ways to improve performance in succeeding periods

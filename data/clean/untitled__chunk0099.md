@@ -1,0 +1,1 @@
+# John C. Brigham, PhD Department of Psychology Florida State University Tallahassee, Florida

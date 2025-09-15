@@ -1,0 +1,1 @@
+## attrition_data[numerical].apply(lambda x: x.corr(attrition_data['Attrition']))

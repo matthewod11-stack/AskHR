@@ -1,0 +1,3 @@
+# Instrumentation
+
+Focus group data were collected using a semi-structured interviewing format, which allowed the researchers to ask additional follow-up questions. The questions inquired about potential improvements to the implicit bias and disability inclusion training, knowledge or skills gained as a result of the training, and perspectives on how to mitigate implicit bias towards individuals with disabilities based on professional experience. Follow-up questions developed as the discussion evolved in each focus group meeting.

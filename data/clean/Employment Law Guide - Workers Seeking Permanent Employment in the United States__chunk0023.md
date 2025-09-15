@@ -1,0 +1,1 @@
+# Section 212(a)(5)(A) of the Immigration and Nationality Act (INA) is administered by the Oﬃce of Foreign Labor Certiﬁcation (OFLC)

@@ -1,0 +1,1 @@
+## from a threat into a source of strategic insight and organizational

@@ -1,0 +1,5 @@
+# (cid:36)(cid:34) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:2)(cid:6)(cid:2)(cid:8)(cid:13)(cid:35)(cid:10)(cid:14)(cid:15)(cid:13)(cid:2)(cid:3)(cid:7)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)(cid:17)(cid:2)(cid:18)(cid:15)(cid:2)(cid:19)(cid:10) (cid:10)
+
+development of high potential people – so without managers who are capable at having good discussions about performance, talent management is quite problematic.
+
+Also Yarnall (2008) in her book on strategic career management identifies performance appraisal as the process used as a basis for dialogue about feedback, career aspirations and development. But she is not optimistic about the effectiveness of the appraisal process at meeting this purpose. In addition to the normal list of concerns (lack of time, lack of manager training etc.) she adds the difficulty of being honest about potential and future expectations.

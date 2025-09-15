@@ -1,0 +1,1 @@
+# Abstract Aerial Art/Getty Images

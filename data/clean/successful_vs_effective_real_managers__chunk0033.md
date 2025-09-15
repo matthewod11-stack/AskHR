@@ -1,0 +1,3 @@
+# Successful vs Effective Real Managers
+
+Equally important, however, was the finding that the least relative contribution to real managers’ effectiveness came from the networking activity This, of course, is in stark contrast to our results of the successful real manager analysis. Networking activity had by far the strongest relative relation- ship to success, but the weakest with effectiveness. On the other hand, human resource management activity had a

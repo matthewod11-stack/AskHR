@@ -1,0 +1,3 @@
+## THE MULTILEVEL ROLE OF PERSONALITY IN TEAMS 191
+
+ternal processes. The concept of personality at the team level does appear to be meaningful and may even present an alternative to the ubiquitous input-process-output model that permeates teams research. Indeed, the notion of personality at the team level may provide a mechanism for describing and integrating both internal and external characteristics and interactions.

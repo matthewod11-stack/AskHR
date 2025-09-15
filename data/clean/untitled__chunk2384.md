@@ -1,0 +1,7 @@
+# Additional Resources
+
+assessment methodologies will maintain a strong appeal as school systems are increasingly held accountable for the pro- cedures of assessment and intervention and the instructional outcomes of students.
+
+The basic roles of school psychologists will remain. Practice will continue to focus on individual child study with interventions delivered one-on-one or in groups. Pharmaco- logical and genetic test developments will increase in impor- tance, necessitating additional training and team efforts in service delivery. Contemporary interventions of remediation and therapy will be supplemented by these developments. Consultation will continue at its present level, failing to ex- pand in priority because of personnel shortages and the prior- ity of assessment and other intervention services. Role and function changes should ensure that school districts continue to have sufﬁcient diagnostic and intervention services avail- able to the entire school population.
+
+Finally, the ﬁeld should conduct a futures conference to better deﬁne its goals and directions. The conference should be sponsored by several major organizational constituencies and seek to alleviate policy differences among them. Addi- tional discussions of the future of school psychology appear in Fagan andSheridan(2000),FaganandWise(2000),Oakland and Cunningham (1999), a special issue of Psychology in the Schools (2000, volume 37, number 1), and Ysseldyke, Dawson, Lehr, Reschly, Reynolds, and Telzrow (1997).

@@ -1,0 +1,1 @@
+## HBR / Digital Article / How Diversity of Thought Can Fit into Your DEI Strategy

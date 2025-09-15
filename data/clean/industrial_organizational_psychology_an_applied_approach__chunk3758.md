@@ -1,0 +1,13 @@
+# Preventing Repetitive Stress Injuries
+
+As a result of the amount of precision and computer work performed by employees, the number of hand and wrist injuries has greatly increased over the last decade. Th e most common of these repetitive-stress injuries (RSIs) or cumu- lative trauma disorders (CTDs) are carpal tunnel syndrome (CTS) and tendon- itis. RSIs aﬀ ect . million workers each year, annually costing employers over $. billion in workers’ compensation claims (Prewitt, ).
+
+RSIs are the result of physical stress placed on the tendons and nerves that pass through a tunnel connecting the wrists and hands. Th e normal stress associ- ated with repeated ﬁ nger and hand movements is complicated by the awkward angle at which many employees must hold their wrists. Early symptoms of RSI include numbness and tingling in the hands and forearms. Later stages involve pain severe enough to make opening a door or holding a pen diﬃ cult, if not impossible.
+
+Treatments for CTS include taking anti-inﬂ ammatory drugs, wearing wrist braces, and undergoing surgery (more than , surgeries are performed annually). Th e healing process can take up to six months at a cost per case of $, in medical expenses and lost wages (Heilbroner, ). Many RSIs can be prevented by learning ergonomically proper work techniques, performing warm-up exercises, using wrist rests and special keyboards, taking breaks, and stopping work when numbness or pain begins.
+
+A good example of an intervention to reduce RSIs is provided by Pratt & Whitney in Middletown, Connecticut. After employees complained of the physi- cal stress caused by repetitively using their ﬁ nger to open plastic bags containing machine parts, the company placed a small letter opener on the top of the carts used to move the parts. Th e cost for this intervention was only $ a cart. A more complicated intervention was implemented at a Goldkist plant in Alabama. To eliminate the need for employees to repetitively push crates of chicken along a series of rollers, the company installed a moving conveyor belt (Grossman, ).
+
+Organizations that have trained employees on ways to prevent RSIs have seen excellent results (Smith, b). For example, Mitsubishi reported a % decrease in RSIs over a two-year period following training, and M reported that its training program resulted in a % decrease in workers’ compensation
+
+595

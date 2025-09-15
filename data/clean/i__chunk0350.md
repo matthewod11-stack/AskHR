@@ -1,0 +1,1 @@
+# loop through the columns in category_data and plot a bar plot for each

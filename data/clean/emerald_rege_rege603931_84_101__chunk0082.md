@@ -1,0 +1,1 @@
+# Gaertner, S. (1999), “Structural determinants of job satisfaction and organizational commitment in

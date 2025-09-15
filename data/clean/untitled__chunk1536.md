@@ -1,0 +1,1 @@
+## Association for Women in Psychology. (1970, Summer). Newsletter

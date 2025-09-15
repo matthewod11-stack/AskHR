@@ -1,0 +1,1 @@
+# pelo termo "empresa X", e todo material que referenciá-la sofrerá descaracterização

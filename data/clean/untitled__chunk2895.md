@@ -1,0 +1,1 @@
+# The Chinese Academy of Sciences established the Institute of Psychology in Beijing.

@@ -1,0 +1,1 @@
+## Text not available due to copyright restrictions

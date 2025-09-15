@@ -1,0 +1,1 @@
+# TABLE 4. Operationalization of Measures

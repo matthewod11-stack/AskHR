@@ -1,0 +1,3 @@
+# Incentives
+
+When unemployment rates are low, organizations have to take extra measures to recruit employees. One of these measures is to offer incentives for employees to accept jobs with an organization. Though these incentives often come in the form of a financial signing bonus, other types of incentives are increasing in popularity. For example, such organizations as Sears and Starwood Hotels offer employee discounts on company products and services (Woodward, ), and % of organizations offer mortgage assistance to lure employees (Tyler, ).

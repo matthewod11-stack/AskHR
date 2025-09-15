@@ -1,0 +1,1 @@
+## initiatives, such as Google’s AI Opportunity Fund, Microsoft’s AI skills

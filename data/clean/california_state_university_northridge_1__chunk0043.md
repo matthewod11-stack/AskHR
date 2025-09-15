@@ -1,0 +1,1 @@
+## From the author's personal experience at the management level with Host Marriott

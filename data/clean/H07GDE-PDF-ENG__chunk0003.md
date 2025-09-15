@@ -1,0 +1,1 @@
+## HBR / Digital Article / Preparing to Announce Layoffs in a Virtual Meeting

@@ -1,0 +1,1 @@
+# Employment is of a seasonal nature where it is tied to a certain time of year by an event or pattern, usually in relation to the production and/or

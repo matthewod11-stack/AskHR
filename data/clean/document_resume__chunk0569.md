@@ -1,0 +1,3 @@
+# Mark E. Meadows
+
+Supervisors in many organizations see little practical value in conducting perfor- mance appraisals) This attitude may be exacerbated in postsecondary education settings where administrators are first and foremost scholars within increasingly narrow disciplines and not always skilled or expert in managerial functions. Performance appraisal systems have yielded disappointing results within the community college environment, even so, effecting such a system is significant to the success of community colleges.2

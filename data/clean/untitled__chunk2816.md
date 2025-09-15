@@ -1,0 +1,1 @@
+# The International Congress of Physiological Psychology was renamed International Congress of Psychology.

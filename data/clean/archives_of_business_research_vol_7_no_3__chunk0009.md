@@ -1,0 +1,3 @@
+# Vol.7, Issue 3, Mar-2019
+
+In a study Mensah (2015) conceptualized the role of talent management strategies in promoting employee performance behavior through the mediating role of talent management outputs. The study necessitated further examination through empirical testing of the theorized relationship. This paper is extension of the Mensah (2015)’s study. The purpose of the study is to empirically examine the relationship of talent management strategies and employee performance behavior with the mediating role of talent management outputs in this relationship.

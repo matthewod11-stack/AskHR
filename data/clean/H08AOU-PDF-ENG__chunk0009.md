@@ -1,0 +1,1 @@
+## HBR / Digital Article / How to Equitably Assign High-Profile Work

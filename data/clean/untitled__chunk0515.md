@@ -1,0 +1,3 @@
+# 76 Comparative Psychology
+
+Behavior in 1942. Schneirla and Lester R. Aronson joined him in the department; Schneirla succeeded Beach as curator when Beach left for Yale University in 1946. Students such as Tobach, Rosenblatt, and Howard Topoff graduated and re- mained in the New York area. After graduating, one promi- nent student in the program, Daniel S. Lehrman, moved to the Newark, New Jersey, campus of Rutgers University, where he founded the Institute of Animal Behavior in 1959. This, too, became an important center for education and research. The focus of this whole group was on an epigenetic approach to development, and this New York epigeneticist group pro- duced numerous students and programs in the ﬁeld.

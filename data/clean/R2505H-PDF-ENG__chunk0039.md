@@ -1,0 +1,1 @@
+## 2024 the John Lewis Partnership—operating in the United Kingdom

@@ -1,0 +1,9 @@
+# ELECTRONIC PUBLISHING INITIATIVES
+
+In January 1995, the APAWeb site was available to its mem- bers and the public. The total “hits” in the ﬁrst three months was 22,474—a ﬁgure that today (in 2001) is reached every 30 minutes. Usage increased in every quarter of 1995, reach- ing 413,207 hits in the fourth quarter of that year; quarterly hits in 2001 ran at 90 million.
+
+Itisinterestingtonotethatmanypeoplefromavastarrayof ﬁeldsturntotheAPAforinformationonhowtoreferenceelec- tronic documents.TheAPAhas a special “style page” on elec- tronic citations. A million people access this specialized page on a relatively narrow topic every year. Nonpsychologist (and
+
+nonstudent) use of the APA Web site remains strong. Almost 35% (or some four million annual users) of the APAWeb site are not psychologists or students studying psychology.
+
+In 1997, APA president-elect Martin Seligman proposed the establishment of an electronic journal called Treatment, to be published jointly with the American Psychiatric Associ- ation. For political reasons the “other APA” withdrew from the venture because of fear that psychologists might claim that reading the copublished journal would qualify them for prescribing medication. The American Psychological Associ- ation then decided to embark on the e-journal alone, which is now titled Prevention and Treatment. By the summer of 2001, under Seligman’s editorship, the journal had 20,000 regular readers, with each article being “hit” an average of 35,000 times within the ﬁrst year of release. Publications from the Practice Directorate, the e-journal, Web-based com- munications, videotapes, and over 70 new books each year constitute communications from the APA that are directed toward the practicing professional psychologist.

@@ -1,0 +1,1 @@
+## Verbatim Description Provided on Vendor’s Web site

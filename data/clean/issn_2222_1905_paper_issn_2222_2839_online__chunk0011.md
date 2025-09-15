@@ -1,0 +1,1 @@
+# Chuang,Y.S. (2004). Individual Resistance from Employees to Organizational Change.Ching Yun University

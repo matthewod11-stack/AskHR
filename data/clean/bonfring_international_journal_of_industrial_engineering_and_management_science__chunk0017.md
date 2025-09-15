@@ -1,0 +1,3 @@
+## 4 Goals of Performance Appraisals General Goals Developmental Use
+
+Specific Goals Individual needs Performance feedback Transfers and Placements Strengths and Development needs Salary Promotion Retention / Termination Recognition Lay offs Poor Performers identification HR Planning Training Needs Organizational Goal achievements Goal Identification HR Systems Evaluation Reinforcement of organizational needs Validation Research For HR Decisions Legal Requirements

@@ -1,0 +1,1 @@
+## vary in their relevance from culture to culture, age and generational

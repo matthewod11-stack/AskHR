@@ -1,0 +1,3 @@
+# HBR / Digital Article / Study: A CEO’s Decision Making Is Shaped by Whether Their Pa…
+
+We sought to ﬁll this gap. We conducted a study speciﬁcally focusing on

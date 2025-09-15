@@ -1,0 +1,1 @@
+## Table-5: Quick Ratio of select Non-banking financial companies in India

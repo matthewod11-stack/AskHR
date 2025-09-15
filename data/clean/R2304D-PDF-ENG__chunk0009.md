@@ -1,0 +1,1 @@
+## informal employee petitions and walkouts to more-formal structures

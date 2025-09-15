@@ -1,0 +1,5 @@
+# Business Communication
+
+Business communication is the transmission of business-related information among employees, management, and customers. Business communication meth- ods include memos, telephone calls, and email and voice mail.
+
+Memos One of the most common methods of business communication is the memo- randum, or memo. Memos have the advantage of providing detailed information to a large number of people in a short period of time. With the widespread use of photocopy machines and computer printers, however, employees (especially office workers) now receive so many memos that they often do not read them. In fact, the executive of a major company once stated that he never read a memo when it first came to him. If the message were really important, he believed the person would talk to him about it later. Although such an attitude probably is not a good one, it does underscore the excessive use of memos and their diminishing effectiveness in communication.

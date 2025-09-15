@@ -1,0 +1,5 @@
+# PERSONALITY AND JOB PERFORMANCE 89
+
+- Demonstrate effort • Maintain personal discipline • Facilitate peer and team performance • Supervision/leadership • Management/administration
+
+This model is a useful starting point to which more speciﬁc di- mensions can be added based on recent research on citizenship performance, adaptive performance, and managerial performance.

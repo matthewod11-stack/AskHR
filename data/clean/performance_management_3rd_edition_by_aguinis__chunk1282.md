@@ -1,0 +1,1 @@
+## TABLE 7.2 Content Areas That Can Be Included in Rater

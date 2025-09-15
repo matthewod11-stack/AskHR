@@ -1,0 +1,23 @@
+# more.
+
+- 2. Certain individuals are “hyper-performers,” who should be
+
+incentivized and rewarded accordingly.
+
+In a perfect world, you’d always hire 10x performers for your company.
+
+But in fact, HR processes often prevent this from happening. First,
+
+grading on a bell curve can discourage hyper-performers from joining,
+
+as it restricts the proportion of employees rated as top performers, no
+
+matter how well individuals perform. It’s like Coach Steve Kerr telling
+
+the Golden State Warriors that only Steph Curry can make the All-Star
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

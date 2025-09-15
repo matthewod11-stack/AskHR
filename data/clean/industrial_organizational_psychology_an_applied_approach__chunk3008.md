@@ -1,0 +1,1 @@
+## Group Dynamics Defi nition of a Group Reasons for Joining Groups

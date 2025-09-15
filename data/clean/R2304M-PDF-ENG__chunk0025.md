@@ -1,0 +1,1 @@
+## HBR / Magazine Article / Case Study: How Should a Start-Up Cut Its Burn Rate?

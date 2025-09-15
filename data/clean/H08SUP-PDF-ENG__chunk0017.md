@@ -1,0 +1,1 @@
+# A Simple Change in the Voting Protocol

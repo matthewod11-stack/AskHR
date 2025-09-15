@@ -1,0 +1,1 @@
+# Right Management (2006), Measuring

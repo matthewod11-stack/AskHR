@@ -1,0 +1,3 @@
+# November 20, 2005, from http://www.optimizemag.com/ article/ showArticle.jhtml?articleId=18100229
+
+Sears, D. (2002). Successful talent strategies: Achieving superior business results through market-focused staffing. New York: Amacom. Singh, K. (2004). Impact of HR practices on perceived firm performance in India. Asia Pacific Journal of Human Resources, 42(3), 301−317. Six ways you can help your CEO understand talent management. Retrieved October 31, 2005, from http://www.workinfo.com/free/Downloads/158.

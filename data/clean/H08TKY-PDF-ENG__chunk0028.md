@@ -1,0 +1,1 @@
+## core competencies and core products (the tangible results of core

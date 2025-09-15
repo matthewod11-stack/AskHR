@@ -1,0 +1,5 @@
+## logical expertise. Science in Context, 5(2), 351–369.
+
+Rosenberg, C. (1979). Toward an ecology of knowledge: On disci- plines, context and history. In A. Oleson & J. Voss (Eds.), The organization of knowledge in the United States (pp. 440–455). Baltimore: Johns Hopkins University Press.
+
+Rosenzweig, S. (1933). The experimental situation as a psychologi-

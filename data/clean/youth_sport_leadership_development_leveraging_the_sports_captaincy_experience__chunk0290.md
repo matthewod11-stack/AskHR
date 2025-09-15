@@ -1,0 +1,3 @@
+# D. Gould and D. K. Voelker
+
+their own athletes and how to develop a sport leadership development ini- tiative in their own schools. The biggest mistakes and recommendations for working with team captains informed from the results of a series of recent studies (e.g., Gould, Voelker, & Griffes, 2010) would also be discussed. Like the guide for student-athletes, a manual designed speciﬁcally for coaches and athletic directors would also be created.

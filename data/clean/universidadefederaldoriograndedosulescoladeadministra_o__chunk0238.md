@@ -1,0 +1,1 @@
+# área de RH, adaptações são feitas.

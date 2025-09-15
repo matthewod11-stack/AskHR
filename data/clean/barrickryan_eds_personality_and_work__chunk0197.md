@@ -1,0 +1,1 @@
+## Goodwin, F. K., & Jamison, K. R. (1990). Manic-depressive illness. New York:

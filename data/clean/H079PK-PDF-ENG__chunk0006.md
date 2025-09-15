@@ -1,0 +1,1 @@
+#1: Men negotiate and women don’t. by Kathryn Valentine and Hannah Riley Bowles

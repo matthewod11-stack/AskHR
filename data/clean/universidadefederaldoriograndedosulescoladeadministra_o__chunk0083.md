@@ -1,0 +1,1 @@
+## PASTANA, 2020) reforçaram que o clima organizacional é considerado o elo

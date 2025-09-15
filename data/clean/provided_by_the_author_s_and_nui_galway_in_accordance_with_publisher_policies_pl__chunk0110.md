@@ -1,0 +1,3 @@
+# Pivotal Positions
+
+Organizational commitment,

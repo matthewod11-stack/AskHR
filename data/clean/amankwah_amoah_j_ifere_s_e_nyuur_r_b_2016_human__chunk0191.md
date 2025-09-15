@@ -1,0 +1,1 @@
+# Exemplary quotations from the fieldwork

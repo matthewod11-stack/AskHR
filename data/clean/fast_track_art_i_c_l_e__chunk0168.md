@@ -1,0 +1,1 @@
+## HRA, health reimbursement account; IV, independent variable.

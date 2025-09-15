@@ -1,0 +1,1 @@
+## Go deeper: “Competing on Resources,” by David J. Collis and Cynthia A.

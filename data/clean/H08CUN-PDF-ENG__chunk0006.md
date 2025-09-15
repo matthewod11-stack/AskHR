@@ -1,0 +1,1 @@
+# Tim Platt/Getty Images

@@ -1,0 +1,3 @@
+# HBR / Digital Article / Research: The Best Ways to Connect with Colleagues Outside o…
+
+- It was ﬂexible: People of all ﬁtness levels could be involved remotely

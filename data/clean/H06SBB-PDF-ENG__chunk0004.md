@@ -1,0 +1,1 @@
+## IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For Now?

@@ -1,0 +1,3 @@
+# IH
+
+Ivona Hideg is Professor of Organisation Studies at the Saïd Business School, University of Oxford, and the Ann Brown Chair of Organization Studies in the Schulich School of Business, York University. Previously, she was a research fellow with the Women and Public Policy Program at Harvard Kennedy School, she served as an Associate Editor at Academy of Management Journal and is currently serving as Past Chair of the Canadian Society for Industrial & Organizational Psychology. Her main program of research includes workplace equity, diversity and inclusion with a focus on gender, but she also examines issues surrounding race, language, and socio- economic background diversity.

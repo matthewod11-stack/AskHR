@@ -1,0 +1,1 @@
+## Table 4 Summary of patient and student variables

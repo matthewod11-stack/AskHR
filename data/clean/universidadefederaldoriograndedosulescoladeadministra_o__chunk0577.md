@@ -1,0 +1,1 @@
+## Há uma preferência da gestão da empresa X pela aplicação de pesquisa

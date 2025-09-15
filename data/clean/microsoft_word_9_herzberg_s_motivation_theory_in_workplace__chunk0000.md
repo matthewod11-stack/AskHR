@@ -1,0 +1,1 @@
+Psychology Research, December 2022, Vol. 12, No. 12, 971-978 doi:10.17265/2159-5542/2022.12.009

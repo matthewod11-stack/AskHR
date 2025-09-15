@@ -1,0 +1,3 @@
+# HBR / Digital Article / Why Leaders Should Bring Their Best Self—Not Their Whole Self…
+
+just misguided but actively dangerous when applied to those in senior

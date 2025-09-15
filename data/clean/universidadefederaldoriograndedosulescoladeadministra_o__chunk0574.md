@@ -1,0 +1,1 @@
+## SEDLAK, 2020). E ainda adicionaram que a simplicidade é justamente seu fator

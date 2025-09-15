@@ -1,0 +1,1 @@
+# © 2015 Asian Economic and Social Society. All rights reserved ISSN (P): 2309-8295, ISSN (E): 2225-4226 Volume 5, Issue 9, 2015, pp. 208-214

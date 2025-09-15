@@ -1,0 +1,1 @@
+# Psychological Bulletin, 26, 600–606.

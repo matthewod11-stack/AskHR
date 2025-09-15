@@ -1,0 +1,1 @@
+## Restructured Dejobbed Terminated Axed Furloughed

@@ -1,0 +1,27 @@
+## Part IV • Reward Systems, Legal Issues, and Team Performance Management
+
+performance. In addition, these plans can serve as a good tool to recruit and retain top performers because they are attracted to organizations that reward high-level performance.
+
+- Contingent pay plans also enhance employee motivation to accomplish goals that match organizational needs. For contingent pay plans to affect moti- vation positively, however, there needs to be a clear link between employee effort and employee performance (expectancy) and between employee performance and the rewards received (instrumentality), and employees need to value the rewards available (valence). • Contingent pay plans often fail for sev- eral reasons. First, they may be tied to a poor performance management system in which the performance dimensions measured are not relevant to organiza- tional success. Second, the system may be rewarding behaviors and results that are counter to the needs of the organization, such as rewarding executives for short- term results as opposed to long-term growth and environmental responsibility. Third, employees may not view the rewards as valuable, for example, when the difference between the rewards received by the best and the worst per- formers is not really meaningful. Fourth, managers may not be accountable for the system and implement it ineffectively. Fifth, the focus may be only on extrinsic rewards, such as pay and other tangible compensation, instead of also on intrinsic rewards, such as a challenging and interesting work environment in which employees have control over what they do and how they do it. Finally, rewards for executives are disproportionately large compared to the rewards for every- one else.
+
+- There are many choices in the design of a contingent pay plan. It is important that the plan be congruent with the
+
+culture of the organization. People in organizations that have a traditional or an involvement culture are likely to feel more comfortable with different types of plans. For example, organizations with a traditional culture involving top- down decision making and clearly defined jobs are likely to find that a system including piece rate, sales com- missions, and group incentives works well. On the other hand, organizations with an involvement culture, including shared decision making and loosely defined jobs, would benefit most from a system that includes profit sharing and skill-based pay. In addition to an orga- nization’s culture, the strategic business objectives may determine which type of system would work best. For example, if an organization prioritizes customer service, then competency-based pay would work well, whereas an organiza- tion prioritizing teamwork would benefit most from a plan including team sales commissions and gain sharing. In sum, decisions about how rewards are allocated and what types of rewards are given must be made based on the organization’s culture and strategic business objectives.
+
+- Pay is not the only factor that moti- vates people. People want more out of a job than a paycheck. People seek an environment based on trust and res- pect, where they can have fun and develop relationships with others, and engage in meaningful and interesting work. Reward systems that focus exclusively on pay and other monetary rewards at the expense of nonfinancial rewards are basically bribing emp- loyees and eventually will pay a high price in a lack of employee loyalty and commitment. Rewards systems must go beyond pay and consider rewards as anything that increases the chances that specific behaviors and results will
+
+be repeated, or that employees will engage in desirable behaviors and pro- duce desirable results in the future. Defined this way, rewards can include the following:
+
+- Formal commendations and awards in company • Favorable mention publications
+
+- Private, informal recognition for jobs well done
+
+- Public recognition, including praise, certificates of accomplishment, and letters of appreciation
+
+- Status indicators, such as a new job title, larger work area, promotion, ability to supervise more people, and newer or more equipment
+
+- Time, such as taking a longer break, leaving work earlier, and getting time off with or without pay
+
+- A more challenging work environ- ment, responsibility, and freedom
+
+- Several recommendations must be fol- lowed for rewards to work as intended. First, performance must be defined clearly and measured well before rewards are allocated. Second, if financial rewards are not available, employee expectations should be adjusted accordingly and the focus should be on nonfinancial rewards only. Third, all employees must be potentially eligible to receive the rewards. Fourth, rewards must be visible. Fifth, rewards must be contingent on perform- ance and received only if the desired behaviors are displayed and the desired results are produced. Sixth, rewards must be timely and given soon after the result or behavior being rewarded has taken place. Seventh, rewards must be reversible so that employees do not feel a sense of entitlement and continue to be motivated by the desire to obtain the reward again in the future. Finally, rewards should be both financial and nonfinancial.

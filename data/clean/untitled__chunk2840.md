@@ -1,0 +1,1 @@
+## The ﬁrst International Congress on Mental Hygiene met in Washington, DC.

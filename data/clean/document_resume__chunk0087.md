@@ -1,0 +1,3 @@
+# An Overview 5
+
+The major concern with Lsing performance appraisal results m compensation pro- gram decisions is s hether or not the s) stein aLtuall) measuies employee contributions. Most of the dissatisfaction w ith merit pa) Lau be na.ed direLti) to s) stems that produce highly subjective and frequent!) meaningless rating~. SuLh ratings has e little to do with how well people fulfill their obligations to the organization.

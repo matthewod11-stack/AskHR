@@ -1,0 +1,1 @@
+## attrition_counts = attrition_data['Attrition'].value_counts()

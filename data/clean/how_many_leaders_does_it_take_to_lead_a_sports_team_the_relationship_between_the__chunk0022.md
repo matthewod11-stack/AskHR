@@ -1,0 +1,1 @@
+## Table 1. The behavioral characteristics of the different leaders.

@@ -1,0 +1,1 @@
+# Begins class on time

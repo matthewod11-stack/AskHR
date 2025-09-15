@@ -1,0 +1,1 @@
+## um componente energético (vigor), um emocional (dedicação) e um componente

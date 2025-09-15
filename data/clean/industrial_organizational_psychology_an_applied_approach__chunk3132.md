@@ -1,0 +1,3 @@
+# S
+
+Don’t gossip or engage in talk about other people. That is, if another employee comes to you with some gossip or a complaint about another employee, politely tell him or her that you don’t feel comfortable talking behind another person’s back. Also, suggest that if that person has concerns about someone, it would be best to share them directly with that employee. Being respected is very important to being perceived as a good group or team member. This is one of the best ways to build that respect!

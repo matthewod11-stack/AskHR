@@ -1,0 +1,3 @@
+## Employee Net Promoter Score (eNPS) as a Single-item Measure of Employee…
+
+Reichheld F. F., Covey S. R., The ultimate question: Driving good profits and true growth, vol. 211,

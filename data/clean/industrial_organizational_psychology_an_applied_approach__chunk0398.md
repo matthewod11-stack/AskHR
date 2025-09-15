@@ -1,0 +1,1 @@
+## Journal of Consulting Psychology: Practice & Research Journal of Management

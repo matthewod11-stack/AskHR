@@ -1,0 +1,9 @@
+# Degeneracy Theory
+
+One theory that was compatible with Social Darwinism was the theory of degeneration, which rested on the belief that a wide variety of social ills were evidence of a unitary heredi- tary defect. Physical disease (such as tuberculosis, deformed bone development, etc.) and insanity, alcoholism, unemploy- ment, poverty, and crime seemed to go hand in hand. In fam- ilies and communities in which any of these were prevalent, the others were likely to be found.
+
+Dowbiggin (1985) reviewed the history of degeneracy theory in France. The psychiatrist Jacques-Joseph Moreau de Tours (1804–1884) asserted in 1859 that all insanity is caused by an actual alteration of the central nervous system, and that the major cause of insanity is genetic transmission from parents to children of a neuropathic predisposition. He argued that “large series of organs” such as the nervous system, rather than “isolated traits,” are transmitted from parents to offspring, and that susceptibility to disease, partic- ularly mental derangement, is caused by a morbid deviation from the healthy human type. However, autopsies of patients with mental disease had failed to discover speciﬁc lesions or pathological structures of the brain, suggesting that the causes of insanity might not be biological. This led to the theory that mental disease was caused by a hereditary degen- eracy that results in a diffuse pathological functional disequi- librium of the nervous system not detectable by autopsy.
+
+Dowbiggin pointed out that the theory of morbid heredity was compatible with the idea of free will. Dualism of soul and
+
+319

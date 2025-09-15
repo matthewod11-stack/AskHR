@@ -1,0 +1,1 @@
+## ethical, authentic, servant and abusive leadership on trust.

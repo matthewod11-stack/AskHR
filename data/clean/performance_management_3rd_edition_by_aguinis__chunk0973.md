@@ -1,0 +1,1 @@
+## TABLE 6.2 Desirable Features of All Appraisal Forms

@@ -1,0 +1,1 @@
+# Lexical studies: of Big Five factor

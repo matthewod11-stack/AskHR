@@ -1,0 +1,9 @@
+## the remote-ﬁrst company behind WordPress and Tumblr, which
+
+employs around 2,000 people. It organizes in-person team gatherings
+
+of multiple kinds, sizes, and length throughout the year. And before the
+
+pandemic, the entire company would meet for a week for an in-person
+
+social and brainstorming gathering. Research on online communities

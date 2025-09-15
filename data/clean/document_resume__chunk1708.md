@@ -1,0 +1,1 @@
+## Exhibits knowledge of college and Lommunity resourLes for personal counseling.

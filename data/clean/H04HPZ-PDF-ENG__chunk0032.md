@@ -1,0 +1,1 @@
+## Although the Faragher and Ellerth decisions only apply directly to

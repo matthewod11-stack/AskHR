@@ -1,0 +1,1 @@
+## A Guide to Onboarding New Hires (For First-Time Managers)

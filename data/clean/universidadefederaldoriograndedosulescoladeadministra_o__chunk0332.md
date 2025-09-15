@@ -1,0 +1,1 @@
+## dispersas numa área geográfica muito extensa, já que o questionário pode ser

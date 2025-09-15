@@ -1,0 +1,1 @@
+## This tip is adapted from “How Curiosity Can Make Your Meetings—and

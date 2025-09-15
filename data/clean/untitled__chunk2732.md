@@ -1,0 +1,3 @@
+# CONCLUSIONS
+
+When comparing delivery services to ethnic minorities in the decade of the 1980s, it appears that our preparation has advanced. Both white and ethnic minority therapists have positively responded to the call for increased cultural sensi- tivity in their work with ethnically and culturally different clients. Increased expectations for more sensitivity to cultural and ethnic diversity, coupled with the increased number of ethnic minorities in the ﬁeld, appear to have laid a foundation for the progress over the last decade.

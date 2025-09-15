@@ -1,0 +1,1 @@
+# Cross-cutting decisions Frequent, often high risk, collaborative (eg, operations planning, pricing)

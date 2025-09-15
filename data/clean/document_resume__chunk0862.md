@@ -1,0 +1,3 @@
+# Exhibit 1
+
+The job of Library Technician at Southern Union State Junior College fai into the support category. Jobs in this group are appraised using the weighted responsibility aas as performance criteria. These are identified in Part II of the Performance ;Ipraisal Form and are defined using qualifying words that state "how" a set of duties is performed. The performance discussion and summary in Part III deals with factors that impact on the overall performance and should be self explanatory.

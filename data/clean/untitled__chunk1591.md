@@ -1,0 +1,1 @@
+## Worell, J. (1988). Women’s satisfaction in close relationships. Clin-

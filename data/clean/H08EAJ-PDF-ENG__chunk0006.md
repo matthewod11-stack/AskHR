@@ -1,0 +1,1 @@
+# Maryna Terletska/Getty Images

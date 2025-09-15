@@ -1,0 +1,1 @@
+# Goal-driven, not trend-driven.

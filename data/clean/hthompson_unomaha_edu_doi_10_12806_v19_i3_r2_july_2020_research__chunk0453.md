@@ -1,0 +1,1 @@
+## Figure 8. Leadership Framework Emphasis for RD3

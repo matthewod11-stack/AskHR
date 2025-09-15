@@ -1,0 +1,1 @@
+# active/passive (Aristotle’s distinction), 113 architectures of cognition, 127–128 biological psychology, 47–48

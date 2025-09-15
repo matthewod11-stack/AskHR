@@ -1,0 +1,3 @@
+# HBR / Digital Article / A Manager’s Guide to Supporting Employees Impacted by Natura…
+
+employees to stay in a hotel while evacuated, provide cash to pay for

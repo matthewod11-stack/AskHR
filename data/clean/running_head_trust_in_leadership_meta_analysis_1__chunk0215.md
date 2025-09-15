@@ -1,0 +1,1 @@
+## transactional leadership. Journal of Organizational Behavior, 21, 949-964.

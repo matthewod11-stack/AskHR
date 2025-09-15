@@ -1,0 +1,5 @@
+# Abstract
+
+Business and industry have been using and applying different competency models for developing job profile, recruitment & selection process, train ing & development programs, training needs analysis, learning &development programs, performance appraisal, succession planning and viz. a viz. Competency-based approaches and models are becoming an answer to the organization’s expectations in all fields (public and private) to increase the products’ quality and employees’ capacity. Competency models are based on the idea that there is a productive relationship between employee competency and their deliverables.
+
+Dubois and Rothwell define competencies as, “characteristics that individuals possess and use in appropriate and consistent ways to achieve desired performance. These characteristics include knowledge, skills & traits, social motives, thought thinking.” Many researchers have shown growing interest in the development and nurturing of competency models to enhance organizational output. A competency model “is a descriptive tool that identifies the competencies needed to operate in a specific role within a job, occupation or organization etc.”

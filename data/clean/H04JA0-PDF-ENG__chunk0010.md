@@ -1,0 +1,13 @@
+# Same Game, Different Beneﬁts
+
+Dominant groups in organizations generally set the standards for
+
+behavior within their workplaces, and as Caucasian men hold most
+
+leadership positions today, it can be argued that they set the norms
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

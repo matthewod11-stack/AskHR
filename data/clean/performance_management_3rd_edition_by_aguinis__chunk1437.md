@@ -1,0 +1,1 @@
+## TABLE 8.5 Characteristics of a Good 360-Degree

@@ -1,0 +1,1 @@
+## The Association of Danish Psychologists was founded.

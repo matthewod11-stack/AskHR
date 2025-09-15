@@ -1,0 +1,3 @@
+# of Industrial Engineering, 1(3), 1−12.
+
+Stepstone. (2005). Stepstone and Hire.com. Retrieved October 10, 2005, from http://www.stepstone.com/solutions/hire.htm Stewart, T. A. (1997). Intellectual capital: The new wealth of organizations. New York: Doubleday/Currency. Sullivan, J. To build, buy or trade talent: That is the question behind talent management. Retrieved September 8, 2005, from http://www.erexchange.

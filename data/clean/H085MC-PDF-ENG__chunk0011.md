@@ -1,0 +1,3 @@
+# HBR / Digital Article / 6 Common Leadership Styles — and How to Decide Which to Us…
+
+why. This style is characterized by top-down decision making, an

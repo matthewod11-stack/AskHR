@@ -1,0 +1,1 @@
+# Post Hoc Tests Multiple Comparisons Tukey HSD Dependent Variable: MEAN_GP Table 13

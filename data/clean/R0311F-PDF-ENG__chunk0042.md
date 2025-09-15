@@ -1,0 +1,5 @@
+# work experience
+
+customers, who would then, theoretically, pur- chase more services. The company accordingly went to great lengths to forge alliances and rate its progress at doing so. Yet we could find no evidence that the alliances improved the company’s chances of winning new work or having its contracts renewed.
+
+Businesses that do not scrupulously uncover the fundamental drivers of their units’ perfor- mance face several potential problems. They often end up measuring too many things, try- ing to fill every perceived gap in the measure- ment system. The result is a wild profusion of peripheral, trivial, or irrelevant measures. Amid this excess, companies can’t tell which measures provide information about progress toward the organization’s ultimate objectives and which are noise. A leading home-finance company, for example, implemented an “exec- utive dashboard” that eventually grew to en- compass nearly 300 measures. The company’s chief operating officer complained, “There’s no way I can manage my business with this many measures. What I’d really like to know are the 20 measures that tell me how we are really doing.”

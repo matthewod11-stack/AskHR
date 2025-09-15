@@ -1,0 +1,1 @@
+# HBR / Magazine Article / HR’s New Role

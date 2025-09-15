@@ -1,0 +1,7 @@
+# HUMAN RESOURCE DEVELOPMENT INTERNATIONAL
+
+latent constructs, it made sense to adopt latent mean modelling and compare latent means (Müller & Schäfer, 2017).
+
+Latent mean comparison has been used in health science and education. For example, Throuvala et al. (2021) estimated smartphone distraction differences across gendered groups, and Tsaousis and Alghamdi (2022) did the same when estimating differences in general academic ability. In workplace coaching, the only study we found using latent mean comparison was Hammack-Brown et al. (2024), which found no difference in coaching support between remote and office-based workers.
+
+To estimate the latent mean difference between the two groups on our work-related outcomes, we followed Müller and Schäfer (2017). First, we conducted an MGCFA within a structural equation modelling framework. When specifying the model, we fixed the latent factor means for the no-coach group to zero, establishing it as the reference group against which the coached group could be compared. Additionally, factor loadings and intercepts were constrained to be equal across groups. Once these constraints were applied, we freely estimated the latent factor means for the coached group, interpreting the results as the latent mean difference between the no-coach group and the coached group.

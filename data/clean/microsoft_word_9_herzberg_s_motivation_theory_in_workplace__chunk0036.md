@@ -1,0 +1,1 @@
+# two-factor https://www.simplypsychology.org/herzbergs_two_factor_theory.html?fbclid=IwAR0ECFQd6adr8vsTKphfQ8oMDmvc1tgj Cg32Z3vLEEoDAs4kRhi6JX7FnQM

@@ -1,0 +1,7 @@
+# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
+
+- Technologies: While new tools can create new problems, they can also
+
+help solve them. Companies need to know how their technology works
+
+and where it can fail, and what new tools can help them achieve their

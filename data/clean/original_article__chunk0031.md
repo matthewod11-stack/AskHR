@@ -1,0 +1,3 @@
+# (SC) increase proﬁtability.
+
+In our work, we assume that boards are teams and should be studied through this theoretical conceptualization framework, being ‘ignored or even denied in past board research’ (Vandewaerde et al, 2012). Boards can be considered teams as they are ‘groups of can self- individuals interdependent regulate their behavior on relatively whole tasks. [They have] 1) face to face interaction;

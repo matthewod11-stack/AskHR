@@ -1,0 +1,1 @@
+## The International Society for Political Psychology was established.

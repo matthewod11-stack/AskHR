@@ -1,0 +1,1 @@
+## Plato. (1894). The republic (B. Jowett, Trans.). Oxford, England:

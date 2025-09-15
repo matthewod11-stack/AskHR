@@ -1,0 +1,1 @@
+## Litwin e Stringer (1968 apud PASTANA, 2020 ).

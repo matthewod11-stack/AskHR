@@ -1,0 +1,1 @@
+## Leana, C. R., & Feldman, D. C. (1992). Coping with job loss. New

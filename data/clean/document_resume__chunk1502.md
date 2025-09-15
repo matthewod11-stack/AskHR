@@ -1,0 +1,1 @@
+## Encourages attendance throughout the quarter.

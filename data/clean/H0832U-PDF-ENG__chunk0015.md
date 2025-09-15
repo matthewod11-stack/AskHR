@@ -1,0 +1,1 @@
+## diﬀerences impact every organization in every culture around the

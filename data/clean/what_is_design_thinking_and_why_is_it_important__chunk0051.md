@@ -1,0 +1,19 @@
+# Razzouk & Shute
+
+focus and consider new educationally valuable skills (e.g., design thinking, multi- tasking, digital literacy) to value, assess, and support.
+
+As described earlier, enhancing students’ design thinking skills may be achieved through incorporating authentic and intriguing tasks into the classroom and pro- viding many opportunities to apply design processes. In our design thinking model shown in Figure 2, imagine tasks that are designed and developed for each of the low-level nodes. As students work on the tasks, evidence is accumulated to evalu- ate their performance. Such information can help educators monitor the student’s performance, infer current states of strength and weakness relative to design think- ing variables, and provide targeted feedback to improve the student’s performance. Our goal as educators should not focus on preparing our students to perform well on standardized exams, but to equip them with powerful skill sets that can help them succeed both within and outside of school.
+
+This article presented relevant research that has provided the basis for under- standing (a) the nature of design thinking, (b) experts’ behavior in design, and (c) differences between novice and expert designers. Most of these studies were qual- itative and employed protocol analysis, which has some limitations as a research method, especially for investigating design activities. For example, it can be a weak method when researchers aim to capture designers’ nonverbal thought pro- cesses, which are critical in design thinking. The majority of the studies we reviewed aimed to examine either the differences between novice and expert designers or characterize expert behavior in the designing process. However, experimental evidence is lacking in the field of design research.
+
+Researchers who are interested in measuring and supporting design thinking have great opportunities to conduct a wide range of experimental studies that can lead to important findings. For instance, researchers may examine the effects of the design thinking process on various learning outcomes. They can also investi- gate the effects of different tasks and their complexity relative to enhancing design thinking skills, which in turn are assumed to increase students’ learning outcomes. It would also be interesting to know if design thinking skills mediate the learning process. In other words, design thinking skill may serve as a mediator that clarifies the nature of the relationship between an independent variable (e.g., problem- solving skill) and a dependent variable (e.g., math test scores). So, rather than hypothesizing a direct causal relationship between problem-solving skill and math test scores, we may hypothesize that problem-solving skill enhances design think- ing skill, which in turn leads to an increase in math scores. Another important study could examine the domain-specific versus domain-independent nature of design thinking. In other words, can design thinking skill be examined independently of particular domains (e.g., engineering vs. marketing), or is it context bound?
+
+Currently, we have found no valid performance-based assessments of design thinking skills. This lack adversely affects the ability to collect good evidence about the effects of these skills on learning (Rotherham & Willingham, 2009). A major challenge, then, is to design and develop accurate, performance-based mea- sures of these skills. Assessing these types of 21st-century competencies is beyond the capabilities of most traditional assessment formats (e.g., multiple-choice test, self-report survey). Therefore, innovative assessments that aim to reliably measure those skills should be designed and developed to assist researchers in collecting valid and reliable evidence. We suggest employing the evidence centered design
+
+344
+
+Downloaded from
+
+http://rer.aera.net
+
+at AERA on October 2, 2012

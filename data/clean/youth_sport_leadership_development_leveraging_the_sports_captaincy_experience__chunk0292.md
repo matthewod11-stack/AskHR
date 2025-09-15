@@ -1,0 +1,3 @@
+# Develop a Complete Program
+
+With more research and professional practice in this area, we ultimately hope to produce a Youth Sport Leadership Development Package. This package would include tested program materials designed to allow athletes, coaches, and athletic directors to implement their own leadership groups, programs, and mentorship experiences in the schools. In this way, a youth sport lead- ership initiative could be more easily implemented statewide and beyond.

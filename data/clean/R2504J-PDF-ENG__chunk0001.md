@@ -1,0 +1,1 @@
+## From the Magazine (July–August 2025) / Reprint R2504J

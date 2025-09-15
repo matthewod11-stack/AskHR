@@ -1,0 +1,7 @@
+# THERAPISTS’REPORTED LEVELS OF COMFORT
+
+Furtherresultsofthesurveysuggestedadecreasefrom1986to 1992inthenumberofrespondentswhoreported“feelingcom- pletely comfortable” in working with any ethnic group. The percent of respondents reporting feeling completely comfort- able with white clients decreased from 1986 to 1992, 88.8% to 85.2%, respectively. Therapists with Native American clients showed the least comfort with that population.
+
+The shifts in reported levels of comfort from 1986 to 1992 suggested that both white and ethnic minority therapists were moving away from generalized views of all clients being inherently the same and were more closely scrutinizing them- selves, their abilities, and their preparation for clinical work with clients from various ethnic and cultural groups.
+
+The release of the 1990 APA Guidelines for Providers of Psychological Services to Ethnic, Linguistic, and Culturally Diverse Populations challenged psychologists’ level of knowledge and skill in working with the ethnically diverse, thus creating uncertainties and discomfort. Even though re- spondents reported higher levels of discomfort, they were in fact becoming better prepared as they anticipated ethnic and cultural issues in their clinical work, and the numerous considerations required for applying a sociocultural frame- work to diagnosis, assessment, and treatment of the culturally diverse.

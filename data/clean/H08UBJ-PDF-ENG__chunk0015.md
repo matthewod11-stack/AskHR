@@ -1,0 +1,3 @@
+# HBR / Digital Article / Gender Diversity Helps Teams Maintain Integrity Under Pressure…
+
+to overshoot with rose-colored predictions—compared to homogeneous

@@ -1,0 +1,1 @@
+# Figure 2.5 Example of a wage trend line

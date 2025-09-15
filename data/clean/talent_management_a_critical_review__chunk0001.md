@@ -1,0 +1,1 @@
+# www.socscinet.com/bam/humres

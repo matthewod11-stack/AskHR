@@ -1,0 +1,17 @@
+# 69
+
+gender roles become more stereotypical (Ely, 1995). This statement goes along with the empirical research of Ngo, Foley, Wong, and Loi (2003), who claimed that in male/female- concentrated sectors, men and women tend to perpetuate their gender-role stereotyping. Thus, possible cases of unfair treatment become more visible and more discussed. Following this line of argumentation, employees, who are employed in organizations within a male/female-concentrated sector, are suggested to perceive workplace gender inequality to a greater extent than those who are employed in a gender-neutral sector.
+
+Hypothesis 8: there is a positive relationship between working in male/female- concentrated sectors and employees’ perceptions of workplace gender inequality.
+
+According to role-balance theory (Marks and MacDermid, 1996), individuals seek full and meaningful experiences in their work and family lives. The theory claims that in order to achieve balance one should distribute his/her personal resources across all life roles in an ‘even-handed’ fashion, which tends to lead to a more equal engagement in work and family obligations (Carlson and Grzywacz, 2008). However, nowadays, many employees face the problem of time reconciliation at both professional and private levels. Since the degree of achievement of gender equality in a workplace depends among other issues on the extent to which workplace policies address the issue of reconciliation of work and family (Lewis and Giullari, 2005), reconciliation policies may provide employees with the notion of workplace gender equality.
+
+Finland is one of the countries, where equality mainstreaming is taken into force. Workplaces implement policies, which provide both male and female employees with the opportunity to fulfill family caring obligations without being deprived of their freedom to engage in paid work and to make full use of their right for employment.
+
+Since the degree of achievement of gender equality in a society depends among other issues on the extent to which policies address the issue of reconciliation of work and family (Lewis and Giullari, 2005), reconciliation policies may influence employees’ perception of workplace gender equality. The more positive the concern of the employer is towards the reconciliation of work and family, and the better the employee’s balance between work and family is, the less he/she is expected to perceive workplace gender inequality.
+
+Hypothesis 9: there is a positive relationship between employers’ negative attitude towards reconciliation of work and family and employees’ perceptions of workplace gender inequality.
+
+In a similar way, based on role-balance theory (Marks and MacDermid, 1996), employees’ perceived attitude towards family leave is proposed to have an impact on whether and to what extent employees perceive workplace gender inequality to exist. Companies, that shape the needs and rights of care-givers and care-receivers by encouraging both mothers and fathers to use their leave benefits, are competent in promoting gender equality (Knijn and Kremer, 1997).
+
+Although, in Finland, both male and female employees have the right to take family leave, there has been relatively little interest in a redistribution of responsibility between them for

@@ -1,0 +1,1 @@
+## HBR / Magazine Article / Now Is the Time for Courage

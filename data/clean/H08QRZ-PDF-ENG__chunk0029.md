@@ -1,0 +1,1 @@
+## HBR / Digital Article / The Risks of Collecting Employees’ Biometric Data

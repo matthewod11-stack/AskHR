@@ -1,0 +1,1 @@
+# personal perception of our social and physical environment that shapes and directs

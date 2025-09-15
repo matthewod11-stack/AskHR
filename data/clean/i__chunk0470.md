@@ -1,0 +1,1 @@
+## plt.title('Confusion Matrix of Pruned tree model')

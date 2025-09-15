@@ -1,0 +1,1 @@
+# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone

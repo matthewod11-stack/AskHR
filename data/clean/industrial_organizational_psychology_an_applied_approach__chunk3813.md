@@ -1,0 +1,1 @@
+## Communication structure The manner in which

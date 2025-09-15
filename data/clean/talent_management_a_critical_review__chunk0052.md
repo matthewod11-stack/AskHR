@@ -1,0 +1,1 @@
+## Fig. 3. A high level depiction of a talent management hierarchy.

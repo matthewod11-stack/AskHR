@@ -1,0 +1,1 @@
+## Stamper, C. L., & Masterson, S. S. (2002). Insider

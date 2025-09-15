@@ -1,0 +1,1 @@
+## relação à metodologia original está na existência de texto introdutório e na

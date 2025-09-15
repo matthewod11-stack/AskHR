@@ -1,0 +1,1 @@
+## Leader position power, 447 Leaderless group

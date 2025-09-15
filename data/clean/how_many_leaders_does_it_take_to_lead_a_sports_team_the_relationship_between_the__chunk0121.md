@@ -1,0 +1,1 @@
+## Table 5. Differences between zero, one, or two social leaders.

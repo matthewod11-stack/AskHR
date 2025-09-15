@@ -1,0 +1,1 @@
+# The name and address of the employment site where the plant closing or mass layoﬀ will occur, and the name and telephone number of a

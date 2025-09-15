@@ -1,0 +1,1 @@
+## plt.title('Count of Different Types in {}'.format(column))

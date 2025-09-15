@@ -1,0 +1,9 @@
+# How Good Are Existing Structural Models?
+
+Which is the best structural model of personality? In attempting to answer this question, we face severe limitations because relatively few studies have generated comparative evidence on the utility of multiple structural models. However, because most readers are fa- miliar with the Big Five model, we can illustrate the potential ap- plication of relevant criteria with a brief discussion of how well the Big Five appears to satisfy them.
+
+Many psychologists are interested in a structural model with a strong biological basis. It is relevant that all of the Big Five factors are moderately heritable. However, none is completely heritable, and none is strongly environmental with respect to shared family antecedents; we might ﬁnd a competitor model (or variant of the Big Five) with more causal clarity at some point in the future. There is no clear evidence that the Big Five correspond to main lines of genetic or biological inﬂuence, but the same must be said for all other structural models at this time.
+
+Reliability and validity are frequently referenced criteria for comparing models. The Big Five factors generally show impressive stability across time and agreement across observers, but we do not know if some competitor model might be better on these counts. Because they are factors based on lexical representation, the Big Five have substantial bandwidth and certainly represent socially im- portant dimensions, although it is not clear that the Big Five cap- tures all socially important dimensions. The Big Five does show impressive predictive validity, but models containing a wider range of individual differences would doubtless outperform the Big Five in this respect.
+
+Generalizability across differing types of data and across cul- tural settings is a potentially important criterion. The Big Five has some generality across self- and peer-rating data (Goldberg, 1990,

@@ -1,0 +1,1 @@
+## automotive MBA program and conduct research inside Swedish corporate culture in

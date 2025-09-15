@@ -1,0 +1,1 @@
+## Trait Personal Resources Conscientiousness Extraversion, etc.

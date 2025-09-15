@@ -1,0 +1,1 @@
+# certain conditions, or 'hygiene factors', had to be in place for employees to be satisfied,

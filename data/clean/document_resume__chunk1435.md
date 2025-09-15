@@ -1,0 +1,1 @@
+## Updates and submits course outlines (syllabi) on time to Dean's office.

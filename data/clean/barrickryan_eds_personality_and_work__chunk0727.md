@@ -1,0 +1,3 @@
+## What Interventions Help Create Effective Learning States and Learning Processes?
+
+It is clear that to understand the person within situation, we need a better understanding of situations that learners face. The situa- tional context of learning that has been most studied in the train- ing literature has been workplace climate and management support for learning. Goldstein and Ford (2002) discuss how work-

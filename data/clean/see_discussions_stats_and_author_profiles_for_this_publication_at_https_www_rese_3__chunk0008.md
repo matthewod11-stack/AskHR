@@ -1,0 +1,1 @@
+## Doon Institute of Management & Research, Rishikesh, Uttarakhand, India

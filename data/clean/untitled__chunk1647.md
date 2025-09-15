@@ -1,0 +1,5 @@
+# ORIGINS OFASSESSMENT PSYCHOLOGY
+
+Over time in recorded history and for diverse reasons, meth- ods of assessment have been used to classify, select, diagnose, advise, and plan services for people in all walks of life. Just as Caesar used observation to classify Cassius as an overly ideational and envious person not to be trusted, Gideon in a Bible story from the Book of Judges chose his troops for bat- tle by observing how they drank water from a stream. Those soldiers who used one hand to bring water to their mouth while keeping their other hand on their weapon were chosen to ﬁght; those who put down their weapon and used both hands to drink were sent home.
+
+Informal decision-making procedures of this kind deﬁne the province of assessment psychology, but the transforma- tion of such informal procedures into the standardized methodology that constitutes contemporary assessment psy- chology became possible only following a scientiﬁc prehis- tory during which the ﬂedgling discipline of psychology

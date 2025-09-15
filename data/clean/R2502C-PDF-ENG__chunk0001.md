@@ -1,0 +1,1 @@
+## From the Magazine (March–April 2025) / Reprint R2502C

@@ -1,0 +1,1 @@
+## Ao todo, o processo dura cerca de 15 dias, sendo distribuídos conforme

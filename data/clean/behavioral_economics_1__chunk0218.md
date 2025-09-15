@@ -1,0 +1,1 @@
+# Individual investor stock trad

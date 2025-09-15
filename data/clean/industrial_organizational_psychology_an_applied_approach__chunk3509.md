@@ -1,0 +1,1 @@
+# Smith, Totterdell, and Folkard (1995)

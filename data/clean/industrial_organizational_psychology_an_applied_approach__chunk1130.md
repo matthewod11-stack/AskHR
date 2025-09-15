@@ -1,0 +1,3 @@
+# Perceptual Ability
+
+Perceptual ability consists of vision (near, far, night, peripheral), color discrimi- nation, depth perception, glare sensitivity, speech (clarity, recognition), and hearing (sensitivity, auditory attention, sound localization) (Fleishman & Reilly, b). Abilities from this dimension are useful for such occupations as machin- ist, cabinet maker, die setter, and tool and die maker. An example of a perceptual ability test is shown in Figure ..

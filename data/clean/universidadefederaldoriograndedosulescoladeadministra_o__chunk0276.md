@@ -1,0 +1,1 @@
+## organizações para medir o nível de comprometimento dos trabalhadores. Os autores

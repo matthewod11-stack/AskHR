@@ -1,0 +1,1 @@
+## perspectiva, o construto é avaliado pelo padrão oposto das pontuações das três

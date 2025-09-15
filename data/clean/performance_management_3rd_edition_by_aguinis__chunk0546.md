@@ -1,0 +1,1 @@
+## Temporal dimension: Short-term criteria vs. long-term criteria

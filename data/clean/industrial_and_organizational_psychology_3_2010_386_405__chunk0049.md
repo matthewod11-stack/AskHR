@@ -1,0 +1,3 @@
+# Susan Mohammed: Reviews of
+
+One speciﬁcareathat wouldbeneﬁt from cross-fertilization between JDM and IOOB is the work on the information sharing bias in groups—the phenomena that groups are better at rehashing shared information than pooling diverse (i.e., non shared) informa- tion (e.g., Stasser & Titus, 1987). Over 2 decades of research has produced a homo- geneous body of empirical research primar- ily using a hypothetical, hidden proﬁle task (e.g., murder mystery, select the best can- didate). However, this type of design has been criticized for introducing an inherent confound because information that sup- ports a superior option is unshared, whereas information that supports an inferior option is predominantly shared (Wittenbaum,

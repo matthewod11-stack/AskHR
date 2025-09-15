@@ -1,0 +1,1 @@
+# Kahneman and Tversky (1992)

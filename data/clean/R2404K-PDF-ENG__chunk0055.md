@@ -1,0 +1,1 @@
+## HBR / Magazine Article / The Middle Path to Innovation

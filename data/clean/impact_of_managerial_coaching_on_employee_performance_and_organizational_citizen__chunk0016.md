@@ -1,0 +1,3 @@
+## Managerial Coaching on Employee Performance and OCB
+
+weaknesses (Kim et al., 2013). According to Kim & Kuo, (2015), employee job performance is the key outcome of managerial coaching. The various skills of supervisors comprise the managerial coaching such as relationship development, effective listening skills, putting the analytical questions, accepting the ideas of employees, focusing on team approach, open communication with the employees, giving preference to the individual needs of employee, and facilitate their development result in their improved job performance (Cox et al., 2010). The following is developed based on the above discussion: (cid:32) H1: Managerial coaching will have a positive impact on employee in-role

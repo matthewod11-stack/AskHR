@@ -1,0 +1,1 @@
+## Bequai, A. (1990). Every Manager's Legal Guide to Hiring: Illinois: Dow Jones

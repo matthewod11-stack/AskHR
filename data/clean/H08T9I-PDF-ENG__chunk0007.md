@@ -1,0 +1,1 @@
+## compete on quality and cost, smartphone manufacturers on processing

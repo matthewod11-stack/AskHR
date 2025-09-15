@@ -1,0 +1,1 @@
+## Figura 8 - Exemplo de cronograma de aplicação da pesquisa de eNPS

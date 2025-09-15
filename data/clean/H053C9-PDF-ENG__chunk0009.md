@@ -1,0 +1,1 @@
+## wave of persecution and human rights abuses against LGBT people.

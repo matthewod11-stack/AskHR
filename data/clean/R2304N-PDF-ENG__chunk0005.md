@@ -1,0 +1,1 @@
+## From the Magazine (July–August 2023) / Reprint R2304N

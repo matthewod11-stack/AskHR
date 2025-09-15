@@ -1,0 +1,1 @@
+## With regard to the scale reliability, α=0.946, and r=0.954.

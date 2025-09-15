@@ -1,0 +1,7 @@
+# HUMAN RESOURCE DEVELOPMENT INTERNATIONAL
+
+contrast, informal coaching is often opportunistic, routine, and immediate (Grant, 2017), which some employees appraise as general supervision (Dixey, 2015).
+
+Some supervisors prefer informal coaching because it requires less time and aligns with organisational constraints (Grant, 2017, p. 39). Others perceive formal coaching as more confrontational and potentially less effective (Dixey, 2015). However, our findings suggest otherwise. We found that employees receiving formal coaching view their work as more meaningful and demonstrate stronger OCBs. Therefore, we recommend that HRD practitioners integrate formal coaching as a core leadership competency and train supervisors to be experts.
+
+It is acknowledged that effective workplace coaching requires time, effort, and com- mitment (Milner et al., 2023). However, HRD practitioners could help by ensuring supervisors receive ongoing training in best practices (Ellinger, 2013). Additionally, HRD practitioners could foster a coaching culture by developing organisational policies that encourage employees at all levels (coaches and coahees) to take an active role in the process (Koskinen & Anderson, 2023). For example, HRD practitioners could advocate for investment in digital platforms that streamline coaching efforts, such as tracking sessions, monitoring goal progress, and providing feedback. This would ensure super- visors are better equipped to balance their role as leader and coach, something recom- mended in the literature (B. Kim & Lee, 2024).

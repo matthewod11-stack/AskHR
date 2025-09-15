@@ -1,0 +1,1 @@
+## if attrition_data[field].dtypes == 'object':

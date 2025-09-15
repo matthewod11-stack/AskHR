@@ -1,0 +1,1 @@
+# training, development, informal learning, human capital resources, knowledge sharing, continuous learning

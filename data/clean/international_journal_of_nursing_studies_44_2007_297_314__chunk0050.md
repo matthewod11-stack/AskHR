@@ -1,0 +1,3 @@
+# 4.2. Educational attainment
+
+Conﬂicting results were found for the effect of the individual factor of educational attainment on job satisfaction and on intent to leave. Six studies used self-reported demographic data to ascertain the educa- tional level of participants (Fang, 2001; Lu et al., 2002; Tzeng, 2002; Yin and Yang, 2002; Larrabee et al., 2003; Rambur et al., 2003). Three studies found positive correlations for educational level and job satisfaction. A

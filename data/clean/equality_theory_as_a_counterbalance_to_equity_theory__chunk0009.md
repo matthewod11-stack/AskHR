@@ -1,0 +1,3 @@
+# 135
+
+logic—the implicit background assumptions—of prior research. Speciﬁcally, as a justiﬁcative argument for dis- tribution based on an equality standard, the research liter- ature tends to state that all inputs are ‘‘assumed’’ to be equal, inputs.’’ For example, as Sheppard (among many others) puts it: distributive equality is taken to mean that members are rewarded equally ‘‘regardless of inputs’’ (Sheppard et al. 1992).

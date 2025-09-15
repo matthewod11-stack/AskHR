@@ -1,0 +1,1 @@
+# HBR / Digital Article / Should Your Business Use a Generalist or Specialized AI Model?

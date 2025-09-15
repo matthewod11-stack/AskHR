@@ -1,0 +1,1 @@
+## Tucker, J. (1993). Everyday forms of employee resistance.

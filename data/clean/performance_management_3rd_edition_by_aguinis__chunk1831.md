@@ -1,0 +1,1 @@
+## Skill-based pay Competency-based pay Gain sharing

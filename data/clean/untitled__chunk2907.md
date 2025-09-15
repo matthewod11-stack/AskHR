@@ -1,0 +1,1 @@
+## The Salvadoran Society of Psychology was founded.

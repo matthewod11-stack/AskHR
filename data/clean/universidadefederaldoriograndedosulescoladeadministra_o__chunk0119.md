@@ -1,0 +1,1 @@
+## Historicamente, a psicologia priorizou o estudo dos transtornos, sintomas e

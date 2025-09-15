@@ -1,0 +1,7 @@
+# Intelligence
+
+the same way that present points of view will be viewed as skewed in the future. A dialectical form of examination will serve as the basis for the entire chapter. The basic idea is that important ideas, good or bad, eventually serve as the spring- board for new ideas that grow out of unions of past ideas that may once have seemed incompatible.
+
+The emphasis in this chapter is on the history of the ﬁeld of intelligence, particularly with reference to theories of intelligence. Readers interested in contemporary theory and research are referred to the chapter “Contemporary Theories ofIntelligence”inVolume7ofthishandbook(R.J.Sternberg, 2002). Such theories and research are mentioned only in pass- ing in this chapter. Readers interested primarily in measure- ment issues might consult relevant chapters in R. J. Sternberg (1982, 1994, 2000).
+
+Perhaps themostfundamentaldialectic in theﬁeld of intel- ligencearisesfromthequestionofhowweshouldconceiveof intelligence. Several different positions have been staked out (Sternberg, 1990a). Many of the differences in ideology that arise in accounts of the history of the ﬁeld of intelligence arise from differences in the model of intelligence to which an in- vestigator adheres. To understand the history of the ﬁeld of intelligence, one must understand the alternative epistemo- logicalmodelsthatcangiverisetotheconceptofintelligence. But before addressing these models, consider simply the question of how psychologists in the ﬁeld of intelligence have deﬁned the construct on which they base their models.

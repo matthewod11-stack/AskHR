@@ -1,0 +1,1 @@
+# performance as a driver of customer orientation and company effectiveness among retail

@@ -1,0 +1,1 @@
+# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…

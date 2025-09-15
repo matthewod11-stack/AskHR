@@ -1,0 +1,1 @@
+# Additional Types of Rating Scales

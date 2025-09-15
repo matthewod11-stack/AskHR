@@ -1,0 +1,1 @@
+# https://www.gartner.com/en/articles/4-initiatives-that-will-give-your-supply-chain-a-

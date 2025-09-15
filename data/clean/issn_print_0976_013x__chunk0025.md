@@ -1,0 +1,1 @@
+## A Conceptual Development of Entrepreneurial Orientation and Circular Practices

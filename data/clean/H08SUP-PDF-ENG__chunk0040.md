@@ -1,0 +1,1 @@
+## Structure pre-vote discussions deliberately, and adopt simultaneous

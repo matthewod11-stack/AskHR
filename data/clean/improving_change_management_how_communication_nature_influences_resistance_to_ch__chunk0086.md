@@ -1,0 +1,1 @@
+## Graphic01 Communication and Resistance to Change Evolution Organization X

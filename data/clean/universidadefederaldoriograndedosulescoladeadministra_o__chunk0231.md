@@ -1,0 +1,1 @@
+# frequência de disparo da pesquisa, que, neste caso, respeita o gatilho automático

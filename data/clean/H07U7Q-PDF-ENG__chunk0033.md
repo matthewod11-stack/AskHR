@@ -1,0 +1,3 @@
+# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
+
+space. I continue to see that we’ll have opportunities both in the

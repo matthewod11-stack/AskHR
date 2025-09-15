@@ -1,0 +1,17 @@
+# Employee code of conduct.
+
+Codes of ethics are written to guide behavior (Whitford, 2006). Any final analysis of the impact of a code must include how well it affects
+
+(cid:271)eha(cid:448)ior. “(cid:272)holarl(cid:455) resear(cid:272)hers(cid:859) de(cid:271)ates a(cid:271)out codes generally revolve around whether more general codes are mere platitudes, and whether more detailed codes require behavior about which reasonable people can disagree. They even debate whether ethics codes are necessary at all because good people should know how to act ethically without any guidance (Prucell, 2003) these are worthy academic questions, but they are different than those a practitioner must ask. For those working with developing public service communities the more important questions are what blend of the general and specific are most likely to affect behaviors that a society needs from its civil servants and its political leaders. Contemporary social psychological research also strongly suggests that codes can guide or induce
+
+- 1560 -
+
+in developing countries that are behaviors critical to a functioning public service (Crane,
+
+(cid:1006)(cid:1004)(cid:1004)(cid:1011)(cid:895). Codes are (cid:374)ot desig(cid:374)ed for (cid:862)(cid:271)ad(cid:863) people, but for the persons who want to act ethically. The bad person will seldom follow a code, while most people – especially public servants -- welcome ethical guidance in difficult or unclear situations. The average person is not grossly immoral but often tempted, and sometimes confused, by what appears to be a virtuous path.
+
+(cid:862)Whe(cid:374) te(cid:373)ptatio(cid:374)s are sig(cid:374)ifi(cid:272)a(cid:374)t, (cid:449)he(cid:374) the price of adherence (in terms, for example, of the sacrifice to our interests) is high, when the social consequences of violation (harm to others) are relatively slight, when the costs of violation are low – under such circumstances it is easy to be led from doing what you ought to do (Martha, 2005) No code, no matter how severely enforced will make truly bad people good. However, ethics codes can have a demonstrable impact on the behavior of bad people in organizations. When everyone clearly knows the ethical standards of an organization they are more likely to recognize wrongdoing; and do something about it (Andrew, 2006). Second, miscreants are often hesitant to commit an unethical act if they believe that everyone else around them knows it is wrong. And, finally corrupt individuals believe that they are more likely to get caught in environments that emphasize ethical behavior (Armstrong, 2011).
+
+According to Larman, (2002), a code of conduct is intended to be control guide and reference for users in support of day to day decision making. It is meant to classify, an organization mission, values of principles linking them with standards of professional conduct. A code is an open disclosure of the way an organization operates; important communication also serve as an
+
+vehicle that reflects the covenant that an organization has made to uphold its most important value, dealing with such matters as its commitment is employees as its standards for doing business and its relationship with the community.

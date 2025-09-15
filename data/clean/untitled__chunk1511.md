@@ -1,0 +1,5 @@
+## Collaboration and Power Sharing in Therapy
+
+Attention to the power relations between therapists and clients has been a distinctive feature of feminist therapy. Feminist therapists were among the ﬁrst to disseminate mate- rials to clients and potential clients informing them about the nature of therapy, how to go about selecting a therapist, and their rights as consumers. Feminist therapists have experi- mented with a variety of other ways to put the therapy relationship on a more equal footing. One is the practice of self-disclosure, for example, the disclosure that the therapist has struggled with issues akin to those the client faces. Other disclosures may show clients that their therapists are ordinary and fallible human beings. There are both ethical and theo- retical considerations that govern the use of self-disclosure;
+
+259

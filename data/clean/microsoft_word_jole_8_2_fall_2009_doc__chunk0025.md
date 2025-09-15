@@ -1,0 +1,1 @@
+## Table 2. Mean Leadership Skill Levels for Team Participants and Non-Participants

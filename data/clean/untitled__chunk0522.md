@@ -1,0 +1,5 @@
+## Sociobiology, Behavioral Ecology, and Evolutionary Psychology
+
+The second major postwar inﬂuence came from the ﬁeld that has become known as sociobiology. Many scientists had been studying behavior from an evolutionary perspective for many years.However,someoftheimplicationsofDarwiniantheory had not been fully thought through; this led to some question- able interpretations. During the 1960s and early 1970s, theo- rists such as William D. Hamilton, John Maynard Smith, and RobertTriversreinterpretedDarwinianprinciples.Althougha number of principles were reevaluated, two were critical. One principle concerns the level at which natural selection acts. Much had been written about how behavior evolves for the good of the species or group.Thus, for example, reproduction had been thought to have evolved for the perpetuation of the species. On reinterpretation, it was concluded that natural selection works primarily at the level of the individual or gene, not the group or species. This had many important
+
+77

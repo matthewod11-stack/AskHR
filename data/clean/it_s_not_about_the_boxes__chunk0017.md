@@ -1,0 +1,3 @@
+# Transparency
+
+We feel strongly about the topic of trans- parency but also recognize that every orga- nization needs to determine their own talent philosophy around transparency. We’ve writ- ten extensively about this (see Be Transparent Now) so we won’t revisit that material here. We will reinforce, however, that it’s going to become increasingly difficult to hide from your employees the organization’s view about how far and how fast they can move.

@@ -1,0 +1,1 @@
+## Maintains accurate inventory control records of assigned equipment.

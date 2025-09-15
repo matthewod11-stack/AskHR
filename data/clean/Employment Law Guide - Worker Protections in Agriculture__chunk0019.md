@@ -1,0 +1,1 @@
+# An agricultural employer or association using the services of a farm labor contractor must ﬁrst verify the registration status of the farm labor

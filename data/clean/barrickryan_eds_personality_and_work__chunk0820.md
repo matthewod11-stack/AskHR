@@ -1,0 +1,3 @@
+# Early Models of Performance
+
+Hunter (1983) meta-analytically investigated the relationships among three variables: cognitive ability, job knowledge, and per- formance (measured with work samples and supervisory ratings). Path analyses supported a causal model in which cognitive ability is indirectly related to supervisory ratings of performance through its direct effects on job knowledge and work sample performance (both directly related to supervisory ratings of performance). Job knowledge is directly related to both work sample performance and supervisory ratings of performance. Hunter (1983) recognized

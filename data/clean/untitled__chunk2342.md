@@ -1,0 +1,3 @@
+# Educational Psychology
+
+Hall’s efforts and those of other psychologists of the period (e.g., E. L. Thorndike) fostered the emergence of educational psychology as a major ﬁeld of psychological application. Educational psychology built upon the normative notions of child study and sought to provide educators broader under- standing of how children learn, how curricula could be more efﬁciently arranged, and how schools could be better orga- nized. Educational psychology also served to sensitize edu- cators and parents to the contributions that psychology could make in the mass education movement (see e.g., Cubberly, 1909; Thorndike, 1912).

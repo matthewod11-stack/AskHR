@@ -1,0 +1,3 @@
+# HBR / Digital Article / 4 Strategies to Guide Your Team Through a Departmental Trans…
+
+Departmental transitions — whether due to restructuring, leadership

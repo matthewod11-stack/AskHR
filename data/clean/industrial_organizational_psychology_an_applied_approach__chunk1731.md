@@ -1,0 +1,1 @@
+## Figure 7.11 Example of a mixed- standard scale (bank teller)

@@ -1,0 +1,1 @@
+## views and treats people as partners and valuable assets rather than

@@ -1,0 +1,1 @@
+## com apenas uma questão de resposta simples, a estimar de maneira confiável

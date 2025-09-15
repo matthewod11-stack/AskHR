@@ -1,0 +1,1 @@
+# Build the full paths for the original and new files old_path = os.path.join(folder_name, file) new_path = os.path.join(folder_name, new_filename)

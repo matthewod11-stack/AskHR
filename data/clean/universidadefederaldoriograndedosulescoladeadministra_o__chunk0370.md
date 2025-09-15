@@ -1,0 +1,1 @@
+# recorrência suficiente para captar alterações nesta percepção, a partir de um modelo

@@ -1,0 +1,1 @@
+## (P&G). In July 2019, P&G reorganized around six industry-based sector

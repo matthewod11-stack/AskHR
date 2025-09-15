@@ -1,0 +1,7 @@
+# R.S.Dalaletal.
+
+indi- also a poor context vidual differences (Mohammed & Schwall, 2009). Thus, JDM does not have the best paradigm to study individual differences. However, widening the JDM paradigm to look at earlier stages of decision making (e.g., framing effects, sense making, the pre decision search for alternatives), and at post decisional affect and attitudes (e.g., implementation, regret), will allow for indi- vidual differences to manifest themselves to a greater extent. Dan Ilgen:
+
+for looking at
+
+I will build on Susan’s point. The JDM literature takes a normative approach of asking what kinds of things people do when they make a decision (the issue of bias in decision making, for example). But then the next questions to ask are, Why does this happen? What is the psychological process behind these observed biases? As IOOB researchers and practitioners, we have something to offer in terms of asking questions on individual differences, the interactions between person and situations, and the way in which we issues. We are look at much more likely to look to motivation, social processes, and other constructs not so closely linked to cognition as would be the case for JDM researchers. That is an area where I think we in IOOB can add value.

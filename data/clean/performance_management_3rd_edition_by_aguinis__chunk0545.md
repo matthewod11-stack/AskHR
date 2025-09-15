@@ -1,0 +1,1 @@
+## Participation: Low employee participation vs. high employee participation

@@ -1,0 +1,1 @@
+## Lunch & Prayer Time 01:00 pm to 02:00 pm (Sunday to Thursday)

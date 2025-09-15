@@ -1,0 +1,1 @@
+## Decentralized Distribute authority widely across the organization

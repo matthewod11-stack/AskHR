@@ -1,0 +1,1 @@
+# Authentic leadership: Development and validation of a theory-based measure. Journal

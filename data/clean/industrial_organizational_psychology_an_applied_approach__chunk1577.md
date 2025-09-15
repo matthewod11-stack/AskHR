@@ -1,0 +1,3 @@
+# Making Termination Decisions
+
+Unfortunately, providing feedback, counseling, and training to employees does not always increase performance or reduce discipline problems. When performance management techniques are not successful, the results of a performance review might suggest that the best course of action is to terminate the employee. Meth- ods for doing this and the legal issues that surround such decisions will be discussed in great detail at the end of this chapter.

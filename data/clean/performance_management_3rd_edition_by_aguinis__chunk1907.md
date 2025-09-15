@@ -1,0 +1,7 @@
+## Part IV • Reward Systems, Legal Issues, and Team Performance Management
+
+around autonomous teams, there may not be a supervisor or manager. In that case, a team leader or representative would meet with a performance review board, which includes representatives from all teams.
+
+At least two meetings are needed. First, the supervisor meets with all members of the team together. The focus of this meeting is to discuss the overall team performance including results achieved by the team as a whole. Information for this meeting comes from team members evaluating their collective performance, other teams evaluating the team in question, and the supervisor’s evaluation. Second, the supervisor meets each team member individually. The focus of this meeting is to discuss how the individual’s behaviors contributed to team performance. Information for this meeting comes from individuals evaluating their own performance, peer ratings of the individual’s perform- ance, and the supervisor’s evaluation.
+
+Both meetings emphasize the past, the present, and the future. The past involves a discussion of performance during the review period. The present involves any changes in compensation depending on results obtained. The future involves a discussion about goals and developmental plans the team and its members will be expected to achieve during the next review period.

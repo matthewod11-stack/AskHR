@@ -1,0 +1,1 @@
+## Figure 1. Example of NPS question and scale

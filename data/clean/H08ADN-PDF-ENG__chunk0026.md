@@ -1,0 +1,1 @@
+## HBR / Digital Article / Research: New Hires’ Psychological Safety Erodes Quickly

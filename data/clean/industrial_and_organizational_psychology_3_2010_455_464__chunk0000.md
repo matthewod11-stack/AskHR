@@ -1,0 +1,1 @@
+# IndustrialandOrganizationalPsychology, 3 (2010), 455–464. Copyright  2010 Society for Industrial and Organizational Psychology. 1754-9426/10

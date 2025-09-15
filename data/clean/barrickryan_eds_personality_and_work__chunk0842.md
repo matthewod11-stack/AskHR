@@ -1,0 +1,5 @@
+# Interests
+
+Research with Holland’s hexagon model (1985) of personality types (RIASEC, that is, Realistic, Investigative, Artistic, Social, En- terprising, Conventional), their overlap with the Big Five factors of personality, and their usefulness in predicting important work criteria has been growing among I/O psychologists. Although the Big Five is the favored personality taxonomy of many I/O psy- chologists for examining relationships between personality vari- ables and individual work performance, Holland’s RIASEC types play important roles in theories of team performance (Muchinsky, 1999) and, hence, group-level work performance.
+
+Researchers examining the overlap between Holland’s six per- sonality types and the Big Five factors have come to different conclu- sions. Larson and Borgen (2002) concluded that only three Holland themes—Artistic, Enterprising, and Investigative—are consistently related to Big Five factors. Ackerman and Heggestad (1997), how- ever, in their summary of relations between personality and interest

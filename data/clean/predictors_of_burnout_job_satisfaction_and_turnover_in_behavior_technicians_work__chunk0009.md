@@ -1,0 +1,3 @@
+# Results
+
+AliteraturesearchofPsycINFOidentified31publicationsand a literature search of PubMed identified 11 publications. After duplicates were removed, the titles and abstracts of 33 articles were screened. A total of 21 articles were found to be poten- tially relevant. Methods were reviewed for eligibility and only five articles met the inclusion criteria. Of the 16 articles that were excluded, 10 were excluded because samples did not include behavior technicians providing ABA to individuals with ASD; 4 were excluded because retention, turnover, burn- out, or job satisfaction was not a dependent variable; and 2 reviews of literature were excluded. See Fig. 1 for a flow diagram of the search results and Table 1 for summaries of the included studies.

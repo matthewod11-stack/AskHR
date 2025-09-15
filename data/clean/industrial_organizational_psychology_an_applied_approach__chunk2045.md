@@ -1,0 +1,5 @@
+# Do Employees Have Achievable Goals?
+
+To increase motivation, goal setting should be used. With goal setting, each employee is given a goal such as increasing attendance, selling more products, or reducing the number of grammar errors in reports. The first goal-setting study that caught the interest of industrial psychologists was conducted by Latham and Blades (). Their study was brought about because truck drivers at a logging mill were not completely filling their trucks before making deliveries. Empty space in the trucks obviously cost the company money. To increase each delivery’s load, the drivers were given specific weight goals and were told that they would be neither punished nor rewarded for reaching the goal. A signifi- cant increase in the average load per delivery resulted. Although this is the most celebrated study, goal setting has been shown to be effective in a wide variety of situations.
+
+For goal setting to be most successful, the goals themselves should possess certain qualities represented by the acronym SMART: specific, measurable, attainable, relevant, and time-bound (Rubin, ).

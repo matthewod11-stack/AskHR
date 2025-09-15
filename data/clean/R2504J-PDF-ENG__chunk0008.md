@@ -1,0 +1,1 @@
+## other visual tools such as photographs, maps, logos, and even bar charts

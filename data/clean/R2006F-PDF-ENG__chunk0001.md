@@ -1,0 +1,1 @@
+## From the Magazine (November–December 2020) / Reprint R2006F

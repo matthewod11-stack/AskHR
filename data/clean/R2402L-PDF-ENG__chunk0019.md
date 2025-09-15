@@ -1,0 +1,1 @@
+## Minimal encouragers, very short and simple vocal prompts such as

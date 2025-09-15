@@ -1,0 +1,1 @@
+I’ve spent a lot of my adult life on public transportation. Incollege, I lived more than an hour away from campus. In my firstjob, I had to take multiple trains to reach the office. Up until 2020,a long commute was a part of my daily ritual.Then came the pandemic. While the impacts were harsh onseveral fronts, I was privileged enough to work from home.

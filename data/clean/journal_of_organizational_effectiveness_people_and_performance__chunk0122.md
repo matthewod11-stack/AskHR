@@ -1,0 +1,1 @@
+## Journal of Managerial Psychology, Vol. 22, pp. 309-328.

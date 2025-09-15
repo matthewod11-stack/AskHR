@@ -1,0 +1,1 @@
+# Get the folder name from the user folder_name = input("Enter the folder name: ")

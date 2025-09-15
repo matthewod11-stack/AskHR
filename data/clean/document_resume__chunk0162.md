@@ -1,0 +1,7 @@
+# Performance Appraisal
+
+invested in research and analysis, answering interrogatories, and preparation for trial, unlike attorney fees, cannot be recovered.
+
+There are three basic approaches that may be used by an employe' to minimize EEO liability. The first is to hire, promote, and administer salaries without regard to performance. For example, promotions could be based on seniority, and across the hoard raises could be given. The employer could thus ensure that there would be no adverse impact, and a prima facie case could not be established. The second approach would be to continue current invalidated practices and wait for the EEOC or minority applicants or employees to take legal action. Many organizations follow th:s practice. A third anproach would bt to assume that performance appraisal practices \N, ill have adverse impact and validate each practice in accordance with the "Guidelines."
+
+The third approach is recommended. The idea of being prepared to defend the organization's performance appraisal practices after a prima facie case has been estab- lished does not mean that adverse impact is something that should not be avoided whenever possible. One does not purchase automobile liability insurance with the intention of causing a traffic accident. In fact, insured motorists are likely to be safer drivers. It is also true that job-related performance appraisal practices ha\ e less adverse impact.

@@ -1,0 +1,1 @@
+# "general duty" clause. The general duty clause [Section 5(a)(1)] states that each employer "shall furnish . . . a

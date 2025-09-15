@@ -1,0 +1,1 @@
+## job characteristics, 333 job expectations, 332–333

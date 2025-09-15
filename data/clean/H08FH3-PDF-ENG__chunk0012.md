@@ -1,0 +1,1 @@
+## However, in a recent interorganizational research collaboration, the

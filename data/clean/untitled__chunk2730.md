@@ -1,0 +1,7 @@
+## CLINICAL PROBLEMS FREQUENTLY PRESENTED IN THERAPY
+
+Our survey asked respondents how frequently 11 clinical problems were presented by clients representing ﬁve ethnic groups. A signiﬁcant increase from 1986 to 1992 was re- ported among African American clients for the following
+
+four clinical problems: alcoholism, anxiety, health-related problems, and work-related problems. For Latinos, alco- holism was the only clinical problem showing a signiﬁcant increase. Signiﬁcant increases in the reporting of health- related problems and work-related problems were found for Asian American clients. For Native American clients, signif- icant increases were found on 5 of the 11 commonly reported clinical problems: health-related problems, marital/family related problems, stress-related problems, and work-related problems. No signiﬁcant differences were found for clinical problems reported to white versus non-white therapists.
+
+There is a considerable body of literature (Turner, 1996) on ethnic/cultural differences in symptomatology for depres- sion as well as on treatment considerations for anxiety disor- ders and associated stress-related conditions. Asian American clients most frequently presented marital/family problems in therapy, which may be associated with cultural traditions that place a high value on respecting one’s elders and a collective approach to decision making that emphasizes the good of the family versus the well being of the individual.

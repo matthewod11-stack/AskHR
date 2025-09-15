@@ -1,0 +1,1 @@
+## relationship between cultural intelligence quotient (CQ) and proﬁtability.

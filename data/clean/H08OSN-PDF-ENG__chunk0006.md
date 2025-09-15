@@ -1,0 +1,1 @@
+## didn’t waste his own critical leadership capacity.

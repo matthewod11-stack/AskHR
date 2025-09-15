@@ -1,0 +1,1 @@
+# Cover Designer: Paula Goldstein

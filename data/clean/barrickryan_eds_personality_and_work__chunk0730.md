@@ -1,0 +1,3 @@
+# UNDERSTANDING THE DYNAMIC LEARNER 247
+
+This research direction shows that learning states can be cre- ated that have important impacts on self-regulatory processes and learning outcomes. Research from the clinical and social psychol- ogy literatures on affecting states should be considered for ideas on other types of interventions that have relevance for learning sit- uations. For example, Fosterling (1985) discusses a number of other types of attribution retraining approaches such as the use of persuasion. Barrios and Shigetomi (1979) have identiﬁed ﬁve types of programs for anxiety management. Such interventions have the potential to provide trainers and training designers with a number of strategies for improving learning.

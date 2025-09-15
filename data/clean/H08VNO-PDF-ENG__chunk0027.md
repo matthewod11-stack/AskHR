@@ -1,0 +1,3 @@
+# HBR / Digital Article / To Change Company Culture, Focus on Systems—Not Communic…
+
+Our research found that in these environments, 69% of employees

@@ -1,0 +1,1 @@
+# rationality, altruism, group gain, status consistency among participants and competition

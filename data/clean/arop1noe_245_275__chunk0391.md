@@ -1,0 +1,1 @@
+# SitzmannT,ElyK.2010.Sometimesyouneedareminder:theeffectsofpromptingself-regulationonregulatory

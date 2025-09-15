@@ -1,0 +1,1 @@
+## Follows proper checkout and return procedures for equipment.

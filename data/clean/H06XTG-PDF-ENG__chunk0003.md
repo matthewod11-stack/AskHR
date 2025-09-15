@@ -1,0 +1,1 @@
+## HBR / Digital Article / How Much Autonomy Should You Give Your Global Teams?

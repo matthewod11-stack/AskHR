@@ -1,0 +1,11 @@
+## Practicing Interpersonal Skills through Role Play
+
+Whereas simulations are effective for learning how to use new equipment or soft- ware programs, role play allows the trainee to perform necessary interpersonal skills by acting out simulated roles. For example, when conducting seminars in conflict mediation, consultant Bobbie Raynes has her audience members participate as actors in predetermined situations. The participants are given a conflict situation and are told to use what they have learned to mediate the conflict. When Medtronic, a man- ufacturer of heart valves, decided to teach its sales force how to use CD-ROM–based demonstrations, it began with an hour of classroom training and then used role plays so that the salespeople could practice their new presentation skills.
+
+Role play is used in many types of training situations, from supervisors prac- ticing performance appraisal reviews to sales clerks taking customer orders. One interesting variation of the role play exercise has an employee playing the role of
+
+“the other person.” For example, a supervisor might play the role of an employee, or a sales clerk might play the role of a customer who is frustrated with recently purchased merchandise. In this way, the employee can better understand the rea- soning and feelings of the people with whom he works.
+
+Though role plays allow employees to practice what is being taught, they are not for everyone. Many employees feel uneasy and embarrassed about being required to “act” (Becker, ). This reluctance can be reduced to some extent by using warm-up exercises and praising employees after they participate (Swink, ).
+
+Farber () thinks that role play should be replaced by “real play,” in which employees practice their skills on actual customers. For example, salespeople can be trained by having the sales staff sit around a conference table and take turns making calls to actual/potential customers. The group then discusses the tech- nique of the person making the call.

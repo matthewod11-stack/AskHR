@@ -1,0 +1,5 @@
+# Goal-Setting Theory
+
+and can be applied in numerous other settings. The success of goal setting depends upon taking account of the mediators and moderators that determine its efﬁcacy and applicability.
+
+Because goal setting is an open theory, there is no limit to the numberofdiscoveriesthatcanbemadeortotheintegrationsthat might be made between goal theory and other theories. Future research could include studies of the effects of different types of learning goals and ways of combining them with performance goals (e.g., learning goals ﬁrst, then performance goals), differ- enttypesofgoalframing(approachsuccessvs.avoidfailure),the relation between goals and cognition (which, by implication, entails all of cognitive psychology), goal hierarchies, and macro goal studies withorganizations of different sizes. More studies of the relationship between conscious and subconscious goals would also be of interest.

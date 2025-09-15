@@ -1,0 +1,1 @@
+## From the Magazine (March–April 2019) / Reprint R1902G

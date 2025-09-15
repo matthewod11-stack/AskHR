@@ -1,0 +1,1 @@
+## From the Magazine (September–October 2025) / Reprint R2505N

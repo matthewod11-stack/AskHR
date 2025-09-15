@@ -1,0 +1,1 @@
+## Zwiebel, J. 1995. Corporate conservatism. Journal of Political Economy 103:1—25.

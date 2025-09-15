@@ -1,0 +1,3 @@
+# Demographic information
+
+Demographic data regarding research respondents and is necessary for the determination of whether the individuals in a particular study are a representative sample of testing appropriateness of the respondent in answering the questions for generalization purposes (Kothari, 2004). The demographic information for the study comprised of the gender, age, highest level of education and work period in the organization.

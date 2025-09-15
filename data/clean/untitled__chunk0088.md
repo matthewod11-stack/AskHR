@@ -1,0 +1,3 @@
+# COUNSELING PSYCHOLOGY 357 David B. Baker
+
+18

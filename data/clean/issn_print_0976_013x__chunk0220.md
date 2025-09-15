@@ -1,0 +1,1 @@
+# www.rebelalliance.eu/uploads/9/2/9/2/9292963/stahel_the_business_angle_of_a_circular

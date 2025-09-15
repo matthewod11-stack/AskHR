@@ -1,0 +1,7 @@
+# MEASURING AND EVALUATING
+
+For example, executive management was very interested in consistent and ob- jective criteria to identify high-potential employees. Additionally, the human re- sources department wanted to use com- petencies as part of an employee development system in which employ- ees could, on their own or with their managers, use core competencies as ref- erence points to compare nontechnical job requirements with their individual profile to identify meaningful gaps. HR also considered the competencies as a useful listing of “how” factors to supple- ment a performance appraisal that em- phasized management by objective.
+
+The fact that so many stakeholders with differing perspectives can find val- ue in competencies is probably one of the key attributes that contributes to the past, present, and future popularity of this technology.
+
+Comprehensive research The concept of a competency model is likely to find broad appeal within most or- ganizations. When conducted in a pur- posefully inclusive manner, the creation process is likely to reinforce these initial positive perceptions. Fortunately, the methodology used to build and validate a model strengthens those feelings as the necessary research and analysis re-

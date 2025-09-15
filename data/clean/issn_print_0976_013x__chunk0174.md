@@ -1,0 +1,1 @@
+# relationship between the Entrepreneurial Orientation towards circular practices and its impact

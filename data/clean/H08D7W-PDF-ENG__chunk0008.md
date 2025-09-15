@@ -1,0 +1,1 @@
+## During the research for my book The Innovative Leader: Step-by-Step

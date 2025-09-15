@@ -1,0 +1,1 @@
+## coincide precisely with those of an ideal follower (competence, hard

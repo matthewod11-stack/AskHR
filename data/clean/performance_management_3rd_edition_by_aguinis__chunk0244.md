@@ -1,0 +1,3 @@
+## Good Performance Management Implementation Pays Off
+
+Implementing a performance management system that includes the characteristics just described will pay off. A study conducted for Mercer, a global diversified consulting company, revealed that the 1,200 workers surveyed stated that they could improve their productivity by an average of 26% if they were not held back by a lack of “direction, support, training, and equipment.” Successfully implementing a performance management system can give workers the direction and support that they need to improve their productivity.57

@@ -1,0 +1,11 @@
+# The APA-sponsored
+
+Scholars from the Carnegie Foundation for the Advance- ment of Teaching (1977) aptly described the post–World War II period of curricular expansion as “the academic shop- ping center” (p. 5). Keeping in mind Veysey’s (1973) analysis of the eras of expansion and their external stimuli, psychol- ogy was beneﬁting from the utilitarian demands from more
+
+and different types of students and from the expansion of sci- entiﬁc programs at the graduate level that inﬂuenced teachers at the undergraduate level. Whether one looks at catalogs from 1900 or more recently, a common denominator is that new faculty, after a period of apprenticeship at an institution, create new courses that get absorbed into a department’s cur- riculum. For example, F. H. Sanford and Fleishman (1950) found 261 different course titles in their study. Lux and Daniel (1978) found 1,356 different course titles and concluded: “Thus, we have a ‘course title inﬂation’ of 519%, or about 19% per year on the average, from 1947 to 1975” (p. 178).An expanded breadth of psychology course titles accompanied expansion inAmerican higher education during this time.
+
+Nevertheless, a parallel conservative force operates on the curriculumfrominsidetheinstitutionaswell.Rudolph(1977) reminded us of “the academic truism that changing a curricu- lum is harder than moving the graveyard” (p. 3). As a histo- rian, he knew that such resistance is a complex interaction of internal (departmental faculty and institutional priorities) and external forces (disciplinary groups and community/public constituencies). For psychology, Perlman and McCann (1999a) were led to conclude:
+
+Many frequently offered courses have been found for decades and 13 such courses ﬁrst listed by Henry (1938) are in the pre- sent Top 30. Some courses are slowly being replaced. Thus, the curriculum reﬂects both continuity and slow change, perhaps due to the time it takes for theory, research, and discourse to de- ﬁne new subdiscipline areas or perhaps due to department inertia and resistance to modifying the curriculum. (p. 181)
+
+In the next section, we focus on the concepts of conti- nuity and change in the curriculum, but with an eye to the boundary-setting agendas of disciplinary groups.

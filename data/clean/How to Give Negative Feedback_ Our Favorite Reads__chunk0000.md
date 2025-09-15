@@ -1,0 +1,3 @@
+I recently had to give feedback to a junior colleague after noticingsome errors in a project we collaborated on. My first instinct wasto fix them myself and move forward. But my manager pushed meto treat the situation as a teaching opportunity.It took more than a week to schedule the meeting, and even after Idid, I kept moving it back. Delivering negative feedback to myteam member
+
+sounded dreadful. Minutes before the actual call, Ifelt heavy in my chest.

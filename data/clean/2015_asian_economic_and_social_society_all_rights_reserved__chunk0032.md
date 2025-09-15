@@ -1,0 +1,1 @@
+# Uren, L., & Jakson, R. (2012). What talent wants: The journal to talent segmentation, Jackson

@@ -1,0 +1,5 @@
+# Abstract
+
+NBFCs play supplement the role of banking sector in meeting the increasing financial needs of the corporate sector, delivering credit to the unor ganized sector and to small local borrowers. NBFCs have a more flexible structure than banks. NBFCs are classified as Asset Finance Company, Investment Finance Company and Loan Company. The aim of the study is to find out the relationship between earnings, profitability and liquidity of the ten selected NBFCs for a period of ten years from year 2007 to year 2016. Net profit ratio, Return on capital employed, Return on assets,Current ratio, Quick ratio, Cash earnings retention ratio, PBIT per share, earning per share, dividend per share, Karl Pearsons simple correlation analysis and multiple correlation and multiple regression have been used for analysis of data. As conclusion it can be said that financial performances of Bajaj Finance, Sundaram Finance are good and helpful for growth of companies and growth of shareholders wealth for the period of study.
+
+Key Words: Asset finance company, Earnings, Investment finance company, Loan company,

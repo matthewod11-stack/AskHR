@@ -1,0 +1,3 @@
+# B. Coomber, K. Louise Barriball / International Journal of Nursing Studies 44 (2007) 297–314
+
+to leave, generalised conclusions should be drawn with scales developed for use on caution. The use of occupational groups other than nurses may no longer be appropriate, as the changing nature and speciﬁcity of work areas demand measurement approaches to be more exclusive. Research to identify particular stressors and effective ways of detecting stress early may be useful to address the impact that stress has on retention, and outcomes of the introduction of participative management for leadership dissatisfaction should be assessed.

@@ -1,0 +1,3 @@
+# Behavior checklists
+
+Paired comparisons

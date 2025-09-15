@@ -1,0 +1,1 @@
+# Informs students of the range of scores and the appropriate descriptive analysis.

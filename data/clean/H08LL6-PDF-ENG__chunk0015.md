@@ -1,0 +1,1 @@
+## ensures that its global brand standards—like logo placement, store

@@ -1,0 +1,1 @@
+# HBR / Digital Article / How Multinationals Can Help Advance LGBT Inclusion Around th…

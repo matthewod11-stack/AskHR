@@ -1,0 +1,1 @@
+## Brazil Land Registry by Ubiquity No Single Owner Low No Yes

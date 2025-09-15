@@ -1,0 +1,1 @@
+## Adjustments • Location (cost-of-living adjustments) • Shift

@@ -1,0 +1,1 @@
+## DEPENDED VARIABLE Dependent variable Scale

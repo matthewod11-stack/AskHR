@@ -1,0 +1,1 @@
+## Server (Summers 2006, 2007, 2008) Whale’s Tail Restaurant, Redondo Beach, CA

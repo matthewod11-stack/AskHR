@@ -1,0 +1,5 @@
+## Evaluation of Performance Management System at Accounting, Inc.
+
+This is a follow-up to Case Study 7.1 and Case Study 7.2. After the performance system had been put in place, Accounting, Inc. implemented several measures to evaluate the system. First, the company distributed an employee survey to assess employee satisfaction with the new system. In addition, the HR department examined the distribution of ratings to determine whether scores were being influenced by leniency,
+
+central tendency, or severity biases. Finally, the HR department kept track of the allocation of rewards in the various departments to ascertain whether any departments stood out. From your perspective, what other types of data can be collected to assess the effectiveness of the system? What kind of information would each measure provide? What is the rationale for implementing each type of measure? (cid:2)

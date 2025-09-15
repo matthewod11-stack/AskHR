@@ -1,0 +1,1 @@
+# Photo Researcher: Pre-PressPMG

@@ -1,0 +1,1 @@
+# influences of well-being and life satisfaction as Interpersonal and Intrapersonal, Self-

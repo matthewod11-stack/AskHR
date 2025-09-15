@@ -1,0 +1,1 @@
+## Table 2.2 Writing Effective Task Statements Poorly Written Task Statement

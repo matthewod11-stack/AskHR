@@ -1,0 +1,3 @@
+# 2.2.6. Labor shortage
+
+Workforce shortage with retiring employees can create substantial pressure for some sectors in many countries. The lack of effective and skilled leaders has been noted as one of the biggest business risks of the twenty-first century (Bano et al 2022). However, technical skills alone are not enough to warrant leadership promotion (Lyles, 2019). In the early 1980 recession caused a disruption in the workforce, with upper management layoffs and elimination talent development practices (Cappelli & Keller, 2014).

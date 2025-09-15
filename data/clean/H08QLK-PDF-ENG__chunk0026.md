@@ -1,0 +1,3 @@
+# HBR / Digital Article / How Gen AI Could Disrupt SaaS—and Change the Companies Th…
+
+augmenting rigid, enterprise-wide software systems with ﬂexible, user-

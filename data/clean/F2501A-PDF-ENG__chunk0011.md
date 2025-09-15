@@ -1,0 +1,1 @@
+## About the research: “Modernizing Talent Management” (Gartner white paper, 2024)

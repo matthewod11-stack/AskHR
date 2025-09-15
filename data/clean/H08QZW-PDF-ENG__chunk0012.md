@@ -1,0 +1,1 @@
+## HBR / Digital Article / How to Lead an All-Hands After Delivering Bad News

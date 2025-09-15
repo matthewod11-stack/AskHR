@@ -1,0 +1,1 @@
+## more background on product strategy and competitive dynamics, for

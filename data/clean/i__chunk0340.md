@@ -1,0 +1,1 @@
+# loop over the columns to create a histogram for each one

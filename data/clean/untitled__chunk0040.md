@@ -1,0 +1,1 @@
+## George Stricker, PhD Adelphi University Garden City, New York

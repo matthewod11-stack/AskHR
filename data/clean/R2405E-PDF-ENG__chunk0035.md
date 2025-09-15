@@ -1,0 +1,1 @@
+## HBR / Magazine Article / The Legacy Company’s Guide to Innovation

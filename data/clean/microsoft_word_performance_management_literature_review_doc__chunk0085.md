@@ -1,0 +1,1 @@
+# Yarnall J (2008), Strategic Career Management – Developing Your Talent, Oxford: Butterworth-Heinemann

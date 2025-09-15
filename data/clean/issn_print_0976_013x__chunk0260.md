@@ -1,0 +1,1 @@
+## Fig 1. Drivers and supply chain major research practices

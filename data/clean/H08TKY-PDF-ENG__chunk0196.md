@@ -1,0 +1,1 @@
+## Go deeper: “Building Your Company’s Vision,” by Jim Collins and Jerry I.

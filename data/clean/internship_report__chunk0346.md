@@ -1,0 +1,1 @@
+## release him on resignation of his/her service.

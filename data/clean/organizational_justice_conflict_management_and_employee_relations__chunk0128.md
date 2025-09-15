@@ -1,0 +1,1 @@
+## Contemporary Hospitality Management, Vol. 20 No. 1, pp. 98-103.

@@ -1,0 +1,1 @@
+## their local communities or through smaller-scale initiatives—they can

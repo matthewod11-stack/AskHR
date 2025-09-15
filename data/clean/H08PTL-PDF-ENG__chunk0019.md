@@ -1,0 +1,3 @@
+# HBR / Digital Article / AI Is Great at Routine Tasks. Here’s Why Boards Should Resist U…
+
+sets and ensuring that the dynamics of the committees are in the best

@@ -1,0 +1,7 @@
+# CHAPTER 4
+
+Toward a Better Understanding of the Relationship Between Personality and Individual Job Performance Jeff W. Johnson
+
+Researchers and practitioners in industrial and organizational (I/O) psychology have long been intrigued by the potential for measures of personality to describe, explain, and predict the be- havior of individuals at work. Including personality variables in a se- lection system often has the effect of increasing its validity for predicting job performance, while simultaneously reducing adverse impact against protected groups (Hough, 2001). Although the use- fulness of personality predictors is widely accepted today, academic I/O psychologists paid very little attention to personality measures from the mid-1960s to the mid-1980s (Schneider & Hough, 1995). This dearth of research is often attributed to an inﬂuential review of personality test validities by Guion and Gottier (1965), which con- cluded that research to that point had been so poorly done that personality measures should not be used to make employment de- cisions without clearer evidence of their validity. Other inﬂuences were the Civil Rights Act of 1964, which permitted the use of pro- fessionally developed ability tests but was not so explicit about per- sonality inventories, and the emergence of Mischel’s (1968) idea
+
+83

@@ -1,0 +1,3 @@
+## 3.3. Consideration of multiple learning modalities
+
+The third theme deviates slightly from the previously discussed findings and focuses more closely on how to effectively present this information in training. HR managers in the current study specifically identified the importance of considering visual learners when creating implicit bias and disability inclusion training. Participants indicated: “For visual learners, I think having more, like, pictures … to help anchor people’s learning.” Others reinforced this idea by stating: “More charts and videos … Must have more videos rather than photos, like reenactments.”

@@ -1,0 +1,3 @@
+## for infliction of emotional distress upon coworkers
+
+The potential for workplace violence can also be reduced through careful han- dling of terminations and layoffs. Refer to the discussion in Chapter  for specific ways to fairly evaluate and terminate employees. In addition to these techniques, free voluntary counseling should be made available to all employees, especially those exhibiting emotional, interpersonal, or discipline problems (Silbergeld & Jan, ).

@@ -1,0 +1,1 @@
+## revisitation of the job demand-control model. J. Workplace Learn. 22:166–79

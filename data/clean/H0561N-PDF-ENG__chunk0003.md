@@ -1,0 +1,1 @@
+## HBR / The Big Idea / The Gender Gap in 6 Charts

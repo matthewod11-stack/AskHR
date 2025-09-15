@@ -1,0 +1,1 @@
+## midwifery, 3.7 hours fewer per week for dentists, 4.6 hours

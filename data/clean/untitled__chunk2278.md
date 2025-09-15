@@ -1,0 +1,1 @@
+## Hutchins, R. M., & Slesinger, D. (1929). Legal psychology. Psycho-

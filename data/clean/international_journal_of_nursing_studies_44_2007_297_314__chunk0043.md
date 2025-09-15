@@ -1,0 +1,3 @@
+# 3.2. Framework for analysis
+
+With a plethora of themes found within the chosen literature, a decision was made to systematically identify the most frequently cited using an adaptation of thematic content analysis. This entailed scrutinising each paper, logging each theme contained within each paper and selecting those themes with the greatest counts for analysis. The four themes with the highest frequencies were: (1) leadership, (2) educational attain- ment, (3) stress and (4) pay. Whilst an alternative approach to inclusion could have been to choose the this was not most

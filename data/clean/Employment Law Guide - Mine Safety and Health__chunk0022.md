@@ -1,0 +1,1 @@
+# The Federal Mine Safety and Health Act of 1977 (Mine Act), as amended by the Mine Improvement and New

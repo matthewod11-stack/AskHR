@@ -1,0 +1,1 @@
+## About the research: “Culture in a Hybrid World,” by Gartner (white paper).

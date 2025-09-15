@@ -1,0 +1,1 @@
+# eﬀects on individuals and companies.

@@ -1,0 +1,3 @@
+# Procedures
+
+Prior to the start of the course, participants were provided with a survey on which they were asked to answer the following questions: “What is inclusive leadership?” and “How do you demonstrate inclusive leadership in your role?” To ensure anonymity, respondents were able to submit their answers via completed paper surveys or an online survey platform. For those that com- pleted paper surveys, their responses were transcribed verbatim into a data ﬁle that contained only survey identiﬁcation numbers.

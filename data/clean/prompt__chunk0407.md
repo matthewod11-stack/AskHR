@@ -1,0 +1,1 @@
+# Get the file extension ext = os.path.splitext(file)[1]

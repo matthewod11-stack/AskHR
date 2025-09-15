@@ -1,0 +1,3 @@
+# Responsiveness
+
+Leagile, Resilient,

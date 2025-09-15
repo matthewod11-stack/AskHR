@@ -1,0 +1,1 @@
+## connects people to things larger than themselves.” (Diener & Diener, 2008)

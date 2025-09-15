@@ -1,0 +1,1 @@
+# (https://www.dol.gov/whd/minwage/americanSamoa/ASminwagePoster.pdf) and Northern Mariana Islands (PDF)

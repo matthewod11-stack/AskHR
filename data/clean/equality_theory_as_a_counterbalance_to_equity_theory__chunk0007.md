@@ -1,0 +1,3 @@
+## The Myopias of Prior Organizational Research on Distributive Equality
+
+While a number of potential distributive standards exist (e.g., equity, equality, need, and others; Sabbagh et al. 1994), research has almost exclusively focused upon equity as a standard of fairness (Adams 1965; Greenberg 1990; Meindl 1989; Walster et al. 1978). Equity is generally deemed useful for distributing valued outcomes in the arena of economic activity (i.e., pay), where the emphasis is one of both motivating and rewarding individual achievement (Chen 1995; Deutsch 1985, 1986). As noted, distributive equality generally entails that outcomes be

@@ -1,0 +1,3 @@
+# Psychomotor Ability
+
+Psychomotor ability includes finger dexterity, manual dexterity, control pre- cision, multilimb coordination, response control, reaction time, arm-hand steadiness, wrist-finger speed, and speed-of-limb movement (Fleishman & Reilly, b). Psychomotor abilities are useful for such jobs as carpenter, police officer, sewing-machine operator, post office clerk, and truck driver. An example of a psychomotor test is shown in Figure ..

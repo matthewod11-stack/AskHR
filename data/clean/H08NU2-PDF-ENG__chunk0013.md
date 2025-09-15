@@ -1,0 +1,3 @@
+# HBR / Digital Article / 3 Types of Silos That Stifle Collaboration—and How to Dismantle…
+
+friction caused by conﬂicting objectives. These behaviors are strong

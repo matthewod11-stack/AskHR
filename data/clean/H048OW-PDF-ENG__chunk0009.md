@@ -1,0 +1,3 @@
+# HBR / Digital Article / Study: A CEO’s Decision Making Is Shaped by Whether Their Pa…
+
+example, we found that Jamie Dimon, the CEO of JP Morgan, is a third-

@@ -1,0 +1,1 @@
+# of individual attributes, equitable reward and recognition, access to opportunity, sense of

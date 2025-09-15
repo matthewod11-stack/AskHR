@@ -1,0 +1,1 @@
+## The Polish journal Educational Psychology began.

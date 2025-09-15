@@ -1,0 +1,1 @@
+# Key words: Gender inequality, gender pay gap, perception, pay inequity, social psychology

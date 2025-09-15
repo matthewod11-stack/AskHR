@@ -1,0 +1,1 @@
+## principalmente, os comentários qualitativos, que, por serem poucos, podem ser

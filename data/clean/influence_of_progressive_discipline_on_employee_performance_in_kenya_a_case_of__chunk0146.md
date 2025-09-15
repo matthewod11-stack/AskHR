@@ -1,0 +1,3 @@
+# Target Population
+
+Population in statistics is the population about which information is derived. According to Field (2005), a population is a well-defined or set of people, services, elements, and events, group of things or households that are investigated. This definition ensured that the population of interests was homogeneous. Population studies were more representative because everyone had equal chance to be included in the final sample that was drawn. The population of interest of this study comprised of 130 employees eight departments as presented in the Table 3.1;

@@ -1,0 +1,1 @@
+## b) impede o auxílio ao informante quando este não entende corretamente as

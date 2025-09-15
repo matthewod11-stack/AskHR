@@ -1,0 +1,1 @@
+# cada ciclo de coleta, mitigando, assim, vieses, mas possibilitando ao funcionário um

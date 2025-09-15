@@ -1,0 +1,1 @@
+## From the Magazine (November–December 2024) / Reprint R2406P

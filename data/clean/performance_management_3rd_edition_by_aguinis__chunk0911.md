@@ -1,0 +1,15 @@
+# Performance Review Form
+
+Employee Name: _________________________________ Title: ____________________________________________ Manager: ________________________________________ Date of Appraisal Meeting: ________________________
+
+Employee Performance Reviews improve employee performance and development by encouraging communication, establishing performance expectations, identifying developmental needs, and setting goals to improve performance. Performance reviews also provide an ongoing record of employee performance, which is helpful for both the supervisor and employee.
+
+Use the form below to list examples of outstanding performance or achievements as well as areas of performance that need improvement. Please provide open comments on your employee’s performance. Complete each section and list examples of performance where applicable.
+
+- 1. Job description/key responsibilities/required tasks:
+
+_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________
+
+- 2. Note expected accomplishments vs. actual accomplishments:
+
+_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________

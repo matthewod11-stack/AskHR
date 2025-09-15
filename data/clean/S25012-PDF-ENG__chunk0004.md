@@ -1,0 +1,1 @@
+## empowerment, a focus on perpetual cost reduction, total quality

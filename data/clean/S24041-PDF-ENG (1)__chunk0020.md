@@ -1,0 +1,1 @@
+## the company’s strategy and culture and, in particular, their power

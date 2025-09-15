@@ -1,0 +1,1 @@
+## HBR / Digital Article / How to Be a Supportive Manager When Times Are Tough

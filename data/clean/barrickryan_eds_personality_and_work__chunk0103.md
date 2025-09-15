@@ -1,0 +1,3 @@
+## Some Advantages of Lower-Level Constructs
+
+Hierarchical structural models, such as the consensual one that could emerge from lexical studies, are advantageously ﬂexible. One can attain either great parsimony at the few-factor level or greater informativeness at levels with more factors. One can gen- erate even more informativeness by subdividing the broader fac- tors into more speciﬁc subcomponents (sometimes called facets).

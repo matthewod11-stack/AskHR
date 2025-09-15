@@ -1,0 +1,1 @@
+# Bateman, T. and Snell, S., Management: Building competitive advantages, 4th edition, McGraw

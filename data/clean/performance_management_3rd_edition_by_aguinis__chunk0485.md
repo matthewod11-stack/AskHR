@@ -1,0 +1,1 @@
+## TABLE 3.2 Trends to Consider in Conducting an Environmental Analysis

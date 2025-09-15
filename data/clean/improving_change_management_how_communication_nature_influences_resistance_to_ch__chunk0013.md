@@ -1,0 +1,1 @@
+## lens for contemporary changes in organizations.

@@ -1,0 +1,1 @@
+# Critiques tests in class.

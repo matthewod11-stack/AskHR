@@ -1,0 +1,33 @@
+# Why Conduct Research?
+
+Though most of you will probably not go on to careers as researchers, under- standing research and statistics is important for several reasons.
+
+Answering Questions and Making Decisions As mentioned earlier in the chapter, one of the characteristics of I/O psychology is its extensive use of research and statistics. Although there are many reasons for this reliance on research, the most important is that research ultimately saves organizations money. To many of you, this last statement may seem a bit insen- sitive. Keep in mind, however, that for most organizations, the most important thing is the bottom line. If I/O psychologists are not able to save the company considerably more money than it pays for their salary and expenses, they will be without a job.
+
+These monetary savings can result from many factors, including increased employee satisfaction, increased productivity, and fewer accidents. Perhaps an excellent example of how research can save organizations money involves the employment interview. For years, many organizations relied on the employment interview as the main method for selecting employees (most still do). But researchers have shown that the unstructured employment interview is not the best predictor of future behavior on the job (Schmidt & Hunter, ). Thus, without research, an organization might still be spending money on a method that actually lowers its profits rather than raises them.
+
+Research and Everyday Life Research confronts us on an almost daily basis, both at home and on the job. As a student, you will encounter research throughout this and other courses. As a professional, you will receive advertisements and sales pitches containing refer- ences to research supporting a particular product. At home, you read the results of political polls in the newspaper and are bombarded with TV commercials trumpeting the fat-burning wonders of the AbMaster or claiming that “nine out of ten dentists” recommend a product. Understanding research helps you to crit- ically listen and analyze results of these studies to make more intelligent deci- sions. After all, you would hate to buy a fitness product based on the results of poorly conducted research!
+
+When I was an undergraduate at Pepperdine University in Malibu, California (yes, the surf was always up), the students attempted to hold the first dance ever at the university. Until this point, dancing was prohibited, and the students wanted the prohibition removed. The dance proposal came under heavy attack by the church sponsoring the university as well as by several administrators. An opponent of the dance proposal wrote a letter to the school newspaper citing research “that in a study of Catholic confessionals, nine out of ten fallen women had their downfall on the dance floor.” When confronted with this devastating piece of research, we pulled out our trusty experimental psychology books and, using our finely honed research skills, challenged the validity of the study on such grounds as the poorly defined dependent variable (what is a fallen woman?), the sample size (how many women fell?), and the question of whether the study actually existed (there is no way the Catholic church would allow a study of confessionals). After our impressive critique, the administration gave in, and we were allowed to hold our dance off cam-
+
+introduction to i/o psychology
+
+13
+
+14
+
+chapter 
+
+pus but advertise it on campus. If you consider allowing  students with no rhythm to dance as a victory, then our superior knowledge of research made us victors.
+
+A crazy story? Sure. But the fact that intelligent people actually used such research to support their point underscores the importance of understanding research.
+
+Common Sense Is Often Wrong Often, there is a temptation not to conduct research because the answer to a question is “common sense.” Unfortunately, common sense is not so common and is often wrong. Until the end of the fifteenth century, it was common sense that the world was flat and that a person sailing toward the horizon would fall off the Earth. Until late in this century, common sense said that women employees could not perform as well as men. In other words, many of our commonsense policies have been, and continue to be, wrong.
+
+As a good example, imagine taking a multiple-choice test. After finishing the test, you go back and read question  but can’t decide if you should stick with your original response of “b” or change it to “c.” What would you do? Most stu- dents respond with what they have always been told: Stick with your first answer. If you stuck with this piece of common advice, you probably would miss the question. Thirty-three studies investigating this question all concluded that con- trary to common sense, the majority of the time, an answer will be changed from wrong to right (Kruger, Wirtz, & Miller, ). Another victory for research over common sense!
+
+Considerations in Conducting Research Ideas, Hypotheses, and Theories The first step in conducting research is to decide what to research. Though the majority of I/O psychology research is conducted to test the accuracy of theories, many research ideas stem from a person starting a sentence with “I wonder . . . ” For example, a manager might say, “I wonder why some of my employees can’t get to work on time”; an employee might say, “I wonder if I could assemble more parts if my chair were higher”; or a supervisor might say, “I wonder which of my employees is the best to promote.” All three seem to be ordinary questions, but each is just as valid and important in research as those asked by a professor in a university. Thus, everyone is a researcher at heart, and conducting some form of research to answer a question will undoubtedly lead to a better answer than could be obtained by guesswork alone.
+
+Once a question has been asked, the next step is to form a hypothesis—an educated prediction about the answer to a question. This prediction is usually based on a theory, previous research, or logic. For example, as shown in Figure ., a researcher is curious about the effect of noise on employee performance (the question) and believes that high levels of noise will result in decreased performance (the hypothesis). The prediction is based on the theory that distract- ing events reduce the ability to concentrate. To see if the hypothesis is correct, the researcher would need to conduct a study.
+
+If the results support the hypothesis, it becomes important to test the theory. In psychology, there are often competing theories that predict the same outcome, but for different reasons. Take the situation depicted in Figure .

@@ -1,0 +1,1 @@
+# The Mine Act also provides for either civil penalties against individuals for "knowing" violations, or criminal

@@ -1,0 +1,1 @@
+## Regular hourly pay rate Total daily or weekly straight-time earnings

@@ -1,0 +1,1 @@
+## Cephas, C.M. (2013). Training Interventions and Organizational Characteristics

@@ -1,0 +1,1 @@
+## A continuación encontrará una versión simpliﬁcada de esa

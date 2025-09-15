@@ -1,0 +1,1 @@
+## Joel Salinas, coauthors of Conﬂict Resilience: Negotiating Disagreement

@@ -1,0 +1,1 @@
+## Hypothesis 3a: Higher levels of cultural intel- increase Team

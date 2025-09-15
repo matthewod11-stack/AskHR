@@ -1,0 +1,1 @@
+# Leadership traits, 441 Least acceptable result (LAR), 506 Least-preferred coworker

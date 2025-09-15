@@ -1,0 +1,7 @@
+# which currently
+
+has a 55% return to office rate compared to
+
+Europe at 75% and Asia-Pacific at 85%.For everyone — but especially for those who entered theworkforce during the pandemic — this shift may bring upconflicting emotions, including excitement for the chance toconnect with colleagues, apprehension around a potentially longcommute, and curiosity about the new environment. Thesefeelings are normal, and you should expect to make someadjustments.The most obvious? You’ll no longer be able to roll out of bed andwork from your couch or take care of everyday errands during theday. You will have more time to grab lunch with peers, askquestions without setting up Zoom meetings, and ward off the
+
+sense of isolation that comes when it’s just you and your screen.So, how can you successfully navigate this transition?Here are my top tips for reentering the office with as little stressand anxiety as possible.Reimagine your routine.When you return to the office, you’ll need to rethink all thedifferent components of your schedule. Find out when you needto be at your desk and then work backwards, reorganizing yourcurrent routine to ensure that you show up on time.For example, let’s say that you need to be at your desk by 8:30 am.This is what working backwards might sound like:

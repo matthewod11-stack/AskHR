@@ -1,0 +1,1 @@
+# Create a new file name with the prefix "draft_" new_filename = f"{text}_{file}"

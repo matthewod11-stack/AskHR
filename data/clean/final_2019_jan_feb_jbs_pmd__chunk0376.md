@@ -1,0 +1,1 @@
+## Dependent Variable: MEAN_GP Tukey HSD Table 7

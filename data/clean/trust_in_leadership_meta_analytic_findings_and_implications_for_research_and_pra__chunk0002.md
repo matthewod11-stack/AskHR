@@ -1,0 +1,1 @@
+# Published in Journal of Applied Psychology, 2002 August, 87 (4), 611-628. http://dx.doi.org/10.1037/0021-9010.87.4.611

@@ -1,0 +1,5 @@
+# The Third Force and the New Therapies
+
+One component of the antipsychiatry viewpoint was devel- opment of therapies based upon avowedly nonscientiﬁc principles. A spectrum of therapeutic techniques, known sometimes as the “Third Force,” and sometimes as “human- istic” arose. These included transactional analysis (Berne, 1961); rational psychotherapy (Ellis, 1958, 1962), logother- apy (Frankl, 1953), gestalt psychotherapy (Perls, 1969), and client-centered therapy (Rogers, 1951).
+
+These approaches in general rejected the concept that human behavior could be studied scientiﬁcally. Many hu- manistic therapists followed the lead of Carl Rogers in aban- doning the use of the medical term patient preferring instead to use client. He, and they, did however retain the use of the medical term therapy, and deﬁned themselves as “therapists.” These methods were not often applied to seriously disturbed clients. The more usual clientele were primarily persons with minor neuroses, mild anxieties, self-esteem problems, and the like.

@@ -1,0 +1,1 @@
+## Effective Temperature as a Function of Air Temperature and Humidity

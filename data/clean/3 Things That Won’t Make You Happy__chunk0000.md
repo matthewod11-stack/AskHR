@@ -1,0 +1,3 @@
+Personal Purpose And Values3 Things That Won’t Make YouHappyby John ColemanJune 7, 2022
+
+HBR Staff/Getty Images/We AreSummary. Even with decades of research and thousands of years of ancientwisdom at our disposal, many of us continue to aspire to things that have noprospect of bringing us real meaning or joy. What are they?Money. Once a person’s needs are...

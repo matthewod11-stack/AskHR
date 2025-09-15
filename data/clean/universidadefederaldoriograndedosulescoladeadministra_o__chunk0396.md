@@ -1,0 +1,1 @@
+## propícia para sua aplicação ou equipe de pesquisa para processamento de seus

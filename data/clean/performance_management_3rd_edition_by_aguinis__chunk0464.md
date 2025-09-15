@@ -1,0 +1,5 @@
+## Allows for the consideration of new options and opportunities
+
+Provides employees with information to direct daily activities
+
+In turn, the improved allocation of resources is likely to stimulate growth and improve profitability. Fifth, strategic planning can produce a culture of cooperation within the organization given that a common set of goals is created. Such a culture of cooperation can gain organizations a key competitive advantage. Sixth, strategic planning can be a good corporate eye-opener because it generates new options and opportunities to be considered. New opportunities to be considered may include expanding to new markets or offering new products. Finally, strategic planning can be a powerful tool to guide employees’ daily activities because it identifies the behaviors and results that really matter. Astrategic plan provides critical information to be used in the performance man- agement system. To summarize, Table 3.1 lists key purposes of a strategic plan.

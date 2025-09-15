@@ -1,0 +1,3 @@
+# Instructional Planning Makes necessary preparations for classroom lectures, demonstrations or laboratory presentations.
+
+5 Exceptional Develops, maintains, and previews additional resources, such as films or tapes for reference, timing, and quality. Utilizes a variety of teaching methods and aids. Promotes sophisticated inquiry techniques and provides problem solving experiences emphasizing key concepts. Instructional time is optimally planned for benefit of students.

@@ -1,0 +1,1 @@
+# parte da Vice-Presidência de Pessoas, que reporta ao CEO (Chief Executive Officer)

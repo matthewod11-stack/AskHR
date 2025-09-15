@@ -1,0 +1,3 @@
+# Stress Deﬁ ned
+
+

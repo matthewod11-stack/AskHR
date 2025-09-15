@@ -1,0 +1,1 @@
+# 1_bash_rename_(cid:450)les_in_folder

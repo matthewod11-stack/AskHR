@@ -1,0 +1,1 @@
+## and Six Sigma for repetitive processes, and Agile Lean Startup methods

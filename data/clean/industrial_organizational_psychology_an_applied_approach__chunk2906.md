@@ -1,0 +1,1 @@
+# Figure 12.5 Eff ective leadership: Interaction of leader, situation, and follower characteristics

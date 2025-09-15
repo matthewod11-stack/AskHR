@@ -1,0 +1,1 @@
+## common? Apart from their success as entrepreneurs, they all share one

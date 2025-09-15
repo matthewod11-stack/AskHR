@@ -1,0 +1,1 @@
+# Tom Fowlks/Getty Images

@@ -1,0 +1,1 @@
+## Terman, L. M., & Merrill, M. A. (1937). Measuring intelligence.

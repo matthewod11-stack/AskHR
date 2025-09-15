@@ -1,0 +1,1 @@
+## 19.Você compreende a metodologia de cálculo que a pesquisa de eNPS

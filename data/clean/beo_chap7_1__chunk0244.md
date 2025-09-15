@@ -1,0 +1,1 @@
+# dent managers. (Available at http://faculty-gsb.stanford.edu/malmendier/personal_page/

@@ -1,0 +1,1 @@
+# [9] Pro-AI-Rokibul. (2024). Employee-Attrition-Prediction/Model/main.ipynb at main · proAIrokibul/Employee-Attrition-Prediction. GitHub.

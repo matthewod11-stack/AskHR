@@ -1,0 +1,3 @@
+# 328 Abnormal Psychology
+
+and defecation, and so forth. The sheep from which the thy- roid gland had been removed, however, did not show these effects. Liddell (1944) concluded that the critical element in the experimental neurosis was not the difﬁculty in making discriminations, but the emotional reaction to the threat posed by the electric shock. Although Liddell performed no human studies, he made the theoretical link with human neu- roses explicit in his reports of his animal work. W. H. Gantt (1953) performed similar studies on dogs.

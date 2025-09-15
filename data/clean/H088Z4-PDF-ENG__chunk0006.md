@@ -1,0 +1,1 @@
+# photo by dasar/Getty Images

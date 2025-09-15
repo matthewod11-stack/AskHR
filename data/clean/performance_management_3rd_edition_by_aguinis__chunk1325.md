@@ -1,0 +1,9 @@
+## Implementing a Performance Management Communication Plan at Accounting, Inc.
+
+Accounting, Inc. is a consulting and accounting firm headquartered in Amsterdam, the Netherlands. Recently, Accounting, Inc. implemented a performance management system. The first step in the implementation of the new system was the development of a set of core competencies that would be used to evaluate most employees regardless of function or level. In addition, each employee was evaluated using more job-specific performance dimensions.
+
+As the first step in the communication plan, the employees received individual e-mail messages asking them to define what the core competencies meant to them and to give descriptions and examples of how each of the core compe- tencies played out in their specific positions. Next, the company held meetings, handed out frequently asked questions (FAQs) sheets, and placed posters around the company detailing how the core competencies were related to the organization’s
+
+strategic priorities and how performance scores would be related to monetary rewards. In these communications, Accounting, Inc. detailed how the performance system worked, how the raters were chosen, how performance feedback was used, and other details about the system. The information also outlined the benefits employees could expect from the new sys- tem as well as employees’ responsibilities regarding the system. Please evaluate Accounting, Inc.’s communication plan. Specifically, does it answer all of the questions that a good communication plan should answer? Which questions are left unanswered? How would you provide answers to the unanswered questions (if any)?
+
+Source: Adapted from P. Brotherton, “Meyners Pays for Performance: Changing a Compensation System Is a Sensitive Undertaking; Here’s How One Firm Handled It,” Journal of Accountancy, 196(2003): 41–46. (cid:2)

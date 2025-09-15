@@ -1,0 +1,1 @@
+# Figure 15.2 Common stressors

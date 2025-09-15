@@ -1,0 +1,1 @@
+## Giorgi,A.(1970).Psychologyasahumanscience.NewYork:Harper

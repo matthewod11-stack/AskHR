@@ -1,0 +1,1 @@
+## Table 1. Means, standard deviations, and correlations between main variables.

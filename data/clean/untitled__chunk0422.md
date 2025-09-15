@@ -1,0 +1,3 @@
+# Cognitive Neuroscience 59
+
+Current focus in the study of motivated behaviors is on de- tailed physiological processes, particularly involving mecha- nisms of gene expression of various peptide hormones in the hypothalamus and their actions on the pituitary gland, and on descending neural systems from the hypothalamus that act on lower brain systems to generate motivated behaviors (see e.g., Swanson, 1991). But we still do not understand the neural circuitries underlying the fact that seeing the bear in the woods makes us afraid.

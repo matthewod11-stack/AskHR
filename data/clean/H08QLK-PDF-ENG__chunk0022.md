@@ -1,0 +1,3 @@
+# HBR / Digital Article / How Gen AI Could Disrupt SaaS—and Change the Companies Th…
+
+In essence, legacy software encodes best practices from past

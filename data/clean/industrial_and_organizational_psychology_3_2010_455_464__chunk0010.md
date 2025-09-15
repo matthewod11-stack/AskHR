@@ -1,0 +1,9 @@
+# S.Bonaccioetal.
+
+camp: We agree with Connolly that the obstacles to cross-fertilization (discussed subsequently) are formidable, but we also believe that the beneﬁts of cross-fertilization to make it worth our while to attempt surmount these obstacles.
+
+Finally, Staw (2010) argues against a full integration of IOOB and JDM because ‘‘JDM research often misses (or willfully avoids) many of the most crucial elements of work behavior.’’ As discussed further in a subsequent section, we do not disagree with the need for generalizability. In addition, Staw does appear to be in favor of a moderate amount of cross- fertilization. Given the current low level of cross-fertilization, we do not believe that his position is implacably opposed to ours.
+
+On the other hand, many commenta- tors share our hopefulness that this ongo- ing exchange will be fruitful. To take just two examples, Reb (2010) maintains that ‘‘bridging the two [ﬁelds] is intellectually rewarding’’ and that the early difﬁculties incurred in research at the intersection of these two ﬁelds will fade away in time, whereas Rosen, Shufﬂer, and Salas (2010) are kind enough to say that our focal arti- cle ‘‘identiﬁed a potentially monumental opportunity’’ for interdisciplinary discus- sion and collaboration.
+
+We found both the disagreements and the agreements helpful in further clarifying our thinking regarding the beneﬁts of, obsta- cles to, and ways of achieving integration between IOOB and JDM. In the rest of this article, we group the commentaries and our responses (including our thoughts about the future) according to some of the themes we had identiﬁed in our focal article (see Table 1 in focal article).

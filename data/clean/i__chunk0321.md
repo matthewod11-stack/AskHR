@@ -1,0 +1,1 @@
+# Notice from the quick check that there may are columns with only one value

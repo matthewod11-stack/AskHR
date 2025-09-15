@@ -1,0 +1,1 @@
+## Ellis, A. (1962). Reason and emotion in psychotherapy. New York:

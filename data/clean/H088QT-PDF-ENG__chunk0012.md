@@ -1,0 +1,1 @@
+## HBR / Digital Article / 3 Challenges to Hybrid Work — and How to Overcome Them

@@ -1,0 +1,1 @@
+## Chin, J. (Ed.). (2000). Relationships amongAsianAmerican women.

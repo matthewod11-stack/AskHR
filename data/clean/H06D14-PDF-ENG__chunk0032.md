@@ -1,0 +1,1 @@
+## HBR / Digital Article / When You’re Stuck Working with a Slacker

@@ -1,0 +1,3 @@
+# INTRODUCTION
+
+This chapter provides a basis for the study on the influence of progressive discipline on employee performance in Kenya with a focus on Mukurwe- ini Wakulima Dairy Limited as the study area. It provides the background and the setting required to put the research problem into proper context and understanding. This chapter includes the background of the study, the statement problem and purpose of the study, specific objectives and research questions, scope, significance and limitations of the study.

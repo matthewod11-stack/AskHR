@@ -1,0 +1,1 @@
+## 21.Por quê? Justifique sua resposta à questão anterior.

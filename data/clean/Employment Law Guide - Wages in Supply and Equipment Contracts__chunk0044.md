@@ -1,0 +1,1 @@
+# Wage rate tables

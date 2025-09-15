@@ -1,0 +1,9 @@
+## Measuring Competencies at the Department of Transportation
+
+The Department of Transportation (DOT) of a large midwestern state uses core competencies to measure performance in its organization. Two of its core competencies on which all employees are measured are “organizational knowledge” and “learning and strategic systems thinking.” Organizational knowledge is defined as follows: “Understands the DOT’s culture. Accurately explains the DOT’s organizational structure, major products/services, and how various parts of the organiza- tion contribute to one other. Gets work done through formal channels and informal networks. Understands and can explain the origin and reasoning behind key policies, practices, and procedures. Understands, accepts, and communicates political realities and implications.” Learning and strategic systems thinking is defined as follows: “Accepts responsibility for continued improvement/learning. Appreciates and can explain
+
+the mission of each individual work unit and the importance of the time between them to make the entire operation whole. Acquires new skills and competencies and can explain how they benefit the DOT. Regularly takes all transportation forms (i.e., bicycle, light rail, highway, etc.) into account planning and problem solving. Seeks information and ideas from multiple sources. Freely and intentionally shares ideas with others.”
+
+Using the accompanying table as a guide, evaluate each of these two competencies, and place a check mark next to each of the components of a good competency description if the component is present.
+
+Next, using the organizational knowledge and learning and strategic systems thinking competencies, create a five- point graphic rating scale for each indicator using anchors of frequency, amount, agreement, or evaluation. (cid:2)

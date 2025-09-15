@@ -1,0 +1,1 @@
+# I-Thou Assessment Average

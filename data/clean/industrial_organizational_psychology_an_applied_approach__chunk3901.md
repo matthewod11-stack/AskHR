@@ -1,0 +1,1 @@
+## Isolation The degree of physical distance of a group

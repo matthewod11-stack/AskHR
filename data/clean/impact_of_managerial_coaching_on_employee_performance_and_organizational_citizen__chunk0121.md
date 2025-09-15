@@ -1,0 +1,1 @@
+# Table 10: Regression Coefficients to Predict OCB-Organization through Thriving at Work

@@ -1,0 +1,11 @@
+# Industrial Psychology
+
+Other practice specialties also beneﬁted from psychologists’ record of accomplishment during the war. Historian Donald Napoli (1981) wrote this about the postwar growth of indus- trial psychology:
+
+The military had given psychologists a chance to prove the effectiveness of selection, classiﬁcation, and aptitude testing, and psychologists met the challenge successfully. Civilian em- ployers also offered new opportunities, which grew largely from the labor shortage produced by wartime mobilization. Business managers, beset by high rates of absenteeism and job turnover, took unprecedented interest in hiring the right worker and keeping him contented on the job. Management turned to
+
+psychologists . . . and the amount of psychological testing quickly increased. Surveys show that in 1939 only 14% of busi- nesses were using such tests; in 1947 the proportion rose to 50%, and in 1952, 75%. (p. 138)
+
+Another area of substantial development for the industrial psychologist that grew out of the wartime work was the ﬁeld of human factors or engineering psychology. The military, in particular, continued to employ psychologists in its research on human–machine interactions, but businesses as well began to employ psychologists to design irons, telephones, arc welders, vending machines, chemical reﬁneries, and the like. Human factors remained an important part of industrial psy- chology into the 1960s but gradually separated, a transition begun in the late 1950s whenAPA’s Division 21 (Engineering Psychology) and the Human Factors Society were founded. It was replaced by psychologists interested in applying social psychological theories to the problems of organizations, lead- ing to the growth of the “O” half of the I-O psychologist.
+
+Prior to the war, most industrial psychologists served as consultants to businesses, thus working part-time as profes- sionals. After the war, however, that pattern changed dramati- cally. Businesses offered full-time employment opportunities, and consequently graduate programs began to train the I-O practitioners to ﬁll those jobs.

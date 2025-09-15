@@ -1,0 +1,13 @@
+# direction.
+
+- 5. Democratic leadership style
+
+The democratic leadership style involves empowering your team to have
+
+a voice in decision-making. By taking the time to gather input, listen to
+
+concerns and diverse perspectives, and incorporate feedback, you show
+
+your team members that their opinions matter, their voices are heard,
+
+and their contributions are valued. This gives them a sense of ownership

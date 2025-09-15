@@ -1,0 +1,1 @@
+# Frequency and Criticality Scales

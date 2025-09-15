@@ -1,0 +1,9 @@
+# Shore and Chung
+
+efforts to support leader goals are likely. However, to enhance work group identiﬁcationandunleashthebeneﬁtsofsafetyandempowerment,theinclusive leader must make efforts to treat everyone in the group inclusively (Mor Barak et al., 2021; Nishii & Mayer, 2009) and to ensure that work group dynamics promote and support inclusion (Randel et al., 2018). Successfully creating dyadic inclusion with all individual group members will discourage relational conﬂict and promote effective working relations within the team.
+
+In sum, leader inclusion is highly effective for facilitating an inclusive work environment which welcomes employees from a diversity of social identities. Evidence is building that inclusive leadership enables psycho- logical safety, work group identiﬁcation, and psychological empowerment, along with increasing positive employee attitudes and enhanced performance (Shore et al., 2018). In this article, we sought to clarify leader inclusion through reviewing existing scholarship as well as by comparing it with leader orientations of assimilation, differentiation, and exclusion. Understanding the ways in which the leader can enhance employee experiences of belongingness and value in uniqueness is in early stages of development. However, it is apparent that this type of awareness is key to creating environments in which all employees, and not just those from dominant social identity groups, are able to thrive and contribute fully. As diversity increases globally, having leaders that can behave inclusively and inspire inclusion in their work group members are critical for organizational success.
+
+Declaration of Conﬂicting Interests The author(s) declared no potential conﬂicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding The author(s) received no ﬁnancial support for the research, authorship, and/or publication of this article.

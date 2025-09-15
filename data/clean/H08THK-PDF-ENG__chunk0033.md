@@ -1,0 +1,1 @@
+## This tip is adapted from “How to Take Your Business Writing From

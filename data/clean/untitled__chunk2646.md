@@ -1,0 +1,1 @@
+# Howard,A.,Pion,G.M.,Gottfredson,G.D.,EbertFlattau,P.,Oskamp, S.,Pfafﬂin,S.M.,etal.(1986).ThechangingfaceofAmericanpsy- chology:AreportfromtheCommitteeonEmploymentandHuman Resources.AmericanPsychologist,41,1311–1327.

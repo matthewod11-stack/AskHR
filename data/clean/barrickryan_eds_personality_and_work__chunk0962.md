@@ -1,0 +1,3 @@
+# 354 NAME INDEX
+
+Plomin, R., 191 Ployhart, R. E., 234, 296, 297, 313, 314 Plutchik, R., 303, 310 Podolny, J. M., 213 Podsakoff, P. M., 90, 103 Pooyan, A., 169 Pope, M. K., 173 Popielarz, P. A., 216, 221 Porac, J. F., 127 Portello, J. Y., 128, 129 Porter, C. O., 172 Posner, B. Z., 264 Potter, E. H., 41 Poulton, J. L., 173 Powell, A. B., 311 Price, J. L., 169 Prince, L. M., 141 Przybeck, T. R., 17, 158 Pugh, D. S., 70 Pugh, S. D., 140 Pulakos, E. D., 91, 93, 290, 291

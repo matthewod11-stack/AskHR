@@ -1,0 +1,1 @@
+## The Spanish Psychological Society was founded.

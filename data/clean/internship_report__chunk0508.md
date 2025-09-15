@@ -1,0 +1,1 @@
+## Awareness Program Arrangement Analysis (Figure: 6)

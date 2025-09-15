@@ -1,0 +1,1 @@
+## Journal of Management and Governance, 3, 379–394.

@@ -1,0 +1,3 @@
+## Stop Asking Neurodivergent People toChange the Way They Communicate
+
+find scouring the internet— how to nail a job interview, how to be a better listener, how tohave a difficult conversation with your boss — is not inclusive ofneurodivergent (ND) people. More often than not, it puts the onuson ND individuals to adapt and conform to neurotypical (NT)expectations of communication, which can be harmful andcounterproductive to the community.

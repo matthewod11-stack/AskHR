@@ -1,0 +1,1 @@
+## Competition over employees raises salaries just as competition over

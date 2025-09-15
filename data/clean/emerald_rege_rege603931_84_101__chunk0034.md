@@ -1,0 +1,3 @@
+# Deviation
+
+Cronbach’s α

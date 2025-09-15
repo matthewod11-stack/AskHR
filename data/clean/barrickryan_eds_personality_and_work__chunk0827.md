@@ -1,0 +1,3 @@
+# EMERGING TRENDS AND NEEDS 295
+
+although research with teams has focused our attention on group- level performance variables as well. In addition, our theories and models need to be sensitive to change in performance over time (the dynamic criteria), hence changes in relationships between variables over time (Hough & Oswald, 2000), as well as differences that may be due to other characteristics of criteria, such as typical versus maximum performance.

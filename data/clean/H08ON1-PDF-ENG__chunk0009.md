@@ -1,0 +1,3 @@
+# HBR / Digital Article / A Guide to Building a Unified Culture After a Merger or Acquisiti…
+
+experience, but also have serious implications for the ﬁrm and the deal’s

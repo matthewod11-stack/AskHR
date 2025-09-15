@@ -1,0 +1,1 @@
+## Table 2.12 Factors Education (200 points possible)

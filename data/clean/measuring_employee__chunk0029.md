@@ -1,0 +1,15 @@
+# 6.1 Organisational-level actions
+
+Implementing organisational practices and communication activities that demonstrate to employees that the organisation genuinely cares about their wellbeing, morale and performance.
+
+Employees are more likely to be engaged when they feel that their organisation values and respects them as individual human beings, and perceives that the organisation is endeavouring to meet their psychological needs and desires. Alongside the engagement indicators, the (cid:513)your health, wellbeing and safety at work(cid:514) section (cid:507)qs (cid:343)(cid:346), (cid:343)(cid:347), (cid:343)(cid:350), and (cid:344)(cid:344)(cid:508) would be useful to examine here (cid:507)i.e. KF (cid:343)(cid:347), (cid:344)(cid:342), and 27). If a significant proportion of employees feel that the organisation has not met their basic health, safety and wellbeing needs through its policies and practices; and perceive that they are unable to communicate these needs adequately or safely to the organisation, then they may feel a lack of engagement. Therefore, for an organisation with these issues, an engagement strategy may be tailored towards creating more consistent, clearer, and fairer policies and practices designed to meet the health, safety and wellbeing needs of its workforce. An underlying element to this may be two-way communication. NHS Employers (2013) view good communication as
+
+(cid:515)key to maintaining an engaging culture within an organisation, whether this is from senior leaders keeping staff informed of business developments to managers telling their staff about things that affect their work(cid:516).
+
+Involving employees within higher-level decision-making and organisational processes.
+
+Employees are more likely to be engaged when they feel that they can input into decisions or changes that may affect their work, and perceive that senior managers will listen and act on their views and suggestions. Alongside the engagement indicators, the scores from the (cid:513)senior management(cid:514) section (cid:507)q (cid:343)(cid:343)(cid:508) and (cid:513)raising concerns at work(cid:514) (cid:507)q (cid:343)(cid:351)(cid:508) would be useful to examine here (cid:507)i.e. KF (cid:344)(cid:343)(cid:508). If, on average, employees perceive that their senior managers do not involve staff in decisions and are ineffective and uncommitted to patient care, and feel unable to raise concerns to higher levels of management, then employees may feel low levels of engagement. An organisation suffering with such issues may want to focus their engagement strategy on improving internal communication practices, developing senior managers(cid:514) capabilities to involve and communicate with employees about decisions
+
+15
+
+that affect them, and building formal processes through which employees can give feedback, raise concerns or make suggestions to higher levels of management. Enabling involvement is a core factor within the staff engagement star framework (see www.nhsemployers.org for more detail).

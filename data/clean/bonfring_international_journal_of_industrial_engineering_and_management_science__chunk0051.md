@@ -1,0 +1,1 @@
+# management”7th edition, 2002.

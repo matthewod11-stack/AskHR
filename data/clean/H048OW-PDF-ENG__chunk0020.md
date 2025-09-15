@@ -1,0 +1,3 @@
+# HBR / Digital Article / Study: A CEO’s Decision Making Is Shaped by Whether Their Pa…
+
+highly on individualism, performance orientation, importance of freedom,

@@ -1,0 +1,9 @@
+# to one of the categories. (Kumar, 2016)
+
+Question logistic regression helps to solve for our dataset is to predict whether a random
+
+employee will voluntarily quite the position given his details such as salary, distance from
+
+home, his age, education level and time working in current position and so on. These conditions
+
+are in this case predictor variables while output variables are the Quit/ Not Quite categorial

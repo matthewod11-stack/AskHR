@@ -1,0 +1,1 @@
+## The Nicaraguan Psychological Association was founded.

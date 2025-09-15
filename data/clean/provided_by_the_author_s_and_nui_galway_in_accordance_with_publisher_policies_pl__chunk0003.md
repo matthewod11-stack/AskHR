@@ -1,0 +1,1 @@
+## Strategic Talent Management: A review and research agenda

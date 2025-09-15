@@ -1,0 +1,15 @@
+## Promoting the Study of Individual Lives: Gordon Allport and Henry Murray 189
+
+view, an environmental press typically elicited an individual need; this sequence was termed a thema. Thus, for example: press Rejection → need Afﬁliation. (Alternatively, for some people the thema might be: press Rejection → need Rejec- tion.) At the most abstract level was the concept of unity- thema, an underlying press → needs reaction system that is the “key to [each individual’s] unique nature. . . . By the observation of many parts one ﬁnally arrives at a conception of the whole and, then, having grasped the latter, one can re-interpret and understand the former” (Murray, 1938, p. 604–605; emphasis in original).
+
+The Study of Individual Lives in the 1930s and 1940s . . . and Later
+
+We have suggested that during the ﬁrst three decades of the twentieth century, psychologists were reluctant to adopt methods of studying individual personalities. Were these methods more widely accepted in the 1930s and 1940s (see, e.g., Craik, 1986)? In this section we examine the reception of Allport’s and Murray’s texts and reassess the status of case studies and life histories in personality psychology during this period.
+
+Reception of Allport’s and Murray’s Texts
+
+As we have seen, Allport’s early publications promoting case methods were generally overlooked by personality psycholo- gists; in contrast, his Ascendance-Submission (G. W. Allport, 1928) and Study of Values (G. W. Allport & Vernon, 1931) tests were very successful (see, e.g., Bernreuter, 1933; Duffy, 1940). Reviewers of Allport’s (1937b) book recognized it as a foundational text for the new ﬁeld of personality psychol- ogy (e.g., Cantril, 1938; Hollingworth, 1938; Jenkins, 1938), but his emphasis on the study of the individual drew sharp criticism. J. P. Guilford, for example, considered it “a revolt against science” (1938, p. 416; see also Bills, 1938; Paterson, 1938; Skaggs, 1945). Similarly, Richard M. Elliott (1939) ap- proved of Murray’s (1938) efforts to combine psychoanalytic and experimental approaches, his procedures (especially the Thematic Apperception Test), and his catalog of variables, but he criticized Murray’s neglect of psychometric research and of statistics. Elliott found the case study of Earnst too speculative.
+
+Elliott’s criticism reﬂected his own ambivalence regarding the study of individual lives in personality psychology. Around 1938, he had begun teaching a course entitled Biographical Psychology, relying on biographies, autobiog- raphies, and ﬁction and requiring that his students prepare a biographical study. However, he referred to the course as a
+
+clinical offering, described it as highly unorthodox, and was greatly relieved to learn that his students were also taking more traditional psychology courses (Elliott, 1952).

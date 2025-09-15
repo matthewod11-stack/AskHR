@@ -1,0 +1,3 @@
+## THE MULTILEVEL ROLE OF PERSONALITY IN TEAMS 201
+
+pieces of work to groups rather than individuals? Is cognitive ability as valuable a performance predictor in settings where a high-ability member interacts and potentially compensates for lower-ability teammates? Does compensation that provides indi- vidual incentives harm contributions toward a collective goal? In each of these cases, it seems possible that the higher-order con- struct of team structure calls into question some of the basic ﬁnd- ings of research conducted in individual performance settings, suggesting the need for additional cross-level research.

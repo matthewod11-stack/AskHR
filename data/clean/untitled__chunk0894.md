@@ -1,0 +1,1 @@
+## Grigorenko, E. L., & Sternberg, R. J. (1998). Dynamic testing. Psy-

@@ -1,0 +1,1 @@
+## Nathan Stoner, Cummins vice president and chairman of Cummins

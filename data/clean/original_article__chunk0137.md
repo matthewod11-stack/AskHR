@@ -1,0 +1,1 @@
+## Table 8: Presentation of hypotheses, evidence and results

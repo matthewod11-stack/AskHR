@@ -1,0 +1,1 @@
+## through formal organizations, such as charities, schools, or religious

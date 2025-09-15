@@ -1,0 +1,3 @@
+# Review of Literature and Job Documents
+
+The development of competencies and tasks begins with a comprehensive literature review. The goal of the literature review is to develop comprehensive competency and task lists for an occupational group. The literature review integrates information from the organizational and psychological literature, published job analysis studies, training and certification in- formation, and documents such as current job descriptions and job advertisements from pub- lic and private sector organizations. The re- view also includes literature that addresses

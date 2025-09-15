@@ -1,0 +1,7 @@
+# Competency-Based Occupational Clusters and Associated Competencies for Clerical and Technical Jobs.
+
+Information Support 0072 Fingerprint Identification 0305 Mail and File 0350 Equipment Operator 0356 Data Transcriber 1421 Archives Technician 2091 Sales Store Clerical
+
+Administrative 0029 Environmental Protection Assistant 0086 Security Clerical & Assistant 0134 Intelligence Aid & Clerk 0203 Personnel Clerical Technician 0303 Misc. Clerk & Assistant 0304 Information Receptionist 0309 Correspondence Clerk 0312 Clerk-Stenographer & Reporter 0318 Secretary 0322 Clerk-Typist 0326 Office Automation Clerical & Assistance 0382 Telephone Operating 0986 Legal Clerk & Technician 1001 General Arts & Information Assistance 1087 Editorial Assistance 1802 Compliance Inspection & Support
+
+Technology and Programs 0204 Military Personnel Clerical & Technician 0313 Work Unit Supervising 0332 Computer Operations 0335 Computer Clerk & Assistance 0390 Telecommunications Processing 0392 General Telecommunications 0394 Communications Clerical 0675 Medical Records 0679 Medical Clerk 1152 Production Control 1411 Library Technician 1702 Education & Training Technician 2001 General Supply 2005 Supply Clerical & Technician 2102 Transportation Clerk & Assistant 2151 Dispatching

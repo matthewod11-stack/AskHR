@@ -1,0 +1,1 @@
+## a) possibilita atingir grande número de pessoas, mesmo que estejam

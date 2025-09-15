@@ -1,0 +1,1 @@
+## antecedent variables (job satisfaction, managerial trustworthiness, and employee

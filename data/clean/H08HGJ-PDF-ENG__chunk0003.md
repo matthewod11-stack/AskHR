@@ -1,0 +1,1 @@
+## HBR / Digital Article / It’s Time to Reimagine Scale

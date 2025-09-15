@@ -1,0 +1,1 @@
+## Maintains confidentiality in all counseling matters.

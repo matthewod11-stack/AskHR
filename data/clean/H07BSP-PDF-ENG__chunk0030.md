@@ -1,0 +1,1 @@
+## denominator approach in much traditional leadership training and

@@ -1,0 +1,3 @@
+# HBR / Digital Article / Is Your Leadership Development Program Undermining Your DE…
+
+leadership coaching for “high-potential” new managers, why not open it

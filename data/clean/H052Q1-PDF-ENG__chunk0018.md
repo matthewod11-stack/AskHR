@@ -1,0 +1,3 @@
+# HBR / Digital Article / Research: Executives’ English Skills Affect the Outcomes of Earn…
+
+that didn’t. This is probably why companies almost never use interpreters

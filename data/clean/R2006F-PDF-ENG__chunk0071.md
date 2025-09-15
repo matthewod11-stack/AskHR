@@ -1,0 +1,1 @@
+## HBR / Magazine Article / How Apple Is Organized for Innovation

@@ -1,0 +1,1 @@
+## (Pierce & Newstrom, 2001) the priority publications

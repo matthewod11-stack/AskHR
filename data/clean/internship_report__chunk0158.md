@@ -1,0 +1,1 @@
+## Minimum Master‟s in Management/HR from any reputed university

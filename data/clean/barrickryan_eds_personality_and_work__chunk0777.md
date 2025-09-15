@@ -1,0 +1,5 @@
+# Does PO Fit on Personality Matter?
+
+When choosing her ﬁrst academic job from several good offers, Carolyn was most concerned about working in a department that truly valued and rewarded research activity. After two years at “Level 1 U,” she began to question her ﬁt as she became more concerned with collegiality than pub- lishing. Without much thought, she accepted a job at Friendly U, where her new colleagues were all agreeable but not particularly conscientious. She realized that although she had felt things were amiss at Level 1 U, she did not experience as much daily frustration there as she now was at Friendly U.
+
+When researchers ask people what PO ﬁt means to them, they provide a wide range of answers. Bretz, Rynes, and Gerhart (1993) and Rynes and Gerhart (1990) reported that recruiters consider such diverse characteristics as grade point average, attractiveness, job- related course work, work experience, articulateness, cognitive abil- ity, cooperative attitude, focus, work ethic, self-conﬁdence, goal ori- entation, and interpersonal skills in their assessments of ﬁt. Despite

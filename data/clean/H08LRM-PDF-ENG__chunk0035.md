@@ -1,0 +1,1 @@
+## ideas and best practices at The Sabbatical Project and in LinkedIn and

@@ -1,0 +1,1 @@
+## Wilmot, W. W., & Hocker, J. L. (2007). Interpersonal conﬂ ict

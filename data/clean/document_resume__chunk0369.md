@@ -1,0 +1,5 @@
+# Figure 3 6. Forced Distribution
+
+Another problem with all comparative methods is that individuals are usually com- pared in terms of overall job performance. This kind of comparison limits the useful- ness of the appraLal for providing feedback to the individual regarding aspects of job performance which are acceptable and chum. which need improement.s Therefore, the results of comparative methods are likely to be meaningless and may be damaging to morale since someone must be last. To illustrate how ranking methods distort reality, consider that there is a slowest runner on the U.S. Olympic gold medal 4 x 100 relay team and a fastest runner among 45 to 55 year old finishers in a local "fun run." Comparative methods are not job . _laced and thus are difficult to validate.
+
+One point can be made in defense of comparative methods. An organization may need to determine rankings for administrative purposes, such as a validity check on another method. A supervisor who has rated 10 individuals on a graphic rating scale may be asked later to list the individuals flora first to last in order of performance. A strong positive rank correlation would be expected.

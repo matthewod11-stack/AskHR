@@ -1,0 +1,9 @@
+# TRUST IN LEADERSHIP META-ANALYSIS
+
+In addition to the question of whether these variables influence trust, we are also interested in the magnitude of the effects. At present, research has not explored which practices have the stron- gest effect on trust. It is possible, for example, that some practices have stronger relationships with trust than others because of the different processes involved in the effect (relationship-based vs. character-based). Last, it is unclear how the magnitudes of lead- ership practices compare to other potential determinants such as the ones discussed below.
+
+Attributes of the follower. Rotter (1967) and others have rec- ognized that individuals vary in the extent to which they trust others in general. The trait is often referred to as propensity to trust and is sometimes hypothesized to influence individuals’ trust in specific individuals with whom they have a personal relationship. For instance, this propensity might affect how individuals initially perceive and interact with their leaders, which might influence the ultimate level of trust in the relationship. Alternatively, this pro- pensity might have little or no effect on trust in specific partners because of the unique experiences in each relationship that over- whelm the effects of the trait. According to McKnight, Cummings, and Chervany (1998), researchers have experienced mixed results when using dispositional trust to predict interpersonal trust.
+
+debate, we treat trust in leadership as a correlate of follower ratings of the LMX construct and meta-analyze data from those studies that treat it as a construct distinct from LMX.
+
+Hypothesis 3: Trust in leadership will be positively related to satisfaction with leader and LMX.

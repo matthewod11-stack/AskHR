@@ -1,0 +1,1 @@
+# Cover Image: Rubberball/Getty Images

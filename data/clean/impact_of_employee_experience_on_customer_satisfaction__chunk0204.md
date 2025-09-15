@@ -1,0 +1,1 @@
+## (Source: https://www.comparably.com/companies/atlas-copco)

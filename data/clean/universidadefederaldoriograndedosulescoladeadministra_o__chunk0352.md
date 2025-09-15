@@ -1,0 +1,1 @@
+## de simplificação de atividades reconhecidamente burocráticas. Foi

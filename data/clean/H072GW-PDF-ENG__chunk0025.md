@@ -1,0 +1,1 @@
+## And even in less-extreme situations, participation boosts morale and

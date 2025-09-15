@@ -1,0 +1,1 @@
+## CQS – Self Report (Ang and Van Dyne, 2008) Likert: 1–7

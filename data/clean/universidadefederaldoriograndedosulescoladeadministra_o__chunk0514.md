@@ -1,0 +1,1 @@
+## que, em geral, não detenham vasto conhecimento sobre pesquisas com

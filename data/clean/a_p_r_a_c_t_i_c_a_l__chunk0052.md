@@ -1,0 +1,1 @@
+# You can use advanced models, like o1 or o3-mini, to automatically generate instructions from existing documents. Here’s a sample prompt illustrating this approach:

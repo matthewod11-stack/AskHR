@@ -1,0 +1,1 @@
+## 190–191 Confederate ﬂ ag, 100 Conﬂ ict management techniques, 492

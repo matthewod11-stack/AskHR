@@ -1,0 +1,7 @@
+## Deadlines Improve the Effectiveness of Goals
+
+For most employees, goals are more effective when they include a deadline for completion. Deadlines serve as a time-control mechanism and increase the motivational impact of goals. Being aware that a deadline is approaching, the typical employee will invest more effort into completing the task. In contrast, if plenty of time remains for attaining the goal, the employee is likely to slow down his or her pace to fill the available time. However, when deadlines are too tight, particularly with complex tasks, the quality of work may suffer.
+
+A Learning Goal Orientation Leads to Higher Performance than a Performance Goal Orientation
+
+A person with a learning goal orientation wants to develop competence by mastering challenging situations. In contrast, the person with a performance goal orientation wants to demonstrate and validate competence by seeking favorable judgments. Considerable research has indicated that a learning goal orientation has a positive impact on work-related behaviors and performance (Button, Mathieu, & Zajac, 1995; VandeWalle, 2001; VandeWalle, Brown, Cron, & Slocum, 1999; VaneWalle, Cron, & Slocum, 2001; Van Yperson & Janssen, 2002). The learning goal orientation is particularly relevant in today’s work environment, which requires employees to be proactive, problem solve, be creative and open to new ideas, and adapt to new and changing situations (Luthans, 2011).

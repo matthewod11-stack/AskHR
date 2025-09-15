@@ -1,0 +1,3 @@
+# HBR / Digital Article / Your Company Will Need Remote Work as Extreme Weather Ge…
+
+demonstrates the substantial economic beneﬁts reaped by ﬁrms with robust remote-work readiness in eﬀectively navigating and recovering

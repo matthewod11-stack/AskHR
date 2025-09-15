@@ -1,0 +1,1 @@
+## ineficácia (redução da realização pessoal no trabalho), dimensões medidas pela

@@ -1,0 +1,1 @@
+Lauren, a VP of operations at a high-growth tech firm, was stuck.The C-suite kept stalling on key decisions, including productinvestments, organizational restructuring, and resourceallocations. As leadership froze, accountability rolled downhill,

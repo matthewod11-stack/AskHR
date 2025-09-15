@@ -1,0 +1,1 @@
+## The Israeli Institute of Applied Social Research opened in Jerusalem.

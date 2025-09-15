@@ -1,0 +1,1 @@
+## conditions for persistence with underperforming workers.

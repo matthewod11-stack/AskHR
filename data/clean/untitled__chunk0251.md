@@ -1,0 +1,1 @@
+## McGeoch, J. (1942). The psychology of human learning. New York:

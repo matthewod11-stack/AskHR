@@ -1,0 +1,11 @@
+# 91
+
+Hypothesis 3: there is a negative relationship between marriage and individuals’ perceptions of overall gender inequality.
+
+Education may also have an influence on the way individuals perceive overall gender inequality. Individuals with high education might be more critical towards the traditional labour distribution where women’ work is considered to be less valuable than men’s. This tendency may occur since highly educated individuals are likely to build their attitudes on the basis of evidence they come across rather than on historical and traditional norms (Judge and Livingston, 2008). Individuals with high education are thus suggested to be more aware of overall gender inequality than individuals with lower education (Davis and Robinson, 1991). Education is hypothesized to be related to individuals’ perceptions of overall gender inequality so that individuals with high education will perceive overall gender inequality to a greater extent than individuals with lower education.
+
+Hypothesis 4: there is a positive relationship between education and individuals’ perceptions of overall gender inequality.
+
+Place of living might also be related to the way people perceive overall gender inequality. According to Shunfeng and Aimin (2006), in many rural areas, the work of women is considered to be ‘unskilled’ and the work of men is thought to be ‘skilled’ even if the tasks require similar and equal skills. Women are thus perceived as having lesser ability or commitment leading to a situation where men get better salary and treatment than women with similar abilities. According to these scholars, home-based and unwaged work done by women is often undervalued in rural areas, while work of men is more noticeable in terms of monetary and physical terms. Gender inequality is suggested to persist more in rural areas rather than in urban ones. I therefore propose that individuals living in rural areas will perceive overall gender inequality to a greater extent than individuals living in urban areas.
+
+Hypothesis 5: there is a positive relationship between living in rural area and individuals’ perceptions of overall gender inequality.

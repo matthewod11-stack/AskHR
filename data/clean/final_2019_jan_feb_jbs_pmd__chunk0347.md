@@ -1,0 +1,1 @@
+# MEAN_GP Tukey HSDa,b Table 4

@@ -1,0 +1,1 @@
+# The Employee Polygraph Protection Act (EPPA) is administered and enforced by the Wage and Hour Division

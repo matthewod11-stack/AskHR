@@ -1,0 +1,1 @@
+## A three-step process—sensing, sizing, and responding—can help leaders

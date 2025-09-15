@@ -1,0 +1,17 @@
+# Part II • System Implementation
+
+- How to identify and rank job activities. This includes information about how to conduct a job analysis and understand the most important accountabilities and competencies.
+
+- How to observe, record, and measure performance. This may include observational skills such as how to observe the behaviors that really matter and not be distracted by behaviors not related to the performance dimensions to be measured. It also includes skills needed to fill out the appraisal form.
+
+- Information on the appraisal form and system mechanics. This includes a detailed description of the content of the appraisal form and what each section is intended to measure. It also includes information about the number of recommended meet- ings and the expectations regarding each participant.
+
+- How to minimize rating errors. This includes steps that can be taken to minimize unintentional errors caused by the cognitive demands associated with the observation and evaluation of performance.
+
+- How to conduct an appraisal interview. This includes listening skills and communication skills and how to provide feedback during the appraisal interview. It also includes skills on how to help the employee create a develop- ment plan.
+
+- How to train, counsel, and coach. This includes skills that the supervisor needs to help employees improve their performance on an ongoing basis.
+
+For example, consider the training program used by the city of Aurora, Colorado. This program includes many of the issues listed here. First, it addresses general considerations about the performance management system, including the reasons performance management is important. Second, it covers the difference between results and job-oriented (i.e., behavior-based) performance dimensions. Third, the trainer discusses how to weigh properly the various performance dimensions. Fourth, training includes a definition of the different levels of performance along several sample job-oriented dimensions. For example, it includes an explanation of the dimen- sion “problem solving” and examples of unacceptable, acceptable, and exceptional performance. Next, it teaches managers how to develop individual performance objec- tives and gives examples of good objectives. Finally, it teaches managers different ways to monitor performance and the benefits of doing so. Overall, Aurora’s rater training program is fairly thorough and covers many of the subjects discussed here. It does not, however, seem to include steps that can be taken to minimize unintentional errors or the way to conduct the appraisal interview or the way to train, counsel, and coach employees. These important components of rater training programs are discussed in subsequent chapters.
+
+In sum, raters are likely to make both intentional and unintentional errors in rating performance. Training programs that address motivational issues, demon- strate how the system works, and provide a clear answer to the “What’s in it for me?” question can help minimize intentional errors. In addition, training programs that include information on and skills regarding how to observe and rate per- formance can help minimize the presence of unintentional errors. We discuss the content of various types of training programs in more detail as we continue to describe the operational details of implementing a performance management system in Chapters 7, 8, and 9.

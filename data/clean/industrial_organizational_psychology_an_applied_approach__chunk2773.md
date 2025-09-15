@@ -1,0 +1,9 @@
+# 7
+
+7
+
+7
+
+Harry Gray, the former chair and CEO of United Technologies, demonstrated vision, risk taking, and innovation as early as the second job in his career. Ray Tower, former president of FMC Corporation, went way beyond his job description as a salesperson in his first job to create a novel sales training program. Tower continued to push his idea despite upper management’s initial lack of interest. Lee Iacocca, known for his heroics at Ford and Chrysler, pioneered the concept of new car financing. His idea of purchasing a  Ford for monthly payments of $ (“Buy a ’ for $”) moved his sales division from last in the country to first. What is most interesting about this success is that Iacocca didn’t even have the authority to implement his plan—but he did it anyway.
+
+The role of gender in leader emergence is complex. Meta-analyses indicate that men and women emerge as leaders equally often in leaderless group discussions (Benjamin, ), men emerge as leaders more often in short-term groups and groups carrying out tasks with low social interaction (Eagly & Karau, ), and women emerge as leaders more often in groups involving high social interaction (Eagly & Karau, ). Though women often emerge as leaders, historically they have been excluded from the highest levels of leadership and power in politics and business. Thus, it is said that there is a “glass ceiling” for women in leader- ship and management. This glass ceiling is slowly breaking, as the vast majority of women leaders at the highest levels have achieved their positions since  (Carli & Eagly, ).

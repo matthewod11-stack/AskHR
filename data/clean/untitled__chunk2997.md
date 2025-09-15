@@ -1,0 +1,1 @@
+## Kossakowski, A. (1980). Psychology in the German Democratic

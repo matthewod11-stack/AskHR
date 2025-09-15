@@ -1,0 +1,1 @@
+# Figure 16. Diamond pattern.

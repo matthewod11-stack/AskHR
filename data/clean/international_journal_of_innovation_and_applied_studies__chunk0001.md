@@ -1,0 +1,1 @@
+## Talent Management: Strategic Priority of Organizations

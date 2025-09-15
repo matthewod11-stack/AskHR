@@ -1,0 +1,5 @@
+# (cid:36)(cid:37) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:2)(cid:6)(cid:2)(cid:8)(cid:13)(cid:35)(cid:10)(cid:14)(cid:15)(cid:13)(cid:2)(cid:3)(cid:7)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)(cid:17)(cid:2)(cid:18)(cid:15)(cid:2)(cid:19)(cid:10) (cid:10)
+
+messages that they may receive from their employers about performance requirements’.
+
+Strebler found in her research that some organisations adopted a developmental approach, believing that employees’ performance could be improved. Their intervention therefore included a sharper focus on training and development, and also, influenced by positive psychology, fitting people to roles that would allow them to perform better. This positive psychology view generally considers that a system should reward good performance and encourage and motivate poor performers to improve, as ‘the system is not a punishment tool but an improvement tool’ Karuhanga (2010, p. 11). In contrast, other organisations may wish to adopt a more punitive method of identifying and weeding out those who are seen as not properly contributing.

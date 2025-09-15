@@ -1,0 +1,1 @@
+## (C) Isolation and identifi ca- tion of Chlamydia psittaci

@@ -1,0 +1,7 @@
+# The Biological Basis for Goals
+
+We noted in our 1990 book that the foun- dation of goal directed action is biology. Life is a conditional process; it requires action that sustains survival. If no action is taken or the wrong actions are taken, the organism does not survive and cannot reproduce. At the level of lower animals, action that is guided by sensory perception and perceptual level learn- ing is needed. At the human level, there is the need for conceptual thought (reason), voli- tional goal choices (Locke, 2018b), and long- range thinking.
+
+Given the nature of life and human nature, it seems obvious that goal-directed choice and action are at the core of human motivation. This fact shows the inadequacy of control theory models of goal setting (Locke, 2018a). torpedoes) do thermostats, Machines (e.g., not have goals; only their builders and users do. Contrary to control theory, discrepancy reduction between a desired goal and one’s level of performance cannot be the primary source of motivation; otherwise the easiest path to take would be to not set goals. More foundational than discrepancy reduction is that the goal-setting process involves discrep- ancy production (Bandura & Locke, 2003). Furthermore, once a goal has been attained, given self-efﬁcacy, people typically set an even higher goal rather than rest on their laurels.
+
+101

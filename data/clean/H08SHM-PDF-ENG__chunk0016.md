@@ -1,0 +1,1 @@
+## —aside from a handful of human superstars—may oﬀer more consistent

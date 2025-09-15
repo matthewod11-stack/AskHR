@@ -1,0 +1,3 @@
+# Advantages of 360 Degree Feedback
+
+The 360 feedback system automatically tabulates the results and presents them in a format that helps the feedback recipient create a development plan. Individual responses are always combined with responses from other people in the same rater category (e.g. peer, direct report) in order to preserve anonymity and to give the employee a clear picture of his/her greatest overall strengths and weaknesses.

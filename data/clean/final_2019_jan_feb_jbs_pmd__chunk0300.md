@@ -1,0 +1,11 @@
+# Source: www.kudumbashree.com
+
+Community Development Society (CDS) At the Panchayat / Municipal level a Community Development Society (CDS), a registered body under the Travancore-Cochin Literacy Scientific and Charitable Societies Act is formed by federating various ADSs in the Panchayat. The CDS has 2 distinct bodies – The General Body and The Executive Committee.
+
+General Body CDS General Body is comprised of all ADS Governing Body members.
+
+Executive Committee The size of the CDS Executive committee shall be equivalent to the number of ADS including special ADS. The CDS Executive shall have the following office bearers.
+
+- 2. Review of Literature Review of existing studies has been done to arrive at building a conceptual framework. The literature available even though is scant specifically in the context of Neighborhood Groups (NHGs) in Kerala, it helps in understanding the factors that affect the group performance. The factors identified through the review of literature are multi-dimensional in nature and hence has given a new dimension to the study. Relevance of the variables are studied empirically and through qualitative survey prior to the building of model. The variables are extracted from various studies based on their correlation and relevance to NHG performance. Literature is reviewed and presented in the following heads 2.1 Definition and meaning of concepts 2.2. Demographic characters and its impact of performance 35
+
+- 2. Review of Literature Review of existing studies has been done to arrive at building a conceptual framework. The literature available even though is scant specifically in the context of Neighborhood Groups (NHGs) in Kerala, it helps in understanding the factors that affect the group performance. The factors identified through the review of literature are multi-dimensional in nature and hence has given a new dimension to the study. Relevance of the variables are studied empirically and through qualitative survey prior to the building of model. The variables are extracted from various studies based on their correlation and relevance to NHG performance. Literature is reviewed and presented in the following heads 2.1 Definition and meaning of concepts 2.2. Demographic characters and its impact of performance 35

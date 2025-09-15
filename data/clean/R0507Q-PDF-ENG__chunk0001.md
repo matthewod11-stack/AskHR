@@ -1,0 +1,1 @@
+## From the Magazine (July–August 2005) / Reprint R0507Q

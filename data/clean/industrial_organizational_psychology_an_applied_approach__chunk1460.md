@@ -1,0 +1,1 @@
+# Lawshe individual prediction tables

@@ -1,0 +1,1 @@
+# Nicholson, Jackson, and Howes (1978)

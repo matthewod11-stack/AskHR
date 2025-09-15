@@ -1,0 +1,1 @@
+## Comparison of Techniques Validity Legal Issues

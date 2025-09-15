@@ -1,0 +1,1 @@
+## with their strategy, not a set of pie-in-the-sky platitudes that look nice

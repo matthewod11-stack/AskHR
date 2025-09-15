@@ -1,0 +1,1 @@
+## Comparison of IMPACT Styles and Bases of Power Base of Powerb

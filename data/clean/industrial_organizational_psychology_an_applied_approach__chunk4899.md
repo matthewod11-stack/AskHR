@@ -1,0 +1,1 @@
+# Veritas, 160 Vertical dyad linkage (VDL)

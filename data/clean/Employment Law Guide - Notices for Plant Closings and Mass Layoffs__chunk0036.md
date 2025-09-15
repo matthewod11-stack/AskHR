@@ -1,0 +1,1 @@
+# comply with the Worker Adjustment and Retraining Notiﬁcation Act. Compliance assistance related to the Act, including the WARN e-laws

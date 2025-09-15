@@ -1,0 +1,1 @@
+## Vaux, A. (1988). Social support: Theory, research, and intervention.

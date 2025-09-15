@@ -1,0 +1,1 @@
+# contractor. This process includes determining that the contractor is properly authorized for all activities he or she will undertake. To verify

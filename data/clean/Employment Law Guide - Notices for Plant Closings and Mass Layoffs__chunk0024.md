@@ -1,0 +1,1 @@
+# A covered plant closing occurs when the permanent or temporary closure of a single site of employment or of one or more facilities or

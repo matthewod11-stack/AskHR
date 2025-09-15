@@ -1,0 +1,1 @@
+# HBR / Digital Article / 4 Strategies to Guide Your Team Through a Departmental Trans…

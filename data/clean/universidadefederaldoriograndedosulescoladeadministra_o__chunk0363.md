@@ -1,0 +1,1 @@
+## atingindo níveis de 52% e 57%, nesta ordem.

@@ -1,0 +1,7 @@
+# Professional Organizations
+
+The American Psychology-Law Society was chartered in 1969, and it soon became the organizational support for enor- mous growth in psychology and law research and for forensic psychology practitioners (Grisso, 1991). From an initial 12 founders, the organization grew to over 100 members within its ﬁrst year. Although most of its early members spe- cialized in clinical forensic practice, during the 1970s the focus of the organization swung primarily to research and ap- plications of social, developmental, and experimental psy- chology to legal issues.
+
+When a number of members wished to develop a way to certify clinical forensic psychologists, the society provided the ﬁnancial support for the development of a separate organization, the American Board of Forensic Psychology, in 1976. This board developed a process of examination leading to a diplomate in forensic psychology, and the board eventu- ally became a specialty board of the American Board of Professional Psychology.
+
+Led by John Monahan, several psychologists in the soci- ety successfully petitioned the American Psychological As- sociation for a Division of Psychology and Law, which began in 1980. Within a few years the American Psychology-Law Society merged with the division, which is now formally named APA Division 41—the American Psychology-Law Society.

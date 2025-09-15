@@ -1,0 +1,3 @@
+# HBR / Digital Article / Kickstart Your New Hire’s Success by Connecting them to the R…
+
+great way to accelerate that understanding. Here are three tips to create

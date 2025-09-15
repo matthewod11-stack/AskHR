@@ -1,0 +1,1 @@
+## Schaufeli e Salanova (2007) como sendo um estado mental positivo para o

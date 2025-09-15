@@ -1,0 +1,1 @@
+# Persons employed solely by the individual receiving services (not an agency, non-proﬁt, or other third party

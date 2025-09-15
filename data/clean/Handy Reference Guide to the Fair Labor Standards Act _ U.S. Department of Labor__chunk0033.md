@@ -1,0 +1,1 @@
+# Wages required by the FLSA are due on the regular payday for the pay period covered. Deductions made from wages for such items

@@ -1,0 +1,1 @@
+## Table 1—Items and Factor Loadings In Three Solutions

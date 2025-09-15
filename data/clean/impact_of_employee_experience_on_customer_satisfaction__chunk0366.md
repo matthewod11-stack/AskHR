@@ -1,0 +1,1 @@
+# Gartner Inc. (2022, 04 28). https://www.gartner.com/en/newsroom/04-28-2022-gartner-says-

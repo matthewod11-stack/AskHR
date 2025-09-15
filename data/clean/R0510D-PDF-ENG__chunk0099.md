@@ -1,0 +1,3 @@
+# TOTAL FTE POSITIONS
+
+6.0– 8.5

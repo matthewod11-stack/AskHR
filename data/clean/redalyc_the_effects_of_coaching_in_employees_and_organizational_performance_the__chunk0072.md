@@ -1,0 +1,25 @@
+# S. and. PROD. GROWTH
+
+ORG. SUPPORT E. COACHING INDIV. PERFOR. ORGAN. PERFOR. S. and PROD. GROWTH Variance
+
+0.77 0.49 0.41 0.36
+
+0.26
+
+0.55
+
+- 0.94 0.40 0.44 0.38
+
+0.67
+
+- - 0.71 0.31 0.38
+
+0.52
+
+- - - 0.81 0.33
+
+0.71
+
+0.77
+
+0.81

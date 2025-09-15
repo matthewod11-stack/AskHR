@@ -1,0 +1,5 @@
+## 2.1 Managerial Coaching and Employee Job Performance
+
+Managerial coaching is “a form of coaching that is provided by a supervisor or manager serving as a facilitator of learning (Ellinger et al., 2010). The manager or supervisor enacts specific behaviors that enable the employee to learn and develop thereby to improve performance”. The day to day interaction between supervisor and subordinates, individualized close contact with the supervisor, helping behavior of a supervisor, is considered as a managerial activity to enhance learning, development, and job performance of the employees (Grant, 2006; Jones et al., 2016). Manager as a coach exhibit different behavior such as guiding, supporting, and developing employee in the organization rather traditional management practices such as commanding and controlling the subordinates. MC becomes the cause of regular interaction among manager and subordinates (Boyatzis et al., 2012; Muhlberger & Traut, 2015). Moreover, MC focuses on providing regular feedback and helping the employee to improve performance by overcoming the
+
+793

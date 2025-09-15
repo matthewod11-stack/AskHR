@@ -1,0 +1,1 @@
+## talent like Sophia from leadership considerations.

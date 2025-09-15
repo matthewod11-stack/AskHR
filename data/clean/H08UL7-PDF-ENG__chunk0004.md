@@ -1,0 +1,1 @@
+## pharma, healthcare, oil and gas technology, and more.

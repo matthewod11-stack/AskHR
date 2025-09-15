@@ -1,0 +1,1 @@
+## primeira pergunta da lista, que indaga justamente o papel que desempenham na

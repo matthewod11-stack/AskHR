@@ -1,0 +1,1 @@
+## of each management practice as infrequent (-1), moderate (0), or frequent (1).

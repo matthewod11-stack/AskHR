@@ -1,0 +1,1 @@
+## cultures. For example, the Asian focus on group synergy can eﬀectively

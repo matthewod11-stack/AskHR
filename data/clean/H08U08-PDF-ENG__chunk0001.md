@@ -1,0 +1,1 @@
+## Publicado en HBR.org / 31 de julio de 2025 / Reimpresión H08U08

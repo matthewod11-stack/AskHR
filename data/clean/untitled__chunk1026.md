@@ -1,0 +1,1 @@
+## tion. Journal of General Psychology, 2, 59–72.

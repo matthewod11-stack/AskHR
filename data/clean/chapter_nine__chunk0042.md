@@ -1,0 +1,1 @@
+## c) Organisational readiness d) Human resource management

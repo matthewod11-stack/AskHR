@@ -1,0 +1,3 @@
+# HBR / Digital Article / Research: How Companies Can Support Managers They Send A…
+
+while granting local teams the ﬂexibility to manage supplier

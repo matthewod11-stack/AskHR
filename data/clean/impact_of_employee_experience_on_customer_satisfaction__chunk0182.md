@@ -1,0 +1,15 @@
+# EMPLOYEE WELL-BEING SCORE
+
+Q19: I can manage my job duties in a way that enable a healthy work-life balance
+
+Q20: I have the flexibility I need in my work schedule to meet work and personal needs
+
+Q21: My workload is manageable
+
+Q22: My company takes a genuine interest in my wellbeing (physical, mental).
+
+Q27: I feel safe at my workplace.
+
+Q30: Your organization offers flexible work options (such as the ability to work your
+
+own hours wherever you want) and encourages autonomy.

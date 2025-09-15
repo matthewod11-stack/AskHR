@@ -1,0 +1,1 @@
+# Holds a leadership position within a professional organization in area of specialization.

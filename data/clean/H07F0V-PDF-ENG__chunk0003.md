@@ -1,0 +1,1 @@
+## HBR / Digital Article / How to Talk to Your Kids About Layoffs

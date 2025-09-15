@@ -1,0 +1,1 @@
+## with the company’s mental model and purpose as well as its competitive

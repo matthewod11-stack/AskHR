@@ -1,0 +1,1 @@
+# Median CEO total compensation, by region

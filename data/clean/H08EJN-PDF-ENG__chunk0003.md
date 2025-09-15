@@ -1,0 +1,1 @@
+## HBR / Digital Article / How to Work for a Boss Who Always Changes Their Mind

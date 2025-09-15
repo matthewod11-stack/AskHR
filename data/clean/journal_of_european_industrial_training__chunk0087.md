@@ -1,0 +1,3 @@
+## Journal of European Industrial Training 25/1 [2001] 5±32
+
+proactive career behaviour and the degree to which the feedback report clarifies the actions that recipients need to take to address skill deficiencies. There is a dearth of empirical scrutiny of the extent to which the feedback is subsequently used by recipients to further their careers. The degree to which employees would accept the introduction of a 3608 feedback process and the antecedents to its success are areas which have been inadequately addressed in the literature.

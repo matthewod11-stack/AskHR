@@ -1,0 +1,3 @@
+# Foster Consulting special-
+
+izes in all aspects of talent management. We assist organizations in attract- ing, hiring, engaging, and retaining the talent needed to maximize business results. We offer a range of services includ- ing strategy development and execution, organizational research, competency develop- ment, assessment centers, employment selection, job analysis, and 360-degree feed- back/coaching.

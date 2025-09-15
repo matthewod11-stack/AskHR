@@ -1,0 +1,1 @@
+# Process: (cid:31)Analytic VS. Synthetic

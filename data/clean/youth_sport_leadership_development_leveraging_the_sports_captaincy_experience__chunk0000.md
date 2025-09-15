@@ -1,0 +1,1 @@
+# Journal of Sport Psychology in Action

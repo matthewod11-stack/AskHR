@@ -1,0 +1,1 @@
+## From the Magazine (May–June 2024) / Reprint R2403D

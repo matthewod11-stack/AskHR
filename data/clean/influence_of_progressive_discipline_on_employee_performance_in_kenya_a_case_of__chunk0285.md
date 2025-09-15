@@ -1,0 +1,3 @@
+# procedures
+
+centralized employee discipline uniform throughout the organization. The greater the uniformity, higher will be the effectiveness of the discipline procedure and impersonal discipline thus the impact will be high on the employee peerfomance(Whiford, 2006).The study findings revealed that employee disciplinary procedures highly influenced and had a high impact on employee performance in Mukurwe-ini Dairy Ltd.

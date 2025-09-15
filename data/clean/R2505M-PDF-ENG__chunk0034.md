@@ -1,0 +1,1 @@
+## environment ripe for innovation in insect proteins and plant-based

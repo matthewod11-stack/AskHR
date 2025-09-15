@@ -1,0 +1,3 @@
+## Development Dimensions International http://www.ddiworld.com/ default.asp
+
+Seven standard survey options—available in English, French, German, and Spanish—and a listing of 72 competencies enable you to assess different skill sets and job levels, or we can customize a system that is specifically aligned with the key factors your organization views as critical to job success. Comprehensive reports can be used to monitor the developmental process, prioritize learning and developmental approaches, evaluate training effectiveness, identify trends, and measure organizational performance or success over time.

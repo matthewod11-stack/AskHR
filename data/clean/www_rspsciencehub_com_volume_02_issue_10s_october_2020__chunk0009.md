@@ -1,0 +1,9 @@
+# Sandeep Yadav (2018)
+
+Sandeep Yadav et.al (2018) in their research on “Early Prediction of Employee Attrition using Data Mining Techniques” have focused on the importance of data mining techniques to forecast the attrition patterns in employees. Researchers have taken an IT Industry along with different departments of the organization for their research on prediction of employee attrition. Authors have used – Name of the employee, Number of Projects handled, Average Monthly Hours given, Job Satisfaction Level, Time spent in the organization (Years), Last Evaluation, Departments, Work mishap, Absent, Promotion & Rewards last 5 years, compensation, salary level as a variables for measuring the reasons of attrition. Techniques as Data Pre-processing, Featuring Engineering, Data Modelling & Comparison are employed the research Hot Encoding process is IT, used to steely various department as Accounting, Management, Product Management, Sales, Support, Technical. Logistic Regression, SVM Model are usedfor getting the Categorization Results of Hot Programming Method.
+
+HR,
+
+The outcome of these study shows, Employee attrition can influence an organization in many disciplines like reputation, revenues, position in the market, and cost in terms of both time and money. So, during hiring if the organization able to take preventive measure that will help the organization to reduce attrition. It was understood that development, promotions are not the only justifications at the back of the employee attrition. During hiring other aspects also, company needs to consider. And through this concept the firm can build dependable and correct models which can improve the hiring and preservation cost of quality employees and the attrition position of enable
+
+compensation,

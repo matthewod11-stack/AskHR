@@ -1,0 +1,1 @@
+## ﬁve statistically signiﬁcant strengths that distinguish founder CEOs

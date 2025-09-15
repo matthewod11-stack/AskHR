@@ -1,0 +1,1 @@
+## Go deeper: “Discovery-Driven Planning,” by Rita McGrath and Ian

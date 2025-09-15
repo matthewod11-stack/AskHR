@@ -1,0 +1,5 @@
+# Variable PP TR MT RM
+
+Coefficients 0.0697 -.0162 0.1459 0.1319
+
+t 1.1722 -.3432 2.6759 3.1386

@@ -1,0 +1,1 @@
+## (POTS): chronic illnesses that people with long Covid commonly

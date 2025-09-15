@@ -1,0 +1,1 @@
+## The Brazilian Association of Psychologists was founded.

@@ -1,0 +1,1 @@
+## Figure 12.2 Consequences of leader orientation

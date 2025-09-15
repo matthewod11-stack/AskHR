@@ -1,0 +1,1 @@
+## on community stakeholders, or stability of dividends, or the concerns

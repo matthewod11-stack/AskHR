@@ -1,0 +1,3 @@
+# AUTHORS’ CONTRIBUTIONS
+
+L.T. and D.B. were responsible for data collection and analysis. Together with A.M. and K.H. they were responsible for the study design. A.M. and K.H. reflected on data collection and interpretations dur- ing the analysis. L.T. was responsible for drafting the manuscript and D.B., A.M. and K.H. critically reviewed the manuscript, conceptualizations and the- oretical interpretations of the data. A.M. and K.H. supervised the study. All authors read and approved the manuscript.

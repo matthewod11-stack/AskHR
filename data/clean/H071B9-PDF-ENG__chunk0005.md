@@ -1,0 +1,1 @@
+## When Trust Takes Away from Effective Collaboration

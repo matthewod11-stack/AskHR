@@ -1,0 +1,3 @@
+## HBR / Digital Article / How 3 Companies Are Using AI to Mimic Expert Judgement
+
+Graham Kenny is the CEO of Strategic Factors and author of Strategy Discovery. He is a recognized expert in strategy and performance measurement who helps managers, executives, and boards create successful organizations in the private, public, and not-for-proﬁt sectors. He has been a professor of management in universities in the U.S. and Canada.

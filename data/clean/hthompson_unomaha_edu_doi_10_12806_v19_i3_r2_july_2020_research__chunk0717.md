@@ -1,0 +1,1 @@
+# Competence: Understanding and Utilizing Cultural Diversity to Build Successful Organizations. Sage

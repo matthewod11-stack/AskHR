@@ -1,0 +1,1 @@
+## Table 1. Descriptive Statistics and Correlations for the Study Constructs

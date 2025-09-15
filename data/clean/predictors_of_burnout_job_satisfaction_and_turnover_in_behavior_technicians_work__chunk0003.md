@@ -1,0 +1,5 @@
+# & Dennis R. Dixon1
+
+Received: 2 August 2018 /Accepted: 10 April 2019 /Published online: 10 May 2019 # The Author(s) 2019
+
+Abstract Frequent turnover of behavior technicians working with individuals with autism spectrum disorder (ASD) may have negative impacts on organizations, staff, and patients. The current paper set out to conduct a systematic review of predictors of staff retention inbehaviortechnicians.Two databases were searchedtoidentify studies relatingto retention,turnover, burnout, and job satisfaction across samples of behavior technicians working with individuals with ASD. Of the 33 articles identified, 5 studies met inclusion criteria. A number of employee and organizational factors were identified as predictors of burnout, job satisfaction, and intention to turnover in behavior technicians. These findings are informative for hiring practices, ongoing supervision, and support of behavior technicians working with individuals with ASD.

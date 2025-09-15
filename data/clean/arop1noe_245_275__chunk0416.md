@@ -1,0 +1,1 @@
+# WebsterJR,BeehrTA,LoveK.2011.Extendingthechallenge-hindrancemodelofoccupationalstress:therole

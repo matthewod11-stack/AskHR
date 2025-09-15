@@ -1,0 +1,5 @@
+# significance of
+
+The Research included 11 dimensions namely: presence of organization, successful members, innovation, reinforcement, connections, marketing-sales, organizational reliability, health and ability, maintenance, work ethic, environment. Experimental factor analysis is employed which discovered eight components that characterize common dimensions of culture to this context: staff proficiency, ambience, connections among employees, validation, sales, service-gear, service- systems, and organizational existence. Organizational culture proportions, job pleasure and intention to quit developed by using path analysis.
+
+The outcomes of the research showed 14.3% of the difference in job fulfilment and 50.3% of the difference with intention to quit the organization. It was that, multi-characteristic of organizational culture and its complication in the fitness industry.

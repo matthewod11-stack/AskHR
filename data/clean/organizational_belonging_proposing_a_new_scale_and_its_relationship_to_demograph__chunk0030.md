@@ -1,0 +1,7 @@
+## Relationships of antecedents and Outcomes to new OB Scales
+
+Having found new reliable and valid OB scales in RQ1, what are antici- pated relationships to antecedent and outcome variables? Prior empirical OB research has only focused on using the components of OB, i.e., per- ceived insider status, psychological ownership, and organizational identifi- cation, separately, not in an overall OB measure. Working with each OB component, Knapp et al. (2014, p. 278) did not find any significant rela- tionships of OB components to antecedent demographic (i.e., age, gender, part-time/full-time employment) or organizational-level variables (i.e., organizational tenure, salary, industry). Correlations showed that each OB component was negatively related to turnover intention.
+
+find significant relationships between organizational tenure, race, gender, or age, to perceived insider status. Race was coded as either white or other. Van Dyne and Pierce (2004) did not find age, education, gender, or organization tenure to be related to psychological ownership in their third study sample of profes- sional employees (not reported for other samples). For this third sample,
+
+Stamper and Masterson (2002) did not

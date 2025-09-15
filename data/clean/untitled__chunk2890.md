@@ -1,0 +1,1 @@
+## The Czechoslovak Psychological Association was founded.

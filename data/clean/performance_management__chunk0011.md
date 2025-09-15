@@ -1,0 +1,7 @@
+# Diagnostic Instrument
+
+Whether it is in the ﬁelds of medicine or golf, coaches beneﬁt from having a diagnos- tic instrument to assist them in determining what a person is doing well, and spotting what the person can do to enhance his or her knowledge, skills or ability. A diagnostic instrument also facilitates self-management. In medicine, a diagnostic instrument enables people to know what to eat and what not to eat, in order to maximize their quality of life, and minimize the probability of sundry dis- eases ranging from heart disease to cancer. It sensitizes people to early warning signs as to when a medical doctor should be consulted. In golf, a diagnostic instrument allows one to check one’s grip of the club, or placement of one’s feet to hit the ball long and straight. It facilitates discussion with a golf coach as to what one needs to do to improve one’s score. In organizational settings, an effective diagnostic instrument is one that focuses on those areas that move the strategy from rhetoric to action steps. Hence, the impor- tance of the appraisal instrument as a diag- nostic tool for coaching and developing an employee, and to an employee’s own self-
+
+79
+
+management. This diagnostic instrument should ensure that people are coaching themselves, and that they are coaching others on the ‘‘right things.’’

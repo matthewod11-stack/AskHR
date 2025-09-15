@@ -1,0 +1,1 @@
+## Subscale Training and Instruction Democratic Behavior Autocratic Behavior

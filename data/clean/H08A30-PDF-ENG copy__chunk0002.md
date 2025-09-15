@@ -1,0 +1,1 @@
+# Dougal Waters/Getty Images

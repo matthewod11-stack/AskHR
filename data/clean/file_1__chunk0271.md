@@ -1,0 +1,1 @@
+# Structure of Earnings Statistics, 2009.

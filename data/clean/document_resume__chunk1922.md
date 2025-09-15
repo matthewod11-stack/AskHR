@@ -1,0 +1,1 @@
+## Graphic rating scales, 19-22 Greenspan v. Automobile Club of

@@ -1,0 +1,1 @@
+# Teresa Mendonca McIntyre, PhD Department of Psychology Universidade do Minho Braga, Portugal

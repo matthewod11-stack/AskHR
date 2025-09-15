@@ -1,0 +1,1 @@
+# Industrial sample (Business-to-business)

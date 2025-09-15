@@ -1,0 +1,1 @@
+## HBR / Digital Article / Using Fiction to Find Your Strategy

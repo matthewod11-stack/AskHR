@@ -1,0 +1,1 @@
+## HBR / Magazine Article / Case Study: Navigating Labor Unrest

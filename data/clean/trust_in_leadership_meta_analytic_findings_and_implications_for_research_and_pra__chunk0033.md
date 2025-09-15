@@ -1,0 +1,11 @@
+## Primary Relationships With Hypothesized Outcomes and Correlates
+
+Trust in leadership appears to have had a significant relationship with each of the outcomes, as indicated by uncorrected correlations whose 95% confidence intervals did not include zero (see Table 1). For work behaviors and outcomes, trust had a relationship with each of the types of OCB: altruism (r (cid:1) .19), civic virtue (r (cid:1) .11), conscientiousness (r (cid:1) .22), courtesy (r (cid:1) .22), and sportsmanship (r (cid:1) .20). Trust had a relatively small but significant relationship with job performance (r (cid:1) .16).
+
+Trust in leadership demonstrated a substantial relationship with attitudinal variables. It had the strongest relationships with job satisfaction (r (cid:1) .51) and organizational commitment (r (cid:1) .49). Trust also showed sizable relationships with turnover intentions (r (cid:1) (cid:4).40), belief in information provided by the leader (r (cid:1) .35), and commitment to decisions (r (cid:1) .24). Last, trust was highly related to the correlates, satisfaction with leader (r (cid:1) .73) and LMX (r (cid:1) .69).
+
+In addition to estimates of overall correlation, we calculated a homoge- neity statistic, Q, for each analysis. A significant Q (which has a chi-square distribution) indicates that the effect sizes are not homogeneous. We conducted categorical moderator analyses, examining whether referent of trust and operational definition accounted for heterogeneity (i.e., whether the primary relationships differ on the basis of these categories). If a categorical moderator fully fits the data, the between-class effect (Qb) will be significant whereas the within-class effect (Qw) will be nonsignificant.
+
+An examination of the correlations across variables and the corresponding confidence intervals provides insight into the rela- tive magnitude of the relationship of trust with different outcomes (Hypothesis 1b). As predicted, the data clearly indicate that trust had the largest relationships with job satisfaction and organiza- tional commitment. Also as expected, the mean correlations with the OCBs altruism, conscientiousness, courtesy, and sportsman- ship all slightly exceeded the mean correlation with job perfor-
+
+Table 1 Results of Primary Meta-Analysis: Hypothesized Outcomes and Correlates of Trust in Leadership

@@ -1,0 +1,1 @@
+## The Hellenic Psychological Society in Greece was founded (see 1963).

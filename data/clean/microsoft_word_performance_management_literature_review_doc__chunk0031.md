@@ -1,0 +1,3 @@
+## performance, personal development and career progression.
+
+Building the capability of managers seems to be even more important where competencies are used. The most comprehensive competency framework, ‘no matter how well designed and appropriate, will not make a bad process good, nor will it compensate for poor training, poor techniques or unskilled users’ (Whiddett and Hollyforde, 1999, p.18). Sillup et al. (2010) argue that those who evaluate performance must accept the importance of performance appraisal as an ‘organisational objective and integral part of their job, rather than a ‘make-work’ hassle’(p.41).

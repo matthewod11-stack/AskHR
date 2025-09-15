@@ -1,0 +1,1 @@
+## List of Leadership Styles, Definitions and Source

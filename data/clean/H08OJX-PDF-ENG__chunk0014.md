@@ -1,0 +1,1 @@
+## careful consideration of the impact on corporate values and personal

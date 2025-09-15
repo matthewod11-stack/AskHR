@@ -1,0 +1,1 @@
+# C. Lyttle/Getty Images

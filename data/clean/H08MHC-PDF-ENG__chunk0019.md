@@ -1,0 +1,1 @@
+# HBR / Digital Article / Design Your Transformation for Simplicity — Not Efficiency

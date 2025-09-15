@@ -1,0 +1,1 @@
+## Figure 7: Predictive Analytics Model (Caughlin, 2022)

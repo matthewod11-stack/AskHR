@@ -1,0 +1,1 @@
+# “differences” as an obstacle

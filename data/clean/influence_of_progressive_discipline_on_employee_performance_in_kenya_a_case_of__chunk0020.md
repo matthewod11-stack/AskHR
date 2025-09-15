@@ -1,0 +1,3 @@
+# a
+
+Dower (2004), asserts that globalization has had a sharp effect on company behavior and problems can be seen especially in developing countries, but there is hope to see more improvements to different approaches and these processes with more naturally related to some rules and discipline, norms.In employers should keep the following principles at the forefront of any decision-making: ensure that discipline is clear, progressive and expressly repeated the consequences of warns of

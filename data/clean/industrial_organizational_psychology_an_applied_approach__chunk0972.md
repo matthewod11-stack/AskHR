@@ -1,0 +1,3 @@
+## Evaluating the Eﬀ ectiveness of Recruitment Strategies
+
+Considering the number of potential recruitment sources, it is important to determine which source is the best to use. Such an evaluation can be conducted in several ways. As shown in Figure ., one method is to examine the number of applicants each recruitment source yields. That is, if a newspaper ad results in  applicants and an in-store sign results in  applicants, newspaper ads could be considered the better method.

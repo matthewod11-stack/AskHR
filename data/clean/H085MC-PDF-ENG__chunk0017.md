@@ -1,0 +1,3 @@
+# HBR / Digital Article / 6 Common Leadership Styles — and How to Decide Which to Us…
+
+secure their future.” These reminders make the organization’s goals and

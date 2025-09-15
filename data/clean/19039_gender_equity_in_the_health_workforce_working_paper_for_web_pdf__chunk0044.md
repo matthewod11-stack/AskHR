@@ -1,0 +1,1 @@
+## FIGURE 1. Distribution of physicians and nurses by gender

@@ -1,0 +1,1 @@
+## opportunities than scoring, and more discrimination than voting.

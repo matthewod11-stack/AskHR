@@ -1,0 +1,3 @@
+# 8 Psychology as a Science
+
+its abandonment, and evolutionary theory was left with nat- ural selection as the only mechanism of evolutionary change. Nevertheless, Spencer’s focus on adaptability during an indi- vidual’s lifetime (learning) and Darwin’s emphasis on indi- vidual development during childhood, differences among individuals, the relation between structure and function, and the continuity between animals and humans contributed sub- stantially to the expansion of the topics that psychologists pursued in the name of psychological science.

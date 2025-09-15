@@ -1,0 +1,1 @@
+# Sensitive soul, 113 Sensory physiology, 2 Sensory processes (biological psychology):

@@ -1,0 +1,1 @@
+# HBR / Digital Article / Research: The Risks of Founding a Startup Near Big Companies

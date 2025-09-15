@@ -1,0 +1,3 @@
+# G COMMUNITY SERVICE
+
+(5%)

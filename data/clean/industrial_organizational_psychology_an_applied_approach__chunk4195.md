@@ -1,0 +1,1 @@
+## Ganzach, Y. (1998). Intelligence and job satisfaction. Academy of

@@ -1,0 +1,3 @@
+# PREMODERN HISTORY OF EMOTION
+
+Discussions of the emotions in pre-Socratic and later Greek thought centered, like so many of its discussions of complex human consciousness, on their relation to the mysteries of human life and often dealt with the relevance of the emotions to problems of ethics and aesthetics. Secondarily, their con- cerns addressed questions of the control and use of the emo- tions. That approach often stressed the distracting inﬂuences of the emotions—a theme that has continued in a minor key to modern times. To the extent that this distracting effect was due to the bodily, somatic symptoms of the emotions, the

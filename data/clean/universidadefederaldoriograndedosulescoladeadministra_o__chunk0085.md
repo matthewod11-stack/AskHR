@@ -1,0 +1,1 @@
+## Bispo (2006) considera que o clima organizacional

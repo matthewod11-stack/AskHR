@@ -1,0 +1,1 @@
+## Keywords: Coaching, resource-based view, social exchange theory

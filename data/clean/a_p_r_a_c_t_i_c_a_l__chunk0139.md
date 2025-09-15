@@ -1,0 +1,1 @@
+# For example, here’s how you’d implement the decentralized pattern using the Agents SDK for a customer service work(cid:16)ow that handles both sales and support:

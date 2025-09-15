@@ -1,0 +1,1 @@
+# equally applicable to all of us.

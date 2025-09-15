@@ -1,0 +1,1 @@
+# Stogdill, R.M. Manual for the Leader Behavior Description Questionnaire—Form XII.

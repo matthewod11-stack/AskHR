@@ -1,0 +1,1 @@
+# Maintains membership(s) in a professional organization in area of specialization.

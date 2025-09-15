@@ -1,0 +1,1 @@
+# Laura L. Koppes, PhD Department of Psychology Eastern Kentucky University Richmond, Kentucky

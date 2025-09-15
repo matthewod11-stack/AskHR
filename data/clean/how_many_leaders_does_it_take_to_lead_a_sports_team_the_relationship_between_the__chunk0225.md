@@ -1,0 +1,11 @@
+# Practical implications
+
+The present study contributes to the growing body of knowledge regarding the leadership structure in sports teams. From an applied perspective, the findings provide more insight about the optimal number of leaders for team effectiveness and emphasize the importance of shared leadership structures. Therefore, coaches can be recommended to implement a struc- ture of shared leadership in their teams by appointing the adequate number of athlete leaders in each of the leadership roles (i.e., as established in the current study). This is particularly important given the fact that our study findings revealed that teams in which the leadership responsibilities rest solely on the shoulders of the coach, and no athlete leaders were present, had poorer performance than teams in which the leadership was shared.
+
+The present findings help the coaches to identify the adequate number of athlete leaders, depending on the gender of the team (e.g., male teams have ideally more external leaders than female teams, whereas the opposite is true for social leaders). Of course, identifying the appro- priate number of athlete leaders is only a part of the entire process of setting up an effective structure of shared leadership [51, 52]. Another two elements are essential for coaches in this process: (1) selecting the right athletes for the athlete leadership job; and (2) further developing their leadership qualities [51, 52]. We will discuss each of these elements, so that, together with identifying the adequate number of athlete leaders (as a result of the present study), they pro- vide coaches with a full insight about how to set up an effective structure of shared leadership. The first challenge to tackle here is how to identify the right athletes for the job. That is not
+
+always straightforward. Although coaches often think they have adequate insight about the leadership potential of their athletes, their insight often contrasts with the perceptions of their athletes. As an illustration, research revealed that only in 1% of the teams, were team captains (often appointed by the coach) perceived as the best leaders by their teammates [15]. When
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0218167 June 10, 2019
+
+17 / 22

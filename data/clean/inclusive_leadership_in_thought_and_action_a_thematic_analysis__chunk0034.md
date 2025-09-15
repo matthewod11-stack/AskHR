@@ -1,0 +1,3 @@
+# 765
+
+themes (see Table 1). As anticipated, the results highlighted themes related to reducing status differences in teams. Speciﬁcally, relational themes, such as relating to and showing a genuine interest in others, generating trust, and treating people fairly, emerged. Although these themes seemed to focus on relationships between leaders and followers, other themes associated with fostering team climates in which people feel motivated to engage, such as

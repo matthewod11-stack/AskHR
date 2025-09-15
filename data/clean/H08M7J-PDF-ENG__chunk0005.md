@@ -1,0 +1,1 @@
+## HBR / Digital Article / When Your Coworkers Got Laid Off — But You Didn’t

@@ -1,0 +1,1 @@
+# RipleyA.2012.Collegeisdead.Longlivecollege!Time,Oct.18.http://nation.time.com/2012/10/18/college-

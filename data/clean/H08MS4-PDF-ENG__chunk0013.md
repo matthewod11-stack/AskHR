@@ -1,0 +1,3 @@
+# HBR / Digital Article / The Legal Landscape Around DEI Is Shifting. Your Messaging Sh…
+
+- “We conduct outreach at diverse colleges to strive for a diverse

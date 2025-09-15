@@ -1,0 +1,9 @@
+# 38 Psychology as a Profession
+
+The leadership of Division 17 was not pleased with the unilateral actions of the E&T Board. When the E&T report appeared, the division commissioned its own three-person committee, which drafted a much more optimistic report on the status of counseling psychology arguing that the profes- sion was thriving, even if graduate programs were not. This 1961 report found that,
+
+The rate of growth of counseling psychology has been normal despite limited ﬁnancial support for the development of graduate programs and the support of graduate students. . . . The social demand for well prepared counseling psychologists is great and continues to increase. The Division of Counseling Psychology has a deep professional obligation to meet this social need. (Tyler, Tiedeman, & Wrenn, 1980, p. 124)
+
+Part of the dissatisfaction within counseling psychology was caused by its comparison with clinical psychology, a profession that was growing at a fantastic rate. By that yard- stick, any ﬁeld would have looked to be in trouble. There was concern from many in counseling that the ﬁeld should clearly distinguish itself from clinical psychology, whereas others suggested merging the training of the two ﬁelds while main- taining differences in the nature of practice.
+
+Traditional work in vocational guidance had been modi- ﬁed by the experiences of counseling psychologists in the VA and student personnel work in higher education. What emerged was a new specialty area that had as its focus the adjustment of the individual to the demands of everyday life, whether those demands were vocational, educational, or interpersonal. The emphasis on developmental processes of average individuals facing day-to-day life was seen as a clear contrast to the emphasis on psychopathology that was the bread and butter of the clinical psychologist.

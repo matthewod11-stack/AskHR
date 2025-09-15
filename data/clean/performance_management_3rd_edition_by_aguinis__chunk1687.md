@@ -1,0 +1,1 @@
+## Goal driven Change addicted Stress driven “Doer”

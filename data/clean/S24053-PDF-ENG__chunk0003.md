@@ -1,0 +1,1 @@
+## HBR / Spotlight Article / Teamwork at the Top

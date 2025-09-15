@@ -1,0 +1,1 @@
+## Table 2—Internal Consistency Estimates (Cronbach's Alpha)

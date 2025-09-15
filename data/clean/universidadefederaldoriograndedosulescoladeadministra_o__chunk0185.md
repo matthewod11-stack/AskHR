@@ -1,0 +1,1 @@
+## favorece não apenas os indivíduos, mas também agrega vantagem competitiva às

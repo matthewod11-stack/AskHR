@@ -1,0 +1,1 @@
+## Strong & Sound knowledge on HR & Administrative Operation and Labor Law

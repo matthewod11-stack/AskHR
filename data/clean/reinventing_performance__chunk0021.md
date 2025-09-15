@@ -1,0 +1,13 @@
+## THE BIG IDEA REINVENTING PERFORMANCE MANAGEMENT
+
+Our third objective therefore became to fuel per- formance. And if the performance snapshot was an organizational tool for measuring it, we needed a tool that team leaders could use to strengthen it.
+
+Research into the practices of the best team lead- ers reveals that they conduct regular check-ins with each team member about near-term work. These brief conversations allow leaders to set expecta- tions for the upcoming week, review priorities, comment on recent work, and provide course cor- rection, coaching, or important new information. The conversations provide clarity regarding what is expected of each team member and why, what great work looks like, and how each can do his or her best work in the upcoming days—in other words, exactly the trinity of purpose, expectations, and strengths that characterizes our best teams.
+
+Our design calls for every team leader to check in with each team member once a week. For us, these check-ins are not in addition to the work of a team leader; they are the work of a team leader. If a leader checks in less often than once a week, the team member’s priorities may become vague and aspira- tional, and the leader can’t be as helpful—and the conversation will shift from coaching for near-term work to giving feedback about past performance. In other words, the content of these conversations will be a direct outcome of their frequency: If you want people to talk about how to do their best work in the near future, they need to talk often. And so far we have found in our testing a direct and measurable correlation between the frequency of these conver- sations and the engagement of team members. Very frequent check-ins (we might say radically frequent check-ins) are a team leader’s killer app.
+
+That said, team leaders have many demands on their time. We’ve learned that the best way to ensure frequency is to have check-ins be initiated by the team member—who more often than not is eager for the guidance and attention they provide—rather than by the team leader.
+
+To support both people in these conversations, our system will allow individual members to un- derstand and explore their strengths using a self- assessment tool and then to present those strengths to their teammates, their team leader, and the rest of the organization. Our reasoning is twofold. First, as we’ve seen, people’s strengths generate their highest performance today and the greatest improvement in their performance tomorrow, and so deserve to be a central focus. Second, if we want to see frequent
+
+48  Harvard Business Review April 2015

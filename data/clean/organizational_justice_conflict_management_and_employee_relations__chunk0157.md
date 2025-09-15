@@ -1,0 +1,1 @@
+# Posthuma, R.A. (2011), “Conflict management and performance outcomes”, International Journal of

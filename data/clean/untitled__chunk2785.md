@@ -1,0 +1,15 @@
+# The Development of Modern Psychology 511
+
+(1978) recollections of the (non-Jewish) Wolfgang Köhler’s courageous struggle against the Nazis and the destruction of the Psychological Institute of the University of Berlin in 1935. In the GDR, the Scientiﬁc Council of Psychology, a government agency working through the GDR Society of Psychology, decided who could do what where with which funds (Kossakowski, 1980; Schmidt, 1980).
+
+As noted by Russell (1984), psychology in Japan provides an example of the blending of Western psychology with the concepts and needs of a non-Western country. Azuma (1984) analyzed the stages through which the development of psy- chology passed in coming to grips with non-Western cultural phenomena without forcing them into a Western mold. The ﬁnal stage was the “integration period,” when psychology is freed to a certain extent from the rigid but otherwise un- noticed mold of traditionally Western concepts and logic (Azuma, 1984, p. 54).
+
+Kagitcibasi (as cited by Sunar, 1996) observed that psy- chology in the 1990s was a Western, primarily U.S. product. She held that U.S. psychology was largely self-contained, serving as its own reference group. While not very open to knowledgecreatedelsewhere,itisexportedtotheworldonthe assumption that theories and ﬁndings originating in Western research have universal validity. Her own cross-cultural stud- iesinTurkeydemonstratedotherwise,reﬂectingthestrongin- ﬂuence of cultural determinants of human behavior.
+
+The unreﬂective exportation of Western psychology in the 1900s often disregarded alternate cultural traditions. Citing experience from India, from the Maoris of New Zealand, and from Turkey, Gergen, Gukrce, Lock, and Misra (1996) pre- sented a persuasive case for a multicultural psychology. Such efforts counteracted the ethnocentricity of much of European andAmericanpsychology(Berry,Poortinga,Segall,&Dasen, 1992).
+
+Aspecial issue of the International Journal of Psychology, edited by Sinha and Holtzman (1984), offers a range of analyses of the impact of psychology on national develop- ment. There is repeated emphasis that, to be accepted, psy- chology needs to demonstrate “relevance” to the prevailing sociocultural conditions and policies in the country or region. Of particular interest are the comments by Melikian (1984) on psychology in Arab Gulf oil-producing states, Mehryar (1984) on Iran, Salazar (1984) on Venezuela, Serpell (1984) on Zambia, and Ching (1984) on China.
+
+In the 1950s and 1960s, the conﬂict with U.S. views of psychology was particularly acute on the European conti- nent. Many distinguished German professors continued to endorse theoretical orientations then prevailing primarily in central Europe (e.g., David & von Bracken, 1957; Gielen & Bredenkamp, 1997; Graumann, 1997). Internationalization in
+
+512

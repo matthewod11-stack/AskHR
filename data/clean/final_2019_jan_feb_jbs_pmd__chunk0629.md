@@ -1,0 +1,1 @@
+## Correlation coefficient between EPS and CASH EARNING RETENTION RATIO

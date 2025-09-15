@@ -1,0 +1,1 @@
+## plt.title('Distribution of {}'.format(column))

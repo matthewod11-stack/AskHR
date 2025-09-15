@@ -1,0 +1,3 @@
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
+
+serve collective interests. The dimensions of transformational leadership conceptualised by Bass (1985) include idealised influence (whereby the leader serves as a role model and followers idealize and emulate the behaviours of their trusted leader), inspirational motivation (whereby the leader articulates a clear vision to followers and provides them with symbols and emotional appeals focused on goal achievement), intellectual stimulation (whereby the leader promotes creativity among followers through encouraging them to change ways of thinking and doing), and individualised consideration (whereby the leader addresses needs of followers individually and delegates assignments to them to provide opportunities for learning).

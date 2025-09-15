@@ -1,0 +1,1 @@
+## HBR / Digital Article / A New Approach to Writing Job Descriptions

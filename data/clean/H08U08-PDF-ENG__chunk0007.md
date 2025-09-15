@@ -1,0 +1,1 @@
+## más perjudicial: la pérdida del talento de los equipos críticos para la

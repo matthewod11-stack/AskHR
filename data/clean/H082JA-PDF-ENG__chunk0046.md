@@ -1,0 +1,1 @@
+## HBR / Digital Article / The Challenges of Becoming a Less Hierarchical Company

@@ -1,0 +1,1 @@
+# Leadership motive pattern, 422

@@ -1,0 +1,1 @@
+## in areas like legal research, scientific discovery, and business intelligence.

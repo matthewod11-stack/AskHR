@@ -1,0 +1,1 @@
+## Bauman, Z. (1978). Hermeneutics and social science. New York:

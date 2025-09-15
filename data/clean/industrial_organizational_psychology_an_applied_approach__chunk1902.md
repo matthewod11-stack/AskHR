@@ -1,0 +1,3 @@
+# Conducting On-the-Job Training
+
+In the previous section, we discussed how employees can be trained in classroom settings and through distance learning. In this section, we will discuss how employ- ees learn through on-the-job training (OJT), an important topic given that some researchers estimate that over % of employee training is OJT (DeRouin, Parrish, & Salas, ). Though there is some disagreement about what constitutes OJT, a good definition is that OJT is informal training by experienced peers and supervi- sors that occurs on the job and during job tasks (DeRouin et al., ). OJT works best for teaching skills that require supervision to learn, are best learned through repetition, and benefit from role modeling (Gallup & Beauchemin, ).

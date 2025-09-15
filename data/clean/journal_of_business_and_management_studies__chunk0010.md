@@ -1,0 +1,3 @@
+# Employee Attrition Prediction in the USA: A Machine Learning Approach for HR Analytics and Talent Retention Strategies
+
+- 4. Proposed Models and Metrics In the current research, the investigator proposed an array of machine learning models, most notably, a Decision Tree, Ada-boost classifier, Random Forest, and Gradient Boosted Classifier. The assessment and evaluation were performed using Jupyter Notebook, an engaging algorithm development forum for Python, an open-source programming language predominantly adopted in machine learning algorithm development (Hasan et al. 2024). Besides, R-programming was also utilized in building the models.

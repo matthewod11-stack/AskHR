@@ -1,0 +1,1 @@
+# Global Gender Gap Report, 2010. http://www.weforum.org/pdf/gendergap/report2010.pdf

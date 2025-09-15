@@ -1,0 +1,1 @@
+## Cultural Diﬀ erences in Leadership: Project Globe

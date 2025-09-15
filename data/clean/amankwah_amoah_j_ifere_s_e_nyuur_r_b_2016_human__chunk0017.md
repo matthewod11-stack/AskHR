@@ -1,0 +1,1 @@
+# influences managerial decisions and firm

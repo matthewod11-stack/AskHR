@@ -1,0 +1,1 @@
+## Population Strata Population Sample % Sample Size

@@ -1,0 +1,1 @@
+## Isaac H. Smith Assistant professor, BYU Marriott School of Business

@@ -1,0 +1,1 @@
+## Participates in campus-wide extracurricular activities or events.

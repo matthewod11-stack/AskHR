@@ -1,0 +1,3 @@
+# Development of the NPS
+
+Reichheld, in his text, is rather modest when it comes to the description of his methodology. He mentions that the research took 2 years and “the ‘would recom- mend’ question generally proved to be the most effective in determining loyalty and predicting growth”9. What we know, is that the author of the NPS was look- ing for correlation between the survey questions and business results based on over 4000 surveys.

@@ -1,0 +1,1 @@
+## Plato. (1892). The dialogues of Plato (B. Jowett, Trans.). New York:

@@ -1,0 +1,1 @@
+# Homogenous Subsets Tukey HSDa,b Table 8

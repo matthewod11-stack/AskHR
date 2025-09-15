@@ -1,0 +1,3 @@
+# Most common leadership structure
+
+Table 3 presents the leadership structure for each of the different teams, and more specifically, reveals the number of teams having zero, one, two, or three leaders in each of the three leader- ship roles. The majority of the teams had one task leader and one social leader. However, with respect to external leaders, most teams had two external leaders on the team.

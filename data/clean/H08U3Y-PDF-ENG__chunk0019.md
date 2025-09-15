@@ -1,0 +1,1 @@
+## environmental scan, transaction analytics, and sentiment analysis;

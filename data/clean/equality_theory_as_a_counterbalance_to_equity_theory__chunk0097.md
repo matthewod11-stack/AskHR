@@ -1,0 +1,1 @@
+## Walster, E., Walster, G. W., & Bersheid, E. (1978). Equity: Theory

@@ -1,0 +1,3 @@
+## HBR / Digital Article / 6 Steps to Reset a Demotivated Team
+
+Alyson Meister is a professor of leadership at IMD where she directs the Future Leaders, Change Management, and Resilience programs. Her research focuses on high-performance leadership, team dynamics, and change, and she has worked with thousands of executives, teams, and organizations from professional services to industrial goods and technology. In 2021 she was recognized as a Thinkers50 Radar thought leader.

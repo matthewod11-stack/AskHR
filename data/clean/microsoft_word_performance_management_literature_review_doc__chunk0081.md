@@ -1,0 +1,1 @@
+# O’Neal S (1993/1994), ‘Competencies: the DNA of the Corporation’, ACA Journal, Winter

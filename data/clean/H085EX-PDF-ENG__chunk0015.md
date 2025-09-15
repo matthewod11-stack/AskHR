@@ -1,0 +1,13 @@
+## of the French multinational biotechnology company, bioMérieux. In
+
+2020, the company’s leadership made a strategic decision to integrate
+
+BioFire, a U.S.-based diagnostics company acquired by bioMérieux in
+
+- 2014. BioFire’s PCR technology played a pivotal role in providing rapid
+
+Covid-19 tests during the pandemic. Pierre Boulud, who would later
+
+be appointed CEO of bioMérieux, was entrusted with overseeing this delayed integration. The successful execution of this eﬀort proved
+
+instrumental in establishing bioMérieux as a global leader in healthcare

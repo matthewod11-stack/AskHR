@@ -1,0 +1,3 @@
+# An Appraisal of the Era
+
+The marked differences among the three theorists in this pe- riod, Watson, Gesell, and Piaget, are brought into perspective by noting their positions on key developmental questions. Their basic positions concerning what causes development were in stark contrast. Watson was the archetypical mecha- nistic theorist who believed that development occurred from the outside in. He believed that the goal of theory was not to understand behavior but to predict and control it. He viewed learning and conditioning principles as the processes through which these ends were met. In contrast, Gesell was a theorist who was organismic in his viewpoint on the causes of devel- opment, championing maturational processes as the key to

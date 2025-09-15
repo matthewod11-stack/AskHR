@@ -1,0 +1,1 @@
+## Schor, J. (1993). The overworked American: The unexpected decline

@@ -1,0 +1,7 @@
+# YOUNG PSYCHOLOGISTS INITIATIVE
+
+To encourage participation by younger colleagues, the steer- ing committee for the 1963 International Congress in Washington, DC, developed a Young Psychologists Program. It was oriented to persons under age 30 who had received their highest degree in psychology within the previous 5 years. Funds were raised from individual psychologists and from regional and state associations to support 22 young col- leagues, one from nearly each of the union’s member soci- eties. The Canadian Psychological Association supported one of their own. Psychologists residing in the Washington area generously provided lodging in their homes, logistical assis- tance, and a chance to become acquainted with the city.
+
+Special meetings were arranged with senior psychologists and journal editors.
+
+The steering committee expressed the hope that the Young Psychologists Program would establish a precedent and that similar endeavors would be organized at future congresses for promising younger psychologists not normally able to at- tend an International Congress of Psychology on their own. Happily, a Young Psychologists Program has been organized at each subsequent congress and has also become a feature of the quadrennial International Congress of Applied Psy- chology, further fostering international cooperation, commu- nication, and exchanges.

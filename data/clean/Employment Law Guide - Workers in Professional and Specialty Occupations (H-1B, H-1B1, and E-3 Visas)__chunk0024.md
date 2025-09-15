@@ -1,0 +1,1 @@
+# After the Department of Labor certiﬁes the LCA, the employer will petition the U.S. Citizenship and Immigration Services (USCIS)

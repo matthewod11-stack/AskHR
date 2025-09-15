@@ -1,0 +1,3 @@
+# Monetary Rewards
+
+There are clear limits to the use of existential distributive equality as it relates to pay, for differential remuneration is one of the most effective and time-honored vehicles for rewarding organizations’ hierarchic division of labor. However, high-involvement organizations employ a num- ber of remunerative devices that stray from equity in the clear direction of existential equality. These practices function to moderate the effects of equity-based pay deci- sions, and they entail a recognition of simple membership

@@ -1,0 +1,3 @@
+# Patient and Student Factors
+
+Variables relating to patients and students were explored the least in the reviewed studies. Only two studies evaluated patient- and student-related factors (Gibson et al. 2009; Kazemi et al. 2015). See Table 4 for a summary of patient- and student-related factors. None of the evaluated factors (i.e., age, ASD severity, and time spent working with student) were found to be significant variables.

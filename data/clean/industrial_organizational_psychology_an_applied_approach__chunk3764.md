@@ -1,0 +1,1 @@
+# Fry cooker (140)

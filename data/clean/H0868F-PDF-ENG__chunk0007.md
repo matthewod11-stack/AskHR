@@ -1,0 +1,1 @@
+## migraines, nausea, hair loss, sleep loss, weight changes, autoimmune

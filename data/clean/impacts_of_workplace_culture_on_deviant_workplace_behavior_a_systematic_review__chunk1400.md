@@ -1,0 +1,1 @@
+# d e t a i d e m

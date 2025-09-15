@@ -1,0 +1,7 @@
+# REFERENCES 196
+
+under controlled conditions (p. 6); this method included the use of tests, as in testing “the object is to hold conditions con- stant, so that many individuals can be observed under the same conditions and fairly compared” (p. 6). When condi- tions cannot be fully controlled, Woodworth noted, psychol- ogy “has to resort to” a second method; this “genetic method” (p. 8) involves observations of developmental processes (dur- ing this period, “genetic” was frequently used as a synonym for “developmental”; see, e.g., Warren, 1934, p. 114). If psy- chologists wish to understand developments that have already occurred, however, they are left with a substitute:
+
+We ﬁnd a genius, or an insane person, a criminal, or a “problem child” before us, and we desire to know how he came to be what he is. Then the best we can do is to adopt a substitute for the ge- netic method, by reconstructing his history as well as we can from his memory, the memories of his acquaintances, and such records as may have been preserved. This case history method has obvious disadvantages, but, as obviously, it is the only way to make a start towards answering certain important questions. (Woodworth, 1929, p. 8)
+
+Having pointed out that the case history was primarily a clinical method used to help people with abnormal behavior and that “the cause of misﬁts and failures is certainly an im- portant matter for study,” Woodworth asked, “Would it not be

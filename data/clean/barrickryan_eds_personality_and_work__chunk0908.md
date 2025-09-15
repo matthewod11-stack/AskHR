@@ -1,0 +1,3 @@
+## Relevant Personality Constructs at the Appropriate Level
+
+The importance of studying personality at the appropriate con- struct level was discussed in several chapters throughout the book (Saucier and Goldberg, Lucas and Diener, Day and Kilduff, Ryan and Kristof-Brown, and Hough in Chapters One, Two, Eight, Ten, and Eleven, respectively), albeit in somewhat different ways. Chap- ter One by Saucier and Goldberg was intentionally unique because it discusses progress pertaining to personality attributes and how

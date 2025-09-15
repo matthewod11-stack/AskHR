@@ -1,0 +1,3 @@
+# HBR / Digital Article / 3 Reasons Change Initiatives Fail — and How to Ensure Yours Su…
+
+transformations without understanding who they’re asking to change

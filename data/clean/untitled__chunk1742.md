@@ -1,0 +1,1 @@
+## Naglieri, J. A. (1988). Draw-a-Person: A quantitative scoring sys-

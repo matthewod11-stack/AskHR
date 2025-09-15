@@ -1,0 +1,1 @@
+## How to Respond to Newspaper Advertisements

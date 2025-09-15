@@ -1,0 +1,1 @@
+# needs, values or personal characteristics, the greater the degree of job satisfaction.

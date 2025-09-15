@@ -1,0 +1,1 @@
+## Go deeper: “Pipelines, Platforms, and the New Rules of Strategy,” by

@@ -1,0 +1,1 @@
+## From the Magazine (May–June 2023) / Reprint R2303G

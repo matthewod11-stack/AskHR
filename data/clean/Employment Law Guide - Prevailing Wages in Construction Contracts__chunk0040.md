@@ -1,0 +1,7 @@
+# "Related Acts" - that provide federal assistance for construction through loans, grants, loan guarantees,
+
+insurance, and other methods. These laws require payment of the prevailing wages determined in accordance with the Davis-Bacon Act on federally assisted construction undertaken pursuant to the relevant law.
+
+Examples of the Related Acts are the Federal-Aid Highway Acts, the Housing and Community Development
+
+Act of 1974 (and various other laws administered by the U.S. Department of Housing and Urban Development

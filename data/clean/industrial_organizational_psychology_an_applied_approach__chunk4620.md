@@ -1,0 +1,9 @@
+## Conﬂ ict styles, 502–506 Conﬂ ict, 497–509
+
+causes of, 499–502 conflict styles, 502–507 difficult people, 501–502 resolving conflict,
+
+507–509 types, 499–500 definitions, 497–498
+
+Conjunctive tasks, 482 Connelly v. Newman, 106 Consent decree, 101 Consideration-centered leaders, 443 Consistency theory, 328 Consolidated Freightways, 95 Construct validity,
+
+212–213

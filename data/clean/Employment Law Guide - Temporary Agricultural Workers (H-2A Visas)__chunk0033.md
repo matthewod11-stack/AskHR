@@ -1,0 +1,1 @@
+# Each worker must be provided a wage statement showing hours of work, hours oﬀered, pay for each type of crop, the basis of pay (i.e.,

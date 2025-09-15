@@ -1,0 +1,1 @@
+## When the CEO of the global energy specialist Schneider Electric set

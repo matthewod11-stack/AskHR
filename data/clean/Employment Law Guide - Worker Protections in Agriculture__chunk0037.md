@@ -1,0 +1,1 @@
+# The provisions of Sections 110(c) and 110(d) of the Mine Act are among the most stringent levels of enforcement action available to MSHA to

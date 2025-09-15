@@ -1,0 +1,1 @@
+## From the Magazine (November–December 2022) / Reprint F2206A

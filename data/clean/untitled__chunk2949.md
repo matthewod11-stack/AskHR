@@ -1,0 +1,1 @@
+## The ﬁrst International Congress of Health Psychology convened in Mexico City.

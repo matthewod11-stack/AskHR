@@ -1,0 +1,3 @@
+# Piotr Sedlak
+
+the following text will focus only on items treated as separate entities. Described correlation suggest that the eNPS can be used as a single-item work satisfaction measure. Although such simplification causes information loss and due to the fact that there are no other possibilities, this solution should work on a sufficient level when it relates to measuring work satisfaction and engagement31.

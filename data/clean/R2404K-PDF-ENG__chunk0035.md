@@ -1,0 +1,1 @@
+## doesn’t end up with redundant operational assets; rather, it purchases

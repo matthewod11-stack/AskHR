@@ -1,0 +1,1 @@
+# Figure 6: Descriptive Analytics Model

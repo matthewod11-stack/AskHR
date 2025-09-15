@@ -1,0 +1,1 @@
+## entrepreneurship and sharing of knowledge, fundamental elements of

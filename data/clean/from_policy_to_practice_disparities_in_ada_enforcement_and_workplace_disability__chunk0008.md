@@ -1,0 +1,3 @@
+## 1.(cid:32) Comparative State-Level Analysis:
+
+Based on publicly accessible data released by EEOC, state human rights commissions, and advocacy organizations, this aspect examines the frequency and character of ADA complaints throughout all 50 states and how they are resolved. The efficiency of the enforcement is measured using indicators like the level of cases closed, settlement values, and the success of the mediation cases.

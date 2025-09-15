@@ -1,0 +1,1 @@
+# Keywords: inclusive leadership; organizational citizenship behaviors; organizational justice; organizational learning culture; Vietnam

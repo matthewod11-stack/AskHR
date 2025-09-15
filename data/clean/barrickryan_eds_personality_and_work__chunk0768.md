@@ -1,0 +1,1 @@
+## meta-analysis. Journal of Applied Psychology, 74, 402–410.

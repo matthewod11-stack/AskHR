@@ -1,0 +1,1 @@
+# Cognitive Trust in the Leader

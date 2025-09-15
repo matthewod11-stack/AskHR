@@ -1,0 +1,1 @@
+# The Occupational Safety and Health Act of 1970 (OSH Act) is administered by the Occupational Safety and

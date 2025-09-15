@@ -1,0 +1,3 @@
+# HBR / Digital Article / How Gen AI Could Disrupt SaaS—and Change the Companies Th…
+
+transformation successfully, they will need to focus on the following key

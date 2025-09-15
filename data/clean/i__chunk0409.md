@@ -1,0 +1,1 @@
+# logit_model = sm.Logit(y_train, X_train)

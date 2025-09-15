@@ -1,0 +1,1 @@
+## Figure 13: A diagram of the agent as contractor lifecycle from Agentspace.

@@ -1,0 +1,1 @@
+## TABLE 18.1 Industrial Psychology (Viteles, 1932)

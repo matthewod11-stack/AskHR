@@ -1,0 +1,3 @@
+# personality tests that
+
+measure “investment” traits like openness-to-experience.Investment traits describe the tendency to engage in complexthinking. Because analytical information can be complex,comfort with complexity enhances the chance that theanalytically willing will be able to extract meaning fromanalytical information.Developing analytical capabilityThe key to developing capability among existing workers is toprovide engaging learning opportunities to workers at all levels ofexpertise:

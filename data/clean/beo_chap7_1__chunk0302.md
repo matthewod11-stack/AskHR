@@ -1,0 +1,1 @@
+## Initial endowment: £2,000 facsimile bills

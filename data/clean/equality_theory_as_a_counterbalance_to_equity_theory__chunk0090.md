@@ -1,0 +1,1 @@
+## Schor, J. (2010). Plenitude: The new economics of true wealth. New

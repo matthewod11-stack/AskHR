@@ -1,0 +1,1 @@
+# dessas respostas, coletá-las, organizá-las, reportá-las, tornando todo o processo

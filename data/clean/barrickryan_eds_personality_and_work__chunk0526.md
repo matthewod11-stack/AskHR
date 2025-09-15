@@ -1,0 +1,1 @@
+# s p u o r g k r o W •

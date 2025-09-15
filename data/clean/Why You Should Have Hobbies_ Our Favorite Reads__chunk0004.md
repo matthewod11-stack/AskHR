@@ -1,0 +1,3 @@
+# the
+
+importance of having hobbies. The more I push myself to engagein new things, the more I discover about my identity and just howvast and layered it can be. When I return to my desk on Mondays,I sit down refreshed and resilient. I feel ready to focus on my nexttask, knowing that it’s just one part of my very full life.While getting outside is what works for me, I know it’s not foreveryone. So, this week, I want to encourage you to

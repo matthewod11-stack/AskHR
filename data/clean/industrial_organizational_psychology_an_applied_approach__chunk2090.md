@@ -1,0 +1,33 @@
+## The extent to which the outcome of a worker’s
+
+The extent to which an employee values a particular
+
+employee motivation
+
+353
+
+354
+
+chapter 
+
+To understand or predict an employee’s level of motivation, these compo-
+
+nents are used in the following formula:
+
+Motivation = E (I × V) Thus, all possible outcomes of a behavior are determined, the valence of each is multiplied by the probability that it occurs at a particular performance level, and then the sum of these products is multiplied by the expectancy of an employee putting in the effort to attain the necessary level of performance. As can be seen from this formula, the higher the score on each component, the greater the employee’s motivation. To expound on this, let us examine each component in more detail.
+
+In terms of expectancy, if an employee believes that no matter how hard he works he will never reach the necessary level of performance, then his motivation will probably be low. For instrumentality, the employee will be motivated only if his behavior results in some specific consequence. That is, if the employee works extra hours, he expects to be rewarded, or if he is inexcusably absent from work, he expects to be punished. For a behavior to have a desired consequence, two events must occur. First, the employee’s behavior must be noticed. If the employee believes he is able to attain the necessary level of performance but that his perfor- mance will not be noticed, then his level of motivation will be low. Second, noticed behavior must be rewarded. If no rewards are available, then, again, motivation will be low. As discussed earlier in this chapter, if appropriate behavior does not have positive consequences or if inappropriate behavior does not have negative conse- quences, the probability that a worker will continue undesired behaviors increases, and the probability that an employee will continue desired behaviors decreases.
+
+For valence, if an employee is rewarded, the reward must be something he val- ues. If good performance is rewarded by an award, then the employee will be moti- vated only if he values awards. Likewise, if we punish an employee by suspending him, the punishment will be effective only if the employee needs the money. If he does not particularly like his job and would rather spend a few days at the lake, the suspension will obviously not be effective. In an applied study, Fox, Scott, and Donohue () found that in a pay-for-performance environment, pay served as an incentive only for employees with a high monetary valence. This theory can be used to analyze the situation experienced by one bank in Virginia. Concerned that the bank’s tellers were averaging only three new Visa customers each month, man- agement sought to increase the number of Visa applications taken by each teller. Tellers were expected to ask each customer if he or she had a Visa card. If not, the teller was to give the customer an application. A teller would receive $ extra per month if he or she increased the number of new Visa customers per month to . The program was a flop, much to management’s surprise. Applying expectancy theory, however, would have led an industrial/organizational psychologist to predict the program’s lack of success. First, let us look at the expectancy component. If the tellers currently averaged only three new Visa customers each month, they prob- ably did not believe that even working hard, they would be able to generate  new customers. Thus, the expectancy probability for the program was low.
+
+Second, most tellers probably did not place much value on an extra $ per month, so the valence component also was low. Thus, with two of three com- ponents having low values, the program was destined to fail from the start. The bank later reduced the monthly number of new Visa cards to ten and increased the teller reward to $. These simple changes brought about the desired increase in new Visa customers.
+
+In addition to predicting employee effort, expectancy theory has been applied successfully to predict speeding by drivers and cheating by students. To demon- strate this last behavior, imagine the typical examination in a typical college class. First, look at the expectancy component. We might ask what the probability is for catching a cheater. Students who cheat most likely believe that it is very low. To determine the instrumentality component, we might ask what the probability is for some negative consequence if a cheater is caught. In many universities, this probability is low. Not only is it difficult to prove that a student cheated, but if it is the first time a student is caught, punishment usually results in no more than a few days’ suspension.
+
+Finally, we examine the valence component. Even if a student was caught and suspended, how terrible would that be? For many students, a few days of vaca- tion may not seem so terrible. Thus, when combining the three components, we should not be surprised that cheating often occurs.
+
+Expectancy theory can also be used to suggest ways to change employee motivation. As we saw with the bank, motivation was increased by making the performance standard more reasonable and by increasing the value of the con- sequence. Similarly, if we wanted to apply the theory to decrease cheating, we would increase the probability of catching cheaters, make convicting a person who has cheated easier, and make the consequences for cheating more severe.
+
+Although expectancy theory is an interesting and useful method of predicting and increasing employee motivation, some researchers have criticized it. The major criticism involves the components equation. As it is now written, all of the components are multiplied. Some researchers have suggested that per- haps the addition of some components would be more appropriate than their multiplication (Schmidt, ). This is because when the components are mul- tiplied, a zero in any component results in a prediction of zero motivation, even when ratings in the other components are high.
+
+A second criticism involves the values assigned to each component (Ilgen, Nebeker, & Pritchard, ). Research has indicated that even though valence and instrumentality can be reliably measured (Mitchell, ), the theory is most pre- dictive when people behave rationally (Stahl & Harrell, ), which they often do not, and have an internal locus of control (Lied & Pritchard, ), which may not always be the case. Despite problems with the equation, however, the theory is still one of the most useful for predicting employee behavior.

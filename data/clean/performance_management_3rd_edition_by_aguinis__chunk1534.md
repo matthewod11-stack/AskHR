@@ -1,0 +1,3 @@
+# 9.3 COACHING PROCESS
+
+The coaching process is shown in Figure 9.1. We have already discussed many of the components of this process in previous chapters. The first step involves setting developmental goals. As discussed in Chapter 8, these developmental goals are a key component of the developmental plan. These goals must be reasonable, attainable, and derived from a careful analysis of the areas in which an employee needs to

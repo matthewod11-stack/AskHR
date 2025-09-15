@@ -1,0 +1,1 @@
+# whether the worker is being paid by the hour or per piece, and the beginning and ending dates of the pay period. The wage statement must

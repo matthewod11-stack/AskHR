@@ -1,0 +1,9 @@
+# Perceptions of Fairness
+
+to the implementation and on-going use of apprai- sals. Trust (perceptions of whether people adhere to the organization’s rules when mak- ing appraisals, whether the appraisals are accurate, or whether the appraisals reﬂect favoritism), as well as employee perceptions of situational constraints on their perfor- mance, predicts their motivational level.
+
+Employee acceptance is critical
+
+Hostility toward performance appraisals and the coaching process often occurs when people believe that they are being evaluated on the ‘‘wrong things,’’ or on indices over which they have little control. This hostility is minimized to the extent that people can see that they are being assessed on the very behaviors that enable the successful imple- mentationofthe organization’s strategicplan. Another reason for employee hostility toward appraisals is improper weighting of the criteria. This has led to the concept of a ‘‘balanced scorecard’’ that provides a frame- work for coaching employees on the ways they can contribute meaningfully to the orga- nization’s strategy. For example, at Pricewa- terhouseCoopers (PWC), equal weight is now given to each of three criteria, namely: client, people, and ﬁrm. This is done to shift an overemphasis by some partners on the client, at the expense of coaching staff on ways to assist the client, as well as to ensure that what is done for the client and staff is not done at the expense of what is in the overall interest of PWC as an organization.
+
+The attitudes of coaches as well as the people who are being coached is positive if the appraisal instrument facilitates assess- ments that are: (1) perceived as factual, objec- tive and unbiased; (2) explicitly related to the organization’s strategy; (3) developmental, in that the assessment speciﬁes what the employee must start doing, stop doing, con- tinue doing, or do differently to improve

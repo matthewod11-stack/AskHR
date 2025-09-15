@@ -1,0 +1,19 @@
+# 3.1 Hypothesis
+
+Three key components of the coaching construct are supervisory feedback, role modeling and trust between the coach and the subordinate (Rich, 1998). Through the coaching intervention, the manager-as-coach “encourages and motivates employees to learn, and helps to surface and test assumptions … is highly learner-centered and focuses on collaboration and discovery” (Ellinger and Bostrom, 1999). The coach is a resource who uses his knowledge and skills to help subordinates became aware of their flaws and responsibilities, propose changes and solutions, and commit themselves with their implementation (Richardson, 2009; Whitmore, 1985) by means of a facilitative process of discovery and awareness.
+
+One of the most important tools used in this kind of coaching processes is questioning; through the use of precise questions, the coach guides the salesperson’s reflection, helping him to diagnose the problem and to propose a
+
+3
+
+solution (Whitmore, 1985). Accordingly, the locus of knowledge is located within the employee, and the coach becomes a facilitator of employee discovery, learning and development (Agarwal et al., 2009; Ellinger and Bostrom, 1999; Ellinger et al., 2003; Evered and Selman, 1989; McLean et al., 2005). Through this process the manager and the subordinate develop a high-quality relationship that allows them to work in an open and collaborative way, characterized by exchange in the form of greater empowerment, commitment, harder work and increased tolerance for errors.
+
+These variables also describe what happens in high-quality exchanges as depicted in the Leader-Member Exchange (LMX) Theory (Dansereau et al., 1975; Gerstner and Day, 1997; Graen and Uhl-Bien, 1995; House and Aditya, 1997). Building on the Social Exchange framework and Role Theory, LMX establishes that a leader can develop high-quality relationships with his subordinates; these relationships are characterized by high degrees of mutual trust, respect and obligation between both parties (Dansereau et al., 1975; Graen and Uhl-Bien, 1995; Liden and Maslyn, 1998; Sparrowe and Liden, 1997).
+
+In LMX relationships, leaders usually initiate the exchange by providing more information, support and assistance. They give subordinates higher levels of latitude to perform their jobs, thus contributing to subordinates’ job enrichment. Subordinates reciprocate by taking additional responsibilities, developing ownership feelings toward the unit and its goals, and providing more effort and commitment in the pursuit of mutual interests (Dansereau et al., 1975; Graen and Uhl-Bien, 1995; Gerstner and Day, 1997; House and Aditya, 1997; Ilies et al., 2007; Lee, 2005; Liden and Maslyn, 1998; Sparrowe and Liden, 1997).
+
+Scholarly research in coaching used the Social Exchange framework (Mathieu and Pousa, 2011) and LMX as key theoretical frameworks to study coaching relationships and consequences (Agarwal et al., 2009; Onyemah, 2009; Pousa, 2012; Pousa and Mathieu, 2014; Trépanier, 2010). A key consequence of high-quality LMX relationships is their positive impact on subordinate performance. A recent meta-analysis on the consequences of LMX on performance and other organizational constructs found a positive correlation between LMX and performance (Gerstner and Day, 1997) and other scholars also found a positive correlation between coaching and performance (Agarwal et al., 2009; Ellinger et al., 2005; Trépanier, 2010). Accordingly, we propose that:
+
+H1: It is hypothesized that, when controlling for selling experience and tenure, a positive relationship exists
+
+between coaching and subordinate performance

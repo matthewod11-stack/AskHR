@@ -1,0 +1,3 @@
+# HBR / Magazine Article / Case Study: Should a Family Business Accept a Returning Da…
+
+to Côte d’Ivoire, and they were hoping to oﬀer her a role in the family

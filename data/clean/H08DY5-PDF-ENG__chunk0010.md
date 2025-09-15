@@ -1,0 +1,1 @@
+## communication between a deaf caller and a non-deaf voice user, either

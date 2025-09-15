@@ -1,0 +1,1 @@
+## TABLE 3: Regression coefficients for Hypothesis 1. Model

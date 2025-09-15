@@ -1,0 +1,1 @@
+## Academy of Management Journal, 22, 810–815.

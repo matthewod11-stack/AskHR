@@ -1,0 +1,1 @@
+## Lange, C. (1887). Ueber Gemüthsbewegungen. Leipzig, Germany:

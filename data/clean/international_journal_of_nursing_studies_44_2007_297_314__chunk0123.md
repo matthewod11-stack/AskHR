@@ -1,0 +1,1 @@
+## International Journal of Nursing Studies 39: 867–878

@@ -1,0 +1,3 @@
+# Kuder Occupational Interest Survey
+
+Frederic Kuder (1903–2000) set about measuring occupa- tional interests differently from Strong in two respects. First, instead of presenting individual items to be endorsed as “like” or “dislike,” he constructed groups of three alternative activi- ties and asked respondents to indicate which of each triad they would most prefer to do. Second, instead of scoring re- spondents’preferences for their relevance to speciﬁc occupa- tions, he developed scales for relating them to general areas of interest, including Outdoor, Mechanical, Computational, Scientiﬁc, Persuasive, Artistic, Literary, Musical, Social Ser- vice, and Clerical.Ameasure embodying these characteristics was published as the Kuder Personal Preference Record

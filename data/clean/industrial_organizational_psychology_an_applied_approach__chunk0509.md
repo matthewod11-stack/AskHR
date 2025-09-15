@@ -1,0 +1,1 @@
+# Table 2.6 Data

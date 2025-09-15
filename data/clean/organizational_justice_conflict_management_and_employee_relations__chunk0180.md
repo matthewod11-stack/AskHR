@@ -1,0 +1,3 @@
+# Contemporary source
+
+Authors’ own

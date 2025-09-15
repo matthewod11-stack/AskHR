@@ -1,0 +1,3 @@
+# Hanken School of Economics
+
+ISBN 978-952-232-176-3 (printed) ISBN 978-952-232-177-0 (PDF) ISSN-L 0424-7256 ISSN 0424-7256 (printed) ISSN 2242-699X (PDF)

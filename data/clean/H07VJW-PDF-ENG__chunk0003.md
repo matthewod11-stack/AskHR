@@ -1,0 +1,1 @@
+## HBR / Digital Article / A Simple Hack to Help You Communicate More Effectively

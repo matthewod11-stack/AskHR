@@ -1,0 +1,1 @@
+## HBR / Digital Article / New Research on How Layoffs Affect the Labor Market

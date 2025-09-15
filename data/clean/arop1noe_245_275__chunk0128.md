@@ -1,0 +1,1 @@
+# Table 3 Factors facilitating learning and their implications for research and practice

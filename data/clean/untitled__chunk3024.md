@@ -1,0 +1,3 @@
+# International Associations: Regional
+
+The European Federation of Professional Psychology Asso- ciations and the Interamerican Society of Psychology are the two major regional psychological associations that hold reg- ular conventions in years when neither the IUPsyS nor the IAAP are holding their congresses. In addition, the IAAP and the IUPsyS jointly sponsor regional conferences on a peri- odic basis, usually in developing areas of the world.

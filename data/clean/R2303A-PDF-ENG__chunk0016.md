@@ -1,0 +1,7 @@
+# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
+
+In June we moved into 5,000 square feet that had previously housed
+
+a Hummer dealership. Soon thereafter we invested in our own fully
+
+automated roastery, and Ben sold his ﬁnancial services practice to join

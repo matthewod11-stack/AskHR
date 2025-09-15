@@ -1,0 +1,1 @@
+## appraisal, 270 Aﬀ ective commitment, 366 Aﬀ ective identity

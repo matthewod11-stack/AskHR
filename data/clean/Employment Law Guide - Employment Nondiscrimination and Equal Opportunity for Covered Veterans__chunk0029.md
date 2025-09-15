@@ -1,0 +1,1 @@
+# "Recently separated veteran" means any veteran who served on active duty during the three-year period

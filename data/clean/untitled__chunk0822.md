@@ -1,0 +1,3 @@
+## Vernon’s Theory of Verbal : Educational and Spatial : Mechanical Abilities
+
+A more widely adopted model has been that of Vernon (1971), which proposes the general factor, g, at the top of the hierarchy. Below this factor are two group factors, v:ed and k:m. The former refers to verbal-educational abilities of the kinds measured by conventional test of scholastic abilities. The latter refers to spatial-mechanical abilities (with k per- haps inappropriately referring to the nonequivalent term kinesthetic).

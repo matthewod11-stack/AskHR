@@ -1,0 +1,3 @@
+# Number of Individuals*
+
+Individual-level health coaching program participation data were collected as part of the Vendor’s administration of the health coaching programs. Coaching program enrollment occurred during the period when or after employees completed the baseline HA. Enrollment concluded within 150 days of the initial administration of the HA. Coaching program enrollment dates ranged from April 15, 2007, through March 31, 2009.

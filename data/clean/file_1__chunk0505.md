@@ -1,0 +1,3 @@
+# Participants
+
+The data for this study were gathered in February 2007 through a web-based questionnaire, which was sent to a random sample of 1,000 academic and administrative personnel of two universities in Finland using a double-blind procedure. The survey data were supplemented with pay data from university records. The respondents were informed that the members of the research team would not have access to person identifiers and that the employer representatives, who provided records-based data for the sample, would not have an access to the completed questionnaires. The number of responses was 495, corresponding to the overall response rate of 49.5 %.

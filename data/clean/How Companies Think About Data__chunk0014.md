@@ -1,0 +1,9 @@
+## Finally, “5 Essential Elements of Succeeding with Data” shows us
+
+what it takes to use data well — and what happens when an
+
+essential piece is missing.
+
+https://hbr.org/2023/10/how-companies-think-about-data
+
+3/5

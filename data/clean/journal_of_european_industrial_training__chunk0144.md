@@ -1,0 +1,1 @@
+## Rosti, R. and Shipper, F. (1998), ``A study of the

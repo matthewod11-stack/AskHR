@@ -1,0 +1,1 @@
+# statement qualities, 71–72, 72t

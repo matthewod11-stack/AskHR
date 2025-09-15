@@ -1,0 +1,5 @@
+# FIGURE 6.3 (Continued)
+
+scores obtained for the first and second half in each competency leads to a total of 3.7 points for the first half and 2.7 for the second half of the review period.
+
+The form also indicates that the key results have different weights. Specifically, KR #1 has a weight of .6 whereas KR #2 has a weight of .4. Consider KR #1. The objective for the first half was to achieve a sales figure of $78,000. The actual sales figure achieved by Carmello was $77,000, representing a 98.71% achievement, which is a score of 2. Multiplying this score times the weight of .6 yields 1.2 points for the first half of the review period. Similarly, for the second half, the goal was $80,000 and Carmello surpassed it by achieving a figure of $83,000, which represents a score of 3 (i.e., 103.75% achievement); therefore, the score for the second half is 3 (cid:5) .6 (cid:4) 1.8. Finally, the form shows that the total score for the first half for all key results combined is 1.6, whereas the score for the second half is 3.4. These scores were computed by simply adding the scores obtained in each half.

@@ -1,0 +1,3 @@
+# HBR / Digital Article / Executive Teams Are Losing Stakeholders’ Confidence. Here’s H…
+
+the demands of conﬂicting constituents and put the interests of the

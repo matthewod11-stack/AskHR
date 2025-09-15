@@ -1,0 +1,1 @@
+# ‘‘Equality Theory’’ as a Counterbalance to Equity Theory in Human Resource Management

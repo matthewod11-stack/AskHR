@@ -1,0 +1,1 @@
+## Published on HBR.org / December 27, 2019 / Reprint H05CAR

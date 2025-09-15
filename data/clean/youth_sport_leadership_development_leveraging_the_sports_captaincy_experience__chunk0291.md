@@ -1,0 +1,3 @@
+# Hold Participants More Accountable
+
+Another important goal is to develop an accountability piece to the program. Athletes are not developing real leadership if they use nothing they learned in their everyday lives. In turn, we would like to better encourage coaches and athletic directors to follow-up with their athletes and reinforce the imple- mentation of leadership skills learned in the program. For example, feedback might be provided to captains via a leadership report card. We have also pondered the idea of developing a protected online group for current and future captains to collaborate on leadership issues.

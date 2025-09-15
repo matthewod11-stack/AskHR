@@ -1,0 +1,3 @@
+# Level 5 (E)
+
+Exceptional Performance far exceeded expectations due to exceptionally high quality of work performed in all essentialareas of responsibility, resulting in an overall quality of work that was superior; and either 1) included the completion of a major goal or project or 2) made an exceptional or unique contribution in support of unit, department, or University objectives. This rating is achievable by any employee though given infrequently.

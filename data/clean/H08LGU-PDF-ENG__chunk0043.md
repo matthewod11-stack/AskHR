@@ -1,0 +1,1 @@
+## frequent and transparent communications between leaders and key

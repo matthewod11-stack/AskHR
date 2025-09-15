@@ -1,0 +1,3 @@
+# Individual-Level Relationships in Teams
+
+Research that focuses on relationships between individual traits and individual performance in team settings is an extension of ex- isting personality research. Grounded in an interactionist per- spective (Snyder & Ickes, 1985), these analyses suggest that teams create a setting requiring increased cooperation, thereby altering the impact of certain traits on individual performance (see Chap- ter Three, this volume). Team structure thus creates organization and team-level factors that inﬂuence individual-level personality relationships.

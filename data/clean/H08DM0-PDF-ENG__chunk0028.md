@@ -1,0 +1,1 @@
+## HBR / Digital Article / When Your New Boss Won’t Stop Making Hasty Decisions

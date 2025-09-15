@@ -1,0 +1,3 @@
+# Author: Violetta Khoreva
+
+Abstract: this study examines factors that explain employees’ perceptions of societal and workplace gender inequality. A theoretical model is developed based on the gender socialization perspective, anticipatory injustice model, relative deprivation and role-balance theories. The empirical analysis supports earlier studies arguing that there is a stronger belief among employees of widespread gender inequality in society in general than in their own workplaces. The results suggest that employees’ perceptions of societal and workplace gender inequality are related to different individual and employment factors.

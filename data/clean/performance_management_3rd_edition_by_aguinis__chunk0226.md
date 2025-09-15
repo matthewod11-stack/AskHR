@@ -1,0 +1,1 @@
+# TABLE 1.5 Characteristics of an Ideal

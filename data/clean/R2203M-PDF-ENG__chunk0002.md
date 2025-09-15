@@ -1,0 +1,1 @@
+## Case Study: What Does Diversity Mean in a Global Organization?

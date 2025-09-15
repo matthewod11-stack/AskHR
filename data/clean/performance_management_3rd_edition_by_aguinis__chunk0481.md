@@ -1,0 +1,5 @@
+## Part I • Strategic and General Considerations
+
+competing airline engaged in a dramatic downsizing of its Denver operations, leading to service gaps in various major markets that Frontier filled. Second, the city of Denver replaced the heavily congested Stapleton Airport with the much larger Denver International Airport.8 In February 2004, United Airlines, the largest carrier operating out of Denver International Airport, made changes in the environment that may have had a direct impact on Frontier’s strategic plan: United Airlines launched its own low-fare affiliate. The new affiliate, Ted, is going toe-to-toe with Frontier. Peter McDonald, vice president for operations for United Airlines, reported that Ted’s cost per available seat mile is in the ballpark of Frontier’s 8.3 cents.9 So, what had been an opportunity for Frontier may no longer remain one, given the launching of Ted.
+
+The following is a nonexhaustive list of external factors that should be considered

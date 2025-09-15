@@ -1,0 +1,5 @@
+# Intelligence
+
+more or less intelligent within a given cultural setting, but again, the biology of the brain will not settle the question of what behavior is considered intelligent within a given culture or why it is considered to be so.
+
+Another weakness of the approach, or at least of its use, has been invalid inferences. Suppose one ﬁnds that a certain evoked potential is correlated with a certain cognitive re- sponse. All one really knows is that there is a correlation. The potential could cause the response, the response could cause the potential, or both could be based upon some higher-order factor. Yet, reports based on the biological approach often seem to suggest that the biological response is somehow causal (e.g., Hendrickson & Hendrickson, 1980). Useful though the biological approach may be, it always will need to be supplemented by other approaches.

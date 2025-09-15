@@ -1,0 +1,1 @@
+## Entrepreneurial Orientation and Circular Business Practices:

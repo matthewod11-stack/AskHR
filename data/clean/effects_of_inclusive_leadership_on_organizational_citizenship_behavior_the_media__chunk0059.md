@@ -1,0 +1,3 @@
+# Managerial implications
+
+This study has proved the positive effects of inclusive leadership, learning culture on organizational employee OCB. We suggest that managers should raise awareness among supervisors of the positive effects of inclusive leadership on employee OCB. This leads to the generation of greater supervisor commitment to the application of inclusive leadership at work. Furthermore, managers should provide immediate supervisors

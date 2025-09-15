@@ -1,0 +1,1 @@
+## infrastructure company Vinci and Haier, the Chinese multinational

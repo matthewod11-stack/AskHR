@@ -1,0 +1,3 @@
+# Figure (cid:1008).(cid:1005)(cid:1008): Rati(cid:374)g of e(cid:373)plo(cid:455)ee rules a(cid:374)d regulatio(cid:374)s
+
+The study sought to establish about employee understanding and regulations at Mukurwe-ini Dairy Ltd. The study found out that most of the respondents (45%) were of the opinion that they understood employee rules and regulations to a moderate extent, 27% cited to a great extent and 28% to no extent at all. This implies that employee rules and regulations were understood to a moderate extent at Mukurwe-ini Dairy Ltd. According to

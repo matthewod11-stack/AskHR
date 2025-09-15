@@ -1,0 +1,3 @@
+# Descriptive statistics
+
+Table 2 presents the means, standard deviations, bivariate correlations, and Cronbach’s alpha coefficients for each variable. All scales showed acceptable internal consistency. In general, participants obtained scores above the mid-point of the scale for role clarity, task conflict, task and social cohesion, collective efficacy, intention to continue, and perceived team perfor- mance. Participants also obtained scores for role conflict and relationship conflict that were close to the mid-point of the scale. With respect to the correlations, it is interesting to note that the correlations between the different leadership roles (i.e., task, social, and external) were rela- tively low (i.e., ranging between .04 and .31).

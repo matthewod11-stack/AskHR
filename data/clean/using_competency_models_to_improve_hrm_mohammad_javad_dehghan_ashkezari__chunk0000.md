@@ -1,0 +1,1 @@
+# Ideal Type of Management

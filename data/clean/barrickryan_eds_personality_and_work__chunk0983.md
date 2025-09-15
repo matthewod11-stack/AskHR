@@ -1,0 +1,1 @@
+## Attraction-selection-attrition (ASA) model of organizational behav- ior, 221–222

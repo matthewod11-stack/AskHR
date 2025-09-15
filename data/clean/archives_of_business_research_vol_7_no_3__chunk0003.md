@@ -1,0 +1,1 @@
+# Jamshid Ali Turi Managing Director, the Smart School and College System Parachinar Campus, Pakistan

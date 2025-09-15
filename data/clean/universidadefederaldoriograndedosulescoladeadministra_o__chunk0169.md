@@ -1,0 +1,1 @@
+## prevê dois processos fundamentais: o processo de comprometimento da saúde e o

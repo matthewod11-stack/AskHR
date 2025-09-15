@@ -1,0 +1,1 @@
+## Acceptance stage, 539 Accommodating style, 504 Achievement-oriented style, 451

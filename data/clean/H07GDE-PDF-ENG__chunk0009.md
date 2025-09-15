@@ -1,0 +1,1 @@
+## ﬁrings” and face backlash on social media.

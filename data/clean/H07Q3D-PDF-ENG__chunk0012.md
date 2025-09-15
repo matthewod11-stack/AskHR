@@ -1,0 +1,3 @@
+# HBR / Digital Article / Research: A Little Nature in the Office Boosts Morale and Produ…
+
+Bearing these ﬁndings in mind, we believe that nature should be

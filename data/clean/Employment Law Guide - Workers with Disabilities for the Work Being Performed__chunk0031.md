@@ -1,0 +1,1 @@
+# and quantity of work in the geographic area from which the labor force of the community is drawn. The key

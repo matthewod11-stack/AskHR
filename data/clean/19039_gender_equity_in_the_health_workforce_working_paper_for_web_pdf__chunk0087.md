@@ -1,0 +1,1 @@
+# Health workforce earnings as physician

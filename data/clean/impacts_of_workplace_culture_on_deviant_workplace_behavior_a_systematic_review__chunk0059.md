@@ -1,0 +1,3 @@
+# Discussion
+
+The purpose of this research was to perform a compre- hensive review of the literature on the impact of work culture on deviant workplace behavior. Despite having well-established organizational cultural instruments for measuring organizational culture, the related underlying culture variables are very much not known. The broad definition of culture and the overlapping framework and model of organizational culture and its impact on work- place deviant merits a systematic and thorough investiga- tion. Consequently, we analyzed systematically several studies on the influence of workplace culture on deviant

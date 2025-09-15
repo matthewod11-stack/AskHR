@@ -1,0 +1,3 @@
+# The HR Manager System
+
+The HR Manager was designed to provide human resource professionals and line man- agers with the data necessary to make in- formed HR decisions. The HR Manager has undergone significant transformations as tech- nology has improved and as users have pro- vided suggestions. The HR Manager evolved from a strict data delivery system to one con- taining competency-based HR products (for

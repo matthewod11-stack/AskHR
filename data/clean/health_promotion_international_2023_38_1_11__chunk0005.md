@@ -1,0 +1,11 @@
+# Contribution to Health Promotion
+
+- A sense of belonging to the organization or team is more important for employees’ health at work than addressing life style issues.
+
+- To create a sense of belonging it is impor- tant that employees feel appreciated by managers and that their expertise is used in decision-making. It is vital for health promotion at work that activities are shaped and developed with the employees instead of for the employees.
+
+‘that positive and supportive work relationships fos- ter experiences of self-worth and belonging and are essential for channelling suggestions for improvements in the work environment’ (ibid, p. 72). Based on these findings, Gunnarsdóttir and Björnsdóttir prioritize human relations at work above individual health behaviour measures, explicitly mentioning belonging as a key prerequisite for workplace health (ibid).
+
+The pandemic made clear how important the feel- ing of belonging to a group of co-workers can be for employees’ well-being while doing their work from home and how it supported them in dealing with pandemic challenges like home schooling and digi- tal communication (Allgood et al., 2022). A lack of belonging, however, often resulted in feelings of dis- placement, insecurity and stress. Although the value of belonging is increasingly acknowledged, it remains unclear what it exactly entails within dynamics at the workplace and how belonging is experienced (or not) in relation to health at work. On the basis of ethno- graphic fieldwork in two companies, this paper will shed light on the relations between work, health and belonging.
+
+Belonging and health To Hagerty et al. (Hagerty et al., 1992) belonging has two fundamental characteristics: being valued, needed or important for others or in a specific context and the feeling of fitting in through shared or complementary features. People experience belonging when they ‘feel themselves to be an integral part of [a] system or envi- ronment’ (p. 173). The feeling to be an integral part of a family, group of friends, community or a work- place has the potential to foster or, when absent, to impact our perceived health. Psychologists Baumeister and Leary (Baumeister and Leary, 1995, p. 520) state that belongingness is a human need instead of merely a want:

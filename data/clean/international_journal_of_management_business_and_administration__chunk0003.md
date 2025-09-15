@@ -1,0 +1,9 @@
+# ABSTRACT
+
+Locke and Latham provide a well-developed goal-setting theory of motivation. The theory emphasizes the important relationship between goals and performance. Research supports predictions that the most effective performance seems to result when goals are specific and challenging, when they are used to evaluate performance and linked to feedback on results, and create commitment and acceptance. The motivational impact of goals may be affected by moderators such as ability and self-efficacy. Deadlines improve the effectiveness of goals. A learning goal orientation leads to higher performance than a performance goal orientation, and group goal-setting is as important as individual goal- setting.
+
+Goals have a pervasive influence on employee behavior and performance in organizations and management practice (Locke & Latham, 2002). Nearly every modern organization has some form of goal setting in operation. Programs such as management by objectives (MBO), high-performance work practices (HPWPs), management information systems (MIS), benchmarking, stretch targets, as well as systems thinking and strategic planning, include the development of specific goals.
+
+Furthermore, goal setting is the underlying explanation for all major theories of work motivation—whether that be Vroom’s (1994) VIE theory, Maslow’s (1970) or Herzberg’s (2009) motivation theories, Bandura’s (1986) social cognitive theory, or operant-based behaviorism (Skinner, 1979). Managers widely accept goal setting as a means to improve and sustain performance (DuBrin, 2012). Based on hundreds of studies, the major finding of goal setting is that individuals who are provided with specific, difficult but attainable goals perform better than those given easy, nonspecific, or no goals at all. At the same time, however, the individuals must have sufficient ability, accept the goals, and receive feedback related to performance (Latham, 2003).
+
+1

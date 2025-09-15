@@ -1,0 +1,1 @@
+# For example, here’s how you would equip the agent de(cid:2)ned above with a series of tools when using the Agents SDK:

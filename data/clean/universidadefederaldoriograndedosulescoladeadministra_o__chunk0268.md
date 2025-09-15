@@ -1,0 +1,1 @@
+## Por fim, Sedlak (2020) ainda cita Legerstee (2013), relatando que sua

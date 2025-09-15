@@ -1,0 +1,1 @@
+## HBR / Digital Article / Research: Hiring a Superstar Can Backfire

@@ -1,0 +1,3 @@
+# HBR / Digital Article / 3 Types of Silos That Stifle Collaboration—and How to Dismantle…
+
+morale, and job satisfaction emerge between departments, it signals the

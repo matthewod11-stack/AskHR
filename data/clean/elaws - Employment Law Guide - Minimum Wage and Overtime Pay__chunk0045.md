@@ -1,0 +1,1 @@
+# It is a violation of the Act to ﬁre or in any other manner discriminate against an employee for ﬁling a complaint

@@ -1,0 +1,1 @@
+## the broader perspective of the dynamic capability view (Raj et al., 2023).

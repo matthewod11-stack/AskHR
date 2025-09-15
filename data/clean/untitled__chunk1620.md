@@ -1,0 +1,1 @@
+## American Psychological Association. (2000). Membership dues

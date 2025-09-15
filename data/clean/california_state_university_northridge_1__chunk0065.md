@@ -1,0 +1,1 @@
+# Protection on Intellectual Capital sixth, Mandatory Arbitration sevent~ Mental and Emotional

@@ -1,0 +1,1 @@
+## ordem de relevância: ambiente de trabalho, visão e ambição da empresa, pressão

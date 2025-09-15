@@ -1,0 +1,1 @@
+## TABLE II Professional and Administrative Study Rating Scales.

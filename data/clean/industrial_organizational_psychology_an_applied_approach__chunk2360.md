@@ -1,0 +1,1 @@
+# Self-effi cacy Internal locus of control

@@ -1,0 +1,1 @@
+## Watson, J. B. (1924). Psychology, from the standpoint of a behav-

@@ -1,0 +1,1 @@
+# Create a new file name with the prefix and the file extension new_filename = f"{prefix}_{os.path.splitext(file )[0]}{ext}"

@@ -1,0 +1,11 @@
+## HBR / Magazine Article / The CEO of Kaspi.kz on Designing an Essential Superapp
+
+credentials. As our makeup shifted from 90% retail bank to an even split
+
+among ﬁntech, marketplace, and payments, we have helped to shift
+
+the country’s economy from 85% cash-based to 85% cashless, and we
+
+are one the top ﬁve corporate taxpayers there. And most important, we
+
+make our customers happy—with NPS ratings of 80 to 90 across the

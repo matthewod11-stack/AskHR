@@ -1,0 +1,1 @@
+# Tushman, M.L. (2000). Beyond the charismatic leader: leadership and organizational change. California

@@ -1,0 +1,1 @@
+## Table 2. Characteristics of the Respondents

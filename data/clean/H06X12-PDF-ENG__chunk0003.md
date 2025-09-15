@@ -1,0 +1,1 @@
+## HBR / Digital Article / A New Way to Explain the Pause in Your Career

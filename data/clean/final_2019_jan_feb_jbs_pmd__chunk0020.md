@@ -1,0 +1,5 @@
+# Exchange Rate.
+
+- 1. Introduction
+
+The world experienced a massive transformation process of globalization in terms of economic production and investment. The role of investment (FDI) in the process of transformation is very decisive. FDI has become a principle criterion of economic development in both developed and developing countries. FDI is defined as an ‘investment involving a long-term relationship and reflecting a long-lasting interest and control by a resident entity of one country of an enterprise resident in a different economy’. FDI influences the income, prices, production, employment, development and economic growth and general welfare of the South Asian countries. The benefit of FDI can be in the form of knowledge and technology spillover, employment generation and enterprise development. FDI going in and out of these emerging and transition economies like Sri Lanka, Pakistan, India, Bhutan, Afghanistan, Nepal, Maldives and Bangladesh collectively known as South Asian

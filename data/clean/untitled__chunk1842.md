@@ -1,0 +1,5 @@
+## The Third Version of Freud’s Psychoanalytic Theory of Psychopathology
+
+When Freud discarded his seduction theory, he recognized that his patients had been right in expressing their disbelief in the recollections he had forced upon them. However Freud did not relinquish his belief in a universal sexual etiology for the neuroses; instead he modiﬁed his theory. “Analysis had led by the right paths back to these sexual traumas and yet they were not true. At that time I would gladly have given up the whole thing . . . perhaps I persevered only because I had no choice and could not then begin at anything else. . . .” (Freud, 1914/1950b, p. 299). If Freud’s theory of the sexual etiology of neurosis, with its accompanying concepts of re- pressed memories and resistance to recovery of repressed memories, was invalid, it followed that his psychoanalytic method of treating patients by retrieving repressed memories was invalid. In that event, Freud would have had to abandon both his method of analysis and of therapy.
+
+323

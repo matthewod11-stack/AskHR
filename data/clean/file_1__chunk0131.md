@@ -1,0 +1,5 @@
+# 3.2.2. Key operationalisation
+
+The first thesis paper concentrates particularly on employees’ perceptions. This paper aims at emphasizing the peculiarity that far more employees perceive gender inequality in the society in general than in their workplaces. For this purpose, the first thesis paper makes a distinction between employees’ perceptions of gender inequality in society (‘Perceptions of Societal Gender Inequality’) and in their own workplaces in particular (‘Perceptions of Workplace Gender Inequality’).
+
+‘Perceptions of Societal Gender Inequality’ were measured by a two-item index. While the first item measures status of men and women in society, the second one measures their opportunities. The correlation between the items was .404** (2-tailed), which is significant at the 0.01 level. Firstly, respondents were asked: (a) ‘if we assess quite generally the status

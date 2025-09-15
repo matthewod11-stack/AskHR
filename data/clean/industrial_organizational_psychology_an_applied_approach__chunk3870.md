@@ -1,0 +1,1 @@
+## Group–group conflict Conflict between two or more

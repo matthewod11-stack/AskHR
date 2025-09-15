@@ -1,0 +1,1 @@
+# Locus of authority

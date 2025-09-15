@@ -1,0 +1,9 @@
+# 2 PERSONALITY AND WORK
+
+view. It refers simultaneously to characteristics that are (1) ascribed to individuals, (2) stable over time, and (3) psychological in na- ture. Yet it also acknowledges that mechanisms explaining these traits may be difﬁcult to isolate and measure.
+
+Deﬁnitions make one’s assumptions explicit, so how one de- ﬁnes personality is quite consequential: it affects how one selects variables when studying personality phenomena. What if one were to rely on some of the philosophical deﬁnitions of personality re- viewed by Allport (1937), such as “the quality in every man which makes him worthwhile” (Adler, 1929, p. 8), “individuality which has become objective to itself” (Windelband, 1921, p. 281), or “self- hood” (Crutcher, 1931, p. 75)? With such deﬁnitions, one would hardly care to study the individual’s actual behaviors at all.
+
+But Allport’s deﬁnition (1937) also highlights attributes that are seen as residing within the individual. Other ways of deﬁning personality emphasize more external types of attributes, such as the role one assumes or the status one has achieved in society, one’s external appearance (including personal attractiveness), and the reactions of others to the individual as a stimulus—that is, the person’s social stimulus value (see MacKinnon, 1944). In work set- tings, of course, appearances are important. Moreover, Triandis (2001) suggests that in collectivist cultures, external factors are considered more important to personality than are the internal traits emphasized in individualist cultures.
+
+Individual differences in externally deﬁned attributes may be interwoven with individual differences in temperamental traits. Consider terms like magnetic, charming, powerful, and likeable, which seem to be partly internal and partly responses to the individual. Later in the chapter, we explore some structural models for per- sonality that include such attributes.

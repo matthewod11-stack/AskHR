@@ -1,0 +1,3 @@
+# b. Servant Leadership
+
+Servant leadership places the leader's focus on serving the needs of their team members and the organization as a whole. This style emphasizes humility, empathy, and a commitment to the well- being of others. Servant leaders prioritize the development and growth of their employees, believing that by supporting their team, the organization will thrive. Servant leaders often lead by example, demonstrating the values and behaviors they expect from their team members. This approach creates a culture of trust and collaboration, leading to improved overall performance.

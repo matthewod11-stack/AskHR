@@ -1,0 +1,3 @@
+# References
+
+organized and would represent the levels of analysis that are intrinsic to different areas of development, just as we have longrecognizedthatbiological,biochemical,andsociallevels of inquiry may each have its own set of integrative principles (Sameroff, 1994). Multiple integrative approaches may be neededtocoverdifferentpartsofthedevelopmentterrain.The goal is to retain the advances that our retreat to minitheories has brought but, at the same time, to begin to put the “whole child” back together again. Our forebears had the vision to see this as the goal, and we should be in a better position to achieve it now than they were a century ago.

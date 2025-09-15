@@ -1,0 +1,5 @@
+# 1.4 DEFINITION OF REWARD SYSTEMS
+
+An employee’s compensation, usually referred to as tangible returns, includes cash compensation (i.e., base pay, cost-of-living and merit pay, short-term incentives, and long-term incentives) and benefits (i.e., income protection, work/life focus, tuition reimbursement, and allowances). However, employees also receive intangible returns, also referred to as relational returns, which include recognition and status, employment security, challenging work, and learning opportunities. A reward system is the set of mechanisms for distributing both tangible and intangible returns as part of an employ- ment relationship.
+
+It should be noted that not all types of returns are directly related to performance management systems. This is the case because not all types of returns are allocated based on performance. For example, some allocations are based on seniority as opposed to performance. The various types of returns are defined next.25

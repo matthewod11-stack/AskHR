@@ -1,0 +1,3 @@
+# macroeconomic indexes e.g, Gross Domestic Product, inflation rate, and average salary...
+
+Labor market data can also be acquired from job advertisements and job openings in the

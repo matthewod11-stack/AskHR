@@ -1,0 +1,15 @@
+# Understand AI-assisted resume screens.
+
+While AI isn’t expected to entirely replace recruiters, many
+
+organizations are relying on AI-powered applicant-tracking systems
+
+to screen potential candidates for applicable skills. Systems such
+
+as Workday, Oracle HCM, and Greenhouse will surface qualiﬁed
+
+candidates from internal and external talent sources and then evaluate
+
+and rank those candidates for the strongest ﬁt. That’s why it may feel
+
+like you’re sending hundreds of resumes and cover letters to a black

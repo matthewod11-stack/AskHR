@@ -1,0 +1,1 @@
+## attrition_data[field] = encoder.fit_transform(attrition_data[field])

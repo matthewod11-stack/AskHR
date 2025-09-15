@@ -1,0 +1,5 @@
+# OPEN ACCESS
+
+Citation: Qi L, Liu B, Wei X, Hu Y (2019) Impact of inclusive leadership on employee innovative behavior: Perceived organizational support as a mediator.PLoS ONE 14(2): e0212091.https://doi. org/10.1371/journal.pone.0212091
+
+Despite extensive literature on leadership and its impact employee innovative behavior, few studies have explored the relationship between inclusive leadership and employee innova- tive behavior. To address this gap, this study aimed to investigate how inclusive leadership influenced employee innovative behavior by examining perceived organizational support (POS) as a mediator. We used multi-wave and multi-source data collected at 15 companies in China to test our theoretical model. Results revealed that inclusive leadership had signifi- cantly positive effects on POS and employee innovative behavior. Furthermore, POS was positively related to employee innovative behavior and partially mediated the relationship between inclusive leadership and employee innovative behavior. We discussed implications and limitations of this study as well as avenues for future research.

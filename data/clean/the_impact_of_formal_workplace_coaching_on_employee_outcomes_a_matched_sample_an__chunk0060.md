@@ -1,0 +1,3 @@
+# HUMAN RESOURCE DEVELOPMENT INTERNATIONAL
+
+As hypothesised, participants who received formal coaching reported significantly higher levels of meaningful work (β = .31, p = .01) and OCBs individual (β = .30, p = .01) and organisational (β = .47, p < .01), supporting Hypothesis 1(a) and (b). Conversely, formally coached participants exhibited weaker turnover intentions and CWBs, but the latent mean differences were not statistically significant (p > .05for both). Thus, Hypothesis 2(a) and (b) were not supported.

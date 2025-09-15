@@ -1,0 +1,1 @@
+## and misused—traits in the portfolio company talent equation: agility

@@ -1,0 +1,1 @@
+# Ask for the folder name echo "Enter the folder name: " read folder_name

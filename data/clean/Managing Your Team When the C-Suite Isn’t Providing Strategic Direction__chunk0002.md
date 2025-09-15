@@ -1,0 +1,1 @@
+## Managing Your Team When the C-Suite Isn’t Providing Strategic Direction

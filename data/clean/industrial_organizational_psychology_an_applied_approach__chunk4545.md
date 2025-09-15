@@ -1,0 +1,1 @@
+## practical significance, 92 statistical significance, 91 typical adverse impact

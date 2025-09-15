@@ -1,0 +1,1 @@
+## cruzamento com demais variáveis depois, na etapa de análise.

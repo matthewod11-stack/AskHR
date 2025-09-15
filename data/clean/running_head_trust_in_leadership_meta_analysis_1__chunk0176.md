@@ -1,0 +1,1 @@
+## member social exchange (LMSX): Development and validation of a scale. Journal of

@@ -1,0 +1,3 @@
+# KK
+
+Ksenia Keplinger is a Scholar-in-Residence at University of Colorado’s Leeds School of Business. Her research interests include diversity and inclusion, gender biases in the workplace, gig economy, and virtuous leadership. Ksenia earned her BS in International Economics from the National Research University Higher School of Economics, Russia and her Ph.D. at Johannes Kepler University of Linz, Austria.

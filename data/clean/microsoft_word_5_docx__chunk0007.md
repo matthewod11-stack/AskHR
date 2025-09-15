@@ -1,0 +1,7 @@
+# H istory of sports
+
+In primitive times, sports provided a social identity as well as a way to adapt to the environment. The practice of sports formed part of daily life: our ancestors ran in order to escape from bigger animals, fought against their enemies, and swam to get from one place to another by crossing rivers…
+
+Sports have been widely investigated throughout history. In primitive times, it was a competition characterized by ethics, values and survival. In today’s society, it is an activity promoted as way of growth, development of healthy habits, entertainment, and leisure (Rodríguez, 2000). Thus, sports reflect a sociocultural and educational phenomenon and are a part of human history since its beginnings. Sports are part of human culture. The simple urge to compete is innate to human beings (García Ferrando, 1982). With the evolution of society, the idiosyncrasies of each village, and the culture of different periods, the term “competition” came into being in the language of sports.
+
+Along these lines, Cagigal (1975) indicates that sports are something intrinsic to human nature which has always managed to manifest itself since the beginning of man’s existence. García Ferrando (1990) considers sports as a source of health: physical, mental, as well as social (Lucas-Marín, 1986; Cazorla, 1979).
