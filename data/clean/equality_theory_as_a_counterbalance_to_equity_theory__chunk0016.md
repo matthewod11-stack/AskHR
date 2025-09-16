@@ -1,1 +1,11 @@
-# for
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: f18d59b28afb824c2a2ee1162600d1fb4fe7f7a5
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# D. A. Morand, K. K. Merriman
+
+are created equal; that they are endowed by their Creator with inherent and inalienable rights; that among these are life, liberty, and the pursuit of happiness….’’ These are what John Locke deemed ‘‘natural rights’’ (also called moral rights or unalienable rights), namely rights that were not contingent upon the laws, customs, or beliefs of a particular society or polity (Locke 1689/2010).2
+
+Equality, in an existential sense, is a profound concept, and potentially wide-reaching in terms of its diverse pos- sible readings and implications. Within an organizational arena, it is not here implied that individuals must always enjoy the very same equalities that they enjoy in the larger society. Our contention is simply that in the workplace individuals, by virtue of their existence—and hence by their simple membership in an organization, may likely perceive that they are privileged with certain basic modes of treatment as individuals. Overall, we are not making claims as to just how far organizations will or must travel in terms of an equality of distribution. Ultimately, this becomes both a pragmatic question (in terms of organiza- tions’ motives implementing greater distributive equality relative to their desire to engage in human resource practices that may be more competitive in the marketplace), and also an ethical question (in terms of organizations’ potential obligations to practice greater distributive equality due to its intrinsic potential to make workplaces more just). Here we are merely making the limited claim that, to the degree one proposes to study distributive equality within an organizational context, that existential equality is one very proper, yet heretofore neglected, root conceptualization. To further ﬂesh out how this may operate in practice, we will next consider speciﬁc ways an existential form of distributive equality resides or may be extended within organizations.

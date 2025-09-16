@@ -1,15 +1,11 @@
-# level of job satisfaction.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3c66b58801738956ccaee8cae3eaa55b1a88d99c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# monetary worth of a job.
 
-Job knowledge test A test that measures the amount of job-related knowledge an applicant possesses.
+Job fair A recruitment method in which several
 
-Job participation A job analysis method in which the job analyst actually performs the job being analyzed.
-
-Job related The extent to which a test or measure taps
-
-a knowledge, skill, ability, behavior, or other characteristic needed to successfully perform a job.
-
-Job rotation A system in which employees are given
-
-the opportunity to perform several different jobs in an organization.
-
-Job satisfaction The attitude employees have toward
+employers are available at one location so that many applicants can obtain information at one time. Job in General (JIG) Scale A measure of the overall

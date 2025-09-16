@@ -1,11 +1,7 @@
-## trabalhador, sendo que sua energia e seu esforço laboral são investidos nas
-
-atividades com as quais o trabalhador se identifica, se realiza profissionalmente ou
-
-sente prazer ao executar. Sua definição é de um conceito único e independente,
-
-diferenciado de outros conceitos similares, como comprometimento organizacional
-
-ou satisfação no trabalho, e também não se trata de uma sensação momentânea em
-
-relação ao trabalho, mas sim de um fenômeno disposicional estável ao longo do
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: cc845b0fd40c27757437c695f2021f1eb7a432bb
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Schaufeli e Salanova (2007) como sendo um estado mental positivo para o

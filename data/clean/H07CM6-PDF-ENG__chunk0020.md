@@ -1,25 +1,17 @@
-# value in most corporate environments.
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be9bec498a3274ceef5e6aa2ec26e51548e1a05d
+title: H07CM6-PDF-ENG
+---
+## Why Human Connection Matters as Much as the Bottom Line
 
-Andrew K., for example, is a senior leader who measured himself
+Many corporate leaders I’ve worked with have limited access to their
 
-almost exclusively based on his company’s bottom line. He felt safe
+hearts — meaning sensitivity to their own feelings and emotional needs,
 
-and comfortable in the objective world of numbers. Awakening the
+and empathy for the feelings and needs of others. This is especially
 
-intelligence of his heart began with his willingness to explore the fears
+true of leaders who are motivated primarily by external rewards such as
 
-and discomfort that arose when he turned his attention to what he was
-
-feeling, and how he aﬀected others.
-
-Over time, Andrew discovered that he had been holding his desire for
-
-more human connection at a distance, believing that it would make him
-
-more vulnerable, and get in the way of his external goals. As he allowed
-
-himself to have more personal relationships with colleagues, he also
-
-found that collaboration with them became easier, and that conﬂicts got
-
-resolved more rapidly.
+money, power, and recognition, which are the predominant signiﬁers of

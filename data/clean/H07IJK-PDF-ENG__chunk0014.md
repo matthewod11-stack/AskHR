@@ -1,33 +1,23 @@
-# In practice:
+---
+source_path: H07IJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aab87248ae672078941241189372691f900131d0
+title: H07IJK-PDF-ENG
+---
+# Cultural Learning
 
-For one new executive, understanding the cultural expectations and
+Questions to ask yourself:
 
-behaviors of business reviews allowed the leader to do extensive
+- What are the unwritten rules that would be helpful for someone
 
-preparation before important meetings. “As I took the new role, one
+coming in new to our company?
 
-of my colleagues sat me down and said that I would be getting lots
+- What insights into decision-making, collaboration, and working
 
-of questions on the ﬁnances and that the expectation was that I knew
+together would help someone integrate faster?
 
-the ﬁgures cold. As an engineer, that meant spending signiﬁcant time
+- What are the culture-speciﬁc expectations or landmines that an
 
-understanding the current ﬁnancials and the reasons behind them. It took great eﬀort, but it was helpful advice for my success in the role.”
+incoming leader needs to know?
 
-One leader joined a consumer packaged goods company with a long
-
-and rich history. Looking back, he realized the diﬃculty of navigating
-
-the culture. “When giving a PowerPoint, the expectation was that the
-
-company brand colors were used in a particular way,” he recalled.
-
-“However, they didn’t share that with me. After presenting a proposal
-
-without using these colors, another leader told me it damaged my
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- What acronyms are common in our company?

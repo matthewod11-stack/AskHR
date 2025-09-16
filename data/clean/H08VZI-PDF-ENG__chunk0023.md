@@ -1,37 +1,29 @@
-## Fear-Based Culture: Low Connection, Low Courage
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0026ba2642fd3bbcdd3f5366ef2693d88be6749
+title: H08VZI-PDF-ENG
+---
+## HBR / Digital Article / The Secret to Building a High-Performing Team
 
-There is a third culture type that acts as a barrier to people taking risks
+for everyone and gets in the way of the team being able to explore
 
-to do hard things: fear-based. In this culture, which made up 16% of our
+disagreements or talk through tensions together. These managers often
 
-sample, teams have both low connection and low courage.
+hold a belief that the only way to get results is by pushing their people to
 
-This type of team culture can feel similar to a transactional culture, but
+do more, creating impossible targets and unreasonable timelines (often
 
-it is characterized by inconsistency and unpredictability. At least in a
+driven by pressure they feel from above).
 
-transactional culture, people know how their manager is going to show
+In a transactional culture, short-term results can be achieved, but they
 
-up. In fear-based cultures managers are all over the place: sometimes
+are generally not sustainable because, over time, team members feel
 
-they provide feedback and are open to listening to team members,
+less of a sense of belonging and an emotional commitment. They start
 
-but other times they oﬀer no feedback and do not listen. This lack of
+to check out, burn out, stop giving discretionary eﬀort, and are less open
 
-consistency creates great anxiety and causes people to feel like they are
+to putting themselves on the line to take risks. They also, relatedly, have
 
-walking on eggshells. They stop taking risks, such as speaking up when
-
-they see something wrong or when they have an idea that could help,
-
-for fear of personal judgment. The groupthink that happens is less about
-
-not wanting to upset others, as in a family culture, and more about
-
-self-preservation. People don’t want to put themselves in harm’s way.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+an increased intention to leave.

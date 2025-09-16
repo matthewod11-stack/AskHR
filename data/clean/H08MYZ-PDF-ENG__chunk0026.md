@@ -1,11 +1,9 @@
-## VidRecruiter, CodeSignal, and Brazen to pre-screen candidates through
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ce1a7177c4690ac58c921cc3679e35f870cab04
+title: H08MYZ-PDF-ENG
+---
+# Prepare for AI-assisted interviews.
 
-written and video questions. These programs assess the answers to
-
-surface top candidates for recruiters. But simply receiving a request for
-
-a video interview doesn’t necessarily mean you’re in the hiring process
-
-—some companies send these questions out to everyone who applied
-
-for the job or to a selection of people whose resumes were surfaced by
+Many companies are using AI technology such as HireVue,

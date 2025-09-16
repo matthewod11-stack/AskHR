@@ -1,15 +1,19 @@
-# easily access.
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6b946fcd560f2b5eba79981d4d6b0b95599eac46
+title: H07YIA-PDF-ENG
+---
+## mentee with the greatest expertise within the team.
 
-Although you are still responsible for mentoring each individual
+Creating mentee teams enables them to operate semi-autonomously.
 
-long-term, creating subgroups allows you to mentor more eﬃciently
+For example, teams can meet on their own on a scheduled basis.
 
-by creating a team-based support structure for everyone, delegating
+More senior or experienced members of the team can help mentor
 
-day-to-day career development questions to each sub-group leader,
+less-experienced members. Senior members beneﬁt from this structure
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+by learning how to properly mentor early on in their careers, while
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+less-experienced members beneﬁt from having a “go to” person they can

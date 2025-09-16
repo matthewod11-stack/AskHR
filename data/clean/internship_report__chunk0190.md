@@ -1,29 +1,35 @@
-# Job Rotation
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: d45124eec9b4ac648312123eb1d29e595c6107e8
+title: internship_report
+---
+# III.(cid:32) Probation/Trial
 
-Karnaphuli Group Job Rotation is the systematic movement of employees from one job to
+Prior to being engaged on a permanent basis, Employees shall undergo a Trial period for one
 
-another within the organization as a way to achieve many different human resources objectives
+month or Probationary period not exceeding at least 03 (three) to 06 (Six) calendar months in the
 
-such as orienting new employees, training employees, enhancing career development and
+first instance. However, the Trial period may be extended for a further period of up to 03 (three)
 
-preventing job boredom or burnout. It is considered as an effective tool for successful
+calendar months and Probationary period may be extended for a further period of up to 06 (six)
 
-implementation of HR strategy. It is about settling employees at the right place where they can
+calendar months at the discretion of the Company. The service may be terminated at any time
 
-deliver the maximum results. It is also practiced to allow qualified employees to achieve more
+during probation/Trial period without any notice or pay in lieu thereof, if performance of
 
-insights into the processes of a company, and to reduce boredom, which increases job
+individual is not satisfactory. On successful completion of the probationary period, the employee
 
-satisfaction through job variation. There are outcomes of job rotation with respect to the
+shall be given a letter of confirmation. Probationary employment, the employee concerned shall
 
-individual are:
+be entitled, after settlement of pending accounts if any, to the payment of salary up to and
 
-- (cid:32) Job enrichment (cid:32) Over all development (cid:32) Effective motivation to perform caused by newer challenges (cid:32) Career development (cid:32) Leadership development
+including the date of termination of employment and no other claims against the Company or the
 
-HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:50)(cid:49)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
+employee shall arise out of or during the course of employment except where expressly provided
 
-(cid:32) (cid:32) (cid:32) (cid:32)
+in this Terms and Conditions of Employment and except such claims as may arise under the
 
-- (cid:32) Aligning competencies with organizational requirements (cid:32) Performance improvement to new people by unique point of view
+provisions of any law for the time being in force.
 
-On discussion with departmental head/line manager, Human Resource department can reallocate
+IV.(cid:32)

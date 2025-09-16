@@ -1,25 +1,43 @@
-# central place in microeconomics.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: e7ed0c6c15627c026d918511e26c0b9ad32083e5
+title: behavioral_economics_1
+---
+# smart theorists and graduate students.
 
-Herbert Simon was a towering figure in the development of behavioral economics. Simon coined the
+Excluded from Table 1, and from the discussion in of basic ideas in section III, are a rapidly-emerging
 
-terms “bounded rationality” and “procedural rationality” and sowed the seeds for the analyses of rationality
+variety of formal “dual system” models, drawing on old dichotomies in psychology. These models generally
 
-bounds that are the substance of this paper. Despite the influence of Simon’s language, he had in mind a style
+retain optimization by one of the systems and make behavior of another system automatic (or myopic) and
 
-of theorizing that has not caught on in economics. Influenced by cognitive science and the information
+nonstrategic, so that extensions of standard tools can be used. (Intuitively, think of part of the brain as
 
-processing model of human decision making, Simon thought good theories might take the form of algorithms
+optimizing against a new type of constraint—an internal constraint from another brain system, rather than a
 
-which describe the procedures that people and firms use.
+budget constraint or an external constraint from competition.) In Kahneman (2003) the systems are intuitive
 
-The economist in modern times who carries Simon’s methodological torch is Ariel Rubinstein (e.g., see
+and deliberative systems (“systems 1 and 2”). In Loewenstein and O’Donoghue, 2004) the systems are
 
-his 1998 book). Rubinstein’s models are often stylized to a particular economic application and describe the
+deliberative and affective; in Benhabib and Bisin (2005) the systems are controlled and automatic; in Fudenberg
 
-mathematical result of particular algorithms which embody rationality limits. While these models are widely-
+and Levine (2004) the systems are “long-run” (and controlling) and “short-run”; in Bernheim and Rangel
 
-known, in many cases they have not led to a sustained program of research, as his seminal work on bargaining
+(2005) the systems are “hot” (automatic) and “cold”. In Brocas and Castillo (2005) a myopic “agent” system
 
-has. Rubinstein’s frustration with inattention to models driven by similarity judgment, a central concept in
+has private information about utility, so a farsighted “principal” (who cares about the utility of all agents)
 
-psychology, is evident in his 2003 discussion of models of time preference.
+creates mechanisms for the myopic agents to reveal their information.
+
+These models are more alike than they are different. In the years to come, careful thought will probably
+
+sharpen our understanding of the similarities and differences among models. More thought will probably point
+
+24
+
+to more general formulations that include models like those above as special cases, narrowing the focus of
+
+attention. And of course, empirical work is needed to see which predictions of different models hold up best,
+
+presumably inspiring some refinements that might eventually lead to a single model which could occupy a

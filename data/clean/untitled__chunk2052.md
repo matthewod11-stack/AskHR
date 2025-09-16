@@ -1,9 +1,11 @@
-# SUMMARY
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3c7f7ab81cba43889b640f7d0511a1b02b01f119
+title: untitled
+---
+# Summary
 
-Perhaps it is most important to know that counseling psy- chology does have a history, one that is embedded in the American experience of the twentieth century that stressed the triumph of turning raw materials into ﬁnished products with precision and efﬁciency. The application of this to the human experience, while a desired goal, was a messier proposition.
+APA-accredited doctoral programs (APA, 2000), and two major journals (The Journal of Counseling Psychology and The Counseling Psychologist). Counseling psychologists are found in higher education, industry, government, and health care (private and nonproﬁt). As an organization, counseling psychology has a uniﬁed existence within Division 17, which provides a forum for debate, sets policy through coordinated meetings and conferences, reorganizes itself to the demands of the times, and recognizes its members through a variety of awards and honors (Blocher, 2000; Meara & Myers, 1999). Since its inception, the division has worked on the issue of identity, the most recent deﬁnition of counseling psychology appearing in 1998 (APA, 1999):
 
-The genesis of counseling psychology can be found in the vocational guidance movement, a Progressive Era develop- ment that sought to add a humane element to the science of efﬁciency. Its adherents and practitioners saw in the progres- sive ideal a chance for a better and more satisfying life for all people of all ages.
-
-Embracing the applied study of individual difference, these prototypes of the professional psychologist found their calling in the theory and practice of measurement of human abilities, aptitudes, and interests. Their work had applications in all corners of society, especially in those areas concerned with education and rehabilitation. Over time, these coalesced into an identify as a health service profession, aligned with a
-
-363
+Counseling psychology is a general practice and health service- provider specialty in professional psychology. It focuses upon personal and interpersonal functioning across the life span and on emotional, social, vocational, educational, health-related, de- velopmental and organizational concerns. Counseling psychol- ogy centers on typical or normal developmental issues as well as atypical or disordered development as it applies to human expe- rience from individual, family, group, systems, and organiza- tional perspectives. Counseling psychologists help people with physical, emotional and mental disorders improve well being, alleviate distress and maladjustment, and resolve crises. In addi- tion, practitioners in the professional specialty provide assess- ment, diagnosis and treatment of psychopathology. (p. 589)

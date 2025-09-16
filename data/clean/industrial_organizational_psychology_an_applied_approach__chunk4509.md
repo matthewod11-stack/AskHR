@@ -1,7 +1,15 @@
-## Wild, C., Horney, N., & Koonce, R. (1996). Cascading
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 82d8b06996cab5c4e35b85b88a0f5021d763d740
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Whetzel, D. L., McDaniel, M. A., & Nguyen, N. T. (2008).
 
-communications creates momentum for change. HR Magazine, 41(12), 94–100.
+Subgroup diﬀ erences in situational judgment test performance: A meta-analysis. Human Performance, 21, 291–309.
 
-Wilkinson, R. T. (1992). How fast should the night shift rotate?
+Whiting, J. J., Kline, T. J. B., & Sulsky, L. M. (2005, April).
 
-Ergonomics, 35(12), 1425–1446.
+Performance appraisal congruency: An important aspect of person-organization ﬁ t. Paper presented at the 20th annual meeting of the Society for Industrial and Organizational Psychology, Los Angeles, CA.
+
+Widgery, R., & Stackpole, C. (1972). Desk position, interviewee anxiety, and interviewer credibility: An example of cognitive balance in a dyad. Journal of Counseling Psychology, 19, 173–177.

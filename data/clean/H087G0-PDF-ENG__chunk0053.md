@@ -1,11 +1,39 @@
-# each other.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09877add90e2b51c4017d473f51b6a712f8262ee
+title: H087G0-PDF-ENG
+---
+## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
 
-This article was originally published online on May 07, 2024.
+. . .
 
-Ludmila N. Praslova, PhD, SHRM-SCP, uses her extensive experience with neurodiversity and global and cultural inclusion to help create talent-rich workplaces. The author of The Canary Code, she is a professor of graduate industrial-organizational psychology and the accreditation liaison oﬃcer at Vanguard University of Southern California. Follow Ludmila on LinkedIn.
+I’m still ﬁne-tuning my own approach to disclosure. As of this writing
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+my neurodivergence is radically shared with the world, but with more- physical diﬀerences I am using a network of disclosure at work. Both
 
-12
+strategies seem to be working much better than the “quietly pushing
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+through” approach, which on several occasions has led me to the
+
+dangerous extreme of overworking while trying to prove myself. They
+
+also work better than disclosing only to a supervisor.
+
+You may follow a similar path, or you may not. Disclosure decisions
+
+are deeply personal. But it’s important for all of us to remember: Our
+
+worth and human dignity far surpass our ability to perform speciﬁc
+
+tasks. The responsibility for ableist behavior lies on those who exhibit it
+
+— not on us. Our health should come before having to prove ourselves
+
+to others. Advocating for inclusive workplaces isn’t just about securing
+
+accommodations; it’s about creating organizations where every person
+
+is valued for their unique talents, experience, and insights. And we all
+
+can do our part by validating each other’s experiences and believing

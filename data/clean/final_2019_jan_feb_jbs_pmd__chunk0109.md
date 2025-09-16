@@ -1,3 +1,7 @@
-# ISSN 2393-9451
-
-- 21. Collings, D. G., &Mellahi, K. (2009). Strategic talent management: A review and research agenda. Human Resource Management Review, 19(4), 304-313. 22. Collings, D. G., Scullion, H., & Dowling, P. (2009)
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 6ffffafb0c90d126ec3926cecbcf377ae6ce142c
+title: final_2019_jan_feb_jbs_pmd
+---
+# January - December, 2019

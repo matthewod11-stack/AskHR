@@ -1,19 +1,27 @@
-## My colleague in the psychology department here at Harvard, Dan
+---
+source_path: H08VQD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91c11d4a26b7644f7b99460f6f4d85a30dac02a6
+title: H08VQD-PDF-ENG
+---
+## HBR / Digital Article / You Need to Be Bored. Here’s Why.
 
-Gilbert, he did experiments where people had to sit in a room for
+ARTHUR BROOKS: You need to be bored. You will have less meaning
 
-15 minutes with instructions to do absolutely nothing, and there was
+and you will be more depressed if you never are bored. I mean, it
 
-nothing in the room to do, except there was a button in front of them
+couldn’t be clearer. Let me give you the good side of boredom in general.
 
-that they could push. And if they did, they gave themselves a painful
+Boredom is a tendency for us to not be occupied otherwise cognitively,
 
-electric shock. Sit there bored, or get a shock. A big majority of the
+which switches over our thinking system to use a part of our brain that’s
 
-participants gave themselves shocks instead of thinking about nothing.
+called the default mode network. That sounds fancy. It’s really not.
 
-We don’t like boredom. Boredom is terrible. Why is boredom so
+The default mode network is a bunch of structures in your brain that
 
-bad? Well, because the default mode network makes us think about
+switch on when you don’t have anything else to think about. So, you
 
-things that might be kind of uncomfortable. When you think about
+forgot your phone and you’re sitting at a light, for example. That’s when
+
+your default mode network goes on. We don’t like it.

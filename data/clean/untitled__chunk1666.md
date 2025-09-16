@@ -1,5 +1,11 @@
-# 16PF
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 072494819166d6955489ed895857a3475f228d11
+title: untitled
+---
+## Identifying Personality Characteristics and Psychopathology
 
-As an approach to constructing self-report inventories en- tirely different from the empirical and logical keying that characterized the MMPI, CPI, MCMI, and their predeces- sors, Raymond Cattell (1905–1998; no relation to J. McK. Cattell) began in the 1940s to apply factor analytic methods to personality test construction. After drawing on a large pool of adjectives describing personality characteristics to build a long list of trait names, he obtained ratings on these traits from samples of nonpatient adults. By factor analyzing these ratings, he extracted 15 factors that he identiﬁed as “the source traits of personality.” To these 15 factors, he added a short measure of intelligence to produce the Sixteen Person- ality Factors Questionnaire (16PF), which was originally published in 1949 and most recently revised in 1993 (R. B. Cattell, Cattell, & Cattell, 1993).
+symptom-related scales are included in the MCMI, and some personality disorder scales are available for the MMPI, these are not usually regarded as a strength of either, and many practitioners have found some advantage in using both in- struments together in complementary fashion.
 
-From Cattell’s perspective, his factors captured the entire domain of trait characteristics that underlie human personal- ity and, in common with Gough, he intended his test to serve as a measure of normal personality functioning, and not of the presence or extent of psychopathology. Nevertheless, as demonstrated by Karson and O’Dell (1989), the 16-PF can be used by practitioners to identify aspects of personality in disturbed as well as normally functioning persons.
+The original MCMI has been revised twice, with the current version, the MCMI-III, having been published in 1994 (Millon, 1994; see also Millon, 1996). Millon also extended his test downward to include an adolescent form, originally known as the Millon Adolescent Personality In- ventory (MAPI) and currently in revised form as the Millon Adolescent Clinical Inventory (MACI) (Millon & Davis, 1993; Millon, Green, & Meagher, 1982).

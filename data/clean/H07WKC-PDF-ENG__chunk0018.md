@@ -1,27 +1,25 @@
-## HBR / Digital Article / Can GenAI Do Strategy?
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5bba6a72567482f85d5ddfc3e19f215fc6f54c2b
+title: H07WKC-PDF-ENG
+---
+# space within its industry.”
 
-and-go setup around Champs Elysees clubbing hubs could potentially
+We then asked our virtual assistant for ideas on what new features
 
-maximize untapped sectors eﬀectively.”
+might work to attract the categories of noncustomers it had identiﬁed. It came up with speciﬁc ideas, including oﬀering truﬄe-infused
 
-The AI also proposed diﬀerent approaches to reaching customers: “Oﬀer
+cream cheese or raspberry ﬁllings. Maybe “late night passers-by crave
 
-not just bagels but an experience,” it suggested, and “Think about large
+munchies?” it suggested. Our interface enables a person to ask the AI
 
-conferences or business meetings.” The AI further proposed adding
+to delve deeper. We asked: “Are there really many late-night revelers
 
-other American bakery items and sourcing local ingredients.
+in Paris with the munchies?” The reply? “… an express window grab-
 
-So how, exactly, should we be oﬀering bagels in Paris?
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Building the value proposition
+3
 
-To develop a new value proposition, whatever your strategy process,
-
-you ﬁrst have to identify the list of essential factors traditionally found
-
-in the product/service oﬀering that your target market is using. This is
-
-normally a time-consuming, tedious task. But the AI created a list of
-
-factors for us to review and edit in less than a minute, leveraging the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

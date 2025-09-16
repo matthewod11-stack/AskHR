@@ -1,3 +1,23 @@
-# such exemption submissions
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: 21f03e9b4e5ad99dfcf80416b4873cf375499ca5
+title: Employment Law Guide - Employee Benefit Plans
+---
+## include, among other information the following:
 
-Statement of consent by third‑party experts acknowledging that their statement is being submitted to the
+A detailed description of the exemption transaction and the parties for whom an exemption is requested
+
+The reasons a plan would have for entering into the transaction
+
+The percentage of assets involved in the exemption transaction The names of persons with investment discretion
+
+The extent of plan assets already invested in loans to, property leased by, and securities issued by parties
+
+in interest involved in the transaction
+
+Copies of all contracts, agreements, instruments, and relevant portions of plan documents and trust
+
+agreements bearing on the exemption transaction Information about plan participation in pooled funds when the exemption transaction involves such funds
+
+A declaration by the applicant, under penalty of perjury, attesting to the truth of representations made in

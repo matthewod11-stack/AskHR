@@ -1,9 +1,11 @@
-## development and freedom (Alexander, 1996; Grubb & Lazerson, 2004; Sen, 1999).
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: a4cc59d7cd58e39c9bba3fc2323ba67456307957
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# 1.2.(cid:32) Research Problem
 
-Professionals have become interested in best practices in the field of coaching
+The emergence and development of human capital as an academic field has seen
 
-because the area is so open and relatively unregulated, organizations want to know
-
-which practices result in the best organizational outcomes. Employers also would
-
-like to know how best to evaluate coaching programs. Just over half (52%) of the
+researchers attempt to clarify how the human capital can contribute to sociopolitical

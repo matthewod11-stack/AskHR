@@ -1,13 +1,35 @@
-## workers newfound self-belief, autonomy, and a sense of empowerment.
+---
+source_path: H07PM3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 676d030932db19c69c7d4847ecbdaf63dd629b8b
+title: H07PM3-PDF-ENG
+---
+## HBR / Digital Article / How Managers Can Dismantle “Benevolent Marginalization”
 
-This experience was a moment of epiphany that boosted workers’
+However, a transformational moment may occur when these managers
 
-conﬁdence in their abilities to perform tasks they had never envisioned
+confront their own fallibility, let go of their defensive positions,
 
-or been given the responsibility to perform. Managers also realized that
+abandon their patronizing behaviors, and provide opportunities to
 
-they had unwittingly stiﬂed the potential of some of these workers
+people with disabilities to bring out their untapped potential. This
 
-while trying to be protective and creating a secluded environment. This
+requires a change in communication from telling to listening and a
 
-shift marked a profound turning point as managers transitioned from
+change in behavior to promote inclusive practices.
+
+One example of a patronizing initiative in this context involved
+
+assigning jobs that could be carried out within the conﬁnes of
+
+the sheltered workshop, limiting public engagement. These jobs
+
+encompassed metal processing, industrial assembly, packaging, and
+
+shipping. In contrast, a successful inclusive practice involved
+
+establishing a farmer’s market in consultation with these workers and
+
+their representatives. Engaging directly with people from outside the
+
+sheltered workshop environment while selling farm produce gave these

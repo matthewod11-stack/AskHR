@@ -1,11 +1,19 @@
-## Figure 4: A high level diagram of AgentBench.19
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 85c71f8c77841348bb1ddf7379eed635d5fe6381
+title: agents_companion
+---
+## across several domains and specific capabilities.
 
-Holistic agent benchmarks like AgentBench19 try to capture end-to-end performance across
+But tool calling and planning is not the only capability you should consider. Agents inherit
 
-several scenarios. This is more realistic, when the scenario reflects your agent use case,
+behaviors from their LLMs and each of their other components. Likewise, agent and user
 
-but not if it’s testing capabilities your agent doesn’t implement. It is difficult to simulate
+interactions have a history in traditional conversational design systems and workflow
 
-the environment, tools, instructions, and use case requirements in ways that are both
+systems, and therefore can inherit the set of metrics and measurements that are used to
 
-specific and general at the same time. Companies and organizations are setting up public
+determine the efficacy of these systems.
+
+15

@@ -1,13 +1,19 @@
-## HBR / Digital Article / Research: How “Leisure Crafting” Can Help You Recharge
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3dcee275d9b00143fd217e973ab5ecac17b7e55
+title: H08OXV-PDF-ENG
+---
+# the results.
 
-time for self-development and were encouraged to do so for the next
+In a four-week randomized trial, we divided 257 employee participants
 
-month. The other half, used as the control group, were not assigned the
+into two groups: Half were assigned to a leisure crafting intervention,
 
-leisure crafting intervention. The intervention group saw an increase in
+where they completed a brief training on how to structure their free
 
-well-being—how meaningful they felt their life was and how satisﬁed
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-and fulﬁlled they felt—that was 1.6 times greater than the well-being
+3
 
-levels reported by the control group. The leisure crafters also reported
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

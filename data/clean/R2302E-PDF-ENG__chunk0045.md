@@ -1,11 +1,15 @@
-## less true give-and-take with the president in the room,” JFK deliberately
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1190ffa843ec2d5e65403aae10a4a65955a5bd8a
+title: R2302E-PDF-ENG
+---
+## Studies of Policy Decisions and Fiascoes, Kennedy gathered some 20
 
-chose not to attend some of the team meetings.
+experts with diverse viewpoints and knowledge. To encourage them
 
-. . .
+to express their opinions and avoid groupthink, he divided them into
 
-The key to successful leadership is knowing when to get in the way,
+smaller teams and asked each team to develop possible solutions. Then,
 
-when to get out of the way, and how to send crystal clear signals to
-
-your followers about which mode to operate in right now. As Tommy
+following the advice of his brother Robert Kennedy, who “felt there was

@@ -1,31 +1,39 @@
-# support functions.
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8233ef0094ac71832ac9f56d3bf4444231064151
+title: H07RXW-PDF-ENG
+---
+# HBR / Digital Article / Is Organizational Hierarchy Getting in the Way of Innovation?
 
-To do this, ﬁrst involve them in the wider cultural change eﬀort so
+straightforward: ensure that ﬁnancial accounting practices allow
 
-they too start seeing themselves as intrapreneurs. Second, restructure
+the enterprise to measure the individual ﬁnancial performance of
 
-support functions into a team structures, which may feel less alien than
+product and customer segment teams. Some industries, such as
 
-one might expect because many of them — HR, Finance, R&D, and,
+consumer-packaged goods, are already structured to do so. They
 
-to a lesser extent perhaps, legal — are likely already organized into
+typically break down proﬁt and loss by customer segment (a customer
 
-teams that support speciﬁc business teams. For example, the general
+that buys a particular brand, through a speciﬁc channel, and in
 
-counsel of one major media company structured her organization into
+a deﬁned geography). But other sectors, like banking, may require
 
-dedicated sub-teams that support radio, broadcast TV, streaming, etc.
+some untangling. Because they tend to track ﬁnancial performance by
 
-Third, adjust ﬁnancial reporting to start creating separate proﬁt and
+product (e.g., mortgages or wealth management) rather than customer (aﬄuent, retired, etc.), value-destroying conﬂicts can emerge. A second
 
-loss statements for each team and, what seems the biggest leap for
+step here is to start decentralize reinvestment so that teams get to keep
 
-companies considering this step, to allow business teams to determine
+more of the value they generate.
 
-to which support teams they want to work with. As a result, instead
+Finally, step four — giving smaller teams freedom in deciding what
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+central functions to work with — requires cutting deeper into your
 
-13
+organizational norms to redesign functional departments that have long
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+operated essentially as utilities and cost-centers into entrepreneurial
+
+proﬁt-centers. This involves applying steps 1, 2, and 3 above to your

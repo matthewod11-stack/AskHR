@@ -1,19 +1,33 @@
-## performance review. Focus on the behaviors within a person’s control.
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 28c2c5aeed1419f36f405adbf87eb7fee5b66f57
+title: H074CY-PDF-ENG
+---
+## HBR / Digital Article / How to Conduct a Great Performance Review
 
-This also helps to minimize a common cloning bias in organizations: Is
+presentation didn’t include information on demographics, total life-
 
-there a problem with that person’s performance or is their performance
+cycle costs, and payment terms” makes it easier to receive negative
 
-achieved using a style that their manager would not use to do the job?
+comments and take corrective action because both manager and
 
-Always be clear about the diﬀerence.
+employee can now concentrate on elements that can be improved.
 
-Ask the other person to respond.
+State the impact of the behavior or action.
 
-Eﬀective reviews are a two-way transfer of information, not only
+Many employees are unaware of the impact of their actions on
 
-directions from a manager. Most people want to know about their
+outcomes. That’s why we have managers. But managing means
 
-performance. But the Rashomon eﬀect is alive and well in ﬁrms;
+discussing cause-and-eﬀect linkages between behaviors and outcomes.
 
-two people can observe the same event or outcome yet interpret it
+For example, it’s one thing to say to a salesperson, “You didn’t connect
+
+with the buyer.” It’s quite another to say, “You interrupted people
+
+throughout the meeting, and this resulted in that buyer being less open
+
+to listening to your ideas.”
+
+Remember that people won’t change their personality after a

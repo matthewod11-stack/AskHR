@@ -1,17 +1,13 @@
-# HBR / Digital Article / Research: Whistleblowing Is More Common When CEOs Are Ov…
+---
+source_path: H08LN0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c685fa327bdbf44f9159406479d2dcdb1198dc5
+title: H08LN0-PDF-ENG
+---
+# meager 18.1%.
 
-When employees witness disproportionate pay for C-suite executives or
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-unfair treatment compared to other stakeholders, they often perceive
+1
 
-a lack of fairness within the organization. This perception can be toxic
-
-for morale, leading to disloyalty and resentment. But could it lead to
-
-increased whistleblowing?
-
-In our research, published recently in Strategic Management Journal,
-
-we set out to look at why employees blow the whistle on organizational
-
-wrongdoing. We found that two factors—outsized disparities in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

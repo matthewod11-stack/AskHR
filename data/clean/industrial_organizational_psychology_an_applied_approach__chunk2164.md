@@ -1,9 +1,19 @@
-## Why Should We Care about Employee Attitudes?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f3522f84cdc380d8063b167bd94cbd2de4c0df74
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Imagine the following situations:
 
-Many job-related attitudes have been studied by psychologists, but the two most commonly studied are job satisfaction and organizational commitment. Though job satisfaction and organizational commitment are different work- related attitudes, they will be discussed together in this chapter because they are highly correlated and result in similar employee behaviors. As shown in Table ., meta- analyses indicate that satisfied employees tend to be committed to an organiza- tion (Cooper-Hakim & Viswesvaran, ), and employees who are satisfied and committed are more likely to attend work (Hackett, ), stay with an organiza- tion (Tett & Meyer, ), arrive at work on time (Koslowsky, Sagie, Krausz, & Singer, ), perform well (Judge, Thoresen, Bono, & Patton, ), and engage in behaviors helpful to the organization (LePine, Erez, & Johnson, ) than are employees who are not satisfied or committed.
+7
 
-The relationship between job satisfaction and performance is not consistent across people or jobs. For example, for complex jobs, there is a stronger relation- ship between job satisfaction and performance than for jobs of low or medium complexity (Judge et al., ). For employees who have strong, consistent beliefs about their level of job satisfaction (called affective-cognitive consistency), the rela- tionship between job satisfaction and performance is much stronger than it is for
+Jean Davis and Maria McDuffie have worked as customer service representatives at Fuller Technologies for the past two years. Jean loves her job and wants to stay with Fuller until she retires in ten years. Maria hates her job, uses all of her available sick days, and would leave in a heartbeat if she could only find a job that paid as well. Rhonda Beall recently met with a career adviser to chart a new course for her life. She hates her current job and has hated every job she has ever had. She is hoping that the career adviser can find “the job” for her. David Spoto loves his job and can’t wait to get to work in the morning. He loves to work, loves his current job, and has loved every job he has ever had. Darnell Johnson, human resources (HR) director for Simmons Enterprises, is frustrated because his company has the highest turnover rate in the area. Even more frustrating is that employees stay with Simmons just long enough to gain experience and then leave for lower pay with Raynes Manufacturing, another local employer.
 
-364
+7
 
-chapter 
+7
+
+7
+
+Why does Jean Davis love her job and Maria McDuffie hate the same job? Why do Rhonda Beall and David Spoto have such different attitudes about their jobs and careers? What is Raynes Manufacturing doing better than Simmons Enterprises? This chapter will help you answer these questions about job satisfaction—the attitude an employee has toward her job—and organizational commitment—the extent to which an employee identifies with and is involved with an organization.

@@ -1,19 +1,15 @@
-## management and caring for the well-being of employees at the same
+---
+source_path: H06IPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8bd92d41dfd92399175faa4c565ddc93ddfc6750
+title: H06IPO-PDF-ENG
+---
+# Take care of yourself
 
-time,” he says. “There’s additional pressure of trying to navigate through
+While taking care of your employees, don’t lose sight of yourself. You’re
 
-uncertainty and heightened conﬂict.” So be sure to take the time to take
+likely feeling the same stress as your team members and the pressure
 
-care of yourself. That includes getting a good night’s sleep, eating well,
+to produce results. “Managers are caught in the middle, as they often
 
-exercising, and making sure you have the support you need.
-
-Given how tiring it is to be constantly worrying about your team while
-
-also trying to meet goals, it’s tempting to try to pull back on compassion.
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are,” says Hirsh. It’s a tall order to be “meeting targets set by upper

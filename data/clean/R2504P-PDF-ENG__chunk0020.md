@@ -1,51 +1,39 @@
-## HBR / Magazine Article / Case Study: Do We Reskill or Replace Our Workforce?
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f48db7b6aadd2e3003f12c7c90f101d7bcc8d163
+title: R2504P-PDF-ENG
+---
+## beneﬁt from educational opportunities throughout their careers here,”
 
-Jon’s manufacturing, installation, and maintenance peers all nodded
+he concluded. “Those who choose not to would…have more-limited
 
-vigorously and murmured agreements. He continued, “The service
+prospects. Now I’d love to hear your thoughts.”
 
-technician arriving at a customer’s premises is a visible display of the
+Jon Laurent, a 25-year veteran of SolidTech and chief of engineering,
 
-value we bring. We lose our frontline relationship with the customer
+jumped in. “Alex, in the years you’ve been here, we’ve always had an
 
-if we are just squirting software updates to them in the middle of the
+honest relationship, so I hope you don’t mind me saying straight-out
 
-night. There will be no loyalty.”
+that I don’t see this plan working,” he said. “Our company’s secret sauce
 
-Alex felt a knot forming in his stomach. He’d had similar concerns but
+is in the tacit, hard-won expertise of our people. And what makes them
 
-pushed them aside. He was thankful when Maya Perrineau, his chief
+tick? It’s putting on their coveralls and working with their hands. I get
 
-sales oﬃcer, chimed in. “But that’s everyone’s knee-jerk reaction to the
+wanting to digitize and can see bringing in some new hires to help us do
 
-idea of upskilling, right? ‘Is our industry really changing that quickly?
+that. But my guys don’t want to become computer nerds, and I suspect
 
-Does everyone have to do it? Can’t we just expand our digital team to handle that stuﬀ?’ But I can tell you that what customers want now
+that if you force it on them, they’ll leave, which means all that essential
 
-are the same great elevators we’ve always made upgraded with all the
+knowledge and hundreds of years of cumulative experience just walking
 
-modern conveniences—not layered on but integrated.”
-
-Tony Wu, SolidTech’s chief ﬁnancial oﬃcer, spoke up next. “This
-
-reminds me of ‘ghost oﬃces’ in Japan. These are the workplaces where companies that are committed to oﬀering lifetime employment send
-
-their workers when their skills become obsolete. They’re still employed,
-
-but they have no purpose. They’re ghosts.” He paused. “It goes without saying that we can’t aﬀord to do that. But also I don’t think it’s what any
-
-of us want. We’ve got to work together to keep everyone’s skills relevant
-
-—and Alex’s plan seems like a good way to do that.”
-
-“But it’s not your teams that will need to reskill,” Jon countered. “It’s our
-
-engineers and installers and maintenance guys. And I’m not sure they’ll all be able or willing to do that. So are we talking about layoﬀs for those people who don’t? And would you oﬀer job guarantees to the ones who
-
-do, no matter how they perform?” The room fell silent.
+out the door forever.”
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

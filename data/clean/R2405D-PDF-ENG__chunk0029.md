@@ -1,13 +1,19 @@
-## when the senior vice president of engineering at a major tech company
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb88f918c81afab285f4c7c394aead6470bb1594
+title: R2405D-PDF-ENG
+---
+# appropriate period of time?
 
-told us about his company’s rule against looking at university grades
+Misjudging generalizability. With the example of the warehouse wage
 
-in engineer hiring decisions, we asked about the rationale. He said that
+increase, a vital question is what the results from one set of warehouses
 
-Google had “proved that grades don’t matter”—referring to a Google
+imply for a diﬀerent set. Moreover, a company may wish to know how
 
-executive’s comment he had read somewhere, claiming there wasn’t a
+the results apply to, say, restaurant or retail employees.
 
-relationship between school grades and career outcomes. By taking that
+We have seen business leaders make missteps in both directions, either
 
-piece of information as gospel, he ignored potential limitations to both
+over- or underestimating the generalizability of ﬁndings. For instance,

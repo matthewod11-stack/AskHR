@@ -1,23 +1,13 @@
-## HBR / Digital Article / A New Approach to Writing Job Descriptions
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3793267c251bccf47e21e6fb5d9ba1a6ac4be675
+title: H07TI0-PDF-ENG
+---
+# without clear guidelines in hand?
 
-There are other ways that managers can work with their teams to deﬁne
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-roles and responsibilities and create a shared understanding of what
+5
 
-each person is responsible for. For example, let’s say you manage a team
-
-of software developers, and your company is shifting to team-based job
-
-descriptions. You might work with your team to create a skills matrix
-
-that identiﬁes the skills and capabilities of each team member and then
-
-use tools like Agile methodology or Kanban boards to help manage
-
-workloads and prioritize tasks.
-
-For recruitment, a competency-based interview process is a more
-
-eﬀective way to assess a candidate’s suitability for a ﬂexible, dynamic
-
-role than a traditional interview, which often focuses on the candidate’s
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,21 @@
-# name: leisure sickness.
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 065b6e176944870af7e1dec27000a6de3eb0c43a
+title: H07SAC-PDF-ENG
+---
+# Williams+Hirakawa/Getty Images
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Vacations are meant to be rejuvenating. Time oﬀ can not only help you
 
-1
+restore your mind, body, and soul, it also has a positive impact on your
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+work life: One study found that employees who take 11 or more vacation
+
+days are more likely to receive a raise or bonus.
+
+However, not all vacations are as restorative or energizing as we
+
+hope they’ll be. Chronic work stress can interfere with our plans. The
+
+phenomenon of getting sick as soon as you start to relax even has a

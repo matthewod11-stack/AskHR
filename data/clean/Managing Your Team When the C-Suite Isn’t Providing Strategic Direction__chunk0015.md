@@ -1,3 +1,13 @@
-# model
+---
+source_path: "Managing Your Team When the C-Suite Isn\u2019t Providing Strategic Direction.md"
+pages: n/a-n/a
+chunk_id: 5c14f48dc426796928de82f3ec59165ab070b94b
+title: "Managing Your Team When the C-Suite Isn\u2019t Providing Strategic Direction"
+---
+# team
 
-resilience by helping them channel frustration into creativity.
+energized and focused on what’s within reach. Don’t letindecision at the executive level create
+
+paralysis on the frontlines. Shift your team’s attention to progress they can own.Prioritize operational wins, celebrate
+
+small victories, and betransparent about what’s delayed and why. In these moments,your role becomes translator, motivator, and shock absorber.Help your team turn frustration into progress by setting clear,achievable short-term goals that connect to broader outcomes.Offer stretch assignments to challenge high performers and showtrust in their growth potential. When roadblocks arise, use themas learning opportunities, encouraging experimentation,reflection, and upskilling. This approach keeps teams engaged,builds momentum, and turns uncertainty into meaningfuldevelopment.When the budget is frozen or projects are in limbo, pivot theteam’s focus to low-resource efforts that can have big impacts. Forexample, a marketing team might boost engagement andretention by increasing the frequency of customer emails frombiweekly to weekly, or an operations team could audit existingworkflows to improve efficiency and readiness once companyresources are more robust.Momentum isn’t just about moving forward; it’s about findingmeaningful ways to make progress even in uncertain times. Keepreinforcing the “why” behind your team’s work, and

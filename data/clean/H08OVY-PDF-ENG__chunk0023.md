@@ -1,37 +1,25 @@
-# Look for compromise
+---
+source_path: H08OVY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 678e4fd5c260352b3909391ff9309e2fdfcf11a3
+title: H08OVY-PDF-ENG
+---
+## HBR / Digital Article / How to Tell Your Boss They’re Wrong—Tactfully
 
-Another approach is to suggest a solution that isn’t all or nothing.
+says Salinas. Ground yourself with a breathing technique to calm your
 
-“Maybe we don’t go fully in the direction I’m proposing, but how about
+nerves. Be ready for resistance, too, says Wilding. If your boss responds
 
-we try a pilot?” says Wilding. This shows you’re ﬂexible and willing to
+with, “You’re trying to undermine me,” or guilt-trips you with, “I
 
-collaborate, while also conveying that you’re not just going to roll over.
+thought you were a team player,” she recommends ﬂipping it. Respond
 
-“If you back oﬀ entirely and never bring it up again, your manager
+with, “I am a team player, that’s why I’m bringing this up. I want us to
 
-might get the impression that your feedback can be easily dismissed,
+be as productive as possible.” If they say, “I thought you were behind
 
-and they’ll think, ‘I don’t have to listen next time,’” she says. Stand
+me,” reassure them: “I am behind you, that’s why I want you to have this
 
-your ground (while being open to alternatives) but avoid digging in
+information in order to make the strongest decision.” Make it clear that
 
-your heels just for the sake of it, advises Bordone. “You don’t want a
-
-Groundhog Day situation where you keep trying without progress. If
-
-things still aren’t working, it’s time to ask yourself: Can I live with this?”
-
-Know when to back off
-
-“In most cases, you should probably back oﬀ,” if your boss really and
-
-truly isn’t willing to budge, says Wilding. “Realize that there’s still a
-
-hierarchy. Your manager has the authority to make decisions. Your
-
-inﬂuence is substantial but limited.” Pick your battles: There will be
-
-times when you simply don’t see eye to eye. As Bordone puts it, “Short
-
-of something being unethical or illegal, you do the best you can and
+your feedback is meant to support, not undermine.

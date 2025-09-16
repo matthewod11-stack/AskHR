@@ -1,21 +1,37 @@
-# an issue?
+---
+source_path: H07PS7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 990348bcf8fc2bab4ae4918b3858c34f50a3f022
+title: H07PS7-PDF-ENG
+---
+# “Not Here” Bias
 
-In our research, across multiple studies, we asked respondents to
+Why would that be a problem?
 
-indicate to what extent they believed inequity was a problem. In one
+Because managers identify with their company, in ways that lead them
 
-survey, managers reported that inequity was 13% less of an issue in
+to consider the company’s good traits to be reﬂections of themselves.
 
-their workplace compared to non-managers. In a diﬀerent survey, we
+As a result, maintaining positive views of the company becomes vital
 
-found that managers scored only 2% lower than non-managers when
+to their sense of themselves, at times warping their perspective. This
 
-rating inequity in other workplaces — but when rating it in their own
+phenomenon, often referred to as motivated reasoning, is common. If
 
-workplace, they scored 17% lower.
+you’re a sports fan, you know it well: Calls made against your team tend
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+to be “bad.” Calls in your favor tend to be “good.”
 
-3
+In the context of the workplace, motivated reasoning prevents managers
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+from recognizing problems in their own organizations even though they
+
+can easily recognize them in others. This form of bias, which can be
+
+called a “not here” bias, is precisely what Marc Benioﬀ exhibited in the
+
+example cited above — he couldn’t believe that inequity was possible
+
+“here,” at his company. To be fair, his reaction was natural. After all,
+
+who wants to be responsible for a department or group where inequity is

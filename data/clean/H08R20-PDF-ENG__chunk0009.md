@@ -1,7 +1,9 @@
-## her supervisor—a director-level leader—is “always there for me.” He
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48a66db0ac72478f9b3fe10dc86e2674d5002414
+title: H08R20-PDF-ENG
+---
+# someone’s life and work.
 
-makes her feel seen. Tanya then does the same for her team. When
-
-leaders model the behaviors of truly seeing everyone in their everyday
-
-interactions, the people they serve are more likely to do it for those they lead. This is a critical reminder of the cascading eﬀect of noticing
+When I asked Tanya how she developed her approach, she told me that

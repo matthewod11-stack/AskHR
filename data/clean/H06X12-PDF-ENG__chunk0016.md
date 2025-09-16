@@ -1,11 +1,59 @@
-# standalone experiences.
+---
+source_path: H06X12-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5769c01f3b2c49c51f47105bd8790108450d53a6
+title: H06X12-PDF-ENG
+---
+## HBR / Digital Article / A New Way to Explain the Pause in Your Career
 
-While the Career Break category is a step forward, some relaunchers
+Choosing the “Career Break” category may even make sense for
 
-may be leery of using it. As common as career breaks have become
+people who’ve gone through a period of part-time employment or
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+underemployment. In fact, most employers running career reentry
 
-4
+programs encourage relaunchers to deﬁne the career break loosely.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The eligibility deﬁnition of career break may allow for some income-
+
+producing activities, such as occasional consulting, substitute teaching,
+
+or a side gig that is unrelated to the primary career. We recommend
+
+individuals err on the side of applying to a program rather than self-
+
+selecting out of it because they are worried their income-producing
+
+activity makes them ineligible. Lead with the Career Break category at
+
+the top of the Experience section, and call out the income producing
+
+activity either as part of that section or as a separate entry right below it.
+
+LinkedIn’s move is the latest in its evolving approach to helping people
+
+document non-linear careers. Back in March 2021, as a precursor to
+
+the new Career Break category, LinkedIn announced that stay-at-home
+
+mom, dad, and parent leave designations had been added to the pre-
+
+populated dropdown menus for proﬁle-building.
+
+I recently interviewed Bef Ayenew, the engineering leader behind
+
+the LinkedIn Proﬁle page. He explained that the new Career Breaks
+
+category is much more intuitive than the previously announced “Stay
+
+at Home Parent” designation. “Career Break” is an optional entry in
+
+the experience section and includes built-in options indicating the type
+
+of career break — examples include caregiving, extended travel, and
+
+retirement. Just as when posting a role at an employer, the Career
+
+Break category provides the opportunity to highlight activities during
+
+the career break that are relevant to career goals, or are signiﬁcant

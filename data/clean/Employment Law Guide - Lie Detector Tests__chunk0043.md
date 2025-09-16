@@ -1,7 +1,9 @@
-# Penalties/Sanctions
+---
+source_path: Employment Law Guide - Lie Detector Tests.md
+pages: n/a-n/a
+chunk_id: 359e8cd2dec7a548dd0e01f7f369a8f9fe61a078
+title: Employment Law Guide - Lie Detector Tests
+---
+# Reporting
 
-The Secretary of Labor can bring court action to restrain violators and assess civil money penalties. An
-
-employer who violates the law may be liable to the employee or prospective employee for appropriate legal
-
-and equitable relief, which may include employment, reinstatement, promotion, and payment of lost wages and beneﬁts.
+There are no reporting requirements under EPPA.

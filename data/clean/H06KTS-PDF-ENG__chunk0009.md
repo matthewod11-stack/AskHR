@@ -1,11 +1,21 @@
-# of purpose at work.
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d2af7b107218ad3e66693c2cc6cc3e0ec306a20
+title: H06KTS-PDF-ENG
+---
+# Develop Your Own “Re-onboarding” Plan
 
-Be a Teacher and a Student
+The new hires around you are likely to have been provided a consistent
 
-In addition to executing your own re-onboarding plan, consider helping
+onboarding plan of intentional activities with colleagues to enable
 
-your new colleagues with their onboarding. Doing so can enhance your
+knowledge sharing and make sure they ﬁt in with cultural norms that
 
-perception as a leader and bring harmony to a potentially competitive oﬃce dynamic. Just be careful to strike the right balance between being
+preceded their arrival. If they have a playbook designed to help them
 
-the wise caretaker of the company’s traditions and being an adaptive
+excel, why not follow suit and “re-onboard” yourself? Doing so may not
+
+only open your eyes to strategic opportunities to add more value and
+
+keep you competitive with your peers, but also reinvigorate your sense

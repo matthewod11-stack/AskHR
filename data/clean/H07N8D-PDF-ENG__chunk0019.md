@@ -1,13 +1,13 @@
-## HBR / Digital Article / How “Perspective Swaps” Can Unlock Organizational Change
+---
+source_path: H07N8D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85cdcaa68c8f5cd37787403a42da8b3a31e7dc8b
+title: H07N8D-PDF-ENG
+---
+## 2” thinking. Unlike the fast and intuitive System 1 thinking that
 
-dominates our thought processes, System 2 thinking is slower and
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-more deliberate. For leaders, this can be especially valuable, as they’re
+4
 
-often plagued by blind spots and conﬁrmation bias — seeking out
-
-information that conﬁrms their existing beliefs.
-
-Perspective swaps can unlock the mental ﬂexibility that you, your
-
-employees, and your organization need to embrace and adapt to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

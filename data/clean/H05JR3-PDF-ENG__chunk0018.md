@@ -1,9 +1,17 @@
-# LQ
+---
+source_path: H05JR3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80b927906d149b4dd72c902a0048d9f6167a53e8
+title: H05JR3-PDF-ENG
+---
+## HBR / Digital Article / Ramp Up Your Career After Parental Leave
 
-Lisa Quest is the London-based head of Oliver Wyman’s Public Policy practice in the United Kingdom and Ireland.
+own return to work from a parental leave, take the time to step back and
 
-Copyright © 2020 Harvard Business School Publishing Corporation. All rights reserved.
+ﬁgure out what you really want to accomplish. Find the sponsors who can
 
-6
+help you shape and accelerate your career on your own terms. Then pay it
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+forward by being an effective role model and sponsor to other new parents
+
+coming up through the ranks after you.

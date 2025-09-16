@@ -1,1 +1,11 @@
-# and the
+---
+source_path: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare.md
+pages: n/a-n/a
+chunk_id: 508e548985b8441718d41911a55394779bf4f3b2
+title: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare
+---
+## Shepherd et al. BMC Health Services Research (2019) 19:135
+
+of the challenges faced when working with diverse cli- entele, were obtained in the context of broader studies on cross-cultural health care in the USA [35] and Sweden [36]. Furthermore, health care professionals’ perceptions of their own cultural competence has been examined across professions (i.e., physicians compared to nurses) [37] and in relation to their alignment with patient observations [38]. Overall, the above literature illustrates that health care professionals, despite posses- sing varying levels of cross-cultural knowledge, largely acknowledge the importance of cross-cultural aware- ness and demonstrate a willingness to improve their cross-cultural communication skills. Language barriers, low client health literacy and bureaucratic constraints are regularly offered as barriers to effective cross-cul- tural service delivery [27–30]. It is clear however, that further research is warranted in this space to acquire a more nuanced understanding of how health care pro- viders and professionals view and experience intercul- tural initiatives implemented to enhance such encounters. In response, this study aims to gather and explore i) the general perspectives of health care professionals on culturally their experiences working with competent care, iii) their perceptions of their multi-cultural patients, own levels of cultural competence and iv) the extent to which they believe respective organizations address cross-cultural challenges in the workplace. Pro- fessionals were recruited from health care systems in a Mid-Western region of the USA where no prior research of this nature has been conducted. We antici- pated that the majority of professionals will value the importance of cross-cultural education and training but may differ with regards to both their own and their or- ganization’s perceived knowledge, and which aspects of cross-cultural education they believe are relevant to their practice.
+
+encounters,

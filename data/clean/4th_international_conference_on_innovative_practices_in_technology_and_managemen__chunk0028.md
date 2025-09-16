@@ -1,13 +1,23 @@
-# pp.
+---
+source_path: 4th_international_conference_on_innovative_practices_in_technology_and_managemen.md
+pages: n/a-n/a
+chunk_id: 1ba7ba490e5c3fea8191da7241b9ae4ae9c88889
+title: 4th_international_conference_on_innovative_practices_in_technology_and_managemen
+---
+# and
 
-455-460,
+[15] A. M. Votto, R. Valecha, P. Najafirad, and H. R. Rao, “Artificial Intelligence in Tactical Human Resource Management: A Systematic Literature Review,” Int. J. Inf. Manag. Data Insights, vol. 1, no. 2, p. 100047, 2021, doi: 10.1016/j.jjimei.2021.100047.
 
-[19] Namita Rajput, Gourab Das, Kumar Shivam, Chinmaya Kumar Nayak, Kumar Gaurav, Pooja Nagpal, An inclusive systematic investigation of human resource management practice in harnessing human capital,
+[16] H. Abbas, S. Sanyal, P. Nagpal, J. Panduro-Ramirez, R. Singh and S. Pundir, "An Investigation on a Blockchain Technology in Smart Certification Model for Higher Education," 2023 10th International Conference on Computing for Sustainable Global Development (INDIACom), New Delhi, India, 2023, pp. 1277-1281
 
-Materials Today: Proceedings,Vol 80, Part 3, 2023, pp 3686-3690, ISSN 2214-7853. https://doi.org/10.1016/j.matpr.2021.07.362. [20] F. A. Syed, N. Bargavi, A. Sharma, A. Mishra, P. Nagpal and A. Srivastava, "Recent Management Trends Involved With the Internet of Things in Indian Automotive Components Manufacturing Industries," 2022 5th International Conference on Contemporary Computing and Informatics (IC3I), Uttar Pradesh, India, 2022, pp. 1035-1041, doi: 10.1109/IC3I56241.2022.10072565.
+intuitiveness. Distinguished for
 
-[21] S.M. Tharani and S.V. Raj, “Predicting employee turnover intention in IT&ITeS industry using machine learning algorithms,” In 2020 Fourth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud)(I-SMAC), pp. 508-513, 2020.
-
-4
+3
 
 Authorized licensed use limited to: Visvesvaraya Technological University Belagavi. Downloaded on July 18,2024 at 09:29:23 UTC from IEEE Xplore. Restrictions apply.
+
+[17] M. E. Kara, S. Ü. O. Fırat and A. Ghadge, “A data mining-based framework for supply chain risk management,” Computers & Industrial Engineering, vol. 139, pp. 1-12, 2020.
+
+[18] P. William, A. Shrivastava, H. Chauhan, P. Nagpal, V. K. T. N and P. Singh, "Framework for Intelligent Smart City Deployment via Artificial Intelligence Software Networking," 2022 3rd International Conference on Intelligent Engineering and Management (ICIEM), London, United Kingdom, doi: 10.1109/ICIEM54221.2022.9853119.
+
+2022,

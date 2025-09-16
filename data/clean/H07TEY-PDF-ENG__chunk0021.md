@@ -1,9 +1,7 @@
-## responses from a large sample of 2,085 HR managers in charge of
-
-pay-setting. This sample spans organizations of every size, state and
-
-industry, including both public and private sectors. To complement this
-
-data, we conducted an additional survey with a sample of clients from
-
-ADP, in which we obtained responses from 720 HR managers in charge
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6896b226243c57991e9856a2f866764244f0c0c6
+title: H07TEY-PDF-ENG
+---
+## Resource Management Research Institute (SHRM). We collected

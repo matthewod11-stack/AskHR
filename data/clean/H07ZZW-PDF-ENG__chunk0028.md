@@ -1,19 +1,17 @@
-## human rights violations, such as Saudi Arabia. Consumers increasingly
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f438fc1f7882c0d6eacb91afe8621f1260a04598
+title: H07ZZW-PDF-ENG
+---
+## of Ukraine. Prominent Yale professor Jeﬀrey Sonnenfeld fashioned a
 
-hold brands responsible for environmental irresponsibility and forced
+spreadsheet to help the media track which companies were in and
 
-labor in their supply chains, but those same consumers still want the
+which were out, and CEOs had to decide almost instantly whether to
 
-stuﬀ they ordered, right now.
+keep paying employees in Russia, evacuate nationals, sell their assets,
 
-These are not merely questions of geopolitical risk in a multipolar
+or stay put. Even companies that seemed to handle that crisis well soon
 
-world. As University of Chicago professor Luigi Zingales pithily puts
-
-it, “We now have the politicization of the corporate world because we
-
-have corporatization of the political world.” In other words, the public
-
-believes businesses are more responsive to its dictates than nation-
-
-states are, and it expects business to play a larger role in a world reeling
+faced questions about their operations in other countries with egregious

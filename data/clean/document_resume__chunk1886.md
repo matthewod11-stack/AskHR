@@ -1,9 +1,7 @@
-# How Addressed
-
-A content validity strategy is appropriate for procedures designed to measure observable work behavior(s) or work product(s)
-
-No direct measurement of traits or constructs should be built into the system A trait may, however, be inherent in a job related behavior or outcome
-
-Job analysis should be conducted for each lob Relative importance of lob domains, or task areas, should be established during Job analysis Frequency and criticality of tasks should be established during Job analysis
-
-Domains indentified :n Job analysis can be defined in terms of acceptable level of lob performance
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 2fe294519cb4f3ee2285b378ac3e8360c0d366e6
+title: document_resume
+---
+# 'Uniform Guidelines Sec 14 (C) (3)

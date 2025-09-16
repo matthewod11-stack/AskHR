@@ -1,5 +1,11 @@
-# Philosophical Psychology, 11, 1–10.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1ba986248c3a45bd6373ff5ab55c3ea3eb023292
+title: untitled
+---
+# Monterey, CA: Brooks/Cole.
 
-Root, M. P. P. (1990). Resolving “other” status: Identity develop- ment of biracial individuals. In L. Brown & M. P. P. Root (Eds.), Diversity and complexity in feminist therapy (pp. 185–206). New York: Harrington Park Press.
+Richardson, F. C., Fowers, B. J., & Guignon, C. B. (1999). Re- envisioning psychology: Moral dimensions of theory and prac- tice. San Francisco: Jossey-Bass.
 
-Root, M. P. P. (Ed.). (1992). Racially mixed people in America.
+Robinson, D. N. (1991). Text, context and agency. Theoretical and

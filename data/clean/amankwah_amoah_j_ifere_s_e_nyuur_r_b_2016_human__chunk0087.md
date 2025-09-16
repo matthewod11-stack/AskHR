@@ -1,3 +1,23 @@
-# Thousand Oaks, CA: Sage.
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: f9ec25e0e846df08a3707a3bba140ce12ae0da7f
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Ashgate.
 
-Miller, D. (1990). The Icarus paradox: How exceptional companies bring about their own downfall.
+Langley, A. (1999). Strategies for theorizing from process data. Academy of Management
+
+review, 24(4), 691-710.
+
+29
+
+Mamman, A., Baydoun, N. & Adeoye, B. (2009). Transferability of management innovation to Africa: A study of two multinational companies' performance management system in Nigeria. Global Business Review, 10(1), 1-31.
+
+Mekonan, M., & Mamman, A. (2003). Human resource management in Ethiopia. In Kamoche, K., Debrah, Y., Horwitz, F. and Muuka, G.N. (Eds), Human Resource Management in Africa (pp. 103-115), London: Routledge.
+
+Mellahi, K., & Collings, D. G. (2010). The barriers to effective global talent management: The
+
+example of corporate elites in MNEs. Journal of World Business, 45(2), 143-149.
+
+Miles, M.B. & Huberman, A.M. (1994). Qualitative data analysis: An expanded sourcebook.

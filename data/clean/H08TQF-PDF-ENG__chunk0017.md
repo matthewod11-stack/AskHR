@@ -1,11 +1,7 @@
-## stakeholders and the public more broadly.
-
-We should know, because we nearly fell into this very trap. When
-
-we ﬁrst applied generalist models to prior authorization, we were
-
-conﬁdent that their capabilities would translate well. But we quickly
-
-encountered a fundamental mismatch between how these systems
-
-process information and how healthcare professionals actually make
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 28ba7459fd907fcf1c76561847efea62b5f09632
+title: H08TQF-PDF-ENG
+---
+## create liability, regulatory violations, and an erosion of trust among

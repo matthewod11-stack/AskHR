@@ -1,3 +1,25 @@
-## HBR / Digital Article / To Jumpstart Creativity, Try These 8 Prompts
+---
+source_path: H08L3L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 923ce0beb9be20b3c7672f607fde301a380533a8
+title: H08L3L-PDF-ENG
+---
+# Diamond Dogs/Getty Images
 
-opportunity to become the people who drive innovation and progress in
+As generative artiﬁcial intelligence becomes more prevalent in
+
+business, the key to success for all of us humans — whether we’re
+
+junior employees or senior executives — will be to delegate our routine
+
+work to technology and dedicate ourselves to more creative pursuits.
+
+Whether we’re reimagining sales and marketing strategies, improving
+
+internal processes, or generating alternate revenue streams, this is our
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

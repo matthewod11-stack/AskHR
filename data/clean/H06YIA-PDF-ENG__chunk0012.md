@@ -1,15 +1,15 @@
-## HBR / Digital Article / When to Change Your Company’s P&L Responsibilities
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab5482666210c9dca9d33f4ad03aeadf34e5674c
+title: H06YIA-PDF-ENG
+---
+## business units (SBUs), each with sales, proﬁt, cash, and value-creation
 
-David Taylor described as “the most signiﬁcant organization change
+responsibility for one or more product categories. This leap, which CEO
 
-we’ve made in the last 20 years,” elevated product as the company’s
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-primary dimension. A few years later, in 2021, the company “hopped”
+2
 
-from six to ﬁve SBUs.
-
-Most companies in a given industry stick to the same primary
-
-dimension. For example, large pharmaceutical companies (e.g., Amgen,
-
-BMS, GSK, Merck, Pﬁzer) tend to have function (research, development,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,15 @@
-## century perspective. American Psychologist, 55, 754–757.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: dbd287768612b57b6df3bfa0122e95de1e1910b7
+title: untitled
+---
+## School Psychology Review, 23(4), 604–618.
 
-Fagan, T. K., & Bose, J. (2000). NASP: A proﬁle of the 1990s.
+Fagan, T. K. (1995). Trends in the history of school psychology in the United States. In A. Thomas & J. Grimes (Eds.), Best prac- tices in school psychology (Vol. 3, pp. 59–67). Washington, DC: National Association of School Psychologists.
 
-Communique, 29(2), 10–11.
+Fagan, T. K. (1996). A history of Division 16 (School psychology: Running twice as fast). In D. A. Dewsbury (Ed.), Uniﬁcation through division: Histories of the divisions of the American Psy- chological Association (Vol. 1, pp. 101–135). Washington, DC: American Psychological Association.
 
-Fagan, T. K., Delugach, F. J., Mellon, M., & Schlitt, P. (1985). A bibliographic guide to the literature of professional school psychology 1890–1985. Washington, DC: National Association of School psychologists.
+Fagan, T. K. (1999). Training school psychologists before there were school psychologist training programs: A history—1890– 1930. In C. R. Reynolds & T. B. Gutkin (Eds.), The handbook of school psychology (pp. 2–33). New York: Wiley.
 
-Fagan, T. K., Gorin, S., & Tharinger, D. (2000). The National Asso- ciation of Schools Psychologists and the Division of School Psychology–APA: Now and beyond. School Psychology Review, 29(4), 525–535.
-
-Fagan, T. K., & Sheridan, S. (2000). Miniseries: School psychology in the 21st century. School Psychology Review, 29(4), 483–605.
+Fagan, T. K. (2000). Practicing school psychology: A turn-of-the-

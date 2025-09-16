@@ -1,15 +1,17 @@
-# resources.
+---
+source_path: H08L6Z-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: f4792f20c2fc20398d8e6511e1a08831e8489c10
+title: H08L6Z-PDF-ENG (1)
+---
+# an example:
 
-Sarah listed everyone who might have a say in her digital campaign’s
+- 1. Identify your potential stakeholders.
 
-success, including her supervisor, the marketing VP, and her team
+Brainstorm everyone who might be aﬀected by or have an impact
 
-members. She then added the legal team who would need to approve
+on your initiative. Include obvious players like your boss and team
 
-messaging, the ﬁnance director who controlled the budget, and sales
+members, but also consider “silent” stakeholders such as clients,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+external partners, or gatekeepers who control access to information and

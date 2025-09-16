@@ -1,15 +1,21 @@
-## psychology professor at the University of Texas at Austin and author
+---
+source_path: H087JX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9da0d21f3acc18b8db7b62b664def8bcee5eba52
+title: H087JX-PDF-ENG
+---
+# What the Experts Say
 
-of Bring Your Brain to Work: Using Cognitive Science to Get a Job, Do
+According to a survey by ResumeBuilder.com, 90% of companies with oﬃce space will put in place RTO policies by the end of this year, with
 
-it Well, and Advance Your Career. Your job is to help the organization
+most tracking employee attendance. These decisions thrust managers in
 
-succeed, so “you can ﬁght the policy up to the point where it’s been set
+the center of a protracted RTO battle, tasking them with implementing
 
-in stone, after which you either enforce it or quit,” he says. You’re not
+policies they had no hand in creating and might not fully support.
 
-just a robotic keeper of the rulebook, however. Your role as a leader is to
+But even if you have reservations about your employer’s rules and
 
-“enforce the policy in a way that doesn’t undermine it, while at the same
+deeply sympathize with employees who are struggling with the policy,
 
-time showing empathy with the people who have to live with it.”
+you must make a concerted eﬀort to embrace it, says Art Markman, a

@@ -1,15 +1,13 @@
-# workers.
+---
+source_path: H07EE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8aaf1ed880047675c41e4b259c5f011c96b61740
+title: H07EE6-PDF-ENG
+---
+## more than 460 calls over 30 months from a population of approximately
 
-We analyzed detailed records of MD complaint line calls, assessing the
+260 workers. This success is even more impressive because the
 
-type and number of concerns raised by workers, as well as investigation
+MD program serves a workforce largely comprised of economically
 
-and resolution processes. Interviews were also conducted with 14
-
-stakeholders from the MD program. We found that the MD model
-
-counteracts common hotline challenges by being easy for dairy workers
-
-to use and resolving complaints quickly, unlike many complaint
-
-mechanisms that can draw out investigations for months and even
+precarious, migrant workers, who are less likely to complain than other

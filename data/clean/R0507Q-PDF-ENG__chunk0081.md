@@ -1,13 +1,23 @@
-# compressor back on line before morning.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eea3fdcde9f471c334240466eba7e2b4f19828e2
+title: R0507Q-PDF-ENG
+---
+# energy and materials.
 
-The department proceeded to set quality and output records. Over time,
+That feedback and empowerment had visible results. When, for example,
 
-the department manager became concerned that employees would lose
+a hydrogen compressor failed, a supervisor on the midnight shift sent
 
-interest in continually improving operations. He tightened the parameters
+an emergency repair crew into action. Previously, such a failure of a
 
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+noncritical component would have been reported in the shift log, where
 
-19
+the department manager arriving for work the following morning would have
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to discover it. The midnight shift supervisor knew the cost of losing the
+
+hydrogen gas and made the decision that the cost of expediting the repairs
+
+would be repaid several times over by the output produced by having the

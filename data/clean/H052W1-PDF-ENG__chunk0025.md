@@ -1,7 +1,15 @@
-# new life.
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a16a9430c3dca7004382989667a84d15beb4ddf4
+title: H052W1-PDF-ENG
+---
+# to the situation.
 
-Case Study #1: Redeﬁne your expectations for yourself, and make
+- Be shy about asking for ﬂexibility if it will help you do your job better.
 
-adjustments to how you do your job
+Speak up for what you need.
 
-Three years ago, Ericka DeBruce, the vice president of engagement,
+- Assume that you will be the same professional you were pre-baby.
+
+Instead, think about how to modify your best attributes to suit your

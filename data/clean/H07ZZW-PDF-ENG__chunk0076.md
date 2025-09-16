@@ -1,35 +1,17 @@
-## International Business School professor Megan Reitz and author Jim
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39c40fcf8c0b663a761a4523959e3cdfeb9a5d78
+title: H07ZZW-PDF-ENG
+---
+## Be inclusive and transparent about politics. Organizations cannot
 
-Higgins have rightly argued, “Banning political speech is fundamentally
+represent all employees’ views on political questions. Issues such as
 
-implausible because it is impossible to draw a clean, objective line
+racism, reproductive rights, and climate change are so fraught precisely
 
-between what counts as ‘politics’ and what doesn’t — or which issues
+because they have both political and personal dimensions. Nor can
 
-are ‘acceptable’ to discuss because they relate to the company’s mission
+companies ignore these views, hope they won’t crop up during the
 
-and which aren’t.”
-
-The best nonpartisan approach for coping with escalating political
-
-demands by employees is to emphasize individual political
-
-engagement, tolerance, and mutual respect. True inclusion means
-
-that someone should be able to hold a political opinion, even
-
-if it’s misaligned with the company’s dominant culture, without
-
-being penalized or “canceled.” Employers should respect healthy and
-
-inclusive discourse while setting clear ground rules around issues such
-
-as racism, sexual harassment, and calls for violence. A strong, clear code
-
-of conduct is useful, not least by making it clear what a corporation
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+workday, or prevent employees from posting about them. As Hult

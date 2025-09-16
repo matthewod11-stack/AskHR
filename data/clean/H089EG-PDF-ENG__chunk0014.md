@@ -1,37 +1,29 @@
-## HBR / Digital Article / Learning to Delegate as a First-Time Manager
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c012680ac83d84227e94611de187e0a513bfe1e
+title: H089EG-PDF-ENG
+---
+# member’s engagement and retention.
 
-As an example, one of Tom’s projects involved engaging with customers
+Which pieces of a project might leverage someone else’s strengths?
 
-and tracking customer conversations in a database. This work provided
+If you feel uncomfortable handing oﬀ an entire project to someone else,
 
-the organization with important institutional knowledge. By pulling
+consider what pieces of a projects might require skills that your team
 
-a team member in to help enter information into the database, Tom
+members are experienced in. You can identify these skills by observing
 
-was able to shift his focus to preparing for and following up with the
+people in action or asking questions during one-on-one conversations
 
-customers, and his team member gained a learning opportunity. She
+such as: “What kind of work makes you feel energized?”; “What do
 
-was exposed to information about customer relationships that helped
+you consider your greatest strengths?”;“What makes you feel most
 
-inform her work on this project, and on future projects as well.
+accomplished?”
 
-In your own situation, remember that delegating parts of a project
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-can not only help you understand where people shine, but also where
+4
 
-they need to develop. For instance, you can test the waters by giving
-
-someone a stretch project that aligns with their core job responsibilities.
-
-From there, you can gauge their strengths and growth areas.
-
-- 3) Clearly communicate the task or project to your team member, and clarify roles and next steps.
-
-Now that you’ve got some ideas around what work you want to delegate
-
-and to whom, thoughtfully approach the team member to share your
-
-thinking. They need to know what you’re delegating, why they’re being
-
-asked to do it, and what you’re expecting of them. Here’s how to go
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

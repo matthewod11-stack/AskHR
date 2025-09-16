@@ -1,9 +1,13 @@
-# McGraw-Hill.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e2e2b4fb907a9a5b8d9b24d5009ce72a862aedce
+title: untitled
+---
+## (2nd ed). New York: Appleton-Century-Crofts.
 
-Brown, J. S. (1979). Motivation. In E. Hearst (Ed.), The ﬁrst cen- tury of experimental psychology (pp. 231–272). Hillsdale, NJ: Erlbaum.
+Bouillaud, J. (1848). Recherches Cliniques Propres a Demontrer que le Sens du Langage Mouvements de la Parole Resident dans les Lobules Anterieurs du Cerveau. Paris: Balliere.
 
-Cahill, L., & McGaugh, J. L. (1998). Mechanisms of emotional arousal and lasting declarative memory. Trends in Neuroscience, 21, 294–298.
+Broca, P. (1861). Remarks on the seat of the faculty of articulate speech, followed by the report of a case of aphemia (loss of speech) (C. Wasterlain & D. A. Rottenberg, Trans.). Bulletin of the Society of Anatomy Paris, 6, 332–333, 343–357.
 
-Cannon, W. B. (1927). The James-Lange theory of emotions: A critical examination and an alternative theory. American Journal of Psychology, 39, 106–124.
-
-Clark, E., & Jacyna, L. S. (1987). Nineteenth-century origins of neu- roscientiﬁc concepts. Berkeley: University of California Press. Clenending, L. (1942). Source book of medical history. New York:
+Brown, J. S. (1961). The motivation of behavior. New York:

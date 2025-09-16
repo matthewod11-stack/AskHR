@@ -1,11 +1,15 @@
-# Escaping the Proficiency Plateau
+---
+source_path: H08VUS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3d4809bde3a1c67f43a5088f61c8bab6b27df3f
+title: H08VUS-PDF-ENG
+---
+## creative qualities such as openness, humility, curiosity and wonder.
 
-I discovered the value of strategic amateurism accidentally, in my role
+When you have no expertise to lean on, your mind ﬂexes in directions
 
-as the chief marketing oﬃcer of Intuit Mailchimp. I had been in the job
+your day to day rarely demands. And if you engage in that practice
 
-long enough to have reached what’s known as the “proﬁciency plateau”
+actively and consistently, you don’t just reconnect with those qualities—
 
-—the point where skills that you’ve spent years mastering now deliver
-
-consistent results, but the thrill of discovery has begun to fade. It’s not
+you strengthen the cognitive agility you carry back into your regular job.

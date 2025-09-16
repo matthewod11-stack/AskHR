@@ -1,5 +1,15 @@
-# Linkage Studies
+---
+source_path: microsoft_word_final_engagement_doc.md
+pages: n/a-n/a
+chunk_id: dfa9559e9f87e374556b406830122ed5354183b0
+title: microsoft_word_final_engagement_doc
+---
+# Engaged Employees Are Good for Business
 
-Other researchers have measured employee engagement at the organizational level and connected it to business outcomes. When investigators collect data at the business unit or company level, these efforts are called “linkage studies.” The best examples of original research in this area are the studies by Gallup and Towers Perrin. The Gallup organization has provided perhaps the most convincing evidence of the link between engagement and company financial profits based on the number of studies conducted, the large sample sizes in the studies, and advanced methodologies that enabled them to use data from company records and archival databases. A meta-analysis of dozens of different Gallup studies compared results from business units within large companies and also compared companies with other companies.14 The findings showed that having a work environment that promoted positive employee engagement was consistently associated with beneficial business outcomes, including reduced employee turnover, greater customer satisfaction, employee productivity, and company profits.
+Other studies explore the effect that improving employee engagement has on overall business success. Many employer case studies suggest the possibility of creating cost savings to the business by encouraging greater employee engagement.2 For example, electronics retailer Best Buy measured engagement levels in many of its employees and compared the average scores of employees at different stores on several company success metrics, such as sales revenue. Best Buy found that stores with even small increases in average employee engagement scores from one year to the next experienced annual sales increases of over $100,000 per store. Thus, improvements in level of engagement were associated with improvements in company sales. JCPenney discovered that in their stores where employees rated in the top quartile of average
 
-Towers Perrin used its large database of worldwide clients to explore the link between company-level engagement and business success at mid- to large-size companies.21 In one study of 50 global organizations, the findings showed that high engagement companies (those with the highest average employee engagement scores), had higher 12-month change in net income (14% vs. - 4%, respectively) and higher 12-month growth in earnings per share of company stock (28% vs. - 11%) than low-engagement companies (those with the lowest average employee engagement scores). Another study of 40 global organizations showed that high engagement companies had a higher net profit margin (2.1% vs. -1.4%, respectively) than low-engagement companies.21
+(cid:32)
+
+(cid:52)(cid:32)
+
+engagement scores (highest level) generated about ten percent higher sales volume than similar-sized stores where employees were in the bottom quartile of engagement (lowest level).

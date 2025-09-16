@@ -1,25 +1,27 @@
-# and not to share.
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72f89cb19c1b1a0a9561b190376ee3e493575bcb
+title: H08UYL-PDF-ENG
+---
+# regain clarity.
 
-- 5. The Detailed Over-Explainer
+- 4. The TMI Leader
 
-This leader overloads meetings with unnecessary complexity. They equate thoroughness with clarity, oﬀering too much context or diving
+This leader blurs personal and professional boundaries. Especially in
 
-into technical details. In executive or board settings, this can lose
+organizational cultures that emphasize authenticity or “bringing your
 
-the audience, triggering side conversations about minor points and
+whole self to work,” some leaders overcorrect. While empathy is a
 
-becoming a distraction that derails meeting focus.
+critical leadership skill, blurring boundaries by oversharing personal
 
-One functional leader we worked with lost credibility in cross-
+stress, doubt, or emotion can erode credibility and create discomfort.
 
-functional meetings by diving into minutiae, explaining every nuance
+Consider a founder Tutti worked with, who regularly opened team oﬀsites by sharing personal struggles, hoping to foster connection.
 
-before arriving at a recommendation. We suggested he shift his style to lead with a clear synthesis of the issue and oﬀer detail only when
+Instead, team members began questioning her steadiness and
 
-asked. He practiced providing his headline recommendation ﬁrst,
+judgment. She needed to better balance her authenticity with the
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+intention behind why she was sharing, and pick what and when to share

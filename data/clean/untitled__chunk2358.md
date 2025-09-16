@@ -1,5 +1,9 @@
-# Credentialing Development
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d8319fe84a865eb8c9a1aa906c1b8f1bdbf17879
+title: untitled
+---
+# Training Program Development
 
-Governmental recognition of psychologists providing ser- vices to public schools emerged in this period. The develop- ment of standardized tests to facilitate the proper placement and education of children made it necessary to impose some form of regulation on those who administered the tests. By 1925, the New York City public school system was offering a licensing examination for persons holding a master’s degree from an institution recognized by the state’s board of regents and who had at least 1 year of experience in mental measure- ment. Although speciﬁc evidence of credentialing is lacking, it is probable that several other major cities were also imple- menting some regulation. In some locales, especially smaller cities and rural settings, such regulation required no more than a teaching certiﬁcate and a special course in Binet test- ing; the experts were often referred to as “Binet examiners.” The title “school psychologist” was growing in use but was not widespread.
-
-State-level credentials for school psychologists were ﬁrst approved in New York and Pennsylvania in the mid-1930s. Although the requirements did not include graduation from a training program in school psychology per se, recommended programs of preparation appropriate to such practice were included, as were expectations for ﬁeldwork experience. Graduate-level work (which might lead to the master’s de- gree) was expected in addition to an undergraduate degree. In Pennsylvania,practitionerswerecalled“schoolpsychological examiners” or “school psychologists” (depending on experi- ence); in New York, they were called “school psychologists.”
+For psychology trainees desiring to work in the schools, rec- ommended curricula were available at several colleges and universities. In the late 1920s, New York University estab- lished the ﬁrst programs speciﬁcally titled “school psychol- ogy” leading to undergraduate and graduate degrees and even the doctorate (Fagan, 1999). In the late 1930s, Pennsylvania StateUniversityalsoestablishedgraduatesequencesforschool psychologists, although a speciﬁc school psychology doctoral program was not available until much later. By the end of the period, few training programs were speciﬁcally titled “school psychology,” and most personnel continued to be trained in general experimental psychology, educational and clinical psychology, and teacher-education-related programs.

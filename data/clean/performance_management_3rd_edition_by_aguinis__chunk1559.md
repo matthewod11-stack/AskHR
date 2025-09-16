@@ -1,5 +1,7 @@
-## TABLE 9.4 Individual Quotes Taken from Actual Employee Performance Evaluations
-
-Since my last report, this employee has reached rock bottom . . . and has started to dig.
-
-I would not allow this employee to breed. This employee is really not so much of a has-been, but more of a definitely won’t be. Works well when under constant supervision and cornered like a rat in a trap. He would be out of his depth in a parking lot puddle. He sets low personal standards and then consistently fails to achieve them. This employee is depriving a village somewhere of an idiot. This employee should go far, . . . and the sooner he starts, the better. He’s been working with glue too much. He would argue with a signpost. He has a knack for making strangers immediately detest him. He brings a lot of joy whenever he leaves the room. If you see two people talking and one looks bored . . . he’s the other one. Donated his brain to science before he was done using it. Gates are down, the lights are flashing, but the train isn’t coming. If he were any more stupid, he’d have to be watered twice a week. If you gave him a penny for his thoughts, you’d get change. If you stand close enough to him, you can hear the ocean. One neuron short of a synapse. Some drink from the fountain of knowledge . . . he only gargled. Takes him 2 hours to watch 60 Minutes. The wheel is turning, but the hamster is dead.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 74e2b94529b1d4ec05b14b9e53b7aad2d33abb33
+title: performance_management_3rd_edition_by_aguinis
+---
+# feedback.

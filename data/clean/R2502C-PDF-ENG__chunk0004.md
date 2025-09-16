@@ -1,15 +1,15 @@
-# parts.
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1fd61483ff6516632a249f1d5eca57acb526e18
+title: R2502C-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Strategic Fit
 
-The senior leaders resolved to increase the company’s value by breaking
+in its future performance was below average. Employees were burned
 
-down organizational silos and increasing teamwork to get everyone
+out. Innovation was sluggish, and the release dates for next-generation
 
-working toward mutually beneﬁcial goals. As we write this article,
+products kept slipping. Collaboration among operating units was
 
-they are endeavoring to do that. In the process, they are addressing
-
-fundamental questions that were swept under the rug for years: What
-
-does winning mean to us? Are we using the right scorecard to measure
-
-and manage progress? Which strategic factors are constraining our
+lacking. Some analysts valued the company at less than the sum of its

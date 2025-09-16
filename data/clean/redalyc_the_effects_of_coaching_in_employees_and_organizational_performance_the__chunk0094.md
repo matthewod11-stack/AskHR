@@ -1,17 +1,21 @@
-## Academy of Marketing Science, 16(2): 79-94. http://dx.doi.org/10.1007/BF02723327
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: c5fb8365248f166f5382e0dc59f75f769b6207f5
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# mentoring and organizational, performance within substance abuse centers. Journal of
 
-BACKES-GELLNER, U.; TUOR, S.N. (2010). Avoiding labor shortages by employer signaling: on
+Management, 35: 1113-1128. http://dx.doi.org/10.1177/0149206308329969
 
-the importance of good work climate and labor relations. Industrial and Labor Relations
+AMIT, R.; SCHOEMAKER, P. (1993). Strategic assets and organizational rent. Strategic
 
-Review, 63: 271.
+Management Journal, 14: 33-46. http://dx.doi.org/10.1002/smj.4250140105
 
-BARNEY, J.B. (1991). Firm resources and sustained competitive advantage. Journal of
+ANDERSON, V.; RAYNER, C.; SCHYNS, B. (2009). Coaching at the sharp end: the role of line
 
-Management, 17: 99-110. http://dx.doi.org/10.1177/014920639101700108
+managers in coaching at work. London: Chartered Institute of Personnel and Development
 
-BARRET, P. (2007). Structural Equation Modeling: Adjusting Model Fit. Personality and
+[CIPD].
 
-Individual Differences, 42(5): 815-824. http://dx.doi.org/10.1016/j.paid.2006.09.018
-
-BIRDI, K.; CLEGG, C.; PATTERSON, M.; ROBINSON, A.; STRIDE, D.; WALL, T. et al. (2008).
+BAGOZZI, R.P.; YI, Y. (1988). On the evaluation of structural equation models. Journal of

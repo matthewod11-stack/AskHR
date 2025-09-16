@@ -1,41 +1,55 @@
-# CHAPTER SEVEN
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: c4e5c17dd905578e8b012245d0d2ed0e6d6bb4a5
+title: beo_chap7_1
+---
+## wages and effort back to the no-overconfidence point.
 
-than younger college students on general knowledge questions, which suggests that
+A different possibility is that overconfident workers think they are more skilled
 
-age teaches people what they know (see Kovalchik et al. 2005). And depressed
+than they really are (i.e., they overestimate their value of s;). Whether overconfident
 
-people are typically not overconfident (“wiser but sadder”), which suggests over-
+workers of this sort work too little or too much will depend on whether effort and
 
-confidence is part of mental health, and probably evolutionarily adaptive (see, for
+skill are complementary, and on the types of contracts firms can offer. For example,
 
-example, Taylor and Brown 1988). Overconfidence depends also on the type of task
+if e; and s; are complements, the firm can offer a contract that pays a large bonus if a
 
-and its framing. For example, overconfidence about a particular estimate shrivels up
+very high output level is achieved (similar to backloaded option packages which are
 
-when a portfolio of estimates are considered (see Kahneman and Lovallo (1993) on
+common in biotechnology firms, or highly leveraged venture capital deals offered to
 
-the single-case “inside view” compared to the portfolio “outside view”). Consider
+founders hungry for capital). Workers who overestimate their skill s; will perceive
 
-the 90%-confidence interval] task, where subjects are instructed to give a wide inter-
+the marginal return to effort as higher than it actually is and will work hard to grasp
 
-val for each numerical quantity which is only wrong 10% of the time; typically, five
+the brass ring. If this is true, we would expect to see extraordinary bonuses being
 
-out of ten intervals are too narrow. Subjects typically give too narrow intervals. But
+offered by firms, to exploit overconfidence, accompanied by high actual failure rates.
 
-when subjects are asked how many out of ten questions they got right, they typically
+The opposite of overconfidence might be important in worker motivation as well.
 
-do not say “one out of ten,” they say “five out of ten”--which is empirically accurate
+Psychiatrists discuss an “impostor syndrome” in which workers discount their own
 
-(Sniezek and Buckley 1992). Overconfidence also shrivels up when the question is
+success, or attribute it to luck, and feel that others have been fooled into thinking
 
-posed more narrowly, breaking an outcome into components (Dunning et al. 1989).
+they are talented (see, for example, Kolligian and Sternberg 1991). Self-perceived
 
-While drivers are overconfident about overall driving ability, they are less over-
+“impostors” may work harder than others if they think that they have talent but need
 
-confident about specific components like driving in snow, avoiding fender-bender
+to work even harder to achieve true success.
 
-accidents in heavy traffic, and so on. This fact suggests that if the criteria used to
+More generally, there are important caveats to applying the evidence of wide-
 
-judge managerial success become more vague as people rise in a firm’s hierarchy,
+spread overconfidence to organizations. Rather than assuming that agents uni-
 
-overestimation of future success (and career outcomes) will rise too.
+formly overestimate their abilities, researchers need to account for heterogeneity
+
+and attempt to evaluate ex ante indicators of overconfidence. For example, some
+
+studies show that women are less overconfident than men, which might be impor-
+
+tant for personnel selection. Seventy- to eighty-year-olds are also less overconfident
+
+247

@@ -1,23 +1,31 @@
-# Social cohesion
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 8592c00abb9a62c2ff6799e04d8329788f355668
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Task cohesion
 
-6.47 (1.47)
+5.83 (1.55)
 
-6.84 (1.92)
+6.09 (1.77)
 
-7.12 (.1.73)
+6.86 (1.45)
 
-7.60 (1.28)
+8.13 (.78)
 
-2.06
+12.40
 
-1.00
-
-.50
-
-.15
-
-1.00
-
-.48
+���
 
 1.00
+
+.01
+
+< .001
+
+.01
+
+< .001
+
+.009

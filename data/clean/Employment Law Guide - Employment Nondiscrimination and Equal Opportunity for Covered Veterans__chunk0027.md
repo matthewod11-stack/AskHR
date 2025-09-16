@@ -1,19 +1,19 @@
-# by the contractor; and
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Covered Veterans.md
+pages: n/a-n/a
+chunk_id: ce239e8590e6b3aaff4aa06ef48430f174bca4c0
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Covered Veterans
+---
+# on or under the contract.
 
-Contracts and subcontracts involving national security, if the head of the contracting agency determines
+The Director of OFCCP may grant a waiver from the requirements of VEVRAA in the following circumstances:
 
-both that the contract is essential to national security, and noncompliance with a particular requirement of
+For speciﬁc contracts, subcontracts, or purchase orders, if special circumstances in the national interest
 
-VEVRAA or the regulations with respect to the process of awarding the contract is essential to national security.
+require such an exemption, or for groups or categories of contracts: where it is in the national interest;
 
-The categories of veterans covered under VEVRAA are disabled veterans, recently separated veterans (within
+where it is found impracticable to act upon each request individually; and where such waiver will
 
-three years of discharge or release from active duty), active duty wartime or campaign badge veteran, and
-
-veterans who, while serving on active duty in the Armed Forces, participated in a U.S. military operation for
-
-which an Armed Forces Service Medal was awarded pursuant to Executive Order 12985 (61 FR 1209).
-
-VEVRAA and its implementing regulations apply only to the speciﬁc state or local government entities that
-
-participate in work on or under a Federal contract or subcontract. The coverage is narrower than that which
+substantially contribute to convenience in administration of the act; For facilities not related to performance of the contract, as determined by the Director upon written request

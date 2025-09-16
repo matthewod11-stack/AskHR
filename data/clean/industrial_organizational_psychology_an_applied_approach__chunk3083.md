@@ -1,11 +1,27 @@
-# How Teams Develop
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2a89c8d34bc6f99e9a2fee2cd7aee48b348e4073
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Team Member II
 
-In an influential theory of team development, Tuckman () proposed that teams typically go through four developmental phases: forming, storming, norm- ing, and performing. In the forming stage, team members get to know each other and decide what roles each member will play. During the early part of this stage, team members are on their best behavior as they try to impress and get along with the other team members. Team members are often excited about the poten- tial to accomplish something but are also anxious about working with others in a team. During the later part of this stage, the team concentrates on clarifying its mission, determining the goals it wants to accomplish, deciding on the tasks to be done to accomplish their goals, setting rules and procedures, and developing alternative courses of action to reach their goals (Marks, Mathieu, & Zaccaro, ). A meta-analysis by Salas, Mullen, Rozell, and Driskell () indicates that formal team building (training on how to be a team) that focuses on role clarifica- tion will slightly improve team performance.
+group behavior, teams, and conflict
 
-During the storming stage, the good behavior disappears. On an individual level, team members often become frustrated with their roles, show the stress of balancing their previous duties with their new team responsibilities, and question whether they have the ability to accomplish the goals set in the forming stage. Interpersonally, team members begin to disagree with one another and to challenge each other’s ideas. It is from this tension and conflict that the team often gets the energy to perform well in later stages.
+493
 
-During the norming stage, the team works toward easing the tension from the storming stage. Team members begin to acknowledge the reality of the team by accepting the team leader and working directly with other team members to solve difficulties. At this point, team members have either accepted their initial roles or made adjustments to roles for which they are better suited.
+494
 
-In the performing stage, the team begins to accomplish its goals. Group members make innovative suggestions, challenge one another without defensive responses, and participate at high levels. During this stage, the team continually monitors its progress toward goals, determines additional resources that might be needed, provides assistance and feedback to team members, and makes neces- sary strategic adjustments (Marks et al., ).
+chapter 
 
-Although this theory of team development is commonly used, as one would imagine, there is tremendous variation in how a given team will develop. An alternate theory, called punctuated equilibrium, suggests that rather than forming in stages, teams develop direction and strategy in the first meeting, follow this direction for a period of time, and then drastically revise their strategy about half way through the life of the team (Gersick, ).
+production teams saves money by removing management layers and making the team responsible for its own production.
+
+Customer service teams are commonly found in restaurants and retail stores. In the traditional customer service model at a restaurant, each employee is assigned specific tasks (e.g., serving, cooking, busing tables) in specific areas. With the team approach, each employee may still be assigned a primary duty and area but is expected to “do what it takes” to satisfy customers. For example, suppose that Ken is your server at a very busy restaurant. You want a new drink (milk, of course), but Ken is at another table. The closest person to you is Barbie, who is busing tables. In the traditional system, a request of more milk from Barbie would result in a response such as “I only bus tables; you’ll have to wait for your server.” In the team approach, Barbie would have been cross-trained in serving beverages and would be able to comply with your request.
+
+Webber and Klimoski () believe that not all work teams are alike and that an important type of work team is the crew. Crews are groups of “expert specialists [who each] have specific role positions, perform brief events that are closely synchronized with each other, and repeat these events across different environ- mental conditions” (Webber and Klimoski, , p. ). Examples of crews would include a group of firefighters, a flight crew (pilots, navigators, flight attendants, etc.), and a motion picture production crew (director, cameraman, key grip, etc.). Because crews include highly trained specialists and often rely on technology, they are affected less by changes in membership than are other work teams.
+
+Parallel Teams Parallel teams, also called cross-functional teams, consist of representatives from various departments (functions) within an organization (Keller, ). For example, a team formed to reduce the time to ship a product might include members from the sales, shipping, production, and customer service departments. For cross-functional teams to be successful, it is important that they have a clear purpose, receive support from each functional area, and take steps to increase the trust levels of committee members. Building trust in cross- functional teams is especially important, as members are often torn between representing the inter- ests of their function and doing what is best for the organization as a whole.
+
+Project Teams Project teams are formed to produce one-time outputs such as creating a new product, installing a new software system, or hiring a new employee. Once the team’s goal has been accomplished, the team is dismantled. The temporary nature of project teams is what distinguishes them from parallel and work teams. The environmental consulting firm of Camp Dresser and McKee provides an excellent example of a project team. The company needed to replace its human resource information system (HRIS), which tracks employment information for its , employees. Because such a system was used by a wide variety of departments, Camp Dresser and McKee formed a -person team to select and implement the new system. Once the system was in place, the team disbanded (Jossi, b).
+
+Management Teams Management teams coordinate, manage, advice, and direct employees and teams. Whereas work, parallel, and project teams are responsible for directly accomplishing a particular goal, management teams are responsible for providing general direction and assistance to those teams.

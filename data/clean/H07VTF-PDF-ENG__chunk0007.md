@@ -1,11 +1,13 @@
-# revenue.
+---
+source_path: H07VTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e2e192bcc50e84b10e018c294bc55264be567ef
+title: H07VTF-PDF-ENG
+---
+# HBR Staff/Unsplash
 
-This is what my client, James, was facing (not his real name). James
+When you work for a struggling company, it’s normal to feel compelled
 
-is a VP of business development and had been with his cybersecurity
+to work longer hours in hopes of righting the ship. This tendency is
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+particularly true in business development when you directly impact

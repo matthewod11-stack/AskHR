@@ -1,35 +1,65 @@
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d38a18e0216a5d6145dfa9a83cde1dbfbebb27c6
+title: H07U7Q-PDF-ENG
+---
 # HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
 
-applications in how this is going to make things easier, better, and more
+is being visited by a member of our executive team. There’s eight of us,
 
-impactful for our customers, and at the same time, allowing us to raise
+so for our 535+ stores, we’re spending a lot of time on this road show this
 
-the bar on how we look at things like assortment and all of the key
+year, connecting with our team members, making sure they understand
 
-things that we do in bringing the experiences to our customers.
+where we’re going and getting their feedback of what they’re seeing. It’s
+
+helping us improve and elevate many of the priorities and initiatives
+
+we’re doing across the organization.
 
 ADI IGNATIUS:
 
-You’ve talked a couple times about sustainability, and I know that’s a big
+I don’t think we’ve been through a show this year without talking
 
-priority for you. How does a company go from wanting generally to do
+about generative AI. We have a question from Tampa, Florida, which
 
-the right thing in terms of climate change, in terms of sustainability, to
+is just how do you think about AI and how it can, or maybe already is,
 
-really making it fundamental?
+changing the grocery shopping experience?
 
 JASON BUECHEL:
 
-First and foremost, it’s important to be authentic. For us, within our
+It’s going to fundamentally change retail and grocery over the course of
 
-core values, the environment has always played a role. The work that
+the next 10 years. To go into one of your earlier questions, this is one of
 
-we’ve done in supporting the organic movement is an example, which
+the great things about being a subsidiary of Amazon as well, and being
 
-has been the leading climate-friendly agricultural practice over the last
+able to leverage capabilities on this side.
 
-several decades. It’s always been part and parcel around how we can
+When I think about how we work, things are going to change. You
 
-make sure that this is authentically connected to the work we’re doing.
+know, the role of a merchant, which is very much at the center of retail
 
-For us it’s easy, because it ties to our higher purpose of nourishing
+in how you select product, decisions that you’re going to be making
+
+around assortment, and pricing, and merchandising. We’re going to
+
+have additional insights and toolsets that AI is going to really inﬂuence.
+
+I think about all of the diﬀerent, amazing things that this is going
+
+to provide for customers as well, whether it’s helping build out a
+
+shopping list, to helping select products that you’re going to bring
+
+together for an amazing meal or experience that you’re preparing for, to
+
+helping provide discovery. I think there’s going to be so many diﬀerent
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+16
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,13 @@
-## many details of this new operating system secret from key stakeholders
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 992aabd905d89d7d38d16dc755663acea7ea6798
+title: H08IWP-PDF-ENG
+---
+## adverse stakeholder reaction to the announcement.
 
-to prevent competitors from getting ahead of Microsoft’s plans.
+This problem — not including stakeholders in important decisions — is
 
-Windows Vista required higher hardware speciﬁcations than previous
+not uncommon. Famously, for example, in 2007, with Apple’s popularity
 
-Windows versions, so original equipment manufacturers, who had
-
-been informed late, were unable to adapt properly and struggled with
+growing, Microsoft rushed to release Windows Vista, after having kept

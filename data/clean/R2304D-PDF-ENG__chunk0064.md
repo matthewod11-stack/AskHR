@@ -1,9 +1,7 @@
-# local worker centers.
-
-However strong your company’s culture and communications may be,
-
-and whether or not your employees are unionizing or unionized, you
-
-can make your ﬁrm’s relationship with its workforce even stronger by
-
-aﬀording your workers as much direct agency as possible over the issues
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35ce22031530ea9e24d512990b7d03693452eada
+title: R2304D-PDF-ENG
+---
+## without a union—as in professional associations in law and medicine, or

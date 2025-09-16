@@ -1,17 +1,9 @@
-## fully comprehend regulatory risks and policies before committing.
+---
+source_path: H08ERV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c5b02dc1621167f3564d4ebdf6331cf02f351fd
+title: H08ERV-PDF-ENG
+---
+## market. Additionally, many platforms (such as Amazon, Facebook, or
 
-Take Olive AI, for example, which shut down in November 2023. Their
-
-speedy scaling led to a diverse clientele, from small businesses to large
-
-hospitals. This resulted in a mismatch in user experience as each type of
-
-client had diﬀerent needs. Instead of building a loyal client base, Olive
-
-AI prioritized acquiring more clients of any size to impress investors
-
-with its growth. A more measured approach involving experimentation
-
-and A/B testing within speciﬁc customer segments before full-scale
-
-expansion might have laid the stage for a more focused strategy and
+Uber) operate within heavily regulated markets where it is crucial to

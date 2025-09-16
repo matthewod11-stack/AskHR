@@ -1,3 +1,7 @@
-# 11
-
-and to what extent individuals perceive overall gender inequality to exist. It also responds to objective (2) by identifying factors hypothesized to influence individuals’ perceptions of overall gender inequality. This paper illustrates how gender and occupational categorization have an impact on the way individuals perceive overall gender inequality. Paper 3 focuses on objective (3). It links several social psychological theories with the intention of identifying individual and organizational predictors of individuals’ perceptions of the gender pay gap. Paper 4 focuses on objective (4) by analyzing how male and female employees react to pay inequity. An overview of the structure of the thesis is represented in Figure 4.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 0f1344ed64ad80d8d8572b80d717a666c9eb54cf
+title: file_1
+---
+# 3 Further information available at: http://www.stm.fi/en/gender_equality/equal_pay;jsessionid=1eda3baa5dda5c637bd9370a41ca

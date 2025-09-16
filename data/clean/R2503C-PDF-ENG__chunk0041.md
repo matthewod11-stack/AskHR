@@ -1,9 +1,21 @@
-## HBR / Magazine Article / Lean Strategy Making
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cab8cc2c57bee51027d5d9eca84e8ba253a7dd50
+title: R2503C-PDF-ENG
+---
+## In companies that practice lean strategy, the organization’s success at
 
-to whether corrective actions are needed. In extreme cases—such as
+meeting its performance commitments, as well as the allocation of
 
-when market or competitive conditions have changed signiﬁcantly—
+necessary resources by the center, is regularly assessed at business
 
-leadership may decide to return an issue to the strategic backlog.
+performance reviews. When things are on track, leadership proceeds
 
-That allows the team to gather new facts, explore new alternatives, potentially make a diﬀerent choice, and establish new commitments
+as planned. However, when discrepancies arise, the discussion shifts
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

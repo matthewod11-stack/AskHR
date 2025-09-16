@@ -1,19 +1,17 @@
-# a productive relationship with labor.
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 549c574c50e90c1d2018510ae30cce079a3f04e7
+title: R2304D-PDF-ENG
+---
+## Seek advice from an expert who shares your goals. Some companies
 
-The labor organizations likely to be the most valuable to business will be the strongest ones. Good partnerships require partners with balanced power.
+retain an outside lawyer or consultant to negotiate with their
 
-If you hire a consultant, make sure that the person has a successful
+workforces. Rule out anybody associated with a ﬁrm that specializes
 
-track record in negotiating ﬁrst contracts, always a challenging task, and
+in “union avoidance.” No matter what lip service those ﬁrms pay to
 
-understands the importance of laying a foundation for an innovative
+the idea of partnership with the other side, they often delay or avoid
 
-and trusting relationship. Steer clear of contract language that protects
-
-“management prerogatives” by minimizing the union’s inﬂuence.
-
-Remember that while your negotiator will represent you, you’re the
-
-one who has ﬁnal say. Successful high-road negotiations require senior
-
-management to get directly involved and to avoid overdelegating to
+reaching an agreement, damage company reputations, and fail to build

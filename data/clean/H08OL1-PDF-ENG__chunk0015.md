@@ -1,9 +1,17 @@
-## percentage point average improvement for the nine occupations with
+---
+source_path: H08OL1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8c0b4cc444160aae8a7b8293fc16715070816cf
+title: H08OL1-PDF-ENG
+---
+# like occupational segregation remain.
 
-declining female representation.
+That said, we also found that those occupations with a rising share
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+of female workers exhibited more improvement in the closure of the
 
-4
+gender wage gap. Across the years of the study, for 31 of 40 occupations
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with improving female representation, the wage gap closed by an
+
+average of 10.6 percentage points from 1997 to 2018, almost twice the 5.6

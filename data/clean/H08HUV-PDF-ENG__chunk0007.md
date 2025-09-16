@@ -1,17 +1,9 @@
-## schedule you for two diﬀerent meetings at the same time. But there
+---
+source_path: H08HUV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 205d6719a80c72a98eca50d95810bd0a4291b625
+title: H08HUV-PDF-ENG
+---
+# Spot the Sneaky Signs of Disconnection
 
-are often subtler signs that go unnoticed until they create headaches.
-
-For instance, do you ﬁnd yourself explaining (and reexplaining) basic
-
-context in every meeting? Do you notice your functional manager still
-
-refers to an initiative as “Project X” while other collaborators started
-
-calling it something else weeks ago?
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Sure, it’s obvious your bosses aren’t communicating enough when they

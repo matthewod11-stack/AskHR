@@ -1,13 +1,11 @@
-## for their hiring, people rate the qualiﬁcations and skill of a candidate
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29457f0c21fb50fa09f07fc65a81ba7a7a50acdb
+title: H078QI-PDF-ENG
+---
+# on-one meetings with female colleagues.
 
-from a marginalized group lower — even if they themselves are from
+It isn’t only people from privileged groups that contribute to backlash,
 
-that same group. And when marginalized employees are presented
-
-with a “business case for diversity,” espousing the beneﬁts of diversity
-
-on business outcomes, they respond by reporting a lower sense of
-
-belonging and less interest in joining the organization.
-
-Why is backlash such a large risk when DEI initiatives are put into
+either. When the “diversity” of candidates is mentioned as a reason

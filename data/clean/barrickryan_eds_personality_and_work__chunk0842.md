@@ -1,5 +1,11 @@
-# Interests
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 26d7cf8d811faffedbeb2fa32ccb09605376d7f2
+title: barrickryan_eds_personality_and_work
+---
+# Non–Big Five Predictor Variables
 
-Research with Holland’s hexagon model (1985) of personality types (RIASEC, that is, Realistic, Investigative, Artistic, Social, En- terprising, Conventional), their overlap with the Big Five factors of personality, and their usefulness in predicting important work criteria has been growing among I/O psychologists. Although the Big Five is the favored personality taxonomy of many I/O psy- chologists for examining relationships between personality vari- ables and individual work performance, Holland’s RIASEC types play important roles in theories of team performance (Muchinsky, 1999) and, hence, group-level work performance.
+Personality variables that are more speciﬁc than Big Five factors or simply not included in the Big Five are also important. An exam- ple of insights gained about important outcome variables and the role of a speciﬁc personality variable not a part of the Big Five is work by Stewart and Roth (2001) in their meta-analysis of risk propensity of entrepreneurs. Risk propensity is greater for entre- preneurs than managers; even larger differences exist between ven- ture- or growth-focused entrepreneurs and family income-focused entrepreneurs. A provocative study by Douglas and Martinko (2001) found that trait anger, attribution style, negative affectivity, attitudes toward revenge, self-control, and previous exposure to ag- gressive cultures (several non–Big Five personality variables) ac- counted for 62 percent of the variance in self-reported workplace aggression. (For a list of other variables not well represented in the Big Five, see Hough and Furnham, 2003.)
 
-Researchers examining the overlap between Holland’s six per- sonality types and the Big Five factors have come to different conclu- sions. Larson and Borgen (2002) concluded that only three Holland themes—Artistic, Enterprising, and Investigative—are consistently related to Big Five factors. Ackerman and Heggestad (1997), how- ever, in their summary of relations between personality and interest
+Entire domains of variables are not well represented in the Big Five and need to be incorporated into our taxonomy of personal- ity variables and theories about performance. In this section, two such domains—interests and emotions—are described and their importance portrayed.

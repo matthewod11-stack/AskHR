@@ -1,13 +1,21 @@
-# the ﬁve most important right now.
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9389dda3565e57a65311e4ffa799a1d161a46c7d
+title: H08UL7-PDF-ENG
+---
+## to customers and stakeholders, such as members of upper-level
 
-Ambassadors met their stakeholders and collected feedback and
+management, often enough. Team members knew that building these
 
-insights from each. Their actions improved their relationships with
+relationships could provide them with key information and visibility.
 
-their top three customers. Upper management shared information
+They chose to adopt a norm of increased stakeholder communication
 
-about exactly how the team’s work connected with the company’s larger
+and involvement. They started by completing a stakeholder analysis
 
-strategic goals. These conversations provided important learning for the
+map, on which they listed the names of all the stakeholders they could
 
-team and helped members feel more connected to their customers and
+think of and brainstormed what a closer connection to each one might
+
+provide. They assigned one team member to serve as an ambassador to

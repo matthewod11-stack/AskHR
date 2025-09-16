@@ -1,11 +1,19 @@
-# out.
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90fac5090212d06b3b644875ec9be40e6566b8fe
+title: R2504A-PDF-ENG
+---
+## HBR / Magazine Article / The CEO of Kaspi.kz on Designing an Essential Superapp
 
-Our monthly NPS surveys, which go to half a million customers, also
+See more HBR charts in Data & Visuals on HBR.org.
 
-point us toward how to improve. Teams review all the ideas raised as
+Getting that kind of feedback is how we chose to kill what most
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+companies would have seen as a successful credit card line. Though
 
-7
+it accounted for a third of our proﬁts, it was NPS negative, which meant
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the credit cards were improving our bottom line but not people’s lives.
+
+Thus, we concluded it wasn’t a good long-term business for us and got

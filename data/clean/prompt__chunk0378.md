@@ -1,7 +1,7 @@
-# File "/
-
-Users/leeboonstra/Documents/test_folder/rename_files.py", line 7, in <module> text = toUpperCase(prefix) NameError: name 'toUpperCase' is not defined
-
-Debug what's wrong and explain how I can improve the code.
-
-```python import os import shutil
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 8bf4e88182ce7dce96b489436328e68f28fdb637
+title: prompt
+---
+# Traceback (most recent call last):

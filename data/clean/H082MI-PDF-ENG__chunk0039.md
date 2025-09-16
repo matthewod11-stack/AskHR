@@ -1,25 +1,19 @@
-## HBR / Digital Article / Fighting Loneliness on Remote Teams
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04e14d066a9b8f9306a748a84b193fb82dcce1d2
+title: H082MI-PDF-ENG
+---
+# their team:
 
-me, just like it is for you. I’ve been struggling with [opportunity for
+Hi team,
 
-transparency]. Did you know we have [beneﬁt that you can use for
+You may have already gotten a sense of this, but creating a safe
 
-support]? Here’s [link] where I found it.
+and strong community where it is OK to be vulnerable is essential to
 
-The power here is in the follow-up. At the next opportunity, discuss your
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-message and continue the conversation around mental well-being.
+8
 
-. . .
-
-Building a community in a remote environment requires innovation
-
-and intention, but getting started only takes one act. When followed
-
-through, the process and outcomes are transformative and rewarding
-
-from the standpoint of preventing burnout and impacting the bottom
-
-line, elevating the employer brand, and knowing that you made a diﬀerence in someone’s life. There is far too much at stake for
-
-individuals and corporations to hope in building communities by
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

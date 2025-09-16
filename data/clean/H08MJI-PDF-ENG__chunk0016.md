@@ -1,9 +1,9 @@
-## The cadence of check-ins depends on the project and task complexity.
+---
+source_path: H08MJI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38bb14e228b133ee82bd987fc0b1e882343bb45d
+title: H08MJI-PDF-ENG
+---
+# creativity. Then, “surrender control.”
 
-Some initiatives require daily touchpoints, while others only need a
-
-weekly review. Kerpen suggests focusing on two key questions: “How
-
-are things going? And what are your roadblocks?” This approach
-
-keeps the conversation solution-focused, rather than “updates for the
+Keep tabs, but don’t micromanage

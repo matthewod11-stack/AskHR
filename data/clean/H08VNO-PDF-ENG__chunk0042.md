@@ -1,31 +1,17 @@
-## of manager burnout across the organization.
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61201db4c3a37a10de0cc3865078fc10ce3da0c4
+title: H08VNO-PDF-ENG
+---
+# HBR / Digital Article / To Change Company Culture, Focus on Systems—Not Communic…
 
-The issue isn’t a lack of belief in culture. It’s a lack of modeled alignment
+In our research, this pattern showed up across sectors. At one global
 
-from the top. When executives treat culture as something to delegate
+services ﬁrm, 69% of middle managers said they felt solely responsible
 
-instead of something to live, they create confusion, cynicism, and load-
+for delivering on cultural commitments. Yet only 14% believed senior
 
-bearing strain at the middle.
+leaders were modeling those same behaviors themselves. That gap —
 
-By contrast, one Southeast Asian conglomerate took a diﬀerent
-
-approach. Instead of pushing culture downward, it started at the
-
-top—by redesigning senior leadership meetings to reinforce cultural
-
-alignment. Executives began co-creating agendas with junior staﬀ,
-
-practicing open dissent in front of peers, and recording sessions for
-
-wider team visibility. Within a year, manager alignment scores rose 37%,
-
-and executive credibility improved across every business unit.
-
-The lesson is clear: if culture isn’t consistently modeled at the highest
-
-levels, it won’t take root anywhere else. Middle managers cannot
-
-enforce what senior leaders won’t embody. Culture isn’t a message to
-
-be passed down. It’s a behavior to be practiced up close.
+between responsibility and example—was the single strongest predictor

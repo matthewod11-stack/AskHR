@@ -1,3 +1,11 @@
-# 186 Personality
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 079585820566d50e9e60920d54711a40fa227e45
+title: untitled
+---
+## Gordon Allport and Case Studies: “The Most Revealing Method of All”
 
-personal documents (e.g., G. W. Allport, 1942) may have been encouraged by Stern, who advocated the use of bio- graphical and historical methods (1911) and published a psychological analysis of his own adolescent diaries (1925; cited in G. W. Allport, 1942).
+When Goethe gave it as his opinion that personality is the supreme joy of the children of the earth, he could not have fore- seen the joyless dissection of his romantic ideal one hundred years hence. (G. W. Allport, 1932, p. 391)
+
+Trained in psychology at Harvard in the late 1910s and early 1920s,Allport was inﬂuenced by the prevailing experimental, scientiﬁc ethos and contributed to the psychometric approach to personality (Nicholson, 1996, 2000, in press). However, he also studied social ethics, an area that involved “ﬁeld training and volunteer social service” (G. W. Allport, 1967, p. 6). Allport (1968) described social ethics professor Richard C. Cabot, who used case studies and biographies extensively in his teaching (G. W. Allport, 1937a), as a teacher who had in- ﬂuencedhisthinking.Itisnotclear,however,whetherheactu- allycompletedacoursewithCabot.Allport(1951)mentioned having dropped one of Cabot’s courses when he learned of the assignment to write up 25 cases in one semester. (The course was probably Cabot’s seminar in case history method, which - Allport’s future wife, Ada Gould, took in 1922; see Baren- baum, 1997a.) Allport’s (1922) dissertation, an experimental study of personality traits, included individual case proﬁles and a chapter on the application of his methods to an individ- ual client of a social service agency (possibly a client of Ada Gould,whowasasocialworkeratthetime;seeCherry,1996). Another disciplinary inﬂuence on Allport’s interest in case studies was his encounter during a postdoctoral year in Germany (in 1923) with a qualitative, interpretive approach to the study of personality (e.g., G. W. Allport, 1923, 1924; see also Danziger, 1990). He studied with Eduard Spranger, a disciple of the philosopher Wilhelm Dilthey, who had promoted psychology as a “human science” (Geisteswis- senschaft), emphasizing biographical studies (G. W. Allport, 1924). Allport also studied with William Stern, known not only for his psychology of individual differences but also for his interest in “the unity of the personality” (G. W. Allport, 1923, p. 613). Allport’s interest in the case method and in

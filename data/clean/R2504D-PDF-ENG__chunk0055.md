@@ -1,9 +1,9 @@
-## same conference and communicate through an impartial mediator—
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a61f676bdea90d967bd928b468cf90e8b549745d
+title: R2504D-PDF-ENG
+---
+## its neighbors—Egypt, Lebanon, Jordan, and Syria. Using proximity
 
-to reduce tensions, he focused on practical issues like water rights
-
-and refugees and created solutions that worked on the ground. His
-
-innovative approach earned him the Nobel Peace Prize and established
-
-principles for managing complex regional conﬂicts that remain relevant
+talks—in which parties don’t speak face-to-face but meet at the

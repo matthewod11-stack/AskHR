@@ -1,17 +1,21 @@
-## their left calves as a sign of camaraderie.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: a15538f5c6d2e9f242d2c997373069a11fb4d017
+title: beo_chap7_1
+---
+# categories in cultural discourse.
 
-Group loyalty can persist even when workers leave the firm. For example, it is
+If a firm can create a sense among workers that they are like a species—with
 
-typical for lawyers and consultants to eventually leave their firms and work for
+immutable special properties that are inheritable—it might be able to hijack neu-
 
-one of the firms’ clients (whom they worked with originally). While there is a clear
+ral circuitry which is highly evolved to distinguish friend from foe on the basis of
 
-difference in the employee’s decision rights after switching firms, there may be little
+species and species-like ethnic characteristics, to create a deep sense of group mem-
 
-difference in emotional attachment to their old group (the law firm) and their new
+bership and helping. For example, a body feature which cannot be changed marks a
 
-group (the client firm). Many consulting firms keep active lists of “alumni” who
+species, so one way to create a species illusion is with tattoos. In fact, Nike founder
 
-have left the firm to work for their clients, and presumably use the residue of group
-
-loyalty to keep those clients and to resolve disputes.
+Phil Knight and many of his employees have tattoos of the Nike “swoosh” logo on

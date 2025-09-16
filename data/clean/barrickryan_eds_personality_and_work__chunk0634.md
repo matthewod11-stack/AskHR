@@ -1,3 +1,13 @@
-# 212 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 8f856845834b3551406e8525d0a8ed95f4bdb916
+title: barrickryan_eds_personality_and_work
+---
+# Social Networks in Organizations
 
-1999). The absence of a connection between individuals can be just as informative as the existence of a connection. The important construct of a structural hole (Burt, 1992) in social networks is based on the lack of ties between certain actors. Furthermore, a re- lationship (or lack thereof) could be an advantage or a disadvan- tage to an individual. Forming a large network may be of less importance than one’s position within the network. A critical fea- ture in building social capital is network centrality; related to this concept is the strength of connections or ties with others in the network. Both of these components, as well as the advantageous likelihood of occupying a structural hole, can be inﬂuenced by in- dividual self-monitoring orientation.
+In considering the role of individual differences in the construc- tion and maintenance of work relationships, it is important to keep in mind that relationships do not exist in a vacuum; they are con- nected to other individuals and other relationships (Agnew et al., 2001; Bott, 1957). For this reason, every relationship represents a system (Reis et al., 2000). These relational systems can take on dif- ferent appearances and can yield vastly different resources; how- ever, not all conﬁgurations of networked relationships are equally helpful to an individual or an organization (Mehra, Kilduff, & Brass, 2001).
+
+Social networks have been used as a primary method for mea- suring the social capital of individuals and organizations. In essence, social capital refers to relational resources that are em- bedded in the ties between individuals (Coleman, 1988). The struc- tural, relational, and cognitive dimensions of social capital have been theoretically linked to the facilitation, combination, and ex- change of resources within organizations (Nahapiet & Ghoshal, 1998). Subsequent empirical work has demonstrated positive re- lations between social capital and individual and group perfor- mance (Mehra et al., 2001; Sparrowe, Liden, Wayne, & Kraimer, 2001), individual career success (Seibert et al., 2001), innovation and value creation (Tsai & Ghoshal, 1998), and the aggregate lead- ership capacity (Day, 2001) in organizations. Overall, theory and research suggest that social networks are critical to understanding why some individuals and organizations outperform others.
+
+A social network is deﬁned as a set of nodes (individuals) and con- nections (relationships or ties) between nodes (Brass & Krackhardt,

@@ -1,21 +1,63 @@
+---
+source_path: H02I98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca7d891ab7a0af2d83d44e83806da89d984dcfa7
+title: H02I98-PDF-ENG
+---
 ## HBR / Digital Article / Need a Good Parental Leave Policy? Here It Is.
 
-In FMLA-bound companies (which is all large ones), employers can’t
+have a tough time getting assignments again after they return. Both
 
-require an employee on FMLA leave to work during his or her three
+scenarios are easily avoided with a three-meeting protocol.
 
-months of protected leave. So it’s safest to wait until an employee
+The ﬁrst meeting occurs shortly after the announcement is made. The
 
-returns to work to develop a plan for on-ramping. During the leave,
+employee’s supervisor celebrates and reassures: “Congratulations! It’s
 
-the supervisor or HR should be in touch so the company knows when
+an exciting time, and you need not hesitate to take your full leave. We will
 
-the leave-taker plans on returning to work. This will enable the leave-
+develop a transition plan together.”
 
-taker’s supervisor to develop an on-ramping plan. On the ﬁrst day after
+With biological children, there are months ahead to talk. If your leave-
 
-the leave-taker returns, his or her supervisor should hold a meeting to
+taker is an adoptive parent whose child could arrive at home with less
 
-discuss the plan, which should include check-ins during the ramp-up
+notice, the next two meetings will be on an accelerated schedule.
 
-period to ensure that the returning employee is getting enough work,
+The second meeting typically occurs three months before the leave is
+
+scheduled to begin. “Come with a list of all the projects you are working
+
+on and who you think might be suitable to transition them to when you go
+
+on leave. If no one comes to mind, don’t worry. We can ﬁgure someone out
+
+or hire extra help. Your list will only be a beginning.” After this meeting,
+
+the supervisor should develop a transition plan, talking with the people
+
+who will be picking up the leave-taker’s work or hiring temporary help if
+
+need be.
+
+The third meeting occurs as the due or adoption date approaches. In it,
+
+ﬁnal tweaks are made to the plan; afterwards, transitions begin. At this
+
+time, the supervisor should ask for the leave-takers’ current thoughts
+
+about post-leave. Is he or she thinking about returning on a part-time or
+
+ﬂex schedule? (It’s important for legal reasons that the same question be
+
+asked of everyone, male or female.) This doesn’t need to be a binding
+
+decision—it’s just a chance for a supervisor to get an initial heads up.
+
+- 2. Have a protocol for on-ramping.
+
+Copyright © 2015 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

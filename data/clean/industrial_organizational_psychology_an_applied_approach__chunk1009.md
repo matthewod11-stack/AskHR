@@ -1,9 +1,7 @@
-# Dear Mr. Smith:
-
-Enclosed is a copy of my résumé. Please consider me for the position of welder that was advertised in the Roanoke Times and World News.
-
-For several reasons, I believe that I am qualiﬁed for your position. First, I have six years of welding experience in an industrial setting. Second, I am a very dependable worker as shown by the fact that I have missed only two days of work in the last ﬁve years. Finally, I am available to work any shift at any of your three plants.
-
-I look forward to hearing from you. I can best be reached after 3:00 p.m. on weekdays and anytime on weekends.
-
-Sincerely,
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0cba860436cead2fe48eb0c27b47f416cd7c4a2b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Mr. John Smith Alco, Inc. 217 West Street Johnson, VA 24132

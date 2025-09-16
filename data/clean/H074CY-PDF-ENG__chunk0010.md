@@ -1,11 +1,21 @@
-## HBR / Digital Article / How to Conduct a Great Performance Review
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9364e9448d5b604a55884b43896f5a274825b88
+title: H074CY-PDF-ENG
+---
+## components of an eﬀective performance review process?
 
-performers by identifying speciﬁc areas where they need to improve
+The purpose of reviews is two-fold: an accurate and actionable
 
-and then practicing those skills with performance feedback. Multiple
+evaluation of performance, and then development of that person’s
 
-career studies indicate the importance of on-the-job versus other types
+skills in line with job tasks. For recipients, feedback has intrinsic and
 
-of experience. One study from as far back as 1988 (and updated
+extrinsic value. Across ﬁelds, research shows that people become high
 
-20 years later with similar results) found that work experience (job
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

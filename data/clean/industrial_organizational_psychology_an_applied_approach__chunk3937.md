@@ -1,7 +1,7 @@
-# Motivators
-
-In Herzberg’s two-factor theory, elements of a job that concern the actual duties performed by the employee.
-
-Multiple channels A strategy for coping with
-
-communication overload in which an organization reduces the amount of communication going to one person by directing some of it to another person. Multiple-cutoff approach A selection strategy in which applicants must meet or exceed the passing score on more than one selection test.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1ca8f40a527a2b502b7fdf101883f2c873a157fa
+title: industrial_organizational_psychology_an_applied_approach
+---
+# perform well.

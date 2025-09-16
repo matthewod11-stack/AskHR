@@ -1,23 +1,15 @@
-# Implement a weekly win routine
+---
+source_path: H08EPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a43872643328b6b45ff87d86367540648b25dc81
+title: H08EPO-PDF-ENG
+---
+## HBR / Digital Article / 5 Ways to Ask Your Boss to Advocate for You
 
-Once a week or twice a month, send a brief, bulleted email to your
+- A set of frequently asked questions with clear, concise answers to help
 
-boss highlighting your team’s achievements, challenges overcome, and
+them ﬁeld objections or defend your ideas to senior leadership
 
-upcoming milestones. By doing so, you’re handing them a neatly
+- Pre-written social media posts they can share on professional networks
 
-packaged “cheat sheet” of information they can use to impress their
-
-boss and peers. It’s a win-win: your manager appears on top of things —
-
-and your hard work gets the spotlight it deserves.
-
-This simple routine also gets you into the habit of articulating and
-
-documenting your achievements which is a powerful way of boosting
-
-your conﬁdence. Plus, come time for your performance review, you’ll
-
-have concrete examples at your ﬁngertips and won’t have to scramble
-
-for data to make a case for resources or advancement.
+to highlight the progress or impact of your work

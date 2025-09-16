@@ -1,21 +1,31 @@
-# Financial and other assistance
+---
+source_path: H08NTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dce76529d937e9ebbb06972a56ce73dedefa9d28
+title: H08NTC-PDF-ENG
+---
+## and share these, where possible, with the aﬀected team members. For
 
-As a leader, make sure you are aware of any ﬁnancial or other
+example, in the past, Airbnb has oﬀered a free week of housing and Uber
 
-assistance your company provides and share this information with
+has oﬀered free rides to evacuees. Generous oﬀers like these can make a
 
-the impacted team member, even if the company has already sent
+big diﬀerence to aﬀected individuals.
 
-out an announcement, as aﬀected employees may miss various
+A team member of one of Melissa’s clients tragically lost their home
 
-communications in the midst of all the chaos. For instance, during
+in the recent Palisades Fire. Rather than waiting for the individual
 
-the LA wildﬁres, the CEO of Penske Media Corporation sent a note to
+to reach out, a colleague took the initiative to organize support,
 
-all employees saying that the company would pay for any impacted
+gathering essential clothing and hygiene items for the family. They
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+also coordinated a team-wide eﬀort to contribute to a fund, ensuring
 
-5
+the aﬀected family received gift cards for Amazon and a national
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+supermarket chain—resources they could use if they had to relocate.
+
+The family expressed gratitude for the gesture, saying it relieved the
+
+awkwardness of needing to ask for help during an overwhelming time.

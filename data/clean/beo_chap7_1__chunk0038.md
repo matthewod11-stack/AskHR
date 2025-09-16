@@ -1,25 +1,31 @@
-# 7.24 Psychic Income
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: dd68d21e2e0128444f7b6d8726017cfff75fcab9
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-The basic risk-incentive model divides the worker’s world into efforts they dislike,
+having their wages depend on a variable out of their control if it benefits them
 
-and rewards they like. It is convenient to talk about wages as rewards because they are
+by reducing undesirable variance in adjusted wages. This changes if workers have
 
-easily measured, and do not satiate. But people are motivated by many others types
+preferences for fairness. Sometimes the value of y; will lead the firm to penalize a
 
-of nonpecuniary “psychic income” as well. For example, Stern (2004) uses multiple
+worker when true effort e; was high (e.g., firing a successful CEO who was much
 
-offers for postdoc biologists to estimate that those who accept offers at more science-
+less successful than industry peers). Workers may think this is unfair.
 
-oriented firms earn 25% lower wages in order to be able to publish their research
+A common example is benchmarking performance to an outside standard, like
 
-and engage in the scientific community. This is consistent with a “compensating
+industry profits. Risk-averse workers should like benchmarking because it buffers
 
-differential,” in which workers trade off money wages for other aspects of the job
+them against industry-wide shocks. But evidence for direct benchmarking in execu-
 
-they like (or dislike).
+tive compensation is surprisingly scarce, even though it is not hard to create simple
 
-The existence of compensating differentials is not controversial. Behavioral eco-
+benchmarks which would reduce compensation variance a lot. It does not appear
 
-nomics suggests, however, that the source of these differentials might include emo-
+that wages are even indirectly very sensitive to benchmarks (Antle and Smith 1996;
 
-tion, social comparison, and other forces not included in typical analyses which
+Salanié 2003, p. 470).7

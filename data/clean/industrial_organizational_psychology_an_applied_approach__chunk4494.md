@@ -1,17 +1,15 @@
-# Cambridge University Press.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 68f0bf5de630b14fdd59434c35689dd1264facbe
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Veres, J. G., Green, S. B., & Boyles, W. R. (1991). Racial
 
-Vincent, C., Rainey, R., Faulkner, D., Mascio, C., & Zinda, M. (2007, March). How often should job descriptions be updated. Poster presented at the annual graduate conference for Industrial-Organizational Psychology and Organizational Behavior, Indianapolis, IN.
+diﬀ erences on job analysis questionnaires: An empirical study. Public Personnel Management, 20(2), 135–144.
 
-Vinchur, A. J., & Koppes. L. L. (2007). Early contributors to
+Verhaegen, P., Cober, R., de Smedt, M., & Dirkx, J. (1987). Th e
 
-the science and practice of industrial psychology. In L. L. Koppes (Ed)., Historical perspectives in industrial and organizational psychology. Mahwah, NJ: Lawrence Erlbaum.
+adaptation of night nurses to diﬀ erent work schedules. Ergonomics, 30, 1301–1309.
 
-Vinchur, A. J., Schippmann, J. S., Switzer, F. S., & Roth, P. L.
-
-(1998). A meta-analytic review of predictors of job performance for salespeople. Journal of Applied Psychology, 83(4), 586–597.
-
-Vincola, A. (1999, April). Back-up child care: An eﬀ ective solution to a growing need. IPMA News, pp. 16–17.
-
-664
-
-references
+Vernon, H. M. (1936). Accidents and their prevention. London:

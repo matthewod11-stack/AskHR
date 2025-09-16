@@ -1,19 +1,13 @@
-# HBR / Digital Article / How a “Pay-to-Quit” Strategy Can Reveal Your Most Motivated E…
+---
+source_path: H07NAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 28b5a9c0654d688215e700769c75cd50651edec0
+title: H07NAR-PDF-ENG
+---
+# better than that of the control group.
 
-So far, the program has been a success. In the oﬃces that oﬀered the
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-bonus, close to 12% of the employees chose to take it. Revealingly,
+4
 
-those employees were not the worst performers on the team, which
-
-suggests the program was doing the job it needed to: identifying capable
-
-employees who don’t necessarily feel a strong commitment to the
-
-company and might leave after being named partners. The retention rates of new partners in the oﬃces where the bonus was oﬀered has
-
-also been higher than the rate in the control group. The program was
-
-temporarily put on hold because of Covid-19, but the company now
-
-plans to relaunch the program on a larger scale.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

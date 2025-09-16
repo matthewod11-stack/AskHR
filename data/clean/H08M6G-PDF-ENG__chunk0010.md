@@ -1,19 +1,25 @@
-## both verbal and nonverbal communication, and an insistence on good
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0b1ca3bc7a10da30ac33064f3ed1f23d74ba15ed
+title: H08M6G-PDF-ENG
+---
+## personal attacks and emotional escalation.
 
-faith. Another team emphasized avoiding pride of authorship, taking
+- 2. Establish ground rules and get commitment.
 
-a time-out if the team begins to generate more heat than light, and a
+When a team fails to deﬁne its ground rules and terms of engagement,
 
-willingness to suspend judgment about why something might not work
+that lingering ambiguity creates license for individuals to engage in
 
-until there’s an opportunity to prototype and test. Once the ground
+destructive dissent. You don’t necessarily have to codify the rules
 
-rules have been established, ask each member of the team to commit to
+of engagement; many teams develop constructive dissent as a norm
 
-following them.
+without any kind of documentation. But the teams that do it best
 
-- 3. Follow the four-step process of constructive dissent.
+consistently reinforce behavioral expectations.
 
-Eﬀective constructive dissent follows the following four-step process:
+For example, one team we worked with reinforced ground rules that
 
-- 1. Generation: Generate ideas, options, and solutions without
+included the prohibition of personal attacks, the obligation of respect in

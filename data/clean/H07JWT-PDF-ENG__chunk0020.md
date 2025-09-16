@@ -1,55 +1,67 @@
-## HBR / Digital Article / Research: Remote Workers Are More Anxious About Layoffs
+---
+source_path: H07JWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4987a31fc8469107706fa46780afd000b0184bfd
+title: H07JWT-PDF-ENG
+---
+# Create cross-functional connections.
 
-single person on your team. Carefully review your list and consider
+Dispersed employees tend to lack shared context, from body language to
 
-each individual’s strengths and areas where they might need (or want)
+shared kitchen snacks to inside jokes. They also often have less visibility
 
-development. Then make a more informed, intentional decision.
+into what’s happening across teams, which can lead to confusion and an
 
-Think carefully about how you use 1:1 time.
+“us vs. them” attitude between functions.
 
-Our research shows that 49% of employees feel anxious before 1:1s with
+Managers should look to build bridges with other teams in their
 
-their manager. These meetings oﬀer a great opportunity to intervene
+organization. Try to create opportunities for remote employees to work
 
-and try to alleviate your team’s anxiety, but you might need to
+on cross-functional projects (people tend to feel closest to the people
 
-reconsider how you run them.
+they work with the most) or connect your team members to people
 
-Do you ask check-in questions (think: “How can I best support you?” or
+from another department for informal chats. You might say something
 
-“Is anything unclear or blocking your work?”) and seek input from your
+like, “Tracy, Kim’s expertise is related to what you’ve been focusing on.
 
-reports? You can do a lot to calm an insecure employee by saying, “Your
+Why not set up time with her this week to get her thoughts? Happy
 
-skills are very unique and important to this company, and I value your
+to make the intro.” You can also regularly host colleagues from other
 
-opinion and expertise. What do you think of this?”
+departments at your team meeting to talk about their work, how your
 
-If you focus your 1:1s on status updates, you miss out on a valuable
+teams partner, and what they’re excited to learn from your reports.
 
-opportunity to better understand and support your people. Worse, you
+Finally, make it a priority to take notes during important meetings
 
-inadvertently send the message that you only care about pressing tasks
+and share them, either in a folder or summarized in a public channel.
 
-and to-do’s, which can leave your team feeling expendable and stressed.
+Among hybrid and virtual teams, careful documentation is especially
 
-Think about whether there are alternative channels (think email or
+important in boosting performance and trust.
 
-Slack threads) in which you can get status updates.
+Make a list, and check it twice.
 
-Reflect on how you show up as a manager.
+It’s easy to fall into the “out-of-sight, out-of-mind” trap when you don’t
 
-As a manager, you have an outsize impact on how employees feel
+have much in-person time with your team. In other words, you’re more
 
-in their day-to-day–and on what they feel safe sharing. A big part of
+likely to reach out to the people you’ve worked with the longest or who
 
-your job is to create an environment in which each team member feels
+speak up the most in team meetings. This bias can lead you to measure
 
-comfortable being genuine and ﬂagging concerns.
+and reward access rather than performance.
+
+To combat this bias, when you’re evaluating who to delegate work to
+
+or who might be best suited for an exciting opportunity, don’t just
+
+go with the ﬁrst person who pops into your head. Write down every
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

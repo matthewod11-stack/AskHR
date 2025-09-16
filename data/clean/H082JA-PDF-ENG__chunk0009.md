@@ -1,21 +1,17 @@
-## HBR / Digital Article / The Challenges of Becoming a Less Hierarchical Company
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13f83945e5ddcf9ad6631344a235ba4999daca6c
+title: H082JA-PDF-ENG
+---
+# decision-making.”
 
-massive value through the promise of increased collaboration, agility,
+The consulting ﬁrm, McKinsey & Company, has echoed these
 
-and employee empowerment. Research ﬁndings lend further support to
+sentiments, describing how unstructuring your organization can unlock
 
-these ideas — a meta-analysis of 54 published studies involving 13,914
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-teams found that hierarchy tends to harm performance.
+1
 
-Although experiments with ﬂattening the hierarchy in high-proﬁle
-
-companies like Zappos and Google have yielded mixed results —
-
-leading some to claim that certain types of ﬂat structures are “hella
-
-crazy” and “rarely work” — the fact remains that ﬁrms are gradually
-
-becoming less centralized. Thus, successfully organizing for the future
-
-requires a deep understanding of how to design, implement, and assess
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

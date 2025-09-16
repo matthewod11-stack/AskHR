@@ -1,13 +1,19 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: da507458d8139b6ffac937246b30c695a8043ec5
+title: issn_print_0976_013x
+---
+## new products or services within a few days.
 
-earlier in operating. Although the practices adopted could not fulfil the extreme demand for
+Opportunities under such disruptive events are only short-term and may not have long-term
 
-essential medical kits and tools, further government intervention was required (Sharma, 2020
+benefit opportunities. The short-term perspective of goals and response at ultra-speed is at the
 
-& Iyengar, 2020).
+core of hyper-agility and is suitable for colossal demand but for a shorter period. Disruption
 
-Critical paradigms utilized under a hyper agile environment emerged as dealing with the
+can even lead to extraordinary demand, and under Covid-19 disruption, several organization
 
-network alignment to capture the aroused opportunities from disruption is reconfiguration,
+ramped up their supply chains extraordinarily, and some even changed the product category
 
-expansion of working employees, i.e., flexibility aspect, Industry 4.0 automation, data
+35

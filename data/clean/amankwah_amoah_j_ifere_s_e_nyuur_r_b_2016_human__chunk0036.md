@@ -1,33 +1,25 @@
-# regional and indigenous multinationals.
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 3cbf02630af39494f94f236d34f76a12fe74539a
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# interviews with human resource professionals, managers and decision-makers in both the
 
-We developed semi-structured interview questions to elicit the views of these
+public and private sectors. In line with recommendations of such studies in a high relational
 
-professionals. To narrow down the scope of the study, the interviews covered the following
+context of emerging economies, we utilised personal networks and the snowballing approach
 
-broad areas. In the first set of questions, we focused on the informants’ employers, incentive
+to help identify and trace managers and employees across multiple organisations (Acquaah,
 
-11
+2007). The study also utilised networks within two African universities to help identify
 
-and rewards system, and decision-making processes. The questions also focused on the key
+informants. Over an extended period, the authors interviewed business owners, managers,
 
-challenges in the workplace, hiring and firing. We also asked the informants whether they
+consultants, executives and investment bankers who are responsible for hiring, firing,
 
-managed or worked with any employee who had consistently underperformed over a long
+managing and overseeing the work of employees. We also elicited views from professionals
 
-period of time. The final set of questions revolved around causes of underperformance,
+in sectors such as sales and marketing, financial services, warehousing, public sector
 
-processes in dealing with underperformance, options in dealing with underperforming
-
-workers, why firms hung on to them, and their experiences and views. They were also asked
-
-about the difficulties in dealing with and managing underperforming workers including how
-
-the firm deals with early-warning signals of performance decline by employees. Some of the
-
-authors conducted the interviews from early 2014 to early 2015. On average, the interviews
-
-lasted around 60 minutes. Given the focus on two countries, we sought to ensure a greater
-
-level of consistency as well as a degree of flexibility to allow new insights to emerge
-
-(Robson, 2002).
+organisations and operations management. Most of the informants are employees of global,

@@ -1,3 +1,7 @@
-# 229
-
-experience issues bringing the essential mind-set and culture into the organization. What these inquiries h common is that they are trying to go beyond fixing complications and into encouraging excellence and quality. It is basically a direct result of this point of view that the business world needs to swing to the branch of psychology named as Positive Psychology that deals with human prosperity and human abilities [11, 12].
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: eeb2613ec6cef09bbf1d0fc18583e467e1cc4647
+title: sciencedirect
+---
+## Jasleen Kour et al. / Procedia Computer Science 161 (2019) 226–232

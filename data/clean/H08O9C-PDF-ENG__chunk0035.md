@@ -1,7 +1,9 @@
-# a negotiation?
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d34cfcab45542aa2a593259b360be7a3c9d160d
+title: H08O9C-PDF-ENG
+---
+# that highlights my strengths?
 
-- What are good questions to ask when interviewers oﬀer me a chance to
-
-ask them questions?
-
-- What are critical do’s and don’ts when it comes to basic interview
+- Can you help me craft a response to “What’s your expected salary?” for

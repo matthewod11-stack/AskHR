@@ -1,15 +1,17 @@
-## Increasing Interpersonal Skills through Behavior Modeling
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 970ec0296eaaf4292734d0c6c7f87ea6a643d085
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Practicing Interpersonal Skills through Role Play
 
-One of the most successful training methods has been behavior modeling (Tay- lor, Russ-Eft, & Chan, ). Behavior modeling is similar to role play except that trainees role-play ideal behavior rather than the behavior they might nor- mally perform. The behavior modeling technique begins with a discussion of a problem, why it occurred, and the employee behaviors necessary to correct the problem. These behaviors are called learning points and are essentially rules to follow in solving a problem. Next, trainees view videos of employees correctly and incorrectly solving the problem. The trainees take notes during the tape and are given an opportunity to ask questions.
+Whereas simulations are effective for learning how to use new equipment or soft- ware programs, role play allows the trainee to perform necessary interpersonal skills by acting out simulated roles. For example, when conducting seminars in conflict mediation, consultant Bobbie Raynes has her audience members participate as actors in predetermined situations. The participants are given a conflict situation and are told to use what they have learned to mediate the conflict. When Medtronic, a man- ufacturer of heart valves, decided to teach its sales force how to use CD-ROM–based demonstrations, it began with an hour of classroom training and then used role plays so that the salespeople could practice their new presentation skills.
 
-After viewing the video, trainees mentally rehearse the solution to the problem in the way that the employee solved it on the video. Finally, employees role-play (behaviorally rehearse) situations and receive feedback on their perfor- mances. Employees are also given the opportunity to play the role of the “other” person so that they will gain the same insight they would have by role play train- ing. Employees then discuss ways to apply their new skills on the job. By this procedure, employees will already have had experience dealing with the problem in the proper way when they encounter the same situation on the job. In other words, positive transfer of learning will have occurred.
+Role play is used in many types of training situations, from supervisors prac- ticing performance appraisal reviews to sales clerks taking customer orders. One interesting variation of the role play exercise has an employee playing the role of
 
-Of course, for behavior modeling to be successful, the videos must repre- sent commonly encountered problems and situations—thus demonstrating the importance of a thorough job analysis. By observing and interviewing employees and by collecting critical incidents, the necessary problems and situations can be obtained. An important and related issue is whether employees should be trained on specific situational skills or on generic skills that will cover any situation. For example, a specific situational skill would be handling a bank customer who is angry about a bounced check. The related generic skill would be calming any angry customer. Obviously, generic skills are more difficult to teach and require the modeling of many different types of behavior in many different situations.
+“the other person.” For example, a supervisor might play the role of an employee, or a sales clerk might play the role of a customer who is frustrated with recently purchased merchandise. In this way, the employee can better understand the rea- soning and feelings of the people with whom he works.
 
-Another issue involves the number and types of models that are viewed in the training video. Russ-Eft and Zucchelli () conducted a study at Zenger-Miller, Inc. (Cupertino, California) in which employees viewed either one or two mod- els. If the employees saw two models, they saw either two models performing correct behaviors or one model performing correctly and the other performing incorrectly. The study results indicated that viewing two models increased train- ing performance more than viewing one but that the addition of a negative model
+Though role plays allow employees to practice what is being taught, they are not for everyone. Many employees feel uneasy and embarrassed about being required to “act” (Becker, ). This reluctance can be reduced to some extent by using warm-up exercises and praising employees after they participate (Swink, ).
 
-designing and evaluating training systems
-
-307
-
-was no more effective in increasing training performance than two positive models. When the proper procedures are followed, the results of a meta-analysis indicate that behavior modeling can significantly increase employee performance (Taylor, Russ-Eft, & Chan, ).
+Farber () thinks that role play should be replaced by “real play,” in which employees practice their skills on actual customers. For example, salespeople can be trained by having the sales staff sit around a conference table and take turns making calls to actual/potential customers. The group then discusses the tech- nique of the person making the call.

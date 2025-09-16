@@ -1,19 +1,15 @@
-# the reason for my ‘10’ [rating] below.”
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f282098414894b28dc1db92a58958a4bc3353bd8
+title: H08DDG-PDF-ENG
+---
+## HBR / Digital Article / Why VCs Should Use Net Promoter Scores with Founders
 
-. . .
+changes that we’re making to address the issue they identiﬁed. And
 
-Of course, every ﬁrm is diﬀerent. While TDK Ventures has had success
+time and time again, I’ve seen just how impactful this approach can
 
-with this approach, it may not work for all VC ﬁrms. Smaller or younger
+be: In one case, I received the following reply just ﬁve minutes after
 
-VC ﬁrms with fewer companies in their portfolios may be less likely to
-
-glean as many useful insights, simply because they won’t have access
-
-to as much feedback as larger ﬁrms. Moreover, while I have found NPS
-
-to be incredibly valuable in my own experience, more data — that is,
-
-more VCs trying out this methodology — would further validate its
-
-eﬀectiveness. As with any initiative, experimentation and iteration are
+sending such a message: “Wonderful to hear Nicolas!! You just reinforced

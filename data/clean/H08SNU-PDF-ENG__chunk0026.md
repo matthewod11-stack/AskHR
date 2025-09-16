@@ -1,11 +1,21 @@
-## (resilience). The platform’s simpliﬁed interface masks enormous
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2beabd4b20df68e7cfca717eb6411290dfe73c91
+title: H08SNU-PDF-ENG
+---
+## distinguishes Netﬂix in the subscription wars (prominence).
 
-backend complexity, positioning AWS as the go-to solution for scalable
+Abstraction: Create interface layers that shield users from complexity
 
-computing (prominence).
+This involves building simpliﬁed interfaces that translate user inputs
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+into complex backend operations, making sophisticated systems
 
-5
+accessible without requiring users to understand the underlying
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+intricacies. AWS abstracts complex infrastructure management,
+
+allowing developers to focus on deployment without dealing
+
+with physical servers (eﬃciency) while accelerating innovation

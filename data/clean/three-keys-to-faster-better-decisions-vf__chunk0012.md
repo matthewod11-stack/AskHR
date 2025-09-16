@@ -1,0 +1,7 @@
+---
+source_path: three-keys-to-faster-better-decisions-vf.md
+pages: n/a-n/a
+chunk_id: a44a9f93bad604932f64830150ae91944f58808a
+title: three-keys-to-faster-better-decisions-vf
+---
+of siloed thinking and a set of narrow incentives in conflict with the group’s broader strategy and value-creation agenda. The underlying management challenge is part of a dynamic we see repeated again and again: when senior executives fail to explore—and then explain—the context and underlying strategic intentions associated with various targets and directives they set, they make unintended consequences inevitable. Worse, the lack of clarity makes it very difficult for colleagues further down in the organization to use their judgment to see past the silos and remedy the situation. Designing an organization to deliver its strategic objectives—setting a clear mission, aligning incentives—is a big topic and outside the scope of this article. But if different functions and teams do not feel a connection to the bigger picture, the likelihood of executives making good decisions, whether or not they adopt the ideas discussed earlier, is significantly diminished. Aaron De Smet is a senior partner in McKinsey’s Houston office, Gregor Jost is a partner in the Vienna office, and Leigh Weiss is a senior expert in the Boston office. The authors wish to thank Iskandar Aminov, Alison Boyd, Elizabeth Foote, Kanika Kakkar, and David Mendelsohn for their contributions to this article. Copyright © 2019 McKinsey & Company. All rights reserved.

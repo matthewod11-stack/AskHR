@@ -1,17 +1,27 @@
-## Any other charges or conditions of occupancy
+---
+source_path: Employment Law Guide - Worker Protections in Agriculture.md
+pages: n/a-n/a
+chunk_id: 19e4e902ff392fdcf7e7b5e535d0c7646919f2b5
+title: Employment Law Guide - Worker Protections in Agriculture
+---
+# Web.
 
-If the terms and conditions of occupancy are posted, the statement must be displayed and maintained during the entire period of occupancy. If
+There are no size requirements for these posters. Employers are encouraged to make the poster available in languages other than English.
 
-the terms and conditions of occupancy are provided to the worker through a statement (rather than through a posting), this statement must be
+Notice for terms and conditions of housing. Each person or organization that owns or controls a facility or real property used for housing
 
-provided to the worker prior to occupancy. Employers may use a DOL form, WH Form 521 - Housing Terms and Conditions (PDF) (https://www.dol.gov/whd/forms/wh521.pdf), to satisfy this requirement.
+migrant workers must comply with Federal and state safety and health standards. A written statement of the terms and conditions of
 
-Notice of employment terms. Each farm labor contractor, agricultural employer, and agricultural association that recruits any migrant
+occupancy must be posted at the housing site where it can be seen or be given to the workers. The written statement must include the
 
-agricultural worker must provide the following information at the time of recruitment, while seasonal workers must be given the information
+following information on the terms and conditions of occupancy of such housing:
 
-verbally when they are oﬀered work, and in writing, if requested. The information required to be disclosed includes the following information:
+The name and address of the farm labor contractor, agricultural employer, or agricultural association providing the housing The name and address of the individual in charge of the housing
 
-The place of employment (with speciﬁcs, such as the name and address of the employer or the association) The wage rates (including piece rates) to be paid
+The mailing address and phone number where persons living in the housing facility may be reached
 
-The crops and kinds of activities on which the worker may be employed
+Who may live at the housing facility
+
+The charges to be made for housing
+
+The meals to be provided and the charges to be made for them The charges for utilities

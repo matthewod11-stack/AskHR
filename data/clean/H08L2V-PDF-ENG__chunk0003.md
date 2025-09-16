@@ -1,21 +1,23 @@
-## HBR / Digital Article / Don’t Let Growth Muddle Your Company’s Strategy
+---
+source_path: H08L2V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e06aff483064f77f72bffdfc9b27db6eb08a30f
+title: H08L2V-PDF-ENG
+---
+# David Zaitz/Getty Images
 
-The St Louis-based brokerage ﬁrm Edward Jones, for example, has built
+One of the biggest challenges in strategy is overcoming what Michael
 
-its success over the years by targeting conservative individual investors
+Porter called the growth trap. Simply put, in their eﬀorts to grow,
 
-in rural America, serving them through its vast national branch
+companies often undertake investments or make decisions that slowly
 
-network, with each branch being operated by a single broker. It is this
+erode their original unique strategy or dilute the sharp boundaries that
 
-strategy that led journalists to call Edward Jones the Walmart of Wall
+gave the ﬁrm its original clear identity.
 
-Street. However, in its eﬀorts to grow, the ﬁrm is now targeting more
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-upmarket customers by oﬀering services to high net-worth individuals,
+1
 
-and is also moving into big cities where branches will be operated by
-
-multiple brokers. On the face of it, these seem sensible investments, but
-
-they do run the risk of diluting the ﬁrm’s original strategic positioning
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

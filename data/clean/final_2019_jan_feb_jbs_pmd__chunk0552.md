@@ -1,29 +1,17 @@
-# S.D
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 55d08ca11e1ed2f62bd6b6bace190203711a58f4
+title: final_2019_jan_feb_jbs_pmd
+---
+# Average
 
-5.72
+14.27
 
-3.73
+17.68
 
-4.46
+18.46
 
-2.66
+19.97
 
-4.18
-
-C.V(%)
-
-40.00
-
-21.10
-
-24.16
-
-13.31
-
-49.76
-
-Source: calculated by author
-
-68
-
-IITM Journal of Business Studies (JBS)
+8.40

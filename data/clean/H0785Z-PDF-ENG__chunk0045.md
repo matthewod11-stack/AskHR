@@ -1,21 +1,15 @@
-## competencies, ﬂatter and team-based hierarchies, and an outside-in
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8dc02207bfe2163e876aca80812975cfe019ed6a
+title: H0785Z-PDF-ENG
+---
+# The Path Ahead
 
-focus. In many industries and geographies, however, there is still ample
+Amazon is not alone in its adaptation to the age of discontinuity, but it
 
-opportunity to build the structures and processes that take advantage of
+continues to lead the charge, always reinvesting in its future.
 
-the new external realities. As companies start on that task, they should
+Others must choose: Adapt or die. Some may be getting a late start
 
-recognize that the best way to organize and manage a business is always
-
-changing — and that the answers to fundamental questions may be very
-
-diﬀerent 100 years from now than they are today.
-
-This article was originally published online on September 19, 2022.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in developing technologically driven personalization, dynamic core

@@ -1,15 +1,29 @@
-# the same sense of urgency.
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a757a3ac9f8c003052ca55484f1a12b60b62d22
+title: H08KYH-PDF-ENG
+---
+# How to Overcome Hurry Sickness
 
-Pause before saying yes.
+Though the costs of hurry sickness can be dire, the remedies are
 
-Not only do you need to examine your calendar to see if you actually
+readily available. Try these tips and tactics to begin slowing down and
 
-can accept a request, you need to reﬂect to see if you should. Are you
+regaining your health — without compromising performance:
 
-the only person who can fulﬁll it? Will it demand too much of your time,
+Implement forcing functions.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+A forcing function is any mechanism or activity that by design compels
 
-5
+a particular result or behavior. With hurry sickness, the goal is to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+decrease your sense of time scarcity and high urgency. Eﬀective forcing
+
+functions might include blocking oﬀ buﬀer time on your calendar to
+
+deal with unexpected tasks; reserving time for deep, undistracted work
+
+with no particular end goal; and scheduling time to reﬂect on and
+
+reprioritize your to-do list so you’re not approaching everything with

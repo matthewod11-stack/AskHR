@@ -1,25 +1,17 @@
-## or weekly — provide opportunities for managers and team members
+---
+source_path: H08MJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf37423e002d0f6e57bd8a6da8b718f087a557f1
+title: H08MJK-PDF-ENG
+---
+# Recommendations for Managers
 
-to connect. Use these meetings to gather updates, provide feedback,
+Overall, managers should rethink their approach to monitoring their remote workforce. Based on our research, we oﬀer three key
 
-discuss progress, align on goals, and understand employee perspectives.
+recommendations to help leaders structure their remote monitoring practices eﬀectively:
 
-Acknowledging the beneﬁts of interactional monitoring, many
+- 1. Make monitoring a two-way street with interactional approaches.
 
-organizations, such as Doximity, Mission Cloud, and SeatGeek,
+Shift from relying solely on technology that passively provides data to
 
-have implemented interactional monitoring strategies through virtual
-
-chat channels and one-on-one meetings. Other companies have
-
-implemented virtual “open door” hours, which allow managers to
-
-designate speciﬁc times during which employees can drop in for
-
-brief discussions, mirroring the accessibility of an in-person open-
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+active engagement with employees. Regular check-ins — whether daily

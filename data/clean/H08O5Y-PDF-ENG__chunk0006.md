@@ -1,15 +1,13 @@
-# HBR / Digital Article / A Guide to Updating Your Resume When Moving from Public to P…
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61178aad3aae1de438f2cfd77ae7374c3e6bae09
+title: H08O5Y-PDF-ENG
+---
+# new employment in the private sector.
 
-Public service roles tend to have specialized language, non-traditional
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-organizational structures, and distinct success metrics. In working with
+1
 
-numerous public sector employees looking to make the move to the
-
-private sector for the ﬁrst time in their careers, I’ve seen them quickly
-
-realize that they need to translate their accomplishments, skills, and
-
-capabilities in a new and diﬀerent way. Here are four ways to update
-
-your resume, as well as some networking tips, to set yourself up for
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

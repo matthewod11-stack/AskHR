@@ -1,27 +1,29 @@
-## 1.1.4.(cid:32)The Co-operative Bank of Kenya Ltd
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 0e5420bc8bb4eb7cedcfc94af9dd3e33be0e5a4f
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+## motivation, development and optimal utilization of human resources towards the
 
-The Co-operative Bank of Kenya (Co-op Bank) is one of Kenya’s fastest growing
+achievement of a client focused and results oriented policy framework. Employee
 
-banks. It is currently one of the five largest financial institutions in the country. The
+performance management helps individuals and teams achieve their specific
 
-bank has been in business for over four decades. After recovering from substantial
+objectives in order to succeed in organizational roles, develop their skills.
 
-losses in 2000, Co-op Bank saw an impressive turnaround and has been on the
+Training encourages good performance, strengthens job related skills and
 
-upswing ever since. Initially the bank was registered under the Co-operative
+competencies and helps employees to keep up with change in the work place.
 
-Societies Act in 1965, Co-op Bank did not actually see its first year of business until
+Evaluating employees development needs has increased the capacity of employees
 
-- 1968. In 2008, Co-op Bank resolved to incorporate under the Companies Act. This
+to perform through multiple intervention process that includes training, coaching,
 
-qualified the bank for listing on the Nairobi Stock Exchange, which occurred in
+mentoring, counselling, guiding, giving assignments that introduces new skills or
 
-December of 2008. Since then, the bank has seen incredible growth. The number of
+higher levels of responsibility and improving work processes (Obwaya, 2010).
 
-accountholders and branches skyrocketed. The bank’s rapid and steady growth
+(cid:53)(cid:32)
 
-prompted its inclusion in the Nairobi Stock Exchange 20-Share Index in 2009. In
-
-both 2010 and 2011, the bank received recognition in the Financial Times of
-
-London magazine as Best Bank in Kenya. In 2011, the bank also received the Best
+(cid:32)

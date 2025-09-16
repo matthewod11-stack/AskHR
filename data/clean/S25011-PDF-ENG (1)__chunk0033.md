@@ -1,7 +1,13 @@
-# them.
+---
+source_path: S25011-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 2f0693c7ba7b545fb35ccfee45d2ff1e149478be
+title: S25011-PDF-ENG (1)
+---
+## delivery performance as a competitive advantage. Another customer
 
-Technology can help companies capture and analyze customer data
+could be a sustainability group that wants to reduce the company’s
 
-and the customers’ views on the current performance of processes.
+carbon footprint. Herein lies one of the beauties of process management
 
-Customer relationship management systems can provide insights
+—it forces managers to determine priorities and then to align work with

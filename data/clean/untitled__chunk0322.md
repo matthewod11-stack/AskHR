@@ -1,7 +1,11 @@
-# Clinical Psychology Counseling Psychology Industrial Psychology School Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4c70364ae229357d7b9650e6cabe49ff8e39bd74
+title: untitled
+---
+# THE BEGINNINGS OF THE NEW PROFESSION
 
-35
+OF PSYCHOLOGY 29 The Business Psychologist The Counseling Psychologist 30 The School Psychologist 31 The Clinical Psychologist 32
 
-37 38
-
-38 A “PROFESSIONAL” JOURNAL WITHIN APA 39 ELECTRONIC PUBLISHING INITIATIVES 40 COMMUNITY INVOLVEMENT 40 TWO ASSOCIATIONAL DEVELOPMENTS 41
+29

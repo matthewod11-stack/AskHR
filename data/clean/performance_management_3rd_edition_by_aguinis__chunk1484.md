@@ -1,7 +1,17 @@
-# A
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: bbba4a6669c7ec227b1dd5241f1aaaec93ce1360
+title: performance_management_3rd_edition_by_aguinis
+---
+# B
 
-Source: Adapted from an appraisal form developed by Boston College.
+Degree to which employee met referral goals (10 referrals a month):
 
-Place yourself in Cathy’s shoes, and use the above performance evaluation to develop an individual developmental plan for Jay.
+Needs improvement. Met referral goals 50% of the time in the last six months.
 
-Use the information provided in the Chapter 8 to build up the content of the developmental plan. (cid:2)
+B-
+
+Number of cold calls made monthly (250):
+
+Excellent. Tirelessly exhibits persistence and hard work in reaching out to businesses.

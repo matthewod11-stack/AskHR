@@ -1,5 +1,11 @@
-# Textbooks
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 333088e34566480e5ac82f75a5c298733acfa843
+title: untitled
+---
+## The State of Comparative Psychology between the Wars
 
-The 1930s saw the greatest burst of publication for textbooks in the history of the ﬁeld. Margaret Floy Washburn’s The An- imal Mind had been dominant since 1908. Her fourth edition appeared in 1936. The most inﬂuential book of the era was Maier and Schneirla’s Principles of Animal Psychology (1935). The textbook provided a comprehensive overview of the ﬁeld, beginning with 11 chapters organized according to animal taxa. Material concerning receptor equipment, sensi- tivity, conduction, and the action system is provided for each group. The second part of the book is concerned with natively determined behavior, sensory function, and neural mecha- nisms in mammals. Part III addresses learning and mental processes.
+The comparative psychologists educated during the 1920s and 1930s placed comparative psychology on a ﬁrm footing. Unlike the pre–World War I cadre, this group was successful in securing research support and in educating a next genera- tion of comparative psychologists who would carry on the tradition. Nevertheless, much was not well. This group of comparative psychologists, which appears to coalesce as a coherent unit when viewed in retrospect, did not appear so when viewed in its time. There were a number of reasons for this.
 
-The most comprehensive of the works was the three- volume Comparative Psychology: A Comprehensive Treatise (1935, 1936, 1940) by Warden, T. N. Jenkins, and Warner. The ﬁrst volume deals with principles and methods; the second volume with plants and invertebrates; and the third volume with vertebrates.
+Disciplines and subdisciplines become recognizable and inﬂuential with the development of a set of institutional land- marks including departments, textbooks, courses, research facilities, organizations, meetings, and journals. During this period, comparative psychology was well established in many departments, and courses were a staple in many places. In other respects, however, it lacked elements that foster cohesion.

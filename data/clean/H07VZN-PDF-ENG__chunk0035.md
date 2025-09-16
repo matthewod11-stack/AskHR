@@ -1,11 +1,39 @@
-# second-largest economy.
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a00505df004fb43fb10bab5ca06a488a6da3c8a
+title: H07VZN-PDF-ENG
+---
+## HBR / Digital Article / Developing a Successful Business Strategy in China
 
-This article was originally published online on November 16, 2023.
+If you’re a China-based team, you need to encourage (and even fund)
 
-Zak Dychtwald is the founder and CEO of YCG BridgeWorks, a cross-geo collaboration lab, and the author of Young China: How the Restless Generation Will Change Their Country and the World.
+executive trips to China. This will directly impact your resourcing and
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+inﬂuence on strategy. Remember that most global executives only truly
 
-8
+think about a global market when they wake up in it. Bring them here
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and remind them of the opportunities that they’re investing in.
+
+. . .
+
+Any company thinking about doing business today in China is facing a number of tough decisions, made tougher by diﬃcult geopolitics and
+
+a lack of visibility on the ground. Most often, the best tool you have
+
+available to you is your very own China team. But for China-based teams
+
+to play a larger role in your strategic process, they have to understand
+
+the overall perceptual climate back at headquarters, help make clear
+
+why your business ought to recommit to China, and know and then
+
+provide answers to the questions your team needs answered. Of course,
+
+seeing is believing, so returning to China in person after long years of
+
+absence is an essential step for global executives. That’s the only way
+
+to make measured judgements on how to re-engage with the world’s

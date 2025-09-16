@@ -1,9 +1,7 @@
-# Nourish and Flourish
-
-These are strategies to use when you’re trying to push past a fallow
-
-period. Maybe you’re thinking, How do we get our rhythm back?, or
-
-you’re trying to bounce back from burnout, or you’re just bored and
-
-looking for something new.
+---
+source_path: H08L3L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8403fdfda18de6ab776a2642b0ddd154accf7d7f
+title: H08L3L-PDF-ENG
+---
+# Ajax.

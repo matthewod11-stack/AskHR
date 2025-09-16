@@ -1,21 +1,27 @@
-## customer-oriented methodology: NPS, or Net Promoter Score.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0306d75f4a90473916809cd16963235f04e90383
+title: H08DDG-PDF-ENG
+---
+# customer.
 
-First publicized in a 2003 Harvard Business Review article by Bain &
+However, despite the rising popularity of “founder-friendly” venture
 
-Company’s Fred Reichheld, NPS involves asking customers a single
+capital, many investors continue to struggle to implement a founder-as-
 
-question: On a scale from 1 to 10, how likely are you to recommend
+customer approach in their daily operations. They may even ask for
 
-this company to a friend? Customers who give ratings of 9 or 10 are
+input using a traditional customer satisfaction survey, but these surveys
 
-classiﬁed as “promoters,” those with ratings of 7 or 8 are “passives,”
+are generally not very eﬀective at sourcing real, constructive feedback.
 
-and those with ratings of 1 to 6 are “detractors.” Then, to determine
+What does it take for VCs to move beyond platitudes to actually serve
 
-a company’s Net Promoter Score, you just subtract the percentage of
+the entrepreneurs they fund as eﬀectively as traditional companies
 
-detractors from the percentage of promoters, resulting in a measure that
+serve their customers?
 
-ranges between -100% and 100%. Companies can then use this metric to
+As the president of a corporate VC ﬁrm, I’ve learned that we’ve
 
-evaluate overall brand sentiment and identify opportunities to improve
+best served our entrepreneurs as customers when we use a proven,

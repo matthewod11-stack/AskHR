@@ -1,13 +1,29 @@
-# HBR / Digital Article / When You’re Suddenly Managing More People—and Feeling Buri…
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74eb9f84ef3a3aa4aa67a60aa4a4a6a6392530c1
+title: H08VTH-PDF-ENG
+---
+## presence during critical moments, support for blockers) and what may
 
-From that discussion, the team co-authored a few norms: “Assume
+need to shift (e.g., instant responsiveness, deep involvement in every
 
-positive intent,” “Raise risks early,” and “No meetings before 9 am
+project). Then, co-create new ways of working, like how decisions are
 
-unless critical.” This gave everyone permission to contribute, reduced
+made, how meetings are run, and how conﬂict is surfaced.
 
-friction, and fostered a stronger sense of psychological safety.
+One leader we coached who inherited a merged team of 30 direct
 
-Keep it simple with no more than ﬁve to seven agreements. Make
+reports hosted a “Team Reset Workshop” and asked:
 
-your team norms visible, revisit them quarterly, and hold each other
+- What helps you do your best work?
+
+- What gets in the way?
+
+- What agreements can we establish to work more eﬀectively together?
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

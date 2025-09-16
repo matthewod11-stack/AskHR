@@ -1,15 +1,19 @@
-# potential reasons:
+---
+source_path: H08DWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f89ed00938019d1f0a428663e085dd5dea3cb13
+title: H08DWZ-PDF-ENG
+---
+# HBR / Digital Article / Research: Flat Hierarchies Can Discourage Women Applicants
 
-- Compared to the male participants in the survey, women perceived
+also 14% less likely to show an interest in the position (measured by
 
-ﬂatter hierarchies as more challenging to ﬁt into. Several women in
+whether or not they clicked a link in the recruitment email that led to
 
-our survey expressed concerns, including that “a ﬂat hierarchy will run
+the application) when the recruitment email mentioned a ﬂat hierarchy.
 
-like a boys’ club” and “be harder to ﬁt in.”
+To understand why women may be relatively less attracted to
 
-- Women also anticipated a disproportionately higher workload in
+ﬂatter hierarchies, we conducted a large-scale follow-up experiment,
 
-ﬂatter organizations. In this respect, many women participants voiced
-
-concerns about an “overwhelming” or “heavy” workload in such
+surveying 8,498 new U.S. participants. Our ﬁndings unveiled several

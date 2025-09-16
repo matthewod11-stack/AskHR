@@ -1,35 +1,31 @@
-# in the past.
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d713cafeb7137219fb43d5e1d01b081e1d174e8c
+title: H07VPH-PDF-ENG
+---
+## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
 
-Miriam realized that, in her situation as a CEO, she needed to bring
+The ﬁrst assumption was that her coworkers liked working
 
-forward her listener behavior. Better communication with her one
+independently, because that’s what was comfortable for her. “In a
 
-employee wasn’t just “nice,” it was necessary. She knew she could be a
+professional setting – particularly one where I’m in charge – I’m used to
 
-good listener — that’s her dominant proﬁle and that’s who she was with
+working on my own and making my own decisions rather than reaching
 
-her friends. “I have the skills I need to improve my work relationship
+out to others for their input,” she explained.
 
-with Andre: curiosity, active listening, and trust building. I want to
+The second assumption was that, as a CEO, she thought she was
 
-hear Andre’s ideas about the company. I’ll suggest we have a regular
+supposed to make all the decisions. “I assumed that no news was good
 
-meeting where I can oﬀer a company update to provide greater clarity
+news, and that assumption turned out to be wrong.”
 
-and communication, and where I can listen to his ideas.”
+- 8. Recognize how your problem-solver profile can help you make more effective decisions.
 
-Although Miriam was a listener in her personal life, in her professional
+While all PSP strengths provide solutions, returning to your dominant
 
-life she thought listening wasn’t necessary — deciding was. In a lab,
+PSP can enable you to use strengths that you’ve already built as a
 
-working on her own, her adventurer habits led to professional success
-
-and made what could have been a lonely job deeply satisfying. But those
-
-adventurer habits, while comfortable in a lab, were counterproductive
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+decision-maker and initiate pathways where you’ve experienced success

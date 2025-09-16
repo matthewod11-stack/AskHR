@@ -1,13 +1,31 @@
-## HBR / Digital Article / 5 Pandemic-Era Lessons on Leading Through Drastic Change
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 632935bcd5d84222275234dee1f3da11cbf70564
+title: H08NX0-PDF-ENG
+---
+## This focus on clarity, structure, and trust instead of in-oﬃce attendance
 
-simultaneously supports business goals and employee engagement.
+demonstrates that hybrid models can be both employee-centric and performance-driven. This model has also proven cost eﬀective, reducing
 
-Finally, fully embrace the principle that performance matters more
+the company’s real estate footprint while justifying the investment in
 
-than presence by establishing transparent goals, implementing robust
+bringing employees together periodically.
 
-progress tracking, and providing regular, meaningful feedback. As
+Leaders looking to master this balancing act must take a thoughtful,
 
-Chesky demonstrates at Airbnb, genuine accountability stems from
+multifaceted approach. First, design work environments with clear
 
-well-deﬁned milestones and thoughtful check-ins, not from monitoring
+intention, recognizing that productivity isn’t about physical location.
+
+Next, develop a deep understanding of your speciﬁc workforce by
+
+gathering systematic feedback and assessing what truly enables
+
+teams to perform at their best, then construct a framework that
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

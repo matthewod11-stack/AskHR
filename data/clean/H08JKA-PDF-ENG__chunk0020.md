@@ -1,27 +1,19 @@
-# HBR / Digital Article / Connect Your Learning Programs to Your Company’s Strategy
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c0e0ae6ab005f77f97e8d7acea090996dec5beb
+title: H08JKA-PDF-ENG
+---
+## Move from participation-based KPIs to outcome-based KPIs.
 
-One more outcome-based approach is to focus on productivity metrics that quantify improvements in speed and eﬀectiveness. For example,
+CLOs must be able to show that their eﬀorts have a positive impact on
 
-the CLO of a large luxury goods company described a learning initiative
+the metrics that matter most to their companies. And yet, according to
 
-that was designed to boost sales from online channels. The program
+LinkedIn, only 30% of L&D professionals measure this.
 
-played out over eight months and included webinars, project work, and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-self-paced material, culminating in a two-day hackathon to identify
+5
 
-solutions for a speciﬁc challenge the business was facing. One team
-
-focused on improving the search bounce rate, a crucial measure of the
-
-number of people who arrive on a product’s website from a search
-
-engine and then leave quickly. The lower the bounce rate, the more
-
-likely the customer will buy something. Four months after the program,
-
-the company saw a signiﬁcant improvement in the bounce rate, easily
-
-justifying the cost of the training program.
-
-Another approach is to apply a longitudinal perspective. Nestlé assesses
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

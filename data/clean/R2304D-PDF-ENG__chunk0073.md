@@ -1,21 +1,23 @@
-## creates unusual incentives for unions and an uneven playing ﬁeld
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 864bbe06432ce3c0a5423f6d452398bedf725183
+title: R2304D-PDF-ENG
+---
+# Beyond Your Company
 
-for companies: Firms that are unionized and pay good wages have
+As companies embrace the idea of experimenting with organized labor,
 
-to compete with nonunionized rivals that pay lower wages. A better
+best practices will emerge and may serve as a basis for ﬁxing long-
 
-approach would be to introduce sectoral or industry-level bargaining, a
+stagnant U.S. labor law. For example, in Europe, companies allow for
 
-practice that was once more common in the U.S. This is an area where
+workplace or companywide “works councils” elected by workers to
 
-companies can organize—for example, by seeking bigger bargaining
+advise on a range of issues—and U.S. law could change to make it easier
 
-groups that cover enough of their industry to remove the competitive
+to form similar councils, which are currently illegal.
 
-“I’m unionized, but they’re not” dynamic. Companies can then focus
+Solutions will also emerge at the industry level. In the United
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+States, most unions are organized by workplace or company. This

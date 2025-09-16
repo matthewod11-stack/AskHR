@@ -1,13 +1,11 @@
-## companies sometimes purposefully introduce limitations to their use
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a852f38ffb5ce0a556293a6627450f8ff718c914
+title: H08R2D-PDF-ENG
+---
+## recommendations to consumers of its Seedlip brand.
 
-of resources to encourage creative problem-solving. Patagonia, for
+Counterintuitively, constraints imposed by low growth can even
 
-instance, has been growing at more than 9% per year (and is therefore
-
-not part of our sample), but it self-enforces strict sustainability
-
-standards that limit the materials used in making its products. By using
-
-only organic or recycled fabrics and by urging customers to purchase
-
-fewer items, Patagonia has developed pioneering programs like its
+become powerful catalysts for innovation. In fact, rapidly expanding

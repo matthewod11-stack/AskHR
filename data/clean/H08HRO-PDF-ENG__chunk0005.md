@@ -1,33 +1,11 @@
-## do. With notiﬁcations from smart phones, physical taps from smart
+---
+source_path: H08HRO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55af643cc57dbdf413fca15f1f01c78b309b1803
+title: H08HRO-PDF-ENG
+---
+## HBR / Digital Article / When You Can Tell Someone Isn’t Listening to You
 
-watches, and the random thoughts that pop into our heads, it’s a
+One of the highest forms of respect we can show to someone is to give
 
-challenge to stay focused.
-
-I’ll never forget a business lunch with a mentor. We went to a popular
-
-Harvard Square restaurant frequented by many of our colleagues.
-
-Having spent over 15 years in the Harvard community, I knew many of
-
-the other guests as well as the general manager of the restaurant. While I
-
-loved smiling and saying hello to many of my colleagues as they passed
-
-by, my mentor made a comment that we should probably go somewhere
-
-else for the next lunch so that I could focus on our conversation. The
-
-feedback hurt, but it was valid.
-
-So what do you do when someone isn’t really paying attention to you?
-
-Great conversations have a natural rhythm, and it takes both parties to
-
-intentionally create that rhythm.
-
-Here are a few steps to get back in sync with your counterpart.
-
-Take a step back.
-
-When someone isn’t listening to you, mentally take a step back during
+them our undivided attention. But that’s getting harder and harder to

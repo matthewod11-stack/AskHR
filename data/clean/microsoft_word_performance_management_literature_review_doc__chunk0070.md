@@ -1,3 +1,7 @@
-## Cannell M (2006), Performance management: an overview, CIPD website
-
-Cawley B, Keeping I, Levy P (1998), ‘Participation in the Performance Appraisal Process and Employee Reactions: A Meta-Analytic Review of Field Investigations’, Journal of Applied Psychology, Vol. 83, pp. 615-633
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: f5538bd73422156e3ab2730faa6d9278a650cf4b
+title: microsoft_word_performance_management_literature_review_doc
+---
+## Brown D, Armstrong M (1999), Paying for contribution, Kogan Page

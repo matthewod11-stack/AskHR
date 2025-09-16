@@ -1,13 +1,15 @@
-# baseline for everyone around you.
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc5f530cec1e992171e08e9d27e2fcb231d22d9c
+title: H08VTH-PDF-ENG
+---
+# signal about what you value.
 
-Leadership at scale is a marathon, not a sprint. While protecting your
+- 5. Protect Your Energy and Model Resilience
 
-energy may seem indulgent, it’s an investment in your leadership.
+When your team grows quickly, the demands grow with it. Your calendar
 
-You’re not just managing deadlines; you’re setting the tone. This means
+ﬁlls up. Your energy drains, too. And if you’re depleted, your team
 
-being honest about your bandwidth, building in recovery time, and
-
-making choices that prioritize sustainability over urgency. Modeling
-
-resilience and sustainability for your team requires presence over
+will feel it. How you show up under pressure becomes the emotional

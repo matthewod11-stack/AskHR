@@ -1,17 +1,9 @@
-## **[Geoff Gibbins]{.underline}** 
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: a5e07a5ee090978a3106dd984478c83fd837d3b1
+title: Gibbons
+---
+# **[Leadership in the age of AI: Why executives must relearn how to lead in the AI era]{.underline}**
 
-[Human-AI expert \| Managing Director at BOI \| Author]{.underline}
-
-[August 26, 2025]{.underline}
-
-[AI isn\'t just changing how we use technology, it\'s rewriting what
-leadership means.]{.underline}
-
-[Research reveals that 70% of AI transformation success depends on
-people and process competencies, not technical capabilities. Yet most
-executives are still leading with a playbook written for a pre-AI world.
-This isn\'t about adding AI to your toolkit or becoming an expert prompt
-engineer for a tool that will become obsolete in 6 months --- it\'s
-about becoming a leader that navigates paradox, manages human potential
-in new ways, and creates meaning in an age of artificial
-intelligence.]{.underline}
+![Geoff Gibbins](media/image4.jpg){width="0.5in" height="0.5in"}

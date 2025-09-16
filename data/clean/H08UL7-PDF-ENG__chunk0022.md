@@ -1,9 +1,11 @@
-## concerns about members’ relationships with their team leader and
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0343dbc0a9b2db5b2e7c31ca18f127415860e74e
+title: H08UL7-PDF-ENG
+---
+# workshop.
 
-with one another. By the end of the two days, they’d developed an
+We opened the workshop with a structured conversation about the
 
-improvement plan. At the top of the list was a monthly meeting
-
-that they labeled Candid Conversations, with the goal of making the
-
-discussions open and authentic. They organized these conversations
+team’s anonymous responses to the Team EI survey. They uncovered

@@ -1,5 +1,9 @@
-# Creativity
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: d7a2264d30d65923034147a3f4f0fb08eb007a12
+title: barrickryan_eds_personality_and_work
+---
+# THE HAPPY WORKER 45
 
-Depending on the nature of the job in which a worker is engaged, creativity may be a powerful predictor of employee productivity. Individuals who can think of novel solutions to a problem or in- novative strategies for accomplishing a task can greatly increase the productivity and efﬁciency of the organization where they work. Considerable evidence from laboratory studies shows that induced positive affect can lead to increased creativity. Isen and her col- leagues have shown that inducing a pleasant mood leads to higher scores on the Remote Associates Test (which tests the associations one makes among three seemingly unrelated words; Estrada, Isen, & Young, 1994) and to more unusual responses in a word associa- tion task (Isen, Johnson, Mertz, & Robinson, 1985). Other re- searchers have shown that induced positive affect leads to the use of more creative strategies when estimating correlations (Sinclair & Mark, 1995), the listing of more unusual categories in a sorting task (Hirt, Melton, McDonald, & Harackiewicz, 1996; Murray, Sujan, Hirt, & Sujan, 1990), and the listing of more unusual ex- emplars of a category (Greene & Noice, 1988). Positive affective dispositions seem to have similar effects in laboratory tests of cre- ativity: Cacha (1976) found that happy, relaxed, and bold children tended to score high in creativity.
-
-When we move outside the laboratory, the evidence is slightly more complicated. A number of researchers have noted that creative
+piness may have different effects on distinct reasons for absen- teeism (see Kohler & Mathieu, 1993, for a discussion of the rea- sons for absenteeism). Happy workers may be less likely to miss work due to illness, but they may be more likely to miss work due to injuries from accidents or simply because they wanted to do something more exciting that day than go to work (Furnham & Miller, 1997). We should note, however, that Dalton and Mesch (1991) found that job satisfaction was related only to absence due to illness and not to absence due to other causes. Again, however, positive affect may function differently from job satisfaction, and thus we recommend that researchers go beyond simply examining outcome variables like absenteeism and try to incorporate addi- tional measures that can explain exactly why happy workers are ab- sent more or less frequently.

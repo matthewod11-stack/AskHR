@@ -1,19 +1,51 @@
-# hers.
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: fbb24f911727e3d68fe16afde515f262c96f355b
+title: The Feedback Fallacy
+---
+## When a feedback instrument surveys eight colleagues about your
 
-Just as your doctor doesn’t know the truth of your pain, we don’t know
+business acumen, your score of 3.79 is far greater a distortion than if it
 
-the truth about our colleagues, at least not in any objective way. You
+simply surveyed one person about you—the 3.79 number is all noise, no
 
-may read that workers today—especially Millennials—want to know
+signal. Given that (a) we’re starting to see more of this sort of data-based
 
-where they stand. You may occasionally have team members ask you
+feedback, (b) this data on you will likely be kept by your company for a
 
-to tell them where they stand, objectively. You may feel that it’s your
+very long time, and (c) it will be used to pay, promote, train, and deploy
 
-duty to try to answer these questions. But you can’t—none of us can.
+or ﬁre you, you should be worried about just how fundamentally ﬂawed
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+it really is.
 
-6
+The only realm in which humans are an unimpeachable source of truth
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+is that of their own feelings and experiences. Doctors have long known
+
+this. When they check up on you post-op, they’ll ask, “On a scale of one
+
+to 10, with 10 being high, how would you rate your pain?” And if you
+
+say, “Five,” the doctor may then prescribe all manner of treatments, but
+
+what she’s unlikely to do is challenge you on your “ﬁve.” It doesn’t make
+
+sense, no matter how many operations she has done, to tell you your
+
+“ﬁve” is wrong, and that, actually, this morning your pain is a “three.” It
+
+doesn’t make sense to try to parse what you mean by “ﬁve,” and whether
+
+any cultural diﬀerences might indicate that your “ﬁve” is not, in fact, a
+
+real “ﬁve.” It doesn’t make sense to hold calibration sessions with other
+
+doctors to ensure that your “ﬁve” is the same as the other “ﬁves” in the
+
+rooms down the hall. Instead, she can be conﬁdent that you are the best
+
+judge of your pain and that all she can know for sure is that you will be
+
+feeling better when you rate your pain lower. Your rating is yours, not

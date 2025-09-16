@@ -1,9 +1,7 @@
-## market (in terms of “revenue passenger miles,” or the number of miles
-
-traveled by paying passengers) was a modest 5.3%. Southwest Airlines,
-
-however, enjoyed a brisk average CAGR of 15.3%. It accomplished that
-
-by developing unique operating capabilities (such as fast turnaround of aircraft) that enabled it to eﬃciently provide point-to-point service
-
-on routes that traditional competitors either ignored or served only
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c4ba722cf8ed5cbbc95782e0d80caa19ee1c75a8
+title: S24021-PDF-ENG
+---
+## the average compound annual growth rate of the domestic U.S. travel

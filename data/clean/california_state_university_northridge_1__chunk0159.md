@@ -1,49 +1,63 @@
-## Association, JAMS/Endispute, and Resolution Systems and in addition to any other
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 40f840e5322056eed49a8583ca56787afc573d63
+title: california_state_university_northridge_1
+---
+# Resources, Employee Relations, Equal Opportunity Office and the Ethics Office comprise
 
-dispute resolution organizations, the parties involved may agree upon. The mediator does
+the traditional avenues to pursue employment related issues at Prudential. It is important
 
-not act as a judge in this process; their role is defined as seeking both parties mutual
+to point out that Employee Relations, Equal Opportunity Operations Office and the Ethics
 
-cooperation to find a solution to the problem. Another key role is problem identification,
+Office are at the corporate level, which associates have access if the issue can not be
 
-which is fundamental. If the problem cannot be identified then no resolution can be
+resolved with local Human Resources and or local management.
 
-determined at any stage for any organi7.ation. Once thi,;: has been identified, then the
+It is suggested that the
 
-mediator will explore possible bases for agreement and consensus (Roads to Resolution,
+associate first deal directly with the parties involved, which might bring about an
 
-1999).
+understanding and agreement to the issue. It is recognizes that for some individuals it may
 
-The Mediator will meet with both parties together or separately in which each
+be uncomfortable in addressing the person directly involved. Should this be the situation,
 
-party will have the opportunity to present their perspective regarding the issue. The
+and then the employee needs to speak with their immediate supervisor to act as a
 
-mediator will present a proposed solution based on the information provided by both
+mediator. On the other hand, if the problem is with the supervisor, then a Human
 
-parties. Consequently, the proposed solution is not required to be accepted by either
+Resource representative should act as a mediator. Next, ifthere is no satisfactory
 
-party. Should both parties agree to a solution presented by the mediator, then is shall be
+resolution, the next step is corporate options stated above. It is believed that through a
 
-placed in writing which is final and binding.
+proactive approach in confronting the problem will bring clarity to the issue and at hand a
 
-55
+satisfactory resolution. However, if the options in step one do not reach mutual
 
-Finally, the fourth step is External Arbitration. This next step is a binding
+conclusion, the step can be utilized.
 
-arbitration process. Here any employment related claim and or legally protected rights
+The Resolve Office is step two of the program. The staff within this office are
 
-might be heard in this step. This step also involves and outside neutral third party.
+here to assist the parties involved to determine if all the options within step one have been
 
-process the arbitrator will hear the claim presented by both sides and render a decision that
+fully exhausted. When speaking with a staff member they will begin by asking pro bing
 
-is binding unlike mediation, where the solution presented can be rejected. During this
+questions to ascertain what steps were utilized and the outcome of each. Based off the
 
-process, the formality is far greater than any other steps before this. In arbitration,
+evaluation and or discussion, if can be determine that all the available options provided in
 
-witnesses can testify on your behalf or for the company and evidence can be presented and
+54
 
-argument made, this rule applies to both sides. Here, any evidence, witness and or
+step one did not reach a satisfactory conclusion, then they will be allowed to proceed to
 
-arguments must comply with the rules of arbitration. More importantly, the arbitrator has
+the next steps three and four if deemed necessary.
 
-the flexibility to grant awards that are permissible within a court oflaw, such as back pay,
+External Mediation is the third step of Roads to Resolution. If the work related
+
+claim/issue was not satisfied in earlier steps, then this step utilizes an external factor.
+
+Mediation is the key component in this phase, which the company seeks an independent
+
+neutral third party called a mediator. Both parties need to agree upon an organization in
+
+which a mediator will be selected. Acceptable organizations are the American Arbitration

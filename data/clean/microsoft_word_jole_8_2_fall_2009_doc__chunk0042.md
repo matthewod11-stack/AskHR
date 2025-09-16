@@ -1,3 +1,11 @@
-# Summary
+---
+source_path: microsoft_word_jole_8_2_fall_2009_doc.md
+pages: n/a-n/a
+chunk_id: 8c92e5c9f9839d75ddf7793aaa9034dfcbd14ee0
+title: microsoft_word_jole_8_2_fall_2009_doc
+---
+## Journal of Leadership Education Volume 8, Issue 2 – Fall 2009
 
-Few differences exist between sports participants and non-participants regarding the leadership skills measured in this study. Team participants differed significantly from non-participants in only two skills: teamwork and written communications. Sports team participants demonstrated higher teamwork skills. Those who did not participate in school sports demonstrated higher written communications skills. Increased levels of participation are not associated with differing levels of leadership skills. The nature of the sport is not generally associated with skill development.
+In order not to ignore the potential effects of less popular sports, each of the 23 sports was classified into one of two categories: coactive or interactive. Interactive sports are those where task interactions are essential for group success (e.g., baseball, football, soccer, basketball). Coactive sports are those where task interaction among the individual team members is not an element of the sport (e.g., golf, tennis, swimming, track). This categorization is relatively common in the sports study discipline (Carron, Colman, Wheeler, & Stevens, 2002; Munroe, Estabrooks, Dennis, & Carron, 1999).
+
+The resulting correlations reveal no systematic association between the number of seasons of sports participation and the level of any particular leadership skill. Only increased participation in track/cross country was associated with an increased level of teamwork (r = .168, p<.05). Increased participation in football was associated with significantly lower skills in the area of written communications (r = -.193, p < .05). Increased participation in baseball and softball was negatively correlated with communication skills (r = -.156, p < .01), while increased soccer participation was negatively associated with judgment skills (-.15, p < .01). Grouping sports into the interactive and coactive categories did not result in increased participation having any statistically significant association with any leadership skill level.

@@ -1,7 +1,13 @@
-## mental health. Amerasia Journal, 1, 36–49.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0af9e7ab2b6667aa29a505a94c2608247dd5d1a8
+title: untitled
+---
+# References
 
-Sue, S., Zane, N., & Young, K. (1994). Research on psychotherapy with culturally diverse populations. In A. E. Bergin & S. L. Garﬁeld (Eds.), Handbook of psychotherapy and behavioral change (4th ed., pp. 783–817). New York: Wiley.
+Simpkins, G., & Raphael, P. (1970). Black students, APA, and the challenge of change. American Psychologist, 25, xxvii–xxviii.
 
-Szapocznik, J., & Kurtines, W. M (1995). Family psychology and cultural diversity: Opportunities for theory, research, and appli- cation. In N. R. Goldberger & J. B. Veroff (Eds.), The culture and psychology reader (pp. 808–824). New York: New York University Press.
+Slife, B. D., & Williams, R. N. (1995). What’s behind the research: Discovering hidden assumptions in the behavioral sciences. Thousand Oaks, CA: Sage.
 
-Thomas, A., & Sillen, S. (1972). Racism and psychiatry. New York:
+Sue, S., & Sue, D. W. (1971). Chinese-American personality and

@@ -1,53 +1,33 @@
-## HBR / Magazine Article / Disability as a Source of Competitive Advantage
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64579c6e20486201734349f3b93ab801a2a144ae
+title: R2304H-PDF-ENG
+---
+## quality hot beverages and sandwiches at competitive prices in prime
 
-Distinctive skills frequently go hand in hand with disabilities. For instance, academics have found strong links between autism and aptitude at tasks requiring attention to detail.
+locations, just like its rivals Bagels & Beans and Starbucks. Yet there is
 
-To further explore how people with disabilities help ﬁrms strengthen
+one diﬀerence: Many of B&D’s employees have Down syndrome.
 
-their appeal, we set up a series of experiments, enlisting 200 individuals
+That diﬀerence deﬁnes the company’s marketing strategy. B&D avoids high-traﬃc locations, like train stations and business districts, where
 
-as participants. Half of them were asked to consider purchasing a
+many customers just want a quick coﬀee. Instead it focuses on places
 
-customized mug online from a company that had received high ratings
+where people can sit down quietly and relax. Having people with
 
-from its customers. The other half were asked the same thing but were
+disabilities prepare and serve the products may at times make the
 
-also told that the company employed many people with disabilities. We
+service a little slower, but it is one of the reasons some customers like
 
-then analyzed people’s willingness to pay for the mug.
+to visit the chain. Indeed, we know from research that customers value
 
-The fact that the company employed people with disabilities by itself
+not just the content of a product and its functionality but also how it is
 
-didn’t increase people’s inclination to pay more for the mug. So we
-
-repeated the experiment with another group of 200 participants, who
-
-were asked to consider buying an engraved necklace. We found much
-
-the same result: The participants weren’t willing to pay more (or less)
-
-for something that was produced by a company that employed disabled
-
-people. They also didn’t rate the quality of the product any higher.
-
-However, in both cases we also tested for general attitudes toward the
-
-company: Did people feel they liked the company? Did they perceive
-
-what in marketing is called a “communal relationship” with it, in the
-
-sense that they would like to see the company succeed, felt happy if it
-
-performed well, and were willing to actively support it? If the company
-
-employed people with disabilities, the answer was yes: Customers were
-
-signiﬁcantly more likely to engage in a communal relationship with it
-
-than they were with a company in the control group.
+produced and by whom.
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

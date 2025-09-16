@@ -1,20 +1,33 @@
-### **Stage 3: Establishing evaluation frameworks**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: ecd0c1dc3cf2c37e43b8a13ab4c8613edcf0ef64
+title: Gibbons
+---
+### **Stage 2: Designing interaction protocols**
 
-Here\'s where most human-AI team implementations fail: they don\'t
-establish clear frameworks for evaluating outputs from both humans and
-AI. Without systematic evaluation, you can\'t identify when the
-collaboration is working versus when it\'s creating risk.
+Once you\'ve mapped capabilities, you need to design how humans and AI
+will actually work together. This isn\'t about installing software and
+training people to use it. It\'s about creating new collaborative
+workflows that leverage the strengths you\'ve identified.
 
-This evaluation must be multidirectional. Humans evaluate AI outputs for
-accuracy, relevance, and potential bias. But AI should also analyze
-patterns in human decisions to identify potential blind spots or
-inconsistencies. And crucially, you need to evaluate the collaboration
-itself, not just individual components.
+Consider the spectrum of collaboration models:
 
-A financial advisory firm implemented this multidirectional evaluation
-by having AI analyze patterns in advisor recommendations while advisors
-assessed AI-generated insights. They discovered advisors consistently
-underweighted certain risk factors while the AI missed crucial
-contextual information about client life circumstances. By identifying
-these complementary blind spots, they designed workflows that
-compensated for both.
+- Human-in-the-loop works for high-stakes decisions where AI generates
+ > recommendations but humans retain veto power. A medical diagnosis
+ > team might use this model, with AI suggesting possibilities but
+ > physicians making final determinations.
+
+- AI-in-the-loop suits creative or strategic work where humans lead
+ > but consult AI for specific insights. Marketing teams developing
+ > campaigns might use AI to analyze consumer data or generate
+ > headline variations while maintaining creative control.
+
+- Human-on-the-loop fits moderate-risk, high-volume operations where
+ > AI handles routine cases independently while escalating
+ > exceptions. Content moderation teams use this model effectively,
+ > with AI managing clear policy violations while humans handle
+ > nuanced cases.
+
+The key is matching the model to the risk profile and complexity of the
+work. Don\'t default to one approach for everything.

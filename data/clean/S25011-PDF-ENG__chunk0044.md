@@ -1,11 +1,35 @@
-## One of its customers, Deutsche Telekom—the largest
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ac69865d48cf001d4bf467f8991eceb7bac15fc
+title: S25011-PDF-ENG
+---
+# levels.
 
-telecommunications company in Germany—used a new tool from Pega
+Other new technologies may also be relevant. Internet-of-things sensors
 
-called Blueprint to rebuild its HR processes and the systems that
+may be used to monitor manufacturing equipment and prevent failures,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+and blockchain can be used to track the movement of goods along a
 
-11
+supply chain. Traditional business analytics can also improve decision-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+making throughout processes.
+
+Step 6: Redesign the process. The redesign should be led by a cross-
+
+functional team made up of people from the departments involved in
+
+the process in question. The goal is not just to map out a better workﬂow
+
+but also to identify the skills, technologies, and organizational structure
+
+changes needed and the expectations of partners and customers.
+
+While designing processes was once a highly labor-intensive activity, today AI has made that work much faster and more eﬃcient. One
+
+long-term vendor of process-management software, Pega, for instance,
+
+has created tools that use generative AI to draw best-practice process
+
+designs from a library and suggest them to design teams.

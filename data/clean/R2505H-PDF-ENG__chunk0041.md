@@ -1,17 +1,13 @@
-## Rutgers University Institute for the Study of Employee Ownership and
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a59d46b21a2f6aef01f186d5fef6b2d7c778d68f
+title: R2505H-PDF-ENG
+---
+## under the brands John Lewis and Waitrose—had more than 70,000
 
-Proﬁt Sharing. The main reason to pursue employee ownership is that
+employee owners and over £12 billion in revenue. In the United States
 
-the business can remain private and stay true to its purpose while
+there are nearly 11 million employee owners across more than 6,000
 
-allowing the founder to share the value created with the staﬀ. There
-
-can also be tax beneﬁts with certain types of structures. The main risks
-
-are that the company will have to take on debt if it’s buying out the
-
-founder’s shares, that it may face additional regulatory requirements,
-
-and that tension could arise between employees who are looking to cash
-
-out their shares at retirement and those who are investing for the future.
+companies, according to joint research by the Aspen Institute and the

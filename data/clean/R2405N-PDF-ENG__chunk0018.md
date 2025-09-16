@@ -1,11 +1,19 @@
-## HBR / Magazine Article / Will Psychedelics Propel Your Career?
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8e08e2749d2bf057a5fe3fc3a1dae122b232390
+title: R2405N-PDF-ENG
+---
+# Sigmund Freud and other psychoanalysts.
 
-Institute, Bill Linton; and the rocker Melissa Etheridge, who, following
+Luminous also investigates more-recent research and breakthroughs,
 
-the death of her son from an opioid overdose, became an advocate for
+with Paulson interviewing a slew of experts and advocates in the
 
-psychedelic therapy to treat addiction.
+space, including the neuroscientist Gül Dölen; the director of the Usona
 
-Like Etheridge, Joanna Kempner, a sociologist, believes that
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-psychedelics can help save lives, and not just in cases of addiction and
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

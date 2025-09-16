@@ -1,11 +1,15 @@
-# arrangements.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0870f219cd4577acf628aff59afda3730f3fef65
+title: H08H7H-PDF-ENG
+---
+## less close relationships with their coworkers.
 
-As management researchers, we were perplexed by the RTO mandates.
+Yet the decision to bring employees back into the oﬃce is not a simple
 
-If leaders believe that in-person collaboration is essential to strong
+one. Other research shows — and many employees came to realize during the pandemic — that productivity and performance do not suﬀer
 
-work relationships and thus organizational success, how do we make
+when working remotely. Further, employees are actually happier and
 
-sense of ﬁndings that remote work does not decrease productivity and may also oﬀer additional value to organizations? To investigate this, we
-
-questioned the widely-held assumption that interacting remotely hurts
+less likely to leave their jobs when they have remote or hybrid work

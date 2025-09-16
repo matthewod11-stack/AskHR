@@ -1,17 +1,11 @@
-# job-seeking activity.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 32c2731811097d98513a14bcbc80337413f66d79
+title: i
+---
+## into the workforce to the same degree as insights of their customers.
 
-Stage 2: Active Consideration, Evaluation, or Knowledge. The analysis identifies the active
+Job seeker decision journey consists of four phases:
 
-or frequent points of contact for the job seekers while approaching the organization.
-
-Stage 3: Action. The analysis of this stage describes various phases of the application process
-
-from the considering applying moment to the acceptance of a job offer.
-
-Stage 4. Post hired. At this stage, the employee’s engagement and commitment are addressed
-
-and analyzed. This is also a measurement of how emotionally invested and dedicated
-
-employees are to the jobs and the organization.
-
-46
+Stages 1: Initial. The report at this phase reveals the motivation and triggers behind candidates'

@@ -1,7 +1,7 @@
-# Holloway/Getty Images
-
-The Federal Trade Commission (FTC) made history last week when
-
-it passed a new rule that fundamentally alters the landscape of
-
-employment agreements across the U.S. The agency’s noncompete rule
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fdc61f37d5645bb8112047e96d6675ccdff23748
+title: H087Y6-PDF-ENG
+---
+## Published on HBR.org / May 06, 2024 / Reprint H087Y6

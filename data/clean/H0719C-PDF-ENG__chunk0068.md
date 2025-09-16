@@ -1,13 +1,9 @@
-## People with mental health challenges, no matter the severity, can
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e33210eafe5e72548eb17a1411137895c0b710d1
+title: H0719C-PDF-ENG
+---
+# them to employees.
 
-thrive in the workplace and be valuable team members. Allies play
-
-an important role by helping to provide the empathy and compassion
-
-they need to overcome key challenges. Our collective will, empathy,
-
-and compassion can break down the formidable barriers of stigma.
-
-Workplace mental health initiatives can and do help. In the end, what
-
-matters most is bringing our shared humanity into the workplace.
+. . .

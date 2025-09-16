@@ -1,19 +1,19 @@
-# HBR / Digital Article / High-Performing Teams Don’t Leave Relationships to Chance
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db215248f322464d13a2d90840be4865a8a31a63
+title: H077VU-PDF-ENG
+---
+## insights from the science of close connections.
 
-whether it’s a favorite TV show, weekend hobby, or even the same
+- 1. Use commonalities to spark friendships.
 
-birthday, the more likely they are to click. In a fascinating study of best
+Studies indicate that one of the strongest drivers of friendships is
 
-friends who remained close for nearly 20 years, researchers found that
+similarity. The more workers have in common with one another,
 
-the strongest predictor of long-term bonding is the level of similarity
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-when friends ﬁrst meet.
+2
 
-Managers can leverage this insight by making it easier for employees to identify commonalities. Onboarding oﬀers the perfect opportunity.
-
-Instead of simply introducing new hires by their professional
-
-experience, consider interviewing them to uncover a few colorful details
-
-about their personal interests, and sprinkle these details into your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

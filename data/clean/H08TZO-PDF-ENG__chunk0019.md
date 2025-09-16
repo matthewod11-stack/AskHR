@@ -1,5 +1,13 @@
-## self-defeating. Slogans like “erase ﬁne lines and wrinkles” and
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa3c9ccbdc5f321b65d880ced404783dd53ab301
+title: H08TZO-PDF-ENG
+---
+# HBR / Digital Article / Age Inclusion Is Your Company’s Next Competitive Advantage
 
-descriptors like “age-defying” can make older adults feel as if
+- 2. From age as decline to age as reinvention in marketing
 
-there’s no point for them to purchase products. For example, Dior’s
+Too often, marketing frames aging as a loss of youth, beauty, or
+
+relevance. This narrative is not only inaccurate but also commercially

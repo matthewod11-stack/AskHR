@@ -1,9 +1,17 @@
-## discuss Emergency Use Authorization for the Pﬁzer-BioNTech Covid-19
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb33f2143fa49126c681a3a621580901a2d8e7e5
+title: H08SUP-PDF-ENG
+---
+## As part of its regulatory authority, the FDA convenes Advisory
 
-Vaccine. Given the consequential nature of the recommendations, a
+Committees (AdComs) to assist its decision-making. These AdComs
 
-typical AdCom meeting lasts a full day, with the vast majority of time
+are expert panels whose purview includes evaluating new drugs
 
-spent on presenting, scrutinizing, and debating data and evidence on the product’s safety and eﬃcacy. Following these extensive discussions,
+and medical devices, and making recommendations on product
 
-the meeting typically culminates in a vote of the AdCom’s conﬁdence in
+approvals before they enter the U.S. market. For example, in December
+
+2020, the Vaccines and Related Biological Products AdCom met to

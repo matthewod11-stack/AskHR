@@ -1,5 +1,11 @@
-## organizational policies with the preferences of their employees. The
+---
+source_path: H087JX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4c17f4ec59daee0a78ca2b1e6dbeb3524799306e
+title: H087JX-PDF-ENG
+---
+# SolStock/Getty Images
 
-pressure from higher-ups to bring people back to their cubicles has been
+Ever since the ﬁrst return-to-ofﬁce mandates emerged in 2021,
 
-building over the years, and as a manager, you need to tow the company
+managers have grappled with the delicate task of balancing

@@ -1,23 +1,33 @@
-# strenuous one.
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89dbd8b115bae1fe9e1591295598f940303cb60e
+title: H087FX-PDF-ENG
+---
+# comprehension directly.
 
-. . .
+Inclusive norms. Leaders should establish and role-model ﬂexible and
 
-There is encouraging clinical and research momentum for long Covid
+accommodating behaviors. For example, in hybrid meetings, while in-
 
-and related conditions. In a congressional meeting in January, U.S.
+person employees might be sitting upright on camera, make sure those
 
-senators on both sides of the aisle called for more funding to support
+who are sick and working from home feel comfortable lying down on
 
-medical research. Advocates from multiple organizations associated
+camera or not being on camera at all. Use the raise-hand feature to
 
-with chronic illnesses, including long Covid and ME/CFS, are lobbying
+ensure that everyone can speak.
 
-to create a new government oﬃce to support a coordinated approach
+Employee inclusion training. Train managers and HR on nonapparent
 
-to researching these illnesses. And scientists are actively studying long
+disability inclusion. Complex chronic illnesses are frequently
 
-Covid mechanisms and trying to identify potential treatments. (Among
+misunderstood, so one option is to invite speakers with lived experience
 
-those scientists is one of us, Beth, who studies shared features of
+to educate others.
 
-complex chronic illnesses and is working on a clinical study of long
+Job redesign or task modiﬁcation. Where possible, adjust the duties of
+
+a role to ﬁt the current capabilities of an employee with long Covid —
+
+such as by shifting them from a physically demanding task to a less

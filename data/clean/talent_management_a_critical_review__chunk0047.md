@@ -1,7 +1,9 @@
-# Strategy Implications for Talent
+---
+source_path: talent_management_a_critical_review.md
+pages: n/a-n/a
+chunk_id: 58f20eb4c2565c2ce8d461af77978110c0402ff9
+title: talent_management_a_critical_review
+---
+## Strategy Sustainable Competitive Advantage
 
-Where will improvements in talent quality drive strategic gains? Where will improvements in talent fungibility drive strategic gains?
-
-How do we position various talent pools? (cid:129) What combination of performers (A vs.
-
-B vs. C) do we need?
+What market opportunities exist? Which organizational resources yield advantage?

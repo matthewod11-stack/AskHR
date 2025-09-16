@@ -1,15 +1,37 @@
-# today.
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b10ace0454bae752a557552f53e3deede899e977
+title: H07STF-PDF-ENG
+---
+# less?
 
-ADI IGNATIUS:
+HERMINIA IBARRA:
 
-I want to build on that with a question that’s come in from Hassam
+The general surveys show a lot of dissatisfaction. That comes and goes,
 
-in Rotterdam. How do you envision the evolution of the “employee
+there’s periods of that and there’s sectors. It’s important to think that a
 
-experience” in a world increasingly dominated by hybrid work models?
+job is not monolithic. I love my job, it ticks all my boxes too, but there’s
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+parts of my job I really don’t like, that feel like grunt work. There’s parts
 
-7
+I love, and every job is like that. It is a matter of proportion. It’s by and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+large, are you mostly doing the things that you ﬁnd fulﬁlling?
+
+There are lots of people out there who are not satisﬁed. They may have
+
+been, but over time, either they have changed or their organization
+
+has changed, or the people with whom they work have changed, and
+
+they’re no longer happy about those elements. They don’t feel as
+
+challenged. They don’t like and respect the people they work with. They
+
+don’t align with the organization’s mission. All of those things create a
+
+dissatisfaction. And my sense, from talking to my students, from doing
+
+my research, is that there’s a lot of people who are dissatisﬁed out there

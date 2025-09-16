@@ -1,23 +1,11 @@
-# Fence and control AI involvement
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19c654c00bdf58bd003457d91c1eb35639b20814
+title: H08PTL-PDF-ENG
+---
+## controversial public issue, such as racial justice and climate policy.
 
-With those power-conduit tasks in mind, establish clear policies for
+Negotiating with worker unions requires overcoming skepticism while
 
-where AI can be used and where human oversight must be maintained,
-
-ensuring AI supports rather than replaces strategic decision-making.
-
-“Fencing” a task means setting boundaries on AI’s role in executing
-
-it. This doesn’t mean rejecting AI outright but rather deﬁning clear
-
-conditions under which AI may assist while preserving human
-
-oversight. For example, AI may suggest agenda structures, but the ﬁnal
-
-decision should rest with the board chair. Similarly, AI may generate
-
-discussion summaries, but the chair should review and reﬁne them
-
-to ensure alignment with strategic objectives. By fencing AI’s role,
-
-organizations can ensure that automation enhances rather than erodes
+strategically using trust, bargaining, and informal power dynamics.

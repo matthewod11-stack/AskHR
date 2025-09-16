@@ -1,13 +1,15 @@
-# each other? (The Fear-Based quadrant.)
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e0c77ef87b2341ab25afe2ae4e9f64426e35e11
+title: H08VZI-PDF-ENG
+---
+# (The Family quadrant.)
 
-- Do people skillfully do hard things and also engage in the diﬃcult
+- Do people do hard things, such as naming inconvenient truths and
 
-work to discuss issues the team faces? (The Last 8% quadrant.)
+having tough conversations, but not feel as connected to each other as
 
-While it matters what you think, it matters just as much—or more—
+you or they would like? (The Transactional quadrant.)
 
-what your team thinks. At your next meeting, start a conversation about
-
-which quadrant employees think the team is in. To help you have the
-
-discussion, below is an outline you can follow, based on the protocol we
+- Do people avoid doing hard things and also feel disconnected from

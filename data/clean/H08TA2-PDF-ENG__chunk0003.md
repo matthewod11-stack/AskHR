@@ -1,31 +1,27 @@
-# HBR / Digital Article / Why Senior Leaders Should Stop Having So Many One-on-Ones
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a0028af5cbc66e0424cc45cce2ef097eb38ba189
+title: H08TA2-PDF-ENG
+---
+# divinetechygirl/Pexels
 
-For example, the VP of engineering learned about a deprioritized
+A client of mine, Melissa, the CEO of a tech company in the healthcare
 
-product feature from the VP of marketing. The VP of quality learned
+sector, vented to me about a conversation she’d had with her CHRO,
 
-about a new project to accelerate product delivery from the VP of
+Ben. He came to her and said, “I’m hearing frustrations on the team
 
-operations. The VP of sales learned about a new budget shift from the
+about how decisions are getting made.” Having prided herself on being
 
-CFO.
+a transparent, inclusive leader (which she is), she was perplexed. Ben
 
-Melissa explained to me that, indeed, based on new information that
+went on to share several stories of team members who’d learned about
 
-each of those executives had brought in their 1:1s, she supported their
+critical decisions that aﬀected them from their peers, not from Melissa.
 
-recommended decisions, and assumed they would loop in the requisite
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-peers rather than waiting for the next monthly executive meeting. In
+1
 
-her mind, she was empowering her team to accelerate needed decisions
-
-rather than being the bottleneck or playing messenger to the other VPs, thus slowing things down. Clearly her focus on eﬃciency blinded her
-
-to the disunity and conﬂict it might provoke on the team. In each case,
-
-she’d only gotten part of the story.
-
-I gave her the advice I’ve given countless CEOs and C-suite leaders: Stop
-
-having so many 1:1 meetings.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

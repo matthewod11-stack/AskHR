@@ -1,7 +1,7 @@
-# Long-term career goals
-
-- A) I want a career that aligns with my personal values, passions, and
-
-desired lifestyle, even if success takes longer.
-
-- B) My primary goal is to maximize my income and climb the corporate
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d1cd39049ad010ecb0d59b68207ee0ced091553
+title: H08N2T-PDF-ENG
+---
+# and clear growth prospects.

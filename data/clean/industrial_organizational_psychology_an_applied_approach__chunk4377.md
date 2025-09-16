@@ -1,13 +1,19 @@
-# wrong. New York: Morrow.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 59f6ce2d7c57263a4292bb57651716eabbbccb64
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Pelletier, L. G., & Vallerand, R. J. (1996). Supervisors’ beliefs
 
-Peterson, N. G., Mumford, M. D., Borman, W. C., Jeanneret,
+and subordinates’ intrinsic motivation: A behavioral conﬁ rmation analysis. Journal of Personality and Social Psychology, 71(2), 331–340.
 
-P. R., Fleishman, E. A., Levin, K. Y., Campion, M. A., Mayﬁ eld, M. S., Morgeson, F. P., Pearlman, K., Gowing, M. K., Lancaster, A. R., Silver, M. B., & Dye, D. M, (2001). Understanding work using the Occupational Information Network (O*NET): Implications for practice and research. Personnel Psychology, 54(2), 451–492.
+Pereira, G. M., & Osburn, H. G. (2007). Eﬀ ects of participation in
 
-Peterson, S. J., & Luthans, F. (2006). Th e impact of ﬁ nancial and
+decision making on performance and employee attitudes: A quality circles meta-analysis. Journal of Business and Psychology, 22, 145–153.
 
-nonﬁ nancial incentives on business-unit outcomes over time. Journal of Applied Psychology, 91(1), 156–165.
+Peres, S. H., & Garcia, J. R. (1962). Validity and dimensions
 
-Pfau, B., & Kay, I. (2002a). Does 360-degree feedback negatively aﬀ ect company performance? HR Magazine, 47(6), 55–59.
+of descriptive adjectives used in reference letters for engineering applicants. Personnel Psychology, 15, 279–286.
 
-Pfau, B., & Kay, I. (2002b). HR playing the training game and
+Peter, L. J., & Hull, R. (1969). Th e Peter Principle: Why things go

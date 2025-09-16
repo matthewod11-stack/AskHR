@@ -1,19 +1,19 @@
-## about it,” Douglas Pinkham, president of the Public Aﬀairs Council, tells
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ecce7f181941de48692568723cc4f2ccc4b79f9e
+title: H07ZZW-PDF-ENG
+---
+## elevation of core values and employee voice, or an opportunistic way
 
-me. “They want to know: Are you doing something good for the world?
+to galvanize customers and workers — the Overton window has clearly
 
-Am I part of something positive, as opposed to just a money machine?
+shifted.
 
-…The pressures to get involved in social issues are enormous.”
+The professional has become personal. In the classroom, I hear my
 
-That wasn’t always the case. Corporations traditionally expected their
+students say repeatedly that a career should align with one’s values.
 
-leaders to set strategy and incentives and expected their employees to
+They’re not alone. “Employees want to work for a company with
 
-follow. But younger employees in particular want to be able to express
-
-their social identities and personal values at work. As a result, they
-
-increasingly hope — and demand — that enterprises adapt to their
-
-needs and interests, not the reverse. This applies to company stances
+purpose — that has values and sticks to them and isn’t hypocritical

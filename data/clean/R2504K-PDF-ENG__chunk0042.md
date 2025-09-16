@@ -1,29 +1,17 @@
-## without a partner with particular domain expertise, the venture will
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84b9cee784956ea93a78f160172b4e646719f31a
+title: R2504K-PDF-ENG
+---
+# together.
 
-not be able to progress. Sometimes investors will require an unequal
+Equity splits between cofounders can be a tricky part of a prenup
 
-split—say, 49% and 51%—to avoid future stalemates at critical decision
+—especially if one person started the venture and then brought a
 
-points. An online equity calculator can help you come up with some
+cofounder in later. Equity will vary depending on timing, skills, and
 
-numbers, but consider your particular relationship carefully before
+experience. For example, even if you’ve already spent a year building
 
-following what a calculator or your investors tell you to do.
-
-Meet each other’s partners, families, and friends. Not only does
-
-this reveal the broader context of each individual’s character, but it
-
-also helps the important people in your life understand this new
-
-relationship and thus avoid resentment. So when you are up until 2 AM
-
-messaging your cofounder about a pitch or how to deal with a customer
-
-issue, your spouse or partner is likely to be more understanding.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a startup on your own, you may still split ownership 50/50 because

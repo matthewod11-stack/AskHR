@@ -1,11 +1,15 @@
-## Proving an Experience to Be Rare and Signiﬁcant
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc3f86ca782e8b4f7f0a2bd28568de4fc6b9d286
+title: H04FQE-PDF-ENG
+---
+# HBR / Digital Article / How Managers, Coworkers, and HR Pressure Women to Stay Sile…
 
-Victims were often told that their experiences didn’t amount to
+they had to prove that their experience was uncommon and signiﬁcant;
 
-harassment — that they were common and insigniﬁcant — and
+second, they were expected to “trust the system” to resolve their
 
-that if they wanted to ﬁle a formal complaint, they’d need to show
+issues; and third, they faced severe consequences, such as a damaged
 
-otherwise. One assistant professor we talked to, Alaina, explained how
-
-her line manager responded to her complaint about a senior colleague’s
+reputation, when they challenged the system.

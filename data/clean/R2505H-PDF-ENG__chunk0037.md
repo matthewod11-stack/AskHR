@@ -1,13 +1,13 @@
-# traditional PE ﬁrms could.
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c9edc44307c4c43cd98f9d9f113694826588f308
+title: R2505H-PDF-ENG
+---
+# public opinion shift.
 
-Turn ownership over to your employees. That may mean senior leaders
+Selling to private investors, such as a family oﬃce, is also an option.
 
-assume ownership, as typically happens in professional service ﬁrms.
+But one danger to consider is that private investors’ interests may
 
-Or it may be that a broader group, such as all the company’s employees,
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+diverge from the objectives of the founders, just as the interests of more-

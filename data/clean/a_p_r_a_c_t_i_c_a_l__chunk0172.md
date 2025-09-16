@@ -1,3 +1,17 @@
-## handoffs=[technical_support_agent, sales_assistant_agent,(cid:28)
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: bb2004d837372bf3a90e9dd13eeaf887826bffbc
+title: a_p_r_a_c_t_i_c_a_l
+---
+# instructions=
 
-3(cid:0)
+"You act as the first point of contact, assessing customerG
+
+3(cid:5)
+
+queries and directing them promptly to the correct specialized agent."
+
+$
+
+3(cid:3)

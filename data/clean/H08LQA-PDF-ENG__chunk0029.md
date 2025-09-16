@@ -1,17 +1,9 @@
-# on two fronts: ﬁnances and beneﬁts.
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c91e25ef6cb67e241648ef51f94760e36b1e341
+title: H08LQA-PDF-ENG
+---
+# job.
 
-The best possible scenario is giving employees full pay and beneﬁts
-
-during their time oﬀ. That’s what McDonald’s, widely considered to
-
-be the ﬁrst U.S. company to provide a paid sabbatical to its salaried
-
-employees, has done since 1977. If that’s not feasible, partial pay — or
-
-even a stipend — can give leave-takers enough cushion, especially if
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Support. An organization oﬀering sabbaticals should provide support

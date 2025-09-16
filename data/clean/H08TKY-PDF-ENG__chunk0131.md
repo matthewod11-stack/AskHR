@@ -1,19 +1,9 @@
-# recommendation.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 47b8fa59351a2cc9a5000daec2060c814d32a246
+title: H08TKY-PDF-ENG
+---
+## HBR / Digital Article / The Definitive HBR Strategy Glossary
 
-- Input. These people are consulted on the decision and are typically
-
-involved in its implementation.
-
-- Decide. The person with the D is the formal decision-maker. They are
-
-ultimately accountable for the decision, for better or worse, and have
-
-the authority to resolve any impasse in the decision-making process
-
-and to commit the organization to action.
-
-- Perform: Once a decision is made, a person or group of people will be
-
-responsible for executing it.
-
-Go deeper: “Who Has the D?: How Clear Decision Roles Enhance
+- Agree. Individuals in this role have veto power—yes or no—over the

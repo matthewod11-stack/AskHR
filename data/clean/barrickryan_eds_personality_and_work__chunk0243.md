@@ -1,3 +1,11 @@
-## INFLUENCES ON TRAIT-BEHAVIOR RELATIONSHIPS 73
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 64885482e9ae81449a7a73e1ad0129e62b4f2224
+title: barrickryan_eds_personality_and_work
+---
+# Autonomy
 
-Data from 146 managers (Barrick & Mount, 1993) indicated that the predictive validity of two relevant personality predictors, Con- scientiousness and Extraversion, was greater for managers in jobs high in autonomy compared with those in jobs low in autonomy. Lee, Ashford, and Bobko (1990) also found that the degree of au- tonomy a person has in his or her job moderated the relationships between Type A behavior and job performance, job satisfaction, and somatic complaints for employees from a variety of organiza- tions. Based on these ﬁndings, we believe the degree of autonomy in the situation moderates the effects of all relevant personality pre- dictors on performance.
+In addition to cooperative and competitive demands, the level of autonomy in the situation is likely to have a fundamental impact on the relationship between personality traits and performance. The nature of this effect is quite different from that attributed to the inﬂuence of cooperative or competitive social demands at work, however. In this case, autonomy relates to the extent to which the external environment constrains a person’s freedom to behave in idiosyncratic ways (Barrick & Mount, 1993; Liu & Weiss, 2000). In strong situations, the organization exerts considerable pressure or demands to induce conformity. These controlling forces press the individual to behave in a speciﬁc way or exhibit a very narrow range of behaviors. In contrast, weak situations pre- sent few demands or presses to conform. In such settings, the in- dividual determines which behaviors, if any, to undertake. The magnitude of the relationship between personality traits and be- havior is thus greater in weak situations, or settings where people can perform their jobs in idiosyncratic ways.
+
+A few studies demonstrate that personality is more useful in predicting behavior when autonomy is high than when it is low.

@@ -1,31 +1,13 @@
-## HBR / Digital Article / How to Manage an Employee Who Always Makes Excuses
+---
+source_path: H07PSQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5581e5059cac65d006191dbb1a79c94d425f1b4
+title: H07PSQ-PDF-ENG
+---
+# process.
 
-Let’s consider why an employee might fail. This will provide clues about
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-where a more robust process could remove excuses. First, they might
+1
 
-have no idea what you’re expecting of them or what doing a good
-
-job requires. That’s an alignment issue. Second, they might lack the
-
-knowledge or skills to accomplish the task — a competence problem.
-
-Finally, they might lack the motivation to get over the line (or out of the
-
-gate). To be successful, an employee needs to understand what to do,
-
-know how to do it, and want to do it.
-
-If an employee repeatedly fails, one or more of those foundational
-
-pillars are missing. Your job is to create a process that acts as a
-
-performance scaﬀold to strengthen their alignment, capability, and
-
-motivation. This process should support the person from the moment
-
-you assign the task until the moment they deliver it. It should also
-
-negate their standard excuses. But of course, exactly which planks you
-
-need in that scaﬀold depends on the person’s speciﬁc shortcomings.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

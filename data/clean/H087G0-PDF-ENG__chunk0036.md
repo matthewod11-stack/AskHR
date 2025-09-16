@@ -1,13 +1,9 @@
-# reaction to the delayed disclosure
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fdd0bc586ec205356f53cda4014374656b6a137
+title: H087G0-PDF-ENG
+---
+## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
 
-After a problem arises, when new job requirements are introduced, or when your need for accommodations becomes clear:
-
-- Pros: Gives you an opportunity to prove your capabilities before
-
-disclosing
-
-- Cons: Potentially harms your health due to working without needed
-
-accommodations; employer potentially has a negative reaction to the
-
-delayed disclosure
+without needed accommodations; employer potentially has a negative

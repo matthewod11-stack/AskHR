@@ -1,117 +1,59 @@
-# position, current wage, co-workers, promotional possibilities, and supervisors. Example
+---
+source_path: university_of_dallas_dissertation_template.md
+pages: n/a-n/a
+chunk_id: 4d09fb68061ddd2e50ae06c1c24746186a984a5e
+title: university_of_dallas_dissertation_template
+---
+## over 4,000 assessments (Sedlak, 2020). (cid:32)
 
-questions include: “How satisfied are you with the nature of the work you perform,”
-
-“How satisfied are you with the person who supervises you-your organizational
-
-superior,” and “How satisfied are you with the opportunities which exist in this
-
-organization for advancement or promotion.” Job satisfaction is scored using a 5-point
-
-Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree). The higher the
-
-score, the higher the job satisfaction. Cronbach’s alpha coefficient of job satisfaction was
-
-0.906, which is suitable for testing employees.(cid:32)
-
-(cid:51)(cid:46)(cid:54)(cid:46)(cid:53)(cid:32)(cid:69)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:69)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:32)
-
-Employee engagement was measured using 4 items for each subscale, which
-
-included emotional, cognitive, and behavioral engagement, and the instrument yielded a
-
-higher-order factor supported by the three lower-order factors (Shuck et al., 2017).
-
-Building on the work of W. A. Kahn (1990), (cid:119)(cid:104)(cid:111)(cid:32)(cid:100)(cid:101)(cid:115)(cid:99)(cid:114)(cid:105)(cid:98)(cid:101)(cid:100)(cid:32)(cid:119)(cid:111)(cid:114)(cid:107)(cid:112)(cid:108)(cid:97)(cid:99)(cid:101)(cid:32)(cid:101)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:32)(cid:97)(cid:115)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)
-
-(cid:34)(cid:104)(cid:97)(cid:114)(cid:110)(cid:101)(cid:115)(cid:115)(cid:105)(cid:110)(cid:103)(cid:32)(cid:111)(cid:102)(cid:32)(cid:111)(cid:114)(cid:103)(cid:97)(cid:110)(cid:105)(cid:122)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:109)(cid:101)(cid:109)(cid:98)(cid:101)(cid:114)(cid:115)(cid:32)(cid:115)(cid:101)(cid:108)(cid:118)(cid:101)(cid:115)(cid:32)(cid:116)(cid:111)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:119)(cid:111)(cid:114)(cid:107)(cid:32)(cid:114)(cid:111)(cid:108)(cid:101)(cid:115)(cid:58)(cid:32)(cid:105)(cid:110)(cid:32)(cid:101)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:44)(cid:32)(cid:112)(cid:101)(cid:111)(cid:112)(cid:108)(cid:101)(cid:32)
-
-(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:101)(cid:120)(cid:112)(cid:114)(cid:101)(cid:115)(cid:115)(cid:32)(cid:116)(cid:104)(cid:101)(cid:109)(cid:115)(cid:101)(cid:108)(cid:118)(cid:101)(cid:115)(cid:32)(cid:112)(cid:104)(cid:121)(cid:115)(cid:105)(cid:99)(cid:97)(cid:108)(cid:108)(cid:121)(cid:44)(cid:32)(cid:99)(cid:111)(cid:103)(cid:110)(cid:105)(cid:116)(cid:105)(cid:118)(cid:101)(cid:108)(cid:121)(cid:44)(cid:32)(cid:101)(cid:109)(cid:111)(cid:116)(cid:105)(cid:111)(cid:110)(cid:97)(cid:108)(cid:108)(cid:121)(cid:44)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:109)(cid:101)(cid:110)(cid:116)(cid:97)(cid:108)(cid:108)(cid:121)(cid:32)(cid:100)(cid:117)(cid:114)(cid:105)(cid:110)(cid:103)(cid:32)
-
-role performances” (p. 694). To put it differently, engagement employees put a lot of
-
-(cid:101)(cid:102)(cid:102)(cid:111)(cid:114)(cid:116)(cid:32)(cid:105)(cid:110)(cid:116)(cid:111)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:119)(cid:111)(cid:114)(cid:107)(cid:32)(cid:98)(cid:101)(cid:99)(cid:97)(cid:117)(cid:115)(cid:101)(cid:32)(cid:116)(cid:104)(cid:101)(cid:121)(cid:32)(cid:99)(cid:97)(cid:110)(cid:32)(cid:114)(cid:101)(cid:108)(cid:97)(cid:116)(cid:101)(cid:32)(cid:116)(cid:111)(cid:32)(cid:105)(cid:116)(cid:46)(cid:32)(cid:69)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:100)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:115)(cid:32)(cid:97)(cid:114)(cid:101)(cid:32)(cid:116)(cid:104)(cid:111)(cid:117)(cid:103)(cid:104)(cid:116)(cid:32)(cid:116)(cid:111)(cid:32)
-
-(cid:98)(cid:114)(cid:105)(cid:110)(cid:103)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:119)(cid:104)(cid:111)(cid:108)(cid:101)(cid:32)(cid:115)(cid:101)(cid:108)(cid:118)(cid:101)(cid:115)(cid:32)(cid:116)(cid:111)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:106)(cid:111)(cid:98)(cid:115)(cid:32)(cid:98)(cid:101)(cid:99)(cid:97)(cid:117)(cid:115)(cid:101)(cid:32)(cid:116)(cid:104)(cid:101)(cid:121)(cid:32)(cid:97)(cid:114)(cid:101)(cid:32)(cid:99)(cid:111)(cid:103)(cid:110)(cid:105)(cid:116)(cid:105)(cid:118)(cid:101)(cid:108)(cid:121)(cid:32)(cid:97)(cid:116)(cid:116)(cid:101)(cid:110)(cid:116)(cid:105)(cid:118)(cid:101)(cid:44)(cid:32)(cid:112)(cid:104)(cid:121)(cid:115)(cid:105)(cid:99)(cid:97)(cid:108)(cid:108)(cid:121)(cid:32)
-
-(cid:97)(cid:99)(cid:116)(cid:105)(cid:118)(cid:101)(cid:32)(cid:119)(cid:111)(cid:114)(cid:107)(cid:101)(cid:114)(cid:115)(cid:32)(cid:97)(cid:114)(cid:101)(cid:32)(cid:109)(cid:111)(cid:114)(cid:101)(cid:32)(cid:108)(cid:105)(cid:107)(cid:101)(cid:108)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)(cid:103)(cid:105)(cid:118)(cid:101)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:97)(cid:108)(cid:108)(cid:32)(cid:116)(cid:111)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:106)(cid:111)(cid:98)(cid:115)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:97)(cid:114)(cid:101)(cid:32)(cid:101)(cid:109)(cid:111)(cid:116)(cid:105)(cid:111)(cid:110)(cid:97)(cid:108)(cid:108)(cid:121)(cid:32)(cid:105)(cid:110)(cid:118)(cid:101)(cid:115)(cid:116)(cid:101)(cid:100)(cid:32)
-
-(cid:105)(cid:110)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:119)(cid:111)(cid:114)(cid:107)(cid:112)(cid:108)(cid:97)(cid:99)(cid:101)(cid:115)(cid:32)(cid:40)(cid:87)(cid:46)(cid:32)(cid:65)(cid:46)(cid:32)(cid:75)(cid:97)(cid:104)(cid:110)(cid:44)(cid:32)(cid:49)(cid:57)(cid:57)(cid:48)(cid:59)(cid:32)(cid:82)(cid:105)(cid:99)(cid:104)(cid:32)(cid:101)(cid:116)(cid:32)(cid:97)(cid:108)(cid:46)(cid:44)(cid:32)(cid:50)(cid:48)(cid:49)(cid:48)(cid:41)(cid:46)(cid:32)(cid:32)
-
-3.6.5.1 Emotional. Emotion is a subscale of employee engagement using a 4-item
-
-scale. The four items appropriate for this study were adapted from Shuck et al. (2017)
-
-(cid:56)(cid:49)(cid:32)
+(cid:55)(cid:57)(cid:32)
 
 (cid:32)
 
-and rated on a five-point Likert-type scale ranging from 1 (strongly disagree) to 5
+(cid:51)(cid:46)(cid:54)(cid:46)(cid:51)(cid:32)(cid:80)(cid:87)(cid:79)(cid:77)(cid:32)
 
-(strongly agree). The emotional engagement (EE) scale asks respondents to indicate how
+(cid:80)(cid:87)(cid:79)(cid:77)(cid:32)(cid:105)(cid:115)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:112)(cid:114)(cid:111)(cid:99)(cid:101)(cid:115)(cid:115)(cid:32)(cid:111)(cid:102)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:115)(cid:32)(cid:99)(cid:111)(cid:109)(cid:109)(cid:117)(cid:110)(cid:105)(cid:99)(cid:97)(cid:116)(cid:105)(cid:110)(cid:103)(cid:32)(cid:105)(cid:110)(cid:102)(cid:111)(cid:114)(cid:109)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:111)(cid:112)(cid:105)(cid:110)(cid:105)(cid:111)(cid:110)(cid:115)(cid:32)
 
-much they agree with statements such as “Working at my current organization has a great
+(cid:97)(cid:98)(cid:111)(cid:117)(cid:116)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:111)(cid:114)(cid:103)(cid:97)(cid:110)(cid:105)(cid:122)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:119)(cid:105)(cid:116)(cid:104)(cid:105)(cid:110)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:111)(cid:117)(cid:116)(cid:115)(cid:105)(cid:100)(cid:101)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:115)(cid:111)(cid:99)(cid:105)(cid:97)(cid:108)(cid:32)(cid:110)(cid:101)(cid:116)(cid:119)(cid:111)(cid:114)(cid:107)(cid:115)(cid:32)(cid:40)(cid:75)(cid:101)(cid:101)(cid:108)(cid:105)(cid:110)(cid:103)(cid:32)(cid:101)(cid:116)(cid:32)(cid:97)(cid:108)(cid:46)(cid:44)(cid:32)(cid:50)(cid:48)(cid:49)(cid:51)(cid:44)(cid:32)(cid:112)(cid:46)(cid:32)
 
-deal of personal meaning to me.” The coefficient alpha value for this study was 0.914.(cid:32)
+(cid:56)(cid:57)(cid:41)(cid:46)(cid:32)(cid:84)(cid:104)(cid:101)(cid:32)(cid:80)(cid:87)(cid:79)(cid:77)(cid:32)(cid:115)(cid:99)(cid:97)(cid:108)(cid:101)(cid:32)(cid:119)(cid:97)(cid:115)(cid:32)(cid:109)(cid:101)(cid:97)(cid:115)(cid:117)(cid:114)(cid:101)(cid:100)(cid:32)(cid:117)(cid:115)(cid:105)(cid:110)(cid:103)(cid:32)(cid:115)(cid:105)(cid:120)(cid:32)(cid:105)(cid:116)(cid:101)(cid:109)(cid:115)(cid:32)(cid:100)(cid:101)(cid:118)(cid:101)(cid:108)(cid:111)(cid:112)(cid:101)(cid:100)(cid:32)(cid:98)(cid:121)(cid:32)(cid:71)(cid:111)(cid:121)(cid:101)(cid:116)(cid:116)(cid:101)(cid:32)(cid:101)(cid:116)(cid:32)(cid:97)(cid:108)(cid:46)(cid:32)(cid:40)(cid:50)(cid:48)(cid:49)(cid:48)(cid:41)(cid:44)(cid:32)
 
-3.6.5.2 Cognitive. Cognitive is a subscale of employee engagement using a 4-
+(cid:97)(cid:110)(cid:100)(cid:32)(cid:105)(cid:110)(cid:32)(cid:116)(cid:104)(cid:105)(cid:115)(cid:32)(cid:115)(cid:116)(cid:117)(cid:100)(cid:121)(cid:44)(cid:32)(cid:80)(cid:87)(cid:79)(cid:77)(cid:32)(cid:114)(cid:101)(cid:102)(cid:101)(cid:114)(cid:115)(cid:32)(cid:116)(cid:111)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:108)(cid:105)(cid:107)(cid:101)(cid:108)(cid:105)(cid:104)(cid:111)(cid:111)(cid:100)(cid:32)(cid:116)(cid:104)(cid:97)(cid:116)(cid:32)(cid:114)(cid:101)(cid:115)(cid:112)(cid:111)(cid:110)(cid:100)(cid:101)(cid:110)(cid:116)(cid:115)(cid:32)(cid:119)(cid:105)(cid:108)(cid:108)(cid:32)(cid:114)(cid:101)(cid:99)(cid:111)(cid:109)(cid:109)(cid:101)(cid:110)(cid:100)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)
 
-item scale. The four items appropriate for this study were adapted from Shuck et al.
+(cid:99)(cid:111)(cid:109)(cid:112)(cid:97)(cid:110)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)(cid:111)(cid:116)(cid:104)(cid:101)(cid:114)(cid:32)(cid:112)(cid:101)(cid:111)(cid:112)(cid:108)(cid:101)(cid:46)(cid:32)(cid:84)(cid:104)(cid:101)(cid:32)(cid:71)(cid:111)(cid:121)(cid:101)(cid:116)(cid:116)(cid:101)(cid:32)(cid:101)(cid:116)(cid:32)(cid:97)(cid:108)(cid:46)(cid:32)(cid:40)(cid:50)(cid:48)(cid:49)(cid:48)(cid:41)(cid:32)(cid:115)(cid:99)(cid:97)(cid:108)(cid:101)(cid:32)(cid:119)(cid:97)(cid:115)(cid:32)(cid:105)(cid:110)(cid:105)(cid:116)(cid:105)(cid:97)(cid:108)(cid:108)(cid:121)(cid:32)(cid:100)(cid:101)(cid:118)(cid:101)(cid:108)(cid:111)(cid:112)(cid:101)(cid:100)(cid:32)(cid:102)(cid:111)(cid:114)(cid:32)
 
-(2017) and rated on a five-point Likert-type scale, ranging from 1 (strongly disagree) to 5
+(cid:99)(cid:111)(cid:110)(cid:115)(cid:117)(cid:109)(cid:101)(cid:114)(cid:115)(cid:39)(cid:32)(cid:105)(cid:110)(cid:102)(cid:111)(cid:114)(cid:109)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:115)(cid:104)(cid:97)(cid:114)(cid:105)(cid:110)(cid:103)(cid:32)(cid:114)(cid:101)(cid:108)(cid:97)(cid:116)(cid:101)(cid:100)(cid:32)(cid:116)(cid:111)(cid:32)(cid:112)(cid:114)(cid:111)(cid:100)(cid:117)(cid:99)(cid:116)(cid:115)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:115)(cid:101)(cid:114)(cid:118)(cid:105)(cid:99)(cid:101)(cid:115)(cid:32)(cid:116)(cid:104)(cid:114)(cid:111)(cid:117)(cid:103)(cid:104)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:105)(cid:110)(cid:116)(cid:101)(cid:114)(cid:110)(cid:101)(cid:116)(cid:44)(cid:32)
 
-(strongly agree). The cognitive engagement (CE) scale asks respondents to indicate how
+(cid:115)(cid:111)(cid:99)(cid:105)(cid:97)(cid:108)(cid:32)(cid:109)(cid:101)(cid:100)(cid:105)(cid:97)(cid:44)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:109)(cid:111)(cid:98)(cid:105)(cid:108)(cid:101)(cid:32)(cid:99)(cid:111)(cid:109)(cid:109)(cid:117)(cid:110)(cid:105)(cid:99)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:119)(cid:97)(cid:115)(cid:32)(cid:109)(cid:111)(cid:100)(cid:105)(cid:102)(cid:105)(cid:101)(cid:100)(cid:32)(cid:115)(cid:108)(cid:105)(cid:103)(cid:104)(cid:116)(cid:108)(cid:121)(cid:32)(cid:102)(cid:111)(cid:114)(cid:32)(cid:116)(cid:104)(cid:105)(cid:115)(cid:32)(cid:115)(cid:116)(cid:117)(cid:100)(cid:121)(cid:32)(cid:111)(cid:102)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)
 
-much they agree with statements such as “I give my job responsibility a lot of attention.”
+organization context. To apply to organizational studies, “this” was changed to “my
 
-The coefficient alpha value for this study was 0.933.(cid:32)
+company.” Job satisfaction asks respondents to express how they personally feel about
 
-(cid:51)(cid:46)(cid:54)(cid:46)(cid:53)(cid:46)(cid:51)(cid:32)(cid:66)(cid:101)(cid:104)(cid:97)(cid:118)(cid:105)(cid:111)(cid:114)(cid:97)(cid:108). (cid:66)(cid:101)(cid:104)(cid:97)(cid:118)(cid:105)(cid:111)(cid:114)(cid:97)(cid:108)(cid:32)(cid:101)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:32)(cid:105)(cid:115)(cid:32)(cid:97)(cid:32)(cid:115)(cid:117)(cid:98)(cid:115)(cid:99)(cid:97)(cid:108)(cid:101)(cid:32)(cid:111)(cid:102)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:101)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:32)
+(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:106)(cid:111)bs by indicating their agreement with phrases such as “I mostly say positive things
 
-(cid:117)(cid:115)(cid:105)(cid:110)(cid:103)(cid:32)(cid:97)(cid:32)(cid:52)(cid:45)(cid:105)(cid:116)(cid:101)(cid:109)(cid:32)(cid:115)(cid:99)(cid:97)(cid:108)(cid:101)(cid:46)(cid:32)(cid:84)(cid:104)(cid:101)(cid:32)(cid:102)(cid:111)(cid:117)(cid:114)(cid:32)(cid:105)(cid:116)(cid:101)(cid:109)(cid:115)(cid:32)(cid:97)(cid:112)(cid:112)(cid:114)(cid:111)(cid:112)(cid:114)(cid:105)(cid:97)(cid:116)(cid:101)(cid:32)(cid:102)(cid:111)(cid:114)(cid:32)(cid:116)(cid:104)(cid:105)(cid:115)(cid:32)(cid:115)(cid:116)(cid:117)(cid:100)(cid:121)(cid:32)(cid:119)(cid:101)(cid:114)(cid:101)(cid:32)(cid:97)(cid:100)(cid:97)(cid:112)(cid:116)(cid:101)(cid:100)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:83)(cid:104)(cid:117)(cid:99)(cid:107)(cid:32)(cid:101)(cid:116)(cid:32)
+about my company to other people” and “I am proud to say to others that I am an
 
-(cid:97)(cid:108)(cid:46)(cid:32)(cid:40)(cid:50)(cid:48)(cid:49)(cid:55)(cid:41)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:114)(cid:97)(cid:116)(cid:101)(cid:100)(cid:32)(cid:111)(cid:110)(cid:32)(cid:97)(cid:32)(cid:102)(cid:105)(cid:118)(cid:101)(cid:45)(cid:112)(cid:111)(cid:105)(cid:110)(cid:116)(cid:32)(cid:76)(cid:105)(cid:107)(cid:101)(cid:114)(cid:116)(cid:45)(cid:116)(cid:121)(cid:112)(cid:101)(cid:32)(cid:115)(cid:99)(cid:97)(cid:108)(cid:101)(cid:32)(cid:114)(cid:97)(cid:110)(cid:103)(cid:105)(cid:110)(cid:103)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)1 (strongly disagree) to
+employee of this company.” According to Goyette et al. (2010), PWOM measurement
 
-5 (strongly agree). The b(cid:101)(cid:104)(cid:97)(cid:118)(cid:105)(cid:111)(cid:114)(cid:97)(cid:108)(cid:32)(cid:101)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116) scale asks respondents to indicate how
+(cid:105)(cid:110)(cid:99)(cid:108)(cid:117)(cid:100)(cid:101)(cid:115)(cid:32)(cid:114)(cid:101)(cid:99)(cid:111)(cid:109)(cid:109)(cid:101)(cid:110)(cid:100)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:115)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:111)(cid:116)(cid:104)(cid:101)(cid:114)(cid:115)(cid:46)(cid:32)(cid:84)(cid:104)(cid:101)(cid:32)(cid:115)(cid:105)(cid:120)(cid:32)(cid:105)(cid:116)(cid:101)(cid:109)(cid:115)(cid:32)(cid:119)(cid:101)(cid:114)(cid:101)(cid:32)(cid:109)(cid:101)(cid:97)(cid:115)(cid:117)(cid:114)(cid:101)(cid:100)(cid:32)(cid:111)(cid:110)(cid:32)(cid:97)(cid:32)5-point Likert
 
-much they agree with statements such as “I am willing to put in extra effort without being
+scale (cid:114)(cid:97)(cid:110)(cid:103)(cid:105)(cid:110)(cid:103)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)1 (strongly disagree) to 5 (strongly agree)(cid:44)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:105)(cid:116)(cid:101)(cid:109)(cid:32)(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:115)(cid:32)(cid:119)(cid:101)(cid:114)(cid:101)(cid:32)
 
-asked.” (cid:84)(cid:104)(cid:101)(cid:32)(cid:99)(cid:111)(cid:101)(cid:102)(cid:102)(cid:105)(cid:99)(cid:105)(cid:101)(cid:110)(cid:116)(cid:32)(cid:97)(cid:108)(cid:112)(cid:104)(cid:97)(cid:32)(cid:118)(cid:97)(cid:108)(cid:117)(cid:101)(cid:32)(cid:102)(cid:111)(cid:114)(cid:32)(cid:116)(cid:104)(cid:105)(cid:115)(cid:32)(cid:115)(cid:116)(cid:117)(cid:100)(cid:121)(cid:32)(cid:119)(cid:97)(cid:115)(cid:32)(cid:48)(cid:46)(cid:56)(cid:57)(cid:52)(cid:46)(cid:32)
+(cid:115)(cid:117)(cid:109)(cid:109)(cid:101)(cid:100)(cid:32)(cid:116)(cid:111)(cid:32)(cid:102)(cid:111)(cid:114)(cid:109)(cid:32)(cid:97)(cid:110)(cid:32)(cid:111)(cid:118)(cid:101)(cid:114)(cid:97)(cid:108)(cid:108)(cid:32)(cid:80)(cid:87)(cid:79)(cid:77)(cid:32)(cid:109)(cid:101)(cid:97)(cid:115)(cid:117)(cid:114)(cid:101)(cid:32)(cid:111)(cid:102)(cid:32)(cid:48)(cid:46)(cid:57)(cid:50)(cid:55)(cid:46)(cid:32)
 
-(cid:51)(cid:46)(cid:54)(cid:46)(cid:54)(cid:32)(cid:77)(cid:97)(cid:110)(cid:97)(cid:103)(cid:101)(cid:114)(cid:105)(cid:97)(cid:108)(cid:32)(cid:84)(cid:114)(cid:117)(cid:115)(cid:116)(cid:119)(cid:111)(cid:114)(cid:116)(cid:104)(cid:105)(cid:110)(cid:101)(cid:115)(cid:115)(cid:32)
+(cid:51)(cid:46)(cid:54)(cid:46)(cid:52)(cid:32)(cid:74)(cid:111)(cid:98)(cid:32)(cid:83)(cid:97)(cid:116)(cid:105)(cid:115)(cid:102)(cid:97)(cid:99)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)
 
-Managerial trustworthy behavior is actions and interactions performed voluntarily
+Job satisfaction reflected overall satisfaction rather than specific aspects of the job
 
-by managers who (cid:100)(cid:101)(cid:109)(cid:111)(cid:110)(cid:115)(cid:116)(cid:114)(cid:97)(cid:116)(cid:101)(cid:32)(cid:101)(cid:109)(cid:112)(cid:97)(cid:116)(cid:104)(cid:121)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:97)(cid:99)(cid:116)(cid:105)(cid:118)(cid:101)(cid:108)(cid:121)(cid:32)(cid:108)(cid:105)(cid:115)(cid:116)(cid:101)(cid:110)(cid:32)(cid:116)(cid:111)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:115)(cid:39)(cid:32)(cid:99)(cid:111)(cid:110)(cid:99)(cid:101)(cid:114)(cid:110)(cid:115)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)
+situation and applied to various jobs (Homburg & Stock, 2005; Schriesheim & Tsui,
 
-(cid:102)(cid:101)(cid:101)(cid:100)(cid:98)(cid:97)(cid:99)(cid:107)(cid:32)(cid:116)(cid:111)(cid:32)(cid:102)(cid:111)(cid:115)(cid:116)(cid:101)(cid:114)(cid:32)(cid:116)(cid:114)(cid:117)(cid:115)(cid:116)(cid:32)(cid:119)(cid:105)(cid:116)(cid:104)(cid:105)(cid:110)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:111)(cid:114)(cid:103)(cid:97)(cid:110)(cid:105)(cid:122)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(Whitener et al., 1998). In this study,
+1980). The measurement of job satisfaction has been conducted using a six-item scale
 
-managerial trustworthy behavior was based on participants' perceptions of their
+derived from Schriesheim and Tsui's work (1980). This scale assesses the level of
 
-managers’ behavior (Krosgaard et al., 2002). A 5-item scale was developed by K. Yang (cid:56)(cid:50)(cid:32)
+employee satisfaction in many aspects of their employment, including their present
 
-(cid:32)
-
-and Kassekert (2010). Example questions include: “Overall, how good a job do you feel
-
-is being done by your immediate supervisor/team leader?” “In my organization, leaders
-
-generate high levels of motivation and commitment in the workforce.” and “My
-
-organization’s leaders maintain high standards of honesty and integrity.” (cid:80)(cid:97)(cid:114)(cid:116)(cid:105)(cid:99)(cid:105)(cid:112)(cid:97)(cid:110)(cid:116)(cid:115)(cid:32)
-
-(cid:119)(cid:101)(cid:114)(cid:101)(cid:32)(cid:97)(cid:115)(cid:107)(cid:101)(cid:100)(cid:32)(cid:116)(cid:111)(cid:32)(cid:114)(cid:97)(cid:116)(cid:101)(cid:32)(cid:101)(cid:97)(cid:99)(cid:104)(cid:32)(cid:105)(cid:116)(cid:101)(cid:109)(cid:32)(cid:111)(cid:110)(cid:32)(cid:97)(cid:32)5-point Likert scale (cid:114)(cid:97)(cid:110)(cid:103)(cid:105)(cid:110)(cid:103)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)1 (strongly disagree)
-
-to 5 (strongly agree). Cronbach Alpha of the scale was (cid:48)(cid:46)(cid:57)(cid:49)(cid:57)(cid:46)(cid:32)
-
-(cid:32)
-
-(cid:32)
-
-(cid:32)
-
-(cid:32)
-
-(cid:56)(cid:51)(cid:32)
+(cid:56)(cid:48)(cid:32)
 
 (cid:32)

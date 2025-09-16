@@ -1,19 +1,9 @@
-## breakdowns in communication, and limited accountability for results
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56eb7ed2dfe16579d1543f0742864e18c48a2683
+title: H08TKY-PDF-ENG
+---
+# year after year.
 
-all drag down performance.
-
-- Performance bottlenecks are often invisible to top management.
-
-- The persistence of the gap fosters a culture of underperformance.
-
-There are, however, companies that have ﬁgured out how to close
-
-this gap. They do so by: 1) making strategy simple and concrete; 2)
-
-debating assumptions, not forecasts; 3) using a rigorous framework
-
-with a common language; 4) discussing resource deployments early; 5)
-
-clearly identifying priorities; 6) continuously monitoring performance;
-
-and 7) rewarding and developing execution capabilities.
+- Factors such as poorly formulated plans, misapplied resources,

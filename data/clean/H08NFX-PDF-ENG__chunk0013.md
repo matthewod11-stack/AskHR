@@ -1,9 +1,9 @@
-# policies
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9894db76565a958745ab3e6a7a433f1620b19681
+title: H08NFX-PDF-ENG
+---
+## HBR / Digital Article / How to Assess the New Legal Risks of Your DEI Policies
 
-- Removing “culture ﬁt” from hiring and promotion practices
-
-- Widening the pool of applicants by expanding colleges and
-
-geographical areas where you recruit
-
-- Conducting regular audits to identify potential areas of legal risk
+- Standardizing interview questions, promotion criteria, and hiring

@@ -1,35 +1,57 @@
-# HBR / Digital Article / Managers: Compassion and Accountability Aren’t Mutually Exc…
+---
+source_path: H06IPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 649f2282ef34491a0dfcf498574b083682514cdf
+title: H06IPO-PDF-ENG
+---
+## brunt of the trauma and grief over the past year.
 
-what the job requires. You might say, “This is the work you need to get
+Hirsh adds that rather than wondering when you can stop asking people
 
-done. Is that possible?” And then listen to what they think is feasible.
+how they’re doing, you should be thinking, “How can we help you
 
-Taking into account the circumstances, you can then decide together
+manage your life and perform better?” While it doesn’t fall solely on
 
-what makes sense going forward. Don’t feel like you need to tolerate
+you, as their manager, to help a struggling employee to build their
 
-sustained underperformance, though. “If they’re not being productive
+resilience, you can play a role. As Dutton says, “It requires extra
 
-and you’ve made it clear what’s required for the job, and they can’t do
+imagination and diligence to strengthen people.” But it pays dividends
 
-that, then you have a decision to make,” explains Hill. After all, you do
+in terms of performance and commitment when you do.
 
-need someone to do that work.
+One way to motivate your team, especially when they’re under ongoing
 
-Take it to the group
+stress, is to show them the progress they’ve made. “Help people see
 
-One of the best ways to encourage accountability is to do it at the
+how they’ve grown over the past year to sustain positive momentum,”
 
-group level. Rather than pushing individuals, ﬁnd ways to have team
+says Dutton. You might ask people to share whether they’ve honed or
 
-members keep each other accountable. As Hirsh says, “Accountability is
+discovered new skills or abilities during the pandemic (making it clear
 
-a collective goal, and it works best if the team can ﬁnd a way that we
+that it’s OK if they didn’t). You also want to connect them to the purpose
 
-are all achieving.” So sit down as a group and problem solve together.
+behind their work. “Bathe people with the positive impact of their work.
 
-Hill suggests you say something like, “OK, let’s assume these are the
+It’s like a booster shot — physiologically and psychologically,” she says.
 
-conditions we have to work under for another six months. How can we
+Have individual conversations — and plans
 
-best do our work? And how can we improve our work together?”
+This all requires that you talk with your team members one on one so
+
+you understand their unique circumstances. Don’t assume you know
+
+what those are, even if you’ve been in close contact. Things shift. Hill
+
+says, “Make it safe for them to tell you about what’s happening in their
+
+lives and how that’s impacting their work so you can ﬁgure out the best
+
+way to move forward.” At the same time, she suggests you make clear
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

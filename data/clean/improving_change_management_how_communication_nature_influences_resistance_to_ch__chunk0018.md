@@ -1,51 +1,63 @@
-## communications in change processes (Ford and Ford, 1995; Kotter, 1996; Lewis and
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 412be15fafc85cbc096812b102d0c94d961ed066
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# actions and behaviors in general.
 
-Seibold, 1996; Daly, Eague et al., 2003; Elving, 2005), and according to some of them,
+A continuous exchange of messages can allow new meanings to develop, and
 
-communications and organizational change are inextricably linked processes (Lewis,
+these will stem from changes in each individual’s original meanings, which can lead to a
 
-1999). It can be easily found, throughout the literature review, that change is a
+process of meaning convergence that can be understood as the beginning of
 
-communicative challenge (Allen et al 2007), or in another similar view, that change
+communication, the possession of something in common. It is worthwhile to alert, on the
 
-implementation is primarily a communication problem (Lewis and Seibold, 1998). As
+other hand, that a broad provision of initiatives and communication tools do not
 
-Bordia et al (2004: 96) illustrate:“Communication processes are inherently a part of
+necessarily lead to successful change, in terms of intended results. That is, it is not only
 
-these implementation activities”.
+the quantity but mainly the quality, or as Reis (2002) warns, the nature of the
 
-Thus, it is necessary to look deeper into relational and communicational
+communicative mediation implemented that can influence change. Here there is a
 
-processes while recognizing that sensemaking and sensegiving, and consequently
+distinction in the nature of communication strategies. Those whose role or function is
 
-change itself, are not under complete control. As the sensemaking theory of change and
+that of justifying and rationalizing change will make use of traditional communication
 
-the other socially-constructed perspectives suggest, all that is involved in change will
+techniques that are usually used to systematize, disseminate and express information.
 
-also bring about change through their social processes of interaction and the meanings
+In such cases, change is communicated to the staff (Caldwell, 1993) and, even when
 
-they develop as a result (Berger and Luckmann, 1976). Indeed, such a perspective will
+the means and messages are intensified in number and sophistication while various
 
-shed light on some dialectical distinctions, revealing those that would not be the best
+resources are invested, they may not lead to reduced resistance to change due to their
 
-denomination. As for now, change recipients might be better denominated change
+not privileging the building of shared meanings.
 
-participants, due to the active, and not passive, role they play in change (Balogun and
+Conversely, communication strategies whose role or function is to refine and
 
-Johnson, 2004). As discussed further in this literature review, this “redenomination” of
+align change can be more successful at reducing individual resistance to change, as
 
-roles would also be applied to the resistant to change label.
+they allow the meaning attributed to change to be constantly re-elaborated by means of
 
-As an influenced but not controlled process, somehow sensemaking can
+cyclical contributions within the cognitive process of its interlocutors. To put it another
 
-generate disparate senses in comparison to what was expected from change leaders. If
+way, they can produce two-way communicational structures by encouraging learning
 
-sensemaking occurs in the direction expected, or if comes up with an unexpected
+through mistake and dialogic interaction. They incorporate, structurally or within their
 
-response, this is essential information that needs to be monitored by change leaders.
+dynamics, the possibility of participation, of inclusiveness (Reis, 2004.), or even, as
 
-Responsiveness to change, or resistance to change as it has been usually called, has
+Lewis (2007) advocates, they can be better configured as an input focus than as a
 
-also been a deeply studied aspect of organizational change that will be advanced in the
+dissemination focus. Aligned with that, Elving (2005) stated that communication “aims
 
-following section in both conceptual and operational dimensions.
+for the creation of mutual understanding and trusting relationships”.
+
+The connection between communications and organizational change has been
+
+attracting increasing interest from scholars and practitioners during the last decade
+
+(Johansson and Heide, 2008). Several of them have emphasized the important role of

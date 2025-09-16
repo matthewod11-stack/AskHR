@@ -1,15 +1,13 @@
-# HBR / Digital Article / Middle Managers Should Drive Your Business Transformation
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 728a76b4f4142d38094eb9f85aa56d3ed0462d5e
+title: H085EX-PDF-ENG
+---
+# planning.
 
-Today, bioMérieux stands as a uniﬁed company with a singular
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-purpose: “To make the world a healthier place.” Through pioneering
+4
 
-diagnostic solutions, the company aids clinicians in improving patient
-
-care and assists industries in preventing contamination of food and
-
-pharmaceuticals they produce. Since 2019, the enterprise value of
-
-bioMérieux has surged from less than $8 billion to over $13 billion,
-
-signiﬁcantly surpassing the global healthcare sector.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

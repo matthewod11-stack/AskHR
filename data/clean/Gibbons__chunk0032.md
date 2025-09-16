@@ -1,19 +1,25 @@
-### **[The questions that matter now]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: cd74e1f8b181daa1e34f5e97749ae0d530896dc6
+title: Gibbons
+---
+### **[The cultivation imperative]{.underline}**
 
-[The critical questions for CHROs have shifted from operational to
-existential:]{.underline}
+[The shift from HR to human cultivation isn\'t semantic --- it\'s
+fundamental. Cultivation implies growth, patience, and creating
+conditions for flourishing. It recognizes that humans aren\'t resources
+to be optimized but potential to be developed.]{.underline}
 
-[Instead of \"How do we fill roles?\" ask \"What human capabilities will
-matter when AI can do most tasks?\" Instead of \"How do we measure
-performance?\" ask \"How do we recognize uniquely human contributions?\"
-Instead of \"How do we develop leaders?\" ask \"How do we help leaders
-navigate human-AI collaboration?\"]{.underline}
+[In practical terms, this means helping humans discover capabilities
+they didn\'t know they had. When AI handles routine cognitive work, what
+dormant human capacities can emerge? When efficiency is automated, what
+new forms of creativity become possible? When AI provides infinite
+answers, what questions will humans learn to ask?]{.underline}
 
-[Most fundamentally: Are you preparing your organization for a world
-where humans and AI work as colleagues, or are you still treating AI as
-just another tool in the toolkit?]{.underline}
-
-[The CHROs who answer these questions thoughtfully --- who embrace their
-role as cultivators of human potential in a hybrid workforce --- will
-help their organizations navigate this transformation
-successfully.]{.underline}
+[Your role is to create environments where humans can explore these
+questions safely. This requires psychological safety at a new level ---
+not just safety to fail, but safety to fundamentally reimagine one\'s
+professional identity. It requires learning approaches that are
+experimental rather than prescribed. It requires patience with the
+messiness of human transformation.]{.underline}

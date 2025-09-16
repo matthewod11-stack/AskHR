@@ -1,7 +1,7 @@
-## Experiment together with other prompt engineers
-
-If you are in a situation where you have to try to come up with a good prompt, you might
-
-want to (cid:450)nd multiple people to make an a(cid:459)empt. When everyone follows the best practices
-
-(as listed in this chapter) you are going to see a variance in pe(cid:455)ormance between all the
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 5c5dc55321a9c1d8a7020fa2e9abe27c11c99b83
+title: prompt
+---
+# complex applications.

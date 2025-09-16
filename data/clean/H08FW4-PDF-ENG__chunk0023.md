@@ -1,17 +1,23 @@
-## HBR / Digital Article / What the Best Leadership Teams Do Right
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b05286d9b968bba8fa0cdb487282bc85bf69547b
+title: H08FW4-PDF-ENG
+---
+## Culture-shaping executive teams regularly assess the strength of their
 
-One executive team we worked with, whose organization espoused
+cultures, starting with themselves. They invite feedback about their
 
-“innovation and creativity” as a value, deliberately constructed their
+individual and collective leadership. Asking “How could I/we have
 
-dialogues to include “dueling fact bases” and contrarian views. They
+done that better?” becomes their norm. This ensures they sustain the
 
-believed conﬂict was the raw material of innovation and wanted
+competence and commitment needed to embody the values they’ve
 
-to enable the organization to safely invite contrasting views while
+declared.
 
-maintaining positive relationships. Their culture’s history of conﬂict
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-aversion, back-channel gossiping, and collusion would have suﬀocated
+5
 
-any eﬀorts to innovate had they not convincingly introduced new
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

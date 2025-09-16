@@ -1,17 +1,11 @@
-## for professional development—for example, through both programs
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21ec0246a657f3052aa73228f27470e2dc8b41db
+title: H08NFX-PDF-ENG
+---
+## HBR / Digital Article / How to Assess the New Legal Risks of Your DEI Policies
 
-targeted to speciﬁc populations and to all employees through the
+gender-based employee resource groups (ERGs). One possibility is to
 
-company’s learning platforms. Also advisable is to open up ERGs and
-
-similar initiatives to any person who wishes to participate, provided
-
-they support the group’s goals. If handled well, this can enhance program eﬀectiveness.
-
-Internships and fellowships limited to speciﬁc groups based on race
-
-or gender also are easy to reframe. America First Legal sued several
-
-law ﬁrms with fellowship programs but dropped those suits when the
-
-ﬁrms redeﬁned the programs as open to everyone with a demonstrated
+provide programming tailored to a wide range of groups, from introverts to neurodivergent employees. Another is to oﬀer multiple avenues

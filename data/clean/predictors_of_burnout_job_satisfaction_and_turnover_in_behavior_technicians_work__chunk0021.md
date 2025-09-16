@@ -1,1 +1,7 @@
-# Dependent variable(s)
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 832159490a291697963e5cb2ae68491f2492a009
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Methods

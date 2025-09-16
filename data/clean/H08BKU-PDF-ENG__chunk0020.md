@@ -1,15 +1,15 @@
-## Be proactive and creative with recruitment.
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35410fa0b94711fd3ec5702c0dbfe6dbeaf11cd4
+title: H08BKU-PDF-ENG
+---
+## language or international work experience as signals that international
 
-Inclusive recruitment needs to be proactive and innovative. If you
+job candidates are welcome, as well as encouragements for applicants
 
-cast your net in the same pond, you are likely to catch the same
+to apply even if they only meet some of the listed criteria. They could
 
-ﬁsh. Instead, consider widening your outreach to a wider diversity of
+also consider whether local degrees and professional credentials could
 
-groups and pipelines, and think outside the box. For example, using
-
-a variety of platforms to advertise positions can be an easy avenue to
-
-start the inclusive recruitment process. These could include posting
-
-listings on the websites of organizations that advocate for various
+be replaced with demonstrated experience in a given domain.

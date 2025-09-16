@@ -1,29 +1,35 @@
-# approach.
+---
+source_path: H08CWK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a49c7b5e287d46783acde06866501be1bde3355
+title: H08CWK-PDF-ENG
+---
+## Olympians meticulously incorporate suggestions into their training
 
-. . .
+regimens and strive to make tangible changes, setting a high standard
 
-With an Olympian feedback strategy in place, you don’t have to evaluate
+for how to eﬀectively use feedback. This commitment to action is what
 
-each piece of feedback that ﬂoods in. Recognizing the diﬀerence
+often distinguishes elite performers from others.
 
-between critique aimed to tear you down and guidance meant to build
+Most people might acknowledge feedback, recognizing its value and
 
-you up consumes a lot of internal resources.
+even expressing intentions to change. However, they often fall short
 
-So, as we navigate through our lives, let’s apply this Olympian mindset.
+in the consistent implementation of that feedback. This gap between
 
-Let’s be selective about the feedback we internalize and use it as a
+intention and action can stem from various factors, including a lack of a clear plan, insuﬃcient motivation, or the discomfort of changing
 
-tool for personal and professional development. Let’s remember to
+established habits.
 
-separate what we do from who we are, ensuring that while we strive
+To bridge this gap, develop a systematic approach to incorporating
 
-for excellence in our daily lives, we remain grounded in our inherent
+feedback. Outline speciﬁc steps to integrate the feedback into your
 
-worth. This approach doesn’t just prepare us for the next competition or
+routine. Keep a record of your eﬀorts and improvements. Regularly
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+review your progress to see how well you are incorporating the
 
-5
+feedback. Make it a regular part of your routine, rather than a one-time
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+eﬀort. If something isn’t working as expected, be willing to adjust your

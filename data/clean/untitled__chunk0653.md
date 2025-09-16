@@ -1,9 +1,7 @@
-## Behaviorism: The Golden Age of Learning Theory
-
-120
-
-THE MODERN SCIENTIFIC PERIOD 125 The Three Key Ideas of Computing 125 The Fruits of Computation: Cognitive Science Cognitive Psychology Today
-
-131
-
-127
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 446eeb1e019654c95c681116ae47a13a02239552
+title: untitled
+---
+# of Behaviorism 119

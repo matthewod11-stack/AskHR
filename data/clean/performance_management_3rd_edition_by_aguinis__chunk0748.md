@@ -1,1 +1,13 @@
-# BOX 5.2
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 49266591465a1400327a985fdad9ec663a2cb84b
+title: performance_management_3rd_edition_by_aguinis
+---
+## FIGURE 5.2 Example of Relative Percentile Method Scale
+
+higher than 95% of other employees. On the other hand, HR has been placed around the 48th percentile, meaning that about 52% of employees are performing better than him.
+
+A fifth comparison method is called forced distribution. In this type of system, employees are apportioned according to an approximately normal distribution. For example, 20% of employees must be classified as exceeding expectations, 70% must be classified as meeting expectations, and 10% must be classified as not meeting expectations. General Electric (GE) is one organization that has adopted a forced distribution system. Former GE CEO Jack Welch labeled GE’s forced distribution system the “vitality curve.” In his view, forced ranking enables managers to manage low-achieving performers better. GE’s success in implementing a forced ranking system is cited as the model by many of the 20% of U.S. companies that have adopted it in recent years. At GE, each year 10% of managers are assigned the “C” grade, and if they don’t improve they are asked to leave the company.16
+
+What are some of the advantages of using comparative measurement methods? First, these types of measurement procedures are usually easy to explain. Second, deci- sions resulting from these types of systems are fairly straightforward: it is easy to see which employees are where in the distributions. Third, they tend to control several

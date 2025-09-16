@@ -1,5 +1,15 @@
-## Intangible Capital – http://dx.doi.org/10.3926/ic.586
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 35b24f82f0277e9506f56f096d700657d0caec5e
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# 3.2.6. CFA of each construct
 
-0.5. Upon verifying these issues, we can assume that the scales have discriminant validity. The
+To test the discriminant validity, we analysed the existing correlations between the dimensions
 
-results of this analysis are shown in Table 1.
+that measure various factors. We noted that the value of the squared correlation coefficient did
+
+not exceed the variance extracted from the construct and that this variance is greater than
+
+-177-

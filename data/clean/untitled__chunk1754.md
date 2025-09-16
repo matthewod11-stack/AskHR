@@ -1,7 +1,9 @@
-# ing. New York: Guilford Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fd763e2df95766c846a269f7515d83f1670c0d49
+title: untitled
+---
+# Mifﬂin.
 
-Rohde, A. R. (1946). Explorations in personality by the sentence completion method. Journal of Applied Psychology, 30, 169– 181.
-
-Rohde, A. R. (1948). A note regarding the use of the sentence com- pletion test in military installations since the beginning of World War II. Journal of Consulting Psychology, 12, 190–193.
-
-Rorschach, H. (1942). Psychodiagnostics: A diagnostic test based on perception. New York: Grune & Stratton. (Original work pub- lished 1921)
+Rogers, R. (2001). Handbook of diagnostic and structure interview-

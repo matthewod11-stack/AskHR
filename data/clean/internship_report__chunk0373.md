@@ -1,23 +1,17 @@
-## 4.1.4 Yearly Appraisal & Dialogue Session Analysis
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: c19b7e10e3fbc77f96fa8c17d2d8c8048a566108
+title: internship_report
+---
+# ambition) and "lifestyle" (health, pleasure, leisure, family and spiritual development/meditation).
 
-(cid:89)(cid:101)(cid:97)(cid:114)(cid:108)(cid:121)(cid:32)(cid:65)(cid:112)(cid:112)(cid:114)(cid:97)(cid:105)(cid:115)(cid:97)(cid:108)(cid:32)(cid:38)(cid:32)(cid:68)(cid:105)(cid:97)(cid:108)(cid:111)(cid:103)(cid:117)(cid:101)(cid:32)(cid:83)(cid:101)(cid:115)(cid:115)(cid:105)(cid:111)(cid:110)(cid:32)(cid:32)(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)
+If the HR department focused on work-life balance then they will be benefited in many ways
 
-(cid:48)(cid:37)(cid:32)
+such as employees become less susceptible to burnouts, employee will pay more attention where
 
-(cid:48)(cid:37)(cid:32)
+due, employee will experience fewer health problems.
 
-(cid:51)(cid:54)(cid:37)(cid:32)
+HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:52)(cid:54)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
 
-(cid:50)(cid:55)(cid:37)(cid:32)
-
-(cid:51)(cid:54)(cid:37)(cid:32)
-
-(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
-
-(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
-
-(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
-
-(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
-
-(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
+(cid:32) (cid:32) (cid:32) (cid:32)

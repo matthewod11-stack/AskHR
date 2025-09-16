@@ -1,33 +1,31 @@
-# with the brand.
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8c55c2bcdad6bef19e11ed406a405812104a0be
+title: H089ZD-PDF-ENG
+---
+## supports a faster adoption cycle in daily life.
 
-This approach is perhaps most obvious in retail, where Gentle Monster’s
+Abroad, Korean governmental agencies strongly facilitate discovery by
 
-unique strategy is not an isolated case. Consider fast-growing fashion
+pushing products amenable to local tastes and thus more likely to be
 
-brand Ader Error, which opened a pastry shop Tongue Planet next to
+quickly adopted (e.g. transposing Korean food to Indian taste).
 
-their stores to augment the brand’s sensory universe through taste, or
+- 2. They elevate brands through immersive experiences.
 
-cosmetics company Amorepaciﬁc’s move to open an art museum to
+It’s said that the act of cheering wine glasses was introduced to add
 
-boost the brand’s visual identity.
+the only sense that was absent — sound — and help turn it into
 
-Beyond retail, K-brands often look to add sensorial value to the products
+a cultural habit. Similarly, K-brands strategically create sensory value
 
-or services themselves. For instance, Korean webtoons reshaped the
+through immersion to boost customer desire. Indeed, the ability to
 
-comic reading experience by including sound eﬀects as part of their
+become immersive and speak the language of the customer oﬀers two
 
-short stories. Coupled with the possibility to personalize characters
+new competitive advantages: It increases customers’ willingness to pay
 
-(e.g., the potential to create a character resembling the reader),
+through richer brand engagement, and it facilitates brand extension by
 
-webtoons rapidly won over the comic industry by making reading
-
-more sensory, and therefore more immersive. The webtoons market was
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+expanding the range of experiences through which consumers interact

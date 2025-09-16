@@ -1,23 +1,15 @@
-## clearly one-sided, with far greater beneﬁts accruing to them than to you.
+---
+source_path: H08U54-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 537b48fc100839baaab30e5a18ba6137c5749c4a
+title: H08U54-PDF-ENG
+---
+# HBR / Digital Article / 4 Signs That Someone in Your Network Is Taking Advantage of Y…
 
-In these instances, your prospective “collaborator” may primarily seek
+- 3. Lopsided requests to collaborate
 
-to attach their name to yours, hoping there will be a spillover eﬀect and
+Some people like to propose “collaborations”—to coauthor an
 
-that some of your brand repute or network will cascade over to them.
+article, jointly present at a conference, or co-host a workshop, for
 
-It’s important to recognize that true collaborations mean that each
-
-person should bring something unique and valuable to the process, and
-
-that working together will make the end product better than if each
-
-person worked on it separately. You can use a collaboration litmus test
-
-and ask yourself:
-
-- Will I beneﬁt equally from this collaboration?
-
-- Does this align with my strategic direction and goals right now?
-
-- Is the success of the project disproportionately dependent on me (my
+instance. Yet if you dig beneath the surface, sometimes the oﬀer is

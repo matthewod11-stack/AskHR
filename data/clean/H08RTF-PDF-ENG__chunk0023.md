@@ -1,21 +1,39 @@
-# tough times.”
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3b3f64c898884727111c7d925140f689059040c
+title: H08RTF-PDF-ENG
+---
+# Don’t Neglect Your Own Mental Health
 
-. . .
+To be eﬀective at leading others, it’s critical that you take care of
 
-The past few years have taught us a couple things: It’s not reasonable to
+yourself. If today’s roller coaster of uncertainty is (understandably)
 
-expect employees (or yourself) to check their emotions at the door when
+making you anxious, Morra Aarons-Mele emphasizes how important it
 
-they come into work, and simply spending money on interventions like wellness apps isn’t suﬃcient on its own to support them. As a leader,
+is that you address it: “If you don’t look your anxiety in the face at some
 
-taking a more holistic view of your employees’ mental health—and
+point, it will take you down.”
 
-working through and sharing your own experiences—can make them
+Instead of ignoring it or trying to push through it, she oﬀers a
 
-feel more engaged and improve the health of your organization.
+four-stage process for managing your anxiety. First, you’ll do some
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+reﬂecting, looking inward to better understand what you’re feeling and
 
-5
+why. Then, you’ll start developing tactics for managing your anxiety,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+including (healthy) compartmentalizing and connecting with others.
+
+Next, you’ll learn how to be vulnerable with peers and employees—
+
+without oversharing or letting the conversation go oﬀ the rails. Finally,
+
+you’ll put together a support system outside the organization to help
+
+gut-check your decision-making and advise you on more sensitive
+
+situations. Doing this, Aarons-Mele notes, “means you’ll have better
+
+workdays, both when things are status quo and during transitions and

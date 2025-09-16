@@ -1,11 +1,13 @@
-## avoid LGBT issues in diversity and inclusion programs and refrain from
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8bece5ba37956518b0234290f9a60e65496dad55
+title: H053C9-PDF-ENG
+---
+## Innovation, reveals that in anti-LGBT countries, global organizations
 
-establishing an LGBT employee resource group (ERG) chapter. This
+tend to choose from, and move between, three models of engagement.
 
-approach is common in locations where LGBT people face signiﬁcant
+In the “When in Rome” model, companies adhere to local norms by
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+creating exceptions to their pro-LGBT policies. They might, for example,

@@ -1,17 +1,19 @@
-## typical rollouts of similar products in other markets.
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39d447f3eff50f4798c5a120309d115b3cb91a76
+title: H06XTG-PDF-ENG
+---
+# from greater autonomy.
 
-To succeed in such a market, multinational companies will beneﬁt
+For example, our interviews suggested that in the tech sector, Chinese
 
-from giving their local teams substantial leeway to respond to shifting
+customers expect new rollouts, features, and updates at a much faster
 
-demand and competitive landscapes. For example, when the Indian
+rate than those in other global markets. Thus, to compete in this space,
 
-mobile ad company InMobi expanded into China, it granted its China
+companies have to move fast or risk getting left behind. China’s leading
 
-unit a lot more autonomy than it had given other local teams: While
+ride-hailing app Didi Chuxing, for instance, launched its core product
 
-all other international teams worked with a shared product team based
-
-in India, the China unit had its own product team. Furthermore, local
-
-marketing, sales, ﬁnance, and many other business divisions reported
+just three months after the company was founded — a lot faster than

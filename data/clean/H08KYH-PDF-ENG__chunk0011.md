@@ -1,13 +1,13 @@
-## HBR / Digital Article / The Insidious Effects of Hurrying
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec7adac50cb4ca85763015d14906b2354e67e9f7
+title: H08KYH-PDF-ENG
+---
+# your own experience at work:
 
-- Everything feels urgent. You frequently feel restless, anxious, or
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-worried because everything feels like it must be attended to at once
+3
 
-and ﬁnished as quickly as possible.
-
-- You’re always in a rush. You walk, talk, carry out tasks, and even
-
-drive at a rapid pace. You tend to interrupt others or hurry them along
-
-and constantly multitask in an attempt to ﬁnish more things more
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

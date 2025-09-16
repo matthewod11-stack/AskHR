@@ -1,3 +1,15 @@
-## PERSONALITY AND COUNTERPRODUCTIVE WORKPLACE BEHAVIOR 169
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 372a207bb42e6d795d33a1b6b57ddd5e8c699ebe
+title: barrickryan_eds_personality_and_work
+---
+# 168 PERSONALITY AND WORK
 
-Personality traits are hypothesized to operate as moderators at two points. First, they are hypothesized to moderate the relation- ship between the organizational events and employee perceptions of stress, justice, and dissatisfaction. Second, they are hypothesized to moderate the relationship between these perceptions and the occurrence of the CWBs. This section foucses on the relationship between events and perceptions and then on the relationship be- tween perceptions and CWBs.
+the attitudinal and normative components of the theory of rea- soned action and will not duplicate that process in respect of the set of work attitudes, perceptual variables, and emotional variables in Figure 6.1. We simply point out that there are a variety of means through which the attitudinal and normative components might mediate the relationship among work attitudes, workplace per- ceptions, emotions, and CWBs. For a simple example of mediation, perceptions of workplace injustice may adversely affect the moti- vation of an individual to comply with the wishes of others, thus decreasing the value of the subjective norm component of the be- havioral intention equation and, consequently, increasing the like- lihood that an individual will engage in a CWB. For an example of moderation, the presence of a workplace security camera would be expected to increase the perceived negative consequences of engaging in a CWB. In this manner, it should foster negative atti- tudes toward CWBs, thus reducing the behavioral intention to en- gage in them. The altered behavioral intention should affect the relationship between perceptions of injustice and the probability that perception will be translated into a CWB.
+
+Personality as a Moderator of the Relationship Between Organizational Features and Satisfaction, Perceived Injustice, and Stress
+
+Our discussion to this point has focused on the role personality traits may play in initiating counterproductive behaviors. We now turn to a set of processes wherein organizational events and fea- tures trigger the occurrence of unwanted behaviors. Because coun- terproductive behaviors occur in this process as a reaction to organizational events, we classify these types of behaviors as reac- tive CWBs.
+
+We hypothesize that organizational events inﬂuence reactive CWBs indirectly by inﬂuencing employees’ perceptions of job stress, job satisfaction, and justice, which in turn inﬂuence the oc- currence of the counterproductive behaviors. For the purposes of this chapter, we interpret the phrase organizational events very broadly to include job characteristics, work group characteristics, and company policies and practices.

@@ -1,9 +1,17 @@
-# reputations of Hubel and his team.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3387f6f107eeae5812b10036a7272552774c199
+title: R2006F-PDF-ENG
+---
+## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-It’s easier to get the balance right between an attention to costs and the
+that he and his team were taking a big risk: If users were unwilling to
 
-value added to the user experience when the leaders making decisions
+pay a premium for a phone with a more costly and better camera, the
 
-are those with deep expertise in their areas rather than general
+team would most likely have less credibility the next time it proposed an
 
-managers being held accountable primarily for meeting numerical
+expensive upgrade or feature. The camera turned out to be a deﬁning
+
+feature for the iPhone 7 Plus, and its success further enhanced the

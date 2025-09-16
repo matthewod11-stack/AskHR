@@ -1,13 +1,15 @@
-## HBR / Spotlight / How Fast Should Your Company Really Grow?
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0307c333c08c22ca9f10768abbef67559329a264
+title: S24021-PDF-ENG
+---
+## to the brand, even with vigilant monitoring and strict contractual
 
-have happened. Looking at Virgin’s growth strategy through the rate-
+clauses. While disputes between Virgin and its licensees are rare, they
 
-direction-method lens helps us understand the trade-oﬀs the company
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-has made. The licensing-driven method of growth enables broader
+12
 
-diversiﬁcation and faster growth, but it creates brand equity risks. A
-
-lower-risk approach would be to use less licensing (for instance, let the
-
-Virgin brand be used only in companies in which Virgin Group owns a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

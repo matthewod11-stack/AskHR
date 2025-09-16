@@ -1,9 +1,11 @@
-# Resources vs. Resourcefulness
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9e2ac59a24ccb3dcac1852c9273158666ef4e31
+title: H08ONJ-PDF-ENG
+---
+# companies and industries.
 
-Resources are what most companies ﬁght for internally. It’s why they
+Resourcefulness, not resources or technology, is the real story and
 
-court investors and capital markets. It’s what the budgeting process is
-
-all about. Resources can be ﬁnancial, physical, human, or intellectual
-
-property. They are everything one ﬁnds on the asset side of a company’s
+insight behind what DeepSeek achieved.

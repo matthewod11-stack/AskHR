@@ -1,23 +1,19 @@
-## HBR / Spotlight / Why People Resist Embracing AI
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d49aa358fd8074b64032f4a82afe282348578297
+title: S25013-PDF-ENG
+---
+## more than 20,000 human–AI conversations on ﬁve AI-based companion
 
-crisis messages to the apps and asked trained clinical experts to
+apps and found that about 5% of the users were discussing serious
 
-classify the responses. The experts and I determined that 25% of the AI-
+mental health crises with them. In essence they were using the apps
 
-generated responses were problematic because they increased the users’
+as therapists rather than companions. Next we sent more than 1,000
 
-likelihood of harming themselves. Then we asked a separate group of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-people to consider how each app had responded to the crises. Most of
+7
 
-them gave the apps low ratings, indicated that they would stop using the
-
-apps, and said the app companies would be liable if the users ended up
-
-hurting themselves.
-
-Therefore, AI systems must balance ﬂexibility against predictability
-
-and safety. To do that they can incorporate user feedback and include
-
-safeguards for handling unexpected input appropriately.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

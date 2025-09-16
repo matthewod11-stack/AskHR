@@ -1,23 +1,25 @@
-# partners.
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6eaae05b988890c3e4496e27fa32ca6fea1d0e88
+title: R2505M-PDF-ENG
+---
+# principle.
 
-Consider our experience advising the University of Guelph. Located
+- 2. Frame the problem, reframe it, and repeat. Breakthrough thinkers
 
-in Ontario, one of Canada’s agricultural heartlands, the university was
+and design thinkers invest time in identifying the right problem and
 
-seeking to attract more grants to carry out research in regenerative agriculture, in which producers strike a balance between eﬃcient
+then ﬁxate on it until it is solved. Systems thinkers recognize that there
 
-farming and sustainable practices. Leaders at the university believed
+is often no single way to deﬁne a complex problem and that they’ll need
 
-they could best attract funding by showing the impact of their work.
+to reframe the deﬁnition iteratively to engage stakeholders who may
 
-They asked us to help them incubate new ventures (involving Guelph
+experience a system’s dysfunctions diﬀerently. The trick is to ﬁnd out
 
-researchers, farmers, and local entrepreneurs) that applied agricultural
+how problems that your ecosystem partners are experiencing relate to
 
-technologies to tackling climate change.
+the problem you are trying to solve. In only a very few cases will you
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁnd that wicked problems like sustainability don’t aﬀect your system

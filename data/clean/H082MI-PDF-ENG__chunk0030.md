@@ -1,13 +1,11 @@
-# styles.
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93ff1557e205915aeac951368755081c7e46089a
+title: H082MI-PDF-ENG
+---
+# inspires them in their work and life.
 
-- 4. Model communicating as a whole person
+Ensure career and mentorship opportunities are varied, so that your
 
-According to the 2023 U.S. Surgeon General’s “Advisory on the Healing Eﬀects of Social Connection and Community,” workplaces can foster a
-
-sense of inclusion and belonging among their employees by creating
-
-cultures and practices that encourage people “to connect with one
-
-another as whole people, not just as skill sets.” Here are three ways
-
-you as a leader can model communicating as a whole person with your
+team members can pursue those that best align with their needs and

@@ -1,15 +1,19 @@
-# HBR / Digital Article / 6 Questions to Ask Yourself When You’re Frustrated with Your T…
+---
+source_path: H07JCK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5f9c053a324c82ac5d7cb8aa2641a7622d51fa8
+title: H07JCK-PDF-ENG
+---
+# eﬀectively.
 
-purpose. It may also save valuable time by preventing confusion down
+Frequent communication is helpful in communicating a clear vision.
 
-the line. And you should always check in with your employee to assess
+Helping team members understand how their unique contribution
 
-how clearly your message has been understood.
+supports business outcomes can energize an employee’s sense of
 
-- 2. Are my expectations reasonable?
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Consider the assignment and compare it with similar work you’ve
+2
 
-delegated in the past. Is the current project adequately resourced? If
-
-not, you may need to ﬁnd additional resources or scale back your own
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

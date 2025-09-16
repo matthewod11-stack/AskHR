@@ -1,11 +1,11 @@
-# reliability and validity.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: f992d7b6ad28093fb4bd13af4aea52633df70fee
+title: document_resume
+---
+# Graphic Rating Scales
 
-The first way that graphic rating scales Nary inN, oh es the factors to be rated. These may be a list of traits such as leadership ability, Inman re, honesty, and attitude. The problem with these factors is that they are highly subjeLtos e and may not apply to the job. For example, it is difficult to define and measure a trait such as leadership ability. Moreover, this trait will not always be releN ant, as in the Lase of a bookkeeper. In most cases, trait-based scales will not meet alidity requirements of the EEOC and the courts when used to justify decisions regarding pruinotion, merit increases, and dismissa1.2
+Introduced in 1922, the graphic rating scale is the oldest and most commonly' used performance appraisal technique.I An example is pros ided in Figure 3.1. In this method, a scale n- used to rate the akin, kiwi on seL end factors. The rater scores each factor on a continuum from low to high.
 
-Figure 3.2 is a rating scale format that has been dimensionalized and weighted. These factors are based on job domains or major responsibilities and the relative importance of each as established by job analysis. When used w ith an accurate job In a more detailed version of the dimen- description, this format is very job-related. sionalized rating scale format; the factors to be rated describe actual job behaviors and are known as performance standards. An example is shown in Appendix A. In general, the more factors there are that are' ob-specific and can be either quantitatively measured or at least observed, the higher the degree of reliability and validity that can be obtained.
-
-The second way that graphic rating scales vary is the manner in which total scores are assigned. In many cases, ratings are simply added together. how eNer, the addithity assumption may not be valid because the factors are not equal in importance.
-
-Ratings are more meaningful when they are weighted in aLcordanLe with their is possible to importance to overall job performance. With quality job analysis, it develop rating scales that are weighted on an appropriate basis such as amount of time spent, frequency of performance, or relative importance For example the factor used to rate instruction probably, would receive a greater weight man community service, even when both are part of the job. About 7' percent of graphic rating scales used today are similar to the one shown in Figure 3.1. They are unwetghted and are focused on traits rather than job-related behaviors.3
-
-In isolation, a trait-oriented scale is of little use in providing feedback to individ- improvement. However, graphic rating scales are relatively simple to develop, u, easy to undet stand, and less time consuming to administer than other techniques. They
+Graphic rating scales Nary in two important ways. both UN, ing a major impact on

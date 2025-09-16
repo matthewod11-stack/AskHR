@@ -1,23 +1,33 @@
-# creates goodwill?
+---
+source_path: H07VJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 96c60b369193e62eaf77d94216ea8a6ba820c4ae
+title: H07VJ8-PDF-ENG
+---
+## As Sarah Kellogg Neﬀ, CEO of The Lactation Network, told me, “When
 
-- Is the lactation room designed as a single or multiple-user space?
+it comes to attracting and retaining talent, the bare minimum just isn’t
 
-- Is it a warm, welcoming, and well-equipped space?
+getting it done. Companies with a lactation room — but nonexistent
 
-The ﬁrst of these questions often sparks the most concern within
+paid leave or health plans without breast pump or postpartum lactation
 
-organizations. How do you ﬁnd the space for one lactation room, let
+care coverage — will ﬁnd those rooms empty because their employees
 
-alone enough to meet your campus size? This can often feel threatening
+weren’t supported before returning to work.”
 
-— how much space will I need to “ﬁnd”? — when really the opposite
+So how can your organization go beyond basic compliance? Looking at
 
-is true. The PUMP law is ﬂexible based on need. So, break down your
+the space that you’ve designated for pumping employees is a good place
 
-assessment to consider temporary as well as permanent options.
+to start. Consider these questions:
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+- Do you have enough pumping rooms to meet the size of your campus?
 
-2
+- How is the location of these rooms communicated?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- How do users schedule use of the room(s)?
+
+- How have you organized and managed break tracking (if necessary)?
+
+- When the room is in use, how is that communicated in a way that

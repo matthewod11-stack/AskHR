@@ -1,5 +1,15 @@
-# IX.(cid:32) Personnel Confidential
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 1c69b747867cf6b885110effdd736a86608e8e16
+title: internship_report
+---
+# VIII.(cid:32) Personal Benefit
 
-All benefits from company to all employees should be handled as personnel confidential. No
+Employee should actively discourage customers and in all cases strictly refrain from accepting
 
-matter who spoils or share this kind of information, will be punished according to company
+personal benefits, in cash or kind, of all kinds. The Employee must avoid receiving entertainment
+
+of a scale or frequency that may create, or give the appearance of creating, an opportunity to
+
+influence them in the performance of their duties.

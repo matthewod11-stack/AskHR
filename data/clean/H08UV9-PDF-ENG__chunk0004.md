@@ -1,15 +1,15 @@
-# HBR / Digital Article / How Middle-Market Companies Can Find the Best Leadership T…
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0190367faf29a66a61538c3283c9c41e88d21fd
+title: H08UV9-PDF-ENG
+---
+## retirement, change of control, or performance issues—middle-market
 
-They often lack the internal capabilities and outside support that will
+companies and investors ﬁnd themselves at a serious disadvantage.
 
-help them ﬁnd and assess the best candidates.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-It’s not a small problem, and it’s especially acute in private equity,
+1
 
-where portfolio company CEO turnover is frequent and normal. About
-
-a third of middle-market companies are owned by private equity, and
-
-many currently founder-led companies will have at least one phase of
-
-PE ownership eventually. A majority of PE deals—58%—result in the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

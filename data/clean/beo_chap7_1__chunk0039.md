@@ -1,25 +1,31 @@
-# focus on safety and education.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 673f072c468fbae29696f9e8e73e12fabf8414cc
+title: beo_chap7_1
+---
+# 7.24 Psychic Income
 
-Ariely et al. (2004b) use a simple experimental paradigm to calibrate psychic
+The basic risk-incentive model divides the worker’s world into efforts they dislike,
 
-income for what they call the “meaning” of work. Students proofread pages for a
+and rewards they like. It is convenient to talk about wages as rewards because they are
 
-declining wage schedule (the wage for the marginal page fell) and handed finished
+easily measured, and do not satiate. But people are motivated by many others types
 
-pages to an experimenter. When their work was “ignored” (simply placed on a stack)
+of nonpecuniary “psychic income” as well. For example, Stern (2004) uses multiple
 
-or immediately shredded, they finished only about six pages, compared with nine
+offers for postdoc biologists to estimate that those who accept offers at more science-
 
-pages when their pages were signed and filed away. Thus, the subjects traded off
+oriented firms earn 25% lower wages in order to be able to publish their research
 
-marginal wages for “meaningful” work which was kept rather than shredded.
+and engage in the scientific community. This is consistent with a “compensating
 
-In discussing our paper at the conference, Holmstrom suggested that what work-
+differential,” in which workers trade off money wages for other aspects of the job
 
-ers fundamentally care about is that their efforts are appreciated. For example,
+they like (or dislike).
 
-7Qne form of benchmarking is a tournament structure, which seems to account for some features of
+The existence of compensating differentials is not controversial. Behavioral eco-
 
-internal labor markets with clear career paths (see, for example, Main et al. 1993).
+nomics suggests, however, that the source of these differentials might include emo-
 
-242
+tion, social comparison, and other forces not included in typical analyses which

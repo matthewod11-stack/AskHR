@@ -1,1 +1,11 @@
-## Chapter 2 • Performance Management Process
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: eb5993d66c480595e3a31808cf4f151e61eac855
+title: performance_management_3rd_edition_by_aguinis
+---
+# Both
+
+- The fifth component involves perform- ance review when the employee and manager meet to discuss employee performance. This meeting is usually called the appraisal meeting. This meeting typically emphasizes the past: what the employee has done and how it was done. An effective appraisal meeting also focuses on the present and the future. The present involves the changes in compensation that may result from the results obtained. The future involves a discussion of goals and development plans the employee will be expected to achieve during the period before the next review session. that
+
+- The final component involves per- formance renewal and recontracting. Although this component is identical to the performance planning stage, this component uses information gathered during the review period to make adjustments as needed. For example, some new key accountabili- ties and competencies may be included. Conversely, some goals may have to be adjusted either upward or downward.

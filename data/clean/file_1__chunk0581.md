@@ -1,23 +1,9 @@
-## satisfaction. Journal of Organization Behavior, 20, 1027-1042.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 49195a2a21f092f3da8cfd90b38c4e18fbcc5410
+title: file_1
+---
+## http://www.weforum.org/pdf/gendergap/report2010.pdf [Accessed 31 January 2011]
 
-Greenberg, J., 1990. Organizational justice: Yesterday, today, and tomorrow. Journal of
-
-Management, 16, 399-432.
-
-Hearn. J., Piekkari, R. and M. Jyrkinen, 2009. What Managers in Large
-
-Transnational Corporations Say About Gender Policies, Structures and Practices. Hanken School of Economics: Research Report.
-
-Heckert, T., Droste, H., Adams, P., Griffin, C., Roberts, L., Mueller, M. and H. Wallis,
-
-- 2002. Gender Differences in Anticipated Salary: Role of Salary Estimates for Others, Job Characteristics, Career Paths, and Job Inputs. Sex Roles, 47, 139- 151.
-
-Huseman, R., Hatfield, J., and E. Miles, 1987. A new perspective on equity theory: the
-
-equity sensitivity construct. Academy of Management Review, 12, 222-234.
-
-Husu, L., 2001. Sexism, support and survival in academia: Academic women and
-
-hidden discrimination in Finland. Report Series. University of Helsinki: Department of Social Psychology.
-
-Jackson, L. and S. Grabski, 1988. Perceptions of fair pay and the gender pay gap.
+Graham, M. and T. Welbourne, 1999. Gainsharing and women's and men's relative pay

@@ -1,13 +1,13 @@
-## HBR / Digital Article / When You’re Stuck Working with a Slacker
+---
+source_path: H06D14-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0b31c63d6055910eaf22056d96a6d8025ff9e996
+title: H06D14-PDF-ENG
+---
+# reciprocity.”
 
-Talk to your boss (but be judicious). You really shouldn’t complain to
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-your supervisor about a colleague, says Uzzi. For one thing, “it makes
+3
 
-you look bad. You seem like a whiner—someone who can‘t manage
-
-relationships well,” he says. For another, it makes the boss look bad, he
-
-adds. Your complaint “reﬂects badly on the boss’s ability to select the
-
-right people for the job.” That said, there are ways to broach the issue
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

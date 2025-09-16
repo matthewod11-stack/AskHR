@@ -1,17 +1,29 @@
-## Praslova, professor of organizational psychology at Vanguard University
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 421391aae2dc5be7cc22f7b2ce5df3091a590317
+title: H088YP-PDF-ENG
+---
+# What the Experts Say
 
-and the author of The Canary Code: A Guide to Neurodiversity, Dignity,
+A record share of disabled people were employed in the U.S. last
 
-and Intersectional Belonging at Work. “We’ve been using the same
+year, according to a report from the Bureau of Labor Statistics. This
 
-methods for years without considering what’s truly needed for a speciﬁc
+is progress but more can be done, according to Katie Bach, a former
 
-job and how to identify the right candidate,” she says. After all, the
+nonresident senior fellow at the Brookings Institution who has spent
 
-goal of job interviews is to uncover a candidate’s potential and “assess
+most of her career focused on job creation, access, and quality.
 
-whether that individual has the necessary skills for the role; everything
+It starts with creating a level playing ﬁeld in job interviews. “Oﬀering
 
-else creates unnecessary barriers.”
+accommodations to candidates is table stakes,” she says. “What I see as
 
-Here are some strategies for making your job interviews fairer and more
+the next step is not just asking individuals if they need accommodation,
+
+but helping candidates think through what kinds of accommodations
+
+might be possible.”
+
+Reimagining old, out-moded interview tactics is also key, says Ludmila

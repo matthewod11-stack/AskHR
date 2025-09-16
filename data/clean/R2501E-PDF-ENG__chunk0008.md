@@ -1,17 +1,27 @@
-## comparative advantage over Italy on that front.) Meanwhile, England
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65324bd86f4de3f2a30772e1cf5accce2f818fe4
+title: R2501E-PDF-ENG
+---
+## source: the 19th-century political economist David Ricardo. Business
 
-exports wool to Portugal because its weather is perfect for raising sheep.
+leaders most commonly allocate their time by lining up potential tasks
 
-A similar logic holds here. Leaders shouldn’t spend their scarce time on
+according to absolute importance to the organization’s strategy and
 
-activities simply because they are very important. They should do only
+taking on the most crucial ones until they run out of time. Then
 
-the things that nobody else in the organization can do nearly as well—if
+they leave the rest to subordinates. Instead they should be guided by
 
-at all. And they should spend as much of their time as possible on them.
+Ricardo’s 1817 theory of comparative advantage, still seen as the seminal
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+theory in international trade, which asserts that a nation should export
 
-2
+those goods (or services) for which it has a comparative advantage over
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+its trading partners. In his classic example, Portugal exports wine to
+
+England because sunny weather gives it a comparative advantage in
+
+growing grapes. (But it doesn’t export wine to Italy because it has no

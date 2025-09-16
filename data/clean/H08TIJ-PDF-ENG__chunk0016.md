@@ -1,17 +1,11 @@
-## eﬀectiveness and individual work engagement over time.
+---
+source_path: H08TIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab70de48c3c0f6b0416110d1bb36de2bf852d8f2
+title: H08TIJ-PDF-ENG
+---
+## A longitudinal study of more than 1,000 employees across 90 teams
 
-Is there anything else I should know?
+found that leaders who engaged their teams in decision-making
 
-Sometimes, the only reason a problem is on your desk is because your
-
-employee didn’t want you to be surprised by it.
-
-Thanking the employee and then asking “Is there anything else I should
-
-know?” validates an open line of communication while leaving the
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and shared problem-solving saw signiﬁcant increases in both team

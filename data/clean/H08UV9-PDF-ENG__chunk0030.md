@@ -1,7 +1,7 @@
-## a human-capital partner, their OPs and portfolio company leadership
-
-need to be able to work with someone who knows the ﬁrm, has the
-
-expertise to administer or evaluate assessments that complement what
-
-OPs and executive teams learn from interviews, and who doesn’t have
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4095ef698b676cbe56d9fc964c96ff89dd1d991
+title: H08UV9-PDF-ENG
+---
+# HBR / Digital Article / How Middle-Market Companies Can Find the Best Leadership T…

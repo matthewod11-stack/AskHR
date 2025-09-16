@@ -1,9 +1,13 @@
-# Statement of the Problem
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: bae52f7ce3cbc76c728bebb2262669a56eedc259
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+## Local Perspective of Progressive Employee progressive Discipline.
 
-According to the Gallup Research Report (2003) estimated that actively in disciplined workers are 10 times more likely to say they will leave their organizations and leading to poor performance within a year than disciplined staff. Their 2003 survey in the US and Canada of 1000 workers found that only a quarter were actively engaged in their work with a huge group of between 56% and 60% not engaged and 17% actively disengaged. The research estimates that actively disengaged (uncommitted) and undisciplined workers cost US businesses between $270 and $343 billion a year due to low productivity
+According to Wambugu (2010) conducted a study on the relationship between employee commitment and job performance at the Kenya Institute of Surveying and Mapping. Mutunga, (2009) did a research on the factors that contribute to the level of employee performance in the airline industry in Kenya. It was concluded that several factors contribute to employee performance but, discipline, salary and benefits was the largest contributor. Maluti, Warentho,
 
-There limited research on progressive discipline on employee performance, yet employee progressive discipline is very critical for employee performance, business survival and growth of the industry Otieno (2004). A study by Juan(2010); Geal(2009);Mullins(2011); the employee Opel discipline has not been effectively managed in many organizations and firms loose between 5%-
+- 1553 -
 
-is
-
-(2010)
+and Shiundu, (2011) carried out a study on the impact of employee commitment on retention in state financial corporations in Kenya. The results indicated that there was no significant impact of employee commitment on employee retention. Mwangi (2011) carried out a research on the intelligence and utilization of emotional transformational for employee leadership engagement in public Universities in Kenya. The results established that emotional intelligence impacts employee involvement and discipline significantly through the competencies in self- awareness, social awareness, self-management and social management

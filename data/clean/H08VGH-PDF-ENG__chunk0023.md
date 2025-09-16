@@ -1,9 +1,7 @@
-## uses those soft-skill behaviors as core promotion criteria. No company
-
-can aﬀord talent who works in isolation; they need connectors.
-
-Put simply, as technical complexity rises, the glue that keeps talent
-
-productive is social skill—communication, empathy, conﬂict resolution,
-
-and the ability to coordinate diverse expertise. But our work suggests
+---
+source_path: H08VGH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 351cddfedcd3136d9d0ae3e588ea4b585a42bce5
+title: H08VGH-PDF-ENG
+---
+## coaching, communication, and collaboration across teams, and it now

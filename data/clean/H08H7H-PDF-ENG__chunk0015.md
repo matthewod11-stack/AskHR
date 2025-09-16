@@ -1,7 +1,9 @@
-## While much of the research on remote work and coworker relationships
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05f291aca9b858ce0f21e8b268eefe778eba3b05
+title: H08H7H-PDF-ENG
+---
+# mandates.
 
-assumes that remote work makes coworkers feel more distance from
-
-each other, we examined another possibility: We tested whether remote
-
-work makes coworkers feel closer by allowing them to learn nonwork
+How working from home provides a window into coworkers’ worlds

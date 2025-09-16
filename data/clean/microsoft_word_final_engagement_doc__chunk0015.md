@@ -1,3 +1,9 @@
-# Measuring Employee Engagement
+---
+source_path: microsoft_word_final_engagement_doc.md
+pages: n/a-n/a
+chunk_id: f1fc462117bf363b594d9a9b95aa21cec4e8608a
+title: microsoft_word_final_engagement_doc
+---
+# III. Employer Actions Steps
 
-Employers may want to begin with a company- wide assessment process to measure the range of engagement levels in the workforce. This process, when repeated each year, can serve as a baseline that can be used in following years to gauge the effectiveness over time of management practices and interventions designed to encourage engagement. Depending on the size of the budget available, companies can make a commitment to select one of the measurement tools now available and keep using that same tool for several years.
+To improve employee engagement, employers can take action at the individual employee level and at the organizational level.

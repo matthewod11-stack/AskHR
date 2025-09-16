@@ -1,29 +1,21 @@
-# to circularity.
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 179448dbc43dc7c57f4e419dd6e3a545d081e6b7
+title: R2505M-PDF-ENG
+---
+## architects, engineers, developers, and owners about the possibilities of a
 
-Often the participants in a circular ecosystem have numerous ideas
+circular built environment; developing new standards that permitted
 
-about what needs to be done, but the complexity is so daunting that
+reuse of materials; and ﬁnding ways to unlock small amounts of
 
-they don’t know where to begin. The actions we recommended were a
+funding for new pilot projects. We also recommended that CSA engage
 
-way to nudge things forward, allowing participants to understand the
+a “coalition of the willing”—activists that had already bought into
 
-system better and then map out subsequent actions.
+the idea of a circular built environment. It should launch a few pilot
 
-. . .
+projects, and with each successful eﬀort, it could bring in more people
 
-In advocating for systems thinking we do not expect that companies
-
-or entrepreneurs will abandon the current dominant approaches to
-
-innovation. To begin with, breakthrough thinking is essential to
-
-technological progress. And design thinking is very eﬀective in bringing
-
-managers closer to their customers. But when issues are complex and
-
-aﬀect an array of stakeholders in very diﬀerent ways, those methods
-
-may create as many problems as they solve. Meeting the wicked
-
-challenges that society is experiencing is almost certainly beyond the
+and more projects, with each step helping the community move closer

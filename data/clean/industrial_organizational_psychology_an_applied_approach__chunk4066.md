@@ -1,11 +1,19 @@
-# Prentice Hall.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3e4431eb87187bac97de4f331b6a16c9b1a938ef
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Balfour, D. L., & Wechsler, B. (1996). Organizational
 
-Banks, M. H., Jackson, P. R., Staﬀ ord, E. M., & Warr, P. B. (1983). Th e Job Components Inventory and the analysis of jobs requiring limited skill. Personnel Psychology, 36, 57–66.
+commitment: Antecedents and outcomes in public organizations. Public Productivity and Management Review, 29, 256–277.
 
-Banks, M. H., & Miller, R. L. (1984). Reliability and convergent validity of the Job Components Inventory. Journal of Occupational Psychology, 57, 181–184.
+Baltes, B. B., Briggs, T. E., Huﬀ , J. W., Wright, J. A., & Neuman, G. A.
 
-Bannister, B. D. (1986). Performance outcome feedback and attributional feedback: Interactive eﬀ ects on recipient responses. Journal of Applied Psychology, 71, 203–210. Baron, R. A. (1977). Human aggression. New York: Plenum. Baron, R. A. (1983). Sweet smell of success: Th e impact of
+(1999). Flexible and compressed workweek schedules: A meta-analysis of their eﬀ ects on work-related criteria. Journal of Applied Psychology, 84(4), 496–513.
 
-pleasant artiﬁ cial scents on evaluations of job applicants. Journal of Applied Psychology, 68, 709–713.
+Balzer, W. K., & Sulsky, L. M. (1992). Halo and performance
 
-Baron, R. A., & Byrne, E. E. (2006). Social psychology (10th ed.).
+appraisal research: A critical examination. Journal of Applied Psychology, 77(6), 971–986.
+
+Bandura, A. (1977). Social learning theory. Englewood Cliﬀ s, NJ:

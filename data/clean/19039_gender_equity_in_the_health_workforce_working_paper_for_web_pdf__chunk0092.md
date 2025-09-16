@@ -1,5 +1,11 @@
-## hours per week for men than women for most occupations
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: b30bf73bd8e3aabfa10e7bc35f8ad7b747dcf697
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+# Source: Data from LFS.
 
-and regions. This likely reflects different type of contracts,
+Divergent working places and conditions
 
-with more part-time jobs occupied by women. On average, women work 4.2 hours fewer per week than men among
+LFS data from 56 countries showed higher average working

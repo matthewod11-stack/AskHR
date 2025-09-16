@@ -1,3 +1,11 @@
-## Supervises and instructs students in clinical
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 9371c328bb46752991b4816f204f8fa48b82c2f3
+title: document_resume
+---
+# Appendix A
 
-5 Exceptional Demonstrates substantial expertise in clinical area. Demonstrates an up-to-date comprehensive knowledge base of clients' medical regimens. Manages own time wisely by organizing the environ- ment and situations for the benefit of both students and clients. Skillfully challenges students' higher order thinking skills and promotes an atmosphere of inquiry. Meticulously monitors students' activities with clients by clarifying, verifying, and amplifying students' assessment of the situation.
+1 Unacceptable Conducts brief and/or incomplete pre and post conferences. Makes assignments for the day with no discussion of how objec- tive might be met. Atmosphere is teacher-directed with no student input or direction of how to meet the objective.
+
+- 6. Clinical Instruction (Nursing) facility.

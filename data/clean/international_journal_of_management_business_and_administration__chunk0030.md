@@ -1,5 +1,9 @@
-# Freeman.
+---
+source_path: international_journal_of_management_business_and_administration.md
+pages: n/a-n/a
+chunk_id: d72a06e18cbe74b6c2b1a7ea06bc327a596cf787
+title: international_journal_of_management_business_and_administration
+---
+# Prentice Hall.
 
-Button, S., Mathieu, J., & Zajac, D. (1995). Goal orientation in organizational behavior
-
-research. Organizational Behavior and Human Decision Processes, 67, 26-48. DuBrin, A. J. (2012). Essentials of management. Mason, OH: Cengage South-Western. Greenberg, J. (2011). Behavior in organizations (10th ed.). Upper Saddle River, NJ:
+Bandura, A. (1997). Self-efficacy: The exercise of control. New York, NY: W. H.

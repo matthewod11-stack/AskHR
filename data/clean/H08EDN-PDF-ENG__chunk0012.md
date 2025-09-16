@@ -1,23 +1,49 @@
-# HBR / Digital Article / How to Learn from Your Mistakes and Make Better Decisions
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52e86afe1d8dc5c62afa8922e04ec351a7c50222
+title: H08EDN-PDF-ENG
+---
+# decision-making.
 
-- 4. With 20/20 hindsight, what assumptions did you make that might have contributed to the outcome?
+Second, research suggests that stress may strengthen our existing
 
-Answering this question gives you an opportunity to extract lessons
+cognitive biases. Taking the time to identify particular stressors allows
 
-from your past decisions. Your answers may lead you to feel more
+us to confront mental short-cuts and unhelpful assumptions.
 
-conﬁdent about some aspect of a decision you liked, and to make a change if you prefer to do something diﬀerently.
+In Stacey’s case, she was worried that based on the two prior
 
-With her previous hires, Stacey thought that she was choosing the best candidates from the pool that was oﬀered. So, when the hiring decisions
+unsuccessful hiring attempts that she wasn’t going to get qualiﬁed
 
-didn’t work out, she blamed the broadness of the applicant pool.
+candidates for her role if the organization cast a wide net. She was
 
-But as she reviewed her previous decisions, she realized the pool wasn’t
+convinced the best approach was to narrow the process and “only
 
-the real problem. With the ﬁrst hire, Stacey acknowledged she didn’t ask
+interview candidates who have directly applicable qualiﬁcations and
 
-how the candidate would get up to speed on the industry. “I assumed
+had been in the role before.”
 
-that if he was applying for the job, he’d do what it takes to learn the
+- 3. What are one or two previous decisions that you want to learn from? What didn’t go well? Why do you think it didn’t go well?
 
-industry. By assuming and not asking, I didn’t give myself a chance to
+You cannot begin to change any of your behaviors – including decision-
+
+making behaviors — until you confront them. These questions help you
+
+look directly at past mistakes to articulate what went wrong.
+
+Stacey chose to examine the two recent unsuccessful hiring decisions closely. “I learned diﬀerent things from each failure,” she said. In the
+
+ﬁrst case, she had hired someone without relevant industry experience.
+
+“I assumed the candidate would take the initiative to learn the industry
+
+experience,” she said. “He did not do that.” The mistake with her second
+
+hire was that the person “was not direct and communicated poorly.”
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

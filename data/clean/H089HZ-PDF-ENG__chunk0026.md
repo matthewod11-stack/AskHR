@@ -1,11 +1,7 @@
-## Step 3: Approach the process as data-driven, co-created, iterative learning.
-
-There’s no universal playbook for working arrangements, as every
-
-organization’s work design must be informed by speciﬁc factors
-
-including its competitive landscape, industry norms, employee
-
-demographics, and history. What’s needed is an iterative, collective
-
-approach that brings organization leaders and employees together.
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5e7fde2806f03256c2b813587ce231e980efa6b
+title: H089HZ-PDF-ENG
+---
+# the organization.

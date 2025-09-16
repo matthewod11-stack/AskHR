@@ -1,13 +1,17 @@
-# more productive with less meeting time.
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c65314fb900e80eb3de1d009dc8cf141079533c7
+title: H08GC0-PDF-ENG
+---
+## HBR / Digital Article / Let’s End Toxic Productivity
 
-Annie Dean, global head of team anywhere at Atlassian, came to her
+Research by Atlassian found that 78% of respondents struggle to
 
-role after recognizing that her job as a corporate lawyer on Wall Street
+complete their work due to excessive meetings and a shocking 67% of
 
-was starting to feel toxic. Sending an email just minutes before her son
+people at the director level and above report having to work overtime
 
-was born was a wake-up call. I could relate. In the early days of our
+due to meeting overload. Seventy-six percent of respondents feel
 
-start-up, I brought my two-week-old daughter into an investor meeting.
-
-As a woman, it’s hard to reconcile that prioritizing your well-being is not
+drained after days packed with meetings, and 80% believe they’d be

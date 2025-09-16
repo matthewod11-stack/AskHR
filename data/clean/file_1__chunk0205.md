@@ -1,15 +1,13 @@
-# Press.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 94d7ee3eb9077e27c0e781ff390ea7f4e3e04c17
+title: file_1
+---
+# Labour Economics, 20 (4), 899-922.
 
-Carlson, D. and J. Grzywacz, 2008. Reflections and Future Directions on Measurement. In K. Korabik, D. Lero and D. Whitehead, eds, Handbook of work-family integration: research, theory and best practices. Elsevier Inc.
+Bridges, W. and R. Nelson, 1989. Markets in Hierarchies: Organizational and Market
 
-Carrell, M. and J. Dittrich, 1978. Equity Theory: The Recent Literature, Methodological
+Influences on Gender Inequality in a State Pay System. American Journal of Sociology, 95, 616-58.
 
-Considerations, and New Directions. The Academy of Management Review, 3, 202- 210.
-
-Clark, A., 1997. Job satisfaction and gender: Why are women so happy at work? Labour
-
-Economics, 4, 341-372.
-
-Cohen, A. and C. Kirchmeyer, 1995. A multidimensional approach to the relation between
-
-organizational commitment and non-work participation. Journal of Vocational Behaviour, 46, 189-202.
+Bryman, A. and E. Bell, 2003. Business research methods. New York: Oxford University

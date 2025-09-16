@@ -1,9 +1,15 @@
-## asylum seekers, and others in need of international protection
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1fb99b3050d690e22804196b6b4339649b4032a8
+title: H08BKU-PDF-ENG
+---
+# Pete Starman/Getty Images
 
-surpassed 50.3 million people at the end of 2023 — and that
+As organizations seek to be more inclusive in their recruitment and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+hiring practices, one area they can improve upon is expanding their
 
-1
+talent acquisition playbook to include refugees.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+According to the U.N. Refugee Agency, the number of global refugees,

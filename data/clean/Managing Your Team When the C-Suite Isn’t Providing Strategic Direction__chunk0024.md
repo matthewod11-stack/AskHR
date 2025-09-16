@@ -1,3 +1,9 @@
-# executive coach
+---
+source_path: "Managing Your Team When the C-Suite Isn\u2019t Providing Strategic Direction.md"
+pages: n/a-n/a
+chunk_id: 5f962ae1689fd005408a391fddbaceda6a3085c7
+title: "Managing Your Team When the C-Suite Isn\u2019t Providing Strategic Direction"
+---
+# LinkedIn.
 
-and keynote speaker who teaches executiveeducation at New York University. She helpssenior leaders and their teams thrive in high-stakes moments—stepping into new roles,navigating complex change, and aligning onwhat matters most. You can download her freetoolkit,
+, MBA, is an

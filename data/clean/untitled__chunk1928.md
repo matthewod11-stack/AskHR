@@ -1,5 +1,11 @@
-## seeking. American Journal of Psychiatry, 122, 180–183.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b3d7a891839d369a23e316bca2b297c6f3745d55
+title: untitled
+---
+# Clarendon Press.
 
-Retterstol, N. (1975). Scandinavia and Finland. In J. G. Howells (Ed.), World history of psychiatry (pp. 207–237). London: Ballière Tindall.
+Prince, M. (1975). Psychotherapy and multiple personality: Selected essays (1885–1925). Cambridge, MA: Harvard Univer- sity Press.
 
-Rivers, W. H. (1895). Experimental psychology in relation to insan-
+Quay, H. (1965). Psychopathic personality as pathological stimulus

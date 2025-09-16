@@ -1,7 +1,7 @@
-## How to Self-Promote (When You Don’t Like to Self-Promote)
-
-https://hbr.org/2023/06/how-to-self-promote-when-you-dont-like-to-self-promote
-
-9/13
-
-Ask yourself: Who knows me and is aware of my work? Who willadvocate for my career advancement? Will any of these people bein the room when this opportunity is being discussed? If theanswer is “yes,” you’ll need their support. Set up one-on-onemeetings with each of person you identify to increase yourvisibility. (The list will likely be short.) You want them to knowyou, what you’ve done, and how your work has contributed totheir success or the success of their team. You want them to beactive participants and advocates in your campaign for careerprogression.When you reach out, communicate in a clear and concisemessage. Tell them who you are and what you have done for theorganization (your value proposition), and what your futurecareer aspirations and goals are (your career plan). Dependingwhere you are in the career discussion journey (six, nine, or 12months out from the promotion process), you may set up morethan one meeting with them to show them how you’re learningand growing.Talk to your manager. To land a new opportunity, you have to getyour manager on board. All the other work you’ve done up untilthis point leads up to this important conversation. Schedule aone-on-one meeting with your boss, and let them know that you’dlike to discuss your career development. Then use the time to sellyour ability to contribute in the new role.Paint a compelling picture of the future, outlining your strategicvision for the position or opportunity you’re seeking. Listingspecific actions you would take to quickly make an impact anddemonstrate the value you’ll bring to the organization will showthat you’re thinking proactively at the required level. These mayinclude a new strategic direction for the business, increasing thecapabilities of the team, or surrounding yourself with stronger
+---
+source_path: "How to Self-Promote (When You Don\u2019t Like to Self-Promote).md"
+pages: n/a-n/a
+chunk_id: 674b34435469ff2324cdb22b22b82915d1d7d082
+title: "How to Self-Promote (When You Don\u2019t Like to Self-Promote)"
+---
+# 9/10/25, 11:57 AM

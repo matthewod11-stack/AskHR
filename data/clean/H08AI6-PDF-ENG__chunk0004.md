@@ -1,19 +1,13 @@
-# their many interests.”
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee5479e09c8020e65d20862939411272e6be04f8
+title: H08AI6-PDF-ENG
+---
+# HBR / Digital Article / Research: How Family Motivates People to Do Their Best Work
 
-Indeed, Williams’ daughter Olympia has been motivating her mom
+these moments will be part of both of our beauty journeys… I also hope
 
-to do her best since before she was born. Williams was two months
+my daughters see how many diﬀerent passions I have—from tennis to
 
-pregnant when she won the Australian Open. When Williams later wrote
-
-a public message to her newborn daughter, she emphasized how much
-
-she looked forward to seeing her daughter watch her from the players’
-
-box, saying that “you gave me the strength I didn’t know I had.”
-
-The same year that Serena drew strength from her daughter’s presence
-
-on the tennis courts, we published our research on family motivation,
-
-or how family can motivate people to do their best at work. In quite
+beauty—and learn that they can lead dynamic careers and lives across

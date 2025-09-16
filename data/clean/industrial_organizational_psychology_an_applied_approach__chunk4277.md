@@ -1,5 +1,13 @@
-## Krell, E. (2006). Th e unintended word. HR Magazine, 51(8),
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ee7869f77f8e45637523aca2d7e78db92e102441
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Kozlowski, S. W., Kirsch, M. P., & Chao, G. T. (1986). Job
 
-50–54.
+knowledge, ratee familiarity, conceptual similarity and halo error: An exploration. Journal of Applied Psychology, 71, 45–49.
 
-Kriegel, R., & Brandt, D. (1996). Sacred cows make the best
+Kraiger, K., & Ford, J. K. (1985). A meta-analysis of ratee race eﬀ ects. Journal of Applied Psychology, 70, 56–65. Kravitz, D. A., Harrison, D. A., Turner, M. E., Levine, E. L., Chaves, W., Brannick, M. T., Denning, D. L., Russell, C. J., & Conard, M. A. (1997). A review of psychological and behavioral research on aﬃ rmative action. Bowling Green, OH: Society for Industrial and Organizational Psychology.
+
+Kravitz, D. A., & Platania, J. (1993). Attitudes and beliefs about aﬃ rmative action: Eﬀ ects of target and of respondent sex and ethnicity. Journal of Applied Psychology, 78(6), 928–938.

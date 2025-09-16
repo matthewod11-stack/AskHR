@@ -1,13 +1,25 @@
-# unexpected beneﬁt or reward.
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de92367a9b38ba099fbbffccc5576bc3c19255f1
+title: H082HH-PDF-ENG
+---
+## HBR / Digital Article / The Missing Link Between Strategy and Innovation
 
-Walmart, for example, deﬁned an opportunity to let customers shop by
+process, and transformation of the business. The company has decided
 
-texting a virtual assistant (who would help research products, propose
+that a key customer problem to solve is online ordering of groceries — a
 
-options, and then place the order for the best product). The goal was to
+category that is important to Walmart’s business, and where the existing
 
-delight the customer and shift their habits away from Amazon Prime.
+customer experience has left much to be desired.
 
-Any problem or opportunity, if suﬃciently important to your business,
+The opportunity lens is another way to deﬁne a strategic growth
 
-may be deﬁned as a strategic priority for growth. The point is to pick
+priority. This could be an opportunity for the business to expand
+
+into a new market or sector (such as Amazon’s decision to explore
+
+cloud computing, which ultimately led to the launch of Amazon Web
+
+Services). Or it could be an opportunity to delight the customer with an

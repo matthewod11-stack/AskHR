@@ -1,13 +1,13 @@
-# goals responsibly.
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2cd3ec64dc1d1b1cdc5e8098de963798a31a29f
+title: H08PLG-PDF-ENG
+---
+# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
 
-- Institutions: Companies don’t need to do this work alone. They
+- Technologies: While new tools can create new problems, they can also
 
-should look for third-party organizations that can act as partners, and
+help solve them. Companies need to know how their technology works
 
-external practices and frameworks that can help them learn and adapt.
-
-- Markets: While most companies can’t create or shift markets, they
-
-can read signals about user demand. Knowing what to look for in
-
-this emerging paradigm can help ﬁnd the right solutions and business
+and where it can fail, and what new tools can help them achieve their

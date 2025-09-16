@@ -1,7 +1,9 @@
-# xvi Contents
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 82a3426df24f234c1212ee826b23fff1d27741b3
+title: untitled
+---
+## SOCIAL PSYCHOLOGY 223 Jill G. Morawski and Betty M. Bayer
 
-12
-
-PSYCHOLOGY OF WOMEN AND GENDER 249 Jeanne Marecek, Ellen B. Kimmel, Mary Crawford, and Rachel T. Hare-Mustin
-
-13
+xv

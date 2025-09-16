@@ -1,5 +1,11 @@
-## fancy? Merrill-Palmer Quarterly, 4, 267–294.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 141dbf42f431292525a8a86933ea11c54083982f
+title: untitled
+---
+# North-Holland.
 
-Sameroff, A. J. (1994). Developmental systems and family func- tioning. In R. D. Parke & S. G. Kellam (Eds.), Exploring family relationships with other social contexts (pp. 199–214). Hillsdale, NJ: Erlbaum.
+Sameroff, A. J. (1970). Changes in the nonnutritive sucking re- sponse to stimulation during infancy. Journal of Experimental Child Psychology, 1, 112–119.
 
-Scarr, S. (1993). Biological and cultural diversity: The legacy for
+Sameroff, A. J. (1975). Early inﬂuences on development: Fact or

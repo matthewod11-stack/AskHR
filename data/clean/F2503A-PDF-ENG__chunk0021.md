@@ -1,23 +1,23 @@
-# HBR / Magazine Article / Why CEOs Should Think Twice Before Using AI to Write Mess…
+---
+source_path: F2503A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69fc0a75a01d1f2b3cd6cbe439f24a8df5ca275e
+title: F2503A-PDF-ENG
+---
+# Chase Castor
 
-How transparent are you with employees about how you use AI?
+answers to our gen AI tool. When a repeat
 
-Everyone at Zapier knows I use gen AI to help me write, but I don’t disclose
+question comes in, I can use the tool to
 
-that I’ve used it every time I send a message. There are certain areas where
+produce a response that’s genuinely mine.
 
-we have hard guidelines and policies about AI. How we are allowed to use
+I don’t have to write it all over again or relocate the data behind the answer.
 
-customer data, for example, is very strict. We actively enforce adherence
+It’s just there for me.
 
-to these guidelines, so any work with customer data must be done 100%
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-transparently and with the utmost care. But outside of these scenarios, we
+5
 
-simply expect our people to use good judgment. I don’t need to know that
-
-gen AI helped you write a PowerPoint deck, but I do need to know that
-
-you’ve read and fact-checked every word in that deck. The same goes for
-
-me: When I use gen AI, I decide whether to use what it produces, and I must
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

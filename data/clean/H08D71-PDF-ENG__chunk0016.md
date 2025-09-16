@@ -1,3 +1,21 @@
-# earth ore processing.
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35f5d70c5a616a2205ba46574da8aaf96e0dba88
+title: H08D71-PDF-ENG
+---
+# HBR / Digital Article / The 4 Key Strengths of China’s Economy — and What They Mea…
 
-Just as Chinese companies once beneﬁted from decades of Western
+in producing high-impact papers and contributing to famous scientiﬁc
+
+publications selected after rigorous peer review.
+
+No segment better illustrates China’s technological prowess than clean
+
+tech. China now accounts for over 80% of global production capacity in
+
+11 essential technologies, including solar wafers and lithium-ion battery
+
+components. Moreover, China dominates the rare-earth supply chain,
+
+accounting for 70% of global rare earth ore extraction and 90% of rare

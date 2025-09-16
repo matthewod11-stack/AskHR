@@ -1,29 +1,23 @@
-# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35354f0e2dabd9c170e6584d5e2fdf3a3705ca47
+title: H07SHV-PDF-ENG
+---
+# apply to the lives of others.
 
-contented everywhere, but do we need to be happy at work? How critical
+ADI IGNATIUS:
 
-is that?
+To what extent do we need to be happy at work? I mean, one approach
 
-ARTHUR C. BROOKS:
+to work could be I do it, I am hopefully making decent money to be able
 
-That’s an empirical question about whether or not people that have a
+to sustain myself, and I’m focusing on my personal development, on my
 
-high quality of life tend to be happy at work or it doesn’t matter. And the
+happiness outside of work. Obviously in an ideal world, we’re happy and
 
-truth is, if you’re unhappy at work, you’re probably unhappy in life. It’s
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-simple. I mean, it’s like nobody works an hour a day. Maybe you’re one
+12
 
-of these lucky people that can be on the four-hour work week. My friend
-
-Tim Ferriss wrote that famous book, and the truth is, a lot of people
-
-could get their work done in a lot less time than they do. But most of us
-
-don’t have that luxury.
-
-I’ve been working 80-hour weeks my whole career, and part of it is a
-
-pathology. I’m not going to kid you, I talk a lot in my research about self-
-
-objectiﬁcation, workaholism, which is all based on success addiction,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

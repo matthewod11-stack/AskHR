@@ -1,15 +1,23 @@
-## Bernardin, H. J., & Beatty, R. W. (1984). Performance appraisal:
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 626a2ce0217fbe148b95aed801f464d23d3464bf
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Beehr, T. A., Ivanitskaya, L., Hansen, C. P., Erofeev, D., &
 
-Assessing human behavior at work. Boston: Kent. Bernardin, H. J., & Buckley, M. R. (1981). Strategies in rater training. Academy of Management Review, 6, 205–242. Bernardin, H. J., & Kane, J. S. (1980). A second look at behavioral observation scales. Personnel Psychology, 33, 809–814. Bernardin, H. J., LaShells, M. B., Smith, P. C., & Alvares, K.
+Gudanowski, D. M. (2001). Evaluation of 360-degree feedback ratings: Relationships with each other and with performance and selection predictors. Journal of Organizational Behavior, 22, 775–788.
 
-M. (1976). Behavioral expectation scales: Eﬀ ects of developmental procedures and formats. Journal of Applied Psychology, 61, 75–79.
+Bell, S. T. (2007). Deep-level composition variables as predictors
 
-Bernardin, H. J., & Pence, E. C. (1980). Eﬀ ects of rater training: Creating new response sets and decreasing accuracy. Journal of Applied Psychology, 65, 60–66.
+of team performance: A meta-analysis. Journal of Applied Psychology, 92(3), 595–615.
 
-626
+Bell, S. T. (2005, April). Th e relationship between team composition variables and team performance: A comprehensive meta-analysis. Paper presented at the 20th annual meeting of the Society for Industrial and Organizational Psychology, Los Angeles, CA.
 
-references
+Benjamin, A. J. (1996). Evaluation of leader emergence in a
 
-Bernardin, H. J., & Walter, C. S. (1977). Eﬀ ects of rater training and diary-keeping on psychometric error in ratings. Journal of Applied Psychology, 62, 64–69.
+leaderless group discussion. Unpublished master’s thesis, University of California, Fullerton.
 
-Bernstein, A. J., & Rozen, S. C. (1992). Neanderthals at work.
+Ben-Shakhar, G., Bar-Hillel, M., Bilu, Y., Ben-Abba, E., & Flug, A. (1986). Can graphology predict occupational success? Two empirical studies and some methodological ruminations. Journal of Applied Psychology, 71, 645–653.
+
+Benson, G. S., Finegold, D., & Mohrman, S. A. (2004). You paid for the skills, now keep them: Tuition reimbursement and voluntary turnover. Academy of Management Journal, 47(3), 315–331.

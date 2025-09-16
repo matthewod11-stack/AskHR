@@ -1,11 +1,9 @@
-# CEO transitions?
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8b7b4004fc6ac46d99ab5ea61949ee3b8935329
+title: F2401A-PDF-ENG
+---
+## HBR / Magazine Article / Lessons from Large Family Firms About Choosing a CEO
 
-Having a strong board, involving it deeply
-
-in the planning—and listening to it. The
-
-CEO choice has never been a whim of
-
-mine. We always give ourselves enough
-
-time to plan. Our Apex council—an
+What’s been most important in your

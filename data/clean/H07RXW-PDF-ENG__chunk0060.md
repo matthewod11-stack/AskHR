@@ -1,27 +1,17 @@
-# quickly.
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3809c11c14569a75b9fa01c4d183ad7c146e6ac2
+title: H07RXW-PDF-ENG
+---
+# (e.g., HR, IT, R&D) to work with
 
-Step two — breaking down units into microenterprises — can get
+This ﬁrst step — treating employees like intrapreneurs — can be
 
-complicated, as you must rethink reporting structures to pull smaller
+implemented with a change management or cultural transformation
 
-units out of larger units. But there is a good chance that your IT
+eﬀort. Such eﬀorts are not easy but there is already much known
 
-department has already implemented some form of smaller team-based
+about how to do this. Using proven tactics such as rituals, leadership mirroring, storytelling, role titles, awards, oﬃce design, language, and
 
-approach having adopted “lean” or “scrum” approaches — and as
-
-those IT teams have interacted the business side, they too have started
-
-shifting toward teams at least as regards speciﬁc projects. Product and
-
-marketing teams may already be reorienting toward “growth teams”
-
-popularized by tech companies like AirBNB, Meta, and Uber. What is
-
-left to do is evolve such project teams into permanent team structures.
-
-Step three — allowing management of small teams to be governed
-
-by a marketplace — adds an additional layer of complexity as you
-
-must untangle and redesign budgeting processes and performance
+symbols, a focused, coordinated eﬀort can shift culture remarkably

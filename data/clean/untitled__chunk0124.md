@@ -1,7 +1,15 @@
-# Gary R. VandenBos, PhD Ofﬁce of Communications American Psychological Association Washington, DC
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 57b659523842870614e5fd2c9c2aec9c3d0004fd
+title: untitled
+---
+# Robert J. Sternberg, PhD Department of Psychology Yale University New Haven, Connecticut
 
-Pamela J. Way, PhD Department of Educational Psychology University of Texas Austin, Texas
+Stanley Sue, PhD Department of Psychology University of California at Davis Davis, California
 
-Irving B. Weiner, PhD Department of Psychology University of South Florida Tampa, Florida
+Richard M. Suinn, PhD Department of Psychology Colorado State University Fort Collins, Colorado
 
-Claire Ellen Weinstein, PhD Department of Educational Psychology University of Texas Austin, Texas
+Contributors xix
+
+Richard F. Thompson, PhD Department of Psychology and Biological Sciences University of Southern California Los Angeles, California

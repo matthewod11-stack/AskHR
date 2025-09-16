@@ -1,15 +1,27 @@
-# an investment for a better life.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39d84d78415a907b55bdfef2a431ad4e539bfa6b
+title: H08LRM-PDF-ENG
+---
+## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
 
-Editor’s note (Feb. 20, 2025): *This sentence and source link have been
+from sabbaticals becoming the norm for all workers, but current trends
 
-updated to reﬂect more recent data.
+suggest that we should be moving in that direction.
 
-This article was originally published online on February 4, 2025.
+We shouldn’t have to wait for something to break to give ourselves
 
-DJ DiDonna is a senior lecturer in entrepreneurship at Harvard Business School and the founder of The Sabbatical Project.
+permission to explore, for a little while, what makes life worth living.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+So allow yourself to brieﬂy turn down the volume around boardroom
 
-14
+logistics, quarterly goals, or team dynamics, and let your quieter voice
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+emerge: What are things that light up your curiosity, either now or
+
+when you were younger? Thus far in life, what do you most regret
+
+not having done? Your answers can point you in a new direction. My
+
+research suggests that a sabbatical is more than just a long vacation; it’s

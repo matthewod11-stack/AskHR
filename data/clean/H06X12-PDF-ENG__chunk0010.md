@@ -1,19 +1,43 @@
-## degree in computer science and seven years of experience in database
+---
+source_path: H06X12-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be78fe55240792848411d4ffdb15ad02ce9f007b
+title: H06X12-PDF-ENG
+---
+## volunteer work — just as they would a traditional work experience.
 
-development, and she last held paid employment in 2015. Simone is
+Employers are launching career reentry programs at unprecedented
 
-a perfect candidate for a reentry program, but when she applied at
+rates. Recruiters are recognizing that people who’ve temporarily left the
 
-a well-established company career reentry program, she received an
+workforce are a “hidden” talent pool — and that in most cases, their
 
-automated rejection within an hour.
+decision to take a break from paid work has nothing to do with job
 
-Baﬄed by the instant rejection, Simone got in touch with our team at
+performance. Recruiters expanded their targeting of these candidates
 
-iRelaunch. Seeing her obvious qualiﬁcations, we wanted to understand
+during the pandemic: LinkedIn’s own data shows the share of U.S. job
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+postings mentioning career breaks up 63% from 2020, and up by nearly
 
-2
+100% from 2018.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+For job seekers, the LinkedIn Career Break designation solves the
+
+problem of how to label or classify a period of time when they were not
+
+in the paid workforce. It also solves a growing problem for employers
+
+trying to recruit relaunching professionals. That’s because most formal
+
+career re-entry programs require that applicants have a minimum of a
+
+one-to-two-year career break to be eligible. However, many job seekers
+
+account for their time out of the workforce by listing volunteer work or
+
+other activities. If mistaken for current employment, these candidates
+
+could be deemed ineligible.
+
+Consider the case of Simone, a software engineer. She has a master’s

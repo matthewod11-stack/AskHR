@@ -1,25 +1,21 @@
-## dados com 124 respostas, Legerstee (2013) afirma que o conceito de mensurar
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 5c6fb12a0180323101115d939f5c7c0e31066675
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## resultados organizacionais. Ainda, segundo Legerstee (2013), por ser uma métrica
 
-lealdade do NPS não pode ser estendido ao eNPS pois, de acordo com seus testes
+simples, o eNPS também é muito eficiente em manter mais curtas as pesquisas
 
-estatísticos, o eNPS tem correlação muito forte com o que ele chamou de
+realizadas com funcionários, fator que influencia na taxa de resposta diretamente.
 
-"compromisso afetivo" do funcionário com a empresa. Ou seja, pela descoberta de
+O artigo de Legerstee (2013) propõe-se a entender o que de fato o eNPS
 
-Legerstee (2013), a pergunta de recomendação do eNPS está mais medindo o
+estaria medindo. Como ele é derivado do NPS, que mede lealdade do consumidor, o
 
-estado de sentimentos afetivos do empregado para com a empresa e o seu
+27
 
-engajamento com ela por estes motivos que sua lealdade como um todo.
+autor primeiramente assume que seria este também o objeto de medida do eNPS: a
 
-Ademais, Legerstee (2013) também encontrou correlações menos fortes nos
-
-testes do resultado de eNPS com as variáveis de fit cultural entre empregado e
-
-empresa e intenção de permanência. Quando os funcionários tendem a recomendar
-
-mais a empresa, eles estão, na verdade, dizendo, segundo Legerstee (2013), que os
-
-valores da empresa condizem com os valores de sua vida pessoal. E, por fim,
-
-consequentemente, são menos propensos a pedirem demissão da empresa. Além
+lealdade dos empregados. Usando análise fatorial combinatória, em uma base de

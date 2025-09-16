@@ -1,17 +1,15 @@
-# 360 DEGREE FEEDBACK
+---
+source_path: bonfring_international_journal_of_industrial_engineering_and_management_science.md
+pages: n/a-n/a
+chunk_id: 1279771db6a97ff082136f708af394c3ab6d9477
+title: bonfring_international_journal_of_industrial_engineering_and_management_science
+---
+# Bonfring International Journal of Industrial Engineering and Management Science, Vol. 5, No. 2, June 2015
 
-The 360 evaluation feedback method was first used in the 1940s. It is a system or process in which employees receive confidential, anonymous feedback from the people who work around them. Analogous to the multiple points on a compass, the 360 method provides each employee the opportunity to receive performance feedback from his or her supervisor, peers, staff members, co-workers and customers.
+Employment opportunities are huge in IT sector which in turn reflects upon the employee retention and employee’s performance standard. The performance of an employee is measured and evaluated with the use of performance appraisal methods of the company. But the pitfall is the day to day increasing grievance towards the appraisal methods used in the organisations. Performance appraisal plays a vital role in determining the employee’s performance, as well as the satisfaction level of the employee towards the performance appraisal method used.
 
-Usually, this tool is used for employees at middle and senior level. The complexity of their roles enables the organization to generate sufficient data from all stakeholders for a meaningful assessment.
+Performance Appraisal is the systematic evaluation of the performance of employees and to understand the abilities of a person for further growth and development. Performance appraisal is generally done in systematic ways which are as follows:
 
-- The supervisors measure the pay of employees and compare it with targets and plans.
+this paper throws light on the two methods used by the top most IT companies.
 
-- The supervisor analyses the factors behind work performances of employees.
-
-- The employers are in position to guide the employees for a better performance.
-
-Most organizations that focus on employee development use the 360-degree tool to assess performance and potential of staff and enable the employees to map their career path based on the feedback. Organizations take 360-degree feedback about an employee before taking a major decision about the professional's career.
-
-“It is a systematic evaluation of an individual with respect to performance on the job and individual’s potential for development.”
-
-Employees who work only for money quit after a salary hike to negotiate further with any other organization. Individuals who do not get satisfactory appraisal in any case get demotivated and look for a change. Any employee who does not agree to his/her appraisal or feel has not got what he/she deserves needs to be addressed at the earliest.
+II.

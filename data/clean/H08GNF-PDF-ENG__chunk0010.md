@@ -1,7 +1,13 @@
-# (one to two sentences).
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3cf73ef667696d4f4bdff4d697b9704807e3cc9
+title: H08GNF-PDF-ENG
+---
+# sentence).
 
-- (Takeaways) is an add-on to the STAR method to remind you to
+- Action details the hard and soft skills you used to accomplish the task
 
-include what you learned from the experience.
+and resolve the situation (three to ﬁve sentences).
 
-Expect at least one STAR interview question in every interview. They
+- Result is the outcome and impact your actions had on the situation

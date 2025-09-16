@@ -1,45 +1,25 @@
-## HBR / Digital Article / What It Really Takes to Become an Executive Coach
+---
+source_path: H07XS0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 670271ad813a123ed6c8344df7092733a52869e4
+title: H07XS0-PDF-ENG
+---
+# productivity, and leadership.
 
-To be clear, executive coaching is not:
+Executive coaching is diﬀerent from sports coaching. Sports coaches
 
-- Teaching, instructing, or advising. Coaching involves helping the
+instruct, direct, strategize, and drive their athletes to win. In many ways,
 
-client to reﬂect, build their awareness, and tap into their own inherent
+the sports coach is in the driver’s seat, with the team as passengers. In
 
-wisdom to reach new awareness and understanding of themselves.
+executive coaching, the coach sits in the passenger seat, with the client
 
-- Consulting or problem-solving. Consulting focuses on a problem
+driving. The coach brings the process, but the coaching goes where the
 
-and the conditions surrounding it, whereas coaching focuses on the
+client takes it and explores what the client wants to explore. This can be a diﬃcult mindset for aspiring coaches to understand initially.
 
-person and supports them as they tackle the problem. If you had to
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-decide between two options, a consultant might do a thorough analysis
+3
 
-and oﬀer their expert recommendation. A coach doesn’t even need
-
-to know what the choices are! The coach doesn’t oﬀer solutions. The
-
-coach is there to help the client solve their own problem.
-
-- Mentoring. We turn to mentors to hear the knowledge they’ve learned
-
-from their life’s experience. When you say, “when I was in this
-
-situation, here’s how I handled it,” you’re acting like a mentor rather
-
-than a coach. Coaches don’t need experience in the client’s topic
-
-to create profound transformation. The coach relies on the craft of
-
-coaching to help the client unlock their own expertise.
-
-- Giving feedback. Sometimes people say that someone “needs
-
-coaching” when what they really mean is that they need feedback.
-
-Feedback is most eﬀective when given directly by colleagues or a
-
-manager. Coaches can then help clients process feedback they’ve
-
-received and can support them in getting the feedback they’d like to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

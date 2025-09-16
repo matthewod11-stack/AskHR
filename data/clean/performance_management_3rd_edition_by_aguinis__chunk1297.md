@@ -1,13 +1,13 @@
-## Chapter 7 • Implementing a Performance Management System 181
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 08ff6f76bb100377ab765ab9f4ca6114473e2bd8
+title: performance_management_3rd_edition_by_aguinis
+---
+# 7.4.2 Frame of Reference Training
 
-- 2. Raters are given an appraisal form and instructed to read it as the trainer reads aloud the definition for each of the dimensions and the scale anchors.
+Frame of reference (FOR) training helps improve rater accuracy by thoroughly familiar- izing raters with the various performance dimensions to be assessed. The overall goal is to give raters skills so that they can provide accurate ratings of each employee on each dimension by developing a common FOR.
 
-- 3. The trainer discusses various employee behaviors that illustrate various per- formance levels for each rating scale included in the form. The goal is to create a common performance theory (frame of reference) among raters so that they will agree on the appropriate performance dimension and effectiveness level for different behaviors.
+Atypical FOR training program includes a discussion of the job description for the individuals being rated and the duties involved. Raters are then familiarized with the performance dimensions to be rated by reviewing the definitions for each dimension and discussing examples of good, average, and poor performance. Raters are then asked to use the appraisal forms to be used in the actual performance management system to rate fictitious employees usually shown in written or videotaped practice vignettes. The trainees are also asked to write a justification for the ratings. Finally, the trainer informs trainees of the correct ratings for each dimension and the reasons for such ratings and discusses differences between the correct ratings and those provided by the trainees. Typically, FOR training programs include the following formal steps:18
 
-- 4. Participants are shown a videotape of a practice vignette, including behaviors related to the performance dimensions being rated, and are asked to evaluate the employee’s performance using the scales provided.
-
-- 5. Ratings provided by each participant are shared with the rest of the group and discussed. The trainer seeks to identify which behaviors participants used to decide on their assigned ratings and to clarify any discrepancies among the ratings. 6. The trainer provides feedback to participants, explaining why the employee should receive a certain rating (target score) on each dimension, and shows discrepancies between the target score and the score given by each trainee.
-
-Consider how the Canadian military uses FOR training.19 First, the training program includes a session regarding the importance of performance management systems in the military. In the next session, raters are told that they will be evaluating the performance of four subordinates. They are given the appraisal form to be used and information on each of the scales included in the form. As the trainer reads through each of the scales, participants are encouraged to ask questions. At the same time, the trainer gives examples of behaviors associated with each level of performance. The trainer thus makes sure that the trainees come to a common FOR concerning what behaviors constitute the different levels of performance. Participants are shown a videotape of a soldier, and they are asked to evaluate the performance using the appraisal form explained earlier. Next, the ratings are discussed as a group, focusing on the behaviors exhibited in the videotape and the ratings that would be most appropriate in each case. This process is repeated several times. Finally, the participants are given three more samples of behavior to rate, as displayed by three hypothetical soldiers, and they receive feedback on how well they evaluated each soldier.
-
-It should be evident by now that FOR training can take quite a bit of time and effort to develop and administer, but it is well worth it. Specifically, as a consequence of implementing this type of training, raters not only are more likely to provide consistent and more accurate ratings, but they are also more likely to help employees design effec- tive development plans. This is because sharing a common view of what constitutes good performance allows supervisors to provide employees with better guidelines to employ to reach such performance levels.20
+- 1. Raters are told that they will evaluate the performance of three employees on three separate performance dimensions.

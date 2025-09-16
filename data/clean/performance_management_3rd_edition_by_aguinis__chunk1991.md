@@ -1,7 +1,19 @@
-## generic, 43 strategic planning, 62f, 76–77
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 546d92febe7aed32fc22d451aa6414e419f3c203
+title: performance_management_3rd_edition_by_aguinis
+---
+# Index
 
-Job dissatisfaction, 9, 9t Johnson, P., 59 Johnsonville Foods, Wisconsin, 145 Johnston, J., 35 Jones, E., 104 Judge, T. A., 129 K Karsten, L., 292 Kay, I., 224 Keeping, L. M., 34, 36 Kelda Group, UK, 73b Kelley, D., 34 Kelly, S., 194 Kendra, K. A., 129 Kennedy, C. R. Jr, 85 Kerr, S., 292 Key accountabilities, 46 Key Bank, Utah, 63–64, 64f, 74 Kiger, P. J., 260 Kikoski, J. F., 58 Kimberly-Clark, 23 Kinicki, A. J., 261 Kirkpatrick, D. L., 36, 128, 262 KLA-Tencor Corporation, 204 Klayman, N., 166 Kleingfeld, A., 193, 314 Klimoski, R. J., 261 Kluger, A. N., 33, 166, 225, 261 Kmart Corp, 15b Knowledge
+Intentional rating errors, 150–153,
 
-accounting, BARS measurement,
+177–178, 180t
 
-124
+prevention, 153–154, 164–165
+
+Internal environment, 66, 67t Interviews, job analysis, 40 Involvement, feedback, 239 IRI Consultants to Management, 208t Ivancevich, J. M., 129 J Jacobs, R., 260 Japan, performance management, 25 Jaramillo, F., 167 Jelley, R. B., 166, 261 Job analysis, 40
+
+descriptions, 41b, 44b–45b exercise, 55 questionnaires, 41 Job criteria clarification, 5 Job description, 40b, 44b–45b,
+
+76, 77b, 78b

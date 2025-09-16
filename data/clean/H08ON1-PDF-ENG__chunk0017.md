@@ -1,13 +1,19 @@
-# together.
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f502cbad3e0bf4a0fb91fdfbcb83e397abf6d72e
+title: H08ON1-PDF-ENG
+---
+# post-close.
 
-Organizations can ﬁnd designing these assessments overwhelming.
+In our experience, organizations tend to assess the culture of the
 
-We suggest focusing on decision-making and risk-taking, which are
+company they are acquiring but often fail to assess the culture of
 
-universally important aspects in which merged cultures must align.
+their own organization. Understanding your own organizational culture
 
-Beyond that, we suggest looking at the cultural assessment of your own
+will help you determine which aspects of culture to prioritize during
 
-organization to determine the highest-scoring dimensions. Those are
+integration. Plus, a thorough understanding of both cultures will help
 
-strengths of your culture and areas you will want to focus on.
+you determine what you’ll need to do to successfully bring them

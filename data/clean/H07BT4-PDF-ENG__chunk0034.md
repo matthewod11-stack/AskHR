@@ -1,9 +1,13 @@
-# HBR / Digital Article / Why Some of Your Salespeople Are Dragging — and How to Fix It
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d21411e70f83a8206ea355dd75477a5bf8832e16
+title: H07BT4-PDF-ENG
+---
+# experience higher levels of drag.
 
-High-drag sellers are in turn up to 35% less likely to attain quota
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-and up to 51% more likely to be actively job-seeking than their low-
+5
 
-drag counterparts. To reduce seller drag, sales leadership must address
-
-the risk and uncertainty that accompanies career movement at many
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,29 +1,17 @@
-# Example Interaction:
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 4604ed62a8f7c90b20c94fe404a4f0b880952176
+title: agents_companion
+---
+# text-to-speech synthesis.
 
-[Raw response from Car Manual Agent before rephrasing]: "In the event of a tire
+The Rephraser Agent is specialized in adapting the tone, style, and presentation of responses
 
-pressure monitoring system alert, the vehicle has detected that one or more tires have
+to match user preferences and context. This agent transforms technical information into
 
-fallen below the recommended inflation pressure of 2.2 bar. The affected tire's pressure is
+conversational language, adjusts response length based on driving conditions and urgency,
 
-approximately 1.8 bar, which is 18.75% below recommended levels. This does not constitute
+personalizes communication style to match user preferences, and formats complex
 
-an immediate safety hazard, but prolonged driving with underinflated tires can lead to
-
-decreased fuel efficiency, reduced tire longevity, and potentially compromised handling
-
-characteristics. It is advisable to proceed to a service station at your earliest convenience
-
-to reinflate the tire to proper specifications."
-
-Rephraser Agent: [Adapts for driving context, adjusts information density and urgency]
-
-Final Response to User: "Your front right tire is a bit low - down to 1.8 bar. It's safe to
-
-keep driving, but you'll want to add some air at the next petrol station. Low tire pressure
-
-can affect your fuel economy and make the tire wear out faster. I can help you find a
-
-nearby place to fill up if you'd like."
-
-60
+information for easier comprehension while driving.

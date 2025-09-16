@@ -1,11 +1,19 @@
-# DIRKS AND FERRIN
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 6bce6de58f9da39b248adac04f94148a9af3c38f
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# York: Academic Press.
 
-- Johanns, R. (1997). Exchange relationships at work: Impact of violation, trust and commitment on employee behaviors and employer obligations. Unpublished doctoral dissertation, University of Guelph, Ontario, Canada. Johnson, B. (1993). DSTAT 1.10: Software for the meta-analytic review of
+Hogan, R., Curphy, G., & Hogan, J. (1994). What we know about leader- ship: Effectiveness and personality. American Psychologist, 49, 493– 504.
 
-- Johanns, R. (1997). Exchange relationships at work: Impact of violation, trust and commitment on employee behaviors and employer obligations. Unpublished doctoral dissertation, University of Guelph, Ontario, Canada. Johnson, B. (1993). DSTAT 1.10: Software for the meta-analytic review of
+Hunter, J. E., & Schmidt, F. L. (1990). Methods of meta-analysis: Cor- recting error and bias in research findings. Newbury Park, CA: Sage. Iaffaldano, M., & Muchinsky, P. (1985). Job satisfaction and job perfor-
 
-work relationships. In R. Kramer & T. Tyler (Eds.), Trust in organiza- tions (pp. 114–139). Thousand Oaks, CA: Sage.
+- Driscoll, J. W. (1978). Trust and participation in organizational decision
 
-Likert, R. (1967). The human organization: Its management and value.
+mance: A meta-analysis. Psychological Bulletin, 97, 251–273.
 
-Lind, A., & Tyler, T. (1988). The social psychology of procedural justice.
+625
+
+626

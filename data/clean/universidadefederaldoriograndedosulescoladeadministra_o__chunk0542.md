@@ -1,15 +1,13 @@
-## Dentre as justificativas para tanto, foram citadas:
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: ab196e918cfba36dd6d727f8a01f53bda1bf8a54
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# (11,1%), como mostra a figura 28 abaixo:
 
-- 1. o foco maior já que só há uma pergunta no eNPS;
+Figura 28: Respostas à pergunta "Comparada às pesquisas de clima organizacional
 
-69
+tradicionais, você considera que a pesquisa de eNPS é mais ou menos eficiente?"
 
-- 2. a crença de que o eNPS abra mais espaço para se explicitar as
-
-ineficiências de um time por conta do campo aberto sempre presente;
-
-- 3. o peso maior que é dado para respostas de pessoas insatisfeitas (os
-
-detratores, que, na régua do eNPS são os que atribuem nota de 0 a 6);
-
-- 4. a maior frequência de aplicação que a simplicidade da pesquisa
+Fonte: respostas do questionário aplicado aos funcionários

@@ -1,5 +1,29 @@
-## for collection of data in a private setting, and anonymization of data
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ff57dc30ceb6ce640917712c66212663318c9df
+title: H08QRZ-PDF-ENG
+---
+## For example, Blue Cross and Blue Shield of Minnesota, a company we
 
-before it is stored. They are also careful to use non-coercive language,
+observed in our research, publishes a simple, reader-friendly document
 
-preserving an individual’s choice in deciding whether to participate in
+about its wellness screening program, which is oﬀered to employees of
+
+participating organizations. In it, they explain that their goal is to help
+
+members better track and take ownership of their health, and that they
+
+use the collected data to administer rewards for good health. But they
+
+also explain their own rules around the data: that they will only view
+
+individual data for rewards, not to penalize for any reason. They will
+
+also not share individual data with third parties (including employers),
+
+won’t tell employers which employees participate and which don’t,
+
+and will only operate on aggregated data. They also outline precisely
+
+how human-level data is collected and where it goes, which allows

@@ -1,5 +1,9 @@
-# Individual-Level Performance Variables
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: ad3f8b0004623498375bbe9fd47abf39171900e9
+title: barrickryan_eds_personality_and_work
+---
+# EMERGING TRENDS AND NEEDS 295
 
-Although research examining the determinants of overall job per- formance is extremely important, the array of other criterion vari- ables relevant to the world of work is enormous. In addition to overall job performance, personality variables have main effects on a variety of other important outcome variables. Examples are coun- terproductive behavior, contextual performance, task perfor- mance, educational and training outcomes, career success, life satisfaction, job satisfaction, accidents, stress, decision making under stress, goal setting, conﬂict attributions, workplace aggres- sion, evading capture by the enemy, leadership, embracing and adapting to change, entrepreneurial risk taking, innovation and creativity, job search behavior, job offers, tenure, work-family bal- ance, and volunteerism. Meta-analyses have been performed in sev- eral of these areas. Hough and Furnham (2003) provide a list of meta-analytic ﬁndings summarized according to personality con- struct and criterion construct. Taken together, the results demon- strate the importance of matching predictor constructs with criterion constructs, the importance of a variety of personality vari- ables other than the Big Five, and useful levels of criterion-related validity of personality variables for many important workplace cri- teria in both military and civilian settings.
-
-With the increasingly rapid rate of change in the workplace, the importance of other criteria such as initiating, embracing, and adapting to change, change leadership, decision making in rapidly evolving situations, and innovation is greater today than yesterday, and their importance will not diminish anytime soon. The chang- ing world of work requires that criterion constructs such as these become part of our models.
+although research with teams has focused our attention on group- level performance variables as well. In addition, our theories and models need to be sensitive to change in performance over time (the dynamic criteria), hence changes in relationships between variables over time (Hough & Oswald, 2000), as well as differences that may be due to other characteristics of criteria, such as typical versus maximum performance.

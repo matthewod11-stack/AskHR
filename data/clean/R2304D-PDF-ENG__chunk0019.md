@@ -1,7 +1,15 @@
-# more.
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 212affb78bbe00eaadb75d3013c66ed7e39a4901
+title: R2304D-PDF-ENG
+---
+## HBR / Magazine Article / The Labor-Savvy Leader
 
-While not every union representative will be a willing partner in
+relationships, workers and companies reap beneﬁts. These include
 
-a constructive relationship, the workers they represent generally
+better employee satisfaction (and retention), training opportunities
 
-want respectful engagement from both sides. Stakeholders—including
+(union apprenticeships are some of the best training available),
+
+improved customer service, new ways of introducing technology, and

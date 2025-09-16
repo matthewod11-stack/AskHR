@@ -1,33 +1,17 @@
-# opportunity for improvement.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 900f3fd9115ff8fa2003dc3d1b9bcbf1caa7c57d
+title: H08DDG-PDF-ENG
+---
+# feedback.
 
-Responses like these demonstrate just how frank and direct
+In addition, while these survey questions don’t ask for input on speciﬁc
 
-entrepreneurs can be (even in non-anonymous surveys) — if you create
+team members, founders will sometimes oﬀer feedback on individual
 
-a safe space in which they can share their feedback freely and without fear of reprisal. While unexpected feedback can be diﬃcult to receive,
+people unprompted. These proactive comments can be especially
 
-it’s also incredibly valuable, and I am always grateful when founders are
+meaningful, whether they’re a positive spotlight highlighting someone
 
-willing to share these critical insights. I’ve also found that reviewing this
-
-feedback together with my team — reﬂecting on our shared areas for
-
-improvement and collaboratively exploring creative solutions — can be
-
-a powerful trust-building exercise, bringing the internal team closer and
-
-making the entire organization more eﬀective.
-
-- 3. Prioritize and implement improvement areas.
-
-Of course, you can’t do everything at once. To turn your entrepreneurs’
-
-actionable insights into real change, it’s vital to prioritize the highest-
-
-impact actions you can take — for both the entrepreneurs you’ve
-
-already invested in and for those you will want to invest in going
-
-forward. It’s also important to act fast: The startup world moves quickly,
-
-so if you wait too long to implement, it may be too late to make a
+who’s gone above and beyond or constructive criticism emphasizing an

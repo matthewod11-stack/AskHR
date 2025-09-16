@@ -1,19 +1,37 @@
-# Insert Table 2, 3 and 4 about Here
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: f7cae0080cefff9f4ffe1320f5683256fd936d4c
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-The utility of the newer forms of leadership is further emphasised in the incremental
+stronger effects than MBE (see Table 3). To examine the relative effects of the contemporary
 
-predictive validity analysis, included in Table 5. This table reports variance explained in the
+leadership styles over the full-range model, we first calculated the main effects of each
 
-criterion (trust in the leader) by transformational and contingent reward leadership and the
+leadership style, including transformational leadership and contingent reward, on trust in the
 
-incremental variance explained by each of the other forms of leadership (i.e., authentic,
+leader. We also calculated correlations between the newer leadership styles and
 
-servant, ethical, empowering, paternalistic, and abusive). Results demonstrate that each of
+transformational and contingent reward leadership (see Appendix A). As can be seen in Table
 
-these six leadership styles explained significant variance in trust in the leader over
+2, all leadership styles were significantly associated with trust in the leader.
 
-transformational and contingent reward leadership. The amount of additional variance
+Next, our relative weights analysis assessed the relative contribution of each
 
-explained varied across the leadership styles. Abusive supervision explained the least
+leadership style to trust in the leader and results are shown in Table 4. The results suggest that
 
-additional variance (6%). Ethical leadership and authentic leadership both explained 10%
+the newer forms of leadership all have a relatively large association with trust in the leader.
+
+For instance, servant, authentic, ethical, empowering, and paternalistic leadership all had a
+
+relative weight over 35%. In the case of paternalistic leadership, both the moral (28.53%) and
+
+benevolent (38.27%) dimensions explained greater variance than transformational leadership
+
+(16.59). We could not include transactional leadership in this analysis due to a lack of
+
+primary studies. In the case of abusive supervision, this leadership style had a lower relative
+
+weight (21.83%) than did transformational leadership (39.01) or contingent reward (39.16).

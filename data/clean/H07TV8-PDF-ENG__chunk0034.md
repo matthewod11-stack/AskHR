@@ -1,15 +1,13 @@
-# more experienced leaders.
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5671139bc66fad12f19f02d8978a1564d15a63aa
+title: H07TV8-PDF-ENG
+---
+# HBR / Digital Article / Businesses Need to Bring Younger Employees into Their Leaders…
 
-This idea has some precedence in the technology sector: Meta’s
+Membership in these chambers would reﬂect diﬀerent experience
 
-Oversight Board functions like an upper chamber, reviewing content
+levels. In one version of this setup, younger leaders could be responsible
 
-moderation verdicts made within the company and oﬀering policy
-
-recommendations based on case decisions.
-
-For such bold changes to governance structures, deﬁning the scope of
-
-decision-making of the new bodies is crucial, as they run the risk of reducing eﬃciency and speed in decision-making. Experimenting to see
-
-what works is key before expanding the scope and responsibility of such
+for proposing new policies, which would be vetted and reﬁned by the

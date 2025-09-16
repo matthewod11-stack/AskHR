@@ -1,5 +1,13 @@
-## O conceito de trabalho e de organizações se transformou pela identificação
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 55e78691a9105c486c912981e12f12cfd3e63d45
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## MENDONÇA, 2019). Na gestão de pessoas, esse movimento positivo se deu pelo
 
-da complexidade desses fenômenos ao se levar em conta também as
+direcionamento das intervenções para aspectos que impulsionam a motivação, o
 
-características positivas das pessoas, de seu comportamento, de suas relações e do
+comportamento producente e o desempenho adequado não apenas à produção,
+
+mas também à saúde do trabalhador (VAZQUEZ; FERREIRA; MENDONÇA, 2019).

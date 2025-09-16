@@ -1,19 +1,43 @@
-# 9.3%—a 60% improvement in safety.
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a05c73f6b0f1295bab4e5c32291dc71a9c6a8bfe
+title: R2405H-PDF-ENG
+---
+## sensors and wireless connectivity to both measure worker safety and
 
-It’s a mistake to assume that more training is necessarily better.
+track improvements in productivity. Similarly, Chevron is developing a
 
-Consider the case of a major industrial company in Houston with more
+wearable skin patch that will provide real-time, automated analysis of
 
-than $30 billion in annual sales. It initially required employees to take
+sweat and electrolyte loss, alerting wearers to potential heat strain and
 
-more than 70 safety trainings, each lasting more than 40 minutes. But
+the need for a break to replenish ﬂuids and electrolytes.
 
-a statistical analysis showed that only nine of those trainings were
+Target training. Safety training must be customized to achieve speciﬁc
 
-predictive of improved safety outcomes. When the company reduced
+preventive behaviors, and it should prioritize employee convenience.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Otherwise, training programs can waste employees’ time, sap their
 
-12
+morale, and fail to achieve the desired results.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The nursing-home chain initially subjected employees to generic safety
+
+training, conducted during lunch, to explain the importance of safety.
+
+Perhaps unsurprisingly, no safety improvements materialized, so the
+
+chain redesigned its training, making it speciﬁc to bedsore reduction.
+
+It also began oﬀering the training sessions online so that employees
+
+wouldn’t need to forgo lunch to attend them. In addition, each
+
+employee was incentivized with a cash reward and a certiﬁcate for
+
+completing the training. As a result, training completion rates increased
+
+to 96%, employees identiﬁed more bedsores in the pre-formation stage,
+
+and the incidence of bedsores among residents decreased from 23.1% to

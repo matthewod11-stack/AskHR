@@ -1,7 +1,13 @@
-# Psychological Bulletin, 37, 1–28.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c790016184dac85295377c803425c4ccfb4c440b
+title: untitled
+---
+# New York: Henry Holt.
 
-Allport, G. W. (1940c). Symposium: Psychoanalysis as seen by an- alyzed psychologists [Editor’s note]. Journal of Abnormal and Social Psychology, 35, 3.
+Allport, G. W. (1938). The Journal of Abnormal and Social Psychology: An editorial. Journal of Abnormal and Social Psychology, 33, 3–13.
 
-Allport, G. W. (1941, January 22). Letter to R. H. MacMurphey. Gordon W. Allport Papers, Harvard University Archives, Cambridge, MA.
+Allport, G. W. (1940a, December 23). Letter to A. T. Poffenberger. Gordon W. Allport Papers, Harvard University Archives, Cambridge, MA. Quoted by permission of Ardys Allport.
 
-Allport, G. W. (1942). The use of personal documents in psycholog-
+Allport, G. W. (1940b). The psychologist’s frame of reference.

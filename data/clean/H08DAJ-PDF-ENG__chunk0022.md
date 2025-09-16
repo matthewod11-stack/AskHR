@@ -1,17 +1,35 @@
-# skills.
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ccfdf9b41e0ed4d3ba7af9b7b2211a255153ee92
+title: H08DAJ-PDF-ENG
+---
+# consequences of the choice.
 
-Finally, our work suggests that those seeking to delegate decisions may
+. . .
 
-beneﬁt from pursuing strategies that make their requests seem fairer.
+Our research suggests that one-size-ﬁts all guidance exhorting leaders
 
-For example, delegators could consider framing a decision within the
+to delegate may miss important nuance. Delegating decisions can carry
 
-scope of their colleague’s responsibilities or could articulate how they
+signiﬁcant negative interpersonal costs that managers would be wise to
 
-will take active responsibility for any fallout from an employee’s choice.
+weigh alongside the potential beneﬁts of freeing up time and energy.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Our work provides insight into the decision contexts in which these
 
-5
+costs are more and less likely to accrue: When the decision outcome
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+has a high potential to have negative consequences, is outside of
+
+the employee’s scope of responsibilities, and primarily aﬀects others,
+
+there are likely to be interpersonal costs of decision delegation, and
+
+managers looking to utilize their employees’ knowledge should ask for
+
+advice instead. When these elements are reversed, transferring decision
+
+responsibility is likely to be less interpersonally costly and might
+
+provide employees a better venue to test out their decision-making

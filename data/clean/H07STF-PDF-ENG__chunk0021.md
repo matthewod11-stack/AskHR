@@ -1,21 +1,35 @@
-# right?
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e58d7c5a0ef72deab36239d3e3cfd873783a8d21
+title: H07STF-PDF-ENG
+---
+## HBR / Digital Article / How to Think Strategically About a Career Transition
 
-One person I’ve been interviewing extensively over the last couple years was chief compliance oﬃcer at her organization, and she’s become
+HERMINIA IBARRA:
 
-a documentary ﬁlmmaker. She had to start at the bottom, as an
+I do not have a crystal ball. I don’t know. All I know is that organizations
 
-apprentice. It depends.
+are still trying to ﬁgure it out. They’re still playing with diﬀerent ways
 
-Other people move into something that’s more adjacent, maybe doing it
+and trying to understand the employee experience. But that’s a question
 
-more entrepreneurially. And they don’t have to, they can really leverage
+I can’t answer.
 
-the skillset and the experience that they’ve had, albeit in a very diﬀerent
+ADI IGNATIUS:
 
-role and setting. It depends a lot.
+Alright, here’s another question, this is from Ellie from Switzerland.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+How should we think about the balance? If you switch careers, you
 
-8
+jeopardize some of the seniority you’ve built up, and the beneﬁts and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+positives that you’ve accrued. How can we avoid that or how can we
+
+think about that trade oﬀ?
+
+HERMINIA IBARRA:
+
+That’s another big question, am I going to have to start at the bottom? Or
+
+is there a way not to do that? It depends on what you go on to do next,

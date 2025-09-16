@@ -1,11 +1,17 @@
-## mood. Psychological Bulletin, 98, 219–235.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 4e0664c5245486952f9584da5bd891a301ae77c8
+title: barrickryan_eds_personality_and_work
+---
+# 182 PERSONALITY AND WORK
 
-Widiger, T. A., Verheul, R., & van den Brink, W. (1999). Personality and psychopathology. In L. A. Pervin & O. John (Eds.), Handbook of per- sonality: Theory and research (2nd ed., pp. 347–366). New York: Guil- ford Press.
+Watson, D., & Clark, L. A. (1984). Negative affectivity: The disposition to experience aversive emotional states. Psychological Bulletin, 96, 465–490.
 
-Winter, D. G., & Barenbaum, N. B. (1999). History of modern personality theory and research. In L. A. Pervin & O. P. John (Eds.), Handbook of personality: Theory and research (2nd ed., pp. 3–27). New York: Guil- ford Press.
+Watson, D., & Clark, L. A. (1993). Behavioral disinhibition versus con- straint: A dispositional perspective. In D. M. Wegner & J. W. Pen- nebaker (Eds.), Handbook of mental control (pp. 506–527). Upper Saddle River, NJ: Prentice Hall.
 
-Zuckerman, M. (1995). Good and bad humors: Biochemical bases of per-
+Watson, D., Clark, L. A., & Harkness, A. R. (1994). Structures of person- ality and their relevance to psychopathology. Journal of Abnormal Psy- chology, 103, 18–31.
 
-sonality and its disorders. Psychological Science, 6, 325–332.
+Watson, D., & Hubbard, B. (1996). Adaptational style and dispositional structure: Coping in the context of the Five-Factor Model. Journal of Personality, 64, 737–774.
 
-Zuckerman, M., Kuhlman, D. M., Thornquist, M., & Kiers, H. (1991). Five (or three) robust questionnaire scale factors of personality without culture. Personality and Individual Differences, 12, 929–941.
+Watson, D., & Tellegen, A. (1985). Toward a consensual structure of

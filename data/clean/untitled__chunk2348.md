@@ -1,5 +1,9 @@
-# The Hybrid Years
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b8658b066469f2452f6355c3dfec12cfed555a6e
+title: untitled
+---
+# Test Development
 
-publication, and rapid popularity of normatively referenced psychological and educational tests. Emerging from proce- dures developed in laboratory settings, the use of tests gained ascendancy from the work ofAlfred Binet, whose scales were widely used in this country following their modiﬁcation and norming by Louis Terman in 1916. The Stanford Revision of the Binet-Simon Scales helped to deﬁne the segmentation of children for special education and was the hallmark of school psychology services for decades to come. Test devel- opment also occurred in academic achievement, vocational development, motor and sensory skills, and other areas. The testing movement was given additional impetus by the Army Alpha tests developed to select and classify recruits in World War I. These tests led to further development of group and in- dividual tests in numerous skill areas, many of which were used with schoolchildren. The Binet scales were frequently used by Gesell and other school psychologists of the period. Psychoeducational the need for expensive and cumbersome laboratory instruments and pro- cedures, provided a portability to psychological services that enhanced their development in several settings, especially in schools throughout the country (Fagan, 2000).
-
-tests, developed without
+Perhaps no other factor contributed more to the early role and function of psychologists in schools than the development,

@@ -1,9 +1,9 @@
-# AM
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 050a7678aeb5bd142d543df5f06dcda01b54e61f
+title: H08A5M-PDF-ENG
+---
+# KL
 
-Aparajita Mazumdar is senior research principal in the Gartner marketing practice, co-leading the research agenda for marketing technology. Her research focuses primarily on marketing strategy and technology topics such as cross-functional collaboration and marketing technology utilization.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Kristina LaRocca-Cerrone is senior director of advisory in the Gartner marketing practice, overseeing Gartner’s coverage of marketing leadership and strategy, cross-functional collaboration, proving the value of marketing, and marketing innovation and transformation.

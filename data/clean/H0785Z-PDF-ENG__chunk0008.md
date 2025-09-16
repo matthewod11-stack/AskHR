@@ -1,37 +1,29 @@
-# Where the Organization Has Been
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2af0784f1800c91fc5093ffe0c4587a3ebc8df6f
+title: H0785Z-PDF-ENG
+---
+## HBR / The Big Idea / What Defines a Successful Organization?
 
-Since its founding, HBR has sought answers to fundamental questions
+consistency, and predictability were top concerns; core competencies
 
-such as these: What’s the best way to organize a business? What is the
+were cherished foundations to build on; and leaders viewed the world
 
-right structure, and how should day-to-day decisions be made?
+from inside the organization looking out.
 
-About a century ago Henry Ford had a world-changing answer to
+To thrive today, however, companies must be able to detect external
 
-these questions. He built a business around top-down management
+changes from the outside in and have a built-in ﬂuidity so they can
 
-and assembly line mass production. By standardizing his automobiles
+continually adapt. They need to focus on individual customers, make
 
-and the steps taken to manufacture them, he lowered the cost per unit
+their core competencies dynamic, and rely on teams instead of a
 
-across the entire end-to-end value chain. That innovation, combined
+hierarchy — all by using the power of data and algorithms.
 
-with his decision to raise workers’ pay to $5 per day, was adopted by
+As we look back on a century of Harvard Business Review, we should
 
-other companies. This change drove industrial activity — making it
+also take time to look ahead — and recognize what the next iteration of
 
-possible for millions more people to own and enjoy everything from
-
-cars to Coca-Cola — and raised living standards around the world. Even
-
-as Ford’s company grew, though, its structure remained the same: a
-
-hierarchy in which business decisions were made in the C-suite and
-
-functions reported up to the president and chief executive.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a successful organization looks like.

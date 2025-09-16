@@ -1,7 +1,7 @@
-# HBR Staff/Unsplash
-
-When you work for a struggling company, it’s normal to feel compelled
-
-to work longer hours in hopes of righting the ship. This tendency is
-
-particularly true in business development when you directly impact
+---
+source_path: H07VTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b4671e00d43fcec08d266558f2295f486988ff8
+title: H07VTF-PDF-ENG
+---
+## Published on HBR.org / March 12, 2024 / Reprint H07VTF

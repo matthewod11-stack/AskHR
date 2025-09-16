@@ -1,21 +1,19 @@
-# of a reality television show.
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c1252ad3842d8651efe0981f4a70ecbc611bf98
+title: H08UGX-PDF-ENG
+---
+## Authenticity Is Overrated (and What to Do Instead), decades of
 
-Authenticity is the modern leader’s favorite cologne: applied heavily,
+psychological research studies show that power diminishes inhibition,
 
-performed loudly, and often confused for actual depth. Some executives
+weakens empathy, reduces self-control and any sense of obligation to
 
-have turned “no ﬁlter” into a leadership style, sharing impulsive
+others, and ampliﬁes the toxic traits leaders already possess. Dacher
 
-thoughts on everything from economic policy to workplace culture, as if
+Keltner’s “power paradox” shows how those who rise through prosocial
 
-billion-dollar decisions were shower epiphanies. Others have embraced
+behaviors often abandon them once they’re in charge. When combined
 
-a cult-of-personality approach, mixing spiritual jargon with corporate
-
-jargon, hosting barefoot meetings, and launching co-living ventures
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with the modern cult of authenticity, the result is a boardroom version

@@ -1,7 +1,7 @@
-# 84
-
-Verloo, M. and E. Lombardo, 2007. Contested Gender Equality and Policy Variety in Europe:
-
-Introducing a Critical Frame Analysis Approach. In M. Verloo, eds, Multiple Meanings of Gender Equality: A Critical Frame Analysis of Gender Policies in Europe. Budapest, New York: CEU Press, 21-49.
-
-Walby, S., 2004. The European Union and Gender Equality: Emergent Varieties in Gender
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 9d0f5efab094b2e13cbbf5e9321bd7472c78b567
+title: file_1
+---
+## visibility. Gender, Work and Organization, 16 (4), 451-470.

@@ -1,15 +1,23 @@
-# same.
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bae3298fda2bef3247ec8062e97417615d4a433
+title: S24053-PDF-ENG
+---
+# change as well.
 
-A version of this article appeared in the September–October 2024 issue of Harvard Business Review.
+. . .
 
-Gregory LeStage is a partner at Bain & Company based in Boston and an expert in leadership, team eﬀectiveness, and transformation.
+Since beginning its self-improvement work, the top team at Root has
 
-Sara Nilsson DeHanas is a partner at Bain & Company based in London and an expert in leadership, team eﬀectiveness, and transformation.
+become more purposeful. Members have more-constructive debates,
 
-Pete Gerend is a partner at Bain & Company based in Washington, DC and an expert in leadership, team eﬀectiveness, and transformation.
+delegate more of the right decisions, and are more collaborative and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+transparent. Communication is clearer. The company’s performance
 
-14
+has been excellent. Now Root is getting ready to launch another ﬁve-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+year strategy review, and although senior leaders are still working to improve their eﬀectiveness as a top team, they now know that they’re
+
+up to the task—because they’ve seen the results. Your team can do the

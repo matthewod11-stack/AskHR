@@ -1,19 +1,15 @@
-## HBR / Digital Article / Lessons from U.S. Army Special Ops on Becoming a Leader
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdb5508ec8e5d4784cff23615d1b68c311e3faaa
+title: H08VFN-PDF-ENG
+---
+## mental shift inhibits rumination, exasperation, resentment, and other
 
-The stress-enriched training of Special Ops might seem unsuitable for
+counterproductive psychological responses to stress.
 
-executive education. But real-life business is saturated with powerful
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-stressors, and there’s no more eﬀective way to prepare the brain than
+17
 
-through simulated failures punctuated with supportive coaching. In
-
-a world where VUCA is inevitable, better to learn its psychological
-
-pressures via structured exercises than to be suddenly forced to sink
-
-or swim on the job.
-
-Volatility and uncertainty can strike at any moment without warning.
-
-To prepare themselves for that moment, aspiring leaders must develop
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

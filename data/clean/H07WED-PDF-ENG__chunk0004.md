@@ -1,15 +1,17 @@
-# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 777031484c6317c7d9808f2937d87c7e590f679c
+title: H07WED-PDF-ENG
+---
+## projects and organizational resources from a holistic perspective, you
 
-However, in reality, CEOs hardly ever come from a project management
+should be a viable candidate to move up to a CEO-level position.
 
-position. The journey from project manager to CEO is often challenging,
+Especially now that we have entered the project economy.
 
-marked by what I call the “Gantt ceiling.” This is the barrier that
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-represents the hurdles and limitations that project management
+1
 
-professionals encounter as they aspire to reach the highest echelons
-
-of executive leadership. To illustrate this phenomenon, let’s look at two
-
-real-life stories of talented individuals who faced career stagnation in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

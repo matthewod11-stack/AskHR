@@ -1,19 +1,31 @@
-# panies reveals, a huge portion of their compensation——and presumably of the wealth
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 91f172ca17c082f009223313700cfc24abe6a2c8
+title: beo_chap7_1
+---
+## to failure, 81% of them between 0 and 30%.
 
-of many of them-—depends on how well the company is doing. Moreover, the value
+Several additional findings suggest that high-rank executives are particularly
 
-of their human capital is tightly related company returns. If the company is under-
+likely to overestimate outcomes related to their own actions or skills. First, overcon-
 
-performing, this is bad news for their prospects of keeping their job and reduces
+fidence tends to be observed especially in decision makers who have a position of
 
-their outside options. Thus, for compensation and career reasons alone, we would
+control—or at least have the illusion of control (Weinstein 1980). And who, if not
 
-expect top executives to be highly committed to the outcome of their investment,
+the person on top of the corporate (or divisional) ladder, is the person believed to be
 
-22The term “overoptimism” is sometimes used to refer to the overestimation of one’s own abilities
+the ultimate holder of control? A CEO has the ultimate say about the big strategic
 
-as well. The labeling suggested above follows the literature on self-serving attribution and allows us
+decisions and is the one who decides whether or not a large-scale investment goes
 
-to distinguish the overestimation of one’s own abilities (such as 1Q or managerial skills) and outcomes
+ahead. Such a position may induce the CEO to believe that he or she can also control
 
-relating to one’s own personal situation from the general overestimation of exogenous outcomes (such
+the outcome—and thus underestimate the likelihood of a bad outcome (March and
+
+Shapira 1987; Langer 1975). Second, personal commitment increases the occur-
+
+rence of overconfidence (Weinstein 1980). As a quick search in ExecuComp for the
+
+option and stock packages of the top four to nine executives of publicly traded com-

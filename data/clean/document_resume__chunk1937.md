@@ -1,5 +1,13 @@
-# Uniform Guidelines (see EEOC)
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 8edc858b70a5ec8c84ff238c1833b9f2714d95b3
+title: document_resume
+---
+# Burdine, 18
 
-Validity, 6, 14-15, 17, 20, 38, 44, 50,
+Theory X and Theory Y, 104 Tide VII (also see Civil Rights Act), 5,
 
-51,52, 53, 84, 85, 105-106, 109, 110
+9, 10, 12, 15
+
+Training (see Raters) Trait rating scales, 20, 21

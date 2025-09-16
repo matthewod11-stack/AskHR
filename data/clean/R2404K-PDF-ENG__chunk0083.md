@@ -1,19 +1,27 @@
-# objectives and the team’s ambitions.
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73a3e34555424334df05747b5675d5b1a2d0bf57
+title: R2404K-PDF-ENG
+---
+## strategies in other parts of our portfolio.”
 
-All this was accomplished while Cordis was navigating a complex carve-
+By using the growth driver model during the 2022 investment
 
-out from Cardinal Health, which involved completing more than 200
+downturn, Ajax was able to recruit a team of engineers from Nidus
 
-transfer-of-service agreements, executing exit agreements in more than
+Biomedical that had been struggling to raise venture capital for several
 
-90 countries, managing 4,000 employees and hiring several hundred
+transformative projects. The Nidus team had been pursuing innovations
 
-new ones, and setting up a new infrastructure and supply chain. It would have been exceedingly diﬃcult for the same management team
+to address signiﬁcant unmet needs in the acute and chronic heart-
 
-to execute this carve-out while pulling together an innovation strategy.
+failure spaces, which required large, lengthy, and costly clinical trials.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The team worked with Cordis-X on a series of more manageable projects
 
-15
+that were innovative but more iterative in nature. This approach
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+brought the team new capital to subsidize its pursuit of those higher
+
+risk, more transformative innovations—thereby satisfying both Ajax’s

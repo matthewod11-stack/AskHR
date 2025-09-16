@@ -1,7 +1,17 @@
-## or more elements of the problem at hand; and evidence of the
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa174c6050e2827d42687d74421a2ecbe1978d9b
+title: R2502D-PDF-ENG
+---
+## conventional, and ultimately ineﬀectual approach to innovating.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The second key is for every team member to fully internalize every
 
-13
+precedent before the team comes together. The leaders of Global
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Foods ﬁlled in a template for each of the 16 precedents they found
+
+in their search. The templates had three parts: detailed background
+
+on the situation; three to four insights that were relevant to one

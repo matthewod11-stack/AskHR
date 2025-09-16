@@ -1,7 +1,17 @@
-# Helen’s life choices.
+---
+source_path: H07MWV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03b6abf0c20e7fa465ed8c09b6f2a3f25457ad9c
+title: H07MWV-PDF-ENG
+---
+# decisions.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+The 1998 movie Sliding Doors oﬀers a great example of how
 
-3
+counterfactual thinking can help us understand the forces that shape
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+our decisions. The ﬁlm explores two alternate storylines for the main
+
+character, Helen (played by Gwyneth Paltrow), based on whether she
+
+catches an upcoming subway train or misses it. While watching both storylines unfold, we gain insight into diﬀerent factors that inﬂuence

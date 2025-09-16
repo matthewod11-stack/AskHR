@@ -1,17 +1,21 @@
-# HBR / Digital Article / Research: Flexible Work Is Having a Mixed Impact on Employee…
+---
+source_path: H07THH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c27affeabbcdc4d7a995dc1f7d16190d5e529393
+title: H07THH-PDF-ENG
+---
+# Bernd Vogel/Getty Images
 
-were experiencing more stress and more anger than employees who
+Flexible work is having an impact on employee well-being, according
 
-were working onsite full-time.
+to recent Gallup data. In our 2023 Global State of the Workplace Report,
 
-We also asked HR leaders at Fortune 500 companies, who are typically
+which represents more than 140 countries, employed individuals who
 
-responsible for their company’s health beneﬁts, whether they thought
+were working remotely either full time or part-time (hybrid) said they
 
-employees’ jobs were having a positive or negative impact on employee
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-mental health. Only 27% of CHROs who oﬀer the most ﬂexibility (requiring zero days in the oﬃce) said they saw a positive impact on
+1
 
-mental health, as compared to 29% of HR leaders who require one or two days per week in the oﬃce; 37% of HR leaders who require three
-
-days/week; and 47% of HR leaders who require four to ﬁve days/week.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,17 @@
-# buy-in and feedback loops.
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 065c6c4e06b340bcdc1f87adfc5a8fc001a71267
+title: H089ZD-PDF-ENG
+---
+## Netmarble, Korea’s largest mobile-gaming company, regularly hosts
 
-Experimentation is also core to K-brands retail strategy. Indeed, Seoul
+events where developers answer queries from users during live
 
-has become one of the global capitals with the highest concentration of
+broadcasts on YouTube. They also communicate with users through
 
-pop-up stores. In 2022 alone, more than 250 pop-up stores opened in
+monthly online notes addressing user suggestions and progress
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+updates. This use of communities to select or co-create products both
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+boosts desire and helps reduce the risk of failure through early market

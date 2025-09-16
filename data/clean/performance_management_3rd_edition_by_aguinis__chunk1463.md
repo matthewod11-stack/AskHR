@@ -1,5 +1,7 @@
-## Evaluation of a 360-degree Feedback System Demo
-
-Visit Hr-survey.com and click on the following link to see the demo: http://hr-survey.com/360Feedback.htm. Please view the demo questionnaire and results. Then, answer the following questions:
-
-- 1. What are the good features of this system? 2. What are the features that could be improved? (cid:2)
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: db9d3969ac31f1bf3d652c8584f7bdcad0bfda61
+title: performance_management_3rd_edition_by_aguinis
+---
+# CAS E ST U DY 8-2

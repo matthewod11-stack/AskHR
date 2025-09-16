@@ -1,5 +1,9 @@
-# Roberson and Perry
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: f6c843c427d1769a87e3be17789c6080c4143f35
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# Conclusion
 
-Declaration of Conﬂicting Interests The author(s) declared no potential conﬂicts of interest with respect to the research, authorship, and/or publication of this article.
-
-Funding The author(s) received no ﬁnancial support for the research, authorship, and/or publication of this article.
+As the workforce becomes increasingly diverse and organizations continue to operate in increasingly competitive environments, inclusive leadership may be viewed as a strategy to ensure that the potential beneﬁts of a diverse workforce are realized. That is, inclusive leaders play a critical role in creating environments in which different ideas, perspectives, experiences, and values are leveraged to foster the beneﬁts of diversity and enhance individual, team, and organizational outcomes. A key takeaway from this study is that prac- ticing inclusive leadership requires both a mindset and behaviors to create experiences of inclusionwhichensurethat everyone feels liketheyare part of the group, they can participate fully, and are valued for their contributions.

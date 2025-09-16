@@ -1,11 +1,13 @@
-# New Haven, CT: Yale University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fe5d2ecd09fe293d511890c5b492fe6f50be5f14
+title: untitled
+---
+# Psychological Review, 31, 93–117.
 
-Thurstone, L. L. (1952). L. L. Thurstone. In E. G. Boring, H. S. Langfeld, H. Werner, & R. M. Yerkes (Eds.), A history of psychology in autobiography (Vol. 4, pp. 295–321). New York: Russell & Russell.
+Thomas, W. I., & Znaniecki, F. (1918–1920). The Polish peasant in Europe and America (Vols. 1–5). Chicago: University of Chicago Press.
 
-Triplet, R. G. (1983). Henry A. Murray and the Harvard Psychological Clinic, 1926–1938: A struggle to expand the disciplinary boundaries of academic psychology. Unpub- lished doctoral dissertation, University of New Hampshire, Durham.
+Thorne, A., & Gough, H. G. (1991). Portraits of type: An MBTI research compendium. Palo Alto, CA: Consulting Psychologists Press.
 
-Tweney, R. D., & Budzynski, C. A. (2000). The scientiﬁc status of American psychology in 1900. American Psychologist, 55, 1014–1017.
-
-Vernon, P. E. (1933). The American v. the German methods of ap- proach to the study of temperament and personality. British Journal of Psychology, 24, 156–177.
-
-Warren, H. C. (Ed.). (1934). Dictionary of psychology. Boston:
+Thornton, T. P. (1996). Handwriting in America: A cultural history.

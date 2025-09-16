@@ -1,19 +1,25 @@
-# HBR / Digital Article / Research: People Still Want to Work. They Just Want Control Ov…
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c91e8d7c12fd3276f5cf1958f81c6c9af3fb788
+title: H08AWG-PDF-ENG
+---
+# Taiyou Nomachi/Getty Images
 
-bosses, on the other hand, have been pulling them in the opposite
+Workers — particularly those considered “knowledge workers” who are
 
-direction; executives and managers have been ﬁghting to get workers
+able to do most if not all of their work with a laptop and an internet
 
-back into the oﬃces that companies are paying a lot of money to lease. This struggle has aﬀected workers and companies alike. Workers quit en
+connection — have been ﬁghting for the right to maintain control over
 
-masse during a period that became known as “the Great Resignation,”
+their time for years. While working from home in 2020 and 2021, they
 
-and employers who instituted return-to-oﬃce mandates have struggled
+demonstrated to their bosses that they are able to maintain, or in some
 
-to hire and retain top talent. Now, especially with Gen Z making up
+cases even increase, their productivity while working ﬂexibly. Their
 
-an increasing share of the working population and the conversations
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-around hybrid work and returning to the oﬃce stagnating, demands for
+1
 
-increased ﬂexibility in work arrangements are still top of mind for many
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

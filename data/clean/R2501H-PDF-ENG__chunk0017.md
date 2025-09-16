@@ -1,23 +1,25 @@
-## reﬂect on the company’s culture and their own habits, work, and
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc94b44f891f0b38826f845db746c33ed0e384c6
+title: R2501H-PDF-ENG
+---
+## If conformity stiﬂes companies and silences employees, as challengers
 
-interpersonal styles. Challengers frequently support talented employees who wish to pursue courses and programs outside the company’s oﬃcial
+see it, then the boot camp typical of organizational learning often
 
-oﬀerings—be they cooking classes or spiritual retreats. Accountability
+makes it worse. Humanistic learning, in contrast, is best pursued
 
-comes from frank conversations about what those employees will do
+in a “playground,” where it’s self-guided and more personalized.
 
-diﬀerently at work as a result of what they’ve learned.
+Employees choose what to learn and when on the basis of their
 
-If military training is the obvious application of a boot camp, training
+interests, strengths, and personal goals; there is less emphasis on
 
-for an architect or an artist would be an appropriate one for a
+models, assessments, ﬁlling skill gaps, and the best practices of experts.
 
-playground. More and more companies are realizing that playgrounds
+When challengers program speakers, often they’re luminaries outside
 
-are valuable for leadership development, too. A playground inherently
+the company’s industry (artists, philosophers, other inspiring thinkers).
 
-allows people to acquire a larger variety of skills and viewpoints than
-
-they would at a boot camp—and develop the kind of agility and
-
-autonomy that’s required to lead. In the right contexts, playgrounds
+When challengers oﬀer classes, they favor workshops that help people

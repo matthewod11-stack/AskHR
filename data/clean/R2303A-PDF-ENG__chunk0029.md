@@ -1,17 +1,21 @@
-# initiative from there.
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19a751ba71c64a1ea1c69692ae0bbc137ea3c865
+title: R2303A-PDF-ENG
+---
+# team members.
 
-As you build, try to look at your new employees through a parent’s
+Remember that it’s OK to start small. You don’t need to bet the house on
 
-eyes. See their untapped potential. Give them opportunities. Keep your
+a big initiative right away. Begin by ﬁnding one person with a disability
 
-expectations high, but also aﬀord them grace and understanding. Be
+whom you can bring into your workplace—even for just a few hours
 
-their biggest cheerleader. (For what it’s worth, we think this is good
+one day a week—so that all those who don’t have a disability will start
 
-advice for managing people without disabilities too.)
+to get comfortable with being around someone who does. Trust us:
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Team members who are put in the right roles and set up to succeed
 
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+will display dedication and infectious enthusiasm. You can grow your

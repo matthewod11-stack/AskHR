@@ -1,11 +1,9 @@
-## Netmarble, Korea’s largest mobile-gaming company, regularly hosts
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9654ff9db63129e32f17674639285db19a0a2168
+title: H089ZD-PDF-ENG
+---
+## collaborations with other brands such a Puma, Converse, Zara, or
 
-events where developers answer queries from users during live
-
-broadcasts on YouTube. They also communicate with users through
-
-monthly online notes addressing user suggestions and progress
-
-updates. This use of communities to select or co-create products both
-
-boosts desire and helps reduce the risk of failure through early market
+even East Pack to quickly expand its cultural footprint. In gaming,

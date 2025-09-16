@@ -1,17 +1,27 @@
-## on the company’s overall strategy and the existence of in-groups and
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5061c938fac01089a9fdedabe29a331aa9f22551
+title: S24053-PDF-ENG
+---
+## experience of the team—everything from its culture and climate to
 
-out-groups. The CEO assigned the two business-unit heads to cochair
+its operations and routines. Survey your direct reports or run focus
 
-a series of strategy triage sessions and provided training in dilemma
+groups to get an outside-in perspective. Ask questions about whether
 
-management to help them identify interdependencies among their
+the team is demonstrating the ﬁve traits or not. Whenever possible,
 
-respective objectives. They soon shifted from obstructing or ignoring
+ensure anonymity and conﬁdentiality to encourage candor.
 
-one another to collaborating. Six months later, a follow-up survey
+This process reveals truths that can help a team get better faster.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Consider the experience of one ﬁntech CEO who, on the basis of
 
-11
+anecdotal evidence and his own observations, was certain that his
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+team’s struggles stemmed from animosity between two business heads.
+
+Anonymous surveys and conﬁdential interviews revealed that the
+
+problems went deeper, however, including a general lack of agreement

@@ -1,13 +1,27 @@
-# brand value.
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36db009b73039cfb2ce5e306c8549915d74c48ac
+title: R2502D-PDF-ENG
+---
+# advantage?
 
-A powerful way to find the best precedents is to create an innovation team whose members have as much work-life diversity as possible.
+That was essential to ﬁnding the 16 precedents that led to Global
 
-A third technique is allowing the framing to evolve—something that
+Foods’ industry-changing corporate innovation. For example, the Global
 
-corporate leaders and student entrepreneurs who conceive viable
+Foods executives saw how Nike, which had faced signiﬁcant backlash in
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the 1990s owing to allegations of overseas labor abuse, had reframed
 
-8
+the issue as an opportunity to lead the industry in ethical labor
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+practices. And they considered how Nintendo had turned criticism
+
+of gaming’s negative health eﬀects to its advantage by introducing
+
+the Nintendo Wii, which featured motion-sensing technology that
+
+encouraged vigorous physical activity and was therefore seen as a
+
+healthful gaming alternative, boosting Nintendo’s market position and

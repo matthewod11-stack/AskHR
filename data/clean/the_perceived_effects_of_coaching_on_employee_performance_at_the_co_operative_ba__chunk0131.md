@@ -1,33 +1,27 @@
-# 5.5(cid:32) Recommendations
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: f537608f48602f597260a937b14fd6255a6eeecd
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# 5.4(cid:32) Limitations of the study
 
-The recommendations to the study includes both suggestions to Cooperative Bank
+Out of the 100 intended respondents only 80 respondents from 20 branches
 
-Management as well as other human resources practitioners that wish to implement
+submitted their questionnaires. The sample size was also not large enough due to
 
-coaching in their organizations to manage the performance of their employees.
+time constraints. This left out valuable contribution from the respondents in the
 
-Given the significant impact of coaching on employee performance a number of
+remaining branches and head office units who are involved in coaching. These
 
-coaching sessions should be included in the training and development program for
+respondents could have added more information to the study.
 
-the organization. The inclusion of coaching should not have to be limited to
+(cid:51)(cid:53)(cid:32)
 
-improving employee’s performance on their current job. It should be designed to
+(cid:32)
 
-meet the goals of the organization as well as those of the employees.
+The study was focused on only one organization Cooperative Bank of Kenya. It
 
-A personal analysis should be done before commencing coaching to determine if
+therefore may not be representative of all organization in the country. However it
 
-the employee is ready for the program. The line manager should examine the
-
-employee’s current performance against the standard to help them identify strengths,
-
-weaknesses and needs. Records such as customer complaints, absenteeism,
-
-productivity reports can be used to determine the employee’s needs
-
-The line managers should undergo regular training to acquire skills and best
-
-practices in coaching. This will assist them in identifying the specific job
-
-performance skills needed and developing specific measurable and performance
+has taken into account other views along theoretical analysis.

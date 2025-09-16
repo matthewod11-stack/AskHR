@@ -1,7 +1,27 @@
-# your leadership.”
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7578547db3fccd6ee8be768f3f18ee1eee1ab10
+title: H08CUN-PDF-ENG
+---
+# Embrace tough feedback
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Sometimes the target of resentment is you, says Carucci. As a manager,
 
-4
+you’re the object for everyone’s unresolved issues with authority.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“You’re their seventh-grade gym teacher, their ﬁrst mean boss, and
+
+their awful uncle.” It’s not fun and it might not be fair — but you need
+
+to be open to the possibility that they could have a valid point. The
+
+absolute worst responses are defensiveness, dismissiveness, or passive
+
+aggression, Carucci says. Avoid feigned empathy and condescension,
+
+too. “No pursing your lips and saying, ‘Oh, poor you.’” Instead, approach
+
+the conversation with compassion and curiosity. “Ask for feedback to
+
+understand how your team members are metabolizing and experiencing

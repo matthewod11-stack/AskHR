@@ -1,33 +1,21 @@
-## immigrant leadership talent in comparison with the overall population of
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9c2a30bf1a2c43c1676739152bdbdb6c5f2a6c0
+title: H040YE-PDF-ENG
+---
+# HBR / Digital Article / What the Data Tells Us About Immigrant Executives in the U.S.
 
-business leaders. But given the disadvantage immigrants and ethnic
+Healthcare appears as the main sector of employment for executives (ca.
 
-minorities still face in the labor market, we expect ethnic and immigrant
+27% or 965) trained in the EU and Europe more broadly. While a
 
-leaders to be high performers. This is important as research has shown
+concentration of immigrant executive talent in the IT sector can be
 
-that organizations with the highest quality leaders were 13 times more
+explained by higher level of internationalization (foreign investment and
 
-likely to outperform their competition in key competitive metrics
+export) in this sector, their concentration in healthcare can be explained
 
-including ﬁnancial performance, quality of products and services,
+by the growth in demand for all types of talent in this sector globally.
 
-employee engagement, and customer satisfaction. The U.S. has
-
-traditionally had an advantage attracting immigrant talent from Europe
-
-and elsewhere. Yet, stricter U.S. immigration policy can mean that other
-
-governments will ﬁnd it easier to attract leadership talent that might
-
-otherwise end up in America. However, with the anti-foreign worker
-
-Brexit discourse in the UK, it is Canada that appears particularly well
-
-suited to gain an advantage in the competition for leadership talent. If the
-
-U.S. hopes to address its leadership shortage as its population ages, it
-
-needs to embrace immigration, and acknowledge the signiﬁcant
-
-contribution that immigrant executives already play.
+Further research will be required to gain insights into the performance of

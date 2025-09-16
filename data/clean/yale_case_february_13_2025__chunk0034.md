@@ -1,7 +1,15 @@
-# 16 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: d2c636d75848e02ba65e0b465858393869e88dbe
+title: yale_case_february_13_2025
+---
+# January 7, 2015. H01QOG.
 
-This case has been developed for pedagogical purpos a, serve as an endorsement of the organization in question, or illustrate either effective or ineffective management techniques or strategies.
+ Siegel, David. “A More Humane Approach to Firing People,” Harvard Business Review, August
 
-es. The case is not intended to furnish primary dat
+21, 2018. H04I9C.
 
-Copyright 2025 © Yale University. All rights reserved. To order copies of this material or to receive permission to reprint part or all of this document, please contact the Yale SOM Case Study Research Team: email case.access@yale.edu.
+ Wilkin, Kurt. “Should You Fire a Bad Hire?” Harvard Business Review, December 31, 2022.
+
+H07BP2.

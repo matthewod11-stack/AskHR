@@ -1,1 +1,9 @@
-# 9
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: 44dd61285cb7526879e3d7a857c628e76a1e2278
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# behavior. Two manuscripts
+
+Our study extends and empirically supports the premise that organizational norms and values are implemented through workplace culture, therefore it appears plausible to argue that workplace culture, in addition to employees’ personality characteristics, influenced the expression of deviant workplace behavior. Conscientiousness, followed by adjustment, agreeableness, openness to experience, and surgency, have a substantial link with deviances, with con- scientiousness being the most commonly observed person- ality and surgency being the least frequently observed (Abdullah & Marican, 2016). Nacˇ inovi’ et al. (2020), di Stefano et al. (2019), and Aleksi’c et al. (2019) explicitly investigated organizational culture as an organization- related component and personality traits as an individual- related factor in their analysis of both individual and

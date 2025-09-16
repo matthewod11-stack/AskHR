@@ -1,9 +1,17 @@
-# S.Bonaccioetal.
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: 8e6dd8743687fa10c5e6e3ae31c15a0865c68a9a
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# 456
 
-camp: We agree with Connolly that the obstacles to cross-fertilization (discussed subsequently) are formidable, but we also believe that the beneﬁts of cross-fertilization to make it worth our while to attempt surmount these obstacles.
+is any indicator, the IOOB community did agree. We are gratiﬁed by the interest and grateful to the commentators.
 
-Finally, Staw (2010) argues against a full integration of IOOB and JDM because ‘‘JDM research often misses (or willfully avoids) many of the most crucial elements of work behavior.’’ As discussed further in a subsequent section, we do not disagree with the need for generalizability. In addition, Staw does appear to be in favor of a moderate amount of cross- fertilization. Given the current low level of cross-fertilization, we do not believe that his position is implacably opposed to ours.
+A few of the commentaries disagreed to some degree with us regarding (a) whether there had already been a great extent of cross-fertilization and (b) whether cross- fertilization is beneﬁcial to the two ﬁelds. Hayes and Wooldridge (2010) argue that there has already been substantial overlap between these two areas. We agree—and are obviously pleased—that there have been some instances of extant cross- fertilization (indeed, we mentioned some in our focal article). However, from our perspective (see also the metrics we presented in our focal article, such as the representation in each other’s journals and conferences), those instances are too few and far between.
 
-On the other hand, many commenta- tors share our hopefulness that this ongo- ing exchange will be fruitful. To take just two examples, Reb (2010) maintains that ‘‘bridging the two [ﬁelds] is intellectually rewarding’’ and that the early difﬁculties incurred in research at the intersection of these two ﬁelds will fade away in time, whereas Rosen, Shufﬂer, and Salas (2010) are kind enough to say that our focal arti- cle ‘‘identiﬁed a potentially monumental opportunity’’ for interdisciplinary discus- sion and collaboration.
+Whyte (2010) appears to be slightly more optimistic than us regarding the amount of cross-fertilization that has already taken the glass place. Regardless of whether is viewed as half (Whyte, 2010) or full nearly empty (us), there does not appear to be much substantive difference between Whyte’s views and our own. In the case of goal setting, there has IOOB research and some been a lot of JDM research. However, as Whyte indi- IOOB researchers have typically cates, taken little notice of the JDM research on goal setting—and, on the rare occa- sions that they have (e.g., Locke & Latham, 2009), the reaction has been less than positive. Whyte notes that his view ‘‘is not inconsistent with the view that there in leverag- remains untapped potential ing JDM to elucidate phenomena that have traditionally captured the attention of IOOB researchers and practitioners.’’ Quite so.
 
-We found both the disagreements and the agreements helpful in further clarifying our thinking regarding the beneﬁts of, obsta- cles to, and ways of achieving integration between IOOB and JDM. In the rest of this article, we group the commentaries and our responses (including our thoughts about the future) according to some of the themes we had identiﬁed in our focal article (see Table 1 in focal article).
+for example,
+
+Connolly (2010) notes, as we did in our focal article, that recent exhortations for IOOB–JDM integration appear to have had limited success. However, Connolly then goes on to imply that such exhortations, per se, may be of limited utility (a sentiment echoed by Staw, 2010). Here, in contrast, we ﬁnd ourselves in the ‘‘glass half full’’

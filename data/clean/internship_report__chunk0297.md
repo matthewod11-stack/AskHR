@@ -1,3 +1,7 @@
-## Mr. Iqbal Karim Assistant Manager 60,000/-
-
-MBA in HRM under East West University 01 Jan 2015 – 31 Dec 2015
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 7e164cd93414e94fd54648950a0ac978c7e37ba5
+title: internship_report
+---
+## Highest Educational Degree Appraisal Period

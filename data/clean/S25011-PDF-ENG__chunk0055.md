@@ -1,13 +1,17 @@
-# their departments.
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf53ad85b62606751d162a0255a4c2b8e2bfa104
+title: S25011-PDF-ENG
+---
+# about AI.
 
-A version of this article appeared in the January–February 2025 issue of Harvard Business Review.
+Executives need to think broadly about how people, data, technology,
 
-Thomas H. Davenport is the President’s Distinguished Professor of Information Technology at Babson College, the Bodily Bicentennial Professor of Analytics at UVA’s Darden School of Business, a visiting scholar at the MIT Initiative on the Digital Economy, and a senior adviser to Deloitte’s Chief Data and Analytics Oﬃcer Program.
+AI, and analytics come together to improve business performance.
 
-Thomas C. Redman is the president of Data Quality Solutions and the author of People and Data: Uniting to Transform Your Business (Kogan Page, 2023).
+Process needs to lie at the core. After all, it’s through processes that
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+organizations deliver value. It’s time for senior managers to put process
 
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+back on their radar screens and begin to sort out how to make it better in

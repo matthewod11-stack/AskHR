@@ -1,3 +1,9 @@
-# 4 Very Good
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 513a5f189dc0c4537ee301402ad7b3803254fdaa
+title: document_resume
+---
+# Performance Appraisal
 
-Promotes and carries out public service activities. Serves on oi.ganizational boards for special events or programs. Submits informative and timely new releases regarding relevant educa- tional information and opportunities. Provides education to the public by writing newspaper articles on subjects of general interest and submitting them for approval.
+timely news releases regarding relevant educational information and opportunities.

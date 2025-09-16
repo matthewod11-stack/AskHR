@@ -1,37 +1,27 @@
-# problematic and abusive behaviors.
+---
+source_path: H08DZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b5ae0a5d0a35f3dc0167c308227d3694a9a1608
+title: H08DZN-PDF-ENG
+---
+## Defying Long Held Stereotypes and Default Theories
 
-It is also important to note that the stereotype of eﬀective leaders
+Our ﬁndings defy long-held stereotypes of women as solely emotional
 
-being rational and not driven by emotions has persisted despite the
+leaders and men as solely rational leaders. In the context of uncertainty,
 
-research indicating that leaders’ emotional tendencies aﬀect how they
+we show that whereas women’s leadership behaviors seem less aﬀected
 
-lead. In fact, leading with certain emotions can be a strength. For
+by their emotions, men’s leadership behaviors were more driven by
 
-example, a 2015 meta-analysis shows that leaders’ positive emotions
+their emotions — despite the fact that women reported higher levels
 
-are positively related with leadership eﬀectiveness, whereas leaders’
+of anxiety surrounding the pandemic. Yet, they were focused on
 
-negative emotions are negatively related with leadership eﬀectiveness.
+caring and supporting others during this time of need, supported
 
-As such, leading with positive emotions is indeed eﬀective. Critically,
+by our ﬁnding that women engaged in family-supportive supervision
 
-leaders’ displays of emotions are judged diﬀerently depending on their
+independent of whether they felt hopeful or not. By contrast, when they
 
-gender. Women leaders are particularly penalized for more negative and
-
-dominance-oriented emotions like anger and pride — but not showing
-
-emotions is also harmful for women leaders as that may violate the
-
-expectations that women are warm and communal.
-
-Our work also highlights that classical and common psychological
-
-theories, such as emotion appraisal theories, may not always apply
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+experienced higher levels of anxiety, men leaders tended to engage in

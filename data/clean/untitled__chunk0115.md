@@ -1,3 +1,7 @@
-# Winifred B. Maher, PhD Extension Studies Harvard University Cambridge, Massachusetts
-
-George Mandler, PhD Department of Psychology University of California at San Diego San Diego, California
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a1b29ce23443f7682702f45c1a4795bc4cbecfbb
+title: untitled
+---
+# Brendan A. Maher, PhD Department of Psychology Harvard University Cambridge, Massachusetts

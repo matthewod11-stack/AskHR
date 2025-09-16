@@ -1,11 +1,15 @@
-## polarized workforces, political dysfunction, and anger about corporate
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 816f461c96efd01bf090fc46e760aec3ce2ff3ca
+title: H07ZZW-PDF-ENG
+---
+## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
 
-hypocrisy. These issues are particularly fraught in the United States
+want them to take public stands on social issues — and that doing so
 
-in a charged presidential election year, though they resonate far more
+might confer an edge in hiring talent or attracting customers. But the
 
-widely. And increasingly, companies are facing backlash around what
+desire to balance stakeholder interests and speak up for employees on
 
-they are or are not saying on issues such as ESG and DEI, with many
-
-hesitating to defend their choices, and sparking further employee
+high-stakes societal questions is colliding with the realities of divided,

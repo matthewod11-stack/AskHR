@@ -1,31 +1,27 @@
-# HBR / Digital Article / Does Returning to the Office Support Your Company’s Strategy?
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 659aca31df010ed265d1421d72f052924dfb50e3
+title: H08N0B-PDF-ENG
+---
+## Embed Remote and Hybrid Work Into Your Business Strategy
 
-understand your organization’s current approach—and identify where
+You can avoid the shortcomings of these approaches by truly integrating
 
-you might need to make changes.
+remote or hybrid work into your strategy as it’s appropriate for
 
-- 1. Market and innovation goals
+your speciﬁc business, and developing the infrastructure (technical
 
-First, ask: What are our market and innovation goals—and can remote
+and cultural) to support it. The result is a work structure that
 
-or hybrid work support them? By connecting these goals to your work
+is directly connected to how your company supports operational
 
-policies, you’ll gain clarity on how your hybrid or remote work can (or
+excellence, innovation, and culture—and, as a result, how it achieves its
 
-can’t) beneﬁt your company long-term.
+ﬁnancial goals. We recommend focusing on ﬁve speciﬁc areas to better
 
-For example, one of Daysmart’s goals was expansion, which they didn’t
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-want sidelined during the pandemic. So, the business management
+3
 
-software ﬁrm embraced remote work as a cornerstone of its strategy,
-
-doubling its talent pool from six to over 30 U.S. states, as well as other
-
-global locations, thus extending its market reach.
-
-To bridge the gap between your market goals and a hybrid or remote
-
-strategy, map your market needs ﬁrst, then align hybrid and remote
-
-work strategy across critical job roles, teams, and locations. Identify
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,21 @@
-# HBR / Digital Article / A Guide to Building a Unified Culture After a Merger or Acquisiti…
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1ef2805f5275c42e06dfd4cd89ba6c0b3075bf6
+title: H08ON1-PDF-ENG
+---
+## best utilized for systems integrations, beneﬁts, and decision-making
 
-identifying who to turn to for more information. Access to an HR
+questions speciﬁcally, especially when the issues involved are unique to
 
-specialist would have helped.
+the employee. For example, one employee’s experience prior to parental
 
-Finally, when communicating with acquired employees, be clear about
+leave was made more stressful because the information she needed
 
-what will stay the same and be transparent about decisions that have
+couldn’t be found on the beneﬁts webpage, and she had a hard time
 
-yet to be made. A common frustration among acquired employees was
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-being told one thing only for it to change later; a better approach is
+6
 
-just admitting you don’t know the answer yet. Update the journey map
-
-regularly as new information becomes available.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

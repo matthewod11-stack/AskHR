@@ -1,21 +1,13 @@
-## three ideas: the “cigar butt” approach to buying businesses (which
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 095ac760f1fc316f6fe151ba9a95f0dc9ecc96d6
+title: R2502D-PDF-ENG
+---
+## model, Amazon’s online ordering and payment systems, the newly
 
-he learned from his Columbia Business School professor Benjamin
+invented DVD format from Japan, and centralized warehousing of
 
-Graham, who advised that companies with low valuations may have a
+digital content. Warren Buﬀett transformed the failing textile company
 
-few puﬀs of value left in them, much like a discarded cigar), the intrinsic
-
-cash-ﬂow value approach to investing in “great businesses at a fair
-
-price” (which Buﬀett got from his longtime partner, Charlie Munger),
-
-and using insurance ﬂoat—the cash collected from premiums before it
-
-has to be used to pay out claims—as a source of “free” capital (which
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Berkshire Hathaway into a value-creating powerhouse by connecting

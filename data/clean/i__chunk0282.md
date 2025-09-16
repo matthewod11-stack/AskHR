@@ -1,11 +1,13 @@
-# data, and Operational performance data
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 8dca1dc2377a0daca4c9aef3269596c9df65b0a2
+title: i
+---
+# employee themselves.
 
-HR database 'Age', 'Attrition', 'BusinessTravel', 'DailyRate', 'Department',
+According to Edwards and Edwards (2016), who summarized PA data sources into : HR
 
-'DistanceFromHome', 'Education', 'EducationField', 'EmployeeCount',
+database, Employee attitude survey data, Customer satisfaction survey data, Sales performance
 
-'EmployeeNumber', 'Gender', 'HourlyRate',
-
-'JobInvolvement', 'JobLevel', 'JobRole', 'YearsAtCompany', 'YearsInCurrentRole',
-
-'YearsSinceLastPromotion',
+54

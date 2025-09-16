@@ -1,9 +1,23 @@
-## and long-term security” (Play Not to Lose); “This transformation will
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7381b3bd87bb34f5a58f37d0722cc45f643827ed
+title: H08I7Y-PDF-ENG
+---
+## Eﬀective communication about change also isn’t one-size-ﬁts-all. Tailor
 
-enable us to innovate and stay competitive, while also maintaining the
+it to resonate with diﬀerent motivational styles. At Debora’s ﬁnancial
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+institution, we coached leaders to frame changes diﬀerently across
 
-5
+departments, depending on their dominant styles. Examples include:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“With this new platform, we’ll lead the market by oﬀering innovative
+
+services and products that our competitors can’t match, positioning us
+
+as a frontrunner in the industry” (Play to Win); “If we don’t implement
+
+these changes, we risk falling out of compliance, losing our trusted
+
+position with regulators and clients, and endangering our reputation

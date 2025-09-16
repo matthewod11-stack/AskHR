@@ -1,11 +1,11 @@
-# Needs, Values, and Wants
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 164326d656fdb9b88bf2e9fc0018e99de29863ff
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Job Characteristics
 
-A discrepancy between an employee’s needs, values, and wants, and what a job offers can also lead to low levels of motivation and satisfaction (Morris & Campion, ). Three theories focus on employees’ needs and values: Maslow’s needs hierarchy, ERG theory, and two-factor theory.
+According to job characteristics theory, employees desire jobs that are mean- ingful, provide them with the opportunity to be personally responsible for the outcome of their work (autonomy), and provide them with feedback of the results of their efforts (Hackman & Oldham, ). If there is a discrepancy between the extent to which a job provides these three outcomes and an employee’s need for these outcomes, the employee will be less motivated.
 
-employee motivation
-
-333
-
-334
-
-chapter 
+According to job characteristics theory, jobs will have motivation potential if they allow employees to use a variety of skills (skill variety) and to connect their efforts to an outcome (task identification) which has meaning, is useful, or is appreciated by coworkers as well as by others in society (task significance). Take, for example, a job in which a factory worker stitches the company logo on shirts that were created by other workers and in which the quality of the shirts and the logo stitching are evaluated by employees in the quality control department. Because the job does not involve a variety of skills (lacks skill variety), someone else checks the quality of their work (no feedback, low task identification), putting logos on a shirt is probably not appreciated by society (low task significance), and the employee is closely supervised (low autonomy), the job would be considered to have low motivation potential. As shown in Table ., meta-analysis results demonstrate that jobs with a high motivating potential score result in higher lev- els of employee satisfaction and performance, and lower levels of absenteeism (Fried & Ferris, ).

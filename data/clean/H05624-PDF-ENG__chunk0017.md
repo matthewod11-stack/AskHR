@@ -1,25 +1,19 @@
-# society.
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc03c4b48b2caf6b1db8afd701a4c413d4e56f2f
+title: H05624-PDF-ENG
+---
+# with our children.
 
-Why are you also advocating for public policy change?
+So I hope the surprise starts to go away. I want to see men taking their
 
-America is the last developed country to have this. The fact that a
+responsibilities as fathers seriously in my companies. I want us all to
 
-quarter of women in this country go back to work two weeks after giving
+have the conﬁdence to say, “I’m leaving early today to pick up my kid.”
 
-birth because there is no policy in place to guarantee they can spend
+No one could look at my history and accuse me of not being a hard-
 
-time with their newborns is unconscionable. This includes women who
+charging and career-driven entrepreneur. But I really, really believe that
 
-had C-sections, who still have semi-open wounds. How are we — as a
-
-nation that believes in the importance of family values — okay with
-
-that? But I’ve been encouraged by the organizations ﬁghting for it, and
-
-the data behind it, and the fact that there are so many voices from the
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+these things are not mutually exclusive. And I think this shift is good for

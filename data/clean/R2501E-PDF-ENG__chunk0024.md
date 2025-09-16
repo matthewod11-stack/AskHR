@@ -1,11 +1,7 @@
-## senior-level succession planning across the
-
-Kristiansen family assets was a critical task
-
-in which he played a key role. But although
-
-he was excellent at it, he knew that ﬁrst-
-
-rate resources were available from outside.
-
-So he engineered the hiring of an
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6cb0910a5d5b7b24cfc7cb76652469dbb726f57
+title: R2501E-PDF-ENG
+---
+## At Lego, Jørgen Knudstorp understood that

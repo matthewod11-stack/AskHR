@@ -1,15 +1,51 @@
-## public grandstanding and more internal individual involvement and
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 168437c2e037543fd88847e4752729d2c04f6b04
+title: H07ZZW-PDF-ENG
+---
+# on Slack, out of sight of management.
 
-accountability. Employees should be encouraged to share positive
+Leaders, for their part, need to adapt in order to run today’s ﬂuid,
 
-examples of staﬀ activity, highlighting exemplary ethical behavior. They
+networked organizations. Barking orders from above while tuning out
 
-should be involved in shaping the commitments an organization makes
+employee sentiment has become wholly impractical. Megan Reitz, an
 
-and in pondering the trade-oﬀs and limitations it faces. Not least, they
+associate fellow at Saïd Business School, has worked for years on ways
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+to improve the speaking-up process, and she sees this as a central
 
-19
+leadership challenge. “How you respond in an agile way has had to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+shift from the traditional notion of someone at the top making all key
+
+decisions,” she tells me. “We need reminding that a leader’s perspective
+
+is not the [whole] truth, because we all think that how we see the world
+
+is the way it is. You need to do more than you realize, and you need to do
+
+more than just inviting speaking up.”
+
+A 2021 academic study showed that listening, empathy, and
+
+persuasiveness have become far more valued qualiﬁcations in C-suite
+
+job descriptions and recruiter checklists. In an era of soft corporate
+
+boundaries and intangible value, an ability to tap into and leverage
+
+inﬂuence has become indispensable. So have familiarity with — and
+
+competence at handling — pressures regarding social responsibility.
+
+Organizations need to solicit and support employee voice at all levels.
+
+They also need to continually emphasize the importance of individual
+
+accountability. That means taking a more considered and restrained
+
+stance on questions of corporate voice and advocacy. They’d be well
+
+served by striving to build more-tolerant cultures that feature less

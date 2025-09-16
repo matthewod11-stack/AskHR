@@ -1,47 +1,23 @@
-# HBR / Digital Article / Research: The Risks of Founding a Startup Near Big Companies
+---
+source_path: H08HCJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee03654f9c2c91b16224b036c9ed8dc8a69376d1
+title: H08HCJ-PDF-ENG
+---
+# How to Compete in Dense Markets
 
-landscape analysis. For startups considering pivots: When possible,
+So how can startups incorporate these ﬁndings when making a location
 
-take advantage of complementarity to the incumbent’s technology. As
+decision? We oﬀer some suggestions.
 
-our studies found, ﬁrms who have very similar businesses may have a
+Critically consider the talent your business will require.
 
-smaller negative impact on a startup’s ability to scale.
+For startups considering moves, it is important to incorporate the
 
-For potential investors, the same applies in reverse. In an analysis of
+presence of large ﬁrms — including those in other sectors – into a
 
-prospective ventures, ﬁnanciers should try to understand the labor
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-requirements that scaling will bring, and consider how important
+3
 
-potential labor markets are to a company’s success.
-
-When engaged in competition for talent, broaden your horizon.
-
-Startups based in crowded regions still have several ways to avoid
-
-head-to-head salary competition with incumbents. They can focus
-
-on internal advancement opportunities, emphasizing the chances of
-
-individuals to have impact and to develop a strong employer brand.
-
-Internal development may be most important for the managerial,
-
-STEM, and sales positions that are most aﬀected by crowding, so eﬀorts
-
-should be targeted to those, and special economic incentives should be
-
-deployed there.
-
-Besides internal advancement, startups should explore alternative ways
-
-of talent acquisition, particularly if the formal labor market is clogged,
-
-personal networks are exhausted, and headhunters are too expensive.
-
-Startups should remain nimble and play to their strengths in terms of
-
-allowing remote work to shed the limitation to the local labor market.
-
-These can be networks, internship and apprenticeship opportunities,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

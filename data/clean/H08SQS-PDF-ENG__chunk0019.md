@@ -1,23 +1,21 @@
-# HBR / Digital Article / Research: Executives Who Used Gen AI Made Worse Predictions
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df0be20f23df0f5c9ad9e291153a8b3b6a4760ea
+title: H08SQS-PDF-ENG
+---
+## Why AI Created Overconfidence and Optimism
 
-- 1. Extrapolation and “trend riding”
+What might explain these very diﬀerent outcomes? Why would
 
-ChatGPT may have encouraged extrapolation bias. The AI’s knowledge
+consulting an AI tool lead to inﬂated estimates and overconﬁdence,
 
-is based on historical data, so it might have simply extended Nvidia’s
+while peer discussions provoked greater humility and conservatism? We
 
-recent upward trend into the future. Indeed, Nvidia’s stock had been
+have isolated ﬁve reasons:
 
-climbing steeply in the months leading up to our sessions. Lacking
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-up-to-the-minute context or any sense of an upcoming turning point,
+4
 
-ChatGPT’s analysis likely assumed “what has been going up will keep
-
-going up.” The AI’s guidance, based purely on past data patterns, may
-
-have skewed toward optimism by default.
-
-- 2. Authority bias and detail overload
-
-Many executives in the ChatGPT condition reported being impressed
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

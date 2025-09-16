@@ -1,13 +1,25 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8bfb7c0c6b203d06789eee1945746a787a933097
+title: H07T7V-PDF-ENG
+---
+# the time.
 
-If you can work on these norms of science, argue about evidence,
+A norm is a behavior that the people around you expect. Maybe
 
-of ownership, push authority and decision-making down to an
+it’s written down in the employee manual. Very often it’s not. It’s
 
-uncomfortable degree, speed, iterate, don’t plan, don’t analyze, build
+community policing. It’s what the people around you expect. If you go
 
-stuﬀ, get feedback, learn from reality and then openness. Don’t be
+out of line and violate a norm in a community, you will know that fairly
 
-defensive. Be willing to pivot. Be willing to admit that you’re wrong.
+quickly and you will either come back into line or you’re just not going
 
-They show a little vulnerability. Those are the norms that are critical for
+to stick around very long.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+15
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

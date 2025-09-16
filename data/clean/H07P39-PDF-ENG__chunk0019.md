@@ -1,17 +1,25 @@
-## HBR / Digital Article / 6 Ways to Become a More Collaborative Leader
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7600aba5307f052bcfb411968ced182b0f6c788
+title: H07P39-PDF-ENG
+---
+# Understand the organizational culture.
 
-to which behaviors are rewarded and which aren’t as eﬀective. Watch the most eﬀective leaders in the organization and consider asking
+Whether we like it or not, how inﬂuential we are is ultimately in the
 
-them how they might approach a particular situation. Is their approach diﬀerent from yours? When you understand the “rules” of the game,
+hands of those we want to inﬂuence. And inﬂuence is highly context
 
-you’ll be in a much better position to play it.
+dependent. Instead of sticking to your guns and putting yourself out
 
-Choose your battles.
+there without understanding the context you’re operating in, a better
 
-Crusaders tend to advocate for changing big things — things that, to
+approach is to identify how things work in your organization. Look for
 
-their frustration, are complex and require a winning coalition. And
+clues about what works and what doesn’t. In meetings, pay attention
 
-in some instances, the crusader isn’t the right person to make those
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-changes. For instance, suppose you’re a manager at a software company
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

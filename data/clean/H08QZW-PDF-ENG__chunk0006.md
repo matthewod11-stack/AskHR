@@ -1,31 +1,29 @@
-## lecturer of management communication at Cornell SC Johnson College
+---
+source_path: H08QZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 206bdc4b7573234db394c2ee549de34e2d991a6c
+title: H08QZW-PDF-ENG
+---
+# What the Experts Say
 
-of Business. “Good leaders acknowledge reality without hesitation.” But
+Between losing colleagues, adjusting to new reporting lines, and the
 
-they also leave room for hope and optimism about the future. Here’s
+prospect of having to do more with less, your employees are processing a lot. What you say (and how you say it) at your next all-hands can
 
-how to strike this balance.
+either oﬀer relief—or create more pressure, says Leslie DeChurch, an
 
-Set a shared vision
+organizational psychologist and Chair and Professor of Communication Studies at Northwestern University. People react to diﬃcult news on
 
-In the wake of hard news, the purpose of an all-hands meeting is “to
+both an emotional and rational level and “as a leader, you need to strike
 
-create a shared mental model of where things stand now, what led to
+a balance by addressing both,” she says. “Focus only on the rational—
 
-that point, and the path the organization is on,” according to DeChurch.
+budget cuts, layoﬀs, halted initiatives—and you risk coming across as
 
-People often come to the meeting with assumptions based on what
+cold or distant. Lean too far into pathos—‘This is devastating,’ or ‘We’re
 
-they’ve heard or read, but to move forward constructively, everyone
+in trouble’—and you risk pulling people into a downward spiral.”
 
-needs to be on the same page, she says. As you prepare what you’ll
+Your vibe should be to “meet people where they are by recognizing their
 
-say—and yes, bring notes—DeChurch advises being “intentional about
-
-the message you want people to walk away with,” and how it maps
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+fears,” but not dwelling on them, says Theomary Karamanis, senior

@@ -1,9 +1,33 @@
-# walks into your schedule.
+---
+source_path: H07FTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6cc7b1dca71ac53a8284dc33998dad71b53230f7
+title: H07FTS-PDF-ENG
+---
+## HBR / Digital Article / Is It Time to Shake Up Your WFH Routine?
 
-These changes in your environment matter and mean you need to
+Finally, you could add a little spice to your routine by incorporating
 
-think carefully about all the parts of your day. For example, should
+something new and fresh. For example, if you sign up for ClassPass,
 
-you adjust your start time to later or earlier? Do you need to look into
+you can try out a variety of gyms in your area. Each week could be
 
-carpooling help for school or sports? Does your exercise schedule need
+an opportunity to experience something new. Or you could search
+
+MeetUp.com for events happening in your area. Sometimes having
+
+something to look forward to in the evening hours can make you much
+
+more focused in the daytime hours. Clients I’ve worked with have also
+
+said that being in a setting where it would be rude to be on their phones also helps their minds really shut oﬀ from work.
+
+Reason #2: Your household routines have changed.
+
+Another reason to adjust your work-from-home schedule is to account
+
+for shifts that may have happened not to you, but around you. For
+
+example, maybe your spouse has gone back to the oﬃce, so they’re gone
+
+most of the day, or your kids have changed schools so the pick-up and drop-oﬀ times are diﬀerent, or you got a puppy and now you need to ﬁt

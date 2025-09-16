@@ -1,23 +1,15 @@
-## HBR / The Big Idea / Harnessing the Power of Age Diversity
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0de5cd2346e33165e21b3a59268f7a195b76f4e4
+title: H06WA9-PDF-ENG
+---
+## Aaron Hornbrook, a customer service manager and vice president at
 
-with his multigenerational team. At the beginning of each, Hornbrook
+Wells Fargo we’ve interviewed, holds monthly roundtable meetings
 
-reminds everyone that their mission is to help customers with their
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-application- and account-related questions and that success will require
+11
 
-both trust and willingness to listen to the perspectives of the entire
-
-group. His eﬀorts have borne fruit: For example, his Millennial and
-
-Gen Z employees feel comfortable voicing their concerns about mental
-
-health in the workplace — a subject previously considered taboo by
-
-some of their older colleagues. These conversations helped Hornbrook
-
-and other senior colleagues understand why paid-time-oﬀ requests
-
-had spiked recently and prompted them to ﬁnd ways to reduce
-
-employee anxiety, including by requiring supervisors to hold one-on-
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

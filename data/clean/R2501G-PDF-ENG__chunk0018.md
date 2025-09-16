@@ -1,19 +1,25 @@
-# Jamie Chung/Trunk Archive
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c90960f989e7bed783a0ae117f2d62d8ab1ef37b
+title: R2501G-PDF-ENG
+---
+# successful experiments.
 
-never synthesized to identify patterns and
+Motivated to turn every experiment into a
 
-generalizable lessons; nor are they
+success, teams often overanalyze each one,
 
-archived in a standardized fashion. As a result, it’s not uncommon for diﬀerent teams (or even the same team after its members have turned
+with data scientists spending more than 10
 
-over) to repeatedly test an unsuccessful idea.
+hours per experiment. The results are
 
-Looking to increase the adoption of and returns from experimentation,
+disseminated in memos and discussed in
 
-data science and product leaders tend to focus on incremental changes:
+product-development meetings,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+consuming many hours of employee time.
 
-4
+Although the memos are broadly available
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in principle, the ﬁndings they contain are

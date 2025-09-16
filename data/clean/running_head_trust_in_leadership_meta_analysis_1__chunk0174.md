@@ -1,9 +1,7 @@
-# Leadership Quarterly, 27, 634-652.
-
-Bass, B. M. (1985). Leadership: Good, better, best. Organizational Dynamics, 13, 26-40.
-
-Bass, B. M. (2000). The future of leadership in learning organizations. Journal of Leadership
-
-Studies, 7, 18-40.
-
-Bass, B. M., & Avolio, B. J. (1990). Developing transformational leadership: 1992 and
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 2c49039e3e003c908ce6738b8df4abfa6345aff3
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## review of authentic and transformational leadership: A test for redundancy. The

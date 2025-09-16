@@ -1,9 +1,23 @@
-# (The Family quadrant.)
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 039c1655c41d8643f5a816eef09de0f7c53db0a8
+title: H08VZI-PDF-ENG
+---
+## Building a High Performance Team: Where Are You on the Map?
 
-- Do people do hard things, such as naming inconvenient truths and
+The ﬁrst step in achieving a Last 8% Culture is understanding where
 
-having tough conversations, but not feel as connected to each other as
+your team currently stands. You can start assessing your culture and
 
-you or they would like? (The Transactional quadrant.)
+norms by reﬂecting on which of the map’s quadrants feels most like
 
-- Do people avoid doing hard things and also feel disconnected from
+how things get done on your team. Ask yourself the questions below,
+
+drawn from the assessment we use with clients—and be honest with
+
+your answers, even if they’re uncomfortable.
+
+- Do people feel connected to each other, but avoid doing hard things
+
+such as naming inconvenient truths and having tough conversations?

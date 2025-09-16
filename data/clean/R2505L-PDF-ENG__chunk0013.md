@@ -1,27 +1,21 @@
-## the company (a hardware manufacturer) and the fake news story
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 838896024c66e1d848afbbc87bd128d5b5d204ec
+title: R2505L-PDF-ENG
+---
+## HBR / Magazine Article / How to Counter Fake News
 
-(exploding batteries). Across both experiments, we consistently found that individuals believed that the fake news would aﬀect others more than themselves. This eﬀect was especially pronounced for companies
+speaking Arabic. The story was based on actual fake news that had been
 
-that had a positive reputation.
+shared online about Delta in 2016 and ﬂagged as fake by Snopes.com. We then measured how the story aﬀected the participants’ personal
 
-In an age where information is abundant and untrustworthy, Sideline Collective’s Joseph Ernst imagines a world in which there’s nothing in the news.
+judgments of the airline, as well as their beliefs about how others saw
 
-In a third study, we found that individuals adjusted their own
+the airline. We also tested whether awareness that the news story was
 
-reputation judgments and behavioral intentions based on what they
+fake inﬂuenced judgments: Half of the participants were shown a “fake
 
-believed others thought. Participants were placed in a simulated
+news warning,” and the other half received no warning. We found that the warning had a minimal eﬀect on reputation judgments.
 
-group chat where everyone was asked to discuss a news story about
-
-a restaurant chain. The story falsely claimed that rat poison had
-
-been found in the company’s food. Before joining the chat, some
-
-participants were told that the other members in the group held a
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+In another experiment, we followed a similar approach but changed

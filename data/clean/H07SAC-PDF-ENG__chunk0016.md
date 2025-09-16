@@ -1,13 +1,25 @@
-# forward momentum.
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a004b730ef0a09f4c8bd76229ae291a2853e137
+title: H07SAC-PDF-ENG
+---
+## HBR / Digital Article / When Your Vacation Wasn’t Exactly Relaxing
 
-- 5. Clarify what you need for future time off.
+shutting oﬀ notiﬁcations, blocking distractions, or writing in a journal
 
-Use this experience as a learning opportunity to set the ground for a
+each night. Seek out habits and routines that feel replenishing in
 
-more replenishing vacation in the future. Decide how much structure
+your day-to-day life. You can leverage practices such as timeboxing to
 
-was energizing versus draining on your energy. Who do you want
+optimize your energy for the things that matter to you.
 
-to spend time with and how far do you want to travel? How much
+It can be tempting to try to overcompensate but don’t let remorse
 
-communication with your team do you need for your own wellbeing and
+drive your actions. Rather think about the routines that will work
+
+within the context of your daily life so that your habits can be
+
+sustainable. Determine what you need to do today to get back on
+
+track, leave remorse out of the equation and do what you need to create

@@ -1,13 +1,9 @@
-# Accidents increase by 35% (Vernon, 1936)
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 21a5e34d4c8a582de41f4adf9562d810798f63a8
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Manual performance declines (Clark, 1961)
 
-45
-
-Accidents at munition plant increase by 30% (Osborne & Vernon, 1952, cited in Harrell, 1958)
-
-40
-
-35
-
-30
-
-25
+50

@@ -1,13 +1,21 @@
-# company capabilities.
+---
+source_path: H08V5N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f736efba3366a80a13fb76650a4ee83722515a7
+title: H08V5N-PDF-ENG
+---
+## HBR / Digital Article / How to Sync Your Budget with a Strategic Plan
 
-The result? Crossed wires, muddled priorities, and leaders ﬂying
+However, in practice, this neat coupling is hard to achieve. Why?
 
-blind when making strategic decisions. This misalignment creates
+Because strategic plans and budgets are built on incompatible
 
-confusion, weakens execution, and fuels internal conﬂict. A strategy
+frameworks. They don’t speak the same language. Budgets are
 
-team expecting funding for long-term digital initiatives might come
+concerned with ﬁnancial projections and cost control and are structured
 
-up against a ﬁnance team expecting measurable returns this year;
+around categories of income and expenses. Whereas strategic plans
 
-middle managers might not not know whose directives to follow –
+aren’t and, in practice, can be structured around anything the plan’s
+
+creator chooses – such as market opportunities, value propositions, and

@@ -1,9 +1,7 @@
-# (cid:129) moral fall.
-
-In regard to the consequences to the individual, it is important to highlight that not always the reason of the turnover is related to the organization. There are personal reasons such as changing of spouse job, the wish to dedicate to family or to indulge in another activity. The change of enterprise reaches the individuals in all spheres of life, since we must have a full vision of the individual, not only under the professional perspective. The individuals who remain in the organization are also affected as many of them start to question their careers, feel the loss of the contact with job colleagues and do not even have the commitment and the satisfaction in job that leads to instability. Moreover, they can be overworked by assuming activities of the employees who leave the organization.
-
-In regard to consequences to society, according to Mobley (1992), the excessive turnover may increase the costs of production and result in a deficient productive capacity, due to the lack of trained people. The absence of qualified professionals in a determined region may result in an inviable determined operation, thus affecting the region socioeconomically (Silva et al., 2013).
-
-Table I portrays some of possible negative consequences of the turnover mentioned in this section, in regard to organization perspective, individual (who stays and who leaves the organization) and the society.
-
-the organization, bringing other persons with new knowledge, expertise, ideas and professional experiences. Following the same rationale, Dalton and Todor (1979), Staw (1980), and Mobley (1992) in their studies provided ways by which the turnover may increase the organizational effectiveness such as through reduction of conflicts in extreme cases, increase in the internal mobility due to new opportunities coming in, stimulus to innovation and flexibility, increasing in employees’ moral when an undesired superior or colleague leaves the organization, etc.
+---
+source_path: emerald_rege_rege603931_84_101.md
+pages: n/a-n/a
+chunk_id: a1239f6a82ac5624bdeb33653668580a22ee761b
+title: emerald_rege_rege603931_84_101
+---
+# loss of expertise/Know-how; and

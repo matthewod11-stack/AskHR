@@ -1,23 +1,21 @@
-# drop job titles.)
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50dcfe5fa0885b9655ed036fb093dc8ebafc0c7e
+title: R2403D-PDF-ENG
+---
+## continued engagement and performance of in-house employees. Those
 
-This is happening at a time when employees are demanding more and
+workers bear the brunt of jumping in when the unexpected happens.
 
-tolerating less. A 2023 HP study of 15,600 workers in 12 countries found
+More than ever, employers count on them to keep the business running
 
-that expectations have changed dramatically since the pandemic. In
+smoothly and do the right thing to achieve the outcomes the company
 
-particular, organizations will need to address unhealthy relationships
+needs. In-house employees are prized as much for their willingness to
 
-at work in order to retain valued employees. For example, 83% of
+show up and pitch in as they are for their skills. (Indeed, already 71%
 
-employees said they would take a pay cut to be happier at work.
+of employees say that their job description no longer matches the work
 
-According to a 2023 study by the American Psychological Association,
-
-64% of U.S. employees characterize their workplaces as “toxic,” citing
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they’re actually doing, and 24% say their organizations have begun to

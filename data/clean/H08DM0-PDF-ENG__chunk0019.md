@@ -1,19 +1,29 @@
-# Escalate concerns if necessary.
+---
+source_path: H08DM0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 087cd6b898fbd903b4310efc10736f22977951ff
+title: H08DM0-PDF-ENG
+---
+## HBR / Digital Article / When Your New Boss Won’t Stop Making Hasty Decisions
 
-If your boss is making hurried decisions that are detrimental to the
+Keep your colleagues close.
 
-organization, it may be necessary to escalate your concerns to other
+Martin recommends talking with your colleagues about the beneﬁts and
 
-leaders, according to Martin. For instance, don’t hesitate to speak up
+drawbacks of your boss’s decisions. It’s an opportunity to gauge your
 
-if your boss makes a decision that conﬂicts with the company’s ethics,
+team’s perspective and serve as “a gut check” to determine if others
 
-principles, or values. The same goes if your boss is resistant to asking
+share your concerns, he says.
 
-or answering questions, or they’re unwilling to take feedback about
+That said, you don’t want these conversations to turn into full-ﬂedged
 
-decision-making. Finally, if you have expertise or a strategic perspective
+gripe sessions. Keep the tone positive. As Martin says: “It’s in the team’s
 
-you believe is vital to the business’s success, “don’t sit on your hands,”
+best interest to focus on making this person successful. Ultimately, if
 
-he says. Remember: Your priority is the long-term well-being of the
+your boss is great, the team is great.” If issues persist, though, you might
+
+need to voice concerns with other leaders. (See below.) “You’ll have
+
+more power in your collective voice,” he notes.

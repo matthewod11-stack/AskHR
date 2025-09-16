@@ -1,17 +1,25 @@
-## applicable in a professional context—like fairness, transparency, or
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c3e3b40bffbbafa8af4582dc56db90f6ba5c53ca
+title: H08UGX-PDF-ENG
+---
+## on everything from geopolitical crises to cultural controversies. But as
 
-respect—rather than parading one’s personal beliefs about every news
+NYU’s Alison Taylor argues in her brilliant book Higher Ground, such
 
-headline. You don’t need to tweet your virtue to lead virtuously.
+moral grandstanding often backﬁres, sowing division rather than unity.
 
-- 3. Emotional intelligence is a form of impression management.
+Values, by deﬁnition, are polarizing. And while it’s tempting to think
 
-Authenticity is often conﬂated with honesty. But in leadership,
+that leaders should be moral compasses, the workplace is not a church,
 
-what matters more is emotional intelligence: the ability to manage
+and employees are not a congregation. When a CEO speaks out on
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+contentious issues, they may win applause from one faction but alienate
 
-4
+another. This is especially problematic in global organizations, where
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ideological diversity is the norm, not the exception.
+
+A more productive approach is to lead with values that are universally

@@ -1,13 +1,21 @@
-# AgentOps as well.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 38b003bf0b3187eca4ecc8b2a6f62fe6832b1fe0
+title: agents_companion
+---
+## Figure 1. Relationship between DevOps, MLOps, and AgentOps.13
 
-Remember that new practices don't replace the old. DevOps and MLOps best practices
+Each of these “Ops” requires capabilities like version control, automated deployments
 
-are still necessary for AgentOps, as they are dependencies. For example, Agent tool use,
+through CI/CD, testing, logging, security and (critically) metrics. Each system often
 
-where APIs are invoked based on agent orchestration, often uses the same APIs you would
+implements some form of optimization based on metrics – measuring what your system
 
-9
+is and isn’t doing, measuring the outcomes and business metrics, and automating the
 
-invoke with non-agentic software. Authentication and secret management, security, privacy,
+processes for more holistic metrics, and incrementally improving step by step. This practice
 
-exception handling, throttling, quotas, and scalability are still critical and require careful API
+might be called “A/B experimentation” or “ML Ops” or “Metrics Driven development",
+
+but they derive from the same general approach and we will rely on those principles for

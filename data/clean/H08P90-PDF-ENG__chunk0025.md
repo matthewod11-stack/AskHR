@@ -1,9 +1,47 @@
-# HBR / Digital Article / To Drive Innovation, Create the Conditions for Serendipity
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6cf23eb9f87d6393f3dec631c8162c5cc721e677
+title: H08P90-PDF-ENG
+---
+# ink.
 
-themselves up to its possibilities. That’s a pity because it suggests that
+Companies are more likely to discover serendipitous opportunities
 
-they may be missing out on a great many opportunities.
+when they empower employees to run small-scale experiments.
 
-This article was originally published online on May 13, 2025.
+While some of these experiments will fail, that doesn’t mean they
 
-Jérôme Barthélemy is Professor of Strategy & Management, and the former Executive Vice-President, Dean for Post Experience Programs, Corporate Programs & Relations at ESSEC Business School in France. He is the author of Myths of Strategy (Kogan Page, 2023)
+are worthless. What appears to be failure may be a ﬁrst step
+
+toward an unexpected breakthrough. In a business context however,
+
+experimentation can only thrive with strong backing from top
+
+executives. They must champion it and acknowledge its role in driving
+
+innovation and success. Otherwise, employees are unlikely to risk
+
+running experiments that may eventually fail.
+
+Canon’s leadership gave the inkjet printing team the freedom to
+
+experiment. Although the inkjet printer as we know it began as a
+
+fortunate accident, it earned leadership support as soon as its potential
+
+became clear. Without that backing, one of the company’s most iconic
+
+products might never have existed.
+
+. . .
+
+While serendipity is highly valued in science, it is often overlooked or
+
+mistaken for luck in business. As a result, many managers don’t open
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

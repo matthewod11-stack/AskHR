@@ -1,7 +1,27 @@
-## really about the behavior, not the person.
+---
+source_path: H08CWK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c38708f59b7ed9cc1da8d37fad0a77cb7b37c903
+title: H08CWK-PDF-ENG
+---
+# Why Feedback Is So Hard to Receive
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+For most of us, feedback is hard to receive because when self-worth is
 
-2
+tied to performance outcomes, it feels like a direct threat to our identity,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as opposed to rich information about how to get better. Our identity is
+
+often narrowly tied to how we perform in a given domain.
+
+To protect ourselves, we often instinctively dismiss or minimize this
+
+feedback, but in doing so, we miss valuable insights that could help
+
+us grow and improve. Instead of focusing on progress and actively
+
+pursuing our goals, we become preoccupied with avoiding failure,
+
+which ultimately hinders our ability to achieve the success we desire.
+
+Lost in the defensive response is the recognition that the feedback is

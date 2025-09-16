@@ -1,15 +1,25 @@
-# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df98394006ed2bd1ef5722df7b4b29c180fb20ec
+title: H07U7Q-PDF-ENG
+---
+# together.
 
-JASON BUECHEL:
+It’s also about being authentic to yourself and at the same time making
 
-I’ve had the opportunity to work in retail since 2000. My ﬁrst set of
+sure that you’re supporting the company and where it needs to go.
 
-experiences really came through consulting. I worked for Accenture and
+ADI IGNATIUS:
 
-had an opportunity to work with a lot of leading retailers and grocers,
+Your path to CEO is not typical. Maybe no one’s is, but yours in
 
-both here in the US and around the world. It was that passion I had in
+particular isn’t. Talk about your past and your life and career and how it
 
-working within the retail space.
+ended up in this role?
 
-That career allowed me to connect with several executives at Whole
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

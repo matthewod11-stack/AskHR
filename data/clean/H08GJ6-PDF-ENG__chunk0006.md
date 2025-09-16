@@ -1,21 +1,33 @@
-## processes in high-tech ﬁrms, both as consultants and researchers, over
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 051985a39edfe23ac1cea640fd3e9c6738ed1076
+title: H08GJ6-PDF-ENG
+---
+## purveyors, drug makers, or even venture capitalists, use these types of
 
-the last two decades. This calibration of the model is key to generating
+tactics when they need to match innovative ideas with the resources
 
-plausible insights, since our results cannot be empirically veriﬁed. The
+at their disposal. Often, the rules around these processes aren’t
 
-model runs through thousands of future scenarios, checking how well
+consistently applied, which leads to muddled results — or an executive
 
-a portfolio of selected projects would have done for every decision rule
+sweeping in to have the ﬁnal say.
 
-outlined below.
+Studying portfolio decision-making eﬀectiveness is diﬃcult. When
 
-Overall, we concluded that the best method is often a simple form
+company time, resources, and revenue are at stake, few teams can
 
-of ranking: Everyone on the decision-making committee places the
+aﬀord to go back and revisit decisions using new selection methods.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+For example, they generally don’t have time to ask: How well would
 
-2
+our project portfolio have done if we had voted instead of scored our
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+options? Would we have selected diﬀerent projects?
+
+We hope that our ﬁndings can oﬀer some valuable insights to help point
+
+you in the right direction. We have designed a decision-making model
+
+built from what we have learned studying portfolio-selection decision

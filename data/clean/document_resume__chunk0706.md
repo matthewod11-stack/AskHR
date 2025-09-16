@@ -1,9 +1,15 @@
-# It.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: de6ea2fdcc89716375fd82f4a4719f8d62ae93b7
+title: document_resume
+---
+# Minimizing Rater Errors
 
-Note that the checklist could be formatted such that the observer would provide the actual time and place each behavior occurred; or that each incident which occurred would be described in more detail in anecdotal form. The checklist could even be formatted such that the observer could rate the frequency of occurrence of each behav- ior, or that each behavior be weighted in terms of its contnbution to effectiveness. These and other modifications serve as the bases for such modern performance appraisal systems as Behavioral Observation Scales, Behavior Summary Scales, Behavioral Discrimination Scales, and Behavioral Assessment Approaches.55,56
+The third technique which is av ailable to help raters keep accurate records of their observations is the use of a checklist. Exhibit 6.5 displays a checklist devised by William Ronan for evaluating college classroom teaching effectiveness.'4
 
-This section has described three tools which are available to help raters keep records of meaningful observations. the critical incident file, diary-keeping, and the use of checklists. Which format is employed in any performance appraisal system is a matter of preference, however, the employment of one or more of these tools--or another such tool which forces raters to keep contemporaneous records of important instances of behavior--is essential if the system is to produce valid measures of perfor- mance during the period of time represented by the appraisal rating.
+Ronan's checklist was devised for students to use when evaluating the classroom teaching performance of their professors. Similar checklists can be devised for use by a variety of observers from different perspectives. The secret to devising these checklists is to perform a thorough job analysis- -using the critical incident technique or a similar method--to determine the key behaviors which distinguish effective from ineffective performance. Brief descriptions of these key behav iors are then arranged in checklist format and provided to observers who are in a position to see the occurrence of these key behaviors.
 
-- 8. Standardize the rating context.
+The checklist thus serves two important purposes.
 
-Holley and Jennings have described the importance of standardizing the perfor-
+(I) focuses the observers' attention on important behav iors, and t 2) pros ides a record of those behaviors which were actually observed.

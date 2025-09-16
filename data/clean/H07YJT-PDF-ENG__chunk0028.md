@@ -1,13 +1,11 @@
-# their input.
+---
+source_path: H07YJT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edb6afe53973788595298c1869e6164b181ea1ea
+title: H07YJT-PDF-ENG
+---
+# Don’t:
 
-- Blame your employee for factors beyond their control. Instead,
+- Be unprepared. Before the review, reﬂect on your employee’s
 
-adopt a coaching role that balances recognizing achievements with
-
-highlighting areas for improvement.
-
-- End the conversation on a sour note. Show gratitude for their hard
-
-work and remind them of why they are valued.
-
-This article was originally published online on December 20, 2023.
+performance—the good and the bad—and ask other colleagues for

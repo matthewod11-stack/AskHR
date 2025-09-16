@@ -1,3 +1,11 @@
-# Volume 02 Issue 10S October 2020 Through this organization will be able to enhance the performance of the employees as well.
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: 013b773537fa52e9ebd59cba9238c466821f2243
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# Fitment
 
-4.3 Employee Engagement: an organization has responsibilities for giving a healthy and peaceful working environment to the employees so that the employees can work with full happiness(ISetiawan[2]). More-over deserve employees should get proper appreciation, rewards, increment, bonus, incentives, and all. HR team need to investigate the matter so that organization able judgement. Considering the employee engagement, the HR analytical team can prepare effective framework for motivational training, rewards ceremony, effective tools for enhancing the knowledge of the employees. With the application of proper HR Analytical tools, the attitude & the employee behavior can be analyzed that intern can provide valuable insights to the HR Managers to take the right decisions.
+Manager’s and Leader’s behavior on employees also impact on the attrition rate. So as per the requirement organization needs to arrange some motivational, and counseling programs for the leaders. As an outcome the employees will not face to work extra time or no extreme job pressure.
+
+International Research Journal on Advanced Science Hub (IRJASH)

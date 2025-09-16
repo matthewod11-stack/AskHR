@@ -1,13 +1,41 @@
-# competition for them.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e62fca0f3ef1df77584c87bc1d5a1d3b91568c7
+title: H07T7V-PDF-ENG
+---
+# some don’t.
 
-There’s something brewing on the West Coast in industries that we label
+How many companies, large, small, digital, otherwise live into these
 
-(for reasons that I don’t like very much) high-tech. There’s something
+principles, do you think?
 
-brewing that’s new, that is diﬀerent than what’s going on elsewhere in
+ANDREW MCAFEE:
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+I think that’s a really interesting question, and I don’t have a great way
 
-9
+to answer it yet. Because the only way that I can think to answer it is to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+administer a survey to everybody and get them to ﬁll it out. That’s just
+
+not going to work.
+
+But you can look at what we know about the cultures at these
+
+companies. You can also look at the fantastic Culture 500 research that
+
+Don and Charlie Sull did, published in a competitor magazine of yours,
+
+Sloan Management Review. They grabbed all the LinkedIn reviews and
+
+put them through a machine-learning analysis to see what companies’
+
+own employees said about them.
+
+Three areas I was most interested in were execution, agility, and
+
+innovation. And wow, the scores for companies clustered on the West
+
+Coast, clustered in Silicon Valley, clustered in industries that we
+
+call high-tech, those scores are oﬀ the charts. There’s not any real

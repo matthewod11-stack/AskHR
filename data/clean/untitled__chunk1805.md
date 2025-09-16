@@ -1,7 +1,11 @@
-# The Anatomy of Melancholy
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8c1781a891b3015ac5ad78e12593920f6d281b49
+title: untitled
+---
+## The Middle Ages to the Eighteenth Century
 
-Robert Burton (1577–1640), an English clergyman, wrote The Anatomy of Melancholy, ﬁrst published in 1621. Burton undertook the task of “anatomizing” melancholy, a term that embraced all kinds of madness. He compiled all the descrip- tive and conjectural writings on the nature, causes, and cures of melancholy, accumulated from the classical period to his own time. His book, which went through numerous editions, was highly regarded as a medical treaties into the eighteenth century and is an invaluable source for information regard- ing the history of ideas about mental illness and its treat- ment. Largely derived from Galen and modiﬁed by Christian theology, his work testiﬁes to the longevity of the humoral/ pneumatic theory.
+The Hôpital General of Paris was established to segregate socially dependent or disruptive individuals from society. La Bicêtre, for men, and the Salpêtrière, for women, often described as asylums for the insane, were both large general hospitals for the poor with only a few wards for the insane. There were many paths into institutions other than that of mental illness.A1690 regulation decreed that children (up to age 25) of artisans and other poor inhabitants of Paris who “used their parents badly,” refused to work because of lazi- ness, or, in the case of girls, were debauched, were to be conﬁned—the boys in the Bicêtre, the girls in the Salpêtrière (Rosen, 1968).
 
-Burton, as had Galen, stated that the passions may be called diseases, and are a frequent cause of melancholy. Other causes include defective heredity; bad nursing in infancy; too rigorous, severe, remiss, or indulgent education by bad parents, step-mothers, and teachers; and loss of lib- erty, servitude, poverty, and death of friends. He wrote that although melancholy is difﬁcult to treat, it may be cured or at least mitigated if it is not hereditary, if it is treated early, and if the patient is willing to be helped. The physician should
-
-311
+The ﬁrst European institutions speciﬁcally for lunatics were established during the eighteenth century. The methods of treatment were those traditional from the classical period—bloodletting, emetics, purgatives, and blisters raised on the patients’ bodies in order to draw off corrupted hu- mors. St. Patrick’s Hospital was founded in 1746 in Dublin with the legacy left by Jonathan Swift (1667–1745), dean of St. Patrick’s. Swift, known for his satire Gulliver’s Travels, was deeply concerned about the problems of mental illness. He willed most of his estate for the foundation of a “House for Fools and Mad.” Lunatic asylums were founded some- what later in other large cities.

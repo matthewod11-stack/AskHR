@@ -1,17 +1,7 @@
-# JGI/Tom Grill/Getty Images
-
-For multinational enterprises (MNEs), expatriate managers are vital to
-
-implementing strategy and driving success in global markets. These
-
-leaders, assigned to new locations to manage initiatives for their
-
-company, are tasked with bridging corporate objectives and local
-
-market needs, making their assignments critical to organizational
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08LL6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d86151c1ba34db049ea72b4ec5658ff73589f4a8
+title: H08LL6-PDF-ENG
+---
+## Published on HBR.org / January 27, 2025 / Reprint H08LL6

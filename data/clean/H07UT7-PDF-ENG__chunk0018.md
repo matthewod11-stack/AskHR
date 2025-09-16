@@ -1,17 +1,13 @@
-## better communication and information-sharing and contributing to
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d03d18836ebb2100d9917f6f2379b2181590cb69
+title: H07UT7-PDF-ENG
+---
+# In-Office Pets Spark Collaboration
 
-coworker bonding and friendships. This seems to be the case because
+Most surprising to our author team was the mounting evidence that
 
-pets increase employee interactions, reduce feelings of isolation, and
+pets function as a social lubricant and conduit for collaboration. In
 
-serve as the catalyst for fruitful conversations. Perhaps you can relate
-
-if you’ve ever stopped by a colleague’s cubicle to pet a visiting dog and
-
-found yourself in serendipitous chats. In one series of lab experiments,
-
-psychologists found that participants working on decision-making tasks
-
-in the company of a dog (versus a dog’s absence) rated their teams
-
-as more friendly and attentive, which increased their subsequent
+interviews, employees describe pet-friendly workplaces as facilitating

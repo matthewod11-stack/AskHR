@@ -1,27 +1,19 @@
-# to a spinal cord injury
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5f0b2d4ca738cd49c8a3d79066e1dfd5d6eabd3
+title: H08HIY-PDF-ENG
+---
+# HBR / Digital Article / Research: The Stigma Disabled People Face During Negotiations
 
-- An invisible disability, described as episodic epilepsy
+the potential acquisition of a manufacturing plant. Alex was said to
 
-- An invisible disability, described as bipolar disorder
+be “a little nervous” but felt “ready for this challenge.” The transcript
 
-In the three disability versions, Alex also requested that the negotiation
+showed Alex asking for a break before the negotiation even started.
 
-occur over Zoom to accommodate the disability.
+The experiment varied the presentation of Alex, with either:
 
-The ﬁrst oﬀer made by Alex in the negotiation was also varied. In
+- No disability
 
-some instances, Alex oﬀered honest information about the valuation
-
-of the property. In other instances, they misrepresented the valuation
-
-to potentially get a better deal — a condition we set up so we could
-
-understand whether a disabled negotiator (of either gender) would be
-
-penalized further for this tactic.
-
-After reading the transcript of the negotiation and learning of its
-
-successful outcome, participants were asked to rate Alex on a series
-
-of items related to integrity (which included trustworthiness, warmth,
+- A visible disability, seated in a wheelchair, which was described as due

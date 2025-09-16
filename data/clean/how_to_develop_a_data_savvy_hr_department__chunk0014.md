@@ -1,7 +1,7 @@
-## How to Develop a Data-Savvy HR Department
-
-https://hbr.org/2018/10/how-to-develop-a-data-savvy-hr-department?autocomplete=true
-
-5/7
-
-is an associate partner at IBM’sGlobal Business Services Talent andTransformation practice, and Director ofResearch for the Institute of Management atGoldsmiths, University of London. He haspublished extensively in scientiﬁc journals onpersonality, leadership and analytics, and iscurrently co-editing a special issue on HRanalytics in the Human Resource ManagementJournal. He’s also the co-author of
+---
+source_path: how_to_develop_a_data_savvy_hr_department.md
+pages: n/a-n/a
+chunk_id: cc7bf8b60ff447251c4c6fc676af457aba7342f5
+title: how_to_develop_a_data_savvy_hr_department
+---
+# 8/22/25, 11:12 AM

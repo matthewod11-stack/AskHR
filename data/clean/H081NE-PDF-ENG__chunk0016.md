@@ -1,13 +1,15 @@
-# HBR / Digital Article / Building Cross-Cultural Relationships in a Global Workplace
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 590e8d6f211ef120bf3216edf3d27bba25dd450d
+title: H081NE-PDF-ENG
+---
+## culture. By contrast, relationship building in a Canadian workplace
 
-in the hallway, before or after a meeting, at lunch, during a break
+might happen in many places inside the workplace — in the breakroom,
 
-from work. In this case, saving your bonding attempts for oﬀsite events
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-might mean your chance never comes. And in other cultures, like India,
+3
 
-relationship building may be especially likely at non-work events like
-
-local festivals or family celebrations, where you may be invited to a
-
-colleague’s home. If you don’t show up, you might not only insult your co-worker but you might ﬁnd it diﬃcult to forge that same bond back in the oﬃce.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

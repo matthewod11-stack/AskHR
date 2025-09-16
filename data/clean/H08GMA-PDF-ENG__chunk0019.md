@@ -1,13 +1,21 @@
-#MeToo, bad behavior and misconduct persist in the workplace. Indeed,
+---
+source_path: H08GMA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b28a461c11d683ad0a93823640e30d9f8ed1d07
+title: H08GMA-PDF-ENG
+---
+# degrees.
 
-despite younger women’s much shorter tenures, a third of them have
+Soon after, they run up against a “broken rung”: Compared to men,
 
-experienced some form of sexual harassment over the course of their
+they’re far less likely to get their ﬁrst promotion to manager. This
 
-careers — the same as older women.
+gender gap has not improved much over time. In 2018, 79 women were
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+promoted to manager for every 100 men. This year, just 81 women were.
 
-3
+Sexual harassment is a persistent problem.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Disturbingly, sexual harassment remains as prevalent in corporate
+
+America as it was six years ago, suggesting that even in the wake of

@@ -1,13 +1,15 @@
-# Example Interaction:
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: b11f61ee18c4a644962d0dd04fb0def06b9ff081
+title: agents_companion
+---
+# Adaptive Loop Pattern
 
-- 1. User asks: "Find a nice Italian restaurant that serves vegan options"
+The Adaptive Loop Pattern involves iterative refinement through repeated attempts,
 
-- 2. The Navigation Agent queries Places API with these parameters
+progressively improving results until they meet desired criteria.
 
-- 3. The agent evaluates the results and finds no restaurants meeting all criteria
+The Conversational Navigation Agent can implement a loop pattern to iteratively improve
 
-- 4. Instead of returning "no results," the agent automatically reformulates the query:
-
-- First loop: Searches for "Italian restaurants with vegetarian options"
-
-- Second loop: Broadens to "Italian restaurants" and then filters for those mentioning
+search results when initial queries don't yield satisfactory outcomes.

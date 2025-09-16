@@ -1,5 +1,11 @@
-# B
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: fc8d5faee46e6b5b68497d25ceb139e65d8e1a7d
+title: performance_management_3rd_edition_by_aguinis
+---
+# (Continued)
 
-Problem Sensitivity and Ethics: The ability to tell when something is wrong or is likely to go wrong, ethically or otherwise. It does not involve solving the problem, only recognizing there is a problem.
+Persuasion and Negotiation: Persuading others to change their minds or behavior. Bringing others together and trying to reconcile differences.
 
-Excellent. Shown great ability to anticipate if contract negotiations are taking an unethical or unprofitable turn for the worse.
+Adequate, but could be more direct and persuasive with customers.

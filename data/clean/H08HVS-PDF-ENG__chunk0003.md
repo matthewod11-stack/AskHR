@@ -1,23 +1,29 @@
-## HBR / Digital Article / Management By Driving Around
+---
+source_path: H08HVS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03ef0d48d70a5a45fead93313d626418d399357e
+title: H08HVS-PDF-ENG
+---
+## San Francisco Chronicle/Hearst Newspapers/Getty Images
 
-That year, Governor Newsom hired veteran technology executive Steve
+California’s department of motor vehicles was a mess back in 2019.
 
-Gordon to transform the DMV: to increase online services, improve
+The state’s then-new governor, Gavin Newsom, described customers
 
-service at ﬁeld oﬃces, and bolster employee morale. Gordon knew the
+as “outraged” by their DMV experiences. It could take several hours
 
-DMV was in crisis when he took the job, and not just from the troubling
+to complete simple tasks like renewing a driver’s license. Ancient IT
 
-statistics and press reports, but from his own visits to oﬃces. At the San
+systems meant many transactions that could have been automated were
 
-Jose DMV oﬃce Gordon visited while he was still considering the job, a
+dismal, in-person ordeals. Silos and mistrust within the department
 
-long line formed at 6 a.m. — two hours before the doors would open at 8
+undermined collaboration and change. And frontline employees were
 
-a.m. One man even brought a lawn chair in anticipation of a long wait.
+demoralized and distressed.
 
-The Newsom administration expected Gordon to implement
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-widespread improvements in this big, complicated, and troubled
+1
 
-department — and to do it fast. That was a tall order, as the DMV has
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

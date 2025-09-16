@@ -1,33 +1,13 @@
-## HBR / Digital Article / Lessons from U.S. Army Special Ops on Becoming a Leader
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4624511c7dc99561b02756637b9c831f557a2308
+title: H08VFN-PDF-ENG
+---
+# economic instability.
 
-But in this unpredictable new world, organizations are falling short
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-at training people how to lead. The $50 billion executive education
+1
 
-sector—as Warren Bennis ﬁrst pointed out in his 1961 HBR article “A
-
-Revisionist Theory of Leadership”—has tended to conﬂate leadership
-
-with management. As a result, executive education is good at helping
-
-people improve management skills such as accounting, active listening,
-
-and data-driven decision making. Yet it hasn’t developed a comparably
-
-rich curriculum for cultivating initiative, strategic vision, and the other
-
-skills needed to lead in volatility.
-
-There is one organization, however, that has spent more than seven
-
-decades creating exactly that curriculum. The U.S. Army Special
-
-Operations has taught tens of thousands of soldiers who excel at
-
-managerial tasks (such as maintaining standards and optimizing
-
-operations) to successfully take on leadership tasks (such as seizing
-
-opportunities and launching innovations). It has done so by creating
-
-training pipelines, centered at the JFK Special Warfare Center and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

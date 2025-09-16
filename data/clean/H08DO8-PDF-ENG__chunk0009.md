@@ -1,7 +1,9 @@
-# yet!”
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1aa1e1edca95f4b64ef65d8bd8a82af5053e0a6
+title: H08DO8-PDF-ENG
+---
+## HBR / Digital Article / How CEOs Are Using Gen AI for Strategic Planning
 
-But is there a chance we’re overestimating gen AI’s capabilities? How do
-
-we identify the areas, if any, where gen AI can boost strategic planning?
-
-Are all gen AI tools the same, or are some of them more capable in
+for the time when “AI can help identify opportunities that don’t exist

@@ -1,13 +1,23 @@
-# HBR / Digital Article / How Constructive Dissent Can Unlock Your Team’s Innovation
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ccea40af1eb498d9a8b05573176bbf43b1b8378c
+title: H08M6G-PDF-ENG
+---
+# Jasenka Arbanas/Getty Images
 
-of innovation — and do it in a way that doesn’t result in hard feelings,
+Diverse teams hold diverse perspectives. That’s a given. But are they
 
-anger, or disrespect?
+willing to share those perspectives? We often observe highly diverse
 
-Think about the anatomy of culture this way: If a pattern of shared
+teams exhibiting patterns of dutiful compliance and stiﬂing groupthink.
 
-behavior is a norm, a collection of norms is a culture. Norms
+How do you change that culture? How do you persuade a team to unlock
 
-are the primary building blocks of culture. In working with teams
+its novel, nonlinear, and clashing perspectives to create an incubator
 
-around the world for the last 30 years, we’ve identiﬁed the norm
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

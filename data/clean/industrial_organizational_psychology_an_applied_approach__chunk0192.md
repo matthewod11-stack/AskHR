@@ -1,9 +1,11 @@
-# Leadership through Persuasion
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2fec144bc470e73aea7141e9b78cf065594d698f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Leadership through Power Leadership through Vision: Transformational Leadership
 
-461
+457
 
-Cultural Diﬀ erences in Leadership: Project Globe  Leadership: Where Are We Today?  Career Workshop: Obtaining Leadership Skills
-
-468
-
-On the Job: Applied Case Study: Developing 469 Leaders at Claim Jumper Restaurants
+458

@@ -1,17 +1,19 @@
-# 19% in companies with no PE ownership.
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d238a9434fdd5a776695e4fe04f9763b4c790711
+title: H08UV9-PDF-ENG
+---
+# and conﬁdence.
 
-But agility isn’t a silver bullet. It’s a trait, and like all traits, it comes with tradeoﬀs. Highly agile executives tend to excel in chaotic, ambiguous
+Ask any PE investor what they want in a C-suite executive and
 
-situations. They thrive on change and can quickly reorient under
+“agility” is almost always at the top of the list. Investors want leaders
 
-pressure. But those strengths often come at the expense of structure,
+who can move fast, pivot strategy, act decisively when a plan breaks
 
-consistency, and follow-through. Agility and operational rigor rarely
+down, and seize unexpected opportunities. Our AlixPartners Disruption
 
-live in the same person. Agile leaders move fast—but don’t always
+Index shows that 40% of executives in companies with signiﬁcant PE
 
-land the plane. In a post-merger integration, strategic pivot, or early-
-
-stage growth context, agility can be a superpower. But in a steady-state
-
-scaling phase, where precision and systems matter most, it can become
+ownership say their executive team isn’t agile enough, compared to just

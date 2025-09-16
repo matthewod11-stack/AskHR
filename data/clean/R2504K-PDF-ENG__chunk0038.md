@@ -1,35 +1,25 @@
-# and the relationship mature.
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1f02ef14ef3f8a24284670572691d18276b684c
+title: R2504K-PDF-ENG
+---
+## HBR / Magazine Article / How to Identify the Perfect Cofounder
 
-Have a prenuptial (prenup) conversation. Once you are feeling positive
+bearing on key decisions such as how to raise capital, price your
 
-about becoming cofounders, craft a cofounder agreement that includes
+product, manage expenses, and pay employees.
 
-speciﬁcs such as roles and responsibilities, how equity is split,
+It’s also important to talk about seminal experiences in past jobs or
 
-vesting schedules, voting rights, and intellectual property ownership.
+school that inform your attitudes about leadership, culture, and how
 
-Unfortunately, many cofounding teams dance around this because they
+products are designed and built. While these conversations may feel
 
-don’t want to introduce stress into the budding relationship.
+uncomfortable, it’s a step toward building a solid working foundation
 
-However, not having a prenup can be costly, time-consuming, and
+in what will be a roller coaster of a journey together. And these
 
-emotionally taxing if the relationship doesn’t work out. The cofounders
+conversations shouldn’t stop once you agree to be cofounders; they
 
-of the car-sharing startup Zipcar, Robin Chase and Antje Danielson,
-
-spent almost two years in conﬂict over roles, responsibilities, and equity
-
-ownership in the venture—all topics that had not been fully ironed
-
-out as part of the dating and prenup processes. Despite having the
-
-original idea for the startup, Danielson was eventually ﬁred by Chase,
-
-and just two years after Danielson’s departure, Chase was also ﬁred from
-
-the venture by her board. These cofounders’ ownership in the venture
-
-became so diluted by subsequent funding rounds that they each got
-
-only modest payouts when the company was eventually sold to Avis for
+should continue throughout the life of your venture as each cofounder

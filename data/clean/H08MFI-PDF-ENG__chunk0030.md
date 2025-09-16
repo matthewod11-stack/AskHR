@@ -1,11 +1,19 @@
-## you might even credit it as a learning experience.
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a92f188c6e9920dfd1523f3cc06176abd6dfb4da
+title: H08MFI-PDF-ENG
+---
+## HBR / Digital Article / When Your Job Breaks Your Heart
 
-This article was originally published online on February 14, 2025.
+who likes to create a plan, block out your time, and create a sense of
 
-Gretchen Gavett is a senior editor at Harvard Business Review.
+momentum through action? Or do you need some time to try something
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+totally new in your life and experiment? Understand your ﬁnances,
 
-10
+what demands there are on your time and energy, and try to create a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+path forward that allows you to look ahead and get excited rather than
+
+looking back in regret and rumination. This too shall pass, and one day

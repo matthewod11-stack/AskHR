@@ -1,5 +1,9 @@
-# Person-by-Situation Effects
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f0fe2a618ca75055fd93f6efbf7a9f76f32756ed
+title: barrickryan_eds_personality_and_work
+---
+# UNDERSTANDING THE DYNAMIC LEARNER 235
 
-In a review of the training ﬁeld over thirty years ago, Campbell (1971) noted that one area of promise was the focus on person-by- situation effects, which take both individual differences and learn- ing situations into account. In particular, he directed attention to the problem of how to adapt the instructional process to individ- ual differences as an alternative to research examining trait effects on learning outcomes directly, without examining the training con- tent and process. Campbell’s approach is quite sensible because traits are more proximal to learning behaviors and the learning process that instruction entails, and they are more distal from the outcomes that the learning situation demands of the individual.
-
-According to Cronbach (1957, 1967), individual differences and learning can relate to one another by tailoring a set of instructional goals, methods, and materials to the individual or to homogeneous groups of individuals. Typically, this sort of research has sought to investigate the effects of matching alternative modes of instruction to different characteristics of the individual so that each person uses the most appropriate learning procedure. In this context, aptitude is deﬁned as any stable characteristic that resides within the individ- ual, interacts with learning situations, and correlates with learning outcomes. Deﬁned in this way, aptitudes are broad in scope and in- clude cognitive, motivational, and affective factors such as cognitive
+nity frame of reference generally led to higher self-efﬁcacy going into the program and ultimately to better learning. Quiñones (1995) examined different effects of framing training program assign- ments on learning outcomes. Assignments to a training program were described as remedial or advanced. Results indicated that the framing had an impact on attributions for past performance as well as fairness perceptions, motivation to learn, and learning out- comes. Quiñones notes that context really does matter and advo- cates designing interventions focusing on contextual factors that increase motivation to learn across participants rather than neces- sarily tailoring motivational interventions to individual trainees. Very few studies have investigated the effects of various types of strong situational presses prior to or during the training experi- ence itself.

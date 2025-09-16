@@ -1,5 +1,9 @@
-## AICI 2025, February 14–16, 2025, Kuala Lumpur, Malaysia
+---
+source_path: leveraging_machine_learning_for_employee_resignation_prediction_in_hr_analytics.md
+pages: n/a-n/a
+chunk_id: 79e55d8626518513382a452fb196415514d9e097
+title: leveraging_machine_learning_for_employee_resignation_prediction_in_hr_analytics
+---
+# i
 
-update rule shows itself as:
-
-h(l+1) i
+344

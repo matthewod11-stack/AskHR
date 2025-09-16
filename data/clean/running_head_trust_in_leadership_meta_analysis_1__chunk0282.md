@@ -1,15 +1,9 @@
-## development. Academy of Management Review, 26, 377-396.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: d9c9915f78ebe2c2e39ddc8857096f59d029b25c
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Management Journal, 48, 420-432.
 
-Wu, M., Huang, X., Li, C., & Liu, W. (2012). Perceived interactional justice and trust‐in‐
-
-supervisor as mediators for paternalistic leadership. Management and Organization
-
-Review, 8, 97-121.
-
-Xu, A. J., Loi, R., & Lam, L. W. (2015). The bad boss takes it all: How abusive supervision
-
-and leader–member exchange interact to influence employee silence. The Leadership
-
-Quarterly, 26, 763-774.
-
-Yang, J and Mossholder, K. W. (2010). Examining the effects of trust in leaders: A bases-
+Williams, M. (2001). In whom we trust: Group membership as an affective context for trust

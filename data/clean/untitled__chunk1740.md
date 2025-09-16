@@ -1,5 +1,7 @@
-# York: Guilford Press.
-
-Muñiz, J., Prieto, G., Almeida, L., & Bartram, D. (1999). Test use in Spain, Portugal, and Latin American countries. European Jour- nal of Psychological Assessment, 15, 151–157.
-
-Murray, H. A. (1938). Explorations in personality. New York:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 78f2944617856b1286c7a48bc1ec46c0b2fb5cf7
+title: untitled
+---
+## Morrison, J. (1993). The ﬁrst interview: A guide for clinicians. New

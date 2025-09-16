@@ -1,3 +1,7 @@
-# CONTRIBUCIÓN EMPRESARIAL
-
-El impacto de su trabajo en los resultados críticos del negocio, como los ingresos, la innovación o la gestión de crisis.
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bacca44170dd2057236bb144c2d070cd7b6426e5
+title: H08U08-PDF-ENG
+---
+## Clasificación del riesgo (bajo, medio o alto)

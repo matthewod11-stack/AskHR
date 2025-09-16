@@ -1,9 +1,9 @@
-# outcome.
+---
+source_path: H07HOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4fb2e87987793ceb58df66e7e7f8752cf661faa
+title: H07HOW-PDF-ENG
+---
+## HBR / Digital Article / Navigating Uncertainty About Your Role During a Reorg
 
-Finally, look for indicators that a given scenario will occur. For example,
-
-if your manager asks you to detail your role and responsibilities, it’s
-
-likely they’re under pressure to restructure their team and consolidate
-
-roles. Staying alert to these signs can prompt you when to take more
+creative and adding value can boost the chances of your preferred

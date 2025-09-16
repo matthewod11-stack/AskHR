@@ -1,47 +1,41 @@
-## HBR / Digital Article / How to Delegate to Someone Who Doesn’t Report to You
+---
+source_path: H08QO6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6b1b9f7a14a69f867dc7a8e2aa0e46ccd3e625a
+title: H08QO6-PDF-ENG
+---
+# Address pushback with curiosity.
 
-Follow up without overstepping.
+If your peer says they don’t have bandwidth, dig deeper: “Tell me more
 
-Checking on delegated work with peers requires ﬁnesse. Instead of
+about what your team is juggling right now.” Maybe you can extend the
 
-“Where are we at with this?” which may seem like checking up on them,
+timeline, break the work into smaller pieces, or take on more of the
 
-try, “Is there anything you need to keep this moving forward?” or “What
+up-front lift before handing it oﬀ.
 
-obstacles can we help clear?”
+If your colleague seems hesitant about the commitment, ask directly,
 
-Rather than “Is this done yet?” try, “I’d love your thoughts on what
+“What concerns do you have about taking this on?” Their reluctance
 
-you’re seeing in the data so far” or “I’m curious how the new process is
+might stem from a past experience, a lack of clarity, or competing
 
-working from your perspective.” Show you value their judgment, while
+priorities—things you can problem-solve together if surfaced.
 
-subtly getting details about the status.
+And if the objection is, “This doesn’t feel like it should be our job,” stay
 
-Maybe they agreed to updates but you’re hearing nothing, or they
+open. For example, say, “Help me understand what parts don’t feel like
 
-respond with vague answers. Refer back to your shared agreements:
+a natural ﬁt?” If you still believe they’re the best owner, don’t shy away
 
-“When we kicked oﬀ, we talked about weekly recaps. We count on those,
+from saying so. Try something like: “I hear your concerns. The thing is,
 
-so what can we do to get those each Monday?” or ask, “When you say it’s
+your team is already the go-to for this type of reporting. Bringing us in
 
-moving along, what stage are we at?”
-
-. . .
-
-At ﬁrst, sideways delegation can feel slower and more cumbersome than
-
-handing something oﬀ to your team. But once trust is built and you’ve
-
-dialed in your process, you can each achieve unprecedented results.
-
-This article was originally published online on May 22, 2025.
-
-Melody Wilding is an executive coach, human behavior professor, and author of Managing Up: How to Get What You Need from the People in Charge. Download a free chapter here.
+would create confusion.”
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

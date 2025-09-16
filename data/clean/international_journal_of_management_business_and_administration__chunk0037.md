@@ -1,19 +1,9 @@
-# Hill.
+---
+source_path: international_journal_of_management_business_and_administration.md
+pages: n/a-n/a
+chunk_id: cc224bf737f843124ed97b1a963c87fd514b95ae
+title: international_journal_of_management_business_and_administration
+---
+# Wesley.
 
-Skinner, B. F. (1979). The shaping of a behaviorist. New York, NY: Knopf. Van Yperen, N. W., & Janssen, O. (2002). Fatigued and dissatisfied or fatigued but
-
-satisfied? Goal orientations and responses to high job demands. Academy of Management Journal, 45(6), 1161-1171.
-
-VandeWalle, D. (2001). Goal orientation: Why wanting to look successful doesn’t always
-
-lead to success. Organizational Dynamics, 30(2), 162-171.
-
-VandeWalle, D., Brown, S., Cron, W., & Slocum, J. (1999). The influence of goal
-
-orientation and self-regulation tactics on sales performance. Journal of Applied Psychology, 84, 249-259.
-
-VandeWalle, D., Cron, W. L., & Slocum, J. W. (2001). The role of goal orientation
-
-following performance feedback. Journal of Applied Psychology, 86(4), 629-640.
-
-Vroom, V. H. (1994). Work and motivation. San Francisco, CA: Jossey-Bass.
+Newstrom, J. W. (2011). Organizational behavior (13th ed.). New York, NY: McGraw-

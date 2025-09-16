@@ -1,9 +1,17 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b9f5ba432d7a061122df855fc3c5ce8a76f5bc81
+title: untitled
+---
+# Houghton Mifﬂin.
 
-White, R. W. (1972). The enterprise of living: Growth and organi- zation in personality (3rd ed.). New York: Holt, Rinehart, and Winston.
+Wells, H. G. (1934). Experiment in autobiography: Discoveries and conclusions of a very ordinary brain (since 1866). New York: Macmillan.
 
-Winston, A. S. (1988). Cause and experiment in introductory psy- chology: An analysis of R. S. Woodworth’s textbooks. Teaching of Psychology, 15, 79–83.
+West, S. G. (Ed.). (1983). Personality and prediction: Nomothetic and idiographic approaches [Special issue]. Journal of Personal- ity, 51(3).
 
-Winter, D. G. (1993). Gordon Allport and “Letters from Jenny.” In K. H. Craik, R. Hogan, & R. N. Wolfe (Eds.), Fifty years of per- sonality psychology (pp. 147–163). New York: Plenum Press.
+White, R. W. (1952). Lives in progress: A study of the natural
 
-Winter, D. G. (1996). Personality: Analysis and interpretation of
+growth of personality (3rd ed.). New York: Dryden Press.
+
+White, R. W. (Ed.). (1963). The study of lives: Essays on personal- ity in honor of Henry A. Murray. New York: Atherton Press.

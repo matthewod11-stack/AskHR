@@ -1,5 +1,15 @@
-## Intelligence as Arising from Individual Differences: The Differential Model
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 711ec74c68dc7c97d2ce3ea12b1a0f30a9752ae8
+title: untitled
+---
+# The Seminal Views of Galton and Binet
 
-McNemar (1964) was one of the most explicit in speculating on why we even have a concept of intelligence and in linking the rationale for the concept to individual differences. He queried whether two identical twins stranded on a desert island and growing up together ever would generate the notion of intelligence if they never encountered individual differences in their mental abilities.
+problem solving, and decision making) were prominent in both symposia.
 
-Perhaps without individual differences, societies would never generate the notion of intelligence and languages would contain no corresponding term. Actually, some lan- guages, such as Mandarin Chinese, in fact have no concept that corresponds precisely to the Western notion of intelli- gence (Yang & Sternberg, 1997a, 1997b), although they have related concepts that are closer, say, to the Western notion of wisdom or other constructs. Whatever may be the case, much of the history of the ﬁeld of intelligence is based upon an epistemological model deriving from the existence of one or more kinds of individual differences.
+Second, central themes occurred in both symposia. One theme was the one versus the many: Is intelligence one thing or is it multiple things? How broadly should intelli- gence be deﬁned? What should be the respective roles of biological and behavioral attributes in seeking an under- standing of intelligence?
+
+Third, despite the similarities in views over the 65 years, somesalientdifferencescouldalsobefound.Metacognition— conceived of as both knowledge about and control of cognition—played a prominent role in the 1986 symposium but virtually no role at all in the 1921 symposium. The later symposium also placed a greater emphasis on the role of knowledge and the interaction of mental processes with this knowledge.
+
+Deﬁnitions of any kind can provide a basis for explicit sci- entiﬁc theory and research, but they do not provide a substi- tute for these things. Thus, it was necessary for researchers to move beyond deﬁnitions, which they indeed did. Many of them moved to models based on individual differences.

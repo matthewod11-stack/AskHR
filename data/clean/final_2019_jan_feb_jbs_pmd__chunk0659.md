@@ -1,23 +1,29 @@
-# Sundaram Finance
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: b4a6fc072a51487bce43734645162e25ac7b63d7
+title: final_2019_jan_feb_jbs_pmd
+---
+# Mahindra & Mahindra Financial Services
 
-0.90
+0.71
 
-0.81
+0.50
 
-8.73#
+2.04
 
-0.05
+0.30
 
-- 2.40*
+- 1.14
 
-0.02
+0.48
 
-3.02**
+0.75
 
-0.20
+0.80
 
-- 1.42
+0.26
 
-0.72
+0.91
 
-0.38
+- 0.12

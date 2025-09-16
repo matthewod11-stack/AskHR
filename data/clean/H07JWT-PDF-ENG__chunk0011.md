@@ -1,7 +1,21 @@
-## inclusion within their distributed teams.
+---
+source_path: H07JWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92d1dd3680b8afe2a60976b0ccb6adcd336c32f9
+title: H07JWT-PDF-ENG
+---
+## important social buﬀer against workplace stress.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+But the answer is not to force everyone back into the oﬃce. Our research
 
-2
+shows that people really want remote opportunities: 50% of employees
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+say that remote work is a top priority for them in their next role, while
+
+only 4% would seek out fully in person work.
+
+So how can organizations continue to oﬀer the ﬂexible work
+
+arrangements top talent wants — and mitigate anxiety among remote
+
+workers? The key is to train managers to foster a strong sense of

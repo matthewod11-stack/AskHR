@@ -1,9 +1,15 @@
-# coordination.
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e866056e5129d4ce34baaac26201d7442a5d177
+title: R2501H-PDF-ENG
+---
+# and humanistic approaches.
 
-Like custodians, connectors favor initiatives that are anchored in a
+While our research wasn’t based on a random sample, connectors
 
-strategic imperative for the company. However, they pay particular
+do seem to be rarer than custodians or challengers. Connectors say
 
-attention to those that require the collaboration of diﬀerent groups,
+their integrated approach requires striking a tricky balance but believe
 
-because they prioritize building employees’ mutual connections rather
+that focusing solely on results is dated and can stiﬂe creativity, and that focusing solely on empowerment is ineﬃcient and can strain

@@ -1,15 +1,17 @@
-## HBR / Digital Article / What Comes After DEI
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7c6fe85f282ce8b1202336fe9cfc4bae59b61a8c
+title: H08LGU-PDF-ENG
+---
+## design or development process, products, services, experiences, and
 
-To successfully embed user input and feedback into development
+environments end up making the same errors again and again — a
 
-cycles, practitioners must challenge people’s assumptions that
+phenomenon known as accessibility debt.
 
-prioritizing access is costly and time-consuming — it is far less so
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-than accessibility debt — and demonstrate that doing so is possible.
+7
 
-Expanding access for those outside the status quo can result in
-
-surprising beneﬁts for everyone, even those who may not think of
-
-themselves as having access needs, builds more resilient organizations,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,9 @@
-# SRINIVAS PUBLICATION
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 52158c97aeb3007cdd5dff3024243d285ee8c24d
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# Emotional Exhaustion
 
-Rasool, et al., (2019). [105]
-
-Taylor, et al., (2022). [106]
-
-Bigliardi, et al., (2012). [107]
-
-Yeh, et al., (2010). [108]
-
-Misra & Sharma, (2022). [109]
-
-Chopra, (2009). [110]
-
-Raza, et al., (2023). [111]
-
-PAGE 305
+Elvira Monteiro., et al, (2023); www.srinivaspublication.com

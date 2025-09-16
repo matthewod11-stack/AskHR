@@ -1,9 +1,9 @@
-# safe.
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6e276ad32e5ea2b676ea28b30ae1e16a3aee598
+title: H08P2A-PDF-ENG
+---
+## HBR / Digital Article / Should You Record That Meeting?
 
-Finally, recognize that not everyone on the team will have the same
-
-willingness to be open when being recorded. When it comes to
-
-psychological safety, leaders need to pay attention not to the average
-
-level of safety, but to the safety of those most at risk (i.e., it’s not the
+because we have less experiential evidence assuring us that we will be

@@ -1,13 +1,35 @@
-# to you (or your organization)?
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f7c89cc7bfbeb49579b237c29b59d1af5fd6707
+title: H07VPH-PDF-ENG
+---
+# work?
 
-Note: Impact and importance are not the same. Impact is the eﬀect
+Miriam saw herself as the co-head of a three-person team, all working
 
-on someone or something; importance is the signiﬁcance or value. A
+toward the same goal. Her cofounder’s ghosting challenged that idea. As
 
-decision can have a signiﬁcant impact but be of little importance, or
+we discussed this question, Miriam realized that while she assumed that
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Andre wanted the company to succeed, she didn’t actually know him.
 
-6
+Yes, they had been working together for a year, and she knew his work
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and his voice but they’d never met in person. It was his ﬁrst start-up
+
+experience as well and now, as the only employee and key stakeholder,
+
+she recognized that how he reacted to the news and to his increased
+
+workload would aﬀect the company going forward. Although she was
+
+the boss, Miriam saw that she needed Andre’s buy-in; she couldn’t
+
+succeed alone.
+
+- 5. Scrutinize decision ownership.
+
+Is it your decision to make? How much will you (or your organization) be
+
+impacted by the decision outcome? And how important is the decision

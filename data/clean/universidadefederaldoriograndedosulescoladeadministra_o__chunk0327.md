@@ -1,3 +1,11 @@
-# Fonte: elaboração da autora
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 42436e106480892a2ad8347030f26559c7c6aea0
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# mensagem:
 
-O questionário, conforme Gil (1999), pode ser definido “como a técnica de
+34
+
+Figura 3 - Captura de tela do envio do convite à participação das pessoas no questionário

@@ -1,13 +1,15 @@
-# transformations.
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 064ec755e9287da00c7ae1d8091555418bec160a
+title: H08MHC-PDF-ENG
+---
+## particularly heavy transformation burden across the last few years.
 
-Despite this volume of experience — or maybe because of it — 70% of
+We surveyed 276 procurement professionals from a cross-section of
 
-respondents to Gartner’s survey reported that achieving transformation
+markets and industries in 2023 and found that the average function
 
-objectives was harder than expected. And a majority of transformations
+had undertaken nearly one new transformation per year since 2018 — at
 
-were found to be under-delivering on expected value. For example,
-
-respondents gave an average score of 58 out of 100 when asked the
-
-extent to which the transformation met cost savings objectives, the most
+the time of the survey, they were balancing around three simultaneous

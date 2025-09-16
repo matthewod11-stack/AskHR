@@ -1,3 +1,11 @@
-# Social Capital of Network Conﬁgurations
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 876d1adced02d8409685ce72512a84ecd09a08e1
+title: barrickryan_eds_personality_and_work
+---
+## SELF-MONITORING PERSONALITY AND WORK RELATIONSHIPS 217
 
-Social capital refers to relational resources embedded in the ties between individuals (Coleman, 1988; Nahapiet & Ghoshal, 1998), which research has shown to enhance value creation in organiza- tions (Tsai & Ghoshal, 1998). Furthermore, different types of net- work connections are associated with different forms of social capital. Attempting to manage too many ties can consume valuable resources (time) and can also have dysfunctional effects if the ex- pectations of others are not met. This is a particular risk with hav- ing too many strong ties (Brass & Krackhardt, 1999), because a strong tie requires a greater mutual commitment than a weak tie. The most appropriate network strategy is therefore likely to be con- tingent on the surrounding network structure of possible connec- tions. Prescriptive advice on how to develop an optimal network with regard to the networks of others in a social system has been largely overlooked in the literature (Carley, 1999). The question
+relation is that of two suitors for the same marriage partner: the success of one suitor spells the failure of the other. The focal indi- vidual in the middle of two negatively connected people has the (sometimes) difﬁcult task of choosing between them for a lunch date, a business contract, or some other competitive outcome. High self-monitors, with their tendency to bridge across uncon- nected groups, are more likely than low self-monitors to face the stress of competing demands for their time and other resources. Whereas the low-self-monitoring strategy is likely to focus on bring- ing people together, the high self-monitor may be forced to choose between favoring one party or the other.
+
+The second additional type of tie to consider is the multiplex tie. This describes relationships in which actors are connected in more than one type of association. For example, someone might be a work associate, a neighbor, and a friend. Although proximity is likely to be a strong predictor of multiplexity (Brass, 2001), the partner-based orientation of low self-monitors is also likely to con- tribute to multiplex ties being created. Low self-monitors tend to afﬁliate with others who are similar to them, regardless of the so- cial context, and they may prefer to form multiple relations with the same people rather than seek out specialist partners for dif- ferent activities.

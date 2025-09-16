@@ -1,11 +1,9 @@
-# 7.4.1 Rater Error Training
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: da60b0305579d40f0832e775093b7ae1070a6e55
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 7 • Implementing a Performance Management System 177
 
-Many performance management systems are plagued with rater errors. For example, about 1,700 years ago, the Wei dynasty in China implemented a performance manage- ment system for its household members. The philosopher Sin Yu has been quoted as saying that “an Imperial Rater of Nine Grades seldom rates men according to their merits, but always according to his likes and dislikes.”10 Accordingly, the goal of rater error training (RET) is to make raters aware of what rating errors they are likely to make and to help them develop strategies to minimize those errors. The goal of RET is to increase rating accuracy by making raters aware of the unintentional errors they are likely to make.
-
-RET programs typically include definitions of the most typical errors and a description of possible causes for those errors. Such programs also allow trainees to view examples of common errors and to review suggestions on how to avoid making errors. This can be done by showing videotaped vignettes designed to elicit rating errors and asking trainees to fill out appraisal forms regarding the situations that they observed on the videotapes. Finally, a comparison is made between the ratings provided by the trainees and the correct ratings. The trainer then explains why the errors took place, which specific errors were made, and ways to overcome the errors in the future.
-
-RET does not guarantee increased accuracy. Raters do become aware of the possible errors they can make but, because many of the errors are unintentional, simple aware- ness of the errors does not mean that errors will not be made. Nevertheless, it may be useful to expose raters to the range of possible errors. These errors include the following:
-
-- Similar-to-me error. Similarity leads to attraction so that we tend to favor those who are similar to us. Consequently, in some cases, supervisors are more likely to give higher performance ratings to those employees who are perceived to be more similar to them in terms of attitudes, preferences, personality, and demographic variables including race and gender.
-
-- Contrast error. Contrast error occurs when, even if an absolute measurement system is in place, supervisors compare individuals with one another instead of against predetermined standards. For example, when a supervisor rates an individual of only average performance, the rating may actually be higher than deserved if the other individuals rated by the same supervisor display substandard performance levels: the average performer may seem to be better in comparison to the others. This error is most likely to occur when supervisors complete multiple
+Consider the list of content areas included in Table 7.2. The first two content areas are not unique to rater training programs. In fact, these are common components of the communication plan in which all organizational members participate, not just the raters. Given the suggestion that the same information should be presented many times and through different communication channels, however, it does not hurt to include this content area as part of a rater training program. Content areas 3–5 involve the general issue of identifying, observing, recording, and evaluating performance. Content areas 6 and 7 involve the general issue of how to interact with the employee receiving perform- ance information. Next, we address various choices in terms of implementing training programs specific to content areas 3–5. The development of skills related to content areas 6 and 7 is addressed in detail in Chapter 9.

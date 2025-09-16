@@ -1,7 +1,7 @@
-## tion. Industrial and Labor Relations Review, 39, 585–598.
-
-Kuhn, J.W. (1961). Bargaining in grievance settle- ment: The power of industrial work groups. New York: Columbia University Press.
-
-Labig, C.E., Jr., & Greer, C.R. (1988). Grievance ini- tiation: A literature survey and suggestions for future research. Journal of Labor Research, 9, 1–27.
-
-Levine, D. (1995). Reinventing the work place. Wash-
+---
+source_path: research_on_unionized_grievance_procedures_management_issues_and_recommendations.md
+pages: n/a-n/a
+chunk_id: ab3904dd197bf80aac036ee87533a7aceb70d846
+title: research_on_unionized_grievance_procedures_management_issues_and_recommendations
+---
+# Research on Unionized Grievance Procedures: Management Issues and Recommendations • 405

@@ -1,25 +1,39 @@
-# crave.
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21f11d34d123be54a64c2d14c385e9f48495b2f1
+title: H06X4I-PDF-ENG
+---
+# HBR / Digital Article / Remote Work Has Opened the Door to a New Approach to Hiring
 
-Just like with remote work prior to Covid, companies have been slow to
+forced experiment with remote work over the past two years has shown
 
-adopt these models. As the chief economist of a large work marketplace,
+some organizations the upside of approaches to work they would never
 
-Upwork, and an academic who has studied open talent for more than
+have otherwise considered. It also showed workers that they aren’t as
 
-a decade, we tracked a slow uptick in enterprise use of open talent in
+locked into the traditional, in-oﬃce 9-5 at one company as they might
 
-the years prior to the pandemic. But now, as remote work has become
+have thought. For both, there’s no going back.
 
-normalized, we’re seeing a rapid change.
+Hybrid and remote work aren’t the end of the story, however. The new
 
-To help companies understand and take advantage of new possibilities
+capabilities organizations have for remote work have opened up new
 
-that open talent allows, we want to highlight some trends in the
+possibilities, and now is the time for leaders to assess how other changes
 
-ﬂexible/open talent landscape, comment on what jobs or tasks are most
+to the employment model could work for them.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+A ﬂexible or open talent model is particularly worth considering.
 
-2
+Flexible and open talent are broad terms, covering scenarios from
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+local freelancers coming on-premises to globally distributed online
+
+contractors to innovation sourcing through tournaments or contests. The deﬁning feature is project-based or temporary work that is staﬀed
+
+with workers who are not permanently attached to a company. If done
+
+correctly, these ways of working can help organizations access skilled
+
+talent while providing the ﬂexibility that many workers increasingly

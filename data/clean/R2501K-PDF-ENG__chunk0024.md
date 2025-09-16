@@ -1,11 +1,13 @@
-## Technological Change and Interoperability
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3cd742c65a07c7306ba4e638adf869f2da19dd10
+title: R2501K-PDF-ENG
+---
+## in appropriate cases with no negative impact on patient outcomes. The
 
-It is now almost impossible to ﬁnd a product or service that doesn’t
+test allowed him to carefully gauge the risks of speeding up the process
 
-rely on modern technology. And as technology continues to advance
+and to gain acceptance for it. He continued with diﬀerent slices, and
 
-at an exponential rate, we are bombarded with dramatic changes in
-
-what we consume and how it’s delivered. To reduce uncertainty when
-
-launching new tech initiatives or products, it’s important to focus from
+after a year, he had a more ﬂexible recommendation system in place.

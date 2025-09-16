@@ -1,1 +1,13 @@
-# 287
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d937b3c4bee020d1eab1b41cca3305341c0b6f25
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 10 • Reward Systems and Legal Issues
+
+- An organization’s pay structure classi- fies jobs into categories based on their relative worth. There are three popular job evaluation methods that allow organizations to design a pay structure: ranking, classification, and point. The ranking method consists of comparing job descriptions and ranking jobs based on overall relative worth. The classifica- tion method consists of first creating classes or categories of jobs (based on rel- ative worth), and then placing all jobs into an appropriate category. The point method consists of identifying compen- sable factors and assigning scores to all jobs based on their standing regarding each compensable factor. The point method is the most accurate of the three, but it is also the most time-consuming and difficult to administer. Ultimately, salaries are assigned to the various jobs or types of jobs is dependent on infor- mation obtained through compensation surveys.
+
+- Broad banding is a type of pay struc- ture that collapses all job classes into a few categories, usually about five. Broad banding has become very popu- lar because it gives organizations flexi- bility in rewarding people. In addition, broad banding reflects changes in organizational structure, provides a better base for rewarding growth in competence, gives more responsibility for pay decisions to managers, and provides a better basis for rewarding career progression.
+
+- One or more of six legal principles are usually involved in cases of litigation regarding performance management systems. First, employment at will implies that the employer can end the relationship at any time and gives employers in determining whether, when, and how to measure in and reward performance. Even relationships, employment at will latitude

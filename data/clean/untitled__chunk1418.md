@@ -1,7 +1,19 @@
-# ligentsia. New York: George H. Doran.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 604f3f5f6f9ff3dd6e15a5eac224c8a2e99a3c8f
+title: untitled
+---
+# Psychologist, 10, 191–198.
 
-Deutsch, M. (1954). Field theory in social psychology. In G. Lindzey (Ed.), Handbook of social psychology (Vol. 1, pp. 181–222). Cambridge, MA: Addison-Wesley.
+Danziger, K. (1990). Constructing the subject: Historical origins of psychological research. New York: Cambridge University Press.
 
-Deutsch, M., & Krauss, R. (1965). Trends in social psychology.
+Danziger, K. (1992). The project of an experimental social psychol- ogy: historical perspectives. Science in Context, 5, 309–328.
 
-Theories in social psychology (pp. 212–216). New York: Basui.
+Danziger, K. (2000). Making social psychology experimental: A conceptual history, 1920–1970. Journal of the History of the Behavioral Sciences, 36(4), 329–347.
+
+Darley, J., & Latane, B. (1968). Bystander intervention in emergen- cies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8, 377–383.
+
+de Beauvoir, S. (1952). The second sex. New York: Vintage Books.
+
+Dell, F. (1926). Intellectual vagabondage: An apology for the intel-

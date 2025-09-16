@@ -1,5 +1,17 @@
-## Expert Opinions on the Relevance of JDM to I–O Psychology
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: efd7ec5817050bea38bfc7738313d9a430ae724a
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# PhilosophicalApproaches
 
-We turn now to a discussion of the philo- sophical and methodological traditions in
+Research on decision making has primar- ily used three approaches (Brown, 1989; Maule & Svenson, 1993; von Winterfeldt, 1989):
 
-IOOB and JDM (including the obstacles to, and opportunities associated with, cross- fertilization), the areas in which IOOB has already been enriched by JDM as well as the areas in which it might be further enriched in the future, ways of increas- ing cross-fertilization from JDM to IOOB, and ways in which IOOB can in turn con- tribute to JDM. Included in this discussion are Scott Highhouse, Daniel R. Ilgen, Susan Mohammed, and Jerel E. Slaughter. These researchers are leading IOOB scholars whose research program is characterized by strong ties to JDM topics. They therefore have one foot in the IOOB world and the other in the JDM world. In addition, their speciﬁc areas of research interest collec- tively encompass both the ‘‘industrial’’ and ‘‘organizational’’ sides of I–O psychology. Several of them also teach courses in JDM- related topics, and several of them have authored reviews (e.g., Highhouse, 2001; Ilgen, Major, Hollenbeck & Sego, 1995; Mohammed & Schwall, 2009) and encyclo- pedia entries (e.g., Schwall & Mohammed, 2007; Slaughter & Reb, 2007) on JDM- related topics. Finally, the aforementioned scholars have served as editors, associate editors and/or editorial board members of OrganizationalBehavior andHumanDecisionProcesses (OBHDP), which is not only frequently considered a top-tier journal for IOOB researchers but also arguably the premier journal for JDM researchers. This discussion originated as, but has been greatly modiﬁed from, a panel discussion held at the 2009 SIOP conference.
+- 1. the normative approach, which de- ﬁnes ‘‘ideal’’ or ‘‘rational’’ judgments or choices as those that adhere to formal models (such as the expected utility model or even its subjec- tive variant) and axioms (such as transitivity),
+
+- 2. the descriptive approach (such as Kahneman and Tversky’s prospect theory and catalog of heuristics and biases), which outlines the systematic departures of real-world from normative decision makers standards—demonstrating, in other words, that decision makers are ‘‘not only irrational but predictably irra- tional’’ (Ariely, 2008, p. 6, emphasis added), and
+
+- 3. the prescriptive approach (‘‘the nor- mative tempered by the descriptive’’; von Winterfeldt, 1989, p. 499), which attempts to improve decision making via, technology-based decision support systems that reduce the representational and computa- tional complexities inherent in nor- mative models. for example,
+
+In other words, the normative approach has served as the foundation for both the descriptive and the prescriptive approaches in decision-making research. In the next the normative section, we maintain that approach has, for the most part, served the ﬁeld of JDM well—and we urge the ﬁeld of IOOB to develop more normative theories.

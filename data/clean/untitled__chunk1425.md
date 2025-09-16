@@ -1,5 +1,11 @@
-# Harvard University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9de1e0acb460ddb2959a50a8e0c509637f247fe5
+title: untitled
+---
+## ality and Social Psychology, 26, 309–320.
 
-Gibb, C. A. (1954). Leadership. In G. Lindzey (Ed.), Handbook of social psychology (Vol. 11, pp. 877–920). Cambridge, MA: Addison-Wesley.
+Gergen, K. (1979). The positivist image in social psychological theory. In A. R. Buss (Ed.), Psychology in social context (pp. 193–212). New York: Irvington.
 
-243
+Gergen, K. (1994). Realities and relationships. Cambridge, MA:

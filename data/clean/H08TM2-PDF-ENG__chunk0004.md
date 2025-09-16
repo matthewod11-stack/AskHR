@@ -1,27 +1,15 @@
-# on the job.
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c75947f5108f55210ca3f692fa5687f59cdb7cd
+title: H08TM2-PDF-ENG
+---
+## HBR / Digital Article / Leading After Your Predecessor Fails
 
-As executive coaches to seasoned leaders, we’ve worked with many who
+Being promoted to lead after your predecessor fails is often anything
 
-have rapidly stepped into top roles. Succeeding after your predecessor
+but a victory lap. In fact, a 10-year longitudinal research project on
 
-fails demands an entirely diﬀerent leadership approach.
+executive transitions by consulting ﬁrm Navalent found that more than
 
-Prepare to be surprised.
-
-Time and again, we’ve seen that when an internal leader is promoted to
-
-replace a failed predecessor, the situation is always more broken than
-
-they knew.
-
-Just a week into her new role, Julie was stunned to see ﬁnancial data
-
-she hadn’t been exposed to in her previous position. She was caught
-
-oﬀ guard as trusted relationships began to shift and key business
-
-infrastructure she once believed was solid proved unstable. As she
-
-conﬁded in one of us (Darcy), she feared that the role’s demands
-
-might be beyond her capabilities and that failure could have lasting
+50% of executives who “inherit a mess” fail within their ﬁrst 18 months

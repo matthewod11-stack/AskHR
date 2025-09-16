@@ -1,13 +1,31 @@
-## HBR / Digital Article / A Guide for Getting Stakeholder Buy-In for Your Agenda
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e428f8f5e01bdc44e032da8449123933bbaaf058
+title: H07YQQ-PDF-ENG
+---
+# energy?
 
-to the foreground for the company. She came to us frustrated that she
+- What personal support do I have or need more of?
 
-couldn’t see the IPO to fruition. In conversation with us she realized
+One of our clients is the CFO of a startup, poised to go public in the next
 
-that learning was her key value, and that regardless of going public,
+couple of years. The CEO, who is also the founder, brought her in to help
 
-what she could learn in her role would give her great meaning. Once she
+the company get ﬁscally positioned for their IPO. This was very exciting
 
-embraced the learning opportunity, the timing of the IPO became less
+for her as she had the skills and was eager to pursue the challenge and
 
-relevant to her, and she was able to focus on other ways to make the
+add this experience to her resume. Pretty quickly, however, it became
+
+obvious that the founder/CEO was committed to his own ways of doing
+
+things and was particularly hard to inﬂuence. She noticed that going
+
+public became less and less of a priority as other market concerns came
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

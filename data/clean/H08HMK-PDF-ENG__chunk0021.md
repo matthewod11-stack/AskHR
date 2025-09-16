@@ -1,29 +1,23 @@
-# More Resources
+---
+source_path: H08HMK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68d7d1684c8f8abc62769a1a6e80a556cb06d7fd
+title: H08HMK-PDF-ENG
+---
+# HBR / Digital Article / Your Employees Are Also Caregivers. Here’s How to Support Th…
 
-- 5 Things Employers Get Wrong About Caregivers at Work
+. . .
 
-- When You’re Responsible for Eldercare (Women at Work podcast)
+At some point in our lives, we will all be caring for someone else. As my colleague,
 
-- What It Will Take to Make U.S. Child Care More Affordable
+Amanda Kersey, writes, “sometimes we see the need coming and can plan for it,
 
-- Women Who Are Making Work Better for Women (Women at Work podcast)
+but a lot of the time, we can’t.” And no one should be left hanging when that
 
-- Childcare Is a Business Issue
+occurs. There are still major gaps around care, but with gaps come plenty of room
 
-- The Best Ways Your Organization Can Support Working Parents
+to find solutions and close them. So, take some time during this November, National
 
-- Working While Parenting a Teen: Not What I Expected (Women at Work podcast)
+Family Caregivers Month, to explore what your company actually knows, and is
 
-- Consumed by Caregiving (Women at Work podcast)
-
-See more HBR charts in Data & Visuals on HBR.org.
-
-This article was originally published online on November 13, 2024.
-
-Gretchen Gavett is a senior editor at Harvard Business Review.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+actually doing, to support the vast majority of employees who care for others.

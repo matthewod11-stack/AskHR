@@ -1,21 +1,19 @@
-# Trust
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 84435cdbee3da0e9c98e41ba938d8c9440984191
+title: issn_print_0976_013x
+---
+# Conformity
 
-15.1935
+21.8387
 
-2.13572
+6.455
 
-15.3226
+23.5806
 
-2.18155
+5.39614
 
-- 0.235
+- 1.153
 
-0.815
-
-Table 3 provides an overview of TCS and Infosys' mean and standard deviation scores on
-
-conformity and trust, respectively. There is no significant difference between TCS and Infosys
-
-on both conformity (0.254) and trust (0.815) as the P-value > 0.05. According to Rédha, et
-
-al. (2022), organizational trust favours the organizational commitment. Following Yu-Yu
+0.254

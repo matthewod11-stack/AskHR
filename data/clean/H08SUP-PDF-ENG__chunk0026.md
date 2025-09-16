@@ -1,23 +1,15 @@
-# among members.
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ee14528a89acdab0c40cc6d2a8f24d95e00de60
+title: H08SUP-PDF-ENG
+---
+## After the implementation of simultaneous voting, FDA AdComs
 
-Our analysis reveals a more nuanced explanation. In fact, the decrease
+exhibited a substantial decline in unanimous voting outcomes: the
 
-in unanimous voting outcomes was primarily driven by concurrent
+proportion of unanimous committee recommendations decreased from
 
-changes in discussion content and dynamics. By applying a word
+45% to 27%. This shift appears to reﬂect the FDA’s intended goal
 
-embedding model to analyze the meeting transcripts, we see that under
-
-the new voting procedure, committees tended to discuss a greater
-
-breadth of topics. In other words, the experts were more likely to
-
-share their private information, and the committee discussion tended
-
-to scrutinize the problem more comprehensively. Because committee
-
-members now explored the issue from multiple, fresh angles, they
-
-unearthed previously hidden insights. Those fresh perspectives and the
-
-surfacing of unshared data translated directly into a wider distribution
+of reducing “herding” behavior and promoting greater independence

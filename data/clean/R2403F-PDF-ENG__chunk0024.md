@@ -1,17 +1,11 @@
-# accidents.
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb8a2191f5bc3ee6a999d8cf746feeb3a5226711
+title: R2403F-PDF-ENG
+---
+# HBR / Magazine Article / HR’s New Role
 
-One huge cause of stress is uncertainty.
+or alleviating its symptoms. Implementing wellness programs to help
 
-That’s why HR should encourage leaders to
-
-communicate their plans more proactively
-
-with employees. If employees don’t know
-
-what’s in the works, they’ll make up their
-
-own stories, which are practically
-
-guaranteed to be worse than the reality.
-
-Two of the things they’re most anxious
+employees manage stress is like building trauma centers to deal with car

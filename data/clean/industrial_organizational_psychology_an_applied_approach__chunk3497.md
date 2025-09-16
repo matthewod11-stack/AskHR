@@ -1,13 +1,25 @@
-# Shift Work
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e83c2d6baa82f65c83f1ad8737c189fe019cb27c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Work at Home
 
-Even though most people work from  a.m. or  a.m. to  p.m., approximately % of all employees work evening or late-night shifts due to economic and safety factors. Police officers and nurses must work around the clock because neither crime nor illness stops at  p.m.; retail employees must work late hours to accommodate people who are able to shop only late in the day; and factory workers work shifts because one plant can be three times as productive if it oper- ates round the clock.
+Some employees set their own work schedules by working at home rather than at the workplace. Although working at home has recently received increased atten- tion, it is certainly not a new concept. For more than a century, women have sewn garments at home and then sold them to factories for piece-rate prices. Today, with the increase in computers, other types of work can also be done in the home. Many types of home work are completed with little or no contact with a central office or factory. With telecommuting, however, an employee uses a computer to electronically interact with a central office. Other terms commonly used for telecommuting are telework and mobile working. Telecommuting is ideal for such tasks as computer programming, data entry, and telemarketing. Though there are many estimates of the frequency of telecommuting, in the United States, one sur- vey found that % of organizations offer some form of telecommuting (SHRM, a). This relatively high percentage is not surprising as a meta-analysis on telecommuting found that telecommuters have less work–family conflict, better relationships with their supervisor, higher job satisfaction, less role stress, lower intention to turnover, and higher performance levels than their nontelecommut- ing colleagues (Gajendran & Harrison, ).
 
-Because shift work is necessary and affects approximately % of all employ- ees, research has attempted to identify its effects as well as ways to reduce any effects that might be negative. As Table . shows, research clearly indicates that working evening (“swing”) and late-night/overnight (“graveyard”) shifts has many physical, mental, and work-related negative effects.
+An increasingly popular concept in telecommuting is the neighborhood “telebusiness center.” At these centers, employees from a variety of organizations share office space close to their homes but are connected electronically to their respective organizations.
 
-These negative effects are thought to occur because of disruptions in circadian rhythms, the -hour cycles of physiological functions maintained by every person. For example, most people sleep at night and eat in the morning, at noon, and in the evening. Although there are individual differences in the exact times for each function (such as eating or sleeping), people generally follow the same pattern. Working evening and late-night shifts disrupts this pattern and often causes digestive, appetite, and sleeping problems. Unfortunately, we don’t “get used to” shift work, and these effects get worse with continued exposure to night shifts (Kaliterna, Vidacek, Prizmic, & Radosevic-Vidacek, ). For exam- ple, Garbarino () found that Italian police working shifts had more sleep dis- orders than non–shift workers and that the greater the number of years spent working shifts, the worse the sleep disorders.
+Working at home has many advantages for both the employee and the employer. For the employee, it offers the opportunity to avoid or minimize child- care and commuting costs, while allowing flexibility and comfort in working con- ditions. For the employer, money is saved on both office space and utilities.
 
-Many of the psychological and social effects of shift work are caused by the incompatibility of an employee’s schedule with the schedules of other people. That is, a person who works nights and sleeps mornings may be ready to socialize in the afternoon. Unfortunately, fewer people are around. And when the family is active, the employee is sleeping, and thus requires quiet.
+But with the advantages come certain disadvantages, which is why most unions oppose home work (Brennan, ). First, it is difficult for a union to organize workers when they are scattered around many locations. Second, it is difficult for the government to enforce safety and fair treatment standards when
 
-As Figure . shows, many factors influence the degree to which shift work will affect an employee. For example, employees who live with families are affected more than employees who live alone because the former must adjust their sleeping schedules to those of others in the household (Smith & Folkard, ). Other important factors are uniqueness of shift, whether a shift is fixed or rotating, frequency of rotation, and individual differences.
+organization development
 
-Uniqueness of Shift The social effects of shift work can be greatly reduced if other organizations in the geographical area also use other shifts. The higher the percentage of organi- zations with shifts, the greater the number of stores and restaurants that are open during the evening and the greater the number of other people available with whom to socialize.
+547
+
+548
+
+chapter 
+
+employees are not in a central location. Third, employees cannot be easily super- vised when they work at home. Finally, it becomes difficult to disassociate work from home life. Unfortunately, the actual evaluation of the merits of telecommut- ing will have to wait until more research has been conducted. Until then, work- ing at home sounds like a promising idea when used with controls and checks to ensure employee safety and fair treatment.

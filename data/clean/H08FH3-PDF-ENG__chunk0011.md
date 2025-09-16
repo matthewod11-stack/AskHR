@@ -1,7 +1,13 @@
-# Four Kinds of Workplace Connection
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e352a4a60da211396ff92fa68811772ee07581e
+title: H08FH3-PDF-ENG
+---
+# most tenured employees.
 
-Connection in the workplace is commonly thought of as a single
+An exploration of existing research suggests that critical evidence is
 
-dimension that prioritizes interpersonal relationships with co-workers.
+missing from the connections-at-work conversation, and this shortfall is
 
-Indeed, research shows social connection is extremely important.
+leading organizations and leaders astray.

@@ -1,7 +1,19 @@
-## accuracy of résumé and job application information.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 36efce65f1a4f1dbecc921776e3c2ba4beadba17
+title: industrial_organizational_psychology_an_applied_approach
+---
+# organization.
 
-Referent power Leadership power that exists when
+Reference The expression of an opinion, either
 
-followers can identify with a leader and the leader’s goals.
+orally or through a written checklist, regarding
 
-Referral service A system of child care in which an employer maintains a list of certified child-care centers that can be used by its employees. Reinforcement hierarchy A rank-ordered list of
+glossary
+
+617
+
+an applicant’s ability, previous performance, work habits, character, or potential for future success.
+
+Reference check The process of confirming the

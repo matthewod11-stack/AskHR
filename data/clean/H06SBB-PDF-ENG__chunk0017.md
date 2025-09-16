@@ -1,61 +1,71 @@
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39318e657070102a7d281cd6f2206213d73d74bd
+title: H06SBB-PDF-ENG
+---
 # HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
 
-whether that’s the space or whether that’s our policies or whether that’s
+SANDY SPEICHER: Yeah, I guess what we see now is really about a
 
-our agreements for how we collaborate.
+question of intentionality and every business is different, which means
 
-And of course, what you just said there around the word
+that I think what we’re going to see is a lot more people designing what
 
-experimentation, a good experiment is designed to teach us something.
+their agreements are for how they want to work together.
 
-And so how are we setting up those experiments knowing what we’re
+For sure what we’ve all realized is that there is work that we can do from
 
-looking to learn so that we can incorporate that and iterate on that over
+all different types of environments. We can also build relationships in
 
-time? This actually really requires a whole new dynamic relationship
+different platforms, whether that’s physical or virtual. I almost made
 
-across a workplace, and it’s quite exciting.
+up a word there combining them, but this year one of the things that
 
-I think that as we see in the dynamics of the world today, everyone’s
+we’re really looking at is not just what’s the future of work where there’s
 
-really asking for an evolved relationship with work. That kind of
+just one whole new way, but what are the many ways of working in
 
-frame that you sort of have to be here 9:00 to 5:00, people are really
+the future? At IDEO we call this FWOW, the Future Ways of Working,
 
-questioning that relationship, understanding that they can still be really
+because there are many, many different ways that we’ll be working. And
 
-effective at their work, but have a lot more flexibility and agency in their
+so, the office space becomes one of the things that we can design for
 
-days. So really, I think the major principle that should underlie all of the
+how we come together.
 
-experiments that we’re doing right now is how does this allow people to
+ADI IGNATIUS: I think you put your finger on what a lot of companies
 
-have increased agency, and how do we create a system to incorporate
+are doing and that is really experimenting. We don’t really know what
 
-the flexibility that people need as a result of that agency?
+we’re going to do in the future. I think most companies are saying,
 
-ADI IGNATIUS: Yeah, I think agency is the number one issue. But it’s
+“Well, we’re going to try something and then see how it goes.” From
 
-tricky because if you ask your workforce, they may ask for 100% agency,
+your perspective, in terms of thinking about process, how do companies
 
-and by that they may mean, “I want to work from home 100% of the
+design the best hybrid work model to learn from this experimentation
 
-time.” What do you do with that data? Who should take charge?
+that’s going on?
 
-SANDY SPEICHER: I do think that people have many different needs
+SANDY SPEICHER: It’s such a good question because we risk right now
 
-and many different experiences, and some people found a comfort and
+in the pressure of urgency, coming to new answers quite quickly or
 
-effectiveness working from home and some people are really missing
+thinking that we know what the best solution will be. When meanwhile,
 
-being back in person together and some people are in between, really
+times are really changing and people’s needs are changing. So there
 
-wanting flexibility. So as leaders, a lot of our job is to incorporate all of
+is a lot of conversation out there about leaders and empathy and
 
-that information and understand how to design a shared system.
+how the role of the leader is really to listen and listen deeply right
+
+now. Understand the needs of customers and also colleagues and use
+
+that information to understand how to design the systems around us,
 
 Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

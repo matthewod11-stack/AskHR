@@ -1,11 +1,25 @@
-## better ﬁt as a consultant, mentor, or teacher.
+---
+source_path: H07XS0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a57f42ed29f8b4989e232f20a02867d8feaa73c7
+title: H07XS0-PDF-ENG
+---
+# coaching.
 
-Next, you should also consider whether you thrive with independent
+And while we aren’t new coaches, each of us has found that this variety
 
-work or in collaboration with others. Coaching isn’t really a team sport,
+adds depth and fulﬁllment to our practices and makes us stronger
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+coaches, which makes us more attractive to clients.
 
-6
+What to Do If You Really, Truly Want to Become a Professional Coach
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+First and foremost, if you want to become a professional coach, we
+
+recommend working with a credentialed coach yourself so that you
+
+really understand what coaching is — and isn’t. This may lead you to
+
+ask yourself if what you really want to do is give advice, share your
+
+expertise on how to do things, and solve problems. If so, you may ﬁnd a

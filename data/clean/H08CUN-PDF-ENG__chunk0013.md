@@ -1,21 +1,11 @@
-# Stay close to your team
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3aaf0d08cb8a4951a524f63ccb23f5391960c192
+title: H08CUN-PDF-ENG
+---
+## HBR / Digital Article / When Resentment Is Building on Your Team
 
-Recognizing when group dynamics are “slipping a little too far into
+creating what are called “spirals of incivility,” he adds. “That kind of
 
-interpersonal strife and animosity” requires a deep understanding of
-
-your team members’ priorities and personalities. “You need to know
-
-your team well enough to spot when debate shifts from task conﬂict
-
-to relationship conﬂict and when intervention is necessary,” says Klotz.
-
-Sometimes resentment looks like lashing out; other times it manifests
-
-as silence or withdrawal. “Look for changes in people’s eﬀort or energy
-
-level,” he adds. Carucci advises opening lines of communication. “Tell
-
-your team: ‘If you’re feeling frustrated, tired, or concerned, I want to
-
-hear about it — even if I’m the source of that frustration.’” (More on this
+environment drains whatever positive momentum you have.”

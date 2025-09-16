@@ -1,5 +1,7 @@
-# Descriptive statistics - Variables Research variables TSLS TFLS LFLS TS+TF+LF=Leadership style
-
-Mean 3.23 3.40 2.43 3.24
-
-Median 3.25 3.50 2.25 3.28
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 5717984dd0174fe982c3311c2a79ee7a549e8bb0
+title: final_2019_jan_feb_jbs_pmd
+---
+## Table 4.1: Descriptive statistic of group variable Three leadership styles

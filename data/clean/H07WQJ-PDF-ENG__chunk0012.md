@@ -1,29 +1,15 @@
-## sensibilities. During the 2000s and 2010s, former Pepsi CEO Indra
+---
+source_path: H07WQJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e09e941ec7a449312308c92ab58742c9060fe252
+title: H07WQJ-PDF-ENG
+---
+## Religious groups the world over tell memorable, emotionally resonant
 
-Nooyi did precisely this while communicating a morally infused
+stories to convey moral messages. Corporate leaders who create moral
 
-strategy called “Performance with Purpose.” She told of her life growing
+communities also tend to be compelling storytellers, evoking lofty
 
-up in modest circumstances in India and shared how that shaped
+goals, inspiring stakeholders to surmount diﬃcult, short-term obstacles
 
-her sense of a company’s obligations. As one executive recalls, her
-
-message was so compelling that “PwP” became a mantra for employees.
-
-They united around helping customers live healthier lives while also
-
-delivering great returns for Pepsi.
-
-To maximize its impact as a means of creating moral community, a big
-
-story must clearly articulate the moral principles and values a company
-
-supports, and it must be framed in a way that seems broadly relevant
-
-to the lives of stakeholders. Here Nooyi, an early corporate advocate
-
-of purpose, might have come up short. Performance with Purpose
-
-was perhaps overly narrow in its deﬁnition of purpose; one annual
-
-report described it as “delivering sustainable growth by investing in a
+to attain them, and often inserting themselves and their own moral

@@ -1,13 +1,19 @@
-## the loudest or most visible data points rather than deep analysis. And
+---
+source_path: H08SGA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce0409ff40052f4c0eaaabe3faecbf7b9d31e5fa
+title: H08SGA-PDF-ENG
+---
+## inherited strengths, and lead purposeful change.
 
-the halo (or horn) eﬀect can cause you to make sweeping judgments
+- 1. Lead with curiosity, not conclusions.
 
-based on positive or negative ﬁrst impressions.
+The pressure to perform quickly in a new role can lead even seasoned
 
-Instead of replacing team members, start by adopting a curious
+leaders to make hasty judgments about their inherited team. But
 
-mindset. Ask questions. Observe dynamics. Listen more than you talk.
+quick assessments and defaulting to replacing people often stem from unconscious biases, not data. Aﬃnity bias can lead you to favor
 
-People may surprise you once they feel safe enough to reveal their true
+individuals who feel familiar in background, interests, or experiences.
 
-capabilities. Give yourself time to spot not only talent gaps, but hidden
+An availability heuristic can lead you to make hasty judgments based on

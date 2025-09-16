@@ -1,29 +1,41 @@
-# ineffective performance.
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 2b9b13d48e01df8f2e805c95862741074ac9f587
+title: The Feedback Fallacy
+---
+## HBR / Magazine Article / The Feedback Fallacy
 
-Since excellence is idiosyncratic and cannot be learned by studying
+stay. If you study failure, you’ll learn a lot about failure but nothing
 
-failure, we can never help another person succeed by holding her
+about how to achieve excellence. Excellence has its own pattern.
 
-performance up against a prefabricated model of excellence, giving her
+And it’s even more problematic than that. Excellence and failure often
 
-feedback on where she misses the model, and telling her to plug the
+have a lot in common. So if you study ineﬀective leaders and observe
 
-gaps. That approach will only ever get her to adequate performance.
+that they have big egos, and then argue that good leaders should not
 
-Point out the grammatical ﬂaws in an essay, ask the writer to ﬁx the
+have big egos, you will lead people astray. Why? Because when you do
 
-ﬂaws, and while you may get an essay with good grammar, you won’t get
+personality assessments with highly eﬀective leaders, you discover that
 
-a piece of writing that transports the reader. Show a new teacher when
+they have very strong egos as well. Telling someone that you must lose
 
-her students lost interest and tell her what to do to ﬁx this, and while
+your ego to be a good leader is ﬂawed advice. Likewise, if you study
 
-you may now have a teacher whose students don’t fall asleep in class,
+poor salespeople, discover that they take rejection personally, and then
 
-you won’t have one whose students necessarily learn any more.
+tell a budding salesperson to avoid doing the same, your advice will be
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+misguided. Why? Because rigorous studies of the best salespeople reveal
 
-11
+that they take rejection deeply personally, too.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+As it happens, you ﬁnd that eﬀective leaders put their egos in the
+
+service of others, not themselves, and that eﬀective salespeople take
+
+rejection personally because they are personally invested in the sale—
+
+but the point is that you will never ﬁnd these things out by studying

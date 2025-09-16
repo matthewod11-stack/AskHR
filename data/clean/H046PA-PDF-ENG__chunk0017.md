@@ -1,11 +1,23 @@
-# HBR / Digital Article / How Women Can Develop — and Promote — Their Personal Bran…
+---
+source_path: H046PA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd68b3215c1878d0390362e59669a2cad60c838c
+title: H046PA-PDF-ENG
+---
+# corporate intranet.
 
-job at the organization, she was a shoo-in because the book had already
+Content creation may also open up completely unexpected
 
-established her credibility in the ﬁeld.
+opportunities, including new jobs. Miranda Aisling Hynes, whom I
 
-Personal branding is fraught for many professionals — no one wants
+proﬁle in my book Stand Out, self-published a book about creativity
 
-to look like a craven self-promoter. And with the likability conundrum,
+that she gave to a friend who worked at an arts organization. He liked
 
-building meaningful connections and a strong reputation at work is
+it and passed it along to his supervisor; when Hynes later applied for a
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,23 @@
-# Labour Economics, 20 (4), 899-922.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 768a537ff51607609dd8b043ffc1f4aa2093f7ab
+title: file_1
+---
+## Industrial and Labor Relations Review, 60 (1), 45-66.
 
-Bridges, W. and R. Nelson, 1989. Markets in Hierarchies: Organizational and Market
+Borchorst, A., 2006. Daddy Leave and Gender Equality – the Danish case in a
 
-Influences on Gender Inequality in a State Pay System. American Journal of Sociology, 95, 616-58.
+Scandinavian perspective. Centre for Feminist Research. Aalborg University. Aalborg: FREIA No. 60.
 
-Bryman, A. and E. Bell, 2003. Business research methods. New York: Oxford University
+Borchorst, A. and B. Siim, 2002a. Editorial. NORA, 10 (2), 67-70.
+
+Borchorst, A. and B. Siim, 2002b. The women-friendly welfare states revisited. NORA, 10
+
+(2), 90-8.
+
+Borchorst, A. and B. Siim, 2008. Woman-friendly policies and state feminism: Theorizing
+
+Scandinavian gender equality. Feminist Theory, 9 (2), 207-224.
+
+Bren, R. and C. Garsia-Penalosa, 2002. Learning and Gender Segregation. Journal of

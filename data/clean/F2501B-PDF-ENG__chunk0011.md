@@ -1,31 +1,19 @@
-# hours.
+---
+source_path: F2501B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 882411331bc06070e6314021e8a2d4900081e0eb
+title: F2501B-PDF-ENG
+---
+## relationship between ambition and leadership aptitude.
 
-Fair point. Does the research suggest a better way to select leaders?
+Leadership demands sacriﬁce—a willingness to put in long hours, take responsibility for failures, and so on. Does ambition become more valuable over time if it drives leaders to “stick with it” when less ambitious leaders might give up?
 
-We recommend that institutions de-emphasize ambition as a factor
+Perhaps, but over time organizations receive more and more
 
-in the selection process. Instead, they should focus on attributes that are known to predict leadership eﬀectiveness, such as intelligence and
+information about a leader’s behavior and performance, so ambition
 
-sociability. Further, they should solicit a wider, more representative
+is likely to become less relevant to staying in power. But this is just
 
-pool of applicants and ﬁnd ways to target and inspire individuals who
+speculation—it’s a good area for future research. On a side note, I’m
 
-have low ambition and high leadership potential.
-
-Is there a risk that you will force people into leadership roles that they don’t want?
-
-I don’t think forcing people into leadership roles is a sustainable
-
-solution. However, there may be many people who would be perfectly
-
-capable leaders but lack conﬁdence or just don’t recognize themselves
-
-in the leaders they see around them. When discussing our research,
-
-people often share with us that they know people who ﬁt that
-
-description. Given the chance, those individuals may ﬂourish. We hope
-
-that workplaces ﬁnd ways to target these low-visibility, high-potential
-
-employees and boost their conﬁdence so that they don’t opt out of
+from the Netherlands, where we prize work-life balance, so I’m not sure I agree that eﬀective leadership requires putting in particularly long

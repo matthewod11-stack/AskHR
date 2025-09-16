@@ -1,7 +1,9 @@
-# Prompt Engineering
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 0920c3f552a1866aaed3dbd9a79c820937568d22
+title: prompt
+---
+# February 2025
 
-Yikes. That’s obviously the wrong answer. As a ma(cid:459)er of fact, LLMs o(cid:454)en struggle with mathematical tasks and can provide incorrect answers – even for a task as simple as
-
-multiplying two numbers. This is because they are trained on large volumes of text and math
-
-may require a di(cid:441)erent approach. So let’s see if intermediate reasoning steps will improve
+29

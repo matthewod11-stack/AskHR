@@ -1,21 +1,17 @@
-# HBR / Magazine Article / GitLab’s CEO on Building One of the World’s Largest All-Rem…
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 708e1502b3c0002b29070336ac40ec6194059291
+title: R2302A-PDF-ENG
+---
+# organization.
 
-communicate, and so on. Values are what the organization cares about.
+Every corporate culture rests on norms and values. Norms are the
 
-At GitLab the top two values are results and iteration.
+policies and practices that guide how work gets done, how colleagues
 
-The GitLab handbook both documents and reﬂects our culture. It is an
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-evolving online encyclopedia that contains more than 2,000 web pages
+4
 
-of information, including answers to basic questions such as “How do I
-
-create a merge request?” and “How do I ﬁle an expense report?” and
-
-a list of the 22 ways we reinforce our values, from promoting only
-
-those people who espouse them to having a corporate songbook full of
-
-adaptations such as “You’re the Iteration,” sung to the tune of Chicago’s
-
-“You’re the Inspiration,” which we often belt out on team karaoke
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

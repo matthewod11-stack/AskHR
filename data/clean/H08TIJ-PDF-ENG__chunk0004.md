@@ -1,17 +1,17 @@
-## HBR / Digital Article / Stop Solving Your Team’s Problems for Them
+---
+source_path: H08TIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 465b28da8fd5f9ccfaef8aab5c89c95dfe9ab7af
+title: H08TIJ-PDF-ENG
+---
+# quarterly newsletter.
 
-organizational red tape. Plus, recent layoﬀs and economic uncertainty
+Sven wasn’t quite sure what to do. He’d need to involve other
 
-had him paranoid about making a mistake. Sven decided to bring the
+departments to resolve the problems, but there was a lot of
 
-problem to my client Laura, his manager and the organization’s chief revenue oﬃcer.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Laura listened attentively as Sven waded through the details. She asked,
+1
 
-“What support do you need from me?”
-
-“Could you reach out to the customer?” Sven asked.
-
-Laura knew Sven was capable of managing the problem, but she didn’t
-
-want him to feel unsupported or dismissed. So, she agreed, adding item
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

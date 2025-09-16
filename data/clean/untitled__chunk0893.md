@@ -1,3 +1,9 @@
-# Piaget. New York: McGraw-Hill.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: eeaa690d6d74726aa1c32da5eb5cb2d5626656b9
+title: untitled
+---
+# Norton.
 
-Greenﬁeld,P.M.(1997).Youcan’ttakeitwithyou:Whyabilitiesas- sessments don’t cross cultures. American Psychologist, 52(10), 1115–1124.
+Green, D. R., Ford, M. P., & Flamer, G. B. (1971). Measurement and

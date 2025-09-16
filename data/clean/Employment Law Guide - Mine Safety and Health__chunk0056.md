@@ -1,7 +1,19 @@
-## MSHA Online Forms: Provides access to MSHA forms and online ﬁlings.
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: a6c90e1d5da873a4a93b3b8332001d9c43c3c9ee
+title: Employment Law Guide - Mine Safety and Health
+---
+# MSHA's regulations.
 
-elaws MSHA Online Forms Advisor: Allows users to learn about and access the MSHA forms that can be
+MSHA's Web site contains compliance assistance information, guidance, and helpful tips for the mining community. For example, it lists upcoming seminars designed for mine operators and others to receive the
 
-ﬁled online or accessed and completed online.
+latest information about the requirements of a rule or to hear about solutions to various safety and health
 
-Safety and Health Topics: Provides links to speciﬁc compliance information on various safety and health issues found in the mining industry, including those related to equipment, chemicals, and working
+problems. Also, the website provides model forms, records, and plans for the mine operator to use to comply
+
+with MSHA requirements, thus avoiding the need for the operator to create these items independently.
+
+Through the Web site, mine operators may ﬁle various reports directly with MSHA.
+
+Among the many resources available are:

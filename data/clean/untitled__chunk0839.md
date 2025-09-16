@@ -1,3 +1,9 @@
-# Cognitive Processes
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 666a176ceb22a3c564bbc37dd7b08710a4ae787f
+title: untitled
+---
+# toward heuristics than Piaget believed (Gigerenzer, Todd, & ABC Research Group, 1999).
 
-Arelatedpositionisthatofcognitivetheorists(e.g.,Anderson, 1983; G. A. Miller, Galanter, & Pribram, 1960; Newell & Simon, 1972), who seek to understand intelligence in terms of the processes of human thought and also the architecture that holds together these processes. These theorists may use the software of a computer as a model of the human mind, or in more recent theorizing, use the massively parallel operating systems of neural circuitry as a model (e.g., Rumelhart, McClelland, & PDPResearch Group, 1986). Much of the his- tory of this ﬁeld is relatively recent, simply because much of the “early” development of the ﬁeld has occurred in recent times.The ﬁeld today, for example, has advanced quite far be- yond where it was 30 years ago.At the same time, the origins of the ﬁeld go back to early in the twentieth century and even further, depending upon how broad one is in labeling work as related to this approach.
+Vygotsky’s theory is, at the turn of the century, more in vogue than Piaget’s. It better recognizes the important role of the social-cultural environment in intellectual development. And it also suggests how conventional tests may fail to un- earth developing intellectual functions that give children added potential to succeed intellectually. Vygotsky’s theory is rather vague, however, and much of the recent development has gone considerably beyond anything Vygotsky proposed. Perhaps if Vygotsky had not died tragically at an early age (38), he would have extensively ampliﬁed on his theory.

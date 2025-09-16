@@ -1,3 +1,9 @@
-# Prompt
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 2e758e0168d16d44b5fa7cb74ed1c6e6fff36765
+title: prompt
+---
+# Top-P
 
-Write a code snippet in Bash, which asks for a folder name. Then it takes the contents of the folder and renames all the files inside by prepending the name draft to the file name.
+1

@@ -1,15 +1,15 @@
-# late at night to a stranger.
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4c32808225ff3fb582429104777815a7452d784a
+title: H08VUQ-PDF-ENG
+---
+## to the lobby every time an order arrives—a cumbersome and frustrating
 
-Seeing the clear, “last-inch” logisitics problem, Yunji Technology
+process, especially for guests accustomed to placing multiple orders
 
-developed a strategy to create cost-eﬀective, personable delivery robots
+over the course of a single night’s stay. In the rare cases when delivery
 
-that would bring items directly to hotel rooms and then leveraged AI
+workers were allowed to deliver directly to the room, delivery personnel
 
-to actualize it. These cute robots are able to navigate autonomously to
-
-the guest’s door, gently announcing their arrival in a soft, childlike voice
-
-that’s sure to bring a smile. Once the guest retrieves the delivery, the
-
-robot cheerfully wheels itself away, even cracking playful jokes to other
+lost time, the hotel faced a security risk, and guests had to open the door

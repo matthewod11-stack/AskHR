@@ -1,3 +1,9 @@
-# 3.2. Framework for analysis
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 6922be1cc5fa038dc38cf19dbbbf0d3f2aba6cbe
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# Literature reviews
 
-With a plethora of themes found within the chosen literature, a decision was made to systematically identify the most frequently cited using an adaptation of thematic content analysis. This entailed scrutinising each paper, logging each theme contained within each paper and selecting those themes with the greatest counts for analysis. The four themes with the highest frequencies were: (1) leadership, (2) educational attain- ment, (3) stress and (4) pay. Whilst an alternative approach to inclusion could have been to choose the this was not most
+that may hold more relevance for the nursing profession today due to the rapidly changing nature of nursing over recent years. Where possible, the search was globally limited to research (e.g. within CINAHL) and manually where electronic search limits were not possible. Speciﬁc criteria for inclusion and exclusion (Table 1) were also applied to ensure fulﬁlment of the aim of this review and manual scanning of abstracts was undertaken for the purpose of checking article suitability. While it was not possible to retrieve a small number of papers, the application of the inclusion/exclusion criteria resulted in nine research articles being selected. These articles are summarised in Table 2.

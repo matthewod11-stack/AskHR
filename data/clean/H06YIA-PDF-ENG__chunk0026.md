@@ -1,9 +1,7 @@
-# Rupture without disruption
-
-When you make a leap and radically change your organization design,
-
-you intentionally make a clear break with the previous way of doing
-
-things. But much as you want rupture, you want to avoid disruption.
-
-You have to safeguard your company’s ongoing business, which
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd3d0a00d13eeca6f003913a10ac8cb6583bdcc4
+title: H06YIA-PDF-ENG
+---
+# implement it?

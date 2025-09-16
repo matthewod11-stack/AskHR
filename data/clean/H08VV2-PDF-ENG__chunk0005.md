@@ -1,37 +1,25 @@
-# business.”
+---
+source_path: H08VV2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e35543573e7ffa7e12d830c5954db0cd3ad7161
+title: H08VV2-PDF-ENG
+---
+# What the Experts Say
 
-Don’t pretend everything is ﬁne, says Natasha Kehimkar, CEO of Malida
+Leading a team in an organization where communication and trust have
 
-Advisors, a consulting ﬁrm focused on organizational eﬀectiveness. It’s
+broken down can leave you feeling powerless. The bad energy has a
 
-clear to everyone that it’s not. “Acknowledge the reality, and instead
+way of seeping into everything, threatening to contaminate your people
 
-of trying to hide from what’s happening, focus on empowering your
+too. But as a team leader, “you have more control and inﬂuence than
 
-team and keeping your connection strong,” she says. “Focus on building
+you think,” according to Jennifer Chatman, dean of the Haas School of
 
-something positive together and giving your team the tools and support
+Business at the University of California, Berkeley. “In organizations that
 
-they need to thrive despite the chaos.” Here are seven ways to do that.
+are slightly to very toxic, being siloed can actually be an advantage,”
 
-Set your own standards.
+she says. “The opportunity for leaders is to focus on creating a pocket
 
-First things ﬁrst: You don’t need to passively accept a dysfunctional
-
-workplace. You can build something better. The key is being deliberate
-
-about your team’s culture and getting everyone involved in creating it,
-
-says Chatman. “Envision what the ideal culture looks like and work with
-
-your team to identify the practices that get you there,” she advises. Set
-
-rules for how you treat each other. Decide how you’ll work with clients.
-
-And talk about how the team should handle conﬂict. “Chances are, if
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of excellence: a culture that helps buﬀer your team from the rest of the

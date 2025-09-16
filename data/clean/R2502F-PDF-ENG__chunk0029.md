@@ -1,17 +1,7 @@
-# Don’t Adapt Rituals, Co-Create New Ones
-
-Cross-cultural negotiations are further complicated by rituals—the
-
-established and sometimes symbolic actions, behaviors, or even
-
-ceremonies through which people convey messages and meaning
-
-within a social or cultural group. If all members in a group accept and
-
-adopt similar rituals, social interactions become smoother, faster, more
-
-pleasant, and automatic. In other words, rituals are culturally approved
-
-shortcuts for communicating important messages eﬃciently within a
-
-group. They facilitate the process of relationship building.
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 981ffbf99e6493c61658d63b2bab02a8bf1ace87
+title: R2502F-PDF-ENG
+---
+# [ Rule 3 ]

@@ -1,25 +1,13 @@
-# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad8a2c5cb1c9a82cb2c089d9e413b9596b748247
+title: R2504J-PDF-ENG
+---
+# very eﬀective one.
 
-We also measured several properties of each of the visualizations and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-then statistically analyzed them, using a regression model, to see which
+9
 
-of their characteristics enabled the executives to understand the ﬁrm’s
-
-strategy better. We combined those insights with the data from the
-
-study on how stock prices moved when acquisitions were announced
-
-with and without an accompanying strategy visualization. The results
-
-pointed to ﬁve concrete design rules:
-
-- 1. Group your ideas into three or four main concepts that can serve
-
-as a base of the strategic model. In our sample we saw many
-
-frameworks that contained a lot of components—sometimes dozens of
-
-them. That’s understandable, as business environments and strategies
-
-often are complex. However, a good visualization—and therefore a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

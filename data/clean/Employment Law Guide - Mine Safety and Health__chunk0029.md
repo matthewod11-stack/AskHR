@@ -1,7 +1,17 @@
-## rescue teams capable of a one hour response time;
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: 7143d6283d9497650b49d025561ed7edf2365b51
+title: Employment Law Guide - Mine Safety and Health
+---
+# response plan;
 
-Requires mine operators to notify MSHA within 15 minutes of a death at the mine or an injury or entrapment at the mine which has a reasonable potential to cause death, and establishes a civil penalty of $5,000 to
+Promotes use of equipment and technology that is currently commercially available;
 
-$60,000 for mine operators who fail to do so;
+Requires each mine's emergency response plan to be continuously reviewed, updated and re-certiﬁed by
 
-Requires MSHA to ﬁnalize mandatory health and safety standards relating to the sealing of abandoned
+MSHA every six months; Directs the Secretary of Labor to require wireless two-way communications and an electronic tracking
+
+system within three years, permitting those on the surface to locate persons trapped underground;
+
+Requires each underground coal mine operator to make available to each mine two experienced mine

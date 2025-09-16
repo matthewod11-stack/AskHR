@@ -1,17 +1,11 @@
-# Measures
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 340459e084540ad1ec28746c44e94853754d2c0a
+title: fast_track_art_i_c_l_e
+---
+# Sample
 
-Three dependent variables—enrollment in the coaching pro- gram, active participation in the program, and behavior change for individuals who enrolled in the program—were created. Information on the program is available in previously published studies.32
+Data from 62 companies were pooled representing 645,115 employees fromvariousindustries.Toreducethelikelihoodthatdata were captured as part of a small company pilot program, companies were removed from the initial study pool if fewer than 50 individuals from the company completed an HA or if essential questions on the HERO Scorecard were missing. Individuals were removed from this initial study pool if they were not aged 18 to 80 years or were missing a baseline HA. These exclusion criteria resulted in a baseline study pool of 392,773 individuals from 56 companies (see Table 1).
 
-An individual was considered enrolled in a coaching program when he or she accepted an invitation from the Vendor to participate in the program. If the individual completed an HA, using the Web- based format, eligible individuals received an electronic invitation to enrollinthecoachingprogramthatwasrendereduponcompletionof the HA. If the individual completed a paper HA, eligible individuals received a print invitation that the Vendor mailed to their home address along with the printed results of their HA. Individuals could enroll by completing the paper enrollment card and returning it in a postage-paid envelope or by calling a toll-free number provided by the Vendor. If an eligible individual did not respond to the Web- based or print invitation, the Vendor completed up to ﬁve outbound telephone call attempts to an individual’s home to notify them of the invitation to enroll in a coaching program.
-
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52
-
-Accommodation and food services Accommodation and food services Chemical manufacturing Chemical manufacturing Computer/electronic/electrical manufacturing Computer/electronic/electrical manufacturing Computer/electronic/electrical manufacturing Computer/electronic/electrical manufacturing Computer/electronic/electrical manufacturing Education services Education services Education services Education services Finance Finance Finance Finance Finance Food/beverage manufacturing Food/beverage manufacturing Food/beverage manufacturing Food/beverage manufacturing Food/beverage manufacturing Health care and social assistance Health care and social assistance Health care and social assistance Health care and social assistance Health care and social assistance Information Information Information Information Metal/machine manufacturing Metal/machine manufacturing Metal/machine manufacturing Metal/machine manufacturing Other manufacturing Other manufacturing Other services Professional, scientiﬁc, and technical services Professional, scientiﬁc, and technical services Professional, scientiﬁc, and technical services Public administration Retail Retail Retail Textile/clothes manufacturing Transportation manufacturing Transportation manufacturing Transportation manufacturing Transportation manufacturing Utilities
-
-799 4,369 6,917 1,854 18,605 1,968 584 13,394 6,819 6,746 9,021 1,172 17,495 53,229 4,047 3,767 2,203 6,240 21,530 1,975 19,798 4,056 1,659 8,351 902 438 2,033 4,903 7,790 3,641 1,376 1,887 2,982 19,082 1,211 272 1,162 15,717 7,155 2,951 6,261 2,002 9,633 38,492 3,861 8,223 1,559 12,332 1,014 1,322 413 6,977
-
-An individual was considered an active participant in the pro- gram after he or she completed the ﬁrst interactive health coaching call with a vendor-certiﬁed health coach. Once individuals reached the active participation status, most completed two or more addi- tional health coaching calls within the next 12 months. Speciﬁcally,
-
-(continued)
-
-380
+From the baseline study pool, additional exclusion criteria were applied as appropriate to each of the three dependent variables. For the coaching enrollment analyses, individuals must have been identiﬁed as being eligible for a targeted coaching program on the basis of the results of the baseline HA and they must have enrolled in the coaching program within 150 days of their baseline HA. The ﬁnal sample for these analyses was 205,672 employees representing 55 companies. For the coaching participation analyses, individuals must have enrolled into the coaching program within 150 days of completing their baseline HA and have not been discontinued from the program as the result of their phone being disconnected or being removedfromtheemployer-providedeligibilityﬁle.Theﬁnalsample fortheseanalyseswas34,504employeesrepresenting47companies. For the health behavior change analyses, individuals must have met the previously stated requirements and have completed a follow-up HA within 12 months of the ﬁrst HA. The ﬁnal sample for these analyses was 17,079 employees representing 36 companies.

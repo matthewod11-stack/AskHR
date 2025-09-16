@@ -1,11 +1,19 @@
-## director of equities at the Tennessee Consolidated Retirement System.
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b97cc8ff0fbddb39d10f1cef85c263730a12a9aa
+title: F2401A-PDF-ENG
+---
+# freedom.”
 
-“But that isn’t reﬂected in their stock price.” By taking a page from
+The study’s ﬁndings hold lessons for investors as well. When a family
 
-large family ﬁrms’ succession playbooks, the researchers conclude,
+ﬁrm brings in an outside CEO, the market pays a premium, the
 
-smaller family ﬁrms and nonfamily businesses of all sizes can bolster
+researchers found—but that’s not justiﬁed, given that insider CEOs in
 
-their chances of appointing high-performing CEOs—and by heeding the
+large family ﬁrms do just as well. In addition, “the stable cash-ﬂow
 
-implications for organizational results, investors can make smarter bets,
+performance in large family ﬁrms makes them worth about 13% more
+
+than comparable nonfamily ﬁrms,” says coresearcher Carrie Green, the

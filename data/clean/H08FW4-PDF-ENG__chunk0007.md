@@ -1,3 +1,7 @@
-## tensions between their massive day jobs and their roles on the executive
-
-team. And because each member is the embodiment of their function (if you’re the chief marketing oﬃcer, you are marketing) as well as a
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 789f27e5417ac7745e4e7323161db00f256be5e0
+title: H08FW4-PDF-ENG
+---
+## resources, the limited capital available for too many priorities, and the

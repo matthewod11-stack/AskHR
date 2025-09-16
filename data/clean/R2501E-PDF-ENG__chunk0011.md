@@ -1,13 +1,9 @@
-## dean of the Rotman School of Management at the University of Toronto.
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8548237b16aaf218d23d59c8521e39feedddfde7
+title: R2501E-PDF-ENG
+---
+# generation.
 
-Rotman was hemorrhaging both cash and professors and was derisively
-
-referred to as the “Faculty of Mismanagement.” During his tenure he
-
-transformed Rotman from an underperforming and largely irrelevant
-
-business school to a global leader. In 2013 he was recognized by
-
-Poets&Quants as Dean of the Year and described in the citation as “one
-
-of a handful of the most successful business school deans in the past
+Roger faced a similarly daunting task in 1998, when he became the

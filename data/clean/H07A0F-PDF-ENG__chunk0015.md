@@ -1,7 +1,9 @@
-# up to all new managers?
+---
+source_path: H07A0F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: baac889bdbf009c179292ab48965407836144cb5
+title: H07A0F-PDF-ENG
+---
+# HBR / Digital Article / Is Your Leadership Development Program Undermining Your DE…
 
-Dobbin and Kalev report that this is akin to the approach taken
-
-by Sodexo, which saw its best results — increased retention and a
-
-sustained pipeline of underrepresented talent — from democratizing
+leadership coaching for “high-potential” new managers, why not open it

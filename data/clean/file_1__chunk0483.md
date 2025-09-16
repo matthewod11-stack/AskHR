@@ -1,7 +1,21 @@
-# of Organizational Behavior, 20, 133-43.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 6290015b78e2865e51c85f0167c51d464b82a65b
+title: file_1
+---
+## Applied Social Psychology, 18 (7), 606-625.
 
-Mitra, A., 2002. Mathematics skill and male-female wages. Journal of Socio-Economics, 31,
+Jamali, D., Sidani, Y. and A. Kobeissi, 2008. The gender gap revisited: insights from a
 
-443-56.
+developing country context. Gender in Management: An International Journal, 23(4), 230-246.
 
-Okpara, J., 2006. Gender and the relationship between perceived fairness in pay, promotion, and job satisfaction in a sub-Saharan African economy. Women in Management Review, 21 (3), 224-40.
+Judge, T. and B. Livingston, 2008. Is the gap more than gender? A longitudinal analysis of
+
+gender, gender role orientation and earnings. Journal of Applied Psychology, 93 (5), 994-112.
+
+Keaveny, T., Inderrieden, E. and P. Toumanoff, 2007. Gender differences in pay of young management professionals in the United States: A comprehensive view. Journal of Labor Research, 28, 327-346.
+
+Lange, T., 2008. Communist Legacies, Gender and the Impact on Job Satisfaction in Central and Eastern Europe. European Journal of Industrial Relations, 14 (3), 327-346.
+
+Lee, C. and J. Farh, 1999. The effects of gender in organizational justice perception. Journal

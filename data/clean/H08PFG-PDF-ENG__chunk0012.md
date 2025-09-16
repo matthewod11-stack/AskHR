@@ -1,13 +1,25 @@
-## In addition to informational interventions, norm entrepreneurs can
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a89f25b230b5a727a19679535dea8cc832f9cf95
+title: H08PFG-PDF-ENG
+---
+## HBR / Digital Article / To Make Your Workplace Fairer, Take Charge of Its Norms
 
-decrease ambiguity by role modeling desired actions to show they
+When some men were informed in an experiment of their peers’ support
 
-can be done successfully. Former transportation secretary Pete
+for ﬂexible working, their intentions to take between ﬁve and eight
 
-Buttigieg and Reddit cofounder Alexis Ohanian are examples of norm
+weeks of parental leave increased by 62%, or nearly 13 percentage
 
-entrepreneurs who took parental leave and were vocal about their
+points, compared to men who did not receive the information.
 
-positive experiences, helping to dispel the myth that men do not or
+Correcting inaccurate beliefs through information helped many men to
 
-cannot take leave, at least in organizations where parental leave is
+behave more in line with their personal values and preferences. Because
+
+humans have an innate drive to ﬁt in and go with the herd, correcting
+
+inaccurate beliefs in this way is a potent lever for changing behavior and
+
+keeping ﬂawed norms from taking hold.

@@ -1,9 +1,13 @@
-## Sanchez, J. I., Prager, I., Wilson, A., & Viswesvaran, C. (1998).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7cfaf08d29cdab3d5cb689423746d450c217081c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# River, NJ: Prentice Hall.
 
-Understanding the within-job title variance in job analytic ratings. Journal of Business and Psychology, 12, 407–419.
+Sanchez, J. I., & Fraser, S. L. (1992). On the choice of scales for task analysis. Journal of Applied Psychology, 77, 545–553.
 
-Sanders, G. S. (1981). Driven by distraction: An integrative
+Sanchez, J. I., & Levine, E. L. (2000). Accuracy or consequential validity: Which is the better standard for job analysis data? Journal of Organizational Behavior, 21, 809–818. Sanchez, J. I., & Levine, E. L. (1989). Determining important
 
-review of social facilitation theory and research. Journal of Experimental Social Psychology, 17, 227–251.
-
-Sandler, L. (1986). Self-fulﬁ lling prophecy: Better management
+tasks within jobs: A policy-capturing approach. Journal of Applied Psychology, 74, 336–342.

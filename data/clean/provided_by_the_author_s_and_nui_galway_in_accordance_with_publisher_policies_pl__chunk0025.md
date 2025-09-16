@@ -1,19 +1,35 @@
-# organisation sustainability.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 9a514a124edfddedf20a693102b30eca68aa5cad
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## competitive advantage (Becker and Huselid, 2006; Schuler and Jackson, 1987), and
 
-The issue of talent management is thus of interest to a wide range of stakeholders
+argued that the resources and capabilities that underpin firms’ competitive advantage are
 
-beyond human resource (HR) academics and professionals. Indeed, the Economist
+directly tied to the capabilities of talented individuals who make up the firm's human
 
-Intelligence Unit (2006) found that most CEOs explicitly argued that talent management
+3
 
-was too important to be left to HR alone, while a Boston Consulting Group (2007) report
+capital pool (Cheese, Thomas and Craig, 2008; Wright, McMahan, and McWilliams,
 
-identified talent management as one of five critical challenges for HR in the European
+1994). Further, a recent study of 40 global companies found that virtually all of them
 
-context. The BCG findings were based not only on those capabilities that executives
+identified a lack of a sufficient talent pipeline to fill strategic positions within the
 
-expect to be most important in managing human capital, but tellingly are also those they
+organization, which considerably constrained their ability to grow their business (Ready
 
-perceive their organisations to be weakest at. Thus, the area is likely to be relevant, inter
+and Conger, 2007). Finally, talent management activities occupy a significant amount of
 
-alia for scholars and practitioners in the fields of strategic management, human resources
+organizational resources. Indeed, a recent study found that Chief Executive Officers
+
+(CEOs) are increasingly involved in the talent management process, with the majority of
+
+those surveyed spending over 20 per cent of their time on talent issues, while some spent
+
+up to 50 per cent of their time on talent issues (Economist Intelligence Unit, 2006). The
+
+economic climate at the time of writing (2009), means that for firms trying to weather the
+
+current economic crisis, the challenge has shifted from organisational growth to

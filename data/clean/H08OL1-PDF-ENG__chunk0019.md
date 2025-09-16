@@ -1,9 +1,9 @@
-# DY
+---
+source_path: H08OL1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce042869758e6c615a3df222a498d5e8d667fc2d
+title: H08OL1-PDF-ENG
+---
+# AS
 
-David B. Yerger, PhD is a professor of economics in the Eberly College of Business at Indiana University of Pennsylvania. His research focuses on gender disparities and the labor market as well as the Canadian economy.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Amber L. Stephenson, PhD is a professor of management and incoming director of the School of Business Administration at Penn State Harrisburg. Her research focuses on how professional identity inﬂuences attitudes and behaviors and how women leaders experience gender bias.

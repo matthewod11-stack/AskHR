@@ -1,9 +1,13 @@
-## blockchain, and the internet of things—have a diﬀerent mindset now.
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 077feebd64928e0eeb1e00a566ccbfa5a447edec
+title: R2403D-PDF-ENG
+---
+## Peter Fasolo, the chief human resources oﬃcer (CHRO) at Johnson &
 
-They want more-ﬂexible working arrangements.”
+Johnson, also remarked on the change in worker preferences: “Without
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+question, there has been a huge shift. Many of the individuals we’re
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+looking to attract—in technology, data sciences, machine learning,

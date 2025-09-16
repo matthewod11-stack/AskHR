@@ -1,7 +1,17 @@
-# out positions?
+---
+source_path: H07WQJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 461e50893f886dc9e8ddaab0c40e41ae04fb7e36
+title: H07WQJ-PDF-ENG
+---
+# HBR Staff/Unsplash
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Business leaders today know they can’t ignore public controversies and
 
-1
+crises. Comfortably objective, amoral stances don’t ﬂy when customers
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and employees care deeply about issues or when they feel under siege.
+
+And yet, when controversy strikes and crises ﬂare up, companies often
+
+struggle to respond. When, how, and on which issues should they stake

@@ -1,27 +1,19 @@
-# Missed opportunities for growth
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 949d04e6c00781023271af8ddd2afd7368e5b11c
+title: H08NW7-PDF-ENG
+---
+# life.
 
-When you pretend to be more skilled than you are, you may miss
+Increased stress and anxiety
 
-opportunities to learn and grow. Acknowledging your weaknesses
+Keeping up a facade requires constant eﬀort and can lead to signiﬁcant
 
-allows you to seek mentorship, training, and experiences that
+stress and anxiety. The fear of being exposed or failing to meet the
 
-contribute to real self-improvement, while hiding your gaps forces you
+expectations you’ve set can take a toll on your mental and emotional
 
-to forfeit opportunities to close them. To paraphrase Epictetus, it’s
+well-being, along with the emotional stress you cause others you’ve
 
-impossible for a man to learn what he thinks he already knows. So,
-
-when the gap between your actual and self-perceived competence is
-
-only artiﬁcially bridged by your ego—as opposed to your actual talents
-
-or eﬀort—you will probably stagnate.
-
-Damaged relationships
-
-Authenticity fosters deep, meaningful relationships, while deception
-
-can create distance. If people feel misled, they may withdraw from the
-
-relationship, leaving you isolated or disconnected. The isolation often
+coopted into your hallucination.

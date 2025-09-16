@@ -1,11 +1,19 @@
-## and its abstract and universal principles, the ethics of care values
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38c7da0f1bc7d676114b8fcb0ade2884c18d25da
+title: H08Q8O-PDF-ENG
+---
+# Adopting a Care Lens in Organizations
 
-unique and individualized attention and response. It requires being
+While there is no single deﬁnition of “ethics of care,” there are some
 
-attentive to and understanding each other’s speciﬁc experience,
+key themes that are relevant for organizations, particularly on the tricky
 
-including each person’s relative power and relationships. Third,
+issue of who can work from where.
 
-emotions play a positive role in creating empathic relationships, which
+First, as reﬂected in the Heinz dilemma, the concept is rooted
 
-are essential for caring actions.
+in the assumption that humans are fundamentally relational and
+
+interdependent. Second, context matters. Unlike the ethics of justice

@@ -1,17 +1,47 @@
-# another.”
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8031888da14110d1c9da5b75b2b5367ab43183d2
+title: R2302D-PDF-ENG
+---
+# Next Steps
 
-Use data as your guide. Now that we know the transition to hybrid work
+There’s a great deal we still don’t know about the transition to
 
-will require a long period of constant experimentation and learning,
+hybrid work. But to manage that transition successfully, almost every
 
-companies should gather and analyze high-quality data if they want to
+organization will need to take two important steps.
 
-understand what they’re learning, how work is getting done, and how
+Give more support to teams and their managers. In the early stages of
 
-employees are feeling.
+the pandemic, companies focused— properly and understandably—on
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+the well-being and productivity of individual employees. But since then
 
-11
+it has become clear that focusing on individuals is not enough. Leaders
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+must also consider the well-being and productivity of teams and their
+
+managers, because it’s there, in the relationships among people, where
+
+many connections fray under the novel strains of hybrid work.
+
+Leaders will need to be intentional about this—as they have been at
+
+the Sage Group, a UK enterprise-software company. Recognizing the
+
+need to educate and support their teams, Sage’s executives launched
+
+a learning program devoted exclusively to that goal. “Our internal
+
+colleague data showed that managers were really struggling to lead in a hybrid environment,” says Aoife Fitzmaurice, the chief of staﬀ and VP
+
+for organization design and workplace futures, who led the initiative.
+
+“So we developed a series of ‘e-learns’ to help upskill our managers
+
+in how to manage team agreements, navigate time and place, manage boundaries, and establish eﬀective communication ﬂows. It is still early
+
+stages, but the response has been positive. We are now creating a
+
+real-time problem-solving community for our managers to support one

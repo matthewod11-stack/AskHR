@@ -1,19 +1,7 @@
-# David Arky/Getty Images
-
-These days businesses are facing more change than ever. And the
-
-strongest predictor of whether a company can transform in the face of
-
-change is its ability to hire, develop, and retain the necessary talent,
-
-according to research from Bain & Company.
-
-In theory, this should be the moment for the chief learning oﬃcer to
-
-have a prominent seat at the table to help the executive team shape
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67c50b5fff841771214b891b766646114db6b1ce
+title: H08JKA-PDF-ENG
+---
+## Published on HBR.org / January 10, 2025 / Reprint H08JKA

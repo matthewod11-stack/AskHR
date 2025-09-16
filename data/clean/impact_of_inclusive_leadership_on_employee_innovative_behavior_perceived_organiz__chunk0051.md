@@ -1,1 +1,7 @@
-# Conceptualization: Lei Qi.
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 0a25cf9fc3ac97520e8588935b272b824fb2fd19
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+# Author Contributions

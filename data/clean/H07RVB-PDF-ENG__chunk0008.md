@@ -1,21 +1,11 @@
-# and in life
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a92595f121731b449cd4fb2211048e62df34498c
+title: H07RVB-PDF-ENG
+---
+## Pride, No Ego: A Queer Executive’s Journey to Living and Leading
 
-- Finding LGBTQ+ allies, and becoming an ally for future generations
+Authentically has just been published, to discuss:
 
-- “Coming out” versus “inviting in”: the journey to an authentic self
-
-involves making yourself vulnerable to others and asking for help
-
-“The New World of Work” explores how top-tier executives see the
-
-future and how their companies are trying to set themselves up for
-
-success. Each week, Ignatius talks to a top leader on LinkedIn Live —
-
-previous interviews included Microsoft CEO Satya Nadella and former
-
-PepsiCo CEO Indra Nooyi. He also shares an inside look at these
-
-conversations —and solicits questions for future discussions — in a
-
-newsletter just for HBR subscribers. If you’re a subscriber, you can sign
+- His advice to young queer professionals on how to be authentic at work

@@ -1,19 +1,11 @@
-# text form with open-ended questions.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: bf7aeb7eb382d12fd480d435bbe3b7a8958ed203
+title: i
+---
+# Employee Surveys
 
-To analyze employee surveys, Caughlin (2022) employs aggregating and segmenting, meaning
+Employee Surveys are a typical data source to understand employee’s feeling, attitude,
 
-aggregation results (mean, median, mode, frequency, min, max…) to describe a specific
-
-50
-
-cluster. A cluster can be a team, a department, or a working unit. This process can also be
-
-referred to as segmentation.
-
-The author also utilizes Cronbach’s alpha to estimate Internal Consistency Reliability, which
-
-<tells us how consistent scores on different items (e.g., questions) are to one another=. Also
-
-based on Cronbach’s alpha, the analysis goes further by calculating to eliminate and introduce
-
-a new variable, which is a composite from several other variables to <measure the different
+engagement… The response can be in Likert-type data, which is on a one to five scale or in

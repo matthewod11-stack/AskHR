@@ -1,19 +1,21 @@
-# an additional mediator.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 14443605ec7b9d83070bc9af5c3c5cf410b9f4df
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-Comparing the two bases of trust first, any positive indirect effects were driven purely
+Table 7, affective trust significantly predicted both performance and OCB when included in a
 
-by affective trust. Conversely, for each leadership style, cognitive trust demonstrated negative
+regression with cognitive trust. In contrast, cognitive trust did not predict either outcome.
 
-indirect effects. Affective trust and LMX accounted for unique variance in the mediation
+This suggests that the effects of trust in the leader on performance outcomes are driven by the
 
-analysis. Which was the strongest mediator varied by leadership style and as a function of
+affective rather the cognitive component and provides further support for the differential
 
-outcome. In the case of transformational leadership, affective trust was the stronger mediator
+effects of these bases of trust. Finally, we conducted MASEM analysis to further explore trust
 
-for both OCB (.18) and performance (.10) when compared to LMX. A similar pattern of
+in the leader as a mediator between leadership and performance outcomes focusing on the
 
-results was found for abusive supervision as the negative indirect effect for affective trust was
-
-consistently stronger for both performance (-10) and OCB (-.13). Overall, the analysis
-
-suggests differential effects do emerge as a function of the trust base (Hypothesis 3).
+differential effects of cognitive and affective trust (see Table 8). Again, we included LMX as

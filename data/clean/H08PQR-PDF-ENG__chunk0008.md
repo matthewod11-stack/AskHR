@@ -1,13 +1,27 @@
-## relatives without formal acknowledgment of the change. One third-
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53f838d1a13baff82febafa25d6fe4100c1c4352
+title: H08PQR-PDF-ENG
+---
+## business. With 15 luxury boutique hotels across multiple continents and
 
-generation cousin began running operations. The CFO from the second
+a growing brand, the business had expanded signiﬁcantly under the
 
-generation increasingly found themselves sidelined. Other members of
+stewardship of the founder’s children. But success bred complexity.
 
-the third generation started stepping in as well, some without clear
+When a member of the third generation, John, married and brought
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+his spouse into the company as an employee, questions about fairness,
 
-2
+accountability, and ownership surfaced. Other family members quietly
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+wondered: Was John’s wife qualiﬁed? Who made that decision? Should
+
+other spouses be allowed to join the business, too?
+
+At the same time, roles among the siblings and cousins began
+
+to blur. Though a second-generation family member still held the
+
+CEO title, decision-making increasingly shifted to third-generation

@@ -1,21 +1,9 @@
-## projects, and a more intensive focus on new target identiﬁcation. This
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 508f17a104441b8bf9fbd9c34c54bc5ff5ed4068
+title: H078YM-PDF-ENG
+---
+## about key opportunities for accelerated drug development, such as
 
-presentation then became the basis for a series of discussions with her
-
-boss, the overall head of R&D, and a number of other colleagues. By the
-
-end of her ﬁrst 90 days, she had a focused and prioritized agenda for
-
-change and already had buy-in from the key leaders in her area.
-
-. . .
-
-Whenever a new senior leader joins an organization, either from within
-
-or from an external ﬁrm, they bring fresh perspectives, new ideas, and
-
-energy for change. To take full advantage of these qualities, don’t mire
-
-them in endless learning about the organization as it is now. Instead,
-
-challenge them to ﬁnd opportunities for learning that will help them
+more targeted use of computational science, better criteria for stopping

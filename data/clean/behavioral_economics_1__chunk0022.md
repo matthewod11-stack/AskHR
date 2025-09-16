@@ -1,37 +1,19 @@
-# of new information (Fischhoff and Beyth, 1975; Camerer, Loewenstein, Weber, 1989).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: f783112f67a38f87d08717c07b5f3870a70f8db2
+title: behavioral_economics_1
+---
+# term overreaction in stock returns.
 
-Equilibrium: Moving beyond the level of individual choice and judgment, behavioral economics has
+Another principle implicit in Bayesian reasoning is informational irreversibility—if you find out a piece
 
-also contributed to a shift in the study of equilibrium at the market or game-theoretic level. Game theorists, in
+of evidence is mistaken, the brain should reverse its impact on judgment. (For example, juries are instructed to
 
-particular, have never been comfortable with simply assuming that beliefs and choices are in equilibrium—i.e.,
+ignore certain statements after they have been heard.) But the brain is an organ, as is human skin. When skin is
 
-that players correctly anticipate what others will do—without clearly specifying mechanisms that generate
+grafted onto skin, the old and new merge and eventually it is impossible to undo the graft. Information in the
 
-equilibration. Evolutionary game theory (e.g., Weibull, 1995; Samuelson, 1997), and the sensible extension to
+brain is probably organically irreversible in a similar way. For example, when people find out that an event
 
-the study of imitation (e.g., Schlag, 1998), are important approaches which show how equilibria might emerge
-
-from limited rationality and selection pressures.
-
-Empirical models of learning in games have also been carefully calibrated on many different types of
-
-experimental data. One approach is reinforcement of chosen strategies (Arthur, 1991; Erev and Roth, 1998). A
-
-seemingly different approach is updating of beliefs based on experience, as in fictitious play (e.g., Fudenberg
-
-and Levine, 1998). However, Camerer and Ho (1999) noted that fictitious play is simply a generalized kind of
-
-reinforcement in which unchosen strategies are reinforced as strongly as chosen strategies are. That recognition
-
-12
-
-inspired a hybrid “dual process theory” (EWA) in which reinforcement of actual and foregone outcomes can
-
-differ, nesting choice reinforcement and fictitious play as boundary cases. The hybrid model tends to fit about
-
-as well as each of the boundary cases, and sometimes fits substantially better when one of the models misses a
-
-central feature of the data. Ho, Camerer and Chong (2005) introduce a “self-tuning” version of their hybrid
-
-theory in which the key parameters adjust flexibly to experience, which economizes on parameters allows
+occurred, it is hard to resist a “hindsight bias”, which biases recollection of ex ante probability in the direction

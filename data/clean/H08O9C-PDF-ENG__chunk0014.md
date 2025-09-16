@@ -1,11 +1,23 @@
-## and feedback on my potential and employability?”
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8364c0faa0526b18a45e5730bc85aa3e010bb40
+title: H08O9C-PDF-ENG
+---
+# Personalization Tip:
 
-While the accuracy of the results may be inferior to that of a highly
+Provide as much detail as possible about your experiences and
 
-qualiﬁed human coach (armed with science-based assessments), it is
+preferences. The more context you give, the more tailored gen AI’s
 
-probably superior to a typical or average coach. In line, academic
+responses will be.
 
-reviews have long shown that a low barrier to entry, idiosyncratic
+Consider uploading your resume or CV to gen AI. (Most platforms
 
-personal factors linked to the coach, and a general lack of training all contribute to making eﬀective, science-based coaching the outlier
+enable you to attach Word or PDF ﬁles.) Let the tool review it and
+
+give you feedback on your hard and soft skills, potential, and general
+
+employability. A sample prompt might be: “If I upload my CV, can you
+
+review it and give me an overall assessment of my hard and soft skills,

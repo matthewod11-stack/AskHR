@@ -1,9 +1,7 @@
-# How to Build Consensus
-
-It might be tempting to interpret conﬂicting feedback about an idea as
-
-a sign that the idea is a bad one and should be rejected — imagine the
-
-contention in the 3M conference room when Spencer Silver proposed
-
-creating a product with an extremely weak adhesive (Silver went on to
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7273732192ce4b595afe4d725b16be638e210eb6
+title: H08COG-PDF-ENG
+---
+# the following suggestions:

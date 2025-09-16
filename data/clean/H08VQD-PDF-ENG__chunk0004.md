@@ -1,21 +1,25 @@
-## nothing while your mind wanders and thinks about, for example, big
+---
+source_path: H08VQD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8baa5aee7c44e9a07c16d819f66950fea6b5bc8c
+title: H08VQD-PDF-ENG
+---
+## My colleague in the psychology department here at Harvard, Dan
 
-questions of meaning in your life. What does my life mean? You go to
+Gilbert, he did experiments where people had to sit in a room for
 
-uncomfortable existential questions when you’re bored.
+15 minutes with instructions to do absolutely nothing, and there was
 
-That turns out to be incredibly important, incredibly good. One of the
+nothing in the room to do, except there was a button in front of them
 
-reasons we have such an explosion of depression and anxiety in our
+that they could push. And if they did, they gave themselves a painful
 
-society today is because people actually don’t know the meaning of
+electric shock. Sit there bored, or get a shock. A big majority of the
 
-their lives, much less so in previous generations. Tons of data show this,
+participants gave themselves shocks instead of thinking about nothing.
 
-and furthermore, we’re not even looking. Why not?
+We don’t like boredom. Boredom is terrible. Why is boredom so
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+bad? Well, because the default mode network makes us think about
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+things that might be kind of uncomfortable. When you think about

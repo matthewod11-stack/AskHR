@@ -1,7 +1,11 @@
-## A SOCIAL PSYCHOLOGY TO SERVE PSYCHOLOGYAND SOCIETY
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 756eb5a7cf27f2c5cc02f4e8df98cbf33c09b9dc
+title: untitled
+---
+## A Social Psychology to Serve Psychology and Society
 
-IntheyearssurroundingWorldWarIandthemoreprosperous 1920s, many of these innovative ideas about social psy- chologydid,infact,endupinascrapheap,replacedbythebe- lief that psychology provided an appropriate and rich home for social psychology. Psychology offered tantalizing re- search methods—objective methods. More importantly, psy- chology manifested a conviction that through this scientiﬁc perspective, mental life could be explained as deterministic and lawful (O’Donnell, 1979). By this time psychology was relatively well established as a professional discipline with a progressive scientiﬁc association, journals, textbooks, and in- dependent departments in many colleges and universities (Camﬁeld, 1969; Fay, 1939; O’Donnell, 1985). Professional security, however, was just one resource that psychology offered social psychological inquiry. Figuring more promi- nently among its investigative resources was psychology’s overarching conception of the individual and the potential utility of scientiﬁc knowledge.
+problems (Britt, 1937a, 1937b; Deutsch & Krauss, 1965; Faris, 1937; Woodard, 1945). As one historical commentator remarked,“Itwasaround1911or1912thatthingsreallybegan to happen. The second decade of the century witnessed all kinds of ferment” (Faris, 1937, p. 155). George Herbert Mead’s inventive theory of the social self and Charles Horton Cooley’s conceptualization of groups mark the ingenuity cir- culating throughout this ferment (Karpf, 1932; Meltzer, 1959; Scheibe, 1985).
 
-By the 1920s the discipline of psychology had generated a program for interrogating human nature that coupled the
-
-227
+For many, eventual resolution of these varied perspectives materialized with a metatheoretical conviction that social psychology was essentially reductive to psychology. In the words of one commentator, there emerged “a settled convic- tion that patterns as matters of individual acquisition will explain all psychological phenomena, social and individual. As investigation proceeds, the once widely accepted notion that individual psychology is one thing, and social psychol- ogy another, has found a place in the scrapheap of exploded psychological presuppositions” (Sprowls, 1930, p. 381). Along with the beneﬁts of a largely established niche within universities and colleges, the discipline of psychology af- forded would-be researchers of social life a set of scientiﬁc practices that positioned them at the forefront of the social science’s search for objective methods and purportedly value-free discourse (Ross, 1979).

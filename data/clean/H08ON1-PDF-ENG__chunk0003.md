@@ -1,7 +1,15 @@
-## years, of negotiating, due diligence, and planning. Despite this
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4898f1b6d0bae139fb93a6f782626d92019f90e6
+title: H08ON1-PDF-ENG
+---
+# Richard Drury/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Mergers and acquisitions (M&As) are highly anticipated, high-stakes
 
-1
+events. When successful, they are one of the fastest ways for
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+organizations to accelerate growth and increase shareholder returns.
+
+But closing a deal is typically a culmination of months, sometimes

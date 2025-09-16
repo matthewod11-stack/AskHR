@@ -1,15 +1,13 @@
-## Education 10th ITI/+2/Diploma Graduation Post-graduation
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: d741d9cf88375192ca3819652104ca486697f7d0
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# Gender Male Female
 
-– – 50.2 49.8
+69.8 30.2
 
-Work experience (years) 0–10 11–20 21–30 31 and above
+Age (years) 18–25 26–35 36–45 46–55 56–60
 
-20.2 22.1 29.6 28.1
-
-) T P (
-
-9 1 0 2
-
-y r a u r b e F 8 0
-
-8 3 : 1 0
+2.4 15.4 19.6 37.2 25.4

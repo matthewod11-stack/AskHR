@@ -1,35 +1,19 @@
-## no shortage of articles, blog posts, books, and online discussions that
+---
+source_path: H08BI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f90aa06c0d70583b94cf2f193d18e38624e4c2b6
+title: H08BI0-PDF-ENG
+---
+## to as “the ﬁfth trimester.” In her Washington Post column, Amy Joyce
 
-provide advice for how mothers can cope with postpartum reentry.
+described this experience as women “returning to jobs when their
 
-Yet, more often than not, these recommendations place the burden
+bodies (and hearts) might be wanting them to do otherwise: They suﬀer
 
-on postpartum mothers to ﬁgure out ways to ease the transition (e.g.,
+from painful breasts, leaking milk, the stress of trying to balance a job
 
-ﬁnding reliable childcare, creating solid routines for the baby’s feedings
+with new family demands, plus a stigma that a mother can’t excel at
 
-and sleep, communicating with colleagues to stay informed during
+work.”
 
-leave). While well-intended, there has been growing recognition that
-
-postpartum mothers should not be expected to shoulder the challenges
-
-of reentry on their own, and that colleagues and managers can play a
-
-critical role in supporting mothers’ return to work.
-
-In our research, we wanted to understand the speciﬁc types of support
-
-and advocacy that postpartum mothers actually value — that is, the
-
-behaviors that managers and colleagues can engage in to be eﬀective
-
-postpartum allies. We conducted three studies using a variety of
-
-methods to identify postpartum allyship behaviors that mothers value
-
-during the reentry period, examine the impact of these behaviors on
-
-mothers’ well-being and work outcomes, and understand how and why
-
-these postpartum allyship behaviors are critical during the reentry
+Considering the diﬃculties that surround the reentry period, there is

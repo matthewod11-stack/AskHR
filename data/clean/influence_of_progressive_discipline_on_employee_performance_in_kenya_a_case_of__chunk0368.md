@@ -1,29 +1,23 @@
-# direction of my organization
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 82339082cfdbb37282c48278e6bfb050049c5038
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# n a e M
 
-I am motivated to complete the task that is assigned to me.
+i v e D d t S
 
-1
+I am committed to the mission and
 
-3
+4
 
-10
+6
 
-31
+12
 
-14
-
-4.40 0.26
-
-I co-operate well with my colleagues of different background
-
-5
-
-9
-
-11
-
-20
+23
 
 14
 
-4.28 0.24
+4.31 0.24

@@ -1,17 +1,21 @@
-# rl-A- •• tenrunateu au.er jUrf serv1ce.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 4cad3a6464fa1d33e29c0e8e8e4e83ee44e54bc5
+title: california_state_university_northridge_1
+---
+# in any investigation proceedings.
 
-4
+There are some exceptions to the at-will employee doctrine. The rejects are in the
 
-Another approach that has been taken is formulation of the Model Employment
+area of public policy and may differ in application state by state. There is serving jury
 
-Termination Act (META). META has been designed to assist employees, mainly those
+duty, whistle blowing, failure to commit an illegal act on behalf of the employer and filing
 
-who are at-will employees. It is also designed to limit cases that go to court and seek
+a workers' compensation claim. At the same time, some of these exceptions have been
 
-compensatory and punitive damages. Also, META seeks to utilize arbitration as an option
+incorrectly understood, such as serving jury duty. An employee went to jury duty and
 
-to reduce wrongful terminate cases. Unfortunately, the research has shown META has
+returned and was then terminated. In this case, the employee sued the company. The
 
-not been enacted in any state legislation. The theory behind META to address issues
-
-relating to at-will employee and wrongful discharge is good, but lacks the necessary
+courts ruled that the employer did not violate this public policy, because the employee was

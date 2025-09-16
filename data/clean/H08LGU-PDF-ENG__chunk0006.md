@@ -1,7 +1,35 @@
-# work.
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cafb3381c69ca568ed463e3c0d4985266d1278e7
+title: H08LGU-PDF-ENG
+---
+## Decades of research shows clear problems with status-quo DEI. Despite
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+their widespread prescription, DEI trainings often fail to change bias
 
-2
+or reduce prejudice. Popular strategies for communicating the value
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of DEI can paradoxically both hurt marginalized communities and
+
+decrease leadership support for DEI. Common initiatives intended to
+
+create better workplaces for all might instead activate backlash, increase
+
+burnout, and fail to improve outcomes for underserved groups.
+
+DEI needs a reset. People want more diverse, equitable, and inclusive
+
+workplaces, but the initiatives and approaches common to mainstream
+
+DEI are far from the only way to achieve them.
+
+Drawing from research, conversations with colleagues, and my own
+
+work over the last decade as a DEI practitioner, I’ve developed a
+
+replacement that I call the FAIR framework. It’s built around the core
+
+outcomes of fairness, access, inclusion, and representation that DEI was
+
+supposed to achieve for all, and it oﬀers four principles to guide this

@@ -1,9 +1,7 @@
-# Category Pirates.
-
-Another one of us (Eddie) waited until age 43, when he was a senior
-
-partner at a consulting ﬁrm, to launch a solo gig—long after he had
-
-ample ﬁnancial and professional capital to quit. Looking back, he
-
-realizes he could have left years earlier—and the delay probably cost
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 344eb890a7c77071138df5ab891e846a03714492
+title: H08T4Z-PDF-ENG
+---
+## entrepreneurs, then to startups like M1 Finance, and eventually to

@@ -1,31 +1,7 @@
-# Age
-
-< 20
-
-1
-
-0
-
-20–35
-
-223
-
-71
-
-36–50
-
-63
-
-20
-
-> 50
-
-6
-
-2
-
-Prefer not to say
-
-22
-
-7
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 51afcbe845ab77f8f49c2437de049f0c3011da5d
+title: read_online
+---
+# Percentage (%)

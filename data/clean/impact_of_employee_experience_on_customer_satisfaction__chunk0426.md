@@ -1,9 +1,23 @@
-# LEARNING AND DEVELOPMENT
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 0976a1c6948ea789cb7b426136a6d5b9aa96790a
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# CULTURE
 
-14
+17
 
-I know what skill I will need in future to be a valuable contributor to this company
+18
 
-15
+I am treated with respect and dignity.
 
-I have the training I need to do my job effectively
+You feel that the organization you work for is diverse and inclusive
+
+29
+
+Your organization offers employees multiple workspace options The physical space reflects the values of your organization
+
+13
+
+I have good opportunities to learn and grow at my company.

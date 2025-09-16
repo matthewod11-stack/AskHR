@@ -1,19 +1,25 @@
-# HBR / Digital Article / To Avoid DEI Backlash, Focus on Changing Systems — Not Peop…
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17d5d8470c59669ae37cb629b0a6474b510e5ace
+title: H078QI-PDF-ENG
+---
+## universal beneﬁt, and systems improvement as other steps in the
 
-under a more compassionate lens becomes our universal desire to be
+process. Finally, regroup the organization around the next objective to
 
-seen as digniﬁed, competent, and inherently good. If leaders can protect
+meet, and repeat these steps as needed.
 
-these core needs while coming together to make change, they can create
+To genuinely address and resolve inequities, leaders must ﬁrst
 
-DEI initiatives that succeed.
+understand the nuances and obstacles that so frequently stymie the
 
-This article was originally published online on September 21, 2022.
+initiatives they undertake. Backlash is no diﬀerent, and what can appear
 
-Lily Zheng is a strategist, consultant, and author who works with leaders to build fair, accessible, inclusive, and representative organizations. They are the author of the forthcoming Fixing Fairness: 4 Tenets to Transform Diversity Backlash into Progress for All.
+at ﬁrst glance to be knee-jerk defensiveness, ignorance, or fragility,
 
 Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

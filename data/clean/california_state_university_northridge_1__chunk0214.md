@@ -1,17 +1,15 @@
-# or state.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 7bd51f07db61d26b8391466bbb02a763ba1946ba
+title: california_state_university_northridge_1
+---
+# Legal Definitions
 
-Contract - An agreement between two or more persons which creates an
+Cause - Each separate antecedent of an event. Something that precedes and
 
-obligations to do or not to do a particular thing. As defined in Restatement, Second,
+brings about an effect or a result. A reason for an action or condition. A ground oflegal
 
-Contracts 3: "A contract is a promise or a set ·of promises for the breach of which the law
+action. An agent that brings something about. That which is some manner is accountable
 
-gives a remedy, or the performance of which the law in some way recognizes as a duty."
-
-A legal relationship consisting of the rights and duties of the contracting parties; a promise
-
-or set of promises constituting an agreement between the parties that gives each a legal
-
-duty to the other and also the right to seek a remedy for the breach of those duties. Its
-
-essentials are competent parties, subject matter, a legal consideration mutuality of
+for condition that brings about an effect or that produces a cause for the resultant action

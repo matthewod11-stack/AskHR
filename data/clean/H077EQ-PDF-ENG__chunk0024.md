@@ -1,15 +1,21 @@
-# the speciﬁc analysis.”
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32bbd8f0d637ec770a8bc318a1d3d0a4e4ee7cb9
+title: H077EQ-PDF-ENG
+---
+# as a basis for negotiations.
 
-In the end, the phenomenon of anchoring shows that while we think
+Similarly, I’ll sometimes use anchors to shift a negotiation in my favor.
 
-of ourselves as rational and logical beings, extraneous details can have
+For example, during a negotiation session, I may begin by talking about
 
-an outsized inﬂuence on our reasoning. The best solution is a mix of
+a part of the contract that’s already been settled in my opponents’
 
-vigilance and humility and improving critical thinking skills. Otherwise,
+favor. With this “win” in the forefront of their minds, my opponents
 
-you might be a victim of anchoring, dragged down by your bias,
+may be more likely to make concessions once we move on to unsettled
 
-whether you notice it or not.
+matters. As Cecile Ferrie-Davies, a Managing Director at Pimco, argues,
 
-This article was originally published online on August 30, 2022.
+“anchoring can more often inﬂuence the context of a transaction than

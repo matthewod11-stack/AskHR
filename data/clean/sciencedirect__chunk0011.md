@@ -1,7 +1,7 @@
-# 227
-
-Keywords: positive psychology; positive traits; employees’ performance; organizational productivity; organizational policies
-
-- 1. Introduction
-
-Mental processes such as thoughts, memories, dreams and perceptions are hard to be defined, seen or felt because what is in the individual’ mind is highly complex and enigmatic. Many wonders how psychologists can study such an intricate, seemingly abstract and extremely sophisticated science. Even if scientists look inside autopsy or during a surgical operation, all they see is grey matter (the brain). Contemplations, comprehension, feelings, recollections, dreams, recognitions, and so forth can't be seen physically, similar to a skin rash or heart deformity.
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: 814cf0abae75cd103896397bcd23da581d9a3b7f
+title: sciencedirect
+---
+## Jasleen Kour et al. / Procedia Computer Science 161 (2019) 226–232

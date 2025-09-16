@@ -1,23 +1,29 @@
-# cleaning, shopping, and transportation.
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa8e3073f23e783ff431168d3695a0c3af495ee0
+title: R2504F-PDF-ENG
+---
+## HBR / Magazine Article / Your Company Needs an Eldercare Policy
 
-They provide medical care, including
+by our estimate, they are responsible for providing at least two-thirds
 
-managing medications and appointments,
+of eldercare in the United States. Many elder caregivers (21%) have
 
-Karsten Thormaehlen creates por- traits of centenarians around the world for his series Aging Gracefully.
+children under 18, which means they’re sandwiched between the
 
-monitoring health conditions, and
+generations and have a great need for ﬂexible support on the job.
 
-performing basic nursing procedures. They
+The work that elder caregivers do is varied,
 
-provide hands-on care, including for such
+and the mix often changes over time. But
 
-personal needs as eating, bathing, dressing, toileting, and mobility.
+here’s a representative sampling: They
 
-They provide ﬁnancial care, including the management of household
+provide emotional and social support,
 
-expenses and larger ﬁnancial matters, and even make their own direct
+including companionship, conversation,
 
-contributions. And they provide the coordination of care, organizing the
+and meaningful activities. They provide
 
-activities of other caregivers and overseeing the overall caregiving
+household support, including cooking,

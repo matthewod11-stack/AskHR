@@ -1,7 +1,7 @@
-## A Simple Way to Connect with Your Team Members
-
-https://hbr.org/2022/10/a-simple-way-to-connect-with-your-team-members
-
-3/6
-
-Ask each employee to share anything they wish about what theybrought. Go first. As the leader, you set the tone. You can openwith something meaningful, funny, or insightful depending onthe mood you want to convey. Typically, I try to keep it upbeat atthe start, while also sharing something personal that myemployees haven’t yet learned about me.When your teammates share, it’s helpful to follow up with aquestion to move the discussion along. As an example, if someoneshare that they enjoy swimming, you might ask, “Oh you’re aswimmer? Do you prefer outside or inside?”By giving people this safe space to share with no judgment, youhelp your employees bring forward more of themselves. This willstrengthen your bond and make them feel safer sharing moreserious concerns with you in the future.4) Be an open book.After each participant has had a turn, explain that this is anopportunity for them to ask you questions or to bring up anytopics they wish. They might ask about your previous jobs or howyou plan to handle a challenge the team is facing. They mightshare something they recently achieved, an idea they have, or aproblem that has been nagging at them.Emphasize that in this meeting, no one is there to impress you oreach other. Answer their questions as best you can, while avoidingunnecessarily stressful details about work — you want to keep themood relatively positive and forward-thinking, while alsoshowing compassion and validating people’s feelings andconcerns.As an example, if someone brings up a problem within yourorganization, you might say: “I hear you, and your concerns are
+---
+source_path: A Simple Way to Connect with Your Team Members.md
+pages: n/a-n/a
+chunk_id: bb6f5531f8cd4f8fb14327b3b91822dd9cfd8b38
+title: A Simple Way to Connect with Your Team Members
+---
+# 9/10/25, 12:01 PM

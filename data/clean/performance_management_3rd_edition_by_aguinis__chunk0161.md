@@ -1,3 +1,9 @@
-## Chapter 1 • Performance Management and Reward Systems in Context
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 7a37eb2620bfb0f1facf95b9d15663111b16330b
+title: performance_management_3rd_edition_by_aguinis
+---
+# 1.4.1 Base Pay
 
-differences within the base pay range may exist based on such variables as experience and differential performance. In some countries (e.g., United States), there is a differ- ence between wage and salary. Salary is base cash compensation received by employees who are exempt from regulations of the Fair Labor Standards Act and, in most cases, cannot receive overtime pay. Employees in most professional and managerial jobs (also called salaried employees) are exempt employees. On the other hand, nonexempt employees receive their pay calculated on an hourly wage.
+Base pay is given to employees in exchange for work performed. The base pay, which usually includes a range of values, focuses on the position and duties performed rather than an individual’s contribution. Thus, the base pay is usually the same for all employ- ees performing similar duties and ignores differences across employees. However,

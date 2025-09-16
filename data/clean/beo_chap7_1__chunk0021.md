@@ -1,31 +1,33 @@
-# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 2708c0007666083aa9c89058c13de22c07aeafcf
+title: beo_chap7_1
+---
+# and path-dependence.
 
-influences affect at least some labor market entry decisions about relative values of e(e).>
+A way to investigate the stability of labor-market preferences is to measure how
 
-If employers know about anchoring and marketing influences on c(e), then they
+much expressed preferences can be influenced by the way that work is described, or
 
-will try to generate positive anchors, convincing prospective employees that working
+the procedure by which preferences are elicited (e.g., bidding wages or choosing at
 
-in their firm is fun. Little is known about the long-run influence or robustness of
+a fixed wage). For example, Ariely et al. (2004a) asked some subjects whether they
 
-constructed-preference effects. Anchors might wear off: after experiencing an actual
+would pay $2 to attend a fifteen-minute poetry reading, and asked other subjects whether they would attend if they were paid $2.7 Later, a third of those who were
 
-poetry reading, for example, subjects may quickly develop a consistent hedonic
+anchored on paying said they would attend for free, compared to only 8% attendance
 
-preference which is no longer affected by the initial anchor or subsequent ones,
+by those who were anchored on being paid. Of course, students may not have developed clear preferences for whether listening to poetry is labor or leisure.* But
 
-and resembles the complete preference assumed in economic theory. Furthermore,
+if a random anchor can even influence the sign of c(e), then it is likely that stronger
 
-in competitive labor markets, anchors will not affect wages, because wages are
+3Later experiments link the anchor to digits in a person’s social security number and make it clear that the anchor was random, so that no information about c(e) is conveyed by the choice of the anchor.
 
-determined by the marginal revenue product of workers. But anchoring could affect
+4The ambiguity about c(e) is illustrated by a joke about a couple who are going away on a vacation. They ask their teenage neighbor, Mike, if he could take care of their dog while they are away. The couple
 
-the quantity of labor supplied, even if it does not affect the “price” (i.e., the wage) for
+explain that their dog needs to be fed, walked, and shown lots of loving care. They ask how much this job is worth to Mike. He ponders for a minute and concludes, “Well, I guess I'd pay you $10.” What’s
 
-a given amount of labor supply. In the poetry example, think of the anchor fee/wage
+labor for one worker may be leisure for another.
 
-as creating a perception about the cost of effort of listening to poetry. Fixing the
-
-wage of poetry (through firm competition), more people will listen to poetry if they
-
-came to perceive the cost as low. So anchors can affect quantities even if they do
+238

@@ -1,11 +1,13 @@
-## HBR / Digital Article / How AI Can Help Tackle Collective Decision-Making
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5082927d492fa205935e0e20fc72d2f78429882a
+title: H08U3Y-PDF-ENG
+---
+## help with decision-making—data analysis, scenario planning, decision
 
-trees, and so on—can falter in the face of the scale and complexity of the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-biggest problems that groups and leaders face.
+1
 
-This is where AI can help, and is helping. With its ability to analyze vast
-
-troves of data about the status quo, understand group preferences, run
-
-sophisticated simulations to evaluate hundreds of future possibilities
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

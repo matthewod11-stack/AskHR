@@ -1,11 +1,13 @@
-# 348 NAME INDEX
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 25f422e0bdb3d5d7d5fc39599a8ca0ff30ac7d8f
+title: barrickryan_eds_personality_and_work
+---
+# D
 
-Denison, D. R., 190 Depue, R. A., 41, 158 Detweiler, J. B., 43 Devine, D. J., 183 DeVore, C. J., 151, 152, 153 DeVries, M. W., 122 Dew, M. A., 169 Di Blas, L., 7, 8, 9, 10, 11, 16 Diefendorff, J. M., 105 Diener, E., 30, 31, 36, 37, 41, 68,
+Dalessio, A., 171 Dalton, D. R., 45 Daly, P. S., 128 Daniels, D., 64, 102, 191 Danner, D. D., 44 Dansereau, D. F., 236 Daus, C. S., 128 Davidson, R. J., 138 Davis, T.R.V., 62 Davis-Sacks, M. L., 190 Dawis, R. V., 103, 307 Day, D. V., 205, 207, 208, 210, 211,
 
-131, 135, 136, 137, 302
+214, 218, 219, 222, 267
 
-Diener, M., 41 DiGeronimo, K., 279 Digman, J. M., xii, 3, 7, 8, 64, 68, 86,
-
-157, 189, 300, 329
-
-Dillon, K. M., 43 Dilto, P. H., 273 DiMatteo, M. R., 141 Dineen, B. R., 278 Dolan, M. R., 234 Dollinger, S. J., 264, 265 Donovan, J. J., 60, 90, 96, 294, 312 Donovan, M. A., 91 Dorsey, D. W., 98, 293 Douglas, S. C., 301 Doverspike, D. D., 311 Downs, S., 232 Drasgow, F., 104 Dreher, G. F., 269 Drigotas, S. M., 206 Duke, A. P., 232 Dunford, B. B., 183 Dunnette, M. D., 60, 84, 85, 290, 326 Durham, C. C., 32, 127, 298 Dweck, C. S., 65, 139, 243, 250 Dwight, S. A., 312 Dwyer, D. J., 44 Dzokoto, V., 307
+De Fruyt, F., 302, 307 De Raad, B., 7, 9, 10, 17 Deary, I. J., 10 Deery, S., 302 DeGroot, E. V., 243 Degroot, T., 99 Deleeuw, K., 111 DeNeve, K. M., 337

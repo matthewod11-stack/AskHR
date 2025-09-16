@@ -1,15 +1,7 @@
-# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
-
-Table 7, affective trust significantly predicted both performance and OCB when included in a
-
-regression with cognitive trust. In contrast, cognitive trust did not predict either outcome.
-
-This suggests that the effects of trust in the leader on performance outcomes are driven by the
-
-affective rather the cognitive component and provides further support for the differential
-
-effects of these bases of trust. Finally, we conducted MASEM analysis to further explore trust
-
-in the leader as a mediator between leadership and performance outcomes focusing on the
-
-differential effects of cognitive and affective trust (see Table 8). Again, we included LMX as
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: fd6b4443e345a9090e51661877854b3a1f55afe1
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# (cid:32)(cid:50)(cid:54)(cid:32)

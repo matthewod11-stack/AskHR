@@ -1,13 +1,19 @@
-## challenging. In the U.S., the quality of care and availability of support
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd782a0d06aa84d170963f4e1ec0f9768fa0c3f6
+title: H07MZQ-PDF-ENG
+---
+# HBR / Digital Article / How to Support Parents of Neurodivergent Children at Work
 
-services can swing wildly from state to state and city to city.
+more easily integrate their work and parenting challenges while also
 
-Unsurprisingly, these factors cause parents of neurodivergent children
+recognizing the profound asset these parents are to the workforce.
 
-to drop out of the workforce at very high rates. This is often because
+There’s no way around it: parenting neurodivergent kids is a challenge.
 
-one parent needs to provide full-time support to their child, especially if the family can’t aﬀord adequate care. Organizations must take it upon
+Even though we have advanced as a society in creating better
 
-themselves, both from a moral and performance perspective, to step in
+understanding of the spectrum of neurodiversity, it still is not well-
 
-to ensure that these parents get the support they need to stay — and
+resourced or given social priority. Finding basic services can be

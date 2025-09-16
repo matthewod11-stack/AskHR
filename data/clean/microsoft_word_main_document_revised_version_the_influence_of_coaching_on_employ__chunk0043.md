@@ -1,7 +1,9 @@
-## motivation, Journal of Marketing, 52(1), 78-92.
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: 9b237469f1cfcd4c18dba4eb77754ff978c6768b
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+## Construct Validation Studies, Journal of Marketing Research, 24(3), 315-318.
 
-D’Abate, C., Eddy, E. & Tannenbaum, S. (2003). What’s in a name? A Literature-based Approach to Understanding Mentoring, Coaching and Other Constructs that Describe Developmental Interaction, Human Resource Development Review, 2(4), 360-384.
-
-Dansereau, F. Jr., Graen, G. & Haga, W. J. (1975). A Vertical Dyad Linkage Approach to Leadership within Formal Organizations : A Longitudinal Investigation of the Role Making Process, Organizational Behavior and Human Performance, 13(1), 46-78.
-
-Deeter-Schmelz, D., Kennedy, K. N. & Goebel, D. J. (2002). Understanding Sales Manager Effectiveness: Linking
+Cron, W. L., Dubinsky, A. J. & Michaels, R. E. (1988), The influence of career stages on components of salesperson

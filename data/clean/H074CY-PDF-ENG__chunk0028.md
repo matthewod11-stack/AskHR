@@ -1,17 +1,25 @@
-# diﬀerently.
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b545c5db92e97db9cf94cace115754cdd844fe38
+title: H074CY-PDF-ENG
+---
+## performance review. Focus on the behaviors within a person’s control.
 
-Dialogue is important, therefore, not just because it’s polite and
+This also helps to minimize a common cloning bias in organizations: Is
 
-typically characteristic of eﬀective organizational cultures, but also,
+there a problem with that person’s performance or is their performance
 
-because it tests assumptions and reasoning. Does my view of your
+achieved using a style that their manager would not use to do the job?
 
-interactions with colleagues make sense? Here is the data or other input
+Always be clear about the diﬀerence.
 
-I’m using to make this assessment: What am I missing? Is it an issue of
+Ask the other person to respond.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Eﬀective reviews are a two-way transfer of information, not only
 
-6
+directions from a manager. Most people want to know about their
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+performance. But the Rashomon eﬀect is alive and well in ﬁrms;
+
+two people can observe the same event or outcome yet interpret it

@@ -1,29 +1,17 @@
-## Health, the largest nonproﬁt health care system in the state, she
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 086ac2abe2c22cedea72a8cae8ad85e7afde7a7e
+title: R2401G-PDF-ENG
+---
+# Good-Riddance Reviews
 
-was troubled because clinical staﬀers were devoting too much time
+Savvy friction ﬁxers assess what they should and can remove from their
 
-to updating patients’ electronic health records and too little time to
+organizations and identify where and how to create mechanisms such
 
-examining, treating, and comforting patients.
+as rules, review processes, and ﬁnancial penalties that make it harder to
 
-To address the problem, Ashton and her team launched the Getting
+add unnecessary stuﬀ. Here are some methods they employ.
 
-Rid of Stupid Stuﬀ program in 2017 (yes, the acronym is GROSS). As
-
-Ashton reported in the New England Journal of Medicine, one of the
-
-ﬁrst steps was to ask nurse assistants, nurses, and doctors to nominate
-
-anything in the system that “was poorly designed, unnecessary, or
-
-just plain stupid.” Hawaii Paciﬁc employees identiﬁed 188 subtraction
-
-targets, which sparked 87 improvements. Subtracting all that stupid
-
-stuﬀ freed up a lot of time. In response to one nomination, Ashton’s
-
-team eliminated a mouse click that every nurse and nurse assistant was
-
-required to make for every patient during hourly rounds. That saved
-
-24 seconds per click—which, Ashton reports, “consumed approximately
+Ask colleagues and customers to identify unnecessary obstacles. When Melinda Ashton was the chief quality oﬃcer at Hawaii Paciﬁc

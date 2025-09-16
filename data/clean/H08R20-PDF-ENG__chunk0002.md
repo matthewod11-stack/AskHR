@@ -1,19 +1,7 @@
-# Sean Justice/Getty Images
-
-Last year, I worked alongside a major airline’s cleaning crew at a busy
-
-airport. In the airline business, turnaround time is everything. When
-
-you deplane, these workers begin sanitizing the bathrooms, seats, and
-
-ﬂoors. They’re under constant pressure. The team I observed that day
-
-had some of the highest cleanliness scores at the airline, and it didn’t
-
-take me long to ﬁnd out why.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45c18b7ff055ee85925a74760dc74bf134e9a3fb
+title: H08R20-PDF-ENG
+---
+## Published on HBR.org / May 29, 2025 / Reprint H08R20

@@ -1,5 +1,13 @@
-# business resource.
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c389bf6da69231ef84912dc5f4722dc94e2d0ad0
+title: H08DSC-PDF-ENG
+---
+## when specialists in particular technologies or management issues with
 
-This article was originally published online on September 13, 2024.
+them are needed. However, the trend toward specialized technology
 
-Thomas H. Davenport is the President’s Distinguished Professor of Information Technology and faculty director of the Metropoulos Institute for Technology and Entrepreneurship at Babson College, a visiting scholar at the MIT Initiative on the Digital Economy, and a senior adviser to Deloitte’s Chief Data and Analytics Oﬃcer Program.
+and data leaders has, we feel, gone too far. Greater coordination and
+
+integration is needed, and SuperTech leaders with a strong connection to the business can help make information technology a more eﬀective

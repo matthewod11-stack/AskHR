@@ -1,5 +1,9 @@
-## Studies, The Polytechnic, Ibadan Nigeria. (2005).
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: 190048e7fc865bad47cb4adfcb794c4df47f07fd
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# trades industry (2005).
 
-Akindele, O. A., Craftsman and labor productivity in the Swaziland construction industry CIDB 1st postgraduate Conference, university of withwaterland, Port Elizabeth. South Africa. (2003).
-
-Arditi, D. and Mokhtar, K., Trends in productivity improvement in the US construction industry.
+Akintunde, O., How to motivate workers to achieve higher productivity. Ph.D. Theses, Business

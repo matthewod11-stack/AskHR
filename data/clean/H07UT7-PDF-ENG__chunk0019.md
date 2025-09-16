@@ -1,13 +1,23 @@
-# cooperation and interpersonal trust.
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5f25b56798c893727c715a3c86592d915bd736f
+title: H07UT7-PDF-ENG
+---
+## better communication and information-sharing and contributing to
 
-Companion animals play an especially crucial role for employees
+coworker bonding and friendships. This seems to be the case because
 
-who have chronic health problems, disabilities, and mental health
+pets increase employee interactions, reduce feelings of isolation, and
 
-challenges, providing them with nonjudgmental companionship,
+serve as the catalyst for fruitful conversations. Perhaps you can relate
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+if you’ve ever stopped by a colleague’s cubicle to pet a visiting dog and
 
-3
+found yourself in serendipitous chats. In one series of lab experiments,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+psychologists found that participants working on decision-making tasks
+
+in the company of a dog (versus a dog’s absence) rated their teams
+
+as more friendly and attentive, which increased their subsequent

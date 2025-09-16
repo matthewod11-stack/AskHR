@@ -1,19 +1,21 @@
-# TRUST IN LEADERSHIP META-ANALYSIS
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 2dcf8c754a77ced221092fe08e04e7f28871de83
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+## organizations. New York: Oxford University Press.
 
-- Oldham, G. R. (1975). The impact of supervisory characteristics on goal acceptance. Academy of Management Journal, 18, 461–475.
+- Lee, C., & Farh, J. (1999). The effects of gender in organization justice perception. Journal of Organizational Behavior, 20, 133–143.
 
-- O’Reilly, C. A., & Anderson, J. C. (1980). Trust and the communication of performance appraisal information: The effect of feedback on perfor- mance and job satisfaction. Human Communication Research, 6, 290– 298. Organ, D., & Ryan, K. (1995). A meta-analytic review of attitudinal and dispositional predictors of organizational citizenship behavior. Person- nel Psychology, 48, 775–802.
+- Novak, M. (1984). A study of leader resources as determinants of leader- member exchange. Unpublished doctoral dissertation, University of Cincinnati.
 
-tence, leader integrity and technology on subordinate participation seeking performance satisfaction and agreement. Unpublished doctoral dissertation, University of Maryland at College Park.
+- Lee, C., Pillutla, M., & Law, K. (2000). Power-distance, gender, and organizational justice. Journal of Management, 26, 685–708.
 
-Schriesheim, C., Castro, S., & Cogliser, C. (1999). Leader-member ex- change (LMX) research: A comprehensive review of theory, measure- ment, and data-analytic procedures. Leadership Quarterly, 10, 63–113. *Schweiger, D., & Denisi, A. (1991). Communication with employees following a merger: A longitudinal field experiment. Academy of Man- agement Journal, 34, 110–135.
+Lee, K., Carswell, J., & Allen, N. (2000). A meta-analytic review of occupational commitment relations with person- and work-related vari- ables. Journal of Applied Psychology, 85, 799–811.
 
-Oswald, F., & Johnson, J. (1998). On the robustness, bias, and stability of statistics from meta-analysis of correlation coefficients: Some initial Monte Carlo findings. Journal of Applied Psychology, 83, 164–178. *Pearce, J. L. (1993). Toward an organizational behavior of contract laborers: Their psychological involvement and effects on employee co-workers. Academy of Management Journal, 36, 1082–1096.
+Lewicki, R., & Bunker, B. (1996). Developing and maintaining trust in
 
-- Pelled, L., & Xin, K. (2000). Relational demography and relationship quality in two cultures. Organization Studies, 21, 1077–1094.
+- Nyhan, R. (1999). Increasing affective organizational commitment in public organizations: The key role of interpersonal trust. Review of Personnel Administration, 48, 58–70.
 
-Peterson, D., & Hicks, M. D. (1996). Leader as coach. Minneapolis, MN:
-
-Settoon, R., Bennett, N., & Liden, R. (1996). Social exchange in organi- zations: Perceived organizational support, leader-member exchange, and employee reciprocity. Journal of Applied Psychology, 81, 219–227. *Shamir, B., Zakay, E., Breinin, E., & Popper, M. (1998). Correlates of charismatic leader behavior in military units: Subordinates’ attitudes, unit characteristics, and superiors’ appraisals of leader performance. Academy of Management Journal, 41, 387–409.
-
-- Shirley, R. (1973). Analysis of employee and physician attitudes toward hospital merger. Academy of Management Journal, 16, 465–480.
+- Nyhan, R. (2000). Changing the paradigm: Trust and its role in public sector organizations. American Review of Public Administration, 30, 87–109.

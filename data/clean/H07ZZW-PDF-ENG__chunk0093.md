@@ -1,15 +1,15 @@
-## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93ff77204fba1490fcc54f2f465811aa69e760d6
+title: H07ZZW-PDF-ENG
+---
+## government and account for the level of attribution and leverage
 
-(For example, they provide guidance in a scenario whereby you
+your corporation has in causing and resolving negative impacts.
 
-are doing your best to respect human rights in your supply chain
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-factories, but the government is conducting aggressive surveillance
+16
 
-and arbitrary detention of the local population, which is aﬀecting your
-
-workers.) Corporations must identify whether their actions are causing,
-
-contributing, or are directly linked to negative human rights impacts.
-
-Finally, the Guiding Principles consider tricky trade-oﬀs, such as those
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,35 +1,15 @@
-## HBR / Digital Article / The Art of Setting Expectations as a Project Manager
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d399501c318ce293021e89145db890131dec803a
+title: H07UNT-PDF-ENG
+---
+## strongest team, the best project management software, and the most
 
-“Milestones, time, and money depend on me keeping everything on
+skillful communicators, a project can still go awry.
 
-track,” says Binjour. “But all of that structure needs to be nimble,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-because for as many plans as I make, it can easily fall apart.”
+6
 
-The easiest way to do this is to break projects down into small functional
-
-steps. The structure needs to be sturdy enough to move a project
-
-forward, but nimble enough to adapt in case that timeline shifts.
-
-“It’s really about making it super tactical at this point, almost down to
-
-every second of the day so that the time feels productive and everyone
-
-knows where to focus,” says Binjour. “Once a timeline shrinks down to
-
-the last few days before a project is due, a bulleted to-do list just isn’t
-
-enough. I send 15 minute calendar blocks to those who need to know
-
-what they need to do and when it needs to be done.”
-
-At some point, the PM needs to make sure the team can step away from
-
-the project and deliver the work in a way that enables them to feel like
-
-they did the best they could under whatever constraints they needed to
-
-work within. Those environments can actually fuel creativity, but that
-
-ﬂexible structure is key to keeping the project on track and fostering the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

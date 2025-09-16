@@ -1,9 +1,15 @@
-# employees (Barnes, Ponder & Hopkins, 2015; Hayek, Thomas, Novicevic & Montalvo, 2016;
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 5236d498c62966c45cdcde983364db62e812f233
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Introduction
 
-Mellahi & Collings, 2010). Today’s highly competitive global environment has made
+Over the past three decades, multiple streams of research have examined the productivity of
 
-competition for top talent a priority for many multinationals and small businesses in both
+workers and strategies to achieve better employee performance (Al Ariss, Cascio & Paauwe,
 
-developed and developing economies,
+2014; Yi, Nataraajan & Gong, 2011). One stream of research has focused on human capital
 
-thereby creating a hostile environment for
+development and skills upgrading as effective mechanisms for ensuring efficient utilisation of

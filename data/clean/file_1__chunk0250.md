@@ -1,9 +1,9 @@
-# and Stratification. Polity Press, 11-23.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 9d90356c0dd22b18b19d83eee0de4831631de459
+title: file_1
+---
+## Journal of Women’s Studies, 2 (10), 99-107.
 
-Lombardo, E., Meier, P. and M. Verloo, 2009. Stretching and bending gender equality: a discursive politics approach. In E. Lombardo, P. Meier and M. Verloo, M, eds, The Discursive Politics of Gender Equality. London: Routledge.
-
-Lombardo, E. and M. Verloo, 2009. Stretching gender equality to to her inequalities:
-
-Political intersectionality in European gender equality policies. In E. Lombardo, P. Meier and M. Verloo, M, eds, The Discursive Politics of Gender Equality. London: Routledge.
-
-Lorber, J., 2005. Gender Inequality: feminist theories and politics. 3rd ed. Roxbury
+Lockwood, D., 1986. Class, Status and Gender. In R. Crompton and M. Mann, eds, Gender

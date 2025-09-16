@@ -1,7 +1,11 @@
-## —of employee participation, statistical process control, and key quality
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 01b6392cd33d1e82ca12d00962280393e0810aab
+title: R0507Q-PDF-ENG
+---
+## How One Company Used a Daily Financial Report to Improve Quality
 
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+In the 1980s, a chemicals company became committed to a total
 
-18
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+quality management program and began to make extensive measurements

@@ -1,1 +1,9 @@
-# 205
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: c54f068a5f03d43bffc5e5fdea738329255ca801
+title: performance_management_3rd_edition_by_aguinis
+---
+## Role of Direct Supervisor in Development at Diageo
+
+Diageo (http://www.diageo.com) has recognized the value of employee development and expects supervisors to play an important role in the process with their direct reports. Diageo, headquartered in London, England, employs 22,000 people and was formed in 1997 with the merger of Guinness and GrandMet. The company produces premium alcoholic beverages, including such brands as Smirnoff, Baileys, Guinness, and Sterling Vineyard. The company’s career development program includes a formal review and goal-setting, along with regular meetings to keep development fresh in the minds of employees. The supervisor facilitates the process in several ways. The supervisor helps identify specific development goals that are aligned with the employee’s career aspirations. Monthly meetings, referred to as “call overs,” are held to review progress toward goals and adjust goals as necessary. Also, the supervisor helps provide a means for development and reaching goals by ensuring that employees receive training, course work, or reading material on relevant topics. Another strategy includes giving assignments outside of one’s current job responsibilities, such as leading a project to test one’s skills and practice what he or she has learned in the development process. In summary, Diageo has recognized that empha- sizing development with active management responsibilities not only benefits the individual employee’s growth but also aids in aligning employee skills and actions with the strategic goals of the organization as a whole.10

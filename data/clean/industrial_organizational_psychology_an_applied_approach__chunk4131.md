@@ -1,9 +1,15 @@
-## Chubb, R. (1995). Humor: A valuable laugh skill. Journal of Child
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f684d79f29906bc01bb9ba7f0d4c6ec2db6754fa
+title: industrial_organizational_psychology_an_applied_approach
+---
+## nest-building. Physiological Zoology, 10, 420–436.
 
-and Youth Care, 10(3), 61–66.
+Chua-Eoan, H. (1999, March 22). Th e bomber next door: What
 
-Church, A. H. (2001). Is there a method to our madness? Th e
+are the most dangerous men in America talking about at the Supermax prison in Colorado? Time, 153(11), 55.
 
-impact of data collection methodology on organizational survey results. Personnel Psychology, 54(4), 937–969. Church, A. H., Rogelberg, S. G., & Waclawski, J. (2000). Since when in no news good news? Th e relationship between performance and response rates in multirater feedback. Personnel Psychology, 53(2), 435–451.
+630
 
-Cialdini, R. B. (2009). Inﬂ uence: Science and practice (5th ed.).
+references

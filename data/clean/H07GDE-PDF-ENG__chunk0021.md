@@ -1,21 +1,11 @@
-# sound less conﬁdent.
+---
+source_path: H07GDE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ed7e402efe550f9e2947fc652e8eab707f6cfbf
+title: H07GDE-PDF-ENG
+---
+## HBR / Digital Article / Preparing to Announce Layoffs in a Virtual Meeting
 
-Supporting employees when they need it most.
+you won’t get full lung capacity, and the words at the end of your
 
-Layoﬀs are never easy; they’re even harder when you’re doing them
-
-right, by thinking about the people who will be impacted by job losses and insecurity. Adding in to the mix the diﬃculties of virtual
-
-communication makes it even harder.
-
-Yet, with the proper preparation, mindset, and body language, your leadership team can deliver diﬃcult news eﬀectively and
-
-compassionately. When you deliver the message well, former employees
-
-will feel supported and respected. Meanwhile, the remaining employees
-
-will feel motivated to keep working because you made them trust the
-
-company is going in the right direction.
-
-This article was originally published online on January 26, 2023.
+sentences may get cut oﬀ as you run out of breath. This will make you

@@ -1,13 +1,57 @@
-# Building Success upon Success
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44e199b63428ca56549bc0f3d6823ab4f3c5b7fd
+title: S24011-PDF-ENG
+---
+## HBR / Spotlight Article / Leading in the Flow of Work
 
-In our cross-organizational study, we saw that the performance of the
+the intention “I will create positive energy and rally the team around my
 
-more than 100 executives who were practicing leadership-in-ﬂow for
+vision.” He started the meeting by showing empathy and appreciation. “I understand how diﬃcult it has been these last few weeks,” he
 
-six weeks kept improving from one event to the next. As I’ve noted, by
+said. “I recognize how hard you all have been working, despite these
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+obstacles.” The love energy these actions released helped put his team
 
-12
+at ease. Sensing an opening, he switched to activating growth energy by
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+soliciting advice, inviting the team members to share their perspectives
+
+on the challenges they faced. Seeing that some were nervous, he gently
+
+nudged them and thoughtfully probed. As team members got more
+
+comfortable sharing their perspectives, one suggested that they start
+
+saying no to new requests, while another pushed back because that
+
+would compromise their objective of being a responsive team. Roger
+
+fused these opposing viewpoints by proposing that they become better
+
+at setting and resetting expectations about deliverables and deadlines
+
+with their internal clients. “Every person in the room felt personally
+
+accountable, engaged, and invested,” he recalls. As a result, valuable
+
+ideas emerged about how the team should prioritize work, and the
+
+chronic delays were alleviated.
+
+Sometime after an event, executives should do a postmortem to assess
+
+how well it went, how successful they were at meeting their goals and
+
+using the chosen actions, and what they learned from it. Even when
+
+things don’t turn out as desired, this practice can produce valuable
+
+insights. As a vice president of business development at Wilton Re told
+
+us, postmortems have helped him “translate instances of ‘failure’ into
+
+opportunities for growth,” allowing him to ﬁnd pride in moments when
+
+he honored his intention and tied it to his values.

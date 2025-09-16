@@ -1,15 +1,21 @@
-## empowerment and feeling less isolation or worse, failure.
+---
+source_path: H06NVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a1e354023fa952b2c736da8cc4274b8b3ddb818
+title: H06NVB-PDF-ENG
+---
+## HBR / Digital Article / Navigating Postpartum Depression at Work
 
-Start preparing now. All of the resources and care available for first-
+Breastfeeding Center for Greater Washington offers group classes
 
-time mothers mentioned in this piece should be as well-researched as
+including a range specific to navigating postpartum stresses — check in
 
-the right stroller or babysitter — and be accessible when you need them.
+with your OB/GYN, the hospital where you gave birth, or other mothers
 
-Start today, whether you’re expecting, on leave, or already back to work.
+to find classes in your area. Research and choose your options
 
-Some services may even be covered by your medical insurance or as an
+prenatally, too, to find the right fit in terms of chemistry and
 
-employee benefit, so ask your OB/GYN and your HR department. Know
+personality. The power of connecting with others deep in similar
 
-these providers’ contact info, rates, and rules of engagement. Another
+experiences along with a well-trained leader is an essential tool for

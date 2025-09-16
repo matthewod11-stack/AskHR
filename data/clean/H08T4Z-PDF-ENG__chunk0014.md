@@ -1,15 +1,13 @@
-# marketplace by others.
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c437720ce1e2a314bdd5ca5ed89fc09c5f8d50a9
+title: H08T4Z-PDF-ENG
+---
+# costs.
 
-Holley Miller was the director of global brand for Allergan, the
+What’s your superpower? Deﬁning this is essential—and not as easy as
 
-pharmaceutical and medical device company, when she built and
+you think. Hint: it has nothing to do with your title, pedigree, or resume.
 
-executed a category design strategy that quadrupled revenue for a
-
-product from $25 million to $100 million in four years. She did it
-
-by radically changing their marketing—by reframing and naming a diﬀerent end user problem instead of just marketing features and technology. As a result, end users and physicians saw Allergan’s oﬀer
-
-as a category of one with no substitutes. Revenue quadrupled without
-
-adding incremental sales reps or dramatic increases in operating
+Your superpower must be a unique ability that’s easily quantiﬁed in the

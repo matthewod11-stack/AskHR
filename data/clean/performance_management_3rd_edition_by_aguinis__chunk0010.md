@@ -1,5 +1,7 @@
-# p. cm.
-
-ISBN-13: 978-0-13-255638-5 (alk. paper) ISBN-10: 0-13-255638-3 (alk. paper) 1. Employees—Rating of. HF5549.5.R3A38 2013 658.3'125—dc23
-
-- 2. Performance—Management.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8dcb2bfd3d4d257d8b59a242f160122333fc3d0d
+title: performance_management_3rd_edition_by_aguinis
+---
+## Performance management / Herman Aguinis. — 3rd ed.

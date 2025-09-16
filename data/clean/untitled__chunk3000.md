@@ -1,9 +1,25 @@
-## commons. American Psychologist, 51, 488–495.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3a3a9923c285bd96ae0e57b8319270d04b373666
+title: untitled
+---
+## Lunt, I., & Poortinga, Y. H. (1996). Internationalizing psychology:
 
-Pawlik, K., & Rosenzweig, M. R. (Eds.). (1994). The origins and development of psychology: Some national and regional per- spectives [Special issue]. International Journal of Psychology, 29, 665–756.
+The case of Europe. American Psychologist, 51, 504–508.
 
-Poortinga, Y. H. (1997). Cultural psychology: A U.S. tragedy. In M. Givadan & T. Venguer (Eds.), Conferencias magistrales congreso regional para profesionales en America (pp. 39–54). Mexico City: IMIFAP.
+Luria, A. R., & Majovski, L. V. (1977). Basic approaches used in American and Soviet clinical neuropsychology. American Psy- chologist, 32, 959–968.
 
-Rosenzweig, M. R. (1979). Promoting international communica- tion in psychology. International Journal of Psychology, 14, 285–286.
+MacLeod, R. B. (1957). A note on the international congress. In H. P. David & H. V. Bracken (Eds.), Perspectives in personality theory (pp. 419–424). New York: Basic Books.
 
-Rosenzweig, M. R. (1984). U.S. psychology and world psychology.
+Mays, V. M., Rubin, J., Sabourin, M., & Walker, L. (1996). Moving toward a global psychology. American Psychologist, 51, 485– 487.
+
+Mehryar, A. H. (1984). The role of psychology in international de- velopment: Wishful thinking and reality. International Journal of Psychology, 19, 65–77.
+
+Melikian, L. H. (1984). The transfer of psychological knowledge to Third World countries and its impact on development: The case of the Arab Gulf oil-producing states. International Journal of Psychology, 19, 65–77.
+
+Merenda, P. F. (1995). International movements in psychology: The major international associations of psychology. World Psychol- ogy, 1, 27–48.
+
+Murphy, G., & Kovach, J. K. (1972). Historical introduction to modern psychology. New York: Harcourt, Brace and Jovanovich.
+
+Pawlik, K., & d’Ydewalle, G. (1996). Psychology and the global

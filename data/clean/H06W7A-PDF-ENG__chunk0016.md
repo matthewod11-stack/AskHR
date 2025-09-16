@@ -1,5 +1,11 @@
-# electronic by 2014.
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5bc79aca293691fe9ce385b22838be370b07d23
+title: H06W7A-PDF-ENG
+---
+## in 2004, by the American Health Information Community (AHIC). Their
 
-Recommending a new national protocol required embracing tectonic
+goal was to figure out and recommend a process to the U.S. secretary
 
-change with tremendous risk. At the time, there was no standard
+of health and human services to make American’s health care records

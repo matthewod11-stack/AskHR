@@ -1,7 +1,11 @@
-# employees.
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 083c3758db113762baeaf1a0e6fcb11a78a8687e
+title: H08FH3-PDF-ENG
+---
+## relationships between themselves and their work, their coworkers, their
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+leaders, and their employers. This is evidenced by quiet quitting, the
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Great Resignation, and the broken contract between employers and

@@ -1,9 +1,25 @@
-## leaders—particularly at AI companies or those with extensive AI needs
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1d2f62efc7aabe1d7c6db8886bc53049e50a998
+title: H08PLG-PDF-ENG
+---
+# Energy Divide
 
-—can consider several mitigation options:
+AI has huge energy and water demands: by 2026, data center energy
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+consumption is expected to grow by 35% to 128%. Even with the
 
-11
+anticipated investments in new energy infrastructure, demand will
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+continue to remain ahead of supply increases. While AI can be used
+
+to make smarter use of energy, it is more likely to contribute to energy
+
+poverty, as smart energy systems are concentrated in richer areas and
+
+over a billion people live without access to aﬀordable energy. Moreover,
+
+many companies risk missing their own net-zero goals, as investments
+
+in AI have thrown them oﬀ course. To address these issues, company

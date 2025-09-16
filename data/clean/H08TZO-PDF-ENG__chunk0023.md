@@ -1,17 +1,19 @@
-# and even their time.
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09ac63969933393b9b2e9c9e2e474649da7aeb69
+title: H08TZO-PDF-ENG
+---
+# Instead, marketing leaders should:
 
-- 3. From career ladders to career landscapes
+- Showcase ambition, vitality, and reinvention at every age.
 
-Traditional career models assume people peak in their 40s and retire
+- Normalize longevity, not as an exception, but as the new standard.
 
-by 65. But those assumptions no longer hold. Longer lives mean longer
+- Feature age-diverse brand ambassadors across product lines.
 
-working years, but not necessarily in the same roles or with the same
+Aspirational marketing doesn’t have to be young; it has to be honest,
 
-cadence. In 2017, CVS implemented a “Talent Is Ageless” program in
+bold, and deeply human. An older demographic has diﬀerent priorities
 
-which they actively recruited employees 50 years or older, who are often
-
-in their second or third career, while emphasizing the importance of
-
-hiring people who can relate to their customers. (They note that 90%
+and is often willing to pay more to protect their retirement, their health,

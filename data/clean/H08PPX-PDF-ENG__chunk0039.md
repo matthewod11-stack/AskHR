@@ -1,15 +1,21 @@
-## alignment with their organization’s objectives.
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56e361042aba3e7a5f34b170277259096a375a95
+title: H08PPX-PDF-ENG
+---
+# HBR / Digital Article / To Make Your DEI Efforts More Effective, Challenge Outdated M…
 
-Like all strategic models, DEI models must evolve over time. The
+The most widely adopted DEI models to date have often focused
 
-moment has arrived to challenge outdated approaches and embrace
+on the wrong metrics, relied on siloed and overly general training,
 
-a more mature, dynamic model of DEI. This means crafting a DEI
+and failed to clearly communicate how DEI practices are aligned
 
-model that is tailored to the unique context, needs, and strategy of
+with speciﬁc operational goals and value. Rather than following the
 
-the organization. We urge organizational leaders to seize the current
+growing trend of blanket calls to end DEI initiatives—an approach we
 
-momentum to critically assess their organizations’ needs and how
+believe is misguided—we urge organizational leaders to take bold action
 
-diversity, equity, and inclusion can be integrated into every core
+in redeﬁning and reﬁning their DEI models for greater impact and

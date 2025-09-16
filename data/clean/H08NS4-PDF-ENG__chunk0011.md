@@ -1,23 +1,15 @@
-# airplane.
+---
+source_path: H08NS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 407dff36d69a702b151b03d6e1a702c55832e9e8
+title: H08NS4-PDF-ENG
+---
+# HBR / Digital Article / You Don’t Need a Mentor to Get the Career Advice You Need
 
-Not everyone you reach out to will say yes, but it’s certainly not
+school’s alumni database can allow you to ﬁnd a range of people to ask
 
-an imposition to ask someone for a discrete piece of advice (“I’m
+for targeted input about your career goals. It’s also useful to stay open-
 
-considering getting an MBA or an MPP. Given your experience in the
+minded to spontaneous interactions. One colleague of ours received
 
-ﬁeld, which do you think would be most useful?”), a query about their
-
-experience (“What are the best and worst parts of working in M&A?”),
-
-or―depending on logistics and their availability―a one-time coﬀee meeting.
-
-It can feel daunting to reach out to ask a stranger for advice, so it is
-
-also worth remembering that many people appreciate being asked for
-
-their input. In fact, your micro-mentoring request may enable them to
-
-broaden their impact and feel a sense of professional accomplishment
-
-without having to add an ongoing commitment to their already stuﬀed
+life-changing career advice from a woman he was seated next to on an

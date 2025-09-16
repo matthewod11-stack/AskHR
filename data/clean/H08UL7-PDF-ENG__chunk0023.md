@@ -1,15 +1,15 @@
-## as SWOT analyses (Strengths, Weaknesses, Opportunities, Threats).
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f65ef68990b366358461958bae1f093a9927f1f
+title: H08UL7-PDF-ENG
+---
+## concerns about members’ relationships with their team leader and
 
-Each meeting opened with a monthly open assessment of the team’s
+with one another. By the end of the two days, they’d developed an
 
-progress, which included feedback from the team leader. They’d then
+improvement plan. At the top of the list was a monthly meeting
 
-discuss upcoming challenges and opportunities and brainstormed how
+that they labeled Candid Conversations, with the goal of making the
 
-to address them proactively.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+discussions open and authentic. They organized these conversations

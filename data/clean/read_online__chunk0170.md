@@ -1,3 +1,7 @@
-# WLB, Work-life balance conflict.
-
-FIGURE 6: Stress as a moderator on the work-life balance–turnover intention relationship (two-way interaction).
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 8e0eab6cee273020098a678b0f23249eb26f2eb1
+title: read_online
+---
+# Work-life balance conﬂict level

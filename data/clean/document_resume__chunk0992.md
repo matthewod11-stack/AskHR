@@ -1,3 +1,7 @@
-# Stan Member
-
-have reviewed and discussed this performance appraisal with my superior i am aware Ihat I have the opportunity to comment on this performance apps aisal in writino and that my .ommenls will be.ome part of the record of this performance appraisal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: c01bfdc63e189d7fecc526e0252ba85175ff0739
+title: document_resume
+---
+# Date

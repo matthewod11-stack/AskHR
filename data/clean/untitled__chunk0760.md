@@ -1,5 +1,7 @@
-## philosophy–I. Oxford, England: Oxford University Press.
-
-Izawa, C. (Ed.). (1999). On human memory: Evolution, progress, and reﬂections on the 30th anniversary of the Atkinson–Shiffrin model. Mahwah, NJ: Erlbaum.
-
-James, W. (1890). Principles of psychology (Vols. 1–2). New York:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: eb9df13f554dfd6ed63311831e0755cd5f4d1d66
+title: untitled
+---
+# thought: A history of western

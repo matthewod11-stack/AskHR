@@ -1,15 +1,23 @@
-## on the team’s reputation and the cost, timeline, and quality of the
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebf8fcc806b913ce56cbc9b3073387cc44e6ff3b
+title: R2404K-PDF-ENG
+---
+# within the accelerator.
 
-proposal. Cordis-X developed a dynamic network of vetted “Ajax
+Innovators were recruited for their technical skill, reliability, eﬀective
 
-veriﬁed” partners that were then routinely invited to bid on projects
+project management, teamwork, and creativity. Both Cordis and the
 
-and even to propose project ideas of their own. Ajax also built a support
+innovators had to yield some autonomy to collaborate eﬀectively. The
 
-network of trusted partners to handle secondary tasks, such as quality,
+accelerator’s leaders began by inviting innovators they had worked
 
-clinical, and regulatory activities, so that the teams could focus on eﬃciently delivering innovative products.
+with at Ajax to join. Recruitment snowballed as word of the unique
 
-Employing this model, Ajax was able to recruit a team of engineers that had been struggling to raise funding for several transformative projects.
+opportunities presented by the model spread. Leveraging the Ajax
 
-Each development team worked on three to ﬁve products
+network, Cordis-X’s leadership expanded the range of development
+
+teams it invited to oﬀer bids on RFPs, which it then evaluated based

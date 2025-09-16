@@ -1,11 +1,7 @@
-# Which returns
-
-[[276 44]
-
-[ 33 15]]
-
-precision recall f1-score support
-
-0 0.89 0.86 0.88 320
-
-1 0.25 0.31 0.28 48
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: e7b17f12447d9e2a2b1ff157f25746a71841bacb
+title: i
+---
+## print(classification_report(y_test2,pred_tree))

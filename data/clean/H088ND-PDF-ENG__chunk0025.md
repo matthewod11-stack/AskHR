@@ -1,19 +1,23 @@
-# and utilized wisely.
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3753bd11d9e094115a1f13ada41517709e8e5327
+title: H088ND-PDF-ENG
+---
+# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
 
-We’ve observed that, since the upper echelons of many organizations
+These underlying aspects of culture are the crucial “diﬀerences that
 
-are quite homogeneous, they often become cultural echo chambers.
+make a diﬀerence” to individual and team performance. Since they
 
-Consequently, many leaders have limited opportunities to understand
+are subconscious and deeply embedded, we frequently struggle to fully
 
-the cultural “diﬀerences that make a diﬀerence” to team performance
+understand their inﬂuence.
 
-or to develop the skills to leverage them eﬀectively. This often results
+But understand them we must, since a key factor in whether diversity
 
-in leaders inadvertently imposing their own cultural norms on their
+improves performance is whether leaders eﬀectively harness cultural
 
-teams, stiﬂing diverse voices, and leading to teams that are culturally
+diﬀerences. Research has shown that multicultural teams perform
 
-homogeneous even if they are demographically diverse. In this way,
-
-many leaders’ goals to be inclusive can be undermined by their own
+better and unlock more creativity when their diﬀerences are understood

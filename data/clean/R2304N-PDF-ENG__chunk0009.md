@@ -1,23 +1,11 @@
-# multilingual mind.
+---
+source_path: R2304N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef80659cecfcf40068ba0db4c5bdda30dfb5ee89
+title: R2304N-PDF-ENG
+---
+## explains that although the majority of people in the world speak more
 
-When you know multiple languages, you understand that meaning
+than one language, most research to date has been on monolingual
 
-is assigned, not inherent. You extract and interpret information
-
-diﬀerently, and you’re more attuned to how words make you feel.
-
-All of that yields beneﬁts, she notes. People who are multilingual
-
-develop critical-thinking and other higher-order skills more quickly
-
-as children. They perform better on executive-functioning tasks like
-
-following multistep directions and staying focused despite distractions.
-
-They draw more novel connections and are more open and accepting
-
-than monolinguals. “If you can appreciate ﬁrsthand the utility and
-
-beauty of another language and worldview, it is not hard to imagine
-
-you are less prone to bigotry, to demonizing things or people who are
+populations, so we’re only beginning to understand the power of the

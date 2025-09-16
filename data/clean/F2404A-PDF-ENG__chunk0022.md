@@ -1,17 +1,39 @@
-## up with a new hypothesis around that idea.
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d58acc3716a59f9721b7abc303f01b3a5b3a121
+title: F2404A-PDF-ENG
+---
+# Claudia Gori
 
-Which was?
+use this platform and that it would help
 
-A platform to encourage the adoption of electric vehicles by persuading
+reduce climate change.
 
-rental-car companies to offer them and connecting those companies
+But you were wrong?
 
-with renters. It was a completely different idea, but it revolved around
+We used the scientific method to try to validate our idea that people would
 
-sustainability, so we decided to try it. We used the same approach, a field
+rather rent than buy products and that the owners of the products would
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+make money from the rentals. To do that, we conducted field interviews
 
-6
+asking whether people would be inclined to reuse other people’s goods
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and whether people had goods they wanted to rent out. We conducted
+
+approximately 25 interviews, but after only five, we realized this wasn’t
+
+going to work.
+
+What would have happened if you hadn’t used the scientific method?
+
+We probably would have developed our idea about peer-to-peer rentals
+
+further and built a prototype. It would have been costly and time-
+
+consuming. And we would have ended up with a product that wasn’t viable.
+
+The only positive feedback we received during the interviews was that
+
+people were interested in products that promote sustainability. So we came

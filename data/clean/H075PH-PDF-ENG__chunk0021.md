@@ -1,21 +1,27 @@
-# dispute.
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bbc097ab9fcd5527233cf6fcf33dd058c892ad2
+title: H075PH-PDF-ENG
+---
+# The Medic
 
-The medic’s best tools are controlling the process, managing emotions,
+A mediator’s ﬁrst task is to gauge and control the intensity of a conﬂict.
 
-and providing a structure that ﬁnally lets the parties involved hash it
+For those highly volatile ones, it’s important to play the role of medic by
 
-out, in a reasonable amount of time. Simultaneously, it’s up to the medic
+triaging the conﬂict to reduce its intensity. A mediator in medic mode
 
-to model a positive example of self-composure and self-expression,
+is active — they remain highly present throughout the process and
 
-and to reassure those involved, all while consistently evaluating and
+enforce communication guidelines like keeping people from going on
 
-reframing their problems. The medic’s authority as an executive helps.
+the attack. This does not necessarily require an overly ﬁrm intervention;
 
-A strong presence controls the room, and that control leads to better
+instead, the medic strikes a deft balance between allowing the parties
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+to vent while slowing them down long enough that they begin to talk.
 
-4
+Meanwhile, they reframe, rethink, and reﬂect the conﬂict back to the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+parties and stay self-aware enough to keep themselves cleanly out of the

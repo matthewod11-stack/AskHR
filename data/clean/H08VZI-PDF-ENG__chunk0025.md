@@ -1,9 +1,11 @@
-## withhold eﬀort, or violate important interpersonal norms. When just
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55a5a7e49e4d525b8d4635f1988136b570ed828c
+title: H08VZI-PDF-ENG
+---
+## HBR / Digital Article / The Secret to Building a High-Performing Team
 
-one of these people is on a team, it has a spillover eﬀect, causing other
+One common trait of fear-based cultures is that people often have to
 
-team members to take on the same behaviors: they argue and ﬁght
-
-more, do not share relevant information, and communicate less. Why
-
-do teams with this culture type endure toxic bad apples? Because short-
+endure toxic “bad apples,” those team members who display negativity,

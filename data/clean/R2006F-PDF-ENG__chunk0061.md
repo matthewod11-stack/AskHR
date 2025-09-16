@@ -1,35 +1,35 @@
-## HBR / Magazine Article / How Apple Is Organized for Innovation
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35ebc6f6a3f59048b0388afd544aad0423f3f0de
+title: R2006F-PDF-ENG
+---
+## company, not just product development, at an ever-greater scale.
 
-Rosner, the VP of applications, provides a good example. Like many
+When Apple was smaller, it may have been reasonable to expect leaders
 
-other Apple managers, he has had to contend with three challenges
+to be experts on and immersed in the details of pretty much everything
 
-arising from Apple’s tremendous growth. First, the size of his function
+going on in their organizations. However, they now need to exercise
 
-has exploded over the past decade in terms of both head count (from
+greater discretion regarding where and how they spend their time and
 
-150 to about 1,000) and the number of projects underway at any given
+eﬀorts. They must decide which activities demand their full attention to
 
-time. Clearly, he cannot dive into all the details of all those projects.
+detail because those activities create the most value for Apple. Some of
 
-Second, the scope of his portfolio has widened: Over the past 10 years
+those will fall within their existing core expertise (what they still need
 
-he has assumed responsibility for new applications, including News,
+to own), and some will require them to learn new areas of expertise.
 
-Clips (video editing), Books, and Final Cut Pro (advanced video editing).
+Activities that require less attention from the leader can be pushed
 
-Although apps are his core area of expertise, some aspects of these—
+down to others (and the leaders will either teach others or delegate in
 
-among them editorial content for News, how book publishing works,
+cases where they aren’t experts).
 
-and video editing—involve matters in which Rosner is not an expert.
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-Finally, as Apple’s product portfolio and number of projects have
+17
 
-expanded, even more coordination with other functions is required,
-
-increasing the complexity of collaborating across the many units.
-
-For instance, whereas Rosner is responsible for the engineering side
-
-of News, other managers oversee the operating system on which it
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

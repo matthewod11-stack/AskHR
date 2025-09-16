@@ -1,11 +1,13 @@
-## Control group A group of employees who do not
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 48f1c618758909b75ed3a4fb5b4dc0af6c61137f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Contrast error A type of rating error in which the rating
 
-receive a particular type of training so that their performance can be compared with that of employees who do receive training.
+of the performance level of one employee affects the ratings given to the next employee being rated.
 
-Convenience sample A nonrandom research sample
+606
 
-that is used because it is easily available.
-
-Cooperation-consideration One of five categories from the trait approach to scoring letters of recommendation.
-
-Cooperative problem solving A method of resolving conflict in which two sides get together to discuss a problem and arrive at a solution.
+glossary

@@ -1,15 +1,7 @@
-# exchange
-
-Kurt T. Dirks, John M. Olin School of Business, Washington University in St. Louis; Donald L. Ferrin, Department of Organization and Human Resources, State University of New York at Buffalo.
-
-We gratefully acknowledge the comments provided by Fred Oswald, Daniel Skarlicki, Linn Van Dyne, and Fran Yammarino on earlier versions of this article.
-
-Correspondence concerning this article should be addressed to Kurt T. Dirks, Washington University in St. Louis, John M. Olin School of Busi- ness, One Brookings Drive, St. Louis, Missouri 63130. E-mail: dirks@olin.wustl.edu
-
-1994; Rousseau, Sitkin, Burt, & Camerer, 1998) and edited books (Gambetta, 1988; Kramer & Tyler, 1996; Lane & Bachmann, 1998), as well as a growing number of individual articles. As Kramer (1999) noted, trust is moving from “bit player to center stage in contemporary organizational theory and research (p. 594). Researchers have clearly demonstrated significant and growing interest in the concept, but several key issues have been over- looked. First, there has been no attempt to cumulate and assess the empirical research on trust in leadership that is spread across several decades and numerous literatures. As a result, it is unclear what empirical research has uncovered about the relationships between trust and other concepts. For instance, scholarly views have ranged from trust being a variable of very substantial impor- tance (Golembiewski & McConkie, 1975; Kramer, 1999) to hav- ing little if any impact (Williamson, 1993). Nor has there been a summary of how trust is related to potential antecedents. In this study, we report a meta-analysis that quantitatively summarizes and evaluates the primary relationships between trust in leadership and 23 constructs. Although many constructs in applied psychol- ogy have benefited from a meta-analytic review, no such synthesis has been applied to the literature on trust in leadership.
-
-A second issue is that a diversity in construct focus has arisen in the literature. In examining the relationship of trust with other constructs, researchers have specified the construct with different leadership referents and with a focus on different operational definitions of trust. At present, it is unclear whether specifying the construct in alternative ways results in different findings and, if so, how. For example, some scholars have focused on trust in a direct leader (e.g., supervisor), whereas others have focused on trust in organizational leadership (e.g., senior leadership). We suggest that trust in these two different leadership referents will show system- atically different relationships with antecedents and work out- comes (i.e., the primary relationships will differ). This issue is important not only theoretically but also practically, as it may provide guidance on whether organizations should focus resources on establishing trust in its supervisors or in its senior leadership.
-
-611
-
-612
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 1d1bfdbcc10c485a9686d1f76a72e4515796c813
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# leader–member

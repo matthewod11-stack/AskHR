@@ -1,19 +1,25 @@
-## Other Measures for the Internal Business Perspective
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebd8c08720c044189618ed4e4ce1ec5f1ac8f0cc
+title: R0507Q-PDF-ENG
+---
+## particular plant to an individual customer.
 
-- One company recognized that the success of its total quality
+If the information system is unresponsive, however, it can be the
 
-management (TQM) program depended on all its employees internalizing
+Achilles’ heel of performance measurement. Managers at ECI are
 
-and acting on the program’s messages. The company performed a
+currently limited by the absence of such an operational information
 
-monthly survey of 600 randomly selected employees to determine if they
+system. Their greatest concern is that the scorecard information
 
-were aware of TQM, had changed their behavior because of it, believed
+is not timely; reports are generally a week behind the company’s
 
-the outcome was favorable, or had become missionaries to others.
+routine management meetings, and the measures have yet to be
 
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+linked to measures for managers and employees at lower levels of the
 
-12
+organization. The company is in the process of developing a more
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+responsive information system to eliminate this constraint.

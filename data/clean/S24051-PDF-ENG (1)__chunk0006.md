@@ -1,9 +1,15 @@
-## cross-functional, project-based teamwork in their operations. In the
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: d2b12bcb56250feeb2a0ad54ab1d35489d06faf3
+title: S24051-PDF-ENG (1)
+---
+## Skunk Works engineers of the 1950s to Brazilian football in the 1960s
 
-tech world, for example, software engineers are expected to connect
+to the aviation and surgical collaborations that delivered stunning
 
-with sales teams, data scientists to work on personnel projects,
+improvements in the 1990s and early 2000s, organizations have
 
-and user-experience designers to partner with plant managers. Team members may be working together not only from diﬀerent oﬃces
+continually searched for ways to enhance their teams’ eﬀectiveness.
 
-but on diﬀerent continents. Some industries seem to have cracked
+Today, companies of all types are called on to demonstrate integrated,

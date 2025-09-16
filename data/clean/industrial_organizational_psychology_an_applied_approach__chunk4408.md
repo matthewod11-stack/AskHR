@@ -1,15 +1,13 @@
-## Schaubroeck, J., Ganster, D. C., & Kemmerer, B. E. (1994). Job
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6fcaeb0397e7ad33cd3bb1de058dc2d34b145232
+title: industrial_organizational_psychology_an_applied_approach
+---
+# by magic. Training, 23, 60–64.
 
-complexity, Type A behavior, and cardiovascular disorder: A prospective study. Academy of Management Journal, 37(2), 426–439.
+Scandura, T. A., Graen, G. B., & Novak, M. A. (1986). When managers decide not to decide autocratically: An investigation of leader-member exchange and decision inﬂ uence. Journal of Applied Psychology, 71, 579–584.
 
-references
+Scarr, S. (1998). American child care today. American
 
-657
-
-Schein, E. (1985). Organizational culture and leadership: A dynamic view. San Francisco, CA: Jossey-Bass. Schein, E. (1956). Th e Chinese indoctrination program for
-
-prisoners of war. Psychiatry, 19, 149–177.
-
-Schippmann, J. S., Ash, R. A., Battista, M., Carr, L., Eyde, L. D.,
-
-Hesketh, B., Kehoe, J. Pearlman, K., Prien, E. P., & Sanchez, J. I. (2000). Th e practice of competency modeling. Personnel Psychology, 53(3), 703–740.
+Psychologist, 53(2), 95–108.

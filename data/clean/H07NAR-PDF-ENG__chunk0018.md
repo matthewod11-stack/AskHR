@@ -1,9 +1,23 @@
-# for you.
+---
+source_path: H07NAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5034e763287187dd193477fb05a968594a40046
+title: H07NAR-PDF-ENG
+---
+# How to Launch a Pay-to-Quit Program
 
-- 3. Be selective.
+If you’re considering adopting a Pay-to-Quit program, make sure you
 
-Not all employees should be eligible for the oﬀer. Determine which
+follow these ﬁve rules:
 
-groups or positions are most likely to beneﬁt from it (as the consulting
+- 1. Be transparent.
 
-company above did, when it targeted potential partners), and limit the
+When you launch the program, make sure to explain exactly how the
+
+program works and why you’ve decided to launch it. Employees will
+
+respond better to the program if they understand its purpose.
+
+- 2. Offer the right amount. The amount you oﬀer should be suﬃcient to motivate some employees to take it but not so high that lots of them do. That amount will be
+
+diﬀerent at every company, so run a pilot to ﬁgure out what works best

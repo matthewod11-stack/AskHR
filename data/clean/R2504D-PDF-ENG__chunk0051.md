@@ -1,9 +1,9 @@
-# Leverage the Broader Context
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e59f64adda1ad01e39cfadc1719079e1b093581
+title: R2504D-PDF-ENG
+---
+# sustainability goals.
 
-When peace talks stall, experienced diplomats look beyond immediate
-
-hostilities and try to understand the wider constellation of forces
-
-creating tensions—and learn to work with them. They know that
-
-sometimes the key to unlocking a bilateral dispute lies in multilateral
+[ 5 ]

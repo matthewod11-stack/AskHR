@@ -1,9 +1,27 @@
-# HBR / Digital Article / How Middle-Market Companies Can Find the Best Leadership T…
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51f59b9fdbb5787b3cc3ff137636d6651e55c856
+title: H08UV9-PDF-ENG
+---
+## ﬁgure among companies without PE investment.
 
-Maxwell Salazar is a Senior Vice President and Head of Executive Assessment within the Transformative Leadership practice at AlixPartners, where he advises private equity clients on senior talent and culture.
+. . .
+
+The pressure to perform—which all companies face, none more than
+
+those owned by private equity—needs to be matched with process that
+
+makes high performance possible. Together these steps can go a long
+
+way toward ensuring that investors and executives can be conﬁdent that
+
+leadership can deliver, not just survive.
+
+This article was originally published online on August 13, 2025.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

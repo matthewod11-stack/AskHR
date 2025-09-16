@@ -1,7 +1,13 @@
-## Personnel Psychology 14 (Spring 1961), pp. 141-149.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 84d89d3909fdfa829b4d73eaf8bcc07eec2651f9
+title: document_resume
+---
+# Flanagan, op. cit., pp. 327-358.
 
-- 35. Patricia Smith and Lorne M. Kendall, "Retranslation of Expeciations. An Approach to the Construction of Unambiguous Anchors for Rating Scales," Journal of Applied Psychology 47 (February 1963), pp. 149-155.
+- 33. Bryant F. Nagle, "Criterion Development;" Personnel Psychology 6 (Autumn
 
-- 36. Gatewood and Field, op. cit., p. 135.
+1953), pp. 271-289.
 
-37.
+- 34. Robert M. Guoin, "Criterion Measurement and Personnel Judgement,"

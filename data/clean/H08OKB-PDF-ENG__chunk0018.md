@@ -1,9 +1,15 @@
-## from negative to positive relative performance.
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 747dfa3d38cdb253ef5cb53fa44b0315e37e0c22
+title: H08OKB-PDF-ENG
+---
+# performance.
 
-We also identify instances when hiring stars is likely to be a particularly
+Importantly, these two scenarios can also intersect. Indeed, the best
 
-bad idea. Many of these are simply the reversal of the positive instances
+conditions for hiring stars occur when the star joins one of the strongest practice areas in their new organization and when this new practice
 
-identiﬁed above, such as situations when the star joins a relatively weaker practice area within the organization, and when they are moving
+area that they are joining is better than the practice area that they are
 
-from a higher quality practice area to a lower one. These instances may
+moving from. In these circumstances our results indicate a 270% swing

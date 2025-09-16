@@ -1,11 +1,13 @@
-# supports strategic goals.
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00e5ee875dc337499d9210ed55c4eb5ce032ea49
+title: R2502C-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Strategic Fit
 
-SEB works hard to enrich the lives of all those who interact with its
+truly beneﬁting stakeholders. Eﬀective stakeholder-value creation
 
-businesses. That includes consumers, vendors, employees, investors,
+aligns with the needs and values of targeted stakeholders. It ensures
 
-franchisees, and the residents of communities where it operates. It
-
-seeks the sweet spot Runyon calls “collective interest”—where the
-
-organization’s self-interest intersects with stakeholders’ individual self-
+that every action taken by the company enhances mutual beneﬁts and

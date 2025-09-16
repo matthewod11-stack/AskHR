@@ -1,17 +1,13 @@
-## HBR / Magazine Article / The Case for a Chief of Staff
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2d31d4a42c680dedebca97e758b95a9d342117c
+title: R2003G-PDF-ENG
+---
+# objectivity.
 
-The tasks done at levels one and two are not new; what is new is that
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-the people doing them are increasingly being given the title chief of
+9
 
-staﬀ. The level three role is a relatively recent development in business.
-
-Carol’s work is distinguished from Susan’s and Greg’s by its depth and
-
-because she works on the company’s top priorities, at its strategic core.
-
-Another diﬀerence: Carol spends two or three hours a week one-on-one
-
-with the CEO and often travels with her. (Greg and Susan, in contrast,
-
-may meet with their CEOs for just two or three hours a month and don’t
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

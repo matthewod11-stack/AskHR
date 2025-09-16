@@ -1,9 +1,27 @@
-# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: b4cea5f2227172bce94c33323fac988a934b22f7
+title: beo_chap7_1
+---
+## important for understanding organizations.
 
-Another element of cognitive economy in organizations is “personification.’
+Organization theorists have argued that a narrative or story is a common way
 
-Much of human perception and judgment is organized around what we know about
+of encoding information about what to do in an organization (see, for example,
 
-people and how we summarize our knowledge in the form of traits and thumbnail sketches of people.!” It is cognitively natural to identify an organization with a
+Martin 1982; Heath and Seidel 2004). If the punch line of the story is success or
 
-charismatic founder or iconic leader, such as Walt Disney, Bill Gates, and Herb
+failure, a story is basically an instruction about how to behave. Narratives may be
+
+a superior encoding form from the point of view of human memory—if they are
+
+better remembered, they will not degrade as much as other kinds of information
+
+when passed down from old workers to new ones. If it is fun to tell stories——they
+
+often involve humor—they may spread more rapidly and reliably through a firm than boring instructions. !
+
+16Memory appears to be encoded into episodic memory (time-stamped events) and semantic memory
+
+256

@@ -1,7 +1,17 @@
-## era of unprecedented uncertainty and burnout.
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7767a6a45bce8ffba808de23fad19f90c061e24
+title: H087QD-PDF-ENG
+---
+## Despite years of effort and copious amounts of thought leadership
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+(some of it of questionable value), leaders across industries are still
 
-1
+struggling to ﬁgure out how to create policies that balance their desire
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to see employees back in the oﬃce with employees’ undiminished
+
+desire for ﬂexibility. Managers are also struggling to make these
+
+arrangements and policies work and keep their teams engaged in an

@@ -1,21 +1,21 @@
-# that.
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b56916205b2d09cb37448f3416a885fa2c9b0ea3
+title: H08VEI-PDF-ENG
+---
+## the Novak Leadership Institute at the University of Missouri, whose
 
-Read the room.
+work focuses on leadership communication and workplace culture.
 
-Before you introduce a change, Willett advises stepping back to consider
+Sure, you understand why the new policy or change matters to the
 
-how it’s likely to be received. Employees aren’t all starting from the
+business—you’re privy to the boardroom conversations, he says. But you
 
-same place after all. They bring diﬀerent levels of understanding, skills,
+can’t assume everyone else does, too. “Frontline employees might think,
 
-and perspectives to the big picture. “You probably already have a good
+‘This doesn’t apply to me.’ That’s why you need to help them connect
 
-read on your people,” he says. “Think about where they’re at: what they
+the dots and make sure people know why what you’re saying is relevant
 
-connect with, what gets them jazzed up, and where they want to grow.”
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to their work, not just the company’s goals.” Here are a few ways to do

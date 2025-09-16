@@ -1,9 +1,7 @@
-# organization.
-
-Naming the right process owner is important. That can be tricky
-
-because it’s an entirely new senior management role in most cases.
-
-The best owners will know how to exercise inﬂuence without formal
-
-authority; at the beginning of the process journey they may not have
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 88ff6efc0f9de3358f7e4d7f757cddd5f3f4b6fa
+title: S25011-PDF-ENG
+---
+## speak for their departments and advocate for the interests of the entire

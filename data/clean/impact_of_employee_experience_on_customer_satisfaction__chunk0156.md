@@ -1,9 +1,11 @@
-## ▪ 9 – 10 – Promoters: typical for loyal and enthusiastic customers
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 0ffc5d688dad86265832529acc4286dc86501993
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Calculating NPS
 
-▪ 7 – 8 – Passives: customers satisfied but not loyal
+NPS respondents give a rating between 0 (not a likely) and 10 (extremely likely) and,
 
-▪ 0 – 6 – Detractors: not happy customer, not loyal, probably they will not buy again
-
-NPS does not take Passives into consideration, so we get the NPS score from
-
-subtracting the percentage of Detractors from percentage of Promoters.
+responses are divided into three categories:

@@ -1,3 +1,11 @@
-# Corresponding Author: Qasim Ali Nisar
+---
+source_path: international_journal_of_innovation_and_applied_studies.md
+pages: n/a-n/a
+chunk_id: cd5ae1c0ee56685f923a116281e6628f4e54e9a3
+title: international_journal_of_innovation_and_applied_studies
+---
+# INTRODUCTION
 
-1148
+The twenty-one century is the era of technology and globalization, companies are no more working in isolation and large scale technology sharing can easily observed. Hence, business leaders’ start promoting such resources as human capital which can give them competitive advantage against competitor. Companies have now access to new technological developments with right kind of resources. The only thing that differentiates one company from the other company is utilization of human intellect. Organization’s performance and competitive advantage depends on intellectual employees. It is becoming inevitable for organizations to address this issue and to develop proper strategy [1]. However, the walk on this road does not turn out very easy due to the fact that human resource is available but skilled human resource is scarcely found. Hence, the scarcity of competent employees leads organizations to develop strategic schemes. This can be used to fill the gap of talented human resource within organization. In this era companies are facing the war of talent.
+
+The idea of talent management starts taking its root in 1980s. Organizations were filtering out the best human resource from the rest. That era was considered as having more control over individuals and their career planning but that was changed after 1990s. That time employees were given the responsibility of their career planning. While after 2000, companies start talking the control of employee career development by giving them opportunity [2]. Watkins [3] coined the term talent management which indicates the importance of managing employee for the organizations. Companies are making it their strategic priority to recruit, retain and develop employees. Talent management is about analyzing the need of skilled employee and developing strategies to meet that need [4]. It improves their performance and financial position in the industry and accelerates organizational success. In 1990’s a research was done by McKinsey group who recognize employees

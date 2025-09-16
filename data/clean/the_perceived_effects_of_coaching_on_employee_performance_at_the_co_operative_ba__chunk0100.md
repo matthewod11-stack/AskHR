@@ -1,25 +1,23 @@
-# 4.2.2(cid:32) Focus on Performance
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 228787eb5b6d91f84241bc8ae44c81c68ef72e88
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+## Figure 4.2.1: Planning and goal setting responses
 
-This responses to this measure are contained in question A3 and A10. As illustrated
+The findings indicate that the more a coach has a clear reason for using a coaching,
 
-in figure 4.2.2, the survey found out that line managers recognized the importance
+the more likely that its coaching process will be viewed as successful. The fact that
 
-of coaching on improving performance. Performance reviews are done on a
+each of the goals was significantly correlated with coaching success suggests that
 
-quarterly basis. 100% of the respondents acknowledged that the appraisals are done
+organizations that simply have a well-defined purpose are more likely to report
 
-quarterly. Coaching is focused primarily on underperforming employees to improve
-
-their performance, increase their capability and helping them to feel motivated to
-
-develop and progress. On the question of whether coaching is used as an integrated
-
-part of a training and development program to improve employee performance and
-
-skills, the responses were split. Some respondents felt that it should and others it
-
-should not. This is shown in the figure below.
-
-(cid:50)(cid:51)(cid:32)
+(cid:50)(cid:50)(cid:32)
 
 (cid:32)
+
+coaching success than those organizations that aren’t sure what their purposes in
+
+coaching are.

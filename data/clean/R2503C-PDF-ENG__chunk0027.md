@@ -1,31 +1,43 @@
-## HBR / Magazine Article / Lean Strategy Making
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71da8d31bb631d1f2b0215e2d46cd06e1aad3f77
+title: R2503C-PDF-ENG
+---
+# strategy sessions:
 
-cumbersome product that’s diﬃcult to use and buy. Identifying the true
+Facts and alternatives. During this session, leadership works to fully
 
-reasons for underperformance often requires gathering facts beyond
+understand the issue, identify its causes, and come up with a range of
 
-those typically collected in market or competitive scans or involves a
+ways to address them. The goal of this meeting is not to select the best
 
-deeper analysis of existing facts.
+alternative but to engage in an expansive dialogue that will help the
 
-Careful consideration of alternatives is equally important. Business is
+team develop a comprehensive set of viable options.
 
-a game of choices, and good choices start with strong alternatives.
+In these discussions it’s important to examine the critical facts. Most strategy development eﬀorts include a phase in which facts
 
-Unfortunately, most companies fail to consistently explore multiple
+are collected to assess market trends, customer purchasing criteria,
 
-options when making strategic decisions. Their approach often boils
+competitor performance, and the proﬁtability of the company’s
 
-down to “We’re doing this now; that seems better, so let’s do that.” While
+products and services in each segment. While that information
 
-such thinking may lead to incremental improvements, it frequently
+is valuable, it often fails to reveal the underlying causes of
 
-causes companies to miss opportunities for breakthroughs.
+underperformance and deﬁciencies in the company’s strategic position.
 
-Worse, the alternatives companies do consider may be false choices.
+For example, if leaders seek to accelerate growth in a market segment,
 
-People often stack the deck by presenting leaders with three options:
+they must ﬁrst understand the primary impediments to growth.
 
-one that implies doing next to nothing, one that’s akin to killing your
+Otherwise the company risks treating symptoms—such as low returns
 
-ﬁrstborn, and a third that’s the path they really want to pursue. Or
+on ad and promotional spending—without ﬁxing the cause, such as a
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

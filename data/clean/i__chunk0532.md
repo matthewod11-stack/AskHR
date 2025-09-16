@@ -1,21 +1,19 @@
-## in the employee attrition data as effectively as decision tree-based methods.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: a487fe3b10a688283d5a0cfeaedfd87fd8b2b7b2
+title: i
+---
+# superior predictive performance.
 
-Decision tree, particularly when pruned to avoid overfitting, showed competitive performance
+Despite random forest's superiority after tuning, it's noteworthy that even without
 
-but ultimately ranked lower compared to random forest. Pruning helps simplify the tree
+hyperparameter tuning, the random forest still outperformed the other methods, showcasing its
 
-structure and prevents it from capturing noise in the data, yet it may also lead to some loss of
+robustness and versatility in handling data with minimal parameter optimization.
 
-predictive accuracy compared to random forest's ensemble approach.
+The performance of logistic regression, while a commonly used method, fell short compared
 
-In conclusion, the findings suggest that for predicting employee attrition, employing a random
+to both random forest and decision tree models. This suggests that the linear relationship
 
-forest model with proper hyperparameter tuning yields the most accurate results. However, it's
-
-essential to recognize the comparative advantages and limitations of each method in different
-
-scenarios. Logistic regression remains a straightforward baseline model, while decision trees,
-
-especially pruned ones, offer interpretability alongside reasonable predictive performance.
-
-Future research could explore ensemble methods further or investigate additional features to
+assumptions of logistic regression might not capture the complexity and non-linearity present

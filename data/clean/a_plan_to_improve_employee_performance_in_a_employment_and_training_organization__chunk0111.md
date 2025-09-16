@@ -1,53 +1,25 @@
-# Performance Improvement Plan
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: a4557e0ce044b9a14a60c3149e9cc361cdbfd34e
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# above.
 
-Sometimes organizations fail to recognize that the goals of the organization , as
+24
 
-well as the employee can be best served if management helps the employee plan for
+- 7) Make the necessary comments in the employee 's performance record.
 
-performance improvement, which indirectly has an affect on organizational performance.
+- 8) Set a follow-up date and/or date for the next performance evaluation .
 
-An effective performance evaluation must place a great emphasis on the performance
+Performance evaluations are important steps to ensure that the performance standards ·
 
-improvement plan - on developing the plan and monitoring its progress. The
+remain valid and they add factual information to the day-to-day operations. The
 
-improvement plan must use a positive approach which will motivate employees to accept
+performance evaluation process is intended for change in performance , breakdown
 
-the expectations of the plan. One way is to keep in mind questions like: What can we do
+existing barriers and maintain open communication between management and employees.
 
-better in the future for you , the employee , and the organization? How can we avoid the
+This communication is part of the ongoing process of monitoring and feedback necessary
 
-performance problems encountered in the past? These are key questions in which the
-
-discussion of the plan can be centered .
-
-The improvement plan will focus on what the employee and possibly the
-
-supervisor will do differently to achieve desired outcomes. The improvement plan should
-
-define individual growth activities that will enhance the employee 's competence and
-
-25
-
-confidence. When the employee achieves the plan his or her feeling of security on the job
-
-will be enhanced as well as greater satisfaction from accomplishment on the job. By
-
-developing the performance improvement plan during the performance evaluation,
-
-employees are most likely receptive to change and the strongest commitment to the plan
-
-can be achieved. The performance plan should be no different than the performance
-
-evaluation with respect to the performance standards and areas. The improvement plan is
-
-twofold: (1) it specifies what the employee will do differently than in the past; and (2) it
-
-specifies the steps necessary for the employee to take to improve performance levels so
-
-he or she can do the job more effectively.
-
-The following steps should be followed to ensure a successful performance
-
-improvement plan has been developed:
-
-- 1) Specify the objective and benefits of the improvement plan - to improve the
+to producing successful performance evaluations.

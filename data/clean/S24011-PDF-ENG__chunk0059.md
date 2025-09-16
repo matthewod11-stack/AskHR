@@ -1,9 +1,7 @@
-# How to Achieve Leadership-in-Flow
-
-Leadership is not a set of traits to be learned; it is a state that can be
-
-attained by establishing a positive intention and then activating five core
-
-energies we all possess, via quick actions that take just a few seconds to
-
-execute. Below are 25 actions that you can use to tap your core energies.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0606c8db39a8fa23c4029ac7ea29c91baf13c434
+title: S24011-PDF-ENG
+---
+# remarkable performance arises.

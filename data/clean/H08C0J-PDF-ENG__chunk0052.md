@@ -1,7 +1,13 @@
-# to worries about climate.
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6ed524b4bc0cdf2f7051337d143fe61d81025cd
+title: H08C0J-PDF-ENG
+---
+## anxiety, as a major pillar of corporate climate response. More than
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+two-thirds of Americans experience some climate or eco-anxiety — and
 
-8
+younger workers are at higher risk. A recent survey of 16-to-25-year-olds
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+found that a staggering 45% report interruption to their daily lives due

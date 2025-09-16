@@ -1,9 +1,11 @@
-## formulário permaneceu aberto aceitando respostas, 42 retornos foram coletados, o
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: b7b7325303acbdf06ccbf939db99e3c81d7a773e
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# questionário aos
 
-que representa cerca de 1% da população total de funcionários ativos da empresa.
+funcionários da empresa que voluntariamente
 
-O questionário foi estruturado em Google Forms e disponibilizado por meio de
-
-link pelo qual os funcionários acessaram para responder às questões. Apesar de
-
-não identificar os respondentes, a ferramenta não permitia que a mesma pessoa o
+propuseram-se a responder. Entre o período de 26 a 30 de julho, tempo em que o

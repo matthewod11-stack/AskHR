@@ -1,17 +1,19 @@
-# friendship.
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca527517b259458b44aac48653627eddd8958914
+title: H08MFI-PDF-ENG
+---
+## Farrah Bostic, CEO of the research and strategy agency, The Diﬀerence
 
-The damage went deeper than just one failed relationship, however.
+Engine, discovered this after a painful experience with a disingenuous
 
-“Candidly, it’s made me extremely gun shy around taking on partners in
+startup founder. “It’s insulting to keep being asked for your insight,
 
-the business I’ve built,” Bostic admits. The experience left her struggling
+expertise, and experience and to ﬁnd out it’s not worth anything
 
-to believe that others would follow through on their commitments or
+tangible to someone you thought valued you,” she reﬂected. The
 
-stay committed when challenges arose.
+repeated pattern of being asked for input while being “strung along”
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+eventually destroyed both a potential business partnership and a

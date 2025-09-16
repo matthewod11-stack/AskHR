@@ -1,7 +1,25 @@
-## home for dinner tonight” with a heavy sigh.
+---
+source_path: H07N1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 848ecd8e2df50ddf846f2b8f3cdfdc77b4e657fb
+title: H07N1K-PDF-ENG
+---
+# you in any 24-hour period.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Don’t have that “success picture” in mind? Not to worry. Simply spend
 
-5
+some time mulling what you want your career and family life to be life
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a few years from now, and observing other working parents you admire.
+
+Over time, your working-parent goals will naturally begin to crystallize.
+
+- 4. Framing work as the enemy.
+
+Your son bursts into the background of a Zoom call or starts vying for
+
+your attention while you’re reading an urgent message from your boss
+
+— and you snap, “Not now! Daddy has work to do!” Or on mornings
+
+you have to be in the oﬃce, you remind the kids that “Mommy won’t be

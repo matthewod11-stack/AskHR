@@ -1,9 +1,13 @@
-# HBR / Digital Article / How Paternity Leave Helps Dads’ Brains Adapt to Parenting
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b50818bd92a7b350e935fc44b3335f386106aca6
+title: H07VWF-PDF-ENG
+---
+# independent caretaker across all tasks.”
 
-Just like any training program, the real growth — the real conﬁdence,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-the real victory — of fatherhood brain training comes with the hard
+4
 
-work. But like other accomplishments, once you achieve success and
-
-look back, all those hard days and nights were worth it.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

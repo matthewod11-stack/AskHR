@@ -1,11 +1,13 @@
-# executive teams.
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b8597e059318f7c3f8b4ee396f12c4b85b22f7b
+title: H08TM9-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways to Mitigate Executive Turnover
 
-Retaining senior executives, though, is increasingly diﬃcult. More than
+found that companies where executives have an average tenure of
 
-half (56%) of the executives surveyed by Gartner said they are likely or
+ﬁve years or more outperformed on revenue, customer experience,
 
-extremely likely to leave their current role in the next two years. More
-
-than one-quarter (27%) said they are likely or extremely likely to leave
-
-in the next six months. Even more troubling, established executives—
+and other key metrics, as compared to companies with less tenured

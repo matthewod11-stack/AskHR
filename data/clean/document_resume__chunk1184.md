@@ -1,3 +1,11 @@
-# 5 Exceptional
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 30326adc4c7cbb6108e6fb74e018d48d1565070e
+title: document_resume
+---
+# 1 Unacceptable
 
-Demonstrates exceptional verbal communications with students. Gains students' attention quickly. Usually presentations are both captivating and highly informative. Instructional style is praised by students and is conducive to student learning.
+Strays from subject matter during classes. Exhibits minimal knowledge of subject matter. Discourages student participation. Unavailable to students seeking help outside of class.
+
+- 3. Presentation of Instruction Provides formalized verbal instruction to students.

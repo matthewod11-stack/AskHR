@@ -1,19 +1,29 @@
-## HBR / Magazine Article / How Project Leaders Can Tame Unpredictability
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ca31045f820907686086c3fa1f96c3ef19fb6d0
+title: R2501K-PDF-ENG
+---
+# stage.
 
-Oliver introduced incentives for reps one device at a time; why Peng
+Astro Teller, who leads Alphabet’s “moon shot” division, illustrates this
 
-integrates a single bus route into his company’s system before adding a
+problem with a funny question: If your end goal is to have a monkey
 
-whole ﬂeet; and why Anna carried out test runs for each risk scenario
+standing on a pedestal reciting Shakespeare, do you start by building
 
-prior to ﬁnalizing new arrangements with external partners.
+the stand or teaching the animal how to talk? The answer, of course,
 
-Once you have tested several slices, identiﬁed and overcome challenges,
+is to tackle the most challenging part of the project ﬁrst to see if it’s
 
-and veriﬁed success (or failure), you can proceed with traditional
+doable before you invest any time or resources in the easier part. That’s
 
-project management. You’ve turned your unknown unknowns into
+why Kirsten evaluated the behavior of partners, drivers, and customers
 
-known unknowns.
+before she designed and ordered thousands of branded T-shirts; why
 
-A version of this article appeared in the January–February 2025 issue of Harvard Business Review.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

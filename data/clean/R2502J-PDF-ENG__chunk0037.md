@@ -1,5 +1,31 @@
-# baggage-fee-waiving activity.
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2756c4c50b2259f489ba2348b4359d7caf7a4568
+title: R2502J-PDF-ENG
+---
+# the following four-step process.
 
-Revise the sales incentive plan. If cheating is the result of ambiguities
+Use data to pinpoint how salespeople are exploiting the system. Let’s
 
-in the incentive plan guidelines, update the documents to clearly
+return to our example of airline employees who received a cash bonus
+
+for each passenger who signed up for a cobranded company credit card.
+
+Employees working at the check-in counter would, against company
+
+policy, oﬀer the credit card application to customers and propose
+
+waiving their baggage fees if they completed the application on the spot.
+
+Employees had the right to waive those fees for a variety of reasons:
+
+when customers held the cobranded credit card, for high-tier frequent
+
+ﬂiers, or as part of a service recovery eﬀort. That made it hard to isolate
+
+the cheating scheme. We would advise the airline to use information
+
+systems to identify the top quartile of credit-card-incentive earners
+
+and match the timing of those agents’ credit-card sign-ups with their

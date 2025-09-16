@@ -1,29 +1,29 @@
-## work experiences for their own professional and personal growth; or
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53e409f1ca8b49c2bdd3d6a18bb1072584649514
+title: H08OPG-PDF-ENG
+---
+## today renders this historical fact as almost a secondary consideration.
 
-- 3) workers aren’t connected to a higher collective company goal, then
+Organizations are striving to ﬁgure out how to get people back in the
 
-the space won’t necessarily come to life. It may objectively be a great
+oﬃce in a way that isn’t transactional (“I do my job and I go home”)
 
-physical workspace, but the environment will feel lifeless.
+or stiﬂed by negotiating complex and legitimate points of friction (“I’m
 
-In other words, oﬃce perks mean something diﬀerent today,
+a senior leader, I’ve earned the right to work from home” or “I’m a
 
-and simply adding them back won’t solve companies’ biggest
+young worker and very proﬁcient with technology so I can be productive
 
-workplace challenges alone.
+from anywhere,” etc.). It’s hard to create a shared value proposition
 
-Correct. Collaboration, innovation, or serendipitous interactions don’t
+in returning to the oﬃce that is compelling or enticing enough when
 
-happen as a function of the physical space. Physical space can either
+compared to the radical ﬂexibility that working from home allows.
 
-enable or inhibit certain outcomes, but it isn’t the cause. On its own,
+So, today, you might decide to bring people back to the great workspace
 
-a workspace can inspire through beauty and can even elevate your
+in Company B, but if 1) the social contract has changed; 2) individuals
 
-aspirations (think of the symbolic value the corner oﬃce had for older
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+(particularly younger workers) haven’t experienced the value of IRL

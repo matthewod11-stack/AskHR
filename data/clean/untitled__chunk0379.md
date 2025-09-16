@@ -1,13 +1,23 @@
-# New York: D. Appleton.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b013e7c315ddae21902d7a418d3f197b2844a824
+title: untitled
+---
+# Psychologist, 44, 1236.
 
-Institute of Medicine. (2001). Crossing the quality chasm: A new health system for the 21st century. Washington, DC: National Academy Press.
+Fagan, T. K. (1990). A brief history of school psychology in the United States. In A. Thomas & J. Grimes (Eds.), Best practices in school psychology (pp. 913–929). Washington, DC: National Association of School Psychologists.
 
-Jerome, L. W., DeLeon, P. H., James, L. C., Folen, R., Earles, J., & Gedney, J. J. (2000). The coming of age of telecommunications in psychological research and practice. American Psychologist, 55(4), 407–421.
+Fagan, T. K. (1992). Compulsory schooling, child study, clinical psychology, and special education: Origins of school psychol- ogy. American Psychologist, 47, 236–243.
 
-Korman, A. (1974). National conference on the levels and patterns of professional training in psychology: The major themes. American Psychologist, 29, 441–449.
+Fowler, R. D. (1996). Foreword: Psychology, public policy, and the congressional fellowship program. In R. P. Lorion, I. Iscoe, P. H. DeLeon,&G.R.VandenBos(Eds.),Psychologyandpublicpolicy: Balancing public service and professional need (pp. ix–xiv). Washington, DC:American PsychologicalAssociation.
 
-Kuna, D. P. (1976). The concept of suggestion in the early history of advertising psychology. Journal of the History of the Behavioral Sciences, 12, 347–353.
+Gale, H. (1900). On the psychology of advertising. Psychological
 
-Kuna, D. P. (1979). Early advertising applications of the Gale- Cattell order-of-merit method. Journal of the History of the Behavioral Sciences, 15, 38–46.
+Studies, 1, 39–69.
 
-Levine, M., & Levine, A. (1992). Helping children: A social history.
+Grob, G. N. (1994). The mad among us: A history of the care of America’s mentally ill. Cambridge, MA: Harvard University Press.
+
+Hoffman, L. E. (1992). American psychologists and wartime research on Germany, 1941–1945. American Psychologist, 47, 264–273.
+
+Hollingworth, H. L. (1920). The psychology of functional neuroses.

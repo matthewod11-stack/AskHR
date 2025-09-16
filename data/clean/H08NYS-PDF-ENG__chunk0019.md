@@ -1,11 +1,13 @@
-## (4.72 stars) than white workers (4.79 stars) under the ﬁve-star scale—a
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 412845ebeca63fe24a0ebfef077f8f24d9ab5e9a
+title: H08NYS-PDF-ENG
+---
+## up/thumbs down scale without any notice to customers or workers. By
 
-statistically meaningful diﬀerence, even though the company had no
+analyzing nearly 70,000 customer ratings (some that occurred before
 
-evidence that this gap reﬂected actual diﬀerences in job quality.
+and some after this unexpected and sudden shift), we found a clear
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+pattern: Workers of color received slightly lower ratings on average

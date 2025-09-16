@@ -1,23 +1,23 @@
-# needs.
+---
+source_path: H08BI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a0826ee0bb8307a71fdf721a30e8539907d00169
+title: H08BI0-PDF-ENG
+---
+## postpartum within the past ﬁve years, as well as survey validation work
 
-Creating physical and temporal spaces for motherhood.
+with over 500 working mothers, all of whom were residing and working
 
-This enables a postpartum mother to have the place and time to engage
+within the United States, we found four distinct types of allyship
 
-in motherhood-related responsibilities. For example, encouraging
+behaviors most valued during the reentry period:
 
-ﬂexible work hours, providing access to lactation spaces that are high-
+Co-navigating the HR infrastructure.
 
-quality (e.g., with refrigerators for storing milk, a sink for cleaning
+This involves helping a postpartum mother beneﬁt from, or avoid being
 
-pumping equipment, and comfortable seating), structuring breaks that
+penalized by, HR policies. Examples include identifying policies that
 
-allow for pumping, and encouraging work-family boundaries.
+are relevant to parental leave and the reentry process, ﬁnding ways to
 
-Validating the worker identity. This aﬃrms the mother’s professional identity and signals that her
-
-contributions are valued. For example, celebrating a postpartum
-
-mother’s return to work, assigning developmental (and promotable)
-
-tasks and opportunities, and expressing conﬁdence in the person’s skills
+extend parental leave time, and helping the mother advocate for her

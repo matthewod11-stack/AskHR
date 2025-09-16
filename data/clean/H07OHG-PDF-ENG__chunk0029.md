@@ -1,11 +1,33 @@
-# HBR / Digital Article / 5 Ways Companies Are Addressing Skills Gaps in Their Workforc…
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d92751e39e0f777fde0141fe251e19a8ec7723e0
+title: H07OHG-PDF-ENG
+---
+## sessions. Within this more structured format, participants still access
 
-them more engaging than standard online learning,” she said. “Our colleagues report that the combination and cadence of ‘oﬃce hours’
+much of the learning material on their own time, making it easier for
 
-with instructors, live discussion sessions with the rest of the cohort,
+them to complete the course and have the chance to apply what they
 
-and short videos and exercises to be completed each week are a
+learn over its duration. One of the pioneers of this space, altMBA, says
 
-more accessible way for them to learn. Learning and development
+its learners have achieved a 96% completion rate.
 
-opportunities like this allow us to continue to attract and retain the best
+Boston Consulting Group (BCG) is one leading employer that has
+
+embraced cohort-based courses, working in partnership with Emeritus
+
+(where I work). Lidia Juszko, BCG’s executive director of global
+
+learning and teaming, describes how the format works particularly
+
+well for a professional services ﬁrm like hers. “We’ve found that
+
+cohort-based courses oﬀer a level of structure and support that makes
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

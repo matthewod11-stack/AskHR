@@ -1,9 +1,19 @@
-# restrictions on hours
+---
+source_path: Employment Law Guide - Child Labor Protections (Nonagricultural Work).md
+pages: n/a-n/a
+chunk_id: 6701f805e56a00127faf8dfc0fb41c2dbf6a7dae
+title: Employment Law Guide - Child Labor Protections (Nonagricultural Work)
+---
+# Basic Provisions/Requirements
 
-Minors age 14 and 15 may work outside school hours in various nonmanufacturing, non-mining, nonhazardous jobs listed by the Secretary in regulations published at 29 CFR Part 570 under the following
+The child labor provisions of the Act include restrictions on hours of work and occupations for youths under
 
-conditions: no more than three hours on a school day, 18 hours in a school week, eight hours on a non-
+age 16. These provisions also set forth 17 hazardous occupations orders for jobs that the Secretary has
 
-school day, or 40 hours in a non-school week. In addition, they may not begin work before 7 a.m. or work
+declared too dangerous for those under age 18 to perform.
 
-after 7 p.m., except from June 1 through Labor Day, when evening hours are extended until 9 p.m. The
+The permissible jobs and hours of work, by age, in nonfarm work are as follows:
+
+Minors age 18 or older are not subject to restrictions on jobs or hours
+
+Minors age 16 and 17 may perform any job not declared hazardous by the Secretary, and are not subject to

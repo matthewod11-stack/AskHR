@@ -1,15 +1,25 @@
-## excitement and competition among the game’s best players.”
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 06826b9690b0142708c7b02995be8263d086cd1e
+title: H08IWP-PDF-ENG
+---
+# fans.
 
-For years PGA Tour executives and board directors had successfully
+The move came as a big surprise. For two years Monahan had belittled
 
-coordinated the divergent interests of stakeholders, preserving a fragile
+the eﬀorts made by the Saudi PIF to launch its own golf circuit —
 
-equilibrium in which no stakeholders could impose their interests at the
+LIV Golf — and had justiﬁed not getting involved by publicly and
 
-expense of the others. However, when the most powerful stakeholder
+moralistically invoking the memory of 9/11 and Saudi involvement in
 
-— the players — realized that their voice had been ignored during the
+the attacks. But then all of a sudden, on June 6, there he was on
 
-negotiation of the Tour-Saudi PIF agreement, they reacted in ways that
+primetime television, appearing alongside the governor of the Saudi
 
-upset that fragile equilibrium and threatened to harm the PGA Tour’s
+PIF and announcing that they had privately reached an agreement
+
+for the Saudi PIF to become a multi-billion-dollar investor in the PGA Tour. This partnership, the oﬃcial press release declared, would ensure
+
+that “all stakeholders beneﬁt from a model that delivers maximum

@@ -1,3 +1,23 @@
-## Table 2. Construct items and factor loadings
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: c46cf324ae74b4121bd72c37b0ada87d47b99858
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+# Table 1. Sample characteristics
 
-Coaching My coach … … uses analogies, scenarios and examples to help me learn. … encourages me to broaden my perspectives by helping me to see the big picture. … provides me with constructive feedback. … solicits feedback from me to ensure that his/her interactions are helpful to me. … provides me with resources so I can perform my job more effectively. … asks questions rather than provide solutions, to help me think through issues. … sets expectations with me and communicates the importance of those expectations to the broader goals of the organization … role-plays with me to help me see different perspectives.
+Invitations sent Responses received Response rate Female Male Tenure with the company (years) Tenure in the position (years) Years of selling experience * Mean (std.dev.)
+
+Sample 1 B-to-B salespersons (Latin America) 87 62 71.3 % 24.2 % 75.8 % 5.68 (5.52)* 5.10 (5.10) 11.69 (7.16)
+
+Sample2 B-to-C frontline employees (Canada) 373 114 30.6 % 69.9 % 30.1 % 13.14 (13.08)* 8.98 (8.62) 15.03 (9.91)
+
+5
+
+As can be seen from Table 1, the industrial sample (Sample 1) was mainly composed of males (75.8 %) while the service sample (Sample 2) was mainly composed by females (69.9 %). Concerning tenure with the company and in the position, both samples were highly heterogeneous with standard deviations almost as high as the mean values, suggesting an even distribution of new and old employees.
+
+Concerning sales experience, both samples also showed high mean values (11.69 and 15.03 years) suggesting a group of experienced employees. However, high standard deviation values also suggest a very heterogeneous sample, covering a broad range of experienced and inexperienced individuals.
+
+5.2 Reliability and validity of measuring scales
+
+Confirmatory factor analysis was used to estimate the properties of the measurement model, which was estimated by restricting each scale’s item loading on its a priori specified factor, and allowing free correlation among factors (Gerbing and Anderson, 1988). All standard regression weights were higher than .60 so all items from the original scales were retained. Final factor loadings and reliabilities are showed in Table 2.

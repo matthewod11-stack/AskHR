@@ -1,17 +1,23 @@
-# essential business functions.
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed7b8349f30523d0fcc8d02a965a241956febe58
+title: H082JA-PDF-ENG
+---
+## communication, ﬁnancial analysis, negotiation, and customer service
 
-Two insights were crucial to improving Avinsa’s decision-making
+that employees were incentivized to complete.
 
-process, which relied on collective consent. First, it was essential
+More generally, organizations may oﬀer a mix of workshops, mentorship
 
-for employees to understand the scope of their responsibilities and
+initiatives, and hands-on projects, aimed to equip employees with the
 
-decision-making authority. When role boundaries were clearly deﬁned
+tools they need to thrive in a less structured setting.
 
-and collectively understood, employees felt empowered to swiftly
+Setting the right pace.
 
-execute tasks without seeking approval. Second, when a large or
+As companies adopt ﬂatter structures, an excessive emphasis on
 
-particularly profound issue (e.g., an ethical decision) demanded group
+collective agreement can slow down decision-making processes,
 
-input, it was helpful to break down the subject into digestible pieces,
+diverting employees from their main duties and negatively impacting

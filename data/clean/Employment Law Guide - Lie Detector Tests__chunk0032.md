@@ -1,5 +1,7 @@
-# Act. The notice must be posted in a prominent and conspicuous place in every establishment of the employer
-
-where it can readily be observed by employees and applicants for employment. There is no size requirement for the poster.
-
-The EPPA poster is available in English(https://www.dol.gov/agencies/whd/posters/employee-polygraph-protection-
+---
+source_path: Employment Law Guide - Lie Detector Tests.md
+pages: n/a-n/a
+chunk_id: 34a8f42b4b04358c116117914e4c3d2ccf60fc42
+title: Employment Law Guide - Lie Detector Tests
+---
+# Poster. Every employer subject to EPPA shall post and keep posted on its premises a notice explaining the

@@ -1,3 +1,9 @@
-# EMPLOYEE ENGAGEMENT
+---
+source_path: international_journal_of_innovation_and_applied_studies.md
+pages: n/a-n/a
+chunk_id: 4e837a123e9cea104b2d8c318ab5e9af4557b6e4
+title: international_journal_of_innovation_and_applied_studies
+---
+## Aizza Anwar, Qasim Ali Nisar, Nadia Zubair Ahmad Khan, and Aqifa Sana
 
-According to Gibbons [35] “employee engagement is a heightened emotional and intellectual connection that an employee has for his/her job, organization, manager, or co-workers that in turn influences him/her to apply additional discretionary effort to his/her work”. After reviewing many article top 12 factor identified for employee engagement i.e. trust and integrity, nature of the job, the connection between individual and company performance, career growth opportunities, pride about the company, coworkers/team members, employee development and personal relationship with one’s manager. Talent Management strategies exhibit strong relation with employees which results in more employee engagement and lower turnover rate. Employee engagement has positive impact on retention [32]. In addition, opportunity to learn and to make contribution in decision making, customer-centric approach and fair management were the key drivers of the employee engagement. Engagement in employees found out by doing survey in various countries e.g. UK and Mexico [28]. Talent Management improves employee engagement in an organization [17]. The factors like Career planning, effective leadership, training, inspiration and innovation improve employee engagement in the organization [8].
+3.3

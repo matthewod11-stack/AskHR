@@ -1,17 +1,13 @@
-# composure.
+---
+source_path: H08VM4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f56caca67eac7bf625ab1b2d2452b585eaea408
+title: H08VM4-PDF-ENG
+---
+## Get Ready to Lead an Emotionally Charged Meeting
 
-Visualize the meeting in advance. Picture the setting, the people
+Leading through tension is part of being a manager, but you don’t have
 
-involved, and how you want to feel walking out. Mentally rehearse how
+to go into emotionally charged meetings unprepared. Here’s how to
 
-you’ll open the discussion, handle tension, and steer toward resolution.
-
-Anticipate challenges and plan calm, conﬁdent responses.
-
-Reframe your mindset. Focus on the positives. Before the meeting,
-
-reﬂect on what you appreciate about the individuals involved or what
-
-good outcomes could come from the conversation. This small shift
-
-builds emotional resilience and helps you approach the interaction with
+stay grounded and guide high-stakes conversations with clarity and

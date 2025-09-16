@@ -1,17 +1,13 @@
-## mental health and work-life balance beneﬁts.
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1e2b7673ac6244c9a46910df98508bf08589ece
+title: H08TM9-PDF-ENG
+---
+# opportunities.
 
-. . .
+- Supporting mental health and work-life balance. Executive
 
-As the adage goes, past performance is no guarantee of future
+burnout remains a challenge at many organizations, and CHROs can
 
-results, particularly in a continuing VUCA environment. Although
-
-organizations have performed surprisingly well amidst the volatility of
-
-the past ﬁve years, they risk future performance by ignoring anticipated
-
-executive departures. Understanding and then implementing these
-
-three strategies can help organizations staunch executive turnover and
-
-ensure that they have the executive team needed to drive performance
+help peers identify sources of work stress and encourage usage of

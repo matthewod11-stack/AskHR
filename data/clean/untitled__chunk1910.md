@@ -1,13 +1,17 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8ec9f217f140e27878888fe065352c79dbc555d6
+title: untitled
+---
+## persons. Psychological Bulletin, 33, 1–58.
 
-Liddell, H. S. (1944). Conditioned reﬂex method and experimental neurosis. In J. McV. Hunt (Ed.), Personality and the behavior disorders (Vol. 1). New York: Ronald.
+Huston, P. E., & Locher, L. M. (1948). Manic-depressive psychosis: Course when treated and untreated with electric shock. Archives of Neurology and Psychiatry, 60, 37–48.
 
-Lloyd, G. E. R. (Ed.). (1978). Hippocratic writings (J. Chadwick, W. N. Mann, I. M. Lonie, & E. T. Withington, Trans.). Harmondsworth, England: Penguin Books.
+Jackson, J. H. (1887). Remarks on the evolution and dissolution of the nervous system. Journal of Mental Science, 33, 25–48. Janet, P. (1977). The mental state of hystericals. In Signiﬁcant con- tributions to the history of psychology (Vol. 2). Washington, DC: University Publications of America. (Original work published 1892)
 
-Locke, J. (1700). On disorders of the mind. An essay concerning hu- mane understanding (4th ed.). London: Awnsham and Churchill. López-Piñero, J. M. L. (1983). Historical origins of the concept of neurosis (D. Berrios, Trans.). Cambridge, England: Cambridge University Press.
+Kraepelin, E. (1915). Klinische psychiatrie: Ein lehrbuch für studierende und årtze [Clinical psychiatry: A textbook for students and physicians]. Leipzig, Germany: Barth.
 
-MacCurdy, G. G. (1924). Human origins, a manual of prehistory: The new stone age and the ages of bronze and iron (Vol. 2). New York: D. Appleton.
+Kraus, L. A. (1831). Kritisch-etymologisches medicinisches lexikon, Theil I [Critical etymological medical dictionary, Part I]. Vienna, Austria: Haykul & Lechner.
 
-MacDonald, M. (1981). Mystical bedlam: Madness, anxiety and healing in seventeenth-century England. Cambridge, England: Cambridge University Press.
-
-Maher, B. A. (1964). The application of the approach-avoidance conﬂict model to social behavior. Journal of Conﬂict Resolution, 8, 287–291.
+Leicester, H. M. (1974). Development of biochemical concepts from ancient to modern times. Cambridge, MA: Harvard University Press.

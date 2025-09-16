@@ -1,17 +1,31 @@
-# constitutes emotional labor.
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5737d8ff1b41a15e8c0100c64940706cd78c4f52
+title: H07R1O-PDF-ENG
+---
+## HBR / Digital Article / How CEOs Can Navigate the Emotional Labor of Leadership
 
-One leader who’s met this challenge with grace is Satya Nadella, CEO
+attempting to revoke beneﬁcial tax treatment on Disney’s Florida land.
 
-of Microsoft. Nadella, the married father of three children, has given
+One publication described Chapek’s ﬁring as the result of a “woke war”
 
-interviews about the challenges of raising a family while holding a high-
+— an example of an increasingly unwinnable dilemma facing CEOs.
 
-proﬁle job, welcoming reporters into his home to talk about limiting his
+The demand for authenticity in leadership has also surged.
 
-children’s screen time and caring for the family dog. In his book Hit
+Everyone expects CEOs to be more open, which includes sharing
 
-Refresh, Nadella wrote about his son, Zain, who had cerebral palsy, and
+personal stories and experiences. On the one hand, authenticity
 
-how parenting a child with this condition increased his empathy as a
+can foster trust and credibility, potentially reducing the emotional
 
-leader. When Zain died in 2022, it was international news — turning a
+burdens of the job. However, it can also increase vulnerability and
+
+emotional exposure, leading to stress. Disclosing personal information,
+
+particularly on controversial matters, can elicit backlash or criticism,
+
+adding to the emotional burden. CEOs must balance being authentic
+
+and maintaining professional boundaries, a delicate act that, in itself,

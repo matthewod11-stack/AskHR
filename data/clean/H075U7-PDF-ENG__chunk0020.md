@@ -1,27 +1,33 @@
-## Active confrontation of other men for sexism, bias, harassment, and
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1868a4c4b59d0f97107869c4d10ed927253086e8
+title: H075U7-PDF-ENG
+---
+## Academies of Sciences Engineering and Medicine 2018 report. Start by
 
-all manner of inappropriate behavior may be the toughest part of male
+checking in with the target of this behavior when you witness it. This
 
-allyship. But it is essential to eliminating the “good guy” defense. Don’t
+validates her experience. For example, I noticed that your manager
 
-tell the target of harassment or misogyny that the perpetrator is a “good
+dismissed you and the other women’s expertise in the meeting. It feels
 
-guy.” Address the behavior with the man in question. We call this the
+sexist to me. Am I reading this right?
 
-carefrontation, contextualizing confrontation as an act of caring on the
+Check your own impulse to gaslight.
 
-part of a friend or colleague. Try: That comment was inappropriate and
+The next time a woman colleague reports a sexist or harassing
 
-demeaning. I found it offensive and it was clearly offensive to our women
+encounter, be sure that nothing you say might lead her to believe she’s
 
-colleagues. I know you can do better. Alternatively, you could say, You
+misreading the perpetrator’s behavior or blowing it out of proportion.
 
-and I go way back and we’re friends. I heard what you said/what you did.
+Try something like: I believe you. From what you’ve described, that
 
-We don’t do that here. You need to make amends and be more respectful.
+behavior doesn’t sound appropriate. Can you tell me more, and can I team
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+up with you to address it? These responses oﬀer support while allowing
 
-5
+you to gather more information about the occurrence.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Hold other men accountable.

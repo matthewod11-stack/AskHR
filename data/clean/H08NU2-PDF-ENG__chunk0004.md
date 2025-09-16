@@ -1,13 +1,13 @@
-# HBR / Digital Article / 3 Types of Silos That Stifle Collaboration—and How to Dismantle…
+---
+source_path: H08NU2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 60263fd3d470e5b24e2ff07c7532c31c4d7d62ce
+title: H08NU2-PDF-ENG
+---
+## to customer service, and a 2017 Harvard Business Review Analytics
 
-Services survey indicates that 67% of collaboration failures are due to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-silos. This isn’t a new problem. An American Management Association
+1
 
-survey from 2002 found that 83% of executives recognize the presence
-
-of silos in their companies, with 97% reporting a negative impact
-
-on business. These ﬁndings emphasize that the silo eﬀect presents a
-
-signiﬁcant challenge that organizations must address to enhance their
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

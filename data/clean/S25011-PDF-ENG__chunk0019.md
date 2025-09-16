@@ -1,7 +1,11 @@
-# opportunity.
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d692a410ccf5806033e1a63fdd795b352f85b7f0
+title: S25011-PDF-ENG
+---
+## HBR / Spotlight / How to Marry Process Management and AI
 
-Process management helps bust or at least bridge such silos. It shines a harsh light on errors and the ineﬃciencies they cause, motivates
+often under enormous pressure. The obvious solution is to make fewer
 
-improvement, and provides the structure needed to systematically
-
-eliminate the causes of mistakes.
+errors in sales, but operations people, trapped in their silo, don’t see the

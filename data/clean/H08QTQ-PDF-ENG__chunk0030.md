@@ -1,7 +1,17 @@
-# like engineering.
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17ef9a5863dfd886584873e2d802ead2023613f0
+title: H08QTQ-PDF-ENG
+---
+## for Black, Latinx, Indigenous, and Paciﬁc Islander engineers. This
 
-Decades of sociological research show that people perceived as highly
+suggests that professional gains from these opportunities are not
 
-competent in a given ﬁeld—often those from historically-advantaged
+perceived equally across all groups.
 
-groups—are more likely to be given the beneﬁt of the doubt in
+Why might this be? It’s not due to diﬀerences in skill, conﬁdence,
+
+or experience—our analysis controlled for engineering conﬁdence,
+
+academic success, prior internships, and career exposure. Instead, we theorize that the diﬀerence lies in status within a highly technical ﬁeld

@@ -1,15 +1,27 @@
-# communication.
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae10724fef37f7e62f5e64eef50d1a87ff7138af
+title: H08MS4-PDF-ENG
+---
+# Disseminating Best Practices
 
-Document your organization’s approach to DEI in writing.
+We’ve discussed what’s legally risky and not in DEI communications.
 
-An internal charter or similar document could set out why the
+But organizations are made up of individuals — sometimes hundreds
 
-organization supports DEI, how it deﬁnes the letters of that acronym,
+of thousands of them. While no organization can control every word
 
-and how that commitment inﬂuences its practices relating to outreach,
+uttered by its employees, leaders should take three steps to encourage
 
-recruitment, onboarding, retention, and promotion. The charter could
+their people to sing from the same songbook:
 
-also explain what the organization does and doesn’t approve with
+Engage your public affairs or communications team.
 
-respect to data collection, diversity targets, diversity training, and other
+Ever since the ﬁeld of DEI has come under increased legal attack, most
+
+organizations we work with have forged a closer bond between the DEI team and the oﬃce of general counsel. In the current landscape, your
+
+public aﬀairs or communications team is equally important to engage
+
+so that the organization is internally and externally consistent in its DEI

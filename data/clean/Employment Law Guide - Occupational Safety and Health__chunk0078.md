@@ -1,17 +1,21 @@
-# employees during the on-site visit.
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: 96d3a52ad546c7b167b7ce5e1175614477d3a0a8
+title: Employment Law Guide - Occupational Safety and Health
+---
+# illness prevention programs.
 
-Additional information about consultation assistance, including a directory of OSHA funded consultation
+On-site OSHA consultation assistance includes an opening conference with the employer to explain the
 
-projects, can be found on OSHA's Consultation Program webpage.
+ground rules for consultation, a walk through the workplace to identify speciﬁc hazards and to examine those aspects of the employer's safety and health program that relate to the scope of the visit, and a closing
 
-Information sources: Information about state plans, VPPs, consultation programs, and inspections can be
+conference. Later, the consultant sends a report of ﬁndings and recommendations to the employer. This
 
-obtained from the nearest OSHA regional or area oﬃce. Area oﬃces are listed in local telephone directories
+process begins with the employer's request for consultation, which must include a commitment to correct any
 
-under the U.S. Department of Labor. Contact information for regional and area oﬃces, as well as state plans
+serious safety and health hazards identiﬁed. The consultant will not report possible violations of OSHA
 
-and consultation programs can also be found on the OSHA website.
+standards to OSHA enforcement staﬀ unless the employer fails or refuses to eliminate or control worker exposure to any identiﬁed serious hazard or imminent danger. Should this occur, OSHA may investigate and
 
-OSHA's Oﬃce of Small Business Assistance administers OSHA's On-Site Consultation Program and serves as liaison and point of contact with the Agency for small businesses. OSHA oﬀers many services designed to
-
-help small businesses and welcomes comments and suggestions from small business owners and their
+begin enforcement action. The employer must also agree to allow the consultant to confer freely with

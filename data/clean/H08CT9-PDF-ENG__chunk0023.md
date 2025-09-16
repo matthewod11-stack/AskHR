@@ -1,29 +1,21 @@
-# HBR / Digital Article / Is Your Organizational Transformation Veering Off Course?
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c631ba8aabf5416b13220253ef4aeb33b4d195de
+title: H08CT9-PDF-ENG
+---
+## transformation performance by 12 times: from 6% to 72%.
 
-stagnant — or in the worst cases, becoming so negative that people start
+- 1. They look for shifts in the team’s emotional energy.
 
-to work against the program.
+The ﬁrst step is leaders sensing for signals that something is amiss, that
 
-Most organizations use dashboard metrics to track progress and detect
+there’s been a shift in energy among the workforce. Transformations
 
-problems. However, these are lagging indicators that reﬂect past
+often begin with optimism — even excitement. But when the reality of this diﬃcult work hits home, there is a danger of energy becoming
 
-performance rather than leading indicators to inform future action. The
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-behavior and emotional energy of transformation teams are the early
+5
 
-warning system.
-
-Leaders should look for shifting energy in two places. The ﬁrst is within
-
-themselves: their visceral reaction to where a group has moved to. It
-
-might be a feeling in the gut, or a tingling of the skin, but it’s a personal,
-
-instinctive reaction, which is the most immediate data anyone can
-
-acquire. Second, leaders can sense signals from their interactions with
-
-people. How are they behaving? Has their emotional energy changed? If
-
-that is the case, it is the signal something has gone wrong and needs to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

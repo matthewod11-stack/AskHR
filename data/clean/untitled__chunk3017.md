@@ -1,3 +1,23 @@
-# CONCLUSION 550 REFERENCES 551
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b640e72c0837f920d28832c543bf716d077a05a6
+title: untitled
+---
+## INTERNATIONAL PSYCHOLOGICAL ORGANIZATIONS
 
-psychology. The diverse interests that were represented in these meetings reﬂected the heterogeneity of psychology dur- ing the period. For example, organizers with interests as di- verse as hypnosis and psychical research sponsored the ﬁrst two International Congresses of Psychology. Jean Martin Charcot (1825–1893) and his colleagues in the Société de Psychologie Physiologique organized the ﬁrst International Congress of Psychology held at the Paris World Fair of 1889. Charcot was president of this ﬁrst congress, and his research and clinical interests in hypnosis were represented in approx- imately one-third of the congress papers (Silverman, 1989; Smith, 1997).The London Society for Psychical Research or- ganized the second International Congress of Psychology in 1892. Although their themes were perhaps peripheral to the interests of most scientiﬁc psychologists, these ﬁrst two con- gresses provided a venue for psychologists to gather, discuss research, and make plans for future cooperation. The interna- tional congresses helped bring together scholars with a com- mon interest in the new discipline and played a vital role in the establishment of psychological associations.
+As the possibility of a new science of psychology grew across Europe in the late nineteenth century, the ﬁrst cohort of psy- chologists loosely organized themselves into local societies or participated in the organizational life of other scientiﬁc so- cieties. Improvements in transportation and communication were instrumental in facilitating more formal associations by making travel to distant sites quicker and safer. Beginning in 1889, psychologists began to meet their colleagues from other cities or universities at international congresses of
+
+535
+
+The Near and Middle East 539 South and Central America and the Caribbean 539 Africa Others 540 North America Applied Psychological Organizations Psychological Organizations in the Public Interest Accreditation and Credentialing Organizations Interdisciplinary Organizations
+
+540 540
+
+544
+
+545
+
+548
+
+549

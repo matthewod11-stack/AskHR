@@ -1,23 +1,15 @@
-# each athlete.
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: 402130abc81a73fb2811241b9365362f9e31e9ef
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# fits into the total picture.
 
-70
+49
 
-57
+50
 
-66
+58
 
-Democratic Behavior Ask for the opinioaof the athletes on strategies for specific competitions.
-
-62
-
-54
-
-61
-
-Get group approval on important matters before going ahead. Let his athletes share In decision
-
-53
-
-46
-
-63
+Specify in detail what is expected of

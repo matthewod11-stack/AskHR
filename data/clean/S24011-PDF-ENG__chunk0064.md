@@ -1,11 +1,15 @@
-# back to the debate.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 514d0d6863897313cbe0d25bfdc65cc1c092db59
+title: S24011-PDF-ENG
+---
+## HBR / Spotlight Article / Leading in the Flow of Work
 
-- 9. Direct emotional energy. Harness the energy your feelings are
+- 8. Dial an emotion up or down. Intensify positive feelings or dampen
 
-producing to advance your purpose. For instance, use the pain of defeat
+negative ones to bring out the best in yourself and others. Sensing rising
 
-to motivate a team to practice with greater discipline.
+frustration in a team meeting, a manager can shift the conversation to
 
-- 10. Untwist your thinking. Eliminate distorted thoughts so that you can see
-
-the situation in a clear, objective light. No, a presentation wasn’t a “total
+past successes and team strengths before turning people’s attention

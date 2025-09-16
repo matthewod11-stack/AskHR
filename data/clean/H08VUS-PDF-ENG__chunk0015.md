@@ -1,27 +1,23 @@
-# thinking and working.
+---
+source_path: H08VUS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 657607fd93abf67438faac17de9e020e10d5f879
+title: H08VUS-PDF-ENG
+---
+## HBR / Digital Article / The Power of Being an Amateur
 
-I didn’t expect much, just that these pursuits would make my personal
+Say yes to everything new for a year. I liked the idea. But why wait
 
-life feel a tad more expansive. But what happened next surprised me.
+for retirement? I decided to throw myself into a couple of pursuits
 
-At work, my team noticed a subtle shift in how I approached creative
+outside of work where I had zero expertise: watercolor painting and
 
-reviews. When my internal agency brought an unexpected reference or
+karaoke. Doing each made me highly uncomfortable at ﬁrst, but that
 
-an out-of-left-ﬁeld idea, instead of immediately trying to ﬁt it into our
+was precisely the goal, so I stuck with them—and over time I sensed a
 
-usual framework, I gave it more space to breathe and develop. Dabbling
+new kind of energy in myself. Freed from the weight of being “someone
 
-in art made me more receptive when our designers pushed for bolder
+who knows,” I discovered the alertness and absorption that mastery
 
-color choices on our assets. My late-night singing sessions reminded me
-
-how freeing it can feel to create without judgment. That carried over
-
-into how I treated rough early-stage ideas and hypotheses. Together,
-
-these changes helped my team and me create the conditions for some
-
-of our most distinctive work. We challenged B2B conventions, delivered
-
-meaningful business results, and earned industry recognition.
+often dulls, and I felt more curious and more receptive to new ways of

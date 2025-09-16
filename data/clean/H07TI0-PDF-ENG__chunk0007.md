@@ -1,23 +1,17 @@
-## HBR / Digital Article / A New Approach to Writing Job Descriptions
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 775f4b0d0ff188b1593716123a3a55abf881737c
+title: H07TI0-PDF-ENG
+---
+# requirements .
 
-Today, job descriptions are used for several purposes:
+By the mid-20th century they became even more formalized and
 
-- 1. Recruitment: They help prospective applicants understand whether
+detailed.
 
-they would be a good ﬁt for the position by providing a clear outline
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-of what a role involves and what skills and qualiﬁcations are required.
+2
 
-- 2. Role clariﬁcation: They help clarify the responsibilities, tasks, and
-
-expectations of a role, helping to avoid role ambiguity and conﬂict.
-
-- 3. Performance management: They serve as a benchmark for
-
-assessing employee performance.
-
-- 4. HR management: They help plan employee development, set
-
-compensation, and serve as legal documentation.
-
-So how can job descriptions be made more ﬂexible but still address
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,21 @@
-# advocate for inclusion.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 109985fee766679cc2267269778e7c8430a475ca
+title: H087G0-PDF-ENG
+---
+## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
 
-Outside disability organizations. These can range from national to
+Disability employee resource group. An employee resource group (ERG)
 
-local, and from formal associations to informal groups. Participating
+can connect you with a community of peers who understand your experiences and can oﬀer empathy, guidance, and encouragement. It
 
-in them can validate your experiences, help you feel less alone,
+provides a safe space to share your concerns; work through any feelings
 
-and provide many practical tips. For example, the American Lung
+of anxiety, self-doubt, or shame associated with internalized ableism;
 
-Association has online mutual care communities, including one for long
+and develop a positive identity around disability, chronic illness,
 
-Covid, and the Long Covid Alliance provides links to a variety of support
+or neurodivergence. Some ERGs also help organizational leadership
+
+improve accessibility and accommodation processes and otherwise

@@ -1,21 +1,15 @@
-# Output, Not Input
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0022dc8a8f2b4997272c0675dfa5a76906cba43
+title: R2302A-PDF-ENG
+---
+# HBR / Magazine Article / GitLab’s CEO on Building One of the World’s Largest All-Rem…
 
-It won’t surprise you to learn that we use the GitLab platform to
+its energies to drive GitLab’s quarterly revenue to $113 million and year-
 
-collaborate on writing, reviewing, troubleshooting, launching, and
+over-year growth to 69% as of the quarter ended October 31,2022. Now
 
-monitoring the performance of our code. Managers create a project, or
+that other corporations and start-ups are experimenting with going all
 
-“milestone” in our parlance, within which speciﬁc tasks, or “issues,”
-
-are to be completed. Those issues are assigned to one or more team
-
-members via a “merge request” labeled “work in progress.” Colleagues trade oﬀ working on the issue until they deem it ready to “stage” and
-
-“commit.” Their code is then run through a series of diagnostics that
-
-test for accuracy, security, and performance. If it passes muster, it’s
-
-launched, and we continue to track how it performs. If problems are
-
-identiﬁed, the team iterates on solutions. This entire history of work
+remote, we hope to share our lessons.

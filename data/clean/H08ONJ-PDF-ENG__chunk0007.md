@@ -1,13 +1,15 @@
-# balance sheet.
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f51eae8883a30ea0e097f3b530b15ded5dd38308
+title: H08ONJ-PDF-ENG
+---
+# Resources vs. Resourcefulness
 
-Resourcefulness, in contrast, is not about the resources a company has,
+Resources are what most companies ﬁght for internally. It’s why they
 
-it’s about the ability to creatively leverage the world’s constellation of
+court investors and capital markets. It’s what the budgeting process is
 
-knowledge, expertise, resources, and capabilities, even without owning
+all about. Resources can be ﬁnancial, physical, human, or intellectual
 
-them. Resourcefulness allows you to achieve much more than you could
-
-accomplish using only your own resources and capabilities—and to do
-
-so at lower cost, with less capital, and often with greater expertise and
+property. They are everything one ﬁnds on the asset side of a company’s

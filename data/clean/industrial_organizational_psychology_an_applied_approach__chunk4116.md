@@ -1,5 +1,11 @@
-## response. Journal of Applied Psychology, 64, 648–653.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 96f9502877e1fb3b423bfc66a142aa91fba016ea
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Cameron, K. S., Freeman, S. J., & Mishra, A. (1991). Best
 
-Campbell, D. T., & Stanley, J. C. (1963). Experimental and quasi-
+practices in white-collar downsizings: Managing contradictions. Academy of Management Executive, 5, 57–73.
 
-experimental designs in research. Chicago: Rand McNally.
+Campbell, D. E. (1979). Interior oﬃ ce design and visitor

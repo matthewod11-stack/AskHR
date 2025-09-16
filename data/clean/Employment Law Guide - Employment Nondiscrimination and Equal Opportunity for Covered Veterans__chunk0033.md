@@ -1,3 +1,9 @@
-# protected veteran status. See 38 U.S.C. § 4212(b). Employees and applicants of covered contractors, third
-
-parties, and authorized representatives (e.g., a family member, personal representative, or union representative) may ﬁle a complaint on behalf of an individual or group. Complaints may be submitted via fax,
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Covered Veterans.md
+pages: n/a-n/a
+chunk_id: e5dd8a2be5f3512cf56838434b8347a433ac030e
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Covered Veterans
+---
+# By statute, VEVRAA provides for a prompt investigation of employment discrimination complaints based on

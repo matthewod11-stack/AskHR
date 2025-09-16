@@ -1,13 +1,15 @@
-# sonality theory. New York: Basic Books.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c301ed17ac98a9ddb404adf0115dcfc20781bb8e
+title: untitled
+---
+## China. International Journal of Psychology, 19, 57–63.
 
-Denmark, F. L. (1987). History of professional psychology: Interna- tional conferences. In R. J. Corsini (Ed.), Concise encyclopedia of psychology (pp. 611–613). New York: Wiley.
+David, H. P. (1986). Population, development, and reproductive behavior: Perspectives for population and health psychology. American Psychologist, 41, 309–312.
 
-Diaz-Guerrero, R. (1977). A Mexican psychology. American Psy-
+David, H. P. (1994). Reproductive rights and reproductive behavior: Clash and convergence of private values and public policies. American Psychologist, 49, 343–349.
 
-chologist, 32, 934–944.
+David, H. P., & Buchanan, J. (1999). Informal survey of interna- tional psychology [Unpublished]. Washington, DC: American Psychological Association.
 
-Draguns, J. R. (2001). Towards a truely international psychology: Beyond English only. American Psychologist, 56, 1019–1030.
-
-531
-
-532
+David, H. P., & von Bracken, H. (Eds.). (1957). Perspectives in per-

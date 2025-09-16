@@ -1,11 +1,17 @@
-# Not Applicable
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 066c3ec9778d847f7f460f5cba1c8f22930b4a04
+title: fast_track_art_i_c_l_e
+---
+# SD
 
-34,504
+Individual-level of analysis Number of employees Proportion male Age, y Time 1 risks
 
-0.496 11.116
+0.504 42.176
 
-0.513 44.072 4.051
+205,672
 
-17,079
+0.500 11.208
 
-0.500 10.662 1.564
+0.433 43.341

@@ -1,9 +1,15 @@
-# performance companies.
+---
+source_path: H06DD3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eeae8590be9d34fc4a543e9886c97023a63ec8b8
+title: H06DD3-PDF-ENG
+---
+## the most underutilized, yet most effective, development and cultural
 
-Building a culture of mobility is a trait of very healthy organizations, and
+enhancement techniques in companies today. In fact, research conducted
 
-the beneﬁts are clear: Cross-functional collaboration increases,
+by our colleagues at i4cp revealed that high-performance organizations (as
 
-departmental cooperation is enhanced, innovation improves, and
+measured by revenue growth, proﬁtability, market share, and customer
 
-companies begin working more as one cohesive team instead of separate
+satisfaction) are twice as likely to emphasize talent mobility versus low-

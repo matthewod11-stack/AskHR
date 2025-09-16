@@ -1,13 +1,23 @@
-# 1.7 Limitations:
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 03f049411b82c9f1f262054a255d29b8edcca666
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# Limited
 
-- (cid:32) Plenitude of data and experience is expected to set up a decent report. The constraints
+- (cid:32) Direct Observations
 
-for making the report total and wonderful may include:
+- (cid:32) Optional information are gathered through
 
-- (cid:32) Due to mystery and privacy of the association, some data will be held back.
+- (cid:32) Websites of the associations.
 
-- (cid:32) Time requirement is a significant issue
+- (cid:32) Employee Policy book of The City Bank Limited.
 
-4
+3
+
+(cid:32)
+
+(cid:32)
 
 (cid:32)

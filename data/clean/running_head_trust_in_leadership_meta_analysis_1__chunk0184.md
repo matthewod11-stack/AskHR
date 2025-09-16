@@ -1,7 +1,11 @@
-# Hospitality & Tourism, 15, 462-484.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 37abd8df55f92fa273aa611b566c6bdad6c11d5c
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## organizations. Asian Journal of Social Psychology, 7, 89-117.
 
-Cohen, J., & Cohen, P. (1983). Applied multiple regression/ correlation analysis for the
+Chiang, C. F., & Lin, M. Y. (2016). Motivating organizational commitment in hotels: The
 
-behavioral sciences (2nd ed.). Hillsdale, NJ: Erlbaum
-
-Colquitt, J. A., Baer, M. D., Long, D. M., & Halvorsen-Ganepola, M. D. (2014). Scale
+relationship between leaders and employees. Journal of Human Resources in

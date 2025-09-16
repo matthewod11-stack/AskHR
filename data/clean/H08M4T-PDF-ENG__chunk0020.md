@@ -1,5 +1,11 @@
-# deliberate choices.
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f9d8b90b627760eb80fb041d5cd773830f24644
+title: H08M4T-PDF-ENG
+---
+# Do
 
-- Track your daily energy levels to identify your chronotype and
+- Cultivate meta-awareness by pausing to question your impulses,
 
-schedule demanding tasks during your peak hours, and less-complex
+and redirecting your attention to transform unconscious habits into

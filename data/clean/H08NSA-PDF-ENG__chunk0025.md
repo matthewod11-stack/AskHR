@@ -1,37 +1,31 @@
-# purpose.
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edea884e79d65e0805e87aa0d97997b9a2002199
+title: H08NSA-PDF-ENG
+---
+## HBR / Digital Article / Looking for a Sense of Purpose? Volunteer.
 
-As a ﬁnal example, I’ll share the story of Sahar Jamal. Before becoming
+What volunteer activities do my friends or colleagues participate in?
 
-one of my students, Jamal was as a senior manager at Johnson &
+If you’re struggling to ﬁnd the right opportunities, but are still eager
 
-Johnson where she also volunteered in corporate social responsibility
+to get involved, consider tapping into your network. Your friends and
 
-(CSR) activities. Through her CSR work, she became interested in global
+colleagues may participate in volunteering eﬀorts that you can join to
 
-health issues, particularly those aﬀecting women and children. The
+gain ﬁrsthand experience and explore what feels like the right ﬁt.
 
-experience changed the trajectory of her entire career.
+- 3) Save room for inspiration.
 
-Jamal left her job to pursue an MBA at Kellogg and interned with
+Over time, like Lee and many other people I’ve connected with, you
 
-Jacaranda Health in East Africa. She learned that many women
+may ﬁnd that your volunteer experiences start inﬂuencing your career
 
-struggled with breastfeeding their children while also working to
+choices. Volunteering gives you the freedom to explore new interests
 
-support their families. This inspired her to start Mazima (“milk” in
+and passions outside your job. This can help you uncover (or rediscover)
 
-Swahili), a social enterprise in Kenya that provides women a discreet,
+what truly fulﬁlls you. As your values evolve, you may even ﬁnd a cause
 
-portable, and low-cost breast pump. “I wanted to make sure I was
-
-directly making a diﬀerence in the lives of women,” she told me.
-
-No matter how or where you volunteer, you can experience greater
-
-purpose while also making a meaningful impact. By reﬂecting on
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+worth pursuing professionally—leading to a career that aligns with your

@@ -1,37 +1,29 @@
-# individually or together.
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 623770d58e121aec16132f7b4eadb8b11fb8563e
+title: H078YM-PDF-ENG
+---
+## HBR / Digital Article / Is Bad Onboarding Stifling Your New Senior Leaders?
 
-Set a short-term challenge
+with senior executives. (This is pretty typical, and often paired with
 
-Setting a 100-day, short-term results challenge for the new person
+required travel to diﬀerent sites.)
 
-right from the beginning can help them get oriented while achieving
+At the end of the month, not only was he exhausted, but he was worried
 
-something of real value. This could be streamlining or strengthening
+that the kinds of changes he had initially thought about making were so
 
-a key process or helping a sales team increase uptake for a particular
+radical that they would face stiﬀ resistance and would need to be toned
 
-product, for example. Then, shape the onboarding process around this
+down. So instead of starting oﬀ with conﬁdence, he began to doubt his
 
-goal. Have the leader get to know primarily the people and processes
+ability to change the status quo.
 
-that are critical for achieving it, rather than trying to meet everyone
+So what’s the alternative? How can your organization onboard leaders
 
-and learn everything about the organization. This is impossible anyway
+in a way that fosters impact and not just integration? From my 30 years
 
-— and there is always time to meet the others later. (Michael Watkins
+coaching senior leaders and advising large companies about innovation
 
-is one among many who have written extensively about how the ﬁrst
-
-100-odd days are critical for new employees to make an impact.)
-
-For example, several years ago the CEO of a global engineering ﬁrm brought in a new chief human resources oﬃcer from outside the
-
-industry; I’ll call him Rick (not his real name). Although experienced in
-
-HR, Rick was a ﬁrst-time CHRO and came into the job with a mandate to
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+initiatives, I’ve seen three solutions that work. These can be deployed

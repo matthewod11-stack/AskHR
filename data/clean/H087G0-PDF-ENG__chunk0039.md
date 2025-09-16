@@ -1,17 +1,21 @@
-## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 726b2418e18295b22e717b0672c6a678b6a92531
+title: H087G0-PDF-ENG
+---
+# Creating a Network of Disclosure
 
-Creating a network of disclosure — in other words, disclosing your
+People often want to disclose just to one person — maybe their
 
-condition to two or more people — can be a part of the solution, though
+supervisor or someone in HR — and only if they must. But as Ali’s story
 
-it may sound counterintuitive. After all, doesn’t it increase your chances
+earlier in the article illustrates, having limited support can backﬁre.
 
-of experiencing bias? Possibly, but it can also increase the chances you’ll
+What happens if that person leaves your team or company?
 
-get the support you need, and research shows that people who make a
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-commitment known to others are more likely to keep that commitment.
+7
 
-If your accommodations are discussed with your manager, HR, and the
-
-accessibility oﬃcer, any one party will have a harder time going back on
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,25 @@
-# The Fixer
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99ca91779af707396873e2c79817792995ab3424
+title: H075PH-PDF-ENG
+---
+# rules of the process crystal clear.
 
-Another critical task is to identify any major constraints on the
+The referee does this by carefully evaluating the fairness and viability of both sides’ proposals. And also facilitating compromise and trade-oﬀs
 
-mediation. Here the ﬁxer makes an assessment with the goal of pushing
+or ﬁnding ways to expand the pie to move the parties out of a win-lose
 
-restrictive situations toward new possibilities. Are there external
+mentality. There may be more common ground than you think. For
 
-constraints like bad timing (a pressing deadline makes it impossible
+instance, in the hypothetical example above, it may be that the budget
 
-to think), lack of privacy, restrictive HR procedures, or others that are
+allocated to the project isn’t suﬃcient for either of the department
 
-keeping the parties from working things out? If so, look at what you can
+heads to get their jobs done. That shared perspective can help align
 
-do to lessen those constraints; ideally you do this before bringing the
+them toward working on a resolution together. One caution: Approach
+
+this role carefully — the evaluative nature of the approach requires high
+
+credibility to execute successfully.

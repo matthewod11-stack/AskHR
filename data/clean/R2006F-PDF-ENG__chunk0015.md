@@ -1,21 +1,9 @@
-# few of the improvements.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a4a5601bf6e6d8bfdf3791c0c756ffdf49a9584
+title: R2006F-PDF-ENG
+---
+## optical image stabilization (2015), the dual-lens camera (2016), portrait
 
-Apple leaders need deep expertise, immersion in details, and collaborative debate.
-
-To create such innovations, Apple relies on a structure that centers
-
-on functional expertise. Its fundamental belief is that those with the
-
-most expertise and experience in a domain should have decision rights
-
-for that domain. This is based on two views: First, Apple competes in
-
-markets where the rates of technological change and disruption are
-
-high, so it must rely on the judgment and intuition of people with deep
-
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mode (2016), portrait lighting (2017), and night mode (2019) are but a

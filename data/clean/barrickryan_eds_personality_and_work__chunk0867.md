@@ -1,5 +1,9 @@
-# Conclusion
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 30311de8bab95451fe93ed99327c16f74dd96b3e
+title: barrickryan_eds_personality_and_work
+---
+# EMERGING TRENDS AND NEEDS 315
 
-We make many choices when building models and conducting research. Examples are choice of independent (antecedent, pre- dictor) variables, dependent (criterion) variables, intervening (mediator) variables, individual- versus group-level outcome vari- ables, situations (tasks, jobs, culture) within and across which rela- tionships are hypothesized, and type of hypothesized relationships or effects (linear, curvilinear, conﬁgural, moderator, interaction). Given the complexity of the measurement of the constructs, rela- tions between variables, direction, shape, and type of relationships, it is not surprising that during the dark ages between approximately 1965 and 1985, I/O psychologists (with the exception of a few such as Ghiselli, 1966) accorded personality variables a minor, if any, role in theories of the determinants of work-related behavior. Research during the 1980s and 1990s demonstrated the important main ef- fects of personality variables in determining behavior and perfor- mance. Now, evidence for the many roles of personality variables in determining behavior and performance is persuasive.
-
-Besides a need for more complex models, we must examine and develop additional taxonomic structures of personality, cri- terion, and situational variables, structures that incorporate more variables than the Big Five in the personality domain and more vari- ables than overall, task, and contextual performance as depen- dent variables. We need to develop an adequate taxonomy of situational variables. We need to incorporate other theories of per- sonality into our models of the determinants of performance. We need models that recognize that variables and relationships are dynamic, changing over time. Our models of performance must include multilevel measures of independent and dependent vari- ables and address relationships between variables at multiple lev- els. The complexity is enormous. Unless our theories and models reﬂect this complexity, the variance our theories and models ex- plain will be minimal.
+Employment law cases now include arguments about the use of alternative predictors such as personality variables (for exam- ple, United States of America v. City of Garland, TX, 2002). Employers increasingly are expected to include personality variables in their personnel selection systems.

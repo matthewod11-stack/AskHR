@@ -1,7 +1,19 @@
-# System
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 5b0c5fa92e1952bd548d23a26f1404e1cd9fc0c1
+title: building
+---
+# well-organized responses.
 
-1
+- Debugging: Seeing Claude’s thought process helps you pinpoint where prompts may be unclear. You have a more ‘interpretable’ answer which will allow you to more successfully steer the model over time. Potential downsides
 
-The assistant will be acting as a customer support ticket classification system.
+- Increased output length may impact latency.
 
-The task is to classify the ticket according to the rules.
+- Not all tasks require in-depth thinking. Use CoT judiciously
+
+to ensure the right balance of performance and latency.
+
+Here’s what our ticket routing prompt looks like now after adding few shot examples and chain of thought tags:
+
+26

@@ -1,21 +1,17 @@
-## individuality and their authenticity outside of work.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 813851a95ac0adc63c437dfcc26a8f6f253ffb12
+title: H07RVB-PDF-ENG
+---
+# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
 
-ADI IGNATIUS:
+Even though it feels like we’re working full time, we do have our own
 
-I want to jump to an audience question that’s apropos of where we are in
+personal time and we do have choices that we can make. Of course,
 
-the conversation. This is from Angela in Colorado. “I have a queer child.
+when somebody comes to me for advice, I ask, “Do you have the ability
 
-What recommendations would you have to help a young person prepare
+to change companies? Do you have the ability to move? Would that
 
-best for the current working world and to prepare for leadership?”
-
-JIM FIELDING:
-
-That’s amazing. First oﬀ, the fact that your child has a mother that’s
-
-willing to identify that and you’re having that conversation is a huge
-
-step in the right direction. I think it’s having those conversations and
-
-building their conﬁdence and building their awareness and building
+work for you?” And if not, then I really encourage them to stretch their

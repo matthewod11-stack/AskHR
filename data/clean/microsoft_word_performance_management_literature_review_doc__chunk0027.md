@@ -1,19 +1,25 @@
-# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:33)(cid:38)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: daec781c58abe3ea316aa85540d745457736329d
+title: microsoft_word_performance_management_literature_review_doc
+---
+# (cid:33)(cid:37) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:2)(cid:6)(cid:2)(cid:8)(cid:13)(cid:35)(cid:10)(cid:14)(cid:15)(cid:13)(cid:2)(cid:3)(cid:7)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)(cid:17)(cid:2)(cid:18)(cid:15)(cid:2)(cid:19)(cid:10) (cid:10)
 
-(cid:1) The lack of development conversations was a major source of dissatisfaction which also correlated with intention to leave. The big conversation gap in relation to development was about career development rather than skills and training for the current job.
+The first is for objective setting, the second for development planning, the third for ongoing coaching and the fourth to review performance and pay.
 
-(cid:1) Issues related to work-life balance were not being well addressed.
+Sillup et al. (2010) discuss that traditionally appraisals are completed once a year and usually include a mid-year discussion, but they argue research has indicated that this is too infrequent because raters face problems with remembering what employees did over the previous months (Campbell et al., 1970, cited in Sillup et al., 2010). Juran (2004, cited in Sillup et al., 2010) found that organisations with monthly or quarterly performance appraisals ‘outperformed competitors on every financial and productivity measure and got positive feedback from employees about the fairness of the PA system’ (p.42).
 
-(cid:1) Forty per cent of respondents had an issue about work which they wanted to
+At Standard Chartered Bank the appraisal process is called ‘Conversations that Count’. The aims are to increase staff engagement, develop staff and deliver better results. Managers have four conversations with their staff during the year: perform (the appraisal against personal objectives; learn and develop (planning learning required to perform their job); careers (building the potential to take on larger roles); and engagement (where managers ask staff how well the organisation knows them, cares about them, helps them to focus and develops their strengths).
 
-discuss but were not doing so. These respondents were nearly three times more likely than other respondents to be planning to leave the organisation in the next twelve months.
+A later study by the Institute for Employment Studies (Hirsh et al., 2004) interviewed employees who said they had experienced a manager who had ‘developed’ them. Again conversations lay at the heart of this process, as did managers being close to employees and their work and giving them focused coaching and access to work experiences. This kind of attention improved performance via its impact on confidence and motivation. These psychological effects were as important as skill acquisition in the impact of developmental management styles. Effective developers also created a climate of openness within their teams and encouraged informal discussions about work issues.
 
-The study concluded that good dialogue rests on trust and can in turn lead to engagement and so improve performance. Conversations about performance which do not also address development for the future do not engage high performing employees. In other words ‘the best leaders are those who address performance and development together.’ (ibid.)
+A survey by the Career Innovation Group (Winter and Jackson, 2004) asked over 700 high performers in a small sample of large, mostly global, organisations to comment on the conversations they had at work which had high impact on them. Not surprisingly, these high performing employees are the kinds of people who receive a lot of attention, and they had regular conversations about their work, especially with their managers. However, they were not always getting the types of conversations they most needed.
 
-These studies suggest that semi-formal discussions may be helpful ie the conversation itself is planned, but its structure and agenda are not over- prescribed.
+(cid:1) About half of the conversations having the greatest impact were performance
 
-(cid:38)(cid:46)(cid:34)(cid:46)(cid:33) (cid:51)(cid:15)(cid:32)(cid:2)(cid:3)(cid:10)(cid:15)(cid:8)(cid:30)(cid:16)(cid:13)(cid:10)(cid:15)(cid:8)(cid:13)(cid:5)(cid:10)(cid:13)(cid:21)(cid:2)(cid:10)(cid:32)(cid:15)(cid:28)(cid:9)(cid:16)(cid:28)(cid:28)(cid:15)(cid:5)(cid:8)(cid:10)
+related, and about half of these took place in appraisals.
 
-There is also a trend towards more people inputting into the end-of-year review to try to improve the quality of assessments. Surveys suggest that between a quarter and a third of employers are using some aspect of 360 degree appraisal, collecting input from colleagues and reports, and sometimes from customers. Some of this is formal moderated/managed ‘multi-rater’ feedback; in other cases it is informal comment. Finn (2007, cited in Wikina, 2008) states that a strong emphasis should be placed on regular and consistent feedback, especially informal feedback and research about 360 performance appraisal systems suggest that it is an effective way to increase the flow of information within an organisation (Garavan and Morley, 1997, cited in Sullip, 2010). The CIPD found that fewer than half of employees state that their line manager usually or always provides feedback on their performance, but those that could claim they always received feedback were more satisfied with their job (CIPD, 2009).
+(cid:1) By contrast, only about a quarter of high impact conversations were
 
-Within 360 feedback there is always a possible friendship bias but this can be reduced by training what colleagues need to evaluate (Reilly, Smither & Vasibopoulos, 1996, cited in Sillup, 2010). Evaluation of managers from their direct reports is seen as empowering for employees and to protect against retribution, ratings can be combined into overall ratings (Sillup, 2010) and employees given an opportunity to perform self appraisal are also found to be motivated and have
+development related, and less than a quarter of these took place in appraisals.

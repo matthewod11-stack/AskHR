@@ -1,11 +1,17 @@
-# HBR / Digital Article / 3 Ways to Build a Culture That Lets High Performers Thrive
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e894caac48d8c3587fd3c0668e97ae41648187ac
+title: H08AAA-PDF-ENG
+---
+## two skill sets: leadership and collaborative problem solving. Because of
 
-- Stressful goals: Because she’s done so well in the past, she often
+this, she’s considered critical for major company initiatives.
 
-receives the most complex and risky goals after others have failed.
+What’s her reward for being such a high performer?
 
-- Meeting mania: Because she is seen as an essential part of the team
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-and can often solve even the thorniest of issues, her days are ﬁlled with
+1
 
-back-to-back meetings, which requires her to get work done at night
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

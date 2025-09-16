@@ -1,65 +1,43 @@
-## HBR / Digital Article / Management By Driving Around
+---
+source_path: H08HVS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 209f07c9090c99ede3fade0b3cbf46c05581f4ca
+title: H08HVS-PDF-ENG
+---
+## improvements, along with hard-working and well-trained frontline
 
-to make things better, they don’t have a suﬃcient grasp of causes and
+employees, cut the average time DMV customers spend at the clerk
 
-remedies. In such cases, it’s wise to pause and assess the situation rather
+window to obtain a Real I.D. from 28 to eight minutes. And surveys of all
 
-than do something rash and wrong.
+180 DMV ﬁeld oﬃces found that customer satisfaction with in-person
 
-All that driving around bought Gordon and his team precious time
+visits rose from 2.5 on a 5-point scale in 2018 to 4.25 in 2023.
 
-to think about, uncover, and develop better solutions. For example,
+Gordon’s in-person visits to those 180 DMV oﬃces helped his team
 
-Gordon and chief digital transformation oﬃcer Ajay Gupta found the
+make changes that spread and stuck — and serve customers faster.
 
-28 minutes the average customer spent at the window to get a Real
+Here’s how.
 
-I.D. to be unacceptable, but they needed time to ﬁgure out causes and
+It bought them time to make the right changes. Gordon acted quickly to set high standards for the department’s staﬀ of
 
-remedies. Gordon’s oﬃce visits helped him identify unnecessary steps staﬀers at DMV headquarters had added — for example, a requirement
+10,000 and to start building a culture where when “we recognize what
 
-that multiple team members review each application when a review by
+needs to be done, we do it, and we do it now.”
 
-a single member was suﬃcient. Gordon, Gupta, and their team also
+Yet there were many solutions to the DMV’s crisis that Gordon’s team
 
-slowed down to dissect how every step in the Real I.D. registration
+knew would take time to ﬁgure out. The team realized that, for such
 
-process unfolded and could be improved. According to Gordon, they
+unknowns, they were in what Nobel Prize winner Daniel Kahneman
 
-were able to streamline the process so much because “[they] challenged
+called a “cognitive mineﬁeld.” That’s when people are confused or
 
-every one of those steps,” asking questions like, “Does it come from a
-
-statute? A regulation? A policy? Is it a good idea? Is it a bad idea?”
-
-It built trust with frontline employees.
-
-In his early days at the DMV, Gordon discovered that “the prevailing
-
-culture at the time did not encourage employees to question the status
-
-quo or the wisdom of systems and processes that were negatively
-
-impacting the consumer experience.” Much as John Doyle learned from
-
-Bill Hewlett and David Packard some 60 years ago, Gordon believed that
-
-visiting all those ﬁeld oﬃces would help create trust among frontline
-
-employees — to feel a personal connection with their new boss, and be
-
-seen, heard, and understood, and to feel safer to speak up.
-
-Gordon also found that some DMV leaders at Sacramento headquarters
-
-had never visited ﬁeld oﬃces themselves. So, he began “kicking people
-
-out of the nest.” Gordon was conﬁdent that building face-to-face
-
-relationships with frontline employees would make them more likely
+overwhelmed, when things are falling apart, and although they want
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

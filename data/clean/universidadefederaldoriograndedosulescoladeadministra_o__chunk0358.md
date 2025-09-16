@@ -1,13 +1,27 @@
-## maior representatividade dentre o corpo de empregados, é Minas Gerais.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 8ebddb902e891c83103561f22da75f7c99bf69b7
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# Europa. Conforme informações cedidas pela funcionária entrevistada, em janeiro de
 
-Em termos etários, a idade média dos funcionários é 30 anos, e a mediana,
+2013, a empresa contava com 3.655 funcionários, sendo 96% dessa força de
 
-31 anos, sendo a maior
+trabalho contratada via regime CLT (Consolidação das Leis do Trabalho), 3%
 
-faixa a de 26 a 30 anos, com 36% das pessoas
+formada por jovens aprendizes e estagiários e apenas o último 1% correspondente a
 
-concentradas nela, e a segunda maior, a de 31 a 35 anos, com 25% das pessoas.
+sócios e alguns poucos funcionários contratados como PJ (pessoa jurídica) para
 
-Dentre essas duas faixas, por isso, somam-se 61% dos funcionários atuais da
+realização de serviços. Além disso, 22% dos empregados ocupam cargos de
 
-empresa. A alta liderança da companhia - denominada assim a camada de
+liderança,
+
+contando com a função de gestão de pessoas dentre suas
+
+responsabilidades. Apesar do grande número de escritórios espalhados pelo mundo,
+
+o regime de trabalho atual é majoritariamente remoto. Ainda assim, 64% dos
+
+funcionários são residentes no estado de São Paulo. O próximo estado, na lista de

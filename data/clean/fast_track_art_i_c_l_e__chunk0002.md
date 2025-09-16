@@ -1,3 +1,9 @@
-## Evidence for the Use of Best Practices in EHM
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 42369e2e286441cc1483c6e09ce8ab7f73e9fe23
+title: fast_track_art_i_c_l_e
+---
+# FromStayWellHealthManagement(DrsTerryandGrossmeierandMrGingerich), St. Paul, Minn, and Mangen Research Associates, Mound, Minn (Dr Mangen).
 
-Although there are only a limited number of studies concern- ing how the use of best practices can improve EHM program out- comes, ﬁndings to date suggest positive relationships between some best practices and outcomes, albeit study methods make the research ﬁndings difﬁcult to generalize to other populations. One study, for example, assessed nine program components, each of which was rated high to low according to a company’s ﬁdelity to the compo- nent.Speciﬁcally,companieswerescoredaccordingtosuchqualities as leadership support for EHM, strategic planning, comprehensive communications, and the use of beneﬁts-integrated incentives. Out- comes measured were HA completion rates, intervention enrollment rates,andhealthbehaviorchangeasmeasuredbyarepeatHA.Those companies with the highest ﬁxation indices25 were shown to have signiﬁcantly better program outcomes.4 These study ﬁndings are useful for ratifying best practices components because the unit of analysis was conducted at the company level. Nevertheless, because ﬁndings were derived from a composite index, the respective inﬂu- ences of the program quality metrics were not estimated. Nor did this research assess between-company variations concerning the relative contributions of the various components to program success.
+No grant funding was used to support this research. DrTerry,DrGrossmeier,andMrGingerichwere/areemployeesofStayWellHealth Management (StayWell) at the time this research was conducted. StayWell is a vendor of health management programs, whose products are evaluated in the manuscript. Dr Mangen performed work on this research as a consultant paid by StayWell Health Management. The authors declare no conﬂicts of interest. Address correspondence to: Stefan B. Gingerich, MS, 3000 Ames Crossing Road,

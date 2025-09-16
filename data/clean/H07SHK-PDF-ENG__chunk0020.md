@@ -1,9 +1,23 @@
-# decision under discussion.
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dac21c92fc7da07097afc9063ae4d3817c127637
+title: H07SHK-PDF-ENG
+---
+# Monitoring the Work
 
-By monitoring decision-making processes personally, CEOs set
+CEOs must also choose how much they want to be personally engaged
 
-standards, encourage alignment, and enable course correction. In some
+in monitoring the work. Providing feedback as any decision-making
 
-cases, the CEO may meet regularly with the team to monitor progress.
+process unfolds is a vital element of the CEO’s role. In the case of
 
-In others, they may only check in occasionally to ensure things are on
+periodic reviews, CEOs describe themselves as monitors who must
+
+check to ensure things are on track and that the organization is
+
+executing as planned. Sometimes, CEOs describe their role as a
+
+coach, educating people, providing constructive feedback, and helping
+
+improve performance while doing little to actually inﬂuence the ﬁnal

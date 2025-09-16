@@ -1,9 +1,11 @@
-# PS
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca00e99f6442bed088683957ce48b5199cf3719c
+title: H08TQX-PDF-ENG
+---
+# AK
 
-Pauline Schilpzand is a Professor of Management in the College of Business at Oregon State University, holding the Gomo Family Professorship in Business. Pauline studies the impacts of incivility and gossip in the workplace, along with a variety of organizational and leadership practices that motivate employees to elevate their performance, proactivity, courage, and helpfulness toward others at work.
+Anthony C. Klotz is a Professor of Organizational Behavior at UCL School of Management in London. His research focuses on understanding employees’ relationships with work, through the lenses of resignations, citizenship behavior, and biophilic design.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Trevor A. Foulk is an Associate Professor at the Warrington College of Business Administration at the University of Florida. Prof. Foulk explores topics including organizational mistreatment, hierarchical dynamics, and employee well-being.

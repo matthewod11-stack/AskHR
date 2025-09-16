@@ -1,7 +1,17 @@
-# A PERSONAL HISTORY
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3ba3e5b23d56e58673cecde26d2a3ced66a5ab48
+title: untitled
+---
+# ACTIVISM IN APA
 
-My own development was shaped by a series of experiences. I was invited to the National Asian American Psychology Training Conference in 1976, an experience which forever molded my own identity. I cannot express how powerful it was to walk into a room and be surrounded not only by peo- ple who all looked like me in being Asian Americans, but who were also all psychologists! Deep in my heart, it felt like a homecoming—an emotion of enormous importance as it shaped my future.
+It was 1963 when formal awareness of the relevance of ethnic issues led to any active movement. APA Division 9, Society for the Psychological Study of Social Issues, presented a pro- posal to the American Psychological Association to study problems encountered in education and employment associ- ated with race. In response, APA formed the Ad Hoc Com- mittee on Equality of Opportunity in Psychology.
 
-Two events motivated me to pursue higher ofﬁce in APA governance. First, I was elected president of the Association for the Advancement of Behavior Therapy (AABT) in 1993. The next event was an encounter at an executive committee meeting of the APA Division 45, the Society for the Psycho- logical Study of Ethnic Minority Issues. A past president of the Division encouraged me to be a candidate for the APA presidency.
+Soon after, in 1963, the Association of Black Psycholo- gists (ABPsi) was formed at the APA Convention in San Francisco, a group which then presented a Petition of Concerns to the APA Council of Representatives. This set of concerns covered the limited number of African American psychologists and students in the profession, APA’s failure to address social problems and racism, and the underrepresenta- tion ofAfricanAmericans in theAPAgovernance.
 
-I ran three consecutive years, barely losing the ﬁrst time by about 16 votes I decided to use a third try as a “tie breaker” and to live with its results. As fortune would have it, I became the 107th president of APA, the third ethnic minority, and the ﬁrst Asian American.
+A slow series of actions by APA followed such pressures from activists. APA and ABPsi organized a Black Visiting Scientist program, and APA established the Commission for Accelerating Black Participation in Psychology. By 1973, the importance of systematic attention to ethnic education and training was recognized at the Vail Conference, with the recommendation that an ofﬁce and board on ethnic minority affairs be formed within APA. This same recommendation was repeated in 1978 at the Dulles Conference. An Ad Hoc Committee on Ethnic Minority Affairs (CEMA) was formed that year and the APA Ofﬁce of Ethnic Minority Affairs staffed the next year. In 1980, the CEMA was elevated to the status of Board of Ethnic Minority Affairs. (In 1996, CEMA was reinstituted as a continuing committee of the Board for the Advancement of Psychology in the Public Interest.)
+
+Two other events deserve mention as part of the gradual changes withinAPA. TheAPAMinority Fellowship Program was funded in 1974 by NIMH to provide fellowships for mi- nority graduate students. This Fellowship has continued into 2001 and has been one of the most successful sources for sup-
+
+porting minority graduate students.Also in 1986, Division 45 was ofﬁcially approved as the Society for the Psychological Study of Ethnic Minority Issues. This Division has become a major home for many ethnic minority psychologists, and pro- vides positions in its executive committee and ofﬁcers for minorities to serve.

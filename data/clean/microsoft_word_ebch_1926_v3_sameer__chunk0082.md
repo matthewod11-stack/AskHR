@@ -1,3 +1,17 @@
-# The hiring of diversity
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 4897d801278791550616c88c60bd7f579606fa7e
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# A Textbook of Industrial Psychology
 
-The Equal Employment Opportunity Act prohibits discrimination in the workplace on the grounds of age, handicap, national origin, gender, race, and religion. Some businesses abide by discrimination laws purely to avoid going to court, but the majority of employers understand the benefits of a diverse workforce, including increased innovation and a wider range of clients. Employers who want to create a diverse workforce must be sure to adopt hiring practices that result in applications from a range of people. Because recruiters are in a unique position to encourage or discourage diverse candidates from applying for employment, it is crucial that they obtain training in the use of objective standards. The use of translators during interviews is permitted, as are multilingual marketing and recruitment brochures that feature images of minority and disabled workers. It is crucial that the company cultivate credibility for the idea of equal employment opportunity and that these are more than simply empty platitudes at the end of a job posting.
+are uncommon among your local labour force. You may do this by placing advertisements in other locations or consulting with employment specialists outside of your local area. In general, the geographic recruitment area is bigger the more technically specialised the job.
+
+There are some jobs that are ideal for internships. An internship is a situation in which a student is employed briefly by an organisation without any commitment on the part of either the organisation or the student to make the employment permanent. The student can learn about the company and try out the work during the internship, which can be a summer or part-time job while they are still in school, before committing to a career. Additionally, it gives the company the chance to interview potential new hires before extending an offer of employment.
+
+Network recruiting
+
+The expansion of internet recruiting has been the most important development in hiring procedures. Many businesses list job openings on their websites or on niche job boards like Monster.com and Career Builder, and others only accept online applications, completely removing the need for paper ones. The use of internet recruiting has benefits. It is less expensive than conventional advertising, at start. Posting an advertisement is simple and quick, answers come in quickly and in greater number, and a wider selection of candidates can be produced. Online applications screening and some selection tests administration can also be done, greatly lowering the amount of time needed for human resources to create a pool of competent candidates. The ease of submission makes the online version quite popular with job seekers as well, who can send out dozens of resumes with just a few mouse clicks. However, this may be a challenge for HR. Processes must be in place to weed out applicants who don't match the basic requirements for the position.
+
+Due to how simple it is to apply for a job online, many people may submit applications, which forces HR professionals to spend time weeding through applications to identify the few who are truly eligible for the position.There is no one optimal way to find job applicants; there are as many distinct recruitment strategies as there are organizations. Depending on the type of post to be filled, the amount of time required to do so, and the size of their budget for recruiting, the majority of organizations employ a range of techniques. What recruiting strategies are most effective in your circumstance will be determined by your organization's past success?

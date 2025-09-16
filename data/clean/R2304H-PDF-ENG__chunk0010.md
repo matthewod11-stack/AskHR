@@ -1,11 +1,13 @@
-## particular jobs; (2) the presence of employees with disabilities elevates
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 588e45064c805de08cf56d2b4c5bffc052853bb4
+title: R2304H-PDF-ENG
+---
+# long-term proﬁtability.
 
-the culture of the entire organization, making it more collaborative
+Our research suggests that having employees with disabilities in its
 
-and boosting productivity; (3) a reputation for inclusiveness enhances
+workforce can build a ﬁrm’s competitive advantage in four ways:
 
-a ﬁrm’s value proposition with customers, who become more willing to
-
-build long-term relationships with the company; (4) being recognized as
-
-socially responsible gives a ﬁrm an edge in the competition for capital
+(1) Disabilities often confer unique talents that make people better at

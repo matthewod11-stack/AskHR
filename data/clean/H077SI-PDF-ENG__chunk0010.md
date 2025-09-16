@@ -1,9 +1,29 @@
-## balance results with their concern for team members, the number
+---
+source_path: H077SI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: affac4a64f174a4473f5eeb1ecfc16ab991ad7a5
+title: H077SI-PDF-ENG
+---
+# leadership abilities?
 
-one behavior that helped was trust. When direct reports trusted their
+If you’re conﬁdent in your leadership abilities and only one of your
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+direct reports is unmotivated, that may not be your fault. As the above
 
-5
+chart shows, 3% or 4% of the best managers had direct reports who were
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+quietly quitting.
+
+Either way, take a hard look at your approach toward getting results
+
+with your team members. When asking your direct reports for increased
+
+productivity, do you go out of your way to make sure that team members
+
+feel valued? Open and honest dialogue with colleagues about the
+
+expectations each party has of the other goes a long way.
+
+The most important factor is trust. When we analyzed data from more
+
+than 113,000 leaders to ﬁnd the top behavior that helps eﬀective leaders

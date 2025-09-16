@@ -1,1 +1,7 @@
-## Table 1.5 Received Customer-Service Training in September
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8a61341c276aca880393e1be468c071d95727028
+title: industrial_organizational_psychology_an_applied_approach
+---
+general psychology course, the experi- mental method is the most powerful of all research methods because it is the only one that can determine cause-and-effect relationships. Thus, if it is important to know whether one variable produces or causes another variable to change, then the experiment is the only method that should be used. Two characteristics define an experiment: () manipulation of one or more independent variables and () random assignment of subjects to experimental and control conditions. If either of these characteristics is missing, a research project cannot be called an experiment; instead, it is called a quasi-experiment, a study, a survey, or an investigation. In an experiment, the researcher intentionally manipulates one or more aspects of the question of interest, called the independent variable, and measures the changes that occur as a result of that manipulation, called the dependent variable. For example, as shown in Table ., a researcher might randomly assign  employees to receive customer service training and  employees to receive no training. Following the training program, the researcher looks at the change in customer spending. In this example, training is the independent variable (what was manipulated), and customer spending is the dependent variable (what was expected to change as a result of the independent variable). The employees who

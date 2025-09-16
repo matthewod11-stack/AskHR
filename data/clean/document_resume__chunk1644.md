@@ -1,11 +1,9 @@
-# Almost Never
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 232280854500066d7c7ca9235b1abfc7431b9e3c
+title: document_resume
+---
+# Almost Always
 
-1
-
-2
-
-3
-
-4
-
-5
+Allows students opportunities to defend their ansm,ers or opinions.

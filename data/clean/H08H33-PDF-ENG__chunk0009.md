@@ -1,31 +1,13 @@
-## Bringing in Ballmer changed Microsoft overnight. Why? He introduced
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6f2bf60bb2416a307f1d9f5cf82061e9dc2ea23
+title: H08H33-PDF-ENG
+---
+# HBR / Digital Article / Boost Your Team’s Productivity by Hiring Force Multipliers
 
-a wealth of new business ideas and skills at a strong, though somewhat
+“When Steve came in, I spent a lot of time with him because the
 
-geeky, engineering-focused company. Ballmer wasn’t just an additive
+business side was important,” he said. “I got a lot of beneﬁt out of Steve
 
-hire that raised the level of internal Microsoft competence — he was a
-
-multiplicative one, galvanizing the company’s overall energy to a level of
-
-explosive growth, like a nuclear reactor reaching critical mass.
-
-A way to think about what happened at Microsoft is that Ballmer
-
-increased the talent density of the organization. His new set of skills
-
-and energy made everyone else more productive.
-
-Talent density challenges the traditional bell curve concept, which has
-
-dominated company hiring and compensation thinking for decades but
-
-which can promote acceptance of some built-in mediocrity. The talent
-
-density approach emphasizes ensuring that every hire or promotion
-
-decision is a force multiplier that boosts the team’s overall capability.
-
-It’s based on two key principles:
-
-- 1. With the right support and training, every individual can achieve
+going around and knowing what people were thinking about.”

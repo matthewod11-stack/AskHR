@@ -1,23 +1,13 @@
-## Leaning into these questions, Carlos Mendes Gonçalves, CEO of Casa
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1465a51af0f91021dbb706d6ab866548b3b7dc55
+title: H08Q8O-PDF-ENG
+---
+# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
 
-Mendes Gonçalves (CMG), one of the largest producers of vinegar and sauces in the Iberian Peninsula, has taken a very diﬀerent approach
+interactions between managers and employees from a care lens. They
 
-from leaders who have adopted a blanket approach to RTO. In multiple
+contrast three questions that one can ask about a given organizational
 
-interviews with him, we have observed that his approach to hybrid
-
-working and communicating with employees is consistent with what
-
-you would expect from a leader guided by an ethics of care.
-
-First, asking what is right, Gonçalves wondered how he could on the one
-
-hand ask the 350 factory workers to be on-site ﬁve days a week while oﬀering a hybrid model for the 100 employees in the oﬃce. So when
-
-the new HR director joined in September 2024, Gonçalves told her that
-
-she needed to implement a four-day week in the factory to compensate
-
-for the fact that factory workers cannot beneﬁt from hybrid work. This
-
-way, Gonçalves reasons, both groups get a boost to their well-being,
+policy: What is right? What works? What matters?

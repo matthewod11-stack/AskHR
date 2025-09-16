@@ -1,5 +1,31 @@
-# N. B. Yahia et al.: From Big Data to Deep Data to Support People Analytics for Employee Attrition Prediction
+---
+source_path: from_big_data_to_deep_data_to_support_people_analytics_for_employee_attrition_pr.md
+pages: n/a-n/a
+chunk_id: 9657a1b7dd90c33d83f51d59baac50f84b4dbcb0
+title: from_big_data_to_deep_data_to_support_people_analytics_for_employee_attrition_pr
+---
+## [35] A. Liaw and M. Wiener, ‘‘Classiﬁcation and regression by randomForest,’’
 
-NESRINE BEN YAHIA is currently a Doctor- Engineer in computer sciences. She is also an Associate Professor with the National School of Computer Science (ENSI), where she is a Coordi- nator of the master’s degree in smart systems and the Chief of the Information and Decision Systems Department. She participated in scientiﬁc national and international projects. Her current research interests include artiﬁcial intelligence, cooperative systems, CSCW, knowledge engineering, social networks analysis, and intelligent decision support systems. Her teaching interests include machine and deep leaning, software engineering, UML, software design, and software reengineering.
+R News, vol. 2, pp. 18–22, Dec. 2002.
 
-(Senior RICARDO Member, IEEE) received the bachelor’s, master’s, andM.B.A.degreesfromtheInstitutodeEmpresa, in 1994, 1997, and 2002, respectively, and the Ph.D. degree in computer science from the Uni- versidad Politécnica of Madrid, in 2005. He is currently a Full Professor with Østfold University College, Norway. He has been working as a soft- ware engineer, a project manager, and a software engineering consultant with several companies, including Spanish IT Leader INDRA. His research interests include applied research in information systems, software project management, people in software projects, business software, and software and services process improvement. He is also an Associate Editor in journals, like IEEE Software, IEEE ACCESS, and Computer Standards & Interfaces. He has edited several special issues in journals, like Journal of Software: Evolution and Process, Software Quality Journal, Science of Computer Programming, and Future Generation Computer Systems.
+[36] J. H. Friedman,
+
+‘‘Greedy function approximation: A gradient boosting machine.,’’ Ann. Statist., vol. 29, no. 5, pp. 1189–1232, Oct. 2001.
+
+[37] B. K. Goswami and S. Jha, ‘‘Attrition issues and retention chal- lenges of employees,’’ Int. J. Sci. Eng. Res., vol. 3, no. 4, pp. 1–6, Apr. 2012.
+
+[16] Y. Zhao, M. K. Hryniewicki, F. Cheng, B. Fu, and X. Zhu, ‘‘Employee turnover prediction with machine learning: A reliable approach,’’ in Intelli- gent Systems and Applications, vol. 869, K. Arai, S. Kapoor, and R. Bhatia, Eds. Cham, Switzerland: Springer, 2019, pp. 737–758.
+
+[38] A. H. Khan and M. Aleem, ‘‘Impact of job satisfaction on employee turnover: An empirical study of autonomous medical institutions of Pakistan,’’ J. Int. Stud., vol. 7, no. 1, pp. 122–132, May 2014, doi: 10.14254/2071-8330.2014/7-1/11.
+
+[17] X. Gao, J. Wen, and C. Zhang, ‘‘An improved random forest algorithm for predicting employee turnover,’’ Math. Problems Eng., vol. 2019, pp. 1–12, Apr. 2019, doi: 10.1155/2019/4140707.
+
+[18] S. N. Khera and Divya, ‘‘Predictive modelling of employee turnover in Indian IT industry using machine learning techniques,’’ Vis., J. Bus. Perspective, vol. 23, no. 1, pp. 12–21, Mar. 2019, doi: 10.1177/0972262918821221.
+
+[39] J. V. Beaverstock, B. Derudder, J. R. Faulconbridge, and F. Witlox, ‘‘Inter- national business travel: Some explorations,’’ Geograﬁska Annaler, B, Hum. Geogr., vol. 91, no. 3, pp. 193–202, Sep. 2009, doi: 10.1111/j.1468- 0467.2009.00314.x.
+
+[40] P. Runeson and M. Höst, ‘‘Guidelines for conducting and reporting case study research in software engineering,’’ Empirical Softw. Eng., vol. 14, no. 2, pp. 131–164, Apr. 2009, doi: 10.1007/s10664-008-9102-8.
+
+VOLUME 9, 2021
+
+60457

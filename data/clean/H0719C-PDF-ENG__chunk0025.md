@@ -1,7 +1,13 @@
-## HBR / Digital Article / How to Be a Mental Health Ally
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 450bce12fbb31c6162b71cf8fa5bce4c972b2863
+title: H0719C-PDF-ENG
+---
+# more open dialogue.
 
-Be prepared that your colleague may be defensive or try to hide their challenges. They may fear being stigmatized, a topic of oﬃce gossip.
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-So don’t insist that your colleague talk with you. Instead, gently nudge
+4
 
-them by telling them you’re available to listen if and when they want to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

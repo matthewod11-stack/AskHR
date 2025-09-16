@@ -1,21 +1,23 @@
-## performance appraisal. Public Personnel Management, 18, 127–137.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8ef954d932f35112f6f16f2c103c843a21560f4d
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Gere, D., Scarborough, E. K., & Collison, J. (2002). SHRM/
 
-Gilboa, S., Shirom, A., Fried, Y., & Cooper, C. (2008). A meta- analysis of work demand stressors and job performance: Examining main and moderating eﬀ ects. Personnel Psychology, 61(2), 227–271.
+Recruit Marketplace 2002 recruiter budget/cost survey. Alexandria, VA: Society for Human Resource Management.
 
-Gilchrist, J. A., & White, K. D. (1990). Policy development and
+Gersick, C. J. G. (1988). Time and transition in work teams:
 
-satisfaction with merit pay: A ﬁ eld study in a university setting. College Student Journal, 24(3), 249–254.
+Toward a new model of group development. Academy of Management Journal, 31(1), 9–41.
 
-Gillet, B., & Schwab, D. P. (1975). Convergent and discriminant validities of corresponding Job Descriptive Index and Minnesota Satisfaction Questionnaire scales. Journal of Applied Psychology, 60, 313–317.
+Gerstner, C. R., & Day, D. V. (1997). Meta-analytic review of
 
-Gilliland, S. W. (1993). Th e perceived fairness of selection
+leader-member exchange theory: Correlates and construct issues. Journal of Applied Psychology, 82(6), 827–844.
 
-systems: An organizational justice perspective. Academy of Management Review, 18, 694–734.
+Gibbs, C. A. (1969). Leadership. In G. Lindzey & E. Aronson
 
-Gilliland, S. W., Groth, M., Baker, R. C., Dew, A. F., Polly, L. M.,
+(Eds.), Handbook of social psychology (pp. 205–282). Reading, MA: Addison-Wesley.
 
-& Langdon, J. C. (2001). Improving applicants’ reactions to rejection letters: An application of fairness theory. Personnel Psychology, 54(3), 669–703.
-
-Gilliland, S. W., & Langdon, J. C. (1998). Creating performance management systems that promote perceptions of
-
-fairness. In Smither, J. W. (Ed.), Performance appraisal: State of the art in practice (pp. 209–243). San Francisco: Jossey-Bass.
+Giﬃ n, M. E. (1989). Personnel research on testing, selection, and

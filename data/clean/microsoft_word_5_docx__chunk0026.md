@@ -1,3 +1,9 @@
-## Revista A puntes de E ducación Física, 57, 68-76.
+---
+source_path: microsoft_word_5_docx.md
+pages: n/a-n/a
+chunk_id: 87c28ad97e714cb3ce64018924885711ccd00711
+title: microsoft_word_5_docx
+---
+# E ducación Física, 2(2), 1-8.
 
-Morgeson, F. P., Scott, D. & Karem, E. P. (2010). Leadership in teams a functional approach to understanding leadership structures and processes. Journal of M anagement, 36(1), 5- 39.
+Moreno, J.A. & Gutiérrez, M. (1999). La gestión de las instalaciones acuáticas cubiertas.

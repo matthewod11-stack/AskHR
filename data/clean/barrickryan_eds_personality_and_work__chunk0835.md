@@ -1,3 +1,9 @@
-# New Directions: Independent Variables
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 862fcd4782950035c10ff208195703a0c63cb719
+title: barrickryan_eds_personality_and_work
+---
+# 298 PERSONALITY AND WORK
 
-Another important set of choices we make when building models and conducting research is the independent variables we include. Compound variables, newly important Big Five variables such as Openness to Experience, variables more speciﬁc than Big Five vari- ables, non–Big Five variables (such as interest and emotion), group-level personality variables, and situational variables (such as type of task/team/job, ﬁt, and culture) have received some atten- tion. They deserve more.
+making under duress but not under normal circumstances. Our models should incorporate the distinction between maximum and typical performance criteria.

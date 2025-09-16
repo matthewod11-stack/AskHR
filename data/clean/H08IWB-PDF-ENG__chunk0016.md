@@ -1,23 +1,17 @@
-# HBR / Digital Article / Why Mentoring Programs Fail — and How to Make Them Worthw…
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00a3e46b466890418cfae46e2a58fc312d1bb9cf
+title: H08IWB-PDF-ENG
+---
+# Expand Access and Inclusivity
 
-mentoring is reserved for high-potential employees or those on
+For mentoring programs to achieve their full potential, they must be
 
-leadership tracks, leaving a signiﬁcant portion of the workforce
+inclusive and accessible to a wide range of employees. Traditionally,
 
-underserved. Expanding access to mentoring programs ensures that
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-more employees can beneﬁt, which not only increases engagement but
+4
 
-also strengthens the organization’s culture of support and development.
-
-To broaden access to mentoring, organizations need to implement the
-
-previous solutions we have discussed here. Stronger communication,
-
-engaging storytelling and advocacy from the leading ranks will all be
-
-key factors in securing the resources needed to implement a mentoring
-
-culture across the board. People need to truly understand, and believe,
-
-in the power of mentoring, the impact it can make on individuals,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

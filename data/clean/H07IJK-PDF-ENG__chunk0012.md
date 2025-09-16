@@ -1,9 +1,27 @@
-## HBR / Digital Article / How to Onboard Your New Boss
+---
+source_path: H07IJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ccf621f2d7051b9e8421994b90d4ab29d5663f0b
+title: H07IJK-PDF-ENG
+---
+# In practice:
 
-identiﬁed the most important historical information and shared our key
+“I knew the new VP would need access to organization charts,
 
-success metrics. We also had talent, culture, and leadership data that
+ﬁnancials, and marketing plans. However, knowing how to access this
 
-helped our new leader better understand her team. She was grateful for
+information on our intranet can be diﬃcult,” said one of the leaders we
 
-the information and found that it speeded up her acclimation.”
+surveyed. “To support our new manager, we created documents with
+
+links that helped our VP quickly access the information needed.”
+
+“Being part of a large, global organization, there are mountains of data,”
+
+said one team member. “When our new CHRO was coming, the team
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

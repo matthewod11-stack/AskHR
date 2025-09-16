@@ -1,33 +1,23 @@
-## a boring meeting room into a “laboratory” or “greenhouse” with the
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 174ed0b9483193f5b573b7451381fc3a397056ec
+title: H08DYH-PDF-ENG
+---
+## HBR / Digital Article / How a Playful Mindset Can Boost Creativity on Your Team
 
-help of local art students can provide a physical signal that the
+conversations and new ideas. Speciﬁc rooms, like the one in which
 
-space is dedicated to nurturing ideas and fostering a playful mindset.
+Pixar’s BrainTrust meets to provide feedback on creative work, are
 
-Additionally, organizations can introduce team-building practices
+deliberately set aside and designed to signal that they’re safe spaces.
 
-that encourage light-hearted, non-work-related conversations during
+This deliberate playfulness has been integral to Pixar’s continuous
 
-meetings. Set aside a few minutes at the start of each meeting for
+stream of groundbreaking ideas.
 
-team members to share something fun, like a favorite hobby or a recent
+Organizations can mimic this model. Of course, not every company
 
-adventure. These brief moments of connection can help build rapport,
+can replicate Pixar’s extensive investment in a new campus, but the
 
-reduce stress, and create a more open and collaborative environment
-
-where creativity can thrive.
-
-- 3. Incorporate playfulness strategically.
-
-Leaders should be intentional about when they use playful techniques,
-
-ensuring they align with the needs of the team and the goals of the
-
-activity. It should be seen as a tool to unlock creativity when needed,
-
-not as a constant state or just a means to an end of greater productivity.
-
-Remember that when you prioritize the well-being of your workforce,
-
-you’ll have far better odds of accomplishing your team’s long-term
+principle can be scaled to ﬁt any budget. For example, transforming

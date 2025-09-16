@@ -1,11 +1,21 @@
-# purpose GTM models.
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92de7e0cfb37a2fc763e7fc1d69b1fc60fa496b8
+title: H08FE6-PDF-ENG
+---
+# only a 1.1% decline in growth rate.
 
-Our analysis suggests there is often a better choice than an external
+The key is not necessarily to dismiss external candidates entirely, but
 
-hire: hiring from within the current organization, tapping a ﬁrst-time
+to weigh their potential contributions against the very real costs of
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+disruption. If intent on hiring from outside, look for someone who
 
-4
+has worked in a variety of commercial contexts and who shows an
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+enthusiasm for learning and adapting their approach. To put it bluntly,
+
+be careful if you’re thinking of “hiring a playbook” and instead hire a
+
+leader who excels in contextual understanding and delivering built-for-

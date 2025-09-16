@@ -1,37 +1,17 @@
-# Years of experience
-
-< 1
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 20608a255acedc871de51cc7c1376b64f02ee9f4
+title: read_online
+---
+# PhD
 
 1
 
 0
 
-1–2
-
-38
-
-12
-
-3–5
-
-77
-
-25
-
-6–10
-
-105
-
-33
-
-> 10
-
-82
-
-26
-
 Prefer not to say
 
-12
+11
 
-4
+3

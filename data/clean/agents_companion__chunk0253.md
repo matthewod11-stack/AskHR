@@ -1,15 +1,7 @@
-# Example Interaction:
-
-User: "Tell me an interesting fact about Salzburg."
-
-57
-
-General Knowledge Agent: "Salzburg, Austria is the birthplace of Mozart, one of
-
-history's most famous composers. Beyond that well-known fact, Salzburg's old town is a
-
-UNESCO World Heritage site, and parts of the beloved musical 'The Sound of Music' were
-
-filmed there in 1964. The Salzburg Festival, one of the world's most prestigious music and
-
-drama festivals, has been held there annually since 1920."
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 084e9001f2eb1665beeb4a90b076a6a1bb36e97f
+title: agents_companion
+---
+# contextual awareness.

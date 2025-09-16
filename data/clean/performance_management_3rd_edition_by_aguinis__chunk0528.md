@@ -1,13 +1,15 @@
-## 3.2.2 Developing Strategic Plans at the Unit Level
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: c1f2cd4015412ad660c1b6297de73bfc9a9e666a
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part I • Strategic and General Considerations
 
-As shown in Figure 3.1, the organization’s strategic plan has a direct impact on the units’ strategic plans. The case of Key Bank of Utah described earlier illustrates how the branch administration division had a mission statement that was aligned with the overall orga- nizational mission statement. Similarly, the vision statement, goals, and strategies of the various units need to be congruent with the overall organizational vision, goals, and strategies. Consider the case of Microsoft Corporation’s mission statement:17
+The human resources (HR) function plays a critical role in creating and implementing the strategies that will allow the organization to realize its mission and vision. Specifically, the HR function can make the following contributions:
 
-Our Mission At Microsoft, we work to help people and businesses throughout the world realize their full potential. Our Values As a company, and as individuals, we value:
+- Communicate knowledge of strategic plan. The HR function can be a good conduit to communicate the various components of the strategic plan (e.g., mission, vision, and goals) to all the employees.
 
-- Integrity, honesty, openness, personal excellence, constructive self-criticism, continual self-improvement, and mutual respect.
+- Outline knowledge, skills, and abilities (KSAs) needed for strategy implementation. The HR function, through job analyses and the resulting job descriptions, serves as a repository of knowledge regarding what KSAs are needed for a successful imple- mentation of the strategic plan. Thus, the HR function is in a unique situation to provide information about whether the current workforce has the KSAs needed to support the strategic plan and, if not, to offer suggestions about what types of employees should be hired and what types of plans should be put in place to develop the needed KSAs internally.
 
-- We are committed to our customers and partners and have a passion for technology.
-
-- We take on big challenges, and pride ourselves on seeing them through. We hold ourselves accountable to our customers, shareholders, partners, and employees by honoring our commitments, providing results, and striving for the highest quality.
-
-Now, consider the mission statement of one of Microsoft’s units, Training and
+- Propose reward systems. The HR function can provide useful information on what type of reward system should be implemented to motivate employees to support the strategic plan.

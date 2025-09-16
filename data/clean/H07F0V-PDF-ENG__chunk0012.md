@@ -1,7 +1,7 @@
-# Be Age-Appropriate
-
-A conversation with a four-year-old will obviously be very diﬀerent
-
-than one with a teenager. With younger kids, terminology matters a
-
-lot. Try to speak in terms they understand — something like “Mom won’t be going into the oﬃce for a little while.” And try to avoid certain
+---
+source_path: H07F0V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7a26bac499ad99a1599e8caf1464cefed491e67
+title: H07F0V-PDF-ENG
+---
+# stress.

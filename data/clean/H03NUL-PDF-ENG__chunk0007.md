@@ -1,49 +1,19 @@
-# HBR / Digital Article / Tech Companies Should Speak Up for Refugees, Not Only High-S…
+---
+source_path: H03NUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f062fc0b52ced9fa673132f1fd08b5ac8c2b1dc7
+title: H03NUL-PDF-ENG
+---
+## digital services for safety and survival.
 
-across the Middle East and North Africa. Services like Google Maps,
+In researching migration and the refugee crisis in Europe, my team
 
-Facebook, WhatsApp, Skype, and Western Union have helped refugees
+and I interviewed over 140 refugees from Syria, and I’ve learned
 
-ﬁnd missing loved ones or locate safe places to sleep. Mobile phones
+that technology has been crucial to those ﬂeeing war and violence
 
-have been essential — refugees have even used them on sinking boats to
+Copyright © 2017 Harvard Business School Publishing. All rights reserved.
 
-call rescue oﬃcials patrolling the Mediterranean.
+1
 
-Refugees’ reliance on these platforms demonstrates what tech
-
-companies often profess: that innovation can empower people to
-
-improve their lives and society. Tech companies did not intend for their
-
-tools to facilitate one of the largest mass movements of refugees in
-
-history, but they have a responsibility to look out for the safety and
-
-security of the vulnerable consumers using their products.
-
-Some tech companies have intervened directly in the refugee crisis.
-
-Google has created apps to help refugees in Greece ﬁnd medical
-
-facilities and other services; Facebook promised to provide free Wi-Fi
-
-in U.N. refugee camps. A day after President Trump issued the ﬁrst
-
-travel ban, which initially suspended the U.S. Refugee Admissions
-
-Program, Airbnb announced it would provide free housing to refugees
-
-left stranded.
-
-Notable tech leaders have spoken out against policies that turn away
-
-refugees. Soon after the ban, Facebook CEO Mark Zuckerberg wrote on
-
-his personal page, “We should also keep our doors open to refugees
-
-and those who need help.” He noted that his wife’s family came to the
-
-U.S. as refugees. Brian Chesky, CEO of Airbnb, tweeted, “Not allowing
-
-countries or refugees into America is not right, and we must stand with those who are aﬀected.” And Google cofounder Sergey Brin joined
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

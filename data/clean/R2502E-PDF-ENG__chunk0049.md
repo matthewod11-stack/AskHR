@@ -1,13 +1,13 @@
-# dialogue with the tools.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b099937a230395f8bcf11a264331bd060fe5d1ff
+title: R2502E-PDF-ENG
+---
+# essential.
 
-Pilot new technology use cases. There are many actions women can
+One of the unique advantages of gen AI is that anyone can be a power
 
-take to gain gen AI experience capital that do not require a technical
+user—the technology is complex to create but easy to apply. The basic
 
-background. Seeking out opportunities and demonstrating that you
-
-are a committed early adopter can give you visibility and leadership
-
-opportunities in your organization. Parts of the process you might
-
-experiment with include technology design, user experience design,
+prerequisite is simply the ability to ask good questions and have a

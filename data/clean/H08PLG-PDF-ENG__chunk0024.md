@@ -1,5 +1,23 @@
-## experience displacement and income loss, while occupations and roles
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84c7e2de8c76a49c93244ceabc621b34e20f9af3
+title: H08PLG-PDF-ENG
+---
+# Income Divide
 
-complementary to AI can expect productivity gains and income boosts.
+AI’s adoption is projected to increase the productivity of certain workers
 
-Company leaders should consider several options to mitigate the
+while making others’ work redundant—a shift poised to accelerate
+
+income inequalities. Half of Americans are concerned that AI will
+
+lead to greater income inequality, and it’s easy to see why: The IMF
+
+projects that almost 40% of jobs worldwide will be aﬀected by the
+
+technology. More conservatively, MIT’s Acemoglu expects 5% of all
+
+tasks will be proﬁtably performed by AI in the next decade. People in
+
+occupations exposed to AI with roles that are highly substitutable will

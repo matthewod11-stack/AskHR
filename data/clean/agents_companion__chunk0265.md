@@ -1,7 +1,7 @@
-# In this variation of the hierarchical pattern, responses from specialized agents pass
-
-through a central moderation agent before reaching the user. For instance, the Navigation
-
-Agent generates a factual response about a nearby restaurant, which then goes through
-
-a Rephraser Agent that adjusts the tone and style based on user preferences before
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: fbdfe3f183ea5b1040a8cd15cfc0bb182daea77a
+title: agents_companion
+---
+# Diamond Pattern

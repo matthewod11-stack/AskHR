@@ -1,7 +1,7 @@
-## for the mental and physical health of aﬀected employees. They would
-
-allow employees freedom of expression on the issue while barring
-
-advocacy that would violate human rights.
-
-Our new era calls for sharper, more limited corporate commitments,
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80346bbeb7727adb06989e0ac5637b16928651ee
+title: H07ZZW-PDF-ENG
+---
+## humanitarian support for victims of the conﬂict and immediate concern

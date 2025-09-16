@@ -1,3 +1,15 @@
-# 314 Abnormal Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3876e9cf3dd8b05dbbbdc05b345562143acb95ba
+title: untitled
+---
+## The Middle Ages to the Eighteenth Century
 
-family members and friends and discovered that he was able to induce a trance state. He identiﬁed a trance as nervous sleep and coined the term hypnosis for the induced state (see Braidism, Oxford English Dictionary).
+Mesmer moved to Paris and in 1778 established a treat- ment salon. His famous tub, placed in the center of the salon, contained wine bottles ﬁlled with “magnetized” water covered with an iron lid pierced through with holes. From each of the holes issued a long movable iron rod that the patients applied to the parts of their body afﬂicted with pain or disease. The patients sat in a circle around the tub as close together as possible; they held each other by the hand and pressed their knees together in order to facilitate the passage of the magnetic ﬂuid from one to another. Well built, handsome young men circled the patients, pouring onto them fresh streams of invisible “magnetic” ﬂuid from the tips of their ﬁngers; they also rubbed the patients down their spines and gazed into their eyes. All this passed in si- lence except for occasional swelling notes from a glass harmonica or a hidden singer. After an hour or two of this, one or more of the patients began to convulse in epileptic- like ﬁts. At this point, Mesmer himself appeared, dressed in a richly embroidered silk robe and waving a wand, and the remaining patients, some sobbing, others laughing or screaming, all subsided into somnambulistic trances. When the patients regained consciousness, they described feeling streams of cold or burning vapor passing through their bod- ies and reported that their ailments were cured (Tinterow, 1970). Mesmer’s therapeutic technique, known as mes- merism gained great popularity, but was vigorously criti- cized by the leading members of the academic, scientiﬁc, and medical establishments of the day, and by the clergy, some of whom claimed he was in league with satanic forces (Darnton, 1968).
+
+In 1784, by order of King Louis XVI, a joint commission was appointed from the Faculty of Medicine in Paris and the Royal Academy of Science to investigate the claims of the Mesmerists. Benjamin Franklin presided over the commis- sion (chosen because of his investigations of electricity), which included the French scientists Lavoisier and Guillotin. The commission did not question Mesmer’s results but did dispute the claim that Mesmerists could manipulate a mag- netic ﬂuid. They concluded that Mesmer’s claimed forces did not exist and that the Mesmerists’ apparent successes could be explained by suggestion and imagination.
+
+Although the commission’s report invalidated the extrav- agant claims made by Mesmer and his followers, the facts of his apparent cures were left unexplained. James Braid (1795–1860), a British surgeon, like most reputable physi- cians, had dismissed the mesmerists’ practice as mere chicanery and the behavior of their mesmerized subjects as voluntary simulation. However, after attending several public exhibitions of mesmerism he became convinced the phenom- ena he was observing were real. Braid experimented with
+
+313

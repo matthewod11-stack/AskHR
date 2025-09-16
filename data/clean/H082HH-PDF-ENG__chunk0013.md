@@ -1,19 +1,13 @@
-## HBR / Digital Article / The Missing Link Between Strategy and Innovation
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26a8a4be7871f6802c91a8a732d8ad2059988396
+title: H082HH-PDF-ENG
+---
+## senior executives over several years about their strategy, innovation
 
-process, and transformation of the business. The company has decided
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-that a key customer problem to solve is online ordering of groceries — a
+2
 
-category that is important to Walmart’s business, and where the existing
-
-customer experience has left much to be desired.
-
-The opportunity lens is another way to deﬁne a strategic growth
-
-priority. This could be an opportunity for the business to expand
-
-into a new market or sector (such as Amazon’s decision to explore
-
-cloud computing, which ultimately led to the launch of Amazon Web
-
-Services). Or it could be an opportunity to delight the customer with an
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

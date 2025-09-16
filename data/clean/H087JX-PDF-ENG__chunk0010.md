@@ -1,15 +1,15 @@
-# What the Experts Say
+---
+source_path: H087JX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a44d51bd72ffa0fb8400f4af417b62d0f29c3f0e
+title: H087JX-PDF-ENG
+---
+# HBR / Digital Article / When Someone You Manage Isn’t Following the Return-to-Offic…
 
-According to a survey by ResumeBuilder.com, 90% of companies with oﬃce space will put in place RTO policies by the end of this year, with
+So, what should you do about team members who are still dragging
 
-most tracking employee attendance. These decisions thrust managers in
+their feet? How can you maintain a positive work environment without
 
-the center of a protracted RTO battle, tasking them with implementing
+causing unnecessary tension? And how can you eﬀectively address your
 
-policies they had no hand in creating and might not fully support.
-
-But even if you have reservations about your employer’s rules and
-
-deeply sympathize with employees who are struggling with the policy,
-
-you must make a concerted eﬀort to embrace it, says Art Markman, a
+employees needs, while also following company policy?

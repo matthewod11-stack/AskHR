@@ -1,47 +1,29 @@
-## HBR / Digital Article / How to Respond When a Big Decision Provokes Backlash
+---
+source_path: H08VFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3cc53b596a77db9a94520550f59fef1699f3cbd
+title: H08VFX-PDF-ENG
+---
+# Reframe resistance.
 
-At ﬁrst, Rick took the department heads’ concerns as a referendum
+When people are upset with you, your brain assumes you must have
 
-on his leadership, spending meeting after meeting defending his
+done something wrong. You take it personally, when in fact, most of the
 
-credentials and explaining his rationale. But putting their reactions
+time, people’s reactions have less to do with you and more to do with
 
-into context helped Rick develop more compassion and cooled his own
+their own fears. According to change management researcher William
 
-defensiveness. He realized that the public works director was wrestling
+Bridges, any transition begins with an “endings” phase, where people
 
-with losing the inﬂuence he’d held for 15 years. The planning manager
+grieve what they’re losing before they embrace what they’re gaining. In
 
-was processing the reality that her gatekeeping role was about to
+other words, the backlash you’re experiencing is a natural byproduct of
 
-diminish. Rick could also more rationally explore whether his plan was
+processing the end of something familiar.
 
-sound or if their feedback contained valid concerns worth addressing.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Acknowledge the discomfort without apologizing.
+2
 
-You can validate someone’s experience and not backtrack on moving
-
-the organization toward its goals. Try statements like these to show that
-
-you’re listening without signaling that you’re open to reversing course:
-
-- I understand that this shifts how you’ve been operating and that’s
-
-hard. I’m committed to supporting you.
-
-- This changes how we work with the client. I recognize that and I
-
-appreciate us working through it together.
-
-- It’s a new process and is deﬁnitely more involved than what you’re
-
-used to. Help me understand where you’re getting stuck.
-
-Notice that you are not apologizing for any mistake or inconvenience,
-
-nor are you agreeing that you may have moved too fast. Instead,
-
-showing that you empathize with the impact while making it clear the
-
-decision still stands and isn’t up for debate.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

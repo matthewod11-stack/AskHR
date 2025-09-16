@@ -1,13 +1,19 @@
-# after-action reviews.
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2dabbd0f25ce9fb5c83f0170d23408354287f257
+title: H07UPN-PDF-ENG
+---
+## to share questions, struggles, mistakes, ideas, insights, or feedback.
 
-- Put systems in place, such as daily standups, to remind individuals
+- Ensure checklists include steps to reﬂect on what went well, what
 
-and teams of what they’re working to improve and how.
+didn’t, and what to try diﬀerently moving forward.
 
-- 3. Model being a learner.
+- Teach people that when a standard procedure or template leads to a
 
-At the beginning of my keynotes, I often ask attendees how they
+mistake, they should ask how the process or tool could be changed to
 
-want their colleagues to perceive them. Their answers encompass
+avoid repeating the error.
 
-positive qualities such as being trustworthy, collaborative, accountable,
+- Make it standard practice for projects to incorporate mid-action and/or

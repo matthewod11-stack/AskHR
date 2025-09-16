@@ -1,1 +1,7 @@
-# Figure (cid:1008).(cid:1011): Le(cid:448)el of satisfa(cid:272)tio(cid:374) of e(cid:373)plo(cid:455)ee repri(cid:373)a(cid:374)d s(cid:455)ste(cid:373)
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 601e62ea8b58c5f38a09f8a731042c78f61dad67
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Higly dissatisfied

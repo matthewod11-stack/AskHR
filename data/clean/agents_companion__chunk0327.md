@@ -1,5 +1,17 @@
-# Available at: https://github.com/google-research/google-research/tree/master/scann.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 59b2ed31ecf89131c7c5a5968957c02919bf2fdb
+title: agents_companion
+---
+## Available at: https://arxiv.org/abs/2305.08291.
 
-- 12. LangChain. 'LangChain'. Available at: https://python.langchain.com/v0.2/docs/introduction/.
+- 8. Google. 'Google Gemini Application'. Available at: http://gemini.google.com.
 
-- 13. Sokratis Kartakis, 2024, 'GenAI in Production: MLOps or GenAIOps?'. Available
+- 9. Swagger. 'OpenAPI Specification'. Available at: https://swagger.io/specification/.
+
+- 10. Xie, M., 2022, 'How does in-context learning work? A framework for understanding the differences
+
+fromtraditional supervised learning'. Available at: https://ai.stanford.edu/blog/understanding-incontext/.
+
+- 11. Google Research. 'ScaNN (Scalable Nearest Neighbors)'.

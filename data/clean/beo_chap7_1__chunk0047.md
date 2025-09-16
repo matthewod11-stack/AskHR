@@ -1,19 +1,31 @@
-## 7.2.6 Firms May Be Biased in Judging the Cause of Performance
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 29d04a602442b019ea82072fee3360c920eb7237
+title: beo_chap7_1
+---
+# with prosocial behavior.
 
-In the standard agency model laid out above, agents exert effort which is productive, but principals can only observe agents’ output. Observed output depends on unob-
+Leaving aside crowding out, monetary incentives could also affect performance
 
-served effort and unobserved “luck.” The usual assumption is that principals know
+negatively if high incentives create arousal that inhibits automatic responses or cre-
 
-the relative importance of effort and error in determining output, and also anticipate
+ates distraction (e.g., “choking under pressure”). According to the “Yerkes—Dodson
 
-the agents’ reaction to knowing their effort is not clearly observed.
+Law” (Yerkes and Dodson 1908), arousal increases performance up to a point at
 
-This simple assumption buries a lot of behavioral economics. Separating skill
+which further arousal degrades performance. Ariely et al. (2003) demonstrate this
 
-from luck is difficult. As a result, it is quite possible that psychological forces bias
+effect with experiments conducted in India. They allowed their subjects to earn up to six months of wages® in various simple games. Surprisingly, the subjects with
 
-principals’ judgments of whether output is due to skill or luck. Three important
+the highest payment perform worse than those with the moderate and the low pay-
 
-psychological forces suggest that separating hard work from luck will often be
+ment in almost all games. It is, of course, unclear how relevant this effect is for the
 
-biased in predictable ways: hindsight bias; overattributing cause to personal traits
+economics of organizations, given actual wage-setting and reward policies. Even if
+
+the effect were prevalent, wage-setters may account for it and adjust wages appro-
+
+priately. Moreover, if experience with high-stakes situations decreases arousal, the
+
+effect may only apply to inexperienced agents.

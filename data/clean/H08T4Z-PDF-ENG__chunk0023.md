@@ -1,33 +1,15 @@
-# private equity ﬁrm.
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5c297cb998f6c371d499ac516ac36ecac740572
+title: H08T4Z-PDF-ENG
+---
+## support from his boss, and deep expertise in M&A and capital markets—
 
-Have you mastered your emotions?
+all qualities that would serve him well as CFO of Dude Wipes. As Sean
 
-Without emotional regulation, it’s hard to get the economics right. The
+said, “You can always go back and get another investment banking job.”
 
-hardest part of quitting isn’t inconsistent cash ﬂow but the constant
+Dude Wipes did $219 million in retail revenue in 2024 and just recently
 
-self-doubt, imposter syndrome, and loneliness. Your emotions can
-
-wreak havoc on your pricing by causing you to undervalue your product or service and oﬀer discounts before a customer even asks.
-
-Nick Bennett teaches other solopreneurs how to make the leap, by
-
-providing concrete strategies to scale but also coaching to manage all
-
-the negative voices and emotions. When Nick was building his business,
-
-he realized that running with others on the same journey was crucial.
-
-He built a text thread with three other entrepreneurs that eventually
-
-grew to a Slack channel of over 50. While he was successful in his
-
-coaching and consulting, he realized the power of community and saw
-
-an opportunity to meaningfully raise his price vis-a-vis his time. He and his partner created an oﬀer that generated $30,000 in one weekend.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+closed a signiﬁcant minority investment from a leading consumer

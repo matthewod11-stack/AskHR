@@ -1,9 +1,19 @@
-# resilience, for instance.
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e91a99a6fdbf2d56fc4065fbfcc712797dd53517
+title: R2504D-PDF-ENG
+---
+# Grow Rapport
 
-Business leaders can adopt this approach by designing meaningful joint
+Seasoned negotiators create what diplomats call “positive peace”
 
-ventures that bring people together. Such projects promote positive
+between the parties in a dispute: They don’t just end the conﬂict; they
 
-engagement and build a rapport that can endure, and even grow, during
+help foster strong collaborative relationships. They incorporate into
 
-moments of tension. The goal is to establish a high ratio of positive to
+agreements measures that will increase each side’s conﬁdence in the other, knowing that every positive interaction will help build a buﬀer
+
+against future crises. Mediators often pair ceaseﬁre talks with initiatives
+
+like cultural exchanges or joint economic projects that boost trust and

@@ -1,7 +1,17 @@
-## ality inventory. Journal of Social Psychology, 4, 387–405.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2891f996fdfff0159e256c0cb558f0c9ce9ae83b
+title: untitled
+---
+# New York: Longmans, Green.
 
-Bertaux, D. (1981). Biography and society: The life history ap-
+Benjamin, L. T., DeLeon, P. H., & Freedheim, D. K. (2002). Psy- chology as a profession. In I. B. Weiner (Gen. Ed.) & D. K. Freedheim (Vol. Ed.), Handbook of psychology: History of psy- chology, Vol. 1. New York: Wiley.
 
-proach in the social sciences. Beverly Hills, CA: Sage.
+Bernard, L. L. (1932). Social psychology in the United States. Soci-
 
-Bills, A. G. (1938). Changing views of psychology as science.
+ologus, 8, 257–280.
+
+Bernard, L. L. (1945). The teaching of sociology in the United States in the last ﬁfty years. American Journal of Sociology, 50, 534–548.
+
+Bernreuter, R. G. (1933). The theory and construction of the person-

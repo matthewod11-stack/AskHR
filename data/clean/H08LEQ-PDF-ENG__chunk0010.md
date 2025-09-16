@@ -1,19 +1,15 @@
-# from recommendations.
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e580b9fb291cdf7d28ad8f89db063e634e2cec02
+title: H08LEQ-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Is Changing How Companies Work
 
-Even the thumbnail images for each title oﬀered on a Netﬂix viewer’s
+time of day that users watch content. This allows Netﬂix to oﬀer highly
 
-screen are personalized: AI is used to create and select which thumbnail
+personalized recommendations, ensuring that each user’s experience is
 
-images — drawn from the tens of thousands of still frames that
+unique and engaging. This AI-driven level of personalization has been
 
-each movie comprises — would best engage which viewers. Further
-
-personalization is achieved through adaptive bitrate streaming, using
-
-AI to dynamically optimize the quality of streaming based on the
-
-user’s internet speed and device capabilities. This approach minimizes
-
-buﬀering, ensures the kind of smooth viewing experience that’s
-
-essential for maintaining user satisfaction, and reduces customer
+wildly successful, with up to 80% of content watched on Netﬂix coming

@@ -1,15 +1,7 @@
-# Subsidize fi tness center dues
-
-36
-
-Provide on-site fi tness center
-
-21
-
-Off er a stress-reduction program
-
-14
-
-Off er a weight-loss program
-
-31
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 66ef1800d59969eedd9678eb35ef95f7f64ffaef
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Sponsor sports teams

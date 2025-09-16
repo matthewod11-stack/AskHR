@@ -1,23 +1,19 @@
-# também
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: ee26eb29ddbeb0c12044aae08f15d74a47e5bf45
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Presidência, Vice-Presidência e Diretoria - apresenta idade média de 38 anos, a
 
-conhecidos por millennials, termo usado para se referir a uma pessoa nascida entre
+mais alta quando o recorte considerado é o de idade por cargo. Daí em diante, a
 
-1981 e 1996, apesar destes anos poderem variar de acordo com diferentes fontes
+média vai decrescendo conforme se desce na hierarquia. Para gerentes, a média é
 
-por um ou dois anos. O termo foi utilizado pela primeira vez no livro Generations, de
+de 35 anos; coordenadores, 32 anos; supervisores, especialistas e analistas, 31
 
-1991, por William Strauss e Neil Howe, que julgaram-no um nome apropriado para
+anos; assistentes, 29 anos; estagiários e jovens aprendizes, 21 anos. A partir destes
 
-a primeira geração a atingir a fase adulta no novo milênio (ZELAZKO, 2023).
+dados, podemos entender, portanto, que a empresa em questão tem seu corpo de
 
-Entre os funcionários da empresa estudada, 23% têm menos de um ano de
-
-vínculo empregatício com a empresa, estando cerca de metade deles ainda nos
-
-37
-
-seus primeiros seis meses (12%). Outros 37% dos funcionários estão no seu
-
-segundo ano de companhia, entre 13 e 24 meses. 22% têm entre 25 e 36 anos de
-
-casa e apenas 18% já estão na empresa há mais de três anos. Ou seja, 60% da
+funcionários formado majoritariamente por pessoas da geração Y,

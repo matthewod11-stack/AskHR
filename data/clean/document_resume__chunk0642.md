@@ -1,5 +1,11 @@
-# There
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: f064409f00912c25ed24213d957bfbb6f0ddbae3
+title: document_resume
+---
+# viduals.
 
-relationship between employ ee and (win ..user/ supervisor, i.e., there are two wfferent L lasses of people, eaLh with his /he! own L us toms and rituals, trying to communicate but possibly not understanding where each is coming from. Thus, both may fall back on societal norms and scripts and may never actually communicate.
+Poor listeners are not good communicators. The non evaluative feedback rule can help open the lines of Lommum Lawn and assume that all the meaning int,nded by the sender is received by the receiver.
 
-9.
+8.

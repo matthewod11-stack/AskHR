@@ -1,13 +1,17 @@
-## your family, at school, in religious contexts, and then ultimately at the
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9727e743dc2d88db8eb517eaeb9e3377aebf5e50
+title: H081NE-PDF-ENG
+---
+# Power
 
-workplace. Now imagine that as a young adult, you work at a startup
+To varying degrees across cultures, power shapes the perceived
 
-in the U.S., where building connections with superiors is normal and
+boundaries of relationship building, particularly around who can have
 
-even expected. You might ﬁnd yourself in the breakroom between
+relationships with whom, at what level, and who takes the lead. Imagine
 
-meetings, where people are casually making small talk, laughing, and
+that you come from a hierarchical culture, like South Korea, where
 
-joking across seniority levels. It might be hard for you to enter the
-
-fray to connect with your boss; it may even feel inappropriate and
+you were taught to show great respect and deference to elders — in

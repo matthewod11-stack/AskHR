@@ -1,9 +1,19 @@
-## Approach succession proactively and strategically. The nonfamily
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7f6e6690738fcb0754b78d7baa275064bc9e352
+title: F2401A-PDF-ENG
+---
+# Best Practices for Succession
 
-ﬁrms in the study hired new leaders reactively, usually after sharp
+First, a caveat: These practices are far from ubiquitous among family
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+ﬁrms. When the researchers looked at CEO transitions and outcomes
 
-2
+at smaller family businesses, they found a very diﬀerent picture. Eighty-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+four percent of those ﬁrms’ CEOs were family members, compared with
+
+only 13% for large family ﬁrms. The smaller ﬁrms didn’t see the same
+
+superior outcomes, and they too could beneﬁt from the guidance below.

@@ -1,23 +1,15 @@
-## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8da53b29189684872116ade95087b53c40625c0
+title: S24042-PDF-ENG
+---
+## his successor with a clear mandate: Integrate that business. The new
 
-merged the two businesses, both operationally and culturally. That
+CEO embraced the mandate during her ﬁrst two years and skillfully
 
-accomplishment earned her the trust she needed for a more radical
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-growth agenda, which she was then able to pursue in the years that
+7
 
-followed.
-
-Align your team. The most successful new CEOs recognize that to win
-
-others’ conﬁdence early on, they have to focus right away on assembling
-
-a high-performing leadership team. But all too often new CEOs delay
-
-that task, which doesn’t grab headlines the way the launch of bold new initiatives does—and can involve making diﬃcult decisions about
-
-senior personnel. The problem is, if you don’t have a team in place
-
-that’s cohesive, in agreement on objectives, and able to act eﬀectively in
-
-support of your plans, it’s almost impossible to gain people’s conﬁdence
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

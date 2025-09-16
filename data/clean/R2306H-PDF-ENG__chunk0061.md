@@ -1,7 +1,17 @@
-## team of technology leaders and managers at one consumer products
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e77c16d4a0a9f1412d3aed1481339f3520481c4
+title: R2306H-PDF-ENG
+---
+## HBR / Magazine Article / Harness Your Network to Unlock Innovation
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+See more HBR charts in Data & Visuals on HBR.org.
 
-14
+Introducing an idea to sequential circles of selected critics also
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+lowers the risk that it will encounter strong pushback from skeptical
+
+stakeholders. Many leaders underestimate how far an organization will
+
+go to protect the status quo and resist their ideas. That’s something a

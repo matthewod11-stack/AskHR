@@ -1,5 +1,15 @@
-## on Nevo," Journal of Educational Measurement 24 (Spring 1987), pp. 82-83.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 10eccbde9cf961ecd1ee3e8689b55d6b58a37e18
+title: document_resume
+---
+## "Uniform Guidelines on Employee Selection Procedures," Federal Register
 
-- 40. Donald T. Campbell and Donald W. Fiske, "Convergent and Discriminant Validation by the Multitrait Multimethod Matrix," Psychological Bulletin 56 (January 1959), pp. 81-105.
+43 (August 25, 1978), pp. 38302-38303.
 
-- 41. Charles E. Osgood, George J. Sum, and Percy H. Tannenbaum, The
+- 38. Baruch Nevo, "Face Validity Revisited," Journal of Educational Measure-
+
+ment 22 (Winter 1985), pp. 287-293.
+
+- 39. Charles Secolsky, On the Direct Measurement of Face Falidity. A Comment

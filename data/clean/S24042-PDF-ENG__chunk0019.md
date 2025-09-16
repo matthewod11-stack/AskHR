@@ -1,23 +1,33 @@
-# leadership.
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f5fb591aaccdc59182343275af9dcdb02d21355
+title: S24042-PDF-ENG
+---
+# A Marathon, Not a Sprint
 
-When Mahesh found himself caught in the speed trap as a new CEO
+Few things instill more conﬁdence than a strong track record does, yet if
 
-at Bacardi, he freed himself from time pressures by making sure all
+you’re a new CEO, you start with a blank slate. So how to proceed? We’ve
 
-his stakeholders appreciated that they were at the very beginning of a
+identiﬁed six key practices that you should apply systematically.
 
-marathon. Assuming the helm after spending 20 years at the company
+Set a deliberate pace. This is crucial. We’ve worked with many new
 
-and on the heels of several short-tenured CEOs, he recognized that
+CEOs who, feeling the pressure to deliver quick wins, hit the ground
 
-Bacardi was unstable, lacked a long-term strategic outlook, and had a
+at a full sprint, launching a variety of initiatives and pursuing multiple
 
-culture that didn’t support its stated values. So at the outset he made it
+objectives without having secured the alignment of the board, their
 
-clear—with the board, the ownership family, and the company—that he
+leadership team, or other key stakeholder groups. Needless to say, that
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+approach backﬁres because the race they’re running is not a sprint but a
 
-5
+marathon. A marathon requires patience, endurance, and a sustainable
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+long-term strategy. In a marathon time is on your side. You need to go
+
+slow to go fast. Accepting that idea and pacing yourself accordingly will
+
+allow you to steady your eﬀorts and help others develop faith in your

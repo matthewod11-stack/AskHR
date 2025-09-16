@@ -1,9 +1,15 @@
-## Posthuma, R. A., Morgeson, F. P., & Campion, M. A. (2002).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2da6e15b5f8e109044abe6fb180c3163414678e0
+title: industrial_organizational_psychology_an_applied_approach
+---
+# performance. Homewood, IL: Dorsey.
 
-Beyond employment interview validity: A comprehensive narrative review of recent research and trends over time. Personnel Psychology, 55(1), 1–81.
+Porter, S. R., (2004). Raising response rates: What works? In
 
-Pratt, A. K., Burnazi, L., LePla, L. A., Boyce, A. M., & Baltes, B. B. (2003). Relationship between sexual harassment and negative outcomes: A meta-analysis. Poster presented at the 18th annual meeting of the Society for Industrial and Organizational Psychology, Orlando, Florida.
+Stephen R., Porter (Ed.) Overcoming survey research problems. San Francisco: Jossey-Bass.
 
-Premack, D. (1963). Prediction of the comparative reinforcement values of running and drinking. Science, 139, 1062–1063.
+Posner, B. Z., Hall, J. L., & Munson, J. M. (1991). A ﬁ rst look
 
-Presser, H. B. (2000). Nonstandard work schedules and marital
+at the beneﬁ ts of educational beneﬁ ts programs. Applied H.R.M. Research, 2(2), 128–152.

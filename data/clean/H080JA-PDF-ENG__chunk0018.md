@@ -1,15 +1,19 @@
-# leverage key talent and potential.
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 565ec764d230ade2240100cdc94a6b3d9b15419b
+title: H080JA-PDF-ENG
+---
+# Redefine Ambition
 
-Additionally, junior women who observe their senior colleagues succeed
+What does ambition look like? When we ask our clients about their
 
-by trading away a personal life will come to believe that they must make
+ambition, they say they strive to set and achieve challenging goals,
 
-the same transaction — and, more concerning, that if they fail to do so,
+exceed their own and others’ expectations, and pursue leadership roles
 
-they’re simply not ambitious.
+that connect them to the power and resources to drive change. A black-
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+and-white approach to ambition, which measures it in terms of time
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and intensity while ignoring women’s wider context, will simply fail to

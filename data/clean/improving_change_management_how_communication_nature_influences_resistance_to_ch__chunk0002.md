@@ -1,7 +1,9 @@
-# https://hal.science/hal-00802173v1
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 54d24840a90b476a4d01dde2a726c093e58e9382
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# IMPROVING CHANGE MANAGEMENT: HOW
 
-Preprint submitted on 19 Mar 2013
-
-HAL is a multi-disciplinary open access archive for the deposit and dissemination of sci- entific research documents, whether they are pub- lished or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers.
-
-L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés.
+HAL Id: hal-00802173

@@ -1,19 +1,35 @@
-## there a manager (perhaps your own) or another leader in the company
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e923eba25c55dab1918bfbb402c4408146d6999
+title: H087DJ-PDF-ENG
+---
+# my life?
 
-who you believe will listen? Often, a company has identiﬁed someone in
+- Is the way I am feeling or the thoughts I am experiencing preventing
 
-HR to assist employees with mental health concerns. When you ask for
+me from doing the things I want to do?
 
-help, be speciﬁc. Do you want a therapist, a group, a class? Whatever you
+- Is the way I am feeling or the thoughts I am experiencing making it
 
-believe will work best for you, ask for it. It’s OK if you don’t know what
+difﬁcult for me to be present in any or all aspects of my life?
 
-to ask for or what type of intervention you want. You can simply say,
+If the answer to any of these questions is yes, it is time to pay closer
 
-“I’ve noticed that I’ve been more anxious (or stressed, angry, depressed)
+attention to your mental well-being and ask for support and help.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Asking for help is not always easy. The interaction between racism,
 
-4
+cultural mistrust, and onlyness can make it feel like a sign of weakness,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+like mental health is a problem you cannot solve on your own. When
+
+you feel this way, remind yourself that mental health is health — if you
+
+had a problem with your body, you wouldn’t hesitate to get help. Your
+
+mental health should be no diﬀerent, and not seeking help when you
+
+need it allows the sense of shame and weakness to fester.
+
+The ﬁrst step in asking for help is identifying the best person to ask. Is

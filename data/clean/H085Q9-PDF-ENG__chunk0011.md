@@ -1,13 +1,27 @@
-## HBR / Digital Article / 6 Mistakes Leaders Make When Announcing Layoffs
+---
+source_path: H085Q9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0ce5d4d49f77017daae5fc1912de4aea28a7eee
+title: H085Q9-PDF-ENG
+---
+# this.
 
-and their questions are taken seriously. Healing takes time, patience, and persistent eﬀort. Think of every conversation as an opportunity to
+As an in-house executive and now as a CEO coach, I’ve had to remind
 
-re-recruit those who stay.
+some leaders that although they have been living with the tough news for a while and may be ready to move on, the layoﬀs are a raw wound for
 
-They don’t bring middle management on board.
+the rest of the organization. Creating space for questions demonstrates
 
-Employees will likely direct most of their questions to their managers.
+transparency and openness from leadership, which can build trust with
 
-So it’s critically important to give middle managers the information
+employees. Allowing for honest discussion can address concerns and
 
-they need about the business case and future vision, so they can address
+anxiety, provide clarity and understanding, and foster engagement and
+
+ownership by employees when they feel that their voices are heard
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

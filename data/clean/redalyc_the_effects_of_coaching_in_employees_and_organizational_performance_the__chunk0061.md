@@ -1,15 +1,33 @@
-# 3.2.2. Coaching
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 2fb5041c4be6806033817af22069290c5b3557ec
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## 3.2.1. Organisational support and antecedents
 
-We used three variables to build the coaching construct, which we borrowed, in unmodified
+The variables that were used to build the organisational support and antecedent construct
 
-form, from Olivero, Bane and Kopelman (1997) and Gould (1997). The first variable is “The
+were drawn from the works of Salinero and Muñoz (2007) and Chand and Katou (2007). The
 
-organisation sometimes employs a personal coach to help workers improve their performance
+results of the exploratory factor analysis are as follows. The first variable of this factor is “Are
 
-in a short-term process”. This variable has a factor weight of 0.863. The second variable is
+individual training and development needs analysed?” This variable has a weight of 0.756. The
 
-“Coaching processes are programmed by the organisation”, with a weight of 0.886. The third
+second variable is “Does the company attempt to improve the skills and knowledge of
 
-variable is “The coach comes from outside of the firm”, which has a weight of 0.696. The
+employees?”, and the weight of the factor is 0.718. The third variable is “Are coaching and
 
--176-
+training plans essential for the company?” The weight of the factor for this variable is 0.641.
+
+The fourth variable is “Does this process occur regularly?”, with a weight of 0.757. The fifth
+
+variable, “Does the number of coaching programmes increase every year?”, has a weight of
+
+0.692. The sixth variable is “Does the company have a detailed written training plan?”, with a
+
+weight of 0.782. Finally, the seventh variable is “Does the company evaluate the results of the
+
+process?”, with a weight of 0.707. The variance explained by the seven variables is 52.281,
+
+and the value of the KMO test is 0.888. The reliability of this scale is α=0.772, and r=0.791.

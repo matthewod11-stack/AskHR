@@ -1,7 +1,15 @@
-## Riggio, R. and Cole, E. (1992), ``Agreement
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 99f1339a0c549ea9c59e01d30c0d9b181375b1bc
+title: journal_of_european_industrial_training
+---
+## Journal of European Industrial Training 25/1 [2001] 5±32
 
-between subordinate and superior ratings of supervisory performance and effects on self and subordinate job satisfaction'', Journal of Occupational and Organizational Psychology, Vol. 65, pp. 151-8.
+[30]
 
-Roberson, L., Torkel, S., Korsgaard, A., Klein, D., Diddams, M. and Cayer, M. (1993), ``Self- appraisal and perceptions of the appraisal discussion: a field experiment'', Journal of Organizational Behavior, Vol. 14, pp. 129-42. Rogers, (1995), ``Evaluating performance in self- managed work teams: an assessment of peer appraisal'', paper presented at the 55th Annual Meeting of the Academy of Management, Vancouver, Canada, August.
+Peters, H. (1996), ``Peer coaching for executives'', Training and Development, Vol. 50 No. 3, March, pp. 39-42.
 
-Romano, C. (1994) ``Conquering the fear of
+Reilly, R., Smither, J. and Vasilopoulos, N. (1996),
+
+``A longitudinal study of upward feedback'', Personnel Psychology, Vol. 49 No. 3, Autumn, pp. 599-612.

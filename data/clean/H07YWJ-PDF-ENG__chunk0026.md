@@ -1,9 +1,19 @@
-# RF
+---
+source_path: H07YWJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 640e688a93f0ec4d33bb67feb87d44fd2f33ce72
+title: H07YWJ-PDF-ENG
+---
+# communication and stronger teamwork.
 
-Ron Friedman is an award-winning psychologist and the founder of ignite80, a learning and development company that teaches leaders science-based strategies for building high-performing teams. His books include The Best Place to Work: The Art and Science of Creating an Extraordinary Workplace and Decoding Greatness: How the Best in the World Reverse Engineer Success.
+Building trust in the workplace can’t and shouldn’t fall solely on the
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+shoulders of management. After all, trust isn’t relayed from the top
 
-6
+down. It’s built organically on a foundation of behaviors exhibited by all
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+team members that empower everyone to produce their best work.
+
+Editor’s note (January 16, 2024): This article has been updated to correct the name of “Keystone Conversations.”
+
+This article was originally published online on January 10, 2024.

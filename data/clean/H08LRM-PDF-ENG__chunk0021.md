@@ -1,25 +1,15 @@
-## beginning of her sabbatical, a common reﬂection among achievers.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e2d03d0788451263f9e681000a8ae7d17e31aa4
+title: H08LRM-PDF-ENG
+---
+## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
 
-The explorer. From the outside, Paul seemed to be a typical consultant:
+better. Indeed, high-eﬀort activities can be extraordinarily restorative.
 
-whip-smart, comfortable in a host of business environments,
+As Aarti explained, “Writing that book was one of the most emotional
 
-overﬂowing with air miles. He’d worked for Bain & Company prior to
+experiences of my life — akin to when I ﬁrst looked at my newborn
 
-business school and returned to the ﬁrm after graduating. At work, he
-
-didn’t come oﬀ as particularly adventurous or antsy to change careers,
-
-but he had a lot of questions about life’s possibilities. So every four
-
-years or so, in between projects, Paul would take extended breaks to
-
-test out potential paths for the future. During one sabbatical, he moved
-
-to his parents’ native Estonia for a few months to study the language
-
-and see how he’d ﬁt in. On another, he tested out his long-held dream
-
-of running an eco-resort in retirement by working in the kitchen and
-
-shadowing the owners of lodges in the U.S. Virgin Islands, Big Sur, and
+son.” The only regret she had was not taking a beat or two to rest at the

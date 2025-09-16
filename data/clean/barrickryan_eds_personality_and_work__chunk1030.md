@@ -1,3 +1,9 @@
-# Person-organization (PO) ﬁt: accu-
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 6d79f14de8239da8f7a5188d76e26263eeb77e65
+title: barrickryan_eds_personality_and_work
+---
+# Performance variables: group-level, 296; individual-level, 295–296 Person-by-situation effects, on learn-
 
-racy of self-perceptions of, 277–279, 282; adaptability and, 279–282; deﬁned, 262; good and bad, 271–277, 282; methods of assessing, 267–269; relevance of, 263–271, 282
+ing, 235–236

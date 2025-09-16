@@ -1,15 +1,29 @@
-# spontaneous and natural.
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cde3889571167ae94d874f4834695673fddba948
+title: H08VIB-PDF-ENG
+---
+# AI at One Seat
 
-Depending on the teamwork stage, AI can play diﬀerent roles, acting as
+The second approach to bringing AI into the room is “AI at One Seat.”
 
-an additional team member at the table. While AI can support mundane
+In this setup, AI runs on one device and joins the team discussion. This
 
-tasks, such as acting as a notetaker or timekeeper, it can also play more
+may involve one person typing or dictating on behalf of the group, or
 
-situational roles, activated at speciﬁc moments to augment the team
+when the voice-to-voice feature allows AI to interact and contribute
 
-workﬂow. When seeking insights, AI can be asked to take the role of a
+to the team conversation in a more seamless way. Take the case of
 
-researcher, explainer/clariﬁer, or simulate user personas.
+John, an innovation manager at a retail company, who is leading a
 
-Let’s go back to John’s case. At the start of each phase of the innovation
+project to develop a new service. In every team meeting, he brings
+
+his laptop and leverages AI as a methodological guide supporting the
+
+discussion, sharing best practice examples, identifying blind spots,
+
+and consolidating key insights throughout the meetings. During team
+
+brainstorming, he activates the mic, making the experience more

@@ -1,5 +1,7 @@
-## com.ezproxy.vasa.abo.fi/lib/abo-ebooks/detail.action?docID=5401178.
-
-92
-
-(cid:111) Stubbs, E. (2011). The value of business analytics: Identifying the Path
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: c22d502cbd9b51ef0636a1e1cbdd661ba89f6cc7
+title: i
+---
+# Incorporated.

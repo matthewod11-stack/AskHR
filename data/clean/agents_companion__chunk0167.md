@@ -1,11 +1,25 @@
-# better results.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: c2b2c937649a4785afee3a1fefb26d18dd43d1ef
+title: agents_companion
+---
+# Manager of agents
 
-We see two types of agents emerging:
+2025 is the year of the agents, and this will particularly be true in the context of enterprises
 
-- 1. “Assistants”: Agents that interact with the user, take a task, execute it, and come back
+that will develop and use agents that will assist employees to perform specific tasks
 
-to the user. Conversational agents popularized by frameworks like Gems or GPTs usually
+or autonomously run in the background performing automation. Business analysts can
 
-belong to this category. Assistants can be general - able to help on a variety of tasks - or
+effortlessly uncover industry trends and create compelling, data-driven presentations
 
-specialized to a particular domain, or tasks. Examples include agents that help schedule
+fueled by AI-generated insights. HR teams can revolutionize the employee experience with
+
+streamlined onboarding, even for complex tasks like 401k selection. Software engineers
+
+can proactively identify and resolve bugs, enabling them to build and iterate with greater
+
+efficiency, and accelerate deployment cycles. Marketers can unlock deeper performance
+
+analysis, optimize content recommendations, and fine-tune campaigns effortlessly to achieve

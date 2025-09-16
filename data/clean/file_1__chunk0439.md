@@ -1,7 +1,9 @@
-## Attitudes. Journal of Monetary Economics, 50, (1), 225-82
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: fe442a39bce6417c4cf4277d703ad6a3ceed13b7
+title: file_1
+---
+# 100
 
-Gutek, B., Cohen, A., and A. Tsui, 1996. Reactions to Perceived Discrimination. Human
-
-Relations, 49 (6), 791-813.
-
-Hollander, J. and J. Howard, 2000. Social Psychological Theories on Social Inequalities.
+Guiso, L., Sapienza, P. and L. Zingales, 2003. People's Opium? Religion and Economic

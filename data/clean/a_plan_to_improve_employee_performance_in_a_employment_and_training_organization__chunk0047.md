@@ -1,45 +1,21 @@
-# Statement of the Problem
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: f00e44ca05c7c1d54423504ff4405f16bc121b33
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Training Resource.
 
-At Employers' Training Resource there are several factors contributing to the
+There are many reasons employee performance may be low. Some possible
 
-problem of employee performance. First, employees are not maximizing their potential
+reasons why employees' performance levels vary include: a) Employees not knowing
 
-to perform the essential functions of the job. It has been observed that some counselors
+'what they are supposed to do; b) Employees not knowing why they are doing it; c)
 
-are consistently performing below the standard level of performance . Part of the reason
+Employees do not know how to do it; d) Employees feel that there are obstacles to
 
-5
+completing their work; e) Employees are not interested in the work they do; f) Employees
 
-for this is because management has not specified what is the standard level of
+have attitudes that interfere with their work; g) Employees lack the motivation to perform
 
-performance , therefore some counselors are unclear as to what are the expectations of the
-
-job. Secondly, there is a lack of supervision over front-line employees . Some
-
-supervisors are reluctant to point out clear inadequate performance to certain employees
-
-for fear of being offensive, since they have developed close relations with that employee .
-
-Thirdly, supervisors practice various management techniques to manage and train
-
-counselors differently . As a result, some counselors are unclear about which or whose
-
-work methods are correct while performing the job or task. Lastly, ETR has no set policy
-
-on rewarding and recognizing employees , nor do they have specified channels of
-
-communication for employees and supervisors to provide feedback related to
-
-performance problems . Currently, the only time supervisors discuss employee
-
-performance are during annual performance evaluations . Also, the employee
-
-performance evaluation sheet used by the county is arguably a subjective based civil
-
-service evaluation tool. Existing conditions show internal inconsistencies among staff
-
-and will continue, unless there is an effective performance evaluation system that ETR
-
-can utilize to improve employee performance . Although many alternatives exist ·to
-
-improve employee performance , this paper proposes one solution to the problem - An
+their work; and h) the work environment may not provide incentive to be productive.

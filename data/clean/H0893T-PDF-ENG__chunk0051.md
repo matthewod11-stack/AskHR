@@ -1,7 +1,7 @@
-# Employee Resource Groups (ERGs)
-
-Employee-led volunteer groups that foster community and DEI progress
-
-Can isolate ERG members from white men who disproportionately hold power
-
-0.02
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c2cfb617489d2792933d21788c192290fd58ae0
+title: H0893T-PDF-ENG
+---
+# Moderate

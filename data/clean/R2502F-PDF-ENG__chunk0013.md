@@ -1,7 +1,13 @@
-# counterparts.
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 160976f4699100aa94588ab6e114ac3c7ce56805
+title: R2502F-PDF-ENG
+---
+# conﬂict.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Presumption of universality. Stereotyping disregards the individuality
 
-4
+and diversity present within any culture, which may blind negotiators
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to opportunities for positive outcomes and learning from their

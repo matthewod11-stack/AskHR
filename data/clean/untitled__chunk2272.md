@@ -1,5 +1,7 @@
-# References
-
-Finkel, N. J. (1988). Insanity on trial. New York: Plenum Press.
-
-Freud, S. (1959). Psycho-analysis and the ascertaining of truth in courts of law. In E. Jones (Ed.), Collected papers of Sigmund Freud (Vol. 2, pp. 13–24). New York: Basic Books. (Original work published 1906)
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c239c6c18eabfd7e86975636cfcf689d87e4562b
+title: untitled
+---
+# trates. (1975). St. Paul, MN: West.

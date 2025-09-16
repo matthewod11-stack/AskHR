@@ -1,7 +1,11 @@
-## Quarterly Journal of Economics 116(3): 901-932.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 525afe2f04980324e059e78eb8c9b442a8d6f4fc
+title: behavioral_economics_1
+---
+# Princeton, Princeton University Press.
 
-Bertrand, M. and S. Mullainathan (2004). "Are Emily and Greg more employable than Lakisha and Jamal? A
+Berridge, K. C. and T. E. Robinson (2003). "Parsing Reward." Trends in Neurosciences 26(9): 507-513.
 
-field experiment on labor market discrimination." American Economic Review 94(4): 991-1013.
-
-Bhatt, M. and C. F. Camerer (2005). "Self-referential thinking and equilibrium as states of mind in games:
+Bertrand, M. and S. Mullainathan (2001). "Are CEOs Rewarded for Luck? The Ones Without Principals Are."

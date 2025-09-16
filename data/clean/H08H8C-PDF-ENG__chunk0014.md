@@ -1,23 +1,19 @@
-# build connection.
+---
+source_path: H08H8C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f39d39a3282745a56a171a49f6fe5ed54ad7220f
+title: H08H8C-PDF-ENG
+---
+## Get in touch with your portfolio of selves.
 
-When it comes to public speaking, you probably want the most
+According to Blake Ashforth, a leading expert on identity at Arizona
 
-conﬁdent version of yourself to show up. But many of us retreat into
+State University, our sense of self is largely rooted in how other people
 
-what I call our “timid selves,” especially if we’re new to presenting or in
+perceive us. For each person we engage with — a colleague, a boss, a
 
-a high-stakes situation. The next time you present, pay attention to your
+client — we have a diﬀerent “self” who shows up. This “portfolio of
 
-thoughts and behaviors. Are you hesitant to share your opinions on the
+selves” allows us to be the person we need to be in a particular moment
 
-topic? Are you very soft spoken? Are you avoiding the eyes of others in
-
-the room? These are all signs that your “timid self” has taken the ﬂoor.
-
-Once you recognize this, you can proactively make a change. Remind
-
-yourself that you have other selves to tap into:
-
-- The conﬁdent self, who believes that they have value to add to the
-
-conversation, makes direct eye contact (if this feels comfortable), and
+— to rise to meet a challenge, to navigate a tricky situation, or to simply

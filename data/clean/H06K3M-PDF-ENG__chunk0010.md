@@ -1,5 +1,11 @@
-## organizational network analysis (ONA). For example:
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7585f04ba0c1aee51365867945f37be660baa26c
+title: H06K3M-PDF-ENG
+---
+# physical and mental well-being.
 
-- Two major life sciences organizations have used network analysis
+In response, forward-looking organizations are taking action to protect
 
-to systematically analyze calendar data and identify ways to reduce
+employees from the volume of collaborative demands by employing

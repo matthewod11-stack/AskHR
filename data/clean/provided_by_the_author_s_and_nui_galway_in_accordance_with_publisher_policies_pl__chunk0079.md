@@ -1,25 +1,19 @@
-# P= f(A,M,O)
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: e21af47b31ba3662b3d9a01f92a9e71846b2337d
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## lower quit rates and improved motivation.
 
-This equation reflects the fact that although the exact relationship between the
+On balance this stream of literature is reflected in the AMO framework which has
 
-variables has not been established, we do know that all three variables impact employee
+become one of the dominant theoretical approaches toward exploring the HRM-
 
-performance (Boxall and Purcell, 2008). With regard to strategic talent management, we
+performance link in recent years (Boselie et al, 2005). In essence the AMO framework,
 
-argue that ability should to a degree be predetermined. Given the individual was selected
+proposes that employee performance (P) is a function of the employee’s ability (A),
 
-as a high potential or high performing employee in being selected for the talent pool, they
+motivation (M) and opportunity (O) to perform (Boselie et al., 2005; Boxall and Purcell,
 
-are likely to have a relatively high level of ability. Similarly, the fact that pivotal talent
-
-positions have been predetermined means that the incumbents should have the
-
-opportunity to contribute to organisational performance through their deployment in
-
-pivotal talent roles. Hence motivation, defined as “a set of energetic forces that originates
-
-both within as well as beyond an individual’s being, to initiate work-related behaviour
-
-22
-
-and to determine its form, direction, intensity and duration” (Pinder, 1998: 11), emerges
+2008). Expressed as an equation:

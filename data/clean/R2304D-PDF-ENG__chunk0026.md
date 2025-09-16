@@ -1,13 +1,21 @@
-## HBR / Magazine Article / The Labor-Savvy Leader
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6aae5a031d4297435f9ed2deee9abb6f16607c3
+title: R2304D-PDF-ENG
+---
+# employee concerns.
 
-A labor organization capable of deploying a full range of methods
+Ironically, the labor organizations likely to be most valuable to
 
-—collaborating, yes, but also building coalitions with customers,
+business will be the strongest ones. Good partnerships require partners
 
-community leaders, and investors; seeking a role in corporate
+with balanced power. Strong unions cultivate deep relationships with
 
-governance; and, as a last resort, striking—might be exactly the balance
+workers and are their legitimate, democratically elected representatives.
 
-of power that will serve business best in the long run.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-If your employees do organize, how do you build a relationship that
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

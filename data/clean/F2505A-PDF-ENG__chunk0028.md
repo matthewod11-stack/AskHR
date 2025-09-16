@@ -1,15 +1,11 @@
-## market through a period of uncertainty for
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5b0b43b68e4f619606a66699f8f8860ec8f4ba0
+title: F2505A-PDF-ENG
+---
+# Bryan Derballa
 
-the sports and entertainment industries. The events were opportunities
+- 2020. We then pivoted to hosting virtual
 
-for clients and prospects to ask us about specific sports technology and
-
-how sports organizations approached and used technology in a broader,
-
-categorical sense. We were surprised to learn that our clients needed
-
-insights into fan demographics and behaviors more than they needed to
-
-understand sports technology. So, we shifted our focus to investing in fan
-
-data to help our clients make more-informed decisions about marketing,
+events to maintain engagement with our

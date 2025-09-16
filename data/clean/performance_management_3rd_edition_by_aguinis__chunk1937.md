@@ -1,19 +1,15 @@
-# End Notes
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a74ff940490668f026ecbcade132eb3d8685f6bb
+title: performance_management_3rd_edition_by_aguinis
+---
+# Team Performance Management at Bose
 
-- 1. Naquin, C. E., & Tynan, R. O. (2003). The team halo effect: Why teams are not blamed Journal of Applied for Psychology, 88, 332–340. their
+Bose Corporation is an organization that specializes in audio equipment that meets virtually any audio challenge. Bose Corporation’s audio technologies can be found in home stereos, stadiums, the Sistine Chapel, and even the U.S. space program. Bose Corporation was founded in 1964, is headquar- tered in Framingham, Massachusetts, and has employees around the globe.
 
-- 2. Roomkin, M., Rosen, S., & Dubbs, N. (1998). Human resources practices survey. New York: Deloitte & Touche.
+Many Bose employees work in a variety of teams. Three different types of teams within Bose are work teams, project teams, and network teams. The work teams found within Bose are teams responsible for the production of audio equipment. These teams are long-term and are typically focused on producing a certain type of audio equipment. Project teams within Bose are responsible for the research and development of innovative audio equipment. Typically these teams are focused on the development of a specific type of equipment (e.g., new home entertainment speakers). Network teams arise in the instances where team members are spread across the globe. A specific example of a network team within Bose is a team that is designing a new audio system for Ferrari. Within this team there are members
 
-- 3. Reilly, R. R., & McGourty, J. (1998). Performance appraisal in team settings. In J. W. Smither (Ed.), Performance appraisal: State of the art in practice (pp. 245–277). San Francisco: Jossey-Bass.
+located at Bose’s headquarters, at Ferrari’s plant location in Italy, and at one of Bose’s production factories in Japan. The members at these various locations rarely meet face-to-face but are frequently in communication.
 
-- 4. Hackman, J. R. (1998). Why teams don’t work. In S. R. Tindale & L. Heath (Eds.), Theory and small groups research on (pp. 245–265). New York: Plenum.
-
-- 5. Hackman, J. R., & Wageman, R. (2005). A theory of team coaching. Academy of Management Review, 30, 269–287.
-
-- 6. Scott, S. G., & Einstein, W. O. (2001). Strategic performance appraisal in team- based organizations: One size does not fit all. Academy of Management Executive, 15, 107–116.
-
-- 7. Cheng, K. H. C., & Cascio, W. F. (2009). Performance-appraisal beliefs of Chinese employees in Hong Kong and the Pearl River Delta. International Journal of Selection and Assessment, 17, 329–333.
-
-- 8. O’Sullivan, A., & O’Sullivan, S. L. (2008). The performance challenges of expatriate supplier teams: A multi-firm case study. International Journal of Human Resource Management, 19, 999–1017.
-
-- 9. Salas, E., Burke, C. S., & Fowlkes, J. E. (2006). Measuring team performance “in the wild”: Challenges and In W. Bennett, tips. C. E. Lance, & D. J. Woehr (Eds.), Performance
+Recently, Bose’s executive team has been interested in implementing a new team-based performance management program for these different teams, and they have asked you to help them. You have explained to them the six key principles of a proper performance management plan, but now Bose’s executive team is specifically interested in knowing how these six key principles will have to differ across its three different types of teams. The reason why the executive team is interested in this is that they would like to establish a main performance management framework that can work across the different types of teams. Please write a two-page report specifying what aspects of the performance management plan they can keep the same and what aspects will have to differ across team type. Finally, please provide a recommendation as to whether Bose should structure one team performance management plan or three performance management plans (one for each team type). (cid:2)

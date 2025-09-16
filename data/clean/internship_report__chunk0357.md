@@ -1,13 +1,27 @@
-## VIII. Non-Disclosure of Confidential Information
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 803087aceba4e9c830e17b7abd8ea1b791811af2
+title: internship_report
+---
+# VII. Retirement
 
-Karnaphuli has a Staff Formality Manual; all employees during his/her employment will have to
+The normal retirement age for employees 60 (sixty) years and their employment beyond this age
 
-abide the information and guideline mentioned in Staff Formalities. During the course of
+shall be at the Company‟s discretion. In case of Management level, Board of Directors may
 
-employment, there may confidential information of the Company and transactions or dealing
+consider extending retirement age on a case to case basis. The Company may force any
 
-pertaining to any of its sales agents/branch offices that are disclosed to the Employees; said
+employee to compulsory retirement with or without retirement benefits if he/she commits serious
 
-confidential information consisting but necessarily limited to:
+misconduct. In case of normal retirement, staff will be eligible to receive benefit as payable
 
-Technical Information: Operating Systems Manuals, Computer Programs, Research Projects,
+determined by Management. The date of birth as shown in any Government Identification
+
+Document or any other document purporting to the same shall be used to determine the date of
+
+retirement. In cases where only the year of birth is shown in the relevant document, the day and
+
+month of birth shall be that 31st December of that year. After crossing the 60 years the
+
+management at the time of extending the regular service/entering into contract service.

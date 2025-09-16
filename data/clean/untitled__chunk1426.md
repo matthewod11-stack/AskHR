@@ -1,9 +1,11 @@
-# 244 Social Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3e448f138e602dc655c3d0342f2e6ff687eb985c
+title: untitled
+---
+# Harvard University Press.
 
-Gigerenzer, G. (1991). From tools to theories: Aheuristic of discov- ery in cognitive psychology. Psychological Review, 98(2), 254–267.
+Gibb, C. A. (1954). Leadership. In G. Lindzey (Ed.), Handbook of social psychology (Vol. 11, pp. 877–920). Cambridge, MA: Addison-Wesley.
 
-Gillespie, R. P. (1985). Manufacturing knowledge: A history of the Hawthorne experiments. Unpublished doctoral dissertation, University of Pennsylvania, Philadelphia.
-
-Gillespie, R. P. (1988). The Hawthorne experiments and the politics of experimentation. In J. G. Morawski (Ed.), The rise of experi- mentation in American psychology (pp. 114–137). New Haven, CT: Yale University Press.
-
-Gould, L. (1974). The progressive era. Syracuse, NY: Syracuse
+243

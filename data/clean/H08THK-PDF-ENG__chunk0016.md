@@ -1,19 +1,23 @@
-# HBR / Digital Article / Our Favorite Management Tips on Communicating Like a Leader
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86b03224e684cd0e112c1790def0a52199aee9c8
+title: H08THK-PDF-ENG
+---
+# Deliver a Message That Sticks
 
-Chunk it up. Your audience can only handle three to four pieces of
+Whether you’re giving a presentation, writing an email, or leading a
 
-information at once. Organizing your key points under one central idea
+meeting, it’s important to communicate your message in a way that’s
 
-will help them retain details and connect the dots.
+memorable. By mastering a few strategies based in memory science, you
 
-Make it concrete. Abstract ideas are tough to remember. Use vivid,
+can create messages that linger in the minds of your audience, leaving a
 
-relatable examples that evoke sensory details to create a mental image
+lasting impact. Here’s how.
 
-your audience won’t forget.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Provide callbacks. Revisit earlier points to strengthen your audience’s
+3
 
-recall. Subtle reminders of previous content help reinforce memory and
-
-tie new information to existing knowledge.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

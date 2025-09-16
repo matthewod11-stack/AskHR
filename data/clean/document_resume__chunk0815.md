@@ -1,7 +1,7 @@
-# Appoint a project coordinator.
-
-Conduct a needs assessment and determine the expertise required.
-
-In selecting consultants, identify if possible persons with both professional expertise and successful experience in an educational setting.
-
-Even if all or most of the technical assistance is obtained from consultants, it is neither necessary nor desirable to relinquish control of the project. A "lock and key"
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 3228e07f6ef43fea95f4d5a76dff20f17e7402bd
+title: document_resume
+---
+## Identify potential internal resources from the faculty and administration.

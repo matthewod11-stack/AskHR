@@ -1,1 +1,9 @@
-# Herman Aguinis Bloomington, Indiana
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: cac19c63727c6da4ad1da9f1a2b493334b6768a2
+title: performance_management_3rd_edition_by_aguinis
+---
+# ACKNOWLEDGMENTS
+
+I would like to thank several individuals who were extremely instrumental in allowing me to write the first edition, second, and current third edition of this book. I am indebted to Graeme Martin for encouraging me to start this project. Wendy O’Connell and Jon Dale helped me gather the numerous examples and illustrations that I have used throughout. Barbara Stephens helped me update many of these examples in the second edition. Christine Henle allowed me to use her extremely useful lecture notes. Barbara Stephens, Bonnie Davis, Debra Lammers, and Ray Zammuto gave me excellent and detailed comments that allowed me to improve each of the chapters. Harry Joo, Ryan K. Gottfredson, and Sofia J. Vaschetto assisted me in writing the Instructor’s Manual for this edition. Teaching and giving lectures and workshops on perform- ance management at the Instituto de Empresa (Madrid, Spain), Université Jean Moulin Lyon 3 (Lyon, France), University of Johannesburg (South Africa), University of Salamanca (Spain), and University of Melbourne (Australia) allowed me to test and improve various sections of the book. Finally, this edition benefited from the feedback provided by Lynn K. Bartels, Robyn A. Berkley, Perry A. Barton, Alan Cabelly, and Clifford E. Thermer, who have used the second edition to teach courses at universities throughout the United States and were kind enough to offer their suggestions for improvements and additions. I thank each of you for your time and intellectual investment in this project. Your coaching and feedback certainly helped me improve my performance!

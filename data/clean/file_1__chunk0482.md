@@ -1,15 +1,21 @@
-## Applied Social Psychology, 18 (7), 606-625.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: aa0efd49956a0b7e2faf007a8ec126b1efe77b70
+title: file_1
+---
+# Oxford University Press.
 
-Jamali, D., Sidani, Y. and A. Kobeissi, 2008. The gender gap revisited: insights from a
+Hannan, M., Schomann, K. and H-P. Blossfeld, 1990. Sex and sector differences in the
 
-developing country context. Gender in Management: An International Journal, 23(4), 230-246.
+dynamics of wage growth in the Federal Republic of Germany. American Sociological Review, 55, 694-713.
 
-Judge, T. and B. Livingston, 2008. Is the gap more than gender? A longitudinal analysis of
+Heneman, H., 1985. Pay satisfaction. In K. Rowland and G. Ferris, eds, Research in
 
-gender, gender role orientation and earnings. Journal of Applied Psychology, 93 (5), 994-112.
+Personnel and Human Resources Management. Greenwich, CT: JAJ Press, 115-39.
 
-Keaveny, T., Inderrieden, E. and P. Toumanoff, 2007. Gender differences in pay of young management professionals in the United States: A comprehensive view. Journal of Labor Research, 28, 327-346.
+Hill, C. and E. Silva, 2005. Public Perceptions of the Pay Gap. American Association of
 
-Lange, T., 2008. Communist Legacies, Gender and the Impact on Job Satisfaction in Central and Eastern Europe. European Journal of Industrial Relations, 14 (3), 327-346.
+University Women Educational Foundation. 111 16th Street N.W. Washington, DC 20036.
 
-Lee, C. and J. Farh, 1999. The effects of gender in organizational justice perception. Journal
+Jackson, L. and S. Grabski, 1988. Perceptions of fair pay and the gender pay gap. Journal of

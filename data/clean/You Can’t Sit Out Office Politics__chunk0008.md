@@ -1,3 +1,13 @@
-# informal, unofficial, and sometimes
+---
+source_path: "You Can\u2019t Sit Out Office Politics.md"
+pages: n/a-n/a
+chunk_id: c1a6278e7737ca8c82db3d1a3ba5126a17285831
+title: "You Can\u2019t Sit Out Office Politics"
+---
+# You Can’t Sit Out Ofﬁce Politics
 
-behind-the-scenes efforts that happen in all organizations aspeople position themselves, their interests, their teams, and theirpriorities to get things done.For example, let’s say you have a big meeting coming up wherestakeholders at your company are going to decide which projectsto invest in — including yours. If you’re savvy at politics, youknow that to get your project approved, you first need tounderstand the priorities and perspectives of those stakeholders.You need to engage with them beforehand and learn what theyare looking for so that you can more persuasively present youridea.This is an example of how office politics can be ethically use tohelp you gain an advantage.Even so, destructive and negative politics also can — and do —exist. In the same situation, if you were to spread a rumor aboutthe lack of scientific evidence behind your colleague’s project inorder to get yours chosen over hers, that would be an unethicaluse of politics.By painting all political activities with the same brush, we areoblivious to the potential for constructive politics — that is, the
+https://hbr.org/2021/07/you-cant-sit-out-ofﬁce-politics
+
+3/13
+
+The fact that these are the words we associate with office politicsexplains why this first myth is so prevalent. How could any of uspossibly engage in things that are widely seen as toxic anddangerous, or at the very least unethical and unpleasant, if we arenot ourselves toxic, dangerous, unethical, and unpleasant?This myth is premised on an incomplete and one-sidedunderstanding of what office politics really are. Though officepolitics can be used both ethically and unethically, at their corethey are just the range of

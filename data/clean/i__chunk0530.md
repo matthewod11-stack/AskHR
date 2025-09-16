@@ -1,11 +1,13 @@
-# 3.6 Conclusion from analysis
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: c59e355895a5e44fbf5b454b43605fa627c5ae5a
+title: i
+---
+# accuracy 0.87 368
 
-Based on the conducted analysis utilizing logistic regression, decision tree, and random forest
+macro avg 0.72 0.54 0.54 368
 
-algorithms to predict employee attrition, several key conclusions can be drawn:
+weighted avg 0.84 0.87 0.83 368
 
-Random forest, particularly after tuning hyperparameters, emerged as the most effective
-
-method for predicting employee attrition. This indicates that the ensemble approach of
-
-combining multiple decision trees and utilizing bootstrapping and feature randomness leads to
+75

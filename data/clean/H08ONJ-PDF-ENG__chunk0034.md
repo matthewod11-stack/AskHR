@@ -1,31 +1,21 @@
-# poverty.
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ca6443e06ab2b342d132c2025b8fe0018d57067
+title: H08ONJ-PDF-ENG
+---
+## “Social capital”—the norms, understandings, bonds, and mutual
 
-Yunus founded Grameen Bank, the ﬁrst microﬁnance institution, with
+commitments of people who live in a particular society or community—
 
-the requirement that at least ﬁve villagers had to come together to form
+can be another opportunity for resourcefulness.
 
-a mutually supportive unit before the bank would extend a tiny loan to
+In the late 1970s, Muhammad Yunus wanted to ﬁnd a way to provide
 
-one member designated by the group. Only after that person regularly
+credit and banking services to Bangladesh’s rural poor. To get around
 
-repaid the loan for several months could another member of the group
+the fact that his customers had no collateral, he leveraged their tight
 
-request a loan. This practice created not-so-subtle peer pressure for
+social bonds to ensure that loans were repaid and that the funds
 
-no member to default and naturally incentivized groups to select only
-
-members who feel a sense of kinship and a high moral obligation to not
-
-let the other members down. The codependence also inspired members
-
-to step up and help any member of the group who may be struggling,
-
-making each borrower more reliable in the process.
-
-By uncovering and leveraging existing but unutilized social capital,
-
-Grameen Bank not only made ﬁnancial capital accessible for the ﬁrst
-
-time to the extremely poor, it also achieved a repayment rate that’s
-
-consistently above 90%. Furthermore, it took the costs attached to loan
+borrowed were used for productive means to help break the cycle of

@@ -1,11 +1,17 @@
-# datasets of applications.
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 762067ce90625a5033c237a66f6be0305480b69a
+title: H08GUL-PDF-ENG
+---
+# partners in almost real-time.”
 
-How to do it yourself: A professional with a basic knowledge of
+Results: After a period, the AI-4-VC replaced some of the junior
 
-machine learning will be able to put a system like this together. Major
+analysts and minimized the time spent on low-ﬁt applications. This
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+assisted Bavaria Ventures to respond faster to the applications from
 
-3
+startups with the most promising potential. They also discovered that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their AI-4-VC solution was accurate even with relatively small-size

@@ -1,11 +1,9 @@
-## from acquisitions? Research Technology Management 46:62-66.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 892866909e47e4b72dcff9e1270271f2d2233033
+title: beo_chap7_1
+---
+## fiction? Psychological Bulletin 82:213-25.
 
-Moore, P. G. 1977. The manager’s struggle with uncertainty. Journal of the Royal Statistical
-
-SocietyA 149:129-65,
-
-Mullainathan, S., and R. H. Thaler. 2001. Behavioral economics. In /nternational Encyclo-
-
-pedia of Social Sciences, 1st edn, pp. 1094-1100. New York: Pergamon.
-
-Murphy, K. J. 1999. Executive compensation. In Handbook of Labor Economics (ed. O.
+Moeller, S., F Schlingemann, and R. Stultz. 2003. Do shareholders of acquiring firms gain

@@ -1,7 +1,7 @@
-## conditions, such as bipolar disorder, major depression, and post-traumatic
-
-Copyright © 2018 Harvard Business School Publishing Corporation. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H048KW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c9c4e8e56d418c8f523a1cf0bb5b98f21808179
+title: H048KW-PDF-ENG
+---
+## discriminate against an employee with a mental health issue. Many

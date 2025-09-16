@@ -1,9 +1,13 @@
-# similar circumstances repeatedly?
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbd3eac26768f0775b896aa71e6073642fd0f319
+title: H08OJX-PDF-ENG
+---
+# HBR / Digital Article / When Another Senior Leader Is Threatening Your Reputation
 
-- What do neutral third parties within the company say about it? Is
+Questions that executives can ask themselves to help determine if they
 
-there consensus regarding whether the behavior seems deliberate?
+risk corporate gaslighting include.
 
-- What is the person’s track record regarding similar behavior?
-
-Have they been previously disciplined or reported for similar actions?
+- Is the behavior consistent over time? Does the behavior occur under

@@ -1,19 +1,21 @@
-# success. New York: Free Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0bd5747ec966fcb7f77e4cd3725acd683f7258a1
+title: untitled
+---
+## psychology. San Diego, CA: Harcourt Brace Jovanovich.
 
-Meehl, P. E. (1954). Clinical vs. statistical prediction: A theoretical analysis and a review of the evidence. Minneapolis: University of Minnesota Press.
+McAdams, D. P. (1997). A conceptual history of personality psy- chology. In R. Hogan, J. Johnson, & S. Briggs (Eds.), Handbook of personality psychology (pp. 3–39). San Diego, CA: Academic Press.
 
-Moore, H. T. (1925). Innate factors in radicalism and conservatism. Journal of Abnormal and Social Psychology, 20, 234–244.
+McAdams, D. P., Josselson, R., & Lieblich, A. (Eds.). (2001). Turns in the road: Narrative studies of lives in transition. Washington, DC: American Psychological Association.
 
-Morawski, J. G., & Bayer, B. M. (2003). Social. In L. B. Weiner (Gen. Ed.) & D. K. Freedheim (Vol. Ed.), Handbook of psychology: History of psychology, Vol. 1. New York: Wiley.
+McAdams, D. P., & Ochberg, R. L. (Eds.). (1988). Psychobiogra- phy and life narratives [Special issue]. Journal of Personality, 56(1).
 
-Morawski, J. G., & Hornstein, G. A. (1991). Quandary of the quacks: The struggle for expert knowledge in American psychol- ogy, 1890–1940. In J. Brown & D. K. van Keuren (Eds.), The estate of social knowledge (pp. 106–133). Baltimore: Johns Hopkins University Press.
+McAdams, D. P., & West, S. G. (1997). Introduction: Personality psychology and the case study. Journal of Personality, 65, 757–783.
 
-Morgan, D. M. (1989). The voyage of the American promise.
+McClelland, D. C. (1951). Personality. New York: Sloane.
 
-Boston: Houghton Mifﬂin.
+McClelland, D. C. (1985). How motives, skills, and values deter- mine what people do. American Psychologist, 40, 812–825.
 
-Murphy, G. (1932). An historical introduction to modern psychol-
-
-ogy (4th Rev. ed.). New York: Harcourt, Brace.
-
-Murphy, G., & Murphy, L. B. (1931). Experimental social psychol-
+McClelland, D. C., & Winter, D. G. (1969). Motivating economic

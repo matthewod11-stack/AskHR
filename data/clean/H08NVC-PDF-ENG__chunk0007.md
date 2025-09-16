@@ -1,29 +1,19 @@
-# drain.
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a24f66e679c2e41d761b89fba20a6f3f98aa3e4
+title: H08NVC-PDF-ENG
+---
+# health, and more.
 
-What’s stopping these companies’ mental health initiatives from
+Despite real money spent on interventions from wellness apps to counseling services, chief human resources oﬃcers, regional heads of
 
-engaging employees and creating real change?
+people and culture, and well-being leads at several multinationals have
 
-My consulting experience with over 60 global and regional
+told me they’re not seeing enough uptake by their employees. In fact,
 
-organizations has led me to conclude that the main pitfalls for mental
+some workplace mental health initiatives and trainings suﬀer from such
 
-health initiatives across cultures tend to be about three things.
+low engagement that companies wind up not expanding or continuing
 
-First, many HR oﬃcers mistakenly attribute initiative failures to local
-
-cultural norms and stigma, assuming that individuals in some locations
-
-are simply unwilling to discuss mental health when, in fact, there’s
-
-another underlying issue at play. Second, when stigma does come into
-
-play, they wrongfully assume that silence and disengagement mean that
-
-attitudes of particular groups of employees are unchangeable.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+them at all, and initial energy spent on the programs goes down the

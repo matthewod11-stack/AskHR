@@ -1,15 +1,13 @@
-# HBR / Digital Article / How HR and Judges Made It Almost Impossible for Victims of Se…
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c78def647ed382a543bb887caf2f091749abe3f6
+title: H04HPZ-PDF-ENG
+---
+# them.
 
-In fact, this was not accepted law at the time. But it did foreshadow
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-later legal developments, beginning in 1986. That’s when the U.S.
+4
 
-Supreme Court formally recognized sexual harassment as a form of
-
-sex discrimination in Meritor v. Vinson. Although the court found the employer’s anti-harassment policy and complaint procedure ineﬀective
-
-in that case, it did hint that an effective procedure might protect the
-
-employer from liability. The Meritor decision, in turn, led to a sharp
-
-increase in employers arguing that they should not be liable if they had
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

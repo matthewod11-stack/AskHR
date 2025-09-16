@@ -1,29 +1,19 @@
-# Motivating Employees
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6a4337cee028410ec5eb13e79f15243b5d91fe23
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Establishing Goals and Objectives
 
-For a training program to be effective, employees must be motivated to attend training, perform well in training, and apply their training to their jobs.
+Once training needs have been determined, the first step in developing a train- ing program is to establish the goals and objectives for the training. It is impor- tant that these goals and objectives be obtainable given the time and resources allocated to the training. For example, if your organizational analysis indicated that due to financial and time constraints a four-hour training session is all that the organization can afford to teach its supervisors conflict management skills, it would be unreasonable to establish the goal that supervisors be able to mediate conflicts between employees. Instead, a more reasonable goal might be that by the end of the four-hour training, supervisors will be able to identify the common causes of conflict. When the organization can afford several days of training, the goal of obtaining conflict mediation skills might be more obtainable.
 
-Motivating Employees to Attend Training The most obvious way to “motivate” employees to attend training is to require them to attend training “on the clock.” However, the majority of training opportu- nities are optional, and % of training opportunities take place on the employee’s own time (Galvin, ). Here are some strategies to motivate employees to attend training:
+Training goals and objectives should concretely state the following (Mager,
 
-designing and evaluating training systems
+):
 
-293
+7 7 7
 
-Can common sense be trained?
+What learners are expected to do The conditions under which they are expected to do it The level at which they are expected to do it
 
-294
-
-chapter 
-
-7
-
-7
-
-7
-
-7
-
-7
-
-Relate the training to an employee’s immediate job. Employees are more likely to attend when the material covered in training will directly affect their immediate job performance. For example, employees would be more motivated to attend a training session on a computer program that the organization will begin using in two weeks than a training session on “Future Trends in Office Automation.” Thus, training should be provided “just in time” rather than “just in case.” Make the training interesting. Employees are more likely to attend when they know they will have a good time as well as learn something useful. Increase employee buy-in. When employees play a role in choosing and planning the types of training offered, they are more likely to attend. Baldwin, Magjuka, and Loher () found that employees given a choice about training programs were more motivated than employees not given a choice. Employees given a choice, but then not given the program they chose, were the least motivated. Provide incentives. Common incentives for attending training include certificates, money, promotion opportunities, and college credit. Microsoft increased employee participation in voluntary training by ,% when it created a program, “Ready, Set, Go,” in which employees who participated in voluntary training received points that could be exchanged for merchandise, travel, and gift certificates (Renk, ). Provide food. Medeco Security Locks in Salem, Virginia, has optional monthly training sessions in which a topic is presented while the employees eat lunch provided by the company. Consultants Bobbie Raynes and Ge Ge Beall both have used free pizza as incentives to get employees to attend short training sessions during lunch or dinner.
-
-y m a l A / m a l u o C r e g o R ©
+In other words, vague objectives such as “to be a better salesperson” should be replaced with specific objectives such as increasing customer contacts by % and increasing new accounts by %.

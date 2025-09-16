@@ -1,1 +1,27 @@
-## Go deeper: “Strategy as a Portfolio of Real Options,” by Timothy A.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44c1dcfc6c64b719ccfa89e9848122e59878f99f
+title: H08TKY-PDF-ENG
+---
+## HBR / Digital Article / The Definitive HBR Strategy Glossary
+
+which to let ripen, and which to toss, companies make decisions based
+
+on what they know now, what might happen in the future, and which
+
+opportunities have already passed.
+
+Two important metrics can help guide decision-making here: 1) value-
+
+to-cost, or the value of the underlying assets you intend to build
+
+or acquire divided by the present value of the expenditure required
+
+to build or buy them; and 2) volatility, or how much things can
+
+change before an investment decision must ﬁnally be made. Mapping
+
+opportunities based on these two metrics can help leaders decide what
+
+actions to take and where to place their bets.

@@ -1,15 +1,57 @@
-# the work itself.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5894f226c8b4523a75e027566bdf63380cfc528f
+title: H08H7H-PDF-ENG
+---
+# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
 
-- 2. What type of relationships do you want your employees to build?
+other research that shows that learning any nonwork information can
 
-While our research showed that individual coworker relationships
+be a good thing for both your personal and professional relationships.
 
-can beneﬁt from interacting virtually when working from home,
+Focus RTO strategies on tasks and the types of relationships you want to build
 
-we recognize that managers might also want to build relationships
+Now that you have seen the relational potential in your virtual business
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+practices, you can rethink your RTO plans. We suggest that there are two
 
-7
+questions to ask yourself:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 1. Does the work need in-person interaction? Given that our research
+
+shows that working remotely can beneﬁt coworker relationships,
+
+the narrative that bringing people back to the oﬃce to beneﬁt
+
+relationships does not tell the full story. Instead of focusing your
+
+RTO strategy on the people side of bringing people back together
+
+in person, focus your strategy on the work itself. What would
+
+interactions between employees look like to best support the work
+
+that needs to be done? If it is a brainstorming session that requires
+
+liveliness that you think can only be captured in-person, then perhaps
+
+you want to bring people together in-person to create that spark. If
+
+it is a working session that requires everyone to be on their laptops,
+
+that task may be better done remotely. The last thing you want is
+
+employees commuting into the oﬃce to spend their day logging into
+
+video meetings with colleagues just down the hall. It is important
+
+to recognize that not all tasks require in-person collaboration, and
+
+that working-from-home can provide beneﬁts that being in the oﬃce
+
+simply cannot provide, for both coworker relationships and beyond.
+
+Our main point is that your return-to-work strategy should center on
+
+how your employees relate to each other in terms of what is best for

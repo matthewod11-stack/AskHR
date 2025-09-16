@@ -1,43 +1,27 @@
-# from Skylar’s and Alex’s perspectives.
+---
+source_path: H08J8Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 908565f644f64835a2c4e78cea2d973c4d6054dd
+title: H08J8Z-PDF-ENG
+---
+# How Informed Do Employees Really Feel?
 
-To ensure these ﬁndings were not simply due to the relatively
+In one study, participants read several vignettes, including a description
 
-undesirable nature of the things Skylar and Alex were asked to agree to,
+of an employee named Skylar who signed a mandatory arbitration
 
-we conducted another study where participants were given the chance
+agreement as part of her company’s onboarding process, and a patient
 
-to agree to a decidedly positive outcome—receiving an unexpected
+named Alex who agreed to have a medical procedure despite being
 
-monetary bonus. In this study, one group of participants was randomly
+informed that his insurance would not cover the cost. Participants
 
-assigned to receive a ﬁnancial windfall. These participants were then
+who read these scenarios from the perspective of the human resources
 
-instructed to propose a distribution of their new fortune to another
+representative who obtained Skylar’s signature and the doctor who
 
-participant who would receive the proposed amount of money, provided
+obtained Alex’s consent believed Skylar and Alex were more informed
 
-they agreed to the proposed allocation. Most participants suggested
+about these agreements. They also thought their decision to agree was
 
-a fair 50/50 split of the money, and this proposal was nearly always
-
-accepted. Despite these clearly fair terms, however, participants who
-
-accepted this agreement reported feeling less like they had consented to
-
-the agreement than those making the oﬀer assumed they felt.
-
-Lastly, we examined how these dynamics play out in actual
-
-employment contexts with tangible consequences. We surveyed a
-
-population of hiring managers across various industries and asked them
-
-to indicate the extent to which they believed the last employee they
-
-had hired had truly understood and consented to the terms of their
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+more consensual than did participants who read the same scenarios

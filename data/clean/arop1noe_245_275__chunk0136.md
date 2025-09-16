@@ -1,3 +1,19 @@
-# relationships?
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 245a4aa4fe1b10a059e227eabc794584f6c848f0
+title: arop1noe_245_275
+---
+# Task characteristics
 
-Leaders need to be architects and orchestrators of social interaction and communication, providing the context and culture to support social learning, without intruding into the actual exchange process.
+Are there key boundary conditions or moderators of the relationships between autonomy and accountability on informal learning?
+
+Providinggreateraccountabilityandautonomyhelps facilitate informal and self-directed learning. Providing employees in demanding jobs with learning opportunities may help reduce strain. Providing feedback is important for developing leadership skills, especially in highly challenging developmental assignments.
+
+Job crafting
+
+How do job characteristics influence job crafting behaviors and learning intentions?
+
+Job crafting can create a push for learning if it expands the job to stretch an employee, but it can also impede learning if it restricts the job to previously mastered tasks.
+
+Social networks What factors best help facilitate learning from

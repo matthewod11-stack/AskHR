@@ -1,7 +1,15 @@
-# individuals and their families.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3135be490613323566cfef4892ef31a1d77e95d9
+title: H08LRM-PDF-ENG
+---
+# issue, or a career crisis.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Of course, while anyone can beneﬁt from a sabbatical, actually taking
 
-4
+one remains a privilege. Few companies oﬀer paid long-term leave,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+so the demographics of those who take them skew toward those
+
+who can more easily self-fund: college-educated, middle-to-upper-class

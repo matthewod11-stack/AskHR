@@ -1,9 +1,15 @@
-## storefront, some very simple self-service machines, and a color-coded
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8e62e4b7244ea4278824b9136afa91308a7704c
+title: R2504J-PDF-ENG
+---
+## from ancillaries like insurance, credit cards, and currency exchange.
 
-scheme (including red and blue carpets) that indicated to people (who
+The third subconcept, accessibility, addressed the need to lower the
 
-might not be able to read) where to go. Crucially, Capitec would employ
+barriers preventing the target customers from using the bank’s services.
 
-people from the local community so that customers would be served
+To that end, Capitec would rely on face-to-face service in a large
 
-by someone who spoke their language and behaved according to their
+network of physical branches. Each would have an entirely open

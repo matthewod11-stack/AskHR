@@ -1,3 +1,33 @@
-# Organizational commitment
+---
+source_path: emerald_rege_rege603931_84_101.md
+pages: n/a-n/a
+chunk_id: 321dc75d4a253f63f4c4d19473e5fbd78aab5941
+title: emerald_rege_rege603931_84_101
+---
+# Variables
 
-95
+1
+
+2
+
+3
+
+4
+
+- 1. Satisfaction with the colleagues 2. Satisfaction with salary 3. Satisfaction with the bosses 4. Satisfaction with the nature of the job 5. Satisfaction with the promotions 6. Turnover intention Note: **Significant at the 0.01 level Source: Made by the authors
+
+0.094 0.336 ** 0.370** 0.103 −0.092
+
+0.100 0.071 0.625** −0.324**
+
+0.298** 0.251**
+
+−0.101
+
+0.220** −0.242**
+
+(cid:68)(cid:111)(cid:119)(cid:110)(cid:108)(cid:111)(cid:97)(cid:100)(cid:101)(cid:100)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:104)(cid:116)(cid:116)(cid:112)(cid:58)(cid:47)(cid:47)(cid:119)(cid:119)(cid:119)(cid:46)(cid:101)(cid:109)(cid:101)(cid:114)(cid:97)(cid:108)(cid:100)(cid:46)(cid:99)(cid:111)(cid:109)(cid:47)(cid:114)(cid:101)(cid:103)(cid:101)(cid:47)(cid:97)(cid:114)(cid:116)(cid:105)(cid:99)(cid:108)(cid:101)(cid:45)(cid:112)(cid:100)(cid:102)(cid:47)(cid:50)(cid:53)(cid:47)(cid:49)(cid:47)(cid:56)(cid:52)(cid:47)(cid:50)(cid:50)(cid:56)(cid:57)(cid:55)(cid:52)(cid:49)(cid:47)(cid:114)(cid:101)(cid:103)(cid:101)(cid:45)(cid:49)(cid:50)(cid:45)(cid:50)(cid:48)(cid:49)(cid:55)(cid:45)(cid:48)(cid:48)(cid:56)(cid:46)(cid:112)(cid:100)(cid:102)(cid:32)(cid:98)(cid:121)(cid:32)(cid:103)(cid:117)(cid:101)(cid:115)(cid:116)(cid:32)(cid:111)(cid:110)(cid:32)(cid:48)(cid:57)(cid:32)(cid:83)(cid:101)(cid:112)(cid:116)(cid:101)(cid:109)(cid:98)(cid:101)(cid:114)(cid:32)(cid:50)(cid:48)(cid:50)(cid:53)
+
+5
+
+−0.312**

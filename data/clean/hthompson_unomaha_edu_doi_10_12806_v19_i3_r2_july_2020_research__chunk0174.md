@@ -1,9 +1,15 @@
-## distinct theme from within the literature.
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: 518c4c29c7a830aca300091f1e08f5111074fa3f
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+# the findings
 
-and sifted in the next step.
+Review of Educational Research, etc.). From this initial
 
-The first step of this process was to identify a relevant
+by decades as they each provided a very clear and
 
-The second step was to provide priority publication
+process, 102 publications were
 
-pool of publications. Articles were selected using the
+identified and added

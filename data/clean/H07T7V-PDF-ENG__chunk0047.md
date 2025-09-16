@@ -1,19 +1,17 @@
-# the time.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d80823e67663046e1f503a8034df2574bd3d0f86
+title: H07T7V-PDF-ENG
+---
+# diﬀerent formal practices.
 
-A norm is a behavior that the people around you expect. Maybe
+Netﬂix is fairly famous for having the no-vacation-days policy. Amazon
 
-it’s written down in the employee manual. Very often it’s not. It’s
+has extremely strict vacation policies for diﬀerent levels of employee.
 
-community policing. It’s what the people around you expect. If you go
+I think it’s not a matter of the org chart or the org structure that you
 
-out of line and violate a norm in a community, you will know that fairly
+have. It’s not so much a matter of how formal a lot of your policies are.
 
-quickly and you will either come back into line or you’re just not going
-
-to stick around very long.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+It’s a matter of your norms. I love that word and I use it in the book all

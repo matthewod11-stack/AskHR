@@ -1,17 +1,33 @@
-# $50, 700 in additional compensation.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 379df43d6a51bcb854c0f01b6fadb4625d2a7e7b
+title: california_state_university_northridge_1
+---
+## areas of employment, promotions, job assignments and so forth.
 
-The article gives advice to employees who feel they may be and are the victim of age
+Marissa goes into and in-depth discussion of how termination on the basis of age
 
-discrirr..it1.ation and what can be done. It is noted that the employee has the Equal Employ111ent
+cannot be used and lists examples where an employer violated the ADEA. An example given
 
-Opportunity CoID..mission (EEOC) as an option. Furthermore, to strengthen a case, it is
+is when an employee over forty is removed from their current position and replaced by a
 
-11
+VOUJlQer emplovee who is less than fortv vears of aoe A ~m;:e oiVf~n ciescrihes H m1rgP. 'Who
 
-suggested that employees keep records of meeting and or written and verbal correspondence
+- 'Q
 
-leading up to a possible termination. This approach, maintaining records is helpful for an
+.,
 
-employee regardless of any avenue he or she chooses to pursue (Ventura, 1998, p. 47).
+.!JQ'"'
 
-An article written in Workforce, titled "When is an independent contractor actually
+,0
+
+was terminated along with sixty other employees, whom were nurses. The nurse Peggy
+
+Woodhouse applied for another position and did not meet the qualifications, alleged by the
+
+employer. An ADEA suit was filed, and within a short time span seventy-six nurses were
+
+hired and ninety seven percent of them were younger than the group of sixty-one nurses that
+
+were terminated. Woodhouse won the case and was awarded $50,700 in back pay and

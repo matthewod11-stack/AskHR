@@ -1,15 +1,17 @@
-# mental health over time.
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d63019acbfc000c801638f71de773c236bb36f3
+title: H087XL-PDF-ENG
+---
+# workload.
 
-Our research also shows that the higher level of burnout boundary
+Moreover, Nilam faced the challenge of adapting to diﬀerent group
 
-spanners such as Nilam experience can have spillover eﬀects on their
+norms. As a marketer, Jun was all about making quick decisions and
 
-coworkers because it increases the likelihood of engaging in aggressive
+fast iterations. Riley, however, followed the stringent protocols of their
 
-or abusive behavior. Feelings of exhaustion and of being overwhelmed
+production team and was methodical and risk-averse. Managing these
 
-can lead to abrupt or derogatory comments, displays of impatience,
-
-as well as being more prone to conﬂict. All of this poses a serious
-
-threat to the vital role boundary spanners play in fostering cross-silo
+conﬂicting approaches was stressful for Nilam and took a toll on their

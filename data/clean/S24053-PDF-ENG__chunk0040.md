@@ -1,25 +1,21 @@
-# Four Steps to Success
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e4b1408a8cf5f97735f27c902d6ede95218604a
+title: S24053-PDF-ENG
+---
+# priorities for the year.
 
-Top teams seeking to become more eﬀective can take these four steps.
+Building cohesion was also a key priority. After the oﬀ-site, the team
 
-- 1. Commit and invest. The ﬁrst step is to make a commitment that
+began every meeting with a “team moment” during which members
 
-teaming is a core skill at all levels of your organization—and that you
+talked about their behaviors and made plans for relationship-building
 
-and your team will model the right collective behaviors. Your team must
+social outings. Within a year, the regional CEO saw a meaningful
 
-make an explicit commitment to invest time and money establishing
+improvement in collaboration. Mutual support and empathy were
 
-and nurturing the ﬁve traits discussed earlier. Four hours once a year during the executive oﬀ-site won’t cut it, and funding can’t be patched
+clearly evident during meetings. Leaning on the team charter, the team
 
-together from other budgets. You’ll need to secure resources and make
-
-time on your calendar at regular intervals to work on capabilities so that
-
-they become routine behaviors.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+had begun to behave as a collective.

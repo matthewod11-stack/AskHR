@@ -1,17 +1,11 @@
-# Innovation Communities
+---
+source_path: H08D7W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70516f92883c5ca529c08497cea01a44ce0db311
+title: H08D7W-PDF-ENG
+---
+## interviewed Matt Vokoun, VP of Strategy and Business Operations at
 
-Innovations often happen at intersections, yet many companies lack
+Google, he told us that it was the one thing that made him believe that
 
-ways for innovators to connect informally and see where conversations
-
-go. This can also make innovation a lonely endeavor. It doesn’t cost
-
-much or take a lot of time to provide people with common innovation
-
-interests a means to connect and exchange ideas. At the very least, it’ll
-
-help keep them motivated. At best, it may trigger new kinds of cross-
-
-disciplinary collaborations that open up previously unseen vectors for
-
-change. Don’t be Atari, which was abandoned in frustration by another
+Google was serious about innovation.

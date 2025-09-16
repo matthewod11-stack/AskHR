@@ -1,11 +1,13 @@
-# Harness the power of travel.
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be641c1dc227dc27841c42b9d61d3af5da507b12
+title: H07VZN-PDF-ENG
+---
+## HBR / Digital Article / Developing a Successful Business Strategy in China
 
-A decade ago, over noodles at the Cathay Lounge in Hong Kong airport,
+of internal PR in making that vision known in a way that your global
 
-the head of strategy for a Fortune 500 organization said to me with a
+colleagues can understand, digest, and act upon. Only then will they be
 
-sigh, “You don’t truly think about a market until you wake up in it.”
-
-That’s often true, though few would put it so bluntly. Despite the costs
-
-of our regular visits around the world, global executives have always
+able to formulate and disseminate their own clear China strategy.

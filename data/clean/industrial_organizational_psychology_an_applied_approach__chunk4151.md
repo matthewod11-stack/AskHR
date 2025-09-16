@@ -1,7 +1,13 @@
-## Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c189b03707bc326160a16f5661f5086982736aed
+title: industrial_organizational_psychology_an_applied_approach
+---
+# number. Th e Washington Post, p. C4.
 
-review of experiments examining the eﬀ ects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6), 627–668.
+de Castro, J. M., & Brewer, E. M. (1992). Th e amount eaten in
 
-Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-
+meals by humans is a power function of the number of people present. Physiology and Behavior, 51(1), 121–125. Deci, E. L. (1972). Th e eﬀ ects of contingent and noncontingent
 
-determination in human behavior. New York: Plenum. Degner, J. (1995). Writing job descriptions that work. Credit
+rewards and controls on intrinsic motivation. Organizational Behavior and Human Performance, 8, 217–229.

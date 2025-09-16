@@ -1,15 +1,25 @@
-# undeniable.
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de331484f3bbb58085e9e01198d3793c39de5831
+title: H08C0J-PDF-ENG
+---
+## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
 
-While the beneﬁts are clear, organizations still face challenges in
+value-chain requirements that reﬂect employee health and well-being.
 
-implementing comprehensive climate and health strategies. Balancing
+This provides additional impetus for any company (especially those
 
-near-term costs with long-term gains, determining where to focus
+with a global footprint) to quickly get ahead of forthcoming regulation.
 
-eﬀorts in the face of diverse risks, and ensuring cross-functional
+. . .
 
-coordination are all areas where companies may struggle. But bold
+Tackling climate change and safeguarding employee health is a major
 
-leaders are needed to recognize the opportunity for positive impact and
+opportunity for today’s corporate leaders. These actions not only beneﬁt
 
-to champion solutions that ensure a healthy future for both employees
+individual employees but also ease the strain on public health systems
+
+and contribute directly to a stronger corporate bottom line. This
+
+“triple win” — for employees, the public sector, and businesses — is

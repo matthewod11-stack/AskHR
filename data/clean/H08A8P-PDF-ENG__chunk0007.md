@@ -1,15 +1,19 @@
-## HBR / Digital Article / When a Coworker Keeps Giving You Unsolicited Advice
+---
+source_path: H08A8P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b75f5401c29e80773f183f09edeb22dff8f06ef8
+title: H08A8P-PDF-ENG
+---
+## Frame your ideas as a decision, not a discussion.
 
-moving forward with…” This shows that you’re sharing information, not
+Instead of saying, “I’m thinking about trying X,” you could say, “I’ve
 
-soliciting feedback or looking for input on whether or not to proceed.
+decided to do X because of Y and Z beneﬁts.” You can also use
 
-Consider Dana’s situation. Instead of saying, “I’m exploring the best way
+phrases like “After a lot of research, I’ve committed to…” or “We’re
 
-to launch this new initiative,” she might say, “To get this new initiative
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-oﬀ the ground, I’m prioritizing corporate sponsorships and advertising.”
+2
 
-There’s now a higher likelihood that Ethan might ask how he can help
-
-with Dana’s plan versus volunteering more suggestions.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

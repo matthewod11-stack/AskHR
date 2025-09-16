@@ -1,31 +1,13 @@
-## HBR / Digital Article / Competing in the New Era of Industrial Policy
+---
+source_path: H08T0G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4308a1a2955fe173f3ebe69a10d0c4f40b99b1c3
+title: H08T0G-PDF-ENG
+---
+# economic self-reliance in key areas.
 
-And countries in the European Union have increased their spending
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to support industry three-fold in the last decade, according to the
+2
 
-International Monetary Fund, while the EU itself has developed a
-
-“competitiveness compass” designed to support a designated set of
-
-industries and reduce the bloc’s dependence on outsiders.
-
-Finally, in China, the hand of the state has long been on the wheel
-
-of the economy. In 2022 a panel of experts from the Asia Society
-
-and Stanford agreed that “under Xi Jinping, the leadership became
-
-even more aggressive in strengthening China’s self-reliance and self- suﬃciency in critical technology domains.”
-
-Industrial policy is a mixed blessing. At its worst, it can syphon private
-
-capital from productive to unproductive uses, boost bad ideas, shore up
-
-doomed industries, or become a sink of outright graft and corruption.
-
-The best industrial policies identify areas of market failure and leverage
-
-an economy’s inherent and unique strengths. (In the U.S., those should
-
-include its unique venture capital and business-formation ecosystem,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

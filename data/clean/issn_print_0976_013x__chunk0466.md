@@ -1,3 +1,9 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 468b6be2ee129a8a0a8c92fc4b777b7d854b85f9
+title: issn_print_0976_013x
+---
+# context.
 
-Table 2: Comparison of TCS and Infosys regarding workplace conformity and workplace
+54

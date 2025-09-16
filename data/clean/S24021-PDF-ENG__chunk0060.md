@@ -1,9 +1,23 @@
-## to the brand, even with vigilant monitoring and strict contractual
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8ce65108353e0223e710bab16ad494e3541051f
+title: S24021-PDF-ENG
+---
+# markets.
 
-clauses. While disputes between Virgin and its licensees are rare, they
+The privately owned Virgin Group has increasingly used licensing of its
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+brand to drive growth. To raise the capital needed for acquisitions to
 
-12
+enter new markets, Virgin divests existing businesses. In such cases, it
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+generally strikes a licensing agreement with the acquirer for the right
+
+to use the Virgin brand. As a result of its aggressive use of licensing,
+
+Virgin Group’s most valuable asset, the Virgin brand, is increasingly
+
+under the control of organizations of which it is not a majority owner
+
+and over which it can exercise only limited control. This creates risks

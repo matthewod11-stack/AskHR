@@ -1,9 +1,9 @@
-## the organization (and rarely on the board of directors that oversees
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4601a8c98495dbddef390f13714acf5b9747d9e
+title: H07R1O-PDF-ENG
+---
+## trusted conﬁdants with whom they can share their emotional burden.
 
-the CEO); instead, they tend to be lifelong friends, college classmates,
-
-former colleagues or mentors, or family members. Talking through
-
-issues with people who have some distance, who will speak candidly,
-
-and who will keep conversations private is essential. It can take a big
+In my experience, the people CEOs rely on for this are often outside

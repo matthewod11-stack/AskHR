@@ -1,29 +1,13 @@
-## HBR / Digital Article / How Managers Can Dismantle “Benevolent Marginalization”
+---
+source_path: H07PM3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7578a22d1b975dd488b1dc7f0a7cf34cd9512807
+title: H07PM3-PDF-ENG
+---
+# perpetuates inequality.
 
-However, a transformational moment may occur when these managers
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-confront their own fallibility, let go of their defensive positions,
+4
 
-abandon their patronizing behaviors, and provide opportunities to
-
-people with disabilities to bring out their untapped potential. This
-
-requires a change in communication from telling to listening and a
-
-change in behavior to promote inclusive practices.
-
-One example of a patronizing initiative in this context involved
-
-assigning jobs that could be carried out within the conﬁnes of
-
-the sheltered workshop, limiting public engagement. These jobs
-
-encompassed metal processing, industrial assembly, packaging, and
-
-shipping. In contrast, a successful inclusive practice involved
-
-establishing a farmer’s market in consultation with these workers and
-
-their representatives. Engaging directly with people from outside the
-
-sheltered workshop environment while selling farm produce gave these
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

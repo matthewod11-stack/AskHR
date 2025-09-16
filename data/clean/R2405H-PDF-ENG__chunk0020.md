@@ -1,17 +1,13 @@
-## HBR / Magazine Article / Safety Should Be a Performance Driver
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bde4f290e5283d8394dc9884e4a72642ae49503d
+title: R2405H-PDF-ENG
+---
+# performance.
 
-This mindset has pernicious consequences. A study conducted by one
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-of us found that managers allocated 60% fewer resources when an
+3
 
-investment was presented as a way to mitigate future losses than when
-
-it was presented as a way to boost performance. That tendency is further
-
-compounded by well-documented cognitive biases. Behavioral research
-
-shows that people often underestimate their vulnerability to negative
-
-events, leading them to neglect, defer, and underspend on precautions
-
-such as wearing seat belts, getting ﬂu shots, or undergoing cancer
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

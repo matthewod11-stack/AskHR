@@ -1,21 +1,23 @@
-# Focus on long-term goals.
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67e989b20642bfa6c89ce5c5481e697c94c15966
+title: H07P39-PDF-ENG
+---
+## HBR / Digital Article / 6 Ways to Become a More Collaborative Leader
 
-Building lasting change requires maintaining focus on the long-term
+solutions. Instead of digging in or restating your preferred approach,
 
-objective. Sometimes, being a crusader is warranted and appropriate,
+ask open questions of colleagues who don’t share your view and try
 
-particularly when urgent action is needed and you have the authority
+to identify shared perspectives. While you might see a straight line
 
-to make a change. However, these situations tend to be few and far
+between the problem and solution based on your perspective and
 
-between. If you want to achieve ambitious lasting change, it’s unlikely
+expertise, others may not see the trajectory as clearly and will struggle
 
-to happen all at once, and you most likely can’t do it by yourself.
+to enact the desired strategy as a result. Even the right decision can
 
-Confront your crusader self with these three questions: Is this problem
+lead to the wrong outcome if you’re unsuccessful in creating a shared
 
-mine to solve? Do I need to solve it alone? Do I need to solve it now?
-
-With this focus, you can apply the right level of long-term vision to the
-
-things that really matter, including letting go of ﬁghting every battle
+understanding of how to successfully implement the change.

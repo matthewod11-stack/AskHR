@@ -1,9 +1,13 @@
-# ﬁrst time on a low-key project.
+---
+source_path: H08GLN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51ff2d836ea41c1460a94ed4cfcfa8a1cbe9cebd
+title: H08GLN-PDF-ENG
+---
+# HBR / Digital Article / To Help Your Team Learn, Set Them Up for Productive Failure
 
-Separating these two goals is critical for productive failure to work
+to cause failure and struggle, which drives exploration and creative
 
-eﬀectively. By clearly communicating which tasks are learning vs.
+problem-solving. Examples of such tasks could include creating a new
 
-performance-focused, managers can normalize failure in the learning
-
-zone, creating a safe space for experimentation and growth.
+product feature from scratch or leading a cross-functional team for the

@@ -1,11 +1,19 @@
-## Losing Patience with Change Initiatives,” HBR.org, May 9, 2023.)
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b638dc88335cf870944295f8e321fde00bd5a85
+title: R2403F-PDF-ENG
+---
+## from the transition to electric vehicles.
 
-We believe that if leaders fully understood the eﬀects of reorganizations
+Throughout the business world, companies see the ability to restructure
 
-on mental health, turnover, and job performance, they would limit them
+quickly as the key to long-term success. Yet without employee support,
 
-or go about them in diﬀerent ways. While many new organizational
+change eﬀorts fail. Lately that support has been harder for companies to
 
-structures are unlikely to last, all too often they involve changes that
+come by. Gartner’s Cian O Morain and Peter Aykens note that a survey
 
-cannot be easily reversed, such as laying oﬀ employees and hiring new
+conducted by their company found that employee willingness to get
+
+behind new initiatives plunged from 2016 to 2022. (See “Employees Are

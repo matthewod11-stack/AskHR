@@ -1,9 +1,11 @@
-# pinnacle of corporate leadership.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7517f89fd44b912e002f5e34cf2618b861353803
+title: H07WED-PDF-ENG
+---
+# Outstanding Exceptions
 
-Alan Mulally is one of the most remarkable examples of a project
+While Sarah, John, and countless others faced career stagnation, some
 
-management expert becoming a CEO. He began his career as an
-
-engineer at Boeing, where he gained experience managing large
-
-projects related to aircraft development. Later, he was appointed as
+exceptions highlight the potential for project managers to reach the

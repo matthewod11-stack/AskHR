@@ -1,7 +1,13 @@
-# formance. San Francisco: Jossey-Bass.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 7c9a3c6358a11b169fda2c45f5d44bbbbf02de57
+title: barrickryan_eds_personality_and_work
+---
+# Jossey-Bass.
 
-Iverson, R. D., & Deery, S. (2001). Understanding the “personological” basis of employee withdrawal: The inﬂuence of affective disposition on employee tardiness, early departure, and absenteeism. Journal of Applied Psychology, 86, 856–866.
+Hunter, J. E. (1983). A causal analysis of cognitive ability, job knowledge, job performance, and supervisor ratings. In F. Landy, S. Zedeck, & J. Cleveland (Eds.), Performance measurement and theory (pp. 257–266). Mahwah, NJ: Erlbaum.
 
-Jackson, S. E. (1992). Consequences of group composition for the inter- personal dynamics of strategic issue processing. In P. Shrivastava, A. Huff, & J. Dutton (Eds.), Advances in strategic management (Vol. 8, pp. 345–382). Greenwich, CT: JAI Press.
+Hurtz, G. M., & Donovan, J. J. (2000). Personality and job performance: The Big Five revisited. Journal of Applied Psychology, 85, 869–879.
 
-James, L. R. (1998). Measurement of personality via conditional reason-
+Ilgen, D. R., & Pulakos, E. D. (Eds.). (1999). The changing nature of per-

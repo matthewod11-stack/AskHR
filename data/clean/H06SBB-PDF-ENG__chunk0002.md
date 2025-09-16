@@ -1,3 +1,7 @@
-## IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For Now?
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 600e8d1ae2fa896778b16b7c53796fc8ef7b93f5
+title: H06SBB-PDF-ENG
+---
+# Global Business

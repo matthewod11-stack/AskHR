@@ -1,21 +1,29 @@
-# Our First Shop
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 579b0b4bd014ed35ba8052c7e3e50e9f5f6e9d40
+title: R2303A-PDF-ENG
+---
+# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
 
-Bitty & Beau’s Coﬀee is our attempt to change that. We started planning
+Hands together for the company cheer; customers get personal messages on their cups Matt Ray
 
-our ﬁrst shop in November 2015. Friends in the coﬀee business advised
+As the parents of Beau and Bitty, we quickly learned that in the United
 
-us on sourcing quality beans and what machinery we’d need. We
+States and most other places around the world, people with disabilities,
 
-researched other aspects of food and beverage service online. We found
+particularly intellectual and developmental ones, are treated diﬀerently
 
-a 500-square-foot spot to rent and set to work to outﬁt it properly. We
+from everyone else. Sure, charitable and advocacy organizations and
 
-included signage that explained our mission and a TV monitor on which
+some K–12 school systems are working to shift that dynamic. But in
 
-a video loop would present disability statistics and showcase our team
+all the years we’ve spent fundraising for and blogging and speaking
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+publicly about this issue, it often feels as if we’re preaching to the choir.
 
-4
+The disability community remains a subculture disconnected from
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mainstream society. Adults especially still struggle to integrate. And one
+
+of the greatest obstacles they face is a lack of access to employment.

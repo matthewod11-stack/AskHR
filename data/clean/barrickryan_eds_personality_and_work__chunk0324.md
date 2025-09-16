@@ -1,5 +1,9 @@
-# Expanding the Motivation Construct
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 4b4c03d28ee1be2f1588de42c47eb466456d5a40
+title: barrickryan_eds_personality_and_work
+---
+# PERSONALITY AND JOB PERFORMANCE 101
 
-The models of Campbell et al. (1993) and Motowidlo et al. (1997) differ in how they conceptualize motivation. Campbell et al. use a cognitive choice model of motivation, in which the choice to per- form leads directly to behavior. There is no explicit provision for motivational processes that may be used to overcome difﬁculties in the accomplishment of the intention to perform. Campbell et al. do say that the investigator’s favorite model of motivation can be inserted into that component of their theory, so the theory does allow for a conceptualization of motivation that is more complex than the three choices they specify. Because motivation is such an important mediating variable between personality and job perfor- mance, it is necessary to describe that aspect of the model more completely to provide a true understanding of the nature of this relationship.
-
-Motowidlo et al. (1997) replaced the motivation component with work habits, which they deﬁned as stylistic ways that people han- dle different kinds of situations that occur on the job, learned as their basic tendencies (personality traits) interact with their envi- ronments over time. Habits are an important component to include in a model of performance determinants because they may interfere with performance despite motivation to perform in a certain way. Rather than replacing the motivation component, however, work
+formance. A measure of conscientious initiative may be more a measure of motivation than one of performance. Because demon- strating effort necessarily precedes any type of performance and is related to both task and contextual performance, conscientious initiative was expected to inﬂuence both personal support and task performance directly. In this model, task knowledge mediated the relationship between ability and task performance and the rela- tionship between achievement and task performance. Personal support knowledge did not mediate the relationship between agreeableness and personal support, and conscientious initiative knowledge did not mediate the relationship between achievement and conscientious initiative. Conscientious initiative did mediate the relationships between achievement and the dimensions of per- sonal support and task performance.

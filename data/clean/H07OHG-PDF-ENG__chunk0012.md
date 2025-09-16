@@ -1,9 +1,11 @@
-## and data science, that recruit, support, and train apprentices on
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46ac47147bdb0f38a0983e0f4e46c299497c891c
+title: H07OHG-PDF-ENG
+---
+# Department of Labor.
 
-behalf of large employers. One UK-based provider, Multiverse, was
+This trend is powered by a growing number of companies, many of
 
-recently valued at $1.7bn and claims to have served 10,000 apprentices.
-
-“We’ve long been believers in the apprenticeship model, and we’ve
-
-found it particularly eﬀective for tech and digital jobs,” said Rashitha
+which are focused on fast-growing ﬁelds like software engineering

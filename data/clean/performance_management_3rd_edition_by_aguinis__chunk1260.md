@@ -1,5 +1,13 @@
-# online.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 80b21769cd77b67b89a07cf0f588ef1663f64d7b
+title: performance_management_3rd_edition_by_aguinis
+---
+## of employees and managers from the organization.
 
-Chapters 4 and 5 described operational details about how to measure performance. Chapter 6 described operational details about appraisal forms and the process of providing performance ratings. This chapter, the last one in Part II, continues to address operational issues in implementing a performance management system. Specifically, it addresses the steps needed before the system is put in place, such as setting up good communication and appeals procedures that will gain system acceptance, implementing training programs to minimize rating errors, and pilot testing the system. Finally, the chapter describes how to monitor the system once it is in place to make sure it is working properly as well as the possibility of implementing the system online.
+(cid:2) As soon as the performance management system is in place, collect various
 
-7.1 PREPARATION: COMMUNICATION, APPEALS PROCESS,
+measurements that will provide information regarding the system’s effectiveness, the extent to which it is working the way it should, and whether it is producing the expected results.
+
+(cid:2) Understand issues involved in implementing a performance management system

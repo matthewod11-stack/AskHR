@@ -1,11 +1,13 @@
-## more frequent, visible reminders from senior leadership to employees
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 760bff2a48d68583d9b0ba32876b7ca548d49eb6
+title: H06K3M-PDF-ENG
+---
+# catch-up on emails, and recharge.
 
-about the importance of prioritizing only the most important work
+- The initiation of more frequent pulse surveys focused on well–
 
-and focusing on self-care. As an example, many senior leaders turned
+being and stress. Targeted actions emerged from a rapid cadence of
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+employee listening. One action taken because of these surveys was

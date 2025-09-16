@@ -1,11 +1,9 @@
-## Europe’s Corporate Sustainability Reporting Directive (CSRD). Eﬀective
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12a29b3a44ac84594070b5b46ef464add72d6b1f
+title: H08C0J-PDF-ENG
+---
+# indoor environment.
 
-this year, with ﬁrst reports due in 2025, CSRD requires companies
-
-to disclose extensive data on their sustainability practices, including
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-12
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Moreover, increased reporting requirements are coming, such as

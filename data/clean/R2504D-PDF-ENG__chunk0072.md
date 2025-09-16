@@ -1,19 +1,19 @@
-## Jimmy Carter’s use of personal diplomacy at Camp David during
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce3c0f95929bed11a56452b6cd49a1fbe20e0f5b
+title: R2504D-PDF-ENG
+---
+# Be Opportunistic
 
-Middle East peace negotiations in 1978 demonstrated this principle
+The most profound negotiation breakthroughs often happen because of
 
-in action. Isolating Egyptian president Anwar Sadat and Israeli prime
+something unexpected—a surprise emotional encounter, unanticipated
 
-minister Menachem Begin at Camp David for 13 days, Carter created
+common ground, or a crisis that reveals a shared problem. Skilled
 
-a pressure-cooker environment that forced breakthrough moments.
+mediators learn to watch for emotional turning points, informal
 
-He famously showed Begin pictures of his grandchildren at a crucial
+channels, surprising areas of alignment, and other subtle opportunities
 
-moment of deadlock, helping the Israeli leader reconnect with the
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-16
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that can transform conﬂicts.

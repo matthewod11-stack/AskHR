@@ -1,5 +1,7 @@
-## ality description. Psychological Bulletin, 117, 187–215.
-
-Boies, K., Lee, K., Ashton, M. C., Pascal, S., & Nicol, A.A.M. (2001). The structure of the French personality lexicon. European Journal of Per- sonality, 15, 277–295.
-
-Briggs, S. R. (1989). The optimal level of measurement for personality constructs. In D. M. Buss & N. Cantor (Eds.), Personality psychology: Recent trends and emerging directions (pp. 246–260). New York: Springer.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 43b88186a936e1522b502230d4999cdc4d7ff636
+title: barrickryan_eds_personality_and_work
+---
+## Block, J. (1995). A contrarian view of the ﬁve-factor approach to person-

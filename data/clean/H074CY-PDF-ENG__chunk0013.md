@@ -1,15 +1,9 @@
-## formal training courses and life experience (hobbies, interests, family:
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0153cb9438df56cfe9577fed7ad28748712e8099
+title: H074CY-PDF-ENG
+---
+## feedback) accounts for about 70% of the professional-development
 
-the other things you do and love outside work).
-
-For the giver of feedback, the process is key to getting people to practice
-
-the right things, prioritize opportunities, and clarify accountabilities
-
-owned by the individual versus the manager or the company. It’s also
-
-key to eﬀective leadership. The higher you rise in any organization,
-
-the more dependent you are on subordinates’ performance. This reality
-
-has implications for what managers must do before, during, and after a
+learning relevant to career advancement, with about 15% each for

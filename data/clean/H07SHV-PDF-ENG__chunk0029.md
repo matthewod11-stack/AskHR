@@ -1,43 +1,49 @@
-# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
-
-in this work, quite frankly. Because I wanted to be happier. As a social
-
-scientist, I applied my own toolkit to myself. I wanted to be a happier
-
-person. And since I’ve been writing about the science of happiness,
-
-guinea-pigging it on myself, everything that I suggest in my column in
-
-The Atlantic and to my students, I do myself ﬁrst to make sure that I
-
-actually believe it works. I’m not just reading academic journal articles
-
-and then teaching it to other people.
-
-My happiness has risen by 60% in the last four years. In just four years.
-
-To be sure it started at kind of a low baseline, but 60% is a lot based on
-
-the best measurement techniques for happiness. So I know it works, and
-
-I see the results of this every day among my students as well.
-
-ADI IGNATIUS:
-
-Let’s keep you on the couch a bit more. You come across as a positive,
-
-presumably happy person. I know ﬁrst impressions can be oﬀ, but even
-
-the sentence, “My happiness is up 60%,” I can’t imagine really what
-
-you’re measuring to come up with such a speciﬁc ﬁgure. What are some
-
-measurements? Why have your numbers changed and how?
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 329e1321324a006f7751d772162fa786677553cb
+title: H07SHV-PDF-ENG
+---
+# teaching?
 
 ARTHUR C. BROOKS:
 
-There are some general wellbeing surveys people can take. They’re all
+They really crave it. I mean, the most skeptical ones are probably not
 
-over the Internet. And if they’re psychometrically robust, they can do a
+taking the class. It’s an elective, after all. The ones who are really
 
-good job. What I like to look at, however, is I pull apart the negative and
+skeptical are across the hall in supply chain management or something.
+
+But the truth is that they really crave it and it’s because they want it.
+
+My approach is basically this: you can be happier, but you have to
+
+understand the science. You need to use the science to change your
+
+habits and your lifestyle, and then you need to teach it to other people
+
+to make it permanent in your life. The class is called “Leadership and
+
+Happiness” because I want every leader to become a happiness teacher.
+
+I’m doing 175 talks a year outside of Harvard, talking to business
+
+audiences primarily. And I say, “Look, I’m going to show you a bunch
+
+of PowerPoints on the science of happiness, and what I want you to do
+
+is to take these slides, take my name oﬀ, put your name on, and I want
+
+you to teach it to somebody so that you permanently understand this
+
+technology and you don’t forget it in your own life.”
+
+That’s the way to get it done. That’s the way that we teach it at Harvard,
+
+and it really, really works. I’m telling you, Adi, I am my own ﬁrst patient
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

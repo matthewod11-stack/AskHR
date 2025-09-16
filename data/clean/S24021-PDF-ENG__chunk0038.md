@@ -1,19 +1,17 @@
-## potential in terms of “demand side” factors: external trends, market
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 764acb687fa7ed2b27f615f9894fccf8c655b60b
+title: S24021-PDF-ENG
+---
+## critical bottleneck resource—in this case, store managers—and paces
 
-share, and other metrics such as total addressable market. These are
+growth according to the rate at which it can develop them. This
 
-important, of course, but they are only half the story. Supply-side
+approach has almost certainly meant slower growth in number of stores
 
-constraints matter just as much: High demand potential does not
+and revenue, but it has been critical to maintaining the company’s
 
-translate into proﬁtable growth unless an organization has or can
+unique operating model and its superior ﬁnancial performance.
 
-develop the capabilities needed to meet that demand. So a strategic
-
-perspective on growth means analyzing the company’s sustainable
-
-growth rate (considering all resources, not just money) and then
-
-thinking through the trade-oﬀs inherent in faster or slower growth.
-
-For instance, there may be excellent strategic reasons to grow more
+In my research, I’ve found that most companies think of growth

@@ -1,9 +1,11 @@
-## classic ET theory in the new context of GVTs.
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: 481fbe488ffc7d17ef5d516f76bcd3ef3e5f4d36
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+# s and subject to
 
-Interestingly, findings show that personal predispositions or traits still hold a nd possess critical value in GVTs as in traditional workplaces. In other words, the team members’ inclination to adopt an altruistic behavior or a more self-centered position – defined, in ET, as Benevolent or Entitled – is the key to explaining the effect of input-reward perceptions with regard to employee morale and motivation.
+The gap in the literature that we aim to fill is tes
 
-Section 2 reviews the literature and lays out our hypotheses. Section 3 details our methods,
-
-sampling procedures, study context and measures, followed by a report of the results of our analyses in Section 4. Finally, in Section 5, we discuss the theoretical and practical implications of our findings, the limitations of this study and the directions for future research.
-
-- 2. Literature review and theory development
+ting and revisiting the predictions of a

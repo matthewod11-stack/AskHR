@@ -1,7 +1,11 @@
-# The New Strategy Calendar
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfd1848f9755727b496e3c9189b184dcf9612a23
+title: R0510D-PDF-ENG
+---
+# Manage strategic initiatives.
 
-At scorecard-driven companies, the strategic processes are carried out or super-
+by customer service) or by an ad hoc team drawn from the functions or units affected. Responsibility for managing initiatives that al- ready have a natural home should remain with the associated unit or function. The OSM intervenes only when an initiative falls behind schedule, is over budget, or is not delivering expected results. But the OSM should manage initiatives that cross unit and functional lines—it can thus make sure that they get the resources and attention they need. In all cases, the OSM retains responsibility for monitoring the progress of strategic initiatives and report- ing on them to top management.
 
-vised by the ofﬁce of strategy management in coordination with the appropriate
-
-management teams or executives. This ensures that the strategy is fully reﬂected
+Integrate strategic priorities with other support functions. Existing functional depart- ments retain prime responsibility for three other key processes necessary for successful strategy implementation: planning and bud- geting, human resource alignment, and knowledge management. These processes are critical for effective strategy execution, and

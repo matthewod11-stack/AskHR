@@ -1,3 +1,9 @@
-# TG
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6b12224be753f8269a786ecae3debe77d6d683e6
+title: R2505H-PDF-ENG
+---
+# BF
 
-Tony Guidotti is a senior researcher for the Ownership Project at Harvard Business School, where he leads projects exploring how the structure of ownership can help communities advance the common good and support human values.
+Ben Francois is the managing partner of BanyanGlobal Family Business Advisors, where he advises family enterprises on strategy, governance, structure, and generational transitions.

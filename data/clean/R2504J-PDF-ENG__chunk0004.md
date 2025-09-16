@@ -1,25 +1,21 @@
-## Two years earlier, by contrast, on December 12, the pharmaceutical
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 987511adf30024c2a1f35f3b67fa6ccc667ae596
+title: R2504J-PDF-ENG
+---
+# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
 
-ﬁrm the Medicines Company had announced that it was going to buy
+up 13% after the deal’s announcement. Clearly, investors believed in the
 
-the specialty drugmaker Incline Therapeutics. It turned out to be very
+company’s rationale for the purchase.
 
-similar to the Spansion deal in terms of value creation: A year later
+An examination of the longer-term consequences of the deal suggests
 
-the combined entity’s market cap was also 13% higher. But when Clive
+that their optimism was warranted. When we looked at the value of the
 
-Meanwell, the CEO of Medicines, had presented the deal to the ﬁnancial
+company a full year later, we found that its market cap was still 13%
 
-markets, the response was lukewarm: The share price rose by only 1.8%.
+higher than it had been before the acquisition. The stock market had
 
-Clearly, investors hadn’t understood the reasons for the purchase.
-
-This turns out to be a pattern. When we analyzed a sample of 654
-
-large deals in the United States that had taken place from 2012 to 2017,
-
-we frequently found this kind of disparity between comparable deals.
-
-With any given acquisition or merger, the markets might or might not
-
-immediately factor in the value that the company predicted it would
+accurately anticipated the deal’s potential.

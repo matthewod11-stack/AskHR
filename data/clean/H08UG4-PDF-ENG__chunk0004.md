@@ -1,15 +1,15 @@
-# HBR / Digital Article / New Research Debunks a Common Criticism of Pay Transparen…
+---
+source_path: H08UG4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5df0d67d7b0dd0496e55d5e009c00bbe9569d70
+title: H08UG4-PDF-ENG
+---
+## ratings of compensation satisfaction from more than 1,300 publicly
 
-The old thinking assumed that employees who discover they are paid
+traded ﬁrms shows that this may not always be the right choice.
 
-less than others will be unhappy, while those who learn that they earn
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-more than others will feel their pay is justiﬁed, leading to no change in
+1
 
-their satisfaction. If these reactions to pay transparency hold true, ﬁrms
-
-only face downsides from being more transparent about pay.
-
-However, our research shows this conventional thinking may be
-
-unfounded. We conducted a study using Glassdoor compensation
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

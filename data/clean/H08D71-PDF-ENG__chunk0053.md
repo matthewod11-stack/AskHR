@@ -1,3 +1,9 @@
-# MP
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba760b77cd747ba4404000ffe165f10c49b591f0
+title: H08D71-PDF-ENG
+---
+# Chinese competitors.
 
-Mitch Presnick is a visiting fellow of practice at the Fairbank Center for Chinese Studies at Harvard University. He is the founder and former chair & CEO of Super 8 Hotels China, the founder and former managing director of the China practice of APCO Worldwide, a Washington D.C. advisory and advocacy ﬁrm, and the former vice chair of the American Chamber of Commerce in China.
+This article was originally published online on August 26, 2024.

@@ -1,3 +1,7 @@
-# for academia and organizational worlds
-
-to keep developing better
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: e65dbc9475880a15b837568b1f696fb54f0b0d4b
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# possible

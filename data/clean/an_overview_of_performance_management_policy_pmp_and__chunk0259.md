@@ -1,19 +1,9 @@
-## Personal information Name: Age: Contact: Designation: Department: Division
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: a3dbd0e57c4cce160505cd751e2355536c4bd0be
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# Appendix A:
 
-- (cid:32) Which work duties/errands do you appreciate most? Which do you least appreciate?
-
-- (cid:32) How would you think your job assists the organization with succeeding?
-
-- (cid:32) What do you like least about your present job? What might you change?
-
-- (cid:32) What do you like most about working for this organization?
-
-(cid:32) It is safe to say that you are happy with the Performance Management Policies?
-
-33
-
-(cid:32)
-
-(cid:32)
-
-(cid:32)
+QUESTIONNAIRE:

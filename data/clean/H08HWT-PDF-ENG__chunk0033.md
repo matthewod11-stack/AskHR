@@ -1,9 +1,17 @@
-# achievement.
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e6df85ceacfcfad8682936d5010cc7afd56801b
+title: H08HWT-PDF-ENG
+---
+## experiences, and the very nature of human potential.
 
-Give yourself permission and space to excel in an AI-ﬁrst world.
+By asking AI questions that challenge assumptions and venture into the
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+unknown, you not only get creative responses but develop a mindset
 
-8
+that primes you to see possibilities that others miss. Leaders who foster
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+these mindshifts within their teams will ﬁnd themselves cultivating
+
+a culture where “the impossible” becomes a daily challenge — and

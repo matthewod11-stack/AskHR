@@ -1,9 +1,7 @@
-## The soul and heart of leadership generate commitment and energy but
-
-unleashing it in a meaningful way requires something more. This is
-
-where eﬀective leaders mobilize people in a process of action, learning
-
-and change aimed at solving tough problems and pursuing meaningful
-
-opportunities. This is what we call the mind of leadership — advancing
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5ff6d86bed6c12709c80d75433c75021b6cdee7
+title: H08F9M-PDF-ENG
+---
+# Drive action, learning, and change.

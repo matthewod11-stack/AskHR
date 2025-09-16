@@ -1,5 +1,25 @@
-## whose Endeavor (2018) and Voyager (2022) buildings in Santa Clara
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9958e9a074e6eae5c8b11e08779f36c08227111a
+title: H08P90-PDF-ENG
+---
+# HBR / Digital Article / To Drive Innovation, Create the Conditions for Serendipity
 
-have been described as a “Mecca of physical meet-ups.” With their open
+design spaces that make it easy for them to connect. Steve Jobs, Apple’s
 
-catwalks, central plazas, and terraced platforms, they are structured to
+famous co-founder, argued, in connection with his design choices for
+
+Pixar’s headquarters, that: “There’s a temptation in our networked
+
+age to think that ideas can be developed by email and iChat—that’s
+
+crazy. Creativity comes from spontaneous meetings, from random
+
+discussions. You run into someone, you ask what they’re doing, you say
+
+‘Wow,’ and soon you’re cooking up all sorts of ideas.”
+
+Following his lead, many companies have designed their headquarters
+
+to encourage serendipitous interactions. A standout example is Nvidia,

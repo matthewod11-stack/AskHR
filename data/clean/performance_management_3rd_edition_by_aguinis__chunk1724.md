@@ -1,7 +1,7 @@
-## Part IV • Reward Systems, Legal Issues, and Team Performance Management
-
-(cid:2) Understand the role played by six legal principles in the implementation of
-
-performance management systems: employment at will, negligence, defamation, misrepresentation, adverse impact, and illegal discrimination.
-
-(cid:2) Identify the point at which a performance management system allows illegal
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b249f896c24ea1378ead3f25519823def998c13f
+title: performance_management_3rd_edition_by_aguinis
+---
+# 264

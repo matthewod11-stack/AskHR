@@ -1,5 +1,11 @@
-## SELF-MONITORING PERSONALITY AND WORK RELATIONSHIPS 217
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: bb10cfaf60f55f8a3964bea0e2e155d08099ad4a
+title: barrickryan_eds_personality_and_work
+---
+# Negative Ties and Multiplexity
 
-relation is that of two suitors for the same marriage partner: the success of one suitor spells the failure of the other. The focal indi- vidual in the middle of two negatively connected people has the (sometimes) difﬁcult task of choosing between them for a lunch date, a business contract, or some other competitive outcome. High self-monitors, with their tendency to bridge across uncon- nected groups, are more likely than low self-monitors to face the stress of competing demands for their time and other resources. Whereas the low-self-monitoring strategy is likely to focus on bring- ing people together, the high self-monitor may be forced to choose between favoring one party or the other.
+Before elaborating more on the relationship between self-monitoring personality and social networks, two additional types of ties need to be mentioned because of their relevance.
 
-The second additional type of tie to consider is the multiplex tie. This describes relationships in which actors are connected in more than one type of association. For example, someone might be a work associate, a neighbor, and a friend. Although proximity is likely to be a strong predictor of multiplexity (Brass, 2001), the partner-based orientation of low self-monitors is also likely to con- tribute to multiplex ties being created. Low self-monitors tend to afﬁliate with others who are similar to them, regardless of the so- cial context, and they may prefer to form multiple relations with the same people rather than seek out specialist partners for dif- ferent activities.
+There is little in the published literature on negative ties (Labi- anca, Brass, & Gray, 1998, is a notable exception); nevertheless, this type of tie is worth considering because of the known role of neg- ative affect on individual cognition and behavior. Negative ties de- scribe relationships in which one person has a negative affective judgment of another in the network; thus, negative ties can be con- sidered to be at the opposite end of the affective continuum from strong and weak ties (Brass, 2001). These are aversive relationships such that one (or more) of the actors is motivated to avoid the other. Low self-monitors are likely to surround themselves with strong, positive relationships, whereas high self-monitors may ﬁnd themselves mediating between individuals who dislike each other. High self-monitors, relative to low self-monitors, are also likely to ﬁnd themselves dealing with negatively connected relations (see the review in Brass, 1992). These situations occur when two peo- ple are competing for the same relationship with a third person. The classic example of two people with a negatively connected

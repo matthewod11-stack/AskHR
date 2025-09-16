@@ -1,11 +1,13 @@
-# disabled applicants.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46246bb386c0f71f516661172afda8d09c672e6d
+title: H087G0-PDF-ENG
+---
+## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
 
-There is no one-size-ﬁts-all advice here. Many people believe that
+Consider your timing. There are also pros and cons to when to disclose.
 
-disclosing early allows them to live according to their values and to ﬁlter
+For example, while job candidates are not required to disclose during the hiring process, many hiring managers feel aﬀronted by a lack of
 
-out organizations that might be a poor ﬁt. At the same time, others lack
-
-the economic safety net to allow for a prolonged job search.
-
-Think about these factors for diﬀerent timing options:
+disclosure. And yet many hiring managers also discriminate against

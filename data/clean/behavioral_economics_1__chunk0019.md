@@ -1,39 +1,29 @@
-# domains.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: cfceb1b9adcd57951e2bfe408eb23b3821f5d1d3
+title: behavioral_economics_1
+---
+# analysis.
 
-Choice over time: If choices are dynamically consistent, then the discount weight put on future utilities
+7 The one-parameter version of Prelec’s axiomatically-derived weighting function is π(p)=1/exp((ln(1/p)γ) (where exp(x)=ex). In this remarkable function, the ratio of overweighting π(p)/p grows very large as p becomes very small, as if there is a quantum of attention put on any probability, no matter how low. For example, with γ=.7 (an empirical estimate from experiments), π(1/10)=.165, π(1/100)=.05, and π(1/1,000,000)=.002. This type of extreme relative overweighting of very low probabilities is useful for explaining overreaction to rare diseases (mad cow disease), and the huge popularity of high-prize Powerball lotteries. 8 The coefficient of loss-aversion is defined as the ratio of the limits of marginal utilities at the reference point, where marginal utilities approach from below and above, respectively. This definition allows a “kink” at the reference point which exhibits “first-order risk-aversion” (i.e., the utility loss from a gamble is proportional to the standard deviation, so that agents dislike even small-stakes gambles; Segal and Spivak, 1990).
 
-must be exponential (u(xt)=δt). While dynamic consistency is normatively appealing, it seems to be contradicted
+8
 
-by everyday behavior like procrastination and succumbing to temptations created by previous choices.9 To
+Choice over ambiguity: Subjective expected utility (SEU) assumes that subjective (or, in Savage’s
 
-understand these phenomena, Laibson (1997) borrowed a two-piece discounting function from work on
+term, “personal”) probabilities are revealed by the willingness to bet on events. However, as Ellsberg’s famous
 
-intergenerational preference. His specification puts a weight of 1 on immediate rewards, and weights u(xt)=βδt
+1961 paradox showed (following Keynes and Knight), bet choices could depend both on subjective likelihood
 
-on rewards at future times t. This “quasi-hyperbolic” form is a close approximation to the mountains of
+and the “weight of evidence” or confidence one has in the likelihood judgment; when bets are “ambiguous”
 
-evidence that animal and human discount functions are hyperbolic, d(t)=1/(1+kt), and is easy to work with
+decision weight is lower. In SEU, subjective probabilities are a slave with two masters—likelihood and
 
-analytically. (Rubinstein, 2003 suggests an alternative based on temporal similarity.) The β-δ model has been
+willingness to bet (or decision weight). As Schmeidler (1989) pointed out, a simple resolution is to assume that
 
-calibrated to explain regularities in aggregate savings and borrowing patterns (Angeletos, Laibson, Tobacman,
+decision weights are nonadditive. Then the nonadditivity is a measure of “reserved belief”, or the strength of the
 
-2001), and applied to the study of procrastination and deadlines by O’Donoghue and Rabin (2001).
+unwillingness to bet on either color in the face of missing relevant information. Mukerji and Tallon (2004)
 
-Self-interest: The idea that people only care about their own monetary or goods payoffs is not a central
-
-tenet of rational choice theory, but it is a common simplifying assumption. Economists also tend to be skeptical
-
-that people will sacrifice to express a concern for the payoffs of others. As Stigler (1981) wrote, “when self-
-
-9 See also Gul and Pesendorfer, 2001, who model a distaste for flexibility when choice sets include tempting goods.
-
-9
-
-interest and ethical values with wide verbal allegiance are in conflict, much of the time, most if the time in fact,
-
-self-interest theory…will win.”
-
-Despite skepticism like Stigler’s, there is a long history of models that attempt to formalize when people
-
-trade off their own payoffs for payoffs of others (e.g., Edgeworth, 1881; “equity theory” in social psychology;
+describes many theoretical applications of ambiguity-aversion models to contracting, game theory and other

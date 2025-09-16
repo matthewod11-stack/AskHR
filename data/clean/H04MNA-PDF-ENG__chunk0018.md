@@ -1,5 +1,27 @@
-# HBR / Digital Article / To Combat Harassment, More Companies Should Try Bystander …
+---
+source_path: H04MNA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86791e720faa69e45899f959b0c8d1d52a8da856
+title: H04MNA-PDF-ENG
+---
+## work environments. So bystander intervention, which Stapleton and
 
-At the most fundamental level, bystander interventions could begin —
+others are beginning to develop for workplaces, is designed to help
 
-long before an incident of harassment — with workers having non-
+everyone ﬁnd their voice and give them tools to speak up.
+
+It’s all about building a sense of community. “Bystander intervention is
+
+not about approaching women as victims or potential victims, or men as
+
+perpetrators, or potential perpetrators” she said. “Rather, it’s leveraging
+
+the people in the environment to set the tone for what’s acceptable and
+
+what’s not acceptable behavior.”
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

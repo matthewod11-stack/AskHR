@@ -1,3 +1,9 @@
-# 3 Acceptable
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 6315e1a10b350101b531a4bd016ebb56837eb390
+title: document_resume
+---
+# 4 Very Good
 
-Conducts pre and post conferences in a non-threatening, student- oriented atmosphere. Uses objective of the day to relate theory to practice and suggests possibilities of application to students. Elicits student input. Uses post conference to follow up on con- cepts introduced during the pre conference.
+Implements objective of the day by encouraging students' suggestions as to how the objective could be achieved. Makes an effort to involve all students. Uses post conference to follow through with the objective in practice. Maintains flexible format to include unforeseen situations that may occur.

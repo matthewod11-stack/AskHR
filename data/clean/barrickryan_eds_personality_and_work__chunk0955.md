@@ -1,11 +1,11 @@
-# L
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: cf7f0cdbcecebd80554711f7744ee6457aaaae56
+title: barrickryan_eds_personality_and_work
+---
+# NAME INDEX 351
 
-Labianca, G., 216 Laczo, R., 152 Lance, C. E., 99 Landy, F. J., 30 LaRocco, J. M., 169 Larsen, R. J., 131, 135, 137, 140, 141,
+Kraimer, M. L., 205, 211, 266, 298 Kramer, G. P., 47 Kristof, A. L., 263, 264 Kristof-Brown, A. L., 262, 263, 264, 266, 267, 270, 274, 277, 279
 
-143, 167
-
-Larson, L. M., 301 Latack, J. C., 275 Latham, G. P., 65 Lau, C., 269 Lauver, K. J., 262, 263, 303 Lazarsfeld, P. F., 221 Lazarus, R. S., 134, 173 Le, B., 129 Leach, J., 298 Ledford, G. E., Jr., 32 Lee, C., 73 Lee, K., 7, 9, 302 Leggett, E. L., 139, 243 Lehto, A. T., 253 Leiter, M. P., 172 Leong, F.T.I., 264 LePine, J. A., 90, 97, 185, 186, 200,
-
-233, 280, 281, 304, 309
-
-Leslie, J. B., 93 Levin, I., 127, 128, 170 Levinson, D. J., 197 Lewis, M., 302 Liden, R. C., 205, 211 Liebler, A., 279 Lim, B., 297 Lindgren, K. P., 311
+Kuhl, J., 102, 105, 106 Kuhlman, D. M., 158 Kulik, C. T., 64, 169 Kuncel, N. R., 236, 247 Kuptsch, C., 312 Kurek, K. E., 121, 129, 137 Kwun, S. K., 128

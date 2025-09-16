@@ -1,7 +1,11 @@
-## when specialists in particular technologies or management issues with
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45b7c81942e681d23dec61e7c9a1e3733bdfdc3f
+title: H08DSC-PDF-ENG
+---
+# HBR / Digital Article / Why Companies Should Consolidate Tech Roles in the C-Suite
 
-them are needed. However, the trend toward specialized technology
+There are a variety of technologies and applications in use within
 
-and data leaders has, we feel, gone too far. Greater coordination and
-
-integration is needed, and SuperTech leaders with a strong connection to the business can help make information technology a more eﬀective
+organizations today, both familiar and emerging. There are times

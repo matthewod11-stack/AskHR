@@ -1,11 +1,15 @@
-## environment of connection, inclusion, and trust. Collaborative
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fa43feb3f3f6006052d506b0ea0efa5651c5ec8
+title: S24053-PDF-ENG
+---
+## workforce of 80,000—spends 15 minutes of every monthly meeting
 
-behaviors include developing personal relationships, giving everybody
+studying the “failure of the month.” It’s an agenda item that many look
 
-an equal voice, and sticking to commitments. Teams that excel at
+forward to because it’s constructive and free of judgment.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Collaboration. The very heart of teaming is collaboration. It combines
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+direction, discipline, drive, and dynamism, and it thrives in an

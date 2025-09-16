@@ -1,7 +1,15 @@
-# References
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 1a2103f0f42f8c1bac147e5740872087c2aaf10f
+title: read_online
+---
+# Original Research
 
-Almalki, M., FitzGerald, G. & Clark, M., 2012, ‘The relationship between quality of work life and turnover intention of primary health care nurses in Saudi Arabia’, BMC Health Services Research 12(1), 314. https://doi.org/ 10.1186/1472-6963-12-314
+the conceptualisation and to the writing up of the manuscript for journal submission.
 
-Avanzi, L., Fraccaroli, F., Sarchielli, G., Ullrich, J. & Van Dick, R., 2014, ‘Staying or leaving: A combined social identity and social exchange approach to predicting employee turnover intentions’, International Journal of Productivity and Performance Management 63(3), 272–289. https://doi.org/10.1108/ IJPPM-02-2013-0028
+Funding information This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
 
-Bester, F., 2012, ‘A model of work identity in multicultural work settings’, PhD thesis,
+Data availability statement The University of the Witwatersrand Ethics Clearance was granted on condition of data confidentiality.
+
+Disclaimer The views and opinions expressed in this article are those of the authors and do not necessarily reflect the official policy or position of any affiliated agency of the authors.

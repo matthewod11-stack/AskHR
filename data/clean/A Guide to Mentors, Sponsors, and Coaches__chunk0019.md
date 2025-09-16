@@ -1,1 +1,9 @@
-# 9/10/25, 9:47 AM
+---
+source_path: A Guide to Mentors, Sponsors, and Coaches.md
+pages: n/a-n/a
+chunk_id: edb9efa09f161ddc0b0b8ca9b5b5a7080c3452ab
+title: A Guide to Mentors, Sponsors, and Coaches
+---
+# Turn Your Boss Into a
+
+Sponsor,” suggests starting with a senior leader who knows yourwork and track record better than anyone — your boss. Here’show to turn your boss into a sponsor:1. Build credibility. Perform your tasks well and take on projectsand responsibilities that increase your visibility in theorganization. Take the time to understand what theorganization’s larger goals are and how they align with yourown interests and aspirations.2. Understand your boss’ priorities. Asking your managerwhat’s important to them can give you clarity on what youneed to focus on and where the opportunities lie for you withinthe organization.3. Make the ask. During a one-on-one meeting, ask themwhether they’d be willing to be your sponsor and help you growwithin the organization. You can say something like: “In the

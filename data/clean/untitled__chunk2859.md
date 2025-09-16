@@ -1,7 +1,7 @@
-# Publications
-
-The Soviet Government issued a resolution condemning psychology and the use of psychological measurements.
-
-Professor G. Edilian established the ﬁrst Armenian psychology library at Yerevan University.
-
-The Netherlands Institute of Psychology was founded at the University of Amsterdam.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d5bdda96ac4f1b2e9d4e7fb3f1292a21120677d4
+title: untitled
+---
+# Events

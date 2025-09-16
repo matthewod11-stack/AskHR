@@ -1,3 +1,7 @@
-# Cognitive Structures
-
-Piaget (1952, 1972), among others, has staked out an alterna- tive position to the differential one. Piaget, who was never very interested in individual differences, viewed intelli- gence as arising from cognitive schemas, or structures that mature as a function of the interaction of the organism with the environment.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3165554848f82ce9ed1fb8b2d84ed9292f24ee3f
+title: untitled
+---
+## INTELLIGENCE AS ARISING FROM COGNITIVE STRUCTURES AND PROCESSES

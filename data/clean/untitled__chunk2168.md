@@ -1,5 +1,11 @@
-# Francisco: Jossey-Bass.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0fd9a8934b6493d6ecc403d3b4b1eb6590390485
+title: untitled
+---
+# McGraw-Hill.
 
-Howard, A., & Bray, D. W. (1988). Managerial lives in transition: Advancing age and changing times. New York: Guilford Press.
+Howard, A. (1990). The multiple facets of industrial/organizational psychology: Membership survey results. Arlington Heights, IL: Society for Industrial/Organizational Psychology.
 
-Huber, G. P. (1984). The nature and design of post-industrial orga-
+Howard, A. (Ed.). (1995). The changing nature of work. San

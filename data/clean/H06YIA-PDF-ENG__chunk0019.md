@@ -1,15 +1,21 @@
-## HBR / Digital Article / When to Change Your Company’s P&L Responsibilities
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9dfff876fccfc1296a6d035cf96f638b6c0c5e6
+title: H06YIA-PDF-ENG
+---
+# verticals
 
-To address the ﬁrst question, we’ve identiﬁed three situations where it
+Executives considering a major rearrangement should ask two key
 
-makes sense to consider changing the company’s primary dimension:
+questions: 1) When has the time come to change our primary
 
-- 1. When the business model changes
+dimension? and 2) Once we have decided to change, how fast should
 
-If “the way we make money in this business” changes fundamentally,
+we go?
 
-a change of primary dimension may be in order. Telecommunications
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-companies, for example, used to be organized by asset (ﬁxed network,
+3
 
-mobile, internet, IT systems) but changed to customer (e.g., consumer,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,17 @@
-# response plan;
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: bf60c90f8486619e55fabe4e86d170f03246e96d
+title: Employment Law Guide - Mine Safety and Health
+---
+# Basic Provisions/Requirements
 
-Promotes use of equipment and technology that is currently commercially available;
+The Mine Improvement and New Emergency Response Act of 2006, also known as the MINER Act, was
 
-Requires each mine's emergency response plan to be continuously reviewed, updated and re-certiﬁed by
+signed into law on June 15, 2006. This legislation, the most signiﬁcant mine safety legislation in 30 years,
 
-MSHA every six months; Directs the Secretary of Labor to require wireless two-way communications and an electronic tracking
+amends the Mine Safety and Health Act of 1977 and contains a number of provisions to improve the safety
 
-system within three years, permitting those on the surface to locate persons trapped underground;
+and health in America's mines. The MINER Act's key provisions:
 
-Requires each underground coal mine operator to make available to each mine two experienced mine
+Requires each underground coal mine operator to develop and continuously update a written emergency

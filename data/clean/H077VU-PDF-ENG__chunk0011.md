@@ -1,13 +1,35 @@
-## insights from the science of close connections.
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83749f99ab1bd82def87a6f8cb641414937dfb56
+title: H077VU-PDF-ENG
+---
+# team.
 
-- 1. Use commonalities to spark friendships.
+In contrast, when employees feel disconnected from their team or
 
-Studies indicate that one of the strongest drivers of friendships is
+lonely at work, their performance craters. Their ability to focus
 
-similarity. The more workers have in common with one another,
+deteriorates and their willingness to collaborate plummets. Worse, they
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+devote valuable cognitive resources attempting to hide their loneliness
 
-2
+from others, leaving less mental ﬁrepower for completing projects. In
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+short, they become less capable of doing their jobs.
+
+Now, it’s one thing to logically appreciate the value of close
+
+connections, and another to know what to do about it. After all, what
+
+can a single leader possibly do to get coworkers to bond?
+
+The short answer is plenty.
+
+Research suggests that workplace friendships don’t just happen by
+
+chance. They blossom under certain conditions, many of which leaders
+
+can strategically engineer, even in a remote or hybrid environment.
+
+Here are three evidence-based strategies that leaders can use to leverage

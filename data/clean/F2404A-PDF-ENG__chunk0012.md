@@ -1,17 +1,25 @@
-## Mimoto’s experiences support Gambardella’s contention that where
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c6831be12e913ce5d7b77d398eb85f6f58f6f99
+title: F2404A-PDF-ENG
+---
+## HBR / Magazine Article / Why Entrepreneurs Should Think Like Scientists
 
-founders start out is not really that important because they will test
+campus, Mimoto realized that young people didn’t use them any more
 
-and test to determine what is possible. Experimentation allows them to
+than older people did. Rather, people of all ages—especially those who
 
-adjust, change, or terminate their approaches much sooner than they would have without using the scientiﬁc method. Pivoting is common for
+had unpredictable commuting patterns—picked up the mopeds as they
 
-early-stage start-ups. YouTube started as a dating site before pivoting
+passed through the campus. The entrepreneurs went back to the theory
 
-to video. PayPal was originally an internet security company. The key
+stage and, on the basis of the data gathered during the experiment,
 
-to a successful pivot is focusing not on your original theories but on
+determined that young professionals, particularly lawyers, were the
 
-the answers you receive from your experiments. They should provide
+most likely to need mopeds, because they were constantly rushing to
 
-insight into customer demand, industry pain points, and ultimately,
+and from meetings with clients. The company then pivoted to focus on
+
+that demographic.

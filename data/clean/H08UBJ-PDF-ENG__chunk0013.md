@@ -1,13 +1,13 @@
-# diversity.
+---
+source_path: H08UBJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59178ff3c9e278fe84f10cb0370ae00715730dd7
+title: H08UBJ-PDF-ENG
+---
+## one-year-ahead price targets for a company to both the actual stock
 
-The pattern that emerged was unmistakable: Teams with more women
+price and the consensus estimate from other analysts. This allowed us
 
-exerted lower optimism bias in their issued target prices than those with
+to quantify the degree of an analyst’s optimism. We then studied how
 
-fewer women. Put another way, gender diversity was consistently found
-
-to reduce the level of optimism bias. The eﬀect was strongest when
-
-the pressure was highest—that is, when the analyst’s brokerage had a
-
-big stake in the company being evaluated (for example, an investment-
+this optimism varied across brokerages with diﬀerent levels of gender

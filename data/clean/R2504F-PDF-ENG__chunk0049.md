@@ -1,7 +1,15 @@
-## employee assistance programs and employee resource groups
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b6993b8c03bb390a4eeaf8042a90c4b46bca5f9
+title: R2504F-PDF-ENG
+---
+## options, and time oﬀ or leaves of absence
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- ﬁnancial support, typically subsidies for paid care, although some
 
-12
+employees may be eligible to utilize Dependent Care Assistance Plans
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or Flexible Spending Accounts for caregiving
+
+- self-care and mental health support, and peer support through

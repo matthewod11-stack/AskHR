@@ -1,13 +1,13 @@
-# alternatives.
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd882c0f19220e4e9fea50682a0a73c0f0dee0ae
+title: H07RXW-PDF-ENG
+---
+## characteristics of hierarchy, clear lines of authority and division of
 
-Our research shows many of the organizations adopting elements of
+labor into specialties — has been the dominant method of coordinating
 
-such open structures are experiencing higher levels of entrepreneurial
+human eﬀort over the past several centuries. But as IoT, AI and data
 
-behavior, are proving better at attracting and retaining top talent,
-
-and delivering superior ﬁnancial performance as a result. We also
-
-believe that there is a danger that those who don’t adapt will get left
-
-behind. Strategy thought leader Martin Reeves points out, for example,
+analytics, blockchain, and a collection of related technologies take hold, new, more open models are emerging in some areas as more eﬃcient

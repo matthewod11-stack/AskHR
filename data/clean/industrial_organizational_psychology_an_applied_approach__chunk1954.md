@@ -1,21 +1,19 @@
-# Experimental group: Pretest → Training → Posttest Pretest → Posttest Control group:
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 136df941604244eedff16ecdc147014b5c70e0c7
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Pretest → Training → Posttest
 
-The big advantage this second design has is that it allows a researcher to look at the training effect after controlling for outside factors. For example, after going through a training program, employees at R. R. Donnelley & Sons increased their annual commissions by $,, and the company increased profits by $ mil- lion. The company was obviously pleased but was worried that the increased per- formance could have been due to something other than training. So it compared the results with a control group of employees who had not received training. The commissions of the control employees increased by $, over the same period. Thus, the net effect of the training was still sizable—$, per employee—but not as high as the $, originally thought. The control group allowed the company to control for such factors as increased sales agent experience and new company promotions (Montebello & Haga, ).
+Although this method is fairly simple, its findings are difficult to interpret because there is no control group against which the results can be compared. That is, suppose a significant difference in performance is seen between the pretest and the posttest. If a training program has occurred between the two tests, it would be tempting to credit the training for the increase. The increase, however, may have resulted from other factors, such as changes in machinery, in motivation caused by nontraining factors, or in managerial style or philosophy.
 
-Even though this design is an improvement on the first, it too has its draw- backs. First, except for training manipulation, it is almost impossible to treat a control group the same as the experimental group. Control groups often consist of workers at other plants or on other shifts at the same plant. Such groups are used because there often is no alternative. But the fact that they are in different environments reduces confidence in the research findings.
+Likewise, suppose no significant increase in performance is observed between pretest and posttest. The natural conclusion might be that the training program did not work. Without a control group, that interpretation is not necessarily correct. The same changes noted above for an increase may have caused a decrease in performance in this second case. Thus, it is possible that the training
 
-Even if employees in the same plant on the same shift can be randomly split into control and experimental groups, problems will still exist. The most glar- ing of these involves the possibility that because the two groups are close to one another, the training effect for the experimental group will spill over to the control group. Employees in the control group also may resent not being chosen for train- ing. This resentment alone may lead to a decrease in performance by employees in the control group. Finally, it is possible that the untrained employees will pres- sure the newly trained employees to revert to the “old way” of doing things.
-
-With both of the above designs, the pretest itself presents a problem. That is, the mere taking of a test may itself lead to increases in performance. Because of this, a rather complicated method called the Solomon four-groups design can be used (Campbell & Stanley, ). With this design, one group will undergo training but will not take the pretest, a second group will undergo training but will take the pretest, a third group will not undergo training but will take the pretest, and a fourth group will neither undergo training nor take the pretest. The diagram for this design is as follows:
-
-Training → Posttest Group  Group  Pretest → Training → Posttest Group  Pretest → Posttest Group  Posttest
-
-designing and evaluating training systems
-
-319
-
-320
+318
 
 chapter 
 
-This design allows a researcher not only to control for outside effects, but also to control for any pretest effect. This is the most scientifically rigorous of the research designs used to evaluate training, but even this has a serious drawback: It is often not practical. That is, four groups of employees must be used, two of which do not receive training. Thus, to use this design at one organization or plant, ideally a relatively large number of employees must be available and kept from discussing the training with one another.
+program actually did increase performance but that other factors reduced it, which resulted in no net gain in performance from training.
+
+To overcome these problems, a control group should be used (Kearns, ). For training purposes, a control group consists of employees who will be tested and treated in the same manner as the experimental group, except that they will not receive training. The control group will be subject to the same policy, machinery, and economic conditions as the employees in the experimental group who receive training. The diagram for a pretest/posttest control group design looks like this:

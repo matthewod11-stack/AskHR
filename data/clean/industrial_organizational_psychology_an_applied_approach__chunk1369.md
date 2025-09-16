@@ -1,19 +1,9 @@
-# Reliability
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0eec01c730542d37b953b7fbaa6ddda6f749214f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Characteristics of Effective Selection Techniques
 
-Reliability is the extent to which a score from a selection measure is stable and free from error. If a score from a measure is not stable or error-free, it is not use- ful. For example, suppose we are using a ruler to measure the lengths of boards that will be used to build a doghouse. We want each board to be  feet long, but each time we measure a board, we get a different number. If the ruler does not yield the same number each time the same board is measured, the ruler cannot be considered reliable and thus is of no use. The same is true of selection methods. If applicants score differently each time they take a test, we are unsure of their actual scores. Consequently, the scores from the selection measure are of little value. Therefore, reliability is an essential characteristic of an effective measure. Test reliability is determined in four ways: test-retest reliability, alternate-forms reliability, internal reliability, and scorer reliability.
-
-Test-Retest Reliability With the test-retest reliability method, each one of several people take the same test twice. The scores from the first administration of the test are correlated with scores from the second to determine whether they are similar. If they are, the test is said to have temporal stability: The test scores are stable across time and not highly susceptible to such random daily conditions as illness, fatigue, stress, or uncomfortable testing conditions. There is no standard amount of time that should elapse between the two administrations of the test. However, the time interval should be long enough so that the specific test answers have not been memorized, but short enough so that the person has not changed significantly. For example, if  years have elapsed between administrations of a personal- ity inventory, there may be a very low correlation between the two sets of scores; but the low correlation may not be the result of low test reliability. Instead, it could be caused by personality changes of the people in the sample over time (Kaplan & Saccuzzo, ). Likewise, if only  minutes separate the two
-
-204
-
-chapter 
-
-administrations, a very high correlation between the two sets of scores might occur. This high correlation may represent only what the people remembered from the first testing rather than what they actually believe. Typical time inter- vals between test administrations range from  days to  months. Usually, the longer the time interval, the lower the reliability coefficient (Anastasi & Urbina, ). The typical test-retest reliability coefficient for tests used in industry is . (Hood, ).
-
-Test-retest reliability is not appropriate for all kinds of tests. It would not make sense to measure the test-retest reliability of a test designed to measure short-term moods or feelings. For example, the State–Trait Anxiety Inventory measures two types of anxiety. Trait anxiety refers to the amount of anxiety that an individual normally has all the time, and state anxiety is the amount of anxiety an individual has at any given moment. For the test to be useful, it is important for the measure of trait anxiety, but not the measure of state anxiety, to have temporal stability.
-
-Alternate-Forms Reliability With the alternate-forms reliability method, two forms of the same test are con- structed. As shown in Table ., a sample of  people are administered both forms of the test; half of the sample first receive Form A and the other half Form B. This counterbalancing of test-taking order is designed to eliminate any effects that taking one form of the test first may have on scores on the second form.
-
-The scores on the two forms are then correlated to determine whether they are similar. If they are, the test is said to have form stability. Why would anyone use this method? If there is a high probability that people will take a test more than once, two forms of the test are needed to reduce the potential advantage to individuals who take the test a second time. This situation might occur in police department examinations. To be promoted in most police departments, an offi- cer must pass a promotion exam. If the officer fails the exam one year, the officer can retake the exam the next year. If only one form of the test were available, the officer retaking the test for the seventh time could remember many of the questions and possibly score higher than an officer taking the test for the first time. Likewise, applicants who fail a credentialing exam (e.g., the Bar Exam for attorneys or the Professional in Human Resources (PHR) certification for human resources professionals) would be likely to retake the exam.
-
-Will retaking an exam actually result in higher test scores? A meta- analysis by Hausknecht, Halpert, Di Paolo, and Moriarty Gerard () found that applicants retaking the same cognitive ability test (d = .) will increase their scores about twice as much as applicants taking an alternate form of the cog- nitive ability test (d = .). Not surprisingly, the longer the interval between the two test administrations, the lower the gain in test scores. It should be
+Effective selection techniques have four characteristics. They are reliable, valid, cost-efficient, and legally defensible.

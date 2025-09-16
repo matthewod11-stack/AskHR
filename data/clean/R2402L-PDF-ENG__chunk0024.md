@@ -1,15 +1,43 @@
-# interview.
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f5a2d8e38f63a38e2f1f500da70a6dcaf6a638b
+title: R2402L-PDF-ENG
+---
+# to a stop.
 
-I should note that closed questions, designed to elicit a yes or a no,
+Open questions encourage people to speak freely and to share their
 
-can be helpful too, particularly when you need speciﬁc information—for example, “Do you have another oﬀer on the table?” But too many of
+side of the story, thus revealing more about what’s important (or not) to
 
-them can sound like an interrogation. Leading questions—for example,
+them, the lines they can’t or won’t cross, and areas where compromise
 
-“Which of our competitors is trying to poach you?”—should be avoided
+might be possible. They help you buy time, gather data, clear up
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+misunderstandings, and defuse emotions, because they force others to
 
-6
+really consider their answers and potential solutions, rather than give a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+knee-jerk yes or no to an idea or unthinkingly choose between options
+
+you’ve presented.
+
+Good open questions start with “What” or “How”—for example, “What is the real issue?” “How will this aﬀect [the party or situation involved]?”
+
+“What has to happen for you to [desired action]?” “What other options
+
+do we have?” Avoid questions that begin with “Why,” because they can
+
+sound accusatory and judgmental. For example, with a client who is
+
+threatening to switch service providers, instead of asking, “Why do you want to leave?” consider “What are they oﬀering that we don’t?” or
+
+“What could we do to make you stay?”
+
+Keep it simple and focused on one topic at a time. Avoid jargon and
+
+abstract words or ideas. And then, after you’ve asked your question, stay
+
+quiet and give the person time to fully answer. Try also to encourage
+
+an exchange of questions, rather than letting it feel like a one-sided

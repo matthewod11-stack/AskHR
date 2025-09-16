@@ -1,9 +1,17 @@
-## HBR / Spotlight Article / Power, Influence, and CEO Succession
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c05298ab27eddb4ea6a3e2b84b9fd0670d42907f
+title: S24041-PDF-ENG
+---
+# relative to the CEO’s.
 
-most to gain or lose. If things break down, the board can ﬁnd someone
+In our experience the actions of the incoming CEO have the biggest
 
-else while keeping (or bringing back) the incumbent CEO or asking a
+impact on whether the handoﬀ succeeds or fails. After all, she has the
 
-director to serve as interim CEO. But for the successor, failure often
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-means a disrupted career and a damaged reputation. She therefore must
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,31 +1,21 @@
-# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51e3246487e693241cdb50f82fb374ff228dcd84
+title: H07SHV-PDF-ENG
+---
+## denominator with a wants-management strategy.
 
-answers, go looking for the answers with introspection. When you see
+And last but not least, it’s meaning, it’s purpose in your life. The way
 
-somebody that ﬁnds those answers, it’s like an actual miracle.
+to ﬁgure out if you have a purpose crisis is asking yourself two simple
 
-These are the three things practically to think about. “Do I have
+questions. There’s no right answers, but you have to have answers. “Why
 
-enjoyment or just pleasure? Am I managing my wants or my haves, so
-
-I can have satisfaction? And do I have enough meaning in my life by
-
-answering those two questions?”
-
-ADI IGNATIUS:
-
-That’s great. I hope people took notes, I hope people try to act on that.
-
-Arthur, I want to thank you for being on the show.
-
-ARTHUR C. BROOKS:
-
-Thank you, Adi. And thanks to everybody watching.
-
-This article was originally published online on September 1, 2023.
+am I alive, and for what am I willing to die today?” And if you don’t have
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-22
+21
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

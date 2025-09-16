@@ -1,3 +1,9 @@
-## Vernon’s Theory of Verbal : Educational and Spatial : Mechanical Abilities
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9906d8a2d7c41e62d780c01421dfe2511671b55b
+title: untitled
+---
+# Burt’s Theory
 
-A more widely adopted model has been that of Vernon (1971), which proposes the general factor, g, at the top of the hierarchy. Below this factor are two group factors, v:ed and k:m. The former refers to verbal-educational abilities of the kinds measured by conventional test of scholastic abilities. The latter refers to spatial-mechanical abilities (with k per- haps inappropriately referring to the nonequivalent term kinesthetic).
+Sir Cyril Burt (1949), known primarily for this widely ques- tioned work on the heritability of intelligence, suggested that a ﬁve-level hierarchy would capture the nature of intelli- gence. At the top of Burt’s hierarchy was “the human mind.” At the second level, the “relations level,” are g and a practi- cal factor. At the third level are associations, at the fourth level is perception, and at the ﬁfth level is sensation. This model has not proven durable and is relatively infrequently cited today.

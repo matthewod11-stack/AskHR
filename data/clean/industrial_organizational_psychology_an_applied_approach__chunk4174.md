@@ -1,5 +1,7 @@
-## Emrich, C. G., Brower, H. H., Feldman, J. M., & Garland, H.
-
-(2001). Images in words: Presidential rhetoric, charisma, and greatness. Administrative Science Quarterly, 46(3), 527–560.
-
-Epstein, D. G. (2003). Safety and security: Preventing workplace
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: dfea7a6c474b665a254a4b307de3c3048604a8f8
+title: industrial_organizational_psychology_an_applied_approach
+---
+# prelude. USA Today, May, pp. A1.

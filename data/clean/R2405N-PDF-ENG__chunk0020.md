@@ -1,19 +1,37 @@
-## In Have a Good Trip: Exploring the Magic Mushroom Experience, a
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce3c080d3de2af2544b6b4df631aec1f71f4ed3e
+title: R2405N-PDF-ENG
+---
+## mental illness. In Psychedelic Outlaws: The Movement Revolutionizing
 
-“book informed by trippers and their trip reports,” the nature and food
+Modern Medicine, Kempner follows research into whether psilocybin
 
-journalist Eugenia Bone recounts her ﬁrst experience with psilocybin,
+can relieve cluster headaches. The condition, known as “suicide
 
-which transformed how she perceived her own body; weaves in
+headaches” because they can last for weeks or even months, is
 
-research and stories about the power of psychedelics to treat mental
+described by one study as more painful than stab wounds, kidney
 
-illness; and explains why she continues to use them in moderation.
+stones, pancreatitis, or unmedicated labor. (Needless to say, work
 
-“I credit microdosing with helping me learn what it feels like when
+becomes impossible for those suﬀering from it.) Connected online and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+operating illegally, a network dubbed the Clusterbusters grew their
 
-3
+own magic mushrooms, developed their own treatment protocols, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+eventually drew the attention of researchers and policymakers. “The
+
+internet provided the kind of safe, unregulated space…where drug
+
+geeks could create their own repositories for the kinds of…information diﬃcult to obtain elsewhere,” Kempner writes.
+
+Two other recent releases chronicle their authors’ own use of
+
+psychedelics—and the fellow users they encountered on their journeys.
+
+After all, this is a community that values lived experience as much as it
+
+does scientiﬁc studies.

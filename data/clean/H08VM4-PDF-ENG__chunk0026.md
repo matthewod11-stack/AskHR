@@ -1,21 +1,13 @@
-# meeting-free days.
+---
+source_path: H08VM4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 412701756646c3a0da661fb910cdf836776f1bdb
+title: H08VM4-PDF-ENG
+---
+## Treat meeting culture as an important part of company culture.
 
-Identify and invest in meeting leaders. Running eﬀective meetings
+What meeting culture do you want for your team? Determine best
 
-is a skill, and like any skill, it can be cultivated and strengthened.
+practices and deﬁne roles and responsibilities. This can also include
 
-Recent research shows that 54% of all meetings are hosted by just 10%
-
-of employees. Targeted training for this group of “power users” can help
-
-promote a healthier meeting culture on your team.
-
-Leverage data. One of the advantages of virtual meetings is that
-
-they produce data that provides meaningful insights into productivity,
-
-engagement, and even retention—so make use of it. For example, if a
-
-speciﬁc department has a particularly high no-participation rate, you
-
-could monitor how that number changes as you roll out trainings within
+expectations on when not to meet, such as scheduled focus hours and

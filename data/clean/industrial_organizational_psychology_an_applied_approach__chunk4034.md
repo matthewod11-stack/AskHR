@@ -1,13 +1,11 @@
-## Voucher system Child-care policy in which an
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2550e07a4f7a6488bcb0e9d5c672576a459e783b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Vocational Rehabilitation Act Federal act passed in
 
-organization pays all or some of its employees’ child-care costs at private child-care centers by providing the employees with vouchers.
+1973 that prohibits federal government contractors or subcontractors from discriminating against the physically or mentally handicapped.
 
-Vroom-Yetton Model A theory of leadership that concentrates on helping a leader choose how to make a decision.
-
-Wage trend line A line that represents the ideal
-
-relationship between the number of points that a job has been assigned (using the point method of evaluation) and the salary range for that job. Webcast A noninteractive training method in which the trainer transmits training information over the Internet.
-
-glossary
-
-621
+Voice stress analyzer An electronic test to determine honesty by measuring an individual’s voice changes after being asked questions.

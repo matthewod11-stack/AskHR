@@ -1,9 +1,23 @@
-# AI
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 457e90e62eda9aa9222b425831d820d7773d9027
+title: H079OJ-PDF-ENG
+---
+## colleagues Josh Baron and Rob Lachenauer in the Harvard Business
 
-Alison Isaacson is a Principal at BanyanGlobal Family Business Advisors. She advises the owners of some of the world’s largest private family businesses and oﬃces on how to navigate the challenges of generational transition.
+Review Family Business Handbook: “It’s funny, but it’s the truth. We can
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+get together and argue over what’s best for us as a company moving
 
-7
+forward, but we all do it in good faith, knowing that everyone wants
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+what’s best overall.”
+
+Can you say something similar about your family business? If not, you may ﬁnd yourself in a diﬃcult position precisely because you have tried
+
+to avoid conﬂict.
+
+This article was originally published online on October 05, 2022.
+
+Nick Di Loreto is a partner at BanyanGlobal Family Business Advisors. He advises the owners of some of the world’s largest private family businesses and oﬃces on how to navigate the challenges of generational transition.

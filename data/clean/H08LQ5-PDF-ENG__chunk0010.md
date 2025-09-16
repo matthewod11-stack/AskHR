@@ -1,45 +1,17 @@
-## HBR / The Big Idea / Everyone Deserves a Season to Step Back
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0318ed201ce261c6d628f3972f858558af37ef7e
+title: H08LQ5-PDF-ENG
+---
+## What a Season of Stepping Back Can Look Like
 
-a promotion, moving to a role with less travel and more-predictable
+A season of stepping back can take many diﬀerent forms. It could look
 
-hours, or trimming back a workload to allow for ﬂexibility or shorter
+like shifting from a manager role to an individual contributor, delaying
 
-days. What’s true in all cases is this: It is time-limited; codesigned
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-by the employee, their team and manager, and HR; has no negative ramiﬁcations for the person stepping back; and oﬀers a seamless
+2
 
-reentry when they are ready to reengage.
-
-Unlike a formal switch to part-time or contract work, this is a temporary accommodation within an existing career trajectory, with no eﬀect on
-
-future reviews, promotion opportunities, or tenure. Over the long term,
-
-such arrangements can beneﬁt both workers and their organizations.
-
-Take the example of Melissa, for instance, who was diagnosed with
-
-breast cancer (some identifying details have been changed). She
-
-contacted the head of human resources at the venture-backed company
-
-where she worked to discuss accommodations. She didn’t want to
-
-follow the typical solution in the United States of going on short-term
-
-disability leave. Melissa was clear that she didn’t want to stop working.
-
-She liked having something to think about other than her treatment; it oﬀered some normalcy during a tumultuous period. So, she and HR
-
-crafted a set of parameters: She needed to start late on Mondays, end early on Fridays, and be oﬀ camera for meetings for a few months. While
-
-she was undergoing chemotherapy infusions, she would be available
-
-over email and on Slack but would decline or reschedule meetings.
-
-The approach worked well. Melissa was able to take care of her health
-
-on her own terms and ramp back up at work when she was ready.
-
-Equally valuable, the company retained an ambitious, high-performing
-
-employee who had deep institutional knowledge and an even stronger
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

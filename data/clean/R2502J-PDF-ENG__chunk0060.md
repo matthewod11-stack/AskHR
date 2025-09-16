@@ -1,9 +1,7 @@
-# RB
-
-Rick Butler is the vice president of global sales compensation at ServiceNow.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7be3c7b9b38ad7b9db57c8668136361c936a6779
+title: R2502J-PDF-ENG
+---
+## HBR / Magazine Article / How Salespeople Game the System

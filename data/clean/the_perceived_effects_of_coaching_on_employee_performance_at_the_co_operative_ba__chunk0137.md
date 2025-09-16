@@ -1,11 +1,21 @@
-# programs.
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 7f669b25a5fb687059397ee194ee8cc97e6f9de6
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# of stiff competition.
 
-The researchers in the area of coaching will find this study more useful. The study
+Human Resource Managers can also use this study to re-examine their training and
 
-provides a reference point for those researchers intending to carry out further studies
+development programs and come up strategies that will enhance employee
 
-in this area. The study has provided a theoretical framework upon which further
+performance. The study brings out the best practices to be employed when coaching
 
-studies can be done. It also provides an opportunity for the researchers to come with
+to reduce the challenges associated with coaching. The practices of coaching found
 
-theories supporting the relationship between coaching and performance of
+(cid:51)(cid:55)(cid:32)
+
+(cid:32)
+
+in this study are applicable to all organizations with training and development

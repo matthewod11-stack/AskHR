@@ -1,13 +1,13 @@
-## HBR / Magazine Article / How Apple Is Organized for Innovation
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3adb4e682fc10e4b05179d4ecbbc45107f80d268
+title: R2006F-PDF-ENG
+---
+# leadership level.
 
-See more HBR charts in Data & Visuals on HBR.org.
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-Having leaders who are experts in their areas and can go deep into
+10
 
-the details has profound implications for how Apple is run. Leaders
-
-can push, probe, and “smell” an issue. They know which details
-
-are important and where to focus their attention. Many people at
-
-Apple see it as liberating, even exhilarating, to work for experts, who
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

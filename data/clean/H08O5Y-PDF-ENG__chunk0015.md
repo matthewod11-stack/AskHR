@@ -1,7 +1,17 @@
-# HBR / Digital Article / A Guide to Updating Your Resume When Moving from Public to P…
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12ea5671ac55cec3777422e5e317ada5b2d5a791
+title: H08O5Y-PDF-ENG
+---
+# data, and ﬁnancial transactions.
 
-industry, depending on their speciﬁc responsibilities. Similarly,
+It’s not just skills and actual work that diﬀers: Job titles, business
 
-government success is measured by policy impact, long-term outcomes,
+metrics, and work culture vary signiﬁcantly between sectors. A government “executive oﬃcer” might map to a VP, director, chief administrative oﬃcer, department head, or chief of staﬀ in private
 
-and compliance, whereas businesses focus on revenue growth,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

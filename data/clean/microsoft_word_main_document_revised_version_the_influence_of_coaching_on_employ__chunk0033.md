@@ -1,31 +1,15 @@
-## 5.4 Assessment of the Effects of Same-Source Bias
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: 8eac13b70695ea8fc4f86bbec2969ab9c0cac031
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+# 2 radj ∆radj
 
-Our data relied on information provided by one type of respondent for both predictor and criterion variables. In this situation, a self-report bias might result from any artifactual covariance between these variables due to the fact that the person providing both answers is the same (Podsakoff et al., 2003). Research has typically accepted that
+2
 
-7
+.036 .062*
 
-common method variance (CMV) might inflate or deflate correlations between constructs (Cote and Buckley, 1987; Podsakoff et al., 2003), although some scholars have proposed that CMV does not automatically affect or distort these correlations (Schmidtt, 1994; Spector, 1987, 1994, 2006).
+.024 .029*
 
-One of the most widely used techniques for diagnosing the likeliness of CMV is the Harman’s single factor test (Podsakoff et al., 2003). Following this technique, we loaded all the variables in the study into an exploratory factor analysis and we examined the unrotated factor solution. Data suggested the need of three factors to account for a significant percentage of variance (64.6%). In this solution, the first factor accounted for only 38.7% of the extracted variance, thus suggesting that there is not a substantial amount of common method variance present in the measures (Podsakoff et al., 2003).
-
-- 6. Discussion
-
-Coaching is a key managerial behavior that can be used in organizational settings to develop subordinates and help them achieve increasing levels of performance. Despite its importance, the number of studies exploring the relationship between coaching and performance is limited. In order to contribute to this stream of research we present an initial empirical investigation from two different field studies. In the first one, respondents were business-to-business salespersons working in Latin America. In the second one, we used a sample of frontline employees from a service business-to-consumer organization in Canada.
-
-Building on LMX theory, we proposed that the coaching provided by the manager would help subordinates increase their job performance. We tested this relationship using scales found in the literature and controlling for years of selling experience, tenure with the company and tenure in the positions. Both studies supported the hypothesis that coaching increases employee performance beyond the effect that can be attributable to the control variables.
-
-Results from the first sample (Latin-American business-to-business salespeople) suggested that coaching could 2=.062, p<.05). explain 6.2% of the variance in performance when controlling for experience and tenure (∆radj Results from the second sample (Canadian business-to-consumer front-line employees with sales responsibilities) suggested that coaching could explain 2.9% of the variance in performance when controlling for experience and tenure (∆radj 6.1 Scientific contributions
-
-2=.029, p<.05).
-
-Results not only support our hypothesis, but also go in a similar direction than other studies recently published in the 2=.11, scientific literature. Trépanier (2010) also found a positive effect of coaching on salesperson performance (∆radj p<.01), as well as Agarwal et al. (2009) (∆r2=.13, p<.01) and Pousa and Mathieu (2014) (r2=.10, p<.01). In logistics environments, Ellinger et al. (2005) also found that coaching can explain an increase in warehouse worker job-related performance (r2=.18, although this value includes the additional effect of experience, wages and training). Given the paucity of empirical studies exploring the effectiveness of coaching as a strategy for improving performance (Grant and Cavanaugh, 2004; Hagen, 2012) and the call for more research in this area, we consider this one the main scientific contribution of our study.
-
-A second contribution concerns the choice of a theoretically based approach to address the research problem. One of the strong critics to research in coaching is that it has been predominantly practice-driven and guru-led, lacking solid theoretical basis, as well as being mostly based on single-case studies (Ellinger et al., 2008; Grant and Cavanagh, 2004; Hamlin et al., 2006). Several authors called for the development of more general, theoretically based research studies, which findings could be transferred to other domains and generalized to other populations.
-
-In our case, the use of a non-probabilistic sample could raise questions regarding whether the conclusions of the study could be used in different settings. Although one of the necessary conditions to external generalizability is the use of probabilistic samples, this criterion has not been respected in most organizational research. Schwab (1985) recognizes this when he expresses that “almost all of the empirical studies published in our journals … use convenience samples … thus if one took generalization to a population using statistical inference seriously, one would recommend rejecting nearly all manuscripts submitted” (Schwab, 1985, p. 173, cited by Robson, 2002, p. 267). In qualitative research, where researchers strongly rely on non-probabilistic samples, scholars have proposed to talk of transferability rather than generalizability (Guba and Lincoln, 1989). Other scholars have stressed the importance of aspects like the presumed universality of the phenomenon studied as factors enabling the generalizability of results to other contexts when nonrandom samples are used (Maxwell, 1997). In the case of this
-
-8
-
-study, there are no reasons to infer that the salespeople working for these companies are any different from other generic salespersons concerning the variables that could explain responses to coaching behaviors. Additionally, our hypothesis was theoretically derived from a widely accepted leadership theory, thus, the use of a convenience sample does not preclude the possibility of generalizing the expected results to a larger population of salespeople reporting to managers using non-directive, solution-focused, performance-driven coaching approaches.
-
-The results of this study also provide additional support for the use of leader-member exchange as a valid theoretical framework to analyze coaching exchanges. We consider this as a third and final scientific contribution of our study. In the Theoretical Framework section we assumed that LMX was a significant theory to explain the high quality exchanges that take place in a coaching relationship and the positive consequences on salesperson behavior and performance. LMX theory establishes that a manager can develop high-quality relationships or exchanges with some of his subordinates, “characterized by high levels of trust, interaction, support and formal and informal rewards” (Ilies et al., 2007). The quality of this relationship affects important leader and member attitudes, behaviors and outputs (Gertsner and Day, 1997; House and Aditya, 1997; Ilies et al., 2007). LMX meta-analysis found that high quality relations between leaders and followers can explain between 9% and 30% of followers’ performance ratings (Gerstner and Day, 1997). Our results suggest that coaching by the sales manager can explain a significant percentage of salesperson’s performance. They go in the same direction than those found in LMX and coaching research and, thus, support our decision of using this theoretical approach.
+- p < .05

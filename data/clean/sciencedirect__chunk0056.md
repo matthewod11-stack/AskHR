@@ -1,3 +1,9 @@
-# Journal of Sociology 87 (6): 1257-1286.
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: 862a35ffd56e7794b9501cd467ef005e4b035295
+title: sciencedirect
+---
+# Sage Foundation.
 
-[16] Avolio, B.J., and J.J. Sosik. (1999) “A Life-Span Framework for Assessing The Impact of Work on White-Collar Workers.” in Life in the
+[15] Kohn, M.L., and C. Schooler. (1982) “Job Conditions and Personality: A Longitudinal Assessment of Their Reciprocal Effects.” American

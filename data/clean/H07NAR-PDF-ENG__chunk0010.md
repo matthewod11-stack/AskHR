@@ -1,39 +1,57 @@
-# HBR / Digital Article / How a “Pay-to-Quit” Strategy Can Reveal Your Most Motivated E…
+---
+source_path: H07NAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8f80f5232d40aadfb11275a60698fb6e8d9bf78
+title: H07NAR-PDF-ENG
+---
+# The Pay-to-Quit Program
 
-company suspended the program for warehouse workers and now only
+One such strategy is to oﬀer employees money to resign voluntarily —
 
-oﬀers it to graduates of its Career Choice upskilling program.
+the so-called Pay-to-Quit strategy. Zappos, the online shoe and clothing
 
-In the work I do as a behavioral economist who advises organizations,
+retailer, was the ﬁrst to employ the strategy, making what has become
 
-I’ve found that the Pay-to-Quit strategy can be remarkably eﬀective. In
+known as “the oﬀer”: a bonus for new hires to quit following a four-week
 
-many organizations, dissatisﬁed employees have no reason to disclose
+training period if they didn’t feel that their job was a good ﬁt for them.
 
-their true sentiments, but you can incentivize them to do so by oﬀering
+Zappos started the bonus at $100. When almost no trainee took the
 
-them money to resign, making it costly for them to be dishonest. One
+oﬀer during training, they raised it all the way up to $4,000, and still
 
-outcome of this strategy is that those who stay are more motivated,
+almost no one took it — a sign that the company’s workforce was highly
 
-of course. But an additional beneﬁt is that those who stay feel the
+motivated.
 
-need to justify that decision to themselves — which they typically do
+Amazon, which bought Zappos in 2009, adopted a variation of this
 
-by working harder toward longer-term objectives. If they turn the Pay
+strategy. Here’s how Jeﬀ Bezos explained it in his letter to shareholders
 
-to Quit money down, in eﬀect they invest it in their future with the
+in 2014, the ﬁrst year Amazon put the program into eﬀect:
 
-company. This boosts their productivity and commitment.
+Pay to Quit is pretty simple. Once a year, we offer to pay our
 
-Everybody wins with this strategy. It allows managers to identify
+associates to quit. The ﬁrst year the offer is made, it’s for $2,000.
 
-which employees are genuinely motivated and which are not; it
+Then it goes up $1,000 a year until it reaches $5,000. The headline
 
-allows unmotivated employees to make an amicable departure with
+on the offer is “Please Don’t Take This Offer.” We hope they don’t take
 
-money in hand; and it allows motivated employees to genuinely
+the offer; we want them to stay. Why do we make this offer? The goal
 
-demonstrate their commitment. And if nobody takes the oﬀer, as
+is to encourage folks to take a moment and think about what they
 
-recently happened at Trainual, a company that provides automated
+really want. In the long-run, an employee staying somewhere they
+
+don’t want to be isn’t healthy for the employee or the company.
+
+Amazon made its program available to warehouse workers for years, but
+
+at the beginning of 2022, because of a tightening in the labor market, the
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

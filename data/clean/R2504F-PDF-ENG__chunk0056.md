@@ -1,17 +1,21 @@
-# Lessons for Leaders
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0da2a5df14c836d46198ff34b46bcd1ca5a8e65f
+title: R2504F-PDF-ENG
+---
+## employees of client companies: direct caregiving when employers
 
-We’ll close with three lessons for organizations that want to support
+oﬀer subsidized beneﬁts; coaching and planning to help caregiver
 
-employees who have eldercare responsibilities.
+families navigate the challenges and ongoing coordination of care; and
 
-Recognize the enormous variety of employee needs. Beneﬁts must be
+assessments to connect the right caregiver to the needs of the recipient,
 
-comprehensive, to cover a full range of possible employee situations.
+focused on the instrumental activities of daily living and how people
 
-Beneﬁts must also be adaptable—individual needs should drive
+can age in place as long as possible. The company ﬂexibly bundles
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+its services in ways that enable employers to oﬀer holistic beneﬁts
 
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+packages and that allow employees to use the services easily.

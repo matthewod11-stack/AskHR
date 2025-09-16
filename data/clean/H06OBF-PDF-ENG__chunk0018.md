@@ -1,7 +1,9 @@
-# management attention and power.
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a84181b0d1f6d920ef544e6adceeca0d3400ab24
+title: H06OBF-PDF-ENG
+---
+## HBR / Digital Article / Making Silos Work for Your Organization
 
-This is where checks and balances enter the picture: They enable
-
-companies to minimize the side-eﬀects of verticals more forcefully than
-
-bridges do.
+collaboration, they still compete with one another for resources, senior

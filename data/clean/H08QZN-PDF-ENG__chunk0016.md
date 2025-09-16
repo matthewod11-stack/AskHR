@@ -1,11 +1,35 @@
-# adaptation.
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8468256f2fb3d480af34231b6516d61bc6f9d59b
+title: H08QZN-PDF-ENG
+---
+# solutions rather than mine.
 
-One of my coaching clients was an SVP of technology, responsible
+Reinforce how this shift will help everyone: “Being a more intentional
 
-for innovating engineering processes to improve his company’s
+coach will not only help me spend more time on the big issues on my
 
-competitive edge. His style was grounded in vision-building and
+plate but also show you I trust you and want to give you opportunities to
 
-democratic decision-making, motivating the team to imagine the
+show what you can do.”
 
-impossible and engage in healthy, inclusive debates about how to get
+Taking ownership for where your style needs to expand can
+
+understandably make you feel exposed. But remember it’s courage,
+
+humility and your modeling of vulnerability that will strengthen your
+
+team’s capabilities and increase your followership.
+
+Practice, seek feedback, and expect pushback.
+
+Once you’ve clariﬁed your intentions, start experimenting in small, yet
+
+visible ways. Ask for feedback on how your new approach is landing,
+
+but don’t be discouraged if some colleagues aren’t happy with it. After
+
+all, even if your prior style had its ﬂaws, it was familiar. Changes in how
+
+you lead them may feel unwanted until they experience the beneﬁts of

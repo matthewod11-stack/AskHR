@@ -1,15 +1,17 @@
-# Bad Economy.”
+---
+source_path: H08TYG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3681c90dd3ccd335cd81303228b2c9bdf46ea99e
+title: H08TYG-PDF-ENG
+---
+# HBR / Digital Article / Q&A: Professor Robert Sutton on Communicating Difficult Decis…
 
-The core advice: To reduce trauma and anxiety caused by painful business decisions, good leaders must try to oﬀer predictability
+Robert Sutton began thinking about this challenge as a doctoral student
 
-(by sharing information and behaving transparently), understanding
+at the University of Michigan in the early 1980s. For his dissertation,
 
-(explaining why changes are happening), control (making people feel
+he studied how managers dealt with workers during plant and store
 
-like they have a say in what’s happening), and compassion (by trying
+closings. With a series of colleagues, including Robert Kahn and Jeﬀrey Pfeﬀer, Sutton further developed these ideas, and in 2009, he
 
-to put themselves in the other person’s shoes). “If you give people as
-
-much information as you can about what will happen…and when it will happen, they will prepare to the extent they can and suﬀer less,” Sutton
-
-wrote. “Just as important, they can learn to relax in the absence of such
+articulated them in a classic HBR article: “How to Be a Good Boss in a

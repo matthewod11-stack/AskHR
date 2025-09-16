@@ -1,23 +1,69 @@
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 864d4d1ca58823d54f9610130b7c6ddc8db756c3
+title: R2402F-PDF-ENG
+---
 ## HBR / Magazine Article / Nurturing Innovation
 
-my worries on a regular basis and get support from my peers as well
+to establish a joint venture in order to provide more structure,
 
-as mentors,” she explained. By contrast, the other entrepreneur, who
+accountability, and resources for their team. The two founders believed
 
-developed a food-waste start-up, described how her network supported
+that was the only way for them to scale up. The ﬁrst collaboration
 
-her as her venture evolved through multiple phases and team member
+ultimately moved forward with diﬀerent partners, but the second is
 
-changes. “I was lucky to have stayed in touch with a couple of mentors I
+thriving today.
 
-met in the diﬀerent hackathons and accelerator programs I participated
+The UI community had created a foundation for trusting relationships
 
-in,” she recalls. “As I struggled with team members’ engagement,
+that enabled the fellows to work in a ﬂexible manner, keeping
 
-conﬂicts, and what to do with the idea—for instance, should I try to
+bureaucracy and governance to a minimum. But as the collaborations
 
-ﬁle for a patent?—I was able to reach out to my mentors. Moreover, later
+scaled up, their organizational needs became more complex, and
 
-I was part of a network where we could share our experiences and best
+addressing them required a renewed focus on building relationships.
 
-practices.” She lamented that not every founder has the same sort of
+While the fellows in the ﬁrst example were aware of the problem, they
+
+had neither the time nor the resources to manage it successfully.
+
+Again, this points to an opportunity for intermediaries, which have the
+
+legitimacy to guide collaborators through this stage. An intermediary
+
+can help in two ways:
+
+Providing reﬂective checkpoints. By creating opportunities for
+
+collaborators to get together in facilitated workshops, semistructured
+
+calls, or in-person retreats, intermediaries can help venture teams
+
+negotiate shifting roles and changing (or even new) relationships,
+
+reestablish alignment, and introduce new governance structures.
+
+These checkpoints oﬀer an opportunity for reﬂection, allowing social
+
+entrepreneurs to step back and consider what they’ve learned in a
+
+constructive fashion so that they can implement those lessons.
+
+Checkpoints also help entrepreneurs manage their stress and emotions,
+
+as the following stories of two social entrepreneurs outside UI
+
+demonstrate. One young social entrepreneur who worked on a health
+
+care venture told us that she ended up having a breakdown and
+
+terminating her project. “I wish at the time I had a space to share
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

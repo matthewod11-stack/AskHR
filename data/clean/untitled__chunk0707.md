@@ -1,5 +1,15 @@
-## Behaviorism: The Golden Age of Learning Theory
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 85a6647fed6bd0d9bfc8e6d411b1f9c61f431174
+title: untitled
+---
+# 120 Cognition and Learning
 
-With a single exception, E. C. Tolman (see following), be- haviorism ﬁrmly grasped the second of the two choices possible within the Cartesian framework. They chose to treat humans and animals as Cartesian beast-machines whose be- havior could be fully explained in mechanistic causal terms without reference to mental states or consciousness. They thus dispensed with cognition altogether and studied proce- dural learning alone, examining how behavior is changed by exposure to physical stimuli and material rewards and
+with respect to our own behavior and with respect to the dog’s, because in each case the inference that humans and dogs possess recognition memory is based on observations of behavior, not on introspective access to consciousness.
 
-punishments. Behaviorists divided on how to treat the stub- born fact of consciousness. Methodological behaviorists ad- mitted the existence of consciousness but said that its private, subjective nature excluded it from scientiﬁc study; they left it the arts to express, not explain, subjectivity. Metaphysical behaviorists had more imperial aims. They wanted to explain consciousness scientiﬁcally, ceding nothing to the humanities (Lashley, 1923).
+Projective inferences, however, are based on drawing unprovable analogies between our own consciousness and putative animal consciousness. We are tempted to attribute a subjective mental state, happiness, to the watchful dog by analogy with our own happiness when we greet a loved one who has been absent. Objective inferences are legitimate in science, Morgan held, because they do not depend on analogy, are not emotional, and are susceptible to later veriﬁcation by experiment. Projective inferences are not scientiﬁcally legiti- mate because they result from attributing our own feelings to animals and may not be more objectively assessed. Morgan’s distinction is important, and although it is now the basis of cognitive science, it had no contemporary impact.
+
+In the event, skepticism about mentalistic animal psychol- ogy mounted, especially as human psychology became more objective. Romanes (1883, pp. 5–6) attempted to deﬂect his critics by appealing to our everyday attribution of mentality to other people without demanding introspective veriﬁcation: “Skepticism of this kind is logically bound to deny evidence of mind, not only in the case of lower animals, but also in that of the higher, and even in that of men other than the skeptic himself. For all objections which could apply to the use of [inference] . . . would apply with equal force to the evidence of any mind other than that of the individual objector” (pp. 4–5).
+
+Two paths to the study of animal and human cognition became clearly deﬁned. One could continue with Romanes and Morgan to treat animals and humans as creatures with minds; or one could accept the logic of Romanes’s rebuttal and treat humans and animals alike as creatures without minds. Refusing to anthropomorphize humans was the beginning of behaviorism, the study of learning without cognition.

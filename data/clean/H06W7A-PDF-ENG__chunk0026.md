@@ -1,9 +1,7 @@
-# in their own system….
-
-Dan: Right. … If patients are giving permission for the system to
-
-include their data, should that automatically come with permission
-
-to view the data?
-
-Ken: Is there a way to propose a less onerous, but still comprehensive
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7fcf2067880b8e4e0bccd42799171d73b72cece3
+title: H06W7A-PDF-ENG
+---
+## submit backup every time a physician may access a patient’s record

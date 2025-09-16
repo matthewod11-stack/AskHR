@@ -1,9 +1,13 @@
-# HBR / Digital Article / Research: The Stigma Disabled People Face During Negotiations
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9123a92e526f11d990dd28800fad886a93ac2f6d
+title: H08HIY-PDF-ENG
+---
+# arose.
 
-Somewhat surprisingly, participants who saw Alex as male and seated in
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-a wheelchair rated him as having more integrity and more negotiation
+3
 
-competence than any of the other versions. This character was
-
-perceived to be more warm, likable, and competent than others, results
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

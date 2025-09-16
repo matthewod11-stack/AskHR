@@ -1,13 +1,19 @@
-# voice of the community:
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 718a73552f8adc8202c2bbe40ab5ccd63ebf65c4
+title: H06YBA-PDF-ENG
+---
+## Use language and symbolism of autism inclusion.
 
-- Use identity-ﬁrst language preferred by most autistic adults.
+While individual preferences may vary, as a group, neurodivergent
 
-- Use neurodiversity-inclusive imagery. A golden or multicolored
+adults developed shared meanings, symbolisms, and traditions
 
-inﬁnity symbol are the most prominent and the least contested. Some
+that diﬀer from those suggested by organizations without autistic
 
-prefer a butterﬂy (also used for ADHD and neurodiversity in general).
+leadership. Your eﬀorts might not be perfect, but centering the autistic
 
-Feature the colors red, tan, or gold instead of blue.
+community and experience is a good starting point. Here are ways
 
-- Replace “cure” language with support language. Refer to autism
+leaders and allies can use language and symbolism to help amplify the

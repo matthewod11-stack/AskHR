@@ -1,21 +1,25 @@
-# industries like technology.
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e90bb486cacde31098a63b148fe5d91bf33d4f3a
+title: H08BKU-PDF-ENG
+---
+## In the context of refugee employment, the most prominent support
 
-Reach out to industry peers.
+organization is the Tent Partnership for Refugees. This globally
 
-Beyond direct contact with NGOs, employers can learn from their
+operating not-for-proﬁt mobilizes the business community to advance
 
-peers. Many companies have shared their ﬁrsthand experience of
+sustainable employment outcomes for refugees. Tent and LinkedIn
 
-refugee recruitment. IKEA’s ﬂagship Skills for Employment initiative
+both maintain online databases of numerous certiﬁed NGOs and
 
-has provided upskilling and employment opportunities to hundreds
+social enterprises worldwide. For example, in Australia, Community
 
-of people from a refugee background. The multinational corporation
+Corporate works directly with hiring employers such as Accenture,
 
-is committed to sharing its inclusive recruitment model with other
+IKEA, and Woolworths to recruit refugees to their workforce while also
 
-corporations that are keen to take action. Reaching out to industry
+collaborating with companies like Cisco, AWS, and ServiceNow that
 
-peers is a great way to learn about speciﬁc considerations and best
-
-practices while establishing your own path to inclusive recruitment.
+oﬀer dedicated upskilling programs across a range of high-demand

@@ -1,15 +1,9 @@
-## the largest hotel chains in the Netherlands—operating 22 hotels with
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b92e639f9bbfd8144b39253cf8e366c800efab2d
+title: H08R51-PDF-ENG
+---
+## available resources, or a combination of both.
 
-more than 1,000 employees—used the Energy Compass, an online
-
-survey tool, to assess job demands and resources. The intervention
-
-focused on increasing job resources such as autonomy, social
-
-support, and professional development opportunities. As a result, the
-
-organization reported measurable reductions in burnout and signiﬁcant
-
-improvements in employee engagement. This case demonstrates how
-
-systematically applying the JD-R framework can lead to meaningful
+A practical guide on applying the JD-R model describes how one of

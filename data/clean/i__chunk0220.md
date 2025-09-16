@@ -1,15 +1,15 @@
-# 7.Employee wellness, health, and safety
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 256fc9ab9015fa178874d66bfee278d8c6ea49e6
+title: i
+---
+# long-term goals.
 
-Isson et al. (2016) postulate , in practice, companies that integrate workplace wellness and
+Performance management emerges to facilitate the harmony of individual and team objectives
 
-health programs into their talent management life cycle have recognized the value. Big Data
+with those of the organization. Through effective performance management, organizations can
 
-analytics are used to showcase the effectiveness regarding financial terms, which is return on
+harness the full value of each individual and team by ongoing monitoring and adjustments as
 
-investment (ROI) , and to optimize companies’ talent management programs. The authors also
-
-state companies under study have proven the causal relationship through the use of data
-
-analytics to evaluate the impact of their wellness programs. Their data-driven insights provide
-
-compelling evidence of the positive relationship between workplace wellness, employee
+organizational goals evolve and individual circumstances change.

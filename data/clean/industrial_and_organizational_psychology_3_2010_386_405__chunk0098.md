@@ -1,9 +1,9 @@
-# Lee, L., Frederick, S., & Ariely, D.
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 12e0aa09e67351dc0a4d8698ee8e2b41820c676e
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# Larrick, R. P., Heath, C., & Wu, G.
 
-(2006). Try it, you’ll like it: The inﬂuence of expectation, con- sumption, and revelation on preferences for beer. PsychologicalScience, 17, 1054–1058.
-
-Lerner, J. S., & Tetlock, P. E. (1999). Accounting for the effects of accountability. Psychological Bulletin, 125, 255–275.
-
-Levine, J. M., & Moreland, R. L. (1990). Progress in small group research. AnnualReview ofPsychol- ogy, 41, 585–634.
-
-Lipshitz, R., Klein, G., Orasanu, J., & Salas, E. (2001). Taking stock of naturalistic decision making.
+(2009). Goal- induced risk taking in negotiation and decision- making. SocialCognition, 27, 342–364.

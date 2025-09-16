@@ -1,17 +1,25 @@
-# ends of the spectrum.
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07789943936c1909e35ef26fca95f276c75fe25d
+title: R2404K-PDF-ENG
+---
+## HBR / Magazine Article / The Middle Path to Innovation
 
-The growth driver model creates a partnership in which the corporation
+many devices for cardiovascular procedures designed to work in arteries
 
-and investors align their interests and overcome each party’s primary
+can be adapted to work in veins. But diﬀerences between arteries and
 
-obstacle to growth. Virtually all corporate decision-makers have a long
+veins, such as the veins’ larger size and lower pressure, increase the
 
-list of products they’d like to have in their portfolios but are too wary
+risk of signiﬁcant health complications. Those risks could be mitigated
 
-of risk to develop. And investors have funds at their disposal but must
+with devices designed explicitly for venous use, but developing a single product for veins may not grow proﬁts relative to R&D costs suﬃciently
 
-spend signiﬁcant time and eﬀort searching for proﬁtable opportunities.
+to merit development. If a series of venous devices were developed,
 
-Working together they can bridge the gap to prioritize needs in the
+however, a sales force could sell them as a bundle and realize economies
 
-portfolio, evaluate trade-oﬀs, and develop a list of target areas for
+of scale. Such synergistic innovations are often left unrealized because
+
+companies and VCs continue to approach innovation from polarized

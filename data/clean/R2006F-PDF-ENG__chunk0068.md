@@ -1,31 +1,25 @@
-## teams accountable: the stuﬀ of general management.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bfcc250c6335a06f05c373775792eebf56ef1624
+title: R2006F-PDF-ENG
+---
+# now in his owning box.
 
-Whereas Apple’s VPs spend most of their time in the owning and
+As long as a particular activity remains in the learning box, leaders
 
-learning boxes, general managers at other companies tend to spend
+must adopt a beginner’s mindset, questioning subordinates in a way
 
-most of their time in the delegating box. Rosner estimates that
+that suggests they don’t already know the answer (because they don’t).
 
-he spends about 40% of his time on activities he owns (including
+This diﬀers starkly from the way leaders question subordinates about
 
-collaboration with others in a given area), about 30% on learning, about
+activities in the owning and teaching boxes.
 
-15% on teaching, and about 15% on delegating. These numbers vary by
+Finally, Rosner has delegated some areas—including iMovie and
 
-manager, of course, depending on their business and the needs at a
+GarageBand, in which he is not an expert—to people with the requisite
 
-given time.
+capabilities. For activities in the delegating box, he assembles teams,
 
-The discretionary leadership model preserves the fundamental
-
-principle of an eﬀective functional organization at scale—aligning
-
-expertise and decision rights. Apple can eﬀectively move into new areas
-
-when leaders like Rosner take on new responsibilities outside their
-
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
-
-20
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+agrees on objectives, monitors and reviews progress, and holds the

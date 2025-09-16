@@ -1,5 +1,9 @@
-# cational Record, 19, 36–46.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: da11148307a70c0eab0bfe08bf0b409d7d34429c
+title: untitled
+---
+## Parsons, F.(1909).Choosing avocation.Boston: Houghton–Mifﬂin.
 
-Pepinsky, H. B., Hill-Frederick, K., & Epperson, D. L. (1978). Journal of Counseling Psychology as a matter of policies. Journal of Counseling Psychology, 25, 483–498.
-
-Raimy, V. C. (Ed.). (1950). Training in clinical psychology.
+Paterson, D. G. (1938). The genesis of modern guidance. The Edu-

@@ -1,11 +1,7 @@
-## In a small rural school division in Virginia, a
-
-superintendent, with the support of his school board, adopted an attendance reward program for teachers. Teachers with perfect attendance receive a $500 bonus at the end of the school year. Teachers who miss only one day receive $250. The superintendent believes that the program will increase teachers’ com- mitment to the students, parents, and community by rewarding them for not taking days off from work. This chapter discussed that one of the conse-
-
-that their commitment decreases. And, say these critics, you can’t get that commitment back simply by “bribing” them with bonuses, incentives, or pay increases. The leaders of today, the critics say, don’t want to give more freedom to employees to make decisions; they find it easier to fire employees for mis- takes than offering them additional training to per- form better, and leaders don’t want to take the time to learn better management techniques, because, to them, time away from work means money out of their own pockets.
-
-quences of low commitment and job dissatisfaction is high absenteeism. In the school mentioned above, absenteeism had significantly risen over the past few years. The superintendent believed the increase was because of a lack of commitment by the teachers. After all, if the teachers were committed, they would try harder not to miss school. “It’s human nature,” he said “when you know you might lose your sick days at the end of the year to take those days even when you are not sick. By rewarding good attendance, the school division will increase commitment from these teachers and, consequently, reduce absenteeism.” If you talk to the teachers, however, many will say that the school division would rather “buy” their good attendance rather than determine and fix why teachers choose to be absent in the first place, which is in response to unethical practices by management and the poor treatment of teachers by the administration.
-
-Supporters of such incentives say that part of
-
-organizational commitment is getting better perfor- mance out of employees, reducing absenteeism, and reducing turnover. They see nothing wrong in reward- ing employees for doing a good job, being at work, and staying at work. Ultimately, these incentives meet the goal of what they are intended for. So, if such incen- tives work, why not use them? Proponents counter the argument that management uses incentives instead of finding better ways to treat employees, by arguing that incentives are one way of treating employees better.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: cce2d5e7960e476f7671fea44ebbeb200bfa6dd3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Ethics and Organizational Commitment

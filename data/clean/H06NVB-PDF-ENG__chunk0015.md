@@ -1,7 +1,33 @@
-## HBR / Digital Article / Navigating Postpartum Depression at Work
+---
+source_path: H06NVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d346894e16dc2542462c8b45cd15ea27d338474
+title: H06NVB-PDF-ENG
+---
+## often a time of anticipation, celebration, and togetherness. Contrast that
 
-prenatal care, ultimately seeing them every week, then after delivery we
+to newly-minted mothers, who are often home alone with a new baby,
 
-now go six weeks without so much as a scheduled call or visit.” (Dr.
+recovering both physically and emotionally from birth while attempting
 
-Messinger’s office has now added 2-week postpartum visits to address
+to make sense of their new roles. Mixed with rapid hormone shifts, this
+
+isolation acts as a trigger for a spectrum of postpartum mood disorders,
+
+ranging from the milder Baby Blues to PPD to postpartum psychosis, a
+
+severe form of PPD like Sarah’s. (The Mayo Clinic does an excellent job
+
+of outlining specific symptoms.)
+
+Meanwhile, another sudden dropoff occurs with maternal health care
+
+and support. D.C.-based OB-GYN Dr. Lauren Messinger shared with me,
+
+“We develop such strong relationships with women over the course of
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

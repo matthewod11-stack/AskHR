@@ -1,27 +1,15 @@
-# innovative.
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2a9d342783fc9f800d5813cd22646e0989d5cb7
+title: H087DT-PDF-ENG
+---
+# productive things.
 
-It’s more realistic and mentally healthier to have a mind that’s
+Use an unfocused mind to get things done
 
-alternately focused and unfocused, because during our brains’
+A huge part of why work can feel so overwhelming is the false idea that
 
-unfocused recovery time we make creative connections without even
+we should be focused and undistracted all day. That’s not possible, and
 
-trying to. For example, you’ve probably had a brilliant idea for a project
-
-while taking a shower or going for a walk, right? When we’re unfocused,
-
-pathways that felt murky while we were concentrating can suddenly
-
-become clear. Problems we couldn’t solve from up close up suddenly
-
-become simpler.
-
-So rather than trying to force your brain to do task after task, let it
-
-relax and wander after you’ve been productive for a while. Personally, I
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+not necessary or desirable, especially if you’re trying to do anything

@@ -1,3 +1,21 @@
-## An Identity for Counseling Psychology 361
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 93aeff1299f1a3907e360394f8593c58e9240135
+title: untitled
+---
+# WAR AND THE TRAINING OF PSYCHOLOGISTS
 
-Soon after Boulder, substantial federal dollars went to supporting the establishment of doctoral training programs in clinical and counseling psychology at universities across America. The Boulder vision of the professional psychologist was most closely associated with clinical psychology, and clinical training programs would be the ﬁrst recognized by the USPHS and VA. Counseling psychologists eager to make their contribution and get their share of the funding windfall received support for training conferences of their own with funds supplied by the USPHS.
+The role of psychologists during the Second World War would greatly expand. Classiﬁcation and other assessment activities remained an integral part of the work, but unlike during the First World War, when intellectual function was stressed, the concern shifted to the mental health of the ﬁght- ing force. Mental health screening of new recruits indicated alarming rates of psychopathology, about 17% of draft-age men (Deutsch, 1949). When anticipated casualties from the war were added and when counts of occupied Veterans Ad- ministration (VA) beds were made, it was clear that psychi- atric problems were the leading cause of casualty among soldiers. The United States Public Health Service (USPHS) and the Veterans Administration quickly realized that there were not enough trained mental health professionals to meet the burgeoning need. Through joint action, the USPHS and the VA developed a national plan of mental health. First and foremost was the establishment of a recognized mental health profession. The Mental Health Act of 1946 provided federal
+
+funds to the USPHS for an aggressive campaign of research, training, and service to combat mental illness, and in the process it created the National Institute of Mental Health (NIMH). The VA offered signiﬁcant ﬁnancial and organiza- tional support to psychology by supporting the creation of accredited doctoral training programs in clinical and counsel- ing psychology (Baker & Benjamin, in press).
+
+The coordination of academic psychology, the APA, the VA,andtheUSPHSwasswiftandbestrepresentedbythecon- vening of the Boulder Conference on Graduate Education in Clinical Psychology in 1949. For 15 days, 73 representatives of academic and applied psychology, medicine, nursing, and education debated and discussed the establishment of the pro- fessional psychologist. For many the most memorable out- come was the endorsement of the scientist-practitioner model of training.The conference, though, was about much more. In verybroadterms,itgavenationalpolicymakerstheassurance thatprofessionalappliedpsychologywaspreparedtomeetthe mental health needs of the nation (Benjamin & Baker, 2000). It is important to note that few distinctions were made be- tween specialty areas in psychology, and if anything the call was for an inclusive view. According to the report of the Boulder Conference (Raimy, 1950),
+
+the majority of the conference was clearly in favor of encourag- ing the broad development of clinical psychology along the lines that extend the ﬁeld of practice from the frankly psychotic or mentally ill to the relatively normal clientele who need informa- tion, vocational counseling, and remedial work. Specialization in any of these less clearly deﬁned branches has now become an open issue that must be faced sooner or later. (pp. 112–113)
+
+The conferees went so far as to offer a vote of support for the recommendation that
+
+the APA and its appropriate division should study the common and diverse problems and concepts in the ﬁelds of clinical psy- chology and counseling and guidance with a view to immediate interﬁeld enrichment of knowledge and methods. Consideration should also be given to the possibility of eventual amalgamation of these two ﬁelds. (p. 148)
+
+Obviously such an amalgamation never occurred. The reorganization of the APAin 1945 brought clear divisions be- tween those who identiﬁed themselves with clinical psychol- ogy and those who identiﬁed with counseling and guidance. Division 17, ﬁrst known as the Division of Personnel and Guidance Psychologists (quickly changed to the Division of Counseling and Guidance), came into existence with the reorganization, due in large part to many faculty members at the University of Minnesota, including Donald Paterson, E. G. Williamson, and John Darley (Blocher, 2000).

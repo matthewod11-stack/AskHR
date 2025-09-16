@@ -1,15 +1,21 @@
-## variability in value ratings of the sandwich ideas in the baseline group.
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: feeb1dc3aa6238e207143f7d038403c8c851711b
+title: H08COG-PDF-ENG
+---
+## HBR / Digital Article / Research: How to Build Consensus Around a New Idea
 
-However, for the group who were told to evaluate the sandwiches
+sandwich ideas and 19 low-novelty sandwich ideas, determined through
 
-for a restaurant focused on novelty, we found that this eﬀect went
+a previous survey. We sorted the participants into two groups: baseline
 
-away, suggesting that providing people with clear criteria for evaluation
+and novelty-as-value. We asked both groups to evaluate the sandwiches’
 
-muted the tendency for variability in people’s judgments of the value
+value, but in the novelty-as-value group, we asked, “At a restaurant
 
-of novel ideas. The spread of scores diminished further when we
+specializing in sandwiches no one has tried before, how successful
 
-controlled for subjects who had worked in restaurants speciﬁcally,
+would this sandwich be as a menu item?”
 
-providing further evidence that shared context and reference points can
+We found that, consistent with our other studies, there was high

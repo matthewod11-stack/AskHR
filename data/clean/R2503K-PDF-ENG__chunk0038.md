@@ -1,17 +1,13 @@
-## HBR / Magazine Article / Leading Global Teams Effectively
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5674f3607f50412b5527fae731b68999fe3dfff2
+title: R2503K-PDF-ENG
+---
+## information yet arrive at radically diﬀerent conclusions.
 
-A study led by Adam Galinsky at Columbia University illustrates the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-power of perspective-taking. Students were shown a photo of an elderly
+10
 
-man sitting next to a newspaper stand and were asked to write a short
-
-essay about a typical day in his life. Galinsky divided the students
-
-into three groups. The control group was asked to simply describe the
-
-man’s day. The second group was told to describe his day without using
-
-stereotypes, and the people in the third group were instructed to write
-
-the essay in the ﬁrst person, imagining themselves as the man.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

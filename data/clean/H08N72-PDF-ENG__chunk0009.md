@@ -1,19 +1,19 @@
-## HBR / Digital Article / When Your Colleague Is Jealous of Your Success
+---
+source_path: H08N72-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1b593e781631905c91b4254752359e2154bff1a
+title: H08N72-PDF-ENG
+---
+# not your imagination.
 
-the wrong move. Approaching them directly and thoughtfully can help
+- 2. Understand why they’re jealous.
 
-identify miscommunication that might eliminate the problem entirely.
+Once you’ve concluded that there really is a problem, the natural
 
-For instance, your colleague may have made an incorrect assumption
+impulse might be to avoid them so as to avoid the conﬂict. But that’s
 
-about you and your motives (for example, “You got that promotion
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-because Brad’s team needed help and you let him fail”). Or a third party
+2
 
-might actually be feeding them negative information about you.
-
-You can ask them: “I’ve noticed lately that when I speak in meetings,
-
-you’re often taking the opposing view. Can you tell me more about that,
-
-or is there something going on?” This gives them the opportunity to ask
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

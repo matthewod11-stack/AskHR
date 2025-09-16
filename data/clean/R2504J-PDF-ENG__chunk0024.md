@@ -1,7 +1,15 @@
-# customs.
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91d73ae1e143b03af83d3bd451cd1f1b89549d0f
+title: R2504J-PDF-ENG
+---
+## storefront, some very simple self-service machines, and a color-coded
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+scheme (including red and blue carpets) that indicated to people (who
 
-5
+might not be able to read) where to go. Crucially, Capitec would employ
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+people from the local community so that customers would be served
+
+by someone who spoke their language and behaved according to their

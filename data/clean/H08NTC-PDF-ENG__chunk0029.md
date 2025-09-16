@@ -1,13 +1,25 @@
-# Patience and ﬂexibility
+---
+source_path: H08NTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 151cee17dd693034113015a54e069caa7334d87b
+title: H08NTC-PDF-ENG
+---
+# the core values of their company.
 
-The aftermath of a natural disaster often leaves employees in a state of
+Other options you may pursue on behalf of the individual are to check
 
-uncertainty. It will likely take time for the aﬀected employee to re-focus
+whether the company can oﬀer a pay advance or loan, or even start a
 
-on anything work-related. And, when they do re-engage with work,
+crowd-funding campaign to help them cover unexpected out-of-pocket
 
-they may need additional ﬂexibility, including ﬂexible hours and/or
+expenses or administrative support to deal with personal matters.
 
-the ability to work remotely (if they don’t already) to handle personal
+This will not only help alleviate stress but also enable them to be
 
-matters related to the disaster, such as changing housing, or driving a
+more present and focused when they are at work. You can also share
+
+information from the Society for Human Resources, which oﬀers a
+
+variety of resources on its website to help team members aﬀected by
+
+natural disasters navigate related ﬁnancial and insurance issues.

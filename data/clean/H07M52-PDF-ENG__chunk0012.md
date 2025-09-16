@@ -1,19 +1,17 @@
-# with generosity and gratitude.
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cded2e668861497539abca7bc5d1312a869131fd
+title: H07M52-PDF-ENG
+---
+## innovation and organizational performance as well as employees
 
-Beyond that baseline, though, today’s complicated times require even
+who are more engaged, productive, and satisﬁed with their jobs.
 
-more from leaders because teams need diﬀerent approaches depending
+These leaders are not necessarily charismatic or extroverted or
 
-on why their energy is ﬂagging. In our forthcoming research, my
+any other speciﬁc personality type. Rather, research shows that
 
-colleagues and I surveyed 3,000 employees and conducted in-depth
+leaders who are seen as energizing behave in certain ways, such as
 
-interviews with leaders and working professionals. We discovered
-
-three diﬀerent paths that successful, energizing leaders must take to
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+exhibiting compassion and humility and recognizing others’ eﬀorts

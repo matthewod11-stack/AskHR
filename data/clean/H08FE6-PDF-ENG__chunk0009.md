@@ -1,7 +1,35 @@
-# What Happens After A CRO Leaves
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7516684aa706274bbff334ce0cab32f93f737482
+title: H08FE6-PDF-ENG
+---
+## HBR / Digital Article / The High Costs of Chief Revenue Officer Turnover
 
-We conducted an analysis of public and private companies in the U.S.
+43% of companies experienced at least one year of negative growth
 
-and Canada to understand the impact CRO turnover has on company
+in the past three years, and fewer than 3% managed to consistently
 
-performance. To ensure it was as “like-for-like” as possible, we focused
+increase their growth rate each of the last three years. Firing the CRO
+
+is one of the most common actions a board of directors takes when
+
+growth is challenged. Our research shows that CRO turnover accelerated
+
+by more than 50% from 2022 to 2023 (with 70% of CROs who left their
+
+post being asked to leave). This trend doesn’t show any signs of abating:
+
+Our survey of CEOs found only 41% of them express conﬁdence that
+
+their CRO can drive commercial success for their organization.
+
+Naturally, it stands to reason that when growth isn’t happening,
+
+someone needs to be held accountable. But here’s our take: replacing
+
+the CRO is often a recipe for further suppressing and likely decelerating
+
+growth. It is something most executive teams would be wise to carefully
+
+and conservatively consider before acting.

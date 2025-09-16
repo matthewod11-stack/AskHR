@@ -1,21 +1,17 @@
-# People Believe AI Is Emotionless
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f300b4878c1cd5e3b1f6bbd47d347c7c38498441
+title: S25013-PDF-ENG
+---
+## HBR / Spotlight / Why People Resist Embracing AI
 
-Though consumers tend to ascribe some human capabilities to AI tools,
+and how a benign tumor looks and consulted medical research to back
 
-they don’t think that machines can experience emotions and therefore
+up its assessment—does not reduce adherence. This means that you
 
-are skeptical that AI can accomplish subjective tasks that seem to
+should understand users’ perceptions of the task before crafting an
 
-require emotional capabilities. That skepticism hinders the acceptance
+explanation. You should also avoid suggesting that your AI is too simple
 
-of AI systems that already can perform subjective tasks at the same
-
-skill level as humans can—such as recognizing emotions in faces and
-
-producing still images and video. For example, people are just as open to
-
-ﬁnancial recommendations from AI as they are from humans, because
-
-that task is viewed as objective. However, when it comes to something
-
-like dating advice, which is seen as highly subjective, they have a clear
+for it; otherwise, it might be better to provide no explanation at all.

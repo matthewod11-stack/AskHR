@@ -1,3 +1,15 @@
-# 282 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b2405a1a58e974054eb65eddbdf17adc8622fb41
+title: barrickryan_eds_personality_and_work
+---
+## PERSONALITY IN PERSON-ORGANIZATION FIT RESEARCH 281
 
-adaptation to change is related to personality congruence (supple- mentary ﬁt).
+ful; they can change to ﬁt the situation. Those low in adaptive mo- tivation may need good ﬁt to be satisﬁed; they are unwilling to change to secure PO ﬁt.
+
+Besides understanding the relationship of adaptability and personality-based PO ﬁt, we also need research on how to enhance both adaptation and PO ﬁt. The topic of adjustment and PE ﬁt is a long-standing one (Caplan & VanHarrison, 1993), with an inter- est on who generates the ways to cope with poor ﬁt, that is, the in- dividual or an imposed intervention. For example, an organization might increase ﬁt through interventions that aid self-selection, such as RJPs (Wanous, 1992), and interventions that aid adaptation, such as orientation programs (Cable & Parsons, 2001; Klein & Weaver, 2000). However, Cable and Parsons (2001) found that ﬁrms using random, variable tactics of socialization might be de- creasing values congruence, suggesting that poorly planned or poorly implemented interventions can leave individuals without the tools needed to adapt or to a worsening of ﬁt. Further research on socialization that examines how poor ﬁt can be decreased or adjusted to is needed.
+
+There is a need to integrate research on the effects of person- ality on adaptation with that on personality-based PO ﬁt. For ex- ample, LePine et al. (2000) found that Openness to Experience was positively related to decision-making performance after change, and the dependability facets of Conscientiousness were negatively related to adaptation. This might be interpreted as suggesting that individuals low in openness or high in dependability may be less able to cope with poor-ﬁt situations than others. Alternatively, it may be that in this particular context (a decision-making task), there is low ﬁt on these traits, but they do not affect adaptation to poor ﬁt situations in general. Furthermore, as LePine et al. point out, adaptability in task performance or to planned changes may relate to different traits than adaptability in contextual behaviors or to shifting organizational missions. Thus, the role of personal- ity congruence in adaptation may be contingent on the nature of the adaptation.
+
+In summary, we need to investigate how adaptive competence and adaptive motivation relate to adjustment to poor-ﬁt situations and responsiveness to organizational interventions to enhance ﬁt. We need to discover whether the role of personality traits in

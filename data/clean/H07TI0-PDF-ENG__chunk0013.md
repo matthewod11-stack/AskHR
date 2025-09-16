@@ -1,31 +1,21 @@
-## HBR / Digital Article / A New Approach to Writing Job Descriptions
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f875a6c863de8ccc50e1a129b4362bf6cbb250f
+title: H07TI0-PDF-ENG
+---
+# as conditions shift.
 
-Google uses results-oriented job descriptions to keep their top talent
+For instance, instead of a sales manager’s job description listing tasks
 
-motivated. Laszlo Bock, the former senior vice president of people
+such as “meet key clients once per quarter ” or “prepare sales reports on
 
-operations, explains: “At Google, we believe that results-oriented job
+a monthly basis,” it would describe outcomes such as “increase regional
 
-descriptions are essential for attracting and retaining top talent. When
+sales by 15%” and “improve customer retention by 10%.”
 
-employees know what is expected of them and how they will be
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-measured, they are more likely to be motivated and engaged in their
+3
 
-work.”
-
-For example, traditionally, a design ethicist job description might have
-
-listed analyzing Google’s search algorithm for bias once per month, or
-
-keeping a privacy risk log up to date. But in an outcomes-based job
-
-description, a design ethicist is instead given the broader mandate of
-
-identifying ethical risks in Google’s products or developing guidelines
-
-for the ethical design of products. That gives both the employee and
-
-Google leeway for the speciﬁc tasks of the design ethicist to change
-
-as technologies develop — as generative AI is introduced into Google’s
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

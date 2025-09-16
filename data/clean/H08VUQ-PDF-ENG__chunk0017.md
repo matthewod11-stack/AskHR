@@ -1,23 +1,21 @@
-# passengers in the elevator.
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ae46cc698495871342dce8d1148d96821bf9c54
+title: H08VUQ-PDF-ENG
+---
+# late at night to a stranger.
 
-The robots quickly became popular, making hotel guests’ lives easier
+Seeing the clear, “last-inch” logisitics problem, Yunji Technology
 
-and more fun, helping delivery workers save time, and improving operational eﬃciency for hotels while enhancing their appeal to guests.
+developed a strategy to create cost-eﬀective, personable delivery robots
 
-In fact, hotels that use Yunji’s robots see a 27% increase in daily online
+that would bring items directly to hotel rooms and then leveraged AI
 
-travel agency comments. The number of positive reviews related to
+to actualize it. These cute robots are able to navigate autonomously to
 
-Yunji’s robots has exceeded 6 million, with 35% of reviews featuring
+the guest’s door, gently announcing their arrival in a soft, childlike voice
 
-user-uploaded images—far exceeding the usual rate.
+that’s sure to bring a smile. Once the guest retrieves the delivery, the
 
-Today Yunji robots capture 90% of the market in hotel robotics in China
-
-and are being used in more than 20 countries and 30,000 hotels. The
-
-company created a strategy that addressed a real problem, oﬀered a leap
-
-in value for all parties, and then turned to AI to realize their solution. To
-
-thrive, like Yunji, companies need to get the strategy-value-AI sequence
+robot cheerfully wheels itself away, even cracking playful jokes to other

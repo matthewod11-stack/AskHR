@@ -1,3 +1,7 @@
-# 4 Very Good
-
-Develops detailed notes and guides. Presentations are well planned emphasizing key concepts. Comprehensively integrates lecture, etc. with textbook and/or other curricular materials. Instructional time and variety of material is planned for benefit of students.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 80d2f3d0b210cc7e5b4707f6738309a030f18e04
+title: document_resume
+---
+# Performance Appraisal

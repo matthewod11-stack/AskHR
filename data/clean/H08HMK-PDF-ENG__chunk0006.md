@@ -1,15 +1,19 @@
-## due to the extraordinarily high cost of childcare and eldercare), many
+---
+source_path: H08HMK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1847239ea7e5da92fda452b548871b2dbda6a87
+title: H08HMK-PDF-ENG
+---
+# HBR / Digital Article / Your Employees Are Also Caregivers. Here’s How to Support Th…
 
-talented people simply quit: 32% of respondents said they’d left a job
+According to study authors Joseph B. Fuller and Manjari Raman,
 
-due to caregiving responsibilities in total, with the number being as
+however, “employers do not measure and thus do not realize the
 
-high as 50% for those aged 26−35.
+extent to which employees are burdened by care.” While only 24% of
 
-There’s much more companies can do to support their caregivers. This
+employers said caregiving aﬀects employee productivity, a whopping
 
-involves both understanding their value and adopting policies that
+80% of employees said it does — though they’re likely not willing to
 
-are in line with people’s needs and lived experiences. Here are some
-
-strategies from HBR’s archives on how to do this.
+admit this publicly for fear of hurting their careers. As a result (and also

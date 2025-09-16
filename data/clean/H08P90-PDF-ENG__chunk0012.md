@@ -1,23 +1,17 @@
-# opportunities.
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea63f99dd914360504bf12e23c1327ba9b278fe3
+title: H08P90-PDF-ENG
+---
+# HBR / Digital Article / To Drive Innovation, Create the Conditions for Serendipity
 
-Haier is a case in point. In the 1990s, Chinese farmers were repeatedly
+made. At ﬁrst, they are likely to be skeptical. Once they begin tracking
 
-contacting Haier’s maintenance service to complain that their washing
+anomalies however, their ability to spot them will improve. When
 
-machines kept breaking down. The service team soon discovered that
+people know they’re expected to notice the unexpected, they become
 
-the farmers were using them to wash potatoes before selling them
+more receptive and attentive to it. Over time, building this habit will
 
-at local markets. Instead of dismissing the complaints, Haier saw an
-
-opportunity and eventually developed an entirely new range of potato-
-
-washing machines.
-
-- 2. Foster cross-disciplinary interactions.
-
-Cross-disciplinary interaction lies at the heart of serendipity. When
-
-individuals with diverse backgrounds and skills come together, the
-
-exchange of perspectives can spark unexpected connections and lead
+strengthen a company’s ability to recognize and act on unforeseen

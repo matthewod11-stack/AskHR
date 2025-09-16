@@ -1,3 +1,9 @@
-# Synthesized Findings
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: 26557e10906753786ae766df48117919412771cf
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# culture. Most
 
-Nineteen studies in total were chosen for review. Only four manuscripts (Aleksi’c et al., 2019; di Stefano et al., 2019; Nacˇ inovi’ et al., 2020; Zoghbi-Manrique-de-Lara & Ting-Ding, 2016) directly measured workplace culture either Organizational Culture Assessment using Instrument (OCAI) by Cameron and Quinn (1999) or FOCUS Questionnaire developed by van Mujien et al. (1999). Other manuscripts used more directly observed antecedents in their study to reflect a specific variable of workplace culture involving employees’ personal circum- stances and experiences. This contradict di Stefano et al.’s (2019) argument that instead of focusing on workplace culture at a macro-level and as a contextual research explicitly predictor, addressed the link between organizational variables and deviant workplace conduct, emphasizing the relevance of situational variables. However, all the variable that had been previously investigated, can still be subsumed in the four main organizational values according to the com- puting value framework developed by Cameron and Quinn (1999).
+The workplace deviance scale created by Bennett and Robinson (2000) is the most commonly utilized. Other studies measured specific deviant acts such as incivility via behavioural identification (Rosen et al., 2016), police misconduct (Lim & Sloan, 2016), critical incident technic (Restubog et al., 2012) and police self-protective beha- viors (Helfers et al., 2018). Another tool for measuring deviant behavior at work as a whole is a scale developed by Aquino et al. (1999) as described by Nasir and Bashir (2012). Rahmah et al. (2021) study on work ethics at the police corps used unethical behaviour as measurement of deviant workplace behavior.

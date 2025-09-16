@@ -1,5 +1,11 @@
-# Rousseau, D., & Arthur, M.
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: f58cd1083587640a7adc94dbe86cbe8273d4b761
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# Tarcher, Inc.
 
-(1999). The boundaryless human resource function: Building agency and community in the new economic era. Organizational Dynamics, 27, 6–18.
+Rosman, K. (2011, May 19). The most awkward meeting: new elevators sort employees, foiling manners and face time. Wall Street Journal, D1, D2.
 
-Sabbagh, C., Dar, Y., & Resh, N. (1994). The structure of social justice judgments: A facet approach. Social Psychology Quar- terly, 57(3), 244–261.
+Rousseau, J. J. (1992). Discourse on the origins of inequality (J. R. Bush, Trans.). Hanover, NH: University Press of New England (Original work published in 1755).

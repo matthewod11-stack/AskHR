@@ -1,11 +1,15 @@
-# their frustrations out on customers.
+---
+source_path: H08OER-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0fc6e0154b03227d3679b559a6b51980cdae6c8
+title: H08OER-PDF-ENG
+---
+## Johnny C. Taylor Jr., CEO of the Society for Human Resource
 
-In contrast, creating a civil workplace has a range of beneﬁts at the
+Management (SHRM), estimates that incivility costs U.S. businesses
 
-individual, team, and organizational levels. In a meta-analysis, civility
+$2 billion per day in lost productivity. When on the receiving end of
 
-was shown to increase employees’ job satisfaction, mental health,
+incivility, 63% of employees in a 2013 survey reported losing work time avoiding the oﬀender, 66% said their performance declined, 80% lost
 
-and organizational commitment, while reducing people’s emotional
-
-exhaustion and intention to quit. And yet, 71% of workers say their manager or supervisor could have made more of an eﬀort to prevent
+work time worrying about the incident, and 25% admitted to taking

@@ -1,11 +1,15 @@
-# startups.
+---
+source_path: H08TT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03373ce6464f2f43b91d229f243f72aea619857d
+title: H08TT4-PDF-ENG
+---
+# Assess Others
 
-Those who feel they have a strong position in negotiations ask more
+Studies show that powerful people don’t necessarily aim to impress.
 
-questions to learn whether the other person will be valuable to them.
+They aim to assess.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+In business, the person with more power evaluates the person with
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+less. Recruiters rate job candidates. Buyers vet sellers. VCs scrutinize

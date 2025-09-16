@@ -1,17 +1,11 @@
-# conhecer aqui?"
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 31c5eb187a4afabdddb301fd9f8f7ecff88fe9b8
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## aplicação em outras companhias, questionamento da segunda pergunta, cujas
 
-Fonte: respostas do questionário aplicado aos funcionários
+respostas foram plotadas no gráfico da figura 11:
 
-A próxima questão indagava a respeito da compreensão dessas pessoas
-
-quanto à metodologia de cálculo do eNPS, à qual apenas uma (16,7%) das
-
-lideranças afirmou não a compreender, o que reforça a teoria de que é simples e,
-
-portanto, intuitiva a técnica, tese defendida por Legerstee (2013). As respostas estão
-
-apresentadas na figura 12.
-
-55
-
-Figura 12: Respostas à pergunta "Você compreende a metodologia de cálculo que a
+Figura 11: Respostas à pergunta "Você já a conhecia de outras empresas ou veio a

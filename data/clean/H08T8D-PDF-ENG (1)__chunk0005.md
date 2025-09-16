@@ -1,15 +1,37 @@
-# business’s needs.
+---
+source_path: H08T8D-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 48977b3911a22247059e9f734c5ce7daca43c323
+title: H08T8D-PDF-ENG (1)
+---
+## HBR / Digital Article / 4 Strategies to Help New Leaders Give Feedback
 
-- 2. Fast-track trust.
+constructive. Understanding the landscape—beyond the data—allows
 
-To ensure your feedback is not just heard but acted upon, you need
+you to deliver feedback that is informed and eﬀective. It helps you avoid
 
-to build a foundation of trust. While trust naturally builds over time,
+missteps that can erode trust before it’s built.
 
-exceptional leaders take deliberate steps to fast-track it.
+As he started his new role, Barry made a personal commitment to
 
-One strategy I recommend is inspired by Patrick Lencioni’s The Five
+notice his instinct to move quickly and take more deliberate action.
 
-Dysfunctions of a Team, which emphasizes that vulnerability is a core
+That opportunity came quickly when he noticed that his head of
 
-building block of trust. You could practice this by sharing your greatest
+accounting, Luis, lacked the strategic capabilities required for the role.
+
+Avoiding his ﬁrst instinct to deliver tough feedback immediately, Barry
+
+gathered more context. Over the next couple of weeks, he observed
+
+team interactions, asked thoughtful questions, and sought input from
+
+Luis’s peers. He learned that Luis was a 17-year company veteran who
+
+was widely respected, collaborative, and instrumental in mentoring
+
+younger talent. With this broader understanding, Barry delivered
+
+candid feedback about the skill gap and oﬀered a transition into a
+
+newly created role that honored Luis’s strengths while addressing the

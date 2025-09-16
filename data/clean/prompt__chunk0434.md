@@ -1,11 +1,15 @@
-# Use variables in prompts
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 982d4e088be6d7ff099f709a6238f62d96e40f7f
+title: prompt
+---
+# Prompt Engineering
 
-To reuse prompts and make it more dynamic use variables in the prompt, which can be
+Control the max token length
 
-changed for di(cid:441)erent inputs. E.g. as shown in Table 20, a prompt which gives facts about a
+To control the length of a generated LLM response, you can either set a max token limit in the
 
-city. Instead of hardcoding the city name in the prompt, use a variable. Variables can save
+con(cid:450)guration or explicitly request a speci(cid:450)c length in your prompt. For example:
 
-you time and e(cid:441)o(cid:457) by allowing you to avoid repeating yourself. If you need to use the same piece of information in multiple prompts, you can store it in a variable and then reference
-
-that variable in each prompt. This makes a lot of sense when integrating prompts into your
+"Explain quantum physics in a tweet length message."

@@ -1,11 +1,7 @@
-## Seek advice from an expert who shares your goals. Some companies
-
-retain an outside lawyer or consultant to negotiate with their
-
-workforces. Rule out anybody associated with a ﬁrm that specializes
-
-in “union avoidance.” No matter what lip service those ﬁrms pay to
-
-the idea of partnership with the other side, they often delay or avoid
-
-reaching an agreement, damage company reputations, and fail to build
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f7464ee62aa94d618590019fe928a0f0f860912
+title: R2304D-PDF-ENG
+---
+## HBR / Magazine Article / The Labor-Savvy Leader

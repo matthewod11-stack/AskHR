@@ -1,7 +1,7 @@
-# Edwin A. Locke1 and Gary P. Latham2
-
-1R.H. Smith School of Business, University of Maryland, and 2Rotman School of Management, University of Toronto
-
-ABSTRACT—Goal-setting theory is summarized regarding the effectiveness of speciﬁc, difﬁcult goals; the relationship of goals to affect; the mediators of goal effects; the relation of goals to self-efﬁcacy; the moderators of goal effects; and the generality of goal effects across people, tasks, coun- tries, time spans, experimental designs, goal sources (i.e., self-set, set jointly with others, or assigned), and dependent variables. Recent studies concerned with goal choice and the factors that inﬂuence it, the function of learning goals, the effect of goal framing, goals and affect (well-being), group goal setting, goals and traits, macro- level goal setting, and conscious versus subconscious goals are described. Suggestions are given for future research.
-
-There are four mechanisms or mediators of the relationship between goals and performance. High goals lead to greater effort and/or persistence than do moderately difﬁcult, easy, or vague goals.Goalsdirectattention,effort,andactiontowardgoal-relevant actionsattheexpenseofnonrelevantactions.Becauseperformance is a function of both ability and motivation, goal effects also dependuponhavingtherequisitetaskknowledgeandskills.Goals may simply motivate one to use one’s existing ability, may auto- matically ‘‘pull’’ stored task-relevant knowledge into awareness, and/or may motivate people to search for new knowledge. The latter is most common when people are confronted by new, com- plex tasks. As we will show, such searches may or may not be successful.
+---
+source_path: untitled_1.md
+pages: n/a-n/a
+chunk_id: 263a2f6fc96709749890ed5f39fcb76fa4c74c41
+title: untitled_1
+---
+# New Directions in Goal-Setting Theory

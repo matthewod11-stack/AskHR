@@ -1,17 +1,15 @@
-# American Psychologist, 32, 542–549.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 780e31ca83e23d561f16c3eb7d5d43d7a74c561e
+title: untitled
+---
+# REFERENCES
 
-Benjamin, L. T., Jr. (1997a). Organized industrial psychology before Division 14: The ACP and the AAAP. Journal of Applied Psy- chology, 82, 459–466.
+Abbott, A. (1988). The system of professions, an essay on the divi- sion of expert labor. Chicago: University of Chicago Press.
 
-Benjamin, L. T., Jr. (1997b). The origin of psychological species: History of the beginnings of American Psychological Associa- tion divisions. American Psychologist, 52, 725–732.
+American Psychological Association, Task Force on the Status of Women in Psychology. (1973). Report of the Task Force on the Status of Women in Psychology. Washington, DC: Author.
 
-Bent, R. J., Packard, R. E., & Goldberg, R. W. (1999). The American Board of Professional Psychology, 1947–1997: A historical per- spective. Professional Psychology: Research and Practice, 30, 65–73.
+Appel,T. (1988). Organizing biology:TheAmerican Society of Nat- uralists and its afﬁliated societies. In R. Rainger, K. R. Benson, & J. Maienschein (Eds.), The American development of biology (pp. 87–120). New Brunswick, NJ: Rutgers University Press.
 
-Bernal, M. (1994). Hispanics in psychology. Focus, 8, 9–10.
-
-Blascovich,J.(2000).SocietyofExperimentalSocialPsychology.In A. E. Kazdin (Ed.), Encyclopedia of psychology (Vol. 7, pp. 380– 381). Washington, DC:American PsychologicalAssociation.
-
-Boring, E. G. (1951). The woman problem. American Psychologist,
-
-6, 679–682.
-
-551
+Benjamin, L. T., Jr. (1977). The psychological round table.

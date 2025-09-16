@@ -1,25 +1,37 @@
-## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68a754db3eff9eac9019f5f297444389dfce50ff
+title: H08LRM-PDF-ENG
+---
+## return to their same job or organization — or even career.
 
-all messages during your entire time oﬀ.) That said, diﬀerent types of
+Other deﬁning attributes include:
 
-work are allowed. For example, if you are a software engineer, you can
+Duration. Sabbaticals are measured in months, not days or weeks.
 
-remodel a kitchen, but tech consulting is a no-go. Further, sabbatical-
+Ideally, they run from three months to a year. Most folks I’ve
 
-takers should avoid actively searching for their next job. This is what
+interviewed said it took them up to eight weeks — much longer than
 
-makes the break intentional: Regardless of why you take one, it’s vital
+they’d expected — to even begin to detach from work. As one operations
 
-that, once you’re there, you commit to staying in the in-between. Ideally,
+manager who took a three-month stint abroad explained: “I had to be
 
-a proper sabbatical also includes geographic disconnection: physically
+forcibly removed from access [to my work routines]. Only after enough
 
-getting away — out of town or out of the country — for as long as is
+time away from those patterns did the world suddenly feel so big again.
 
-feasible. Distance makes it easier to break from old routines. “There’s
+And I thought ‘Oh my God, there’s life beyond work.’”
 
-something critical about…being in a new place where you don’t know
+Disconnection. True sabbaticals require full disconnection from any
 
-the rules and the players anymore,” an attorney told me. “I felt like I was
+work that is a part of — or even resembles — the taker’s prior job.
 
-a diﬀerent person living a diﬀerent life.”
+(I recommend setting your inbox to autorespond to and then delete
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

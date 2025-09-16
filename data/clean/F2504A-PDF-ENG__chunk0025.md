@@ -1,15 +1,51 @@
-## HBR / Magazine Article / How AI Is Redefining Managerial Roles
+---
+source_path: F2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50d9d29d347dcb8a82d419bf4cee948254506059
+title: F2504A-PDF-ENG
+---
+# manager and associate tasks.
 
-be that a middle manager was an expert on the methodology. But now,
+Does this mean associates are doing what managers used to do?
 
-when you bring gen AI into the mix, you can train it to master and explain
+In some ways, yes. My expectations of associates have skyrocketed.
 
-the methodology to anyone. People can read about the methodology, ask
+Because of AI, an associate should be able to show up prepared for a
 
-gen AI about it, and come to a strategy meeting already knowledgeable.
+meeting or a strategic conversation the way a manager or above used to.
 
-This frees middle managers to execute on the methodology by speaking
+Can you offer an example?
 
-directly to clients. They’re spending less time learning and teaching
+Our projects typically start with a discovery process. We go to the client
 
-the methodology, and more time linking the methodology to the client’s
+and ask them questions to try to understand how they work and what
+
+their status is. Associates used to compile the information, review it, and
+
+recommend what to do with it. Today, gen AI helps them do this in three
+
+hours when it used to take five. They’ve gained two hours. My highest
+
+performers use that time to upskill. They offer to do things a middle
+
+manager does. They focus on harder, more advanced stuff. They take on
+
+more work, or they shift their focus to more strategic work. How they decide
+
+to repurpose their time is something I pay close attention to.
+
+Have some middle managers taken on executive-level work?
+
+Absolutely. Here’s one example: So many of my conversations are about
+
+designing a solution to a problem. We’ve got to strategize to design a fix.
+
+Typically, we fix things based on our own standard methodology. Each
+
+problem has a different methodology for fixing it. The expectation used to
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

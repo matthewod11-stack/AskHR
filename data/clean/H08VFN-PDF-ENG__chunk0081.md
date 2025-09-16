@@ -1,19 +1,13 @@
-# display helplessness or shame.
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6ae3c9dca34425e7bf09b9aa1fedeb2d3bf45719
+title: H08VFN-PDF-ENG
+---
+## HBR / Digital Article / Lessons from U.S. Army Special Ops on Becoming a Leader
 
-To ensure that training is student-centered, cadre should remember:
+audience there to monitor the cadre. But as an additional measure, an
 
-although the exercise’s immediate purpose is to challenge students,
+experienced HR professional can be on hand to reject unreasonable
 
-its ultimate purpose is to create leaders. When a student produces
-
-a plan that contradicts what cadre would have done, cadre should
-
-resist the urge to criticize or correct the student. Instead, cadre should
-
-disinterestedly consider whether the plan is feasible. If it is, cadre
-
-should congratulate the student for doing something smart that they
-
-wouldn’t have done. This technique fosters leaders, because leadership
-
-is, at root, acting intelligently—and independently.
+cadre challenges and to interrupt the exercise promptly if students

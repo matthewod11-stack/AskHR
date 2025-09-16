@@ -1,17 +1,23 @@
-## Over a span of several months, large teams of research assistants
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab0c30d4f456aade63648d3521e470fc9515a892
+title: F2404A-PDF-ENG
+---
+## advertising on social media, in newsletters and magazines, and at
 
-collected data on the companies and interviewed the founders regularly
+events. The entrepreneurs running them received training in various
 
-by phone. One of the start-ups they followed was Mimoto, an electric-
+strategic frameworks as well as in evidence-gathering techniques such as qualitative interviews, surveys, and A/B testing. The key diﬀerence
 
-moped sharing service. It set up an experiment to test its hypothesis
+between the control group and the treatment group was that the treatment group was also taught to employ the scientiﬁc method when
 
-that college students hustling between classes would rather ride
+applying the frameworks and techniques. That required founders to
 
-mopeds than walk. After placing dozens of mopeds near an urban
+develop theories about elements of their proposed businesses and then
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+test them through rigorous experiments. The control group’s founders,
 
-2
+on the other hand, were free to apply any frameworks and techniques in
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the way they wanted.

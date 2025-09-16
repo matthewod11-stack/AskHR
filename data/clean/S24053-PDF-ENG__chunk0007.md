@@ -1,15 +1,15 @@
-## small working-capital loans to farm cooperatives in Africa, Latin
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 784e9ca94c192a7cd8197e50c26aa46b1991dd8a
+title: S24053-PDF-ENG
+---
+# Matt Stevens
 
-America, and Southeast Asia. In its successful ﬁrst two decades, the
+What could our senior leadership team achieve if we worked at full
 
-company was run by Foote and a team of passionate, energetic leaders.
+potential? And what’s keeping us from achieving it? Those were the
 
-But as it grew in both size and ambition, its management challenges
+questions the leaders at Root Capital found themselves asking in 2022.
 
-grew as well. In 2018, the ﬁrm added a chief operating oﬃcer to run
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Founded in 1999 by Willy Foote, the nonproﬁt investment ﬁrm provides

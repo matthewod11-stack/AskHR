@@ -1,9 +1,23 @@
-# York: Grove Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b7f976929e0f2d45f85f037114778db56767e179
+title: untitled
+---
+## Journal of Experimental Psychology, 59, 1–9.
 
-Brett, G. S. (1963). Psychology ancient and modern: Our debt to
+Aubrey, J. (1972). Aubrey’s brief lives.
 
-Greece and Rome. New York: Cooper Square.
+(O. L. Dick, Ed.) Harmondsworth, England: Penguin. (Original work published 1813)
 
-Breuer, J., & Freud, S. (1955). Studies on hysteria. In J. Strachey (Ed.), The standard edition of the complete psychological works of Sigmund Freud (Vol. 2, pp. 1–305). London: Hogarth Press. (Original work published 1895)
+Allyon, T. (1963). Intensive treatment of psychotic behavior by stimulus satiation and food reinforcement. Behavior Research and Therapy, 1, 53–61.
 
-Burton, R. (1927). Anatomy of melancholy (6th ed., F. Dell & P. Jordan-Smith, Eds.). New York: Tudor. (Original work published 1651)
+Allyon, T., & Haughton, E. (1962). Control of the behavior of schiz- ophrenic patients by food. Journal of the Experimental Analysis of Behavior, 5, 343–352.
+
+Battie, W. (1758). A treatise on madness. London: Whiston. Beard, G. M. (1880). A practical treatise on nervous exhaustion (neurasthenia): Its causes, symptoms, and sequences. New York: Wood.
+
+Benton, A. L. (1991). Basic approaches to neuropsychological as- sessment. In S. R. Steinhauer, J. H. Gruzelier, & J. Zubin (Eds.), Handbook of schizophrenia (Vol. 5, pp. 505–524). Amsterdam: Elsevier.
+
+Benton, A. L., & Howell, I. L. (1941). The use of psychological tests in the evaluation of intellectual function following head injury. Psychosomatic Medicine, 3, 138–143.
+
+Berkun, M. M. (1957). Factors in the recovery from approach avoid- ance conﬂict. Journal of Experimental Psychology, 54, 65–73. Berne, E. (1961). Transactional analysis in psychotherapy. New

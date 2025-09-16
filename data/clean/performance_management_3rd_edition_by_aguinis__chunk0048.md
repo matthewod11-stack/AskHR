@@ -1,5 +1,7 @@
-# 5.2 Measuring Behaviors 112
-
-5.2.1 Comparative Systems 115 5.2.2 Absolute Systems 118 (cid:2) CASE STUDY 5-1: Accountabilities, Objectives, and Standards (cid:2) CASE STUDY 5-2: Evaluating Objectives and Standards 126 (cid:2) CASE STUDY 5-3: Measuring Competencies at the Department of
-
-126
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e9578ca1e8f66cc4893f22153f040370f6f22b58
+title: performance_management_3rd_edition_by_aguinis
+---
+## 5.1.2 Determining Objectives 109 5.1.3 Determining Performance Standards 111

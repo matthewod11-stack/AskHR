@@ -1,17 +1,43 @@
-## only from business acumen but also from intervention by the Nigerian
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 262fc85d991f0d2a0cffee106411d9e304103fd2
+title: R2405M-PDF-ENG
+---
+## energies toward high-risk opportunities of the past rather than
 
-government to shield his ventures from international competition and
+capitalizing on the growth potential of tomorrow. For instance, although
 
-create a market environment conducive to growth.
+Africa’s resources are so abundant that it shouldn’t need to import food
 
-Considering these factors, I would advise Koﬃ and Yao to persuade
+products, the practice continues because smaller local farms are
 
-Aminata that, should she choose to join them as a leader in Assoua
+struggling to compete against enormous plantations abroad that beneﬁt
 
-Group, she and the company would be better served by her putting
+from economies of scale. To have any hope of success with sugar
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+farming, Assoua Group would need support from the government in the form of price controls and tariﬀs—protective measures that tend to be
 
-12
+politically unpopular because they increase the cost of food.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Similarly, Aminata’s proposal to expand into power production is
+
+fraught with complexity. The proﬁtability of such projects in Africa depends on a consistent and aﬀordable fuel supply—preferably in the
+
+form of natural gas. If the government ﬁxes the retail price of electricity,
+
+Assoua Group won’t be able to absorb any fuel price ﬂuctuations. What’s
+
+more, ﬁnancing could be challenging: Local pension funds typically
+
+avoid such high-risk investments, and overseas investors are likely to
+
+demand extensive safeguards in order to protect their capital.
+
+There is a precedent for Aminata’s playbook: Aliko Dangote, the
+
+founder of Dangote Group, the largest conglomerate in West Africa,
+
+became the continent’s richest person through cement manufacturing,
+
+petroleum reﬁning, and commodity trading. His success stemmed not

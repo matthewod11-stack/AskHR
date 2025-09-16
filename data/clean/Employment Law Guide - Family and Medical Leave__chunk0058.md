@@ -1,5 +1,13 @@
-## Relation to State, Local, and Other Federal Laws
+---
+source_path: Employment Law Guide - Family and Medical Leave.md
+pages: n/a-n/a
+chunk_id: 2e3a383e5950836dfbaaed5c916dcbf37257259a
+title: Employment Law Guide - Family and Medical Leave
+---
+# Reporting
 
-A number of states have family leave statutes. Nothing in the FMLA supersedes a provision of state law that is more beneﬁcial to the employee, and employers must comply with the more beneﬁcial provision. Under some
+There are no reporting requirements under the FMLA.
 
-circumstances, an employee with a disability may have rights under the Americans with Disabilities Act.
+Covered employers are required to post a notice for employees outlining the basic provisions of the FMLA and
+
+are subject to a civil money penalty if they willfully fail to post such a notice.

@@ -1,3 +1,19 @@
-# Harvard Business School Press.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7cb5292ea705947e8a939e4c6dec1510825f7ba7
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Journal of Applied Psychology, 54, 31–41.
 
-Kovach, R., Surrette, M. A., & Whitcomb, A. J. (1988, January). Contextual, student, and instructor factors involved in college student absenteeism. Paper presented at the 10th annual National Institute on the Teaching of Psychology, St. Petersburg, FL.
+Korman, A. K. (1976). Hypothesis of work behavior revisited and an extension. Academy of Management Review, 1, 50–63.
+
+Korte, C., & Grant, R. (1980). Traﬃ c noise, environmental awareness, and pedestrian behavior. Environment & Behavior, 12, 408–420.
+
+Kortick, S. A., & O’Brien, R. M. (1996). Th e world series of
+
+quality control: A case study in the package deliver industry. Journal of Organizational Behavior Management, 16(2), 77–93.
+
+Koslowsky, M., Sagie, A., Krausz, M., & Singer, A. H. (1997). Correlates of employee lateness: Some theoretical considerations. Journal of Applied Psychology, 82(1), 79–88.
+
+Kotter, J. P., & Cohen, D. S. (2002). Th e heart of change. Boston:

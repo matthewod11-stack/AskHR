@@ -1,15 +1,11 @@
-## with varied backgrounds further ampliﬁes the impact of the curiosity
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69fe75dcbf5a2a61c993e6d21aa91a31925c2fcc
+title: H07T10-PDF-ENG
+---
+# Building a Curious Culture
 
-culture by bringing diverse knowledge sets into the problem solving,
+Great leaders build great cultures. Great cultures are built on curiosity.
 
-which can build upon each other. Embedding this critical competency
-
-at the outset, starting with the interview process, will quickly enable
-
-you to build a culture of creative thinkers. Individuals who thrive in the
-
-ﬂip interview are continuous learners. They will seize this opportunity
-
-— as individuals and as a dynamic team — and run with it. They
-
-will demonstrate an innate curiosity and constantly ask “why?” or “so
+Building a team with balanced curiosity is the path to winning. A team

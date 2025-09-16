@@ -1,7 +1,17 @@
-# HBR / Digital Article / Research: Immigrants Played an Outsize Role in America’s Age o…
+---
+source_path: H03LVO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 760f082fda75b7d5537a3d201c3292168c0fa587
+title: H03LVO-PDF-ENG
+---
+## accounting for at least 16% of patents in every technology area. The
 
-To examine the relationship between immigrant inventors and U.S.
+majority of immigrant inventors originated from European countries,
 
-technological development over the long-run, we constructed a measure
+with Germans playing a particularly prominent role.
 
-that we call foreign-born expertise. In eﬀect, this measure captures the
+Copyright © 2017 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

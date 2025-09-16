@@ -1,3 +1,9 @@
-## Professional services 25 per cent; transportation/extraction/construction
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: a945663bd46b2e3003f85191187212cee8cf0f25
+title: original_article
+---
+# independent directors
 
-21 per cent; manufacturing 13 per cent; wholesale/retail 13 per cent; software/ technology 11 per cent; health care/pharmaceuticals 9 per cent; ﬁnancial services/insurance/REIT 8 per cent.
+Industries represented

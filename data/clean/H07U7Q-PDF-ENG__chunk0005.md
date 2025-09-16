@@ -1,9 +1,17 @@
-# and direction.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c8b85c3107c3499c465efd96f0c41c9c282a6f9
+title: H07U7Q-PDF-ENG
+---
+## employees, from the C-suite to the hundreds of local stores.
 
-For this episode of our video series “The New World of Work”, HBR
+Buechel recognized the importance of connecting with the team
 
-editor in chief Adi Ignatius sat down with Buechel to discuss:
+members, addressing their concerns, and assuring them that the
 
-- How authenticity is crucial in leadership and sustainability eﬀorts, as
+company’s culture, quality standards, and core values would remain
 
-companies need to ensure their actions align with their core values
+intact under his leadership. He emphasized the need for authenticity
+
+and being true to oneself while also supporting the company’s vision

@@ -1,13 +1,11 @@
-## observations of changes in work habits, such as a sudden drop in
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d9f5fbeb7cbab9459911b49aee0d89f97a304a1
+title: H087XL-PDF-ENG
+---
+## HBR / Digital Article / Why Employees Who Work Across Silos Get Burned Out
 
-productivity or an increase in absenteeism, can be a sign of burnout.
+and support. First, managers can actively use their one-on-one check-
 
-Additionally, since burnout often manifests in aggressive behavior
-
-toward others, it is important for managers to be vigilant if team
-
-members suddenly act aggressively or abusively. Third, pulse surveys,
-
-which typically collect data on employees’ current state of mind,
-
-workload, and well-being, can be another way to detect symptoms of
+ins to understand the challenges faced by boundary spanners. Second,

@@ -1,15 +1,23 @@
-# New York: McGraw-Hill.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1652a93c89e69afc999121f15fba364404b3991f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## about moonlighters? Public Personnel Management, 21(1), 65–73.
 
-Bahls, J. E. (1998). Drugs in the workplace. HR Magazine, 43(2),
+Babad, E. Y., Inbar, J., & Rosenthal, R. (1982). Pygmalion,
 
-81–87.
+Galatea, and the Golem: Investigations of biased and unbiased teachers. Journal of Educational Psychology, 74, 459–474.
 
-Baldridge, D. C., & Veiga, J. F. (2001). Toward a greater under-
+Babcock, L., & Laschever, S. (2008). Ask for it: How women can use the power of negotiation to get what they really want. New York: Bantam.
 
-standing of the willingness to request an accommodation: Can requesters’ beliefs disable the Americans with Disabilities Act? Academy of Management Review, 26(1), 85–99.
+Babcock, P. (2008). Elder care at work. HR Magazine, 53(9),
 
-Baldwin, T. T., & Ford, J. K. (1988). Transfer of training: A review and directions for future research. Personnel Psychology, 41, 63–105.
+111–118.
 
-Baldwin, T. T., Magjuka, R. J., & Loher, B. T. (1991). Th e perils
+Babcock, P. (2005). Find what workers want. HR Magazine,
 
-of participation: Eﬀ ects of choice of training on trainee motivation and learning. Personnel Psychology, 44, 51–65.
+50(4), 51–56.
+
+Bacal, R. (2004). Th e manager’s guide to performance reviews.

@@ -1,17 +1,9 @@
-## communication, ﬁnancial analysis, negotiation, and customer service
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 733ab02c47ff80f325daae9ad87a98b4a83eef5f
+title: H082JA-PDF-ENG
+---
+## HBR / Digital Article / The Challenges of Becoming a Less Hierarchical Company
 
-that employees were incentivized to complete.
-
-More generally, organizations may oﬀer a mix of workshops, mentorship
-
-initiatives, and hands-on projects, aimed to equip employees with the
-
-tools they need to thrive in a less structured setting.
-
-Setting the right pace.
-
-As companies adopt ﬂatter structures, an excessive emphasis on
-
-collective agreement can slow down decision-making processes,
-
-diverting employees from their main duties and negatively impacting
+followed these up with training modules related to topics such as

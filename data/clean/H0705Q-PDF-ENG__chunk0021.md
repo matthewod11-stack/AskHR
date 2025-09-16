@@ -1,7 +1,13 @@
-# contribute?
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee82e1c775aaed07b3b105427c39d51679163efb
+title: H0705Q-PDF-ENG
+---
+# diﬀerent?
 
-Biases to look out for: conﬁrmation bias (looking for, favoring, or
+- What are the expectations you have about the kind of information you
 
-interpreting information in a way that conﬁrms your existing beliefs);
+will be able to gather?
 
-attentional bias (focusing more on some pieces of data than others).
+- What information do you expect the other decision stakeholders will

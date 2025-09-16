@@ -1,17 +1,19 @@
-## referential language than CFOs and female managers.
+---
+source_path: H052Q1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2a732126ef832c464ce880ee75a135d949c1f19
+title: H052Q1-PDF-ENG
+---
+# HBR / Digital Article / Research: Executives’ English Skills Affect the Outcomes of Earn…
 
-As different as they are, both of the studies we’ve discussed in this article
+nuances in cultural tone and adjust their response to the calls accordingly.
 
-make the same point: Earnings calls matter, and for different reasons than
+Having an investor base that understands your ﬁrm beyond mere
 
-most people assume. The news being reported in the calls is obviously
+performance numbers is important.
 
-important — but so is the manner in which the calls are conducted,
+Interestingly, we discovered similar differences between CEOs and CFOs
 
-especially during the Q&A period. Because the English language and
+and between men and women. When we set ethnicity aside, we found that
 
-Anglo-Saxon cultural behaviors are now the norm in the global world of
-
-business, executives conducting these calls need make sure that they
-
-communicate their news clearly, optimistically, and self-referentially.
+CEOs and male managers used relatively more optimistic and self-

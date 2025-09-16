@@ -1,23 +1,23 @@
-## a maximum budget for a speciﬁc business activity or functional
+---
+source_path: H08C8U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89584748940b0362f3a7a32e094159761943e16f
+title: H08C8U-PDF-ENG
+---
+# corporate accounts.
 
-area in future years. This allows the company’s existing performance-
+Establishing absolute, minimum performance requirements allows
 
-monitoring process and leadership forums to drive the transformation,
+leadership to determine whether the transformation is delivering results
 
-rather than relying on a “shadow process” to track results.
+(or not). Absolute targets minimize squabbles over the baseline and
 
-To ensure this approach works, management must have (or develop)
+keep managers focused on actions to transform the company.
 
-a robust, multi-year budget or operating plan tied to demand and
+- 3. Use the company’s budget or operating plan to monitor success
 
-cost drivers. For some companies, this represents a signiﬁcant upgrade
+Successful transformation eﬀorts embed performance targets in the
 
-to their existing process, which may lack the granularity needed to
+company’s budget or operating plan. Instead of specifying targets
 
-track spending and revenue generation at the level required to drive
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as savings relative to some baseline, targets are stated in terms of

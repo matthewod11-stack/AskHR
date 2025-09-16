@@ -1,9 +1,9 @@
-# MP
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c3910f252ffdbdf72f484a885f20996e16fe4df
+title: H0561N-PDF-ENG
+---
+## HBR / The Big Idea / The Gender Gap in 6 Charts
 
-Matt Perry is a former senior information designer at Harvard Business Review.
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Gretchen Gavett is a senior editor at Harvard Business Review.

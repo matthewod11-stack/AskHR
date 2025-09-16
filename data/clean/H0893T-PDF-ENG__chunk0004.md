@@ -1,11 +1,11 @@
-## This mismatch between corporate commitment to diversity and
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db41835dd8f992f8df86cc12248ecbb9ddb4721b
+title: H0893T-PDF-ENG
+---
+# HBR / Digital Article / Research: The Most Common DEI Practices Actually Undermine…
 
-tangible outcomes raises critical questions about the eﬃcacy of
+of managerial roles despite comprising 14% of all employees. Women
 
-management practices for achieving diverse representation. Our research, published in Business Horizons, examines the degree to
-
-which speciﬁc management practices are associated with increased
-
-(or decreased) diverse managerial representation and how often
-
-organizations implement each practice.
+have diﬃculty attaining leadership roles despite evidence that “women are more likely than men to lead in a style that is eﬀective.”

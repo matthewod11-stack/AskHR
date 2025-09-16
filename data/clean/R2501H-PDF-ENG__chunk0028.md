@@ -1,21 +1,15 @@
-## than their connection to the organization.
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af91b74b78606fc8489191e17964d40ce2ec95a2
+title: R2501H-PDF-ENG
+---
+# coordination.
 
-Like challengers, connectors usually incorporate personalized learning
+Like custodians, connectors favor initiatives that are anchored in a
 
-opportunities into their courses and workshops. They encourage
+strategic imperative for the company. However, they pay particular
 
-employees to see tackling a corporate challenge as a vehicle for their
+attention to those that require the collaboration of diﬀerent groups,
 
-own personal and professional growth. Yet connectors place a unique
-
-emphasis on using learning experiences to bring people together,
-
-speciﬁcally to allow them to learn about and from one another—
-
-and they see such exchanges as potentially more valuable than the
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+because they prioritize building employees’ mutual connections rather

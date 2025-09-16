@@ -1,7 +1,25 @@
-# employees and job seekers.
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65987f66b3a9abd8d10fe06cca2deef18102b6a3
+title: H08AWG-PDF-ENG
+---
+# HBR / Digital Article / Research: People Still Want to Work. They Just Want Control Ov…
 
-Although many of these dynamics have been in the headlines since
+bosses, on the other hand, have been pulling them in the opposite
 
-2020, they are not actually new. According to data from the Bureau
+direction; executives and managers have been ﬁghting to get workers
 
-of Labor Statistics, resignations have been steadily increasing for more
+back into the oﬃces that companies are paying a lot of money to lease. This struggle has aﬀected workers and companies alike. Workers quit en
+
+masse during a period that became known as “the Great Resignation,”
+
+and employers who instituted return-to-oﬃce mandates have struggled
+
+to hire and retain top talent. Now, especially with Gen Z making up
+
+an increasing share of the working population and the conversations
+
+around hybrid work and returning to the oﬃce stagnating, demands for
+
+increased ﬂexibility in work arrangements are still top of mind for many

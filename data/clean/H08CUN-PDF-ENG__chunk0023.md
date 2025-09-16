@@ -1,17 +1,29 @@
-# Shake things up
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 75fec472ee91b5d9e47a7c8810b1f48b6f49b717
+title: H08CUN-PDF-ENG
+---
+# Advocate for your team
 
-Resentment often tends to surface as quibbling and criticism during
+On the other hand, your team might harbor resentment toward the
 
-meetings or routine communication, notes Carucci. “People can come
+organization — leadership decisions that seem nonsensical or reward
 
-across as annoyed, impatient, and distracted.” To counteract this, Klotz
+systems that are misaligned. When systemic issues fester as resentment,
 
-recommends introducing changes to your daily or weekly meetings.
+it can undermine your team’s motivation and productivity, notes
 
-Replace the typical conference table setting with a walking meeting, or
+Carucci. That’s why it’s vital to communicate your team’s concerns
 
-experiment with rotating meeting leaders instead of always being the
+to your bosses, stressing the impact on morale and advocating for
 
-Zoom moderator yourself. “Disrupt the communication patterns and get
+necessary changes. Demonstrating to your team that you support them
 
-a reset,” he says. Shaking up your team’s routines creates an opportunity
+and have their back fosters trust. At the very least, he says, you can act
+
+as a buﬀer, shielding them from the dysfunctions of the organization.
+
+“Create a quarantine from the systemic issues and policies that are
+
+plaguing your team,” he says. “Be their ﬁrst line of defense.”

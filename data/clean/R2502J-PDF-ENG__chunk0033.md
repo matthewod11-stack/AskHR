@@ -1,27 +1,13 @@
-## Home. According to the Federal Trade Commission, in 2021 some 130
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb3e5381ac6afa16a733413f49e73e21c42c35bb
+title: R2502J-PDF-ENG
+---
+## HBR / Magazine Article / How Salespeople Game the System
 
-of the company’s commissioned sales reps regularly engaged in identity
+the behavior not indicative of a serious ethical problem. In other cases,
 
-theft to approve customers for loans. If a customer didn’t qualify for
+the impact can be severe.
 
-a loan, the reps would illegally use the credit record of an unrelated
-
-person with the same name. Falsifying data in this way—often called
-
-“white paging”—is a violation of several laws. The company admitted
-
-wrongdoing and agreed to pay a $15 million civil ﬁne and a $5 million
-
-ﬁne to aﬀected customers.
-
-Given that a sizable number of sales reps had regularly engaged in
-
-the behavior, and given the signiﬁcant reputational damage and legal
-
-ﬁnes incurred, we would place that gaming activity in the top-right
-
-“widespread disruptive” quadrant. Companies that ﬁnd themselves
-
-in that quadrant should immediately alert leaders from sales, legal,
-
-and compliance functions and risk management. They should develop
+Consider the situation faced by security systems provider Vivint Smart

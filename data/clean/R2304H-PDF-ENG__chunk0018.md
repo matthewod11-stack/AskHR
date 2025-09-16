@@ -1,13 +1,19 @@
-## guards at many customers across Latin America.
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cb96f85c861af49d717f5729350b5ee3805728e
+title: R2304H-PDF-ENG
+---
+## HBR / Magazine Article / Disability as a Source of Competitive Advantage
 
-HBR commissioned the team from La Casa de Carlota, Barcelona, to create the illustrations for this article. The group’s work process begins with chaotic brainstorming among creatives with intellectual disabilities, design professionals, illustrators, and design school students. Little by little illustrations emerge that blend artfully with one another.
+at Gran Estación explained to us, guards in wheelchairs are signiﬁcantly
 
-Examples abound of companies around the globe seeking out people
+better at spotting these crimes because they have better visibility at
 
-with disabilities for speciﬁc tasks. In Spain, for instance, the design
+pocket height. What’s more, when they need to rush to a scene or chase
 
-studio La Casa de Carlota puts people with intellectual disabilities, such
+a perpetrator, they can move faster than people on foot, and many have
 
-as Down syndrome, and with autism on all its project teams because, as
+superior upper body strength, which helps them restrain thieves. Since
 
-its creative director says, “these guys create details that are completely
+2007, Securitas has been introducing the concept of wheelchair security

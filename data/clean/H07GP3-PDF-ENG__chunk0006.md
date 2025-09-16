@@ -1,17 +1,7 @@
-# Anton Vierietin/Getty Images
-
-Ultimately, venture capital at the early stages is a people thing, I’m
-
-betting on you. People are just more comfortable betting on somebody
-
-that is more like them, looks like them, talks like them, went to the
-
-same schools, eats the same food, goes to the same restaurant, drinks
-
-the same wine, goes to the same country club, all these little things.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07GP3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05b6cd42230ef5978cad0bf927e6541df697373f
+title: H07GP3-PDF-ENG
+---
+## Published on HBR.org / February 01, 2023 / Reprint H07GP3

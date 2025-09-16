@@ -1,13 +1,27 @@
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93298e22a814e58d0f6da37d5760c6143bfc727b
+title: H07TV8-PDF-ENG
+---
 # HBR / Digital Article / Businesses Need to Bring Younger Employees into Their Leaders…
 
-See more HBR charts in Data & Visuals on HBR.org.
+These factors are reﬂected in ﬁrm-level outcomes: Corporate vitality —
 
-Of course, these tendencies are not a simple function of age or tenure
+a measure of a ﬁrm’s long-term growth potential, which depends on its
 
-and don’t apply to every individual. Nevertheless, we believe that there
+capacity to explore new options and renew its strategy — is negatively
+
+correlated with CEO age (after controlling for ﬁrm age and size, see
+
+below). Moreover, studies show that age-diverse leadership teams are
+
+better positioned to drive the adoption of sustainable business models
+
+and associated with better corporate social responsibility outcomes.
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

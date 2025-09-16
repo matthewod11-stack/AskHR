@@ -1,3 +1,7 @@
-# http://www.weforum.org/en/Communities/Women%20Leaders%20and%20Gender %20Parity/GenderGapNetwork/CorporateGenderGap/index.htm [Accessed 12 February 2011]
-
-Crosby, F., 1982. Relative Deprivation and Working Women. Oxford: Oxford University
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 21ea475af2ee6259f8aa662de62fd7d5df431b7b
+title: file_1
+---
+# Corporate Gender Gap Report, 2010.

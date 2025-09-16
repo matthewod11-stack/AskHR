@@ -1,11 +1,23 @@
-# organization.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: ec0edd65dbcc9e54c913873a54e4d5a4d623f648
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# talent
 
-Our definition is premised on the idea that the starting point for any talent
+management as a decision science and traditional HR plans and strategies. Therefore, as
 
-management system should be the systematic identification of the key positions which
+noted above, we view an organizational talent management strategy as activities and
 
-differentially contribute to an organisation’s sustainable competitive advantage. This is
+processes that involve the systematic identification of key positions which differentially
 
-consistent with an increasing recognition that there should be a greater degree of
+contribute to the organization’s sustainable competitive advantage, the development of a
 
-differentiation of roles within organisations, with a greater focus on strategic over non-
+6
+
+talent pool of high potential and high performing incumbents to fill these roles, and the
+
+development of a differentiated human resource architecture to facilitate filling these
+
+positions with competent incumbents and to ensure their continued commitment to the

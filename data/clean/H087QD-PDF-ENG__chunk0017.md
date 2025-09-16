@@ -1,13 +1,39 @@
-## domains: Focus, Flexibility, Impact, Development, and Connection.
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d3797bfaeba648879f8218bc23b46797678a5db
+title: H087QD-PDF-ENG
+---
+## the unique preferences and challenges of team members and the needs
 
-Next, each team reviews norms or habits that they could adopt in each
+of their clients. Team-led models feel autonomous and intrinsically
 
-domain, with the option to brainstorm their own. They ask, “Is this a
+motivating, as opposed to company-mandated return-to-oﬃce policies
 
-good ﬁt for our team?” and “What are the obstacles that stand in the way
+that feel controlling and one-size-ﬁts-all.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+We also knew that it wasn’t as easy as telling team leaders to “go have
 
-4
+a conversation with your team” in the hopes that they would ﬁgure it
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+out. These kinds of conversations can be diﬃcult without a roadmap.
+
+Leaders may make assumptions about what their teams want or what
+
+good solutions look like, and team members — particularly those earlier
+
+in their careers or those belonging to underrepresented groups or
+
+cultures — may feel reluctant to speak up about what’s working and
+
+what isn’t.
+
+To ensure that conversations covered the necessary ground and felt as
+
+comfortable and equitable as possible, we created the Ways of Working
+
+Team Accelerator. It provides a framework for a 60- to 90-minute team
+
+discussion, beginning with a short video highlighting the importance
+
+of well-being and examples of healthier ways of working in ﬁve critical

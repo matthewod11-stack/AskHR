@@ -1,5 +1,15 @@
-# London: Routledge/Thoemmes Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4f6a3c1d77fe7fdbce4deadd165749caf045c47e
+title: untitled
+---
+## ity. New Haven, CT: Yale University Press.
 
-Yarrow, L. J. (1961). Maternal deprivation: Toward an empirical and conceptual re-evaluation. Psychological Bulletin, 58, 459–490. Yarrow, M. R., Campbell, J. D., & Burton, R. V. (1964). Reliability of maternal retrospection: A preliminary report. Family Process, 1, 207–218.
+Wozniak, R. H. (Ed.). (1993a). Experimental and comparative roots of early behaviourism: Studies of animal and infant behaviour. London: Routledge/Thoemmes Press.
 
-221
+Wozniak, R. H. (Ed.). (1993b). Theoretical roots of early behav- iourism: Functionalism, the critique of introspection, and the nature and evolution of consciousness. London: Routledge/ Thoemmes Press.
+
+Wozniak, R. H. (Ed.). (1994). Reﬂex, habit and implicit response: The early elaboration of theoretical and methodological behav- iourism. London: Routledge/Thoemmes Press.
+
+Wozniak, R. H. (Ed.). (1995). Mind, adaptation and childhood.

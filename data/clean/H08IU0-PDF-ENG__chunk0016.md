@@ -1,9 +1,9 @@
-## honest acknowledgement of your own limitations.
+---
+source_path: H08IU0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 863aeaa35c61c44b86b82e32077021c2512e7ddd
+title: H08IU0-PDF-ENG
+---
+## HBR / Digital Article / Are You the Cause of Your Team’s Change Fatigue?
 
-Surface people’s honest feelings about the change, including your own
-
-After more than three decades of consulting for organizations on
-
-strategic change, I’ve seen my fair share of ill-conceived change eﬀorts.
-
-And in my experience, there are always people at the periphery of
+further, look deep within yourself to be sure you aren’t averting a self-

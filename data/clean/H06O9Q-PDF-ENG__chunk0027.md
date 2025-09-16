@@ -1,11 +1,25 @@
-## outside on the wrong side of a one-way door.
+---
+source_path: H06O9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fea6d8ee144bf8628ee63de1708ba67cda47b885
+title: H06O9Q-PDF-ENG
+---
+# process.
 
-Author’s note: I would like to thank my wife, Melissa, who was instrumental in both recognizing and thinking through this critical challenge, all while we walked through the forest.
+- • •
 
-- Real names have been changed.
+The past two years have had a profound impact on everyone and have
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+sparked some signiﬁcant realizations and reprioritizations for many.
 
-7
+These are important, valid, and should not be discarded — there’s
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+no question that the Great Resignation is a very real phenomenon.
+
+However, we’re also all human, operating under the inﬂuence of a lot
+
+of factors that aﬀect our ability to make decisions. Recognizing and
+
+consciously addressing these biases when making critical life decisions
+
+are important steps toward making sure we don’t ﬁnd ourselves locked

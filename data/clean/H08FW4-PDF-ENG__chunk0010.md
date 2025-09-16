@@ -1,25 +1,37 @@
-## HBR / Digital Article / What the Best Leadership Teams Do Right
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bc6cca722e4999d625373186d2d1c504909cac5e
+title: H08FW4-PDF-ENG
+---
+# a zero-sum game.
 
-eﬀort, executive teams willing to put in the work can learn to play all
+Given the unique responsibilities of executive teams, it would seem
 
-three of these roles — setting themselves apart from the many willing to
+obvious that they require a specialized set of skills and approaches to be
 
-settle for much less.
+eﬀective. And yet few have cracked the code on building and sustaining
 
-- 1. They set competitive direction and secure resources.
+such eﬀectiveness. Their distinctive forms of dysfunction have been
 
-Like air traﬃc controllers guiding hundreds of aircraft into and out of
+commonly chronicled — for example, they often avoid conﬂict and have
 
-a busy airport, the executive team’s role in steering the organization
+unhealthy rivalry, bloated membership, and unfocused agendas.
 
-toward a deﬁned future, mobilizing the needed resources to get
+In our experience working with hundreds of executive teams over the
 
-there, and narrowing focus to stay on course is fraught with risk.
+last two decades, we’ve discovered three critical, highly interdependent
 
-It takes discipline to say no to even good opportunities to protect
+roles they must play to have lasting impact on the company’s
 
-the investment returns of scarce talent and capital. And it takes
+performance, culture, and ability to adapt. We’ve observed that
 
-ruthless self-honesty to articulate a competitive positioning that keeps
+executive teams often perform one or two of these reasonably well but
 
-the organization grounded in reality, focused on sustaining real
+fall short in integrating all three. The good news is that, with persistent
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

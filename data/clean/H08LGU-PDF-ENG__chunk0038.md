@@ -1,13 +1,13 @@
-## attempts at celebration or education rarely change language or
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dd28a3f014ecefa505b62134b0f5a5db65fa400
+title: H08LGU-PDF-ENG
+---
+## HBR / Digital Article / What Comes After DEI
 
-behavior ingrained within the status quo. An immigrant experiencing
+Inclusion is ultimately a matter of workplace norms and culture.
 
-xenophobic threats at work is most supported by a standard protocol
+Workplaces often address inclusion through event programming (think
 
-that meets their safety needs and addresses threatening behavior
-
-at the source — not by asking them to participate in a “cultural
-
-diversity celebration.” An introverted person who is often spoken over
-
-in meetings is most directly supported by meeting agendas sent before
+“lunch and learns” or cultural heritage celebrations), but these shallow

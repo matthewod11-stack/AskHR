@@ -1,17 +1,25 @@
-## miss similar considerations in legal, ﬁnancial, and engineering realms.
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9945d4fe8d80f636e059ccceca93423b711f200e
+title: H08TQF-PDF-ENG
+---
+# treatment or coverage decision.
 
-The breakthrough idea, for us, came in the form of a question: “Why
+This mirrors challenges across multiple professional domains: Legal
 
-would we try to make the AI think like a computer when it needs
+teams must map case facts to relevant precedents, ﬁnancial advisors
 
-to think like a doctor?” Put another way, we observed that eﬀective
+must align client circumstances with regulatory requirements, and
 
-professional AI requires understanding not just what information to
+engineers must connect design speciﬁcations to safety standards.
 
-retrieve but also how that information operates within a speciﬁc clinical
+To solve a prior authorization problem, a generalist AI model would
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+seek to ﬁnd statistical patterns between symptoms and approval
 
-4
+decisions, but this pattern-matching approach misses the underlying
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+clinical and policy logic that drives these decisions—especially with
+
+more complex cases like the one mentioned above—just as it would

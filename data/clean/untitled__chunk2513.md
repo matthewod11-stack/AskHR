@@ -1,11 +1,9 @@
-## autobiography. San Francisco: Jossey-Bass.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 576e29ae417a3cc1634343fb22e52ab9a38ce225
+title: untitled
+---
+# Press.
 
-Sarason, S. B. (1995). School change: The personal development of
-
-a point of view. New York: Teachers’College Press.
-
-Sarason,S.B.,Levine,M.,Goldenberg,I.,Cherlin,D.L.,&Bennett, E. M. (1966). Psychology in community settings: Clinical, edu- cational, vocational, social aspects. New York: Wiley.
-
-Schmuck, R., Chesler, M., & Lippitt, R. (1966). Problem solving to improve classroom learning. Chicago: Science Research Associates.
-
-Schrecker, E. (1998). Many are the crimes: McCarthyism in
+Sarason, S. B. (1988). The making of an American psychologist: An

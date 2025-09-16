@@ -1,13 +1,15 @@
-# 344 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 48424712c68a5e2b05758ffeecaa04accd0baa0b
+title: barrickryan_eds_personality_and_work
+---
+# chological Assessment Resources.
 
-and research in organizations: Contextual, temporal, and emergent processes. In K. J. Klein & S.W.J. Kozlowski (Eds.), Multilevel theory, research, and methods in organizations: foundations, extensions, and new directions (pp. 3–90). San Francisco: Jossey-Bass.
+Hough, L. M. (1992). The “Big Five” personality variables–construct con- fusion: Description versus prediction. Human Performance, 5, 139–155.
 
-Mount, M. K., & Barrick, M. R. (1995). The Big Five personality dimen- sions: Implications for research and practice in human resource management. Research in Personnel and Human Resources Management, 13, 153–200.
+Hough, L. M., Eaton, N. K., Dunnette, M. D., Kamp, J. D., & McCloy, R. A. (1990). Criterion-related validities of personality constructs and the effect of response distortion on those validities. Journal of Applied Psychology, 75, 581–595.
 
-Ones D. S., Viswesvaran C., & Schmidt F. L. (1993). Comprehensive meta- analysis of integrity test validities—ﬁndings and implications for personnel-selection and theories of job-performance. Journal of Ap- plied Psychology, 78, 679–703.
+Judge, T. A., Heller, D., & Mount, M. K. (2001). Five-Factor Model of per- sonality and job satisfaction: A meta-analysis. Journal of Applied Psy- chology, 87, 530–541.
 
-Scullen, S. E., Mount, M. K., & Goff, M. (2000). Understanding the latent structure of job performance. Journal of Applied Psychology, 85, 956–970.
-
-Simon, H. A. (1973). The organization of complex systems. In H. H. Pat-
-
-tee (Ed.), Hierarchy theory (pp. 1–27). New York: Braziller.
+Kozlowski, S.W.J., & Klein, K. J. (2000). A multilevel approach to theory

@@ -1,11 +1,7 @@
-# Employee satisfaction
-
-is key
-
-to employee engagement. Engaged employees perform
-
-exceptionally well in their job. The study highlighted the most influencing factors of employee
-
-satisfaction in the organisation. A design for an employee engagement has been proposed to the
-
-management to enhance employee commitment.
+---
+source_path: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1.md
+pages: n/a-n/a
+chunk_id: fb23865db0edcf706a19404509d113d67dfcdef8
+title: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1
+---
+# Conclusion

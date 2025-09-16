@@ -1,17 +1,23 @@
-## HBR / Digital Article / Fighting Loneliness on Remote Teams
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8964a3e957af04fff8bd1c9d2c02f180fd327965
+title: H082MI-PDF-ENG
+---
+# with people directly.
 
-- 2. Make recognition meaningful
+- 2. How long have they worked remotely? They may have learned
 
-It was over a decade ago, but I still vividly remember a manager who did
+examples of what does and doesn’t work well for them as a remote
 
-a great job celebrating personal and professional wins. He would rally
+worker. By sharing these examples, the team can build a greater sense
 
-the team on occasion and we’d walk over to a quaint confectionery.
+of shared support.
 
-In remote environments, where there’s physical distance and employees
+- 3. Have they worked at more than three remote companies? Being able to compare what it’s like to work at diﬀerent remote companies may oﬀer good/better/best insights for strategic planning and assist you in your community-building eﬀorts.
 
-may be spread across the country or globe, there aren’t as many
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-opportunities to engage in in-person celebrations like dinner or
+4
 
-afternoon treats. Employee recognition programs — including thank-
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

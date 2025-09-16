@@ -1,35 +1,21 @@
-# LMX
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: a72f0a40613eb535e5ef55f72ab22ad27c8207ef
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Cognitive Trust
 
-- .54**
+- .41**
 
-.11**
+- .07**
 
-- .06**
+.03**
 
-- .08
+.01
 
-- .04
+.04
 
 - .08**
 
 - .24**
-
-Note. Standardized coefficients are presented. a=first stage mediation effect; b=second stage mediation effect; ab=indirect effect; c’=direct effect; c=overall effect * p<.05. ** p<.01.
-
-TL = Transformational Leadership; SL = Servant Leadership; AL = Authentic Leadership; EL = Ethical Leadership; EMP = Empowering Leadership; AS = Abusive Supervision;
-
-- 45%
-
-25%
-
-46%
-
-- 15%
-
-69%
-
-81%
-
-- 17%
-
-37%

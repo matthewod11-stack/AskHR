@@ -1,17 +1,11 @@
-# decisiveness…
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6341d0dd905ceb0a3b42ec0203f02de590c5d37
+title: H08B1C-PDF-ENG
+---
+# others.
 
-Try: Listening to the team’s input and self-imposing a deadline to make
+Instead of: Continuously seeking more opinions and delaying
 
-a decision. For example, announce, “I will consider all your feedback
-
-and make a ﬁnal decision by Friday at noon.” Then, clearly decide
-
-the implementation strategy and explain your thought process: “After
-
-evaluating all the options and considering your valuable feedback, we
-
-will proceed with Strategy A because it aligns best with our goals
-
-and resources. Here’s how we will implement it…” This approach
-
-demonstrates your decisiveness and conﬁdence, instilling trust and
+decisions, causing the team to feel uncertain and question your

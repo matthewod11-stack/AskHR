@@ -1,27 +1,35 @@
-## HBR / Magazine Article / How to Identify the Perfect Cofounder
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5bf9c3b25f7656463b8759e6dc34f6a6c1fc3692
+title: R2504K-PDF-ENG
+---
+## without a partner with particular domain expertise, the venture will
 
-For those considering a cofounder who is your spouse, a family member,
+not be able to progress. Sometimes investors will require an unequal
 
-or a close friend, be aware that launching a business together will
+split—say, 49% and 51%—to avoid future stalemates at critical decision
 
-catapult your relationship to a whole new level—fast. This can be
+points. An online equity calculator can help you come up with some
 
-an incredibly rewarding experience, but it can also test a personal
+numbers, but consider your particular relationship carefully before
 
-relationship to the max. While you are likely to trust each other more
+following what a calculator or your investors tell you to do.
 
-than strangers, you may have baggage that creates a lot of emotion
+Meet each other’s partners, families, and friends. Not only does
 
-and triggers around certain issues. I’ve seen cofounding teams made
+this reveal the broader context of each individual’s character, but it
 
-up of spouses, relatives, or friends be very successful, but I’ve also
+also helps the important people in your life understand this new
 
-seen teams erode irreparably because of events rooted in their personal history. It’s very diﬃcult to separate personal issues from your business,
+relationship and thus avoid resentment. So when you are up until 2 AM
 
-so don’t make this choice lightly. Consider getting a coach early on
+messaging your cofounder about a pitch or how to deal with a customer
 
-who specializes in working with cofounders with a preexisting personal
+issue, your spouse or partner is likely to be more understanding.
 
-relationship. Personal tensions will arise, and having support to work
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-through them will be crucial to your long-term success.
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

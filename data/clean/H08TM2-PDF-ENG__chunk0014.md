@@ -1,11 +1,7 @@
-# need to.
-
-- Use the power of “and.” The word “and” allows us to align two
-
-seemingly separate thoughts: Things are diﬃcult, and things will be
-
-okay. For example, your recovery story may be “Our business results
-
-have been dropping over the last year and we now have an excellent
-
-plan to turn things around. I’m looking forward to celebrating with you
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1815ce7a03e1f09a9c9c8c770d65bf1834600d6c
+title: H08TM2-PDF-ENG
+---
+## vent to external conﬁdants, mentors, or an executive coach when you

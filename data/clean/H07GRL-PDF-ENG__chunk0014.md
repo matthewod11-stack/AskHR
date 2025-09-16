@@ -1,13 +1,35 @@
-## development through infancy and early childhood.
+---
+source_path: H07GRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbe09bf5c95884dbb7c3895439adfe9faaa1b729
+title: H07GRL-PDF-ENG
+---
+# lives.
 
-For example, one father in the study — Tyson — worked for a shipping
+Speciﬁcally, the data showed that parents who experienced more
 
-company that mandated he use a monitor that let his boss track his
+autonomy on the job and who had more-supportive supervisors and
 
-every move as he delivered packages. Tyson felt a complete lack of
+coworkers were in turn warmer and more engaged when interacting
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+with their infants. And this has major, long-term implications for those
 
-2
+infants’ development, as a vast body of research has shown that warm
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and responsive parenting in a child’s ﬁrst year of life boosts their level
+
+of attachment with their parents as well as their emotional regulation,
+
+social skills, and academic achievement. Indeed, when we checked back
+
+in with these families years later, we consistently saw that the children
+
+of employees who had had more-positive work experiences in their ﬁrst
+
+years as parents had better reading and math skills, better social skills,
+
+and fewer behavioral problems in the ﬁrst grade. Importantly, all of
+
+these results held for both mothers and fathers: Any parent’s experience
+
+in the workplace had a direct and measurable impact on their kids’

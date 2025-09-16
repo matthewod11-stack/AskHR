@@ -1,11 +1,27 @@
-## HBR / Digital Article / How to Prevent Strategy Fatigue
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b19e0e1706c73f7b2d78ef1fc704858e03759205
+title: H08OIO-PDF-ENG
+---
+# HBR Staff/DNY59/Getty Images
 
-strategy shifts. A survey of 1,284 executives revealed that 85 percent of
+Cecily, the ﬁnancial controller of a startup tech ﬁrm, describes what
 
-senior leaders have observed “an explosive increase” in transformation
+typically happens when her CEO returns from a conference. “She always
 
-projects over the past ﬁve years. Gartner reports that the typical
+comes back with a ‘great’ idea. And for a while we all put our shoulders
 
-organization has undertaken ﬁve major ﬁrmwide redirections in the
+to the wheel trying to implement it. But usually, her attention moves on
 
-past three years with nearly 75 percent of respondents expecting an
+to some other shiny new thing, and it ﬁzzles out.”
+
+Cecily is suﬀering from strategy fatigue—a phenomenon that’s on
+
+the rise. Recent studies show a notable increase in the frequency of
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

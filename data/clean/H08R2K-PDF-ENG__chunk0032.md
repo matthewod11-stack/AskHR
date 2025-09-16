@@ -1,21 +1,19 @@
-## HBR / Digital Article / Employee Stress Is a Business Risk—Not an HR Problem
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 603090881f47c08ae2f3160d2689ac522aad6280
+title: H08R2K-PDF-ENG
+---
+## these stress zones correlate with operational data that they already
 
-customer feedback compared to less stressed departments or teams.
+track, including revenue, compliance failures, and client satisfaction.
 
-The goal is to identify whether elevated stress is concentrated in areas
+This involves comparing patterns to see whether particular departments
 
-tied to critical business outcomes, and whether this elevated stress is
+experience higher stress and also have more errors or declining
 
-associated with increased risk or reduced performance.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Finally, to act on these insights, companies can pinpoint the underlying
+5
 
-factors that predict stress. These factors can be assessed by asking
-
-employees questions such as: “To what extent do your workload
-
-and deadlines feel manageable?” or “Do you feel psychologically safe
-
-raising concerns or asking for help?” These additional insights can help
-
-organizations design targeted, structural interventions that address the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

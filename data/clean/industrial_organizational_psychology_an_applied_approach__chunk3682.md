@@ -1,7 +1,11 @@
-## Stress Reduction Interventions Related to Life/Work Issues
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 79a919511e4fa7b8018552dabf386952322a4450
+title: industrial_organizational_psychology_an_applied_approach
+---
+# workbook.
 
-As shown in Table ., due to the combination of an increasing number of dual- income and single-parent families, a tight job market, and a trend toward longer workdays, many organizations have made efforts to ensure that their employees maintain a balance between work and private life. Such efforts are important, as research suggests that employees with work–family conflicts are several times more likely to suffer from mood, anxiety, and substance-abuse disorders than are employ- ees without such conflicts (Frone, ). Though organizational efforts to reduce private life–work conflicts are designed to help employees reduce their stress levels and thus increase their mental and physical health, they are also motivated by the fact that employees with such outside concerns as child and elder care are more prone to miss work and are less productive than employees without such concerns.
+Coping Skills Improving your coping skills often means learning how to deal with conflict. It also means learning how to accept what you can’t change. I often tell workers who participate in stress management classes that they can’t change the fact that their organizations are downsizing or that restructuring is the trend for today’s companies. Spending energy and time worrying about it or being angry is a waste of time. The best solution for them is to find areas that they can control to meet organizational change. This includes returning to college or taking technical training to make themselves marketable should they be laid off.
 
-580
-
-chapter 
+This is good advice for you as a college student as well. Worrying about whether you will graduate with a . GPA is both emotionally and physically stressful. Though setting a goal of high achievement is admirable, worrying about it for the entire four years you are in college is unproductive. Check out the Career Workshop box for a summary of relaxation strategies.

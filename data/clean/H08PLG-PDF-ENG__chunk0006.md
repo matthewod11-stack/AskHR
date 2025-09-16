@@ -1,21 +1,13 @@
-## socioeconomic opportunities and outcomes within narrow societal
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1816a34d008d653a81291e86a96247331ba579a8
+title: H08PLG-PDF-ENG
+---
+# despite improvements in its performance.
 
-segments while depriving others.
+A major source of the unease with AI is a systemic phenomenon
 
-Unfortunately, artiﬁcial inequality is complex and can be hard to ﬁx.
+I call “artiﬁcial inequality,” in which the advance of AI makes
 
-In my research on the impact of AI across a range of societal issues—
-
-jobs that are vulnerable to disruption, AI’s climate impact, and regions
-
-that might beneﬁt most from AI development—I have found six distinct
-
-“divides” that contribute to artiﬁcial inequality: data, income, usage,
-
-geography, industry, and energy. These divides often reinforce each
-
-other. For example, someone who is more likely to be harmed by biases
-
-in data may also be less likely to beneﬁt from AI productivity tools and
-
-disproportionately aﬀected by higher energy costs.
+societies’ existing inequities even worse. It does so by concentrating

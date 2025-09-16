@@ -1,7 +1,9 @@
-# performance: A new look at individual-level negative feedback-seeking behavior and
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: e71e8baeafc57285c2a33865445b54d967eb5963
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# of Management, 40, 796-819.
 
-team-level empowerment climate. Journal of Applied Psychology, 92, 202-212.
-
-Cheng, B. S., Chou, L. F., Wu, T. Y., Huang, M. P., & Farh, J. L. (2004). Paternalistic
-
-leadership and subordinate responses: Establishing a leadership model in Chinese
+Chen, Z., Lam, W., & Zhong, J. A. (2007). Leader-member exchange and member

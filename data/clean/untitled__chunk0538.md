@@ -1,5 +1,9 @@
-## cium. Journal of Animal Behavior, 1, 67–73.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3463da71ab200b6b975f28a2638f34f4fdaa5d24
+title: untitled
+---
+# University Press.
 
-Demarest, J. (1980). The current status of comparative psychology in the American Psychological Association. American Psycholo- gist, 35, 980–990.
-
-Dewsbury, D. A. (1984). Comparative psychology in the twentieth
+Day, L. M., & Bentley, I. M. (1911). A note on learning in parame-

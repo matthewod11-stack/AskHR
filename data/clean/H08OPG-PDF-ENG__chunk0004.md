@@ -1,27 +1,23 @@
-## HBR / Digital Article / What Is the Office for Today?
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9a177ff67d8789cb6df741e7b3f0242dbef9eae
+title: H08OPG-PDF-ENG
+---
+## during the early months of the Covid-19 pandemic, my HBR colleagues
 
-but with a slightly diﬀerent aim. Now that we’ve seen half-a-decade of
+and I wondered what this shift would mean—and what core aspects of
 
-remote and hybrid work take form, what have we gained? What have we
+the oﬃce might survive.
 
-lost? And what do we really need oﬃces for?
+We reached out to Jennifer Magnolﬁ Astill, a leading researcher on
 
-My conversation with Magnolﬁ Astill helped me put into context where
+the evolution of workspaces and human-machine collaboration, to put
 
-RTO mandates are going wrong, why in-person connection is still
+these changes into perspective. Five years later, we did the same thing,
 
-important, and what kinds of work are best done face-to-face. This
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-interview has been edited for clarity.
+1
 
-We ﬁrst interviewed you back in 2020 about the shift to remote
-
-work brought on by Covid-19. It’s been ﬁve years: What aspects of
-
-this shift were along the lines of what you thought might happen?
-
-What aspects surprised you?
-
-When we last spoke, I expected that we would see a fast and widespread
-
-adoption of digital tools across industries and that this would expand
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

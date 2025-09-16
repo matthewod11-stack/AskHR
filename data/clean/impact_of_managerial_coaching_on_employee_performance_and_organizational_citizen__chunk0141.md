@@ -1,3 +1,7 @@
-# Dependent Variable: OCB-Organization
-
-In table 10 (β value (c`) = 0.116, t=1.131 <2, F=12.773>5 & sig=0.260), which is showing that managerial coaching has no direct impact on OCB-organization, which did not support H3. Kim and Kuo (2015) found the impact of managerial coaching on OCB-O, but this study found no relationship between these variables. Because, when employees feel thrive at work in the result of managerial coaching, then they perform extra activities beyond their formal duties for the organization. So, this study explores the mechanism of the relationship of managerial coaching and OCB-O. In this study further found an intervening effect by multiplying a*b, 0.401*0.086=0.0345, which support H6 that managerial coaching and employee OCB-O mediate by thriving at work. For measuring the significance of mediation effect, Sobel test was used.
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: f9fa5dd3f4ec851e79a1424046a582760023f296
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# work

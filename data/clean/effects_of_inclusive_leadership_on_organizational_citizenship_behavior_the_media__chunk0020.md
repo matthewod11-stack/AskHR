@@ -1,5 +1,9 @@
-# Journal of Pacific Rim Psychology
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: 4b6af717d56bc7d4dc515513655133dc6917982d
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# Organizational justice as a mediator
 
-also increases employees’ trust in the organization (Aryee et al., 2002), which is related to the civic virtue component of employees’ OCB (Robinson & Morrison, 1995). Further, procedural justice enhances OCB because it impacts employees’ perception that the organization values them, and thus may prompt them to reciprocate with OCB (Moorman et al., 1998). In this vein, Tepper and Taylor (2003) elaborated that employees tend to inter- pret procedural justice to mean that their organization is con- cerned with their interests, which engenders an obligation to repay the organization in some fashion, such as by performing OCB. Based on these above connections, we propose Hypothesis 6: Organizational inclusive leadership on employees’ organizational citizenship behaviors.
-
-justice mediates the influence of
+We argue that inclusive leadership positively influences OCB through organizational justice. The open and supportive behaviors of inclusive leaders improve organizational procedural justice because employees are likely to perceive that their voices are heard and they are included in decision making (Bayles, 1990). In addi- tion, with inclusive leaders, employees tend to feel that they are treated with respect, which indicates a high degree of organiza- tional interactional justice (Folger & Cropanzano, 1998). Thus, inclusive leadership acts as a catalyst for organizational justice. Organizationaljustice,inturn,maypositivelyinfluenceemployees’ OCB due to employees’ enhanced satisfaction with and trust in the organization(Konovsky &Pugh, 1994). Concretely, organizational justicemakesemployeesfeelsatisfiedwiththeorganization,sothey are more likely to exhibit extra-role behaviors (Bingham, 1997). It

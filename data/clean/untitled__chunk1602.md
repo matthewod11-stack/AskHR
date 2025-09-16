@@ -1,5 +1,17 @@
-# THE FUTURE 276 REFERENCES 276
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f74daca9ff85c69fe4f64ff9f709b29341d5b030
+title: untitled
+---
+## THE EFFECTS OF INSTRUCTIONAL PSYCHOLOGY 273
 
-As Berliner (1993) notes, part of the traditional Jewish Passover service is the duty of the leader of the service to tell the story of Passover to each of his sons in turn. The father, however, must tell each son the story in such a way as to em- phasize the particular son’s own strengths and weaknesses. So, for example, the wise son may hear the entire story with additional commentaries, while the recalcitrant son may hear the story with an emphasis on obeying authority.
+The history of educational psychology traces a path from its origins in concerns about cultural improvement and transmis- sion of cultural norms to philosophical issues in general education and psychology (Berliner, 1993; Charles, 1976; Glover & Ronning, 1987; Good & Levin, 2001; Grinder, 1989; Hilgard, 1996; Mayer, 2001; Walberg & Haertel, 1992; Wittrock & Farley, 1989; Zimmerman & Schunk, in press). The effects of this amalgam of antecedent contributions on its birth and development are still evident in the difﬁculties en- countered when attempting a strict deﬁnition of educational psychology that clearly separates it from other psychological disciplines (see Berliner & Calfee, 1996). We will return to this issue later in this chapter.
 
-Although the folk tradition of educational psychology has probably existed since the earliest times of humans on the earth and continues to this day, most formal histories of edu- cational psychology trace its origins to ancient philosophers and statesmen. Here we ﬁnd not only the historical roots of educational practices but also the historical roots of the psy- chology of learning and memory.
+Although it is not difﬁcult to identify the emergence of educational psychology as a recognized discipline, it is some- what more difﬁcult to determine educational psychology’s precise lineage. It has been suggested that educational psy- chology may have ﬁrst emerged as part of a kind of folk tradition in which adults educated their children (Berliner, 1993). This certainly makes sense intuitively, and it is quite easy to imagine not only our own grandmothers and grandfa- thers teaching our parents a variety of life skills but also parents and grandparents from many previous generations passing down what they considered to be the requisite knowl- edge and cultural norms of their day. It also seems likely that this knowledge was passed down in a dynamic rather than static way, incorporating the abilities, skills, weaknesses, and frames of reference of each generation of teacher and student.
+
+269
+
+THE INFLUENCES OF COGNITIVE PSYCHOLOGY 273 THE DISCIPLINE OF EDUCATIONAL PSYCHOLOGY TODAY 274
+
+GOALS FOR THE FUTURE: THE RESEARCH AND DEVELOPMENT OF QUESTIONS, MODELS, ISSUES, AND APPLICATIONS 274

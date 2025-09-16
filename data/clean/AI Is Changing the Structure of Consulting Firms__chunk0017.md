@@ -1,9 +1,7 @@
-## AI Is Changing the Structure of Consulting Firms
-
-https://hbr.org/2025/09/ai-is-changing-the-structure-of-consulting-ﬁrms
-
-8/9
-
-is a partner at the consultingﬁrm
-
-Disruptive Edge, where he advisesorganizations on growth strategy, innovation,and AI adoption. He is the author of
+---
+source_path: AI Is Changing the Structure of Consulting Firms.md
+pages: n/a-n/a
+chunk_id: 98cd9487f710c40e0cb7fce36a11171857287b81
+title: AI Is Changing the Structure of Consulting Firms
+---
+# 9/10/25, 10:49 AM

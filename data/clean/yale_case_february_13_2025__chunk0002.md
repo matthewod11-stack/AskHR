@@ -1,23 +1,9 @@
-# Matthew LoCastro 1 A. J. Wasserstein2
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: 59299b0b596f3145d67a35f1f21cf131e8a3026b
+title: yale_case_february_13_2025
+---
+# Exploring Employee Terminations in Search Fund– Acquired Companies and Small Businesses
 
-Being a search fund or small business CEO is filled with many fun and intellectually challenging functions. Crafting a guiding strategy, arranging the capital structure, and winning new customers are all engaging aspects of leading a company. Unfortunately, many mundane aspects of CEO life are unavoidable, too. Dealing with irate customers, managing the down network fire drill, and addressing the ERP implementation that did not go quite as well as planned are all inescapable CEO tasks. There is an additional unpleasant challenge that entrepreneurship through acquisition (ETA) CEOs are fated to tackle: terminating employees.
-
-Unfortunately, if a business has employees, the point will almost certainly come when the CEO needs to terminate someone. This is undoubtedly one of the worst CEO experiences imaginable. It is awful for both the employee and the person delivering the terrible news— especially in a small business where there are many personal connections. Furthermore, there are repercussions and an emotional toll for the rest of the employee team who see a co-worker dismissed. However terrible the situation is, it is inescapable, and, because many ETA CEOs are young, inexperienced, first-time executives, they may likely have never previously terminated an employee before ascending to their fresh CEO role.
-
-Small businesses experience both voluntary (when someone quits) and involuntary (when someone is terminated) turnover. This note focuses on involuntary turnover, particularly one- off terminations driven by performance issues rather than economic factors.
-
-Anecdotally, we do not know a single ETA or small business CEO who has not had to fire employees. As the business ages and scales in headcount, CEOs gripe about more firings. We are not gamblers, but we would bet heavily that search fund CEOs will terminate plenty of employees in their leadership stints. That feels like a certainty. If it is indeed an inevitability, CEOs might as well develop firing skills, understand the issues surrounding the topic, and know how to do it well and fairly.
-
-A business maxim often cited in the ETA ecosystem is to hire slowly and fire fast. Perhaps this aphorism influences the media’s perception of terminations. Typically, in movies and television shows, a boss impulsively bellows to an underling after an infraction, “You’re fired!” This Hollywood version of employee relations is hardly an accurate depiction of reality. Terminating an employee actually unfolds over weeks and months, often with meticulous planning and well- scripted procedures. It is not nearly as dramatic as Hollywood implies. While we agree with the
-
-notion of firing fast when a person is not working out, it is often only done after a complicated dance of preparation.
-
-We colloquially refer to employee terminations as firing someone. The origins of this phrase are not perfectly clear, but according to urban myth and investigations into its meaning, it appears to be derived from a 13th-century English tradition for how to treat people who did not satisfactorily contribute to their working community. In that situation, the offender was burned out of their home and set adrift from the community—the ultimate indication that one is neither wanted nor needed.3 Firing someone in any context is a burdensome endeavor that is not to be taken lightly. It can be devastating to the firee, and it is also awful for those witnessing the firing.
-
-There are multiple dimensions that ETA and small business CEOs must consider when contemplating an employee termination. Whether or not the CEO is specifically involved in the process (they will absolutely be in some circumstances), they must still design an organizational approach to this function. In this note, we will explore several concepts that can serve as a primer for ETA and small business CEOs when approaching the topic of employee termination. It is not our intention to pretend we are labor lawyers providing legal advice; we are not lawyers, and we will share some directional perspectives, but they are not legal advice. We will explore some technical components of this sticky theme, and we will attack a few qualitative dimensions, too. Specifically, this note will explore the five vectors detailed in Figure 1. Although no guidance can remove the difficulty of firing someone, this note provides best practices to make the process more structured and empathetic, benefiting all parties involved.
-
-Figure 1: A quintet of topics we will discuss in this note
-
-We do not take this topic lightly, and we think of employee termination as a last-resort option when all other choices have failed. Terminations produce many ripples, including significant financial implications. Terminating an employee is a decision that extends far beyond the immediate conversation or paperwork. For organizations, the economic and operational consequences of firing can be profound, while the undulating effects on morale and productivity often linger long after the employee has left. These costs, both direct and indirect, highlight why firing should always be a last option.
-
-Consider the immediate financial burden. Many employers, even when it is not legally required, offer severance packages to departing employees to ease the transition and minimize potential legal disputes. These packages, which commonly range from one to two weeks of pay for each year of service, can quickly add up. For example, an employee earning $1,000 a week over five years might be entitled to a severance of $5,000 to $10,000.4 For smaller businesses, these expenses can pose a significant financial challenge,
+Firing employees is an inevitable part of the CEO role; CEOs must do it fairly and well to prevent further friction

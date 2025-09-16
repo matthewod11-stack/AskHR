@@ -1,21 +1,17 @@
-## Conceptualizing Employee Net Promoter Scores (ENPS)(cid:32)
+---
+source_path: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese.md
+pages: n/a-n/a
+chunk_id: ceb2be16d0b6391108ca43081ad0ffcbac05ebf9
+title: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese
+---
+## a(cid:425)ri(cid:415)on within organiza(cid:415)ons.(cid:32)
 
-Employee Net Promoter Scores was conceptualized by Fred Reichheld in 2003 as a technique for
+(cid:83)(cid:117)(cid:109)(cid:109)(cid:97)(cid:114)(cid:105)(cid:108)(cid:121)(cid:44)(cid:32) (cid:116)(cid:104)(cid:101)(cid:32) (cid:112)(cid:97)(cid:112)(cid:101)(cid:114)(cid:32)(cid:112)(cid:114)(cid:111)(cid:118)(cid:105)(cid:100)(cid:101)(cid:115)(cid:32) (cid:99)(cid:111)(cid:110)(cid:116)(cid:101)(cid:120)(cid:116)(cid:117)(cid:97)(cid:108)(cid:32)(cid:105)(cid:110)(cid:115)(cid:105)(cid:103)(cid:104)(cid:116)(cid:115)(cid:32) (cid:111)(cid:110)(cid:32) (cid:101)(cid:78)(cid:80)(cid:83)(cid:44)(cid:32) (cid:112)(cid:111)(cid:115)(cid:105)(cid:116)(cid:105)(cid:111)(cid:110)(cid:105)(cid:110)(cid:103)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32) (cid:109)(cid:101)(cid:116)(cid:114)(cid:105)(cid:99)(cid:32) (cid:97)(cid:115)(cid:32)(cid:97)(cid:32) (cid:118)(cid:105)(cid:116)(cid:97)(cid:108)(cid:32)
 
-measuring and monitoring the loyalty of employees. The concept is premised on the Net Promoter
+(cid:102)(cid:114)(cid:97)(cid:109)(cid:101)(cid:119)(cid:111)(cid:114)(cid:107)(cid:32)(cid:102)(cid:111)(cid:114)(cid:32)(cid:109)(cid:111)(cid:100)(cid:101)(cid:114)(cid:110)(cid:32)(cid:72)(cid:82)(cid:32)(cid:112)(cid:114)(cid:97)(cid:99)(cid:116)(cid:105)(cid:99)(cid:101)(cid:115)(cid:32)(cid:116)(cid:111)(cid:32)(cid:101)(cid:110)(cid:104)(cid:97)(cid:110)(cid:99)(cid:101)(cid:32)(cid:97)(cid:100)(cid:118)(cid:111)(cid:99)(cid:97)(cid:99)(cid:121)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:101)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:32)(cid:111)(cid:102)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:115)(cid:46)(cid:32)(cid:84)(cid:104)(cid:101)(cid:32)
 
-Score (NPS) framework which is used in the measurement of customer loyalty. (cid:49)(cid:32)
+(cid:112)(cid:97)(cid:112)(cid:101)(cid:114)(cid:32)(cid:97)(cid:108)(cid:115)(cid:111)(cid:32) (cid:112)(cid:114)(cid:111)(cid:118)(cid:105)(cid:100)(cid:101)(cid:115)(cid:32) (cid:104)(cid:105)(cid:115)(cid:116)(cid:111)(cid:114)(cid:105)(cid:99)(cid:97)(cid:108)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32) (cid:116)(cid:104)(cid:101)(cid:111)(cid:114)(cid:101)(cid:116)(cid:105)(cid:99)(cid:97)(cid:108)(cid:32) (cid:105)(cid:110)(cid:115)(cid:105)(cid:103)(cid:104)(cid:116)(cid:115)(cid:32) (cid:111)(cid:110)(cid:32) (cid:116)(cid:104)(cid:101)(cid:32)(cid:101)(cid:78)(cid:80)(cid:83)(cid:32) (cid:109)(cid:101)(cid:97)(cid:115)(cid:117)(cid:114)(cid:101)(cid:44)(cid:32) (cid:99)(cid:111)(cid:110)(cid:116)(cid:114)(cid:105)(cid:98)(cid:117)(cid:116)(cid:105)(cid:110)(cid:103)(cid:32) (cid:116)(cid:111)(cid:32)
 
-ENPS is a valuable tool in facilita(cid:415)ng an understanding of the engagement and sa(cid:415)sfac(cid:415)on levels
+existing literature on the discourse on engagement and it’s Impact on organizational effectiveness.(cid:32)
 
-of employees within organiza(cid:415)ons. Using the ENPS scores, organiza(cid:415)ons can iden(cid:415)fy where there
-
-are challenges rela(cid:415)ng to employee advocacy, allowing for the deployment of strategies which
-
-facilitates the implementa(cid:415)on of best prac(cid:415)ces to promote employee advocacy. Sugges(cid:415)ons from
-
-Bain and Company iden(cid:415)(cid:302)es that another bene(cid:302)t associated with the ENPS is that it helps enhance
-
-ease with which organiza(cid:415)ons are able to iden(cid:415)fy leaders who are instrumental to delivery of
-
-organiza(cid:415)onal strategy in addi(cid:415)on to iden(cid:415)fying leaders that require improvement in strategic
+(cid:32)

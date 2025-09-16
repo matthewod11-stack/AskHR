@@ -1,11 +1,13 @@
-# UNDERSTANDING TOOLS AND AGENTS
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 7ce9b0ef6bc7feb6ed9999c5d45163fb3bebe983
+title: building
+---
+## Level 3: Advanced implementation - building AI agents
 
-As organizations progress in their AI journey, two key concepts become increasingly important: tools and agents. These capabilities represent the frontier of enterprise AI implementation, enabling systems that can not only understand requests but take action to fulfill them.
+The most sophisticated implementations transform AI from a simple query-response tool into an intelligent agent that can execute complex tasks autonomously:
 
-Tools Tool use (sometimes called function calling) represents a fun- damental leap in AI capability. Rather than simply responding with text, AI models can interact with external systems and functions to accomplish specific tasks. Tools are defined func- tions that the AI can call to perform specific actions, enabling AI to access real-time data, allowing direct integration across systems, and supporting complex business processes.
+- Multiple tool integration for diverse capabilities • Complex multi-step workflows • Agent-based systems with decision-making ability • Advanced memory and context management • Sophisticated error handling and self-correction
 
-Agents An LLM Agent is a system that combines a large language model with the ability to take actions in the real world or digital environments. Key components typically include:
-
-- 1. The base LLM for reasoning and planning 2. Tools/functions the agent can use (like web searches, APIs, or computer access)
-
-- 3. A decision-making framework to choose appropriate
+8

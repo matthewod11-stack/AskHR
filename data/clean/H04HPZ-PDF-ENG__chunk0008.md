@@ -1,7 +1,9 @@
-## complaint procedures, and training programs.
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 808a7f33e17fbdca838dbf5a55d3ca03008b1881
+title: H04HPZ-PDF-ENG
+---
+# HBR / Digital Article / How HR and Judges Made It Almost Impossible for Victims of Se…
 
-This approach may be misguided. Programs, policies, and training alone
-
-do not stop sexual harassment and abuse. My book Working Law —
-
-based on surveys of organizations, interviews with HR professionals,
+ﬁred, organizations rushed to create or update anti-harassment policies,

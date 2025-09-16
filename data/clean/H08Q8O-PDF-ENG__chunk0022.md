@@ -1,23 +1,19 @@
-# relations and personalized needs.
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 454d37c3ca8a06ec42fae449e945e2ee832b7652
+title: H08Q8O-PDF-ENG
+---
+## a developmental psychologist and professor at New York University. In
 
-Gilligan illustrated this using Kohlberg’s ﬁndings and his famous Heinz
+her 1982 book, In a Different Voice, Gilligan challenged research by her
 
-dilemma. Heinz’s wife is dying, he is her primary caregiver, and there is only one drug that will save her life. Heinz can’t aﬀord it, no one will
+Harvard mentor, Lawrence Kohlberg, that suggested that girls were less
 
-loan him the money, and the drug’s inventor refuses to lower the price.
+morally developed than boys. She showed that the girls in his study did
 
-Should Heinz steal the drug?
+demonstrate the ability to tackle moral questions, but when doing so,
 
-The boy reasons that the right to life is a more important principle than
+they did not rely on the ethics of justice that boys usually used. Instead,
 
-the right to property and so all reasonable people should agree that
-
-Heinz is justiﬁed in stealing the drug. The girl disagrees: If Heinz goes to
-
-prison for the theft, he cannot take care of his wife, and she will just be
-
-in another predicament. In essence, notes Gilligan, the boy’s argument
-
-is based on a perceived universal truth, while the girl’s is more nuanced,
-
-based on the consequences of actions and the way his wife relies on him
+when making ethical decisions girls leveraged a deep understanding of

@@ -1,33 +1,13 @@
-## HBR / Digital Article / Developing a Successful Business Strategy in China
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b255c2b0f918248d910cdd4e52edd298c53db078
+title: H07VZN-PDF-ENG
+---
+# context.
 
-If you’re a China-based team, you need to encourage (and even fund)
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-executive trips to China. This will directly impact your resourcing and
+7
 
-inﬂuence on strategy. Remember that most global executives only truly
-
-think about a global market when they wake up in it. Bring them here
-
-and remind them of the opportunities that they’re investing in.
-
-. . .
-
-Any company thinking about doing business today in China is facing a number of tough decisions, made tougher by diﬃcult geopolitics and
-
-a lack of visibility on the ground. Most often, the best tool you have
-
-available to you is your very own China team. But for China-based teams
-
-to play a larger role in your strategic process, they have to understand
-
-the overall perceptual climate back at headquarters, help make clear
-
-why your business ought to recommit to China, and know and then
-
-provide answers to the questions your team needs answered. Of course,
-
-seeing is believing, so returning to China in person after long years of
-
-absence is an essential step for global executives. That’s the only way
-
-to make measured judgements on how to re-engage with the world’s
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

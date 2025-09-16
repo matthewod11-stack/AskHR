@@ -1,9 +1,9 @@
-# Almost Never
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: b782c3f7cadc793280bb0c7300df72ba22e9381d
+title: document_resume
+---
+# Almost Always
 
-2
-
-3
-
-4
-
-5
+Posts whereabouts if not in office during scheduled office hours.

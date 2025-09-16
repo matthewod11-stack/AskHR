@@ -1,5 +1,11 @@
-# Md Nasiruddin2, Shuvo Dutta3, Rajesh Sikder4, Chowdhury Badrul Huda5 and Md Zahidul
+---
+source_path: journal_of_business_and_management_studies.md
+pages: n/a-n/a
+chunk_id: c71efc7fa21ef66a5a49600c61f4ac7dd32d86ca
+title: journal_of_business_and_management_studies
+---
+# | RESEARCH ARTICLE
 
-✉
+Employee Attrition Prediction in the USA: A Machine Learning Approach for HR Analytics and Talent Retention Strategies
 
-| ABSTRACT In the dynamic business domain in the USA, human capital is one of the most instrumental assets for companies. Maintaining high performance and reducing employee attrition has become an utmost priority in the USA since the costs related to employee attrition can be significant. The chief objective of this study was to explore the application of machine learning in terms of forecasting employee attrition and its ramifications for HR analytics and talent retention strategies. In this study, the investigator used Jupyter Notebook, an interactive platform for Python users, to design machine learning algorithms. The dataset utilized in this research was attained from the IBM Human Resource workforce attrition survey dataset. In the current research, the investigator proposed an array of machine learning models, most notably, Decision Tree, Ada-boost classifier, Random Forest, and gradient-boosted classifier. By referring to the model’s performance evaluation, it was apparent that the Random Forest algorithm had the highest accuracy, followed by Gradient Boosting and Decision Tree respectively. AdaBoost had the lowest accuracy. Concerning precision, the Random Forest algorithm again had the highest precision followed by Gradient Boosting and AdaBoost accordingly. By implementing the proposed models’ organizations in the USA can identify high-performing employees at risk of quitting, and subsequently take proactive steps to retain them, saving significant organizational resources. Ultimately, the proposed machine learning techniques can assist the government in maintaining high-performing employees, reducing the impact of labor shortages, and maintaining business continuity.
+Md Sumon Gazi1 Islam6 16MBA Business Analytics, Gannon University, USA 2Department of Management Science and Quantitative Methods, Gannon University, USA 3Master of Arts in Physics, Western Michigan University, USA 4PhD Student in Information Technology, University of the Cumberlands, KY, USA 5Masters of Science in Management, ST. Francis College Corresponding Author: Md Sumon Gazi, E-mail: sumonmkt87@gmail.com

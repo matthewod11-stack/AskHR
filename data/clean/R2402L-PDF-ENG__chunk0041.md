@@ -1,17 +1,11 @@
-# to potential solutions.
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a67043d3ec0e1da0aaa9ad21ec25bcd46fd7cc6
+title: R2402L-PDF-ENG
+---
+# Barriers to Effective Listening
 
-Assumptions: You go in with strong opinions but few facts.
+Advising: You jump in too quickly with solutions.
 
-Avoidance: You shut down at any sign of tension.
-
-Derailing: You abruptly change subjects.
-
-Dreaming: You half listen to your counterpart.
-
-Experience: You assume you understand the situation because you’ve
-
-been in a similar one previously or have dealt with your counterpart before.
-
-Filtering: You listen to some things and not to others.
-
-Identifying: You link everything the other person says to your own
+Analysis paralysis: You continue to gather information instead of moving

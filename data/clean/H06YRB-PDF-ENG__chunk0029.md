@@ -1,23 +1,11 @@
-# need it.
+---
+source_path: H06YRB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d610c6b008af24b9280a77714f62fa22e2e0a53
+title: H06YRB-PDF-ENG
+---
+## information, and assistance with funeral and other expenses. Such
 
-It’s also important when working with those in crisis that we
+support can make an incredible difference in a person’s healing and
 
-communicate frequently and clearly. When the unthinkable happens,
-
-we often feel blindsided and insecure. When it feels difficult to regain
-
-a sense of control over our lives, receiving information can help. As
-
-John F. Kennedy said, “In a time of turbulence and change, it is
-
-more true than ever that knowledge is power.” Therefore, another type
-
-of support that the organization can provide is frequent and reliable
-
-communication. This communication can take any form, from a text
-
-alert system to a Slack channel dedicated to informing employees about
-
-the crisis at hand to a daily email from the CEO. Whatever you use, it’s
-
-important that the communication be consistent and dependable.
+demonstrate that the organization is there for its employees when they

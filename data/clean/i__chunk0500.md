@@ -1,3 +1,13 @@
-## grid = dict(max_depth = [4, 6, 8], min_samples_leaf = [10, 15, 20])
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: ff7348ecfe585aff3ebc03babe0d838d15108a89
+title: i
+---
+# regression
 
-forest_att = RandomForestClassifier(n_estimators = 200, random_state = 0)
+print('MSE of random forests is', mse_rf)
+
+MSE of random forests is 0.13043478260869565
+
+Optimize the random forest

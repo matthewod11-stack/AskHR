@@ -1,25 +1,27 @@
-# The Value of A/B Testing
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ba99c51488486ff58f89df7d98f4a311e2d8fef
+title: H08DMP-PDF-ENG
+---
+# hybrid policies.
 
-One other lesson that managers can take from our study is the value of
+Finally, Trip.com’s CEO and the full executive suite are supportive of
 
-organizational A/B testing. We’ve all been subject to A/B experiments
+a hybrid policy. As common in many modern management practices,
 
-probably dozens of times when using online services, but doing A/B
+from lean manufacturing to organizational agility, having leadership
 
-tests with management practices is far rarer.
+buy-in is critical to support a successful strategy.
 
-Trip.com has a tradition of A/B experimentation on management
+“At Trip.com Group, we are dedicated to unlocking the full potential
 
-practices going back more than a decade, using these to continuously
+of our employees,” said Jane Sun, CEO of Trip.com Group, the parent
 
-improve their productivity. For example, back in 2010 they ran
+company listed on NASDAQ. “Our hybrid work model, reﬁned over a
 
-experiments on remote working for call center employees. The
+decade of innovation and experimentation, is designed to support both
 
-current study involved a more diverse group — computer engineers,
+personal and professional excellence. We remain committed to fostering
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+an environment where everyone can thrive.”

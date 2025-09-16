@@ -1,17 +1,25 @@
-## a careful understanding of context on the part of employees and
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b353ddccff354d5de54d3e116be8320bd5cc288
+title: H08Q8O-PDF-ENG
+---
+# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
 
-the managers they report to. And while it is easy enough to create eﬀective arrangements on a small scale, there are clearly challenges to
+But this person’s boss found a way to create ﬂexibility within the
 
-be met in shaping and adapting to individual psychological contracts
+policies by caring about what matters. Acknowledging that it made no
 
-across large organizations with diverse working environments. Since
+sense for the members of the global team to be in the oﬃce when they work with people in diﬀerent time zones (in early mornings as well
 
-work arrangements and employee needs vary enormously, a large
+as late afternoons), the supervisor was able to create an exception for
 
-organization has to form a multitude of very local psychological
+them. “My boss is great,” our contact told us. “She talked to me about diﬀerent options and told me she would support our team.” And the
 
-contracts. This means that many managers will have to engage more
+team, we learned, was more engaged than many other groups the team
 
-closely with their employees than they are used to. Finally, everyone in the organization then has to accept that diﬀerent arrangements apply to diﬀerent people.
+member observed across the company.
 
-Given these issues, how can large companies make the ethics of care a
+The CMG experiment and the Dell example both demonstrate that
+
+crafting psychological contracts based on an ethics of care requires

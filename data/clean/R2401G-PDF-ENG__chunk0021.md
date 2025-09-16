@@ -1,17 +1,35 @@
-# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef74ca2cb1a136a641b806813685e3028789c665
+title: R2401G-PDF-ENG
+---
+# subtraction.
 
-such friction blindness, as Dacher Keltner’s book The Power Paradox
+Second, organizations often reward leaders for additions: Kudos, cash,
 
-documents, is that when people feel powerful, they tend to focus
+perks, and titles are heaped on those who implement new technologies,
 
-more on what they need and want and less on the challenges and
+launch initiatives, or build bigger ﬁefdoms. In contrast, people with
 
-inconveniences faced by others (especially people who are less powerful
+the wisdom and discipline to avoid adding unnecessary stuﬀ are rarely
 
-than they are).
+noticed or rewarded. These incentives help explain why, although many
 
-So leaders may not realize how their failure
+of us believe that other people need to engage in subtraction, we object
 
-to remove, or to avoid adding, unnecessary
+to eliminating our own pet projects or reducing our own budgets. As the
 
-impediments makes life harder for “the
+late, great comedian George Carlin put it, “Have you noticed that their
+
+stuﬀ is shit and your shit is stuﬀ?”
+
+Third, leaders often have a limited grasp of their “cone of friction”—
+
+how their actions and decisions burden others. Part of the reason for
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

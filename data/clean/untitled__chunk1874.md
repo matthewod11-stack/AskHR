@@ -1,7 +1,9 @@
-# The Twentieth Century
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4466fe3a9577ee161c3b27a8cca5ed0bae0ddce4
+title: untitled
+---
+# The Rise of Behavior Modiﬁcation
 
-behavior was maladaptive but ignored the patient when be- havior was adaptive (“normal”) thereby serving to reinforce symptomatic behavior and to extinguish normal behavior. Rewarding normal behavior would provide a more rational approach to eliminating symptoms. Studies directed toward eliminating eating problems, mutism, and other symptoms, reported successes (e.g., Allyon, 1963, Allyon & Haughton, 1962) and led some public hospitals to develop large-scale “token reinforcement” programs.
-
-Behavioral methods of this kind ran into criticism. One criticism was that they turned the professional ethical imper- ative to provide care and attention to the sick on its head and therefore compromised patients’rights. Another was that pa- tient improvements often were speciﬁc to the hospital setting and failed to persist after the patient was discharged. But the main factor in limiting the spread of this approach was the success of the new medications.
-
-Behavior therapy proved broadly successful in treating nonpsychotic problems such as systematic desensitization of phobias, eliminating fear of ﬂying, smoking reduction, and training mentally retarded patients and passed into the reper- toire of psychiatric practice.
+The ﬁrst to report extension of behavioral methods to hospi- talized psychosis patients were Allyon and Haughton (1962). Their approach consisted primarily of controlled application of rewards to patients when they behaved in an adaptive (i.e., “normal”) manner. The underlying concept was that tradi- tional treatment gave attention and care when a patient’s

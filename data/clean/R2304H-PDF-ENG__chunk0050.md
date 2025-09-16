@@ -1,17 +1,25 @@
-## in visible functions such as security and information services, the
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e0c004cb53ea8ac98418a2a08c1c5d070b55d99
+title: R2304H-PDF-ENG
+---
+## recruit only a small number of employees with disabilities for PR
 
-number of disabled customers began to increase substantially. We
+purposes. If customers sense that the practice is not genuine and not
 
-ourselves have observed many families with disabled children in
+really spread throughout the ﬁrm, it may not only be ineﬀective but
 
-the mall. According to Andrea Hernandez, its coordinator of human
+even backﬁre: It could make them feel angry and manipulated and
 
-resources, this is because they feel more at home in Gran Estación,
+perceive the company as being exploitative rather than benevolent.
 
-which also makes them more likely to be return customers.
+When hiring people with disabilities is implemented sincerely, however,
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+it can generate another positive knock-on eﬀect: attracting customers
 
-11
+with disabilities and their family members, who form a considerable
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+economic segment themselves. The managers of Gran Estación noticed
+
+that once they started hiring more people with disabilities, particularly

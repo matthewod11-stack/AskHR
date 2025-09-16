@@ -1,9 +1,11 @@
-## and designing products, services, experiences, and environments that
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d32e817532d3c0d5b13cea2824de944a65682cf3
+title: H08LGU-PDF-ENG
+---
+## HBR / Digital Article / What Comes After DEI
 
-work for all. For example, if frontline workers aren’t given the means or
+While it is closely related to accessibility, access applies to more than
 
-time to participate in a major virtual celebration that their headquarters
-
-colleagues are putting on, the event is inaccessible. If a major all-hands
-
-meeting is scheduled on a Jewish or Muslim holiday, the meeting is
+disability. Achieving access requires removing barriers to participation,

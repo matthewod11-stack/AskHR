@@ -1,9 +1,9 @@
-## capabilities of large models for routine business functions while
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5d11499da48a9a235a83c41428527168f008833
+title: H08TQF-PDF-ENG
+---
+# HBR / Digital Article / Should Your Business Use a Generalist or Specialized AI Model?
 
-accessing the speciﬁc professional logic that drives expert decision-
-
-making in high-stakes domains. Rather than replacing professional
-
-judgment, these solutions can enhance it by handling routine
-
-applications of established frameworks while ﬂagging cases that require
+This hybrid approach allows enterprises to beneﬁt from the broad

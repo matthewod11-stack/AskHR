@@ -1,27 +1,23 @@
-# substantial bonus upon project success.
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44cd09c9281e160f8d4d0b70f1e2f4590d2ebd94
+title: H06X4I-PDF-ENG
+---
+# more valuable than ever.
 
-Hiring managers should be aware of ﬁrm-speciﬁc context and try to
+If you begin your journey outside of platforms, use the insights for why
 
-minimize it, while making sure any solution you procure from outsiders
+platforms exist so that you can design your own processes to circumvent
 
-can be integrated. For example, Netﬂix was able to get more than 2,000
+the information problems platforms attempt to solve.
 
-submissions in their famous prediction challenge by providing an easy-
+This likely means you need some way to screen applicants, like with
 
-to-understand database of movie ratings that didn’t force participants to
+employment histories, or to use a format like contests that make
 
-understand the underlying architecture of Netﬂix’s backend systems.
+employment histories irrelevant. Incentive alignment in this case
 
-You also can run some experiments and horserace diﬀerent models.
+cannot come from the promise of a public signal of good feedback,
 
-Try to measure the results of comparable tasks or projects done in diﬀerent ways (internally and through open talent). This will allow you to measure productivity under diﬀerent conditions. We believe
-
-the idiosyncratic nature of most production means an experiment
-
-is more valuable than broad advice. Experiments may also include trying diﬀerent formats — contests or hourly contracts — and diﬀerent platforms with diﬀerent mixes of contractors.
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+but instead may come from a pathway to a permanent position or a

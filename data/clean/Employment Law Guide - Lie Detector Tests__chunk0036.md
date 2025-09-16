@@ -1,1 +1,15 @@
-# Employers investigating an economic loss or injury must maintain a copy of the statement that sets forth the
+---
+source_path: Employment Law Guide - Lie Detector Tests.md
+pages: n/a-n/a
+chunk_id: 59bff43b8dd8e00a7fced6dd7aaac5fc9b44961b
+title: Employment Law Guide - Lie Detector Tests
+---
+# Recordkeeping
+
+In the limited instances where EPPA permits the administration of polygraph tests, recordkeeping
+
+requirements apply both to employers and polygraph examiners. Employers and polygraph examiners must
+
+retain required records for a minimum of three years from the date the polygraph examination is conducted (or
+
+from the date the examination is requested if no examination is conducted).

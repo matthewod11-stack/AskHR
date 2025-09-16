@@ -1,29 +1,25 @@
-## Tableau (visual analytics) and Slack (real-time messaging). Salesforce
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26c1ef04145f2549729ca9ed796d09c102f0e022
+title: S24022-PDF-ENG
+---
+# Putting It All Together
 
-continually collects customer insights through its IdeaExchange
+Designing an all-encompassing growth system is not easy. A prime
 
-platform, which allows users to propose new features or changes to
+example of a company that has demonstrated sustained success by
 
-products. Trailhead, Salesforce’s learning platform that engages with
+creating such a system is Salesforce, one of the growth champions in our
 
-users through gamiﬁed training and resources, has been instrumental
+study. Salesforce is laser-focused on customer outcomes, diversifying its
 
-in building a knowledgeable, proﬁcient user community, fueling
+oﬀerings to respond to an evolving market while grounding innovation
 
-innovation and driving revenue. Salesforce’s basic operating model—
+in what is important to its customers—something some rival tech
 
-customers pay subscription fees, with charges increasing the more
+companies have been slower to do.
 
-they use its software—aligns top-line growth with customer success.
+Over the past decade, Salesforce has supplemented its ﬂagship CRM
 
-Salesforce aims to make it easy for customers to use its products,
-
-and as they do, revenue per customer and the number of multimillion-
-
-dollar accounts naturally grows. What’s more, Salesforce’s revenue is
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+capabilities with cloud-computing and AI services, while also acquiring

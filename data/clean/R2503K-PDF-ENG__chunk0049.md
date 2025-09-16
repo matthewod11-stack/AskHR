@@ -1,17 +1,21 @@
-# members.
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c8fe41faf8116643495bfb7d1384a4b0c272524
+title: R2503K-PDF-ENG
+---
+## and transparent. As former Starbucks CEO Howard Schultz put it, “The
 
-Western managers are told that owning their mistakes and discussing
+currency of leadership is transparency.” But those values chafe against
 
-them openly is crucial for building trust, but for someone from a face-
+the more nuanced, discreet communication styles preferred by much
 
-saving culture, it can be disorienting when a leader speaks candidly
+of today’s global workforce. It’s not that team members from other
 
-about a mistake. Leaders hold a position of authority and honor, and
+cultural contexts don’t value transparency; they just expect leaders to
 
-hearing them grovel about what they did wrong may actually erode
+communicate transparently in ways that align with their own cultural
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+norms. Global teams need their leaders to have a broader repertoire of
 
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+communication styles so that they can eﬀectively gain the trust of team

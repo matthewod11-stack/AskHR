@@ -1,17 +1,25 @@
-# HBR / Digital Article / How People Analytics Can Help You Change Process, Culture, a…
+---
+source_path: H04AKS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4a10cf1ecfb3511c373ffb74305cc4ac1b8d377
+title: H04AKS-PDF-ENG
+---
+# Kenneth Andersson for HBR
 
-And while the number of initiatives that fall under the umbrella
+It seems like every business is struggling with the concept of
 
-of “transformation” is so broad that it can seem meaningless, this
+transformation. Large incumbents are trying to keep pace with digital
 
-breadth is actually one of the defining characteristic that differentiates
+upstarts., and even digital native companies born as disruptors know
 
-transformation from ordinary change. A transformation is a whole
+that they need to transform. Take Uber: at only eight years old, it’s
 
-portfolio of change initiatives that together form an integrated program.
+already upended the business model of taxis. Now it’s trying to move
 
-And so a transformation is a system of systems, all made up of the
+from a software platform to a robotics lab to build self-driving cars.
 
-most complex system of all — people. For this reason, organizational
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-transformation is uniquely suited to the analysis, prediction, and
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

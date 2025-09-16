@@ -1,7 +1,19 @@
-# mundane kinds of incivility.
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 859df178b4143191a55b0075403dee959f9e43d1
+title: H08UMD-PDF-ENG
+---
+# share ideas.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Women are disproportionately impacted by rudeness because it signals
 
-4
+a high likelihood that they’ll be punished socially for behavior deemed
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+inappropriate to their gender—like speaking up, asserting an opinion,
+
+or disagreeing with someone else’s analysis, say the study’s authors.
+
+Managers who want to beneﬁt from the diverse insights of their staﬀ
+
+must make sure they’re creating respectful environments free of even

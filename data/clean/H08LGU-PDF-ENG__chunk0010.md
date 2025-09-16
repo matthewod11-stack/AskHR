@@ -1,5 +1,29 @@
-# intergroup hostility and polarization.
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45d80c3ad74c5b2255d9400a4e930a18b5de240a
+title: H08LGU-PDF-ENG
+---
+# substantial backlash at worst.
 
-“I’ve been encouraged by data that show if you design for better
+Leaders at the forefront of reimagining this work are using data
 
-processes, you don’t always need to ﬁrst get everyone on board,” said
+to design interventions that measurably improve outcomes for all.
+
+They apply a change management approach to create impact at
+
+scale, improving personnel policies; hiring, promotion, and feedback
+
+processes; leadership incentives; and organizational culture and norms,
+
+rather than repeatedly seeking to “build awareness” without follow-up.
+
+They are building coalitions that engage everyone in the workplace
+
+as part of the solution, rather than looking to pin problems on one
+
+social identity group versus another. And they are communicating in
+
+ways that defuse defensiveness and threat by establishing the beneﬁt
+
+of this work for everyone, rather than resort to rhetoric that inﬂames

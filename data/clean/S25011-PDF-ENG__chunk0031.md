@@ -1,25 +1,13 @@
-## HBR / Spotlight / How to Marry Process Management and AI
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6d8af0a6535770b2ed2240ef571db3b65615017
+title: S25011-PDF-ENG
+---
+# days.
 
-Step 2: Identify process customers. At the beginning of an initiative,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-process managers should always ask, “Who are the customers? What
+7
 
-do they want, and what do they need most? How do we deliver
-
-it?” Any gaps or uncertainties in the answers signal opportunities to
-
-fundamentally rethink the process.
-
-The people who ultimately get value from the process may be internal or
-
-external. With OTC, it’s easy to identify the primary customers: People
-
-who buy the products or services, who need to receive them in top-
-
-quality form, on time, and where expected; and the company, which
-
-needs to manage cash.
-
-There may also be secondary customers. Marketing, for instance, may
-
-be one of the OTC process if it wants to position the company’s on-time
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

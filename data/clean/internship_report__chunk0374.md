@@ -1,23 +1,29 @@
-## Figure 4: Yearly Appraisal & Dialogue Session Analysis
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 9c5288e0ae3c237eb6882cb2eda6c3909e7e3886
+title: internship_report
+---
+## 4.1.4 Yearly Appraisal & Dialogue Session Analysis
 
-From the above chart (Fig: 4) it depicts that 27% people are agreed that they have their regular
+(cid:89)(cid:101)(cid:97)(cid:114)(cid:108)(cid:121)(cid:32)(cid:65)(cid:112)(cid:112)(cid:114)(cid:97)(cid:105)(cid:115)(cid:97)(cid:108)(cid:32)(cid:38)(cid:32)(cid:68)(cid:105)(cid:97)(cid:108)(cid:111)(cid:103)(cid:117)(cid:101)(cid:32)(cid:83)(cid:101)(cid:115)(cid:115)(cid:105)(cid:111)(cid:110)(cid:32)(cid:32)(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)
 
-yearly appraisal and dialogue session with their line manager which indicate that the employees
+(cid:48)(cid:37)(cid:32)
 
-are getting proper guidance from their line manager. As a result, the can also get their
+(cid:48)(cid:37)(cid:32)
 
-development areas. On the other hand, 36% employees don‟t want to express their view in this
+(cid:51)(cid:54)(cid:37)(cid:32)
 
-regard. Again, 27% employees are disagreeing that their line manage are regularly doing
+(cid:50)(cid:55)(cid:37)(cid:32)
 
-appraisal and dialogue session by siting with them. Where appraisal and dialogue session is
+(cid:51)(cid:54)(cid:37)(cid:32)
 
-every important for both employer and employees in a way that It encourages employees to
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
 
-perform better in the future, during the appraisal, employees can discuss strengths and
+(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
 
-weaknesses with a supervisor, in effect, allowing employees to discuss personal concerns, it
+(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
 
-allows employees to identify what skills may be lacking and need to be acquired or improved
+(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
 
-upon and it provides communication between a supervisor and employee on a regular basis to
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)

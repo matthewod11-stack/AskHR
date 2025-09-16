@@ -1,13 +1,31 @@
-## Move from participation-based KPIs to outcome-based KPIs.
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae53272035c6273131eb6e332acd0e03beb84f0b
+title: H08JKA-PDF-ENG
+---
+# practice-based learning.
 
-CLOs must be able to show that their eﬀorts have a positive impact on
+Standard Chartered used “brain training games” to get employees to
 
-the metrics that matter most to their companies. And yet, according to
+practice new behaviors and integrate what they learned into their daily
 
-LinkedIn, only 30% of L&D professionals measure this.
+work. These are two-minute tasks designed to build habit and reduce
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+reaction time. They can be used to enhance product knowledge, explain
 
-5
+acronyms, or build functional skills. For example, a brain training game
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+on data analysis rapidly shows random examples of clean and “dirty”
+
+data sets, prompting the user to spot errors or make choices that help
+
+them more quickly evaluate the quality of the data they work with.
+
+According to Villeneuve, “We’ve delivered over 86 internally built brain
+
+training games and we’ve been able to prove that many of these new
+
+methods improve productivity, product knowledge and speed to desk
+
+radically.”

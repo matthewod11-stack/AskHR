@@ -1,9 +1,7 @@
-# The Value of Digital Transformation
-
-This article was originally published online on June 20, 2025.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2eee00ab2fb08d8d37e27dd8ecc9a7f835101cd
+title: H08SI8-PDF-ENG
+---
+## The CEO of Chipotle on Charting a Culinary and Digital Turnaround

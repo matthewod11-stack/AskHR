@@ -1,9 +1,9 @@
-# employees.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 69d4b7e1f95122c4d4c9c87765ace337df7cd4cb
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 12 | P a g e
 
-- 3) The Emotional Employee Experience, explaining how employees'
-
-feelings and emotions affect how they act and think about the company
-
-every day. It looks at how employees, both as individuals and as a group,
-
-think about the company, interact with their peers and leaders, and
+arrange their workspaces, and the technology they give to their

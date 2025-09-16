@@ -1,47 +1,63 @@
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 252cc27713ce4e7b6e746def3ccb7a6b789f0133
+title: H07SHV-PDF-ENG
+---
 # HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-of us have a few choices in what we can do for work. And by the way,
+work-life balance? You can work on yourself, but as you said, misery and
 
-if it turns out that your boss is abusing you and hopelessly addicted to
+all this stuﬀ is contagious. How can you move the needle on leadership
 
-drugs, you got to change circumstances. That’s an abusive relationship.
-
-I recommend steering clear of workaholics.
-
-Now, what’s behind workaholism, fellow workaholics? It’s the success
-
-addiction. Workaholism is a secondary addiction to the addiction of
-
-success, and a lot of that’s based on the objectiﬁcation of yourself, which
-
-is a bad thing to do, and a deep, deep set of fear of failure. Those are the
-
-things to actually start working on. You can’t just say, “Work less, what’s
-
-the problem?” It’s self-objectiﬁcation and fear of failure, almost always.
-
-ADI IGNATIUS:
-
-But you think of new entries to the workforce, and some of them are
-
-your HBS students who are working for investment banks, who are
-
-working for law ﬁrms, and there is this expectation of exploitation
-
-where, yes, I’m working around the clock. It is killing me, but it is
-
-getting me to where I will be rich, fulﬁlled, happy. How can people who
-
-are ambitious in those ﬁelds do otherwise?
+that doesn’t appreciate any of this?
 
 ARTHUR C. BROOKS:
 
-One of the things that I tell my students is you’ve got to have a balanced
+When it comes to leadership, leader lead thyself. Your number one
 
-happiness portfolio, and killing all of your relationships to spend 110
+employee is you. Don’t be the pace-setting leader.
 
-hours in an investment bank is the worst, most unbalanced happiness
+Remember when Daniel Goleman wrote that famous book Leadership
 
-portfolio you can possibly get. Plus, you’re losing your best years to
+That Gets Results? It was about the six types of leaders, and the number
 
-establish the relationships that you’re going to want to cultivate for the
+one leadership characteristic that everybody thinks is great—but is
+
+actually horrible—is workaholic pace-setting leaders that are in the oﬃce all the time and saying, “Look, if I’m going to ask people to work
+
+hard, I have to work even harder.” It’s incredibly dispiriting for other
+
+people. It lowers their quality of life.
+
+When I was a CEO, I’m telling you, somebody on my executive team
+
+says, “Arthur, you got to stop sending email at 5:00 AM and 11:00 PM
+
+because people are going to stay up wondering if they’re going to have to
+
+answer your email.” I said, “I don’t expect anybody to…” That’s not the
+
+point. So I put timers on my email to do that.
+
+But even better was when my wife started clamping down and saying,
+
+“You need to sleep more. You need to go to the gym more. You need
+
+to have more of a life.” So number one, if you’re a leader, you need to
+
+get a hold on this problem because you’re going to be hurting yourself,
+
+wrecking your relationships, and disheartening all the people around
+
+you. This is a big problem.
+
+Second, don’t work for a workaholic. Don’t work for them if you can.
+
+And again, not everybody’s got all these degrees of freedom, but most
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+17
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

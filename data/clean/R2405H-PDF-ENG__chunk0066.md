@@ -1,5 +1,13 @@
-## company with $1.7 billion in annual sales and 10,000 employees that
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f514d02b953fb9a1384da6d28434c7b9a773d2f7
+title: R2405H-PDF-ENG
+---
+# What Success Looks Like
 
-manages more than 2,000 client sites, they initiated a project to uncover
+Let’s conclude by taking a look at a company that has put all these
 
-the drivers of customer value. They discovered that safety accounted for
+elements together to make safety a performance driver. When a new
+
+SVP of strategy and a new CEO took over a facilities management

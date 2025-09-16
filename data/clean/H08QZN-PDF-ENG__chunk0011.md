@@ -1,17 +1,27 @@
-# followership.
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9e49bbbfb534768c6f40afccb2e5e0460df560a
+title: H08QZN-PDF-ENG
+---
+# stakeholders more eﬀectively.
 
-One of my coaching clients was a CEO who had spent his whole career
+Identify a style you’re overusing and try on new ones.
 
-at his company. Because of his deep institutional knowledge and a
+To help you assess which styles you tend to favor, consider how you
 
-scrappy, “roll up your sleeves and get it done” personality, he preferred
+show up across these six leadership styles, as provided by psychologist
 
-to operate in the weeds, involving himself in extremely tactical issues.
+Daniel Goleman’s research: directive (using command and coercion),
 
-This pacesetting style—hands on, detail oriented and pushing for his
+authoritative (deﬁning a vision to follow), pacesetting (insisting on high standards), aﬃliative (preferring personal bonds), democratic (seeking
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+consensus for decisions), and coaching (prioritizing individual growth).
 
-3
+Several factors inﬂuence your chosen style, from your personality and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+unique strengths, to how you were taught about leadership, perhaps
+
+from prior bosses or mentors. But comfort breeds complacency, and
+
+as needs change, your over-reliance on one approach can limit future

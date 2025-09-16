@@ -1,21 +1,25 @@
-# Some Caveats
+---
+source_path: H08S86-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e460a8bbde05cb9af1e1c4305f7b51615fb3111
+title: H08S86-PDF-ENG
+---
+## A new calendar or ﬁscal year—more than just a marker of time—is
 
-We recognize that appointing a new CEO at the start of the calendar
+imbued with meaning for people, often making them feel like they’ve
 
-year or the ﬁscal year might not always be possible for ﬁrms. At times,
+been given a fresh start. At the beginning of these cycles, employees
 
-companies need to dismiss their CEOs and rapidly appoint new ones.
+are more open-minded and willing to learn new skills or accept new
 
-Or a CEO might need to suddenly step down for health or personal
+ideas. As previous research has shown, atypical CEOs are more likely to
 
-reasons, hindering ideal appointment times. This said, we believe that
+enact major strategic change; we propose that aligning ﬁrm cycles with
 
-even those ﬁrms that must make more sudden changes could beneﬁt
+this period of heightened openness means that atypical CEOs’ strategic
 
-from our studies’ insights; for example, considering how they might
+initiatives are more likely to be accepted or enacted. We believe this
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+helps explain ﬁrms’ stronger performance when atypical CEOs’ start
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+dates are phase entrained.

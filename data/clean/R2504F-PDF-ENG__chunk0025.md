@@ -1,19 +1,21 @@
-## HBR / Magazine Article / Your Company Needs an Eldercare Policy
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 463dd85bedfadd7478b778aa0ab3a04a0af1d248
+title: R2504F-PDF-ENG
+---
+# Means of Support
 
-- a trustworthy source for reliable and aﬀordable professional caregivers
+Our recent study surveyed 800 employed adults who serve as elder
 
-(33%)
+caregivers, and 92% said they wished they had more support. Their
 
-- ﬁnancial assistance (32%)
+needs varied with individual and family circumstances, but some of the
 
-- more support from family, friends, and others in the community (30%)
+most common elements on their wish lists were:
 
-- people to step in to give the caregiver a break (28%)
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-- a professional to help create a care plan and work through any family
+6
 
-disagreements regarding the recipient’s care (28%)
-
-- training and support regarding simple medical tasks, such as
-
-medication management, injections, wound care, and managing
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

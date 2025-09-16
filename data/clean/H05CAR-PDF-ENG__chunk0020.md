@@ -1,21 +1,25 @@
-# HBR / Digital Article / How One Person Can Change the Conscience of an Organization
+---
+source_path: H05CAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43587633af1cf3e6139f478800662779c25fb504
+title: H05CAR-PDF-ENG
+---
+# The power of sequential skill building.
 
-chance you have, even if small, to hone your skills of challenging the
+Prior to GSK, Yamada had a lot of practice with smaller challenges,
 
-status quo for the greater good. Train your “courage for challenging
+from caring for the most complex patients in the intensive care unit, to
 
-convention” muscle consistently, so that it’s ready when needed. At
+becoming a department head and national leader in his ﬁeld. Along the
 
-GSK, he ﬁrst invited the input of his team, ultimately resulting in the
+way he also led other eﬀorts to change the status quo by actively helping
 
-plan to convert the Tres Cantos laboratory to a “not for proﬁt” disease
+more African Americans and women to join the gastroenterology faculty
 
-focus. He did not wait for someone else to speak out ﬁrst, or for a
+at the University of Michigan. The lesson is not to underestimate any
 
-committee to be formed to study the issue. He had built the skills to
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-quickly recognize the problem, and also to advocate for a better way—a
+3
 
-way GSK could become a leader in the ﬁght against diseases that might
-
-not be proﬁtable but would help countless individuals in dire need.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

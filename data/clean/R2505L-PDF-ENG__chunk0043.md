@@ -1,13 +1,27 @@
-## mobilize credible voices—customers, employees, and authoritative
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77797220dd60c49c8244014142492429c11df512
+title: R2505L-PDF-ENG
+---
+## authority rather than just by the company itself.
 
-third parties—to actively shape the narrative.
+Going beyond traditional methods, Taco Bell’s then-CEO, Greg
 
-. . .
+Creed, addressed concerns in a YouTube video, and employees
 
-The growing sophistication and reach of fake news pose a threat to
+and franchise owners spoke directly to customers in local media
 
-corporate reputations—even when the disinformation is blatantly false.
+interviews, reinforcing that the brand stood by its product. On social
 
-Traditional crisis response strategies, which focus on presenting factual
+media, Taco Bell actively engaged customers, responding in real
 
-evidence to refute false claims, are insuﬃcient. A robust response
+time to questions and encouraging satisﬁed consumers to share their
+
+experiences, creating a wave of organic social proof. The strategy
+
+worked. Negative online sentiment quickly declined, and within a
+
+few months, the lawsuit was withdrawn. When facing entirely false
+
+allegations, companies must not only correct the record but also

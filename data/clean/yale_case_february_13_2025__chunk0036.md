@@ -1,17 +1,37 @@
-# 17 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: 23a6088f229b866b400d5fe4117d448a0a5c0cc7
+title: yale_case_february_13_2025
+---
+# Endnotes
 
-14 McKeown, Greg. “Hire Slow, Fire Fast.” Harvard Business Review, Harvard Business Publishing, 3 Mar. 2014, hbr.org/2014/03/hire-slow-fire-fast. Accessed 24 Dec. 2024.
+1 Matthew LoCastro is a 2025 candidate for a JD degree at Yale Law School.
 
-15 Wilkin, Kurt. “Should You Fire a Bad Hire?” Harvard Business Review, Harvard Business Publishing, 31 Oct. 2022, hbr.org/2022/10/should-you-fire-a-bad-hire. Accessed 24 Dec. 2024.
+2 A. J. Wasserstein is the Eugene F. Williams, Jr. Lecturer in the Practice of Management at the Yale School of Management.
 
-16 Knight, Rebecca. “How to Decide Whether to Fire Someone.” Harvard Business Review, Harvard Business Publishing, 28 Jan. 2019, hbr.org/2019/01/how-to-decide-whether-to-fire-someone. Accessed 24 Dec. 2024.
+3 Flexner, Stuart Berg, and Anne H Soukhanov. Speaking Freely. Oxford University Press, USA, 1997;
 
-17 Wilkin, Kurt. “Should You Fire a Bad Hire?” Harvard Business Review, Harvard Business Publishing, 31 Oct. 2022, hbr.org/2022/10/should-you-fire-a-bad-hire. Accessed 24 Dec. 2024.
+Stuart Berg Flexner. Listening to America: An Illustrated History of Words and Phrases from Our Lively and Splendid Past. New York, Simon & Schuster, 1982.
 
-18 Rimm, Allison, and Celia Brown. “Knowing When to Fire Someone.” Harvard Business Review, Harvard Business Publishing, 7 Jan. 2015, hbr.org/2015/01/knowing-when-to-fire-someone. Accessed 24 Dec. 2024.
+4 “Designing and Administering Severance Pay Plans.” Www.shrm.org, Society for Human Resource Management, www.shrm.org/topics-tools/tools/toolkits/designing-administering-severance-pay-plans.
 
-19 Knight, Rebecca. “How to Decide Whether to Fire Someone.” Harvard Business Review, Harvard Business Publishing, 28 Jan. 2019, hbr.org/2019/01/how-to-decide-whether-to-fire-someone. Accessed 24 Dec. 2024.
+5 U.S. Department of Labor. “Vacation Leave | U.S. Department of Labor.” Www.dol.gov, U.S. Department of Labor, www.dol.gov/general/topic/workhours/vacation_leave. Accessed 24 Dec. 2024.
 
-20 “What Is a PEO? What Are Its Advantages and Disadvantages?” Www.shrm.org, www.shrm.org/topics- tools/tools/hr-answers/peo-advantages-disadvantages. Accessed 24 Dec. 2024.
+6 “An Employee’s Guide to Health Benefits under COBRA.” Dol.gov, U.S. Department of Labor, Sept. 2022, www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/an-employees-guide- health-benefits-under-cobra-2022.pdf. Accessed 24 Dec. 2024.
 
-21 Levy, Rachel Leiser. “Judicial Interpretation of Employee Handbooks: The Creation of a Common Law Information-Eliciting 2005, chicagounbound.uchicago.edu/uclrev/vol72/iss2/6/. Accessed 20 Dec. 2024.
+7 “FAQs on COBRA Continuation Health Coverage for Workers Q1: What Is COBRA Continuation Health Coverage?” U. S. Department of Labor.
+
+8 Jackson Lewis P.C. “Understanding the Costs of Employment Litigation.” Jacksonlewis.com, Jackson Lewis P.C., 2020, www.jacksonlewis.com/publication/understanding-costs-employment-litigation. Accessed 2 Dec. 2024.
+
+9 Hacker, Carol A. The High Cost of Low Morale—and What to Do about It. Boca Raton, Fl., St. Lucie Press, 1997.
+
+10 Navarra, Katie. “The Real Costs of Recruitment.” Society for Human Resource Management, Society for Human Resource Management, 11 Apr. 2022, www.shrm.org/topics-tools/news/talent-acquisition/real-costs-recruitment. Accessed 24 Dec. 2024;
+
+“Essential Elements of Employee Retention | Lynchburg Regional SHRM.” Shrm.org, Lynchburg Regional Society lrshrm.shrm.org/blog/2017/10/essential-elements-employee- for Human Resource Management, 2017, retention%20/. Accessed 25 Dec. 2024.
+
+11 “The Hidden Costs of Layoffs.” Harvard Business Review, 13 Dec. 2023, hbr.org/podcast/2023/12/the-hidden- costs-of-layoffs.
+
+12 Becker, Brian, et al. “The HR Scorecard: Linking People, Strategy, and Performance.” HBS Working Knowledge, Harvard Business Publisher, 2020, hbswk.hbs.edu/archive/the-hr-scorecard-linking-people-strategy-and- performance. Accessed 24 Dec. 2024.
+
+13 Siegel, David. “A More Humane Approach to Firing People.” Harvard Business Review, Harvard Business Publishing, 21 Aug. 2018, hbr.org/2018/08/a-more-humane-approach-to-firing-people. Accessed 24 Dec. 2024.

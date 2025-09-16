@@ -1,15 +1,27 @@
-## competitive pressures in these states but not in others.
+---
+source_path: H048OW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a797d68894db0d6f74024bf7adf8e4e17273768
+title: H048OW-PDF-ENG
+---
+## ﬁrm performance — rather than other skills and characteristics that may
 
-Our idea was that if the cultural heritage of a CEO matters to corporate
+have got them appointed to lead in the ﬁrst place. So we relied on a setting
 
-outcomes, then we would observe systematic differences between ﬁrms led
+where ﬁrms faced an unexpected competitive shock, one that directors
 
-by second- and third- generation CEOs and ﬁrms led by the control group,
+could not have anticipated and selected speciﬁc CEOs to manage it, and
 
-following shocks to competition. And this is what we found. Our data
+one that forced CEOs to make complex, non-routine, and unstructured
 
-showed that banks led by CEOs who are the children and grandchildren of
+decisions — decisions where CEOs’ characteristics are likely to affect how
 
-immigrants were, on average, associated with superior performance —
+they respond.
 
-measured by bank Return on Assets — following higher industry
+The banking industry experienced a series of profound competitive shocks
+
+in the 1990s. The one we used was the Interstate Banking and Branching
+
+Efficiency Act (IBBEA) of 1994 that legalized interstate branching in some
+
+U.S. states, such as Michigan or North Carolina, which increased

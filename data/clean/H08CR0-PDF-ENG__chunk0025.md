@@ -1,25 +1,21 @@
-## visibility meetings, the square footage of one’s oﬃce, access to exclusive
+---
+source_path: H08CR0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89fde103dfcc8bdb3f828bf1d2e0582ff5920072
+title: H08CR0-PDF-ENG
+---
+# Envy of Unhealthy Status Symbols
 
-perks, or high-proﬁle assignments — can create a zero-sum mentality
+When you sense people in your organization are becoming competitive
 
-when used to compare one’s relative importance to others. And when
+with peers as opposed to collaborative, or even envious of their
 
-high achievers feel they aren’t getting their due acknowledgment, they
+status, pay attention. These signals of self-involvement can devolve
 
-can be some of the ﬁrst to bend the rules.
+into “Why should they get all the recognition when I’ve done all the
 
-“Sue,” a client of Ron’s, faced this challenge when one of her high
+work?” thinking. Ironically, it’s the highest-achieving employees who
 
-performers came to her and said, “I’m frustrated that you gave Rick
+tend to be the least satisﬁed and therefore more prone to making
 
-the lead on the Midwest expansion project instead of me. I thought
-
-you’d said you would consider me for it.” Though Sue felt defensive at
-
-the implied entitlement, she remained curious and empathic instead.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+these comparisons. Cultural currencies — for example, attending high-

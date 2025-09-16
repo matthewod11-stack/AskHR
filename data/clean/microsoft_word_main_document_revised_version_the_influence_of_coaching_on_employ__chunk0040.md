@@ -1,7 +1,7 @@
-# Cassidy, M.F. & Medsker, K.L. (2009). Coaching and Performance Improvement, Performance Improvement
-
-Quarterly, 21(4), 3-4.
-
-Cohen, J. (1976). Statistical Power Analysis for the Behavioral Sciences. Orlando, FL: Academic Press Inc., Revised
-
-10
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: e49fbe19013d05f58858a6238d6233f3fc9b2bb9
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+# edition). New York, NY: Rutledge.

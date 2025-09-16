@@ -1,9 +1,27 @@
-## Stout, S. K., Slocum, J. W., & Cron, W. L. (1987). Career
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8a846d6874d88e2832627843ec332366d08a69b8
+title: industrial_organizational_psychology_an_applied_approach
+---
+## performance expectations. Social Psychology Quarterly, 55(1), 78–85.
 
-transitions of superiors and subordinates. Journal of Vocational Behavior, 30, 124–137.
+Stewart, R., Ellenburg, G., Hicks, L., Kremen, M., & Daniel,
 
-Strube, M. J., & Garcia, J. E. (1981). A meta-analytic investigation
+M. (1990). Employee references as a recruitment source. Applied H.R.M. Research, 1(1), 1–3.
 
-of Fiedler’s contingency model of leadership eﬀ ectiveness. Psychological Bulletin, 90, 307–321.
+Stimson, J. (2004). Recruiting via the Web: Firms using the Internet are netting results better than newspaper classiﬁ eds and cheaper than headhunters. Th e Practical Accountant, 39(7), 26–30.
 
-Stuhlmacher, A. F., & Walters, A. E. (1999). Gender diﬀ erences in negotiation outcome: A meta-analysis. Personnel Psychology, 52(3), 653–677.
+Stokes, G. S., Hogan, J. B., & Snell, A. F. (1993). Comparability of
+
+incumbent and applicant samples for the development of biodata keys: Th e inﬂ uence of social desirability. Personnel Psychology, 46, 739–762.
+
+Stokes, G. S., & Toth, C. S. (1996). Background data for
+
+personnel selection. In R. S. Barrett (Ed.), Fair employment strategies in human resource management (pp. 171–179). Westport, CT: Quorum.
+
+references
+
+661
+
+Stone, D. L., Gueutal, H. G., & McIntosh, B. (1984). Th e eﬀ ects of feedback sequence and expertise of the rater on performance feedback accuracy. Personnel Psychology, 37(3), 487–506.

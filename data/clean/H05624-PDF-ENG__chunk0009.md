@@ -1,25 +1,19 @@
-## organization Paid Leave for the United States that 77% of respondents
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4ba315d715154f84aeb8ac758716e849442c685
+title: H05624-PDF-ENG
+---
+## HBR / The Big Idea / Every Employee Should Have Access to Paid Parental Leave
 
-said that the amount of paid leave employers oﬀer would aﬀect their
+How do you demonstrate the return on investment?
 
-decision to pick one company over another. Again, it’s something that
+Well, we know that when Google expanded its paid leave [from 12 to
 
-will help you win talent. But we should also realize that it creates value
+18 weeks], attrition decreased by 50%. Of course, that’s correlation,
 
-that won’t always be reﬂected in the short-term numbers.
+not causation, but it’s a material change. And when you consider the
 
-What would you say to leaders of startups or small businesses or
+expense of recruitment and training new workers, it would amount
 
-non-tech companies who argue that they just can’t aﬀord to keep
-
-paying people to be away from work for several months?
-
-I would point to a company like sweetgreen, the fast-casual salad chain.
-
-The salad business is deﬁnitely not the software business, and they
-
-made the math work on ﬁve months of fully paid parental leave —
-
-even longer than ours at Initialized Capital. And I think that’s because
-
-they, and other employers like myself, realize that they will get more
+to a fantastic cost savings. We saw in one survey from the advocacy

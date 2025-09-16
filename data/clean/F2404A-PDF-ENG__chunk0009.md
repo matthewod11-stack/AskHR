@@ -1,17 +1,29 @@
-## advertising on social media, in newsletters and magazines, and at
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ce1b6915dd1c54c45c348cd386fa5fcdf08c40a
+title: F2404A-PDF-ENG
+---
+## HBR / Magazine Article / Why Entrepreneurs Should Think Like Scientists
 
-events. The entrepreneurs running them received training in various
+revenue generators in the experiment, the diﬀerences were especially pronounced. Among the top 25%, start-ups using the scientiﬁc method
 
-strategic frameworks as well as in evidence-gathering techniques such as qualitative interviews, surveys, and A/B testing. The key diﬀerence
+generated €28,000 more than the control companies did over the course
 
-between the control group and the treatment group was that the treatment group was also taught to employ the scientiﬁc method when
+of the experiment, on average, and among the top 5%, they made
 
-applying the frameworks and techniques. That required founders to
+€492,000 more.
 
-develop theories about elements of their proposed businesses and then
+“We started this research by asking ourselves, Why do so many
 
-test them through rigorous experiments. The control group’s founders,
+start-ups fail?” says Alfonso Gambardella, a professor of corporate
 
-on the other hand, were free to apply any frameworks and techniques in
+management at Bocconi University who is one of the study’s authors.
 
-the way they wanted.
+“After discussing the problem, we realized that many entrepreneurs
+
+were not very good at making predictions about their business. And this
+
+hurt them when it was time to make important decisions.”
+
+For the study, Gambardella and colleagues recruited 759 start-ups by

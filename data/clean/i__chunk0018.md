@@ -1,5 +1,33 @@
-# 1.2 Scope of the study
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 9ee78bb8227cf6ade4dfdd7bd37a5b6247560540
+title: i
+---
+## workers’ average working time at one corporation.
 
-This research's notable limitation is its reliance on secondary data sources. The dataset
+Pease et al. (2014, page 2) postulate the difference in beliefs and life experiences between
 
-employed for the purpose of data analysis is sourced from publicly available repositories.
+generations currently in the workforce. Isson (2016) suggests that the new generations enter
+
+the job market and bring different employer-employee dynamics, which should be understood.
+
+McKinsey's Global Growth Model study suggests that in 2015, the US Deloitte consulting
+
+ranked the cost for HR recruitment, retention, and relocation at 400 billion dollars. Expensive
+
+1
+
+as it was, employees, in general, report being underused at work. A survey by the talent
+
+mobility firm Lee Hecht Harrison reveals that 86% of workers say they often (62%) or
+
+sometimes (24%) feel underutilized in their jobs.
+
+The workforce, which considered to be the most valuable asset of many businesses, needs to
+
+be understood the same way companies understand their customers. Technology development
+
+has allowed corporations to retain and utilize their relevant data for analysis. The PA is believed
+
+to provide the HR department with tools to generate knowledge for decision-making.

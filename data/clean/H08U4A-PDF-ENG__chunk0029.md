@@ -1,9 +1,7 @@
-## listen and assist; build Rapport and relationships; Thank the person.
-
-The Clinic has institutionalized this model of professionalism into
-
-every aspect of its organization— from onboarding and training to
-
-performance feedback—and has visibly displayed it in staﬀ spaces.
-
-All staﬀ should know that they are expected to treat colleagues
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b77939d48c121ea8d3440a1965724014b798610
+title: H08U4A-PDF-ENG
+---
+## and greet warmly; Tell your name, role, and expectations; Actively

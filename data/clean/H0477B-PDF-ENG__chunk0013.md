@@ -1,25 +1,45 @@
-# (six).
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 941c0734b3bff8924d93965c57365dbc09db74d5
+title: H0477B-PDF-ENG
+---
+# HBR / Digital Article / Why Walmart Expanded Parental Leave — and How to Convince…
 
-So why did Walmart — sued just a few years ago by 1.5 million female
+from our associates that this was a benefit that was important to them,”
 
-employees for gender discrimination — become a leader on parental
+she told me.
 
-leave? Walmart has attributed the move to the recently passed corporate
+Walmart also recognized that what when workers have stability at work,
 
-tax cut, as have other companies expanding benefits or handing out
+they can thrive at home, according to Telfair. And when they can
 
-one-time bonuses, but there are reasons to be skeptical of this. For one
+thrive at home, they’ll have better work engagement, performance, and
 
-thing, the U.S. is currently near full employment, meaning the labor
+productivity. In other words, this was a business decision. Walmart’s
 
-market is tight; companies know they need to work harder to get the
+view is that, from a human capital management perspective, expanded
 
-best candidates. And corporate profits have been at all-time highs for
+parental leave makes a whole lot of sense. This is borne out by the data:
 
-years; I have trouble believing that companies flush with cash couldn’t
+research has shown that paid leave increases not only the probability
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+that new mothers will return to their jobs, but also increases the hours
 
-3
+they work when they do so.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+What’s remarkable about Walmart’s move is that it’s not just workers
+
+in low-paying jobs who are likely to cast an envious eye over Walmart’s
+
+paid parental leave. It’s also people who work at more “elite” employers,
+
+like Princeton University, which offers employees just two fully paid
+
+weeks, and Wellesley College, which offers just four. It includes
+
+employees at General Motors and Ford, where new mothers get only
+
+6-8 weeks at both, and new fathers get 2 weeks and bupkis, respectively.
+
+It includes workers at Cargill (two weeks) and Boeing (three) and CVS

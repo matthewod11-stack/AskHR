@@ -1,3 +1,23 @@
-# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07d7f6171f7d8800558b474b4933a3abea13ae40
+title: H08PLG-PDF-ENG
+---
+## After more than two years of build-up and buzz, headlines
 
-anxious about AI’s impact on jobs. In fact, trust in AI has been declining,
+are still promising that AI is introducing societal changes of
+
+revolutionary proportions. Meanwhile, there’s persistent unease about
+
+the socioeconomic fragility the technology could cause. Nobel
+
+laureates, such as MIT’s Daron Acemoglu, are worried about its capacity
+
+to worsen income inequalities, and ordinary American workers are
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

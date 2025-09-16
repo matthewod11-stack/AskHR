@@ -1,21 +1,21 @@
-## HBR / Magazine Article / The Uniqueness Trap
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6188bf4ee34c534308e52baf5fceca3ce2066e6
+title: R2502K-PDF-ENG
+---
+# something comparable.
 
-led change programs—were unique, but after disassembling them into
+If you can’t ﬁnd any direct analogues, break the project down into
 
-speciﬁc tasks and approaches, they found opportunities to leverage
+modules and subprocesses, which may then prove comparable across
 
-experiences from other projects. As he explained, “If you’re developing
+projects. One project leader at a major international bank told us that
 
-a run book for a go-live migration, you should talk to people who have
+many of its teams had believed that their projects—especially big IT-
 
-done migrations before. Or if you’re trying to estimate the lead times in
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-establishing your test environment for a new project, ask other projects
+7
 
-and teams for their experiences with lead times to get an outside view,
-
-and use this to challenge the inside view of your team.”
-
-If you can’t ﬁnd analogues inside your
-
-organization, look further aﬁeld. At a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,19 @@
-## HBR / Digital Article / Go Beyond the Basics to Support Nursing Parents at Work
+---
+source_path: H07VJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46283b126ce9012b5bf58d06ec389d40328b0619
+title: H07VJ8-PDF-ENG
+---
+## Fairness Act (PWFA) and the Providing Urgent Maternal Protections
 
-Beyond basic compliance lies an opportunity to revisit the culture
+for Nursing Mothers (PUMP) Act. How has your company met the
 
-within your workplace. My background includes auditing existing
+regulations in both bills? Has it simply complied, or has it taken extra
 
-parental and caregiver programs while projecting future needs. Through
+steps to support pregnant and nursing employees?
 
-these years and work with organizations, I have seen a great deal of
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-creativity and smarts in action. It is more than possible to go above basic
+1
 
-compliance — it is an obvious investment with a high ROI.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

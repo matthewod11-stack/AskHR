@@ -1,7 +1,19 @@
-## often complement various other productivity-boosting practices. For
+---
+source_path: H07VVF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edf3dbdf27af49bcb5f5c8dc0f0e58ee621c0172
+title: H07VVF-PDF-ENG
+---
+## environments. Crucially, these ﬂexible remote-work arrangements
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+maintain the readiness necessary to navigate the potentially disastrous eﬀects of the next unexpected natural disaster, whenever it may occur.
 
-4
+Evidently, ﬁrms today are considerably more remote-work-ready than
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they were in early 2020.
+
+While investments in remote-work readiness are not without cost, they
+
+can help minimize harm during increasingly likely natural disasters.
+
+Moreover, the investments required to establish remote-work readiness

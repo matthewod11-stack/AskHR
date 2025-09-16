@@ -1,9 +1,9 @@
-## health apps, free lunches, recharge days, wellness stipends—these
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85b4b667c29fee3da20b94ef9bc5b919e12ae756
+title: H08VNO-PDF-ENG
+---
+# The Perk Illusion
 
-oﬀerings are positioned as proof points of a supportive culture. But
-
-when perks are introduced in place of real operational change, they
-
-don’t just miss the mark. They backﬁre.
-
-In our study, one European tech ﬁrm rolled out a full suite of beneﬁts:
+When culture feels strained, many executives reach for perks. Mental

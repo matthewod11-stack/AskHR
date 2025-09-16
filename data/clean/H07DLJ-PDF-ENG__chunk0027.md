@@ -1,55 +1,37 @@
-# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bcf18c1d4462d8e259a67a5021bdeb3f62552739
+title: H07DLJ-PDF-ENG
+---
+# into it.
 
-ADI IGNATIUS:
+I think for me, I really taught myself. I would force myself to speak.
 
-My guess is, once you started to speak openly, and maybe publicly,
+I would grade myself, I would count how long I’d speak, how much I
 
-about that character trait, a lot of other people said, you know what? Me
+spoke. And eventually it got me to a level of comfort. I had multiple
 
-too. I’ve never been able to talk about it, but me too.
+speaking coaches, and it did take a lot of time to get here. But I think
 
-DEB LIU:
+that’s a reminder that almost anything is teachable.
 
-Absolutely. I share a lot about it and people seem surprised that this was
+The thing I hope, though, is that we don’t have to conform ourselves to
 
-such a struggle for me. But then it’s given a lot of people hope too. A lot
+what leadership looks like today. I hope that there are more ways that
 
-of people write me notes and say, “If you can do this, I can do this too.”
+people think leaders could look like. That there can be quiet leaders,
 
-And so it’s been really a great learning experience for me to talk more
+extroverted leaders. There can be leaders who lead in diﬀerent ways,
 
-about some of these challenges because I see so many people say, “It’s
+and that we can honor all of those things. But in the meantime, we do
 
-so great to see how far you’ve come and that you’re willing to share it.”
+have a model of leadership that is strongly biased towards extroversion.
 
-Because I think a lot of times, we don’t talk about it either.
-
-ADI IGNATIUS:
-
-All right. So let’s talk about Ancestry. You’ve been in the CEO role
-
-for nearly two years. I’d love to get a quick sense of what you’ve
-
-accomplished to date and what you want to accomplish coming up.
-
-DEB LIU:
-
-When I ﬁrst got here, one of the things that was really important to
-
-me was that we look at the next chapter of where we want to go. We’ve
-
-had a successful company in business for so many years. It’s a 35 year
-
-old company, and it’s an innovator in the space of discovering and
-
-documenting your family story and history.
-
-And so our next chapter was really something we call Ancestry for All.
-
-So how do we make the product more accessible to everyone who loves
+And that’s something which I felt like I needed to conform and learn.
 
 Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-14
+13
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

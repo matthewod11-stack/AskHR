@@ -1,1 +1,21 @@
-## the average compound annual growth rate of the domestic U.S. travel
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7fae868df77ef2ad6d447ec7fc40f4b21022e2bb
+title: S24021-PDF-ENG
+---
+## operations. Others—such as Danaher, Johnson & Johnson (for which I
+
+have provided consulting services in the past), and Berkshire Hathaway
+
+—took the opposite approach in pursuing diversiﬁcation strategies.
+
+How should companies decide which path to take in their pursuit
+
+of growth? It is tempting to think about such choices as simply a
+
+matter of identifying and exploiting immature, unsaturated markets
+
+with rapid overall growth potential. While market dynamics matter,
+
+there are other factors to consider. For example, from 1980 to 2019

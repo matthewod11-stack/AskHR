@@ -1,33 +1,23 @@
-# Applied Case Study
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d2e45cf8416ea3ff91ed57b1eee27206970d3a15
+title: industrial_organizational_psychology_an_applied_approach
+---
+## City of New London, Connecticut, Police Department
 
-The City of New London,
+198
 
-Connecticut, was developing a system to select police officers. One of the tests it selected was the Wonderlic Personnel Test, a cognitive ability test that was mentioned in this chapter. For each occupation, the Wonderlic provides a minimum score and
-
-a maximum score. For police officers, the minimum score is 20 and the maximum is 27. Robert J. Jordan applied for a job as a police officer but was not given an inter- view because his score of 33 (equivalent to an IQ of 125) made him “too bright” to be a cop. New London’s reasoning
-
-was that highly intelligent officers would get bored with their jobs and would either cause trouble or would quit. The New London deputy police chief was quoted as saying, “Bob Jordan is exactly the type of guy we would want to screen out. Police work is kind of mundane. We don’t deal in
-
-gunfights every night. There’s a personality that can take that.” Turnover was a great concern as the city spent about $25,000 sending each officer through the academy.
-
-In neighboring Groton, CT,
-
-also the police department uses the Wonderlic but tries to hire the highest scorers possible—a policy with which most I/O psychologists would agree.
-
-When New London’s policy received national publicity, the city became the butt of many jokes and the policy became a source of embarrassment to many of the residents. According to one resident, “I’d rather have them hire the right
-
-manor woman for the job and keep replacing them than have the same moron for 20 years.” Another commented, “Your average dunderhead is not the person you want to try to solve a fight between a man and his wife at 2:00 a.m.” The ridicule got so bad that another city ran an ad asking, “Too smart to work for New London? Apply with us”; San Francisco police chief Fred Lau encouraged Jordan to apply to the San Francisco Police Department; and Tonight Show host Jay Leno rewrote the theme song for the television show Cops to include, “Dumb cops, dumb cops, whatcha gonna do with a low IQ.”
-
-Jordan filed a lawsuit, but lost. The judge ruled, “Plaintiff may have been disqualified unwisely but he was not denied equal protection.” 7
-
-Do you agree with New London’s reasoning about being “too bright?”
+chapter 
 
 7
 
-Do you agree with the judge’s decision that it was not discriminatory to not hire people who are highly intelligent? Why or why not?
+7
 
 7
 
-How would you have determined the cognitive ability requirements for this job?
+7
 
-Information about this case can be found by following the Web links in the text website.
+). Excuses about not having the funds to notify applicants are probably not justified when one considers the ill feelings that may result from not contacting applicants. Don’t send the rejection letter immediately. The surprising results of a study by Waung and Brice () suggest that applicants react more positively if there is a delay in receiving the letter. Though these findings seems to go against the thought that applicants can better manage their job searches if they know they have been rejected, it may be that too quick of a rejection makes applicants feel as if they are such a loser that the organization quickly discarded them (e.g., the graduate school whose clerk rejected my application). Be as personable and as specific as possible in the letter. With the use of automated applicant tracking systems, it is fairly easy to individually address each letter, express the company’s appreciation for applying, and perhaps explain who was hired and what their qualifications were. In general, “friendly” letters result in better applicant attitudes (Aamodt & Peggans, ; Feinberg, Meoli- Stanton, & Gable, ). Including a statement about the individual who received the job can increase applicant satisfaction with both the selection process and the organization (Aamodt & Peggans, ; Gilliland et al., ). Do not include the name of a contact person. Surprisingly, research has shown that including such a contact decreases the probability that a person will reapply for future jobs or use the company’s products (Waung & Brice, ).
+
+Perhaps the most important thing to consider when writing a letter of rejec- tion is to be honest. Do not tell applicants that their resumes will be kept on file if the files for each job opening will not be used. Adair and Pollen () think rejection letters treat job applicants like unwanted lovers; they either beat around the bush (“There were many qualified applicants”) or stall for time (“We’ll keep your resume on file”). A study by Brice and Waung () supports these ideas as most organizations either never formally reject applicants, or when they do, take an average of almost a month to do so.

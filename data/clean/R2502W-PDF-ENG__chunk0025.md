@@ -1,17 +1,17 @@
-## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da896ef8ddf900edeffb5d93dbf5b6c125c33bc1
+title: R2502W-PDF-ENG
+---
+## and growth with a sharper vision and focus.
 
-Historically companies have looked to oﬀshoring and outsourcing
+Cost and time savings. Companies can transform many of their business processes and achieve new levels of eﬃciency by empowering
 
-to reduce costs. However, they found it cost-eﬀective only if they
+employees to leverage AI for discrete tasks.
 
-outsourced an entire process. Now, with AI assistants, people can access
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-expertise for individual tasks or steps within it, which allows them to
+6
 
-make improvements without having to move the entire process. The
-
-ease and low cost of handoﬀs to AI mean that many processes can now be run far more eﬃciently. In the future workers at all levels
-
-in a company may take on more-supervisory roles, approving actions
-
-and managing exceptions as AI agents increasingly handle end-to-end
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

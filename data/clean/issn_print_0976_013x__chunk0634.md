@@ -1,5 +1,9 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 7087358dfe44bdc5684ed1ceb7ae56b0d6097da0
+title: issn_print_0976_013x
+---
+## E-mail: parth_aggarwal_bba21s1@jimsindia.org
 
-about how well the contributions, presence, and perspectives of different groups of people are
-
-valued and integrated into an environment.” — Matt Bush, Culture Coaching Lead at Great
+64

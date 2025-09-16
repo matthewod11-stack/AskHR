@@ -1,1 +1,9 @@
-## The Fruits of Computation: Cognitive Science
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 618296609b4e5ece7b40690c6dec8d632dd8db02
+title: untitled
+---
+# The Modern Scientiﬁc Period 127
+
+program of the mind acts on and controls the ﬂow of infor- mation through the human information-processing system the way a computer’s program controls the ﬂow of informa- tion through a computer. The program arrives at decisions and controls the system’s—the body’s—behavior. The mind is what the brain does (Pinker, 1998). Cognitive psychology becomes a form of reverse engineering. In reverse engineer- ing, computer scientists take a chip and without opening it up, study its input-output functions and try to deduce what program controls the chip’s processing. Often this is done to imitate an existing chip without violating the patent holder’s rights. In psychology, experiments reveal the human mind’s input-output functions, and psychological theories attempt to specify the computational functions that intervene between input and output.

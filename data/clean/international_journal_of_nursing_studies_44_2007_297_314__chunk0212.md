@@ -1,13 +1,13 @@
-# ed. Jossey Bass, London.
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 0c3575cdd7a5fc9972f03d93b5fc08ee65064c22
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+## for Nurses. Iowa State University Press, Ames.
 
-Rambur, B., Palumbo, M., McIntosh, B., Mongeon, J., 2003. A statewide analysis of RN’s decision to leave their position. Nursing Outlook 51 (4), 182–188.
+Hinshaw, A., Atwood, J., 1985. Anticipated turnover among nursing staff study. Final report. National Institutes of Health, National Center for Nursing Research, Bethesda. Hinshaw, A., Smeltzer, C., Atwood, J., 1987. Innovative retention strategies for nursing staff. Journal of Nursing Administration 17 (6), 8–16.
 
-Rosenzweig, P., 1994. When can management science research be generalised internationally? Management Science 40 (1), 28–39. Royal College of Nursing, 2002. Royal College of Nursing Congress 2002 report summary. Nursing Standard 16, 4–9.
+Irvine, D., Evans, M., 1995. Job satisfaction and turnover among nurses: integrating research ﬁndings across studies. Nursing Research 44 (4), 246–253.
 
-Saleh, S., Lee, R., Prien, E., 1965. Why nurses leave jobs. An analysis of female turnover. Personnel Administration 28, 25–28.
-
-Larrabee, J., Janney, M., Ostrow, C., Withrow, M., Hobbs, G., Burant, C., 2003. Predicting registered nurse job satisfaction and intent to leave. Journal of Nursing Administration 33 (5), 271–283.
-
-Lu, K.-Y., Lin, P.-L., Wu, C.-M., Hsieh, Y.-L., Chang, Y.-Y., 2002. The relationships among turnover intentions, profes- sional commitment, and job satisfaction of hospital nurses. Journal of Professional Nursing 18 (4), 214–219.
-
-Maslow, A., 1970. Motivation and Personality, second ed.
+Kouzes, J., Posner, B., 2003. The Leadership Challenge, third

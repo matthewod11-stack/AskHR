@@ -1,11 +1,17 @@
-# “Takeaway,” making it STAR(T).
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6bc6b3c59903724615a6abb478703d599a83efe1
+title: H08GNF-PDF-ENG
+---
+# skills).
 
-- Have bullet-point notes: Keep keyword notes near you if you’re
+- Connect the dots: Highlight transferable skills learned from real-life
 
-interviewing virtually, with key responsibilities of the job and your
+examples or through diﬀerent responsibilities and connect the dots on
 
-related skills listed side-by-side.
+how they can be applied to the new job. Don’t expect interviewers to
 
-- Time yourself: Aim to answer every question in under two minutes—
+connect them!
 
-even when answering interview questions that don’t require the STAR
+- Be authentic: Share genuine experiences and lessons learned in a

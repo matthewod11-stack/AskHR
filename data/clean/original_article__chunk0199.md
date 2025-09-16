@@ -1,11 +1,13 @@
-# Charas
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: ad23b956a8173966dfe474b2de560cf15b4b4d5c
+title: original_article
+---
+# and mapping
 
-interaction: A cross-cultural comparison of US and Spanish MBA teams. Cross Cultural Journal 16(1): Management: An International 5–27.
+© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
 
-Preacher, K.J. and Hayes, A.F. (2004) SPSS and SAS procedures for estimating indirect effects in simple mediation models. Behavior Research Methods 36(4): 717–731.
+129
 
-Lorsch,
-
-of Boards: Meeting the Governance Challenges of the 21st Century. Boston, MA: Harvard Business Press. Madden, T.J., Ellen, P.S. and Ajzen, I. (1992) A comparison of the theory of planned behavior and the theory of reasoned action. Personality and Social Psychology Bulletin 18(1): 3.
-
-J.W.
+130

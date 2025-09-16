@@ -1,7 +1,9 @@
-# business.
+---
+source_path: H07Z1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1742a605001845c118d0f48f42ba6cf9c6571a9
+title: H07Z1A-PDF-ENG
+---
+## person interaction, and a continued lack of enterprise-wide incentives
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+have created even more obstacles to working together across the

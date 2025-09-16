@@ -1,39 +1,25 @@
-# achieve.
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d85d64b73a7d2d90f230ab6d201318f8fdbf0c2e
+title: H08EDN-PDF-ENG
+---
+# HBR / Digital Article / How to Learn from Your Mistakes and Make Better Decisions
 
-For example, Stacey initially deﬁned her problem in the following
+To apply lessons from your past decisions to your current situation, I
 
-way: “I want to create a new chief operating oﬃcer position and hire
+recommend asking the following questions:
 
-someone who is well qualiﬁed for the role, who is a good ﬁt for our
+- 1. What is the decision you’re facing now?
 
-organization and who will remain in the position for years to come.”
+The ﬁrst step in a thoughtful decision process is to get clear on
 
-But this statement was more about her hopes and dreams. It didn’t get
+the current problem that you want to solve. While this may sound
 
-at the problem she actually needed to tackle.
+straightforward, I often ﬁnd that people skip this step which may lead
 
-I guided Stacey to step back to look at the context of her decision. Stacey
+to an incomplete or unsatisfactory solution. At times people begin
 
-was then able to identify that the real problem she needed to solve
+problem solving from inside the problem and deﬁne it too narrowly,
 
-related to the hiring process itself: “I want to make a decision about
-
-how to move forward with the recruiting and hiring process for the new
-
-chief operating oﬃcer position so that I can ﬁnd someone who is well
-
-qualiﬁed for the role, a good ﬁt for our organization and who will remain
-
-in the position for years to come.”
-
-- 2. What is it about the current decision that is stressful for you, and what is your go-to approach for solving it?
-
-This question helps you reduce uncertainty in two ways. First,
-
-identifying what’s uncomfortable about the decision you face brings
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or they even skip over the problem itself to a solution they’d like to

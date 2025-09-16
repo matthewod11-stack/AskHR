@@ -1,19 +1,15 @@
-# brain.”
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73bd3ef0adfc295bcdbcd9886f13fd69c3cc565a
+title: H07VWF-PDF-ENG
+---
+## of Southern California, studies this particular shift and the importance
 
-For dads, the brain changes initiated by cues from their babies link
+of early parenting experience on the structural and functional changes
 
-to the father-infant connection, suggesting that such neural changes
+related to the “fathering brain.” This research has led Saxbe and fellow
 
-prepare the brain for fatherhood. One key factor in this research is that
+researcher Soﬁa Cárdenas to emphasize that “fathers are made, not
 
-the most impactful, neurologically expanding experience is engaged
-
-experience. “No one is born with this magic ability to fall into the
-
-[parent] role easily. But we need to do the work of fully engaging
-
-because that is the thing that’s going to drive the neurobiological
-
-changes to give them the tools that they need to build over the
-
-long term,” explains Chelsea Conaboy, author of Mother Brain: How
+born: Time with infants is a key ingredient in building the fathering

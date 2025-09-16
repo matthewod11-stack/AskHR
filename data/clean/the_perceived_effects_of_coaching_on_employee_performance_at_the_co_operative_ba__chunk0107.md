@@ -1,9 +1,17 @@
-# Improvement in Individual Performance
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: a18c5a8cdffa1c9707f24bbf7dc7f929db4d5e6e
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+## Figure 4.2.4: Support and development responses
 
-The respondents who had undergone a coaching program were unanimous in their
+Coaching is an integrated part of a training and development program. This method
 
-responses that their performance has improved tremendously which in turn has
+is associated with coaching success. The findings also suggest that organizations
 
-impacted on the overall performance of the bank. The key perspectives of individual
+that want to train internal coaches should consider internal as well as externally
 
-performance include financial, customer, internal business processes and learning
+coaching programs.
+
+4.3(cid:32)

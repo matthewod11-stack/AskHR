@@ -1,15 +1,25 @@
-## HBR / Digital Article / When a Coworker You Don’t Like Becomes Your Boss
+---
+source_path: H08DIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29ea4de005607e020d4e4fccdb35de24657a58ce
+title: H08DIY-PDF-ENG
+---
+# Address the elephant in the room.
 
-you’ve clashed, and then with genuine sincerity and curiosity, explain
+If after trying these strategies the relationship still hasn’t improved,
 
-that you’re committed to helping the team succeed and ask how you can support that eﬀort.
+it may be time to address the issue head on. You can opt for two
 
-If you suspect that your boss won’t be receptive to feedback, might
+approaches depending on the nature of the relationship.
 
-react negatively, or isn’t even aware of the problem, try a less direct
+If you believe your colleague-turned-manager is open-minded and self-
 
-approach. You might ask what they believe will be the keys to successful
+aware, ﬁnd a time for honest and vulnerable conversation. Start by
 
-collaboration, what they value in reporting relationships, and what
+taking ownership and accountability for speciﬁc situations in which
 
-speciﬁc actions you should (and shouldn’t) take to help them achieve
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

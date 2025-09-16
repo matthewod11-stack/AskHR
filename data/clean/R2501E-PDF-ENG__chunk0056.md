@@ -1,15 +1,11 @@
-## wholesale business model, a total lack of brands, and no community.
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 449544d798ce77d95b2fc085768cbceb334248e4
+title: R2501E-PDF-ENG
+---
+## FIGS serves, along with its suppliers, shareholders, and other key
 
-FIGS changed all that. Through technically advanced materials that had
+partners. The healthcare apparel industry had been much the same
 
-previously been used only for athletes, a direct-to-consumer business
-
-model, and a ﬁrst-of-its-kind community that FIGS built from scratch, it
-
-became the brand for healthcare professionals. No one can convey that
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+for 100 years, consisting of commoditized products, an out-of-date

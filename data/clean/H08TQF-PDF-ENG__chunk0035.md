@@ -1,19 +1,9 @@
-## remain largely opaque in their decision-making processes.
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f2604cf27384dfc41ed7dd04dd1a0a810d3db9f
+title: H08TQF-PDF-ENG
+---
+## contextual considerations—that guide real-life professional decision-
 
-We essentially had no choice, then, but to ensure our system generated
-
-explicit rationales for every decision, showing which clinical criteria
-
-were evaluated and how they mapped to speciﬁc policy requirements.
-
-This wasn’t just about regulatory compliance; it became essential
-
-for earning physicians’ trust. Transparent reasoning proved vital for
-
-enabling eﬀective human-AI collaboration.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+making. Generalist models, despite their impressive capabilities,

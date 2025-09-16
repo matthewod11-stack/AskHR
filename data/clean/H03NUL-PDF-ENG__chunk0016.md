@@ -1,9 +1,25 @@
-# cares about more than the bottom line.
+---
+source_path: H03NUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc2545f758b89f038f95fca8d708a8a12eecf47f
+title: H03NUL-PDF-ENG
+---
+# origin.
 
-This article was originally published online on May 16, 2017.
+Tech companies need consumers’ trust now more than ever. Deserved
 
-Copyright © 2017 Harvard Business School Publishing. All rights reserved.
+or not, tech is getting blamed for an array of societal ills, from social
 
-4
+media perpetuating fake news to artiﬁcial intelligence taking away
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+jobs. Trump’s executive order will likely be challenged in other high-
+
+proﬁle cases, giving companies an opportunity to highlight how their
+
+innovations help refugees ﬂeeing conﬂict. The industry can use future
+
+amicus briefs to make stronger collective arguments to the courts and
+
+to the public. In speaking up for the most vulnerable members of our
+
+global community, the tech industry would send the message that it

@@ -1,37 +1,17 @@
-# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0562e340c96ff0fbede885cc8652a347bca48a56
+title: H08Q8O-PDF-ENG
+---
+## adapt policies. In one of the North American oﬃces of an international
 
-not. Many assistants had longer commutes and more-complicated
+law ﬁrm, the president realized that while the senior partners were
 
-childcare situations than the senior partners. Aware of the importance
+ready to go back to the oﬃce full-time, their personal assistants were
 
-of the assistants’ work and acknowledging the necessity for his ﬁrm to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-retain them, the CEO decided to adapt the policy to their needs and
+14
 
-allow them to work from home several days a week. In consequence, he
-
-told the senior partners that they would have to adapt and get used to
-
-not having their personal assistants on-site all the time.
-
-Our view is not that policies should never be set or that existing ones
-
-be abolished but that they should be treated as values rather than rules.
-
-Novo Nordisk doesn’t have an enforced rule about hybrid work but
-
-rather it has a formal opinion, which is that people should work in the
-
-oﬃce a little more than at home. So on average you should be working
-
-in the oﬃce more than 2.5 days a week. But one manager we spoke
-
-to explained, “We believe in ﬂexibility,” meaning that employees have
-
-a variety of hybrid work arrangements and exceptions can be granted for diﬀerent reasons. Attentive adaptability suggests that to rebuild
-
-the psychological contract, managers need to move away from a rigid
-
-standard and instead think of a template with guidelines that can be
-
-discussed with employees.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,13 @@
-# pay equity within their teams.”
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1025daccaf70e7a400c8ddffa4dce3a11f4b471b
+title: H08PPX-PDF-ENG
+---
+# inclusive hiring.”
 
-Instead of saying, “We expect all employees to create an environment
+Instead of stating, “We foster a culture of inclusion,” leaders should be
 
-where everyone feels like they belong,” leaders should say, “Employees
+more speciﬁc, saying, “In every leader’s performance review, we include
 
-are expected to contribute and invite diverse perspectives in meetings,
-
-complete annual training on bias mitigation, and speak up if they
+objectives related to participating in mentorship programs and ensuring

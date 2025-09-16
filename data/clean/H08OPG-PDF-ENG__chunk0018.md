@@ -1,15 +1,21 @@
-## HBR / Digital Article / What Is the Office for Today?
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63695a57e7c32a5250fd5ea5dd548ed9c966de72
+title: H08OPG-PDF-ENG
+---
+## and cohesion in teams, both essential elements of group performance.
 
-diverse perspectives faster and to better achieve innovative solutions.
+My own experience studying high-performing technology teams (i.e.,
 
-In other words, to win. To be sure, over the entire lifecycle of a
+in robotics competitions) has shown that when facing a particularly
 
-robotics project, many activities can be workspace agnostic, with work
+complex problem to solve, teams almost instinctively organize
 
-happening anywhere. And team members’ social bonds are fostered and
+themselves to work together in physical proximity in order to integrate
 
-maintained through various points of connectivity which we now would
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-call hybrid—both online and in-person experiences. But what holds
+4
 
-the team together throughout is a shared mental model of achieving a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

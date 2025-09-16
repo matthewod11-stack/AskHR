@@ -1,29 +1,25 @@
-## from our people—and from ourselves—is not, for the most part, tidy
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 903907239b24be6f4030281ae6225af0392a1fdc
+title: The Feedback Fallacy
+---
+## today. The arguments for radical candor and unvarnished and pervasive
 
-adherence to a procedure agreed upon in advance or, for that matter,
+transparency have a swagger to them, almost as if to imply that only
 
-the ability to expose one another’s ﬂaws. It’s that people contribute their
+the ﬁnest and bravest of us can face these truths with nerveless self-
 
-own unique and growing talents to a common good, when that good is
+assurance, that those of us who recoil at the thought of working in a
 
-ever-evolving, when we are, for all the right reasons, making it up as we
+climate of continual judgment are condemned to mediocrity, and that
 
-go along. Feedback has nothing to oﬀer to that.
+as leaders our ability to look our colleagues squarely in the eye and lay
 
-We humans do not do well when someone whose intentions are unclear
+out their faults without blinking is a measure of our integrity.
 
-tells us where we stand, how good we “really” are, and what we must do
+But at best, this fetish with feedback is good only for correcting
 
-to ﬁx ourselves. We excel only when people who know us and care about
+mistakes—in the rare cases where the right steps are known and can
 
-us tell us what they experience and what they feel, and in particular
-
-when they see something within us that really works.
-
-A version of this article appeared in the March–April 2019 issue of Harvard Business Review.
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-17
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+be evaluated objectively. And at worst, it’s toxic, because what we want

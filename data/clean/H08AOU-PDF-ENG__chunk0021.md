@@ -1,7 +1,23 @@
-## few key types of opportunities rather than all types, random variation in
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd751d4d3ed08da4e9f2e969c1fffce4c4f26fd0
+title: H08AOU-PDF-ENG
+---
+# from men.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Interrupting bias in access to career-enhancing work is not one and
 
-5
+done. In both departments of the energy company, men initially
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+received more of another kind of career-enhancing work: opportunities
+
+to work on corporate products. Post-workshop, department A took a
+
+small step toward reducing this gap from 22 percentage points to 18
+
+points. This is a move in the right direction, but more work is still
+
+needed to reach parity. (There are many reasons why organizations
+
+improve quickly in some areas and more slowly in others: focusing on a

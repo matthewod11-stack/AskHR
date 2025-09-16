@@ -1,29 +1,31 @@
-## Many ﬁrms, staﬀed with smart people and cutting-edge analytics, count
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84c965c12e7d96952ca5dd20f7e7f4f14a1bd123
+title: H08GJ6-PDF-ENG
+---
+## robust discrimination of project attractiveness at the extremes. When
 
-themselves lucky when a tenth of the innovations they pursue are
+you are in the lucky spot of being able to fund almost all of few
 
-successful. Adjusting the committee’s decision rule can thus quickly
+proposals, scoring will serve you well. But if you aim to isolate the best
 
-make a commercial diﬀerence, even if it is just one more project than
+ﬁve of a few dozen proposals, go with ranking.
 
-usual that is correctly accepted or rejected, respectively.
+Big ﬁrms often already operate a sophisticated innovation process, have
 
-Our research recommends ranking in many situations. Many people are
+experience with the winning products of the past but not the future,
 
-familiar with the process of ranking something. Adopting a ranking rule
+and receive plenty more proposals than they can fund. Our decision tree
 
-for portfolio selection thus is not a wrenching ask. Naturally, it is not
+would thus lead them to the ranking decision rule, a simple collective
 
-the only means of improving innovation success rates. But compared to
+rule that strikes a balance between robustness and discrimination.
 
-adjusting the salary incentives for your innovators, or redesigning the
+Scoring, which is discriminating but not robust, sometimes is a decent
 
-internal resource-allocation process, it looks like a quick win.
+second choice. Voting, although robust and well suited to screening tasks such as jury deliberations or medical diagnosis, insuﬃciently
 
-This article was originally published online on December 2, 2024.
+discriminates between project options to enhance portfolio selection.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+. . .

@@ -1,11 +1,15 @@
-## positive reception of the work and the person.
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6444736537ff862bd4f1e45cf2aa972d9d3fe0e1
+title: H08HIY-PDF-ENG
+---
+## In addition, formal programs around sponsorship, mentorship, and
 
-- 4. Conducting regular inventories of workplace practices
+allyship can help companies navigate bias-prone situations so that
 
-To ensure that inclusion eﬀorts are sustainable and frequently
+each employee is represented and valued for their true capabilities.
 
-improved upon, managers need to know where the pain points are
+Mentors need to commit to exposing protégées to high-impact projects,
 
-and what might help resolve them — especially for issues that might
-
-otherwise ﬂy under the radar, such as bias against a mental health
+increasing their visibility, and lending their own names to promote a

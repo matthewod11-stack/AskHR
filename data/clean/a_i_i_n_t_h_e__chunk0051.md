@@ -1,13 +1,25 @@
-# Conclusion
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: 109ccd31907aa14b1b1d5d562108ac3f6e4e500e
+title: a_i_i_n_t_h_e
+---
+# Set bold automation goals
 
-Learning from each other
+How we automate our own work at OpenAI
 
-As the previous examples show, every business is full of opportunities to harness the power of AI for improved outcomes. The use cases may vary by company and industry but the lessons apply across all markets&
+At OpenAI, we live with AI every day, so we’re often spotting new ways to automate our own work.j
 
-The common theme: AI deployment bene(cid:30)ts from an open, experimental mindset, backed by rigorous evaluations, and safety guardrails. The companies seeing success aren’t rushing to inject AI models into every work!ow. They’re aligning around high-return, low-eOort use cases, learning as they iterate, then taking that learning into new areas$
+An example: Our support teams were getting bogged down, spending time accessing systems, trying to understand context, craft responses, and take the right actions for customers5
 
-The results are clear and measurable: faster, more accurate processes; more personalized customer experiences; and more rewarding work, as employees focus on the things peopleX do best&
+So we built an internal automation platform. It works on top of our existing work7ows and systems to automate rote work and accelerate insight and action5
 
-We’re now seeing companies integrating AI work ows to automate increasingly sophisticated processes—often using tools, resources, and other agents to get things done&
+Our ,rst use case: working on top of Gmail to craft customer responses and trigger actions.h Using our automation platform, our teams can instantly access customer data and relevant knowledge articles, then incorporate the results into response emails or speci,c actions—suchh as updating accounts or opening support tickets3
 
-We’ll continue to report back from the front lines of AI to help guide your own thinking.
+By embedding AI into existing work7ows, our teams are more e(cient, responsive, and customer- focused. This platform handles hundreds of thousands of tasks every month, freeing people to do more high-impact work. Not surprisingly, the system is now spreading across other departments3
+
+It happened because we set bold automation goals from the start, instead of accepting ine(cient processes as a cost of doing business.
+
+21
+
+AI in the Enterprise

@@ -1,15 +1,13 @@
-## HBR / Digital Article / The Challenges of Becoming a Less Hierarchical Company
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5787f356aefdcf78fe3d8c917cb25fa3357628c7
+title: H082JA-PDF-ENG
+---
+# organizational structure.
 
-Adapting external ideas to the internal culture. Determining how to eﬀectively ﬂatten an organization’s structure can
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-be daunting. Enter consultants, who can provide guidance and best
+7
 
-practices. To gain initial traction, Avinsa’s leaders partnered with an
-
-organization that helps companies and other collectives learn how to
-
-organize in a decentralized way. However, it soon became apparent
-
-that adopting an established model for decentralization like holacracy,
-
-sociocracy, or teal — as the consultants had suggested — would not
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

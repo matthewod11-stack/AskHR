@@ -1,17 +1,11 @@
-# local leaders in the planning process.
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cecaeb9670a2dfc8e3d9152df1ad514b63a589c7
+title: H053C9-PDF-ENG
+---
+# HBR / Digital Article / How Multinationals Can Help Advance LGBT Inclusion Around th…
 
-Use technology: Where permitted, send e-newsletters or intranet articles
+a “lunch-and-learn sharing session” on LGBT rights; the format had worked well in other oﬃce locations but did not ﬁt with Singaporean
 
-about LGBT initiatives to employees in tougher LGBT locations. Amplify
-
-LGBT content through social media. One interviewee noted that when
-
-EY launched a rainbow version of its logo, its dissemination through
-
-social media “has probably given us more visibility in many of those
-
-tough countries that we never thought we would have visibility in.”
-
-Companies can also use technology for LGBT events to build comfort
-
-levels among participants. At Microsoft in India, employees attended
+culture. To ensure that such initiatives are culturally relevant, involve

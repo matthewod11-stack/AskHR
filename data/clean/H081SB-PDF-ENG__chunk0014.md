@@ -1,7 +1,15 @@
-# Raise awareness.
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea13ab80a32bba838a08c3de8b4316b46f04b96f
+title: H081SB-PDF-ENG
+---
+# How to Make Compensation More Equitable
 
-First and foremost, it’s critical for employers to raise awareness about
+The good news is, our research highlights several strategies that can
 
-the impact of pay inequity across their organizations. That means
+help managers and leaders address these issues, ensuring that both new
 
-dedicating time and resources to training not just for HR teams, but
+hires and existing employees — especially top performers — are treated
+
+fairly and set up for success.

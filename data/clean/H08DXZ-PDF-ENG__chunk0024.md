@@ -1,13 +1,9 @@
-## move-in date with their respective property managers.
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edb269e7ef67b07cb9961f775712636a860d5b8b
+title: H08DXZ-PDF-ENG
+---
+## HBR / Digital Article / The Most Effective Negotiation Tactic, According to AI
 
-Judith asked, “Why do you need us to move in next week?” Her property
-
-manager responded, “Look, I’ve got other tenants to manage, and if you
-
-delay, it’s going to mess up my entire schedule. I’ve already bent over
-
-backward to get you what you wanted, but this is non-negotiable.”
-
-Judith’s question uncovered the utmost importance of the move-in date
-
-for the landlord (italicized terms), but the response also carried some
+business owners in our negotiation experiment, each negotiating the

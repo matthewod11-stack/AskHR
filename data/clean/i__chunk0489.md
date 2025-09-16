@@ -1,1 +1,7 @@
-# Then we create training and test set, with 25% of the data in the test set
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 90b0b50262bf840f7eb17819a18d3f07e444e1d0
+title: i
+---
+# y3= attrition_data['Attrition']

@@ -1,9 +1,15 @@
-## https://qspace.qu.edu.qa/handle/10576/28043
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: ab66c04a1422bc28cd0709a3a75fb188be0e8529
+title: issn_print_0976_013x
+---
+# innovation: An empirical study on korean manufacturing firms from the perspective of
 
-Pozzo, R., Filippetti, A., Paolucci, M. and Virgili, V. (2020). What does cultural innovation stand
+optimal distinctiveness. Journal of Open Innovation: Technology, Market and Complexity,
 
-for? Dimensions, processes, outcomes of a new innovation category. Science and Public
+6 (4), https://doi.org/10.3390/joitmc6040121
 
-Policy, 47 (3), 425-433, https://doi.org/10.1093/scipol/scaa023
+Rédha, B., Yasser, A., Brahim, B., and Chatti, C. B. (2022). Organizational trust and its impact
 
-Science Daily. (2011). Conformity does not necessarily mean good teamwork, study finds.
+on the organizational commitment of human resources. Qatar University Digital Hub. from

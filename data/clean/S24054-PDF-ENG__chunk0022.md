@@ -1,37 +1,65 @@
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9fd5bf77d4dcaabff5f8802d9db48f4c1f68892
+title: S24054-PDF-ENG
+---
 ## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
 
-Brady with offensive players at the University of Michigan, in 1999 Harry How/Getty Images
+up their performance, you’re also keeping them from bringing down
 
-In his leadership style, Coach Belichick never got too close to his
+everyone else’s. People don’t always appreciate this work, but it’s what
 
-players. He wasn’t one to mingle and form personal relationships with players or coaches, because it’s diﬃcult to do that when you know
+leaders must do.
 
-you’ll have to trade, cut, or ﬁre most of them at some point down the
+I sometimes talk about inputs and outputs, and although that is mostly
 
-road. So I often took the opposite approach: I tried to get to know
+about putting in the preparation and practice (inputs) to get a win
 
-my teammates deeply and show that I cared about them personally.
+(output), it also refers to team composition. If you add the wrong players
 
-I asked about their families and the things going on in their lives
+to the mix—people who are undisciplined or self-centered—that’s a
 
-oﬀ the ﬁeld. I made it clear that if we connected as teammates,
+negative input, and it will lead to negative outputs. By working with
 
-they’d be my teammates for life, and I’ve tried to live up to that. My
+those players to help them manage their emotions, leaders help to
 
-relationships are the most important thing in my life. I like to think my
+improve both the inputs and the outputs.
 
-style complemented Coach Belichick’s. I was lucky to play for a coach
+Understand and complement the style of the formal leader. I spent
 
-who was so smart, hardworking, and focused on discipline—a coach
+most of my career playing for Bill Belichick. He’s the greatest coach in
 
-who relentlessly held people accountable for doing their job. He was
+the history of the NFL, and many fans are familiar with his coaching
 
-fortunate to have someone like me who could recognize where the team
+style. He’s very intense and matter-of-fact. He grew up as the son
 
-was at emotionally, rally the troops, and pull people together.
+of a coach at the Naval Academy, and that’s where he learned his
+
+coaching style. He is a product of that rigorous military environment.
+
+The focus was on discipline and accountability, not on empathy or
+
+compassion. No matter how we played, Coach Belichick’s coaching
+
+style was to motivate the team by looking for weaknesses and areas
+
+to improve. There’s an argument that players need that. Pro athletes
+
+have a lot of people in our lives—families, girlfriends, wives, agents,
+
+fans—telling us how great we are. Coach Belichick always wanted to
+
+keep us from buying into those narratives and becoming complacent.
+
+We all felt fortunate to play for him, and there were many beneﬁts
+
+to his approach, but his motivational style—often based on fear—was sometimes diﬃcult. So as a team leader, I tried to complement that
+
+approach by being a bit more upbeat.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-11
+10
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,13 @@
-# @vgovindarajan
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7fe686f7a8da3eb772fdd4a3b2612f20c5f0fc48
+title: H08SNU-PDF-ENG
+---
+## HBR / Digital Article / In Turbulent Times, Consider “Strategic Subtraction”
 
-Daniel J. Finkenstadt is a U.S. military oﬃcer, an academic researcher, and the principal of Wolf Stake Consulting. He is a coauthor of the books Supply Chain Immunity (2023) and Bioinspired Strategic Design (2024).
+space where breakthroughs can grow and position their organizations to be ﬁrst oﬀ-the-blocks when the rebound arrives.
 
-Tojin T. Eapen is the founder of the Center for Creative Foresight, a senior fellow at the Conference Board, and an adviser at StratRocket.
+This article was originally published online on June 17, 2025.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Vijay Govindarajan is the Coxe Distinguished Professor at Dartmouth College’s Tuck School of Business, a Dartmouth-wide chair and the highest distinction awarded to Dartmouth faculty; a Faculty Partner in the Silicon Valley incubator Mach49; and Senior Advisor at the strategy consulting ﬁrm Acropolis Advisors. He is a New York Times and Wall Street Journal bestselling author. His latest book is Fusion Strategy: How Real-Time Data and AI Will Power the Industrial Future. His Harvard Business Review articles “Engineering Reverse Innovations” and “Stop the Innovation Wars” won McKinsey Awards for best article published in HBR. His HBR articles “How GE Is Disrupting Itself” and “The CEO’s Role in Business Model Reinvention” are HBR all-time top-50 bestsellers. Follow him on LinkedIn.

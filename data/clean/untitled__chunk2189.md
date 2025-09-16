@@ -1,9 +1,15 @@
-# Chautauqua-Century Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4bd8720fc05989f8458e04dfd92ba5c55cf97e69
+title: untitled
+---
+# York: Collier-Macmillan.
 
-Shartle, C. L. (1950). Industrial psychology. Annual Review of
+Roethlisberger, F. J., & Dickson, W. J. (1939). Management and the worker. Cambridge, MA: Harvard University, Graduate School of Business Administration.
 
-Psychology, 1, 151–172.
+Scott, W. D., & Hayes, M. H. S. (1921). Science and common
 
-Society for Industrial and Organizational Psychology. (1987). Prin- ciples for the validation and use of personnel selection proce- dures (3rd ed.). College Park, MD: Author.
+sense in working with men. New York: Ronald Press.
 
-Society for Industrial and Organizational Psychology. (1989). Graduate industrial/organizational psychology and organizational behavior. College Park, MD: Author.
+Scripture, E. W. (1895). Thinking, feeling, doing. New York:

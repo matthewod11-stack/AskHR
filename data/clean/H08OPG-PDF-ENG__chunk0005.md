@@ -1,9 +1,33 @@
-## our collective notion of an “ideal” workplace.
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7406f6ff871e8c07ab4385701d6c1c2efd5e5fae
+title: H08OPG-PDF-ENG
+---
+## HBR / Digital Article / What Is the Office for Today?
 
-As we now know, the adoption of digital tools by the mainstream
+but with a slightly diﬀerent aim. Now that we’ve seen half-a-decade of
 
-workforce became a norm during the pandemic (think of Zoom’s 326%
+remote and hybrid work take form, what have we gained? What have we
 
-growth in the year 2021 alone). Since then, the communication patterns
+lost? And what do we really need oﬃces for?
 
-they enabled as part of daily work have also had lasting, long-term
+My conversation with Magnolﬁ Astill helped me put into context where
+
+RTO mandates are going wrong, why in-person connection is still
+
+important, and what kinds of work are best done face-to-face. This
+
+interview has been edited for clarity.
+
+We ﬁrst interviewed you back in 2020 about the shift to remote
+
+work brought on by Covid-19. It’s been ﬁve years: What aspects of
+
+this shift were along the lines of what you thought might happen?
+
+What aspects surprised you?
+
+When we last spoke, I expected that we would see a fast and widespread
+
+adoption of digital tools across industries and that this would expand

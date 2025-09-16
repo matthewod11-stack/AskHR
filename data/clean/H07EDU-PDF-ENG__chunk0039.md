@@ -1,21 +1,17 @@
-# option.
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fce1dbaf9b96a863c6b7da355b1458df3334f123
+title: H07EDU-PDF-ENG
+---
+## HBR / Digital Article / What Companies Still Get Wrong About Layoffs
 
-Dave Cote, who engineered the turnaround of Honeywell in the
+Examine your options before jumping into layoffs.
 
-2000s used furloughs rather than layoﬀs to reduce costs during the
+Workforce management requires simultaneous strategies. Layoﬀs are
 
-Great Recession. Cote’s intact workforce enabled him to continue
+best used when you need to restructure or make permanent changes.
 
-product development, earning Honeywell a three-year total stock return
+In a temporary downturn, furloughs and in-company reassignments,
 
-between 2009 and 2012 of 75% — more than 20 points higher than GE,
-
-his nearest competitor. Cote didn’t hesitate to use mass layoﬀs when
-
-exiting underperforming businesses. He also made strategic hires in
-
-areas he was growing, and consistently used performance management
-
-to ensure that the people who worked in the company were ones they
-
-wanted to keep.
+underpinned by eﬀective performance management, may be a better

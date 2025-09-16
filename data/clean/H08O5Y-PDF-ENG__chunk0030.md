@@ -1,11 +1,9 @@
-## Management identiﬁed ﬁve executive core qualiﬁcations (ECQs), which
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2f20d3814e8a554f80aae21c4dcc53fa07c2f7f
+title: H08O5Y-PDF-ENG
+---
+# Position Your Transferable Skills
 
-are very similar to leadership skills valued in the private sector. Some
-
-of these include leading change, being decisive in decision-making,
-
-problem solving, understanding ﬁnancial processes and budgeting, and
-
-building relationships. Demonstrating these skills on your resume and
-
-during interviews will help close the gap between your public and
+Consider how your hard and soft skills could bring added value to a private sector position. For example, the U.S. Oﬃce of Personnel

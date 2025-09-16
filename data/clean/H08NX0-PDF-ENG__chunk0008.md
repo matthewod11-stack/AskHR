@@ -1,9 +1,41 @@
-# prepare adaptive responses.
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d279c9f065f23f507d43b86cca876b8ea49cc44e
+title: H08NX0-PDF-ENG
+---
+## HBR / Digital Article / 5 Pandemic-Era Lessons on Leading Through Drastic Change
 
-Finally, they can strengthen organizational adaptability by building
+Amid massive disruptions to supply chains, manufacturing, and
 
-cross functional-teams that are incentivized to identify and act on
+shifting consumer habits, PepsiCo CEO and chairman Ramon Laguarta
 
-unexpected or emerging opportunities, fostering a stronger culture of
+saw an opportunity to rethink the company’s future. Building on the
 
-learning and ﬂexibility. These practices help transform uncertainty
+forward-looking strategies introduced by former CEO Indra Nooyi,
+
+Laguarta embraced scenario planning to navigate uncertainty. In 2021,
+
+he launched pep+, a bold initiative that put sustainability and people
+
+at the center of PepsiCo’s business strategy. The plan taps into key
+
+trends—consumers’ growing preference for healthier options, the need for sustainable farming practices, and eﬀorts to cut carbon emissions
+
+across the supply chain—ensuring PepsiCo stays ahead in a rapidly
+
+evolving market.
+
+Developing a more proactive and integrated stance toward uncertainty requires leaders to take a diﬀerent approach to strategic and business
+
+planning. First, they can shift from annual business planning cycles to
+
+more regular forecasts that include strategic foresight practices—such
+
+as “outside-in” early signal and trend scanning—to proactively identify
+
+emerging patterns and potential disruptions before they become
+
+obvious. Leaders can also practice scenario planning by exploring
+
+various “what if” situations to anticipate potential external shifts and

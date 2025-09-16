@@ -1,7 +1,25 @@
-# Coercive Style in a Climate of Crisis
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 76e1854b6681b2fc93c1f7aefa577b8a68eb077f
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Tactical
 
-A person using the coercive style leads by controlling reward and punishment and is most effective in a climate of crisis. Such a leader will often use statements such as “Do it or you’re fired” or “If you can get the package there on time, I will have a little something for you.” This style is typical in war. If soldiers disobey an order, an officer can have them shot. Conversely, if soldiers behave with bravery and distinction, an officer can reward them with a medal or promotion.
+aGeier, Downey, & Johnson, 1980; bFrench & Raven, 1959. IMPACT = informational, magnetic, position, affi liation, coercive, or tactical.
 
-Mulder, de Jong, Koppelaar, and Verhage () found support for the situa- tional appropriateness of coercive styles of leadership. They studied the behavior of bankers whose leadership styles had been measured by the Influence Analysis Ques- tionnaire. Mulder and his colleagues found that in crisis situations, bankers tend to use more formal and coercive types of power than they do in noncrisis situations.
+For many years in the U.S. Senate, John Warner was one of the most powerful and respected congressional leaders. He became powerful because of his exper- tise in defense matters, an area that was important and that few in Congress knew much about. Thus, Warner used an informational style in a climate of ignorance to become a powerful leader.
 
-The importance of leaders’ use of reward and punishment was best dem- onstrated in a series of studies by Komaki (). Komaki and her colleagues observed a wide range of managers/leaders including police sergeants, sailboat skippers, construction supervisors, and investment bankers and concluded that the best managers complimented and rewarded their employees/ subordinates who performed well and sanctioned those who did not. Perhaps the most important finding was that the best managers/leaders spend considerable time gathering performance information from their subordinates, sometimes asking simple questions such as, “How is it going?”
+Magnetic Style in a Climate of Despair A leader with a magnetic style leads through energy and optimism and is effective only in a climate of despair, which is characterized by low morale. Ronald Reagan is perhaps the best example of a magnetic leader. As president, he was optimistic and well liked, even by people who may not have agreed with him politically. He was elected at a time when the national mood was depressed because of high inflation, high unemployment, and the Iran hostage situation. The chances of successful leadership increase in a situation of general despair when a magnetic or charismatic individual assumes control (Latham, ).
+
+Position Style in a Climate of Instability A person who uses the position style leads by virtue of the power inherent in that position. Such a person might lead through statements like “As your captain, I am ordering you to do it” or “Because I am your mother—that’s why.” Individuals who use a position style will be effective only in climates of instability. This style is especially effective during corporate mergers, particularly when people are not sure what actions to take. However, there are often questions about a leader’s legitimate scope of power (Yukl, ).
+
+Affi liation Style in a Climate of Anxiety A person with an affiliation style leads by liking and caring about others. This style is similar to that of the person-oriented leader discussed previously. A leader using affiliation will be most effective in a climate of anxiety or when worry predominates. Former president Jimmy Carter provides an excellent example of the affiliation style. Carter was elected president shortly after the Watergate affair, when many voters were worried that they could not trust politicians or their government. Carter campaigned successfully with statements such as “I care” and “I’m not part of that Washington crowd.”
+
+leadership
+
+449
+
+450
+
+chapter 

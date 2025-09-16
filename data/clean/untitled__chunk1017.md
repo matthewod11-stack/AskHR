@@ -1,5 +1,13 @@
-# Psychological Bulletin, 38, 249–276.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fd4a2169cd1bc59be14a801aefdc56ac3aac5318
+title: untitled
+---
+# Leipzig, Germany: A. W. Unzer.
 
-Isen, A. M. (1990). The inﬂuence of positive and negative affect on cognitive organization: Some implications for development. In N. S. Stein, B. L. Leventhal, & T. Trabasso (Eds.), Psychological
+Hohmann, G. W. (1966). Some effects of spinal cord lesions on ex- perienced emotional feelings. Psychophysiology, 3, 143–156.
 
-173
+Hunt, J. M., Cole, M. W., & Reis, E. S. (1958). Situational cues dis- tinguishing anger, fear, and sorrow. American Journal of Psy- chology, 71, 136–151.
+
+Hunt, W. A. (1941). Recent developments in the ﬁeld of emotion.

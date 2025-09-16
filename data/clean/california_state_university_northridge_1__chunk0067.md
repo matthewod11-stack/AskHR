@@ -1,25 +1,17 @@
-# Opportunity Community in a large-scale case on two counts, discrimination and sexual
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: ae62aded198451690e911236f50bace7a57a6559
+title: california_state_university_northridge_1
+---
+# T1Inesses and Aftirrrmttve Action.
 
-harassment sued Mitsubishi Motor Manufacturing Co.. Which support the notion that
+The reader is made aware of recent lawsuits that were won by the plaintiff, the
 
-employment lawsuits are on the rise across the countrj. Tr.tis statement followed by a very
+employee who filled charges against their employer. Texaco was the largest in settling a race
 
-import'1.nt fact, the U11ited States is the most litigious nation in the industrial world.
+discrimination class action suit for $172 million. Also, Home Depot paid $88 million to settle
 
-13
+a sex discrimination class action suit. Wal-Mart was sued, in which the plaintiff an employee
 
-The remainder of the text covers eight major issues affecting human resources and
-
-discusses related case law. Microsoft is addressed in contract and contingent workforce.
-
-Essentially, theses workers singed a contract with stipulations they were not employees and
-
-entitled to various benefits as those considered employees. However, said workers operated
-
-with a supervisor and as did work that was related to the overall business unit, which make
-
-them employees' not independent contractors, according to the courts. The conclusion
-
-reached by U.S. Court of Appeals 9th Circuit, was helped by provisions set by the Internal
-
-Revenue Service, for the purpose of bringing clarity between employee and a contractor for
+won for punitive damages, for being sexually harassed. In addition, the Equal Employment

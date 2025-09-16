@@ -1,11 +1,9 @@
-# Hypotheses
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: ac0a481129e8fe0d09f96c57aa77da27bc30a4cb
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+# J. W. MOWAT ET AL.
 
-Fundamentally, we compare two groups: (1) participants who have received formal coaching with (2) participants who have not. Our hypotheses are driven by SET and LMX, proposing that formal coaching has a greater impact on employee attitudes and behaviours compared with alternative approaches. Formal coaching sessions are salient events, signalling to employees that their supervisor is investing in their development. SET and LMX predict that when employees view formal coaching as a valuable job resource, they develop a felt obligation (Haar & Spell, 2004) and reciprocate with positive work attitudes and behaviours.
-
-Our hypotheses focus on positive and negative outcomes. The positive set includes meaningful work, defined by Spreitzer (1995, p. 1443) as ‘the value of a work goal or purpose, judged in relation to an individual’s own ideals or standards. Meaning involves a fit between the requirements of a work role and beliefs, values, and behaviours’. Meaningful work promotes outcomes including creativity (e.g. Ghafoor & Haar, 2019) and well-being (e.g. Lips-Wiersma et al., 2023). Prior research supports a positive relationship between workplace coaching and meaningful work (e.g. B. Kim & Lee, 2024). We also examine Organisational Citizenship Behaviours (OCBs), defined by Organ et al. (2006, p. 3) as ‘an individual behavior that is discretionary, not directly or explicitly recognized by the formal reward system, and in the aggregate promotes the efficient and effective functioning of the organization’. These behaviours typically target (1) individuals (e.g. co-workers) and (2) the organisation. Nguyen and Haar (2024) note that OCBs are ‘a critical determinant of organizational effectiveness and performance’ (p. 3). Additionally, S. Kim and Kuo (2015) previously reported a positive relationship between workplace coaching and OCBs.
-
-Under SET and LMX, we expect that compared with participants not formally coached, those that have experienced formal coaching will report significantly higher levels of meaningful work as they recognise and reciprocate the effort their supervisor invests in them. Formal coaching enhances an employee’s experience, making work more meaningful. Similarly, OCBs should be influenced by the supervisor under LMX because employees who receive formal coaching should respond with greater OCBs, reciprocat- ing the value of coaching. LMX predicts that supervisory attention via formal coaching promotes extra-role behaviours, encouraging employees to contribute more to the organisation. This leads to our first hypothesis.
-
-Hypothesis 1: Employees receiving formal coaching will report significantly higher levels of (a) meaningful work, and (b) OCBs compared with those who are not formally coached.
-
-Our second set of outcomes examines negative work factors, which are detrimental to the organisation. Turnover intentions refer to thoughts of quitting (Dwivedi, 2015), which pose high costs for organisations (Haar, 2023). Previous research has shown a negative
+exchange for workplace coaching. In sum, using SET and LMX as our framework, we posit that formal coaching surpasses informal coaching and no coaching because formal coaching is extraordinary, intimate, and encourages ongoing reciprocation, leading to enhanced work-related outcomes.

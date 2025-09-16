@@ -1,9 +1,15 @@
-# how fast and how comprehensively.
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c041915904792c843a4789a8beece9d18134fb0f
+title: H08TZO-PDF-ENG
+---
+# creators, not caretakers of the past.
 
-Age inclusion isn’t a corporate social responsibility initiative, but a
+. . .
 
-strategy for resilience, relevance, and growth. Companies that design
+Demographic change isn’t coming—it’s here, and it’s reshaping labor
 
-for the full life course will not only tap into the wealth and wisdom
+markets, consumer behavior, and economic growth. The question for
 
-of older adults but also build stronger intergenerational systems that
+business leaders is no longer whether to respond to these changes, but

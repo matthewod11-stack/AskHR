@@ -1,7 +1,11 @@
-# Norwood, NJ: Ablex.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f3da6a60ff26e33fb11efd14f09c25c0cc4ba367
+title: untitled
+---
+# Intelligence
 
-Sternberg, R. J., Forsythe, G. B., Hedlund, J., Horvath, J., Snook, S., Williams, W. M., et al. (2000). Practical intelligence. New York: Cambridge University Press.
+Sternberg, R. J., Conway, B. E., Ketron, J. L., & Bernstein, M. (1981). People’s conceptions of intelligence. Journal of Person- ality and Social Psychology, 41, 37–55.
 
-Sternberg, R. J., & Gardner, M. K. (1983). Unities in inductive rea- soning. Journal of Experimental Psychology: General, 112, 80–116.
-
-Sternberg, R. J., & Kaufman, J. C. (Eds.). (2001). The evolution of
+Sternberg, R. J., & Detterman, D. K. (1986). What is intelligence?

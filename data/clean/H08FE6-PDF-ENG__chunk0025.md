@@ -1,13 +1,17 @@
-## HBR / Digital Article / The High Costs of Chief Revenue Officer Turnover
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dfc200459ef103eedff5cb37184df4a0a7f4539
+title: H08FE6-PDF-ENG
+---
+# purpose GTM models.
 
-CRO. CROs hired from outside the company see a 4.1% decline in growth
+Our analysis suggests there is often a better choice than an external
 
-rate, while those hired from within see a slightly lower 2.8% decline.
+hire: hiring from within the current organization, tapping a ﬁrst-time
 
-While logic may suggest that internal promotions limit the pool of talent
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-under consideration and could perpetuate existing problems, this view
+4
 
-underestimates the value of institutional knowledge and the ability
-
-of internal candidates to drive change when given new authority and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

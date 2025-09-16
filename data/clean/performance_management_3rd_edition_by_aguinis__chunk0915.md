@@ -1,15 +1,7 @@
-# Part II • System Implementation
-
-- 3. List the areas where the employee developed in ways enabling him or her to take on additional responsibilities or be eligible for high-profile assignments:
-
-_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________
-
-- 4. Areas of development for upcoming quarter (i.e., communication skills, teamwork, project management skills, budgeting experience, etc.):
-
-_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________
-
-- 5. Goals for upcoming quarter (Please list S.M.A.R.T. goals):
-
-_______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________
-
-Please circle the number below that best describes the employee’s performance in the following areas:
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: fd86676d8562795730ec710fcc3274834fa22dee
+title: performance_management_3rd_edition_by_aguinis
+---
+# 134

@@ -1,9 +1,11 @@
-# Early Attempts at Classiﬁcation
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4cf81248e22710d7cd21f9e70fb65fb7d3e5f220
+title: untitled
+---
+# Preliminary Issues
 
-For many centuries, the dominant view held that mental ill- ness, although differing in symptoms and severity, is funda- mentally one general disorder called melancholy. However, in the seventeenth century, a view began to develop that mental illness is an umbrella term encompassing a number of distinguishable mental diseases. Robert Burton (1651/1927) wrote, “Some confound melancholy and madness, others say melancholy is madness differentiated not in kind but in extent or degree, some acknowledge a multitude of kinds and leave them indeﬁnite.” This view became popular after the discov- ery that mental illness as well as physical diseases differ not only by symptoms but also by cause.
+proposed an inevitable progression in mental development of peoples through three major stages. The ﬁrst stage is the superstitious theological stage, which progresses through (1) animism (the belief that each object has its own will), (2) polytheism (the belief that demons, spirits, and deities im- pose themselves on objects), and (3) monotheism (the belief that one God imposes his will on all things).
 
-In the nineteenth century, attempts were undertaken to identify and classify types of mental illness on the basis of clusters of symptoms, etiology, course, and response to treat- ment. The view that psychopathology is a general pathology again emerged in the middle of the twentieth century when learning theorists proposed that psychopathology represents maladaptive responses to stress, and psychoses differ from neuroses on a dimension of severity, unless the pathology had been clearly determined to be caused by a demonstrable lesion of the nervous system.
-
-Today it is again generally held that diagnostically distinct psychopathologicaldisordersexistthatdifferinsymptoms,eti- ology, course, and response to different kinds of treatment. In 1952, theAmerican PsychiatricAssociation published the ﬁrst edition of The Diagnostic and Statistical Manual of Mental
-
-305
+In the second metaphysical stage it is believed that natural events are caused by occult physical forces. In the third sci- entiﬁc stage, positive knowledge of natural causes replaces superstition and metaphysics, and humans turn to the study of laws “of relations of succession and resemblances” in order to understand events in the natural world. It followed that primitive humans at the animistic stage of reasoning about the world would not react in the same way as civilized humans. Subsequently, interpretations of Darwin’s theory of evolution by natural selection published in 1859 reinforced the assumption that prehistoric peoples would have been too intellectually primitive to perform trepanation as a rational surgical technique.

@@ -1,7 +1,7 @@
-# leadership, procedural
-
-(2015), “Moderation of doing and mastery orientations in relationships among justice, commitment, and trust: a cross-cultural perspective”, Cross Cultural Management, Vol. 22 No. 1, pp. 42-67.
-
-Jiang, Z., Gollan, P.J. and Brooks, G.
-
-Jones, G.R., Gorge, J.M. and Hill, C.W.L. (2000), Contemporary Management, McGraw-Hill, Boston, MA. Katou, A.A. (2013), “Justice, trust, and employee reactions: an empirical examination of the HRM
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: df3e703e48c2ae3745613578be7bf01d209143bb
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# (EORs): transformational initiatives”, Public Relations Review, Vol. 38 No. 2, pp. 231-245.

@@ -1,11 +1,29 @@
-# next review.”
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a7d4564cb8924d4f1fa4103309b28e6996bf416
+title: H074CY-PDF-ENG
+---
+## HBR / Digital Article / How to Conduct a Great Performance Review
 
-That employee might respond, “I understand, but can you then sponsor
+believe that issues of motivation and/or ability overwhelm the potential
 
-me for training in areas where I’ll be more independent and clarify
+contribution, then you’re not really having a performance conversation,
 
-the judgments and decisions where you want to stay involved versus
+and you can ignore the following steps. The conversation you should
 
-those where I now have more say-so?” Both parties are now working on
+have is one in which you discuss moving that person out of that job.
 
-agreed-upon behaviors, not simply slogans like “be more strategic” or
+By contrast, consider a review with a promising employee with whom
+
+you have invested time. You might clarify your intent by noting,
+
+“You’ve done a good job settling into the role and orienting yourself
+
+to our ﬁrm. Your challenge now is to transition to more independent
+
+roles over the next year. That means less speciﬁc task direction or
+
+intervention is available for you when problems arise. So I’m counting
+
+on you to handle more on your own, and I’ll be evaluating that at our

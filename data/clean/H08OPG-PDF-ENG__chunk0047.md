@@ -1,59 +1,21 @@
-## HBR / Digital Article / What Is the Office for Today?
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 987a2456093266a56b41121855a9b0300124eda1
+title: H08OPG-PDF-ENG
+---
+## world experiences, and thus warrant strategic consideration after the
 
-the long-term culture and work community that will be required to
+pandemic. Research suggests that building relationships with people
 
-accomplish their organizations’ goals.
+outside of your group, as well as connections between people of diﬀering power status in a community, are associated with improved
 
-To close, one of the big questions we asked you in 2020 was: What is
+community health. The same can be applied to the health and strength
 
-an oﬃce for? How would you answer that question today?
-
-My overall position on the role of the oﬃce hasn’t changed—the
-
-physical environment has a unique role to play in enabling human work
-
-and endeavor. I know, however, that I would answer this question a bit diﬀerently today than I did ﬁve years ago.
-
-Something I came across during the pandemic comes to mind now.
-
-The writing was from a British educator from the late 1800s and, to
-
-paraphrase, it noted the importance for children to explore and play
-
-outdoors in nature as means for learning. The text described a young
-
-child picking up a pebble from a stream and observing it at length,
-
-holding it in his wet hands, rubbing its smooth surface with his ﬁngers
-
-—all the while, below his own awareness, drawing a connection between
-
-the object of his focus and the cold water, the current around his ankles,
-
-the sound of the rushing brook, etc. The author instructed that in future
-
-years, when the child would be old enough to be taught the abstract
-
-concept of “erosion,” he would pull from his memory the experience by the stream and form a qualitatively diﬀerent and richer relationship to
-
-the idea of “erosion” than had he learned the formal concept alone.
-
-Being the mother of a young child, the simple example struck a personal
-
-note back then. And as a researcher, my work over the years has
-
-repeatedly conﬁrmed the lasting validity of this idea. I think it’s fair to
-
-say we’ve all had similar experiences at work, perhaps during a summer
-
-internship or our ﬁrst jobs, when the concepts we had learned in a
-
-classroom suddenly came to life when we experienced them “in the real
-
-world,” as we commonly say, with others.
+of a work community. The return to the oﬃce after the pandemic, in its various forms, oﬀers leaders the opportunity to reﬂect deeply on
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-10
+9
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,13 @@
-# 312 Abnormal Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6b4f9bae72c637d423081cd09ee110b59ef49e51
+title: untitled
+---
+# The Anatomy of Melancholy
 
-seek to relieve the patient’s mind of worries, fears, and suspi- cions, “for the body cannot be cured till the mind be satis- ﬁed . . . but if satisfaction may not be had . . . then . . . drive out one passion with another, or by some contrary passion” (Burton, 1651/1927, p. 476).
+Robert Burton (1577–1640), an English clergyman, wrote The Anatomy of Melancholy, ﬁrst published in 1621. Burton undertook the task of “anatomizing” melancholy, a term that embraced all kinds of madness. He compiled all the descrip- tive and conjectural writings on the nature, causes, and cures of melancholy, accumulated from the classical period to his own time. His book, which went through numerous editions, was highly regarded as a medical treaties into the eighteenth century and is an invaluable source for information regard- ing the history of ideas about mental illness and its treat- ment. Largely derived from Galen and modiﬁed by Christian theology, his work testiﬁes to the longevity of the humoral/ pneumatic theory.
 
-Mystical Bedlam by Michael MacDonald (1981) is an- other source for information about concepts of abnormal psychology in seventeenth century England. MacDonald researched case histories recorded by Napier, a seventeenth- century astrological physician, of some 2,000 “obscure rustics” that Napier had treated. Napier’s diagnoses classiﬁed mental disorders as types of sickness variously explained by traditional cosmological and religious beliefs, and as results of individual experiences and social actions.
+Burton, as had Galen, stated that the passions may be called diseases, and are a frequent cause of melancholy. Other causes include defective heredity; bad nursing in infancy; too rigorous, severe, remiss, or indulgent education by bad parents, step-mothers, and teachers; and loss of lib- erty, servitude, poverty, and death of friends. He wrote that although melancholy is difﬁcult to treat, it may be cured or at least mitigated if it is not hereditary, if it is treated early, and if the patient is willing to be helped. The physician should
 
-Increasing city populations and sizes likewise increased the importance attached to the physical consequences of living in crowded urban environments and assumptions that the humors are affected by toxins and miasmas. George Cheyne’s The English Malady, published in 1734, refers to depression or melancholy, then regarded as a peculiarly British ailment not only by the English but also by the French. Cheyne attributed the alleged prevalence of melancholy among the English to the conditions of urban life with special reference to London: “. . . the inﬁnite number of ﬁres, . . . the clouds of stinking breaths and perspirations, . . . the stinking butcherhouses, stables, dunghills . . . and mixture of such variety of all kinds of atoms are more than sufﬁcient to putrefy . . . which in time, must alter, weaken, destroy the healthiest constitutions of men. . . .” (quoted in Harms, 1967, pp. 59–60). The recommendation that asylums be built in the country comes as no surprise.
+311

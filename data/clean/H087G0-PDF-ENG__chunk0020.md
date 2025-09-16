@@ -1,11 +1,7 @@
-## Act (ADA), Australia’s Disability Discrimination Act 1992, and other
-
-countries’ equivalents can somewhat protect a disabled employee
-
-from blatant discrimination, such as being ﬁred speciﬁcally because
-
-of their condition. But it does not prevent more insidious forms
-
-of mistreatment, such as gossip, social exclusion, being assigned an
-
-impossible workload, or being excluded from professional development
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff1ef183a4223592a5eb0d718fcca77666686689
+title: H087G0-PDF-ENG
+---
+## Legislation such as the United States’ Americans with Disabilities

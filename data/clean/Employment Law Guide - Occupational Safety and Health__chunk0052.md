@@ -1,19 +1,17 @@
-# Reporting
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: b28123b4eaed346986b1d7c46bdada44d341a49b
+title: Employment Law Guide - Occupational Safety and Health
+---
+## Non-recordable Injury and Illness Incidents.
 
-OSHA-approved state plan states must adopt occupational injury and illness reporting requirements that are
+Electronic Injury Reporting. Certain employers must electronically submit to OSHA information about
 
-substantially identical to the Federal OSHA requirements. Since each state plan's requirements may diﬀer
+recordable injuries and illnesses entered on their previous calendar year's OSHA Forms 300A, 300, and 301
 
-slightly, the Federal OSHA requirements are described below.
+using Injury Tracking Application (ITA)'. Establishments covered by Federal OSHA can use the ITA Coverage
 
-Employers must report to OSHA work-related fatalities within 8 hours of ﬁnding out about it.
+Application to determine if they are required to electronically submit their injury and illness information to
 
-For any in-patient hospitalization, amputation, or eye loss employers must report the incident to OSHA
-
-within 24 hours of learning about it.
-
-Only fatalities occurring within 30 days of the work-related incident must be reported to OSHA. Further, for an
-
-inpatient hospitalization, amputation or loss of an eye, the incidents must be reported to OSHA only if they occur within 24 hours of the work-related incident.
-
-Employers have three options for reporting the event:
+OSHA. Establishments covered by an OSHA-approved State Plan should directly contact their State Plan.

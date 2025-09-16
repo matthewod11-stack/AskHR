@@ -1,13 +1,51 @@
-# move.
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bfe0a88b1cdb85ad76af4c9a93e2303bd58850a8
+title: R2301H-PDF-ENG
+---
+# way through?
 
-Our experience shows that leaders’ success depends on their ability to
+Another leader we coached had a diﬀerent approach. He was an
 
-MOVE—that is, to be mindfully alert to priorities, to generate options
+incredible delegator with legendary calm. This worked well until a
 
-so that they always have several ways to win, to validate their own
+crisis surfaced and his team started feeling lost and overwhelmed. He
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+stayed steady, conﬁdent in his default style, telling people, “Don’t worry,
 
-2
+I have conﬁdence that you’ll ﬁgure it out.” They didn’t ﬁgure it out,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+team members began ﬁghting with one another, and within months the
+
+company lost its market-leading position.
+
+In our work coaching and advising senior leaders, we have found that
+
+when faced with unfamiliar or risky situations, leaders often rely on
+
+their familiar playbook. They act instinctively, falling back on behavior
+
+and postures that worked for them before. But should their operating
+
+environment experience a discontinuity, reﬂexes—which may still be
+
+right at times—can no longer be counted on. To be eﬀective, leaders
+
+need to rise above their default reactions and generate more options for
+
+how to act in the very moments when they are needed most.
+
+Few leadership roles come with a treasure map showing a direct line
+
+to where X marks the spot. That’s why the ability to generate multiple
+
+pathways to a desired destination is crucial to success. Whether it’s
+
+chasing a strategy that could drive 10x growth in a business, facing a
+
+potentially catastrophic threat, or guiding a team through uncharted
+
+territory, great leaders generate options so that when an opportunity
+
+arises or a crisis hits, they can pivot in real time and make the optimal

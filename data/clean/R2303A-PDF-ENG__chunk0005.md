@@ -1,29 +1,13 @@
-# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e64c6601e89054d99197d62e99f7bc8dd6c5acb
+title: R2303A-PDF-ENG
+---
+# look like.
 
-When we learned that 80% of people with disabilities in the United
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-States are unemployed, we were determined to make sure that our kids
+1
 
-Bitty and Beau would not become part of that statistic. We thought the
-
-solution could be as simple as demonstrating the intrinsic value we saw
-
-in their lives and those of others living with disabilities.
-
-Amy’s shower idea? To open a coﬀee shop in our hometown of
-
-Wilmington, North Carolina, that would employ mostly people with
-
-intellectual and developmental disabilities. What better way to both
-
-create jobs and bring people together? Within three months we’d hired
-
-19 team members and opened the ﬁrst Bitty & Beau’s Coﬀee. Within six
-
-months business was so good that we were able to move to a space 10
-
-times the size of the original one and build our own roastery. Seven
-
-years later we have 17 locations across 11 states and the District of
-
-Columbia—with four more slated to open in 2023—employing more
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

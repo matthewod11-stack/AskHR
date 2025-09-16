@@ -1,9 +1,11 @@
-# cash ﬂow contribution of 5%.
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f727d799a38dd7cbd99f346496844a61384d5b9b
+title: H08R2D-PDF-ENG
+---
+## margins by 8 percentage points on average throughout our period of
 
-This strategy is most prevalent in asset-intensive sectors such as
+observation. Their investments also yielded high returns: On average,
 
-industrials, utilities, and materials—but any business with an already-
-
-diﬀerentiated product and signiﬁcant market share facing cost
-
-pressures from suppliers may ﬁnd vertical integration a compelling
+ﬁrms following this strategy achieved an annual TSR of 9%, driven by a

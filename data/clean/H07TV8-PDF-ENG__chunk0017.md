@@ -1,5 +1,19 @@
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14e103944a6168ccfd5a7913a41b915fbedd9ba6
+title: H07TV8-PDF-ENG
+---
 # HBR / Digital Article / Businesses Need to Bring Younger Employees into Their Leaders…
 
-is an argument to be made for rebalancing curiosity and experience in
+See more HBR charts in Data & Visuals on HBR.org.
 
-leadership, and to reverse the aging demographic of leadership at a time
+Of course, these tendencies are not a simple function of age or tenure
+
+and don’t apply to every individual. Nevertheless, we believe that there
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

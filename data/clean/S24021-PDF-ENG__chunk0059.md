@@ -1,17 +1,39 @@
-# markets.
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2ed9410a76a769c3e237a5321d5655e70db590b
+title: S24021-PDF-ENG
+---
+# operations.
 
-The privately owned Virgin Group has increasingly used licensing of its
+Obtaining any growth-fueling resource—money, people, brand, access
 
-brand to drive growth. To raise the capital needed for acquisitions to
+to capabilities, and so on—involves trade-oﬀs. Building up resources
 
-enter new markets, Virgin divests existing businesses. In such cases, it
+organically can take time (and thus result in slower growth), but those
 
-generally strikes a licensing agreement with the acquirer for the right
+internally developed resources can often be more precisely aligned
 
-to use the Virgin brand. As a result of its aggressive use of licensing,
+and integrated with a company’s unique value proposition. Partnering
 
-Virgin Group’s most valuable asset, the Virgin brand, is increasingly
+and outsourcing might provide a faster route to growth, especially for
 
-under the control of organizations of which it is not a majority owner
+younger companies trying to bring products to market, but it can mean
 
-and over which it can exercise only limited control. This creates risks
+ceding control of activities critical to the value proposition.
+
+Method decisions are tightly connected to choices about the rate and
+
+direction of growth. Consider the case of Virgin Group, which my
+
+colleague Elena Corsi and I studied. The company’s growth strategy is
+
+to expand into new markets and industries where the Virgin brand can
+
+drive customer acquisition. The company’s leaders consider the Virgin
+
+brand—along with fresh approaches to providing high-quality customer
+
+service—to be the ﬁrm’s critical resource. In many ways, Virgin’s rate of
+
+growth depends on the rate at which the brand can be monetized in new

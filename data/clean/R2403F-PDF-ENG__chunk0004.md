@@ -1,47 +1,27 @@
-# HBR / Magazine Article / HR’s New Role
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b46029e2e2c39806bc4fca2edf1a11d49865107a
+title: R2403F-PDF-ENG
+---
+## From World War II through 1980 the focus of the human resources
 
-kind of beneﬁt, including training and development, got squeezed.
+function was advocating for workers—ﬁrst as a way to keep unions out
 
-Work demands went up, and job security fell.
+of companies and later to manage employees’ development in the era
 
-Now the pendulum has swung sharply the other way. The U.S.
+when all talent was grown from within. Then things changed. Driven
 
-unemployment rate has been below 4% for ﬁve years, with the exception
+by the stagﬂation of the 1970s, the recession of the early 1980s, and
 
-of the Covid shutdown period. Productivity growth has lagged, with
+more recently the Great Recession, HR’s focus increasingly shifted to
 
-the 2010s being the worst decade for it in modern times. That,
+relentless cost cutting. Decades of slack labor markets made slashing
 
-along with slow growth in the labor force, will probably keep the
+HR expenses easy because it was hard for people to quit. Pay and every
 
-job market tight for some time. Meanwhile, overwork, fear of layoﬀs,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-lack of advancement opportunities, and worries of being replaced by
+1
 
-technologies like artiﬁcial intelligence have created an epidemic of
-
-workplace stress in the United States. Evidence that companies have hit the limits of lean staﬃng includes the remarkable Kaiser Permanente
-
-strike of 2023, which was the largest health-care labor dispute in U.S.
-
-history, and pharmacists’ walkouts and sick-outs at CVS and Walgreens.
-
-In all those disputes one of the main worker demands was that the
-
-companies staﬀ open positions.
-
-HR’s focus on minimizing personnel costs was not a problem when
-
-job markets were cool. But now keeping positions ﬁlled and preventing
-
-employees from burning out or becoming dissatisﬁed are the priorities.
-
-To meet the fundamental challenge of hiring and retaining good
-
-people, HR needs to return to its traditional role of taking care of
-
-employees. It must play a lead role in persuading top management to
-
-treat employees better and to change company policies on pay, training,
-
-layoﬀs, vacancies, outsourcing, and restructuring.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

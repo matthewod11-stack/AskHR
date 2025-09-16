@@ -1,7 +1,15 @@
-## misunderstandings and smoother collaboration down the road.
+---
+source_path: H07YWJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a00b98ec923958541930c6dcb5848cf93bb5931e
+title: H07YWJ-PDF-ENG
+---
+## High-Performing Teams Don’t Leave Collaboration to Chance
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+When launching a project, many teams follow a predictable cadence:
 
-2
+They assign tasks and start working. High-performing teams, on the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+other hand, are more than three times more likely to begin by ﬁrst
+
+discussing how they will work together, paving the way for fewer

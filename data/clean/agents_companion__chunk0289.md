@@ -1,11 +1,9 @@
-# Italian-influenced cuisine
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 9f09d2a541c2a599c5b83efbe7ae9c2ceaebaf9b
+title: agents_companion
+---
+# plant-based options
 
-- 5. The agent presents the best matches from these progressive searches, explaining how
-
-they relate to the original request
-
-67
-
-This looping behavior enables more robust search capabilities that adapt to availability and
-
-context, providing useful results even when exact matches aren't available.
+- Third loop: If still unsuccessful, searches for "vegan restaurants" and filters for

@@ -1,3 +1,9 @@
-# Stage 2: Create business value
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 1c0b0db25d2fc9939ae5503f3cdb7564a32aa1e5
+title: building
+---
+## Waheed Jowiya, Digitalisation Strategy Lead at Novo Nordisk
 
-In our experience the highest performing AI teams choose the optimal use case to demonstrate value quickly and scale their AI strategy from there. When you’ve identified your use case, and success metrics to measure its success, you’ll need to select the right partner and LLM to ensure you deliver on its potential.
+14

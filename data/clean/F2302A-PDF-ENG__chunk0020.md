@@ -1,21 +1,37 @@
-# participation of users.
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba4259b5f2a74c07a9045c92c2e26cce4ce458bb
+title: F2302A-PDF-ENG
+---
+# Nicole Reed
 
-How do you persuade employees to play?
+Australian offices. Australians are mad for
 
-First, make sure the experience is fun! Most employees—83% of them—
+sport, so we used an athletics-themed
 
-say they enjoy playing Globerunner. Second, emphasize that it’s a time-
+platform. When we decided to go global
 
-efficient way for people to improve in their roles. Third, be aware of cultural
+with the approach, we made a more universally appealing one called KPMG
 
-considerations. For instance, gambling elements of any kind are prohibited
+Globerunner, which is now used by employees in 100 countries. People
 
-in some countries. Finally, avoid a male bias, which is a real risk with game
+race around the world by answering questions and completing challenges,
 
-design. We always include female designers.
+and each year the top 10 scorers in every country participate in a global
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+tournament. The impact on sales has been substantial, and we believe
 
-4
+Globerunner has helped with employee engagement too.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+What does a KPMG game look like?
+
+Well, it’s never going to be confused with Grand Theft Auto! But we knew
+
+that the digital trainings couldn’t look amateurish if we wanted people to
+
+take them seriously, so we used expert developers. We stayed away from
+
+animated graphics, which quickly become dated. You can focus too much
+
+on glossy design and mechanics, though. You also need to ensure the

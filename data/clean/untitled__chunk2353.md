@@ -1,5 +1,9 @@
-# Early Practice
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ecda03d844144faed13567a375cb5f7d885df31b
+title: untitled
+---
+# Literary Development
 
-This period lacked much theoretical development or a knowl- edge base for the diagnosis and treatment of children’s dis- orders. Practitioners were operating largely from their own experience or that of mentors and used available laboratory and psychoeducational tests, including anthropometric mea- surements. Practice was oriented primarily toward observa- tion and assessment of the child (e.g., a medical model) with consideration given to some extent to school-based and fam- ily inﬂuences. The dominant role of the school psychologist was assessment, with lesser emphasis on remediation or ther- apy and consultation. Research and evaluation, administra- tion, and in-service education activities were also performed to some degree.
-
-School psychologists were a mix of persons trained in psychology, teacher education, and related ﬁelds. They were hired by school boards to administer the newly developed Binet and other tests primarily to sort children into differ- ent educational programs and to foster the development of special education. Overall, the period 1890–1920 provided a prototype from which a more identiﬁable school psychol- ogy specialty would emerge. For all practical purposes, professional development in school psychology was meager throughout this period. Training, credentialing, literature, organizational development, and practice identity would advance considerably in the following decades.
+The availability of professional literature is among the few symbols of professionalization observable in this period, though no journals or books appear to have existed speciﬁ- cally for school psychologists. To the extent practitioners sought professional information, they would have read the available psychology journals (e.g., American Journal of Psychology, Pedagogical Seminary, Psychological Bulletin) and education journals (e.g., School and Society, Journal of Educational Psychology). Perhaps the most relevant journal was The Psychological Clinic, founded by Witmer in 1907.

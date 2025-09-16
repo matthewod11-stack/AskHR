@@ -1,13 +1,17 @@
-## domains. Thus, the rise of AI presents an opportunity for humans to
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: efb2af775a80753c9cfffc03cc0991020de73a0b
+title: H08IKZ-PDF-ENG
+---
+# a set of inexperienced child actors.
 
-step up to the challenge of reﬁning, emphasizing, and applying our own
+. . .
 
-human strengths to diﬀerentiate corporate decision-making.
+As AI grows ever more capable, the belief — or fear — that it can
 
-This article was originally published online on December 11, 2024.
+substitute for human decision-making grows more prevalent. However,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+decisions entail more than data collection and analysis — and humans
 
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+have innate advantages over even the most powerful AI in these

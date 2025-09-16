@@ -1,17 +1,17 @@
-## (54 years), and Saudi Arabia (76 years); the World Economic Forum
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c786a97eb6498e6b49ab06fcba010e97e15a87e2
+title: H0561N-PDF-ENG
+---
+## HBR / The Big Idea / The Gender Gap in 6 Charts
 
-points out that a child born today may see parity in their lifetime in
+All of this leads to both good and bad news about how soon gender
 
-these places. In more than half of the countries in the index, however, a
+equality will happen. The numbers, by region, are below.
 
-child born today will never see gender parity: It’s estimated to take 208
+Fifteen countries are on track to close the gap in the next 50 years,
 
-years in the United States — and up to 500 years in Pakistan and Iran. | THE BIG IDEA
+including France (22 years) and Iceland (23 years). Thirty-ﬁve countries
 
-This article was originally published online on September 27, 2019.
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+should do so within a century, including Canada (51 years), Switzerland

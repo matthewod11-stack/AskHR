@@ -1,7 +1,19 @@
-## calibration in the operational front-line.
+---
+source_path: H06N98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fabacc50577c214e6627c20e1ee4b51e92fa198
+title: H06N98-PDF-ENG
+---
+## with 1,300 senior leaders prior to the bi-annual strategy days in 2013.
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+This helped to de-mystify the event and give a larger group a voice.
 
-5
+A couple of years later all 125,000 employees were invited to join
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and today strategy discussions are ongoing with on average 42,000
+
+interactions every day. Mobilization and the ability to ﬁne-tune has
+
+become part of the company’s fabric. The real competitive advantage
+
+stems not from a few highly guarded ideas but the permanent

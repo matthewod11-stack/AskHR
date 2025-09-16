@@ -1,9 +1,17 @@
-## creative qualities such as openness, humility, curiosity and wonder.
+---
+source_path: H08VUS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1bbeba153ea06ef65fbeb0d8065b09c652503a3
+title: H08VUS-PDF-ENG
+---
+## HBR / Digital Article / The Power of Being an Amateur
 
-When you have no expertise to lean on, your mind ﬂexes in directions
+But keep in mind that strategic amateurism isn’t about fundamentally
 
-your day to day rarely demands. And if you engage in that practice
+reinventing yourself. It’s about temporarily escaping from your
 
-actively and consistently, you don’t just reconnect with those qualities—
+established leadership persona to expose your mind to conditions
 
-you strengthen the cognitive agility you carry back into your regular job.
+it rarely encounters: novelty, uncertainty and productive discomfort.
+
+These experiences don’t just challenge you, they naturally cultivate

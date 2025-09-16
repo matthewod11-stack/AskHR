@@ -1,10 +1,12 @@
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 73195c466a35bc7f2a40f4daee9eefb94f9cc982
+title: document_resume
+---
 # Rating
 
-5%
-
-0 0
-
-1
+10%
 
 2
 
@@ -12,10 +14,6 @@
 
 4
 
-5
+50
 
-0 0 0
-
-0 0 0 0 0
-
-1 c.-; J
+0 0 0 0 0 0

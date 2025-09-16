@@ -1,31 +1,17 @@
-## HBR / Spotlight Article / Teamwork at the Top
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a52b96a8b74ce394e9bc4f1b7833a6c2bf69cab
+title: S24053-PDF-ENG
+---
+## environment of connection, inclusion, and trust. Collaborative
 
-collaboration create the psychological safety needed to give and
+behaviors include developing personal relationships, giving everybody
 
-take feedback, listen actively, brainstorm, solve problems, and hold
+an equal voice, and sticking to commitments. Teams that excel at
 
-themselves accountable. None of this just happens on its own. It’s hard
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-to collaborate well and consistently without instruction and practice.
+8
 
-Collaboration can be especially challenging during mergers or in
-
-multicultural team environments. Consider the case of an Asia-
-
-headquartered technology ﬁrm we worked with. After acquiring a
-
-European competitor, it entered a prolonged period of integration,
-
-during which a ﬁerce battle raged over who would become the
-
-combined regional CEO. When the selection was ﬁnally made, the
-
-new regional CEO was left with a fragmented, angry top team that
-
-somehow had to ﬁnd a way to meet high-growth expectations from
-
-the corporate center. For the ﬁrst six months the members of the team
-
-chased individual goals, struggled to make decisions, and increasingly
-
-avoided one another.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

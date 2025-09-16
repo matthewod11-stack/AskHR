@@ -1,3 +1,9 @@
-## MONITORING NEUROPSYCHOLOGICAL FUNCTIONING
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 638a427ce85f9a0d0f01bfbfc89662536192764d
+title: untitled
+---
+# 292 Assessment Psychology
 
-As summarized by Boll (1983), neuropsychology emerged both as a discipline and as an area of professional practice. As a discipline, neuropsychology is the ﬁeld of science con- cerned with the study of relationships between brain func- tions and behavior. As applied practice, neuropsychology consists primarily of using various assessment procedures to measure the development and decline of brain functions and their impairment as a consequence of head injury, cere- brovascular accidents (stroke), neoplastic disease (tumors), and other illnesses affecting the central nervous system, of which Alzheimer’s disease is the most prevalent. The histori- cal highlights of formal neuropsychological assessment clus- ter around the development of the Bender Visual Motor Gestalt Test and the subsequent emergence of neuropsycho- logical test batteries.
+attend to what people are thinking and feeling as well what they are doing. As for the Goldfried and Kent distinction, be- havioral assessors recognized that they could extend the practical applications of their approach by supplementing be- havioral observations with judicious utilization of clinical judgment. As reﬂected in the behavioral assessment literature that ushered in the 1990s, strictly behavioral methods became appreciated as having some limitations, and traditional meth- ods as having some strengths; correspondingly, behavioral assessment evolved into a multifaceted process comprising a broader range of techniques and levels of evaluation than had been its legacy (see Bellack & Hersen, 1988; Ciminero, Calhoun, & Adams, 1986; Haynes & O’Brien, 2000).

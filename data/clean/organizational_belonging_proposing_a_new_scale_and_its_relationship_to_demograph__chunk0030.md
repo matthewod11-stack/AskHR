@@ -1,7 +1,13 @@
-## Relationships of antecedents and Outcomes to new OB Scales
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: ddf952805b14d2479a54ae9e4a08a1a55824323d
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# JOURNAL OF WORKPLACE BEHAVIORAL HEALTH
 
-Having found new reliable and valid OB scales in RQ1, what are antici- pated relationships to antecedent and outcome variables? Prior empirical OB research has only focused on using the components of OB, i.e., per- ceived insider status, psychological ownership, and organizational identifi- cation, separately, not in an overall OB measure. Working with each OB component, Knapp et al. (2014, p. 278) did not find any significant rela- tionships of OB components to antecedent demographic (i.e., age, gender, part-time/full-time employment) or organizational-level variables (i.e., organizational tenure, salary, industry). Correlations showed that each OB component was negatively related to turnover intention.
+encountering mindful, persistent cohesion with others.” Filstad et al. (2019) had 51 students take one to four snapshot photographs with accompanying text explaining what “belonging at work” meant to them. Collective inter- pretation by the authors included the following themes: being part of some- thing (on equal terms); building connection; and tension and negotiation as part of becoming. McClure and Brown (2008) interviewed a heteroge- neous sample of twelve adults asking about their feeling of belonging as experienced at work. Six belonging themes were identified: (1) discovery of self within a job; (2) being invited and learning to be part of a group; (3) wanting to be included; (4) learning how to connect; (5) doing meaningful work; and (6) not-belonging, e.g., fear, rejection, and competition.
 
-find significant relationships between organizational tenure, race, gender, or age, to perceived insider status. Race was coded as either white or other. Van Dyne and Pierce (2004) did not find age, education, gender, or organization tenure to be related to psychological ownership in their third study sample of profes- sional employees (not reported for other samples). For this third sample,
+Through these three qualitative articles and the authors’ interpretation, new item generation ideas including freedom of expression, and appreciat- ing and honoring differences surfaced, reinforcing newer, practitioner-ori- ented studies, i.e., Herbert (2020), Gurchiek (2022). These new item-testing ideas were combined with modifying existing items based on the earlier mentioned themes around connection, inclusion, and acceptance. This will be further discussed in the Measures section. Overall, by combining these different sources, the authors generated a new domain of items covering the OB construct for subsequent testing and scale development. Given the lack of prior research, this suggested the following general research ques- tion (RQ1) to be tested:
 
-Stamper and Masterson (2002) did not
+RQ1 – reliable and valid new OB scales can be measured.

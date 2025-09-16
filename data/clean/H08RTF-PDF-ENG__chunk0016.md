@@ -1,23 +1,13 @@
-# Look to Your Own Leadership Behaviors
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ec35e1cb30683ab46ae30409e517b8123d8c008
+title: H08RTF-PDF-ENG
+---
+# knowledge about mental health.
 
-As a leader, your day-to-day behaviors can inadvertently cause your
+- Ensure men are visible in mental health conversations.
 
-employees undue stress and anxiety. Tomas Chamorro-Premuzic put
+- Create opportunities for people who share lived experiences and
 
-together a list of ﬁve common behaviors to watch out for. For example,
-
-are you adding unnecessary complexity by making employees guess at
-
-what you’ll do next? Are you telegraphing pessimism, leading them to
-
-assume a situation is worse than it is? Being more aware of how your
-
-actions aﬀect your employees can help you “bring out the best in people
-
-even in the worst of times,” according to Chamorro-Premuzic.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+dimensions of identity to connect with one another.

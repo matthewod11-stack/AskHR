@@ -1,5 +1,7 @@
-# Congresses
-
-The ﬁrst International Congress of Physiological Psychology took place in Paris, eight years after Polish psychologist Julian Ochorowicz ﬁrst proposed holding such a meeting.
-
-The ﬁrst International Congress on Hypnotism took place in Paris.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3731b6c7b195809139708a47a34fb643b3809519
+title: untitled
+---
+# TABLE 25.1 (Continued)

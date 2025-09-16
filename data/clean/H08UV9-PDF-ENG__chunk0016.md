@@ -1,5 +1,11 @@
-## these traits, when over-indexed or unchecked, often create just as many
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c25e3124685a2cc02e632c8b01db0f259dfebdb9
+title: H08UV9-PDF-ENG
+---
+# When “Top Traits” Become Red Flags
 
-problems as they solve.
+In the rush to hire high-impact leaders, PE ﬁrms often seek out certain
 
-Let’s take a closer look at two of the most commonly misunderstood—
+signature traits assuming they translate into scalable leadership. But

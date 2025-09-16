@@ -1,11 +1,9 @@
-# operations.
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22df51b2dc2396d5cecee1c97eaec9e1fa1e9f06
+title: R2405E-PDF-ENG
+---
+## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
 
-How can we win support from other stakeholders? Innovators often
-
-lack the credibility to win over skeptical stakeholders and regulators.
-
-With their established brands and reputations, incumbents are well
-
-placed to tackle that challenge. Take Humira, a new fully human
-
-monoclonal antibody discovered through a collaboration between
+Epiroc has positioned itself as the go-to party for electrifying mining

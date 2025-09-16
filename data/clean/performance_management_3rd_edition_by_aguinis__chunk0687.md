@@ -1,5 +1,7 @@
-# LEARNING OBJECTIVES
-
-By the end of this chapter, you will be able to do the following:
-
-(cid:2) Adopt a results approach to measuring performance, including the development
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 0e5fe94efb94d4233c7e176956d4091a76400385
+title: performance_management_3rd_edition_by_aguinis
+---
+# —DENIS WAITLEY

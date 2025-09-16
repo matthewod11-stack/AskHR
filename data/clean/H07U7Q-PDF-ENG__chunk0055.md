@@ -1,17 +1,13 @@
-# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b85df17ac8a74bcb278cd0979daace111f54cc27
+title: H07U7Q-PDF-ENG
+---
+# advice.
 
-ADI IGNATIUS:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Here’s a question from Ontario, Canada, about retention: what strategies
+17
 
-has the company implemented to retain employees?
-
-JASON BUECHEL:
-
-One of the top things is providing growth opportunities for our team
-
-members. I mentioned a little bit earlier we had 11,000 promotions over
-
-the last 12 months. One of the things that’s important about doing that
-
-is providing ways by which we can help support our team members’
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

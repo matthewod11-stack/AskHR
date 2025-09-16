@@ -1,9 +1,13 @@
-## Dependent Preferences." Quarterly Journal of Economics 112(2): 479-505.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 2f8781767a269fe71e0d241b5de99d56a2d81684
+title: behavioral_economics_1
+---
+## G. Constantinides, M. Harris and R. Stulz.
 
-Benabou, R. and J. Tirole (2003). "Intrinsic and Extrinsic Motivation." Review of Economic Studies 70: 489-
+Bateman, I., D. Kahneman, A. Munro, C. Starmer and S. Robert (2005). "Is There Loss Aversion in Buying?
 
-520.
+An Adversarial Collaboration." Journal of Public Economics 89(8): 1561-1580.
 
-35
-
-Benartzi, S. and R. H. Thaler (1995). "Myopic Loss Aversion and the Equity Premium Puzzle." The Quarterly
+Bateman, I., A. Munro, B. Rhodes, C. Starmer and R. Sugden (1997). "A Test of the Theory of Reference-

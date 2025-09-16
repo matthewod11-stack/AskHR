@@ -1,3 +1,7 @@
-## Using a Forced Distribution System at Yahoo!
-
-Yahoo! Inc. is one of the most trafficked Internet destinations worldwide. Yahoo! provides online products and services, offering a full range of tools and marketing solutions for businesses to con- nect with Internet users around the world. Yahoo! is headquartered in Sunnyvale, California. The performance management system at Yahoo! has utilized a forced distribution system in the past for assessing and reviewing employee performance. In this system, all departments are required to compare employees to one another and assign “top,” “middle,” and “bottom” performers based on a predetermined percentage that must fall in each category. Such systems are known for “weeding” out the bottom performers. Yahoo! has now removed the labeling of employee per- formance in an attempt to have a better dialogue between employees and managers and less focus on explaining the decision about which performance grade they were assigned in the evalu- ations. This change has also meant comparing employee performance to a predetermined stan- dard and not directly to peers. The company has kept some of the comparisons because managers are asked to rank order the staff members to determine compensation increases and bonuses. Although the employees are not assigned a rank number, managers are generally expected to explain how the increases in pay compare to others in the work group. In summary, companies have developed many different methods for assessing and reviewing employees. Yahoo! gives an example of how one company has worked to find the most effective methods with important consideration to business objectives and the culture of the organization.17
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d12905bec215cb3927f6b4599bbebe2ee389b7fc
+title: performance_management_3rd_edition_by_aguinis
+---
+# BOX 5.2

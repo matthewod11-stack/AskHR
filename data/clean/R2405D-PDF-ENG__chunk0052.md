@@ -1,17 +1,23 @@
-## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 373717bd3794eadadfd2bcaef81387efadde51d8
+title: R2405D-PDF-ENG
+---
+## Broader evidence and further data collection
 
-be productive. Countless studies have shown that hierarchies can lead
+- Are there other analyses that validate the results and approach?
 
-people to withhold dissenting views and that discussion participants
+- What additional data could we collect, and would the benefit of gathering it outweigh the cost of collecting it?
 
-tend to shy away from sharing potentially relevant data or asking
+- How might this change our interpretation of the results?
 
-probing questions when they don’t experience psychological safety—
+These kinds of discussions can help ensure the thoughtful weighing
 
-the belief that candor is expected and won’t be punished. Without
+of evidence. But all too often they get derailed even when they would
 
-psychological safety, the approach we’ve described is less likely to work.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Teams beneﬁt when their members feel that oﬀering up data, ideas,
+10
 
-concerns, and alternative views will be valued by their peers and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

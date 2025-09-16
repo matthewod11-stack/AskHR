@@ -1,3 +1,9 @@
-## Keywords: goal setting, motivation, theory building
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: 23077df1f4d3bd2b4f68b1fbeb6c6e8f7b64a9e4
+title: legacies_in_motivation_science
+---
+# Gary P. Latham University of Toronto
 
-The present authors independently discovered the importance of goal setting for signiﬁcantly improving the performance of individuals and teams. We subsequently formed a research part- nership in 1974 (Latham & Locke, 1975) that has continued to the present day (e.g., Latham & Locke, 2018). In this chapter we describe our individual discoveries, our joint research that led to the development of the goal setting theory in 1990, and new developments to the theory since that time period.
+This chapter summarizes the authors’ joint development of the goal setting theory. The basic concept was based on more than 50 years of research and the formal theory has endured for 28 years (Locke & Latham, 1990). The theory was not developed through overgeneralization from only a few studies or by deduction but rather by induction. The inductions involved the integration of hundreds of studies involving thousands of participants. The theory initially focused solely on consciously set goals. To date, the goal setting theory has shown generality across participants, tasks, nationality, goal source, settings, experimental designs, outcome variables, levels of analysis (individ- ual, group, division, and organizational), and time spans. The theory identiﬁes both mediators and moderators of goal effects. Numerous subsequent studies since 1990 have supported the main tenets of the theory. New ﬁndings have enlarged our knowl- edge of the relevant mediators and moderators as well as showing new applications (Locke & Latham, 2013). Among these discoveries are when to set learning rather than performance goals, the effect of goals primed in the subconscious on job performance, and that goal effects are enhanced by having people write at length about them.

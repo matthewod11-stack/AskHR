@@ -1,11 +1,17 @@
-## HBR / Digital Article / A New Way to Explain the Pause in Your Career
+---
+source_path: H06X12-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9c040979f49a8da0d4a320f07e3d72ee1394134
+title: H06X12-PDF-ENG
+---
+# standalone experiences.
 
-— especially during Covid— there are still plenty of managers who
+While the Career Break category is a step forward, some relaunchers
 
-exhibit bias or think it’s risky to hire someone who’s stepped away from
+may be leery of using it. As common as career breaks have become
 
-the workforce. LinkedIn stats bear this out: “While half (50%) of hiring
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-managers globally say that career breaks are becoming more common,
+4
 
-almost 60% (59%) of people believe there is still a stigma attached for
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,9 @@
-## accessible to as many employees as possible, not just those lucky
+---
+source_path: H07Q3D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f32247eec01277f5d4847845d2576c265a48978
+title: H07Q3D-PDF-ENG
+---
+# HBR / Digital Article / Research: A Little Nature in the Office Boosts Morale and Produ…
 
-enough to work below a green roof or alongside a park. Companies
-
-should provide employees with micro-nature experiences. Below, we oﬀer suggestions for incorporating micro-nature into the workplace,
-
-while also encouraging managers to take liberties and get creative in
+Bearing these ﬁndings in mind, we believe that nature should be

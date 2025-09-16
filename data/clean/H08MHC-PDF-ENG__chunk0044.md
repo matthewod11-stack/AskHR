@@ -1,9 +1,9 @@
-# RT
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14b417fe7353395a482d45a9ad670a017db9d6a7
+title: H08MHC-PDF-ENG
+---
+# RP
 
-Ryan Tandler, research director, leads a team of researchers at Gartner focused on identifying solutions to the major challenges facing chief procurement oﬃcers. He has led studies on supplier innovation, procurement digitization, functional transformation, and procurement analytics. In 2025, he and his team are focusing on procurement organizational design for a rapidly evolving future.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-12
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Ryan Polk, senior director analyst, supports Gartner’s chief procurement oﬃcer clients and their leadership teams on procurement transformation journeys. Ryan’s research interests include procurement strategic planning, the future of procurement, and category management.

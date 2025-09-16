@@ -1,7 +1,15 @@
-# catch-up on emails, and recharge.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 173508a595f1f8cf2e6996e0b52123b59a434837
+title: H06K3M-PDF-ENG
+---
+# work environment.
 
-- The initiation of more frequent pulse surveys focused on well–
+Three key actions emerged from these analytic insights:
 
-being and stress. Targeted actions emerged from a rapid cadence of
+- The implementation of a “Free-Form Fridays” policy. Employees
 
-employee listening. One action taken because of these surveys was
+were instructed to leave their calendars blocked starting at 2:00pm
+
+every Friday, to provide dedicated space to engage in “deep work,”

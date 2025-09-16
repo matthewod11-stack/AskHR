@@ -1,9 +1,11 @@
-# AC
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e2e2a5be5480951ea254d805d9bc27451a745d5
+title: H07OHG-PDF-ENG
+---
+# HBR / Digital Article / 5 Ways Companies Are Addressing Skills Gaps in Their Workforc…
 
-Anand Chopra-McGowan is general manager, UK & Europe for Emeritus, a fast growing ed-tech company that partners with the world’s best universities to make professional education accessible and aﬀordable. Prior to that, he was part of the founding team of General Assembly, which was acquired by the Adecco Group. He grew up in India, attended university and worked in the U.S., and currently lives and works in London.
+Editor’s Note: Harvard Business Publishing has a content creation and distribution partnership with Emeritus. Neither the author or editor who worked on this article are involved in that partnership.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This article was originally published online on June 15, 2023.

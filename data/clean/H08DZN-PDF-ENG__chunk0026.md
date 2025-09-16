@@ -1,29 +1,25 @@
-# leadership advantages.
+---
+source_path: H08DZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4722bcfd1ee80d3bcec56d7823e1c1c02898450f
+title: H08DZN-PDF-ENG
+---
+## Why is This Important for Organizations and Leaders?
 
-More broadly, our research highlights the importance of
+Although many people continue to refer to this “woman are too
 
-leadership behaviors that emphasize care. In our current work
+emotional” narrative as a reason for why women are unsuitable to be
 
-landscape, characterized by uncertainty and anxiety, workers report
+leaders compared to men, our research reveals that this stereotype
 
-wanting leadership that is more understanding and supportive.
+is inaccurate and fails to value women’s strengths. Women may be
 
-Transformational leadership, known for its communal values, is one
+more likely to experience certain emotions (such as anxiety during the
 
-such eﬀective approach. Studies show that women are more likely
+pandemic, as was the case in our research), but that does not mean
 
-than men to practice transformational leadership, though this is a
+that they are more susceptible to their negative inﬂuence when leading.
 
-behavior that can be developed or trained. However, although this
+Instead, we ﬁnd evidence of women putting others ﬁrst and leading
 
-leadership style boosts promotability for men, it does not do the
-
-same for women. Therefore, encouraging leaders to compassionately
-
-consider their reports’ needs alone is not enough. It is essential for
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+compassionately during uncertain times, highlighting their unique

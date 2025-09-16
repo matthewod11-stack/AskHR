@@ -1,21 +1,21 @@
-# Experimental Economics 1(1): 9-41.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: b5db7ff32fcd848ee84b0a9075598328e369f778
+title: behavioral_economics_1
+---
+## Cooperative Groups and Competitive Auctions, Univ Illinois, Urbana-champaign.
 
-Miller, E. M. (1977). "Risk, Uncertainty, and Divergence of Opinion." Journal of Finance 32(4): 1151-1168.
+Marcet, A. and J. P. Nicolini (2003). "Recurrent Hyperinflations and Learning." American Economic Review
 
-44
+93(5): 1476-1498.
 
-Modigliani, F. and R. Cohn (1979). "Inflation, rational valuation, and the market." Financial Analysts Journal
+McCaffery, E. J. (1994). "Cognitive Theory and Tax." Ucla Law Review 41(7): 1861-1947.
 
-35(3): 24-44.
+McClure, S. M., D. I. Laibson, G. Loewenstein and J. D. Cohen (2004). "Separate Neural Systems Value
 
-Mukerji, S. and J. M. Tallon (2004). An Overview of Economic Applications of David Schmeidler's Models Of
+Immediate and Delayed Monetary Rewards." Science 306(5695): 503-507.
 
-Decision Making Under Uncertainty. Uncertainty in Economic Theory: A Collection of Essays in Honor of
+McFadden, D. L. (1999). "Rationality for Economists?" Journal of Risk and Uncertainty 19(1-3): 73-105.
 
-David Schmeidler's 65th Birthday. I. Gilboa, Routledge.
-
-Mullainathan, S. (2002). Thinking Through Categories, MIT.
-
-Mullainathan, S. (in press). Psychology and Development Economics. Yrjo Jahnsson Foundation 50th
-
-Anniversary Conference on Economics Institutions and Behavioral Economics. P. Diamond and H.
+McKelvey, R. D. and T. R. Palfrey (1998). "Quantal response equilibria for extensive form games."

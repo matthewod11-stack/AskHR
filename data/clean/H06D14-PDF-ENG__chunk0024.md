@@ -1,11 +1,17 @@
-## and credible simply because of his skin color and sex.”
+---
+source_path: H06D14-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9efd16150060ee522aed72a95850ea00f900803b
+title: H06D14-PDF-ENG
+---
+## HBR / Digital Article / When You’re Stuck Working with a Slacker
 
-She quickly realized that covering for Brian would only perpetuate the
+A few years ago, she worked closely on a project with a colleague whom
 
-idea that he was as good as she was, when “he was not even close,” she
+we’ll call Brian. Brian was incompetent and lacking in motivation.
 
-says. Lauren knew she couldn’t change Brian; she could only change
+As a woman of color, Lauren felt a special urgency to address the
 
-how she handled the situation. She decided against going to her boss.
+situation. “Working closely with an underproducing white male was
 
-“I felt like if I complained about Brian, it would make me look petty or
+eye-opening for me,” she says. “He was viewed as more knowledgeable

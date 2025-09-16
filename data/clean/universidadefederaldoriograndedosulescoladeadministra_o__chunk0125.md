@@ -1,3 +1,7 @@
-## Unidos, em 1997/1998, a partir da iniciativa de Seligman que, com outros
-
-pesquisadores, começou a desenvolver pesquisas quantitativas visando à promoção
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 47226345aacc7a07a2be4e0cfee1cfb560cdfa9b
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## O movimento batizado de psicologia positiva surgiu oficialmente nos Estados

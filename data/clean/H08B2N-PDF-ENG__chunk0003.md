@@ -1,7 +1,15 @@
-# transportation via SpaceX.
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b781c8a9f5ab60cb94c19c053c60b67bfe37f272
+title: H08B2N-PDF-ENG
+---
+# fotodelux/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+From business leaders to athletes to everyday employees, passion is
 
-1
+often cited as a key ingredient in the success of high achievers. Consider
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Elon Musk, whose passion is undeniable. He followed this drive and
+
+went on to popularize electric cars through Tesla and reinvigorate space

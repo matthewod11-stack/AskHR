@@ -1,13 +1,23 @@
-# HBR / Digital Article / A Winning Parental Leave Policy Can Be Surprisingly Simple
+---
+source_path: H03TBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ddd26e20ec2277043457dc4ac860a62541cc617d
+title: H03TBY-PDF-ENG
+---
+# productivity and retention.
 
-Primary-caregiver policies are holdovers from the days when maternity
+Sad fact: Employers often shoot themselves in the foot by designing old-
 
-leave was available to birth mothers only, with partners and adoptive
+fashioned leave policies that undercut their recruitment and retention
 
-parents left out in the cold. Such policies reﬂect the assumption
+goals and may expose them to public relations backlash and legal
 
-that families will have one primary caregiver, supported by a partner
+liability. The most common misstep is making paid leave contingent
 
-with few, or no, caregiving responsibilities. It’s the old-fashioned
+on employees identifying as “primary caregivers.”
 
-homemaker/breadwinner model clothed in a tissue-thin veneer of
+Copyright © 2017 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

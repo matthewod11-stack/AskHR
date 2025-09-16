@@ -1,13 +1,15 @@
-## change that results in further disruption.
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c4c166adfabb2fd2364dbf98748cd7211d82ae29
+title: H08FE6-PDF-ENG
+---
+# perspective.
 
-This “hire from within” ﬁnding underscores the criticality of succession
+Homegrown leaders understand context and are decisively not “a
 
-planning, executive development programs, and ensuring the successor isn’t merely a disciple of the outgoing CRO. We see the most eﬀective
+playbook,” which is commonly how CROs switching companies position
 
-organizations making succession planning far more than a “check the
+themselves. External CROs delivering a rigid model overlook important
 
-box” activity. Instead, they carry several common practices:
-
-- Identify high-potential internal candidates early: Look for leaders
-
-who demonstrate not just commercial acumen, but also strategic
+organizational sensitivities and context, instead favoring brute, sudden

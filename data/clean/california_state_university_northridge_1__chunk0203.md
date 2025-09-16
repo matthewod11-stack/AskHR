@@ -1,15 +1,15 @@
-# potentially manifest into lawsuits.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 1367f9947bf7800c24996fefeb3a60d6ba0cf0b4
+title: california_state_university_northridge_1
+---
+## employee sign such a docwTient without reviewin.g key elements as
 
-1.13. Many legal problems arise because employers neither develop a
+deemed by the organization.
 
-written policy regarding workplace searches or provide employee with
+75
 
-adequate notice about searches" (Brady, 1995, p. 18). Employers
+1.12. Voluntary arbitration is an option for companies to explore, which
 
-should post notices in regards to searches if they apply and or other
-
-written notice dealing with employment issues. These written policies
-
-and procedures should be placed in the employee handbook and
-
-reviewed by a Human Resources representative and or an employment
+allows for a quick and effective way of resolving issues that could

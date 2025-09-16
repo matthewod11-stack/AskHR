@@ -1,3 +1,13 @@
-# Ethical declaration
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: f69289ef763bd3da0f15ee3fe3df2f9d3887432f
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+## Jesse William Mowat Jarrod Haar Darryl Forsyth
 
-This research meets the ethical standards prescribed by Massey University, Auckland, New Zealand. A low-risk notification was acknowledged by the Human Ethics Committee on 30 April 2024. Application ID: 4000028883.
+http://orcid.org/0009-0008-1047-9728
+
+http://orcid.org/0000-0001-8935-4953
+
+http://orcid.org/0000-0002-0359-3716

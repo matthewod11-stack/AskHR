@@ -1,17 +1,17 @@
-## HBR / Magazine Article / The Conflict-Intelligent Leader
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 091c932cbe442899ce83d8028a574e9b56bb9c24
+title: R2504D-PDF-ENG
+---
+## the company’s culture of ohana (a Hawaiian term that loosely
 
-gender pay gaps, he implemented systematic pay-equity reviews and
+translates as “extended family”), redeﬁning it as promoting respectful
 
-committed $3 million to correcting disparities.
+disagreement rather than forced harmony. When salary audits revealed
 
-The results demonstrated the value of this long-term approach. By
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-creating multiple channels for employee input and establishing clear
+15
 
-frameworks for addressing controversial issues, Salesforce successfully
-
-navigated numerous potentially divisive situations while maintaining
-
-strong employee engagement. The company achieved an employee
-
-retention rate in the top 10th percentile for companies of its size during
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

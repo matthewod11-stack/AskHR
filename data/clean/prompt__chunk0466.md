@@ -1,15 +1,21 @@
-## Document the various prompt a(cid:350)empts
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 6d37ea48e82b878a8f8448d19daae5b4a3143e5d
+title: prompt
+---
+# (cid:450)nal answer.
 
-The last tip was mentioned before in this chapter, but we can’t stress enough how impo(cid:457)ant
+With CoT and self-consistency you need to be able to extract the (cid:450)nal answer from your
 
-it is: document your prompt a(cid:459)empts in full detail so you can learn over time what went well
+prompt, separated from the reasoning.
 
-and what did not.
+For CoT prompting, set the temperature to 0.
 
-Prompt outputs can di(cid:441)er across models, across sampling se(cid:459)ings, and even across di(cid:441)erent
+Chain of thought prompting is based on greedy decoding, predicting the next word in a
 
-versions of the same model. Moreover, even across identical prompts to the same model,
+sequence based on the highest probability assigned by the language model. Generally
 
-small di(cid:441)erences in output sentence forma(cid:459)ing and word choice can occur. (For example, as mentioned previously, if two tokens have the same predicted probability, ties may be broken
+speaking, when using reasoning, to come up with the (cid:450)nal answer, there’s likely one single
 
-randomly. This can then impact subsequent predicted tokens.).
+correct answer. Therefore the temperature should always set to 0.

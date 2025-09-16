@@ -1,9 +1,7 @@
-# High stress
-
-7.5
-
-n o (cid:12) n e t n
-
-7.0
-
-6.5
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: cd4dd1eec35b0566f3ab8912d89ca0626d39da60
+title: read_online
+---
+# Low stress

@@ -1,9 +1,13 @@
-## information about each other in a new way.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c5206e755dc49afc09277ae9ba882bd8ba1880a
+title: H08H7H-PDF-ENG
+---
+## While much of the research on remote work and coworker relationships
 
-Drawing on previous research, including our own, that explores how
+assumes that remote work makes coworkers feel more distance from
 
-and why learning nonwork information about coworkers beneﬁts
+each other, we examined another possibility: We tested whether remote
 
-relationships, we theorized that working from home makes it more
-
-likely that coworkers will learn about each other in three important
+work makes coworkers feel closer by allowing them to learn nonwork

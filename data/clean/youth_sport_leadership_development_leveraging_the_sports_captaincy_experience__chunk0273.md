@@ -1,5 +1,7 @@
-# THE MOVE FROM LECTURE TO FACILITATION
-
-When we ﬁrst began CLTP ﬁve years ago, we designed and delivered lec- ture sessions organized by topic, such as motivating teammates, effective communication, and team building. While these were well received by clinic attendees, we as presenters felt that we did not connect enough with the ath- letes. At the same time, we were becoming better informed about the youth development literature which suggests that giving young people a sense of empowerment is far more effective than following a more adult-dominated model (e.g., Martinek & Hellison, 2009; van Linden & Fertman, 1998; Walker & Larson, 2006). Because of these experiences, we modiﬁed the program to give athletes a greater sense of control and responsibility in their own leadership development.
-
-More speciﬁcally, athletes are no longer given information and told to use it. Lecture is therefore minimal. Rather than “spoon-feeding” the ath- letes information from expert authority ﬁgures, the program follows a far more egalitarian model where the athletes are challenged to come up with answers to big leadership questions themselves and encouraged to ask for help along the way. Through small and large group discussions and activ- ities, the athletes have an opportunity to collaborate with their same-age
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: 02a8ccc3d4f273df477911045a8dacaa82c8cc33
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# What We Have Changed

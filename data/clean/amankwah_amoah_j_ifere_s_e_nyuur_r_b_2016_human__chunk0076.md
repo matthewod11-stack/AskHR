@@ -1,5 +1,13 @@
-## restructuring decisions. Journal of Finance, 64(1), 341-374.
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 9c6fd45681250ba50cf875d032049d592e82153e
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Business Research, 72, 1-10.
 
-Audia, P. G., Locke, E. A., & Smith, K. G. (2000). The paradox of success: An archival and laboratory study of strategic persistence following radical environmental change. Academy of Management Journal, 43(5), 837–854.
+Amankwah-Amoah, J., Nyuur, R., & Ifere, S. (2016). A question of top talent? The effects of lateral hiring in two emerging economies. International Journal of Human Resource Management, 1-25.
 
-Barnes, D. C., Ponder, N., & Hopkins, C. D. (2015). The impact of perceived customer delight on the
+Amason, A. C. and Mooney, A. C. (2008). The Icarus paradox revisited: how strong performance sows the seeds of dysfunction in future strategic decision-making. Strategic Organization, 6(4), 407–434.
+
+Atanassov, J., & Kim, E. (2009). Labor and corporate governance: International evidence from

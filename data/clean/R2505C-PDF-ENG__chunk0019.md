@@ -1,5 +1,11 @@
-## public and private infrastructure projects around the world over the
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e2510bfffa3cf75fc2cb5a4aedb72155c11689d
+title: R2505C-PDF-ENG
+---
+## HBR / Magazine Article / Now Is the Time for Courage
 
-next 25 years). Such data points—along with more detailed analysis—
+sitting idle in banks and money market funds in the United States alone)
 
-gave Fink and his management team the conﬁdence to pursue three
+with government and corporate needs (an estimated $68 trillion for

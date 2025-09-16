@@ -1,17 +1,37 @@
-## values. You could, for instance, share a hallway conversation with an
+---
+source_path: H08QZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b7fa5d2e98131900940adbfcb20e54e5457dc23
+title: H08QZW-PDF-ENG
+---
+## a large group, then a facilitator gathering questions or chat group
 
-employee that highlights how their work connects to the bigger picture,
+comments can be very helpful.” Pay close attention to what you hear,
 
-or a story about a customer where the team’s eﬀorts solved a real
+advises DeChurch. “You might realize you missed a point for empathy,”
 
-problem. To be clear: you’re not cheerleading or sugarcoating. Rather,
+she says. “Or maybe someone will raise an operational question, or
 
-you’re oﬀering “a micro moment that helps people remember why they
+something related to their functional job, and you’ll have a chance to
 
-do what they do,” she says.
+adjust and reﬁne your approach.” Most importantly, the feedback will
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+help you gauge whether your approach is landing. Remember: “The
 
-4
+biggest driver of your team’s success is their understanding of how their
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+role connects to the organization,” she says. And in this new context,
+
+that connection makes all the diﬀerence.
+
+Reawaken to purpose
+
+This isn’t a moment for Pollyanna optimism, but DeChurch
+
+recommends trying to end the meeting in way that leaves people feeling
+
+a sense of clarity and purpose. “People can’t leave feeling demoralized
+
+or scared,” she says. “They need to feel empowered.” She suggests
+
+drawing on an example that ties to the organization’s mission and

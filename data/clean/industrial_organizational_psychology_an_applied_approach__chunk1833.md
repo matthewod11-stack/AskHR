@@ -1,11 +1,9 @@
-# Organizational Analysis
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3eeeed9c427d12b5e7e3bf2787151713d42f3dfd
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Person analysis
 
-The purpose of organizational analysis is to determine those organizational factors that either facilitate or inhibit training effectiveness. For example, an orga- nization may view training as important but may not have the money to fund its training program, may be unable to afford the employee time away from work to be trained, or may not wish to spend money on training because employees leave the organization after a short period of time. A properly conducted organizational analysis will focus on the goals the organization wants to achieve, the extent to which training will help achieve those goals, the organization’s ability to conduct training (e.g., finances, physical space, time), and the extent to which employees are willing and able to be trained (e.g., ability, commitment, motivation, stress) (McCabe, ).
-
-A good example of the importance of organizational analysis comes from an AT&T business center. Employees at the center needed training due to the addition of new technology and a renewed company interest in customer service. However, because of recent layoffs and an increase in business, managers refused to let employees receive training “on the clock.” As a result, an expensive series of newly developed training programs sat on the shelf.
-
-An organizational analysis should also include a survey of employee readi- ness for training. For example, a large organization recently had several rounds of layoffs and had not given its employees salary increases in three years. When the organization introduced a new training program, it was surprised to find that the employees were so angry at the company that they were “not in the mood for training.” As you can imagine, the training program was a bust! Thus training will be effective only if the organization is willing to provide a support- ive climate for training, it can afford an effective program, employees want to learn, and the goals of a program are consistent with those of the organization (Broadwell, ).
-
-designing and evaluating training systems
-
-289
+Performance appraisals Surveys Interviews Skill and knowledge testing Critical incidents

@@ -1,15 +1,17 @@
-# wasted time.
+---
+source_path: H08UHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5be7fa3b8da38609ad5e497f4e3fd35bbcb36df5
+title: H08UHK-PDF-ENG
+---
+## Writing for Busy Readers: Communicate More Effectively in the Real
 
-One of the most important principles is less is more. As Blaise Pascal
+World (co-authored by Todd along with Jessica Lasky-Fink), lays out
 
-famously wrote, “I’m sorry this letter is so long. I would have written
+six science-based principles for writing so busy people will actually
 
-a shorter one if I’d had more time.” Our research supports Pascal’s
+read and respond. The core idea? Make it easy for skimmers. While
 
-wisdom. In one experiment, we randomly assigned 7,000 elected and
+the speciﬁcs vary by context, teams that establish clear norms around
 
-appointed leaders to receive either a 129-word request to complete a
-
-survey or a version where we removed the middle sentences so it was
-
-only 49 words. When we tested both versions with an independent group, most assumed the longer one would be more eﬀective. But the data told a diﬀerent story—cutting words nearly doubled the response
+readability can ensure that their messages get through with minimal

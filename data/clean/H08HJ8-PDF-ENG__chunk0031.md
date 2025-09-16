@@ -1,17 +1,9 @@
-## credibility, relationships, and future opportunities in the process. True
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c431c88d32d9f0c25a5c48c18c1e0e9f0c299521
+title: H08HJ8-PDF-ENG
+---
+# your actions, and your impact.
 
-leadership doesn’t include having the perfect manager — it’s about how
-
-you respond when things aren’t going to plan. Facing challenges head-
-
-on and using them as opportunities for growth will increase your ability
-
-to navigate and even thrive in less-than-ideal circumstances.
-
-This article was originally published online on November 14, 2024.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+By choosing to collaborate rather than resist, you can preserve your

@@ -1,27 +1,35 @@
-# Meyer.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 076afac69106caa3f9685c2b7b006404780fd0cd
+title: H07T7V-PDF-ENG
+---
+## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
 
-He successfully worked hard on building a company that would correct
+ANDREW MCAFEE:
 
-him, the boss, the high status prestigious person at the top of the
+Not listening to his peers, to his colleagues, to his advisor. He didn’t
 
-organization. It’s part of this great geek norm of openness that I talk
+appear to be a great listener, which is this kind of stereotypical trap that
 
-about. How do you build a company that will get it right when the
+a lot of industrial-era companies fall into. Tech leaders also fall into this
 
-person at the top of the org chart is wrong? Man, that’s a hard problem.
+trap quite often. You become enamored of your own success and you
 
-ADI IGNATIUS:
+really stop listening. It’s incredibly common.
 
-It’s a hard problem. And I’m sure some people are going to read your
+One of the things that is powerful, and that I respect about people like
 
-book and think, “Hang on, a lot of these companies we’re talking
+Reed Hastings at Netﬂix is that he was able to build a business that got
 
-about are Silicon Valley startups or somewhere in that realm.” The
+important decisions right when he himself was wrong about them. In
 
-popular perception is these are not cultures that you necessarily
+the book I talk about a couple of them.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+He was dead-ﬂat wrong about the utility of downloading to the Netﬂix
 
-6
+app. He thought it wouldn’t be very useful at all; it’s incredibly useful.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+He was wrong about the importance of kids’ programming for Netﬂix.
+
+And he admits this in the book, No Rules Rules that he wrote with Erin

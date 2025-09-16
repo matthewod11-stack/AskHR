@@ -1,7 +1,7 @@
-# Developing Relationships
-
-After an idea forms and a relationship is made, the collaborators have to
-
-deﬁne their shared goals, metrics, and targets and devise the processes
-
-and structures they’ll need to make their idea a reality and support the
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b34ce20d545049d84b3bd4b481473973f79ff604
+title: R2402F-PDF-ENG
+---
+# [ Step 2 ]

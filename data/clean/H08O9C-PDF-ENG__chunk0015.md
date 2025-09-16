@@ -1,13 +1,17 @@
-# rather than the norm.
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ee6424817595b345a7c0155c5aae4b5282eaa10
+title: H08O9C-PDF-ENG
+---
+## and feedback on my potential and employability?”
 
-- 2. Resume & LinkedIn Optimization
+While the accuracy of the results may be inferior to that of a highly
 
-A strong resume and LinkedIn proﬁle are critical to standing out
+qualiﬁed human coach (armed with science-based assessments), it is
 
-in a competitive job market. Gen AI can help you craft compelling
+probably superior to a typical or average coach. In line, academic
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+reviews have long shown that a low barrier to entry, idiosyncratic
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+personal factors linked to the coach, and a general lack of training all contribute to making eﬀective, science-based coaching the outlier

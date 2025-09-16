@@ -1,9 +1,23 @@
-## Place ownership in the hands of the company’s customers. John Bogle
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f398880b1f9117f2d444a6368b8793fc039fbe3d
+title: R2505H-PDF-ENG
+---
+## Rutgers University Institute for the Study of Employee Ownership and
 
-created Vanguard, a pioneer in the ﬁeld of passive investing, as a mutual
+Proﬁt Sharing. The main reason to pursue employee ownership is that
 
-company owned by the individuals who invest in its funds. The outdoor
+the business can remain private and stay true to its purpose while
 
-gear and clothing business REI is a consumer cooperative, owned by its
+allowing the founder to share the value created with the staﬀ. There
 
-members. A large number of companies are also cooperatives, including
+can also be tax beneﬁts with certain types of structures. The main risks
+
+are that the company will have to take on debt if it’s buying out the
+
+founder’s shares, that it may face additional regulatory requirements,
+
+and that tension could arise between employees who are looking to cash
+
+out their shares at retirement and those who are investing for the future.

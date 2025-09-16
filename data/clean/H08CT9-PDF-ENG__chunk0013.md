@@ -1,15 +1,13 @@
-# HBR / Digital Article / Is Your Organizational Transformation Veering Off Course?
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8cb4aa95b1f87b2ae19440b0bc781d2768fe882f
+title: H08CT9-PDF-ENG
+---
+# years alone.
 
-This is the internal and external context in which turning points
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-happen, and 80% of executives we surveyed agreed that how they
+2
 
-navigate a turning point — and how early they intervene — can
-
-determine whether the overall transformation continues to stagnate or
-
-if it accelerates performance and improves the outcome. Our research
-
-found successfully navigating a turning point means the transformation
-
-program is 1.9 times more likely to overperform its target KPIs.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

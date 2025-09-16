@@ -1,15 +1,31 @@
-## environment, communication among employees, and training and
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a42f7b271b53181e73f7b41c9ff874fba43870cd
+title: H07Z4W-PDF-ENG
+---
+# HBR / Digital Article / When You Want to Be Hybrid, But Your Boss Wants You in the O…
 
-mentorship. On the ﬂip side, the same survey found that more than
+Allison’s scenario is a real one, not hypothetical — we worked together.
 
-half of respondents believe work-from-home policies make it easier to recruit staﬀ, and more than two-thirds of respondents said such policies help to retain staﬀ.
+In our coaching, we discussed how her manager’s comment could be
 
-Appreciate that your company may be riding a similar wave of
+used as a springboard for her ﬂexible working request. This article
 
-excitement and uncertainty. Here are some tips to better understand
+outlines ﬁve strategies that Allison used — and that you can use, too
 
-your employer’s perspective around remote work, and to help you
+— to conﬁdently and respectfully negotiate a hybrid work schedule.
 
-prepare for and conduct a productive and empathetic discussion:
+- 1. Understand your employer’s side
 
-- Speak with key people like your manager (and, if you have one, your
+Research ﬁnds hybrid work is trending up, from 35% in January
+
+2022 to 41% in March 2023. Yet, remote work is still a young
+
+concept. And young concepts carry both excitement and uncertainty.
+
+Approximately two-thirds of business leaders surveyed by the Federal
+
+Reserve Bank of New York in August 2023 say remote work negatively
+
+impacted four areas: workplace culture, cohesiveness and team

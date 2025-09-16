@@ -1,9 +1,19 @@
-## HBR / Digital Article / What Comes After DEI
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1bfb6c5678a5cd58eeeb00e0c495c0417309392b
+title: H08LGU-PDF-ENG
+---
+# behavior.
 
-the blame for a problem or the onus of problem-solving to small groups
+- Coalition-Driven, focusing on engaging the wide range of people who
 
-of employees, a coalition-building approach aims to engage everyone
+stand to beneﬁt from a healthier and fairer workplace, rather than
 
-in taking responsibility and working together to ﬁnd solutions that
+limiting participation by identity or ideology. Rather than delegating
 
-work for all, even if not everyone shares the same beliefs about the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

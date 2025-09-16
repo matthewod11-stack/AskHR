@@ -1,15 +1,17 @@
-# The Performance Appraisal Process
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 1e2c1efcad9cdf4d3d3f8eda758e33afd17daf56
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# 2.Identifying Strengths and Weaknesses:
 
-The performance appraisal process typically follows a set of steps:
+Through performance appraisal, managers can identify both strengths and weaknesses in their employees' performance. This information is invaluable for making informed decisions about training, development, and talent management.
 
-- 1. Goal Setting:
+- 3. Feedback and Coaching:
 
-The process begins with setting clear, specific, and measurable performance goals and expectations for employees. These goals should align with the organization's objectives.
+Performance appraisal offers a platform for delivering constructive feedback to employees. It allows managers that need to recognize outstanding performance and address areas improvement. Effective feedback is essential for employee growth and development.
 
-- 2. Performance Measurement:
+- 4. Motivation and Engagement:
 
-Throughout the performance period, employees' progress toward their goals is monitored. Managers collect data on their performance, such as output, quality of work, and behavior.
-
-- 3. Appraisal Meeting:
-
-The actual appraisal meeting is a critical step. During this meeting, the manager and the employee discuss the employee's performance, strengths, weaknesses, and areas for improvement. It's also an opportunity to clarify expectations and address any concerns.
+When employees receive recognition for their achievements during performance appraisal, it can boost their motivation and job satisfaction. Knowing that their efforts are acknowledged and valued can lead to increased engagement.

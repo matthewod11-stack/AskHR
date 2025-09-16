@@ -1,1 +1,13 @@
-# Significant
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 503977e1159134910322ad1e6eaf72c65439c0b5
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Rev J Autism Dev Disord (2019) 6:413–421
+
+(2015) reported that 38% of the behavior technicians in their sample indicated that they were highly or somewhat likely to resign. While this may seem high in comparison to annual voluntary resignation rates reported in the total workforce (i.e., 26%; Bureau of Labor Statistics 2018), it is much lower than annual turnover rates reported for direct- care staff of individuals with DD (i.e., 70.7% to 77%; Mitchell and Braddock 1994; Seninger and Traci 2002). Participants in the included studies were also found to have low levels of burnout as compared to normative data (Gibson et al. 2009). It should be noted that participation in the included studies was voluntary and thus the findings are reflective of staff who are motivated to participate in research. It is unknown if intention to turnover or level of burnout differed between staff who did and did not volun- teer to participate (Griffith et al. 2014; Kazemi et al. 2015). Despite this limitation of the reviewed studies, the predic- tors identified in the studies have important implications. A number of employee and organizational factors were found to be associated with burnout, job satisfaction, and inten- tion to turnover in behavior technicians.
+
+One strategy for improving staff retention is considering whether an organization’s hiring practices are identifying po- tential employees who are a good fit for the position. While education and experience are often given weight during the hiring process, such demographic variables were not found to be significant with respect to burnout (Gibson et al. 2009; Griffith et al. 2014; Hurt et al. 2013) or intention to turnover (Kazemi et al. 2015) in behavior technicians.
+
+Measurement of character traits of perspective employees may be informative to the hiring process. Preliminary evi- dence suggests that personality traits (Hurt et al. 2013) and negative implicit attitudes towards children with ASD (Kelly and Barnes-Holmes 2013) are associated with burnout in be- haviortechnicians.Future researchshouldinvestigate whether such assessments of character traits are associated with turn- over. In addition to burnout, behavior technician personality factors and attitudes towards individuals with disabilities have beenlinkedto proceduralfidelity(Peters-Scheffer etal. 2013). Staff retention is just one factor of importance to employers. Treatment fidelity and patient outcomes are also highly sig- nificant priorities. Tools that may identify job candidates that are less likely to turnover and more likely to have high

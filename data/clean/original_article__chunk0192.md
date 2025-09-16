@@ -1,7 +1,19 @@
-# (2003) The coming Ivey
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: f2c2d5389b39645b5c85751c26173bfe481dab34
+title: original_article
+---
+# of Team Knowledge, Skills
 
-revolution in corporate governance. Business Journal 68(1): 1–11.
+Haynes, K.T. and Hillman, A. (2010) The effect of board capital and CEO power on strategic change. Strategic Management Journal 31(11): 1145–1163.
 
-Heidrick and Struggles (2010) USC and Heidrick & Struggles Board Director Survey: Achieving the Perfect CEO-Board Dynamic. Marshall School Center for Effective Organizations.
+Karamanou, I. and Vafeas, N. (2005) The associa- tion between corporate boards, audit commit- tees, and management earnings forecasts: An empirical analysis. Journal of Accounting Research 43(3): 453–486.
 
-Leblanc, R. and Gillies, J. (2005) Inside the Board- room: How Boards Really Work and the Coming Revolution in Corporate Governance. London, ON: Wiley.
+Kenny, D.A. (2003) Measuring model ﬁt, http:// www.davidakenny.net/cm/ﬁt.htm, accessed 26 November 2011.
+
+Lawler, E.E., Mohrman, S.A. and Ledford, G.E. (1995) Creating High Performance Organizations: Practices and Results of Employee Involvement and Total Quality Management in Fortune 1000 Companies. San Francisco, CA: Jossey-Bass.
+
+Leblanc, R. and Gillies,
+
+J.

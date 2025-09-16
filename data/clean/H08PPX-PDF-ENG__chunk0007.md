@@ -1,3 +1,11 @@
-## equitable representation, access, and treatment—organizations often
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 757616abb4abbc8484bc714214c006099e2850fc
+title: H08PPX-PDF-ENG
+---
+# capitalize on in the years ahead.
 
-reduce this complexity to headcount.
+- 1. Instead of measuring progress by headcount, align metrics with organizational values.
+
+While leaders recognize that DEI is a multifaceted issue—encompassing

@@ -1,35 +1,29 @@
-# of work.
+---
+source_path: H07WWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 003aedbdd4303097022c2f46011d7d0ad4555a9f
+title: H07WWT-PDF-ENG
+---
+## HBR / Digital Article / How to Prepare for the Deluge of Year-End Requests
 
-Clarify what you’re being asked to do.
+By communicating and committing to your own time oﬀ, you’re helping
 
-In his mind, the presentations my client Jacob was asked to make
+others plan ahead — and you’re serving as a good role model, too.
 
-would require him to spend several evenings designing a fat deck of
+Even if you’ve done the work to communicate your time oﬀ, others may
 
-detailed PowerPoint slides. But as we began to talk through next steps,
+try and push your vacation boundaries. For example, a boss or team
 
-he realized he was jumping into action without clarifying the need.
+member might and ask for “just one more thing,” and you might be
 
-Most of us aren’t experts in the art of making requests. Jacob’s leaders
+tempted to help out.
 
-were no exception. When he took a moment to clarify the scope of the
+Instead, decide in advance how you’ll handle this situation — before
 
-request, Jacob uncovered that the need could be satisﬁed by sharing an
+anyone even asks. Being prepared with a simple answer like “That’s
 
-existing report and scheduling a more planful, deep-dive overview of
+not going to be possible, so let’s talk about other solutions” can help
 
-the full-year results in January. What would have been an after-hours
+you hold yourself accountable to the break you need. Besides, it’s great
 
-slog turned into a simple, less-stressful solution.
-
-When you get a last-minute request, don’t hesitate to ask more
-
-questions to understand the problem your leaders want you to solve
-
-— and their reasons why it needs to be done now.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+practice at the art of saying no — a skill we all need in our nonstop world

@@ -1,31 +1,19 @@
-## return to their same job or organization — or even career.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00d1c5451f605905f1155ed1a86472a8abef1d62
+title: H08LRM-PDF-ENG
+---
+# What Constitutes a Sabbatical?
 
-Other deﬁning attributes include:
+There’s no universally agreed-upon deﬁnition of sabbatical, even among
 
-Duration. Sabbaticals are measured in months, not days or weeks.
+academics, where the practice originated as a way to learn about new
 
-Ideally, they run from three months to a year. Most folks I’ve
+ﬁelds of studies and to rest and recover. For our purposes, the deﬁnition
 
-interviewed said it took them up to eight weeks — much longer than
+is simple: an intentional extended leave from your job-related work.
 
-they’d expected — to even begin to detach from work. As one operations
+Some employers oﬀer a formal beneﬁt of paid or unpaid sabbaticals.
 
-manager who took a three-month stint abroad explained: “I had to be
-
-forcibly removed from access [to my work routines]. Only after enough
-
-time away from those patterns did the world suddenly feel so big again.
-
-And I thought ‘Oh my God, there’s life beyond work.’”
-
-Disconnection. True sabbaticals require full disconnection from any
-
-work that is a part of — or even resembles — the taker’s prior job.
-
-(I recommend setting your inbox to autorespond to and then delete
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+But many people choose to take one without the promise or security to

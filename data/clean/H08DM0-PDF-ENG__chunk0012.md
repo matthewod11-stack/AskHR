@@ -1,23 +1,15 @@
-# Practice empathy.
+---
+source_path: H08DM0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b822b9211473c03a48fcb71266740dee44e684b
+title: H08DM0-PDF-ENG
+---
+## Fit, Right Fit: Why How We Work Matters More Than Ever.
 
-It’s tough to summon compassion for someone whose rushed decisions
+“You need to get really good at asking questions, providing information,
 
-are making your job harder, but “put yourself in your new boss’s shoes,”
+and oﬀering feedback,” he says. “Think about it as an opportunity
 
-says Banu. “They’ve just started at a new organization and they’re eager
+to renew your commitment to your organization and build a new
 
-to prove themselves.”
-
-Bear in mind, too, your new boss might be dealing with pressure from
-
-higher-ups that you’re not aware of. They may be trying to deliver
-
-on promises they made during their interviews, which often means
-
-bringing about big changes in a short amount of time, says Martin.
-
-In other words: Your new boss is monumentally stressed. “In the ﬁrst 90
-
-days, you’re not seeing them at their best,” says Martin. Assume good
-
-intentions and “give them grace.”
+relationship.” Here’s what our experts advise.

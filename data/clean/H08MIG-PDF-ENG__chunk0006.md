@@ -1,31 +1,21 @@
-## with our colleagues, Shubha Sharma at the University of Tulsa, Mike
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a15b1c50d0f438f532a9f1ef084a1be6cf44b5c3
+title: H08MIG-PDF-ENG
+---
+# small slights.
 
-Baer at Arizona State University, Bob Bies at Georgetown University,
+Yet while being lenient may seem like the easy or empathetic thing to
 
-and Natalie Croitoru at University of North Carolina. Our ﬁrst study
+do, our research suggests that leniency can yield mixed consequences
 
-examined the consequences of being lenient for managers themselves,
+for managers and employees, and should be used with caution and
 
-and our most recent study examined the consequences of leniency
+care. Despite natural inclinations to act with empathy or use a laid-back
 
-from the perspective of other employees observing the situation. Across
+approach, managers should recognize that being lenient may lead to
 
-our studies, we examined leniency with various forms of misconduct,
+unintended consequences and raise concerns about bias and injustice.
 
-ranging from task-oriented problematic behavior, such as absenteeism,
-
-clocking in late, or failing to meet expectations on deliverables, to
-
-ethical transgressions, such as showing up to work intoxicated, inciting
-
-violence, or lying to and cheating customers and colleagues.
-
-Our ﬁndings make one thing is clear: leniency evokes strong and
-
-complex reactions for managers and onlooking employees. These
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Over the past decade, we have studied lenient reactions to misconduct

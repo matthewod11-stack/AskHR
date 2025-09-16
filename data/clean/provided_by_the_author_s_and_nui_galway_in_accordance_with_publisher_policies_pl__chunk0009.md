@@ -1,3 +1,7 @@
-# Link to publisher's version
-
-http://dx.doi.org/10.1016/j.hrmr.2009.04.001
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: e8c337e7a6273341b51622f475e5a2bb0f2f0886
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# Elsevier

@@ -1,17 +1,23 @@
-# Consumer staples
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bc36fcfabf70883f89d85842f8fde40f5a001682
+title: R2101J-PDF-ENG
+---
+# Telecommunication services
 
-83
+85
 
-17
+15
 
-77
+80
 
-23
+20
 
 66
 
 34
 
-74
+75
 
-26
+25

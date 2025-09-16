@@ -1,17 +1,29 @@
-## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca9e291fed51560ea4afaa6b1985bd1ebde507be
+title: S24054-PDF-ENG
+---
+# last college game, in the Orange Bowl.
 
-block the linebackers and create holes for the running back with the
+The way I handled myself during the ﬁrst few games of that season,
 
-ball. It’s hard work. It’s very physical and taxing on your body, not to
+when things didn’t go the way I wanted them to, was very important in
 
-mention that there’s not a lot of glory in it. In football, the camera
+my development as a leader. I continued to work hard, I put the team
 
-follows the ball carrier, and blockers tend to go unrecognized. But Brian
+ﬁrst, and I always supported my teammates, even as I tried to prove that
 
-Griese made a point to tell people: “There’s nobody I’d rather have in the
+I was the right person to play quarterback. This fundamental change in
 
-backﬁeld with me than Chris Floyd.” The recognition meant everything
+attitude set the tone for the rest of my athletic career.
 
-to Chris. After hearing that, he walked around like he was 10 feet tall.
+Show appreciation for unsung colleagues. At Michigan, we had a great
 
-That made a huge impression on me. I began making a habit of giving
+fullback named Chris Floyd. On running plays, his primary job was to
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

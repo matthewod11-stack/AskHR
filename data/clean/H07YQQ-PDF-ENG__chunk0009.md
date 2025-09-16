@@ -1,13 +1,17 @@
-# frustratingly vague.
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84ce29f884d148fa692fcf0b07d32f57bf22fe01
+title: H07YQQ-PDF-ENG
+---
+## HBR / Digital Article / A Guide for Getting Stakeholder Buy-In for Your Agenda
 
-As a result, they procrastinate. They’re pulled toward urgent but less
+This is where we meet many of our clients. They are successful leaders
 
-important tasks. Conquering the small stuﬀ is just so much easier and
+who can run their business units and lead their teams. They are experts
 
-provides more immediate gratiﬁcation.
+in their domain, but when it comes to driving an agenda across the
 
-This article aims to help leaders avoid this trap and become eﬀective
+enterprise, they falter. While our clients have accepted the utility of
 
-political operators. We oﬀer you four domains to cultivate along with
-
-practical questions to assist you in advancing your strategic objectives
+playing politics, which is often the ﬁrst hurdle, the “how-tos” remain

@@ -1,19 +1,21 @@
-## Foods Market, our former Co-CEO, Walter Robb and CFO, Glenda
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94fb1a3e4ebed1fd7693fc92473fafb907a2689b
+title: H07U7Q-PDF-ENG
+---
+# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
 
-Flanagan. As they were looking to hire a new CIO or CTO, they had
+JASON BUECHEL:
 
-reached out to me. I had provided some names of some clients that I
+I’ve had the opportunity to work in retail since 2000. My ﬁrst set of
 
-thought would be good folks to go for the job, and they reached back out
+experiences really came through consulting. I worked for Accenture and
 
-and said, “Why aren’t you putting your name on? We’d really love for
+had an opportunity to work with a lot of leading retailers and grocers,
 
-you to consider joining Whole Foods.”
+both here in the US and around the world. It was that passion I had in
 
-I came to Austin, spent two days here, and just really had an amazing
+working within the retail space.
 
-appreciation for the fact that the higher purpose and core values weren’t
-
-just words on a wall. They were being lived out day-to-day. That was the
-
-awakening that this is the right place for me to go work and spend the
+That career allowed me to connect with several executives at Whole

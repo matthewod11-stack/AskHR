@@ -1,13 +1,17 @@
-# HBR / Digital Article / Why Employee Mediations Fail — and How to Get Them Back on…
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86befd1259a34c334d030865600e9c673fe08549
+title: H075PH-PDF-ENG
+---
+# face.
 
-is to assess which of the pitfalls the parties are at risk of falling into and
+In some mediations, you may need to play all four of these roles to move
 
-respond accordingly. Much like controlling the center of a chess board,
+things forward. Other times, you may lean heavily into just one. The key
 
-successful mediation is also about knowing which risk to address when
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-and how to get back to a smooth resolution process.
+6
 
-Editor’s note: This article was prepared by Joshua Flax in his personal capacity. The views and opinions expressed in this article are his own and do not necessarily reflect the views of the Federal Mediation and Conciliation Service (FMCS) or the United States government. References to the FMCS should not be construed as FMCS’s endorsement of any product, service, enterprise, or the material contained herein.
-
-This article was originally published online on July 26, 2022.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

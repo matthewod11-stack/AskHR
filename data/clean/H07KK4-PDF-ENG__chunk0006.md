@@ -1,15 +1,7 @@
-# Jovo Jovanovic/Stocksy
-
-A recent Washington Post article highlighted a seemingly obvious, yet
-
-critically important ﬁnding from research conducted by Maureen Perry-
-
-Jenkins: When parents work in more supportive environments, they are
-
-able to be more eﬀective in their parenting roles. This, in turn, leads
-
-to better developmental outcomes for their children. It’s no surprise
-
-that this news article quickly made the rounds across social media for
-
-parents — it articulates what so many working parents have felt: that
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 855032888c99773d59836b90fb2e9f19eed66ccf
+title: H07KK4-PDF-ENG
+---
+## Published on HBR.org / April 14, 2023 / Reprint H07KK4

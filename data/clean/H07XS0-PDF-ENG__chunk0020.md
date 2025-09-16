@@ -1,15 +1,19 @@
-# coach.
+---
+source_path: H07XS0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebefe67f07ba6e2842f1192b6bf281256ef90ad0
+title: H07XS0-PDF-ENG
+---
+## HBR / Digital Article / What It Really Takes to Become an Executive Coach
 
-To mitigate this, many new coaches diversify their businesses by
+revenue from coaching. Typically, the more experienced the coach,
 
-oﬀering services beyond coaching. Almost all coach practitioners (93%)
+the higher the reported average fee per one-hour coaching session.
 
-oﬀer services in addition to coaching. Most frequently, coaches also
+Newer coaches fresh out of a certiﬁcation program can expect $100-
 
-oﬀer consulting (59%), training (58%), and/or facilitation services (55%).
+$300 per coaching hour, while some seasoned coaches earn over $750
 
-Coaches might teach a range of workshops — both virtually and in-
+per coaching hour. In our experience, C-level executives expect their
 
-person — on topics related to leadership development. On average,
-
-coach practitioners oﬀer almost three (2.8) services in addition to
+coaches to have at least 5-7 years of full-time experience as an executive

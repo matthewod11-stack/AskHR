@@ -1,13 +1,21 @@
-## during her leave about upcoming opportunities or not.
+---
+source_path: H060QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f7a544ced7ff493e057c84e1e7853fae3c6c574
+title: H060QI-PDF-ENG
+---
+## HBR / Digital Article / Maternity Leave Isn’t Enough to Retain New Moms
 
-What other policies do you have to support new mothers?
+aspirations, checking in as you would with any employee on how they
 
-Companies need a robust suite of policies to make motherhood work for
+want to grow in the organization. Come into those conversations with
 
-new working mothers. According to the Society for Human Resource Management (SHRM), 81% of companies oﬀer new mothers ramping
+an open mind and listen carefully.
 
-back to work options after they return from leave.
+If you hear that her ambitions are unchanged, ensure she is guaranteed
 
-While some women will want options to help them ramp back to full- time work, others will want to explore alternative options. Oﬀer a suite
+her same role when she returns and included in succession planning
 
-of possibilities including ﬂexible working, part time, or job-sharing
+for key roles. Give her clear guidance on what it takes to get that next
+
+assignment or promotion and ask her if she would like to be contacted

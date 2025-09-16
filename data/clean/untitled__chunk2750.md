@@ -1,5 +1,17 @@
-# York: Van Nostrand-Reinhold.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f243580f81a2ba53baae51f769b4162b9da630b7
+title: untitled
+---
+# 1876–1969. Detroit, MI: Balamp.
 
-McKeachie, W. J. (1969). Proceedings of the American Psychologi- cal Association, Incorporated, for the year 1968: Minutes of the annual meeting of the Council of Representatives, September 1, 1968, San Francisco, and October 5 & 6, 1968, Washington, DC: American Psychologist, 24, 19–41.
+Jenkins, A. H. (1995). Psychology and African Americans: A hu- manistic approach (2nd ed.). Needham Heights, MA: Allyn & Bacon.
 
-Messer, S., Sass, L., & Woolfolk, R. (Eds.). (1988). Hermeneutics theory. New Brunswick, NJ: Rutgers
+Kardiner, A., & Ovesey, L. (1962). The mark of oppression. Cleveland,OH:MeridianBooks.(Originalworkpublished1951)
+
+Kitano, H. H. (1969). Japanese-American mental illness. In S. S. Plog & R. B. Edgerton (Eds.), Hanging perspectives in mental illness (pp. 256–284). New York: Holt, Rinehart and Winston.
+
+Martin, J., & Sugarman, J. (1999). The psychology of human possi- bility and constraint. Albany: State University of New York Press.
+
+Maslow, A. H. (1968). Toward a psychology of being (2nd ed.). New

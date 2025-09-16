@@ -1,37 +1,95 @@
-# References:
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: cb156b9ae11bbdd05e46bddb361bf5d9683aecd3
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# 3.0 Conclusion
 
-Arthur, M.B. (1994) “The boundaryless career: A new perspective for organizational enquiry”, Journal of Organizational Behaviour, 15, 295-306.
+Given the high level of interest in the concept of talent management over the past
 
-Arthur, M.B. and Rousseau, D.M. (eds) (1996) The Boundaryless Career, Oxford, Oxford University Press.
+decade, it is somewhat paradoxical that it remains relatively poorly defined and lacking in
 
-Arthur, M.B., Khapova, S.N. and Wilderom, C.P.M. (2005) “Career success in a boundaryless world”, Journal of Organizational Behavior, 26, 177-202.
+theoretical underpinning. This review of the current body of literature suggests that from
 
-Aston, C. and Morton, L. (2005) “Managing Talent for competitive advantage”, Strategic HR Review, 4: 5, 28-31.
+a theoretical point of view, the area of talent management is in its infancy and a
 
-Axelrod, B., Handfield-Jones, H. and Michaels, E. (2002) “A new game plan for C players”, Harvard Business Review, January, 81-88.
+significant degree of theoretical advancement is required. The contribution of this paper
 
-Baterman, T.S. and Organ, D.W. (1983) “Job satisfaction and the good soldier: The relationship between affect and employee citizenship”, Academy of Management Journal, 26, 578-595.
+is two fold; to develop a clear and concise definition of strategic talent management, and
 
-Batt, R (2000) “Strategic segmentation in front-line services: Matching customers, employees and human resource systems”, International Journal of Human Resource Management, 11, 540-61.
+.propose a theoretical model of strategic talent management. In doing so we draw insights
 
-Batt, R. (2002) “Managing Customer Services: Human Resource Practices, Quit Rates, and Sales Growth”, Academy of Management Journal, 45, pp. 587-97
+from a number of discreet literature bases. The paper aims to aid future research in the
 
-Becker, K. H., & Haunschild, A. (2003). The impact of boundaryless careers on organizational decision making: An analysis from the perspective of Luhmann’s theory of social systems. International Journal of Human Resource Management, 14, 713–27.
+area of talent management though (1) helping to clarify the conceptual boundaries of
 
-Becker, B.E. and Huselid, M.A. (2006) “Strategic Human Resource Management: Where do we go from here?”, Journal of Management, 32, 898-925.
+talent management and (2) providing a theoretical framework which can help in framing
 
-Blumberg, M. and Pringle, C.D. (1992) “The Missing Opportunity in Organizational Research: Some Implications for a Theory of Work Performance”, Academy of Management Review, 7, 560-69.
+their research efforts in the area. Additionally, it should aid managers in engaging with
 
-Boselie, P., Dietz, G. and Boon, C. (2005) “Commonalities and contradictions in HRM and performance research”, Human Resource Management Journal, 15, 67-94.
+some of the issues they face with regard to talent management.
 
-Boston Consulting Group (2007) The Future of HR: Key Challenges Through 2015. Dusseldorf, Boston Consulting Group.
+This paper thus represents the elucidation of a research agenda in the area of
 
-28
+talent management. While there have been some useful theoretical contributions to date
 
-Boudreau, J.W. and Ramstad, P.M. (2007) Beyond HR: The New Science of Human Capital, Boston, MA, Harvard Business School Press.
+(see Boudreau, and Ramstad, 2007; Cappelli, 2008), heretofore the theoretical
 
-Boudreau, J.W. and Ramstad, P.M. (2005) “Talentship, Talent Segmentation, and Sustainability: A New HR Decision Science Paradigm for a new Strategy Definition”, Human Resource Management, 42, 129-36.
+foundations of talent management have been relatively sparse. If talent management is to
 
-Boxall, P. and Purcell, J. (2008) Strategy and Human Resource Management, second edition, Basingsoke, Palgrave Macmillan.
+gain more mainstream acceptance then the theoretical foundations which underpin it must
 
-Campbell JP, McCloy RA, Oppler SH, Sager CE. (1993) “A theory of performance” in Schmitt N, Borman WC, Associates, (eds) Personnel Selection in Organizations. San Francisco: Jossey-Bass.
+be advanced.
+
+Our definition of strategic talent management --as activities and processes that
+
+involve the systematic identification of key positions which differentially contribute to
+
+the organization’s sustainable competitive advantage, the development of a talent pool of
+
+26
+
+high potential and high performing incumbents to fill these roles, and the development of
+
+a differentiated human resource architecture to facilitate filling these positions with
+
+competent incumbents and to ensure their continued commitment to the organization --
+
+emphasises the identification of pivotal positions as the point of departure for strategic
+
+talent management systems. For an organisation to fully exploit the potential of their
+
+internal talent, they must first identify those positions within the organisation which have
+
+the potential to differentially impact on performance. It is only then that the emphasis
+
+shifts to filling those positions. In this regard we argue that the key is the development of
+
+a talent pool of high potential and high performing employees to fill these pivotal
+
+positions. Finally, we point to the requirement to support both of these stages with a
+
+differentiated HR architecture to maximise the potential for exploiting the talent pools.
+
+We propose that organisations which apply strategic talent management systems
+
+in this way will achieve improved performance. However, rather than suggest that
+
+strategic talent management leads directly to these firm level outcomes, we introduce a
+
+number of mediating variables to reflect the significant of attitudes and behaviours of the
+
+organisation’s talent pool in achieving this outcome. These variable recognise the
+
+importance of the talent pool in achieving financial performance. We hope our definition
+
+and framework for strategic talent management will assist and motivate future
+
+researchers on talent management. Future research efforts in the area could empirically
+
+test the model presented in the current paper.
+
+27
+
+4.0

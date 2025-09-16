@@ -1,11 +1,13 @@
-## HBR / Digital Article / How to Stay Grounded Through Organizational Chaos
+---
+source_path: H080H9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4d232e0f94aa3ef0af460ba9063156d4ddbba07
+title: H080H9-PDF-ENG
+---
+## your spouse, your friends, or a therapist.
 
-Be positive and opportunistic… You might ﬁnd there’s a silver lining
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-to the turmoil happening at work. That’s why Homkes advises “being
+3
 
-heads up, not heads down” about everything going on and keeping an
-
-open mind. Roberts recommends asking yourself three questions: How
-
-do these changes aﬀect my current position? How do they aﬀect how I
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

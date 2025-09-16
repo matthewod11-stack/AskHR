@@ -1,3 +1,11 @@
-# Personality Taxonomies
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: c96f6fce1f03df99c1cc1237320cb57390594b31
+title: barrickryan_eds_personality_and_work
+---
+# PERSONALITY AND JOB PERFORMANCE 85
 
-Two approaches to developing personality taxonomies are brieﬂy reviewed here. The ﬁrst approach is based on intercorrelations of personality dimensions; the second approach is based on correla- tions between personality dimensions and external criteria.
+the nature of personality and job performance, and how they are linked. This chapter focuses on two areas of research relevant to gaining this understanding. The ﬁrst area is the development of a nomological net linking speciﬁc personality predictors to speciﬁc job performance criteria (Barrick et al., 2001; Hough & Furnham, 2002; Schneider, Hough, & Dunnette, 1996). Research has shown that lower-level facets of the same Big Five factor often have very different correlations with job performance criteria, revealing meaningful relationships that are masked if broader measures are used (Hough, 1992). Thus, linking speciﬁc predictor and criterion measures can result in increased correlations and better under- standing of the relationship between personality and performance. The linking of these lower-level predictors and criteria requires tax- onomies of speciﬁc personality and job performance constructs (Barrick et al., 2001). To that end, this chapter reviews the research on taxonomies of personality and individual job performance, and it proposes a taxonomy of job performance dimensions to be used in this type of linking research for forming hypotheses and cumu- lating results.
+
+The second area of research is the development of models of the process by which personality inﬂuences job performance (Bar- rick et al., 2001; Schneider & Hough, 1995). This type of research has been in the form of searching for moderators of the rela- tionship between personality and performance and searching for mediators of this relationship. The literature on moderators is ex- tensive and is not reviewed in this chapter (interested readers should see Schneider & Hough, 1995; Chapter Three, this vol- ume). This chapter focuses on reviewing the mediators linking per- sonality and performance and integrating this research into a proposed model of the process by which personality inﬂuences job performance.

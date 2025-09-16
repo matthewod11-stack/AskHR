@@ -1,19 +1,19 @@
-## discover new features and new sources of value.
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43af31df3d998177377fe048cf173a7472e9b476
+title: H08IKZ-PDF-ENG
+---
+# long-term brand reputation.
 
-- 3. Charting the realm of the possible.
+This kind of decision framing cannot be derived from data and
 
-Once the objectives are deﬁned, it’s time to identify possible options.
+analytic tools alone since it involves trading oﬀ individual and
 
-While data is a crucial input for this step, it will not usually tell the
+collective preferences. Human involvement is crucial in identifying
 
-full story. Data is retrospective but human decisions are often based on
+these objectives and balancing them. Quite often, they need to be
 
-counterfactuals: what might happen, and how we could inﬂuence the
+reﬁned through iterative interactions, as humans often discover “what
 
-likelihood of diﬀerent possibilities playing out.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they really want” by pursuing an objective and adjusting as they

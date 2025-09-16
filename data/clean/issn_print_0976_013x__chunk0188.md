@@ -1,7 +1,9 @@
-## guidelines. Entrepreneurship Theory and Practice, 43(1), 3-18.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 5be7979846d87ff75304c6b79bd30738eeac0165
+title: issn_print_0976_013x
+---
+# Some
 
-https://doi.org/10.1177/1042258718773181
-
-Cullen, U. A., & De Angelis, R. (2021). Circular entrepreneurship: A business model
-
-perspective. Resources,
+suggested

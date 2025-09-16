@@ -1,13 +1,23 @@
-## family’s moment of private grief into an event for the public stage.
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6325a8bc0bc0b1aa2e6d6b69d294995d971250a0
+title: H07R1O-PDF-ENG
+---
+# constitutes emotional labor.
 
-Although allowing people to see the personal side of leaders can create
+One leader who’s met this challenge with grace is Satya Nadella, CEO
 
-beneﬁts for the organization, expecting this behavior creates a new
+of Microsoft. Nadella, the married father of three children, has given
 
-demand for the CEO role. Not everyone is willing to share in this way,
+interviews about the challenges of raising a family while holding a high-
 
-and I worry that this requirement may screen out extremely capable
+proﬁle job, welcoming reporters into his home to talk about limiting his
 
-leaders who would make great CEOs — but who decline to pursue the
+children’s screen time and caring for the family dog. In his book Hit
 
-role because the clamor for authenticity can reduce their ability to keep
+Refresh, Nadella wrote about his son, Zain, who had cerebral palsy, and
+
+how parenting a child with this condition increased his empathy as a
+
+leader. When Zain died in 2022, it was international news — turning a

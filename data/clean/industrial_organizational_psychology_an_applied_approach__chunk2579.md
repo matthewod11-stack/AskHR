@@ -1,23 +1,19 @@
-# Think of the organization’s
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3ac23d2ff0ca6f1e629584aee798863e1874b74c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# y e l t r a B t a P ©
 
-communications strategy as a three-legged stool. One leg is its external communications strategy—the messages sent to the outside world about the organization’s product or service offerings, including competitive differentiators, market space and positioning, and financial performance. This type of communication helps brand the company in the eyes of current and future customers, shareholders, and job candidates. It includes such things as the company’s external website, its marketing materials, and its media relations activities. The second leg represents the internal communications strategy. This communication strategy ensures that employees stay informed about the performance of the company and important changes to policies and practices, and can serve as a vehicle for recognizing employee and team accomplishments. The company newsletter, its intranet site, and its approach
+I am the owner and president
 
-to organizing employee meetings are all components of an internal communications strategy.
+of Square Peg Consulting, Inc., an organization and training development consulting company. My primary goal is to work with clients to improve the effectiveness of their organizations. I use a whole-systems approach to organization development (OD), focusing on organization alignment as the key to organization effectiveness. A systems approach includes viewing the organization as a living organism, influenced by external and internal elements. There is a cause-and-effect relationship between each element, and organizations are most effective when all the systems within it align. My approach to enabling organizations to better perform is to assess alignment gaps and opportunities and develop interventions that align
 
-The third leg is the organization alignment strategy, the organized method by which the organization’s strategy and tactics are developed and communicated to employees. This helps drive the daily activities of employees and ensures that they are all working in support of the organization’s priorities. This usually takes the form of setting objectives and performance management and is where the strategic and operational elements of an organization meet. For organizations to be effec- tive, all three legs of the communications stool must be strategically aligned and working together.
+resources, systems, and processes to better position the organization to achieve business results. Because organizations grow and evolve through their natural organizational life cycle, it is important that they continue to shift and realign themselves to ensure that all their efforts are going in the same direction for maximum efficiency and effectiveness.
 
-Organizations are living organisms whose systems and structures are set up to accomplish a goal. A publicly traded company’s goal may be to grow shareholder value; a sports team’s goal may be to win the game; and a symphony orchestra’s goal may be to master a piece of music. To create an effective communication strategy, my advice is to take into account the information needs of all constituents in each part of the system.
+One important element of organizational effectiveness is communication. From a diagnostic perspective, one can tell much about an organization’s culture from assessing both what and how communication is shared throughout the organization. For example, if an organization claims to have a culture of “empowerment,” yet e mployees are not aware of the organization’s goals or vision, there is a potential gap between leadership’s intention and the reality in which employees live. As a result, dysfunctional behavior may occur, leading to mistrust and poor performance. Confusion and dissatisfaction
 
-to find solutions. The advantage of this system is that the ombudsperson is neutral and works for a solution that is acceptable to both employees and management (Hirschman, ). Furthermore, the ombudsperson is typically supervised at the vice-presidential level, so she is not concerned about being fired if she steps on a few toes while looking for a solution.
+arise when an organization’s communication and governance practices are incongruent with the culture it espouses. For instance, a company aspiring to engage employees in the business while restricting employee access to information about its
 
-organizational communication
-
-405
-
-406
-
-chapter 
-
-Unfortunately, the ombudsperson method is often not used because orga- nizations do not want the expense of an employee who “does not produce.” To overcome this problem, Moore Tool Company in Springdale, Arkansas, started its “Red Shirt” program, in which selected senior employees wear red shirts that identify them as informal ombudspeople. If an employee has a problem, she can seek help from a Red Shirt, who has authority to help find a solution. This system not only opens communication channels but also provides job enrichment for an employee who works at an otherwise boring job.
-
-In organizations that have their employees represented by unions, the job of the ombudsperson is typically handled by the union steward. But management/ union relationships are often adversarial, so the union steward has a difficult time solving problems because she is not perceived by management or union mem- bers as being neutral.
+financial performance may be viewed cynically by employees. A company proclaiming to trust and empower employees while limiting delegation of authority may be perceived as disingenuous.

@@ -1,95 +1,57 @@
-# ICC
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 4644fbbf06126aade66d2c2548eb6f414b0a3a96
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+## Athlete Leadership and Team Effectiveness
 
-.08
+Table 2. Descriptive statistics, correlations, and Cronbach’s alpha of all variables of the study.
 
-.11
+- 1. Task leaders
 
-.40
+- 2. Social leaders
 
-.33
+- 3. External leaders
 
-.25
+- 4. Role clarity
 
-.23
+- 5. Role conflict
 
-.35
+- 6. Relationship conflict
 
-.20
+- 7. Task conflict
 
-.58
+- 8. Social cohesion
 
-1
+- 9. Task cohesion
 
-- .31��� .04 .06
+- 10. Collective efficacy
 
-- .06 -.13�� -.29��� .15�� .05 .20��� .11�� .31���
+- 11. Intention to continue
 
-2
+- 12. Perceived performance
 
-- .16���
+M (SD) 1.25 (.76)
 
-- .02
+1.07 (.72)
 
-.02
+1.58 (.60)
 
-.03
+7.42 (1.32)
 
-- .05
+2.16 (.84)
 
-.05
+2.61 (1.40)
 
-.08
+3.21 (1.36)
 
-.02 .10� -.10�
+6.86 (1.67)
 
-3
+6.60 (1.61)
 
-- .04
+3.52 (.69)
 
-.06
+3.70 (.48)
 
-.05
-
-- .02
-
-.08 .21���
-
-- .05 12�� -.09�
-
-4
-
-.95 -.41��� -.34��� -.30��� .52��� .35��� .34��� 34��� .23���
-
-5
-
-.85 .50��� .28��� -.43��� -.20��� -.34��� -.41��� -.26���
-
-6
-
-.90 .54��� -.49��� -.22��� -.49��� -.44��� -.36���
-
-7
-
-.82 -.48��� -.40��� -.47��� -.36��� -.51���
-
-8
-
-.88 .66��� .63��� .57��� .53���
-
-9
-
-.84 .39��� .43��� .34���
-
-10
-
-.84 -39��� .54���
-
-11
-
-.66 40���
-
-�p < .05 ��p < .01 ���p < .001. ICC = Intraclass Correlation Coefficient. Cronbach’s alphas are presented in italics on the diagonal.
-
-https://doi.org/10.1371/journal.pone.0218167.t002
-
-intention to continue, which showed lower values (α = .66; see Table 2). Although this value refers to a relatively low internal consistency, Lowenthal [50] recommended that values above .60 should be considered suitable if there is good evidence of validity, if there is good theoreti- cal support for the scale, and if the number of items is less than 10. Given that the present scale meets all these criteria, we deemed the internal consistency as acceptable.
+3.56 (1.04)

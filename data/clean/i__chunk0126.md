@@ -1,17 +1,13 @@
-# Master the data.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 60062aafd1e180243b3e35013aa80807173b4089
+title: i
+---
+# Identify questions
 
-This involves a process data management phase, which includes data acquisition, determination
+At this first step, it is pivotal to have a clear focus on the business problems to raise the
 
-of the type of data needed to achieve analysis objectives, extraction, cleaning, and
+efficiency of the workforce. However, the question should be raised in a <nonintrusive way=
 
-aggregation... Consider the sources of data, its quality, and the relevant variables or attributes
-
-that need to be collected. Identify the sources of data that can fulfill data analytics requirements.
-
-Provide the meaning.
-
-This process involves visualizing and interpreting data to address business inquiries. It includes
-
-analyzing the results and connecting them to the initial objectives. It entails recognizing
-
-patterns, detecting trends, and identifying relationships within the data, which can yield
+as the human resource information may negatively affect the workers.

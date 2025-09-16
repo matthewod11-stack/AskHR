@@ -1,15 +1,43 @@
-## HBR / Magazine Article / Personalization Done Right
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39deb64232a9a2ec7209f6e16d7797eff1faf1c6
+title: R2406G-PDF-ENG
+---
+# limited segmentation.
 
-And ﬁnally, be accountable (10 points). After you’ve assessed your
+Show me (10 points). The length of time it takes you to launch a
 
-performance on the ﬁve implicit promises, ask yourself whether your
+personalized campaign is a good barometer of your company’s maturity
 
-organization has a senior leader who is accountable for personalization,
+on this dimension. (Laggard organizations take 12 or more weeks, but
 
-with P&L responsibility and a cross-functional mandate. In the large
+leaders take a few days.) It is also worth assessing how advanced your
 
-companies we studied, we have often found this to be what makes the
+automated content creation and management capabilities are. Leaders
 
-diﬀerence between success and failure in personalization. That’s why
+leverage well-tagged content libraries and the latest gen AI solutions,
 
-having such a senior leader in place is worth the ﬁnal 10 points on the
+paired with automated content creation processes, whereas laggards
+
+manually create each campaign, with little reuse of assets.
+
+Delight me (10 points). Measure how well and how quickly you can test,
+
+learn from, and improve the customer experience. Diagnose whether
+
+you have organizational or technological impediments to measuring
+
+progress on personalization and implementing improvements on a
+
+weekly or more frequent basis. Leaders learn 10 times as fast as laggards
+
+do; they run hundreds of experiments and turn around improvements
+
+in days, while laggards take many months to achieve the same feat.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+17
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

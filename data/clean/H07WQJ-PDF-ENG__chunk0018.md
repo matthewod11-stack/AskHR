@@ -1,5 +1,11 @@
-## crises. “For example, in the automotive industry, where product recalls
+---
+source_path: H07WQJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ccd765972cd67b197e749ea923b06478dbafc39b
+title: H07WQJ-PDF-ENG
+---
+# philosophy.”
 
-can be a challenging issue, Rise helps us prioritize consumer safety and
+Since then, Rise has become, in current CEO Anish Shah’s words, the
 
-well-being. It directs our response, ensuring immediate action, recalls
+“North Star” that helps it navigate unexpected public controversies and

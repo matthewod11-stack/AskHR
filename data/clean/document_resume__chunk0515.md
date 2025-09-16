@@ -1,5 +1,11 @@
-# erence.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 91d9fb95169c4d6a8124abd5f3fde371db0750ba
+title: document_resume
+---
+# d.
 
-f. Non-applicable option should be used only for non-applicable items.
+Five-point scale is adequate from the point of reliability.
 
-- 4. Generate a pool of items to measure the characteristics.
+e. Neutral option on the scale can be used or not according to personal pref-

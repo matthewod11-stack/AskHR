@@ -1,19 +1,9 @@
-# The president of Bubba
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9c3271f91cf3d1bbc92ef67b24d980c6930e0806
+title: industrial_organizational_psychology_an_applied_approach
+---
+# In addition to traditional
 
-Gump Shrimp Company believes that one of the secrets
-
-to success is to have minimal management turnover. In fact, his focus on turnover has been so successful that he has not had a general manager leave in three years, and he decreased management turnover from 36% to 16% in two years. Before reading about how he did this, answer the questions below.
-
-7
-
-On the basis of what you learned in this chapter, what interventions would you make to reduce man- agement turnover?
-
-7
-
-How would these interven- tions be different if you were trying to reduce non- managerial turnover?
-
-To find out how Bubba Gump Shrimp reduced turnover, use the link found on your text webpage.
-
-employee satisfaction and commitment
-
-397
+benefits, the kitchen staff receive a free meal each shift, and all employees receive 50% off meals for themselves and up to three guests when they are not working. Man- agers receive two weeks of vacation to start, and four weeks after ten years. They are also part of a bonus program that allows them to earn up to 200% of their potential. The company uses salary surveys to ensure that their pay and bonus package is competitive.

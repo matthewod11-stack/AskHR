@@ -1,21 +1,31 @@
-# support or ornery partners.
+---
+source_path: H07PSQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bed95d485281df24e376a16ea4a832f714276a99
+title: H07PSQ-PDF-ENG
+---
+## HBR / Digital Article / How to Manage an Employee Who Always Makes Excuses
 
-You can also mitigate capability gaps by contemplating the decisions
+Then you can provide any required course corrections with questions
 
-they might have to make and pre-qualifying the decision criteria. That
+that direct their attention, such as, “What steps will you take to ensure
 
-way, you can be more conﬁdent that they’ll make calls you’d endorse.
+ﬁnance is on board?” Answering these questions will remove the excuse
 
-You can broach the subject in various ways, including asking about the
+that they didn’t know how to tackle the project.
 
-criteria the person will use to evaluate any decisions or trade-oﬀs. How
+Another possibility is that you’re worried not about their technical but
 
-will they prioritize the criteria when there isn’t a perfect option? And
+their people skills. If you’re nervous that they’ll botch the stakeholder
 
-lest they get stuck trying to have it all, it’s helpful to clarify which
+relationships, make the interpersonal issues as salient as the technical
 
-criteria should inﬂuence how they implement the decision but not
+ones. Work together to map the key stakeholders, their stake in the
 
-which decision they take.
+project, and any idiosyncrasies you might know. Who has sway over
 
-When you agree on the process, you strip away many of the capability
+the decision? What are they looking for? What inﬂuences them? And
+
+beyond the decision makers and inﬂuencers, encourage the person
+
+to think about other people with valuable perspectives they need to include. Answer these questions to avoid excuses about insuﬃcient

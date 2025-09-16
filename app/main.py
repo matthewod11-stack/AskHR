@@ -4,8 +4,12 @@ from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, StreamingResponse, JSONResponse
-from reportlab.lib.pagesizes import LETTER
-from reportlab.pdfgen import canvas
+try:
+    from reportlab.lib.pagesizes import LETTER
+    from reportlab.pdfgen import canvas
+    _HAS_REPORTLAB = True
+except Exception:
+    _HAS_REPORTLAB = False
 import io
 from collections import deque
 
@@ -168,12 +172,19 @@ def _markdown_body_for_source(source_path: str) -> str:
 
 @app.get("/v1/export/pdf")
 def export_pdf(source_path: str = Query(...)):
+    if not _HAS_REPORTLAB:
+        return JSONResponse(
+            {"error": "PDF export requires reportlab. Please install it: pip install reportlab"},
+            status_code=406,
+        )
     body = _markdown_body_for_source(source_path)
     if not body:
         return JSONResponse(
             {"error": "No cleaned content found for source"}, status_code=404
         )
-
+    # PDF generation only if reportlab is available
+    from reportlab.lib.pagesizes import LETTER
+    from reportlab.pdfgen import canvas
     buf = io.BytesIO()
     c = canvas.Canvas(buf, pagesize=LETTER)
     width, height = LETTER

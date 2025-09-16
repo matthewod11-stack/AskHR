@@ -1,27 +1,27 @@
-# experience.
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9d7cd48654ff625118604ad85e27353236754db
+title: H088OR-PDF-ENG
+---
+# informed decision making.
 
-Organizations that have implemented these types of policies have seen
+Fortunately, most organizations already have capable business
 
-measurable success. One company we worked with created a set of
+intelligence (BI) infrastructure to monitor company health and
 
-meeting culture policies for their hybrid workforce. Their intention was
+performance. We strongly recommend integrating collaboration data
 
-to ensure that each meeting had purpose and necessity — if the purpose
+as an additional component to your BI suite and choosing a set of
 
-was simply to convey information, it could potentially be replaced
+KPIs to include in executive dashboards. These can include the metrics
 
-with an asynchronous method. They also wanted to empower their
+mentioned above, but there are several others of value across the
 
-employees: If they know a certain meeting is not a good use of their
+leadership spectrum. For instance, aggregate reporting on manager 1:1s
 
-time, it’s OK to decline the invite. If they’re not needed for the rest of the
+can be used to ensure employees are receiving suﬃcient time with their
 
-agenda, it’s ﬁne to drop early. The organization trained frequent hosts
+bosses across the company. Once the data is available, there are similar
 
-to set the tone and convey this information at the top of meetings and
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+applications oriented toward eﬃciency, engagement, and employee

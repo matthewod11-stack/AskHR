@@ -1,15 +1,37 @@
-## HBR / Digital Article / How Biases About Motherhood Impact All Women at Work
+---
+source_path: H08BGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1192bcad4b4843822c65c1f21fa4ea2f6cd4c6b
+title: H08BGE-PDF-ENG
+---
+# Flexibility — not judgment
 
-“Flip it to test it”
+Flexibility in where and when work gets done is crucial for parents
 
-In hiring and promotional discussions, use “ﬂip it to test it” to be
+and nonparents alike. But a 2022 survey found that 86% of respondents
 
-sure that inappropriate or oﬀ-topic assumptions are not being put on
+believed that parents take precedence when it comes to ﬂexible work;
 
-women. For example, if you question whether a woman applicant or
+81% believed that child-related reasons for being unavailable were more
 
-promotional candidate will get pregnant and need maternity leave, ﬂip
+valid than reasons of employees without children. Parenthood is a
 
-it as if the candidate were a man. If you would not say, “Juan may
+demanding role but only one type of caretaking. Many nonparents also
 
-become a father and need to be oﬀ for paternity leave,” then don’t say it
+have caregiving responsibilities for family, friends, neighbors, or even
+
+pets. And everyone has a life outside of their job. Leaders should oﬀer
+
+ﬂexible work without judgment, and model it by being transparent
+
+when taking time oﬀ for reasons unrelated to children. Flexible work
+
+should be oﬀered to all employees without requiring a justiﬁcation as to
+
+why they use it.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,17 @@
-# in the following way:
+---
+source_path: H08L36-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 561073004a36a3b70c46d7a21640a78af880d2cb
+title: H08L36-PDF-ENG
+---
+# investment.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Through this second email, the employee learned both how his
 
-4
+organizational skills impacted the investor, and learned about the end
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+results of his work — the investment was made.
+
+To ensure that you’re always highlighting the impact in your feedback
+
+conversations, start your feedback — both constructive and positive —

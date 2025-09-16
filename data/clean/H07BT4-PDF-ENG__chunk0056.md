@@ -1,3 +1,9 @@
-# AW
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51e369e679740831b927b8d2ce06e9a13b51655c
+title: H07BT4-PDF-ENG
+---
+# MK
 
-Alice Walmesley is a Director, Advisory in the Gartner Sales Practice, regularly consulting with cross-industry Heads of Sales/ Senior Sales Leaders to understand and address their most pressing challenges and opportunities for growth.
+Mike Katz is a Director, Research in the Gartner Sales Research Practice, addressing challenges facing sales leaders and their teams.

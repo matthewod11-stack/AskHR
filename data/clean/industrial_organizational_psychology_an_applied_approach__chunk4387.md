@@ -1,11 +1,15 @@
-## instability. Journal of Marriage and the Family, 62(1), 93.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 23b7c972c9a1b6ce8726d74d52e357d5574126b6
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Posthuma, R. A., Morgeson, F. P., & Campion, M. A. (2002).
 
-Preston, L. A. (2003). Coping with downsizing: A quantitative
+Beyond employment interview validity: A comprehensive narrative review of recent research and trends over time. Personnel Psychology, 55(1), 1–81.
 
-review. Poster presented at the 18th annual meeting of the Society for Industrial and Organizational Psychology, Orlando, Florida.
+Pratt, A. K., Burnazi, L., LePla, L. A., Boyce, A. M., & Baltes, B. B. (2003). Relationship between sexual harassment and negative outcomes: A meta-analysis. Poster presented at the 18th annual meeting of the Society for Industrial and Organizational Psychology, Orlando, Florida.
 
-Prewett-Livingston, A. J., Feild, H. A., Veres, J. G., & Lewis, P. M. (1996). Eﬀ ects of race on interview ratings in a situational panel interview. Journal of Applied Psychology, 81(2), 178–186.
+Premack, D. (1963). Prediction of the comparative reinforcement values of running and drinking. Science, 139, 1062–1063.
 
-Prewitt, M. (2005). Workers’ comp for RSI-related injuries more costly overall. Nation’s Restaurant News, 39(24), 1–3.
-
-Prien, K. O., Prien, E. P., & Wooten, W. (2003). Interrater reliability in job analysis: Diﬀ erences in strategy and perspective. Public Personnel Management, 32(1), 125–141.
+Presser, H. B. (2000). Nonstandard work schedules and marital

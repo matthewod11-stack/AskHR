@@ -1,25 +1,11 @@
-## across teams and locations and whether a remote or hybrid setup fosters
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e5743c91648b6c8a6e3e3d81881d917d04d6b7a
+title: H08N0B-PDF-ENG
+---
+## key business goals—such as expansion, innovation, repeat customer
 
-high performance. This includes identifying which critical job tasks are
+service, or cost eﬃciency—and analyze whether and how remote or
 
-individual or interdependent. For example, NVIDIA’s business model
-
-centers on innovation and technological leadership, yet it also gets high
-
-revenue from hardware sales and cloud services. Their hybrid work
-
-model allows those with innovation roles in software development and
-
-AI research—which is performed on a laptop and via videoconferencing
-
-—to work remotely at least part of the week. Yet, those in hardware
-
-or lab roles, which involve working directly with manufacturing or
-
-scientiﬁc equipment, generally work on site.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hybrid work helps achieve them. Pinpoint critical job roles within and

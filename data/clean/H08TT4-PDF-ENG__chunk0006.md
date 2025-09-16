@@ -1,5 +1,11 @@
-# Focus on Action
+---
+source_path: H08TT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6fe5f27a810136580de56f3b633084f43f60481b
+title: H08TT4-PDF-ENG
+---
+# of followers.
 
-Powerful leaders must deliberate on important decisions, weighing pros
+In this article, I highlight ﬁve techniques you can use to level up your
 
-and cons with input from others. But when they communicate, they
+speaking by communicating your power.

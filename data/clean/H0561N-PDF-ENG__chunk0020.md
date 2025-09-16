@@ -1,5 +1,9 @@
-## the dispersion of countries along each of the four measures, you can
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ec83c061ae7ec0546f4d9ea3942a274a5630ba4
+title: H0561N-PDF-ENG
+---
+## HBR / The Big Idea / The Gender Gap in 6 Charts
 
-see where various nations land. Educational attainment and health are
-
-considerably more clustered, while there is wider disparity between
+Another way to look at each index is by country. When you compare

@@ -1,3 +1,9 @@
-## Dentre as 42 respostas, apenas 6 (14,3%) foram de ocupantes de posições
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 83394d926b4709ec2e9df8cebe65e6f0aaee71b4
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# respondesse mais de uma vez.
 
-de lideranças de pessoas, como demonstrado na figura 10. Os demais eram
+53

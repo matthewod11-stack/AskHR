@@ -1,9 +1,13 @@
-## HBR / Digital Article / Is Your Team Overworking But Underperforming?
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d105d329f3b4934c3e083209021c1483b7129376
+title: H07UPN-PDF-ENG
+---
+# no improvement.
 
-- 2. Embed learning opportunities in daily tools and processes.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Developing consistent routines supports high performance. That’s why
+3
 
-we use standard procedures, templates, checklists, weekly meetings
-
-with set agendas, daily standups, strategic planning processes,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

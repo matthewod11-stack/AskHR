@@ -1,1 +1,9 @@
-# 9/10/25, 11:05 AM
+---
+source_path: "You Can\u2019t Sit Out Office Politics.md"
+pages: n/a-n/a
+chunk_id: a42fd7ec4928a83b7edb53ee251e5170281e94cd
+title: "You Can\u2019t Sit Out Office Politics"
+---
+# workbook and
+
+videos on my website offer some very usefulpointers and self-assessment exercises that allow you to seeyourself from a different viewpoint and gather insights that willhelp you come up with a political strategy. As with any strategy,the key is to revisit and update your political strategy regularly asthe context changes. You will inevitably fail sometimes, but othertimes you will succeed. Getting up and trying again is whatmatters. Winston Churchill said it well, “In war you can only bekilled once. In politics you can be killed many times.”Remember that doing politics on your own terms, with a clear-eyed view of how to be effective without selling your soul orsacrificing your values, will not only benefit you but so too thosecolleagues and stakeholders who are counting on you to do the

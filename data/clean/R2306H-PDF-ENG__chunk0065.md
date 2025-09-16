@@ -1,7 +1,25 @@
-# highly promising.
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81e338d4e1642092a0251423a8fd3e6d2f3c3ba9
+title: R2306H-PDF-ENG
+---
+## knit yet diverse communities outside their own organization stand
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+a better chance of discovering novel ideas that are feasible. Leaders
 
-15
+who engage internal collaborators as sparring partners—ensuring
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that they each gather independent advice in one another’s areas of
+
+expertise—will be more successful at turning the ideas into winning
+
+business propositions. Finally, leaders who skillfully sequence feedback
+
+from critics in their networks from the inside out will achieve what
+
+often seems impossible: getting valuable input while avoiding early
+
+dismissive reactions. If executives follow these three practices, they will
+
+ﬁnd that innovating in large, mature organizations is not only viable but

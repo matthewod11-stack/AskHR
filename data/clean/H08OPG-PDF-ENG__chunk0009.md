@@ -1,29 +1,23 @@
-## HBR / Digital Article / What Is the Office for Today?
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8d082b3f59cd4a5ce78f6de2424217db99b588c
+title: H08OPG-PDF-ENG
+---
+## individual’s speciﬁc work environment and the tools and resources that
 
-organizations learned ﬁrsthand what this shift in workspace dynamic
+are used to do the work. Prior to 2020, the idea that work could happen
 
-would entail in concrete terms. The new knowledge developed in
+anywhere was largely associated with tech and younger workers; it
 
-this process changed perceptions and enriched our notions of what a
+was something not strictly necessary and thus somewhat theoretical
 
-workspace could be. For many, this wasn’t just a response to a moment
+for many organizations. In ﬁguring out how to enable successful work
 
-in time, but an experience that shaped workplace culture entirely. A
+from anywhere during the “forced work experiment” of the pandemic,
 
-point of no return, as we said last time.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Two outcomes, however, have surprised me.
+2
 
-The ﬁrst was people reconsidering the value they placed on their work,
-
-their time, and how to spend both. The second was the exacerbation
-
-of something younger adults and teenagers were already experiencing,
-
-which extended to other generations: isolation. Studies have repeatedly
-
-shown a high correlation between time spent on screens or social media
-
-and an increase in rates of depression and perceived isolation—the
-
-levels of which by 2023, the U.S. Surgeon General termed a public health
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

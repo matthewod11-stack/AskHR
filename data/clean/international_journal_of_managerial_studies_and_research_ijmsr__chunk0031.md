@@ -1,3 +1,13 @@
-# The Need for Affiliation:
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: 96dc90853dca68efbed509975e7210be7791aeb5
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# The Need for Achievement:
 
-This is the need to be like and accepted by others. People with the need strive for friendship, prefer co-operative situation rather than competitive situations and desire relationship involving a high degree of mutual understanding. People with higher need for affiliation prefer to spend more time maintaining social relationship joining groups, etc individual with a high degree of need are not effective managers or leaders because they will find it difficult to make decisions without worrying about the feeding of others or being dislike by others.
+This is the need/desire to set challenging goals, work to achieve the goals or the desire to excel in relation to set standard.
+
+The need for achievement is defined by the following desire to accomplish something difficult: to master, manipulate or organize physical objectives human being or ideas.
+
+To rival and suppress others to increase self regards by the successful exercise of talents

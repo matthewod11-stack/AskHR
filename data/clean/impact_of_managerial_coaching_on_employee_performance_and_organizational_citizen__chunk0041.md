@@ -1,35 +1,15 @@
-# 1.Managerial Coaching 2.In-Role Job Performance 3.OCB- Individual 4.Thriving At Work 5.OCB- Organization
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: 19142ab3a8319ee4bee686ee5502c2b9a3ba17e4
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# S. D
 
-3.8168
+1
 
-3.7795
+2
 
-3.8277
+3
 
-4.0049
-
-3.8759
-
-0.55199
-
-_
-
-0.70038 0.482**
-
-_
-
-0.75993 0.250** 0.566**
-
-0.43907 0.401** 0.525**
-
-0.59030 0.138** 0.282**
-
-_
-
-0.381*
-
-0.209*
-
-_
-
-0.533**
+4

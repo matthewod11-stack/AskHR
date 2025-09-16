@@ -1,13 +1,35 @@
-## HBR / Digital Article / How AI Can Help Tackle Collective Decision-Making
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1772dde464ea41012e105a8c18c2e9c5e3d6126d
+title: H08U3Y-PDF-ENG
+---
+# ﬁnd common ground (consensus).
 
-demonstrated that wealthier neighborhoods could beneﬁt from more
+In Figure 2, these metrics are aggregated by street into a 3D map
 
-houses provided that a new metro line were also built in the process,
+of the city. Positive changes are in green, negative ones in red, and
 
-thereby paving the way to consensus.
+alternatives can be modeled at the scale of the individual street,
 
-The vizualizations also allow CityScope to yet again collect people’s
+neighborhood, or the city as a whole. In Hamburg, these representations
 
-preferences, this time on the trade-oﬀs and competing proposals. In
+allowed users to understand trade-oﬀs and ﬁnd ways to overcome
 
-Hamburg, the team administered surveys and organized workshops
+them. For example, the visualization made starkly clear the diﬀerences between the preferences of aﬄuent communities, where proposals that
+
+threatened lower-density zoning received the worst ratings, and the city
+
+as a whole, where building more houses in underdeveloped areas to
+
+welcome refugees scored well.
+
+CityScope then helped the residents ﬁnd the best way to accommodate
+
+these conﬂicting preferences. By evaluating competing proposals, it
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

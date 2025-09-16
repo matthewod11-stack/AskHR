@@ -1,13 +1,7 @@
-# Inclusion
-
-Inclusion is when all people feel respected, valued, and safe for who
-
-they are.
-
-Inclusion is about engaging thoughtfully with what makes people
-
-diﬀerent — ensuring that given the diversity of people’s identities,
-
-experiences, beliefs, and perspectives, all can feel respected, valued,
-
-and safe. If mostly remote workers feel just as valued by leadership as
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62600e2350e49001029f1d1740224d955e8e4761
+title: H08LGU-PDF-ENG
+---
+## and contributes to the independence, dignity, and agency of all people.

@@ -1,11 +1,25 @@
-## entrepreneurs but only around 13% of the population. Similarly, about
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d79444afff5a0c53a2d406b029239d4b162469b
+title: H037WI-PDF-ENG
+---
+## distinct characteristic: extensive cross-cultural experience. Huﬃngton
 
-one-fourth of all technology and engineering companies started in the
+grew up in Athens and studied in London before starting her career
 
-U.S. between 2006 and 2012 had at least one immigrant cofounder.
+as a politician and media entrepreneur. Mateschitz spent considerable
 
-And this pattern extends beyond the U.S. — data from the 2012
+time overseas as a marketing salesman prior to founding Red Bull. Musk
 
-Global Entrepreneurship Monitor showed that the vast majority of
+migrated from South Africa to the U.S. as young adult. Brin left the
 
-the 69 countries surveyed reported higher entrepreneurial activity
+Soviet Union with his family after facing growing anti-Semitism and
+
+moved to the U.S., where he later cofounded Google.
+
+Their stories are prominent examples of a widespread pattern. In the
+
+U.S., immigrants are almost twice as likely to become entrepreneurs as
+
+native-born U.S. citizens. Immigrants represent 27.5% of the countries’

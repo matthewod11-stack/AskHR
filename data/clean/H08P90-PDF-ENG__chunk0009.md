@@ -1,19 +1,19 @@
-# HBR / Digital Article / To Drive Innovation, Create the Conditions for Serendipity
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bd8cc9d9c87ce94d0256ddc453d073042937841
+title: H08P90-PDF-ENG
+---
+# How Can Companies Leverage Serendipity?
 
-scientists found a treatment for erectile dysfunction while developing
+Serendipity is a concept that has been around for hundreds of years.
 
-a blood pressure drug. But unlike scientists, business leaders and
+It has led to many scientiﬁc breakthroughs. For instance, Alexander
 
-managers are often reluctant to embrace serendipity. To some extent,
+Fleming discovered penicillin while doing research on inﬂuenza. Pﬁzer
 
-this is understandable. Serendipity is unpredictable and companies
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-cannot entirely depend on it to innovate. Companies are also very
+3
 
-diﬀerent from universities. Their raison d’être is not to advance science,
-
-but to be proﬁtable and grow. Nonetheless, we believe that more
-
-businesses could beneﬁt from more doses of serendipity. Here are three
-
-science-inspired strategies that business leaders can use to better
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

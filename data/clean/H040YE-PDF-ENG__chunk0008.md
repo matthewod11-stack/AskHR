@@ -1,9 +1,15 @@
-## boards in corporate America by Richie Zweigenhaft — studies of
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18ad7f51978e2add16ba4fa20170b02640e87be2
+title: H040YE-PDF-ENG
+---
+## of immigrant scientists and engineers to the U.S. innovation system. Less
 
-immigrant leadership talent are still scarce. This is despite the fact that
+research, however, has been done on the presence of migrant and
 
-Copyright © 2017 Harvard Business School Publishing Corporation. All rights reserved.
+immigrant leadership in corporate America. While there has been some
 
-1
+research done on ethnic minorities’ representation in senior corporate
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+roles in the U.S. — for example the study of the ethnic composition of

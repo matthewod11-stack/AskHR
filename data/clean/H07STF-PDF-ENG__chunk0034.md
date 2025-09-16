@@ -1,11 +1,13 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 31030085abc68d17bd1619e7230ae79d27de22b7
+title: H07STF-PDF-ENG
+---
+# relationships at work.
 
-ADI IGNATIUS:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-I think some of it is generational. My generation tended not to broadcast
+13
 
-everything. I think some of the subsequent generations are more
-
-comfortable with that, expect that, and are comfortable with that.
-
-And part of the intergenerational workplace dynamic is all of us being
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,21 +1,17 @@
-## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d6b271dad66a7284c7d7b015ea140455e6daf78
+title: H07QOV-PDF-ENG
+---
+# fear than optimism.
 
-But I don’t think they’re going to be simple solutions to the dramatic
+The truth is we need both. We need some positive, thoughtful, design-
 
-shakeup of what’s possible.
+oriented approaches to experiment and ﬁgure out what’s going to work.
 
-ADI IGNATIUS:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Here’s a question from Omar from Monterrey, Mexico. What kind of
+11
 
-metrics can be used to measure smart failures?
-
-AMY EDMONDSON:
-
-My ﬁrst response is that it’s a good idea to have metrics. One of the
-
-things that I’ve spent the most time studying is how many failures just
-
-don’t even get the chance to be measured, because people don’t speak
-
-up about them. This was how I got into this topic in the ﬁrst place: the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

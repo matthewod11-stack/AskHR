@@ -1,29 +1,15 @@
-# levels.
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5d7bdb99d1df2561dff7dda12098f257fe48064
+title: S25011-PDF-ENG
+---
+## with the design of small processes; both generative AI and traditional
 
-Other new technologies may also be relevant. Internet-of-things sensors
+machine learning can enhance the performance of larger ones. With
 
-may be used to monitor manufacturing equipment and prevent failures,
+OTC, for instance, generative AI can draft contracts, help customers
 
-and blockchain can be used to track the movement of goods along a
+make more-accurate orders, and alert them about delivery changes.
 
-supply chain. Traditional business analytics can also improve decision-
-
-making throughout processes.
-
-Step 6: Redesign the process. The redesign should be led by a cross-
-
-functional team made up of people from the departments involved in
-
-the process in question. The goal is not just to map out a better workﬂow
-
-but also to identify the skills, technologies, and organizational structure
-
-changes needed and the expectations of partners and customers.
-
-While designing processes was once a highly labor-intensive activity, today AI has made that work much faster and more eﬃcient. One
-
-long-term vendor of process-management software, Pega, for instance,
-
-has created tools that use generative AI to draw best-practice process
-
-designs from a library and suggest them to design teams.
+Traditional machine learning can help companies optimize pricing, speed up credit approvals, prevent fraud, and estimate needed staﬃng

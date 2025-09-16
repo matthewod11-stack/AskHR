@@ -1,21 +1,11 @@
-# confronting.
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36a9e5823e1e6c9b15f98cf6129c09a675bb7405
+title: R2301H-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Options
 
-- Lean Back. Take an analytical stance to observe, collect, and
+- Lean In. Take an active stance on resolving an issue. Actions in
 
-understand data. Actions include analyzing, asking questions, and
-
-possibly delaying decisions.
-
-- Lean With. Take a collaborative stance, focusing on caring and
-
-connecting. Actions include empathizing, encouraging, and coaching.
-
-- Don’t Lean. Whereas a Lean Back posture involves observing and
-
-analyzing, Don’t Lean is about being still and disciplining yourself to
-
-create space for a new solution to bubble up from your subconscious.
-
-This stance also serves to calm you if your emotions have been
-
-triggered. Actions include contemplating, visualizing, and settling
+this stance include deciding, directing, guiding, challenging, and

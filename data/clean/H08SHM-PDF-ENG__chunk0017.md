@@ -1,7 +1,7 @@
-# quality.
-
-So, how can we separate the tasks AI will automate next from those that
-
-will require new breakthroughs in AI technology to do so? To answer
-
-that, we must go back to ﬁrst principles and revisit where it all began.
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f96fadbc4045099c4be49b772753b6f74a32992d
+title: H08SHM-PDF-ENG
+---
+## —aside from a handful of human superstars—may oﬀer more consistent

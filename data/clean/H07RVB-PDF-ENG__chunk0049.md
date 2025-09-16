@@ -1,13 +1,13 @@
-# it.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dcb3a8317de604c52795323c0e6a5ac417ef80e2
+title: H07RVB-PDF-ENG
+---
+# story.
 
-I’m getting ready to go out on the road, the book just came out this week.
+I realize that by living openly in the relationship I’m in and the style that
 
-I’m sure that I’m going to get confronted in certain places. I really hope
+I live in, that that can put a target on my back in some cases and that
 
-it’s healthy, honest discussion. And in some cases, that it’s a debate,
-
-because I’m not here to change people’s minds. I’m trying just to expose
-
-people to the realities of how I live and what it’s meant in my life. And
-
-I’m also trying to make it better for the generations that are coming
+some people will not appreciate it or will not condone it or will not like

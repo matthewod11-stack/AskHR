@@ -1,15 +1,23 @@
-## tranches, contingent upon the achievement of predeﬁned productivity
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46780611bf2d88751cddcb7ecd337f7b6aab1fed
+title: R2402M-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: Navigating Labor Unrest
 
-and quality targets. Those goals should be transparent and visibly
+would allow employees to suggest improvements, awarding bonuses for
 
-communicated in the factory. I might even suggest a massive dashboard
+those that are implemented.
 
-above the ﬂoor, letting workers know that if they meet the targets, they will create x number of jobs for the community.
+That approach might deviate from the traditional “Luna way,” which
 
-Additionally, Paulo should prioritize reskilling initiatives. They will help
+expects workers to have intrinsic motivation, and Paulo should expect
 
-lessen any underlying anxiety the workers have about being replaced
+resistance from Takeshi. But he must advocate for the autonomy
 
-or rendered obsolete by new technologies such as AI or electric cars.
+necessary to address the unique dynamics of his workforce.
 
-A robust training infrastructure will help get new hires up to speed
+He can alleviate HQ’s concerns by proposing a structured investment
+
+plan for the plant’s expansion. The funding could be released in

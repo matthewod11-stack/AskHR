@@ -1,23 +1,15 @@
-# the decision of the Management.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: d59549db862ef6c96e36b292ab98a7daf2b2a622
+title: internship_report
+---
+# availability).
 
-XII. Any staff members intend to leave the working station during the weekly/public holidays,
+X. If any staff member is on leave for the first half of a particular day, but fails to arrive within
 
-he/she has to take prior permission from HOD/In Charge and must inform to the HR & Admin
+02:00 pm on that day, he/she will be deemed to be on leave (CL/ML/EL/LWP in order of
 
-department before leaving the station. If any HOD wants to leave working station during
+preference, depending on availability) for the second half also.
 
-weekly/public holidays, he/she shall have to take prior permission from DMD.
-
-XIII. Staff members who intend to leave office before closing of office hours, he/she has to take
-
-prior permission from respective HOD/DMD and must inform HR and Admin.
-
-XIV. Salary clearance will be pending until submission of above leave procedures that staff
-
-member has taken/availed. It is considered the responsibility of the individual who took leave to
-
-submit leave application to HR duly signed by the concern HOD/In Charge.
-
-HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:50)(cid:53)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
-
-(cid:32) (cid:32) (cid:32) (cid:32)
+XI. Office attendance in case of half-day/full-day hartal/political calamity will be depending on

@@ -1,15 +1,27 @@
-## themselves directly in decision-making on smaller issues or at lower
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5571e23c541375fbb2eb76da0a6f86932e61bae9
+title: H07SHK-PDF-ENG
+---
+# CEO engagement.
 
-levels in the organization. For example, the CEO may engage with
+If a decision spans across multiple segments of the organization or has
 
-some decisions far removed from the top, such as the strategy for
+the potential to lead to signiﬁcant internal disagreement or conﬂict,
 
-a ﬂedgling business unit or the design of an executive development
+the CEO should get more involved and consider making the ﬁnal
 
-program, because they want to signal its importance to the company.
+call. Decisions that will notably impact key stakeholders — including
 
-These symbolic opportunities for engagement can be just as important
+shareholders, major customers, regulators — might also draw the CEO’s
 
-as the more substantive matters that warrant the CEO’s involvement.
+attention. Urgent decisions, especially those that must be made rapidly
 
-Decision-making isn’t the only activity in which a CEO must make
+to address immediate challenges or capitalize on opportunities, may
+
+warrant the CEO’s prompt attention.
+
+Although CEOs tend to focus on these more signiﬁcant decisions, some
+
+CEOs wisely note that they ﬁnd beneﬁt from periodically involving

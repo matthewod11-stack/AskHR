@@ -1,5 +1,9 @@
-# McDonnell Douglas Corp. v Green, 18
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: b2404d7b8a2ea8a707f3fb80fc6052c7e22f842f
+title: document_resume
+---
+# Management by objectives (MBO), 33-
 
-Peer appraisal, 36-37 Performali-e standards, 29-30 Placement (see Appraisal-purposes of) Prima facie case, 12, 14
-
-Ranking systems (see comparative
+36, 77

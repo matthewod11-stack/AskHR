@@ -1,3 +1,13 @@
-# 202 Personality
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b744ebbab618f891acdfee827d53f517dc233237
+title: untitled
+---
+# American Indian. New York: Appleton.
 
-Rank, O. (1936). Life fear and death fear. In Will therapy: An analy- sis of the therapeutic process in terms of relationship (J. J. Taft, Trans.) (pp. 119–133). New York: Knopf. (Original work pub- lished 1931)
+Randall, J. H. (1912). The culture of personality. New York:
+
+Dodge.
+
+201

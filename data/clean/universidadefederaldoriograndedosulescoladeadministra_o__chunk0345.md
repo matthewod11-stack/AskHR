@@ -1,3 +1,7 @@
-## f) proporciona resultados bastante críticos em relação à objetividade, pois os
-
-itens podem ter significados diferentes para cada sujeito pesquisado.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 9ec657655b5114fa0120d94cb20678d7b3138827
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# serem respondidos;

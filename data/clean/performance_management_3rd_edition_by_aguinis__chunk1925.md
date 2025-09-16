@@ -1,9 +1,11 @@
-# Planning
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: fd3070acc15c164aea11802c734024093ffc0656
+title: performance_management_3rd_edition_by_aguinis
+---
+## Team Performance Management at Duke University Health Systems
 
-- Understanding behavior.
+At Duke University Health Systems (DUHS) located in Durham, North Carolina, managing performance is an ongoing process based on four principles. The following outlines the current team performance management system:
 
-Five categories of behavior have been established for all DUHS
-
-employees (including senior administrators and new employees): customer focus, teamwork, creative problem solving, continuous learning, and diversity. Those supervising other employees are expected to demonstrate two additional behaviors: strategic communication and perform- ance management.
-
-- Defining job results. The supervisor and individ- ual establish expected job results as part of the planning stage. These expected job results are based on the goals of the department and the individual’s job description.
+is the foundation of the Planning. performance management process. It lays the ground- work for what the supervisor and the team expect from the individual. There are two parts to the planning process: (1) understanding the behavior that is expected and (2) defining the job results expected.

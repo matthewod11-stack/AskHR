@@ -1,5 +1,7 @@
-## Standards of Admissibility for Expert Testimony
-
-Three important court decisions, separated by over 50 years, and a federal evidence code introduced in 1975 have pro- vided the basis for evaluating the admissibility of proposed scientiﬁc testimony. As noted earlier, in Frye v. United States (1923), the District of Columbia Circuit Court ruled that the results of an early polygraph test were not admissible because there was not general agreement within the relevant scientiﬁc community about the validity of polygraph results as an indi- cator of truthfulness. In the court’s words, there was not a “commonly accepted explanatory theory” that applied to the polygraph. Hence, the “Frye test” of admissibility depends upon the general acceptance of a technique or ﬁnding within the scientiﬁc community. Over the ensuing years, other psy- chological expert testimony that has failed the Frye test has included more complex polygraph techniques and the use of hypnosis as a memory “refresher.”
-
-The Frye test was one of four criteria that were applied to proposed expert testimony in an inﬂuential decision by the Ninth Circuit Court of Appeals in United States v. Amaral (1973). The main issue in this case was whether the jury would receive “appreciable help” from proffered expert testi- mony on eyewitness research. (It should be noted that not much solid eyewitness research had been conducted up to this point.) The Amaral decision set out four criteria to determine helpfulness of the proposed expert testimony: (1) whether the expert was deemed qualiﬁed; (2) whether the testimony prof- fered was a “proper subject matter” for expert testimony, meaning that it would provide information that is not already part of jurors’ “common knowledge” and would not invade the province of the jury; (3) whether the testimony conformed to a “generally accepted explanatory theory” (the Frye test);
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0969bdcd5728bef7faa890e112bff4a14f250f98
+title: untitled
+---
+## New Roles for Psychologists: Expert Witness

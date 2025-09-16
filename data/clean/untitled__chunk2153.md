@@ -1,15 +1,19 @@
-# tive. Hillsdale, NJ: Erlbaum.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7108539ecd6e82bab515b121b0803c6f68629339
+title: untitled
+---
+## nal of Consulting Psychology, 10, 289–291.
 
-Craiger, P. (1997). Technology, organizations, and work in the 20th century. Industrial-Organizational Psychologist, 34(3), 89–96.
+Church, A. H. (2000). From the editor: Lazing on a Sunday after- noon. Industrial-Organizational Psychologist, 38(1), 16–21.
 
-Darley, J. G., & Berdie, R. (1940). The ﬁelds of applied psychology: Asurvey report to the committee on professional employment of the American Association for Applied Psychology. Journal of Consulting Psychology, 4(2), 41–52.
+Civil Rights Act of 1964, 42 U.S.C. §2000e-2000e 17.
 
-Dawis, R., & Lofquist, L. H. (1984). A psychological theory of work adjustment: An individual differences model and its appli- cations. Minneapolis: University of Minnesota Press.
+Civil Rights Act of 1991, Publ. L. No. 102–166, 105 Stat. 1071.
 
-DeNisi, A. S. (2000, April). SIOP in its second century: Challenges, threats, and opportunities. Presidential address at the 15th an- nual conference of the Society for Industrial and Organizational Psychology, New Orleans, LA.
+Cohen, M. S. (1995). Labor shortages as America approaches the twenty-ﬁrst century. Ann Arbor: University of Michigan Press.
 
-Dipboye, R. L., Smith, C. S., & Howell, W. C. (1994). Understand- ing industrial and organizational psychology: An integrated approach. New York: Harcourt Brace College Publishers.
+Colarelli, S. M. (1998). Psychological interventions in organiza- tions: An evolutionary perspective. American Psychologist, 53(9), 1044–1056.
 
-Downey, R. G. (2000, April). The new I-O millennium: Riding the wave or wipe out? Panel discussion presented at the 15th annual conference of the Society for Industrial and Organizational Psychology, New Orleans, LA.
-
-Dunnette, M. D. (1966). Fads, fashions, and folderol in psychology.
+Cowles, M. (1989). Statistics in psychology: A historical perspec-

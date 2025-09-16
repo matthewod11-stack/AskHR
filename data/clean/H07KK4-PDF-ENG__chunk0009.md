@@ -1,25 +1,33 @@
-# and at work?
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5869e2fb53767baed241ee18365e5fbe4a0d4566
+title: H07KK4-PDF-ENG
+---
+## HBR / Digital Article / The Ripple Effect of a Bad Boss on Dual-Career Parents
 
-To answer this question, we identiﬁed 100 dual-career couples with
+While writing Parents Who Lead, one of us (Alyssa) heard countless
 
-children and surveyed them at multiple time points over a year and a
+examples of dual-career parents who described the invasive, negative
 
-half during the pandemic. We asked each parent to tell us about the
+impact that an unsupportive work environment (think micromanaging
 
-extent to which their work environment was supportive of their lives
+boss, lack of family-supportive policies, presenteeism culture) can have
 
-outside of work. We asked these questions about several facets of the
+on the entire family. It was common to hear one parent complain about
 
-work environment — their direct supervisor, their coworkers, and the
+their partner’s work and how carrying the resulting extra burden at
 
-broader organizational culture. We also asked both parents about their
+home meant that they couldn’t fully engage at work themselves. And,
 
-home lives, including the extent to which their partner was a supportive
+happily, we also heard the positive ﬂip side of this story. When one
 
-co-parent. Finally, we asked them to describe the degree to which they
+parent was meaningfully supported at work, their co-parent felt better
 
-felt that they were thriving at work and at home. From an academic
+able to fully show up as a parent and in their own career.
 
-perspective, thriving is deﬁned as two distinct but related psychological
+As a team of researchers and working parents ourselves, we set out
 
-states — vitality and learning. When you thrive, you feel energized,
+to investigate this question: How does our co-parent’s support (or lack
+
+thereof) in the work environment inﬂuence our ability to thrive at home

@@ -1,25 +1,19 @@
-# analytics, and research.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aff356b9f41eab051ff479766314adf655c29c92
+title: R2502E-PDF-ENG
+---
+# dialogue with the tools.
 
-Prioritize technology skill development. All of this may sound
+Pilot new technology use cases. There are many actions women can
 
-overwhelming if you haven’t spent a lot of time with technology, but
+take to gain gen AI experience capital that do not require a technical
 
-there are practical steps you can take. A simple benchmark is to set
+background. Seeking out opportunities and demonstrating that you
 
-aside 10% of your workweek to invest in yourself and the skills you’ll
+are a committed early adopter can give you visibility and leadership
 
-need to advance your technology experience capital. It’s also important
+opportunities in your organization. Parts of the process you might
 
-to ensure that you have people with technology skills on your team.
-
-Not only does that improve its eﬀectiveness, but you can learn from
-
-those colleagues. Finally, technology, particularly gen AI, is best when
-
-experienced ﬁrsthand. So have some fun with it. The more time you
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+experiment with include technology design, user experience design,

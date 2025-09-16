@@ -1,13 +1,41 @@
-# and true motives.
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2037a85e52a9531e4bfcc2ba6220fea6153baaa5
+title: H088Z4-PDF-ENG
+---
+# the previous year.
 
-In another study, we investigated the reputational eﬀects of disclosing
+How would disclosing these unfavorable EEO-1 reports change how
 
-diversity data when these data were good or bad. We asked 819 working
+people viewed these companies? We recruited a diverse sample of 2,000
 
-adults to consider a case in which their own company had committed
+people from the U.S. and asked half of them to share their impressions
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+of the company after seeing their respective EEO-1 reports. For the other
 
-4
+half of the people, we asked them to evaluate the companies but never
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+disclosed or made mention of their diversity numbers. We found clear
+
+evidence that disclosing unfavorable EEO-1 reports led companies to
+
+be viewed more positively than not disclosing them at all. Speciﬁcally,
+
+people viewed these companies as more genuinely committed to
+
+diversity and more trustworthy. They also reported being more likely
+
+to say that they would promote this company’s diversity eﬀorts to their
+
+network. Perhaps most striking, we asked people to what degree they
+
+thought the company had made progress in their eﬀort to increase
+
+diversity. People viewed the company that had disclosed the negative
+
+data as having made signiﬁcantly more progress than those that had
+
+never disclosed a single ﬁgure. The act of transparency meaningfully
+
+changed the way in which people understood the company’s struggles

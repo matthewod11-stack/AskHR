@@ -1,11 +1,39 @@
-## HBR editors across our digital, magazine, and press divisions.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55b33f755e69e7760da1b86c0477a925c02e233e
+title: H08TKY-PDF-ENG
+---
+# from viable competitive positions.
 
-Each concept also names the article in which it originated and includes
+So what are these competitive positions? In a smart analysis, former
 
-the authors who came up with the idea.
+HBR senior editor Andrea Ovans suggests that Porter’s idea of strategy
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+can be boiled down to two broad options: “Do what everyone else is
 
-2
+doing (but spend less money doing it), or do something no one else can
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+do.”
+
+While succinct, these aren’t the only approaches to successful business
+
+competition. Ovans notes that, when surveying the vast array of strategy
+
+topics that HBR has covered, there’s quite a lot to say about how to do
+
+something new, how to build on what you already do, and how to react
+
+opportunistically to emerging possibilities.
+
+Indeed—and we decided to collect it all in one place. This is our attempt
+
+at a “strategy glossary,” a place where 40-some classic strategic concepts
+
+introduced in the pages of HBR can be found. They’re in alphabetical
+
+order, with some caveats: We only included ideas discussed in depth
+
+in HBR feature articles that exist in some form on our website. Some concepts don’t have “oﬃcial” names, but they are labeled as accurately
+
+as possible. All were collected based on recommendations from current

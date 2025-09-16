@@ -1,25 +1,27 @@
-## HBR / Magazine Article / Does Gamified Training Get Results?
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 910f85a8b1ff4bcd4e6f8bb1628fbebf71884361
+title: F2302A-PDF-ENG
+---
+## as improvements among more-engaged employees; such trainings
 
-of the ﬁrm’s oﬀerings. “When organizations implement this kind of
+aren’t a panacea for poor engagement. So organizations should set oﬃcewide performance goals rather than deﬁne success by how much
 
-system, they need to give it time,” Sandino says. “People may not be
+the least-engaged employees improve.
 
-able to immediately apply all their new knowledge.”
+Be patient. Don’t expect same-day or even same-week results. Most
 
-KPMG’s employees continue to use and beneﬁt from the training
+of the performance boosts at KPMG took hold in the second or
 
-platform. Even though the study ended more than 18 months ago, “We
+third quarter after the training was introduced, and they gradually
 
-continued to track their performance,” says Cai. “And we saw that the
+increased thereafter. This cumulative eﬀect will most likely continue
 
-beneﬁts persist long after the rollout.”
-
-About the research: “Learning or Playing? The Effect of Gamified Training on Performance,” by Ryan W. Buell, Wei Cai, and Tatiana Sandino (working paper)
-
-A version of this article appeared in the March–April 2023 issue of Harvard Business Review.
+as employees improve their mastery of the lessons and their knowledge
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

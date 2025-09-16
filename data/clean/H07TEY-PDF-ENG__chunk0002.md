@@ -1,5 +1,7 @@
-## Why Your Organization Should Use Salary Benchmarking
-
-Market data can drive fairer compensation and boost employee retention. by Zoë B. Cullen, Shengwu Li, Ricardo Perez-Truglia, Annemarie Schaefer, and Brent Weiss
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d46e1a24b8e8af9a1db26c37568dd9d1ad7c9539
+title: H07TEY-PDF-ENG
+---
+# Compensation and Benefits

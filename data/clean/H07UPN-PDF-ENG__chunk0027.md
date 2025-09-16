@@ -1,7 +1,9 @@
-# eﬀorts.
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e00a8051b06dd4833f231d605e7153626ed7bced
+title: H07UPN-PDF-ENG
+---
+## HBR / Digital Article / Is Your Team Overworking But Underperforming?
 
-Make it an ongoing practice to remind your teams what feedback is —
-
-information the best performers use to improve even further. Encourage
-
-colleagues to reﬂect on and discuss mistakes to extract their precious
+reinforcement. People need regular reminders, especially early in your

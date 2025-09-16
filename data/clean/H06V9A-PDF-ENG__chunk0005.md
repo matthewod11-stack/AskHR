@@ -1,11 +1,15 @@
-## consequences: Through a ﬁeld survey and an experimental study with
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bee6f12067306603cf8508dcb7e2d529ae3ca216
+title: H06V9A-PDF-ENG
+---
+## HBR / Digital Article / The Unintended Consequences of Asking for Employee Input
 
-a total of nearly 1,000 working professionals in the U.S. and India, we
+However, our new research (forthcoming in the Journal of Applied
 
-found that the more managers solicited input from their employees, the
+Psychology) suggests that the approach many managers take when
 
-less likely they were to reward employees for speaking up. This could
+trying to create such an environment — that is, actively inviting
 
-be highly demoralizing for the employees, who had invested time and
-
-eﬀort in developing and speaking up about ideas that could help their
+employees to provide their input — can have unintended negative

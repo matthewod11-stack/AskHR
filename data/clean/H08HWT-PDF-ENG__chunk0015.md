@@ -1,7 +1,11 @@
-# machine collaboration.
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ba67e01fbe55d59c00e885edb63d5abb98fb9ac
+title: H08HWT-PDF-ENG
+---
+## Break Free from Linear Transactions to More Creative Outcomes
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Where AI starts to “come alive” is when you create something unique,
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+something that wouldn’t have been achieved without that human and

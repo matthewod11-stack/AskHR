@@ -1,3 +1,19 @@
-# HBR / Digital Article / To Make Your DEI Efforts More Effective, Challenge Outdated M…
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46b7847a4d4d195370d071b93d76faf290397713
+title: H08PPX-PDF-ENG
+---
+## The overreliance on headcount and other quantitative metrics reﬂects
 
-risk losing sight of the deeper, more meaningful changes they seek to
+a broader—and understandable—organizational tendency to seek
+
+objective measures of progress. However, when operational metrics
+
+become the primary focus rather than a tool for insight, organizations
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

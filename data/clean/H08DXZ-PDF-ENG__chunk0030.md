@@ -1,33 +1,33 @@
-# counter-proposals.
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93bfe3ebf72e7398c16f8ff6c8697ed59d321daa
+title: H08DXZ-PDF-ENG
+---
+# strategy:
 
-- 3. Balance inquiry with relationship-building.
+- 1. Prepare open-ended questions in advance.
 
-You may have uncovered your counterparts’ interests and constraints
+Before entering a negotiation, take the time to write down three to ﬁve
 
-like a pro, but you’re still unlikely to get those extra concessions if
+open-ended questions you could ask to uncover valuable information
 
-they don’t like you. Make sure you strategically balance “why,” “what,”
+about your counterpart’s needs and constraints. Examples of powerful
 
-and “how” questions throughout the conversation to gather in-depth
+questions include “Why is this issue important to you?” “What is the
 
-information and build and maintain good rapport.
+biggest challenge you face?” “What do you care about?” or “How do we
 
-Negotiation is a core leadership and life skill — one that inﬂuences
+move forward?”
 
-everything from the prices we pay and the salaries we earn to who
+- 2. Turn closed-ended questions into open-ended ones.
 
-picks up the kids from school. Despite its pervasiveness, people often
+Actively transform your usual closed-ended questions into open-ended
 
-overlook a simple strategy to achieve better outcomes: asking more
+formats. For instance, instead of asking, “Is this your ﬁnal oﬀer?” try
 
-open-ended questions, a strategy that is much easier if you spend just
+asking, “What factors inﬂuence your ﬁnal oﬀer?” Instead of asking,
 
-a couple of minutes brainstorming open-ended questions before the
+“Do you need this by Friday?” ask, “Why do you need it done so
 
-negotiation begins.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+soon?” Then, use these more informative responses to craft compelling

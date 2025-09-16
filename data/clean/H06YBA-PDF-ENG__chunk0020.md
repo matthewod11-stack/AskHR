@@ -1,17 +1,11 @@
-## outdated, performative Autism Awareness Day. Celebrating autism
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf5f63b574a03f094258911c0320c791db65d245
+title: H06YBA-PDF-ENG
+---
+# HBR / Digital Article / Your “Autism Awareness Day” Might Be Excluding Autistic Peo…
 
-acceptance and inclusion rather than simply awareness can not only
+How to focus on inclusion, rather than awareness
 
-improve the well-being of your autistic employees, but it can also:
-
-- Help shift societal views on autism toward positivity
-
-- Amplify the strength and vibrance of autistic culture
-
-- Support much-needed autism inclusion in the workplace, as autistic
-
-adults with college degrees remain the most underemployed group
-
-Here are some tips for updating the symbolism of your autism
-
-acceptance eﬀorts and for supporting autistic people in practical and
+Forward-looking organizations can do much better than having an

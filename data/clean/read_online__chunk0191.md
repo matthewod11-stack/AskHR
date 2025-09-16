@@ -1,5 +1,7 @@
-# WLB, Work-life balance conflict.
-
-FIGURE 7: Education levels as a moderator on the work-life balance–turnover intention relationship (two-way interaction).
-
-http://www.sajems.org
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 761c3de862ce44eec36a2931c8d894f36f736318
+title: read_online
+---
+# Work-life balance conﬂict level

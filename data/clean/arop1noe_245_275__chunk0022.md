@@ -1,23 +1,7 @@
-# INTRODUCTION
-
-Competitiveness: an organization’s ability to maintain and gain market share in the industry in which it operates
-
-Today, organizations face economic, global, technological, and labor market challenges to their competitiveness. Economic challenges include uncertainty about growth and how to position themselves in a global and services-dominated economy and the necessity of satisfying multiple stakeholders (shareholders, employees, community, and environment) (Meister & Willyerd 2010). Technological challenges include deciding whether and how to use mobile computing and social media, which provide unprecedented access, connectivity, and immediacy to communi- cations for employees, managers, customers, and suppliers.
-
-Competitive advantage: an organization’s ability to generate above- normal returns as compared with its competitors
-
-Strategy: the way an organization positions itself against its competitors and uses its resources to gain a competitive advantage
-
-Labor market and workforce characteristics pose another set of challenges. Organizations are having difficulties finding employees with suitable skill sets for open positions and are un- certainabouthowtobestmanageandcapitalizeonthetalentsofaworkforcethatisincreasingly diverse in terms of age, race, and national origin (Galagan 2010, SHRM Found. 2010, Toossi 2009). Employees’ expectations about work are also changing. They value feedback about their job performance, opportunities to develop their skills, and work that is challenging and personally fulfilling yet contributes to their organizations’ goals. However, they also want flexibility to decide when and where to work to effectively balance work and life demands (Butts et al. 2013).
-
-An important way that an organization attempts to turn competitive challenges into com- petitive advantage is through its business strategy. According to resource-based theory, a resource is anything that can potentially provide an organization with a competitive advantage (Barney 1991). Resources include tangible assets, such as financial capital (e.g., monetary assets and cash) and physical capital (equipment, technology, delivery systems), and intangible assets or human capital. A meta-analysis by Crook et al. (2011) found that human capital resources are signifi- cantly related to firm performance. Although most research has shown that firm-specific human capital has a stronger relationship to firm performance than general human capital does, the findings of Campbell et al. (2010) suggest that general human capital may also be a source of competitive advantage under certain circumstances. Human capital resources contribute to competitive advantage when they are valuable (i.e., wield influence on firm’s strategic goals), unique (i.e., are not commonly held by competitors), inimitable (i.e., are difficult to imitate), and nonsubstitutable (i.e., an alternative resource cannot be substituted to achieve the same strategy) (Acedo et al. 2006, Barney & Wright 1998).
-
-Human capital resources are unit-level resources that emerge through the interaction of employees’ knowledge, skills, abilities, and other resources (KSAOs) (Ployhart & Moliterno 2011). Employees’ explicit and implicit knowledge may be the most important source of competitive advantage (Grant 1991, Kogut & Zander 1992). Explicit knowledge is knowledge that is well documented and easily articulated. Tacit knowledge, which is arguably more important, is knowledge that is subconsciously understood based on experience (Nonaka & Takeuchi 1995). For example, policies and procedures can be taught, but learning through experience plays a critical role in determining when and how to apply, adopt, or abandon those practices. It is important to emphasize that human capital resources are likely not simply the aggregation of individual characteristics to the organizational level, but rather are emergent, that is, they are influenced by interactions among individual characteristics and team- and organizational-level factors (Barney & Felin 2013, Ployhart & Moliterno 2011). This means that organizations’ human resource policies and talent management practices, including training and development initiatives, as well as the organizational context (e.g., structure, culture, and work design) play an important role in the utilization and development of human capital resources.
-
-246 Noe (cid:1) Clarke (cid:1) Klein
-
-6 2
-
-: 5 2 : 4 0
-
-5 2 0 2
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 7037eebeb086a9de907784da83fabb3bfdba986d
+title: arop1noe_245_275
+---
+# l

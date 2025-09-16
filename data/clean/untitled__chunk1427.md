@@ -1,5 +1,15 @@
-# University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2a83e96a208f8ebb31fdcb32c8c7790221b3986a
+title: untitled
+---
+# 244 Social Psychology
 
-Graebner, W. (1980). The unstable world of Benjamin Spock: Social engineering in a democratic culture, 1917–1950. Journal of American History, 67(3), 612–629.
+Gigerenzer, G. (1991). From tools to theories: Aheuristic of discov- ery in cognitive psychology. Psychological Review, 98(2), 254–267.
 
-Graebner, W. (1986). The small group and democratic social engi-
+Gillespie, R. P. (1985). Manufacturing knowledge: A history of the Hawthorne experiments. Unpublished doctoral dissertation, University of Pennsylvania, Philadelphia.
+
+Gillespie, R. P. (1988). The Hawthorne experiments and the politics of experimentation. In J. G. Morawski (Ed.), The rise of experi- mentation in American psychology (pp. 114–137). New Haven, CT: Yale University Press.
+
+Gould, L. (1974). The progressive era. Syracuse, NY: Syracuse

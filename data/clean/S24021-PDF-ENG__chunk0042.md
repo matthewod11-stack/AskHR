@@ -1,15 +1,17 @@
-## operations. Others—such as Danaher, Johnson & Johnson (for which I
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38af4d1f04a2c3d6a9c2f5ddcd2035ec7a0c1a07
+title: S24021-PDF-ENG
+---
+## HBR / Spotlight / How Fast Should Your Company Really Grow?
 
-have provided consulting services in the past), and Berkshire Hathaway
+Let’s return to the analysis of nearly 11,000 companies from 1976 to
 
-—took the opposite approach in pursuing diversiﬁcation strategies.
+- 2019. Among the fastest long-term growers, some companies—such
 
-How should companies decide which path to take in their pursuit
+as Walmart, UPS, Southwest Airlines, and Publix—grew by scaling in
 
-of growth? It is tempting to think about such choices as simply a
+their core markets, replicating their model in new geographic markets,
 
-matter of identifying and exploiting immature, unsaturated markets
-
-with rapid overall growth potential. While market dynamics matter,
-
-there are other factors to consider. For example, from 1980 to 2019
+or adding ancillary services closely aligned with their core service

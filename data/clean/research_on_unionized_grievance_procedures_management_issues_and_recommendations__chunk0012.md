@@ -1,5 +1,7 @@
-# Psychology
-
-Eckerman (1948), Stagner (1956, 1962), Fleishman & Harris, 1962, Sulkin & Pranis (1967), Ash, (1970), Kissler (1977), Walker & Robinson (1977), Dalton & Tudor (1982), Gordon & Miller (1984), Labig & Greer (1988), Gordon & Bowlby (1989), Bemmels, Reshef & Stratton- Devine (1991), Bemmels (1994), Bemmels & Foley (1996)
-
-Younger, male, more educated more skilled employees most likely to file grievances; democratic supervision asso- ciated with lower grievance rates; frequency of employee complaints to shop stewards positively related to grievance filing
+---
+source_path: research_on_unionized_grievance_procedures_management_issues_and_recommendations.md
+pages: n/a-n/a
+chunk_id: 8ad910c835e2a8a34dcba2afaf9d63b0a9e06055
+title: research_on_unionized_grievance_procedures_management_issues_and_recommendations
+---
+# Key Findings

@@ -1,7 +1,25 @@
-# @alisonwbeard
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 311fdd7232aa07de03d23191497a493cf5b5513a
+title: H05624-PDF-ENG
+---
+## representatives, Republicans and Democrats, such as Senators Joni
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+Ernst and Kirsten Gillibrand, who have already tried to bring various
 
-6
+versions of this legislation forth — for example, the CRADLE Act and the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+FAMILY Act. It looks like the biggest issue now will be about funding
+
+it — whether it’s reallocated from other policies, how it’s subsidized.
+
+There are diﬀerent ways diﬀerent countries have approached it. Also
+
+seeing if we can get a clean bill without anything extra layered on. I’d
+
+like to see a federal law for paid family leave of six months, as that’s what more and more research says is ideal. | THE BIG IDEA
+
+This article was originally published online on September 30, 2019.
+
+Alison Beard is an executive editor at Harvard Business Review and co-host of the HBR IdeaCast podcast. She previously worked as a reporter and editor at the Financial Times. A mom of two, she tries— and sometimes succeeds—to apply management best practices to her household.

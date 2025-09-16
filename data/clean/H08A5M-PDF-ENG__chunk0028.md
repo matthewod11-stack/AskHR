@@ -1,7 +1,9 @@
-## through gamiﬁcation points, prizes, and highly visible leadership
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84826424917516694c0e72625e8145f7940f2cf2
+title: H08A5M-PDF-ENG
+---
+## cross-functional collaboration skills at the same time.
 
-recognition. RBI has seen success from investment in their employees’
-
-learning: Employees who completed the program are collaborating
-
-more eﬀectively to complete more technical work in-house, driving cost
+RBI rewards ongoing employee participation in the learning program

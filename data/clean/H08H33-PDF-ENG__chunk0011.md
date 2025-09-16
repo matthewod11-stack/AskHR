@@ -1,21 +1,29 @@
-# HBR / Digital Article / Boost Your Team’s Productivity by Hiring Force Multipliers
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6eeda9538c45fa7591472dc7e09ccd058304d26
+title: H08H33-PDF-ENG
+---
+# more.
 
-team. Why push hard if there’s no real chance to stand out? Second,
+- 2. Certain individuals are “hyper-performers,” who should be
 
-managers may feel intimidated by these high achievers, leading them
+incentivized and rewarded accordingly.
 
-to overlook or bypass such talent. It’s well known in HR that ﬁve-star
+In a perfect world, you’d always hire 10x performers for your company.
 
-managers hire ﬁve-star people, while four-star managers hire three-star
+But in fact, HR processes often prevent this from happening. First,
 
-people. In other words, bringing in a 10x performer can be a no-no for a
+grading on a bell curve can discourage hyper-performers from joining,
 
-manager who is insecure about their own position.
+as it restricts the proportion of employees rated as top performers, no
 
-As a result, our performance systems often work against talent density.
+matter how well individuals perform. It’s like Coach Steve Kerr telling
 
-But in a world of talent scarcity and relentless pressure to maintain
+the Golden State Warriors that only Steph Curry can make the All-Star
 
-market leadership, we need to push back against this psychology and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-ﬁnd more scientiﬁc ways of growing our bench.
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,45 +1,69 @@
+---
+source_path: H06IPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4db24e88054f303832a08b96854eddb921a1cb76
+title: H06IPO-PDF-ENG
+---
 # HBR / Digital Article / Managers: Compassion and Accountability Aren’t Mutually Exc…
 
-employees as “being lenient,” Hill says to think of it as “being ﬂexible,
+deadlines and performance expectations even if it means missing
 
-which is the right thing to do.”
+team targets? How can you be understanding about what people have
 
-And reframe how you think about motivating employees
+been through — and continue to go through — while holding them
 
-You may also need to rethink your assumptions about what motivates
+accountable? And should you worry about being taken advantage of?
 
-employees. If you see compassion and accountability as opposite sides
+I posed these questions to several experts who study motivation and
 
-of a coin, says Dutton, you’re thinking about it wrong. Many managers
+compassion at work to see what advice they have to oﬀer managers at
 
-believe they need to be tough to get people to produce, but the research
+this time, and across the board, they said now is not a time to let up
 
-doesn’t support that. In fact, adding stress to an employee’s workday
+on the care and consideration you’ve shown your employees over the
 
-can result in what’s called a “threat rigidity eﬀect,” where people who
+past year. Nor should you push people without also considering what
 
-feel they’re under threat focus on what they already know how to do and
+they need emotionally. As Jane Dutton, a professor at the University
 
-fail to be creative or innovative.
+of Michigan’s Ross School of Business and coauthor of Awakening
 
-You may be able to “extract labor” from people in the short term, says
+Compassion at Work, puts it, “Being compassionate doesn’t mean you
 
-Dutton, but over the long term, it has the opposite eﬀect. In other words,
+have to lower your standards.” Rather than thinking of it as a trade-
 
-coming down hard on people rarely works, especially if they’re already
+oﬀ between compassion and accountability, think about how you can
 
-suﬀering. “At a purely instrumental strategic level, you’re not going to
+combine the two.
 
-get the results you want if you add stress to people’s lives,” says Jacob
+Here’s some advice for how to navigate the seeming tension between
 
-Hirsh, an associate professor at the University of Toronto. He says that
+being caring and thoughtful and holding people to high standards.
 
-part of a manager’s job is to create a psychologically safe workplace
+Reframe how you think about the last year
 
-— and if you do that for your team members, it will be far easier to
+Let’s be honest: It’s been a terrible year for most people, though
 
-then ask them to do their part. According to Dutton’s research, “People’s
+not everyone experienced the trauma of the pandemic, the ongoing
 
-response to compassion is often to invest more in the organization.”
+reckoning around racial inequalities, and the contentious U.S. election
 
-So being compassionate and caring is not just a nice thing to do — it’s
+in the same way. It can be easy to frame the past year as a wash — a
+
+time when none of us were at our most productive. But that wouldn’t
+
+be entirely fair. Rather than thinking, “We lowered our expectations,”
+
+focus on everything you and your team did get done, suggests Linda
+
+Hill, a professor at Harvard Business School and author of Being the
+
+Boss. Chances are that it was a lot, accomplished in not particularly easy
+
+circumstances. And instead of seeing the way you interacted with your
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

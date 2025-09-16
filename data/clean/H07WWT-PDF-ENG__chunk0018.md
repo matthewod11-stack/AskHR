@@ -1,13 +1,19 @@
-# control.
+---
+source_path: H07WWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 933900b85b6b871362a7c0d976ed02c82e0a3426
+title: H07WWT-PDF-ENG
+---
+# signiﬁcant impact?
 
-Open up your calendar for next year. Add a reminder for early
+While you don’t want to build a habit of cancelling or rescheduling
 
-September to start a conversation with your leaders about what they
+meetings, the end-of-year rush can justify an honest review of the
 
-may want to know or do before the year ends.
+commitments you’ve made.
 
-The end of the year can be stressful enough without extra pressure that
+Look for ways to prevent next years’ scramble.
 
-comes from last-minute requests due before New Year’s Eve. With the
+Even if you can’t ﬁnd any solutions to stop this year’s requests from
 
-right mindset and tools, you can not only survive but thrive in the face
+coming your way, there’s still one action that’s completely in your

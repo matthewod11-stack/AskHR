@@ -1,11 +1,17 @@
-## for Black, Latinx, Indigenous, and Paciﬁc Islander engineers. This
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cb2e66609ebe3953b9a08c43acdcc73f9d3d1fe
+title: H08QTQ-PDF-ENG
+---
+## stretch assignments in unfamiliar areas, the expected job rewards
 
-suggests that professional gains from these opportunities are not
+associated with this work were less clear for them than for men.
 
-perceived equally across all groups.
+These disparities became even more pronounced when analyzed by
 
-Why might this be? It’s not due to diﬀerences in skill, conﬁdence,
+race and ethnicity. For Asian and White engineers, stretch assignments
 
-or experience—our analysis controlled for engineering conﬁdence,
+in new and unfamiliar areas were strongly linked to expected salary
 
-academic success, prior internships, and career exposure. Instead, we theorize that the diﬀerence lies in status within a highly technical ﬁeld
+increases and promotions. These same relationships were not observed

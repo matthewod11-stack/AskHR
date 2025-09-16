@@ -1,7 +1,9 @@
-# American Psychologist, 37, 180–189.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ff2b13b8fef77aea29fabad1768fc5b46f9ff385
+title: untitled
+---
+# 198 Personality
 
-Bray, D. W. (1985). Fifty years of assessment centres: A retrospec- tive and prospective view. Journal of Management Develop- ment, 4(4), 4–12.
-
-Brigham, C. C. (1931). Proceedings of the thirty-eighth annual meeting of the American Psychological Association, Iowa City, Iowa, December 29, 30, 31, 1930. Psychological Bulletin, 28, 181–250.
-
-Bromley, D. B. (1986). The case-study method in psychology and
+Bray, D. W. (1982). The assessment center and the study of lives.

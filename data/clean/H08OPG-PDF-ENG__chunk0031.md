@@ -1,9 +1,7 @@
-# the oﬃce.
-
-My research with technology teams has often shown how even an
-
-environment that for all intents and purposes would not seem to be
-
-suited, let alone designed for work (think of startups in garages or early
-
-makeshift coworking labs) can become veritable innovation hubs. What
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c37860189baa9094572439f755c782bafe9e208e
+title: H08OPG-PDF-ENG
+---
+## generations), but obviously so can many other environments outside of

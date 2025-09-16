@@ -1,11 +1,15 @@
-# form videos to share on social channels.
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2221383e937503760222f148b2744c0cdacd897c
+title: H08EJN-PDF-ENG
+---
+# Mint Images – David Schultz/Getty Images
 
-Rudi worked all week on a project plan for how their team could create
+A client of mine, Rudi, works in marketing for a technology ﬁrm. His
 
-and share more videos. The stakeholders were identiﬁed, the metrics
+team had a goal to increase inbound leads via social media. Rudi, his
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+boss, and some of their colleagues had a long brainstorming session,
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+eventually reaching the conclusion they should be shooting more short-

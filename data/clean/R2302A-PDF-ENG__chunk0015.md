@@ -1,13 +1,17 @@
-## resolution time; for software engineers, speed of development and
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a31a02c11a5d5f6a5eaec380e002dab19da0b06d
+title: R2302A-PDF-ENG
+---
+## objectives and key results (OKRs) for each quarter, but the relevant
 
-deployment. Interestingly, when we decided to start measuring how
+teams decide how they want to meet those goals. Each group agrees on
 
-many items of work the engineers were able to ﬁnish, or “ship,” in
+its own OKRs and on how action items should be assigned, and then
 
-a month—rather than the number of whole projects they’d completed
+individual members can do the work when and where they choose.
 
-—many people told us they could game the results by breaking up
+Rather than tracking hours logged, we follow the metrics that matter
 
-the work into ever smaller parts. We told them to go ahead, and the
-
-piecemeal approach generated faster and better results.
+most for each department. For salespeople, they are sales totals and client satisfaction; for customer support staﬀers, they’re response and

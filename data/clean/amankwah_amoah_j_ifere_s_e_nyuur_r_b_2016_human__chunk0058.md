@@ -1,21 +1,43 @@
-# Other external factors
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 57fbd7c7aa15c4f0a490a7f0251eeb662c4cf19a
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# External forces
 
-Our findings also suggest that managers/owners of firms with poorly performing individuals
+Our data indicate that across the two countries, some firms have kept underperforming
 
-often have a desire to improve efficiency by firing such individuals. However, they have been
+workers as a “bridging strategy” to build bridges with local communities. By originating from
 
-unable to do so particularly due to the strong potential influence from government officials.
+a particular ethnic group, such individuals are seen to bring a degree of legitimacy to their
 
-Although the contributions of such workers are often non-existent within the firm, any
+firms. For firms desperately seeking legitimacy in the community, keeping such workers
 
-attempt to terminate their employment could lead to sudden changes in government policy or
+provides a means of demonstrating their engagement to the local community. Such
 
-contracts of which the firm is a beneficiary. One informant noted:
+individuals also act as joints and protect their firms from accusations of exploiting the local
 
-“As soon as we issued him a notice (letter) that his contract was under threat due to poor
+community. Some workers in this category represented symbolic tokens to convince locals
 
-performance, his ‘contact’ in government informed us that our contract with them was under
+that the firm represented their values and traditions. As one foreign-owned business co-owner
 
-review … after three weeks it became clear to us so we decided to withdraw the notice … It
+noted:
 
-then came as no surprise when a government official contacted us to say that it was a false
+“When we moved the business here, some of the locals did not like us and even threatened
+
+our business … so we have two workers that can be seen as ‘underperforming’ but they have
+
+strong links in the community – that is why we have kept them … they are helping us to
+
+reduce the tension.” (G15)
+
+Another informant concurred:
+
+“Yes! A decade ago … his incompetence caused the company a fortune including the cost of
+
+his retraining and coaching. The other staff were not pleased with the decision … he was a
+
+native of the area and we kept him in the business.”(G6)
+
+21

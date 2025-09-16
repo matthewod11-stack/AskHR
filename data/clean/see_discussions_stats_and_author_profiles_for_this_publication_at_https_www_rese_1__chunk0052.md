@@ -1,3 +1,7 @@
-## Dependent variable: Employee satisfaction score
-
-Independent variable Factors of Job satisfaction (R2 = 0.997) Role Training programme Leadership and planning
+---
+source_path: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1.md
+pages: n/a-n/a
+chunk_id: 46537239da45fcc06ba8019f8f8e63756a6cb563
+title: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1
+---
+# Employee satisfaction score

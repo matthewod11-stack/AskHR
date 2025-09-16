@@ -1,9 +1,9 @@
-## Um último ponto destacado pela funcionária entrevistada, que, de acordo com
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 2a59fa3c8cf78de014102096c4aacf3446dc836c
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# em relação ao cliente, ao criar o NPS.
 
-ela, foi crucial para a decisão pela utilização do eNPS como prática de gestão de
-
-pessoas na companhia foi justamente a correlação encontrada entre outras medidas
-
-de engajamento utilizadas anteriormente e o índice do eNPS por meio de técnicas
-
-estatísticas, o que reitera os achados de Legerstee (2013) e Sedlak (2020) em seus
+No […], por exemplo, já era prática do marketing e replicaram para gestão de pessoas. As empresas de rápido crescimento tem o desafio de ir crescendo e precisam pensar em como escalar as pesquisas na mesma velocidade do negócio. Quando uma empresa passa de 70 funcionários para 600 funcionários em 2 anos, a pesquisa precisa ser enxuta, recorrente e de fácil acesso. Muitas vezes os funcionários novos não têm a cultura da empresa; responder a um questionário extenso inibe a participação e também não coleta uma percepção objetiva. Em outro bench, o problema de escalabilidade estava no armazenamento dos dados. O [...] nos contou que guardar as pesquisas anteriores - as de clima como eles faziam eram bastante extensas - virou um problema. Precisavam de um servidor para o time de gestão de pessoas, e o custo era alto. O desafio ali era conseguir manter a frequência e a pesquisa em si, mas podendo armazenar grandes literalmente reduzir a pesquisa para 2 volumes de dados; a solução foi perguntas, migrando para a metodologia do eNPS. (Entrevistada)

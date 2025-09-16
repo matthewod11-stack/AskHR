@@ -1,21 +1,19 @@
-# they will?
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff17a2c28379bd43966e9951fed98e8bc690a551
+title: R2003G-PDF-ENG
+---
+## between powerful subordinates or destructive gamesmanship between
 
-Even in these circumstances, some chief executives are reluctant to add
+competing departments—block progress? Does the culture encourage
 
-the CoS role. That may stem from unfamiliarity: Without ever having seen a skilled CoS in action, it can be diﬃcult to envision the value one
+resistance to change or insulated silos rather than embracing new
 
-can add. Sometimes reluctance is more about optics and concern that a
+ways to improve?
 
-CoS will make the leader seem imperious or desirous of an “entourage.”
+- When you direct that some action be taken or ask for data on a
 
-Those considerations are understandable. But when set up in the right
+particular issue, do you often not hear back until you remind people?
 
-way, a CoS position can make it much easier to solve the problems
-
-facing a leader with a change agenda.
-
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+When managers say they will follow up, do you have conﬁdence that

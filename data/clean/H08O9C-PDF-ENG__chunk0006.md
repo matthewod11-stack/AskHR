@@ -1,9 +1,13 @@
-# 7 Ways to Use AI as a Career Coach
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1f793648b6144658250f9441144a4242523048e
+title: H08O9C-PDF-ENG
+---
+# point in their job application process.
 
-The potential uses of gen AI for career coaching (and beyond) are only
+In this article, I hope to show you how you can use gen AI tools as your
 
-limited by our imaginations. With that said, here’s what my research
+own personalized career coach, with practical prompts and strategies to
 
-suggests are some of the most common “use cases,” or applications
-
-of these platforms that can help to improve your understanding and
+maximize your experience, learnings, and success.

@@ -1,9 +1,35 @@
-# HBR / Digital Article / 6 Questions to Help You Decide What You Want in Your Next Job
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb8aea819995ac1e77bb3839e3a3984c8b332bab
+title: H08N2T-PDF-ENG
+---
+# chaotic).
 
-questions that can help you assess the degree to which you need to
+- 5. What are my intrinsic motivations?
 
-be intrinsically motivated by your job and career. How much fun or
+Although this may sound controversial, not everybody expects a great
 
-enjoyment do I expect from my work, and does this role oﬀer tasks or
+deal of fulﬁllment from work. That is, while we may be accustomed to
 
-projects that I genuinely enjoy? Will this new opportunity bring a sense
+the idea that work and especially careers ought to provide us with a high
+
+dose of purpose, spiritual fulﬁllment, and even a sense of calling, the
+
+reality is that for many people work is just that: work, as in something
+
+they need to do to make ends meet or pay the bills. Being honest
+
+with yourself about this may help you calibrate your expectations and
+
+consider more choices.
+
+To be sure, you may ﬁnd joy, passion, and excitement from activities
+
+and life areas other than work, as many people do. So, here are some
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

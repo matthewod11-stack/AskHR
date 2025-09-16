@@ -1,5 +1,7 @@
-# theoretical constructs and
-
-interrelationships with measured variables and latent constructs. The PLS-SEM method also
-
-enables the assessment of the degree of fit between the theoretical model and the empirical
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 0813409d7e2a67b8aca3697f6712a3044370ca1a
+title: issn_print_0976_013x
+---
+# the evaluation of

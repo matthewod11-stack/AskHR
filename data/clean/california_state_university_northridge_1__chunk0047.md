@@ -1,43 +1,41 @@
-# terminlltion.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 8d24abea41ecb8a9283018765f81bf36c26d8346
+title: california_state_university_northridge_1
+---
+## in relation to other employees in the company.
 
-Chapter three examines the origin of the at-will employment doctrine and its
+Another piece of important information contained in an employee handbook, is
 
-exceptions. The exact origins of the doctrine cannot be clearly traced, but have had a
+discipline procedures and the evaluation process. The University Student Union has its
 
-strong presence in the American force in the past. Currently, the doctrine is used in 49
+discipline procedure outlined in a step-by-step format. At the same time, there is a
 
-states and is on the decline, based on many court challenges, some of which are listed in
+staterr..ent that any of these steps can be superseded, based on the severity· of the action.
 
-chapter two. Essentially, the term ''at-will" means that the employer can terminate you at
+2
 
-any time for cause. Also, the employee can terminate the employment relationship at
+In addition, the Grievance Procedures, can be utilized by an employee has ifhe or she feels
 
-anytime without notice. The latter portion of the "at-will" doctrine is not being addressed,
+they have been treated unfairly.
 
-as no research l1as been w,covered on tl'-Js rriatter.
+In this section, court cases involving employee handbooks are presented, where an
 
-3
+employee brought the employer to court based on the contents of the handbook, for
 
-Furthermore, some challenges to the "at-will" doctrine have come from violating
+failure to comply with specified steps. The landmark case of Toussaint vs. Blue Cross
 
-various federal acts. The Age Discrimination Employment Act (ADEA) protects
+and Blue Shield of Michigan (1980) will address how the employer failed to comply with
 
-employees, who are 40 years of age or older, from termination based on age. Employers
+their own disciplinary action. In addition, another case involving Hoffinan-La Roche, Inc.,
 
-have been taken to court for terminating an older employer, who has a relatively high
+a pharmaceutical firm, spelled out the reasons an employee could be terminated. In this
 
-salary and a reasonable benefit package, in exchange for a younger employee. However, if
+situation, the employee termination did not fall under one of the stated causes; therefore,
 
-the older worker is terminated for incompetence, then there is no claim. Another
+the termination was considered wrongful. These two cases presented here, demonstrate
 
-challenge has come before the court, are claims brought by employees for violation of the
+the negative impact an employee handbook can have on a business, if there is deviation
 
-American with Disabilities Act (ADA). With the ADA, the employer will not hire an
-
-employee who falls under this category, so there will not be a need to make reasonable
-
-accommodations to the work environment. Title VII of the Civil Rights Act prohibits
-
-discrimination based on race, religion, national origin or sex. The participation clause
-
-under Title VII, allows for the protection of those who are directly or indirectly involved
+from a format. The next logical approach would be to look at what the law says about

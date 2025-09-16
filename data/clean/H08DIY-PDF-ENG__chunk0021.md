@@ -1,27 +1,11 @@
-# data and results.
+---
+source_path: H08DIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85c5bb56dd6e294984e5f9d3114c000f2864b31f
+title: H08DIY-PDF-ENG
+---
+# positive impact?
 
-Leverage shared values and desired outcomes.
+Anika adjusted her approach to meetings and interactions with Charles.
 
-To heal a diﬃcult relationship, the mindset must move from “me
-
-versus you” to “you and me working towards the shared success of
-
-the organization.” A list of shared attributes, values, and goals — both
-
-professional and personal — can help.
-
-When I prompted Anika to do this, she noted that she and Charles both
-
-valued integrity, quality, and transparency and wanted to see positive
-
-customer feedback and ﬁnancial results. Outside work, they had kids
-
-the same age involved in similar activities.
-
-Prompted by this thinking, Anika developed a new reporting tool to
-
-transform the way her sales and marketing team tracks and veriﬁes
-
-leads and plans campaigns, much to Charles’s delight. She also found
-
-a way to connect with him personally with chats about their families’
+Instead of creative marketing ideas, she focused focus on lead campaign

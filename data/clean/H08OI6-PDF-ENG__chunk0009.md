@@ -1,27 +1,25 @@
-## addition, it can position you as a forward-thinking collaborator.
+---
+source_path: H08OI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab1e2154eeab3cbf3e8fb422aa134fceaa938426
+title: H08OI6-PDF-ENG
+---
+## constructive insights on areas for growth and opportunity.
 
-Think about what’s important to your leadership right now. What
+Completing your own mini performance review using past reviews and
 
-initiatives or priorities have they shared during all-staﬀs or town
+feedback from trusted peers doesn’t just mean looking back; it provides
 
-hall meetings? Does your company utilize cross-functional teams for
+the opportunity to examine the present. Consider the next three to six
 
-internal initiatives or community programs that you could contribute
+months and ask yourself: What would you love to accomplish?
 
-to? Even in a remote environment, there may be more opportunities to
+Seek a stretch assignment.
 
-collaborate across teams than you might realize.
+When you proactively seek out a stretch assignment, chances are your
 
-What are your team’s or department’s objectives for this ﬁscal year?
+manager or teammates will see it as a win-win opportunity. Taking
 
-Where are there opportunities for you to support or add value? After
+on a project that interests you and challenges you in new ways will
 
-surveying the landscape for opportunities, suggest ways you can
-
-contribute. Or, if you’re not sure where you could add the most value,
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+expand your skills and has the potential to reignite your engagement. In

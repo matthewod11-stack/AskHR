@@ -1,7 +1,39 @@
-# smile on his face.
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 509654110269709d114e445d9470a15fc3865e2e
+title: R2405M-PDF-ENG
+---
+# conglomerates.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Koﬃ and Yao had visited Aminata twice in Paris, where she had started
 
-2
+her job in the strategic planning oﬃce of a global energy company 10
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+months ago, after earning her MBA at INSEAD. This was her ﬁrst visit
+
+home since graduation. The trio had set up monthly Zoom calls while
+
+Aminata was in business school, and the brothers had been thrilled
+
+with her increasing interest in Assoua Group. They had even shared
+
+historical ﬁnancials and business plans with her while explaining
+
+all the various elements of the enterprise. But Aminata had been
+
+noncommittal about coming home. So they were delighted when she
+
+had suggested several months earlier that she visit to discuss some ideas
+
+for the company in person. And now, after such a long wait, suddenly
+
+there she was, in a tailored linen suit and a white silk shell. As she
+
+walked toward them, smiling and conﬁdent, her father was struck again
+
+by how much she resembled her late mother.
+
+“Ma chérie!” Koﬃ exclaimed, giving her an enthusiastic hug.
+
+“Don’t forget to hug me, too,” Yao said, his arms outstretched and a huge

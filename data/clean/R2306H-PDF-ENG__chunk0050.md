@@ -1,19 +1,27 @@
-## Selectively Sequence Your Idea’s Introduction
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1702cbb14b07251d19937043b3c0425c3191089f
+title: R2306H-PDF-ENG
+---
+# market perspective.
 
-Even leaders who eﬀectively mobilize innovation catalysts to cultivate
+Second, if leaders and their partners rely on the same sets of strategic
 
-out-of-the-ordinary ideas and who leverage sparring partners to
+and technical advisers, they may both get feedback that an original idea
 
-transform them into compelling business propositions may still fall
+is too dangerous to be considered. If that happens, they’re likely to make
 
-short. Unless you can get buy-in to the value-creating potential of novel
+the idea less disruptive to the status quo. In essence, the novelty will be
 
-ideas across the organization, the risk of their derailment looms large.
+squeezed out of it until it’s no longer so threatening to the mainstream.
 
-Smart leaders meet this challenge by “sequencing their circles.” This
+A telltale sign that this is happening in a company is when innovations
 
-means stress-testing the idea initially with an inner circle of conﬁdants
+deliver smaller and smaller payoﬀs. In some cases the failures may well
 
-who provide candid but constructive feedback on it and then vetting
+be caused by ﬂaws in the basic concept, but in our experience, more
 
-it with larger circles of pragmatic skeptics whose blessing can give it
+often than not disappointing innovations start out as ideas with great
+
+promise but get watered down after receiving negative feedback.

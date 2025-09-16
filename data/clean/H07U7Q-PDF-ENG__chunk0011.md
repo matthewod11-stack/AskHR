@@ -1,17 +1,29 @@
-## understood the elements of Whole Foods Market, our culture, our core
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 810df8b375df906c37f065d76c25805493236a87
+title: H07U7Q-PDF-ENG
+---
+# that role.
 
-values, our higher purpose. They were going to remain intact, and my
+JASON BUECHEL:
 
-job was to help take those responsibilities and support us being able to
+One of the fortunes I had was working with John [Mackey] over the
 
-keep Whole Foods and the important elements intact.
+course of nine years and had about an 11-month timeframe to do our
 
-ADI IGNATIUS:
+transition. It was a great opportunity for me to be able to jump into the
 
-At HBR, we love to give people practical takeaways. You’re not the ﬁrst
+role. I had a lot of great support from John where he really wanted me
 
-and you won’t be the last to succeed an iconic CEO who’s been in place
+to help take on some of those responsibilities over the course of the 11
 
-for many years. What’s your advice to people who are in your role and
+months. I was prepared when my day was to step formally into the role.
 
-coming in? What have you learned from the process that you’d like to
+Stepping into shoes like that is also a really diﬃcult process for our
+
+team members. John was our CEO for 42 years, and ultimately that’s
+
+what they knew. For me, it was really important to connect with our
+
+team members, make sure that we could provide a vision and that they

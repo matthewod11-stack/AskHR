@@ -1,9 +1,41 @@
-## HBR / Digital Article / The Challenge of Navigating U.S. Employment Law in 2025
+---
+source_path: H08MEZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f874ff7734efd21d352dd21944a67c66921b480
+title: H08MEZ-PDF-ENG
+---
+## part of managing policy diﬀerences across states. Good communication
 
-Timothy J. Bartl is president and CEO of HR Policy Association, the nation’s leading public policy association of senior human resource executives, representing nearly 400 of the largest companies operating within the United States and globally.
+prevents confusion, builds trust, and ensures employees understand
+
+how policies apply to them and aﬀect the company’s performance.
+
+Best practices for communication include: training managers to explain
+
+policy variations, using easy-to-access tools like intranet updates to
+
+keep people informed, and hosting regular Q&A sessions to address
+
+concerns or recent changes. A leading healthcare organization conducts
+
+quarterly webinars for managers to address updates in paid leave laws,
+
+fostering consistent messaging across the company.
+
+. . .
+
+Managing complex state employment laws requires strategic
+
+preparation. Companies should begin with these steps to help ensure
+
+they are ready for the challenges ahead.
+
+This article was originally published online on February 5, 2025.
+
+Ani Huang is senior executive vice president of the HR Policy Association and CEO of its Center on Executive Compensation.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

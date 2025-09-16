@@ -1,3 +1,9 @@
-# Interpersonal Contexts." Journal of Personality and Social Psychology 57(3): 426-441.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: e431f8cc2864a44b99a5feecb2853ecaf640452c
+title: behavioral_economics_1
+---
+## Economic Behavior, Carnegie Mellon University.
 
-Loomes, G., C. Starmer and R. Sugden (1989). "Preference Reversal: Information-Processing Effect or Rational
+Loewenstein, G. F., M. H. Bazerman and L. Thompson (1989). "Social Utility and Decision-Making in

@@ -1,31 +1,19 @@
-## specifications, practical advice, and conceptual explanations)
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 5799c57fb92ad40bcda4f7dd0f201f1dd6cfe14b
+title: agents_companion
+---
+# Collaborative Pattern
 
-- 2. No single agent has complete information to fully address the user's needs
+The Collaborative Pattern involves multiple agents working on complementary aspects of
 
-- 3. The user would benefit from multiple perspectives on the same question
+the same task, with a Response Mixer Agent that combines elements from different agent
 
-63
+responses to create a comprehensive answer. This approach recognizes that different agents
 
-- 4. Different specialized agents have access to distinct knowledge bases or
+contribute valuable pieces to a complete solution based on their specialized expertise. The
 
-reasoning capabilities
+pattern is particularly valuable when:
 
-Unlike the competitive approach where responses compete, the collaborative pattern
-
-assumes that responses from different agents are complementary rather than redundant.
-
-The Response Mixer Agent identifies the most valuable information from each source and
-
-synthesizes it into a cohesive answer that leverages the unique strengths of each specialist.
-
-For example, when asked about handling hydroplaning, the Car Manual Agent contributes
-
-vehicle-specific safety system information, the Driving Tips Agent provides practical driving
-
-techniques, and the General Knowledge Agent explains the physics behind the phenomenon.
-
-Together, they create a more complete and useful response than any single agent could
-
-provide alone.
-
-64
+- 1. Different aspects of a query require different types of expertise (e.g., technical

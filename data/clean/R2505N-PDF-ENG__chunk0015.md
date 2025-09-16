@@ -1,21 +1,27 @@
-# execution decisions to their teams.
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 542416c1d172e06579db68743eb08a1da7665a09
+title: R2505N-PDF-ENG
+---
+## HBR / Magazine Article / Why Aren’t I Better at Delegating?
 
-When a managing director in a large global bank I worked with used
+and how people should behave (with one another, other colleagues,
 
-this “best, cheapest” test to consider her portfolio of work, she ended
+clients, and others) to get it done.
 
-up ceding 40% of her meetings and 25% of her tasks to the directors
+By contrast, activity-based work—including making decisions about
 
-and VPs who reported to her. She found that everyone was happier:
+what work to do to achieve the company’s or team’s goals—should be
 
-clients, because her team was just as strong as her on most issues
+your team members’ responsibility. That’s because their time costs less
 
-and more responsive than she had been; her employees, because
+than yours, they typically have more on-the-ground insight to drive
 
-they enjoyed the exposure, development, and career progression; and
+good choices, and they’ll be motivated to do the job well when given
 
-the managing director herself, because she could reﬂect, learn, and
+autonomy and accountability. Case study research I conducted from
 
-ultimately contribute to a high-visibility strategy project that she hadn’t
+2011 to 2013 showed that leaders’ strategic initiatives were more likely
 
-previously had time for.
+to succeed when they made the desired outcomes clear but left the

@@ -1,11 +1,17 @@
-# ideas.
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2e61d2c6c77bdebc9cc50757a19713df157db7a
+title: H08M6G-PDF-ENG
+---
+# from the process.
 
-Taking charge in a traditional autocratic sense will cause your team
+- 8. Model the behavior you want to see from your team.
 
-to retrench into self-preservation. Keep in mind that between step 1,
+If you’re the leader of a team, remember that team members learn
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+primarily from your modeling behavior, through observation and
 
-7
+imitation. Positional power is both an asset and a liability. Be the ﬁrst
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mover in the generation of ideas and the last mover in the collision of

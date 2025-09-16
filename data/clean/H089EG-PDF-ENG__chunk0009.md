@@ -1,65 +1,41 @@
-## HBR / Digital Article / Learning to Delegate as a First-Time Manager
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a787cc2ef5509ee2d98e2aa5a4e15383be7d468b
+title: H089EG-PDF-ENG
+---
+# work through it.
 
-As a manager, your success is not equal to being the best performer
+- 1) Change your mindset.
 
-on your team. It’s determined by your ability to help your team grow,
+Many people are promoted into management for doing their previous
 
-reach their goals, and contribute to the larger company vision. That
+job well. This means, as an individual contributor, you may have been
 
-involves helping them learn the tasks they’re working on, and when
+particularly strong at delivering results and completing the tasks on
 
-appropriate, creating opportunities for them to take on more visible or
+your to-do list. But once you’re promoted to a leadership role, you must
 
-challenging work. If you resist this change, you’ll likely end up like Tom
+accept that you can’t do everything on your own — nor should you.
 
-— overwhelmed and (unintentionally) holding onto opportunities that
+Though it may seem counterintuitive, the more senior you become in
 
-could be given to your team.
+an organization, the less you’ll be involved in doing the day-to-day
 
-That’s why learning to delegate is so important. It can help you
+work. You’ll need to have a sense of what’s happening without directly
 
-gain back valuable time and give your direct reports more chances
+contributing to every project.
 
-to develop their skills. Delegating is all about loosening control and
+This shift, from “doing” to “managing” can feel uncomfortable —
 
-increasing accountability. Once you embrace this, you will become more
+especially if you’re used to getting recognition for carrying out tasks
 
-comfortable doing it.
+quickly and well. The reality is, your job has changed now, and how your
 
-- 2) Determine what to delegate and who to delegate it to.
-
-Once you accept that delegating is a part of your job, you can
-
-realistically think about what work to take on, what work to hand oﬀ,
-
-and who to hand it oﬀ to. Write out a comprehensive list of every task
-
-or project on your plate this month. Then, ask yourself the following
-
-questions to identify which items would be best to delegate:
-
-What tasks or projects hamper my ability to work on the “high-level” projects that only I can carry out?
-
-Be realistic with yourself about what “high-level” entails. Like Tom, you
-
-may initially be biased, believing that most tasks can only be done by
-
-you. To keep your biases in check, think through the responsibilities
-
-of your role. “High-level” projects are often the ones that contribute to
-
-your company’s longer-term strategic priorities and are less urgent than
-
-a day-to-day task. A few examples might include: creating development
-
-goals for your team members, setting quarterly benchmarks, or
-
-contributing to a cross-functional initiative as a representative of your
-
-department. This work requires your experience, input, and expertise as
+performance is measured will change along with it.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-3
+2
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

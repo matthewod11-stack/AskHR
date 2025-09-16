@@ -1,11 +1,29 @@
-## Knauth, P., Keller, J., Schindele, G., & Totterdell, P. (1995).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 25e5552dc7345726ca9b3beeff858c5c37124ba8
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Kjellberg, A., Landstrom, U., Tesarz, M., & Soderberg, L. (1996).
 
-A 14-hour night-shift in the control room of a ﬁ re brigade. Work and Stress, 9, 176–186.
+Th e eﬀ ects of nonphysical noise characteristics, ongoing task and noise sensitivity on annoyance and distraction due to noise at work. Journal of Environmental Psychology, 16(2), 123–136.
 
-Knoop, R. (1994). Th e relationship between importance and
+Kleiman, L. S., & White, C. S. (1991). Reference checking: A ﬁ eld
 
-achievement of work values and job satisfaction. Perceptual and Motor Skills, 79(1), 595–605.
+survey of SHRM professionals. Applied H.R.M. Research, 2(2), 84–95.
 
-Knouse, S. B. (1983). Th e letter of recommendation: Speciﬁ city and favorability of information. Personnel Psychology, 36, 331–341.
+Klein, H. J., Wesson, M. J., Hollenbeck, J. R., & Alge, B. J.
 
-Komaki, J. L. (1998). Leadership from an operant perspective.
+(1999). Goal commitment and the goal-setting process: Conceptual clariﬁ cation and empirical synthesis. Journal of Applied Psychology, 84(6), 885–896.
+
+Klein, J. D., & Pridemore, D. R. (1992). Eﬀ ects of cooperative
+
+learning and need for aﬃ liation on performance, time on task, and satisfaction. Educational Technology Research and Development, 40(4), 39–47.
+
+Kluger, A. N., & Colella, A. (1993). Beyond the mean bias: Th e
+
+eﬀ ect of warning against faking on biodata item variances. Personnel Psychology, 46, 763–780.
+
+Knauth, P. (1996). Designing better shift systems. Applied
+
+Ergonomics, 27(1), 39–44.

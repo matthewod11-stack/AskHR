@@ -1,19 +1,33 @@
-# employer or association.
+---
+source_path: Employment Law Guide - Worker Protections in Agriculture.md
+pages: n/a-n/a
+chunk_id: 503e39710d8898d5c92f06efe344a36a3b517e2f
+title: Employment Law Guide - Worker Protections in Agriculture
+---
+# compliance with employment-related MSPA obligations, such as the proper payment of wages.
 
-Enforcement: The Wage and Hour Division enforces the MSPA. During a MSPA investigation, Wage and Hour investigators may enter and
+Disclosure: Employers must provide each migrant and seasonal day-haul worker with a written disclosure at the time of recruitment that
 
-inspect premises (including vehicles and housing), review and transcribe payroll and other records, and interview employers and employees.
+describes the terms and conditions of his or her employment. When oﬀering employment, the employer must provide such disclosure to all
 
-The MSPA provides migrant agricultural workers and day-haul seasonal agricultural workers the right to receive written notice of the terms and
+seasonal workers upon request. The disclosure must be written in the worker's language, as necessary or reasonable. The employer must
 
-conditions of their employment when recruited. In addition, it provides seasonal workers the right to receive such written notiﬁcation upon the worker's request. The MSPA also requires employers of migrants and seasonal agricultural workers to adhere to the disclosed terms and
+also post in a conspicuous place at the job site a poster setting forth the rights and protections that the MSPA aﬀords workers (See notices and posters below). A housing provider must post or present to each worker a statement of the terms and conditions of occupancy.
 
-conditions of employment. Certain exemptions and exclusions apply to these provisions.
+Wages, supplies, and working arrangements: Each person employing agricultural workers must pay all wages owed when due. Farm
 
-The MSPA gives migrant and seasonal agricultural workers the right to ﬁle a complaint with the Wage and Hour Division, ﬁle a private lawsuit
+labor contractors, agricultural employers, and associations are prohibited from requiring workers to purchase goods or services solely from
 
-under the Act (or cause a complaint or lawsuit to be ﬁled), or testify or cooperate with an investigation or lawsuit in other ways without being
+such contractor, employer, or association, or any person acting as an agent for such a person. In addition, no farm labor contractor, agricultural employer, or association may violate the terms of the working arrangement without adequate justiﬁcation.
 
-intimidated, threatened, restrained, coerced, blacklisted, discharged, or discriminated against in any manner.
+Housing safety and health requirements: Each person who owns or controls housing provided to migrant agricultural workers must
 
-Posters. Each farm labor contractor, agricultural employer and agricultural association, that is subject to the MSPA and that employs any migrant or seasonal agricultural worker is required to post a poster explaining the rights and protections for workers required under the MSPA,
+ensure that the facility complies with the Federal and state safety and health standards covering that housing. Migrant housing may not be
+
+occupied until it has been inspected and certiﬁed to meet these safety and health standards. The certiﬁcation of occupancy must be posted at the site.
+
+Transportation safety: Each vehicle used to transport migrant or seasonal agricultural workers must be properly insured and operated by a
+
+properly licensed driver. Each such vehicle must also meet Federal and state safety standards.
+
+Employer protections: Farm labor contractors must comply with the terms of any written agreement they make with an agricultural

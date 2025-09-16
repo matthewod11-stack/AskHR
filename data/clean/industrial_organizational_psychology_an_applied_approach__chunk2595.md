@@ -1,15 +1,33 @@
-# “If you . . . ”
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 277894ecb690f0f3fdcbbc5406eecde9d38407c7
+title: industrial_organizational_psychology_an_applied_approach
+---
+# “aware”
 
-organizational communication
+Writing in generalities:
 
-407
+Writing what you mean:
 
-408
+“I wasn’t gone long”
 
-chapter 
+“I was gone for 5 minutes”
 
-Newsletters As mentioned earlier, newsletters are designed to bolster employee morale by dis- cussing happy or innocuous events such as the three B’s (babies, birthdays, and ball- game scores). Newsletters are good sources of information for celebrating employee successes, providing feedback on how well the organization is doing, introducing a new employee, and providing reminders about organizational changes. Though many organizations provide newsletters in print format, the trend is to send them electronically through either email or an intranet (Sosnin, a). This use of cyber-publications saves printing expenses, allows for faster dissemination of infor- mation, and provides greater flexibility for making changes and updates.
+“A survey said that most of our employees . . . ”
 
-Intranets To replace bulletin boards, newsletters, and company manuals, an increasing num- ber of organizations are turning to intranets—organization-wide versions of the Internet (Zeidner, ). For example, Fletcher Challenge, a Canadian paper and pulp company, designed FletcherNet to improve employee communication. One of the most useful aspects of this intranet is the speed at which the company can survey employees about new ideas. Other advantages include employee self-service, convenience and -hour support, and reduced paper, printing, and postage costs.
+“A survey said that 54% of our employees . . . ”
 
-Though the potential for intranets has barely been tapped, they are currently
+Using an entire phrase:
+
+Using a single word:
+
+“Enclosed please fi nd . . . ”
+
+“Enclosed is . . . ”
+
+“Motivation is the idea that . . . ”
+
+“Motivation is . . . ”
+
+“Should it come to pass that you . . . ”

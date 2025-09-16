@@ -1,7 +1,15 @@
-# three levers:
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 305cf96d1b2d93f5ebf9497d71bab3bf0b0c0102
+title: H08VNO-PDF-ENG
+---
+# credibility problems.
 
-- Power: Who makes decisions, and who gets heard
+Across every sector and region we studied, culture only changed when
 
-- Risk: What leaders are willing to lose to live their values
+leaders changed ﬁrst. Not in tone, but in structure. Not in principle, but
 
-- Modeling: What behaviors get demonstrated—not just demanded
+in power. The most eﬀective teams weren’t following a campaign—they
+
+were following a pattern. In those environments, culture was shaped by

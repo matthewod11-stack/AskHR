@@ -1,13 +1,27 @@
-## HBR / Digital Article / You Need to Be Bored. Here’s Why.
+---
+source_path: H08VQD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf024b41ef2069d2fedfaf7b1619d9c1dfece7cd
+title: H08VQD-PDF-ENG
+---
+# devices.
 
-you in case of emergencies. Phones can do that by the way. If you don’t
+These protocols are really, really helpful and I recommend them to
 
-have to do that, ask your kid.
+anybody and everybody. Don’t sleep with your phone. No phones during
 
-But don’t use emergencies in as an excuse. Here’s something that’s
+meals. Regular social media fasts. You’ll get better. People worry that if
 
-not an emergency: What’s going on Twitter. That’s not an emergency
+they do these things, they’re going to miss something. There are ways
 
-answer nothing. It doesn’t matter. The news can wait. Seriously,
+that you can remedy that.
 
-your grandparents didn’t what was going on every single second in
+One of the things that you can do is you can have your phone on. You’re
+
+just not looking at it, and there’s only one or two numbers that can reach
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

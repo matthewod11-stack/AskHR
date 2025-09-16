@@ -1,5 +1,9 @@
-# FIGURES
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 3351a3ec0fa433b92879d2852b83fefb4be004dc
+title: file_1
+---
+# Table 3
 
-Figure 1 The Global Gender Gap Index 2010 rankings. ................................................. 8
-
-Figure 2 The unadjusted gender pay difference, whole economy, 2008 (%). ................ 9
+Empirical Model ............................................................................................... 44

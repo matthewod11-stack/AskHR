@@ -1,15 +1,7 @@
-## project over time on the past performance of a similar system
-
-operating under comparable conditions. Similarity-based forecasting
-
-helps managers identify unexpected outcomes and variations in actual
-
-operating conditions. It can be applied in many contexts, notably in
-
-macroeconomics, where economists believe that drawing on data from
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4487c2a6a61283458fae1a9112cf97bd40194eef
+title: R2502K-PDF-ENG
+---
+## tool bases predictions about the performance of a system or a

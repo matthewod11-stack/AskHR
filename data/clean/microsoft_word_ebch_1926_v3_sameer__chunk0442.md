@@ -1,9 +1,17 @@
-## Organisation,” Organizacija, 2017, doi: 10.1515/orga-2017-0012.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 63000c3423ee8a6131b7e76315eed3c966b4f092
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# doi:
 
-[8] M. Kivimäki, M. Elovainio, A. Singh-Manoux, J. Vahtera, H. Helenius, and J. Pentti, “Optimism and pessimism as predictors of change in health after death or onset of severe illness in family,” Heal. Psychol., 2005, doi: 10.1037/0278-6133.24.4.413.
+[4] N. Alshyab, S. Sandri, and Z. Abu-Lila, “Differences in returns to education in Jordan: Gender and public-private sector analysis,” Malaysian J. Econ. Stud., 2018, doi: 10.22452/mjes.vol55no1.1.
 
-[9] O. Rahkonen, M. Laaksonen, P. Martikainen, E. Roos, and E. Lahelma, “Job control, job demands, or social class? The impact of working conditions on the relation between social class and health,” J. Epidemiol. Community Health, 2006, doi: 10.1136/jech.2005.035758.
+[5]
 
-[10]
+T. Feldt, U. Kinnunen, and S. Mauno, “A mediational model of sense of coherence in the follow-up study,” J. Organ. Behav., 2000, doi: work context: A one-year 10.1002/(SICI)1099-1379(200006)21:4<461::AID-JOB11>3.0.CO;2-T.
 
-I. Kagan, R. Kigli-Shemesh, and N. Tabak, “‘Let me tell you what I really think about you’ - Evaluating nursing managers using anonymous staff feedback,” J. Nurs. Manag., 2006, doi: 10.1111/j.1365-2934.2006.00575.x.
+[6] A. M. Barros and J. R. G. da Silva, “Percepções dos indivíduos sobre as consequências do teletrabalho na configuração home-office: estudo de caso na Shell Brasil,” Cad. EBAPE.BR, 2010, doi: 10.1590/s1679-39512010000100006.
+
+[7] A. Kovacic, N. Podgornik, Z. Pristov, and A. Raspor, “Mobbing in a Non-Profit

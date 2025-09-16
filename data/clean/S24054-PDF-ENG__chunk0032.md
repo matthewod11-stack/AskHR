@@ -1,11 +1,19 @@
-## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5fe8e366fa042a69b3716c5033b3cc44b0c3f493
+title: S24054-PDF-ENG
+---
+# about “character” during the draft.
 
-The owner? The quarterback? The truth is that we won championships
+Leaders work within a system. When football fans look back on the
 
-because of all three of us—along with dozens of other contributing
+Patriots’ success from 2001 to 2019, they spend a lot of energy trying
 
-factors. As a team, we talked about “people, processes, and protocols.”
+to divide up the credit. Who was responsible for it? Was it the coach?
 
-For example, a foundational culture of toughness and discipline had
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-emerged just as I was arriving, built by players such as Tedy Bruschi,
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,19 @@
-# losses among newcomers.
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bbfb5de12672039a28d0f3ca6362a3aed3516bc
+title: H08ADN-PDF-ENG
+---
+## HBR / Digital Article / Research: New Hires’ Psychological Safety Erodes Quickly
 
-Framing the work
+These trends suggest that strategically assigning new hires to
 
-Use framing to establish and reinforce the need for interpersonal risk-
+departments with positive climates ensures preferable socialization,
 
-taking to do a good job at work. For example, framing work as complex
+kicking oﬀ a virtuous cycle that builds psychological safety over
 
-and uncertain clariﬁes the expectation that things will go wrong,
+time. When placement in settings with low psychological safety is
 
-and the sooner someone notices and speaks up about it, the better
+necessary, investing in departments’ psychological safety, such as
 
-oﬀ everyone is. Similarly, asking questions and listening attentively
+through manager or team leader skills training, could help stave oﬀ

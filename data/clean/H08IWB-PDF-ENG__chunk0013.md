@@ -1,23 +1,29 @@
-## Foster Ongoing Advocacy from Senior Leaders
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f3045e814bac2bacb2bbf7ef45416505003acee
+title: H08IWB-PDF-ENG
+---
+# HBR / Digital Article / Why Mentoring Programs Fail — and How to Make Them Worthw…
 
-The role of senior leaders in championing mentoring programs cannot
+Sharing compelling stories of employees who have achieved signiﬁcant
 
-be overstated. Their support not only elevates the visibility of these
+career milestones through mentoring brings the beneﬁts of, and need
 
-initiatives but also underscores their importance. But leaders need to
+for, mentoring to life for each individual employee.
 
-do more than just endorse them at their inception. They should remain
+These stories can be communicated through internal newsletters,
 
-actively engaged throughout the lifecycle of the program.
+video testimonials, and company meetings, capturing employees’
 
-This engagement can take various forms: from sharing personal
+imaginations by giving them scenarios they can aspire to match and
 
-mentoring experiences to publicly highlighting the successes of
+illustrating the tangible beneﬁts of participation. Focus on the end
 
-participants to regularly speaking about the beneﬁts of mentoring
+result — what mentoring helped individuals achieve — rather than
 
-in meetings and town halls. Leaders should also act as mentors
+simply talking about mentoring without context. Your employees need
 
-themselves, setting an example and demonstrating the value they
+to be drawn toward mentoring when hearing the stories, seeing it as
 
-place on the practice. Ongoing advocacy from senior leaders sends a
+important to help them meet their own career objectives.

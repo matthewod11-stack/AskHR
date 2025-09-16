@@ -1,9 +1,9 @@
-# EL
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c85dbc2d617098fcd7a5c4b47e03f0a618ccabf
+title: H08BKU-PDF-ENG
+---
+# BS
 
-Eun Su Lee, PhD, is Assistant Professor in Management at the University of Newcastle, Australia. Her research focuses on migrants’ integration journeys in foreign countries and the role of stakeholders in facilitating such integrative eﬀorts. Her work has been published in top-tier international journals such as Human Resource Management Journal and International Journal of Management Reviews. Eun Su has also won a number of international awards with Prof Szkudlarek; these prestigious awards include AIB Insights Award for Actionable Insights (Miami, 2022), NBS Research Impact on Practice Award and International HRM Scholarly Award (Seattle, 2022).
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Betina Szkudlarek, PhD, is Professor of International Management at the University of Sydney Business School, Australia. Betina is a world-renowned expert on refugee workforce integration and cross- cultural management and a Strategic Sustainability and Growth Consultant with the United Nations Alliance of Civilizations. She has a strong corporate presence and wide experience in researching, consulting and training in various areas linked to diversity management and global leadership. Her research has been featured by the Wall Street Journal, BBC, and ABC, among others. Her work in the domain of refugee workforce integration and SDG impact has been recognised with multiple prizes, including the United Nations Award for Excellence in SDG Integration (UN PRME Global Forum, New York 2023).

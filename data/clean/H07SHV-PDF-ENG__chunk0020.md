@@ -1,11 +1,27 @@
-# stuﬀ.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 327be225b72d765777334225606b6a9ef43d3d00
+title: H07SHV-PDF-ENG
+---
+# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-ADI IGNATIUS:
+success through their merit and personal accomplishment. They know
 
-If you’re right, then there must be some self-deception here. If you ask
+it, they see it, and so do their friends. And they actually feel like they’re
 
-people, they like hybrid. They like working from home. They talk about
+serving other people and they can see the faces of the people for whom
 
-it giving them a better work-life balance, all of that we think would
+they’re creating value. These are the big things.
 
-translate into fulﬁllment and happiness. But do you think we’re fooling
+One more thing to keep in mind, those things are easiest to do when
+
+we’re in person. That’s just it. You said we spend half of our lives with
+
+our coworkers at work. Well, I don’t know, man, not anymore. A lot of
+
+people are spending half of their lives in front of a Zoom screen where
+
+it’s hard to earn your success, it’s hard to feel like you’re serving other
+
+people, and you don’t even get to see your work buddies. That’s tough

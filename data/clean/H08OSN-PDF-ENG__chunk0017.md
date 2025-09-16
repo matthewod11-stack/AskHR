@@ -1,15 +1,39 @@
-## HBR / Digital Article / When You’re Overloaded—and Delegating Isn’t an Option
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e78de53e75ccdae2896026d4c3d7d27197ef14ce
+title: H08OSN-PDF-ENG
+---
+# reporting.
 
-decision principle. Assure your team: If we remove or change the way we
+Another usual suspect for low-value work is in administrative tasks,
 
-do this work and we need to put it back in place, we will.
+and long, involved forms or approval processes, as the hospital example
 
-- 3. Strategically reduce your availability
+above shows. Organizations with “process-heavy” cultures also tend
 
-Many leaders think they should always be available. But too much
+to “over-process” everything they do, when many decisions, tasks, or
 
-availability creates more interactions and makes team members more
+projects should be handled in a simpler way. Additionally, review and
 
-dependent on you than necessary or ideal. With a bit more space, your
+rework of documents takes up a lot of time unnecessarily when “good
 
-team members will experience more room to act and this frees up time
+enough” (as above) will get the job done. And of course, there are almost
+
+always meetings that don’t need to happen or could be signiﬁcantly
+
+shortened.
+
+What could you experiment with stopping, changing, or reducing?
+
+Remember, if you eliminate something that does matter, you can always
+
+restore it. We have found that teams are much more comfortable
+
+stopping or simplifying work when they embrace the “two-way door”
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,7 @@
-# A Textbook of Industrial Psychology
-
-can also enhance the organization's reputation. Companies that are known for valuing their employees and recognizing their achievements often attract top talent. Potential employees are more likely to be drawn to organizations where their hard work and dedication will be acknowledged and rewarded.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 59a3343ed9b1a9f27b4240f93344937b8690f43d
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# 65

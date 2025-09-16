@@ -1,11 +1,11 @@
-## Administration And Supervision Journal, 27(4), 1-10.
+---
+source_path: issn_2222_1905_paper_issn_2222_2839_online.md
+pages: n/a-n/a
+chunk_id: 476e40a2e0ed555b25fdf140fab54a83d48bbac9
+title: issn_2222_1905_paper_issn_2222_2839_online
+---
+# World.
 
-Moran, J. W. & Brightman, B. K. (2001). Leading organizational change. Career Development International, 6(2),
+Luketa, M. (2012) Organisational Improvement or Management Fashion: A case study of Business Excellence implementation. Master of Science thesis, Department of Civil and Environmental Engineering, Chalmers University Of Technology, Sweden.
 
-111–118.
-
-Mumby, D. K. (2004). Discourse, power and ideology: Unpacking the critical approach. London, Sage. Muo, I.K. (2014).The other side of change resistance. International Review of Management and Business Research.
-
-3(1), 96-112.
-
-Muo, M.C. & Muo, I.K. (2014). Organizational behaviour: A coincise introduction. Ibadan, Famous books. Nadler, D.A., & Tushman, M.L. (1998). Organisational frame bending: Principles for managing reorientation.
+Luecke, R. (2003). Managing Change and Transition. Boston, MA, Harvard Business School Press. Lunenburg, F.C. (2010). Forces for and resistance to organizational change. National Forum Of Educational

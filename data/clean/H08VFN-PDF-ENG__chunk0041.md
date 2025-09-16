@@ -1,19 +1,13 @@
-# time.
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f431194f27dd62b65d2b7b934e99d8012a109d2c
+title: H08VFN-PDF-ENG
+---
+# buckets:
 
-- Other people judged wrong. Shame goes in this bucket if you realize
+- Room for personal improvement. Shame goes in this bucket if you
 
-that other people wrongly criticized you for an appropriate action. Fﬃrm yourself for doing what was right, reminding yourself that
+reﬂect on the moment and think, I could have done better. Make a plan
 
-leaders walk independent from the crowd.
-
-By proactively reviewing these moments, you’ll reduce the likelihood
-
-that they’ll resurface during your next leadership challenge. You’ll also
-
-gain strength from shame, turning it from hindrance into sustenance.
-
-Key Takeaway: The brain believes its memories of success because it
-
-has lived them, so by strengthening those memories in advance, you
-
-equip yourself with the emotional conﬁdence to overcome Flashback
+for what you should have done instead and commit to executing it next

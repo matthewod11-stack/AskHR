@@ -1,5 +1,11 @@
-## development opportunities, promotions, and performance ratings.
+---
+source_path: H07PS7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d67968de0bb400d3284a67dc828f5e3613e16e8
+title: H07PS7-PDF-ENG
+---
+# HBR / Digital Article / Research: Why Managers Deny Inequity in Their Own Organizati…
 
-Organizations looking to garner support for diversity initiatives can
+also adopted another eﬀective strategy for addressing inequity: data
 
-require managers to engage with such data or examples on a regular
+dashboards, which record examples of inequities in compensation,

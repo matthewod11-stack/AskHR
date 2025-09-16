@@ -1,9 +1,25 @@
-# HBR / Digital Article / Making Mental Health Programs Work at Multinational Compan…
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6210b42bcb0a743f26cef2e1ea7be4738da8353
+title: H08NVC-PDF-ENG
+---
+# Richard Drury/Getty Images
 
-mental health, with nearly half stemming from presenteeism, where
+Employee mental health challenges affect companies worldwide. Due
 
-employees are at work but are not fully functioning.
+to reduced productivity linked to anxiety and depression, for example,
 
-The stakes are particularly high for large multinational companies
+a total of 12 billion working days are lost globally every year. A recent
 
-that operate across diﬀerent regions. Not only are their organizational
+survey with HR professionals across 10 Asian countries found that 82%
+
+of employees in this region still have signiﬁcant mental strain. And
+
+across the ocean, UK employers still lose GBP 51 billion annually to poor
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

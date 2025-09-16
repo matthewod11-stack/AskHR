@@ -1,9 +1,9 @@
-# the goal.
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: bfdfb77778972dbb28ad2842c9756db3b5e51a7a
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# the set destinations.
 
-- (cid:32) HR needs to catch Mid-Year Ratings in the framework for some time later. Mid-year
-
-examination rating will be utilized for surveying progress made by the representative
-
-and course redresses dependent on
-
-input got from
+- (cid:32) The accomplishments should be written with regards to the estimation norms set for

@@ -1,7 +1,13 @@
-# What Success Looks Like
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 670c46543168b1f5a5df324242a9cb7c3a1c5941
+title: R2405H-PDF-ENG
+---
+## outcomes. For example, directors at the nursing-home chain regularly
 
-Let’s conclude by taking a look at a company that has put all these
+meet with shift leaders to review target safety metrics. The weekly
 
-elements together to make safety a performance driver. When a new
+meetings are brief—about 20 minutes—but they’re frequent enough to
 
-SVP of strategy and a new CEO took over a facilities management
+keep safety salient in employees’ minds without becoming burdensome.

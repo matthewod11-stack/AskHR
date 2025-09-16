@@ -1,13 +1,17 @@
-## flow when (over)investing, and enter into value-reducing mergers.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 41994208948bad4f40560f3d688637402308f5a7
+title: beo_chap7_1
+---
+# In large business organizations (especially U.S. firms), the judgment of top man-
 
-If organizations are aware of the mistakes workers and managers make, they
+agers (e.g., CEOs) is especially influential. Section 7.3 discusses the fact that top
 
-can sort around them (via hiring practices and internal matching of workers into
+managers are particularly prone to specific biases, such as overconfidence, given
 
-jobs where their mistakes are least costly), they can design “organizational repairs,”
+their past successes and the noisy feedback on their large-scale decisions. Then they
 
-or they can exploit mistakes by workers (e.g., offering backloaded incentives to
+may make mistakes, especially if weak corporate governance does not discipline
 
-optimistic workers who are sure they will succeed). Thinking about the optimal
-
-design problem in the face of worker error, as suggested in Section 4.4, is both
+mistakes. Overconfident managers, for example, will rely too much on internal cash

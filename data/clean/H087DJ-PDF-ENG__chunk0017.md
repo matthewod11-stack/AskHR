@@ -1,23 +1,13 @@
-## of anxiety and isolation in the workplace.
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68e05cc179404f56d14680b0ea1cf349c95f2505
+title: H087DJ-PDF-ENG
+---
+## HBR / Digital Article / Supporting the Mental Health of Employees of Color
 
-Onlyness and racism in their various forms lead to another barrier to
+similar to yours. (“Does that boss check everyone’s work, or just mine?”)
 
-receiving care: cultural mistrust, the tendency not to believe or trust
+Being an only also means that if you are not at a meeting or don’t attend
 
-your white colleagues or leaders. This mistrust has several eﬀects: You
-
-are wary and keep your guard up, leading your colleagues to see you as
-
-unfriendly or not a team player. When it comes to your mental health,
-
-cultural mistrust heightens concerns that any request you make for care
-
-or accommodations will be used to deny you promotions and raises,
-
-or may result in the loss of your job. Worse yet, you may believe your
-
-request will be shared with the entire ofﬁce. Simply stated, you believe
-
-you will be betrayed, and this belief in turn fuels mistrust.
-
-Many employees of color are raised in families and communities
+an outing, people notice and comment. This can create or add to a sense

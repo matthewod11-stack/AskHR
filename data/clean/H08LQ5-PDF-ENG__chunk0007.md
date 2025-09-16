@@ -1,7 +1,9 @@
-## whether for the organization’s capabilities or for the employee’s
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cfe56b50e9200dc34363e826899eac0239da6330
+title: H08LQ5-PDF-ENG
+---
+## likelihood of burnout and its long-term consequences on both employee
 
-engagement and career. Work is not just something we do; it contributes
-
-to identity, purpose, and community. And in a worst-case scenario,
-
-such a leave could harm future growth opportunities or become
+and organizational health, while taking leave can also prove harmful,

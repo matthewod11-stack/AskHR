@@ -1,1 +1,9 @@
-# Completed Hours (this Qtr.)
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 964a413bf963022a3432f3f11d6a89758ddef10f
+title: performance_management_3rd_edition_by_aguinis
+---
+## Next 1 year Next 2 years Next 3 years Next 5 years
+
+Dev. Options OJT (on the job) training Description Classes Current Qtr. Conferences _________________________________________________________________ On-line _________________________________________________________________ Self-study _________________________________________________________________ Job rotation Next. Qtr. Videos _________________________________________________________________ _________________________________________________________________ Books Temp. assignment _________________________________________________________________ Mentorship Other (specify)

@@ -1,17 +1,11 @@
-# possible version of the future.
+---
+source_path: H0734V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 125b4b826a796dfaf5bd48c027a9d057f0521ff3
+title: H0734V-PDF-ENG
+---
+## hubs, medical centers, delivery platforms, and ghost kitchens. Although
 
-It’s not always easy. Using design fiction successfully requires
+company executives had engaged in various strategizing and foresight
 
-executives to be creative and open to all possibilities. Yet as much as
-
-design fiction helps bring back imagination in the strategizing process,
-
-executives can be resistant to it. By force of habit, most executives tune
-
-down their imagination when strategizing and it is challenging for them
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+exercises in the past, only design fiction enabled them to envision this

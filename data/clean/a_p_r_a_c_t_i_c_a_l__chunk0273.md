@@ -1,15 +1,19 @@
-# Plan for human interventioQ
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 639f2a78e45d1080941699be61a0d7aeaead5c22
+title: a_p_r_a_c_t_i_c_a_l
+---
+# print
 
-Human intervention is a critical safeguard enabling you to improve an agent’s real-world performance without compromising user experience. It’s especially important early} in deployment, helping identify failures, uncover edge cases, and establish a robust evaluation cycle@
+(
 
-Implementing a human intervention mechanism allows the agent to gracefully transfer control when it can’t complete a task. In customer service, this means escalating the issue} to a human agent. For a coding agent, this means handing control back to the user@
+"Churn detection guardrail tripped"
 
-Two primary triggers typically warrant human intervention<
-
-Exceeding failure thresholds: Set limits on agent retries or actions. If the agent exceedN these limits (e.g., fails to understand customer intent after multiple attempts), escalat(cid:131) to human intervention@
-
-High-risk actions: Actions that are sensitive, irreversible, or have high stakes shoulc trigger human oversight until con2dence in the agent’s reliability grows. ExampleN include canceling user orders, authorizing large refunds, or making payments.
-
-31
+0
 
 A practical guide to building agents
+
+The Agents SDK treats guardrails as (cid:20)rst-class concepts, relying on optimistic execution by default. Under this approach, the primary agent proactively generates outputs while guardrails(cid:22) run concurrently, triggering exceptions if constraints are breached.(cid:21)
+
+Guardrails can be implemented as functions or agents that enforce policies such as jailbreak prevention, relevance validation, keyword (cid:20)ltering, blocklist enforcement, or safety classi(cid:20)cation. For example, the agent above processes a math question input optimistically until the math_homework_tripwire guardrail identi(cid:20)es a violation and raises an exception.

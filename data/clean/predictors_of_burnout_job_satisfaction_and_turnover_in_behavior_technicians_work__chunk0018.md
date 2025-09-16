@@ -1,1 +1,7 @@
-# Sample Size
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: b62df4d2f57c66762f71a72ae707f4f7940d886b
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Authors

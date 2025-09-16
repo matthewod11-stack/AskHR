@@ -1,19 +1,37 @@
-# authentic leadership and this, along with the unbiased processing of self-relevant information
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 66b5c67d304c10f439c2268af9ac8742d795cabd
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-and fair treatment of followers, is likely to influence a follower’s willingness to be vulnerable
+emerging leadership styles have also found support for a strong link with trust in leadership
 
-to their leaders and trust them (Ilies et al., 2005). Ethical leader behaviours are argued to
+(see Table 1). When compared to the full-range model, it may be the case that some of these
 
-influence follower’s willingness to be vulnerable because of the psychologically safe working
+more recent additions to the leadership literature may be stronger determinants of trust. More
 
-environment they create (Den Hartog, 2018). Ethical leaders for example, encourage
+contemporary styles, such as ethical and servant leadership, emerged as a direct attempt to
 
-employees to voice concerns and show fair treatment and balanced decision making (Brown
+address a lack of trust and faith in organisational leaders (Avolio & Walumbwa, 2014). As
 
-et al., 2005) and empirical links to trust are found (e.g., Newman et al., 2014). SET has also
+such, the moral tone of these styles may be more suited to facilitating trust compared to
 
-been used to provide an explanation of how servant leadership influences the trust between
+transformational leadership, which does not explicitly address ethics as a core tenet (Brown et
 
-followers and their leader (Lee et al., 2020). Servant leaders build trust by putting their own
+al., 2005). There is some support for this contention (e.g., Hoch et al., 2018). For example,
 
-self-interests second to the interests of their followers and focusing on the greater good. In
+some of the core qualities associated with these more morally toned styles, such as
+
+transparency and openness (Korsgaard et al., 2002; Norman et al., 2010), play a central role
+
+in facilitating integrity (Mayer et al., 1995) or cognitive forms of trust.
+
+Theories of leadership such as authentic, servant and ethical leadership (Dinh et al.,
+
+- 2014) can be grouped together in a ‘moral approaches’ category (Lemoine et al., 2019).
+
+Within this category, scholars typically draw on common theoretical arguments including
+
+SET to explain how these styles facilitate trust. For example, integrity is a core feature of

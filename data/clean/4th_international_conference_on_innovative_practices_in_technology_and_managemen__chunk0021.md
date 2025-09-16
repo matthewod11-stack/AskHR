@@ -1,9 +1,15 @@
-# Available
+---
+source_path: 4th_international_conference_on_innovative_practices_in_technology_and_managemen.md
+pages: n/a-n/a
+chunk_id: 58372d68b4a4ac9d319086cf4e3691f9dfc41816
+title: 4th_international_conference_on_innovative_practices_in_technology_and_managemen
+---
+# interpretability via feature
 
-[4] Rohit Punnoose, P. A., 2016. Prediction of Employee Turnover in Organizations using Machine Learning Algorithms. (IJARAI) International Journal of Advanced Research in Artificial Intelligence, 5(9), pp. 22-26.
+REFERENCES [1] Archita Banerjee, R. K. G. M. G., 2017. A Study on the Factors Influencing the Rate of Attrition in IT Sector: Based on Indian Scenario. Pacific Business Review International, 9(7), p. 01
 
-[5] K. K. Ramachandran, A. Apsara Saleth Mary, S. Hawladar, D. Asokk, B. Bhaskar, and J. R. Pitroda, “Machine learning and role of artificial intelligence in optimizing work performance and employee behavior,” Mater. Today Proc., vol. 51, pp. 2327–2331, 2022, doi: 10.1016/j.matpr.2021.11.544.
+[2] Kotsiantis, S. B., 2007. Supervised Machine Learning: A Review of
 
-[6] Valle, M.A., Varas, S., Ruz, G.A.: Job performance prediction in a call center using a naïve Bayes classifier. Expert Syst. Appl. 39, 9939–9945 (2012)
+[3]
 
-A popular and comprehensible technique for predicting staff attrition is LR. This algorithm provides insights into the likelihood and variables driving attrition by modeling the chance of an employee leaving depending on input features. When it is assumed that there is a linear relationship between the predictors and the binary result of attrition, LR is more successful. (Tharani and Raj., 2020) [19, 20] It is appropriate for situations when comprehending the significance of every aspect is essential since it is straightforward and simple to interpret. In the area of employee attrition prediction, logistic regression is a useful tool due to its clarity, computing efficiency, and applicability to datasets with a reasonable amount of features, even though it may not capture complex non-linear correlations as well as some other methods. Regularization methods and feature selection should be carefully considered as the model's generalization capabilities.
+Classification Techniques. Informatica 31, 1(1), pp. 249-268. IBM , 2018. Employee Attrition and Performance - IBM Analytics. [Online] at: https://www.ibm.com/communities/analytics/watson-analytics- blog/hr-employee-attrition

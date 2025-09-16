@@ -1,7 +1,33 @@
-## 24% for fully remote workers, and about 22% for in-person workers.
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2a72cf29e99fd09a2087a505c494033bb8dc250
+title: H07Z4W-PDF-ENG
+---
+## environment and relationships, communication, and training and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+mentoring. Here are some ways you can do this:
 
-5
+- Demonstrate your value. Are you consistently working smarter, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+not harder, to drive clear business impact? Can you show that you’ve
+
+done some of your best work while working remotely? Perhaps you can
+
+also think of times when you’ve deepened connections and built trust
+
+while working remotely. Keep these stories top of mind. Now is the
+
+time to toot your horn.
+
+- Demonstrate your communication skills. Indirect communication
+
+— such as email, text, chat, and videoconferencing — can often lead
+
+to misinterpretation and misunderstanding. Have you shown you’re
+
+a strong communicator across these mediums? According to a WFH
+
+Research survey of more than 1,900 employees, hybrid workers spent
+
+around 50% of their time in meetings, while that number was roughly

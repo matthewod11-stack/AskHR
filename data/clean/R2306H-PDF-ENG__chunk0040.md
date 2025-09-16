@@ -1,21 +1,13 @@
-## discussions with Malika in their biweekly meetings. Likewise, Malika
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 164124d46d4ea4838cece1f19c808a16cc3d5464
+title: R2306H-PDF-ENG
+---
+# medication.
 
-would spend time ahead of those meetings discussing progress on the
+To be able to challenge Malika’s input on regulatory aﬀairs, Xiu
 
-clinical side with advisers in her own network. By independently getting
+would regularly consult some of her former colleagues who worked on
 
-advice on each other’s domains of expertise, they could spar back and
-
-forth to co-create an imaginative resolution rather than arrive at a
-
-compromise that favored innovation over regulatory alignment or vice
-
-versa. One solution Malika and Xiu came up with, for instance, was a
-
-proposal that regulators interpret compliance requirements in a way
-
-that allowed greater exploration of new technological avenues while
-
-still ensuring that essential safety standards were met. Their years of
-
-hard work paid oﬀ when their company released one of the world’s ﬁrst
+regulatory issues at other organizations. That helped her have deeper

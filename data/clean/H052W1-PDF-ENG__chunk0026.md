@@ -1,33 +1,13 @@
-## inclusion, and corporate social responsibility at Sedgwick, a provider of
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21d7cc15d19d49bc9ee825340fded7ec8b5c49ac
+title: H052W1-PDF-ENG
+---
+# new life.
 
-claims and productivity management products, became a mother.
+Case Study #1: Redeﬁne your expectations for yourself, and make
 
-“I realized going in that life would never be the same, but I still didn’t
+adjustments to how you do your job
 
-know quite what that meant until my son was born,” she says.
-
-She drove her son to daycare on her ﬁrst day back from maternity leave.
-
-“I called my boss in tears from the parking lot,” she says. “I couldn’t
-
-leave. I was very emotional.”
-
-She eventually got used to the drop-oﬀ, but that initial experience
-
-taught her an important lesson. “Now I always recommend to new
-
-moms and dads [on my team] that they do a couple of days of daycare
-
-before they come back.”
-
-Ericka admits that her ﬁrst few months on the job were a struggle. “I
-
-thought I was doing nothing right,” she says. “I felt like I was always
-
-hurrying. I was hurrying to leave work to get back to my baby, and I was
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Three years ago, Ericka DeBruce, the vice president of engagement,

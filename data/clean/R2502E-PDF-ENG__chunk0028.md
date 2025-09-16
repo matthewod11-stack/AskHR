@@ -1,7 +1,31 @@
-# organizations and industries.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65b4b1fdcedbf21bf04b9b42b838a8ebab950ac8
+title: R2502E-PDF-ENG
+---
+# Enter the Power Alley
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+When it comes to building experience capital, two types of positions
 
-8
+are accelerators: leadership roles and those with proﬁt and loss (P&L)
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+responsibilities. Because both give you a signiﬁcant amount of clout, we
+
+think of them as being in what we call the power alley. The more time
+
+you spend there, and the wider the variety of roles you hold there, the
+
+more experience capital you’ll accumulate.
+
+Leadership roles. The beneﬁts of working in a leadership role are clear:
+
+You have a seat at the table in decision-making and are able to inﬂuence
+
+outcomes. You and your work become far more visible. You have an
+
+opportunity to build a network of senior colleagues, which can help
+
+open doors for you. And you can open doors for others. All of this
+
+requires excellent communication skills that are transferable across

@@ -1,13 +1,13 @@
-## collaboration, and problem-solving in group settings. For anyone
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bfed5a9ebdac467a0038aacbc2518871578da347
+title: H08UTW-PDF-ENG
+---
+# Catherine Ledner/Getty Images
 
-unfamiliar, here’s the gist: When someone oﬀers an idea, a leader or
+The improv theater technique “Yes, and…” has long been a powerful
 
-a teammate says “yes” (accepting the reality and value of the idea),
+tool for running better meetings.
 
-followed by “and” (adding something relevant). That simple, two-step
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Since the 1990s, business leaders have relied on it to spark creativity,

@@ -1,9 +1,13 @@
-# situation?
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 468cc5b522d500493b87d0ad9848046e389612b4
+title: H08TM2-PDF-ENG
+---
+## HBR / Digital Article / Leading After Your Predecessor Fails
 
-After a few months of reﬂection, Julie realized that the so-called
+Make sure your team is having the right conversations.
 
-leadership “team” was not a team at all, but a siloed collection of
+Before she unexpectedly became CEO, Julie sat on her senior leadership
 
-individual leaders. “Leadership meetings” had become recitations of
-
-each person’s to-do list, rather than a collective taking action on the
+team. So how was she so out of the loop about the company’s dire

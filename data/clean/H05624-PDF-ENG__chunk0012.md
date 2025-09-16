@@ -1,11 +1,13 @@
-## HBR / The Big Idea / Every Employee Should Have Access to Paid Parental Leave
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b46ca1517508c1a780242102616311e84b33318
+title: H05624-PDF-ENG
+---
+# leave policy?
 
-Flexible scheduling. I didn’t realize Reddit had this until Katelin
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-Holloway explained to me that you can allocate those 16 weeks in the
+3
 
-way your family needs. So, as a dad for the ﬁrst month, it’s great to be
-
-home and fully supportive. But then maybe you arrange to be in the oﬃce Monday through Wednesday and home Thursday and Friday to
-
-stretch out the rest of those days and give you and your family time to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

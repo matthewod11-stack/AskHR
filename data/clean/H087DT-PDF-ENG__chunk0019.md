@@ -1,9 +1,9 @@
-## options available under the Americans with Disabilities Act sooner
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 387203f661ce28218e6536fbc995c9b938ebabd6
+title: H087DT-PDF-ENG
+---
+# options.
 
-rather than later — and well before you’re in a crisis. Don’t make
-
-the mistake of thinking your issue doesn’t warrant accommodations if it objectively does. And note that diﬀerent countries use diﬀerent
-
-terms for similar legislation. For example, the United States uses
-
-“accommodations,” whereas the U.K. uses the phrase “reasonable
+If you deal with a mental health condition regularly, look into the

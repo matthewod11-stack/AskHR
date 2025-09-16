@@ -1,13 +1,7 @@
-# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
-
-transformational leadership include inspiring followers to believe in a vision and challenging
-
-the status quo (Pillai et al., 1999). Trust is a well-established antecedent of risk taking in
-
-relationships (Mayer et al., 1995) and when followers trust their leader they are much more
-
-willing to accept such risk and show the effort needed to make the vision a reality.
-
-Transformational leaders are persuasive role models who signal integrity (a defining feature
-
-of cognitive trust) via their willingness to make personal sacrifices and their word-deed
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 6a1aaafa468e4b8a4b6ad84e1b1345163a51a826
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# (cid:32)(cid:55)(cid:32)

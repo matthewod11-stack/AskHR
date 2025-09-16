@@ -1,7 +1,9 @@
-## person experiences—from workshops to team-building activities to
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f7306c2a1bf4f9fc414a57df32f937f8a1e0099
+title: R2402F-PDF-ENG
+---
+# program participants as fellows.
 
-community dinners. All the fellows and mentors we spoke with
-
-mentioned “the magic” that happened over the course of these events.
-
-UI retreats typically combine small-group interactions with periods of
+Curation of the experience. UI carefully manages its programs’ in-

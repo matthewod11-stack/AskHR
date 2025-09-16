@@ -1,5 +1,7 @@
-# Variable PP TR MT RM
-
-Coefficients 0.0697 -.0162 0.1459 0.1319
-
-t 1.1722 -.3432 2.6759 3.1386
+---
+source_path: archives_of_business_research_vol_7_no_3.md
+pages: n/a-n/a
+chunk_id: 305126852f094f67f0bd62c3d7033c85e2b87170
+title: archives_of_business_research_vol_7_no_3
+---
+# Table 6: Outcome EPB

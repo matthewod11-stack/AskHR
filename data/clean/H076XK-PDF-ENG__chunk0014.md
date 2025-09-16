@@ -1,17 +1,13 @@
-# Psychological Safety
+---
+source_path: H076XK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0fa75a4504be301d29b4080b23f47ec41e50e7d
+title: H076XK-PDF-ENG
+---
+# P’s of rituals.”
 
-When employees come together for Time to Connect, Harrison begins
+By applying the Three P’s to Time to Connect, leaders can better
 
-with some prepared remarks about the world event and then asks the
+understand their own rituals — both current ones and those that have
 
-same question each time: “So, how are you doing?”
-
-In order to give employees permission to answer this question honestly,
-
-she opens the conversation with her own perspective on the issue
-
-at hand. Leading by example provides people an opportunity to be
-
-real themselves. As a result, employees feel safe to respond to the
-
-conversations in whatever way works for them — live, in the chat, or
+yet to be discovered.

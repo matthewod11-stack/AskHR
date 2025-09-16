@@ -1,13 +1,23 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: ffe9835b4fee80d30ff41acde3f6e9ad10905eb8
+title: issn_print_0976_013x
+---
+# THE ROAD AHEAD
 
-The organiza(cid:415)on has already taken a few ini(cid:415)a(cid:415)ves like organizing events to promote a culture
+Technopark has not only served its stakeholders in a meaningful way over the years but has
 
-of innova(cid:415)on on the campus. Technopark can further leverage its loca(cid:415)on and facili(cid:415)es to
+also contributed towards job crea(cid:415)on, capital accumula(cid:415)on and wealth maximiza(cid:415)on.
 
-become a hub of tourism. It goes without saying that Technopark has emerged as a classic
+However, the organiza(cid:415)on has a track record of always looking ahead in terms of enriching
 
-model for all the technological parks in India and other parts of the world. Yet, there is no end
+the experience of all the stakeholders within and outside the Technopark campus while
 
-to excellence. Interes(cid:415)ngly, leadership team of Technopark is already making futuris(cid:415)c strides
+con(cid:415)nuously adding value. Sanjeev Nair, Chief Execu(cid:415)ve Oﬃcer, Technopark is taking keen
 
-towards further expanding the vibrant entrepreneurial ecosystem within the campus.
+interest in improvising campus ameni(cid:415)es and crea(cid:415)ng new opportuni(cid:415)es. An area where
+
+Technopark needs to focus is development of non-SEZ commercial and residen(cid:415)al buildings5.
+
+7

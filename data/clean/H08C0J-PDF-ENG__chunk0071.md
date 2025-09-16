@@ -1,19 +1,17 @@
-## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d48effae25a4cb832f909feb38966394c232931
+title: H08C0J-PDF-ENG
+---
+## Europe’s Corporate Sustainability Reporting Directive (CSRD). Eﬀective
 
-value-chain requirements that reﬂect employee health and well-being.
+this year, with ﬁrst reports due in 2025, CSRD requires companies
 
-This provides additional impetus for any company (especially those
+to disclose extensive data on their sustainability practices, including
 
-with a global footprint) to quickly get ahead of forthcoming regulation.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-. . .
+12
 
-Tackling climate change and safeguarding employee health is a major
-
-opportunity for today’s corporate leaders. These actions not only beneﬁt
-
-individual employees but also ease the strain on public health systems
-
-and contribute directly to a stronger corporate bottom line. This
-
-“triple win” — for employees, the public sector, and businesses — is
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

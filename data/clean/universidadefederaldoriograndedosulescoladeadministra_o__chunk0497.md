@@ -1,5 +1,23 @@
-## resultados consolidados para o seu time a cada ciclo trimestral de pesquisa?"
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: af29b493cf659945591b1d288c7db88953025f65
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Após, adentramos uma seção de perguntas a respeito dos resultados e sua
 
-Sendo 1 = Discordo totalmente e 5 = Concordo totalmente
+utilização. Na primeira delas, os líderes foram questionados a respeito do
 
-Fonte: respostas do questionário aplicado aos funcionários
+compartilhamento dos resultados com o time. Como é possível de se observar pela
+
+figura 15, apenas um deles (16,7%) discorda veemente de que costume reservar um
+
+tempo para fazer isso com sua equipe depois de um ciclo de pesquisa; e um
+
+(16,7%) manteve-se neutro, tendo a maioria confirmado, com respostas positivas,
+
+sua adesão a essa prática.
+
+58
+
+Figura 15: Respostas à pergunta "Você costuma reservar um tempo para apresentar os

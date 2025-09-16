@@ -1,17 +1,25 @@
-# within their organizations.
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea0a967b7e844d4f1250e3e7709474f7d49b48eb
+title: H07TV8-PDF-ENG
+---
+# HBR / Digital Article / Businesses Need to Bring Younger Employees into Their Leaders…
 
-As societies around the world continue to age, there are calls for
+Organizations are being hampered on both fronts by their leadership
 
-ﬁrms to increase the age diversity in their workforces and improve
+structures, as those with the most power to drive change may not be
 
-the inclusion of older, more experienced workers. While supporting
+the most eager to do so — and vice versa. A seasoned leader may
 
-this aim, we argue that age diversity also needs to be enhanced
+favor short-term results over long-term beneﬁts that won’t manifest
 
-in a diﬀerent way: Aging leadership structures need to involve less
+during their tenure. Moreover, they may be reluctant to challenge the
 
-experienced talent in order to rebalance the tensions of experience vs. curiosity and of eﬃcient execution vs. bold exploration. Striving
+mental models or organizational structures that have underpinned
 
-towards intergenerational leadership can accelerate companies’ eﬀorts
+their success. Conversely, younger professionals may be more open to
 
-to build a sustainable future—and unlock competitive advantages at the
+pursuing new paths leading to long-term payoﬀs, given their longer
+
+career horizons. Yet, they are usually not in the position to eﬀect change

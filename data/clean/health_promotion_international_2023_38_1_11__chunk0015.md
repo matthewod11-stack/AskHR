@@ -1,11 +1,23 @@
-# 6
+---
+source_path: health_promotion_international_2023_38_1_11.md
+pages: n/a-n/a
+chunk_id: 71082a93cd5e6a1e403354e1f9e0c37db944a460
+title: health_promotion_international_2023_38_1_11
+---
+# 5
 
-health at work in a broader sense. In the production hall, we observed the vital role that colleagues played in signalling one another’s condition at a particu- lar moment, such as feeling stressed or anxious. An employee pointed out that he and the colleagues who sat next to him were able to read one another’s emo- tions and signal when they had to give one another some peace and quiet—something they all valued highly (field notes). We witnessed several times how the employees explained a colleague’s silence, frustration or absence to us, offered advice on how to approach a colleague, or warned us not to talk to a colleague: ‘Let her be; just leave her alone today’ (field notes).
+(cid:68) (cid:111) (cid:119) (cid:110) (cid:111) (cid:97) (cid:100) (cid:101) (cid:100) (cid:32) (cid:102) (cid:114) (cid:111) (cid:109) (cid:32) (cid:104) (cid:116) (cid:116) (cid:112) (cid:115) (cid:58) (cid:47) (cid:47) (cid:97) (cid:99) (cid:97) (cid:100) (cid:101) (cid:109) (cid:99) (cid:46) (cid:111) (cid:117) (cid:112) (cid:46) (cid:99) (cid:111) (cid:109) (cid:47) (cid:104) (cid:101) (cid:97) (cid:112) (cid:114) (cid:111) (cid:47) (cid:97) (cid:114) (cid:116) (cid:105) (cid:99) (cid:101) (cid:47) (cid:51) (cid:56) (cid:47) (cid:51) (cid:47) (cid:100) (cid:97) (cid:97) (cid:100) (cid:48) (cid:54) (cid:49) (cid:47) (cid:55) (cid:49) (cid:57) (cid:57) (cid:52) (cid:55) (cid:54) (cid:32) (cid:98) (cid:121) (cid:32) (cid:103) (cid:117) (cid:101) (cid:115) (cid:116) (cid:32)
 
-During a training session for supervisors to signal stress in the work force, the trainers asked a supervisor to reflect on the aspects that boosted his own energy at work. In his speech, he summarized the main aspects:
+(cid:108)
 
-the value of good collaboration with the team, a nice atmosphere with employees and colleagues, belonging, achieving results with a small work force, supporting employees in their personal devel- opment, freedom to make your work schedule, rec- ognition (supervisor’s speech).
+(cid:105)
 
-The supervisor shared with the group that this did not mean that his batteries were always charged; there were moments that drained his energy, too. Nonetheless, he pointed out: ‘employees and col- leagues are important to discuss irritations then as well, to have coffee and to buckle down and start over’ (supervisor’s speech). According to him, col- leagues should cope with aspects that drain energy together, so they could keep their batteries charged. This speech illustrates the role that colleagues play in workplace health by creating a safe atmosphere where employees can be vulnerable toward each other and consider one another’s situations, thereby reducing of preventing stress or other health risks. We have observed this not only among production employees, but also among employees working at higher levels of the social workplace.
+(cid:108)
 
-In both companies we observed that, at all levels of both companies, employees perceive workplace health as something you aim for together. It is a social practice that requires continuous maintenance, such as taking over tasks when a colleague is unable to perform them, signal- ling one another’s condition, feeling to be understood by colleagues and supervisors, and the satisfaction in pulling off a task together and reaching a goal. This maintenance work fosters a sense of belonging to (parts of) a company or a group of colleagues that produce buffers against physical/psychological risk factors at work. The physical/ psychological dimension of belonging thus seems to have a positive influence on workplace health.
+(cid:111) (cid:110) (cid:48) (cid:57) (cid:83) (cid:101) (cid:112) (cid:101) (cid:109) (cid:98) (cid:101) (cid:114) (cid:32) (cid:50) (cid:48) (cid:50) (cid:53)
+
+(cid:32)
+
+(cid:32)
+
+(cid:116)

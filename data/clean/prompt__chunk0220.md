@@ -1,9 +1,21 @@
-# somewhat intuitive.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 0d56a61da7532bd02b5d441d89c18661cc3017e4
+title: prompt
+---
+# chain of thought.
 
-The LLM response includes the chain of thought reasoning, which means more output
+CoT has a lot of advantages. First of all, it’s low-e(cid:441)o(cid:457) while being very e(cid:441)ective and works
 
-tokens, which means predictions cost more money and take longer.
+well with o(cid:441)-the-shelf LLMs (so no need to (cid:450)netune). You also get interpretability with CoT
 
-To explain the following example in Table 11, let’s (cid:450)rst try to create a prompt that is not using
+prompting, as you can learn from the LLM’s responses and see the reasoning steps that were
 
-CoT prompting to showcase the (cid:453)aws of a large language model.
+followed. If there’s a malfunction, you will be able to identify it. Chain of thought appears
+
+to improve robustness when moving between di(cid:441)erent LLM versions. Which means the
+
+pe(cid:455)ormance of your prompt should dri(cid:454) less between di(cid:441)erent LLMs than if your prompt
+
+does not use reasoning chains. Of course there are also disadvantages, but they are

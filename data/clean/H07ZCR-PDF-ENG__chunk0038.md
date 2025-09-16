@@ -1,11 +1,13 @@
-## As Frances Frei and Anne Morriss, coauthors of Move Fast and Fix
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eefcc40e4363e29ebe59aa17f7f3693e755a2c1d
+title: H07ZCR-PDF-ENG
+---
+# HBR / Digital Article / Becoming More Collaborative When Your Impulse Is to Be Territo…
 
-Things and Unleashed propose, there are three pillars of trust. They
+of trust has likely developed, and it’s critical to rebuild that trust with
 
-write, “People tend to trust you when they believe they are interacting
+your colleagues. You may observe symptoms such as coworkers lacking
 
-with the real you (authenticity), when they have faith in your judgment
-
-and competence (logic), and when they feel that you care about them
-
-(empathy). When trust is lost, it can almost always be traced back to a
+initiative or struggling to make decisions or engage in healthy debates.

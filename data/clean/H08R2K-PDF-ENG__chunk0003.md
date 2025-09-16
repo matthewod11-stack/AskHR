@@ -1,11 +1,11 @@
-## stress management workshops—rather than as a systemic, business-
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e2a13a773fa37497c1b6d5efb329cbfc68a7b67
+title: H08R2K-PDF-ENG
+---
+# master1305/Getty Images
 
-critical risk that warrants executive oversight. The consequences of this
+For decades, workplace stress was viewed primarily as an individual
 
-outdated perspective persist today—not due to a lack of awareness, but
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+concern to be managed by HR—often through wellness programs or

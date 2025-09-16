@@ -1,13 +1,17 @@
-## Relaxation techniques, 581 Reliability, 204–209
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 170e726e102e9f1ac4f374e258fe7783fd9d80a9
+title: industrial_organizational_psychology_an_applied_approach
+---
+# recommendation, 159
 
-alternate forms, 205–207 internal, 207–208 reliability of tests 209 scorer, 208 test-retest, 204–205
+definitions, 158 ethical issues, 167–169 legal issues, 160–161,
 
-Religion, 84 Religious attire, 86 Reluctant changers, 519 Rene v. MGM Grand Hotel, 96
+163–164
 
-Rent-a-Center, 80 Repetitive-stress injuries,
+leniency issues, 161–165 reliability, 166–167 resume fraud, 158–159 validity, 161 Reference check, 158 Reference detectives, 164 Reference, 158 Referent power, 458 Referral service, 584 Reinforcement hierarchy,
 
-595 Research, 12–29
+346
 
-ideas, hypotheses, and theories, 14–16 literature reviews, 16–19 location of studies,
-
-19–20
+Rejecting applicants, 197–198

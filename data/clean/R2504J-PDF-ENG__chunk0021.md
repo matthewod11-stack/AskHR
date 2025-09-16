@@ -1,17 +1,9 @@
-## concrete customer beneﬁts and ways of operating. Aﬀordability meant
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9a1ff96991a7fb49693778fafddb84cb7fe6fb7
+title: R2504J-PDF-ENG
+---
+## simplicity, accessibility, and personal service.
 
-charging fees low enough to tempt people to switch from cash to
-
-banking: Capitec’s fees were half its competitors’. To be able to oﬀer
-
-them and still make a proﬁt, Capitec had to keep its costs down. (The
-
-bank broke even the year after launching.) To do that, it needed to
-
-have scale, and to achieve scale it kept its oﬀering and operations
-
-very simple (the second subconcept). For example, it oﬀered just one
-
-type of account, which could be used only for saving, borrowing, and
-
-making cashless transactions. The founders believed that the simple oﬀering suﬃced for low-income customers, who would beneﬁt little
+These were not hollow, abstract terms but would be translated into

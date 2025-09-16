@@ -1,13 +1,27 @@
-# on the oﬃce).
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1acce0349eafd52a7a0f5a6b7d85372c4ce5216e
+title: H089HZ-PDF-ENG
+---
+# HBR / Digital Article / Leaders Need to Reframe the Return-to-Office Conversation
 
-This article was originally published online on June 10, 2024.
+. . .
 
-Mark Mortensen is a professor of organizational behavior at INSEAD and for over 20 years has studied and consulted on collaboration and organization design, with a focus on hybrid, virtual, and globally distributed work. Mark publishes regularly in Harvard Business Review, MIT Sloan Management Review, and INSEAD Knowledge, and is a regular ﬁxture in popular press outlets like the BBC, the Economist, the Financial Times, and Fortune.
+The leadership side of the RTO discussion has been dominated by sticks
 
-Amy C. Edmondson is the Novartis Professor of Leadership and Management at Harvard Business School. Her latest book is Right Kind of Wrong: The Science of Failing Well (Atria Books, 2023).
+rather than carrots — as in, employees need to get back into the oﬃce
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+or else — with punishments for noncompliance ranging from reduced
 
-6
+pay to ﬁring.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Leaders must stop trying to push employees into the oﬃce against their
+
+will and focus instead on making the oﬃce an energizing environment
+
+where employees want to be. Take a framing lesson from the social
+
+media playbook, in which FOMO (fear of missing out) has proven to be a
+
+massive driver of behavior and try to create FOMOO (fear of missing out

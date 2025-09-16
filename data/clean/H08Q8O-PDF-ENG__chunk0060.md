@@ -1,23 +1,15 @@
-## an arrangement with their line manager and their team members.
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae3fe08b847f804d533acfd28a2cd73f8c5a32b3
+title: H08Q8O-PDF-ENG
+---
+# Transparent principles.
 
-Post-pandemic, however, many organizations decided to adopt policies,
+A lack of trust and growing resistance to control are why the
 
-rigidifying practices that used to be contextual and trust-based, with
+psychological contract has been broken. Many of the people we talked
 
-little room for line managers to interpret them.
+to mentioned that there was more ﬂexibility in terms of working from
 
-But once you replace trust with rules, people’s attitudes to their work
-
-can change. We met one middle manager in a food and beverage
-
-company who told us that when her company formally allowed her
-
-to work two days from home, which she had been doing with the
-
-agreement of her bosses, she started coming into the oﬃce more often.
-
-As she explained, “When I’m at the oﬃce, I don’t need to leave a sign
-
-on my desk to say I’m going to the bathroom.” The formalization of the
-
-arrangement had paradoxically made her feel less comfortable working
+home pre-Covid, simply because there were no policies and it was

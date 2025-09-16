@@ -1,3 +1,11 @@
-# Cooperation and Competitive Demands
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a9c7c30a9a24e707ea5d1bf2fc6e26edec6ffabc
+title: barrickryan_eds_personality_and_work
+---
+## How Do Situational Demands Affect the Personality-Performance Link?
 
-Research illustrates that although several dimensions of work de- sign have been identiﬁed, an important component of many, if not all, theories of work design relates to how individuals contribute to the organization through social inputs. For example, a funda- mental design feature of structural contingency theory recognizes the importance of interdependence among people in the organi- zation, particularly the vertical (the authority system) and lateral
+An undergraduate student noted, “I am extraverted with my friends but introverted when in a large lecture classroom.” This statement, embodied by interactionists, indicates that a personal- ity trait will be a signiﬁcant predictor of behavior only in situations that are relevant to its expression and not so constrained as to dis- allow individual differences (Endler & Magnusson, 1976). To argue that situations do not matter implies that people will show power- ful cross-situational consistency of responses. Yet to respond in ex- actly the same way across time and diverse situations would be maladaptive and is likely to result in many dysfunctional behaviors. Consequently, most researchers today recognize that to predict be- havior with personality requires one to account for the situation (Kenrick & Funder, 1988). We believe personality will have its greatest effect on behavior when the situation is relevant to the trait’s expression and is weak enough to allow the person to choose how to behave in that situation (Stewart & Barrick, in press).
+
+Although work psychologists have examined how aspects of the immediate work situation affect variance in performance (the job analytic literature), no taxonomy has been developed that incor- porates both situational and trait effects (Murtha et al., 1996) on motivational mediators. This unfortunate circumstance has long been recognized (Peters & O’Connor, 1980). Although there are many dimensions across which the work environment can be mean- ingfully categorized, here we focus on one broad aspect of situa- tions: the social setting.

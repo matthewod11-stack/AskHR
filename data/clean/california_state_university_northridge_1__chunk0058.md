@@ -1,39 +1,31 @@
-# disciplinary action and or possible examples of what constitute appropriate and inapproiate
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 072d1a09a6c0f77647d1823af4f8e40c8f7a6ca9
+title: california_state_university_northridge_1
+---
+## What the Literature Says About Wrongful Termination
 
-behavior. He goes on further to suggest that the employee's expectations and any type of
+In an article written by Charles E. Ramirez, titled "Employee Handbooks are Essential
 
-questions and answers would be contained here.
+at the Workplace" focuses on the importance and benefits of a handbook. Mr. Ramirez begins
 
-Another area mention in this article is protection from lawsuits for both the employer
+stating that employee handbooks are not read by most employees and new hires in particular.
 
-and employee. A key issue mentioned are employers who do not adhere to the guidelines
+He also points out that this is the place where the new employee can obtain a sense of the
 
-stated with the handbook. In a sense, he is writing that organizations that do not comply with
+organizational culture. By determining the organizational culture, the employee is able to
 
-the stated material can possible find an employee using the verbiage in the handbook against
+identify what is deemed to be important and gain a sense of the value system. If a new
 
-them as evidence for any legal action. On the other haiid, a handbook may also work against
+employee is able to obtain an idea of the culture then he or she will be able to navigate
 
-the employee for not having k.nowledge of the contents. This portion of the article is
+through different challenges they may be faced with.
 
-9
+Also, Ramirez mentions some basic things that are contained in the handbook. The
 
-supported by David Deromedi, an employment law attorney for the law firm of Dickinson,
+basics that can be found in a handbook are, dress code, rules and regulations, attendance and
 
-Wright, Moon, Van Duesen & Freeman. Mr. Ramirez refers to labor relation experts who
+equal employment policies. Aside from the background about an organization, the basics that
 
-argue that employee manuals are binding contracts between employers and their employees.
-
-From this, it can be concluded that those who view handbooks as binding are less likely to
-
-have them in a business where they are employed.
-
-At the end Mr. Ramirez article indicates from various lawyers, since the workplace is
-
-constantly changing, all that is needed are the basics and what the company entitles to the
-
-employees. Meaning if an organization wants a broad base handbook it should be tailored
-
-around that organization's culture. This article is ended by some basic things that should be
-
-included in every manuai a distinction between part time and full time employees,
+were listed are the main rea.~on for writing a handbook. There were no remark.s regardirlg

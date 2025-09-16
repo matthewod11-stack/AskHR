@@ -1,35 +1,13 @@
-## HBR / Magazine Article / How Salespeople Game the System
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d994e0bb3ab7117b00fd18c44d3d510e67490a2
+title: R2502J-PDF-ENG
+---
+# disciplinary action.
 
-Consider a ﬁnancial institution where branch bankers were covertly
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-counseling customers to open credit-card accounts but not use them
+10
 
-(retaining the new card for emergency use only), allowing the bankers
-
-to earn commissions. In response, incentive plans were modiﬁed
-
-to require that customers use the cards before the bankers earned
-
-commissions. This change meant that bankers did not immediately
-
-receive their incentive credit for newly opened accounts and required
-
-the ongoing collection of data to determine when cards were used for
-
-purchases, balance transfers, and cash advances. However, those were
-
-trade-oﬀs that the bank deemed appropriate, given that only credit
-
-cards that are in active use generate revenue.
-
-Establish ongoing monitoring of sales processes. Sales management
-
-systems must be updated to spot and reject cheating. Examples
-
-include systems that identify credit cards without any activity or
-
-new card applications taken in combination with baggage fee waivers.
-
-Additionally, reporting and dashboards should be created to give
-
-visibility to questionable transactions. For example, a bank might
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

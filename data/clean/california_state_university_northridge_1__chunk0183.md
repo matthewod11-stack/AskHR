@@ -1,43 +1,91 @@
-# ("EEOC Compliance Manual" 1998).
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 089802e29bb9d6fe1832e6465142bddac2021e7f
+title: california_state_university_northridge_1
+---
+## such a request might not literally "oppose" discrimination or "participate" in
 
-Each organization may have a different internal mechanism in place to address
+the administrative or judicial complaint process, s/he is protected against
 
-employment related issues. The mechanisms are designed to assist the employee to rectify
+retaliation for making the request" ("EEOC Compliance Manual" 1998).
 
-inappropriate behavior deemed by the company or work through the complexities of an
+1.3. Charging party who is female is interested in a position with the
 
-issue to assure fundamental fairness. Some companies may have a dispute resolution
+accounting department which requires a CPA license, which she does not
 
-program in place; whether voluntary or mandatory. Again, some employees may not feel
+have, yet her competition who is male, has a license. Charging party informs
 
-comfortable using internal avenues, which the author highly suggests for any person.
+her supervisor that she was discriminated against because of her gender.
 
-Also, some employers, according to the size of a company, may not have any outlets for
+Charging party new it was essential to have a CPA to perform the job. In
 
-the employee. Communication between the parties involved is vital, in an effort to prevent
+this situation charging party did not engage in protected opposition and
 
-escalated work issues that may result in termination. The communication climate may
+there was no good faith and no reason to believe she was rejected because of
 
-prevent such dialogue to take place, or if the employee has been discharged, then other
+her gender ("EEOC Compliance Manual" 1998). I would like to add the
 
-avenues do exist. A person has the option to file a complaint with the EEOC, take legal
+CPA can be classified as a bona fide occupation qualification, and based on
 
-action, utilize the internal mechanisms in place, or do nothing.
+this perspective, charging party does have a case.
 
-In summation, an employee can utilize the internal mechanism within their
+1.4. "Charging party filed a charge alleging that he was racially harassed by
 
-organization to resolve employment issues. Employees of the Student Union can utilize
+his supervisor and co-worker. After learning about the charge, CP's
 
-the Grievance Procedures. At Host Marriott, the employees can seek the assistance of
+manager asked two employees to keep CP under surveillance and report back
 
-their union representative, since they are bound by a union contract. A union
+about his activities. The surveillance constitutes an ''adverse action" that is
 
-representative can look at the facts and determine the merits of management's actions.
+likely to deter protected activity, and is unlawful if it was conducted because
 
-Employees at The Prndential Insuran.ce Compar,y of America can utilize Roads to
+64
 
-Resolution. These three organizations have designed an internal mechanism that seeks to
+1.5. A female who files a charge claiming she was denied a position as a result of
 
-66
+her gender. At lunchtime a few weeks later, her supervisor invites some
 
-be fair and allow the employee to work through the problem and eventually reach a
+employees to lunch with the exception of her. Charging party believes that
+
+she was excluded based on her filing an EEOC charge. If the supervisor in
+
+question decides not invited charging party based of the charge filed this
+
+does meet the criteria for retaliation because there is no reasonable action
+
+likely to deter protected activity.
+
+1.6.
+
+Charging party files a charge against respondent A, alleging that her
+
+supervisor sexually harassed her and discharged her. The respondent was
+
+sued by charging party and a settlement was reached. Afterwards, in
+
+applying for a new position with respondent B, she received an offer that
+
+based on reference check. Respondent B called Respondent A. The former
+
+supervi_sor states that the ch::irging p::irty was a troublerrmlcer that -filed a sexual
+
+harassment lawsuit. Based off this reference B did not hire the
+
+employee in question. However, foul play was suspected based on her
+
+former supervisors reference. She then files a retaliation charge against A
+
+and B. During the EEOC investigation evidence is found by means of
+
+memos and phone conversation between A and B. The notes obtained
+
+clearly prove that A told B about protected activity and that a negative
+
+reference was given based on protected activity. B gave a conditional job
+
+offer pending a reference check and later pulled the offer after learning about
+
+65
+
+protected activity is strong circumstantial evidence ofB's retaliation

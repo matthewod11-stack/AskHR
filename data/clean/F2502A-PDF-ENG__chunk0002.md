@@ -1,9 +1,7 @@
-# Michał Bednarski
-
-Generative AI is changing how we work. Tools like ChatGPT and Copilot
-
-help people write everything from emails to blog posts to plans for
-
-internal analyses 40% faster than they used to, according to a 2023
-
-MIT study. The new technologies are transforming technical jobs in
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f9c2cf93d2155389a0ccd2b054d487cef8700d78
+title: F2502A-PDF-ENG
+---
+## From the Magazine (March–April 2025) / Reprint F2502A

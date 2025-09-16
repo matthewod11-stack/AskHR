@@ -1,7 +1,13 @@
-# psychologists. Washington, DC: Author.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 12e19b6b177bb4b78804d401b4b37833e3db69a5
+title: untitled
+---
+# REFERENCES
 
-American Psychological Association. (1954). Technical recom- mendations of psychological tests and diagnostic techniques. Washington, DC: Author.
+Aiman-Smith, L., & Koppes, L. L. (Chairs). (2000, April). Fac- tors of change: Reﬂections and predictions from past presi- dents. Invited symposium at the 15th annual conference of the Society for Industrial and Organizational Psychology, New Orleans, LA.
 
-American With Disabilities Act of 1990, 42 U.S.C.A. 12101 et seq.
+American Educational Research Association, American Psycholog- ical Association, & National Council on Measurement in Educa- tion. (1999). Standards for educational and psychological testing. Washington, DC: American Educational Research Association.
 
-Angell, J. R. (1907). The province of functional psychology.
+American Psychological Association. (1953). Ethical principles of

@@ -1,9 +1,9 @@
-## Implications of the Successful versus Effective Real Managers Findings
+---
+source_path: successful_vs_effective_real_managers.md
+pages: n/a-n/a
+chunk_id: 0b42856e86ba19fd4deedcbd4de43a1f60e994a3
+title: successful_vs_effective_real_managers
+---
+# Successful vs Effective Real Managers
 
-If, as our study indicates, there 1s indeed a difference between successful and effective real managers, what does it mean and what should we do about it? First of all,we need to
-
-strong relationship to effectiveness (second only to com- munication activity), but had the weakest relative relation- ship to success. In other words, the successful real managers do not do the same activities as the effective real managers (in fact, they do almost the opposite) These contrasting proftles may have significant implications for understanding the current performance problems facing American organt- zations. However, before we look at these implications and suggest some solutions, let's take a look at those real manag-
-
-pay more attention to formal reward systems to ensure that effective managers are promoted Second, we must learn how effective managers do their day-to-day jobs.
-
-The traditional assumption holds that promotions are based on performance This is what the formal personnel policies say, this is what new management trainees are told and this ts what every management textbook states should happen. On the other hand, more “hardened” (or perhaps
+Equally important, however, was the finding that the least relative contribution to real managers’ effectiveness came from the networking activity This, of course, is in stark contrast to our results of the successful real manager analysis. Networking activity had by far the strongest relative relation- ship to success, but the weakest with effectiveness. On the other hand, human resource management activity had a

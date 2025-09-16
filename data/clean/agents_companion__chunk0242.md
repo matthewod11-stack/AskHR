@@ -1,15 +1,17 @@
-# Conversational Media Search Agent
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 50bafaa16491f1cfed72536d81efbbaa37f5d07b
+title: agents_companion
+---
+# it from the motorway?"
 
-The Conversational Media Search Agent is specialized in helping users find and play music,
+Navigation Agent: "Gasthaus Alte Mühle has a dedicated parking area with about 40
 
-audiobooks, and podcasts. This agent retrieves media from local databases or streaming
+spaces. It's only 1.2 kilometers from the A9 exit at Ingolstadt-Nord - about a 2-minute drive.
 
-services, uses web search for additional content when necessary, suggests media based on
+They're known for their Schweinebraten and homemade dumplings. It gets busy around
 
-contextual factors like mood, weather, and time of day, and handles voice commands such
+noon, but it's currently showing moderate occupancy. Would you like me to set this as your
 
-as "Play a relaxing playlist for my drive." It also identifies similar artists or content when users
-
-ask questions like "Who sounds like John Coltrane?"
-
-55
+destination and guide you there? You'll arrive around 12:15 if we head there now."

@@ -1,39 +1,27 @@
-# and appropriate work.
+---
+source_path: H02I98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e62b78f0b1b5e9d1cfb1abbe595bf3950a148384
+title: H02I98-PDF-ENG
+---
+## HBR / Digital Article / Need a Good Parental Leave Policy? Here It Is.
 
-This is important: women returning from parental leave persistently report diﬃculties getting enough work, or enough good work.
+In FMLA-bound companies (which is all large ones), employers can’t
 
-Colleagues’ reluctance to give them work may be benevolent (“With the
+require an employee on FMLA leave to work during his or her three
 
-baby, I knew it wasn’t a good time for her”) or hostile (“I need someone
+months of protected leave. So it’s safest to wait until an employee
 
-whose ﬁrst priority is work, not home.”) This is gender stereotyping, and
+returns to work to develop a plan for on-ramping. During the leave,
 
-represents a legal risk if left unchecked.
+the supervisor or HR should be in touch so the company knows when
 
-- 3. Design a gradual return-to-work.
+the leave-taker plans on returning to work. This will enable the leave-
 
-While some mothers get too little work when they return from
+taker’s supervisor to develop an on-ramping plan. On the ﬁrst day after
 
-leave, others get too much. Setting a still-nursing mother against an
+the leave-taker returns, his or her supervisor should hold a meeting to
 
-insurmountable wall of work is a sure path to attrition. Best practice
+discuss the plan, which should include check-ins during the ramp-up
 
-is a gradual return-to-work policy: for example, providing all returning
-
-leave-takers with a 50% schedule that gradually builds back to full time
-
-(deﬁned by their target schedule.) Absent a formal policy, companies
-
-typically ﬁnd that some departments have little trouble with returning
-
-leave-takers while others with less supportive supervisors face high
-
-attrition. The gradual return-to-work policy means that inﬂexible
-
-supervisors do less damage.
-
-Copyright © 2015 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+period to ensure that the returning employee is getting enough work,

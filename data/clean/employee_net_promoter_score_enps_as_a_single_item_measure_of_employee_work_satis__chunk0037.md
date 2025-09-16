@@ -1,5 +1,15 @@
-## Employee Net Promoter Score (eNPS) as a Single-item Measure of Employee…
+---
+source_path: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis.md
+pages: n/a-n/a
+chunk_id: 1356bc72ed4b0b46bd1d5fb0d44328e22b5bf62d
+title: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis
+---
+# eNPS
 
-355
+0.55
 
-ment is also considered an attitude33 but puts more emphasis on behavioural. In the surveys used in this text, there was no possibility to extract engagement compo- nents in order to have a chance of establishing if the eNPS predicts work engage- ment better than work satisfaction.
+0.60 0.63
+
+–0.62
+
+1.0

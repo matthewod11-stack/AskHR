@@ -1,5 +1,11 @@
-# [but]
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: e908b55b18442336c061993aaf647f9bd83752fe
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# importance (Huber, Neale, &
 
-We will argue that OB has much to gain from a more widespread accep- tance of [behavioral decision research] approaches—increasedinﬂuence, schol- arly stature, paradigm strength, and prac- tical relevance. (Moore & Flynn, 2008, p. 402)
+I have argued throughout [this chapter] to I/O that psychology, I also believe that I/O psychology has much to offer JDM. (Highhouse, 2001, p. 326)
 
-In this article, in an attempt to persuade the reader of the beneﬁts of additional cross- fertilization, we follow a slightly uncon- ventional approach. First, we summarize IOOB-relevant research from the ﬁeld of JDM (including its implications for improv- ing managerial decision making). This sets the stage for a discussion among mem- bers of that select group of researchers who have one foot in the IOOB world and the other in the JDM world. The discussion focuses on (a) the differences between JDM and IOOB in terms of philosophical per- spectives and research methods (including the obstacles to and opportunities associ- ated with cross-fertilization); (b) examples of ways in which IOOB researchers have successfully applied theories, methods, and ﬁndings from JDM; (c) examples of ways in which IOOB researchers could fruitfully apply theories, methods, and ﬁndings from JDM in the future; and (d) concrete recom- mendations for increasing cross-fertilization from JDM to IOOB (and vice versa). We end with a series of questions to spark further conversation on these issues in the IOOB community.
+JDM has much to offer

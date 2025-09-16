@@ -1,9 +1,9 @@
-# New York: Harper Business.
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: f539955b45351fb6ae0e592f268115f26b4107c5
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Thousand Oaks, CA: Sage.
 
-Miller, D. (1994). What happens after success: the perils of excellence. Journal of Management
-
-Studies, 31(3), 325–358.
-
-Mmieh, F., Mordi, C., Singh, S., & Asiedu-Appiah, F. (2011). Performance management in public sector enterprises: A case analysis of employees’ perceptions in the Electricity Company of Ghana (ECG). Journal of African Business, 12(3), 419-438.
-
-Moja, T. (2000). Nigeria education sector analysis: An analytical synthesis of performance and main
+Miller, D. (1990). The Icarus paradox: How exceptional companies bring about their own downfall.

@@ -1,23 +1,21 @@
-## HBR / Digital Article / The Most Effective Negotiation Tactic, According to AI
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 625ffa3385067389569e6e09593872a938fb3783
+title: H08DXZ-PDF-ENG
+---
+## Leveraging AI to Understand Micro Behaviors in Negotiation
 
-Among the factors we considered — such as who made the ﬁrst oﬀer,
+Our team developed algorithms to analyze hundreds of hours
 
-how much a negotiator smiled, their speaking speed, interruptions,
+of negotiation recordings from MBAs and executives worldwide.
 
-pronoun usage, and whether they acted tough, polite, or warm — the
+We meticulously examined communication behaviors down to the
 
-biggest predictor of personal success was the number of open-ended
+millisecond to uncover what leads to success at the bargaining table.
 
-questions they asked. Remarkably, there seemed to be no upper limit to
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-the beneﬁts of asking more questions. The more open-ended questions
+2
 
-asked, the higher the gains. Even more striking, most negotiators did
-
-not ask enough questions: Fewer than one in 10 conversational turns
-
-contained an open-ended question — a costly strategic error.
-
-Digging into the question advantage, we found that open-ended
-
-questions prompt responses that are roughly twice as long — and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

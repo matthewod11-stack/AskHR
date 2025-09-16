@@ -1,15 +1,13 @@
-# the foundation for long-term success.
+---
+source_path: H07P87-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a18c16f8f30da1b3b0a9968de5503e34fde16d2a
+title: H07P87-PDF-ENG
+---
+## HBR / Digital Article / Start Your New Leadership Role with the End in Mind
 
-The starting point is to engage in what Dan Ciampa, the noted executive
+envisioning what you want to accomplish in the new role so you will be
 
-coach, deﬁned as “era planning.” Your era is the anticipated duration of
+ready to move beyond it and then working backward to map out how
 
-time you think you will be in the new position. Of course, you may end
-
-up staying longer or leaving earlier, but try to make a rough guess about
-
-when you will have accomplished enough to be “done.” You’ll want to
-
-ask yourself two key questions: “As I wrap up this job, what will be true?”
-
-and “What will be possible?”
+you will get there. In so doing, you can shape your early actions to lay

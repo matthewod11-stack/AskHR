@@ -1,3 +1,11 @@
-# An Overview 5
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: eb6f420ca86aa91b2bfe8b7e5fe537630d2fd607
+title: document_resume
+---
+# It
 
-The major concern with Lsing performance appraisal results m compensation pro- gram decisions is s hether or not the s) stein aLtuall) measuies employee contributions. Most of the dissatisfaction w ith merit pa) Lau be na.ed direLti) to s) stems that produce highly subjective and frequent!) meaningless rating~. SuLh ratings has e little to do with how well people fulfill their obligations to the organization.
+There are authorities in the field w ho feel that Compensation decisions should not be linked to performance appraisal. The contention is that during the performance appraisal conference, the individual is most LonLerned with the amount of the raise and not with such important matters as productiv it) improvement and professional devel- opment. Therefore, an employee is likely to conLenti ate Oil how the mating will translate into dollars and to ignore all else.
+
+While this issue cannot be resolved completely, it seems reasonable that if an orga- nization is willing to invest the time and resourLes needL.I to develop a job-related performance appraisal system, the results should be used in the compensation program. The argument that if individuals know their pay fracases are related to performance ratings, the other purposes of performance appraisal somehow \sill be minimized can be stated conversely. The person may feel that if ratings have no influence on salary, then the organization is not serious about performance appraisal.

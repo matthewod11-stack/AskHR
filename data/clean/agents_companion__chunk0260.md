@@ -1,7 +1,9 @@
-## Orchestrator Agent: [internally routes to Navigation Agent]
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: a14de06e1d91b09f730a0e51e6d740afb832edc7
+title: agents_companion
+---
+# First Turn:
 
-Navigation Agent: "There's a service area 20 kilometers ahead on the E19. It's Aire
-
-de Waremme, which was renovated last year and has good ratings for facilities and
-
-cleanliness. It also has a Paul bakery and a quick-service restaurant."
+User: "Is there a service area ahead with clean toilets?"

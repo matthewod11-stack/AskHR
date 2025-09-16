@@ -1,13 +1,7 @@
-# 7.2.6.2 Misattribution of Cause
-
-Social psychologists studying “attribution theory” have found that a typical mis-
-
-take in attributing cause is to credit and blame individuals more than is deserved,
-
-compared to blaming and crediting situational variables.” In model terms, this
-
-Interestingly, recent studies by Nisbett (2004) suggest that the “fundamental error” of overattributing
-
-cause to people, rather than situations, is distinctly Western and is reversed in Asian cultures. Applied to
-
-245
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: a196c23c82f89cef889eaad510bd848b317c2d2d
+title: beo_chap7_1
+---
+# managed firms.

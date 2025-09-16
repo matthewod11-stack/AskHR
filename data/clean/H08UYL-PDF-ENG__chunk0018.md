@@ -1,15 +1,53 @@
-## HBR / Digital Article / The Best Leaders Edit What They Say Before They Say It
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7812e44254f5a2800cd5d434f047de058e0f39d0
+title: H08UYL-PDF-ENG
+---
+## How to Hone the Skill of Strategic Editing
 
-- 2. Clarify your audience and outcome.
+Strategic editing is the skill of adjusting your communication to match
 
-What do you want your audience to think, feel, and do after hearing
+your role. It’s not about withholding information; it’s about choosing
 
-you? Make it a practice to ask yourself three simple questions before
+what’s most essential to say, how to say it, and when it’d be more eﬀective to say nothing at all. Here’s how:
 
-communicating widely:
+- 1. Recognize that everything you say (or don’t say) carries weight.
 
-- Who is my audience?
+Executive communication is always ampliﬁed. A passing comment can
 
-- What do they care about right now?
+redirect strategy. A sigh in a meeting can spark anxiety. That’s why
 
-- What do I want them to be thinking/feeling/doing as result of my
+being intentional about what you communicate and how you deliver it
+
+is critical for creating the impact you intend.
+
+Practice being explicit about what you’re communicating and what you
+
+do and don’t know:
+
+- “I’m just thinking out loud right now…”
+
+- “I have feedback from the board that I want to share and discuss. We’re
+
+not going to make a decision today; I want to explore the issue with
+
+you ﬁrst.”
+
+- “I’ve had some ideas on ways to adjust our strategy that I’d like
+
+to discuss with you. To be clear, I’m not saying this is a new
+
+direction. Today I just want us to consider where we are, the shifting
+
+environment, and what might make sense going forward.”
+
+- “We had a tough quarter, and we may need to shift our go-to-market
+
+strategy. I don’t know if that’s true yet, but I want to discuss it.”
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

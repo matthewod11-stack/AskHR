@@ -1,19 +1,11 @@
-## order salads at one of its brick-and-mortar locations.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1b8296d69759bfbd4b3862c8bfa0b533f70254a
+title: R2406G-PDF-ENG
+---
+## share of sales through digital channels (around 60% in 2023) but also
 
-Reach me. Having the data to know the customer is not enough.
+in terms of engagement: Customers who use its digital channels order
 
-Leaders use AI to identify triggers to reach out, such as when a
-
-customer browses online or makes an inquiry. Moreover, they invest
-
-in orchestrating touches across channels and use smart frequency
-
-management to ensure that their touches are coordinated, not
-
-overwhelming. To assess an organization’s maturity in this area, we
-
-examine the sophistication of its targeting intelligence, how advanced
-
-its experimentation capabilities are (as measured by the volume, speed,
-
-and scale of its experiments), and how well it orchestrates actions across
+more frequently, and spend more on average, than those who come in to

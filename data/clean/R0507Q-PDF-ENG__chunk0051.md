@@ -1,7 +1,9 @@
-# capabilities.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b035788795effc1531b99d85070f6e7a0916a4a0
+title: R0507Q-PDF-ENG
+---
+## continual improvements to their existing products and processes and
 
-A company’s ability to innovate, improve, and learn ties directly to
-
-the company’s value. That is, only through the ability to launch new
-
-products, create more value for customers, and improve operating eﬃciencies continually can a company penetrate new markets and
+have the ability to introduce entirely new products with expanded

@@ -1,21 +1,27 @@
-# 18 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: 00f5253cc89baee999c8f73b11270b6717adc983
+title: yale_case_february_13_2025
+---
+# Chicago
 
-30 Peterson, Joel. “Firing with Compassion.” Harvard Business Review, Harvard Business Publishing, 1 Mar. 2020, hbr.org/2020/03/firing-with-compassion. Accessed 24 Dec. 2024.
+Unbound,
 
-31 Cavanaugh, Anese. “How to Fire Someone without Destroying Them.” Harvard Business Review, Harvard Business Publishing, 28 Jan. 2016, hbr.org/2016/01/how-to-fire-someone-without-destroying-them. Accessed 24 Dec. 2024.
+22 Peterson, Joel. “Firing with Compassion.” Harvard Business Review, Harvard Business Publishing, 1 Mar. 2020, hbr.org/2020/03/firing-with-compassion. Accessed 24 Dec. 2024.
 
-32 Pisani, Joseph. “The Tech Employee Who Went Viral for Filming Her Firing Has No Regrets.” WSJ, The Wall Street Journal, 16 Jan. 2024, www.wsj.com/business/the-tech-employee-who-went-viral-for-filming-her-firing- has-no-regrets-54b61ffe. Accessed 25 Dec. 2024.
+23 Siegel, David. “A More Humane Approach to Firing People.” Harvard Business Review, Harvard Business Publishing, 21 Aug. 2018, hbr.org/2018/08/a-more-humane-approach-to-firing-people. Accessed 24 Dec. 2024.
 
-33 Dodson, David. “Letting People Go.” Stanford Graduate School of Business, Stanford Graduate School of Business, 20 Mar. 2020, www.gsb.stanford.edu/sites/default/files/teaching-materials/e718.pdf. Accessed 24 Dec. 2024.
+24 Microsoft. “What Is Identity Access Management (IAM)? | Microsoft Security.” Www.microsoft.com, www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam. Accessed 24 Dec. 2024.;
 
-34 Sayfayn, Nabil, and Stuart Madnick. Cybersafety Analysis of the Maroochy Shire Sewage Spill (Preliminary Draft). Sloan School of Management, May 2017.
+Microsoft. “What Is Privileged Access Management (PAM) | Microsoft Security.” Www.microsoft.com, www.microsoft.com/en-us/security/business/security-101/what-is-privileged-access-management-pam. Accessed 24 Dec. 2024.
 
-35 U.S. Attorney’s Office, Middle District of Louisiana. “Former Systems Administrator Sentenced to Prison for Hacking into Industrial Facility Computer System.” Www.justice.gov, 16 Feb. 2017, www.justice.gov/usao- mdla/pr/former-systems-administrator-sentenced-prison-hacking-industrial-facility-computer.
+25 Dodson, David. “Letting People Go.” Stanford Graduate School of Business, Stanford Graduate School of Business, 20 Mar. 2020, www.gsb.stanford.edu/sites/default/files/teaching-materials/e718.pdf. Accessed 24 Dec. 2024.
 
-36 Baesens, Bart, et al. “What to Do before You Fire a Pivotal Employee.” Harvard Business Review, Harvard Business Publishing, 29 Jan. 2016, hbr.org/2016/01/what-to-do-before-you-fire-a-pivotal-employee. Accessed 24 Dec. 2024.
+26 Berger, Burkhard, and Gail Bailey. “How to Fire an Employee: 10 Dos and Don’ts.” AIHR, Academy to Innovate HR, 23 June 2021, www.aihr.com/blog/how-to-fire-an-employee/. Accessed 24 Dec. 2024.
 
-37 “What Is a PEO and How Can It Help Your Business? | ADP.” Www.adp.com, 2 Nov. 2020, www.adp.com/resources/articles-and-insights/articles/p/peo-what-is-a-peo-professional-employer- organization.aspx.
+27 Ladika, Susan. “Termination Tips for HR Practitioners.” Www.shrm.org, Society for Human Resource Management, 3 June 2022, www.shrm.org/topics-tools/news/hr-magazine/termination-tips-hr-practitioners. Accessed 24 Dec. 2024.
 
-38 Sinacola, Gabrielle. “Complete Guide to PEOs: What They Can & Can’t Do.” Mosey, 10 Apr. 2023, mosey.com/blog/what-is-a-peo/. Accessed 23 Dec. 2024.
+28 Grote, Dick. “A Step-By-Step Guide to Firing Someone.” Harvard Business Review, Harvard Business Publishing, 17 Feb. 2016, hbr.org/2016/02/a-step-by-step-guide-to-firing-someone. Accessed 24 Dec. 2024.
 
-39 Kiefer, Elizabeth. “What Every Startup Founder Needs to Know about Firing Someone.” Business Insider, 23 Aug. www.businessinsider.com/what-every-startup-founder-needs-to-know-about-firing-someone-2019-8. 2019, Accessed 25 Dec. 2024.
+29 Berger, Burkhard, and Gail Bailey. “How to Fire an Employee: 10 Dos and Don’ts.” AIHR, Academy to Innovate HR, 23 June 2021, www.aihr.com/blog/how-to-fire-an-employee/. Accessed 24 Dec. 2024.

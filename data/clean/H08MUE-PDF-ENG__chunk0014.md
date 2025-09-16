@@ -1,25 +1,39 @@
-## HBR / Digital Article / The Pandemic Proved That Remote Leadership Works
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a0c867fd8ff59cbf3b0f13eec193b0e8aeceac64
+title: H08MUE-PDF-ENG
+---
+# The Benefits
 
-With geography no longer a limitation, organizations can look almost
+For many years, organizations assumed that managers or executives
 
-anywhere to ﬁnd the best leaders for the job, broadening the applicant
+needed to be located near their teams or leadership peers to provide
 
-pool signiﬁcantly. And recruiters can approach talented people who
+supervision, coordinate processes, solve immediate problems, and be
 
-otherwise might turn down an opportunity that requires relocation—
+accessible for meetings. By deﬁnition, this limited the pool of potential
 
-critical for star leaders who may have excellent alternatives.
+applicants to people who already lived in these locations or were willing
 
-This shift is also hugely beneﬁcial to leaders themselves as they manage
+to move. (And as one of my senior clients recently told me, if his
 
-their careers and lives. As the head of a retained executive search ﬁrm
+company had insisted that he move to the corporate headquarters, he
 
-noted, many executives “no longer want to move for work,” but rather
+wouldn’t have taken the job.)
 
-prefer to maintain roots in a community and avoid disrupting their
+The pandemic challenged this assumption. Leaders were still able to be eﬀective without being in physical proximity to their teams or
 
-families. Perhaps that is why recent surveys have shown that 68% of
+colleagues on a regular basis. In fact, research from 2023 showed that
 
-“bosses” (middle managers, functional leaders, executives) would like to
+workers who were not physically near their supervisors were 15% more
 
-continue working remotely.
+connected to company values and their direct managers than workers
+
+who were.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

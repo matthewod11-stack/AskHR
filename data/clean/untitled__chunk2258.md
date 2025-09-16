@@ -1,5 +1,9 @@
-# and Human Behavior, 23, 273–298.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 47ccaf7a6d8b9d330b64cddba64fb31a37d36001
+title: untitled
+---
+## Bowers v. Hardwick, 106 S. Ct. 2841 (1986).
 
-Brigham, J. C., Wasserman, A. W., & Meissner, C. A. (1999). Dis- puted eyewitness identiﬁcation evidence: Important legal and scientiﬁc issues. Court Review, 36(2), 12–25.
-
-Brodsky, S. (1973). Psychologists in the criminal justice system.
+Brigham, J. C. (1999). What is forensic psychology, anyway? Law

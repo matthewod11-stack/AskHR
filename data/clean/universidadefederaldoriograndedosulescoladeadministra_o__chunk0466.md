@@ -1,21 +1,23 @@
-## Sedlak (2020) afirma que o eNPS pode, também, medir satisfação, estando contido
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 4cf17f06436fe018c587aa9458b0faebf6bc08c1
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## BENEVIDES-PEREIRA, 2013; SALANOVA; SCHAUFELI, 2009), regido por metas
 
-na mesma pergunta de pesquisa. Com essa premissa, entende-se que a escolha da
+de boa performance somada à satisfação profissional (POCINHO; PERESTRELO,
 
-empresa X por migrar sua pesquisa de clima para aplicação de eNPS se fez valer. O
+2011; PORTO-MARTINS; BASSO-MACHADO; BENEVIDES-PEREIRA, 2013;
 
-eNPS permitiu não apenas medir engajamento mas, com a pergunta aberta,
+SALANOVA; SCHAUFELI, 2009). Sendo assim, a busca dos fundadores por uma
 
-garantiu que o próprio colaborador pudesse inserir a temática de que deseja falar
+medida maior que satisfação, construto até então medido em pesquisa de clima,
 
-sobre. A questão qualitativa possibilita dar voz às necessidades que o colaborador
+abriria caminho para a busca pela medida de engajamento. Tal opção encontra
 
-enxerga para a construção do seu bem estar. O exemplo explorado do valor do
+amparo em Legerstee (2013), que mediu o engajamento dos funcionários e apontou
 
-benefício de vale-refeição encontrado no ano de 2022 pelo eNPS reflete a agilidade
+52
 
-do processo e demonstra o porquê da preferência da empresa pela aplicação do
-
-eNPS em lugar de pesquisa de clima tradicional. O aprofundamento em questões
-
-elencadas pelo colaborador permite focar em melhorias que podem representar
+que têm ainda maior correlação com o eNPS que a satisfação com o trabalho.

@@ -1,23 +1,25 @@
-## lopmental relationships on the learning of
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 1dda3f06a51a1eccf0f5388a789350366ec1ff5a
+title: final_2019_jan_feb_jbs_pmd
+---
+# ISSN 2393-9451
 
-practice competence for new graduates”, Journal of Workplace Learning, Vol. 20 No. 5, pp. 297-315. 51. London, M. & Beatty, R.W. (1993). “360-Degree Feedback as a Competitive Advantage.” Human Resource
+- 41. Higgins, M.C. and Kram, K.E. (2001), “Reconceptualiz ing mentoring at work: a developmental network perspective”, The Academy of Management Review, Vol. 26 No. 2, pp. 264-88.
 
-Management, 32: 353-372.
+- 42. Howe, M.J.A., Davidson, J.W. and Sloboda, J.A. (1998) ‘Innate Talents: Reality or myth’. Behavioral and Brain Sciences 21(3), 399-442.
 
-- 52. Marsick, V.J. (2002) “Exploring the Many Meanings of Action Learning and ARL.” In L. Rohlin, K. Billing, A. Lindberg, and M. Wickelgren (eds.), Earning While Learning in Global Leadership: The Volvo-MiL Partnership. Vasbyholm, Sweden: MiL.
+- 43. Iles P., X. Chuai, and D. Preece (2010) “Talent management and HRM in multinational companies in Beijing: Definitions, differences and drivers,” Journal of World Business, vol. 45, pp. 179-189.
 
-- 53. McCall, M. Jr., Lombardo, M. and Morrison, A.M. (1988), The Lessons of Experience: How Successful Executives Develop on the Job, New Lexington Press, San Francisco, CA.
+- 44. Jenkins, M. (2006), “Managing talent is a burning issue in Asia”, Leadership in Action, Vol. 26 No. 5, p. 20. 45. Ketter, P. (2010) ‘2010: Six Trends that Will Change Workplace Learning Forever’. Training and development 64 (12), 34-40
 
-- 54. McCauley, C. and Douglas, C. (2004), “Developmental relatio nships”, in McCauley, C. and Velsor, E (Eds), The Center for Creative Leadership Handbook Leadership Development, 2nd ed., Jossey-Bass, San Francisco, CA.
+- 46. Lehmann, S. (2009). Motivating talents in Thai and Malaysian service firms. Human Resource Development International, 12, 155-169.
 
-- 55. McCauley, C., Kanaga, K. and Lafferty, K. (2010), “Leader development systems”, in Van Velsor, McCauley, C. and Ruderman, M. (Eds), The Center for Creative Leadership: Handbook of Leadership Development, 3rd ed., San Francisco, Jossey-Bass, CA, pp. 29-62.
+- 47. Lepak, D.P. and Snell, S.A. (1999), “The human reso urce architecture: toward a theory of human capital allocation and development”, The Academy of Management Review, Vol. 24 No. 1, pp. 31-48.
 
-- 56. McCauley, C., Ruderman, M., Ohlott, P. and Morrow, J. (1994), “Assessing the developmental components of managerial jobs”, Journal of Applied Psychology, Vol. 79 No. 4, pp. 544-560.
+- 48. Lewis, R.E. and Heckman, R.J. (2006), “Talent management: a critical review”, Human Resource Management Review, Vol. 16 No. 2, pp. 139-154.
 
-- 57. McCauley, C.D. (2006). Developmental assignments: Creating learning experiences without changing jobs. 58. McDonnell, A., Lamare, R., Gunnigle, P. and Lavelle, J. (2010), “Developing tomorrow’s leaders: Evidence of global talent management in multinational enterp rises”, Journal of World Business, Vol. 45 No. 2, pp. 2-22.
+- 49. Lockwood, N.R. (2006). ‘Talent management: Driver f or organizational success’, HR Magazine, June, 51(6): 2.
 
-- 59. Mehdiabadi Amir Hedayati& Li Jessica (2016). Underst anding Talent Development and Implications for Human Resource Development: An Integrative Literature Review. Human Resource Development Review, 1-32
-
-IITM Journal of Business Studies (JBS)
-
-19
+- 50. Lombardozzi, C. and Casey, A. (2008), “The impact of deve

@@ -1,27 +1,23 @@
-## 3.2(cid:32) Human Resource activities of Karnaphuli Group:
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: ec4b39bdacd5f6ae9cd1b6d8d990706d6751b30a
+title: internship_report
+---
+## 3.1(cid:32)Human Resource Department (HRD) of Karnaphuli Group:
 
-Karnaphuli Group recognizes that a fruitful and motivated work force is a prerequisite to
+Human Resource Department is a vital aspect of HRM because the performance of an individual
 
-leadership in the market it serves. Karnaphuli Group treats every employee with dignity and
+in an organization is largely driven by the work atmosphere or work culture that prevails at the
 
-respect in a supportive environment of trust and openness where people of different backgrounds
+workplace. A good working condition is one of the benefits that the employees can expect from
 
-can reach their full potential.
+an efficient human resource team. HR development is extremely necessary because organizations
 
-The organizational human resources policy emphasize on providing job satisfaction, growth
+recognize that any value added to an employee is value added to the organization, and employees
 
-opportunities, and due recognition of superior performance. A good working environment
+are eager for the opportunities to develop their skills and add value to their companies.(cid:32) .
 
-reflects and promotes a high level of loyalty and commitment from the employees. Realizing
+Karnaphuli Group considers employees as its asset whose value is enhanced by development,
 
-this, Karnaphuli Group has placed the utmost importance on continuous development of its
-
-human resources, identify the strength and weakness of the employee to assess the individual
-
-training needs, they are sent for training for self-development. To orient, enhance the knowledge
-
-of the employees Karnaphuli Group organizes both in-house and external training.
-
-Human Resource division of Karnaphuli Group is taking care of total function for all employees.
-
-The main functions of Human Resources division are,
+emphasizing on individual potential and skills.

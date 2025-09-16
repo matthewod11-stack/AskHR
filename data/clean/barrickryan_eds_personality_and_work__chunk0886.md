@@ -1,9 +1,19 @@
-# EMERGING TRENDS AND NEEDS 321
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 0e6fc94e09177d0fcf587457aad19c943e7fa149
+title: barrickryan_eds_personality_and_work
+---
+## ing. Organizational Research Methods, 1, 131–163.
 
-berg (Ed.), Handbook of intelligence (pp. 359–379). Cambridge: Cam- bridge University Press.
+Judge, T. A., & Bono, J. E. (2001a). A rose by any other name: Are self- esteem, generalized self-efﬁcacy, neuroticism, and locus of control indicators of a common construct? In B. W. Roberts & R. T. Hogan (Eds.), Personality psychology in the workplace (pp. 93–118). Washing- ton, DC: American Psychological Association.
 
-Kleinmann, M., Kuptsch, C., & Köler, O. (1996). Transparency: A neces- sary requirement for the construct validity of assessment centers. Applied Psychology: An International Review, 45, 67–84.
+Judge, T. A., & Bono, J. E. (2001b). Relationship of core self-evaluation traits—self-esteem, generalized self-efﬁcacy, locus of control, and emotional stability—with job satisfaction and job performance: A meta-analysis. Journal of Applied Psychology, 86, 80–92.
 
-Klimoski, R., & Jones, R. G. (1995). Stafﬁng for effective group decision making: Key issues in matching people and teams. In R. Guzzo & E. Salas (Eds.), Team effectiveness and decision making in organizations (pp. 291–332). San Francisco: Jossey-Bass.
+Judge, T. A., Bono, J. E., Ilies, R., & Werner, M. (2002). Personality and leadership: A qualitative and quantitative review. Journal of Applied Psychology, 87, 765–780.
 
-Larson, L. M., & Borgen, F. H. (2002). Convergence of vocational inter- ests and personality: Examples in an adolescent gifted sample. Jour- nal of Vocational Behavior, 60, 91–112.
+Judge, T. A., & Hulin, C. L. (1993). Satisfaction as a reﬂection of disposi- tion: A multiple source causal analysis. Organizational Behavior and Human Decision Processes, 56, 388–421.
+
+Judge, T. A., Locke, E. A., Durham, C. C., & Kluger, A. N. (1998). Dispo- sitional effects on job and life satisfaction: The role core evaluations. Journal of Applied Psychology, 83, 17–34.
+
+Kihlstrom, J. F., & Cantor, N. (2000). Social intelligence. In R. J. Stern-

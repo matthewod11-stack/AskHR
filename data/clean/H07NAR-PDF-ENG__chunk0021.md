@@ -1,21 +1,23 @@
-# success relative to them.
+---
+source_path: H07NAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 373d63475e994f3846ef4910006d6f20e6ed87be
+title: H07NAR-PDF-ENG
+---
+# HBR / Digital Article / How a “Pay-to-Quit” Strategy Can Reveal Your Most Motivated E…
 
-Ultimately, the Pay-to-Quit program is an instructive example of how
+- 4. Set a deadline.
 
-companies can use the power of incentives to ﬁnd out more about their
+The program should not be open-ended. Give employees a relatively
 
-employees. Remember, talk is cheap. Simply asking employees about
+short period during which to decide whether to accept the oﬀer, and
 
-their preferences may not reveal what you need to know — but with a
+make it clear that the oﬀer will not be available after that date.
 
-smart inventive plan in place, you can learn a lot.
+- 5. Monitor and evaluate.
 
-This article was originally published online on May 29, 2023.
+The program will only succeed if you regularly measure its eﬀectiveness
 
-Uri Gneezy holds the Epstein/Atkinson endowed chair in behavioral economics at the Rady School of Management at the University of California, San Diego. He focuses on putting behavioral economics to work in the real world, where theory can meet application. His latest book is Mixed Signals: How Incentives Really Work (2023).
+and make adjustments as needed. This will only be possible if you
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁrst clearly deﬁne your long-term goals and then monitor and evaluate

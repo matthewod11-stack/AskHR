@@ -1,25 +1,17 @@
-# How Special Ops Trains Leadership
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9d142fbd0395ef6aef023d4c02159f5f829c790
+title: H08VFN-PDF-ENG
+---
+## from traditional executive education: namely, experiential exercises
 
-According to internal Army assessments, recruits who completed
+that coach the brain to learn from failure. Next, I’ll share what Special
 
-Special Ops training between 2005 and 2020 had a leadership success
+Ops has identiﬁed as the four main reasons for leadership failure—and
 
-rate of more than 90%. That success was measured on multiple scales,
+how to correct them. Finally, I’ll lay out a “Simulated Failure” exercise
 
-including:
+for scaling Special Ops training across your organization, equipping
 
-- Integrity
-
-- Mental agility
-
-- Sound judgment
-
-- Innovation
-
-- Leads by example
-
-- Develops others
-
-- Gets results (deﬁned as “developing and executing plans while
-
-providing direction, guidance, and clear priorities towards mission
+every manager to lead in volatility.

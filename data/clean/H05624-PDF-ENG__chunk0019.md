@@ -1,19 +1,19 @@
-## representatives, Republicans and Democrats, such as Senators Joni
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec2881a3096971d4c6eb94b37a93336b339f7609
+title: H05624-PDF-ENG
+---
+## HBR / The Big Idea / Every Employee Should Have Access to Paid Parental Leave
 
-Ernst and Kirsten Gillibrand, who have already tried to bring various
+private sector — entrepreneurs, CEOs — as well as lawmakers on the left
 
-versions of this legislation forth — for example, the CRADLE Act and the
+and the right who also want this to happen.
 
-FAMILY Act. It looks like the biggest issue now will be about funding
+Which lawmakers are you partnering with and what speciﬁc
 
-it — whether it’s reallocated from other policies, how it’s subsidized.
+legislation would you like to see passed?
 
-There are diﬀerent ways diﬀerent countries have approached it. Also
+My team and I are going to DC in October, and we’re still ﬁnalizing
 
-seeing if we can get a clean bill without anything extra layered on. I’d
-
-like to see a federal law for paid family leave of six months, as that’s what more and more research says is ideal. | THE BIG IDEA
-
-This article was originally published online on September 30, 2019.
-
-Alison Beard is an executive editor at Harvard Business Review and co-host of the HBR IdeaCast podcast. She previously worked as a reporter and editor at the Financial Times. A mom of two, she tries— and sometimes succeeds—to apply management best practices to her household.
+the folks we’ll meet with, but there are senators and congressional

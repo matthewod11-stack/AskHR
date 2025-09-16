@@ -1,9 +1,13 @@
-## HBR / Digital Article / Research: How Passion Can Backfire at Work
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e248881f4dba40e446fffe0bb00c8da29ea1dae
+title: H08B2N-PDF-ENG
+---
+# transportation via SpaceX.
 
-But Musk has also been called “galactically arrogant,” often
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-overpromising on timelines for new technologies and product features
+1
 
-(e.g., fully self-driving cars), as well as his ability to lead an
-
-organizational turnaround in an industry where he has little experience
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

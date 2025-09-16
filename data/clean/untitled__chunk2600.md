@@ -1,3 +1,17 @@
-## Professor Lord. Aparallel course is given by Dr. Thorndike at Teachers College.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 897d74bfca26a0bbb8f3741c5d6ef1913d0de774
+title: untitled
+---
+# 468 Undergraduate Education
 
-- 1. Introduction to psychology. 2 hours, lectures and demon-
+interests: “mental measurement” by James McKeen Cattell at Pennsylvania, “psychological basis of religious faith” by William James at Harvard, and “pedagogical psychology” by HarryKirkeWolfeatNebraska.
+
+A common developmental pattern of future psychology curricula was captured by the Pennsylvania catalog of 1890. Unlike other universities, Penn had its own psychology de- partment; it was not a subset of philosophy or some other area. A sequence of courses was listed. Psychology 1 was a lecture course titled Elementary Psychology. Psychology 3 (no Psychology 2 was listed) was titled Experimental Psy- chology with lectures and laboratory work. Psychology 4 was titled Mental Measurement with lectures, reports, and ad- vanced work in the laboratory. “Course 4 is open only to those who have taken course 3, and will be different each year, for a series of years. Advanced Physiological Psychology is pro- posed for 1891–92, and Comparative, Social, and Abnormal Psychology for 1892–3” (University of Pennsylvania Cata- logue and Announcements 1890–1891, p. 96).
+
+McGovern (1992b) found that by 1900, at Berkeley, Brown, Cincinnati, Columbia, Cornell, George Washington, Indiana, Minnesota, Nebraska, Pennsylvania, Wellesley, Wis- consin, and Yale, the ﬁrst course was followed by an “experi- mental psychology” course. Laboratory work was required in either this course or in an additional course sometimes titled “laboratory in psychology.” Courses titled “advanced psy- chology” or “advanced experimental” fostered students’indi- vidual research with faculty supervision. The 1900–1901 Brown catalog stated, “The aim is to make original contribu- tions to scientiﬁc knowledge in psychology and to publish the results” (Brown University Catalogue, 1900–1901, p. 57). Courses in abnormal, comparative, genetic, systematic, and psychological theory began to appear, as did more special topics courses. At Nebraska, a course in “race psychology” was listed.AtWisconsin, there was a course in “mental evolu- tion”; Part I emphasized comparative psychology and Part II emphasized anthropology.AtAmherst, Cornell, and Yale, the ﬁrst course in the philosophy department was an interdiscipli- nary offering that covered psychology, logic, and ethics.
+
+One of the most extensive curricula was listed at Colum- bia University in the Department of Philosophy, Psychology, Anthropology, and Education. Fifteen separate “Courses in Psychology” were listed, taught by an interdisciplinary fac- ulty. The following introductory offerings were then fol- lowed by 13 topic courses, laboratory courses, or supervised research courses:
+
+A. Elements of psychology—James’s Principles of Psychol- ogy—Discussions, practical exercises, and recitations. 3 hours. First half-year, given in 4 sections.

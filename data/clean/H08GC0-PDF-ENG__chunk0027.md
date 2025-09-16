@@ -1,15 +1,21 @@
-## HBR / Digital Article / Let’s End Toxic Productivity
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0cb86b732259c737639ad88e49373bbe1788e8d3
+title: H08GC0-PDF-ENG
+---
+## The Role of Leadership in Breaking the Cycle
 
-To foster a healthier work environment, leaders should actively model
+Leaders play a crucial role in either perpetuating or breaking the
 
-healthy work habits themselves. This includes taking a vacation and
+cycle of toxic productivity. Unfortunately, many leaders model the very
 
-sharing it openly — a new trend called “loud vacationing” — so
+behaviors that contribute to this unhealthy culture — sending emails
 
-employees feel like taking PTO is encouraged.
+late at night, forgoing time oﬀ, and glorifying overwork.
 
-Managers should also exemplify clear boundaries between work and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-personal time, and highlight their commitment to well-being. It’s good
+6
 
-for business. Slack’s study found that employees who log oﬀ at the end
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

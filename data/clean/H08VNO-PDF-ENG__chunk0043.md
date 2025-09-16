@@ -1,7 +1,37 @@
-# Pro Tip
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fdc3be4aa3d9c657db6bfefeda683c055c2fae0
+title: H08VNO-PDF-ENG
+---
+## of manager burnout across the organization.
 
-Once a month, invite a mid-level manager to silently observe a senior
+The issue isn’t a lack of belief in culture. It’s a lack of modeled alignment
 
-leadership meeting. Afterward, ask a simple question: What felt aligned
+from the top. When executives treat culture as something to delegate
 
-with our stated culture — and what didn’t? Then listen. You’ll learn
+instead of something to live, they create confusion, cynicism, and load-
+
+bearing strain at the middle.
+
+By contrast, one Southeast Asian conglomerate took a diﬀerent
+
+approach. Instead of pushing culture downward, it started at the
+
+top—by redesigning senior leadership meetings to reinforce cultural
+
+alignment. Executives began co-creating agendas with junior staﬀ,
+
+practicing open dissent in front of peers, and recording sessions for
+
+wider team visibility. Within a year, manager alignment scores rose 37%,
+
+and executive credibility improved across every business unit.
+
+The lesson is clear: if culture isn’t consistently modeled at the highest
+
+levels, it won’t take root anywhere else. Middle managers cannot
+
+enforce what senior leaders won’t embody. Culture isn’t a message to
+
+be passed down. It’s a behavior to be practiced up close.

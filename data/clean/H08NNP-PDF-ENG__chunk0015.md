@@ -1,15 +1,21 @@
-# importance.
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f18809062494f4426a7e2ab803c1547e888ffd9b
+title: H08NNP-PDF-ENG
+---
+## HBR / Digital Article / When AI Gets a Board Seat
 
-For example, in one of the meetings there was a discussion of an upcoming announcement. ChatGPT oﬀered a wide set of factors that
+stakeholders, as the plant was located at the company’s headquarters
 
-needed to be addressed prior to the announcement, but it omitted
+for more than 50 years. AI helped them to have a more complete, fact-
 
-potential legal implications that needed to be considered. Under
+based, and nuanced discussion.
 
-usual circumstances, the executives might have brought up the legal
+- 2. Completeness illusion
 
-questions, but AI had created the illusion of infallible completeness,
+The breadth of LLM suggestions also had a downside. As the team got
 
-which they had begun to rely on. In this instance, a solution was found
+used to the tool pointing them to issues they otherwise would miss, we
 
-after the fact, but the issue could have easily been avoided with more
+observed an emerging reliance on it in order to not overlook anything of

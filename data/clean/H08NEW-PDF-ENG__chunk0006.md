@@ -1,9 +1,23 @@
-# less than men on average.
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc7c9c665eae55a2019d6324cfbafae30d536659
+title: H08NEW-PDF-ENG
+---
+# Start With a Pay Equity Analysis
 
-Once you’ve identiﬁed the pay gaps, you have to ﬁgure out what
+The ﬁrst step is to run a pay equity analysis. This is a systematic
 
-to do about them. The size of the gap is just one consideration.
+analysis of employees’ compensation to determine whether one or more
 
-Companies must also weigh their speciﬁc regulatory environment and
+demographic groups (e.g., women or a racial minority) are underpaid.
 
-how important gaps are to their stakeholders when deciding how to
+A pay equity analysis gives us a measure of a pay gap after accounting
+
+for pay drivers like job roles and qualiﬁcations. For example, a 5% pay
+
+gap between men and women across a company means that even after
+
+factoring in the diﬀerences in responsibilities, experience, education, or
+
+other factors that legitimately aﬀect compensation, women are paid 5%

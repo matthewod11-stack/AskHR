@@ -1,23 +1,21 @@
-## HBR / Digital Article / Has Sexual Harassment at Work Decreased Since #MeToo?
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 008b5a07380287d2deb7f0de2ded2b1a082fa7b4
+title: H0522T-PDF-ENG
+---
+# Tara Moore/Getty Images
 
-It helps to look at data. In 2016, before #MeToo took oﬀ, we surveyed
+It’s been nearly two years since the #MeToo movement took on wide
 
-250 working women in the U.S., asking about the pervasiveness of
+momentum, and some big questions remain: What has changed? Do we
 
-sexual harassment in their workplaces and how it impacts them at
+know if reports of sexual harassment in organizations have decreased?
 
-work; we also interviewed 31 women in the U.S. about their individual
+What has happened to the women who have spoken up?
 
-experiences. We conducted a second survey after #MeToo, in September
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-2018, of 263 women, and we reconnected with some of the women we
+1
 
-previously interviewed to see whether they’ve seen changes or have
-
-changed their views. The survey was meant to gather quantitative
-
-evidence about changes since #MeToo, and the interviews were meant
-
-to provide insight into why and how the changes occurred.
-
-We measured sexual harassment along three dimensions: gender
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,25 +1,21 @@
-# employee encounters throughout his or her relationship to the organization, from the
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 5a9b8279f59acce6284732c520105a58c3fdd373
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# the combination of employees' subjective
 
-first contact as a potential recruit to the final interaction after employment.(Yohn,
+impressions and feelings about company and team which they work. (Wride & Maylett,
 
-2018)
+2017). They describe the center of EX from the employee’s perspective and explain
 
-According to company Bonfyre, which provides an employee experience platform,
+their behavior and engagement towards the company. The value of the Employee
 
-Employee Experience reflects how a company treats its employees. (Stolpe, 2022) In
+Experience is determined by both the written and unwritten contracts between
 
-their framework they define three different types of experience which are connected
+employee and employer, as well as what each party expects from the other.
 
-to each other and create the overall Employee Experience:
+Leadership expert Denise Lee Yohn, who is also an EX-content writer for Forbes, has
 
-- 1) The Procedural Employee Experience, meaning what the work
-
-experience is like. It comprises both the design of the work and the
-
-organization of the procedures and processes that employees apply to
-
-execute their tasks and fulfill their duties.
-
-- 2) The Textural Employee Experience, describing the environment around
-
-the work. It includes how organizations build their cultures, how they
+written, The Year of Employee Experience. She defines EX as everything an

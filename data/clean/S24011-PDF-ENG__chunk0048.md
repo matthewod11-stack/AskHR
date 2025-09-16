@@ -1,51 +1,25 @@
-## HBR / Spotlight Article / Leading in the Flow of Work
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b89953b94e09d2b87bf4c91e2c8cdcd0b57057f3
+title: S24011-PDF-ENG
+---
+# diﬀerent energies as the event unfolds.
 
-the intention “I will create positive energy and rally the team around my
+At one ﬁnancial services company, tensions were running high on
 
-vision.” He started the meeting by showing empathy and appreciation. “I understand how diﬃcult it has been these last few weeks,” he
+the analytics team of an executive called Roger. It was getting a
 
-said. “I recognize how hard you all have been working, despite these
+lot of assignments but didn’t have a good process for prioritizing
 
-obstacles.” The love energy these actions released helped put his team
+them. Deadlines were being missed, and teammates were blaming
 
-at ease. Sensing an opening, he switched to activating growth energy by
+one another, much to Roger’s irritation. He decided to bring the team
 
-soliciting advice, inviting the team members to share their perspectives
+together for a conversation. To put aside his negative emotions, he set
 
-on the challenges they faced. Seeing that some were nervous, he gently
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-nudged them and thoughtfully probed. As team members got more
+11
 
-comfortable sharing their perspectives, one suggested that they start
-
-saying no to new requests, while another pushed back because that
-
-would compromise their objective of being a responsive team. Roger
-
-fused these opposing viewpoints by proposing that they become better
-
-at setting and resetting expectations about deliverables and deadlines
-
-with their internal clients. “Every person in the room felt personally
-
-accountable, engaged, and invested,” he recalls. As a result, valuable
-
-ideas emerged about how the team should prioritize work, and the
-
-chronic delays were alleviated.
-
-Sometime after an event, executives should do a postmortem to assess
-
-how well it went, how successful they were at meeting their goals and
-
-using the chosen actions, and what they learned from it. Even when
-
-things don’t turn out as desired, this practice can produce valuable
-
-insights. As a vice president of business development at Wilton Re told
-
-us, postmortems have helped him “translate instances of ‘failure’ into
-
-opportunities for growth,” allowing him to ﬁnd pride in moments when
-
-he honored his intention and tied it to his values.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

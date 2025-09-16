@@ -1,9 +1,15 @@
-# transparency.
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15a5ad6aec0d1908adf99d69dbd264109335244b
+title: H08VEI-PDF-ENG
+---
+# Invest in their communication skills.
 
-This article was originally published online on August 18, 2025.
+- Assume that all negative feedback is just griping; sometimes it’s
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+pointing to real problems with the change or its implementation.
 
-6
+- Dismiss people’s fears. Instead, acknowledge that uncertainty is
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+normal and be ready to address people’s concerns with care and

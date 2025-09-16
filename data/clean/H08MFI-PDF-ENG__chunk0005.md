@@ -1,25 +1,27 @@
-## HBR / Digital Article / When Your Job Breaks Your Heart
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a9536406d0313ff6d56006a651d597de6488993
+title: H08MFI-PDF-ENG
+---
+# the big emotions.
 
-owned by a man she considered a father ﬁgure and a mentor and whom
+This idea crystallized for me a couple summers ago when a favorite
 
-she trusted. Without telling her, he sold the masters to an industry
+writer of mine, Taﬀy Brodesser-Akner, wrote about the Taylor Swift
 
-ﬁgure Swift considered unethical. She tried to buy the masters back and
+song “My Tears Ricochet” in the New York Times: It’s “a song that
 
-could not, and so she began to re-record her albums one by one as an act
+poses as a love song but is really about a diﬀerent kind of devastation.”
 
-of taking ownership of the art she had created. Swift felt her songs were
+The anthem is ostensibly about a lover’s bittersweet mourning of an
 
-stolen from her, and she couldn’t get over it.
+ex who dies, but Swifties know the song’s true meaning: professional
 
-The song helped Brodesser-Akner understand her own professional
+heartbreak. For many years, the artist’s original song masters were
 
-heartbreak, still raw in her heart: She’d learned she was being paid a
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-third of what her male colleagues were being paid at a job she loved. “I
+2
 
-was beloved by them, but also I loved them,” she told the Times podcast
-
-The Daily. “I loved them so much. And when I hear this song, I cry… It
-
-was such a betrayal of me. And it was such a betrayal of what I thought
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,9 @@
-## Harvard Business Review, 78 (1) , 127-136.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: ccf934137006e148a9e7e92fd528418c0d0338ef
+title: file_1
+---
+## Journal of Marriage and the Family, 58, 417–432.
 
-Mikkelsen, E. and S. Einarsen, 2002. Relationships between exposure to bullying at work and psychological and psychosomatic health complaints: the role of state negative affectivity and generalized self-efficacy. Scandinavian Journal of Psychology, 43 (5), 397-405.
+Meyerson, D. and J. Fletcher, 2000. A Modest Manifesto for Shattering the Glass Ceiling.

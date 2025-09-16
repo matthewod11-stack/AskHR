@@ -1,27 +1,13 @@
-## HBR / Digital Article / Worried About Impending Layoffs?
+---
+source_path: H07POT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8344b200ebf4f4a4e2aed2fdff4fbd2dc6050106
+title: H07POT-PDF-ENG
+---
+# scenario.
 
-As you consider what beneﬁts you most want from an employer,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-reconsider your core values and ask yourself these questions:
+3
 
-- What makes me happy and whole?
-
-- What truly satisﬁes me?
-
-- Where have I given away too much of myself for little return?
-
-Get your finances in order.
-
-Some organizations provide severance payouts to employees impacted
-
-by downsizing, but not all.
-
-If you have cash in an emergency savings account, you’ll be
-
-better prepared, since it can supplement any severance pay and
-
-unemployment insurance you receive. Financial experts recommend
-
-that people have three to six months’ worth of living expenses saved up,
-
-which means having enough money to cover essential expenses such as
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

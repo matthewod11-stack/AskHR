@@ -1,21 +1,7 @@
-# Eugene Mymrin/Getty Images
-
-The following three charts offer a quick overview of how
-
-companies think about data. The first, “Creating New Value with
-
-Data,” shows how simple analytics, applied by individual
-
-products to their own data, reveal basic insights. And how more-
-
-sophisticated analytics, applied to product data that has been
-
-pooled into a “lake” with data from external and enterprise
-
-sources, can unearth deeper insights.
-
-https://hbr.org/2023/10/how-companies-think-about-data
-
-Privacy - Terms
-
-1/5
+---
+source_path: How Companies Think About Data.md
+pages: n/a-n/a
+chunk_id: a30197866bb45b0eaf1da1b6baf0ac11ebc547ab
+title: How Companies Think About Data
+---
+# October 31, 2023

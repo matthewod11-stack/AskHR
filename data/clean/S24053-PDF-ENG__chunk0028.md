@@ -1,29 +1,29 @@
-# we here?”
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: abdf9ae921acadab8d60b51a05bc6ba32d08bc54
+title: S24053-PDF-ENG
+---
+## productive meetings, and practice healthy norms and routines, team
 
-For many top teams, a lack of discipline, particularly in managing
+members need to have a clear understanding of their own and
 
-meetings, can be at the core of problems. Meetings are a mainspring in team eﬀectiveness because they create the time and space for eﬀective traits and behaviors to ﬂourish. But getting meetings right
+one another’s roles—and all too often, they don’t. CEOs are often
 
-is deceptively diﬃcult, often because team members don’t appreciate
+perplexed to learn that members of their top team don’t suﬃciently
 
-their importance to business performance and thus fail to give them
+understand their peers’ strategies, objectives, and deliverables, or
 
-their due focus. To get the most out of meetings, each team member
+how they spend their days in pursuit of them. When members don’t
 
-must be disciplined in properly preparing for, participating in, and
+know those things, they can’t fully support one another or identify
 
-following up after them. At Root, Foote and the COO introduced a seemingly simple procedural shift that had an outsize eﬀect: They
+the interdependencies among their agendas that would encourage
 
-stopped cochairing meetings and deputized team members to preside over them instead. The eﬀect was to distribute leadership among the
+cooperation. More concerning perhaps, team members are often not
 
-members, giving the whole team a greater sense of shared ownership.
+clear on the role of the team itself. Many are unable to answer the
 
-The new regime sharpened the team’s decision-making discipline and
+question “What kind of team must we become to lead our strategy and
 
-produced better alignment between decisions and strategy.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+people?” They may even struggle with a more existential one: “Why are

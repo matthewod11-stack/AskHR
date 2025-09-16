@@ -1,5 +1,13 @@
-# Off ers
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c3b7cf85af09e7586e90884f13eae8717160c7b3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Hires
 
-Off ered job but declined
+Hired and reported to work
 
-already has been done. A method of estimating adverse impact compares the average scores of minority applicants with those of White and male applicants. This is most easily done by looking in the test manual to determine whether African Americans and Whites or men and women have significantly different test scores. If so, the test probably will have adverse impact, and an alternative test can be sought.
+Hired but did not report to work
+
+Hired but failed drug test or background test

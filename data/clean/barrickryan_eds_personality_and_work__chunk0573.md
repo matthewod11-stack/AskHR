@@ -1,7 +1,25 @@
-# Human Decision Processes, 4, 309–336.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 52c1c75eaf5bd3965e2fdeec2f1ef946dcaee244
+title: barrickryan_eds_personality_and_work
+---
+## PERSONALITY AND COUNTERPRODUCTIVE WORKPLACE BEHAVIOR 179
 
-McCrae, R. R., & Costa, P. T. (1985). Comparison of EPI and psychoticism scales with measures of the Five-Factor theory of personality. Per- sonality and Individual Differences, 6, 587–597.
+confusion: Description versus prediction. Human Performance, 5, 139–155.
 
-McCrae, R. R., & Costa, P. T. (1986). Personality, coping, and coping effectiveness in an adult sample. Journal of Personality, 54, 385–405. McCrae, R. R., & Costa, P. T., Jr. (1999). A Five-Factor theory of person- ality. In L. A. Pervin & O. P. John (Eds.), Handbook of personality: The- ory and research (2nd ed., pp. 139–153). New York: Guilford Press.
+Hynan, D. J., & Grush, J. E. (1986). Effects of impulsivity, depression, provocation, and time on aggressive behavior. Journal of Research in Personality, 20, 158–171.
 
-McHenry, J. J., Hough, L. M., Toquam, J. L., Hanson, M. A., & Ashworth, S. (1990). Project A validity results: The relationship between pre- dictor and criterion domains. Personnel Psychology, 43, 335–354.
+Jamal, M. (1990). Relationship of job stress and Type-A behavior to em- ployees’ job satisfaction, organizational commitment, psychosomatic health problems, and turnover motivation. Human Relations, 43, 727–738.
+
+Jelinek, J., & Morf, M. E. (1995). Accounting for variance shared by mea- sures of personality and stress-related variables: A canonical corre- lation analysis. Psychological Reports, 76, 959–962.
+
+Judge, T. A., Martocchio, J. J., & Thoresen, C. J. (1997). Five-Factor Model of personality and employee absence. Journal of Applied Psychology, 82, 745–755.
+
+Kelloway, E. K., Loughlin, C., Barling, J., & Nault, A. (2002). Self-reported counterproductive behaviors and organizational citizenship behav- iors: Separate but related construct. International Journal of Selection and Assessment, 10, 138–146.
+
+Laczo, R. (2002). An examination of the dimensionality of non-task performance. Unpublished doctoral dissertation, University of Minnesota. Larsen, R. J., & Ketelaar, T. (1991). Personality and susceptibility to posi- tive and negative emotional states. Journal of Personality and Social Psychology, 61, 132–140.
+
+Leiter, M. P., & Robichaud, L. (1997). Relationships of occupational haz- ards with burnout: An assessment of measures and models. Journal of Occupational Health Psychology, 2, 35–44.
+
+Levin, I., & Stokes, J. P. (1989). Dispositional approach to job satisfaction: Role of negative affectivity. Journal of Applied Psychology, 74, 752–778. Locke, E. A. (1969). What is job satisfaction? Organizational Behavior and

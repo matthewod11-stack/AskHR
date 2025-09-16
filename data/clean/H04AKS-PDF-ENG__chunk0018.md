@@ -1,11 +1,17 @@
-## careful collection and analysis of the right data, a major transformation
+---
+source_path: H04AKS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21b027ff7588ef1390d40492b7e4767e67145fb8
+title: H04AKS-PDF-ENG
+---
+# HBR / Digital Article / How People Analytics Can Help You Change Process, Culture, a…
 
-can be a little less daunting – and hopefully a little more successful.
+As organizations increasingly look to data to help them in their
 
-Chantrelle Nielsen directs research and strategy for Workplace Analytics, a new organizational productivity category at Microsoft. She led product management, marketing, and several other functions at VoloMetrix as they grew and were acquired by Microsoft.
+transformation efforts, it’s important to remember that this doesn’t
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+just mean having more data or better charts. It’s about mastering
 
-5
+the organizational muscle of using data to make better decisions; to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hypothesize, experiment, measure and adapt. It’s not easy. But through

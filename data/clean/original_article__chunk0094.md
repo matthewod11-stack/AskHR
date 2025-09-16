@@ -1,5 +1,9 @@
-# in this
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: e5e6df8c3d598ecae788f7df74687ffe0c811cd7
+title: original_article
+---
+# in our analysis. Because of
 
-relationality,
-
-Board-level outcomes Board-level outcomes are measured by two aspects – the degree to which boards are effective in achieving tasks (TTP) and the level of perceived TP. Given that a board’s primary output is cognitive in nature, TTP was mea- sured in relation to ‘service delivery’ (Bateman et al, 2002), and we attempted to capture aspects of TTP and compliance quality levels. For our analyses, three aspects were selected as appro- priate to capture the information deemed most indicative of TTP and conﬁrmed by our prior qualitative research, namely, skills, innovation and compliance quality (Charas and Perelli, 2013). Skills measured the degree to which directors have adequate training and are com- petent to do ‘board work’, as well as a measure of their skills (Bateman et al, 2002). Innovation measured the degree to which directors seek approaches to improve their systems of work (Bateman et al, 2002). Compliance quality measured the degree to which directors understand, comply and are concerned with compliance and administrative requirements and standards set by the board (Bateman et al, 2002). Compliance quality
+Board processes – The mediators is The mediator for board-level outcomes TIQ or what F&M (1999) refer to as the ‘dynamic’ or the measure of boardroom ‘inter- vening processes’. To capture the director’s perception of TIQ, we employed the TLI questionnaire developed by Lingham (2009). This questionnaire focuses on the crux of team interaction by assessing the extent to which the board is currently creating a ‘safe and supportive environment, embracing and respect[ing] dif- ferences, developing strong trusting relation- ships, generating learning and getting tasks done effectively’ (Lingham et al, 2009). The 30 items scale measure interaction among team members on 10 behavioral attri- butes: engagement, active listening, individual- ity, solidarity, understanding, action, planning, power and inﬂuence, and openness. Board members responded to team- level questions on a 5-point Likert scale. As the instrument is a proprietary product of Interac- tive Science2, the raw data were provided to this organization and they in turn provided a single score representing the level of TIQ the per participant, and used to represent

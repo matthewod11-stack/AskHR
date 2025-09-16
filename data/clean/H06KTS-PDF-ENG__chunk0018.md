@@ -1,25 +1,19 @@
-## despite the otherwise unpleasant changes around him.
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 838f18f882ab5f1980a7e4751c81a475f62e5b6c
+title: H06KTS-PDF-ENG
+---
+## criteria like business goals, strategy, execution and people development.
 
-Another client, a VP at a Fortune 500 company, found himself suddenly
+Then he set up a cadence to meet with these colleagues to align on
 
-surrounded by several newly hired VPs and directors from other
+performance in each focus area and gather ongoing feedback as well
 
-competitors. Given his extensive company knowledge and experience,
+as explore ways to add value to their priorities. In just the ﬁrst month
 
-he committed to mentoring these new employees. He was aware of a
+of carrying out his re-onboarding plan, he reported that his colleagues
 
-recent study that showed that mentors are six times more likely to get
+were impressed with his initiative even started asking him for feedback.
 
-promoted to a bigger job, but in our coaching, we explored how much he
-
-was able to learn from the mentees themselves.
-
-Managing your career in today’s competitive and ever-changing
-
-workplace is tough, and even when you commit to staying with your
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The exercise also lifted his spirit, bringing him resilience and optimism

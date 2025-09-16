@@ -1,17 +1,33 @@
-# inspiration.)
+---
+source_path: H08NS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67c0f51a23dd04db2ce92f3d1bdac1b8a5fdb451
+title: H08NS4-PDF-ENG
+---
+# Seize Digital Opportunities
 
-. . .
+Just as we learn a lot from people we don’t know in person—such as
 
-It may feel challenging if you don’t have a mentor guiding your career
+by reading their biographies and observing the way they think and
 
-development on an ongoing basis. But micro-mentoring can be just as
+approach problems—we can also glean advice from thought leaders we
 
-beneﬁcial as cultivating a single mentor who—despite being able to
+admire through digital technologies. Ideas and stories they share in
 
-oﬀer more targeted advice based on your long-term connection—may
+their social media feeds may help spark useful questions or insights. If they’re doing an online oﬃce hours or Ask Me Anything session, you
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+might have an opportunity to engage with them directly—or view their
 
-4
+answers to questions posed to them.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+We’ve also found that AI technology, such as ChatGPT, can help you
+
+conceptualize how a person you admire might think through or respond
+
+to a challenge. For instance, “What are 10 ways MrBeast might think
+
+about how to stand out in a job interview?” (Of course, in using any
+
+generative AI technology, it’s important to double-check its assertions,
+
+but it can serve as a useful starting point for brainstorming and

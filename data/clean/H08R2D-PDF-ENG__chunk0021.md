@@ -1,13 +1,25 @@
-## HBR / Digital Article / Growth Isn’t the Only Way for Companies to Create Value
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bcac9a22fde412e8f1d5bbd87d1687e8b101c9de
+title: H08R2D-PDF-ENG
+---
+## thermal resistance, electrical insulation, and mechanical strength to
 
-- 3. No Place Like In-House: The Balance Sheet Play
+better serve its customers in sectors such as aerospace, semiconductors,
 
-When revenue growth is out of reach, balance sheet expansion oﬀers
+and electric vehicles, where components must operate reliably under
 
-another alternative to create value. Stable outperformers often grow
+extreme conditions. We found that the company’s superior products led
 
-their asset base through vertical integration to control a larger share of
+to an improved pricing power, doubling its margins over the 20-year
 
-the proﬁt pool and increase their value added. This approach also helps
+period, and achieving an annual TSR over 3% above the FTSE 100—
 
-them build a unique asset portfolio that strengthens their diﬀerentiated
+while not growing revenues in real terms.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

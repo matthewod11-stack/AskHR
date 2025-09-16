@@ -1,11 +1,9 @@
-## questions about each consultant’s performance and whether they would
+---
+source_path: H08PID-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9624fb97b46ac04287c6f5f96eb815118671cab
+title: H08PID-PDF-ENG
+---
+# HBR / Digital Article / Research: When Leaders Express Positivity Early On, Employee…
 
-like to continue to work with this consultant. Leaders were also asked to
-
-provide input on whether the consultant deserved a raise and/or bonus.
-
-We found that when leaders expressed a lot of early-term positivity,
-
-their employees performed better throughout the year, compared with
-
-all other leader expressions (for example those leaders who expressed
+performance reviews. These formal performance reviews asked leaders

@@ -1,5 +1,17 @@
-## direct and positive influence on organizational climate.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: fa807c02a9db1ce952e52c0f01f501a6e2242e1d
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# I
 
-HRM practices and employee engagement In this section, we discuss four core HRM practices that are likely to be important for promoting employee engagement: selection, socialization, performance management, and training. The focus is on these four practices because they are core HR functions that organization’s need to attend to irrespective of their particular HR strategic focus. Irrespective of whether an organization has, for example, a strategic focus on HPWS through self-managed teams or flexible work arrangements (see Jiang and Liu, 2015), or on engagement, they will nevertheless focus on selection, socialization, performance management, and training. Other researchers have focused on similar core HR practices (e.g. Shipton et al., 2006; Sun et al., 2007). As previously noted, although we discuss each of the four HR practices separately, it is important that they be considered as part of an integrated HR strategy and system (Gratton and Truss, 2003; Guest, 2014).
+d e d a o l n w o D
 
-Employee engagement and selection Contemporary HRM research and practice recognizes that high caliber job applicants are increasingly looking for job roles that include opportunities for challenge, growth and engagement (Collings and Mellahi, 2009; Harter and Blacksmith, 2010). Therefore,
+proposition therefore suggests that engagement is associated with individual, team and organizational performance and competitive advantage:
+
+P2. Organizations that create the conditions that support, enhance and sustain employee engagement will have higher levels of job, unit and organizational performance, and therefore competitive advantage.
+
+In terms of how a strategic focus on HRM systems creates competitive advantage, as previously noted, there are a number of relevant theoretical frameworks. For example, and consistent with Figure 1, Bowen and Ostroff (2004) explained that human resource management systems influence organizational climate (Bowen and Ostroff, 2004) because the implementation of a coherent, consistent and strategically focused suite of HRM policies, practices and procedures communicates to employees expectations about the skills, knowledge, motivations, attitudes, norms, values, and behaviours expected within their organization (Bowen and Ostroff, 2004). As a consequence “shared perceptions” emerge about the behaviours, values and norms that are important to an organization’s functioning. As such organizational climate provides an important upstream context for individual and organizational performance. Sparrow (2001) defined organizational climate as perceptions about a relatively stable set of value orientations of the organization as a whole, facets of organization and management style, espoused values and permitted behaviours, which influence the behaviour of organizational members with respect to organizational effectiveness. Furthermore, when employees experience a coherent system of engagement related policies, practices, and procedures, all aimed at optimizing individual, group and organizational effectiveness, the likelihood of focused effort towards the achievement of organizational goals is heightened (Macey and Schneider, 2008). In support of this claim, Takeuchi et al. (2009) showed in a multi-sample study that the influence of HRM practices, in the form of high-performance work systems, on employee attitudes was mediated by organizational climate. Thus, our third proposition is:
+
+P3. Human resource practices strategically focused on engagement will have a

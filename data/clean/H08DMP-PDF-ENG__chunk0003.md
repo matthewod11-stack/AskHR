@@ -1,9 +1,13 @@
-## importance of in-person connections, with former Google CEO Eric
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f9d0625fdfaea0d7832f3c99baa5841a6eea528
+title: H08DMP-PDF-ENG
+---
+# Westend61/Getty Images
 
-Schmidt even claiming, “Google decided that work-life balance and
+Amazon’s recent call for employees to return to the oﬃce (RTO) ﬁve
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+days a week is the latest example of high-proﬁle companies pulling
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+back from their remote-work policies. RTO advocates often cite the

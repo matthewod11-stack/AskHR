@@ -1,9 +1,13 @@
-# RK
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58c6b4a8820947d6873e3eac02eeb6eb766b5bd7
+title: H052W1-PDF-ENG
+---
+## HBR / Digital Article / How to Return to Work After Taking Parental Leave
 
-Rebecca Knight is a journalist who writes about all things related to the changing nature of careers and the workplace. Her essays and reported stories have been featured in The Boston Globe, Business Insider, The New York Times, BBC, and The Christian Science Monitor. She was shortlisted as a Reuters Institute Fellow at Oxford University in 2023. Earlier in her career, she spent a decade as an editor and reporter at the Financial Times in New York, London, and Boston.
+wanted to have a career. Her advice to others: “Don’t force yourself into
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+a bad decision.”
 
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This article was originally published online on August 2, 2019.

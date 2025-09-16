@@ -1,3 +1,9 @@
-# Management. Vol. 14. No. 3. pp 188-194.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 2248ea3fc9df506da244d4fde4ea3a282e8c81c5
+title: chapter_nine
+---
+# http://www.fons.org/library/journal.aspx
 
-Kennedy, I. (2001) Learning from Bristol: the Report of the Public Inquiry into Children’s Heart
+Kane-Urrabazo, C. (2006) Management’s role in shaping organizational culture. Journal of Nursing

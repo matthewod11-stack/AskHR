@@ -1,9 +1,11 @@
-# Speciﬁcally, when:
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df8903c2a9f6708626a9a5845e62aff4c3162d25
+title: H06X4I-PDF-ENG
+---
+# subjective design work.
 
-- 1. Insiders cannot be redeployed easily.
+Given the range of skills available on open platforms, there are a
 
-- 2. Outsiders are less expensive than hiring a new insider or paying
-
-overtime to existing ones.
-
-- 3. Highly specialized skills are needed and they are not available
+few situations where it makes particular sense to use open talent.

@@ -1,15 +1,13 @@
-# Management by Objectives
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 33a2353243198143ff50e1865f364b229d30e4b7
+title: document_resume
+---
+# Considerations in Selecting
 
-Although the comparison of results achieved against plans has always been used by managers, Management by Objetmv es (NIBO) was fast proposed by Peter Drucker in 1954.16 As a formal pe formance appraisal system, MBO consists of the following steps:I7
+The major advantage of BOS is that raters are forced to make a more complete appraisal of the individual's performance, rather than emphasizing only those items which they can recall at the time of the rating and are able to match with one of the scale anchors.
 
-- 1. Organizational goals are
+A final type of behavioral scale, which is less rigorous than BARS or BOS, is an expansion of the performance standards approach. This type of scale attempts to answer such questions as "How good is exceptional?" or "How bad is unsatisfactory?" The scale is constructed by considering task statements developed by job analysis and writing statements which describe levels of performance in each job dimension. The number of levels of performance depends on the number of scale points. The underly- ing assumption is that for each job dimension, all tasks in the dimension will be per- formed in the same general way. The rater selects the description which "best fits." An example of this approach for the dimension of instructional preparation is shown in Figure 3.11.
 
-established dining the planning process and
-
-commitment to these goals is established at all managerial levels.
-
-- 2. The key results areas of the job are identified. These are highly selective areas in which the subordinate must achieve an ac,:eptable level of performance to be successful.
-
-The superior and subordinate mutaally agree oa several objectives within key results areas that coincide with cm support °Igo:It/Atonal or departmental goals. Perfor- mance requirements and timetables are established and the subordinate is allocated the necessary resources.
-
-3
+Behaviorally based scales have several general advantages over other methods. Superiors and subordinates usually are involved in their development. The feedback provided is highly job-related, and performance appraisal sessions focus on behavior that contributes to successful performance. There are disadvantages to these methods. BARS in particular is extremely Lon,plex, requires sophisticated statistical analysis, and is time-consuming. The development procedures for these appr. asal instruments must be repeated for each job, which may not be cost-effective for .nose organizations that have a wide variety of jobs and have only a few individuals a each category.

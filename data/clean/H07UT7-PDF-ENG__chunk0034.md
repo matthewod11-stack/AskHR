@@ -1,17 +1,29 @@
-## HBR / Digital Article / Research: The Benefits of a Pet-Friendly Workplace
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de920e07705443435b79c66d749ad18f2027f013
+title: H07UT7-PDF-ENG
+---
+## member. Younger employees, who increasingly own pets but delay
 
-challenges of pet policies as you consider the shape of your in-person
+having children, may lobby to expand beneﬁts (e.g., negotiating a group rate for pet insurance). All may oﬀer organizations a competitive edge
 
-and hybrid workplaces going forward.
+but come at a cost.
 
-This article was originally published online on November 13, 2023.
+. . .
 
-Shawn X. Quan is a doctoral student in management at the University of Washington’s Foster School of Business. Her research focuses on how nonwork factors, including social class and extracurricular activities, impact employee’s work. Her four-legged canine companion is named Popcorn.
+A diverse and increasing number of workplaces are considering
 
-Kira Schabram is an assistant professor at the University of Washington’s Foster School of Business and the Evert McCabe Endowed Fellow in Private Enterprise. She studies ways to maximize employee sustainability.
+welcoming companion animals. The majority of employees, whether
+
+pet owners or not, are on board and seem to beneﬁt from enhanced
+
+workplace culture and quality of life. A minority, however, have
+
+reasonable concerns. So, consider all the documented beneﬁts and
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

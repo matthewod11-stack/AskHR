@@ -1,11 +1,33 @@
-## with the advantage of grateful franchisees, loyal customers, a strong
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f87320d3f8cffb313ce87e48d1f887ded7dd9602
+title: R2502C-PDF-ENG
+---
+## than struggle against unfavorable trends.
 
-innovation department, and weakened competitors, SEB was better
+When the Covid-19 pandemic hit, in early 2020, everything changed
 
-positioned than ever to grow and gain market share.
+for ﬁtness centers. Many went out of business. Runyon and his team
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+recognized that they were responsible for a global network of small-
 
-14
+business owners (franchisees) who lacked the balance sheets or the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+liquidity to survive such a crisis. So they sprang into action, helping
+
+franchisees close down responsibly, negotiating with landlords and
+
+banks to reduce or delay payments, forgoing all royalty payments
+
+to SEB, and adapting to provide remote services. They created an
+
+innovation department that built a reservation system to limit the
+
+number of people working out at one time and developed virtual
+
+coaching programs.
+
+As the crisis faded, SEB helped franchisees reopen responsibly and
+
+abide by the regulatory rules of their respective countries. Then,

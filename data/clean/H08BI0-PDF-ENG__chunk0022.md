@@ -1,11 +1,13 @@
-# mothers, and fathers). For example:
+---
+source_path: H08BI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5afcdc2f2612ade604e71475e23f83341d33de6d
+title: H08BI0-PDF-ENG
+---
+# What About Non-Birthing Parents?
 
-- Non-birthing parents may still beneﬁt from help navigating HR
+Although our study focused on birthing mothers returning to work, we
 
-policies, particularly because family leave policies may be more
+believe that several of these behaviors can be helpful for non-birthing
 
-ambiguous for workers who are not birthing parents.
-
-- Allowing non-birthing parents to work ﬂexible hours or work
-
-from home may enable them to similarly attend to childcare
+parents returning to work, too (e.g., adoptive parents, non-birthing

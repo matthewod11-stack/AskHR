@@ -1,13 +1,25 @@
-## research, for example—is not typically a successful path to growth.
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a6a5255b7f573e19824fe019f89ecd7298b458c
+title: S24022-PDF-ENG
+---
+## Huon Pine (10,500 years old; Mount Read, Tasmania) Rachel Sussman
 
-Companies that build processes to engage customers not only learn
+Adobe’s system of customer engagement is dynamically linked to the
 
-more about their users but also create the type of value that drives real
+experience of using the ﬁrm’s software. Many Adobe products, such as
 
-loyalty and translates directly into growth.
+Photoshop, oﬀer tremendous functionality, but their complexity can be
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+daunting to users. So Adobe has embedded technology that provides
 
-8
+instant feedback and tips for users according to what problem they are
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+trying to solve. At the same time, Adobe learns where customers are
+
+spending their time, what unique problems they are bringing to the
+
+software, and what capabilities they may need in the future to solve
+
+them. Our study showed that simply identifying insights—using market

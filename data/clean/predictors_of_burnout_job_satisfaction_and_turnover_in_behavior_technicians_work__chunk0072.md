@@ -1,5 +1,7 @@
-# n/a
-
-Not found to be correlated with intention to turnover
-
-(Kazemi et al. 2015) or burnout (Gibson et al. 2009; Griffith et al. 2014; Hurt et al. 2013).
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 83f7fa12410aa8a79e2ac15436ac95eec70b140b
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+## Demographic variables (age, education, experience)

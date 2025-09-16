@@ -1,15 +1,17 @@
-## simultaneous: members would all vote at the same time, and only after
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5771b05945cf5196bad889f2583a5f40c277e736
+title: H08SUP-PDF-ENG
+---
+# the product.
 
-voting closed would they go around to reveal their votes.
+In 2007, the FDA made a seemingly minor procedural change to the
 
-The FDA’s stated goal with the change was to mitigate the possibility
+way its AdComs operated. Prior to the change, post-discussion voting
 
-that members were “herding.” When voting happens sequentially, early
+was typically conducted in a sequential manner: each committee
 
-votes can initiate a bandwagon eﬀect and unduly inﬂuence voters later
+member would visibly and audibly cast their vote and explain their
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+position in turn, one after the other. After the change, voting was to be

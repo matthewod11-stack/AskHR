@@ -1,9 +1,7 @@
-# Institutions
-
-Partnerships can help close the skill gap. For example, AI4ALL oﬀers
-
-hands-on experience in AI tools to a wide cross-section of users,
-
-Charity Excellence provides free AI tools for nonproﬁts, and the ITU’s
-
-AI Skills Coalition targets similar goals. Large AI producers also have
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42c7c084b4ac3e9cffbac3665d02292531e41703
+title: H08PLG-PDF-ENG
+---
+# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality

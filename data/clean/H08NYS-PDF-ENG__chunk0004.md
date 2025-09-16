@@ -1,7 +1,17 @@
-## from team members and supervisors over a prolonged period and across
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e46653e218a432cf8a85f06d5c70c98435404cd
+title: H08NYS-PDF-ENG
+---
+## Online labor market platforms like Fiverr, Handy, Uber, and Upwork
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+have grown signiﬁcantly since the late 1990s, radically transforming
 
-1
+the economy and the management practices used to support gig work.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+One major change introduced by these platforms is their reliance
+
+on customer ratings to assess worker performance. Unlike traditional
+
+organizations, where performance evaluations typically involve input

@@ -1,21 +1,15 @@
-## underutilized, undervalued, underinformed, and in need of support
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e869484e828f67dadb7daf0b8e685e5254c547c1
+title: H08ON1-PDF-ENG
+---
+## across diﬀerent industries and sectors and in diﬀerent geographic
 
-and guidance to navigate tangible and intangible elements of the
+locations. Our work facilitating M&As and change management with
 
-integration. They often felt voiceless and struggled to adapt throughout
+a variety of ﬁrms over the years also supports our ﬁndings and the
 
-the acquisition, integration process, and beyond. This ambiguity creates
+guidance we give here.
 
-feelings of overwhelm and stress. One acquired employee told us that
-
-the acquisition news “felt like someone in her family had died.” This
-
-matches our own observations of the ﬁrms we’ve worked with, where
-
-we’ve seen that these sentiments are not only a common employee
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+We found that, on the whole, acquired employees generally felt

@@ -1,11 +1,7 @@
-# A Textbook of Industrial Psychology
-
-are uncommon among your local labour force. You may do this by placing advertisements in other locations or consulting with employment specialists outside of your local area. In general, the geographic recruitment area is bigger the more technically specialised the job.
-
-There are some jobs that are ideal for internships. An internship is a situation in which a student is employed briefly by an organisation without any commitment on the part of either the organisation or the student to make the employment permanent. The student can learn about the company and try out the work during the internship, which can be a summer or part-time job while they are still in school, before committing to a career. Additionally, it gives the company the chance to interview potential new hires before extending an offer of employment.
-
-Network recruiting
-
-The expansion of internet recruiting has been the most important development in hiring procedures. Many businesses list job openings on their websites or on niche job boards like Monster.com and Career Builder, and others only accept online applications, completely removing the need for paper ones. The use of internet recruiting has benefits. It is less expensive than conventional advertising, at start. Posting an advertisement is simple and quick, answers come in quickly and in greater number, and a wider selection of candidates can be produced. Online applications screening and some selection tests administration can also be done, greatly lowering the amount of time needed for human resources to create a pool of competent candidates. The ease of submission makes the online version quite popular with job seekers as well, who can send out dozens of resumes with just a few mouse clicks. However, this may be a challenge for HR. Processes must be in place to weed out applicants who don't match the basic requirements for the position.
-
-Due to how simple it is to apply for a job online, many people may submit applications, which forces HR professionals to spend time weeding through applications to identify the few who are truly eligible for the position.There is no one optimal way to find job applicants; there are as many distinct recruitment strategies as there are organizations. Depending on the type of post to be filled, the amount of time required to do so, and the size of their budget for recruiting, the majority of organizations employ a range of techniques. What recruiting strategies are most effective in your circumstance will be determined by your organization's past success?
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: a2239434edce46233e4fd0d197946a532e1c1dec
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# 14

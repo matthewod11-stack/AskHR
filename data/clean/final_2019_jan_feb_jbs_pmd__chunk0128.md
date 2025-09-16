@@ -1,7 +1,9 @@
-## Key Words: Blockchain, Government, Permissioned, Public, Trust
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 326f76c04c783176a5534113e5e3eaeae8222924
+title: final_2019_jan_feb_jbs_pmd
+---
+# Abstract
 
-- 1. Introduction According to the Pew research centre Public trust in the government is at a historic low, where only 17% of the Americans say that they can trust the government. Blockchain with its key traits of decentralization, immutability and Cryptographic security helps to bring transparency and auditabili ty to applications, which is a key factor for Trust enhancement by the public. Due to an increasing interest by Business and IT Firms, Blockchain has multiple variants to adapt to a vast variety of applications. This paper approaches Blockchain Applications for Government through the lens of Trust and Ownership. Blockchain is currently in use in Deepika Sachdev* VP Delivery Knowesis Pte Ltd, Singapore Dr. Deepankar Chakrabarti** Professor, Decision Sciences, School of Business, University of Petroleum & Energy Studies, Dehradun Dr. Ankur Mittal*** Associate Professor, School of Business, University of Petroleum & Energy Studies, Dehradun
-
-Government Applications for multiple use cases including Land Reforms, Defence, Payments and a Registries. The objective of this paper is to create Blockchain Taxonomy with the goal of helping future Government Applications make optimized decisions on the right choice of Blockchain Framework based on Functional Needs. The methodology used to create this Framework starts with creating a Blockchain Framework based on Business, Technology and Trust Requirements. This is followed by an Evaluation of Application Use Cases in Government based on varying Trust and Business Requirements. This is followed by a thematic evaluation of the Use Cases to create a Taxonomy for Mapping the Optimized Blockchain Framework based on Application Requirements for Government Sector. This framework is finally verified by applying to existing Government Use Cases.
-
-- 2. Theoretical Background Blockchain Functional Pillars The key Blockchain characteristics important for a Government application are:
+Blockchain Based Applications are becoming increasingly popular in the Government Sector due to increased needs of Trust and Transparency. Due to its Decentralized architecture, strong encryption algorithms and immutable timestamping it is being used in diverse applications including Health Care, Education, Voting and Smart Governance. Block chain has many variants based on Ownership, Consensus Protocols and Tokenization Str ategy. This paper analyses Blockchain Taxonomy based on Ownership and Access rights. It th en reviews a multitude of Blockchain based Government applications based on their Ownership characteristics and needs for anonymity and Read as well as Write privileges. Based on the classification framework, the final objective is to create and verify the Blockchain Framework Mapping based on the Applications Business and Security requirements.

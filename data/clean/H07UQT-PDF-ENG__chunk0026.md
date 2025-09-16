@@ -1,27 +1,19 @@
-## with some of these people a second and third time, with discussions
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b19b95fbd147bc86372492bfb0ba1d079887cfbd
+title: H07UQT-PDF-ENG
+---
+# and fewer casual ones.)
 
-becoming more speciﬁc and detailed. During these meetings, the new
+The second month, listen, begins on the new CEO’s oﬃcial start date.
 
-CEO should only ask questions and listen. The goal is to determine
+During this month, the outgoing CEO should meet weekly with the new
 
-how things work, why things are done the way they are, and to absorb
+CEO, who will spend much of their time in a series of meetings with key
 
-the answers without passing judgement. (Making snap judgements too
+executive team members. At ﬁrst, these meetings should be high-level,
 
-quickly can undermine legitimacy.) To manage expectations, the people
+with the aim not only of sharing information, but also letting the CEO
 
-meeting with the new CEO should be prepared for this approach so they
-
-don’t expect the CEO to make decisions at this stage.
-
-The listen month is also a time for the new CEO to become more
-
-familiar with how the executive team has typically interacted with
-
-family shareholders and family employees. Each family business has
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+begin to build relationships. At the 30- day mark, the new CEO will meet

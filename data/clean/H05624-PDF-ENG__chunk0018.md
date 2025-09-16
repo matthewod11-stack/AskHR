@@ -1,13 +1,31 @@
-## HBR / The Big Idea / Every Employee Should Have Access to Paid Parental Leave
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 025c23cf5edaa1aaf88fe3aad32f5da4b200349e
+title: H05624-PDF-ENG
+---
+# society.
 
-private sector — entrepreneurs, CEOs — as well as lawmakers on the left
+Why are you also advocating for public policy change?
 
-and the right who also want this to happen.
+America is the last developed country to have this. The fact that a
 
-Which lawmakers are you partnering with and what speciﬁc
+quarter of women in this country go back to work two weeks after giving
 
-legislation would you like to see passed?
+birth because there is no policy in place to guarantee they can spend
 
-My team and I are going to DC in October, and we’re still ﬁnalizing
+time with their newborns is unconscionable. This includes women who
 
-the folks we’ll meet with, but there are senators and congressional
+had C-sections, who still have semi-open wounds. How are we — as a
+
+nation that believes in the importance of family values — okay with
+
+that? But I’ve been encouraged by the organizations ﬁghting for it, and
+
+the data behind it, and the fact that there are so many voices from the
+
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

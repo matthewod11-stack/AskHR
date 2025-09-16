@@ -1,11 +1,9 @@
-# Cognitive Ability
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0ab97513727a5d51201d52d32c2641dc548ea58b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Predicting Performance Using Applicant Ability
 
-Cognitive ability includes such dimensions as oral and written comprehen- sion, oral and written expression, numerical facility, originality, memorization, reasoning (mathematical, deductive, inductive), and general learning. Cognitive ability is important for professional, clerical, and supervisory jobs, including such occupations as supervisor, accountant, and secretary.
-
-170
-
-chapter 
-
-Ability tests are good predictors of performance.
-
-s e g a m
+Ability tests tap the extent to which an applicant can learn or perform a job-related skill. Ability tests are used primarily for occupations in which applicants are not expected to know how to perform the job at the time of hire. Instead, new employees will be taught the necessary job skills and knowledge. Examples of such occupations include police officers, firefighters, and military personnel. For example, cognitive ability would enable a police cadet to obtain knowledge of search-and-seizure laws; psychomotor ability (dexterity) would enable a secretary to type fast or an assembler to rapidly assemble electronic components; perceptual ability would enable a mail clerk to distinguish zip codes or a textile worker to distinguish colors; and physical ability would enable a firefighter to learn how to climb a ladder or carry a victim from a burning building.

@@ -1,37 +1,27 @@
-# HBR / Digital Article / How One Person Can Change the Conscience of an Organization
+---
+source_path: H05CAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73b00ef5bcecfffe31a0f2ef023faf659ce63be9
+title: H05CAR-PDF-ENG
+---
+## co-authored over 100 scholarly research publications. The laboratory
 
-of one. In one example, a woman in a Fortune 50 company shared her
+continues to provide independent researchers access to GSK facilities,
 
-experience in transforming her unit in Brazil. After being promoted to
+expertise and resources to advance the understanding of diseases of the
 
-a senior position at headquarters, she saw the need for change, but
+developing world.
 
-the politics were more intense, and her previous experience seemed
+Yamada was one of dozens of executives we spoke to over the last
 
-irrelevant. With unwavering focus, she pressed forward and succeeded.
+several years to learn how one can succeed in making positive change in
 
-In reﬂecting on her success, she noted that challenging the status quo
+large organizations. In these interviews, we heard accounts that reﬂect
 
-is a skill that one can develop, and it applies at every level. In another
+the mindsets Yamada described. In nearly every case we saw the power
 
-case, a woman in a Fortune 500 company was promoted to oversee a
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-large but failing business line. The eight people who preceded her were
+5
 
-all ﬁred. She spent months examining the organization and formulated
-
-a strategic plan. It required serious work at the top. Her boss said no.
-
-Using all her acquired skills and courage, she led her boss until he was
-
-ready to change. The organization turned around.
-
-These stories remind us that while corporate transformations are
-
-almost universally assumed to be top-down processes, in reality, middle
-
-managers, and ﬁrst-line supervisors can make signiﬁcant change when
-
-they have the right mindset.
-
-This article was originally published online on December 27, 2019.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

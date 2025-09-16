@@ -1,9 +1,11 @@
-## IMPACT theory A theory of leadership that states
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 744e1add3fc7d4e919a6757bade272b7a738e9cf
+title: industrial_organizational_psychology_an_applied_approach
+---
+# to a research question.
 
-that there are six styles of leadership (informational, magnetic, position, affiliation, coercive, and tactical) and that each style will be effective only in one of six organizational climates.
+Identification The need to associate ourselves with the image projected by other people, groups, or objects.
 
-Impoverished leadership A style of leadership
-
-in which the leader is concerned with neither productivity nor the well-being of employees. In-basket technique An assessment center exercise designed to simulate the types of information that daily come across a manager’s or employee’s desk in order to observe the applicant’s responses to such information.
-
-Inclusive listening The listening style of a person who cares about only the main points of a communication.
+Ignorance An organizational climate in which important information is not available.

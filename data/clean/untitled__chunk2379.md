@@ -1,3 +1,9 @@
-# Practice Characteristics
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 26acf200bd1f5ac5f873ee887757bc4f23fc822c
+title: untitled
+---
+# Credentialing Development
 
-Concern for the appropriate roles and functions of school psychologists was a dominant theme in the literature of the Thoroughbred Years. Throughout the twentieth century, school psychology practitioners expressed concern at being
+By the mid-1970s, all states had credentialing for school psy- chologists from their respective state departments of educa- tion (SDE) and/or state boards of examiners in psychology (SBEP). The two credentialing structures had standards that differed along lines of doctoral and nondoctoral preparation, titles, and practice settings. The differences created several state-level skirmishes over practice privileges in nonschool settings. Some states (e.g., California, Connecticut, Illinois, Ohio) achieved nonschool practice privileges for nondoctoral practitioners as an outcome of state-level legislative skir- mishes. Nevertheless, by the end of the period, credentialing for school-based practice was almost entirely regulated by SDEs with nondoctoral degree training requirements, whereas nonschool practice was almost entirely regulated by SBEPs with doctoral degree requirements. Nonpractice recognition credentials continued to be available from the APA in the form of the diploma from the American Board of School Psychology (ABSP) and from the NASP in the form of National Certiﬁcation in School Psychology (NCSP).

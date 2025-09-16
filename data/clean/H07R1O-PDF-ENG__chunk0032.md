@@ -1,13 +1,11 @@
-## the personiﬁcation and embodiment of the organization. Even though
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f996f5d21f89a563c3b48322fa8c2b709ce2f61e
+title: H07R1O-PDF-ENG
+---
+# Recognize It’s Not Personal.
 
-the vitriol may feel personal and unfair, leaders must remember that
+When people are upset, they prefer to be angry at someone rather than
 
-people are angry or distressed with the company and not at them
-
-as individuals. While a CEO has no choice but to take responsibility
-
-on behalf of the organization, they must avoid owning criticism too
-
-personally. These are times when CEOs can beneﬁt from personal
-
-habits and disciplines, like exercise, meditation, or hobbies, that are
+something. Corporations are abstract and faceless, so the CEO becomes

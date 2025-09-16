@@ -1,19 +1,31 @@
-# them.
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ebb4f8afc420002135ab50348ad492849c45ce3
+title: H08G4O-PDF-ENG
+---
+## HBR / Digital Article / The Strengths and Weaknesses that Set Founders Apart
 
-- 4. They live and breathe the business, bringing drive and resilience.
+Conversely, more than two-thirds of non-founder CEOs struggled to
 
-Seventy-six percent of founder CEOs in our dataset exhibited a level
+gain broader followership, often due to overextending their teams,
 
-of drive and resilience that goes beyond simply working hard. One
+pushing too hard too fast.
 
-board member shared, “The beneﬁt of founders is that they are
+- 3. Many lead with “customer obsession.”
 
-entrepreneurial — they care deeply. They act like owners and work
+Three-quarters of the founder CEOs studied demonstrated a strong
 
-super hard. That’s what they’ve had to do to succeed.”
+aptitude for understanding and building products around their
 
-For non-founder CEOs, their hard-charging desire to deliver, a strength
+customers, especially given their deep domain and industry expertise.
 
-shared among 60% of those in the dataset, stemmed from a history
+One investor noted, “Founder CEOs have an innate ability to ﬁnd
 
-of consistently demonstrating credibility through action-oriented
+product-market ﬁt, even in uncharted territories. They have a strong
+
+sense of the product and know what the customer wants.”
+
+In contrast, 90% of non-founder CEOs relied on a generalist GM
+
+playbook. Deep specialization appeared as a gap for more than a third of

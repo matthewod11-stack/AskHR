@@ -1,33 +1,23 @@
-## HBR / The Big Idea / Long Covid at Work: A Manager’s Guide
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 557a47cf5b60441e5b0d53b58bca52d2d9b7f7e3
+title: H087FX-PDF-ENG
+---
+## worsening of symptoms after physical or cognitive exertion), cognitive
 
-In January 2022 Katie was one of the ﬁrst researchers to link long Covid
+impairment (such as problems with memory, focus, or comprehension),
 
-disability with a worsening labor shortage. Later that year she and
+pain, and neurological and sleep issues. Long Covid disproportionately
 
-David Cutler, a professor of applied economics at Harvard University,
+impacts women — about 63% of patients are female. There are no
 
-estimated that long Covid costs the U.S. economy between $160 billion
+oﬃcial treatments for the illness; while some people see their symptoms
 
-and $200 billion per year in lost wages and increased medical costs. In
+resolve, others remain chronically ill.
 
-May 2023 the Brookings Institution reported that 700,000 people were
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-absent from the U.S. labor force due to the illness. Some of these people
+4
 
-may be too sick to work, even with accommodations.
-
-Yet 65% of adults with the illness are still working — in some cases for
-
-fewer hours, or while struggling with tasks that used to be easy for them,
-
-or both. Even if they don’t realize it, many employers have a long Covid
-
-problem, making it more challenging to hire and retain employees and
-
-to support their productivity.
-
-While the focus of this article is long Covid, the recommendations here
-
-can help organizations manage the growing number of people with
-
-complex chronic illnesses. These include not only ones associated with
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

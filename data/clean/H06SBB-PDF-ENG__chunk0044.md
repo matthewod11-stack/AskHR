@@ -1,39 +1,29 @@
-# connection.
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb7a6d9490c1f138d661e06371df498d7b15433a
+title: H06SBB-PDF-ENG
+---
+# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
 
-ADI IGNATIUS: I’ll put you on the spot again, and this is impossible
+And then we need to think about sound because we’re all bouncing off
 
-of course, but what’s your guess: What will the office of the future
+each other in these spaces, and especially when we’re using technology,
 
-look like? Even 10 years from now, extrapolating what’s happening
+our volume might end up being a bit different. And then there’s a
 
-now and what we know about where technology is, how technology is
+learning that we had from one of our offices where, when we have
 
-developing, what do you imagine the workplace and how we interact
+people in rooms working, a lot of times, well, our doors were opaque,
 
-will be like?
+and even if there was a glass that people could see into, it meant
 
-SANDY SPEICHER: I’m going to hold my pluralism here and say it’s workplaces. I do think we’re going to have many, many different
+that people didn’t feel as comfortable intruding, or it felt like you
 
-environments that are designed to be fit for purpose and flexible. So that
+were intruding if you wanted to walk in or say hi to somebody. So a
 
-means that the workplace might look like this, what we’re doing right
+couple things in there, like how technology integrates, how we think
 
-now. The workplace might look like offices that we’ve had before, and
+about sound, but actually the solid doors, I think for our environment,
 
-the workplace might look like what it looks like for us to move around
-
-with our laptop and be connected with each other when we need to be.
-
-And I think that those spaces will become platforms of real intention.
-
-I think we’ll see that the shared spaces where we really need to come
-
-together will be prominent in the workplace of the future. Café’s,
-
-classrooms, the maker spaces like I mentioned. And so I think that we’re
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-16
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+didn’t work as well because it created a barrier to some of that informal

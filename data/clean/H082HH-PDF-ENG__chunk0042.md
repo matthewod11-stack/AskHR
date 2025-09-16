@@ -1,9 +1,9 @@
-# same idea.
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c75f70148c1f645faf6d29797513c988259ea474
+title: H082HH-PDF-ENG
+---
+## to the strengths of the ﬁrm — whether data, customer relationships, or
 
-The ﬁve-step approach we have seen can be used by any business
-
-to link its strategy process to its innovation process — from
-
-greenlighting to innovation metrics and resource allocation. By doing
-
-so, every established business can leverage its own strengths to deliver
+supply chains — that will enable it to outcompete others attempting the

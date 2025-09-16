@@ -1,7 +1,21 @@
-## on important opportunities to envision, and design, possible futures.
+---
+source_path: H0734V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf401d3ca3999f7d78312ab7313a46b5fcf49b36
+title: H0734V-PDF-ENG
+---
+## HBR Staff/Henrik Sorensen/Herba Mykhailo/Getty Images
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Trying to predict what the future will look like is doomed to fail. Yet this
 
-1
+is what most executives do when they strategize. They — we — do this
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+because we have been trained and educated to use trends and statistics
+
+to predict what is likely to happen and prepare accordingly. As a result,
+
+companies struggle to react to changes in their environments when
+
+they should be shaping them proactively. This is an issue for executives
+
+around the globe whose strategizing, anchored in the past, misses out

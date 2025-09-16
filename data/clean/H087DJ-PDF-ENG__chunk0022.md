@@ -1,11 +1,7 @@
-## the signs and symptoms of depression, anxiety, or trauma, the common
-
-response from people of color is, “This has a name? I thought it was the
-
-way I was supposed to feel.” That’s usually followed by the question,
-
-“How do I know if I need help?”
-
-The following questions are a good way to assess your mental health:
-
-- Is the way I am feeling or the thoughts I am experiencing interfering in
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ec154af4a54b09d79f2929ba9ad9faf519e151d
+title: H087DJ-PDF-ENG
+---
+## HBR / Digital Article / Supporting the Mental Health of Employees of Color

@@ -1,21 +1,39 @@
-# with or without connectivity, balance between on-device and cloud processing for both
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: a155342881fb21795c2b7f49f44912e65d294676
+title: agents_companion
+---
+# and relevance.
 
-safety and user experience, and seamlessly coordinate specialized capabilities across
+- Orchestration layer: The orchestration layer is a cyclical process that dictates how the
 
-navigation, media control, messaging, and vehicle systems. Through this automotive lens,
+agent assimilates information, engages in internal reasoning, and leverages that reasoning
 
-we'll see how different coordination patterns -- hierarchical, collaborative, and peer-to-
+to inform its subsequent action or decision. This layer is responsible for maintaining
 
-peer -- come together to create robust, responsive user experiences in environments with
+memory, state, reasoning, and planning. It employs prompt engineering frameworks to
 
-significant constraints. This case study illustrates the practical application of multi-agent
+steer reasoning and planning, facilitating more effective interaction with the environment
 
-systems that businesses across industries can adapt to their specific domains.
+and task completion. Reasoning techniques such as ReAct, Chain-of-Thought (CoT), and
 
-Anyone who has built with gen AI quickly realizes it’s easy to get from an idea to a proof-of-
+Tree-of-Thoughts (ToT) can be applied within this layer.
 
-concept, but it can be quite difficult to ensure high quality results and get to production - gen
+Building on these foundational concepts, this companion paper is designed for developers
 
-AI agents are no exception. Quality and Reliability are the most cited concerns for deploying
+and serves as a "102" guide to more advanced topics. It offers in-depth explorations of agent
 
-to production, and the “AgentOps” process is a solution to optimize agent building.
+evaluation methodologies and practical applications of Google agent products for enhancing
+
+agent capabilities in solving complex, real-world problems.
+
+7
+
+While exploring these theoretical concepts, we'll examine how they manifest in real-world
+
+implementations, with a particular focus on automotive AI as a compelling case study. The
+
+automotive domain exemplifies the challenges and opportunities of multi-agent architectures
+
+in production environments. Modern vehicles demand conversational interfaces that function

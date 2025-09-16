@@ -1,15 +1,25 @@
-## response to these diﬀerent sorts of attention.
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 0968dec76c07c30c2d9bc59dded2e9fa544ccfbb
+title: The Feedback Fallacy
+---
+## learning, whereas attention to our weaknesses smothers it. Neurological
 
-In the brains of the students asked about what they needed to correct,
+science also shows what happens to us when other people focus on
 
-the sympathetic nervous system lit up. This is the “ﬁght or ﬂight”
+what’s working within us instead of remediating what isn’t. In one
 
-system, which mutes the other parts of the brain and allows us to
+experiment scientists split students into two groups. To one group they
 
-focus only on the information most necessary to survive. Your brain
+gave positive coaching, asking the students about their dreams and how
 
-responds to critical feedback as a threat and narrows its activity.
+they’d go about achieving them. The scientists probed the other group
 
-The strong negative emotion produced by criticism “inhibits access
+about homework and what the students thought they were doing wrong
 
-to existing neural circuits and invokes cognitive, emotional, and
+and needed to ﬁx. While those conversations were happening, the
+
+scientists hooked each student up to a functional magnetic resonance
+
+imaging machine to see which parts of the brain were most activated in

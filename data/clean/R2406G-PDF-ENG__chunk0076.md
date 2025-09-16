@@ -1,45 +1,55 @@
-## HBR / Magazine Article / Personalization Done Right
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae0cee0ff141baedb1cac5127ebe772da50835c4
+title: R2406G-PDF-ENG
+---
+## Smart Companies Know About Integrating AI,” HBR, July–August 2023.)
 
-For several decades companies have been gradually improving
+They recognize that not everything has to be built internally, and the
 
-their ﬁnancial performance by tapping the range of capabilities
+integration of the parts is just as important as the selection of the right
 
-that can power personalization. We are now at a tipping point:
+components. In our experience, personalization can be largely self-
 
-Brand-diﬀerentiating personalization is not only possible but will be
+funding, even in the initial years, when the right trade-oﬀs are made.
 
-essential for competitive success. With the availability of new AI
+As the teams deliver concrete business value, larger investments can be
 
-tools, a company’s ability to embed personalization capabilities in its
+funded and the partnership between ﬁnance and a personalization team
 
-operations has increased dramatically.
+becomes even more important to ensure that a portion of the gains are
 
-As the Personalization Index shows, there is a marked diﬀerence
+regularly invested back into personalization eﬀorts.
 
-between the leaders—who are reshaping their value propositions and
+Compete on speed. Ultimately, personalization depends on the speed
 
-go-to-market approaches through personalization—and those who are
+and scale of learning. Hence every organization should ask itself
 
-just using basic tech tools to bombard prospects with impersonal
+how teams could rethink processes to learn 10 times as fast. Many
 
-messages. Tomorrow’s winners are already using AI to unlock
+organizations are still working in eight- to 12-week campaign cycles.
 
-personalization’s potential, and they are building new sustainable
+Three to ﬁve days is possible in every industry. Even companies
 
-advantages along the way. The time for delivering growth with AI-
+that have cut their cycles down to days have a hard time taking the
 
-enabled personalization is now.
+learnings forward quickly and enhancing the next customer interaction.
 
-Mark Abraham and David C. Edelman are the coauthors of Personalized: Customer Strategy in the Age of AI (Harvard Business Review Press, 2024), from which this article is adapted.
+Automation of speciﬁc areas (enhancing content, for example, or
 
-Buy it here
+adjusting targeting and data science) can give teams rapid optimization
 
-A version of this article appeared in the November–December 2024 issue of Harvard Business Review.
+tactics to improve KPIs meaningfully every week. On an annual basis,
 
-Mark Abraham is a managing director and a senior partner at Boston Consulting Group. He is also the co-author of Personalized: Customer Strategy in the Age of AI.
+measuring how far you have progressed on the Personalization Index is
+
+a great way to hold the organization accountable.
+
+. . .
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-20
+19
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,7 @@
-## Mind Design and the Architectures of Cognition
-
-Ironically, the ﬁrst application of the computer conception of mind arose not in psychology but in computer science, when Alan Turing (1950) proposed that computer programs might emulate human intelligence. Turing put forward no new analysis of cognition but provided a now famous test by which computer intelligence might be recognized. A person interacts as in a chat room with two entities, one of which is a human being and the other of which is a computer program. Turing said that the program would have to be called intel- ligent when the person could not tell if his or her conver- sational partner was human or computer. As yet, no program has passed the Turing test in the form Turing originally suggested.
-
-Obviously, constructing artiﬁcial intelligences has great practical value. For cognitive psychology, the value of mind design (Haugeland, 1981, 1985) is that it forces theorists to think deeply and precisely about the requirements for intelli- gent cognition. In an inﬂuential book, Marr (1982) speciﬁed three hierarchically arranged levels at which computational analysis takes place. In the case of artiﬁcial intelligence, the levels deﬁne the job of making a mind, while in the case of psychology—whichstudiesanalreadyevolvedintelligence— they deﬁne three levels of reverse-engineering psychological theory. The levels are most readily described from the stand- point of artiﬁcial intelligence.
-
-- The cognitive level speciﬁes the task the AI system is to perform.
-
-- The algorithm level speciﬁes the computer programming that effects the task.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 48aa4f9e5a99c87b72310e1c2678c0cff36b4c71
+title: untitled
+---
+## The Fruits of Computation: Cognitive Science

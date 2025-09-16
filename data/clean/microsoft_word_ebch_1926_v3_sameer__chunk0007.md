@@ -1,5 +1,7 @@
-# By Virender Kumar, Hemal Th akker
-
-Th is edition published by Dominant Publishers And Distributors (P) Ltd 4378/4-B, Murarilal Street, Ansari Road, Daryaganj, New Delhi-110002.
-
-ISBN: 978-93-80642-38-3
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: bf2f09820d8b3e698e85ff368c89d9694e06d724
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# A TEXTBOOK OF INDUSTRIAL PSYCHOLOGY

@@ -1,7 +1,9 @@
-## The Colegio of Venezuelan Psychologists was founded.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a03961239e4d2712ccdc726758c95d621fda243a
+title: untitled
+---
+# Events
 
-The Max Planck Institute for Human Development and Education was founded in Berlin.
-
-The Young Psychologists Program was organized for the ﬁrst time, in conjunction with the XVII International Congress of Psychology in Washington, DC.
-
-The University of Nigeria established a department of psychology in Nsukka.
+The American Psychological Association sent a group of senior psychologists to visit laboratories in the Soviet Union.

@@ -1,5 +1,15 @@
-# 98
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 56b53210488a0c298411155ffb4850a3c7c62d5e
+title: file_1
+---
+# Limitations and future research
 
-Individuals’ perceptions of gender inequality can cause stress to repeated cases of gender discrimination and worry that one can be a victim of gender inequality. Together, these consequences call for a more longitudinal empirical research that may identify concrete actions that should be taken into force in order to eradicate both the perceived gender inequality and the actual one.
+Despite its contribution, the present study has a number of limitations, which may lead to possible future directions of research. Firstly, the studied individual factors explained only 13% of the variance in individuals’ perceptions of overall gender inequality. Lacking longitudinal data, the direction of causality among the variables could not be determined. Further theoretical investigations are thus needed to reveal other factors that have an impact on individuals’ perceptions.
 
-To conclude, I would like to mention that more studies should investigate the issue of individuals’ perceptions of overall gender inequality because a broader analysis of individuals’ perceptions and opinions may enlarge our understanding of the reasons and peculiarities of gender inequality. This may, in turn, provide an alternative solution for eliminating gender inequality not only in Finland but elsewhere.
+Secondly, the study is based on the Finnish Gender Equality Barometer 2008, which was produced by Statistics of Finland. This data set is an extremely rich and valuable resource, however, it has some methodological limitations such as a lack of validated scales and a lack of theoretically and empirically approved constructs, which may explain rather low Cronbach alpha of the dependent variable.
+
+In addition, since the study was conducted only in Finland, it might not be generalized to other societies. The concept of gender inequality may have different meanings in various locations due to, for example, differences in gender roles (Verloo and Lombardo, 2007). It would be particularly worth seeing whether, for example, students, employees, and retired people considerably differ in their perceptions of overall gender inequality in other countries. An extensive study that explores perceptions of individuals with different experiences is thus needed to confirm the empirical findings of the present exploratory study. An example of such kind of study maybe a comparative research based on the surveys conducted by United Nations Economic Commission for Europe. These surveys apply common gender inequality indexes across European countries, and, thus, are applicable for international comparative studies of gender inequality.
+
+Lastly, the consequences of individuals’ perceptions of overall gender inequality should be studied in the future. Several scholars have recognized that perceptions of gender inequality can be important in predicting cognitive and behavioral reactions such as self-esteem, psychological well-being, and relationships at work (e.g., Foley, Ngo and Loi, 2006).

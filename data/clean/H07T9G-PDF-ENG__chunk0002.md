@@ -1,11 +1,7 @@
-# Steve Chenn/Getty Images
-
-In an age of disruption, the only viable strategy is to adapt, and that
-
-has never been more true than it is today. A generation ago, the half-life
-
-of the value of a skill was approximately 26 years. Now the half-life is
-
-often less than ﬁve years. So, it is perhaps not surprising that, globally,
-
-corporations are expected to invest more than $380 billion in learning
+---
+source_path: H07T9G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38ee208157a70f1bf298215bd0d0267a2a941b37
+title: H07T9G-PDF-ENG
+---
+## Published on HBR.org / October 6, 2023 / Reprint H07T9G

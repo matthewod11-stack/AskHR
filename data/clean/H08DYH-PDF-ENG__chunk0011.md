@@ -1,15 +1,9 @@
-## brain’s cognitive control network — responsible for planning and
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c08d29c8c27a3700ae75b30c7c86b150a4640380
+title: H08DYH-PDF-ENG
+---
+# How Play Affects the Brain
 
-problem-solving — and the default mode network, which lights up
-
-during mind-wandering or daydreaming. In fact, studies with creative
-
-writers and physicists reveal that about a ﬁfth of their most important
-
-ideas occur when they’re mind-wandering, not focused on a speciﬁc
-
-task. This is why spending time in nature or simply gazing out of
-
-a window can enhance creativity; these activities allow the mind
-
-to wander freely, something a typical cubicle-bound workday rarely
+Research shows that creativity often involves a dance between the

@@ -1,51 +1,65 @@
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1d9a43727a2be2b4e486515781d1c80b582f6cf
+title: H07STF-PDF-ENG
+---
 ## HBR / Digital Article / How to Think Strategically About a Career Transition
-
-haven’t tried it. And sometimes trying these things that help you to
-
-learn, they feel inauthentic. And if that’s the price of learning, I think
-
-it’s well worth paying it.
 
 ADI IGNATIUS:
 
-When some people talk about being authentic at work, I think they want
+Let’s shift gears to talk about authenticity, another topic that you have
 
-to be open about who they are, their personal life, maybe their sexual
+researched and written a lot about. Most conversations that I have about
 
-orientation. If they have a kooky sense of humor, they want to be able to
+leadership at some point evolve into a conversation about the need for
 
-bring that. On the one hand, absolutely, you need to learn new skills and
+total authenticity at work. My sense is you have a more complicated take
 
-soft skills and hard skills. But people feel they would derive a deep sense
-
-of happiness if they could be “authentic” at work in the ways that I was
-
-talking about.
+on all this. How should leaders think about the authenticity question?
 
 HERMINIA IBARRA:
 
-For me, that’s much more about a sense of belonging and being able to
+This total authenticity stuﬀ drives me nuts. What is total authenticity?
 
-ﬁgure out, “Do I belong here or do I have to hide what’s important about
+Is it to say whatever crosses your mind? Is it to dress how you might
 
-me in order to be eﬀective here?”
+dress at home on a Sunday to go take a walk in the park? What does that
 
-Back to bringing your whole self to work: workplace relationships are
+mean? I think there’s a lot of ﬂuﬀ in all of this. What’s the deﬁnition of
 
-relationships. And in relationships, people get to know each other. And
+authenticity? Is it a trait? Is it an outcome, a process of learning about
 
-the minute that you meet somebody, you do not tell them everything
+yourself and trying to be as much yourself as possible?
 
-about you, your personal life, professional life, strengths, doubts,
+I don’t think it’s a trait. I think it is a process of learning. We want to be
 
-anguishes, all this. You don’t do that. You get to know people.
+authentic. Nobody likes a fake. Nobody follows a fake. It’s bad for your
 
-It’s very important that we treat authenticity in that way. We’re building
+mental health. I’m all for it.
 
-relationships. And as we build relationships, we want to be able
+The question I ask is how can you deﬁne authenticity in a way that
 
-to disclose. Self-disclosure is what builds relationships. That’s really
+doesn’t condemn you to being as you always have been? We grow, we
 
-important, but it’s not about in every moment being able to broadcast
+evolve. We’re multiple. We have diﬀerent facets, diﬀerent aspects of who
 
-everything about myself in a way that doesn’t respect the building of
+we are that play out. And we need to be able to express that complexity
+
+and also ask, “What does it mean to be authentic when I’m learning?”
+
+It’s great when it’s habitual behavior. You know how to do that. But
+
+when you’re learning, you haven’t ﬁgured it out yet. People tend to
+
+confuse habitual behavior with authenticity. The minute they’re out of
+
+the comfort zone, “Oh, that’s not really me. I’m not so authentic.” The
+
+comment usually is, “That’s not me.” Well, it’s not you now and you
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,31 @@
-# in an organic and easily ampliﬁable way.
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63a52a415a3dcc9447095ae85a948eec05d6a5c2
+title: H08T4Z-PDF-ENG
+---
+# book on the topic.
 
-Dickie Bush was making $200,000 per year at BlackRock in his mid-
+While there is no one-size-ﬁts all answer, our work with executives and
 
-twenties. He quit BlackRock 14 months after launching a digital writing
+leaders who’ve successfully made the leap highlights ﬁve questions to
 
-business with Nicolas Cole. By that point, it was paying him four times
+determine if you are ready to jump.
 
-his salary and showed a solid trajectory, with increasing pricing power,
+Can cash flow from your side hustle sustainably exceed your main hustle?
 
-ability to scale, and digital word of mouth. Now their business generates
+Ideally you have a sustained track record of doing this, but your side
+
+hustle trajectory, pricing power, scalability, and word of mouth can
+
+help you make the leap a bit earlier. A strong trajectory can be enough
+
+to estimate the potential of your side hustle if you gave it your full
+
+attention and time. Your side hustle must have pricing power, which is
+
+the most truthful signal of demand. New automation tools like Zapier
+
+can help you scale your side hustle without just adding time or labor
+
+since how you sell (your business model) matters more than what you sell (your oﬀer). Finally, your side hustle must generate word of mouth

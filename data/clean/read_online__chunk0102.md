@@ -1,9 +1,13 @@
-# lower
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 4d36d921e5822ac6af193c9c526ba25c3e9f0c90
+title: read_online
+---
+## †, Dependent variable: Turnover intentions.
 
-H1.a: Higher WLBC may be less likely to contribute to withdrawal intentions for older employees in part-time degree studies.
+these results have much in common with those in the broader context of working relationships.
 
-The Hayes process model was used to test the significance of the interaction term of age and WLBC, which was not found to be significantly associated with turnover intentions (p < 0.216). The model was tested with the inclusion of covariate effects, so as to ensure that the test was not confounded by these other influences.
+Only three demographic variables make a unique statistically significant contribution to the model, namely age, race (black and coloured), as well as our predictor variable, WLBC. In the first model, Black employees report significantly higher turnover intentions when WLBC is not included in the model, but when included, both black and coloured employees are associated with higher levels of turnover intentions.
 
-At low levels of WLBC there is little difference between younger and older individuals (Figure 1), but at higher levels of WLBC, older employees seem to have marginally higher levels of turnover intentions. This result accords with studies that have not found any moderating effects of age in the prediction of turnover intention. For example, age has been found to fail to moderate certain relationships in workplace contexts, such as those between organisational embeddedness and turnover intentions (Peltokorpi, Allen & Froese 2015), but age has been found to moderate relationships predicting turnover intentions (Du Plooy & Roodt 2013; Hellman 1997) in other settings. These findings suggest the importance of context, in that age has a direct and decreasing influence on turnover intentions but does not affect the relationship between WLBC and withdrawal intensions in this setting.
-
-http://www.sajems.org
+turnover Older employees report significantly intentions, which accords with the literature (see Martin & Roodt 2008). Gender is not significant, however, in its direct association with withdrawal cognitions.

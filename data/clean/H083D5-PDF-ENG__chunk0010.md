@@ -1,23 +1,39 @@
-# than the industry average of about 86%.
+---
+source_path: H083D5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 538becab70e52b08c5efb8af354faca86224da30
+title: H083D5-PDF-ENG
+---
+# Dose information in a logical sequence.
 
-Be clear about expectations.
+While it may be tempting to give new employees a rapid “ﬁre hose” of
 
-A clear understanding of your role is one of the most consistent
+onboarding material, in reality, eﬀective learning is a gradual, eﬀortful
 
-predictors of engagement and job satisfaction. If you don’t know what
+process that requires more than a singular session or even a week
 
-you’re meant to be doing, you can’t know whether you’re on the right
+or two. And it turns out (somewhat counterintuitively) the longer the
 
-path — and that uncertainty can take a mental toll.
+onboarding process, the faster employees gain proﬁciency, because
 
-Without adequate guidance, new hires are left to navigate a confusing
+they’re able to build on prior knowledge they’ve already assimilated.
 
-maze of uncertainties, which uses up mental capacity in nonproductive or ineﬃcient ways. Common shortfalls include a lack of clarity about
+Begin the onboarding process with the essential basics, clarify their
 
-job responsibilities, task prioritization, reporting structures, deadlines or timeframes, and performance metrics. These ineﬃciencies in
+relevance, and then build on this foundation in a logical sequence over
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+time. By doing so, your company will retain more new hires and create a
 
-3
+culture where continuous learning is a clear organizational priority.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+For example, one fast-food company adopted this strategy when they
+
+shifted their approach to a continuous learning model. To begin, new
+
+hires go through a focused training program, followed by quizzes on
+
+key topics several times a month. If they fall short on the quizzes, they
+
+go through a retraining process. As a result, the fast-food company’s
+
+turnover rate is less than 29% for frontline workers, signiﬁcantly less

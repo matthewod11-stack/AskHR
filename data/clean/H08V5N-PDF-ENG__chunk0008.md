@@ -1,45 +1,21 @@
-## a fundamental impact on your organization’s performance. Can you
+---
+source_path: H08V5N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8d15e92ac14af67b868865280729f8e6faa14cd
+title: H08V5N-PDF-ENG
+---
+## HBR / Digital Article / How to Sync Your Budget with a Strategic Plan
 
-exist without or easily replace the stakeholder? Do you clearly know
+departments, e.g., production, ﬁnance, HR, etc. This quickly morphs
 
-what you want from the stakeholder? Do you want the relationship with
+into a detailed to-do list rather than a series of statements about the
 
-that stakeholder? In the case of a business, your key stakeholders are
+organization’s positioning. If that’s the case, it simply won’t succeed.
 
-most likely to include some or all of these ﬁve: customers, suppliers,
+So, before setting oﬀ to design a budget or any further steps, you must
 
-employees, shareholders, and the community. These are the groups that
+revise your strategic plan to structure it around the key stakeholders on
 
-must form your plan structure.
+which your company depends.
 
-As part of your review, quantify what you want from each of these
-
-stakeholders, and what they want from you. You can follow some steps
-
-to do that. For example, you want revenue from customers, and they
-
-want a range of things from you including quality products, customer
-
-service, and a competitive price–each of which incurs an expense. So,
-
-one metric that should appear in your strategic plan, and for which you
-
-should have targets over time, is revenue. With employees, you may
-
-seek high retention, engagement, or productivity. With suppliers, you
-
-might target improved terms or greater reliability.
-
-By structuring your strategic plan around stakeholder-based results,
-
-you’re laying a foundation that can be linked directly to ﬁnancial
-
-performance. You’re also building clarity: everyone in your organization
-
-can see whom you’re trying to inﬂuence and how.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+To identify which are key, ask yourself whether the stakeholder has

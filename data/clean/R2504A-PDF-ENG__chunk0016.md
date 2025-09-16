@@ -1,25 +1,27 @@
-## HBR / Magazine Article / The CEO of Kaspi.kz on Designing an Essential Superapp
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c9e902c4c1136bcd3f99097c8208cd185144888
+title: R2504A-PDF-ENG
+---
+# Maintain and Refine
 
-When we adopted our mission statement centered on improving
+We are just as systematic about maintaining and reﬁning our existing
 
-people’s lives, we didn’t want it to just be something written on a wall—
+products and services. To that end, we now have around 50 product
 
-we wanted it to become a mantra we lived and breathed. To accomplish
+teams across the company, each backed by dedicated product owners, engineers, UX experts, data analysts, risk oﬃcers, customer service
 
-that, we needed a clear, simple metric to track our progress and hold
+reps, and more, who are directly responsible for each of our oﬀerings.
 
-ourselves accountable. In the beginning, we used two questions: “Would
+They’re expected to deliver at least one high-quality add-on innovation
 
-you recommend this to a friend or family member?” and “Why or why
+per quarter, and their collective performance is measured by the Net
 
-not?”
+Promoter Score (NPS) users give their product or service.
 
-Today we gather more detailed information. For example, instead of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-asking “Are you happy with our e-commerce shopping?” we ask “Are
+5
 
-you happy with express delivery?” or “…with the payment process?” or
-
-“…with our locker network?” But the goal is the same—to understand
-
-how we can better serve customers. If any of them share negative or
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

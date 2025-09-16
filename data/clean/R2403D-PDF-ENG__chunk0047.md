@@ -1,7 +1,19 @@
-# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c62f69bbfcba1f7120d7081245a8e122b2caf8d9
+title: R2403D-PDF-ENG
+---
+# Xan Padrón
 
-sabbaticals, expanded bereavement and family leave, four-day work
+This focus on well-being is part of a shift away from industrial-era
 
-weeks, and paid time oﬀ for volunteerism.
+policies and toward more ﬂexibility in time and place of work and better
 
-Employees are also demanding that their companies demonstrate
+employee beneﬁts. Recent examples of such enhancements include
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

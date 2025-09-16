@@ -1,41 +1,25 @@
-# HBR / Digital Article / Why Cross-Functional Collaboration Stalls, and How to Fix It
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26c6f24344f9fe1e7f613513138ea1f4fdd3ac23
+title: H08A5M-PDF-ENG
+---
+## Extend executive alignment practices down to tactical levels.
 
-use a “trust matrix” to document and track critical relationships at both
+The practices required to achieve executive alignment, such as building
 
-the C-level and among lower-level leadership teams. The ratings are
+relationships and clarifying who’s accountable for what, can often easily
 
-updated twice a year and are completely transparent to members of the
+be extended downward.
 
-executive leadership team, encouraging candor and accountability.
+For example, telecommunications company Inﬁnera has made trust a
 
-Inﬁnera believes the primary value of the exercise comes from its ability
+companywide priority to improve collaboration dynamics. Instead of
 
-to stimulate thinking and discussion about the reason behind certain
+leaving trust to grow organically, Inﬁnera’s CEO and executive leaders
 
-ratings, which helps reveal sources of tension that could otherwise go
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-unnoticed. The ratings, and reasons behind them, help identify where
+3
 
-drag is occurring and prompt teams to talk about issues impeding
-
-collaboration success. Although senior management suggests speciﬁc
-
-solutions to challenges, such as where resources can be redeployed
-
-or communication improved, team leaders themselves are expected to
-
-address these relationship issues and formulate concrete action plans.
-
-Broader awareness of the health of critical relationships will enable
-
-leaders to assess where collaboration is dragging. To get started,
-
-executives should approach peers in other functions who already see
-
-their area of the business as critical to achieving shared goals. Capture
-
-feedback in a shared document that is transparent for all involved, and
-
-then meet to discuss what’s driving the feedback. Teams within speciﬁc
-
-functions can also leverage this practice to monitor their dynamics.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

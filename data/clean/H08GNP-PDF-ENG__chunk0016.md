@@ -1,11 +1,25 @@
-## that when a higher-level manager alternates between ethical leadership
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35bdf6788cdd46f28546495f005852cc2ad589d3
+title: H08GNP-PDF-ENG
+---
+# and decline in job performance.
 
-and abusive behavior toward the supervisor who reports directly to
+Additionally, these detrimental eﬀects on employees’ performance
 
-them, it creates more uncertainty in the supervisor’s followers about
+are evident even when employees are not the direct recipients
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+of such inconsistent leadership. When employees hear about their
 
-3
+immediate supervisors being subjected to cycles of both abuse and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ethical leadership by higher-level managers, they begin to doubt their supervisors’ ability to serve as an eﬀective link between the team and
+
+higher-level managers. Thus, employees begin to have concerns about
+
+their supervisor’s ability to represent the team to and inﬂuence higher-
+
+level managers (e.g., secure valued resources), thereby reducing their
+
+motivation to perform and contribute to the team. Our research shows

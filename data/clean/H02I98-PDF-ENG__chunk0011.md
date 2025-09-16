@@ -1,9 +1,11 @@
-# KM
+---
+source_path: H02I98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c221f843fe2ebbb309a04f3fbe275180daf816d8
+title: H02I98-PDF-ENG
+---
+# change that.
 
-Kate Massinger, research intern at The Center for WorkLife Law, is a senior at Harvard College.
+This article was originally published online on November 23, 2015.
 
-Copyright © 2015 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Joan C. Williams is director of the Equality Action Center and author of Bias Interrupted: Creating Inclusion for Real and for Good (HBR Press) and Outclassed: How the Left Lost the Middle Class and How to Win Them Back (forthcoming, May 2025, St. Martin’s).

@@ -1,9 +1,7 @@
-# Martin Barraud/Getty Images
-
-Today it’s difﬁcult to read the news without seeing an announcement
-
-of layoﬀs. Just this week, Morgan Stanley announced it will reduce its
-
-workforce by 2%, Buzzfeed said it would cut headcount by 12%, and
-
-PepsiCo said it plans to cut “hundreds” of jobs. The same is true at
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67ac634481f9c8e9ccf23fed047c28c114e050eb
+title: H07EDU-PDF-ENG
+---
+## Published on HBR.org / December 08, 2022 / Reprint H07EDU

@@ -1,5 +1,11 @@
-## U.S. ﬁrearms industry and its lobbyists and political backers. With
+---
+source_path: R2504Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 748b0535fa8044498a19a9f47db6846b2dca401c
+title: R2504Q-PDF-ENG
+---
+## Shannon Watts, founder of gun-control advocacy group Moms Demand
 
-her new book, Fired Up, she aims to help people identify, light, and
+Action, employed some of these strategies to bravely face what she
 
-feed the ﬁre inside them, and while the target audience is women, it
+calls the “most powerful special interest that had ever existed”: the

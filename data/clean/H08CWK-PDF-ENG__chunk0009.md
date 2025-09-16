@@ -1,15 +1,9 @@
-## Nicole’s diet, sleep schedule, mental health, and even her leisure
+---
+source_path: H08CWK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3a8dc818ed361c9b9383136e6c209e4208165a0
+title: H08CWK-PDF-ENG
+---
+## HBR / Digital Article / How to Manage Feedback Like An Olympic Athlete
 
-activities were viewed through the prism of their potential impact on
-
-her performance. The concept of a “day oﬀ” became alien. Rest days
-
-were strategic, not a respite. Her vacations were often more about
-
-recovery and mental health than about leisure or exploration. Nicole,
-
-who is now my colleague as a mindset coach at Finding Mastery, says
-
-the omnipresent pressure to maintain and exceed her performance
-
-standards meant that every life choice she made needed to contribute
+This feedback wasn’t conﬁned to the physical aspects of the game.

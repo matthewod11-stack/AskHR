@@ -1,9 +1,17 @@
-# V. Verbal & Written Warning
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: be7ffbfa8a7c60b645ff05f13ea0671fa9b1c58e
+title: internship_report
+---
+# IV. Discharges on Medical Ground
 
-If any employee Breaks the company rules or disobey Management order without any proper
+Given at any time while the employee supported by a medical report is incapacitated by reason
 
-reason, they can get verbal/ written warning from the Management. Two times verbal warning
+of ill health or accident from performing his/her duties hereunder if he/she shall have been so
 
-equal to one time written warning & two times written warning can be a reason of termination.
+incapacitated for a period or periods totaling 180 (one hundred and eighty) days or more during
 
-Human Resources Department has to maintain all warning records and report it to management
+any period of 12 (twelve) calendar months, the Company may discharge him/her on medical
+
+ground and pay him/her such compensation as may be decided by the Company.

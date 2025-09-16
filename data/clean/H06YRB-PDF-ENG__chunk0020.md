@@ -1,13 +1,33 @@
-# efficiency.”
+---
+source_path: H06YRB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0fe76a0eec43fe0729858974a19c2bcd6be5875
+title: H06YRB-PDF-ENG
+---
+# or bias.
 
-Thus, if we fail to respond appropriately in our work with those
+The flip side of institutional betrayal is psychological safety. Largely
 
-experiencing trauma, we can add a second injury to the first. But if we
+popularized through the work of Amy Edmondson, psychological safety
 
-respond well, we build trust and connection. Either way, the manner in
+is the sense that within a team or organization, it is acceptable for
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+someone to admit that they made a mistake, or don’t know the answer,
 
-3
+or are struggling. In a recent study, Google found that psychological
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+safety, more than anything else, was critical to making a team work.
+
+And the fastest way to build psychological safety was for team members
+
+to support each other through hard times. As Charles Duhigg at The
+
+New York Times Magazine put it: “To feel ‘psychologically safe,’ we
+
+must know that we can be free enough, sometimes, to share the
+
+things that scare us without fear of recriminations. We must be able
+
+to talk about what is messy or sad, and to have hard conversations
+
+with colleagues who are driving us crazy. We can’t be focused just on

@@ -1,21 +1,13 @@
-# HBR / Digital Article / 6 Common Leadership Styles — and How to Decide Which to Us…
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a48d417141fa5f01eb42f0526d0bba67d0ae1201
+title: H085MC-PDF-ENG
+---
+# common goals.
 
-According to Goleman, this relationship-oriented style is especially
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-valuable in shaping a positive work environment, which is particularly
+4
 
-important at a time when some companies are calling employees back to the oﬃce. You can create a caring, cohesive community rather than
-
-an administrative machine by getting to know your employees on a
-
-personal level and celebrating their wins, he says.
-
-When to use the aﬃliative leadership style
-
-This style builds connections and creates a positive company
-
-culture, but it should not be used in isolation. It may not provide suﬃcient feedback to address performance issues or deal with
-
-complex challenges. Combining this approach with the inspirational,
-
-authoritative style creates more balance by oﬀering both support and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

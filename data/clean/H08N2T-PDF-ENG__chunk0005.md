@@ -1,9 +1,7 @@
-## The underlying reasons for the prevalent interest in job-switching and
-
-career-pivoting are well known. First, most people dislike their jobs,
-
-with Gallup data showing that only three in 10 people feel engaged at
-
-work. Note that these estimates are based on people who work in some
-
-of the most successful organizations in the world—that is, companies
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 41de3b5b54bcc2aa29a89226ed0b7d42b6c53a05
+title: H08N2T-PDF-ENG
+---
+# crisis of these proportions).

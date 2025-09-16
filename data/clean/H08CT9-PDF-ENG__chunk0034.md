@@ -1,11 +1,11 @@
-# decimal.
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3829a8d7322e495c12c39cea817140ceb5be07b0
+title: H08CT9-PDF-ENG
+---
+## brings those humans right to the center of the program.
 
-This article was originally published online on August 28, 2024.
+- Editor’s Note (Aug. 29, 2024): These numbers have been updated. Due
 
-Andrew White is a senior fellow in management practice at Saïd Business School, University of Oxford, where he directs the advanced management and leadership program and conducts research into leadership and transformation. He is also a coach for CEOs and their senior teams.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to an editing error they originally did not include the ﬁgure before the

@@ -1,9 +1,27 @@
-# Significant at 5% level of table value (k,n-k-1) i.e (3,6) degree of freedom at 5% is 4.76
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: e96f70ff85dde72166135587d2cb657dc94f1549
+title: final_2019_jan_feb_jbs_pmd
+---
+## Cholamandalam Investment & Finance Company
 
-- Significant at 10% level **Significant at 5% level ***Significant at 1% level Table values of t with (n-k-1) or 6 degree of freedo m at 10%, 5% and 1% levels are 1.943, 2.447, 3.707 respectively.
+0.98
 
-Source: calculated by author
+0.97
 
-76
+58.77# 0.24
 
-IITM Journal of Business Studies (JBS)
+- 1.30
+
+0.16
+
+- 1.62
+
+0.65
+
+0.47
+
+0.09
+
+2.00*

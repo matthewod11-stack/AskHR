@@ -1,9 +1,37 @@
-# HBR / Digital Article / Is Organizational Hierarchy Getting in the Way of Innovation?
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05e047c45cbb3599067c2ea6041f531af85a7649
+title: H07RXW-PDF-ENG
+---
+# support functions.
 
-of using political levers to ask for better service (such as asking the
+To do this, ﬁrst involve them in the wider cultural change eﬀort so
 
-head of legal to replace the lawyer supporting their team), the head of
+they too start seeing themselves as intrapreneurs. Second, restructure
 
-a microenterprise is given the direct authority to choose to spend their
+support functions into a team structures, which may feel less alien than
 
-budget on a diﬀerent support team (or in this case, a diﬀerent legal
+one might expect because many of them — HR, Finance, R&D, and,
+
+to a lesser extent perhaps, legal — are likely already organized into
+
+teams that support speciﬁc business teams. For example, the general
+
+counsel of one major media company structured her organization into
+
+dedicated sub-teams that support radio, broadcast TV, streaming, etc.
+
+Third, adjust ﬁnancial reporting to start creating separate proﬁt and
+
+loss statements for each team and, what seems the biggest leap for
+
+companies considering this step, to allow business teams to determine
+
+to which support teams they want to work with. As a result, instead
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+13
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

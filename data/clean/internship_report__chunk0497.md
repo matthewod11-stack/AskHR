@@ -1,13 +1,7 @@
-# Sample Size
-
-0
-
-3
-
-4
-
-4
-
-0
-
-11
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: a7878f1fdcfe26a40db59fd1025387a87c012784
+title: internship_report
+---
+# Total

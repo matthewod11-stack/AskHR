@@ -1,9 +1,13 @@
-# HBR / Digital Article / Design Your Transformation for Simplicity — Not Efficiency
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 606591a2d8e62e4fb0c5a29cb5a4f6850e9f3e0a
+title: H08MHC-PDF-ENG
+---
+## common objective of procurement’s transformation initiatives.
 
-Ultimately it is a function’s workﬂows — the processes they perform in
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the course of their work — that are being transformed. For this reason,
+2
 
-in seeking to explain those disappointing outcomes, we zeroed in on
-
-how transformation leaders design and revise workﬂows impacted by
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

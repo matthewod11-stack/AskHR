@@ -1,1 +1,15 @@
-# 113
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 1bca54086317db6ecdf81d59021b9d025f6c29e0
+title: file_1
+---
+# 112
+
+Secondly, the interaction effects of the proposed antecedents on individuals' perceptions of the gender pay gap were not under investigation in this paper. However, different results might be expected when, for example, men and women with different background are compared. Thus, the body of knowledge about the interaction impact of various factors on a complex area of the perceived gender pay gap should be enlarged.
+
+Given the sensitive nature of the research area, policy-capturing technique is considered to be one of the most appropriate ways to examine such personal information as individuals' perceptions of the gender pay gap. Policy-capturing design allows obtaining more generalizable outcomes by asking the research respondents to act how they would when evaluating pay inequalities between genders instead of directly asking individuals whether and to what extent they perceive the gap to exist (Zhou and Martocchio, 2001). In addition, policy-capturing technique provides researchers with an opportunity to examine multiple factors that might simultaneously affect the way individuals' perceive the gender pay gap and examine them in a relatively indirect way, which is more likely to obtain accurate results than the direct approach (Zhou and Martocchio, 2001).
+
+The consequences of the perceived gender pay gap are also recommended to be studied in future. For instance, Foley, Ngo, and Loi (2006) recognized that perceptions of the gender pay gap can be important in predicting cognitive and behavioural reactions such as self- esteem, psychological well-being, and relationships at work. The perceived gender pay gap can cause stress to repeated cases of gender discrimination and worry that one can be a victim of the gender pay gap. Together, these consequences call for a more longitudinal and multilevel empirical research that may identify concrete actions that should be taken in order to eradicate perceived gender pay inequalities and the statistical gender pay gap.
+
+Overall, the paper will hopefully encourage more theoretical and empirical work and an expanded set of both theoretical and empirical implications. Empirical examination of the relationships between the depicted determinants and the perceived gender pay gap based on the conceptual framework is suggested to enrich the research in the field of gender studies.

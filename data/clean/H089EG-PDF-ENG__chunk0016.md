@@ -1,13 +1,7 @@
-## Schedule a one-on-one meeting with the team member.
-
-Typically, it’s best to schedule a meeting speciﬁcally focused on this
-
-topic to ensure you have enough time to discuss your expectations
-
-and answer any questions that come up. During your meeting, clearly
-
-explain what the project is, how it’s contributing to the goals of your
-
-team or organization, and why you’re asking this person to work on it.
-
-Think of the conversation as a chance to recognize your team member’s
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f657bd1c181e7d0d8d36b35bc86b9258b9bd0653
+title: H089EG-PDF-ENG
+---
+# about it.

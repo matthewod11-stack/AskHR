@@ -1,15 +1,29 @@
-# HBR / Digital Article / A Guide to Updating Your Resume When Moving from Public to P…
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dc325456d4a319e488b0f0b37f1d0665a4cfe73a
+title: H08O5Y-PDF-ENG
+---
+## work histories with quantiﬁable achievements, certiﬁcations, security
 
-environment, and expanding your professional network will help steer
+clearances, trainings, awards, and publications. In contrast, private
 
-you toward opportunities where you can put those skills to use.
+sector resumes need to be concise—ideally no more than two pages.
 
-This article was originally published online on March 20, 2025.
+To make a successful career transition, you must do more than just
 
-Marlo Lyons is an executive, team, and career coach, as well as the host of Work Unscripted. You can reach her at marlolyonscoaching.com.
+cut yours down; you need to translate government jargon into crisp
+
+corporate language and focus solely on what truly matters to potential
+
+employers. Spotlighting your most relevant skills and measurable
+
+successes will help you position yourself as a uniquely qualiﬁed
+
+candidate who’s ready to deliver tangible results in a business-driven
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

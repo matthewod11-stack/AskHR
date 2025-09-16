@@ -1,15 +1,17 @@
-# ACKNOWLEDGEMENTS
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: 3d5eb1b5d99056ad0fb7e68c480a571ee1eb4c46
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# DEDICATION
 
-I could not have completed the course without the support of a number of people to
+To Henry my husband, thanks a lot for the support and encouragement you provided
 
-whom I am very grateful. Firstly, to all those who participated in the data collection
+during my study. To my children, Jeremy and Ivy, your lovely smiles and love gave
 
-process. Their contribution was highly valued and the time and insight they provided
+me the encouragement I needed.
 
-was greatly appreciated.
+(cid:105)(cid:105)(cid:105)(cid:32)
 
-Next, I would particularly acknowledge my supervisor, Prof. Nzuve for his valuable
-
-guidance, support and dedication throughout the period of study. I also appreciate
-
-the opportunity given to me by The Co-operative Bank of Kenya to undertake this
+(cid:32)

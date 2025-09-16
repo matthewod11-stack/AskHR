@@ -1,3 +1,13 @@
-## employee self-development. Personal. Individ. Differ. 51:172–7
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 7998cbd2590386966292a7f1a7d502abe3b9b4ea
+title: arop1noe_245_275
+---
+## motivation and workplace learning. Acad. Manag. Ann. 4:279–315
 
-Ouweneel AP, Taris TW, Van Zolingen SJ, Schreurs PJG. 2009. How task characteristics and social support relate to managerial learning: empirical evidence from Dutch home care. J. Psychol. 143:28–44 Pan W, Sun LY, Chow IHS. 2011. The impact of supervisory mentoring on personal learning and career
+Noe RA, Tews MJ, Marand A. 2013. Individual differences and informal learning in the workplace. J. Vocat.
+
+Behav. 83:327–35
+
+Nonaka I. 1994. A dynamic theory of organizational knowledge creation. Organ. Sci. 5:14–37 Nonaka I, Takeuchi H. 1995. The Knowledge Creating Company. New York: Oxford Univ. Press Orvis KA, Leffler GP. 2011. Individual and contextual factors: an interactionist approach to understanding

@@ -1,17 +1,9 @@
-# corporate intranet.
+---
+source_path: H046PA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 650130a8f6626cb05cb3f21500cf076d0a092eec
+title: H046PA-PDF-ENG
+---
+## into a private message exchange with the company CEO — eventually
 
-Content creation may also open up completely unexpected
-
-opportunities, including new jobs. Miranda Aisling Hynes, whom I
-
-proﬁle in my book Stand Out, self-published a book about creativity
-
-that she gave to a friend who worked at an arts organization. He liked
-
-it and passed it along to his supervisor; when Hynes later applied for a
-
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+winning a trip to headquarters — as the result of one of her posts on the

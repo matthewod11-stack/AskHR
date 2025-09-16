@@ -1,21 +1,13 @@
-# market perspective.
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 429161de31a38222c170339e9e544a9a26db302c
+title: R2306H-PDF-ENG
+---
+## HBR / Magazine Article / Harness Your Network to Unlock Innovation
 
-Second, if leaders and their partners rely on the same sets of strategic
+technically feasible. Alternatively, a CTO who draws advice from only
 
-and technical advisers, they may both get feedback that an original idea
+technical advisers may fail to meaningfully contribute to a conversation
 
-is too dangerous to be considered. If that happens, they’re likely to make
-
-the idea less disruptive to the status quo. In essence, the novelty will be
-
-squeezed out of it until it’s no longer so threatening to the mainstream.
-
-A telltale sign that this is happening in a company is when innovations
-
-deliver smaller and smaller payoﬀs. In some cases the failures may well
-
-be caused by ﬂaws in the basic concept, but in our experience, more
-
-often than not disappointing innovations start out as ideas with great
-
-promise but get watered down after receiving negative feedback.
+with the CEO about why an idea would or wouldn’t make sense from a

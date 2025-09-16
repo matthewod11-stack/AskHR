@@ -1,15 +1,17 @@
-## hearts of listeners and signal potential changes.
+---
+source_path: H0881I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24932f1fa8369f97f208a799c5d4426fcfd2f80c
+title: H0881I-PDF-ENG
+---
+# your thinking in the future.
 
-Recognize others’ contributions.
+You will likely need diﬀerent pitches for diﬀerent stakeholders. For
 
-Take the time to recognize the people who made it possible for you to
+example, your pitch to your direct reports might be about what you
 
-attend the program. Tell reports how much you appreciate their hard
+learned about empowering the team. At the same time, the one to your
 
-work ensuring operations ran well when you were away.
+boss might be targeted to executing the strategy or achieving business
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+results. A well-crafted reentry pitch will engage the heads and the

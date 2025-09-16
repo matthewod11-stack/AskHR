@@ -1,5 +1,21 @@
-## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bbcec65830351cce29bc6d9c718a6a7fbce26a98
+title: R2405D-PDF-ENG
+---
+# Conflating Correlation And Causation
 
-To prevent this problem:
+Approach to determining causality
 
-Ask about this:
+- Was this analysis based on an experiment?
+
+- If not, are there confounders (variables that affect the independent and dependent variables)?
+
+- To what extent were they addressed in the analysis?
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

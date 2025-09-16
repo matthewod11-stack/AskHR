@@ -1,15 +1,13 @@
-# elusive.
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 88ed302e766252bc311b8fe3ece93902dbecf86c
+title: H081LX-PDF-ENG
+---
+# outcomes.
 
-I suggested that he start by setting clear decision-making frameworks
+Recognizing this, I advised Sunil to reﬁne his leadership approach. The
 
-within his team, where the scope for input and the points at which
+goal was to maintain his humility while also cultivating the ability
 
-a decision would be made should be clearly deﬁned, as well as who
-
-had ownership over the decision and whether it would be made with
-
-or without full consensus. This approach allowed for a structured yet
-
-inclusive process, reassuring the team that their insights were valued
-
-but also setting the expectation that not all decisions would be made by
+to make and stand by strategic decisions, even when consensus was

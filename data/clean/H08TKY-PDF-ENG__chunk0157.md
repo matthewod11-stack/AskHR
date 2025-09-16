@@ -1,19 +1,11 @@
-# for example, a review board.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4913c179876a3cf453fe3ca577ebd80094822ef
+title: H08TKY-PDF-ENG
+---
+## HBR / Digital Article / The Definitive HBR Strategy Glossary
 
-- Facilitators. Many organizations, such as traditional energy and water
+known laws of nature, the risk changes slowly over time. For these
 
-utilities, operate in stable technological and market environments,
-
-with relatively predictable customer demand. In these situations,
-
-risks stem largely from seemingly unrelated operational choices
-
-across a complex organization that accumulate gradually and can
-
-remain hidden for a long time. Since no single staﬀ group has
-
-the knowledge to perform operational-level risk management across
-
-diverse functions, ﬁrms may deploy a relatively small central
-
-risk-management group that collects information from operating
+organizations, risk management can be handled at the project level by,

@@ -1,13 +1,9 @@
-# (1993). Guidelines
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b2f4c57e217b1a232158c1fa7cb71905f2f20014
+title: untitled
+---
+# American Psychological Association.
 
-American Psychological Association. (1997). Commission on ethnic minority recruitment, retention, and training in psychology (CEMRRAT; Final report). Washington, DC: Author.
-
-Baker, D. B., & Benjamin, L. T., Jr. (2000). The afﬁrmation of the scientist-practitioner: A look back at Boulder. American Psychologist, 55, 241–247.
-
-Blau,T. H. (1970).APAcommission on accelerating black participa- tion in psychology. American Psychologist, 25, 1103–1104.
-
-Boykin, A. W., Franklin, A. J., & Yates, J. F. (Eds.). (1979). Research directions of Black psychologists. New York: Russell Sage Foundation.
-
-Caldwell-Colbert, A. T. (1998, August 14–18). Treating ethnic minority clients: Are we prepared? Presidential address (Div. 12, Sec. 6), APA Convention, San Francisco.
-
-Cameron, N., & Rychlak, J. F. (1985). Personality development and
+for providers of psychological services to ethnic, linguistic, and cul- turally diverse populations. American Psychologist, 48, 45–48.

@@ -1,3 +1,9 @@
-# 50 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 19168516de2691cbebd8a8cb717768ed1d33877e
+title: barrickryan_eds_personality_and_work
+---
+# Structure
 
-and routine are required, increased positive affect may lead to greater playfulness, which can decrease productivity. Thus, we hy- pothesize that for more unstructured jobs such as chief executive ofﬁcers and managers, affect can have an important impact on pro- ductivity. For highly prescripted jobs, affect should have less inﬂu- ence on performance. In support of this idea, Barrick and Mount (1993) found that extraversion was more strongly correlated with performance in jobs with greater autonomy.
+It is also likely that in highly structured and routinized jobs, affect is less likely to have effects on productivity. These jobs provide less op- portunity for self-conﬁdence, goal setting, and creativity to inﬂuence productivity because the procedures for accomplishing the job are strictly deﬁned. Furthermore, in occupations where such structure

@@ -1,3 +1,11 @@
-## Chapter 8 • Performance Management and Employee Development
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 6a0e850b53c5ba4a42ca08b56559c6e96a17e90a
+title: performance_management_3rd_edition_by_aguinis
+---
+# How Long
 
-Consider your future career expectations and developmental needs. Then fill out the form included in Figure 8.1, assuming your current or future employer will be willing to provide any developmental opportunities of your choosing. What does your plan look like? What did you discover about what you would like to learn in the future? What does this information tell you about your level of aspirations and future prospects for your career advancement?
+Current +2 _________________________________________________________________ _________________________________________________________________ Current +3
+
+FIGURE 8.1 Example of a Developmental Plan Form Source: Based on Information Systems and Technology Development Plan. Available online at http://web.mit.edu/is/competency/devplan. html. Retrieval date: May 1, 2011.

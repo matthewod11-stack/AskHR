@@ -1,5 +1,11 @@
-# Central Tendency
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: e7abcee1aac0328ca65162fa692d49f0b98e5792
+title: document_resume
+---
+## Exhibit 6.1. Common Rater Errors Which Should He Avoided
 
-This error occurs when the evaluator uses only the central portion of the scale, ignoring the high and low extremes, even when the employee's true level of performance deserves an unusually high or low rating.
+Leniency This error occurs when the supervisor rates an employee (and probably other employees) higher on every item of the rating scale than the employee's true lc el of performance actually deserves.
 
-Extremity This error, the opposite of central tendency, occurs when the evaluator uses only the high and low extremes of the scale, ignoring the central portion, even when the employee's true level of performance deserves a more moderate rating.
+Severity This error, the opposite of leniency, occurs when the supervisor rates an employee (and prob- ably other employees) lower on every item of the rating scale than the employee's true level of performance actually deserves.

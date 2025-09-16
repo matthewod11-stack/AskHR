@@ -1,51 +1,63 @@
+---
+source_path: H087G3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4968ba296c4a1d45912b8f809993643744c52820
+title: H087G3-PDF-ENG
+---
 ## HBR / The Big Idea / Survey: How People Experience Chronic Illness at Work
 
-Three-quarters of chronically ill people who took the survey are still working, but many had to make signiﬁcant changes and sacriﬁces to do so.
+it’s time for me to get back to work.” Another wrote, “Not enough people
 
-We asked people with chronic illnesses how their medical conditions
+understand the toll of it, or the extent of it, and it is exhausting to have
 
-impacted their work. At some point during their illness:
+to ﬁght the disease and educate people at the same time.”
 
-- 30% had to reduce the hours they worked.
+“My company has not communicated with me since taking leave. It’s
 
-- 27% had to take a medical leave of absence.
+like being thrown in the trash when your usefulness is less than their
 
-- 13% had to ﬁnd a new job.
+productivity ratio,” shared a third respondent. “I have more than 20
 
-- 17% had to stop working altogether.
+years of experience with this ﬁrm, but I’m only 45…I’m angry and
 
-Currently, 75% of respondents say they still work but that they had to
+frustrated and sad.”
 
-cut back on other activities in order to do so. “It really stinks when every
+A fourth put it succinctly: “Most employers aren’t gonna believe you.”
 
-break and lunch is spent resting, so all your awake, productive time is
+Part of the problem, according to some, is that long Covid symptoms
 
-spent at work. [There’s] no free time to manage the rest of your life,”
+— and how “ill” someone appears — can vary day-to-day. “Long Covid
 
-one respondent said. “It’s not sustainable long-term unless someone
+means that one day I can work at almost full capacity and the next I
 
-else in your life is…cooking, doing the dishes, taking out the trash,
+can barely get out of bed. Because of the unpredictable nature of the
 
-doing the laundry, etc.” Another noted, “The little things take so much
+illness, it is supremely diﬃcult to manage not only your own but the
 
-energy it takes everything out of you, and any personal time is just spent
+expectations of managers and co-workers,” said one person. “You want that report Friday? Sure thing! [I’ll] get oﬀ to a great start and then
 
-recovering.”
+Wednesday through Friday the brain fog hits and you can’t remember
 
-A quarter of chronically ill respondents had disability accommodations, but many others reported barriers to access.
+the last sentence you read and you have a migraine from staring at a
 
-Twenty-seven percent of chronically ill respondents said that they
+screen too much. Your cortisol level shot through the roof because you
 
-had disability accommodations for their medical conditions. The most
+were excited…to be working on something fun and important again,
 
-common were the ﬂexibility to work from home and ﬂexibility around
+but now you’ve got a raised heart rate of over 140 whilst sitting down.
 
-working hours (total hours worked, speciﬁc times worked, and the like).
+By Thursday you slept 11 hours and woke up tired and [felt] like you’re
 
-Examples included:
+getting the ﬂu. You can barely move. You call in sick. You feel like s—.
 
-- “Work[ing] from home, accessible training, a special keyboard, extra
+You’re not going to ﬁnish the report. You let people down, you feel guilty
 
-days to recover from work travel, [closed] captions.”
+for being sick, [and] people don’t understand how you were perfectly
 
-- “WFH during ﬂare, virtual option (hybrid), chair for sitting available,
+ﬁne Monday and Tuesday but now you’re not.”
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,27 @@
-# up.
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c441ae5eea1472d6d196dba0474a641c45e4b4a1
+title: H07EDU-PDF-ENG
+---
+## measures of return on assets, proﬁt margin, and economic growth. The
 
-But those year-one costs would not fully explain why companies
+authors conclude, “For downsizing companies to gain a competitive
 
-that conduct layoﬀs underperform for nearly three years longer those
+advantage to outperform their competitors, it probably will take even
 
-that do not. The reasons are in the well-researched hidden costs of
+longer.”
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Layoﬀs have direct costs, including severance and the continuation of
 
-6
+health beneﬁts which can lead to substantial restructuring charges that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+eat into hoped-for margin improvements. As a thought experiment,
+
+multiply the salary of 11,000 Meta employees by four months —
+
+increasing it perhaps to ﬁve to account for an open-ended extra week
+
+of severance for every year worked. Add to that the cost of extending
+
+health beneﬁts for six months … you can see how the numbers can add

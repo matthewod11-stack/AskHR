@@ -1,11 +1,7 @@
-# Should You Not Be Proactive?
-
-Our research found that proactivity comes at a cost by creating mental
-
-fatigue which can make it harder to do complex tasks later on in the day.
-
-But proactivity is still an important way for people to feel connected
-
-to their jobs and for companies to gain valuable knowledge and new eﬃciencies. With this in mind, we oﬀer the following suggestions to
-
-help you improve your job tasks while still protecting yourself and your
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57afcfec8aff0bac122b934c3af9d4de80dbe8c2
+title: H08PEA-PDF-ENG
+---
+# task.

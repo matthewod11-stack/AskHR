@@ -1,5 +1,15 @@
-# Playground (divergent)
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 261068cc8d9fbccd975ebe76f8f2f695f2696727
+title: R2501H-PDF-ENG
+---
+# Humanistic
 
-What users say
+Primary commitment is to…
 
-“The higher priority is creating healthier and happier workplaces; the secondary gain will be better business performance.”
+Helping individual people develop and grow
+
+Fits best in a company that is… Stuck and needs innovation
+
+Learning space

@@ -1,3 +1,7 @@
-# (SC) increase proﬁtability.
-
-In our work, we assume that boards are teams and should be studied through this theoretical conceptualization framework, being ‘ignored or even denied in past board research’ (Vandewaerde et al, 2012). Boards can be considered teams as they are ‘groups of can self- individuals interdependent regulate their behavior on relatively whole tasks. [They have] 1) face to face interaction;
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: a9957f5391d6987cc6cb1660481d12d734fa7354
+title: original_article
+---
+## Hypothesis 1b: Higher levels of Social capital

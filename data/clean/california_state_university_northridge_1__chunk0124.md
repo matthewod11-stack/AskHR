@@ -1,15 +1,15 @@
-## settlement mechanism, for wrongful termination cases.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: d6942e4b7d3262d96751b0a258a746a9a6b40765
+title: california_state_university_northridge_1
+---
+## The Model Employment Termination Act (META) is designed to protect nearly
 
-A criterion has been set on employers and employees in using the META. An
+two thirds of the American work force from at will discharge. It seeks to reduce
 
-employer with a minimum of five or more employees for duration of20 weeks, would be
+employees' wrongful termination settlements by eliminating compensatory and punitive
 
-required the META requirements. "An employer may not terminate the employment of an
+damages. Also by providing limited protection to employees that they may not otherwise
 
-employee without good cause" (Aalberts et al., 1993). Moreover, there are two
-
-exceptions, an employee who accepts a written agreement to a servance pay in lieu of the
-
-acts protected and employees hired for a specified time. During times oflayoffs due to
-
-economic conditions, all elements of an employee work related performance must be taken
+be able to afford and or beyond their scope. META suggests using arbitration as a

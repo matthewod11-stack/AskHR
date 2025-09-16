@@ -1,11 +1,31 @@
-## member. Unbeknownst to the leaders or the group, various pieces of
+---
+source_path: F2501B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c162b1eb9b7516e8e383f15f118eb48807493d8
+title: F2501B-PDF-ENG
+---
+## correlation between leadership ambition and competence.
 
-information about the candidates were distributed among individual team members; each person had a diﬀerent piece of the puzzle. The
+What makes ambitious people more likely to be promoted to leadership positions?
 
-scenario looked at whether the leaders were able to surface the hidden information by eﬀectively guiding the group discussion. Using this
+In low-information environments like job interviews, it’s hard to
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+gauge a person’s leadership skills. Hiring managers might misread
 
-3
+an attribute like ambition as a signal of competence. For example,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+because ambitious individuals exhibit motivation, dedication, and determination, interviewers assume that they will be more eﬀective
+
+and thus are more likely to select those candidates for leadership roles.
+
+Further, ambitious individuals are more likely to opt in to opportunities
+
+for promotion, thereby increasing the odds that they will get ahead.
+
+Your studies relied on subjective ratings rather than objective results. Is it possible that ambitious individuals are simply less liked than people with less ambition?
+
+In our supplemental study, we randomly assigned participants to
+
+either be in charge of a decision-making task (hiring a new chief
+
+ﬁnancial oﬃcer from a set of ﬁnalists) or be a subordinate group

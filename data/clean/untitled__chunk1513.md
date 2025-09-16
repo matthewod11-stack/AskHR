@@ -1,3 +1,11 @@
-# ORGANIZATIONS AND ACTIVISM
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3bad52fb8612824e73817630230757cdca148ccb
+title: untitled
+---
+# 260 Psychology of Women and Gender
 
-For many feminist psychologists, exposing inequity and in- justices that women face is the very core of their work. They also hold an ethic that uncovering abuses of power must be accompanied by actions aimed at reform and redress. This has required organizational structures that support and foster research, practice, and activism. Several organizations have provided venues for addressing issues of importance in the ﬁeld of the psychology of women and gender.
+the literature on feminist therapy discusses these in detail (Wyche & Rice, 1997). More generally, feminist therapists strive to ﬁnd ways to afﬁrm clients’ competence and their right and responsibility to make choices about their lives.
+
+In sum, feminist approaches to clinical psychology have offered new perspectives on clinical disorders of women and girls. Feminists have challenged diagnostic and treatment practices, ethical codes, and theoretical constructs that have worked against women’s interests. Feminist therapists have offered new ideas about the conduct of therapy and new mod- els for treating problems common to women. Many of their ideas were iconoclastic when feminist therapy began in the early 1970s; now they are widely accepted. For example, it is no longer radical for therapists to encourage women to work outside the home. It is no longer radical to raise questions about equality and fairness with couples in marital therapy. It is now unexceptional to view single life and lesbian relation- ships as fulﬁlling lifestyle choices.

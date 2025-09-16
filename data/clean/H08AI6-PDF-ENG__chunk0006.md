@@ -1,21 +1,17 @@
-# but for the beneﬁt of their family.
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0bb21b0df61ca90f127b773ddfea0fb4d286439
+title: H08AI6-PDF-ENG
+---
+## a diﬀerent context—the dusty desert of northern Mexico near the
 
-Family is one of the most important things in most people’s lives, across
+U.S. border—we had observed 97 employees working in a low-cost
 
-cultures and geographies. Yet, the idea that family can be motivational
+factory for processing coupons. As we spoke with the employees of
 
-at work has been overlooked. Instead, in the past, family has been
+this factory and later systematically studied them with surveys and
 
-mostly seen as competing with work for an employee’s ﬁnite resources,
+objective performance indicators, an intriguing pattern emerged: those
 
-like their time and energy. A large body of research on work-family
-
-conﬂict drew on this notion and illustrated how work and family
-
-domains create conﬂicting demands and interfere with one another.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+who performed best were the ones who did the job not for themselves,

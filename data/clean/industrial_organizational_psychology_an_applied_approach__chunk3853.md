@@ -1,17 +1,13 @@
-# valid.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 606fcd10da9650f9c1c53530f351b5b8d2e7f942
+title: industrial_organizational_psychology_an_applied_approach
+---
+# outside the organization.
 
-Faces Scale A measure of job satisfaction in which
+External validity The extent to which research results can be expected to hold true outside the specific setting in which they were obtained.
 
-raters place a mark under a facial expression that is most similar to the way they feel about their jobs. Family and Medical Leave Act (FMLA) Passed in
+Extrinsic motivation Work motivation that arises from such nonpersonal factors as pay, coworkers, and opportunities for advancement.
 
-1993, the FMLA provides 12 weeks of unpaid leave for birth, adoption, or serious illness of a child, parent, spouse, or the employee. All organizations that physically employ 50 or more people within a 70-mile radius of one another are covered by the act.
-
-Fear stage The third emotional stage following the
-
-announcement of a layoff, in which employees worry about how they will survive financially. Feedback Providing employees with specific
-
-information about how well they are performing a task or series of tasks.
-
-Feng shui The ancient Chinese practice of arranging
-
-objects to maximize positive energy and improve the quality of life.
+Face validity The extent to which a test appears to be

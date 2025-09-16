@@ -1,5 +1,11 @@
-## tual maturity. New York: Harcourt, Brace & World.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e031f77031ab33fc98c3b800cd34c8af621c9f10
+title: untitled
+---
+## (4th ed.). Stanford, CA: Stanford University Press.
 
-Hathaway, S. R., & McKinley, J. C. (1943). The Minnesota Multi- phasic Personality Inventory manual. New York: Psychological Corporation.
+Harmon, L. W., Hansen, J. C., Borgen, F. H., & Hammer, A. L. (1994). Strong Interest Inventory: Applications and technical guide. Palo Alto, CA: Consulting Psychologists Press.
 
-Haynes, S. N., & O’Brien, W. O. (2000). Principles of behavioral
+Harris, D. B. (1963). Children’s drawings as a measure of intellec-

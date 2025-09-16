@@ -1,25 +1,29 @@
-## Figure 7: Analysis of Compliance Rules Circulation
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: e14adbefad7690cd085acfa0bc023690e53f33da
+title: internship_report
+---
+## 4.1.7 Analysis of Compliance Rules Circulation
 
-From the above graph (Fig: 7) it illustrates that about 73% employees are agreeing that HR
+(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)(cid:111)(cid:102)(cid:32)(cid:67)(cid:111)(cid:109)(cid:112)(cid:108)(cid:105)(cid:97)(cid:110)(cid:99)(cid:101)(cid:32)(cid:82)(cid:117)(cid:108)(cid:101)(cid:115)(cid:32)(cid:67)(cid:105)(cid:114)(cid:99)(cid:117)(cid:108)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)
 
-department provides company compliance guidance on regular basis which indicate that most of
+(cid:48)(cid:37)(cid:32)
 
-the employees are aware about the company compliance policy. As a result, in daily activities,
+(cid:57)(cid:37)(cid:32)
 
-the employees keep the compliance policy in their mind. Hence, less number of misconduct
+(cid:49)(cid:56)(cid:37)(cid:32)
 
-happens. On the other hand, 9% employees are showing disagreement about the circulation of
+(cid:49)(cid:56)(cid:37)(cid:32)
 
-compliance policy by the HR department and 18% employees are showing neutral which
+(cid:53)(cid:53)(cid:37)(cid:32)
 
-indicates that they are confused about this circulation. Finally, I would like to say that the HR
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
 
-department should focus more to build awareness about the compliance policy. To build this,
+(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
 
-they can arrange some SMS contest along with small prizes among employees so that they fell
+(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
 
-more interest to read the company compliance policy on regular basis.
+(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
 
-HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:53)(cid:48)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
-
-(cid:32) (cid:32) (cid:32) (cid:32)
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)

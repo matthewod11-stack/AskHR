@@ -1,7 +1,13 @@
-## More stable work schedule ¼ kwork-related stress.
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: c4e686f7051bf22cb39f9a53c6674adca6d27f49
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# roles
 
-k anticipated turnover. m group cohesion. m work satisfaction.
+RR ¼ 82%
 
-The results showed differences in signiﬁcant predictors of anticipated turnover for differing age groups:
+n ¼ 648
 
-20–30yrs ¼ job satisfaction and job stress 31–40yrs ¼ job satisfaction 41–50yrs ¼ job satisfaction and group
+Ordinal logistic regression analyses used to develop a model of nurses’ intention to quit.

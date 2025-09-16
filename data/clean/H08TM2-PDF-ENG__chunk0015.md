@@ -1,25 +1,17 @@
-# at the end of the year.”
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5ddf65dd6cbfe74acc0b8406b98e781adb8bfce8
+title: H08TM2-PDF-ENG
+---
+# need to.
 
-- Don’t be afraid to repeat yourself. During diﬃcult times, people
+- Use the power of “and.” The word “and” allows us to align two
 
-need to hear your core message many, many times to believe it’s true.
+seemingly separate thoughts: Things are diﬃcult, and things will be
 
-Repetition creates consistency and helps people build trust with the
+okay. For example, your recovery story may be “Our business results
 
-new direction. Resist getting bored with your own words and changing
+have been dropping over the last year and we now have an excellent
 
-them up. One CEO Jordan coached posted his three core messages on
-
-his phone to remind him to repeat them in every situation. And one of
-
-Darcy’s clients set up multiple notiﬁcations during the day to keep the
-
-core message top of mind—and to reinforce his own belief that they’d
-
-reach the goals.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+plan to turn things around. I’m looking forward to celebrating with you

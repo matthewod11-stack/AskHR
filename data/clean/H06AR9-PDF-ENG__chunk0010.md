@@ -1,23 +1,17 @@
-## HBR / Digital Article / Parents, Take Your Sick Days
+---
+source_path: H06AR9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d43b2d7c726ace18e447b693774ac2df78ac78a
+title: H06AR9-PDF-ENG
+---
+# you (at home and at work) healthier.
 
-- Your family is relying on you. Pushing through the week just to crash
+- Taking the necessary time to recover will shorten your sickness, so you
 
-on Saturday means you may miss opportunities to go hiking, visit the
+can get back on your feet faster.
 
-playground, or take part in some other favorite family activity.
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-- Taking time for yourself communicates your priorities and models
+2
 
-behaviors to others — both at work and at home. If you want your
-
-kids to grow up to take care of themselves and work in a healthy
-
-environment, prioritizing your own health helps them see that it’s OK.
-
-- Finally, “being sick” doesn’t mean that you’re down with a fever,
-
-chills, stomach cramps, or migraine. Mental health days are just
-
-as important. Taking mental health seriously can have an outsized
-
-impact on family life by reenergizing you to engage with your partner
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

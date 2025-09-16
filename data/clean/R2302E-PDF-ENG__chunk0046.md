@@ -1,11 +1,17 @@
-## Lasorda, the late, great manager of the Los Angeles Dodgers baseball
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c59e4244fdf31df3758655118b5d59a321b33135
+title: R2302E-PDF-ENG
+---
+## less true give-and-take with the president in the room,” JFK deliberately
 
-team, put it, “Managing is like holding a dove in your hand. If you hold
+chose not to attend some of the team meetings.
 
-it too tightly, you kill it, but if you hold it too loosely, you lose it.”
+. . .
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+The key to successful leadership is knowing when to get in the way,
 
-14
+when to get out of the way, and how to send crystal clear signals to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+your followers about which mode to operate in right now. As Tommy

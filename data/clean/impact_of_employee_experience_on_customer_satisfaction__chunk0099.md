@@ -1,31 +1,21 @@
-# their life satisfaction, fulfillment, and satisfaction with domains such as marriage and
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 66f95b20d5d2b64be73b95848e878a39306c38bf
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 2.4.2. Subjective Well-being
 
-work”. (Diener, Oishi, & Lucas, 2003). According to different studies, subjective well-
+A good working definition of subjective well-being is “the experience of joy,
 
-being distinguishes between a person's subjective assessments of and emotions
+contentment, or positive well-being, combined with a sense that one’s life is good,
 
-about his or her life and the real circumstances of that person's existence. Many
+meaningful, and worthwhile.” (Lyubomirsky, 2014) Another research document based
 
-relatively healthy, wealthy individuals are dissatisfied, and many comparatively poor
+on Diener, Oishi and Lucas in their journal article Personality, culture, and subjective
 
-or sick people have meaningful and fulfilling lives. In some relatively poor nations, the
+well-being explains well-being as “the scientific analysis of how people evaluate their
 
-average subjective well-being is higher than in some relatively prosperous ones. In
+lives—both at the moment and for longer periods such as for the past year [including]
 
-addition, some nations become richer over past several decades, but the life of their
-
-citizens has not improved. (Myers D. , 2000) Based on Ed Diener and Robert Biswas-
-
-Diener, higher SWB individuals are likely to make more money. In general, they enjoy
-
-better physical health and outlive those with lower SWB. (Diener & Diener, 2008)
-
-James E. Maddux defines happiness in terms of the subjective well-being (Maddux,
-
-- 2018) paradigm, which describes the different positive ways that individuals assess
-
-and experience their life. Positive emotions should be felt often, unpleasant emotions
-
-should be felt seldom, and overall life satisfaction should be high for someone with
-
-high levels of SWB. SWB thus includes both emotive experiences and cognitive
+people’s emotional reactions to events, their moods, and judgments they form about

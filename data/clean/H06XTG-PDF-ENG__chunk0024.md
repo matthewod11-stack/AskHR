@@ -1,9 +1,21 @@
-## On the sales team, managers both at headquarters and in local oﬃces
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 318192918494b03bad84f546d6623651ab35e522
+title: H06XTG-PDF-ENG
+---
+## HBR / Digital Article / How Much Autonomy Should You Give Your Global Teams?
 
-agreed that if a customer from the Chinese market was a global
+instance, in answering the questions above, an executive at a U.S.-
 
-customer, the home oﬃce would take the lead, with the local team
+based Internet company determined that they should give their China
 
-providing support. But if a customer was local, the China team would
+team greater autonomy — they just weren’t sure exactly where or
 
-handle it themselves, and would have the authority to decide on prices,
+how. As such, they began conducting detailed planning sessions with
+
+representatives from every major department to identify areas where it
+
+would make the most sense to increase the China team’s autonomy. This
+
+led to concrete agreements with several departments:

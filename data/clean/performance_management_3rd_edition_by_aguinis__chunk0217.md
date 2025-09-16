@@ -1,3 +1,25 @@
-## 1.6 CHARACTERISTICS OF AN IDEAL PM SYSTEM
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 0d64e70d912ebfd219409b7e563e310357a8d68d
+title: performance_management_3rd_edition_by_aguinis
+---
+## Purposes Served by a Performance Management System
 
-So far, we have defined performance management, described the advantages of implementing good performance management systems, discussed some of the dangers of not doing a good job with the design and implementation of the system, and described the various purposes achieved by a good system. But what does a good system look like? The following characteristics are likely to allow a performance management system to be successful. Practical constraints may not allow for the implementation of all these fea- tures. The reality is that performance management systems are seldom implemented in an ideal way.43 For example, there may not be sufficient funds to deliver training to all people involved, supervisors may have biases in how they provide performance ratings, or peo- ple may be just too busy to pay attention to a new organizational initiative that requires their time and attention. Also, there may be organizational or even country-level con- straints that prevent the implementation of a good performance management system. For example, consider the case of Ghana, which is a country that espouses collectivist values over individual performance, and it is a society that is male-dominated and dominated by
+Strategic: To help top management achieve strategic business objectives
+
+Administrative: To furnish valid and useful information for making administrative decisions about employees
+
+Informational: To inform employees about how they are doing and about the organization’s and the supervisor’s expectations
+
+Developmental: To allow managers to provide coaching to their employees
+
+Organizational maintenance: To provide information to be used in workplace planning and allocation of human resources
+
+Documentational: To collect useful information that can be used for various purposes (e.g., test development, administrative decisions)
+
+matrices and forms is now spent talking with the employees about how they can improve their performance, allowing for progress on an ongoing basis. This serves a developmental purpose.
+
+Although multiple purposes are possible, a survey of industrial and organizational psychologists working in HR departments in more than 100 different organizations reported that the two most frequent purposes are administrative (i.e., salary decisions) and developmental (i.e., to identify employees’ weaknesses and strengths). Overall, in the organizations that participated in this study, performance management served at least two of the purposes mentioned earlier.42 As will be discussed in Chapter 9, these purposes place conflicting demands on the raters because they must be both judges (i.e., make salary decisions) and coaches (i.e., provide useful feedback for performance improvement) at the same time.
+
+Now, think about the performance management system implemented in your organization or the last organization for which you worked. Table 1.4 summarizes the various purposes served by a performance management system. Which of these purposes are being served by the system you are considering?

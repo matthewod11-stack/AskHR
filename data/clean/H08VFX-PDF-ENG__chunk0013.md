@@ -1,17 +1,41 @@
-# conversation.
+---
+source_path: H08VFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d890e8f4651c305df8a395d1508a1dea8dcb048
+title: H08VFX-PDF-ENG
+---
+# your team.
 
-Amplify your early adopters.
+- Those are good points to keep in mind for the future. Right now
 
-There are likely people who agree with you or who are already seeing
+though, I need to know the speciﬁc obstacles you’re facing with Y so we
 
-progress, but they may not be as vocal. Give them a platform to share
+can hit the deadline.
 
-their support and what’s working. For example, in team meetings,
+If they push back with some version of “What if this doesn’t work?,”
 
-ask them to share their experience, for example, “Abud, you’ve been
+recruit them as a collaborator in the solution. For example, “That’s
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+exactly why I need your expertise on the operations side,” or “You know
 
-4
+this process better than anyone, so what should we watch out for?”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Be clear about what’s negotiable and what’s not.
+
+That could sound like: “We’re freezing spending on all events. That’s not
+
+changing. What we can discuss is options for digital marketing.” You’re
+
+directing people’s desire for contribution and inﬂuence to an area where
+
+they can meaningfully move things forward.
+
+Rick stayed ﬁrm on the fact that the new approval process would move
+
+forward, but allowed the department heads to choose which projects
+
+to pilot the new system with ﬁrst. Suddenly, instead of ﬁghting the
+
+change, his team was debating the merits of starting with road repairs
+
+versus business permits, which was ultimately a much more productive

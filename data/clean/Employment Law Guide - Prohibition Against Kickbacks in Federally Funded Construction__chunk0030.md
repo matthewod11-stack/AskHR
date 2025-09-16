@@ -1,9 +1,8 @@
-# Room S-3502
-
-Washington, DC 20210
-
-The Anti-Kickback provision of the Copeland Act gives workers on covered Federal contracts the right to
-
-receive the full pay to which they are entitled for the work they perform. The Act also protects workers on
-
-covered contracts from payroll deductions that are not explicitly permitted under DOL's regulations or
+---
+source_path: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded
+  Construction.md
+pages: n/a-n/a
+chunk_id: 7dd8396583460efc743ccbfbebd95e4c78f07fa8
+title: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded Construction
+---
+## Division of Government Contracts Enforcement 200 Constitution Avenue, NW

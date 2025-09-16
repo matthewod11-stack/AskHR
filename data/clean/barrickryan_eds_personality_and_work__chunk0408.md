@@ -1,11 +1,19 @@
-## Academy of Management Review, 11, 710–725.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 6275318c60469df9c04fb443234dadbb5d7f6237
+title: barrickryan_eds_personality_and_work
+---
+# 114 PERSONALITY AND WORK
 
-Campbell, J. P. (1990). Modeling the performance prediction problem in industrial and organizational psychology. In M. D. Dunnette & L. M. Hough (Eds.), Handbook of industrial and organizational psy- chology (2nd ed., Vol. 1, pp. 687–732). Palo Alto, CA: Consulting Psy- chologists Press.
+Borman, W. C., Buck, D. E., Hanson, M. A., Motowidlo, S. J., Stark, S., & Drasgow, F. (2001). An examination of the comparative reliability, validity, and accuracy of performance ratings made using comput- erized adaptive rating scales. Journal of Applied Psychology, 86, 965–973.
 
-Campbell, J. P. (1999). The deﬁnition and measurement of performance in the new age. In D. R. Ilgen & E. D. Pulakos (Eds.), The changing nature of performance: Implications for stafﬁng, motivation, and develop- ment (pp. 399–429). San Francisco: Jossey-Bass.
+Borman, W. C., & Motowidlo, S. J. (1993). Expanding the criterion do- main to include elements of contextual performance. In N. Schmitt & W. C. Borman (Eds.), Personnel selection in organizations (pp. 71–98). San Francisco: Jossey-Bass.
 
-Campbell, J. P., McCloy, R. A., Oppler, S. H., & Sager, C. E. (1993). A the- ory of performance. In N. Schmitt & W. C. Borman (Eds.), Person- nel selection in organizations (pp. 35–70). San Francisco: Jossey-Bass. Chan, K., & Drasgow, F. (2001). Toward a theory of individual differences and leadership: Understanding the motivation to lead. Journal of Ap- plied Psychology, 86, 481–498.
+Borman, W. C., & Penner, L. A. (2001). Citizenship performance: Its nature, antecedents, and motives. In B. W. Roberts & R. T. Hogan (Eds.), The intersection of personality and industrial/organizational psychology (pp. 45–61). Washington, DC: American Psychological Association.
 
-Coleman, V. I., & Borman, W. C. (2000). Investigating the underlying structure of the citizenship performance domain. Human Resource Management Review, 10, 25–44.
+Borman, W. C., Penner, L. A., Allen, T. D., & Motowidlo, S. J. (2001). Per- sonality predictors of citizenship performance. International Journal of Selection and Assessment, 9, 52–69.
 
-Conway, J. M. (1996). Additional construct validity evidence for the task/contextual performance distinction. Human Performance, 9, 309–329.
+Borman, W. C., White, L. A., & Dorsey, D. W. (1995). Effects of ratee task performance and interpersonal factors on supervisor and peer per- formance ratings. Journal of Applied Psychology, 80, 168–177.
+
+Brief, A. P., & Motowidlo, S. J. (1986). Prosocial organizational behaviors.

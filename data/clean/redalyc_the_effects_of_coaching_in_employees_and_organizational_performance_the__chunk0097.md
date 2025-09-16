@@ -1,5 +1,9 @@
-## practices. Personnel Psychology, 62(2): 361-404.
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 07ae9467284c251a5a916d121abf1a73bfe3ffcf
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Intangible Capital – http://dx.doi.org/10.3926/ic.586
 
-http://dx.doi.org/10.1111/j.1744-6570.2009.01142.x
-
-BOWLES, S.; CUNNINGHAM, C.J.L.; ROSA, G.M.D.; PICANO, J. (2007). Coaching leaders in
+BONO, J.; PURVANOVA, R.K.; OWLER, A.J.; DAVID, B. (2009). A survey of executive coaching

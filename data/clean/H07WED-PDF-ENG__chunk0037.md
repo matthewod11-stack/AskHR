@@ -1,15 +1,31 @@
-## bounce back from setbacks and inspire perseverance in your team.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b94287847172ec0f9a78f870cb3bd358b69119ff
+title: H07WED-PDF-ENG
+---
+## learn from the outcomes of your risk-management decisions.
 
-- 5. Constructively tough-minded
+- 3. Bias toward action
 
-Project managers need to be resilient when facing project setbacks. To
+Project managers are action oriented by nature. To align with a CEO
 
-further develop this trait, actively seek feedback, even when critical.
+mindset, focus on the broader impact of your actions. Participate in
 
-Train yourself to handle criticism and adversity with composure. Seek
+decision-making processes beyond your project’s scope and engage in
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+cross-functional initiatives to inﬂuence outcomes. Continuously reﬁne
 
-7
+your project leadership skills, emphasizing eﬃcient execution.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 4. Optimism
+
+Optimism in project management involves maintaining a positive
+
+outlook during challenging project phases. To elevate this mindset,
+
+mentor and motivate your project team members, emphasizing chances
+
+for learning and growth. Cultivate a positive outlook by focusing on
+
+opportunities rather than obstacles. Develop a collective resilience to

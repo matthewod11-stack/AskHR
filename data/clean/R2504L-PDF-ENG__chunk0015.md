@@ -1,57 +1,51 @@
-## HBR / Magazine Article / Hybrid Still Isn’t Working
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a24d30d9f0ede490e01e373fcafa4ff6399f632
+title: R2504L-PDF-ENG
+---
+## no response to their pings—a manifestation of the absence of social ties.
 
-are less productive. We also heard that attendees of remote meetings
+Ricky Adam’s project Don’t You Forget About Me captures abandoned office plants of the Covid-19 pandemic.
 
-often multitask and don’t pay full attention. The result is that not only
+Team members who see one another regularly in virtual meetings are
 
-are participants not contributing meaningfully but also the hosts of
+better positioned to get the help they need from their team; for them,
 
-meetings have to hold “postmeeting meetings” to explain to the people
+the biggest challenge is getting help or information from people on
 
-who were distracted what they missed.
+other teams. To improve their chances of getting a response, employees
 
-The wrong people get promoted. The shift in performance management engendered by remote work has had a strong eﬀect on who gets ahead.
+usually ask for an introduction from one of their own team members
 
-We heard in our focus groups that promotions are now based much
+with a personal connection to someone on the other team. The growing
 
-more on individual performance, because that is what managers are
+problem, however, is that with retirements and other forms of turnover,
 
-tracking. Managers often have no real idea whether colleagues can get
+fewer coworkers know one another personally. While turnover is not
 
-along with others, let alone manage them, because they rarely see them
+new, its impact is more disruptive in remote or hybrid settings, where
 
-interacting with other people. The performance management focus
+informal relationships are harder to build and maintain.
 
-on KPIs that often accompanies remote work has a serious drawback:
+Meetings are less effective. By now, the drawbacks of virtual meetings
 
-Research led by Alan Benson of the University of Minnesota has shown
+are well-known. In our focus groups, we examined two of the most pernicious: They dampen productivity, and they are less eﬀective in
 
-that promoting the best individual performers into management jobs
+generating useful ideas. We learned that virtual meetings are more
 
-leads to worse team performance.
+frequent, in part, because they are used to address issues that people
 
-Culture deteriorates. Organizational culture is commonly deﬁned as
+previously solved by sticking their heads in colleagues’ oﬃces to ask
 
-the norms and values that shape how people behave. Employees learn
+for assistance. The number of participants in virtual meetings tends to
 
-them not from slogans but from observation—by seeing how a boss
+be larger than in in-person meetings, because there are no constraints
 
-deals with a customer, by having a veteran employee explain the subtext
-
-of a cryptic memo, and so on. When employees can’t make such
-
-observations, the norms and values don’t take hold.
-
-Today, remote and hybrid organizations often have two cultures: the
-
-older one among those hired before the pandemic and the new one
-
-among the workers who came on board in the remote era. That cultural divide aﬀects the interactions between and behaviors of these two employee groups. Because they have diﬀerent ideas about what is
-
-acceptable, employees from both groups may think they are doing the right thing while behaving quite diﬀerently.
+on space. And because peripheral people are included, the meetings
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

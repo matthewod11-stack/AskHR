@@ -1,13 +1,13 @@
-# Information
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: dddb5e91ac1e490ef49687b172031a5e5229379f
+title: i
+---
+# Deobald, U., & Redzepi, A.
 
-Systems,
+(2021). The dark sides of people analytics: reviewing the perils for
 
-31(3),
+‐
 
-4103435.
-
-https://doi.org/10.1080/0960085x.2021.1927213
-
-89
-
-(cid:111) Guenole, N., Ferrar, J., & Feinzig, S. (2017). The Power of People: How Improve
+organisations and employees. European Journal of

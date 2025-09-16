@@ -1,9 +1,13 @@
-# ELECTRONIC PUBLISHING INITIATIVES
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bfe58152a1621dfb1d9a9b0bfc6334aeac082c13
+title: untitled
+---
+# 40 Psychology as a Profession
 
-In January 1995, the APAWeb site was available to its mem- bers and the public. The total “hits” in the ﬁrst three months was 22,474—a ﬁgure that today (in 2001) is reached every 30 minutes. Usage increased in every quarter of 1995, reach- ing 413,207 hits in the fourth quarter of that year; quarterly hits in 2001 ran at 90 million.
+year (one of which involved an innovative nationwide tele- phone conference call hookup involving over 50 sub- scribers), PP readers made crystal clear that they wanted articles that “provide practical advice and concrete sugges- tions that could be implemented in everyday practice set- tings, rather than merely placing the new ﬁndings within the context of the existing published literature (and then com- menting upon needed future research)” (DeLeon & Vanden- Bos, 2000, p. 595).
 
-Itisinterestingtonotethatmanypeoplefromavastarrayof ﬁeldsturntotheAPAforinformationonhowtoreferenceelec- tronic documents.TheAPAhas a special “style page” on elec- tronic citations. A million people access this specialized page on a relatively narrow topic every year. Nonpsychologist (and
+PP’s coverage included managed care, prescription privi- leges for psychologists, telehealth care, expanding roles for psychologists within the public policy (including legislative and administrative) arena, and behavioral health-service de- livery within primary care. Each of these issues has become of major concern to the profession and to the nation’s overall health-delivery system during the past decade. The reader- ship numbers (individual and institutional) steadily increased to approximately 8,000, making Professional Psychology the second most popular subscribed to APA journal.
 
-nonstudent) use of the APA Web site remains strong. Almost 35% (or some four million annual users) of the APAWeb site are not psychologists or students studying psychology.
-
-In 1997, APA president-elect Martin Seligman proposed the establishment of an electronic journal called Treatment, to be published jointly with the American Psychiatric Associ- ation. For political reasons the “other APA” withdrew from the venture because of fear that psychologists might claim that reading the copublished journal would qualify them for prescribing medication. The American Psychological Associ- ation then decided to embark on the e-journal alone, which is now titled Prevention and Treatment. By the summer of 2001, under Seligman’s editorship, the journal had 20,000 regular readers, with each article being “hit” an average of 35,000 times within the ﬁrst year of release. Publications from the Practice Directorate, the e-journal, Web-based com- munications, videotapes, and over 70 new books each year constitute communications from the APA that are directed toward the practicing professional psychologist.
+In retrospect, the concerted effort to promulgate APA Practice Directorate efforts and relevant federal public health initiatives (e.g., those of the U.S. Surgeon General), although perhaps highly unusual for an APA journal, have had an impact in educating the ﬁeld regarding the changes evolving within their practice environments. Also, efforts to engage women and ethnic minorities in the editorial process (and thereby enrich the breadth of coverage) were particularly successful. The overall percentage of ethnic minority mem- bers in the APA at the time was 5.38%; in sharp contrast, in 1999 three of the ﬁve Professional Psychology associate edi- tors were female, and two associate editors were members of ethnic minorities. Further, 34.7% of the editorial board were female and 14.7% were ethnic minorities. This was a signiﬁ- cantly higher percentage of both categories of members than almost any other APA journal.

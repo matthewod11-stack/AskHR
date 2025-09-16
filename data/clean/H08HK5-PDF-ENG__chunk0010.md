@@ -1,13 +1,23 @@
-# How to Show Thankfulness Meaningfully
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a8791b14789d688758f4f2833cea31479601291
+title: H08HK5-PDF-ENG
+---
+## HBR / Digital Article / When Expressing Gratitude to Employees, Timing Matters
 
-Imagine again our earlier scenario when we asked you to imagine you
+In the second study we gave 330 new subjects solvable but diﬃcult
 
-were tasked with alerting colleagues about layoﬀs. The most tactful
+geometric puzzles and tested the eﬀects of other positive sentiments,
 
-thing your boss could do is to express their genuine gratitude before you begin. Something as simple as, “Thank you for taking on this diﬃcult
+like hope. Expressing gratitude in advance, we found, was signiﬁcantly associated with social worth, while hope in advance of the diﬃcult task
 
-task. I understand how unpleasant this is and appreciate you taking this
+was unrelated to social worth. Oﬀering gratitude in advance, unlike
 
-responsibility so seriously.” Our research found this “thanks in advance”
+other mechanisms we tested, helped counteract the negative emotions
 
-expression of gratitude works by helping to down regulate the negative emotions associated with the diﬃcult task before it actually occurs and encourages you to stick with it, despite it being extremely diﬃcult and
+caused by challenging tasks by increasing participants’ feelings of social
+
+worth. Increasing people’s sense of social impact, for example, did not
+
+have this emotionally regulating eﬀect.

@@ -1,21 +1,45 @@
-# A Shift to Learning Experience Platforms
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2f160ad77216304f49e26791c11d0c604f48d148
+title: H07OHG-PDF-ENG
+---
+# HBR / Digital Article / 5 Ways Companies Are Addressing Skills Gaps in Their Workforc…
 
-How employees know what to learn next
+the government. Employees receive coaching, advice, and support to
 
-Organizing and tracking what employees are learning can be a
+help them ﬁnd the training program that’s right for them, and the
 
-cumbersome task. For years, this work has been done by software
+training programs are paid for by the employer.
 
-known as “learning management systems” (LMS), which are relatively
+For example, in 2021, Target announced a tuition-assistance program
 
-simple tools that store learning material, typically in the form of
+called “Dream to Be” in partnership with Guild, one of the leading
 
-presentations, videos, and text. Most large companies have one, but few
+players in this growing space. According to Chief Diversity and Inclusion oﬃcer Kiera Fernandez, “Target has oﬀered a traditional
 
-employees spend much time on them.
+tuition reimbursement program for more than two decades. Now,
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+through our partnership with Guild to oﬀer Dream to Be, team members
 
-4
+can attend classes at more than 40 schools, colleges, and universities
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+… with no out-of-pocket tuition costs.” Fernandez said that as of April
+
+2023, more than 25,000 employees have been approved for the program.
+
+If designed eﬀectively, the beneﬁts of tuition assistance programs for employers are clear. For example, Jack Hartung, chief ﬁnancial oﬃcer
+
+of fast-casual restaurant chain Chipotle, told CNBC that “employees
+
+who take advantage of the company’s free degrees are three and a
+
+half times more likely to stay with the company and seven times more
+
+likely to move up into management.” However, research suggests that
+
+while 84% of employees value tuition reimbursement beneﬁts highly,
+
+on average, only 2% of eligible employees use this beneﬁt. This implies
+
+employers must do more to take advantage of this powerful tool.

@@ -1,11 +1,21 @@
-## Relation to State, Local, and Other Federal Laws
+---
+source_path: Employment Law Guide - Hours and Safety Standards in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: 240dc14ac0f0338ff6e6d66ca388fb585ff9816b
+title: Employment Law Guide - Hours and Safety Standards in Construction Contracts
+---
+# withholding of liquidated damages.
 
-The provisions of the Contract Work Hours and Safety Standards Act (CWHSSA) may also apply to Davis- Bacon and Related Acts (DBRA) contracts where the contract is ﬁnanced in whole or in part by grants or loans
+Workers have rights of action and/or of intervention against the contractor and its sureties if the amounts
 
-from the U.S. Government, or loans insured or guaranteed by the U.S. Government, except where the federal
+withheld are insuﬃcient to reimburse the unpaid wages. Under such an action, it is no defense that workers accepted less than the required rate of wages or voluntarily returned wage payments to the contractor.
 
-assistance is only in the nature of a loan guarantee or insurance. The overtime requirements of the Fair Labor
+Contractors found to have committed violations of CWHSSA's overtime requirements may have their
 
-Standards Act (FLSA) frequently also apply to Davis-Bacon and Related Acts (DBRA) contracts. In addition to
+contracts terminated. Contractors found to have disregarded their obligations to workers or subcontractors
 
-these federal labor standards, state overtime pay requirements may apply.
+may be debarred from receiving future contracts for 3 years.
+
+Contractors may challenge the Wage and Hour Division's determinations of violations before an Administrative Law Judge (ALJ). Contractors may appeal ALJ decisions and orders to the Administrative Review Board
+
+(ARB). ARB determinations on violations may be appealed to and are enforceable through the federal courts.

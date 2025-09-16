@@ -1,17 +1,15 @@
-# sharpens future calls.
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e7fa3cb88e460cbd6bab55e27cc9c7b79875b3d
+title: H08SY7-PDF-ENG
+---
+## HBR / Digital Article / How CEOs Hone and Harness Their Intuition
 
-- 3. Contextual calibration. Highly intuitive leaders don’t apply the
+- 2. Structured reﬂection. It’s not experience alone that hones intuition
 
-same instincts to every context. They know where their intuition is
+—it’s analyzed experience. Great leaders take time to review
 
-valid—and where it’s vulnerable. For example, one executive told me
+decisions, successes, and misses. They ask: What was I feeling?
 
-she never relies on gut when reviewing legal contracts, but does when
-
-assessing talent ﬁt. Intuition is powerful in domains where you have
-
-deep expertise, but dangerous in ones where you don’t.
-
-- 4. Quiet listening. Intuition doesn’t shout. It whispers. It emerges in
-
-the mental stillness between meetings, when walking, writing, or
+What did I sense? What did I misread? This metacognitive awareness

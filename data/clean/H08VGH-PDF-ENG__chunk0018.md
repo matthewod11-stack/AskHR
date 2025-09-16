@@ -1,19 +1,13 @@
-# Foundational Skills Knit Talent Together
+---
+source_path: H08VGH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7729399616264782182ed0c9bb9704da86834d4f
+title: H08VGH-PDF-ENG
+---
+## scratch, and ultimately anchor performance when the next technology
 
-Our study also found that one subset of foundational skills, in
+arrives. In a world of constant disruption, organizations should pay even
 
-particular, helped workers to achieve the highest levels of professional
+closer attention to their employees’ foundational skills—because those
 
-attainment: social skills. Work today is woven from many threads—
-
-cross-functional projects, remote teams, and tools that update every
-
-quarter. The more moving parts a ﬁrm has, the more it relies on people
-
-who can align goals, share knowledge, and keep friction low.
-
-Previous research helps reveal why social skills are particularly
-
-important today. David Deming’s landmark study of U.S. jobs shows
-
-that positions requiring a high level of social interaction grew by almost
+are what make long-term adaptability possible.

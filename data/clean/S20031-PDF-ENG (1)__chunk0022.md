@@ -1,7 +1,7 @@
-# May–June 2020
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
-
-.
-
-D E V R E S E R S T H G R L L A .
+---
+source_path: S20031-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: fe049368756f43e85c527105989d946c0657eb1f
+title: S20031-PDF-ENG (1)
+---
+# 4 Harvard Business Review

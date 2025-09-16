@@ -1,15 +1,17 @@
-## HBR / Digital Article / Growth Isn’t the Only Way for Companies to Create Value
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0885f068a85ba5a94f40aedb34bdf2d7b8371d25
+title: H08R2D-PDF-ENG
+---
+## a shift from traditional industrial conglomerate to digital industrial
 
-customer integration. We found that while pursuing this strategy over
+innovation leader, embedding software and data-driven services into its
 
-the past decade, Siemens achieved an annual TSR of 12%.
+core oﬀerings and creating more resilient revenue streams and deeper
 
-- 2. Take the High-End Road: The Gross Margin Play
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Mature businesses are often tempted to rely on a strong brand
+3
 
-image while cutting costs. However, enhancing quality can be a more sustainable path to value creation, enabling ﬁrms to establish a diﬃcult-
-
-to-erode position and improve their gross margins.
-
-The stable outperformers who “took the high-end road” increased their
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

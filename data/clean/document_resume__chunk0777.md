@@ -1,7 +1,23 @@
-# Not this:
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: de9ac548649f12f16c1f59358faf0132db8711a4
+title: document_resume
+---
+# Not this.
 
-It wasn't Diaid/o's fault that he didn't hit the deadline.
+Patrol Off-ILA r Dinlio always does a good job in performing the search protedure
 
-Source I torn II John &martial and Richard W Ikatty, Pcrforrn.jatsApppi,i1 NY,comg,llumaii Ilthaviotir at Work (Boston Kent Publishing Company, I98 I pp 263 4.0 by Wadstsurth, Iuc Rtvinted by pernussion of PWS Publishing Company, a division of Wadsworth, Inc
+5.
 
-I013
+Avoid using quanutauve wino (numbers). use descriptions of behavior.
+
+Use this. Nancy submitted her reports on tune. They contained no misinformation or mistakes. When discrepancies ottained on reports from the last period, she identified the causes by referring to the changes in accounting protedures and the imp& t they had on this period.
+
+Not this: Mr. Boebel met 90% of deadlines with 95% accuracy.
+
+6.
+
+Proxide sufficient detail so that an assessment can be made of the extent to which LharaL ten .tks of the situation beyond the control of the ratee may have affected the beim
+
+Use this. Mr. Dzaidzo's failure to hit the "target date" for the sky-hook quota was caused by the failure of Mr. Ressler's department to pros ide the ordered supply of linkage gaskets Mr Dzanlio submitted four memos in aunt-pawn of and in ref-creme to the gasket shortage.

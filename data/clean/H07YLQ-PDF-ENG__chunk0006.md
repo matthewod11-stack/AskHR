@@ -1,9 +1,7 @@
-# gemenacom/Getty Images
-
-For businesses to survive, their leaders need to put succession plans
-
-in place. There’s only one problem: A succession plan only works
-
-if high-performing employees can advance through the ranks. That’s
-
-impossible if their boss is a perennial bottleneck to high-potential
+---
+source_path: H07YLQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d5a835912df62b7a27a9bf1a10c06ee52a01b3c
+title: H07YLQ-PDF-ENG
+---
+## Published on HBR.org / December 22, 2023 / Reprint H07YLQ

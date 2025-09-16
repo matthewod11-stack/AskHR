@@ -1,29 +1,55 @@
-## HBR / Magazine Article / When Diversity Meets Feedback
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 31c474aeae35a10d325cdc395530a10fe10c1b4d
+title: R2305F-PDF-ENG
+---
+# remains between the two teammates.
 
-to be generous and supportive with the single intention of helping you
+“Speed-dating” sessions. If team relationships are closer, you may be
 
-succeed. No one wants to embarrass or attack you. Everyone gets a lot of
+ready to share a little more openly. Ask participants to prepare rapid-ﬁre
 
-tough advice, so you’re not singled out. When your turn comes, it might be diﬃcult to hear what people have to say, but this is one of the greatest
+feedback for one another. Send them oﬀ in pairs for six minutes of
 
-developmental gifts of your life.”
+discussion, with each giving feedback for three minutes. Then have
 
-. . .
+everyone move on to another colleague. At the end of the meeting have
 
-Once you have the right feedback loops in place, you’re on your way to
+all team members report back to the group on one helpful piece of
 
-building a team full of learn-it-alls who thrive on diverse perspectives. If
+feedback they received that they will act on.
 
-your group is made up of people from a variety of cultures, genders, and
+Live 360-degree feedback circles. If you have a mature team with
 
-generations, getting your employees to give feedback to one another
+strong relationships, get members together over a meal and take turns.
 
-frequently and openly allows each to get myriad ideas for how to
+If I’m up ﬁrst, the person to my left gives me feedback (in front of the
 
-improve, pushes the team toward excellence, exposes blind spots, and
+group). I listen and say thank you. Then the person to the left of that
 
-promotes greater cohesion. That’s how you can make sure DEI and
+team member gives me feedback. Once we’ve completed the circle, we
 
-radical candor converge rather than collide.
+move on to the next recipient. At the end each person reports one key
 
-A version of this article appeared in the September–October 2023 issue of Harvard Business Review.
+takeaway from the feedback received.
+
+Exchanging feedback in front of a team requires courage but oﬀers clear
+
+advantages. It stops members from whispering behind one another’s
+
+backs and encourages the entire team to see feedback as a normal
+
+and healthy way to achieve success. One person who experienced a 360-
+
+degree circle told me, “Getting publicly ripped apart sounds like torture.
+
+Each time I go to a live 360, I’m nervous. But after you get started,
+
+you see it’ll be ﬁne. Because everyone is watching, people are careful
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+20
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

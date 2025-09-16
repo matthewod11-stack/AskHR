@@ -1,15 +1,17 @@
-## HBR / Digital Article / Overcoming Your Fear of Giving Tough Feedback
+---
+source_path: H07Q7F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03303e7ec497749482e3f27e66e8f3d7face148b
+title: H07Q7F-PDF-ENG
+---
+# with one another.
 
-trust with your team. And that, as a leader, is one of the best things you
+Creating a positive feedback culture will give you opportunities to ﬂex
 
-can hope for.
-
-This article was originally published online on July 26, 2023.
-
-Melody Wilding is an executive coach, human behavior professor, and author of Managing Up: How to Get What You Need from the People in Charge. Download a free chapter here.
+your newfound assertiveness skills while also strengthening rapport and
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,7 @@
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 004d564767488d054367212a7f87ac36eba7eb15
+title: industrial_organizational_psychology_an_applied_approach
+---
 # S
-
-Stay awake! If you feel you are falling asleep, qui- etly leave the room. Let the presenter know you are listening by nod- ding your head, making eye contact, or asking

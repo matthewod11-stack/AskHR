@@ -1,9 +1,17 @@
-# DC
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91a033e014b29e8b1a6400dc1a1e929a70ee783c
+title: R2003G-PDF-ENG
+---
+# both leader and subordinate.
 
-Dan Ciampa (danciampa.com) is a former CEO, an adviser to boards and chief executives, and the author of ﬁve books, including Transitions at the Top: What Organizations Must Do to Make Sure New Leaders Succeed (with David L. Dotlich, Wiley, 2015) and Right from the Start: Taking Charge in a New Leadership Role (with Michael Watkins, Harvard Business Review Press, 1999).
+Everyone requires help to achieve his or her highest potential and to
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+sustain the eﬀort it takes to lead a complex organization. The right chief
 
-13
+of staﬀ can be an important source of assistance to leaders who are
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+pushing their organizations and themselves to ever better performance.
+
+A version of this article appeared in the May–June 2020 issue of Harvard Business Review.

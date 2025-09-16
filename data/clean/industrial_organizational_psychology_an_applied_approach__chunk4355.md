@@ -1,5 +1,11 @@
-## Meyer, J. P., Stanley, D. J., Herscovitch, L., & Topolnytsky, L. (2002).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f8aed0bc835545762d473c0ad34e131a75568143
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Omaha, NE: University of Nebraska Press.
 
-Aﬀ ective, continuance, and normative commitment to the organization: A meta-analysis of antecedents, correlates, and consequences. Journal of Vocational Behavior, 61(1), 20–52.
+Muse, L. A., Harris, S. G., & Field, H. S. (2003). Has the
 
-Nadler, P. (1993). How to start job-rotation training on the right
+inverted-U theory of stress and job performance had a fair test? Human Performance, 16(4), 349–364.

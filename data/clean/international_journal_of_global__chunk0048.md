@@ -1,11 +1,13 @@
-## International Journal of Construction Education and Research, 13(1), 64–80.
+---
+source_path: international_journal_of_global.md
+pages: n/a-n/a
+chunk_id: 8312f8744bc2b474fa0e9840d7714e038783307b
+title: international_journal_of_global
+---
+## in Nigeria. British Journal of Management and Marketing Studies, 4(1), 17–32.
 
-Peters-Hawkins, A. L., Reed, L. C., & Kingsberry, F. (2018). Dynamic leadership succession: Strengthening urban
+Payne, R. A., Hovarter, R., Howell, M., Draws, C., & Gieryn, D. (2018). Succession planning in public health:
 
-principal succession planning. Urban Education, 53(1), 26–54.
+addressing continuity, costs, and compliance. Nurse Leader, 16(4), 253–256.
 
-Pynes, J. E. (2004). The implementation of workforce and succession planning in the public sector. Public Personnel
-
-Management, 33(4), 389–404.
-
-Ridwan, M. S. (2017). Planning practices: a multiple case study in the high-performing banks. Journal of
+Perrenoud, A. J., & Sullivan, K. T. (2017). Analysis of executive succession planning in 12 construction companies.

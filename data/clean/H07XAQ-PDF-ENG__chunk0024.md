@@ -1,17 +1,11 @@
-## the content in each one, as well as any accompanying resources.
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac795462fed6339c8566c5c269205d08a19aab4e
+title: H07XAQ-PDF-ENG
+---
+# right.
 
-. . .
+From a practical point of view, three things are better than many things.
 
-Many point to generational diﬀerences to explain the nuances of
-
-learning preferences. The truth is, we all have limited time, and we all
-
-want eﬃcient, well-curated, and thoughtfully framed learning programs
-
-and related resources. Instead of throwing in everything but the kitchen
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+One thing is even better. That applies to learning program options and

@@ -1,13 +1,15 @@
-## business into a leader in lifestyle-focused, child-centric family housing
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b15aed23eb90ac190325b71e6cd4404d1c906fb6
+title: H07UQT-PDF-ENG
+---
+# succession plan.
 
-in Western India. When he began to consider moving on, and with
+One of us (Rohit Gera) recently went through this exact scenario.
 
-no family members as potential successors, Rohit hired his coauthor
+For 12 years, Rohit worked as managing director and CEO of
 
-(family business management specialist Christina Wing) to advise on
+Gera Developments, a real estate development ﬁrm founded by his
 
-the search and onboarding process.
-
-Together, we led a two-month process that identiﬁed and hired Gulzar
-
-Malhotra to be Rohit’s successor. Gulzar is a seasoned real estate
+grandfather in Pune, India. During that time, he helped grow the

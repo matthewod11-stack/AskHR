@@ -1,11 +1,11 @@
-# two factors:
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5be294fa15f8c5234e3ec0250de53b6a2ab75a49
+title: R2402F-PDF-ENG
+---
+## with resources, connections with other fellows and mentors, and regular
 
-Structured follow-up. The importance of sustained direct support is
+meetings, which provided some accountability.
 
-still frequently overlooked by the organizers of hackathons or open-
-
-innovation challenges, who tend to focus on speed and idea generation.
-
-However, an increasing number of intermediaries are recognizing the
-
-need to support innovators and entrepreneurs beyond the original
+Successfully moving from the idea stage to implementation depends on

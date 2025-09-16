@@ -1,21 +1,27 @@
-## the Campinas plant as a sales and distribution hub, which you would
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b073b24e3077c72a4bc7981519f6ab4d50ed275c
+title: R2402M-PDF-ENG
+---
+# plant?”
 
-run. If that happens, our operational presence in Brazil would shrink
+“Your plan is innovative,” Takeshi said, genuine admiration in his voice.
 
-dramatically, but the margins could be attractive. We’d like to discuss
+“We’re willing to authorize the loans for the expansion. But we can’t wait
 
-that possibility with you as an alternative to expanding the plant.”
+forever. Our patience with this labor dispute has limits.”
 
-Paulo felt a knot in his stomach. He was being oﬀered a parachute—
+Paulo tightened his grip on the phone.
 
-albeit one that would put him in a lower-proﬁle position—but the move
+“In Japan,” Takeshi continued, “our kaizen philosophy centers around
 
-would lead to hundreds of layoﬀs and decimate the local community.
+harmonious collaboration between management and labor. It’s not
 
-Paulo had grown up in the area; after business school he had turned
+just about continuous improvement but also about trust, respect,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+and mutual growth. The stories I hear from Campinas trouble me. Disruptions, the threat of strikes—these are not the Luna way.” 3
 
-4
+Takeshi went on, “Our commitment to our employees is deep but not
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+without boundaries. One idea we’ve been considering is repurposing

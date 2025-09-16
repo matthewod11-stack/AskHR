@@ -1,17 +1,9 @@
-## ela passou por um período de crescimento exponencial, multiplicando seus
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 615b0736c0e86b8b0c66dc6997a6b8ef100cbd18
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# década de 2010 no interior de São Paulo.
 
-resultados a uma taxa média de cinco vezes ao ano, tendo, inclusive, adquirido
-
-outras empresas relacionadas ao seu negócio, brasileiras e estrangeiras,
-
-expandindo seu portfólio de produtos e participação no mercado. Além disso, ao
-
-contrário do que foi feito nos primeiros dez anos de vida da empresa, a partir de
-
-2022, investiu pesadamente em exposição midiática, online e offline. Sua marca é
-
-líder de buscas no Google dentre as marcas do setor desde então. Em janeiro de
-
-36
-
-2023, contava com mais de 130 bilhões de reais em ativos sob sua gestão e um
+De acordo com dados coletados junto à própria organização, de lá para cá,

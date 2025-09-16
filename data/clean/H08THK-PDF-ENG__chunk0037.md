@@ -1,17 +1,15 @@
-# ones.
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6b3086395e8820bfc80f78067912b735ad28a889
+title: H08THK-PDF-ENG
+---
+# your team with your words.
 
-- Choose sticky metaphors. When you introduce a new or abstract
+- Use simple language to write about complex things. Long,
 
-idea, your audience will search for something they recognize to help
+complicated sentences make written ideas hard to understand because
 
-them make sense of it. A metaphor is a powerful tool that compares or
+they demand more concentration. You’ll win more supporters if you
 
-equates a new, abstract idea to a familiar image or concept.
-
-- Humanize data. Slide decks with statistics and charts are helpful, but
-
-limited. The trick to making any data point interesting is to humanize
-
-it by placing the number in perspective. Any time you introduce
-
-numbers, take the extra step to make them engaging, memorable, and,
+replace long words and sentences with shorter, more straightforward

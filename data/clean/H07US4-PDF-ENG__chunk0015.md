@@ -1,13 +1,29 @@
-## for customers, or productivity, quality, and retention for employees.
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3e363a924c3b6a800c29edfca7446f3d49d2040
+title: H07US4-PDF-ENG
+---
+# times.
 
-Conventional wisdom also suggests that experiences rated as a 3 drive
+This is true for all customers of all products. It’s only when you’ve
 
-slightly less of these desired behaviors than the 4’s, who, in turn, drive
+managed to do something so compelling, so profound, so genuine, so
 
-slightly less than the 5’s. It’s this kind of thinking that leads us to
+moving that the customer says, “I loved this experience!” that you’re
 
-lump 4’s with 5’s into a “top-two box” rating, or a “percent favorable”
+able to predict their subsequent behavior. In direct contrast, “liking” or
 
-score, and then to focus our team on trying to move as many people as
+“really enjoying” or being “satisﬁed” tells us virtually nothing about a
 
-possible into this category — in eﬀect, to move the 2’s to 3’s, and the 3’s
+person’s future behavior.
+
+Love by the Numbers
+
+We can see this quantitatively, in the data. Ask customers or employees
+
+or moviegoers to rate some aspect of their experience on a scale of 1–5,
+
+with 5 being extremely positive. The conventional wisdom is that these
+
+feelings drive people’s behaviors, such as loyalty, advocacy, and spend

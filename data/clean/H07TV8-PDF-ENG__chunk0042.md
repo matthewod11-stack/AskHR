@@ -1,11 +1,23 @@
-# renewal.
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57a15fc640060a63c9a17a473ea4824359f0c1c4
+title: H07TV8-PDF-ENG
+---
+# age diversity in decision-making bodies.
 
-Author’s note: This article is inspired by the 2023 St. Gallen Symposium, a student-driven global platform for cross-generational dialogue involving senior and emerging leaders, to discuss pressing issues and enact change. Under the title “A New Generational Contract,” this year’s main symposium and year-round initiatives explored intergenerational connections, mutual obligations, and shared responsibilities for future generations.
+. . .
 
-This article was originally published online on October 12, 2023.
+Businesses play a crucial role in tackling the challenges of our
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+times, such as climate change. To enhance their eﬀectiveness in this
 
-9
+arena, they must become more curious to develop the innovations we
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+require, as well as more eager to adapt their behaviors accordingly.
+
+Current leadership structures can hinder this. Striving towards
+
+intergenerational leadership is key to overcoming these issues and
+
+unlocking competitive advantage by enhancing businesses’ capacity for

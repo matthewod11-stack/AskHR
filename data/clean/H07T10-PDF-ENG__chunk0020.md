@@ -1,13 +1,21 @@
-# thought.
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6a6b54d0d456e9c458068fd3236a68cd213590e
+title: H07T10-PDF-ENG
+---
+## in their level of complexity and involvement.
 
-- Evaluative questions: Questions that require deeper levels of
+- Factual questions: Questions that have straightforward answers
 
-thinking. The questions can be open or closed. Evaluative questions elicit analysis at multiple levels and from diﬀerent perspectives to
+based on facts or awareness.
 
-arrive at newly synthesized information or conclusions.
+- Convergent questions: Close-ended questions with ﬁnite answers.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Typically, these questions have one correct answer.
 
-4
+- Divergent questions: Open-ended questions that encourage many
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+answers. These questions are a means for analyzing a situation,
+
+problem, or complexity in greater detail and stimulate creative

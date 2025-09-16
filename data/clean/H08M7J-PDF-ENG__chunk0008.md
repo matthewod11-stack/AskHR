@@ -1,19 +1,11 @@
-## questions about role clarity, organizational direction, job security, and
+---
+source_path: H08M7J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c77804eb2f312ff3ded372514563c5d2a8608d5
+title: H08M7J-PDF-ENG
+---
+# Uncertainty overload
 
-“what’s next?” As a survivor, you may ask yourself: What does my future
+Uncertainty and anxiety about the future can be intensiﬁed for those
 
-look like here? Do I still ﬁt within this new version of the organization?
-
-In the wake of layoﬀs, restructuring can lead to ambiguous
-
-reporting lines and unclear responsibilities. Some survivors experience
-
-unmanageable role creep, ﬁlling in for team members who have left.
-
-Others must revert to roles that do not fully capitalize on their skillsets,
-
-risking lower engagement and performance.
-
-This uncertainty can feel paralyzing, as it directly challenges the
-
-underlying human need for predictability and control, leading to a drop
+who remain (and even more so for remote workers). You may have

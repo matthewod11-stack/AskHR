@@ -1,15 +1,17 @@
-# very much a two-way process.”
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 888a185aa15466b58a1583784d5d87bbcbaa13bd
+title: R2403D-PDF-ENG
+---
+# facilitate communication.
 
-They follow rigorous practices to retain institutional knowledge. A
+At the M&C Saatchi Group, where one business has been experimenting with staﬃng all nonmanagement positions with freelancers, the
 
-common concern with hiring freelancers is that when they leave, they’ll
+introduction to company culture starts even earlier—at the interview stage. Mark Dickinson-Keen, the company’s chief people oﬃcer, told us,
 
-take the valuable skills and knowledge they’ve accumulated with them.
+“The majority of the interview time is spent sharing how our freelance
 
-Companies are handling this in several ways: by engaging in disciplined
+model works, helping them understand what they can expect from the
 
-project-hygiene practices, using shared project-management tools (such
-
-as Asana, Moovila, or Smartsheet), and assigning full-time employees to
-
-take responsibility for end-to-end critical project deliverables. In some
+business, and checking that they are truly ready to work in this way. It is

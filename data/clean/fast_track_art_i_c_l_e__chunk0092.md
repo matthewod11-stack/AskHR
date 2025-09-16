@@ -1,3 +1,7 @@
-# HERO Scorecard
-
-Physical activity risk Stress risk Tobacco risk Weight risk Well-being risk Q50. If your organization provides a health risk questionnaire, do you offer any type of incentive to promote its use? (check all that apply) Token noncash reward Intracompany competition Cash/gift card Rafﬂes/prizes Financial contribution to health savings
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: ecae88edb430e028370f6e56ecbe6fbb788a46cc
+title: fast_track_art_i_c_l_e
+---
+# incentive for HA

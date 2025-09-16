@@ -1,17 +1,7 @@
-# Organizational Readiness.
-
-Recognize that careers centered on workﬂow software—
-
-implementation, customization, and maintenance—will evolve or
-
-diminish. Administrative teams in HR, ﬁnance, and IT will shrink or
-
-redeploy, freeing talent for innovation and strategic work. Suppliers,
-
-investors, and local economies anchored in software services will also
-
-feel these shifts. Change management, especially for the humans who
-
-will be aﬀected and will need to adapt will have to be thoughtfully
-
-managed to enable and accelerate the transition to AI systems.
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 376b45de534bc44284c00a56acf051ac3d7b63a2
+title: H08QLK-PDF-ENG
+---
+# inevitable early challenges.

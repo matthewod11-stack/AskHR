@@ -1,29 +1,21 @@
-# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 231065f871590663f856f145190714f85b4593af
+title: R2403D-PDF-ENG
+---
+## corporate knowledge management without the need for extra process
 
-work and intervene to adjust workloads, reprioritize tasks, and solve
+steps or human eﬀort. “We try to ensure that all the data sits in what
 
-bottlenecks in real time.”
+we call the ‘operating room,’” says Fasolo. “It’s a digital workspace where
 
-Where skills transfer is of lesser concern, companies can adopt
+we can track critical project data in one place. It’s visible to everyone
 
-a complementary workforce strategy: In-house employees develop
+—employees and freelancers—and managers can observe the ﬂow of
 
-generalist skills and are augmented on an as-needed basis by highly
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-specialized freelancers. At Mars, freelancers return periodically to
+7
 
-conduct tune-ups on the products and services they helped develop.
-
-They adopt a “sponsor” mindset to guide freelancers’ performance.
-
-Managers know that it’s critical to provide their employees with
-
-feedback and help them progress in their careers while motivating them
-
-to contribute to company performance. When it comes to freelancers,
-
-though, managers should take a diﬀerent tack, focusing on shaping
-
-challenging work assignments and creating an environment that allows
-
-freelancers to meet their professional goals during their stints with the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,15 @@
-## employee’s responsibilities, as well as your own expectations around
+---
+source_path: H08JHQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 298a7aa467a00888affd564de88166d100f80c46
+title: H08JHQ-PDF-ENG
+---
+# Mistake 2: Not Preparing Enough
 
-how and when they should be meeting their goals. You should be able
+Many new managers fail to properly prepare before their performance
 
-to name both their strengths and development areas. If there are tasks,
+discussions. But preparation is critical for a productive conversation.
 
-projects, or skills at which your employee is falling short, you should
+This is even more true if you plan to share critical feedback.
 
-also be able to give them a clear explanation of why or where they
-
-haven’t met your expectations.
-
-This is why preparation is so important. Before the meeting, ask
+You should enter the conversation with an understanding of your

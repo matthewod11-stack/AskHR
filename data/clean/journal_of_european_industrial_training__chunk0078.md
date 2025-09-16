@@ -1,37 +1,17 @@
-# Self-appraisal
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 31ee834108c06c17b896d07a214bf549a200c4f5
+title: journal_of_european_industrial_training
+---
+## Journal of European Industrial Training 25/1 [2001] 5±32
 
-Within a multi-source feedback model, the focal individual receives ratings from sources all around him/her and also partakes
+[24]
 
-in self-appraisal. Self-appraisal refers to the practice whereby the ratee rates his/her own performance. It is the self as a rating source that is of interest in this section of the monograph. Relatively little is written on self-appraisal as a rating process in comparison with peer or subordinate appraisal. However, a number of issues need to be taken into consideration when utilising this rating source within the 3608 feedback process.
+research design consisted of a feedback group who received individualised feedback based on performance during the first task and before the team began completing the second task. This feedback consisted of self-ratings and peer ratings. They also utilised an exposure group who completed ratings on themselves and the other team members following completion of the first task. However, this group did not receive the feedback reports before the second task but were told that they would receive feedback at some future point. The third group acted as a control group and they completed a ``placebo instrument'' on the task content but did not complete self or peer ratings.
 
-Cardy and Dobbins (1994) argue that self-
+Dominick et al.'s (1997) findings point to
 
-appraisal is a natural development in performance appraisal which has stemmed from the recent growth and popularity of teams and high level participation in organisations. However, Baruch (1996) postulates that the most ``neglected'' rating source in the literature on multi-rater systems is the employee himself/herself. McMahon and Gunnigle (1994) suggest that self-appraisal is quite popular in organisations. They highlighted that more than 50 per cent of UK employers; 40 per cent of US organisations; and more than 50 per cent of Irish employers use some form of self- appraisal. Albright and Levy (1995) point out that individuals tend to assess their own performance irrespective of whether they are formally required to do so by the organisation. Thus, it makes sense that self- assessment should be formally recognised in the performance appraisal process.
+the conclusion that it is not so much the feedback itself that drives behaviour change but rather it is the exposure that the participants get to the behaviours by completing the feedback instrument that results in change. This finding supports research in upward appraisal cited earlier which found that employees can change behaviour merely by becoming aware of the behaviours that are rewarded in the organisation and that they do not have to receive individualised feedback reports to enhance performance (Smither et al., 1995b; Reilly et al., 1996).
 
-There are a number of reasons why self-
-
-appraisal may be used by organisations. Thornton (1980) enumerates the following: evaluation of current performance for . administrative purposes; identification of training and development needs; criterion measurement in applied research, e.g. test validation, evaluation of training; reporting past achievements at time of application for a new job;
-
-.
-
-.
-
-.
-
-. measurement of constructs in basic research, e.g. measurement of self- perceived performance and effort in studies of motivation.
-
-It is the use of self-assessment/appraisal for evaluating performance and/or the identification of training needs that is of interest in this monograph.
-
-Advantages and disadvantages of self-ratings Self-appraisal is advocated because of the potential advantages associated with its use. First, alternative raters, such as the self, are found to be more accurate in their ratings of certain performance dimensions than
-
-) T P (
-
-5 1 0 2
-
-h c r a
-
-M 8 0
-
-1 0 : 5 1 t
-
-A K R O C E G E L L O C Y T I S R E V N U y b
+In terms of assessing the impact of peer feedback on performance improvement and personal development, some important issues emerge. Dominick et al.'s (1997) findings question the effectiveness of peer feedback and thus multi-source feedback as a tool for facilitating employee behaviour change and performance improvement. Druskat and Wolff (1999) report that respondents indicated that peer feedback was not beneficial for their personal development. If it is found that mere exposure to valued behaviours within the organisation is enough of itself to instigate behaviour change, then it follows that effective communication of the valued behaviours by management to the employees would be sufficient to facilitate performance improvement. This finding calls into question why an organisation might invest extensively in 3608 feedback processes if it is not the feedback per se that predicts change but rather awareness of the desired behaviours on the job.

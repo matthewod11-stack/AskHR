@@ -1,13 +1,13 @@
-# Forced-Choice Rating Scales
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e5261cc17d2b5cfdf84d4fe286061b467d65f285
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Using BARS
 
-One problem with BARS is that supervisors often do not use the anchors when rating employees. Instead, they choose a point on the scale and then quickly glance to see which anchor is associated with the number. Because of this tendency, BARS do not often reduce leniency in ratings.
+To use the scale when actually rating performance, the supervisor compares the incidents she has recorded for each employee with the incidents on each scale. This can be done in one of two ways. The most accurate (and the most time-consuming) method compares each of the recorded incidents with the anchors and records the value of the incident on the scale that most closely resembles the recorded incident. This is done for each recorded incident. The value for each incident is summed and divided by the total number of incidents recorded for that dimension; this yields an average incident value, which is the employee’s rating for that particular job dimension.
 
-282
+In the second method (easier, but probably less accurate) all of the recorded incidents are read to obtain a general impression of each employee. This general impression is compared with the incidents that anchor each scale point. The scale point next to the incident that most closely resembles the general impression gained from the incidents then becomes an employee’s score for that dimension.
 
-chapter 
-
-To overcome this problem, forced-choice rating scales have been developed. These scales use critical incidents and relevant job behaviors, as do BARS, but the scale points are hidden. An example of a forced-choice scale is shown in Figure ..
-
-In using the forced-choice scale to evaluate employee performance, the supervisor chooses the behavior in each item that appears most typical of that performed by a given employee. The supervisor’s choices then are scored by a member of the personnel department to yield the employee’s rating on each dimension. The scores on each of the dimensions can be summed to form an overall rating.
-
-The development of a forced-choice rating scale is a long and compli- cated process, which partly explains why it is not commonly used. However, this method of evaluation does have its advantages. For example, because the supervisor must choose behaviors without knowing “the key,” common rating errors such as leniency and halo are less likely. Consequently, performance evalu- ations should be more accurate.
+The third way to use BARS (and the least recommended) is to use the incidents contained in the BARS to arrive at a rating of the employee without recording actual incidents. Instead, the BARS are only used to provide meaning to the  scale points.

@@ -1,7 +1,11 @@
-# More conscious planning and use of time
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2791c9d54ff5e119fbaa74611d897d8614838ed
+title: H08MUE-PDF-ENG
+---
+# Good Remote Leadership
 
-First, and perhaps most obvious, is that managing remotely requires
+Although our collective experience is still somewhat limited, let me suggest several ways in which remote management needs to be diﬀerent
 
-much more travel, which may cancel out some of the stay-at-home or
-
-ﬂexibility beneﬁts of being remote. But it is necessary for making your
+if it’s really going to work.

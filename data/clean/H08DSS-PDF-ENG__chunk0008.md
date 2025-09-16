@@ -1,29 +1,17 @@
-## HBR / Digital Article / How to Kickstart Your Post-Summer Career Development
+---
+source_path: H08DSS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48ab5134c523287a3a520363eebe713d600f7801
+title: H08DSS-PDF-ENG
+---
+# development.
 
-identify actions that will kick-start your learning in a way that’s easy to
+Engaging in a post-summer reset can help you gain motivation and
 
-add into your day. Here are four ways to get there.
+build momentum for your professional development. The idea is to
 
-- 1. Set a growth goal
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-You’re likely used to having performance goals at work. These goals tend
+1
 
-to be set by or in conjunction with your manager and focus on your
-
-day-to-day deliverables. At most organizations, it’s less likely that you’re
-
-setting similar goals for your professional growth.
-
-Growth goals focus on the strengths you want to stretch or the skills
-
-you’d like to learn. You don’t need someone else to deﬁne them for you
-
-or give you permission to get started. However, sharing your growth goal
-
-with your manager and colleagues makes it easier for them to support
-
-you and spot opportunities you might not see for yourself.
-
-To create a growth goal, ask yourself the following questions:
-
-- What do I want to be known for, and how can I use that skill/strength
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

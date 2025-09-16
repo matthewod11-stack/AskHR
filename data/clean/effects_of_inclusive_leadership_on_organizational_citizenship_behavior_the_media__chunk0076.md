@@ -1,13 +1,19 @@
-# Relationship. New York, NY: Routledge.
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: 1abdee2335fab7b4c1bfabf9e88c48343d2e62fe
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+## resource management. Thousand Oaks, CA: Sage Publications.
 
-House R.J., Hanges P.J., Javidan M., Dorfman P.W. and Gupta V. (Eds.). (2004). Culture, Leadership, and Organizations: The GLOBE Study of 62 Societies. Thousand Oaks, CA: Sage.
+Garvin A. (1993). Building a learning organization. Harvard Business Review,
 
-Hu L.T. and Bentler P.M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling, 6, 1–55.
+71, 78–84.
 
-Ilies R., Nahrgang J.D. and Morgeson F.P. (2007). Leader-member exchange and citizenship behaviors: A meta-analysis. Journal of Applied Psychology, 92, 269–277.
+Graen G.B. and Uhl-Bien M. (1995). Relationship-based approach to leader- ship: Development of leader–member exchange (LMX) theory of leadership over 25 years: Applying a multi-level multi-domain perspective. Leadership Quarterly, 6, 219–47.
 
-Imam A., Abbasi A.S., Muneer S. and Qadri M.M. (2013). Organizational culture and performance of higher educational institutions: The mediating role of individual readiness for change. European Journal of Business and Management, 5, 23–34.
+Graham J. (1988). Transformational leadership: Fostering follower autonomy, not automatic followership. In J. Hunt, B. Baglia, H. Dachler, and C. Schriesheim (Eds.), Emerging Leadership Vistas (pp. 73–79). Lexington, MA: Lexington Books.
 
-Islam T., Anwar F., Khan S.U.R., Rasli A., Ahmad U.N.U. and Ahmed I. (2012). Investigating the mediating role of organizational citizenship behav- ior between organizational learning culture and knowledge sharing. World Applied Sciences Journal, 19, 795–799.
+Goodwin V.L., Wofford J.C. and Whittington J.L. (2001). A theoretical and empirical extension to the transformational leadership construct. Journal of Organizational Behavior, 22, 759–774.
 
-Joo B.K. (2010). Organizational commitment for knowledge workers: The roles ofperceivedorganizationallearningculture,leader–memberexchangequality, and turnover intention. Human Resource Development Quarterly, 2, 69–85. Joo B.-K. and Shim J.-H. (2010). Psychological empowerment and organiza- tional commitment: The moderating effect of organizational learning cul- ture. Human Resource Development International, 13, 425–441.
+Hair J.F., Black W.C., Babin B.J. and Anderson R.E. (2010). Multivariate Data Analysis: A Global Perspective (7th ed.). Upper Saddle River, NJ: Pearson. Hollander E.P. (2009). Inclusive Leadership: The Essential Leader-Follower

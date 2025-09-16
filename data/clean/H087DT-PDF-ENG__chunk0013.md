@@ -1,7 +1,11 @@
-## problems like depression, but more chronic with issues like ADHD.
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f9393c5b31c6099e3a16c6d202a555c40ff28ff
+title: H087DT-PDF-ENG
+---
+# ADHD
 
-If you feel overwhelmed with planning, try to enlist the assistance
+Many mental health challenges cause people to struggle more with
 
-of others, when they’re willing. For example, ask a client to map out
-
-deadlines for each stage of a project, or make planning with others a
+planning and seeing the big picture. This is temporary in the case of

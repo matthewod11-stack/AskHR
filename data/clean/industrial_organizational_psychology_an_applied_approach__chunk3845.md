@@ -1,13 +1,27 @@
-## Error Deviation from a standard of quality; also a
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4af17b5b91687e48633c1da61c738244b063082e
+title: industrial_organizational_psychology_an_applied_approach
+---
+## a current employee refers a friend or family member for a job.
 
-type of response to communication overload that involves processing all information but processing some of it incorrectly.
+Employment agency An organization that specializes in finding jobs for applicants and finding applicants for organizations looking for employees. Employment interview A method of selecting
 
-Escape A response to communication overload in which the employee leaves the organization to reduce the stress.
+employees in which an interviewer asks questions of an applicant and then makes an employment decision based on the answers to the questions as well as the way in which the questions were answered.
 
-Eustress Stress that results in positive energy and improvements in performance and health. Evaluation apprehension The idea that a person
+Employment-at-will doctrine The opinion of courts in most states that employers have the right to hire and fire an employee at will and without any specific cause.
 
-performing a task becomes aroused because he or she is concerned that others are evaluating his or her performance.
+Employment-at-will statements Statements in employment applications and company manuals reaffirming an organization’s right to hire and fire at will.
 
-Evaporation One way our bodies maintain a normal temperature, in which perspiration reduces excess heat.
+Empowerment chart A chart made for each employee that shows what level of input the employee has for each task.
 
-Executive search firms Employment agencies, often also called headhunters, that specialize in placing applicants in high-paying jobs.
+608
+
+glossary
+
+Enzyme multiplied immunoassay technique (EMIT) A method of drug testing that uses enzymes to detect the presence of drugs in a urine sample. Equal Employment Opportunity Commission
+
+(EEOC) A branch of the Department of Labor charged with investigating and prosecuting complaints of employment discrimination.
+
+Equity theory A theory of job satisfaction stating that employees will be satisfied if their ratio of effort to reward is similar to that of other employees. ERG theory Aldefer’s needs theory, which describes three levels of satisfaction: existence, relatedness, and growth.

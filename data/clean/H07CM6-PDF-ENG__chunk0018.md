@@ -1,11 +1,13 @@
-## HBR / Digital Article / To Coach Leaders, Ask the Right Questions
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4288ab9cddc811470e82e1edc4f4c76b44771bab
+title: H07CM6-PDF-ENG
+---
+# them.
 
-Lucas, for example, found that his perspective shifted when he stepped
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-back from the swirl of his conﬂicting thoughts, and listened more
+4
 
-closely to the intelligence of his body. That meant paying more
-
-attention to his deeper intuition rather than relying solely on his mind,
-
-which could rationalize almost any choice he made.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

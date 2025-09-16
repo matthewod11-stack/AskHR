@@ -1,13 +1,7 @@
-# Event
-
-Walter Dill Scott publishes The Theory of Advertising Walter Dill Scott publishes Increasing Human Eﬃ ciency in Business Hugo Munsterberg publishes Psychology and Industrial Eﬃ ciency (German version published in 1910) Journal of Applied Psychology fi rst published World War I provides I/O psychologists with the fi rst opportunity for large-scale employee testing and selection
-
-1964
-
-1970 1971
-
-1980 1982
-
-Civil Rights Act passed. First issue of The Industrial- Organizational Psychologist (TIP) published Division 14 membership exceeds 1,100 B.F. Skinner publishes Beyond Freedom and Dignity
-
-Division 14 membership exceeds 1,800
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f5bcd3cfc447152c759a154f9d3609bf03fa5032
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Important Events in I/O Psychology

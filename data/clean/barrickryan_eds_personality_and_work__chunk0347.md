@@ -1,3 +1,7 @@
-# s e s s e c o r P
-
-e v i t c a o r P
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 2722be873e662cfaa93037997f72aae421279d03
+title: barrickryan_eds_personality_and_work
+---
+# n O

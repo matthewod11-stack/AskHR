@@ -1,3 +1,11 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 32099e61407cb3dbfe38084b22b402c2937ff4fb
+title: issn_print_0976_013x
+---
+## review. Management Research Review, 38, 767-792. https://doi.org/10.1108/MRR-08-
 
-Turner, J. (2023). 4 Initiatives that will give your supply chains a competitive advantage.
+2013-0194
+
+41

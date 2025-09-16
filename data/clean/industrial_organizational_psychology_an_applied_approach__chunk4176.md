@@ -1,9 +1,17 @@
-# Applied H.R.M. Research, 1(1), 15–18.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f659b4f62b553de2e672c121d97058cbb7c36376
+title: industrial_organizational_psychology_an_applied_approach
+---
+# violence. IPMA News, January, 26–27.
 
-Eurich, T. L., Krause, D. E., Cigularov, K., & Th ornton, G. C.
+Erdogan, B., & Enders, J. (2007). Support from the top:
 
-(2006). Assessment centers: Current practices in the United States. Poster presented at the 21st annual conference of the Society for Industrial and Organizational Psychology, Dallas, TX.
+Supervisors’ perceived organizational support as a moderator of leader-member exchange to satisfaction and performance relationships. Journal of Applied Psychology, 92(2), 321–330.
 
-Evans, G. W., Hygge, S., & Bullinger, M. (1995). Chronic noise and psychological stress. Psychological Science, 6(6), 333–338.
+Erfurt, J. C., Foote, A., & Heirich, M. A. (1992). Th e cost-
 
-Evans, G. W., & Johnson, D. (2000). Stress and open-oﬃ ce noise.
+eﬀ ectiveness of worksite wellness programs for hypertension control, weight loss, smoking cessation, and exercise. Personnel Psychology, 45(1), 5–28.
+
+Estes, R. (1990). Eﬀ ects of ﬂ exi-time: A meta-analytic review.

@@ -1,29 +1,23 @@
-## HBR / Digital Article / Maternity Leave Isn’t Enough to Retain New Moms
+---
+source_path: H060QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 516161d55a7d9671a6f93a2d016a3341e2afd944
+title: H060QI-PDF-ENG
+---
+# another opportunity.
 
-she returns to work will determine whether or not a company will be
+The lesson I drew from this was simple. Maternity leave is one thing. Support for new mothers is an entirely diﬀerent issue.
 
-able to retain her,” she explains.
+Asha Santos, a partner at Littler Mendelson P.C., who advises U.S.
 
-According to the Society for Human Resource Management (SHRM), 60% of organizations oﬀered 12 weeks of maternity leave and 33% oﬀered longer leaves. Some organizations are also making policies more inclusive: Spotify, Etsy, Twitter and more oﬀer paid parental leave for
+companies on employment law and how to build respect in the
 
-both birth and non-birth parents to step in and ﬁll the void in countries
+workplace, agrees: “How a woman is treated in the months leading up to
 
-like the U.S. where no mandated paid parental leave exists.
+her maternity leave and then during leave and shortly thereafter when
 
-But paid time oﬀ is not enough. Organizations need to create a broader
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-ecosystem to support them. Here are ﬁve questions to focus on as we
+2
 
-look to retain, develop and promote new parents, especially mothers:
-
-Who will take on her work?
-
-I have been on maternity leave twice. I have also had a number of
-
-bosses, team members, and peers take leave. When there’s no clear
-
-plan for transitioning responsibilities or one that simply throws work
-
-onto employees and colleagues, it creates a great deal of anxiety. A new
-
-mom might feel like she is burdening her team, while her peers become
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

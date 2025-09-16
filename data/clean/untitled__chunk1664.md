@@ -1,3 +1,11 @@
-# MCMI
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d9d5c78ab3a8d026d668d61f0f7c00a7f60a9e51
+title: untitled
+---
+# CPI
 
-In a mode similar to Gough’s, Theodore Millon developed the Millon Clinical Multiaxial Inventory using a combination of empirical and logical keying procedures. As a major difference from both the MCMI and the MMPI, however, Millon’s scales were derived from a comprehensive theory of personality and psychopathology that he had formulated prior to turning his attention to developing a measuring in- strument (Millon, 1969). First published in 1977 (Millon, 1977), the MCMI was standardized on patients receiving mental health care and, like the MMPI, is intended for pur- poses of psychodiagnostic screening and clinical assessment, rather than for use with nonpatient populations. Unlike the MMPI, however, which was designed primarily to measure symptomatic concerns corresponding to Axis I disorders in the Diagnostic and Statistical Manual (DSM) of the American Psychiatric Association (2000), the MCMI is scaled mainly to reﬂect disorders in personality function as categorized on Axis II of the DSM. Although some
+A signiﬁcant spin-off of the MMPI resulted from the efforts of Harrison Gough, who was interested less in identifying patterns of psychopathology among patients than in assess- ing personality characteristics in nonclinical populations. Using a combination of empirical and logical keying meth- ods, and borrowing from the MMPI many items that were interpersonal in nature and not symptom-oriented, Gough began in 1948 to develop scales that were published as the California Psychological Inventory, currently in its third edi- tion (Gough, 1957; Gough & Bradley, 1996). Whereas the MMPI scales had been named with diagnostic labels (e.g., depression, schizophrenia), Gough named his scales with commonly used terms that most people would be likely to recognize and understand (e.g., independence, responsi- bility). The essence of Gough’s purpose was captured in a review by Thorndike (1959), who referred to the CPI as “the sane man’s MMPI.”
+
+Whereas the MMPI has been used primarily in clinical, forensic, and health care settings, the CPI has been applied mainly in counseling, educational, and organizational set- tings, as a way of facilitating decisions concerning career choice, academic planning, personnel selection, and the reso- lution of normal range adjustment problems. The CPI has also found considerable use as a research tool in studies of personality dimensions associated with achievement, leader- ship, and creativity.

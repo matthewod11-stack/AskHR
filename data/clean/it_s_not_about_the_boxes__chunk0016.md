@@ -1,17 +1,31 @@
-# lower the overall performance rating.
+---
+source_path: it_s_not_about_the_boxes.md
+pages: n/a-n/a
+chunk_id: a1327d67de064dbec3e3268651baf5b14eca1783
+title: it_s_not_about_the_boxes
+---
+# Keep the Junk Out of the Boxes
 
-INSIGHTS / PAGE 4
+It’s an all-too-common mistake to load up
 
-tial question, “Does this person consistently perform at a level higher than their peers?”
+We have some clients who use one axis for performance and the other for behaviors. This approach makes behaviors more prominent than blending them with performance. It isn’t our preferred approach, however, since it requires an additional indicator be added to indicate potential.
 
-That question is the same one you’d discuss when determining where on the performance axis to place someone. You’re simply having the same conversation without a grid in front of you. The benefit of the question approach is that only high performers are eligible to be high potentials, since anyone who isn’t rated a high performer is instantly eliminated the conversation.
+While it might seem obvious that you
 
-After that question, we ask three to five additional questions that help to categorize that person’s ability to move up in the organi- zation.
+should try to directly map your performance management scale to the performance axis, we typically find that it’s an unhelpful exer- cise. What matters most on the performance axis is ensuring that only true high perform- ers are in the highest performance category. Too many performance management rat- ings show an unreasonably large number of people in the highest performance category. This can feed the wrong information into the rest of the potential discussion.
 
-rating on people’s performance and poten- tial is somehow deleterious. It’s important to remember that a talent review is a prediction of upward potential at that moment and with the information currently available.
+Your performance axis labels can take
 
-Someone who is rated as being in the right role, right now (Well Placed), might be consid- ered ready for promotion if their performance changes or the company’s needs change. Conversely, someone who is rated as high potential today may have that rating change if they don’t deliver results in their current role or if their capabilities become less valued by the organization. There is no harm done by stating your current view of an individual’s potential.
+many forms – percentiles (80th percentile and above, 50th percentile), labels (highest, aver- age, below average) or other performance indi- cators (consistently exceeds goals, consistently meets goals). Your primary concern should be that the top category truly differentiates those leaders who consistently deliver at the 75th percentile and above compared to their other
 
-The criteria used in a question-based ap- proach are no different than those used with a matrix. The conversation might be more structured since you’ll ask the same questions about each individual. The output will be the same since you’re still categorizing employees by different levels of potential.
+a performance and potential matrix with labels, definitions, colors and other attempts to “help” managers with the tool. This adds complexity without value and removes a man- ager’s responsibility to compellingly describe why Suzie is a high potential.
 
-The drawback of this approach is that it ig- nores the 75%+ of employees who are not high performers or high potentials. There is no opportunity to discuss them to see if you’ve missed a few “shy-po’s” or to assess the quality and depth of a manager’s overall team on one grid.
+If your matrix has labels for potential, it’s your managers’ responsibility to describe why Suzie should be placed in a box. It’s not up to HR to add a lengthy definition into each box so that a manager simply points at it and says, “That’s Suzie right there!”
+
+Similarly, what value is added by coloring the boxes or adding a label to each one? Are you going to communicate to someone that they’re a “yellow” or a “green”? In a typical 9-box, you have three definitions for potential (and hopefully some separate guidelines for potential) and three definitions for perfor- mance. That feels like enough information to provide to a manager for her to make an intel- ligent decision about someone’s placement.
+
+Assessing High Potential without a Matrix It’s certainly possible to assess potential without using a matrix but the fundamental discussion remains the same. When we de- sign “question based” potential identification processes for clients, they start with the essen-
+
+The blending of the what and the how keeps the rating or
+
+classification simple but helps to ensure that weak behaviors

@@ -1,9 +1,15 @@
-# 358 Counseling Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5e1b1c3e4ffd79e1679823940fb3e697c8db91f3
+title: untitled
+---
+# SUMMARY 363 REFERENCES 364
 
-members of a family. Children from poor families were espe- cially vulnerable, frequently leaving school before the age of 12 to do menial labor. Within the culture of child saving, these conditions created a strong rallying cry that resulted in greater protections for some of society’s most at-risk people (Davidson & Benjamin, 1987).
+belief that became associated with the Progressive political movement (Mann, 1975; Watts, 1994).
 
-What many wanted most was a chance for children to re- ceive an adequate education, one that would last beyond the primary grades. Children’s leaving school to drift aimlessly was seen as a tremendous waste of human potential and an inefﬁcient use of human resources. The concern over leaving school was embedded within the larger context of the place of public education in American society, a debate that gave rise to a variety of visions for the future of the nation and its youth. Many saw the school system as failing the students it was charged with serving. They called for public education to complement the world outside of the classroom and provide tools for success in the new American urban industrial cen- ters. For immigrant children, the system struggled to provide thoughtful alternatives; for Native American, Hispanic, and African American children, the system was and would re- main limited, segregated, and largely indifferent.
+Achieving precision meant avoiding waste, a concept that could be applied to products as well as people. In industry, efﬁciency was embodied in the work of Frederick Taylor, whose scientiﬁc study of jobs was designed to streamline human performance and increase production. Taylor believed his system would beneﬁt management and the worker. The better-trained worker was likely to be more productive, thus increasing the possibility of promotion and improved wages. Gains in productivity would translate into greater proﬁt for management, and at the end of the cycle, the consumer would beneﬁt from a better and more cost-efﬁcient product (Taylor, 1911).
 
-Avarietyofalternativeswereoffered.BookerT.Washington called for national programs of industrial education forAfrican American children, psychologist Helen Thompson Woolley conducted scientiﬁc studies of school leaving, and philan- thropic reformers like Jane Addams established settlement homes (Baker, in press).
+Alongside industrial efﬁciency was a belief in the per- fectibility of the individual and society. The search for per- fectibility began with the young, andAmerica, a young nation itself, became increasingly concerned with the promise of youth as the hope of the nation. Child saving, as it came to be known (Levine & Levine, 1992), was a movement that workedtoprotectchildrenfromtheravagesofpoverty,abuse, and neglect. The impulse toward child saving propelled the beginnings of the vocational guidance movement, a major precursor to the development of counseling psychology.
 
-In Boston, Chicago, New York, and Philadelphia, settle- ment homes were a common feature of the progressive land- scape at the start of the twentieth century (Carson, 1990). Wanting to respond to the plight of poor inner-city families, socially minded students, professors, clergy, and artists would take up residence in working-class neighborhoods, be- coming part of and an inﬂuence on the social, educational, political, artistic, and economic life of the community. In this setting, the vocational guidance movement in America began in earnest.
+The city, while offering modern conveniences, was also a place of wretched poverty and deplorable conditions. Millions who sought refuge in America could ﬁnd work in the industrial city, although it was low paying, low skilled, and frequently dangerous. Immigrants new to the culture and the language could easily be exploited, and this applied to all

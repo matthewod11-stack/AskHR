@@ -1,9 +1,15 @@
-# 1.5 Scope of the report:
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 9976073bc836d231b52b34149f7c51f49c413bb2
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# organizational success.
 
-The report is readied dependent on the Performance Management policy and performance
+- (cid:32) Exploring the employee feedback process throughout the whole appraisal process.
 
-improvement plan utilized in The City Bank Limited. The objective is to give complete
+2
 
-comprehension about the framework of the Performance Management, and how CBL is managing the
+(cid:32)
 
-framework and how it is fulfilling and holding its employees and association's advantage by utilizing
+(cid:32)

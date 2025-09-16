@@ -1,9 +1,19 @@
-## by the variations and exceptions that inevitably crop up in complex
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f3422dd5c3a2a992d0d328024b24e10d7473202
+title: S25012-PDF-ENG
+---
+# processes.
 
-processes. They’re also expensive to set up and hard to maintain in the
+In another recent experiment, researchers at Stanford demonstrated
 
-face of changing conditions.
+that human-agent collaboration is a far more promising approach to
 
-The ﬁrst workﬂow the researchers experimented with was revenue
+automating complex workﬂows than robotic process automation (RPA),
 
-cycle management at a hospital. Most hospitals have departments that
+the most widely used technology. RPA is essentially a bot, hard-coded
+
+to perform a set of actions according to predeﬁned rules. Lacking
+
+generalized reasoning and planning abilities, bots are easily tripped up

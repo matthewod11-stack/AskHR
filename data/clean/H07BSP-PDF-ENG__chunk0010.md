@@ -1,15 +1,11 @@
-## life scenarios where they practice skills acquisition in situations that
+---
+source_path: H07BSP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09b1bd30e6ae73838a3eec18cd7cb66bb5f5cba9
+title: H07BSP-PDF-ENG
+---
+## Simulation Training and Management Development
 
-replicate job conditions. These immersive scenarios often incorporate
+Approaches based on proven learning techniques and new technology can improve the eﬀectiveness and eﬃciency of skills training. One
 
-gaming elements that increase motivation, attention, and learning.
-
-This approach has long been part of skills training in certain sectors.
-
-A study of laparoscopic surgery found that surgeons who trained using
-
-simulations had a 29% increase in speed, a 9 times lower likelihood
-
-of experiencing a stall during surgery, and they were ﬁve times less
-
-likely to cause patient injury. Brigham Women’s Hospital now uses
+approach is simulation training: putting people in immersive, true-to-

@@ -1,25 +1,13 @@
-## HBR / Digital Article / When Your Colleague Is Jealous of Your Success
+---
+source_path: H08N72-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f9a8e858a622989026bed3ba655341f84fe4bed0
+title: H08N72-PDF-ENG
+---
+# resentful of you.
 
-It’s an uncomfortable situation, which most of us hope it’s a
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-misunderstanding or will simply go away over time. But unfortunately,
+1
 
-it’s more common that others’ jealousy and resentment will only
-
-compound as you notch further career milestones. As executive
-
-coaches and speakers on workplace issues, we’ve seen many successful
-
-professionals hobbled by challenges with coworkers who’d like to bring
-
-them down a notch. Here are ﬁve steps to take action when you feel that
-
-a colleague is beginning to feel threatened by your success.
-
-- 1. Check your assumptions.
-
-It’s possible your colleague is feeling resentful—but it’s also possible
-
-you misinterpreted a comment or that they were having a bad day.
-
-Before making assumptions about their state of mind, it’s worth asking
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

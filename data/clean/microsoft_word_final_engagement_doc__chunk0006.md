@@ -1,11 +1,21 @@
-# Measuring Work Engagement
+---
+source_path: microsoft_word_final_engagement_doc.md
+pages: n/a-n/a
+chunk_id: fb51a79c6134b84c44a9e864f838dabb7af3e970
+title: microsoft_word_final_engagement_doc
+---
+# Defining Work Engagement
 
-Most efforts to measure work engagement have been through self-report surveys of individual workers. The person-level scores are usually then aggregated to measure engagement at the organizational and/or workgroup level. Many companies now conduct employee opinion surveys to determine engagement, and some organizations have had high response rates even when not using an anonymous response methodology. The results of 30 years of doing this kind of polling by the Gallup organization have generated several best-selling management books and the twelve-item Worker Engagement Index.13,14,15 Sample items from this index include: “Is there someone at work who encourages your development?”; “In the last seven days, have you received recognition or praise for doing good work?”; and “Do you have a best friend at work?”. In addition to Gallup, many consulting companies have developed a robust business selling their own proprietary survey tools and processes for measuring work engagement, including BlessingWhite, Hewitt Associates, Sirota, Towers Perrin, Valtera, and Watson Wyatt Worldwide among others.
-
-A group of academic researchers developed the Utrecht Work Engagement Scale (UWES). This nine item measurement tool is based on over two- dozen studies with data from over 14,000 employees in ten different countries (but not from the United States).12 In contrast to the measures from the consulting companies, the UWES is in the public domain and can be used without charge, provided that the organizations agree not to charge a fee for its use and agree to share with the researchers the raw data collected from responses to the scale to add to their database for further research. Interested employers are directed the primary author’s website for the specific scale items and a user test manual with instructions and scoring norms (www.schaufeli.com/downloads). The UWES also has versions available in 20 languages.
-
-(cid:82)(cid:101)(cid:115)(cid:101)(cid:97)(cid:114)(cid:99)(cid:104)(cid:32)(cid:87)(cid:111)(cid:114)(cid:107)(cid:115)(cid:32)(cid:32)(cid:32)(cid:74)(cid:117)(cid:110)(cid:101)(cid:32)(cid:50)(cid:48)(cid:48)(cid:57)(cid:32)
+In 1990, William Kahn, a researcher and professor at the Boston University School of Management, defined the concept of work engagement as “the harnessing of organizational members’ selves to their work roles.” 10 The concept was later expanded to describe when employees feel positive emotions toward their work, find their work to be personally meaningful, consider their workload to be manageable, and have hope about the future of their work.5 Other research conducted to create measurement tools for engagement has refined its definition to support a three dimensional concept of engagement.11,12 In these studies, work engagement is defined as “a positive, fulfilling work-related state of mind” that is characterized by the following three aspects:
 
 (cid:32)
 
-How many workers are engaged in their work? Research studies on the distribution of engagement levels across all employees at different organizations define three basic groups of employees in terms of engagement.2,13,14,15,16,17,18,19 The first group includes the approximately 20 percent of employees who can be categorized as highly engaged. The members of this group tend to work with passion, feel a profound connection to their company, and their efforts drive innovation and move the organization forward. At the other end of the spectrum are the roughly 25 percent of employees who are at the lowest end of the engagement and are actively disengaged. The remaining group, comprised of about 55 percent of employees, is in the middle of the distribution and has a moderate level of work engagement. They do their jobs, but without much personal investment. Note that the percentage figures for how many employees are in each of the three groups can vary by five percent or ten percent depending on the particular research study examined.
+(cid:50)(cid:32)
+
+- (cid:32) Physical Component, or vigor (e.g., “At my work, I am bursting with energy”);
+
+- (cid:32) Physical Component, or vigor (e.g., “At my work, I am bursting with energy”);
+
+- (cid:32) Emotional Component, or dedication (e.g., “I am enthusiastic about my job”); and
+
+- (cid:32) Cognitive Component, or absorption (e.g., “I am immersed in my work”).

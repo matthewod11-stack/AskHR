@@ -1,7 +1,9 @@
-# Norton.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: eb8cc82651eb2e20c18e4c2cd478864d6cc33fc4
+title: untitled
+---
+# Stanford University Press.
 
-Sundberg, N. D. (1961). The practice of psychological testing in clinical services in the United States. American Psychologist, 16, 79–83.
-
-Suzuki, L. A., Ponterotto, J. G., & Meller, P. J. (Eds.). (2000). The handbook of multicultural assessment (2nd ed.). New York: Wiley.
-
-Terman, L. M. (1916). The measurement of intelligence. Boston:
+Sullivan, H. S. (1954). The psychiatric interview. New York:

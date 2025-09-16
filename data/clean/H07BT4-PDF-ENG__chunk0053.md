@@ -1,7 +1,9 @@
-# the market.
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a8dae2afbbdf17b839046393b376b7669910edf
+title: H07BT4-PDF-ENG
+---
+# HBR / Digital Article / Why Some of Your Salespeople Are Dragging — and How to Fix It
 
-Sales leaders have long relied on seller drive to carry the day. But the
-
-focus must shift to drag and its outsized impact on commercial results.
-
-This article was originally published online on November 01, 2022.
+potential solutions were turned into products and in turn, introduced to

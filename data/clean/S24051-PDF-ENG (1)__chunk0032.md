@@ -1,9 +1,15 @@
-## work and the eﬀectiveness of our collaboration.
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: e7bbcdc36903f4dd128233f10d8f2b7923fb59a1
+title: S24051-PDF-ENG (1)
+---
+## their short- and long-term goals, both personally and professionally.
 
-By combining and evaluating the data from the team and client surveys
+An automated report synthesizes the results. If ETS scores begin to dip,
 
-for a given project, we can identify how and to what extent the operating
+that’s a sign that a team is struggling—and indicates to leaders that it’s
 
-model used by teams informs our work with clients. For example, we’ve
+time to intervene. To measure how well we’re doing with our clients, we
 
-found that teams that use all the elements of the WWW operating
+conduct conﬁdential surveys to gather feedback on the quality of our

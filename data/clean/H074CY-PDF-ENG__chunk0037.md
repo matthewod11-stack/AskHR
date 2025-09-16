@@ -1,19 +1,19 @@
-## customers through the process with the assistance of the operations
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eefb548fe3fcb551c0678b11372593bf28c408a8
+title: H074CY-PDF-ENG
+---
+# strategic imperatives.
 
-group, not salespeople. The result has been to reduce the selling cycle to
+For example, in a ﬁrm facing a complex technical sale with a 24-to-30-
 
-12 to 14 months and make better use of limited sales resources.
+month selling cycle, the VP of sales detected the following pattern that
 
-The venerable maxim still applies: “People join companies, but they
+emerged from reviews: It was taking nine to 12 months to complete the
 
-leave managers,” because feedback and coaching are crucial for
+trial or proof-of-concept portion of the selling task — a cash-drain for
 
-professional growth and development. It’s striking how many successful
+a VC-funded startup. He also saw commonalities in what reps said that
 
-people, when asked about their careers, point to a manager who
-
-provided them with useful (even if initially unwanted) feedback. In
-
-turn, they come to realize that, as managers, they must demonstrate
-
-that they care about their people and are worthy of trust in assessing
+customers wanted in trials. So, the ﬁrm developed a platform that took

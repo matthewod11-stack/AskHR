@@ -1,5 +1,9 @@
-# MBA
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: ddb84e8b1ef62d39027bb5ecfe673706e634bbb9
+title: internship_report
+---
+# Aumia Afreen
 
-HR Planning & Policy Development
-
-(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:124) (cid:32) (cid:105) (cid:105) (cid:105)
+ID No: 13264060

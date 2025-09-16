@@ -1,1 +1,13 @@
-# 9/10/25, 11:58 AM
+---
+source_path: How to Find, Define, and Use Your Values.md
+pages: n/a-n/a
+chunk_id: 6303e8866f9fa6a5e07a8665911d26e53021019b
+title: How to Find, Define, and Use Your Values
+---
+# Privacy - Terms
+
+https://hbr.org/2023/02/how-to-ﬁnd-deﬁne-and-use-your-values
+
+1/7
+
+more conversations, the first group often realizes that they dohave some ideas about their values, and the second group realizesthat their values are mostly just a list of words without substance.Both reactions are valid — it’s not easy to have clarity around yourvalues. After all, the importance of identifying and using themisn’t emphasized in our society. Most of us aren’t taught how to dothis type of self-reflection in school. You likely won’t be asked toidentify your values for any job. And your employer will probablynever base your annual performance reviews on how you usethem.That doesn’t mean finding, defining, and knowing how to useyour values isn’t important. There is so much power inunderstanding what your values are — they can help you makedecisions, guide your career, and even live a happier life. Thesesteps can guide you in thinking about your values in anintentional way.Step 1: Find Your ValuesYour values aren’t hiding. Even if you haven’t vocalized them,they’re a reflection of the most important aspects of your life.Here’s how to pull those ideas to the forefront:1) Reﬂect on what’s important to you. “Values” is just a label weuse to contain the things that are important to us. Ask yourself:What do I care about the most in the world? Make a list with asmany things as you can think of. Your list should reflect what isimportant and personal to you, not what others (your family,friends, peers) may expect from you.

@@ -1,11 +1,9 @@
-## new rituals for communication and relationship building that will
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 437340145c4fb661278dc526a43000e5b5edb469
+title: R2502F-PDF-ENG
+---
+## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
 
-satisfy, not compromise, most team members’ preferences and avoid
-
-forcing anyone to adapt or be at a disadvantage. For example, when
-
-non-U.S. negotiators meet, they sometimes choose to build from U.S.
-
-rituals (given their prevalence in the global business world) as a neutral
-
-foundation that is somewhat familiar to both sides.
+toll it may take on your negotiation performance. Otherwise, negotiate

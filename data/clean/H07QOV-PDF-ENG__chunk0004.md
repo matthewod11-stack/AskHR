@@ -1,11 +1,11 @@
-## professor Amy Edmondson, an expert in psychological safety and
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ee4807949a90410d9d3c916babdc5b57bf467db
+title: H07QOV-PDF-ENG
+---
+# risks.
 
-author of the upcoming book Right Kind of Wrong: The Science of Failing
+For this episode of our video series “The New World of Work”, HBR
 
-Well, to discuss:
-
-- Productive, intelligent ways to fail
-
-- Dangers of not experimenting enough
-
-- Balancing individual employees’ needs with those of the team and
+editor in chief Adi Ignatius sat down with Harvard Business School

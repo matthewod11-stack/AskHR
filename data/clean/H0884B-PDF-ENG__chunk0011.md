@@ -1,13 +1,27 @@
-# to more than just yes.
+---
+source_path: H0884B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 627a6c70ebbd13d852564b3b1130587c8bb80304
+title: H0884B-PDF-ENG
+---
+## their password-protected smartphones and hand them over for the
 
-This article was originally published online on May 22, 2024.
+research assistant to look through in another room. In one condition,
 
-Rachel Schlund is a Principal Researcher at the University of Chicago, Booth School of Business. You can learn more about her research here.
+the researcher assistants told the participants they could refuse: “If
 
-Roseanna Sommers (JD/PhD) is an Assistant Professor of Law at the University of Michigan, where she directs the psychology and law studies lab. Her teaching and research interests revolve around the many ways in which the law misunderstands people and people misunderstand the law. You can learn more about her research on consent and related topics here.
+you’d like to refuse, you may do so.” In another condition, they told
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+participants how to refuse by giving them a speciﬁc phrase they could
 
-4
+use: “If you’d like to refuse, please say the words, ‘I’d rather not.’” While
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+this intervention had little impact on whether participants ultimately
+
+agreed to this request, those who were given speciﬁc words to say no felt
+
+freer to do so, suggesting that their agreement felt more voluntary.
+
+If your goal is to solicit an employee’s genuine preference, rather than
+
+simply pressuring them to agree, the above strategies can help you get

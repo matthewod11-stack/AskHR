@@ -1,9 +1,11 @@
-## work opportunities. Even small changes in worker ratings can
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 710b8cdacaf86df6196919152a6da85c4b84cdc4
+title: H08NYS-PDF-ENG
+---
+## inequalities in worker income and opportunities.
 
-drastically reduce their earnings.
+Workers face growing reputational insecurity as online labor market
 
-We proposed that switching to a dichotomous rating scale (e.g.,
-
-thumbs up/thumbs down) could reduce these biases by simplifying
-
-the decision to a dichotomous choice. Instead of allowing for nuanced
+platforms use opaque algorithms and customer ratings to determine

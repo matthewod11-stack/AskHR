@@ -1,3 +1,9 @@
-# by Andrea S. Kramer and Alton B. Harris
+---
+source_path: H05538-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6561cf7e7acd557691d50a4f7879baaebc6d163
+title: H05538-PDF-ENG
+---
+## REPRINT H05538 PUBLISHED ON HBR.ORG SEPTEMBER 09, 2019
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ARTICLE DEMOGRAPHICS Are Your Work Friendships Only with People Who Look Like You?

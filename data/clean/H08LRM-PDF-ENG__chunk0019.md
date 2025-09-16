@@ -1,11 +1,41 @@
-# harried work to-do lists.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53ce7846183e1a8dfae669103379694510c39c98
+title: H08LRM-PDF-ENG
+---
+## treatment and imprisonment by the U.S. government in the wake of
 
-Their sabbaticals might not sound like fun, but I found that, from
+9/11. NPR had a sabbatical leave program, and so Aarti took a break from
 
-a well-being perspective, achievers come away feeling signiﬁcantly
+her career to write a book about her dad’s experience. Published in 2019,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+it became a bestseller.
 
-5
+Aarti is a classic achiever. From the start of her sabbatical, she worked
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hard, isolating herself at meditation retreats and in a small cabin in the
+
+woods to plan and write. At the end of her time, she transitioned back
+
+into work, exhausted and uncertain about her future but proud of what
+
+she’d accomplished. From the outside, a journalist writing a book might
+
+not seem like a true sabbatical. But for Aarti — like many achievers —
+
+the turn toward a new personal goal, rather than a career-related one,
+
+was the key to internal growth.
+
+Achievers approach their time oﬀ with a productivity mindset, focusing
+
+on what they get done more than how it makes them feel. They look
+
+to benchmarks — such as ﬂuency in a foreign language, launching a
+
+minimum viable product, opening a community garden, or completing
+
+a set hike such as the Appalachian Trail — to conﬁrm progress. And
+
+they emerge having accomplished something beyond their normal

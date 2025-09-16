@@ -1,13 +1,19 @@
-## more than 250 hours of interviews and observations with residents, civil
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee69097c1f2c8ee09448fdbc5a3bbedb03619179
+title: R2401G-PDF-ENG
+---
+# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone
 
-servants, and leaders to identify needless and confusing questions on a
+networks of the company’s top 10,000 people, Scott “was the Number 1
 
-beneﬁts form. More than 2 million Michigan residents had to complete
+most overloaded person.” Some 120 people came to him every day for
 
-the convoluted document each year to apply for childcare, food, and
+information. Cross found that 78 of the 150 top managers in one unit
 
-health care support from the state. It contained 18,000 words and more
+Scott ran “felt they couldn’t hit their business goals unless they got
 
-than 1,000 questions—many of which were unnecessary and intrusive.
+more of Scott’s time.”
 
-A turning point in Civilla’s Project Re:form came when leaders met
+Interview and observe users. Leaders at the nonproﬁt Civilla conducted

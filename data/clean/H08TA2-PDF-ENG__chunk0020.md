@@ -1,19 +1,9 @@
-# updates or real-time ﬁreﬁghting.
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a8ee74b02d9d6fd53b183819ec6017220503d0a
+title: H08TA2-PDF-ENG
+---
+## growth, feedback, and career development. These conversations
 
-You can block 90-minute quarterly sessions that are clearly
-
-labeled “development conversation.” Structure them around reﬂection,
-
-feedback, and future goals. Avoid sliding into tactical issues. Use
-
-prompts like “What are you learning about yourself as a leader this
-
-quarter?” or “What would stretch you in a meaningful way next year?”
-
-At one global consumer goods company, the COO redesigned her 1:1
-
-structure by implementing a “career check-in” model: quarterly sessions
-
-focused entirely on each direct report’s long-term goals, with zero slides
-
-or project updates. This shift dramatically improved retention and
+deserve focused, undivided attention—not to be diluted by operational

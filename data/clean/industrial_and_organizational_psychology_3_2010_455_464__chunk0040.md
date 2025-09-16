@@ -1,5 +1,11 @@
-# nelPsychology, 2, 171–183
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: 0200134f500357400cc3375696311715946312cc
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# Ajzen, I.
 
-Bottom, W. P., & Kong, D. J. (2010). Normative mod- els for strategic decision making in industrial– organizational psychology and organizational behavior. Industrial and Organizational Psychol- ogy: Perspectives on Science and Practice, 3, 417–420.
+(1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50, 179–211.
 
-Byham, W. C.(2010). Assessmentcenters are an excel- lent way of studying decision making. Industrial and Organizational Psychology: Perspectives on ScienceandPractice, 3, 443–444. (2010). What
+Brogden, H. E. (1949). When testing pays off. Person-

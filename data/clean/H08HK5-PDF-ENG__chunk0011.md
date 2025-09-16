@@ -1,21 +1,19 @@
-# unpleasant.
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c86e7ab25d489d9367a0bb05becdaa6a8271b9d
+title: H08HK5-PDF-ENG
+---
+# How to Show Thankfulness Meaningfully
 
-Instead of being a meaningless phrase used to sign oﬀ on an email or
+Imagine again our earlier scenario when we asked you to imagine you
 
-a sentiment that is only expressed after the fact, our research suggests
+were tasked with alerting colleagues about layoﬀs. The most tactful
 
-that intentionally expressing gratitude in advance of a distressing or diﬃcult task may favorably inﬂuence employee behavior. To do so
+thing your boss could do is to express their genuine gratitude before you begin. Something as simple as, “Thank you for taking on this diﬃcult
 
-eﬀectively, our research suggests these four steps can make a diﬀerence:
+task. I understand how unpleasant this is and appreciate you taking this
 
-- 1. Anticipate distress, difﬁculty, and unpleasant emotions. The ﬁrst
+responsibility so seriously.” Our research found this “thanks in advance”
 
-step, and most important, is the anticipation of an employee’s experience of distress, diﬃculty, or unpleasant emotions (e.g., anxiety,
-
-frustration). This requires not only being aware of what is going on
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+expression of gratitude works by helping to down regulate the negative emotions associated with the diﬃcult task before it actually occurs and encourages you to stick with it, despite it being extremely diﬃcult and

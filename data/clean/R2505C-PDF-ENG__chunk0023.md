@@ -1,19 +1,27 @@
-## Standard Oil’s John Rockefeller, Walmart’s Sam Walton, and Aﬂac’s Dan
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d0c98fa17a4df2ece5b75a04ff112a6b5d93097
+title: R2505C-PDF-ENG
+---
+## HBR / Magazine Article / Now Is the Time for Courage
 
-Amos—were or have been very public about the role their Christian
+Call upon your faith. Many leaders also draw on their belief in a higher power to ﬁnd courage in diﬃcult circumstances, with a narrative that
 
-faith played in helping them navigate the uncertainty of entrepreneurial
+says, “I have encountered adversity, but I can appeal to God (or fate,
 
-life. Consider, too, former PepsiCo CEO Indra Nooyi, who kept a statue
+or luck, or the universe) to emerge victorious.” Some people disparage
 
-of the Hindu god Ganesha, the remover of obstacles and facilitator of success, in her oﬃce. “There are times when the stress is so incredible…
+such thinking as magical or irrational, but researchers tend to see it
 
-then you close your eyes and think about a temple…and suddenly you
+as adaptive, an important way of coping. For example, studies have
 
-feel, ‘Hey, I can take on the world.’ Hinduism ﬂoats around you and
+shown that entrepreneurs spend more time praying than most people
 
-makes you feel somehow invincible,” she told The Times. That mindset
+and are more likely to believe in an engaged, responsive God who takes
 
-no doubt emboldened her to pursue a purpose-driven shift to more-
+a personal interest in them. Other research has shown that the belief
 
-healthful products during her tenure, despite also having to deal with
+that we will have good luck increases our sense of agency, which can help us face up to our fears and embrace more-diﬃcult challenges.
+
+Several successful U.S. company founders—Cadbury’s John Cadbury,

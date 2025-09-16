@@ -1,11 +1,15 @@
-# source of motivation at work.
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 49c6ed8671a9fd07dd26f43ac01195e4695419b4
+title: H08AI6-PDF-ENG
+---
+# HBR / Digital Article / Research: How Family Motivates People to Do Their Best Work
 
-Since we published the original research in 2017, further research has
+Our research, and the stories of the workers in Mexico that we studied,
 
-corroborated our ﬁndings and the results have been replicated and
+tell us the opposite. In stark contrast to the idea that family mainly
 
-extended in other studies. We’re now able to more deeply understand
+drains energy from work, we found that family can provide energy for
 
-the ways that family can play a role in motivation at work, as well as how
-
-managers can apply our ﬁndings in their own organizations.
+one’s work. These ﬁndings encourage us to rethink family as a key

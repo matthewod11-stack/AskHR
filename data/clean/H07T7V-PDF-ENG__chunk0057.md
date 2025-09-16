@@ -1,13 +1,21 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 538916248197422e369e1945cd9265ffed9555d1
+title: H07T7V-PDF-ENG
+---
+## economy, lots of industrial-era incumbents, and then a lot of companies
 
-Where the action is in the economy, where the excitement is in the
+clustered in the tech space, clustered on the West Coast.
 
-economy, what are they doing diﬀerently? And The Geek Way contains
+For my whole career, I have been trying to pattern match and ﬁgure out
 
-my answers to that kind of career long, geeky, head scratching question.
+what the deep diﬀerences are between the two. Is it the foosball tables?
 
-ADI IGNATIUS:
+Is it the hoodies? Is it bringing your dog to work? No, obviously not.
 
-Let’s get practical for our viewers who aren’t in classically geeky
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-cultures. How can they apply the approaches you’re championing, at
+17
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

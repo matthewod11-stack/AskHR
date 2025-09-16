@@ -1,7 +1,11 @@
-## 4.1. Educational information on implicit and explicit bias
+---
+source_path: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion.md
+pages: n/a-n/a
+chunk_id: fad4176ac1277c594e7f0e8a526fa3082d4af667
+title: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion
+---
+# 3.4. Case studies
 
-As detailed in the results, participants openly acknowledge the prevalence of stereotypes, prejudice, and discrimination towards individuals with disabilities, and they communicated an understanding of the significant barriers present in employment because of these biases. Findings also suggest that clear examples of bias in employment settings, along with strategies to interrupt implicit biases towards individuals with disabilities, are key concepts to be communicated in training.
+Similar to the need to attend to various learning modalities when developing training, the final theme from the current study emphasizes the usefulness of case studies in implicit bias and disability inclusion training. HR professionals emphasized the importance of real- life examples when developing training. Participants requested: “Need case studies. Case studies, I think, are huge in maybe helping us remember some of the material and concepts.” Participants further emphasized: “Concrete examples, case studies, those are pieces that kind of jump out to you all as particularly important for HR professionals. People like to see examples and scenarios.” Other participants explained the use of case studies to initiate other learning strategies: “Maybe an opportunity for … real-life role plays or, again, connect it back to a real-life example with some of these biases and things like that.” One participant pointed to specific companies successfully using case studies: “Like U-Haul, for example, does a lot of success stories, of real people, real disabilities in the workplace thriving … ”
 
-Concepts in this theme are consistent with findings of previous disability bias research studies. For example, the United States Department of Labor’s (USDOL) Office of Disability Employment Policy (ODEP) conducted a focus group study with employers in 13 major metropolitan areas representing a range of industries, company sizes, and for-profit and not-for-profit organizations to examine factors that prevent employers from hiring people with disabilities (Grizzard, 2005). The most common answer given by employers was
-
-J Vocat Rehabil. Author manuscript; available in PMC 2024 September 16.
+- 4. Discussion

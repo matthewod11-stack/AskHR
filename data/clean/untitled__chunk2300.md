@@ -1,9 +1,17 @@
-# Urbana: University of Illinois Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d21f6d2b678a7efe9927e33f09c6b0a3bc394cce
+title: untitled
+---
+## Rex v. Arnold (Kingston upon Thames Assizes), 16 State Trials 695
 
-Roesch, R., Golding, S., Hans, V. P., & Reppucci, N. D. (1991). Social science and the courts: The role of amicus briefs. Law and Human Behavior, 15, 1–11.
+(1812).
 
-Roesch, R., Grisso, T., & Poythress, N. G. (1986). Training pro- grams, courses, and workshops in psychology and law. In M. F. Kaplan (Ed.), The impact of social psychology on procedural justice (pp. 83–108). Springﬁeld, IL: Thomas.
+Rieber, R. W., & Green, M. (Eds.). (1981). Milestones in the history of forensic psychology and psychiatry. New York: DaCapo Press.
 
-Roesch, R., Zapf, P., Golding, S., & Skeem, J. (1999). Deﬁning and assessing competency to stand trial. In A. Hess & I. Weiner (Eds.), The handbook of forensic psychology (2nd ed., pp. 327– 349). New York: Wiley.
+Robinson, E. S. (1935). Law and the lawyers. NewYork: Macmillan.
 
-Saks, M. J. (1986). The law does not live by eyewitness testimony
+Rock v. Arkansas, 107 S. Ct. 2804 (1987).
+
+Roesch, R., & Golding, S. (1980). Competency to stand trial.

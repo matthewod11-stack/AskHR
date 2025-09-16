@@ -1,7 +1,7 @@
-# References
-
-Simpkins, G., & Raphael, P. (1970). Black students, APA, and the challenge of change. American Psychologist, 25, xxvii–xxviii.
-
-Slife, B. D., & Williams, R. N. (1995). What’s behind the research: Discovering hidden assumptions in the behavioral sciences. Thousand Oaks, CA: Sage.
-
-Sue, S., & Sue, D. W. (1971). Chinese-American personality and
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f2d89bea16708ef491659f14ccf97cb45cfa3330
+title: untitled
+---
+# Norton.

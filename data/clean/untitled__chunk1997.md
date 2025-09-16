@@ -1,5 +1,11 @@
-# Brace, Jovanovich.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f6d12cd98c08f052de5097632843ce0c5d8d71a5
+title: untitled
+---
+## structing neurology. New York: Oxford University Press.
 
-Hollingworth, L. S. (1918). Tentative suggestions for the certiﬁca- tion of practicing psychologists. Journal of Applied Psychology, 2, 280–284.
+Hale, N. G., Jr. (1971). Freud and the Americans. Vol. 1: The begin- nings of psychoanalysis in the United States 1876–1917. New York: Oxford University Press.
 
-Horney, K. (1937). The neurotic personality of our time. New York:
+Hilgard, E. R. (1987). Psychology in America. New York: Harcourt,

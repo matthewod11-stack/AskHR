@@ -1,9 +1,13 @@
-# Original Research
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: facb423474e28820ed6cbdcadd559490e039e405
+title: read_online
+---
+# and
 
-the conceptualisation and to the writing up of the manuscript for journal submission.
+Acknowledgements Competing interests The authors have declared that no competing interests exist.
 
-Funding information This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+Author’s contributions J.A. conceptualised the research, performed the statistical analysis and wrote up the initial work. C.W.C. contributed to
 
-Data availability statement The University of the Witwatersrand Ethics Clearance was granted on condition of data confidentiality.
-
-Disclaimer The views and opinions expressed in this article are those of the authors and do not necessarily reflect the official policy or position of any affiliated agency of the authors.
+http://www.sajems.org

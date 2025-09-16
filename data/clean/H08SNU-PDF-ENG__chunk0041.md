@@ -1,15 +1,21 @@
-# goals beyond just eﬃciency.
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c4da57ce859117dafa0bd06fa6eaeefcc21a05eb
+title: H08SNU-PDF-ENG
+---
+# (prominence).
 
-. . .
+- Abstraction: Create a single patient portal that abstracts all
 
-In an era when every competitor is racing to add more features, channels, data, and spend, the real diﬀerentiator is the courage to
+healthcare interactions behind a uniﬁed interface, simplifying access
 
-remove. Subtraction is neither austerity nor minimalism; it’s strategic
+(eﬃciency), ensuring continuity across services (resilience), and
 
-design. By carving away the non-essential, leaders create the white
+positioning [Company] as a digitally advanced provider (prominence).
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+By explicitly directing the AI model to consider subtractive options of
 
-8
+various types, organizations can overcome the human tendency to add
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and discover more elegant solutions that balance multiple performance

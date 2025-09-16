@@ -1,1 +1,9 @@
-# Date
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 49c811cd4f46487f8478973e2cefbf8a0be62c92
+title: performance_management_3rd_edition_by_aguinis
+---
+# Average Performance Score
+
+Employee Use Only: Please provide comments and examples of behaviors to describe your performance in the past quarter. ____________________________________________________________________________ ____________________________________________________________________________ ____________________________________________________________________________ ________________________________ _____________________________________ Date Manager Signature

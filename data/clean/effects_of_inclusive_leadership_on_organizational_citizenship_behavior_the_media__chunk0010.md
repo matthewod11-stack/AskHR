@@ -1,1 +1,9 @@
-## Theoretical background and hypothesis development
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: f659707e4158218e639d17c07485d0b4acdc1495
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# Thi Bich Hanh Tran and Suk Bong Choi
+
+learning culture because it facilitates a favorable environment for promoting such conditions (Danish et al., 2014). As inclusive leaders consider individuals’ needs and interests carefully, employ- ees are likely to feel that their organization treats them fairly and in accordance with rules, regulations, and ethics. This will provide employees with better motivation for OCB. In addition, such inclusive leaders’ ability to promote individuals’ needs may cultivate employees’ internal and social desires, such as learning and studying (Choi et al., 2015; Nembhard & Edmondson, 2006). When the organization provides them with such a learning culture to develop their internal interests, employees are more likely to perceive that their organization values what they have done (Joo, 2010; Joo & Shim,2010).Thismotivatesreciprocationtowardtheirleaderaswell as their organization, which ultimately leads to OCB.

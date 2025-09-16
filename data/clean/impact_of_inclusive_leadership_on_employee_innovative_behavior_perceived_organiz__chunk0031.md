@@ -1,1 +1,7 @@
-## Table 2. Unstandardized coefficients of the model.
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 8027fae8eb0ab723f46c2fc8bad3c9047009161c
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+## Impact of inclusiveleadershipon employeeinnovativebehavior

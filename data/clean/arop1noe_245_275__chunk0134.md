@@ -1,5 +1,11 @@
-# Teams
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 26e45ea43621a4136701088a99cc3317417739bf
+title: arop1noe_245_275
+---
+# Work–family climate
 
-What team characteristics have the greatest impact on social and self-directed learning? How can learning be better facilitated among team members that are not colocated? How can the different types of learning required by different types of team-based knowledge work best be supported?
+How does an organization’s support for work–life balance influence learning?
 
-A team work structure can facilitate learning of team members through member interactions.
+Meeting work–family balance needs allows employees to better identify and take advantage of discretionary learning opportunities.

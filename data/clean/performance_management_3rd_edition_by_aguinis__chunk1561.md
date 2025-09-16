@@ -1,15 +1,7 @@
-# 9.3.2 Giving Feedback
-
-Giving feedback to an employee regarding her progress toward achieving her goals is a key component of the coaching process.21 Feedback is information about past behavior that is given with the goal of improving future performance. Although “back” is part of feedback, giving feedback has both a past and a future component. This is why, when done properly, feedback can be relabeled feed forward.22
-
-Feedback includes information about both positive and negative aspects of job performance and lets employees know how well they are doing with respect to meeting the established standards.23 For example, the so-called 2+2 performance appraisal model for teachers includes peer teachers who observe each other perform in the class- room and then offer two compliments and two suggestions for improvement.24 Feedback is important in the context of performance regarding development activities and goals. Our discussion of feedback, however, goes beyond that and includes feed- back about performance in general. Feedback is not a magic bullet for performance improvement;25 however, it serves several important purposes:
-
-- Helps build confidence. Praising good performance builds employee confidence regarding future performance. It also lets employees know that their manager cares about them.
-
-- Develops competence. Communicating clearly about what has been done right and how to do the work correctly is valuable information that helps employees become more competent and improve their performance. In addition, communi- cating clearly about what has not been done right and explaining what to do next time provide useful information so that past mistakes are not repeated.
-
-- Enhances involvement. Receiving feedback and discussing performance issues allow employees to understand their roles in the unit and organization as a whole. This, in turn, helps employees become more involved in the unit and the organization.
-
-Unfortunately, however, the mere presence of feedback, even if it is delivered correctly, does not necessarily mean that all of these purposes will be fulfilled. For example, a review of 131 studies that examined the effects of feedback on performance concluded that 38% of the feedback programs reviewed had a negative effect on performance.26 In other words, in many cases, the implementation of feedback led to lower performance levels. This can happen when, for example, feedback does not include useful information or is not delivered in the right way. For example, feedback can have detrimental effects if it focuses on the employee as a whole as opposed to specific behaviors at work. This is precisely the case of a very successful woman who made many personal sacrifices such as not starting a family to reach the top echelons of the organizational hierarchy.27 She received feedback that included information that she had failed to retain a valued client. The feedback was accurate and delivered in the correct manner; however, after receiving the feedback, she began to question her life choices in general instead of focusing on how to retain valued clients in the future. In this example, feedback was not instrumental in improving performance; instead, the feedback created self-doubt and questions about identity.
-
-Although some feedback systems do not work well, the advantages of providing feedback generally outweigh any disadvantages. Also, consider the possible cost of not
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: cd9d06ba3b8bfa61746c3a4f7804f3b94058f684
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 9 • Performance Management Skills

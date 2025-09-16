@@ -1,3 +1,13 @@
-# 298 Assessment Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9637bc726cf8ade95d49a015ed680cc7069b3f02
+title: untitled
+---
+# REFERENCES
 
-Anastasi, A., & Urbina, S. (1997). Psychological testing (7th ed.).
+Ackerman, M. J., & Ackerman, M. C. (1997). Custody evaluation practices: A survey of experienced professionals (revisited). Professional Psychology, 28, 137–145.
+
+American Psychiatric Association. (2000). Diagnostic and statisti- cal manual of mental disorders (4th ed., text rev.). Washington, DC: Author.
+
+297

@@ -1,7 +1,41 @@
-## the emotional labor inherent in their roles.
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8130b0bfbf916883aaa5b2019ff88651b8b6698b
+title: H07R1O-PDF-ENG
+---
+# Anticipate Others’ Emotional Reaction.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Leaders must anticipate the eﬀect their actions will have and the
 
-7
+emotions they will induce, in others and on themselves. CEOs rely on
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their own emotional intelligence for this sensibility, which gets better
+
+over time, partly from gaining experience in dealing with stakeholders
+
+to see patterns in how they react, and partly from gaining practice in delivering and living with diﬃcult decisions. Nevertheless, CEOs need
+
+to be mindful that they and those closest to them may not always
+
+appreciate how diﬀerent constituencies feel. To supplement their own
+
+anticipatory skills, savvy CEOs rely on others who can serve as listening
+
+posts and can help them understand and think through the nuance of
+
+emotionally charged decisions.
+
+. . .
+
+The role of a CEO involves a broad spectrum of emotional labor,
+
+from maintaining personal composure to managing the emotional
+
+climate of an entire organization. This labor is intensiﬁed by the
+
+rising expectations for CEO activism and authenticity, coupled with
+
+the relentless crises they must navigate. However, with emotional
+
+intelligence, and a mindful approach to authenticity, CEOs can manage

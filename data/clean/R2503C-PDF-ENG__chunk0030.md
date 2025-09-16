@@ -1,7 +1,9 @@
-## formulation and evaluation of alternatives
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a03fd8490ef7412137341dc963d6a8c4c00f1b4d
+title: R2503C-PDF-ENG
+---
+# decision-making.
 
-into their strategy process. Strategies are
-
-proposed only after a range of options have
-
-been carefully considered. These
+The most successful companies embed the

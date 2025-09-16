@@ -1,3 +1,7 @@
-## Taylor, S. E. (1999). Health psychology. Boston: McGraw-Hill.
-
-Weinman, J. (1998). Development and current status of health psychology in the United Kingdom. In T. McIntyre (Chair), The state of health psychology in Europe: Education and practice. Symposium conducted at the 12th Conference of the European Health Psychology Society, Vienna, Austria.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 711c392ddfc72611fbc9d7c2fe755b5a6adad55b
+title: untitled
+---
+## Conference of the European Health Psychology Society, Vienna, Austria.

@@ -1,25 +1,55 @@
-## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed8879dacfa7a70a8745453c8324fc28310ad963
+title: H07VPH-PDF-ENG
+---
+# around us.
 
-be very diﬃcult for a listener who values relationships and excels at
+Making decisions based on situationality is not always a bad thing.
 
-building them. I pointed out the apparent contradiction to Miriam, who
+Letting your parent decide how much chicken to serve you lets them
 
-was as puzzled as I was.
+show their love for you – even if you know you’d like a smaller portion.
 
-She felt stuck. She knew she needed to sever this problematic
+Similarly, if you’re an adventurer just starting out at a new job, you may
 
-relationship, but she didn’t understand what had gone wrong. She
+need tune into your listener in order to learn the ropes. Once you’re
 
-had another employee, Andre, and she was concerned that history
+more comfortable, you can let your natural adventurer come out.
 
-might repeat itself, without her understanding why. Would he ghost
+Sometimes, however, situationality can present a problem. It can
 
-her too? She didn’t know him very well, but thought they had a good
+change our decision-making approach in a way that causes friction. As
 
-relationship. How could she move forward and “break-up” with her
+it did with Miriam.
 
-cofounder in a way that didn’t make Andre collateral damage?
+Miriam is the chief executive and founder of an agriculture technology
 
-To help Miriam become unstuck, I asked her to think about how her
+start-up. Using my PSP quiz, she identiﬁed herself as a listener, someone
 
-CEO situationality might be undercutting her dominant PSP, or her
+who likes to gather the wisdom of others, tends to have a trusted group
+
+of advisors to discuss their decisions with, and avoids conﬂict.
+
+“I enjoy listening to the perspectives of others on any topic because
+
+I understand that we all think diﬀerently,” Miriam observed. “I like
+
+thinking about how one decision can impact people very diﬀerently.”
+
+Like other listeners, Miriam makes new friends easily and connects with
+
+strangers virtually everywhere she goes.
+
+However, shortly after we began working together, Miriam confessed that she had had repeated communication diﬃculties with her
+
+cofounder, and that their relationship had turned rancorous. Recently,
+
+he had begun ghosting her. Typically, this kind of acrimony would
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

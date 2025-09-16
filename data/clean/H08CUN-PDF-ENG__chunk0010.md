@@ -1,19 +1,17 @@
-## Klotz, associate professor of organizational behavior at UCL School
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 196ef4a59f1095a6e2a8eb63582321cc32dd567d
+title: H08CUN-PDF-ENG
+---
+# What the Experts Say
 
-of Management. This breeds resentment which can lead people to
+Employee discontent is on the rise: more workers today are thinking
 
-“act like jerks,” says Klotz, noting that they’re more likely to, for
+about quitting their jobs than during the Great Resignation in 2022,
 
-instance, “commit small acts of incivility or rudeness,” like excluding
+according to a June PwC report. And since the current job market is
 
-colleagues from group emails or interrupting others during meetings.
+not as favorable as it was then, particularly for knowledge workers,
 
-It’s up to you, the manager, to take action, says Ron Carucci, co-
-
-founder and managing partner at Navalent, a consulting ﬁrm, and
-
-the author of the book, To Be Honest: Lead with the Power of Truth,
-
-Justice and Purpose. “Even if you’re the target of resentment, it’s your
-
-job to defuse it,” Carucci says. He advises approaching the situation
+many people feel “frustrated and trapped,” according to Anthony

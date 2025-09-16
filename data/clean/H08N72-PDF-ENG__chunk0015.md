@@ -1,21 +1,19 @@
-# stagnant.
+---
+source_path: H08N72-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1f7b9353831cc90ba25635872949a8626e8b8c4
+title: H08N72-PDF-ENG
+---
+## HBR / Digital Article / When Your Colleague Is Jealous of Your Success
 
-When this is the case, recognize that no amount of eﬀort on your
+on them, perhaps because they’re jealous themselves, or because their
 
-part will change their erroneous perspective. At this point, it becomes
+impression of you has been compromised by someone else who is.
 
-essential for your own well-being to distance yourself. Such negative
+- 5. Minimize contact if necessary.
 
-people will ﬁnd fault with everyone else who succeeds, so it is best not
+You’ve tried to address the situation directly and turn around negative dynamics. But despite your best eﬀorts, some individuals cannot move
 
-to be aﬃliated with them.
+past their envy. They cling to a misguided, zero-sum mindset–the belief
 
-Cut the cord elegantly, but ﬁrmly. Remain cordial and professional in
-
-necessary professional interaction, but don’t exert additional energy to
-
-try and include or help someone who is likely to resent you (at best)
-
-or backstab you (at worst). Your attention is better utilized fostering
-
-relationships with colleagues who align with your newfound success
+that for one person to succeed, everyone else must fail, or at least, stay

@@ -1,13 +1,23 @@
-# x FOREWORD
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 2fb4399deb07817af08dbf520182c289b486495f
+title: barrickryan_eds_personality_and_work
+---
+# xv xvii
 
-8
+1
 
-9
+30
 
-10
+60
 
-11
+83
 
-12
+121
 
-Self-Monitoring Personality and Work Relationships: Individual Differences in Social Networks David V. Day, Martin Kilduff Understanding the Dynamic Learner: Linking Personality Traits, Learning Situations, and Individual Behavior J. Kevin Ford, Frederick L. Oswald Focusing on Personality in Person-Organization Fit Research: Unaddressed Issues Ann Marie Ryan, Amy Kristof-Brown Emerging Trends and Needs in Personality Research and Practice: Beyond Main Effects Leaetta M. Hough Research Themes for the Future Michael K. Mount, Murray R. Barrick, Ann Marie Ryan
+150
+
+183
+
+ix

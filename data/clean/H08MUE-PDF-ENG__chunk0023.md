@@ -1,17 +1,13 @@
-## HBR / Digital Article / The Pandemic Proved That Remote Leadership Works
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 220d236f4efe11f0b54ccd873b7b33bb08695433
+title: H08MUE-PDF-ENG
+---
+## employees, client meetings, professional conferences, and more. Each
 
-of these trips requires not only time, but pre-planning to connect with
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the right people and have the right agendas. In other words, managing
+5
 
-from a remote location takes real work, planning and thinking—more
-
-perhaps than just coming to an oﬃce on a regular basis.
-
-One of my clients, who lives on the east coast but manages large
-
-concentrations of people in several other locations, told me he is
-
-very deliberate with his travel planning, arranging meetings and even
-
-unstructured time in advance. He organizes a town hall at each site each
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

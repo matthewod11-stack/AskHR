@@ -1,11 +1,21 @@
-# future performance
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 415e8ceef9302f67900ee5a1f0e98bb929ba4b73
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Schwenk & Tang, 1989).
 
-leading
+Another relevant stream of research is the pay-for-performance literature. Past studies
 
-underperformance (see Wagner-Tsukamoto, 2007). Table 1 summaries the key features of the
+have demonstrated that pay-for-performance is strongly associated with superior individual
 
-perspectives. Although firms persist with such workers, our understanding remains limited.
+and organisational performances (see Sturman, Trevor, Boudreau & Gerhart, 2003). One line
 
-Much of the existing literature has failed to offer a comprehensive explanation as to why
+of research has suggested that highly productive employees are more likely to opt for pay-for-
 
-companies persist with underperforming workers. Therefore, there is a need for a better
+performance compensation, whereas, less productive workers often prefer fixed-salary
+
+compensation (Jensen, 2003). Accordingly, failure or inability to reward workers for their
+
+performance creates conditions, which discourage

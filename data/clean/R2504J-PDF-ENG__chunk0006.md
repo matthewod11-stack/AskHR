@@ -1,11 +1,15 @@
-## it. And among the acquisitions in our sample one seemingly simple
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2060fd40a0831622f39dd5d13aafba879e1c3b3d
+title: R2504J-PDF-ENG
+---
+# add.
 
-but signiﬁcant factor emerged: When presentations were accompanied
+What determines whether investors believe in CEOs’ presentations?
 
-by a slide illustrating the strategic rationale for a deal, investors were
+To ﬁnd out we conducted a statistical analysis using event study
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+methodology, in which researchers determine what characteristics of
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+an acquisition (“the event”) explain how the stock market responds to

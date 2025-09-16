@@ -1,1 +1,13 @@
-# from
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: c5c2d024ac494fd7d142d7c0dd3f089d70c4e951
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Introduction
+
+This chapter presents the methodology and procedures that will be adopted while carrying out the study. It presents the research design, the target population, the sample size and sampling techniques, sampling procedure, the data collection instruments, validity and reliability of instruments, data analysis and presentations. Research Design
+
+A research design can be defined as the structure of the research. It is the core of all different aspect of any research (Kisulu & Tromp, 2006). Orodho (2003) asserts that research design is a plan of all the conditions and elements for the collection and analysis of data in an objective
+
+manner that is in line with the research aims. It provides a framework within which research is done. The research design constitutes the blue print for the collection, measurement and analysis of data, (Kothari, 2005).The research adopted both descriptive research design on Judiciary and a case study approach. Descriptive survey is a method of collecting information by interviewing or administering a questionnaire to a sample of individuals (Orodho, 2003). It can also be used when collecting information about people(cid:859)s attitudes, opi(cid:374)io(cid:374)s ha(cid:271)its or any other social issues (Orodho & Kombo, 2003. A descriptive survey approach is a process of collecting data the members of a population in order to determine the current status of the subject under study with respect to one or more variables (Orodho, 2003). Since this study seeks to establish the role of progressive discipline on employee performance in Kenya

@@ -1,17 +1,13 @@
-# each week?
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dea2fad83a2fb29c65d16fecc26426cac45122e5
+title: H07UPN-PDF-ENG
+---
+# Consider:
 
-- Do you acknowledge when you don’t know something or do you
+- Does your team know which skill you’re personally working to
 
-present yourself as someone who is sure to have the right answer?
+improve?
 
-Asking for others’ perspectives supports the notion that anyone can
-
-always expand their understanding.
-
-- When you take on a challenge, face a struggle, or make a mistake, do
-
-you share that with others, voice your reﬂections, and ask for ideas?
-
-You might fear that these behaviors could prompt others to lose
-
-conﬁdence in you or your organization. However, it is these exact
+- Do you solicit feedback from a variety of people, at least a few times

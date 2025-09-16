@@ -1,7 +1,11 @@
-# N
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 2e8b8ee5366d052728e85d88cf8eccd4c50d99a5
+title: file_1
+---
+# F
 
-610
+6.343 ***
 
-606
-
-- p<0.05; **p<0,01; ***p<0,001 (significance levels are based on one-tailed test)
+6.384 ***

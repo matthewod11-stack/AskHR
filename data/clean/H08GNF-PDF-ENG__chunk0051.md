@@ -1,13 +1,9 @@
-## serve as a quick reference of the skills and expertise you most
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a897a8a696fbfde53b73211bc30298d0b398ef59
+title: H08GNF-PDF-ENG
+---
+## HBR / Digital Article / Use the STAR Interview Method to Land Your Next Job
 
-want to highlight in your responses, aligned to the job description
-
-requirements, so you can be sure to touch on these points in your
-
-responses. Your bulleted list might look like this:
-
-- Team player: Actively listen to team members’ concerns
-
-- Problem solver: Resolving conﬂicts, keeping projects on track
-
-- Solid communication skills: Bridging communication gaps on your
+If you’re interviewing virtually, consider writing a bulleted list to

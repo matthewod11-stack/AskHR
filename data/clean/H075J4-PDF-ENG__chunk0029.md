@@ -1,13 +1,37 @@
-# digital innovation.
+---
+source_path: H075J4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f16ed7feb2b972b7b454d548908ad839d0a5e08
+title: H075J4-PDF-ENG
+---
+# HBR / Digital Article / Coding Isn’t a Necessary Leadership Skill — But Digital Literacy…
 
-Learn concepts rather than skills.
+break things.” Both approaches are right for their own specialty; the key
 
-While you don’t need to learn to code a product with your bare hands,
+is not to mix them up.
 
-you do need to learn core tech terminology. As Jennifer Byrne told
+If you’re working on a digital product for the ﬁrst time, understand that
 
-me: “You have to understand the diﬀerence between acquiring digital
+apps, sites, and algorithms are built using an experimental “build —
 
-context versus digital ﬂuency. Context means seeing the bigger picture
+measure — learn” cycle. The product team simply cannot tell you what
 
-of how things connect together, but not necessarily understanding the
+features are going to be released in a year because they don’t know yet.
+
+This can cause frustration, especially in the ﬁnance department, which
+
+understandably wants to forecast spend and revenues. This is where it
+
+helps to learn from startups. Early-stage technology companies are by
+
+nature experimental, but they have a very clear deadline: the amount of
+
+cash left in the bank. The question they’re answering is: What can we
+
+learn given the amount of funding we have? Given our runway, what
+
+experiments can we do to get closer to our goal?
+
+Thinking in terms of experimentation within a certain budget or time
+
+frame helps bring business realities to the scientiﬁc method used in

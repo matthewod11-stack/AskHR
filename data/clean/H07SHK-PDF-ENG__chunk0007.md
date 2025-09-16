@@ -1,23 +1,29 @@
-## HBR / Digital Article / The Myth of the CEO as Ultimate Decision Maker
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55e32c61be04f75152b0c3ddb2478bc218d16327
+title: H07SHK-PDF-ENG
+---
+# Yaroslav Danylchenko/Stocksy
 
-rather than making decisions directly, the proper role of the CEO is
+A common misperception about the CEO’s role is that they are the
 
-to enable others to make decisions the CEO can support. Of course,
+ultimate decision-maker, and that the prize of getting this coveted
 
-there are times when the CEO must be the ultimate decision-maker,
+position is that you now get to make all the decisions. In reality, the
 
-but the CEO’s approach should be inspired by Occam’s razor: The fewer
+CEO’s role is much more about shaping rather than making decisions.
 
-decisions the CEO can make, the better.
+There’s a fundamental reason for this subtle diﬀerence. Organizations
 
-CEOs have several tools at their disposal to shape decisions in their
+face countless decisions daily, and it would be impossible for a CEO
 
-organizations. Some are at the level of the organization as a whole. CEOs
+to be involved in each one. Attempting to do so would slow down the
 
-can shape decisions by aligning everyone around a shared purpose,
+entire operation and could even bring it to a standstill. As a result,
 
-articulating priorities, and setting goals. Decisions are also shaped by
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-developing a clear strategy, adopting an organization structure that
+1
 
-allows for the proper distribution of responsibilities, and fostering a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

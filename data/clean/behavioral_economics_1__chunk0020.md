@@ -1,93 +1,45 @@
-## and Loewenstein, Bazerman and Thompson, 1989).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 9430480c0f7ebf115dbbd93d5c7a9ad92652cf7e
+title: behavioral_economics_1
+---
+# domains.
 
-Sensible models of this type face a difficult challenge: Sometimes people sacrifice to increase payoffs of
+Choice over time: If choices are dynamically consistent, then the discount weight put on future utilities
 
-others, and sometimes they sacrifice to lower the payoffs of others. The challenge is to endogenize when the
+must be exponential (u(xt)=δt). While dynamic consistency is normatively appealing, it seems to be contradicted
 
-weights placed on payoffs of others switch from positive to negative. A breakthrough paper is Rabin’s (1993),
+by everyday behavior like procrastination and succumbing to temptations created by previous choices.9 To
 
-based on psychological game theory, which includes beliefs as a source of utility. In Rabin’s approach, players
+understand these phenomena, Laibson (1997) borrowed a two-piece discounting function from work on
 
-form a judgment of kindness or meanness of another player, based on whether the other player’s action gives
+intergenerational preference. His specification puts a weight of 1 on immediate rewards, and weights u(xt)=βδt
 
-the belief-forming player less or more than a reference point (which can depend on history, culture, etc.).
+on rewards at future times t. This “quasi-hyperbolic” form is a close approximation to the mountains of
 
-Players prefer to reciprocate in opposite directions, acting kindly toward others who are kind, and acting meanly
+evidence that animal and human discount functions are hyperbolic, d(t)=1/(1+kt), and is easy to work with
 
-toward others who are mean. As a result, in a coordination game like “chicken”, there is an equilibrium in
+analytically. (Rubinstein, 2003 suggests an alternative based on temporal similarity.) The β-δ model has been
 
-which both players expect to treat each other well, and they actually do (since doing so gives higher utility, but
+calibrated to explain regularities in aggregate savings and borrowing patterns (Angeletos, Laibson, Tobacman,
 
-less money). But there is another equilibrium in which players expect each other to act meanly, and they also
+2001), and applied to the study of procrastination and deadlines by O’Donoghue and Rabin (2001).
 
-do. Rabin’s model shows the thin line between love and hate. Falk and Fischbacher (2005) and Dufwenberg and
+Self-interest: The idea that people only care about their own monetary or goods payoffs is not a central
 
-Kirchsteiger (2004) extend it to extensive-form games, which is conceptually challenging.
+tenet of rational choice theory, but it is a common simplifying assumption. Economists also tend to be skeptical
 
-A different approach is to assume that players have an unobserved type (depending on their social
+that people will sacrifice to express a concern for the payoffs of others. As Stigler (1981) wrote, “when self-
 
-preferences), and their utilities depend on their types and how types are perceived (e.g., Levine, 1998 and
+9 See also Gul and Pesendorfer, 2001, who model a distaste for flexibility when choice sets include tempting goods.
 
-Rotemberg, 2004). These models are more technically challenging but can explain some stylized facts.
+9
 
-Simpler models put aside judgments of kindness based on intentions, and just assume that people care
+interest and ethical values with wide verbal allegiance are in conflict, much of the time, most if the time in fact,
 
-about both money and inequity, either measured by absolute payoff deviations (Fehr and Schmidt, 1999) or by
+self-interest theory…will win.”
 
-the deviation between earnings shares and equal shares (Bolton and Ockenfels, 2000). Charness and Rabin
+Despite skepticism like Stigler’s, there is a long history of models that attempt to formalize when people
 
-10
-
-(2002) introduce a “Rawlsitarian” model in which people care about their own payoff, the minimum payoff
-
-(Rawlsian) and the total payoff (utilitarian). In all these models, self-interest emerges as a special case when the
-
-weight on one’s own payoff swamps the weights on other terms.
-
-These models are not an attempt to invent a special utility function for each game. They are precisely the
-
-opposite. The challenge is to show that the same general utility function, up to parameter values, can explain a
-
-wide variety of data that vary across games and institutional changes (e.g., Fischbacher, Fong and Fehr, 2003).
-
-Bayesian statistical judgment: The idea that people’s intuitive judgments of probability obey statistical
-
-principles, and Bayes’ rule, is used in many applied microeconomics models (e.g., in games of asymmetric
-
-information). Tversky and Kahneman (see Kahneman, 2003) used deviations between intuitive judgments and
-
-normative principles (“biases”) to suggest heuristic principles of probability judgment. Their approach is
-
-explicitly inspired by theories of perception, which use optical illusions to suggest principles of vision (Tversky
-
-and Kahneman, 1982), without implying that everyday visual perception is badly maladaptive. Similarly,
-
-heuristics for judging probability (like availability of examples, and representativeness of samples to underlying
-
-processes) are not necessarily maladaptive. The point of studying biases is just to illuminate the heuristics they
-
-reveal, not to indict human judgment. Thus, their original view is consistent with the critique that heuristics can
-
-be ecologically rational.
-
-The Bayesian approach is so simple and useful that is has taken some time to craft equally simple formal
-
-alternatives which are consistent with the heuristics Kahneman and Tversky suggested. An appealing way to do
-
-is to use the Bayesian framework but assume that people misspecify or misapply it in some way. Rabin and
-
-Schrag (1999) give a useful model of “confirmation bias”. They define confirmation bias as the tendency to
-
-overperceive data as more consistent with a prior hypothesis than they truly are. The model is fully Bayesian
-
-except for the mistake in encoding of data. Rabin (2002) models representativeness as the (mistaken)
-
-expectation that samples are drawn without replacement, and shows some fresh implications of that model (e.g,
-
-11
-
-perceiving more skill among managers than truly exists). Barberis, Shleifer and Vishny (1998) show how a
-
-similar misperception among stock investors, that corporate earnings which actually follow a random walk
-
-either exhibit momentum or mean-reversion, can generate short-term underreaction (“earnings drift”) and long-
+trade off their own payoffs for payoffs of others (e.g., Edgeworth, 1881; “equity theory” in social psychology;

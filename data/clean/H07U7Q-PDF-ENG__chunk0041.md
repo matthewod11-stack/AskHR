@@ -1,11 +1,13 @@
-# proud of.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ad7ce106458a8f661f152306a3a0d85cb55e5af
+title: H07U7Q-PDF-ENG
+---
+# across our entire leadership team.
 
-ADI IGNATIUS:
+I’m also really proud of the fact that 50% of the group I just mentioned
 
-Let’s shift gears a little bit. This is another audience question, from
+grew up in our stores, and so that expertise of knowing Whole Foods and
 
-Punjab, Pakistan, and it’s about hybrid work. How do you manage the
-
-fact that your frontline workers need to be there full-time in the stores,
-
-versus white collar workers who are able to work hybrid? How do you
+being able to build a career in a functional area is something we’re really

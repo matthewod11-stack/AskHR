@@ -1,7 +1,23 @@
-# collaborating.
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b04d63b6630bcfb760a28ea632bc2f589a0a68db
+title: H08UL7-PDF-ENG
+---
+## Foster Your Team’s Emotional Intelligence
 
-Their Team EI assessment led them to recognize that they knew little
+Once you select a norm to adopt, kick it oﬀ with activities that get it
 
-about one another’s roles, responsibilities, and unique needs. To kick oﬀ the norm of working to understand each other better, they decided
+rolling and build the momentum necessary for new norms to take hold.
 
-to prioritize visiting one another’s work locations, where they could
+Here are some examples from work my colleagues and I did to help
+
+teams build more emotionally intelligent cultures.
+
+Understanding each other better. We worked with a global leadership
+
+team in the oil and gas industry whose members were working in silos
+
+rather than focusing on shared goals. They struggled to reach their
+
+potential because they were competing with one another instead of

@@ -1,9 +1,13 @@
-# if.
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: 8210cad77197024803f6d770c676a376522537b4
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# Highhouse, S., & Gillespie, J. Z.
 
-Judge, T. A., Thoresen, C. J., Bono,
+(2009). Do sam- ples really matter that much? In C. E. Lance & R. J. Vandenberg (Eds.),Statisticalandmethodolog- ical myths and urban legends: Doctrine, verity andfableintheorganizationalandsocialsciences (pp. 247–265). New York: Routledge.
 
-J. E., & Patton, G. K. (2001). The job satisfaction-job performance relationship: A qualitative and quantitative review. PsychologicalBulletin, 127, 376–407.
+Hodgkinson, G. P., & Healey, M. P. (2008). Cognition in organizations. Annual Review of Psychology, 59, 387–417.
 
-Kuhn, K. M. (2010). Can managers be trained to make better decisions? Industrial and Organizational Psychology:PerspectivesonScienceandPractice, 3, 434–437.
-
-Locke, E. A., & Latham, G. P. (2009). Has goal setting gone wild, or have its attackers abandoned good scholarship? The Academy of Management Perspectives, 23, 17–23.
+Ilgen, D. R. (1985). Laboratory research: A question of when, not In E. A. Locke (Ed.), The generalizability of laboratory experiments: An inductivesurvey.Lexington, MA: D. C. Heath and Company.

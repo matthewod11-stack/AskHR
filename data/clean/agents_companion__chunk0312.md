@@ -1,9 +1,21 @@
-# and reasoning.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 2a852b461eb75a41577665ad368dfb5fce1acbe2
+title: agents_companion
+---
+# data and workflows
 
-- Real-World Adaptation: Creating agents that can adapt and learn in dynamic,
+Future Directions for Agent Research and Development: The field of AI agents is
 
-unpredictable real-world environments. Production systems like automotive AI
+undergoing rapid evolution. Key areas of ongoing research and development include:
 
-illustrate how agents must balance between on-device performance for critical
+- Advanced Evaluation Methods: Developing more robust and scalable evaluation
 
-functions and cloud-based capabilities for complex tasks, often adapting to changing
+techniques, including process-based evaluation (focusing on reasoning), AI-assisted
+
+evaluation, and standardized benchmarks.
+
+- Multi-Agent Coordination: Improving the coordination and communication mechanisms
+
+within multi-agent systems to enable more effective collaboration, task handling,

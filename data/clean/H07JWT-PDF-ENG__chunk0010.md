@@ -1,15 +1,25 @@
-## important social buﬀer against workplace stress.
+---
+source_path: H07JWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c528d61056a92951187bd928189d5a8f5653d1b
+title: H07JWT-PDF-ENG
+---
+# a higher salary and career growth.
 
-But the answer is not to force everyone back into the oﬃce. Our research
+But what struck us most were the notable diﬀerences between the
 
-shows that people really want remote opportunities: 50% of employees
+responses of in-person and remote team members. Remote employees
 
-say that remote work is a top priority for them in their next role, while
+were 32% more likely to feel anxious in the wake of news about layoﬀs
 
-only 4% would seek out fully in person work.
+and were far more concerned about getting a new manager during a
 
-So how can organizations continue to oﬀer the ﬂexible work
+reorg. And 67% said this anxiety had an impact on their productivity. People who go to the oﬃce at least some of the time — whether that be
 
-arrangements top talent wants — and mitigate anxiety among remote
+hybrid or fully in person — were 24% less likely to say that uncertainty
 
-workers? The key is to train managers to foster a strong sense of
+has impacted their productivity over the past six months.
+
+It makes sense that employees who spend less (or no) time in person
+
+with leadership, their manager, and their team might lose out on an

@@ -1,45 +1,57 @@
-## HBR / Magazine Article / The Feedback Fallacy
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: fc43db0d27aef0afaf13e94b4bcf0bbcdebc8c9e
+title: The Feedback Fallacy
+---
+# new techniques:
 
-You can do the same. Whenever you see one of your people do
+Look for outcomes. Excellence is an outcome, so take note of when a
 
-something that worked for you, that rocked your world just a little, stop
+prospect leans into a sales pitch, a project runs smoothly, or an angry
 
-for a minute and highlight it. By helping your team member recognize
+customer suddenly calms down. Then turn to the team member who
 
-what excellence looks like for her—by saying, “That! Yes, that!”—you’re
+created the outcome and say, “That! Yes, that!” By doing this, you’ll stop
 
-oﬀering her the chance to gain an insight; you’re highlighting a pattern
+the ﬂow of work for a moment and pull your colleague’s attention back
 
-that is already there within her so that she can recognize it, anchor it,
+toward something she just did that really worked.
 
-re-create it, and reﬁne it. That is learning.
+There’s a story about how legendary Dallas Cowboys coach Tom
 
-Replay your instinctive reactions. Unlike Landry, you’re not going to
+Landry turned around his struggling team. While the other teams were
 
-be able to videotape your people. Instead, learn how to replay to them
+reviewing missed tackles and dropped balls, Landry instead combed
 
-your own personal reactions. The key is not to tell someone how well
+through footage of previous games and created for each player a
 
-she’s performed or how good she is. While simple praise isn’t a bad
+highlight reel of when he had done something easily, naturally, and
 
-thing, you are by no means the authority on what objectively good
+eﬀectively. Landry reasoned that while the number of wrong ways to
 
-performance is, and instinctively she knows this. Instead, describe what
+do something was inﬁnite, the number of right ways, for any particular
 
-you experienced when her moment of excellence caught your attention.
+player, was not. It was knowable, and the best way to discover it was to
 
-There’s nothing more believable and more authoritative than sharing
+look at plays where that person had done it excellently. From now on, he
 
-what you saw from her and how it made you feel. Use phrases such as
+told each team member, “we only replay your winning plays.”
 
-“This is how that came across for me,” or “This is what that made me
+Now on one level he was doing this to make his team members feel
 
-think,” or even just “Did you see what you did there?” Those are your
+better about themselves because he knew the power of praise. But
 
-reactions—they are your truth—and when you relay them in speciﬁc
+according to the story, Landry wasn’t nearly as interested in praise as he
 
-detail, you aren’t judging or rating or ﬁxing her; you’re simply reﬂecting
+was in learning. His instincts told him that each person would improve
 
-to her the unique “dent” she just made in the world, as seen through
+his performance most if he could see, in slow motion, what his own
 
-your eyes. And precisely because it isn’t a judgment or a rating it is at
+personal version of excellence looked like.
+
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

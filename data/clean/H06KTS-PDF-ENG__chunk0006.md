@@ -1,15 +1,27 @@
-# in the future?”
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8aacfe1f7420a980c34fa057072cb09a7fe99dea
+title: H06KTS-PDF-ENG
+---
+## Give Yourself Space to Process the Changes Around You
 
-Then do an honest inventory of your current capabilities and
+When you see others leaving your company, you may feel an urge to
 
-reputation, as well as where you still need to develop, in order to achieve
+start looking for new opportunities as well. Their departures can trigger
 
-your ideal work life. At the same time, explore whether your values and
+a feeling of social exclusion as you feel left behind. It’s not uncommon
 
-goals are aligned with what your employer deﬁnes for success in your
+to engage in what psychologists call “aﬀective forecasting,” imagining
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+the regret you may feel in the future if you don’t follow suit. But before
 
-2
+you do anything hasty, give yourself time to think rationally about how
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you should move forward.
+
+Start by reﬂecting alone, or with the help of a trusted partner, on
+
+your intrinsic values and goals, irrespective of others’ movements. Ask
+
+yourself, “What is truly important to me in my professional life now and

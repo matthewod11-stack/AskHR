@@ -1,13 +1,17 @@
-## the organization and unit mission and strategic goals.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 9ea541f71b3f1dac6d45228e06090464769a67ca
+title: performance_management_3rd_edition_by_aguinis
+---
+# LEARNING OBJECTIVES
 
-(cid:2) Understand that the poor implementation of any of the performance management
+By the end of this chapter, you will be able to do the following:
 
-process components has a negative impact on the system as a whole.
+(cid:2) Understand that performance management is an ongoing process that includes the interrelated components of prerequisites, performance planning, performance execution, performance assessment, performance review, and performance renewal and recontracting.
 
-(cid:2) Understand that a dysfunctional or disrupted link between any two of the
+(cid:2) Conduct a job analysis to determine the job duties, knowledge, skills, and abilities
 
-performance management process components has a negative impact on the system as a whole.
+(KSAs), and working conditions of a particular job.
 
-(cid:2) Understand important prerequisites needed before a performance management system is implemented, including knowledge of the organization’s mission and strategic goals and knowledge of the job in question.
-
-37
+(cid:2) Write a job description that incorporates the KSAs of the job and information on

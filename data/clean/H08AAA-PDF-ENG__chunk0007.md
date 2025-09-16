@@ -1,41 +1,21 @@
-# HBR / Digital Article / 3 Ways to Build a Culture That Lets High Performers Thrive
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa23177dc5a8455d05c9d8307c6648d1dee3d937
+title: H08AAA-PDF-ENG
+---
+# not.
 
-programs detailed procedural guidelines — none of these processes
+Or consider traditional annual performance reviews, which are typically
 
-accelerate your most valuable colleagues.
+designed to strike fear in low performers rather than help high
 
-This approach is low-ROI and ultimately problematic for high-
+performers excel (which comes instead from continuous developmental
 
-performance cultures. Leaders spend an inordinate amount of time
+coaching). Rigid goal setting and approval, mandatory training
 
-handholding their least productive colleagues and managing what
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-they’re working on and how, instead of helping their strongest
+2
 
-contributors move faster and do more. Meanwhile, because these
-
-handholding tactics are focused on pushing the work forward rather
-
-than ﬁguring out how to get better, they fail to turn low performers into
-
-high performers. Ultimately, by failing to nurture skill or motivation,
-
-low performance cultures stunt growth and repel top talent.
-
-Organizations need to build cultures that are obsessed with high
-
-performers, focusing the culture on keeping high performers and
-
-making new ones. Here’s how.
-
-- 1. Reduce Meetings Down to the Minimum Viable Dose
-
-One of the biggest pain points in organizations today is too many
-
-meetings. In Élodie’s example, high performers are hit the hardest,
-
-because they are constantly dragged into conversations to help unblock
-
-their colleagues or ﬁx their issues. If you want to keep your top talent,
-
-you must free them up to spend more of their time on interesting,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

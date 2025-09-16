@@ -1,11 +1,11 @@
-# week and complain about our in-laws?”
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1f4a483e6a41a56f1319a942da9d15f0dee1675
+title: R2402M-PDF-ENG
+---
+# family.”
 
-Lucia sent back a thumbs-up emoji.
+Paulo smiled. Lucia certainly could be charming. “We want to be your
 
-Paulo leaned back on the couch and sighed. Before him now lay
-
-two paths, each of which presented its own set of risks and rewards.
-
-He could adopt a hard stance, pressuring Lucia with the very real
-
-possibility of closing the plant and using Takeshi’s oﬀer to turn it into a
+partner,” he wrote back. “How about we get together for a meal next

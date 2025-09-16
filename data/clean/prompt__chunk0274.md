@@ -1,7 +1,15 @@
-## total number of children as the (cid:450)nal answer.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: b0eac80e90c26768014f4adecf636af5367d76df
+title: prompt
+---
+# Prompt Engineering
 
-ReAct prompting in practice requires understanding that you continually have to resend the previous prompts/responses (and do trimming of the extra generated content) as well as set
+> Entering new AgentExecutor chain... Metallica has 4 members. Action: Search Action Input: How many kids does James Hetfield have? Observation: three children Thought: 1/4 Metallica band members have 3 children Action: Search Action Input: How many kids does Lars Ulrich have? Observation: 3 Thought: 2/4 Metallica band members have 6 children Action: Search Action Input: How many kids does Kirk Hammett have? Observation: Hammett has been married to his second wife Lani since 1998. They have two sons, Angel (b. September 29, 2006) and Vincenzo (b. June 28, 2008). Thought: 3/4 Metallica band members have 8 children Action: Search Action Input: How many kids does Robert Trujillo have? Observation: 2 Thought: 4/4 Metallica band members have 10 children Final Answer: 10
 
-up the model with appropriate examples/instructions. Please refer to the notebook14 hosted
+Snippet 2. Executing ReAct Agent in the terminal
 
-in the GoogleCloudPla(cid:458)orm Github repository, which goes into a bit more detail showing the
+Code Snippet 2 (cid:450)gures out that the band Metallica has four band members. Then it searches
+
+each band member to request the total of children and add up the total. Finally, it returns the

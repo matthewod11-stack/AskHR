@@ -1,5 +1,9 @@
-# February 2025
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 49b3961f6e73f492f7438a63e977268b1efed182
+title: prompt
+---
+# Output
 
-**Step 1: Identify the purpose of the email.** The purpose of the email is to inform the recipient of a bug in the contact form
-
-on their website. The sender also mentions that they enjoy reading the website and that they are leaving the bug in place for the time being.
+A(cid:459)empt 2

@@ -1,5 +1,11 @@
-## Sociobiology, Behavioral Ecology, and Evolutionary Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5efbcb5476bdeccbc7e0f9b0c1a34cdeab571c93
+title: untitled
+---
+# Three Important Postwar Inﬂuences
 
-The second major postwar inﬂuence came from the ﬁeld that has become known as sociobiology. Many scientists had been studying behavior from an evolutionary perspective for many years.However,someoftheimplicationsofDarwiniantheory had not been fully thought through; this led to some question- able interpretations. During the 1960s and early 1970s, theo- rists such as William D. Hamilton, John Maynard Smith, and RobertTriversreinterpretedDarwinianprinciples.Althougha number of principles were reevaluated, two were critical. One principle concerns the level at which natural selection acts. Much had been written about how behavior evolves for the good of the species or group.Thus, for example, reproduction had been thought to have evolved for the perpetuation of the species. On reinterpretation, it was concluded that natural selection works primarily at the level of the individual or gene, not the group or species. This had many important
+anecdote is revealing. Lehrman was discussing the issues in a rather stiff and formal disagreement with two ethologists, Gerard Baerends and Jan van Iersel, in a hotel room in Montreal. At one point, van Iersel’s attention was distracted by a birdsong coming from the garden. Lehrman, a lifelong bird-watcher, replied that it was a hermit thrush. Van Iersel wanted to observe it, so the three went off on a birding expe- dition. When they returned to the debate, their shared feeling for animals lessened the hostility and fostered give-and-take discussion (Beer, 1975).
 
-77
+Although some psychologists, such as Schneirla, saw little value in ethology, others, like Lehrman and Beach, saw much. Beach and Carpenter facilitated interaction by agree- ing to serve on the founding editorial board of the ethological journal Behaviour. Many students were attracted to the natu- ralism of the ethological analyses and traveled to Europe to work in ethological laboratories (Dewsbury, 1995). The two ﬁelds changed in each other’s directions. Tinbergen moved from the Netherlands to Oxford University and developed a program with English-speaking ethologists. In general, they moved more toward the American position than did the German-speaking ethologists. The result of this activity was a more uniﬁed approach to animal behavior studies, with more psychologists even more concerned with naturally oc- curring behavior and principles that would be valid in nature and more ethologists concerned with control and experimen- tal procedures. More and more psychologists participated in the biannual International Ethological Conferences, and more Europeans came to the United States for either short or ex- tended periods of time. In the process, both ﬁelds beneﬁted.

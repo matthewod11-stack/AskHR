@@ -1,15 +1,37 @@
-# prioritizing.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce2df33aaa45fda4c52d6f8c0994ee1cc855d020
+title: H07ZZW-PDF-ENG
+---
+# consultants.
 
-Employees should also be invited to contemplate the company’s actual
+Changing the way you determine your priorities — and whom you
 
-leverage over an issue. For example, there might be limits on what
+involve — can correct all three errors. Issues such as sustainability and
 
-an internal diversity program can achieve when the pipeline of job
+diversity are distinct in that at least some employees feel passionately
 
-applicants is heavily skewed to a particular identity group. The same
+about them and yearn for a sense of agency in setting goals and
 
-applies to an organization’s eﬀorts to tackle climate change in the
+enacting change. Students in a recent sustainability class told me that
 
-absence of supportive public policy. Even the new CEO of sustainability
+they focus less on which brands to patronize and lifestyle changes to
 
-poster-child Unilever recently recognized that the company has made
+embrace and more on pushing their employers to take action because
+
+doing so leverages their impact.
+
+Instead of awaiting such organized activity, or ignoring misalignments
+
+between senior leaders and staﬀ, it’s wise to include your employees
+
+when you use a materiality assessment to set environmental and social
+
+priorities. Any credible materiality assessment takes the concerns of
+
+internal and external stakeholders into account. And once you have
+
+listened to the full range of concerns and opinions, the imperative is to
+
+candidly focus on the handful of issues your business is truly capable of

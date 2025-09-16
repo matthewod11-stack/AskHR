@@ -1,17 +1,23 @@
-## emotional support for employees and their families. The company
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 60488fa8909d5761dcf037a859475fcbb6b2a2c0
+title: R2504F-PDF-ENG
+---
+## support to all types of caregivers, both in and outside of work.
 
-has also created an employee resource group to provide a community
+According to Demetris Crum, a vice president at the company who
 
-for caregivers and is working to hone its communications to make
+oversees this eﬀort, the logic behind it is simple and unassailable.
 
-caregiving beneﬁts easier to ﬁnd, understand, and use.
+“Almost everyone will have caregiving responsibilities at some point
 
-The personal impact can be profound. As an AbbVie employee relates,
+in their professional life,” he says. “When their family’s needs are
 
-“I found myself unexpectedly thrust into the role of caregiver. My
+met, employees can perform at their best.” AbbVie’s oﬀerings include
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+support for ﬁnding caregivers and backup care, help navigating elder
 
-9
+healthcare and legal matters, ﬂexible work arrangements, paid and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+unpaid leaves, at-work concierge services, and access to mental and

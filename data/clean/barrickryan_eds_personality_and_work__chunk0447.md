@@ -1,5 +1,13 @@
-## Organizational Research on Affect and Personality
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f06f62bb0cc33a3423b6ee4f87fbffad41dd8127
+title: barrickryan_eds_personality_and_work
+---
+## DISPOSITIONAL INFLUENCES ON AFFECTIVE EXPERIENCES AT WORK 125
 
-Our examination of the existing research in the I/O literature seeks not to review speciﬁc ﬁndings but rather to identify certain key themes in the way the research has been conducted.
+and valleys, and the time span for movement from one state to an- other. Not observable but still present are distinct cycles to affective states, cycles whose frequencies or periods vary from one person to another. Affective experiences are state constructs that vary in di- rection, intensity, subjective experience, and length of time.
 
-To identify the body of I/O research on personality and affect, we conducted a literature search where we entered key search words such as emotions, affect, mood, and speciﬁc emotion words (for
+What kind of construct is personality? Let us ﬁrst say that for this discussion, we will be talking of personality in trait or disposi- tion terms. We recognize that there are personality researchers who ﬁnd this framework limiting (see Pervin, 1994, and accompa- nying commentaries as examples), but it is clear that in the I/O lit- erature generally and in the work affect literature in particular, the trait concept overwhelmingly predominates. So what kind of con- struct is a personality trait? Of most importance for us is that it is an attribute of a person that has no built-in time frame, no “on and off” element. We will not get into the issue of whether it can change or whether it is largely inherited, only that it is distinguished from state variables. State variables, by deﬁnition, come and go. Trait variables, by deﬁnition, do not.
+
+Immediately, we see a disconnect. By asking the general ques- tion of the relationship between affect and personality, we are in- quiring how a state like construct, characterized by its variability, can be explained by a trait construct deﬁned by its stability. This is no small problem. Yet we also believe that solutions are available. However, before we discuss what we think are appropriate so- lutions, it will be useful to provide an overview of the nature of I/O research on dispositions and affect. This will tell us how researchers have dealt with the disconnect and also what they have not done but could do.

@@ -1,15 +1,13 @@
-# progressive disciplinary procedures, evaluation, and hiring and termination process. These
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 14e3f47fa95ccec4bde5915b96d258eddb79878b
+title: california_state_university_northridge_1
+---
+## University Student Union (USU), the Executive Director, Debra L. Hammond had a
 
-four categories listed above if done incorrectly can end up in court. We covered how to
+training session with all persons (students and full time staff) who supervised employees.
 
-correctly document an employee with discipline problems and were asked questions at
+As a student supervisor, the author was in attendance for the training session. The
 
-random. A_s apart of t!iis session, we were given packets of Ln£orn1ation that v .. v1e could
-
-take back to our business unit. Naturally, some of the questions asked received incorrect
-
-answers. This entire session was created to have employees in management act in concert
-
-when addressing these critical personnel issues. Debra also stated her expectations to
-
-everyone, of what she does and does not want to see in documentation regarding
+Personnel Director, Anna and Debra conducted the training session; they went over the

@@ -1,13 +1,11 @@
-# Cornell University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4c26d8ab24c40516d7480a1a6d7c2854015a2c9c
+title: untitled
+---
+# University.
 
-Hare-Mustin, R. T. (1974). Ethical considerations in the use of sex- ual contact in psychotherapy. Psychotherapy, 11, 308–310.
+Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Stud- ies, 14, 575–599.
 
-Hare-Mustin, R. T. (1991). Sex, lies, and headaches: The problem is power. In T. J. Goodrich (Ed.), Women and power: Perspectives for therapy (pp. 63–85). New York: Norton.
-
-Hare-Mustin, R. T., & Marecek, J. (1986). Autonomy and gender: Some questions for therapists. Psychotherapy, 23, 205–212.
-
-Hare-Mustin, R. T., & Marecek, J. (1988). The meaning of differ- ence: Gender theory, postmodernism, and psychology. American Psychologist, 43, 455–464.
-
-Hare-Mustin, R. T., & Marecek, J. (1990). Making a difference: Psy- chology and the construction of gender. New Haven, CT: Yale University Press.
-
-Henley, N. M. (1977). Body politics. Englewood Cliffs, NJ: Prentice
+Harding, S. (1986). The science question in feminism. Ithaca, NY:

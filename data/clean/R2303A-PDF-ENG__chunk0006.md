@@ -1,21 +1,35 @@
-# than 400 people with disabilities.
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ed33e62f3ae6883fd24ca0cca76356812db1530
+title: R2303A-PDF-ENG
+---
+# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
 
-The mission of our business is to put people with disabilities—either
+When we learned that 80% of people with disabilities in the United
 
-congenital or acquired—to work. We’d love to see more entrepreneurs
+States are unemployed, we were determined to make sure that our kids
 
-follow in our footsteps. But we also believe that any organization can
+Bitty and Beau would not become part of that statistic. We thought the
 
-open its doors to people with disabilities—and can regard them as
+solution could be as simple as demonstrating the intrinsic value we saw
 
-a competitive advantage. In fact, all corporate diversity, equity, and
+in their lives and those of others living with disabilities.
 
-inclusion (DEI) strategies should include a commitment to broadening
+Amy’s shower idea? To open a coﬀee shop in our hometown of
 
-the talent pool in this way. We’ve learned through experience how
+Wilmington, North Carolina, that would employ mostly people with
 
-to overcome challenges, get the best from our team members, and
+intellectual and developmental disabilities. What better way to both
 
-capitalize on all the value they provide. Our kids motivated us to make a
+create jobs and bring people together? Within three months we’d hired
 
-diﬀerence. We hope we can do the same for you.
+19 team members and opened the ﬁrst Bitty & Beau’s Coﬀee. Within six
+
+months business was so good that we were able to move to a space 10
+
+times the size of the original one and build our own roastery. Seven
+
+years later we have 17 locations across 11 states and the District of
+
+Columbia—with four more slated to open in 2023—employing more

@@ -1,13 +1,19 @@
-## HBR / Digital Article / The FTC’s Noncompete Ban Was Long Overdue
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f774ebc68fb5a5047e53adaf541f0632e09503da
+title: H087Y6-PDF-ENG
+---
+# market dynamism.
 
-secrets still need to be protected, and taking the right steps to identify
+During this period of uncertainty, businesses should take a page out of the California playbook: Be the best employer possible, use aﬃrmative
 
-and secure this information, training one’s employees on how to protect
+steps to attract and retain the best talent, and take a hard look at
 
-proprietary information, and conducting exit interviews to remind
+what it is that is truly secret in your innovation landscape. Trade
 
-departing employees of their continued duty to not disclose secrets,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-are fundamental practices that companies should adopt. Still, keep in
+6
 
-mind that NDAs and other restrictive covenants cannot be so broad as to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

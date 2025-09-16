@@ -1,11 +1,9 @@
-## Business School and the Digital Data Design Institute shows that AI
+---
+source_path: H08QBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bc72cd5f7550ac8cb1469a597b5c50ffe4b7646
+title: H08QBY-PDF-ENG
+---
+## HBR / Digital Article / Agentic AI Is Already Changing the Workforce
 
-agents are fast becoming much more than just sidekicks for human
-
-workers. They’re becoming digital teammates—an emerging category of
-
-talent. To get the most out of these new teammates, leaders in HR and
-
-procurement will need to start developing an operational playbook for
-
-integrating them into hybrid teams and a workforce strategy. Those who take the time to do so will unlock not just eﬃciency but a more scalable
+This requires a major shift in outlook. Emerging research out of Harvard

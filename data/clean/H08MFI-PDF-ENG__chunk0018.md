@@ -1,11 +1,13 @@
-## business, but they can also permanently diminish one’s willingness to
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 569829ce642a47cc3d21be6644a81fec2d316979
+title: H08MFI-PDF-ENG
+---
+## HBR / Digital Article / When Your Job Breaks Your Heart
 
-take risks. The loss of that “freedom of opportunity” and “going for
+It sounds like this kind of heartbreak can have long-term ripple eﬀects.
 
-it-ness'” represents a hidden cost of professional betrayal — a scaling
+Exactly. The paradox of such betrayals is their double-edged nature.
 
-back of ambition and trust that can limit future possibilities.
-
-There are also times when identity and loss coincide. Professional
-
-heartbreak strikes deepest when our sense of self becomes inseparable
+These experiences can teach valuable lessons about self-protection in

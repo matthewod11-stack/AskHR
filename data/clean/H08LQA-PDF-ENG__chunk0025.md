@@ -1,19 +1,13 @@
-## HBR / The Big Idea / When Employees Take Sabbaticals, Organizations Benefit
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56da7ee23d4acebc1105dee66fef62b4c1799987
+title: H08LQA-PDF-ENG
+---
+# disconnection.
 
-Eligibility. Many employers make the mistake of oﬀering sabbaticals
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-only to people at certain levels — usually management. Adopting
+6
 
-a managers-only approach exacerbates organizational hierarchy,
-
-provokes resentment, and limits beneﬁts such as increased innovation
-
-and reduced burnout to a select few. Don’t fall into that trap — make
-
-your program more widely accessible. Some companies, such as Adobe
-
-and Autodesk, allow employees to bypass their managers — requesting
-
-permission for a sabbatical is as simple as checking a box in an HR tool.
-
-Practices like these send the message that everyone who has devoted
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,7 @@
-# applications. Boston:Allyn & Bacon.
-
-Guthrie, E. R. (1960). The psychology of learning (Rev. ed.). Gloucester, MA: Peter Smith. (Original work published 1935)
-
-Guthrie, R. (1998). Even the rat was white (2nd ed.). Boston:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a27a7df015c4b09b1d6f0b5b169c93b262fa6f28
+title: untitled
+---
+## Gregory,R.J.(1992).Psychologicaltesting:History,principles,and

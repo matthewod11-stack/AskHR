@@ -1,9 +1,37 @@
-# PC
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c12f8bdb07c5ddb3cb29601b9e770c50c2ee2c7
+title: R2504D-PDF-ENG
+---
+# improvement rather than destruction.
 
-Peter T. Coleman is a professor at Teachers College, Columbia University, where he directs the Morton Deutsch International Center for Cooperation and Conﬂict Resolution. His latest book is The Way Out: How to Overcome Toxic Polarization (Columbia University Press, 2021).
+Leaders can help employees adopt this attitude by modeling and
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+celebrating examples of successful conﬂict engagement, sharing stories
 
-18
+of how constructive disagreement led to breakthrough solutions, and recognizing those who have used eﬀective strategies. A recent study
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+by our CIQ-Leadership research team at Columbia found that in
+
+organizations where employees rated their leaders high on CIQ, the
+
+overall culture was more collaborative and less contentious or conﬂict-
+
+avoidant. In other words, the positive behaviors the leaders used to
+
+manage conﬂict were being mirrored by the employees.
+
+Today the question for leaders isn’t whether to build conﬂict
+
+intelligence—it’s how quickly they can begin. In a world where change
+
+is constant and complexity is rising, the ability to manage conﬂict eﬀectively isn’t a nice-to-have skill. It’s becoming a core requirement
+
+for organizational success. Those who master this capability won’t just
+
+survive the storms of conﬂict—they’ll learn to sail by them.
+
+Editor’s note: The print version of this article incorrectly stated the year that Marc Benioff confronted growing divisions at Salesforce around the company’s government contracts. The year was 2018, not 2015. The online version has been updated to reflect this correction.
+
+A version of this article appeared in the July–August 2025 issue of Harvard Business Review.

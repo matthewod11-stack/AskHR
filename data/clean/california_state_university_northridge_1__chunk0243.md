@@ -1,9 +1,13 @@
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: b97c30ccd9dc3e78cc79c304dd5c4154c05e0e40
+title: california_state_university_northridge_1
+---
 # www.searchbank.com.
 
-Joel, J. (1985). Employees' Rights in Plain English. Maryland: National Press
+Frieson, J. (1994). Preventing Employment Lawsuits, An Employer's Guide to Hiring,· Discipline and Discharge. Massachusetts: Bureau ofNationai Affairs, Inc.
 
-Jenner, L. (1994, February). Employee communications: how to effectively use
+86
 
-disclaimers (Employee Handbook). HR Focus, p. 23-25. www.searchbank.com.
-
-Jonathan, R. (1996). Legal changes tighten workplace regulations. The Boston
+Goldberg, C. A (1997, December). Top 8 legal issues affecting HR. HR Focus, p.1-6.

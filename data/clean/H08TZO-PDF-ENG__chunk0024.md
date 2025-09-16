@@ -1,11 +1,23 @@
-## of Americans 65+ take at least one prescription.) Similarly, Caterpillar
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62a6b17d221c3798d5709a9e98d80ecd30beae89
+title: H08TZO-PDF-ENG
+---
+# and even their time.
 
-created a Returning Professionals Development Program to support
+- 3. From career ladders to career landscapes
 
-people restarting or shifting careers. Measures like these can strengthen
+Traditional career models assume people peak in their 40s and retire
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+by 65. But those assumptions no longer hold. Longer lives mean longer
 
-5
+working years, but not necessarily in the same roles or with the same
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+cadence. In 2017, CVS implemented a “Talent Is Ageless” program in
+
+which they actively recruited employees 50 years or older, who are often
+
+in their second or third career, while emphasizing the importance of
+
+hiring people who can relate to their customers. (They note that 90%

@@ -1,25 +1,25 @@
-# (2nd ed.) Reading, MA: Addison-Wesley.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6e66905fe99f21e9ad58d82bc19d3901fc5d6645
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Arthur, W., Bennett, W., Edens, P. S., & Bell, S. T. (2003).
 
-Arvey, R. D., Gordon, M. E., Massengill, D. P., & Mussio, S. J.
+Eﬀ ectiveness of training in organizations: A meta-analysis of design and evaluation features. Journal of Applied Psychology, 88(2), 234–243.
 
-(1975). Diﬀ erential report rates of minority and majority job candidates due to time lags between selection procedures. Personnel Psychology, 28(2), 175–180. Arvey, R. D., McCall, B. P., Bouchard, T. J., Taubman, P., & Cavanaugh, M. A. (1994). Genetic inﬂ uences on job satisfaction and work values. Personality and Individual Diﬀ erences, 17(1), 21–33.
+624
 
-Arvey, R. D., Nutting, S. M., & Landon, T. E. (1992). Validation strategies for physical ability testing in police and ﬁ re settings. Public Personnel Management, 21(3), 301–312. Arvey, R. D., Rotundo, M., Johnson, W., Zhang, Z., & McGue,
+references
 
-M. (2006). Th e determinants of leadership role occupancy: Genetic and personality factors. Leadership Quarterly, 17(1), 1–20.
+Arthur, W., Day, E. A., McNelly, T. L., & Edens, P. S. (2003). A meta-analysis of the criterion-related validity of assessment center dimensions. Personnel Psychology, 56(1), 125–154.
 
-Ash, R. A., & Edgell, S. A. (1975). A note on the readability of the Position Analysis Questionnaire (PAQ). Journal of Applied Psychology, 60, 765–766.
+Arvey, R. D., & Begalla, M. E. (1975). Analyzing the homemaker job using the PAQ. Journal of Applied Psychology, 60, 513–517.
 
-Ash, R. A., Levine, E. L., Higbee, R. H., & Sistrunk, F. (1982). Comparisons of task ratings from subject matter experts versus job incumbents. Paper presented at the annual meeting of the Southeastern Psychological Association, New Orleans, LA.
+Arvey, R. D., Bouchard, T. J., Segal, N. L., & Abraham, L. M. (1989). Job satisfaction: Environmental and genetic components. Journal of Applied Psychology, 74, 187–192.
 
-ASTD (2007). State of the Industry: 2007. Training, 44(10), 8–25. Athey, T. R., & McIntyre, R. M. (1987). Eﬀ ect of rater training on rater accuracy: Levels of processing theory and social facilitation perspectives. Journal of Applied Psychology, 72, 567–572.
+Arvey, R. D., Davis, G. A., McGowen, S. L., & Dipboye, R. L.
 
-Atkinson, W. (1999). Safety-at a price. HR Magazine, 44(12),
+(1982). Potential sources of bias in job analytic processes. Academy of Management Journal, 25, 618–629.
 
-52–59.
-
-Atkinson, W. (2000). When stress won’t go away. HR Magazine,
-
-45(12), 104–110.
-
-Atwater, L. E. (1998). Th e advantages and pitfalls of self- assessment in organizations. In J. W. Smither (Ed.), Performance appraisal: State of the art in practice. San Francisco: Jossey-Bass.
+Arvey, R. D., & Faley, R. H. (1988). Fairness in selecting employees

@@ -1,9 +1,25 @@
-# your positive and negative emotions.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5bbed5f439360d14e381e5fee44ba07ad7b31e72
+title: H07SHV-PDF-ENG
+---
+## The negative emotions of fear and anger and disgust and sadness, these
 
-What happens is eﬀectively that you have four diﬀerent characteristics.
+are evolved to keep you alive. You should be very, very grateful for your
 
-You can be high positive and high negative. You can be low positive and
+negative emotions. But if they’re too intense, they can hurt your quality
 
-low negative. You can be high positive and low negative, and of course
+of life. Your positive emotions of joy and love and interest in things,
 
-you could be high negative and low positive. These are a quarter of the
+again, these are evolved and they’re really good things to have.
+
+The problem is that some people, their happiness levels are too low.
+
+Other people, their unhappiness levels are too high. I have a test that
+
+I administer to my students. I didn’t develop it. It was developed by
+
+psychometricians about 20 years ago. But it’s called a PANAS test, the
+
+positive aﬀect negative aﬀect series, and it separates out the intensity of

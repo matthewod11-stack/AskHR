@@ -1,9 +1,11 @@
-# Institute of Technology.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 9603ff26eef814da4ff1367b35f95f482eeb9bc6
+title: behavioral_economics_1
+---
+## Things." Organizational Behavior and Human Performance 13: 1-16.
 
-Fudenberg, D. and D. Levine (1998). Theory of Learning in Games. Cambridge, MA, MIT Press.
+Frederick, S. (2005). "Cognitive Reflection and Decision Making." J. Economic Perspectives 19(4): 25-42.
 
-Fudenberg, D. and D. Levine (2004). A Dual Self Model of Impulse Control, Harvard.
-
-40
-
-Gabaix, X. and D. Laibson (2006). "Shrouded Attributes, Consumer Myopia, and Information Suppression in
+Fryer, R. and M. Jackson (2004). A Categorical Model of Cognition and Biased Decision-Making, California

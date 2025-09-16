@@ -1,15 +1,13 @@
-## The Georgian Institute of Psychology was founded in Tbilisi.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 79251b118438b571ec82d1747ecb58baacc8bdc9
+title: untitled
+---
+# Publications
 
-The University of Ottawa opened the Institute of Psychology, leading to the establishment of independent psychology departments in Canadian universities.
+The Soviet Government issued a resolution condemning psychology and the use of psychological measurements.
 
-The Nazi government suspended publication, at the close of volume 112, of the Archiv für die gesamte Psychologie since it could no longer be concealed that the printer’s grandmother was Jewish.
+Professor G. Edilian established the ﬁrst Armenian psychology library at Yerevan University.
 
-The American Psychological Association established its Committee on International Planning for Psychology, which later became the Committee on International Relations in Psychology.
-
-The ﬁrst psychology journal of the Arab world, The Journal of Psychology, was published in Egypt.
-
-Guatemala introduced the country’s ﬁrst professional psychology training program.
-
-(continued)
-
-524
+The Netherlands Institute of Psychology was founded at the University of Amsterdam.

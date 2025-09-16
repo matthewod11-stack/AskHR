@@ -1,11 +1,47 @@
-# HBR / Digital Article / How People Analytics Can Help You Change Process, Culture, a…
+---
+source_path: H04AKS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13de804ee3fc5410f63020613a635179231ee4a0
+title: H04AKS-PDF-ENG
+---
+## capacity, time use, networks, skill sets, performance, and mindsets that
 
-As organizations increasingly look to data to help them in their
+can help pinpoint where change is possible and can measure what
 
-transformation efforts, it’s important to remember that this doesn’t
+happens when you try it.
 
-just mean having more data or better charts. It’s about mastering
+One people analytics team at a financial services company was trying to
 
-the organizational muscle of using data to make better decisions; to
+help the CEO manage growth while he worked to instill a new culture in
 
-hypothesize, experiment, measure and adapt. It’s not easy. But through
+which departments would be asked to run leaner and more competitive
+
+in the market – “scrappy” and “hungry” were terms that often came
+
+up. As the transformation accelerated, teams were asked to do more
+
+with less, generate more data, and make decisions faster. Amid this,
+
+department leaders began to hear anecdotes about burnout and change
+
+fatigue and questioned whether the pace was sustainable. To address
+
+this, the people analytics team provided their CEO with a dashboard
+
+showing the number of hours that knowledge workers were active for in
+
+different teams. When an entire team is over-utilized, he knows they
+
+can’t handle more change, while under- or unevenly utilized teams
+
+might be more receptive. He can also slice the dashboard by tenure,
+
+to learn whether recent hires have been effectively onboarded before
+
+approving new hire requests to absorb extra work.
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

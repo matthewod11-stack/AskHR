@@ -1,5 +1,9 @@
-# Press
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 56965dd93106399473e7f5dbebf744f689bb7141
+title: arop1noe_245_275
+---
+## a high-tech firm. J. Leadersh. Organ. Stud. 18:175–91
 
-Lawson B, Petersen KJ, Cousins PD, Handfield RB. 2009. Knowledge sharing in interorganizational product development teams: the effect of formal and informal socialization mechanisms. J. Prod. Innov. Manag. 26:156–72
-
-Lepak DP, Snell SA. 2002. Examining the human resource architecture: the relationships among human
+Lave J, Wenger E. 1991. Situated Learning: Legitimate Peripheral Participation. New York: Cambridge Univ.

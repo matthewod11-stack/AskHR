@@ -1,15 +1,13 @@
-# Self-Appraisal
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b64a13998d07bf66023f96f8eedc507830b8d0a5
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Peers Subordinates Customers
 
-244
+242
 
-Step : Select the Best Appraisal Methods to Accomplish Your Goals Decision 1: Focus of the Appraisal Dimensions 245 Decision 2: Should Dimensions Be Weighted?
+243
 
-
-
-247
-
-Step : Communicate Appraisal Results to Employees  Prior to the Interview During the Interview Career Workshop: Getting Good Performance Ratings
-
-271 271
-
-272
+243

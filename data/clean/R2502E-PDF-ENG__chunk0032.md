@@ -1,13 +1,11 @@
-# Nathalie Lees
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bae88ef2f9339dfbcb78b1624455c44f4cedc77e
+title: R2502E-PDF-ENG
+---
+## your organization. Any of those positions
 
-gain the authority to make decisions that
+will help you become more visible to senior
 
-aﬀect the overall organization, thus
-
-increasing your experience capital.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+executives, build a stronger network, and

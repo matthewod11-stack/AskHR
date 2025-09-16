@@ -1,5 +1,17 @@
-# BA
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da4fced2fd6c48af8329009c51f52456f933fb9f
+title: H08IWB-PDF-ENG
+---
+# HBR / Digital Article / Why Mentoring Programs Fail — and How to Make Them Worthw…
 
-Ben Aﬁa is a consultant, speaker, and author who’s been inspiring change in companies like Aviva, Vodafone, and Google for 30 years. His book, The Human Business: How to Love Your Customers So They Love You Back, explains how to deeply connect your culture and brand to give people the experiences they yearn for.
+adjustments, you can ensure that your mentoring program is not just
 
-Ruth Gotian, EdD, MS, is the chief learning oﬃcer and associate professor of education in anesthesiology at Weill Cornell Medicine in New York City. She is the author of The Financial Times Guide to Mentoring with Andy Lopata and The Success Factor. Discover your potential for high achievement by taking her exclusive High Achiever Optimization Assessment here.
+another initiative but a cornerstone of your strategy to develop and
+
+retain the best talent in today’s competitive market.
+
+This article was originally published online on December 17, 2024.
+
+Andy Lopata is the author and coauthor of six books on networking and professional relationships, including The Financial Times Guide to Mentoring and the host of The Connected Leadership podcast. You can measure your mentoring impact here.

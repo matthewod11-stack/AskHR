@@ -1,7 +1,15 @@
-# cultures most rapidly over time.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fa84760ee39b8c49a4d5bd56c8783a605fe61ad
+title: H07T7V-PDF-ENG
+---
+## humans the only spaceship-building species on the planet? This ﬁeld
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+of cultural evolution to me has come up with the best answer to that
 
-16
+question, which is we are the only species that cooperates intensely with
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+large numbers of people that we’re not related to. We are the species
+
+that learns the quickest, that improves its toolkit, its technologies, its

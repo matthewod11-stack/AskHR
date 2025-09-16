@@ -1,9 +1,9 @@
-# strategy. As with corporate strategy, it
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: ecbd706fb0d990012efa4218f2605066758ac950
+title: H07XDL-PDF-ENG (1)
+---
+# Download the PDF.
 
-needs to be reviewed, adjusted, and
-
-updated on a regular basis. Proprietary
-
-data from BCG suggests that 50% of
-
-companies review their strategy once a
+This page is your ﬁrst minimum viable life

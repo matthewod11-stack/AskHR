@@ -1,33 +1,9 @@
-# Ibid.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 66464f61dc55d8f806f9cdd11f1f930379e25dc5
+title: document_resume
+---
+# Ibid, p. 74
 
-32.
-
-Stano, op. cit., pp. 131-142.
-
-- 33. Goodali, Wilson, and Waagen, op cu., pp. 74-87, and Laird and Clampitt,
-
-op. cit., pp. 131-142.
-
-34.
-
-Stano, op cit., pp 131-142, and Goodall, Wilson, and Waagen, op. ca.., pp.
-
-74-87.
-
-- 35. Goodall, Wilson, and Waagen, op. cit., pp. 74-87.
-
-36.
-
-Stano, op. cit., pp. 131-142.
-
-- 37. Goodall, Wilson, and Waagen, op. ca., pp. 74-87.
-
-- 38. Bellman, op
-
-pp. 35-38.
-
-39.
-
-Stano, op. cit., pp. 131-142.
-
-40.
+3I.

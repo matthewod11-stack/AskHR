@@ -1,9 +1,17 @@
-## [14 pamphlets]. Hartford, CT: Finlay Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8b65292fe7417639eab1eb5342e4784b38e30651
+title: untitled
+---
+## zational psychology. Chicago: Rand McNally.
 
-Finch, F. H., & Odoroff, M. E. (1939). Employment trends in applied psychology. Journal of Consulting Psychology, 3, 118– 122.
+Dunnette, M. D. (1990). Blending the science and practice of indus- trial and organizational psychology: Where are we and where are we going. In M. D. Dunnette & L. M. Hough (Eds.), Hand- book of industrial and organizational psychology (2nd ed., Vol. 1, pp. 492–576). Palo Alto, CA: Consulting Psychologists Press.
 
-Flanagan, J. C. (Ed.). (1947–1949). The aviation psychology program in the Army Air Forces (Vols. 1–19). Washington, DC: U.S. Government Printing Ofﬁce.
+Dunnette, M. D. (1998). Emerging trends and vexing issues in industrial and organizational psychology. Applied psychology: An international review, 47(2), 129–153.
 
-Fox, H. R. (2000). First executive order of the 21st century ad- dressed employment discrimination. Industrial-Organizational Psychologist, 37(4), 167–168.
+Dunnette, M. D., & Hough, L. (Eds.). (1990–1992). Handbook of industrial and organizational psychology (2nd ed., Vols. 1–3). Palo Alto, CA: Consulting Psychologists Press.
 
-Fryer, D. H., & Henry, E. R. (Eds.). (1950). Handbook of applied
+Farr, J. L., & Tesluk, P. E. (1997). Bruce V. Moore: First president of Division 14. Journal of Applied Psychology, 82(4), 478–485.
+
+Ferguson, L. W. (1962–1965). The heritage of industrial psychology

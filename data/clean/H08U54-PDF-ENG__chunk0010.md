@@ -1,9 +1,13 @@
-# me as a person?
+---
+source_path: H08U54-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f91f99b99aed58b281998ae1e39843b2771aef4e
+title: H08U54-PDF-ENG
+---
+# like:
 
-- Do they make vague promises about helping in the future, but never
+- When was the last time this person engaged without an ask?
 
-seem to get around to it?
+- Do I feel drained or diminished after interacting with them?
 
-Cutting oﬀ favors to these individuals—and maybe even limiting
-
-contact overall—isn’t being selﬁsh, but is instead a way to protect your
+- Do they seem more interested in my resources or connections than in

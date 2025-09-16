@@ -1,3 +1,13 @@
-# 31
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: c52fea1b96c9b24bf3354406468ec6fdcc287be2
+title: file_1
+---
+## 3.1. Survey technique and quantitative method
 
-I intend to generalize my findings and promote gender social change to the general public, I consider quantitative methods to be applicable for this thesis.
+A methodology is a theory of how research is done or should be carried out (Harding, 1987). It responds to ontological and epistemological assumptions of the research. A method is a technique for gathering evidence (Harding, 1987). In terms of methodology, a positivist approach is employed in this thesis. In terms of method, survey technique, and quantitative research analysis are applied in this thesis.
+
+Some scholars consider that by applying quantitative methods, researchers count people as numbers and neglect contextualized lives in which they live (e.g., Marecek, Fine and Kidder, 1997). However, in my opinion, quantitative method may provide an opportunity to conduct the research in a convincing and influential manner for both gender and nongender researchers as well as to communicate gender related issues to the general audience in a simple, easily comprehensive way. In addition, this thesis aims at exploring whether and to what extent gender inequality and the gender pay gap are perceived by Finnish individuals and employees to exist. Previous Gender Equality Barometers (Melkas, 1999, 2002, 2005) have shown that the Finnish women perceive gender inequality more than men. I aim at enlarging these results by studying magnitude/extent to which women, in general, and female employees, in particular, perceive gender inequality in comparison with men in general and male and female employees in particular. This may result in some additional policy recommendation directing towards advancement of male and female employees.
+
+One of the objectives of the thesis is to identify factors associated with the way individuals and employees perceive gender inequality and the gender pay gap. Quantitative methods are known to be helpful in measuring the experiences and perceptions of large numbers of individuals (Miner-Rubino and Jayaratne, 2007). These methods are helpful in identifying relationships that may be difficult to find when using other research methods. Further, since

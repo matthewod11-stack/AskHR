@@ -1,13 +1,15 @@
-# viable and sustainable.
+---
+source_path: H07AXI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7aedbeeb96c60b7928ddee3b0f014c8e8ecd45d
+title: H07AXI-PDF-ENG
+---
+# Aleksandr Zubkov/Getty Images
 
-As an employee of LinkedIn and consultant at NBBJ, respectively, we’re
+We’re now in the next chapter of the great pandemic-instigated work
 
-always trying to better understand workplace trends and support both
+experiment. According to Gallup, more than half of people who can
 
-our employees and our user base in navigating them. Most recently,
+work remotely expect or prefer to do so at least part of the time from
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+now on. For their organizations the goal is clear: Make hybrid work more

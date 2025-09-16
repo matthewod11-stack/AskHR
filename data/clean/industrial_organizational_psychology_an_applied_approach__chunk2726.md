@@ -1,11 +1,13 @@
-# Media Resources and Learning Tools
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6530f17a0f8c47a1893151b774bbfa14711d669e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Questions for Review
 
-7
+. Why do people hate to communicate bad news? . When is email an inappropriate method of communication? . What is the best way to stop a rumor? . Which is most important: nonverbal cues, paralanguage, or the actual words
 
-7
+chosen to communicate? Why?
 
-cengage.com/ psychology/aamodt, where you Visit our website. Go to www. will find online resources directly linked to your book, including chapter-by- chapter quizzing, flashcards, crossword puzzles, application activities, and more. Want more practice applying industrial/organizational psychology? Check out the I/O Applications Workbook. This workbook (keyed to your textbook) offers engaging, high-interest activities to help you reinforce the important concepts presented in the text.
-
-organizational communication
-
-435
+. Can people be taught to be effective listeners? Explain your answer.

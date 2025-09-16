@@ -1,19 +1,17 @@
-# Work at Home
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ba28cdce5e893e1bae61a8cd4f62f97e3bf68952
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Job Sharing
 
-Some employees set their own work schedules by working at home rather than at the workplace. Although working at home has recently received increased atten- tion, it is certainly not a new concept. For more than a century, women have sewn garments at home and then sold them to factories for piece-rate prices. Today, with the increase in computers, other types of work can also be done in the home. Many types of home work are completed with little or no contact with a central office or factory. With telecommuting, however, an employee uses a computer to electronically interact with a central office. Other terms commonly used for telecommuting are telework and mobile working. Telecommuting is ideal for such tasks as computer programming, data entry, and telemarketing. Though there are many estimates of the frequency of telecommuting, in the United States, one sur- vey found that % of organizations offer some form of telecommuting (SHRM, a). This relatively high percentage is not surprising as a meta-analysis on telecommuting found that telecommuters have less work–family conflict, better relationships with their supervisor, higher job satisfaction, less role stress, lower intention to turnover, and higher performance levels than their nontelecommut- ing colleagues (Gajendran & Harrison, ).
+Job sharing is offered by % of organizations (Burke, a) and involves two employees who share their work hours. Rather than one person working  hours each week, two employees combine their hours so that they total . At first glance, job sharing may seem to be little more than part-time work. There are, however, big psychological, if not administrative, differences.
 
-An increasingly popular concept in telecommuting is the neighborhood “telebusiness center.” At these centers, employees from a variety of organizations share office space close to their homes but are connected electronically to their respective organizations.
+First, part-time work usually involves lower-level jobs such as those found in the retail and restaurant industries. But job sharing allows people in such com- plex occupations as teaching and accounting to enjoy the advantages of fewer work hours.
 
-Working at home has many advantages for both the employee and the employer. For the employee, it offers the opportunity to avoid or minimize child- care and commuting costs, while allowing flexibility and comfort in working con- ditions. For the employer, money is saved on both office space and utilities.
+Second, with part-time work, the performance of one employee rarely affects the performance of another. That is, the work completed by two part-time employees results from two separate jobs. But with job sharing, the work may be done by two different employees who share one job title and one position. Poor-quality work by one employee must be corrected by the other.
 
-But with the advantages come certain disadvantages, which is why most unions oppose home work (Brennan, ). First, it is difficult for a union to organize workers when they are scattered around many locations. Second, it is difficult for the government to enforce safety and fair treatment standards when
+From a psychological standpoint, the main difference between job sharing and part-time employment is the level of employee commitment, both to the organization and to the other employee. Job-sharing programs are targeted at employees who have family responsibilities. Thus, an organization can attract a highly qualified employee who would not be able to work full time.
 
-organization development
-
-547
-
-548
-
-chapter 
-
-employees are not in a central location. Third, employees cannot be easily super- vised when they work at home. Finally, it becomes difficult to disassociate work from home life. Unfortunately, the actual evaluation of the merits of telecommut- ing will have to wait until more research has been conducted. Until then, work- ing at home sounds like a promising idea when used with controls and checks to ensure employee safety and fair treatment.
+Furthermore, an increasing trend is for husbands and wives in similar pro- fessions to share the same position. One such situation recently occurred with a high school teaching position: The wife teaches three morning classes while her husband takes care of their two children; the husband then teaches three after- noon classes while his wife cares for their children.

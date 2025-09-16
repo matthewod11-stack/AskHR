@@ -1,3 +1,13 @@
-# And the wins continue to spread across Marketing, Risk Management, Operations, and beyond. All because they got AI in the hands of the people who know how to apply it in their own disciplines.
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: 3b8f0ee0ee83adc9d0b2689e980831de9b813787
+title: a_i_i_n_t_h_e
+---
+# The Customer Service team
 
-We consider our investment in ChatGPT an investment in our people. AI ampli#es our potential and helps us be more e(cid:29)cient and creative.
+Automates the sentiment analysis of NPS surveys.
+
+16
+
+AI in the Enterprise

@@ -1,11 +1,23 @@
-## false dichotomy of merit and inclusion harms both individuals and
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fde6e7049865ffaf3a608697e7dfd4a9ab542295
+title: H08MZQ-PDF-ENG
+---
+## ideal promising that talent and eﬀort determine success.
 
-organizations. When cultures overemphasize merit without inclusion,
+Today, meritocratic framing, regardless of the intention, often serves to
 
-systemic barriers are ignored and privilege is mistaken for talent.
+justify inequality and unfair barriers while perpetuating the myth that
 
-Conversely, tokenistic inclusion practices breed cynicism; when people
+opportunities to obtain success are evenly distributed. In reality, there
 
-perceive inclusion as a lowering of standards, it delegitimizes the need
+are drastic diﬀerences in opportunities based on the circumstances
 
-for true inclusion—supporting everyone in maximizing their talent.
+of one’s birth. Perceptions of merit are frequently shaped by biases
+
+and social capital rather than objective performance, and marginalized
+
+people are often judged more harshly for mistakes others get away with.
+
+To get closer to fairness, we need both merit and inclusion. The

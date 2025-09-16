@@ -1,15 +1,13 @@
-## eﬀects, intellectual property, brand reputation, or other strengths that
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85bf25092997cb23faee4cbb1d4c8b49cba77377
+title: H082HH-PDF-ENG
+---
+# Define Your Unique Advantages
 
-distinguish your business, add value to your products, and give you a
+The second strategy question that should be central to any corporate
 
-competitive edge. Disney, for example, has a unique advantage from
+innovation eﬀort is: What unique advantages does our business hold
 
-its iconic stories and characters, which it exploits in various business
-
-models — from ﬁlm to streaming, theme parks, and merchandise.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+over competitors? These could be physical assets, data, network

@@ -1,17 +1,19 @@
-# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a27a0e870fe1a3c2222a02306b60f045cd412931
+title: H06SBB-PDF-ENG
+---
+# culture?
 
-is we thought about how do we bring everybody together in the ways
+I think about some of the things that we’ve done to hold culture alive
 
-we used to, right? So we used to be able to walk through our space and
+when in-person became immediately unavailable. One of the things we
 
-see the work that everyone was doing. So we ended up creating this
+did when we went into shelter-in-place across many of our IDEO offices
 
-event we called the Frenzy, which was four-days-long event, basically
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-24-hours-a-day rolling across multiple time zones, because we’re all
+11
 
-around the world, where people were sharing content, where we had
-
-times where people came together, times where people could sign up for
-
-stuff. So people were sharing, teaching each other things through this
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

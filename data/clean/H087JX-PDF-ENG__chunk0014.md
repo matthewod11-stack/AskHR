@@ -1,23 +1,39 @@
-## and inconvenience. Lengthy rush-hour commutes and disruptions to
+---
+source_path: H087JX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdd94eaf106c66985ba5dbc173247b1586a2d8a8
+title: H087JX-PDF-ENG
+---
+# HBR / Digital Article / When Someone You Manage Isn’t Following the Return-to-Offic…
 
-school pickups are common complaints. In this case, explore options
+Show compassion. The tension over returning to the oﬃce might seem
 
-like adjusting your team’s start and end times to give them a window of
+as if it’s about location, but it’s actually about autonomy, says Kulik.
 
-overlap with each other. Some team members could come in early and beat the traﬃc, while others could come in later after the school run,
+“The pandemic was the ﬁrst time workers had a say in creating their
 
-says Markman. “Think about what might make people’s lives easier and
+own routines, and it oﬀered them a taste of autonomy,” she says. Your
 
-better while still fulﬁlling the mission of the policy.”
+employees’ reluctance to relinquish that is understandable: “They’re
 
-While the RTO mandate may limit some of the ﬂexibility that employees
+not voluntarily walking back into the cage.”
 
-have come to value, managers may still have the ability to provide
+Ask your resistant team members about their concerns and the diﬃculties they face coming into the oﬃce. Listen attentively,
 
-ﬂexibility to their team members in meaningful ways. “If one of your
+empathize, and oﬀer support. Markman warns against inadvertently
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+adding to team members’ complaints or fostering negativity, as it could
 
-3
+undermine the policy and fuel resentment. “You can show empathy for
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the situation, while still focusing on the advantages of the policy for
+
+both the organization and individuals,” he says.
+
+Be collaborative — and look for creative solutions. One of the most
+
+powerful things a manager can do amid this transition is to ask people
+
+what they need and be responsive to that, says Markman. “Say, ‘I know it’s a change. I know it’s diﬃcult. What would help?’”
+
+Some of the biggest challenges associated with RTO include money

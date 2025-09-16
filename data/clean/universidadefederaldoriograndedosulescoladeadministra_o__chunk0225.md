@@ -1,9 +1,19 @@
-## De forma objetiva, Reichheld e Markey (2018) colocam que a pergunta
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: a9974d7d3a9641230ea479ec2ad5d554682b9a6f
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## de implementação das pesquisas de satisfação o insucesso de mensuração de
 
-costuma ser variável na escolha das palavras empregadas, mas sempre
+sentimento do consumidor. Como solução, propõem o direcionamento dos esforços
 
-corresponde a uma aproximação a "De 0 a 10, quanto você recomendaria a
+de marketing a delimitar em uma única pergunta que permita calcular o que chama
 
-empresa/produto/serviço para um amigo?". A fim de permitir aprofundamento no
+de lealdade à marca. Sendo assim, para Reichheld e Markey (2018), “Essas regras
 
-feedback gerado, uma segunda pergunta pode ser feita. Esta seria aberta e
+lhe permitirão calcular o nível de promoção que seu cliente faz de você de maneira
+
+precisa, rápida e confiável".
+
+22

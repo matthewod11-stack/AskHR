@@ -1,5 +1,7 @@
-# Part II • System Implementation
-
-When the same dimension is evaluated across sources, we should not necessarily expect ratings to be similar.34 Different sources disagreeing about an employee’s performance is not necessarily a problem. For example, self-ratings of salespeople do not necessarily agree with the ratings given by their direct supervisor, which may indi- cate misunderstandings regarding the nature of performance.35 Also, those rating the same employee may be drawn from different organizational levels, and they probably observe different facets of the employee’s performance, even if they are evaluating the same general competency (e.g., “communication” or “sales behavior”). In fact, the behavioral indicators for the same competency may vary across sources. For example, an employee may be able to communicate very well with his superior but not very well with his subordinates. The important issue to take into account is that, for each source, the behaviors and results to be rated must be defined clearly so that biases are minimized. In terms of feedback, however, there is no need to come up with one overall conclusion regarding the employee’s performance. On the contrary, it is impor- tant that the employee receive information on how her performance was rated by each of the sources used. This is the crux of what are called 360-degree feedback systems, which are discussed in more detail in Chapter 8. When feedback is broken down by source, the employee can place particular attention and effort on the interactions involving the source that has detected performance deficiencies.
-
-If disagreements are found, a decision must be made regarding the relative impor- tance of the rating provided by each source. For example, is it equally important to please external and internal customers? Is communication an equally important competency regarding subordinates and peers? Answering these questions can lead to assigning differential weights to the scores provided by the different sources in computing the over- all performance score used for administrative purposes.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 3e14d7849d860befca1686c2d09c4acdc6f02abe
+title: performance_management_3rd_edition_by_aguinis
+---
+# 150

@@ -1,1 +1,7 @@
-# Coefficients
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: efa601d792346c6d7d6a16db6b9975160a8d1bce
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# Unstandardized

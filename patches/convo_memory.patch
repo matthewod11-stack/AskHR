@@ -1,0 +1,82 @@
+diff --git a/app/main.py b/app/main.py
+--- a/app/main.py
++++ b/app/main.py
+@@ -1,9 +1,10 @@
+-import os, json, httpx, pathlib
++import os, json, httpx, pathlib
+ from urllib.parse import quote
+ from dotenv import load_dotenv
+ from fastapi import FastAPI, HTTPException, Query
+ from fastapi.middleware.cors import CORSMiddleware
+ from fastapi.responses import FileResponse, StreamingResponse, JSONResponse
+ from reportlab.lib.pagesizes import LETTER
+ from reportlab.pdfgen import canvas
+ import io
++from collections import deque
+ 
+ from app.schemas import SearchRequest, SearchResponse, SearchHit, AskRequest, AskResponse
+ from app.retriever import search_chunks
+@@ -19,6 +20,20 @@
+ ROOT = pathlib.Path(__file__).resolve().parents[1]
+ DISPLAY_MAP_PATH = ROOT / "data" / "display_names.json"
+ DATA_RAW = os.getenv("DATA_RAW", str(ROOT / "data" / "raw"))
+ DATA_CLEAN = os.getenv("DATA_CLEAN", str(ROOT / "data" / "clean"))
+ 
++# ---------- conversation memory (minimal) ----------
++_dialog = deque(maxlen=6)  # last 3 Q/A pairs (Q,A,Q,A,...)
++def rewrite(question: str) -> str:
++    """
++    Minimal query rewrite: include the last QA context as a hint so the retriever
++    and the model have continuity. This is deliberately light-weight and local.
++    """
++    if len(_dialog) < 2:
++        return question
++    last_a = _dialog[-1]
++    last_q = _dialog[-2] if len(_dialog) >= 2 else None
++    if last_q and last_a:
++        return (f"{question}\n\n(Previous Q: {last_q[:300]})\n(Previous A summary: {last_a[:500]})")
++    return question
++
+ # ---------- helpers for citations ----------
+ def display_name_for(source_path: str) -> str | None:
+     try:
+         mp = json.loads(DISPLAY_MAP_PATH.read_text(encoding="utf-8"))
+@@ -70,10 +85,11 @@
+     }
+ 
+ @app.post("/v1/ask", response_model=AskResponse)
+ async def ask(payload: AskRequest) -> AskResponse:
+-    hits = search_chunks(payload.query, payload.k)
++    q = rewrite(payload.query)
++    hits = search_chunks(q, payload.k)
+     if not hits:
+         return AskResponse(answer="I didn’t find relevant context.", citations=[])
+     system_prompt = payload.system or build_system_prompt()
+-    user_prompt = build_user_prompt(payload.query, hits, grounded_only=payload.grounded_only)
++    user_prompt = build_user_prompt(q, hits, grounded_only=payload.grounded_only)
+     messages=[{"role":"system","content":system_prompt},{"role":"user","content":user_prompt}]
+     data={"model": (payload.model or LLM_MODEL), "messages": messages, "stream": True}
+     answer=[]
+     try:
+@@ -100,7 +116,17 @@
+     except Exception:
+         raise HTTPException(status_code=502, detail="LLM backend unavailable")
+-    citations=[h["meta"].get("source_path","") for h in hits]
+-    return AskResponse(answer="".join(answer), citations=citations)
++    final_answer = "".join(answer)
++    citations=[h["meta"].get("source_path","") for h in hits]
++    # update simple dialog memory (store the raw user Q and the final answer)
++    try:
++        _dialog.append(payload.query)
++        _dialog.append(final_answer)
++    except Exception:
++        pass
++    return AskResponse(answer=final_answer, citations=citations)
+ 
+     # Uncomment below for non-streaming fallback:
+     # data = {"model": (payload.model or LLM_MODEL), "messages": messages}
+     # async with httpx.AsyncClient(timeout=120) as client:
+     #     resp = await client.post(f"{OLLAMA_URL}/api/chat", json=data)
+     #     resp.raise_for_status()
+     #     result = resp.json()
+     #     answer = result.get("message", {}).get("content", "")

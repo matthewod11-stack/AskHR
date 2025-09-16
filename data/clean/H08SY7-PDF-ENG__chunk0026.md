@@ -1,13 +1,17 @@
-## HBR / Digital Article / How CEOs Hone and Harness Their Intuition
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58f1cc00458edaff637bbb6d80ddd16c34438219
+title: H08SY7-PDF-ENG
+---
+# your own internal signal library.
 
-uncertainty,” or “I’ve reached clarity.” Naming where you are in the
+- 3. Name the process. Label the stage you’re in: “I’m gathering
 
-intuiting process increases your awareness and reduces impulsivity.
+information,” “I’m interpreting signals,” “I’m sitting with
 
-- 4. Surround yourself with sense-makers. Create a trusted circle of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-colleagues or advisors who challenge your assumptions—not to give
+5
 
-you answers, but to help you hear your own intuition more clearly.
-
-Often, the best “gut checks” come from people who ask better
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

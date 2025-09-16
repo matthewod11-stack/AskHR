@@ -1,25 +1,15 @@
-## HBR / Digital Article / We Need Trauma-Informed Workplaces
+---
+source_path: H06YRB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f34f1c692b78104b4ed70bae5ea3148481c5d551
+title: H06YRB-PDF-ENG
+---
+## because in times of trauma, the twin concepts of institutional betrayal
 
-When we are in a period of crisis, many of us look to our institutions
+and psychological safety come into play.
 
-to support and protect us. If they fail to do so, or if they take steps that
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-we fear will harm us or those we care about, that can create a second
+2
 
-injury, called an institutional betrayal. The term “institutional betrayal”
-
-was first coined by psychologist Jennifer Freyd, who describes it as
-
-occurring when an institution you trust or depend upon mistreats you.
-
-It can arise due to deliberate actions that harm, as well as from failing to
-
-act when action is expected. These actions or inactions can exacerbate
-
-already-difficult circumstances. Institutional betrayal may arise due to
-
-an organization’s large-scale actions, like a Covid response that leaves
-
-many workers feeling vulnerable and trapped, or the actions of an
-
-individual, like a manager’s belittling response to a claim of harassment
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

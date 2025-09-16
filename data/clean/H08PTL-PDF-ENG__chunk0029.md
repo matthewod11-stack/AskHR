@@ -1,11 +1,25 @@
-# HBR / Digital Article / AI Is Great at Routine Tasks. Here’s Why Boards Should Resist U…
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd9f896b22cce079a2d5b6bb240a95f82b3686b1
+title: H08PTL-PDF-ENG
+---
+## exert inﬂuence—and therefore not good candidates for automation
 
-well as local knowledge derived through experience. A CFO must
+with AI. For example, deﬁning the company’s long-term mission
 
-manage the company’s reputation while having tough conversations—
+and vision requires deep understanding of market trends, social
 
-like explaining a disappointing earnings report as part of a broader
+values, and motivations of key stakeholders. An executive in charge
 
-turnaround story—that are best delivered in an authentic, personalized
+of local operations may have to persuade local leaders, build trust,
 
-way. A CEO often must decide on whether to speak out on a
+and respond to social cues. This requires in-person interactions and
+
+personalized communications with local leaders to build trust, as
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

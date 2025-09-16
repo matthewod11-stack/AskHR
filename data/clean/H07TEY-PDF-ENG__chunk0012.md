@@ -1,17 +1,29 @@
-# ﬁrms.
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e725b51afccf061c82259e507ca3c2a573334b0a
+title: H07TEY-PDF-ENG
+---
+## HBR / Digital Article / Why Your Organization Should Use Salary Benchmarking
 
-Here’s what we found: let’s say that a ﬁrm sets the “right” salary when
+form of salary benchmarks. Clients can then search for any job title they
 
-they choose a salary that is in a narrow (5%) band of the median salary
+want in a user-friendly way. It is one of the most advanced benchmark
 
-for the same position, industry, and state. Prior to gaining access to
+tools and is being used by many prominent ﬁrms.
 
-the benchmarking tool, there was an 11.6% probability that a ﬁrm sets
+Our data covers the roll-out of the tool when it was ﬁrst introduced to
 
-the “right” salary. After gaining access to the benchmarking tool, the
+the market, late 2015, through the start of the pandemic in 2020. Our
 
-probability of setting the “right” salary increased two-fold, to 22.1%.
+sample includes 584 “treatment” ﬁrms that gained access to the tool
 
-This is compelling evidence that these salary benchmarks are truly
+and 1,431 “control” ﬁrms that did not gain access to the tool but were
 
-inﬂuencing pay-setting, and causing position-level salaries to converge
+selected because they shared similar characteristics to the treatment
+
+ﬁrms. We studied the evolution of salaries in the treatment ﬁrms shortly
+
+before and after they gained access to the benchmarking tool, and we
+
+compared that to the corresponding evolution of salaries in the control

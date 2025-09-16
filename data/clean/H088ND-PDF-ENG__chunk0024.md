@@ -1,17 +1,21 @@
-# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fa1c8cf35dece2e3590a1eadd0a784ae95f6774
+title: H088ND-PDF-ENG
+---
+## over half of the world’s population, such a viewpoint not only
 
-These underlying aspects of culture are the crucial “diﬀerences that
+diminishes the vast diversity of this group, but also exposes a critical
 
-make a diﬀerence” to individual and team performance. Since they
+gap in cultural understanding. Asian communication styles are not
 
-are subconscious and deeply embedded, we frequently struggle to fully
+deﬁcient, but simply diﬀerent. They tend to be more nuanced and
 
-understand their inﬂuence.
+layered compared to the direct approaches favored in Western contexts.
 
-But understand them we must, since a key factor in whether diversity
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-improves performance is whether leaders eﬀectively harness cultural
+5
 
-diﬀerences. Research has shown that multicultural teams perform
-
-better and unlock more creativity when their diﬀerences are understood
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

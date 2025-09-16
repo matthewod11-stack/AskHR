@@ -1,13 +1,19 @@
-## HBR / Magazine Article / When Diversity Meets Feedback
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ac56c63f6bbe8ad5434b2df52deeef3093c7c23
+title: R2305F-PDF-ENG
+---
+# subordinate.
 
-these “latchkey kids” learned to get along without an authority ﬁgure.
+Each generation has its own ideas about who should give feedback to whom and how much praise versus criticism should be articulated.
 
-Do-it-yourselfers, they relied on notes from Mom explaining how to
+Gen Xers (in their forties to mid ﬁfties) grew up with rising divorce
 
-cook pasta. They tend to be considerably less formal than their Boomer
+rates and two-income families. Left to fend for themselves at home,
 
-colleagues and don’t want to wait all year to know how they’re doing.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-They are the ﬁrst generation to begin giving upward feedback to the
+15
 
-boss. And according to Lancaster, they’re more likely to want feedback
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

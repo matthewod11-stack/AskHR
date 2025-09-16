@@ -1,7 +1,13 @@
-## startled side conversations, and a poor meeting result.
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0029d46bbd79f66bf46fb5d215850864bb49f8c4
+title: H08UYL-PDF-ENG
+---
+# approach.
 
-We’ve also seen C-level leaders in startups, where the environment
+We saw one ﬁrst-time CEO at a large, facilitated gathering of senior leaders take the whole meeting oﬀ track. The CEO wasn’t happy with the
 
-is more casual, have had a hard time keeping signiﬁcant structural
+focus of the conversation and in the middle of the meeting insisted on
 
-changes such as reductions in force or reorgs to themselves, resulting
+a complete change of direction. The result? Awkward confusion, a lot of

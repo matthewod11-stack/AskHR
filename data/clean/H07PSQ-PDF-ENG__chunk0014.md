@@ -1,25 +1,37 @@
-## HBR / Digital Article / How to Manage an Employee Who Always Makes Excuses
+---
+source_path: H07PSQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de2141e154fbc18f6ba3a6ab2c124cfe1b5f64c1
+title: H07PSQ-PDF-ENG
+---
+# Align on the Optimal Approach
 
-Then you can provide any required course corrections with questions
+A second major reason an employee might be making excuses for poor
 
-that direct their attention, such as, “What steps will you take to ensure
+performance is that they don’t have the skills or knowledge to do what
 
-ﬁnance is on board?” Answering these questions will remove the excuse
+you ask. If your trepidation is tied to gaps in the person’s capability,
 
-that they didn’t know how to tackle the project.
+your process must go beyond what they need to achieve and explore
 
-Another possibility is that you’re worried not about their technical but
+how they’ll achieve it. Depending on your speciﬁc concerns, there are a
 
-their people skills. If you’re nervous that they’ll botch the stakeholder
+few ways to broach this.
 
-relationships, make the interpersonal issues as salient as the technical
+When you suspect that the person might take shortcuts or neglect
 
-ones. Work together to map the key stakeholders, their stake in the
+essential components, get into some detail about the required steps.
 
-project, and any idiosyncrasies you might know. Who has sway over
+Share eﬀective approaches and provide precedents from previous
 
-the decision? What are they looking for? What inﬂuences them? And
+projects. But don’t make the mistake of doing all the talking; their
 
-beyond the decision makers and inﬂuencers, encourage the person
+nodding head cannot be interpreted as understanding. Instead, ﬁnd out
 
-to think about other people with valuable perspectives they need to include. Answer these questions to avoid excuses about insuﬃcient
+how they’re processing the request by asking them to share their plan.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

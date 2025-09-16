@@ -1,13 +1,13 @@
-# failures?
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a88c634800d3ebffa8b46e8d5885e9b93c98a058
+title: H07QOV-PDF-ENG
+---
+## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
 
-Another way to say that is: What’s the right frequency of
+I think the best way to answer the measurement question is, let’s make
 
-experimentation? How often should we be trying new things to push the envelope, to discover new possibilities, even to discover eﬃciencies?
+sure the criteria are adhered to. And then, let’s think about what the
 
-And are we doing that often enough? The answer is usually no, because
-
-most of us would rather succeed than fail, and most of us would rather
-
-keep doing what we’re doing because we’re kind of good at it.
-
-ADI IGNATIUS:
+right frequency is, given the work we’re trying to do, of intelligent

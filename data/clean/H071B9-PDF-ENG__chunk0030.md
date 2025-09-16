@@ -1,7 +1,11 @@
-# benevolent, and trustworthy.
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 285f8d219e073871899e367958cdb11c182f3ae5
+title: H071B9-PDF-ENG
+---
+# look like in practice:
 
-- 2. Individuals representing the old norm who are not experts in the area
+- 1. New individuals hold back information, challenging questions, and
 
-of transformation hold back questions and hide ignorance and
-
-knowledge gaps because they’re afraid to appear less competent and
+out-of-the-box ideas in order to establish themselves as competent,

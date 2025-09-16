@@ -1,5 +1,17 @@
-## platforms and beneﬁts, communications, feedback, and integration
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8f83b9097adcc216b8655566365875a7504d0cf
+title: H0832B-PDF-ENG
+---
+# opportunities, or exclusive perks.
 
-with the employee life cycle. These dimensions can help them start
+While corporate alumni programs are becoming increasingly important
 
-or evaluate the current status of their program and guide the strategic
+for organizations, they are still relatively new to most companies,
+
+prompting questions about how to manage relationships with alumni
+
+and build a strong alumni network. To provide direction, I recommend
+
+that leaders consider ﬁve dimensions of alumni programs: investments,

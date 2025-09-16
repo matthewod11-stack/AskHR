@@ -1,17 +1,25 @@
-# extent possible.
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8c324e131fd7089f55967363042331c2c02afa1
+title: H05W7P-PDF-ENG
+---
+## Demonstrate commitment to accountability from the top.
 
-Invest in neutral resources to support victims of harassment and discrimination.
+To build buy-in for any new reporting processes or tools, company
 
-One option is bringing in external resources through a private therapist
+leaders must build trust through their words and actions from the start.
 
-or Employee Assistance Program (EAP). By giving employees explicit
+You can do this by not only making a public commitment to doing
 
-permission to access these services and making it clear that these
+better, but by establishing and publicizing metrics to hold yourselves
 
-providers are independent from the company reporting structure,
+and the company accountable. If your eﬀorts to develop a better process
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+are driven even partially by a mishandling of a discrimination or
 
-4
+harassment incident, you should focus on re-earning trust that has been
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+lost. Strongly consider reaching out to any remaining employees who
+
+were aﬀected, apologizing for harm done, and oﬀering recourse to the

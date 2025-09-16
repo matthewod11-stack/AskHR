@@ -1,13 +1,31 @@
-# mitigation program.
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d0be556f62bbc1cd520a561a68e7f3a0b290ad1
+title: H08C0J-PDF-ENG
+---
+## comparative information. This lack of standard reporting prevents
 
-By adopting similar elements around sustainability reporting that
+the investors and the broader public from evaluating individual
 
-integrate climate change and employee health, companies can attract
+companies and comparing them apples to apples as much as possible
 
-new customers and investors who prioritize employee well-being
+— and it prevents the businesses themselves from seeing what other
 
-and sustainability. This approach also enhances talent attraction and
+organizations are doing to develop and spread best practices.
 
-retention, as evidenced by a Honeywell global study showing that six
+However, one company, global manufacturer Magna, exempliﬁes how
 
-in 10 employees would resign if their employers fail to create a healthy
+to comprehensively report on climate and workforce health risks in
+
+a digestible manner. Their sustainability report dedicates a section
+
+to climate change, health, and operational considerations, assessing
+
+a wide range of climate-related exposures and mapping their global
+
+footprint against identiﬁed risk zones. The report also outlines their
+
+proactive approach to prioritizing employee safety and well-being
+
+during climate events, including health audits and a global risk-

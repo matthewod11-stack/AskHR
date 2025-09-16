@@ -1,3 +1,9 @@
-# THE HAPPY WORKER 49
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 94cd20388aba4eaca922cdd485a3d652a6b74049
+title: barrickryan_eds_personality_and_work
+---
+# Social Contact
 
-Interestingly, it may often be the case that for the same task, in- creased sociability may be both beneﬁcial and detrimental at the same time. Happy sales employees probably beneﬁt from increased likeability and greater sensitivity to the needs of their customers, but their greater feelings of helpfulness and sociability may also prevent them from making self-serving deals that are in the best interest of the organization. Similarly, happy technical support staff working for computer software or hardware companies may pro- vide a more pleasant experience for customers seeking help, but these same workers may spend more time chatting, resulting in a less efﬁcient process. In this case, two measures of employee pro- ductivity, customer satisfaction and amount of time spent per call, may conﬂict. It is unclear which measure will be affected more by differences in happiness, and therefore it is essential that re- searchers pay careful attention to the speciﬁc measures of pro- ductivity that are used, along with the speciﬁc mechanisms that lead to higher or lower productivity for the happy worker.
+The most robust ﬁnding in the literature on the effects of happi- ness and well-being is that happy people enjoy, feel more conﬁdent in, and even attract social contact. This should make happy work- ers perform better in jobs that require social contact. Customer service jobs, sales jobs, and other occupations in which employees deal directly with customers and the general public will beneﬁt from the happy worker’s greater likeability and greater social com- petence. In addition, occupations that rely on teamwork and co- operation may beneﬁt from employees with higher levels of positive affect. But because positive affect will likely increase em- ployees’ desire for social contact, greater positive affect may be detrimental in jobs where too much social contact is distracting and unproductive.

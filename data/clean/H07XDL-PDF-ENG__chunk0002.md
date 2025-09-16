@@ -1,7 +1,19 @@
-# us but emotion or intuition.
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 152e07b63dc2a4647bf850a37917f713a2870b90
+title: H07XDL-PDF-ENG
+---
+# Vanessa Branchi
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+In times of crisis, many of us ponder existential questions about health,
 
-1
+security, purpose, career, family, and legacy. However, more often than
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+not, such contemplation is short-lived. The demands of everyday life —
+
+the here and now — can overwhelm us, leaving little time to think about
+
+the long term and what we are working toward. As a result, when faced
+
+with life decisions both big and small, we are left with nothing to guide

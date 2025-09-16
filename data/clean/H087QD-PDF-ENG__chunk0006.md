@@ -1,5 +1,15 @@
-## because of the greater work-life balance and personal productivity that
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c77ddd3e7df805e59b629d784ef4026e71c113d0
+title: H087QD-PDF-ENG
+---
+## HBR / Digital Article / Using Data to Design Your Hybrid Work Policies
 
-they experience. But what is the right amount of time to be in person?
+We’ve seen how fully remote work can lead to a loss of connection
 
-How can corporate policymakers and team leaders get the best of both
+and development opportunities, particularly those that require
+
+observational learning, or learning by watching someone else do it.
+
+However, people still want to work from home at least some of the time

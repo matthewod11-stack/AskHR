@@ -1,13 +1,23 @@
-## better understand corporate strategy, pass information directly to the
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a12e5d4496966a926143eb5c51791a3bff065a7
+title: R2304D-PDF-ENG
+---
+## such issues as safety and health; diversity, equity, and inclusion;
 
-board in an open way, be heard, and ensure that workforce questions
+and technological innovations. Many companies already have in place
 
-become a regular item on the board’s agenda. The process of electing
+employee resource groups (ERGs) that provide a forum to people of
 
-representatives can also bring employees closer together and give them
+color, women, LGBTQ+ employees, and allies; ERGs with an expanded
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+remit could serve as a model for other advisory teams.
 
-14
+Some companies put a worker-elected representative on their board of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+directors, as software company Honeycomb does. In many countries,
+
+especially in Europe, this “codetermination” is common. A worker with
+
+a ﬁduciary duty to the company can create a channel for employees to

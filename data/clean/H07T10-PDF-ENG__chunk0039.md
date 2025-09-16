@@ -1,23 +1,27 @@
-## truth-tellers, customer stewards, and insight creators. The candidate
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3b3a4d934e3916adee6a9ac588b7f9677bb8dfe
+title: H07T10-PDF-ENG
+---
+# HBR / Digital Article / How to Evaluate a Job Candidate’s Critical Thinking Skills in an…
 
-who can conceptualize the problem, frame the situation, and ask
+every leader seeks, and many teams have in short supply. Thinking
 
-more thoughtful questions will outperform those relying on textbook
+analytically includes being clear about the purpose of the essential
 
-answers. Hiring talent capable of asking thoughtful questions is the key
+question rather than wandering in the forest of data, being inquisitive
 
-to building successful teams.
+not from a statistical perspective but questioning the initial face value,
 
-Finally, once you successfully recruit amazing people, you must create
+being able to connect the dots via synthesis, and eventually being able
 
-an environment where employees are motivated to work collectively
+to tell an informed story that is based on deeper truths, judgment, and
 
-yet feel valued and recognized for being curious and inquisitive. An
+context, not just restating the initial facts.
 
-entire organization with a growth mindset that embraces questions and
+- • •
 
-curiosity can reframe challenges as opportunities and move more freely
+Reactivity, insight, and ingenuity are needed for companies to
 
-to adjust to business conditions.
-
-This article was originally published online on September 25, 2023.
+thrive. You seek agile thinkers who can be growth champions,

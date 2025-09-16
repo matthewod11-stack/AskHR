@@ -1,3 +1,15 @@
-## HBR / Digital Article / When to Innovate and When to Imitate
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6317ba6a9d75facb1393c349df81b6f7bcbb0b82
+title: H08T9I-PDF-ENG
+---
+# timing to the task at hand.
 
-Felipe A. Csaszar is Professor of Strategy and Strategy Department Chair at University of Michigan’s Ross School of Business. His research examines how decision structures— cognitive representations, organizational processes, and AI—impact innovation and performance. He serves as Senior Editor at Strategy Science and Management Science. Previously at INSEAD, he holds a Wharton PhD and led both asset management research and an Internet startup.
+This article was originally published online on August 1, 2025.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

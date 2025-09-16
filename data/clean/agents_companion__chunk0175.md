@@ -1,15 +1,41 @@
-# usage demands.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: dde246dcd1cbaf282a1873e0f146cd408263dbc6
+title: agents_companion
+---
+# into cohesive workflows.
 
-Security is always top of mind. Google Agentspace is built on the Google Cloud secure-by-
+The architecture of Agentspace Enterprise is founded upon several core principles.
 
-design infrastructure, giving you the peace of mind to confidently deploy AI agents across
+Paramount among these is built-in trust, which prioritizes security, explainability, and
 
-your organization. It provides granular IT controls, including role-based access control
+governance through features such as single sign-on (SSO) authentication, an integrated
 
-(RBAC), VPC Service Controls, and IAM integration, ensuring your data remains protected
+permissions model, and user-level access controls. Google's advanced intelligence is
 
-and compliant at all times.Security is a foundational principle of Agentspace. Built upon the
+leveraged to discern user behavior and content patterns through machine learning, resulting
 
-secure infrastructure of Google Cloud, it provides a robust environment for the deployment
+in the delivery of highly relevant results via semantic understanding, knowledge graphs,
 
-of AI agents. Granular IT controls, encompassing role-based access control (RBAC),
+and LLMs. Universal connectivity is achieved by connecting to a diverse array of enterprise
+
+systems with on-demand and automated data refreshes, thereby eliminating information
+
+silos. Enterprise-level customization and user-level personalization are facilitated through
+
+granular controls for search functionality, recommendations, LLMs, and knowledge graphs,
+
+providing tailored experiences based on individual user roles, permissions, and search
+
+40
+
+history. Real-time feedback and adaptation mechanisms enable the continuous refinement
+
+of results through machine learning and user input. Blended Retrieval Augmented Generation
+
+(RAG) allows for customizable data blending, powering generative AI applications grounded
+
+in enterprise data. Finally, scalability is a critical design consideration, with the system
+
+engineered to accommodate growth across geographical regions, languages, and peak

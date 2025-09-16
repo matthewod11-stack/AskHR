@@ -1,15 +1,21 @@
-# process.
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe0514e4080449605e744a9c92f690cf20c3f29a
+title: H05W7P-PDF-ENG
+---
+# HBR / Digital Article / Do Your Employees Feel Safe Reporting Abuse and Discriminatio…
 
-- Independent, allowing employees to report without fear of retaliation
+- Transparent, allowing employees to see where a report is going and
 
-or repercussions through a neutral process that preserves anonymity.
+its status: whether received, reviewed, acted on, or resolved.
 
-- Actionable, allowing employers to respond to reports without
+- Flexible, allowing employees to indicate the desired resolution to their
 
-compromising the anonymity of reporters. One way to achieve this is
+report, ranging from the ending of unwanted behavior to education for
 
-by tracking and aggregating details from submitted reports and acting
+a business unit to termination of the accused employee(s).
 
-on patterns within that aggregated data.
+- Responsive, allowing employees to anonymously interact with an
 
-Leaders who want to take a critical step toward ending discrimination,
+individual(s) who has their interests in mind throughout the resolution

@@ -1,5 +1,7 @@
-## Contract Work Hours and Safety Standards Act (CWHSSA)
-
-(40 U.S.C. §3701-3708; eCFR: 29 CFR part 5)
-
-Who is Covered
+---
+source_path: Employment Law Guide - Hours and Safety Standards in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: cffbd6885eaf5d8bc06c01a62c3c138ac7b2a3d1
+title: Employment Law Guide - Hours and Safety Standards in Construction Contracts
+---
+# Return to Table of Contents

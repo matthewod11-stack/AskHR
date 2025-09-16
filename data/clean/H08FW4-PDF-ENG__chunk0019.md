@@ -1,13 +1,19 @@
-## handle conﬂict serves as a model for the rest of the organization.
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25c9726a66d6c036d8b5d94dd001c6302ae44748
+title: H08FW4-PDF-ENG
+---
+## on paper but feel irrelevant to the daily operation of the organization.
 
-Where executive teams fall short
+They believe that by investing in relationships with each other and
 
-Sadly, commitment to modeling a healthy culture seems rare. One study
+across the enterprise they can further embed a culture that supports
 
-by Gallup found that only 27% of employees believe in their company’s
+success. That’s because healthy, trusting relationships among the
 
-values and only 23% think they could actually apply them to their jobs.
+executive team create broader organizational safety needed to welcome
 
-And McKinsey’s State of the Workplace study found that only 25% of
+dissenting voices and diﬀering viewpoints, leading to deeper insights
 
-employees experience their leaders as inspiring them by example to be
+and shared ownership of decisions. They understand that how they

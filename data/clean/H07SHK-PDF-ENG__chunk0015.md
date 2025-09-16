@@ -1,19 +1,21 @@
-# as the beginning, middle, or end.
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51fce211d9f65e3b9ea6118dd5cd05d43c198f6c
+title: H07SHK-PDF-ENG
+---
+## HBR / Digital Article / The Myth of the CEO as Ultimate Decision Maker
 
-CEOs’ choices about when and how to personally step into decision-
+what expectations to create), and identify which issues they want to
 
-making situations often reﬂects their desire to make their teams active
+personally be involved in, and which others they are happy to delegate
 
-participants in the decision, as a way to increase buy-in. If you watch
+and trust others to make.
 
-CEOs in these settings, what’s striking is how many of their actions
+Participating in the Process
 
-are aimed at guiding others toward a decision, instead of overtly
+CEOs must then choose how much they want to participate at various
 
-inﬂuencing the decision in a way that may feel heavy-handed. They
+stages of the decision-making process. The CEO may be active at every
 
-provide this guidance by challenging the process, raising the bar, asking
-
-tough questions, and demanding better answers. Even though the CEOs
-
-are involved, they are careful to leave actual decision-making to their
+step, check in from time to time, or get engaged at a speciﬁc point, such

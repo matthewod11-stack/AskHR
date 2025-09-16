@@ -1,7 +1,25 @@
-## alumni at various career-stages with a diverse set of needs and interests.
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7176bb4e7c015e4cf2ae8f81441f724938ed225d
+title: H0832B-PDF-ENG
+---
+## perspectives, advise on network oﬀerings, and connect with other
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+alumni to encourage engagement.”
 
-6
+Although an advisory board can strengthen the broader alumni
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+program, it is important to build it with care. To start, leaders should
+
+provide clear guidance about the board’s role and purpose within the
+
+overarching alumni strategy. Without this direction, the company runs
+
+the risk of discouraging board members or making them feel that
+
+their time is not being used productively. It is also important for the
+
+board to be representative of the broader alumni network so that their
+
+recommendations and guidance consider how to engage a wide-range of

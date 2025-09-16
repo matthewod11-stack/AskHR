@@ -1,31 +1,17 @@
-# The Power of Personalization
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8c55a5064bdd7d888fa02451ed32738b63de8fc
+title: R2406G-PDF-ENG
+---
+# leads into new active card members.
 
-The nature of competition is changing. Instead of competing on
+As those examples illustrate, getting personalization right has many
 
-manufacturing scale, companies are competing on the scale of customer
+components, but a marketer who is reasonably familiar with the
 
-interactions, by building up their loyalty programs, app registrations,
+company’s personalization capabilities can complete a reliable self-
 
-authenticated website users, and reasons to interact across the
+assessment with a 15-minute survey. A full assessment can be done in a
 
-customer journey, to name a few examples. They compete on the speed
-
-at which they learn from interactions by testing variations in every
-
-interaction. They also compete on their ability to use their learning to
-
-tailor the customer experience by having cross-functional teams that
-
-constantly experiment with new experience designs, content, timing,
-
-channels, and the like. Here are several high-level takeaways from our
-
-research into personalization that can help businesses move forward.
-
-Personalization leaders can be found in every industry. Across the 12
-
-industry segments we reviewed, companies today score, on average,
-
-only 49 on the Personalization Index. The average score of companies
-
-in the top decile is 72. Unsurprisingly, the index leaders tend to be
+couple of weeks. We believe that it is worth your time and eﬀort.

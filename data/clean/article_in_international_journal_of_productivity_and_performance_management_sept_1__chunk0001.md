@@ -1,0 +1,7 @@
+---
+source_path: article_in_international_journal_of_productivity_and_performance_management_sept_1.md
+pages: n/a-n/a
+chunk_id: 703c7e88d844d6b6107d80fc67d4706daaab1b50
+title: article_in_international_journal_of_productivity_and_performance_management_sept_1
+---
+

@@ -1,15 +1,21 @@
-## communication cadences, or handoﬀ points between teams. The people
+---
+source_path: H08VOD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c0360cc09c760cfb19f7eccf97263c7e9b9b8d3
+title: H08VOD-PDF-ENG
+---
+# —to delegate.
 
-doing the work often know best how to improve it.
+- 1. Who’s closest to the action, and what can they see that I can’t?
 
-Why it helps: This question shifts attention from hierarchy to insight.
+This question helps you identify proximate decisions, where someone
 
-It reminds leaders that proximity is a form of expertise, and honoring it
+on your team is closer to the work than you are and has direct, timely insight. Whether it’s the sales manager who just got oﬀ a diﬃcult call
 
-can yield faster, more grounded decisions.
+with a client or the engineer who built the feature themselves, someone
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+closer to the action might have a clearer understanding of the context
 
-2
+than you do.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+These decisions can also be about workﬂows: Think scheduling rituals,

@@ -1,31 +1,15 @@
-# point.
+---
+source_path: H07GDE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36a1067f83001835e713400c4394ba576c22da63
+title: H07GDE-PDF-ENG
+---
+## HBR / Digital Article / Preparing to Announce Layoffs in a Virtual Meeting
 
-Visualization exercises are key.
+If you are going to read a script or use a teleprompter, you’ll need
 
-It’s diﬃcult to deliver a message online, where you don’t have a
+several rehearsals before audiences will trust your delivery as authentic.
 
-physical audience to make an emotional connection with. To create that
+Alternatively, you can secure Post-It notes to your computer monitor or
 
-emotional connection on Zoom, you’ll need to visualize the audience.
-
-To do this, think about the following:
-
-- Where is the audience watching from? Home? The oﬃce?
-
-- Who’s with them? Their families? Colleagues?
-
-- What will they feel as they hear the news?
-
-- What are their immediate concerns?
-
-- What will they ask that I can address right away?
-
-- What fear can I alleviate?
-
-You might take this a step further by creating “avatars” who represent
-
-key employees, such as a 45-year-old father of three kids or a 63-year-
-
-old woman nearing retirement. You can pretend you’re talking directly
-
-to these speciﬁc employees, refer to their fears, and attempt to alleviate
+place a second monitor behind the camera with bullet points to stay on

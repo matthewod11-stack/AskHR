@@ -1,25 +1,25 @@
-## HBR / Digital Article / How AI Can Help Stressed-Out Managers Be Better Coaches
+---
+source_path: H07P33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af501ab6e11aebdcda8bad52179ceafc27b99be3
+title: H07P33-PDF-ENG
+---
+# SvetaZi/Getty Images
 
-burnout and stress. Based on our research and advisory work, we
+Middle managers are receiving pressure from their leaders to spend
 
-foresee new AI tools making it easier for managers to provide high-
+more time developing and coaching their direct reports. The pressure
 
-quality coaching more eﬃciently.
+is also coming from below, as employee expectations have risen for real-
 
-Employees want more coaching, but managers are out of capacity
+time, personalized feedback, particularly among those early in their
 
-O.C. Tanner’s 2023 Global Culture Survey found that leaders whose
+careers or who were onboarded remotely. The challenge is satisfying
 
-supervisory responsibilities — including training employees — had
+these demands without incurring even higher levels of middle manager
 
-increased over the past year showed a 21% higher rate of anxiety, which
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-increased the odds of burnout by a staggering 520%.
+1
 
-Despite the potential for overload, managers generally want to coach
-
-their employees because they know it’s beneﬁcial. In fact, managerial
-
-coaching has been shown to increase job satisfaction, knowledge
-
-sharing, and performance — all outcomes that organizations (and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

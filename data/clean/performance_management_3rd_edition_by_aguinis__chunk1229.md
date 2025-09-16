@@ -1,5 +1,7 @@
-# from Jan 07
-
-to Dec 07
-
-Job Description: Researches and writes news, features, analyses, human interest stories. Develops and culti- vates news sources and contacts. Completes assignments by deadlines, ensuring accuracy by verifying sources.Attends newsworthy events and interviews key sources. Respects confidentiality as appropriate.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 6352c7f4368d902203b59f6091fe65130df41138
+title: performance_management_3rd_edition_by_aguinis
+---
+# Performance Period:

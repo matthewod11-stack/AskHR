@@ -1,9 +1,7 @@
-## Don’t obsess about formal planning and documentation. More
-
-important than amassing large numbers of candidates and carefully
-
-documenting your plans—the approach taken by most nonfamily public
-
-companies—is doubling down on the rigor of your assessments. Prior
-
-studies have shown that the value of additional prospects declines
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bc473d2cb39f2ac4f81ce52cbc03ce13340c4b6
+title: F2401A-PDF-ENG
+---
+# searches as well.

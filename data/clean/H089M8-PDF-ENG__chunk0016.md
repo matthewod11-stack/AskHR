@@ -1,31 +1,29 @@
-# current job.
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46ff26376eb87279159284c5e7bdec91aa56f99f
+title: H089M8-PDF-ENG
+---
+# HBR / Digital Article / Why Cofounder Partnerships Fail — and How to Make Them Last
 
-Thus, whereas lead founders are more task-driven when ﬁnding
+nitty-gritty details of transforming an idea into a viable business. They
 
-business partners, cofounders are usually more motivated by curiosity
+are grappling with the pressing needs of their idea and are searching for
 
-or the possibility of ﬁnding a partner for work that they enjoy more
+someone who can seamlessly contribute to the concrete tasks at hand.
 
-than their current position. Cofounders are more focused on working
+Their focus revolves around execution and turning concepts into reality.
 
-with someone they enjoy, whereas lead founders are more focused on
+It’s diﬀerent for cofounders. They often do not yet understand the
 
-fulﬁlling a speciﬁc need that must be satisﬁed. In other words, lead
+nature of the idea in great detail, and their view of the company
 
-founders think in terms of needs when evaluating potential partners,
+and its deﬁning features are much blurrier. In many cases, they are
 
-whereas cofounders think in terms of wants. Cofounders thus have
+likely to already be employed somewhere else. So, rather than being
 
-more ﬂexibility in terms of the types of lead founders they may join,
+driven by “push” factors to ﬁx problems with the startup like the lead
 
-since they are not bound to a particular idea or immediate task.
+founder might, cofounders are instead driven by “pull” factors: They are
 
-These diﬀerences are important to remember, and both lead founders
-
-and cofounders would do well to put themselves in the other person’s
-
-shoes. Seeing it from their perspective can help potential partners
-
-understand why the person they are talking to is emphasizing or de-
-
-emphasizing certain aspects during your conversation. This leads to our
+considering whether joining the initiator would be preferable to their

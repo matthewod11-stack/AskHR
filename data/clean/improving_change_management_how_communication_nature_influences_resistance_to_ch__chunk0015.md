@@ -1,11 +1,27 @@
-# technique and a tool (Reis, 2004.).
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: d432002249e96d776e104f36ccca8b0c9c9043d3
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# Communication
 
-Alternatively, by recovering the etymological root of the word “communication”
+Communication has been recognized as a relevant dimension to the success of
 
-one can find the Latin word “communicatione” meaning to participate, to pool or to take
+organizational change, and it is considered important in building change readiness,
 
-common action. More closely aligned to this original connotation, communication can be
+reducing uncertainty, and as a key factor in gaining commitment (Armenakis, Harris et
 
-taken as a social process where people, immersed in a particular culture, create and
+al., 1993; Klein, 1994). The design and conduct of strategy communication in change
 
-exchange meanings, thus addressing the reality of everyday experience (Gill and
+processes require decisions that integrate different perspectives of analysis and a
+
+relative effort, but that may be important to minimize the resistance to change (Argyris,
+
+1994).
+
+According to Caldwell (1993), communication within the context of change has
+
+been seen as a way to inform, involve and even motivate collaborators to participate in
+
+the change process wholeheartedly. Such approach reveals communication as a

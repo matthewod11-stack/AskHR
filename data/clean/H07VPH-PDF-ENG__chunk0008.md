@@ -1,13 +1,23 @@
-# impede clear problem solving.
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dbed93a274c7ae1cb71cf06da9e44cca5186f0bc
+title: H07VPH-PDF-ENG
+---
+# and undervalue people
 
-However, what I call “situationality” can also override your dominant
+- Listeners, who want to solicit the input of others, but who sometimes
 
-PSP. Situationality is more than context. I deﬁne situationality as a
+can’t hear their own voice
 
-formula for the situation we ﬁnd ourselves in: how and where we are
+- Thinkers, who thrive on identifying multiple paths and outcomes, but
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+who can struggle to make a decision in a timely manner
 
-2
+- Visionaries, who pride themselves on seeing pathways that others
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+don’t, but who avoid the ordinary even when it’s eﬀective
+
+Most of us rely on one dominant PSP. Each type of problem solver has
+
+some real strengths, but also some blind spots — cognitive biases — that

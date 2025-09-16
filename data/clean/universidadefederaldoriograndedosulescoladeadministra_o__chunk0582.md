@@ -1,3 +1,29 @@
-# REFERÊNCIAS
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 423bd95a4f1b65cf3fe015a895fe79759695369c
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## documentações que poderiam tê-lo enriquecido, como o cruzamento dos dados de
 
-ABREU, N. et al. Comunicação e os fatores externos intervenientes no clima organizacional em um hospital universitário. Qualitas Revista Eletrônica, Campina Grande, em: 1-15, http://revista.uepb.edu.br/index.php/qualitas/article/view/1585 Acesso em: 8 ago. 2023.
+eNPS e desligamentos voluntários da companhia, que a funcionária cita na
+
+entrevista como sendo correlacionados. Não foi possível também comprovar na
+
+prática o que os autores estudados afirmaram ser verdadeiro - que o eNPS tem
+
+associação com o engajamento, uma vez que a empresa X não aplica instrumento
+
+específico para mensurar engajamento (como o UWES). Em posteriores estudos em
+
+que se consiga acesso a medições tanto de engajamento quanto de eNPS de
+
+78
+
+empresa real, acredita-se que seria interessante comprovar esta relação também
+
+aqui no Brasil a fim de somar-se com a curta literatura acadêmica mundial a respeito
+
+do tema.
+
+79

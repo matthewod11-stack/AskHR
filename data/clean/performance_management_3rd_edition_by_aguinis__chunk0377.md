@@ -1,3 +1,7 @@
-# 2.2 PERFORMANCE PLANNING
-
-Employees should have a thorough knowledge of the performance management system. In fact, at the beginning of each performance cycle, the supervisor and the employee meet to discuss and agree upon what needs to be done and how it should be done. This performance planning discussion includes a consideration of both results and behaviors as well as a development plan.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 17471e4e8f73e23db318a5c5188c3181283d3ee8
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part I • Strategic and General Considerations

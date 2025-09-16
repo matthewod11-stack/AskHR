@@ -1,9 +1,23 @@
-## to the workforce and work longer hours, on average, one to three
+---
+source_path: H03TBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8498e97aef333777e5106b0e055168c692216013
+title: H03TBY-PDF-ENG
+---
+# HBR / Digital Article / A Winning Parental Leave Policy Can Be Surprisingly Simple
 
-years later. Companies that have expanded their paid leave oﬀerings
+Primary-caregiver policies are also counterproductive to employer
 
-have seen the attrition of new mothers drop by as much as 50%.
+eﬀorts to recruit and retain women, who leave industries like tech at
 
-Forcing working women to accept the old-fashioned primary-caregiver
+twice the rate of their male counterparts. Research shows that the more
 
-role as a condition to taking leave, however, fuels family dynamics
+parental leave fathers take, the more likely mothers are to return to work
+
+full-time. Gender-neutral leave policies allow families to take parental
+
+leave equitably and are the better bet for employee retention.
+
+A recent report on paid family leave by the New America Foundation
+
+reports that women who take paid leave are far more likely to return

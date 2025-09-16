@@ -1,3 +1,13 @@
-# a. Transformational Leadership
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 1fbc049287cf5b51268cc9388a41eff0c9bf9a43
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# A Textbook of Industrial Psychology
 
-Transformational leaders are known for their ability to inspire and motivate their followers to exceed their own expectations. They often possess a strong vision for the future and are capable of communicating this vision effectively. They encourage creativity and innovation, promoting a culture of continuous improvement within the organization. Transformational leaders also build strong relationships with their teams, displaying empathy and support. They empower their followers to take ownership of their work, fostering a sense of purpose and commitment [5], [6].
+differences between leadership and management styles, highlighting the key characteristics of each.
+
+- 1. Leadership Styles
+
+Leadership is about inspiring and guiding a group of individuals towards a common vision or goal. Effective leaders can motivate their teams, foster innovation, and drive organizational change. There are several leadership styles, each with its unique attributes and applicability.

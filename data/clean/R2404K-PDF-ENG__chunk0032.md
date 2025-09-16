@@ -1,21 +1,21 @@
-## fall victim to corporate cost-cutting, and a predetermined transfer price
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20eb88f9b9ea5599360eb65d8ddb1cbd314daa11
+title: R2404K-PDF-ENG
+---
+## HBR / Magazine Article / The Middle Path to Innovation
 
-assures the accelerator of an excellent return in the event of success.
+Carolyn Doucette’s digitally altered photographs investigate the human presence in nature.
 
-The company and the accelerator may have either a shared board or
+This arrangement leverages the existing operational capacities of
 
-independent boards, but the board structure should attain a balance
+the ﬁrm while allowing an entrepreneurial environment to ﬂourish
 
-between strategic alignment and operational independence. What’s key
+at the accelerator. Because the accelerator custom-builds products
 
-is that the accelerator’s management team should collaborate with but
+for the corporation, the ﬁrm is more likely to embrace them,
 
-not report to the company’s leadership when crafting strategy and
+eﬀectively sidestepping the “not invented here” syndrome. Having a
 
-planning new products.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+predetermined budget ensures that funding for the innovation will not

@@ -1,9 +1,11 @@
-## course: Psychological perspectives. London: Sage.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bc13a8e138621875c62a68673518de4cecfcbc2d
+title: untitled
+---
+# and Wang.
 
-Winston, A. (1990). Robert Sessions Woodworth and the Columbia Bible: How the psychological experiment was redeﬁned. American Journal of Psychology, 103(3), 391–401.
+Wilkinson, S. (Ed.). (1996). Feminist social psychologies: Interna- tional perspectives. Buckingham, England: Open University Press.
 
-Winston, A., & Blais, D. J. (1996). What counts as an experiment? A transdiciplinary analysis of textbooks, 1930–1970. American Journal of Psychology, 109(4), 599–616.
-
-Woodard, J. (1945). Social psychology. In G. Gurvich & W. E. Moore (Eds.), Twentieth century sociology (pp. 220–249). New York: Philosophical Library.
-
-247
+Wilkinson, S., & Kitzinger, C. (Eds.). (1995). Feminism and dis-

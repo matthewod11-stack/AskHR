@@ -1,33 +1,35 @@
-## HBR / Digital Article / A Guide for Getting Stakeholder Buy-In for Your Agenda
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 682697756626abe1b8f8a3d9194eb172d927f2e7
+title: H07YQQ-PDF-ENG
+---
+## One of our clients, a highly accomplished leader with experience in
 
-be required from them, and what they would stand to gain and lose
+direct-to-consumer business (B2C), was recently recruited to a company
 
-from this new direction. In repeated conversations over six-months,
+that was only a wholesale business. To remain competitive during the
 
-she was able to help them see how they would beneﬁt from this new
+pandemic, the company proposed establishing a B2C channel. Given
 
-channel, and ultimately gained their support.
+her expertise, our client was very enthusiastic about the potential
 
-Cultivating stakeholder awareness
+contribution she could make to this new line of business. She dove in
 
-The third domain you have to cultivate is your stakeholder awareness.
+energetically but was quickly met with a strong resistance.
 
-This refers to truly understanding the stakeholders involved — their
+When she reﬂected on the questions outlined above and cultivated
 
-needs, motivators, states of mind, and methods for reaching them.
+greater strategic awareness, she realized the magnitude of the change
 
-First, identify the stakeholders needed to achieve your objective. Who
+she was trying to drive. This helped her to slow down and put her
 
-are your:
+attention on the long-game. She took time to analyze how her B2C
 
-- Active supporters
+channel objectives would impact the various stakeholders, what would
 
-- Passive players (those who are indiﬀerent)
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-- Skeptics
+4
 
-- Active opponents
-
-Then, ask the following:
-
-- How does achieving your objective most beneﬁt your active
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

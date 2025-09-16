@@ -1,7 +1,15 @@
-# disconnection.
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a385d83a83a1103f8c5ad2caa05bfb8ff67c14b8
+title: H08LQA-PDF-ENG
+---
+## Making Sabbaticals Equitable and Successful
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Is your organization ready to start reaping the beneﬁts of employee
 
-6
+sabbaticals? Although there is no single playbook for designing a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+program, my research has found that all successful and equitable
+
+sabbatical programs rest on three pillars: eligibility, support, and

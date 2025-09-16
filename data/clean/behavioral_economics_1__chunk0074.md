@@ -1,13 +1,17 @@
-# Economic Journal forthcoming.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 86354f08dc5ce2f7769961311d8322c03d68db4c
+title: behavioral_economics_1
+---
+# Economic Review 90(1): 166-193.
 
-Camerer, C., L. Babcock, G. Loewenstein and R. Thaler (1997). "Labor Supply of New York City Cabdrivers:
+Brocas, I. and J. Carrillo (2005). The Brain as a Hierarchical Organization, University of Southern California.
 
-One Day at a Time." The Quarterly Journal of Economics 112(2, In Memory of Amos Tversky (1937-
+36
 
-1996)): 407-441.
+Brown, M., A. Falk and E. Fehr (2004). "Relational contracts and the nature of market interactions."
 
-Camerer, C. and T. H. Ho (1999). "Experience-weighted attraction learning in normal form games."
+Econometrica 72(3): 747-780.
 
-Econometrica 67(4): 827-874.
-
-Camerer, C., G. Loewenstein and M. Weber (1989). "The Curse of Knowledge in Economic Settings - an
+Bruni, L. and R. Sugden (2005). "The Road Not Taken. Two Debates on Economics and Psychology?"

@@ -1,3 +1,23 @@
-## reﬂecting. In a world that rewards noise and speed, intuitive leaders
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eab2d6bf8bac9b7aade2158394617b893fdce0ff
+title: H08SY7-PDF-ENG
+---
+# sharpens future calls.
 
-learn to seek stillness—and listen for the signal underneath the static.
+- 3. Contextual calibration. Highly intuitive leaders don’t apply the
+
+same instincts to every context. They know where their intuition is
+
+valid—and where it’s vulnerable. For example, one executive told me
+
+she never relies on gut when reviewing legal contracts, but does when
+
+assessing talent ﬁt. Intuition is powerful in domains where you have
+
+deep expertise, but dangerous in ones where you don’t.
+
+- 4. Quiet listening. Intuition doesn’t shout. It whispers. It emerges in
+
+the mental stillness between meetings, when walking, writing, or

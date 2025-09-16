@@ -1,11 +1,11 @@
-## Case law The interpretation of a law by a court through
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 796857afe58c90496f62a5347b644f80216e66a0
+title: industrial_organizational_psychology_an_applied_approach
+---
+## business-related information among employees, management, and customers.
 
-a verdict in a trial, setting precedent for subsequent court decisions.
+Business game An exercise, usually found in assessment centers, that is designed to simulate the business and marketing activities that take place in an organization.
 
-Case study A training technique in which employees, usually in a group, are presented with a real or hypothetical workplace problem and are asked to propose the best solution.
-
-Cause-and-effect relationship The result of a well-controlled experiment about which the researcher can confidently state that the independent variable caused the change in the dependent variable.
-
-Central tendency error A type of rating error in which a rater consistently rates all employees in the middle of the scale, regardless of their actual levels of performance.
-
-Change agent A person who enjoys change and makes
+Business impact A method of evaluating the effectiveness of training by determining whether the goals of the training were met.

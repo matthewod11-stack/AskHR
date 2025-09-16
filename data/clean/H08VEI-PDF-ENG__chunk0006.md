@@ -1,15 +1,17 @@
-## the Novak Leadership Institute at the University of Missouri, whose
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9be1946676c1cc318c56970130aa1e50b1310a2b
+title: H08VEI-PDF-ENG
+---
+## Leadership Development and Communications Program at the Kellogg
 
-work focuses on leadership communication and workplace culture.
+School of Management at Northwestern University. “It depends on
 
-Sure, you understand why the new policy or change matters to the
+your team’s attitude,” she says “Can your team see how this change is
 
-business—you’re privy to the boardroom conversations, he says. But you
+positive? Or will they struggle with it, push back, or fail to see how it
 
-can’t assume everyone else does, too. “Frontline employees might think,
+aﬀects them?”
 
-‘This doesn’t apply to me.’ That’s why you need to help them connect
-
-the dots and make sure people know why what you’re saying is relevant
-
-to their work, not just the company’s goals.” Here are a few ways to do
+That disconnect is common, notes Justin Willett, research director for

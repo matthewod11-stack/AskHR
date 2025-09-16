@@ -1,11 +1,11 @@
-# co-founder and chairman of the company.
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 172c30f79f1b6b94501fd46249f3d58bcdd760eb
+title: H08DMP-PDF-ENG
+---
+# Experiment Results
 
-Approximately 1,600 China-based employees in marketing, ﬁnance,
+The company we worked with was Trip.com, one of the world’s largest
 
-accounting and engineering volunteered for the study and were
-
-randomized into two groups, based on whether their birthdays fell on
-
-even or odd dates. One group, the control group, went into the oﬃce ﬁve
-
-days a week for six months. The other group, the treatment group, went
+online travel companies, with 40,000 employees. One of us, James, is a

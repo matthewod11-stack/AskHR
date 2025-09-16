@@ -1,11 +1,15 @@
-## HBR / Magazine Article / The Uniqueness Trap
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f855757aa68e29cd8282c595c5f28a6354cd3e5
+title: R2502K-PDF-ENG
+---
+## the project management profession and the literature about it. The U.S.-
 
-“a temporary endeavor undertaken to create a unique product, service,
+based Project Management Institute, for example, deﬁnes a project as
 
-or result.” The UK-based Association for Project Management deﬁnes a
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-project similarly, as a “unique, transient endeavour.” The very ﬁrst study
+1
 
-of projects as a management problem identiﬁed their ﬁnite duration
-
-as a “unique aspect of the project manager’s job.” And in his classic
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

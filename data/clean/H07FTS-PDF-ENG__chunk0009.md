@@ -1,15 +1,9 @@
-# the new year.
+---
+source_path: H07FTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d912e912d448f987cee5dc697705ca96964f932
+title: H07FTS-PDF-ENG
+---
+## HBR / Digital Article / Is It Time to Shake Up Your WFH Routine?
 
-Here are a few reasons why you may want to shake things up — and how to make these changes eﬀectively.
-
-Reason #1: You’re feeling bored with the same old, same old.
-
-One reason why you may need to change up your work-from-home
-
-schedule is that nothing has changed at all in the past two-plus years,
-
-and the monotony is getting to you. Instead of really starting work on
-
-time, you’re logging in and then snoozing some more. You miss the
-
-social interactions with your coworkers. And every day feels like the day
+schedule can make a big impact and could give you a fresh approach to

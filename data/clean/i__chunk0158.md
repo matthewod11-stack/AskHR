@@ -1,21 +1,15 @@
-# function.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 3ea4b5852ee11185b83a1126a77a5f11da279668
+title: i
+---
+## 2.6 Business Analytics to People Analytics
 
-The adoption of analytics in marketing was driven by the desire to strategically attract, segment,
+Isson et al. (2016) highlight the reliance on creativity, instinct, and the experience of marketing
 
-acquire, grow, retain, and reward customers. Marketing recognized the importance of
+professionals rather than data-driven decision-making. However, as competition grew, the
 
-understanding its customer base, target demographics, and the entire customer life cycle. This
+marketing industry underwent a significant transformation by integrating analytics into its
 
-led to the birth of marketing analytics. Organizations combine marketing with marketing
-
-analytics, striking similararities between Business Analytics and People Analytics when
-
-examining the transition from one to the other. Likewise, the authors propose a shift from (1)
-
-33
-
-Analytics in Marketing to Analytics in Talent Management. (2) Customer Life Cycle
-
-Management to Talent Life Cycle Management. (3)Customer Relationship Management to
-
-Talent Relationship Management. (4)Customer 360-Degree Analysis to Talent 360-Degree
+operations. This shift aimed to make marketing a more strategic and accountable business

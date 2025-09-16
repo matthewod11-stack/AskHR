@@ -1,9 +1,15 @@
-## John C Flanagan, "The Critical Incident Technique'," Ps.sc hologi«il Bulletin
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: ded63c7b94151088645be8eceff1553b08368822
+title: document_resume
+---
+# Mid.
 
-61 (July 1954), pp. 327-358.
+- 6. William H. Volley and Kenneth NI. Jennings, Personnel Management, (Chicago: Dryden, 1987), p. 255 and Robert L. Lazar and Walter S. Wikstrom. Appraising Managerial Performance, (New York. Conference Board. 1977), p. 95. Holley an Jennings, op. it.. p. 256.
 
-- 10. Marion G. Haynes, "Developing an Appraisal Progi am," Pei-mimic/ lourna/
+- 6. William H. Volley and Kenneth NI. Jennings, Personnel Management, (Chicago: Dryden, 1987), p. 255 and Robert L. Lazar and Walter S. Wikstrom. Appraising Managerial Performance, (New York. Conference Board. 1977), p. 95. 7.
 
-57 (January 1978), pp. 14-19.
+8.
 
-11.
+Eichel and Bender, op. cit., p. 36.

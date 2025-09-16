@@ -1,19 +1,9 @@
-# performance.
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a12722cf811d76ed678bac956ecd9a53f72a2d88
+title: H07TEC-PDF-ENG
+---
+# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
 
-For the input variables in the balanced benchmarking equation (i.e.,
-
-those variables we wanted to minimize), we used the attorney’s salaries
-
-and their non-billed hours (i.e., hours that the attorneys worked on
-
-client cases but were not able to be billed for some reason). For the
-
-output variables (i.e., variables we wanted to maximize), we used the
-
-attorney’s billed hours, fees received, number of referred clients, and
-
-client satisfaction reviews. We performed the balanced benchmarking
-
-approach monthly for each attorney in the ﬁrm over the course of a
-
-year, allowing us to quantify the performance of each attorney relative
+balanced benchmarking approach an ideal tool to assess their relative

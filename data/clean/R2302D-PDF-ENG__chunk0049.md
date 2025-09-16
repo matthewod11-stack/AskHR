@@ -1,9 +1,17 @@
-## conversations between managers and team members, and the need for
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da8aa2398ba1fe8ec3389a1c762aca1e9673e173
+title: R2302D-PDF-ENG
+---
+## HBR / Magazine Article / Redesigning How We Work
 
-managers to have conﬁdence and clarity about hybrid work.”
+Karen Kocher, who manages Microsoft’s Workforce of the Future team,
 
-Similarly, when executives at Tata Consultancy Services studied
+reﬂects, “A lead indicator is data from the daily employee polls with
 
-internal data on productivity, meeting frequency, engagement scores,
+two questions: How are we doing with our ﬂexibility hybrid pledge? and
 
-and attrition, they found that ﬂexibility provides incontrovertible
+How are managers doing? That has created important insights that have
+
+steered actions—around, for example, the importance of one-on-one

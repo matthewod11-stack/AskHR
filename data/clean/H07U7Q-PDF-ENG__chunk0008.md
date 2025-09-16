@@ -1,7 +1,21 @@
-# up here.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be6089aaea9c2b64c971965237f0d1494d9dcce5
+title: H07U7Q-PDF-ENG
+---
+# growth of the organization
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+“The New World of Work” explores how top-tier executives see the
 
-2
+future and how their companies are trying to set themselves up for
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+success. Each week, Ignatius talks to a top leader on LinkedIn Live —
+
+previous interviews included Microsoft CEO Satya Nadella and former
+
+PepsiCo CEO Indra Nooyi. He also shares an inside look at these
+
+conversations —and solicits questions for future discussions — in a
+
+newsletter just for HBR subscribers. If you’re a subscriber, you can sign

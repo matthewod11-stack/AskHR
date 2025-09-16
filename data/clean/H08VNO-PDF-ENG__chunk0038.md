@@ -1,35 +1,19 @@
-# HBR / Digital Article / To Change Company Culture, Focus on Systems—Not Communic…
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a7810cdc9c3d895e205c8813b623731f49d47e4
+title: H08VNO-PDF-ENG
+---
+## —largely because tight production schedules and last-minute editorial
 
-member put it bluntly: “It felt like we were being handed self-care
+changes continued to drive daily pressures.
 
-instructions while the house was still on ﬁre.”
+The perks became a pressure point. Employees felt guilty for taking
 
-This wasn’t an isolated case. Across the organizations we studied,
+time oﬀ, unsure of whether they were truly allowed to. One team
 
-57% of employees said they felt worse after culture-enhancing
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-perks were introduced. The most common reason? It reinforced a
+7
 
-sense that leadership was either unaware of deeper problems — or
-
-unwilling to confront them. Instead of addressing low psychological
-
-safety, inconsistent management, or chronic overload, companies were
-
-oﬀering a smoothie bar.
-
-By contrast, organizations that removed surface-level perks and
-
-reinvested in structural improvements—such as manager coaching,
-
-conﬂict resolution, and clearer work boundaries—saw real gains.
-
-Burnout scores dropped by 22%, and perceptions of fairness and
-
-leadership care increased signiﬁcantly.
-
-The lesson: culture doesn’t improve by giving people more. It improves
-
-when you remove the things that waste their time, drain their energy, or
-
-blur their priorities. Perks are not culture. Operating norms are.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,23 +1,23 @@
-# 462 Health Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9f3748aa4862d9b3919c2a612c045759c9b2fe29
+title: untitled
+---
+# REFERENCES
 
-conducted at the 12th Conference of the European Health Psychology Society, Vienna, Austria.
+Alexander, F. (1950). Psychosomatic medicine. New York: Norton.
 
-Belar, C. D., Brown, R. A., Hersch, L. E., Hornyak, L. M., Rozen- sky, R. H., Sheridan, E., P., et al. (2001). Education for health. Monitor on Psychology, 32(1), 56.
+American Board of Health Psychology. (1984). By-Laws, Section II.
 
-Belar, C. D., Brown, R.A., Hersch, L. E., Hornyak, L. M., Rozensky, R. H., Sheridan, E. P., et al. (2001). Self assessment in clinical health psychology: A model for ethical expansion of practice. Professional Psychology, 32, 135–141.
+American Psychological Association Council of Representatives. (1997, August). Archival description of Clinical Health Psychol- ogy as a specialty in professional psychology. Minutes of the Council of Representatives meeting. Chicago, IL.
 
-Belar, C. D., & Seigel, L. J. (1983). A survey of postdoctoral training programs in health psychology. Health Psychology, 2, 413–425.
+American Psychological Association Task Force on Health Re- search. (1976). Contributions of psychology to health research: Patterns, problems and potentials (pp. 264–272). Washington, DC: Author.
 
-Belar, C. D., Wilson, E., & Hughes, H. (1982). Health psychology training in doctoral psychology programs. Health Psychology, 1, 289–299.
+Anagnostopoulu, T. (1998). The state of health psychology in Greece. In T. McIntyre (Chair), The state of health psychology in Europe: Education and practice. Symposium conducted at the 12th Conference of the European Health Psychology Society, Vienna, Austria.
 
-Califano, J. A., Jr. (1979). Healthy people: The Surgeon General’s report on health promotion and disease prevention (Stock No. 017–001-00416–2). Washington, DC: U.S. Government Printing Ofﬁce.
+Anderson, N. B. (Ed.). (1995). Health Psychology, 14(7), 588–656.
 
-Cannon, W. B. (1915). Bodily changes in pain, hunger, fear and
+Baban, A. (1998). Health psychology in Romania: Present aspects and future trends. In T. McIntyre (Chair), The state of health psychology in Europe: Education and practice. Symposium
 
-rage (2nd ed.). New York: Appleton-Century-Crofts.
-
-Currie, C., Hurrelmann, K., Settertobulte, W., Smith, R., & Todd, J. (Eds.). (2000). Health and health behavior among young people (HEPCA series). Geneva, Switzerland: World Health Organization.
-
-Dunbar, H. (1935). Emotions and bodily changes: A survey of liter- ature on psychosomatic relationships: 1910–1933. New York: Columbia University Press.
-
-Engel, G. L. (1977). The need for a new medical model: Achallenge
+461

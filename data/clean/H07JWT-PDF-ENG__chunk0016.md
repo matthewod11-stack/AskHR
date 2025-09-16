@@ -1,15 +1,15 @@
-## person talks through one highlight from their week, one low point, and
+---
+source_path: H07JWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4ca667dad2f3e0c57c0367fa353fc7505c48f24
+title: H07JWT-PDF-ENG
+---
+# structure.
 
-one thing that made them laugh.
+An easy way to combat aﬃnity distance, or the emotional separation
 
-Our remote team at Humu kicks oﬀ meetings by asking something light-
+that can crop up between remote team members, is to dedicate the ﬁrst
 
-hearted and easy to answer — and we rotate whose responsibility it is to
+ﬁve minutes of team meetings to a shared ritual. Have everyone say
 
-come up with the question. We’ve bonded over prompts like “What food
-
-is underrated?” and “You have ﬁve seconds to grab an object. Then share
-
-with the group what it is and why it’s in your home.” These activities
-
-make work relationships feel less transactional and create a social buﬀer
+something they’re excited about or try “High, Low, Ha,” where each

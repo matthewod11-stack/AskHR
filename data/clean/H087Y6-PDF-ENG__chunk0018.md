@@ -1,9 +1,13 @@
-## HBR / Digital Article / The FTC’s Noncompete Ban Was Long Overdue
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76452c49dd52cd156b5830d010a6ced14cf86f3a
+title: H087Y6-PDF-ENG
+---
+# wage increase of approximately $524.
 
-This wage eﬀect happens because when workers are free to move
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-among competitors, and new employers are free to recruit and oﬀer
+3
 
-positions to their competitor’s employees, talent receives its market
-
-value. Employers dynamically recruit and retain by competing over
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

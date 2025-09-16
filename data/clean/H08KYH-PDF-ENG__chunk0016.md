@@ -1,23 +1,31 @@
-# How to Overcome Hurry Sickness
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6ab0c9b460f5b05c84581352f24d41bcfffd9f4
+title: H08KYH-PDF-ENG
+---
+## HBR / Digital Article / The Insidious Effects of Hurrying
 
-Though the costs of hurry sickness can be dire, the remedies are
+In most professional environments today, the onus is on the individual to carve out and preserve their own boundaries. This is already diﬃcult
 
-readily available. Try these tips and tactics to begin slowing down and
+in work cultures that prize rapid results and overwork, but as Drs.
 
-regaining your health — without compromising performance:
+Meyer and Rosenman point out, certain personality traits can increase
 
-Implement forcing functions.
+one’s susceptibility to hurry sickness. In addition to the Type A
 
-A forcing function is any mechanism or activity that by design compels
+behavior pattern, perfectionists, people pleasers, and those who equate
 
-a particular result or behavior. With hurry sickness, the goal is to
+productivity with self-worth can be at higher risk. Perfectionists often
 
-decrease your sense of time scarcity and high urgency. Eﬀective forcing
+spend inordinate time on tasks in an attempt to achieve an unrealistic
 
-functions might include blocking oﬀ buﬀer time on your calendar to
+ideal, which steals time from other necessary tasks and leaves them
 
-deal with unexpected tasks; reserving time for deep, undistracted work
+quite literally hurrying to catch up. People pleasers run the risk of
 
-with no particular end goal; and scheduling time to reﬂect on and
+saying yes to every request, leaving them overwhelmed, rushed, and in
 
-reprioritize your to-do list so you’re not approaching everything with
+danger of falling behind. And many achievement-oriented individuals
+
+locate their self-worth in how much they can produce, and how quickly.

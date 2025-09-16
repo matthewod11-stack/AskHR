@@ -1,5 +1,9 @@
-# Creative Behavior, 1, 291–304.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c613f1d9ad32ad9ec3f979e7f657b348874ac6b1
+title: untitled
+---
+# Social Forces, 5, 61–65.
 
-MacMurphey, R. H. (1941, January 21). Letter to G. W. Allport. Gordon W. Allport Papers, Harvard University Archives, Cambridge, MA.
-
-McAdams, D. P. (1988). Biography, narrative, and lives: An intro-
+MacKinnon, D. W. (1967). Assessing creative persons. Journal of

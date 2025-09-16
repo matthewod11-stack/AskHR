@@ -1,3 +1,7 @@
-# Worker Adjustment and Retraining Notiﬁcation Act (WARN)(http://www4.law.cornell.edu/uscode/29/2101.html)
-
-(29 USC §2101 et seq.(http://www4.law.cornell.edu/uscode/29/2101.html) ; 20 CFR Part 639 (/elaws/leave-dol.asp?
+---
+source_path: Employment Law Guide - Notices for Plant Closings and Mass Layoffs.md
+pages: n/a-n/a
+chunk_id: 84c8411be9f7aa37102d416d6f0ed1c66bed736b
+title: Employment Law Guide - Notices for Plant Closings and Mass Layoffs
+---
+# Updated: February 2018

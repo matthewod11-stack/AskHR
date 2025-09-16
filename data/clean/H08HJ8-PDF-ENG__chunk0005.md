@@ -1,9 +1,7 @@
-# Strategies to Navigate the Challenge
-
-If you ﬁnd yourself in a comparable situation to Shari or John, we advise
-
-taking proactive steps to shift the dynamic. You may not have control
-
-over who you report to, but you can control the beliefs, assumptions,
-
-and narratives you create about the situation, as well as the impact of
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03887df7b70edb4ccd38e353e2ab931400472f59
+title: H08HJ8-PDF-ENG
+---
+# organization into the future.

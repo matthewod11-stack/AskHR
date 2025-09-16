@@ -1,7 +1,7 @@
-# performance. As Mowday, Porter and Steers (1982, p.27) note: “(committed employees)
-
-are willing to give something of themselves in order to contribute to the organization’s
-
-well being”. In this regard the person organisation (PO) fit1
-
-literature shows that the
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 26d4c19eca34afc475451d67e35f6ad12dd4abac
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# talent management and organizational

@@ -1,13 +1,11 @@
-# Marital status (1431)
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 65590c2cb3cebecf7e5fd48be85e97de666397d3
+title: file_1
+---
+# Category men
 
-women married or in a registered partnership, cohabiting
+n/% N 47
 
-53 65
-
-836 1033
-
-unmarried, divorced or separated, widowed
-
-25
-
-398
+748

@@ -1,5 +1,7 @@
-# regulations. WHD's regulations provide some exceptions to these limitations on hours worked for 14 and 15
-
-year olds enrolled in an approved Work Experience and Career Exploration Program (WECEP) or Work Study Program (WSP).
-
-Detailed information on the occupations determined to be hazardous by the Secretary is available from a local
+---
+source_path: Employment Law Guide - Child Labor Protections (Nonagricultural Work).md
+pages: n/a-n/a
+chunk_id: 5aadd57649c1a148ede1ee4afda0ddd62ad7d5df
+title: Employment Law Guide - Child Labor Protections (Nonagricultural Work)
+---
+# permissible work for 14 and 15 year olds is limited to those jobs speciﬁcally listed in the Secretary's

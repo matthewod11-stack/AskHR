@@ -1,13 +1,33 @@
-# After “I Do”
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94b513dd3da0448d8a9a8848ee970f7e0f45f6d9
+title: R2504K-PDF-ENG
+---
+## HBR / Magazine Article / How to Identify the Perfect Cofounder
 
-Once you’ve found your ideal partner, the hard work is just beginning.
+For those considering a cofounder who is your spouse, a family member,
 
-As you dig in, it can be easy to forget to nurture the relationship.
+or a close friend, be aware that launching a business together will
 
-Without routine check-ins and alignment discussions, cofounding
+catapult your relationship to a whole new level—fast. This can be
 
-teams can devolve into resentment and conﬂict. Not only do the
+an incredibly rewarding experience, but it can also test a personal
 
-cofounders suﬀer but tension can spread to team members and raise
+relationship to the max. While you are likely to trust each other more
 
-red ﬂags for investors. Here are a few ways to foster a strong cofounding
+than strangers, you may have baggage that creates a lot of emotion
+
+and triggers around certain issues. I’ve seen cofounding teams made
+
+up of spouses, relatives, or friends be very successful, but I’ve also
+
+seen teams erode irreparably because of events rooted in their personal history. It’s very diﬃcult to separate personal issues from your business,
+
+so don’t make this choice lightly. Consider getting a coach early on
+
+who specializes in working with cofounders with a preexisting personal
+
+relationship. Personal tensions will arise, and having support to work
+
+through them will be crucial to your long-term success.

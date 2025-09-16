@@ -1,5 +1,11 @@
-# Initial sample survey measures
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 72626732b0c024578a2685f12333780c6c2560ee
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# JOURNAL OF WORKPLACE BEHAVIORAL HEALTH
 
-Demographic variables Five demographic variables were measured on the survey: gender, race, reli- gion, political scale, and age. Gender was measured by asking “what is your gender identity,” where 1¼woman, 2¼man, 3¼gender queer/non-binary, 4¼Agender, 5¼Other (fill in) 6¼prefer not to say. Race was measured by asking “what is your racial or ethnic identity,” where 1¼White, 2¼Black or African American, 3¼American Indian or Alaska Native, 4¼Asian, 5¼Native Hawaiian or Pacific Islander, 6¼Hispanic, 7¼Bi- racial, 8¼Other (fill in), 9¼Prefer not to say. Religion was measured by 1¼Christian, asking 2¼Muslim, 3¼Jewish, 4¼None, 5¼Other (fill in), 6¼prefer not to say.
+An anonymous Qualtrics survey was used for data collection. There were two survey sections: a section measuring OB (27 items) and outcomes (two items), followed by a section measuring demographic and organizational variables (seven items). The demographic and organizational variable items were developed based on the third author’s knowledge of employee and organizational characteristics for Company A and in consultation with a professional contact at Company B. Temple University’s IRB approved this research under Exempt Review (Protocol #28794, 10/25/21). The data was collected from late Fall 2021 (Company A) through Winter 2022 (Company B), with email reminders sent to respondents in each company approximately every three weeks in that time period. In all, 130 out of 150 (87%) Company A employees and 30 out of 45 (67%) Company B employ- ees filled out the survey for a total of 160 respondents. Respondents were told that the purpose of the survey was to measure their perceptions about organizational belonging and factors that could be associated with it. During this data collection period, approximately 77% of employees worked remotely at Company A. It is not known what percentage of employees worked remotely at Company B. The email reminders and longer data col- lection period likely increased the response rate.
 
-“what
+In early July 2022, a follow-up open item survey was sent to Company A employees using an anonymous Qualtrics link. A small subsample of Company A employees, n¼42 responded. The purpose of this open item was to validate the initial OB survey results found. Although this validation sam- ple came from the same population of the initial survey respondents, there was a six-month time gap (January to June) between the initial survey and this smaller sample open item follow-up. Thus, there is a very low probability that an employee would accurately remember their initial survey responses made earlier (Johns, 1994).

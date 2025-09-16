@@ -1,9 +1,11 @@
-# and engagement.
+---
+source_path: H08LCW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 140d83cf8cfce9a909e3ce049ed9c648d3608895
+title: H08LCW-PDF-ENG
+---
+## in brand awareness for [client #2] within three months through
 
-This statement covers ﬁve years of work, and it includes everything this
+programmatic ad campaigns on a DSP, where I targeted speciﬁc
 
-candidate needs to say to explain her foundational skills from her ﬁrst
-
-two jobs. Mentioning her promotion proves she learns quickly and could
-
-demonstrate an impact from her skills, which directly relates to the new
+audience segments to optimize ad placements for maximum reach

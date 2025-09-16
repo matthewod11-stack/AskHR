@@ -1,9 +1,19 @@
-## the project management profession and the literature about it. The U.S.-
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e75669ac12db7be4400768ba2e74e3560b751c11
+title: R2502K-PDF-ENG
+---
+# Joann
 
-based Project Management Institute, for example, deﬁnes a project as
+Uniqueness bias is what psychologists call the tendency individuals
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+have to think they’re more unusual than they actually are. In the ﬁeld
 
-1
+of project management, it manifests itself as the belief that projects are
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+one of a kind. This is partly a conscious choice, stemming from the view
+
+that when something is presented as unique and new, it’s more likely to
+
+attract support and funding. But the bias is also deeply entrenched in

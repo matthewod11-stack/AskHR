@@ -1,5 +1,7 @@
-# Are You a “Bottleneck Boss”?
-
-Three strategies to get out of your employees’ way. by Greg Alexander
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07YLQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9e4e0717e7bc1b92d1a3348625e79e4a1578e14
+title: H07YLQ-PDF-ENG
+---
+# Business Management

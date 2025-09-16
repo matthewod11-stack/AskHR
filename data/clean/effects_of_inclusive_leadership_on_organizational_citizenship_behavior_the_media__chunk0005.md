@@ -1,5 +1,7 @@
-## Author for correspondence: Suk Bong Choi, Email: sukchoi@korea.ac.kr
-
-© The Author(s) 2019. This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (http:// creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited.
-
-Effects of inclusive leadership on organizational citizenship behavior: the mediating roles of organizational justice and learning culture
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: cf925d63937482c3b513db3ca2b2b2749ea0457e
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# Keywords: inclusive leadership; organizational citizenship behaviors; organizational justice; organizational learning culture; Vietnam

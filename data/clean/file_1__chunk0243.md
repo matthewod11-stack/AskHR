@@ -1,11 +1,15 @@
-## Thesis. Tampere: Acta Universitatis Tamperensis 600.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 7503e5847e4ebbe87f657a42a2959c0f45b1fbc8
+title: file_1
+---
+# 59
 
-Korvajärvi, P., 2003. Doing Gender – Theoretical and Methodological Considerations. In: E.
+Knijn, T. and K. Kremer, 1997. Gender and the caring dimension of welfare states. Social
 
-Gunnarsson et al., eds, Where Have All the Structures Gone? Stockholm: Center for Women’s Studies, Stockholm University, 45–76.
+Politics, 4, 329-367.
 
-Kray, L., Thompson, L. and A. Galinsky, 2001: Battle of the sexes: Gender stereotypes and
+Korvajärvi, P., 1997. Working Within and Between Hierarchies. In L. Rantalaiho and T. Heiskanen, eds, Gendered Practices in Working Life. Macmillan Press Ltd.
 
-reactance in negotiations. Journal of Personality and Social Psychology, 80, 942-58.
-
-Krogerus, T. 1997. Minna Canth. 100 Faces from Finland. A Biographical Kaleidoscope. The
+Korvajärvi, P., 1998. Gendering Dynamics in White-Collar Work Organizations. PhD

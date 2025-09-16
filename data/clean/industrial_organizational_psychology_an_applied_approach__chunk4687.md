@@ -1,5 +1,9 @@
-## Independent variable, 20 Individual consideration, 459 Individual diﬀ erence
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 54e284161305fcd2261d8a12f27e9db113cd358c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## IMPACT theory, 448–451 Implied contracts, 274 Impoverished leaders, 444
 
-theory, 367 Individual dominance, 487 Individual-group conﬂ ict, 499 Individual-oriented roles, 485 Informal communication,
-
-412–413
+Inability to perform, 276 In-basket technique, 166, 180 Incentives-recruitment, 130 Incentives-training, 295 Inclusive listener, 426 Increasing Human Eﬃ ciency in Business, 6

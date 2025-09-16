@@ -1,9 +1,11 @@
-## gender. New York: Plenum Publishers, 215-227.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: bec3c3e92f7a8f44606c85635a454f125a2515fc
+title: file_1
+---
+## dominance. New York: Cambridge University Press, 31-57.
 
-Stone-Romero, E. and Stone, 2005. How do organizational justice concepts relate to
+Smith, A. and V. Rogers, 2000. Ethics-related Responses to Specific Situation Vignettes: Evidence of Gender-based Differences and Occupational Socialization. Journal of Business Ethics, 28 (1), 73-86.
 
-discrimination and prejudices? In J. Greenberg, and J. Colquitt, eds, Handbook of organizational justice. New Jersey: Lawrence Erlbaum, 339-469.
-
-Stroh, L., Brett, J., and A. Reilly, 1992. All the right stuff: a comparison of female and male
-
-managers' career progression. Journal of Applied Psychology, 77, 251-60.
+Stockard, J., 1999. Gender Socialization. In J. Chaftez, eds, The handbook of the sociology of

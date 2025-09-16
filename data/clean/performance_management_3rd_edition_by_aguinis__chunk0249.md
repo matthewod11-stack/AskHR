@@ -1,11 +1,11 @@
-## 1.8 PERFORMANCE MANAGEMENT AROUND THE WORLD
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 1c5626c026133d1e9a2f33caa21898a8af640ee3
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part I • Strategic and General Considerations
 
-Performance management is a global phenomenon and organizations all over the world are implementing various types of performance management systems. We will discuss examples of how systems are implemented in different countries. As a preview and to highlight the increasing importance of performance management globally, consider the following results from recent research relating to 10 specific countries:61
+Finally, there is an obvious relationship between performance management and compensation systems. Compensation and reward decisions are likely to be arbitrary in the absence of a good performance management system.
 
-- Performance management in Mexico. Performance management has become increasingly popular since the 1970s. For the most part, systems in Mexico are similar to those implemented in the United States. For example, the measurement of results (as discussed in Chapter 5) is quite pervasive. However, more research is needed for us to gain a better understanding of what types of systems would work best in Mexico.
-
-- Performance management in the United Kingdom. Performance management in the United Kingdom has been affected by several factors, including an emphasis on cost effectiveness and the developmental purpose of performance manage- ment. Performance management is gaining increased stature and significance given the more recent emphasis on talent management and total rewards manage- ment. As noted earlier, performance management provides critical information regarding the identification of top performers, which helps talent management, and critical information to be used in administrative decisions, including the allocation of rewards. Performance management in the United Kingdom is an established organizational practice and is clearly influenced by broader societal issues such as socioeconomic, political, and legal trends.
-
-- Performance management in France. Performance management in France faces unique contextual issues such as legal requirements to invest in employee training and development and the need to emphasize individual accountability. Once again, performance management systems are not implemented in a vacuum, and it is important to consider the broader environment when designing and imple- menting a system.
-
-- Performance management in Germany. Performance management in Germany has been affected by the established practice of long-term employment relation- ships. Thus, performance management systems emphasize long-term goals and usually do not have a short-term focus. In spite of this unique feature, systems share some similarities with France given their membership in the European Union, which provides a common legal framework for many labor-related issues.
+In short, performance management is a key component of talent management in organizations. It allows for assessing the current talent and making predictions about future needs both at the individual and organizational levels. Implementing a successful performance management system is a requirement for the successful implementation of other HR functions, including training, workforce planning, recruitment and selection, and compensation.

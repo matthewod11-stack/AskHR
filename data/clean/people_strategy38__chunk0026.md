@@ -1,17 +1,31 @@
-# skills and abilities
+---
+source_path: people_strategy38.md
+pages: n/a-n/a
+chunk_id: 0f1b74a69217be06177641cb38502834cd4cf897
+title: people_strategy38
+---
+## Decentralized Distribute authority widely across the organization
 
-- Set appropriate goals for individual perfor- mance
+Collaborative Believe that teamwork produces the best results
 
-- Challenge people with difficult but achievable goals
+Source: Towers Watson 2014 Managers and Stress Survey
 
-- Help employees to understand how organiza- tional changes will affect their jobs In cultures with high fulfillment potential, managers also get high scores for providing re- sources and support, reflected in how well they: • Ensure people have the logistical (for example, technology), collaborative (peer and manager assistance), and social (friendly work atmo- sphere) resources they need
+VOLUME 38 | ISSUE 3 | SUMMER 2015
 
-- Create a supportive team environment • Make themselves available to help solve prob- lems
+39
 
-• Give people meaningful performance feedback
+40
 
-PEOPLE + STRATEGY
+Managers who skillfully put these techniques to use create a social environment that nurtures and sustains high levels of personal and organizational health.
 
-Managers who perform well at handling the always-chal- lenging distribution of intrinsic and extrinsic rewards also help to move the cultural needle toward the people-oriented side of the dial. They get high scores from employees for effectively differentiating between high and low performers, making fair decisions about reward distribution and provid- ing liberal opportunities for people to learn and grow.
+Dealing with the Human Side In our survey of employees and their experiences of work- place stress, we discovered a number of gaps between the perceptions of current organizational culture and the cultural norms that define a high-fulfillment environment. The graph
 
-Moving from a high-stress culture to one in which people can thrive emotionally and psychologically also requires that individuals have significant self-determination in the work- place. People are more likely to thrive when they have the lat- itude to decide how best to do their work. Conversely, heavy micromanagement is well established as a cause of workplace stress. Managers who enable and support employee autono- my consistently demonstrate their willingness to: • Ensure people have the authority they need to do their
+Managers have great power to modify stressors and introduce stress-buffering conditions into the workplace.
+
+below shows, for the human aspects of culture, the relative magnitude and direction of change that employees believe would be required to transform the average organizational culture into its high-fulfillment alternative.
+
+than about 10 percent for any one element. But together, they define a set of culture movements that can make a significant difference in employ- ee well-being.
+
+Survey respondents signaled that the larg-
+
+est relative change would need to occur in the task-people element. Of the four manager performance areas, three in particular—calibrat- ing challenge; supplying resources and support; and providing a fair portfolio of rewards—can contribute to building a more people-oriented local work climate. In high-fulfillment cultures, for example, managers who excel at calibrating challenges receive favorability scores between the high 70s and high 80s (on a scale from 0 to 100) for their ability to: • Assign tasks that are well suited to individual

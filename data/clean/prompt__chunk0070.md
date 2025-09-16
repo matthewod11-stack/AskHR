@@ -1,13 +1,19 @@
-# higher costs.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 9ae115cdc0e747c90c84a8c80c980175c0238ffc
+title: prompt
+---
+# Prompt Engineering
 
-Sampling controls
+Reducing the output length of the LLM doesn’t cause the LLM to become more stylistically or textually succinct in the output it creates, it just causes the LLM to stop predicting more
 
-LLMs do not formally predict a single token. Rather, LLMs predict probabilities for what the
+tokens once the limit is reached. If your needs require a sho(cid:457) output length, you’ll also
 
-next token could be, with each token in the LLM’s vocabulary ge(cid:459)ing a probability. Those
+possibly need to engineer your prompt to accommodate.
 
-token probabilities are then sampled to determine what the next produced token will be.
+Output length restriction is especially impo(cid:457)ant for some LLM prompting techniques, like
 
-Temperature, top-K, and top-P are the most common con(cid:450)guration se(cid:459)ings that determine
+ReAct, where the LLM will keep emi(cid:459)ing useless tokens a(cid:454)er the response you want.
 
-how predicted token probabilities are processed to choose a single output token.
+Be aware, generating more tokens requires more computation from the LLM, leading to higher energy consumption and potentially slower response times, which leads to

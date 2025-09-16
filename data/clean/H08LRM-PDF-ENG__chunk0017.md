@@ -1,9 +1,11 @@
-# from burnout.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da5162a14b1c897e94b861d70eec4711cd5ad567
+title: H08LRM-PDF-ENG
+---
+## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
 
-The achiever. In 2018 Aarti, a community-organizer-turned-journalist,
+When people decide to take a sabbatical, they typically have one of three
 
-was at a career high point, working as a national correspondent for NPR.
-
-There was just one problem. She had a story that she felt she “needed to
-
-tell in order to keep living”: the tale of her immigrant father’s wrongful
+goals in mind: to get things done, to answer big questions, or to recover

@@ -1,21 +1,11 @@
-# normal.
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af9dd5a6521fb29ab29740f57f5f52c25893f6d5
+title: H07SAC-PDF-ENG
+---
+## paper, so you can share them with your team members, and reinforce
 
-- 4. Use the fresh start effect to set new habits and routines.
+the beneﬁts of your time away. If the trip left you feeling in a rut, maybe
 
-The fresh start eﬀect is the phenomenon of increased success in
-
-behavioral change associated with new beginnings, such as birthdays,
-
-the new year, and other milestones. You can harness this eﬀect by using
-
-your return to work as an opportunity to reset.
-
-Coming back from a vacation is a good time to establish new practices
-
-that further enhance your energy and productivity, like exercising,
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you can ﬁnd solace in the fact that you’re home again getting back to

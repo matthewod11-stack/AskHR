@@ -1,13 +1,13 @@
-# the world of work.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70bc42b54ced6c9fd86e8044de8cc0c6725fa8be
+title: H07SHV-PDF-ENG
+---
+# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
 
-ARTHUR C. BROOKS:
+ADI IGNATIUS:
 
-Absolutely. And the truth is that the book is based on a lot of the things
+I don’t want to steal any thunder from the book tour, but I want to talk
 
-I’ve been teaching at the Harvard Business School, a class I teach called
-
-“Leadership and Happiness”, which is a very oversubscribed class. It has
-
-180 in the seats, 400 on the waiting list, and there’s even a secret Zoom
-
-link they think I don’t know about. I’m happy to talk about what I talk
+about aspects of your research and insights, particularly as they relate to

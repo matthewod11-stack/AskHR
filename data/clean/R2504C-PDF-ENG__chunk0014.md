@@ -1,23 +1,23 @@
-# everything.
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e918dc61b63e406b600a423f08323f97e257076
+title: R2504C-PDF-ENG
+---
+# with generative AI.
 
-You seem optimistic about all this. Is there any part of you that thinks, Uh-oh, if we’re not careful, there may be dire, unintended consequences?
+Let’s play the projection game. In 10 years how will AI remake business?
 
-I’m an optimist by nature, and I’m an optimist about this technology.
+I think almost every experience that we can imagine will be better. It
 
-I also think that you can’t stop the progress of technology. You have to
+doesn’t mean there won’t be people working on these things. Humans
 
-ﬁgure out how to use it productively—for great customer experiences
+will work in conjunction with AI agents—especially in areas where
 
-and for societal good. The pace of this transition may be quicker
+their unique capabilities and IQ can add value—but all the experiences
 
-than other technology transitions. So we have to make sure that we’re
+will be better. Great AI personal assistants will be accessible to almost
 
-being responsible about the way the algorithms and models work.
+everyone. Robots will do a lot of the work that today isn’t safe or
 
-The demand for software developers will go up exponentially with the
-
-advent of new coding apps that allow you to use natural language to
-
-describe what you want to build. It’s going to be very empowering,
-
-but we have to make sure our education keeps up so that people are
+that could cause injury from repetitive motion. It’s going to change

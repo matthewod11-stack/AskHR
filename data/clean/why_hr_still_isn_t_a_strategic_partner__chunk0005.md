@@ -1,9 +1,7 @@
-# Why HR Still Isn’t a Strategic Partner
-
-https://hbr.org/2012/07/why-hr-still-isnt-a-strategic-partner
-
-2/4
-
-To truly be partners to the business we must identify those criticalpoints of the business where the strategy succeeds or fails, andprovide relevant talent solutions. In other words, we must thinkin terms of what Brian E. Becker, Mark A. Huselid, and Richard W.Beatty call “
-
-the differentiated workforce,” in their book of thesame name. That means managing talent as a portfolio ofinvestments, some of which will pay a much higher return thanothers. Instead of spending an equal amount of time, attentionand resources on everyone equally, you make disproportionateinvestments in the most critical roles and critical people — notjust in terms of compensation, but in terms of development,opportunities, retention, engagement, and human capitalplanning. All jobs in a business unit are important, but not all arestrategic and have maximum impact on the economic value of thebusiness.Many business units spend time each year identifying talent andcompetency needs, but few get real about it by developing plansaround winning in their critical talent spaces. Let’s say you have,in your opinion, spent the appropriate amount of time identifyingyour strategic talent needs — the difference-making roles. Thenask yourself how much time you and your HR team and lineleaders spend focusing on solutions for acquiring, developing,engaging and retaining the talent to fill those needs? Or do youhave the “equality” mentality — devoting the same amount ofattention to everyone? It’s shocking how many HR leaders saythat their business has a strategic priority such as acceleratinggrowth in emerging markets, but they and their teams spend littletime in emerging markets. Does your investment of time andresources match your business strategy? If not, you are creatingfriction in the business that diminishes strategic impact.
+---
+source_path: why_hr_still_isn_t_a_strategic_partner.md
+pages: n/a-n/a
+chunk_id: b110e0dc84dbe4b6b6443ae627fef07c22919519
+title: why_hr_still_isn_t_a_strategic_partner
+---
+# 8/22/25, 11:06 AM

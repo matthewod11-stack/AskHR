@@ -1,17 +1,21 @@
-# impact.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: f070ffb2e88e77c4568f4af5ee3876ae5cde07c8
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# C
 
-Many performance problems can occur because of inadequate or inappropriate
+managers seek to maximize the performance or an already satisfactory employee. Wise
 
-training, ineffective performance evaluations , lack of supervision , lack of a clear mission
+(1996) further states that if there is an opportunity for an employee to identify a solution
 
-and goals for the organization , or a supervisor who may lack the skills appropriate to deal
+or arrive at a solution in concert with the supervisor, it maintains self-esteem and
 
-with employee performance related issues. The author concludes that many angles can be
+attachment to the organization. Feedback can lead to identifying training needs specific
 
-taken to develop a proper plan to improve employee performance. Developing an
+to the job, solutions, job rotation or termination . Feedback also has to be specific and
 
-effective performance evaluation system directly improves performance through ongoing
+attainable if goals and objectives are set forth to the employee. Empioyees need to feel
 
-monitoring , which contributes to increased productivity and encourages personal growth.
-
-17
+that they have a significant influence over the change process rather than a symbolic

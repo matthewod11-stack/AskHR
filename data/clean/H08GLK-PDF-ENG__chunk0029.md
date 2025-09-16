@@ -1,11 +1,27 @@
-## HBR / Digital Article / High Performers Need Feedback, Too
+---
+source_path: H08GLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 728caf79a003f6f1973b1e19cbe25b73526fb74e
+title: H08GLK-PDF-ENG
+---
+# groups.
 
-feedback that labels them with negative terms like “unlikable” or “diﬃcult.”
+Research on feedback internalization found high-performing women
 
-Research also found that 42% of Black employees recall being called
+are seven times more likely to internalize negative stereotypes such
 
-“unlikable” in feedback, while white employees are two times more
+as “being too emotional at work,” which can limit their conﬁdence
 
-likely to be called “likable” over any other group at work. These
+and career growth. Another study on women in leadership roles found
 
-labels can undermine even the most talented individuals and reinforce
+that stereotype threat can lower women’s perceived leadership abilities
+
+and prevent them from pursuing those kinds of roles. Additionally,
+
+underrepresented high performers are more likely to receive biased
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

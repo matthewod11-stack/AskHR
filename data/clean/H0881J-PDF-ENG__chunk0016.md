@@ -1,7 +1,15 @@
-# openness and transparency.
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b396de2adfa88af9e4924352d5d3bdeb6aa53305
+title: H0881J-PDF-ENG
+---
+## Solicit insights from various stakeholders and cross-functional team
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+members in order to provide the employee with a more comprehensive
 
-3
+understanding of the situation. Doing so not only gives the employee
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a broader spectrum of viewpoints to consider — it demonstrates your
+
+commitment to fairness and inclusivity and fosters an environment of

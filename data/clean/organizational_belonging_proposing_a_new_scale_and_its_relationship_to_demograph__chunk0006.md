@@ -1,5 +1,15 @@
-## Gary Blaua, Daniel Goldberga, and Diana Kyserb
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: ed39a55ff0b5554c2467dc7c62e90e3ec72a8de7
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# View Crossmark data
 
-aFox School of Business, Temple University, Philadelphia, Pennsylvania, USA; bSWK Technologies, East Hanover, New Jersey, USA
+Citing articles: 6 View citing articles
 
-ABSTRACT In view of literature review covering a Organizational Belonging (OB) and related constructs was done, and indicated the lack of a perceived OB scale, codified under one measure. OB was defined as “experiencing an acknowledgment of one’s talents, interests and experiences, and finding whole acceptance of one’s self expression of the- se.” Using a sample of 141 employees, twenty-seven OB items were adapted from three sources: prior quantitative work, prior qualitative work, and a survey on Diversity and Inclusion (American Institute for Certified Professional Accountants). Factor analytic support was found for a four-scale, 16-item OB measure. The four scales were labeled Be Myself (seven items), Acceptance (four items), Value Diversity (three items) and Connection (two items). Additional open-item analyses corro- borated the validity of these scales. All four OB scales demon- strated sufficient reliability and distinctiveness from each other. These results validated the OB definition. After control- ling for demographic and organizational variables, Be Myself had a significant impact on productivity and Acceptance had a significant impact on intent to stay. Future research testing this OB scale is needed, given the recent changes in the work- place, including remote work, retaining current staff, and hir- ing for unfilled positions.
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=wjwb20
+
+JOURNAL OF WORKPLACE BEHAVIORAL HEALTH 2023, VOL. 38, NO. 3, 226–253 https://doi.org/10.1080/15555240.2023.2178448
+
+RESEARCH ARTICLE Organizational belonging – proposing a new scale and its relationship to demographic, organization, and outcome variables

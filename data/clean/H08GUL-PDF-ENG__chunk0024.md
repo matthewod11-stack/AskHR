@@ -1,9 +1,9 @@
-# RM
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a89cd3681df7e3a0ecac41038e0922b215101be8
+title: H08GUL-PDF-ENG
+---
+## HBR / Digital Article / How 3 Companies Are Using AI to Mimic Expert Judgement
 
-Roger Moser serves on the faculty at Macquarie University, IIM Udaipur, and the University of St. Gallen, specializing in Decision Intelligence and Digital Business Model Innovation. With a focus on the intersection of advanced digital technologies and business strategy, he frequently advises industry leaders and policymakers on leveraging these technologies to enhance organizational decision-making. He authors a monthly newsletter, Decision Model Innovation, where he explores cutting-edge trends in this evolving ﬁeld.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Graham Kenny is the CEO of Strategic Factors and author of Strategy Discovery. He is a recognized expert in strategy and performance measurement who helps managers, executives, and boards create successful organizations in the private, public, and not-for-proﬁt sectors. He has been a professor of management in universities in the U.S. and Canada.

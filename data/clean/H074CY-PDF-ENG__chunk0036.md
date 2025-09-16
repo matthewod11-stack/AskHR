@@ -1,13 +1,13 @@
-# strategic imperatives.
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e6baf66be4c8b2f629f24c6a67a1debc86d3bca
+title: H074CY-PDF-ENG
+---
+# Look for patterns.
 
-For example, in a ﬁrm facing a complex technical sale with a 24-to-30-
+Regular follow-up also provides managers with the opportunity to look
 
-month selling cycle, the VP of sales detected the following pattern that
+for patterns and create a virtuous cycle of assessment and investment
 
-emerged from reviews: It was taking nine to 12 months to complete the
-
-trial or proof-of-concept portion of the selling task — a cash-drain for
-
-a VC-funded startup. He also saw commonalities in what reps said that
-
-customers wanted in trials. So, the ﬁrm developed a platform that took
+by potentially reallocating money, time and people to align better with

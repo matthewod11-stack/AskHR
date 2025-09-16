@@ -1,23 +1,23 @@
-## HBR / Magazine Article / Why Entrepreneurs Should Think Like Scientists
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6909c6d0d58bbe65f01e9876be417fe6c0c9e511
+title: F2404A-PDF-ENG
+---
+## like the Business Model Canvas, the Balanced Scorecard, and more.
 
-revenue generators in the experiment, the diﬀerences were especially pronounced. Among the top 25%, start-ups using the scientiﬁc method
+But in a recent study involving young ventures in Europe, one
 
-generated €28,000 more than the control companies did over the course
+technique consistently boosted performance. Firms employing the scientiﬁc method—the centuries-old discipline of formulating, testing,
 
-of the experiment, on average, and among the top 5%, they made
+and tweaking hypotheses—generated more revenue than companies in
 
-€492,000 more.
+a control group did and were more likely to pivot away from unviable
 
-“We started this research by asking ourselves, Why do so many
+ideas, a routine necessity for early-stage start-ups. And among the top
 
-start-ups fail?” says Alfonso Gambardella, a professor of corporate
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-management at Bocconi University who is one of the study’s authors.
+1
 
-“After discussing the problem, we realized that many entrepreneurs
-
-were not very good at making predictions about their business. And this
-
-hurt them when it was time to make important decisions.”
-
-For the study, Gambardella and colleagues recruited 759 start-ups by
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

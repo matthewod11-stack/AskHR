@@ -1,9 +1,7 @@
-# HBR Staff
-
-When members of multidisciplinary teams are asked to describe their
-
-colleagues, many will say their peers are collegial, professional, and
-
-accomplished. While we would all love to be on a team that’s not
-
-dysfunctional, behind this insipid description lurks a peril that is far
+---
+source_path: H06GCB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea4e4b90b760f2cae13144a16c2c3a668f879dfb
+title: H06GCB-PDF-ENG
+---
+## Published on HBR.org / July 26, 2021 / Reprint H06GCB

@@ -1,15 +1,27 @@
-## HBR / Magazine Article / The Middle Path to Innovation
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7163201c5ad79932518519392597cf674da0c460
+title: R2404K-PDF-ENG
+---
+## fall victim to corporate cost-cutting, and a predetermined transfer price
 
-By externalizing innovation in this way, corporations reap several
+assures the accelerator of an excellent return in the event of success.
 
-beneﬁts. First, they gain access to new products more quickly and with
+The company and the accelerator may have either a shared board or
 
-lower risk than they would using typical internal R&D eﬀorts. They also
+independent boards, but the board structure should attain a balance
 
-can reduce their dependence on M&As, which often fail. In addition, the
+between strategic alignment and operational independence. What’s key
 
-model increases the likelihood that a good idea gets commercialized:
+is that the accelerator’s management team should collaborate with but
 
-Unlike a venture-backed start-up, which builds a product that needs
+not report to the company’s leadership when crafting strategy and
 
-to appeal to many potential buyers, the accelerator develops growth
+planning new products.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

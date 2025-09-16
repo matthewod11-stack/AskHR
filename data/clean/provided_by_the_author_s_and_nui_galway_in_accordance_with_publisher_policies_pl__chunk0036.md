@@ -1,63 +1,31 @@
-# performers, out of the organisation (Michaels, Hadfield-Jones and Axelrod, 2001). We
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 68ef8dc751df4db8cb93d382f08434fde68e6423
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## Ramstad, 2008; Huselid, Beatty and Becker, 2005).
 
-do not advocate the former approach as it is inconsistent with our call for a differentiation
+The second element of our definition emphasises the development of a talent
 
-between key roles and key talent in organisations. It is neither practical nor desirable to
+pool of high potential and high performing incumbents to fill the roles that differentially
 
-fill all positions in an organisation with A performers. This would result in an over-
+contribute to an organisation’s sustainable competitive advantage. In line with the first
 
-investment in non-pivotal roles in the organisation. Similarly, we posit that the focus of
+aspect of our definition we also argue that organisations should differentiate between
 
-talent management systems should be on high-potential and high-performing employees
+employees who are strategic performers and those who are not. In order for strategic or
 
-operating in key roles and not all employees in the organisation. Such an approach will
+pivotal jobs to have a differential impact on organisational performance, it is important
 
-facilitate a more deliberate utilization of organisation resources
+that such jobs are filled with high performing or high potential employees. This view
 
-The final element of our definition recognises the importance of differentiated
+stands in contrast to some of the earlier contributions which argued that all roles within
 
-human resource architecture to facilitate the filling of key positions within the
+the organisation should be filled with “A performers”, referred to as “topgrading” (Smart,
 
-organisation with competent incumbents and ensuring their continued commitment to the
+7
 
-organisation. We draw insights from the strategic human resources literature in this
+1999). It also differs with the approach advocated by the McKinsey consultants behind
 
-regard (Becker and Huselid, 2006; Huselid et al, 2005; Lepak and Snell 1999; 2002).
-
-This element of our definition overlaps with the other two elements by facilitating the
-
-identification of high potential and high performing employees, and the helping in the
-
-development of the organisation’s talent pool. Once identified, the challenge for the
-
-organisation is to deploy appropriate human resource policies to ensure these individuals
-
-are strategically deployed and supported with appropriate HR policies.
-
-Clarifying the conceptual boundaries of strategic talent management represents
-
-an important task in the development of the topic. It provides a frame of reference for
-
-academics and practitioners in developing research in the field. It is also important in
-
-8
-
-helping to differentiate strategic talent management from strategic human resource
-
-management. In this regard we argue that in contrast to strategic human resource
-
-management, which while recently recognising the differing contribution of different
-
-groups of employees within the firm, generally focuses on all employees within an
-
-organisation; strategic talent management focuses on those incumbents who are included
-
-in the organisation’s pivotal talent pool and who occupy, or are being developed to
-
-occupy, pivotal talent positions. Finally a clear definition presents a useful point of
-
-departure in developing theory in the field. We now proceed to present a theoretical
-
-model of strategic talent management which draws insights from a number of distinct but
-
-interrelated research streams.
+the war for talent approach who advocate managing “C players”, or consistently poor

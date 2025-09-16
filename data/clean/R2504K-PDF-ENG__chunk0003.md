@@ -1,7 +1,17 @@
-## good: Research by entrepreneurship expert Noam Wasserman and
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95315df6553f05fa81a84c3e3e9694d0861ac02e
+title: R2504K-PDF-ENG
+---
+# Gerrard Gethings
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+One of the ﬁrst and most important decisions entrepreneurs make is
 
-1
+whether to go it alone or bring on cofounders. Many investors favor
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+startups with multiple founders, believing that a team reduces business
+
+risk by diversifying skills, sharing responsibilities, and preventing
+
+burnout. But forcing a cofounder relationship can do more harm than

@@ -1,27 +1,13 @@
-# economic and reliable delivery option?
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed7661235c394bba09d463b8dd2c19a100f80998
+title: R2502D-PDF-ENG
+---
+## HBR / Magazine Article / Precedents Thinking
 
-Search. To develop a deeper understanding of that challenge, the
+demand to justify building their own infrastructure. That research led
 
-members of the DoorDash team took part-time jobs as drivers for
+the students to deﬁne the challenge they wanted to tackle: How can we
 
-Domino’s, which had a long history of oﬀering a well-regarded delivery
-
-service. They discovered that a key obstacle for the Domino’s model was
-
-extreme variability in demand. On some days drivers would be paid to
-
-do nothing because few orders came in; on other days high demand
-
-resulted in late deliveries and upset customers.
-
-One advantage of precedents thinking is that it produces big ideas that don’t require a leap into the unknown and thus feel less risky.
-
-Next the students took part-time jobs as FedEx drivers. They soon
-
-recognized that FedEx’s optimization of driving routes was critical to
-
-delivering packages economically within speciﬁed delivery windows.
-
-Finally, they read up on Uber, a then-exploding Silicon Valley startup
-
-with a transportation model that relied on gig workers and thus could
+enable independent restaurants and bakeries to offer their customers an

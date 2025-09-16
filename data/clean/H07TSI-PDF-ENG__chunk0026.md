@@ -1,15 +1,19 @@
-## HBR / Digital Article / Does Your Hybrid Strategy Need to Change?
+---
+source_path: H07TSI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c3507d684880e5dd38755abb6a498f237790d033
+title: H07TSI-PDF-ENG
+---
+## Invest in Building a New Managerial Muscle
 
-However, this orchestration requires two new managerial muscles.
+The orchestration of these factors needs to come from managers —
 
-The ﬁrst is one that was not needed before Covid, when work was
+those at the front line, working with the teams. They are closest to the
 
-done in the oﬃce by default, nor during Covid, when remote work was
+needs of the work, the people, and how that work gets done.
 
-predominant for many oﬃce-based professionals. Managers now need
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-to facilitate discussions with and align their teams on where, when, and
+6
 
-how work gets done. They need to hold weekly retrospectives on what
-
-worked, what didn’t, and what to change in how they work the next
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,29 @@
-# say, the white-collar workforce?
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1eb88e7716c7ae0c8c81743aa68e5d36e8a68add
+title: H07T7V-PDF-ENG
+---
+# an easy process.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+I think a lot of companies who get interested in what Silicon Valley
 
-20
+does diﬀerently or might want to embrace the geek way are going to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁnd it hard going because a lot of it is unnatural and uncomfortable.
+
+Challenging your boss in a meeting in most circumstances is
+
+uncomfortable, until it becomes a norm, until it becomes what people
+
+around you expect.
+
+ADI IGNATIUS:
+
+I can’t let you go without talking a little bit about generative AI. You
+
+have an article in the next issue of HBR on how businesses can most
+
+eﬀectively capitalize on the technology. What is your thinking, your
+
+quick overview, on the utility of GenAI, and its likely impact on, let’s

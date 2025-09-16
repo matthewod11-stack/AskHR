@@ -1,17 +1,25 @@
-## languages with attention to cultural nuances.
+---
+source_path: H07BSP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19d895047d4c0513d5d67c6ece31198c2bf30a77
+title: H07BSP-PDF-ENG
+---
+# answer.”
 
-Topics ranged from goal-setting and problem-solving to coaching and
+- 2. Change Management
 
-performance reviews. In the simulations, managers met a range of reps with diﬀerent personalities, capabilities, and challenges. Some
+Dealing with change was a challenge facing Merck in upskilling
 
-are demotivated, while others have diﬃculties getting client meetings,
+650 frontline sales managers in its Healthcare Business. Speed was
 
-managing sales conversations, or handling scenarios like a breach of
+important: In this business, a patent clock is ticking, so time and money
 
-client data. The simulations are played on managers’ laptops, and
+are closely correlated. More generally, studies indicate that “I’m too
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+busy” is the most frequently cited barrier to managerial participation
 
-5
+in training. The ability to deal with diverse buying and regulatory
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+circumstances was important, too: the initiative involved 40 virtual-
+
+reality simulations for managers across 65 countries, translated into 7

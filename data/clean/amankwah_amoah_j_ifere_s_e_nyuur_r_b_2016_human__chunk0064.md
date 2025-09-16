@@ -1,29 +1,25 @@
-# Discussion and implications
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 5827a94b177718e0242c331fca8383bd88102adf
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Cost of training
 
-The primary question that we have addressed in this study is why firms persist with
+Our analysis also indicates that the costs of training and relational ties are some of the reasons
 
-underperforming workers. Drawing on insights from two emerging economies in Africa:
+why firms persist with such workers. For many small businesses, the high costs of training
 
-Ghana and Nigeria, we uncovered that persistence with underperforming workers stems from
+and recruiting well-educated workers have forced them to keep some underperforming
 
-factors such as information hoarding, favouritism through tribalism, “idiosyncrasy credit”,
+workers, as illustrated in Table 4.
 
-externally imposed constraints and escalation of commitment. Interestingly, we have
+------------------------------ Insert Table 4 about here ------------------------------
 
-uncovered evidence to advance the notion that ethnic ties and tribalism play an influential
+The study suggests that, cumulatively, persistence with underperforming workers stems not
 
-role in the decision by managers to persist with underperforming workers. Another broad
+only from external forces but also internal factors such as relational ties and idiosyncrasy
 
-category of sources of persistence stems from the emotional bond created between
+credits, as depicted in Figure 1.
 
-supervisors and subordinates. The existence of such ties constrained managers’ ability to act
-
-in the face of persistent poor performance. It also stems from firms’ attempt to gain and retain
-
-24
-
-political ties and “special privileges”. In addition, we uncovered that outside the work
-
-environment, some of such workers are utilised as a means of gaining legitimacy and
-
-cultivating trust with the local politicians.
+------------------------------ Insert Figure 1 about here ------------------------------

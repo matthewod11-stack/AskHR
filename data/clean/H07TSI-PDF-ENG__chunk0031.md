@@ -1,9 +1,15 @@
-## digital and GenAI tools at their disposal.
+---
+source_path: H07TSI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e37591cb355c38b598a7f3e0fd2760e14b8fbcb
+title: H07TSI-PDF-ENG
+---
+## HBR / Digital Article / Does Your Hybrid Strategy Need to Change?
 
-While it may be easier to follow the crowd and issue blanket return-to-
+In short: Instead of setting top-down mandates and expecting frontline
 
-oﬃce policies, the potential upside of implementing thoughtful changes
+managers to enforce them, leaders ought to focus on empowering those
 
-based on the four categories above is not only worth it — it will soon
+managers to co-create ways of working with their teams that are best
 
-become an imperative for businesses that want to create and sustain
+suited to the needs of the people and the work they do, as well as the

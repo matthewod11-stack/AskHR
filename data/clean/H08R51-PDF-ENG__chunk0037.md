@@ -1,13 +1,39 @@
-# support across teams.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 838c970ab6409d71776df62177b1edca999e7342
+title: H08R51-PDF-ENG
+---
+## address early warning signs of stress and overwork. These signals
 
-What happens next is equally important: Leaders must share the results
+can include employees working while visibly unwell, consistently
 
-transparently and take visible, timely action, such as adjusting project
+sending late-night emails, or hesitating to take needed sick leave.
 
-timelines, reassigning tasks, or oﬀering temporary support during peak
+Managers can be trained to intervene early through strategies such as
 
-periods. These ongoing feedback loops can reduce presenteeism and
+redistributing tasks, oﬀering temporary ﬂexible schedules, and creating
 
-burnout as well as build trust by showing employees that leadership is
+clear delegation plans to ease workload pressures.
 
-listening and responding continuously—not just once.
+A comprehensive study analyzing data from more than 7,000 U.K. ﬁrms
+
+between 2020 and 2023 found that organizations that provide line
+
+managers with training in mental health awareness were signiﬁcantly
+
+less likely to report presenteeism among their employees. Managers
+
+who learned to recognize stress indicators and act early helped reduce
+
+employee burnout and improved overall organizational well-being.
+
+- 3. Build ongoing feedback and response mechanisms.
+
+While initial diagnostics highlight structural imbalances, ongoing
+
+feedback loops help leaders monitor how demands and resources shift
+
+over time and help them respond before issues escalate. Implement
+
+brief, recurring surveys to track workload, ﬂexibility, and perceived

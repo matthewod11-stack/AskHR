@@ -1,5 +1,9 @@
-# Data Sources
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 18fef5f5ed2a6f8ca5eb9451ad1f7d88affde94a
+title: fast_track_art_i_c_l_e
+---
+# Study Design
 
-All data for the study were provided by a national provider of EHM programs (Vendor). Three data sources, individual-level HA survey data, employer-level EHM program design data, and individual-level health coaching program participation data, were combined for this study.
-
-Behavior change was measured using a validated HA con- sisting of 47 items, with the survey administered annually as a paper-based or a Web-based format to employees.36 Each employer determined its own HA administration period, typically in conjunc- tion with health beneﬁts enrollment or the start of the calendar year. For the employers included in this study, the baseline HA period ranged from January 4, 2007, through December 31, 2008, and the follow-up HA period ranged from June 1, 2008, through August 31, 2009. At the individual level, the average amount of time between the baseline and follow-up HA was 11.9 months.
+To account for the use of nested study variables, this study re- liedonamultileveldesignthatincorporatedbothindividual-leveland company-level measures. At the individual level, a cross-sectional design that assessed the independent inﬂuence of age and sex on telephone-based coaching program (coaching) enrollment andactive participation in coaching was used. For a portion of the individual- levelanalysis,thecross-sectionaldesignwasextendedtoalongitudi- nal design that incorporated an assessment of behavior change over time. The individual-level models were then analyzed at a granular companylevel,withtheindividual-levelresultsoverlaidontoorgani- zational characteristics that described the health promotion program unique to that organization and the organizational environment of the company because it relates to health and wellness promotion.

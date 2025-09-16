@@ -1,19 +1,37 @@
-# Gain perspective.
+---
+source_path: H074IE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2ef4d6c822228e838d04873880576c02b8c8868
+title: H074IE-PDF-ENG
+---
+# HBR / Digital Article / Expecting a Bad Performance Review? Here’s How to Prepare.
 
-If you sense your teammates are frustrated with you, don’t avoid the
+- Why do I think I will get a poor review, and why now?
 
-issue or guess — ask them before it’s too late! Addressing the situation
+- What specific results did I commit to that I didn’t deliver?
 
-prior to your review can remove this red flag from your record. This
+- How does my current performance compare to the past?
 
-situation happened to one of my coaching clients, who was frequently
+- Did I have an interaction with a client or coworker that did not go as I
 
-late on deliverables and failed to alert her team. Worse yet, she tended
+planned? What happened? Why?
 
-to blame her delays on external circumstances, such as not receiving the
+These questions and your answers will enable you to focus on the
 
-information she needed on time instead of searching it out.
+specific work you need to do to improve rather than on an amorphous
 
-If you’re not sure how your team perceives your contributions,
+goal. For example, did you commit to meeting X goal by Y date and
 
-executive and team coach Jennifer Porter suggests asking your
+failed to do so? If so, is it possible to address this shortfall now and make
+
+amends, showing your boss that you’re capable of graciously correcting
+
+an error in a timely manner? By asking yourself Littlefield’s questions,
+
+you may also discover that you’ve erroneously assumed that there’s a
+
+problem when in fact, there’s no tangible justification for your fears.
+
+If you found that your assumptions were off base, it may be that your
+
+self-awareness needs a tune-up.

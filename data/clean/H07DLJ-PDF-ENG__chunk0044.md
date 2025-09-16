@@ -1,25 +1,69 @@
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f46ea98ff927d063e5b5d064205f425a6bdcd719
+title: H07DLJ-PDF-ENG
+---
 # HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
-That doesn’t mean that we can’t change things. One of the things I
+particularly diﬃcult for women to break in, to rise. She’d love to hear, is
 
-did and advocated for across the entire industry was removing the
+there progress there? Or what needs to happen there? It seems to be a uniquely diﬃcult environment for women these days.
 
-computer science requirement. I advocated for removing the technical
+DEB LIU:
 
-degree, the technical interview. And over time you see more people
+I founded a non-proﬁt called Women in Product, and part of it was that
 
-of diverse backgrounds actually entering the ﬁeld. So each individual
+I started out in a ﬁeld, product management, and these are the people
 
-person, we can make a diﬀerence. We can change the arc of history. You
+who decide what products you see, what apps were on your phone,
 
-don’t have to be very senior to do that. I did that when I was actually a
+how things are designed across hundreds of companies, thousands of
 
-relatively junior employee. And so there are things that we can do, but
+companies where you interact with their products. It’s the product
 
-it’s going to take time and it’s going to take people saying, “This is the
+manager who actually sets the roadmap and what gets launched. And
 
-set of problems and here’s how we’re going to solve it.”
+when I started in that ﬁeld, it was 50/50 men and women. And then
 
-ADI IGNATIUS:
+somewhere along the way I woke up one day and it was less than
 
-That is a great note to end on. Deb Liu, thank you very much for being
+10% women, and I just did not know what happened. And I spent
+
+years looking into it and we realized that, at some point in 2004,
+
+Google decided they wanted their product managers to have a computer
+
+science degree. And less than 20% of computer science degrees are
+
+earned by women.
+
+So you’re probably wondering why I’m telling you the story. Well,
+
+basically, we went from a ﬁeld where there were lots of women, lots
+
+of diverse voices, to many fewer diverse voices. And so while we think
+
+we’re making progress, sometimes we see setbacks as well. And then we
+
+have to work our way back up towards more equality. But something
+
+interesting happens. Amongst the ﬁeld of product management, that is
+
+also where future founders come from. That’s where they fund people
+
+with ideas because these are builders. And so, again, you see fewer
+
+startups getting funded and all women teams only make up 3% of VC
+
+funding whereas even with mixed teams, men and women, it’s about
+
+18%. So you can’t tell me that 82% of the best ideas in the world are from
+
+one gender because that’s not true. So we still have a lot of work to do.
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+21
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

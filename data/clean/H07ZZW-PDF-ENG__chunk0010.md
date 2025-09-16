@@ -1,9 +1,31 @@
-## balance the interests of all their stakeholders, not just shareholders.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee0160746634246990acdc2cccb97e7b162613c5
+title: H07ZZW-PDF-ENG
+---
+## on social media — or directly to reporters.
 
-Experts have told executives that employees and the general public
+The messy reality is that employee and corporate speech have
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+intersected in uncontained ways that make internal organizational
 
-2
+conﬂict inevitable. Relying on even the most seasoned communications
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+team to craft a convincing story about your corporate responsibility eﬀorts no longer suﬃces in this fast-moving, interconnected, image-
+
+dominated, “gotcha” era — not when voices from inside a company
+
+can quickly pierce its neat and glossy narrative. And as a broader,
+
+far less legalistic idea of “business ethics” emerges in the workplace,
+
+the traditional approach, which treats whistleblowing solely as a
+
+compliance mechanism, has become obsolete.
+
+Corporate leaders have wound up embroiled in complex questions
+
+about whom they represent — and on what basis. The Business
+
+Roundtable and other inﬂuential voices have called on businesses to

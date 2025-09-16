@@ -1,47 +1,25 @@
-# Encourage self-compassion
+---
+source_path: H06XKY-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: ff86484b7d0308feb49bd265ee0a11a39e085bff
+title: H06XKY-PDF-ENG (1)
+---
+## HBR / Digital Article / How to Be a Supportive Manager When Times Are Tough
 
-Some of your team members may be looking around and wondering
+directly address the issue, acknowledging that people may be on edge
 
-how their colleagues are keeping it together while they’re losing sleep.
+and that things are uncertain. At the same time, you should avoid
 
-Encourage them to have some self-compassion and acknowledge that
+brooding, where you get stuck in a negative spiral. Acknowledge how
 
-stress is a normal, physiological response to feeling out of control or
+people are feeling, but then “move on to talk about how you want to
 
-threatened. “Help staﬀ recognize that change can bring about a lack
+act as a team,” David says. You can do this by asking, “How do we want
 
-of agency,” says David, which can send our brains and bodies into
+to treat one another during these times?” Members might agree that
 
-overdrive. If you’re feeling stressed, admit it, or talk about previous
+they want to continue delivering a quality product to clients while being
 
-situations in which you’ve felt anxiety, so they know they’re not alone.
+respectful and kind to one another, for example. “It helps a team stay grounded when you reassert and reaﬃrm a shared sense of purpose,”
 
-Ask people what they need
-
-Talk with employees one-on-one and let them describe what they’re
-
-going through. Do some “perspective-taking by putting yourself in
-
-their shoes,” says Fernandez. You want to “truly understand what they
-
-think and feel, even if you don’t agree or feel the same thing.” This
-
-empathy forms the basis of trust so that you can move into problem-
-
-solving mode. And don’t assume that everyone needs the same things.
-
-Fernandez suggests saying, “It’s a tough time for many people. What
-
-would be most helpful at the moment? Let’s think about it together,
-
-because I want to help and make sure you can navigate the current
-
-challenges so you can be your best.” Maybe they need some extra
-
-guidance on how to reduce distractions or advice on re-prioritizing their
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+says David.

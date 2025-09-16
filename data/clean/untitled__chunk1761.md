@@ -1,5 +1,11 @@
-## tus examination. New York: Oxford University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f324ab1b925e5f904a43648b0d3a72fee78383cc
+title: untitled
+---
+# Houghton Mifﬂin.
 
-Viglione, D. J., & Hilsenroth, M. J. (2001). The Rorschach: Facts, ﬁctions, and future. Psychological Assessment, 13, 452–471. Ward, L. C. (1990). Prediction of Verbal, Performance, and Full Scale IQs from seven subtests of the WAIS–R. Journal of Clinical Psychology, 46, 436–440.
+Thorndike, R. L. (1959). The California Psychological Inventory: A review. In O. K. Buros (Ed.), Fifth mental measurements yearbook (pp. 742–744). Highland Park, NJ: Gryphon Press. Thorndike, R. L., Hagen, E. P., & Sattler, J. M. (1986). Stanford- Binet Intelligence Scale: Guide for administering and scoring the 4th ed. Chicago: Riverside.
 
-Watkins, C. E., Jr., Campbell, V. L., Nieberding, R., & Hallmark, R. (1995). Contemporary practice of psychological assessment by clinical psychologists. Professional Psychology, 26, 54–60. Wechsler,D.(1939).Measurementofadultintelligence.Baltimore:
+Trzepacz, P. T., & Baker, R. W. (1993). The psychiatric mental sta-

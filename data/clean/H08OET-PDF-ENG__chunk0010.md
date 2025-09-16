@@ -1,23 +1,15 @@
-## HBR / Digital Article / How Costly Is a Resume Gap for Executives?
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfe9800dd0f92722249b2fc58c9f2b786beb919f
+title: H08OET-PDF-ENG
+---
+## In reaction to our previous article, nearly half of LinkedIn commenters
 
-understanding of circumstances, such as caregiving, that could lead to
+argued that attitudes were changing and that employers were more
 
-resume gaps. They also argued employers were beginning to recognize
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that positive growth and development could occur during these gaps.
+3
 
-While it is encouraging to observe that taking control of your digital
-
-narrative seems to mitigate some of the negative eﬀects of resume gaps,
-
-the numbers still show gaps have a negative impact. This suggested to
-
-us that there are still circumstances where gaps will matter more.
-
-The effects of career gaps differ by region.
-
-We know that pay raises diﬀer by region—what about the impact of
-
-resume gaps? Our data showed regional diﬀerences here as well:
-
-- In Asia, pay raises for executives without career gaps was 27%; this fell
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

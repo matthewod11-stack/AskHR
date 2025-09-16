@@ -1,9 +1,13 @@
-## learn more about individuals’ responsibilities, work context, current
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c05d49131de1db3e595f1c0d49244852896f50aa
+title: H08UL7-PDF-ENG
+---
+# collaborating.
 
-challenges, and more. They did this by taking detours during routine
+Their Team EI assessment led them to recognize that they knew little
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+about one another’s roles, responsibilities, and unique needs. To kick oﬀ the norm of working to understand each other better, they decided
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to prioritize visiting one another’s work locations, where they could

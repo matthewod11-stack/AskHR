@@ -1,13 +1,9 @@
-## on diversiﬁcation patterns across more than 28,000 companies from
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e48ea18fa7c1ba9c19e92d63d8bdc8b413ab02d7
+title: S24021-PDF-ENG
+---
+## equipment industry. In other cases, broad technological assets and
 
-1975 to 2004, my colleague Dominika Randle and I analyzed patterns
-
-of patent citations to understand the degree to which a company’s
-
-technological capabilities were broadly applicable across markets. Our
-
-analysis showed that the companies with the most general-purpose
-
-technological assets (those that could be applied across multiple
-
-industries) were the most likely to diversify.
+capabilities open doors to new businesses. While conducting research

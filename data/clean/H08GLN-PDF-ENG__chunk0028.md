@@ -1,19 +1,23 @@
-# HBR / Digital Article / To Help Your Team Learn, Set Them Up for Productive Failure
+---
+source_path: H08GLN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a6437032a764ff2f514f0e68ef72ce4cc3c659d
+title: H08GLN-PDF-ENG
+---
+# Holding a Debrief Session
 
-or criteria they’ve used to evaluate success. This process allows
+The next crucial step is to transform the failures into valuable learning
 
-employees to internalize the nuances of expert thinking, assembling a
+through a feedback process. Often, there is no correct solution, so the
 
-deeper understanding of why some strategies fail and others succeed.
+manager could compare the team’s novice solution to a more advanced,
 
-Moreover, these in-depth debrief sessions aid in structuring a team
+successful approach. In such cases, you can examine the experts’
 
-culture that embraces failure as a norm.
+ways of approaching the problem, the strategies they’ve deployed,
 
-You can also ask some reﬂective questions to help turn failure into a
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-powerful learning experience. For example:
+5
 
-- What assumptions did you make when approaching the task?
-
-- What seemed like the right solution initially? Why did that seem like
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,7 @@
-# Elise Vandeplancke
-
-It’s 1 PM on a beautiful Saturday afternoon. A few months back
-
-you told your editor you would write an essay on overwork for an
-
-upcoming issue of the magazine at which you’re employed. However,
-
-you’ve been slammed with other assignments and projects and are
+---
+source_path: R2406N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50ad2db4dda6194ea7f2a15abfb620a32851a895
+title: R2406N-PDF-ENG
+---
+## From the Magazine (November–December 2024) / Reprint R2406N

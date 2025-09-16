@@ -1,11 +1,25 @@
-# Questions for Review
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 72b8f70083aeeabb35b54a37cb60bede413033c8
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Chapter Summary
 
-. Why is job analysis so important? . What are the main sections of a job description? . Would a job analyst expect to ﬁ nd gender and race diﬀ erences in the way
+In this chapter you learned: 7
 
-employees perform the duties of their jobs? Why or why not?
+Job analysis provides the foundation for such areas as performance appraisal, employee selection, training, and job design. A properly written job description contains a job title, a brief summary, an extensive list of work activities, a list of tools and equipment, information about the work context, compensation information, performance standards, and personal requirements. Before a job analysis is begun, decisions must be made about the type of information that will be obtained, who will conduct the job analysis, and who will participate in it. Th e typical job analysis involves interviewing and observing subject matter experts (SMEs) to determine tasks that are performed, the conditions under which they are performed, the tools and equipment needed to perform them, and the knowledge, skills, abilities, and other characteristics (KSAOs) needed to perform them. Although no job analysis method is always better than others, each is better for certain purposes. For example, the Position Analysis Questionnaire (PAQ) is an excellent method for compensation uses, and the Critical Incident Technique (CIT) is an excellent method for performance appraisal. Job evaluation is the process of assigning a monetary value to a job. Internal equity, external equity, and comparable worth are important pay issues that must be addressed during any job evaluation.
 
-. How should a task statement be written? . Why are there so many job analysis methods? . Research indicates that the average salary for women in the United States is
+7
 
-about % of the average salary for men. Why is this?
+7
 
-. Is external pay equity more important than internal pay equity? Why or
+7
+
+7
+
+7 7
+
+job analysis and evaluation
+
+73

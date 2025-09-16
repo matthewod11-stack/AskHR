@@ -1,23 +1,27 @@
-# correlation (ρ). 90% confidence intervals (90% CI) of the sample-weighted mean correlation
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 8500dd5596b5b3b532ab652b768e27e3b289f57e
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# key information such as scale reliabilities and correlations between variables. Measures of
 
-and the 80% credibility intervals (80% CV) of the corrected population correlation were also
+trust in the leader were coded as affective, cognitive or overall trust in line with the coding
 
-calculated and reported. Furthermore, in order to better determine whether moderators were
+protocol set out by de Jong and colleagues (2016). Measures that captured aspects of trust
 
-present, we calculated the percentage of variance accounted for in the corrected population
+such as competence, reliability, integrity, consistency and fairness were coded as cognitive
 
-correlation by sampling and measurement error (% VE).
+trust. The affective trust code was applied to measures that referenced benevolence,
 
-In order to examine the mediating effects, relative and incremental predictive validity
+disclosure of information, concern for welfare or goodwill. Papers where the authors had
 
-issues addressed in our research questions, we used meta-analytical path analyses (see
+addressed more than one of these dimensions in the same measure, or where the
 
-Viswesvaran & Ones, 1995). Relative weights analysis assesses the relative contribution (i.e.,
+operationalisation of trust was more general, were coded as overall trust.
 
-relative importance) among several (often correlated) independent variables in a regression
+Our meta-analysis adopted the Hunter and Schmidt (2015) approach. This method
 
-analysis. Relative weights analysis converts the total variance predicted in a regression model
+produces a sample weighted mean correlation (r) as well as a mean correlation corrected for
 
-(i.e., R squared) into weights that indicate the proportional contribution of the various
-
-independent variables. Specifically, these weights can be interpreted as the percentage of
+unreliability in both criterion and predictor variables, referred to as the corrected population

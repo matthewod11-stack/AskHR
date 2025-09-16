@@ -1,11 +1,11 @@
-## foster empathy. Leaders, in particular, can share their experiences with
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3992c5d39cc1222d4d60a013220527d9050ede0e
+title: H0719C-PDF-ENG
+---
+# Personal accounts
 
-mental health, which can also impact corporate culture and policy.
+Events that feature intimate, lived experiences and personal accounts
 
-Employees can share their stories, which often have the greatest impact
-
-since they’re more likely to be more relatable to other employees. The
-
-speakers at these events don’t have to be folks on staﬀ but people who
-
-have experience leading these kinds of discussions.
+are often the most eﬀective, as they can humanize challenges and

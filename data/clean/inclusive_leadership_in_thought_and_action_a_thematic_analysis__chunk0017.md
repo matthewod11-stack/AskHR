@@ -1,3 +1,11 @@
-## Inclusive Leadership From a Leadership Perspective
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: ed5df2a13a985ad3e02344236c3ef7b495f4f2d9
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# Group & Organization Management 47(4)
 
-Research on inclusive leadership has also evolved within the leadership literature. Viewed as a particular form of relational leadership, which focuses on the relationship between a leader and follower as the unit of analysis and assumes that the speciﬁc nature of the relationship is socially constructed through their interactions (Uhl-Bien, 2006), inclusive leadership is considered to be driven by the two-way inﬂuence process between leaders and followers. Rather than leaders directing followers, inclusive approaches establish norms of active consultation and participation, which drive shared decision-making within a team or organization (Hollander, 2009). In effect, by inviting and appreciating the contributions of all individuals, this leadership approach helps people feel they are genuinely valued members of the team or orga- nization (Tyler & Lind, 1992). Accordingly, inclusive leadership is con- sidered to be fundamental focuses on to relational interpersonal relationships and drives followers’ perceptions that leaders are fair and accountable and attentive to their needs.
+to fundamentally address individuals’ needs for being valued for their uniqueness while feeling part of the group (Shore et al., 2011). As such, it is considered to enable work group functioning in a way that has not yet been addressed by other forms of leadership (Randel et al., 2018).
+
+While diversity researchers have conceptualized inclusive leadership, our understanding of leader behaviors to facilitate an inclusive environment is relatively limited. Randel et al. (2018) proposed categories of behaviors that signal a value for uniqueness and help to facilitate belonging. Speciﬁcally, behaviors that make group members feel comfortable and supported, dem- onstrate fair and equitable treatment, and provide opportunities for shared decision-making are posited to create a sense of belongingness while be- haviors that encourage different perspectives and approaches and reduce barriers to participation are posited to facilitate a sense of uniqueness (Randel et al., 2018). Yet, while such behaviors are believed to enhance employees’ experiences of inclusion, little attention has been given to whether these behaviors are enacted by leaders in organizations. In this study, we explore leader recollections of the behaviors in which they engage to create and maintain inclusive environments.

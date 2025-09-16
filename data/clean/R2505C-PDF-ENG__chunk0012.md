@@ -1,9 +1,9 @@
-## entrepreneurs, from the legendary Steve Jobs to the lesser-known
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d0ab3997ca9938c67d4f2fb59ca28608f6635f7
+title: R2505C-PDF-ENG
+---
+## like Mandela and Ukrainian president Volodymyr Zelensky; decisive
 
-Aloke Bajpai of India’s online travel agency Ixigo; and even everyday
-
-employees and citizens, like Facebook whistleblower Frances Haugen,
-
-former US Airways pilot C.B. “Sully” Sullenberger, and the Taj Hotel
-
-staﬀ members who risked their lives to help guests during a 2008
+CEOs such as BlackRock’s Larry Fink and Chanel’s Leena Nair; scrappy

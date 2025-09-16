@@ -1,7 +1,7 @@
-# INTERNATIONAL JOURNAL OF MANAGEMENT, BUSINESS, AND ADMINISTRATION 6_____________________________________________________________________________________
-
-Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting
-
-and task motivation. American Psychologist, 57(9), 705-717.
-
-Luthans, F. (2011). Organizational behavior (12th ed.). New York, NY: McGraw-Hill. Maslow, A. H. (1970). Motivation and personality (2nd ed.). Reading, MA: Addison-
+---
+source_path: international_journal_of_management_business_and_administration.md
+pages: n/a-n/a
+chunk_id: 837fc7318a17212b323d5add6f94d6d90ad6a826
+title: international_journal_of_management_business_and_administration
+---
+# Upper Saddle River, NJ: Prentice Hall.

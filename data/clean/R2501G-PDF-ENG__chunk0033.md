@@ -1,5 +1,15 @@
-## focus on why fuels more customer-centric innovation, because feedback
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d4fa962851bcad27d8b47216aa95f4eaad86105
+title: R2501G-PDF-ENG
+---
+## HBR / Magazine Article / Want Your Company to Get Better at Experimentation?
 
-—gathered through experiments—is consulted not only to choose
+data-driven decisions—such as whether a particular change is better
 
-between the variant and the status quo but also to determine the next
+than the status quo—by hypothesizing why that is so. The experiment
+
+allows them to test the theory; by considering additional metrics,
+
+they can understand the mechanism that drove the result. Crucially, a

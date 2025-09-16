@@ -1,31 +1,27 @@
-## HBR / Digital Article / Sustainability Is About Your Workforce, Too
+---
+source_path: H07SGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 999b1e898111ba87a911b3df9fbb5e00f3fae1b2
+title: H07SGE-PDF-ENG
+---
+## of global climate issues in the ﬁrm’s risk management approach
 
-What links all three of these major corporations is the way each
+and promotes sustainability solutions for employees, resellers, and
 
-separately discovered that when you frame human capital investment
+customers. The company promotes thought-through generational and
 
-in the context of sustainability, it assumes even more importance than it
+gender equality programs, and Hyatt ensures that every employee
 
-did before.
+understands how their long-term safety and success is part of the
 
-If you see value in this approach, where should you start at your
+company’s overall sustainability strategy. In other words, this new job
 
-organization? Building on the European Union’s new detailed CSRD
+function uniﬁes all the brand’s existing HR work into the context of
 
-reporting requirements, leaders will need to address issues ranging from
+sustainability and helping the planet.
 
-greenhouse gas emissions to gender pay across their own operations, as
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-well as that of their suppliers and business partners. You should try to
+3
 
-ensure sustainability becomes a pillar of operations as early as possible,
-
-as the compliance clock is ticking.
-
-The real action is to get your HR team to start working as soon
-
-as possible with their ESG colleagues to get people sustainability
-
-metrics and strategies into your business goals. To drive this, bring
-
-together a team including your heads of HR, DEI, and ESG, as well
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

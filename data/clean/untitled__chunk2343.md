@@ -1,5 +1,9 @@
-# Clinical Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7898c6efbdf3ba2b0979d73027d52338a40b55e9
+title: untitled
+---
+# Educational Psychology
 
-Another highly potent factor was the emergence of clinical psychology. Although related to the child study movement, the emergence of clinical psychology is credited to Lightner Witmer,anditsorientationwasprimarilyidiographic.Witmer is considered to be the father of clinical psychology, having founded the ﬁrst psychological clinic in this country at the University of Pennsylvania in 1896 (McReynolds, 1997). Where Hall was concerned about the typical development of schoolchildren, Witmer was most concerned with diagnosing and intervening on behalf of children who did not thrive in the regular educational environment of the mass education exper- iment. Witmer’s efforts brought to the attention of educators and parents the importance of studying and designing inter- ventions for individual children with one or more atypical characteristics. He worked in school settings on occasion and received numerous referrals from parents and educators. By
-
-the early twentieth century, he was training persons to pro- vide these services on a limited basis to schoolchildren. Though perhaps the ﬁrst person to practice school psychol- ogy, Witmer never held that title, nor did he originate the term. Rather, the term “school psychologist” appears to have its origins in the German literature, ﬁrst translated into English in 1911 (Stern, 1911).
+Hall’s efforts and those of other psychologists of the period (e.g., E. L. Thorndike) fostered the emergence of educational psychology as a major ﬁeld of psychological application. Educational psychology built upon the normative notions of child study and sought to provide educators broader under- standing of how children learn, how curricula could be more efﬁciently arranged, and how schools could be better orga- nized. Educational psychology also served to sensitize edu- cators and parents to the contributions that psychology could make in the mass education movement (see e.g., Cubberly, 1909; Thorndike, 1912).

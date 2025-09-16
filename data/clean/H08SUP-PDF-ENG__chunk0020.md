@@ -1,11 +1,15 @@
-# the product.
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6fcac06f46c9758d819f3eecce7230acecc36990
+title: H08SUP-PDF-ENG
+---
+## discuss Emergency Use Authorization for the Pﬁzer-BioNTech Covid-19
 
-In 2007, the FDA made a seemingly minor procedural change to the
+Vaccine. Given the consequential nature of the recommendations, a
 
-way its AdComs operated. Prior to the change, post-discussion voting
+typical AdCom meeting lasts a full day, with the vast majority of time
 
-was typically conducted in a sequential manner: each committee
+spent on presenting, scrutinizing, and debating data and evidence on the product’s safety and eﬃcacy. Following these extensive discussions,
 
-member would visibly and audibly cast their vote and explain their
-
-position in turn, one after the other. After the change, voting was to be
+the meeting typically culminates in a vote of the AdCom’s conﬁdence in

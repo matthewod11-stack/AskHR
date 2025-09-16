@@ -1,7 +1,15 @@
-## collaborative problem-solving with the union impossible in the future.
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48f8f0760a58bc43f2a9bd1528ed2e40d637c947
+title: R2402M-PDF-ENG
+---
+# partnership.
 
-He took a deep breath, collecting his thoughts. He was not one to back
+He was also worried about the members of his management team.
 
-down. He had a battle plan to save the plant. He just needed the soldiers
+The strain of the labor agitation and the protracted negotiations was
 
-to put it into action.
+starting to wear on them. Comparisons of the union to “the enemy” had
+
+reached his ears. Paulo feared that the lingering resentment might make

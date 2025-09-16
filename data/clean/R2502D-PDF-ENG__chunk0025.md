@@ -1,3 +1,9 @@
-# servings; a sharper R&D and marketing
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfca9889b027a658a7aa296963c52cfd26888a0d
+title: R2502D-PDF-ENG
+---
+## its product lineup; a new pricing policy to
 
-The Bangalore-based photographer Sameer Raichur photographs cars transformed into wedding proces- sion chariots, representing an inter- section of old and new.
+encourage lower-volume, more-moderate

@@ -1,5 +1,15 @@
-## strengths-based approach”, Business Horizons, Vol. 55, pp. 105-111.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: e3886a9eb98a602cfeadad6d6073f20c234865e3
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# I
 
-Albrecht,S.L.(2013),“Workengagementandthepositivepowerofmeaningfulwork”,inBakker,A.B. (Ed.), Advances in Positive Organizational Psychology, Emerald, Bingley, pp. 237-260. Albrecht, S.L. (2014), “A climate for engagement: some theory, models, measures, research, and practical applications”, in Schneider, B. and Barbera, K. (Eds), The Oxford Handbook of Organizational Climate and Culture, Oxford University Press, Oxford, pp. 400-414. Alfes, K., Shantz, A.D., Truss, C. and Soane, E.C. (2013a), “The link between perceived human resource management practices, engagement and employee behavior: a moderated mediation model”, The International Journal of Human Resource Management, Vol. 24 No. 2, pp. 330-351.
+d e d a o l n w o D
 
-Alfes, K., Truss, C., Soane, E.C., Rees, C. and Gatenby, M. (2013b), “The relationship between line manager behavior, perceived HRM practices and individual performance. Examining the mediating role of engagement”, Human Resource Management, Vol. 52 No. 6, pp. 839-859. (2013), 2013 Trends in Global Employee Engagement Report, Aon Hewitt,
+conducted to determine the causal influence and temporal dynamics of the relationships between engagement, voice and job resources. Longitudinal studies and multilevel analytic approaches to differentiate and disaggregate variance at the individual, group, and organizational level can help map the strength of the direct and indirect relationships proposed. Additional theory-based research to determine how the four engagement- focused HR practices we have recommended interact could also usefully be conducted. Hopefully, our model will stimulate and guide future research and promote a greater understanding of the importance of establishing HRM practices and climates that are strategically focused on employee engagement.
+
+References Aguinis, H. and Pierce, C.A. (2008), “Enhancing the relevance of organizational behavior by embracing performance management research”, Journal of Organizational Behavior, Vol. 29, pp. 139-145.
+
+Aguinis, H., Gottfredson, R.K. and Joo, H. (2012), “Delivering effective performance feedback: the

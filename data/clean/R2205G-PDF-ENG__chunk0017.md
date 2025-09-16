@@ -1,3 +1,9 @@
-# THE CONTEXT
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f340d5d899897db09a5ee9f4b163957205b4287d
+title: R2205G-PDF-ENG
+---
+# THE PROBLEM
 
-For many companies, the ideal worker remains somebody unencum- bered by family obliga- tions, who can adhere to the kind of demanding daily schedules and ca- reer trajectories that were standard for white men in the 1950s and have intensiﬁed since.
+To succeed, at some point almost every worker needs work/life support, and the data suggests that women and people of color need it most. But they don’t receive it—or even learn about com- pany beneﬁts—nearly as often as they should.

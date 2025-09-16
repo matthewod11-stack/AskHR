@@ -1,27 +1,35 @@
-# crisis.
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec013ec4dc46062c08b9287fa0b4cc595d30b287
+title: H08OPG-PDF-ENG
+---
+## HBR / Digital Article / What Is the Office for Today?
 
-Why is this important for how we understand workplaces today?
+organizations learned ﬁrsthand what this shift in workspace dynamic
 
-The workplace is at its core a relational construct. It isn’t just an
+would entail in concrete terms. The new knowledge developed in
 
-oﬃce building or a digital network linking colleagues and work data.
+this process changed perceptions and enriched our notions of what a
 
-It’s both and more. As a marketplace, its two important currencies
+workspace could be. For many, this wasn’t just a response to a moment
 
-are productivity and social capital. As a social community, the critical
+in time, but an experience that shaped workplace culture entirely. A
 
-component is trust, which informs communication, collaboration, and
+point of no return, as we said last time.
 
-cohesion in work teams and sense of belonging to the organization.
+Two outcomes, however, have surprised me.
 
-The pandemic acted as a magnifying glass—it brought into view edge
+The ﬁrst was people reconsidering the value they placed on their work,
 
-conditions that were not really part of the mainstream world of work prior to it. It allowed us to experience the impact (and trade-oﬀs)
+their time, and how to spend both. The second was the exacerbation
 
-of “work from anywhere” enabled by technology. It also allowed us to experience ﬁrst-hand the impact (and trade-oﬀs) of constantly
+of something younger adults and teenagers were already experiencing,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+which extended to other generations: isolation. Studies have repeatedly
 
-3
+shown a high correlation between time spent on screens or social media
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and an increase in rates of depression and perceived isolation—the
+
+levels of which by 2023, the U.S. Surgeon General termed a public health

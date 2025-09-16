@@ -1,29 +1,17 @@
-## Deloitte University Leadership Center for Inclusion report, Uncovering
+---
+source_path: H07CJU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c33614f27ec9a44b73495beade46cd81c2a93804
+title: H07CJU-PDF-ENG
+---
+# caregivers.
 
-Talent, reveals that 61% of all employees minimize their identities
+Myth #4: Caregiving isn’t talked about much at our office, so it must not be an issue.
 
-that make them “diﬀerent” in some way, which can look like silently
+Many people are not comfortable sharing about their caregiving
 
-struggling through a frantic work week while your child’s daycare is
+responsibilities in the workplace because they are worried about being
 
-closed due to Covid, or saying to coworkers you are going to the dentist
+penalized professionally. Only 56% of caregivers report that their
 
-when you are really driving your father to his chemo appointment.
-
-Unfortunately, mothers in particular are right to be concerned that their
-
-family responsibilities might be held against them. Anti-mom bias has
-
-been long-rampant in the workplace.
-
-The best way for leaders to create more transparency around caregiving
-
-is by starting to talk about it themselves. If you leave early on Thursdays
-
-because you lead your child’s Scout troop, rather than just having
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+work supervisor is even aware of their caregiving responsibilities. The

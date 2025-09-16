@@ -1,5 +1,13 @@
-## awareness conversation in the mainstream and the neurodiversity
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb91f734a2cfe99abc59002f45320400eda376fe
+title: H06YBA-PDF-ENG
+---
+## mainstream media, parents of autistic children, and adult autistic self-
 
-perspective. Leaders need to understand the origins of these mixed and
+advocates presenting very diﬀerent perspectives. The confusion over
 
-changing messages, then take steps to celebrate and include the autistic
+the language and symbolism reﬂects the philosophical divide between
+
+the medical perspective on autism that has primarily dominated the

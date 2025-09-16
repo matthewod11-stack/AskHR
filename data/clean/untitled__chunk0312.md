@@ -1,7 +1,9 @@
-# York: Harper-Collins.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 64494d5e9b39d9478e28d9fea95332a8debcb2a8
+title: untitled
+---
+## tions. Journal of Experimental Psychology, 3, 1–14.
 
-Wertheimer, M. (1912). Experimentelle studien über das sehen das Bewegung. (Experimental studies on the perception of move- ment). Zeitschrift fur Psychologie, 61, 161–265.
-
-Wertheimer, M. (1959). Productive thinking. New York: Harper.
-
-White, S. (1992). G. Stanley Hall: From philosophy to developmen-
+Watson, R. I., & Evans, R. (1991). The great psychologists. New

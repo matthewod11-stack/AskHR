@@ -1,5 +1,11 @@
-## in our study without high levels of executive alignment report minimal
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6c4d7a96385c4f077fa95b44bec6f31d2793e2f
+title: H08A5M-PDF-ENG
+---
+# HBR / Digital Article / Why Cross-Functional Collaboration Stalls, and How to Fix It
 
-collaboration drag. Perhaps when functions keep their distance from
+Unfortunately, Gartner research found that none of these practices
 
-one another, there’s less disagreement. That being said, there’s likely
+improve collaboration drag. In fact, the small number of companies

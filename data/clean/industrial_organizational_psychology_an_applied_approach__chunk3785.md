@@ -1,5 +1,9 @@
-## Adverse impact An employment practice that results
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 30093d74afe94db6354da1c4e1a4e0196e830c29
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Adaptation The fourth stage of change, in which
 
-in members of a protected class being negatively affected at a higher rate than members of the majority class. Adverse impact is usually deter mined by the four-fifths rule.
-
-AET An ergonomic job analysis method developed
+employees try to adapt to new policies and procedures. Additive tasks Tasks for which the group’s performance is equal to the sum of the performances of each individual group member.

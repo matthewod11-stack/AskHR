@@ -1,11 +1,23 @@
-# For grandfathers, uncles, friends, neighbors, colleagues, employers, and everyone else.
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8f48aa55cdd416155472e4e075af4924f27f852
+title: H07VWF-PDF-ENG
+---
+# For employers, managers, and leaders.
 
-Fight for parental leave for all parents. Gender norms are so entrenched
+As decision-makers, you have the power to push for policies that allow
 
-in our culture that we have come to mistake them as biology. But
+all new parents to take parental leave — and the power to initiate the
 
-science tells us that females do not have any more parenting instinct
+cultural shift necessary to encourage men to take advantage of parental
 
-than people of other genders. In reality, the “biology” of the “parenting
+leave entitlements. Take parental leave yourself, tell others about your
 
-instinct” is far more expansive — it’s an innate skill that also requires
+brain training, and set an example for other new dads to do the same.
+
+If parental leave wasn’t an option for you when you had kids, join the
+
+voices of other men who regret their lack of leave by advocating for
+
+better policies for today’s new dads.

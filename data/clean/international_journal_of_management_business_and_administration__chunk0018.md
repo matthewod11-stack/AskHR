@@ -1,3 +1,9 @@
-# Goals Must Be Difficult but Attainable
+---
+source_path: international_journal_of_management_business_and_administration.md
+pages: n/a-n/a
+chunk_id: f63e9ed7f5731600985269613d17e67e3e420c7b
+title: international_journal_of_management_business_and_administration
+---
+# FRED C. LUNENBURG _____________________________________________________________________________________3
 
-A goal that is too easily attained will not bring about the desired increments in performance. The key point is that a goal must be difficult as well as specific for it to raise performance. However, there is a limit to this effect. Although organization members will work hard to reach challenging goals, they will only do so when the goals are within their capability. As goals become too difficult, performance suffers because organization members reject the goals as unreasonable and unattainable. A major factor in attainability of a goal is self-efficacy (Bandura, 1997). This is an internal belief regarding one’s job-related capabilities and competencies. If employees have high self- efficacies, they will tend to set higher personal goals under the belief that they are attainable. The first key to successful goal setting is to build and reinforce employees’ self-efficacy.
+Specific goals (often quantified) let organization members know what to reach for and allow them to measure their own progress. Research indicates that specific goals help bring about other desirable organizational goals, such as reducing absenteeism, tardiness, and turnover (Locke & Latham, 2002).

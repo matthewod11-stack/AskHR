@@ -1,5 +1,15 @@
-# COMMUNITY INVOLVEMENT
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 99c2adc60c12385ad04bf21e1b642a9b38426af7
+title: untitled
+---
+# ELECTRONIC PUBLISHING INITIATIVES
 
-During the 1990s, the APA became increasingly involved in several highly visible community activities that contributed to society’s appreciation of the role of psychological services. In 1991, during the Gulf War, the APA joined with the American Red Cross in forming a network of psychologists to provide mental health services to families of members of the armed services. Since then the network has been activated following natural disasters, airline crashes, and terrorist attacks in Oklahoma City (1996) and in New York City and Washington, D.C., in September 2001.
+In January 1995, the APAWeb site was available to its mem- bers and the public. The total “hits” in the ﬁrst three months was 22,474—a ﬁgure that today (in 2001) is reached every 30 minutes. Usage increased in every quarter of 1995, reach- ing 413,207 hits in the fourth quarter of that year; quarterly hits in 2001 ran at 90 million.
 
-In another effort, the Practice Directorate forged a part- nership with Music Television (MTV) to develop a youth antiviolence initiative titled “Warning Signs,” to help the na- tion’s youth in identifying early signs of violent behavior and to emphasize the need to get help should they see any of them (Peterson & Newman, 2000). The campaign ofﬁcially kicked off with a youth forum held in Los Angeles on April 22, 1999. The 30-minute documentary, coproduced by MTV and the APA, was the highest rated prosocial special in MTV’s history, with 3.9 million youth watching the ﬁlm. In that year, there were over 600 follow-up psychologist-led “Community Youth Forums on Violence” held across the nation, with more than 58,000 youths attending. In March 2000, the Practice Directorate launched “Warning Signs for Parents” as a logical follow-up; by the end of the year, nearly 150,000 copies of the accompanying publication had been distributed.
+Itisinterestingtonotethatmanypeoplefromavastarrayof ﬁeldsturntotheAPAforinformationonhowtoreferenceelec- tronic documents.TheAPAhas a special “style page” on elec- tronic citations. A million people access this specialized page on a relatively narrow topic every year. Nonpsychologist (and
+
+nonstudent) use of the APA Web site remains strong. Almost 35% (or some four million annual users) of the APAWeb site are not psychologists or students studying psychology.
+
+In 1997, APA president-elect Martin Seligman proposed the establishment of an electronic journal called Treatment, to be published jointly with the American Psychiatric Associ- ation. For political reasons the “other APA” withdrew from the venture because of fear that psychologists might claim that reading the copublished journal would qualify them for prescribing medication. The American Psychological Associ- ation then decided to embark on the e-journal alone, which is now titled Prevention and Treatment. By the summer of 2001, under Seligman’s editorship, the journal had 20,000 regular readers, with each article being “hit” an average of 35,000 times within the ﬁrst year of release. Publications from the Practice Directorate, the e-journal, Web-based com- munications, videotapes, and over 70 new books each year constitute communications from the APA that are directed toward the practicing professional psychologist.

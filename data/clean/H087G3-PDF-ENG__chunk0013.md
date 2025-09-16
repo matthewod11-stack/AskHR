@@ -1,9 +1,31 @@
-## respondents, not the broader population.)
+---
+source_path: H087G3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e5ef39bc0a5a6e6eb7b11eb8dee928ad61ec4ef
+title: H087G3-PDF-ENG
+---
+## Guide,” shares a framework for ﬂexible work options that organizations
 
-Most non-ill people who responded said that their organizations were supportive of chronically ill workers, but those directly affected disagreed.
+can use to ensure that people with chronic illnesses can contribute and
 
-When asked if their employers were understanding of employees with
+thrive. But we also wanted to hear directly from HBR readers and people
 
-health issues, 60% of non-ill respondents agreed. Only 36% of people
+from the chronic illness community to get a sense of how their work
 
-who identiﬁed as having chronic illnesses agreed that “my employer is
+lives have been impacted — and speciﬁcally, whether employers were
+
+missing the mark.
+
+So, we invited people to share their perspectives on chronic illness in
+
+the workplace via an online survey. More than 200 people responded,
+
+almost equally divided between people who identiﬁed as having a
+
+chronic illness that impacted their day-to-day activities and people who
+
+did not (whom we call “non-ill respondents” throughout this article).
+
+After reviewing responses to our questions, a few key ﬁndings stood
+
+out. (Note that the below represents only the views of the 200-plus

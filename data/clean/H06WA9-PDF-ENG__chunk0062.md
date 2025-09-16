@@ -1,35 +1,21 @@
-## HBR / The Big Idea / Harnessing the Power of Age Diversity
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0584293959c6be6fa1594d89bdfe5edbe52ec8fc
+title: H06WA9-PDF-ENG
+---
+## including GE, Deloitte, PwC, Cisco, and Procter & Gamble — have
 
-support employees’ development of competencies and skills and
+developed “reverse mentoring” programs, where younger people teach
 
-increase both individual involvement and collective motivation.
+older peers new skills, typically around technology. We suggest that
 
-Mutual learning can also happen organically when people of diﬀerent
+companies and even managers of small teams combine both approaches
 
-generations have good relationships and are on the lookout for
+into two-way “mutual mentoring.” Research shows that such programs
 
-opportunities. BuildWitt Media, a digital storytelling ﬁrm we’ve studied,
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-helps its clients in the construction and mining industries attract great
+12
 
-talent. Its founder and CEO is 26-year-old Aaron Witt; its president,
-
-Dan Briscoe, is 53. While cross-generational learning was never an
-
-explicit reason for their partnership, they have come to value how
-
-Briscoe’s 30 years of experience in leadership, sales, and marketing
-
-complement Witt’s impulsive energy, sense of business trends, and
-
-lifelong immersion in mobile media. For example, Briscoe credits Witt
-
-with teaching him to look beyond academic degrees and GPA when
-
-hiring and to consider leadership potential and alignment with culture
-
-and values in addition to a work portfolio. Witt says Briscoe is good
-
-at relating to clients and putting deals together. This partnership, they
-
-agree, has led to rapid growth and the opportunity to diversify their
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

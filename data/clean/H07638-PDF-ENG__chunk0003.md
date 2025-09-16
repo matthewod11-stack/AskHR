@@ -1,9 +1,11 @@
-## communication between the leader and team members, or some
+---
+source_path: H07638-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fc9cbb470e5006333b9c5f9d762eb22370e4a26
+title: H07638-PDF-ENG
+---
+# Sean Justice/Getty Images
 
-combination of all of these. If your team is underperforming and your
+A number of factors can contribute to a team’s lackluster performance:
 
-manager is pushing for a turnaround, you may feel at a loss — especially
-
-if you feel like you’ve already been giving the team your all. Here’s what
-
-to do if you’re responsible for a team whose work has been deemed not
+individual mistakes, strained interpersonal dynamics, a lack of

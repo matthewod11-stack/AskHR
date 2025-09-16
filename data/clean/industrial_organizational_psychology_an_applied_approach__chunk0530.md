@@ -1,7 +1,13 @@
-# Social skills Programming
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0888be69eb06f3a51444b7dd485a341f61be95af
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Self-adherence to the rules
 
-19 13
+0
 
-7 7
+28
 
-26 20
+28

@@ -1,9 +1,21 @@
-## Sometimes, the root issue for in-oﬃce mandates or manager hesitance
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d8148787e598b43831aa9cd649a558f4faad0cc
+title: H07Z4W-PDF-ENG
+---
+# hybrid work schedule.
 
-to approve a hybrid work schedule is fear over the loss of familiarity
+If you’re not in any of these scenarios, then consider using data
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+to propose common days and times for in-oﬃce and remote work.
 
-6
+According to Pew Research Center, approximately 59% of hybrid
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+workers say they work remotely three or more days in a typical week,
+
+while 41% say they work remotely two days or less per week. Tuesday to
+
+Thursday are the most common in-oﬃce days, with Monday and Friday
+
+being the most common work-from-home days.

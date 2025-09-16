@@ -1,9 +1,11 @@
-# unlock creativity:
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 649d83428ab68eb4fc1fcc57145ce07a008aff39
+title: H08DYH-PDF-ENG
+---
+# theta? Playfulness.
 
-- 1. Introduce short, playful activities.
+How do we shift from this busy state of mind to a more creative one?
 
-Integrating play into the workplace through quick, silly exercises can
-
-profoundly enhance creativity and innovation. I call them “energizers”:
-
-short, playful activities such as drawing exercises or role-playing games
+Here are some practical methods to infuse play into your workplace and

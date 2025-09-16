@@ -1,15 +1,15 @@
-# York: Appleton-Century-Crofts.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 06ba098151ac17fdeafa6b25537a4dccdf2d2423
+title: untitled
+---
+## imental study of intelligence]. Paris: Schleicher.
 
-Borum, R., & Grisso, T. (1995). Psychological test use in criminal forensic evaluations. Professional Psychology, 26, 465–473.
+Binet,A.,&Simon,T.(1905).Methodesnouvellespourlediagnostic du niveau intellectual des anormaux [New methods for the diagnosisofabnormalintellectuallevel].L’AnneePsychologique, 11, 193–244.
 
-Brown, W. R., & McGuire, J. M. (1976). Current psychological assessment practices. Professional Psychology, 7, 475–484.
+Boccaccini, M. T., & Brodsky, S. L. (1999). Diagnostic test usage by forensic psychologists in emotional injury cases. Professional Psychology, 30, 253–259.
 
-Buck, J. N. (1948). The H-T-P technique: A qualitative and quanti- tative method. Journal of Clinical Psychology, 4, 317–396.
+Boll, T. J. (1983). Neuropsychological assessment. In I. B. Weiner (Ed.), Clinical methods in psychology (2nd ed., pp. 282–330). New York: Wiley.
 
-Burns, R. C., & Kaufman, S. H. (1970). Kinetic Family Drawings (K-F-D): An introduction to understanding children through kinetic drawings. New York: Brunner/Mazel.
-
-Butcher, J. N., Dahlstrom, W. G., Graham, J. R., Tellegen, A., & Kaemmer, B. (1989). Minnesota Multiphasic Personality Inventory (MMPI-2): Manual for administration and scoring. Minneapolis: University of Minnesota Press.
-
-Butcher, J. N., & Rouse, S. V. (1996). Personality: Individual differ- ences and clinical assessment. Annual Review of Psychology, 47, 87–111.
-
-Butcher, J. N., Williams, C. L., Graham, J. R., Archer, R., Tellegen, A., Ben-Porath, Y. S., et al. (1992). MMPI-A manual for admin- istration, scoring, and interpretation. Minneapolis: University of Minnesota Press.
+Boring, E. G. (1950). A history of experimental psychology. New

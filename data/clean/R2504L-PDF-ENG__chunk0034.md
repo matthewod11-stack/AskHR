@@ -1,13 +1,17 @@
-# reporting.
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57c81b0f2a875073b7525db8ca4eb68479331103
+title: R2504L-PDF-ENG
+---
+## HBR / Magazine Article / Hybrid Still Isn’t Working
 
-Revise career planning and advancement. As noted above, promoting
+performance can help allay concerns about “proximity bias”—those
 
-people to management positions on the basis of strong individual performance can backﬁre; such people often are ineﬀective leaders. So
+who are in the oﬃce more have more opportunities to impress their
 
-how do managers make decisions about career advancement when they
+bosses. However, managers should be mindful that it is quite time-
 
-cannot easily observe how well remote workers get along with others,
+consuming for employees to continually document everything they are
 
-whether they support peers and subordinates, and so forth? Many fully
-
-remote companies—including Atlassian, GitLab, and Shopify—rely on
+doing. Managers should also take into account the bias inherent in self-

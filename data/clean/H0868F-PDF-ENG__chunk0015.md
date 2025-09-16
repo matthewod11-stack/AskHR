@@ -1,17 +1,17 @@
-## large hospital system: The workplace mental health considerations of
+---
+source_path: H0868F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a8cb362c019bf7915cc455df4ea015843cf27ee
+title: H0868F-PDF-ENG
+---
+# Start with the Work
 
-ER clinicians are going to be very diﬀerent from those of the billing
+Today, improving workplace mental health involves tackling how, why,
 
-department because their work product is totally diﬀerent. Advice from
+and where we work. Pat advice on putting your phone away in the
 
-ﬂexible workplace expert Cali Yost should be the cornerstone of any
+evening or scheduling your emails feels so 2020.
 
-well-being initiative: When you start with what needs to get done, Yost
+So, get speciﬁc and focus on the work product you need and how you
 
-says, teams can “reimagine how, when, and where work is done to
-
-perform eﬀectively as an organization, and help people be their best
-
-as well.” Consider new research from JAMA, which ﬁnds that greater
-
-job ﬂexibility is associated with decreased odds of serious psychological
+can better support the employees involved. For example, imagine a

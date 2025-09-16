@@ -1,11 +1,21 @@
-## workshop—from discovery to ideation, articulation, and prioritization
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: afb46b73d74a1e68b75074361b059a312bb9a811
+title: H08VIB-PDF-ENG
+---
+# spontaneous and natural.
 
-—he prompts AI using a consistent template: “We are now at this
+Depending on the teamwork stage, AI can play diﬀerent roles, acting as
 
-moment in our workshop [explain], and based on what we have
+an additional team member at the table. While AI can support mundane
 
-discussed so far [share summary or intermediate output], we would like
+tasks, such as acting as a notetaker or timekeeper, it can also play more
 
-you (Generative AI) to act as [specify role] and help us [specify goal or
+situational roles, activated at speciﬁc moments to augment the team
 
-task].” You can try John’s template for the various situations described
+workﬂow. When seeking insights, AI can be asked to take the role of a
+
+researcher, explainer/clariﬁer, or simulate user personas.
+
+Let’s go back to John’s case. At the start of each phase of the innovation

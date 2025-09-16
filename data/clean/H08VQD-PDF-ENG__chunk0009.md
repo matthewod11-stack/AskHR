@@ -1,37 +1,27 @@
-## HBR / Digital Article / You Need to Be Bored. Here’s Why.
+---
+source_path: H08VQD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e4d1b40cb16e096f82e93d6c661ce1dfa6b5d96
+title: H08VQD-PDF-ENG
+---
+# without devices.
 
-But more importantly, you’ll start digging into the biggest questions in
+It’s probably been a long time since you’ve done that. Commute with
 
-your life, purpose, meaning, coherence, signiﬁcance. And who knows?
+nothing, not even the radio. Can you do that? Start getting better at
 
-You might just get happier. People ask me all the time, is the doctor
+periods that are 15 minutes and longer of boredom, and watch your
 
-taking his own prescriptions? And the answer is, yes. Yes, I am.
+life change. Number one, you’ll be less bored with ordinary things in
 
-I’m prone to the same pathologies as anybody else because I have the
+your life. If you get better at the skill of boredom, you’ll be less bored
 
-same brain chemistry as everybody else. So what do I do to ﬁght that?
+with your job. You’ll be less bored with your relationships. You’ll be less
 
-And the answer is, well, I do a number of things. I have a no device
+bored with the things that are going on around you.
 
-policy after 7:00 in the afternoon. I don’t sleep with my phone.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-We don’t have devices when we have meals in my family. Because we’re
+3
 
-there for each other. We’re not there for people who aren’t there. Three,
-
-I have regular social media and screen cleanses where I don’t use my
-
-device for longer periods of time. First, it’s like children screaming in
-
-my head because that’s how dopamine is saying, get the phone, get the
-
-phone. That’s addiction.
-
-But it calms down and I feel better. And I feel sort of blessed by the end.
-
-And I pick the phone up by the end because I have to check my emails.
-
-And I have to be a normal, functioning, connected person in the world.
-
-But it does remind me that my life doesn’t have to revolve around these
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

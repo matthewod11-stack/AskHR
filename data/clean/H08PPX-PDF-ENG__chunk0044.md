@@ -1,15 +1,11 @@
-## Atira Charles is CEO of the Charles Consulting Group.
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4aef0b69d850f5b19b7ba75cb8e366b36169ce9
+title: H08PPX-PDF-ENG
+---
+# HBR / Digital Article / To Make Your DEI Efforts More Effective, Challenge Outdated M…
 
-Quinetta Roberson is the John A. Hannah Distinguished Professor of Management and Psychology at the Broad College of Business at Michigan State University.
+Marla Baskerville is an associate professor of management and organizational development at the D’Amore-McKim School of Business at Northeastern University.
 
-Sean Edmund Rogers is the dean and Alfred J. Verrecchia-Hasbro Inc. Leadership Chair in Business at the University of Rhode Island College of Business.
-
-Alexis Nicole Smith is an associate professor of management at Oklahoma State University Spears School of Business.
-
-Flannery Stevens is an associate professor of management and operations at Villanova School of Business.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Y. Sekou Bermiss is an associate professor of strategy and entrepreneurship at the University of North Carolina Kenan-Flagler Business School.

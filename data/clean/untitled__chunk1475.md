@@ -1,1 +1,15 @@
-## The Society for the Psychology of Women of the American
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 67b6f3b866233ee614a2618a3d31297cbe427458
+title: untitled
+---
+## JEANNE MARECEK, ELLEN B. KIMMEL, MARY CRAWFORD, AND RACHEL T. HARE-MUSTIN
+
+SETTING THE STAGE 250 SECOND-WAVE FEMINISM AND PSYCHOLOGY 250 FRAMEWORKS FOR STUDYING WOMEN
+
+AND GENDER 251 The First Wave (c. 1876–1920) The Second Wave (c. 1970–the Present) CLINICAL PRACTICE, COUNSELING, AND
+
+251
+
+252

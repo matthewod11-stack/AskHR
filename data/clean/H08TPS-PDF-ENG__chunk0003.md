@@ -1,7 +1,15 @@
-## ﬂexibility in the face of macroeconomic uncertainty. Yet these
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5aff7849f1942166feb9d5e991498917dae42893
+title: H08TPS-PDF-ENG
+---
+# Ekaterina Nosenko/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+For months, economists, journalists, and analysts have wondered
 
-1
+whether a recession might hit the U.S. economy. When a recession
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+strikes, many companies respond by immediately downsizing their
+
+workforce to preserve cash, streamline operations, and maintain

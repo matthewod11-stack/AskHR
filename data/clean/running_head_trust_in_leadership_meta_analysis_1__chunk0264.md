@@ -1,7 +1,9 @@
-# leader behaviors and their effects on followers' trust in leader, satisfaction, and
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 5d5ec8bb742101babefa338d88449ac0fa880152
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## remedies. Journal of Applied Psychology, 88, 879-903.
 
-organizational citizenship behaviors. The Leadership Quarterly, 1, 107-142.
-
-Rousseau, D. M., Sitkin, S. B., Burt, R. S., & Camerer, C. (1998). Not so different after all: A
-
-cross-discipline view of trust. Academy of Management Review, 23, 393-404.
+Podsakoff, P. M., MacKenzie, S. B., Moorman, R. H., & Fetter, R. (1990). Transformational

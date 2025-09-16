@@ -1,17 +1,17 @@
-# agent for future change.
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 165ffa7166584715707c85b3cb371860dc0be0b6
+title: H06KTS-PDF-ENG
+---
+# of purpose at work.
 
-Without question, there’s value in sharing institutional wisdom when
+Be a Teacher and a Student
 
-you’re a company veteran. But be aware of when relying on traditions
+In addition to executing your own re-onboarding plan, consider helping
 
-impedes motivating others forward and welcoming change. The best
+your new colleagues with their onboarding. Doing so can enhance your
 
-strategy is to simultaneously teach and learn. Share your experiences
+perception as a leader and bring harmony to a potentially competitive oﬃce dynamic. Just be careful to strike the right balance between being
 
-as a wise mentor but be willing to invite their input with a beginner’s
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the wise caretaker of the company’s traditions and being an adaptive

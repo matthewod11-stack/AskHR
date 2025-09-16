@@ -1,39 +1,27 @@
-# descriptive.
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bcfc4fca6ebed94fd5cdda6488579fce2749616d
+title: H07XDL-PDF-ENG
+---
+## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
 
-You might end up with a short list of bullet points or a one-sentence
+For this step we have used a photo-sorting exercise similar to what
 
-summary of your vision. No matter how you capture it, a vision
+our corporate clients use in branding and innovation strategy projects.
 
-statement can be powerful in guiding your life. An example we love
+Out of 180 photos, workshop participants select two to four that best
 
-comes from our colleague Sebastian when he was 14. After a poor math
+represent their personal and professional vision — what one person
 
-test result, his teacher told him, “Teaching you is a waste of time” and
+described as a “mood board.”
 
-warned he’d never get a high school diploma. For the next couple of
+In both business and individual life strategy, a vision can give you
 
-years Sebastian took that to heart, skipped school, and started working
+focus. Jim, who will soon be a doctor, had a purpose statement that
 
-as a bricklayer. Eventually, however, he decided to make a change, and it
+was rather general: “Bring people together and share passions.” His
 
-began with this vision statement: “I will go to university and get a PhD
+vision was more concrete and speciﬁc: “To create spaces for more social encounters, such as a medical practice with a shared coﬀee shop, and
 
-and then go back to my math teacher — all in the next 10 years.” He did
-
-just that, graduating summa cum laude with a PhD in economics, and in
-
-another 10 years he was a managing director and a partner at BCG.
-
-- 4. How do I assess my life portfolio?
-
-Companies typically use portfolio analysis to assess their business units
-
-on key parameters such as market growth or share and to decide where
-
-to invest capital. BCG is well-known for its 2×2 growth-share matrix.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to get involved in homeless medicine.” Your vision should be equally

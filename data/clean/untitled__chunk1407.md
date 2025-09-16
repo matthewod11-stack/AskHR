@@ -1,7 +1,17 @@
-## lem. Contemporary Psychology, 6, 195–196.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b2188096f2be40650c18be64c503f78ab20fdb44
+title: untitled
+---
+# REFERENCES
 
-Allport, G. W. (1935). In C. A. Murchison (Ed.), Attitudes: Hand- book of social psychology (Vol. 2, pp. 798–844). New York: Russell and Russell.
+Adams, G. (1934). The rise and fall of psychology. Atlantic
 
-Allport, G. W. (1954a). The historical background of social psy- chology. In G. Lindzey (Ed.), Handbook of social psychology (Vol. 1, pp. 3–56). Cambridge, MA: Addison-Wesley.
+Monthly, 153, 82–92.
 
-Allport, G. W. (1954b). The nature of prejudice. Garden City, NY:
+Adorno, T. W., Frenkel-Brunswik, E., Levinson, D. J., & Sanford, R. N. (Eds.). (1950). The Authoritarian personality. New York: Harper & Brothers.
+
+Allport, F. H. (1924). Social psychology. Boston: Houghton Mifﬂin.
+
+Allport, F. H. (1961). The contemporary appraisal of an old prob-

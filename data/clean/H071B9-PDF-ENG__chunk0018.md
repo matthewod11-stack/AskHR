@@ -1,15 +1,9 @@
-# complex challenges.
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23620cbec356d69797e063ceb3596544a504c376
+title: H071B9-PDF-ENG
+---
+## How trust and distrust interfere with decision making
 
-First, in a fast-changing environment, you need access to accurate
-
-and updated data in order to make good decisions. The data for
-
-simple decisions is relatively easy to come by. For example, most
-
-organizations I’ve helped can access real-time customer data that they
-
-can analyze and base quick, smart decisions on. But most complex
-
-strategic challenges — for example, cross collaboration to meet a
-
-changing customer demand — require humans to bring in most of the
+Two things stand out as critical to collaborative decision making on

@@ -1,13 +1,15 @@
-# functional perspectives.
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33d5bb6248a3a6e888fc52c7f2e47523eb941013
+title: H08TA2-PDF-ENG
+---
+# Functional bias
 
-Decision repackaging
+One-on-ones reinforce a view of the organization as a set of
 
-Executives waste valuable time repeating, translating, or defending
+departments rather than a web of capabilities. Over time, this
 
-decisions made privately. This not only slows momentum—it breeds
+strengthens silos instead of creating cross-functional coherence. And
 
-misalignment and friction downstream. Trust erodes over time, and
-
-leaders become conditioned to use their 1:1s to game the system and
-
-distort the truth to ensure their views prevail.
+it forces the CEO or senior leader to act as the sole integrator of cross-

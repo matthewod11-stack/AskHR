@@ -1,5 +1,11 @@
-# 260 Psychology of Women and Gender
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 31c17ff15b25c9a28e180b2cf5ad33616447ced1
+title: untitled
+---
+## Collaboration and Power Sharing in Therapy
 
-the literature on feminist therapy discusses these in detail (Wyche & Rice, 1997). More generally, feminist therapists strive to ﬁnd ways to afﬁrm clients’ competence and their right and responsibility to make choices about their lives.
+Attention to the power relations between therapists and clients has been a distinctive feature of feminist therapy. Feminist therapists were among the ﬁrst to disseminate mate- rials to clients and potential clients informing them about the nature of therapy, how to go about selecting a therapist, and their rights as consumers. Feminist therapists have experi- mented with a variety of other ways to put the therapy relationship on a more equal footing. One is the practice of self-disclosure, for example, the disclosure that the therapist has struggled with issues akin to those the client faces. Other disclosures may show clients that their therapists are ordinary and fallible human beings. There are both ethical and theo- retical considerations that govern the use of self-disclosure;
 
-In sum, feminist approaches to clinical psychology have offered new perspectives on clinical disorders of women and girls. Feminists have challenged diagnostic and treatment practices, ethical codes, and theoretical constructs that have worked against women’s interests. Feminist therapists have offered new ideas about the conduct of therapy and new mod- els for treating problems common to women. Many of their ideas were iconoclastic when feminist therapy began in the early 1970s; now they are widely accepted. For example, it is no longer radical for therapists to encourage women to work outside the home. It is no longer radical to raise questions about equality and fairness with couples in marital therapy. It is now unexceptional to view single life and lesbian relation- ships as fulﬁlling lifestyle choices.
+259

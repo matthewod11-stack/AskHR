@@ -1,3 +1,23 @@
-## Animal Psychology and the Coming of Behaviorism
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6cf06e5d2de6e9229126daf3885d7ea1acb50480
+title: untitled
+---
+# The Impact of Evolution
 
-In terms of psychological theory and research, the impact of evolution manifested itself ﬁrst in the study of animal mind and behavior. As indicated earlier, erasing the line between humans and animals could shift psychological thinking in either of two ways. First, one might regard animals as more
+From the time of the Greeks, philosophers were concerned exclusively with declarative cognition. Recall the warrior, jurist, and connoisseur discussed in connection with Socrates. Each was ﬂawless in his arena of competence, the battleﬁeld, the courtroom, and the art gallery, knowing how to ﬁght, judge, and appreciate.Yet Socrates denied that they possessed real knowledge, because they could not state the principles guiding their actions. Exclusive concern with declarative cognition was codiﬁed in its modern form by Descartes, for whom knowledge was the preserve of human beings, who uniquely possessed language in which knowledge was for- mulated and communicated. Action was the realm of the beast-machine, not the human, knowing soul.
+
+Evolution challenged philosophers’ preoccupation with declarative knowledge. To begin with, evolution erased the huge and absolute gap Descartes had erected between human mind and animal mindlessness. Perhaps animals possessed simpler forms of human cognitive processes; this was the thesis of the ﬁrst comparative psychologists and of today’s students of animal cognition (Vauclair, 1996). On the other hand, perhaps humans were no more than complex animals, priding themselves on cognitive powers they did not really possess; this was the thesis of many behaviorists (see below). Second, evolution forced the recognition that thought and behavior were inextricably linked. What counted in Darwin’s struggle for existence was survival and reproduc- tion, not thinking True thoughts. The American movement
+
+of pragmatism assimilated evolution into philosophy, recog- nizing the necessary connection between thought and be- havior and formulating evolution’s new criterion of truth, usefulness. The ﬁrst pragmatist paper, “How to Make Our Ideas Clear,” made the ﬁrst point. C. S. Peirce (1838–1914) (1878) wrote that “the whole function of thought is to pro- duce habits of action,” and that what we call beliefs are “a rule of action, or, say for short, a habit.” “The essence of belief,” Peirce argued, “is the establishment of a habit, and different beliefs are distinguished by the different modes of action to which they give rise.” Habits must have a practical signiﬁcance if they are to be meaningful, Peirce went on: “Now the identity of a habit depends on how it might lead us to act. . . . Thus we come down to what is tangible and conceivably practical as the root of every real distinction of thought . . . there is no distinction so ﬁne as to consist in anything but a possible difference in practice.” In conclu- sion, “the rule for attaining [clear ideas] is as follows: con- sider what effects, which might conceivably have practical bearings, we conceive the object of our conceptions to have. Then, our conception of these effects is the whole of our conception of the object” (Peirce, 1878/1966, p. 162).
+
+William James (1842–1910) made the second point in
+
+Pragmatism (1905, p. 133):
+
+True ideas are those that we can assimilate, validate, corroborate and verify. False ideas are those that we can not. That is the prac- tical difference it makes for us to have true ideas. . . . The truth of an idea is not a stagnant property inherent in it. Truth happens to an idea. It becomes true, is made true by events. Its verity is in fact an event, a process.
+
+Peirce and James rejected the philosophical search for transcendental Truth that had developed after Plato. For prag- matism there is no permanent truth, only a set of beliefs that change as circumstances demand.
+
+With James, philosophy became psychology, and scien- tiﬁc psychology began to pursue its own independent agenda. Philosophers continued to struggle with metaphysics and epistemology—as James himself did when he returned to philosophy to develop his radical empiricism—but psycholo- gists concerned themselves with effective behavior instead of truth.

@@ -1,3 +1,55 @@
-# 3.3. Finnish university data
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 205162dcb17bbf7c1bc093b2c95f264558e4b68c
+title: file_1
+---
+# Factor 2
 
-Data for the fourth thesis paper were gathered in February 2007 by Aino Tenhiälä through a web-based questionnaire, which was sent to a random sample of 1,000 academic and administrative personnel of two universities in Finland. The study was approved and financed by the Office for the government as Employer Representatives (Valtion työmarkkinalaitos). It follows the ethical guidelines of the researched universities. The data in this study were collected using a double-blind procedure which meant that the university management or researchers did not have access to person identifiers. The respondents were informed about this double blind procedure, data confidentiality, and anonymity. The respondents were also acknowledged that only aggregated results would be reported and published. The respondents knew that the employer representatives, who provided records- based data for the sample, would not have any access to the completed questionnaires. The survey data were accompanied with pay data from university records. The number of responses was 495, corresponding to the overall response rate of 49.5%. Due to the missing information in some of the completed questionnaires, the final sample size was 455.
+Women should play a more active role in politics to diversify the range of political expertise? Business and the economy would benefit from more women in leading positions than at present? More women should be employed in social and health care services than at present? Women’s opportunities in working life are as good as men’s And what do you think of this statement: Married women are fully entitled to go to work irrespective of their family situation? Men bear the primary responsibility for their family’s income? It is justified that the partner with the lowest income should do a greater share of the housework? Men should participate more in the care and upbringing of their children than they do at present? Men are sufficiently encouraged at the workplace to use child care leaves? Labour market organizations should be more active in eliminating unjustified differences in pay between women and men? The employer costs incurred when employees take different forms of family leave should be distributed more evenly between the female- and male-dominated sectors? Men will also benefit from an increase in gender equality? Workplace equality plans are of no value in promoting equality between women and men? Eigen value Percentage of variance explained Cumulative percentage of variance explained
+
+.722
+
+.718
+
+.466
+
+- .230 .124
+
+- .073 .021
+
+.475
+
+.106
+
+.484
+
+.483
+
+.531 -.056
+
+2.694 20.727 20.727
+
+- .071
+
+- .055
+
+- .009
+
+- .021 -.569
+
+.726 .707
+
+.119
+
+.021
+
+- .222
+
+- .078
+
+- .213 -.028
+
+1.342 10.322 31.049
+
+Varimax rotation was performed. Factor loadings greater than .46 are shown in bold.

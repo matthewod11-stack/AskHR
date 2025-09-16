@@ -1,9 +1,7 @@
-# Pete Starman/Getty Images
-
-As organizations seek to be more inclusive in their recruitment and
-
-hiring practices, one area they can improve upon is expanding their
-
-talent acquisition playbook to include refugees.
-
-According to the U.N. Refugee Agency, the number of global refugees,
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52a49542eb70d052aa571d7f2eb94ad7a3e21a82
+title: H08BKU-PDF-ENG
+---
+## Published on HBR.org / August 27, 2024 / Reprint H08BKU

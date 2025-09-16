@@ -1,9 +1,9 @@
-# The Growth Driver Model
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab32e983a143bc73ed1b985e2960cc57890bd5c7
+title: R2404K-PDF-ENG
+---
+## innovation in Cordis, a large medical device technology ﬁrm. We also
 
-Our model has three stages. First, a corporation partners with an
-
-outside investor and identiﬁes where riskier innovations are needed,
-
-how these innovations would ﬁt into the ﬁrm’s strategy, and how
-
-they might be integrated into its operational and functional units.
+show the model’s applicability in other sectors.

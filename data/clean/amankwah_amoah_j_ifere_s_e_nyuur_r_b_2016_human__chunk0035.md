@@ -1,19 +1,17 @@
-# interviews with human resource professionals, managers and decision-makers in both the
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: b50cbc01707354d47709afc4b42672e9b5f9ed2b
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Method
 
-public and private sectors. In line with recommendations of such studies in a high relational
+Given that the issue of underperforming workers and why firms persist with them remains
 
-context of emerging economies, we utilised personal networks and the snowballing approach
+largely unexplored within the international business, strategy and human resource literature,
 
-to help identify and trace managers and employees across multiple organisations (Acquaah,
+we adopted a qualitative approach to provide the depth of understanding (Birkinshaw,
 
-2007). The study also utilised networks within two African universities to help identify
+Brannen & Tung, 2011; Eisenhardt, 1989; Miles & Huberman, 1994; Siggelkow, 2007). Our
 
-informants. Over an extended period, the authors interviewed business owners, managers,
-
-consultants, executives and investment bankers who are responsible for hiring, firing,
-
-managing and overseeing the work of employees. We also elicited views from professionals
-
-in sectors such as sales and marketing, financial services, warehousing, public sector
-
-organisations and operations management. Most of the informants are employees of global,
+work sought to generate theory rather than test theory. We adopted semi-structured

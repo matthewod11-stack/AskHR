@@ -1,9 +1,9 @@
-# and generate and reﬁne innovations.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf9b1d7f7c66484720d4e68001359b25facf5e13
+title: R2006F-PDF-ENG
+---
+## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-Immersion in the details. One principle that permeates Apple is
-
-“Leaders should know the details of their organization three levels
-
-down,” because that is essential for speedy and eﬀective cross-
-
-functional decision-making at the highest levels. If managers attend
+dilute their collective expertise, reducing their power to solve problems

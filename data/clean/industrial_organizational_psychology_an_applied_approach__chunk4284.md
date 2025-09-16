@@ -1,7 +1,9 @@
-# delivers quality. Workforce, 80(6), 67.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 86bb2c9f6e629c8dcde187246f1d2da2f1be0135
+title: industrial_organizational_psychology_an_applied_approach
+---
+## with change. Personnel Journal, pp. 54–63.
 
-Ladd, D., Jagacinski, C., & Stolzenberg, K. (1997). Diﬀ erences in goal level set for optimists and defensive pessimists under conditions of encouragement. Proceedings of the 18th Annual Graduate Conference in Industrial/Organizational Psychology and Organizational Behavior, 18, 85–86.
-
-LaFleur, T., & Hyten, C. (1995). Improving the quality of hotel banquet staﬀ performance. Journal of Organizational Behavior Management, 15(1), 69–93.
-
-Lahtela, K., Niemi, P., Kuusela, V., & Hypen, K. (1986). Noise and visual choice reaction time. Scandinavian Journal of Psychology, 27, 52–57.
+Lachnit, C. (2001), Employee referral saves time, saves money,

@@ -1,17 +1,37 @@
-# other.
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b02ce0ba73c760ab12fc820a9a7271e3d477f0ed
+title: H08TZO-PDF-ENG
+---
+# career reskilling.
 
-Popular culture is starting to reﬂect this reality, which is important if we
+- Extend leadership development to late-career professionals who still
 
-want to change the prevailing narrative. Intergenerational friendships
+have decades of contribution ahead.
 
-like the ones portrayed on hit TV shows like HBO’s Hacks and ABC’s
+These models not only retain institutional knowledge but also foster
 
-Abbott Elementary are examples of the power and mutual beneﬁt
+loyalty in a workforce that increasingly values ﬂexibility and purpose.
 
-intergenerational relationships can have on people’s lives and careers.
+- 4. From age-segregated teams to intergenerational collaboration
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The future of work is multigenerational. Today’s workplaces often
 
-6
+span four generations, from young Gen Zs to older Boomers. Rather
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+than treating age diﬀerences as a challenge, leading organizations
+
+understand that diverse perspectives can drive innovation and are
+
+leveraging them as an asset. General Electric’s reverse mentorship
+
+program—in which younger employees helped seasoned executives
+
+strengthen their digital experience—was so successful it was ultimately
+
+incorporated into the broader company strategy. PwC and Moody’s have
+
+developed cross-generational programs in which older and younger
+
+generations from diverse backgrounds are paired up to learn from each

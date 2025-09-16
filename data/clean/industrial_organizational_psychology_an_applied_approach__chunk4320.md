@@ -1,7 +1,13 @@
-## and marijuana. Psychological Reports, 79(2), 366.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c8d5ca685c6584d754b487d67bc055b6e3309509
+title: industrial_organizational_psychology_an_applied_approach
+---
+## civilization. Cambridge, MA: Harvard University Press.
 
-McCarthy, J. M., & Goﬃ n, R. D. (2001). Improving the validity
+McAndrew, F. T. (1993). Th e home advantage in individual sports. Journal of Social Psychology, 133(3), 401–403. McCabe, M. J. (2001). Th e money pit. Th e RMA Journal, 83(10),
 
-of letters of recommendation: An investigation of three standardized reference forms. Military Psychology, 13(4), 199–222.
+18–19.
 
-McCarthy, J. M., & Goﬃ n, R. (2004). Measuring job interview anxiety: Beyond weak knees and sweaty palms. Personnel Psychology, 57(3), 607–637.
+McCann, N., & Lester, D. (1996). Smoking and stress: Cigarettes

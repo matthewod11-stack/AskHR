@@ -1,7 +1,9 @@
-# knowledge, at best.
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b51d308569e41d0c77521aff71f8ea6a7630f40
+title: H08HGJ-PDF-ENG
+---
+## HBR / Digital Article / It’s Time to Reimagine Scale
 
-Given this fact, it’s hard not to wonder whether Adam Smith might have
-
-missed something. To ﬁnd out, my coauthor Susannah Furr, Oxford
-
-economist Sir John Kay, and I decided to visit the last pin factory that
+of our most foundational economic principles is based on fourth-hand

@@ -1,9 +1,15 @@
-# In Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 00dd785588d918bf1b6102a3ce57669ab90849d5
+title: issn_print_0976_013x
+---
+# sector banks. Metamorphosis.
 
-and data mining. https://doi.org/10.1145/2487575.2487691
+https://doi.org/10.1177/0972622516675958
 
-Tims, M., Shao, Y., Rosso, B. D., Kokko, K., Grant, A. M., Demerouti, E., Bakker, A. B., Barrick,
+Sitlani, K. (2012). A study of OCTAPACE culture on enhancement of managerial competence.
 
-M. R., Belschak, F. D., Colbert, A. E., Fave, A. D., Diener, E., Duan, W., Dudley, N. M., &amp;
+http://14.139.116.20:8080/jspui/handle/10603/237901
 
-Fredrickson, B. L. (2020). When and why conscientious employees are proactive: A three-
+Tang, J., Wu, S., & Sun, J. (2013). Confluence: Conformity influence in large social networks.

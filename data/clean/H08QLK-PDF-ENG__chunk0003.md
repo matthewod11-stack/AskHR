@@ -1,7 +1,17 @@
-# digitally native entrants.
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 988f24e510a71a6094ce7c30db4605f1800113d4
+title: H08QLK-PDF-ENG
+---
+# Beachmite Photography/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+In 2011, venture capitalist Marc Andreessen declared that “software is
 
-1
+eating the world,” arguing that software-driven companies would upend
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+every industry. That framing explains why the 2010s were dominated
+
+by digital transformation: incumbents and challengers alike invested
+
+heavily in enterprise software to automate workﬂows and compete with

@@ -1,3 +1,11 @@
-# Abstract
+---
+source_path: microsoft_word_jole_8_2_fall_2009_doc.md
+pages: n/a-n/a
+chunk_id: 42b01bc6ec4edda322d79902f41cfe1256ee79ef
+title: microsoft_word_jole_8_2_fall_2009_doc
+---
+## Leadership Development through Sports Team Participation
 
-The question of whether leadership is teachable has received considerable attention in the academic and practitioner arenas. Organized athletic team participation offers students a different experiential venue that many argue develops leadership. The purpose of this study is to investigate the relationship between organized sports team participation and leadership skills. We employ a valid means of measuring several leadership dimensions using a validated assessment center method. Nine distinct leadership skill levels were measured for 141 MBA program students. Using ANOVA and correlation analysis we found no systematic association between the number of seasons of sports team participation and the level of any particular leadership skill. The findings caution recruiters and other persons making personnel decisions against using this past behavior as an indicator of these or any other leadership skills. By showing a preference for athletes, recruiters may bypass persons who would be a good fit for a position.
+Marian M. Extejt Professor of Management Gabelli School of Business Roger Williams University Bristol, RI 02809 mextejt@rwu.edu
+
+Jonathan E. Smith Professor of Management Boler School of Business John Carroll University University Heights, OH 44118 jsmith@jcu.edu

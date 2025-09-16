@@ -1,7 +1,21 @@
-# Gather better data.
+---
+source_path: H08HMK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51379ede82ba9d039e76960a1eb82c1bd1ac6b3d
+title: H08HMK-PDF-ENG
+---
+## due to the extraordinarily high cost of childcare and eldercare), many
 
-It’s likely you have no idea how caregiving aﬀects your employees. And
+talented people simply quit: 32% of respondents said they’d left a job
 
-for all the talk about making better decisions based on data, companies
+due to caregiving responsibilities in total, with the number being as
 
-rarely collect any on working families. To do so, consider the following
+high as 50% for those aged 26−35.
+
+There’s much more companies can do to support their caregivers. This
+
+involves both understanding their value and adopting policies that
+
+are in line with people’s needs and lived experiences. Here are some
+
+strategies from HBR’s archives on how to do this.

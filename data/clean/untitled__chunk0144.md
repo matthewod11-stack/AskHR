@@ -1,5 +1,11 @@
-# PSYCHOLOGY’S FIRST LABORATORY
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 03439de2fd3a95208008429458c9414a2c4700c3
+title: untitled
+---
+# Mental Chronometry
 
-The founding of the ﬁrst laboratory in experimental psychol- ogy has generally been credited (but not without some
+Johannes Müller had speculated in his Handbuch that the speed of transmission of a nerve impulse was greater than the speed of light. Helmholtz tested that hypothesis by measuring the time to react (“reaction time”) to stimuli applied to motor nerves of different lengths in a frog and found the time to be much slower than the speed of light (Boring, 1950; Hall, 1901).Heextendedthisresearchtosensorynervesbymeasur- ing the time to respond by a human to a touch on the toe and a touch on the thigh and demonstrated that he time to respond wasslowerfortheimpulsethathadlongertotravel.Helmholtz extended the use of time to measure a sensory-motor response to include spoken responses to words, providing a measure of the time necessary to associate words or ideas.
 
-3
+Thedeterminationofreactiontimestomeasurethespeedof mental processes was investigated by the Dutch physiologist F. C. Donders (1818–1889). Donders began with the time to make a motor response to a stimulus (simple reaction time) and then added more stimuli, each with a different response. By subtracting simple reaction time from the time taken to make the correct response to one of several stimuli, Donders believed that he had measured the time required to make a choice(Boring,1950;Woodworth,1938).Hethenrecognized that his experimental procedure required not only that an ob- server choose a response from among the several responses possible but also that an observer detect which stimulus had been presented from among the several possible stimuli (dis- crimination reaction time). Using the subtractive method that he devised, Donders estimated the time for a simple reaction, the time taken to discriminate one stimulus from others, and thetimetakentochoosearesponse.Thepossibilityofmeasur- ing the time required by mental processes appeared to have been realized, and the reaction-time experiment as well as the subtractive procedure became part of the science of psychol- ogy (for modern adaptations, see Posner & Raichle, 1994; Sternberg, 1969).

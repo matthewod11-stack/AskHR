@@ -1,13 +1,15 @@
-# Kelleher from Southwest Airlines.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 1112a161563f9c136d9f3ea329fbe817b6f4b131
+title: beo_chap7_1
+---
+# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
 
-If a leader’s behavior and values are thought to exemplify those of the culture,
+Another element of cognitive economy in organizations is “personification.’
 
-then it may be easier to answer the question, “What does my implicit employment
+Much of human perception and judgment is organized around what we know about
 
-contract require me to do?” by answering the substitute question, “What would Walt
+people and how we summarize our knowledge in the form of traits and thumbnail sketches of people.!” It is cognitively natural to identify an organization with a
 
-do?” (as employees at Disney often did, long after Walt’s death). The personality
-
-of a corporate icon then becomes an asset that economizes on transaction costs by
-
-telling people what to do, in a way their brains can remember and understand more
+charismatic founder or iconic leader, such as Walt Disney, Bill Gates, and Herb

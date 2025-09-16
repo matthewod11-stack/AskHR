@@ -1,17 +1,11 @@
-# age diversity in decision-making bodies.
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57916036f4072596ca086e7f5d4f0c88a3b67e13
+title: H07TV8-PDF-ENG
+---
+# circumstances.
 
-. . .
+Finally, enhancing the representation of the next generation can also be
 
-Businesses play a crucial role in tackling the challenges of our
-
-times, such as climate change. To enhance their eﬀectiveness in this
-
-arena, they must become more curious to develop the innovations we
-
-require, as well as more eager to adapt their behaviors accordingly.
-
-Current leadership structures can hinder this. Striving towards
-
-intergenerational leadership is key to overcoming these issues and
-
-unlocking competitive advantage by enhancing businesses’ capacity for
+accelerated through instituting compositional targets or rules to ensure

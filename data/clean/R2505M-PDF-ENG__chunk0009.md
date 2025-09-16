@@ -1,17 +1,27 @@
-## HBR / Magazine Article / Why You Need Systems Thinking Now
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b36b0922ffb45edb8e1d82ba05216ca73b3acff0
+title: R2505M-PDF-ENG
+---
+## unpredictable reactions in ﬁnancial markets.
 
-polluting. Solar panels also look like an environmental silver bullet, but
+Systems thinking helps predict and solve problems in dynamic,
 
-the rapidly growing scale of their manufacturing threatens to produce a
+interconnected environments. It’s especially relevant to innovation for
 
-tsunami of electronic waste. Truly sustainable technology solutions for
+sustainability challenges. Electric vehicles, for example, have attracted
 
-environmental challenges require a systems-led approach that explicitly
+a lot of investment, notably in China, because they are seen as a
 
-recognizes that the beneﬁts of an innovation in one part of the planet’s
+green technology. But their net eﬀect on carbon emissions is highly
 
-ecology may be outweighed by the harm done elsewhere.
+contingent on how green a country’s power supply is. What’s more,
 
-In this article we’ll oﬀer a set of principles that can guide companies
+their technology requires raw materials whose processing is highly
 
-in applying systems thinking to complex problems. Our advice is based
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,23 @@
-# machine” for a reason.
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a6223b32e4147bf010af63ec96e570fcdaa270e
+title: H08U3Y-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Tackle Collective Decision-Making
 
-Eighteen months after the partnership with CityScope began, Hamburg
+over those who lack money, time, or expertise, giving anyone the
 
-had not just housed thousands of refugees: It had strategically
+opportunity to understand and propose changes.
 
-distributed them across the city to maximize social cohesion, economic
+Third, CityScope enables the full community to ﬁnd a path to
 
-opportunity, and community resilience. Since then, the city has been
+consensus, not just the elite. Residents may not agree on this or that
 
-integrating CityScope into its decision-making processes more broadly,
+housing project, but they can ﬁnd common ground around shared
+
+priorities. By shifting the focus of deliberation from speciﬁc projects or
+
+laws to broader priorities for the city, CityScope reframes the discussion
+
+towards the bigger picture. Larson calls the platform a “consensus

@@ -1,15 +1,22 @@
-## the prospective immigrant's qualiﬁcations.
+---
+source_path: Employment Law Guide - Workers Seeking Permanent Employment in the United
+  States.md
+pages: n/a-n/a
+chunk_id: 7fcf49ae057daf755ff739b253a21b1009ff5196
+title: Employment Law Guide - Workers Seeking Permanent Employment in the United States
+---
+# Basic Provisions/Requirements
 
-Prior to ﬁling ETA Form 9089 with ETA, the employer must request a prevailing wage determination from the State Workforce
+A permanent labor certiﬁcation issued by the Department of Labor (DOL) is most often the ﬁrst step in allowing an employer to hire
 
-Agency (SWA)(https://www.dol.gov/agencies/eta/foreign-laborcontacts.cfm) having jurisdiction over the proposed area of intended
+a foreign worker to work permanently in the United States. In most instances, before the U.S. employer can submit a petition to
 
-employment. In addition, the employer (except for those applications involving college or university teachers selected pursuant to a competitive recruitment and selection process) must have conducted certain recruitment activities to ﬁnd U.S. workers prior to
+the Department of Homeland Security's U.S. Citizenship and Immigration Services (USCIS) seeking to hire a foreign worker as an immigrant, the employer must obtain an approved labor certiﬁcation from the ETA. The Department of Labor must certify to
 
-ﬁling the application.
+USCIS that there are no U.S. workers able, willing, qualiﬁed, and available to accept the job and that employment of the alien will
 
-The employer must recruit under the standards for professional occupations set forth in 20 CFR Part 656.17(e)(1) if the occupation
+not adversely aﬀect the wages and working conditions of similarly employed U.S. workers.
 
-involved is on the list of occupations. This list is published in Appendix A to the preamble of the ﬁnal
+An employer must ﬁle with ETA an Application for Permanent Employment Certiﬁcation (ETA Form
 
-regulation(https://www.dol.gov/agencies/eta/foreign-laborpdf/PERM_Final_Rule_12-27-04_FR.pdf#Page=53), and a bachelor's or higher degree is a customary requirement. For all other occupations not normally requiring a bachelor's or higher degree, employers can
+9089(https://www.dol.gov/agencies/eta/foreign-laborpdf/9089form.pdf)). The application describes in detail the job duties, educational requirements, training, experience, and other special capabilities the employee must possess to do the work, and a statement of

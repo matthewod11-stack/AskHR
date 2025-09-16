@@ -1,31 +1,69 @@
+---
+source_path: H08T8D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 695af62379cc7ac00a9ca798a072e659cbb28776
+title: H08T8D-PDF-ENG
+---
 ## HBR / Digital Article / 4 Strategies to Help New Leaders Give Feedback
 
-constructive. Understanding the landscape—beyond the data—allows
+As a former C-Level executive turned CEO and executive coach, I’ve
 
-you to deliver feedback that is informed and eﬀective. It helps you avoid
+faced this challenge ﬁrsthand and have supported many leaders in
 
-missteps that can erode trust before it’s built.
+navigating this critical phase. Here are four strategies to help new
 
-As he started his new role, Barry made a personal commitment to
+leaders approach feedback with conﬁdence and clarity.
 
-notice his instinct to move quickly and take more deliberate action.
+- 1. Assess the landscape.
 
-That opportunity came quickly when he noticed that his head of
+A few weeks into his new role, I met Barry*, a divisional CFO, for an
 
-accounting, Luis, lacked the strategic capabilities required for the role.
+executive coaching session focused on helping him maximize his early
 
-Avoiding his ﬁrst instinct to deliver tough feedback immediately, Barry
+impact. He reﬂected on a pattern from earlier in his career: his tendency
 
-gathered more context. Over the next couple of weeks, he observed
+to act quickly in new roles, an approach that had created resistance and
 
-team interactions, asked thoughtful questions, and sought input from
+strained relationships.
 
-Luis’s peers. He learned that Luis was a 17-year company veteran who
+As a new leader, it’s tempting to jump straight into action, pushing for
 
-was widely respected, collaborative, and instrumental in mentoring
+quick wins to demonstrate your value. But without understanding the
 
-younger talent. With this broader understanding, Barry delivered
+broader context, even the most well-intentioned moves can backﬁre.
 
-candid feedback about the skill gap and oﬀered a transition into a
+To navigate this tension between speed and context, new leaders can
 
-newly created role that honored Luis’s strengths while addressing the
+beneﬁt from creating a structured learning plan across four domains:
+
+technical, interpersonal, cultural, and political. This framework, drawn
+
+from Michael Watkins’ The First 90 Days, helps leaders explore not just
+
+systems and roles, but also values, norms, informal power structures,
+
+and hidden dynamics. Within each domain, ask questions about the
+
+past (What’s led to this team’s success—or setbacks?), the present (Who’s
+
+inﬂuential? What’s the team’s operating rhythm?), and the future (What
+
+changes are on the horizon? What barriers exist?).
+
+You’ll rarely have complete clarity, but after you’ve triangulated
+
+perspectives across diﬀerent levels and sources, the picture starts
+
+to sharpen. If multiple people are raising similar themes and
+
+that is consistent with what you observe, you’re likely on ﬁrmer
+
+ground. The goal isn’t to gather all the information, but to gather
+
+enough to give feedback that is informed, contextualized, and
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

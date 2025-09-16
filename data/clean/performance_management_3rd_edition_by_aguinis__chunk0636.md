@@ -1,9 +1,13 @@
-# 4.4.1 Behavior Approach
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8be24e71705059ba8481f2ac88d3da52d6dfcd0f
+title: performance_management_3rd_edition_by_aguinis
+---
+# 4.4 APPROACHES TO MEASURING PERFORMANCE
 
-The behavior approach emphasizes what employees do on the job and does not consider employees’ traits or the outcomes resulting from their behaviors. This is basically a process-oriented approach that emphasizes how an employee does the job.
+Before we discuss how to measure performance, we must remember that employees do not perform in a vacuum. Figure 4.1 shows that employees work in an organizational context, engaging in certain behaviors that produce certain results. The same employee may behave differently (and produce different results) if placed in a different situation (e.g., working with a different supervisor or using better or worse equipment).
 
-The behavior approach is most appropriate under the following circumstances:
+Given the model shown in Figure 4.1, there are three approaches that can be used
 
-- The link between behaviors and results is not obvious. Sometimes the relationship between behaviors and the desired outcomes is not clear. In some cases, the desired result may not be achieved in spite of the fact that the right behaviors are in place. For example, a salesperson may not be able to close a deal because of a downturn in the economy. In other cases, results may be achieved in spite of the absence of the correct behaviors. For example, a pilot may not check all the items in the preflight checklist but the flight may nevertheless be successful (i.e., take off and land safely and on time). When the link between behaviors and results is not always obvious, it is beneficial to focus on behaviors as opposed to outcomes. • Outcomes occur in the distant future. When the desired results will not be seen for months, or even years, the measurement of behaviors is beneficial. Take the case of NASA’s Mars Exploration Rover Mission program. NASA launched the explo- ration rover Spirit on June 10, 2003, which landed on Mars on January 3, 2004, after traveling 487 million kilometers (302.6 million miles). Its twin, the exploration rover Opportunity, was launched on July 7, 2003, and landed on the opposite side of Mars on January 24, 2004. From launching to landing, this mission took about six months to complete. In this circumstance, it is certainly appropriate to assess the performance of the engineers involved in the mission by measuring their behaviors in short intervals during this six-month period rather than waiting until the final result (i.e., successful or unsuccessful landing) is observed.
-
-- Poor results are due to causes beyond the performer’s control. When the results of an employee’s performance are beyond the employee’s control, it makes sense to
+to measure performance: the behavior, results, and trait approaches.18

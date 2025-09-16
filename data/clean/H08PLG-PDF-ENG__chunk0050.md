@@ -1,5 +1,11 @@
-## them. Consider the International Computation and AI Network, which
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dae61cfba590add97bdc32115156e16999361e2f
+title: H08PLG-PDF-ENG
+---
+# Institutions
 
-promotes AI access worldwide, and AI for Good which focuses on
+Open-source practices are key to expanding global access to AI tools,
 
-solving for global challenges.
+and there are many organizations that can help companies make use of

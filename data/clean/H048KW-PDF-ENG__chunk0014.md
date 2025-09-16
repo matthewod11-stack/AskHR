@@ -1,21 +1,25 @@
-# HBR / Digital Article / When You Need to Take Time Off Work for Mental Health Reaso…
+---
+source_path: H048KW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56323f1dafc37c765efd9534d17b1e8a93a52043
+title: H048KW-PDF-ENG
+---
+# disability.
 
-measured pace. And consider the impact of any medications you might be
+Regardless of whether you disclose, prepare for colleagues’ questions
 
-taking. Some might make you drowsy, so see if you can shift your hours to
+about your absence. A brief and consistent narrative will help you stay
 
-avoid working at your most tiring periods. Over time, your psychiatrist
+focused on readjusting to work. You might say something like, “I took time off for health [or personal] reasons, but things are ﬁne now and I’m happy
 
-may want to adjust your medications to optimally manage your brain
+to be back to work.”
 
-chemistry. It can be days, weeks, or months before you and your doctor
+Consider whether you should go back full-time right away or part-time at ﬁrst. Dealing with a mental illness can be exhausting, so give yourself the
 
-can tell if the medication and dosage are right for you. During this
+time you need. Reintegrate into your larger social circle with the same
 
-transition time, you may experience physical reactions or mood swings.
+Copyright © 2018 Harvard Business School Publishing Corporation. All rights reserved.
 
-Develop a personal mantra to help you transition back: “Be compassionate
+3
 
-to myself.” “I’m on a learning curve.” “Take it a few hours at a time.” Rely
-
-on your support system — an empathetic family member, a close friend, a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

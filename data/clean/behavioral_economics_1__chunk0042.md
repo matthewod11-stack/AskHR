@@ -1,29 +1,35 @@
-# unusually high- and low-performing firms (an application of the “representativeness heuristic”).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 7afb5f164d50a86000be4cb8901327fdd493af4e
+title: behavioral_economics_1
+---
+# (Mullainathan, in press).
 
-An important theoretical attack on market efficiency was showing that if investors have limited horizons
+Finance: The central hypothesis in financial economics for the last thirty years is that stock markets are
 
-(due to quarterly evaluation of institutional portfolio managers, for example) then even if prices wander away
+informationally efficient. Faith in this claim comes from a simple argument: Any semi-strong-form inefficiency
 
-from fundamental values, investors might not have enough aggregative incentive to trade prices back to the
+(detectable using cheaply-acquired data) would be noticed by wealthy investors and erased. Market efficiency
 
-fundamentals, which allows mispricing to persist. (As Keynes, noted, markets might stay irrational longer than
+was therefore thought to provide a stiff challenge to models which assume investors have limited rationality.
 
-you can stay liquid.14).
+But “behavioral finance” based on rationality limits has emerged rapidly and might be the clearest empirical
 
-A central point here is that an attack on the proposition that prices would fully reveal information caused
+franchise success for behavioral economics (e.g., Barberis and Thaler, in press). One advantage is that theories
 
-the finance profession to carefully examine the microstructural and institutional reasons why such revelation
+of asset pricing often provide sharp predictions. Another big advantage is that there are many cheaply-available
 
-might, or might not occur. So the behavioral critique, whether right or wrong, did lead to a sharper focus on
+data which can be used to test theories.
 
-institutional details, which eventually led to better financial economics.
+Behavioral finance got its biggest early boost from DeBondt and Thaler’s (1985) discovery that
 
-A recent trend is extending some of these ideas to corporate finance— how companies raise and spend
+portfolios of “loser’ stocks (stocks whose market value had dropped the most in the previous year)
 
-financing from capital markets (see Baker, Ruback, Wurgler 2004). Behavioral influences might be even
+outperformed portfolios of winners in subsequent years. Their paper was published in the proceedings of the
 
-stronger here than in asset pricing because large decisions are made by individuals or small groups, and
+19
 
-discipline is only exerted by boards of directors, career concerns, sorting for talented decision makers, and so
+Journal of Finance and immediately drew attention and counterargument. Note that DeBondt and Thaler
 
-forth. So it is possible that very large corporate mistakes are made by a combination of limitedly-rational
+predicted this anomaly, based on the idea that investors would be surprised by reversion to the mean in

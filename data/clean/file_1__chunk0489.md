@@ -1,7 +1,11 @@
-## effect?", Current Directions in Psychological Science, 11 (5) 159-63.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 8d521f3524b5ac23a4b64fea85a8ace0f71ad282
+title: file_1
+---
+## gender. New York, NY: Plenum Publishers, 215-227.
 
-Sweeney, P. and D. McFarlin, 1997. Process and Outcome: Gender Differences in the Assessment of Justice. Journal of Organizational Behaviour, 18, 83-98.
+Stroh, L., Brett, J. and A. Reilly, 1992. All the right stuff: a comparison of female and male managers' career progression. Journal of Applied Psychology, 77, 251-60.
 
-Vroom, V., 1964. Work and Motivation. San Francisco, CA: Jossey-Bass.
-
-Walster, E., Traupmann, J. and G. Walster, 1978. Equity and extramarital sexuality. Archives
+Suls, J., Martin, R. and L. Wheeler, 2002. Social comparison: why, with whom and with what

@@ -1,13 +1,9 @@
-## methodologies to the core capabilities of generalized AI technologies.
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4fb76e51e6ce84193964a051093b6cc84f91e3c
+title: H08TQF-PDF-ENG
+---
+## operates within a speciﬁc domain’s decision-making framework. These
 
-The result is that they can generate far more intelligent and accurate
-
-outputs in speciﬁc domains like healthcare and ﬁnance than would be possible for generalist AI models. For example, a specialized model
-
-designed to assist a physician making a treatment decision must not
-
-only know what aspects of a patient’s current clinical status and medical
-
-history are relevant but also be able to identify appropriate treatment
-
-protocols and the strength of the evidence supporting that protocol.
+generative AI technologies add highly contextualized training data and

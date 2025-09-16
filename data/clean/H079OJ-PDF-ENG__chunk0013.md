@@ -1,13 +1,17 @@
-## HBR / Digital Article / Avoiding Conflict Will Only Hurt Your Family Business
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33ab59bd59bb67afe966fde3d9c17bab7dc3473b
+title: H079OJ-PDF-ENG
+---
+## cross-generational conversations and collaboration. Absent those
 
-understand the senior generation’s intentions and approach, growing
+conversations, the senior generation may not learn to trust the
 
-frustrated with the pace of change.
+junior generation and vice versa. And the junior generation may not
 
-Perhaps most importantly, fake harmony can lead to what we call a
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-“cliﬀ event” — an unaddressed conﬂict that builds and builds over time
+2
 
-until it erupts into far more serious and complex arguments. Cliﬀ events
-
-can tear at the fabric of a family and limit the family’s ability to make
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

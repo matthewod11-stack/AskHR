@@ -1,37 +1,19 @@
-## HBR / Digital Article / How CEOs Are Using Gen AI for Strategic Planning
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c7c51d515dcef93a67f4182eac7382423852c33
+title: H08DO8-PDF-ENG
+---
+# prompt:
 
-trials of cereals, vegetables and fruit. What are the key strategic
+We’re a commercial agricultural research organization. With 120
 
-issues we’re likely to face in the future?
+staff, we are the dominant player in our ﬁeld of independent
 
-The response contained nine headings. Under each were two action
+contractors. Our clients engage us to conduct a wide range of ﬁeld
 
-points. Was there anything new? Yes. But there were also omissions.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-The gen AI tool didn’t pick up two items on Keith’s team’s list. These
+3
 
-were “branch number and location” and “proﬁtability.” Branch location
-
-is a very speciﬁc issue to Trident and gen AI can hardly be expected to
-
-know about that. Not mentioning “proﬁtability” is, we think, a big miss.
-
-Also, while gen AI picked “competition” as one of its nine issues it didn’t
-
-mention the critical issue of “product pricing.” It is a critical issue in this
-
-industry as work is won on a tender basis.
-
-ChatGPT’s underlying large language model, though trained on
-
-vast data, lacks access to company-speciﬁc information, explaining
-
-some omissions. Keith should note that these systems are “non-
-
-deterministic,” meaning each response may diﬀer. To mitigate this,
-
-Keith could regenerate responses to see alternative answers (in
-
-ChatGPT, press ChatGPT under the initial response). We also found that
-
-asking gen AI tools to simply “provide 10 more ideas” helps create a long
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

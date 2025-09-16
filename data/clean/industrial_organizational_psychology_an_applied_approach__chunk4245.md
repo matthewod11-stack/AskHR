@@ -1,13 +1,17 @@
-## Imrhan, S. N., Imrhan, V., & Hart, C. (1996). Can self-
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7ebc65af70e6a8da6e643075b6950b8d97aa6176
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Ilgen, D. R., Nebeker, D. M., & Pritchard, R. D. (1981). Expectancy
 
-estimates of body weight and height be used in place of measurements for college students? Ergonomics, 39(12), 1445–1453.
+theory measures: An empirical comparison in an experimental simulation. Organizational Behavior and Human Performance, 28, 189–223.
 
-Indik, B. P. (1965). Organization size and member participation: Some empirical tests of alternate explanations. Human Relations, 15, 339–350.
+Ilies, R., Gerhardt, M. W., & Le, H. (2004). Individual diﬀ erences in leadership emergence: Integrating meta-analytic ﬁ ndings and behavioral genetics estimates. International Journal of Selection and Assessment, 12(3), 207–219.
 
-Ironson, G. H., Smith, P. C., Brannick, M. T., Gibson, W. M., & Paul, K. B. (1989). Construction of a Job in General Scale: A comparison of global, composite, and speciﬁ c measures. Journal of Applied Psychology, 74, 193–200.
+Ilies, R., & Judge, T. A. (2003). On the heritability of job
 
-Irving, P. G., & Meyer, J. P. (1994). Reexamination of the met-
+satisfaction: Th e mediating role of personality. Journal of Applied Psychology, 88(4), 750–759.
 
-expectations hypothesis: A longitudinal analysis. Journal of Applied Psychology, 79(6), 937–949.
-
-Isenberg, D. J. (1986). Group polarization: A critical review and
+Ilies, R., Nahrgang, J. D., & Morgeson, F. P. (2007). Leader- member exchange and citizenship behaviors: A meta- analysis. Journal of Applied Psychology, 92(1), 269–277.

@@ -1,13 +1,11 @@
-# Equality Theory
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: 005889dc0d3c5cb10b876a51190c063c5c454674
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+## Existential Distributive Equality in Organizational Practice
 
-these philosophical interpretations to the workplace (e.g., Lindblom’s 2011, workplace interpretation of Rawls; Ga- gnon and Cornelius’ 2000, workplace interpretation of Sen). However, if we apply a descriptive rather prescriptive lens, it seems that organizations are already implementing existential distributive equality, to some degree, and in a fashion compatible with the interpretation of existential equality of membership.
+Up to this point, we have deﬁned existential distributive equality as a general mode of treatment, without speciﬁ- cally considering what might be distributed in such a manner. The ‘‘equality of what’’ question has various societal level interpretations, including equality of basic liberties and opportunity (Rawls 1971, 2001), equality of capabilities (Sen 1999), and equality of resources (Dworkin 2000). There has been some prescriptive translation of
 
-that organizations currently engage in a substantial degree of distributive equality rel- ative to what is referred to in the literature as either ‘‘status leveling’’ (Lawler 2000, 2006; Morand 2010; Walton 1985) or ‘‘symbolic egalitarianism’’ (Pfeffer 1994, 1998). These two phrases are widely used in the literature on high- involvement/high-performance organizations to reference organizations’ attempts to diminish or blur status distinc- tions. Speciﬁc practices here include the elimination of differential ofﬁce and parking space, of segregated cafe- teria and washroom facilities, of differential dress codes, differential perquisites, and so forth. These practices have never been described in terms of distributive equality, yet we contend they perfectly instance such.
-
-Speciﬁcally, we suggest
-
-Here recall our earlier contention to the effect that the extant literature too narrowly focuses on remunerative distribution, and only within small equal-status groups at that. If one attempts to go beyond the small group focus, toward organizations as social systems broadly conceived, and beyond a narrow focus on remuneration, the logical focus of inquiry would be organizational status systems. That is, any venturing into greater distributive equality within organizations is necessarily predicated on the exis- tence of distributive inequalities, and the primary nexus of distributive inequality in organizations is none other than their status systems.
-
-By organizational status, we refer here to individuals’ formal positions within the organizational hierarchy. But at the same time, status systems also refer to everything that—again distributively speaking—goes with said posi- tions—be this a particular form of remuneration, a corner ofﬁce, a mahogany desk, or so on. The intention of so- called status leveling, or symbolic egalitarianism, is not to entirely eliminate status, but to diminish, to mitigate, or to blur these forms of inequality.3
-
-3 While allocative equality need not require the existence of a sharp organizational class system, it is often linked to status structures within organizations. For instance, there can be horizontal inequal- ities. Jack and Jill may be co-workers of equivalent status, and Jill may be provided a large corner ofﬁce, Jack a smaller ofﬁce. But this horizontal inequality becomes also a vertical inequality, insofar as one outcome is deemed superior to the other. As soon as one begins to speak of an inequality (a difference) as better or worse, one then becomes superior and the other inferior, and this takes on a verticality that takes us into the realm of status—of prestige systems.
+2 ‘‘Enlightenment Philosophy‘‘ casts a broad net. While we use Enlightenment philosophy to capture a signiﬁcant turning point in the history of ideas, it should be noted that Rousseau, Jefferson, and Locke do not hold precisely equivalent views. Moreover, the concept of human equality precedes the Enlightenment in that it is encoun- tered in all major religious traditions.

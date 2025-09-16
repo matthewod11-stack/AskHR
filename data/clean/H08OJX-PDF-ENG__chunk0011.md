@@ -1,7 +1,13 @@
-# HBR / Digital Article / When Another Senior Leader Is Threatening Your Reputation
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de1ecf28d3ead8fe44f81dfd010b5d5f12f0daaa
+title: H08OJX-PDF-ENG
+---
+# issue.
 
-Questions that executives can ask themselves to help determine if they
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-risk corporate gaslighting include.
+3
 
-- Is the behavior consistent over time? Does the behavior occur under
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

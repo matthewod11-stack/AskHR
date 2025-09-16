@@ -1,11 +1,7 @@
-# G. BLAU ET AL.
-
-and Safety(cid:2)0.54. Based on Hinkin (1995), a recommended alpha reliability threshold of 0.70 must be attained for scale formation. Using this criterion, the two-item Safety factor was deleted because of its poor reliability esti- mate. This resulted in four OB scales being formed using the number of items divided by the response scale for further analyses: Be Myself, Acceptance, Diversity Valued and Connection. There were no significant dif- ferences between any of the four OB scale means between Company A and Company B respondents. This allowed the two samples to be combined for the analyses below.
-
-Means, standard deviations and correlations of continuous study variables Table 3 shows the means, standard deviations, and correlations among con- tinuous (measured) study variables. Age, political scale, and organizational tenure means are close to the middle of each scale with larger standard deviations. The four OB scales, Be Myself, Acceptance, Diversity Valued, and Connection, as well as the two outcome variables, Productivity and Intent to Stay, all have high means and lower standard deviations. There were no significant differences in outcomes between Company A and Company B, and using listwise deletion, the sample size was reduced from 141 to 124 due to missing data.
-
-The four OB scales were correlated, with a range of r(122) ¼ 0.41 to 0.59, with the strongest correlation between Be Myself and Acceptance, r(122) ¼ 0.59, which means (0.59)2 ¼ 35% overlap. These results indicated that the scales were sufficiently distinct to be used separately (Stevens, 1996). The combination of factor analytic, reliability estimates, and correl- ational results support RQ1, reliable and valid OB scales can be measured. The correlation of r(122) ¼ 0.39 between Productivity and Intent to Stay supported their distinctiveness.
-
-General significant correlation relationships in Table 3 have been sup- ported by prior research, i.e., the positive relationship between age and organization tenure, r(122) ¼ 0.34 (Brimeyer, Perucci & Wadsworth, 2010); the negative relationship between age and political scale, r(122) ¼ (cid:2)0.27 (Malka & Lelkes, 2010); and the positive relationship between age and intent to stay, r(122) ¼ 0.31 (Griffeth, Hom, & Gaertner, 2000). Showing these consistent correlations with prior research gives more confidence in the other correlations found in Table 3. These findings provide support for RQ2, positive relationships between OB scales to productivity and intent to stay.
-
-Additional Independent T-test Results on OB Scales. Independent sample t-tests were done (all two-tailed), to explore the possible relationship of nominal variables (Table 1) to each OB scale. There are two gender differ- ences; men were higher on Acceptance (M¼5.43) than women (M¼5.19),
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 5ae2ca25ac3bcb011d7c814141bfc0c58d8deccb
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# 242

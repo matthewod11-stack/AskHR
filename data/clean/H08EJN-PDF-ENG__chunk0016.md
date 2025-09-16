@@ -1,21 +1,17 @@
-# Give Your Leader a “Tee-Up”
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8efe3987f7e120a8e17f43a9df5cd25ce2af1d8f
+title: H08EJN-PDF-ENG
+---
+## Leadership Center at the Tuck School of Business at Dartmouth College.
 
-Before you present something for your boss to respond to, lay some
+If your leader is easily inﬂuenced by whoever talked to them last, what
 
-groundwork and set the stage for them to engage eﬀectively. Proactively
+other organizations are doing, or the TikTok they saw this morning,
 
-explain the context of the project, why it matters, who is involved, and
+it shouldn’t sentence you to a constant state of ﬂux. While you can’t
 
-what the expectations were (because they probably forgot).
+control their behavior, you’re not powerless.
 
-Let’s say you work in customer success, and you’ve found your
-
-team is often missing out on valuable pieces of customer feedback.
-
-Customer comments left on social media stay in marketing, feedback
-
-given directly to a sales rep stays in sales, and customer-survey data
-
-is unorganized. You and your boss agree that better collecting and
-
-theming customer feedback would be a high-value project for your
+Here are ﬁve strategies I’ve used with my clients in this situation:

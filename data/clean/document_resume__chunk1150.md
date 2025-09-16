@@ -1,3 +1,9 @@
-# 3 Acceptable
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: a0785c6fa116a09cccde0581c1293c6d1e12992b
+title: document_resume
+---
+# 4 Very Good
 
-Shares responsibilities in divisional planning meetings regarding course development. Prepares each quarter written course out- lines (syllabi) for courses taught, incorporating recent develop- ments in subject area and current methods of instruction. Submits outline on time to Dean's office. Makes suggestions re- garding textbooks and other teaching aids.
+Takes an active role in divisional planning meetings regarding curriculum or course development. Researches current literature. Shares information with colleagues. Updates course outlines and suggests ways to optimize format of course outlines.

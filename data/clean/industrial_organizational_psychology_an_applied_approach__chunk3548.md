@@ -1,11 +1,17 @@
-# Media Resources and Learning Tools
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 747b88ba60efbede41dd5999649380b132df192c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Questions for Review
 
-7
+. Why are employees reluctant to change? . How important is organizational culture in organization development? . When organizations talk about “empowering employees,” what do they
 
-7
+actually mean?
 
-cengage.com/psychology/aamodt, where you Visit our website. Go to www. will find online resources directly linked to your book, including chapter-by- chapter quizzing, flashcards, crossword puzzles, application activities, and more. Want more practice applying industrial/organizational psychology? Check out the I/O Applications Workbook. This workbook (keyed to your textbook) offers engaging, high-interest activities to help you reinforce the important concepts presented in the text.
+. Is downsizing a good idea? Why or why not? . What is the best work schedule? . Should employees be allowed to moonlight? Why or why not?
 
-554
+organization development
 
-chapter 
+553

@@ -1,23 +1,17 @@
-# instead of just the façade.
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 60d0d986a8422642c26a98d4d7c2881160cc8cf2
+title: H08SR2-PDF-ENG
+---
+## In the corporate workplace…maybe mostly for women…there’s this
 
-Viewing their colleagues—and their relationships with these colleagues
+belief that we always have to be strong and we have to be stoic and
 
-—with fresh eyes motivated our research participants to interact
+we have to be all of these things. I think when we put on this façade,
 
-with colleagues in ways that both deepened their existing positive
+we don’t show any of that vulnerability. By riding together, all of a
 
-relationships and forged new ones. For instance, participants described
+sudden, you’re extremely vulnerable… I think the humanizing [thing]
 
-reaching out to colleagues who they would have previously avoided,
-
-such as leaders who were far more senior to them in the organization.
-
-They also would speak more candidly and openly to these colleagues. This process produced powerful advantages for leaders and their staﬀ,
-
-which we outline below.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+is that you really just get to see the true human element of a person

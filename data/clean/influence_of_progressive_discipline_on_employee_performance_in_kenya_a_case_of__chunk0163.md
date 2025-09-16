@@ -1,3 +1,15 @@
-# Data Collection procedure
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 465fc6d040534b52d49b64ccc0a42ce9b6c26232
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Data Collection Instruments
 
-According to (Creswell, 2002), data collection procedure is a means by which information is obtained from the selected subjects of an investigation. After seeking the consent of the JKUAT and MWDL management to allow the study to be conducted in the organization for collecting data, the researcher visited the respondents within a span of one to three weeks to allow time for the respondents to fill in the questionnaires. Also, the researcher explained the purpose of the visit to the respondents. This assured the respondents of their confidentiality of any information they would give. The primary data was being collected from employees of Ltd, using Mukurwe-ini Wakulima Dairy questionnaires collect primary data. According to (Kothari,2004), questionnaires have low cost even when the universe is large
+The study had to determine the data collection approach largely by identifying the type of information needed (Cooper & Schindler, 2003). is Cooper & Schindler contend that this
+
+influenced by investigative questions that must be answered by the study and the desired data for each question. The study used type questionnaire as the research instrument. The Questionnaires consisted of both open ended and closed questions. Open ended questions
+
+- 1567 -
+
+required the respondent to answer questions by narrating their experiences and giving their opinions and this generated qualitative data while the closed questions required multiple choices. Both of these types of questions were administered to the respondents so as to gather information. The questionnaires enabled the researcher to collect data within a shorter time since most of the information was easily described. The study also undertook desk review of existing information about the study areas and collected secondary data which was useful for this study. Secondary data was gathered from existing credible and recognized source. The secondary data comprised of materials that were desirable, current, accurate, sufficient and relevant and was collected from library text books, internet and magazines and personnel file in the organization.

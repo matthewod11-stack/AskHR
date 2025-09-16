@@ -1,11 +1,23 @@
-## decision-making and ultimately operational performance.
+---
+source_path: H08S86-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 861fe2e085a16704990c6846188243a1fcf449ca
+title: H08S86-PDF-ENG
+---
+# Decrease in Time Pressure
 
-Additionally, employees, too, feel the end-of-year crunch to prove in
+There is always pressure to perform—particularly if you’re a new CEO.
 
-numbers their successful fulﬁllment of goals. If new goals or directions
+However, this pressure is especially strong closer to the end of a
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+calendar or ﬁscal year, when ﬁrm results are more closely scrutinized
 
-3
+and employees often have performance reviews. CEOs that begin their
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+tenures in the middle of the year are, for example, more likely to feel
+
+the pressure of earnings management, which can negatively impact
+
+their decision-making. Thus, appointing CEOs at the beginning of the
+
+calendar or ﬁscal year can alleviate time-induced pressure, enhancing

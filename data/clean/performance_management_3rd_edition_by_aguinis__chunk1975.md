@@ -1,5 +1,11 @@
-# Duncan, K. D., 292 Durham, C. C., 129
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d948645d3988a00781374e5446edbdbd3116e2bf
+title: performance_management_3rd_edition_by_aguinis
+---
+## Disparate treatment, 283 Documentation, 48
 
-E Eaton, R., 256 Eddy, E. R., 36 Edison, T., 90 Einstein, W. O., 297, 313 Elicker, J. D., 36 Ellis, K., 105, 224 Elms, H., 314 Embley, K., 85 Employee
+performance, 237, 238t Documentational purpose, 17 Dollar General, 97b Dong-A Ilbon newspaper, Korea, 23 Donovan, M. A., 129 Dow Agrosciences, LLC, 289 Drohan, W., 85 Drucker, P. F., 1 Duarte, N. T., 194 Dubbs, N., 313 Duke University, 302–303 Duke University Health Systems
 
-burnout, 9, 9t comments, form, 132, 133t development plan. See Personal
+(DUHS), 310–311

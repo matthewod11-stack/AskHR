@@ -1,5 +1,13 @@
-## KSAOs Knowledge, skills, abilities, and other
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f94dfc0b5e484c247003b1241de66fe7c3e5dbff
+title: industrial_organizational_psychology_an_applied_approach
+---
+# a task.
 
-characteristics required to perform a job.
+Knowledge test A test that measures the level of an
 
-Kuder-Richardson Formula 20 (K-R 20) A statistic used to determine internal reliability of tests that use items with dichotomous answers (yes/no, true/ false).
+employee’s knowledge about a job-related topic. Known-group validity A form of validity in which
+
+test scores from two contrasting groups “known” to differ on a construct are compared.

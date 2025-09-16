@@ -1,7 +1,17 @@
-## results in lower levels of both employment and promotion.
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3fa503bb53bc31f01af241eaa87b0a491df27e31
+title: H08HIY-PDF-ENG
+---
+# onurdongel/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Companies are increasingly strategizing on how to reduce all kinds
 
-1
+of bias in the workplace, including those related to disabled people.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Despite empirical evidence to the contrary, perceptions remain that
+
+disabled employees are less competent, less productive, require more
+
+supervision, and are more expensive and more dependent, which

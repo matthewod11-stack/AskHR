@@ -1,11 +1,11 @@
-## mandatory arbitration agreement, or close your social media accounts.
+---
+source_path: H08J8Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14a0bd1c25dd4cb22ba043bd3977a172ad5a4076
+title: H08J8Z-PDF-ENG
+---
+# Dr.Fly/Getty Images
 
-Perhaps you are even asked to allow your routine work communications
+Imagine arriving eagerly on your ﬁrst day at a new job, only to ﬁnd that
 
-— emails, chats, and shared documents — to be collected and analyzed
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you’re immediately asked to install location-tracking software, sign a

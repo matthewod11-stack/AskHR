@@ -1,17 +1,17 @@
-## 36088 feedback and traditional top-down appraisal
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 114b966a3d0fd3a46f6c568e5f594cd7775729ce
+title: journal_of_european_industrial_training
+---
+# Lepsinger and Lucia (1998) posit that
 
-Many academics and practitioners argue that the performance appraisal process has traditionally been viewed in a negative light in many organisations, even though it is a very important element of the overall performance process. Meyer (1991) maintains that most managers see performance appraisal as an ``onerous and distasteful'' chore that has to be carried out. Taylor et al. (1995) contend that performance appraisal is a practical challenge to all involved in the process and Lawler et al. (1984) argue that the performance appraisal interview is considered as an unpleasant activity for managers and supervisors which is either avoided or carried out in a hurried or perfunctory manner. They go on to suggest that managers dislike the performance appraisal process so much that, without administrative pressure to perform it, they will not carry out appraisals with subordinates at all.
+increasing competition and a renewed focus on the customer were trends associated with the 1990s and these trends acted as a catalyst for the adoption and popularity of multi- source appraisal. They indicate that the shift from the bureaucratic and hierarchical to flatter organisation structures similarly encouraged the growth of 3608 feedback. Flatter organisation structures required more interdependence in the form of teamwork and communications. Lepsinger and Lucia (1998) argue that one of the consequences of flatter organisational structures is that managers are increasingly required to work with people in other parts of the organisation and are expected to achieve results, even though they have no direct authority over them. With such work structures in place, the traditional approach to appraisal proves less useful as a source of information and demands a more comprehensive process whereby peers and customers and other stakeholders can provide feedback to the individual.
 
-Folger and Cropanzano (1998) outline the difficulties associated with negative feedback in the context of the performance appraisal interview. They argue that most managers dislike giving negative feedback and are not skilled in providing it. As a result, evaluations are often positively inflated. If this is the manner in which the interview is conducted, the effectiveness of the performance management process is significantly undermined. Meyer (1991) argues that, because of inaccurate performance feedback, employees may have a distorted view of their actual performance which will then be inconsistent with administrative decisions on issues such as salaries and promotions.
+Waldman et al. (1998) enumerate other possible reasons for the increased adoption of 3608 feedback processes. First, it is assumed that the provision of feedback to managers about how they are viewed by subordinates, peers, superiors and customers should prompt positive change in behaviour and performance. Second, it is assumed that the implementation of 3608 feedback processes will lead to increasing levels of trust and communication throughout the organisation, fewer grievances and greater customer satisfaction.
 
-) T P (
+Waldman et al. (1998) refer to institutional
 
-5 1 0 2
+theory as playing an important role in the ever-increasing use of 3608 feedback.
 
-h c r a
-
-M 8 0
-
-1 0 : 5 1 t
-
-A K R O C E G E L L O C Y T I S R E V N U y b
+Institutional theory advocates that organisations make attempts to imitate their competitors. In one of the organisations where Waldman and his colleagues conducted research on the implementation of a 3608 feedback process, he found that the reason that was cited for deciding to use 3608 feedback was that the competition were doing it and so this particular organisation should also utilise it. Waldman et al. (1998) also suggest that ``politics'' is another factor that influences the adoption of 3608 feedback. They state that a company may embrace 3608 feedback in an attempt to give an impression of openness and participation in the organisation but the reality may be somewhat different.

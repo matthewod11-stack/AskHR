@@ -1,13 +1,19 @@
-# speaking.
+---
+source_path: H07GDE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4c0d3b0d61c8a7a7082e6bcc0451b602693d1191
+title: H07GDE-PDF-ENG
+---
+## HBR / Digital Article / Preparing to Announce Layoffs in a Virtual Meeting
 
-Look directly at the camera.
+Many executives have been coached not to use their hands when
 
-Getting the camera shot right is also crucial. The camera should be
+speaking. This is terrible advice, as our hands help to convey emotion
 
-at eye level. If the camera is lower than your face, you will look
+and passion. If we’re restricted from using them, we can appear stiﬀ.
 
-overbearing. If the camera is too high, you will look meek. While
+Particularly pertinent to this conversation, when we keep our hands out
 
-speaking, look straight into the camera — not at the individual audience
+of view, it can suggest we’re hiding something. For all these reasons,
 
-members appearing in boxes on the screen. This allows you to maintain
+you should feel encouraged to use your hands naturally when you’re

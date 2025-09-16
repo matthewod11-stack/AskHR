@@ -1,23 +1,35 @@
-# resentful.
+---
+source_path: H060QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33f78ccc237e81724322591ec8ee4089b9537e1f
+title: H060QI-PDF-ENG
+---
+## HBR / Digital Article / Maternity Leave Isn’t Enough to Retain New Moms
 
-One solution is to create a pool of former employees who know your
+she returns to work will determine whether or not a company will be
 
-organization well and could consult for a few months to cover the work,
+able to retain her,” she explains.
 
-or partner with an organization like The Second Shift, founded by Gina
+According to the Society for Human Resource Management (SHRM), 60% of organizations oﬀered 12 weeks of maternity leave and 33% oﬀered longer leaves. Some organizations are also making policies more inclusive: Spotify, Etsy, Twitter and more oﬀer paid parental leave for
 
-Hadley and Jenny Galluzzo, which has created a marketplace to match
+both birth and non-birth parents to step in and ﬁll the void in countries
 
-companies with female experts who can help on certain projects or to
+like the U.S. where no mandated paid parental leave exists.
 
-cover leaves. This is how my second maternity leave was handled: My
+But paid time oﬀ is not enough. Organizations need to create a broader
 
-boss hired a former employee as a consultant to cover my work for the
+ecosystem to support them. Here are ﬁve questions to focus on as we
 
-ﬁve months I was out.
+look to retain, develop and promote new parents, especially mothers:
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+Who will take on her work?
 
-3
+I have been on maternity leave twice. I have also had a number of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+bosses, team members, and peers take leave. When there’s no clear
+
+plan for transitioning responsibilities or one that simply throws work
+
+onto employees and colleagues, it creates a great deal of anxiety. A new
+
+mom might feel like she is burdening her team, while her peers become

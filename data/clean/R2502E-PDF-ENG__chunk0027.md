@@ -1,25 +1,35 @@
-# Enter the Power Alley
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d2036cd1b339c81edebdcfec13999a78b620436
+title: R2502E-PDF-ENG
+---
+## HBR / Magazine Article / How Women Can Win in the Workplace
 
-When it comes to building experience capital, two types of positions
+mentors, who are likely to be in the room when hiring and promotion
 
-are accelerators: leadership roles and those with proﬁt and loss (P&L)
+decisions are made.
 
-responsibilities. Because both give you a signiﬁcant amount of clout, we
+Signal the right skills. Often job seekers have the skills that are required
 
-think of them as being in what we call the power alley. The more time
+for a role but fail to highlight them on their résumés, in their LinkedIn
 
-you spend there, and the wider the variety of roles you hold there, the
+proﬁles, or in other ways. This gap is widest when it comes to soft skills
 
-more experience capital you’ll accumulate.
+such as teamwork, conﬂict resolution, and communication. Together,
 
-Leadership roles. The beneﬁts of working in a leadership role are clear:
+soft skills make up 25% of the top 20 skills listed in job postings, but
 
-You have a seat at the table in decision-making and are able to inﬂuence
+most people focus predominantly on signaling their technical skills.
 
-outcomes. You and your work become far more visible. You have an
+Don’t make that mistake.
 
-opportunity to build a network of senior colleagues, which can help
+Close with conﬁdence. At the end of an interview, make it clear why
 
-open doors for you. And you can open doors for others. All of this
+you’re the person for the job. To pull oﬀ big and bold moves, you have
 
-requires excellent communication skills that are transferable across
+to believe in yourself, the skills you’ve developed, and your potential to
+
+apply them in a new role. If you’re willing to bet on yourself, prospective
+
+employers will be more willing to bet on you too.

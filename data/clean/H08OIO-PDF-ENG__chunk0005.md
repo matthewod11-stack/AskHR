@@ -1,27 +1,31 @@
-## The strategy-du-jour CEO in the opening story of a tech ﬁrm hinders
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d850422ef1e38f9662398ffade9e82a8a06a1ed
+title: H08OIO-PDF-ENG
+---
+## increase in the number of major initiatives in the next three.
 
-performance because she changes course “at a moment’s notice,”
+Strategy fatigue is not the same as change fatigue. Change fatigue
 
-chasing new ideas before the last one gained traction. Early on, this
+is triggered by frequent alterations to workplace processes. It results
 
-approach created buzz and energy. But over time, employees grew
+from the sheer volume of changes in how people work. Strategy
 
-frustrated with the constant whiplash. One month, the priority was
+fatigue, in contrast, is caused by frequent and capricious shifts in an
 
-international expansion; the next it was pivoting to a new product—all
+organization’s strategic direction. When leaders continually ﬂipﬂop on
 
-without clear reasons. Productivity gave way to chaos. As one former
+priorities, employees struggle to understand the company’s purpose
 
-team member noted, “the CEO hit a wall and so did the company.”
+and objectives. This gives the impression that leaders don’t know
 
-This is strategy fatigue at its most acute: talented people rendered
+what they’re doing. A lack of coherent progress leads to uncertainty
 
-ineﬀective because leadership can’t stick to a direction long enough to
+and becomes conﬁdence sapping. Strategy fatigue doesn’t discriminate
 
-reach a successful ﬁnish line.
+—it can plague scrappy startups, corporate giants, and even public
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+institutions. Let’s review two examples to illustrate:
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- A tech startup that keeps changing course

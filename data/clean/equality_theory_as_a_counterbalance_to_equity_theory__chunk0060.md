@@ -1,3 +1,17 @@
-## ‘strategic’ HRM. Organization, 6, 199–222.
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: c691c5c6b74e492cc83f473ed9f62770cda84b09
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+## justice. Mahwah, NJ: Lawrence Erlbaum Associates.
 
-Johnson, P. (2006). Whence democracy? A review and critique of the conceptual dimensions and implications of the business case for organizational democracy. Organization, 13, 245–274.
+Grifﬁn, R. W., & Moorhead, G. (2010). Organizational behavior managing people and organizations. Mason, OH: South-Western. Hacker, J. S., & Pierson, P. (2010). Winner-take-all politics: How Washington made the rich richer–and turned its back on the middle class. New York, NY: Simon & Schuster.
+
+Hornstein, H. A. (2002). The haves and the have nots: The abuse of power and privilege in the workplace… and how to control it. New York, NY: Pearson Education.
+
+Isaacs, J. B., Sawhill, I. V., & Haskins, R. (2008). Getting ahead or losing ground: Economic mobility in America. Washington, DC: The Brookings Institution.
+
+Iverson, K. (1995). Steel company believes egalitarian structure brings proﬁts, interview between Iverson and David Molpus, National Public Radio morning edition, December 28, Transcript from NPR in Washington, DC.
+
+Jacques, R. (1999). Developing a tactical approach to engaging with

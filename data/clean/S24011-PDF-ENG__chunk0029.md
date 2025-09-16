@@ -1,21 +1,19 @@
-# Iraq’s aggression in the Middle East.”
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0b932067829b33894fa6f8246cc6c2f693a3787
+title: S24011-PDF-ENG
+---
+## Thatcher—and subsequently, the U.S. president Ronald Reagan—that
 
-Was Gorbachev in that pivotal moment of impasse at lunch having
+Gorbachev, in contrast to past Soviet leaders, was a man they could work
 
-a crucial conversation with Thatcher? Inﬂuencing her? Inspiring her?
+with. “I actually rather liked him,” Thatcher later told Reagan.
 
-Giving feedback? Building trust? Changing her behavior? He was quite
+Gorbachev himself reﬂected, “It was then, during that talk in Chequers,
 
-evidently engaging in all those traditional leadership activities. Yet in
+that the special relationship was born….We worked closely and fruitfully
 
-that moment, he was focused on one thing—activating the inner core in
+together to advance the important processes of that time—curbing the
 
-himself and in Thatcher. He did so with a few simple actions.
-
-In emphasizing leadership in the moment, I don’t want to minimize the importance of crafting a planned approach beforehand.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+arms race, European developments, German uniﬁcation, and reversing

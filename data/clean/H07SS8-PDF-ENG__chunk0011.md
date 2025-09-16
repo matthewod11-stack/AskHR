@@ -1,35 +1,27 @@
-## HBR / Digital Article / How to Avoid the Churn That Comes with Agility
+---
+source_path: H07SS8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: acf21043d2815528e3ebcb73ef843145ca6daece
+title: H07SS8-PDF-ENG
+---
+## and brand recognition in a particular product category, so the goal that
 
-into the parent company, they adopted a “reverse acquisition” approach
+the team developed was to accelerate this category’s growth. Early in the
 
-in which some of the parent company’s people would report to the
+integration process, however, the team realized that they were in danger
 
-acquired company’s management team. But the ultimate goal —
+of losing much of the talent that came with the acquisition if they
 
-growing success in the core category — stayed the same. Managers were
+continued to force everyone to follow the processes and methods of the
 
-no longer confused or demoralized, and eventually this new division
+new owner. This would have put the growth goal in jeopardy because
 
-exceeded the growth expectations that were envisioned early on.
+the experience of this team was necessary to build on the success of the
 
-. . .
-
-If you are on a project, or leading a project, that seems to be constantly thrown oﬀ by changing course, then step back and ask the following
-
-question: Are we clear about our end-goal — the outcome we need to
-
-achieve — and do we feel that our changes are getting us closer to that
-
-goal? If the answer is not an emphatic “yes,” then you may need to work
-
-on better deﬁning and communicating your goals so that your agility doesn’t get in the way of your eﬀectiveness.
-
-This article was originally published online on September 20, 2023.
-
-Ron Ashkenas is a coauthor of the Harvard Business Review Leader’s Handbook and a Partner Emeritus at Schaﬀer Consulting. His previous books include The Boundaryless Organization, The GE Work-Out, and Simply Effective.
+category. So they changed course: Instead of integrating the acquisition
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

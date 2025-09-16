@@ -1,7 +1,11 @@
-# A
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 381b1bf29edaeca203f2fe0ab5a85ac8eed5d883
+title: R2303A-PDF-ENG
+---
+# work.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+A version of this article appeared in the May–June 2023 issue of Harvard Business Review.
 
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Amy and Ben Wright are the founders of Bitty & Beau’s Coﬀee.

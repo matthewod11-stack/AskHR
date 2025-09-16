@@ -1,9 +1,13 @@
-# Perceptions of Fairness
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: 2e8d5310bae35a3622d702629972caa2c7f7018a
+title: performance_management
+---
+# Diagnostic Instrument
 
-to the implementation and on-going use of apprai- sals. Trust (perceptions of whether people adhere to the organization’s rules when mak- ing appraisals, whether the appraisals are accurate, or whether the appraisals reﬂect favoritism), as well as employee perceptions of situational constraints on their perfor- mance, predicts their motivational level.
+Whether it is in the ﬁelds of medicine or golf, coaches beneﬁt from having a diagnos- tic instrument to assist them in determining what a person is doing well, and spotting what the person can do to enhance his or her knowledge, skills or ability. A diagnostic instrument also facilitates self-management. In medicine, a diagnostic instrument enables people to know what to eat and what not to eat, in order to maximize their quality of life, and minimize the probability of sundry dis- eases ranging from heart disease to cancer. It sensitizes people to early warning signs as to when a medical doctor should be consulted. In golf, a diagnostic instrument allows one to check one’s grip of the club, or placement of one’s feet to hit the ball long and straight. It facilitates discussion with a golf coach as to what one needs to do to improve one’s score. In organizational settings, an effective diagnostic instrument is one that focuses on those areas that move the strategy from rhetoric to action steps. Hence, the impor- tance of the appraisal instrument as a diag- nostic tool for coaching and developing an employee, and to an employee’s own self-
 
-Employee acceptance is critical
+79
 
-Hostility toward performance appraisals and the coaching process often occurs when people believe that they are being evaluated on the ‘‘wrong things,’’ or on indices over which they have little control. This hostility is minimized to the extent that people can see that they are being assessed on the very behaviors that enable the successful imple- mentationofthe organization’s strategicplan. Another reason for employee hostility toward appraisals is improper weighting of the criteria. This has led to the concept of a ‘‘balanced scorecard’’ that provides a frame- work for coaching employees on the ways they can contribute meaningfully to the orga- nization’s strategy. For example, at Pricewa- terhouseCoopers (PWC), equal weight is now given to each of three criteria, namely: client, people, and ﬁrm. This is done to shift an overemphasis by some partners on the client, at the expense of coaching staff on ways to assist the client, as well as to ensure that what is done for the client and staff is not done at the expense of what is in the overall interest of PWC as an organization.
-
-The attitudes of coaches as well as the people who are being coached is positive if the appraisal instrument facilitates assess- ments that are: (1) perceived as factual, objec- tive and unbiased; (2) explicitly related to the organization’s strategy; (3) developmental, in that the assessment speciﬁes what the employee must start doing, stop doing, con- tinue doing, or do differently to improve
+management. This diagnostic instrument should ensure that people are coaching themselves, and that they are coaching others on the ‘‘right things.’’

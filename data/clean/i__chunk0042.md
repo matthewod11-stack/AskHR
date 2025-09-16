@@ -1,13 +1,11 @@
-# 2.2 Data Analytics and Business Value
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: fb456632bc667fc593320334e178a8b462b18d7e
+title: i
+---
+# selection of 11 relevant books.
 
-The comprehensive literature review delves into prior studies concerning the subjects of Data
+The literature list also consists of materials recommended by the Supervisor and backward-
 
-and Big Data analytics. It presents an extensive overview of literature pertaining to Human
-
-Resource Analytics or People Analytics (PA) encompassing skill sets and competencies.
-
-The review also introduces insights into the realm of PA within the business context.
-
-Furthermore, it explains the domain of knowledge discovery facilitated through adept data
-
-analysis techniques. By examining these areas, the literature review offers a comprehensive
+chaining citations from the academic books.

@@ -1,13 +1,17 @@
-# way.
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a55fcfce0b39c870e4c2a97506a06c5a0a6fbb0
+title: H08HK5-PDF-ENG
+---
+## HBR / Digital Article / When Expressing Gratitude to Employees, Timing Matters
 
-This article was originally published online on November 21, 2024.
+dread that many employees feel about their work, not just on Sunday
 
-Hooria Jazaieri is an assistant professor of management at Santa Clara University’s Leavey School of Business. She also serves as a science advisor at the Greater Good Science Center at the University of California, Berkeley, and is a licensed psychotherapist in California.
+night. While many of these challenges cannot be immediately solved,
 
-Olivia (Mandy) O’Neill is an associate professor of management at the George Mason University Costello College of Business and a Senior Scientist at the university’s Center for the Advancement of Well-Being.
+they can be assessed and acknowledged in advance. One of the most
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+meaningful ways to acknowledge others’ eﬀorts is to not wait until after
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the fact, but to anticipate it. A little “thanks in advance” can go a long

@@ -1,7 +1,11 @@
-# European Ethology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d687852929e0d741ec69c1ef0c29aa5d206202ec
+title: untitled
+---
+# THREE IMPORTANT POSTWAR INFLUENCES
 
-Three major inﬂuences have affected and reshaped compara- tive psychology since World War II. The ﬁrst was the full- blown arrival of European ethology. Ethology is as difﬁcult to deﬁne as comparative psychology. It is a school of animal behavior studies that was developed in Europe by Konrad Lorenz, Niko Tinbergen, and their associates (Thorpe, 1979). According to a common, though greatly exaggerated, way of differentiating ethology from comparative psychology, the former developed in European zoology with birds, ﬁsh, and insects as subjects in observational studies and ﬁeld experi- ments designed to understand instinct and evolution. Com- parative psychology is said to have developed within North American comparative psychology with mammals, espe- cially laboratory rats, as subjects in laboratory research emphasizing experimental control and statistical analysis de- signed to understand learning and development. Although these differences in emphasis are instructive, the extent to which they are exaggerations of comparative psychology should be apparent to the reader. On the other side, Lorenz himself conducted little ﬁeld research.
+There were three major inﬂuences on comparative psychol- ogy after World War II. The ﬁrst was from the important ﬁeld developed by European zoologists that became know as ethology. The second stemmed from the elaboration of
 
-Although European ethologists and American compara- tive psychologists had numerous interactions prior to World War II, it was only after the war that contact became exten- sive. The two disciplines that had each developed as “the ob- jective study of behavior” along different lines came into direct conﬂict. Ethologists criticized psychologists for em- phasizing laboratory research that may produce results irrele- vant to the natural habitat; psychologists bemoaned the lack of experimental control in ﬁeldwork of the ethologists.
-
-The most critical issues, however, centered about behav- ioral development and the nature of instinctive behavior. The battle over instinct had gone on in the United States for most of the century, and during the 1950s, few psychologists ac- cepted the concept; most emphasized the complex interaction of genes and environment in epigenesis. Based on their ﬁeld observations, ethologists, by contrast, were quite comfortable with discussions of instinctive behavior (e.g., Lorenz, 1950). Lehrman (1953) wrote a scathing rebuttal to Lorenz’s ap- proach, with particular criticism directed at the instinct con- cept. On the one hand, the critique shocked ethologists and polarized the ﬁelds; on the other hand, however, it placed the issues out in the open where they could be debated and re- solved. At a series of conferences, many of the differences were softened and mutual understanding increased. One
+Darwinian principles that led to sociobiology, behavioral ecology, and evolutionary psychology. Finally, the so-called cognitive revolution had important effects on the ﬁeld.

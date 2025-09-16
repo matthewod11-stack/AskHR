@@ -1,13 +1,13 @@
-## meeting, over-looping, and over-collaborating — one of the worst
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 083fcdf7de37be4571bfb83f9ea9aa0e701b5910
+title: H08GC0-PDF-ENG
+---
+# The Era of Overdoing Everything
 
-work habits brought on by the pandemic. Despite the longstanding
+People are already struggling to meet their core job requirements, but
 
-perception that more hours worked means higher productivity, data and
+when you factor in a staggering 192% increase in weekly meetings
 
-research are ﬁnding otherwise.
-
-Slack’s Workforce Index analyzed more than 10,000 desk workers
-
-around the globe and found that “employees who feel obligated to work
-
-after hours register 20% lower productivity scores.” They also suﬀer
+post-pandemic, it becomes signiﬁcantly more challenging. We are over-

@@ -1,3 +1,27 @@
-## HBR / Magazine Article / Life’s Work: An Interview with Ketanji Brown Jackson
+---
+source_path: R2406P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5979ef3ffb20975f20b46de3735863367ac6ce16
+title: R2406P-PDF-ENG
+---
+# Annie Leibovitz/Trunk Archive
 
-HBR: From segregation to the Supreme Court in one generation is a big leap. I know you beneﬁted from the broader U.S. civil rights movement, but how did your family’s approach to education and work hasten that progress?
+Born six years after the U.S. Civil Rights Act hastened desegregation,
+
+Brown became a debate champion and class president at her mostly
+
+white high school. In her college applications she declared her intention
+
+to be the ﬁrst Black female Supreme Court Justice. After earning
+
+undergraduate and law degrees from Harvard and then working for
+
+nearly three decades as a lawyer and a judge, in 2022 she made good on
+
+that goal. Her new memoir is called Lovely One.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

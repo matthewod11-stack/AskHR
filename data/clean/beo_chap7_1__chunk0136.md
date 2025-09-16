@@ -1,23 +1,17 @@
-# money” after “bad.”
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 76b13ac9e9a1caa931b7f3185b41ed5dcca0affb
+title: beo_chap7_1
+---
+# 7.4.2.2 Escalation of Commitment
 
-Despite the clear experimental evidence of escalation to commitment to bad
+A common theme in behavioral judgment research is that people and organizations
 
-projects, there is little convincing field evidence of this pattern. Case studies of
+escalate their commitments to losing projects (Bazerman and Neale 1992). Most of
 
-projects which failed in retrospect have been related to escalation of commitment
+this literature is based on experiments in which people make ex ante choices, receive
 
-(see, for example, Staw and Ross 1993). But these may simply be examples of hind-
+good or bad feedback, and then decide whether to continue a project. Experiments
 
-sight bias about especially bad projects. Other field studies analyze whether new
-
-managers who take over projects pull the plug on them. But the tendency to do so
-
-might just reflect differences in prior beliefs rather than escalation by the managers
-
-who initiated the bad projects (see, for example, Barsade et al. 1997; Weber and
-
-Camerer 1999). The ideal situation for an empirical analysis would thus be
-
-(i) data on similar types of decisions (such as plant closings) for a set of firms,
-
-(ii) where in a strict subset the decision maker changed for exogenous reasons
+suggest that even when feedback is bad, people continue to invest, throwing “good

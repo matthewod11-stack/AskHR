@@ -1,15 +1,11 @@
-## soil around manufacturing facilities, airports and ﬁrehouses, in sewage
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e72c7971c9f8a20113e0548a2be18596a5482f7
+title: H08P2F-PDF-ENG
+---
+# outdoor clothing.
 
-sludge used on millions of farms, and even in the Arctic, the middle
+But because they’re largely indestructible and migrate out of products
 
-of the ocean, and rainwater. We also ﬁnd forever chemicals in air and
-
-dust inside every type of building, which is one of the ways—along with
-
-contaminated drinking water and food — that they enter our bodies.
-
-Once in our body, forever chemicals can wreak havoc. They are linked to
-
-increased risk of kidney and testicular cancer. They may also impact
-
-weight gain; for example, a study by colleagues at Harvard found
+or are released into the environment, PFAS can be found in water and

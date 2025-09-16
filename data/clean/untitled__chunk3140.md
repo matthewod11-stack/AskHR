@@ -1,3 +1,7 @@
-## cognitive psychology and, 118–119, 131 comparative psychology and, 68–69, 77–78
-
-Experimental psychology. See Scientiﬁc psychology Expert witness, psychologists as, 396–397, 401–403. See also Forensic
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6ce521a6e48cd8ede87738485d2f3bcee3813ccb
+title: untitled
+---
+## Evoked potentials, 50 Evolution/evolutionary theory:

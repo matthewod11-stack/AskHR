@@ -1,11 +1,13 @@
-## Amidst the unprecedented pressures of the past three years, all of us
+---
+source_path: H07N1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52adf83b5709ec93926333ef5ab5c440fee5ea4f
+title: H07N1K-PDF-ENG
+---
+## On May 11, the U.S. Covid-19 Public Health Emergency oﬃcially
 
-who are combining career and kids had to use new moves, and a lot of
+expires. But if you’re like most of the working parents in my coaching
 
-them, in order to “make it work.” Maybe you and your partner learned
+practice, what hasn’t yet expired are many of the perspectives and day-
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to-day practices that got you through the pandemic.

@@ -1,9 +1,23 @@
-# success.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e411810114b94adb320323738621e95550a88c7
+title: H07ZZW-PDF-ENG
+---
+# an ill-informed ESG strategy.”
 
-Reframe ethics as a process that involves everyone. For decades, ethics
+Instead, try to pinpoint what your employees expect and value. Surveys
 
-was simply equated with legal compliance. Now our view of what it
+and focus groups can help identify internal sources of pressure,
 
-takes to be a “good company” extends far beyond the boundaries of the
+enthusiasm, pain, and tension. Then select individuals who could
 
-law. Questions of ethics have come to reﬂect how a business impacts
+help lead initiatives and make decisions. If you involve employees in
+
+setting environmental and social priorities, you’ll be better positioned
+
+to achieve them, and your public commitments will be anchored in a
+
+robust internal framework. Perhaps most important, your employees
+
+will carry increased responsibility and accountability for ensuring their

@@ -1,19 +1,21 @@
-# origin.
+---
+source_path: H03NUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1922c4545929a27e77ae49ce1e32713d8b0a141c
+title: H03NUL-PDF-ENG
+---
+# social media accounts and cell phones.
 
-Tech companies need consumers’ trust now more than ever. Deserved
+Trump has talked about creating a database to identify and register
 
-or not, tech is getting blamed for an array of societal ills, from social
+Muslims in America, including refugees. A number of companies,
 
-media perpetuating fake news to artiﬁcial intelligence taking away
+including IBM, Microsoft, and Salesforce, have stated they will not help
 
-jobs. Trump’s executive order will likely be challenged in other high-
+build a Muslim registry if asked by the government. In addition, a
 
-proﬁle cases, giving companies an opportunity to highlight how their
+group of nearly 3,000 American tech employees signed an online pledge
 
-innovations help refugees ﬂeeing conﬂict. The industry can use future
+promising they would not develop data processing systems to help the
 
-amicus briefs to make stronger collective arguments to the courts and
-
-to the public. In speaking up for the most vulnerable members of our
-
-global community, the tech industry would send the message that it
+U.S. government target individuals based on race, religion, or national

@@ -1,9 +1,17 @@
-## managers and HR teams about such sensitive issues.
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4523b5c43a3ba88c8bf0fb8dea00c54bff980734
+title: H08NVC-PDF-ENG
+---
+# local cultural norms.
 
-After learning this, the HR director altered her approach to focus
+However, this HR director decided to dig deeper and discovered that
 
-on conﬁdentiality training ﬁrst, highlighting the distinctions between
+the issue wasn’t cultural at all. In fact, there had been prior breaches of conﬁdentiality around the topic at this oﬃce. Although these breaches
 
-assistance, privacy, and gossip. The director spent a whole year building
+were unintentional and certain colleagues just wanted to help, it made
 
-awareness around respecting others’ private matters. Consequently, employees in her regional oﬃce became more willing to talk about
+people feel that their privacy and boundaries were not respected, and
+
+they started to doubt whether they could really talk openly to their

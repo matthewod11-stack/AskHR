@@ -1,23 +1,39 @@
-## ﬁlter content for compliance with community guidelines and local
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 10cb763d2bd53df31f486b9ed8e4c8d1aae41c5b
+title: H08LEQ-PDF-ENG
+---
+# Real-time intelligence
 
-cultures. AI also analyzes trending topics and hashtags in real time,
+Traditional intelligence systems operated on a delayed basis, whether
 
-uncovering the most relevant and popular content for users and keeping
+quarterly, monthly, or even daily. In contrast, AI is always on, listening,
 
-them engaged with the latest trends and viral challenges. In addition,
+learning, and adjusting instantly to new data. Companies can now
 
-real-time data is leveraged to predict user behavior and preferences,
+respond to shifting demands and evolving customer expectations with
 
-ensuring that users remain engaged and advertisers achieve better
+unmatched precision and agility. The old model, built on instructions
 
-targeting and ROI. For content creators, Tik Tok provides real-time
+from programmers, is simply no match for AI’s real-time, adaptive
 
-AI-powered tools, such as automated video editing, augmented reality
+intelligence focused on the individual needs of users.
 
-(AR) eﬀects, and music synchronization. These tools help creators
+Consider the innovative ways the video platform TikTok uses real-
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+time intelligence technology to induce users to spend an average of
 
-4
+34 hours per month on the app, outpacing all other social media
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+platforms. TikTok’s recommendation algorithm, known as the “For
+
+You” page (FYP), uses real-time data to analyze user interactions, such
+
+as likes, shares, comments, and viewing time. This allows TikTok to
+
+continuously update and reﬁne the content it shows to each user,
+
+ensuring a highly personalized and engaging experience. Meanwhile,
+
+real-time AI systems, working with human moderators, monitor and

@@ -1,9 +1,13 @@
-## Smither, J. W., Reilly, R. R., Millsap, R. E., Pearlman, K., &
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c70c91cc07b4686dad9f94f24d0204b1b7595108
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Smither, J. W., London, M., & Reilly, R. R. (2005). Does
 
-Stoﬀ ey, R. W. (1993). Applicant reactions to selection procedures. Personnel Psychology, 46, 49–76.
+performance improve following multisource feedback? A theoretical model, meta-analysis, and review of empirical ﬁ ndings. Personnel Psychology, 58(1), 33–66.
 
-Snyman, J., Aamodt, M. G., Johnson, D. L., & Frantzve, J. (1991). Pre-employment paper-and-pencil testing: A quantitative review. Journal of Police and Criminal Psychology, 7(2), 11–25.
+Smither, J. W., Reilly, R. R., & Buda, R. (1988). Eﬀ ect of prior
 
-Sollie, D., & Sollie, W. (1993). Non-lethal weapons: An
-
-implementation study. Paper presented at the annual Meeting of the Society of Police and Criminal Psychology, New Orleans, LA.
+performance information on ratings of recent performance: Contrast versus assimilation revisited. Journal of Applied Psychology, 73, 487–496.

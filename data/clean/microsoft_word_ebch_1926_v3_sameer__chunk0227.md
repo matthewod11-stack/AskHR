@@ -1,3 +1,9 @@
-# The Nature of Workplace Stress
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: a7850b558288bce3f7969ce79c930f66d747a147
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# A Textbook of Industrial Psychology
 
-Workplace stress refers to the emotional, physical, and psychological strain experienced by employees in their job settings. It results from a combination of internal and external factors that challenge an individual's ability to cope effectively. Common stressors in the workplace include heavy workloads, tight deadlines, conflicts with colleagues, lack of job security, and inadequate resources. Moreover, advancements in technology have blurred the boundaries between work and personal life, making it increasingly difficult for employees to detach from their professional responsibilities [5], [6].
+being in the workplace. Understanding and addressing workplace stress is crucial for both employees and employers to foster a healthier, more productive work environment.

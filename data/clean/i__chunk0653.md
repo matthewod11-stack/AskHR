@@ -1,7 +1,7 @@
-# Reference list:
-
-(cid:111) Aitkenhead, M. (2008). A co-evolving decision tree classification method. Expert Systems With Applications, 34(1), 18325.
-
-https://doi.org/10.1016/j.eswa.2006.08.008
-
-87
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: ba2f05240a39f5ff2bbe6ef6a80301668f443ba8
+title: i
+---
+# workforce planning

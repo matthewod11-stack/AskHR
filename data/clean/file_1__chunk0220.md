@@ -1,5 +1,7 @@
-# 56
-
-Foley, S., Ngo, H. and R. Loi, 2006. Antecedents and Consequences of Perceived Personal gender Discrimination: A study of solicitors in Hong Kong. Sex Roles, 55, 197-208.
-
-Fortin, N. 2005. Gender Role Attitudes and the Labour-Market Outcomes of Women across
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 4d744d4350e3c6f46b8043bac0e28654a6726d6b
+title: file_1
+---
+## Research. Educational Researcher, 16 (7), 16-21.

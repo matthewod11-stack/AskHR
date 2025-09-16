@@ -1,9 +1,13 @@
-# EEO Liability
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: af272e28b7da12d8079aa98fd909dafb2e986ff6
+title: document_resume
+---
+# Performance Appraisal
 
-EEO laws and court decisions attempt to eliminate race sex, or age discrimination, and liability can be triggered in at least three general way s. intent to discriminate, dis- parate treatment, and disparate or adverse impact.
+There was a similar case invols ing a university in 1974.
 
-Intent to discriminate was the major Lonsderaton in discrimination cases prior to the passage of Title VII. Persons seeking recourse had to prose that the employer deliberately set out to discriminate against them on the basis of raLL. (there was no pro- hibition against sex or age discrimination). Intent to discriminate is eNideneed by the following examples:
+In Wade v. M.s.sksippi Cooperative Etten.sion Service, a U.S. District Court noted that what the organization had called an "objectise appraisal of performanLe" actually w as based on supersisory ratings of traits such as leadership, public acceptanLLtttitude, grooming, personal con- duct, outlook on life, resourcefulness, and loyalty .4 The cow t ruled that the results of such appraisals retained black employees in nonsupersisory pustons and that the results could not be used as promotion criteria. The court ordered the Extension Service to develop an appraisal system that would meet the requirements of the EEOC "Guidelines." Both of these cases are classic examples of disLrmmation as defined in the Griggs case.
 
-A rater delibe' rely gives lower performance ratings to black employees.
-
-Prejudicial statements are made sail as "blacks Lainnot handle management responsibilities."
+In 1975 the U.S. Supreme Court ruled in Albemarle v Moody that becaus,e job analysis had not been conducted, the company could not use performance appraisal ratings to validate selection requirements which eliminated a disproportionate number of black applicants.' The importance of adeqoate job analysis continues to be empha- In Greenspan v The Automobile Club of Michigan, a case brought in 1980, the sized. court criticized the method used in analy zing jobs, stating, "The analyst did not verify job description by making an on-site inspection of the employee who actually per- formed the job.. .."6 The major requirement in job analysis for performance appraisal purposes is to ensure that the dud collected pros ides accurate information about work behaviors critical on the job.

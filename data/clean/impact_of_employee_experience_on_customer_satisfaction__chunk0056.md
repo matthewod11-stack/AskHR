@@ -1,7 +1,11 @@
-## replacement for employee engagement, the two concepts complement one another.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 7f2c16360184ad6680178dbfaf13b9cfee68fe9a
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 10 | P a g e
 
-Employee engagement refers to programs and incentives that are implemented in the
+workers to why and how their people work. For the last two or three decades, this has
 
-near term, while employee experience focuses on cultural shifts and reorganization.
-
-2.3.
+been our status quo. Although employee experience is sometimes seen as a

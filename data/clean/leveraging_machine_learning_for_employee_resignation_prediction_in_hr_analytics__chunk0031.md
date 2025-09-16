@@ -1,5 +1,11 @@
-## Decision Tree: a non-linear model for instance classi(cid:2647)cation
+---
+source_path: leveraging_machine_learning_for_employee_resignation_prediction_in_hr_analytics.md
+pages: n/a-n/a
+chunk_id: 514be6c66324528b5542b32e032c3cadcb9c8931
+title: leveraging_machine_learning_for_employee_resignation_prediction_in_hr_analytics
+---
+## Logistic Regression Decision Tree Graph A(cid:2386)ention Network (GAT)
 
-spli(cid:2386)ing of the data depending on feature values.
+0.84 0.86 0.91
 
-(cid:2399)ese models tested using the same dataset and were run with
+0.78 0.80 0.89

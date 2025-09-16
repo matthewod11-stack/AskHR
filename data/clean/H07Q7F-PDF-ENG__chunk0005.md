@@ -1,25 +1,43 @@
-# better service.
+---
+source_path: H07Q7F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22f590d927522d96162cb00f52d34a62c99927e2
+title: H07Q7F-PDF-ENG
+---
+## HBR / Digital Article / Overcoming Your Fear of Giving Tough Feedback
 
-“I could have prevented this. I should have spoken up.” Filip told me.
+multiple priorities, coordinating translators, quality control experts,
 
-His story echoes a struggle I hear from many of my executive coaching
+and client liaisons across time zones, languages, and cultures. He had
 
-clients: How do I overcome the fear of giving feedback? Whether you
+a knack for thriving in ambiguity, keeping his eye on strategic goals
 
-worry about causing tension, demotivating your people, or handling
+without getting lost in minutiae.
 
-others’ emotional reactions, conﬂict aversion is a common trait, and
+Filip also prided himself on always having his team’s back, even if it
 
-managers aren’t immune to it.
+involved taking the heat from an irate executive. But when it came
 
-You’re not doing anyone a favor by avoiding conﬂict. When problems
+to delivering feedback to his direct reports, Filip’s resilient exterior
 
-go unaddressed or are swept under the rug, everyone suﬀers, including
+crumbled. He would be overcome with worries of damaging the
 
-you. A lack of constructive feedback is also detrimental to your team,
+relationships he had worked so hard to build. He’d overthink what to say
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+for hours — sometimes days. The mere thought of uttering the words, “I
 
-2
+have some feedback for you,” made him nauseous.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+When a high-stakes project spearheaded by Angelique, one of Filip’s
+
+brightest team members, failed, it brought his fear of giving feedback
+
+into sharp focus. For two weeks Filip had sensed something was amiss.
+
+The team’s low spirits and sluggish performance concerned him, but he
+
+told himself Angelique would pull everything together in the end. He
+
+never voiced his concerns, and the cost was devastating. Their biggest
+
+account would now be going to a diﬀerent provider who could provide

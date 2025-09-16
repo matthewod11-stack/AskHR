@@ -1,15 +1,9 @@
-## more easily whenever a concrete need for collaboration arises.
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b725f1d373c1089207528fe66ccd71b34c08734
+title: H06OBF-PDF-ENG
+---
+## programs, cross-functional innovation initiatives, and company-wide
 
-Likewise, companies must pay attention to networking skills when
-
-recruiting people, designing training programs, considering sideways
-
-career moves, and measuring and rewarding performance.
-
-- Leadership. The eﬀectiveness of both hardwiring and softwiring
-
-depends on the company’s leaders. They should have the skills
-
-and incentives to collaborate, for example by having performance
-
-indicators that measure the desired behaviors. They should
+expert networks. Once familiarity is established, people will connect

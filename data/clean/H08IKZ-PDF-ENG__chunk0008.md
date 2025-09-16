@@ -1,29 +1,27 @@
-# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6312b5df063c3c452dc0a7feee2a232c3698cab9
+title: H08IKZ-PDF-ENG
+---
+## literature on decision science (for example, from the military, health
 
-buyer might be signaling their status with a luxury vehicle, or ensuring
+care, and R&D), we have identiﬁed eight dimensions beyond data
 
-their children have a safe way to travel to and from school.
+and algorithms that factor into most decisions, albeit often implicitly.
 
-Businesses too have ultimate goals — from achieving economic
+They can be understood by walking through the simple example of
 
-prosperity to contributing to society to protecting the environment —
+purchasing a car.
 
-which can diﬀer markedly. Given the subjectivity of human values,
+- 1. Deﬁning the ultimate goal.
 
-deﬁning the human end cannot be outsourced to machine intelligence.
+Every decision ultimately serves a human end. Specifying this is crucial
 
-- 2. Framing the immediate objectives.
+to understanding what success might look like. The human end for a car
 
-To achieve your ultimate goal, you often have to make smaller, more
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-immediate, and tangible decisions along the way. In our car-buying
+2
 
-example, the ultimate goal may be to purchase a vehicle that meets
-
-certain safety standards, but you also want to make sure that the car
-
-ﬁts within a given budget. For a business, the ultimate goal might be
-
-to achieve 10% sales growth over the previous year, but you also have
-
-to ensure that optimizing short-term sales growth doesn’t compromise
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

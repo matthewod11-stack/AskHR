@@ -1,3 +1,7 @@
-# Gary P. Latham University of Toronto
-
-This chapter summarizes the authors’ joint development of the goal setting theory. The basic concept was based on more than 50 years of research and the formal theory has endured for 28 years (Locke & Latham, 1990). The theory was not developed through overgeneralization from only a few studies or by deduction but rather by induction. The inductions involved the integration of hundreds of studies involving thousands of participants. The theory initially focused solely on consciously set goals. To date, the goal setting theory has shown generality across participants, tasks, nationality, goal source, settings, experimental designs, outcome variables, levels of analysis (individ- ual, group, division, and organizational), and time spans. The theory identiﬁes both mediators and moderators of goal effects. Numerous subsequent studies since 1990 have supported the main tenets of the theory. New ﬁndings have enlarged our knowl- edge of the relevant mediators and moderators as well as showing new applications (Locke & Latham, 2013). Among these discoveries are when to set learning rather than performance goals, the effect of goals primed in the subconscious on job performance, and that goal effects are enhanced by having people write at length about them.
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: 52dab0bbae7a4c53ba51507215580682476bb5a9
+title: legacies_in_motivation_science
+---
+# Edwin A. Locke University of Maryland

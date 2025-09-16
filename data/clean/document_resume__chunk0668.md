@@ -1,7 +1,9 @@
-# Stano, Op cit., pp. 131-142.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4f419f27b894d587a27b6268448686dc680c6730
+title: document_resume
+---
+# Laird and Clampitt, op cit., pp. 49-57
 
-- 49. Christina G Banks a J Kevin R. Murphy , "Tow aid Narrow
-
-the' Research- Practice Gap in Performance Appraisal." Personnel PAlt holoks 38 (Summer 1985); pp 335-345.
-
-- 50. Wexley, op. cit p. 170.
+48.

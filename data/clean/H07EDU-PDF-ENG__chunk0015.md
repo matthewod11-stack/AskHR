@@ -1,11 +1,13 @@
-## HBR / Digital Article / What Companies Still Get Wrong About Layoffs
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a5be6758c367521d881ccdbb744ad1a735fd30e
+title: H07EDU-PDF-ENG
+---
+# stem workers’ anxiety.
 
-These companies announced a diﬀerent approach, including
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-salary reductions for executives, furloughing employees instead of
+3
 
-terminating, and even sometimes forgoing base salaries altogether
-
-for certain executives. Some CEOs oﬀered grants to employees facing
-
-ﬁnancial hardship or gave workers extra PTO to help ease increased
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,13 @@
-# chemical coating.
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d75109051611dde854563a59ab35381a5c0645bf
+title: H08P2F-PDF-ENG
+---
+# product performance or aesthetics.
 
-We’re making these changes across campus when we renovate or
+We’ve even done side-by-side tests in highly traﬃcked areas of items like sofas with and without forever chemicals. Our cleaning staﬀ
 
-replace products, and the materials are holding up well. We don’t
+indicated that those without forever chemicals were easier to clean
 
-need to replace them any earlier than we did the versions with forever
-
-chemicals. Moreover, we’re sourcing from many of the same suppliers
-
-and brands we always have, and they’re able to meet our requirements
+because stains were no longer getting trapped below the forever

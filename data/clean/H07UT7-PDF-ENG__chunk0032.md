@@ -1,25 +1,15 @@
-# Start off small and pilot.
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c62b1da8722c8223d6a8382b91c2379a4e66cc0c
+title: H07UT7-PDF-ENG
+---
+## HBR / Digital Article / Research: The Benefits of a Pet-Friendly Workplace
 
-Limit pets to certain days of the week, or select spaces to respect the
+certain companion animals. Hilton oﬀers ideas of what supplies to keep
 
-needs of those with concerns, to ease the transition to the oﬃce. Be
+on hand for accidents while the Department of Transportation has
 
-ﬂexible and open to feedback from all involved. For managers with
+addressed signage and safety questions. Exemplary guidelines can be
 
-limited bandwidth, employee resource groups dedicated to pets (e.g.,
-
-the Doogler Group at Google, or even participants in a pets Slack channel), can be a great ally in this eﬀort.
-
-Anticipate that other requests may come up.
-
-Our emphasis has been on bringing pets into the oﬃce. Managers
-
-should be aware, however, that this may open the door to other
-
-pet-friendly considerations. Pet owners may lobby for hybrid work
-
-arrangements and non-oﬃce days with pets that cannot come to the
-
-oﬃce (something researchers already endorse for deep thought and
-
-non-collaborative projects). Those with an injured, lost, or aging pet may request time oﬀ to care or grieve for their four-legged family
+found in the Pets Work at Work toolkit.

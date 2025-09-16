@@ -1,25 +1,15 @@
-# adjustments.”
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 540599221cb01b603ba48db807c1a3017c760b08
+title: H087DT-PDF-ENG
+---
+## options available under the Americans with Disabilities Act sooner
 
-If you’re comfortable, talk to your manager about your condition and
+rather than later — and well before you’re in a crisis. Don’t make
 
-why a particular accommodation would be useful to you. Your therapist
+the mistake of thinking your issue doesn’t warrant accommodations if it objectively does. And note that diﬀerent countries use diﬀerent
 
-can help communicate only relevant information without excessive
+terms for similar legislation. For example, the United States uses
 
-personal details. For example, they could write a letter to your boss to
-
-ensure you’re comfortable with what they are disclosing.
-
-In general, when you have a mental health difﬁculty, try not to be
-
-constantly overchallenged, but don’t completely avoid challenges and
-
-triggers either. For example, if you have social anxiety, then sprinkle
-
-activities that trigger your anxiety among activities you feel conﬁdent
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“accommodations,” whereas the U.K. uses the phrase “reasonable

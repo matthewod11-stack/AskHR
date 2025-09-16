@@ -1,11 +1,13 @@
-# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 740fa05535545aef773af6bdfeab2600dd3b6a95
+title: H08IKZ-PDF-ENG
+---
+# diﬀerentiating.
 
-However, human capabilities, like making moral judgments, and using
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-imagination or intuition, are often untrained, impulsive, or implicit.
+6
 
-Thus, to distinguish and elevate their decision-making processes,
-
-organizations need to actively codify and foster the requisite human
-
-decision-making skills. We outline ﬁve imperatives towards this end.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,19 @@
-## Leadership through Contact: Management by Walking Around
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4b76b072ff8f489d519af1692eb4889d2aa77973
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Writing
 
-Management by walking around (MBWA) is another popular specific behavioral theory. This one holds that leaders and managers are most effective when they are out of their offices, walking around and meeting with and talking to employees and customers about their needs and progress. Many industry leaders, such as the late Sam Walton of Wal-Mart, have used this approach with great success. MBWA is thought to increase communication, build relationships with employees, and encourage employee participation (Amsbary & Staples, ; Miller, ).
+leadership
 
-In an interesting series of studies by Komaki and her associates (Komaki, ; Komaki, Zlotnick, & Jensen, ), the behavior of bank managers was observed to determine the differences between effective and ineffective manag- ers. The results of the investigations indicated that the main difference between the two was that effective managers spent more time walking around and moni- toring the behavior and performance of their employees. Empirical evidence thus seems to support the MBWA concept.
+455
 
-s e g a m
+Adapting to the needs of subordinates is an essential component of leadership.
 
-y t t e G / c s i D o t o h P / y k s f o r B h t i e K ©
+456
+
+chapter 
+
+and Yetton developed a decision tree to help leaders decide when decisions should be made alone and when they should be made with the help of others. Of course, developing a chart that would tell a leader what to do in every possible situation is impossible. But the Vroom-Yetton Model does provide a flowchart that can tell a leader what process to go through to make a decision in a particular situation. This theory will be discussed in further detail in Chapter .

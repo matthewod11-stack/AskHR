@@ -1,11 +1,17 @@
-# here below:
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ab5edbdcdadefc4d9f98b5a57391d8f4176473a
+title: H08VIB-PDF-ENG
+---
+## workshop—from discovery to ideation, articulation, and prioritization
 
-- When converging the team discussion, AI can assist by clustering and
+—he prompts AI using a consistent template: “We are now at this
 
-consolidating ideas—especially when a discussion begins to wander.
+moment in our workshop [explain], and based on what we have
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+discussed so far [share summary or intermediate output], we would like
 
-6
+you (Generative AI) to act as [specify role] and help us [specify goal or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+task].” You can try John’s template for the various situations described

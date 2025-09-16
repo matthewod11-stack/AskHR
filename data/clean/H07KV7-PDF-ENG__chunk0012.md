@@ -1,17 +1,13 @@
-## HBR / Digital Article / Sensitivity Can Be a Superpower at Work
+---
+source_path: H07KV7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e568601a9b932cec2374e15ad837a3aae4549b3
+title: H07KV7-PDF-ENG
+---
+## excess stress and overthinking in the face of ambiguity.
 
-It’s no secret that today’s leaders need to know how to operate in
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-unprecedented uncertainty and ﬂux. HSPs thrive when they have
+3
 
-structure and clarity, which allows them to focus on their work and
-
-perform at their best. To help highly sensitive employees stay balanced,
-
-it’s essential to provide clarity about the scope of their role, goals, and
-
-exactly what is expected of them. This could include:
-
-- Drafting a “me manual” — a guide to working with you as a leader,
-
-which includes preferences and expectations around communication,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

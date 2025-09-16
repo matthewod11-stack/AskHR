@@ -1,11 +1,25 @@
-## que tentaram implementar as melhorias organizacionais, a partir de demandas
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 29cee34a5c1baecb804e75cbd5736dab797529b5
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## resulta em uma construção entre o nível máximo de
 
-advindas das pesquisas de clima, que, no entanto, mas não aumentavam o tempo
+comprometimento com o trabalho realizado e a satisfação com suas próprias
 
-de permanência dos funcionários na empresa, por exemplo. Esta correlação, para
+conquistas. A empresa X tem em seu histórico a busca por essas duas medidas, a
 
-os fundadores, era essencial. A busca passou a ser, então, por uma metodologia
+satisfação dos colaboradores e o engajamento com o trabalho.
 
-que permitisse não apenas medir o que chamavam de satisfação, mas que
+A organização surgiu em 2013. Ao longo de cinco anos, a empresa
 
-apontasse caminhos para aumentar a retenção e o volume e qualidade das entregas
+implementou pesquisas de clima. Era realizada uma pesquisa por semestre, enviada
+
+por e-mail com link para formulário quantitativo. A construção do questionário era
+
+feita de acordo com grupos de perguntas que eram pré-determinadas pela equipe de
+
+RH. Os fundadores da empresa passaram por um período, segundo a entrevistada,
+
+em que “não acreditavam em pesquisas da área de RH”, pois havia um histórico em

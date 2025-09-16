@@ -1,17 +1,31 @@
-## a holy month where many Muslims fast during daylight hours, many of
+---
+source_path: H06N4L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18de6f5636849b98157e708514bbb2a57c0d773d
+title: H06N4L-PDF-ENG
+---
+# HBR / Digital Article / Are Non-Christian Employees Represented in Your Holiday Polic…
 
-my Muslim colleagues will start the workday early and then end early to
+uses up all of her 5 ﬂoating holidays and supplements the additional time needed with PTO. Oﬀering generous PTO and ﬂoating holidays gives employees enough time oﬀ to observe the religious, secular, or
 
-adjust for energy levels while fasting.
+spiritual holidays or traditions that are important to them while still having enough time oﬀ for other purposes.
 
-Beef up your religious literacy: As a manager, you can’t be expected to know everything there is to know about all the diﬀerent religious
+Be mindful of language: Language matters, and that’s why we use the
 
-traditions out there, but having a basic religious literacy to help you
+term “ﬂoating holidays” instead of “religious holidays.” At IFYC, over
 
-navigate one of the most complex aspects of American life is a sound
+a third of our team members identify as Secular, Humanist, Agnostic, Atheist, or non-religious. This policy allows them to take time oﬀ for any
 
-investment in your leadership. It only takes a few minutes to get started.
+holiday or practice that is particularly meaningful for them, which may
 
-Take IFYC’s 10 question interfaith literacy quiz to test your knowledge,
+not be tied to religious observance.
 
-and check out IFYC’s knowledge toolkit for religious literacy to learn
+Have other ﬂexible policies in place to support your employees: In addition to having time oﬀ policies that support religious
+
+accommodation for holiday observance, it’s also strategic to have other
+
+ﬂexible policies in place. If you don’t already have a Flex Time policy, consider oﬀering options for your employees to ﬂex their hours, so
+
+your team members have the option to work a ﬂexible schedule during
+
+special periods of religious observance. For example, during Ramadan,

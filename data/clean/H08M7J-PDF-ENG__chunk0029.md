@@ -1,25 +1,15 @@
-# during times of uncertainty.
+---
+source_path: H08M7J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d429657f7fee75ee4974613cef6fb610d1cacde
+title: H08M7J-PDF-ENG
+---
+## HBR / Digital Article / When Your Coworkers Got Laid Off — But You Didn’t
 
-Despite the immediate pressures of the new situation, “surviving” this
+Emotional resilience may involve mindfulness practices, journaling, or
 
-process is a marathon, not a sprint. Establish boundaries to ensure
+therapy, while physical health can be bolstered through regular exercise
 
-you can sustain your productivity without sacriﬁcing your well-being.
+and good nutrition. For spiritual resilience, ﬁnding purpose — whether
 
-Communicate openly with your team about workload and expectations,
-
-and give yourself permission to rest and recharge. Remember, resilience
-
-requires pacing, not overextension.
-
-. . .
-
-Layoﬀ survivors are more than just employees left behind — they’re the
-
-foundation of an organization’s future. Yet the emotional, social, and
-
-professional challenges they face are profound and often overlooked. By
-
-acknowledging the impact of these changes, assessing the new reality,
-
-identifying opportunities, and taking deliberate action, survivors can
+in your work, personal life, or community — can be a powerful anchor

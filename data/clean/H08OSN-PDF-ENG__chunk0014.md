@@ -1,13 +1,17 @@
-## HBR / Digital Article / When You’re Overloaded—and Delegating Isn’t an Option
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e08387373c51a7ea2245c5eab3f83f6ee6427e82
+title: H08OSN-PDF-ENG
+---
+## negatively impact customers, colleagues, or ﬁnance.
 
-look after patients. She asked the nurse teams how their workload could
+One of Frans’s clients leads several nurse teams in a hospital. The nurses
 
-be reduced without compromising the care patients received. After
+felt overwhelmed with administrative work and had too little time to
 
-some in-depth discussion, they came up with the idea to stop using a
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-100-question checklist that had to be ﬁlled out for each patient, and
+4
 
-instead, only register irregularities. This led to a reduction of three to
-
-four hours per team member per week and enabled the nurses to spend
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,39 @@
-## the conversation. Ronald Heifetz, author and senior lecturer at the
+---
+source_path: H08HRO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e613323d21816a4e31d59ba74c373cf77447c830
+title: H08HRO-PDF-ENG
+---
+## do. With notiﬁcations from smart phones, physical taps from smart
 
-Harvard Kennedy School, talks about getting oﬀ the dance ﬂoor and
+watches, and the random thoughts that pop into our heads, it’s a
 
-going “onto the balcony.” This is a metaphor for stepping back from
+challenge to stay focused.
 
-the immediate situation so you can look at it as an objective observer,
+I’ll never forget a business lunch with a mentor. We went to a popular
 
-identify patterns, and strategically ask yourself what’s going on.
+Harvard Square restaurant frequented by many of our colleagues.
 
-I call this moment “pause and breathe”—a quick mental reset. It can be
+Having spent over 15 years in the Harvard community, I knew many of
 
-as simple as taking a sip of water, gathering your thoughts, and deciding
+the other guests as well as the general manager of the restaurant. While I
+
+loved smiling and saying hello to many of my colleagues as they passed
+
+by, my mentor made a comment that we should probably go somewhere
+
+else for the next lunch so that I could focus on our conversation. The
+
+feedback hurt, but it was valid.
+
+So what do you do when someone isn’t really paying attention to you?
+
+Great conversations have a natural rhythm, and it takes both parties to
+
+intentionally create that rhythm.
+
+Here are a few steps to get back in sync with your counterpart.
+
+Take a step back.
+
+When someone isn’t listening to you, mentally take a step back during

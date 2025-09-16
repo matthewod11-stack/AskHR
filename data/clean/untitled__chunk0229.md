@@ -1,11 +1,9 @@
-# Phinney.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9e2b54b10af263d1e776f25e58bdccebbfbe9d85
+title: untitled
+---
+## Journal of Experimental Psychology, 4, 11–26.
 
-Hoffman, R. R., Bringmann, W. G., Bamberg, M., & Klein, R. (1987). Some historical observations on Ebbinghaus. In D. S. Gorfein & R. R. Hoffman (Eds.), Memory and learning: The Ebbinghaus centennial conference (pp. 57–75). Hillsdale, NJ: Erlbaum.
-
-Hull, C. L. (1934a). The concept of the habit-family hierarchy and
-
-maze learning: Part I. Psychological Review, 41, 33–54.
-
-Hull, C. L. (1934b). The concept of the habit-family hierarchy and maze learning: Part II. Psychological Review, 41, 134–152.
-
-Hull, C. L. (1943). Principles of behavior. New York: Appleton-
+Hickok, L. P. (1854). Empirical psychology. New York: Ivison &

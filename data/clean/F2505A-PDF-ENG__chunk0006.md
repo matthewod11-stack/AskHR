@@ -1,15 +1,19 @@
-# part in that.
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d130775eecca1218c0f27fed520d2997693a1bc9
+title: F2505A-PDF-ENG
+---
+## with $25 million of funding capital still unspent—Color Labs’ investors
 
-The company’s failure illustrates that when startups receive funding can have as big an impact on innovation as how much funding they get does.
+and board members voted to cease operations.
 
-Some research has shown that ﬁnancial constraints can beneﬁt startups
+Where did Color Labs go wrong? Most analysts concluded that its
 
-by forcing them to be scrappy and resourceful. But other studies on the
+massive early funding worked against it, creating pressure for the
 
-eﬀects of startup capital have gotten conﬂicting results, and researchers
+company to scale up quickly instead of reﬁning the product. To put
 
-don’t fully understand exactly how or why the timing and size of ﬁrst
+it another way, Color Labs shifted too quickly from experimentation to
 
-investments inﬂuence a venture’s subsequent moves.
-
-When Harsh Ketkar of the University of Texas at Austin’s McCombs
+exploitation—and its large early investment probably played a major

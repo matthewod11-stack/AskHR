@@ -1,11 +1,15 @@
-# hours and meeting-free days.
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1fb329e2a10ec80b497897fc681e1ec7a3d3369
+title: H088OR-PDF-ENG
+---
+## Treat meeting culture as an important part of company culture.
 
-Identify the people who can make a difference and support them. Running eﬀective meetings is a skill, and like any skill, it can be
+This is especially critical for hybrid and remote teams where a
 
-cultivated and strengthened. Fortunately, to make positive changes you
+signiﬁcant portion of interaction is via an online meeting platform.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+As with company culture, deﬁne the meeting culture you want —
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+determine best practices and deﬁne roles and responsibilities. This can also include expectations on when not to meet, such as scheduled focus

@@ -1,15 +1,23 @@
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b0ce871c1611498f036c80de445927789951433
+title: R2406G-PDF-ENG
+---
 ## HBR / Magazine Article / Personalization Done Right
 
-the beneﬁts of detailed data in every interaction. When we examined
+See more HBR charts in Data & Visuals on HBR.org.
 
-the link between customer satisfaction (measured by a company’s Net
+Scaling personalization across customer interactions is crucial.
 
-Promoter Score) and the Personalization Index, we observed a positive
+Achieving the highest levels of customer satisfaction is possible only
 
-correlation. For every 10 points higher that a company scored on the
+when a company delivers on personalization at scale—that is, in more
 
-index, its Net Promoter Score tended to increase by an average of seven
+interactions, with as many customers as possible, and while leveraging
 
-points. The levels of customer satisfaction at companies that score low
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-on the index vary widely. Indeed, some companies with exceptional
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

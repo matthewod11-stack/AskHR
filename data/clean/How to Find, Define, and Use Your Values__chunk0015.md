@@ -1,7 +1,7 @@
-# How to Find, Deﬁne, and Use Your Values
-
-Read more on Early career or related topics Managing yourself, Personalbrand, Personal growth and transformation and Personal purpose andvalues
-
-https://hbr.org/2023/02/how-to-ﬁnd-deﬁne-and-use-your-values
-
-7/7
+---
+source_path: How to Find, Define, and Use Your Values.md
+pages: n/a-n/a
+chunk_id: 201284bf7f019bcfad2079690e5caa45026e10d4
+title: How to Find, Define, and Use Your Values
+---
+# 9/10/25, 11:58 AM

@@ -1,21 +1,27 @@
-# Intellectual Stimulation
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 2ba62b04af1fc1f7ba268cbbc96bba44bf2e6e73
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Inspirational Motivation
 
-5
+4
 
-1422
+945
+
+.57
+
+.50
 
 .64
 
-.51
+.65
 
-.78
+.04
 
-.73
+61.01
 
-.20
+.59
 
-3.90
-
-.48
-
-.98
+.70

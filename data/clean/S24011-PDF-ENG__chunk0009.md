@@ -1,13 +1,23 @@
-## HBR / Spotlight Article / Leading in the Flow of Work
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 891f1a0df7c0dd95d86f9a9baa58b48a74f414d8
+title: S24011-PDF-ENG
+---
+# outer pursuits.
 
-as a control group of managers did. And in a cross-organizational study
+My ﬁrm has found that executives can tap into their inner core
 
-spanning diverse industries, roles, and levels, more than 100 executives
+with just 10 to 15 minutes of preparation before a big event. In our
 
-who adopted leadership-in-ﬂow saw their ability to achieve successful
+research and consulting work, we’ve validated our approach, which
 
-outcomes—measured by whether they attained their performance goals
+we call leadership-in-ﬂow. At SAP, for instance, managers trained in it
 
-—rise by an average of 135% within six weeks. Our ﬁndings reveal that
+performed twice as well (at increasing their ratings on leadership trust)
 
-people have an innate capacity for exemplary leadership far beyond
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

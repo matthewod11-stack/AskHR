@@ -1,5 +1,7 @@
-# CENTURY 318
-
-In this chapter we present a history of abnormal psychology, now commonly called psychopathology. This must be a par- tial history, because, although contemporary psychopathol- ogy science and practice are amply archived in scientiﬁc journals, epidemiological surveys, hospital reports, and gov- ernment statistics, little of the ﬁeld’s history is well docu- mented. Modern scientiﬁc method was not applied to the investigation of disease until the nineteenth century, and it was applied even later to the study of psychopathology. Knowledge was authenticated by the teacher’s experience, not by producing objective empirical evidence, impartially gathered, and opened to criticism. Theories about psy- chopathology and the ways to treat it during earlier periods of history were developed by physicians, philosophers, theolo- gians, and lawyers. Our knowledge is derived from their extant writings, medical treatises, church and legal docu- ments, historical narratives, diaries, and literature.
-
-303
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4842315c8be416f6d9d1f201f086d159018d62c1
+title: untitled
+---
+# LATE NINETEENTH INTO TWENTIETH

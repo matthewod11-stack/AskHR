@@ -1,23 +1,17 @@
-## government circles. Talk to friends, former classmates, and
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f57f100b5ea50019443fa28e0d2dc5e9cd1b0ab2
+title: H08O5Y-PDF-ENG
+---
+# HBR / Digital Article / A Guide to Updating Your Resume When Moving from Public to P…
 
-acquaintances who work in the private sector. Your current public sector
+Before reaching out to people, take the time to clarify your career goals.
 
-colleagues may also have valuable connections—many have family
+What kind of role are you looking for? Which industries interest you?
 
-members, friends, or former coworkers in corporate roles. Don’t be
+Having a clear direction will make your conversations more productive
 
-afraid to ask for introductions.
+and help others guide you toward the right opportunities.
 
-Attend industry events, join professional associations, and engage in
-
-LinkedIn discussions to connect with private sector professionals in
-
-your target ﬁeld. If you’re switching to an industry where you lack
-
-direct experience, consider informational interviews. Reach out to
-
-people in roles that interest you and ask about their career paths, daily
-
-responsibilities, and what skills are most valued in their ﬁeld. These
-
-conversations can provide invaluable insights and may even lead to job
+Once you have a focus, start expanding your network beyond

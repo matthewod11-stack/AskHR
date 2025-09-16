@@ -1,27 +1,19 @@
-## industry insights, enhance employer branding and reputation, and
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd3b457b05460c3e462759403a29560cacf2eba5
+title: H0832B-PDF-ENG
+---
+## HBR / Digital Article / Designing a Corporate Alumni Program? Start Here.
 
-support hiring processes by providing referrals or coming back as
+some cases, even healthy. When leaders recognize that employees
 
-returning employees themselves.
+who choose to move on is a normal aspect of contemporary talent
 
-However, beneﬁts from alumni don’t just appear organically. Instead,
+management, their perspective shifts toward exploring the value that
 
-organizations have to strategically manage relationships with alumni
+former employees, also known as alumni, can bring to the organization.
 
-in ways that encourage them to bring resources back to their former
+Growing evidence supports the importance of alumni to organizational
 
-employer. One way in which a growing number of organizations, such as
-
-McKinsey & Company, SAP, and Starbucks, are doing this is by oﬀering
-
-corporate alumni programs. Similar to university alumni programs,
-
-corporate alumni programs encompass an organization’s systematic
-
-eﬀorts to engage former employees by providing opportunities to
-
-reconnect with the company and other alumni. This can range from
-
-creating a page for alumni on social networking platforms to sponsoring
-
-a formal program that provides alumni with networking events, job
+performance as they can provide new business opportunities, share

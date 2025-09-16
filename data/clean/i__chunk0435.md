@@ -1,1 +1,7 @@
-## X_train2, X_test2, y_train2, y_test2 = train_test_split(X2, y2, random_state=42)
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: b46e96575aeefaecab0cc33fa4186ef28ad08189
+title: i
+---
+# y2 = data['Attrition']

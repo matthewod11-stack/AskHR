@@ -1,71 +1,73 @@
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 2eb3758f473a2d13cd74bcaaa9d366ccdd1532f1
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
 ## Impact of inclusiveleadershipon employeeinnovativebehavior
 
-- 33. Srivastava A, Bartol K M, Locke E A. Empowering leadershipin management teams: effects on knowl- edge sharing,efficacy, and performance. Acad Manage J, 2006; 49(6):1239–1251.
+- 7. Shin SJ, Yuan F, Zhou J. When perceivedinnovationjob requirement increasesemployeeinnovative behavior: A sense making perspective. J Organ Behav. 2017; 38(1): 68–86.
 
-34.
+- 8. DamanpourF. Organizational innovation:A meta-analysis of effects of determinants and moderators. Acad ManageJ. 1991; 34(3): 555–590.
 
-Janssen O. Job demands, perceptionsof effort-reward fairness and innovativework behaviour.J Occup Organ Psychol. 2000; 73(3): 287–302.
+- 9. Hu MLM, Horng JS, Sun YHC. Hospitality teams: Knowledgesharingand service innovationperfor- mance. Tour Manage. 2009; 30(1): 41–50.
 
-35.
+- 10. Song C, Gong YP, Cass S. Promoting innovation in hospitality companiesthrough human resource management practices. Int J Hosp Manag. 2011; 30(4): 812–818.
 
-Janssen O, Yperen N W V. Employees’ goal orientations, the quality of leader-member exchange,and the outcomes of job performance and job satisfaction. Acad Manage J, 2004; 47(3):368–384.
+11.
 
-- 36. Yuan F, Woodman R W. Innovative behaviorin the workplace:the role of performanceand image out- come expectations. Acad ManageJ, 2010; 53(2):323–342.
+Jaiswal NK, Dhar RL. Transformational leadership, innovationclimate, creative self-efficacy and employeecreativity: A multilevelstudy. Int J Hosp Manag. 2015; 51: 30–41.
 
-- 37. DrazinR, Glynn M A, KazanjianR K. Multileveltheorizingabout creativity in organizations: A sensemak- ing perspective. Acad Manage Rev, 1999; 24(2):286–307.
+- 12. Soo C, Tian AW, Teo STT, Cordery J. Intellectual capital–enhancingHR, absorptive capacity, and inno- vation. Hum Resour Manage. 2016; https://doi.org/10.1002/hrm.21783
 
-- 38. Mumford M D, Scott G M, Gaddis B, Strange J M. Leadingcreative people: orchestrating expertise and relationships. LeadershipQuart, 2002; 13(6), 705–750.
+13.
 
-- 39. Amabile TM. Creativity in context: Update to the social psychologyof creativity. Colorado,Ameirica: Westview Press; 1996.
+Jung D, Wu A, Chow C W. Towards understanding the direct and indirect effects of CEOs’ transforma- tional leadershipon firm innovation.LeadershipQuart, 2008; 19(5):582–594.
 
-- 40. Atwater L, Carmeli A. Leader–member exchange,feelings of energy, and involvementin creative work. LeadershipQuart, 2009; 20(3):264–275.
+- 14. Dong I J, Sosik J J. Transformational leadershipin work groups the role of empowerment, cohesive- ness, and collective-efficacy on perceivedgroup performance. Small Gr Res, 2002; 33(3):313–336.
 
-- 41. CongerJ, KanungoR. Charismaticleadershipin organizations. California,America: Sage Publica- tions; 1998.
+- 15. Dhar R L. Ethical leadershipand its impact on service innovativebehavior: The role of LMX and job autonomy. Tourism Manage, 2016; 57:139–148.
 
-- 42. Shin S J, Zhou J. Transformational leadership, conservation, and creativity: evidencefrom Korea. Acad ManageJ, 2003; 46(6):703–714.
+16.
 
-- 43. EisenbergerR, StinglhamberF. Perceived organizational support. J Appl Psychol. 1986; 71(3): 500– 507.
+Tian Q, Sanchez J I. Does paternalisticleadership promote innovativebehavior? The interaction betweenauthoritarianism and benevolence. J Appl Soc Psychol, 2017; 47(5).
 
-- 44. Reiter-Palmon R, Illies J J. Leadershipand creativity: Understandingleadershipfrom a creative prob- lem-solving perspective. Leadership Quart, 2004; 15(1):55–77.
+- 17. Carmeli A, Palmon RR, Ziv E. Inclusive leadership and employeeinvolvementin creative tasks in the workplace:The mediatingrole of psychological safety. Creat Res J. 2010; 22(3): 250–260.
 
-45.
+- 18. RandelA E, Galvin B M, Shore L M, Ehrhart K H, Chung B G, Dean M A, et al. Inclusive leadership: real- izing positive outcomes through belongingness and being valued for uniqueness. Hum Resour Manage R, 2017:S1053482217300517.
 
-Foss L, Woll K, Moilanen M. Creativity and implementations of new ideas. Int J Gender Entrep, 2013; 5(3):298–322.
+- 19. King N. Innovationat work: The researchliterature. In West MA, Farr JL (Eds.), Innovationand creativity at work & Organizations. 1990; (5): 15–59. Chichester, England: Wiley.
 
-- 46. Boren LA. Current policy development in specialeducation: The regulareducationinitiative and the inclusionmovement: A review of the literature; 1994.
+- 20. Bammens Y P M. Employees’ innovativebehaviorin social context: A closer examination of the role of organizational care. J Prod Innovat Manag, 2016; 33(3): 244–259.
 
-47.
+- 21. George J M, Reed T F, BallardK A, Colin J, FieldingJ. Contact with aids patients as a source of work- related distress: effects of organizational and social support. Acad Manage J, 1993; 36(1), 157–171. PMID: 10123743
 
-Jaussi K S, DionneS D. Leadingfor creativity: The role of unconventional leader behavior. Leadership Quart, 2003; 14(4):475–498.
+- 22. RhoadesL, Eisenberger R. Perceived organizational support: a review of the literature. J Appl Psychol, 2002; 87(4):698–714. PMID: 12184574
 
-- 48. Borman WC, Motowidlo SJ. Expanding the criterion domain to include elements of contextual Perfor- mance. San Francisco: Jossey Bass; 1993.
+23.
 
-- 49. Arnold JA, Arad S, RhoadesJA, Drasgow F. The empowering leadershipquestionnaire: The construc- tion and validation of a new. J Organ Behav. 2000; 21(3): 249–269.
+Luksyte A, Spitzmueller C. When are overqualified employeescreative? It dependson contextual fac- tors. J Organ Behav. 2016; 37(5): 635–653.
 
-- 50. EisenbergerR, HuntingtonR, Hutchison S. Organizational support. J Appl Psychol. 2002; 87(4): 698–
+- 24. NembhardIM, Edmondson AC. Making it safe: The effects of leader inclusiveness and professional sta- tus on psychologicalsafety and improvement efforts in health care teams. J Organ Behav. 2006; 27(7): 941–966.
 
-- 714. PMID: 12184574
+- 25. Stoker JI, Looise JC, Fisscher OAM, De Jong RD. Leadership and innovation:Relationsbetweenlead- ership, individual characteristics and the functioningof R&D teams. Int J Hum Resour Manage. 2001; 12(7): 1141–1151.
 
-- 51. Chen T, Li F, LeungK. When does supervisor support encourageinnovativebehavior? Opposite mod- erating effects of generalself-efficacy and internal locus of control. Pers Psychol, 2016; 69(1):129–38.
+- 26. Maldonado D, Ayoko O, CallanVJ, Paulsen N. Charismatic leadership,changeand innovation in an R&D organization. J Organ ChangeManage. 2009; 22(5): 511–523.
 
-- 52. Kurtessis J N, EisenbergerR, Ford M T, Buffardi L C, Stewart K A, Adis C S. Perceived organizational support: a meta-analytic evaluation of organizational support theory:. J Manage, 2015,0149206315575554.
+- 27. Mitchell R, Boyle B, Parker V, Giles M, Chiang V, Joyce P. Managing inclusiveness and diversity in teams: How leader inclusiveness affects performance through status and team identity. Hum Resour Manage. 2015; 54(2): 217–239.
 
-- 53. Wayne S J, Shore L M, Liden R C. Perceived organizational support and leader-memberexchange:A social exchangeperspective. Acad ManageJ, 1997; 40(1):82–111.
+- 28. Hollander EP. Inclusive leadership:The essentialleader-follower relationship. New York, America: Taylor Francis Group; 2009.
 
-- 54. EisenbergerR, StinglhamberF, Vandenberghe C, Sucharski I L, RhoadesL. Perceived supervisor sup- port: contributions to perceivedorganizational support and employeeretention. J Appl Psychol, 2002; 87(3), 565. PMID: 12090614
+- 29. Ospina S. Leadership, Diversity and inclusion:Insights from scholarship. Graduate School of Public Service. 2011; 3(1): 3–30.
 
-- 55. BosnehlesA C, Veenendaal A A R. Perceptionsof HR practices and innovativework behavior: The moderating effect of an innovativeclimate. Int J Hum Resour Man, 2017;(1):1–23.
+- 30. Ven AHV. Central problems in the management of innovation.ManageSci. 1986; 32(5): 590–608.
 
-- 56. EisenbergerR, Fasolo P, Davis-Lamastro V. Perceived organizational support and employeediligence, commitment, and innovation. J Appl Psychol, 1990; 75(1):51–59.
+- 31. Dvir T, Eden D, Avolio B J, Shamir B. Impact of transformational leadershipon followerdevelopment and performance: a field experiment. Acad Manage J, 2002; 45(4), 735–744.
 
-- 57. Blau PM. Exchangeand power in social life. New York, NY: Academic Press; 1964.
+32.
 
-58.
-
-Janssen O. Innovative behaviour and job involvementat the price of conflict and less satisfaction with co-workers. J Occup Organ Psychol. 2003; 76(3): 347–364.
-
-- 59. Barksdale K, Werner JM. Managerialratings of in-role behaviors, organizational citizenship behaviors and overall performance: Testing different models of their relationship. J Bus Res. 2001; 51(2): 145– 155.
+Liden R C, Wayne S J, Hao Z, HendersonD. Servant leadership:development of a multidimensional measure and multi-level assessment. LeadershipQuart, 2008; 19(2), 161–177.
 
 PLOS ONE | https://doi.org/10.1371/journal.pone.0212091 February 28, 2019
 
-13 / 14
+12 / 14

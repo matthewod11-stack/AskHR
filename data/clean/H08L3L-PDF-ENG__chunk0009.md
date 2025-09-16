@@ -1,9 +1,15 @@
-# Exaggerate.
+---
+source_path: H08L3L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d5fe06808b1924eb8b11c6a65431ab0fc406b7a
+title: H08L3L-PDF-ENG
+---
+# Spark Change
 
-Take a problem or challenge and think about the most extreme way
+Perhaps you’re worried about falling behind competitors, or customer
 
-to solve it. What would you do if you had unlimited inﬂuence, time,
+feedback is mediocre, or you’ve seen previous change initiatives fall ﬂat.
 
-or budget? Consider, for example, the outlandish idea proposed by
+When individuals or teams are in a rut and looking for reinvention, we
 
-the organizers of the London Olympics opening ceremony: have James
+often recommend these two exercises.

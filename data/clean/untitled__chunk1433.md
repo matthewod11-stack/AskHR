@@ -1,11 +1,19 @@
-# Holt.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 843c5c5f6634151d74e09476569b3b3a5a814f12
+title: untitled
+---
+# America. Cambridge, MA: MIT Press.
 
-Janis,I.,&Mann,L.(1977).Decisionmaking:Apsychologicalanaly- sis of conﬂict, choice, and commitment. NewYork: Free Press.
+Henriksen, M. A. (1997). Dr. Strangelove’s America: Society and culture in the atomic age. Berkeley: University of California Press.
 
-Jastrow, J. (1928). Lo, the psychologist! In M. L. Reymert (Ed.), Feelings and emotions: The Wittenburg symposium (pp. 434–438). Worcester, MA: Clark University Press.
+Henriques, J. H., Hollway, W., Urwin, C., Venn, C., & Walkerdine, V. (1998). Changing the subject: Psychology, social regulation and subjectivity. London: Routledge. (Original work published 1984)
 
-Jones, E. E. (1985). Major developments in social psychology during the past ﬁve decades. In G. Lindzey & E. Aronson (Eds.), Handbook of social psychology (3rd ed., Vol. 1, pp. 47–107). New York: Random House.
+Herman, E. (1995). The romance of American psychology: Political culture in the age of experts. Berkeley: University of California Press.
 
-Kaplan, S. (1956). Social engineers as saviors: Effects of World War I on some American liberals. Journal of the History of Ideas, 17, 347–369.
+Hornstein, G. (1988). Quantifying psychological phenomena: Debates, dilemmas, and implications. In J. Morawski (Ed.), The rise of experimentation in American psychology (pp. 1–34). New Haven, CT: Yale University Press.
 
-Karpf, F. B. (1932). American social psychology. New York:
+Israel, J. (1979). From level of aspiration to dissonance (Or, what the middle class worries about). In A. R. Buss (Ed.), Psychology in social context (pp. 239–257). New York: Irvington.
+
+James, W. (1890). The principles of psychology. New York:

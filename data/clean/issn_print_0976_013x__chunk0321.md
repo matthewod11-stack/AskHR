@@ -1,13 +1,11 @@
-# collaboration and integration of human-machine interactions, AI algorithms, and automation
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 407380777b45eb1e1dfbc6b19f4f559f62d8915b
+title: issn_print_0976_013x
+---
+# speed, accuracy by automation and intelligent production system (Longo et al., 2020).
 
-to enhance productivity and response. AI in people’s daily life and Society 5.0 are some of
+The concept of Industry 4.0, wherein automation and robotics have been utilized as
 
-the implications that will not only be restricted to organizations but also more open towards
-
-solving societal problems. The sustainability aspects will be extended for the benefit of
-
-society and for the sustainability of the economy by creating expertise skills in human-
-
-machine connectivity and allied employment opportunities. Resilience, sustainability, and
-
-digital SC are concurrent strategies to adopt in Industry 5.0.
+competitors to humans, now under the aegis of Industry 5.0 practices will rely on

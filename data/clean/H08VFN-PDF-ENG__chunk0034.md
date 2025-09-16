@@ -1,17 +1,13 @@
-# shame
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0642bd1050b3d454368e67d69c877ec6a647cb89
+title: H08VFN-PDF-ENG
+---
+# fear wants—a plan.
 
-- Root Cause: A leader has a plan—but lacks conﬁdence to try it
+- 2. Failure of Emotional Conﬁdence
 
-Hesitation is a learned behavior. It’s triggered by memories of failure
+- Special Ops Name: Flashback Quit
 
-(or perceived failure) that suﬀuse the brain with shame. Shame makes
-
-you think: I am useless. And when past shame surfaces in the present, it
-
-makes you think: Here we go again. I am going to mess this up, just like I
-
-did before.
-
-Shame isn’t inherently bad; it evolved to prompt us to learn from
-
-our missteps. But shame is so psychologically powerful that it can be
+- Diagnostic Indicators: Hesitation, self-doubt, unproductive anxiety,

@@ -1,37 +1,23 @@
-## At the same time, Gallup data shows that remote and hybrid
+---
+source_path: H07THH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58ba9b84fb6ad6859cdf90cbed578d65f00bf8ab
+title: H07THH-PDF-ENG
+---
+# HBR / Digital Article / Research: Flexible Work Is Having a Mixed Impact on Employee…
 
-employees across the world were consistently more engaged than onsite
+were experiencing more stress and more anger than employees who
 
-employees, which correlates with higher productivity and performance.
+were working onsite full-time.
 
-Again, Fortune 500 HR leaders agree: 41% of HR leaders with the most
+We also asked HR leaders at Fortune 500 companies, who are typically
 
-ﬂexible policies said their productivity had generally increased in the
+responsible for their company’s health beneﬁts, whether they thought
 
-past year, as compared to 33% of HR leaders who required one or two
+employees’ jobs were having a positive or negative impact on employee
 
-days/week, 32% who require three days per week, and 32% of HR leaders
+mental health. Only 27% of CHROs who oﬀer the most ﬂexibility (requiring zero days in the oﬃce) said they saw a positive impact on
 
-who require four to ﬁve days per week.
+mental health, as compared to 29% of HR leaders who require one or two days per week in the oﬃce; 37% of HR leaders who require three
 
-This presents a complicated challenge for company leaders: Full
-
-ﬂexibility means employee well-being might be in jeopardy. But if you’re going to require employees to be in the oﬃce full-time, you may
-
-need to mitigate lower engagement and lower productivity.
-
-So what can organizations do to promote both well-being and
-
-productivity wherever employees are working?
-
-Help people live their best lives with their definition of balance.
-
-A common misperception leaders have about ﬂexible work is that
-
-employees want to be mixing their work and personal lives during the
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+days/week; and 47% of HR leaders who require four to ﬁve days/week.

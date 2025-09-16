@@ -1,5 +1,9 @@
-# detailed analysis. With gen AI we
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ccd4cd7ae3980a774319d7f4dcc87e99339e75bc
+title: F2502A-PDF-ENG
+---
+## for security practices. Traditionally, the
 
-can automate the submission and
-
-analysis of data-flow diagrams, identify
+process involves multiple stages of

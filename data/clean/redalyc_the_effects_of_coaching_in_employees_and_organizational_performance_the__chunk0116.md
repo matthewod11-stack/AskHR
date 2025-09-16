@@ -1,5 +1,9 @@
-## Journal of Human Resource Management, 22(9): 1902-1917.
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 717119ccea8be931fefc99192af28521d1e24763
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# Guilford.
 
-http://dx.doi.org/10.1080/09585192.2011.573969
-
--186-
+LEISINK, P.; KNIES, E. (2011). Line managers' support for older workers. The International

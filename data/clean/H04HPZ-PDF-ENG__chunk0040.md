@@ -1,15 +1,7 @@
-## general governance structures, such as formal evaluation procedures
-
-or progressive discipline policies. Courts frequently view the latter policies as evidence of rational governance and hence an eﬀort to avoid
-
-discrimination. This allowed us to examine the conditions under which
-
-judges deferred to the various symbolic structures that organizations
-
-created.
-
-We coded a judge as having deferred to the presence of symbolic
-
-structures when the judge found the structures to be legally sound yet failed to consider the eﬀectiveness of the structures at all; declared that
-
-an inadequate procedure was suﬃcient; or ignored substantial evidence
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58d53c9fee056bdf6d544d2b8b2ee4e0ee58cf69
+title: H04HPZ-PDF-ENG
+---
+# HBR / Digital Article / How HR and Judges Made It Almost Impossible for Victims of Se…

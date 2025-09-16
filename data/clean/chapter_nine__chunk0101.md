@@ -1,11 +1,9 @@
-## Practitioner Inquiry. Chichester: Wiley-Blackwell.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 8ebac9e3682dc0424303fbb6d5696d4eefcf0b47
+title: chapter_nine
+---
+# Heinemann.
 
-Hart, E., Hazelgrove, J. (2001) Understanding the organizational context for adverse events in the health services: the role of cultural censorship. Quality and Safety in Health Care. Vol. 10. pp 257- 262.
-
-Haworth, S. (2000) New management culture in the NHS. Nursing Management. Vol. 7. No. 3. pp 16-
-
-17.
-
-Hewison, A. (1999) Organisational effectiveness, part 2: clinical governance, part 2. How staff recruitment, safe workplaces and competent leadership help maintain effective organisations. Journal of Advanced Nursing. Vol. 29. No. 6. pp 377-84.
-
-Hoogwerf, L. (2002) Innovation and Change in a Rehabilitation Unit for the Elderly through Action
+Hardy, S., Titchen, A., McCormack, B., Manley, K. (2009) Revealing Nursing Expertise Through

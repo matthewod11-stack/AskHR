@@ -1,5 +1,9 @@
-## Process Approaches for Linking Personality to Dynamic Outcomes
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 5cf1334fe5c3ea80e7741860cb75b6076852b38c
+title: barrickryan_eds_personality_and_work
+---
+# 130 PERSONALITY AND WORK
 
-Going back to our original ﬁgures and looking at the patterns of affect over time, we can see that the mean level of affect is not the only parameter that can be used in examining differences in these patterns. For example, the standard deviation of those experiences over time can be predicted from personality variables that capture differences in affective responsivity. Weiss et al. (1999) showed that Larsen and Diener’s affective intensity measure (1987) predicted individual differences in affective variability. Weiss et al. (1999) and others have also looked at individual differences in the extent to which regular cycles exist in individual affect patterns. Such cycles may also have personality correlates.
-
-Although examination of the various parameters besides mean levels is an important undertaking, it still focuses on using per- sonality to explain between-person differences in affective states. Yet the within-person component of affective variability is what jumps out at any person who is studying affective experiences over time. People can feel angry in the morning and happy in the af- ternoon. They can and do move from state to state throughout the course of a day. Personality focused on between-person variance is limited in what it can accomplish. Yet our dilemma with within- person variance is that we are asked to predict and explain variable responses in the individual using stable characteristics of that per-
+construct like affect states. Essentially, they have dispositionalized affect itself. They have done this in one of two ways. One way has been to examine constructs that are traitlike in terms of time frame and to call them affect constructs. This is the satisfaction paradigm. The other way has been to aggregate the momentary experiences either by asking people to provide judgments about their typical or general affective states or to create such summaries mechani- cally from momentary data. The latter approach loses the within- person variability, which is essential to understanding affective experiences over time, as we have seen. The former approach also loses such dynamic data and suffers from the biases inherent in these recollective judgments. Neither approach pays much atten- tion to the nature of affect processes.

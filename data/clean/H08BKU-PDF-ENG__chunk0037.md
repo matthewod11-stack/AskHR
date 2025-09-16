@@ -1,13 +1,13 @@
-## better understand and work with people of diverse backgrounds.
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39c487c198e7d7f6c68a7d6aaa9b051486a80bc9
+title: H08BKU-PDF-ENG
+---
+# throughout the mentoring experience.
 
-This includes increasing emphasis and training on trauma-informed
+. . .
 
-business practices, and involves a long-term outlook, openness to
+Inclusive recruitment, in this sense, should be seen as a long-term
 
-learning, and going beyond business as usual. In the increasingly
-
-pressing competition for global talent, refugees highlight the gaps in
-
-inclusive recruitment. Businesses need to rethink how they can become
-
-part of the solution to the world’s most pressing humanitarian crises.
+process of building cross-cultural competencies and learning to

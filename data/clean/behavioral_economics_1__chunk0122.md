@@ -1,11 +1,15 @@
-## of Individual and Institutional Investors, University of California, Berkeley.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 4e476d2815d87106e6a0b3efabb95358da16b56e
+title: behavioral_economics_1
+---
+# Institute of Technology.
 
-O'Donoghue, T. and M. Rabin (2001). "Choice and procrastination." Quarterly Journal of Economics 116(1):
+Nagel, R. (1995). "Unraveling in Guessing Games: An Experimental Study." The American Economic Review
 
-121-160.
+85(5): 1313-1326.
 
-Ofek, E. and M. Richardson (2003). "DotCom Mania: The Rise and Fall of Internet Stock Prices." Journal of
+Odean, T. (1998). "Are Investors Reluctant to Realize Their Losses?" Journal of Finance 53(5): 1775-1798.
 
-Finance 58(3): 1113-1138.
-
-Padoa-Schioppa, C. and J. Assad (2005). Neuronal Processing of Economic Value in Orbitofrontal Cortex,
+Odean, T. and B. M. Barber (2005). All that Glitters: The Effect of Attention and News on the Buying Behavior

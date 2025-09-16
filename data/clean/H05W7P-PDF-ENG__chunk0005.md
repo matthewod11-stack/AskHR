@@ -1,11 +1,15 @@
-# HBR / Digital Article / Do Your Employees Feel Safe Reporting Abuse and Discriminatio…
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bc4c2e5d9b92985a88c1573fdc68ea66cf69ee8
+title: H05W7P-PDF-ENG
+---
+## sexism, racism, and other injustices more common, these interpersonal
 
-inequity in place. One of the alarming symptoms of these challenges is
+conversations alone will not remove the systemic challenges keeping
 
-the low rate at which employees report incidents of assault, harassment,
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-and discrimination. Too many people don’t feel safe at work, and,
+1
 
-fearing repercussions, aren’t willing or able to speak up about it. This
-
-vicious cycle keeps systemic inequity deeply entrenched within many
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

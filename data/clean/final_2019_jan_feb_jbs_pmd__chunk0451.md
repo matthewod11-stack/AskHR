@@ -1,9 +1,27 @@
-# Means Plots
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: d1f2443b234701536bebd2970cb70fd113452a41
+title: final_2019_jan_feb_jbs_pmd
+---
+# Subset for alpha = 0.05
 
-- 6. Findings and Conclusion Study reveals that demographic factors have significant influence on the performance of the group. The
+<30 >50 30 - 50 Sig.
 
-demographic factors identified in the study are Group size, Social Status, Education, Purpose of Joining the Group and Nature of Job. All of these are found to
+74 146 267
 
-44
+1 1.9144
 
-IITM Journal of Business Studies (JBS)
+1.000
+
+2
+
+2.8242
+
+1.000
+
+3
+
+3.9538 1.000
+
+Source: Survey Data. Means for groups in homogeneous subsets are displayed. a. Uses Harmonic Mean Sample Size = 124.439. b. The group sizes are unequal. The harmonic mean of the group sizes is used. Type I error levels are not guaranteed.

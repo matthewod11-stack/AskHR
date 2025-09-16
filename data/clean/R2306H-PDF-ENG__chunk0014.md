@@ -1,9 +1,7 @@
-# Find and Mobilize Innovation Catalysts
-
-The ﬁrst problem with novel ideas is, quite simply, that business
-
-leaders don’t come across them that often. The siloed nature of
-
-organizations means that for many managers, a big chunk of day-to-
-
-day interactions are with the same people in the same context. And
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 66529d2cb7efe334b13661ef5b7248f586409448
+title: R2306H-PDF-ENG
+---
+# principles.

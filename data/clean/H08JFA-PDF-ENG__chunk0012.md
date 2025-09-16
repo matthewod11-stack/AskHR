@@ -1,29 +1,17 @@
-## HBR / Digital Article / Why You’re Chronically Overcommitted
+---
+source_path: H08JFA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71698103bf34cbed20b4e11af70aa8dd5980bcbc
+title: H08JFA-PDF-ENG
+---
+# trajectory.
 
-if their circumstances diﬀer. For instance, a coworker who manages
+- 3. Comparison with others: Seeing peers handle heavy workloads can
 
-a demanding workload eﬀortlessly might have diﬀerent resources,
+create unfair comparisons and an internal pressure to keep up, even
 
-experience, support systems, or personal circumstances that make
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that possible. When you compare yourself to them, you discount
+3
 
-these factors and judge yourself unfairly. It’s essential to recognize
-
-that everyone’s situation is unique — what works for someone else
-
-might not work for you, and that’s okay. Focusing on your strengths
-
-and limitations, and acknowledging your unique context helps you
-
-have clarity about what is reasonable and possible for you.
-
-Research shows that overcommitment increases stress levels, which
-
-can lead to emotional distress, such as feeling overwhelmed and
-
-anxious, and exacerbates physical health concerns such as sleep issues.
-
-Overcommitment can also lead to “siege” mentality — where you feel
-
-like you are always under pressure or attack, leading to increased
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

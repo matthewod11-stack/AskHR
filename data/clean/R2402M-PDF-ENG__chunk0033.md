@@ -1,17 +1,15 @@
-# global corporation. How do cultural and operational differences impact strategy implementation?
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb6e4f35a65f9b77f1a963a30b40967b461a5b6d
+title: R2402M-PDF-ENG
+---
+# Case Study Classroom Notes
 
-- 4. During the Cold War many South American unions were involved in
+- 1. What are the potential risks and rewards of doubling production capacity in a manufacturing plant? Explore the implications for stakeholders and the strategic considerations.
 
-political movements, some of which were violently repressed. What role might historical distrust in the region play in determining the union’s postures in the negotiation with Luna?
+- 2. Pulling an andon cord (traditionally, a rope) stops a production line. In
 
-- 5. Sequencing is important to dealmaking. One approach is to tackle
+the kaizen approach, every worker who sees a quality or process concern can do this.
 
-major issues first. Alternatively, starting with simpler matters may build momentum and trust.
-
-- 6. Savvy negotiators seek to understand each party’s best alternative to a
-
-negotiated agreement (BATNA), which helps dictate how aggressive they can be. Sometimes, however, a counterparty’s BATNA is not clear.
-
-HBR’s fictionalized case studies present problems faced by leaders in real companies and offer solutions from experts. This one is based on the HBS Case Study “Toyota and Its Labor Union in Argentina (A)” by Jorge Tamayo, Erik Snowberg, and Jenyfeer Martínez Buitrago.
-
-A version of this article appeared in the March–April 2024 issue of Harvard Business Review.
+- 3. Reflect on the complexities of managing a subsidiary that is part of a

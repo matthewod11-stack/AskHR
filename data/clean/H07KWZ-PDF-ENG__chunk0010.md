@@ -1,25 +1,39 @@
-# battle of wills and wallets.
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 780af6cd893e32f535fb60f1701e3428b01e7c14
+title: H07KWZ-PDF-ENG
+---
+## the ﬁctional international media and entertainment giant Waystar
 
-Once they’ve decided to ﬁght Logan for PGM, the siblings waste no time
+Royco. The family’s patriarch, Logan Roy, is a ruthless and much-feared
 
-in meeting with the Pierces, who take advantage of the Roy family’s
+businessman facing health issues. His four grown children — Connor,
 
-internecine animosity to drive up the sale price. After a few bids, Nan
+Kendall, Roman, and Siobhan (Shiv) — have their own ambitions and
 
-agrees to sell to the siblings for $10 billion without giving Logan a
+ideas for the company’s future. They also have a ﬁnancial stake in
 
-chance to counter. Losing a bidding war to his own children is a hard
+Waystar Royco. As the series progresses, internal and external crises
 
-pill for Logan to swallow.
+threaten the media empire’s stability and future.
 
-Notably, the PGN deal is contingent on the siblings liquidating their
+In the ﬁrst episode of season four, power-hungry Logan is in
 
-Waystar assets, so it’s not a done deal just yet. Even so, the contest
+negotiations for digital media company Gojo to acquire his company.
 
-highlights classic mistakes that business leaders frequently make in
+He has yanked control of Waystar away from his three younger children
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+and has set his sights on acquiring Pierce Global Media (PGM), the
 
-2
+left-leaning media conglomerate he’s been eyeing since season two.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The company’s valuation has signiﬁcantly decreased, yet matriarch Nan
+
+Pierce is eager to sell. Logan’s biggest obstacle in the negotiation isn’t
+
+the price tag, it’s his own family. Kendall, Roman, and Shiv team up to
+
+bid against their dad for PGM by liquidating their stakes in Waystar after
+
+the company is sold to GoJo. Their decision sets the stage for a ﬁerce

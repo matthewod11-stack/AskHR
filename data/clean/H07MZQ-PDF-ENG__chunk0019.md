@@ -1,19 +1,29 @@
-# periods.
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce7bc117e9cac5d0634349e39f9443c468d7bdab
+title: H07MZQ-PDF-ENG
+---
+# sometimes productivity at work.
 
-This all means that sick days for parents like us may be to preserve our
+Initially, I would push through to the point of complete exhaustion,
 
-mental health and well-being. We often have to stand in to be the only
+which would compound through the sleep regression period. To better
 
-and biggest advocate for our children. We have to have the energy to
+cope and minimize this impact on my performance, I learned to do
 
-pour into them and ﬁght systematic obstructions that refuse to give
+three things at work: 1) I immediately rearrange meetings when I can,
 
-them a chance to exist. It means intentional self-care and pouring
+- 2) I take breaks between meetings and while doing work that requires
 
-into ourselves to ensure there are no chinks in our battle armor. And on a very practical note, ﬁnancial support that allows us to aﬀord
+intense focus like writing or data analysis, and 3) I am open about my
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+experience. I realized that while people may not be able to completely
 
-5
+understand my son’s situation, they can relate to sleep issues — an
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+entry-point for discussion. I know the sleep regression periods are not
+
+everyday occurrences and are ﬁnite. And I knew I could create balance between my personal and work commitments by changing how I work,
+
+which has allowed me to better monitor my son’s needs during those

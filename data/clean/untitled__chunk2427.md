@@ -1,3 +1,15 @@
-# Increasing Malaise and Discontent
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d0d9da1e08fde922706461cf1109ce290ae7c308
+title: untitled
+---
+# Race Relations
 
-During this decade, more and more Americans felt incom- plete, puzzled, or unhappy, if not depressed (Halberstam, 1993). Information was becoming easily available that doc- umented the limitations of the post–World War II dream of
+The educational opportunities and supportive atmosphere that resulted from the economic boon and the GI bill were mostly available for white males. As Ellison (1947) revealed, racial minorities were “invisible” in spite of the break- throughs that included the heroics of Jackie Robinson and Willie Mays in baseball, Althea Gibson in tennis, and the presence of Ralph Bunche at the United Nations. Based on a history of prejudice and discrimination, the dominant social
+
+norms of the United States marginalized the achievements of African Americans.
+
+For many white Americans, the mid-1950s was a time in which the nation’s history of discrimination against African Americans and other socially oppressed groups could no longer be ignored. The U.S. Supreme Court decision in Brown vs. Board of Education in 1954 declared that separate schools for white and black children were unconstitutional and marked the beginning of the end of the Jim Crow laws, originally enacted to force separation between the black and white races. This bold and monumental judgment set into motion a civil-rights movement that was more visible to white Americans, with the aid of the media in its role as a wide disseminator of information (Payne, 1995, 1997). “Those two forces—a powerful surge among American Blacks toward greater freedom, mostly inspired by the Brown decision, and a quantum leap in the power of the media—fed each other; each made the other more vital, and the combination created what became known as ‘The Move- ment’” (Halberstam, 1993, p. 429). Contrasting the simmer- ings of the civil-rights movement, and in particular the greater visibility of the social injustices faced by black Americans, prime-time television programming “reﬂected a world of warm-hearted, sensitive, tolerant Americans, a world devoid of anger and meanness of spirit, and of course, failure” (Halberstam, 1993, p. 514). Watching televised news and entertainment was no doubt a disorienting experi- ence for viewers trying to juxtapose these different and con- ﬂicting images of the nation. Moreover, television news coverage of racist events made the country’s unsolved prob- lems of racism more visible and threatening to the postwar happiness.
+
+One powerful example of the conﬂuence of the power of media and the growing civil-rights movement was the televi- sion coverage of the Montgomery bus boycott after Rosa Parks refused to sit in the back of a racially segregated bus in Montgomery, Alabama, in 1955. The nationally televised coverage documented both the success of the planned boycott and recognition of the leadership Martin Luther King Jr. and the women’s leadership group of Montgomery (Robinson, 1987). The triumph of this nationally visible event was a cat- alyst for more public awareness, particularly in the North, of the civil-rights movement, which had been active in the South for several decades (Payne, 1995).

@@ -1,15 +1,21 @@
-# Safety and Health Achievement Recognition Program (SHARP): This program recognizes small employers
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: cf36063173430fa4aea1e93944c0d7f30a50bf1d
+title: Employment Law Guide - Occupational Safety and Health
+---
+# than coercion.
 
-who operate an exemplary safety and health management system. Employers who are accepted into SHARP
+An employer may apply for VPP at the nearest OSHA regional oﬃce. OSHA reviews an employer's VPP
 
-are recognized as models for worksite safety and health. Upon receiving SHARP recognition, the worksite will
+application and visits the worksite to verify that the safety and health program described is in eﬀect at the site.
 
-be exempt from programmed inspections during the period that the SHARP certiﬁcation is valid. To participate
+All participants must send their injury information annually to their OSHA regional oﬃces. Sites participating in the VPP are not scheduled for programmed inspections. However, OSHA handles any employee complaints,
 
-in SHARP, an employer must contact its state's Consultation Program and request a free consultation visit that involves a complete hazard identiﬁcation survey.
+serious accidents/catastrophes, or fatalities according to routine procedures.
 
-OSHA Challenge: This program provides opportunities for employers to work with OSHA and qualiﬁed
+The VPP is available in states under federal jurisdiction. Additionally, all OSHA-approved state plans that cover
 
-volunteers (Challenge Administrators) to develop safety and health management systems (SHMS) on par with
+private-sector employees in the state operate similar programs. Interested companies in these states should
 
-VPP and SHARP. OSHA Challenge breaks down SHMS implementation in three stages. For each stage, the
+contact the appropriate state agency for more information.

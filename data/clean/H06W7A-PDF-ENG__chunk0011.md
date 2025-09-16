@@ -1,5 +1,7 @@
-## Unfortunately, research shows that consensus-based problem-solving
-
-groups are often where innovative ideas go to die. These groups are
-
-highly prone to groupthink – quick agreement around status quo
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef6de2dce8267e1ed006fdc58b196db94edc59d2
+title: H06W7A-PDF-ENG
+---
+## procedures, policies, products, or services.

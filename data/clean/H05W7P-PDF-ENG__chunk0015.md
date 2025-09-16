@@ -1,13 +1,19 @@
-# for resolution.
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca08d425194b22393ddc25233d89bc33feece3a0
+title: H05W7P-PDF-ENG
+---
+# courts.
 
-The lack of anonymity oﬀered by most reporting processes is also an
+Another is the inﬂexibility of options available to victims. When MIT
 
-issue. Research has consistently demonstrated that oﬀering anonymous
+made an informal, conﬁdential process available to employees in the
 
-reporting channels increases reporting rates by making it easier for
+1980s, they found that 90% of those ﬁling sexual harassment complaints
 
-people to report and protecting victims against retaliation. While
+preferred that route to the more formal one. Even 40 years later, many
 
-many companies have some form of anonymous reporting channel,
+employers still lack these types of processes, discount informal reports
 
-resolution typically requires that employees come forward and expose
+of harassment or discrimination, or oﬀer few choices for victims looking

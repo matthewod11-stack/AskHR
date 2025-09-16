@@ -1,11 +1,11 @@
-# facilitate communication.
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bb24c98312d8917685615988258041900196076
+title: R2403D-PDF-ENG
+---
+## commit to one another and to their deliverables as a team. Freelancers
 
-At the M&C Saatchi Group, where one business has been experimenting with staﬃng all nonmanagement positions with freelancers, the
+receive in-depth training on company values and work processes,
 
-introduction to company culture starts even earlier—at the interview stage. Mark Dickinson-Keen, the company’s chief people oﬃcer, told us,
-
-“The majority of the interview time is spent sharing how our freelance
-
-model works, helping them understand what they can expect from the
-
-business, and checking that they are truly ready to work in this way. It is
+including the disciplined use of project tools to manage workﬂows and

@@ -1,13 +1,7 @@
-# Don’t:
-
-- Neglect to consider your role in the situation. Ask yourself, is my
-
-behavior having an impact? How might this colleague perceive me?
-
-- Complain to your boss about this colleague. Rather, be thoughtful and
-
-judicious about how you approach your manager.
-
-- Constantly covering for an underperformer is toxic for your career. If
-
-the situation doesn’t improve after you’ve tried numerous strategies,
+---
+source_path: H06D14-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b045b56e96f185d36f74446b974b9d882f58201
+title: H06D14-PDF-ENG
+---
+# reputation.

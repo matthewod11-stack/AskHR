@@ -1,3 +1,17 @@
-## Giluk, T., Stewart, G. L., & Shaﬀ er, J. (2008, April). Interviewer
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 399df97129c37ba3ebf6dd73be5a6ca1453f22ea
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Gilliland, S. W., & Steiner, D. D. (1997). Challenge #6:
 
-decision making: Th e role of judgments during rapport building. In M. R. Barrick (Chair), Th e role of unstructured information in the employment interview. Symposium presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
+Interactional and procedural justice. Paper presented at the 12th annual meeting of the Society for Industrial and Organizational Psychology, St. Louis, MO.
+
+Gilmore, D. C. (1989). Applicant perceptions of simulated
+
+behavior description interviews. Journal of Business and Psychology, 3, 279–288.
+
+Gilmore, T. N., Shea, G. P., & Useem, M. (1997). Side eﬀ ects
+
+of corporate cultural transformations. Journal of Applied Behavioral Science, 33(2), 174–189.

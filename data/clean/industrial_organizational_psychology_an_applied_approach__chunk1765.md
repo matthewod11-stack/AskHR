@@ -1,13 +1,15 @@
-## mance appraisal interview more effective: time, scheduling, and preparation.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b781116a771508b814f2482b0f3b8f4256e4a4e8
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Step : Communicate Appraisal Results to Employees
 
-270
+As was stated in the beginning of this chapter, perhaps the most important use of performance-evaluation data is to provide feedback to the employee and assess her strengths and weaknesses so that further training can be implemented. Although this feedback and training should be an ongoing pro- cess, the semiannual evaluation might be the best time to formally discuss employee performance. Furthermore, holding a formal review interview places the organization on better legal ground in the event of a lawsuit (Foster et al., ; Malos, ).
 
-chapter 
+Normally, in most organizations a supervisor spends a few minutes with employees every  months to tell them about the scores they received during the most recent evaluation period. This process is probably the norm because most managers do not like to judge others; because of this dislike, they try to complete the evaluation process as quickly as possible (Grensing-Pophal, b).
 
-Prior to the Interview Allocating Time Both the supervisor and the employee must have time to prepare for the review interview. Both should be allowed at least an hour to prepare before an interview and at least an hour for the interview itself.
+Furthermore, seldom does evaluating employees benefit the supervisor. The best scenario is to hear no complaints, and the worst scenario is a lawsuit. In fact, one study demonstrated that dissatisfaction and a decrease in organiza- tional commitment occurs even when an employee receives an evaluation that is “satisfactory” but not “outstanding” (Pearce & Porter, ). Finally, in the “tell and sell” approach to performance appraisal interviews, a supervisor “tells” an employee everything she has done poorly and then “sells” her on ways she can improve. This method, however, accomplishes little.
 
-Scheduling the Interview The interview location should be in a neutral place that ensures privacy and allows the supervisor and the employee to face one another without a desk between them as a communication barrier. Performance appraisal review interviews should be scheduled at least once every  months for most employees and more often for new employees. Review interviews are commonly scheduled  months after an employee begins working for the organization. If this date comes at a bad time (such as during the Christmas season, a busy time for retail stores), the interview should be scheduled for a more convenient time. It is important to note that although the formal performance appraisal review occurs only once or twice a year, informal “progress checks” should be held throughout the year to provide feedback.
-
-Preparing for the Interview While preparing for the interview, the supervisor should review the ratings she has assigned to the employee and the reasons for those ratings. This step is important because the quality of feedback given to employees will affect their satisfaction with the entire performance appraisal process (Mount, ). Furthermore, employees perceive and react to the amount of time that a supervisor uses to prepare for the interview.
-
-Meanwhile, the employee should rate her own performance using the same format as the supervisor (Roberts, ). The employee also should write down specific reasons and examples that support the ratings she gives herself, as well as ideas for personal development.
+Research suggests that certain techniques can be used to make the perfor-

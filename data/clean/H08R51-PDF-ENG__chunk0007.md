@@ -1,7 +1,13 @@
-# employee’s annual salary.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15ecaa45e5f15b52c7ea08d3415e9884dcb86646
+title: H08R51-PDF-ENG
+---
+## Chronic presenteeism also intensiﬁes work-related stress and burnout.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Nearly 60% of U.S. workers in 2024 experienced burnout, ranging from
 
-2
+moderate to very high. Burnt-out employees are also far more likely
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to quit, with each departure costing between 40% and 200% of that

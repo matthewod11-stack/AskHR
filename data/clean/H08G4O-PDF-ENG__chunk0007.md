@@ -1,5 +1,11 @@
-## more than 1,400 data points from deep assessments of 50 successful
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aabafc93a8d1595196db6c3e3ad609e60d7b5653
+title: H08G4O-PDF-ENG
+---
+## and over from investors and board members in recent years.
 
-founder CEOs and 58 non-founder CEOs in private equity–backed
+To deepen our own insights and advise clients, we embarked on a
 
-companies. We also conducted qualitative interviews with dozens of
+comprehensive study of what we call the “founder DNA.” We analyzed

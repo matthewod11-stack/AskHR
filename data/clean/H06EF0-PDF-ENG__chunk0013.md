@@ -1,11 +1,29 @@
-# Align your senior team.
+---
+source_path: H06EF0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c9cf69ed002a811bc1773a246f909ba1a253d3d
+title: H06EF0-PDF-ENG
+---
+# Start within.
 
-Start a conversation with your senior team members. What are their
+The road to your higher ethical ambition starts with personal reﬂection
 
-aspirations for the kind of company they want to create? This type of
+about your values and purpose in life. Take the time to have an honest
 
-Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
+conversation with yourself to help ﬁgure out what matters to you, and
 
-2
+where your ethics lie.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+To start, write down key decisions you made in your life (for example,
+
+choice of job, spouse, and friends) and then ask yourself what motivated
+
+these decisions and what they say about you. For example, a newly
+
+appointed division manager, trained in accounting, reﬂected on why he
+
+chose to work for his company despite better offers and realized that it was
+
+the friendly, collaborative, and ethical culture. He then used this
+
+information to help deﬁne who he wanted to be as a leader.

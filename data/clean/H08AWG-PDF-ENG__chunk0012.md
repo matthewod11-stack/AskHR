@@ -1,11 +1,21 @@
-# equitable.
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11e88a599c1d99c3884d2b6229a714b3cc1bb8b3
+title: H08AWG-PDF-ENG
+---
+# life) commuting.
 
-There are, of course, some limitations to our ﬁndings. Our analyses
+To meet employees’ diverse needs, employers should engage in
 
-are correlational by nature — we did not randomly assign workers to
+continuous dialogue with workers to understand their desired degrees
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+of structure and autonomy. Employers can institute workplace policies
 
-4
+that create ﬂexibility and control for workers, including remote, hybrid, or asynchronous work options and leave policies that aﬀord employees
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+more time with their loved ones. In addition to helping employees be
+
+more satisﬁed at work and potentially increasing retention, these types
+
+of policies can also help organizations become more accessible and

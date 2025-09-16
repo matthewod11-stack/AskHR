@@ -1,11 +1,25 @@
-# consumers.
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b774f3f62b6054592217cf56734392446e2da7a
+title: H089ZD-PDF-ENG
+---
+# global comic industry.
 
-- 3. They experiment throughout the product life cycle.
+Another striking example of blurring sensory lines comes from K-pop.
 
-K-brands have distinctly embedded a culture of experimentation
+The genre is known for its choreography and visual performances that
 
-across the product life cycle. At the product inception stage, this
+appeal to touch and sight respectively, and boost fans’ experiences
 
-typically involves co-creation or collaborations that utilize academic
+and brand appeal. Online, K-pop stands out with respects to its high
 
-and industry research. For example, Ader Error heavily relied on
+visual value compared to other musical styles. For instance in 2023,
+
+K-pop triggered more than twice image searches than Web searches
+
+globally, compared to a 1 to 1 image to web search ratio for hip hop.
+
+This explains why luxury and fashion brands have aggressively sought
+
+out sponsorship deals with K-idols to gain traction among younger

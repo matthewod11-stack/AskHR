@@ -1,7 +1,15 @@
-# Pete Longhurst
+---
+source_path: microsoft_word_longhurst_dissertation_final_28_jun_2019_docx.md
+pages: n/a-n/a
+chunk_id: b064eaf3d4963b07c6bc2080a9083d76631389f8
+title: microsoft_word_longhurst_dissertation_final_28_jun_2019_docx
+---
+# (cid:80)(cid:76)(cid:111)(cid:110)(cid:103)(cid:104)(cid:117)(cid:114)(cid:115)(cid:116)(cid:32)(cid:68)(cid:105)(cid:115)(cid:115)(cid:101)(cid:114)(cid:116)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:32)
 
-(cid:32)
+(cid:65)(cid:112)(cid:112)(cid:101)(cid:110)(cid:100)(cid:105)(cid:120)(cid:32)(cid:49)(cid:58)(cid:32)(cid:76)(cid:105)(cid:110)(cid:107)(cid:101)(cid:100)(cid:73)(cid:110)(cid:32)(cid:83)(cid:97)(cid:109)(cid:112)(cid:108)(cid:105)(cid:110)(cid:103)(cid:32)(cid:77)(cid:101)(cid:115)(cid:115)(cid:97)(cid:103)(cid:101)(cid:32)
 
-(cid:32)
+Call for Research Participants--Please share this post! Have you ever had to performance manage an employee who was not meeting expectations? If so, you probably worried about balancing the needs of the company and team (everyone needs to carry their own weight) with the needs of the employee (will I be able to look myself in the mirror when this is all done?) What's more, you probably worried about saying the wrong thing and getting in legal trouble (what was it HR told me not to say?!) This is not a task for the faint of heart.
 
-(cid:32)
+For my dissertation I am conducting a study to learn more about cases of positive deviance in this area. I am looking for managers who, in spite of the inherent difficulty of the task, have had a surprisingly positive (though not necessarily pleasant) experience managing an employee who was under-performing. This can include situations in which the employee ended up leaving the company.
+
+Have you had an extraordinary experience like this, or do you know someone who has? If yes, I would love to hear about it. To participate in the study, please take this 5 – 7 minute survey (https://lnkd.in/gBa2PWD). I will then ask select respondents for a 45 min video conference to learn more. Please contact me with questions, and please share the link!

@@ -1,25 +1,15 @@
-## comparative information. This lack of standard reporting prevents
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2e710252cc8da8a3e11762cf3495be1c4c6a444
+title: H08C0J-PDF-ENG
+---
+## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
 
-the investors and the broader public from evaluating individual
+reports from the top 100 U.S. companies, we found vast inconsistencies
 
-companies and comparing them apples to apples as much as possible
+in how health and safety is reported — especially when it comes
 
-— and it prevents the businesses themselves from seeing what other
+to mitigating the health risks of climate change. For example, few
 
-organizations are doing to develop and spread best practices.
-
-However, one company, global manufacturer Magna, exempliﬁes how
-
-to comprehensively report on climate and workforce health risks in
-
-a digestible manner. Their sustainability report dedicates a section
-
-to climate change, health, and operational considerations, assessing
-
-a wide range of climate-related exposures and mapping their global
-
-footprint against identiﬁed risk zones. The report also outlines their
-
-proactive approach to prioritizing employee safety and well-being
-
-during climate events, including health audits and a global risk-
+companies report quantitative data and many lack year-over-year

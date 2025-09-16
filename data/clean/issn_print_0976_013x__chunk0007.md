@@ -1,9 +1,9 @@
-## in June and December every year by Liberal Press.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 45f63b07edcfc88b00dd55b36aee81e6ffb6b0ca
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-JMPP seeks to create a body of knowledge around the interface of various functional areas of
-
-Management and Public Policy. It is likely to serve as an independent forum for the academia,
-
-industry, civil society and the State to carry forward a candid and objective discussion on
-
-common issues having a bearing on economy, business, community, environment and the
+Journal of Management & Public Policy (JMPP) is a biannual peer-reviewed journal published

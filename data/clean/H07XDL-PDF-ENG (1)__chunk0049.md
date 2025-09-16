@@ -1,17 +1,21 @@
-# ﬁnd out.
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 06ca254268e89872bbc801b43c80d9f1088c6fef
+title: H07XDL-PDF-ENG (1)
+---
+# to you.
 
-Go back to the great-life exercise in step 1 and think about what you
+- 6. What portfolio choices can I make?
 
-can do for your areas of dissatisfaction. Review your purpose and vision
+Corporate strategy is about making choices between options: Should
 
-from steps 2 and 3 and brainstorm how you might realize them. Think
+we keep our current portfolio, diversify, focus, acquire a company, or
 
-about the SLUs that step 4’s portfolio exercise identiﬁed as needing
+enter a new market? In life, the equivalent questions are: What happens
 
-more attention, and how you can improve satisfaction or reallocate time
+if I continue to live my life the way I am now? What if I change my
 
-there. Then consider how the insights gleaned from step 5’s benchmarks
+priorities? Equipped with your deﬁnition of a great life, your purpose,
 
-can help you with all of the above. From this long list of potential
-
-changes and actions — small and large — select several that will best
+your vision, your SLU ratings, and your benchmarks, you are ready to

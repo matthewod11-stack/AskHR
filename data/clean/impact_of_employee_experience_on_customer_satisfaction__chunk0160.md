@@ -1,9 +1,11 @@
-# Goal for surveys
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 283b0be30ede0f63d50de3c94f54dd40fc056247
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 30 | P a g e
 
-Every company would like to become a strong partner for their customers and deliver
+- 3. EMPIRICAL RESEARCH
 
-excellent customer experience, great products and service. It is essential that all
-
-discussions begin from a customer’s point of view but also consider aspects of
-
-employees and their impact on customer experience. It demands major change in
+3.1.

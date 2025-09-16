@@ -1,15 +1,13 @@
-# HBR / Digital Article / 6 Key Levers of a Successful Organizational Transformation
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bba2a28041615576e314f029b0e9fb1fe3571ca
+title: H07MI6-PDF-ENG
+---
+# one-oﬀ event.
 
-At the same time, leaders must recognize that transformation is fraught
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-with risk. In 1995, John Kotter found that 70% of organizational
+1
 
-transformations fail, and nearly three decades later, not much has
-
-changed. Our own research, in which we spoke to more than 900 C-suite
-
-managers and more than 1,100 employees who had gone through a
-
-corporate transformation, showed similar results: 67% of leaders told us
-
-they had experienced at least one underperforming transformation in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

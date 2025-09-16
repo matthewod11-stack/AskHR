@@ -1,11 +1,9 @@
-# 6 June 2023. h(cid:425)ps://www.livemint.com/companies/news/cos-must-act-to-check-toxic-oﬃce-
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 22c5369de403628022283b849a2bf49231f5b9ff
+title: issn_print_0976_013x
+---
+## failure-in-corporate-india-that-needs-overhauling-11686247933204.html
 
-behaviour-11686072774500.html
-
-Tiwari, M., & Jha, R. (2022). Narcissism, toxic work culture and abusive supervision: a double-
-
-edged sword escala(cid:415)ng organiza(cid:415)onal deviance. Interna(cid:415)onal Journal of Organiza(cid:415)onal
-
-Analysis, 30(1), 99-114. h(cid:425)ps://doi.org/10.1108/IJOA-05-2020-2187
-
-48
+Sengupta, D. & Ghosh, S. (2023). Companies must act to check toxic behaviour in office. Mint,

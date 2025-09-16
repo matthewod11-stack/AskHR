@@ -1,33 +1,23 @@
-# purpose.
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc277dcf3b287fe8d5609cef9cec3b9248410395
+title: S24042-PDF-ENG
+---
+## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
 
-. . .
+grow, provide new perspectives, and push their thinking. With one new
 
-As a new CEO, you’ll ﬁnd it tempting to seek out quick wins and
+CEO we did that by focusing intently on strategic goal setting. The
 
-take bold actions that reveal a decisive attitude. When you start
+process began with her personal purpose and then expanded to her
 
-your job, the excitement is high—and so is the pressure. But the
+organizational purpose—with an emphasis on determining where they
 
-journey to earning your stakeholders’ trust and support is neither short
+overlapped. With our help and the engagement of an inner circle of
 
-nor easy. By following the steps we’ve recommended in this article—
+conﬁdants, which included her heads of strategy and communications,
 
-pacing yourself, strategically picking your battles, mobilizing your team,
+she got the constructive feedback and encouragement she needed to
 
-engaging stakeholders at the right time, communicating clearly and
-
-relentlessly, and investing in self-betterment—you’ll build conﬁdence
-
-in your leadership over time and speed your transition from being the
-
-new CEO to simply being the CEO. Patience, persistence, and consistent
-
-communication during your early years will be key to navigating the
-
-complexities of leadership and maximizing the value you create in the
-
-long term. As Bill Gates said many years ago, “We always overestimate
-
-the change that will occur in the next two years and underestimate the
-
-change that will occur in the next 10. Don’t let yourself be lulled into
+ensure that she could do her job conﬁdently and with a strong sense of

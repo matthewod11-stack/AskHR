@@ -1,3 +1,13 @@
-# 296 Assessment Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9e300804dbd4f5f30ffdf580c49ce7903c0b9177
+title: untitled
+---
+# Holland Self-Directed Search
 
-SDS is a manual that instructs respondents not only in how to self-administer the test but also in how to interpret the results for themselves. Although in actual practice SDS results are typically reviewed with an assessment professional, the self- interpretation guidelines have the advantage of enriching a respondent’s engagement in and understanding of a voca- tional counseling process.
+Like Strong and Kuder before him, John Holland began his work on measuring vocational interests as an empiricist, con- cerned with collecting data on likes, dislikes, and preferences that would have predictive value for successful occupational choice. Early on, however, he opted for a rational-empirical approach to scale construction in which variables are selected on the basis of some guiding concepts and empirical testing with criterion groups is employed only secondarily to reﬁne and revise item content. Holland’s guiding concepts were rooted in his belief that occupational preferences derive from a person’s self-concept and personality style, and the ﬁrst product of his approach was the Vocational Preference Inven- tory (VPI; Holland, 1953). The VPI yielded scale scores re- lated to broad aspects of personality styles or attitudes, and in subsequent revisions the core VPI scales evolved into the following six: Realistic (R), Investigative (I), Artistic (A), Social (S), Enterprising (E), and Conventional (C) (Holland, 1985). Some additional empirically derived scales were added to the instrument, but the RIASEC group became the model on which Holland elaborated an inﬂuential personality-based theory of career choice and satisfaction (Holland, 1966). Holland postulated that every individual’s personality comprises some combination of these six styles, and he maintained that the extent to which each style is pre- sent provides a personality description that has direct impli- cations for career planning.
+
+Holland later used this model to design the Self-Directed Search (SDS), which generates scale scores for the RIASEC components and offers suggestions concerning the kinds of occupations for which persons with various scale combi- nations might ﬁnd themselves suitable (Holland, 1979; Holland, Fritzsche, & Powell, 1994). A unique feature of the
+
+295

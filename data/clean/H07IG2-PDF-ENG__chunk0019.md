@@ -1,27 +1,21 @@
-# digital tasks.
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 379c3842fe67d188db9e87cdfc42567e965af5dc
+title: H07IG2-PDF-ENG
+---
+## As a result of these changes, inspectors and maintenance technicians
 
-This shift involved some resistance. At ﬁrst, it was hard to convince
+can now rethink their day-to-day work. They can focus on higher-value
 
-the inspectors, but gradually they are being persuaded as they’re shown
+activities such as prioritizing projects or, if they’re on site, performing
 
-that the processing of the images provides similar accuracy in much less
+more advanced veriﬁcation. At the same time, new tasks are emerging,
 
-time. Furthermore, Shell is engaging these engineers in rethinking their
+such as annotation for images to improve inspection algorithms or
 
-work processes with the remote surveillance centers, empowering them
+managing the training processes for the thousands of machine learning
 
-to drive the change.
+models now working in production. What were previously physical work
 
-Shell is ﬁnding that this process of AI-enabled reengineering is
-
-becoming a permanent way of operating. Each individual project may
-
-take only a year or two, but the more they use digital, data, and
-
-AI to redesign processes, the more they see opportunities for going
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+processes are now managed by multidisciplinary teams doing largely

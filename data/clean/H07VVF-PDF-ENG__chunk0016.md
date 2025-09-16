@@ -1,17 +1,9 @@
-## from the impacts of severe natural disasters.
+---
+source_path: H07VVF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d46b2715c7822d368bf4aad08cee62b8f17d9524
+title: H07VVF-PDF-ENG
+---
+# HBR / Digital Article / Your Company Will Need Remote Work as Extreme Weather Ge…
 
-We reached this conclusion by compiling information on workforce and
-
-hiring intent from a vast pool of over 300 million online job postings
-
-and then integrating this data with occupation-level remote-work
-
-readiness scores. This index served as a quantiﬁable metric, assessing
-
-the ability of ﬁrms to smoothly transition to remote work when faced
-
-with unexpected events. The study then incorporated Compustat data,
-
-including company performance data, headquarters locations, and
-
-information on software investments, to provide additional depth to the
+demonstrates the substantial economic beneﬁts reaped by ﬁrms with robust remote-work readiness in eﬀectively navigating and recovering

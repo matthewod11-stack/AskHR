@@ -1,17 +1,9 @@
-# the content.
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3effcce9f03ddf9b75849e5aa988a247ee22ac5
+title: H08UTW-PDF-ENG
+---
+## HBR / Digital Article / When “Yes, and…” Backfires
 
-Imagine you’re in a brainstorming meeting on how to improve customer
-
-experience at your company. “Yes, and….” might look like this:
-
-- Person 1: “Let’s extend our customer support hours.”
-
-- Person 2: “Yes, and we could add a live chat so that people don’t have
-
-to call in.”
-
-I’ve been teaching “yes, and…” to leaders at companies across industries
-
-—including tech, AI, ﬁnance, healthcare, education, and the nonproﬁt
-
-sector—since 1997. I’ve also introduced it to my MBA students at
+response shows respect for the speaker and keeps the momentum on

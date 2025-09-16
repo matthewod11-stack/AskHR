@@ -1,9 +1,9 @@
-# motivation in the workplace.
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 578a314f09fefd543702c151bca32bc765fe6b9e
+title: H08AI6-PDF-ENG
+---
+## Avoiding the Dark Side of Family Motivation
 
-If family motivates people to do their best at work, there is a risk that
-
-people will do too much for the sake of their families. For example, one
-
-way that family motivation can aﬀect work is by reducing turnover.
-
-What may sound good for the employer at ﬁrst glance may have
+Of course, there are risks and challenges associated with family

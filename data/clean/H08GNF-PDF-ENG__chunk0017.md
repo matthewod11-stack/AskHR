@@ -1,7 +1,39 @@
-# a team win.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff8360ed02c0f8a8cf728485494e4529bec80606
+title: H08GNF-PDF-ENG
+---
+# with the client.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Task: My goal was to secure the deal, which would ensure that I met
 
-3
+and exceeded my quarterly sales quota.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Action: I prepared a detailed proposal outlining the beneﬁts of our
+
+product and tailored it to the client’s speciﬁc needs. Then, I met with
+
+the client’s decision-makers. During the meeting and presentation,
+
+the client raised several challenges that I didn’t anticipate and was
+
+unable to overcome.
+
+Result: Despite my best efforts to follow up with the client after the
+
+meeting and provide answers to their challenges, I was unable to
+
+close the deal. It was a major setback, but I learned valuable lessons
+
+about negotiation and overcoming objections.
+
+(Takeaways): I also learned that sales is a team effort. Since then,
+
+I have always presented my pitch to my colleagues and manager
+
+ﬁrst and asked them to poke holes in it to help me anticipate
+
+and overcome any challenges. I hope to ﬁnd the same level of
+
+collaboration on your team because I truly believe one person’s win is

@@ -1,9 +1,9 @@
-# development of your app.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de6d2078924eeb5b2486797a12b45b5777854d8e
+title: H08GNF-PDF-ENG
+---
+## —deep analytical thinking, technical expertise, and an ability
 
-By telling a story about a challenge with an app and connecting the
-
-dots at the end to the company’s business needs as listed in the
-
-job description, you would demonstrate the technical, analytical, and
-
-collaboration capabilities that would make you stand out as a strong
+to collaborate well with a team to resolve any challenges in the

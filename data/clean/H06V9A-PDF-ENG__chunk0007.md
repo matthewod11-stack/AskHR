@@ -1,23 +1,25 @@
-# valuable input in both cases.
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62374c044842fc5460aa2c0bf0125e8747ff9cec
+title: H06V9A-PDF-ENG
+---
+# teams.
 
-This is an easy trap for managers to fall into. It’s generally hard to
+Why does this happen? Let’s say you’re a manager on a software team,
 
-tell how valuable an idea will be upfront, and it’s often necessary to
+and your employee, Susan, just shared a potential solution to a known
 
-produce many “bad” ideas in order to uncover a few good ones. As such,
+product issue. If Susan spoke up unprompted, you would likely view
 
-managers don’t often reward employees solely based on the apparent
+her as a very proactive employee, and a strong candidate for a raise,
 
-value of the ideas they contribute, and instead focus on rewarding
+high-proﬁle project, or promotion. On the other hand, if Susan shared
 
-employees’ proactivity in coming up with and expressing ideas.
+the same idea, but only did so after you asked for her input during a
 
-The problem is, when managers actively solicit employee input, it can
+meeting, you might think that Susan only spoke up because you told
 
-lead them to discount the proactivity it still takes for employees to
+her to. In this situation, you might credit yourself for Susan’s actions,
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and thus not reward Susan as highly — even though she oﬀered equally

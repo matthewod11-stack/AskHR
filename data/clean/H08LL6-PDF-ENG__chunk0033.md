@@ -1,11 +1,7 @@
-## By contrast, a technology ﬁrm with an overly centralized structure
-
-that requires expatriates to seek headquarters approval for nearly
-
-every decision can stiﬂe local responsiveness, leading to missed
-
-opportunities and high turnover. The takeaway is clear: even the most
-
-capable expatriates cannot succeed in environments where structural
-
-misalignments create avoidable obstacles.
+---
+source_path: H08LL6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d1703bc6f9a91b9b469b6fb69c29a0f60265016
+title: H08LL6-PDF-ENG
+---
+# organizational objectives.

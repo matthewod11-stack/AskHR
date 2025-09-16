@@ -1,5 +1,29 @@
-## HBR / Digital Article / Why Employees Who Work Across Silos Get Burned Out
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 115b79da3aa000f0541fa99eff416e9132b2bbf2
+title: H087XL-PDF-ENG
+---
+# productive workplace environment.
 
-and support. First, managers can actively use their one-on-one check-
+Develop multifaceted check-in mechanisms and provide opportunities to disengage.
 
-ins to understand the challenges faced by boundary spanners. Second,
+Due to the inherently demanding nature of cross-silo collaborations
+
+— both informal and formalized — engaging in boundary-spanning
+
+activities can lead to burnout among employees. Therefore, it is crucial
+
+for organizations and managers to identify when their key boundary
+
+spanners are becoming overloaded and help them disengage regularly.
+
+Detecting burnout in employees requires a multifaceted approach that
+
+combines direct communication with observation to provide feedback
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

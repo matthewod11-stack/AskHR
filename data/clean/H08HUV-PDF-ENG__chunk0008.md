@@ -1,11 +1,23 @@
-# HBR / Digital Article / When You Have Two Bosses — and They Don’t Talk to Each Othe…
+---
+source_path: H08HUV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e34943bc3e91c7252fa2fde95b48a89163cee9bf
+title: H08HUV-PDF-ENG
+---
+## schedule you for two diﬀerent meetings at the same time. But there
 
-Look out for mixed messages around timelines and resources as well.
+are often subtler signs that go unnoticed until they create headaches.
 
-Maybe one boss casually mentions you’ll be working with Mariana from
+For instance, do you ﬁnd yourself explaining (and reexplaining) basic
 
-operations next quarter, while your other boss already knows Mariana
+context in every meeting? Do you notice your functional manager still
 
-is being transferred to a diﬀerent department. You may also notice that
+refers to an initiative as “Project X” while other collaborators started
 
-each leader has a distinctly diﬀerent view of what “high priority” means
+calling it something else weeks ago?
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,7 @@
-## However, our recent research uncovers less obvious, yet signiﬁcant
-
-risks associated with cross-silo coordination. Across ﬁeld data, surveys,
-
-and experiments involving more than 2,000 working adults across two
-
-countries, we found evidence that engaging in collaboration across
-
-silos, and particularly acting as an intermediary between disparate
-
-individuals in an organization, can lead to increased levels of burnout
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a97afe935a449dd49929dcaede9baec575ac654
+title: H087XL-PDF-ENG
+---
+## information and insights from diﬀerent parts of the organization.

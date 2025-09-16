@@ -1,11 +1,11 @@
-## sustainable sourcing, ecofriendly packaging, waste reduction, water
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36b94911d1ed1bb438941c834730ac18a74d2fe5
+title: R2504D-PDF-ENG
+---
+## into an opportunity for fundamental business model innovation:
 
-conservation, and other kinds of initiatives. By 2019 they were growing
+Unilever’s Sustainable Living Brands. These were products designed to
 
-69% faster than the rest of the business and responsible for 75% of
-
-its growth, demonstrating that understanding broader dynamics could
-
-resolve seemingly intractable conﬂicts.
-
-[ 6 ]
+reduce environmental impact and improve social conditions through

@@ -1,19 +1,13 @@
-## Differences between number of leaders (p) 0–2
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 7fcdfe0cc84dbce492c6f1bc1d6d4d4356ad02b4
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# F
 
-0–3
+2.24
 
-1–2
-
-1–3
+0–1
 
 1.00
-
-.08
-
-1.00
-
-.07
-
-2–3
-
-.09

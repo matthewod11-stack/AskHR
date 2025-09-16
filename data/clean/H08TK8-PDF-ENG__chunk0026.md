@@ -1,9 +1,31 @@
-# your role.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ac6a18e68883f90ea18b981734607cd6f3eeb3b
+title: H08TK8-PDF-ENG
+---
+## Without replenishment, the risk of burnout and long-term health issues
 
-- Control, or protecting pockets of time where you choose what to do,
+climbs. Ironically, the more depleted you become, the less likely you are
 
-even if it’s just saying no to one more commitment.
+to engage in the very behaviors that would help. This is known as the
 
-If you think you don’t have time to relax, or worry that it might seem
+recovery paradox: when you need a break the most, you’re least likely to
 
-selﬁsh, think again. Research shows that when leaders spend time on
+take one.
+
+Critically, recovering isn’t just about taking time oﬀ. It’s about engaging
+
+in the right kinds of experiences. Research highlights four that are particularly eﬀective:
+
+- Detachment, or giving your mind a true break. Resist checking email
+
+after hours and avoid replaying the workday in your head.
+
+- Relaxation, or building in moments like taking a walk without your
+
+phone, listening to a calming playlist, or spending quiet time outdoors.
+
+- Mastery, or doing something that challenges you in a positive way.
+
+Try a new recipe, pick up a hobby, or learn something unrelated to

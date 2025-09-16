@@ -1,21 +1,13 @@
-## Understanding the Roots of Toxic Productivity
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc5947a3521fec5049b23f5e03d20b45dfea4001
+title: H08GC0-PDF-ENG
+---
+## mental and physical well-being, relationships, and overall quality of
 
-Toxic productivity is multifaceted and stems from a complex mix
+life. It’s a common sentiment in today’s work culture, where the drive
 
-of psychological and societal factors. Productivity norms are deeply
+to be constantly productive is often celebrated, if not expected. But this
 
-embedded in our psyches from growing up in environments that
-
-equate arduous work with virtue, and rest with laziness. This belief is
-
-further reinforced by a culture that encourages perfectionism, where
-
-individuals feel that their self-worth is tied to their achievements.
-
-Social media ampliﬁes the pressure of toxic productivity by fostering
-
-a constant sense of competition. Research ﬁnds that upward social
-
-comparisons are linked to low self-esteem and depression, with women
-
-most negatively aﬀected. It contributes to workaholism, which emerges
+mindset isn’t just harmful; it’s dangerous.

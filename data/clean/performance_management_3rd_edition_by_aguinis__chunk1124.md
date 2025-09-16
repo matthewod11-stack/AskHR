@@ -1,3 +1,9 @@
-# Level 2 (I)
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 21702cc3bf5b570c33089e1fd67b5795b6bc3dd8
+title: performance_management_3rd_edition_by_aguinis
+---
+# Level 3 (ME)
 
-Improvement needed Performance did not consistentlymeet expectations—performance failed to meet expectations in one or more essentialareas of responsibility, and/or one or more of the most critical goals were not met. A professional development plan to improve performance must be outlined in Section 4, including timelines, and monitored to measure progress.
+Meets expectations Performance consistently met expectations in all essentialareas of responsibility, at times possibly exceeding expectations, and the quality of work overall was very good. The most critical annual goals were met.

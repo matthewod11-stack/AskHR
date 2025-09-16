@@ -1,7 +1,11 @@
-# Ricky Adam
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45370f4a3a9505bdaf30a3a4f887e032db34169a
+title: R2504L-PDF-ENG
+---
+## HBR / Magazine Article / Hybrid Still Isn’t Working
 
-Rules must also be put in place to prevent the focus on individual
+of their meeting practices and determine which are worth keeping and
 
-KPIs from crowding out cooperation and collaboration. For example,
-
-GitLab, a fully remote open-source software-development platform, has
+which should be changed or dropped.

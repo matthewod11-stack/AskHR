@@ -1,3 +1,11 @@
-## Figure 2 The unadjusted gender pay difference, whole economy, 2008 (%).
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: ab28a2af0ba089e85ec981880d629d3a02d6dce6
+title: file_1
+---
+# 9
 
-According to Statistics Finland, the average gender pay difference in Finland narrowed modestly in 2009 (See Figure 3; Blue colour: unstandardized, green colour: standardized). While in 2008, women's average monthly earnings were 80.8 % of men's earnings; in 2009 the respective proportion was 81.0 % (Structure of Earnings Statistics, 20092). It should be noted that when background variables of age, level of education, industry, location are standardized, or when comparing the pay of wage and salary earners with a corresponding level of education, working in the same occupations and in the same industries and areas, the ratio of earnings between the genders is 85.8 % (Structure of Earnings Statistics, 2009). In spite of the decentralization of wage formation since 2008, tripartite co-operation is
+(Corporate Gender Gap Report, 2010). In the majority of the Finnish business companies (54%), only 10% of senior management positions are held by female employees (Corporate Gender Gap Report, 2010). This leads to a conclusion that women continue to dominate numerically only on the lowest and middle levels of the organizational hierarchies in Finnish companies. The respondents of this survey consider masculine/patriarchal corporate culture, lack of role models, and lack of company leadership commitment to diversity as the main explanations for the women’s absence in the positions of senior leadership (Corporate Gender Gap Report, 2010: 47).
+
+Gender pay differences are another key issue in this thesis. According to Eurostat (2008), in 2008, women earned on average 18 % less gross and per hour than men in the EU. As shown in Figure 2, Estonia (30%) and the Czech Republic (26%) were the worst offenders, while Italy (5%) and Slovenia (9%) had the smallest differences. The unadjusted gender pay difference, which is defined as the difference between average gross hourly earnings of men paid employees and of women paid employees, was around 20 % in Finland (Eurostat, 2008).

@@ -1,19 +1,13 @@
-## talent management. Business Credit, 107, 20−27.
+---
+source_path: talent_management_a_critical_review.md
+pages: n/a-n/a
+chunk_id: dd73503b922eb414d64c153eac2b178622e5f432
+title: talent_management_a_critical_review
+---
+## com/Articles/default.asp?CID={B22548F2-AAD0-4551-83EC-561E0AE959EA}
 
-Turner, T. (2005, May 17). Limited Brands sees profits stripped down 76 percent. Knight Ridder Tribune Business, 1. Vicere, A. On leadership: Want leaders? Look for talent management. Retrieved September 23, 2005, from www.post-gazette.com/pg/04321/
+Terpstra, D. E., & Rozell, E. J. (1993). The relationship of staffing practices to organizational level measures of performance. Personnel Psychology,
 
-412405.stm
+46(1), 27−48.
 
-Vishwesveran, C., Ones, D. S., & Schmidt, F. L. (2005). Comparative analysis of the reliability of job performance ratings. Journal of Applied
-
-Psychology, 81(5), 557−574.
-
-Vishwesveran, C., Schmidt, F. L., & Ones, D. S. (2005). Is there a general factor in ratings of job performance? A meta-analytic framework for
-
-disentangling substantive and error differences. Journal of Applied Psychology, 90(1), 108−131.
-
-Walker, J. W. (1980). Human resource planning. New York: McGraw-Hill Book Company. Watson Wyatt Worldwide, Inc. (2001). Watson Wyatt's Human Capital Index. Arlington, VA: Watson Wyatt Worldwide. Walker, J. W., & Larocco, J. M. (2002). Talent pools: The best and the rest. Human Resource Planning, 25(3), 12−14. Welcome to topgrading.com. (2005). Retrieved November 3, 2005, from www.topgrading.com Wild, B., & Schneeweiss, C. (1993). Manpower capacity planning: A hierarchical approach. International Journal of Production Economics,
-
-30, 95−106.
-
-Wright, P. M., Gardner, P. M., & Moynihan, L. M. (2003). The impact of HR practices on the performance of business units. Human Resource
+The changing face of talent management. (2003). HR Focus 80, 1−4. Tichy, N. M., Fombrun, C. J., & Devanna, M. A. (1982). Strategic human resource management. Sloan Management Review, 23(2), 47−61. Tucker, E., Kao, T., & Verma, N. (2005, July/August). Next-generation talent management: Insights on how workforce trends are changing the face of

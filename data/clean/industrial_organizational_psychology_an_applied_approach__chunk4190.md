@@ -1,9 +1,9 @@
-## Ford, D., Truxillo, D. M., Wang, M., & Bauer, T. (2008, April).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bde1d7f2951708e9d1299929ed9112775cf84ee8
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Forbes, R. J., & Jackson, P. R. (1980). Non-verbal behaviour
 
-Individual diﬀ erences and the quality of job analysis ratings. Poster session presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
-
-Ford, J. K., Quińones, M. A., Sego, D. J., & Sorra, J. S. (1992).
-
-Factors aﬀ ecting the opportunity to perform trained tasks on the job. Personnel Psychology, 45, 511–527.
-
-Forsyth, D. R. (2006). Group dynamics (4th ed.). Belmont, CA:
+and the outcome of selection interviews. Journal of Occupational Psychology, 53, 65–72.

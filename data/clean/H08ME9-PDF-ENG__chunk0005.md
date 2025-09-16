@@ -1,21 +1,7 @@
-# above you.
-
-Getting these insights requires asking smarter questions — ones that
-
-help your boss open up about their challenges and deeper needs. Here
-
-are seven you can try:
-
-- 1. What goals do you discuss with your boss?
-
-This question reveals what impacts your manager’s performance
-
-reviews, bonuses, and career trajectory. Which metrics do they mention
-
-ﬁrst? Do any diﬀer from what you typically track? Notice if they dive
-
-into a speciﬁc calculation or become enthusiastic about certain ﬁgures.
-
-You can use this insight to present your work in ways that matter to
-
-senior leadership, making it easier to get resources and recognition for
+---
+source_path: H08ME9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52ce97a7ff1f545cf2acee60e2b24790b4eadec2
+title: H08ME9-PDF-ENG
+---
+## promotable work and position yourself as a strategic partner to those

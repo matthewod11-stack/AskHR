@@ -1,5 +1,7 @@
-# End points
-
-Planning horizon
-
-Short-term focused Aim for the best possible performance today with less concern for the future
+---
+source_path: people_strategy38.md
+pages: n/a-n/a
+chunk_id: e04bdf80e71715fa90d78dbc3164a18af667d2ec
+title: people_strategy38
+---
+# Elements

@@ -1,7 +1,15 @@
-## While there’s nothing inherently magical about these activities, in our
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 910ccdaaab52eb91cbecccc18f3a7129ddac5c52
+title: R2306H-PDF-ENG
+---
+## three particularly eﬀective practices: ﬁnding and mobilizing catalysts
 
-work with executives and companies we’ve observed that few leaders
+in external networks who help launch ideas, engaging with internal
 
-fully appreciate or habitually do them. But all leaders can master
+sparring partners to turn those ideas into viable business propositions,
 
-the three networking practices once they understand their underlying
+and selectively sequencing the introduction of ideas within your social
+
+circles in the company to stress-test them and gradually gain buy-in.

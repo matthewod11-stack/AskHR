@@ -1,29 +1,19 @@
-# questions.
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43573ef30745cc7a1d51139012f0c28421ba20c7
+title: H07T10-PDF-ENG
+---
+# conversations with recruits:
 
-Interviewer evaluation: In the framing step, you evaluate how they
+- 1. Framing
 
-frame the problem. Do they take the situation at face value or probe to
+Brieﬂy describe a scenario. State upfront you are the source of
 
-get at the essence of the situation? The quality of the questions they ask should lead to determining the information they need, the eﬀort
+information for the scenario and ask the interviewee to drive the
 
-required, and uncover the essential decision to be made. This ﬁrst step
+next 8-12 minutes with a straightforward “How would you start this
 
-is all about problem-ﬁnding more than problem-solving.
+discovery?” When they inevitably get stuck, prompt them with a branch
 
-- 2. Linking
-
-Once they deﬁne the problem, invite them to ask questions about
-
-context. “Given how they framed the scenario, what other information
-
-would they like to know to work towards a recommendation?”
-
-Interviewer evaluation: You are looking to see if their questions lead
-
-them to put the scenario in context. Context is king. To truly put a
-
-situation in context, their questions should enable them to triangulate
-
-it by looking at it in 1) absolute terms, 2) over time, and 3) relative
-
-to what’s going on across the market, with customers or actions from
+of the decision tree that opens the discovery further. Invite them to ask

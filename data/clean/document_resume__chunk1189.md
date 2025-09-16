@@ -1,5 +1,7 @@
-# 1 Unacceptable
-
-Presentations are less than adequate due to lack of preparation, confusion, poorly modulated voice, monotony, grammatical errors, distracting mannerisms, etc. Learning is an ordeal for students. Fails to monitor and adjust teaching style to encourage student attentiveness.
-
-- 4. Student Evaluation
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 258371da3a16c01209cfa60578143006778752eb
+title: document_resume
+---
+# fails

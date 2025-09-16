@@ -1,9 +1,13 @@
-# HBR / Artículo digital / Retener a los miembros de los equipos críticos durante los des…
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d31970e4319977a45c9a7947d90412143186dfcc
+title: H08U08-PDF-ENG
+---
+## que el impacto de la persona se extiende por toda la organización.
 
-Después, vaya un paso más allá. Piense en lo que más importa a los
+Copyright © 2025 Harvard Business School Publishing. Reservados todos los derechos.
 
-líderes de nivel C a los que intenta persuadir, ya sea el legado, la lealtad
+5
 
-o el riesgo. Dé forma a su mensaje para alinearlo con sus prioridades
-
-y perspectivas. Por ejemplo, si el CRO está centrado en la expansión
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,13 @@
-## prominent of these policies—the Paycheck Protection Program during
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cbd8fdf835e8ce6a5fda7c10ce6b56737d38aa68
+title: H08TPS-PDF-ENG
+---
+## downturns. While the expansion of job-saving employment subsidies
 
-the COVID-19 pandemic—has found that these subsidies helped to
+(such as short-time work) has been a historical staple of European
 
-prevent job loss for millions of workers. However, the lack of targeting
+labor market policy, the United States has only recently experimented
 
-and substantial cost leave scope for better policy design in preparing for
+with expanding familiar types of ﬁrm support. Research on the most

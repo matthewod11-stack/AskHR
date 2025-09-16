@@ -1,15 +1,9 @@
-# Behavioral Economics, Caltech.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: abc0badbc9df7a13c94a3a78135e2a27337fe102
+title: behavioral_economics_1
+---
+# Learning in Games, Caltech.
 
-Ho, T.-H. and J.-J. Zhang (2004). Does the Format of Pricing Contracts Matter?, UC- Berkeley.
-
-Hsu, M., M. Bhatt, R. Adolphs, D. Tranel and C. F. Camerer (2005). "Neural Systems Responding to Degrees
-
-of Uncertainty in Human Decision-Making." Science 310: 1680-1683.
-
-Jolls, C., C. R. Sunstein and R. Thaler (1998). "A behavioral approach to law and economics." Stanford Law
-
-Review 50(5): 1471-1550.
-
-Jolls, C. M. (in press). Behavioral Law and Economics. Yrjo Jahnsson Foundation 50th Anniversary
-
-Conference on Economics Institutions and Behavioral Economics. P. Diamond and H. Vartiainen.
+Ho, T. H., N. Lim and C. F. Camerer (2005). Modeling the Psychology of Consumer and Firm Behavior with

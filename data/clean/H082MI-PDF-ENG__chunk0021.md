@@ -1,13 +1,15 @@
-## quarterly town hall meetings, monthly virtual team meetings, or annual
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a3ff1d243335a5d4e7e6d62dcb90861f95ca266
+title: H082MI-PDF-ENG
+---
+# to job hunt.
 
-in-person company retreats are all potential opportunities to make
+- More than half (54%) of workers say recognition would reduce the
 
-recognition more public. But, the best way to build community with
+impact of having a salary below their expectations.
 
-recognition is to ask your employees how they would like to be
+Sometimes, remote teams don’t feel that recognition is as “public”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as it would be if they were in an in-person environment. Virtual

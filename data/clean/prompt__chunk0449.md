@@ -1,13 +1,9 @@
-# Prompt Engineering
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 16462bfa274fa54df9aa5aa38e31c6c9c6b7b1de
+title: prompt
+---
+# February 2025
 
-- Less chance for hallucinations
-
-- Make it relationship aware
-
-- You get data types
-
-- You can so(cid:457) it
-
-Table 4 in the few-shot prompting section shows an example on how to return
-
-structured output.
+60

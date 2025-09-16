@@ -1,29 +1,25 @@
-# hostage crisis.
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5ec2197112ece7a0d1cb53938a262759b194a52d
+title: S24012-PDF-ENG
+---
+## HBR / Spotlight Article / Leaders Must React
 
-Leadership, my interlocutor concluded, is deﬁned as much by how well
+After listening to that answer, a prominent leader challenged me:
 
-people respond to unfolding events as how good they are at driving an
+“That’s a useful theory you’re teaching, but you’re missing something
 
-agenda. “You’re teaching only half of what leaders need to learn,” he
+that makes or breaks leaders—something that’s much harder to teach.
 
-told me.
+It’s how they react in real time to events they can’t anticipate.” He was
 
-In 2018, my colleague Michael Porter and I published a study of how
+referring to leaders like Volodymyr Zelensky of Ukraine. No one would
 
-CEOs spend their time, which conﬁrmed the validity of that argument.
+have called him a visionary, and because of his inexperience, many were
 
-We tracked the activities of 27 large-company CEOs in 15-minute
+skeptical of his abilities. But how he responded to Russia’s invasion of
 
-increments, 24 hours a day, for 13 weeks and found that, on average,
+his country made him a hero. Jimmy Carter, on the other hand, may
 
-CEOs spend 36% of their time in reactive mode, responding to unfolding
-
-events. This is an enormous commitment—hours they would probably
-
-prefer to devote to advancing their plans, helping their companies hit
-
-their goals, and strategically shaping their ﬁrms’ future.
-
-The term “unfolding events” encompasses a broad range of issues that
-
-eat up a CEO’s time. They can be externally driven—like ﬂuctuations
+well have been a visionary president, but he was undone by the Iran

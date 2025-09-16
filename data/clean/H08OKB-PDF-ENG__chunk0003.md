@@ -1,7 +1,17 @@
-# in the hiring process.
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c952e40b2e1416b877c34dcee0849e43b97b8018
+title: H08OKB-PDF-ENG
+---
+# pigprox/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Prior research on poaching “star” employees has shown that
 
-1
+hiring stars is not only diﬃcult but often counter-productive. Newly
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hired stars often ﬁnd it challenging to reproduce their exceptional
+
+performance. They may also harm their new employer, for example,
+
+by hindering innovation or lowering incumbents’ performance. This is both surprising and troubling given the costs, time, and eﬀort involved

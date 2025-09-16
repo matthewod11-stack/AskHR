@@ -1,5 +1,9 @@
-# TX: Harcourt Brace.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 232112105e745420a867ca4131b56b3e8088eaab
+title: barrickryan_eds_personality_and_work
+---
+## sonality and Social Psychology, 73, 1246–1256.
 
-Eysenck, H. J. (1990). Biological dimensions of personality. In L. Pervin (Ed.), Handbook of personality: Theory and research (pp. 244–276). New York: Guilford Press.
-
-Eysenck, H. J. (1997). Personality and experimental psychology: The uni- ﬁcation of psychology and the possibility of a paradigm. Journal of Personality and Social Psychology, 73, 1224–1237.
+Eagly, A. H., & Chaiken, S. (1993). The psychology of attitudes. Fort Worth,

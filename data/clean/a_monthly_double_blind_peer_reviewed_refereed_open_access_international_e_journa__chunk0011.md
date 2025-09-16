@@ -1,23 +1,27 @@
-# agreement in the literature about these three components of “motivation” (eg: Korman
+---
+source_path: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa.md
+pages: n/a-n/a
+chunk_id: bdaad7164047f0728d64f4b64dd3398a4a95c68e
+title: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa
+---
+# II. CONCEPT OF MOTIVATION
 
-1974, Kanfer, 1990), the nature and place of motivation in a work-related context has
+The word motivate is frequently used in the context of management as a
 
-been the subject of a long and developing study. Theories have been propounded,
+transitive verb: motivation is by implication something done by one person or
 
-tested and superseded at a pace which has left organizational
+group to another. A further implication of this usage is that the motivated parties need
 
-Practice often several steps behind the researchers. The following pages will attempt to
+to be induced to perform some action or expend a degree of effort which they would not
 
-document the main themes and the most widely recognized theories.
+otherwise wish to do. That this is an issue of vital importance to the prosperity of
 
-Employee motivation has always been a central problem for leaders and
+commercial organizations is emphasized by Lawler (1973): “Those individual behaviors
 
-managers. Unmotivated employees are likely to spend little or no effort in their jobs,
+that are crucial in determining the effectiveness of organizations are, almost without
 
-avoid the workplace as much as possible, exit the organization if given the opportunity
+exception, voluntary motivated behaviors”.
 
-and produce low quality work. On the other hand, employees who feel motivated to
+Motivation concerns that “psychological processes that cause the arousal,
 
-work are likely to be persistent, creative and productive, turning out high quality work
-
-A Monthly Double-Blind Peer Reviewed Refereed Open Access International e-Journal - Included in the International Serial Directories. International Research Journal of Human Resources and Social Sciences (IRJHRSS)
+direction and persistence of behavior” (Ilgen and Klein, 1988). Whilst there is general

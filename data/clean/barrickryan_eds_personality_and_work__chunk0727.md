@@ -1,3 +1,11 @@
-## What Interventions Help Create Effective Learning States and Learning Processes?
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 2e0ca20737000d1faad8eabaff05c2eb8198bbc8
+title: barrickryan_eds_personality_and_work
+---
+## Advancing Research on Personality and Learning
 
-It is clear that to understand the person within situation, we need a better understanding of situations that learners face. The situa- tional context of learning that has been most studied in the train- ing literature has been workplace climate and management support for learning. Goldstein and Ford (2002) discuss how work-
+All three perspectives—traits within context, traits and behavioral variability, and traits and psychological states—focus attention on taking the interrelationships among people, situations, and be- haviors more seriously. These new perspectives for understanding personality highlight the opportunities for advancing our thinking about the learner within a learning situation.
+
+Overall, research is needed that moves beyond the focus on the modal or average level of a personality trait for an individual as a predictor of learning outcomes. In this way, we can begin to match the dynamic process of learning with a more dynamic under- standing of the person. This requires us to begin with the as- sumption that individuals with a particular trait do not always behave the same way in all situations, and to some extent the vari- ation in behavior implies within-person variability around the av- erage level of a personality trait. This highlights that although traits may have stability, training designers and trainers themselves can have inﬂuence over the variability around that average level, cre- ating situations that push individuals out of their average trait zone. Three questions are key for advancing research and practice on training and learning: What interventions can help create ef- fective learning states and processes? When are aptitude-treatment interactions important to consider? and How do individuals mat- ter given strong learning situations?

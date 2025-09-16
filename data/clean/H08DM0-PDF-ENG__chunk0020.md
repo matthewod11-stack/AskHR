@@ -1,19 +1,25 @@
-# organization.
+---
+source_path: H08DM0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65b02f7b81189326d9f858a6888567ae2c4650c7
+title: H08DM0-PDF-ENG
+---
+# Escalate concerns if necessary.
 
-Consider cutting your losses.
+If your boss is making hurried decisions that are detrimental to the
 
-It’s possible that your boss is inexperienced, lacking in self-awareness,
+organization, it may be necessary to escalate your concerns to other
 
-or ill-equipped for the role. Or maybe they’re simply not a good ﬁt for
+leaders, according to Martin. For instance, don’t hesitate to speak up
 
-you, says Martin. “We all have preferred ways of working, and it could be
+if your boss makes a decision that conﬂicts with the company’s ethics,
 
-that this new boss’s decision-making style isn’t necessarily bad, but it’s
+principles, or values. The same goes if your boss is resistant to asking
 
-diﬀerent from what you want.”
+or answering questions, or they’re unwilling to take feedback about
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+decision-making. Finally, if you have expertise or a strategic perspective
 
-5
+you believe is vital to the business’s success, “don’t sit on your hands,”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+he says. Remember: Your priority is the long-term well-being of the

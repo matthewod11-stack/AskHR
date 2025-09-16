@@ -1,7 +1,11 @@
-# Psychological Review, 31, 93–117.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5f76d3c0af2027d86cdf095474871731219bef50
+title: untitled
+---
+## gin. Princeton, NJ: Princeton University Press.
 
-Thomas, W. I., & Znaniecki, F. (1918–1920). The Polish peasant in Europe and America (Vols. 1–5). Chicago: University of Chicago Press.
+Taylor, E. (2000). Psychotherapeutics and the problematic origins of clinical psychology in America. American Psychologist, 55, 1029–1033.
 
-Thorne, A., & Gough, H. G. (1991). Portraits of type: An MBTI research compendium. Palo Alto, CA: Consulting Psychologists Press.
-
-Thornton, T. P. (1996). Handwriting in America: A cultural history.
+Terman, L. M. (1924). The mental test as a psychological method.

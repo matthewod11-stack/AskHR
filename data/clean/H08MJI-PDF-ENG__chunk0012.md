@@ -1,19 +1,19 @@
-# process.”
+---
+source_path: H08MJI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ca2c543b6e09f0dc02b72855f4487fdee7cbed4
+title: H08MJI-PDF-ENG
+---
+## momentum.” Focus on routine tasks with clear steps that others can
 
-Find your people
+replicate, like weekly reports or update memos. “Capture them into a
 
-Next, you need someone to delegate to. Think expansively, says Morgan.
+process and empower your team,” she says. Allowing others to prove
 
-Start by asking: Who are your emerging leaders? Who has the interest,
+themselves also helps address any lingering trust issues, adds Kerpen.
 
-bandwidth, and talents for the task? Who needs to learn something
+Starting with small assignments fosters gradual skill development and
 
-new? And, of course: Who do you trust? Focus ﬁrst on dependable team
+“builds mutual conﬁdence,” he says. And remember, “when people
 
-members who meet deadlines and are eager to learn. If you’re drawing a
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mess up, and they will, because we’re human, it’s part of the learning

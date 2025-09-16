@@ -1,7 +1,43 @@
-# hope for another day.”
+---
+source_path: H08OVY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78d9a4ad7d0fb66576b616608acd4d9bf8edd7ff
+title: H08OVY-PDF-ENG
+---
+# Look for compromise
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Another approach is to suggest a solution that isn’t all or nothing.
 
-6
+“Maybe we don’t go fully in the direction I’m proposing, but how about
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+we try a pilot?” says Wilding. This shows you’re ﬂexible and willing to
+
+collaborate, while also conveying that you’re not just going to roll over.
+
+“If you back oﬀ entirely and never bring it up again, your manager
+
+might get the impression that your feedback can be easily dismissed,
+
+and they’ll think, ‘I don’t have to listen next time,’” she says. Stand
+
+your ground (while being open to alternatives) but avoid digging in
+
+your heels just for the sake of it, advises Bordone. “You don’t want a
+
+Groundhog Day situation where you keep trying without progress. If
+
+things still aren’t working, it’s time to ask yourself: Can I live with this?”
+
+Know when to back off
+
+“In most cases, you should probably back oﬀ,” if your boss really and
+
+truly isn’t willing to budge, says Wilding. “Realize that there’s still a
+
+hierarchy. Your manager has the authority to make decisions. Your
+
+inﬂuence is substantial but limited.” Pick your battles: There will be
+
+times when you simply don’t see eye to eye. As Bordone puts it, “Short
+
+of something being unethical or illegal, you do the best you can and

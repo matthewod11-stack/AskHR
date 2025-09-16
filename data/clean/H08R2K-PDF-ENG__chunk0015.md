@@ -1,7 +1,13 @@
-## costs, identiﬁed in Mercer’s People Risk Report 2024 as the number one
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9bbd599c6489e297f1c8249314e8fbf21717d235
+title: H08R2K-PDF-ENG
+---
+# Cost Control
 
-business risk globally, are accelerating the urgency to address the cost
+Our data shows that employees experiencing high stress ﬁle 2.5 times
 
-risk. From 2020 to 2024, per-employee premium costs in the U.S. have
+more health claims than their low-stress counterparts, creating a direct
 
-surged by 28%, with annual increases averaging 6.5%.
+ﬁnancial burden for businesses that self-insure. Rising health insurance

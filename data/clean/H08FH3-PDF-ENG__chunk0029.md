@@ -1,9 +1,25 @@
-## of the patchwork principle and strive for a portfolio of policies that
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c50ab6d0e86919aa0d48a5e08d03fa40e0dbebe
+title: H08FH3-PDF-ENG
+---
+## mandate on their autonomy and their lives. Employer connections
 
-incorporate all four pillars of connection.
+can also take a dive as the desire to work hard to see the company
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+succeed is undermined by a feeling of betrayal. And without clear and
 
-5
+unambiguous links to why employees need to be back in the oﬃce, role
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+connection can be negatively impacted, as people believe they’re being
+
+evaluated based on their attendance more than on their performance.
+
+Focusing on only one pillar of the CLEAR connections model, therefore,
+
+is clearly detrimental. When leaders are making a return-to-oﬃce
+
+decision, they should keep in mind that there will never be a single
+
+policy that’s fair for everyone. Instead, leaders may rely on the idea

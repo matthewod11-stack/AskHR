@@ -1,15 +1,19 @@
-# JSON Repair
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: e256e2313382847b3ed76f51a664901772192880
+title: prompt
+---
+# Prompt Engineering
 
-While returning data in JSON format o(cid:441)ers numerous advantages, it's not without its
+- Less chance for hallucinations
 
-drawbacks. The structured nature of JSON, while bene(cid:450)cial for parsing and use in
+- Make it relationship aware
 
-applications, requires signi(cid:450)cantly more tokens than plain text, leading to increased
+- You get data types
 
-processing time and higher costs. Fu(cid:457)hermore, JSON's verbosity can easily consume the entire output window, becoming especially problematic when the generation is abruptly cut
+- You can so(cid:457) it
 
-o(cid:441) due to token limits. This truncation o(cid:454)en results in invalid JSON, missing crucial closing braces or brackets, rendering the output unusable. Fo(cid:457)unately, tools like the json-repair
+Table 4 in the few-shot prompting section shows an example on how to return
 
-library (available on PyPI) can be invaluable in these situations. This library intelligently
-
-a(cid:459)empts to automatically (cid:450)x incomplete or malformed JSON objects, making it a crucial ally when working with LLM-generated JSON, especially when dealing with potential
+structured output.

@@ -1,15 +1,13 @@
-# setbacks.
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fd80e55e294317a89f9469cefb3b983d7421918
+title: H08QZN-PDF-ENG
+---
+## HBR / Digital Article / When Your Go-To Leadership Style Stops Working
 
-To more objectively assess his team, he asked himself who he would
+his unwillingness to give critical feedback to his team and an aversion
 
-re-hire (or not) if he had to start the team from scratch. Then he deﬁned
+to consistent, detailed reporting to his peers on progress. To his credit,
 
-speciﬁc gaps for each and coached them with targeted feedback,
-
-acknowledging that his prior avoidance of that limited their potential.
-
-And when his team engaged in endless debates, he redirected them
-
-toward closure and action. Lastly, he had his team develop a cadence
-
-for planning and reporting out to stakeholders based on key metrics of
+he made demonstrable changes in his approach in response to these

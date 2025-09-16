@@ -1,11 +1,35 @@
-# managers and weak governance.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: e56ff07d8c1b5d06bc49446fb04a9a50d40d462a
+title: behavioral_economics_1
+---
+# unusually high- and low-performing firms (an application of the “representativeness heuristic”).
 
-An interesting feature of the evolution of academic finance is how some early behavioral ideas which
+An important theoretical attack on market efficiency was showing that if investors have limited horizons
 
-were largely dismissed are now taken seriously. For example, Miller (1977) suggested that divergence of
+(due to quarterly evaluation of institutional portfolio managers, for example) then even if prices wander away
 
-opinion, combined with restrictions on short-selling could lead to inflated stock valuations. Miller’s paper was
+from fundamental values, investors might not have enough aggregative incentive to trade prices back to the
 
-rarely cited at first, but the same idea was used, twenty-five years later, to explain the American dot-com bubble
+fundamentals, which allows mispricing to persist. (As Keynes, noted, markets might stay irrational longer than
 
-(Ofek and Richardson, 2003). Similarly, Modigliani and Cohn (1979) advanced the radical idea that stock
+you can stay liquid.14).
+
+A central point here is that an attack on the proposition that prices would fully reveal information caused
+
+the finance profession to carefully examine the microstructural and institutional reasons why such revelation
+
+might, or might not occur. So the behavioral critique, whether right or wrong, did lead to a sharper focus on
+
+institutional details, which eventually led to better financial economics.
+
+A recent trend is extending some of these ideas to corporate finance— how companies raise and spend
+
+financing from capital markets (see Baker, Ruback, Wurgler 2004). Behavioral influences might be even
+
+stronger here than in asset pricing because large decisions are made by individuals or small groups, and
+
+discipline is only exerted by boards of directors, career concerns, sorting for talented decision makers, and so
+
+forth. So it is possible that very large corporate mistakes are made by a combination of limitedly-rational

@@ -1,9 +1,21 @@
-# broader approaches.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 44abdd2a6746d1ac3989a650bd5c1b68f2ff199b
+title: agents_companion
+---
+# framework.
 
-Software engineers will compare this to automated testing of code. Investing in automated
+16
 
-tests saves you time and gives you confidence in the software you are building. With agents,
+Beyond public evaluations, you will want to evaluate the behavior of your agent across a
 
-this automation pays off faster, in both time and confidence. Curating the evaluation data
+variety of scenarios to ensure it does what you want it to do. You are simulating interactions
 
-set will be extremely important for accurately representing the use case your agent will
+with your agent and evaluating how it responds. This includes the evaluating final response
+
+and also the set of steps it takes along the way (trajectory). Those are the 2 most common
+
+and practical approaches we recommend you start with. There are many other evaluation
+
+techniques you can use beyond these, either for finer details on sub-components or

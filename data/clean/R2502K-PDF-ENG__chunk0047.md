@@ -1,25 +1,21 @@
-## HBR / Magazine Article / The Uniqueness Trap
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cca1f5891756d166521aca379a4385993d932645
+title: R2502K-PDF-ENG
+---
+## project over time on the past performance of a similar system
 
-situations that match your current conditions produces more-accurate
+operating under comparable conditions. Similarity-based forecasting
 
-forecasts than relying on a more general dataset.
+helps managers identify unexpected outcomes and variations in actual
 
-Premortems. In these exercises participants presume that a particular
+operating conditions. It can be applied in many contexts, notably in
 
-outcome will happen and oﬀer an analysis of why it will occur.
+macroeconomics, where economists believe that drawing on data from
 
-For example, before starting a project you might assume that it will
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-be completed 10 months later than forecast and then explain why.
+9
 
-Premortems entail what behavioral psychologists call “prospective
-
-hindsight,” a concept that began to appear in management literature
-
-in the wake of a groundbreaking 1989 article by Deborah Mitchell,
-
-Edward Russo, and Nancy Pennington. They’re a highly eﬀective
-
-way of surfacing potential problems. The 1989 research suggests that
-
-prospective hindsight can improve decision-making and also make
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

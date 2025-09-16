@@ -1,65 +1,27 @@
-## HBR / Digital Article / It’s Time to Redefine Our Gendered Idea of “Ambition”
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f10c726b50f66fb2183629b0e22905c94f38cfaa
+title: H080JA-PDF-ENG
+---
+# Martin Barraud/Getty Images
 
-As coaches and consultants who support global companies in their
+Last fall, McKinsey’s “Women in the Workplace” report found that
 
-eﬀorts to grow and retain female talent, we know why this is happening.
+women continue to face blockers in the transition from entry-level
 
-A male-centric blueprint for ambition pervades the workplace,
+positions to management roles. The problem — likened to a “broken
 
-imposing a path and pace that are in tension with the multiplicity
+rung” on the career ladder — has stunted women’s advancement and
 
-of life-stage demands — among them child-rearing, elder care, and
+led to a persistent gender gap in senior leadership positions. The trend
 
-domestic work — that fall disproportionately to women. Those who
+is most dire for women of color, who this past year have seen previous
 
-are unable or unwilling to submit to this blueprint are disqualiﬁed.
-
-That was the idea that Niraj Shah, the CEO of Wayfair, conveyed to his
-
-employees this past December in a message encouraging them to work
-
-harder and longer. In the now infamous “Wayfair memo,” he wrote, that
-
-employees had to ﬁgure out how to balance hard work with their other
-
-needs. “Everyone deserves to have a great personal life — everyone
-
-manages that in their own way — ambitious people ﬁnd way to blend
-
-and balance the two.”
-
-When women decelerate to establish work-life balance, they are often
-
-perceived as lacking ambition. A switch goes to “oﬀ” in the minds
-
-of their supervisors, who stop including them in important projects,
-
-meetings, and conversations. But those who follow the blueprint are
-
-typically swamped by role overload: They face structural disadvantage
-
-and burnout, struggling to manage their many professional and
-
-personal responsibilities. The rise of “greedy work,” where earnings rise
-
-disproportionately if you agree to work more hours with less ﬂexibility,
-
-has intensiﬁed the dilemma.
-
-It’s at this point, we ﬁnd, that many women take themselves out of
-
-the running for senior leadership positions. As Claudia Goldin’s Nobel
-
-Prize-winning research has shown, greedy work forces heterosexual
-
-couples with children to choose between generating wealth — which
-
-can happen if one member of the couple works long, inﬂexible hours —
-
-and gender equity, where both people choose ﬂexible work.
+gains slip substantially.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-2
+1
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

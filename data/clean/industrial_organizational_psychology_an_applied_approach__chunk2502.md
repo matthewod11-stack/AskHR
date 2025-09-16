@@ -1,13 +1,17 @@
-# The working conditions
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 71dfbcaf1197d752ae1da240c575e371281570a2
+title: industrial_organizational_psychology_an_applied_approach
+---
+# The chances for advancement on this job
 
-18.
+15.
 
-The way my coworkers get along with each other
+The freedom to use my own judgment
 
-19.
+16.
 
-The praise I get for doing a good job
+The chance to try my own methods of doing the job
 
-20.
-
-The feeling of accomplishment I get from the job
+17.

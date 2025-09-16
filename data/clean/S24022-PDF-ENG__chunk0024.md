@@ -1,25 +1,29 @@
-## HBR / Spotlight Article / Create a System to Grow Consistently
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e7724c753e833848d660a0411a7c12a5c432158
+title: S24022-PDF-ENG
+---
+## smaller biotech ﬁrms, patient advocacy groups, hospitals, insurers, and
 
-To scale drug production while maintaining quality, it works with
+manufacturing partners) to accelerate drug discovery and development.
 
-select manufacturing partners to develop continuous manufacturing
+It continually invests in and tunes the model as the company grows. For
 
-technology (the ﬁrst such program to secure FDA approval). Vertex’s
+example, as Vertex expanded globally and became more decentralized,
 
-operating model also includes a culture that promotes breaking the
+it created new ways to promote innovation, such as tournaments,
 
-status quo and learning from failure, which is central to developing new
+training programs, and facilitated lectures by leading scientists. To
 
-treatments, delivering better patient outcomes, and propelling growth.
+improve its breakthrough cystic-ﬁbrosis treatments, it works with
 
-Renew insights continuously. Growth champions anticipate how trends
+health care providers to optimize care pathways from hospital centers
 
-will aﬀect customers and revenue generation, now and in the future.
+into patients’ homes, creating better patient experiences and outcomes.
 
-They realize that timing matters: Spotting the right trends early is
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-necessary to make investment plans and shift product portfolios. But
+6
 
-make no mistake: We’re not talking about generic trend analysis.
-
-Growth systems aren’t unidimensional or temporal; they do not rely
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

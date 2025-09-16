@@ -1,19 +1,65 @@
+---
+source_path: H08SRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f700acfbe0662179597758fd1d4b57c99e02822
+title: H08SRL-PDF-ENG
+---
 ## HBR / Digital Article / An International Travel Checklist for U.S. Employers
 
-considerations in this environment aren’t necessarily more onerous
+whereabouts, safety, and compliance with federal requirements,” says
 
-than what’s already standard,” says Krishnan.
+Vik Krishnan, senior partner at McKinsey who advises companies in
 
-Goeschl also recommends advising foreign nationals on staﬀ who may
+the aviation and travel sectors. “No travel manager wants trouble for
 
-have status violations to speak with the company ahead of any travel.
+any employee, so they set rules that account for the lowest common
 
-Anyone who isn’t a U.S. citizen and has had legal issues, whether criminal like a D.U.I. or a non-criminal oﬀense, could have diﬃculty
+denominator of risk.”
 
-coming in and out of the country. This could also apply to visa-holders
+That’s much more complicated when baseline risks are elevated and
 
-who’ve spoken out about political issues, either in the press, in social
+rules and requirements change by the day. President Trump’s new travel
 
-media, or elsewhere, Goeschl adds. “Reach out to foreign nationals and
+ban is a prime example. As of June 9, citizens of 12 countries, including
 
-make sure they know what to expect, including their rights—or lack
+Iran, Somalia, and Afghanistan, are banned from visiting the U.S., while
+
+those from seven other nations are facing restrictions.
+
+More changes could be in store, says Malcolm Goeschl, principal
+
+attorney for Goeschl Law, a San Francisco-based ﬁrm that specializes
+
+in business immigration advice. “It would not be surprising if new
+
+travel bans are announced in the future that are broader in scope, that
+
+is, applying to more nationalities or classes of individuals,” he says.
+
+Indeed, as of this writing, reports suggest that the administration is now
+
+considering banning as many as 36 additional countries, the majority of
+
+which are in Africa.
+
+As organizations navigate an increasingly unpredictable global
+
+environment, experts recommend building a checklist that covers both
+
+technical and people-related travel policies. Here’s how to get started.
+
+Clarify which employees are working under temporary authorization
+
+Getting a clear picture of your U.S.-based workforce—including
+
+which employees are on sponsored visas or short-term work status
+
+and monitoring any upcoming renewal deadlines—is a helpful
+
+place to begin. “Most companies already track this information, so
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

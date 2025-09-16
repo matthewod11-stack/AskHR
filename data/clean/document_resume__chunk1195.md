@@ -1,3 +1,7 @@
-# 4 Very Good
-
-Assists administration in developing adequate evaluation proce- dures. Administers evaluations according to established proce- dures. Reviews results and takes steps to incorporate recommen- dations in future instructional endeavors so to minimize any weaknesses and capitalize on the strengths.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: cdb92c5aed07ec1fd327f92a78b57b346426f6e3
+title: document_resume
+---
+# Performance Appraisal

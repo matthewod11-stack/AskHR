@@ -1,15 +1,19 @@
-# Focus on frontline managers.
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4811319df0d9fec0ffc72f0b1cc63e6a761e7eb
+title: H08VEI-PDF-ENG
+---
+## HBR / Digital Article / Building Employee Buy-In for Strategic Change
 
-Frontline managers are key to how messages get communicated and
+Carroll suggests identifying what she calls “network nodes—the super
 
-how teams respond, so Carroll recommends prioritizing them. They
+connectors in your organization who interact with a wide range of
 
-work directly with employees and have a clearer view of what’s actually
+people.” Tap them as a sounding board to anticipate how people might
 
-happening, she says. “Frontline managers have an outsized inﬂuence
+react. “Ask them: What concerns do you have? What will it take to put
 
-on whether people stay motivated and see how their work matters,” she
+this into practice? And what should we emphasize?” Use their input to
 
-adds. “Leaders need to help them see that communication is a key part
-
-of their job, and give them the skills and tools to do it well.”
+tailor your approach.

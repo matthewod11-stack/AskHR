@@ -1,41 +1,25 @@
-## issue citations for de minimis violations.
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: 30fad301fe4d2670069bd90db5d1eaae25029fcd
+title: Employment Law Guide - Occupational Safety and Health
+---
+# state law, state oﬃcials conduct inspections, issue citations for violations, and propose penalties in a manner
 
-Other than serious violation: A violation that has a direct relationship to job safety and health, but probably
+that is at least as eﬀective as the Federal program.
 
-would not cause death or serious physical harm.
+OSHA initiates inspections without advance notice based on the following priorities: imminent danger,
 
-Serious violation: A violation where a substantial probability that death or serious physical harm could result and where the employer knew, or should have known, of the hazard.
+catastrophes (fatalities or hospitalizations), worker complaints and referrals, targeted inspections (particular
 
-Willful violation: A violation that the employer intentionally and knowingly commits. The employer either
+hazards, high injury rates), and follow-up inspections. Various OSHA publications and documents detail
 
-knows that what he or she is doing constitutes a violation, or is aware that a condition creates a hazard and
+OSHA's policies and procedures for inspections, including OSHA's Field Operations Manual.
 
-has made no reasonable eﬀort to eliminate it. Proposed penalties for other-than-serious and serious violations
+No later than January 15 of each year, OSHA adjusts its civil monetary penalties to account for inﬂation.
 
-may be adjusted downward depending on the employer's good faith (demonstrated eﬀorts to comply with the Act through the implementation of an eﬀective health and safety program), history of violations, and size of
+Current maximum penalty amounts for each violation type listed below are available at osha.gov/penalties.
 
-business. Proposed penalties for willful violations may be adjusted downward depending on the size of the
+Citation and penalty procedures may diﬀer somewhat in OSHA-approved state plans.
 
-business. Usually no credit is given for good faith.
-
-If an employer is convicted of a willful violation of a standard that has resulted in the death of an employee,
-
-the oﬀense is punishable by a court imposed ﬁne or by imprisonment for up to six months, or both. A ﬁne of up to $250,000 for an individual, or $500,000 for an organization [authorized under the Omnibus Crime Control
-
-Act of 1984 (1984 OCCA), not the OSH Act], may be imposed for a criminal conviction.
-
-Repeat violation: A violation of any standard, regulation, rule, or order where, upon re-inspection, a
-
-substantially similar violation is found. To serve as the basis for a repeat citation, the original citation must be
-
-ﬁnal; a citation under contest may not serve as the basis for a subsequent repeat citation.
-
-Failure to abate violation: Failure to correct a prior violation may bring a civil penalty for each day the
-
-violation continues beyond the prescribed abatement date.
-
-The following outlines procedures for appealing OSHA citations and penalties.
-
-Appeals by employees and employers: If a complaint from an employee prompted the inspection, the
-
-employee or authorized employee representative may request an informal review of any decision not to issue a
+De Minimis violations: The OSH Act authorizes OSHA to treat certain violations, which have no direct or immediate relationship to safety and health, as de minimis, requiring no penalty or abatement. OSHA does not

@@ -1,11 +1,17 @@
-## resources, talents, expertise, and capabilities outside your organization.
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b40f90f9200c770c66070766b32be2eab12a673
+title: H08ONJ-PDF-ENG
+---
+## HBR / Digital Article / What DeepSeek Can Teach Us About Resourcefulness
 
-For example, when Jim McKelvey and Jack Dorsey set out to create the
+wide. Then narrow your search as you gain clarity on the speciﬁcs you
 
-market of credit card payments for microbusinesses and individuals,
+need to zoom in on and which key players may have the expertise that
 
-they had the idea for the Square Reader—a small, unencumbered
+you can learn from.
 
-little device that people could use anywhere to swipe a credit card for
+- 2. Identify and utilize outside resources to your advantage.
 
-payment. Only how could the payment be processed and relayed to the
+Resourcefulness often comes from identifying and taking advantage of

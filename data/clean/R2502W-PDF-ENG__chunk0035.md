@@ -1,11 +1,35 @@
-## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b3a1c64ab42ed13753958fb53466bb92ca8dd0f
+title: R2502W-PDF-ENG
+---
+## transform business processes and empower workforces, companies will
 
-competencies as understanding the needs of their target market
+be able to fundamentally rethink how they deploy their resources.
 
-and developing innovative products. They then strategically deployed
+Smart ones will identify the handful of processes in which they can
 
-AI assistants to handle noncore activities such as market analysis,
+provide world-class expertise and capabilities and reallocate resources
 
-supplier identiﬁcation, packaging design, and marketing strategy. By
+to deepen the moats around those processes. At the same time, they will
 
-building on its AI-enabled platforms, FocusFuel was able to set up its entire operation in just a few months, eﬃciently outsourcing
+reduce employees’ focus on noncore processes by leveraging AI-enabled
+
+platforms provided by third parties.
+
+An early example of this shift can be seen at FocusFuel, a purveyor
+
+of caﬀeinated gummies. Founded in 2023 by a trio of entrepreneurs
+
+and marketers in partnership with a collective of gamers, athletes,
+
+and content creators, the company has utilized gen AI technologies
+
+across its entire value chain. The founders identiﬁed their core
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

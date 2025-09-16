@@ -1,7 +1,21 @@
-## Three Actions to Move from When in Rome to Embassy
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2fd3f2b864f2594cbd515b0898b81d6a5fa5b299
+title: H053C9-PDF-ENG
+---
+# HBR / Digital Article / How Multinationals Can Help Advance LGBT Inclusion Around th…
 
-Focus on the concept of allyship: By framing LGBT initiatives as “LGBT
+The interviewees in our study represented businesses using all three
 
-ally initiatives” organizations can leverage the straight and cisgender
+models. Yet most of them had witnessed encouraging progression
 
-majority and build a coalition of pro-LGBT champions at all levels of
+toward Advocacy over time. When we asked how they each moved the
+
+needle in their respective locations, they shared both the successes and
+
+the challenges. Based on that interview data, we suggest three actions
+
+to help companies move from When in Rome to Embassy and three
+
+additional actions to help them move from Embassy to Advocate.

@@ -1,25 +1,17 @@
-## on social media — or directly to reporters.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8afbd2175c9d62d8b0870e3a753797a280e30fb
+title: H07ZZW-PDF-ENG
+---
+## customer, the National Riﬂe Association.”
 
-The messy reality is that employee and corporate speech have
+Today’s employees are far more likely than those of generations past to
 
-intersected in uncontained ways that make internal organizational
+raise alarms about what businesses are (or aren’t) doing about climate
 
-conﬂict inevitable. Relying on even the most seasoned communications
+change, racism, political conﬂicts, abortion, or gun control. And eﬀorts
 
-team to craft a convincing story about your corporate responsibility eﬀorts no longer suﬃces in this fast-moving, interconnected, image-
+to hold their leaders accountable in the public square have led young
 
-dominated, “gotcha” era — not when voices from inside a company
-
-can quickly pierce its neat and glossy narrative. And as a broader,
-
-far less legalistic idea of “business ethics” emerges in the workplace,
-
-the traditional approach, which treats whistleblowing solely as a
-
-compliance mechanism, has become obsolete.
-
-Corporate leaders have wound up embroiled in complex questions
-
-about whom they represent — and on what basis. The Business
-
-Roundtable and other inﬂuential voices have called on businesses to
+staﬀ members in particular to leak embarrassing internal information

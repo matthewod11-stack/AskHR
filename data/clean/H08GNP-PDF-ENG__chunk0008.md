@@ -1,19 +1,23 @@
-# team’s performance.
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a7766f108828233d52886112d9584a43d68c743
+title: H08GNP-PDF-ENG
+---
+# HBR / Digital Article / Leaders Can’t Make Up for Bad Behavior by Being Nice Later
 
-Although both prevailing wisdom and existing research have often
+remorse and contrition, had become all too familiar for his colleagues,
 
-supported the idea that managers can “make up” for abusive behavior
+who often wondered aloud which version of Pat — “Good Pat (Dr.
 
-by subsequently acting ethically, our recent study reveals a much diﬀerent story. When leaders oscillate between abusive and ethical
+Jekyll)” or “Bad Pat (Mr. Hyde)” — would show up today.
 
-behaviors, it has a more detrimental impact on employees’ performance
+As Pat slumped into his chair, the guilt began to creep in. “I’ll make
 
-than abuse alone. This “Jekyll and Hyde” leadership style leads
+it up to them,” he muttered to himself, convincing himself that by
 
-to greater uncertainty and emotional exhaustion among employees, damaging their ability to perform their duties eﬀectively, reducing their
+acting especially kind and fair over the next few days, he could erase
 
-willingness to engage in important organizational citizenship behaviors
+the damage of his outburst. But little did Pat realize he was playing a
 
-(e.g., helping a colleague), and increasing the likelihood that they
-
-will engage in counterproductive work behavior (e.g., stealing oﬃce
+dangerous game, with the stakes much higher than he realized for his

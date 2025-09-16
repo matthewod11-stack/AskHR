@@ -1,13 +1,15 @@
-# (e.g., Twitter/X).
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1694f94d56a9ec0698255ba0a30d2de4f3b7beaf
+title: H08B2N-PDF-ENG
+---
+## HBR / Digital Article / Research: How Passion Can Backfire at Work
 
-This duality is not uncommon, suggesting a link between passion and
+But Musk has also been called “galactically arrogant,” often
 
-overconﬁdence — a link that may undermine the potential of passion
+overpromising on timelines for new technologies and product features
 
-to boost performance. Studies have shown that in some cases, feeling
+(e.g., fully self-driving cars), as well as his ability to lead an
 
-passionate can lead to burnout, frustration, and worse performance.
-
-What’s at the root of these inconsistent eﬀects of passion? And what can
-
-we do to reap the beneﬁts of passion at work, without falling prey to its
+organizational turnaround in an industry where he has little experience

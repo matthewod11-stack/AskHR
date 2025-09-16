@@ -1,7 +1,19 @@
-## common objective of procurement’s transformation initiatives.
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f59f2247dfe6a01e15a17e8d405a542dd876dc1
+title: H08MHC-PDF-ENG
+---
+# transformations.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Despite this volume of experience — or maybe because of it — 70% of
 
-2
+respondents to Gartner’s survey reported that achieving transformation
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+objectives was harder than expected. And a majority of transformations
+
+were found to be under-delivering on expected value. For example,
+
+respondents gave an average score of 58 out of 100 when asked the
+
+extent to which the transformation met cost savings objectives, the most

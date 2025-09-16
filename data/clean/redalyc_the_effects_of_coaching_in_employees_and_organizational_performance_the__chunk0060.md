@@ -1,27 +1,25 @@
-## 3.2.1. Organisational support and antecedents
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 1acce0d5f0c45370037924a0a84b0afdb705a24d
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## 3.2 Measurement scales: dimensionality and validity
 
-The variables that were used to build the organisational support and antecedent construct
+We designed a questionnaire on the basis of the literature review to obtain the information that
 
-were drawn from the works of Salinero and Muñoz (2007) and Chand and Katou (2007). The
+we needed to resolve our research problems. In the development of the variable measurement
 
-results of the exploratory factor analysis are as follows. The first variable of this factor is “Are
+scales, we used previous works as a reference and adapted the content to the specifics of our
 
-individual training and development needs analysed?” This variable has a weight of 0.756. The
+research. A group of experts then examined the different scale items to verify their suitability.
 
-second variable is “Does the company attempt to improve the skills and knowledge of
+With regard to the individual construct reliability, we first used the Cronbach’s alpha coefficient
 
-employees?”, and the weight of the factor is 0.718. The third variable is “Are coaching and
+and the composite reliability index of each construct. Second, to confirm the dimensionality of
 
-training plans essential for the company?” The weight of the factor for this variable is 0.641.
+the scales, we conducted an exploratory factor analysis to examine the suitability of the
 
-The fourth variable is “Does this process occur regularly?”, with a weight of 0.757. The fifth
+groupings of variables around the corresponding dimensions. Finally, we verified the validity
 
-variable, “Does the number of coaching programmes increase every year?”, has a weight of
-
-0.692. The sixth variable is “Does the company have a detailed written training plan?”, with a
-
-weight of 0.782. Finally, the seventh variable is “Does the company evaluate the results of the
-
-process?”, with a weight of 0.707. The variance explained by the seven variables is 52.281,
-
-and the value of the KMO test is 0.888. The reliability of this scale is α=0.772, and r=0.791.
+using a confirmatory factor analysis (CFA) of each construct.

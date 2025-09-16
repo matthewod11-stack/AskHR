@@ -1,13 +1,17 @@
-# Harvard Business Review
+---
+source_path: R0311F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bceb5d7224e88a02954fe6a3cc378c78142e89f8
+title: R0311F-PDF-ENG
+---
+# Assess outcomes.
 
-harvard business review • november 2003
+gathering errors and manipulation efforts.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- • • The original purpose of nonfinancial perfor- mance measures was to fill out the picture provided by traditional financial accounting. Instead, such measures seem to have become a shabby substitute for financial performance. Our study shows that they will offer little guid- ance unless the process for choosing and ana- lyzing them comes to rely less on generic per- formance measurement frameworks and managerial guesswork and more on sophisti- cated quantitative and qualitative inquiries into the factors actually contributing to eco- nomic results. Otherwise, having proliferated in prosperous times, such measures are likely to be abandoned in lean ones, along with the managers who are charged with tracking— and justifying—them.
 
-page 8
+- 1. For more on the Balanced Scorecard, see Robert S. Ka- plan and David P. Norton, “The Balanced Scorecard—Mea- sures That Drive Performance,’’ HBR January–February 1992; for more on the Intellectual Capital Navigator, see Intellectual Capital: Leif Edvinsson and Michael S. Malone, Realizing Your Company’s True Value by Finding Its Hidden Brainpower (HarperBusiness, 1997).
 
-Further Reading This article is also available in an enhanced Harvard Business Review
+- 2. See Anthony J. Rucci, Steven P. Kirn, and Richard T. Quinn, “The Employee-Customer-Profit Chain at Sears,” HBR January–February 1998.
 
-OnPoint article,
-
-Harvard Business Review articles enhance the full-text article with a summary of its key points and a selection of its company examples to help you quickly absorb and apply the concepts. Review three OnPoint articles and an overview comparing the various perspectives on a specific topic.
+Reprint R0311F; OnPoint 5380 To order, see the next page or call 800-988-0886 or 617-783-7500 or go to www.hbr.org

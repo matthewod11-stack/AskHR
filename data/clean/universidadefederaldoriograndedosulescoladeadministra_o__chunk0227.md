@@ -1,11 +1,11 @@
-## Diversas empresas atualmente utilizam a metodologia em seu cotidiano. Um
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: e9782e4048ca56d0313c19b7832017496cbe89cd
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## atendendo à metodologia qualitativa para explorar o motivo da nota atribuída à
 
-exemplo exposto a seguir diz respeito à empresa Lojas Renner, importante varejista
+questão anterior. Com as respostas coletadas e processadas, torna-se possível
 
-brasileira do ramo de moda. Neste exemplo, a pesquisa é enviada via e-mail no dia
-
-seguinte à compra. No momento da compra, o cadastro do contato eletrônico é
-
-realizado, e ele é posteriormente utilizado como canal de contato com o consumidor.
-
-23
+identificar a lealdade do cliente à marca.

@@ -1,15 +1,9 @@
-# the opportunity.
+---
+source_path: H08C8U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 225cc924dee99086aca1480b35097fbd71c3beae
+title: H08C8U-PDF-ENG
+---
+## along. Consequently, the targeted improvements in performance never
 
-- Sand-bagging negotiations around the targets. Even when the
-
-baseline is undisputed, leaders may deliberately understate the
-
-potential for performance improvement to secure lower targets. This
-
-often manifests in debates over the applicability of benchmarks or
-
-statements regarding the limitations the company faces given its
-
-strategy. Haggling over targets takes precedence over ﬁnding ways to
-
-improve performance.
+materialize, even though the executives may gain credit for realizing

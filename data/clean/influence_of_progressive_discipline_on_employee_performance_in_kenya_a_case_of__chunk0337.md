@@ -1,17 +1,7 @@
-# rules
-
-Hassan(2005), the rules and regulations should be understood by the employees in an organization to eliminate unfair dismissal and discrimination legislation and the consequent threat of defending employees from employers with a significant impetus to adopt more formal processes through the effective application of employee rules and regulations (Edwards et al., 2004).
-
-60%
-
-45%
-
-28%
-
-27%
-
-40%
-
-20%
-
-0%
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: c9856e74fe0a8df9bfa074b7e7b099e52422b101
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# employee

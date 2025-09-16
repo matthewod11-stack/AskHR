@@ -1,9 +1,17 @@
-## processo de eNPS comparada à pesquisa de clima organizacional
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: a54e036212596687aee100c2dcc26dcf2b1bb62f
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## optou pela resposta positiva e apenas um também pela resposta negativa. Sendo
 
-tradicional,
+assim, a partir dessa questão, é possível concluir que, mesmo ocupando cargo de
 
-provavelmente vinda do líder que respondeu positivamente à anterior; e uma ao fato
+liderança, os respondentes não detêm muito conhecimento a respeito das pesquisas
 
-de que a pesquisa de clima é capaz de abordar mais pontos simultaneamente,
+usualmente aplicadas com a força de trabalho das organizações.
 
-justificativa que possivelmente acompanhou a resposta negativa à questão anterior.
+A questão seguinte, que abordava as justificativas para a resposta dada a
+
+essa, não trouxe também contribuições, tendo uma citação à maior rapidez do

@@ -1,3 +1,7 @@
-# a
-
-Varies method of presentation to increase student interest. Uses class time on subject matter. Encourages student participation. Demonstrates overall knowledge of subject and presents material so that is understood by student. it Encourages students to seek help after class if needed.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4d96a7d9096d9a9ce4cebffecb6e3ac5119f33e7
+title: document_resume
+---
+# ACCEPTABLE

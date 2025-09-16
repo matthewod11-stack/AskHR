@@ -1,7 +1,9 @@
-## integrative psychobiologists. History of Psychology.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1ce73757274b314df7917f4613ca1b3872b17aee
+title: untitled
+---
+## Psychonomic Bulletin and Review, 7, 267–283.
 
-Dewsbury, D.A. (in press-b). Comparative psychology:Acase study of development of support for basic research by a Federal agency with an applied mission 1948–1963. In W. E. Pickren & S. F. Schneider(Eds.),PsychologyandtheNationalInstituteofMental Health. Washington, DC: American Psychological Association.
-
-Gallup, G. G., Jr. (1985). Do minds exist in species other than our own? Neuroscience and Biobehavioral Reviews, 9, 631–641.
-
-Gardner, R. A., & Gardner, B. T. (1969). Teaching sign language to
+Dewsbury, D. A. (in press-a). The Chicago ﬁve: A family group of

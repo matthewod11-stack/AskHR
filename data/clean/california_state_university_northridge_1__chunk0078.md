@@ -1,15 +1,13 @@
-# t •
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 3074983e1ca67dd6095fc7405a7fcb623df87385
+title: california_state_university_northridge_1
+---
+# i.
 
-..l
+- •
 
-their right to pursue Equal Employment Opportunity Commission and or court options. The
+goo 1uea, wuen acceptmg, a poSitmn uaSeu on agreemg to man atory aro1trat10n; grvmg up
 
-16
-
-Equal Employment Opportunity Commission has recently dispatched a warning to
-
-corporations business with mandatory arbitration policies. The Equal Employment
-
-Opportunity Commission position is that such policies are unfair to employees. It is believed
-
-that an employee should have the opportunity to seek the appropriate venue for that particular
+1-..

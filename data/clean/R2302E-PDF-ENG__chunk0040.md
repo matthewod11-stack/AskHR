@@ -1,13 +1,21 @@
-## HBR / Magazine Article / You Need Two Leadership Gears
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8631f9dba10216139329d930cc389f29c7a1a95
+title: R2302E-PDF-ENG
+---
+# championships.
 
-I can tell when they need a boost in motivation because the season is
+At diﬀerent points during a season, when Kerr feels his players need to
 
-long and requires much persistence. Those are the moments where I
+be reenergized, he gives them the opportunity to decide how to play.
 
-give them power.”
+That’s right—they decide the strategy to use during the game, a task
 
-Leave the room. If you’re the most powerful person in the room, no
+Kerr is usually in charge of as their coach. He told us, “I read the room.
 
-matter what you do or say, your mere presence can be intimidating.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Your authority alone can squelch comment and debate and create
+13
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,19 +1,15 @@
-## boost investor conﬁdence, enhance resilience, and create signiﬁcant
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ab42312713c27c21f6111b605aec2764bab1276
+title: R2502C-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Strategic Fit
 
-barriers to entry for new competitors.
+- 6. Competitive advantages. Competitive advantages are unique
 
-When the founders started SEB, they saw many opportunities to achieve its higher purpose through competitive diﬀerentiation. Traditional
+attributes or capabilities that enable a company to outperform
 
-gyms had limited hours and inconvenient locations, making it diﬃcult
+competitors. They are crucial to the performance and long-term success
 
-for people with busy schedules to work out. The founders decided to oﬀer a 24/7 ﬁtness solution that would cater to people who needed
-
-ﬂexibility in their workout schedules. They focused on opening smaller,
-
-simpler neighborhood gyms that eliminated little-used racquetball
-
-courts and had only the equipment that people most frequently wanted
-
-to use. They implemented high-tech security systems and access
-
-controls, ensuring that members felt safe while working out at any time
+of a company. They drive sales and proﬁt margins, attract top talent,

@@ -1,15 +1,17 @@
-# possible.
+---
+source_path: H08DY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e063348bfa8c6aca8ead97790058e3f7aea312a
+title: H08DY5-PDF-ENG
+---
+# barriers.
 
-- 3. Use an abundant and expansive mindset in the engineering of customer experiences.
+- 2. Repurpose a portion of the efficiencies gained from automation to support more complex customer service needs.
 
-Companies should consider oﬀering multiple channels of
+For instance, using the resources you’ve saved through AI automation,
 
-communication — voice, text, and sign language via video — and allow
+create a dedicated queue for customers with disabilities to receive
 
-customers to toggle between these modes with ease. The more points of
+assistance from specially trained live representatives and implement
 
-access you can create, the better.
-
-- 4. Demonstrate socially responsible practices.
-
-Highlight your company’s accessibility initiatives and features — not
+the ability to deliver services directly in sign language whenever

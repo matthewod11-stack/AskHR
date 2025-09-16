@@ -1,7 +1,7 @@
-## Why You Should Have Hobbies: Our Favorite Reads
-
-https://hbr.org/2023/07/why-you-should-have-hobbies-our-favorite-reads
-
-3/4
-
-Read more on Work-life balance or related topics Time off, Personalgrowth and transformation and Managing yourself
+---
+source_path: Why You Should Have Hobbies_ Our Favorite Reads.md
+pages: n/a-n/a
+chunk_id: 3dc8fdc78fb441ea53c58b9ff12478e72a93bf69
+title: Why You Should Have Hobbies_ Our Favorite Reads
+---
+# 9/10/25, 11:34 AM

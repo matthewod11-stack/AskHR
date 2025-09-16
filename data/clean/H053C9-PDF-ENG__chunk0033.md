@@ -1,19 +1,13 @@
-# HBR / Digital Article / How Multinationals Can Help Advance LGBT Inclusion Around th…
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4736099e80b666e9f7de73f1a80216092e95da6
+title: H053C9-PDF-ENG
+---
+## onto global LGBT frameworks, such as the UN Standards of Conduct for
 
-Business. One interviewee took it upon himself to bring 14 companies together at Dow’s oﬃces in Turkey to hold a conference on LGBT
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-inclusion and share best practices. Once forged, such coalitions can
+5
 
-then engage in advocacy at the country level. Dow, EY, and Microsoft
-
-recently joined more than 200 businesses by signing onto a U.S.
-
-Supreme Court amicus brief to show support for protecting LGBT
-
-people from discrimination under existing federal civil rights law.
-
-Engage in “Embassy-Advocacy.” Identify internal actions that drive
-
-toward the Advocate model without fully embracing it. For example,
-
-after Singapore prohibited foreign companies from funding the local
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

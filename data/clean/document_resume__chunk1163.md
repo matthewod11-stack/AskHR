@@ -1,5 +1,9 @@
-# Appendix A 139
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 28d24d3b05d357aed47808c66ac2e247d681bf6c
+title: document_resume
+---
+# 2 Marginal
 
-1 Unacceptable Communications are rare with facility staff. Lacks a working knowledge about facility's routine, procedures, and regulations. Fails to seek or consider feedback from students on effectiveness of clinical experiences.
-
-- 4. Clinical Planning (Emergency Medical Technician-EMT) Plans experiences and assignments within clinical facility.
+Communications are limited with facility staff. Follows through with experiences planned by course coordinator. Seeks assis- tance or information from staff on occasion regarding facility's routine, procedures, and regulations.

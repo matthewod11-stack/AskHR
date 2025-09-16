@@ -1,5 +1,7 @@
-## Aﬃ liation style for climate of anxiety, 449
-
-Aﬃ liation, 476 Aﬃ rmative action, 99–105 consequences of, 106 legality of, 101–105
-
-676
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a88da537f12dc64ad24d7cccce4defb97a85cf9b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# consistency, 364

@@ -1,25 +1,37 @@
-## on a project or new initiative together, or when one team member
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b65aebdee1d3a5d81e2a311682b018c469841707
+title: H08HK5-PDF-ENG
+---
+## the employee with open-ended questions such as, “Tell me about how
 
-does something helpful for another team member. And don’t forget
+it went,” “How are you feeling now?” or “How can I best support you?”
 
-to express gratitude upwards to supervisors (a new spin on what some
+Additionally, these conversations can help you to better understand
 
-refer to as “managing up” or “caring for the caregivers”). This is likely
+your employee, what the pain points of their position are, and can help
 
-to create an even stronger sense of connectedness throughout the
+improve your ability to provide proactive gratefulness in the future, as
 
-organization, which could further boost employees’ resilience should
+you’ll better understand what about a task makes it most challenging. If
 
-they meet obstacles along the way.
+necessary, repeat your genuine expression of gratitude to the employee
 
-. . .
+after the event. A little gratitude repetition never hurts, especially for
 
-According to Gallup’s Global Emotions report, negative emotions are
+employees who seldom hear it at work.
 
-higher today than they were a decade ago. There’s a lot about work that can be diﬃcult and distressing, and this can contribute to the general
+- 4. Cultivate a culture of gratitude. Our ﬁndings suggest that gratitude
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+in advance is successful in part because it makes people feel a strong
 
-6
+sense of collective social worth. They believe they are a valued part
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of the team and that their contributions to this team are meaningful, even when the tasks are diﬃcult. While it’s important for managers
+
+to give gratitude in advance, supervisors should also encourage their
+
+team to liberally extend gratitude amongst themselves; for example,
+
+expressing genuine gratitude to other team members when they embark

@@ -1,19 +1,9 @@
-## empresa. Después, se aseguró de que el mensaje aterrizara.
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2473cbb99f5876621f260183cd9df8e07ed9287
+title: H08U08-PDF-ENG
+---
+## efectos dominó. Esto incluía retrasar el despliegue de un sistema crítico
 
-He aquí cómo presentar un caso persuasivo:
-
-- Mantenga la conversación en directo. Las conversaciones en
-
-persona o por vídeo le ofrecen información en tiempo real para que
-
-pueda leer la sala y hacer ajustes sobre la marcha.
-
-- Céntrese en los resultados. Explique qué gana la empresa
-
-manteniendo al empleado, como evitar riesgos, aumentar los ingresos
-
-Copyright © 2025 Harvard Business School Publishing. Reservados todos los derechos.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+de cara al cliente, central para la estrategia de salida al mercado de la

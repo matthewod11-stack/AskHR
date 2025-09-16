@@ -1,5 +1,7 @@
-## How to Make Job Interviews More Accessible
-
-Designing an inclusive interview process for disabled people and people with different learning styles both widens the talent pool and creates a more equitable workplace. by Rebecca Knight
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6260e4948a84a765046bea9394945223f932574e
+title: H088YP-PDF-ENG
+---
+# Hiring and Recruitment

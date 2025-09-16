@@ -1,7 +1,13 @@
-## with yourself, your team, and your organization.
+---
+source_path: H06EF0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f69c178fe04326eebe02e3606665bd8cc16c956
+title: H06EF0-PDF-ENG
+---
+## unethical practices, instill pride in and commitment to the company by
 
-Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
+employees and other stakeholders and avoid ﬁnancial and reputational
 
-4
+damage before the whistle was blown. If you aspire to lead ethically and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with high purpose, you must consistently have these honest conversations

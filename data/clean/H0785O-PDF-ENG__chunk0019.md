@@ -1,13 +1,7 @@
-# sectors.
-
-In 1922 leadership was the province of the few. In 2022 we believe
-
-that anyone who wants to become a good leader can do so with the
-
-right kind of guidance. Perhaps what we’re still talking about is the
-
-“better theoretical basis for executive action” that Wallace B. Donham
-
-envisioned 100 years ago. Providing that essential insight is still what
-
-drives us. And we hope it continues to inspire you.
+---
+source_path: H0785O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af7c0e8c262d2b8fee06d110899f545221ca86b9
+title: H0785O-PDF-ENG
+---
+## the boundaries of functions, business units, organizations, and even

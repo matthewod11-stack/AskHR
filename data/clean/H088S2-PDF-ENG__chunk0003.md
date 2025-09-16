@@ -1,19 +1,25 @@
-## HBR / Digital Article / A New Model for Continuous Transformation
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca75ebd301dccbbfe08324e40925a13f9ebcbca2
+title: H088S2-PDF-ENG
+---
+# Westend61/Getty Images
 
-Typical transformation eﬀorts are organized as programs with a
+Transformation programs have become ubiquitous, with more
 
-deﬁned beginning and end, often overseen by a program management oﬃce. Rooted in a change model popularized by German American
+than one-third of large organizations engaged in some form of
 
-psychologist Kurt Lewin in the 1950s, this approach involves three
+transformation at any given time. But the conventional model that most
 
-stages: “unfreeze, change, and refreeze.” While eﬀective for discrete
+companies rely on for transformation has faltered in the wake of today’s
 
-projects like implementing a new payroll system, this model falls short
+rapidly changing business environment. Leaders need a fresh approach
 
-in today’s dynamic business environment. The continuous evolution of
+— one better suited to the continuously evolving nature of our world.
 
-the external landscape demands ongoing business transformation, with
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-no room for pausing, refreezing, and stepping away.
+1
 
-In this article, we draw on our research and experience to describe the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

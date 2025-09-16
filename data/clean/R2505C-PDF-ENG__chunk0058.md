@@ -1,7 +1,9 @@
-## entrepreneurs, employees, coaches, and more convinced that bravery
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea6bcf5485af7ce9c52be45ed803700297ac2125
+title: R2505C-PDF-ENG
+---
+# cowardly, not too reckless.
 
-is a skill that everyone in business today must learn and teach to others.
-
-We can all use these strategies to improve ourselves and to shape the
-
-beliefs and actions of the people around us. Indeed, to make progress
+I’ve come away from my hundreds of interviews with executives,

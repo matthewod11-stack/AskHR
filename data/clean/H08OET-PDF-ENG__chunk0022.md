@@ -1,13 +1,27 @@
-## HBR / Digital Article / How Costly Is a Resume Gap for Executives?
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87fb4dcca524dfb284aeb61af63f87f40574762b
+title: H08OET-PDF-ENG
+---
+## MBAs and Ivy Leaguers on average receive higher pay than their
 
-experienced ﬁrsthand the challenges of managing demands between
+counterparts from other schools, so we thought they might be
 
-private and work lives. While the data indicates proactively telling your
+inoculated from the negative impact of resume gaps. But our data found
 
-story can help, the negative impact still lingers.
+they don’t suﬀer any less from resume gaps.
 
-The shared experience of challenges beyond our control may have
+. . .
 
-ushered in a new age of empathy and openness to variety in career
+Do resume gaps still matter, or have we moved into a world where they
 
-paths, but resume gaps still matter, no matter how well we explain
+can be explained? There is truth in both these positions. Career gaps can
+
+have reasonable explanations. Since the pandemic, nearly everyone has
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

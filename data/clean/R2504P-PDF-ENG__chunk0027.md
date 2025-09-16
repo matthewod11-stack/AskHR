@@ -1,25 +1,17 @@
-## HBR / Magazine Article / Case Study: Do We Reskill or Replace Our Workforce?
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86a7881a641c664838974dd910144f2d91113d06
+title: R2504P-PDF-ENG
+---
+# change.
 
-developed, to reduce uncertainty. For instance, when we rolled out
+Second, be speciﬁc, not amorphous. Clearly communicate what the
 
-reskilling at Unilever, we showed how the procurement team could take
+program entails, including speciﬁc roles and skills that need to be
 
-on sales roles with just a little training. We focused on helping people
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-see opportunity, not threat.
+9
 
-Finally, leverage trusted internal resources. Train respected inﬂuencers
-
-in your organization, such as union representatives or experienced
-
-employees, to mentor and coach others on thinking through their career
-
-options. This approach builds trust.
-
-Though it may seem more cost-eﬀective to have external providers
-
-run reskilling courses, such partners often can’t provide the relevance
-
-and speciﬁcity needed for a company’s unique situation. Instead,
-
-organizations should leverage their existing resources and expertise to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

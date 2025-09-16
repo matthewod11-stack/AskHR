@@ -1,19 +1,27 @@
-## HBR / Digital Article / When Your Vacation Wasn’t Exactly Relaxing
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1443935da8de110c8b7eea62a1241d937fe2665
+title: H07SAC-PDF-ENG
+---
+# normal.
 
-shutting oﬀ notiﬁcations, blocking distractions, or writing in a journal
+- 4. Use the fresh start effect to set new habits and routines.
 
-each night. Seek out habits and routines that feel replenishing in
+The fresh start eﬀect is the phenomenon of increased success in
 
-your day-to-day life. You can leverage practices such as timeboxing to
+behavioral change associated with new beginnings, such as birthdays,
 
-optimize your energy for the things that matter to you.
+the new year, and other milestones. You can harness this eﬀect by using
 
-It can be tempting to try to overcompensate but don’t let remorse
+your return to work as an opportunity to reset.
 
-drive your actions. Rather think about the routines that will work
+Coming back from a vacation is a good time to establish new practices
 
-within the context of your daily life so that your habits can be
+that further enhance your energy and productivity, like exercising,
 
-sustainable. Determine what you need to do today to get back on
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-track, leave remorse out of the equation and do what you need to create
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

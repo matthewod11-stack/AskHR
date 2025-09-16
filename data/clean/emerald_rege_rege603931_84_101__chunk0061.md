@@ -1,19 +1,31 @@
-# It
+---
+source_path: emerald_rege_rege603931_84_101.md
+pages: n/a-n/a
+chunk_id: 0fec31d4ac9fbbf545342c67a12304557a23b8fb
+title: emerald_rege_rege603931_84_101
+---
+## Table VII. Dimensions of organizational commitment (Group A × Group B)
 
-is relevant
+Affective commitment 46 Instrumental commitment 88 Normative commitment 85 Notes: Obs1: MW3 represents a positive answer to commitment perception; Obs2: M⩽3 represents a negative answer to commitment perception Source: Made by the authors
 
-to highlight
+62 14 21
 
-These results corroborate several studies which suggest that organizational commitment and turnover intention are negatively correlated (Meyer and Allen, 1991; Bastos, 1993; Griffeth et al., 2000; Thatcher et al., 2003; Phillips and Connell, 2003; Carayon et al., 2006). The correlation between job satisfaction and turnover intention in various research works has been inverse and significant (Mobley, 1992; Tett and Meyer, 1993; Hellman, 1997; Du et al., 2006). The same was identified in research works with IT professionals, specifically (Gaylard et al., 2005; Joseph et al., 2007).
+94 21 32
 
-The results in this study corroborate with these findings, since the correlation between
+4 52 45
 
-general job satisfaction and turnover intention is inverse and significant (0.355**).
+6 79 68
 
-As cited before, in this study, the multidimensional vision of job satisfaction was adopted, with the intent of relating each aspect of the construct with the turnover intention, as well as its intensity. It is possible to verify this correlation among each of these aspects with turnover intention in results as shown in Table VIII.
+14 3 4
 
-The five dimensions of job satisfaction are related with the turnover intention in a negative way, but intensity is very different. The correlation among the dimensions satisfaction with the colleagues and satisfaction with the bosses and turnover intention were significant (r¼−0.092 and r¼−0.101, respectively), that is, the results tend to indicate that these types of satisfaction are not related to the intention of leaving the organization.
+54 12 15
 
-Correlation between turnover intention and demographic factors: it was verified that if there is any correlation among the demographic variables (age, gender, marital status, schooling, time in service, acting area and seniority level in occupied function) and the turnover intention in the sample, as said before, it does not emerge in literature unique standards about these correlations.
+12 23 22
 
-The results indicate that there exists only one negative correlation between age and intention to leave (−0,158*) which is significant though weak. This finding suggests that
+(cid:68)(cid:111)(cid:119)(cid:110)(cid:108)(cid:111)(cid:97)(cid:100)(cid:101)(cid:100)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:104)(cid:116)(cid:116)(cid:112)(cid:58)(cid:47)(cid:47)(cid:119)(cid:119)(cid:119)(cid:46)(cid:101)(cid:109)(cid:101)(cid:114)(cid:97)(cid:108)(cid:100)(cid:46)(cid:99)(cid:111)(cid:109)(cid:47)(cid:114)(cid:101)(cid:103)(cid:101)(cid:47)(cid:97)(cid:114)(cid:116)(cid:105)(cid:99)(cid:108)(cid:101)(cid:45)(cid:112)(cid:100)(cid:102)(cid:47)(cid:50)(cid:53)(cid:47)(cid:49)(cid:47)(cid:56)(cid:52)(cid:47)(cid:50)(cid:50)(cid:56)(cid:57)(cid:55)(cid:52)(cid:49)(cid:47)(cid:114)(cid:101)(cid:103)(cid:101)(cid:45)(cid:49)(cid:50)(cid:45)(cid:50)(cid:48)(cid:49)(cid:55)(cid:45)(cid:48)(cid:48)(cid:56)(cid:46)(cid:112)(cid:100)(cid:102)(cid:32)(cid:98)(cid:121)(cid:32)(cid:103)(cid:117)(cid:101)(cid:115)(cid:116)(cid:32)(cid:111)(cid:110)(cid:32)(cid:48)(cid:57)(cid:32)(cid:83)(cid:101)(cid:112)(cid:116)(cid:101)(cid:109)(cid:98)(cid:101)(cid:114)(cid:32)(cid:50)(cid:48)(cid:50)(cid:53)
+
+affectively committed (from 94 to 54 percent). However, it is interesting to highlight that 54 percent responders of the group who have the intention to leave demonstrate to be affectively committed. This analysis corroborates the affirmation that there are other variables, beyond that, which influences in turnover intention.
+
+In the same way, it is possible to find that there was a difference between the percent of individuals with normative commitment between the two groups (32-15 percent). Even the instrumental commitment is less present in the second group, although there is not any significant correlation identified between the variables: leaving intention and instrumental commitment.
+
+the correlation between the normative and affective commitment and turnover intention, although both are negatively associated to leaving intention, they present different consequences. Allen and Meyer (1990) suggested that the effects of normative commitment would have a shorter duration than the ones which come from affective commitment (time for paying the debts).

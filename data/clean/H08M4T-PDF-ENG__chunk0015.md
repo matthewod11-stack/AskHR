@@ -1,25 +1,13 @@
-# Tune into your energy patterns.
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69d4a010508d6772316afe15148a9e06e936a184
+title: H08M4T-PDF-ENG
+---
+## HBR / Digital Article / 7 Habits to Stay Focused in a World Full of Distractions
 
-Your attention at work has a rhythm, says Mark. Your peak focus times
+Montminy suggests keeping alternatives to your phone nearby — a
 
-are aﬀected by your chronotype, or your natural circadian rhythm.
+magazine or notepad, for instance — to satisfy your underlying need
 
-Mark’s research ﬁnds that most people have peak focus times around
-
-11 AM and mid-afternoon, though this varies depending on whether
-
-you’re an early bird or night owl. To discover your personal rhythm,
-
-keep a diary tracking your energy and concentration levels throughout
-
-the day. “The desire to scroll or check your socials is a sign of your focus
-
-starting to quiver, usually toward the end of one of your cycles,” says
-
-Montminy. Then, schedule demanding tasks during your peak cognitive
-
-hours and reserve less-complex work, like email, for when your energy
-
-dips. “Understanding and adapting to your energy ﬂuctuations helps
-
-you align your work schedule with your personal rhythm,” she says.
+for escape or stress relief. “Don’t use your device as a paciﬁer,” she says.

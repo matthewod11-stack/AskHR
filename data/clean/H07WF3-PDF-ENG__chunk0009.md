@@ -1,27 +1,15 @@
-# technology.
+---
+source_path: H07WF3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81548176d7da9c2c3db37e1bb7549a2d2e98713d
+title: H07WF3-PDF-ENG
+---
+# HBR / Digital Article / A Sports Analogy for Understanding Different Ways to Use AI
 
-Let’s start with steroids, the least desirable point on this spectrum.
+making with AI, we have come to think about these scenarios as points
 
-Steroids elevate short-term performance but leave you worse oﬀ in the
+on a spectrum and have created a sports analogy to help think about
 
-long term. For example, imagine a student who is assigned homework
+it: AI tools can range from steroids, to sneakers, to a coach, each
 
-to read and critique a passage of text. The student could use a large
-
-language model (LLM) as a steroid by simply dropping the text of the
-
-passage into ChatGPT or any similar tool, prompting it to produce such
-
-a critique, and passing the output back to the teacher. While this gives
-
-the student the ability to complete the assignment in an instant, in the
-
-long term it defeats the purpose of the exercise. Not only might the
-
-student fail to learn from the assignment, but they might never acquire
-
-(or slowly lose) the ability to critique a passage and articulate their
-
-thoughts in clear writing. Just as with sports, taking shortcuts to achieve
-
-a short-term goal can have negative consequences for other goals in the
+representing a diﬀerent relationship between human users and the

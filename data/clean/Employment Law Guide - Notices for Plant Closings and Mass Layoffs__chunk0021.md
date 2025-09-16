@@ -1,1 +1,7 @@
-# idx^Q^c=ecfr|amp;sid=e94b2dfd6265049fd654439f9f738212|amp;rgn=div5|amp;view=text|amp;node=20:3.0.2.1.25|amp;idno=20&exitTitle=www.ecfr.gov&fedpage=y
+---
+source_path: Employment Law Guide - Notices for Plant Closings and Mass Layoffs.md
+pages: n/a-n/a
+chunk_id: e15ddc1d1b80f49996df18ddc261d909b3553e1d
+title: Employment Law Guide - Notices for Plant Closings and Mass Layoffs
+---
+## exiturl=https://www.ecfr.gov/cgi/t/text/text-

@@ -1,23 +1,19 @@
-# disrespectful.
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb1d554fe9e287ef106537d393b23cf1dcad3b34
+title: H081NE-PDF-ENG
+---
+## your family, at school, in religious contexts, and then ultimately at the
 
-Now let’s consider the reverse: What if you were raised in a very ﬂat
+workplace. Now imagine that as a young adult, you work at a startup
 
-hierarchical culture where rank was downplayed, like Sweden or the
+in the U.S., where building connections with superiors is normal and
 
-Netherlands, and you end up working in China or Malaysia. Now, you
+even expected. You might ﬁnd yourself in the breakroom between
 
-likely need to show deference to your boss and patiently wait for signals
+meetings, where people are casually making small talk, laughing, and
 
-that a relationship is even an option. These signals may be indirect
+joking across seniority levels. It might be hard for you to enter the
 
-— like sharing a small personal detail or showing a small gesture of
-
-kindness — so you will have to make sure your antenna is up. In
-
-global work, paying attention to the power element will give you a
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+fray to connect with your boss; it may even feel inappropriate and

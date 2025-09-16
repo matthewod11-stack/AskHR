@@ -1,11 +1,19 @@
-## due to systematic inequities in access to resources and opportunities
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9bc7e891463ec6993e05340bfe754c601176b9ea
+title: H07NT2-PDF-ENG
+---
+## address biases during interviews and selection decisions afterward.
 
-between groups in society, members of traditionally advantaged groups
+Conversely, in organizations that have a history of selecting mostly
 
-are disproportionately likely to attend prestigious undergraduate
+members of advantaged social groups (e.g., men, white people) for
 
-universities, secure sought-after internships, and achieve a post-
+interviews, using blind hiring at the initial screening stage could help.
 
-graduate (e.g., master’s) degree. Thus, if the job being hired for is one
+Question 2: Is the job in question one where being from an advantaged group predicts having the preferred credentials?
 
-where people with fancy credentials are especially likely to be selected
+Blind hiring blocks unconscious biases by ensuring that decisions
+
+about whom to interview are based on credentials alone. However,

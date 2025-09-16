@@ -1,9 +1,23 @@
-# JT
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c4dddf4e6c9966355dbb2ae3123b2017b01a296
+title: R2402M-PDF-ENG
+---
+# global corporation. How do cultural and operational differences impact strategy implementation?
 
-Jorge Tamayo is an assistant professor in the Strategy Unit at Harvard Business School.
+- 4. During the Cold War many South American unions were involved in
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+political movements, some of which were violently repressed. What role might historical distrust in the region play in determining the union’s postures in the negotiation with Luna?
 
-8
+- 5. Sequencing is important to dealmaking. One approach is to tackle
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+major issues first. Alternatively, starting with simpler matters may build momentum and trust.
+
+- 6. Savvy negotiators seek to understand each party’s best alternative to a
+
+negotiated agreement (BATNA), which helps dictate how aggressive they can be. Sometimes, however, a counterparty’s BATNA is not clear.
+
+HBR’s fictionalized case studies present problems faced by leaders in real companies and offer solutions from experts. This one is based on the HBS Case Study “Toyota and Its Labor Union in Argentina (A)” by Jorge Tamayo, Erik Snowberg, and Jenyfeer Martínez Buitrago.
+
+A version of this article appeared in the March–April 2024 issue of Harvard Business Review.

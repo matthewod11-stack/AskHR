@@ -1,3 +1,11 @@
-# PAI
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 240b840aa7eb354d634685bd3f172fda21995aa5
+title: untitled
+---
+# 286 Assessment Psychology
 
-The last of these six self-report questionnaires to become instruments is the Personality well-known assessment Assessment Inventory developed by Leslie Morey (1991, 1996). The PAI is intended to provide information relevant to clinical diagnosis, treatment planning, and screening for is closely adult psychopathology, and in this respect modeled after the MMPI. Drawing on methodology used in constructing other inventories, however, Morey formu- lated his scales in terms of theoretical constructs and used rational as well as quantitative criteria in selecting his items. The PAI clinical scales are primarily symptom- oriented and, as in the case of the MMPI, more likely to as- sist in Axis I than Axis II diagnosis. In addition, however, the PAI features several scales directly related to aspects of treatment planning.
+various factor analyses of personality test and rating scale data that recurrently identiﬁed four to six factors to which individual differences in personality could be attributed (see Digman, 1990). Selecting self-report items related to their preferred ﬁve-factor formulation, Costa and McCrae developed a questionnaire that yields scores along ﬁve trait dimensions, which they called “domain scales”: neuroticism, extraversion, openness, agreeableness, and conscientious- ness. Their effort resulted in the 1985 publication of the NEO Personality Inventory, currently available in revised form as the NEO PI-R (Costa & McCrae, 1992).
+
+Like the 16-PF, the NEO PI-R was intended as a measure of normal personality characteristics but has proved useful in evaluating personality problems in disturbed persons (see Piedmont, 1998). Although time has yet to tell how the NEO PR-I will eventually fare with respect to its frequency of use, there is already an extensive literature on the Five Factor Model to suggest that it will become well-established assess- ment instrument.

@@ -1,13 +1,17 @@
-# 10 common STAR interview questions:
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5de8bbade58182b08f4532707a28d5d2a943aeaa
+title: H08GNF-PDF-ENG
+---
+## How to Use the STAR Framework in Your Next Interview
 
-- 1. Tell me about a high-pressure situation that you had to de-escalate.
+Follow these ﬁve steps to put the STAR interview method into action:
 
-- 2. Tell me about a time when you had to align stakeholders with
+- 1. Review common STAR interview questions and prepare at least two answers for each one. Since you will most likely be interviewing with multiple people, it
 
-varying opinions toward one goal.
+is important not to tell the same story to each interviewer. Prepare
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+at least two answers for these 10 common STAR interview questions,
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+highlighting both your hard and soft skills.

@@ -1,9 +1,13 @@
-# inúmeros instrumentos de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: f04a618273c2dbd3cd42fa7013a23d2415a68ae3
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## O problema reside em como mensurar construtos tão abstratos como
 
-pesquisa organizacional provêm do campo da psicometria - que une a psicologia
+engajamento e satisfação e, ainda, o fazer de maneira frequente a fim de evitar
 
-com a estatística - para mensurar traços latentes ou variáveis não observáveis como
+surpresas como a perda de empregados importantes para a organização (SOUZA;
 
-são o engajamento e a satisfação. Porém estes instrumentos são, em sua maioria,
-
-complexos e de difícil aplicação pela área de gestão de pessoas das organizações,
+ALEXANDRE; GUIRARDELLO, 2017). Neste sentido,

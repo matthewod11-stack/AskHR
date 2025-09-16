@@ -1,3 +1,9 @@
-# The Idealist Tradition
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 99b72386bc3e03c72131e266b7ecb5f437fd7cdb
+title: untitled
+---
+# The Realist Tradition
 
-Another diagnosis and remedy for skepticism was offered in Germany by Immanuel Kant (1724–1804), who, like Reid, found Hume’s ideas intolerable because they made genuine knowledge unreachable. Reid located Hume’s error in the Way of Ideas, abandoning it for a realist analysis of cognition. Kant, on the other hand, located Hume’s error in empiricism and elaborated a new version of the Way of Ideas that located truth inside the mind. Empiricists taught that ideas reﬂect, in Locke’s phrase, “things themselves,” the mind conforming it- self to objects that impress (Hume’s term) themselves upon it. But for Kant, skepticism deconstructed empiricism. The as- sumption that mind reﬂects reality is but an assumption, and once this assumption is revealed—by Berkeley and Hume— the ground of true knowledge disappears.
+Hume’s fellow Scottish philosophers, led by Thomas Reid (1710–1796), offered one diagnosis and remedy. Berkeley and Hume challenged common sense, suggesting that exter- nal objects do not exist, or, if they do, we cannot know them or causal relationships among them with any certainty. Reid defended common sense against philosophy, arguing that the Way of Ideas had led philosophers into a sort of madness. Reid reasserted and reworked the older realist tradition. We see objects themselves, not inner representations of them. Because we perceive the world directly, we may dismiss Berkeley’s immaterialism and Hume’s skepticism as absurd consequences of a mistaken notion, the Way of Ideas. Reid also defended a form of nativism. God made us, endowing us with mental powers—faculties—upon which we can rely to deliver accurate information about the outside world and its operations.

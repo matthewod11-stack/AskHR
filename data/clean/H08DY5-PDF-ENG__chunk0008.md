@@ -1,19 +1,25 @@
-# HBR / Digital Article / How Companies Can Use AI to Better Serve Deaf and Hard-of-H…
+---
+source_path: H08DY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb194fe49148fa997cf154ab59ec926209001537
+title: H08DY5-PDF-ENG
+---
+## For more than three decades, the Americans with Disabilities Act
 
-equitable communications remains as relevant a guiding force as ever, a
+(ADA) has served a critical role in advancing accessible and equitable
 
-beacon illuminating a path toward accessibility in our AI-driven world.
+communications for deaf and hard of hearing individuals. The
 
-The past few years have been transformational for deaf and hard
+ADA has expanded the required use of sign language interpreters,
 
-of hearing people’s access to communications technologies. Systems
+mandated closed captioning on television, and has compelled access
 
-built with and powered by AI now deliver real-time translation using
+to telecommunications systems. While the ADA was passed long before
 
-automated speech recognition technology to seamlessly convert speech
+today’s advanced technologies, its prescient call 34 years ago for
 
-to text. There are additional emerging innovations that have the
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-potential to automate speech to sign language translation facilitated
+1
 
-by AI-powered digital avatars. However, these advances come with real
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

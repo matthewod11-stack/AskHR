@@ -1,9 +1,9 @@
-# Limitations and future research
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 334d00be4cde965a7d80a53badaac941e2de2aa9
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+## Impact of inclusiveleadershipon employeeinnovativebehavior
 
-Several limitations of this study should be mentioned. While mentioning the study’s limita- tions, we simultaneously suggested directions for future research. The first limitation was that the sample size from one organization is small, which may reduce generalization, thus limiting the use of results pertaining to significant relationships. The current findings may provide con- servative estimates of hypotheses testing, suggesting potentially stronger effects in industries where innovation are much higher (e.g., technology). Future research could advance our knowledge by replicating this study’s results across diverse industries using a larger sample size.
-
-Second, the current study explored only one mechanism between inclusive leadership and
-
-employee innovative behavior, although other mechanisms may exist (e.g., psychological empowerment). Furthermore, it could be helpful investigate boundary conditions that might influence the relationship between inclusive leadership and innovation. Future research could examine other types of employee performance such as task performance.
-
-Supporting information
+engage in more innovative behavior. Our findings suggested that inclusive leadership was a driver of employee innovative behavior.

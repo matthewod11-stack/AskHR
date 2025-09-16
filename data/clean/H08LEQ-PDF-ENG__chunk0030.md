@@ -1,13 +1,7 @@
-## information as audio signals, visual data, and sensor inputs from
-
-production processes. Audio signals might include the sound a
-
-component makes as it is installed. Sensors may report the weight and
-
-temperature of parts made to very precise speciﬁcations. The amount of
-
-data is enormous: at one plant, the equivalent of more than 40 million
-
-sheets of paper per day. Self-optimizing algorithms synthesize the data,
-
-enabling production personnel to monitor the health of equipment,
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6452970368f6aabfee46ac1a033edcf2fd71adf
+title: H08LEQ-PDF-ENG
+---
+## process. Multimodal technology collects and analyzes such disparate

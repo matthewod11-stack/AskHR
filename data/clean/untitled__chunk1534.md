@@ -1,5 +1,7 @@
-# feminist
-
-Ader, D. N., & Johnson, S. B. (1994). Sample description, reporting and analysis of sex in psychological research: Alook at APAand APAdivision journals in 1990. American Psychologist, 49, 216– 218.
-
-Allport, G. W. (1954). The nature of prejudice. Cambridge, MA:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: eb2e7ffb2a6c9641d0aa50679c6c6b84d30189bd
+title: untitled
+---
+## Williams (Ed.), Voices of Belgium: Harwood.

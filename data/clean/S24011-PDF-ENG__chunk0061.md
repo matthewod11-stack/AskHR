@@ -1,13 +1,15 @@
-# situation.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1764a3dfc1d31257e533bbad4157e8942cc36e68
+title: S24011-PDF-ENG
+---
+## Purpose Energy: Committed to a Noble Cause
 
-- 3. Embark on a hero’s journey. Craft a compelling vision that inspires
+- 1. Appeal to values and purpose. Discover and understand people’s dearly
 
-people to pursue a goal despite tough challenges.
+held values and purpose and then tie them to what you’re seeking.
 
-- 4. Push, pull, pause, pivot. When you run into resistance, find a way to
+- 2. Reaffirm and reexpress. When facing an unexpected change or a
 
-move forward by refining your idea and then presenting it again; shelving
-
-it if the costs are too high; waiting for changes that might renew interest
-
-in it; or reimagining it altogether.
+setback, find a way to reapply your core values and purpose to the new

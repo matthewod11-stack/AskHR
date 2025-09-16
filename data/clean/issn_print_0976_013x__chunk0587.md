@@ -1,7 +1,11 @@
-## Thoughts, 1 (3), 1-11, http://www.ijcrt.org/papers/IJCRT0000069.pdf
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 652dc920c38ffc72b6e84f811eb3009db427554b
+title: issn_print_0976_013x
+---
+# content/uploads/2014/09/bhuvaneswari.pdf
 
-Costas, J. (2012). “We are all friends here” reinforcing paradoxes of normative control in a
+Chaudhary A.K., Jain N. (2013). A comparative study of organizational culture among public,
 
-culture of friendship. Journal of Management Inquiry, 21(4), 377-395.
-
-Essawi, M., and Tilchin, O. (2011). A collaborative work system for complex adaptive
+deemed and private universities of Rajasthan. International Journal of Creative Research

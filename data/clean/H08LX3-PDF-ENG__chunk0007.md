@@ -1,11 +1,7 @@
-# From Remote Work to Full Distribution
-
-While many organizations are still debating hybrid work policies,
-
-some companies are embracing an even more radical approach:
-
-fully distributed teams working within a decentralized autonomous
-
-organization (DAO). In this model, there’s no central oﬃce or traditional
-
-management hierarchy. Instead, decisions are made through smart contracts and collective governance. Think of it as the diﬀerence
+---
+source_path: H08LX3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57a00a51acfbb960a2b2203d89739db4bee10276
+title: H08LX3-PDF-ENG
+---
+## encourage connection in their dispersed teams.

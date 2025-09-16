@@ -1,17 +1,29 @@
-## How to Harness Different Kinds of Thinking
+---
+source_path: H07MHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7278cce025bb031f1ce870d2aa53d2e2710641d3
+title: H07MHV-PDF-ENG
+---
+## psychologist Anita Williams Woolley and her colleagues at Harvard and
 
-First, business leaders and policy makers need to encourage schools to
+Stanford undertook a study in which they asked object visualizers and
 
-address the fact that visual thinkers who cannot sit still or cannot do
+spatial visualizers to navigate a Pac Man–style virtual maze. Some of the
 
-abstract math, such as algebra, are screened out of the U.S. educational
+teams were pairs of same-style thinkers, others were diﬀerent thinkers.
 
-system. Thomas Edison was at the bottom of his class and described
+The research found that the teams of mixed thinkers outperformed the
 
-as “addled” by a teacher. His mother took him out of the classroom
+homogenous teams. When the teams were mixed, the visual spatial
 
-to be homeschooled. Today, Edison might have been diagnosed with
+thinkers tended to work the joystick and the object visualizer zapped
 
-ADHD, as are nearly one in seven American boys who appear bored in
+the greebles. The homogenous groups tended to spend more time in
 
-the classroom and get labeled “disruptive.” These kids need to be doing
+conversations that didn’t lead to results. (If you have been in one of
+
+those endless company meetings where nothing gets resolved, this may
+
+ring familiar.) It turns out that great minds that do not think alike are
+
+more likely to yield towering innovations.

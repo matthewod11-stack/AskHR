@@ -1,19 +1,35 @@
-# the firm.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: ae40073bdd7892f04886d24ca7600bd6e26838d6
+title: issn_print_0976_013x
+---
+## the circular economy (CE) (Cullen and De Angelis, 2021).
 
-According to Wiklund and Shepherd's (2005) assertion, there needs to be more examination
+The concept of a circular economy (CE) can be summed up in the expression "reduce, reuse, and
 
-regarding the correlation between a company's resources (VRI) and its organization (O) in
+recycle," which aims to strike a balance between promoting economic development and
 
-elucidating its performance within the context of the VRIO terminology. They propose that more
+preserving the natural environment. It attempts to circumvent the inherent flaws of a straight
 
-research should be done on the correlation because there are signs that managerial decisions
+business model, defined as "take, make, use, and dispose of" (EC, 2015). We need to move
 
-can affect how the firm's resources are used in response to changes in the environment and new
+toward a new "circular" paradigm based on reducing, reusing, and recycling resources. This
 
-opportunities. Entrepreneurial Orientation (EO) is an essential metric for organizations because
+approach facilitates the closure of the loop in economic systems, thereby generating
 
-it can increase the firm's resources by focusing the attention of top-level managers on the best
+environmental and economic advantages across various levels of analysis, as stated by EC (2015)
 
-way to use resources to find and take advantage of opportunities.
+(EEA, 2016). At the organizational level, the implementation of Circular practices (CP) is facilitated
 
-18
+by various behaviors, such as the prioritization of regenerative resources, the conversion and
+
+elimination of waste, the design of durable and reassembled products, and the integration of
+
+products and services in 'product-service-systems' (PSS). These practices offer significant
+
+opportunities for cost savings and revenue generation (Stahel, 2013). To use the CE framework,
+
+businesses need to make significant changes to their strategies and develop entrepreneurial skills
+
+in crucial areas (Tura et al., 2019). This article employs the resource-based view (RBV) theory of

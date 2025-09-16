@@ -1,27 +1,13 @@
-## of a professional success story, organizations should formally and
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58e82be4f25c6a5b01200fc0fb91b7a24ea6cde8
+title: H07268-PDF-ENG
+---
+## HBR / Digital Article / Office Politics Don’t Have to Be Toxic
 
-informally encourage employees who have “made it” to share their
+- 5. Share success stories.
 
-stories — and emphasize examples of times when they beneﬁted from
+It’s easy to look past the details of the journey once someone has
 
-a helping hand, or leveraged inside information and relationships to get ahead or be more eﬀective in their roles. Publicly sharing these
-
-experiences helps employees at any level envision a path forward for
-
-themselves in which politics plays a positive role.
-
-Oﬃce politics has long served as a mechanism for exclusion — but it
-
-doesn’t have to. While the negative impact of toxic politics on ethnic
-
-minorities and women in the workplace is well known, our research
-
-shows that it is possible to build inclusive political cultures, in which
-
-politics are instead leveraged for common good. With a thoughtful,
-
-inclusive approach, organizations can help all their employees engage
-
-and reap the beneﬁts of oﬃce politics.
-
-This article was originally published online on May 30, 2022.
+made it to the top. To normalize politics as a typical component

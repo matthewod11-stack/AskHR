@@ -1,11 +1,31 @@
-# sustainability goals.
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9684503447fa95f326136b614c8e92242b3f10de
+title: H08NX0-PDF-ENG
+---
+# and innovation.
 
-The key isn’t just running experiments—it’s creating systems that
+Starbucks’ Tryer Center exempliﬁes this mindset. The innovation lab
 
-can quickly scale successful tests while learning from failures.
+was created in 2018 to serve as a rapid prototyping facility where teams
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+can quickly test new product ideas, service concepts, and store designs.
 
-5
+More importantly, it embodies a culture where experimentation is
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+expected and iteration is constant. Since the pandemic, the Tryer
+
+Center has been focused on rebuilding the in-store experience to meet
+
+increasing customer demands from mobile ordering while also making
+
+it an easier place to work. More recently, Starbucks developed more
+
+sustainable cold cups, designed speciﬁcally to use 10–20% less plastic
+
+while maintaining durability. Ideas like this move from concept to
+
+testing in days rather than months, allowing the company to respond
+
+quickly to changing customer preferences, market conditions, and

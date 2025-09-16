@@ -1,9 +1,13 @@
-## face: Connect with people for short times with no agenda except to
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8da2911b32dd85b5dc1c393f3247b0e6d16f1244
+title: H08Q8O-PDF-ENG
+---
+# leaders and relationships.
 
-be in touch with them, see how they are doing, signal that you care
+Companies can also do more to foster relational proximity in the
 
-about them. We have heard about startups creating Discord rooms for their remote employees in order to replicate the coﬀee machines and
+virtual space. Managers working with a hybrid or remote team need
 
-watercoolers where they would chat with their colleagues. But you
-
-could also simply use WhatsApp, Slack, or Team channels to catch up
+to do intentionally through technology what comes for free face-to-

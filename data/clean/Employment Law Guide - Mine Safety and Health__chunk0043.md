@@ -1,5 +1,11 @@
-# requirements for mine operators.
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: ab1c808057192556b7fff741bae9a10499f6fa09
+title: Employment Law Guide - Mine Safety and Health
+---
+# Notices and Posters
 
-Section 101(e) of the Mine Act requires that MSHA send a copy of every proposed mandatory health or safety
+Unlike the Occupational Safety and Health Act of 1970, there is no workplace poster requirement which
 
-standard or regulation at the time of publication in the Federal Register to the operator of each mine and the representative of the miners at such mine and that the mine operator immediately post the standard or
+informs miners of their rights under the Mine Act. However, the Mine Act includes the following posting

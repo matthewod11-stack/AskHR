@@ -1,41 +1,15 @@
-# Hubel admits.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef9d614712f4e76efa7a660298231424a0697ed0
+title: R2006F-PDF-ENG
+---
+## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-To get some agreement on quality standards, the engineering teams
+who oversaw the ﬁrmware and algorithm teams. Sebastien Marineau-
 
-invited senior design and marketing leaders to meet, ﬁguring that
+Mes, the VP to whom the camera software team ultimately reported,
 
-they would oﬀer a new perspective. The design leaders brought an
+decided to defer the release of the feature until the following year to give
 
-additional artistic sensibility to the debate, asking, “What makes a
-
-beautiful portrait?” To help reassess the zero-artifacts standard, they
-
-collected images from great portrait photographers. They noted, among
-
-other things, that these photos often had blurring at the edges of a face
-
-but sharpness on the eyes. So they charged the algorithm teams with
-
-achieving the same eﬀect. When the teams succeeded, they knew they
-
-had an acceptable standard.
-
-Another issue that emerged was the ability to preview a portrait photo
-
-with a blurred background. The camera team had designed the feature
-
-so that users could see its eﬀect on their photos only after they had been
-
-taken, but the human interface (HI) design team pushed back, insisting
-
-that users should be able to see a “live preview” and get some guidance
-
-about how to make adjustments before taking the photo. Johnnie
-
-Manzari, a member of the HI team, gave the camera team a demo.
-
-“When we saw the demo, we realized that this is what we needed to do,”
-
-Townsend told us. The members of his camera hardware team weren’t sure they could do it, but diﬃculty was not an acceptable excuse for
-
-failing to deliver what would clearly be a superior user experience. After
+the team time to better address failure cases—“a hard pill to swallow,”

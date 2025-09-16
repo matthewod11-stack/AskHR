@@ -1,7 +1,9 @@
-# Javier, Alfonso & Luis 65
+---
+source_path: microsoft_word_5_docx.md
+pages: n/a-n/a
+chunk_id: f91bf18f53cde959d4558e792bd0ac5619cc03fd
+title: microsoft_word_5_docx
+---
+## Revista A puntes de E ducación Física, 57, 68-76.
 
-O`Reilly, C., Caldwell, D., Chatman, J., Lapiz, M. & Self, W. (2010). How leadership matters: The effects of leaders alignment on strategy implementation. The L eadership Quartely,
-
-21(1), 104-113.
-
-Pearce, C. L. & Conger, J. A. (2003). Shared leadership. Reframing the hows and whys of
+Morgeson, F. P., Scott, D. & Karem, E. P. (2010). Leadership in teams a functional approach to understanding leadership structures and processes. Journal of M anagement, 36(1), 5- 39.

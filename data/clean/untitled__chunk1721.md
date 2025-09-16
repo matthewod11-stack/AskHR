@@ -1,5 +1,7 @@
-# References
-
-Hiller, J. B., Rosenthal, R., Bornstein, R. F., Berry, D. T. R., & Brunell-Neuleib, S. (1999). A comparative meta-analysis of Rorschach and MMPI validity. Psychological Assessment, 11, 278–296.
-
-Holland, J. L. (1953). Manual for the Vocational Preference Inven-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c8bbad2a549ee19aeacdf83a53dce3dfa7653c80
+title: untitled
+---
+## assessment. New York: Kluwer Academic/Plenum.

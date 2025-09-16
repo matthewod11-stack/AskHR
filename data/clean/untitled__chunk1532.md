@@ -1,3 +1,17 @@
-# REFERENCES
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8e34f88c1e5ec03852e51519d2517de9efec39c0
+title: untitled
+---
+# CONCLUSION
 
-Adelman, J. (1995). Looking backward, moving forward. In E. F. therapy. Luxembourg
+Has the psychology of women and gender signiﬁcantly al- tered the ﬁeld of psychology? With regard to psychological knowledge, some see fundamental transformations (e.g., Worell & Johnson, 1997). Others argue that only weakened, nonthreatening versions of feminist ideas have been assimi- lated into the ﬁeld as a whole (e.g., Burman, 1997). We argue that although the alliance between psychology and feminism has been uneasy, feminism has put on the table for psychol- ogy a number of provocative problems and challenges. To varying degrees, it has changed the ﬁeld with respect to them. Feminist researchers have put forth a strong claim that gender is an important constituent of social life. They have contested certain technologies of research, some key epistemological assumptions, and the ethics of certain research practices. To us, the importance of feminist psychology is not that it can correct the omissions and biases of mainstream psychology and produce objective truths. That is impossible. Rather, fem- inist psychology can serve to help all psychologists become more self-aware of their perspectives, politics, and practices and to ask how these shape the production of knowledge.
+
+Feminists in clinical practice have offered new perspec- tives on disorders of women and new ideas about the conduct of therapy. They have protested ﬂawed diagnostic and treat- ment practices, ethical breaches, and outmoded theoretical constructs. Sometimes these protests have succeeded in pro- voking change. Even when they did not succeed, they raised awareness that policies and practices in the mental health ﬁeld are not the outcome of a pristine and unassailable
+
+scientiﬁc consensus but rather a concatenation of scientiﬁc evidence, popular beliefs, and the vested interests of many parties.
+
+Conditions for women faculty members, students, and therapists have improved vastly since 1970, in large part be- cause of feminist activism. Knowledge about women and gender is now available to students of psychology at both un- dergraduate and graduate levels. Moreover, with barriers to women’s participation removed by the federal legisla- tion of the 1970s, women were soon enrolling in psy- chology graduate programs in large numbers. In 1971, women were awarded fewer than 25 percent of doctorates in psychology; by 1999, they received 66 percent. Furthermore, many women have attained recognition for their academic accomplishments—they are professors, department chairs, program directors, and editors of journals. Many now have inﬂuence in the publication process, as well as the awarding of tenure and promotion, grants, and awards. Only two women held the presidency of APAfrom its inception in 1892 up to 1970; ﬁve women have held the presidency since 1970. (Mary Calkins held the presidency in 1905; Margaret Wash- burn, in 1921. The ﬁve recent women presidents are Florence Denmark, Janet Spence, Bonnie Strickland, Dorothy Cantor, and Norine G. Johnson.) Many other women have held posi- tions on boards and committees and been elected to ofﬁces in divisions. All these developments signal substantial changes in psychology as a whole over the past 30 years.
+
+At its best, feminist psychology has generative capacity: It challenges the guiding assumptions of the culture, raises fundamental questions about social life, and provokes the reexamination of what is taken for granted. By viewing the knowledge, methods, and practices of psychology with a crit- ical eye, feminist psychologists have provided generative theory for the discipline. Their work incites debate, offers new forms of social action, and ultimately can help to trans- form social reality. Psychology has beneﬁted from feminist psychology.

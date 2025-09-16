@@ -1,5 +1,15 @@
-# Princeton, Princeton University Press.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 6b957a27ade2079820b2fecac416ba4ac49d39a3
+title: behavioral_economics_1
+---
+# University of Chicago.
 
-Berridge, K. C. and T. E. Robinson (2003). "Parsing Reward." Trends in Neurosciences 26(9): 507-513.
+Bernheim, B. D. and A. Rangel (2004). "Addiction and cue-triggered decision processes." American Economic
 
-Bertrand, M. and S. Mullainathan (2001). "Are CEOs Rewarded for Luck? The Ones Without Principals Are."
+Review 94(5): 1558-1590.
+
+Bernheim, B. D. and A. Rangel (2005). Behavioral Public Economics: Welfare and Policy Analysis With
+
+Fallible Decision-Makers. Economic Institutions and Behavioral Economics. P. Diamond and H. Vartiainen.

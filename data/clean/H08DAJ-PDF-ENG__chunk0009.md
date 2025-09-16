@@ -1,27 +1,23 @@
-## The Interpersonal Costs of Decision Delegation
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ab5fcce7793262ce089e101dc6353eeb1e364ed
+title: H08DAJ-PDF-ENG
+---
+## relationship — as well as potential remedies for the negative impacts of
 
-To better understand how delegation impacts employees’ desire to
+passing responsibility.
 
-work with delegators in the future, we asked 181 employees to recall a
+Across our studies, which included 2,478 U.S. participants in a mix
 
-time they had either been asked to make a decision or been asked for
+of controlled experiments and surveys, we found that delegating
 
-advice. Then we asked participants how willing they would be to help
+decision-making responsibilities, compared with asking employees for
 
-the requester with a decision in the future. Those who recalled being
+advice and maintaining decision-making responsibility, had signiﬁcant
 
-delegated to were less willing to help the same person with a future
+interpersonal costs for delegators. But we also found material ways
 
-decision – even controlling for whether the outcome of the decision was
+that managers can alter how and when they delegate decisions, so that
 
-likely to be positive or negative.
-
-In another study of 195 participants, we asked people to decide between
-
-two candidates for a managerial role, but ﬁrst they interacted with the
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+employees feel empowered rather than burdened.

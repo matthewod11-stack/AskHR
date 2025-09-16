@@ -1,13 +1,7 @@
-## and related decisions such as ICP deﬁnition, market and account
-
-segmentation, coverage, and territory design. In these organizations,
-
-the CRO’s role focuses on commercial execution, people management
-
-and driving change management, whereas the rev ops remit is centered
-
-on determining and executing commercial strategy and initiatives.
-
-In uncertain times, the temptation to make sweeping changes can
-
-be strong. But when it comes to your CRO, our data suggests that
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa7738ff59c4dda11e87a4340b720b701423bf5d
+title: H08FE6-PDF-ENG
+---
+## operations leader with tremendous authority over the GTM strategy

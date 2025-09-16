@@ -1,9 +1,19 @@
-# RK
+---
+source_path: H07YJT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a15db33676a0dba3b29a739591ff9f21bd1c797
+title: H07YJT-PDF-ENG
+---
+# their input.
 
-Rebecca Knight is a journalist who writes about all things related to the changing nature of careers and the workplace. Her essays and reported stories have been featured in The Boston Globe, Business Insider, The New York Times, BBC, and The Christian Science Monitor. She was shortlisted as a Reuters Institute Fellow at Oxford University in 2023. Earlier in her career, she spent a decade as an editor and reporter at the Financial Times in New York, London, and Boston.
+- Blame your employee for factors beyond their control. Instead,
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+adopt a coaching role that balances recognizing achievements with
 
-7
+highlighting areas for improvement.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- End the conversation on a sour note. Show gratitude for their hard
+
+work and remind them of why they are valued.
+
+This article was originally published online on December 20, 2023.

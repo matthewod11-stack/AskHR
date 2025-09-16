@@ -1,13 +1,19 @@
-# Psychologist, 10, 191–198.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bab8973d24a37feca7b1457451025ae5dddfa662
+title: untitled
+---
+# Wiley.
 
-Danziger, K. (1990). Constructing the subject: Historical origins of psychological research. New York: Cambridge University Press.
+Capshew, J. H. (1999). Psychologists on the march: Science, practice and professional identity in America, 1929–1969. Cambridge, England: Cambridge University Press.
 
-Danziger, K. (1992). The project of an experimental social psychol- ogy: historical perspectives. Science in Context, 5, 309–328.
+Carson, J. (1999). Minding matter/mattering mind: Knowledge and the subject in nineteenth-century psychology. Studies in History and Philosophy of Biological and Biomedical Sciences, 30(3), 345–376.
 
-Danziger, K. (2000). Making social psychology experimental: A conceptual history, 1920–1970. Journal of the History of the Behavioral Sciences, 36(4), 329–347.
+Clark, K. (1966a). The civil rights movement: Momentum and organization. In T. Parsons & K. B. Clark (Eds.), The American Negro (pp. 595–625). Cambridge, MA: Houghton Mifﬂin.
 
-Darley, J., & Latane, B. (1968). Bystander intervention in emergen- cies: Diffusion of responsibility. Journal of Personality and Social Psychology, 8, 377–383.
+Clark, K. (1966b). Introduction: The dilemma of power. In T. Parsons & K. B. Clark (Eds.), The American Negro (pp. xi– xxviii). Cambridge, MA: Houghton Mifﬂin.
 
-de Beauvoir, S. (1952). The second sex. New York: Vintage Books.
+Collier, G., Minton, H. L., & Reynolds, G. (1991). Currents of thought in American social psychology. New York: Oxford University Press.
 
-Dell, F. (1926). Intellectual vagabondage: An apology for the intel-
+Crutchﬁeld, R. S. (1955). Conformity and character. American

@@ -1,13 +1,41 @@
-# Redefine Ambition
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2dbc5dc84903b3b33795c342d55bba7d5a510534
+title: H080JA-PDF-ENG
+---
+## HBR / Digital Article / It’s Time to Redefine Our Gendered Idea of “Ambition”
 
-What does ambition look like? When we ask our clients about their
+A case in point: We coach a woman whose colleague recently told her,
 
-ambition, they say they strive to set and achieve challenging goals,
+“I realize you never talk about your kids, and that’s really cool.” The
 
-exceed their own and others’ expectations, and pursue leadership roles
+comment hit our client like a ton of bricks. She realized that, in order
 
-that connect them to the power and resources to drive change. A black-
+to succeed at work, she had calculated that it was easier to connect with
 
-and-white approach to ambition, which measures it in terms of time
+her colleagues if she didn’t talk about her children — a realization that
 
-and intensity while ignoring women’s wider context, will simply fail to
+shocked her.
+
+They offer high-quality feedback.
+
+Women tend to receive less actionable feedback than men from their
+
+supervisors. Less direction from managers means fewer opportunities
+
+to learn, which can sap work of dynamic growth opportunities. As one
+
+of our clients recently told us, “I see feedback as an investment in me,
+
+because my manager sees the potential for me to grow. They’re giving
+
+me feedback because they see that I can do something with it.” Robust
+
+feedback allows women to grow within their roles, even if they have
+
+temporarily stepped oﬀ the promotion track. It is a crucial retention
+
+tool for managers who want to encourage high-performing women with
+
+beneﬁts that are not only practical but psychological.

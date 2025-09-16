@@ -1,3 +1,9 @@
-# Discussion
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: 677557338ee936da78f502be894cd27fc0a12481
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# Roberson and Perry
 
-Based ontheoryand research to understand inclusive leadership behaviors, we adopt a complementary approach to explore how leaders do sensemaking about the concept and enactment of behaviors to create inclusive work en- vironments. In particular, we analyzed leaders’ deﬁnitions of inclusive leadership and accounts of their actions to demonstrate inclusive leadership in their roles. This approach enabled us to both explore current inclusive leadership themes within our data and broaden the range of behaviors that might be studied under this approach to leadership. Although our data proved more challenging to analyze than those typically generated in quantitative research, we were able to study unobtrusive indicators of inclusive leadership from leaders themselves. Accordingly, we were afforded insight into their interpretation patterns for inclusiveleadership andoffer a different perspective on the phenomenon. We summarize our key ﬁndings below and place them in context within the inclusion and leadership literatures. We also consider the limitations of our work and offer directions for theory, research, and practice.
+respondents described engaging in behaviors to reduce communication barriers, facilitate open communication, and provide everyone with an op- portunity to provide input. Themes related to allocating time to demonstrate inclusiveness through various approaches, such as one-on-one staff meetings or team review and feedback sessions, also emerged. Based on a hierarchy chart of these second-order themes, our third coder was able to collapse them into four distant aggregate themes: communication, diverse human resource management, person-role ﬁt, and agency. The derivation of these aggregate themes is presented in Figure 2.

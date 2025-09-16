@@ -1,19 +1,21 @@
-## American Association for Applied Psychology established
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7392982872297f659cf99aa100554688574680c4
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Division 14 renamed Society for Industrial and Organizational Psychology (SIOP)
 
-1990
+First Ph.D. in I/O psychology awarded to Bruce Moore and Merrill Ream at Carnegie Tech
 
-Americans with Disabilities Act passed. SIOP membership exceeds 2,500
+1986
 
-Society for Industrial and Business Psychology established as Division 14 of APA with 130 members
+Society for Industrial and Organizational Psychology (SIOP) holds fi rst annual national conference separate from APA meeting
 
-1991
+First I/O text written by Morris Viteles
 
-Civil Rights Act of 1991 passed to overcome 1989 conservative Supreme Court decisions
+Hawthorne studies published
 
-Marion Bills elected as fi rst woman president of Division 14
+1989
 
-1997
-
-SIOP celebrates golden anniversary at its annual conference in St. Louis
-
-Division 14 renamed as Society for Industrial Psychology, membership exceeds 700
+Supreme Court sets conservative trend and becomes more “employer friendly”

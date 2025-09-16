@@ -1,13 +1,11 @@
-# y g o l o n h c e T n i
+---
+source_path: 4th_international_conference_on_innovative_practices_in_technology_and_managemen.md
+pages: n/a-n/a
+chunk_id: afc227908286c02b6a67bcc22a2b7d7a9a400f5a
+title: 4th_international_conference_on_innovative_practices_in_technology_and_managemen
+---
+# M T P I C
 
-s e c i t c a r P e v i t a v o n n I
+I (
 
-n o
-
-e c n e r e f n o C
-
-l a n o i t a n r e t n I
-
-h t 4
-
-4 2 0 2
+t n e m e g a n a M d n a

@@ -1,7 +1,13 @@
-# and personal ﬁnances.
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e6f99bff33ae689181657abb0d656ecfcef8c45
+title: H08RTF-PDF-ENG
+---
+## survey from the workplace wellness consultancy Mind Share Partners
 
-As a leader, you’re likely feeling it, too: A 2024 Businessolver survey
+in partnership with Qualtrics of over 1,100 U.S. employees found that
 
-of 3,000 CEOs, HR professionals, and employees found that 55% of
+90% of participants reported “at least minor levels of one mental health
 
-CEOs reported experiencing a mental health issue (such as anxiety,
+challenge,” with the top three stressors being U.S. politics, global events,

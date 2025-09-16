@@ -1,19 +1,15 @@
-## knit yet diverse communities outside their own organization stand
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aeaf81efd2c4ab86432d9b4ccb92a4a94ef5dffe
+title: R2306H-PDF-ENG
+---
+## idea through the formal approval process.
 
-a better chance of discovering novel ideas that are feasible. Leaders
+- • •
 
-who engage internal collaborators as sparring partners—ensuring
+From a leader’s perspective, successfully launching innovations is less
 
-that they each gather independent advice in one another’s areas of
+about creativity than it is about harnessing networks. Leaders who ﬁnd
 
-expertise—will be more successful at turning the ideas into winning
-
-business propositions. Finally, leaders who skillfully sequence feedback
-
-from critics in their networks from the inside out will achieve what
-
-often seems impossible: getting valuable input while avoiding early
-
-dismissive reactions. If executives follow these three practices, they will
-
-ﬁnd that innovating in large, mature organizations is not only viable but
+and mobilize innovation catalysts by embedding themselves in close-

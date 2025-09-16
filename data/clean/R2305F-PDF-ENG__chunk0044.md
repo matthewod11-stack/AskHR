@@ -1,13 +1,27 @@
-## Baby Boomers (now in their late ﬁfties and sixties and seventies)
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8d7b14bcaa3b31f959ce2447dea0551e13763a7
+title: R2305F-PDF-ENG
+---
+## HBR / Magazine Article / When Diversity Meets Feedback
 
-were the ﬁrst to get graded in school on “works well with others.”
+I feel strange treating my elder as my subordinate. As the researchers of
 
-They were also the ﬁrst to have work discussions about interpersonal
+this study concluded, the role reversal constantly suggests to the older
 
-eﬀectiveness and emotional intelligence and saw feedback as a way to
+subordinate that that person has somehow “failed to keep pace.”
 
-improve both. Though previous generations were more likely to hint
+To complicate the challenge further, each succeeding generation has
 
-at what should be done diﬀerently than to state feedback outright,
+developed its own ideas about who should give feedback to whom, how
 
-Boomers introduced the annual performance review. According to
+formal or spontaneous that feedback should be, and how much praise
+
+versus criticism should be articulated. One member may expect that
+
+feedback will be given annually from boss to subordinate, for instance,
+
+and another that real-time feedback will be given in all directions. Here
+
+are a few of the key diﬀerences:

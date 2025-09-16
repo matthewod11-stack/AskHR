@@ -1,17 +1,9 @@
-## role of director of corporate learning and development at a large global
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1cb3ac3b89a59d449756a0653c9d1bf69025da51
+title: R2501H-PDF-ENG
+---
+## HBR / Magazine Article / Three Ways to Lead Learning
 
-ﬁrm, he was given a bold challenge: Increase internal hires to 75% of
-
-all appointments for top roles by better preparing existing talent for
-
-leadership. Through Mark’s connector lens, the problem was evident:
-
-The current talent-management process was disjointed. While some
-
-business groups and regions had knowledge about how to develop
-
-leaders, the organization lacked a common framework that established
-
-which skills the company’s leaders needed and how they should acquire
-
-them, and aspiring leaders were mostly isolated in their individual
+When a learning leader I worked with, whom I’ll call Mark, took the

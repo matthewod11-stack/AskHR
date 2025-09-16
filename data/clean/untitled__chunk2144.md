@@ -1,11 +1,13 @@
-# Applied Psychology, 37, 142–145.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 69f341124d9e947cc47f262583a855525777a288
+title: untitled
+---
+## resource management. Westport, CT: Quorum Books.
 
-Bingham, W. B. (1928). The Personnel Research Federation in 1928: Annual report of the director. Personnel Journal, 7, 299– 313.
+Benjamin, L. T., Jr. (1997). A history of Division 14 (Society for Industrial and Organizational Psychology). In D. A. Dewsbury (Ed.), Uniﬁcation through division: Histories of the divisions of the American Psychological Association (Vol. 2, pp. 101–126). Washington, DC: American Psychological Association.
 
-Blum, M. L., & Naylor, J. C. (1968). Industrial psychology: Its theoretical and social foundations. New York: Harper & Row.
+Benjamin, L. T., Rogers, A. M., & Rosenbaum, A. (1991). Coca- Cola, caffeine, and mental deﬁciency: Harry Hollingworth and the Chattanooga trial of 1911. Journal of the History of the Behavioral Sciences, 27, 42–55.
 
-Bregman, E. O. (1922). A scientiﬁc plan for sizing up employees.
-
-System, 696–763.
-
-Briggs, V. M., Jr. (1987). The growth and composition of the U.S.
+Bills, M. A. (1953). Our expanding responsibilities. Journal of

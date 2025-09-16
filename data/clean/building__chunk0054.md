@@ -1,17 +1,25 @@
-# DEFINE YOUR SUCCESS CRITERIA
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 9c23caedbdb1ff7c18dbfa290214368edc6424f5
+title: building
+---
+## IDENTIFY USE CASES WITH POTENTIAL FOR PILOT SUCCESS
 
-Good success criteria are:
+The most suitable project to start with in your business should have the following characteristics:
 
-- 1. Specific. Rather than pursuing broad objectives like
+Well suited to LLM capabilities. It should leverage core LLM strengths – such as processing unstructured data, content classification, or format transformation.
 
-‘improved performance,’ leading organizations define specific, actionable targets. For instance, they might target ‘95% accuracy in customer inquiry classification’ or ‘reduction in average resolution time from 45 to 30 minutes.’
+Meaningful and measurable success metrics. Don’t just focus on technical performance. Look for use cases which directly impact key business indicators e.g. reduced processing time, increased throughput, or improved accuracy.
 
-- 2. Measurable. Use quantitative metrics or well-defined qualitative scales. Consider ways to measure abstract concepts – transforming goals like ‘ethical AI deployment’ into concrete metrics such as ‘less than 0.1% of outputs flagged for bias across 10,000 interactions.’
+Clear return on investment. Demonstrating concrete ROI builds organizational confidence and supports broader adoption.
 
-- 3. Aligned with business objectives. The strongest
+Business critical, but low security risk. Your first use case shouldn’t carry extreme operational or security risks. This allows you to establish governance frameworks and build institutional knowledge without putting critical operations at risk.
 
-programs tie AI performance to core business objectives, whether that’s operational efficiency, revenue growth, or customer satisfaction.
+15
 
-- 4. Time bound. Create measurement frameworks that track progress across multiple time horizons, from quick wins to long-term transformation goals.
+Abundant data. Do you have enough data to support the use case, and is it in the format needed, with permission to use it?
 
-16
+Minimal disruption to existing processes. Consider parallel deployment—running AI-enhanced processes alongside existing workflows until performance and reliability are proven.
+
+Scalable and duplicable. The knowledge and processes devel- oped will become valuable assets as you scale your AI initiatives.

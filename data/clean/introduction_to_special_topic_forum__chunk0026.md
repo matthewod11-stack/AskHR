@@ -1,3 +1,7 @@
-## Bandura, A. 1997. Self-efficacy: The exercise of control. New
-
-Komaki, J. 2003. Reinforcement theory at work: Enhancing and explaining what employees do. In L. W. Porter, G. A. Bigley, & R. M. Steers (Eds.), Motivation and work behav- ior (7th ed.): 95–113. Burr Ridge, IL: Irwin/McGraw-Hill.
+---
+source_path: introduction_to_special_topic_forum.md
+pages: n/a-n/a
+chunk_id: 4361f979551c400f30d30147cbb2c69f1608b6cd
+title: introduction_to_special_topic_forum
+---
+# NJ: Prentice-Hall.

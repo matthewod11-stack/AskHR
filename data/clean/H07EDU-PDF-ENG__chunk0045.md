@@ -1,7 +1,39 @@
-# the company as a whole.
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2512cd5bebd0efb6346cd4ca522a5e3935a9cc9
+title: H07EDU-PDF-ENG
+---
+## in their number of women and underrepresented employees through
 
-Layoﬀs are as much about who is staying as who is being let go, and
+unintentional, unconscious bias that can lead managers to retain people
 
-managers must be allowed to go to bat for people they want to retain,
+who are like them. And this goes beyond demographics: A desire to
 
-while ensuring that the ﬁnal list of layoﬀ candidates is fair — on as
+retain the “best athlete” can also show up in higher incidents of layoﬀs
+
+among people with chronic health conditions and those who are on maternity leave. People who are perceived as diﬃcult or are low on the
+
+list of a manager’s favorites, regardless of their performance, are more
+
+readily let go.
+
+If you decide to move forward with a layoﬀ, studies show three practices
+
+can help ensure fairness. First, make sure that you have budgeted
+
+enough time for deliberation. One study of HR executives found that
+
+they devoted less than an hour to each layoﬀ candidate and as a result,
+
+they believed that at least 20% of people were wrongly terminated
+
+from the company. Second, consider using teams of managers, along
+
+with representatives of HR, to review layoﬀ candidate lists for fairness.
+
+A third best practice is to develop a real-time tracker of the proﬁles
+
+of candidates who were being proposed to lose jobs. This allows for
+
+oversight and provides visibility at levels of departments, divisions, and

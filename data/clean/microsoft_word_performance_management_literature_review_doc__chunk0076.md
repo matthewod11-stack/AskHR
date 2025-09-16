@@ -1,15 +1,11 @@
-# Gratton L, Ghoshal S (2002), ‘Improving the Quality of Conversations’, Organisation Dynamics
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: abe704fd22a2b092b07a8bf6dd69e62372481c18
+title: microsoft_word_performance_management_literature_review_doc
+---
+# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:36)(cid:44)(cid:10) (cid:10)
 
-Gratton L (2000), Living Strategy: Putting People at the Heart of Corporate Purpose, Financial Times/Prentice Hall
+E-reward (2005), What is Happening in Performance Management Today: Part 1 – Survey Findings, Research report No. 32, E-reward
 
-Grint, K (1993), ‘What's wrong with performance appraisals? A critique and a suggestion’, Human Resource Management Journal
-
-Grote D (2000), ‘Public Sector Organisations’, Public Personnel Management, Vol. 29 (1), pp. 1-21
-
-Hirsh W, Jackson C, Kidd J (2001), Straight Talking: Effective Career Discussions at Work, Cambridge: NICEC/CRAC
-
-Hirsh W, Silverman M, Tamkin P, Jackson C (2004), Managers as Developers of Others, IES Report 407, Brighton: Institute for Employment Studies
-
-Hurst J (2009), An evaluation of the effectiveness of the national KSF system for NHS staff, Doctorate of Education thesis (unpublished)
-
-IDeA (2004), Performance management: the people dimension, Ref: IDEA035 ISBN: 0 7488 9227 3
+Fletcher C (2001), ‘Performance appraisal and management: the developing research agenda’, Journal of Occupational and Organizational Psychology, Vol. 74, pp. 473-487

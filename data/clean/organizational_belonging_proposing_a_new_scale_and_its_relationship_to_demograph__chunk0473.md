@@ -1,7 +1,15 @@
-## Davila, M. A., & Garcia, G. J. (2012). Organizational
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 605edd50ef0ea911471a5dd25a4840d732f66132
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# JOURNAL OF WORKPLACE BEHAVIORAL HEALTH
 
-identification and commitment: Correlates sense of belonging and affective commitment. The Spanish Journal of Psychology, 15(1), 244–255. doi:10.5209/rev_SJOP.2012.v15.n1.37316
+Bussing, A. (2002). Trust and its relations to commitment, and involvement in work and organizations. SA Journal of Industrial Psychology, 28(4), 36–42. doi:10.4102/sajip. v28i4.77
 
-De Smet, A., Dowling, B., Mugayar-Baldocci, M., & Schaninger, B. (2022). Gone for now, or gone for good? How to play the new talent game and win back workers. Retrieved from https://www.MCKINSEY.COM/BUSINESS-FUNCTIONS/PEOPLE-AND- ORGANIZATIONAL-PERFORMANCE/OUR-insights/gone-for-now-or-gone-for-good- how-to-play-the-new-talent-game-and-win-back-workers. (Accessed July 6, 2022).
+Chatman, J. A., Caldwell, D. A., O’Reilly, C. A., & Doerr, B. (2014). Parsing out organiza- tional Culture: How the norm for adaptability influences the relationship between culture consensus and financial performance in high-technology firms. Journal of Organizational Behavior, 35(6), 758–808. doi:10.1002/job.1928/
 
-It’s not it’s about belonging. Retrieved from: https://www.MCKINSEY.
+Cohen, A. (2007). Commitment before and after: An evaluation and reconceptualization of organizational commitment. Human Resource Management Review, 17(2), 336–354. doi: 10.1016/j.hrmr05.001
+
+Costello, A. B., & Osborne, J. (2005). Best practices in exploratory factor analysis: Four rec- ommendations for getting the most from your analysis. Practical Assessment Research & Evaluation, 10(7), 2–9. http://pareonline.net/getvn.asp?v=10&n=7.

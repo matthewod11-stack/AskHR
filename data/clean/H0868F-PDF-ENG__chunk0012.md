@@ -1,7 +1,7 @@
-## since the launch of my book — as a path forward.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H0868F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae9170d6f43517544edfe7ef81f4f5c5b943f73e
+title: H0868F-PDF-ENG
+---
+## hundreds of keynotes and conversations on workplace mental health

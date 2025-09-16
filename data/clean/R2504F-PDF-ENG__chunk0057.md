@@ -1,13 +1,23 @@
-## HBR / Magazine Article / Your Company Needs an Eldercare Policy
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89ebcd8bddfadf7b02f23ed3ef0c7f745a115f03
+title: R2504F-PDF-ENG
+---
+# Lessons for Leaders
 
-assessment and navigation services. The means of delivery must
+We’ll close with three lessons for organizations that want to support
 
-be adaptable, too, so that employees can not only get institutional
+employees who have eldercare responsibilities.
 
-guidance and support but also learn how to take action on their own.
+Recognize the enormous variety of employee needs. Beneﬁts must be
 
-And beneﬁts must be packaged for ease of understanding and use. The
+comprehensive, to cover a full range of possible employee situations.
 
-variety of needs and beneﬁts makes this a challenge, but employees
+Beneﬁts must also be adaptable—individual needs should drive
 
-should be well briefed on available support and able to easily navigate
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+13
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

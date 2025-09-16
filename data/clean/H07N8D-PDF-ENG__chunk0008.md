@@ -1,11 +1,9 @@
-## diﬀerent teams, such as sales, marketing, and HR.
+---
+source_path: H07N8D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 515c00073ef46d44907e48922af99030b1b0d0df
+title: H07N8D-PDF-ENG
+---
+# “Lateral” Perspective Swaps
 
-Venture capitalist Ben Horowitz applied a perspective swap at one of
-
-his portfolio companies after he noticed that two teams — customer
-
-support and sales engineering — were spewing “blistering complaints”
-
-at one another and struggling to collaborate. Fresh from watching the
-
-ﬁlm “Freaky Friday,” Horowitz instructed the heads of the two teams to
+Perspective swaps can also be eﬀective when applied laterally across

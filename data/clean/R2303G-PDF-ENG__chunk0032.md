@@ -1,15 +1,25 @@
-# learning.
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7230f004e9e3f57d85b48b7e3f2a4c276025d2f
+title: R2303G-PDF-ENG
+---
+# equity, and inclusion eﬀorts.
 
-Consider Alex, a recently promoted C-suite executive in an industrial
+Those experiences helped Karen become the kind of leader that she knew she needed to be. Even so, the transition was diﬃcult: Working
 
-company. For years, Alex had been struggling to adopt a softer style. His
+under the pressures of her new role, she found herself at times striving
 
-drive to succeed often made him feel the need to control outcomes,
+to control even minute aspects of the tasks at hand, an old habit at odds
 
-and at times he was perceived as competitive, highly strung, and
+with a more inclusive style of leadership. In those moments the outside
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+work she was doing helped her avoid ingrained patterns and maintain
 
-8
+her focus on empowering others.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Leaders can also transform their style by taking skills that they’ve
+
+developed within their own teams and subunits or even in their
+
+personal lives and using them more broadly. We call this inside-out

@@ -1,7 +1,17 @@
-# Proportion of Correct Decisions
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 5ebceb5181968bbc917560a36dae1c591c3c7da6
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Selection ratio =
 
-Determining the proportion of correct decisions is easier to do but less accu- rate than the Taylor-Russell tables. The only information needed to determine the proportion of correct decisions is employee test scores and the scores on the criterion. The two scores from each employee are graphed on a chart
+number hired ___________________ number of applications
 
-evaluating selection techniques and decisions
+The lower the selection ratio, the greater the potential usefulness of the test.
 
-217
+The final piece of information needed is the base rate of current perfor- mance—the percentage of employees currently on the job who are considered successful. This figure is usually obtained in one of two ways. The first method is the most simple but the least accurate. Employees are split into two equal groups based on their scores on some criterion such as tenure or performance. The base rate using this method is always . because one half of the employees are con- sidered satisfactory.
+
+The second and more meaningful method is to choose a criterion measure score above which all employees are considered successful. For example, at one real estate agency, any agent who sells more than $, of properties makes a profit for the agency after training and operating expenses have been deducted. In this case, agents selling more than $, of properties would be consid- ered successes because they made money for the company. Agents selling less than $, of properties would be considered failures because they cost the company more money than they brought in. In this example, there is a clear point at which an employee can be considered a success. Most of the time, how- ever, there are no such clear points. In these cases, managers will subjectively choose a point on the criterion that they feel separates successful from unsuc- cessful employees.
+
+After the validity, selection ratio, and base rate figures have been obtained, the Taylor-Russell tables are consulted (Table .). To understand how they are used, let us take the following example. Suppose we have a test validity of ., a selection ratio of ., and a base rate of .. Locating the table corresponding to the . base rate, we look along the top of the chart until we find the . selection ratio. Next, we locate the validity of . on the left side of the table. We then trace across the table until we locate the intersection of the selection ratio column and the validity row; we have found .. If the organization uses that particular selec- tion test, % of future employees are likely to be considered successful. This figure is compared with the previous base rate of ., indicating a % increase in successful employees (. ÷ . = .).

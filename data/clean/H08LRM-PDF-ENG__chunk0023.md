@@ -1,43 +1,33 @@
-## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2ca05d41ca55bb22e3be88c9da67da0e6ba4801
+title: H08LRM-PDF-ENG
+---
+# Hawaii.
 
-It’s worth noting that you don’t have to travel far to qualify as an
+His endeavors made real what psychologists call “counterfactual
 
-explorer. Plenty of folks ﬁnd ways to experiment with new futures closer
+thinking”: imagining an alternative to how things currently are. It’s one
 
-to home by volunteering in their communities, trying new hobbies, or
+thing to wonder if you’d be happy as a teacher; it’s another to actually
 
-taking regional trips.
+try teaching to ﬁnd out. Explorers run counterfactual experiments.
 
-The burned-out. Mary spent her entire career at a sports-focused
+They enjoy the challenges of new experiences, learning more about
 
-nonproﬁt. The work was stressful but meaningful, so no matter how diﬃcult it got, she soldiered on. A decade in, a board member suggested
+themselves and conﬁrming or dispelling notions about what they’d
 
-that Mary might want to take a paid sabbatical, supported by a local
+rather be doing. As a result, whether they make a big change or return
 
-funder who understood the pressures of serving others for a living. After
+to their routines, they feel more satisﬁed in their choices. Paul’s time
 
-six months of preparation — clearing out her inbox and ensuring that
+as an explorer helped him hone his thinking and his skills in travel and
 
-her colleagues could cover her absence — Mary took the time oﬀ. At
-
-ﬁrst, she was paralyzed by the lack of responsibilities and found herself
-
-continuing to do some work from home during her ﬁrst week oﬀ. But
-
-once she was en route to France — with her laptop left behind at home
-
-— she ﬁnally began to relax. Two months later, she returned to work
-
-feeling reenergized and conﬁdent. She also realized that things needed
-
-to change in order for her to re-up her tenure as leader. Mary lobbied the
-
-board for a new executive hire to handle the increased workload she’d
-
-taken on herself as the organization grew.
+hospitality, which led to a post-consulting career at Airbnb.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

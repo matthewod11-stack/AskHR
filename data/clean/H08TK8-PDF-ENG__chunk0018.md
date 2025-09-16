@@ -1,7 +1,15 @@
-## HBR / Digital Article / Leading Is Emotionally Draining. Here’s How to Recover.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f3bb6d10dc004c8b3ef0e1813c9b72a6f81e177
+title: H08TK8-PDF-ENG
+---
+## the organizational changes and his new role solidiﬁed.
 
-- What are the possible silver linings in this situation?
+On the backside of a tough event, consider asking:
 
-- What are the potential long-term beneﬁts despite the short-term costs?
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-- How can I grow from it, or use it to build something better in the
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

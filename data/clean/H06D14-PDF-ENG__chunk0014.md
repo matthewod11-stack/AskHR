@@ -1,51 +1,57 @@
-## HBR / Digital Article / When You’re Stuck Working with a Slacker
+---
+source_path: H06D14-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a019c80c849baa5c3e16857fb90b2a15e8b38d54
+title: H06D14-PDF-ENG
+---
+# performance.”
 
-going out to lunch with them” might improve your interactions with
+Deﬁne expectations. One way to safeguard your reputation is to ensure
 
-the underperforming colleague. “The third party helps create social and
+that “expectations and roles are clearly deﬁned,” says White. Let’s
 
-professional incentives” to do better.
+say you and this colleague are collectively responsible for producing
 
-Cultivate other relationships. Fostering relationships with people
+particular elements of projects. White recommends proposing that each
 
-outside your department is always a smart career move, says White. And
+project “has a clear and designated leader.” Project leadership would
 
-when you’re working closely with an underperformer, these connections
+rotate to “increase accountability.” This way, “at least you know you’re
 
-can be your lifeline. “Cultivating relationships with colleagues from
+going to get credit” for success when you’re the leader, she says.
 
-other parts of the organization not only makes your job more pleasant, it
+Bringing your boss into these conversations is key, says Uzzi. When your
 
-also helps you have a reputation outside of your direct team,” she says.
+manager has weighed in on how “Janet will do this and Deepak will
 
-This is especially important “if your team is not in [good standing].” So,
+do that,” then there’s a trail for the boss to know who’s responsible for
 
-work on seeking out a new network at work. Make time for lunch or
+each deliverable. “This should provide motivation for the weak link to
 
-coﬀee with people in diﬀerent divisions. Strike up conversations with
+produce more high-quality work,” he says.
 
-other colleagues. Ask, “What are you working on at the moment? Can
+Invite others in. Another way to change the dynamic of your
 
-you tell me about your latest project?” This strategy is a much better
+relationship with this colleague is to incorporate another person into
 
-option than complaining or jumping ship, notes White. “You’re trying to
+the work, says Uzzi. “Paired relationships often fall out of balance,” he
 
-solve your problem.”
+says. “There may be something about the two of you that dampens
 
-Stop covering for them. One ﬁnal word: Don’t enable an
+[your colleague’s] creativity or hurts their motivation.” Inviting a third
 
-underperformer. Of course, it’s good to help other people, but covering
+party into your project “changes your chemistry” and builds trust. So,
 
-for someone else’s mistakes or lack of ability “is not sustainable,” says
+think about who might make a strong addition to your relationship
 
-White. Research shows that women, in particular, fall prey to this.
+and how they might contribute. “Perhaps this person provides new
 
-“Women are expected to help out,” she says. Be on your guard. “It will
+skills that neither of you have; maybe they inject some creativity; or
 
-become toxic for you, and then it becomes toxic for the rest of your
+maybe they’re a sounding board and can oﬀer feedback.” If this third colleague doesn’t have capacity to oﬃcially join your project, “even just
 
-team.” In the long run, “you’re going to be angry at yourself.” If this
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-person is always bringing you down, you can’t aﬀord to let it continue,
+5
 
-says Uzzi. When all else fails, it might be time to ﬁnd a new job or look
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,19 +1,9 @@
-## The impact of the COVID-19 pandemic on employee mental health
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 59b8a0676c2474438da2d9e40061cb03bbc8cdad
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# International Journal of Case Studies in Business, IT, and Education (IJCSBE), ISSN: 2581-6942, Vol. 7, No. 2, June 2023
 
-According to the authors, the pandemic has caused employees' levels of stress, worry, and despair to rise. A number of key causes of the reduction in mental health have been found, including job loss, financial instability, and social isolation. The study emphasises the significance of putting supportive measures in place to boost employee wellbeing during trying times.
-
-Table 3: Scholarly literature on Employee Well being S. No. Focus Area Contribution by Researcher
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
+13

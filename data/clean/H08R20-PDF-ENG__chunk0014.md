@@ -1,17 +1,23 @@
-## HBR / Digital Article / Great Leaders Make People Feel Noticed
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c02c602ce97200cf681d69bbc2f97a2d353ff43e
+title: H08R20-PDF-ENG
+---
+# Make space and use time for connection
 
-- Use real-time interactions for relationship-building. The adage
+Leaders need to proactively make space and use their time to connect
 
-“most meetings could be emails” is popular because most meetings
+more deeply. This doesn’t mean adding more meetings. Tanya is a busy
 
-and interactions at work are information transactions. Save those
+leader in a busy job, but she practices something I’ve seen many beloved
 
-for email and other text-based platforms. What can’t be an email is
+leaders do: She optimizes the interactions she already has.
 
-checking in on how someone is doing on a project they were struggling
+Here are some ways to start:
 
-with, seeing how an employee whose parent is in the hospital is
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-doing, or supporting someone who’s been overloaded. Make space
+4
 
-for discussing how people are doing, not just what they do, in your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

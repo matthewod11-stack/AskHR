@@ -1,23 +1,15 @@
-# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a86e6b454ce2c935aab6b722160f4dd724226a84
+title: H07WED-PDF-ENG
+---
+# colleagues and superiors.
 
-The stories of Sarah, John, and leaders like Alan Mulally, Satya Nadella,
+. . .
 
-and Dr. Susan Desmond-Hellmann shed light on project managers’
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-challenges and opportunities when aiming for the CEO’s oﬃce. While
+8
 
-the Gantt ceiling may seem like an insurmountable barrier, it’s essential
-
-to recognize that project management skills, strategic thinking, and
-
-leadership acumen can pave the way for remarkable career transitions.
-
-The path from project manager to CEO may not be straightforward,
-
-but it is achievable. It requires a proactive approach, continuous skill
-
-development, and the ability to demonstrate value beyond the conﬁnes
-
-of project management. Aspiring leaders can draw inspiration from
-
-those who have successfully made the journey, turning their project
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

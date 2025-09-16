@@ -1,5 +1,11 @@
-# 10 Psychology as a Science
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: cf112afb305f2a8967827c2b77584cb2351d2839
+title: untitled
+---
+# Deﬁning Psychology and Its Methods
 
-occurred amid debate over the subject matter of psychology and the methods appropriate to it. The growth in the range of subject matter under experimental investigation and in the methods employed in the study of psychology reﬂected James McKeen Cattell’s deﬁnition of psychology’s subject matter as anything that a psychologist is interested in, as a psychologist (Cattell, 1947a). The experimental psychology that arose in North America resembled the research prac- tices of G. E. Müller more than those of Wilhelm Wundt in the range of topics addressed in the laboratory and the apparatus and methods that were employed. The psychology that evolved in college and university departments of philosophy and, as the century matured, in independent departments of psychology reﬂected the functional spirit of the mental philosophers and the inﬂuence of the theory of evolution.
+Changes in the psychological experiment in apparatus and methods and the shift in roles of observer and experimenter
 
-Mental philosophy had attempted to describe how mind worked, how its cognitive and conative processes operated to produce volitional acts. American psychologists, imbued with the spirit of evolutionary theory, were focused on the utility of mind and consciousness in the adaptation of species and individuals to the environment. This concern with func- tion (what is mind for? what is its function?—presumably, to aid adaptation) was coupled with other aspects of function, namely, how mind works (how does it function?) and on what mind depends (of what is mind a function? how complex must a nervous system be before mind becomes possible?). These implicit and broad concerns for mental function in psychology were made more explicit and embodied in a self- conscious school of psychology by James Rowland Angell (1869–1949) in response to the programmatic statement of E. B. Titchener (1867–1927), who advocated a structural psychology. These schools of thought were but two among general systematic positions that competed for dominance in psychology (Heidbreder, 1933; Murchison, 1926, 1930; Woodworth, 1948).
+9

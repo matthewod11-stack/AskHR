@@ -1,5 +1,7 @@
-# de Mestrado em Sistemas de Gestão –
-
-MACEY, W. H.; SCHNEIDER, B. The meaning of employee engagement. Industrial and Organizational Psychology: Perspectives on Science and Practice, v. 1, p. 3-30, em: https://www.cambridge.org/core/journals/industrial-and-organizational-psychology/arti cle/abs/meaning-of-employee-engagement/0517A938DBEDA2E0BE2FBE27A9DDC 4DB. Acesso em: 22 fev. 2023.
-
-2008.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 563f91bb15b53daac4c92c65d6d6bd2fb06c4d39
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# Janeiro. 2003. 182 f. Dissertação Universidade Federal Fluminense, Niterói, 2003.

@@ -1,5 +1,7 @@
-# Five Traits of Effective Top Teams
-
-Not all eﬀective top teams are the same, of course. But after
-
-studying hundreds of them across 11 industries and six continents, we identiﬁed ﬁve behavior traits that eﬀective top teams have in common:
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dc12981c503248b3cf6e710ba7a0ab321038cc85
+title: S24053-PDF-ENG
+---
+# team.

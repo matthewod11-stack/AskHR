@@ -1,9 +1,11 @@
-# analysis stage.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 0d635a2717fe506baf30dc8424872863168b1333
+title: i
+---
+# considers it an overestimated method.
 
-Predictive analysis is defined by Pease (2015) as a prediction for the future in case a change is
+Correlation reveals the relationship between elements displayed in more advanced dashboards.
 
-made. Optimization is <assessing and measuring the different factors that control and mediate
-
-impact is that you can use them to control future impact and improve outcomes.= Pease et al.
-
-(2014) claim that optimization can be done through predictive analysis.
+The author emphasizes the difference between correlation and causation, which is a higher

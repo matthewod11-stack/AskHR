@@ -1,5 +1,7 @@
-## How to Self-Promote (When You Don’t Like to Self-Promote)
-
-To rise through the ranks, you must be proactive and build thebusiness case for your own career progression. In other words,you must get comfortable with self-promotion.Self-promotion refers to communicating your interests, abilities,or achievements to others with the goal of enhancing yourprofessional reputation (or your personal brand), gainingvisibility, and improving your career prospects. Even though it’ssometimes perceived as a
-
-taboo, self-promotion is a
+---
+source_path: "How to Self-Promote (When You Don\u2019t Like to Self-Promote).md"
+pages: n/a-n/a
+chunk_id: 9efda03fc7575f2dd0429a5795cd0ff0aa4abece
+title: "How to Self-Promote (When You Don\u2019t Like to Self-Promote)"
+---
+# 9/10/25, 11:57 AM

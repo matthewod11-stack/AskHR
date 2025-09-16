@@ -1,5 +1,9 @@
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a3873949d69d4b1202bd59b7e9d20bb5b8ca05db
+title: untitled
+---
 # Macmillan.
 
-Watson, J. B. (1907). Kinaesthetic and organic sensations: Their role in the reactions of the white rat to the maze. Psychological Review Monograph Supplement, 8, no. 2.
-
-Watson, J. B. (1913). Psychology as the behaviorist views it.
+Washburn, M. F. (1936). The animal mind (4th ed.). New York:

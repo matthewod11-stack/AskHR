@@ -1,7 +1,9 @@
-# experience, or physical environment.
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c64e2262ffb6a5af140a6d871bf572f4dc9df9f
+title: H08LGU-PDF-ENG
+---
+# Access
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Access is when all people can fully participate in a product, service,

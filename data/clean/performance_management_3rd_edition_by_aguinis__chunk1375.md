@@ -1,3 +1,11 @@
-## Next 1 year Next 2 years Next 3 years Next 5 years
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 604e8858b82814384c12051a94113b2b25358f68
+title: performance_management_3rd_edition_by_aguinis
+---
+## TABLE 8.1 Summary List of Developmental Activities
 
-Dev. Options OJT (on the job) training Description Classes Current Qtr. Conferences _________________________________________________________________ On-line _________________________________________________________________ Self-study _________________________________________________________________ Job rotation Next. Qtr. Videos _________________________________________________________________ _________________________________________________________________ Books Temp. assignment _________________________________________________________________ Mentorship Other (specify)
+On-the-job training Courses Self-guided reading Mentoring Attending a conference Getting a degree Job rotation Temporary assignments Membership or leadership role in professional or trade organizations
+
+Update Date: Name: Job Title/Job Code: Department: Primary Reviewer: Education: Prior Training: Job History: Career Goals:

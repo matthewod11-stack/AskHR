@@ -1,5 +1,7 @@
-# Different Coaching Styles
-
-As an executive coach, I’m often asked if there is one “right way”
-
-to coach. The answer is no; your coaching style will depend on
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 550a3c58a06e2809617e691c65d4321359035a51
+title: H08NJ7-PDF-ENG
+---
+# and personal growth.

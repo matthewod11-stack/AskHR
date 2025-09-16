@@ -1,21 +1,11 @@
-## reader of people, practice active listening during project meetings and
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b48e453d1337bb906e75c1f62d6643125823d748
+title: H07WED-PDF-ENG
+---
+# resilience and tough-mindedness.
 
-cultivate an understanding of team dynamics — work on resolving
+- 6. Efﬁcient reader of people
 
-conﬂicts constructively. Practice empathy to better understand diverse
-
-perspectives within your team and stakeholders. Develop emotional intelligence to navigate complex interpersonal dynamics eﬀectively.
-
-- 7. Measured emotion
-
-Maintaining composure during high-stress situations is essential in
-
-projects. Enhance this skill by practicing mindfulness and stress-
-
-management techniques. Learn to express emotions appropriately
-
-while maintaining control. Avoid impulsive, emotional reactions.
-
-- 8. Pragmatic inclusiveness
-
-Project managers often collaborate with diverse teams. To be
+Interpersonal skills are vital in project management. To become a better

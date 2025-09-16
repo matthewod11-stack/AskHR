@@ -1,7 +1,37 @@
-# our hybrid or remote work strategies?
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3befff7ea81de96eeb0c7f1bd3d87d3755d3f2eb
+title: H08N0B-PDF-ENG
+---
+## consistent message to employees, investors, and board members. For
 
-For example, Moody’s empowers managers to collaborate with their
+instance, digital banking solutions company Q2’s hybrid work model
 
-team to develop a remote or hybrid conﬁguration tailored to the
+is oriented around “support[ing] the mission, strengthen[ing] the
 
-team’s needs. It then collects data to monitor outcomes like promotion
+community,” referencing its value statement to develop “strong and
+
+diverse communities by strengthening their ﬁnancial institutions.”
+
+Organizations should also benchmark against industry ESG standards.
+
+Download competitor reports to analyze how they position remote and
+
+hybrid work, looking for trends in governance disclosures and investor
+
+priorities. Gartner, for example, publishes quarterly benchmarking
+
+reports associated with various return-to-oﬃce and hybrid work trends
+
+and patterns that companies may access to compare themselves.
+
+- 3. Internal data and analytics
+
+Ask: Do we use internal data to understand what’s working about our
+
+remote or hybrid strategy? Do we know which jobs and tasks can
+
+be done remotely and to a high degree of quality, and which can’t? Do we eﬀectively plan and implement team coordination? And do we
+
+regularly gather feedback from team leaders and employees to improve

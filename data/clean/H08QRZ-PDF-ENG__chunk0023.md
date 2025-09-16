@@ -1,7 +1,9 @@
-# protects job autonomy and security.
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9996b88fd4ebf240db09b482d00eb9b25f1d7450
+title: H08QRZ-PDF-ENG
+---
+# Decouple data collection initiatives from performance assessments and evaluations.
 
-For example, Caterpillar deployed a system of cameras and sensors to
-
-track the pupil sizes and eye movements of tractor operators to monitor
-
-driver fatigue. The company notes that fatigue leads to nearly two thirds
+Separating data collection programs from performance evaluations

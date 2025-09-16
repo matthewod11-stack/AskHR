@@ -1,65 +1,31 @@
-# HBR / Digital Article / 6 Key Levers of a Successful Organizational Transformation
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e48d1c4d5bf07e3bc56dbebdd829f80af259e796
+title: H07MI6-PDF-ENG
+---
+# The Six Key Levers of Transformations
 
-organization,” as Dr. Patrick Liew, executive chairman at GEX Ventures,
+So what tactics did the leaders of successful transformations use to
 
-told us.
+manage the emotional journey? The six levers that maximize the
 
-In our interviews, leaders spoke of working on their own development,
+chances of success, according to our research are:
 
-including engaging more with their emotions and becoming
+- 1. Leadership’s own willingness to change
 
-accustomed to the discomfort that accompanies personal growth.
+Many people believe that a leader’s job is to look outward and
 
-Leaders needed to “look into a mirror,” as one told us, and realize that
+give others guidance, but our research suggests that to help their
 
-they were part of the problem before the shift to a positive trajectory
+workforce navigate a transformation, leaders need to look inward ﬁrst
 
-could take place. They needed to remove their own fear before they
+and examine their own relationship with change. “If you are not
 
-could help their employees get through this change.
-
-“As someone who was tasked to lead this [transformation], if I’m being
-
-honest with you, it was pretty unsettling at the start, because I think by
-
-nature most of us like to know the path we’re going on,” as one COO
-
-from the automative industry told us. And a senior vice president in
-
-the global business services industry described needing to become more
-
-vulnerable and honest on their path to self-discovery: “I think I became
-
-even more aware of myself, who I am.”
-
-- 2. A shared vision of success
-
-Creating a uniﬁed vision of future success is another all-important
-
-foundation point of a transformation. In our research, 50% of
-
-respondents involved in successful transformations said the vision
-
-energized and inspired them to go the extra mile to a signiﬁcant extent
-
-(as compared 29% of respondents in low-performing transformations).
-
-Employees must understand the urgent need to disrupt the status quo.
-
-A compelling “why” can help them navigate the inevitable challenges
-
-that will arise during a transformation program. Many of the workers
-
-who took our survey said that they “wanted” and “needed” the vision
-
-to be communicated clearly. When leaders share a clear vision, the
-
-workforce is more likely to get on board. But if people don’t understand
-
-the vision or need for transformation, success is hard to achieve.
+ready to change yourself, forget about changing your team and your
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

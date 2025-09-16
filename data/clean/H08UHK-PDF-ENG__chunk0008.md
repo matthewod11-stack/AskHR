@@ -1,19 +1,17 @@
-# frustration and bottlenecks.
+---
+source_path: H08UHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c32560f0e98531369e6eddea523dcc78e2948cd9
+title: H08UHK-PDF-ENG
+---
+## HBR / Digital Article / It’s Time to Streamline How We Communicate at Work
 
-In addition to response speed, teams must clarify when employees are
+To prevent these misalignments, organizations should establish clear norms for response times across diﬀerent communication channels. For
 
-expected to engage. Without explicit norms, after-hours communication
+instance, a team might agree that emails require a 24-hour response,
 
-can blur work-life boundaries, leading to burnout and uneven
+while Slack or Teams messages need acknowledgment within a few
 
-workloads. To prevent this, some organizations establish “quiet hours,”
+hours. Just as importantly, teams should have a shared practice for
 
-implement automated reminders about communication boundaries, or
-
-encourage the use of “send-later” features to delay messages outside of
-
-working hours. By proactively setting these expectations, leaders foster
-
-a work culture that balances responsiveness with well-being—ensuring
-
-employees know when they need to be available and when they can
+letting senders know when a timely response isn’t possible—preventing

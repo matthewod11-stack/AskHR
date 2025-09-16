@@ -1,13 +1,13 @@
-# (cid:32)
+---
+source_path: university_of_dallas_dissertation_template.md
+pages: n/a-n/a
+chunk_id: 2a575f1cc2f0bb14378a3e181481eb9610dbb36e
+title: university_of_dallas_dissertation_template
+---
+# that PWOM influences employee retention and engagement (Collins & Stevens, 2002). These
 
-likelihood of organizations retaining their employees (Y. Lee, 2022) and increasing employee
+findings support earlier studies demonstrating that employee advocacy via PWOM increases the
 
-engagement. An additional study found that employees felt more engaged and optimistic about
+(cid:54)(cid:54)(cid:32)
 
-their company after sharing work-related information (M. Kang & Sung, 2017; Y. Lee, 2022).
-
-Therefore, based on the literature cited above, it is expected that employee engagement's direct
-
-influence on PWOM could improve organizations' retention and employee loyalty through
-
-effective employee engagement strategies. Therefore, the following hypothesis was investigated
+(cid:32)

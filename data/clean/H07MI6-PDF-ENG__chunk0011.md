@@ -1,33 +1,21 @@
-# unsuccessful transformation.
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22d25d13644ed6d4f91402f134f42253c8ae49ab
+title: H07MI6-PDF-ENG
+---
+# the last ﬁve years.
 
-So what tactics did the leaders of successful transformations use to
+Considering that organizations will spend billions on transformation
 
-manage the emotional journey? To ﬁnd out, we built a model to predict
+initiatives over the next year, a 70% failure rate equates to a signiﬁcant
 
-the likelihood that an organization will achieve its transformation KPIs
+erosion of value. So, what can leaders do to tilt the odds of success in
 
-based on the extent to which it exhibited 50 behaviors across 11 areas
+their favor? To ﬁnd out, we interviewed 30 leaders of transformations
 
-of the transformation. This model revealed that behaviors in six of
+and surveyed more than 2,000 senior leaders and employees in 23
 
-these areas consistently improved the odds of transformation success.
+countries and 16 sectors. Half of our respondents had been involved
 
-Organizations that are above average in these areas have a 73% chance
-
-of meeting or exceeding their transformation KPIs, compared to only
-
-a 28% chance for organizations that are below average. Our research
-
-suggests that any organization that can eﬀectively implement these six
-
-levers will maximize their chances of success.
-
-Our research also found that a key diﬀerence in successful
-
-transformations was that leaders embraced their employees’ emotional
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+in a successful transformation, while the other half had experienced an

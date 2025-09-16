@@ -1,9 +1,15 @@
-# perspective) and beyond restoration towards further development (safe-fail design from
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 590f864579414178bd03572f44ae6b685ac25275
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-ecological perspective) of novel capabilities with better strength can be identified in various
+(SCRM), with overlapping concepts of organizational agility under dynamic competition, i.e.,
 
-interpretations of literary study (Coutu, 2002; Fiksel, 2006 & Vogus and Sutcliffe, 2007). The
+the ability to cope with unexpected challenges, survival under threats, and exploit challenges
 
-most grounded enablers of resiliency in the supply chain have been suggested in the review
+to take advantage of opportunities (Sharifi & Zhang, 2009). Parallel developments in
 
-work carried out by Ponis and Koronis (2012), such as agility, flexibility, velocity, visibility,
+resilience concepts, i.e., restoration or rebound aspect (fail-safe design from an engineering

@@ -1,43 +1,19 @@
-## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b35b351f0c2324894c1f23b1c6bb830c48988f62
+title: H07VPH-PDF-ENG
+---
+# to you (or your organization)?
 
-vice versa. For example, if the head of sales decides to skip a sales team
+Note: Impact and importance are not the same. Impact is the eﬀect
 
-meeting, this decision may have a big impact on team members but
+on someone or something; importance is the signiﬁcance or value. A
 
-may not actually be important if the meeting doesn’t require the head of
+decision can have a signiﬁcant impact but be of little importance, or
 
-sales to attend.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Miriam’s decision would have both impact and importance because the
+6
 
-company was a small start-up. She told me that while “I fully own the
-
-decision to dissolve the partnership, the success of the company will
-
-depend on me communicating eﬀectively with Andre about my reasons
-
-for this major decision. I realize that owning the decision doesn’t mean
-
-it only aﬀects me. I have to let Andre know how much his contributions
-
-matter to the business, and to me. This relationship is important to my
-
-business success.”
-
-- 6. Connect your situationality to your problem-solving profile.
-
-Looking back at the ﬁve PSPs, how does your situationality connect to
-
-one of the blind spots in the proﬁles? For example, the blind spot of
-
-a listener is that they sometimes can’t hear their own voice because
-
-they’re focused on soliciting input from others. Try to stay focused on
-
-your behavior in the one situation that you’ve identiﬁed as problematic.
-
-Although Miriam had identiﬁed herself as a listener, she realized that
-
-she’d made no time or space to listen to the co-workers in her start-up. She saw that she was making all the decisions. Looking back at the PSPs,
-
-Miriam realized that, in this work situation, she had been behaving like
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,11 @@
-# Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8294b34647542b639414386cb37205e9ae290933
+title: untitled
+---
+# 220 Developmental Psychology
 
-Hutchins, E. (1991). The social organization of distributed cog- nition. In L. B. Resnick & J. M. Levine (Eds.), Perspectives on socially shared cognition (pp. 283–307). Washington, DC: American Psychological Association.
+Horowitz, F. D. (1987). Exploring developmental theories: Toward a structural/behavioral model of development. Hillsdale, NJ: Erlbaum.
 
-Izard, C. E. (1982). Measuring emotions in infants and children.
+Hunt, J. M. (1961). Intelligence and experience. New York: Ronald

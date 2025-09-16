@@ -1,17 +1,25 @@
-# How to Launch a Pay-to-Quit Program
+---
+source_path: H07NAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39b16b94f5c1e1056a8526d80422a0739e8c5f57
+title: H07NAR-PDF-ENG
+---
+# HBR / Digital Article / How a “Pay-to-Quit” Strategy Can Reveal Your Most Motivated E…
 
-If you’re considering adopting a Pay-to-Quit program, make sure you
+So far, the program has been a success. In the oﬃces that oﬀered the
 
-follow these ﬁve rules:
+bonus, close to 12% of the employees chose to take it. Revealingly,
 
-- 1. Be transparent.
+those employees were not the worst performers on the team, which
 
-When you launch the program, make sure to explain exactly how the
+suggests the program was doing the job it needed to: identifying capable
 
-program works and why you’ve decided to launch it. Employees will
+employees who don’t necessarily feel a strong commitment to the
 
-respond better to the program if they understand its purpose.
+company and might leave after being named partners. The retention rates of new partners in the oﬃces where the bonus was oﬀered has
 
-- 2. Offer the right amount. The amount you oﬀer should be suﬃcient to motivate some employees to take it but not so high that lots of them do. That amount will be
+also been higher than the rate in the control group. The program was
 
-diﬀerent at every company, so run a pilot to ﬁgure out what works best
+temporarily put on hold because of Covid-19, but the company now
+
+plans to relaunch the program on a larger scale.

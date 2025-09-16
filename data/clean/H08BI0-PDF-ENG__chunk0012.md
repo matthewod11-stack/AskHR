@@ -1,31 +1,21 @@
-# HBR / Digital Article / 4 Ways to Meaningfully Support New Mothers Returning to Work…
+---
+source_path: H08BI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5714be2ca07e6e1e0af2a7516f9c64f5c20aa84f
+title: H08BI0-PDF-ENG
+---
+# and capabilities as a worker.
 
-Each of these four types of allyship were reported as important and
+Validating the mother identity. This aﬃrms the postpartum mother’s maternal identity. For example,
 
-impactful. However, eﬀectively utilizing them is not as straightforward
+asking to see photos and videos of the baby, checking in on the
 
-as simply engaging in these four types of behaviors with every
+mother’s well-being and compassionately listening to her experiences,
 
-postpartum mother returning to work. Why? No two postpartum
+and describing one’s own parenting-related challenges.
 
-experiences are the same. As such, each mother needs to be treated
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-as the expert on what she needs, with allies empowering them to be
+3
 
-transparent and honest about the challenges being faced. As one of
-
-our interviewees, Heather (pseudonyms have been assigned to maintain
-
-the anonymity of participants), noted, “Everything related to childbirth
-
-and rearing is unpredictable and ﬂuid and unique. So, you can’t say,
-
-‘Everybody’s going to do it this way.’ You have to have some ﬂexibility …
-
-This is a highly emotional time and needs evolve. You’d need to feel like
-
-it’s open to communicate and share.” Thus, being an eﬀective ally also
-
-means asking the postpartum mother about her unique challenges and
-
-experiences, and then adapting allyship strategies to her speciﬁc needs.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

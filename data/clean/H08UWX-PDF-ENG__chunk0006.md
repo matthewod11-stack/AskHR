@@ -1,11 +1,21 @@
-## interview transcripts across 44 companies and 1,311 positions. The
+---
+source_path: H08UWX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 980dfe7648c78b02d271be0d1b82c1488c15b655
+title: H08UWX-PDF-ENG
+---
+## than speculation. Thanks to advances in interview recording and
 
-analysis found that although job descriptions serve as detailed
+transcription technology, we are now able to peer inside the black box
 
-roadmaps for what employers claim to need, interviews often veer oﬀ
+of hiring to understand what actually happens when candidates and
 
-course. Even more notable: As artiﬁcial intelligence reshapes the skills
+interviewers sit down together. The results reveal a disconnect that may
 
-landscape at unprecedented speed, companies are largely failing to
+be undermining hiring decisions across industries.
 
-assess whether candidates have any AI experience at all.
+These results are drawn from a comprehensive analysis recently
+
+conducted by BrightHire in conjunction with the Harvard Business
+
+School’s Managing the Future of Work project, involving 23,000

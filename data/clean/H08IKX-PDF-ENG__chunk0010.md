@@ -1,27 +1,15 @@
-## Writing in Harvard Business Review in 2011, Gökçe Sargut and Rita
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf0d3c76511ba44500fef1f0975fe47e392be20f
+title: H08IKX-PDF-ENG
+---
+## through a thoughtful coordination of well-understood processes, like
 
-McGrath explained the diﬀerence this way: In complicated systems,
+carefully unfolding something. Complex, which is derived from the
 
-“there are many interactions within it, but they usually follow a pattern.
+Latin “complector,” means “to entwine around, to embrace.” Something
 
-It’s possible to make predictions about how a complicated system will
+entwined cannot necessarily be untangled. Tidy solutions are hard to
 
-behave,” citing the example of an electrical grid. Complex systems, in
-
-contrast, are “imbued with features that may operate in patterned ways
-
-but whose interactions are continually changing.” For example, they point to air traﬃc control systems in which objects are in constant
-
-motion, conditions can change rapidly, and these interactions make it diﬃcult to predict outcomes.
-
-Building on their distinction, problems can be viewed on a spectrum
-
-from complicated to complex, based on the following key dimensions:
-
-- Predictability: Complicated problems are predictable; they follow
-
-established patterns and their outcomes can be forecasted
-
-with reasonable conﬁdence. In contrast, complex problems are
-
-unpredictable, with outcomes that emerge from numerous interacting
+ﬁnd when facing complexity.

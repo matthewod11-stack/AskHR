@@ -1,3 +1,7 @@
-# n/a
-
-Not found to be correlated with intention to turnover
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: e199c1e221857f9608ea1d7ab367895017e86f5e
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Benefits

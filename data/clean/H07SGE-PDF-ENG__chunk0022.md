@@ -1,9 +1,7 @@
-## A recent survey by PwC reveals that many CEOs anticipate climate
-
-risk will aﬀect their cost proﬁles and supply chains in the next year.
-
-However, despite these challenges, 60% of the surveyed CEOs do
-
-not plan to reduce headcount, and 80% do not plan to decrease
-
-compensation, as they recognize the importance of retaining talented
+---
+source_path: H07SGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2871a1178310e0e44681e91889bea09c1ffd16db
+title: H07SGE-PDF-ENG
+---
+# company strategy.

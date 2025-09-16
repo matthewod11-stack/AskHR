@@ -1,1 +1,15 @@
-## HBR / Magazine Article / How to Counter Fake News
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00eb0bf3c44d30c7047be92d465b04818ef0d5cf
+title: R2505L-PDF-ENG
+---
+# ME
+
+Michael Etter is an associate professor in entrepreneurship and digitalization at King’s Business School, King’s College London.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+15
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,21 +1,21 @@
-## HBR / Digital Article / The Right Way to Implement Stretch Assignments
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77dea69d70f6ea9291cc34241397561b2bf83d76
+title: H08QTQ-PDF-ENG
+---
+## a broader lack of communication from managers about what it really
 
-for a promotion—at which point it became clear that these assignments
+takes to advance.
 
-were “secretly mandatory.”
+One woman we interviewed, for example, explained that stretch
 
-How to ﬁx it: To ensure stretch assignments are distributed and
+assignments on her team were often framed as optional or extra. She
 
-pursued equitably, organizations must equip managers with clear
+and her peers only realized their importance after being passed over
 
-guidance around the role they play in early-career talent development.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-This means not relying solely on informal coaching or mentorship,
+5
 
-but also providing structured tools and systems that help managers
-
-communicate what high performance looks like—and how to help
-
-employees achieve it.
-
-A good start involves making the unwritten rules of advancement more
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,25 @@
-# HBR / Digital Article / To Drive Innovation, Create the Conditions for Serendipity
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3cf296e4cc1860bb4527046a6ac41c2fe0b9bb2d
+title: H08P90-PDF-ENG
+---
+# Illustration by Kiki Ljung
 
-quadrillionth of a second). Surgeons can make very precise cuts that do
+Since the late 1990s, more than 30 million people have beneﬁted from
 
-not cause any collateral damage.
+a corrective eye surgery procedure called LASIK. Before the advent
 
-The basic technology, known as Chirped Pulse Ampliﬁcation (CPA), was
+of LASIK, surgeons used a scalpel to cut into the cornea. Then, they
 
-developed in the mid-1980s by the French physicist Gerard Mourou,
+reshaped it to improve a patient’s vision. This caused a lot of damage to
 
-earning him the 2018 Nobel Prize in physics together with Donna
+surrounding eye tissues. Instead of a scalpel, LASIK uses a femtosecond
 
-Strickland. But the idea of applying CPA-generated femtosecond lasers
+laser, which emits powerful pulses of light for only a femtosecond (one
 
-to ophthalmology was entirely serendipitous. Not quite coincidence
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-but usually unintended, serendipity involves what Robert K. Merton
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

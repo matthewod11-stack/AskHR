@@ -1,15 +1,17 @@
-# performance system, 31
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: ef19712ef2ac88db9e34d8530f16965ed0aad850
+title: performance_management_3rd_edition_by_aguinis
+---
+# Equal Employment Opportunity
 
-Ford Motor Company, 91 Formal reviews, 143, 144, 155 Foster, P., 260 Fowlkes, J. E., 313 Frame of reference (FOR) training,
+Act of 1972, 284 Equal Pay Act of 1963, 284 Equal Pay Act of 1970, 284 Erdogan, B., 35 Erez, A., 314 Erickson, P. B., 57 Ericsson, K. A., 90 Esen, E., 34 Ethicality, 22, 30 Evaulative performance, 88, 100 External environment, 65, 67t
 
-180–181, 182, 191
+F Facteau, J. D., 167 Fairness, 5, 9, 21, 30, 280–281 Fandray, D., 33, 35 Farr, J. L., 260 Febles, M., 104 Federal Express, 149 Feedback, 48, 51
 
-France, performance management, 24 Franke, G. R., 167 Frauenheim, E., 224 French Battery Company, Madison, 70
+coaching, 239–242 coaching process, 234f effective, 242t enhancement, 240 gap, 244 negative, 244–245 praise, 243–244
 
-Frequency, checklist, 119t Frisch, M. H., 224 Frontier, airline, 65, 66 Fuchs, D., 194 Full potential realization, 74
+Feren, D. B., 292 Field, T., 245 First impression error, 179, 180t Fiscal year cycle reviews, 143–144 Fischer, B., 90 Fisher, C. D., 85 Fishwick, F., 85 Flaubert, G., 87 Fletcher, C., 167 Fletcher, N., 260 Flevoland, City of (Netherlands), 107 Floyd, S. W., 85 FMI Corporation, 34 Forced distribution, 115t, 116, 117,
 
-G Gabris, G. T., 34 Gadams, R., 282 Gain sharing, 271t Ganesan, D., 57 Ganzach,Y., 166 Gap analysis, 67–68, 81 Garavan, T. N., 225 Garengo, P., 34 Garretson, C., 224 Garvey, C., 314 Gately, B. (Gatlely Consulting), 209f,
-
-210f, 212f, 213f Gates, B., 72, 85, 90 Gender, and rater error, 179 General Electric (GE), 113b, 116,
-
-117b, 231 General Mills, 197b Georgia, State of, Department of Human Resources, 312–313
+117b, 118

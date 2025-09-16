@@ -1,13 +1,9 @@
-# Industry Divide
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1605492a7ed2b85e1d3e2d034f085ac64a8bd9e0
+title: H08PLG-PDF-ENG
+---
+## systems from Brazil—all with wider global revenue potential.
 
-The AI value chain, thus far, has been dominated by a handful of
-
-companies. Moreover, these companies spend money on each other
-
-through product or channel exclusivity, reinforcing concentration
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+[ 5 ]

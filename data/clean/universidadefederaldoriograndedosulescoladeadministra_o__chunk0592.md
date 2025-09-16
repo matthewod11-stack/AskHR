@@ -1,9 +1,11 @@
-## and high workload: a cognitive-energetical
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 2522fac9b81c9af835dd93a446c704967faaef3d
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# Disponível
 
-KUBO, E. K. M. et al. Frankenstein e o clima organizacional: estudo bibliográfico sobre um construto indefinido. Revista Internacional de Investigación em Ciencias Sociales, Asunción, v. 11, n. 1, p. 35-54, jan./jul. 2015.
+GIL, A. C. Métodos e técnicas de pesquisa social. 5.ed. São Paulo: Atlas, 1999.
 
-LEGERSTEE, T. Asking employees "the ultimate question": Developing the Employee Promoter Score, 2013. Disponível em: https://thesis.eur.nl/pub/17875/ Acesso em: 08 set. 2022.
-
-LUZ, R. Gestão do clima organizacional: proposta de critérios para metodologia de diagnóstico, mensuração e melhoria: estudo de caso em organizações nacionais e multinacionais localizadas na cidade do Rio de
-
-81
+HOCKEY, G. Compensatory control in the regulation of human performance under stress framework. Biological Psychology, Amsterdam, v. 45, n. 1-3, p. 73-93, Mar. 1997.

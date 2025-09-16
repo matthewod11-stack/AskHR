@@ -1,15 +1,7 @@
-## pesquisas (BAKKER et al., 2008; SALANOVA; SCHAUFELI, 2009). Tomando como
-
-base o modelo proposto por Schaufeli et al. (2002), o questionário é composto por
-
-17 itens, mensurados em uma escala Likert, indicando a frequência com que o
-
-engajamento acontece nas situações descritas em cada assertiva. As dimensões
-
-vigor e absorção apresentam seis itens cada, enquanto que a dimensão dedicação
-
-apresenta cinco itens. A pontuação final é dada pela soma dos coeficientes das três
-
-dimensões. Após resultados favoráveis obtidos em pesquisas com o questionário,
-
-Schaufeli, Bakker e Salanova (2006) publicaram uma versão reduzida, contendo
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 81dca0e7004f0c6825bd3c056defd663a581b7c8
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## SHIMAZU; SCHAUFELI, 2009) e também é o instrumento mais aplicado em

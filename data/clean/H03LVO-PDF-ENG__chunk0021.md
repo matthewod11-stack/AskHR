@@ -1,7 +1,13 @@
-## displace domestic inventors, for example – an inﬂow of foreign talent
+---
+source_path: H03LVO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 930b11ddcbe87363ca37e758cf3111bc73621fc8
+title: H03LVO-PDF-ENG
+---
+# their productivity.
 
-may create positive beneﬁts through improved skills, innovation, and
+Overall, our study suggests that immigrant inventors were vital to
 
-other spillovers. Technological innovation is a central determinant of
+U.S. competitiveness, despite their lower wages. Although high skill
 
-long-run economic growth, and access to the best inventors matters,
+migration is not costless – it is possible that immigrant inventors might

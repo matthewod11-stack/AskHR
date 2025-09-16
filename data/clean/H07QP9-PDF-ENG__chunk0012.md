@@ -1,25 +1,25 @@
-# HBR / Digital Article / Don’t Let Your Company’s Culture Stifle Leadership Developme…
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5548a9d82ee764c84c9d912eb6620a19c55f080
+title: H07QP9-PDF-ENG
+---
+# habits.
 
-Within an organizational context, senior leaders play a large role in
+We are also strongly inﬂuenced by the norms and expectations of other
 
-creating the environment. Edgar Schein, who is considered the “father”
+people within our environment. When we see others around us being
 
-of organizational culture, noted that what leaders pay attention to,
+altruistic or exercising, we’re more likely to behave in the same way. BJ
 
-role model, teach, and reinforce will have a signiﬁcant inﬂuence on
+Fogg, founder and director of the Stanford Behavior Design Lab, goes as
 
-organizational culture. A leader who spends all of their time with the
+far as to say, “There’s just one way to radically change your behavior:
 
-leaders above them while neglecting their own team is sending a signal
+radically change your environment.”
 
-about what they believe is important. When a leader refuses to admit
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-a mistake or weakness, they’re implicitly telling their team it’s not safe
+2
 
-for them to do so either. In Taylor’s case, her manager avoided diﬃcult,
-
-direct conversations and set the tone that conversations like that are not
-
-important enough to prioritize and are okay to avoid.
-
-And yet, all too often, leadership development programs don’t
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

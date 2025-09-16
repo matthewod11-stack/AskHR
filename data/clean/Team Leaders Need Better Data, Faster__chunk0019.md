@@ -1,17 +1,11 @@
-## in that in oﬀers the promise of perfect organizational alignment. The
+---
+source_path: Team Leaders Need Better Data, Faster.md
+pages: n/a-n/a
+chunk_id: 3f19172696a814908c31941a53ac5397f6d37fcb
+title: Team Leaders Need Better Data, Faster
+---
+## their own personal goals into one of the required buckets, their team
 
-reality is quite diﬀerent. In reality, each individual team member’s goals
+members do the same, with completion percentages and ratings handed
 
-are so darned individual, so speciﬁc to each team member’s strengths,
-
-needs, and oft-changing circumstances, that team leaders struggle to
-
-place one team member’s actual goals into one of the static buckets,
-
-let alone to record reliably their completion percentage. The result is
-
-a kabuki-like process in which everyone goes through the motions of
-
-alignment, but none of it addresses what is most pressing to team
-
-leaders: namely, how to get actual work done with a speciﬁc team
+out during the year. In theory, this nested-goals approach is sensible,

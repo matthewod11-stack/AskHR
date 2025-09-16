@@ -1,3 +1,7 @@
-## How to Compassionately Manage an Employee with a Terminal Illness
-
-Learn how to support your colleague while providing them with respect, value, and a sense of normalcy. by Chidiebere Ogbonnaya, Vijay Pereira, Benjamin Laker, Mayowa Babalola, and William Degbey
+---
+source_path: H08EAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d90608299d8be35cfec965996614433970645881
+title: H08EAJ-PDF-ENG
+---
+# HBR / Digital Article / How to Compassionately Manage an Employee with a Terminal I…

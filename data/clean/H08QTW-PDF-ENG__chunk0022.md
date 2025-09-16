@@ -1,7 +1,9 @@
-## systems, technology platforms, or those of partners or suppliers can
+---
+source_path: H08QTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0198ff4a0bcf043bc47d8579ca7e27aa4c8b0ba
+title: H08QTW-PDF-ENG
+---
+## worldwide cite cybersecurity as a major threat, a 20-point increase
 
-open new vulnerabilities. New suppliers need vetting. The risk proﬁles
-
-of even reliable partners can turn from green to red as they cope
-
-with their own disruptions. In trade wars, state actors might attack
+from a year ago. They’re right: Any signiﬁcant changes to ﬁnancial

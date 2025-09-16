@@ -1,13 +1,11 @@
-## Joinson, C. (1998). Turn up the radio recruiting. HR Magazine,
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7bd50774ad706c3b7db4ec473a89ec072f7a9970
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Personnel Management, 31(2), 179–185.
 
-43(10), 64–70.
+642
 
-Joinson, C. (1999). Teams at work. HR Magazine, 44(5), 30–36. Joinson, C. (2001). Making sure employees measure up. HR
-
-Magazine, 46(3), 36–41.
-
-Joinson, C. (2002). Managing virtual teams. HR Magazine, 47(6),
-
-69–73.
-
-Jones, J. W., & Terris, W. (1989). After the polygraph ban.
+references

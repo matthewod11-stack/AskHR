@@ -1,5 +1,23 @@
-## soccer, a dentist appointment, a work dinner or weekly “bring library
+---
+source_path: H0866R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea2d653f059eec618dddb5d6a72c26b7c0068033
+title: H0866R-PDF-ENG
+---
+# especially events.
 
-books” reminder. Include work meetings that might run over and
+I strongly recommend a dedicated family calendar (ideally a digital one
 
-impact evening plans. Enter any changes in availability from caregivers.
+like a Google Calendar). In the long run, it works better than sending
+
+each other one-oﬀ invites from separate calendars, or, even worse,
+
+having one person just hold all the events in their head. A dedicated
+
+calendar tends to mean that more events and reminders will make it on,
+
+which makes it easier to spot and plan around conﬂicts.
+
+In the week leading up to your preview, both partners should add all
+
+family-related commitments onto this calendar, whether it’s weekly

@@ -1,15 +1,47 @@
-# behalf, regardless of good intentions.
+---
+source_path: H07PM3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e7fad7229b93d9777c2633681322795b5bc807a7
+title: H07PM3-PDF-ENG
+---
+# good intentions:
 
-- 2. Harness allies in non-managerial roles.
+- 1. Shift your perspective from help to empowerment.
 
-Eﬀectively addressing benevolent marginalization across an
+In the pursuit of creating inclusive workplaces, the traditional
 
-organization means tailoring initiatives that align with the unique
+approach of providing help can unintentionally reinforce unequal
 
-interests of disadvantaged individuals. However, doing so requires the help of others beyond managers or designated diversity oﬃcers.
+power dynamics. Managers must view disadvantaged individuals as
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+equal colleagues. However, this is often easier said than done. Our
 
-6
+ﬁndings reveal that practitioners may resist change, seeking to preserve
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+deeply entrenched structures and the beneﬁts they bring.
+
+Instead, managers need to call out and confront such resistance to
+
+pave the way to a profound shift from protectionism toward self-
+
+determination and empowerment. This requires introspection that can
+
+prompt managers to scrutinize and challenge their own paternalistic
+
+assumptions and biases. Managers must recognize and address the
+
+often-hidden power dynamics at play when interacting with people
+
+with whom they have a signiﬁcant power diﬀerential. Building trust,
+
+actively listening, and gaining awareness of the emotions behind their
+
+behaviors are crucial steps. Seeking candid feedback from colleagues,
+
+mentors, or coaches about one’s paternalistic behaviors is vital for
+
+self-reﬂection, sensitization, and remediation. Lastly, it is important
+
+to display empathy toward marginalized perspectives, even when they
+
+diﬀer from one’s own, and refrain from making decisions on their

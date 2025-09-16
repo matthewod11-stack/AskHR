@@ -1,11 +1,11 @@
-# Compliance Assistance Available
+---
+source_path: Employment Law Guide - Family and Medical Leave.md
+pages: n/a-n/a
+chunk_id: 51ab24b3f471bd16be9a2ef04c0b0dd0154de3b8
+title: Employment Law Guide - Family and Medical Leave
+---
+## Relation to State, Local, and Other Federal Laws
 
-More detailed information, including copies of explanatory brochures, may be obtained by contacting the local Wage and Hour Division oﬃce(https://www.dol.gov/agencies/whd/contact/local-oﬃces). Compliance assistance
+A number of states have family leave statutes. Nothing in the FMLA supersedes a provision of state law that is more beneﬁcial to the employee, and employers must comply with the more beneﬁcial provision. Under some
 
-information is also available from the Wage and Hour Division's Web site(http://www.wagehour.dol.gov). For
-
-additional assistance, contact the Wage and Hour Division at 1-866-4-US-WAGE (1-866-487-9243).
-
-The Department of Labor provides employers, workers, and others with clear and easy-to-access information
-
-and assistance on how to comply with the Family and Medical Leave Act. Among the many resources available are:
+circumstances, an employee with a disability may have rights under the Americans with Disabilities Act.

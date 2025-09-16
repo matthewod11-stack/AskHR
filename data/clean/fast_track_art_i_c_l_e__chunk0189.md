@@ -1,11 +1,15 @@
-# Not applicable
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: c99ffef0ee65d04448de0089603b48fb49612fcb
+title: fast_track_art_i_c_l_e
+---
+## Number of companies Proportion male Age, y Time 1 risks
 
-47
+0.488 43.439
 
-0.218 3.031
+55
 
-0.437 44.111 4.099
+0.210 2.956
 
-36
-
-0.223 3.067 0.361
+0.426 43.903

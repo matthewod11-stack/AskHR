@@ -1,17 +1,25 @@
-## experiences from interviews with managers and employees. Through
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14811bd66f4083266a0cab99d952b7e9db0fc698
+title: H08NVC-PDF-ENG
+---
+## individuals with prior knowledge of mental health information, they
 
-targeted questions and debrief sessions, participants gained knowledge
+could attend focused discussions using case studies created from actual
 
-and skills on best practices. As a result, managers learned how to
+in-house issues to support the goal of changing mindsets and behaviors
 
-support team members struggling to cope and understood where their
+around mental health. Those with limited awareness of mental health
 
-duty of care began and ended. This training made them more adept
+were able to join sessions with more introductory content aimed to shift
 
-(and proactive) at addressing mental health matters at the workplace.
+attitudes ﬁrst.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Meanwhile, managers received additional training speciﬁc to their
 
-7
+roles and responsibilities around supporting employee mental health—
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+without needing to become everyone’s therapist. During the training
+
+session, facilitators led participants through exercises based on real

@@ -1,13 +1,9 @@
-## shares, no dispute-resolution process, and no clarity on what would
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f90bcb687cb10b21c76aa74cbed722b62d704e30
+title: H08PQR-PDF-ENG
+---
+# Speciﬁcally:
 
-happen in the event of divorce.
-
-- There was no buy-sell mechanism setting out a process for family
-
-members who wanted to liquidate their holdings.
-
-- There was no requirement that any family member who holds equity
-
-and plans to marry needed their partner to sign a prenup and create an
-
-estate plan that limited non-family ownership in the event of divorce
+- There were no shareholder agreements deﬁning who could own

@@ -1,11 +1,23 @@
-# success within your organization.
+---
+source_path: H08GLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d32eba23d1c8d944a433666d5a9d01a4a1c83c7
+title: H08GLK-PDF-ENG
+---
+## HBR / Digital Article / High Performers Need Feedback, Too
 
-This article was originally published online on November 01, 2024.
+roadmap for advancement, fueling your high performers’ ambition and
 
-Rocki Howard, founder of Diversiology.IO, Senior HR Advisor to Textio, and Grown Woman Life podcast host, is an acclaimed diversity strategist and HR leader. A member of Forbes HR Council, Rocki has been featured on numerous national news outlets like ABC News, in addition to being named a 2022 and 2023 SIA Diversity Inﬂuencer and one of SIA’s Global Power 150 Women in Staﬃng. Rocki is a voice for engaged and inclusive work cultures and believes in changing the world, one story, one conversation, on action at a time.
+helping them visualize and plan their future within the organization.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Following these tips can be helpful in giving feedback to all your
 
-9
+employees. But you need to be sure you’re not overlooking your high
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+performing employees just because they’re already doing great work.
+
+High performers thrive on actionable feedback and clear direction,
+
+so by delivering thoughtful, speciﬁc feedback, you empower them to
+
+excel and maintain their engagement, ensuring they continue to drive

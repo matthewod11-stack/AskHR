@@ -1,17 +1,37 @@
-## Likewise, complex queries—once the domain of data analysts
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be7bfea471ea5287ba31dbcdbf084681f9c0a43d
+title: H08QLK-PDF-ENG
+---
+## organizations as goal-oriented task environments. Rather than
 
-translating requests into structured query language (SQL)—become a
+beginning with a detailed map of every step in every workﬂow, it
 
-matter of simple conversational prompts: “How many qualiﬁed leads
+starts with the job to be done, as Harvard’s Clay Christensen famously
 
-converted to deals exceeding $100,000 in Germany this quarter?”
+urged, and then infers the requisite actions. Under the hood, AI ingests
 
-Generative AI systems can parse unstructured inputs, generate the
+signals—from a wide range of structured and unstructured data—and
 
-necessary database queries, and deliver answers in seconds.
+dynamically stitches together the tasks needed to reach the objective.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+There is no rigid choreography of screens and forms; instead, the system
 
-3
+continuously learns from exceptions, adapts its recommendations, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+orchestrates handoﬀs across functions without manual scripting. In
+
+eﬀect, it transforms unstructured inputs into structured execution,
+
+reducing the burden on users to know the workﬂow architecture and
+
+freeing them to focus solely on desired outcomes.
+
+In a CRM context, an AI-driven system would analyze signals—emails,
+
+call transcripts, proposal revisions—and automatically update a lead’s
+
+status. It would learn from historical outcomes to reﬁne the underlying
+
+process, eliminating manual data entry and reducing process latency.

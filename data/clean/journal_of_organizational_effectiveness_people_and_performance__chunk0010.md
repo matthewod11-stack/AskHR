@@ -1,7 +1,9 @@
-# The current issue and full text archive of this journal is available on Emerald Insight at: www.emeraldinsight.com/2051-6614.htm
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: f7e0ae971a19058bd6a6f871aea5d87f63fc46d9
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# I
 
-Employee engagement, human resource management practices and competitive advantage An integrated approach Simon L. Albrecht School of Psychology, Deakin University, Burwood, Australia Arnold B. Bakker Department of Work and Organizational Psychology, Erasmus University Rotterdam, Rotterdam, The Netherlands Jamie A. Gruman Department of Business, University of Guelph, Guelph, Canada William H. Macey CEB, Rolling Meadows, Illinois, USA, and Alan M. Saks Centre for Industrial Relations and Human Resources, University of Toronto, Toronto, Canada
-
-Abstract Purpose – The purpose of this paper is to argue in support of a model that shows how four key HRM practices focused on engagement influence organizational climate, job demands and job resources, the psychological experiences of safety, meaningfulness and availability at work, employee engagement, and individual, group and organizational performance and competitive advantage. Design/methodology/approach – This conceptual review focuses on the research evidence showing interrelationships between organizational context factors, job factors, individual employee psychological and motivational factors, employee outcomes, organizational outcomes and competitive advantage. The proposed model integrates frameworks that have previously run independently in the HR and engagement literatures. Findings – The authors conclude that HRM practitioners need to move beyond the routine administration of annual engagement surveys and need to embed engagement in HRM policies and practices such personnel selection, socialization,performance management,andtrainingand development. Practical implications – The authors offer organizations clear guidelines for how HR practices (i.e. selection, socialization, performance management, training) can be used to facilitate and improve employee engagement and result in positive outcomes that will help organizations achieve a competitive advantage. Originality/value – The authors provide useful new insights for researchers and management professionals wishing to embed engagement within the fabric of HRM policies and practices and employee behaviour, and organizational outcomes. Keywords Organization effectiveness, Engagement, HR architecture Paper type Conceptual paper
-
-The topic of employee engagement has attracted enormous interest over the past decade or two. Macey et al. (2009) commented that “rarely has a term […] resonated as strongly with business executives as employee engagement has in recent years” (p. xv). Consequently, considerable progress has been made with respect to clarifying
+d e d a o l n w o D

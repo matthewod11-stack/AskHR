@@ -1,15 +1,27 @@
-## HBR / Digital Article / The Missing Link Between Strategy and Innovation
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a424a50e2118cd9fd4b33b965414ad0bdcccdf73
+title: H082HH-PDF-ENG
+---
+# Luis Alvarez/Getty Images
 
-Why does this keep happening? And what can be done? In 20 years
+Established companies know they must innovate to ﬁnd growth in the
 
-of researching digital strategy and advising dozens of Fortune 500
+digital era. So, in recent years, large companies have set up innovation
 
-companies, I’ve repeatedly seen that the root cause of this failure is the
+labs, accelerators, hackathons, and open innovation programs to look
 
-missing link between strategy and innovation.
+beyond their core, pursue disruptive ideas, iterate, and experiment.
 
-Corporate innovation cannot begin with blue-sky thinking and proceed
+Yet, most of these eﬀorts produce little in the way of results. Corporate
 
-with the independence of a startup. Instead, companies must learn
+teams are outrun by startups. Innovation labs are shut down after failing
 
-to link every innovation eﬀort to two pillars of strategy: a clear
+to deliver growth at a scale that matters to the business.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

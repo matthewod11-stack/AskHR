@@ -1,11 +1,23 @@
-## quickly as possible—sometimes at the expense of their integrity.
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 415d81d5f3d732eadd21e7a2d734ec5831b013a6
+title: R2502J-PDF-ENG
+---
+## monthly to quarterly, the behavior would most likely continue—but
 
-The process we have outlined in this article is not a one-and-done ﬁx
+reps would sit on deals for weeks or longer. That would lengthen the
 
-but an iterative exercise. Every new or revised plan will be scrutinized
+sales cycle, lower sales velocity, and lower sales growth. The new plan
 
-for opportunities to bend or break rules, or even cheat outright.
+was rejected, and managers kept a close eye on the gaming behavior to
 
-Thinking like a salesperson will produce incentive plans that are
+make sure the problem was not becoming more disruptive.
 
-less conducive to gaming and constrain the human tendency to take
+. . .
+
+Nearly every sales leader and salesperson we interviewed told us, “All
+
+sales-incentive plans can be gamed.” People will inherently seek ways to
+
+maximize their personal beneﬁts and achieve their goals as easily and

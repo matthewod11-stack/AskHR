@@ -1,15 +1,33 @@
-# means in this new environment.
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b249bb9d58de92c1182c291f7c6e40c7d1b365a
+title: H06SBB-PDF-ENG
+---
+## about building worlds, whether that’s with a headset on or whether we
 
-SANDY SPEICHER: Yeah. One thing that I don’t feel we’ve really come
+drive into the office to create that world.
 
-to yet is, what is culture in a virtual environment? We have a lot of
+ADI IGNATIUS: So we’re getting a few questions that are about
 
-tools that manage the way we interact with each other, but we don’t
+community, about culture, and I sense in these questions and in
 
-necessarily design that as culture. So that feels like a great opportunity.
+my own experience that the flexibility, the agency that we want to
 
-I think these questions about culture are really important for us to hold.
+give people might clash with building a culture and sustaining a
 
-And I think that both for leaders and for everyone at work, we should
+culture that’s truly meaningful. Here’s one from Jerry from Woburn,
 
-be asking the question about how am I contributing to creating this
+Massachusetts, asking how much culture do we lose in a remote or even
+
+hybrid environment? Mary Jo from Portland, Oregon, is asking how we
+
+increase the sense of community in the office?
+
+There are a lot of questions about how we build back this culture. You
+
+started to talk about it, but I’d love to hear more because we’re all
+
+struggling with this right now and feeling that it’s a trade-off: agency is
+
+good, but you might lose culture or you have to reinvent what culture

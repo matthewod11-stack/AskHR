@@ -1,13 +1,13 @@
-## HBR / Magazine Article / The Labor-Savvy Leader
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c93e66163eb2db90615f09927cc6a70962ad41d0
+title: R2304D-PDF-ENG
+---
+# negotiations:
 
-We are not so naive as to believe that our mutual interest in
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-a peaceful, equitable settlement will automatically produce a
+9
 
-consensus on how such an agreement should be deﬁned. If we both see
-
-the world in precisely the same relief and hues, one of us is probably
-
-unnecessary. We recognize that the world is wide, and there is room
-
-enough in it to accommodate an expansive range of opinions and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

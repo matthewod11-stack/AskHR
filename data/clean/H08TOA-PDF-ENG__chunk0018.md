@@ -1,37 +1,27 @@
-## HBR / Digital Article / A Data-Based Approach to Delegating
+---
+source_path: H08TOA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4570eb305900a0a9c6aa557fbcf5a2fe0df59c98
+title: H08TOA-PDF-ENG
+---
+# Reflect
 
-If you want to get granular on the return on investment from keeping
+The last step in the process is to analyze how you have reallocated your
 
-the time log, multiply the hours the delegated tasks used to take you
+time. After, say, two months, you may consider restarting your time log
 
-by an estimate of what your hourly pay is (the value of your total
+for a few weeks to calculate the return on your delegation investment.
 
-compensation divided by the number of hours you work in a year).
+At the very least, you can look at your original time log and add up how
 
-Assuming you are paid more than the person to whom you delegated,
+much time the meetings and tasks took before and what replaced them.
 
-you will be able to see how much value you created by moving that work
+That is how the CFO, Mike, identiﬁed the 20 hours a month he had been
 
-over so you can focus on more strategic work.
-
-. . .
-
-Data mined from time logs can be supremely useful for deciding what
-
-you should and could delegate. One beneﬁt of using this tool is how it
-
-changes your view of the tasks that you have in front of you. The other?
-
-You actually end up making space for more strategic things that should
-
-consume your day and have an impact on how business functions.
-
-This article was originally published online on July 21, 2025.
-
-Rik Nemanick, PhD is a consultant specializing in leadership development. For over 20 years, he has worked with organizations of all sizes to help their employees get the most out of mentoring. His approach to mentoring can be found in his book, The Mentor’s Way. In addition to his consulting, Rik is adjunct faculty in the Olin School of Business at Washington University in St. Louis. Connect with him on LinkedIn.
+spending on the tasks he delegated.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

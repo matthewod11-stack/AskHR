@@ -1,1 +1,17 @@
-# and other program-related experiences.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: cc090f7be121022dba3ea0ddf7a10f03a3ed8c1d
+title: untitled
+---
+# 474 Undergraduate Education
+
+psychologycoursesandthentoevaluatethatlearninghasbeen manifested throughout the twentieth century. For most of the century, this need derived from psychologists’ scientiﬁc cu- riosityandvaluesaswellastheirpenchantfortestingandeval- uating programs. Psychologists evaluated vocabulary terms elementary psychology students needed to know (Jensen, 1933;Thornton&Thornton,1942)andamorecomprehensive “psychological literacy” for the entire major (Boneau, 1990). Almost 50 years before the current assessment mandates, the APA’s Council of Representatives charged a “Committee on the Preparation of Examination Questions in Psychology” (1941): “(1) to explore the need and desire for comprehensive examinations in psychology, and (2) to ﬁnd out the extent to whichquestionsoritemsnowexistthatmaybedrawnuponin constructing comprehensive examinations” (p. 838). Seventy percentofthe411respondentstoasurveyfromthiscommittee favored such an effort, and almost 50% reported that they would use such examinations in their programs.
+
+Since the mid-1980s, the external forces of regional ac- crediting associations and state legislatures have demanded that all departments and campuses participate in regular self- studies, a major component of which is the assessment of student learning outcomes. Halpern et al. (1993) offered a comprehensive outcomes assessment program for psychol- ogy. They described the external forces calling for such ef- forts and suggested that psychologists possess unique skills for evaluating educational outcomes. They argued that the desired outcomes for undergraduate psychology included a knowledge base (e.g., content areas, methods, theory, and history); intellectual skills (e.g., thinking, communication, information gathering and synthesis skills, and quantitative, scientiﬁc and technological skills); and personal characteris- tics (e.g., interpersonal and intrapersonal skills, motiva- tion, ethics, and sensitivity to people and cultures). The authors advocated a multimethod matrix approach, including archival forms of assessment data, classroom assessment, standardized testing, course-embedded assessment, portfolio analysis, interviews, external examiners, performance-based assessment strategies, and assessment of critical thinking.
+
+Since the St. Mary’s Conference, articles regularly ap- peared demonstrating how departments used this Halpern et al. (1993) blueprint for assessment activities. The Quality Principles (McGovern & Reich, 1996), endorsed as APApol- icy, included this statement:
+
+Faculty establish mechanisms to assess the curriculum. Essential elements of an assessment program include
+
+a. clearly stated and achievable outcomes for the curriculum

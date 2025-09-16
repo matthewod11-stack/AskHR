@@ -1,11 +1,13 @@
-## the developing world, Middlebury College.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: dbf9fdbf9607fca65dc8622f5deb426b860d421e
+title: behavioral_economics_1
+---
+## Vartiainen. Princeton, Princeton University Press.
 
-Charness, G., G. R. Frechette and J. H. Kagel (2004). "How robust is laboratory gift exchange?" Experimental
+Campbell, J. Y. and T. Vuolteenaho (2004). "Inflation Illusion and Stock Prices." American Economic Review
 
-Economics 7(2): 189-205.
+94(2): 19-23.
 
-Charness, G. and M. Rabin (2002). "Understanding social preferences with simple tests." Quarterly Journal of
-
-Economics 117(3): 817-869.
-
-Chen, K., V. Lakshminarayanan and L. Santos (2005). How Basic are Behavioral Biases? Evidence from
+Cardenas, J. C. and J. P. Carpenter (2005). Experiments and Economic Development: Lessons from field labs in

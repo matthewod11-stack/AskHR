@@ -1,3 +1,7 @@
-## Part IV • Reward Systems, Legal Issues, and Team Performance Management
-
-from the automotive division of Sears, a leading retailer of apparel, home, and automo- tive products and services, with annual revenues of more than US $40 billion. Its CP plan rewarded employees on the basis of parts and services sold to customers who brought cars in for repair. In California, a disproportionate number of Sears auto centers were making repairs. The California Consumer Affairs Commission conducted an 18-month investigation, during which it sent some of its members to the auto centers posing as customers. What did they find? Sears employees were “finding” a lot of problems and making a lot of unnecessary repairs. Half of Sears’ 72 auto-service centers in California were routinely overcharging customers for repairs, and Sears mechanics billed the undercover agents for work that was never done on 34 of the 38 undercover operations.18
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 9c0518ede64ce224f9d9c2a6df1cd04e44e18576
+title: performance_management_3rd_edition_by_aguinis
+---
+# 270

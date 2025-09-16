@@ -1,7 +1,7 @@
-# Business Management
-
-Research: Flexible Work Is Having a Mixed Impact on Employee Well-Being and Productivity
-
-To be truly engaged, employees must thrive in both their personal and professional lives. by Jeremie Brecheisen
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07THH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32ca3b28db116a58479104744e3fbfff076ab56c
+title: H07THH-PDF-ENG
+---
+# Digital Article

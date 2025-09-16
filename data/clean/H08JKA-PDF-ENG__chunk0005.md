@@ -1,37 +1,17 @@
-# executive table.”
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2761fdbe57b28ba22b0d5ea955c94db8299a20cb
+title: H08JKA-PDF-ENG
+---
+# needs.
 
-What can these CLOs learn from their colleagues who feel more closely
+But a series of recent interviews I conducted with 25 chief learning
 
-connected to their company’s strategy? My interviews identiﬁed ﬁve
+oﬃcers (CLOs) suggests a disconnect: Almost half of them said they felt
 
-distinct practices they can adopt.
+only “somewhat connected” to their CEO’s top priorities. This aligns
 
-Apply an agile approach to developing learning programs.
+with a recent report from LinkedIn that found that only 58% of learning
 
-Most companies take far too long to develop large workplace learning
-
-programs. LinkedIn’s recent report found that between 2022 and 2024,
-
-fewer than 5% had made it to their ﬁnal phase. These delays are likely to
-
-increase the gap between workplace learning and strategic priorities —
-
-and increase frustration among business stakeholders.
-
-To speed up, some companies are adopting a more agile approach
-
-to L&D programs, in which cross-functional teams of designers,
-
-content developers, and business stakeholders collaborate on learning
-
-experiences that are continuously improved with feedback and testing.
-
-Standard Chartered is one company that’s adopted this approach.
-
-Its L&D team went from having dedicated account managers serving
-
-each line of business to having multidisciplinary teams who are more
-
-able to “grasp all the creative possibilities” for a given learning need,
-
-according to Dr. Amelie Villeneuve, the bank’s global head of learning.
+and development professionals feel as though they have a “seat at the

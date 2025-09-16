@@ -1,15 +1,15 @@
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e9998b705983a507113b18a06fd2e6f44012f2c
+title: R2006F-PDF-ENG
+---
 ## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-The adoption of a functional structure may have been unsurprising
+See more HBR charts in Data & Visuals on HBR.org.
 
-for a company of Apple’s size at the time. What is surprising—in
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-fact, remarkable—is that Apple retains it today, even though the
+3
 
-company is nearly 40 times as large in terms of revenue and far more
-
-complex than it was in 1998. Senior vice presidents are in charge of
-
-functions, not products. As was the case with Jobs before him, CEO
-
-Tim Cook occupies the only position on the organizational chart where
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

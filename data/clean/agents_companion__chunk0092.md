@@ -1,21 +1,31 @@
-# Human-in-the-Loop Evaluation
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 6ca0bd4b133cc1eb41ce7373907bb89b2dd00635
+title: agents_companion
+---
+# Evaluating the Final Response
 
-The fields of agent development and agent evaluation are rapidly evolving. Evaluating
+The final response evaluation boils down to a simple question: Does your agent achieve its
 
-AI agents presents significant challenges, including defining clear objectives, designing
+goals? You can define custom success criteria, tailored to your specific needs, to measure
 
-realistic environments, managing stochastic behavior, and ensuring fairness and bias
+this. For example, you could assess whether a retail chatbot accurately answers product
 
-mitigation, particularly in socially impactful applications. Therefore, it's crucial to incorporate
+questions, or whether a research agent effectively summarizes findings with the appropriate
 
-a human-in-the-loop approach alongside the automated evaluations discussed previously
+tone and style. To automate this process, you can use autorater. An autorater is an LLM
 
-(which involve predefined metrics and autoraters). Human-in-the-loop is valuable for tasks
+that acts as a judge. Given the input prompts and the generated response, it mirrors
 
-requiring subjective judgment or creative problem-solving, it can also serve to calibrate and
+human evaluation by assessing the response against a set of user-provided criteria. For
 
-double-check if your automated evaluation approaches actually work and align with your
+this evaluation to work, it is crucial to consider that given the absence of ground-truth, you
 
-preferences. Key benefits include:
+need to be very precise in defining your evaluation criteria, as this is the core of what your
 
-- Subjectivity: Humans can evaluate qualities that are difficult to quantify, such as
+evaluation is looking at. You find a number of predefined criteria in various libraries, treat
+
+them as a starting point and tweak them to provide your definition of good.
+
+20

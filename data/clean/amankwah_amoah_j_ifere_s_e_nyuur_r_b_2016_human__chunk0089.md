@@ -1,11 +1,15 @@
-# issues. Washington: World Bank Report.
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 08bba16f714e411e7e0c940bd33474b2634e4443
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# New York: Harper Business.
 
-Nyame, F. K., & Grant, J. A. (2014). The political economy of transitory mining in Ghana: Understanding the trajectories, triumphs, and tribulations of artisanal and small-scale operators. The Extractive Industries and Society, 1(1), 75-85.
+Miller, D. (1994). What happens after success: the perils of excellence. Journal of Management
 
-Nyuur, R. & Debrah, Y.A (2014). Predicting foreign firms’ expansion and divestment intentions in host countries: Insights from Ghana. Thunderbird International Business Review, 56(5), 407– 419.
+Studies, 31(3), 325–358.
 
-Ovadje, F., & Ankomah, A. (2001). Human resource management in Nigeria. In P. S. Budhwar & Y. Debrah (Eds.), Human resource management in developing countries (174-189). London: Routledge.
+Mmieh, F., Mordi, C., Singh, S., & Asiedu-Appiah, F. (2011). Performance management in public sector enterprises: A case analysis of employees’ perceptions in the Electricity Company of Ghana (ECG). Journal of African Business, 12(3), 419-438.
 
-Peng, M. W. (2014). Global Business, 3rd edition. Cincinnati: Cengage Learning.
-
-PRB (2015). World Population Data Sheet. Retrieved from http://www.prb.org/pdf15/2015-world-
+Moja, T. (2000). Nigeria education sector analysis: An analytical synthesis of performance and main

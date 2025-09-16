@@ -1,3 +1,11 @@
-# CONTRIBUTIONS OF EARLY PHILOSOPHERS
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: aa393da05727f5453d341c4a6d0d98c77ba02e95
+title: untitled
+---
+# THE FUTURE 276 REFERENCES 276
 
-Aristotle is sometimes pointed to as a founder of educational psychology (Berliner, 1993; Charles, 1976; Kaur, 1972). Aristotle’s book De Memoria et Reminiscentia (On Memory and Reminiscence), incorporates views of learning, associa- tion, and retention (Charles, 1976). In this book, written in 350 B.C.E., Aristotle notes that memory is a function of pre- sentation; that is, memory is directly related to the context in which the learning occurred. There are very few, if any, modern-day educational psychologists who would disagree
+As Berliner (1993) notes, part of the traditional Jewish Passover service is the duty of the leader of the service to tell the story of Passover to each of his sons in turn. The father, however, must tell each son the story in such a way as to em- phasize the particular son’s own strengths and weaknesses. So, for example, the wise son may hear the entire story with additional commentaries, while the recalcitrant son may hear the story with an emphasis on obeying authority.
+
+Although the folk tradition of educational psychology has probably existed since the earliest times of humans on the earth and continues to this day, most formal histories of edu- cational psychology trace its origins to ancient philosophers and statesmen. Here we ﬁnd not only the historical roots of educational practices but also the historical roots of the psy- chology of learning and memory.

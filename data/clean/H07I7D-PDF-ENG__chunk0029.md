@@ -1,19 +1,19 @@
-# of interpersonal relationships.
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1fc87d1cdd51f1b41718b58642261510967b54c2
+title: H07I7D-PDF-ENG
+---
+## How Organizations Can Develop High Potentials
 
-Our analysis pointed to three clear priorities as organizations look to
+As organizations search for ways to ensure that their high potentials
 
-develop their high potentials:
+fulﬁll their promise, they must be prepared to equip them with
 
-- 1. Measure high potentials against speciﬁc competencies to help expand their leadership style. While most high potentials have experience managing small teams,
+the ability to think and act more strategically, to lead with greater
 
-their next career step will likely involve leading larger teams, where they
+conviction, and to cultivate and nurture relationships. In essence,
 
-won’t have the ability to regularly interact with every team member. As
+organizations must create the scaﬀolding that allows high potentials to
 
-high potentials step up to leading at scale and scope, they must create
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+simultaneously develop the macro skills of strategy and the micro skills

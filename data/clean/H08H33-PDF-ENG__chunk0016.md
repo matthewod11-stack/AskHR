@@ -1,9 +1,13 @@
-# HBR / Digital Article / Boost Your Team’s Productivity by Hiring Force Multipliers
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36511dd246f54bbf69b74a9be06f9156d5711dcc
+title: H08H33-PDF-ENG
+---
+# support growth.
 
-Worst of all, over-hiring can diminish talent density by slowing
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-down existing teams as they onboard new staﬀ. During periods of
+3
 
-rapid growth, the responsibility for hiring gets delegated to lower-
-
-level managers, further diluting the focus on maintaining high talent
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

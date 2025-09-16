@@ -1,7 +1,9 @@
-# 2 Marginal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 12826550f45fb62ff179b9a57393fad1e213f374
+title: document_resume
+---
+# productive
 
-Usually works with individuals and attends meetings. Accepts and carries out special assignments when required. Conflicts with colleagues are rare.
-
-1 Unacceptable Refuses to work with individuals. Absent from required meet- Is occasionally indifferent, antago-
-
-ings. Refuses assignments. nistic, or disruptive. Conflict with colleagues occur.
+3 Acceptable Works effectively with individuals and groups. Attends neces- sary meetings. Offers suggestions to problems. Willingly accepts and carries out special assignments. Assumes collegial role.

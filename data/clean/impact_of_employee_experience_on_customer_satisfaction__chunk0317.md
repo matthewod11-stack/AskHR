@@ -1,5 +1,53 @@
-# 59 | P a g e
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: ed751b0a3815eaf281632e5c8d6298890ff188af
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# OPERATIONAL METRICS
 
-- 4. FINDINGS, IMPLICATIONS
+2017 313 100,44 26 334,96 135 635,24 2 841,74 1 210,06
 
-CONCLUSION,
+2018 333 019,99 28 083,91 142 148,80 2 636,87 1 106,35
+
+2019 349 318,31 28 249,36 138 147,04 2 918,64 1 152,28
+
+2020 283 452,10 23 492,82 102 653,67 2 635,90 959,38
+
+322,5 31 6,7%
+
+377,9 34 8,7%
+
+367,6 37 7,4%
+
+335,0 41 8,1%
+
+2017 76 77 72 80 76 72
+
+2018
+
+2019 75 77 73 81 75 74
+
+2020
+
+16,15
+
+16,25
+
+Table 12 Economic parameters of studied company
+
+2021 355 375,93 26 144,02 142 476,56 3 416,65 1 385,97
+
+338,0 52 7,3%
+
+2021 77 79 78 82 78 75
+
+17,50
+
+2022 rolling 353 520,39 25 547,62 141 712,84 3 160,70 1 277,28
+
+362,5 55 5,8%
+
+2022 86 84 80 85 79 78
+
+20,00

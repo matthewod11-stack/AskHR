@@ -1,41 +1,25 @@
-# leadership agenda.
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc5db2ea62d117626a2248a1d99e7bfa6a062e76
+title: S24041-PDF-ENG
+---
+## HBR / Spotlight Article / Power, Influence, and CEO Succession
 
-When the existing CEO steps down and the successor formally takes oﬃce, two additional objectives become paramount.
+listen so that people feel they’re being heard and understood. Admitting
 
-Deepen support from the board. During the transition phase, the new
+that they don’t know the answer to a question and acknowledging
 
-CEO should have learned what the directors expect of her and how
+mistakes also help humanize leaders and open lines of communication.
 
-they and the outgoing CEO view the board’s relative decision-making
+New CEOs may not be used to thinking so deliberately about inﬂuence
 
-authority. After taking the reins, she must ensure that she has the
+styles. That’s because even in senior executive roles, success is more
 
-power to accomplish her goals while the board meets its oversight
+dependent on people’s own behavior than on their ability to inﬂuence
 
-responsibilities. That can require intense relationship building, which is
+others. But at the CEO level the work is diﬀerent. To succeed, especially
 
-best done by meeting one-on-one with directors, seeking to understand
+in large, complex organizations, chief executives must focus primarily
 
-each director’s priorities, and using the inﬂuence style that is most
-
-likely to persuade each. For a new CEO, learning to gain and use power
-
-in the boardroom is a critical political task, especially when a board is
-
-used to having a lot of input and control.
-
-Clarify and communicate your leadership vision. Once the existing CEO
-
-has moved on, the new leader has more freedom to articulate her own
-
-vision for the company. It shouldn’t be merely a restatement of the
-
-existing mission or a set of general aspirations. The new CEO should
-
-paint a complete picture of what will be seen, heard, and felt once the
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+on getting others to think and act in ways that will further their

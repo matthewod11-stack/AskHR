@@ -1,9 +1,19 @@
-# Sandeep Yadav (2018)
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: 22ce8b283fb98bcb5193c6f6b15400df6a6a832d
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# literature
 
-Sandeep Yadav et.al (2018) in their research on “Early Prediction of Employee Attrition using Data Mining Techniques” have focused on the importance of data mining techniques to forecast the attrition patterns in employees. Researchers have taken an IT Industry along with different departments of the organization for their research on prediction of employee attrition. Authors have used – Name of the employee, Number of Projects handled, Average Monthly Hours given, Job Satisfaction Level, Time spent in the organization (Years), Last Evaluation, Departments, Work mishap, Absent, Promotion & Rewards last 5 years, compensation, salary level as a variables for measuring the reasons of attrition. Techniques as Data Pre-processing, Featuring Engineering, Data Modelling & Comparison are employed the research Hot Encoding process is IT, used to steely various department as Accounting, Management, Product Management, Sales, Support, Technical. Logistic Regression, SVM Model are usedfor getting the Categorization Results of Hot Programming Method.
+review, collected differing
 
-HR,
+International Research Journal on Advanced Science Hub (IRJASH)
 
-The outcome of these study shows, Employee attrition can influence an organization in many disciplines like reputation, revenues, position in the market, and cost in terms of both time and money. So, during hiring if the organization able to take preventive measure that will help the organization to reduce attrition. It was understood that development, promotions are not the only justifications at the back of the employee attrition. During hiring other aspects also, company needs to consider. And through this concept the firm can build dependable and correct models which can improve the hiring and preservation cost of quality employees and the attrition position of enable
+Volume 02 Issue 10S October 2020 viewpoints and assessments have given idea on the factors of employee attrition. The various highlighted the outcomes of concentrated literature review and the references helped to understand employee engagement and the organizational importance of HR Analytics in attrition reduction.
 
-compensation,
+statistics are
+
+structure,
+
+conceptualizing

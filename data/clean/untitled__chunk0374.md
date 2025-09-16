@@ -1,7 +1,21 @@
-# 44 Psychology as a Profession
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4275093ccb786631eae2bcb274ca8036c83ae0dc
+title: untitled
+---
+## psychotherapy. Berkeley: University of California Press.
 
-Coon, D. J. (1992).Testing the limits of sense and science:American experimental psychologists combat spiritualism, 1880–1920. American Psychologist, 47, 143–151.
+Capshew, J. H. (1999). Psychologists on the march: Science, prac- tice, and professional identity in America, 1929–1969. New York: Cambridge University Press.
 
-Cummings, N. A. (1979). Mental health and national health insurance: A case history of the struggle for professional auton- omy. In C. A. Kiesler, N. A. Cummings, & G. R. VandenBos (Eds.), Psychology and national health insurance: A sourcebook (pp. 5–16). Washington, DC: American Psychological As- sociation.
+Cattell, J. M. (1890). Mental tests and measurements. Mind, 51,
 
-Cutts, N. E. (1955). School psychologists at mid-century.
+373–381.
+
+Cattell, J. M. (1893). Tests of the senses and faculties. Educational
+
+Review, 5, 257–265.
+
+Cohen, L. D. (1992). The academic department. In D. K. Freedheim (Ed.), History of psychotherapy: A century of change (p. 731– 764). Washington, DC: American Psychological Association.
+
+43

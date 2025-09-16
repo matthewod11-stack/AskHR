@@ -1,5 +1,7 @@
-# content/uploads/2014/09/bhuvaneswari.pdf
-
-Chaudhary A.K., Jain N. (2013). A comparative study of organizational culture among public,
-
-deemed and private universities of Rajasthan. International Journal of Creative Research
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 6a78a629f6414a789edc7197431cc2b3245cd079
+title: issn_print_0976_013x
+---
+# http://www.indianresearchjournal.com/wp-

@@ -1,11 +1,15 @@
-## physical openness of its branches, the color coding of diﬀerent service
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e68eadf1cca9bdfbdf883542c531f9b1ee3bff27
+title: R2504J-PDF-ENG
+---
+# more.
 
-areas within them, and transparency, which comes from practices like
+Consider our Capitec visualization again. If you look at the ﬁrm’s value
 
-making employees and customers look at the computer screen together
+proposition in it, you clearly see the four subconcepts deﬁning it.
 
-when ﬁlling out a loan application.
+For each subconcept you can then go down into a further layer. For
 
-The layers move the framework beyond abstraction: They show the
-
-concrete implications of the bank’s conceptual choices and thus tie the
+instance, you can see what constitutes the subconcept accessibility: the

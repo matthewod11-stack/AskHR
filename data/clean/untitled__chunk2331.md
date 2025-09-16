@@ -1,5 +1,9 @@
-# Employment Characteristics and Services
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 97991a2f39f7d79a5439d2319d60d518fc10cd03
+title: untitled
+---
+# 414 School Psychology
 
-School psychologists work predominately in school settings (atleast80%),under9-or10-monthcontracts(180–200days). In 1999, their average salary was $49,000 per year.As school districtemployees,mostaresubjecttothedistrict’sconditions and receive beneﬁts and retirement packages similar to those of other district employees. Other school psychologists work in a variety of nonschool settings. Among them, 3% to 5% workfull-timeinprivatepractice,and3%to4%incollegesor universities.
-
-The referrals most commonly made to school psycholo- gists come from children in the elementary school grades and aremoreoftenmalesthanfemales.Thereferralsareassociated with learning and behavioral difﬁculties that teachers and/or parents often suspect are related to one or more categories of disability within the regulations of the state education agency. Surveys of practitioners have consistently revealed that they spend at least 50% of their time in psychoeducational assess- ment activities related to special education referrals, per- haps 40% of their time in consultation and direct intervention activities, and the remaining 10% in research and evaluation, in-service instruction, and administrative duties.
+semester hours, while doctoral programs typically require 100 or more. Both degrees require the equivalent of at least one schoolyearofsupervisedinternship(aminimumof1,200hours at the nondoctoral level and 1,500 hours at the doctoral level). School psychologists are granted practice credentials (cer- tiﬁcates or licenses) by each state’s department of education (SDE) and/or by a separate state board of examiners in psy- chology (SBEP). The SDE credentials school psychologists for practice in the settings under its jurisdiction, typically all public schools but also possibly private schools, correctional schools, and residential schools. The SBEP credentials prac- titioners, often referred to as health service providers, for practice in settings under its jurisdiction, typically all non- school settings within the state (e.g., mental health centers, hospitals, independent private practice). In some states the jurisdictional authority is less distinct.

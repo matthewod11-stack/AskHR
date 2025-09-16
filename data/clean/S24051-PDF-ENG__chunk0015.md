@@ -1,13 +1,11 @@
-# conditions, priorities, data, and needs.
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c243b925949fd2ff42d6b8e6932b4ddbfc8f03e2
+title: S24051-PDF-ENG
+---
+## continuous improvement throughout the organization, not just in a
 
-The hands-on world of auto manufacturing produced one of the earliest
+single team or department. They are structured enough to provide
 
-and best-known examples of a cross-functional team operating system:
-
-the Toyota Production System. Developed in the 1950s, it combined
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+consistent guidance but loose enough to accommodate changing

@@ -1,7 +1,21 @@
-## geographic expansion, and less franchising—or change its value proposition
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 084f6e49714f3bdb7cb8d7a52b01b575f0c6c280
+title: S24021-PDF-ENG
+---
+## HBR / Spotlight / How Fast Should Your Company Really Grow?
 
-and culture to enable faster growth, broader geographic expansion, and
+In the aftermath of this change in strategy, the company struggled. Every
 
-more franchising. They tried to have it both ways, and it didn’t work. As
+time it expanded into a new geography, it needed to develop a new supplier
 
-of 2023, the company was down to just 13 outlets, 11 of which were in
+base to fulfill its fresh and local promise. And every franchise selection
+
+required a time-consuming process to make sure the franchisee shared
+
+the founders’ philosophy. The company’s leaders should have realized that
+
+they faced a strategic choice: Either align its growth strategy with its core
+
+value proposition—which would have meant slower growth, less-aggressive

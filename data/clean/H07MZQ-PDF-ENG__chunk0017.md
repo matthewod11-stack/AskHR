@@ -1,17 +1,21 @@
-# HBR / Digital Article / How to Support Parents of Neurodivergent Children at Work
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 304d6049c877a3574e15359d90f06432447c3153
+title: H07MZQ-PDF-ENG
+---
+# professional place at work.
 
-When I did speak up, I was overwhelmed with messages from people
+It took me about three more years before I spoke up about what
 
-sharing their own stories with me.
+parenting my autistic son looks like at work, but I did it because I
 
-My (Kalifa’s) autistic son, now 8 years old, often goes through periods
+realized I was in a position to normalize the conversation and create
 
-where he has severe sleep issues (which can be typical with autism)
+a foundation for support for anyone going through what I went through.
 
-that amplify some behaviors related to autism and comorbid conditions.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-This disrupts the whole family’s sleep — including his younger siblings’
+4
 
-— and also means I am exhausted and stressed out during my workday.
-
-These unpredictable periods take a toll on my energy, well-being, and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

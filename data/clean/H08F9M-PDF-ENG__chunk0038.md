@@ -1,23 +1,15 @@
-# purposeful action, learning and change.
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38882c002b57fd29eac1d0a07d04c9a0ddadae43
+title: H08F9M-PDF-ENG
+---
+## The soul and heart of leadership generate commitment and energy but
 
-We capture the mind of leadership as a process — the leadership process
+unleashing it in a meaningful way requires something more. This is
 
-— that reﬂects speciﬁc patterns that are common, useful and eﬀective
+where eﬀective leaders mobilize people in a process of action, learning
 
-in every situation that calls for action, learning, and change. It is the
+and change aimed at solving tough problems and pursuing meaningful
 
-domain of sizing up problems and opportunities, creating a vision of the
-
-work, and setting direction. It is where leaders build teams, establish
-
-plans, and engage people in the work. It is through this process that
-
-leaders activate the potential energy in people and teams and help them
-
-maintain disciplined attention and focus.
-
-The leadership process is a powerful, but ﬂexible framework for
-
-initiating change, and mobilizing and empowering people. It can be
-
-used with a single individual, with a small team, a major project, an
+opportunities. This is what we call the mind of leadership — advancing

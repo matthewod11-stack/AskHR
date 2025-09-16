@@ -1,3 +1,9 @@
-# Training Developments
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 76883bcb1a500b2bb09577335548faf87a0d3608
+title: untitled
+---
+# Literary Developments
 
-Although there were only a few programs at the beginning of this period, at least 18 (including 5 doctoral programs) were identiﬁed by the time of the Thayer Conference, and about 100 programs speciﬁcally on school psychology existed by 1970. However, APAaccreditation of school psychology pro- grams was not accomplished until 1971. Thus, during this period, programs were developed in the absence of ofﬁcial APAcurriculum standards, although some programs used the guidelines being developed by Division 16 in its effort to achieve accreditation. Programs were more often devel- oped to comply with the requirements for certiﬁcation and licensure put forth by state-level education and psychology boards. By the end of this period, school psychology pro- grams were widespread in the more populous states, espe- cially east of the Mississippi River, and approximately 3,000 students were in training. Locally developed and uncoordi- nated efforts provided internships for trainees in most states, although a few, like Ohio, developed a statewide system of paid internships by the mid-1960s.
+More literature speciﬁc to school psychology was produced in this period than in all the previous periods combined. In addition to the Thayer Conference proceedings, a special issue of the Journal of Consulting Psychology (Symonds, 1942) focused on practice in the schools. The primary events, however, were the founding of the Journal of School Psy- chology in 1963 and Psychology in the Schools in 1964. School psychology ﬁnally had a literature of its own. The Division of School Psychology had a newsletter, as did the state associations, but their content and circulation were much narrower than these journals provided. Several books about school psychology were published in the 1960s. Many of these were philosophical in nature, describing the authors’ viewpoints on the appropriate roles and functions of school psychologists and their training needs. The literature re- ﬂected the growing interest in the ﬁeld, the need for texts in emerging training programs, and a continuing effort to clarify the ﬁeld’s identity (Fagan, 1986).

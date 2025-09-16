@@ -1,11 +1,15 @@
-# input from colleagues.
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3479a7cae5dc2cbb790647d30a10c219bb40169a
+title: H08SQS-PDF-ENG
+---
+# HBR / Digital Article / Research: Executives Who Used Gen AI Made Worse Predictions
 
-- ChatGPT consultation (treatment group): These executives could ask
+- Peer discussion (control group): These executives discussed their
 
-ChatGPT anything they liked about Nvidia’s stock (for example, to
+forecasts in small groups for a few minutes. They did not use any AI
 
-analyze recent trends or give a one-month forecast) but they were
+tools, just human conversation, sharing thoughts or information they
 
-told not to talk to any peers. This scenario represents an AI-assisted
-
-decision process, where an executive might consult an AI advisor
+had. This mimics a traditional approach to decision-making: getting

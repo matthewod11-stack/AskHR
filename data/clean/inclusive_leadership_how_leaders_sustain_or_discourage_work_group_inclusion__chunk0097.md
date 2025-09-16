@@ -1,7 +1,13 @@
-# Applied Psychology, 96(4), 806-826.
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 420b0d6c0c046c6df55182dd3db6c916cf7695fc
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# Group & Organization Management 0(0)
 
-Yilmaz, B.K., & Dalkilic, O.S. (2019). Conceptual framework about tokenism phe- nomenon in organizations. International Journal of Contemporary Economics and Administrative Sciences, 9(2), 205-231.
+Winters, M. F. (2014). From diversity to inclusion: An inclusion equation. In B. M. Ferdman, & B. R. Deane (Eds.), Diversity at work: The practice of inclusion (pp. 205-228). San Francisco, CA: Jossey-Bass.
 
-Zheng, X., Diaz, I., Zheng, X., & Tang, N. (2017). From deep-level similarity to taking charge: The moderating role of face consciousness and managerial competency of inclusion. Leadership & Organization Development Journal, 38(1), 89-104.
+Wirth, J. H., Sacco, D. F., Hugenburg, K., & Williams, K. D. (2010). Eye gaze as relational evaluation: Averted eye gaze leads to feelings of ostracism and relational devaluation. Personality & Social Psychology Bulletin, 36, 869-882.
 
-Associate Editor: Lisa Nishii Submitted Date: January 31, 2021 Revised Submission Date: January 31, 2021 Acceptance Date: February 9, 2021
+Yaffe, T., & Kark, R. (2011). Leading by example: The case of leader OCB. Journal of

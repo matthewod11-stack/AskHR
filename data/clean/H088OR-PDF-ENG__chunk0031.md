@@ -1,31 +1,17 @@
-## HBR / Digital Article / Hybrid Work Has Changed Meetings Forever
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa783292e63a4412da332978b49ffacec2435d94
+title: H088OR-PDF-ENG
+---
+# hours and meeting-free days.
 
-don’t have to boil the ocean. From our analysis, 54% of all meetings
+Identify the people who can make a difference and support them. Running eﬀective meetings is a skill, and like any skill, it can be
 
-are hosted by just 10% of employees. These “power users” have an
+cultivated and strengthened. Fortunately, to make positive changes you
 
-outsized inﬂuence on meeting culture, setting the tone for the majority
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-of meetings within the company. Once you’ve deﬁned best practices
+8
 
-and areas for improvement, targeted training for this group can allow
-
-beneﬁts to propagate across the board.
-
-Leverage data to validate and iterate.
-
-Once you’ve identiﬁed areas for improvement, leverage collaboration
-
-data to monitor progress and iterate as necessary. For instance, if a
-
-speciﬁc department has a particularly high no-participation rate, you
-
-could monitor how that number changes as you roll out trainings
-
-within the department. McKinsey published a case study of how
-
-Netﬂix implemented similar steps with the goal of improving meeting
-
-eﬃciency. They reduced the number of meetings by a whopping 65%
-
-with over 85% of employees favoring the approach.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

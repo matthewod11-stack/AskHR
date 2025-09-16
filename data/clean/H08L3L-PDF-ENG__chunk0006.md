@@ -1,27 +1,15 @@
-# day-to-day work and life.
+---
+source_path: H08L3L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0561e51fa3b4818751beac8abf363e20292ab6c
+title: H08L3L-PDF-ENG
+---
+# Prepare
 
-So, before you embark on any of the exercises we describe below,
+Creativity requires being in the right headspace for it. There’s a reason
 
-it’s important to get yourself ready. Block out time, engage in some
+that some of our best ideas come while showering; we’re often doing
 
-breathing exercises to boost your focus, and ensure that you are open
+it after mind-clearing sleep or exercise and, for at least a few minutes
 
-and receptive to your own thoughts and feelings as well as those of your
-
-creative partners. Remember that the process will be messy — full of
-
-iteration and reiteration — but that the end goal is to emerge with novel
-
-ideas that spur growth.
-
-Whether working alone or with colleagues, it can also be helpful to ask
-
-yourself context-setting questions, such as “Where are we? Where do we
-
-want to go? Do we have the right support and systems to think and act
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as the water rains down on us, we’re removed from the distractions of

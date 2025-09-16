@@ -1,11 +1,19 @@
-## an array of peer assessments, such as 360-degree feedback, that focus
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d063a4d4e7bf6a1fcac819e08d1c6667ee78ee9
+title: R2504L-PDF-ENG
+---
+# reporting.
 
-on behavior and interpersonal skills. These reports are subjective, of
+Revise career planning and advancement. As noted above, promoting
 
-course, but in remote contexts there are few better alternatives.
+people to management positions on the basis of strong individual performance can backﬁre; such people often are ineﬀective leaders. So
 
-Managers should be aware that remote or hybrid workers may not know
+how do managers make decisions about career advancement when they
 
-what jobs they might aspire to or would be suited for because they
+cannot easily observe how well remote workers get along with others,
 
-lack the opportunity to observe people in other roles. Managers can
+whether they support peers and subordinates, and so forth? Many fully
+
+remote companies—including Atlassian, GitLab, and Shopify—rely on

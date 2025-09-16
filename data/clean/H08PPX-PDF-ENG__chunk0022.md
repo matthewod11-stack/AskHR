@@ -1,13 +1,15 @@
-## priority and a practical, relevant endeavor.
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7c284f7145b0dbeea5eb0ad5335fbfdaaee057e6
+title: H08PPX-PDF-ENG
+---
+# HBR / Digital Article / To Make Your DEI Efforts More Effective, Challenge Outdated M…
 
-Active micro-learning—short, frequent, and customized learning
+that incorporate adaptive content, real-time feedback, and role-speciﬁc
 
-sessions—aligns with the evolving attention spans of adult learners,
+applications can signiﬁcantly enhance engagement and retention.
 
-making the content more digestible and impactful. Technology plays a
+For adult learners, including C-suite leaders, continuous learning is
 
-vital role as well, enabling personalized learning solutions that adjust in
-
-real time based on learner progress and feedback. Such solutions help
-
-ensure that key concepts resonate with diverse learners, facilitating a
+essential to reinforce that diversity education is both an organizational

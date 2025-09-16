@@ -1,3 +1,11 @@
-## organizations. Group & Organization Management, 31, 212-236.
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: ec37267680b1487307a8466b6d3538c853dfac46
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+## perspective. The Mid-Atlantic Journal of Business, 32, 155-170.
 
-Roberson, Q., & Perry, J. L. (2021). Inclusive leadership in thought and action: A qualitative study of leader perception and behavior. Group & Organization Management. Advance online publication. doi:10.1177/10596011211013161 Robinson, G., & Dechant, K. (1997). Building a business case for diversity. Academy
+Riketta, M., & Van Dick, R. (2005). Foci of attachment in organizations: A meta- analytic comparison of the strength and correlates of workgroup versus organi- zational identiﬁcation and commitment. Journal of Vocational Behavior, 67, 490-510.
+
+Roberson, Q. M. (2006). Disentangling the meanings of diversity and inclusion in

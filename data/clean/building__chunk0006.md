@@ -1,3 +1,11 @@
-# Stage 1: Develop your AI strategy
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 98cf83d7742d95923de46fd5b2f790fd6fa72304
+title: building
+---
+# i
 
-A successful enterprise AI strategy requires a three-dimensional approach encompassing people, processes, and technology. Each dimension requires specific attention to ensure comprehensive implementation and sustainable adoption.
+, e t a r e t i
+
+3

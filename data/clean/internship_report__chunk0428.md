@@ -1,7 +1,11 @@
-# long run
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: d1cf34c30cc2ec73e9169f0af1b46e92d821a425
+title: internship_report
+---
+# employees through different employee
 
-demotivated employees try to find
+- (cid:32) Company wants to retain people for
 
-- (cid:32)
-
-If any business unit shut downs,
+engagement program. As a result,

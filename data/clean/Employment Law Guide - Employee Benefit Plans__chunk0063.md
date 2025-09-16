@@ -1,9 +1,11 @@
-# Guide for Employee Beneﬁt Plans(https://www.dol.gov/sites/dolgov/ﬁles/ebsa/about-ebsa/our-activities/resource-
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: 4c1686fad54bf008ad384a02b11121c6bdd37d79
+title: Employment Law Guide - Employee Benefit Plans
+---
+## Recordkeeping, Reporting, Notices and Posters (Retirement Plans)
 
-center/publications/reporting-and-disclosure-guide-for-employee-beneﬁt-plans.pdf) has been prepared by EBSA with
+Posters. There are no Federal poster requirements.
 
-assistance from PBGC. It is intended to be used as a quick reference tool for certain basic disclosure
-
-requirements under ERISA. Not all ERISA disclosure requirements are reﬂected in this guide. For example, the guide, as a general matter, does not focus on disclosures required by the Internal Revenue Code or the
-
-provisions of ERISA for which the IRS has regulatory and interpretive authority.
+Notices. ERISA contains several notice requirements for retirement plans, such as the summary plan description, individual beneﬁt statements, and the summary annual report. The Reporting and Disclosure

@@ -1,11 +1,9 @@
-# the tranquility deep inside you.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91913e84a48c0e115cbf2ae66098c0a46d6bde00
+title: S24011-PDF-ENG
+---
+## Self-Realization Energy: Centered in a Joyful Spirit
 
-23.Affirm a core identity. Help people see a positive quality as already
-
-being present at their core. For example, a manager might say,
-
-“Remember how composed you were at your last presentation? That
-
-is an intrinsic quality I’ve seen you possess. Tap into it, and this meeting
-
-will go smoothly.”
+22.Get centered. Step back from your thoughts and feelings and focus on

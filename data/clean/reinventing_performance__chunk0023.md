@@ -1,15 +1,21 @@
-## THE BIG IDEA REINVENTING PERFORMANCE MANAGEMENT
+---
+source_path: reinventing_performance.md
+pages: n/a-n/a
+chunk_id: a1b40f340539cf4321cbb758c28acb15552832d3
+title: reinventing_performance
+---
+# HBR.ORG
 
-(weekly!) use of our system, we have to think of it as a consumer technology—that is, designed to be simple, quick, and above all engaging to use. Many of the successful consumer technologies of the past several years (particularly social media) are sharing technologies, which suggests that most of us are consistently interested in ourselves—our own in- sights, achievements, and impact. So we want this new system to provide a place for people to explore and share what is best about themselves.
+How Deloitte Built a Radically Simple Performance Measure One of the most important tools in our redesigned performance management system is the “performance snapshot.” It lets us see performance quickly and reliably across the organization, freeing us to spend more time engaging with our people. Here’s how we created it.
 
-Transparency This is where we are today: We’ve defined three ob- jectives at the root of performance management—to recognize, see, and fuel performance. We have three interlocking rituals to support them—the annual compensation decision, the quarterly or per-project
+1 THE CRITERIA We looked for measures that met three criteria. To neutralize the idiosyncratic rater eﬀect, we wanted raters to rate their own actions, rather than the qualities or behaviors of the ratee. To generate the necessary range, the questions had to be phrased in the extreme. And to avoid confusion, each one had to contain a single, easily understood concept. We chose one about pay, one about teamwork, one about poor performance, and one about promotion. Those categories may or may not be right for other organizations, but they work for us.
 
-Our question now is not What is the simplest view of you? but What is the richest?
+questions should collectively test an underlying theory and make it possible to ﬁnd correlations with outcomes measured in other ways, such as engagement surveys.)
 
-performance snapshot, and the weekly check-in. And we’ve shifted from a batched focus on the past to a continual focus on the future, through regular eval- uations and frequent check-ins. As we’ve tested each element of this design with ever-larger groups across Deloitte, we’ve seen that the change can be an evolution over time: Different business units can in- troduce a strengths orientation first, then more-frequent conversations, then new ways of measuring, and finally new soft- ware for monitoring performance. (See the exhibit “Performance Intelligence.”)
+4 FREQUENCY At Deloitte we live and work in a project structure, so it makes sense for us to produce a performance snapshot at the end of each project. For longer-term projects we’ve decided that quarterly is the best frequency. Our goal is to strike the right balance between tying the evaluation as tightly as possible to the experience of the performance and not overburdening our team leaders, lest survey fatigue yield poor data.
 
-But one issue has surfaced again and again during this work, and that’s the issue of transparency. When an organiza- tion knows something about us, and that knowledge is captured in a number, we often feel entitled to know it—to know where we stand. We suspect that this issue will need its own radical answer.
+2 THE RATER We were looking for someone with vivid experience of the individual’s performance and whose subjective judgment we felt was important. We agreed that team leaders are closest to the performance of ratees and, by virtue of their roles, must exercise subjective judgment. We could have included functional managers, or even ratees’ peers, but we wanted to start with clarity and simplicity.
 
-In the first version of our design, we kept the results of performance snapshots from the team member. We did this because we knew from the
+3 TESTING We then tested that our questions would produce useful data. Validity testing focuses on their diﬃculty (as revealed by mean responses) and the range of responses (as revealed by standard deviations). We knew that if they consistently yielded a tight cluster of “strongly agree” responses, we wouldn’t get the diﬀerentiation we were looking for. Construct validity and criterion-related validity are also important. (That is, the
 
-50  Harvard Business Review April 2015
+5 TRANSPARENCY We’re experimenting with this now. We want our snapshots to reveal the real-time “truth” of what our team leaders think, yet our experience tells us that if they know that team members will see every data point, they may be tempted to sugarcoat the results to avoid diﬃcult conversations. We know that we’ll aggregate an individual’s snapshot scores into an annual composite. But what, exactly, should we share at year’s end? We want to err on the side of sharing more, not less—to aggregate snapshot scores not only for client work but also for internal projects, along with performance metrics such as hours and sales, in the context of a group of peers—so that we can give our people the richest possible view of where they stand. Time will tell how close to that ideal we can get.

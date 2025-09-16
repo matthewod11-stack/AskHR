@@ -1,9 +1,15 @@
-# Kessler Foundation. (2023). nTIDE November 2023 Jobs Report. https://kesslerfoundation.org/press- release/ntide-november-2023-jobs-report-people-disabilities-buck-cooling-trend-reaching-new
+---
+source_path: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion.md
+pages: n/a-n/a
+chunk_id: 89945f8e5cd99a57f48d5b96d2a7a3b54d09cbe7
+title: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion
+---
+# Bezyak et al.
 
-Krippendorff K. (1980). Content analysis: An introduction to its methodology. Sage. Kuhl T, Scheiter K, Gerjets P, & Gemballa S (2011). Can differences in learning strategies explain the benefits of learning from static and dynamic visualizations. Computers & Education, 56(1), 176–187. 10.1016/j.compedu.2010.08.008
+Kaye HS, Jans LH, & Jones EC (2011). Why don’t employers hire and retain workers with
 
-McDonnall MC & Antonelli K (2019). A second look at factors associated with employer hiring behavior regarding people who are blind or have low vision. Journal of Visual Impairment & Blindness, 113(6), 538–550. 10.1177/0145482X19887642
+disabilities? Journal of Occupational Rehabilitation, 21(4), 526–536. 10.1007/s10926-011-9302-8 [PubMed: 21400039]
 
-Mohamed AA & Abdulrahman AA (2020). Effect of case study teaching strategy on nursing students’ perception of teaching effectiveness. International Journal of Nursing Education, 12(4), 285–291. 10.37506/ijone.v12i4.11264
+Kelley HH (1967). Attribution theory in social psychology. In Levine D (Ed.), Nebraska Symposium
 
-Nohria N. (2021, December 21). What the case study really teaches us. Harvard Business Review.
+on Motivation (Vol. 15, pp. 192–240). University of Nebraska Press.

@@ -1,23 +1,31 @@
-# work.
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95aacd742138d5a80790a90df2bdb499720cc343
+title: H087DT-PDF-ENG
+---
+## HBR / Digital Article / Make Your Workday Work for Your Mental Health
 
-Create routines to do tasks without imminent deadlines
+But this will only happen if you’ve got well-established, consistent
 
-Tackling tasks with imminent deadlines may feel intuitive and obvious,
+habits. If you sometimes do your focused work at 10 AM, but other times
 
-but if all you’re getting done is what’s right in front of you, you’ll
+you try to do it at 1 PM, you won’t experience the full beneﬁts of how
 
-generally feel a lack of control. When you accomplish important small
+habits reduce your need for discipline.
 
-tasks that don’t have deadlines but that do need to get done, on the
+Anyone can beneﬁt from this strategy, but particularly those who have
 
-other hand, you’ll feel like you’re managing your life well. Regularly set
+episodic mental health challenges, like depression, or those who go
 
-aside time for these kinds of small administrative tasks. Whether it’s
+through periods when their concentration is poor due to anxiety and
 
-getting back to a colleague about a collaboration that’s weeks away or
+rumination or worry. If you have strong habits for when you focus
 
-ﬁnally scheduling that appointment with the doctor or therapist, admin
+on work, it’s more likely you’ll get your work done. Keeping up your
 
-tasks create a lot of mental drain. You think I should do that but don’t.
+important habits during stressful times can protect you against the risk
 
-And those thoughts keep recurring. To-dos that roll over from one day’s
+of unraveling. It can help you feel steady, stop your conﬁdence from
+
+eroding, and ensure you don’t have added stress from piles of undone

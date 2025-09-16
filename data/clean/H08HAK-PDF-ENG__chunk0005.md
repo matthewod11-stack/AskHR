@@ -1,7 +1,21 @@
-# speak to.
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ffb857bb5a3f7e14d69dae611911ac521e9ff67c
+title: H08HAK-PDF-ENG
+---
+# HBR / Digital Article / Research: Performance Reviews That Actually Motivate Employ…
 
-So how should companies conduct performance reviews? Do employees
+reviews is strong: narrative performance reviews allow for more context and can better oﬀer employees ways to improve while aﬃrming
 
-actually ﬁnd narrative structures to be more encouraging and
+their particular strengths. At the same time, some companies who’ve
 
-motivating? Are there some circumstances where employees prefer
+eliminated numerical reviews have reverted to creating “shadow”
+
+rankings, where narrative feedback is oﬀered to employees, but internal
+
+numbers are used in order to track growth or to have a more objective
+
+way to tie performance to bonuses or raises. This can leave employees
+
+feeling like they’re being secretly judged in ways they can’t ﬁght or

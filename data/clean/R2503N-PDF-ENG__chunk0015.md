@@ -1,31 +1,15 @@
-## too, the famous moment during the 1992 U.S. presidential debate, when
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91411979697e7033904ee54708d7ebb983993c9a
+title: R2503N-PDF-ENG
+---
+# any visible signs of engagement.
 
-George Bush Sr., running for reelection, checked his wristwatch just
+At Google, for example, Pichai hasn’t stopped listening to employees
 
-before a voter asked him a question about the national debt and the
+or working to ﬁx problems they raise—he is by most accounts a caring
 
-recession. His response—“Of course, you feel it when you’re president
+and attentive leader. But by changing the TGIF meetings, he removed
 
-of the United States; that’s why I’m trying to do something about it, by
-
-stimulating the export, investing more, a better education system”—was
-
-overshadowed by the gesture, which many perceived as a signal he was
-
-ready for the town hall to be over.
-
-To avoid appearing indiﬀerent, leaders must be more communicative
-
-and transparent. They can use body language known as “back
-
-channeling”—behaviors that signal that they’re listening. They include
-
-maintaining eye contact, nodding, and adopting an open posture (with
-
-your arms relaxed at your sides rather than crossed in front of your
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a very visible symbol of his willingness to hear feedback. Consider,

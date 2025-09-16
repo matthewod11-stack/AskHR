@@ -1,15 +1,37 @@
-## best utilized for systems integrations, beneﬁts, and decision-making
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2a0fec8122da5c7417e05247e511a6effa4b669
+title: H08ON1-PDF-ENG
+---
+## into the integration phase with a pretty robust plan, but they rarely
 
-questions speciﬁcally, especially when the issues involved are unique to
+think about what the employee’s experience will look like. Mapping
 
-the employee. For example, one employee’s experience prior to parental
+that out early on will allow you to identify key touchpoints and pain
 
-leave was made more stressful because the information she needed
+points to plan for, such as systems employees use to gain information,
 
-couldn’t be found on the beneﬁts webpage, and she had a hard time
+HR systems that help them utilize their beneﬁts, and everyday items
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+that help them complete their work or administrative tasks—from
 
-6
+redesigned logos to ID badges. Thinking about the employee journey
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as part of the larger M&A process will help you anticipate and manage
+
+aspects of integration that might otherwise get overlooked, such as
+
+deactivating old employee badges before the new ones have been
+
+distributed. Some of these may seem minor, but when they are missed,
+
+it wreaks havoc.
+
+The journey map will also inform what resources you’ll need to
+
+assemble and in what format. Consider a mix of written or automated
+
+support along with live, face-to-face options. While automated support
+
+is typically more cost-eﬀective and scalable, live, targeted support is

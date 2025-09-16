@@ -1,21 +1,31 @@
-# related factors.
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1333d1bb3a70e74ab6c2f91a7675624c46d0e1d
+title: H08QTQ-PDF-ENG
+---
+## HBR / Digital Article / The Right Way to Implement Stretch Assignments
 
-Our ﬁndings surface a critical but underexamined pattern: The impact
+access to these assignments by measuring how frequently respondents
 
-of stretch assignments lies not only in when they begin to shape careers
+engaged in each type. Survey participants were asked how often, since
 
-(often, early on), but also in how they shape those careers—and that
+starting their current job, their assignments involved either generating
 
-impact is not uniform.
+interest and feedback from others (visibility) or working in unfamiliar
 
-Speciﬁcally, we found that early-career stretch assignments—especially
+areas (new areas), using a ﬁve-point scale from “never” to “very often.”
 
-those involving new and unfamiliar areas of work—were more strongly
+We also examined how these types of assignments were connected to
 
-linked to expected rewards for dominant groups in engineering: men
+each participant’s expectation of job rewards. Speciﬁcally, we asked how
 
-and engineers from White and Asian backgrounds. By contrast, the
+likely participants thought they were to receive a raise or promotion in
 
-same types of assignments were not linked to the same expected
+the next year, using a ﬁve-point scale from “deﬁnitely not” to “deﬁnitely
 
-rewards for similarly qualiﬁed and positioned women engineers or
+yes.” While we didn’t ask participants to directly link their expectations
+
+to stretch assignments, our statistical models allowed us to analyze these relationships—oﬀering insight into how stretch work may shape perceptions of career advancement. We looked at diﬀerences by gender
+
+and race/ethnicity among engineers, controlling for academic and job-

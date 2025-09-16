@@ -1,17 +1,19 @@
-# HBR / Digital Article / Research: Why Companies Should Disclose Their Lack of Progre…
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f50ae456c252f53671cb82466f9def00dbc5f733
+title: H088Z4-PDF-ENG
+---
+## the act of transparency signals something beyond the particulars of
 
-To examine this logic, in one study, we obtained real EEO-1 reports
+numerical representation. It signals that the organization is genuinely
 
-— the previously mentioned numerical breakdowns of the racial- and
+committed to the goal of advancing diversity because they are willing to
 
-gender-makeup of companies by job category, including aggregated
+be honest about their current standing, even if its risky to do so.
 
-totals from the previous year — from 30 large companies like Apple,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Chevron, Costco, Netﬂix, and Starbucks that were publicly disclosed
+3
 
-in 2021. Generally, these reports revealed low levels of racial and
-
-ethnic diversity, particularly in senior management. The reports also
-
-revealed that companies generally struggled to increase diversity from
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

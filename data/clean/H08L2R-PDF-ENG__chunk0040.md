@@ -1,27 +1,13 @@
-# questions.
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 818f6963f706b1eb7a1ad7142f6433e22ac6e6ae
+title: H08L2R-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Managers Think Through Problems
 
-- Participate actively: You must engage with the machine in a back-
+dialogue. You can prompt gen AI to drive you through a structured
 
-and-forth interaction. Both parties contribute with feedback and
+dialogue about a topic or issue you choose, elaborating on your
 
-mutual challenges, and ultimately co-create the output together. To
-
-receive appropriate advice, tailored answers, and helpful suggestions,
-
-start by providing a brief and accurate overview of your situation with
-
-clear context. Then, build on it by engaging actively — share your
-
-reﬂections and personal experiences, and ask follow-up questions.
-
-- Challenge the AI: As in a dialogue with a human, some friction
-
-in the thinking process is valuable. Ask the AI to provide diﬀerent
-
-perspectives, ideas, or overlooked options. Don’t stop at the ﬁrst
-
-generated output or conform too quickly to what the AI gives you. For
-
-example, ask “Are we missing any important aspects?” Or, “What if we
-
-looked at this problem from the point of view of …?”
+answers, adding overlooked dimensions, and leading to follow-up

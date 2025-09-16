@@ -1,9 +1,41 @@
-# appeal to a U.S. Court of Appeals.
+---
+source_path: Employment Law Guide - Mine Safety and Health.md
+pages: n/a-n/a
+chunk_id: 8933c583a66d77e6b9150ec7466a8c78d65d7bc1
+title: Employment Law Guide - Mine Safety and Health
+---
+# Basic Provisions/Requirements
 
-The Mine Act requires MSHA to promulgate new or improved mandatory safety or health standards to protect life and prevent injuries. Under the Mine Act, mine operators must notify MSHA when they open or close a
+The Mine Act requires MSHA to inspect each surface mine at least 2 times a year and each underground mine
 
-mine. In addition, operators may request the modiﬁcation of the application of a safety standard at a mine.
+at least 4 times a year. (MSHA inspects seasonal or intermittent mining operations less frequently). Under the
 
-MSHA may grant a modiﬁcation if it determines that the operator's proposed alternate method of compliance
+Mine Act, MSHA is prohibited from giving advance notice of an inspection, and it is authorized to enter any mine without a warrant.
 
-with the standard guarantees no less than the same measure of protection aﬀorded the miners by the standard, or application of the standard at the mine will result in a diminution of safety to the miners.
+The Mine Act requires additional inspections to ensure safe and healthy work environments for miners. For
+
+example, MSHA must provide additional inspections at a mine that releases large amounts of methane gas or
+
+other explosive gases or where there exists other especially hazardous conditions. . In addition, MSHA must
+
+investigate all fatal accidents and complaints of discrimination based upon the exercise of rights under the Mine Act.
+
+To promote compliance with the requirements of the Mine Act or any MSHA mandatory safety and health
+
+standard, rule, order or regulation, MSHA must issue a citation to a mine operator for any violation found
+
+during an inspection or investigation. MSHA must notify the operator within a reasonable time of the civil
+
+penalty proposed to be assessed for the violation cited. All violations must be corrected within a reasonable time established by MSHA.
+
+The Mine Act permits a representative of the operator and a representative of the miners to accompany MSHA
+
+during an inspection for the purpose of aiding the inspection and to participate in pre- or post-inspection
+
+conferences at the mine. The representative of the miners who is also an employee of the operators shall
+
+suﬀer no loss of pay during the time of his participation in the inspection. If a violation is cited, the circumstances surrounding the violation are discussed during the post-inspection conference. If these
+
+discussions do not result in resolution, the mine operator may contest the citation or proposed assessment of
+
+penalty before the Federal Mine Safety and Health Review Commission, an independent body, with further

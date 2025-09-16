@@ -1,7 +1,27 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3ba07cee14c7b2abeecfd0204e19dbe3bda22c6
+title: H07T7V-PDF-ENG
+---
+## Published on HBR.org / September 15, 2023 / Reprint H07T7V
 
-According to Andrew McAfee, a principal research scientist at the MIT
+Video Available Online To watch, please visit this article at HBR.org.
 
-Sloan School of Management, business leaders need to think more
+The secret to success for many Silicon Valley tech companies isn’t
 
-like geeks, but not the computer-based stereotype you may be familiar
+necessarily that they’re ultra-nimble start-ups, or that they’re led by
+
+tech-savvy geniuses. In fact, their success often has more to do with
+
+a speciﬁc type of corporate culture—and it’s a culture that even
+
+companies not based on the US West Coast or focused on technology
+
+can adopt.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

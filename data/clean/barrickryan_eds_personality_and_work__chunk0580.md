@@ -1,9 +1,17 @@
-# CHAPTER 7
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 33b09d72386feb187837df3bc96ee63d9f4ae1fd
+title: barrickryan_eds_personality_and_work
+---
+## mood. Psychological Bulletin, 98, 219–235.
 
-Toward an Understanding of the Multilevel Role of Personality in Teams Greg L. Stewart
+Widiger, T. A., Verheul, R., & van den Brink, W. (1999). Personality and psychopathology. In L. A. Pervin & O. John (Eds.), Handbook of per- sonality: Theory and research (2nd ed., pp. 347–366). New York: Guil- ford Press.
 
-Work organizations have increasingly adopted team structures; a recent survey suggests that as many as half of the Fortune 500 use teams in some part of their operation (Devine, Clayton, Philips, Dunford, & Melner, 1999). Although small group researchers have studied teams for decades, industrial/organizational (I/O) psy- chologists have only recently begun to examine how teams alter human resource practices.
+Winter, D. G., & Barenbaum, N. B. (1999). History of modern personality theory and research. In L. A. Pervin & O. P. John (Eds.), Handbook of personality: Theory and research (2nd ed., pp. 3–27). New York: Guil- ford Press.
 
-One area of emerging research focuses on the role of person- ality in team contexts. This research originates from two perspec- tives. One examines how team settings create an environment that inﬂuences relationships between individual personality traits and individual performance (Mount, Barrick, & Stewart, 1998). The other examines how individual traits aggregate to form team-level personality, which in turn affects team and organizational perfor- mance (for example, Barrick, Stewart, Neubert, & Mount, 1998; Barry & Stewart, 1997). Personality can thus be studied in team set- tings at both the individual and team levels of analysis. In this chap- ter, I review research related to both levels, illustrate areas where additional research is needed, and develop a multilevel perspec- tive of personality in teams.
+Zuckerman, M. (1995). Good and bad humors: Biochemical bases of per-
 
-183
+sonality and its disorders. Psychological Science, 6, 325–332.
+
+Zuckerman, M., Kuhlman, D. M., Thornquist, M., & Kiers, H. (1991). Five (or three) robust questionnaire scale factors of personality without culture. Personality and Individual Differences, 12, 929–941.

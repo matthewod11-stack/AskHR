@@ -1,7 +1,7 @@
-# Employee Rights
-
-The Act grants employees several important rights. Among them are the right to ﬁle a complaint with OSHA
-
-about safety and health conditions in their workplaces and, to the extent permitted by law, have their identities kept conﬁdential from employers; contest the amount of time OSHA allows for correcting violations of
-
-standards; and participate in OSHA workplace inspections.
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: a61ac39b13e396e0d9a737e6e84127869949b46f
+title: Employment Law Guide - Occupational Safety and Health
+---
+# Chemicals.

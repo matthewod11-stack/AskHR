@@ -1,9 +1,17 @@
-# marketplace.
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cdd967479e2505dbd5c777c392e4cd7b6b105b1
+title: H08VUQ-PDF-ENG
+---
+## Don’t Put the AI Cart Before the Strategy Horse
 
-But when companies take the opposite approach, starting with strategy,
+As the experiences of Snapchat and Nordstrom reveal, just adding AI
 
-identifying how they can oﬀer buyers a leap in value, and then looking
+to your products doesn’t guarantee success; whether or not it creates
 
-to technology as a tool to deliver that leap, AI can be a powerful catalyst
+value rests on what companies do with it. When companies lead with
 
-to proﬁt, growth, and commercial opportunities.
+AI or treat it as the answer, they put the cart before the horse and risk
+
+compromising their company’s strategy and the value it provides to the

@@ -1,11 +1,31 @@
-## experiences, and the very nature of human potential.
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c261e91116f4d363b94d1b814d33f9af2bf4fb19
+title: H08HWT-PDF-ENG
+---
+# future prompts.
 
-By asking AI questions that challenge assumptions and venture into the
+. . .
 
-unknown, you not only get creative responses but develop a mindset
+Generative AI is not just a tool; it’s a catalyst to rewire our thinking
 
-that primes you to see possibilities that others miss. Leaders who foster
+patterns, break free from the constraints of linear logic, and unlock
 
-these mindshifts within their teams will ﬁnd themselves cultivating
+creative insights we didn’t know we were capable of. A mindshift rewires
 
-a culture where “the impossible” becomes a daily challenge — and
+us to abandon outdated thinking, embrace curiosity, and activate
+
+exponential potential by asking better, more audacious questions. To
+
+harness its power in innovative ways, the ﬁrst step is to adopt what I call
+
+“exponential curiosity,” which allows us to move from merely using AI
+
+to actively co-creating with it.
+
+A mindshift paired with Generative AI rewires our brains to work toward
+
+an alternate future that we can scarcely imagine — a future that’s ﬁlled
+
+with awe-inspiring, meaningful breakthroughs that redeﬁne industries,

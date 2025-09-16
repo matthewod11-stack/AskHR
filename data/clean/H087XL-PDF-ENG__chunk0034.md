@@ -1,21 +1,7 @@
-# management.
-
-Furthermore, given the evidence that recognition and incentives
-
-can mitigate the negative impact of burnout, oﬀering rewards for
-
-achievements in cross-silo collaboration can provide further motivation
-
-and recognition. For example, consider introducing a “Cross-Function
-
-Collaboration Champion” award, accompanied by a ﬁnancial bonus,
-
-to recognize individuals or teams who excel in cross-silo collaboration
-
-between diﬀerent departments or geographical locations to enhance
-
-work quality or knowledge exchange. By ensuring that employees are
-
-both well-equipped and recognized in this manner, organizations can
-
-signiﬁcantly mitigate the risk of burnout and foster a healthier, more
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c8ca6c57895075ba9eae8854af8cb5a67e20abf
+title: H087XL-PDF-ENG
+---
+## as communication, negotiation, cultural sensitivity, and project

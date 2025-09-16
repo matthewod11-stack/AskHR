@@ -1,27 +1,69 @@
+---
+source_path: H08RGL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b72ce2aa9a268827ff4eabe9ef425f138b54baf6
+title: H08RGL-PDF-ENG
+---
 ## HBR / Digital Article / Research: When Help Isn’t Helpful
 
-give leaders insight into what unique skills each of their team members
+environment of psychological safety—the knowledge that it is safe to
 
-has, and how they can eﬀectively draw upon those skills in the future.
+take interpersonal risks (such as asking for help when you need it).
 
-. . .
+Leaders can foster psychological safety in several ways. First, they
 
-Helping is a core part of work. But like all forms of collaboration, it’s a
+can encourage employees to discuss problems and areas where they
 
-skill—one that requires practice, feedback, and support. When it comes
+need help—and praise those that do. Second, they can admit their
 
-to help, it’s actually not just the thought that counts.
+own errors and struggles. Third, they can accurately frame the work,
 
-This article was originally published online on June 10, 2025.
+telling employees when they expect that tasks will require buy-in from
 
-Colin M. Fisher is an Associate Professor of Organizations and Innovation at UCL School of Management and the author of The Collective Edge: Unlocking the Secret Power of Groups (Avery). He has a PhD from Harvard Business School, and his research focuses on creativity and team dynamics.
+others. When leaders normalize asking for help in clear, tangible ways—
 
-Julianna Pillemer is an assistant professor of management and organizations at New York University’s Stern School of Business. Her research examines the complex dynamics of interpersonal connections at work.
+and encourage others to do so as well—it can help change the culture,
 
-Teresa M. Amabile is the Edsel Bryant Ford Professor, emerita, at Harvard Business School. A psychologist who has researched creativity, motivation, and everyday work life, she is a coauthor of The Progress Principle and Retiring: Creating a Life That Works for You.
+making explicit asks feel less impolite and more standard fare.
+
+- 3. Close the Loop and Show Your Gratitude
+
+In our research, we were surprised at how often help-givers didn’t know
+
+the ends of their own stories. They’d chipped in on a project but then
+
+didn’t know how their contributions aﬀected the ﬁnal outcome.
+
+Most people say “thank you” when they receive help. That’s good—
+
+we should feel and express our gratitude for those that help us. But
+
+helpers often want more than momentary gratitude. They want to see
+
+the impact of their labor—how did it aﬀect the ﬁnal output?
+
+Besides genuinely wanting to provide value, people also help one
+
+another in hopes of building relationships. That’s why leaders,
+
+managers, project leads, and anyone asking for help should close the
+
+loop after they receive it. Especially on big projects, it’s important to
+
+keep track of those that helped along the way. One impactful way to do
+
+this is to send contributors the ﬁnal product and point out how they,
+
+speciﬁcally, made a diﬀerence.
+
+For leaders, actively aﬃrming the diﬀerent ways that their staﬀ
+
+members have contributed—and asking managers too as well—will not
+
+only make these workers feel appreciated and helpful. It is also likely to
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

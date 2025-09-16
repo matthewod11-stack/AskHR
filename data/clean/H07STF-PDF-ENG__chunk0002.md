@@ -1,19 +1,27 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 516b96fca62e0f12b206aa7549c65590fcc8da56
+title: H07STF-PDF-ENG
+---
+## Published on HBR.org / September 8, 2023 / Reprint H07STF
 
-Much more important than trying to ﬁgure out the next career step is
+Video Available Online To watch, please visit this article at HBR.org.
 
-thinking more broadly about your possible selves, and then exploring
+For most of us, reinvention—of our careers and ourselves—is an
 
-several of those possible selves simultaneously. This is where having
+extremely tall order. As London Business School professor Herminia
 
-a diverse network helps a lot. And while most of us hate networking,
+Ibarra notes, you might know what you don’t want to do any more but
 
-Ibarra has tips on how to become better at that too.
+be unsure what you actually do want to do next. People “don’t know how
 
-For this episode of our video series “The New World of Work”, HBR
+to search when they don’t know exactly what they’re searching for,” she
 
-editor in chief Adi Ignatius sat down with Ibarra, a proliﬁc author who is
+says.
 
-an expert on career transitions, to discuss:
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-- How to transition smoothly and successfully from one career to
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

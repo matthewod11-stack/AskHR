@@ -1,7 +1,17 @@
-# the plant?
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ae960e67877c2bcccf5e57a7f2b839c704d1946
+title: R2402M-PDF-ENG
+---
+## about continuous improvement not just in processes and technology
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+but also in people. Paulo’s heart leaned toward reconciliation and
 
-7
+growth, but his mind warred with the potential risks of capitulation.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+His next move was shaping up to be the most consequential one of his
+
+working life.
+
+Question: Should Paulo oﬀer further concessions or threaten to close

@@ -1,9 +1,27 @@
-# Analysis and Understanding.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: d0c7a77e98f6a42b4ef1f35f9328c16b827c2194
+title: i
+---
+# function.
 
-This transition signifies a broader application of analytical approaches from customer-centric
+The adoption of analytics in marketing was driven by the desire to strategically attract, segment,
 
-areas to areas focused on managing and optimizing organizational talent.
+acquire, grow, retain, and reward customers. Marketing recognized the importance of
 
-The authors also brief the history of marketing analytics, which is in a similar narrative: prior
+understanding its customer base, target demographics, and the entire customer life cycle. This
 
-to the 1990s, marketing relied heavily on the balance between art (experience, judgment, and
+led to the birth of marketing analytics. Organizations combine marketing with marketing
+
+analytics, striking similararities between Business Analytics and People Analytics when
+
+examining the transition from one to the other. Likewise, the authors propose a shift from (1)
+
+33
+
+Analytics in Marketing to Analytics in Talent Management. (2) Customer Life Cycle
+
+Management to Talent Life Cycle Management. (3)Customer Relationship Management to
+
+Talent Relationship Management. (4)Customer 360-Degree Analysis to Talent 360-Degree

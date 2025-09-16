@@ -1,19 +1,35 @@
-# World.”
+---
+source_path: H078WK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6546847297605d050170f52fa63552b9c4da9262
+title: H078WK-PDF-ENG
+---
+## HBR / Digital Article / How Diversity of Thought Can Fit into Your DEI Strategy
 
-In the $70 billion wine and spirits industry, where less than 1% of
+Jasper Daniel, an entrepreneur, saw genius in Nearest Green’s method
 
-wineries and distilleries are Black-owned, and there is a lack of BIPOC
+and product. When the Civil War ended, Jasper bought a distillery and
 
-leadership, Weaver knew that as a Black woman she would be ﬁghting
+named it after himself, subbing in the ﬁrst name Jack. Jack Daniel’s
 
-an uphill battle from the start. But Weaver was undaunted. She sought
+ﬁrst master distiller was Nathan Green, Uncle Nearest, now a free man,
 
-not only to make history as an inclusive brand breaking barriers as
+mentor and close friend to Jack. Green worked at the distillery for many
 
-the ﬁrst spirit to commemorate an African American and the ﬁrst to
+years until he retired.
 
-have a Black master distiller on record, but she also to create a top-
+Fawn Weaver was so inspired by the story and Nearest’s family (some
 
-performing organization. Her strategy for making it happen was to
+of whom she interviewed) that she invested $1 million of her own
 
-embrace diversity in all forms, including diversity of thought.
+money in 2017 to found a distillery in Green’s name. Now, Uncle Nearest
+
+has become fastest-growing whiskey brand in the country. Within the
+
+company’s ﬁrst four years, Weaver raised $60 million. Today, Uncle
+
+Nearest is the bestselling African American-owned and founded spirit
+
+brand of all time. Its three ultra-premium whiskeys have won hundreds
+
+of awards including being named one of the “Top 5 Whiskies in the

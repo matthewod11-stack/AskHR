@@ -1,15 +1,9 @@
-# Finance:
+---
+source_path: i_d_e_n_t_i_f_y_i_n_g_a_n_d.md
+pages: n/a-n/a
+chunk_id: 3950c3d5809e84b4e84ac8736033d95650695c07
+title: i_d_e_n_t_i_f_y_i_n_g_a_n_d
+---
+# Sales:
 
-Quickly analyze expense data and look for trends, or harmonize data from di(cid:25)erent spreadsheets and databases.
-
-18
-
-Identifying and scaling AI use cases
-
-19
-
-Poshmark $nds more time for insights and strateg.
-
-Poshmark, the fashion marketplace, used ChatGPT to generate the Python code that reconciles millions of spreadsheet rows for their business performance analysis. They then use AI to generate weekly performance reports and accounting memos for executives, saving hours of manual work every week.
-
-We’ve dramatically reduced manual work and improved speed, accuracy, communication and insights. I'm seeing an elevation of everyone's job.
+Review your account lists to ¨nd your strongest accounts.(cid:129) Map leads to accounts and score them for intent signals.

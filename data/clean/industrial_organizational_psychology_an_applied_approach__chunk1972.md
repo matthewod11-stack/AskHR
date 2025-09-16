@@ -1,25 +1,17 @@
-# Applied Case Study
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f528442c103960a494a7da27d84c456ed1c13796
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Training at Pal’s Sudden Service
 
-Headquartered in King-
+322
 
-sport, Tennessee, Pal’s Sudden Service is a
+chapter 
 
-quick-service restaurant chain with over 20 locations. Pal’s first franchise opened in 1956 with four items: Sauceburgers, Frenchie Fries, milk shakes, and coke. Customers walked up to the outside counter to place
+Application of Training Another criterion for evaluating the effectiveness of training is the degree of application of training, or the extent to which employees actually can use the learned material. Learning and memorizing new material is one thing, and apply- ing it is another. For example, if employees learn how to deal with angry custom- ers, their ability to apply this material can be measured by observing how they treat an angry customer while they are actually working. Application of train- ing is often measured though supervisor ratings or through the use of the secret shoppers discussed in Chapter .
 
-and receive their orders. Pal’s first drive-through opened in 1985. Although certainly not as large as the McDonald’s or Burger King chains, Pal’s has a record of excellence includ- ing being the first restaurant to receive the prestigious Malcolm Baldrige National Quality Award and the first
+Business Impact The fifth criterion that can be used to evaluate a training program’s effectiveness is business impact. Business impact is determined by evaluating whether the goals for training were met. For example, a restaurant such as Buffalo Wild Wings conducts a training program designed to increase sales of “top shelf” liquor. A week after the training, if sales of liquors such as Knob Creek bourbon and Abso- lut vodka increase, and sales of liquors such as Pepe Lopez tequila and Aristocrat vodka decrease, the training would be considered successful because it has had the desired business impact.
 
-organization to win the Ten- nessee Excellence Award more than once. Pal’s obsession with high quality might best be demonstrated by their use of the Hoshizaki ice cube shape that causes ice to melt more slowly so that their iced tea will stay cool all day. Pal’s takes great pride in quickly getting
-
-orders to customers without mistakes. This is a difficult task given the fast pace of the business. Pal’s created a unique training program that reduced employee errors from one error every 450 transactions to one mistake for every 3,360 transactions. Furthermore, service time was reduced from 23 seconds to 18 seconds. How did Pal’s make such progress? Primarily through training, assessment, and feedback. Each hourly employee goes through 120 hours of training. This extensive training allows employees to be assigned to any of three positions so that
-
-they can easily fill-in where most needed. The training program includes individual face-to-face training as well as e-learning. Trainees are as- sessed on their progress and go through additional training if they do not score high enough on the training tests. Training does not stop after the initial training period. Store manag- ers constantly coach employees and every employee gets two or three pop quizzes at the beginning of their shift. The quizzes must be turned in by the end of the shift, and employees are allowed to look up information or ask other
-
-employees for answers. If they get less than a perfect score, they go through additional training. 7
-
-If you were in charge of training, how would you develop a training program that would reduce the num- ber of transaction errors?
-
-7
-
-How would you evaluate the success of your training program?
-
-To see how Pal’s handled this case, use the link on your text website. To read more about Pal’s unique organizational climate, visit their website at www.palsweb.com.
+Return on Investment The sixth criterion for evaluating the success of a training program is return on investment (ROI). That is, after accounting for the cost of the training, did the organization actually save money? For example, imagine that a bank trains its tellers to cross-sell Visa cards. The tellers rate the training session as being enjoyable (employee reactions), all of the employees pass a test on sales techniques ( knowledge), and sales attempts increase by % (application). The ROI approach would then ask, “If we spent $, training the tellers, how much more revenue was brought in as a result of the training?” If the answer to the question is more than the amount spent on training, then the program would be considered a success. For example, Parry () demonstrated that training employees how to conduct effective meetings at Southwest Industries cost $, to implement but saved the organization $, in the first year after the training. To apply what you have learned about evaluating training programs, complete Exercises . and . in your workbook.

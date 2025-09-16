@@ -1,3 +1,7 @@
-## Onyango, T.O. (2012). The Influence of Training and Development on Employee
-
-Performance at Mudete Tea Factory. Unpublished MBA Project, School of
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: eb8be7ef4f8026113817a3fdc5aadf64364bc005
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# University of Nairobi.

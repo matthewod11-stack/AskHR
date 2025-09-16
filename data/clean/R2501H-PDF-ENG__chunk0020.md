@@ -1,31 +1,15 @@
-## The title of a central chapter, “Let the Inmates Run the Asylum,”
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d8e64872bd555eb3cdd793d8299c897d8542340
+title: R2501H-PDF-ENG
+---
+## HBR / Magazine Article / Three Ways to Lead Learning
 
-captures challengers’ view of organizations and their intent in them.
+also holistic personal growth. Boot camps are best for acquiring new
 
-The learning initiatives Bock describes throughout the book are all
+skills; playgrounds for developing new selves.
 
-based on one principle: The more freedom leaders provide and the more
+Laszlo Bock’s Work Rules!, which is based on his experience as the head
 
-attention they put on the growth and aspirations of each individual, the
-
-more attractive a company becomes to talent and the more likely that
-
-talent is to have new ideas and turn them into breakthrough products.
-
-Bock’s approach worked wonders for Google at a time when the
-
-company was set on building an innovation engine and competed
-
-ﬁercely for talent. But those are not the only circumstances in which it
-
-works. Challengers are most successful and satisﬁed in companies that
-
-are hungry for change. Those could be ﬁrms in which strong traditions
-
-or a stretch of success has made people cautious or complacent. In
-
-such circumstances challengers have the most impact and experience
-
-the fewest clashes with their executive teams. The most successful
-
-challengers are often protégés of CEOs or CHROs who want “something
+of people operations at Google, can be read as a challenger manifesto.

@@ -1,3 +1,9 @@
-## smarter, more creative, more innovative, and more proﬁtable. As global
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c9a879d137cb4d5eb69677e13bd552ea44abd95c
+title: H0832U-PDF-ENG
+---
+# world.
 
-life expectancy continues to increase and many organizations grapple
+The science is clear: Diversity can make our teams and organizations

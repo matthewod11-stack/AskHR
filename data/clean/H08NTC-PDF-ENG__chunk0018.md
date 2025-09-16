@@ -1,5 +1,9 @@
-## focus entirely on their personal safety, family, and recovery. This not
+---
+source_path: H08NTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 288e022c09757072bfa280909f5d60f189827809
+title: H08NTC-PDF-ENG
+---
+# Shift mission-critical work.
 
-only alleviates pressure on the aﬀected team member but also ensures
-
-that the team remains productive.
+Transfer critical tasks to other teammates so the aﬀected employee can

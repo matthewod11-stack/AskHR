@@ -1,15 +1,17 @@
-# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8180fdbae5a32ff781419ae5e8306bfbc41d30ba
+title: H08IKZ-PDF-ENG
+---
+# process.
 
-unless, of course, you are competing for status with your neighbors
+- 7. Assessing competitiveness.
 
-or classmates. In business, the ideal solution usually needs to be
+When purchasing a car, solving the functional problem — i.e., choosing a practical option that satisﬁes your objectives — may be suﬃcient,
 
-competitively advantageous by being robust to competitors’ likely
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-responses and hard for others to imitate. Using the same data and
+5
 
-algorithms your competitors have access to, to solve the same problems
-
-they face, will not reveal unique or superior opportunities. Rather,
-
-it is tantamount to commoditizing one’s business by using a generic
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

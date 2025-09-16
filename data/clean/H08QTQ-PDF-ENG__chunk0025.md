@@ -1,37 +1,27 @@
-# visible.
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1095d3535e815e49341f89807bae973f726ed4da
+title: H08QTQ-PDF-ENG
+---
+## HBR / Digital Article / The Right Way to Implement Stretch Assignments
 
-Senior leaders can play a critical role by providing guidance and
+for a promotion—at which point it became clear that these assignments
 
-training that help frontline managers communicate these pathways
+were “secretly mandatory.”
 
-to their teams. That includes encouraging initiative-seeking behaviors
+How to ﬁx it: To ensure stretch assignments are distributed and
 
-such as expressing interest in stretch assignments, pursuing high-
+pursued equitably, organizations must equip managers with clear
 
-visibility projects, cultivating relationships with inﬂuential colleagues,
+guidance around the role they play in early-career talent development.
 
-and identifying opportunities for sponsorship and skill-building.
+This means not relying solely on informal coaching or mentorship,
 
-Just as important is ensuring those messages are delivered equitably
+but also providing structured tools and systems that help managers
 
-and systematically. Organizations should establish processes that
+communicate what high performance looks like—and how to help
 
-help managers track whom they’re developing—and whom they may
+employees achieve it.
 
-be overlooking. Tools for documenting development conversations,
-
-prompts in performance reviews, or dashboards that highlight
-
-participation in stretch opportunities are all good options. By
-
-promoting consistent and inclusive communication across teams,
-
-organizations can help level the playing ﬁeld and ensure all employees
-
-have access to the same knowledge.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+A good start involves making the unwritten rules of advancement more

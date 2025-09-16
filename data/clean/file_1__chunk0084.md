@@ -1,5 +1,13 @@
-# 19
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 2802e5f4c9ab0a06922c6803723c5d2c4d9df6c6
+title: file_1
+---
+# 2.4. Perceptions
 
-Generally speaking, in this thesis I am interested in individuals’ perceptions. I study whether people are aware of gender inequality and the gender pay gap, and how they understand these issues. I do not study individuals’ experiences of gender inequality and the gender pay gap since this contains knowledge of or skill of gender inequality and the gender pay gap, which can be gained only through involvement in or exposure to them.
+In the previous subsections, I described gender inequality and one of its core components – the gender pay gap. Although these topics are of great magnitude, in this thesis, I concentrate neither on the reasons for gender inequality and the gender pay gap nor on the ways they can be measured. Instead, I examine whether and to what extent individuals and employees perceive gender inequality and the gender pay gap to exist. In the following subsections, I will introduce the term ‘perception’ and explain how it relates to people’s attitudes.
 
-In this thesis, I aim to examine the variations in individuals’ and employees’ perceptions of gender inequality and the gender pay gap. I agree with Deutsch (2007) and Kelan (2009) that it is crucial to acknowledge and examine this variability, so we can understand the conditions under which change may occur. I thus move to the discussion of perceptions of gender inequality and the gender pay gap.
+Perception is one of the oldest fields in psychology. It is also widely studied in philosophy and cognitive science. The word ‘perception’ has Latin roots and means ‘receiving, collecting, action of taking possession, apprehension with the mind or senses’ (Oxford English Dictionary). Perception is ‘the process by which people select, organize, interpret, retrieve, and respond to information from the world around them’ (Schermerhorn et al., 2010:84). A person interprets a situation (stimuli) into something meaningful to him/her based on prior experiences (Pickens, 2005). Based on the process of perceiving, people produce a meaningful experience of the world (Lindsay and Norman, 1977). In other words, people gain experience through perceptions. At the same time, people are selective in what they perceive and tend to filter information based on the capacity to absorb new data, combined with preconceived thoughts (Pickens, 2005: 56).
+
+Perceptions are influenced by many factors, including characteristics of the perceiver, of the setting, and of the perceived. Furthermore, the perceptual process consists of several stages: information attention and selection, organization of information, its interpretation, and information retrieval. People may interpret the same information differently or may perceive the same situation differently. Differences in perception are considerable in terms of people’s responses to the perceptual process, including thoughts, feelings, and actions. Perceptions influence people’s attitudes, which, in turn, effect their behaviors, thoughts, feelings and actions.

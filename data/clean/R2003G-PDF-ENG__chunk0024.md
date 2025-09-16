@@ -1,11 +1,15 @@
-# remain CoS for ﬁve years or more.
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8aa544a5d5238467c097fc3d05d663b1b6684ad7
+title: R2003G-PDF-ENG
+---
+## the CoS title in 2015 in nonmilitary, nongovernment organizations in
 
-Not every executive needs a CoS, and the role is not right for every
+the United States—mostly large companies. Parris found that half the
 
-corporate culture. Liza Wright, who served as the director of presidential
+companies use a rotational model in which high potentials are tapped
 
-personnel in the White House for George W. Bush and later cofounded
+to spend a set period (typically two years) in the role and then move to
 
-a search ﬁrm specializing in hard-to-ﬁll jobs (including CoS), looks for
-
-three signs that a CEO would beneﬁt from adding the role: concern
+a line job. At companies that don’t use a rotational model, people often

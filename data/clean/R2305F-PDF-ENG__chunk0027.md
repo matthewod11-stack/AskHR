@@ -1,45 +1,59 @@
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a41229b30a7b9948cfcdf4605f60f1445e8597b6
+title: R2305F-PDF-ENG
+---
 ## HBR / Magazine Article / When Diversity Meets Feedback
 
-American working in Silicon Valley. With little understanding of
+getting to the point or start the conversation by talking about the
 
-cultural diﬀerences, he soon found himself in trouble for giving
+weather. We jump to the issue at hand.”
 
-feedback (by video) to coworkers in Thailand using methods common
+Olga hadn’t given cultural diﬀerences a lot of thought until she moved
 
-in the United States. HR in Bangkok responded by complaining that he
+from Ukraine to West Virginia. In her job there, she says, “My colleague
 
-was bullying his Thai colleagues.
+Cathy was responsible for payroll. Each month when the paychecks
 
-Jethro describes the situation like this: “I’d thought carefully about how
+went out, there were mistakes. It was causing frustration, so I invited her into my oﬃce and said, ‘Cathy, this absolutely cannot continue.
 
-to provide the feedback. My comments (both verbal and then in writing)
+Your mistakes are creating big headaches.’”
 
-were speciﬁc, explaining what actions had led to positive results and
+In less-direct cultures the explicitness of the American approach to feedback is likely to be perceived as inappropriately blunt.
 
-which had been problematic, and then outlining clearly what my
+Later, when the seasonal-employee manager emailed Olga privately to
 
-colleagues needed to do diﬀerently to improve client satisfaction.”
+complain (“Unbelievable! Cathy got the amounts wrong yet again”),
 
-The head of HR in Thailand had some feedback of her own, however.
+Olga replied all, copying Cathy so that she could see the manager’s
 
-“The American tendency to give feedback by explicitly stating ‘the area
+comments herself and responding, “You are right. This is completely
 
-in need of improvement’ already feels aggressive to a Thai recipient,”
+unacceptable, and it won’t happen again.” To Olga’s surprise, her boss
 
-she told Jethro. “To make things worse, Americans frequently end
+stopped by to correct her behavior, which he referred to as “indelicate.”
 
-discussions by recapping key points in writing, which makes us feel that
+He informed her that Cathy had been so upset, she had asked to change
 
-you don’t trust us to do as we say or are trying to get us in trouble.”
+jobs. He explained that Olga should not be critical of someone’s work
 
-She explained that Jethro would have more
+when other people are copied on the communication. He also suggested
 
-success if instead of detailing what his Thai
+she use “might” and “should” rather than “must” and “can’t.” For Olga,
 
-colleagues had done wrong, he praised
+this was a cultural eye-opener.
 
-what was good clearly and left out what
+The complexity doesn’t stop there. Americans may be masters at
 
-was bad. If he was speciﬁc about the things
+wrapping positives around negatives, but in some less-direct cultures
 
-that had worked well, he didn’t need to
+the explicitness of the American approach is still likely to be perceived
+
+as inappropriately blunt. Take Jethro, a soft-spoken but forthright
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

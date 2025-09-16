@@ -1,25 +1,23 @@
-# messes. HR Magazine, 44(7), 129–136.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f6f04276d2bf961c577a78968d91a26d087550b6
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Rubis, L. (1998). Positive drug tests hit 11-year low. HR
 
-Ryan, A. M., & Lasek, M. (1991). Negligent hiring and
+Magazine, 43(6), 20.
 
-defamation: Areas of liability related to pre-employment inquiries. Personnel Psychology, 44, 293–319. Ryan, R. M., & Deci, E. L. (1996). When paradigms clash:
+Rucci, A. J. (2008). I-O psychology’s “core purpose”: Where
 
-Comments on Cameron and Pierce’s claim that rewards do not undermine intrinsic motivation. Review of Educational Research, 66(1), 33–38.
+science and practice meet. Th e Industrial-Organizational Psychologist, 46(1), 17–34.
 
-Ryan, T. J. (2004). Nerves of steal: As employee theft rises, retailers seek new deterrents. Sporting Goods Business, 37(6), 8–9.
+Rupert, G. (1989). Employee referrals as a source of recruitment and job performance. Proceedings of the 10th Annual Graduate Conference in Industrial/Organizational Psychology and Organizational Behavior.
 
-Rynes, S. L., Bretz, R. D., & Gerhart, B. (1991). Th e importance
+Russ-Eft, D., & Zucchelli, L. (1987). When wrong is all right. Training and Development Journal, 41(11), 78–79. Russell, C. J., Colella, A., & Bobko, P. (1993). Expanding the
 
-of recruitment in job choice: A diﬀ erent way of looking. Personnel Psychology, 44(3), 487–520.
+context of utility: Th e strategic impact of personnel selection. Personnel Psychology, 46, 781–801.
 
-Rynes, S. L., & Connerley, M. L. (1993). Applicant reactions to alternative selection procedures. Journal of Business and Psychology, 7, 261–277.
+Ruszala, J. (2007). Incentive travel program: Resurgence driven by new uses, expanded participation. HR Magazine, 52(9), 98–102.
 
-Rynes, S. L., Gerhart, B., & Parks, L. (2005). Personnel psychology: Performance evaluation and pay for performance. Annual Review of Psychology, 56, 571–600. Rynes, S. L., Weber, C. L., & Milkovich, G. T. (1989). Eﬀ ects of
-
-market survey rates, job evaluation, and job gender on job pay. Journal of Applied Psychology, 74(1), 114–123. Saad, S., & Sackett, P. R. (2002). Investigating diﬀ erential
-
-prediction by gender in employment-oriented personality measures. Journal of Applied Psychology, 87(4), 667–674.
-
-Saal, F. E. (1979). Mixed standard rating scale: A consistent system for numerically coding inconsistent response combinations. Journal of Applied Psychology, 64, 422–428.
-
-Saavedra, R., & Kwun, S. K. (1993). Peer evaluation in self-managing
+Ruzich, P. (1999). Triangles: Tools for untangling interpersonal

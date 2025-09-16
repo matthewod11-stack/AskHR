@@ -1,19 +1,29 @@
-# Teams
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ec1ced0795c5a2add6a357a2203b164530d6fdd8
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Individual Versus Group Performance
 
-490
+When several people individually work on a problem but do not interact, they are called a nominal group. When several individuals interact to solve a problem, they are called an interacting group. An important decision a leader must make is when to assign tasks to individuals, nominal groups, or interacting groups. After decades of research investigating group effectiveness, the consensus appears to be that interacting groups will usually outperform one individual, but interacting groups do not outperform nominal groups (Kerr & Tinsdale, ).
+
+488
 
 chapter 
 
-nominal groups appear to perform at equal levels when the groups are small, but electronic groups are superior when the group is large.
+Trust is important in jobs that involve working in groups
 
-The superiority of nominal groups over interacting groups may depend on the type of task. Brophy () found nominal groups to be most effective with a single brainstorming problem and interacting groups to be most effective with complex problems. Similar results were reported by Davis and Harless (), who found that with complex problems, interacting groups take better advantage of feedback and learning and thus outperform nominal groups.
+The importance of the difference between nominal and interacting groups can be found in an interesting study by Liden et al. (). Liden and his col- leagues had managers, nominal groups of employees, and interacting groups of employees read scenarios about a group member’s poor performance and then determine how the employee should be disciplined. The interacting groups and the managers decided on more severe levels of discipline than did the nominal groups.
 
-An interesting aspect of interacting groups is the tendency for groups to take more extreme positions than the positions of individual members. This tendency, called group polarization, suggests that group members will shift their beliefs to a more extreme version of what they already believe individually, That is, if individual group members are on the risky side, the group will make highly risky decisions. If, however, the individual members are conservative or cautious, the group as a whole will be extremely cautious (Isenberg, ).
+If the task involves creating ideas, individuals should be asked to indepen- dently create them and then meet as a group. Although brainstorming is a commonly used technique, it is not an effective one. In brainstorming, group members are encouraged to say aloud any and all ideas that come to mind and are not allowed to comment on the ideas until all have been given. When research compares a brainstorming group’s creativity with that of a single individual, the brainstorming group will almost always be more creative. However, when comparing the number and quality of ideas created by nominal groups with the quality and number of ideas created by an interacting group in a brainstorming session, the ideas of nominal groups are more creative and of higher quality than ideas of the interacting group (Kerr & Tinsdale, ). This difference may par- tially be due to interacting groups setting lower goals than individuals (Larey & Paulus, ).
 
-The tendency to make more risky decisions was demonstrated in a particu- larly interesting piece of research by Cromwell, Marks, Olson, and Avary () who found that burglars committed more crimes when working as part of a group than when working alone. Another example of increased group riskiness comes from a brokerage firm that was interested in getting its brokers to make riskier but higher-yielding investments. A consulting firm was asked to develop a way to select such brokers. Using its knowledge of group dynamics, the consulting firm told the brokerage company that it could obtain better results by having its bro- kers make investment decisions in groups rather than individually. Implementing this suggestion, the company later reported that its brokers were indeed making riskier investments.
+Due to the increasing cost of travel, it is increasingly common for groups to “meet” electronically (e.g., teleconference) rather than face-to-face. In fact, in my own consulting, it has become rare to fly to a company to participate in a meet- ing; almost everything is handled through email and teleconferences. The results of a meta-analysis by DeRosa, Smith, and Hantula () suggest that such a practice is not only cost effective, but results in more effective performance than face-to-face group meetings. DeRosa et al. found that electronic brainstorming groups outperform face-to-face interacting groups. The comparison with nomi- nal groups is more complicated. Overall, electronic brainstorming groups and
 
-Although the research seems to conclude that interacting groups offer no performance improvement over nominal groups, Wilson () has criticized this conclusion because it flies in the face of evolutionary research that demonstrates the value of groups in most species. He believes that a problem with previous group research is that the tasks were too easy and that when a task is difficult, interacting groups are superior to nominal groups.
+group behavior, teams, and conflict
 
-Now that you have a good understanding of group dynamics, let’s focus on a spe- cific type of group behavior that occurs in work teams. The concept of employee work teams has been around for decades (they were often called “quality circles” in the s), but their use has greatly increased in the s. Surveys indicate that % of Fortune  companies use teams (Lawler, ).
+489
 
-Unfortunately, this increase in the use of teams is often the result of “keep- ing up with the Joneses” rather than a strategically planned method of organi- zation development. As with any type of organizational intervention, teams can improve performance in some, but not all, situations. Teams work best in situa- tions in which (a) the job requires high levels of employee interaction, (b) a team approach will simplify the job, (c) a team can do something an individual cannot, and (d) there is time to create a team and properly train team members (Kriegel & Brandt, ).
+s e g a m
+
+y t t e G / a r o r u A / l e z A e s o J ©

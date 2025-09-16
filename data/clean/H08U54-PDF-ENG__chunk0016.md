@@ -1,35 +1,27 @@
-# HBR / Digital Article / 4 Signs That Someone in Your Network Is Taking Advantage of Y…
+---
+source_path: H08U54-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eee4e3d6672f497acd6caaf99af757f745cc8f70
+title: H08U54-PDF-ENG
+---
+# not a ﬁt for you.
 
-complimenting his podcast on a page labeled “testimonials,” implying
+- 4. Name-dropping
 
-they’d done business
+Some people may feel that the association to you will increase their
 
-You can set ﬁrm and non-negotiable boundaries protecting your brand
+credibility. They start to name-drop you in meetings or online, and do
 
-equity by addressing these issues directly. You could say something like,
+so without your consent or actual involvement. Dorie once received
 
-“I saw my name mentioned and I believe others may be confused about
+multiple inquiries from colleagues asking about her experience working
 
-the nature of our work together. I’d prefer for this to be taken down.” Or,
+with a particular vendor—which was confusing, because she’d never
 
-depending on the circumstance, you might say, “If you want to mention
+employed him. She realized that he’d used a quote she’d given
 
-me, I’d prefer to be consulted before being included going forward.” It
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-can be useful to create a Google alert with your name so you’re aware
+4
 
-when others are citing you
-
-The more successful you become, the more you attract both attention
-
-and unsolicited requests to connect. By spotting these warning signs,
-
-you can maintain the integrity and trust of your network, protect
-
-your time, and preserve your most important relationships. Healthy
-
-networks are reciprocal, not extractive.
-
-This article was originally published online on July 30, 2025.
-
-Ruth Gotian, EdD, MS, is the chief learning oﬃcer and associate professor of education in anesthesiology at Weill Cornell Medicine in New York City. She is the author of The Financial Times Guide to Mentoring with Andy Lopata and The Success Factor. Discover your potential for high achievement by taking her exclusive High Achiever Optimization Assessment here.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

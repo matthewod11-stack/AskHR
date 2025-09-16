@@ -1,7 +1,13 @@
-# demand.
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c12972992550043c7b1e9f413cf45838f9d5eb1a
+title: R2403F-PDF-ENG
+---
+## all the data about job candidates and their performance-appraisal
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+vendors have the data on how hires are doing. Businesses should require
 
-4
+that their data be delivered to them in usable, compatible formats
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and, if not, that the vendors themselves do analyses for companies on

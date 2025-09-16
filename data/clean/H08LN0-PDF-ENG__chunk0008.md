@@ -1,15 +1,9 @@
-## disparities between top executives and average employees. The gap
+---
+source_path: H08LN0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b516a6a2dd8b195838a74a2bffff96f537ae13ce
+title: H08LN0-PDF-ENG
+---
+# Our Research
 
-between CEOs and average employees has been growing alarmingly
-
-wider over time: 20-to-1 in 1965; 59-to-1 in 1989; 366-to-1 in 2020; and
-
-399-to-1 in 2021.
-
-We also studied how ﬁrms treat their external stakeholders, such as
-
-the community, environment, and customers. We used Morgan Stanley
-
-Capital International’s KLD annual ratings, which evaluate companies
-
-based on their performance in areas including environmental impact,
+In our two studies, we examined the consequences of such large pay

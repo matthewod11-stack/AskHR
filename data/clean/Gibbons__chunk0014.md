@@ -1,19 +1,30 @@
-### **[The orchestration advantage]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: 58e0aa0de99a91dc6852c303df8cf4aca0c134da
+title: Gibbons
+---
+### **[Leading beings that don\'t sleep, eat, or have emotions]{.underline}**
 
-[The magic of hybrid teams isn\'t in the individual capabilities of
-humans or AI agents. It\'s in orchestration --- coordinating their
-complementary strengths to achieve outcomes neither could accomplish
-alone.]{.underline}
+[Managing AI agents requires a fundamental shift in leadership thinking.
+These team members never get tired, never have bad days, and never need
+motivation. But they also never have intuitive leaps, never understand
+context they weren\'t explicitly given, and never care about the mission
+beyond their programmed objectives.]{.underline}
 
-[Consider how modern financial trading firms operate. AI agents monitor
-markets 24/7, executing trades within defined parameters. Human traders
-set strategy, adjust parameters based on world events, and handle
-exceptional situations. Neither could achieve the same results alone ---
-it\'s the orchestration that creates value (Bank for International
-Settlements, 2024).]{.underline}
+[Research by Stanford on hybrid team management identified key
+leadership adaptations needed (Stanford HAI, 2024):]{.underline}
 
-[This orchestration requires what I call \"handoff design\" ---
-deliberately structuring how work flows between human and artificial
-team members. Each handoff needs clear triggers (when does work
-transfer?), complete context (what information needs to be passed?), and
-defined expectations (what should the receiving party do?).]{.underline}
+- [Clear specifications replace motivational speeches.]{.underline}
+
+- [Version control replaces performance improvement
+ > plans.]{.underline}
+
+- [API documentation replaces onboarding materials.]{.underline}
+
+[But here\'s what\'s fascinating: managing AI agents well makes you
+better at managing humans too. The clarity required to direct AI ---
+explicit goals, measurable outcomes, unambiguous communication ---
+benefits human team members as well. Many managers discover that their
+\"AI management\" practices improve their overall leadership
+effectiveness.]{.underline}

@@ -1,19 +1,19 @@
-# HBR / Digital Article / One Company A/B Tested Hybrid Work. Here’s What They Foun…
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e4b24e331b1c88512764eb9b34655166e9f2984
+title: H08DMP-PDF-ENG
+---
+# promotion.
 
-model had a higher satisfaction rate, and 35% lower attrition. Quit-rate
+Before the experiment, managers estimated hybrid would reduce
 
-reductions were largest for female employees. Non-managers and those
+productivity by 2.6%. After the six-month experiment they estimated
 
-with the long commutes greater than 1.5 hours also had signiﬁcantly
+it increased productivity by 1%. Those working under the hybrid
 
-reduced quit rates under hybrid.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-According to the Society of Human Resource Management, each quit
+2
 
-costs companies at least 50% of the employees’ annual salary, which for
-
-Trip.com would mean $30,000 for each quit. In Trip.com’s experiment,
-
-employees liked hybrid so much that their quit rates fell by more than a
-
-third — and saved the company millions of dollars a year.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

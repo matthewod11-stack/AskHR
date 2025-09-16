@@ -1,11 +1,17 @@
-## HBR / Digital Article / Developing a Successful Business Strategy in China
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d336662451808f20dd18d78c395494739d204fb1
+title: H07VZN-PDF-ENG
+---
+## near-shoring and “friend-shoring,” unpredictable regulatory risks, and
 
-Despite the new challenges, for many businesses the answer remains
+new economic and demographic realities, it’s wise to ask the question:
 
-“Yes.” China, after all, is the world’s second-largest economy and
+Is it worth it for us to do business in China?
 
-roughly the same size as the third, fourth, ﬁfth, and sixth combined.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-The country will be the primary engine of global growth for the next
+1
 
-ﬁve years, according to the IMF, contributing nearly twice as much
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

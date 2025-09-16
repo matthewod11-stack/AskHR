@@ -1,17 +1,21 @@
-# an ill-informed ESG strategy.”
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e31e148eaa8c46b5761a3bfbbdba06c513af507
+title: H07ZZW-PDF-ENG
+---
+## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
 
-Instead, try to pinpoint what your employees expect and value. Surveys
+Sam Hartsock, a cofounder of qb. consulting, has worked to involve
 
-and focus groups can help identify internal sources of pressure,
+employees in sustainability strategy at numerous companies, including
 
-enthusiasm, pain, and tension. Then select individuals who could
+Ben & Jerry’s and Bumble. “We always advise our clients to think about
 
-help lead initiatives and make decisions. If you involve employees in
+their employee engagement [around ESG] holistically,” she says. “If
 
-setting environmental and social priorities, you’ll be better positioned
+[they] only speak to senior leadership, the result is an echo chamber
 
-to achieve them, and your public commitments will be anchored in a
+that leaves out a whole section of key stakeholders. This results in a
 
-robust internal framework. Perhaps most important, your employees
-
-will carry increased responsibility and accountability for ensuring their
+skewed image of the business, presents signiﬁcant risks, and produces

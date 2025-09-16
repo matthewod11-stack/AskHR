@@ -1,15 +1,23 @@
-## continued engagement and performance of in-house employees. Those
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81abb6f61c4256ee0d897d52e6aed44a57452664
+title: R2403D-PDF-ENG
+---
+## What Does This Mean for In-House Employees?
 
-workers bear the brunt of jumping in when the unexpected happens.
+The inﬂux of skilled freelancers into the workplace is a phenomenon
 
-More than ever, employers count on them to keep the business running
+in gestation, but at the moment, we’ve arrived at an equilibrium. Both
 
-smoothly and do the right thing to achieve the outcomes the company
+freelancers and employees have a deal that matches their preferences.
 
-needs. In-house employees are prized as much for their willingness to
+Employees get the stability of a job, relationships at work, a sense of
 
-show up and pitch in as they are for their skills. (Indeed, already 71%
+belonging, the promise of upward mobility, and beneﬁts. For their part,
 
-of employees say that their job description no longer matches the work
+skilled freelancers can earn six-ﬁgure incomes while working when they wish, without the hassles of a commute, dealing with a diﬃcult boss,
 
-they’re actually doing, and 24% say their organizations have begun to
+navigating bureaucracy, or taking on less-than-fulﬁlling work.
+
+But this equilibrium is increasingly fragile, with much riding on the

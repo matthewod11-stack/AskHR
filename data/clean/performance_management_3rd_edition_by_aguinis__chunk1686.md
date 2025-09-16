@@ -1,5 +1,7 @@
-# Total
-
-respective axes of the grid here. For example, if you circled six words in column A, mark the A axis next to the 6. Complete the same procedures for columns B, C, and D. Then extend the marks into each respective quadrant to create a
-
-rectangle. For example, consider the example of circling nine words from the A list, eight from the B list, seven from the C list, and eight from the D list. The rectangle would be the following:
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 955a21b5ac6d3cc64982f5552dbf1eb107a7be59
+title: performance_management_3rd_edition_by_aguinis
+---
+# Restrained

@@ -1,9 +1,9 @@
-# BO
+---
+source_path: H07XS0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45e366f0fa22fe756948f7dd2613287e8903d9cf
+title: H07XS0-PDF-ENG
+---
+# PN
 
-Ben Olds is one of the Managing Partners of HAVEN human asset ventures, a leadership development ﬁrm oﬀering Team Coaching, Executive Coaching, Leadership Programs, and HR Advisory Services. Ben is a graduate of the Kellogg School of Management and honed his leadership skills in prior careers in both ﬁnance and management consulting.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Priya Nalkur, Ed.D. is the President of the RoundTable Institute where she leads a global group of coaches and facilitators to help companies build more eﬀective leaders, teams, and workplaces. She is a professional speaker, coach and facilitator and has taught at the Harvard Graduate School of Education and the Heller School for Social Policy and has several courses on Udemy for Business. She is the author of Stumbling Towards Inclusion: Finding Grace in Imperfect Leadership.

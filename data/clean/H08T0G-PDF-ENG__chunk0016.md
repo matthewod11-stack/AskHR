@@ -1,17 +1,13 @@
-# and more markets—look for them.
+---
+source_path: H08T0G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0281875c28574050316e076366d03e3c77338464
+title: H08T0G-PDF-ENG
+---
+## HBR / Digital Article / Competing in the New Era of Industrial Policy
 
-- 4. Build rapid-response capabilities.
+to open markets, too; for example, by investing (directly or through
 
-Because threat and opportunity maps can change quickly—especially
+alliances) in overseas production, a company can become an insider
 
-given the current American administration’s approach to trade—an
-
-alert eye must be accompanied by a quick hand. A combination of tariﬀ engineering, price-sensitivity analysis, and operational eﬃciency
-
-can mitigate many of the negative eﬀects of trade barriers. Companies
-
-also need the ﬁnancial resilience to absorb government-driven shocks
-
-as well as the operational resilience to adapt quickly to changes—for
-
-example, by having multiple suppliers for key ingredients, ﬂexible
+rather than an exporter. There are more and more incentives in more

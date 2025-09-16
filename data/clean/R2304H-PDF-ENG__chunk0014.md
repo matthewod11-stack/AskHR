@@ -1,9 +1,7 @@
-## quality assurance and testing, report that their autistic consultants
-
-are often especially adept at recognizing patterns, which makes them
-
-better than others at seeing correlations and interdependencies in large
-
-amounts of data. Moreover, they can often stay focused for unusually
-
-long periods of time, even when doing work that is routine and
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9df5d77393671e2057c20d307b832fa5b941b9a
+title: R2304H-PDF-ENG
+---
+## Managers at the international IT consultancy Auticon, which oﬀers

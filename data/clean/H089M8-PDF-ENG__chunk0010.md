@@ -1,7 +1,19 @@
-# HBR / Digital Article / Why Cofounder Partnerships Fail — and How to Make Them Last
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7c5209624f262184da48654bc76f8a24679072bb
+title: H089M8-PDF-ENG
+---
+# during their conversations.
 
-founder). While both the lead founder and cofounders valued skillsets
+We found a key diﬀerence between lead founders (i.e., the individuals
 
-and interpersonal compatibility to some extent, they did not value each
+who had an idea and were looking for a partner to join them) and the
 
-to the same degree. More speciﬁcally, the lead founders prioritized
+cofounders (i.e., the individuals who were considering joining the lead
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

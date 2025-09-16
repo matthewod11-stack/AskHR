@@ -1,17 +1,29 @@
-# such as phthalates.
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 856d891bb0435d8ab57759efe75e2103f892b6f8
+title: H08P2F-PDF-ENG
+---
+## and cabling, food packaging, and cleaning and outdoor products on
 
-We hope our approach can serve as an example for other organizations
+campus. We’re looking at these categories now and having success
 
-that might be confused about how to start addressing forever
+indoors, but, so far, ﬁnding forever-chemical-free exterior products has
 
-chemicals. There are still no science-based third-party certiﬁcations
+been challenging and in some cases signiﬁcantly more expensive.
 
-indicating which products are free from all forever chemicals, nor are
+Forever chemicals are also in things outside of our control, like the
 
-companies 100% aligned on what they’re asking from manufacturers. But harmonization eﬀorts are underway, and tens of millions of
+clothing people wear and products they bring into the buildings. We
 
-dollars are already ﬂowing toward the purchase of healthier materials,
+can’t reduce everyone’s exposure everywhere in their lives, but we can—
 
-prompting manufacturers to innovate. Shaw Industries, for example,
+and feel an obligation to—do our best in the spaces that we control with
 
-recently introduced durable, resilient ﬂooring that does not contain
+measures grounded in peer-reviewed science.
+
+We’re also investigating other chemical classes of concern beyond
+
+forever chemicals based on established science, including ﬂame
+
+retardants, antimicrobials that make health claims, and plasticizers

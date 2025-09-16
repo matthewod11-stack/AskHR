@@ -1,7 +1,9 @@
-## several-day terrorist siege of the hotel in
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40f4e454dab3b006e54291e12d720cf758190a9a
+title: R2505C-PDF-ENG
+---
+# Consider the Taj Mahal Palace employees
 
-- 2008. All had previously gone through an
-
-extensive 18-month onboarding to ensure
-
-that they would not only perform their jobs
+who stayed at their posts during the

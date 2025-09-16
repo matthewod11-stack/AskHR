@@ -1,17 +1,13 @@
-# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 635ff7f2c2f2869d468af9eae8a99850f2cd8bc7
+title: H08Q8O-PDF-ENG
+---
+# for care.
 
-Inspired by Gilligan’s theory of ethics as always situated and relational, and broadening the focus beyond gender diﬀerences, the ethics of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-care was developed further in the 1980s by philosophers such as Nel
+6
 
-Noddings and in the 1990s by political scientists such as Joan Tronto,
-
-who deﬁned “care” as a practice that includes “everything we do to
-
-maintain, contain, and repair our ‘world’ so that we can live in it as well
-
-as possible.” By the early 2000s, ethics of care was a small and growing
-
-theory in management, and organizational scholars started using it in
-
-their research. Today, it is entering the mainstream media as well as
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

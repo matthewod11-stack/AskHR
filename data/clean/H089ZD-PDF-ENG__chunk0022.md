@@ -1,13 +1,33 @@
-# Japan and China.
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7d56baac76a3c8c0f3f244c081138af2f4a7603
+title: H089ZD-PDF-ENG
+---
+## HBR / Digital Article / Inside the Success of South Korean Brands
 
-- 4. They promote their brands through content creation.
+Seoul. Known as the “pop-up mecca,” the Hyundai Seoul, the largest
 
-Finally, K-brands realized early on the importance of becoming content
+shopping mall in the city, attracted 100 million visitors in just 30
 
-powerhouses if they wanted to reach a global audience. The idea is
+months. This form of short-lived retail is particularly attractive for
 
-simple: The marketplace must be viewed as a screen. Creating your own
+brands as it enables them to test new ways to interact with customers at
 
-content and translating the brand DNA across markets gives you the
+a fraction of the cost of creating a permanent store.
 
-capability to eﬀectively tell the brand story and invite customers into
+Finally, Korea is home to fast-paced brand experimentations. For
+
+instance, Gentle Monster explicitly relies on a philosophy of “high-end
+
+experimentation” to seek growth opportunities and expand outside
+
+eyewear. In 2017, it tested whether its success could translate to the
+
+cosmetics market by launching a new fragrance brand, Tamburins.
+
+After introducing the perfume with an art exhibition hosted right next
+
+to its ﬂagship retail store, Gentle Monster saw Tamburins sales jump.
+
+The company rapidly scaled up, opening new Tamburins stores in

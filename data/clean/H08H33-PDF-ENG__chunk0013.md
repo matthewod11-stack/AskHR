@@ -1,9 +1,17 @@
-## relationship between the number of employees and the results they
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 485c010debd9cde05693b09bf232ede53713e148
+title: H08H33-PDF-ENG
+---
+## Breaking the “Let’s Grow by Hiring” Impulse
 
-produce. We think more salespeople will drive more sales, more
+Traditionally, many companies have adapted a “hire to grow” mentality,
 
-engineers will create more products, more marketers will generate more
+or a belief that increasing headcount directly leads to growth. In
 
-leads, and more service staﬀ will cater to more customers. However, this
+the race for ﬁrst-mover advantage, the mantra “get big fast” drives
 
-assumption does not hold true, as talent drives success more than sheer
+companies to hire rapidly, assuming that sheer size will secure success.
+
+This approach is based on a ﬂawed assumption: that there’s a linear

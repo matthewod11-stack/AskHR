@@ -1,11 +1,9 @@
-# Provide concierge services
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d776569bf98f8f695382bf654b17c7bbb7a9c25a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Provide dry-cleaning service
 
-5
-
-Provide take-home meals
-
-3
-
-Sources: Society for Human Resource Management (SHRM) 2008 Benefi ts Survey (SHRM, 2008a) and Commerce Clearing House (CCH) 2007 Unscheduled Absence Survey
-
-2007 CCH
+13

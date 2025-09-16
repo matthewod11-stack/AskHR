@@ -1,7 +1,25 @@
-# HBR / Digital Article / Research: How Family Motivates People to Do Their Best Work
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5686894cc96a603308667d0c742f3f196fa8f184
+title: H08AI6-PDF-ENG
+---
+# MoMo Productions/Getty Images
 
-these moments will be part of both of our beauty journeys… I also hope
+Tennis star Serena Williams recently unveiled her next endeavor after
 
-my daughters see how many diﬀerent passions I have—from tennis to
+leaving the courts behind: her new brand, Wyn Beauty. Like the decision
 
-beauty—and learn that they can lead dynamic careers and lives across
+to retire from tennis to focus on family, Williams’ choice to focus on
+
+beauty is a family aﬀair. As Williams put it: “Motherhood has allowed
+
+me to look at beauty through the eyes of my daughter, Olympia. We’re
+
+always experimenting with makeup together, and I think about how
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

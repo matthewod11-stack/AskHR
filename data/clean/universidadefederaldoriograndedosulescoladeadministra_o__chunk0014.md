@@ -1,17 +1,13 @@
-## apoio de análise de documentos fornecidos pela companhia, uma entrevista com
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: a98f18bce7d85c1ded1c055d64e9803dc4d007a8
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## tanto, utiliza-se da metodologia de pergunta única: a recomendação da empresa
 
-funcionária responsável pela aplicação do eNPS na empresa e questionário com
+como um bom lugar para se trabalhar para outras pessoas em seus círculos
 
-funcionários e líderes de pessoas que lá trabalham. Os registros encontrados na
+pessoal, social e profissional. Este trabalho busca descrever a aplicação prática
 
-revisão bibliográfica, ainda que escassos, evidenciam a associação encontrada
-
-pelos autores entre o eNPS e os construtos de engajamento e satisfação com o
-
-trabalho em análises reais, e os resultados encontrados com o estudo empírico do
-
-caso corroboram alguns dos achados nas pesquisas, sugerindo que o eNPS cumpre
-
-o que se propõe, adicionando como principal contribuição ao campo das pesquisas
-
-com funcionários a simplicidade atrelada a si.
+desta metodologia numa empresa real. Para tanto, utiliza-se de estudo de caso, com

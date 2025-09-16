@@ -1,7 +1,9 @@
-## the term “meritocracy” in the 1958 ﬁctional sociology dissertation
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: adb338dfc611279f0b826723a66a504353ad7c23
+title: H08MZQ-PDF-ENG
+---
+## The False Dichotomy of Merit and Inclusion
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Few people know that sociologist Michael Young, who developed

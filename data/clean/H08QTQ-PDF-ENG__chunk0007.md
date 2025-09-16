@@ -1,15 +1,9 @@
-## not as ad hoc opportunities, but as a strategic component of talent
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aafad18706e1db9ce372d98915e6f5e6340ddbb3
+title: H08QTQ-PDF-ENG
+---
+# retention strategy.
 
-management. This means putting systems in place that support,
-
-evaluate, and reward these assignments equitably. Kayla’s story
-
-highlights what can happen when organizations rely on informal or inconsistent approaches: even well-intentioned eﬀorts to develop talent
-
-can result in uneven—and inequitable—outcomes.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+That’s why it’s essential for organizations to treat stretch assignments

@@ -1,5 +1,17 @@
-# I
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 52ab5b0a54e987a8eb910626855b246a139bfdfc
+title: journal_of_european_industrial_training
+---
+) T P (
 
-d e d a o l n w o D
+5 1 0 2
 
-Journal of European Industrial Training 360° feedback process: performance, improvement and employee career development Alma M. McCarthy Thomas N. Garavan
+h c r a
+
+M 8 0
+
+1 0 : 5 1 t
+
+A K R O C E G E L L O C Y T I S R E V N U y b

@@ -1,19 +1,13 @@
-# six-month sabbatical from work.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a9cfb7d827b6ffb08cc74b4c9b0eba16857172b
+title: H08LRM-PDF-ENG
+---
+## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
 
-During this time, she volunteered and trekked in Latin America, visited
+that she had “lost the ability to appreciate joy in life.” But instead of
 
-friends, and walked the Camino de Santiago, a historic pilgrimage in
+seeking a diﬀerent PhD program or a new job, she did something radical
 
-Spain that spans roughly 500 miles. She emerged with a renewed focus
-
-and vigor. “It opened up my eyes about what I can do as a professional
-
-by giving me more conﬁdence to try new things,” she said. “I always
-
-thought that the main goal in life was to get your ducks in a row, and
-
-now I’ve realized that there are a lot of diﬀerent types of ducks and
-
-they can be in any f—ing arrangement you want.” She went on to join a
-
-ﬁrm dedicated to something she’d been passionate about in law school:
+for a high achiever. She saved up for a year and then allowed herself a

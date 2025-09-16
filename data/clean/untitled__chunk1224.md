@@ -1,5 +1,11 @@
-## tive analysis. Political Psychology, 15, 337–349.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0f392e94bf0d4f874626ed5cd80d0782741b2764
+title: untitled
+---
+# (2nd ed.). New York: Springer-Verlag.
 
-Susman, W. I. (1979). “Personality” and the making of twentieth- century culture. In J. Higham & P. K. Conklin (Eds.), New direc- tions in American intellectual history (pp. 212–226). Baltimore: Johns Hopkins University Press.
+Stouffer, S. A. (1930). An experimental comparison of statistical and case history methods of attitude research. Unpublished doc- toral dissertation, University of Chicago.
 
-Symonds, P. M. (1931). Diagnosing personality and conduct. New
+Suedfeld, P. (1994). President Clinton’s policy dilemmas: A cogni-

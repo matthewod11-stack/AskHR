@@ -1,7 +1,15 @@
-# customers.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a239014c05b04a76f9032545222e7bcb571c270
+title: H08DDG-PDF-ENG
+---
+# Boris Zhitkov/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Every business is deﬁned by its customers — but it’s not always
 
-1
+obvious who an organization’s customers really are. When it comes
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to VC ﬁrms, investors have historically and unsurprisingly viewed
+
+their limited partners (LPs) — the source of VCs’ funding — as their

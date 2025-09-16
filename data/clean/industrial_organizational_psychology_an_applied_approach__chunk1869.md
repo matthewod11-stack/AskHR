@@ -1,9 +1,17 @@
-# Choosing the Best Training Method
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9445993745bf26ef96d9be77d4984271af1b21f3
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Source: Adapted from Blum and Naylor (1968).
 
-Once goals and objectives have been established, the next step in developing a training program is to choose the training method that will best accomplish those goals and objectives. For example, if the goal is for employees to learn an
+A good example of the importance of management support can be found at a particular fast-food restaurant. The employees at two restaurants owned by the same company were given customer service training. At one of the restaurants, the training clearly had an effect, as customer complaints were down and secret- shopper scores were up. At another of the restaurants, there were no changes in complaints or secret-shopper scores. What made the difference? At one res- taurant, the supervisor set goals, provided feedback to the employees, actively encouraged them to use their training, and herself modeled the behaviors learned in training. At the other restaurant, the manager hid in the back doing paper- work, a signal to employees that customer service was not important to their boss, regardless of what was emphasized in training.
 
-designing and evaluating training systems
+Another important factor in motivating employees is the extent to which they are given the opportunity to apply their skills. This is especially true when an organization pays an employee’s college tuition but never provides the employee with an opportunity to use his knowledge or degree. In a study of over , employees, Benson, Finegold, and Mohrman () found that employees who were promoted after receiving a graduate degree (given the chance to use their new knowledge) were less likely to turn over than employees who completed their degrees but were not promoted. Optimally, employees should be given the opportunity to use their newly acquired knowledge and skills immediately after completing their training.
 
-297
+The use of knowledge and skills learned in training can also be encouraged by having employees set goals. For example, tellers at a credit union received two days of training on cross-selling new products. This training included information about new loans and new loan rates, types of retirement accounts, alternative savings plans, and the advantages of using a new “premium” credit card. Each teller might set a goal of daily asking four credit union members if they would like information about one of the new products. Goal setting works best when goals are individually set by each employee, are concrete rather than vague, and are high enough to be challenging but not so difficult as to be impos- sible (Locke, ). A more comprehensive discussion of goal setting is found in Chapter .
 
-actual skill, some type of hands-on training will be necessary (e.g., role plays, simulations). Because most training programs have multiple goals and objectives, the best training programs often use a variety of methods so that employees will understand the reasons for doing a certain task, how it should be done, and in what situations it should be done (Lawson, ). In the following pages, several training methods will be discussed.
+Employees will also be motivated to apply what they learned in training if the training program has a reputation among them as being effective and useful (Switzer, Nagy, & Mullins, ). This is not surprising given that employees talk with one another about training, and when they find a training program useful (or not), they certainly pass that information on to other employees.
+
+One other method for getting employees to apply what they have learned in training is to train all the employees in a work area (team) at the same time. One advantage of doing this is because all employees have been trained, they can help and encourage each other. That is, if one employee is not properly performing a task, he or she can be coached by another employee. Furthermore, if all employ- ees are applying what they have learned, it sets the proper atmosphere for new employees as well as for employees tempted to go back to the old way of doing things.

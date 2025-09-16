@@ -1,13 +1,43 @@
-# company longer.
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 588316abe7cd2a06642acd806e2938738f709338
+title: H08H33-PDF-ENG
+---
+# HBR / Digital Article / Boost Your Team’s Productivity by Hiring Force Multipliers
 
-- 2. Move people into jobs that leverage their strengths.
+Remarkably, Netﬂix accomplishes all this with just 13,000 employees
 
-This approach doesn’t just apply to new hires: Every team member
+worldwide. Instead of hiring to simply expand, Netﬂix focuses on
 
-should signiﬁcantly contribute to and enhance overall productivity.
+continually hiring and retaining only the top talent.
 
-This means you’ll need to support and encourage all employees to
+Compare this to companies like Meta or Intel. When Meta initiated its “year of eﬃciency” and laid oﬀ 22% of its workforce, the stock started
 
-consistently improve their individual “talent density.” If employees
+to soar. Intel is undergoing a similar process. Both companies had
 
-aren’t actively developing their skills, they may inadvertently reduce
+over-hired, which reduced their talent density and so they later had to correct course to regain productivity and eﬃciency.
+
+Think of talent density as a way to increase productivity with a
+
+structured HR process. If you want to improve productivity, each
+
+employee must continuously evolve in their role, adding more value
+
+each year instead of merely maintaining their current performance. To
+
+achieve talent density, companies must adopt three strategies:
+
+- 1. Rethink the recruiting function.
+
+Recruitment teams need to move away from the mindset of being
+
+the Amazon fulﬁllment center for people. Instead, recruiters should
+
+challenge every hiring decision, urging managers to consider talent
+
+density and how each new hire will enhance overall team productivity.
+
+This could mean prioritizing internal candidates who “ﬁt” with and are
+
+committed to the culture are often more productive and stay with the

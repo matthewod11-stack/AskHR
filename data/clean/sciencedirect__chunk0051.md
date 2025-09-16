@@ -1,3 +1,9 @@
-## Conference on Knowledge Management: ECKM2015, Academic Conferences Limited.
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: d696bcf0494d8c434368b480ffbe7a9ac9937907
+title: sciencedirect
+---
+# psychology/. [Accessed 12th Sep 2017].
 
-[5] Cameron, K., and J. Dutton. (2003) Positive Organizational Scholarship: Foundations of a New Discipline. Berrett-Koehler Publishers. [6] Seligman, M.E., et al. (2005) “Positive Psychology Progress: Empirical Validation of Interventions.” American Psychologist 60 (5): 410. [7] Fryer, B. (2004) “Accentuate the Positive.” Harvard Business Review 82 (2): 22. [8] Peterson, S.J., and B.K. Spiker. (2005) “Establishing The Positive Contributory Value of Older Workers:: A Positive Psychology
+[3] Rousseau, D.M. (1997) “Organizational Behavior in The New Organizational Era.” Annual Review of Psychology 48 (1): 515-546. [4] El-Den, J. (2012) “Applying Positive Psychology To Knowledge Management”, in ECKM 2015 Proceedings of the 16th European

@@ -1,13 +1,9 @@
-# Empowering Sellers
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3fcacb96d59d12d560664c94513136b2ab464d7b
+title: H07BT4-PDF-ENG
+---
+## opportunities. Furthermore, their pre-resignation performance might
 
-Fifty-six percent of sellers report feeling like a cog in a machine, while
-
-76% feel that sales leadership dictates how to meet their sales objectives.
-
-Sellers experiencing drag from feeling like a cog in a machine are up to
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+also suﬀer, leading to lost revenue.

@@ -1,5 +1,35 @@
-## commoditization or pressure from competitors.
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ccdf2bfb4f3d6cc6bc8009ef5a6bb17675ca4375
+title: H08R2D-PDF-ENG
+---
+# outperformance in the absence of growth:
 
-A case in point is Siemens: In 2014, it announced an increased focus on
+- 1. At Your Service: The Asset-Light Play
 
-software-as-a-service and digital twin technology. This move reﬂected
+Many businesses facing low growth prospects react by seeking to
+
+acquire new customers—often at high cost—but stable outperformers
+
+are more likely to maximize value from existing customer relationships.
+
+They do this by shifting from physical products with declining demand
+
+to asset-light services and software. This approach not only deepens
+
+customer ties but also improves margins and lowers asset intensity.
+
+The stable outperformers that made this shift increased their EBIT
+
+margins by 8 percentage points between 2004 and 2024 on average,
+
+driven by 50% lower capital expenditures and 25% lower cost of sales.
+
+This enabled them to also achieve an average annual TSR of 9%.
+
+This path is most common in asset-heavy industries undergoing digital
+
+transformations or in IT companies becoming more service-oriented.
+
+More broadly, it may oﬀer an interesting path for businesses facing

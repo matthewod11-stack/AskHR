@@ -1,9 +1,7 @@
-## subsequent town halls and leadership meetings, further compression
-
-occurs. While you believe your team has suﬃcient context to ﬁll
-
-information gaps, they’re left with fragments of your original vision.
-
-This degradation occurs systematically through what I call
-
-“communication leak points”—speciﬁc transition moments where
+---
+source_path: H08TXR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ced3be506d99d1874c29bafb86dde852fb70601d
+title: H08TXR-PDF-ENG
+---
+## compress the multidimensional concept into a linear format. During

@@ -1,15 +1,9 @@
-## Do Employees Enjoy Working with Supervisors and Coworkers?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 15e7f44cf9fa8397ef93d0bba858163967ff86a3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Are the Tasks Enjoyable?
 
-Research indicates that people who enjoy working with their supervisors and coworkers will be more satisfied with their jobs (Mossholder, Settoon, & Hena- gan, ; Repetti & Cosmas, ). Such findings certainly make sense. We all have had coworkers and supervisors who made our jobs unbearable, and we all have had coworkers and supervisors who made our jobs fun to have. In a study of  employees at an apparel manufacturing plant, Bishop and Scott () found that satisfaction with supervisors and coworkers was related to organi- zational and team commitment, which in turn resulted in higher productivity, lower intent to leave the organization, and a greater willingness to help.
-
-employee satisfaction and commitment
-
-373
-
-t i d E o t o h P / n a m w e N
-
-l e a h c i M ©
-
-374
-
-chapter 
+Not surprisingly, research is fairly clear that employees who find their work inter- esting are more satisfied and motivated than employees who do not enjoy their jobs (Gately, ). Interestingly, although employees rank interesting work as being the most important factor in a job, supervisors rank salary and bonus as being the most important for employees. This discrepancy is why Glanz () advised employers to take innovative steps to make work more interesting.

@@ -1,7 +1,11 @@
-# Holland Self-Directed Search
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7b6875ce127a86d0bda0ec146c2b3afa839c5ec0
+title: untitled
+---
+## Measuring Achievement, Aptitudes, and Interests
 
-Like Strong and Kuder before him, John Holland began his work on measuring vocational interests as an empiricist, con- cerned with collecting data on likes, dislikes, and preferences that would have predictive value for successful occupational choice. Early on, however, he opted for a rational-empirical approach to scale construction in which variables are selected on the basis of some guiding concepts and empirical testing with criterion groups is employed only secondarily to reﬁne and revise item content. Holland’s guiding concepts were rooted in his belief that occupational preferences derive from a person’s self-concept and personality style, and the ﬁrst product of his approach was the Vocational Preference Inven- tory (VPI; Holland, 1953). The VPI yielded scale scores re- lated to broad aspects of personality styles or attitudes, and in subsequent revisions the core VPI scales evolved into the following six: Realistic (R), Investigative (I), Artistic (A), Social (S), Enterprising (E), and Conventional (C) (Holland, 1985). Some additional empirically derived scales were added to the instrument, but the RIASEC group became the model on which Holland elaborated an inﬂuential personality-based theory of career choice and satisfaction (Holland, 1966). Holland postulated that every individual’s personality comprises some combination of these six styles, and he maintained that the extent to which each style is pre- sent provides a personality description that has direct impli- cations for career planning.
+(Kuder, 1939) with scales for seven areas of interest. As an alternative to the Strong, the Kuder pointed less directly to speciﬁc occupations that respondents should consider but provided more information about personal characteristics that would be likely to have a bearing on whether they would enjoy certain kinds of work.
 
-Holland later used this model to design the Self-Directed Search (SDS), which generates scale scores for the RIASEC components and offers suggestions concerning the kinds of occupations for which persons with various scale combi- nations might ﬁnd themselves suitable (Holland, 1979; Holland, Fritzsche, & Powell, 1994). A unique feature of the
-
-295
+Kuder’s measure was expanded in subsequent revisions to feature 20 broad interest areas, a downward extension for use with elementary and high school students, and its cur- rent name, the Kuder Occupational Interest Survey (KOIS; Kuder & Zytowski, 1991). Paralleling the evolution of the SVIB from a strictly occupationally scaled measure to one that incorporates as well a theoretically based classiﬁcation of occupational interests, the KOIS now includes some occu- pational as well as basic interest scores.

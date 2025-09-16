@@ -1,3 +1,7 @@
-# Example of a Job Description (Continued)
-
-7 7 7 Job Context The bookkeeper spends the majority of time making entries in and balancing journals and ledgers. The work day is spent in a climate-controlled offi ce with four coworkers. Physical demands are minimal and sitting is required for most of the day. Work hours are Monday-Friday from 8:00 a.m. to 5:00 p.m., with an unpaid hour for lunch. No weekend or holiday work is required and overtime seldom occurs. Psychological stress is usually low but becomes moderate when dealing with an angry customer. Work Performance The bookkeeper is evaluated annually by the offi ce manager using the credit union’s standard performance appraisal system. To receive an excellent performance appraisal, the bookkeeper should: 7 7 7 7 7 7 Compensation Information
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bf12d40d18538195e59704f694e415797a5b195d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Table 2.1

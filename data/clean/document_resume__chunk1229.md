@@ -1,3 +1,7 @@
-## submits final course grades to Registrar late.
-
-- 4. Pre and Post Clinical Conferences (Emergency Medical Technician-EMT) - Conducts pre and post clinical conferences to determine value of clinical experi- ences to students and assesses student progress.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: d06dc291de2c658594c98dac98a9fc98fefec8bc
+title: document_resume
+---
+## 1 Unacceptable Administers little, if any, final evaluation procedure. Usually

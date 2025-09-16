@@ -1,19 +1,13 @@
-# meaningful engagement.
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8bfc11ef284f09fd5c9702673737e97e57dae83
+title: H08T5A-PDF-ENG
+---
+## HBR / Digital Article / New Research on Why Teams Overwork—and What Leaders Can…
 
-Another example of a useful change to break entrainment cycles is
+to responding to real-time chats or hopping on to last-minute calls.
 
-German automaker Mercedes-Benz’s “Mail on Holiday” email policy,
+This allows team members to respond on their own schedules and
 
-which ensures its employees are taking full advantage of their time oﬀ, without fearing an overﬂowing inbox when they return. Through
-
-this policy, emails received during holidays are auto-deleted, and a
-
-note is sent to the sender, conveying that they will need to reach out
-
-once the employee has returned to the oﬃce. This allows employees
-
-to disconnect from the oﬃce rhythm without anxiety about missing
-
-something. Moreover, quite often, the fear of coming back from the
-
-holiday and facing an inbox full of hundreds of messages made many
+work without fear of missing something, fostering deeper focus and

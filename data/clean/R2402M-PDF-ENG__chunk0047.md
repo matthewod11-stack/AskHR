@@ -1,17 +1,21 @@
-# quickly as well.
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56c0892656f7c2ab2a6eac1884545ffa7fbe2661
+title: R2402M-PDF-ENG
+---
+## tranches, contingent upon the achievement of predeﬁned productivity
 
-Paulo does not need to threaten Lucia with the potential closure of the
+and quality targets. Those goals should be transparent and visibly
 
-plant. He can simply explain that it is currently uncompetitive in the
+communicated in the factory. I might even suggest a massive dashboard
 
-larger Luna network and that he needs her help to ﬁx the problem. After
+above the ﬂoor, letting workers know that if they meet the targets, they will create x number of jobs for the community.
 
-sharing his plans, including strategies for improving employee morale,
+Additionally, Paulo should prioritize reskilling initiatives. They will help
 
-he should encourage her to partner with him on their execution.
+lessen any underlying anxiety the workers have about being replaced
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+or rendered obsolete by new technologies such as AI or electric cars.
 
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+A robust training infrastructure will help get new hires up to speed

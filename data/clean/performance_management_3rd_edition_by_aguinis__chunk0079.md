@@ -1,9 +1,7 @@
-# 9.4 Performance Review Meetings 248
-
-(cid:2) CASE STUDY 9-1: Was Robert Eaton a Good Coach? (cid:2) CASE STUDY 9-2: What Is Your Coaching Style? (cid:2) CASE STUDY 9-3: Preventing Defensiveness (cid:2) CASE STUDY 9-4: Recommendations for Documentation 260
-
-256
-
-257
-
-259
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: bb05c827f53fccba3daaad05a6ca7bfb87bfa8cd
+title: performance_management_3rd_edition_by_aguinis
+---
+## 9.3.2 Giving Feedback 239 9.3.3 Disciplinary Process and Termination 245

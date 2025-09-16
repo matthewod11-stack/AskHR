@@ -1,11 +1,21 @@
-## customer, the National Riﬂe Association.”
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ed52b70fe6ce27a68358f667b8e0ce2155b0fa3
+title: H07ZZW-PDF-ENG
+---
+## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
 
-Today’s employees are far more likely than those of generations past to
+on issues and to take concrete action on environmental and social issues
 
-raise alarms about what businesses are (or aren’t) doing about climate
+— and sometimes they demand it. In 2022, for example, thousands
 
-change, racism, political conﬂicts, abortion, or gun control. And eﬀorts
+of Salesforce employees signed an open letter urging co-CEOs Marc
 
-to hold their leaders accountable in the public square have led young
+Benioﬀ and Bret Taylor to stop doing business with the National Riﬂe
 
-staﬀ members in particular to leak embarrassing internal information
+Association. “It’s not in our power to get background checks or other
+
+gun control measures passed by Congress,” it explicitly argued, “but
+
+we can eﬀect change by ending our commercial relationship with our

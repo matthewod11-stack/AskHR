@@ -1,13 +1,15 @@
-# success?
+---
+source_path: H08ERV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 502a997a6edcadad85f5835bb8f8bd0598ee55d5
+title: H08ERV-PDF-ENG
+---
+# Jonathan Kitchen/Getty Images
 
-Within Silicon Valley circles, many advocate that rapidly expanding
+In the fast-paced world of entrepreneurship, success seems to hinge
 
-your business, or scaling quickly, stands out as one of the most (if
+on knowing when to seize the opportunity to expand and when to
 
-not the most) eﬀective strategies to gain global traction and establish
+bide your time. The question is: Does the “fast and furious” or “slow
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and steady” approach to scaling reign supreme in the race to startup

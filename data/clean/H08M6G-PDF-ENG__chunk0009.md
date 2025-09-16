@@ -1,19 +1,11 @@
-## personal attacks and emotional escalation.
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5e3b303978b7f762455fdf1816b45250fc9dc31
+title: H08M6G-PDF-ENG
+---
+# HBR / Digital Article / How Constructive Dissent Can Unlock Your Team’s Innovation
 
-- 2. Establish ground rules and get commitment.
+listening with the intent of comprehending instead of responding.
 
-When a team fails to deﬁne its ground rules and terms of engagement,
-
-that lingering ambiguity creates license for individuals to engage in
-
-destructive dissent. You don’t necessarily have to codify the rules
-
-of engagement; many teams develop constructive dissent as a norm
-
-without any kind of documentation. But the teams that do it best
-
-consistently reinforce behavioral expectations.
-
-For example, one team we worked with reinforced ground rules that
-
-included the prohibition of personal attacks, the obligation of respect in
+They were able to share their opinions more honestly and refrain from

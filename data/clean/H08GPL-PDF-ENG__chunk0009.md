@@ -1,17 +1,19 @@
-# Why Use a PIP?
+---
+source_path: H08GPL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a74b82ebce093dbafdc2f70f2b79a0c4a4a348e3
+title: H08GPL-PDF-ENG
+---
+## What Is a Performance Improvement Plan (PIP)?
 
-Providing an underperforming employee a chance to course-correct
+A PIP is a formal approach to remedy performance gaps, including
 
-rather than penalizing or ﬁring with little warning seems like a fair
+failures to meet speciﬁc job goals or behavior-related concerns. The plan
 
-approach. That said, PIPs have a lousy reputation with employees
+outlines the existing issues and deﬁnes what new outputs and behaviors
 
-and even with some leaders and HR professionals who view them as
+are needed by when. But is a PIP the right choice for your situation? Will
 
-adversarial, punitive, and controlling. Further, PIP detractors argue that
+it work? Is it worth the eﬀort? Here are some tips on determining if a PIP
 
-termination is the inevitable ending to the performance improvement
-
-process and that it’s inappropriate to ask an employee to work through
-
-a grueling set of requirements when you have no intention of changing
+is the right path and, if so, how to implement one optimally.

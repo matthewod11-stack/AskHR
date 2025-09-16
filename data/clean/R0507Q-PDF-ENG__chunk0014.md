@@ -1,29 +1,13 @@
-## single management report, many of the seemingly disparate elements
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 991340b7cf444eec301398ba6655fb2127fd457f
+title: R0507Q-PDF-ENG
+---
+# critical.
 
-of a company’s competitive agenda: becoming customer oriented,
+Several companies have already adopted the balanced scorecard. Their
 
-shortening response time, improving quality, emphasizing teamwork,
+early experiences using the scorecard have demonstrated that it meets
 
-reducing new-product launch times, and managing for the long term.
-
-Second, the scorecard guards against suboptimization. By forcing senior
-
-managers to consider all the important operational measures together,
-
-the balanced scorecard lets them see whether improvement in one
-
-area may have been achieved at the expense of another. Even the best
-
-objective can be achieved badly. Companies can reduce time to market,
-
-for example, in two very diﬀerent ways: by improving the management
-
-of new-product introductions or by releasing only products that are
-
-incrementally diﬀerent from existing products. Spending on setups can
-
-be cut either by reducing setup times or by increasing batch sizes.
-
-Similarly, production output and ﬁrst-pass yields can rise, but the
-
-increases may be due to a shift in the product mix to more standard,
+several managerial needs. First, the scorecard brings together, in a

@@ -1,33 +1,21 @@
-## Moody v. Pepsi-Cola Metropolitan Bottling Company, Inc. 915 F. 2d201 (6th Cir.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: c92e2019c75504ba4e202383af1ccbadf9784c2e
+title: california_state_university_northridge_1
+---
+## Originally the Age Discrimination Employment Act (ADEA) had a protective class
 
-- 1990) ("Pretense for age discrimination," 1991). An employee 51 years of age was a
+from age 40 to 69. Therefore, persons who fell into this category could not be terminated
 
-warehouse manager at Pepsi bottling facility in Michigan, was fired on October 1, 1982.
+on the sole basis of their age. Nevertheless, the amendment in 1986 to the ADEA,
 
-A 29-year-old employee replaced the former employee. The former employee sued on
+removed the ceiling and now protects all older workers against discrimination in various
 
-the grounds of ADEA and other state law violations. Said employee constantly had above
+personnel actions as firing, promotions, layoff.~ a..nd directly affects the rights of em..ployees
 
-average performance evaluations for duration of five years. A new supervisor began to
+as pension or benefit plan participants (Dube, 1988, p. 1 ). Discharging an employee for
 
-37
+their age, or attempted to pursue a different avenue, constitutes wrongful termination, if
 
-criticize the quality of work being produced by the older employee. This supervisor in
-
-question stated the employee was let go because a reduction in workforce as specified by
-
-upper management. The order given was to terminate six management level employees
-
-since sales had been dropping. U.S. District Court for the Eastern District of Michigan
-
-ruled in favor of the plaintiff, in which Pepsi appealed the ruling. The case came before
-
-the U.S. Court of Appeals for the Sixth Circuit, in which the appellate court upheld the
-
-district court ruling favoring the plaintiff. The appellate court stated a pretext of reduction
-
-in work force was used to terminate said employee on the basis of his age. After an
-
-investigation, it was determined there was no reduction in work force by Pepsi-Cola.
-
-Plaintiff was awarded $132,818
+the primary motive was age.

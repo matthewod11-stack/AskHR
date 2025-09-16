@@ -1,11 +1,7 @@
-# Henrik Sorensen/Getty Images
-
-You’re ready to have a greater impact on your company’s strategic
-
-direction, but you don’t know where to begin with your ideas. You see
-
-an opportunity to open a new market for your company, but you’re
-
-unsure what levers to pull. You want to drive an important initiative
-
-that spans several business units, but you don’t know how to position
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5ee39f998c451a9b3ba7e930195b7cad750b4dca
+title: H07YQQ-PDF-ENG
+---
+## Published on HBR.org / January 04, 2024 / Reprint H07YQQ

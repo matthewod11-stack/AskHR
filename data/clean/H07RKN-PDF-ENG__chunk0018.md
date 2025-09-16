@@ -1,15 +1,19 @@
-# of people with similar interests.
+---
+source_path: H07RKN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38a128361340ea13b24c30df14e66c6b15c091c5
+title: H07RKN-PDF-ENG
+---
+# productive.
 
-Now, let’s look at a non-sales example. Let’s say you’re part of a
+For example, athletes are curating playlists that contain snippets of
 
-committee at work to suggest more eco-friendly initiatives for your entire oﬃce. You have an idea for hiring a local ﬁrm to create an organic
+podcasts and video advice to help them with particular stretching
 
-garden in an unused portion of your roof area, and you want to pitch
+exercises. Then, they can easily access the content they want, whether
 
-this concept for adoption by the committee. Here’s what your pitch
+they’re in the gym, at home, or getting ready for a track workout.
 
-might look like:
+And that’s not all. There is a social element to this product. You can
 
-What if we could have fresh produce available on-demand, onsite?
-
-So that we can oﬀer locally grown, organic fruits and vegetables to our
+share your personal playlists with friends and even build communities

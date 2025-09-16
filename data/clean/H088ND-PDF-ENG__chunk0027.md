@@ -1,15 +1,15 @@
-# new challenges.
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7ff84c970eb61c3974fb5a31103f01165035f41
+title: H088ND-PDF-ENG
+---
+# behavioral norms.
 
-Eﬀective training empowers leaders not only to learn about cultural
+Such homogeneity tends to reinforce itself, preventing leaders from
 
-diﬀerences, but more importantly, to adapt their behaviors to lead
+gaining meaningful experience with the learned and shared patterns of
 
-eﬀectively across those cultures. For example, at a global asset
+other cultures. This situation perpetuates cultural silos and groupthink,
 
-management ﬁrm, one of us (Joy) equipped senior partners with
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hindering the team’s ability to innovate and respond dynamically to

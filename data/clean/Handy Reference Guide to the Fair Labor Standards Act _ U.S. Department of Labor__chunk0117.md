@@ -1,7 +1,9 @@
-## 9. the Immigration and Nationality Act, as amended, which:
-
-under the H-2A provisions, provides for the enforcement of contractual obligations of job o(cid:211)ers which have been
-
-certified to by employers of temporary alien nonimmigrant agricultural workers;
-
-under the H-2B provisions, provides for the enforcement of employment conditions in the application for alien
+---
+source_path: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department
+  of Labor.md
+pages: n/a-n/a
+chunk_id: d94c545c1cc0ae812fc73024ac823cc3d0bf63a0
+title: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department of
+  Labor
+---
+## for the employee’s serious health condition; and

@@ -1,7 +1,9 @@
-## The APA Congressional Science Fellowship Program
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c94bd103833df35651fa4dde818afdf8c7bcdd27
+title: untitled
+---
+# TWO ASSOCIATIONAL DEVELOPMENTS
 
-In 1974, Pam Flattau served as the ﬁrst APA Congressional Science Fellow, under the program established in conjunction with the American Association for the Advancement of Science (AAAS). Over a quarter of a century later, approxi- mately 125 colleagues have had the opportunity to serve on Capitol Hill (or in the administration) as APA Fellows, Robert Wood Johnson Health Policy Fellows, or in other sim- ilar national programs. In this capacity, they experienced personal involvement in the public policy process. Initially, the APA focused only on providing the experience for recent doctoral graduates; as the program matured, however, a concerted effort was made to attract more senior fellows. The APA Fellows have included individuals from almost every psychological specialty area, including several who also pos- sessed degrees in law (Fowler, 1996).
-
-Over the years, a number of psychologists have gravitated to positions of high-level public policy responsibility. During President Lyndon Johnson’s era of the “Great Society,” John Gardner served as secretary of the Department of Health, Education, and Welfare. Psychologists have served as depart- mental assistant secretaries, subject to Senate conﬁrmation; director of one of the National Institutes of Health (NIH), as well as of other federal research institutes; head of the federal Bureau of Prisons; commanders of federal health care facili- ties; and as Chief State Mental Health ofﬁcials. In the 107th Congress (2001–2002), three psychologists were elected to U.S. House of Representatives, and 12 psychologists served in the various state legislatures during that same time.
-
-Withﬁrsthandexperienceinthepublicpolicyprocess,psy- chologists have been inﬂuential in the gradual modiﬁcation
+The essence of a profession is daily involvement with patients or clients. The context in which this interaction occurs, including the very important issue of reimbursement for services rendered, falls within the jurisdiction of public policy (e.g., the political process). For psychology to become an active participant within primary care (or to expand its scope of practice to include prescriptive authority) requires institutional collective knowledge of the evolving “bigger picture” and ongoing interrelationships existing within soci- ety and the generic health care arena. Historically, profes- sional psychology has, at most, seen itself as solely one of the mental health disciplines and has not concerned itself with broader public policy or public health issues (DeLeon, VandenBos, Sammons, & Frank, 1998). These two program- matic initiatives have signiﬁcantly changed that perspective.

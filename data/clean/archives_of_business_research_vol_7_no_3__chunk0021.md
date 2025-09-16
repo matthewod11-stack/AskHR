@@ -1,7 +1,7 @@
-## Variables TMS TMO EPB Complete Instrument
-
-Cronbach’s alpha 0.759 0.795 0.801 0.785
-
-Items 16 20 12 48
-
-The reliability statistics shown in Table 2 are within acceptable range.
+---
+source_path: archives_of_business_research_vol_7_no_3.md
+pages: n/a-n/a
+chunk_id: 2012d063a459d6f2158cfd88dc7935f544029400
+title: archives_of_business_research_vol_7_no_3
+---
+# Table 2: Reliability Test

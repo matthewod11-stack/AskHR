@@ -1,15 +1,47 @@
-# Norms Will Emerge
+---
+source_path: H07WF3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b7f8627b952095b2de31c5e618a5eed5f54ac49
+title: H07WF3-PDF-ENG
+---
+## First, from a design perspective, seemingly innocuous choices of how
 
-Second, we will need to develop rubrics for thinking about when and
+we architect AI-powered tools can have a substantial impact on their
 
-how we use AI-powered tools. Calculators serve as another historical
+eﬀects. Take the somewhat mundane example of spell check. Most spell
 
-analog here. While we would be hard pressed to make an argument
+checkers don’t automatically ﬁx words as you type without feedback.
 
-against a banker using a calculator to compute compound interest,
+Instead, they provide cues that indicate a potential misspelling and
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+oﬀer an opportunity to not only correct what’s written, but to visualize
 
-4
+the proper spelling. This small choice shifts spell check from being a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+kind of a steroid to more of a coach. It improves your ﬁnal product while
+
+also helping you learn from your mistake (or typo).
+
+By thinking intentionally about how we design AI tools, we can
+
+minimize or avoid harmful long-term eﬀects. For instance, our own
+
+recent experiments show that simple conﬁdence-based highlighting,
+
+similar to what’s done in spelling and grammar check, can help people
+
+spot and correct fabrications or “hallucinations” produced by LLM-
+
+based search tools. The idea is that if we can show people which bits
+
+of information in an LLM-generated response might be less reliable, we
+
+can help them spot and ﬁx potential errors. This would still oﬀer the
+
+chance for productivity gains while maintaining the necessary cues for
+
+cognitive awareness of where LLM-based responses can go wrong. With
+
+thoughtful design we can develop helpful co-pilots that augment, rather
+
+than replace, people in getting work done.

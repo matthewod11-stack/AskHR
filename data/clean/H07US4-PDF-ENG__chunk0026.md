@@ -1,9 +1,7 @@
-# How to Design Love In
-
-In the age of AI, the very best talent will want to work for organizations
-
-that commit to being loving in all they do. This doesn’t mean these
-
-organizations will be soft or lackadaisical — tough love is still love. It
-
-means simply that the best talent will be acutely sensitive to whether the organization is doing things lovingly, rather than merely eﬃciently
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b197fe6ccfdbaee6499c0c3ac19c9fce37d98dbc
+title: H07US4-PDF-ENG
+---
+## HBR / Digital Article / The Business Case for Love

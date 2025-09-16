@@ -1,7 +1,11 @@
-## with individual directors in one-on-one conversations between full
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8e725c5607a1f52aa66e3d1b7c1b1201598bdc5
+title: H07SHK-PDF-ENG
+---
+## investors, regulators, the media, and other stakeholders. They must
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+decide which senior roles require an interview with the CEO as part of
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the hiring process. They must decide when and how often to engage

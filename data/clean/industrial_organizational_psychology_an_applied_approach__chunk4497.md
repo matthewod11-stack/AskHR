@@ -1,5 +1,9 @@
-# survey. Security Journal, 8, 167–169.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9b15ee43976d3fd285b3a06febca1ba632da786c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# the team. HR Magazine, 42(1), 65–70.
 
-Viswesvaran, C., & Ones, D. S. (2003). Measurement error in
-
-“big ﬁ ve factors” personality assessment. In B. Th ompson (Ed.), Score reliability: Contemporary thinking on reliability issues. Newbury Park, CA: Sage Publications.
+Viswesvaran, C., & Ones, D. S. (1997). Review of the Stanton

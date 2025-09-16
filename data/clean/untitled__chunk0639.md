@@ -1,5 +1,11 @@
-# Crowﬁeld.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8e959f76a96525f0fc6589a007b06f292c6028d2
+title: untitled
+---
+# Scotland: Macachian, Stewart.
 
-Sternberg, S. (1967). Two operations in character-recognition: Some evidence from reaction-time measurements. Perception and Psychophysics, 2, 45–53.
+Selfridge, O. G. (1959). Pandemonium: A paradigm for learning. In D. V. Blake & A. M. Uttley (Eds.), Proceedings of the Sympo- sium on the Mechanisation of Thought Processes (pp. 511–529). London: Her Majesty’s Stationery Ofﬁce.
 
-Swets, J. A., Tanner, W. P., & Birdsall, T. G. (1961). Decision processes in perception. Psychological Review, 68, 301–340.
+Smith, R. (1738). A complete system of opticks. Cambridge:

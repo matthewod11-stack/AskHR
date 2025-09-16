@@ -1,15 +1,11 @@
-## client experience, capability building, work-life sustainability, or skills
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: cafdc514881dfe3de88dd4184413651bc1064c9f
+title: S24051-PDF-ENG (1)
+---
+# below.)
 
-acquisition. Then build digital systems to track those metrics with as
+Action plan. Deﬁne what constitutes success. This could be any
 
-little disruption as possible to teams’ day-to-day work. Finally, use those
-
-systems to learn what combinations of inputs lead to better outcomes.
-
-At McKinsey, success is delivering results for our clients. The signals
-
-that point the way to this outcome are client and team sentiment, and
-
-the inputs are the WWW practices, measured through the team survey.
-
-[ 3 ]
+number of things, such as increased revenue, improved employee and

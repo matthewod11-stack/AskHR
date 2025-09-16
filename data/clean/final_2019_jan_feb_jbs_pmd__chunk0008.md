@@ -1,7 +1,9 @@
-# of Regional Countries (SAARC)
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 337d6541293e9f9baf8a0d1f7d974f32750b9e89
+title: final_2019_jan_feb_jbs_pmd
+---
+## (cid:108) A Study on Foreign Direct Investment of South Asian Association
 
-- Neha Anand
-
-(cid:108) Talent Development: Existing Status, Constraints,
-
-10-21
+3-9

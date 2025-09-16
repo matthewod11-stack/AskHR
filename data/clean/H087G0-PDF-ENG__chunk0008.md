@@ -1,21 +1,15 @@
-# projects.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 624878d7fe68933be3c64f6ab07b3cc69526975a
+title: H087G0-PDF-ENG
+---
+## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
 
-However, even though Ali contributed extra work and ensured his
+disclosing it at work, but symptoms including extreme fatigue and
 
-output was impeccable, coworkers began to make snide remarks,
+dizziness were interfering with his travel for in-person projects.
 
-perhaps resenting that they had to travel while he did not. When a new
+He eventually conﬁded in the department head, who made
 
-department head came in, colleagues upped their complaints about Ali
-
-being a “ﬂake,” and when he disclosed his illness to the new manager,
-
-he was met with a suspicion of faking it. The additional stress caused
-
-Ali’s health issues to ﬂare and he was ultimately forced to resign.
-
-Unfortunately, research indicates it’s not rare for a disability disclosure
-
-to lead to accusations of faking and other negative attitudes, both
-
-conscious and unconscious. Many studies have also documented high
+accommodations, assigning Ali to remote consulting and research

@@ -1,9 +1,11 @@
-## Leader Behavior Description Questionnaire
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ab42dee0d4a4fb05cd966b0979df0dfd6a0d8cc8
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Laboratory research Research that is conducted in a
 
-(LBDQ) A test used to measure perceptions of a leader’s style by his or her subordinates.
+laboratory setting that can be controlled more easily than research conducted in a field setting.
 
-Leader emergence A part of trait theory that postulates that certain types of people will become leaders and certain types will not.
-
-Leader Match A training program that teaches leaders
-
-how to change situations to match their leadership styles.
+Lawshe tables Tables that use the base rate, test validity, and applicant percentile on a test to determine the probability of future success for that applicant.

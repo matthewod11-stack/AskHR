@@ -1,11 +1,11 @@
-## all the other requirements (cost, speed, risk, business continuity, etc.)
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ca7aae6bf515a8d894145f9f04e383cabb9b913
+title: H08MHC-PDF-ENG
+---
+# HBR / Digital Article / Design Your Transformation for Simplicity — Not Efficiency
 
-might be too diﬃcult, for instance if the acceptable minimums for all
+sustainability example, there might be too many sustainability KPIs to eﬀectively manage; there might be too few (or no) tools for gathering
 
-those requirements make it nearly impossible to ﬁnd a supplier who can
-
-meet them all simultaneously.
-
-- 3. Mitigate
-
-Design/revise the transformed workﬂows to avoid/resolve the process
+KPI data from suppliers; and balancing sustainability KPIs alongside

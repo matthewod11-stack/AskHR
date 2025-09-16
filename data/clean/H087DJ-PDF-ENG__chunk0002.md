@@ -1,5 +1,7 @@
-## Supporting the Mental Health of Employees of Color
-
-Advice for both individuals and decision-makers. by Angela Neal- Barnett
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2326bc87e9870819d695e8c5522b990fe11e86ae
+title: H087DJ-PDF-ENG
+---
+# Mental Health

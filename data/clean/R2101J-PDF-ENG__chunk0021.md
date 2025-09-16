@@ -1,7 +1,7 @@
-# THE RECOMMENDATION
-
-When executive pay is structured to align with corporate strategy, it can drive better performance.
-
-Many ﬁrms struggle to achieve this alignment, and only a few best practices work in all situations.
-
-The company must start with a clear strategic objective and then consider several trade-offs as it designs compensation packages.
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7767886a4cab2164fccf6d76c59893cbf8aa6af8
+title: R2101J-PDF-ENG
+---
+# THE CHALLENGE

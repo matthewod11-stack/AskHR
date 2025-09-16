@@ -1,9 +1,9 @@
-# Best practices for agent instructions
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 05d9b55f523f1e67b944135d7a5383852fbe263d
+title: a_p_r_a_c_t_i_c_a_l
+---
+# Configuring instructions
 
-Use existing documents
-
-When creating routines, use existing operating procedures, support scripts, or policy documents to create LLM-friendly routines. In customer service for example, routines can roughly map to individual articles in your knowledge base.
-
-Prompt agents to breakp down tasks
-
-Providing smaller, clearer steps from dense resources(cid:144) helps minimize ambiguity and helps the model better(cid:144) follow instructions.
+High-quality instructions are essential for any LLM-powered app, but especially critical for agents. Clear instructions reduce ambiguity and improve agent decision-making, resulting in smoother work(cid:13)ow execution and fewer errors.

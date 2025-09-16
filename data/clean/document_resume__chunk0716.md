@@ -1,3 +1,13 @@
-# Endnotes
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: bab97c3452949e15ec882024863b660ba9183583
+title: document_resume
+---
+# Conclusion
 
-1
+Due to the frailties of human skills in observation, peiLeption, memory, and evalu- ation. any performance appraisal system whiLli indudes human beings as part of the process will necessarily include some level of error. However, there ale steps which administrators can take to greatly minimize this level oferror.
+
+This chapter has presented ten techniques w Ina are designed to reduce rater errors in observing and appraising performance. These techniques are. (1) select appropriate raters, (2) clarify the purpose of the performance appraisal program, (3) choose the nght format and content, (4) involve raters in creating 0i interpreting the rating scale, (5) train the raters, (6) provide opportunities for the raters to observe the performance being appraised, (7) help the raters keep records of meaningful obsery ations, (8) standardize the rating context, (9) motivate the raters to do a good job, and (10) maintain the quality of the program.
+
+Administrators who use these techniques when devising and implementing their performance appraisal programs will be riddy rewarded. The resn,ung appraisal systems should serve as powerfui Loots fo enhancing organizational eff,..tiveness.

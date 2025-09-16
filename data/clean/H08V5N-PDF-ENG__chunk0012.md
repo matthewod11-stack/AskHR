@@ -1,7 +1,15 @@
-## utilities; advertising; insurance” and so on.
+---
+source_path: H08V5N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: efdfabef702c468d33d2de5adf079ba748d0862d
+title: H08V5N-PDF-ENG
+---
+# Step 2: Visit Your Operational Budget
 
-A useful for exercise for the CEO’s strategy team is to take a closer look
+Typically, operational budgets will be categorized into “accounts” with
 
-at these expense categories. They will ﬁnd that each one belongs with
+each line item in your budget being an income or expense category.
 
-a key stakeholder, e.g., “materials and supplies” belong with suppliers,
+I have one in front of me, and it shows the following line items for
+
+expenses – “materials and supplies; indirect labor; employee beneﬁts;

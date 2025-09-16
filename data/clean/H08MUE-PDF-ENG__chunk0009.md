@@ -1,7 +1,11 @@
-## eyebrows. Indeed, many of the senior business or functional leaders
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ce8b4b317156de7d45f7fa21fcc14b10d09f59d
+title: H08MUE-PDF-ENG
+---
+# for this choice.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+This discussion made me realize that geographically dispersed
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leadership teams are common enough now that they don’t raise

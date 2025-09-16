@@ -1,9 +1,9 @@
-# COGNITIVE NEUROSCIENCE
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ca115e2ed2c7d1abcdb617595428baa06e937e63
+title: untitled
+---
+# Cognitive Neuroscience 59
 
-The term cognitive neuroscience is very recent, dating per- haps from the 1980s. The Journal of Cognitive Neuroscience was ﬁrst published in 1989. Indeed, Posner and Shulman’s comprehensive chapter on the history of cognitive sci- ence (1979) does not even mention cognitive neuroscience (human imaging techniques were not yet much in use then). The cognitive revolution in psychology is treated in the chap- ter by Leahey in this volume. Here we note brieﬂy the bio- logical roots of cognitive neuroscience (see Gazzaniga, 1995).
-
-Karl Lashley was again a key ﬁgure. One of the most im- portant aspects of cognitive neuroscience dates from the early days at the Orange Park laboratory, where young scien- tists like Chow and Pribram began studies of the roles of the association areas of the monkey cerebral cortex in learning, memory, and cognition.
-
-The 1950s was an especially rich time of discovery re- garding how cognitive function was organized in the brain. Pribram, Mortimer Mishkin, and Hal Rosvold at NIMH, using lesion studies in monkeys, discovered that the temporal lobe was critical for aspects of visual perception and mem- ory. Work with neurologic patients also played a critical role in uncovering the neural substrates of cognition. One partic- ular discovery became a landmark in the history of memory research. “In 1954 Scoville described a grave loss of recent memory which he had observed as a sequel to bilateral medial temporal resection in one psychotic patient and one patient with intractable seizures. In both cases . . . removals extended posteriorly along the medial surface of the temporal lobes . . . and probably destroyed the anterior two-thirds of the hippocampus and hippocampal gyrus bilaterally, as well as the uncus and amygdala. The unexpected and persistent memory deﬁcit which resulted seemed to us to merit further investigation.”
-
-That passage comes from the ﬁrst paragraph of Scoville and Milner’s 1957 report, “Loss of Recent Memory after Bilateral Hippocampal Lesions.” This publication became a
+Current focus in the study of motivated behaviors is on de- tailed physiological processes, particularly involving mecha- nisms of gene expression of various peptide hormones in the hypothalamus and their actions on the pituitary gland, and on descending neural systems from the hypothalamus that act on lower brain systems to generate motivated behaviors (see e.g., Swanson, 1991). But we still do not understand the neural circuitries underlying the fact that seeing the bear in the woods makes us afraid.

@@ -1,7 +1,9 @@
-## OLMS Electronic Forms Software technical support: 1-866-401-1109
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: 60dca5b6a002cee11fc4077ed798b17ade4338b8
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+# E-mail: OLMS-Public@dol.gov
 
-The Employment Law Guide is oﬀered as a public resource. It does not create new legal obligations and it is not a substitute for the U.S. Code, Federal Register, and Code of Federal Regulations as the oﬃcial sources
-
-of applicable law. Every eﬀort has been made to ensure that the information provided is complete and
-
-accurate as of the time of publication, and this will continue.
+Tel: 202-693-0123; TTY: 1-877-889-5627;

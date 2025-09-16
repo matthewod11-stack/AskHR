@@ -1,7 +1,11 @@
-## when necessary, and transparent communication.” Similarly, in 2020
+---
+source_path: H07WQJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2cf071d3b611e7003e9ede03f7f85e6f9b069c8
+title: H07WQJ-PDF-ENG
+---
+## crises. “For example, in the automotive industry, where product recalls
 
-team members at Mahindra’s agricultural equipment business were
+can be a challenging issue, Rise helps us prioritize consumer safety and
 
-inspired by Rise to help local farmers in India locate equipment to deal
-
-with an acute labor crisis. Thanks to their swift action, farmers could
+well-being. It directs our response, ensuring immediate action, recalls

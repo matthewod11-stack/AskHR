@@ -1,19 +1,21 @@
-# coaching.
+---
+source_path: H07XS0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20adef14d694583aefad2aab4cd12b2d181cd055
+title: H07XS0-PDF-ENG
+---
+# coach.
 
-And while we aren’t new coaches, each of us has found that this variety
+To mitigate this, many new coaches diversify their businesses by
 
-adds depth and fulﬁllment to our practices and makes us stronger
+oﬀering services beyond coaching. Almost all coach practitioners (93%)
 
-coaches, which makes us more attractive to clients.
+oﬀer services in addition to coaching. Most frequently, coaches also
 
-What to Do If You Really, Truly Want to Become a Professional Coach
+oﬀer consulting (59%), training (58%), and/or facilitation services (55%).
 
-First and foremost, if you want to become a professional coach, we
+Coaches might teach a range of workshops — both virtually and in-
 
-recommend working with a credentialed coach yourself so that you
+person — on topics related to leadership development. On average,
 
-really understand what coaching is — and isn’t. This may lead you to
-
-ask yourself if what you really want to do is give advice, share your
-
-expertise on how to do things, and solve problems. If so, you may ﬁnd a
+coach practitioners oﬀer almost three (2.8) services in addition to

@@ -1,5 +1,9 @@
-# Confronting the Backlash
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b7ef45d4fc4c83115c3443eed446a8c507cd1f29
+title: untitled
+---
+## Feminist Clinical and Counseling Practice
 
-Many of the changes promoted by the women’s movement have become accepted practice: equal pay for equal work; women working outside the home; the repudiation of wife beating. These changes are no longer identiﬁed with femi- nism. At the same time, the term feminism has come to be disparaged, even viliﬁed, by the mass media. By the 1990s, the backlash against feminism in popular culture was intense (Faludi, 1991). Moreover, the legal gains that women had made in such areas as afﬁrmative action and reproductive rights have eroded. State support for poor women and their families has been severely curtailed by the welfare reforms of 1996.
-
-In popular culture, there has been an upsurge of claims that masculinity and femininity, as well as sexual orientation, are biologically determined and perhaps genetically encoded. For example, Men are from Mars, Women are from Venus (Gray, 1992) amounts to propaganda for male-female differ- ence and an apologia for male privilege. Yet, many—even some therapists—have accepted it as credible clinical theory. Extreme and proﬂigate claims about the evolutionary bases of male dominance and sexual access have become the fad in popular science. Media reports of sex differences in mathe- matics achievement have announced a “math gene,” ignoring the inﬂuence of social roles and differential opportunities and expectations regarding boys’ and girls’ math performance (Eccles & Jacobs, 1986). By now, feminists have amassed a good deal of evidence to counter many such claims. The task
+As we have noted, feminists have situated women’s problems and strengths within the context of the larger social, political, and cultural forces surrounding them. Today, clinicians work under strong conservative pressures from pharmaceutical companies, managed-care companies, and a biologically ori- ented psychiatric profession. Among other things, they press to redeﬁne psychological disorders as biological aberrations to be controlled by medication. Although feminists are not against the use of medication, this medicalized framework is diametrically opposed to the feminist emphasis on the social context. Thus far, organized psychology’s responses to con- servative pressures and corporate interests have fallen short of what feminists would wish.

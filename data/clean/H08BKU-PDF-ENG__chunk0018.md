@@ -1,19 +1,27 @@
-## HBR / Digital Article / Research: Why Inclusive Hiring Must Include Refugees
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87a3a713acc6e1e7c34c2850d595de89d50c2cef
+title: H08BKU-PDF-ENG
+---
+# on interviews as a screening tactic.
 
-Scrutinize your hiring criteria.
+We supplemented the studies of employers with an investigation
 
-Before you decide to cast the net, take a careful look at exactly what you ask for in a candidate. What oﬃcial certiﬁcations are really necessary
+focused on the perspectives of refugees. In the research project we are
 
-to perform the job, and is local experience a must? Most people from
+currently pursuing, we interviewed 26 skilled refugees from numerous
 
-a refugee background do not have credentials or references local to
+countries, including Afghanistan, Syria and Ukraine, among others,
 
-your company, preventing them from ever being shortlisted. Inclusive
+about their experiences ﬁnding work.
 
-managers understand this limitation and are open to revising their job
+So, learning from the experiences of refugee jobseekers, how can
 
-descriptions and selection criteria to make them more open to those
+employers implement a truly inclusive recruitment process?
 
-who would otherwise never be considered among local candidates. For
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-example, employers could include desirable criteria such as a second
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

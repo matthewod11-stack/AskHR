@@ -1,23 +1,13 @@
-# Make Calls During Your Commute
+---
+source_path: H07P3X-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61046fb4e63b6ec328416e5c48ae0f9ac7d8676e
+title: H07P3X-PDF-ENG
+---
+## serve as a time of connection and potentially internal networking. If
 
-If you commute into the oﬃce or travel for business, some of your
+you’re working remotely, send a friendly Slack message to a colleague,
 
-travel times could oﬀer an ideal opportunity to catch up in an informal
+rather than turning to scroll social media. Even if they’re too busy to
 
-manner with colleagues. One of my clients who was an executive with
-
-a packed meeting schedule used his drive home to reach out and have
-
-informal conversations with his leaders. This helped him get a more
-
-personal view on their thoughts and concerns, as the company was
-
-going through a major transition.
-
-When you’re on the road, you can call from airports, Ubers, or hotels
-
-or send messages when you’re waiting in lines or on trains. Even a
-
-ﬁve- to 10-minute conversation can increase your rapport and, most
-
-importantly, show that you care.
+respond, they may oﬀer to catch up with you later.

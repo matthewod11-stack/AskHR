@@ -1,11 +1,7 @@
-# Objective, scalable, efficient
-
-May not capture full capabilities,
-
-susceptible to gaming
-
-Table 1: A table comparing strengths and weaknesses of automated evaluations for Agents.
-
-At this point it should be clear that only by continually refining evaluation methods, we will
-
-ensure that AI agents are developed and deployed responsibly, effectively, and ethically in
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: b9dd159f3328e4c4e7511fe54a301e1fecdcc852
+title: agents_companion
+---
+# Automated Metrics

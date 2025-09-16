@@ -1,9 +1,15 @@
-# Google Agentspace
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 3eec42414b433faeb518e24a00ad57416a499d41
+title: agents_companion
+---
+## implement both specialized assistants and automation agents
 
-Google Agentspace29 offers a suite of AI-driven tools designed to elevate enterprise
+- Configure and manage the agents access for company administrators
 
-productivity by facilitating access to pertinent information and automating intricate,
+Invoke the right agents when appropriate
 
-agentic workflows. It harnesses the advanced reasoning capabilities of Gemini, the power
+- Monitor, manage, and orchestrate multiple agents in a UI suited for team management
 
-of Google's search infrastructure, and secure access to enterprise data, irrespective of its
+39

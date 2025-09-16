@@ -1,21 +1,21 @@
-## point of contact with customers, leadership identiﬁed it as a critical
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e2bec4cdadb09bf27b859987ce8b3519c51ddae
+title: H085EX-PDF-ENG
+---
+# for wholesale change.
 
-area for improvement. At the time, T-Mobile’s website, much like its
+Take, for example, the transformation of T-Mobile. Prior to 2013, T-
 
-competitors’, was complex and overwhelming, with numerous tabs
+Mobile struggled to compete with its larger rivals and consistently
 
-leading to irrelevant information. The cross-functional team tasked
+ranked last in customer surveys compared to AT&T, Verizon, and
 
-with revitalizing the website received ambitious yet intentionally vague
+Sprint. Following the failed AT&T acquisition of T-Mobile in 2011, John
 
-guidance from leadership, encapsulated by the directive to “do what’s
+Legere assumed the role of CEO. He introduced the radical concept of
 
-needed to rock the world.” Leadership placed no constraints, trusting
+“customer focus,” emphasizing the need to understand customer needs and prioritize business processes and oﬀerings accordingly.
 
-the team to devise the optimal solution.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Recognizing the importance of the company’s website as a primary

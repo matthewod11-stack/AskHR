@@ -1,11 +1,9 @@
-## ISSN: 0976-7797 Impact Factor: 5.183 Index Copernicus Value (ICV) = 77.57
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: c84bce6637ce57a0f8ea7d5d98c95f218ec2f64d
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+# cognizancejournal.com
 
-case demonstrates the infrastructural and cultural obstacles that exist in low-compliance environments. Case Study 4: California – Innovation and Integration The Department of Fair Employment and Housing in California regularly comes in early in the ADA disputes. The epilepsy of a film-studio worker was included as one of the cases when the worker inquired about the creation of a seizure-response plan and the equipment to block light. The employer not only complied but also included epilepsy awareness into its diversity training (Gould, 2025). The extent to which such proactive responses reflect the ways legal requirements can become somehow part of organizational practice when both state agencies and employers reciprocate is remarkable. Case studies and lived experiences make the differences in the enforcement of the ADA empathetic. These case scenarios indicate that the outcomes of enforcement are not only determined by legal frameworks, but also by employer education, support at a state level, and availability of advocacy (Chen & Feng, 2023). Employer opinions and first-person narratives show the practical difficulties of adhering to the law and working in a place. The research on EEOC processes and the examples of cases in different states have presented structural inequities. To enhance the ADA application, it is paramount to focus on these voices during the policymaking process and enforcement reforms. Hearing disabled workers, HR, and people on the similar front line, or activists, can create a more constructive, sensitive, responsive, and fair enforcement system at the national level.
-
-- 7. Bridging the Gap: Policy Recommendations and Path Forward The advantages/disadvantages in the enforcement of ADA across the United States are not technical issues; it is a question of civil rights, equity, and social justice (Kumar & Madian, n.d.). This section provides policy recommendations that can be used to take steps to enhance consistent application of policies, inclusion, and protection of the employment rights of people with disabilities. Based on the above discussion, the following recommendations will help in narrowing the gap between policy and practice. 7.1 Strengthening Federal Oversight and State Accountability The strengthening of the federal role will be necessary in enforcing the ADA in a uniform manner. The U.S. Department of Justice (DOJ) and the Equal Employment Opportunity Commission (EEOC) have to increase their surveillance of the participation in enforcement at the state level and the auditing. This may comprise (Dineen & Pendo, 2022):
-
-- (cid:32) Creating a standard ADA enforcement scorecard that will be made public to rate and rank state performance.
-
-- (cid:32) Requiring state agencies and public employers to be audited frequently to determine whether they complain with the ADA.
-
-©2025, Cognizance Journal, ZAIN Publications, Fridhemsgatan 62, 112 46, Stockholm, Sweden, All Rights Reserved 224
+Olukunle Ogundimu, Cognizance Journal of Multidisciplinary Studies, Vol.5, Issue.8, August 2025, pg. 205-229 (An Open Accessible, Multidisciplinary, Fully Refereed and Peer Reviewed Journal)

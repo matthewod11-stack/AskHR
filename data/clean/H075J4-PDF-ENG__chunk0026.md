@@ -1,5 +1,7 @@
-## The biggest diﬀerence between how technical and non-technical teams
-
-work is that the former iterates and learns, while the latter focuses on
-
-perfection. This diﬀerence can create tension and misunderstanding if
+---
+source_path: H075J4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a72af67ef45cd1e3da721e03f75a758d4548a8a
+title: H075J4-PDF-ENG
+---
+# Understand different working styles.

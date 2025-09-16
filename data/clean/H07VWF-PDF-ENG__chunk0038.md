@@ -1,13 +1,29 @@
-# HBR / Digital Article / How Paternity Leave Helps Dads’ Brains Adapt to Parenting
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 82b591e3cb2f033a0e71593d2491b465e023f543
+title: H07VWF-PDF-ENG
+---
+## supportive in the simplest ways: forward this article, talk about their
 
-This article was originally published online on November 15, 2023.
+amazing brain-training opportunity, tell them you believe in them. A
 
-Molly Dickens, PhD, is a stress physiologist with ongoing work focusing on the intersection of stress, health, and the critical expansion of structures, systems, and cultural narratives to better support the health and well-being of working caregivers. Her experience spans from academic research to women’s health technology, and she currently serves as a maternal health startup advisor and a visiting researcher at UC Davis. In addition, she cofounded and served as founding executive director for the gender equity nonproﬁt, &Mother. Learn more about Molly’s work here.
+few words of encouragement might mean more than you’ll ever know.
 
-Kate Mangino, PhD, is a gender expert and professional facilitator who helps international organizations design and implement inclusive programming. She is the author of Equal Partners: Improving Gender Equality at Home, which oﬀers practical advice about what each of us can do to address harmful gender norms in our personal lives. Learn more about Kate’s work here.
+- • •
+
+The more men have access to parental leave and take it, the more dads
+
+we’ll have in the world with brains trained for parenting. If we want
+
+to see greater gender equality, we need to not just focus on women’s
+
+participation in the professional world — we need to encourage more
+
+men to participate in the caregiving world.
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

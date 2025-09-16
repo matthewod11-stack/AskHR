@@ -1,11 +1,23 @@
-# on the launchpad.”
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5f3333f73c277700d340b06ef1483466f8df6ce
+title: H07T7V-PDF-ENG
+---
+## performance review with her direct reports, not just the good parts, but
 
-Bezos said a few years back in the shareholder’s letter, “We are
+the stuﬀ that she needs to work on too. These are all just great moves to
 
-incubating multi-billion dollar failures inside Amazon right now. That’s
+start to show the rest of the organization it is okay not to be perfect, not
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+to put on the brave front, not to be winning all of the time.
 
-14
+Jack Welch’s autobiography was called Winning, and it epitomized this
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+industrial era view of what you have to do all day every day. I love the
+
+geek view, which is, “Hey, man, we’re going to launch some rockets and
+
+they are going to blow up. Now, we’re not going to kill anybody, but
+
+we’re absolutely going to launch some rockets that are going to blow up

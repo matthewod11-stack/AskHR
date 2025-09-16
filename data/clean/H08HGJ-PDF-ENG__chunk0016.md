@@ -1,13 +1,9 @@
-## conceptualizations of division of labor and specialization. In other
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d250595bb69e8d81164242431159f9713a67c7a
+title: H08HGJ-PDF-ENG
+---
+## First, modern work thrives on boundary-crossing and integrative
 
-words, the machines that populate the factory today were developed to
-
-manufacture pins but draw on knowledge from diverse areas, including
-
-mechanical engineering, manufacturing operations, heat dynamics,
-
-vacuum handling, and dozens of other domains, all of which had
-
-to be recombined to create the modern pin factory. Moreover, the
-
-most valuable workers in the factory today have broad knowledge
+thinking that create beneﬁts far beyond those ascribed to simple

@@ -1,9 +1,21 @@
-## HBR / Digital Article / 6 Mistakes Leaders Make When Announcing Layoffs
+---
+source_path: H085Q9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59c4b4c9a073b17204d0fb211b18b42d32149c17
+title: H085Q9-PDF-ENG
+---
+# Michael Prince/Getty Images
 
-Layoﬀs are trauma-inducing for an organization and its employees.
+Most leaders recognize that the true test of their character comes in
 
-When handled badly, some people (and organizations) never fully
+diﬃcult times, when a change in business conditions demands a shift in
 
-recover. “When the next cycle of hiring comes around, the talent you
+strategy in order to create and preserve enterprise value. And because
 
-pursue will judge your company by the reputation it earned in this round of layoﬀs,” advises Evelyn Rodstein, Manhattan-based executive
+people are usually the single largest expenditure on an organization’s balance sheet, layoﬀs often become discussion item number one.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

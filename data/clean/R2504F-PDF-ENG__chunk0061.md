@@ -1,13 +1,15 @@
-# extra support.
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35fadb024b82419cac56762cb6552ac85f38b3b7
+title: R2504F-PDF-ENG
+---
+# experience and support.
 
-. . .
+Lead by example. If you’ve provided eldercare yourself, consider
 
-Childcare support has become essential to employee productivity,
+sharing your experiences. Join the employee resource group. In
 
-retention, engagement, and well-being. The massive demographic shift
+whatever ways you can, publicly support the development of eldercare
 
-that we are now living through makes eldercare support just as essential
-
-to talent strategy and organizational performance. Providing it is the
-
-right thing to do not only for companies but also for employees of
+beneﬁts and help make clear that at some point, everyone needs a little

@@ -1,39 +1,19 @@
-# employment.
+---
+source_path: H08CR0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 375bd38f750bfaf28c5e2de5ad8745a099f891db
+title: H08CR0-PDF-ENG
+---
+# “Survival Mode” Thinking
 
-If you know this stress exists, instead of ignoring it, acknowledge the
+Many industries and sectors are facing downturns and workforce
 
-elephant in the room. For example, one of Richard’s clients asked
+reductions. Under such circumstances, people often wonder if they’re
 
-for him to “double-down” on ethics and compliance training prior to
+next, which can trigger stress that comes with personal economic
 
-the company’s acquisition because the transaction would come with
+anxiety. It can also reduce organizational loyalty, as people might only
 
-signiﬁcant workforce reductions. His client tasked him to reinforce the
+think about self-preservation and temporarily “suspend” personal and
 
-importance of integrity, even in times of uncertainty. By surfacing and
-
-addressing this workforce stress instead of ignoring it, the client aimed
-
-to keep ethics strong and top of mind during that period of disruption.
-
-A number of our clients use “ethics ambassadors”: peers they can look
-
-to for counsel when they feel ethically fatigued. With such touchpoints,
-
-organizations can keep a sense of community and loyalty strong, even
-
-under the most diﬃcult circumstances. As scholar Amy Edmondson
-
-posits in her book The Fearless Organization, when confronted with an
-
-ethical challenge, we’re most likely to turn to our peers and supervisors
-
-for support and direction. As surveys demonstrate, having a cross-
-
-functional network of ethics ambassadors can mitigate ethical stress in
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+corporate values to succeed at any cost in hopes of keeping their

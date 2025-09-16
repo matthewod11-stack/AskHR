@@ -1,21 +1,27 @@
-# HBR / Digital Article / Businesses Need to Bring Younger Employees into Their Leaders…
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 142d843d2ba4598791c0bc1969b71afc35672e2f
+title: H07TV8-PDF-ENG
+---
+## important topics, such as environmental and sustainability issues. The
 
-These factors are reﬂected in ﬁrm-level outcomes: Corporate vitality —
+involvement of younger leaders may also counterbalance the tendency
 
-a measure of a ﬁrm’s long-term growth potential, which depends on its
+of more experienced ones to lean towards less risky strategies (e.g.,
 
-capacity to explore new options and renew its strategy — is negatively
+engaging in fewer deals and investing less in R&D, which is reﬂected in
 
-correlated with CEO age (after controlling for ﬁrm age and size, see
+fewer patent ﬁlings by ﬁrms led by older CEOs). Finally, younger talent
 
-below). Moreover, studies show that age-diverse leadership teams are
+is more (due to a lower aversion to changes in the status quo) and less
 
-better positioned to drive the adoption of sustainable business models
+likely to be caught in the success trap (i.e., to becoming prisoners of the
 
-and associated with better corporate social responsibility outcomes.
+assumptions underpinning their historical success).
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

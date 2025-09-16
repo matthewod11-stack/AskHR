@@ -1,9 +1,25 @@
-## would position them well for vertical promotions), and bonuses, such as
+---
+source_path: H07P5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ee89a04d5b697df105d77ee00aba7d3323d04ad
+title: H07P5A-PDF-ENG
+---
+# In-group/out-group bias
 
-equity shares in the company. Both men and women were subject to this
+The third form of bias that was creeping into remote-work performance
 
-form of bias, but because men tend to be seen more readily as leaders,
+evaluations was in-group/out-group bias, or giving preferential
 
-they were more easily able to join the in-group than women.
+treatment to people you feel belong to a group you identify with. Not
 
-To increase a sense of belonging, the company launched a campaign
+surprisingly, employees who were working remotely, and particularly those who had moved away from the oﬃce and across state lines,
+
+were increasingly seen as members of the out-group — and they had
+
+annual performance review scores that were lower by an average of
+
+20%. Beneﬁts would accrue to those in the in-group, including vertical
+
+promotions, horizontal promotions (providing employees with new
+
+opportunities to learn new skills and take on more prized tasks that

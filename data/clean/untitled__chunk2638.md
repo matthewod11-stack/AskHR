@@ -1,5 +1,21 @@
-# American Psychologist, 45, 891–900.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2dc5fad6fb0b9113c8f700aa1ab1bd52bfa74636
+title: untitled
+---
+# REFERENCES
 
-Borden, V. M. H., & Rajecki, D. W. (2000). First-year employment outcomes of psychology baccalaureates: Relatedness, prepared- ness, and prospects. Teaching of Psychology, 27, 164–168.
+Almanac. (2000, September 1). Earned degrees conferred, 1996–
 
-Boyer, E. L. (1990). Scholarship reconsidered: Priorities of the pro-
+- 1997. Chronicle of Higher Education, p. 32.
+
+Ash, M. G. (1983). The self-presentation of a discipline: History of psychology in the United States between pedagogy and scholar- ship. In L. Graham, W. Lepenies, & P. Weingart (Eds.), Func- tions and uses of disciplinary histories (pp. 143–189). Boston: Reidel.
+
+Beins, B. C. (1992). Constancy and change: Teaching as depicted in psychology journals. In A. E. Puente, J. R. Matthews, & C. L. Brewer (Eds.), Teaching psychology in America: A history (pp. 525–551). Washington, DC: American Psychological Association.
+
+Benjamin, L. T., Jr. (2000). The psychology laboratory at the turn of
+
+the 20th century. American Psychologist, 55, 318–321.
+
+Boneau, C. A. (1990). Psychological literacy: Aﬁrst approximation.

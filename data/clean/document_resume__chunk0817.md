@@ -1,5 +1,11 @@
-# Who is Covered
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: af118306d337b484f1c6a868fb4f10a377632063
+title: document_resume
+---
+# A President's Perspective
 
-The major goal in performance appraisal should be to access individual work related contributions within the total institution--not just the faculty, nor the administra- tion, nor the support staff. A performance appraisal program should be for everyone, beginning with the president. There should be, of course, different procedures for dif- ferent job families. The performance of a dean is measured in terms of outcomes such as goals achieved and expectations net while the performance a library technician is expressed in temis of appropriate job-related behaviors. But in the final analysis, each person's performance is rated against a standard.
+job by "outside experts" will have little Lredlbility with the administration and support staff and practically none with the faculty. It is the institution, not the consultants, who have to live with the results.
 
-While there is disagreement in the literature on rating formats and rating scales, it is necessary to develop appropriate instrumentation. At Southern Union there are three subsystems, however, they each follow the same rules of combination and produce a rating on a 5-point scale. Thusi department chair, instructor, and custodian who receive an overall rating of "3.5" are performing at the same level, albeit in vastly different roles.
+Before the start of the project, hold a round table discussion with the consultants. Discuss with them the purposes you intend to accomplish, the funds available, services the institution will provide, documentation to be provided, pilot testing. suggested methods and techniques for various job families, follow -up activities such as rater training, validity studies, legal defense (expert witness) evaluation, and similar issues. Moreover, recognize that an undertaking of this magnitude Will not be completed within a short time-frame. Participatory' type involvement requires time and an abundance of patience.

@@ -1,9 +1,15 @@
-# 5.1 MEASURING RESULTS
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 2af78b69c16deff3bb296e12ab2a6a0ae121407e
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 5 • Measuring Results and Behaviors
 
-Chapter 2 included some information about how to assess performance when a results approach is adopted. If one adopts a results approach, one needs to ask the following key questions:
+(cid:2) Develop comparative performance measurement systems such as simple rank order,
 
-- What are the different areas in which this individual is expected to focus efforts (key accountabilities)?
+alternation rank order, paired comparisons, relative percentile, and forced distribution (being aware of the relative advantages and disadvantages of each).
 
-- Within each area, what are the expected objectives? • How do we know how well the results have been achieved (performance standards)?1
+(cid:2) Develop absolute performance measurement systems such as essays, behavior checklists, critical incidents, and graphic rating scales, and understand their advantages and disadvantages.
 
-As a reminder, key accountabilities are broad areas of a job for which the employee is responsible for producing results. A discussion of results also includes specific objectives that the employee will achieve as part of each accountability. Objectives are statements of important and measurable outcomes. Finally, discussing results also means discussing performance standards. A performance standard is a yardstick used to evaluate how well employees have achieved each objective. Performance standards provide information on acceptable and unacceptable performance, for example, regarding quality, quantity, cost, and time. Organizations that implement a management by objectives (MBO) philosophy are likely to implement components of performance management systems, including objectives and standards. For example, the contract for the chief of police of the city of Flevoland in the Netherlands includes a direct link between objectives of the police department and his personal income.2 Similarly, the police department of the city of Utrecht (also in the Netherlands) has specific performance objectives including that 150 suspects of public violence and 1,050 minors suspected of any crime should be brought before the public pros- ecutor annually. Similar objectives have been set by police departments in England and Wales. Setting these objectives has not always led to the intended results because, in many cases, police officers resort to gaming strategies to achieve the objectives, often at the expense of providing a high-level quality of service to their local communities.3 Nevertheless, over- all, an emphasis on objectives and standards is likely to allow employees to translate organi- zational goals into individual goals, which is a key goal of MBO philosophies.4
+Chapter 4 provided a definition of performance and described the trait, results, and behavior approaches to measuring performance. In this chapter, we provide a more detailed description of how to measure performance, adopting the two most common approaches: results and behavior.

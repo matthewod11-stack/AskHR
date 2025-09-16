@@ -1,11 +1,15 @@
-## their work drives team goals, division goals, and company-wide results.
+---
+source_path: H08VV2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c26cfd5047a168fb1eab5b1b2360130b545495da
+title: H08VV2-PDF-ENG
+---
+# Make impact front and center.
 
-“All jobs can be meaningful, but leaders need to identify that meaning
+Your team always needs to see how its contributions matter and advance
 
-and make it salient,” she says.
+the mission, but in an unhealthy culture, you need to make that
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+connection crystal clear, says Chatman. She recommends helping your
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+team members see the bigger picture on multiple levels, showing how

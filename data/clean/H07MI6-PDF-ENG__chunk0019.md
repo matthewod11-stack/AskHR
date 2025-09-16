@@ -1,7 +1,33 @@
-# of the transformation.
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d00c20c4b71aa64a0658b576bae0f7daf7dfa60a
+title: H07MI6-PDF-ENG
+---
+## In a workplace with a high degree of psychological safety, employees
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+feel conﬁdent that they can share their honest opinions and concerns
 
-5
+without fear of retribution. When trust and psychological safety are missing, it’s diﬃcult to persuade your workforce to make necessary
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+changes. For example, one senior leader told us that employees at their
+
+company were extremely fearful of the transformation and didn’t feel
+
+that they could speak up about the problems they saw. Not surprisingly,
+
+the transformation did not go well.
+
+- 4. A process that balances execution and exploration
+
+Transformations obviously need disciplined project management to
+
+drive the program forward. But our research showed that leaders of
+
+successful transformations created processes that balanced the need
+
+to execute with giving employees the freedom to explore, express
+
+creativity, and let new ideas emerge. This empowers the workforce to
+
+identify solutions or opportunities that better meet the long-term goals

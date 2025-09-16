@@ -1,5 +1,7 @@
-# LEARNING OBJECTIVES
-
-By the end of this chapter, you will be able to do the following:
-
-(cid:2) Explain the concept of performance management (PM). (cid:2) Distinguish performance management from performance appraisal. (cid:2) Explain the many advantages and make a business case for implementing
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b805da60e51d4e6acdf0426df506d0e19867896c
+title: performance_management_3rd_edition_by_aguinis
+---
+# —PETER F. DRUCKER

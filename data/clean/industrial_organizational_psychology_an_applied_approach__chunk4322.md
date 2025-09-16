@@ -1,5 +1,11 @@
-# Van Nostrand.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f05335cd927e1c18f05284182ed6bcf3220e8f41
+title: industrial_organizational_psychology_an_applied_approach
+---
+## McCarthy, J. M., & Saks, A. M. (2008, April). Rapport building
 
-McClelland, D. C., & Boyatzis, R. E. (1982). Leadership motive pattern and long-term success in management. Journal of Applied Psychology, 67, 737–743.
+in job interviews: Implications for interviewee anxiety and interview performance. In M. R. Barrick (Chair), Th e role of unstructured information in the employment interview. Symposium presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
 
-McClelland, D. C., & Burnham, D. H. (1976). Power is the great motivator. Harvard Business Review, 54(2), 102–104.
+McCarthy, P. M. (1998). Brief outline of the history of I/O psychology. www.mtsu.edu/(cid:1)pmccarth/io_hist.htm McClelland, D. C. (1961). Th e achieving society. Princeton, NJ:

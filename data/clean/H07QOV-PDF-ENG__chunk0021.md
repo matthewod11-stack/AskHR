@@ -1,21 +1,41 @@
-## great, with relatively low levels of engagement and productivity, high
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d3d4b2baf8936d7bc60548cac4ebeedd5b15942
+title: H07QOV-PDF-ENG
+---
+## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
 
-rates of burnout. We can speculate as to why that’s true, but is that
+ADI IGNATIUS:
 
-accurate? It’s hard to generalize, but you know, are we suﬀering? And if
+Would you recommend that there be an elaborate postmortem? I think
 
-so, how do we respond to that as managers?
+the military is very focused on doing detailed postmortems: what
+
+happened, what went wrong, why? Presumably to learn from that and
+
+not have it happen again.
 
 AMY EDMONDSON:
 
-Well, I don’t have a kind of systematic worldwide dataset from which I
+It is not the case that a postmortem has to take inordinate amounts
 
-can make solid inferences about how people are doing. My impression
+of time, but it should be thorough. It should be analytical, and look
 
-comes from informal conversations, qualitative research, reading HBR
+carefully at the diﬀerent facets of the failure, to understand accurately
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+what happened and why, for the express purpose of preventing that
 
-7
+exact failure from happening ever again. So a failure, even an intelligent
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+failure, in new territory, new discovery, is no longer intelligent the
+
+second time it happens.
+
+ADI IGNATIUS:
+
+I want to shift gears a little bit to talk more generally about the
+
+workplace. The question really is: Are we OK? You wrote a recent piece
+
+in Harvard Business Review that suggested maybe things are not so

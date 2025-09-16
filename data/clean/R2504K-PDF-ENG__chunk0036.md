@@ -1,17 +1,27 @@
-# the partnership.
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a9f2052cc3a38d945fd14c68d7e427252d56170
+title: R2504K-PDF-ENG
+---
+## provider for private debt capital markets, when after each interaction
 
-Have vulnerable conversations. One of the most popular sessions in
+with Vishal Singh, he became more energized and excited about their
 
-my course at Harvard Business School is about people’s relationship
+next activity. Rai noted, “Starting a company demands limitless energy
 
-with money. Perspectives can vary dramatically and are often rooted in
+to bring an idea to life, making it essential to choose cofounders who
 
-deep family or personal experiences, sometimes dating back to early
+enhance your energy rather than drain it.”
 
-childhood. How a potential partner feels about money has a direct
+During this phase, don’t get too caught up in equity, titles, and
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+such. The goal is to get a sense of how you would work together.
 
-12
+By engaging in both personal and professional activities, you can
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+gain a comprehensive understanding of your prospective cofounder’s
+
+personality and work style and how well you collaborate under various
+
+circumstances. This will inform your decision about whether to pursue

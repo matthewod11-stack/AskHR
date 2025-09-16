@@ -1,9 +1,7 @@
-# Carolyn Doucette
-
-An innovation crisis is brewing in the United States: Too many ﬁrms,
-
-both large and small, are failing to innovate. As a result, problems
-
-remain unsolved, technologies are never invented, and meaningful
-
-jobs go uncreated. According to one estimate, lost productivity cost
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3cf5f801c11216bd6a20a9102f3443e7bdd6ac9d
+title: R2404K-PDF-ENG
+---
+## From the Magazine (July–August 2024) / Reprint R2404K

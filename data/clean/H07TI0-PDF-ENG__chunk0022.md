@@ -1,7 +1,15 @@
-# without clear guidelines in hand?
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 919f21e88e283a8a365c2cbb97620d9f6d54bc28
+title: H07TI0-PDF-ENG
+---
+# address.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+The most basic is unclear job and performance expectations. Without
 
-5
+a traditional job description, how does an employee know what is
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+expected of them? How can a manager evaluate their performance
+
+objectively and follow fair compensation and promotion practices

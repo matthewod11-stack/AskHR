@@ -1,21 +1,21 @@
-# productivity win.
+---
+source_path: H07FTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4382674870bb24280a114bb089c8ffdf23f7b6b0
+title: H07FTS-PDF-ENG
+---
+# before.
 
-If it’s not easy to transport your work because you need multiple
+If you ﬁnd yourself in those WFH doldrums and it’s impacting your
 
-computer screens or other special equipment, there are still ways that
+motivation and productivity, it’s time to switch things up.
 
-you can infuse some variety into your routine. One could be through
+One of the most eﬀective ways to do that is through a change of scenery. I’ve seen people go to coﬀee shops, libraries, or even hang out by the
 
-a virtual coworking buddy. You could ask a coworker or friend to work
+pool if they live in warmer climes. If you want a real oﬃce-y feel, you
 
-alongside you on a video call. Or you could use a service like FocusMate,
+could also position yourself at a co-working space. Getting out and
 
-which will pair you with someone else in the world who needs to get
+being around other people may add a little bit of time and distraction.
 
-something done at the same time you do.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+But if it overall helps you feel more energetic and motivated, then it’s a

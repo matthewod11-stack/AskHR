@@ -1,7 +1,19 @@
-## don’t simply pattern-match symptoms to diagnoses; they systematically
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d6184a1432216f99431fbb7ec1bd00991ee69bc
+title: H08TQF-PDF-ENG
+---
+## What Enterprise AI Solutions Must Deliver
 
-evaluate speciﬁc clinical criteria, understand how diﬀerent ﬁndings
+This shift represents more than a technical reﬁnement; it’s a
 
-interact, and apply established medical practices to reach conclusions.
+fundamentally diﬀerent philosophy. Rather than retrieving text and
 
-Clinicians are also able to intuitively and eﬀectively grasp context
+hoping the model parses it correctly, eﬀective specialized solutions
+
+extract structured professional facts ﬁrst, then apply domain-speciﬁc
+
+reasoning to those facts.
+
+Consider how experienced physicians approach a complex case. They

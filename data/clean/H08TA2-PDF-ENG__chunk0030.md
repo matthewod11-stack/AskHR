@@ -1,5 +1,21 @@
-## strategic sensemaking, cultural stewardship, and long-horizon bets.
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d51b2fa49eb45e5bb6501233a66074c5580f7b69
+title: H08TA2-PDF-ENG
+---
+# Elevate executive team time.
 
-Center agendas around questions like “What are the few issues that
+When too many decisions happen in private 1:1s, full executive team
 
-require the full weight of this team?” or “Where does our system need
+meetings often devolve into catch-up sessions, replaying decisions,
+
+clarifying miscommunications, or managing interpersonal fallout. That
+
+robs the team of the chance to focus on the truly enterprise-wide work
+
+only they can do.
+
+By using capability meetings to handle cross-functional execution and
+
+trade-oﬀs at the right level, executive team time can be reserved for

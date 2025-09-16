@@ -1,7 +1,13 @@
-## heads a stable deﬁnition of an abstract quality, such as business acumen
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: 3a0316d86a079ff357bb51c9d51f7543e8b44202
+title: The Feedback Fallacy
+---
+# The Source of Truth
 
-or assertiveness, and then accurately evaluate someone else on it. Our
+The ﬁrst problem with feedback is that humans are unreliable raters of
 
-evaluations are deeply colored by our own understanding of what we’re
+other humans. Over the past 40 years psychometricians have shown in
 
-rating others on, our own sense of what good looks like for a particular
+study after study that people don’t have the objectivity to hold in their

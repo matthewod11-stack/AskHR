@@ -1,17 +1,17 @@
-# Andre.”
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da54840dbafa92e27cbad3e7146464c2480f47b6
+title: H07VPH-PDF-ENG
+---
+## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
 
-- 2. Assess location and team dynamics.
+the company to negatively impact her relationship with her remaining
 
-Where are you working? Are you in an oﬃce or working remotely? Part
+employee, Andre. She told me, “I’m the CEO but my cofounder won’t
 
-of a team or working independently? If you’re part of a team, does your
+answer my calls. I haven’t heard from him in weeks. I thought he was
 
-team have regular meetings or are you mostly on your own?
+doing his job, as I was doing mine but now I don’t know. I can’t aﬀord
 
-Where you work and your role can aﬀect your comfort, communication,
-
-and conﬁdence as a decision-maker. Miriam had begun her career
-
-working in a lab, where she was largely on her own, running
-
-experiments. Since starting her business, she’d been working remotely
+to have this situation fester any longer. It’s impacting the company and

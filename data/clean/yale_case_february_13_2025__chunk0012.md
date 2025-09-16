@@ -1,17 +1,25 @@
-# 6 EXPLORING EMPLOYEE TERMINATIONS IN SEARCH FUND–ACQUIRED COMPANIES AND SMALL BUSINESSES
+---
+source_path: yale_case_february_13_2025.md
+pages: n/a-n/a
+chunk_id: 3e77614c0375881fcba53137f7e91cbbffee4bd4
+title: yale_case_february_13_2025
+---
+# 04 Coaching and remediation
 
-or a project manager who repeatedly misses critical deadlines—can undermine team productivity and hinder organizational goals. Before concluding that an employee cannot meet expectations, leaders must ensure that the individual has received sufficient support, such as access to training, mentoring, and adequate resources.18
+Ongoing feedback and guidance are essential for helping employees identify areas for improvement and build the skills they need to succeed. When managers provide consistent coaching, employees have the chance to address issues before they escalate. However, if support is lacking or feedback is inconsistent, employees may remain unaware of performance gaps, leading to repeated mistakes and unaddressed weaknesses. Structured support, such as Performance Improvement Plans (PIPs), can help employees get back on track, but without these opportunities, minor issues can accumulate over time, ultimately leading to termination as a pis aller.16
 
-03 Exhaustive efforts have been made to improve performance
+When to terminate an employee
 
-Termination should only be pursued when all reasonable measures have been taken and the employee is still unable to fulfill the role’s core competencies. If there is little to no realistic prospect of improvement despite these efforts, retaining the employee may place an undue strain on resources and morale. In such cases, termination becomes the best option to protect the interests of the team and the organization as a whole.19 Structured interventions, such as PIPs, provide a formal framework for addressing performance issues and setting clear, measurable goals. When using a PIP, allow sufficient time. Thirty days is typically too short for improvement, but 60–90 days is sufficient and more common. Targeted training and role adjustments can also help employees address weaknesses and contribute more effectively.
+The decision to terminate an employee is complex, requiring leaders to carefully weigh both quantitative and qualitative considerations. Clear evidence of underperformance or a lack of fit must be paired with a structured and transparent process, ensuring fairness and minimizing risks. By identifying unfixable performance gaps and exhausting all avenues for improvement, leaders can approach termination as a process that serves the best interests of both the organization and the terminated employee. We identify three specific catalysts for when a CEO and company should move towards a termination (Figure 3).
 
-How to terminate an employee
+Termination should always be viewed as a final gambit, pursued only after genuine attempts to support the employee’s growth have been made. Leaders who approach the situation with transparency and fairness can ensure that their decisions are justified and defensible. If, despite these efforts, performance fails to improve, termination may be unavoidable to prevent further strain on team morale, resources, and overall productivity. This approach ensures that every option for resolution has been explored, underscoring the organization’s commitment to fairness and integrity in its decision-making.
 
-Separating an employee is not as simple as just conveying the painfully bad news. It is actually a well- orchestrated process involving multiple steps. Many of those steps take place in advance of the actual conversation when the news is delivered. While no amount of preparation and planning can altogether remove the pain and risk of firing a team member, the action steps we discuss below can help make the process smoother and tamp down some of the potential perils. In this section, we will discuss six elements to consider when moving towards a termination (Figure 4).
+Figure 3: A trio of reasons to begin an employee termination process
 
-Figure 4: A sextet of steps to help facilitate the termination process
+01 Performance has declined enough to warrant attention
 
-Like many things in life, terminating an employee is mostly about steps taken before the actual event. By doing the appropriate homework and establishing a foundation of what needs to be done prior to the separation, the CEO and company pave the way for a polished and less emotional conversation.
+An employee’s declining productivity, disengagement, or behavior misaligned with company values often signals underlying performance or fit issues. These concerns might manifest through missed deadlines, frequent conflicts with colleagues, or disruptive behavior that hinders team morale. Such signs warrant immediate attention and intervention to determine whether the issues are temporary or indicative of more profound incompatibilities.17
 
-The person tasked with firing an employee is likely to feel rattled, apprehensive, or nervous, emotions that are natural but can lead to skipping important steps in the process. These feelings heighten the risk of
+02 Core job requirements remain unfulfilled with no realistic prospect of improvement
+
+Consistently failing to meet the fundamental requirements of a role is one of the most apparent reasons to consider termination. Persistent performance gaps—such as a sales representative who fails to meet quotas

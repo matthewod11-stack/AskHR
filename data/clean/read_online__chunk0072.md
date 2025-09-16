@@ -1,17 +1,23 @@
-# Number of children
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 0838581eba6b65ecf8d0aeee5bc9c30f720b9e38
+title: read_online
+---
+# Years of employment
 
-0
+0.00
 
-7
+40.00
 
-1.05
+8.629
 
-1.246
+6.443
 
-1.284
+1.400
 
 0.138
 
-1.983
+2.463
 
 0.276

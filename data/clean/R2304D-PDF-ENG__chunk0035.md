@@ -1,21 +1,25 @@
-# consultants.
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a49d307f2741c97d6b3dfbdf306b61d9ad346b3
+title: R2304D-PDF-ENG
+---
+# a productive relationship with labor.
 
-Whether or not you hire an outside negotiator, you’ll need an internal
+The labor organizations likely to be the most valuable to business will be the strongest ones. Good partnerships require partners with balanced power.
 
-negotiating team staﬀed with managers from a variety of departments
+If you hire a consultant, make sure that the person has a successful
 
-who understand your approach and share your goals. Your toughest
+track record in negotiating ﬁrst contracts, always a challenging task, and
 
-discussions may not be with the union team across the table but within
+understands the importance of laying a foundation for an innovative
 
-your own team, so do everything you can to ﬁnd and empower internal
+and trusting relationship. Steer clear of contract language that protects
 
-allies. Even if your company had a hostile posture toward unions in the
+“management prerogatives” by minimizing the union’s inﬂuence.
 
-past, you will ﬁnd people eager to turn over a new leaf and collaborate.
+Remember that while your negotiator will represent you, you’re the
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+one who has ﬁnal say. Successful high-road negotiations require senior
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+management to get directly involved and to avoid overdelegating to

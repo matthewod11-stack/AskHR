@@ -1,21 +1,23 @@
-# HBR / Digital Article / Design Your Transformation for Simplicity — Not Efficiency
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35f8ba5258992a68f321b17d8bb449d0e86d7a93
+title: H08MHC-PDF-ENG
+---
+## access to necessary information and tools.
 
-. . .
+- 5. Listen
 
-Designed simplicity oﬀers a fundamentally new approach to achieving
+Monitor the adoption of transformed workﬂows. Use instances of
 
-transformation success. In prioritizing user experience over speed
+low adoption as an indicator of a lack of simplicity or eﬃcacy in
 
-and eﬃciency, adopters have seen an improvement of 42% in their
+transformed workﬂows, not as a measure of compliance. When low
 
-transformation success scores, meaning transformation objectives are
+adoption occurs, go back to step one.
 
-more likely to be met, and the diﬃculty of transformation is decreased.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-By embedding these principles, business leaders can ensure that their
+11
 
-transformations are not just completed but are successful in delivering
-
-sustained value and strategic advantage for their organizations.
-
-This article was originally published online on February 17, 2025.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,21 @@
-## HBR / Spotlight Article / Leaders Must React
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 231eaa7014377cd2daa26062d09c15c57b1991af
+title: S24012-PDF-ENG
+---
+# worthwhile.
 
-the potential to morph into major concerns. For leaders, this is the
+Whisper warnings: Small issues that might become signiﬁcant.
 
-most dangerous kind of event. It can be easy to dismiss or mistake a
+The leader’s task: Nip them in the bud.
 
-whisper warning as normal noise—and fail to recognize the likelihood
+Within the unpredictable ﬂow of organizational issues is a unique
 
-that an issue will escalate into a substantial threat. Perhaps the most
+category of challenges: those that initially appear minor but have
 
-famous example of this occurred in the months before 9/11, when U.S.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-intelligence agencies received various tips about suspected terrorists
+6
 
-enrolling in ﬂight schools and an imminent attack involving airplanes. Still, oﬃcials failed to connect the dots or recognize them as more than
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

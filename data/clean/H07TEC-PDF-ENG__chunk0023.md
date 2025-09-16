@@ -1,23 +1,23 @@
-# performance.
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5bb1d222fd40954527c1252812c4ecd6b5d6f068
+title: H07TEC-PDF-ENG
+---
+# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
 
-To do this, you must use variables in the analysis that can be directly
+act based on the outcomes of a balanced benchmarking approach, it is
 
-impacted by training. In our research within the law ﬁrm, we were able
+best to understand the data ﬁrst and apply the appropriate training only
 
-to readily identify the high and low performers utilizing the variables
+after you have this understanding.
 
-described above. The next step we took was providing the partners
+Connect the variables back to training.
 
-with leadership development training that taught them skills to help
+It’s not enough to simply understand which teams or individuals in
 
-them coach for performance. It wasn’t enough to demonstrate to the
+your organization are performing at a higher or lower level relative
 
-partners who the high- and low-performing attorneys in the ﬁrm were;
+to the other teams or individuals. The next step is to apply training
 
-we had to go one step further and give them the tools to help the
-
-struggling attorneys. By combining balanced benchmarking and this skills training, the partners were able to more eﬀectively lead the
-
-attorneys, resulting in roughly a 15% annual increase in hours billed
-
-that generated additional revenues of nearly $1 million. Assuming a
+to those low-performing teams and individuals to improve their

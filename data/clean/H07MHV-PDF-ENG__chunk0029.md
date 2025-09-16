@@ -1,19 +1,13 @@
-# their strengths.
+---
+source_path: H07MHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b35c7912c1a212dca41252ee7ccb8196606b091b
+title: H07MHV-PDF-ENG
+---
+## HBR / Digital Article / When Great Minds Don’t Think Alike
 
-In conclusion, the business world needs all kinds of thinkers. When they
+Highly specialized work calls for highly specialized minds. For these
 
-work in teams with complementary skills, they will be very eﬀective.
+programs to work, we need to understand that accommodations are not
 
-The ﬁrst step is that managers need to be aware that diﬀerent kinds of
-
-thinking exist.
-
-This article was originally published online on May 23, 2023.
-
-Temple Grandin is a Colorado State University distinguished professor. She is the New York Times bestselling author of Thinking in Pictures, Animals in Translation, and Visual Thinking. Her designs for handling livestock are used by companies around the world. Grandin was inducted into the National Women’s Hall of Fame in September 2017.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+special favors. All workers, visual and verbal alike, perform according to

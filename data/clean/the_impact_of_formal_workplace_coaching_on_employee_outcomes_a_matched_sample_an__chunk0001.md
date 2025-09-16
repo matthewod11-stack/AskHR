@@ -1,3 +1,7 @@
-# ISSN: 1367-8868 (Print) 1469-8374 (Online) Journal homepage: www.tandfonline.com/journals/rhrd20
-
-The impact of formal workplace coaching on employee outcomes: a matched sample analysis
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: ca6862c259c6561b260e67e33400dad8264d28e2
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+# Human Resource Development International

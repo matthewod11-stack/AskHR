@@ -1,5 +1,11 @@
-# Effect of Motivation on Employee Productivity: A Study of Manufacturing Companies in Nnewi
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: 4a9814639bcd0c523cf6000d5a2a3ef299444ec5
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# 1.4 Research Questions
 
-- 2. How responsive is the employees to motivational reward adopted by the company? 3. What are the factors hindering the success of employee’s motivation in the company? 4. Which of the incentives given to the employees lead them to higher performance and productivity?
+- 1. What are the motivational techniques adopted by the Manufacturing firms to retain her employees?
 
-1.5 Hypothesis Ho1: The motivational techniques adopted by manufacturing firms do not significantly lead to
+International Journal of Managerial Studies and Research (IJMSR) Page | 138

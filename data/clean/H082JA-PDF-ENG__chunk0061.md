@@ -1,25 +1,25 @@
-## HBR / Digital Article / The Challenges of Becoming a Less Hierarchical Company
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32975ad08933cda96353326381a38424835c51ff
+title: H082JA-PDF-ENG
+---
+## At Avinsa, external facilitators from other areas of the company
 
-to operations. The idea is that these employees merely facilitate
+play a crucial role, not only in guiding the discussions but also
 
-conversations, but do not participate with comments and judgment.
+in emphasizing the rationale and beneﬁts of the company’s chosen
 
-Demonstrating short-term agility while maintaining a long-term vision.
+approach. Facilitators assist in ensuring that commitments are recorded
 
-Adopting a ﬂat structure can bring enhanced collaboration,
+and that these commitments are reviewed and followed up on in future
 
-empowerment, and adaptability, but recognizing these beneﬁts requires
+meetings. For example, individuals from corporate communications,
 
-participants to adopt a long-term view, especially when immediate
+ﬁnance, or accounting have served as facilitators in circles related
 
-results are elusive. At the same time, organizations must be equipped
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-to pivot, adapt, and recalibrate their strategies in real-time.
+10
 
-Avinsa discovered that providing employees with structured
-
-opportunities to reﬂect on and share the ways in which Avinsa Viva
-
-impacted their roles, perceptions, and job satisfaction helped them
-
-connect their experiences in the present with their desired future —
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

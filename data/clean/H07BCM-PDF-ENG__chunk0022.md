@@ -1,33 +1,37 @@
-## HBR / Digital Article / What’s Stopping You from Reinventing Your Career?
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e8e8a58f5aa1a3519b25c76a8c4fe8e6d1db8ef
+title: H07BCM-PDF-ENG
+---
+# The Right Answer
 
-When we began to work with Sam, it was clear that as a scientist
+Our society teaches that there are “right” and “wrong” answers from
 
-he understood the language of experiments very well. So, our work
+our schooldays right through to the workplace. But, often, there are
 
-with him emphasized the need to conduct experiments in order to
+no discernible right answers when looking out over the unknown of a
 
-make progress on the work of reinvention. We asked Sam to bring the
+reinvented life or career. Executives who have conﬁdent replies at the
 
-same level of curiosity to examining his life that he brought to his
+ready in the context of their current roles become suddenly silent when
 
-experiments. We encouraged him to conduct experiments to identify
+they’re asked about their personal futures.
 
-sources of fulﬁllment in life and at work. Within time, he realized that
+As a scientist, Sam had been educated to ﬁnd the right answer to the
 
-there was no “formula” nor right answer, but many exciting options,
+problems in front of him. After 20 years as a chemist in a large German
 
-and the choice was his to make. He decided to stay in his role for the
+ﬁrm, he started to feel ready for a change of direction and yet he found
 
-next two years and to deliberately make time for some experiments to explore options. He set one professional experiment in place by oﬀering
+himself searching for the elusive right answer to what that direction
 
-support to a local start-up and one personal experiment to rekindle his
+should be. As a result, he remained in his role despite the feeling within
 
-love of music by joining a choir.
+him that something needed to shift.
 
-If you tend to search for the “right” answer when evaluating choices,
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-this may be a sign that you might shy away from embarking on
+5
 
-experimentation or accepting mistakes as a pathway to learning and
-
-growth. It can be useful to ask what alternate paths are there?
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

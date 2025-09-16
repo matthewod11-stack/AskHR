@@ -1,19 +1,9 @@
-# program improvement
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 3e4387eb8f8cc1bbe45fae1fd52b2fa45857f0d9
+title: fast_track_art_i_c_l_e
+---
+# reporting
 
-Population health/risk status data are used
-
-to monitor health/risk status improvement
-
-Health care utilization and cost data are analyzed to identify costly conditions and evaluate EHM impact on clinical outcomes, utilization and/or cost
-
-Productivity and/or presenteeism data are
-
-used to evaluate EHM impact on health-related lost work time and overall productivity
-
-Quality of outcome evaluation is
-
-conducted by independent expert using a control or comparison group; follow-up data are compared with baseline data; and statistical methods control for demographic differences
-
-None of these data are collected
-
-(continued)
+Process evaluation data are used to drive

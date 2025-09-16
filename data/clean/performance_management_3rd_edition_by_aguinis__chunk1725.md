@@ -1,11 +1,13 @@
-# discrimination.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8dead35ad0985c68a8f2eced7a82a6eba2c050d7
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part IV • Reward Systems, Legal Issues, and Team Performance Management
 
-(cid:2) Know what type of evidence employees need so that they can prove illegal
+(cid:2) Understand the role played by six legal principles in the implementation of
 
-discrimination and what type of evidence employers need to prove lack of illegal discrimination.
+performance management systems: employment at will, negligence, defamation, misrepresentation, adverse impact, and illegal discrimination.
 
-(cid:2) Know the impact of the key laws that prohibit discrimination based on race, sex,
-
-religion, age, disability status, and sexual orientation on the design and implementation of performance management systems.
-
-(cid:2) Design a performance management system that is legally sound.
+(cid:2) Identify the point at which a performance management system allows illegal

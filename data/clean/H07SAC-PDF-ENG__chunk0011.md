@@ -1,7 +1,9 @@
-# relaxing and enjoying time oﬀ.
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c9a3469ed27eabc9c2c01b3d8b368bde27ce392d
+title: H07SAC-PDF-ENG
+---
+## HBR / Digital Article / When Your Vacation Wasn’t Exactly Relaxing
 
-Resist the temptation to dive into work headﬁrst by building in a day
-
-of transition and recovery before returning to normal. You might even
-
-consider drafting an auto-response or extending your OOO for an extra
+and conversations that were piling up while you were supposed to be

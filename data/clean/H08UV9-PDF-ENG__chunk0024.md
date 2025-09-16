@@ -1,9 +1,7 @@
-## How to Find the Signal Beneath the Surface
-
-Middle-market companies and PE ﬁrms cannot aﬀord to rely on gut feel,
-
-résumés, or conﬂicted assessments when it comes to leadership. It’s
-
-easy to see the consequences of hiring failure: high rates of unplanned
-
-turnover, delays or derailments in value creation because an executive
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e1cd03e2afec9bb612af2ad12fa99c921845e6e
+title: H08UV9-PDF-ENG
+---
+# HBR / Digital Article / How Middle-Market Companies Can Find the Best Leadership T…

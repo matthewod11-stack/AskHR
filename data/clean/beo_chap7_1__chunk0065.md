@@ -1,9 +1,17 @@
-# some detail in Fehr and Gachter (2000).
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 1eb7beb7423321ef366036aee44b62cc91dc0583
+title: beo_chap7_1
+---
+# 7.3.1 Social Comparison
 
-The influence of social comparison can lead to conflict when different agents
+In the worker expected utility in (7.1), only the worker’s own effort and wage enter
 
-choose different comparison sets. In a study of actual teacher strikes in Pennsyl-
+into her utility. But in real organizations, people make friends and enemies, and
 
-vania, it was found (Babcock and Loewenstein 1997) that teachers’ unions tend
+compare themselves to others. Workers may thus sacrifice their own earnings to
 
-248
+help their friends and harm their enemies, or to create better social comparisons.
+
+This topic, and its importance for contracting and labor economics, is discussed in

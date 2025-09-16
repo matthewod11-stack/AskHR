@@ -1,5 +1,29 @@
-# of positive aspect of work;
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: a4149ac40cbd33e7ac4a5c696da4bddc7953c0d4
+title: sciencedirect
+---
+## Jasleen Kour et al. / Procedia Computer Science 161 (2019) 226–232
 
-Based on the fact that POB applies in the organizational setting with a positive outcome and succeeded in realizing the positive employees’ traits to maximum for a better organizational career, we posit that the employ ees’ security compliance behaviour can be improved through positive organizational behaviour. If the orga nization embraces its employees’ positive traits and strengths and develops organizational culture and se curity compliance policies’ based on these traits, better security compliance can be achieved [10].
+and a strategy to give the organization a special, competitive advantage. The quick chang es in the world make huge vulnerability in business sectors, and this requires inventive arrangements and the capacity to decide to choose the organization direction.
 
-For instance, it is not a matter of motivating employees to do their work, yet rather how to inspire them to do better work, or their best work. Today, organizations expect employees to be creative, cooperative a nd contribute to the knowledge sharing and at the same time do their routine work while only 14% of employees global ly exhibit highly engagement. Approximately, about a quarter are vigorously disengaged, and 62% are only moderately engaged. Then the questions arise like by what method can such groups build up an innovative cooperative energy that will benefit from the numerous visions available, in what capacity would businesses be able to and bunches b enefit from their diversity and so far as that is concerned, what would organizations be able to do to ensure that the correct individuals tion of diversity, they get on board and remain with the organization. However, when organizations grasp the op
+which influence the organization's structure, human capital needs and so forth [3]. Components that attempt to enhance physic al health, knowledge, achievement and motivation among group members are to be suggested based on the assumption that a relaxed member engages more positively [4].
+
+Hence, this requires key choices that shape the objectives and mission of the organization,
+
+An individual spends a good part of their day at work i.e. almost 7 to 8 hours of his or her daily life where he/she works and performs the responsibilities assigned by the job or the organization. Spending such a long time of the day n his/her mind. in the workplace reflects in different ways on the individual and exercise immense pressure o Consequently, the environment at work must be stress free and pleasant, otherwise it wi ll have a serious negative effect on the basic psychology of the employee which ultimately impact his/her performance a nd hence, the overall the productivity of the organization. The paper addresses the increase of employees’ performance from a positive psychology perspective. Three positive traits are identified and used as the ba sis for developing a framework which demonstrates the relationships between them and employees’ performance/productivity and hence o rganizational productivity. The paper proposes that these traits are the roots for ensuring an environment which is stress free, friendly and motivating for the employees.
+
+- 4. The need of positive psychology
+
+nt and rstand the relation between implementation of effective organizational strategies. POS provides an insight to unde organizational strategies and its employees’, its impact on human behaviour on workplace and subsequently provides a vision to analyse why some strategies are more productive than the rest [5]. The role of positive psycholo gy in improving positive organizational behaviour is undebatable and has gained more popularity in recent years [6]. Many companies/organizations develop their strategies and policies to identify employ ees’ positive traits or attributes (e.g. trustworthiness, loyalty, resilience) to achieve their business goals and maintain sustainability [7]. Since positive psychology focuses on human strengths, such as, positive traits and personal strength for organizational prosperity, it is believed to create positive impact to develop organized system that values potential in their employees [8].
+
+The theories and ideas of positive organizational scholarship (POS) are used in the developme
+
+Positive organizational behaviour is defined as the study and application of positive hu
+
+man strengths and tated that, there exists a never-
+
+psychological capacities for a healthy organizational environment [9]. Luthans [9] s ending relationship between work and happiness; positive organizational culture and its performance; and employees’ attributes and their performance.
+
+Traditional psychology find/cure the negative side of organizational behaviour such as violence in the workplace, organizational failures, and the like [5]. While organizational behaviour focuses more on issues related to uncertainty management, disorganization theory and chaos theory; POB put forward the concept positive traits of employees and their interdependency which contributes equally in to the development of good work environment [10].

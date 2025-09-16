@@ -1,51 +1,17 @@
-## brunt of the trauma and grief over the past year.
+---
+source_path: H06IPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 164171105086f702b66c49fa53f7c097b53e3032
+title: H06IPO-PDF-ENG
+---
+# Focus on resilience
 
-Hirsh adds that rather than wondering when you can stop asking people
+Resilience plays an important role. “The limiting factor for many
 
-how they’re doing, you should be thinking, “How can we help you
+employees is going to be how they handle stress and everything going
 
-manage your life and perform better?” While it doesn’t fall solely on
+on in their lives. Some people handle it ﬁne — it’s part of their
 
-you, as their manager, to help a struggling employee to build their
+disposition to be able to manage the stress. Others will need more
 
-resilience, you can play a role. As Dutton says, “It requires extra
-
-imagination and diligence to strengthen people.” But it pays dividends
-
-in terms of performance and commitment when you do.
-
-One way to motivate your team, especially when they’re under ongoing
-
-stress, is to show them the progress they’ve made. “Help people see
-
-how they’ve grown over the past year to sustain positive momentum,”
-
-says Dutton. You might ask people to share whether they’ve honed or
-
-discovered new skills or abilities during the pandemic (making it clear
-
-that it’s OK if they didn’t). You also want to connect them to the purpose
-
-behind their work. “Bathe people with the positive impact of their work.
-
-It’s like a booster shot — physiologically and psychologically,” she says.
-
-Have individual conversations — and plans
-
-This all requires that you talk with your team members one on one so
-
-you understand their unique circumstances. Don’t assume you know
-
-what those are, even if you’ve been in close contact. Things shift. Hill
-
-says, “Make it safe for them to tell you about what’s happening in their
-
-lives and how that’s impacting their work so you can ﬁgure out the best
-
-way to move forward.” At the same time, she suggests you make clear
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+support,” says Hirsh. This is especially true for anyone who bore the

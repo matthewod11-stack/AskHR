@@ -1,13 +1,15 @@
-# at best.”
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64419fae60c0f33daccebcfb213de453e61f370c
+title: H07EDU-PDF-ENG
+---
+# How to Be Smarter about Workforce Change
 
-Recently, a number of CEOs of scaling startups have asked me for
+In the wake of the string of recent layoﬀs in tech, one economic
 
-advice about maintaining trust while managing layoﬀs in this changing
+historian observed: “Far from cutting-edge, these layoﬀs mark a revival
 
-landscape. Here are some strategies I shared with them.
+of long-discredited corporate strategies. If the trend continues, history
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+suggests these tech leaders will leave their companies severely crippled,

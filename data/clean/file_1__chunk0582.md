@@ -1,5 +1,29 @@
-## Journal of Applied Social Psychology, 18, 606-625.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 17dad51921fa4475aa919d247b8242807443d9a9
+title: file_1
+---
+## satisfaction. Journal of Organization Behavior, 20, 1027-1042.
 
-Kantola, J., 2008. Why do all the women disappear? Gendering processes in a politics science department. Gender, Work and Organization, 15 (2), 202-225.
+Greenberg, J., 1990. Organizational justice: Yesterday, today, and tomorrow. Journal of
 
-Keaveny, T. and E. Inderrieden, 2000. Gender differences in pay satisfaction and pay
+Management, 16, 399-432.
+
+Hearn. J., Piekkari, R. and M. Jyrkinen, 2009. What Managers in Large
+
+Transnational Corporations Say About Gender Policies, Structures and Practices. Hanken School of Economics: Research Report.
+
+Heckert, T., Droste, H., Adams, P., Griffin, C., Roberts, L., Mueller, M. and H. Wallis,
+
+- 2002. Gender Differences in Anticipated Salary: Role of Salary Estimates for Others, Job Characteristics, Career Paths, and Job Inputs. Sex Roles, 47, 139- 151.
+
+Huseman, R., Hatfield, J., and E. Miles, 1987. A new perspective on equity theory: the
+
+equity sensitivity construct. Academy of Management Review, 12, 222-234.
+
+Husu, L., 2001. Sexism, support and survival in academia: Academic women and
+
+hidden discrimination in Finland. Report Series. University of Helsinki: Department of Social Psychology.
+
+Jackson, L. and S. Grabski, 1988. Perceptions of fair pay and the gender pay gap.

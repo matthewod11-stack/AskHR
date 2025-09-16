@@ -1,11 +1,13 @@
-# the next recession.
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c58f49fe1707bccf01189e6b57f642163799b60
+title: H08TPS-PDF-ENG
+---
+## prominent of these policies—the Paycheck Protection Program during
 
-Though we only examine private U.S. employment, our results may also
+the COVID-19 pandemic—has found that these subsidies helped to
 
-inform workforce decisions of public institutions that wish to avoid
+prevent job loss for millions of workers. However, the lack of targeting
 
-congesting the labor market. The negative consequences can be seen
-
-from the recent wave of layoﬀs from the federal workforce, which has
-
-led to an overwhelming number of new applications and has made ﬁnding jobs in state and local governments more diﬃcult for displaced
+and substantial cost leave scope for better policy design in preparing for

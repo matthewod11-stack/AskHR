@@ -1,13 +1,11 @@
-# Summary Points
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 3a4d2babde4c435e0738a6cd6789a3b3fcb1ab96
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 7 • Implementing a Performance Management System 189
 
-- Some important steps need to be taken before the performance management system is implemented. These include implementing a communication plan and an appeals process, which will help gain system acceptance; training for raters, which will programs help minimize errors in performance ratings; and pilot testing the system, which will allow revisions and changes to be made before the system is actually implemented. Careful attention to these presystem implementation steps will help improve the success of the system.
+if an employee receives a low rating on the performance dimension “communication,” then there may be an automatic trigger so that the system suggests resources that the employee can use to address this performance dimension. For example, one such resource can be a learning module available online that teaches employees how to improve their communication skills. Another advantage of an online system is that it is easier to monitor unit-level and organization-level trends over time. Another advantage is automation. For example, a pop-up screen may appear on a supervisor’s screen upon logging on, and she may not be allowed to open any files until the performance evaluation is completed. How effective are online performance management systems in practice? In spite of the above mentioned benefits, it is important to evaluate whether the quality of evaluations improves and whether users are satisfied with the system. A recent study included 631 staff employees at a large U.S. university and provided a unique opportunity to evaluate the evaluation portion of the system in two modalities: (a) paper and pencil and (b) online. Results indicated that the online system had overall positive effects or, in some cases, null effects on employees perceptions of rater accountability, employee participation in the system, security and utility of the performance ratings, and satisfaction with the evaluation.36
 
-- The main goal of the communication plan is to gain support for the system.
-
-A good communication plan addresses the following questions:
-
-- What is performance management? What are its general goals? How have performance management systems been implemented in other organizations?
-
-- How does performance management fit with the organizational strategy? • What are the tangible benefits of the performance management system for all parties involved?
-
-- How does the system work? What are the various steps in the process? • What are the roles and responsibili- ties of each organizational member?
+One important issue to keep in mind is that online tools are simply a type of medium. Although they may add efficiency and bells and whistles to the system, ultimately the system’s success will depend on following best-practice recommenda- tions offered throughout this book. Taking advantage of online applications can help speed up processes, lower cost, and gather and disseminate information faster and more effectively. Thus, such tools can make a good system even better. On the other hand, systems that are not implemented following best practices will not necessarily improve by using online components. In fact, online implementation may lead to highly undesirable outcomes: a more complicated system that is simply a big waste of time and resources for all those involved.

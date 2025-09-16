@@ -1,17 +1,23 @@
-## HBR / Magazine Article / Disability as a Source of Competitive Advantage
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43b9c87ab3c41be3d538ce42a67a9345d887c531
+title: R2304H-PDF-ENG
+---
+# disabilities.
 
-Prejudice often deters employers from hiring people with disabilities,
+People with disabilities also are an untapped source of talent. They
 
-but that means it’s easier for more-enlightened companies to snap
+may not always be very skilled at the traditional process of ﬁnding and
 
-up highly skilled people. In the United Kingdom, for example, high
+applying for jobs or at interviewing, but those skills may not correlate at
 
-school graduates with disabilities are no more likely to have a job
+all with the requirements of the jobs involved.
 
-than people who left school before graduating—suggesting that there
+We know from research that customers value not just the content of a product and its functionality but also how it is produced and by whom.
 
-are many qualiﬁed disabled people available for employment. Auticon,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-for instance, has hired several with STEM PhDs for data science and
+12
 
-analytics jobs who at the time were working as couriers and delivering
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

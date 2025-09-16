@@ -1,9 +1,17 @@
-# forward.
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6be9c8a8e2fa2cc5ce63546a2f28f3a6c7ccbc2
+title: H08EDN-PDF-ENG
+---
+# mental pathways.
 
-Think of your past decisions as a dataset that you can mine for insights.
+What I’ve also learned in my work researching and writing about
 
-They can help you identify biases and assumptions that may be holding
+decision-making is that too often we don’t want to spend time
 
-you back, develop strategies to shift your behavior going forward, and
+and mental energy revisiting the past, especially if it contains
 
-ultimately feel more conﬁdent that your process will lead to positive
+uncomfortable missteps. But stopping and looking carefully at those
+
+mistakes is exactly what can help us make better decisions moving

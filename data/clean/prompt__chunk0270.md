@@ -1,7 +1,13 @@
-# Python
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: a4008d4c50aab2da52089eb37a00fa9e62beb756
+title: prompt
+---
+# Prompt Engineering
 
-from langchain.agents import load_tools from langchain.agents import initialize_agent from langchain.agents import AgentType from langchain.llms import VertexAI
+To run this sample you must create a (free) SerpAPI key from h(cid:459)ps://serpapi.com/manage- api-key and set an environment variable SERPAPI_API_KEY.
 
-prompt = "How many kids do the band members of Metallica have?"
+Next let’s write some Python code, with the task for the LLM to (cid:450)gure out: How many children
 
-llm = VertexAI(temperature=0.1) tools = load_tools(["serpapi"], llm=llm)
+have a famous dad that pe(cid:455)orms in the band Metallica.

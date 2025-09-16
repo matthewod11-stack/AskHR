@@ -1,11 +1,21 @@
-# fear than optimism.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f36749e4b43d58538e9dbdf04991e2d336916a2
+title: H07QOV-PDF-ENG
+---
+# clearer?
 
-The truth is we need both. We need some positive, thoughtful, design-
+AMY EDMONDSON:
 
-oriented approaches to experiment and ﬁgure out what’s going to work.
+As you indicated, it’s a little outside my wheelhouse, except for the
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+eﬀects on people and culture. I speak from the perspective of someone
 
-11
+listening at the margins to the many conversations in work and social
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+gatherings alike, and I think you’re right. I think fear is the dominant
+
+emotion, that certainly some are excited, some are super optimistic
+
+about the amazing changes to come, but I think casually I hear more

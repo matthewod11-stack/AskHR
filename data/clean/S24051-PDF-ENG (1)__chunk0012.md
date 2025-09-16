@@ -1,15 +1,9 @@
-# Develop an Operating System
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: c15a70afd6ef67279229e29045d4225026401fda
+title: S24051-PDF-ENG (1)
+---
+# practice.
 
-We use the term “operating system” to mean the building blocks for
-
-the way team members collaborate, create change, and support one
-
-another. Eﬀective operating systems vary widely, depending on the
-
-needs and norms of the organization. What they all have in common
-
-is that they set out a view of how teams create value, what teams are
-
-supposed to achieve, the technical skills each team member is expected
-
-to contribute, the processes by which the work will be managed, and
+[ 1 ]

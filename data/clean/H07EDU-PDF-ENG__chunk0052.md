@@ -1,9 +1,19 @@
-# MW
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9f038170c37c6177da08eb921d02642af16c6a4
+title: H07EDU-PDF-ENG
+---
+## lead to surprising, beat-the-odds success, as the above examples from
 
-Marilyn Morgan Westner is a research associate at Harvard Business School. She holds a PhD in history and writes about the intersection of frontier technology, cultural stereotypes, identity, and social issues.
+Honeywell and Nokia show. Centering trust also oﬀers leaders a
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+reminder: Your actions will have consequences that are more visible
 
-12
+than they’ve been in the past and you will be judged as trustworthy — or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+not — based on them.
+
+This article was originally published online on December 08, 2022.
+
+Sandra J. Sucher is a professor of management practice at Harvard Business School. She is the coauthor of The Power of Trust: How Companies Build It, Lose It, and Regain It (PublicAﬀairs 2021).

@@ -1,3 +1,13 @@
-# Instrument
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: 08b254c5375775ef8c52fb7d6304ed830d78631a
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# Bujang et al.
 
-(OCAI)
+workplace behavior. Based on our investigation, we were able to identify 19 publications that qualified, all of which differ in terms of the demographics studied, research designs, and workplace cultures.
+
+For example, in the research done by Kalemci et al. (2019), variables measured included perception of employee that their organization and supervisor take care of their workers and enhance the power distance cultural value. Perception of employees that their organi- zation and supervisor take care of their workers are cap- tured in the computing value framework under clan culture which emphasizes cohesion, participation, empowerment of employees, and teamwork; it is bound together by loyalty and tradition (di Stefano et al., 2019). Additionally, clan culture is linked positively to organizational loyalty, job engagement, and job happi- ness. (Goodman et al., 2001). According to Hofstede (2005), one way to conceptualize power distance is the degree to which less powerful members of institutions and organizations in a country are prepared for and accept unequal power allocation.
+
+It is mentioned here that personality traits should be measured for the purpose of investigating mediating effect of the cultural values that might impact deviant workplace behavior. This is because personality traits have been demonstrated to be more accurate predictors of both individual and organizational deviance than organizational culture (Nacˇ inovi’ et al., 2020). Variables such as toxic work culture (Tiwari & Jha, 2022), per- ceived abusive supervision (Syed & Azam, 2019; Tiwari & Jha, 2022), perception of organizational support (Helfers et al., 2018; Kalemci et al., 2019), hostile climate perceptions (Mawritz et al., 2014) and organizational politic (Bashir et al., 2019; Rosen et al., 2016) are not directly measured in the Organizational Culture Assessment & Quinn,1999), which was developed from computing value framework, and yet it reflects the culture of an organization. It is important for researchers to firmly dif- ferentiate between organizational culture or climate used as variables in order to justify the study of workplace culture on deviant workplace behavior.

@@ -1,17 +1,13 @@
-## through individual support and organizational design.
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca66ae527587b60d06d7ab70918fdd4487232460
+title: H08R2K-PDF-ENG
+---
+# health and performance.
 
-Resilience isn’t a program—it is a system embedded into how
+. . .
 
-organizations lead, operate, and grow. Building it requires a shared
+Organizations can no longer aﬀord to react to events as they unfold.
 
-commitment: employees need support to build sustainable health
-
-habits, while organizations must take responsibility for shaping
-
-environments that reduce stress and build psychological safety.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Instead, they must build and embed resilience as a long-term capacity—

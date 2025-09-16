@@ -1,17 +1,41 @@
-# another opportunity.
+---
+source_path: H060QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1caf0570affbc592016a8c2b87e5704c34b0587f
+title: H060QI-PDF-ENG
+---
+# wouldn’t I?”
 
-The lesson I drew from this was simple. Maternity leave is one thing. Support for new mothers is an entirely diﬀerent issue.
+She was silent for a moment, then said, “A recruiter called me about
 
-Asha Santos, a partner at Littler Mendelson P.C., who advises U.S.
+your job, and it’s also posted online, so I thought you weren’t coming
 
-companies on employment law and how to build respect in the
+back. I’m sorry to be the one to have to tell you that.”
 
-workplace, agrees: “How a woman is treated in the months leading up to
+I don’t remember what I said next. I don’t remember how the call ended.
 
-her maternity leave and then during leave and shortly thereafter when
+I do remember that my head was spinning. I ﬁnished feeding my son
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+and put him down for a nap.
 
-2
+Why would my job be posted online when I was going back? Why were
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they looking to backﬁll me when I was on maternity leave? Why hadn’t
+
+anyone told me?
+
+I thought back to the period before I’d taken leave. When the doctor
+
+advised me to stop traveling to customer meetings in my third trimester,
+
+my bosses weren’t happy. When I stayed at the oﬃce until 11 pm to work
+
+on urgent requests at seven months pregnant, no one ever suggested
+
+that I order dinner. (I recall ﬁnding old airline crackers in my bag.)
+
+When I wrapped up things a few days before my due date, management
+
+assured me that I would come back to my role. But now I didn’t trust
+
+them. I resigned towards the end of my maternity leave after ﬁnding

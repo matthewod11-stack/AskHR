@@ -1,11 +1,37 @@
-## HBR / Magazine Article / Three Ways to Lead Learning
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce150b300a25f12ca25fa7d03bfd4626c3aa34b9
+title: R2501H-PDF-ENG
+---
+# Custodians
 
-Instrumental learning gets people to converge toward a norm, be
+Custodians see learning as instrumental to executing an organization’s
 
-it a cultural framework or a competency framework. Employees are
+strategy and strengthening its culture. In their view learning is a tool
 
-assessed against a clear model and then get assignments meant to ﬁll
+to help employees perform their roles better (and get better roles).
 
-any gaps identiﬁed and build cultural cohesion. (A major concern of a
+While learning helps employees succeed and advance, the ultimate
 
-custodian is thus picking the right people for the right learning at the
+beneﬁciary is the organization, and any learning that doesn’t provide
+
+a concrete advantage to the company is probably useless.
+
+Custodians embrace this view because they see themselves primarily as
+
+stewards of the business. For them, alignment with senior leadership is
+
+a top priority; they create value by bringing others on board with the
+
+top team’s agenda. Indeed, many custodians we spoke to were business
+
+leaders in other areas before they came to learning, and most noted how
+
+much they had in common with their C-suite peers.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

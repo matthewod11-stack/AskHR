@@ -1,9 +1,11 @@
-# KM
+---
+source_path: H06N98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a2836b2571ab22e05c95f7cbfcf7d9ebd7ab46a
+title: H06N98-PDF-ENG
+---
+# CS
 
-Kurt Matzler is a professor at the University of Innsbruck in Austria and a co-author of Open Strategy (MIT Press, 2021)
+Christian Stadler is a professor of strategic management at the University of Warwick Business School in the U.K. and a coauthor of Open Strategy (MIT Press, 2021).
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Julia Hautz is an assistant professor of strategic management at Innsbruck University School of Management in Austria. She is a coauthor of Open Strategy (MIT Press, 2021).

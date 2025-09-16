@@ -1,9 +1,11 @@
-# one generalist.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: df617455f49352c1db1dd95897d6770c18967f81
+title: agents_companion
+---
+## Advantages of Multi-Agent Architecture for Automotive AI
 
-In this approach, each agent specializes in what it does best. The Navigation Agent focuses
+Multi-agent systems bring powerful advantages to automotive AI by breaking down complex
 
-solely on finding locations and planning routes. The Media Search Agent becomes an
-
-expert in music and podcasts. The Car Manual Agent specializes in vehicle features and
-
-troubleshooting. By focusing on specific domains, each agent develops deeper capabilities in
+tasks into specialized roles. Think of it as assembling a team of experts rather than relying on

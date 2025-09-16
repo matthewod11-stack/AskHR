@@ -1,15 +1,29 @@
-# large investment.
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 038657bb0d5cd44e7635a64e76d4f7ead82d554a
+title: R2501K-PDF-ENG
+---
+# the people in the test group react.
 
-So Kirsten printed a small run of shirts and collaborated with one
+Consider Kirsten, a transportation company executive embarking on
 
-transport provider in her company’s largest geographic region to get
+a brand awareness initiative. Her ﬁrm wanted thousands of its drivers
 
-a commitment that its 15 drivers would wear the shirts at work every
+—employed by external service providers—to wear T-shirts featuring
 
-day for a month. This slice allowed her to gather valuable insights about
+its corporate logo. Some project managers might have started out
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+by designing the shirts and ordering the total amount needed. But
 
-3
+Kirsten knew that her success would require behavior change from three
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+diﬀerent groups: executives at the transport providers, who would need
+
+to agree to new contract terms; drivers, who would have to consistently
+
+wear the new shirts; and customers, who would have to notice the
+
+logo and remember the brand. She realized that it would be prudent
+
+to conﬁrm whether such behavioral shifts were possible before making a

@@ -1,9 +1,29 @@
-# HBR / Digital Article / Your Company Will Need Remote Work as Extreme Weather Ge…
+---
+source_path: H07VVF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5105e90c4df678373b5522b556c48dacfa99e5a2
+title: H07VVF-PDF-ENG
+---
+## billion, with an annual average cost of $119.1 billion between 2018 and
 
-we believe our research suggests that ﬁrms proactively shift their
+2022 alone — nearly three times the 43-year inﬂation-adjusted average
 
-operations toward remote-work readiness. There are, after all, plenty
+cost. As these types of disasters are evidently more common, remote-
 
-of ﬁrms that could be more remote-work-ready than they are today.
+work readiness will need to become an increasingly important aspect of
 
-It’s important not to wait for disaster to strike before planning a remote
+ﬁrms’ HR and workforce management strategies.
+
+Our measure is capturing whether a company employs people in
+
+occupations that can easily work remotely. To some degree, that’s
+
+diﬃcult to change: A software engineer can work remotely more easily
+
+than a barista, and management can’t do much about that. However,
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

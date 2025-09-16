@@ -1,15 +1,19 @@
-# more time on patient care.
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0f1a4c499e1ce167fcb1e05c887c8e17541a553
+title: H08OSN-PDF-ENG
+---
+## HBR / Digital Article / When You’re Overloaded—and Delegating Isn’t an Option
 
-A common place to ﬁnd low-value work is in information overﬂow.
+look after patients. She asked the nurse teams how their workload could
 
-Often a lot of information is shared that people don’t read or act upon.
+be reduced without compromising the care patients received. After
 
-Frans experienced this when he was CEO at a retail company, earlier in
+some in-depth discussion, they came up with the idea to stop using a
 
-his career. There was far too much reporting and communication, and
+100-question checklist that had to be ﬁlled out for each patient, and
 
-all of his leaders complained about it. He and his team decided to stop
+instead, only register irregularities. This led to a reduction of three to
 
-all reporting for the next month and then discuss what essentials were
-
-missing. As a result, the team was able to eliminate close to 40% of all
+four hours per team member per week and enabled the nurses to spend

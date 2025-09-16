@@ -1,3 +1,11 @@
-## The Scientiﬁc Revolution and a New Understanding of Cognition
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b7555c5c222d8b6db0d7f613349b686da39b5efe
+title: untitled
+---
+# 114 Cognition and Learning
 
-The Scientiﬁc Revolution marked a sharp, almost absolute, break in theories of cognition. It presented a new conception of the world: the world as a machine (Henry, 1997). Platonic metaphysical realism died. There were no external, transcen- dental standards by which to judge what was beautiful or just, or even what was a dog and what was a cat. The only reality was the material reality of particular things, and as a result the key cognitive relationship became the relationship be- tween a perceiver and the objects in the material world he perceives and classiﬁes, not the relationship between the ob- ject perceived and the Form it resembles. Aristotle’s percep- tual realism died, too, as scientists and philosophers imposed a veil of ideas between the perceiver and the world perceived. This veil of ideas was consciousness, and it created psychol- ogy as a discipline as well as a new set of problems in the philosophy and psychology of cognition.
+resembles the Form of the Dog. Moreover, Plato posited the existence of higher-level forms such as the Form of Beauty or the Form of the Good. Thus, not only is a cat a cat because it resembles the Form of the Cat, but a sculpture or painting is objectively beautiful because it resembles the Form of Beauty, and an action is objectively moral because it resem- bles the Form of the Good. For Plato, if I say that justice is the rule of the strong, I am in error, for tyranny does not resem- ble the Form of the Good. We act unjustly only to the extent our knowledge of the Good is imperfect.
+
+Premodern relativism and skepticism were not inconsis- tent with cognitive realism, because they rested on distrust of human thought, not sensation or perception. One might believe in the world of the Forms but despair of our ability to know them, at least while embodied in physical bodies. This was the message of Neoplatonism and the Christian thought it inﬂuenced. Sophists liked to argue both sides of an issue to show that human reason could not grasp enduring truth, but they did not distrust their senses. Likewise, the skeptics were wary of the human tendency to jump to conclusions and taught that to be happy one should not commit oneself whole- heartedly to any belief, but they did not doubt the truth of individual sensations.

@@ -1,19 +1,15 @@
-## experimental study." Econometrica 69(5): 1193-1235.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 937d47bae8e292ee506c7f1ba8decf9e003864fa
+title: behavioral_economics_1
+---
+# College.
 
-Coy, P. (2005). Why Logic Often Takes A Backseat BusinessWeek. March 28, 2005.
+Conlin, M., T. O’Donoghue and T. Vogelsang (2005). Projection bias in catalog orders, Cornell University.
 
-Crawford, V. P. (1997). Theory and experiment in the analysis of strategic interaction. Advances in economics
+Conlisk, J. (1996). "Why Bounded Rationality?" Journal of Economic Literature 34(2): 669-700.
 
-and econometrics: Theory and applications. D. Kreps and K. Wallis. Cambridge, Cambridge University
+38
 
-Press: 1-52.
-
-Debondt, W. F. M. and R. Thaler (1985). "Does the Stock-Market Overreact." Journal of Finance 40(3): 793-
-
-805.
-
-Degeorge, F., J. Patel and R. Zeckhauser (1999). "Earnings Management to Exceed Thresholds." Journal of
-
-Business 72(1): 1-33.
-
-Della Vigna, S. and U. Malmendier (2005). "Paying Not To Go To The Gym." American Economic Review
+Costa-Gomes, M., V. P. Crawford and B. Broseta (2001). "Cognition and behavior in normal-form games: An

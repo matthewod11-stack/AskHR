@@ -1,7 +1,7 @@
-# Executive Summery
-
-This is the internship report based on my job that I had completed in Karnaphuli Group, a private
-
-well known organization under Business Development of Karnaphuli Group where I have been
-
-working from 2013 to till now. This report is the requirement of my MBA program, BRAC
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 9a2f99ac97532585fb04446f3d52d94ee44a9867
+title: internship_report
+---
+# (cid:32) (cid:32) (cid:32)

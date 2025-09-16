@@ -1,13 +1,21 @@
-## HBR / Magazine Article / The CEO of Kaspi.kz on Designing an Essential Superapp
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77dd87d49b92a40709ad4c6fa73d1135f9d8f8fc
+title: R2504A-PDF-ENG
+---
+## neutral sentiments about anything, our independent feedback teams
 
-See more HBR charts in Data & Visuals on HBR.org.
+follow up to solicit more information. At product meetings we often
 
-Getting that kind of feedback is how we chose to kill what most
+play the recordings from those calls. Picture it: 120 of Kaspi’s key people
 
-companies would have seen as a successful credit card line. Though
+listening intently as users describe exactly what they like and don’t like
 
-it accounted for a third of our proﬁts, it was NPS negative, which meant
+about our oﬀerings in their own words. It’s an eye-opening experience.
 
-the credit cards were improving our bottom line but not people’s lives.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Thus, we concluded it wasn’t a good long-term business for us and got
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

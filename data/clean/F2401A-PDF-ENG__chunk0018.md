@@ -1,15 +1,23 @@
-## from day one, presumably because of their deeper knowledge of and
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74a79b762b7e866364208d6007aa7609d500d7e3
+title: F2401A-PDF-ENG
+---
+## sharply after the ﬁrst few and virtually disappears after about a
 
-trust in their appointees. Looking at insider CEOs with less than a year’s
+dozen. “You can put on a show and generate an inﬁnite number
 
-experience on their company’s board—the case at most public ﬁrms—
+of candidates,” says coresearcher Greg Nagel, a professor at Middle
 
-the researchers found that the leaders of large family ﬁrms immediately
+Tennessee State University. “But it doesn’t result in better outcomes.”
 
-embarked on successful major corporate investments three times as
+In fact, the more that large family ﬁrms engaged in sweeping searches
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+and communicated about them to their shareholders, the worse their
 
-4
+subsequent cash-ﬂow performance was.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Empower new leaders from the start. It’s not just that large family ﬁrms
+
+appoint more-competent CEOs; they do more to support their eﬀorts

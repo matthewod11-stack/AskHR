@@ -1,5 +1,9 @@
-# the majority
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 4ca07fc9591f7a9a8925f9967944fb21b85c55c2
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Employee Reprimand
 
-(73.68%) of
-
-(2009), asserts that the employee reprimand should on improvement of work and employees potential great values the company, interest of the reprimand can also employees. Reprimands usually encourages employee perfomance(Reward, 2004). This influence implies that employee reprimand employee performance in Mukurwe-ini Dairy Ltd. The findings were as shown in Table 4.4.
+The first objective of the study was to establish influence of employee reprimand on the employee performance in Kenya. From the study findings; the respondents agreed that employee reprimand did influence employee performance while 26.32% were of contrary opinion. Gupta, C. B

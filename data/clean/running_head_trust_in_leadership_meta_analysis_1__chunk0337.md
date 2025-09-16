@@ -1,21 +1,27 @@
-# Paternalistic - Authoritarian
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 374c1d747227ac54bd40b7c896d93a83b3d5d166
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Paternalistic - Benevolence
 
 5
 
 1793
 
-- .41
+.67
 
-- .46
+.65
 
-- .35
+.69
 
-- .49
+.77
 
-.06
+.00
 
-45.94
+99.15
 
-- .56
+.76
 
-- .41
+.77

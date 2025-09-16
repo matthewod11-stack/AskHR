@@ -1,9 +1,15 @@
-## Language for International Business, 4(1), 1-14.
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: 1705f9589df89a6802c74a9703ffcfff73ffd73a
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+## Performance Improvement Quarterly, 7(2), 81-94.
 
-Hagen, M. S. (2012). Managerial Coaching: A Review of the Literature, Performance Improvement Quarterly, 24(4),
+Grant, A.M. (2011) Workplace, Executive and Life Coaching: An Annotated Bibliography from the Behavioural Science and Business Literature (1st Jan 2011), Coaching Psychology Unit, University of Sydney, Australia.
 
-17-39.
+Grant, A. M. & Cavanagh, M. J. (2004). Toward a profession of coaching : Sixty-five years of progress and
 
-Hamlin, R. G., Ellinger, A. D. and Beattie, R. S. (2006). Coaching at the heart of managerial effectiveness: A Cross-cultural study of managerial behaviours, Human Resource Development International, 9(3), 305-331.
+challenges for the future, International Journal of Evidence Based Coaching and Mentoring, 2(1), 1-16.
 
-Hargrove, R. (1995) Masterful Coaching. Extraordinary Results by Impacting People and the Way They Think and
+Guthery, D. & Lowe, B. (1992). Translation Problems in International marketing Research, The Journal of

@@ -1,5 +1,7 @@
-# Publications
-
-The European Psychologist was published under the auspices of the European Federation of Professional Psychologists Associations.
-
-The International Journal of Psychotherapy, associated with the European Association for Psychotherapy, was ﬁrst published in cooperation with Carfax Publishing; it is now independent.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c21ef3963d94009a3f4f6f270908cd31cb0b5b2d
+title: untitled
+---
+# Events

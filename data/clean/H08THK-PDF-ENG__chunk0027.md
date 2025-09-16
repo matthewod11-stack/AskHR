@@ -1,11 +1,15 @@
-# up considerable management time.
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2a430bcd5b8511b18dec91e0186db329b455df3
+title: H08THK-PDF-ENG
+---
+# HBR / Digital Article / Our Favorite Management Tips on Communicating Like a Leader
 
-If possible, let employees in on the options you’re considering, showing
+is incomplete or not what they want to hear. Be precise about what
 
-the logic behind your coming actions. This builds trust and helps
+you can say now and when you’ll say more, providing an overall
 
-mitigate the anxiety they may be feeling as they consider every
+timeline for the process. But avoid giving people running commentary
 
-combination of eventualities (including catastrophic ones). It also
-
-prevents them from feeling caught by surprise when you announce the
+as developments unfold; it can lead to unhelpful distractions and take

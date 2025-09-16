@@ -1,33 +1,13 @@
-## HBR / Digital Article / To Make Your Workplace Fairer, Take Charge of Its Norms
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b6f2a19efa1f92ff6bca9f977fe0c9d5f71cb14
+title: H08PFG-PDF-ENG
+---
+# the hour.
 
-Norms shape both individual and collective behaviors and serve
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-as symbols of organizational culture or “how we do things here.”
+1
 
-Employees pick up on these norms over time by noticing what people
-
-around them do and inferring what would be acceptable (e.g., “Is it
-
-okay to disagree publicly with colleagues?”). Being intentional about
-
-setting and collectively valuing norms is key to removing ambiguity
-
-for employees—and it’s especially critical for leaders in times of
-
-uncertainty and upheaval when employees need a North Star at work.
-
-Fostering a fundamental norm of fairness—where all employees play
-
-on a level ﬁeld where they can succeed, support is oﬀered equitably,
-
-and rewards are allocated justly—can create a virtuous cycle. As fairness
-
-breeds fairness, with employees reciprocating with higher productivity
-
-and a stronger commitment to their employers, fairness is a norm that
-
-builds on itself and grows stronger over time. Of course, the reverse is
-
-also true, and unfairness can lead to a self-perpetuating cycle with bad
-
-outcomes, which is why it’s crucial for leaders to foster the norm of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

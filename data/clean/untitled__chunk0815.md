@@ -1,5 +1,13 @@
-# The Theories of Bonds and of Connections
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 599310a081b20a7853288a25d762bced41e50ab5
+title: untitled
+---
+# Spearman’s Two-Factor Theory
 
-Theory of Bonds. Spearman’s theory was soon challenged and continues to be challenged today (e.g., Gardner, 1983; R. J. Sternberg, 1999b). One of Spearman’s chief critics was British psychologist Sir Godfrey Thomson, who accepted Spearman’s statistics but not his interpretation. Thomson (1939) argued that it is possible to have a general psychome- tric factor in the absence of any kind of general ability. In particular, he argued that g is a statistical reality but a psy- chological artifact. He suggested that the general factor might result from the working of an extremely large number of what he called bonds, all of which are sampled simultane- ously in intellectual tasks. Imagine, for example, that each of the intellectual tasks found in Spearman’s and others’ test batteries requires certain mental skills. If each test samples all of these mental skills, then their appearance will be per- fectly correlated with each other because they always co- occur. Thus, they will give the appearance of a single general factor when in fact they are multiple.
+Spearman (1904, 1927) proposed a two-factor theory of in- telligence, a theory that is still very much alive and well today (e.g., Brand, 1996; Jensen, 1998). The theory posits a general factor (g) common to all tasks requiring intelligence and one speciﬁc factor (s) unique to each different type of task. Thus, there are two types of factors rather than, strictly speaking, two factors.
 
-Although Thomson did not attempt to specify exactly what the bonds might be, it is not hard to speculate on what
+Spearman (1904) got this idea as a result of looking at data processed by a statistical technique of his own invention, namely, factor analysis, which attempts to identify latent sources of individual (or other) differences that underlie ob- served sources of variation in test performance. Spearman observed that when he factor-analyzed a correlation matrix, the two kinds of factors appeared—the general factor com- mon to all of the tests and the speciﬁc factors unique to each particular test.
+
+Spearman (1927) admitted to not being sure what the psy- chological basis of g is but suggested that it might be mental energy (a term that he never deﬁned very clearly). Whatever it was, it was a unitary and primary source of individual dif- ferences in intelligence-test performance.

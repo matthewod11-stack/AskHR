@@ -1,17 +1,17 @@
-## worsening of symptoms after physical or cognitive exertion), cognitive
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e354321387201cb85eab0075d1743382c8eddb0b
+title: H087FX-PDF-ENG
+---
+# Companies Have a Long Covid Problem
 
-impairment (such as problems with memory, focus, or comprehension),
+As of March 2024, 6.9% of U.S. adults — 17.8 million people — have
 
-pain, and neurological and sleep issues. Long Covid disproportionately
+long Covid, a multisystem illness that sometimes appears after bouts
 
-impacts women — about 63% of patients are female. There are no
+of Covid-19. Its wide range of symptoms vary from person to person,
 
-oﬃcial treatments for the illness; while some people see their symptoms
+range from mild to severe, and can wax and wane over time. The
 
-resolve, others remain chronically ill.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+most common include severe fatigue, post-exertional malaise (PEM, a

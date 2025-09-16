@@ -1,47 +1,37 @@
-## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e058de26cdc317b4bcd8e36d6b8166b28ccbb75
+title: S24042-PDF-ENG
+---
+## gain momentum and signal to audiences inside and outside the
 
-you need to prioritize, choose just a few of their most critical demands,
+organization the direction they plan to take. That approach allows you
 
-and attend to them well.
+not only to demonstrate how and where you’ll focus your energies but
 
-One new CEO we worked with was swamped by the sheer volume of
+also to develop a track record that gets stakeholders on your side. It
 
-requests that she received after stepping into the job. Each issue was
+gives you a chance to notch a few early successes while building a
 
-described to her as the most important and urgent matter she had to
+foundation for the larger strategic moves you’ll eventually make.
 
-contend with. As she took stock of it all, she felt overwhelmed: What
+How do you decide what to focus on ﬁrst? From day one you’ll ﬁnd
 
-was truly important and urgent? When we began working with her not
+yourself besieged with requests from multiple groups, all expressed
 
-long afterward, we found her struggling to treat all requests equally.
+with the highest degree of urgency, and as you try to build trust and
 
-That approach, we told her, was a recipe for inaction and failure. To
+generate support, you’ll naturally feel pressured to address them all.
 
-help her move beyond that impasse we sat down with her, mapped
+Resist that impulse, which will put you on the fast track to failure.
 
-out all the requests she’d received across the stakeholder landscape,
+Instead, learn to say no to most requests, no matter how exciting they
 
-and then worked with her to identify three primary and ﬁve secondary
+might seem. Start small and be methodical. Identify which stakeholders
 
-stakeholders whose issues she felt she could successfully respond to
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-with a small set of early signature moves—each of which she knew
+6
 
-would earn the stakeholders’ conﬁdence. The process allowed her to
-
-be proactive rather than reactive: By focusing strategically on the few
-
-rather than trying to respond to everyone, she was able to act with
-
-purpose, communicate clearly, and gather feedback that would help her
-
-make subsequent moves.
-
-Start small and be methodical. Identify which stakeholders you need to prioritize, choose just a few of their most critical demands, and attend to them well.
-
-In a well-run succession process, new CEOs will be set up for early
-
-wins by their predecessors. In one situation we were involved with, the
-
-outgoing CEO had recently acquired a business and deliberately left
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

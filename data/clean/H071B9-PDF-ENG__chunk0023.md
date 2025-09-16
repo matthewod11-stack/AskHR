@@ -1,23 +1,23 @@
-## HBR / Digital Article / When Trust Takes Away from Effective Collaboration
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c35b499321e376ed10c5619b4d93e904436f66a9
+title: H071B9-PDF-ENG
+---
+## consistent proof of competence, benevolence, and integrity. This
 
-experience of, we intuitively feel trust. If the new person is different,
+kind of trust takes a long time to build and is easily broken.
 
-we feel distrust. The greater the difference, the more distrust. This
+- 2. More broadly, trust describes the intuitive and immediate feeling we
 
-kind of trust is closely linked to unconscious bias and has nothing to
+get when we interact with another person, especially new
 
-do with the new person’s competence or the quality of the
+individuals. This feeling is based on past experience: If the new
 
-information they bring to the table.
+person looks, sounds, and acts like people we’ve had a positive
 
-Problems arise when our intuitive feeling of distrust makes us more
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-doubtful of the information brought by new individuals who haven’t
+3
 
-had time to prove their trustworthiness. This puts us at risk of
-
-undervaluing important information that’s communicated by someone
-
-new and overvaluing other information. Since new individuals often
-
-possess crucial information, this can be detrimental to transformation
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

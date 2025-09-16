@@ -1,9 +1,19 @@
-## project-based work and the need for more ﬂexible job descriptions
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9b793998786ce1d7a4030fcb8fd19aa88356f75
+title: H07TI0-PDF-ENG
+---
+## of the job and details such as job classiﬁcation (exempt or non-exempt)
 
-will continue. This radical disruption requires a shift in mindset and
+can help here. Also, monitor employee tasks, responsibilities, and
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+actual working hours to ensure that they align with labor guidelines;
 
-6
+depending on your circumstances, this could be a periodic review or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+meticulous record-keeping enabled by modern HR software.
+
+As organizations become more agile and responsive and technology
+
+enables new forms of work in the coming years, the trend towards

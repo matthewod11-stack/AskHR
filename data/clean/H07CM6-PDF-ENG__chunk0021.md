@@ -1,11 +1,31 @@
-## The fourth center of intelligence, the spirit, refers to the wider
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59affaf49680cf10d58fbe5ceec5d85bfbe53162
+title: H07CM6-PDF-ENG
+---
+# value in most corporate environments.
 
-perspective that emerges when leaders ﬁnd the right balance between
+Andrew K., for example, is a senior leader who measured himself
 
-taking care of their own needs, and taking care of others.
+almost exclusively based on his company’s bottom line. He felt safe
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+and comfortable in the objective world of numbers. Awakening the
 
-5
+intelligence of his heart began with his willingness to explore the fears
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and discomfort that arose when he turned his attention to what he was
+
+feeling, and how he aﬀected others.
+
+Over time, Andrew discovered that he had been holding his desire for
+
+more human connection at a distance, believing that it would make him
+
+more vulnerable, and get in the way of his external goals. As he allowed
+
+himself to have more personal relationships with colleagues, he also
+
+found that collaboration with them became easier, and that conﬂicts got
+
+resolved more rapidly.

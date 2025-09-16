@@ -1,17 +1,21 @@
-## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c94bac43d674c9919d4f908234809061f4783877
+title: H07ZZW-PDF-ENG
+---
+# new world.
 
-organizational values are robust. Ethics is a process that must involve
+Traditionally, many consumer-facing brands have attempted to address
 
-everyone, from the C-suite to frontline employees.
+social issues by setting up high-level, cross-functional task forces. But
 
-Consider Dutch bank Rabobank’s dynamic approach to ethical
+ethical and social concerns are converging so swiftly that businesses
 
-challenges. Its Global Ethics Committee, which includes young
+need to establish an active consultative process to ensure that their
 
-employees, considers the ethics surrounding emerging issues such as
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-AI and cryptocurrencies and sustainability dilemmas such as whether to
+12
 
-source solar panels from Xinjiang. “Every employee can raise a question
-
-or ethical dilemma,” explains Francoise Rost, Rabobank’s senior ethics
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,1 +1,11 @@
-# BOX 7.1
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 2125cc1403bb3b38b979e31f9b232664f99ad1d8
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 7 • Implementing a Performance Management System 175
+
+management appeals process for employees at the University of North Carolina.8 The appeals process is intended to air concerns and to resolve disagreements. The purpose of this specific policy is to provide employees and management with a means for resolving disagreements involving performance evaluations and performance pay issues.
+
+The information shown in the box describing the appeals process at the University of North Carolina spells out the steps involved, the time line that should be followed, and the various outcomes that could be expected. Given that such a policy is in place, employees are given assurances that, if there is an appeal, the case will be treated fairly and as objectively as possible. Once again, this should help gain support for the performance management system.

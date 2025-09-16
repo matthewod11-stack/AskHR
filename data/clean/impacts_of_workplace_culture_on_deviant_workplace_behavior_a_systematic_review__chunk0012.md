@@ -1,1 +1,15 @@
-# 3
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: ae6b1219a977d50fa64481c21e134c81f20cd544
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# that
+
+dark personality qualities appear to operate in an envi- ronment that provides them with freedom and access to resources, while retaining a minimal level of organiza- tional structure and control in order to achieve their self- serving objectives. Such a work environment incorpo- rates employee and management selection processes that are disorganized or politically motivated, has an absence of anti-fraud mechanisms, and has an organizational cul- ture that tolerates negative interpersonal behavior.
+
+The above findings are linked to what represents unethical and ethical work ethos. Based on Victor and Cullen (1987), the agreed viewpoints on what constitutes ethical behavior and how ethical concerns should be addressed inside the organization are referred to as the ethical climate of an organization. On the surface, the notion of organizational climate and its cultural equiva- lent are different, but from a practical standpoint, they overlap (Ng & Ng, 2014). The current literature is not unanimous on what organizational culture and climate are, or how these concepts should be operationally mea- sured (Shim, 2014).
+
+Nevertheless, it has been proposed that the ethical climate of an organization is not limited to employees’ ethical behavior, but also to a variety of behaviors, including behaviors that are detrimental for example tardiness, absenteeism, and lax performance (Wimbush & Shepard, 1994). Kagaari (2011) had earlier con- firmed that organizational culture and climate have a moderating effect on performance management tech- niques and managed performance. It appears that the ethical climate of an organization will dictate work- place culture, and in turn have an effect on deviant behavior in a workplace. We are of the opinion that ethical climate of an organization which relates to workplace culture may be predictive of both ethical behavior in addition to the frequency of deviant work- place behaviors. This would seem to further provide support for the possibility that workplace culture may have an impact on deviant behavior in the workplace.
+
+Every aspect of human life has changed after the glo- bal COVID-19 pandemic breakout in March 2020, and recent studies indicate that criminal and aggressive beha- vior may also have been impacted (Regalado et al., 2022). The temporary closure of establishments reduced the number of individuals in public settings, hence reduc- ing opportunities for social interaction. This decrease in social interaction therefore affected people’s propensity to commit various deviant behaviors, such as physical altercations or DUI-related car accidents (Calderon- Anyosa & Kaufman, 2021; Gerell et al., 2020). Crime sta- tistic comparisons for 2020 and 2021 showed a marked decrease in violent and property crime incidents. For example a 19.3% decrease for Malaysia (Department of Statistics Malaysia, 2022).

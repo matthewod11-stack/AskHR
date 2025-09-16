@@ -1,23 +1,13 @@
-## HBR / Digital Article / New Research on How Layoffs Affect the Labor Market
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e10b6ffbb94d7df2916f676283d98d528d17a670
+title: H08TPS-PDF-ENG
+---
+## ﬂexibility in the face of macroeconomic uncertainty. Yet these
 
-employment cuts can have devastating consequences on workers and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-cause lingering damage to the labor market at large.
+1
 
-In new research, we studied the spillover impacts that corporate job-
-
-cutting during a recession can have on employees’ long-term economic
-
-well-being and the labor markets in which they reside—and what
-
-corporate leaders and policymakers can do to mitigate such eﬀects.
-
-We found that concentrated bursts of employment cuts amplify the
-
-negative worker consequences of layoﬀs—and they can help explain
-
-why job loss during recessions is particularly devastating for labor
-
-markets. Our work suggests that it would be valuable for ﬁrms and
-
-policymakers to work together to retain workers in the midst of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

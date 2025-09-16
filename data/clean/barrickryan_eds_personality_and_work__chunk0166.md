@@ -1,5 +1,15 @@
-# THE HAPPY WORKER 43
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: d03698d2650d36739869cd157c456c8a752daa8a
+title: barrickryan_eds_personality_and_work
+---
+# 42 PERSONALITY AND WORK
 
-helping behavior. Is it possible that happiness can lead to feelings of sociability, helpfulness, and cooperation and to arrogance and insubordination? We do not believe (and have found no evidence) that happiness in any form is likely to lead to these more hostile forms of self-conﬁdence. In fact, in experience sampling studies, we found that when people are feeling happy, they are likely to feel both more assertive and more affectionate (Lucas, 2000).
+- 1988) shows that positive mood can have a causal effect on the goals that one sets. Positive affect also inﬂuences feelings of efﬁ- cacy in speciﬁc tasks. Baron (1990) and Saavedra and Earley (1991) demonstrated that experimentally induced positive mood increases task-relevant feelings of self-efﬁcacy. Thus, positive affect seems to have a wide-ranging effect on conﬁdence, efﬁcacy, and self-esteem.
 
-Organizational research may provide a useful test of these ef- fects. Certain sales jobs, for example, require individuals to be so- ciable and friendly at the same time that they are trying to take advantage of the person to whom they are selling. Does positive af- fect make them appear more friendly at the same time that they are being more cunning (the appearance of helpfulness and co- operation), or does positive affect actually make sales associates more likely to give the buyer a better deal (actual helpfulness and cooperation)? Organizational settings can provide researchers with a unique opportunity to test these separable, and perhaps con- ﬂicting, effects of positive affect.
+Implications for Work and Productivity The idea that happiness can lead to greater feelings of conﬁdence along with increased motivation and persistence has been recog- nized as an important reason that happiness and productivity may be linked (George & Brief, 1992; Wright & Staw, 1999). If workers have greater self-conﬁdence, set higher goals, and pursue those goals more persistently, it seems almost inevitable that they will be more productive, a hypothesis that was supported in the meta- analysis by Sadri and Robertson (1993) on the association between self-efﬁcacy and performance. Yet these effects may depend on the extent to which the worker perceives his or her job as challenging. Self-conﬁdence should affect performance only where competence is in question or in jobs where high levels of competence are re- quired, and productivity in low-skill jobs may not beneﬁt from workers’ higher feelings of conﬁdence.
+
+Similarly, if employees do not perceive higher productivity as an important goal, no amount of happiness will make them ap- proach this goal. Thus, some researchers have suggested that hap- piness may affect performance only when there is a clear link between performance and external rewards such as pay (see Judge et al., 2001, for a review; see Stewart, 1996, for a similar argument about the moderators of the extraversion-performance relation- ship). Providing rewards for performance presumably allows em- ployees to see high performance as an important goal, and perhaps only in these circumstances will happiness affect productivity.
+
+Another possibility is that the increased self-conﬁdence asso- ciated with happiness may have negative consequences for pro- ductivity. In extreme forms, self-conﬁdence may lead to arrogance, dominance, competition, and insubordination. Ironically, these potential negative effects of happiness are exactly opposite those examined in the section on social relationships, cooperation, and

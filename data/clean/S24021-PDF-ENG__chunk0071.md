@@ -1,7 +1,13 @@
-## The Perils of an Unintegrated Growth Strategy
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61d35e5f5c51ac105a30e314b3d5700e282d7ae9
+title: S24021-PDF-ENG
+---
+## a company’s growth potential, the quality, talent, and mindset of its
 
-B.good, a quick-serve restaurant founded in 2004, offers a cautionary
+people are the most important. Great growth strategists realize that
 
-tale about the need to make rate, direction, and method choices in an
+sustained proﬁtable growth is never going to be easy, but without the
 
-integrated manner when crafting a growth strategy. As a case study by
+right human capital, it will be impossible.

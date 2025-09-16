@@ -1,13 +1,27 @@
-# CHARACTERISTIC FEATURES OF TECHNOPARK
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: d3fae9fa20b99a2b1954bf0d3330788ef76bd4f7
+title: issn_print_0976_013x
+---
+# improvement and
 
-Technopark provides a holis(cid:415)c and enabling ecosystem for the entrepreneurs as well as
+innova(cid:415)on”. No wonder, Technopark,
 
-established corpora(cid:415)ons. Characteris(cid:415)c features of Technopark are as under4:
+Thiruvananthapuram has evolved over the years as one of the ﬁnest industrial hubs especially
 
-- Most
+for the technology companies in the world. Interes(cid:415)ngly, the Technopark campus which is the
 
-lively IT Campus in India: Technopark has a sprawling campus that
+largest technological park in the country in terms of built-up area is also reputed as one of the
 
-accommodates 63000 IT/ITeS professionals. It oﬀers a rich and varied experience with
+“greenest technopolis”2 in the world thanks to architectural designs imbued with principles of
 
-several socio-cultural forums, events, and ini(cid:415)a(cid:415)ves. The en(cid:415)re campus boasts of great
+sustainability. Some of the top companies which have their oﬃces in Technopark include Aegis
+
+So(cid:332)ware, Allianz Cornhill, D+H, Envestnet, Ernst & Young, IBS So(cid:332)ware, Infosys, Navigant,
+
+Oracle, QUEST, RR Donnelly, Speridian Technologies, Suntec Business Solu(cid:415)ons, Tata Elxsi, TCS,
+
+Toonz Anima(cid:415)on, and UST Global. The Technopark has now expanded to accommodate more
+
+than 200 companies that employ a large por(cid:415)on of the IT workforce in Kerala3.

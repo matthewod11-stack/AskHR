@@ -1,25 +1,39 @@
-## ﬂexible-work framework, core collaboration hours, and a more generous
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6c861268b4e0664afdfe18d474d43d3eb2fd705
+title: R2403D-PDF-ENG
+---
+# proﬁt-sharing program.
 
-recognition program for in-house employees. The team looks at creative
+. . .
 
-compensation arrangements to bolster employees’ incentive to deliver
+Where does all this leave Marta? To start, she makes it a priority
 
-needed business outcomes. Marta also establishes a “give back” day
+to upskill her current managers so that they can better handle a
 
-each quarter at local high schools to strengthen employees’ connection
+blended workforce. She develops a manager playbook and a training
 
-with the company’s sports and ﬁtness purpose and to nourish their
+program that ensure that employment laws are observed and that
 
-desire to make a societal impact.
+teams comprising both employees and freelancers are engaged and
 
-She recognizes that none of her eﬀorts will bear fruit in a toxic work
+working well. She knows this won’t be easy. She acknowledges that
 
-environment. She decides to publish the results of her department’s
+many employees are increasingly reluctant to be available on demand,
 
-employee-sentiment survey. She adjusts key performance indicators to
+and she still has managers who lead through “command and control,”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+especially when a project is under stress.
 
-14
+Marta decides to enlist her management team to create an initiative
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to address those issues. Working with HR, the team identiﬁes pain
+
+points in the workplace and comes up with ways to keep core
+
+employees motivated, especially now that they are working side by
+
+side with freelancers who have full autonomy, great ﬂexibility, and
+
+higher pay. First steps include improved time-oﬀ policies, a clearer

@@ -1,13 +1,11 @@
-## development of America’s technology leadership.
+---
+source_path: H03LVO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54a14804b75b62fbdd4e6bda2a5bd703f7534657
+title: H03LVO-PDF-ENG
+---
+## of patents and a citation-adjusted measure of patent “quality”. That
 
-Migrant inventors may have an outsized inﬂuence on innovation for
+relationship isn’t necessarily causal, however our results provide
 
-two primary reasons. First, immigrant inventors like Nikola Tesla,
-
-who was born into a Serbian family, develop important ideas in
-
-their own right. Additionally, their insights may augment the skills of
-
-domestic inventors through collaboration. For example, in the 1940s
-
-Canadian immigrant James Hillier developed the ﬁrst commercially
+suggestive evidence that immigrant inventors played a key role in the

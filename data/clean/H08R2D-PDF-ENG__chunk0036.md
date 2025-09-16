@@ -1,13 +1,9 @@
-# success.
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e4b00ba2fdaa8f4f1a619f0eb757b126c1981cc
+title: H08R2D-PDF-ENG
+---
+## align with its business needs, and foster stronger engagement across its
 
-Beyond talent pipelines, stable companies can also foster long-term
-
-engagement by reimagining the employee value proposition—for
-
-example, by highlighting perks such as opportunities for horizontal
-
-rather than vertical mobility and focusing on job security, enabled by
-
-the reduced volatility of a low-growth strategy. This approach may be
-
-particularly appealing to younger workers, many of whom have spent
+workforce, has recently been expanded to new regions after its initial

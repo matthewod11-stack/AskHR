@@ -1,7 +1,9 @@
-# The Vinson Institute of
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2a55c5a985eb333174dbacb154b2fc8eaff4d46c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Employment Profile
 
-Government is one of several service units of the University of Georgia. The Governmental Services division provides technical assistance to municipal, county, and state government agencies. Within this division, assistance is provided primarily in human resource management.
-
-My position is primarily as a consultant. My clients are law
-
-r o h t u a
+Mark Foster, Ph.D. Senior Consultant Carl Vinson Institute of Government The University of Georgia

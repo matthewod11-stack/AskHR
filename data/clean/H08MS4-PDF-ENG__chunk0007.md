@@ -1,9 +1,15 @@
-# Two DEI Communications Challenges
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c205b3e972a8181117fe243b333396bbb981651
+title: H08MS4-PDF-ENG
+---
+# those policies matters just as much.
 
-The ﬁrst challenge is talking too much. Anti-DEI legal strategist Edward
+Based on our extensive work with corporations, ﬁrms, and nonproﬁts,
 
-Blum noted that a researcher at his organization “combs websites of
+we have identiﬁed two common DEI communications challenges,
 
-hundreds of ﬁrms looking for any evidence” of illegal DEI programs,
+best practices for communicating about DEI, and strategies for
 
-such as those that could violate federal antidiscrimination law. State
+disseminating those best practices throughout an organization.

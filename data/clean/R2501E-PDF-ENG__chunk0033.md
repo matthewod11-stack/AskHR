@@ -1,19 +1,9 @@
-## truly consumer-centric. In innovation his comparative advantage lay in
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c440e774f3f7ecbb48b020246f0930a809ec08cc
+title: R2501E-PDF-ENG
+---
+# a week meeting with potential donors.
 
-understanding the entire process by which consumer insights translate
-
-into successful commercial oﬀerings. He insisted on interacting
-
-personally with consumers and product innovators to observe
-
-consumers’ actual experience of a product and to provide advice
-
-on designing, communicating, and commercializing innovations. He
-
-recognized the need to source more outside invention to increase
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+A.G. knew that P&G had to amp up its innovation and return to being

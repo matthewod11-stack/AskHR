@@ -1,7 +1,17 @@
-## Before 2010, approximately 80% of independent ﬁlms (which typically
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec3d70a7e6733a3ce76f644c28a0b3029fa1f941
+title: R2404K-PDF-ENG
+---
+# content tiers.
 
-cost less than $2 million) were proﬁtable. The revenue-sharing and
+Hollywood executives and independent ﬁlm directors agree that the
 
-distribution models of streamers have dropped that number closer to
+industry’s innovation model is broken. The large studios, or “majors,”
 
-20%, according to a 2023 study by Naomi McDougall Jones and Liz
+have lost their edge, churning out lower risk but artistically redundant
+
+sequels and remakes. At the same time, the content arms of streaming
+
+services have crowded out many innovative independent ﬁlmmakers.

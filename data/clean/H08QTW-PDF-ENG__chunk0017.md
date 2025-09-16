@@ -1,23 +1,17 @@
-## HBR / Digital Article / How to Rescue a Failing Strategy
+---
+source_path: H08QTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 962ad6bc094c1465d1516166abe4421ac5632eea
+title: H08QTW-PDF-ENG
+---
+# best.
 
-to ﬁnd. For example, a $2 billion Silicon Valley-based technology
+Reducing customer churn and focusing on net retention revenue (NRR)
 
-service provider we worked with experienced a 10% improvement in
+should also be a priority, especially when new customers are hard
 
-renewal rates ($100 million NRR improvement) in one year by analyzing
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the lifetime value of customer segments, developing product bundles
+4
 
-speciﬁcally designed to appeal to each segment, and reconﬁguring
-
-incentives in its sales and service organizations. Using AI, companies
-
-can create models that identify customers that are at risk and create a
-
-“save desk” to intervene.
-
-Retention gains can be big, and they compound. If you pursue
-
-this course of action, you will likely be ahead of your competition:
-
-Our research shows that only 15% of companies deliver white-glove
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

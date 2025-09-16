@@ -1,9 +1,9 @@
-## Figure 10.5 Minnesota Satisfaction Questionnaire (short form)
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 08a42b81f8964159c50e4deac420aa3171a7065d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Very Sat.
 
-useful when an organization wants to measure the overall level of job satisfaction rather than specific aspects.
-
-Nagy () criticized many of the standard measures of job satisfaction because these measures ask only if employees are satisfied with a particular aspect of their job, but not how important that job aspect is to them. Recall from our previous discussion on discrepancy theories that people differ about what is
-
-employee satisfaction and commitment
-
-383
+Source: Minnesota Satisfaction Questionnaire (short form), copyright © 1967. Vocational Psychological Research, University of Minnesota. Used with permission.

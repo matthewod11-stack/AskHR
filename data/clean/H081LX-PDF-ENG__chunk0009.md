@@ -1,17 +1,17 @@
-# improvement and adaptability.
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5679b8b9f395ee1a2ea0e3a405137545064e6712
+title: H081LX-PDF-ENG
+---
+## credit for successes, and an appreciation for others’ contributions.
 
-However, the adage “too much of a good thing” can also apply when
+This leadership style is built on self-awareness, respect for others,
 
-it comes to humility. As I have seen in my work as an executive
+and a focus on collective over individual success. Research has shown
 
-coach for both top corporate leaders and those newly taking the reins,
+that humble leaders foster increased employee engagement, trust, and
 
-an overemphasis on humility can potentially diminish your perceived
+collaboration within their team. These leaders are seen as approachable
 
-authority. The challenge for leaders like Sunil lies in striking a delicate
-
-balance between modesty and assertiveness to be eﬀective. Here are
-
-three ways I’ve seen humility hinder a leader’s eﬀectiveness.
-
-- 1. You may be perceived as indecisive.
+and open to feedback, which encourages a culture of continuous

@@ -1,15 +1,23 @@
-## Coming Up Short on Nonfinancial Performance Measurement
+---
+source_path: R0311F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d575d7d3dd40c273bba838faa7b3280687a0fef7
+title: R0311F-PDF-ENG
+---
+# o o h c S
 
-It’s not uncommon for business units within the same company to use different methodologies to measure the same thing.
+s s e n i s u B
 
-Mistake Three: Not Setting the Right Performance Targets Outstanding nonfinancial performance is not always beneficial. Indeed, it often produces di- minishing or even negative economic re- turns—and again, most companies have no idea when they have achieved too much of a good thing.
+d r a v r a H 3 0 0 2 ©
 
-We studied one company in an unregulated segment of the telecommunications industry in which customers’ switching costs were mini- mal. To hold on to the customers it had, the company set its sights on achieving 100% satis- faction for every one of them. However, the company never attempted to discover whether a correlation actually existed between an indi- vidual customer’s level of satisfaction and the revenues and profits that customer generated. We discovered, in fact, that the expected rela- tionship did appear—but only up to a point. Customers who were 100% satisfied spent no more money than those who were only 80% satisfied. In short, getting to 100% required considerable investment, with little or no pay- back. Only by determining the level at which satisfaction ceases to contribute to revenue growth can a business know whether and how much to invest, at any given point, in trying to raise it.
+t h g i r y p o C
 
-Target setting is inherently difficult because it always takes awhile for improvements in a driver of corporate performance to produce improvements in the performance it’s meant to affect. Sometimes, efforts to improve nonfi- nancial measures can even damage short-term returns. However, if a company can reason- ably estimate when the nonfinancial perfor- mance improvements will pay off, and by how much, it can set lower interim financial goals, which can subsequently be adjusted upwards. Unfortunately, many companies don’t make the effort, preferring to focus on initiatives that promise short-term financial results even though other initiatives may have higher long- term payoffs.
+If companies can’t prove basic causality, they certainly can’t determine the relative im- portance of the measures they select. And not being able to weigh these measures makes it hard to allocate resources according to their most beneficial uses or to create meaningful incentive plans. For instance, does a dollar in- vested in product development yield higher re- turns than a dollar spent on customer reten- tion?
 
-Mistake Four: Measuring Incorrectly Finally, even companies that build a valid causal model and track the right elements can fall down when determining how to measure them. At least 70% of companies, we found, employ metrics that lack statistical validity
+In the absence of such knowledge, compa- nies in our study came up with various solu- tions for assigning relative weights to different measures. One of the simplest solutions was to give each performance measure equal weight. As one executive at a consumer electronics manufacturer put it, “It’s difficult to precisely assign weightings, so I just assume they are of equal importance.” But perhaps even more of- ten, managers base weightings purely on their assumptions about the measures’ strategic im- portance. Or they stress the measures that have become most fashionable in the business press or among consultants. Or, particularly when bonuses are at stake, they place greater weight on measures whose targets they know they can hit.
 
-and reliability. “Validity” refers to the extent to which a metric succeeds in capturing what it is supposed to capture, while “reliability” re- fers to the degree to which measurement tech- niques reveal actual performance changes and do not introduce errors of their own. For ex- ample, many companies attempt to assess ex- tremely complex performance dimensions using surveys containing only one or a few questions. The questions may offer respon- dents only a small number of scale points (for instance, 1 = low, and 5 = high). Many compa- nies then collapse these already simplified an- swers into crude binary scales (for example, customers are deemed satisfied if the score is 4 or 5, and dissatisfied if the score is 1 through 3). Although inexpensive to use and easy to understand, such simplistic surveys lack valid- ity and reliability and impair companies’ abil- ity to discern superior performance or predict financial results.
+harvard business review • november 2003
 
-Many companies also make the mistake of collecting data before deciding what they want to find out. By the time they have identified the level of analysis they want to undertake and the areas of performance they want to compare, the data have already been gathered and organized in a manner that renders the de- sired analyses impossible. For example, one studied management-consulting tracked customer satisfaction at the individual client level, but employee performance at only the regional level, and operational perfor- mance at only the project level, making it im- possible to determine how employee perfor- mance customers or project outcomes. Companies that don’t or can’t know in advance the correlations they want to ex- plore would do well to assign a unique identi- fying tag or code to each one of the smallest units measured.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+page 4

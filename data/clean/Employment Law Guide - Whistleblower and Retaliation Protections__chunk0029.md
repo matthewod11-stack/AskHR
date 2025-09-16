@@ -1,11 +1,11 @@
-# regulations.
+---
+source_path: Employment Law Guide - Whistleblower and Retaliation Protections.md
+pages: n/a-n/a
+chunk_id: db2e1c2ffba8a95117258cd2aa2c99a2b591a55c
+title: Employment Law Guide - Whistleblower and Retaliation Protections
+---
+## certain environmental laws or regulations.
 
-Under the Sarbanes-Oxley Act (SOX), as amended by the Dodd-Frank Wall Street Reform and Consumer
+Under the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century (AIR21), employees
 
-Protection Act of 2010, employees of certain publicly traded companies, companies with certain reporting
-
-requirements with the Securities and Exchange Commission (SEC), and their contractors, subcontractors, and agents may ﬁle complaints with OSHA if they believe that they have experienced discrimination or retaliation
-
-for reporting alleged violations of the Federal mail, wire, bank, or securities fraud statutes, any rule or
-
-regulation of the SEC, or any other provision of Federal law relating to fraud against shareholders.
+of air carriers and their contractors and subcontractors may ﬁle complaints with OSHA if they believe that they have experienced discrimination or retaliation for reporting alleged violations of Federal aviation safety laws or

@@ -1,31 +1,27 @@
-# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 432476cd74090ee614804a7e585cef7de77fb778
+title: R2403D-PDF-ENG
+---
+# Xan Padrón
 
-transform the company’s oﬀerings, processes, and data and security
+Marta, the CTO at a sporting goods company, scans her operating
 
-infrastructures, and her recruitment team has been unable to pry away
+metrics and ﬂinches at the continued “red” status of her team’s
 
-top professionals from tech ﬁrms, despite making generous oﬀers.
+technical capability. The board is concerned that upstart competition
 
-Taking stock, Marta (a composite character we’ve drawn from numerous
+is nibbling away at market share, so Marta is under intense pressure
 
-interviews) reluctantly acknowledges that she needs to tap the
+to help the company move faster to market by implementing more-
 
-freelancer market. She recognizes that this is not a stopgap measure
+sophisticated digital and conversational AI capabilities. But her in-
 
-and that a major shift in how work gets done is underway. But she has
+house talent lacks the deep expertise and experience necessary to
 
-qualms. How can she properly prepare her team for the issues this new
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-blended workforce will unleash?
+1
 
-At almost every company we talk with, managers are facing the same
-
-recruiting challenge. They simply do not have the talent they need
-
-in-house, and they’re unable to persuade highly skilled professionals
-
-to come on board full-time. As a result, companies are embracing the
-
-freelance model more than ever before. “To stay competitive in our
-
-manufacturing, digital, and veterinary services,” says Michele Cefola,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

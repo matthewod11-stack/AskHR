@@ -1,41 +1,57 @@
-## HBR / Magazine Article / Are You Really a Good Listener?
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c257b9209fefe0fd9cb75fe949a8cf704a2bb91f
+title: R2503N-PDF-ENG
+---
+# teams.
 
-always poorly received. Your ﬁrst job is to understand the message and
+But listening with haste can be worse than not listening at all. When
 
-intent of the speaker. Respond only after that job is done.
+you respond to people too quickly, they’re likely to feel frustrated,
 
-- 2. Defensiveness
+demeaned, or unimportant. And when you miss the message because
 
-When employees raise concerns or oﬀer critical feedback, defensiveness can be a natural, knee‑jerk reaction. For instance, James Clarke, the CEO of Clearlink, reportedly became defensive when responding to complaints about the company’s return-to-oﬃce policy, which abruptly
+you’re hurrying, you may also make decisions based on incomplete
 
-required all employees within 50 miles of headquarters to work on-site
+information, which can further demotivate your team.
 
-four days a week. Many people were surprised and upset, but instead of
+Good listening is a demanding task that takes time. In our work we’ve
 
-listening to them, Clarke lashed out, questioning the motives of those
+found that people feel heard only when listeners focus their attention,
 
-who disagreed with the policy, expressing doubt that working mothers
+demonstrate interest, and ensure that they’ve understood.
 
-could be productive, and—bizarrely—praising an employee who sold
+To avoid hasty responses, set aside adequate, distraction-free time for
 
-the family dog so that she could comply with the policy.
+conversations. This signals that you’re genuinely invested in hearing the
 
-A similar pattern can be seen in Owen’s response. Instead of validating
+other person’s perspective and helps ensure that nothing important gets
 
-employees’ worries, she responded defensively, telling people not to ask
+glossed over. If there are issues you can’t address in the moment, plan
 
-the question. Pichai’s shift to TGIF meetings that focus on product and
+another time to follow up.
 
-business strategy rather than other issues also reﬂects defensiveness.
+Though this approach may not apply in situations where you’re
 
-Such reactions are not just unproductive; they erode trust and morale.
+confronted, as Owen was, there are other ways to slow down and listen
 
-Employees who feel dismissed are more likely to disengage, which
+eﬀectively. One good strategy is to ask clarifying questions. Exploring
 
-weakens relationships and leads to poor organizational outcomes. By
+areas of ambiguity or seeking additional details will not only help you
 
-contrast, when listeners avoid being judgmental and instead express
+fully understand what you’re being told but also encourage people to be
 
-empathy, speakers are less anxious and thus better able to handle
+more thorough and transparent with you—because you’re showing that
 
-disagreement should it arise, according to research from Guy Itzchakov,
+you truly care about what they’re saying.
+
+Finally, resist the urge to interrupt. Research, including a study from
+
+Italy’s Second University of Naples, shows that interruptions are almost
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

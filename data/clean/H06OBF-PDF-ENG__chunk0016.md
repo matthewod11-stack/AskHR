@@ -1,15 +1,21 @@
-## demonstrate collaborative behavior themselves, for example, by
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dbdde4b8c1f01e60bc21ed4381019bbd039c7ece
+title: H06OBF-PDF-ENG
+---
+## more easily whenever a concrete need for collaboration arises.
 
-showing loyalty to the joint decisions made in the management team.
+Likewise, companies must pay attention to networking skills when
 
-As the above list shows, bridges by and large call upon the enlightened
+recruiting people, designing training programs, considering sideways
 
-benevolence of people in diﬀerent verticals. That may or may not
+career moves, and measuring and rewarding performance.
 
-work: While managers may genuinely acknowledge the beneﬁts of
+- Leadership. The eﬀectiveness of both hardwiring and softwiring
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+depends on the company’s leaders. They should have the skills
 
-3
+and incentives to collaborate, for example by having performance
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+indicators that measure the desired behaviors. They should

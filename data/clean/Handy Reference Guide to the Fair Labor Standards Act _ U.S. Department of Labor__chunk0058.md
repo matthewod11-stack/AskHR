@@ -1,17 +1,13 @@
-## Exemptions from Both Minimum Wage and Overtime Pay
+---
+source_path: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department
+  of Labor.md
+pages: n/a-n/a
+chunk_id: 8ea30dc37f1c30dff2f98138af1ebefef96cb77e
+title: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department of
+  Labor
+---
+# Some employees are exempt from the overtime pay provisions or both the minimum wage and overtime pay provisions.
 
-- 1. Executive, administrative, and professional employees (including teachers and academic administrative personnel in
+Because exemptions are generally narrowly defined under the FLSA, an employer should carefully check the exact terms and conditions for each. Detailed information is available from local WHD o(cid:211)ices.
 
-elementary and secondary schools), outside sales employees, and employees in certain computer-related occupations (as
-
-defined in DOL regulations);
-
-- 2. Employees of certain seasonal amusement or recreational establishments, employees of certain small newspapers, seamen
-
-employed on foreign vessels, employees engaged in fishing operations, and employees engaged in newspaper delivery;
-
-- 3. Farmworkers employed by anyone who used no more than 500 “man-days” of farm labor in any calendar quarter of the
-
-preceding calendar year;
-
-- 4. Casual babysitters and persons employed as companions to the elderly or infirm.
+Following are examples of exemptions which are illustrative, but not all-inclusive. These examples do not define the conditions for each exemption.

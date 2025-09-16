@@ -1,9 +1,19 @@
-# as Dell Technologies.
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b95215f7357709eb2b980787715d30dd8a3f564
+title: H088S2-PDF-ENG
+---
+# organization.
 
-As we describe in our recent HBR article, Michael Dell has embedded
+Take the remarkable evolution of Dell Technologies. When Michael Dell,
 
-transformation into his company’s operating rhythm. Following the
+in collaboration with Silver Lake Partners, took his company private in
 
-privatization, the executive leadership team (ELT) instituted the
+2013, he recognized the imperative for broad-based transformation. This
 
-Dell Management Model (DMM), supplanting the existing strategic
+decision came at a time when many were predicting the “death of the
+
+PC.” Proving these skeptics wrong necessitated the transformation of
+
+Dell Computer into an enterprise technology powerhouse, known today

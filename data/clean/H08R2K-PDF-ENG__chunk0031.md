@@ -1,13 +1,29 @@
-## these stress zones correlate with operational data that they already
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7fcb3e2d73f7bf1f36674aa0b5908b766c1cc00
+title: H08R2K-PDF-ENG
+---
+# workforce.
 
-track, including revenue, compliance failures, and client satisfaction.
+- High zone: Stress is continual or severe enough to aﬀect employees
 
-This involves comparing patterns to see whether particular departments
+chronically, making risks likely. Employees report feeling stressed
 
-experience higher stress and also have more errors or declining
+“frequently” or “all the time.” This group represents a crisis zone with
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+compounding costs and operational vulnerabilities. Compared to low-
 
-5
+stress peers, these employees take 8 times more sick days, are 3.7 times
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+more likely to consider leaving, 4 times more likely to be disengaged,
+
+11 times more likely to make compliance-related mistakes, 2.5 times
+
+more likely to ﬁle health claims, and 7 times more likely to report
+
+interpersonal conﬂict with their colleagues. Our data suggests that this
+
+group makes up about 45% of the workforce.
+
+After seeing where their workforce falls, companies can analyze how

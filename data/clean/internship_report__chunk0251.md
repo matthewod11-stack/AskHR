@@ -1,11 +1,9 @@
-# III.(cid:32) Employee Salary Payments
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 136aee7cfc551c6185a4dd45d055841a2b39b45d
+title: internship_report
+---
+# and father.
 
-Monthly salary will be credited to staffs‟ respective bank account, less any deductions such as
-
-Income Tax, Provident Fund/Gratuity Contributions etc. If the first day of the month is a
-
-weekly/public holiday, the salary payday shall be the preceding day. All income tax deductions
-
-will be in accordance with the regulatory requirements. Each month employee will receive a pay
-
-statement detailing Gross Pay and deductions.
+b. Staff has to submit a sufficient paper to prove of such need (If possible).

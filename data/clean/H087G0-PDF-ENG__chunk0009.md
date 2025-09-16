@@ -1,17 +1,27 @@
-## rates of workplace bullying and stigmatization of disabled people.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef31d06fbc1572381d5f6ad08e7c7e96eaf78af1
+title: H087G0-PDF-ENG
+---
+# projects.
 
-(Note: disability communities generally favor identity-ﬁrst language.)
+However, even though Ali contributed extra work and ensured his
 
-As an autistic woman (misdiagnosed, like many, with depression for
+output was impeccable, coworkers began to make snide remarks,
 
-much of my life), I’ve navigated various disclosure options and fear
+perhaps resenting that they had to travel while he did not. When a new
 
-of mental health stigma for over 25 years while also encountering
+department head came in, colleagues upped their complaints about Ali
 
-additional, more physical challenges. In most work settings I haven’t
+being a “ﬂake,” and when he disclosed his illness to the new manager,
 
-disclosed or asked for accommodations, relying instead on job matching
+he was met with a suspicion of faking it. The additional stress caused
 
-and job crafting to use my strengths to excel. Successful matching
+Ali’s health issues to ﬂare and he was ultimately forced to resign.
 
-meant that I faced misalignment between my work and abilities
+Unfortunately, research indicates it’s not rare for a disability disclosure
+
+to lead to accusations of faking and other negative attitudes, both
+
+conscious and unconscious. Many studies have also documented high

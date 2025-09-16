@@ -1,21 +1,17 @@
-## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdbfb3c8f607f18632d5ed70e93bd1a97ce429a7
+title: F2502A-PDF-ENG
+---
+# their physical and emotional health.
 
-department at the University of Lausanne who is the lead author of the
+“Reallocating time savings requires people to track when they’re saving
 
-study. Only once they have a good idea of how much they’ve gained
+time,” says Isabelle Engeler, an associate professor in the marketing
 
-can they decide how to beneﬁt from it, she argues. “Unfortunately,” she
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-notes, “many people don’t immediately notice it.” That was true for 37%
+2
 
-of the managers in the study who said that AI had saved them time.
-
-To optimize AI-related time savings, Engeler suggests, managers should
-
-take these four steps:
-
-Be strategic. Focus on gathering information on how much time gets
-
-shaved oﬀ the tasks for which the most signiﬁcant beneﬁts are expected.
-
-But don’t start doing that with too large a group of people; begin with a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

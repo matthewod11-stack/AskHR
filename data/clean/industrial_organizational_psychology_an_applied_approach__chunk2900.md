@@ -1,45 +1,51 @@
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3abfeb7c3653a5d3ed476f8c20cb9adc77338dca
+title: industrial_organizational_psychology_an_applied_approach
+---
 # Humane Autonomous
 
-−1.39
+4.77
 
-−0.36
+3.86
 
-−0.05
+0.38 4.24
 
-0.71
+0.45 3.70
 
-−0.16
+4.75
 
-0.67
+4.18
 
-0.08
+4.71
 
-−0.38
+4.16
 
-0.82
+4.80
 
-−0.09
+3.69
 
-2.39
+5.08
 
-0.29
+3.82
 
-0.21
+5.68
 
-−0.40
+3.99
 
-1.18
+4.85
 
-−0.38
+3.68
 
-0.71
+5.22
 
-0.38
+3.69
 
-−0.47
+5.04
 
-0.24
+4.03
 
-involves getting the opinions and help of others. An autonomous style involves being independent and individualistic and making one’s own decisions.
+4.59
 
-Project GLOBE researchers found that the ten culture clusters differed on the six main leadership styles. For example, compared with other clusters, lead- ers from countries in the Anglo cluster are more self-protective and participative, leaders from countries in the Nordic Europe cluster are more participative and less self-protective, and leaders from the Southern Asia cluster are more humane and less participative.
+3.97

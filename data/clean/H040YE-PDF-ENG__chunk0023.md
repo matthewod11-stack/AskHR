@@ -1,15 +1,27 @@
-# HBR / Digital Article / What the Data Tells Us About Immigrant Executives in the U.S.
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3dba483bf16e587cd4dabc99660e79dfbfc7fa80
+title: H040YE-PDF-ENG
+---
+# top universities.
 
-Healthcare appears as the main sector of employment for executives (ca.
+Where do they work?
 
-27% or 965) trained in the EU and Europe more broadly. While a
+IT and healthcare are the two sectors with the highest concentration of
 
-concentration of immigrant executive talent in the IT sector can be
+foreign-trained executives of all ethnicities. Consumer Products and
 
-explained by higher level of internationalization (foreign investment and
+Banking and Finance are two other major concentration industries.
 
-export) in this sector, their concentration in healthcare can be explained
+About 42% (or 61) of executives who received their training in the
 
-by the growth in demand for all types of talent in this sector globally.
+Caribbean are employed in the Health sector; whereas 45% (or 328) of
 
-Further research will be required to gain insights into the performance of
+executives trained in the Middle East are employed in the IT sector.
+
+Copyright © 2017 Harvard Business School Publishing Corporation. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

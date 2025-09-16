@@ -1,17 +1,17 @@
-# management earnings guidance.
+---
+source_path: H052Q1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56e828c0e1c8bde5bcd4f19093bd0ecb915ae8f0
+title: H052Q1-PDF-ENG
+---
+## volume, restricted price movement, and inconsistent analyst forecasts.
 
-If this makes you think about hiring an interpreter, think again.
+To assess the economic signiﬁcance of these effects, we benchmarked them
 
-Interpreters rarely have the level of understanding about business
+against the effects of issuing management earnings guidance, another
 
-fundamentals that executives have, which means much of the information
+important disclosure event for ﬁrms. And what we found was remarkable:
 
-in a call gets lost in translation. The data seems to bear this out: Calls that
+If you lower your linguistic complexity by one standard deviation, you can
 
-used interpreters showed higher levels of linguistic complexity than those
-
-Copyright © 2019 Harvard Business School Publishing Corporation. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+achieve a greater uptick in trading volume than you can by issuing

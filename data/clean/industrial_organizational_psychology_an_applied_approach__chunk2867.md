@@ -1,3 +1,11 @@
-# about the concept of leadership. Leader-
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e07a501616509c8a56d892236bab54bdc2569ca0
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Employment Profile
 
-ship is one of those key compe- tencies that differentiate great organizations from good orga- nizations. Because a successful organization must grow and develop leaders, it is imperative that it determine what behav- iors and actions are associated with leadership. Leadership is about coping with and driving change, setting direction by developing a vision for the future, aligning people with the vision, and creating strate- gies for producing the changes needed to achieve the vision.
+Devon Bryan, M.A. Senior Manager, Human Resources, Avon Products, Inc.
+
+Much has been written

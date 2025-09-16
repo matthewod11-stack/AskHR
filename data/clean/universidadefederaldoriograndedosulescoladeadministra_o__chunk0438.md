@@ -1,9 +1,7 @@
-## É importante frisar que a resposta individual de cada funcionário é totalmente
-
-confidencial e, sob hipótese alguma, é divulgada. No caso da empresa X, apenas as
-
-pessoas do time de Pesquisa especificamente têm acesso à base identificada
-
-dessas respostas e todos trabalham sob termos estritos de confidencialidade. Este
-
-detalhe garante que se construa a relação de confiança entre as pessoas
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: fbcf2a1a2ec5251768bda1c748009c0e6e8a8558
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## cruzamento com demais variáveis depois, na etapa de análise.

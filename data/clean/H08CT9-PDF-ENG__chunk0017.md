@@ -1,7 +1,13 @@
-# the progress of a transformation.
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97369833a90cdc966b825b51db8c07b8b0f0fb73
+title: H08CT9-PDF-ENG
+---
+## Emotional energy refers to the collective mood, vibe, and intensity of
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+emotions within a group. Changes in a group’s emotional energy are
 
-3
+serious and are often a signal of an issue that could require a turning
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+point. The below chart shows how emotional energy can track against

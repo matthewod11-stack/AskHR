@@ -1,23 +1,21 @@
-## Create a System for Continuous Improvement and Innovation
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ccb55866c64198173975a596d176390fed8f8cc3
+title: S24051-PDF-ENG
+---
+## client experience, capability building, work-life sustainability, or skills
 
-The idea of continuous improvement is hardly novel. What is fresh,
+acquisition. Then build digital systems to track those metrics with as
 
-however, is that teams today have new forms of technology and data
+little disruption as possible to teams’ day-to-day work. Finally, use those
 
-collection at their disposal to help them self-correct while projects are
+systems to learn what combinations of inputs lead to better outcomes.
 
-underway. At McKinsey, team leaders have access to all the metrics
+At McKinsey, success is delivering results for our clients. The signals
 
-collected and can use them to track progress and assess feedback in
+that point the way to this outcome are client and team sentiment, and
 
-real time. On the basis of this data, they can—and are expected to
+the inputs are the WWW practices, measured through the team survey.
 
-—make improvements. We empower our middle managers to make
-
-changes and to run their own experiments. For example, depending
-
-on where they are in the course of a project, or depending on changes
-
-in team-sentiment data, they might decide to modify their colocation
-
-model from being in-person every other week to being in-person for two
+[ 3 ]

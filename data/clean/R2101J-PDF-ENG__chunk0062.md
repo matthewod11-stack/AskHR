@@ -1,16 +1,22 @@
-# Consumer discretionary
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bcb3a4a1f57e719721ff0bbb98bd9c630a11b076
+title: R2101J-PDF-ENG
+---
+# Real estate
 
-82
+83
 
-18
+17
 
 70
 
 30
 
-57
+58
 
-43
+42
 
 70
 

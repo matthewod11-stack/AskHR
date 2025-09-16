@@ -1,19 +1,21 @@
-## HBR / Magazine Article / How Project Leaders Can Tame Unpredictability
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d7f3daf43b910d945c6d3ed25e91a14dfe45e23
+title: R2501K-PDF-ENG
+---
+# large investment.
 
-the initiative: Drivers wanted a selection of styles to choose from (some
+So Kirsten printed a small run of shirts and collaborated with one
 
-wanted T-shirts; others, polos), and all the drivers needed double the
+transport provider in her company’s largest geographic region to get
 
-number of shirts initially provided. The test also revealed guidelines
+a commitment that its 15 drivers would wear the shirts at work every
 
-for usage that had to be hammered out, including pickup and drop-oﬀ
+day for a month. This slice allowed her to gather valuable insights about
 
-locations, laundry services, and what to do when substitute drivers
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-ﬁlled in or routes changed. And she learned that the material chosen
+3
 
-for the shirts was not suitable for long-term use (many shirts looked
-
-worn out very quickly). Most important, through customer surveys she
-
-conﬁrmed that the eﬀort had led to a small but measurable increase in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

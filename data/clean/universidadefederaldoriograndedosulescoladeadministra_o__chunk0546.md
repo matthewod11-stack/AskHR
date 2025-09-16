@@ -1,13 +1,9 @@
-## As próximas questões apresentaram resultados majoritariamente negativos.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: add082b1bde5b50b101de1f28734801cbdb34884
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## mais ágil, o que, consequentemente, permite que se aplique com maior recorrência
 
-No entanto, quando focamos nas percepções que os respondentes compartilham a
-
-respeito de receberem informes dos resultados das pesquisas, temos 72,3% de
-
-favorabilidade ("concordo" e "concordo totalmente"), conforme a figura 29, resultado
-
-muito próximo, mas ainda maior que o dos líderes nesta mesma questão (66,6%).
-
-70
-
-Figura 29: Respostas à pergunta "Seu líder costuma reservar um tempo para apresentar os
+do que usualmente se faz com as pesquisas de clima organizacional tradicionais.

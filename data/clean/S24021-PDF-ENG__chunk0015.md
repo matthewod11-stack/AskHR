@@ -1,7 +1,9 @@
-## Perils of an Unintegrated Growth Strategy.”) My rate-direction-method
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32929a8bc413adcc9a7a23511ba5a677b32bb3de
+title: S24021-PDF-ENG
+---
+## in concert with a company’s overall business strategy, its capabilities
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and culture, and external market dynamics. (See the sidebar “The

@@ -1,17 +1,15 @@
-# Four Crucial Questions
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cfe8e6edb89f829fc4006a9e77ac058aea47e4a
+title: R2302D-PDF-ENG
+---
+# consequences?
 
-Many executive teams have begun that process by engaging in a
+It’s likely to be years before we have enough data to provide useful
 
-conversation acknowledging that their company is unique, that no one-
+answers to such questions. But leaders can’t just sit back and wait until
 
-size-ﬁts-all solution exists, and that determining what’s right is going to
+everything has been ﬁgured out. They need to develop a strategy for
 
-be a long and arduous process. Those conversations have gone in many diﬀerent directions, depending on the companies’ needs and goals, but
-
-what I’ve learned in talking to leaders involved in the process is this:
-
-Every executive team must ask four crucial questions as it thinks about
-
-how best to deal with the ongoing transition to hybrid work.
-
-- 1. What are our overarching values and principles? This question,
+navigating the long period of uncertainty that lies ahead.

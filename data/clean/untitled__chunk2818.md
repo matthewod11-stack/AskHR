@@ -1,19 +1,11 @@
-## The Société Francaise de Psychologie was founded.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 73d4f9c264e2d242eb01ffb94ae408b410452001
+title: untitled
+---
+# Societies
 
-1890
+The American Psychological Association was organized in the study of G. Stanley Hall at Clark University.
 
-1892
-
-1893
-
-1894
-
-1895
-
-1896
-
-1898
-
-1900
-
-1901
+The British Psychological Society (called The Psychological Society until 1906) was founded at University College of the University of London. In 1965, Queen Elizabeth II granted the Society a royal charter.

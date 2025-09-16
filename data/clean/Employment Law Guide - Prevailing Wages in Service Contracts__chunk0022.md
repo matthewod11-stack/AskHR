@@ -1,5 +1,7 @@
-## McNamara-O'Hara Service Contract Act (SCA)
-
-(41 USC § 6701 et seq.; 29 CFR Parts 4, 6, and 8(https://www.dol.gov/dol/cfr/Title_29/Chapter_I.htm))
-
-Who is Covered
+---
+source_path: Employment Law Guide - Prevailing Wages in Service Contracts.md
+pages: n/a-n/a
+chunk_id: 6724f380908be29c27b9e2b7cadf82e7985d1da2
+title: Employment Law Guide - Prevailing Wages in Service Contracts
+---
+# Updated: May 2024

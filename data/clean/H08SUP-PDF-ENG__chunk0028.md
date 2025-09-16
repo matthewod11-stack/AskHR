@@ -1,13 +1,13 @@
-## HBR / Digital Article / Set Your Committees Up for Success
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3f86cf4d220420c47dcd67ced40b6df71196e45
+title: H08SUP-PDF-ENG
+---
+## of viewpoints and, therefore, vote outcomes.
 
-Why did discussions change so markedly? By removing the possibility
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-of viewing their peers’ leanings before voting, the revised protocol
+5
 
-realigned individual incentives towards engaging in information
-
-sharing and fact ﬁnding. Without the possibility to glean other
-
-members’ votes before having to cast their own, the experts now had
-
-a stronger motivation to probe, share their own privately-held data, and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

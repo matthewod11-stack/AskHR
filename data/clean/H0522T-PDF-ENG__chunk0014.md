@@ -1,17 +1,17 @@
-## one’s self-esteem from the stigma of harassment.
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e971dec544cbeb45ac6e2f3784a92060a27f70cb
+title: H0522T-PDF-ENG
+---
+## deleterious eﬀects on self-doubt and self-esteem.
 
-The women we interviewed told us that the #MeToo movement helped
+Social psychological theories suggest that stigmatizing experiences, like
 
-them realize that they were not alone in their experiences. A marketing
+sexual harassment, can be very damaging to self-esteem, especially
 
-executive in her late thirties explained, “I started seeing [#MeToo posts]
+because the stigmatized individuals fear that they are alone and share
 
-coming in, and I was just like, ‘Oh my gosh, they’re being so brave.
+in the blame for their mistreatment. Knowing how pervasive sexual
 
-Telling very personal stories that I never knew about.’….It isn’t like I’m
-
-vindicated; it is more, I’m validated.”
-
-What should companies and managers be doing now? On the most basic
-
-level, we need to continue to highlight the importance of preventing
+harassment is, and hearing other women’s experiences, can help buﬀer

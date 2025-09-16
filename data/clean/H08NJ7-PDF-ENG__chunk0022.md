@@ -1,9 +1,39 @@
-## HBR / Digital Article / 4 Styles of Coaching—and When to Use Them
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f3acf8c0ba65ccd78d57fefed0dbbf08113b0d4
+title: H08NJ7-PDF-ENG
+---
+# Asking/listening (high pull + low push)
 
-This style is great for coaching new leaders or those on the path
+At the top left is the Asking/listening style, which aligns closely with
 
-to leadership, as it helps build and enhance their critical thinking,
+the most traditional deﬁnition of coaching. This style involves listening
 
-accountability, and problem-solving skills. Learning how to think
+actively and asking compelling, open-ended questions to guide the
 
-independently and make decisions helps in maximizing their potential.
+coachee’s thinking. For example, you could ask, “What do you think is
+
+the best way to approach this challenge?” or “You mentioned the client
+
+feedback on this project is not great. What in your mind seems to be the
+
+core of the problem?” This helps the coachee self-reﬂect, think deeply,
+
+and own their decision-making instead of being told what to do.
+
+The Asking/listening style requires a lot of preparation; you need to be
+
+up to speed on what is happening with your coachee in order to ask the
+
+right questions. As a result, it can be tempting to shy away from it and resort to the Telling style instead. But while it may feel diﬃcult to hold
+
+back from simply giving advice or sharing a solution at ﬁrst, this style
+
+does get easier with practice.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,39 +1,17 @@
-## doesn’t work for everyone in the same way.
+---
+source_path: H04JA0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2210bd02932507e098050beacdbdceae52daf9d2
+title: H04JA0-PDF-ENG
+---
+## HBR / Digital Article / Is Office Politics a White Man’s Game?
 
-Although current research investigating gender or ethnic diﬀerences in
+UK revealed that 90% of them believed that political skill is required
 
-political skill is limited, researchers Pamela Perrewé and Debra Nelson
+to succeed and to improve one’s career prospects. This has been
 
-argue that women often overlook the importance of oﬃce politics and
+further supported by numerous research studies that make the case for
 
-rely on task accomplishment as the primary means of advancing their
+engaging in oﬃce politics. While the link between political skill and
 
-careers. Many women are reluctant to engage with it, or even see it
-
-as distasteful. Some people have called women and racial minorities
-
-“politically naïve” for avoiding politics, and argued that training and
-
-mentoring initiatives are necessary to help women see the value in
-
-oﬃce politics and learn to play the game.
-
-This argument, however, is built on the assumption that women and
-
-minorities lack the political skills needed to navigate organizational
-
-life. Recent research does not support this idea. A 2013 study published
-
-in the Journal of Leadership Studies ﬁnds that men and women see
-
-themselves as equal in relation to their political abilities. A 2015 study
-
-published in the Academy of Entrepreneurship Journal discovered that
-
-female students perceive themselves to be more politically skilled than
-
-male students. If the issue isn’t a lack of skill, then why are women and
-
-racial minorities less engaged in oﬃce politics? Unpacking this issue
-
-is critical given the established link between political skill and career
+career success is ﬁrmly established, there is a problem: Oﬃce politics

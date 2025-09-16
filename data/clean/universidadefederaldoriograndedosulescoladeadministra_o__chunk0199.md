@@ -1,7 +1,19 @@
-## SLAUGHTER, 2011). De forma análoga, o estudo de Schaufeli e Salanova (2007)
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: c48841c39db0bfafe8eaa0d3e4880dd4d4f4828c
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## comprometimento organizacional e as evidências mostraram que, apesar de haver
 
-também mostrou que engajamento no trabalho, envolvimento com o trabalho e
+correlação entre esses construtos, o engajamento no trabalho oferece uma
 
-comprometimento organizacional são construtos diferentes. Por fim, Bakker et al.
+contribuição relevante aos estudos organizacionais. Os autores ressaltam que “o
 
-(2008) ressaltam já haver evidências suficientes para se considerar o engajamento
+grau com que indivíduos investem seus ‘eus completos’ na execução de seu
+
+trabalho parece diferente do grau com que indivíduos estão satisfeitos com seus
+
+empregos ou comprometidos com suas organizações”
+
+(CHRISTIAN; GARZA;

@@ -1,9 +1,7 @@
-# Signs of Burnout
-
-- Less energy • Lower productivity • Consistently late for work • Complaining and negativity • Decreased concentration • Forgetfulness
-
-- Apathy • Dread of coming to work • Feelings of little impact on • coworkers or the organization • Feeling overwhelmed • Tension and frustration
-
-stress management: dealing with the demands of life and work
-
-575
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 18f5b44dcdaed34637198cb7b7ca1326ff3ac56c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Table 15.4

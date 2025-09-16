@@ -1,9 +1,21 @@
-# and humanistic approaches.
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3fd3813d1cb04d0eda59d826bbf7178249632610
+title: R2501H-PDF-ENG
+---
+## the business-minded approach of custodians with the person-focused
 
-While our research wasn’t based on a random sample, connectors
+approach of challengers. Working through the two conﬂicting sets
 
-do seem to be rarer than custodians or challengers. Connectors say
+of principles, connectors tend to cast themselves as bridges between
 
-their integrated approach requires striking a tricky balance but believe
+established leaders at the company’s core and emerging leaders at
 
-that focusing solely on results is dated and can stiﬂe creativity, and that focusing solely on empowerment is ineﬃcient and can strain
+its periphery. Their aim is to turn the company into a community
+
+that is both eﬀective and made up of individuals who act and grow
+
+authentically. Perhaps unsurprisingly, connectors are also some of the
+
+most seasoned leaders, who have experience with both instrumental

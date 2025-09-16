@@ -1,51 +1,39 @@
-## HBR / Magazine Article / Case Study: Navigating Labor Unrest
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e72950abe9425e93c759122d8f91daf61453fd9b
+title: R2402M-PDF-ENG
+---
+## in Brazil—chummy with government ministers and celebrities and a
 
-not lead to future layoﬀs, something that seemed impossible to provide,
+ﬁxture on the nightly news. When the Pope had visited Brazil, he met with Lucia before he met with any politicians.4
 
-considering his conversation with headquarters. Most troubling of all
+That evening, as Paulo had been driving out of the building, one of
 
-was the demand that no artiﬁcial intelligence or algorithmic decision-
+the union members holding a placard had knocked on his window and
 
-making be introduced into production without the approval of the
+handed him an envelope with a letter from Lucia inside. Classic Lucia:
 
-union, to ensure that AI would not be used as a substitute for workers.
+She always did have a ﬂair for the dramatic.
 
-Paulo shook his head. That was a totally unreasonable request. Though
+He perused the list of demands. Some of them he had already oﬀered
 
-AI was still a frontier technology in car production, who knew what
+to meet: an increase in hourly wages and overtime pay to counteract
 
-advances might emerge as cars increasingly became “computers on
+soaring inﬂation, paid leave for family illnesses, better ergonomics to
 
-wheels”? His ability to make quick decisions to stay competitive could
+prevent injuries, and transportation subsidies for workers commuting from far-oﬀ areas.5
 
-be undermined by a participatory process.
+But now the union wanted more inﬂuence in hiring, training, and
 
-He wasn’t even sure whether the union was negotiating in good faith.
+promotions, citing German unions’ rights as a precedent. Paulo worried
 
-Just last week, in an interview with a local news channel, Lucia had
+that giving it more power would entrench mediocrity at his plant.
 
-referred to Luna as a “corporate villain” and painted the union’s struggle
-
-as a ﬁght against greed. He knew that Lucia had political ambitions.
-
-Was she actually hoping for a deal, or would she throw her own workers under the bus to be seen as tough and further her political career? 6
-
-His phone buzzed. It was a text from Lucia. “Thoughts?” it read.
-
-He hesitated for a moment before typing, “I’m thinking some of these
-
-requests are unreasonable.”
-
-Her response was instant. “That’s a shame. I guess you want a strike?”
-
-Memories from the last strike, of a cacophony of shouting voices,
-
-angered faces, and idle machinery, ﬂashed through Paulo’s mind. “You’re bluﬃng,” he responded. “Would you really send your workers
-
-to the picket lines now, when the future of the plant is at stake?”
+Lucia also wanted assurances that the expansion of the plant would
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

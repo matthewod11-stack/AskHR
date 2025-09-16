@@ -1,35 +1,71 @@
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e931fc41d1898ec1f5a85e158c57d335a3e79bac
+title: H080JA-PDF-ENG
+---
 ## HBR / Digital Article / It’s Time to Redefine Our Gendered Idea of “Ambition”
 
-A case in point: We coach a woman whose colleague recently told her,
+later stages of pregnancy. At the same time, they began to have regular
 
-“I realize you never talk about your kids, and that’s really cool.” The
+career conversations, which reassured her that she would be able to
 
-comment hit our client like a ton of bricks. She realized that, in order
+resume climbing the management ladder when she was ready.
 
-to succeed at work, she had calculated that it was easier to connect with
+They offer recognition.
 
-her colleagues if she didn’t talk about her children — a realization that
+Companies that nominate women for development programs and select
 
-shocked her.
+them for visible assignments with no strings attached can keep women
 
-They offer high-quality feedback.
+engaged, allow them to grow, and ensure they feel valued. These
 
-Women tend to receive less actionable feedback than men from their
+companies do not make the pursuit of promotion a condition of
 
-supervisors. Less direction from managers means fewer opportunities
+receiving power and inﬂuence.
 
-to learn, which can sap work of dynamic growth opportunities. As one
+At a game studio where leaders are working hard to repair the “broken
 
-of our clients recently told us, “I see feedback as an investment in me,
+rung,” a talented client of ours who has two young children asked
 
-because my manager sees the potential for me to grow. They’re giving
+to have her scope reduced. Her supervisor, aware of her value and
 
-me feedback because they see that I can do something with it.” Robust
+potential, agreed — but arranged to keep her on the studio’s leadership
 
-feedback allows women to grow within their roles, even if they have
+team. A year later, the studio head invited her to be his chief of staﬀ, a
 
-temporarily stepped oﬀ the promotion track. It is a crucial retention
+critical role that oﬀered her visible recognition and career growth while
 
-tool for managers who want to encourage high-performing women with
+accommodating her need for personal ﬂexibility.
 
-beneﬁts that are not only practical but psychological.
+They know one is not enough.
+
+Companies with a smart approach to ﬂexible growth know that high
+
+potential junior women don’t just need to see the women above
+
+them succeeding at work. They also need to see them balancing life’s
+
+gendered demands in a way that shows that it’s possible to manage
+
+both work and family. Such women are role models, and they’re key for
+
+inspiring and retaining women with high-career potential.
+
+Unfortunately, there are few exemplars in this space. This is in part
+
+because of what’s sometimes referred to as “maternal-wall bias,” where
+
+women are perceived as less competent once they become pregnant,
+
+take maternity leave, or ﬂex their schedules. Afraid of triggering this
+
+bias, many women mask their maternal status at work — which
+
+indirectly reinforces the male model of ambition.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

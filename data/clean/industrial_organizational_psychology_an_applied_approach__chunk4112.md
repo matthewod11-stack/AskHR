@@ -1,5 +1,13 @@
-# hospitals. New York: Putnam.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9a300c18badc455af9dffadaaa14e7c441643386
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Th ousand Oaks, CA: Sage.
 
-Burnett, J. J., & Dunne, P. M. (1986). An appraisal of the use of
+Burley-Allen, M. (2001). Listen up. HR Magazine, 46(11),
 
-student subjects in marketing research. Journal of Business Research, 14(4), 329–343.
+115–120.
+
+Burling, T., Lentz, E., & Wilson, R. (1956). To give and take in

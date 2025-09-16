@@ -1,11 +1,17 @@
-# New York: Longmans, Green.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8ad14591895d493c8953c34386ba8a1a609a6a28
+title: untitled
+---
+# of Personality, 65, 743–755.
 
-Benjamin, L. T., DeLeon, P. H., & Freedheim, D. K. (2002). Psy- chology as a profession. In I. B. Weiner (Gen. Ed.) & D. K. Freedheim (Vol. Ed.), Handbook of psychology: History of psy- chology, Vol. 1. New York: Wiley.
+Barenbaum, N. B. (1997b, June). “The most revealing method of all”: Gordon Allport and case studies. Paper presented at the an- nual meeting of Cheiron, Richmond, VA.
 
-Bernard, L. L. (1932). Social psychology in the United States. Soci-
+Barenbaum, N. B. (1998, June). Idiographic and nomothetic: Gordon Allport’s “introduction” of personality psychology as historical and natural science. Paper presented at the annual meeting of Cheiron, San Diego, CA.
 
-ologus, 8, 257–280.
+Barenbaum, N. B. (2000). How social was personality? The Allports’ “connection” of social and personality psychol- ogy. Journal of the History of the Behavioral Sciences, 36, 471–487.
 
-Bernard, L. L. (1945). The teaching of sociology in the United States in the last ﬁfty years. American Journal of Sociology, 50, 534–548.
+Becker, H. P. (1930). Distribution of space in the American Journal of Sociology, 1895–1927. American Journal of Sociology, 36, 461–466.
 
-Bernreuter, R. G. (1933). The theory and construction of the person-
+Beers, C. W. (1908). A mind that found itself: An autobiography.

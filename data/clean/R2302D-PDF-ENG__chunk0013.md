@@ -1,7 +1,11 @@
-# Where We Are Now
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9cf4671722e224e6a929d579b3460bd806615623
+title: R2302D-PDF-ENG
+---
+## HBR / Magazine Article / Redesigning How We Work
 
-In navigating the shift to hybrid work, we’re heading into a future we
+approach it as they would any other major change in how they do
 
-know very little about. It’s important to admit that, and to keep in
-
-mind some of the fascinating research ﬁndings on what works and what
+business: by asking tough questions and learning from the answers.

@@ -1,31 +1,17 @@
-# another.
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 150cb51dd8ed5176c6e994b59af8b76aa7e7c0a4
+title: S24041-PDF-ENG
+---
+## job with as little stress and tension as possible.
 
-Conventional wisdom holds that the best course of action in CEO
+. . .
 
-successions is for the key players to deepen their interpersonal
+No succession is easy. Because the process involves people in positions of power, the dynamics are political in nature and therefore diﬃcult
 
-relationships—revealing more about their expectations and objectives,
+to manage. Planned successions are the most complex because of the
 
-showing appreciation for one another’s wants and needs, listening with
+overlap between incoming and outgoing leaders and the reality of
 
-empathy, making others feel welcome, seeking common ground, and
-
-cooperating. That isn’t enough. The new leader must convince key
-
-people, who have their own agendas and biases, that she is the best
-
-choice for the job and then earn their loyalty and conﬁdence. Great
-
-managers do this by using a broad repertoire of approaches to inﬂuence
-
-and persuade others. The ability to do that is the essence of leadership,
-
-and it is particularly critical for designated CEO successors.
-
-A version of this article appeared in the July–August 2024 issue of Harvard Business Review.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+three powerful players, each with their own objectives, inﬂuencing one

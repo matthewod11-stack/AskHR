@@ -1,21 +1,23 @@
-## HBR / Digital Article / The Definitive HBR Strategy Glossary
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b604ca41edb30e8b0b65a8df3cba78312ed90647
+title: H08TKY-PDF-ENG
+---
+# and Anette Mikes (2012)
 
-which to let ripen, and which to toss, companies make decisions based
+. . .
 
-on what they know now, what might happen in the future, and which
+Strategy as a portfolio of real options: In ﬁnancial terms, a strategy is
 
-opportunities have already passed.
+much more like a series of options than a series of static cash ﬂows.
 
-Two important metrics can help guide decision-making here: 1) value-
+Executing that strategy almost always involves making a sequence of
 
-to-cost, or the value of the underlying assets you intend to build
+major decisions. Like a gardener deciding which tomatoes to pick,
 
-or acquire divided by the present value of the expenditure required
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to build or buy them; and 2) volatility, or how much things can
+29
 
-change before an investment decision must ﬁnally be made. Mapping
-
-opportunities based on these two metrics can help leaders decide what
-
-actions to take and where to place their bets.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

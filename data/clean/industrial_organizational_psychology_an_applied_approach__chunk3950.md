@@ -1,3 +1,9 @@
-## Organizational justice A theory that postulates that if
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 757d518c8e2958cdf955dcf770684338822193ca
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Organizational fit questions A type of
 
-employees perceive they are being treated fairly, they will be more likely to be satisfied with their jobs and motivated to do well.
+structured-interview question that taps how well an applicant’s personality and values will fit with the organizational culture.

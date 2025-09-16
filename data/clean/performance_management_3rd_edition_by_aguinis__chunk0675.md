@@ -1,19 +1,13 @@
-## Chapter 4 • Defining Performance and Choosing a Measurement Approach
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 0bebeed3d9aa50e0aad6f77d22cd4f4d7faf5f45
+title: performance_management_3rd_edition_by_aguinis
+---
+# ACCOUNT EXECUTIVE JOB RESPONSIBILITIES
 
-- Completing the required documentation to turn the client over to customer service for ongoing support.
+- Performing client needs analysis to ensure that the major market services product can meet a client’s requirements and expectations.
 
-- Scheduling and making client calls and, when necessary, supporting sales representatives in presales efforts.
+- Establishing clients on the host processing system. • Acting as primary contact for the client during the conversion process.
 
-- Keeping abreast of the major market services system and software changes, major changes and trends in the PC industry, and changes in wage and tax law.
-
-- 1. Based on the above description, assess whether Paychex should use a behavior approach, a results approach, or a combination of both to measure performance.
-
-- 2. Using the accompanying table as a guide, place check marks next to the descriptions that apply to the job of account executive. Explain why you chose the approach you did. (cid:2)
-
-Behavior approach to measuring performance is most appropriate when
-
-the link between behaviors and results is not obvious outcomes occur in the distant future poor results are due to causes beyond the performer’s control
-
-Results approach to measuring performance is most appropriate when
-
-workers are skilled in the necessary behaviors behaviors and results are obviously related results show consistent improvement over time there are many ways to do the job right
+- Supporting clients during the first few payrolls.

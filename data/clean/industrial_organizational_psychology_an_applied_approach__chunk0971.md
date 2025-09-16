@@ -1,7 +1,13 @@
-# Recruiting “Passive” Applicants
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 00a8a6675f65cbecc04c457e4a4b4e6874cb234e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# 7
 
-With the exception of the direct-mail approach, and at times, the use of executive recruiters, most of the recruiting methods previously discussed in this chapter deal with applicants who are actively seeking work. Because “the best” employees are already employed, recruiters try to find ways to identify this hidden talent and then convince the person to apply for a job with their company.
+7
 
-One such approach is for recruiters to build relationships with professional associations for each of the fields in which they recruit. For example, SIOP would be the professional association for I/O psychologists, the Society for Human Resource Management (SHRM) for HR professionals, and the American Compensation Association for compensation professionals. Recruiters would then attend the association’s conferences, read their newsletters and magazines, and scan the association’s website to identify the “cream of the crop” and then approach those people about applying for a job (Overman, ).
+7
 
-An increasingly common method to find these passive applicants is to surf the Web, especially blogs and social networking sites such as FaceBook and MySpace. As will be discussed in Chapter , many employers examine social networking sites to gather information about applicants, but because people put so much information about their lives and careers, recruiters also exam- ine these sites to see if there are people they want to contact about applying for jobs.
+Cub Foods in Illinois hires people with intellectual disabilities to serve as baggers in their grocery stores (Andrews, ). At rug maker Habitat International in Tennessee, over % of the employees have a physical or intellectual disability (Andrews, ). To solve the driver-shortage problem, many trucking companies are trying to hire married couples to be team drivers. To better entice them, trucks are enhanced to include larger sleeping berths and appliances such as microwave ovens (Taylor, b).

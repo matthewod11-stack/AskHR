@@ -1,5 +1,7 @@
-# Disponível
-
-SEDLAK, P. Employee Net Promoter Score (eNPS) as a Single-item Measure of Employee Work Satisfaction. An Empirical Evidence from Companies Operating in em: Poland, https://www.semanticscholar.org/paper/Employee-Net-Promoter-Score-(eNPS)-as-a- Single-item-Sedlak/b1be6e9f66d9002de7e74229f39f5f93299a349b. Acesso em: 08 set. 2022.
-
-2020.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 209b9d88b177c350b00b98619b1ce2c4066fd462
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# dez.

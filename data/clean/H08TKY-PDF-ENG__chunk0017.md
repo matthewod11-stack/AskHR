@@ -1,21 +1,25 @@
-## Learn more: “Big-Bang Disruption,” by Larry Downes and Paul Nunes
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a20186cd0f53e6165fbc0d3729469a98bc6b2e4
+title: H08TKY-PDF-ENG
+---
+## price and quality right from the start and quickly sweeps through every
 
-(2013)
+customer segment. Big-bang disruptions often come out of the blue
 
-. . .
+from people who aren’t traditional competitors, and the disruptions
 
-Blue ocean strategy: Blue oceans are previously unknown market
+are frequently developed by inventors doing low-cost experiments
 
-spaces. Demand is created rather than fought over, and there is ample
+with existing technologies to see what new products they can dream
 
-opportunity for growth that is both proﬁtable and rapid. There are two
+up. Once launched, these innovations don’t adhere to conventional
 
-ways to create blue oceans. One is to launch completely new industries,
+strategic paths or normal patterns of market adoption. That makes them
 
-as eBay did with online auctions. But it’s much more common for a
+incredibly hard to combat, and they can devastate entire product lines
 
-blue ocean to be created when a company expands the boundaries of
+virtually overnight. Examples include free navigation apps preloaded on
 
-an existing industry. For example, Cirque du Soleil reinvented the circus
-
-and developed uncontested market space that made the competition
+smartphones, such as those made by TomTom, Garmin, and Magellan.

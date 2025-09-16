@@ -1,25 +1,21 @@
-## Butler, M., Retzlaff, P., & Vanderploeg, R. (1991). Neuropsycho-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: aa25b48aa5c1da4f147a96b2c76a1a5c87385b32
+title: untitled
+---
+# York: Appleton-Century-Crofts.
 
-logical test usage. Professional Psychology, 22, 510–512.
+Borum, R., & Grisso, T. (1995). Psychological test use in criminal forensic evaluations. Professional Psychology, 26, 465–473.
 
-Camara, W. J., Nathan, J. S., & Puente, A. E. (2000). Psychological test usage: Implications in professional psychology. Professional Psychology, 31, 141–154.
+Brown, W. R., & McGuire, J. M. (1976). Current psychological assessment practices. Professional Psychology, 7, 475–484.
 
-Campbell, J. M. (1998). Internal and external validity of seven Wechsler Intelligence Scale for Children: 3rd ed. short forms in a sample of psychiatric inpatients. Psychological Assessment, 10, 431–434.
+Buck, J. N. (1948). The H-T-P technique: A qualitative and quanti- tative method. Journal of Clinical Psychology, 4, 317–396.
 
-Cattell, J. M. (1890). Mental tests and measurements. Mind, 15,
+Burns, R. C., & Kaufman, S. H. (1970). Kinetic Family Drawings (K-F-D): An introduction to understanding children through kinetic drawings. New York: Brunner/Mazel.
 
-373–380.
+Butcher, J. N., Dahlstrom, W. G., Graham, J. R., Tellegen, A., & Kaemmer, B. (1989). Minnesota Multiphasic Personality Inventory (MMPI-2): Manual for administration and scoring. Minneapolis: University of Minnesota Press.
 
-Cattell, R. B., Cattell, A. K., & Cattell, H. E. (1993). Sixteen Personality Factors Questionnaire (5th ed.). Champaign, IL: Institute for Personality and Abilities Testing.
+Butcher, J. N., & Rouse, S. V. (1996). Personality: Individual differ- ences and clinical assessment. Annual Review of Psychology, 47, 87–111.
 
-Christensen,A. L. (1975). Luria’s neuropsychological investigation:
-
-Text, manual, and test cards. New York: Spectrum.
-
-Ciminero, A. R., Calhoun, K. S., & Adams, H. E. (Eds.). (1986). Handbook of behavioral assessment (2nd ed.). New York: Wiley. Clemence, A. J., & Handler, L. (2001). Psychological assessment on internships: A survey of training directors and their expectations for students. Journal of Personality Assessment, 76, 18–47. Costa, P. T., Jr., & McCrae, R. R. (1992). Revised NEO Personality Inventory (NEO PI–R) and NEO Five-Factor Inventory (NEO- FFI). Odessa, FL: Psychological Assessment Resources.
-
-Costantino, G., Malgady, R. G., & Rogler, L. H. (1988). TEMAS (Tell-Me-A-Story) manual. Los Angeles: Western Psychological Services.
-
-Costello, E. J., Edelbrock, C. S., & Costello, A. J. (1985). Validity of the NIMH Diagnostic Interview Schedule for Children: A com- parison between psychiatric and pediatric referrals. Journal of Abnormal Child Psychology, 13, 579–595.
-
-Craig, R. J. (Ed.). (1989). Clinical and diagnostic interviewing.
+Butcher, J. N., Williams, C. L., Graham, J. R., Archer, R., Tellegen, A., Ben-Porath, Y. S., et al. (1992). MMPI-A manual for admin- istration, scoring, and interpretation. Minneapolis: University of Minnesota Press.

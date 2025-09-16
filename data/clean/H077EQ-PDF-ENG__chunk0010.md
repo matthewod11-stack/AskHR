@@ -1,17 +1,25 @@
-# Don’t Let Anchors Drag You Down
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84260d2fe8616118a0c13fc1b90626b37479a14d
+title: H077EQ-PDF-ENG
+---
+## of stocks available and other issues of corporate governance.
 
-Anchoring is everywhere in the retailing world. It’s a way to make
+So, if two companies have the same ﬁnancial proﬁle except Company
 
-customers feel like they’re getting a good deal. One of my favorites is big
+X has fewer shares at a higher price than Company Y, then Company
 
-box stores that will oﬀer huge “discounts” oﬀ grossly inﬂated “original”
+X’s shares will sell better over the long run than Company Y’s. Why?
 
-prices that have little to do with the item’s actual value.
+Because the stock price — the anchor — enhances the company’s
 
-So, for instance, I’ll see a low-budget couch “originally” priced at $800
+perceived value.
 
-that has been marked down to $200 to make the couch seem like a great
+While anchoring can lead to serious and costly mistakes, there are also
 
-deal. Companies will often perform such “markdowns,” even though
+ways to use the bias to your advantage. Here are three strategies that can
 
-there’s no reason that the couch should have been priced at $800 in the
+help make sure that your thinking is clear and well-grounded — but not
+
+anchored.

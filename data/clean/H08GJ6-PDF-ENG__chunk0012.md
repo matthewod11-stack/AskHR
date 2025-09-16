@@ -1,27 +1,17 @@
-# An Internal Committee Votes
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f11518d0dbf8f22ccc82525e6381a8b408db4922
+title: H08GJ6-PDF-ENG
+---
+## HBR / Digital Article / How to Decide Which Innovation Projects to Greenlight
 
-Many projects show merit on at least some dimension, so discerning
+But the top boss does not know everything, and even if they had several
 
-their overall comparative worth is key to eﬀective prioritization. This
+experts to rely on, it is often hard to know in advance whose expertise
 
-is where voting, which is believed to be the most commonly practiced method, falls short. Tallying yes/no votes often fails to provide suﬃcient
+would be best applied. Delegating the assessment of a project to a
 
-gradation, requiring arbitrary tie breaks. So if your budget permits a few
+known expert best suits those projects that look familiar, not those that
 
-projects only, make it go further by adopting a method such as ranking
-
-that our research shows as identifying the top candidates more reliably.
-
-With a bigger budget, scoring is an alternative.
-
-Voting is advisable only with large crowds. Open-science platform
-
-EteRNA, for example, pools the assessments of hundreds of scientists,
-
-in order to select the most promising protein molecules for further
-
-study. Local governments running participative budgeting platforms
-
-may similarly adopt the approach. With very large sets of decision
-
-makers, voting’s ability to discriminate improves.
+are more ambitious.

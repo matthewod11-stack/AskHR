@@ -1,35 +1,19 @@
-# Openness
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 4311b2dc2289f052d15677341fd548117691ba36
+title: issn_print_0976_013x
+---
+# Conformity
 
-15.5484
+21.8387
 
-1.99731
+6.455
 
-15.9032
+23.5806
 
-1.75793
+5.39614
 
-- 0.743
+- 1.153
 
-0.461
-
-Table 1 provides an overview of TCS and Infosys' mean and standard deviation scores on
-
-conformity and openness, respectively. There is no significant difference between TCS and
-
-Infosys on both conformity (0.254) and openness (0.461) as the P-value > 0.05.
-
-The study by Chang, et al. (2023) demonstrates workplace conformance is a vital
-
-characteristic that encourages the transmission of knowledge among Taiwan employees to
-
-enhance their competition and creative potential. In the Indian context, however, Yadav
-
-(2014) discovered that the intended magnitude of OCTAPACE value (usually believed to be
-
-greater) is insignificant for all elements in sample Delhi-NCR universities. In universities
-
-serving as examples, the expected degree of openness is less than the actual level of
-
-openness. The P-value from the preceding table indicates and supports the study's conclusion
-
-that openness and conformity do not differ significantly between TCS and Infosys in the Indian
+0.254

@@ -1,3 +1,13 @@
-# not?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2d096b9f3cdcfe85adfbb83a92de4b827314d6f1
+title: industrial_organizational_psychology_an_applied_approach
+---
+# employees?
 
-. When would you use a quasi-experiment rather than an experiment? . Why don’t correlations between two variables indicate that one caused the
+. If you wanted to pursue a career in I/O psychology, what would you need to
+
+do between now and graduation to make this career possible?
+
+. How are theories and hypotheses different? . Is a random sample really better than a convenience sample? Why or why

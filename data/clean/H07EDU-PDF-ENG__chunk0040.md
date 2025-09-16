@@ -1,23 +1,27 @@
-# Make fair decisions.
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f210981f1c5c59fa01f7110634a6e8397427a5c
+title: H07EDU-PDF-ENG
+---
+# option.
 
-Research ﬁnds that the largest factor employees use to judge a layoﬀ’s
+Dave Cote, who engineered the turnaround of Honeywell in the
 
-fairness is the reality of who is let go. Following a straightforward
+2000s used furloughs rather than layoﬀs to reduce costs during the
 
-criteria, like seniority or “last in, ﬁrst out,” may make layoﬀs easier to
+Great Recession. Cote’s intact workforce enabled him to continue
 
-explain, but realistically, it’s never that simple. You may want to keep
+product development, earning Honeywell a three-year total stock return
 
-some of your newest employees and not be bound to those who have
+between 2009 and 2012 of 75% — more than 20 points higher than GE,
 
-been with you longest.
+his nearest competitor. Cote didn’t hesitate to use mass layoﬀs when
 
-Employee performance, while not the driving reason behind a layoﬀ,
+exiting underperforming businesses. He also made strategic hires in
 
-is generally accepted as a plausible reason for selecting individuals to
+areas he was growing, and consistently used performance management
 
-be let go, but ranking employees based on their relative performance
+to ensure that the people who worked in the company were ones they
 
-is hard to do fairly. One laboratory study oﬀered participants proﬁles
-
-of 25 employees and gave them performance evaluation ratings,
+wanted to keep.

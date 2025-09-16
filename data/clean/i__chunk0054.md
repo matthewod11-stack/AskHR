@@ -1,9 +1,13 @@
-# insights in the context of organizational decision-making and problem-solving.= Fit-enz and
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 4003aa60d79e9483e9345576dde3d2c06ef871ed
+title: i
+---
+# (Source: James Evan (2017))
 
-Matox (2014) describe analytics as a <merging of art and science= when combining the
+According to Evans (2017), data analysis employs statistical tools, other mathematical
 
-statistical method, logical sense of the data, and mental framework of the context to understand
+methods, and information technology to draw insight from data. Evans also defines data
 
-the status and get actionable recommendations and some predictions of the future.
-
-Analytics is also described as a process based in factual information to yield insights and
+analysis for business as <a process of transforming data into actions through analysis and

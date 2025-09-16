@@ -1,9 +1,23 @@
-## the Great Resignation of 2022, when turnover among tech companies
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d17de85e9717b589ef6eaaccadf209fbd30a30dc
+title: R2504D-PDF-ENG
+---
+## HBR / Magazine Article / The Conflict-Intelligent Leader
 
-rose dramatically, and its employee satisfaction scores remained high even during controversial decisions. And the measures Benioﬀ
+gender pay gaps, he implemented systematic pay-equity reviews and
 
-established continue to help the company address new challenges as
+committed $3 million to correcting disparities.
 
-they emerge, becoming a model for managing workplace polarization.
+The results demonstrated the value of this long-term approach. By
 
-[ 7 ]
+creating multiple channels for employee input and establishing clear
+
+frameworks for addressing controversial issues, Salesforce successfully
+
+navigated numerous potentially divisive situations while maintaining
+
+strong employee engagement. The company achieved an employee
+
+retention rate in the top 10th percentile for companies of its size during

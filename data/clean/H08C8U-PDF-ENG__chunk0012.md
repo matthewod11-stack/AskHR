@@ -1,29 +1,29 @@
-# HBR / Digital Article / How to Set Transformation Targets That Actually Drive Change
+---
+source_path: H08C8U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd2e2d9009169affe021af7031282ef584e590cd
+title: H08C8U-PDF-ENG
+---
+## a maximum budget for a speciﬁc business activity or functional
 
-the transformation. For these organizations, the investment made
+area in future years. This allows the company’s existing performance-
 
-to improve the company’s budgeting and planning processes will
+monitoring process and leadership forums to drive the transformation,
 
-pay dividends beyond the near-term improvement targeted by the
+rather than relying on a “shadow process” to track results.
 
-transformation. For companies that already have a rigorous planning
+To ensure this approach works, management must have (or develop)
 
-process in place, this approach leverages the company’s existing
+a robust, multi-year budget or operating plan tied to demand and
 
-operating system and leadership forums to drive the transformation.
+cost drivers. For some companies, this represents a signiﬁcant upgrade
 
-Using the company’s budget or operating plan to monitor success also
+to their existing process, which may lack the granularity needed to
 
-avoids double counting. Because the baseline is inherently subject
+track spending and revenue generation at the level required to drive
 
-to interpretation and disconnected from the company’s budget or
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-operating plan, the same dollar of savings can be counted multiple
+4
 
-times across diﬀerent initiatives. Actions taken in one area can often
-
-drive savings in other areas, making it contentious where a speciﬁc
-
-dollar of savings gets counted. Rather than settle these disputes, savings
-
-are often counted multiple times, making performance monitoring
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,27 @@
-## STRATEGIC TALENT MANAGEMENT: A REVIEW AND RESEARCH AGENDA
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 3bb7dd226c1f7a54d34fa5736f6892fa049b249e
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## Despite a significant degree of academic and practitioner interest the topic of
 
-1.0
+talent management remains underdeveloped. A key limitation is the fact that talent
+
+management lacks a consistent definition and clear conceptual boundaries. The specific
+
+contribution of the current paper is in developing a clear and concise definition of
+
+strategic talent management. We also develop a theoretical model of strategic talent
+
+management. In so doing we draw insights from a number of discreet literature bases.
+
+Thus, the paper should aid future research in the area of talent management through (1)
+
+helping researchers to clarify the conceptual boundaries of talent management and (2)
+
+providing a theoretical framework that could help researchers in framing their research
+
+efforts in the area. Additionally, it aids managers in engaging with some of the issues
+
+they face with regard to talent management.

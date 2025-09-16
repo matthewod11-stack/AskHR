@@ -1,7 +1,9 @@
-# fewer, more-critical issues.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87d31b73774e6ecd7b0d1a0ca57c62acbaae0e34
+title: H07ZZW-PDF-ENG
+---
+## too many vague, sweeping, long-term commitments at the expense of
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+short-term performance, admitting that it ought to have focused on

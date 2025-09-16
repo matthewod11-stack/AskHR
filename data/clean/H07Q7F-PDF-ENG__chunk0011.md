@@ -1,17 +1,21 @@
-## HBR / Digital Article / Overcoming Your Fear of Giving Tough Feedback
+---
+source_path: H07Q7F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2391262179b22562ba2df33fdc567cde9d2ed810
+title: H07Q7F-PDF-ENG
+---
+# environment.
 
-See feedback as a tool.
+- Your constructive criticism could help a team member develop and
 
-Despite what you may believe, your team craves meaningful, candid
+grow in their role, opening up new career opportunities
 
-feedback. While 72% of employees rated “managers providing critical
+When you look more closely, you’ll see that expressing your thoughts, feelings, and opinions is far more beneﬁcial than stuﬃng them down
 
-feedback” as important for them in career development, only 5% believe
+and suﬀering the consequences.
 
-managers provide such feedback. Likewise, when team members don’t
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-think their boss is great at giving honest feedback, their engagement
+3
 
-scores typically take a nosedive. But on the ﬂip side, leaders who rank in
-
-the top 10% at giving honest feedback create teams that rank in the top
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

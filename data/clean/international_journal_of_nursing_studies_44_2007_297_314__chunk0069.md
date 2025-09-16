@@ -1,5 +1,7 @@
-# over time for new graduates.
-
-Qualitative data Issues raised: (cid:2) burnout (cid:2) excessive stress (cid:2) perception of poor public image (cid:2) high responsibility for poor pay.
-
-(cid:2) Stress throughout different stages in (cid:2) Professional commitment a signiﬁcant cause of turnover cognition but not turnover intention.
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: f75a62d30d36ac20b0ee6162a7c3aa914c7ce07c
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+## (cid:2) Pay signiﬁcant area of dissatisfaction

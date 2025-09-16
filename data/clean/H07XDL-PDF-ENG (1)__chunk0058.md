@@ -1,17 +1,45 @@
-## incentives for achievement, such as bonuses for success or penalties
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 3f0eb14b6f13241f31226b3b5c4a4360aa995c18
+title: H07XDL-PDF-ENG (1)
+---
+## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
 
-for failure. How will you reward yourself when you’ve successfully
+We recommend doing the same for each of the changes you committed
 
-changed an aspect of your life, and what will the consequences be
+to in step 6. Deﬁne the broad objective and the date by which you
 
-if you don’t? And check-ins means routinely stepping back, reﬁning and adjusting your eﬀorts, and celebrating your achievements, as agile
+want to achieve it. Then break down each of those objectives into a
 
-project development teams do. When each week can you spend 15
+few key results or action items, again with deadlines. Consider adding
 
-minutes to review and update your life strategy?
+them directly to your calendar. If you are unsure about implementing a
 
-Toni, for example, might tell a friend to hold him to his changes,
+big move in your life, experiment. For example, Toni identiﬁed mental
 
-promise to donate a signiﬁcant amount of money to a charitable cause
+health/mindfulness as a high priority, so he might set an objective of
 
-if he doesn’t stick to them, and schedule a weekly check-in with himself
+“Download an app and try meditation techniques for 10–15 minutes a
+
+day (ﬁnish by the end of November).” He could then break it down into
+
+two key results: (1) review meditation apps and get started (ﬁrst week of
+
+November), and (2) try an app for three weeks, review the experience,
+
+and make it a daily habit (last three weeks of November).
+
+There are many ways that companies hold themselves to OKRs. Here,
+
+we focus on three of them. Anchoring means sharing your plan, as
+
+Google does by making its OKRs public. Who will you tell about your
+
+plan or ask to join you on your journey? Strategy projects always involve
+
+small teams, so consider not only seeking input from others but also
+
+inviting one or two people to work on their own life strategies and then
+
+workshop everyone’s results as a group. Consequences means setting up

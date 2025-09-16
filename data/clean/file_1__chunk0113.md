@@ -1,11 +1,9 @@
-# 22
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 9e6a8dff6c59f6291a1330c8f0ef9c5670cfd041
+title: file_1
+---
+# x
 
-Gender: in all three papers, I propose that gender might have an effect on individuals’ and employees’ perceptions of gender inequality and the gender pay gap. The gender socialization perspective (Stockard, 1999) offers some explanations on why women tend to perceive gender inequality to a greater extent than men. Men and women may differ in their perceptions due to their differential roles and positions in organizations (Borchorst and Siim, 2008). Many women have to demonstrate that they possess the same required skills and qualifications as men. Women thus continue to experience differential and selective treatment at work based on their gender since the interests of those in more powerful positions in organizations are represented more forcefully than the interests of the less powerful, who are more likely to be women (Bridges and Nelson, 1989).
-
-Women might also perceive gender inequality to a greater extent than men as a consequence of the ‘confirmatory bias’ phenomenon, which relates to the tendency to see things that we expect to see. That is, if a person expects to see gender inequality in his/her workplace, unless he/she has objective evidence to indicate it, he/she will be likely to perceive it. If this is so, then individuals’ perceptions of gender inequality may be a result of expected and not necessarily experienced injustice. Shapiro and Kirkman (2001) referred to this tendency as ‘anticipatory justice’ meaning that those who anticipate injustice are more likely than those who do not see injustice. Similarly, Sanchez and Brock (1996) argued that minorities who expect workplace discrimination, based on a history of it or some negative work experience, are more likely to perceive discrimination than those who do not have this expectation.
-
-To sum up, in line with the gender socialization perspective and anticipatory justice model, it is suggested that those individuals who are disadvantaged by the distribution of opportunities, treatment, and conditions are likely to perceive gender inequality to a greater extent than those individuals who are not disadvantaged. Since in most cases the disadvantaged individuals are women, gender is expected to have an impact on their perceptions in a way that women will be likely to perceive gender inequality to a greater extent than men.
-
-However a notion of contraction may occur (see subsection 2.4.2). Although academic research suggests that women tend to perceive gender inequality to a greater extent than men, they may lack access to informal communication networks that men often possess to obtain knowledge about pay including pay raises, bonuses and promotions (Powell and Mainiero, 1992). Women have to rely more on formal procedures and systems to obtain organizational outcomes due to a history of gender discrimination and gender-role stereotyping that has excluded them from fair decision-making process (Powell and Mainiero, 1992). In addition, men have been socialized to achieve satisfaction from outcomes such as pay and knowledge about it, while women have been socialized to achieve satisfaction from the process of interacting and the procedural system in general rather than being keen on the access to pay information (Sweeney and McFarlin, 1997; Lee and Farh, 1999).
-
-Thus, based on the gender socialization perspective, I propose that although women are often under-rewarded, they are less sensitive towards the gender pay gap than men due to men’s higher level of obtained knowledge about pay of others. This tendency occurs since men are more likely to compare themselves with other men and women working in similar
+As depicted in Table 1, different factors were suggested to have an impact on individuals’ and employees’ perceptions of gender inequality and the gender pay gap. I describe all these factors thoroughly below.

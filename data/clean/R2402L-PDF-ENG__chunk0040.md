@@ -1,5 +1,23 @@
-# Barriers to Effective Listening
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62833530c2cde0085fa4b7534d77bf43291698cd
+title: R2402L-PDF-ENG
+---
+## HBR / Magazine Article / Negotiate Like a Pro
 
-Advising: You jump in too quickly with solutions.
+ﬁve listening and more pies, they felt more comfortable negotiating and
 
-Analysis paralysis: You continue to gather information instead of moving
+were better able to achieve deals that worked for both parties. In another
+
+case, this mindset and tool kit helped the head of a small banking and
+
+investment company that had recently been acquired by a larger one to navigate discussions around layoﬀs and exit packages with his new colleagues and aﬀected employees.
+
+Successful negotiation starts with managing your own emotions. But
+
+that’s where your self-focus should stop. The rest is all about your
+
+counterparts. Listen well and show them you’re doing so. That’s how
+
+you build trust and ultimately ﬁnd mutually agreeable solutions.

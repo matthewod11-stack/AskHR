@@ -1,5 +1,7 @@
-# EBSA, in conjunction with the IRS(http://www.irs.gov/) and the Pension Beneﬁt Guaranty
-
-Corporation(http://www.pbgc.gov/) (PBGC) publishes the Form 5500 Annual Return/Report(https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-
-
-compliance/reporting-and-ﬁling/form-5500). The Form 5500 Annual Return/Report is used by plan administrators
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: 7064154cff58184603b21e5c180cb251bb346351
+title: Employment Law Guide - Employee Benefit Plans
+---
+# information visit the Compliance Assistance page(https://www.dol.gov/agencies/ebsa/employers-and-advisers/small- business/compliance-assistance).

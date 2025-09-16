@@ -1,5 +1,7 @@
-# Evaluating Objectives and Standards
-
-Using the results from Case Study 5.1, use the accompanying checklist to evaluate each objective and standard you
-
-produced. For each objective and standard, use the first column in the checklist, and place a check mark next to each
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 01f9e5ac3e9f69bb163a7b3bb1fca27483445e6b
+title: performance_management_3rd_edition_by_aguinis
+---
+# CAS E ST U DY 5-2

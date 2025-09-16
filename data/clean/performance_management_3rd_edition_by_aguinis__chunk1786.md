@@ -1,9 +1,11 @@
-## Chapter 10 • Reward Systems and Legal Issues
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 95b02742e917c7228d824bf5b037830874959714
+title: performance_management_3rd_edition_by_aguinis
+---
+# Total
 
-usually done through the collection of market compensation data. In other words, the university gathers information on how much other universities pay to instructors, senior instructors, and so forth. In the case of business schools, this is done annually by the Association to Advance Collegiate Schools of Business (AACSB). Other organiza- tions can design their own surveys or rely on organizations that do this on a regular basis (e.g., http://www.salary.com, http://www.haypaynet.com). Then, this informa- tion is used to adjust the monetary value given to each point so that the resulting pay ranges for the various types of jobs are comparable to those of the organization’s competitors.
+345
 
-When compensation surveys are conducted, they include not only information on base pay but also information on all types of compensation (e.g., bonuses) and on benefits (e.g., allowances, income protection). Ultimately, the consideration of what salaries are assigned to the various jobs or types of jobs is dependent on the information obtained through compensation surveys. The important issue to recognize is that the relative difference in pay between the various positions has been established through an internally consistent method, regardless of the monetary value assigned to each point. The point system helps establish the worth of each job relative to all other jobs within the organization.
-
-The point method has two notable advantages. First, it involves a comprehensive measurement of the relative worth of each job for the organization. Second, ranking jobs is easy to do once the total points for each job are known. On the other hand, it requires extensive time and effort to administer.
-
-A study of different job evaluation systems that considered more than 16,000 jobs found that the resulting ranking of jobs was similar, regardless of the job evaluation method used.32 This suggests that, given that different methods produced the same end result, the ranking method should be used because it is the most advantageous from a practical standpoint (i.e., it requires less time and effort to administer). However, this same study found that pay grade classification was very much affected by the type of system used. That is, small changes in total job worth scores had a profound impact on the resulting pay structure. Thus, this result argues in support of using the point method because it is more precise and accurate regarding the computation of total job worth scores. Regardless of the job evaluation method used, fairness is an important issue to consider. Evaluators should be regarded as impartial and objective. In most cases, evaluators include supervisors and job evaluation analysts who are hired from outside of the organization (i.e., from a consulting firm).
+Using the point system, each job is assigned a specific number of points that can then be translated into specific monetary figures. For example, each point may be worth $300 so that the median salary for instructors would be 125 × $300 (cid:4) $37,500, and the median salary for associate professors would be 325 × $300 (cid:4) $97,500. How does the organization determine the amount of money to be allocated to each point? This is

@@ -1,19 +1,23 @@
-# Banding
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e26f0cb86d86e13c1994ce5ea1b2a6142ffae521
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Total cost
 
-As mentioned previously, a problem with top-down hiring is that the pro- cess results in the highest levels of adverse impact. On the other hand, use of passing scores decreases adverse impact but reduces utility. As a compromise between top-down hiring and passing scores, banding attempts to hire the top test scorers while still allowing some flexibility for affirmative action (Campion et al., ).
+14,100
 
-Banding takes into consideration the degree of error associated with any test score. Thus, even though one applicant might score two points higher than another, the two-point difference might be the result of chance (error) rather than actual differences in ability. The question then becomes, “How many points apart do two applicants have to be before we say their test scores are significantly different?”
+If a multiple-hurdle approach is usually less expensive, why is it not always used instead of a multiple-cutoff approach? First, many of the tests cited above take time to conduct or score. For example, it might take a few weeks to run a background check or a few days to interpret a psychological screening. There- fore, the tests usually must be administered on several occasions, and an appli- cant would have to miss several days of work to apply for a particular job. Because
 
-We can answer this question using a statistic called the standard error (SE). To compute this statistic, we obtain the reliability and standard deviation (SD) of a particular test from the test catalog (or we can compute it ourselves if we have nothing better to do on a weekend!). This information is then plugged into the following formula: SE = SD √
+evaluating selection techniques and decisions
 
-___________  − reliability
+231
 
-For example, suppose we have a test with a reliability of . and a standard
+232
 
-deviation of .. The calculation of the standard error would be:
+chapter 
 
-_____  − . ___ .
+people often cannot or will not take more than one day off from one job to apply for another, many potentially excellent applicants are lost before testing begins.
 
-SE = . √ SE = . √ SE = . × . SE = .
-
-Bands are typically—but do not have to be—determined by multiplying the standard error by . (the standard score associated with a % level of confi- dence). Because the standard error of our test is ., test scores within . points (. × .) of one another would be considered statistically the same. If we take this concept a bit further, we can establish a hiring bandwidth of .. For example, using our standard error of . and our bandwidth of . (), look at the applicants depicted in Table .. Suppose that we have four openings and would like to hire at least two women if possible. Because the highest scoring woman in our example is Winfrey at , a top-down approach would not result in any women being hired. With a nonsliding band, we are free to hire anyone whose scores fall between the top score (Kilborne at ) and  ( − .). As with top-down selection, use of a nonsliding band in this example would not result in any women being hired. With
+Second, research has shown that in general the longer the time between submission of a job application and the hiring decision, the smaller the number of African American applicants who will remain in the applicant pool (Arvey, Gordon, Massengill, & Mussio, ). African American populations have higher unemployment rates than Whites, and people who are unemployed are more hurried to obtain employment than people with jobs. Thus, because the multiple- hurdle approach takes longer than multiple-cutoff, it may bring an unintended adverse impact, and affirmative action goals may not be met.

@@ -1,7 +1,11 @@
-## SolidTech’s future—and that of all our team members—we’re thinking
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af8f80782272f40e9a65abd133b66433e9a1d5e1
+title: R2504P-PDF-ENG
+---
+# not the threat.”
 
-about how to evolve.”
+“Thank you all for taking the time to meet today,” Alex began. “As
 
-For the next few minutes, he outlined the Grand Bargain. “Those
-
-who participate would be positioned to drive SolidTech’s future and
+many of you know, our industry is changing rapidly, and so, to secure

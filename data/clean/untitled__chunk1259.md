@@ -1,3 +1,9 @@
-## The Rise of Contemporary Themes (1960–1985) 211
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 64a84437beb28529f309a3fb9034fe56acebb3d1
+title: untitled
+---
+# The Return of Cognition
 
-Piaget by American psychologists. J. McVicker Hunt (1906– 1991) published his inﬂuential treatise, Intelligence and Experience (1961), which reintroduced Piagetian thinking to Americans. A few years later, a systematic overview of Piaget’s theory was offered by John Flavell in his book The Developmental Psychology of Jean Piaget (1963). Piaget’s views of nature and nurture as both necessary and interactive quickly became prevalent in developmental psychology. A ﬂurry of empirical work that both supported and challenged Piagetian theory appeared in the 1960s and 1970s. This re- vitalized interest in cognitive development coincided with the onset of the cognitive revolution (Miller, Galanter, & Pribram, 1960) in mainstream psychology, so it is not sur- prising that cognitive development returned as a major theme of research.
+Several signiﬁcant events transformed our thinking about development in this quarter century. The Russians launched Sputnik, and Americans began to worry about their educa- tional system. Coincidentally, there was a rediscovery of

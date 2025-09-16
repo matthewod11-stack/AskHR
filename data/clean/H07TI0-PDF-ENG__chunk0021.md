@@ -1,9 +1,11 @@
-# address.
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35deb68911614f684cdece074a63d262eeebd64c
+title: H07TI0-PDF-ENG
+---
+# Overcoming Challenges
 
-The most basic is unclear job and performance expectations. Without
+Beyond simple resistance to change, there are a number of challenges
 
-a traditional job description, how does an employee know what is
-
-expected of them? How can a manager evaluate their performance
-
-objectively and follow fair compensation and promotion practices
+that companies moving away from traditional job descriptions need to

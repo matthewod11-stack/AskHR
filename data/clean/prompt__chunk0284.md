@@ -1,7 +1,35 @@
-## (Recall-Oriented Understudy for Gisting Evaluation).
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 129646e2b6c67ec8168aba47f049740872ff1ea5
+title: prompt
+---
+# Output
 
-- 3. Select the instruction candidate with the highest evaluation score. This candidate will be
+1.
 
-the (cid:450)nal prompt you can use in your so(cid:454)ware application or chatbot. You can also tweak
+I’d like to purchase a Metallica t-shi(cid:457) in size small.
 
-the select prompt and evaluate again.
+- 2. Can I order a small-sized Metallica t-shi(cid:457)?
+
+- 3. I’d like to buy one Metallica t-shi(cid:457) in small.
+
+- 4. One Metallica shi(cid:457), size small, please.
+
+- 5. I want one Metallica t-shi(cid:457) in size small.
+
+- 6. I’d like to place an order for one Metallica t-shi(cid:457) in small.
+
+- 7. Small Metallica t-shi(cid:457), one please.
+
+- 8. I’m looking for one Metallica t-shi(cid:457) in small.
+
+- 9. Can you get me one Metallica t-shi(cid:457) in small?
+
+- 10. One Metallica small t-shi(cid:457), please.
+
+Table 15. Use an LLM to generate prompts
+
+- 2. Evaluate all of the instruction candidates by scoring the candidates based on a chosen
+
+metric, For example, you can use. BLEU (Bilingual Evaluation Understudy) or ROUGE

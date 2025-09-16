@@ -1,3 +1,7 @@
-# by Isaac H. Smith and Maryam Kouchaki
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: R2106K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ed1676c1c42f752c8318a95ee6d41b62fabacb3
+title: R2106K-PDF-ENG
+---
+# Building an Ethical Company

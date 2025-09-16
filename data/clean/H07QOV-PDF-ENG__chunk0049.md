@@ -1,29 +1,27 @@
-# to measure.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2da95eb6248a6a5ad920399c03dabc8c80933fee
+title: H07QOV-PDF-ENG
+---
+## limited predictive value for the future performance of the ﬁrm. For
 
-I see the pendulum existing, but maybe it’s a false dichotomy. Maybe it’s
+example, one way to be really productive is to just push people to their
 
-not empathy versus productivity. Maybe we need smart, caring leaders
+limits. But that has time constraints. Eventually they will burn out,
 
-who understand the importance of both. And given that that’s very
+leave, etc. It’s like Buckminster Fuller used to say that it was foolish
 
-challenging, they’re open about it being challenging. They’re asking
+to burn down the house to keep warm on a cold winter’s night. The
 
-for help. They’re sharing the burden of caring and excellence with
+excessive pressure can be the equivalent of that error.
 
-their teams and considering, again, the fundamentals of what it is the
+And also innovation work in particular, we have case study after case
 
-organization must do well to stay alive in its market, to perform in its
+study where the work actually suﬀers when productivity metrics are
 
-market. And talk about it honestly.
+brought to bear.
 
-I sometimes think we don’t talk often enough about the fact that work
+In a way, I wish the pendulum were more about excellence than
 
-is work. It’s supposed to be a little bit of work, but that doesn’t mean it
-
-can’t be fun, energizing, collaborative, and full of empathy.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-17
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+productivity, because I think productivity is really tricky and variable

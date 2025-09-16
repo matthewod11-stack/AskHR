@@ -1,11 +1,19 @@
-# HBR / Digital Article / Why Mentoring Programs Fail — and How to Make Them Worthw…
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5dd8fad190d08ec0b29dd1fed1902600c354222f
+title: H08IWB-PDF-ENG
+---
+# satisfaction and improved retention.
 
-adjustments, you can ensure that your mentoring program is not just
+As the job market continues to evolve, organizations that fully harness
 
-another initiative but a cornerstone of your strategy to develop and
+the potential of mentoring will not only retain their top talent but also
 
-retain the best talent in today’s competitive market.
+foster a more motivated and productive workforce. By making these
 
-This article was originally published online on December 17, 2024.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Andy Lopata is the author and coauthor of six books on networking and professional relationships, including The Financial Times Guide to Mentoring and the host of The Connected Leadership podcast. You can measure your mentoring impact here.
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

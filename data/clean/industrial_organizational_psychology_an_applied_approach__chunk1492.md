@@ -1,7 +1,15 @@
-# Unadjusted Top-Down Selection
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: aeecf05f0fcd53637dc8004faf5b7ce229a12e73
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Making the Hiring Decision
 
-With top-down selection, applicants are rank-ordered on the basis of their test scores. Selection is then made by starting with the highest score and moving down until all openings have been filled. For example, for the data in Table ., if we had four openings, we would hire the top four scorers, who, in this case, would be Kilborne, Letterman, King, and Williams. Notice that all four are males. If, for affirmative action purposes, we wanted to hire two females, top-down selection would not allow us to do so.
+After valid and fair selection tests have been administered to a group of appli- cants, a final decision must be made as to which applicant or applicants to hire. At first, this may seem to be an easy decision—hire the applicants with the high- est test scores. But the decision becomes more complicated as both the number and variety of tests increase.
 
-The advantage to top-down selection is that by hiring the top scorers on a valid test, an organization will gain the most utility (Schmidt, ). The disad- vantages are that this approach can result in high levels of adverse impact and it reduces an organization’s flexibility to use nontest factors such as references or organizational fit.
+If more than one criterion-valid test is used, the scores on the tests must be combined. Usually, this is done by a statistical procedure known as multiple regression, with each test score weighted according to how well it pre- dicts the criterion. Linear approaches to hiring usually take one of four forms: unadjusted top-down selection, rules of three, passing scores, or banding.
 
-In a compensatory approach to top-down selection, the assumption is that if multiple test scores are used, the relationship between a low score on one test can be compensated for by a high score on another. For example, a student apply- ing to graduate school might have a low GRE score but have a high undergradu- ate grade point average (GPA). If the GPA is high enough, it would compensate for the low GRE score. To determine whether a score on one test can compensate for a score on another, multiple regression is used in which each test score is weighted according to how well it predicts the criterion.
+228
+
+chapter 

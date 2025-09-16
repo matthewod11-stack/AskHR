@@ -1,65 +1,73 @@
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ccada70896b211b071b16956dfda7a24b2704e63
+title: S24054-PDF-ENG
+---
 ## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
 
-motivate you to work harder, but often players see it as aﬃrmation
+Good team leaders go further and ﬁnd ways of recognizing those who
 
-that they’re already working hard enough—if they weren’t, why would
+don’t play on the ﬁeld yet support us in less visible ways. Football teams
 
-the owner pay them $10 million a year? And because it’s a team sport,
+have big support staﬀs—trainers, the people who prepare our meals and
 
-an individual player can give 100% and the team still may be terrible,
+clean the locker room and wash our uniforms, among others. I found
 
-which creates disincentives to keep trying so hard. The only hope of
+that a simple high ﬁve or word of appreciation means so much. To be a
 
-breaking this cycle is for the people on the team to push one another to
+great team, everyone needs to feel valued—and it’s up to the leaders of
 
-do better.
+the team to make sure that happens.
 
-I wish I had a foolproof method for going into any situation where a
+Set the standard and create a culture of 100% effort. During my early
 
-player is giving 70% and ﬁnding a way to squeeze out that remaining
+seasons with the Patriots, I was part of a group of players called the
 
-30%. I’m not sure I ever was able to do that. But by modeling team-
+“Edgers.” We were constantly competing to get the edge on one another:
 
-focused behavior and creating higher expectations and accountability,
+who could get to the weight room earlier, watch more game ﬁlm, do
 
-I could reliably get another 5% or 10% out of players—and that often
+more extra practice—even something as silly as who could drink the
 
-made a big diﬀerence.
+most water. People assume that the coaches made sure we were putting
 
-Sometimes the pacesetting wasn’t about working harder physically. It
+in the work, but in this culture, we were holding ourselves to a higher
 
-was about communicating expectations more candidly. Because my
+level of accountability. I remember practices where the coach would tell
 
-teammates knew that I was invested in them, I was able to oﬀer criticism
+us we needed to run 20 wind sprints, each under seven seconds, with a
 
-without making them feel attacked. “Hey, do you want me to lie to you
+30-second break after each one. I’d stand up and say, “No, guys, we’re
 
-and tell you what you want to hear?” I’d say. “Or do you want me to tell
+doing 24 sprints, six seconds each, with 15-second breaks in between.”
 
-you the truth? You were not prepared today, so you weren’t at your best.
+(Remember, I was the slowest guy on the team.) Some of the players
 
-We need you to be better.” As a society, we’ve moved away from having
+would start arguing and yelling. I’d tell them: “I don’t give a f— what the
 
-those frank conversations. As I’ve gotten older, I’ve come to recognize
+coach says.” We needed to work harder because it mattered to us, not
 
-that when people give me tough love and tell me the truth, it’s often the
+just give enough eﬀort to satisfy the coach.
 
-best sign that they really care about me.
+In the NFL, every player thinks he’s giving 100% eﬀort. Judging from
 
-Recognize teammates’ individual psychology and the best ways to
+what I saw, a lot of them are playing at only 70% or 80% of their true
 
-motivate them. Every NFL player is unique. Some are motivated
+ability. They may not realize it, but they’ve been conditioned to do that.
 
-by money and contracts. Some are motivated by recognition, like
+Putting in less than 100% eﬀort is particularly common for players on
 
-making the All-Pro team. Some are motivated by what the media is
+teams that don’t win very often. Imagine being a star running back on a
 
-writing about them. Some are motivated by winning championships,
+bad team. Your team loses most of its games, and soon you ﬁnd yourself
 
-while others are just trying to avoid losing their job. Great leaders
+giving less than your full eﬀort. But because you’re the best player,
+
+you’re rewarded with a huge contract. In theory the money should
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

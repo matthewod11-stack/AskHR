@@ -1,3 +1,19 @@
-## Predicting Performance Using Applicant Skill
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 937964d34bdb604cce290361f092eaf406f13871
+title: industrial_organizational_psychology_an_applied_approach
+---
+# y s e t r u o C
 
-Rather than measuring an applicant’s current knowledge or potential to perform a job (ability), some selection techniques measure the extent to which an appli- cant already has a job-related skill. The two most common methods for doing this are the work sample and the assessment center.
+enforcement agencies. Typical projects range from helping a small city choose a new police chief to helping a state law enforcement agency develop new promotion procedures. I develop and administer written job knowledge tests and assessment centers. Much of my time is spent ensuring that these testing instruments are valid predictors of future job performance. The primary strategy I use is content validity. The basis of this approach is ensuring that the questions on the job knowledge tests and the assessment center exercises measure actual duties and responsibilities that are required by the individual who performs the job.
+
+The content validation approach relies heavily on conducting a thorough job analysis. This is a lengthy process in which I will spend time with job incumbents while they perform their
+
+jobs. For example, if we are developing test materials for police sergeants, I will ride with a representative sample of police sergeants and observe them while they perform their jobs. During this time, I ask questions and take extensive notes on exactly what they are doing and why. From this information, a task list of necessary knowledge and skills are developed. From these two lists, we know which knowledge to test for on the written examination and which skills to test for during the assessment center. Examples of job knowledge might include basic laws, departmental policy and procedures, and proper collection and handling of evidence. Examples of skills might include recognizing and handling performance problems of a subordinate, making decisions, communicating orally and in
+
+writing, and organizing and planning.
+
+The development of written examinations is relatively straightforward; the development of assessment centers is much more involved. The assessment center is a series of job simulations, or exercises, that require the candidate to perform skills necessary for the job. These job simulations can take many forms. I typically use three or four different exercises, which might include a role play, an oral presentation, and a written problem exercise.
+
+If what I do sounds like an interesting career for you, my advice is to talk extensively with someone in the profession. Ask them about academic preparation, what type of previous work experience would be helpful, what they like and dislike about their career, and how they see the future of the profession.

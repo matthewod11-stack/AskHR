@@ -1,59 +1,31 @@
-## HBR / The Big Idea / A Leader’s Guide to Navigating Employee Activism
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3e24bc771a97fd5d1db6b5014911a3672bc2939
+title: H08058-PDF-ENG
+---
+# The ACT IF Framework
 
-- Authority: How much authority, power, or status do we have in the
+An organization can respond to employee activism in diﬀerent ways
 
-wider organizational system compared to other stakeholders? And how
+depending upon the issue and context. In the opening example, we
 
-do we wish to use the authority we have?
+outlined how diﬀerent executives wanted to respond. Some reacted
 
-- Concern: Is this issue of concern to us or to stakeholders? Do we really
+angrily, pushing for the employee to be reprimanded and cautioned.
 
-know how much stakeholders care about this issue?
+Others appeared more open, and there was even the suggestion that
 
-- Theory of change: Do we feel we can make a diﬀerence? Do we feel
+this activist employee be invited to the next leadership meeting to
 
-we can resist change in the “outside” world, or do we see how we
+lead a discussion. Our ACT IF framework describes ﬁve key inﬂuencing
 
-participate and are inﬂuenced by it? What role do we believe we can
+factors that should shape the leadership response. (It can also be used
 
-play in inﬂuencing change?
+by activists in choosing which actions to take.)
 
-- Identity: Do we consider ourselves to be activist? What do we stand for
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-and what don’t we?
+4
 
-- Field: What is happening in the organization/industry/country/world
-
-that impacts the action we feel we should take? For example, is this in
-
-the news? Are our competitors acting?
-
-Considering these factors together and with employee, customer,
-
-supplier, and investor input, you are more likely to make wise decisions.
-
-One senior pharmaceutical executive we spoke to lamented over the
-
-rushed communication his company sent out after the Hamas attacks
-
-in Israel. A speedy response was arguably necessary, but because
-
-the management team did no conferring with employees or relevant
-
-network groups, it ended up having to release another statement two
-
-days later, apologizing for the deep upset its original missive had caused
-
-to some, including Palestinian employees, customers, and suppliers.
-
-Had they used the ACT IF framework at the start, they may have
-
-recognized the concern of these stakeholders and avoided mistakenly
-
-believing they had unilateral authority in deciding how to respond.
-
-Perhaps they would have talked about how or why they would want
-
-to make a diﬀerence (identity and theory of change) in the situation
-
-rather than being overly inﬂuenced by several competitors who “got
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

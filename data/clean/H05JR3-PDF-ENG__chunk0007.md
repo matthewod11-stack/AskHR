@@ -1,41 +1,31 @@
-## HBR / Digital Article / Ramp Up Your Career After Parental Leave
+---
+source_path: H05JR3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e97ff2269e42a2835e2aa8318aceb5c5adc9cef4
+title: H05JR3-PDF-ENG
+---
+# dorian2013/Getty Images
 
-Navigating a system that was not designed for career paths that balance
+Returning from parental leave can be a jarring inﬂection point that too
 
-work with family can easily feel like a mission-practically-impossible even
+often results in people curtailing their responsibilities or leaving their jobs
 
-in the best of times. And when the job market is weak, many people will
+altogether. While many women choose to return to work after maternity
 
-become even more pessimistic about the possibility of persuading an
+leave, many others ﬁnd that it’s not sustainable and leave or take on
 
-employer to accept a ﬂexible work arrangement.
+reduced roles. Seventeen percent of women and 4% of men stop working
 
-After two maternity leaves, I’ve discovered that some companies are
+in the ﬁve years following childbirth, according to research recently
 
-willing to let people redesign their positions in a way that will allow them
+conducted at the Universities of Bristol and Essex in the United Kingdom.
 
-not just to continue their careers, but even to accelerate them. But it
+Harvard economist Claudia Goldin has found that the gender wage gap in
 
-means setting clear goals, forensically analyzing how you spend your time,
+America is the largest for women in their prime childbearing years.
 
-consciously not doing things that aren’t core to meeting your goals, over-
+Copyright © 2020 Harvard Business School Publishing Corporation. All rights reserved.
 
-communicating, and then course-correcting when required.
+1
 
-Set Clear Goals In order for any corporate machinery to try to accommodate your career
-
-goals, you ﬁrst need to identify them. If you’re not sure what your dreams
-
-are, no one can help you realize them. So step back and ask yourself: What
-
-is it that I really want?
-
-What are your immediate objectives after you return from your parental
-
-leave? What are your long-term goals? Do you want to run your company
-
-one day? Or do you want to slow down your career and focus on your
-
-family? Or do you hope for some combination of both? In my experience,
-
-all of these options can work — as long as you’re honest with yourself and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

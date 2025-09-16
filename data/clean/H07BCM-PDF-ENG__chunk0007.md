@@ -1,9 +1,15 @@
-## many of the professionals who such express an interest in reinvention
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24f67a0843911c89baa66474b7d4064cd6e25785
+title: H07BCM-PDF-ENG
+---
+# Lauren Nicole/Getty Images
 
-ultimately fail to follow through.
+A recent Microsoft study of 30,000 people revealed that 46% of
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+workers are considering a major career pivot or transition after the
 
-1
+Covid years. For many, this search goes beyond just a change of role and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+into the realm of personal renewal or reinvention. In our experience,

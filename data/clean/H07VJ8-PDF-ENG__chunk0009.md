@@ -1,27 +1,19 @@
-## As Sarah Kellogg Neﬀ, CEO of The Lactation Network, told me, “When
+---
+source_path: H07VJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e39a686ba21cc58da0173cf2637338031fcab5a7
+title: H07VJ8-PDF-ENG
+---
+## HBR / Digital Article / Go Beyond the Basics to Support Nursing Parents at Work
 
-it comes to attracting and retaining talent, the bare minimum just isn’t
+Beyond basic compliance lies an opportunity to revisit the culture
 
-getting it done. Companies with a lactation room — but nonexistent
+within your workplace. My background includes auditing existing
 
-paid leave or health plans without breast pump or postpartum lactation
+parental and caregiver programs while projecting future needs. Through
 
-care coverage — will ﬁnd those rooms empty because their employees
+these years and work with organizations, I have seen a great deal of
 
-weren’t supported before returning to work.”
+creativity and smarts in action. It is more than possible to go above basic
 
-So how can your organization go beyond basic compliance? Looking at
-
-the space that you’ve designated for pumping employees is a good place
-
-to start. Consider these questions:
-
-- Do you have enough pumping rooms to meet the size of your campus?
-
-- How is the location of these rooms communicated?
-
-- How do users schedule use of the room(s)?
-
-- How have you organized and managed break tracking (if necessary)?
-
-- When the room is in use, how is that communicated in a way that
+compliance — it is an obvious investment with a high ROI.

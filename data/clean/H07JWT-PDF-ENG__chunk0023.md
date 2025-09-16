@@ -1,15 +1,31 @@
-## remote and hybrid team members to each and to the larger
+---
+source_path: H07JWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee83800841cda74a5ab9fa1136805a3f8b4c9fbe
+title: H07JWT-PDF-ENG
+---
+# Ask yourself:
 
-organization, making them feel more included and less anxious.
+- Are members of my team asking questions or surfacing issues?
 
-This article was originally published online on March 22, 2023.
+- When I communicate a decision, do I also share why and how it was
 
-Liz Fosslien is the coauthor and illustrator of the WSJ bestseller No Hard Feelings: The Secret Power of Embracing Emotion at Work and Big Feelings: How to Be Okay When Things Are Not Okay. She is on the leadership team of Atlassian’s Team Anywhere, where she helps distributed teams advance how they collaborate. Liz regularly leads workshops for leaders; her clients include Google, Paramount, and the U.S. Air Force. Liz’s writing and work have been featured by TED, The Economist, Good Morning America, the New York Times, and NPR.
+made?
 
-@lizandmollie
+- Have I ever opened up about what I’m feeling to a direct report?
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+If you’re only getting positive feedback, especially when things are
 
-6
+uncertain and employees are undoubtedly feeling anxious, you should
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+be concerned. Aim to provide more transparency where you can, and to
+
+set the tone for conversations by sharing what you’re experiencing. You
+
+don’t need to suddenly become an open book, but saying something as
+
+simple as, “I know there’s been a lot of change lately, and that can be
+
+stressful. I’m feeling it, too,” can go a long way.
+
+By focusing on the actions outlined above, managers can connect

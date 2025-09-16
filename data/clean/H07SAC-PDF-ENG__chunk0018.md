@@ -1,9 +1,17 @@
-## energy-preserving practices into your daily life.
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c4efb6eac83db8e49a14466103f0c3abbbcd15d
+title: H07SAC-PDF-ENG
+---
+# connection needs?
 
-This article was originally published online on September 05, 2023.
+Even a good vacation can sometimes be exhausting. If you don’t
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+properly manage your time and energy when returning, your
 
-4
+exhaustion can have a cumulative impact on your wellbeing, work,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+relationships, and performance. If you didn’t get what you needed from
+
+this vacation, use it as motivation to ensure that you build sustainable,

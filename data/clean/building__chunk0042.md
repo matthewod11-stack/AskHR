@@ -1,3 +1,9 @@
-# enable rapid iteration
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: b11a1ba8d6c52b39e5793886b5fd3c5b15659395
+title: building
+---
+# outputs and AI-assisted workflows
 
-Success in this phase depends on maintaining a balance between ambitious goals and practical limitations, allowing teams to learn and adapt quickly.
+- Creating systematic feedback loops to capture learnings and

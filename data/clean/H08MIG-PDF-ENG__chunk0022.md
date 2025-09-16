@@ -1,13 +1,19 @@
-# eyes of other employees.
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20453fb106867095345e361815ece723f030fb32
+title: H08MIG-PDF-ENG
+---
+# against the manager.
 
-Of course, managers may be aware of personal situations that other
+Managers should, therefore, consider whether the oﬀender is in a
 
-employees are not privy to, creating a potential gap in understanding
+tough situation and might genuinely deserve some grace via leniency.
 
-what the manager and other employees perceive as a need for
+Examples from our study include ﬁnancial hardships, family health
 
-compassion. Indeed, managers are often privy to personal information
+concerns, bereavement, and major life events, like becoming a parent
 
-about their employees that others are largely unaware of, so it’s
+or going through a divorce. It is this human perspective that seems to
 
-necessary to pause and consider how much others may know of the
+make the greatest diﬀerence, legitimizing the merits of leniency in the

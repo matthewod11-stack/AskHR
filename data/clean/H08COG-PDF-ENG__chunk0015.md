@@ -1,23 +1,19 @@
-# The Problem of Mismatched Templates
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9aa53542b2687364054c7a4c0c50ec116f4f5d43
+title: H08COG-PDF-ENG
+---
+## and world documentaries, and more avant-garde categories, like
 
-We next looked to evaluate how shared or diﬀering templates for
+their “NEXT” grouping for ﬁlms that use innovative storytelling
 
-evaluation impacted beliefs about value. In our third study, we sorted
+methods, and the “Midnight” group, which features ﬁlms that “defy
 
-200 U.S. participants into two conditions, asking them each to evaluate
+categorization.” We reviewed audience rankings for the 523 ﬁlms
 
-art made by an alien society on a faraway planet. Group one saw
+that had more than one audience review and again conﬁrmed our
 
-paintings, highly acclaimed in the alien society, from Artist A; group
+hypothesis that in the more novel ﬁlm groups, there was greater
 
-two from acclaimed Artist B. Each group then saw 20 paintings
-
-containing a mix of pieces by the two artists. The groups were then
-
-asked to evaluate the value of the pieces they saw. We found that
-
-each group thought the art by their own prototypical artist to be the
-
-most valuable and the art by the other artist to be of lower value,
-
-conﬁrming our theory that when people have diﬀerent reference points
+variability in the ﬁlms’ perceived worth, or score.

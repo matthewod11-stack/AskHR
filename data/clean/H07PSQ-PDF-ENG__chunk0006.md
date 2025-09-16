@@ -1,13 +1,7 @@
-# Olena Koliesnik/Getty Images
-
-How do you manage an employee who’s been delivering lackluster
-
-results and oﬀering only excuses? Getting angry isn’t the right solution.
-
-And micromanaging only adds to your workload and teaches them
-
-you’ll be accountable, so they don’t have to be. So what are your options
-
-when you don’t trust someone to deliver?
-
-The alternative is to switch from trusting the person to trusting the
+---
+source_path: H07PSQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ac9622edd23a0f11587c758620cdff3a3be8de7
+title: H07PSQ-PDF-ENG
+---
+## Published on HBR.org / July 17, 2023 / Reprint H07PSQ

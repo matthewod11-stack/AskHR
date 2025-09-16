@@ -1,7 +1,9 @@
-# Approach. Journal of Business Ethics, 115(3): 599-604. http://dx.doi.org/10.1007/s10551-012-
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: f41ecf1b37369160bb3f127960959d3106f9613f
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# relationships. Journal of Business Research. http://dx.doi.org/10.1016/j.jbusres.2011.05.011
 
-1442-z
-
-HODGETTS, W.S. (2002). Executive coaching: what can go wrong (and how to prevent it). In
-
-C. Fitgerald and J. G. Berger (Eds.), Executive Coaching: Practices and Perspectives. Palo
+HANNAFEY, F.T.; VITULANO, L.A. (2013). Ethics and executive coaching: An Agency Theory

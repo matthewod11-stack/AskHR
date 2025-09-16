@@ -1,7 +1,11 @@
-# within the larger Luna network.
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bcf1a8c56594814d712ca743baf2d198914468c3
+title: R2402M-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: Navigating Labor Unrest
 
-Paulo prided himself on being a problem solver. In business school he’d
+performance: rising defects, increasing absenteeism, and a record high
 
-always come up with the best solutions to case studies. But this was
-
-not an academic exercise. Workers’ livelihoods—not to mention his own
+in vehicles lost to labor issues. The plant was no longer competitive

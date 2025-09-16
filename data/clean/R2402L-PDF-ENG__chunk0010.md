@@ -1,21 +1,43 @@
-## With open-minded, curious, and nonjudgmental conversation, John
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de1e56fe512e143ccb0b3026cccb47e92b83bb23
+title: R2402L-PDF-ENG
+---
+## HBR / Magazine Article / Negotiate Like a Pro
 
-can ascertain what the kidnappers’ real needs are, beyond their surface-
+Over several weeks he and I sit side-by-side in a corporate oﬃce, 16
 
-level demands, in order to end this crisis. Those needs include respect
+hours a day, with a mobile phone in front of us on the table. Of course,
 
-and a sense of control along with reassurance that they won’t be
+we take breaks to sleep and eat, especially when we’re not expecting a
 
-ambushed, arrested, or killed during the handover of the ransom.
+call. But our focus is on that phone. And when the kidnappers do reach
 
-Eventually, because he has kept his own ego in check, refrained from
+out, or we’re told to make contact, we turn our attention fully to it.
 
-hostility, and demonstrated empathy and deep listening, John earns
+They initially demand $5 million in ransom. I know from experience
 
-their conﬁdence, and with it the right to inﬂuence them and seek
+and training that if we agree to pay it immediately, they’ll ask for more;
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+or they’ll take it and then hit another of the company’s ships next week.
 
-2
+So with my coaching, John begins communicating with the kidnappers.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“That is a lot of money, which we don’t have. We need time to see how
+
+much we can raise. Let’s speak again in two days.”
+
+Later, “You seem upset that we can’t move faster, but I assure you we are
+
+trying our best. Please look after the hostages.”
+
+Later, “OK, let me make sure I’m understanding you. If we deliver
+
+the cash as agreed, you promise to release and return the hostages
+
+unharmed? And no further demands or delays?”
+
+Our aim is not just to stall for time but also to build rapport and trust
+
+with the other side. This is critical to success in high-stakes situations.

@@ -1,7 +1,9 @@
-## Managing Projects in Business, Vol. 3 No. 4, pp. 693-704.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: a2cfb26e4b8ef421601c6645700e6976477da0ab
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# International Journal of Electronic Business Management, Vol. 10 No. 3, pp. 224-233.
 
-Leat, M. and El-Kot, G. (2009), “Interpersonal trust at work, intrinsic motivation, work-related tension and satisfaction in Egypt”, International Journal of Workplace Health Management, Vol. 2 No. 2, pp. 180-194.
-
-Leung, A.S. (2008), “Interpersonal conflict and resolution strategies: an examination of Hong Kong employees”, Team Performance Management: An International Journal, Vol. 14 Nos 3/4, pp. 165-178.
-
-Lewicki, R.J. and Wiethoff, C. (2000), “Trust, trust development, and trust repair”, in Deutsch, M. and (Eds), Handbook of Conflict Resolution: Theory and Practice, Jossey-Bass,
+Lau, E. and Rowlinson, S. (2010), “Trust relations in the construction industry”, International Journal of

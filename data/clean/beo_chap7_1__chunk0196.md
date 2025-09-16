@@ -1,7 +1,9 @@
-# Management Journal 9:77-94.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: bce4ac50fdd56e889507e9e727d649914131a874
+title: beo_chap7_1
+---
+## York: Russell Sage Foundation Press and Princeton University Press.
 
-Camerer, C. F., L. Babcock, G. Loewenstein, and R. Thaler. 1997. Labor supply of New York
-
-City cab drivers: one day at a time. Quarterly Journal of Economics 112:407-42.
-
-Cameron, K. S., and R. E. Quinn. 1999. Diagnosing and Changing Organizational Culture.
+Camerer, C. F., and A. Vepsalainen. 1988. The efficiency of cultural contracting. Strategic

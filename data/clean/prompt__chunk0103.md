@@ -1,17 +1,11 @@
-# One-shot & few-shot
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 46aab0050aa9e6ac953ee1520997e9daa50aa926
+title: prompt
+---
+## Table 1. An example of zero-shot prompting
 
-When creating prompts for AI models, it is helpful to provide examples. These examples can
+When zero-shot doesn’t work, you can provide demonstrations or examples in the prompt,
 
-help the model understand what you are asking for. Examples are especially useful when you
-
-want to steer the model to a ce(cid:457)ain output structure or pa(cid:459)ern.
-
-A one-shot prompt, provides a single example, hence the name one-shot. The idea is the
-
-model has an example it can imitate to best complete the task.
-
-A few-shot prompt 7 provides multiple examples to the model. This approach shows the
-
-model a pa(cid:459)ern that it needs to follow. The idea is similar to one-shot, but multiple examples
-
-of the desired pa(cid:459)ern increases the chance the model follows the pa(cid:459)ern.
+which leads to “one-shot” and “few-shot” prompting. General prompting / zero shot

@@ -1,7 +1,17 @@
-# more than $6 million dollars in revenue.
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4354548dc9e4f013e86cc942de695e89e22961ce
+title: H08T4Z-PDF-ENG
+---
+# in an organic and easily ampliﬁable way.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Dickie Bush was making $200,000 per year at BlackRock in his mid-
 
-3
+twenties. He quit BlackRock 14 months after launching a digital writing
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+business with Nicolas Cole. By that point, it was paying him four times
+
+his salary and showed a solid trajectory, with increasing pricing power,
+
+ability to scale, and digital word of mouth. Now their business generates

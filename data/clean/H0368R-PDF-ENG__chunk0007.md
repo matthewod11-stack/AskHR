@@ -1,11 +1,23 @@
-# entrepreneurial culture at home.
+---
+source_path: H0368R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 96e9c901195e41ec964ae977b3b5c062f58ff661
+title: H0368R-PDF-ENG
+---
+# HBR / Digital Article / Immigrants Play a Disproportionate Role in American Entrepren…
 
-But to harness immigrant entrepreneurship for better growth and
+because the rate of entrepreneurship has declined signiﬁcantly in the
 
-job creation, we need more hard facts. Good statistics on immigrant entrepreneurship are exceptionally diﬃcult to assemble, and therefore
+U.S. over the last 30 years, and fewer startups are being generated today.
 
-it’s challenging to create productive policies. Likewise, most standard
+With many places looking to stoke economic growth, state and local
 
-government sources that are publicly accessible can only tell us about
+governments have clamored to launch initiatives to attract more
 
-immigrant self-employment, which leaves a big question mark around
+immigrant entrepreneurs, hoping they will found businesses and create
+
+more jobs. Globally, many countries are doing the same — for example,
+
+Chile pays overseas entrepreneurs to come visit for six months through
+
+its Start-Up Chile program, as a way to build global bridges and foster an

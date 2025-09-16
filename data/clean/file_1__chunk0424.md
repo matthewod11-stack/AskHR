@@ -1,3 +1,13 @@
-# DISCUSSION AND CONCLUSION
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: be06b3514a9e3ce2571a09e5da56d272f051518d
+title: file_1
+---
+# N
 
-Existing research on gender inequality has examined the phenomenon and the reasons for it in depth but has not yet thoroughly examined individuals’ perceptions of overall gender inequality. To what extent do Finnish students, employed, and retired people perceive overall gender inequality? What has an impact on the way they perceive it? Is it their life experiences or some demographical background factors? This study attempts to answer
+1583
+
+- p<0.05; **p<0,01; ***p<0,001 (significance levels are based on one-tailed test)
+
+As suggested in hypothesis 1, women perceived overall gender inequality to a greater extent than men. Next, hypothesis 2, which stated that students perceive overall gender inequality to a lesser extent than employed and retired people, is supported. Both employed and retired people were found to perceive overall gender inequality to a greater extent than students. Neither hypothesis 3, according to which there is a negative relationship between marriage and individuals’ perceptions of overall gender inequality, nor hypothesis 4, which stated that there is a positive relationship between education and individuals’ perceptions of overall gender inequality, were supported. The finding that marital status is not significant in determining individuals’ perceptions of overall gender inequality supports the statement of Lehto (1999) that the male breadwinner model has never been introduced in Finland due to a rapid transfer of the agricultural partnership model of working to industrial and post- industrial one, and, thus, marital status is not relevant in determining individuals’ perceptions of overall gender inequality. Finally, hypothesis 5, according to which living in a rural area is positively related to individuals’ perceptions of greater overall gender inequality, was also not supported. To sum up, individuals’ perceptions of overall gender inequality were found to vary considerably across individuals’ gender and occupational categorization. However, marital status, education, and living area did not have a significant effect on their perceptions.

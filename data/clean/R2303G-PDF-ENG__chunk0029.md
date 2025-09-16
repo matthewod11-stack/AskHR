@@ -1,19 +1,35 @@
-# later with their own teams.
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7745ba17e349c6fa5a67b6601846bca0557d3cfd
+title: R2303G-PDF-ENG
+---
+# The Voyage
 
-Take Karen, a leader in a big industrial ﬁrm who had worked her way up
+Having watched many leaders move through this stage, we’ve found
 
-through the hierarchy by cultivating a directive leadership style. With
+that those who succeed engage in three key practices.
 
-every promotion, Karen had taken on additional responsibilities, but
+Creating a new context for learning. Executives tend to pursue two
 
-when she ﬁnally moved into a C-suite position, she realized she wasn’t
+main kinds of learning as they work on changing their behavior. One
 
-well-known outside her division and didn’t know how to lead people
+involves putting themselves in situations where they have no direct
 
-who weren’t her direct reports.
+authority and so are compelled to develop a more indirect, empowering
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+style. We call this outside-in learning.
 
-7
+Outside-in learning can be particularly helpful for CEO candidates
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+whose leadership style is ﬁrmly rooted in holding people accountable,
+
+driving performance, and achieving results. Such leaders often have a
+
+hard time experimenting with a new style while working with teams
+
+that are familiar with their old one. By taking on roles or projects
+
+outside their own areas—roles in which they have no history and must
+
+adopt a collaborative manner—leaders can develop people skills to use

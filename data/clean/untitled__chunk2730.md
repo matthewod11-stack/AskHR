@@ -1,7 +1,13 @@
-## CLINICAL PROBLEMS FREQUENTLY PRESENTED IN THERAPY
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 93ed8b8a52775286b1db344466bedbf3d10eb42c
+title: untitled
+---
+# THERAPISTS’REPORTED LEVELS OF COMFORT
 
-Our survey asked respondents how frequently 11 clinical problems were presented by clients representing ﬁve ethnic groups. A signiﬁcant increase from 1986 to 1992 was re- ported among African American clients for the following
+Furtherresultsofthesurveysuggestedadecreasefrom1986to 1992inthenumberofrespondentswhoreported“feelingcom- pletely comfortable” in working with any ethnic group. The percent of respondents reporting feeling completely comfort- able with white clients decreased from 1986 to 1992, 88.8% to 85.2%, respectively. Therapists with Native American clients showed the least comfort with that population.
 
-four clinical problems: alcoholism, anxiety, health-related problems, and work-related problems. For Latinos, alco- holism was the only clinical problem showing a signiﬁcant increase. Signiﬁcant increases in the reporting of health- related problems and work-related problems were found for Asian American clients. For Native American clients, signif- icant increases were found on 5 of the 11 commonly reported clinical problems: health-related problems, marital/family related problems, stress-related problems, and work-related problems. No signiﬁcant differences were found for clinical problems reported to white versus non-white therapists.
+The shifts in reported levels of comfort from 1986 to 1992 suggested that both white and ethnic minority therapists were moving away from generalized views of all clients being inherently the same and were more closely scrutinizing them- selves, their abilities, and their preparation for clinical work with clients from various ethnic and cultural groups.
 
-There is a considerable body of literature (Turner, 1996) on ethnic/cultural differences in symptomatology for depres- sion as well as on treatment considerations for anxiety disor- ders and associated stress-related conditions. Asian American clients most frequently presented marital/family problems in therapy, which may be associated with cultural traditions that place a high value on respecting one’s elders and a collective approach to decision making that emphasizes the good of the family versus the well being of the individual.
+The release of the 1990 APA Guidelines for Providers of Psychological Services to Ethnic, Linguistic, and Culturally Diverse Populations challenged psychologists’ level of knowledge and skill in working with the ethnically diverse, thus creating uncertainties and discomfort. Even though re- spondents reported higher levels of discomfort, they were in fact becoming better prepared as they anticipated ethnic and cultural issues in their clinical work, and the numerous considerations required for applying a sociocultural frame- work to diagnosis, assessment, and treatment of the culturally diverse.

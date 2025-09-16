@@ -1,11 +1,9 @@
-## modern patients with similar behavioral disturbances:
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 02464f27cc1f567e06dad98839ddc0ae4aa57182
+title: beo_chap7_1
+---
+# Figure 7.2.
 
-For patients with damage comparable to Gage’s, their ability to make rational
-
-decisions in personal and social matters is invariably compromised and so is their
-
-processing of emotion. On the contrary, their ability to tackle the logic of an abstract
-
-problem, to perform calculations, and to call up appropriate knowledge and attend
-
-to it remains intact. The establishment of such a pattern has led to the hypothesis
+And here is the authors’ interpretation, linking their analysis to the cases of many

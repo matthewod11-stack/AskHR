@@ -1,41 +1,9 @@
-# ways.
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d22aecfeef673c9b3d2fc562787d6d39aef2103c
+title: H08L2R-PDF-ENG
+---
+## Actions for Managers and AI in Co-Thinking Dialogues
 
-What the manager can do in the dialogue What the AI can do in the dialogue
-
-- Provide context
-
-- Articulate
-
-- Give input
-
-- Exemplify
-
-- Define criteria
-
-- Give options
-
-- Offer feedback
-
-- Wear different hats
-
-- Make comments
-
-- Propose
-
-- Add/drop options or ideas
-
-- Elaborate
-
-- Select
-
-- Suggest
-
-- Check
-
-- Analyze pros and cons
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Humans and AI contribute ideas and build upon each other’s thoughts in different

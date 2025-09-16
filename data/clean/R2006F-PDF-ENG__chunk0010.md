@@ -1,11 +1,19 @@
-# change and industry upheaval.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42552e1d70b951edb87d520687455315c6921681
+title: R2006F-PDF-ENG
+---
+## their performance. As the Harvard Business School historian Alfred
 
-Apple’s commitment to a functional organization does not mean
+Chandler documented, U.S. companies such as DuPont and General
 
-that its structure has remained static. As the importance of artiﬁcial
+Motors moved from a functional to a multidivisional structure in
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+the early 20th century. By the latter half of the century the vast
 
-4
+majority of large corporations had followed suit. Apple proves that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+this conventional approach is not necessary and that the functional
+
+structure may beneﬁt companies facing tremendous technological

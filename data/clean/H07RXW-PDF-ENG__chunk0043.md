@@ -1,21 +1,21 @@
-# nurse satisfaction scores.
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98cc71e60483360acb863b21271249edd1ee0621
+title: H07RXW-PDF-ENG
+---
+# HBR / Digital Article / Is Organizational Hierarchy Getting in the Way of Innovation?
 
-Give MEs an option to choose which support services to use.
+Dutch healthcare provider Buurtzorg, for example, has been able to
 
-This is perhaps the most interesting and radical characteristic of the
+provide better patient care by oﬀering its nurses a high degree of
 
-model. In hierarchical models, it is assumed that business units use
+autonomy. Small, self-managed teams of nurses are able to work with
 
-the shared services provided by the company in order to create cost
+patients in the way they think best, based on professional standards, with a back-oﬃce IT and support system around them to free them
 
-advantages — think IT, ﬁnance, R&D, etc. GEA CEO Nolan refers to these
+from paperwork and bureaucracy. A recent KPMG study showed that by
 
-support functions as internal monopolies which need to be broken up because they “can easily within a company become like a ‘post oﬃce,’
+adopting this model of care, Buurtzorg has been able to halve the hours
 
-where they feel there is no competition. There’s a [sense of] entitlement:
-
-[because they are] going to deliver the mail for everyone, [the business
-
-units] have no choice.” Instead, he says, they should “have to ﬁght for
-
-their business every day. They have to improve, they have to be the
+of care it delivers, while at the same time achieving high patient and

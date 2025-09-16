@@ -1,7 +1,9 @@
-# 270 Educational Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b6194f494973ad773c4cc9acac65af06d6b8f7a5
+title: untitled
+---
+# CONTRIBUTIONS OF EARLY PHILOSOPHERS
 
-with this observation. Others who often share the title of founder with Aristotle include Democritus (460–370 B.C.E.), Quintilian (A.D. 35–100), and Comenius (1592–1671).
-
-Each of these philosophers made contributions to philoso- phy in general and education in particular. For example, Democritus voiced the opinion that education is advanta- geous and that the home environment has a substantial impact on learning; Quintilian felt that good teachers, when combined with a worthwhile curriculum, might help control behavioral problems; and Comenius noted that memorization is not the same as understanding and that teachers’ own learning is optimized when they have the opportunity to teach others (Berliner, 1993). Additionally, both Aristotle and Quintilian felt that teachers should make the effort to tailor learning to the individual, taking into account the individual differences of their students (Berliner, 1993).
-
-Although each of these early philosopher-educators can be considered forefathers of modern-day educational psycholo- gists, it may be the views of Juan Luis Vives (1492–1540) that would resonate most closely with today’s educational psychologist. His 1531 book, De Tradendis Disciplinus (The Art of Teaching), has been called the ﬁrst major book on psy- chology. In this book, Vives says, “We must ﬁrst examine, for each type of instruction, the question of what, how, to what extent, by whom and where it should be taught.” Vives goes on to note that the teacher should be the student’s guide and should help individual students make decisions about their studies based on the student’s own interests and abilities (Ibanez, 1994).
+Aristotle is sometimes pointed to as a founder of educational psychology (Berliner, 1993; Charles, 1976; Kaur, 1972). Aristotle’s book De Memoria et Reminiscentia (On Memory and Reminiscence), incorporates views of learning, associa- tion, and retention (Charles, 1976). In this book, written in 350 B.C.E., Aristotle notes that memory is a function of pre- sentation; that is, memory is directly related to the context in which the learning occurred. There are very few, if any, modern-day educational psychologists who would disagree

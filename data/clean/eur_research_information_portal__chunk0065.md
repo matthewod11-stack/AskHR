@@ -1,1 +1,17 @@
-# 707
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: ff677b9b6527b409ca2c5ec7fe9ec8e6e56e7bf2
+title: eur_research_information_portal
+---
+# Editorial
+
+enactments at lower-levels of the organization. The more senior leaders’ own actions are aligned with their espousals, the less likely it is that practice implementation by lower-level leaders will be decoupled. Through their own role modeling, senior leaders help to reduce ambiguity about, and increase internalization of (Wood& Bandura, 1989), the inclusiveleadership behaviors that are expected of lower-level leaders. Finally, senior leaders facilitate effective practice implementation by articulating the informal leadership behaviors that are needed to support practices (Nishii et al. 2018). For ex- ample, LGBTQIA-friendly policies tend to be more impactful when leader behaviors reinforce their underlying intent, for example, by ensuring that employees feel that their same-sex partners are wholly welcomed at company social events (Ragins & Cornwell, 2001).
+
+As Mor Barak and her colleagues (pp. 840–871) warn, it is important for leaders to keep in mind that perceived decoupling is more likely among individuals with marginalized identities, who will be more critical of im- plemented inclusion practices. The consequences associated with such per- ceptions of decoupling are evident in research that shows that climate as perceived by minority employees is a critical determinant of diversity’s positive performance effects—when only majority group members perceive the environment to be inclusive, diversity is negatively associated with performance (Ely, Padavic & Thomas, 2012).
+
+Inclusive Leadership as a Moderator of Second-Stage Relationships at the Organizational-Level (Figure 1, link 3b)
+
+In order to understand which practices are more effective at achieving in- clusion goals and in what combination, senior leaders need to carefully monitor relevant data. Accountability structures not only help ensure that lower-level leaders are motivated to implement practices as expected (de- scribed above); they also provide mechanisms for revealing implementation failures and/or demographic disparities in employees’ experiences and out- comes. Probing evidence about the differential impact of practices in the organization can reveal valuable insights about what accounts for these differences so that superior leadership and practice implementation behaviors can be reinforced and replicated, and senior leaders can understand how to adapt the way they articulate the organization’s inclusion strategy, role model it, and reinforce desired behaviors to yield desired outcomes (Nishii & Paluch, 2018).
+
+Probing available input also provides opportunities for leaders to explore and understand employee narratives that may run counter to assumed,

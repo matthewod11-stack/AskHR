@@ -1,5 +1,11 @@
-## August 2010–May 2011 Waiter, Shakers Restaurant, Gainesville, FL
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: cd592fcc30b5cb67963b014dddbe22f25fd322f5
+title: industrial_organizational_psychology_an_applied_approach
+---
+## May 2011–August 2012 Bank Teller: Barnett Bank, Gainesville, FL
 
-Responsible for taking food and drink orders from customers and serving them
+Responsible for assisting and advising customers with ﬁnancial
 
-courteously and efﬁciently. Worked in a high-volume, fast-paced environment.
+transactions. Cash drawer balanced 99% of the time. Received excellent performance ratings.

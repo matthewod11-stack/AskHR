@@ -1,37 +1,21 @@
-# cultures.
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc39e56acb2ec3000e58fd4c17c4a3dd5f93da3b
+title: H07268-PDF-ENG
+---
+## inclusive cultures on an organizational level.
 
-Toxic cultures lead to disengagement from office politics
+To explore what organizations can do to promote healthy oﬃce politics,
 
-Unsurprisingly, many of the people we talked to shared extremely
+we conducted in-depth interviews with 40 mid-career ethnic minority
 
-negative experiences with oﬃce politics. They told us stories of feeling
+employees working in a wide range of industries across the UK. We
 
-excluded from informal relationships, being overlooked or pushed aside
+asked them to describe their experiences of politics at work, and
 
-by managers, and witnessing underhanded behavior from their peers.
+how their workplace environments inﬂuenced their own willingness to
 
-One participant explained how it was “an impossible task to break into
+engage in politics. We then used a statistical model to analyze their
 
-those cliques and establish yourself.” Another vividly described the
-
-brutality of their workplace, saying, “They’ll slit your throat in front
-
-of you over there. They’ve got no issues about that.” Others recounted
-
-times when they were scapegoated or stepped over: “I’d been sidelined
-
-because [the managers] took the credit,” one participant recalled.
-
-Our analysis also demonstrated that toxic oﬃce politics cultures can
-
-be created and perpetuated at any level of the organization. One
-
-participant described how their manager “started bringing his friends
-
-in, so I got moved to a lower position,” while others described how
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+responses and identify common proﬁles of more- and less-inclusive

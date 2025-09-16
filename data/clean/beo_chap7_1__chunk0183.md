@@ -1,9 +1,11 @@
-## cv/papers/behavioralcorporatefinance.pdf.)
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 027e5be618333d31ad7996b199917cd00ce10937
+title: beo_chap7_1
+---
+# Journal of Finance 55:2219-57.
 
-Bardolet, D., C. Fox, and D. Lovallo. 2005. Partition dependence in organizational capital
+Baker, M., R. Ruback, and J. Wurgler. 2004. Behavioral corporate finance: a survey. Har-
 
-allocation: an experimental investigation. UCLA Anderson School Working Paper.
-
-Barsade, S., K. Koput, and B. Staw. 1997. Escalation and the credit window: a longitudinal
-
-study of bank executives’ recognition and write-off of problem loans. Journal of Applied
+vard Business School Working Paper. (Available at http://www.people.hbs.edu/mbaker/

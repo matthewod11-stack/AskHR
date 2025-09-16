@@ -1,17 +1,27 @@
-# scores of several items or dimensions.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4d7b6c3f2150fefbd762a5c77e93d5aa38aa6569
+title: industrial_organizational_psychology_an_applied_approach
+---
+## members of a group communicate with one another.
 
-Compressed workweeks Work schedules in which 40 hours are worked in less than the traditional five-day workweek.
+Comparable worth The idea that jobs requiring the
 
-Compromising style A style of resolving conflicts in
+same level of skill and responsibility should be paid the same regardless of supply and demand.
 
-which an individual allows each side to get some of what it wants.
+Comparison The effect when an individual working on a task compares his or her performance with that of another person performing the same task.
 
-Computer-adaptive testing (CAT) A type of test taken on a computer in which the computer adapts the
+Compensable job factors Factors, such as responsibility and education requirements, that differentiate the relative worth of jobs.
 
-glossary
+Compensatory approach A method of making
 
-605
+selection decisions in which a high score on one test can compensate for a low score on another test. For example, a high GPA might compensate for a low GRE score.
 
-difficulty level of questions asked to the test-taker’s success in answering previous questions. Computer-based training (CBT) A type of
+Competencies The knowledge, skills, abilities, and other characteristics needed to perform a job. Competition for resources A cause of conflict that occurs when the demand for resources is greater than the resources available.
 
-programmed instruction presented through a computer.
+Complaint box A form of upward communication in
+
+which employees are asked to place their complaints in a box.
+
+Composite score A single score that is the sum of the

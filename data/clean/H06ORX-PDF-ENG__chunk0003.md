@@ -1,45 +1,27 @@
-# HBR / Digital Article / Rebuilding Relationships Across Teams in a Hybrid Workplace
+---
+source_path: H06ORX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5ffd83deb005793759d5e526d5472611b065650b
+title: H06ORX-PDF-ENG
+---
+# Illustration by Vickie Sieczka
 
-served to threaten a sense of community. On top of all that, most of our
+As people slowly return to some form of hybrid workplace, bonds that
 
-remote work interactions have been with our immediate colleagues and
+tie them to one another must be rebuilt. Over the past 18 months,
 
-focused largely on the tasks at hand — research from Microsoft suggests
+most organizations have experienced some degree of fracturing as social
 
-that cross-functional collaboration went down by 25% as interactions
+connections and cultural cohesion have been strained. The challenges
 
-within groups increased during the pandemic.
+of remote work, dramatic uncertainty, the clumsy process of ﬁguring
 
-But fragmentation isn’t a byproduct of remote work. It results from a
+out what returning to the oﬃce could look like, and the mass exodus
 
-lack of intentional bridgebuilding to link discrete groups and regions.
+of workers fed up with cultures that make them feel devalued have all
 
-Silos were certainly prevalent before the pandemic — hybrid work has simply created new requirements for eﬀectively connecting teams that
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-must work together to achieve shared outcomes.
+1
 
-Working to rebuild bonds is especially important because most people
-
-won’t be returning to work as the same people they were before
-
-the pandemic; the last 18 months have changed all of us in some
-
-way. Our values and priorities have shifted. Our senses of meaning
-
-and purpose have broadened. Our anxiety has increased. For some,
-
-tolerance increased while for others, it decreased. In short, we have to
-
-get reacquainted with who we’ve each become. Otherwise, our natural
-
-biases that formed about who each of us were will kick in, creating
-
-unhelpful dissonance as we react to each other as we did prior to the
-
-pandemic. For example, one executive said of his colleague, “She used
-
-to have the best sense of humor, but now quips I make that she would
-
-always laugh at get no reaction at all.” He’d failed to consider that she
-
-was emotionally exhausted because her family was hit especially hard
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

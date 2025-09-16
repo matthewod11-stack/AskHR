@@ -1,21 +1,23 @@
-## sub-communities within the larger community as well.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1216ca9a0e304ab28d7df84afc4f852e86b66dd
+title: H07RVB-PDF-ENG
+---
+# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
 
-ADI IGNATIUS:
+in our business practices, in our community practices, in how we’re
 
-Jim, I want to thank you for sharing your story on this show and in the
+conducting ourselves?”
 
-book. Thank you for being on the show.
+Sometimes just a simple honest census is the ﬁrst metric that I would
 
-JIM FIELDING:
+be an advocate of. Once you have that, you can start to go deeper into
 
-Oh my gosh. It’s an incredible opportunity. Adi, I really appreciate you
+the community because LGBTQIA+, there’s a lot of diﬀerent identities
 
-and your entire team and everybody who called in today.
+within that community. We have to be careful about saying that what
 
-This article was originally published online on August 18, 2023.
+works for one part of the queer community will absolutely work for
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-20
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+another part of the queer community. I think we are diﬀerent. We are

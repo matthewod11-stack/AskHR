@@ -1,19 +1,39 @@
-## HBR / Digital Article / How to Tell Your Boss They’re Wrong—Tactfully
+---
+source_path: H08OVY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c50c0648483c4c07b98450dc0ceaa82f6027207d
+title: H08OVY-PDF-ENG
+---
+# Focus on the future
 
-says Salinas. Ground yourself with a breathing technique to calm your
+When you’re disagreeing with something your boss has already done—
 
-nerves. Be ready for resistance, too, says Wilding. If your boss responds
+like pointing out a misstep during a client call—don’t rehash the past.
 
-with, “You’re trying to undermine me,” or guilt-trips you with, “I
+Instead, Wilding advises focusing on the future. She suggests saying,
 
-thought you were a team player,” she recommends ﬂipping it. Respond
+“I’d like to touch base about that last meeting and discuss how we
 
-with, “I am a team player, that’s why I’m bringing this up. I want us to
+can improve moving forward.” This shifts the conversation to solutions,
 
-be as productive as possible.” If they say, “I thought you were behind
+using the earlier situation as a “springboard to the future.” For example,
 
-me,” reassure them: “I am behind you, that’s why I want you to have this
+you could say, “Next time, it might help to clarify who’s speaking when
 
-information in order to make the strongest decision.” Make it clear that
+so we can both showcase the value we bring to the client.” And never
 
-your feedback is meant to support, not undermine.
+say, “That was a bad move,” Bordone says. “That puts your boss in a
+
+crummy position as the bad decision-maker. No one wants to be there.”
+
+Be prepared for defensiveness
+
+Despite your best eﬀorts, your boss might react badly. So, take a beat.
+
+“Even a brief pause can make a diﬀerence when you feel pressured,”
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

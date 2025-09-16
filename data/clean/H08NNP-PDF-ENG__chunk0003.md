@@ -1,7 +1,19 @@
-# control, and market intelligence.
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb71c3b5c992361ad985e00f21b139eb9ac879d0
+title: H08NNP-PDF-ENG
+---
+## HBR Staff/peterschreiber.media/Wong Yu Liang/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+In his short story “The Evitable Conﬂict,” published 75 years ago,
 
-1
+sci-ﬁ writer Isaac Asimov described how machines might run entire
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+industries. Today, there is mounting evidence that AI can outperform
+
+humans on many individual cognitive tasks. An experiment by a team
+
+from Cambridge University suggests that large language models (LLMs)
+
+can outperform humans in most tasks including product design, cost

@@ -1,13 +1,11 @@
-## billion annually, nearly 10 times more than absenteeism. Yet many
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eeea74eed96328125b7c5b226fac01aac052d1bf
+title: H08R51-PDF-ENG
+---
+# healthcare, speciﬁcally physicians.
 
-senior leaders underestimate the problem. Employees who work while
+The costs of presenteeism extend beyond individual discomfort and
 
-sick experience reduced focus, slower decision-making, and increased
-
-errors, ultimately reducing individual productivity by one third or
-
-more. These impacts ripple throughout teams, creating bottlenecks, ineﬃciencies, and diminishing overall output. Presenteeism also
-
-accelerates the spread of illness and drives up absenteeism costs, which
-
-exceed $225 billion annually.
+inconvenience; it’s quietly draining U.S. businesses of up to $150

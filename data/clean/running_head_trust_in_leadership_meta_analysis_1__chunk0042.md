@@ -1,5 +1,37 @@
-## Inherent in both the transformational dimensions and the contingent reward
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: a3cfdc8f63dab4e9a239ddc69ed67b16ce0950c0
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# consistency (Avolio & Bass, 1991; Kirkpatrick & Locke, 1996). Also, individualised
 
-component are features of leadership that have been repeatedly associated with trust and
+consideration can signal to employees that leaders are benevolent (a defining feature of
 
-subsequent performance (Ng, 2017; Podsakoff et al., 1990; Rubin et al., 2010). Research on
+affective trust) and will look out for their best interest, facilitating trust. All transformational
+
+subdimensions predict trust (e.g., Kelloway et al., 2012).
+
+The full range model also distinguishes laissez-faire, which represents an absence of
+
+leadership, and transactional leadership styles (Bass, 1985). A transactional leadership style is
+
+based on economic exchange (Pillai et al., 1999) and leader influence over follower
+
+behaviour is achieved through contingent reward, where followers are rewarded for meeting
+
+agreed-upon-objectives, or management-by-exception (MBE), where the leader only takes
+
+corrective action, either active or passive, when things go wrong. Consistently engaging in
+
+contingent reward is likely to signal competence, reliability and predictability all of which
+
+denote aspects of ability or integrity (Mayer et al., 1995) or cognitive trust (McAllister,
+
+1995). Thus, contingent reward helps followers trust that leaders will keep their word and
+
+deliver on promises (Jung & Avolio, 2000). However, leaders who are disengaged (i.e.,
+
+laissez-faire leadership) or engage in punitive behaviours (i.e., management-by-exception)
+
+likely undermine the development of trust (e.g., Kelloway et al., 2012).

@@ -1,9 +1,13 @@
-# The Referee
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7795528b18b662fae5abac0bc352228787ab00ba
+title: H075PH-PDF-ENG
+---
+# HBR / Digital Article / Why Employee Mediations Fail — and How to Get Them Back on…
 
-The next task for the mediator is to assess whether the dispute is
+outcomes. But don’t just walk into the room and take control — take the
 
-primarily a win-lose competition. If so, you need to be prepared to
+time to get an accurate read of the situation and then be ready to adjust
 
-support ﬁrm and fair negotiations between them. The referee models how to eﬀectively bargain and horse trade and eﬃciently settles
-
-outcomes. The referee also gives guidance and direction and makes the
+rapidly to address the speciﬁc derailers at hand.

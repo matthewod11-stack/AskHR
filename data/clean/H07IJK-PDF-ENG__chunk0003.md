@@ -1,23 +1,27 @@
-## HBR / Digital Article / How to Onboard Your New Boss
+---
+source_path: H07IJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2e479f12c314906301e02c4955a1556e6b2d08f
+title: H07IJK-PDF-ENG
+---
+# Image Source/Getty Images
 
-that being promoted from within does not eliminate these onboarding
+You’ve just learned that you will soon have a new manager. What can
 
-challenges. Leaders we surveyed said internal promotions were 70% as
+you do to help your new leader launch successfully? You can help your
 
-diﬃcult as coming in from the outside.
+new leader (and yourself) by actively onboarding them.
 
-So, whether your new leader is an internal or external hire, they’re going to need your support. And the best way to oﬀer your support is
+According to research from Egon Zehnder, there are three main reasons
 
-to guide them up the learning curve. Doing so means ﬁrst assessing
+why onboarding leaders derail: 1) They fail to understand how the
 
-what they most need to learn and then helping them understand how
+organization works; 2) They don’t ﬁt with the organizational culture;
 
-to accelerate their learning process. Here are our recommendations for
+and 3) They struggle to forge alliances with peers. Our research shows
 
-how to accomplish both of these steps along with real-world examples
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-from leaders we surveyed.
+1
 
-Assess what your new manager most needs to learn.
-
-There are three fundamental types of learning when starting a new role:
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

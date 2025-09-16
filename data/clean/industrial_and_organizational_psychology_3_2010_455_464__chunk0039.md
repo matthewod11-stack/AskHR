@@ -1,5 +1,7 @@
-# Ajzen, I.
-
-(1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50, 179–211.
-
-Brogden, H. E. (1949). When testing pays off. Person-
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: 965b96d88790ab7ab9f7f221a7bd454f0af7c574
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# References

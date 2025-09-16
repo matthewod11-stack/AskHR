@@ -1,5 +1,13 @@
-# Ali Shah, S.Z.
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: a37ab40e873b8354c7a96c775ceccacb7c917a9f
+title: original_article
+---
+# Lingham directly.
 
-(2009) Corporate Governance and Financial Performance: A Comparative Study of Developing and Developed Markets. Karachi, Pakistan: Mohammad Ali Jinnah University.
+Boyd, B. (1990) Corporate linkages and organiza- tional environment: A test of the resource dependence model. Strategic Management Journal 11(6): 419–430.
 
-Ang, S. and Van Dyne, L. (2008) Handbook of Cultural Intelligence: Theory, Measurement, and Applications. New York, NY: ME Sharpe Incorporated. Ashforth, B.E. and Mael, F. (1989) Social identity theory and the organization. Academy of Management Review 14(1): 20–39.
+REFERENCES Adut, D., Duru, A. and Galpin, W.L. (2011) The role of corporate governance in meeting or beating analysts’ forecast. Journal of Account- ing and Public Policy 30(2): 188–198.
+
+Ajzen, I. (2002) Perceived behavioral control, self- efﬁcacy, locus of control, and the theory of planned behavior1. Journal of Applied Social Psychology 32(4): 665–683.

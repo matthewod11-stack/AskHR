@@ -1,19 +1,25 @@
-## HBR / Digital Article / When You Oversell Your Abilities and It Backfires
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f99812037079d16e9e76458c458e69b1e3b21699
+title: H08NW7-PDF-ENG
+---
+# Peter Cade/Getty Images
 
-is. Ron’s advice? “You need to convince them that you’re capable of
+Ben, an executive coaching client of Ron’s who was one of three
 
-becoming who you need to be by continuously learning once you get the
+candidates being considered as the next CEO of his company, said to
 
-job. Show them that you bring enough to the table to build on.”
+him, “I have to convince them that I’m better than I am!”
 
-Ben is not alone in his assumption that success comes from convincing
+That was the worst thing Ben could have done. If he got the job, he’d
 
-others that you’re more talented than you actually are. As Niccolò
+spend the entire time trying to keep up the illusion, enduring the
 
-Machiavelli famously wrote in The Prince (1532): “It is not necessary
+tension between who he’d convinced others he is and who he actually
 
-to have all the good qualities, but it is very necessary to appear to have
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-them.” We’ve seen too many clients exhaust themselves (and others)
+1
 
-perpetuating a mirage of abilities they then spend a lifetime trying to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

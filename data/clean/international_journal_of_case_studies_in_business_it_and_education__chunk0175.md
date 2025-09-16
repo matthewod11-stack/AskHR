@@ -1,9 +1,9 @@
-# discomfort or conflict in the workplace.
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 47138143962f19cef151ab17d1baaf2df26ad1ae
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+## all types of organisations or industries.
 
-- 12. FINDINGS :
-
-(1) A supportive work environment, work-life balance, and a healthy social environment are all
-
-factors that can boost employee mental health and wellbeing.
-
-(2) A poor work environment, including bullying, discrimination, and an excessive workload, can
+(3) The research may uncover negative aspects of workplace culture, which could potentially create

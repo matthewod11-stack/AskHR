@@ -1,9 +1,13 @@
-## Create new customer experiences and more> relevant interactions.
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: 590059389d4cc837ab2b65953004b293eed0ed4c
+title: a_i_i_n_t_h_e
+---
+# Start with evals
 
-03
+Use a systematic evaluation process to measure how> models perform against your use cases.
 
-Start now andO invest early
+02
 
-The sooner you get going, the more the value compounds.
-
-04
+Embed AI inO your products

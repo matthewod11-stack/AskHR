@@ -1,13 +1,9 @@
-# responses:
+---
+source_path: H08OER-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84fd5039ddfd60b8faf309039356ef484181294c
+title: H08OER-PDF-ENG
+---
+# thinking and actions.
 
-- Status, or your sense of importance relative to others. In the above
-
-example, you worry that Carl’s critique of your work will harm your
-
-coworkers’ views of your competence and intelligence.
-
-- Certainty, or your ability to predict what happens next. As much as
-
-you hate to admit it, Carl’s remarks spark seeds of doubt. Are you
-
-missing something crucial that will hinder successful completion of
+The NeuroLeadership Institute has identiﬁed ﬁve domains that can help you understand and label diﬀerent types of threat and reward

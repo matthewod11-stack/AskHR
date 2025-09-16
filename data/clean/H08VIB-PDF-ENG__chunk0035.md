@@ -1,13 +1,15 @@
-# discussion for consolidation.
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7245022221bc87a37c2384ed920a38427b5c4e94
+title: H08VIB-PDF-ENG
+---
+# AI at Every Seat
 
-In many workshops, participants are invited to take a moment to think
+The third mode, “AI at every seat” refers to a setup where each team
 
-individually, generating ideas, reﬂecting on key topics, or jotting down
+member uses AI individually on their device during a meeting or
 
-thoughts before sharing with the group. Traditionally, these moments
+workshop. In speciﬁc moments, participants are asked to interact with
 
-have relied on pen, paper, and personal insight. Today, facilitators
-
-can at certain moments encourage participants to engage AI as a
-
-thought partner, asking questions, exploring ideas, and deepening their
+AI on their own devices, then bring those outputs into the group

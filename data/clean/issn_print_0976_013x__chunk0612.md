@@ -1,1 +1,11 @@
-## Journal of Management & Commerce Innovation, 2 (1), 79-85.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: d49b7ca2d0759a622f196ce20ab501f077f0a9fb
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+
+Yadav, S. (2014, September). OCTAPACE culture profile in universities of Delhi- NCR: A
+
+comparative study between prevailing and desired level of OCTAPACE. International

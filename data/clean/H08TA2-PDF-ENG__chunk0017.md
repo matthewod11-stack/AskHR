@@ -1,11 +1,23 @@
-# HBR / Digital Article / Why Senior Leaders Should Stop Having So Many One-on-Ones
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32ee15711b1d07fd8b096d3e8b330bb7f04671f6
+title: H08TA2-PDF-ENG
+---
+## A Better Way to Use Executives’ Time: Capability Meetings
 
-For example, innovation isn’t owned by R&D, marketing, or customer
+The alternative is to re-engineer the way executive time is used.
 
-experience alone; it lives in the seams between them. Bringing
+Instead of relying on 1:1s for operational discussions, CEOs and
 
-those leaders together—at the same table—ensures strategic clarity,
+senior executives should convene small, cross-functional “capability
 
-accelerates coordination, and strengthens shared ownership.
+meetings”—1:2 or 1:3 conversations that reﬂect how value is actually
 
-Here are ﬁve ways to begin:
+created.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

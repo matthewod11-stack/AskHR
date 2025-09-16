@@ -1,15 +1,17 @@
-# HBR / Digital Article / The Formal Policies That Protect Family Businesses from Interp…
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3777cdd612e705c7faef420281934d4d0091c9d5
+title: H08PQR-PDF-ENG
+---
+## something optional, or worse, as something cold and untrusting.
 
-Putting policies into place doesn’t mean turning your back on trust. It
+Proactive policies are the most powerful tools for preserving what
 
-means creating a structure that honors it and allows families to focus on
+makes family businesses special: unity, purpose, and continuity.
 
-building their legacy instead of putting out ﬁres.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-If your family business doesn’t yet have a clear policy on ownership,
+6
 
-employment, and marital agreements, now is the time to act. Not
-
-because conﬂict is inevitable, but because peace is worth protecting.
-
-This article was originally published online on April 28, 2025.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

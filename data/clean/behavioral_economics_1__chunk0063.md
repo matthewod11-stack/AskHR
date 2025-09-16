@@ -1,11 +1,9 @@
-## and Human Decision Processes 64(2): 185-202.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 09d9d2235b0adf2e13f8cba38b9377ec4de188cc
+title: behavioral_economics_1
+---
+# References
 
-Angeletos, G.-M., D. Laibson, A. Repetto, J. Tobacman and S. Weinberg (2001). "The Hyperbolic
-
-Consumption Model: Calibration, Simulation, and Empirical Evaluation." Journal of Economic Perspectives
-
-15(3): 47-68.
-
-Arrow, K. J. (1963). Social Choice and Individual Values. New Haven, Yale University Press.
-
-Arthur, W. B. (1991). "Designing Economic Agents that Act like Human Agents: A Behavioral Approach to
+Anderson, M. J. and S. Sunder (1995). "Professional Traders as Intuitive Bayesians." Organizational Behavior

@@ -1,13 +1,19 @@
-## a very signiﬁcant impact of collaborative overload on employee well-
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83ff1dc1691e40ba3a0cec19c5b72e77ef1c4863
+title: H06K3M-PDF-ENG
+---
+# leaders and employees.
 
-being.
+This was an important step. At that point in the Covid evolution, most
 
-The solution was to help people structure time diﬀerently, rather than
+organizations were more concerned with engaging virtual employees
 
-invite them to more meetings. While this is not the sole, silver-bullet
+by piling on more meetings and emails. In contrast, General Mills had
 
-solution, General Mills is continuing to use data to help teams and
+appropriate analytics in place to know this would have absolutely been
 
-individuals better manage the shifting nature of collaborative demands,
+the wrong thing to do — the correlation between fragmented time and
 
-especially as new teams are preparing for a more hybrid and ﬂexible
+both negative mood and employee fatigue was .55, meaning there was

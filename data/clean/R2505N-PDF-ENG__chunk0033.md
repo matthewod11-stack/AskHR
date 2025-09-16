@@ -1,17 +1,43 @@
-# delegate elsewhere.
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d267f872f953d41cf894f52f41d857d47a1992c
+title: R2505N-PDF-ENG
+---
+# additional input.
 
-Be accountable. Encourage your boss to hold you to your promised
+- 3. The boss’s or client’s expectations. Some leaders are pulled back into
 
-outcomes. As one leader in our survey explained, “I made it clear [my
+the activity zone not by the people below them in the org chart but by
 
-manager] could ﬁre me if I didn’t deliver….Before that conversation, I
+those above. It’s not unusual to have a boss (or a client) who expects
 
-think he felt like it was all on him, whereas now he realized it was all on
+you to know every detail about the work being done on a project.
 
-me, and we were both happy with that.”
+My research ﬁnds that this is a particular challenge in sectors where
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the consequences of failure are high (such as public utilities, mining companies, and hospitals). Combating this challenge is also diﬃcult in
 
-8
+organizations that are culturally hierarchical, where pushing back on
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the boss isn’t acceptable. But all leaders need to manage up. You can
+
+take steps to ask your boss to hold you accountable for outcomes rather
+
+than expecting you to be involved in all the activities that will deliver
+
+them. Here’s how:
+
+Start small. First, choose the outcomes that are most likely to be
+
+achieved and seek permission to fully delegate those activities. For
+
+example, one director of a research lab told her boss she planned to
+
+provide oversight but not dig into the details of work in the area she
+
+had previously run because she already had a good understanding of
+
+what her team could do without her and of the risks involved. When she
+
+delivered well on those goals, her boss began to trust her decisions to

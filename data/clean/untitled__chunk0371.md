@@ -1,15 +1,17 @@
-# sional School Psychology, 3, 109–121.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1d57b491221578173ca5f7bb1d9cf840febcda68
+title: untitled
+---
+# REFERENCES
 
-Baker, D. B., & Benjamin, L. T., Jr. (2000). The afﬁrmation of the scientist-practitioner: A look back at Boulder. American Psy- chologist, 55, 241–247.
+American Psychological Association, Committee on Training in Clinical Psychology. (1947). Recommended graduate training program in clinical psychology. American Psychologist, 2, 539–558.
 
-Benjamin, L. T., Jr. (1996). The founding of the American Psychol- ogist: The professional journal that wasn’t. American Psycholo- gist, 51, 8–12.
+American Psychological Association. (1957). Proceedings of the sixty-ﬁfth annual business meeting of the American Psychologi- cal Association. American Psychologist, 12, 696.
 
-Benjamin, L. T., Jr. (1997). The origin of psychological species: History of the beginnings of the American Psychological Associ- ation divisions. American Psychologist, 52, 725–732.
+American Psychological Association. Division of Counseling and Guidance, Committee on Counselor Training. (1952). Recom- mended standards for training counseling psychologists at the doctoral level. American Psychologist, 7, 175–181.
 
-Benjamin, L. T., Jr. (in press). Science for sale: Psychology’s earli- est adventures in American advertising. In C. Haugtvedt, W. N. Lee, & J. Williams (Eds.), Diversity in advertising. Mahwah, NJ: Erlbaum.
+American Psychological Association, Division of Counseling Psy- chology, Committee on Deﬁnition. (1956). Counseling psychol- ogy as a specialty. American Psychologist, 11, 282–285.
 
-Berg, I., Pepinsky, H. B., & Shoben, E. J. (1980). The status of coun- seling psychology: 1960. In J. M. Whiteley (Ed.), The history of counseling psychology (pp. 105–113). Monterey, CA: Brooks/ Cole.
-
-Boring, E. G. (1938). The society of experimental psychologists, 1904–1938. American Journal of Psychology, 51, 410–423.
-
-Boring, E. G. (1967). Titchener’s experimentalists. Journal of the
+Baker, D. B. (1988). The psychology of Lightner Witmer. Profes-

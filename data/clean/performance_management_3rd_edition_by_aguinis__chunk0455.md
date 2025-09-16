@@ -1,3 +1,7 @@
-## Part I • Strategic and General Considerations
-
-(cid:2) Describe the basic components of a good vision statement. (cid:2) Create organizational- and unit-level mission and vision statements. (cid:2) Understand the relationship between mission and vision statements, goals,
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: ebe5265dfebae9ecaec58a371a65e9144de5be86
+title: performance_management_3rd_edition_by_aguinis
+---
+# 60

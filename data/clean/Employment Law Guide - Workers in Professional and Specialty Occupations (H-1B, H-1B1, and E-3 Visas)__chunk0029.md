@@ -1,5 +1,17 @@
-# notice must:
+---
+source_path: Employment Law Guide - Workers in Professional and Specialty Occupations
+  (H-1B, H-1B1, and E-3 Visas).md
+pages: n/a-n/a
+chunk_id: 985dd6ba892e0b89cb2cadd101ecec4428ffa9b8
+title: Employment Law Guide - Workers in Professional and Specialty Occupations (H-1B,
+  H-1B1, and E-3 Visas)
+---
+# Notices and Posters
 
-Indicate that H-1B workers are sought
+There is no poster requirement.
 
-Identify the number of H-1B employees the employer plans to hire
+There is a notice requirement. The employer must inform U.S. workers of the intent to hire a foreign worker by providing notice of the ﬁling of the LCA to the bargaining representative if there is one, or, if there is no bargaining representative, by posting notice of
+
+ﬁling in two conspicuous locations at the employer's establishments, or by providing electronic notice (see below). The notice
+
+must be provided on or within the 30-day period before the date that the labor condition application is submitted to DOL. The

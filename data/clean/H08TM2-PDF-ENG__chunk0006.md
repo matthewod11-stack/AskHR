@@ -1,13 +1,15 @@
-# Accelerate reflection.
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44acebb413a002db65271c6b759dffeaed8e7bc2
+title: H08TM2-PDF-ENG
+---
+# consequences for her career.
 
-Many times, we’ve found that organizations in trouble haven’t invested
+In the best of times, leading at senior levels requires a degree of mental
 
-the time to step back and examine the assumptions and beliefs that
+fortitude and emotional labor. Preparing yourself that the state of the
 
-created the problems they see today. Getting to a well-rounded picture
+business, culture and operations is likely worse than you already know
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+will help you remain steady as the truth unfolds.

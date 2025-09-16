@@ -1,5 +1,9 @@
-## Making Friends at Work: Our Favorite Reads
+---
+source_path: Making Friends at Work_ Our Favorite Reads.md
+pages: n/a-n/a
+chunk_id: 5dec31abeccd4cfb46c6f85f38609dfd8809c444
+title: Making Friends at Work_ Our Favorite Reads
+---
+# 9/10/25, 11:04 AM
 
-https://hbr.org/2021/11/making-friends-at-work-our-favorite-reads
-
-4/4
+is an associateeditor at Ascend.

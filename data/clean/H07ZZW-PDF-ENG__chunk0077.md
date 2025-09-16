@@ -1,7 +1,41 @@
-## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2f5b0ffac4e1d23e1eace60141ba66d5d6fdb356
+title: H07ZZW-PDF-ENG
+---
+## International Business School professor Megan Reitz and author Jim
 
-will not seek to control, as well as what it will. An institutional
+Higgins have rightly argued, “Banning political speech is fundamentally
 
-emphasis on individual choice and responsibility can help employees
+implausible because it is impossible to draw a clean, objective line
 
-learn to be better political players themselves; indeed, it takes the
+between what counts as ‘politics’ and what doesn’t — or which issues
+
+are ‘acceptable’ to discuss because they relate to the company’s mission
+
+and which aren’t.”
+
+The best nonpartisan approach for coping with escalating political
+
+demands by employees is to emphasize individual political
+
+engagement, tolerance, and mutual respect. True inclusion means
+
+that someone should be able to hold a political opinion, even
+
+if it’s misaligned with the company’s dominant culture, without
+
+being penalized or “canceled.” Employers should respect healthy and
+
+inclusive discourse while setting clear ground rules around issues such
+
+as racism, sexual harassment, and calls for violence. A strong, clear code
+
+of conduct is useful, not least by making it clear what a corporation
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

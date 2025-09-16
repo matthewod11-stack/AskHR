@@ -1,11 +1,53 @@
-# HBR / Digital Article / Becoming More Collaborative When Your Impulse Is to Be Territo…
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb6c5cba47259c3533f1342ab410224de4f5e18a
+title: H07ZCR-PDF-ENG
+---
+# meeting?
 
-Once you know what’s needed from each party and an agreement is
+Regaining trust will require both parties to take accountability for
 
-made to achieve a given goal, it’s time to proactively identify progress
+what went wrong as a ﬁrst step to repairing the relationship. It also
 
-milestones along the way, a cadence for communication, and preferred
+won’t happen overnight. For Elena, this involved speaking to each
 
-channels. With a commitment to collaborative problem-solving, you’ll
+stakeholder individually to acknowledge her missteps and share her
 
-not only create a more successful outcome but also foster an execution-
+desire to improve the working relationship and what that would mean
+
+for her and the organization. She also made a conscious eﬀort to build
+
+rapport and take action to support others’ priorities to demonstrate that
+
+the partnership was not one-sided.
+
+- 4. Create a shared commitment.
+
+You must forge a collective agreement, including the working norms
+
+and processes you and your colleagues will commit to. Creating a shared
+
+commitment will increase the probability of success, as people naturally
+
+rebel at expectations because they don’t consider the needs of the other
+
+person. This can be established with working agreements that deﬁne
+
+objectives and the commitments that must be upheld by all parties to
+
+achieve them.
+
+Here’s some sample language to begin this dialogue:
+
+Given our shared goal of [insert goal], I’d like to achieve [insert milestone]
+
+by [deadline]. This is needed because [explain rationale]. What help do
+
+you need from me to make this happen?
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

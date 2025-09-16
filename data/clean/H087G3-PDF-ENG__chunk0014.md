@@ -1,13 +1,15 @@
-# understanding of my illness.”
+---
+source_path: H087G3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 849c07adf362841958a015eae8ef7e173bebc21d
+title: H087G3-PDF-ENG
+---
+## respondents, not the broader population.)
 
-As one chronically ill respondent said, “Long Covid is not yet
+Most non-ill people who responded said that their organizations were supportive of chronically ill workers, but those directly affected disagreed.
 
-understood as a chronic illness…My boss was understanding for the ﬁrst
+When asked if their employers were understanding of employees with
 
-year, but then told me she’d been ‘patient’ while I ‘recovered’ and now
+health issues, 60% of non-ill respondents agreed. Only 36% of people
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+who identiﬁed as having chronic illnesses agreed that “my employer is

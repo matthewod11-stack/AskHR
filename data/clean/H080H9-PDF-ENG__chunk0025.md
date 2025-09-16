@@ -1,5 +1,9 @@
-# personal network.
+---
+source_path: H080H9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 177894f9d33212c8caf9d8b8d44245352bfe84bc
+title: H080H9-PDF-ENG
+---
+# chaos.
 
-- Seize the opportunity for introspection — it might reinforce that
-
-you’re satisﬁed in your job or it might prompt you to consider new
+- Seek support from family members, friends, and others in your trusted

@@ -1,17 +1,7 @@
-## Pablo Sánchez Celi, the CEO of Avinsa, a food processing company
-
-in Santander, Colombia, with roughly 350 employees. Avinsa is in the
-
-midst of a change initiative — referred to internally as Avinsa Viva —
-
-aimed at ﬂattening the hierarchy.
-
-This corpus of information, meticulously documented over a three-
-
-year span, illustrates the fact that leading this type of organizational
-
-change is messy, nuanced, and really hard. The path is riddled with
-
-complexities, from managing employee expectations and redeﬁning
-
-leadership roles to reconﬁguring communication channels and
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f1dac4d65178023fd5669d7d08b7ba7fd470d95
+title: H082JA-PDF-ENG
+---
+## us as part of an ongoing collaboration with the third author, Juan

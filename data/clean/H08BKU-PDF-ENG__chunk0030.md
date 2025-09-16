@@ -1,19 +1,7 @@
-## In the context of refugee employment, the most prominent support
-
-organization is the Tent Partnership for Refugees. This globally
-
-operating not-for-proﬁt mobilizes the business community to advance
-
-sustainable employment outcomes for refugees. Tent and LinkedIn
-
-both maintain online databases of numerous certiﬁed NGOs and
-
-social enterprises worldwide. For example, in Australia, Community
-
-Corporate works directly with hiring employers such as Accenture,
-
-IKEA, and Woolworths to recruit refugees to their workforce while also
-
-collaborating with companies like Cisco, AWS, and ServiceNow that
-
-oﬀer dedicated upskilling programs across a range of high-demand
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0fe94b0a374a9709b189eb3094a3b1f7ad6328f5
+title: H08BKU-PDF-ENG
+---
+## HBR / Digital Article / Research: Why Inclusive Hiring Must Include Refugees

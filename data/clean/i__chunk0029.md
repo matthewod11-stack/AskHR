@@ -1,11 +1,9 @@
-# People Analytics
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: d93ffb78ecc9649dfa01af3d5fdaf355a719303c
+title: i
+---
+## impact on both business and financial outcomes.
 
-It explores the practical implementation of People Analytics (PA) across a spectrum of
-
-scenarios and delves into the various data sources involved. Furthermore, the chapter reviews
-
-the essential infrastructure and technology needed to ensure the success of People Analytics
-
-initiatives. In addition, it offers a closer look at the skill sets required for HR analysts,
-
-identifying and defining existing gaps in proficiency and highlighting the value predictive PA
+3

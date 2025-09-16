@@ -1,21 +1,47 @@
-# and smoking.
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f4121a69d46f88532b676ae2e84580a91ab0448
+title: H08GC0-PDF-ENG
+---
+## HBR / Digital Article / Let’s End Toxic Productivity
 
-Unfortunately, for the people taking their allotted time, it’s not like
+upon return — several studies have shown that workers are vacation-
 
-they’re getting the kind of rest and recovery they need. People who
+deprived. According to Expedia’s annual global survey of 11,500 global
 
-take time oﬀ wrestle with feelings of guilt and fear of judgment from
+employees, 62% of global workers don’t feel they have enough time oﬀ
 
-colleagues or supervisors, who might perceive them as less dedicated or
+or breaks. The 2024 PTO Report by ﬁntech ﬁrm Sorbet found persistent
 
-committed.
+underutilization of vacation time, with employees taking around 10
 
-Toxic productivity disproportionately impacts women, who are often
+days in 2023. It also found that women in the U.S. are 19% less
 
-burdened with the “second shift” of domestic duties. A joint LeanIn.org
+comfortable with taking a vacation than their male counterparts. No
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+wonder U.S. workers are feeling the eﬀects of vacation deprivation.
 
-5
+Pew research ﬁnds that 49% of people who don’t take their full PTO say
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they worry about falling behind, 43% say they would feel badly about
+
+coworkers taking on extra work, and 19% worry that taking time oﬀ
+
+might hurt their chances of getting a promotion.
+
+Slack’s report also found that “half of all desk workers say they rarely
+
+or never take breaks during the work day.” Compass Group’s Global
+
+Eating at Work Survey 2023 found that one third of employees globally
+
+are eating alone. “Dining al desko,” or “desktop dining” may sound
+
+like just another TikTok trend, but it comes with serious consequences.
+
+Research found that eating alone signiﬁcantly increases depressive
+
+symptoms and people who sat for more than eight hours a day with
+
+no physical activity had a mortality risk similar to that posed by obesity

@@ -1,17 +1,15 @@
-## Instructor-Led Learning, Blended Learning, and the Role of the Instructor
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: c14cbd97863cc5a7f805c29c2d8dd92b9f46740b
+title: arop1noe_245_275
+---
+# l
 
-Despitetheincreased interestinanduseoftechnology-basedinstructionalmethods, instructor-led training remains the mostfrequently used method ofinstruction (Miller 2013). Although much of the previous discussion focuses on a movement toward informal and self-directed learning, the formaltrainingcontext,bothinpureandblendedforms,remainsarelevantfieldofstudy.Blended forms of learning were created to extract the best of both worlds: the face-to-face social context of classroom learning and the cost-effectiveness and flexibility of online learning (Bonk & Graham 2012). However, blended forms of learning may still be susceptible to negative factors associated with both types of learning, including disengagement due to self-regulation, failure in the online portion of learning, or a lack of interest in lecture or other passive forms of learning.
+information, but rather the social media tools themselves that allow individuals to participate in the conversationandtosharewitheachother.Dabbagh&Kitsantas(2012)suggestthatwemaybeable to gaininsightabout self-regulation of learning in both formal and informal contexts through the integration of social media and personal learning environments—that is, online media where information can be created, organized, or shared and learners can regulate the content and speed of learning.
 
-www.annualreviews.org (cid:1) Learning in Today’s Workplace
+Althoughsomecompanieshavebannedtheuseofsocialmediabytheiremployees,arguingthat it diminishes productivity, others have encouraged its use and attempted to leverage it to manage socialandprofessionalconnectionsinternaltothefirm(Robert Half Technol. 2011). Ravenscroft et al. (2012) provide insight into how to design social media for learning. They suggest that the design of social learning should be an iterative process that considers the knowledge maturation process and the goal of linking individual informal learning, organizational learning, and knowledge management. Knowledge maturation is how knowledge becomes less contextualized and more explicit, and as a result becomes easier to communicate.
 
-Massive open online courses (MOOCs): open enrollment courses that integrate social and online learning
+The knowledge maturing process includes expression of ideas, distribution in communities, formalization, ad hoc learning, and standardization. Wodzicki et al. (2012) investigated using StudiVZ, an educational social media tool in Germany. They found that students used the tool to discuss scholastically relevant material, but the tool was most often used as a means for social integration. It would be beneficial to conduct similar research in the workplace. Because the social context is often an important factor for other types of learning (Jarvis 2012), we may gain insight from evaluating social learning as a possible antecedent or enabler of other types of learning that occur in organizations.
 
-Blended learning: learning that includes instructor-led learning and technology-aided learning methods such as online learning
-
-253
-
-6 2
-
-: 5 2 : 4 0
-
-5 2 0 2
+Massiveopenonlinecourses(MOOCs)havebeenlaudedinthemediaasrevolutionizingonline learningandasthe“doortotheIvyLeagueforthemasses”(Ripley2012).MOOCsusetraditional teaching tools,suchasreadings,problems,videos,andlectures,butalsohaveaninteractiveforum in which students and professors can ask and answer questions, start discussions, and share ideas. MOOCs’ most attractive features include their flexible structure and collaborative environment. Studentscanchoosetheirlevelofparticipation,scheduletheircoursetimeattheirwill,andinteract through social media to further their peer-to-peer and social learning. MOOCs are also almost universally affordable. As of early 2013, 325 MOOCs were offered with class sizes of up to 300,000 people (Waldrop & Nature 2013). It should also be noted that there are other forms of online education that have contributed to the enthusiasm and demand for online learning, in- cluding ALISON, Khan Academy, Coursera, Peer to Peer University, Udacity, edX, and Udemy. ThereislimitedpublishedresearchontheeffectivenessandimpactofMOOCs.Somereportsshow lowcourse-completionrates,rangingfrom20%tolessthan10%,suggestingthattheeffectiveness of MOOCs may be limited (Jordan 2013).

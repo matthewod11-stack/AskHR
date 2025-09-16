@@ -1,51 +1,7 @@
-# Physicians
-
-100 —
-
-90 —
-
-80 —
-
-70 —
-
-)
-
-%
-
-(
-
-60 —
-
-e g a t n e c r e P
-
-50 —
-
-40 —
-
-30 —
-
-20 —
-
-10 —
-
-0 —
-
-| <25
-
-| 25–29
-
-| 30–34
-
-| 35–39
-
-| 40–44
-
-| 45–49
-
-| 50–55
-
-| 55–59
-
-| 60–64
-
-| +65
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: 6b69e55a7a9ad9ad9db8c13d00f8ab61b9d37767
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+# Dentists

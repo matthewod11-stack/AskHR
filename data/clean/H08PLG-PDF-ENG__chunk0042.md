@@ -1,19 +1,15 @@
-# Markets
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0673fef689a8bdbbaefd548672a9afac17fc5ef
+title: H08PLG-PDF-ENG
+---
+## along with scorecards, such the Stanford Center for Research on
 
-Companies that invest in trust-building tools will ﬁnd that trust
+Foundation Models’ transparency scores. “AI interpretability” studies
 
-enhances demand. A study of AI voice assistants found that trust has a
+in healthcare, and training from the AI developers or intergovernmental
 
-positive eﬀect on adoption, while trust was also key to users’ willingness
+bodies are also key to ensuring trustworthiness of AI. Employers can
 
-to persist with chatbots for health services. Customers are twice as likely
-
-to engage with trustworthy AI, with workers being two-and-a-half times
-
-more likely to utilize employers’ AI tools at work if they trust them.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+also train workers in detecting unreliable AI-generated information.

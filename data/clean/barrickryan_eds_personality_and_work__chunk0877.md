@@ -1,7 +1,13 @@
-## proach. Journal of Applied Psychology, 86, 1142–1151.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 2714a66f30c8e366cb5a5fc95771bd1ce565d0f3
+title: barrickryan_eds_personality_and_work
+---
+# Books.
 
-Guion, R. M. (1983). Comments on Hunter. In F. Landy, S. Zedeck, & J. Cleveland (Eds.), Performance measurement and theory (pp. 267–275). Mahwah, NJ: Erlbaum.
+Gottfredson, L. S. (1986). Occupational aptitude patterns map: Devel- opment and implications for a theory of job aptitude requirements [Monograph]. Journal of Vocational Behavior, 29, 254–291.
 
-Hattrup, K., & Jackson, S. E. (1996). Learning about individual differences by taking situations seriously. In K. R. Murphy (Ed.), Individual dif- ferences and behavior in organizations (pp. 507–541). San Francisco: Jossey-Bass.
+Graziano, W. G., Hair, E. C., & Finch, J. F. (1997). Competitiveness me- diates the link between personality and group performance. Jour- nal of Personality and Social Psychology, 73, 1394–1408.
 
-Hofstede, G. (1980). Cultures consequences: International differences in work-
+Grifﬁn, M. A. (2001). Dispositions and work reactions: A multilevel ap-

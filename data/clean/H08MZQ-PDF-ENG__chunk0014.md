@@ -1,17 +1,15 @@
-## ideal promising that talent and eﬀort determine success.
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ddb7bc5fa01647aeae0db95271c05bc4fd33b90
+title: H08MZQ-PDF-ENG
+---
+## struggle, suﬀering, and abilities of others—like the book’s narrator
 
-Today, meritocratic framing, regardless of the intention, often serves to
+who, according to the concluding footnote, is killed, presumably in
 
-justify inequality and unfair barriers while perpetuating the myth that
+the uprising of the lower classes he believed to be incapable of
 
-opportunities to obtain success are evenly distributed. In reality, there
+eﬀectively rising up. Nevertheless, many readers interpreted the idea
 
-are drastic diﬀerences in opportunities based on the circumstances
-
-of one’s birth. Perceptions of merit are frequently shaped by biases
-
-and social capital rather than objective performance, and marginalized
-
-people are often judged more harshly for mistakes others get away with.
-
-To get closer to fairness, we need both merit and inclusion. The
+of meritocracy as positive, and in common usage, it became a cherished

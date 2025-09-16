@@ -1,29 +1,17 @@
-## HBR / Digital Article / How to Make Job Interviews More Accessible
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 825c9c96df817615950d3d4aa462db12703b9635
+title: H088YP-PDF-ENG
+---
+# inclusive.
 
-“Many of us hold a certain image of what disability looks like and
+Increase your understanding of disability. First things ﬁrst: You need
 
-assume that we haven’t worked with many disabled people,” she says.
+to break free from your preconceived ideas about disability, says Bach.
 
-But statistically speaking, this belief is unlikely to reﬂect reality.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Roughly one in four Americans live with a disability, according to
+2
 
-the Centers for Disease Control and Prevention, and studies suggest
-
-that about 9% of Americans have a learning diﬀerence. Many of these
-
-diﬀerences and disabilities are hidden or invisible.
-
-Meanwhile, 61% of disabled workers have experienced bias,
-
-mistreatment, and bullying on the job, research shows. “Once you
-
-broaden your understanding of disability and its implications,” says
-
-Bach, “you realize it’s far more prevalent and complex than you
-
-thought.”
-
-Which is all to say that when it comes to designing more inclusive,
-
-accessible job interviews, “sometimes you need to open yourself up
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

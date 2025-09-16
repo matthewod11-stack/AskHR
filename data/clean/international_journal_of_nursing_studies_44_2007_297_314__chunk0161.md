@@ -1,3 +1,15 @@
-# responsibility.
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 99539415c01d401296c20f6b6f16802b0aa8e63f
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# level
 
-Fang (2001) also found no statistically signiﬁcant inﬂuence of pay on turnover cognition (coefﬁcient standardised (cid:3)0.108) or turnover intention (0.007). A complete assessment of the importance of pay was, however, complicated by the loading of pay into the same factor of job satisfaction. The overlap between these two factors was found during factor analysis and it was therefore found to possess a lack of empirical the sample distinctiveness. The question asked of
+4.3. Pay
+
+Throughout the studies that measured the importance of pay for nurses (Fang, 2001; Fletcher, 2001; Cowin, 2002; Rambur, 2003), deﬁnitions were implied as ‘salary’ or ‘salary and fringe beneﬁts’, which enhanced compar- ability of ﬁndings. However, the impact of salary related to culture is difﬁcult to determine without detailed knowledge of the wider social and economic climate in which it operates. In addition, several different ﬁndings were produced from differing methods of assessment.
+
+Cowin (2002) measured satisfaction with pay over an 8-month period among a sample of Australian graduate nurses (n ¼ 506 at T1, n ¼ 110 at T2) and experienced nurses (n ¼ 528 at T1, n ¼ 332 at T2) through a component of the Index of Work Satisfaction (IWS, Stamps and Piedmonte, 1986) at two points in time (T1 ¼ 0 months, T2 ¼ 8 months). The ﬁndings indicated that although the issue of pay was not ranked as the it rated as the least satisfying for most important, graduates (T1 and T2) and second least satisfying for experienced nurses (T2). Furthermore, the importance of pay increased over time for both groups (from 3/6 to 2/6). This could be attributable to other confounding factors occurring over the 8 months of the study but not measured, or may indicate a growing concern that has the potential to become a considerable source of importance. However, the speciﬁcally constructed Nurse Retention Index (NRI, 8-point forced choice Likert) was administered to the two groups at T2, and Cowin (2002) stated that the results of multiple regression analysis suggest that pay was not a statistically signiﬁcant indicator of intent to leave for either group (ﬁgures undisclosed). Despite this, the qualitative component of Cowin’s study, which consisted of written comments, indicated that dissonance between pay and level of responsibility may lead to retention issues. A major source of concern for graduates and experienced nurses was the perceived inequality of pay for high level In particular, experienced nurses of level of knowledge and compared their workloads, responsibility to their perception of ‘less qualiﬁed’ professions, resulting in expressions of disappointment with career choice. Other comments suggested that pay was not a primary problem for retention when enjoy- ment of other aspects (undisclosed) of the work was high.
+
+(2002)

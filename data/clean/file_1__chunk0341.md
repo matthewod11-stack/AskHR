@@ -1,7 +1,13 @@
-# 76
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: c27b68f4af573dead3b8049a7943b6e94e6210de
+title: file_1
+---
+# N
 
-First of all, hypothesis 1, according to which female employees perceive both (a) societal and (b) workplace gender inequality to a greater extent than their male counterparts, was supported. Secondly, hypothesis 2, which stated that age is positively related to employees’ perceptions of both (a) greater societal and greater (b) workplace gender inequality, was supported. Neither hypothesis 3, according to which there is a negative relationship between marriage and employees’ perceptions of (a) societal and (b) workplace gender inequality, nor hypothesis 4, according to which there is a positive relationship between education and employees’ perceptions of (a) societal and (b) workplace gender inequality, were supported. Next, neither hypothesis 5, which states that there is a positive relationship between living in rural area, and employees’ perceptions of (a) societal and (b) workplace gender inequality, nor hypothesis 6, according to which there is a relationship between experience of sexual harassment and employees’ perceptions of (a) societal and (b) workplace gender inequality, were supported. Furthermore, both hypothesis 7, according to which there is a relationship between experience of psychological harassment and employees’ perceptions of (a) societal and (b) workplace gender inequality, and hypothesis 8, according to which working in male/female-concentrated sectors is positively related to employees’ perceptions of greater workplace gender inequality, were supported. Hypothesis 9, which states that employers’ negative attitude towards reconciliation of work and family is positively related to employees’ perceptions of greater workplace gender inequality, was not supported. Hypothesis 10, according to which employers’ negative attitude towards family leave for male employees is positively related to employees’ perceptions of greater workplace gender inequality, was supported. Finally, last hypothesis 11, according to which employers’ negative attitude towards family leave for female employees is positively related to employees’ perceptions of greater workplace gender inequality, was not supported.
+610
 
-Several control factors were significantly related to employees’ perceptions of workplace gender inequality. Lower-level white collar employees and ordinary employees perceived workplace gender inequality to a greater extent than employees in supervisory or management positions as well as upper-level white-collar employees. Employees with full- time contracts perceived workplace gender inequality to a greater extent than employees with part-time contracts. Finally, employees, who had requested a pay increase, had perceived workplace gender inequality to a greater extent than those employees, who have not requested any pay increases.
+606
 
-Overall, employees’ perceptions of (a) societal gender inequality were found to depend significantly on employees’ gender, age, experience of psychological harassment, and family leave for male employees. Employees’ perceptions of (b) workplace gender inequality were found to depend considerably on employees’ gender, age, experience of psychological harassment, gender composition of employment sector, family leave for male employees, request for pay increase, employment position and contract.
+- p<0.05; **p<0,01; ***p<0,001 (significance levels are based on one-tailed test)

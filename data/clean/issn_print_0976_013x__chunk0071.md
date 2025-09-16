@@ -1,9 +1,9 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 5633d61faecc122e6d4ca5c98f8a4ff6d188025c
+title: issn_print_0976_013x
+---
+# says-ceo/article66638553.ece
 
-Journal of Management & Public Policy,
-
-Vol. 14, No. 2, June 2023, Pp. 9-15
-
-ISSN 0976-0148 (Online) 0976-013X (Print)
-
-DOI: https://doi.org/10.47914/jmpp.2023.v14i2.002
+8

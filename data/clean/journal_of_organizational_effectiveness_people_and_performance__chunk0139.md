@@ -1,5 +1,9 @@
-## agenda”, Human Resource Management Review, Vol. 19, pp. 304-313.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 3772647b8732b7dbb3695913a17e65cbab523cac
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## Colarelli, S.M., Dean, R.A. and Konstans, C.
 
-Combs, J., Liu, Y., Hall, A. and Ketchen, D. (2006), “How much do high-performance work practices matter? A meta-analysis of their effects on organizational performance”, Personnel Psychology, Vol. 59 No. 3, pp. 501-528.
-
-Connolly, J.J. and Viswesvaran, C. (2000), “The role of affectivity in job satisfaction: a meta-
+Collings, D.G. and Mellahi, K. (2009), “Strategic talent management: a review and research

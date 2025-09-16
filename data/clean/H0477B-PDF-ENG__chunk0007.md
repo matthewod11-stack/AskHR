@@ -1,7 +1,15 @@
-# policy for adoptive parents.
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 616bb1b054837716ade0858bb52f0c9a8066a2b4
+title: H0477B-PDF-ENG
+---
+# Andy Crawford/Getty Images
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+Walmart will soon offer better parental leave than most U.S.
 
-1
+companies. The new policy for biological parents, announced in
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+January, will go into effect on March 1, according to a company
+
+spokesperson. The company already has rolled out a more generous

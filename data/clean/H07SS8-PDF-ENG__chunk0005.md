@@ -1,17 +1,35 @@
-# again if necessary.
+---
+source_path: H07SS8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52059979fd7860ede53301a79ba3a74c48081a6f
+title: H07SS8-PDF-ENG
+---
+## HBR / Digital Article / How to Avoid the Churn That Comes with Agility
 
-Based on my years of experience advising ﬁrms on innovation and eﬃciency, I believe that to counter the negative eﬀects of these changes, leaders guiding their teams through pivots should better diﬀerentiate
+Any leadership superpower, however, can become a weakness. When
 
-means and ends: They should be able to articulate an end goal that stays
+leaders change course on projects frequently, their people can become
 
-constant even as the means to get there change.
+confused about what they are supposed to do (or at least need to spend
 
-Let’s look at two examples. At a tech venture that I advised, the
+time re-planning and addressing the change), introducing ineﬃciency
 
-founder had created his core product through lots of experimentation
+and churn and impeding progress. It’s also demotivating: It’s like
 
-and improvisation, trying one thing after another until it became clear
+telling someone to run north, then south, then north, and then south
 
-what worked. As the company grew to over 100 engineers with multiple project teams all building oﬀ of the original product design, however,
+again. After reversing direction so many times, the smart move for an
 
-the founder’s desire to keep improvising and shifting directions became more of a liability than a strength. One manager described the eﬀect as a
+employee is to stand still until the leader ﬁgures it out.
+
+The solution to this problem can’t simply be to “reduce agility.” Leaders
+
+in these cases are largely doing the right thing in the face of fast-
+
+changing conditions and high degrees of uncertainty. Rather than stay
+
+committed to a path that might lead to a dead end or waste the
+
+company’s time and resources, they’re pivoting their teams to what they
+
+think will be a more productive direction, and then doing it again and

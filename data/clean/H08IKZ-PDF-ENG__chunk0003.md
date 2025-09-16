@@ -1,13 +1,25 @@
-# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5701fcdc77dd5fa43fe05b10e5523b316c815b13
+title: H08IKZ-PDF-ENG
+---
+# Marcos Osorio/Getty Images
 
-Decisions are not merely exercises in data aggregation and algorithmic
+AI’s rapid advancement has ignited enthusiasm about its potential to
 
-analysis. They necessarily involve many additional nuanced elements,
+revolutionize corporate decision-making by substituting for expensive,
 
-such as selecting trustworthy data sources, employing imagination to
+fallible humans. But it’s naïve to believe that by gathering ever more
 
-envision possibilities beyond available facts, and judging the feasibility
+data and feeding it to ever more powerful algorithms alone, businesses
 
-of solutions. These are areas where humans have innate advantages
+can uncover the truth, make the right decisions, and create value. We
 
-over machines. Crucially, these involve implicit and often untrained
+call this false belief “dataism.”
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

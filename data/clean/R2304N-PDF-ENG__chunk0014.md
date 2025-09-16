@@ -1,23 +1,27 @@
-## And yet, amid so much admiration for the power of words, the
+---
+source_path: R2304N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c928907e3ffbecf85de5c38e410593508a601a26
+title: R2304N-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Words
 
-screenwriter and journalist Dan Lyons reminds us in STFU that
+But when we seek creativity or memorability, a common vernacular
 
-sometimes our best move is to stop using them. When you sit back
+isn’t always a good thing. Tired marketing copy or predictable slogans,
 
-and let people talk, he explains, you get more and better information.
+for example, are easy to forget. When unexpected words are assembled
 
-Listening is a leadership superpower.
+in a distinctive way, they stick. That’s why the musical Hamilton was
 
-Lyons’s book brims with speciﬁc suggestions for how to shut oﬀ—on
+such a hit, Berger notes; its style diverged from what theatergoers were
 
-social media, at work, at home, in love. We can delete apps from our
+used to.
 
-phone, keep meetings small and short, stop nagging about chores, and
+Berger’s book reinforces my belief as an editor—and should remind
 
-pause and breathe before saying something that we’ll regret. “All of us,
+us all—that there’s value in thinking deeply about each word we use:
 
-not just overtalkers, stand to gain by speaking less, listening more, and
+how it expresses a particular concept or nuance and how people from
 
-communicating with intention,” Lyons writes. We can appreciate words
-
-and language but realize that our sparing and intentional use of them is
+diﬀerent geographies, cultures, and backgrounds might experience it.

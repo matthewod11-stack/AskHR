@@ -1,5 +1,11 @@
-## os empregados submetem-se ao estado de ativação sustentada e acabam entrando
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 873806c4cb24d19e944d020c387674bc9280369f
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## comprometimento da saúde relaciona as demandas de trabalho com problemas de
 
-em exaustão, ou esgotamento energético. A falta de recursos compensatórios, em
+saúde por meio do burnout, podendo ser esclarecido pela proposição de controle
 
-contrapartida, impede que as demandas sejam cumpridas, o que pode levar a um
+compensatório de Hockey (1997). Após experimentar altas demandas de trabalho,

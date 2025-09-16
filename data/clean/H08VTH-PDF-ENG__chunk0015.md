@@ -1,13 +1,23 @@
-# HBR / Digital Article / When You’re Suddenly Managing More People—and Feeling Buri…
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2cf5af42dc80e317fbc318c7e0846a42da5ba2f0
+title: H08VTH-PDF-ENG
+---
+# members for future leadership roles.
 
-- 4. Simplify the System to Accelerate the Work
+Use a delegation ladder to clarify expectations and signal trust. For
 
-As your team grows, what once felt like structure can quickly become
+example, instead of telling a report, “Draft a recommendation and I’ll
 
-clutter. Communication gets noisy. Processes multiply. Tools overlap.
+decide,” try, “You decide and loop me in only if there’s a risk.” The
 
-What began as a helpful structure becomes a drag on speed, clarity,
+more explicit you are, the more conﬁdent others will be. Delegation isn’t
 
-and motivation. We’ve seen ﬁrsthand that the more systems expand,
+abdication; it’s a strategic investment in your team’s growth.
 
-the more teams go through the motions instead of moving the work
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

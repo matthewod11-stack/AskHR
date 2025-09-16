@@ -1,15 +1,21 @@
-## HBR / Digital Article / The Myth of the CEO as Ultimate Decision Maker
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8bba0952730e76ae1296913f9a52dcfe71215ac
+title: H07SHK-PDF-ENG
+---
+# generate these recommendations.
 
-what expectations to create), and identify which issues they want to
+These two examples illustrate the intentionality CEOs must bring to
 
-personally be involved in, and which others they are happy to delegate
+these design choices. Depending on the speciﬁc matter they want
 
-and trust others to make.
+to inﬂuence, they must choose the various parameters (e.g., who to
 
-Participating in the Process
+task, what goals/metrics to set, what time frame to establish, and
 
-CEOs must then choose how much they want to participate at various
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-stages of the decision-making process. The CEO may be active at every
+3
 
-step, check in from time to time, or get engaged at a speciﬁc point, such
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

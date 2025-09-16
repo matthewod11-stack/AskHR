@@ -1,7 +1,21 @@
-# knowledge about mental health.
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ad9daa8c03f95bee5a6293dc520d715c51682cb
+title: H08RTF-PDF-ENG
+---
+## appear obvious at ﬁrst glance, but identity—the interrelated elements
 
-- Ensure men are visible in mental health conversations.
+that make up our concept of ourselves—is a critical dimension of how
 
-- Create opportunities for people who share lived experiences and
+people experience and talk about mental health challenges. Employees
 
-dimensions of identity to connect with one another.
+from younger generations may be more comfortable discussing mental
+
+health than their older counterparts, for example, and men may feel
+
+more stigma around mental health than women do. Aarons-Mele has a
+
+few suggestions for how to counter these diﬀering perspectives:
+
+- Create an organization-wide shared language and baseline of

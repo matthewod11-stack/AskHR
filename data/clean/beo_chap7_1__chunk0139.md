@@ -1,15 +1,17 @@
-## step further and account for endogenous organizational response. Organizational
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 97fe4d5482865da3c022b2c5e5fd760191872483
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-design may limit bad escalation. Budget constraints and milestones are in place
+that are exogenously based on schedule or promotion (rather than promotions which
 
-precisely to avoid escalation. The bigger the risk of bad escalation, the more extensive
+endogenously follow project failure) are most promising. And condition (iii) could
 
-should be the implementation of such mechanisms. In fact, they may sometimes
+be remedied by analyzing decisions with objective criteria which leave little room
 
-produce an opposite bad effect: good projects are terminated prematurely. Heath
+for differing priors.
 
-(1995) points out that sometimes people de-escalate too quickly, when a project’s
-
-losses hit a budget constraint.
-
-A promising place to study escalation and organizational responses are firms
+Even if data satisfying criteria (i)—(iii) were available, we would need to go one

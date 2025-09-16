@@ -1,5 +1,7 @@
-## High-Performing Teams Believe Disagreements Make Them Better
-
-Years ago, psychologist John Gottman noticed something odd about
-
-happy marriages: thriving couples often ﬁght more than unhappy ones.
+---
+source_path: H07YWJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d9631185e0ab0b7a8085563060fe4a2e27a9d76
+title: H07YWJ-PDF-ENG
+---
+# capable.

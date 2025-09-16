@@ -1,19 +1,9 @@
-## Comportamento Organizacional E Gestao, 9 (2), 125-146.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 25c8f81d52cd1a06d3cbd1cf2d516fa779eb2f0a
+title: file_1
+---
+## and methodology. Bloomington: Indiana University Press, 1-14.
 
-Heckert, T., Droste, H., Adams, P., Griffin, C., Roberts, L., Mueller, M. and H. Wallis, 2002.
-
-Gender Differences in Anticipated Salary: Role of Salary Estimates for Others, Job Characteristics, Career Paths, and Job Inputs. Sex Roles, 47, 139-151.
-
-Hedayat, K., Shooshtarizadeh, P. and M. Raza, 2006. Therapeutic abortion in Islam:
-
-contemporary views of Muslim Shiite scholars and effect of recent Iranian legislation. Journal of Medical Ethics, 32, 652-657.
-
-Heiskanen, T. and L. Rantalaiho, 1997. Persistence and Change of Gendered Practices. In L. Rantalaiho and T. Heiskanen, eds, Gendered Practices in Working Life. London and New York:Macmillan Press Ltd.
-
-Heiskanen, T. and L. Räsänen, 1997. Changing Gendered Practices. In L. Rantalaiho and T. Heiskanen, eds, Gendered Practices in Working Life. London and New York: Macmillan Press Ltd.
-
-Heneman, H., 1985. Pay satisfaction. In K. Rowland and G. Ferris, eds, Research in
-
-Personnel and Human Resources Management. Greenwich, CT: JAJ Press, 115-39.
-
-Hernes, H., 1987. Welfare State and Woman Power: Essays in State Feminism. London:
+Hearn, J. and W. Parkin, 2003. The gendered organization: A positive critique.

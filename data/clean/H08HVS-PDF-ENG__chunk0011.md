@@ -1,15 +1,15 @@
-# Virtues of Management by Driving Around
+---
+source_path: H08HVS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d92fdb36a0119dfe675677658e2dc2e17099838
+title: H08HVS-PDF-ENG
+---
+## HBR / Digital Article / Management By Driving Around
 
-By 2024, Gordon’s team had sped up service at the DMV, built a more
+to-measure lessons and creating a soulless workplace. He described Bill
 
-innovative and customer-focused culture, and cranked up customer
+and Dave’s method, arguing, “We need less of the MBA perspective and
 
-satisfaction. Twice as many DMV services were available online in 2024
+more MBWA, management by wandering around, action.” Doyle’s pleas
 
-than in 2019. Lines at oﬃces were shorter and moved faster, especially
-
-for millions of customers who made required in-person visits to obtain
-
-a Real I.D., a form of identiﬁcation that will soon be mandated for
-
-air travel for all U.S. residents. A host of technology and workﬂow
+“really enlivened the meeting and caught on in a big way.”

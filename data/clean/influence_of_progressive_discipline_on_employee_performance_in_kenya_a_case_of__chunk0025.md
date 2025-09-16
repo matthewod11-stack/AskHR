@@ -1,3 +1,7 @@
-# that
-
-15% of sales revenue as a result of lack of attention to employee performance. This suggests that formal progressive discipline on employee performance management systems are the to performance and growth of organizations.
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 010ea2fdbe6de3c2fdb83c06c76b561c153b85b7
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# indicate

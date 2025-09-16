@@ -1,9 +1,15 @@
-## the most popular products to every user, even though this strategy
+---
+source_path: H08GLN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bacba73454a11099869bd54304205b088ff1a542
+title: H08GLN-PDF-ENG
+---
+# HBR / Digital Article / To Help Your Team Learn, Set Them Up for Productive Failure
 
-has been shown to result in poor user engagement and satisfaction
+learning algorithms and cross-sell between diverse product categories
 
-in previous iterations. This roadblock encourages the team to rethink
+— something that a basic rule-based system could not achieve.
 
-personalization and explore more nuanced, data-driven approaches
+- 6. Deliberately suggest sub-optimal or failed strategies.
 
-that take into account individual user preferences rather than relying
+The manager might suggest that the team start by recommending only

@@ -1,17 +1,9 @@
-# genuine performance against each KPI
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 9bdff55f5612b8a05775e8f61d1c02b95a2bfce2
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# Process:
 
-- (cid:32) Appraiser should gather contributions on the Appraise from the Reviewer and Internal
-
-Customers and remember them for the examination record
-
-- (cid:32) The input furnished should be upheld with models seen at work during the year
-
-- (cid:32) Appraiser ought to together recognize territories of solidarity and advancement zones,
-
-and preparing needs assuming any.
-
-21
-
-(cid:32)
-
-(cid:32)
+- (cid:32) Appraiser should audit the scores given by Appraise and rate him dependent on his

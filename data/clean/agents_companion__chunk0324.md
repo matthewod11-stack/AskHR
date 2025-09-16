@@ -1,3 +1,9 @@
-## Available at: https://arxiv.org/abs/2302.00923.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 7568d999f1ffd7fc21138671a53a2b71357df39c
+title: agents_companion
+---
+## Available at: https://arxiv.org/pdf/2302.12246.pdf.
 
-- 6. Yao, S. et al., 2023, 'Tree of Thoughts: Deliberate Problem Solving with Large Language Models'.
+- 5. Zhang, H. et al., 2023, 'Multimodal Chain-of-Thought Reasoning in Language Models'.

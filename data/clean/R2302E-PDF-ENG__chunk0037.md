@@ -1,41 +1,33 @@
-## HBR / Magazine Article / You Need Two Leadership Gears
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cba5611718f0a9311f2071f10a1d9d4981cec787
+title: R2302E-PDF-ENG
+---
+# next transition.
 
-your mind and are just going through the motions of asking for others’
+Announce shifts. Tell people that right now it’s time to change modes,
 
-opinions. Instead you might say, “Does anyone have a diﬀerent point
+using simple, clear language and maybe even raising your voice a bit.
 
-of view?” or “Is there a diﬀerent way to look at this decision?” Such
+The CEO of a global technology company we work with does this well.
 
-seemingly small tweaks in wording can have a big eﬀect.
+He routinely announces, “Let’s create a moment for brainstorming” or
 
-Use body language. Your nonverbal behavior can reinforce or
+“We’ve heard many perspectives; let’s now turn to making a decision.”
 
-undermine your message. Asking, “Does anyone have a diﬀerent view?”
+That said, you need to make such interjections thoughtfully; the wrong
 
-with your arms crossed while standing at the head of the table (while
+words may sow fear and confusion, while the right ones will provide
 
-everyone else is sitting) won’t be as eﬀective as asking the same
+clarity and comfort. When you want input and debate about your idea,
 
-question while seated at the middle of the table with your arms
+don’t use potentially intimidating language such as “Is there anyone
 
-uncrossed and a slight smile on your face. And simply making eye
+who disagrees?” That can create the impression that you’ve made up
 
-contact with someone in the room can serve as an invitation for that
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-person to speak.
+12
 
-You can also follow the example of one adept manager we met, who had
-
-been given a leadership award by his company. When he wanted all his
-
-team members to jump in and solve a problem presented by a colleague,
-
-he’d say something like “You all ﬁgure this out—you know way more
-
-than I do” and then move from the front of the room to the back.
-
-Read the room. Eﬀective leaders know when a shift from command
-
-and control to empowerment is in order. Take Steve Kerr, the coach of
-
-the Golden State Warriors, who in the 2014–2015 season had the most
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

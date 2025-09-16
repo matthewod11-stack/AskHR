@@ -1,19 +1,37 @@
-# Respect privacy concerns
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81e23e20f79ed3a5e96a329a4d59a158ad9f630e
+title: H088OR-PDF-ENG
+---
+## HBR / Digital Article / Hybrid Work Has Changed Meetings Forever
 
-When discussing collaboration data with organizations, concerns
+don’t have to boil the ocean. From our analysis, 54% of all meetings
 
-around privacy are often raised, and rightfully so. You don’t want
+are hosted by just 10% of employees. These “power users” have an
 
-employees to be concerned that their boss is monitoring whether
+outsized inﬂuence on meeting culture, setting the tone for the majority
 
-they enabled their camera in each meeting. Such a perception could
+of meetings within the company. Once you’ve deﬁned best practices
 
-increase anxiety and diminish psychological safety, which is critical
+and areas for improvement, targeted training for this group can allow
 
-for team performance. It’s worth repeating that the steps outlined here
+beneﬁts to propagate across the board.
 
-don’t indicate tracking or targeting employees at an individual level,
+Leverage data to validate and iterate.
 
-but using anonymized data to identify actionable trends. When done
+Once you’ve identiﬁed areas for improvement, leverage collaboration
 
-correctly, the results are equally popular among upper management
+data to monitor progress and iterate as necessary. For instance, if a
+
+speciﬁc department has a particularly high no-participation rate, you
+
+could monitor how that number changes as you roll out trainings
+
+within the department. McKinsey published a case study of how
+
+Netﬂix implemented similar steps with the goal of improving meeting
+
+eﬃciency. They reduced the number of meetings by a whopping 65%
+
+with over 85% of employees favoring the approach.

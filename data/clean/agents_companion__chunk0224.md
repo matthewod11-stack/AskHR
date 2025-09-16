@@ -1,27 +1,27 @@
-# Contract Negotiation
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 96e7bee36b340e83e8aaca3a4af55ff41505ad11
+title: agents_companion
+---
+# Contract execution
 
-One core hypothesis behind contracts in the context of automation agents specifically is that
+This requires the contractor runtime to be able to fulfill the contracts and solve the
 
-many tasks in the enterprise world can draw significant benefit from leveraging the power of
+tasks behind contracts according to their defined specifications. Prioritizing quality and
 
-LLMs when used in a less-constrained manner (latency and cost wise).
+completeness over latency enables to fully leverage the capabilities of LLMs, for example
 
-Being able to tackle more and more complex tasks and making it possible for customers to
+49
 
-be able to rely on and trust the results of contractors will ensure real value for companies.
+by generating different solutions, and reviewing, scoring, and evolving them. An example of
 
-Even that being said, we need to have a notion of relative priority in order to make sure that
+this methodology is shown below in the Co-Scientist study. The engine can iterate and self-
 
-tasks are appropriately prioritized as well as resources fairly allocated. We thus introduce a
+validate the results and deliverables based on the provided expectations, and can improve
 
-notion of cost (typically relative per customer or contract initiator) which can be discussed
+and self-correct until the validators are fulfilled. The ability to concretely validate a solution
 
-and negotiated between the contract initiator and the contractor, in order to make sure that
+against a set of objective criteria has proven to work extremely well in the context of AI and
 
-the contract receives the adequate resources relative to the other contracts initiated by the
-
-contract initiator. The contractors can also negotiate other aspects of the contracts, for
-
-example in terms of specification and deliverables (cf. also section below on feedback).
-
-50
+has been at the core of successful AI systems such as for example Alpha-Code.

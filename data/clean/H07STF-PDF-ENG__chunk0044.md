@@ -1,29 +1,13 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de41c19124425d70f78a5e703f18a4cbc966dd37
+title: H07STF-PDF-ENG
+---
+# to that role.
 
-What people forget is that expectations of you change quickly, and
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-environments also change quickly. The danger point is really more like
+18
 
-a year or two or three, depending on how fast-moving your situation is,
-
-when you think you’ve got it covered, but people have stepped up in
-
-their expectations of you or the environment has changed a lot.
-
-What becomes really important here, the main thing I say to people is,
-
-think about how you’re deﬁning your job, where you’re spending your
-
-time, what you’re allocating time to, and can you think of it more as
-
-a portfolio in which some slivers of your time you’re going to spend
-
-learning new things, exploring new things, getting involved in projects
-
-that give you a more strategic view of the organization, something
-
-adjacent to what you normally do, but something that really allows you
-
-to keep expanding the frontier as opposed to settling into a comfort
-
-zone that’s going to make you much more vulnerable to the what-got-
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

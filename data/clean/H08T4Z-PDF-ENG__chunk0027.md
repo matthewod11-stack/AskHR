@@ -1,19 +1,13 @@
-## government wanes. The rise of single-person households from 8% in
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdd752635bfb4363ad2edf0b6f5f0f3e0da5b379
+title: H08T4Z-PDF-ENG
+---
+# best-selling book in his niche.
 
-1940 to 28% in 2020 makes it easier to go independent with less people
+Based on our work in the space, we expect the number of independent
 
-to provide for. But the pull to create will accelerate this transition.
+workers to double in a decade. Personal and ﬁnancial freedom are too
 
-Our data shows 77% of U.S. workers would love to be “paid to create.”
-
-Millions will remember how creative they were as children, ﬁgure out
-
-they can be paid to create as adults–and then make the leap.
-
-This article was originally published online on July 11, 2025.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+appealing, especially as job security at large employers in business and

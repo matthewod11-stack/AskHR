@@ -1,5 +1,11 @@
-# Processes 62:38-54.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 7a9d008acd7bb836727a5a7d99390d6a0e707a1b
+title: beo_chap7_1
+---
+# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
 
-Heath, C., and V. Seidel. 2004. Language as a coordinating mechanism: how linguistic memes
+Heath, C. 1995. Escalation and de-escalation of commitment in response to sunk costs: the
 
-help direct appropriate action. Stanford University Working Paper. (Available at http://
+role of budgeting in mental accounting. Organizational Behavior and Human Decision

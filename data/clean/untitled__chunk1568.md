@@ -1,5 +1,9 @@
-## study. American Psychologist, 29, 519–540.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 85f297c21f4d3afc58372e4b4929085ee1c61155
+title: untitled
+---
+# cal approach. New York: Wiley.
 
-Kimmel, E. B., & Crawford, M. (Eds.). (2000). Innovations in fem- inist psychological research. New York: Cambridge University Press.
-
-Kitzinger, C. (1994). Should psychologists study sex differences?
+Kimmel, E. B. (1974). The status of women in the southeast: Acase

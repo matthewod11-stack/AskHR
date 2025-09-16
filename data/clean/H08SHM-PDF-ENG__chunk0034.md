@@ -1,9 +1,9 @@
-## of our counterfactual brainpower for higher-level problems.
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dcdcfd465277647f0f6d4f867a525b0a686b59f2
+title: H08SHM-PDF-ENG
+---
+## HBR / Digital Article / What Gets Measured, AI Will Automate
 
-AI will also struggle in domains where measurement verges on the
-
-impossible—witness the decade-long, globe-spanning eﬀort the Event
-
-Horizon Telescope needed to capture a single black-hole image, and
-
-the still-unsolved challenges of probing extreme-scale physics, Earth’s
+much as mechanized farming lifted us from subsistence—freeing more

@@ -1,11 +1,17 @@
-## to seven) on their comprehension of the strategy than the people who
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7c3f61a88276829b5c58937b4f43ea7f5267eac8
+title: R2504J-PDF-ENG
+---
+# HBR / Magazine Article / You Should Be Able to Boil Your Strategy Down to a Single Cle…
 
-had seen the ﬂawed visualization.
+to have perceived the visualizations as equally useful in providing
 
-So the respondents who had seen the eﬀective version had indeed
+an understanding of the bank’s strategy. But when we asked the
 
-gained a signiﬁcantly better understanding of Capitec’s strategy,
+participants to give us a short description of the strategy, we observed
 
-though they were not necessarily aware that they had. In other words
+major diﬀerences: On average, the people who had seen the good
 
-people often don’t realize how much they’re inﬂuenced by the visual
+visualization scored more than a full point higher (on a scale of one

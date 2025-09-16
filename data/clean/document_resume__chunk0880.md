@@ -1,5 +1,11 @@
-# D. Reference
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: b7a491c75d684016b70cbfe70e8a465a8243be42
+title: document_resume
+---
+# C. Acquisition
 
-PCT 10%
+PCT 15%
 
-Assisting library users by providing information services, answering questions, assisting in locating library materials, and integrating information into cataloging system.
+Ordering and receiving books, periodicals, and other materials. and recurately maintaining records

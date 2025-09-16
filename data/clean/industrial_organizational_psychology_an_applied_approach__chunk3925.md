@@ -1,5 +1,7 @@
-# wide range of topics.
-
-Magnetic style A style of leadership in which the leader has influence because of his or her charismatic personality; most effective in a climate of despair.
-
-Management teams Teams that coordinate, manage,
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f7c1327708f433ac6922b80055125c6bd4e4f846
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Magazine An unscientific collection of articles about a

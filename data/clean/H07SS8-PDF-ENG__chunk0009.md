@@ -1,43 +1,23 @@
-## HBR / Digital Article / How to Avoid the Churn That Comes with Agility
+---
+source_path: H07SS8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b833d18063c4fa7655c066a2cb0010facc072de9
+title: H07SS8-PDF-ENG
+---
+## of products. In the absence of a clear product vision, all possibilities
 
-wonder that this generated confusion among the people who needed
+were valid. Similarly, in the personal care company, the CEO never
 
-to execute.
+articulated an overarching goal for the integration of the newly acquired
 
-The good news here is that the over-focus on “means” and under-focus
+ﬁrms. In fact, it seemed that he was making it up as he went along
 
-on “ends” is correctable, once the leader realizes that this is what’s
+and changing the goal depending on the reactions he was getting from
 
-happening. It’s a matter of both goal-setting and communication. At
+investors, his team, and the managers of the acquired ﬁrms. Little
 
-the tech company, the founder ultimately received strong feedback from
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-his team that the constant engineering changes meant that the teams
+3
 
-weren’t sure what they were supposed to do. In response, he worked
-
-with his team to create parameters for what the next product should
-
-look like — and then left the teams more space to ﬁgure out how to get
-
-there. Today the teams are more productive and conﬁdent that they are
-
-on a path to building a new product that will be commercially viable.
-
-At the personal care company, the CEO, realizing that the company was
-
-not getting the expected return on investment from its acquisitions,
-
-asked the head of business development to do a brief study about how
-
-the company should integrate new companies. One key conclusion was
-
-that there should be a more speciﬁc goal and vision for each entity post-
-
-acquisition — and that the integration team would then be empowered
-
-to ﬁnd the right pathways to meet that goal. This approach was then
-
-applied to the three acquisitions.
-
-For example, one of the acquired companies had strong market share
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,47 +1,27 @@
-## HBR / Digital Article / To Become a Better Presenter, Look Inward
+---
+source_path: H08H8C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2edb84afd10aa1d6cfb2f86d291f2bc0e4396a99
+title: H08H8C-PDF-ENG
+---
+## Developed by Harvard professors Robert Kegan and Lisa Lahey, the ITC
 
-goal is to become a more conﬁdent presenter, for instance, your list
+method helps people address the barriers preventing them from making
 
-might include:
+the changes they want to see. Kegan and Lahey call these barriers
 
-- I’m not practicing my presentations.
+“hidden commitments” — the things we care about more than reaching
 
-- I’m not asking for feedback.
+our goals that we may not be immediately aware of.
 
-- I’m letting my anxiety about making a mistake in public take over.
+To identify whether you have a hidden commitment, ask yourself what
 
-- I’m declining or avoiding presentation opportunities.
+your goal is, and then make a list of all of the things you’re currently
 
-Now ask yourself, “After reﬂecting upon my actions, what do I seem
+doing or not doing that are keeping you from reaching that goal. If your
 
-to be more committed to than becoming a conﬁdent presenter?” You
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-might discover that you’re more committed to avoiding a potentially
+2
 
-vulnerable moment than speaking conﬁdently in front of a crowd. Had
-
-you failed to identify this hidden commitment, you would likely ﬁnd it diﬃcult to build your public speaking skills. Rather than doing the
-
-work, you would likely continue to avoid presentation opportunities or
-
-fail to reach your full potential because you lack genuine motivation.
-
-Once you name your hidden commitment, however, you can address
-
-it. Sticking with our example, you now know you have a fear of being
-
-vulnerable, and you need to overcome it to become a conﬁdent speaker.
-
-Perhaps you can run small, low-risk experiments to challenge the
-
-assumption that public speaking will be make you feel too vulnerable.
-
-You could chat with a few colleagues who have overcome this fear and
-
-ask them to share their stories.
-
-You could also deliberately make a small error while presenting in a
-
-low-stakes setting and see what happens. You may learn that nothing
-
-happens at all and your fear has caused you to assume the worst or lose
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

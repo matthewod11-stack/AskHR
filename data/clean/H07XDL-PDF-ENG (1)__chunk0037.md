@@ -1,21 +1,19 @@
-## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: c321698d436823d6374d4945d4b9db72c4aabe4d
+title: H07XDL-PDF-ENG (1)
+---
+# “The Key Areas of Life.”)
 
-With your signiﬁcant other, with family, at work, playing sports, at
+See more HBR charts in Data & Visuals on HBR.org.
 
-church, getting a good night’s rest?
+And what are the equivalents of capital expenditures in life? Time,
 
-Look back at the past year, including holidays, and assess how much
+energy, and money. A week has 168 hours. How do you spend them?
 
-time you spent on each of the 16 SLUs in an average week. When an
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-activity crosses categories, split the time between them. For example,
+12
 
-if you went jogging with your signiﬁcant other for one hour a week,
-
-allocate half an hour to the signiﬁcant other SLU and half an hour to the
-
-physical health/sports SLU. Next, rate all 16 SLUs on a scale of 0 to 10
-
-based on how important they are to you. Then rate the satisfaction you
-
-derive from each on the same scale. (This goes one level deeper than the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

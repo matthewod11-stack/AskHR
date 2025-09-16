@@ -1,5 +1,11 @@
-# and market-access dynamics).
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 824cd24101743b94446acb483ab7c658d2697f54
+title: S24021-PDF-ENG
+---
+## valuable for scale-based growth in pharmaceutical products, none
 
-Successful scope strategies, in contrast, require the development
+of those capabilities transfers readily to other industries (including
 
-of broader, general-purpose capabilities and resources that can be
+medical devices and diagnostics, which have diﬀerent regulatory paths

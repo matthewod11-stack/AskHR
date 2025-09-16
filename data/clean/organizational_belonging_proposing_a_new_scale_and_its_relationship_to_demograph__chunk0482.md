@@ -1,19 +1,27 @@
-# JOURNAL OF WORKPLACE BEHAVIORAL HEALTH
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 5bdd85d40267b46a9fae3c84efdd76b10f49e142
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# from
 
-Randall, P. M., Lartey, F. M., & Tate, T. D. (2020). Enterprise social media (ESM) use and employee belongingness in US corporations. Journal of Human Resource Management, 8(3), 115–124. doi:10.11648/j.jhrm.201200803.12
+Leary, M. A., Kelly, K. M., Cottrell, C. A., & Schreindorfer, L. S. (2013). Construct validity of the need to belong scale: Mapping the nomological network. Journal of Personality Assessment, 95(6), 610–624. doi:10.1080/00223891.2013.819511
 
-Romans, C. (2022). Forget America’s great resignation. It’s the great upgrade. Retrieved from https://www.CNN.COM/2022/02/07/ECONOMY/GREAT-RESIGNATION-JOBS/INDEX. HTML (Accessed July 6, 2022).
+Mael, F. A., & Tetrick, L. E. (1992). Identifying organizational identification. Education and
 
-Schade, H. M., Digutsch, J., Kleinsorge, T., & Fan, Y. (2021). Having to work from home: Basic needs, well-being, and motivation. International Journal of Environmental Research and Public Health, 18, 5149. doi:10.3390/ijerph18105149
+Psychological Measurement, 52(6), 813–824. doi:10.1177/0013164492052004002
 
-Spector, P. E. (2019). Do not cross me: Optimizing the use of cross-sectional designs.
+Malka, A., & Lelkes, R. (2010). More than ideology: Conservative-liberal identify and recep- tivity to political cues. Social Justice Research, 23(2), 156–188. doi:10.1007/s11211-010- 0114-3.
 
-Journal of Business and Psychology, 34(1), 125–137. doi:10.1007/s10869-018-09613-8
+Malone, G. P., Pillow, D. R., & Osman, A. (2012). The General Belongingness Scale (GBS): Assessing achieved belongingness. Personality and Individual Differences, 5(2), 311–316. doi:10.1016/j.paid.2011.10.027
 
-Spector, P. E. (2021). Mastering the use of control variables: The hierarchical iterative con- trol (HIC) approach. Journal of Business and Psychology, 36(4), 737–750. doi:10.1007/ s10869-020-09709-0
+Maslow, A. H. (1968). Toward a psychology of being. New York: Van Nostrand. Matthews, R. A., Pineault, L. & Hong, Y. (2022). Normalizing the use of single-item meas- ures: Validation of the single-item compendium for organizational psychology. Journal of Business and Psychology, 37, 639–667. doi:10.1007/s10869-022-09813-3
 
-SPSS. (2021). Version 28. Statistical package for the social sciences. New York: IBM. Stamper, C. L., & Masterson, S. S. (2002). Insider or outsider? How employee perceptions of insider status affect their work behavior. Journal of Organizational Behavior, 23(5), 875–894. doi:10.1002/job.175
+May, V. (2011). Self, belonging and social change. Sociology, 45(3), 363–378. doi:10.1177/
 
-Stanton, J. M., Sinar, E. F., Balzer, W. K., & Smith, P. C. (2002). Issues and strategies for reducing the length of self-report scales. Personnel Psychology, 55, 167–194. doi:10.1177/ 001316440206200112
+0038038511399624
 
-Suhr, S. (2006). Exploratory or confirmatory factor analysis. SAS Users Group International
+McClure, J. P., & Brown, J. M. (2008). Belonging at work. Human Resource Development
+
+International, 11(1), 3–17. doi:10.1080/13678860701782261

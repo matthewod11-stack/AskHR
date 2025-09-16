@@ -1,11 +1,25 @@
-# meetings.”
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04462a435db6ae094db089927580e5b1c346ec44
+title: H08GC0-PDF-ENG
+---
+## HBR / Digital Article / Let’s End Toxic Productivity
 
-This article was originally published online on November 13, 2024.
+Breaking the cycle of toxic productivity is no simple task. We’re trying to
 
-Jennifer Moss is a workplace expert, international public speaker, and award-winning journalist and author. Her forthcoming book, Why Are We Here? (HBR Press) launches January 2025. Moss’ previous books related to workplace culture and well-being include, The Burnout Epidemic (HBR Press, 2021) and Unlocking Happiness at Work (Kogan Page, 2016) with the second edition of Unlocking Happiness at Work, releasing April 2025.
+change a values-based belief that’s the size of the Titanic and centuries
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+older. But I see glimmers of hope in these subtle shifts as some groups,
 
-9
+particularly women and Gen Z employees, have started to push back
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+on this antiquated perspective. That tends to happen when you have
+
+a collective existential crisis — priorities change, and how you really
+
+want to spend the rest of your days comes into focus. This mindset gets
+
+people wondering, “What will my biggest regret in life be? I can almost
+
+guarantee that no one will say, “You know, I wish I’d spent more time in

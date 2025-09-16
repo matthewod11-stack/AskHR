@@ -1,7 +1,9 @@
-# Rating 3 2
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: e4c011404c08171669efa40bbb5b527384d3e68e
+title: document_resume
+---
+# C TESTING/EVALUATION
 
-4
-
-5
-
-- 1. Evaluation Development and Administration 2. Feedback to Students 3. Final Exams and Grades 4 Pre and Post Chnecal Conferences (EMT) Comments
+(10%)

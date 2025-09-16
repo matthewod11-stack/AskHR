@@ -1,11 +1,21 @@
-# THE TWENTIETH CENTURY 325
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c0669776415d1091f308f50e1ccd2e08355566d4
+title: untitled
+---
+# Theory of the Evolution of the Brain
 
-Treatment Approaches Experimental Psychopathology Typologies of Mental Illness Organic versus Functional Psychoses Theories of Origin and Research in
+and Psychopathology Social Darwinism 319 Degeneracy Theory Eugenics Early Role of Hypnosis Sigmund Freud and Psychoanalysis Morton Prince and Multiple Personality
 
-325
+318
 
-328
+319
 
-326
+320
 
-329
+320
+
+322
+
+324

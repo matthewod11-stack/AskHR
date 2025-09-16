@@ -1,17 +1,27 @@
-## A Five-Step Roadmap for Leveraging Asian Talent
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a69829faa12ea89d52dc8bde83450c8eae3a8b49
+title: H088ND-PDF-ENG
+---
+# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
 
-To optimize the contributions of your Asian professionals, we propose
+are signiﬁcantly more likely than their white and Black counterparts
 
-ﬁve actions based on our respective experiences helping companies
+to disengage from work due to these cultural disconnects, often by
 
-grow through more a more strategic approach to talent.
+considering quitting or scaling back their ambitions, according to a 2011
 
-Equip leaders to lead effectively across all cultures.
+Coqual report. In fact, it’s the youngest cohort of Asian employees, those
 
-When we consider culture, our thoughts often turn to its visible aspects:
+most likely to be U.S.-born and native English speakers, who report
 
-food, arts, and festivals. However, like the bulk of an iceberg, the most
+feeling the least belonging.
 
-substantial parts of culture remain unseen. Beneath the surface are the
+Clearly, time spent in the U.S. alone will not rectify the isolation
 
-learned and shared patterns that powerfully shape our interactions with
+experienced by Asian employees. Companies aiming to better utilize
+
+their Asian employees, while enabling them to thrive and lead, must
+
+adopt a proactive approach to doing so.

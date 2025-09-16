@@ -1,3 +1,11 @@
-# Boston: Little, Brown.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8164ea927a0da8c62e2fd53cadc90907ab508297
+title: untitled
+---
+# Englewood Cliffs, NJ: Prentice-Hall.
 
-McCollom, I. N. (1959). Psychologists in industry in the United
+Lowenberg, G., & Conrad, K. A. (1998). Current perspectives in industrial/organizational psychology. Needham Heights, MA: Allyn & Bacon.
+
+Manchester, W. (1973–1974). The glory and the dream (Vols. 1–2).

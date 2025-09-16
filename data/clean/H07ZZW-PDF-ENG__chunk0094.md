@@ -1,13 +1,21 @@
-## between freedom of expression and the right to privacy.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0288a1898a8cd5fe7589356cc40ac952c97395a4
+title: H07ZZW-PDF-ENG
+---
+## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
 
-Human rights frameworks like this one explicitly direct corporations
+(For example, they provide guidance in a scenario whereby you
 
-to evaluate their impact on stakeholders and prioritize their ethics
+are doing your best to respect human rights in your supply chain
 
-eﬀorts on that basis, rather than on opinions or ideology. For example,
+factories, but the government is conducting aggressive surveillance
 
-in the wake of the U.S. Supreme Court’s nulliﬁcation of Roe v. Wade,
+and arbitrary detention of the local population, which is aﬀecting your
 
-human rights principles suggest that the right to health is paramount,
+workers.) Corporations must identify whether their actions are causing,
 
-and reproductive rights are a key element. Businesses that make
+contributing, or are directly linked to negative human rights impacts.
+
+Finally, the Guiding Principles consider tricky trade-oﬀs, such as those

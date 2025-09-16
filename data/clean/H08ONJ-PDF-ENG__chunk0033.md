@@ -1,15 +1,13 @@
-## “Social capital”—the norms, understandings, bonds, and mutual
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65836c93b24c9595678aa21e56ee414295ef7656
+title: H08ONJ-PDF-ENG
+---
+## HBR / Digital Article / What DeepSeek Can Teach Us About Resourcefulness
 
-commitments of people who live in a particular society or community—
+ideas or ways to overcome the hurdles you confront and ﬁll in the
 
-can be another opportunity for resourcefulness.
+missing pieces of the puzzle you set out to solve fast and at lower cost.
 
-In the late 1970s, Muhammad Yunus wanted to ﬁnd a way to provide
-
-credit and banking services to Bangladesh’s rural poor. To get around
-
-the fact that his customers had no collateral, he leveraged their tight
-
-social bonds to ensure that loans were repaid and that the funds
-
-borrowed were used for productive means to help break the cycle of
+- 4. Leverage social capital to realize your opportunity.

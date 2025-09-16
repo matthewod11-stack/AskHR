@@ -1,5 +1,11 @@
-# l
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 02ead5149dd39276a2c1effc119a8afcb569a8dc
+title: arop1noe_245_275
+---
+# i
 
-antecedents and consequences has been anecdotal or based on case studies. Gureckis & Markant (2012) suggest that the benefit of self-directed learning may result from enhanced encoding and retention of information by learners because they are active in the learning process.
+.
 
-Communities of practice: groups of people with a shared interest who frequently interact to learn, share knowledge, and practice skills
+d e d a o n w o D

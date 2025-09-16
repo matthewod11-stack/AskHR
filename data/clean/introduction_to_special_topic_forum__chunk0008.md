@@ -1,11 +1,9 @@
-# Steers, Mowday, and Shapiro
+---
+source_path: introduction_to_special_topic_forum.md
+pages: n/a-n/a
+chunk_id: fe9a7fec5d472232036a75e6ddb3f0ddbc4ed438
+title: introduction_to_special_topic_forum
+---
+# July
 
-on performance. Best noted among these re- search endeavors are Mayo’s (1933) and Roeth- lisberger and Dickson’s (1939) works. Bendix summarized the principle contribution of this human relations movement by observing that the “failure to treat workers as human beings came to be regarded as the cause of low morale, poor craftsmanship, unresponsiveness, and con- fusion” (1956: 294). McGregor (1960) later built on this in his classic early work, The Human Side of Enterprise.
-
-By the 1950s, several new models of work mo- tivation emerged, which collectively have been referred to as content theories, since their prin- cipal aim was to identify factors associated with motivation. Included here is Maslow’s (1954) need hierarchy theory, which suggests that, as individuals develop, they work their way up a hierarchy based on the fulfillment of a series of prioritized needs, including physiological, safety and security, belongingness, esteem, and self-actualization. Maslow argued that the first three needs on the list represent deficiency needs that people must master before they can develop into a healthy personality, while the last two represent growth needs that relate to individual achievement and the development of human potential. Alderfer (1972) later adapted this model to encompass just three needs: exis- tence, relatedness, and growth.
-
-and, thus, has found considerable popularity in research on individual factors relating to work motivation.
-
-While Maslow and McClelland and their col- leagues focused on the role of individual differ- ences in motivation, Herzberg (1966; Herzberg, Mausner, & Snyderman, 1959) sought to under- stand how work activities and the nature of one’s job influence motivation and performance. In his motivation-hygiene theory, Herzberg ar- gued that work motivation is largely influenced by the extent to which a job is intrinsically chal- lenging and provides opportunities for recogni- tion and reinforcement. Herzberg saw the con- text surrounding a job (which he referred to as hygiene factors) as being far more temporal in terms of leading to satisfaction and future moti- vation. Herzberg deserves credit for introducing the field to the role of job design—specifically, job enrichment—as a key factor in work motiva- tion and job attitudes. In subsequent work, Hackman and Oldham (1976) and others have extended this line of research as it relates to work design, motivation, and job performance, while others, including Deci (1975; Ryan & Deci, 2000), have articulated theories focusing specif- ically on task-based intrinsic versus extrinsic factors in motivation (e.g., self-determination theory).
-
-A second need theory of the same era, first introduced by Murray (1938) but more fully de- veloped by McClelland (1961, 1971), ignored the concept of a hierarchy and focused instead on the motivational potency of an array of distinct and clearly defined needs, including achieve- ment, affiliation, power, and autonomy. McClel- land argued that, at any given time, individuals possess several often competing needs that serve to motivate behavior when activated. This contrasts with Maslow’s notion of a steady pro- gression over time up a hypothetical hierarchy as individuals grow and mature. By far, most of the attention in McClelland’s model focused on the needs for achievement (defined as behavior directed toward competition with a standard of excellence) and power (defined as a need to have control over one’s environment). McClel- land’s conceptualization offered researchers a set of clearly defined needs as they related to workplace behavior, in contrast to Maslow’s more abstract conceptualizations (e.g., need for achievement versus need for self-actualization)
+2004

@@ -1,13 +1,9 @@
-## organizational trust. Academy of Management Review, 20, 709-734.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 20e15f932dd41e8e20f0066e81acda01f8bfe56e
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-Mayer, R. C., & Gavin, M. B. (2005). Trust in management and performance: Who minds the
-
-shop while the employees watch the boss?. Academy of Management Journal, 48,
-
-874-888.
-
-McAllister, D. J. (1995). Affect-and cognition-based trust as foundations for interpersonal
-
-cooperation in organizations. Academy of Management Journal, 38, 24-59.
-
-McEvily, B., & Tortoriello, M. (2011). Measuring trust in organizational research: Review
+Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of

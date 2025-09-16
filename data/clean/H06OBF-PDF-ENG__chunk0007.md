@@ -1,39 +1,29 @@
-## HBR / Digital Article / Making Silos Work for Your Organization
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cfd231039e19e07bc887aa3ae26c86a2692b7e4
+title: H06OBF-PDF-ENG
+---
+# GK Hart/Vikki Hart/Getty Images
 
-pointing and turf wars. The incitement to “bust” or “break down” silos
+Silos are a deﬁning characteristic of organizations of all sizes, even
 
-appears frequently both in practitioner and scholarly journals.
+in businesses that naturally operate as ﬂuid networks. For example,
 
-But if silos are really such a bad thing, why then do they persist? Silos, or
+management consulting ﬁrms are known for organizing around
 
-verticals, exist for three good reasons:
+temporary project teams, but they also have formal expertise silos (often
 
-- To aggregate expertise. They provide the focus and critical mass
+called practices) and ﬁxed regional structures.
 
-required to develop expertise on an ongoing basis.
+Of course, we often hear about the negative side eﬀects of silos:
 
-- To assign accountability. They provide boundaries and hierarchy
+Boundaries may lead to insular mindsets that inhibit sharing or
 
-that make it possible to assign accountability. Responsibilities are
+collaboration between verticals, or worse, they could lead to ﬁnger-
 
-clearly delineated, objectives are well deﬁned, resources are allocated
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-ﬁrmly, and decisions are made and communicated quickly.
+1
 
-- To provide a sense of identity. They create stability and allow for
-
-the development of collective behavioral norms and ways of working.
-
-These, in turn, provide a sense of identity, security, psychological
-
-safety, and predictability for the people who belong to the silo.
-
-As verticals serve a clear purpose – especially in today’s turbulent
-
-environment – we would like to mount a defense. Yes, verticals have
-
-undesirable side eﬀects, but the solution is not to dismantle them. To
-
-preserve the strengths of the inescapable verticals while minimizing
-
-their side eﬀects, organizations should do two things: build bridges
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

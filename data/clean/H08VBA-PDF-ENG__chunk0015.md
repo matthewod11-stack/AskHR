@@ -1,9 +1,9 @@
-# demands new habits and cultural shifts.
+---
+source_path: H08VBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09689b309b377d28464236e606387e494ea450ef
+title: H08VBA-PDF-ENG
+---
+# HBR / Digital Article / Your Company Needs to Focus on Fewer Projects. Here’s How.
 
-Over the past two decades, as I’ve advised executives across
-
-various industries, I’ve developed and observed seven practices that
-
-consistently yield results. These are practical habits that organizations
-
-have adopted to transform how they prioritize, govern, and ultimately
+teams. Breaking this cycle requires more than better governance—it

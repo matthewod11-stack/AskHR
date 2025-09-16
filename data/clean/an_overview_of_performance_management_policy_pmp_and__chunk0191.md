@@ -1,19 +1,21 @@
-# year.
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 08f370c453050bf1f55fbeebf740a94a742e569b
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# progression needs.
 
-3.8 Planning and Goal setting process:
+The Performance Management year for The City Bank (CBL) is January to December. The
 
-- (cid:32) The Goal Setting stage is a community exertion. The Appraiser and the Employee will
+Top administration of the Bank (MANCOM) is required to figure the general marketable
 
-have a joint gathering during which they are required to:
+16
 
-- (cid:32) Review the employee's expected set of responsibilities to decide whether it mirrors
+(cid:32)
 
-the work that the representative is as of now doing.
+(cid:32)
 
-- (cid:32) Update the set of working responsibilities if the representative has taken on new
+strategy and every division would outline their divisional arrangement dependent on the by
 
-obligations or the occupation has changed essentially
-
-- (cid:32)
-
-Identify and survey the connections between the representative's expected set of
+and large hierarchical marketable strategy for the coming year continuously end of the earlier

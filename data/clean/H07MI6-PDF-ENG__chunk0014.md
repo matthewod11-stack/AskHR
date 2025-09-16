@@ -1,25 +1,33 @@
-# The Six Key Levers of Transformations
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb94a051189fe9acb6284a85ace5653313f258cc
+title: H07MI6-PDF-ENG
+---
+# transformations).
 
-So what tactics did the leaders of successful transformations use to
+Transformations are extremely diﬃcult on a personal level for everyone
 
-manage the emotional journey? The six levers that maximize the
+involved. In the successes we studied, leaders not only made sure their
 
-chances of success, according to our research are:
+teams had the processes, resources, and technology they needed —
 
-- 1. Leadership’s own willingness to change
+they also built the right emotional conditions. These leaders oﬀered
 
-Many people believe that a leader’s job is to look outward and
+a compelling rationale driving the transformation, and they ensured
 
-give others guidance, but our research suggests that to help their
+employees had the emotional support they needed to execute. This
 
-workforce navigate a transformation, leaders need to look inward ﬁrst
+meant that when the going inevitably got tough, employees felt
 
-and examine their own relationship with change. “If you are not
+appropriately challenged and ultimately energized by the stress.
 
-ready to change yourself, forget about changing your team and your
+By contrast, leaders of the unsuccessful transformations didn’t make
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+the same emotional investment. When their teams hit the inevitable
 
-3
+challenges, negative emotions spiked, and the team entered a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+downward spiral. Leaders lost faith and looked to distance themselves
+
+from the project, which led employees to do the same.

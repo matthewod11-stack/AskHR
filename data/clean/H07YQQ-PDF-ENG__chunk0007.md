@@ -1,7 +1,17 @@
-# yourself for it.
+---
+source_path: H07YQQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b73598428ec0c0c6cc760ff50311a785236e3f80
+title: H07YQQ-PDF-ENG
+---
+# Henrik Sorensen/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+You’re ready to have a greater impact on your company’s strategic
 
-1
+direction, but you don’t know where to begin with your ideas. You see
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+an opportunity to open a new market for your company, but you’re
+
+unsure what levers to pull. You want to drive an important initiative
+
+that spans several business units, but you don’t know how to position

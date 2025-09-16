@@ -1,37 +1,19 @@
-## Picture the details—the room, the seating, the body language—and walk
+---
+source_path: H08OQ4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7446999d5a55a6fb1f9819e13febb51fe239206e
+title: H08OQ4-PDF-ENG
+---
+# HBR / Digital Article / How to Prepare for a Meeting Where Emotions Will Run High
 
-through the scenes moment by moment. Rehearse key moments, like
+Start with the end in mind: What does success look like for your situation?
 
-how you will open the conversation, navigate moments of tension, and
+How do you want to feel walking out of the room? How do you want others
 
-steer the meeting toward resolution.
+to feel afterward? As it was for Jason, success might not mean instant
 
-Identify likely challenges and potential triggers and how you’ll respond.
+resolution but a productive conversation where people feel heard and
 
-Ask yourself, what could go wrong in this meeting? For example, Jason
+there’s a clear path forward.
 
-was most worried about emotions escalating, so he imagined himself
-
-calmly saying, “Let’s pause. We’re here to solve this, not escalate it” if
-
-tempers started to ﬂare. He also worried about hitting an impasse, so he
-
-envisioned stating, “Since we’re not aligned yet, let’s focus on where we
-
-do agree and build from there.” Also, consider what they might say or
-
-do that could trigger you and how you will keep your cool. For instance,
-
-envision yourself taking three deep breaths or counting to 10 before
-
-responding.
-
-Don’t just see success—feel it. For example, try to experience in
-
-your body the conﬁdence, composure, and control you want to bring.
-
-Once you’ve mentally rehearsed, jot down key takeaways and talking
-
-points. By visualizing success ahead of time, you can enhance your
-
-mindset and improve your ability to guide the conversation toward a
+Now, turn your upcoming meeting or interaction into a mental movie.

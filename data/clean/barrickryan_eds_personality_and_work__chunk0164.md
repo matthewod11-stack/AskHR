@@ -1,7 +1,9 @@
-# THE HAPPY WORKER 41
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 132318499c96a013ff5895c1d1168ff4d5a82e80
+title: barrickryan_eds_personality_and_work
+---
+## Self-Conﬁdence, Motivation, and Approach Toward Goals
 
-examining these facets. The research we have already reviewed il- lustrates the usefulness of this approach: two cardinal features of extraversion, sociability and activity, have been shown to be related to and possibly outcomes of high positive affect. A third important characteristic of extraversion is the tendency to be self-conﬁdent and to have strong approach motivation (Depue & Collins, 1999). Diener and Fujita (1995), for example, noted that students with el- evated dispositional positive affect were rated as being more self- conﬁdent and assertive by friends and family members than were people low in dispositional positive affect. Lucas et al. (1996) repli- cated this ﬁnding, showing that when self-esteem and subjective well-being variables were measured using a variety of methods of assessment (self-report, informant report, multiple forms), self- esteem was consistently correlated with life satisfaction, positive af- fect, and negative affect. Diener and Diener (1995) demonstrated that this correlation is signiﬁcantly greater than zero in a variety of nations (though it was weaker and occasionally zero in collectivist cultures).
-
-In addition, longitudinal and experimental studies show that this correlation is due, at least in part, to the effects of well-being on self-esteem. Headey and Veenhoven (1989), using a panel de- sign, showed that there are mutual causal inﬂuences of life satis- faction on feelings of superiority and of feelings of superiority on life satisfaction. Sarason, Potter, and Sarason (1986) found that peo- ple who were asked to recall positive events from the past week (a positive mood induction) were more likely than those who did not recall these events to describe themselves in positive terms. Simi- larly, Wright and Mischel (1982) determined that induced positive mood caused respondents to report more favorable self-evaluations and more success on a laboratory task (in both retrospective as- sessments of success and expectancies for future success).
-
-These positive self-perceptions are likely to lead to the setting of higher goals, increased approach motivation and approach be- havior, and increased task persistence (see Carver & Scheier, 1990, for a more general discussion of the interrelations among affect, goals, and approach behaviors). Emmons (1986), for example, found that people high in positive affect were more likely than peo- ple low in positive affect to report having important goals in their lives, and experimental evidence (Baron, 1990; Hom & Arbuckle,
+Recently, we argued that the facets of the extraversion personality trait are linked by their common association with positive affect (Lucas et al., 2000) and that investigators could begin to formu- late hypotheses about the functions of positive affect by carefully

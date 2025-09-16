@@ -1,33 +1,25 @@
-## HBR / Digital Article / Do You Have an Emotionally Intelligent Team?
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e212152ab97974376f269ce47a965e1804c28b8
+title: H08UL7-PDF-ENG
+---
+# master1305/Getty Images
 
-my research colleagues and I were invited to observe in the all-glass
+Chances are you’ve tried to create ﬁrst-rate teams for your company’s
 
-oﬃce of their company’s Swiss headquarters.
+most important work by enlisting ﬁrst-rate people—that’s what most
 
-The trouble started when one team member came to a meeting 13
+organizations do. And chances are you’ve noticed that a collection of
 
-minutes late, and another blew up at them. “You act like our time
+virtuosos doesn’t usually make a virtuosic team.
 
-doesn’t matter,” a teammate barked. “Every one of us had to stop
+In fact, such a group placed in a room or on Zoom is just as likely as any
 
-something important to be here—on time!” Others rolled their eyes. You
+arbitrary collection of people to malfunction, like the managerial team
 
-could feel the team self-destructing.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-These were top people with tons of talent, yet the company leader was at
+1
 
-his wits’ end. Like so many executives I’ve worked with, his strategy for
-
-creating high-performing teams had been to put good people together
-
-and “just hope.” This strategy wasn’t working.
-
-In order to create top-performing teams—at all levels of the
-
-organization—what you actually need is team emotional intelligence.
-
-That ﬁnding is the outcome of the two decades my colleagues and
-
-I spent studying multiple industries, and it has been reinforced by
-
-a subsequent decade of applying our ﬁndings in industries such as
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

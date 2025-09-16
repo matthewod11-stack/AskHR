@@ -1,39 +1,19 @@
-## greater alignment, communication, and support in your relationship
+---
+source_path: H07KK4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12acee5dd0e4515d2c6b9daeb90189cc3ed384da
+title: H07KK4-PDF-ENG
+---
+## HBR / Digital Article / The Ripple Effect of a Bad Boss on Dual-Career Parents
 
-with your direct supervisor. And, if your co-parent feels trapped, you
+potential impact that a supportive supervisor will play in your life, and
 
-can help them identify strategies for doing so, as well.
+seek out a supportive boss.
 
-- 5. Cultivate communities of support.
+- 4. Manage up.
 
-While our research focused on the supportiveness of the workplace,
+Since choosing your direct supervisor isn’t always an option, it’s
 
-it’s only one dimension of our lives that aﬀects our immediate family.
+important to be proactive in managing the relationship with the boss
 
-Yet, many of us focus only on work and immediate family as potential
-
-levers of support, overlooking our wider community. By cultivating
-
-a broader network of support around you — whether from extended
-
-family, neighbors, friends, community or school resources — you may
-
-ﬁnd that you become less reliant on the supportiveness of your direct
-
-supervisor to facilitate wellness in your career and home. By creatively
-
-building and leveraging support in other domains of your life, you
-
-bolster your ability to thrive in challenging circumstances.
-
-It’s no secret that a supportive boss can play an instrumental role
-
-in your ability to thrive both at work and at home. Our research
-
-takes this ﬁnding one step further by highlighting how your boss can
-
-also indirectly inﬂuence your co-parent’s ability to thrive, as well.
-
-While it may not always be an option to choose the ideal supervisor,
-
-by understanding how this process unfolds, you can take steps to
+that you do have. Research suggests that you can manage up to facilitate

@@ -1,5 +1,9 @@
-# Van Nostrand.
+---
+source_path: introduction_to_special_topic_forum.md
+pages: n/a-n/a
+chunk_id: 9f2a7c91fffcc729a74bfc991e0c7b7373d1908d
+title: introduction_to_special_topic_forum
+---
+# Academy of Management Review
 
-McClelland, D. C. 1971. Assessing human motivation. New
-
-Ryan, R. M., & Deci, E. L. 2000. Self-determination theory and the facilitation of intrinsic motivation, social develop- ment, and well-being. American Psychologist, 55: 68–78.
+McClelland, D. C. 1961. The achieving society. Princeton, NJ:

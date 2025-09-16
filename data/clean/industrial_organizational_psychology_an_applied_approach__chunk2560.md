@@ -1,21 +1,17 @@
-# What Do You Think? 7
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 81a6093dc60b8ad7e3174a1057a3b20c5b423ce9
+title: industrial_organizational_psychology_an_applied_approach
+---
+## In a small rural school division in Virginia, a
 
-Do you think that incentives are a form of bribery? If so, do you think it’s unethical for companies to do this?
+superintendent, with the support of his school board, adopted an attendance reward program for teachers. Teachers with perfect attendance receive a $500 bonus at the end of the school year. Teachers who miss only one day receive $250. The superintendent believes that the program will increase teachers’ com- mitment to the students, parents, and community by rewarding them for not taking days off from work. This chapter discussed that one of the conse-
 
-Critics of such incentives say that it is unethical to “buy” commitment. They believe that it is only an excuse for leaders not doing what they should do: change how they treat employees. Many believe that organizational commitment and loyalty comes from how much employees identify with the organization’s goals, mission, and leaders. And it comes from variety in work, freedom to make decisions, and freedom to make mistakes without losing their jobs. It is when employees don’t believe in what management is doing or when they feel management is mistreating them
+that their commitment decreases. And, say these critics, you can’t get that commitment back simply by “bribing” them with bonuses, incentives, or pay increases. The leaders of today, the critics say, don’t want to give more freedom to employees to make decisions; they find it easier to fire employees for mis- takes than offering them additional training to per- form better, and leaders don’t want to take the time to learn better management techniques, because, to them, time away from work means money out of their own pockets.
 
-7
+quences of low commitment and job dissatisfaction is high absenteeism. In the school mentioned above, absenteeism had significantly risen over the past few years. The superintendent believed the increase was because of a lack of commitment by the teachers. After all, if the teachers were committed, they would try harder not to miss school. “It’s human nature,” he said “when you know you might lose your sick days at the end of the year to take those days even when you are not sick. By rewarding good attendance, the school division will increase commitment from these teachers and, consequently, reduce absenteeism.” If you talk to the teachers, however, many will say that the school division would rather “buy” their good attendance rather than determine and fix why teachers choose to be absent in the first place, which is in response to unethical practices by management and the poor treatment of teachers by the administration.
 
-7
+Supporters of such incentives say that part of
 
-7
-
-What would keep you at a company for a longer period? Would incentives such as an Attendance Reward Program or end of the year bonuses make a difference in whether you left a job?
-
-Do you think that using such incentives is a way for leaders to ignore what they should be doing to make things better for the employees?
-
-What are some other ethical dilemmas that might occur by offering incentives to increase commit- ment or job satisfaction?
-
-398
-
-chapter 
+organizational commitment is getting better perfor- mance out of employees, reducing absenteeism, and reducing turnover. They see nothing wrong in reward- ing employees for doing a good job, being at work, and staying at work. Ultimately, these incentives meet the goal of what they are intended for. So, if such incen- tives work, why not use them? Proponents counter the argument that management uses incentives instead of finding better ways to treat employees, by arguing that incentives are one way of treating employees better.

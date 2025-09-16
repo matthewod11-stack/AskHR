@@ -1,9 +1,9 @@
-# Generating Energy
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72cfa22826623bad2efb81206ba513d09f5245d2
+title: H07M52-PDF-ENG
+---
+## of thermodynamics tells us that the total energy of systems remains
 
-Some teams are genuinely depleted overall. Groups of employees
-
-who survived the latest round of layoﬀs often experience a sense of
-
-exhaustion and emotional turmoil, having lost frequent contact with
-
-people who were not only coworkers but also friends. The hybrid or
+constant. What matters is how that energy is directed.

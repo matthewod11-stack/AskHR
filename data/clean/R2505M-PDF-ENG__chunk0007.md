@@ -1,11 +1,13 @@
-## part of a network of people, products, ﬁnances, and data, and changes
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 47c2a8efab140f7a7e12ab9c451cbf4c24abddfe
+title: R2505M-PDF-ENG
+---
+## socially and environmentally dysfunctional outcomes in complex
 
-in one area of the network can have side eﬀects in others. For example,
+systems. To avoid them, innovators should apply systems thinking, a
 
-recent attempts by the U.S. government to impose tariﬀs on foreign
+methodology that has been around for decades but is rarely used today.
 
-imports have had ripple eﬀects on the supply chains of major products
-
-like cars and iPhones, whose components are sourced from multiple
-
-countries. The tariﬀ plans have also led to a spiral of complex and
+It addresses the fact that in the modern economy every organization is

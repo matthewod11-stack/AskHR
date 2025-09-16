@@ -1,5 +1,25 @@
-## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7bb13b8bd4d9a819b4fc563674733c89cdec8af7
+title: H08SLG-PDF-ENG
+---
+## discussions with 50 global professionals, and interviews with leaders
 
-In this article we’ll show how leaders often unknowingly discourage
+and those they lead—shows that employees looking to excel worry that shifting into spacious mode can be interpreted as a lack of eﬃciency
 
-spacious thinking on their teams, and what they can do to help instead.
+or urgency. As a result, it feels career-limiting, and like it requires
+
+permission from a manager, so few employees do it regularly.
+
+While all employees have some agency to shift to spacious mode,
+
+leaders play a crucial role in making it more accessible at work because
+
+they can legitimize it as a good way to spend precious time (or not).
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

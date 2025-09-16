@@ -1,19 +1,15 @@
-# Action Makes Gut Feel Useful
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44a24bdc9a144dcdb1cc5a774dff601d058d3448
+title: H08SY7-PDF-ENG
+---
+# questions.
 
-There’s one ﬁnal, underappreciated element of intuitive decision-
+- 5. Mine micro-decisions. The best leaders practice intuitive decision-
 
-making: decisiveness. The power of gut feel doesn’t just lie in the
+making in the small stuﬀ, too—whom to promote, how to respond in
 
-insight. It lies in the willingness to act on it—with intention and speed.
+meetings, when to stay silent. Every micro-decision is a data point in
 
-The early investors in Uber didn’t just feel clarity—they moved on it.
-
-They translated that quiet signal into bold action, and then worked
-
-to make it the right decision through mentoring, resourcing, and
-
-strategic direction. Their decisiveness reinforced their internal signal
-
-and increased the quality of future intuitive calls.
-
-In short: Gut feel doesn’t just inform the decision; it can shape the
+building a more accurate, more conﬁdent inner compass.

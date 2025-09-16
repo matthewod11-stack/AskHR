@@ -1,11 +1,13 @@
-# Link to Development Planning
+---
+source_path: it_s_not_about_the_boxes.md
+pages: n/a-n/a
+chunk_id: e8c0e1a562a2359982f62bde414465af8438c45f
+title: it_s_not_about_the_boxes
+---
+# Moving Forward
 
-Your goal in a talent review is to plan for
+This is also a great way to audit the names
 
-We’ve asked hundreds of audiences around the globe about their effectiveness in translat- ing talent reviews into development actions. There is a consistent and meaningful drop from the first process to the second one.
+that a manager places on their grid. If any high potential talent doesn’t appear on that manager’s succession chart, or people who aren’t high potential appear on the succession chart, you should have some tough questions for that manager.
 
-One way to ensure development planning happens, at least for your highest potential
-
-your organization’s succession needs and commit to the investments that will ensure successful growth. That goal will be realized through a well-structured discussion, clear definition of potential and honest assessment of an individual’s ability and willingness to do more.
-
-INTERESTED IN LEARNING MORE?
+The discussion about which tool to use in a talent review discussion pales in comparison to the quality of the discussion. If a tool helps to guide the discussion and leads to a more accurate prediction, you should use one. If you find that your predictive accuracy is just as good not using a tool, that’s fine as well.

@@ -1,23 +1,11 @@
-# Alanah Sarginson
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 01358b6c8d3c686461012997f8fa30c03d689582
+title: S25012-PDF-ENG
+---
+# bolts and ﬁttings for other hardware and
 
-optical sensor. “The algorithms do need a
+electronics. The designer might also have
 
-human eye. Human intuition knows what
-
-looks right,” McClelland notes. “Left to itself the algorithm can
-
-sometimes make structures too thin.” Under the supervision of expert
-
-human engineers, the AI then produces complex structure designs in as
-
-little as an hour or two. In traditional mechanical design, coming up
-
-with a design and analyzing it might take a week, followed by more
-
-iterations until an expert assesses the design for manufacturability. So it
-
-can take months of work to arrive at a solution. The structures designed
-
-with AI may look a little weird, but they are two-thirds lighter and 10
-
-times less subject to stress than components created by the traditional
+to block out a path for a laser beam or an

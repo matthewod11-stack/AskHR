@@ -1,7 +1,15 @@
-# by magic. Training, 23, 60–64.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3e6e1e5549b0f64a0cb178b17908801f78193919
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Sanchez, J. I., Prager, I., Wilson, A., & Viswesvaran, C. (1998).
 
-Scandura, T. A., Graen, G. B., & Novak, M. A. (1986). When managers decide not to decide autocratically: An investigation of leader-member exchange and decision inﬂ uence. Journal of Applied Psychology, 71, 579–584.
+Understanding the within-job title variance in job analytic ratings. Journal of Business and Psychology, 12, 407–419.
 
-Scarr, S. (1998). American child care today. American
+Sanders, G. S. (1981). Driven by distraction: An integrative
 
-Psychologist, 53(2), 95–108.
+review of social facilitation theory and research. Journal of Experimental Social Psychology, 17, 227–251.
+
+Sandler, L. (1986). Self-fulﬁ lling prophecy: Better management

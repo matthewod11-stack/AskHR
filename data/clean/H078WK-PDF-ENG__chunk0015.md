@@ -1,23 +1,13 @@
-## to Weaver. Not so. Every organization, no matter their demographic
+---
+source_path: H078WK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fcfbe3855e94e575341b063f0dbd3ac86a74c997
+title: H078WK-PDF-ENG
+---
+# Intentionality Is a Virtue
 
-makeup, must be intentional about the equitable nature of their
+Fawn Weaver was deliberate about bringing diversity — and diversity
 
-systemic structures, such as hiring and promotion, in addition having a
+of thought — to Uncle Nearest. Some may assume that because her
 
-strong focus on making the culture diverse, equitable, and inclusive.
-
-It started with hiring a team in an industry with a deep lack of
-
-demographic diversity. One way Weaver could have approached this
-
-was to prioritize hiring minorities to start her company. Yet, she wasn’t
-
-thinking that way. She is adamant that minority-owned businesses that
-
-seek to grow to the highest levels of success must prioritize diversity
-
-in hiring, even when their counterparts do not, and that the notion of
-
-“Black-only excellence,” for example, will ultimately be a disservice to
-
-the business and the communities that will be positively impacted by
+distillery is owned run a Black woman, DEI is less of a concern

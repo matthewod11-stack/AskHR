@@ -1,19 +1,11 @@
-# Testing the Program
+---
+source_path: H07NAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f45c884bb979c0bdc5926ca2749657bdaa707c0c
+title: H07NAR-PDF-ENG
+---
+## training and onboarding processes, that’s also a positive outcome: The
 
-It’s hard to judge the success of such incentive-based programs without
+company ends up learning something important about its new hires and
 
-running a controlled study. How can you really know if the right people
-
-are quitting, or if those who stay get a moral boost from doing so? To
-
-ﬁnd out, you need to run an experiment that includes a control group
-
-that is not oﬀered the incentives, which you can compare to a group that
-
-is oﬀered them.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+providing them with a motivational boost — at no cost.

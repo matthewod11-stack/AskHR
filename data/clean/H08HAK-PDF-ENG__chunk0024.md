@@ -1,23 +1,35 @@
-## and greater displays of organizational citizenship behaviors.
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 947015be68ec007d04fe8c689aad12f78e64515d
+title: H08HAK-PDF-ENG
+---
+## reﬂects their performance as either positive or negative, which can
 
-Balancing feedback formats to meet organizational needs. Despite
+aﬀect their perceptions of fairness and motivation. In light of our
 
-the advantages of narrative-only feedback in enhancing fairness
+ﬁndings, we suggest that organizations consider several key factors
 
-perceptions, providing only narrative comments may not always be
+when designing or improving their performance feedback practices.
 
-practical. Organizations often need to link performance appraisals
+Choosing a feedback format. Our research indicates that purely
 
-to tangible outcomes like bonuses and promotions, which can be
+numerical feedback without narrative components is not ideal. Even
 
-challenging with narrative-only assessments. In cases where only narrative feedback is used, managers might resort to creating unoﬃcial
+mid-range numerical ratings can make employees feel negatively
 
-or “shadow” rankings to make decisions about organizational outcomes
+evaluated and therefore are perceived as unfair by recipients. And the lack of context may make it diﬃcult for employees to understand how
 
-which can lead to perceptions of unfairness due to a lack of
+to improve. Although replacing numerical feedback with a narrative
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+can be time-consuming or uncomfortable for managers, particularly
 
-6
+when describing negative aspects of an employee’s performance, it
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+provides crucial beneﬁts. Narrative-only feedback prevents employees
+
+from feeling too negatively evaluated and therefore enhances their
+
+perceptions of fairness, which are linked to, such as lower employee
+
+turnover, higher job satisfaction, stronger organizational commitment,

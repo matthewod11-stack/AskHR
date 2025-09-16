@@ -1,19 +1,19 @@
-# crusader approach:
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: baaf940c61cd512e4a8d48fd203b62b42dee9c1c
+title: H07P39-PDF-ENG
+---
+# Are you a crusader leader?
 
-You’re passionate.
+As you reﬂect on your leadership style, you might recognize some
 
-Leaders who are passionate about an issue may display behavior that
+traits of a crusader. Even though there’s no single reason why someone
 
-can be misinterpreted as inﬂexible and defensive. They often have
+might adopt this approach, it can be driven by various factors, each
 
-considerable expertise in an area. They believe passionately that their
+with its own set of consequences. It’s important to be introspective
 
-way is the best way forward, which makes them less likely to accept or
+and understand the root cause and impact of your leadership style so
 
-consider alternative perspectives. This leads to exhaustion, as research
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you can adopt a more balanced one. Here are some key indicators of

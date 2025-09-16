@@ -1,27 +1,27 @@
-## HBR / Digital Article / Is It Time to Shake Up Your WFH Routine?
+---
+source_path: H07FTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e449fcf0f6fb19b77bd30adb29d2d657e917620
+title: H07FTS-PDF-ENG
+---
+# productivity win.
 
-Finally, you could add a little spice to your routine by incorporating
+If it’s not easy to transport your work because you need multiple
 
-something new and fresh. For example, if you sign up for ClassPass,
+computer screens or other special equipment, there are still ways that
 
-you can try out a variety of gyms in your area. Each week could be
+you can infuse some variety into your routine. One could be through
 
-an opportunity to experience something new. Or you could search
+a virtual coworking buddy. You could ask a coworker or friend to work
 
-MeetUp.com for events happening in your area. Sometimes having
+alongside you on a video call. Or you could use a service like FocusMate,
 
-something to look forward to in the evening hours can make you much
+which will pair you with someone else in the world who needs to get
 
-more focused in the daytime hours. Clients I’ve worked with have also
+something done at the same time you do.
 
-said that being in a setting where it would be rude to be on their phones also helps their minds really shut oﬀ from work.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Reason #2: Your household routines have changed.
+2
 
-Another reason to adjust your work-from-home schedule is to account
-
-for shifts that may have happened not to you, but around you. For
-
-example, maybe your spouse has gone back to the oﬃce, so they’re gone
-
-most of the day, or your kids have changed schools so the pick-up and drop-oﬀ times are diﬀerent, or you got a puppy and now you need to ﬁt
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

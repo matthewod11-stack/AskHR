@@ -1,37 +1,33 @@
-# future of work.
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51ba27a7d6374299902082c06d3f51f6dcb895f8
+title: H072GW-PDF-ENG
+---
+## HBR / Digital Article / An Intersectional Approach to Inclusion at Work
 
-At one point in my career, it looked as though I had “overcome”
+happens to have some attributes that aren’t “currently includable”?
 
-the blatant gender, class, and even xenophobia barriers I had faced
+Sequential inclusion leaves people behind.
 
-in previous jobs. And yet, for years, I was stuck, doing the work
+Welcoming all talent requires:
 
-but not getting the credit. Even when a well-intentioned organization
+- Systemic inclusion that considers intersectionalities, comprehensively
 
-implemented an initiative to promote more women in leadership, I still
+addresses all barriers, and embeds inclusion in all talent processes
 
-didn’t feel included.
+and decision-making mechanisms. It calls for inclusion by design,
 
-Looking back, I know that I hit the neurodivergent leadership ceiling,
+thoroughly and thoughtfully planned.
 
-a hidden barrier. Autistic people are often overlooked when leadership
+- Inclusion from the margin. Creating systems that include the most
 
-is equated with charisma or extreme extraversion (although research
+marginalized and those identifying with multiple marginalized groups
 
-shows that in dynamic environments, introverts and quiet people lead
+is the fastest way to include all. It also requires the participation of
 
-better than extroverts). In this case, the bias was not blatant. The people
+the marginalized. People don’t notice barriers they don’t face. Those
 
-in charge didn’t mean to exclude me or those like me. The system, like
+impacted by barriers others don’t notice (or only notice when the
 
-most, was set up to cater to the dominant neurotype. Perhaps years
-
-later there would be an intervention to make the organization more
-
-welcoming of neurodiversity. But when I was desperate to be seen,
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+problem becomes extreme) are best qualiﬁed to design the barrier-free

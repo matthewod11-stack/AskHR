@@ -1,21 +1,41 @@
-## HBR / Magazine Article / When Diversity Meets Feedback
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d932357f5fa9ed6c39fff395054e02fe9434b9df
+title: R2305F-PDF-ENG
+---
+# of a few decades ago.
 
-I feel strange treating my elder as my subordinate. As the researchers of
+I started to become interested in age diversity at work 25 years ago in my
 
-this study concluded, the role reversal constantly suggests to the older
+ﬁrst management role. I had hired a woman who was exactly the same
 
-subordinate that that person has somehow “failed to keep pace.”
+age as my mother to join my team. A pharmacist by training, Carole
 
-To complicate the challenge further, each succeeding generation has
+was elegant and worldly and was taking on her ﬁrst job after spending
 
-developed its own ideas about who should give feedback to whom, how
+18 years raising children. I still remember how awkward I felt when she began having diﬃculty with a client and I had to give her corrective
 
-formal or spontaneous that feedback should be, and how much praise
+guidance. The age diﬀerence hadn’t seemed a problem when things
 
-versus criticism should be articulated. One member may expect that
+were going well, but I couldn’t ﬁgure out how to avoid coming oﬀ as
 
-feedback will be given annually from boss to subordinate, for instance,
+obnoxious when I outlined which behaviors she needed to change.
 
-and another that real-time feedback will be given in all directions. Here
+The experience I was having is sometimes referred to as status
 
-are a few of the key diﬀerences:
+incongruence. This basically means that the status accorded your role in
+
+society doesn’t match the part you’re playing in the current context. One
+
+research project with 8,000 employees in Germany showed that when
+
+younger managers supervise older workers, status incongruence has a
+
+measurable negative impact on employees’ happiness. It’s not just that
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+14
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

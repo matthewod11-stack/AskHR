@@ -1,7 +1,7 @@
-# Your Guide to Working on Global Teams
-
-https://hbr.org/2023/07/your-guide-to-working-on-global-teams
-
-7/9
-
-Avoid jargon or provide
+---
+source_path: Your Guide to Working on Global Teams.md
+pages: n/a-n/a
+chunk_id: 3494e583bfc6d70d7a921cf7d915fd717e265387
+title: Your Guide to Working on Global Teams
+---
+# 9/10/25, 9:08 AM

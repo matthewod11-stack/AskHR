@@ -1,3 +1,9 @@
-# Organizational Psychology, Orlando, FL.
+---
+source_path: talent_management_a_critical_review.md
+pages: n/a-n/a
+chunk_id: 7cf23846d4cf8db9009069f37b4b951c242e05dd
+title: talent_management_a_critical_review
+---
+# htm
 
-Smart, B. D. (1999). Topgrading: How leading companies win by hiring, coaching, and keeping the best people. Paramus, NJ: Prentice Hall Press. Stahlman, E. J., & Lewis, R. E. (1994). Workforce transition model for US Department of Energy non-nuclear reconfiguration. International Journal
+Sloan, E.B., Lewis, R.E. (2003). Managing succession successfully. Workshop presented at the Annual Conference of the Society for Industrial/

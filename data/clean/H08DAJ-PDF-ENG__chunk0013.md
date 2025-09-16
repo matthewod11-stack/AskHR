@@ -1,15 +1,13 @@
-# How to Delegate Decisions
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1a229fb08f9cf50acb6451eead26db4a05fd6eb
+title: H08DAJ-PDF-ENG
+---
+# teammate.
 
-It turns out that the people in our studies thought being asked to
+Given how detrimental decision delegation can be, we wondered: Are
 
-make a decision was less fair than being asked for advice, and that
+there any factors that can oﬀset these negative eﬀects and improve how
 
-this sense of unfairness made them view delegators more negatively. It
-
-may seem unfair when someone asks a colleague to take on decision
-
-responsibility – and its potential burdens – when the colleague views
-
-that responsibility as rightfully the requester’s to shoulder.
-
-So how can managers delegate decisions without seeming unfair? Our
+employees view delegators?

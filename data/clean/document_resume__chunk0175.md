@@ -1,5 +1,13 @@
-# Closing Remarks
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: a8ee8b9824247ffda001486ed6eafd274c705329
+title: document_resume
+---
+# Legal Aspects
 
-Disparate impact is a major issue in all personnel procedures.
+performance appraisal, employers may encounter legal liability when they attempt to discharge employees for poor performance. Two impoitant soinces of at -will liability involving performance appraisal are breach of contract ac ' violation of the implied convenant of "good faith and fair dealing."11
 
-It is unrealistic- to assume that performance appraisal systems can be designed which will never cause disparate impact or can be made court-proof by establishing business necessity or job relatedness. Moreoer, the area of at-will liability is still evolving. But it has been demonstrated that a performance appraisal system that avoids court problems encoun- tered by other organizations, that meets the v Akin) requirements of the "Uniform Guidelines," and that is administered b) trained raters under standakhzed and controlled conditions will greatly reduce the potential for legal
+There have been a number of successful lawsuits w here the employer has been charged with breach of contract Representation made in employee handbooks, poli- cies, procedures; and direct or indirect statements are implied contracts. Once a contract has been found to exist, either in fact or by implication; the employee has a iegal claim if its terms are not followed. The common claim of breach of contract is when employers fail to follow their ovum specified procedures when discharging employees for poor performance.15
+
+Courts are also allowing wrongful discharge suits where termination constitutes a violation of the implied convenant of "good faith and fair dealing." Arbitrary and unexplained firings are often overturned, and courts are making it clear that employees are entitled to varying amounts of organizational due process.'' Employees of public institutions have additional due process rights guaranteed by the 14th Amendment to the U S Constitution In other words, an employee who is being dismissed or pressured to resign (constructively discharged) for poor performance should have an opportunity to defend his or her performance and be judged in a fail Vs,l) with explicit know ledge of the criteria on which the dismissal was based.

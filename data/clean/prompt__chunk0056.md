@@ -1,7 +1,9 @@
-# Prompt Engineering
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 2076286b32cd3e0dd0045d8597c118ae77b7bfb9
+title: prompt
+---
+# February 2025
 
-When you chat with the Gemini chatbot,1 you basically write prompts, however this
-
-whitepaper focuses on writing prompts for the Gemini model within Ve(cid:457)ex AI or by using
-
-the API, because by prompting the model directly you will have access to the con(cid:450)guration
+6

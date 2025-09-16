@@ -1,13 +1,7 @@
-# Mankins and Richard Steele (2006)
-
-. . .
-
-Diamond of national advantage: Why are certain companies based
-
-in certain nations capable of consistent innovation? Why do they
-
-ruthlessly pursue improvements, seeking an ever-more-sophisticated
-
-source of competitive advantage? And why are they able to overcome
-
-the substantial barriers to change and innovation that so often
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f34761dc68f95180be63e6511611e340f1e75ab6
+title: H08TKY-PDF-ENG
+---
+## Go deeper: “Stop Making Plans; Start Making Decisions,” by Michael

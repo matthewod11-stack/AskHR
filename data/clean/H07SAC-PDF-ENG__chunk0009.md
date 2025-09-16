@@ -1,23 +1,43 @@
-## time outdoors, relaxation and meaningful engagement.
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13e795803c1905e0a0b383f53fda02ea5642abc0
+title: H07SAC-PDF-ENG
+---
+## HBR / Digital Article / When Your Vacation Wasn’t Exactly Relaxing
 
-Start by rating yourself on a scale of 1-10 in terms of your current energy
+Even when pacing yourself, your time oﬀ doesn’t always go as planned.
 
-levels in each of the above areas. Then identify where you would like to
+The vacation itself can be a source of stress for a variety of reasons, from
 
-be in each domain and one action you can take to reinforce or improve
+strained relationships, pre-vacation stress of getting everything done,
 
-each of these elements of your wellbeing. Reassess daily for a week,
+unexpected travel delays, or the weight of impending deadlines and
 
-tracking how your energy shifts as you re-engage in healthier habits.
+workload when you return.
 
-- 2. Ease back into work.
+So, what can you do when you come back to work more exhausted than
 
-Coming back from a vacation can be a challenging experience when
+when you left — especially when everyone assumes you’re well rested
 
-you are feeling overwhelmed or stressed about catching up with emails
+and raring to go but you feel just as depleted (or more) than before? Here
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+are ﬁve steps you can take to refresh on your return.
 
-2
+- 1. Take inventory of your health and energy.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Unless you’ve been on a rejuvenating health retreat, it’s possible that
+
+you’ve veered away from your healthy routines, maybe skipping out on
+
+physical activity or ﬁnding yourself caught up in a full schedule and
+
+indulging a bit too much.
+
+On your return, assess and acknowledge your energy levels, taking
+
+inventory of how you’re feeling to determine what you need. Research
+
+has found that optimizing your energy along the following domains can
+
+help boost wellbeing and performance: sleep, movement, connection,

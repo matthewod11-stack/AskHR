@@ -1,9 +1,23 @@
-# propaganda negativa
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 3e7692047a6848b4aa52ab9f957adf62439deaa9
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# questão anterior. A primeira questão gera uma avaliação quantitativa, revelando o
 
-A métrica final, o indicador, é gerado a partir de um cálculo dado pela razão
+quão satisfeito (ou insatisfeito) o cliente está. Partindo dessa pontuação, os
 
-entre a dedução da quantidade de detratores da quantidade de promotores e o total
+consumidores são classificados em três diferentes níveis:
 
-de respostas coletadas. Já a segunda questão, segundo Reichheld (2003), é aberta
+- Promotores: atribuem nota 9 ou 10, revelando altas chances de
 
-e qualitativa, tendo como objetivo coletar insumos a respeito das estratégias que
+recomendar a empresa/produto/serviço
+
+- Neutros: dão nota 7 ou 8, denotando que sua relação com a
+
+companhia é regular, mas existem pontos a melhorar
+
+- Detratores: nota de 0 a 6, explicitando que estão descontentes com
+
+seu produto, serviço ou atendimento, o que pode levá-los a fazer uma

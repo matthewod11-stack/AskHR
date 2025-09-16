@@ -1,31 +1,33 @@
-## internships or fellowships, employee resource groups (ERGs), and
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd69d21f6026d9ee5189b0f5b276bdf1be46be4a
+title: H08NFX-PDF-ENG
+---
+## HBR / Digital Article / How to Assess the New Legal Risks of Your DEI Policies
 
-sponsorship/mentorship programs. These programs are important
+Diverse slate requirements, which compel organizations to interview a
 
-because the single strongest predictor of who’s in your network is
+speciﬁed number of women or people of color for open roles, also are in
 
-similarity—like likes like. This means women and people of color
+the crosshairs. Are they worth going to the mat for? Maybe not.
 
-are often excluded from the kinds of mentorship, sponsorship, and
+The most well-known example of this requirement is the NFL’s Rooney
 
-leadership opportunities that are crucial to job success.
+Rule, which requires a diverse slate of candidates for head coach,
 
-A recent Supreme Court decision made these programs easier to
+general manager, and other executive positions. Studies in 2021 and
 
-challenge under federal law. This week, the Supreme Court heard oral
+2023 found that the onset of the rule did not consistently increase
 
-arguments in Ames v. Ohio Department of Youth Services, a case that may
+the number of head coaches of color. Earlier studies suggest why:
 
-make these programs even more vulnerable in the near future.
+White coaches lower down the chain are twice as likely to be promoted as Black coaches, with the diﬀerential promotion rate occurring both
 
-Luckily, companies can sharply lower their risk proﬁle in several
+before and after the Rooney Rule was put in place.
 
-ways by reviewing and evolving these programs. The basic principle
+Targeted professional development programs present risks—but ones that are easy to minimize.
 
-is to ensure that professional development isn’t limited to race- and
+Many companies have professional development programs that oﬀer
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+skills- and network-building to speciﬁc groups—for example, through

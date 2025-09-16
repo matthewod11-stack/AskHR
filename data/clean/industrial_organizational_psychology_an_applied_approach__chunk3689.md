@@ -1,11 +1,13 @@
-# Easing the Child-Care Burden
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 76f98df244d0eac5cd96a56aeddb05a04a3aa48b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# S
 
-More than % of employees in the labor force have children under the age of  and thus have a variety of child-care needs (O’Toole & Ferry, ). To help employees meet these needs, an increasing number of organizations have become involved with child-care issues. This increase is due in part to research demon- strating that the lack of regular child-care options causes employees with children to miss an additional eight days of work per year and costs an organization with
+Make “to do” lists, and cross out tasks once they have been accomplished. Keep a daily time log in which you schedule your appointments, even appointments for yourself. For example, you might schedule 10:00 a.m. to 11:00 a.m. to return phone calls or to read your mail. Treat these self-appointments as you would any other meeting, and don’t let people interrupt you. To avoid waiting in line, do things at times when nobody else is doing them. For example, eat lunch at 11:00 a.m. rather than noon, go to the bank in the middle of the week rather than on Friday, or do your grocery shopping in the evening rather than right after work or on Saturday morning.
 
-stress management: dealing with the demands of life and work
+Your local library or hospital has additional infor- mation about relaxation methods. This is a good place to begin if you are interesting in finding out more.
 
-581
-
-582
-
-chapter 
+Though many of these suggestions seem reasonable, the empirical literature is unclear regarding the actual stress-reduction benefits of such time management techniques as making lists (Adams & Jex, 1999).

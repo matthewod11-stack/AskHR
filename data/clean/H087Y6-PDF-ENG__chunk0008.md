@@ -1,21 +1,23 @@
-## HBR / Digital Article / The FTC’s Noncompete Ban Was Long Overdue
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff2385ee32231f53b02212edf117af3e78c206cd
+title: H087Y6-PDF-ENG
+---
+## adopts a comprehensive prohibition on the use of noncompete clauses
 
-In 2016, I was part of President Obama’s team when his administration
+in any industry with any worker, including those at senior executive
 
-issued a call to action urging states to curtail the expansion of
+levels. The rule is promulgated using the FTC’s authority to determine
 
-noncompete clauses, recognizing growing empirical evidence that
+practices that are unfair methods of competition. For those like me who
 
-noncompetes — terms or conditions of employment that prohibit a
+have long argued against the use of noncompetes, this moment has
 
-worker from seeking or accepting work for a certain period of time with
+been a long time coming.
 
-a competitor or starting their own business after leaving their employer
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-— are harmful not only to employees but to the economy at large.
+1
 
-Since then, I have been among the voices calling on the FTC to act on
-
-noncompetes and advising the Biden administration to give the FTC
-
-the authority to promulgate a national ban. This has been driven by my
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

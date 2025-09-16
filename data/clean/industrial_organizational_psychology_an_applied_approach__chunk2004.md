@@ -1,5 +1,19 @@
-# Job Characteristics
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: dee9908a9724826d27d68d5fde8ed590822211d0
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Job Expectations
 
-According to job characteristics theory, employees desire jobs that are mean- ingful, provide them with the opportunity to be personally responsible for the outcome of their work (autonomy), and provide them with feedback of the results of their efforts (Hackman & Oldham, ). If there is a discrepancy between the extent to which a job provides these three outcomes and an employee’s need for these outcomes, the employee will be less motivated.
+A discrepancy between what an employee expected a job to be like and the reality of the job can affect motivation and satisfaction. For example, a recruiter tells an applicant how much fun employees have at a particular company and about the “unlimited potential” for advancement. After three months on the job, however, the employee has yet to experience the fun and can’t find any signs of potential advancement opportunities. Because these expectations have not been met, the employee will probably feel unmotivated.
 
-According to job characteristics theory, jobs will have motivation potential if they allow employees to use a variety of skills (skill variety) and to connect their efforts to an outcome (task identification) which has meaning, is useful, or is appreciated by coworkers as well as by others in society (task significance). Take, for example, a job in which a factory worker stitches the company logo on shirts that were created by other workers and in which the quality of the shirts and the logo stitching are evaluated by employees in the quality control department. Because the job does not involve a variety of skills (lacks skill variety), someone else checks the quality of their work (no feedback, low task identification), putting logos on a shirt is probably not appreciated by society (low task significance), and the employee is closely supervised (low autonomy), the job would be considered to have low motivation potential. As shown in Table ., meta-analysis results demonstrate that jobs with a high motivating potential score result in higher lev- els of employee satisfaction and performance, and lower levels of absenteeism (Fried & Ferris, ).
+Employees compare what the organization promised to do for them (e.g., provide a computer, support continued education) with what the organization actually does. If the organization does less than it promised, employees will be less motivated to perform well and will retaliate by doing less than they promised (Morrison & Robinson, ).
+
+332
+
+chapter 
+
+As you can guess from these examples, it is important that applicants be given a realistic job preview (RJP) (a concept that you no doubt remember from Chapter ). Though being honest about the negative aspects of a job may reduce the applicant pool, it decreases the chances of hiring a person who will later lose motivation or become dissatisfied.
+
+A good example of this comes from an employee who works for a public men- tal health agency. Prior to accepting her current job, she had worked in the public sector for ten years in a variety of administrative positions. She was excited about her new opportunity because it was a newly created position with what appeared to be excellent opportunities for personal growth. After a year, however, it became clear that the position was clerical, had no opportunity for advancement, and the most important decision she could make involved whether to order pizza or sand- wiches for executive meetings. To make matters worse, this aspiring professional was asked to shop for food to serve at meetings and then serve the food to the managers. As you can imagine, she was deeply disappointed and angry at hav- ing been misled. Because her role as a single mother did not allow her to quit her job, she vented her dissatisfaction by buying stale doughnuts for breakfast meetings, letting the coffee get cold, and “forgetting” to bring mayonnaise for her supervisor’s sandwich—behaviors that could not get her fired but allowed her in a passive-aggressive manner to maintain some form of control in her work life.

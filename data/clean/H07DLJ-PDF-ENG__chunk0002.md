@@ -1,11 +1,27 @@
-# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ddea4edc9775d113a57c83b51dde2c1df15d7c0
+title: H07DLJ-PDF-ENG
+---
+## Published on HBR.org / November 23, 2022 / Reprint H07DLJ
 
-but a sponsor who will put their own career on the line to advance that
+Video Available Online To watch, please visit this article at HBR.org.
 
-of someone they believe in.
+Deb Liu is CEO of Ancestry, the $5 billion genealogy platform, and the
 
-HBR editor in chief Adi Ignatius sat down with Liu in this episode of our
+author of Take Back Your Power: 10 New Rules for Women at Work. While
 
-video series “The New World of Work” to talk about:
+overt discrimination against women may have receded in recent years,
 
-- How women can survive and thrive in stereotypically “bro” industries
+she says covert discrimination, including unconscious bias, can be just
+
+as pernicious, keeping women from reaching the peaks of success. She
+
+pushes for women to ﬁnd themselves not just mentors oﬀering advice,
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

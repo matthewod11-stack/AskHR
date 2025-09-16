@@ -1,5 +1,9 @@
-# Prentice-Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: de06a2775f1e07a864e51b1427412359b0aec381
+title: untitled
+---
+# Appleton-Century-Crofts.
 
-Barkley, R. A. (1990). Attention-deﬁcit hyperactivity disorder: A handbook for diagnosis and treatment. New York: Guilford Press.
-
-Beers, C. (1908). A mind that found itself, an autobiography. New
+Bandura, A. (1977). Social learning theory. Englewood Cliffs, NJ:

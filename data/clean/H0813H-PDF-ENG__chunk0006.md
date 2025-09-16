@@ -1,25 +1,33 @@
-# repercussions of monitoring?
+---
+source_path: H0813H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5d8227ac1269bc49a7bbcccd44285e3fef98933
+title: H0813H-PDF-ENG
+---
+## emails, and spreadsheets, among other activities.
 
-We suspected that if supervisors could not control whether to use the monitoring systems, they may be able to control how they use the
+These real-world examples are part of a growing movement to track
 
-information from these systems. Speciﬁcally, we expected that whether
+employee productivity through increasingly sophisticated technology,
 
-supervisors used the system for control (i.e., performance evaluation)
+such as desktop surveillance, biometric smart badges, location tracking,
 
-or feedback (i.e., performance development) purposes would determine whether their relationship with their subordinates would suﬀer from
+or desk heat sensors. While this trend preceded the pandemic, it’s only
 
-using monitoring systems.
+accelerated with employees’ continued interest in hybrid or remote
 
-We conducted two studies to assess our predictions. First, we conducted
+work arrangements. One recent report suggested that nearly 80% of
 
-an online experiment with 186 U.S.-based participants, recruited from
+employers were engaging in some electronic monitoring of employees.
 
-the crowdsourcing platform Proliﬁc Academic. Half were told that a
+The ultimate decision to use these technologies typically comes from
 
-study administrator would access their webcam to record their activities
+upper management. However, the reality is that implementation and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+utilization of such systems typically falls on supervisors.
 
-2
+With this in mind, we set out to better understand two critical questions:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+First, to what extent do employees blame their supervisors for the
+
+monitoring? Second, can the supervisor do anything to alleviate the

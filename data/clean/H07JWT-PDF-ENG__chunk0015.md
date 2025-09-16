@@ -1,9 +1,17 @@
-# structure.
+---
+source_path: H07JWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae0e455912a244428e4ba48aa6c613354308d479
+title: H07JWT-PDF-ENG
+---
+## performance — among remote and hybrid workers.
 
-An easy way to combat aﬃnity distance, or the emotional separation
+Put chit-chat on the agenda.
 
-that can crop up between remote team members, is to dedicate the ﬁrst
+When everyone works in the same oﬃce, it’s easier to get to know one
 
-ﬁve minutes of team meetings to a shared ritual. Have everyone say
+another while making small talk in the kitchen or walking to and from
 
-something they’re excited about or try “High, Low, Ha,” where each
+meetings. Because remote workers don’t have access to these casual
+
+collisions, building relational trust in a distributed setting requires

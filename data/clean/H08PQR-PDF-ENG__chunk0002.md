@@ -1,9 +1,7 @@
-# Francesco Carta fotografo/Getty Images
-
-Family businesses operate in a space where trust is assumed, roles
-
-are inherited, and emotions run deep. That intimacy can be a strength,
-
-but without structure, it’s also a vulnerability. When family dynamics
-
-become the guiding factor when a business faces a big decision, it’s only
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 196a16704751e1dda60a4f389b3cd6a10a009d43
+title: H08PQR-PDF-ENG
+---
+## Published on HBR.org / April 28, 2025 / Reprint H08PQR

@@ -1,11 +1,25 @@
-# Major Fields of I/O Psychology
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1b183ccab2d38af1bf116cbeb04ab069bbc23eed
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Work Commute to work Watch TV Sleep Prepare and eat meals Other
 
-Though the goal of I/O psychology is to increase the productivity and well- being of employees, there are two approaches to how this can be accomplished. The industrial approach (the “I” in I/O psychology) focuses on determining the competencies needed to perform a job, staffing the organization with employees who have those competencies, and increasing those competencies through training. The organizational approach (the “O” in I/O psychology) creates an organizational structure and culture that will motivate employees to perform well, give them with the necessary information to do their jobs, and provide working conditions that are safe and result in an enjoyable and satisfying work environment.
+ hours  hour  hours  hours  hours  hours
 
-Personnel Psychology I/O psychologists and HRM professionals involved in personnel psychology study and practice in such areas as analyzing jobs, recruiting applicants, select- ing employees, determining salary levels, training employees, and evaluating employee performance. Professionals working in these areas choose existing tests or create new ones that can be used to select and promote employees. These tests are then constantly evaluated to ensure that they are both fair and valid.
+With the possible exception of sleeping, people spend more time at their jobs than at any other activity in life (and sometimes these two activities overlap!). Thus, it makes sense that people who are happy with and productive at their jobs will lead more fulfilling lives than people unhappy with their jobs. If a person is unhappy at work for  hours a day, the residual effects of this unhappiness will affect the quality of that person’s family and leisure life as well.
 
-Personnel psychologists also analyze jobs to obtain a complete picture of what each employee does, often assigning monetary values to each position. After obtaining complete job descriptions, professionals in personnel psy- chology construct performance-appraisal instruments to evaluate employee performance.
+From a societal perspective, I/O psychologists can also improve the quality of life by increasing employee effectiveness, which reduces the cost of goods sold by improving product quality. This in turn reduces repair and replacement costs
 
-Psychologists in this area also examine various methods that can be used to train and develop employees. People within this subfield usually work in a training department of an organization and are involved in such activities as identifying the organization’s training needs, developing training programs, and evaluating training success.
+introduction to i/o psychology
 
-Organizational Psychology Psychologists involved in organizational psychology are concerned with the issues of leadership, job satisfaction, employee motivation, organizational communication, conflict management, organizational change, and group processes within an organization. Organizational psychologists often conduct surveys of employee attitudes to get ideas about what employees believe are an organization’s strengths and weaknesses. Usually serving in the role of a con- sultant, an organizational psychologist makes recommendations on ways prob- lem areas can be improved. For example, low job satisfaction might be improved by allowing employees to participate in making certain company decisions, and poor communication might be improved by implementing an employee suggestion system.
+3
+
+4
+
+chapter 
+
+by improving organizational efficiency, which can result in decreases in ineffi- cient activities such as waiting in line.
+
+Thus, I/O psychology can improve the quality of life at levels equal to, and often exceeding, those of fields such as counseling psychology and medicine. So, even though I/O psychologists make a good salary, the real benefits to the field involve the positive impacts on the lives of others.

@@ -1,13 +1,9 @@
-# and shares your concerns?
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9bfed92482c6da55f8422b8064a07ad204479aac
+title: R2504K-PDF-ENG
+---
+## HBR / Magazine Article / How to Identify the Perfect Cofounder
 
-Additionally, test the relationship with real-work situations. More than
-
-75% of the cofounders I surveyed whose startups were active for
-
-three or more years had done some form of discovery work together
-
-before committing to a partnership. This included building prototypes,
-
-interviewing customers, and pitching to prospective investors. It’s one
-
-thing to know someone on a personal level and another to see how the
+someone who balances out your stress or someone who understands

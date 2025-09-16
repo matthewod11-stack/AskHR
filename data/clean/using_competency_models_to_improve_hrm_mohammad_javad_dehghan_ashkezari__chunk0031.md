@@ -1,3 +1,15 @@
-# the
+---
+source_path: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari.md
+pages: n/a-n/a
+chunk_id: f8678e19c2ac2cfb54b35cae47c08cc11241720a
+title: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari
+---
+# Using Competency Models to Improve HRM
 
-Different Types of Competencies Carrol and McCrackin (1988) argue that competencies are generally organized into three main categories. The first is the core competency category, which was first proposed by Prahalad and Hamel (1990). A core competency forms the basis for strategic direction; it is something a company does well relative to other competitors. Because the workforce of the organization is crucial in terms of creating strategic value and the concept has organizational performance influenced the HRM practices. Core competencies refer to the elements of behavior that are important for all employees to possess as, for example, a core competency in "result/ quality orientation". The second category is leadership / managerial competencies. This category involves competencies that are related to leading an organization and people to achieve an organization's objectives that relate to managing, supervising, and developing people. Some examples include "visionary leadership", "strategic thinking", and "developing people". The third category is functional (job-specific) competencies, those that are required to be performed in a particular job role or profession (Ozcelik and Ferman, 7 2006:
+achieve, to demonstrate competency in a specific work segment or function.
+
+- Competency profile. Document
+
+set of competencies particular to a position/ job/ occupational group/ functional community.
+
+that describes

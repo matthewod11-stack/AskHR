@@ -1,9 +1,21 @@
-# Are Coworkers Outwardly Unhappy?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e869f40f531bc6ceeb1de0404516762928c2334f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Do Employees Enjoy Working with Supervisors and Coworkers?
 
-Social information processing theory, also called social learning theory, pos- tulates that employees observe the levels of motivation and satisfaction of other employees and then model those levels (Salancik & Pfeffer, ). Thus, if an organization’s older employees work hard and talk positively about their jobs and their employer, new employees will model this behavior and be both produc- tive and satisfied. The reverse is also true: If veteran employees work slowly and complain about their jobs, so will new employees.
+Research indicates that people who enjoy working with their supervisors and coworkers will be more satisfied with their jobs (Mossholder, Settoon, & Hena- gan, ; Repetti & Cosmas, ). Such findings certainly make sense. We all have had coworkers and supervisors who made our jobs unbearable, and we all have had coworkers and supervisors who made our jobs fun to have. In a study of  employees at an apparel manufacturing plant, Bishop and Scott () found that satisfaction with supervisors and coworkers was related to organi- zational and team commitment, which in turn resulted in higher productivity, lower intent to leave the organization, and a greater willingness to help.
 
-To test this theory, Weiss and Shaw () had subjects view a training video in which assembly line workers made either positive or negative comments about their jobs. After viewing the videotape, each subject was given an opportunity to perform the job. The study found that those subjects who had seen the posi- tive tape enjoyed the task more than did the subjects who viewed the negative tape. In a similar study conducted by Mirolli, Henderson, and Hills (), sub- jects performed a task with two experimenters pretending to be other subjects (these are called confederates). In one condition, the confederates made positive comments about the task (e.g., “Gee, this is fun”); in a second condition, they made negative comments about the task (e.g., “This sucks”); and in the control condition, they did not make any comments. Consistent with social informa- tion processing theory, actual subjects exposed to the confederates’ positive comments rated the task as more enjoyable than did the subjects exposed to neg- ative comments.
+employee satisfaction and commitment
 
-In general, the research on social information processing theory supports the idea that the social environment does have an effect on employees’ attitudes and behaviors (Pollock, Whitbred, & Contractor, ; Robinson & O’Leary-Kelly, ). As with all of the theories in this chapter, it plays a role in job satisfaction but does not play the only role. One of the appeals of social information process- ing theory is that it certainly makes intuitive sense. Think of courses you have taken in which one student participated more than anyone else. After a while, the student’s level of participation probably decreased to be more in line with the rest of the class. In work as in school, social pressures force individuals to behave in ways that are consistent with the norm, even though the person may privately believe something different (Nail, ).
+373
 
-An IT company in Germany, Nutzwerk, believes so strongly in this theory that it makes new employees sign a contract agreeing not to whine and complain. The policy was created after employees started complaining about a woman who kept complaining! So far, two employees have been fired for excessive whining.
+t i d E o t o h P / n a m w e N
+
+l e a h c i M ©
+
+374
+
+chapter 

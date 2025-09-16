@@ -1,9 +1,17 @@
-# Basic Provisions/Requirements
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Qualified Individuals with Disabilities.md
+pages: n/a-n/a
+chunk_id: 82d1b071d9f0205bed4d2263544b6ecc5a97e9e9
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Qualified Individuals with Disabilities
+---
+## essential job functions of that position.
 
-Under Section 503 and its implementing regulations, covered employers with Federal contracts or subcontracts ("contractors") must not discriminate against applicants or employees on the basis of disability.
+Additional information on the deﬁnitions of "individual with a disability" and "qualiﬁed individual with a
 
-This obligation covers the full range of employment and personnel practices, such as recruitment, hiring, rates
+disability" can be found in the regulations and in several of the Enforcement Guidance documents published
 
-of pay, upgrading, and selection for training. Covered employers must also take steps to employ and advance
+by the Equal Employment Opportunity Commission (EEOC), as these deﬁnitions are consistent with Title 1 of
 
-in employment qualiﬁed individuals with disabilities. All covered contractors must also include the clause at 41
+the Americans with Disabilities Act of 1990 (ADA), as amended.

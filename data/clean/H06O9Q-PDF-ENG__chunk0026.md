@@ -1,19 +1,29 @@
-# process.
+---
+source_path: H06O9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a2224f5e11540e289cee0711c2981f47f4febc3
+title: H06O9Q-PDF-ENG
+---
+# Communicate
 
-- • •
+Many of these ideas require an open and honest dialogue with your
 
-The past two years have had a profound impact on everyone and have
+current employer — which may be scary and itself comes with some
 
-sparked some signiﬁcant realizations and reprioritizations for many.
+risk. Remember, if your current employer truly values you, it’s in their
 
-These are important, valid, and should not be discarded — there’s
+best interest to help you resolve your uncertainty and work with you
 
-no question that the Great Resignation is a very real phenomenon.
+to negotiate a good resolution, as the alternative is a resignation letter
 
-However, we’re also all human, operating under the inﬂuence of a lot
+that leaves little room for a mutually beneﬁcial solution. One lesson I’ve
 
-of factors that aﬀect our ability to make decisions. Recognizing and
+learned after watching 20 years of MBAs go through the recruitment
 
-consciously addressing these biases when making critical life decisions
+process is that we often underestimate our power and ability to outline
 
-are important steps toward making sure we don’t ﬁnd ourselves locked
+our own needs, negotiate, and ﬁnd a workable middle ground. There
+
+is no guarantee, but learning how seriously your employer takes your
+
+well-being is itself good data to have and very relevant to this whole

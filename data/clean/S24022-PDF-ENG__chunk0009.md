@@ -1,19 +1,15 @@
-## ﬁve-year compound annual growth rates (CAGRs) over the period 2018
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4c90b0665b45efdf32b0211b142b8b9b96201ab
+title: S24022-PDF-ENG
+---
+## HBR / Spotlight Article / Create a System to Grow Consistently
 
-to 2022 and focused on the top quartile of growth performers. We rank-
+To better understand the value that can be created when ﬁrms grow
 
-ordered those 535 companies—we call them growth leaders—by revenue
+consistently, we and our colleague Brett Davidson conducted a study of
 
-growth for each year within the period and identiﬁed the ones that were
+2,142 publicly traded U.S. companies with annual revenues of more than
 
-in the top half every single year. That’s remarkably consistent growth,
-
-and for that reason, we call those 234 companies growth champions.
-
-Both groups in the top quartile had similar average CAGRs over
-
-time, but the growth champions demonstrated a consistency that was
-
-signiﬁcantly more valued by the market, earning an average valuation of
-
-4.2 times revenue versus 2.8 for growth leaders and 1.7 for companies in
+$200 million. We divided the companies into quartiles based on their

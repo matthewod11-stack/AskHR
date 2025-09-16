@@ -1,15 +1,13 @@
-# revenue for an organization.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed954ef1c59e1172425b9836e69f086046fbb058
+title: R2502E-PDF-ENG
+---
+## HBR / Magazine Article / How Women Can Win in the Workplace
 
-People who work in line roles will accrue critical experience capital that
+P&L roles. Holding a line role is a good way to acquire a deep
 
-will help them when they’re being considered for promotions or lateral
+understanding of the business, have an impact, and move up the career
 
-rotations. But most women don’t recognize how much the decision to
-
-seek a line role can aﬀect their success. First of all, workers who start out
-
-in line roles have lifetime earnings that are 20% higher, on average, than
-
-those starting out in support roles, and across sectors, workers in line
-
-roles earn salaries that are 14% to 31% higher than their peers in support
+ladder. By “line role,” we mean any position that directly generates

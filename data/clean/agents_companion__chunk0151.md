@@ -1,19 +1,31 @@
-## consensus and address complex problems collaboratively
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 3d361eb8843dd6978666d481e04cbf0199261319
+title: agents_companion
+---
+# discovery, registration, and “Tool RAG”.
 
-- Remote Agent Communication: Agent to Agent communication within an organization
+- Flow / Routing: This governs connections with other agents, facilitating dynamic neighbor
 
-is critical to allows agents to share messages, tasks, and knowledge. Once your multi-
+discovery and efficient communication within the multi-agent system. This might be
 
-agent system includes a remote agent, the communication protocol becomes even more
+implemented as a delegation of a task to a background agent, or handoff of the user
 
-important. Asynchronous tasks and sessions need to be durable, and updated with
+interaction to an agent, or the use of an agent as a tool.
 
-notifications while end users are not in session. Negotiations between Agents must allow
+28
 
-for bringing a user into session and for supported UX capabilities.
+- Feedback Loops / Reinforcement Learning: These enable continuous learning and
 
-- Agent & Tool Registry (mesh): As you go beyond a handful of tools or a handful of
+adaptation by processing interaction outcomes and refining decision-making strategies.
 
-agents, you need a robust system to discover, register, administer, select and utilize from
+For gen AI agents this rarely takes the form of traditional RL training, but the performance
 
-a “mesh” of tools or agents. Critically important is the ontology and description of the
+metrics of the past can be incorporated into future decision making.
+
+- Agent Communication: Effective communication between agents is crucial for the
+
+success of multi-agent systems. The Agent to Agent communication protocol facilitates
+
+structured and efficient communication among agents, enabling them to achieve

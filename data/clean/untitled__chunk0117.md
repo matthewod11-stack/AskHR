@@ -1,5 +1,7 @@
-# Jeanne Marecek, PhD Department of Psychology Swarthmore College Swarthmore, Pennsylvania
-
-Joseph D. Matarazzo, PhD Department of Behavioral Neuroscience Oregon Health Sciences University Medical School Portland, Oregon
-
-Thomas V. McGovern, PhD Department of Integrative Studies Arizona State University West Phoenix, Arizona
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4bde79231ffe4cf443657c70fa88cf54acce7762
+title: untitled
+---
+## Department of Psychology University College London, England

@@ -1,3 +1,9 @@
-# leadership, 439, 441
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 44d16ba4e479ba756ede10146a19a59127e829a5
+title: industrial_organizational_psychology_an_applied_approach
+---
+# social information
 
-Self-regulation, 342–343 Send-resume ads, 115, 119 Serial communication, 402 Serial interviews, 135 Seventh-Day Adventists, 84 Sexual orientation, 90 Sharpen, 424 Sheboygan Upholstery, 130 Shiftwork, 548–551 Shoney’s, 79 Shrinkage, 189 Siena Reasoning Test, 172 Sikhs, 86 Simulation exercises, 306 Simulations, 180 Singapore-performance
+processing theory, 374 social learning theory, 374 turnover, 393–396 Scientist-practitioner model, 3 Scorer reliability, 208 Sears, 130 Secret shoppers, 243 Seinfeld, 97 Selection ratio, 217 Self-actualization needs, 335 Self-appraisal, 244 Self-directed teams, 378 Self-eﬃ cacy, 329 Self-empowerment, 579 Self-esteem workshops, 329 Self-esteem, 328–331 Self-fulﬁ lling prophecy, 329 Self-monitoring and

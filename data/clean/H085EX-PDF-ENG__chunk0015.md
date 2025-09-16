@@ -1,13 +1,17 @@
-## of the French multinational biotechnology company, bioMérieux. In
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57e36578cd7d39fda47c241a3c36379e6b121fd0
+title: H085EX-PDF-ENG
+---
+# HBR / Digital Article / Middle Managers Should Drive Your Business Transformation
 
-2020, the company’s leadership made a strategic decision to integrate
+and empowerment. It’s imperative for senior leadership to actively
 
-BioFire, a U.S.-based diagnostics company acquired by bioMérieux in
+encourage middle managers to bring forth innovative ideas, provide
 
-- 2014. BioFire’s PCR technology played a pivotal role in providing rapid
+adequate support when these managers propose signiﬁcant changes,
 
-Covid-19 tests during the pandemic. Pierre Boulud, who would later
+and listen to them when they surface likely sources of resistance.
 
-be appointed CEO of bioMérieux, was entrusted with overseeing this delayed integration. The successful execution of this eﬀort proved
-
-instrumental in establishing bioMérieux as a global leader in healthcare
+A prime example of this approach can be seen in the transformation

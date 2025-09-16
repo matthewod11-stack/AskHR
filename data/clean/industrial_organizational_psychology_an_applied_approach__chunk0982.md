@@ -1,3 +1,11 @@
-# Employment Interviews
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1cc828f634e34aad9cf503a4d1198b6d4385ad98
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Effective Employee Selection Techniques
 
-Undoubtedly, the most commonly used method to select employees is the employment interview. In fact, if you think back to all of the part-time and sum- mer jobs to which you applied, most of those jobs were obtained after you went through an interview process. You might even remember the sweaty palms that went along with the interview. In all likelihood, the interviews you have been through could be labeled “traditional” or “unstructured” and must be distinguished fro m the structured interviews that will be discussed in this chapter.
+If the recruitment process was successful, an organization will have several appli- cants from which to choose. At this point, many techniques can be used to select the best person from this pool of applicants. In the remainder of this chapter, we will discuss the employment interview. In Chapter , such methods as reference checks, assessment centers, biodata, psychological tests, and physical ability tests will be discussed.
+
+Effective employee selection systems share three characteristics: They are valid, reduce the chance of a legal challenge, and are cost-effective. A valid selection test is one that is based on a job analysis (content validity), predicts work-related behavior (criterion validity), and measures the construct it purports to measure (construct validity). As you will recall from Chapters  and , selection tests will reduce the chance of a legal challenge if their content appears to be job related (face validity), the questions don’t invade an applicant’s privacy, and adverse impact is minimized. Ideal selection tests are also cost-effective in terms of the costs to purchase or create, to administer, and to score. With these characteristics in mind, let’s begin our discussion of selection techniques with the employment interview.

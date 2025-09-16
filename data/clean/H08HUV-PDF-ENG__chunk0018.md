@@ -1,17 +1,21 @@
-# minutes in everyone’s calendar.”
+---
+source_path: H08HUV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebf3265e5f1ae22882848ecd7f66b42b2031e041
+title: H08HUV-PDF-ENG
+---
+# Be the Bridge
 
-In these meetings, present concrete options your bosses can decide
+Sometimes you need to get everyone in the same room (even if it’s
 
-on: “If we push out the donor outreach campaign, we can focus on
+a Zoom room). While your bosses might resist “yet another meeting,”
 
-the grant. But if we want to focus on donor outreach now, we’ll need
+frame it as eliminating time-wasting back-and-forth. A monthly or
 
-to request a grant extension. Here’s how either choice aﬀects our
+quarterly touch-base can head oﬀ dozens of issues before they start.
 
-fundraising targets…”
+When urgent miscommunications do arise, take the lead to schedule
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+an ad-hoc session. For example, “Instead of me playing messenger, let’s
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hop on a quick call with the three of us to sort this out. I’ll grab 30

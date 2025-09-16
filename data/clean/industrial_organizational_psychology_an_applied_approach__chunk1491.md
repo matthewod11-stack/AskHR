@@ -1,9 +1,23 @@
-# Making the Hiring Decision
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 5ef13c8f4c9bcc601bed7d84baafe58f1fd08f99
+title: industrial_organizational_psychology_an_applied_approach
+---
+## and assistant personnel director, selection.
 
-After valid and fair selection tests have been administered to a group of appli- cants, a final decision must be made as to which applicant or applicants to hire. At first, this may seem to be an easy decision—hire the applicants with the high- est test scores. But the decision becomes more complicated as both the number and variety of tests increase.
+After being in recruitment and selection for many years, I decided to expand my HR horizon by joining a small district, Bassett Unified School District, as its assistant superintendent, Human Resources Development. As the assistant superintendent, Human Resources Development, I worked closely with the Personnel Commission, the Board of Education, and the district superintendent. My major duties and responsibilities included overseeing the administration of a comprehensive merit system and HR development program for certificated and classified employees. More specifically, I developed and recommended short- and long-term HR strategies, policies, goals, and objectives; served as the Personnel Commission’s secretary; identified appropriate procedures to ensure fair and equal employment
 
-If more than one criterion-valid test is used, the scores on the tests must be combined. Usually, this is done by a statistical procedure known as multiple regression, with each test score weighted according to how well it pre- dicts the criterion. Linear approaches to hiring usually take one of four forms: unadjusted top-down selection, rules of three, passing scores, or banding.
+opportunity and investigated or assisted in the investigation of complaints concerning violations of state or federal law involving fair employment practice; negotiated and administered collective bargaining agreements with both the teachers’ union and the classified employees’ union; selected, assigned, trained, supervised, and evaluated the performance of HR staff; served as the expert adviser to the Personnel Commission and Board of Education and was a member of the superintendent’s cabinet; and directed the recruitment, selection, assignment, and compensation activities for both certificate and classified HR programs.
 
-228
+Currently, I am the director
 
-chapter 
+of Classified Personnel Services at La Mesa-Spring Valley School District in southern California. This job allows me to consolidate almost all the duties mentioned above, but on the non-teaching, HR side.
+
+As you can see, my two most recent jobs include all the
+
+HR topics covered in a typical I/O psychology textbook.
+
+I remember as a graduate
+
+student at the School of Industrial and Labor Relations at Cornell University that I was never able to get a real-life internship experience outside of the campus because my foreign student visa limitation prohibited me from obtaining real work. Therefore, I could get only on-campus research assistantships. Although these made my research and data analysis skills quite solid, I missed valuable opportunities to put my classroom lessons to work in the real world. When I was in the Los Angeles Unified School District, I hired, supervised, and mentored at least 50 interns we recruited through I/O graduate programs locally and globally. Many of them ended up with successful careers in public HR systems. Therefore, my advice to you is to do an internship during your college career whenever you can.

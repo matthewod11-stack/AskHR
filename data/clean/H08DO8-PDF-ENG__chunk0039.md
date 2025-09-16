@@ -1,21 +1,19 @@
-## HBR / Digital Article / How CEOs Are Using Gen AI for Strategic Planning
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5be77ec881f5a5208adf526fbfc7b86afa24d55c
+title: H08DO8-PDF-ENG
+---
+## relevant and actionable insights for her strategic planning.
 
-way gen AI works. It sifts through vast amounts of data and sentence
+. . .
 
-completes as it goes with the most probable next word. While this is
+While gen AI oﬀers signiﬁcant advantages, it’s crucial that you
 
-remarkable, in essence it’s backward looking.
+recognize its limitations for strategic planning. These come from the
 
-However, knowing gen AI’s weaknesses allows you to take advantage
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-of its strengths. It can enhance your ability to identify opportunities,
+7
 
-mitigate risks, and develop more robust strategy by dropping in some
-
-outside-the-box suggestions that may not have come immediately to
-
-mind. These must always be ﬁltered with human discernment, but since
-
-the tool is so fast and cheap, why not give it a run?
-
-The key is to view gen AI as a tool that augments, rather than replaces,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

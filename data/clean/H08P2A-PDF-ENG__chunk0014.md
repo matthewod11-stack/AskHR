@@ -1,15 +1,15 @@
-# other.
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e5c17acf3f84a6e7f192fd6d14c7f73159709e6
+title: H08P2A-PDF-ENG
+---
+## parallel challenge of psychological safety in hybrid environments—now
 
-Third, psychological safety is a critical contributor to individual
+imagine if those meetings had been recorded. It’s important to keep in
 
-development and growth because it allows individuals to be curious and
+mind that we’ve known for close to 25 years that informal, unplanned
 
-experiment. The safer we feel, the more likely we are to try out a new
+sharing is critical for creating mutual knowledge and is thus particularly
 
-role in a meeting or to explore a line of thinking we aren’t completely
-
-sure of. It’s important to recognize that our default is to stay in our lane,
-
-but branching out is how we learn and develop new skills, and we’re less
-
-likely to do so when we know it will be captured.
+critical for collaborations where participants are remote from each

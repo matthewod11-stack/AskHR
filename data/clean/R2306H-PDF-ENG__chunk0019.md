@@ -1,19 +1,13 @@
-## HBR / Magazine Article / Harness Your Network to Unlock Innovation
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f0dac5a61104f0503e8a657a7a4c04e4dd92219
+title: R2306H-PDF-ENG
+---
+# and backgrounds.
 
-Our research shows that leaders at genuinely innovative companies
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-consciously avoid that trap by deliberately seeking and spending time
+2
 
-with people we call innovation catalysts: individuals who have a knack
-
-for cultivating networks that combine a sense of community and a
-
-diversity of perspectives. Because these people have access to wide-
-
-ranging knowledge that is acutely relevant, they’re able to inspire new
-
-ideas and enhance their development. What sets catalysts apart is that
-
-they are unusually generous with their time, exceptionally skilled at
-
-staying connected to people from many spheres, and always on the hunt
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

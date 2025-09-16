@@ -1,15 +1,13 @@
-# LOCKE AND LATHAM
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: a0787ed4361d2ea04af2bb859f84d13853e22f13
+title: legacies_in_motivation_science
+---
+# s i
 
-had the beginning of a theoretical framework for conducting our research and explaining our inductively obtained results (e.g., Locke, 1968). Based on Locke’s laboratory experiments, Sid Kinne, a PhD forester who reported directly to Georgia Kraft Company’s CEO, convinced him to allow the two of us to conduct a ﬁeld in which we randomly assigned experiment pulpwood crews to an experimental condition in which they were assigned a speciﬁc, high- productivity goal or to a placebo condition in which they were urged to do their best. The importance of the latter exhortation to these crews was highly relevant for them because they were paid on a piece-rate basis. In the very ﬁrst week and throughout this 3-month experi- ment, the crews that had speciﬁc, high goals outperformed those in the control condition. The goals provided the crews with a purpose, a sense of challenge, and feelings of accomplish- ment for otherwise tedious work. Consequently, in addition to signiﬁcant increases in weekly productivity, job attendance soared in the goal- setting condition because cutting trees was now meaningful to the crews. The goal was a stan- dard for self-assessing their effectiveness (Latham & Kinne, 1974).
+e l c i t r a
 
-By this time Ronan was far more than my thesis supervisor; he was a trusted mentor to me. Sadly, the psychology department’s empha- sis in that time period was solely on industrial psychology and human factors engineering. There was no organizational psychology faculty. Thus, rather than return to Georgia Tech to pursue a PhD, I entered the doctoral program in psychology at the University of Akron (Akron, OH) in 1971. Two things had attracted me to that department. First, only a PhD in I-O psy- chology was offered; second, the department had recently hired Gary Yukl, a rapidly rising star in I-O psychology.
+s i h T
 
-The assigned readings in Yukl’s doctoral sem- inar included Locke’s research. Hence, I showed Yukl the technical reports on goal set- ting published by the American Pulpwood As- sociation for its client companies. He immedi- ately urged me to send copies to Locke. Within the week Locke sent me a letter in which he suggested that I submit them for publication, which I did (Latham & Kinne, 1974; Ronan, Latham, & Kinne, 1973). The timing was per- fect because that was the time period in which Locke’s goal-setting experiments were being
-
-criticized for lack of external/ecological validity (e.g., Heneman & Schwab, 1972; Hinrichs, 1970).
-
-Unbeknownst to me, the global forest prod- ucts company, Weyerhaeuser, was aware of my research conducted at the American Pulpwood Association as well as my progress in the doc- toral program at the University of Akron. In November 1972, they offered me a job starting in June 1973 as their ﬁrst staff psychologist. I immediately accepted the offer when the com- pany informed me that upon joining them I could choose any topic for my dissertation and that I would be given all the resources I would need to complete it. The reason for this won- derful offer was the results of my goal-setting research involving pulpwood crews.
-
-Weyerhaeuser’s senior management had been astounded that something so simple and straightforward as setting a speciﬁc, high goal could have such a positive effect on an employ- ee’s and a team’s performance. “Doesn’t every- one set goals?” was the question commonly asked of me. The answer was and is yes, but the goals are almost always general or vague in nature and thus have little or no effect on a person’s behavior. Remaining a bit skeptical yet intrigued by my ﬁndings, they asked whether “my methodology” could be tweaked to further inspire productivity.
-
-As a doctoral student, I was impressed by Rensis Likert’s (1967) research on principles that he had labeled a system 4 style of leader- ship, namely encouraging employee participa- tion in decision making, goal setting, and devel- oping a supportive relationship with subordinates. Thus, my response to the question of tweaking goal setting determined my choice of my doc- toral dissertation. I compared the effect of as- signed versus participatively set goals on per- formance versus a do-your-best condition (Latham & Yukl, 1975). This led to program- matic research involving about 17 subsequent ﬁeld and laboratory experiments on this topic. I found that the crews that participated in setting their performance goals had the highest produc- tivity. Moreover, they set higher goals than those who had been assigned goals by the crew supervisor. The goal setting theory states that high goals lead to higher performance than easy goals (Latham & Locke, 2018; Locke & Latham, 1990).
+96

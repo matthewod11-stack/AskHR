@@ -1,21 +1,27 @@
-## HBR / Magazine Article / Nurturing Innovation
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac27eddf4a71694348714f7a38b5e53ce8cbb590
+title: R2402F-PDF-ENG
+---
+## intermediaries like OpenIDEO, an open-innovation platform that one
 
-the collaboration communicated well and had a trusting relationship,
+of us (Anne-Laure) has studied extensively, always includes weekly
 
-the people managing the daily operations of the venture had not yet
+calls when developing communities of social entrepreneurs. They allow
 
-developed the same. Participating in the workshop was for many the
+community members to reﬂect on their experience, share their stories,
 
-ﬁrst opportunity they had to build relationships and trust. One UI fellow
+and listen to others.
 
-told us at the end of the workshop that it gave team members the
+During one workshop we facilitated as part of our study of UI, the
 
-“space to think about what worked, what did not, why rushing it was
+team membership of one venture had changed so much that most
 
-not helpful, what was our readiness level to make things happen, and in
+of them had never actually met. Even though the UI fellows leading
 
-hindsight what we’d have done diﬀerent.”
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Nurturing the ecosystem. In addition to promoting collaborative
+12
 
-eﬀorts, UI aims to create a community of social entrepreneurs linked
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

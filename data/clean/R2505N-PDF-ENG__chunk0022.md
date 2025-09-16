@@ -1,7 +1,15 @@
-# responsibility.
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bddddd87c76cdb5bc412d9f1d7ffeb72d801831f
+title: R2505N-PDF-ENG
+---
+# work at hand.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Reframe your purpose. Instead of chasing quick dopamine hits, train
 
-5
+your focus on longer-term goals. Remind yourself that you are helping
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+your organization to scale by staying out of activity-based work, and
+
+you’re encouraging your employees to grow by giving them more

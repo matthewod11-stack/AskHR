@@ -1,3 +1,7 @@
-# Goal
-
-Write a storyline for a level of a (cid:450)rst-person shooter video game.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 18269b21453a8a212e0c7e6cb9f36dd124b1321c
+title: prompt
+---
+# Prompt Engineering

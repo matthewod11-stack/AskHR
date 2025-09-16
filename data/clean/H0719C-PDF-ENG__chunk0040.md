@@ -1,9 +1,17 @@
-## HBR / Digital Article / How to Be a Mental Health Ally
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7c9ddac3f3a7d04c561b22b50af5bb9eac2f8ecd
+title: H0719C-PDF-ENG
+---
+# Cooperate
 
-handbook provides referrals, or you can reach out to your insurance
+Don’t say: “You have to see a doctor.”
 
-company for help. Or maybe a therapist could be useful to you.”
+Say: “I wonder if a doctor might be able to help you. Our mental health
 
-Don’t say: “You need to focus on getting better.”
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-Say: “We can get through this together. We are here for you.”
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

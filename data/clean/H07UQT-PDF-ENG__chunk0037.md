@@ -1,27 +1,19 @@
-# speciﬁc teams.
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 465552c108758154980eb648a7f7c30dcc884c29
+title: H07UQT-PDF-ENG
+---
+# which metrics matter.
 
-On that note, a word of caution. One of the hardest things about
+At Gera, one of the changes we made during the evaluate change was
 
-onboarding a new CEO is the reluctance of outgoing CEOs to let go
+the format and frequency of monthly reviews. In moving to a hands-
 
-of the reins. Having played the role of outgoing CEO himself, Rohit
+oﬀ role, Rohit felt the need to be in the know of what was going on
 
-knows how hard it is, particularly if the outgoing CEO is remaining at
+monthly. Previously, the leadership team had held a half-day review
 
-the company in a diﬀerent capacity, as he did. But letting go is vital.
+once a month. Under Rohit’s successor, that shifted to four half-days of
 
-The new CEO will have a diﬀerent perspective on the company than
-
-the outgoing CEO does and will inevitably recommend changes the
-
-outgoing CEO would not recommend. It is important to accept that this
-
-is the new CEO’s job. For the new leader to gain the respect of both the
-
-executive team and family shareholders, they must have the freedom to
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+review per month, with three of those days doing in-depth reviews of

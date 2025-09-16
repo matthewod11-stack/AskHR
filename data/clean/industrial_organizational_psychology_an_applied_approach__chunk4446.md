@@ -1,7 +1,17 @@
-## Smither, J. W., London, M., & Reilly, R. R. (2005). Does
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: fec3d930b41baa65ec1bcda0bad433d31125b43d
+title: industrial_organizational_psychology_an_applied_approach
+---
+## of Management in Engineering, 9(2), 128–135.
 
-performance improve following multisource feedback? A theoretical model, meta-analysis, and review of empirical ﬁ ndings. Personnel Psychology, 58(1), 33–66.
+Smith, P., & Christensen, J. (2007). Th e readability of common documents used in organizations. Paper presented at the 28th annual Graduate Student Conference in Industrial- Organizational Psychology and Organizational Behavior (IOOB), Indianapolis, Indiana.
 
-Smither, J. W., Reilly, R. R., & Buda, R. (1988). Eﬀ ect of prior
+Smith, P. C., & Kendall, L. M. (1963). Retranslating expectations: An approach to the construction of unambiguous anchors for rating scales. Journal of Applied Psychology, 47, 149–155.
 
-performance information on ratings of recent performance: Contrast versus assimilation revisited. Journal of Applied Psychology, 73, 487–496.
+Smith, P. C., Kendall, L. M., & Hulin, C. L. (1969). Th e
+
+measurement of satisfaction in work and retirement. Chicago: Rand McNally.
+
+Smither, J. W., Barry, S. R., & Reilly, R. R. (1989). An investiga- tion of the validity of expert true score estimates in appraisal research. Journal of Applied Psychology, 74, 143–151.

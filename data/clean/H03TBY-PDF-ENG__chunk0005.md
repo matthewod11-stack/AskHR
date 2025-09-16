@@ -1,13 +1,9 @@
-## by CLASP and the National Partnership for Women and Families, more
+---
+source_path: H03TBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f12bf7d9e4bf87888338491e1883840ef3aaa01
+title: H03TBY-PDF-ENG
+---
+# gender neutrality.
 
-than 34% required employees to attest that they were the primary
-
-caregiver for their child in order to obtain the maximum leave beneﬁt.
-
-Several of the policies proﬁled throw even the pretense of gender
-
-neutrality out the window. One policy states expressly that pregnant
-
-women are assumed to be the primary caregiver. Another states that the
-
-maximum leave beneﬁt is available only to birth mothers and primary
+Out of 75 new and expanded leave policies proﬁled in a recent report

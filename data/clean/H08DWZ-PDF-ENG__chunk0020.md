@@ -1,9 +1,9 @@
-# JF
+---
+source_path: H08DWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c53f4e75f7526ed9fc359deb22a502d14f8555cd
+title: H08DWZ-PDF-ENG
+---
+# SL
 
-Justin Frake is an assistant professor of strategy at the University of Michigan’s Ross School of Business. His research uses causal inference techniques to explore the processes that aﬀect organizations’ human capital and misconduct.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Saerom (Ronnie) Lee is an assistant professor of management at the Wharton School. His research examines how ﬁrms acquire and organize their diverse employees at the early stage of their life cycle and how they adjust their organizational design to meet the needs of their distinct challenges in venture scaling.

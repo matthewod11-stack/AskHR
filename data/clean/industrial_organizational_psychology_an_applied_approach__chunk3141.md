@@ -1,29 +1,7 @@
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 611878a5f5f67e6cfc7b0d90ea14de7bd92ac464
+title: industrial_organizational_psychology_an_applied_approach
+---
 # S
-
-Also, you may run into a problem with information you want kept “secret” getting out to others, which may cause problems for you. Participate as much as you feel comfortable in group activities. That is, if employees are putting together a birthday party for another employee, offer to help. This will show your desire to be a good group or team member.
-
-Be a good listener. You don’t want to participate in office gossip; however, there will be times when someone may just want to “vent.” Show them that you can keep confidences and that they can feel safe talking to you. As stated above, if they are venting about another person, suggest that they share those concerns with that individual. Some good listening skills include good eye contact, acknowledgment that you are listening by asking questions or merely by nodding your head, and asking open-ended questions.
-
-In meetings, when everyone is asked for their input, be willing to make suggestions. Do n’t continually just sit at meetings, refusing to share or discuss ideas. You will quickly get the reputation of being a “difficult team member or difficult employee.” On the other hand, don’t whine about what’s going wrong, don’t monopolize the entire meeting with your grievances, and don’t brag about how great you are. Give credit where credit is due. Compliment your teammates when they offer a good suggestion or have successfully completed a project.
-
-Recognize when you are in a bad mood or upset. Be sure not to take out on others how you are feeling on any particular day. If there is someone in the group or team that you trust, share your feelings with this person. He or she may help brighten the day.
-
-There are times when you may have to be the leader because of your expertise or knowledge. Or perhaps you are the only person in the office or on a team with the ability to manage conflict. Be willing to step out of your usual role and take on another role as needed. Don’t do what many employees and/or team members do and walk away from that new or additional responsibility. If necessary, attend workshops on how to better lead groups/teams, or how to better manage conflict. This will build credibility, trust, and respect.
-
-group behavior, teams, and conflict
-
-503
-
-504
-
-chapter 
-
-obviously it is not the best way to handle every type of conflict. When conflict occurs, withdrawal from the situation is one of the easiest ways to handle it. A person can leave a difficult marriage by divorce, an employee can avoid a work conflict by quitting the organization, or a manager can avoid a turf battle by let- ting another manager win. Common withdrawal behaviors include avoiding the source of conflict, quitting, talking behind the other person’s back, and forming alliances with others (Martin & Bergmann, ). Even though withdrawal can make one feel better, often it only postpones conflict rather than prevents it.
-
-An interesting form of avoidance, called triangling, occurs when an employee discusses the conflict with a third party, such as a friend or supervisor. In doing so, the employee hopes that the third party will talk to the second party and that the conflict will be resolved without the need for the two parties to meet (Ruzich, ). When triangling occurs, supervisors are advised to have the two parties meet to resolve the issue or to use a formal third-party approach such as media- tion. (See the Employment Profile box for advice on how Bobbie Raynes handles third-party mediation.)
-
-Accommodating Style When a person is so intent on settling a conflict that he gives in and risks hurt- ing himself, he has adopted the accommodating style. People who use this style when the stakes are high are usually viewed as cooperative but weak. I observed an example of this style at a self-serve gas station. Two drivers parked their cars next to the same pump at roughly the same time. Both drivers got out of their cars and simultaneously reached for the only pump. Obviously, one person had to give in to avoid conflict and would have to wait five minutes longer than the other. Yet one driver quickly told the other to “go ahead.” Why did this person so quickly accede to the other? Probably because he had an accommodating reac- tion to potential conflict and because, in this case, the stakes were low.
-
-Forcing Style A person with a forcing style handles conflict in a win-lose fashion and does what it takes to win, with little regard for the other person. This style is appropri- ate in emergencies or when there is the potential for a violation on policy, ethi- cal, or legal grounds if the other party does not agree to your proposal. Though this style can be effective in winning, it also can damage relations so badly that other conflicts will result. This strategy of winning at all costs occurs especially when a person regards his side as correct and the other person is regarded as the enemy whose side is incorrect. This reaction often occurs when each side needs a victory to gain or retain status. Union/management conflicts provide good examples of this need for status. For a union to survive, its members must perceive it as being useful. Thus, during contract negotiations, union leader- ship must force management to “give in” or run the risk of losing status with its membership.
-
-But the problem with putting status on the line is that it makes backing down to resolve a conflict very difficult. As a conflict escalates, each side “digs in” and becomes less willing to compromise. Unless one side has the resources to clearly win, the win-at-all-costs reaction is likely to prolong conflict. Thus, this strategy is appropriate only if the position holder is actually correct and if win- ning the conflict is in fact more important than the probable damage to future relationships.

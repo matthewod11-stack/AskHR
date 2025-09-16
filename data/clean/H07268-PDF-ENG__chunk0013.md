@@ -1,29 +1,35 @@
-## HBR / Digital Article / Office Politics Don’t Have to Be Toxic
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 49975d59d61c2cfc0ae7e1f179144ab903f126ee
+title: H07268-PDF-ENG
+---
+## Inclusive cultures foster participation in healthy office politics
 
-understand where I’m coming from [and] appreciate me for who I
+The good news is, not everyone we interviewed experienced oﬃce
 
-am.” Other employees shared experiences in which both peers and
+politics negatively. Some people shared stories of supportive cultures
 
-managers used their clout to stand up for them or provide them with
+in which managers proactively included minority employees in the types of political activity necessary to build relationships, be eﬀective
 
-developmental opportunities: “There’s something about having the
+in their jobs, and advance in their organizations. For example, one
 
-right support…I’ve been put forward for things and people have thought
+participant explained how their boss “ensured that [career growth]
 
-of me.”
+was made easier, because she had done the engaging with all the
 
-Rather than feeling slimy or underhanded, politics in these
+right stakeholders beforehand.” Managers in these workplaces actively
 
-organizations were openly acknowledged and even taught to
+nurtured employees, leveraging politics to build connections rather
 
-newcomers. “You need to make sure that you’ve got supporters
+than keep people down: “Well, I wouldn’t like to use the word
 
-within the organization and that you know how to network well,” an
+politics,” another participant reﬂected. “It’s more like having a proper
 
-interviewee explained, “and that’s sort of drilled home from a very early
+and professional relationship with the people in authority; [they]
 
-point once you join.” Similarly, others described workplaces in which an
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-explicit “focus on involvement in relationships and connectivity [was]
+3
 
-ingrained in the culture of the ﬁrm” in a way that was helpful and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

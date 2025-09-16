@@ -1,9 +1,7 @@
-# documentado.
-
-En última instancia, su objetivo es hacer visible lo que está en juego para
-
-que lo más importante no se pierda en la hoja de cálculo. En el caso
-
-de Alex, el papel del miembro de su equipo seguía siendo eliminado.
-
-Sin embargo, como actuó a tiempo y enmarcó el riesgo con claridad,
+---
+source_path: H08U08-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 120c3f5fc786be95f0ee1960c81e5534e8321fa8
+title: H08U08-PDF-ENG
+---
+## una breve nota refuerzan su claridad y garantizan que su caso quede

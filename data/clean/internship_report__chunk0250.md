@@ -1,3 +1,23 @@
-# and father.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 6783602c5916d4c0ca46e18ae97cbddc5f5926ba
+title: internship_report
+---
+# Advance Salary
 
-b. Staff has to submit a sufficient paper to prove of such need (If possible).
+Company always discourages Advance Salary. Granting of advance against salary will be at the
+
+discretion of the Controlling Authority who may allow such advance to the most necessary cases,
+
+special/sudden requirement after having recommendation from the concerned HOD/In-Charge.
+
+Advance salary withdrawn will be applicable for the confirmed/contract employees. Current
+
+month salary advance may be allowed with limited scale under discretion of Controlling
+
+Authority. But for paying Advance Salary except current month following policy will be
+
+followed:
+
+a. Only on medical ground for self, dependent i.e. wife/husband, children, sister, brother, mother

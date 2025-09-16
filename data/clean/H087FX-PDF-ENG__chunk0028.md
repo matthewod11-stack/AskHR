@@ -1,17 +1,11 @@
-## The fatigue that people with long Covid and similar conditions
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 194b05845f8985ac5fffbe14b994bc5180f2656d
+title: H087FX-PDF-ENG
+---
+# Accommodations Must Deliver Flexibility
 
-experience has little in common with normal, day-to-day tiredness or
+For your organization to start supporting people with long Covid and
 
-weariness. This fatigue is physically crushing. As one respondent from
-
-Katie’s survey said, echoing a sentiment shared by many: “[I] am now a
-
-shadow of myself. I’m completely isolated due to the fatigue.”
-
-Their fatigue is severe, multifaceted, and persistent, and it happens at
-
-a cellular level. In people with ME/CFS and also many with long Covid,
-
-the function of the mitochondria — the cell powerhouses that create
-
-energy — is impaired, and there are physiological changes in these
+associated conditions, it’s important to ﬁrst understand how people experience the diﬀerent symptoms.

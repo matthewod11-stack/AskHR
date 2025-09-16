@@ -1,21 +1,29 @@
-# performance consequences over time.
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16f57bbd77d408df03541526be918c4e639f692c
+title: H072GW-PDF-ENG
+---
+# hiring and success.
 
-As another example, imagine a diversity-focused company proud of
+Because autism can be experienced as culture, as a disability,
 
-designing what they believe to be an inclusive hiring tool for rating candidates for oﬃce jobs: a standardized interview with rubrics,
+or as social disablement, it has many psychological and physical
 
-focused on speciﬁc answers and behaviors. Now imagine that one
+manifestations that overlap with other cultural experiences, diﬀerences,
 
-of the criteria in the rubric is “presentation,” consisting of elements
+and disabilities. Hence, addressing the barriers autistic people face
 
-such as eye contact and speaking enthusiastically. Some may consider
+both helps solve the sequential inclusion problem and creates a more
 
-evaluating eye contact and enthusiasm unbiased. Unfortunately,
+inclusive environment for talent from other marginalized groups.
 
-many autistic people will be excluded by this evaluation because
+Removing barriers autistic people face at work benefits everyone
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+The comparison to canaries in the coal mine is often used within
 
-3
+the autistic culture to describe the autistic experience of heightened
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+vulnerability to harmful environmental factors, from bullying to the noise of open oﬃces and the stress of management by fear. An open oﬃce could make an autistic employee with sensory sensitivities
+
+ill within hours, but most employees suﬀer negative health and

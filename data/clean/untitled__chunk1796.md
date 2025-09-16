@@ -1,3 +1,13 @@
-## Theory and Practice in the Classical Period 307
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 19fcbaba3a1d9e7e4e52e47f4ab279a6ff389f17
+title: untitled
+---
+# Classical Medical Theory
 
-melancholer (black bile). They were concocted by various bodily organs from the primal elements taken into the body from the heat of the sun, air breathed, and substances in- gested. The humors varied in their qualities along the two axes of hot–cold and moist–dry. Health required a balance of the relative proportions of the humors, and anything that interfered with proper coction of the humors resulted in dis- ease. Three types of madness were distinguished—phrenitis, mania, and melancholia. Phrenitis was diagnosed when fever and delirium were present. Mania was characterized by ex- treme excitement similar in the absence of fever. Melan- cholia was differentiated from phrenitis by lack of either excitement or fever and was usually attributed to an excess or corruption of black bile (melancholer). Melancholia could be engendered by psychological stress and could lead to serious physical illness and even death. (The term melancho- lia referred to a speciﬁc pathology now called depression. The term melancholy evolved to denote a wide spectrum of psychopathology.)
+What we know about theories of medical practitioners in ancient Greece we have derived from the Hippocratic Cor- pus, a collection of 60 to 70 medical writings that includes theoretical papers on the nature of disease in general and of various illnesses in particular. It contains speciﬁcs of diagno- sis, descriptions of therapies, case histories intended to teach theory and practice to physicians, and papers apparently writ- ten as lectures intended to publicize a physician’s work as well as to present to laymen information about how to main- tain health. The whole of the Corpus is often attributed to the Greek physician Hippocrates (ca. 460–367 B.C.) but, varieties of style of the papers make it evident that they were written over a long time span by various people (Lloyd, 1978).
+
+The theories of disease presented in the Corpus are bio- logical and materialistic. No clear demarcation exists be- tween “physical” and “psychological” disease; all disease was attributed to some sort of imbalance in the natural state of the body, which provided an explanation of the hidden cause of diseases. Certain papers emphasized the importance of the humors (ﬂuids) in the body. They conjectured that by a blending process called “pepis” or “coction,” various bodily organs convert food into humors, but reached no consensus as to the number or origin of the principal humors although bile and phlegm were usually mentioned. Diagnosis was based on close observation of speciﬁc symptoms, especially of every secretion, and changes in the patient’s vital forces, nutrition, body heat, mood, and memory.
+
+The theory of humors, elaborated by Galen in the second century, became the basis of medical theory and practice until the eighteenth century. The four humors considered es- sential for life were blood, phlegm, choler (yellow bile), and

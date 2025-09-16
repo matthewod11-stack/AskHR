@@ -1,11 +1,7 @@
-# Implications and Leadership Response
-
-The advent of generative AI transforming systems of workﬂow into
-
-systems of work has profound implications for leaders. To steer the AI
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89434d9462186d658bd0e0c55a1de9eda24f4450
+title: H08QLK-PDF-ENG
+---
+## ﬁnancial forecasting, lead qualiﬁcation—are less than ﬁve years away.

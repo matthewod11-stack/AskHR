@@ -1,13 +1,9 @@
-# his humble leadership style.
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 34ccd20353b68eb6aa504927baf0e5922a4f75bc
+title: H081LX-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways Humility Can Undermine Your Leadership
 
-- 2. You may hinder your career advancement.
-
-You might think that deﬂecting praise or giving all the credit to your
-
-team would motivate them and brand you as a selﬂess leader, but it also
-
-can have detrimental eﬀects. For instance, one of my clients, the general
-
-manager of a manufacturing facility, exhibited this tendency. When her team successfully implemented a new, more eﬃcient production
-
-process that signiﬁcantly reduced costs and downtime, she attributed
+respect he commanded as a leader, all while maintaining the essence of

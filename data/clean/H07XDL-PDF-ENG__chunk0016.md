@@ -1,13 +1,19 @@
-## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f44b8a04361f7c7a5d5127985564e38f517e690
+title: H07XDL-PDF-ENG
+---
+# societal impact?
 
-only to the extent that our basic needs are met, after which its returns
+What are the right metrics in an individual’s life? Our social norms and
 
-diminish or even plateau. Other research shows many of us are on a
+hierarchies might suggest we measure ourselves with money, fame, and
 
-“hedonic treadmill”: After we get a pay raise, are promoted, or purchase
+power. But studies have shown that money leads to greater happiness
 
-something that triggers a pleasurable high, we return to our original
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-level of happiness. And then there is social comparison — no matter
+6
 
-what you achieve, someone will always be richer, more famous, or more
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

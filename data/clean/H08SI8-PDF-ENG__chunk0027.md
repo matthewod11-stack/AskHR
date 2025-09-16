@@ -1,11 +1,9 @@
-## into competitive advantage with clear escalation processes.
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62145afd99e90fd723c29b402ebfb6228641dffc
+title: H08SI8-PDF-ENG
+---
+## ﬂow of work: 1) Track progress with regular, rigorous, and ego-free
 
-This process, writes Srivastava, has been integral to Intuit’s success. But
-
-like everything else, companies need to be continually reconsidering
-
-whether they’re working the way they need to. “These strategies aren’t
-
-designed to be static; they are reactive, ready to adjust as the customer
-
-needs evolve and scale.”
+technical checks. 2) Embed AI experts across teams. And 3) turn conﬂict

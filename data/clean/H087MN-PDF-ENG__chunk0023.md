@@ -1,9 +1,15 @@
-# TM
+---
+source_path: H087MN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5022b0e2a08503f75a00c7def7473ed25ec8678e
+title: H087MN-PDF-ENG
+---
+## clear communication, emotional intelligence, ownership, and a culture
 
-Tony Martignetti is the chief inspiration oﬃcer at Inspired Purpose Partners, where he advises leaders to stay grounded in chaotic times. He is the best-selling author of Climbing the Right Mountain: Navigating the Journey to An Inspired Life and Campﬁre Lessons for Leaders: How Uncovering Our Past Can Propel Us Forward.
+of continuous learning. By focusing on these four priorities, leaders can
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+turn potential disruptions into opportunities for growth and renewal.
 
-5
+This article was originally published online on May 13, 2024.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Susan Peppercorn is an executive career transition coach and speaker. She is the author of Ditch Your Inner Critic at Work: Evidence-Based Strategies to Thrive in Your Career. Numerous publications including the New York Times, Wall Street Journal, Fast Company, the Boston Globe, and SELF Magazine have tapped her for career advice. You can download her free Career Fit Self-Assessment and 25 Steps to a Successful Career Transition.

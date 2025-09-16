@@ -1,17 +1,7 @@
-## The Experts Respond: What should Tyler do?
-
-Patrick Pettiti is the founder and CEO of Catalant Technologies, a Boston-based software company.
-
-Tyler’s situation is relatable. The tension at Puck
-
-among employee engagement, top-line growth,
-
-and expenses is real. The challenge for its leaders is
-
-ﬁnding the right balance, which is especially hard
-
-in such an uncertain market. If I were in Tyler’s
-
-situation, my number one priority would be to preserve capital while
-
-ensuring that my employees had what they needed to be successful.
+---
+source_path: R2304M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b51cef12b92c5c7247a111b444681902944e54b
+title: R2304M-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: How Should a Start-Up Cut Its Burn Rate?

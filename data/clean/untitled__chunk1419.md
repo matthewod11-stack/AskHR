@@ -1,7 +1,13 @@
-## Dewey, J. (1900). Psychology and social practice. Psychological
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 091aaed40459c9f2629878514f58d60acbd55c8e
+title: untitled
+---
+# ligentsia. New York: George H. Doran.
 
-Review, 7, 105–124.
+Deutsch, M. (1954). Field theory in social psychology. In G. Lindzey (Ed.), Handbook of social psychology (Vol. 1, pp. 181–222). Cambridge, MA: Addison-Wesley.
 
-Dewey, J. (1922). Human nature and conduct. New York: Holt.
+Deutsch, M., & Krauss, R. (1965). Trends in social psychology.
 
-Dinnerstein, D. (1976). The mermaid and the minotaur: Sexual arrangements and human malaise. New York: Harper & Row.
+Theories in social psychology (pp. 212–216). New York: Basui.

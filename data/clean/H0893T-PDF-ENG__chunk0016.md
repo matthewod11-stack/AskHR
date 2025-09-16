@@ -1,5 +1,7 @@
-## women, Black men, Latinx women, Latinx men, Asian women, and Asian men.
-
-Positive numbers reflect increases in managerial diversity, and negative numbers
-
-reflect decreases in managerial diversity. The authors broadly coded the prevalence
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ca7f6f2c26c70e301ca887d5080977eae826c30
+title: H0893T-PDF-ENG
+---
+## managerial representation across seven demographic groups: white women, Black

@@ -1,9 +1,7 @@
-# transition process.
-
-Juggling multiple change initiatives.
-
-Organizations frequently manage several change initiatives at once.
-
-Balancing the shift to a ﬂat structure with other organizational changes
-
-can feel like changing the tires on a moving car, leading to potential
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a380027b5c923f8c5130abdc2f7fd648505476c
+title: H082JA-PDF-ENG
+---
+## increase employee engagement and sense of ownership over the

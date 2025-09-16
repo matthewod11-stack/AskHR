@@ -1,11 +1,21 @@
-## different aspect of the resistance structure.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 0aaca5ae1fb6fdd8cf9490bf4a3b23759dec14ac
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+## construct as the basis for operational application.
 
-One of the latest and most renowned studies was carried out by Oreg (2006),
+Taking the point of view of the Sensemaking Theory of Change as a basis,
 
-who identified that different forms of resistance can indicate different types of
+resistance to change is better defined, from an operational point of view, according to
 
-antecedents, and thus would point to different measures to alleviate resistance. The
+Piderit (2000), as a tridimensional attitude towards change, which includes behavioral,
 
-investigation adopted the tridimensional attitude model for resistance to change and two
+affective and cognitive components. Naturally, there is some interdependence among
 
-main categories of context variables: anticipated change outcomes and change
+the three components, as what change agents and participants feel about a change will
+
+often correspond to what they think about the change and to their behavioral intentions
+
+in its regard. Nevertheless, the components are distinct, and each one highlights a

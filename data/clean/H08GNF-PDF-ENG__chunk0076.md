@@ -1,11 +1,17 @@
-## HBR / Digital Article / Use the STAR Interview Method to Land Your Next Job
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0af2445026bf82a1c49e5425ed53c12b865fb52
+title: H08GNF-PDF-ENG
+---
+# self-awareness.
 
-- Tell irrelevant stories: Tell stories that are directly relevant to the
+- Tell the same stories: Don’t tell the same stories to every interviewer.
 
-new job. If you are in sales and want to move into marketing, all STAR
+Ensure that you have more than one story for each potential question.
 
-format stories must be about your marketing work experience, even if
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-it is only 1% of your current job or previous experience.
+11
 
-- Exaggerate the situation: Be truthful and avoid embellishing your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

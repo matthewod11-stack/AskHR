@@ -1,25 +1,15 @@
-# Upward feedback
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 3703607996cda831ef805b575ea0475e0ea49888
+title: journal_of_european_industrial_training
+---
+## Potential raters in 36088 feedback processes
 
-One of the major innovations of the 3608 feedback process is that it affords subordinates an opportunity to provide feedback to superiors. Upward or subordinate appraisal/feedback occurs where subordinates rate the performance of their immediate supervisor on several performance dimensions and the results are formally fed back to the focal individual (Atwater et al., 2000). Graddick and Lane (1998) suggest that upward feedback is increasingly a component of executive appraisals.
+Journal of European Industrial Training 25/1 [2001] 5±32 # MCB University Press [ISSN 0309-0590]
 
-Upward feedback is recognised as one
+According to Ilgen et al. (1979), three distinct sources of feedback can be used to evaluate an individual's performance. The first category includes those who have observed the recipient's behaviour and are therefore in a position to evaluate it. This category includes the boss, peers, subordinates, internal/external customers. The second source of feedback is the task environment. Feedback may be inherent in working on the task itself; for example, in tracking tasks, it is usually apparent when the individual is not on target. The third category are the individuals themselves who may be able to judge their own performance. This section of the monograph explores the issues that are central when employing rating sources other than the traditional supervisory approach. It is interesting to note that, even in the 1960s and early 1970s, a number of papers explored various aspects of ratings from a number of sources other than one's supervisor. Thus, while the concept of 3608 feedback per se did not gain currency until the late 1980s and 1990s, the concept of ratings from numerous sources had received attention in the literature for some time.
 
-component of the wider 3608 feedback process (Waldman and Atwater, 1998) and is also perceived as an important process that contributes to individual and organisational development (Bernardin and Beatty, 1987; London et al., 1990). While there is growing interest in upward appraisal both in the academic literature and in practice, with companies such as IBM, RCA and Syntex using it in their performance appraisal systems, these companies represent the minority rather than the majority. Bernardin and Beatty (1987) highlight some possible reasons why upward appraisals are not widely adopted in organisations.
+The fundamental concept underpinning multi-source appraisal or 3608 feedback is the involvement of a number of rating sources in the performance appraisal process. The first rating source that receives attention here is the subordinate group and the second is peer ratings. It is these two rating sources which have been more rigorously explored in the literature. The four most common rating sources are: 1 the supervisor; 2 peers; 3 subordinates; and 4 self.
 
-First, they suggest that the traditional top-
-
-down supervisory appraisal is the most common approach and is more compatible with an autocratic style of management than upward appraisal would be. Second, relatively little has been written on the area of upward appraisal to persuade practitioners to change to this appraisal system. While there have been quite a number of publications focusing on upward/subordinate appraisal since Bernardin and Beatty's article in 1987, it still remains an under-studied area in the HRD literature.
-
-[17]
-
-) T P (
-
-5 1 0 2
-
-h c r a
-
-M 8 0
-
-1 0 : 5 1 t
-
-A K R O C E G E L L O C Y T I S R E V N U y b
+Other less popular sources such as external customers, suppliers, etc., are not considered here.

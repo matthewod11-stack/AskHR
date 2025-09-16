@@ -1,23 +1,19 @@
-# the entire problem.
+---
+source_path: H08TIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9213e03a5c4cd1c2eb6a872d9b14ca70c91ca4d3
+title: H08TIJ-PDF-ENG
+---
+## HBR / Digital Article / Stop Solving Your Team’s Problems for Them
 
-This question also helps you identify themes of the challenges that land
+team started solving smaller issues on their own, without reﬂexively
 
-on your desk. Is it typically a signoﬀ issue that’s getting in the way?
+handing them to Taylor.
 
-Is it an unresponsive department or problematic vendor? Identifying
+What—or who—is getting in the way of tackling this?
 
-recurring blocks enables you to build sustainable solutions that don’t
+If your employee hasn’t been able to tackle a problem, they should at
 
-depend on your constant involvement.
+least be able to identify why. Whether it’s budget, time, or signoﬀ, get to
 
-What support do you need?
-
-The traditional question of “What support do you need from me?”—as
-
-my client Laura asked Sven—is a well-intended leadership sentiment,
-
-but it can unintentionally limit the number of potential support
-
-avenues. Support is general. It doesn’t have to come from you, the
-
-leader. It could also come from another leader, a fellow teammate, an
+the root of what’s stopping them from solving it. Removing the obstacle is typically more eﬃcient for you, the leader, than taking ownership of

@@ -1,5 +1,29 @@
-# Democratizing Experimentation
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3a9b33f7fa32c91b25416e49e6204eba32173a7
+title: R2501G-PDF-ENG
+---
+## HBR / Magazine Article / Want Your Company to Get Better at Experimentation?
 
-To achieve enterprise-wide experimentation for data-driven decisions,
+increasing the size of product teams so as to run more experiments
 
-companies have to transition to a self-service approach: empower all
+and more easily prioritize which ideas to test; hiring additional data
+
+scientists to analyze the increased number of tests and reduce the time
+
+needed to execute on them; and instigating more knowledge-sharing
+
+meetings for the dissemination of results. In our experience, however,
+
+those tactics are unsuccessful. Managers struggle to identify which tests
+
+will lead to a meaningful impact; hiring more data scientists provides
+
+only a marginal increase in experimentation capacity; and knowledge-
+
+sharing meetings don’t create institutional knowledge. These tactics
+
+may appear sensible, but they end up limiting the adoption of
+
+experimentation because the processes they establish don’t scale up.

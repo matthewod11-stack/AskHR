@@ -1,11 +1,9 @@
-# Snippet 3. A broken Python script
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 30f6063ff5aaca264134f9986f4f28d6ef52b3ff
+title: prompt
+---
+# shutil.move(os.path.join(folder_name, file), os.path.joi(folder_name, new_file_name))
 
-Doh! That looks like a bug:
-
-The below Python code gives an error:
-
-Traceback (most recent call last): File “/Users/leeboonstra/Documents/test_folder/rename_files.py”, line 7, in <module> text = toUpperCase(prefix) NameError: name ‘toUpperCase’ is not defined
-
-Snippet 4. I broke the Python code
-
-Let’s see if we can ask the large language model to debug and review code. Have a look into
+print("Files renamed successfully.")

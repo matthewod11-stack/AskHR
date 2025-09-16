@@ -1,35 +1,17 @@
-# A Roadmap for Leaders
+---
+source_path: H08LL6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 49c6f8887619cc873e3cff67681c14ac08b080cc
+title: H08LL6-PDF-ENG
+---
+## By contrast, a technology ﬁrm with an overly centralized structure
 
-To create a supportive structure for expatriates, leaders should:
+that requires expatriates to seek headquarters approval for nearly
 
-- 1. Assess current structures: Use surveys and feedback from current
+every decision can stiﬂe local responsiveness, leading to missed
 
-employees and former expatriate managers to identify misalignments
+opportunities and high turnover. The takeaway is clear: even the most
 
-in decision-making, guidelines, and collaboration tools. What were
+capable expatriates cannot succeed in environments where structural
 
-the pain points? What autonomy did managers crave? What formal
-
-structures would have been helpful to keep things on track or from
-
-going too far aﬁeld?
-
-- 2. Optimize decentralization: Delegate authority where
-
-responsiveness is crucial, while setting clear boundaries.
-
-- 3. Reﬁne formalization: Develop adaptable policies that balance
-
-consistency and ﬂexibility. Regularly update these policies based
-
-on feedback from on-the-ground employees and changing site-
-
-speciﬁc regulations. Check-in regularly to help provide structure that
-
-managers may need as they experiment.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+misalignments create avoidable obstacles.

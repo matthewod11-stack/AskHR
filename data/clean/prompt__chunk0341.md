@@ -1,3 +1,7 @@
-# 1_python_rename_(cid:450)les
-
-Write a prompt to translate Bash code to Python
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: f9c459f79f1b8dc4ae07a77dca4900d753b2f96b
+title: prompt
+---
+# February 2025

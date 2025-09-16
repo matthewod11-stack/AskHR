@@ -1,13 +1,7 @@
-# M M
-
-49 31
-
-evaluating selection techniques and decisions
-
-229
-
-230
-
-chapter 
-
-of the three based on the immediate needs of the employer. This method ensures that the person hired will be well qualified but provides more choice than does top-down selection.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 561870d51b05a5b30b6d5f5534a4d737a3dc066f
+title: industrial_organizational_psychology_an_applied_approach
+---
+# O’Brien Rose

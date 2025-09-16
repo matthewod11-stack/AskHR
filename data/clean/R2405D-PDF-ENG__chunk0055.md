@@ -1,23 +1,21 @@
-## In 2014, in the aftermath of public backlash to the research—which
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b65502d1d73d7f0cb3c7ce22a9331e43beff356f
+title: R2405D-PDF-ENG
+---
+## team. (See “Why Employees Are Afraid to Speak,” by James R. Detert
 
-arose partly because people didn’t know that Facebook was running
+and Amy C. Edmondson, HBR, May 2007.) But it’s especially critical
 
-these types of experiments—CEO Mark Zuckerberg pulled the plug
+to establish it in a team that seeks to use evidence to make business
 
-on ongoing external-facing research projects. That deterred employees
+decisions—so that the fear of raising unpopular ﬁndings doesn’t cause
 
-from undertaking experiments that might explore Facebook’s social
+members to miss critical data.
 
-impact proactively. More recently, Zuckerberg has changed course
+The chilling eﬀect of low psychological safety was evident in the
 
-and expressed renewed interest in external research. However, had
+response to experimental research at Facebook that looked at whether
 
-he created an atmosphere where Facebook executives felt able to
-
-thoughtfully discuss the negative eﬀects of social media a decade
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+showing more positive versus negative posts aﬀected users’ emotions.

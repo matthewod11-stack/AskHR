@@ -1,11 +1,25 @@
-# and observations.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a92eb8e783381461f14443a638df4a93d3016c0
+title: H07QP9-PDF-ENG
+---
+## In the book High Output Management, former Intel CEO Andy Grove
 
-Teaching can also happen during informal moments that emerge in a
+discusses the concept of “managerial leverage” — the actions leaders
 
-leader’s everyday conversations, 1:1s, and team meetings. We encourage
+can take to increase the output of their organization. He identiﬁes
 
-our leaders to develop a leadership philosophy — what professor and
+training as “one of the highest-leverage actions a manager can perform.”
 
-leadership expert Noel Tichy calls a “teachable point of view.” We
+As part of our eﬀorts to build a leadership development culture, we’re
 
-suggest they ask themselves the following questions to develop their
+training our leaders to seize upon teachable leadership moments. These
+
+can be formal opportunities — for example, we design nearly all of our
+
+training programs to be at least partly leader-teacher led. We try to
+
+structure these opportunities so that the leader is teaching about a topic
+
+they have passion for and sharing lessons from their own experiences

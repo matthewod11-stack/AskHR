@@ -1,13 +1,11 @@
-# Low value
+---
+source_path: i_d_e_n_t_i_f_y_i_n_g_a_n_d.md
+pages: n/a-n/a
+chunk_id: 14442ec4b65196f579b2a9854096142ff50e53ec
+title: i_d_e_n_t_i_f_y_i_n_g_a_n_d
+---
+# Deprioritize
 
-(Thanks to Jeret Shuck from Softbank for showing us how he uses this simple but powerful tool).
+Financial advisors at Morgan Stanley use AI as super- assistants to summarize market analyses and generate research reports.
 
-62%
-
-of AI's value lies in core business functions
-
-Evaluating and prioritizing your AI use case opportunities in this way helps accelerate the big wins that create further interest§ and investment.
-
-27
-
-Identifying and scaling AI use cases
+Building a custom AI assistant to generate web forms³ even though your team already uses a reliable, integrated§ tool for this.

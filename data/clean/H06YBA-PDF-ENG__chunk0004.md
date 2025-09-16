@@ -1,7 +1,9 @@
-## impact, because the messaging of traditional “autism awareness” can
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9130e841af04e27a2847c9bf4f7f3238a2260a8
+title: H06YBA-PDF-ENG
+---
+## on April 2, which is World Autism Awareness Day. But well-meaning
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+company leaders may ﬁnd that their intentions don’t match their

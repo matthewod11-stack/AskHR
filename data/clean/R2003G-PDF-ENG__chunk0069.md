@@ -1,9 +1,19 @@
-# Bianca Bagnarelli
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad7d06a55f9a8c0b500a5ec6b52017074e0f769d
+title: R2003G-PDF-ENG
+---
+# level two.
 
-Each level requires the same handful of foundational abilities. One
+There are considerations beyond context, however. Which level of
 
-is well-developed project-management skills: being organized and
+responsibility a CoS should have depends as well on the skills and
 
-disciplined, showing attention to detail, and following up doggedly
+ambition of the person hired for the role and the chemistry and trust
 
-to ensure the right results. Another is business savvy, including an
+that develop between the CoS and the CEO. In some cases a level two
+
+CoS may evolve to level three duties over time as trust and abilities
+
+develop and the relationship deepens.

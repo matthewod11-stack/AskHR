@@ -1,7 +1,17 @@
-## “check-ins” instead. The argument for the shift away from numerical
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89c011b45dde93706ff3f0a1750f190edc2ca7fd
+title: H08HAK-PDF-ENG
+---
+# SeanShot/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+In an increasingly data-driven world, many companies, including
 
-1
+Adobe, Morgan Stanley, and Goldman Sachs, have made the surprising
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+move to do away with number-based performance reviews. Some have
+
+opted for more open-ended, narrative-based performance evaluations,
+
+while others have eliminated reviews completely, conducting regular

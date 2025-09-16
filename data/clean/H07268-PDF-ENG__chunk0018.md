@@ -1,21 +1,13 @@
-# structures as well.
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fff1a69534e39d9b576cdc980b7284c2492c0cff
+title: H07268-PDF-ENG
+---
+## development programs, employee aﬃnity groups, and other initiatives.
 
-- 2. Ensure access to informal career development resources.
+In addition, as remote and hybrid work become the norm, it’s important
 
-Many organizations aim to foster diversity and inclusion through
+to consider where and how informal connections occur in online spaces,
 
-formal talent development programs. However, this approach doesn’t
-
-help when it comes to the informal, unoﬃcial interactions that drive
-
-oﬃce politics. Indeed, in our prior research, we found that successful
-
-career growth requires a mix of both formal and informal resources,
-
-and minority employees typically have less access to vital informal
-
-resources. To close this gap, organizations should provide mechanisms
-
-such as mentorship, sponsorship, and support networks to ensure
-
-women and ethnic minority employees have access not only to formal
+and make sure that all employees are aware of and have access to these

@@ -1,19 +1,7 @@
-## Stress increases rating errors (Srinivas & Motowidlo, 1987).
-
-Raters rate employees of same race higher than employees of a different race (Kraiger & Ford, 1985; Pulakos, White, Oppler, & Borman, 1989).
-
-Behavior rated
-
-raters who were not under stress. This finding is important because performance evaluations are often conducted hurriedly, as supervisors evaluate employee performance so they can return to their “real” work. Methods for reducing this problem will be discussed later in this chapter.
-
-Bias. Raters who like the employees being rated may be more lenient (Lefkowitz, ; Varma, DeNisi, & Peters, ) and less accurate in their ratings than would
-
-evaluating employee performance
-
-269
-
-raters who neither like nor dislike their employees (Cardy & Dobbins, ). But this does not mean that a person who is liked will always receive higher ratings than someone who is disliked. The rater may overcompensate in an effort to be “fair.” The rater’s feelings, or affect, toward an employee may interfere with the cognitive processing of actual performance information.
-
-Research on the presence of racial bias in performance evaluations is both controversial and mixed. Two reviews of the literature (Landy, Shankster, & Kohler, ; Latham & Wexley, ) concluded that racial biases do not play a significant role in performance appraisals. A meta-analysis of  studies by Kraiger and Ford () found a racial similarity bias in that White raters gave higher performance ratings to White employees, and African American raters gave higher ratings to African American employees. Interestingly, this bias occurred only with studies involving real organizations—laboratory research seldom revealed racial bias in performance ratings. Complicating this issue is a study by Stauffer and Buckley () arguing that much of the research in this area is flawed and that when the proper method (repeated measures) is used, evidence of racial bias in performance ratings exists.
-
-A meta-analysis by Bowen, Swim, and Jacobs () and a large data set of -degree feedback ratings by Church, Rogelberg, and Waclawski () suggest that gender bias does not seem to be an issue in performance ratings. Meta-analysis results also indicate that age is not related to performance ratings (Ng & Feldman, ).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4eb1961a2a3442d6749bb2460748f0680893b903
+title: industrial_organizational_psychology_an_applied_approach
+---
+an employee (Cooper, a; Feldman, ; Martell, Guzzo, & Willis, ), and the greater the time interval between the actual behavior and the perfor- mance rating, the greater the probability that rating errors will occur (Murphy, Martin, & Garcia, ; Nathan & Lord, ). Furthermore, raters who are familiar with the job being evaluated recall more judgments about performance but fewer behaviors than do raters who are unfamiliar with the job (Harriman & Kovach, ; Hauenstein, ). The decrease in memory accuracy over time can be reduced if several raters, rather than one, are used to evaluate perfor- mance (Martell & Borg, ). But even though memory-based ratings lead to more distortion, in many circumstances they are more accurate than ratings made immediately after the behaviors occur (Murphy & Balzer, ). The reason for these increases in halo and accuracy is not yet clear. Supervisors perhaps realize that it will be a long interval between observation of employee behavior and the formal evaluation of that behavior and that they will not be able (without great effort or the use of log books) to remember specific behaviors. Thus, they form an overall impression of the employee and an overall impression of an ideal and a poor employee and evaluate the employee based on comparison with the ideal. Emotional State. The amount of stress under which a supervisor operates also affects her performance ratings. Srinivas and Motowidlo () found that raters who were placed in a stressful situation produced ratings with more errors than did Figure 7.15 Factors aff ecting information loss Observed behavior Logbooks used to record observed behavior result in more accurate performance appraisals than reliance on memory alone (Bernardin & Walter, 1977). Logbooks organized by employee will be more accurate than random recordings or logbooks organized by dimension (DeNisi, Robbins, & Cafferty, 1989; DeNisi & Peters, 1996). Behavior placed in memory Behavior processed Raters knowledgeable about the job recall more judgments about performance but fewer behaviors than do raters unfamiliar with the job (Hauenstein, 1986). Raters recall behavior consistent with their general impression (schema) of the employee (Cooper, 1981a, 1981b; Feldman, 1981). Behavior recalled Training raters will increase accuracy (Smither, Barry, & Reilly, 1989). The longer the interval between actual behavior and ratings of the behavior, the greater the halo errors (Nathan & Lord, 1983) and distortion errors (Murphy, Martin, & Garcia, 1982).

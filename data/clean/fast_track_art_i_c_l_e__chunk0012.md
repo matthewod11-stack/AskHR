@@ -1,3 +1,7 @@
-# Study Design
-
-To account for the use of nested study variables, this study re- liedonamultileveldesignthatincorporatedbothindividual-leveland company-level measures. At the individual level, a cross-sectional design that assessed the independent inﬂuence of age and sex on telephone-based coaching program (coaching) enrollment andactive participation in coaching was used. For a portion of the individual- levelanalysis,thecross-sectionaldesignwasextendedtoalongitudi- nal design that incorporated an assessment of behavior change over time. The individual-level models were then analyzed at a granular companylevel,withtheindividual-levelresultsoverlaidontoorgani- zational characteristics that described the health promotion program unique to that organization and the organizational environment of the company because it relates to health and wellness promotion.
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: a6dbce720cc94a35a007eb2c05c5e93fd5680c46
+title: fast_track_art_i_c_l_e
+---
+# METHODS

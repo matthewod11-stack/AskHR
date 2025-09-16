@@ -1,15 +1,9 @@
-# several steps:
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08918e038ba1c75c6af7857b7b5cc007e7cf9515
+title: H08C0J-PDF-ENG
+---
+## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
 
-Mapping out risks and specifying how far-reaching they are.
-
-This mapping should consider risks to both your physical assets and the
-
-health and safety of employees, as these often overlap. For example, if
-
-a company’s property and equipment are at risk in a certain geographic
-
-area due to rising sea levels or hurricanes, it’s likely that employees
-
-face threats to their health, safety, and housing in that area, too. (This
-
-strategy also works when it’s time to turn to tactics: For instance, a
+vary depending on your company and sector. Broadly, it might involve

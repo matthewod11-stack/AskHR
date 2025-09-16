@@ -1,19 +1,15 @@
-# its area.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 42ef353ca2a14e2344c99de36a5737b56cca9c9f
+title: agents_companion
+---
+# one generalist.
 
-This specialization makes the entire system more efficient. When an agent handles a
+In this approach, each agent specializes in what it does best. The Navigation Agent focuses
 
-narrower set of tasks, it becomes simpler to optimize its performance. The result is higher
+solely on finding locations and planning routes. The Media Search Agent becomes an
 
-quality responses delivered more quickly and at lower computational cost. Performance
+expert in music and podcasts. The Car Manual Agent specializes in vehicle features and
 
-improves because the system can match the right resources to each task. Simple requests
-
-use minimal processing power, while complex questions tap into more powerful resources
-
-only when needed.
-
-Speed matters in a vehicle, and multi-agent systems deliver where it counts. Critical
-
-functions like adjusting climate controls or opening windows run on fast, on-device
-
-agents for immediate response. Meanwhile, less urgent tasks like finding restaurant
+troubleshooting. By focusing on specific domains, each agent develops deeper capabilities in

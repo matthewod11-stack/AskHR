@@ -1,15 +1,15 @@
-## business districts, and the impact of generative AI.
+---
+source_path: H07TSI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5ad76d88977f09f08415a34cc0da792eff50e91
+title: H07TSI-PDF-ENG
+---
+# Companies Are at a Crossroads
 
-But the answer to these pressures is not return-to-oﬃce mandates
+We can empathize with CEOs. Leaders must justify oﬃce rents despite
 
-that essentially use face time as a performance management tool —
+record-low occupancy levels and build a culture of collaboration in a
 
-think badge-swipe monitoring, which has elicited notable backlash.
+place with empty halls. They are grappling with quiet quitting, quiet
 
-Monitoring the time employees spend online doesn’t work, either. A
-
-recent survey of 18,149 desk workers and executives conducted by Slack
-
-revealed that 32% of employees’ time is spent on performative work,
-
-and 63% try to keep their status active online even if they’re not working
+cutting, pressure from city governments to restore the vibrance of

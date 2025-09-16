@@ -1,9 +1,13 @@
-## Different Kinds of Thinkers in the Workplace
+---
+source_path: H07MHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0b9efc0c497daa9fced03795185a1224a61bbdf0
+title: H07MHV-PDF-ENG
+---
+## workforces more diverse with respect to race, gender equity, and
 
-First, leaders simply need to increase their awareness about the
+people with disabilities. Now it’s time to apply these same strategies
 
-diﬀerent types of thinking that exist and how we all beneﬁt from these
+to diﬀerent kinds of minds. Doing so will increase creativity, ignite
 
-diﬀerent minds and the skills that go along with them. This may sound
-
-basic, but in our verbally dominant culture, visual thinkers often get left
+problem solving, and lead to more cohesive workplaces.

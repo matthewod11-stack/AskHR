@@ -1,15 +1,17 @@
-## pursuit of market opportunities (demand) and the creation of the
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45ce459ec22e93da2b8ece3a6e2acf0edf86530d
+title: S24021-PDF-ENG
+---
+## their agility, their great customer service, or their unique cultures. When
 
-capabilities and capacity needed to exploit those opportunities (supply).
+demand slows, pressures to maintain historical growth rates can lead
 
-To proactively manage that balance, companies need a growth strategy
+to quick-ﬁx solutions such as costly acquisitions or drastic cuts in R&D,
 
-that explicitly addresses three interrelated decisions: how fast to grow
+other capabilities, and training. The damage caused by these moves
 
-(the target rate of growth); where to seek new sources of demand (the
+only exacerbates the growth problems.
 
-direction of growth); and how to amass the ﬁnancial, human, and
-
-organizational resources needed to grow (the method of growth).
-
-Each of those decisions involves trade-oﬀs that must be considered
+Sustaining proﬁtable growth requires a delicate balance between the

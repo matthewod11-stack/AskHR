@@ -1,5 +1,9 @@
-## mental health, overall life satisfaction—and even work performance—
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51c8f680fbda7e1d29742e92c78bf2cf650adab2
+title: H08OXV-PDF-ENG
+---
+## human connection, learning, and personal development. Our research
 
-compared to passive activities, while also protecting against burnout.
-
-And it doesn’t require any more time than resting—just a small shift in
+has found that this method oﬀers greater beneﬁts for well-being,

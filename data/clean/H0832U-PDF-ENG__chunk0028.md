@@ -1,25 +1,13 @@
-# workers.
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ef896e8673ad9705e243034000516545a20364a
+title: H0832U-PDF-ENG
+---
+## and time commitment of executive-level responsibility. One great
 
-When more openings are created at the top of the pipeline, this
+example is Mitre Corporation’s “Reserves at the Ready” program, which
 
-movement enables the second key piece of reimagining the pipeline:
+leverages retired employees with valuable technical and customer
 
-engaging and retaining younger talent by more intentionally designing
-
-the path to advancement. The “keep calm and wait your turn” approach
-
-to talent advancement is a sureﬁre way to lose top young talent.
-
-Leaders can take a page out of the hospital emergency department
-
-playbook and leverage queuing theory to help them manage their
-
-employees’ career path experiences. To summarize, the length of time
-
-that people will wait — whether in a grocery store checkout line, a
-
-theme park, or a hospital emergency department — depends upon the
-
-perceived value of what they hope to get and the quality of the waiting
-
-experience. For example, people wait willingly for hours to experience
+service expertise to periodically staﬀ projects as mentors to younger

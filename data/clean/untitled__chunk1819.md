@@ -1,3 +1,9 @@
-# Eighteenth to Mid-Nineteenth Century 317
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8dc7eb4c0ac46aab06fb1fcba23e3563144f499b
+title: untitled
+---
+# Phrenology
 
-called his variant phrenology, a term that Gall never used (Clark & Jacyna, 1987, p. 222). Phrenology attracted numer- ous adherents in both England and the United States, includ- ing inﬂuential philosophers and physicians specializing in psychiatry. Isaac Ray (1807–1881), an American physi- cian and well-received writer on forensic psychiatry, was for some years an advocate of phrenology. Spurzheim’s phrenology was used to rationalize discrimination and pre- judice on the basis of presumed biological racial and class differences. Victor Hilts (1982) points out that, although Gall did not use hereditarian arguments, phrenologists such as Spurzheim began to promote the social policy of eugenics well before the appearance of the social Darwinists. They popularized hereditarian ideas in the conviction that social progress depends on the improvement of human biological endowment through selective breeding, and warned of the possibility of racial degeneration if this were not accepted as a moral duty.
+Johann Gaspar Spurzheim (1776–1832) had begun to col- laborate with Gall in 1800, but Gall later severed their rela- tionship because of his objections to modiﬁcations that Spurzheim began introducing in Gall’s theory. Spurzheim

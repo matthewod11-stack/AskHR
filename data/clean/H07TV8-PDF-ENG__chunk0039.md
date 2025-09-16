@@ -1,13 +1,13 @@
-# experienced leaders.
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4dd7f3750d27396b69f8b32c795ece53494aff02
+title: H07TV8-PDF-ENG
+---
+# Substitution
 
-Peter Drucker was in favor of this, writing: “Unless the seniors vacate
+Most boldly, paving the way for the next generation may also take
 
-top-executive slots, the juniors cannot move up.” More than half of S&P
+the form of creating space for more junior leaders by imposing term
 
-1,500 companies have put in place mandatory retirement policies for
-
-CEOs and directors based on age, while rules based on tenure remain
-
-rare. These hard rules should be paired with regular performance
-
-assessments and succession planning to take into account speciﬁc
+limits, implementing retirement rules or creating new roles for the most

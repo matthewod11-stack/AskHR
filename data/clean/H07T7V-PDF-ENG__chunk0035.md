@@ -1,21 +1,21 @@
-# memory?
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f29ad9f74d0e9920311666e040c90708e6fe9440
+title: H07T7V-PDF-ENG
+---
+# naturally as breathing.
 
 ADI IGNATIUS:
 
-No. Microsoft went from the tech company we liked least to maybe the
+One of the examples in your book of geek culture triumphing is
 
-one we like best.
+Microsoft, and speciﬁcally when Satya Nadella came in and rekindled
+
+that early success and more. Talk a bit about what he got right,
+
+particularly in the framework that you’ve created.
 
 ANDREW MCAFEE:
 
-And if you were an investor, you really didn’t like it for about a decade.
-
-The stock price was ﬂat as a corpse’s EKG. And then Nadella took over,
-
-and it’s become one of the most valuable companies in the world. It’s an
-
-astonishing comeback story.
-
-I got to interview Nadella for the book. He’d made brilliant strategic
-
-moves, a bunch of them. You have Microsoft embracing open source,
+Can you think of a more impressive corporate turnaround story in living

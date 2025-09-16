@@ -1,9 +1,17 @@
-## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27a352cd4147ef7272f27ceecc35de6f4ca4a3de
+title: R2405D-PDF-ENG
+---
+# decisions.
 
-Amy C. Edmondson is the Novartis Professor of Leadership and Management at Harvard Business School. Her latest book is Right Kind of Wrong: The Science of Failing Well (Atria Books, 2023).
+A version of this article appeared in the September–October 2024 issue of Harvard Business Review.
+
+Michael Luca is a professor of business administration and the director of the Technology and Society Initiative at Johns Hopkins University, Carey Business School.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-13
+12
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

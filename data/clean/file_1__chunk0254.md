@@ -1,11 +1,9 @@
-## Journal of Marriage and the Family, 58, 417–432.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 902beab3f19dc604ed80c25f9fd94eab32863296
+title: file_1
+---
+## social psychology. Journal of Social Issues, 53, 631-644.
 
-Melkas, T., 1999. The Gender Barometer 1998. Helsinki: Tilastokeskus.
-
-Melkas, T., 2002. The Gender Barometer 2001. Helsinki: Tilastokeskus.
-
-Melkas, T., 2005. Gender Equality Barometer 2004. Helsinki: Tilastokeskus.
-
-Mikkelsen, E. and S. Einarsen, 2002. Relationships between exposure to bullying at work and psychological and psychosomatic health complaints: the role of state negative affectivity and generalized self-efficacy. Scandinavian Journal of Psychology, 43 (5), 397-405.
-
-Mill, J., 1869. The subject of women. In J. Gray, eds, On Liberty and Other Essays. Oxford:
+Marks, S. and S. MacDermid, 1996. Multiple roles and the self: A theory of role balance.

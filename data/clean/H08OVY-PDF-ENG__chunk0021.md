@@ -1,33 +1,29 @@
-# Focus on the future
+---
+source_path: H08OVY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40655b88d7ab52017cf7875f07ee000f6fb90581
+title: H08OVY-PDF-ENG
+---
+# Appeal to values
 
-When you’re disagreeing with something your boss has already done—
+When you disagree with a big-picture decision, Wilding suggests
 
-like pointing out a misstep during a client call—don’t rehash the past.
+framing it around your role and responsibilities. Try: “I want to make
 
-Instead, Wilding advises focusing on the future. She suggests saying,
+sure this project succeeds and that you have all the information to make
 
-“I’d like to touch base about that last meeting and discuss how we
+the best call.” This shows you’re acting in the team’s best interest and
 
-can improve moving forward.” This shifts the conversation to solutions,
+oﬀering your perspective in service of the larger goal. For example: “As
 
-using the earlier situation as a “springboard to the future.” For example,
+a product manager, I see it as my job to steward our road map and
 
-you could say, “Next time, it might help to clarify who’s speaking when
+ensure we’re prioritizing the right features. To do that, here’s what I
 
-so we can both showcase the value we bring to the client.” And never
+think.” Acknowledging your vulnerability can help, too, says Bordone.
 
-say, “That was a bad move,” Bordone says. “That puts your boss in a
+He suggests: “Part of me knows a lot of thought has already gone into
 
-crummy position as the bad decision-maker. No one wants to be there.”
+this decision, but I also feel it’s worth bringing up my concerns because
 
-Be prepared for defensiveness
-
-Despite your best eﬀorts, your boss might react badly. So, take a beat.
-
-“Even a brief pause can make a diﬀerence when you feel pressured,”
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+we might miss something important. So let me share my perspective.”

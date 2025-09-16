@@ -1,19 +1,21 @@
-## transition with greater conﬁdence and clarity.
+---
+source_path: H08M7J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f99265614152d3f6eb70f5500c9789701e9c69c6
+title: H08M7J-PDF-ENG
+---
+# Rebuild
 
-Throughout this process, focus on strengthening your resilience. To
+Once you’ve gained clarity, it’s time to move from reﬂection to action.
 
-operate at your best, be intentional regarding your social, emotional,
+Create a plan for your next 30 days with concrete, manageable goals that
 
-physical, and spiritual health. For social resilience, surround yourself
+will help you regain a sense of agency and purpose. This plan might
 
-with people who provide constructive support, rather than those
+include setting priorities, engaging with decision-makers to signal your
 
-who perpetuate negativity. While some venting can be helpful as an
+aspirations, building relationships with new stakeholders who can
 
-emotional release, it can also become destructive if it happens too often.
+support you, and securing quick wins that demonstrate your value and
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+build momentum. Having a clear roadmap will help you navigate this

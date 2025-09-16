@@ -1,13 +1,7 @@
-# interest inventories, 188 interviews, 134–146 knowledge tests, 170 medical and psychological
-
-exams, 191–193 personality inventories,
-
-186–188
-
-recruitment, 114–134 reference checking,
-
-158–169
-
-678
-
-subject index
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 43af3c0e2c63764048a49a8321f91669ee06725a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# graphology, 191 integrity tests, 188–190

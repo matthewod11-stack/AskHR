@@ -1,7 +1,13 @@
-# 64 | P a g e
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: cca0cb5ee4737f3233e8c492752aeb72dcf8db4c
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+## satisfaction, no matter the region, ethnicity, religious persuasion, or gender.
 
-company does not care for its employees and customers interact with unmotivated,
+Companies cannot claim to know and understand their customers unless they know
 
-unsatisfied employees, he will remember only a negative experience, which is difficult
+the employees who directly interact with them. If a company cares for its employees,
 
-to overcome.
+and they feel motivated and encouraged, they will treat customers the best. If a

@@ -1,3 +1,9 @@
-## Differences between male and female teams
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 8b7dbdfed9802ac6a8784d79cd6b3092035fe982
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+## Athlete Leadership and Team Effectiveness
 
-For both male and female teams, shared leadership across and within leadership roles was seen as the most effective leadership structure. Apart from these general similarities, some differ- ences between male and female teams could also be noted. With respect to task leadership, female teams obtained the best scores on all variables when having three task leaders. For male teams, one task leader seemed more beneficial to avoid task conflict, while teams with two social leaders reported greater social cohesion but lower levels of role conflict, task conflict, and perceived performance. Likewise, female teams with two social leaders presented stronger social cohesion and less relationship conflict, but more role conflict. Finally, with respect to external leadership, male teams with shared leadership (two leaders) reported greater benefits than teams with any other structure (zero or one leader), but female teams with two external leaders reported higher role conflict and lower collective efficacy and intention to continue. These results seem to suggest that male teams show more benefits when there are more task and external leaders, whereas female teams reveal more benefits when there are more task and social leaders. The gender differences are consistent with other group variables such as cohe- sion, where there is evidence that the cohesion-performance relationship does differ between males and females [22, 24]. Therefore, coaches who want to implement a shared leadership structure in their teams should take their players’ gender into account when deciding on the number of leaders to appoint. The observed differences should encourage future research on gender differences to consolidate these findings.
+which a limited leadership group takes the lead, an argument that the present study can corroborate.

@@ -1,9 +1,17 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: f99d8fb9c24ef854b56c94016d77dba2896e7be4
+title: issn_print_0976_013x
+---
+# Business
 
-Journal of Management & Public Policy,
+Venturing,
 
-Vol. 14, No. 2, June 2023, Pp. 27-42
+20,
 
-ISSN 0976-0148 (Online) 0976-013X (Print)
+71-91.
 
-DOI: https://doi.org/10.47914/jmpp.2023.v14i2.004
+https://doi.org/10.1016/j.jbusvent.2004.01.001
+
+26

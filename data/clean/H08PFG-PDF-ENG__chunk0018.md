@@ -1,17 +1,29 @@
-# same credit.
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f99eee12aafa8c6c1949d6defededcd233a11e47
+title: H08PFG-PDF-ENG
+---
+# Find the right audience.
 
-Similarly, Katherine Johnson, Mary Jackson, and Dorothy Vaughan,
+While everyone can be a norm entrepreneur, our eﬀorts are particularly
 
-the protagonists of the ﬁlm Hidden Figures, became famous not only
+eﬀective when we tailor them to the right audience that sees us as
 
-because they were brilliant mathematicians, but also because they were
+credible and compelling messengers. The case for fairness can be
 
-“ﬁrsts” in many ways at NASA in the 1960s. They started to change
+especially compelling when made by someone who beneﬁts from the
 
-norms by breaking glass ceilings and paving the way for others.
+status quo—or, on the ﬂipside, by someone who challenges stereotypes
 
-In both cases, people became credible norm entrepreneurs because
+by succeeding in spaces they weren’t expected to.
 
-they did something counter-stereotypical: white men hiring women
+“Unusual suspects” can be the best norm entrepreneurs precisely
 
-and people of color and Black women climbing up the career ladder
+because they’re counter-stereotypical. Research shows that when white
+
+male executives and top managers hired more women and people of
+
+color, they were rewarded with higher performance evaluations; women
+
+executives and executives of color of all genders did not receive the

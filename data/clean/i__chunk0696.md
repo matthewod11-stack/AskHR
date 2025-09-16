@@ -1,11 +1,7 @@
-# ebooks/reader.action?docID=533015
-
-(cid:111) Gandomi, A. H., & Haider, M. (2015). Beyond the hype: Big data concepts, methods, and analytics. International Journal of Information
-
-Management,
-
-35(2),
-
-1373144.
-
-https://doi.org/10.1016/j.ijinfomgt.2014.10.007
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 5ac3d3fb0c95a0927c7e3e90429253a46224e78d
+title: i
+---
+## https://ebookcentral.proquest.com/lib/abo-

@@ -1,9 +1,11 @@
-## programs from multiple levels within our store, around store leadership
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ffad1e2d053a43d4dbb950a2318b613653ec0023
+title: H07U7Q-PDF-ENG
+---
+## those next steps for growth within the company.
 
-as an example. Team members not only see their current next-step
+I mentioned a little bit earlier the career development programs
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-18
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+we do. We do this throughout our entire organization, so we’ve got

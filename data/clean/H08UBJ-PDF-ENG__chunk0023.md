@@ -1,29 +1,45 @@
-# HBR / Digital Article / Gender Diversity Helps Teams Maintain Integrity Under Pressure…
+---
+source_path: H08UBJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 963e09dc51cb80f2fae8cdf49f805684956874ad
+title: H08UBJ-PDF-ENG
+---
+# compliance and external oversight.
 
-that this kind of diversity-driven integrity can also lead to greater ﬁrm-
+In the halls of ﬁnance we often hear about excessive risk-taking. Our
 
-level resilience, lower risk, and better innovation outcomes. It won’t
+ﬁndings ﬂip that narrative: Perhaps the most underappreciated lever
 
-single-handedly eliminate all the pressure or temptation to fudge the
+for curbing ethical lapses is diversifying that culture. This doesn’t just
 
-truth; no single change can. But it shifts the baseline of behavior. It
+improve ethical vigilance and intellectual honesty—it has the potential
 
-makes doing the right thing easier for everyone in the room.
+to sharpen risk management and produce more reliable information
 
-. . .
+for decision-makers, investors, and markets. And we speculate that
 
-The next time the pressure’s on and you’re asking how to safeguard
+this eﬀect likely could extend far beyond stock analysts or bankers—
 
-integrity in your organization, remember this: You can create rules,
+any high-pressure team could potentially reap the gains that gender
 
-roll out training, and repeat your values all you want (and indeed, you
+diversity brings. In fact, these results give empirical weight to what
 
-should). But also ask a more strategic question: Who’s in the room?
+prior work has argued conceptually: That gender diversity isn’t just a
 
-Homogeneity can silently amplify blind spots. A more intentionally
+feel-good slogan or a box to tick—it’s a structural antidote to unwanted
 
-gender diverse team won’t guarantee better decisions, but it makes
+behavior that can lead to better decisions under the right conditions.
 
-them more likely. In complex, high-stakes environments, that shift in
+If one relatively simple change such as adding more women to a team
 
-probability may be one of the most practical investments a leader can
+can curb a pervasive bias in an ultra-competitive ﬁeld, what other
+
+ethical boosters might we be overlooking? Diversity is a powerful piece
+
+of the puzzle in building resilient, principled teams. Research shows
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,29 +1,23 @@
-# How to Make a PIP More Effective
+---
+source_path: H08GPL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50329ede1eb20616ba6409f191bffa6814d54b22
+title: H08GPL-PDF-ENG
+---
+## friction between your style and your employee’s style, rather than an
 
-A PIP should be more than a plan; it should be a collaborative eﬀort to
+actual gap in their outputs. Remember that this is about performance,
 
-help you succeed together.
+not personality. Be sure to seek input from others, including HR, to
 
-- 1. Address root causes.
+assess the problem’s pervasiveness and decide whether the issues are
 
-A PIP shouldn’t be generic; it should be speciﬁc to the individual and
+appropriate to address with a PIP.
 
-the reasons for their poor performance. An employee with solid skills
+If, after considering these questions, you believe that performance gaps
 
-but lackluster motivation will need a diﬀerent approach than one with
+are a function of factors within the employee’s control and that a formal
 
-more will than skill.
+improvement process is the best way to help, here are some ways to
 
-- 2. Make it future-focused.
-
-You need a PIP because of past events, but to create an eﬀective plan,
-
-the focus of the PIP template should be on the future. If you ﬁll the
-
-PIP with examples of past mistakes, it will feel punitive, as if you would
-
-rather dwell on what went wrong than focus on what comes next.
-
-- 3. Set unambiguous expectations.
-
-Where possible, deﬁne the performance goals using measurable
+increase the likelihood of the process being eﬀective.

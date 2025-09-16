@@ -1,7 +1,9 @@
-## PERSONALITY IN PERSON-ORGANIZATION FIT RESEARCH 287
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 07b91d7ff2bf1b1f9f47a156e78864cf361944cd
+title: barrickryan_eds_personality_and_work
+---
+# American Psychologist, 45, 95–108.
 
-O’Reilly, C. A., Chatman, J. A., & Caldwell, D. F. (1991). People and or- ganizational culture: A proﬁle comparison approach to assessing person-organization ﬁt. Academy of Management Journal, 34, 487–516. Pervin, L. A. (1992). Transversing the individual-environment landscape: A personal odyssey. In W. B. Walsh, K. H. Craik, & R. H. Price (Eds.), Person-environment psychology (pp. 71–87). Mahwah, NJ: Erlbaum. Phillips, J. M. (1998). Effects of realistic job previews on multiple organi- zational outcomes: A meta-analysis. Academy of Management Journal, 41, 673–690.
-
-Posner, B. Z., Kouzes, J. M., & Schmidt, W. H. (1985). Shared values make a difference: An empirical test of corporate culture. Human Resource Management, 24, 293–309.
-
-Rohan, M. J. (2000). A rose by any name? The values construct. Personal-
+O’Reilly, C. A., & Chatman, J. A. (1986). Organization commitment and psychological attachment: The effects of compliance, identiﬁcation, and internalization on prosocial behavior. Journal of Applied Psy- chology, 71, 492–499.

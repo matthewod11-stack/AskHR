@@ -1,15 +1,21 @@
-# equal pay gaps, or both.
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c09a703c10f161843343fbb7b0d839634e9cb7ad
+title: H08NEW-PDF-ENG
+---
+# HBR / Digital Article / Your Company Wants to Close Pay Gaps. Here’s Where to Start.
 
-This article was originally published online on April 8, 2025.
+Pay equity presents both consequences and opportunities for ﬁrms.
 
-David Anderson is an Associate Professor of Analytics at the Villanova School of Business. His research focuses on the gender pay gap, speciﬁcally how companies monitor and address pay gaps, the downstream eﬀects of gender pay gaps, and the impacts of pay equity and pay transparency legislation. He also is a cofounder of PayAnalytics, a software startup which helps companies measure, address, and monitor demographic pay gaps.
+On the one hand, ﬁrms must ensure their pay gaps do not call down
 
-Margret Vilborg Bjarnadottir is an Associate Professor of Management Science and Statistics at Robert H. Smith School of Business at University of Maryland. Her research focuses on how to use optimization and machine learning to address problems of social importance, including pay equity. She is the cofounder of PayAnalytics, which focuses on closing pay gaps and building equitable workplaces.
+the wrath of stakeholders or regulatory authorities. On the other
 
-David Gaddis Ross is the R. Perry Frankland Professor at the University of Florida’s Warrington College of Business Administration. His research examines the governance of ﬁrms, with a particular focus on gender issues in top management and the foundations of strategy. He received a PhD in economics from New York University’s Stern School of Business, an MBA from the University of Pennsylvania’s Wharton School of Business, and a BS in computer-science/mathematics and economics from Binghamton University.
+hand, ﬁrms that deﬁne clear pay equity goals and adhere to them set
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+themselves apart as good places to work, and their employees are less
 
-8
+likely to leave. We strongly encourage ﬁrms to take a proactive approach
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to pay equity, whether to minimize regulatory risk, ensure minimal

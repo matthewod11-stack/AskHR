@@ -1,9 +1,21 @@
-# GV
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: def2be25f9bc073da15c2aac63a47704816c38ac
+title: H08OJX-PDF-ENG
+---
+# performance.”
 
-Gabriela Vogel is a Vice President Analyst in the Executive Leadership of Global Enterprises research practice at Gartner, Inc. She provides pragmatic guidance to executives on C-suite dynamics and eﬀective leadership in times of change.
+In some cases, leaving the company may ultimately be the best option,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+especially when corporate gaslighting is ingrained in the culture.
 
-6
+Adversarial behaviors are doorways to corporate gaslighting and doing
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+nothing is not an option. As business leaders, it is crucial to identify,
+
+respond and counteract such threats to protect your reputation and
+
+career, and those of which you are leading.
+
+This article was originally published online on March 31, 2025.

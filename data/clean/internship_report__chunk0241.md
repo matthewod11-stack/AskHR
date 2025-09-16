@@ -1,21 +1,11 @@
-# undertake
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: b89e65a6009ac8d25c256ddc4d5d2fa7fc843419
+title: internship_report
+---
+## ‘We Do Not Want To Harm People or The Environment’
 
-- Managers at all levels demonstrate visible leadership
+To achieve this vision, we Karnaphuli are committed to the following:
 
-- We apply this policy in our day-to-day behavior and decisions
-
-We strive to be leading in Company to meet the following objectives:
-
-- Zero incidents
-
-- Zero harm to communities in which we do business
-
-- Safe, secure and healthy working conditions for all our people and all that work with us
-
-- Supplying safe, compliant and environmentally responsible products and services
-
-- Prevention of pollution to the environment
-
-- Responsible use of natural resources
-
-- Research, development and promotion of technologies, products and services that is sustainable
+- Safety, health, care for the environment and quality are a pre-requisite to any business we

@@ -1,9 +1,19 @@
-## Renan de Padua, Head of Generative AI, iFood
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: bdaea243a3cc9afb72eadb5a0cb7e002da73a242
+title: building
+---
+# example insertion
 
-25
+- You should include edge cases in your examples
 
-- 2. Chain of Thought (CoT) This technique involves giving Claude space to “think out loud”. When faced with complex tasks like research, analysis, or problem-solving, chain of thought (CoT) prompting, encourages Claude to break down problems step-by-step, generating more accurate and nuanced outputs. Note: Due to how LLMs generate responses, CoT prompting is only effective if the model is given space to think out loud before it produces its final answer. Providing a rationale after it has already given its answer generally does not improve its response over baseline.
+- Although not essential, you can include an example or two
 
-Benefits of letting Claude think
+showing how NOT to perform the task
 
-- Accuracy: Stepping through problems reduces errors,
+- If you don’t have enough examples in your data set, you can
+
+also ask Claude to create more for you!
+
+“Sometimes people think that generative AI is very costly, it’s very expensive, but if you can use it correctly, like some fine tuning for example, that we do use in Bedrock, it gets cheaper than using traditional models.”

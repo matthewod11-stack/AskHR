@@ -1,17 +1,29 @@
-# 118 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 96ff26a2a2b13debc84e62fc50c102e066d852cd
+title: barrickryan_eds_personality_and_work
+---
+# PERSONALITY AND JOB PERFORMANCE 117
 
-London, M., & Mone, E. M. (1999). Continuous learning. In D. R. Ilgen & E. D. Pulakos (Eds.), The changing nature of performance: Implica- tions for stafﬁng, motivation, and development (pp. 119–153). San Fran- cisco: Jossey-Bass.
+Judge, T. A., & Bono, J. E. (2001). Relationship of core self-evaluation traits—self-esteem, generalized self-efﬁcacy, locus of control, and emotional stability—with job satisfaction and job performance: A meta-analysis. Journal of Applied Psychology, 86, 80–92.
 
-McCloy, R. A., Campbell, J. P., & Cudeck, R. (1994). A conﬁrmatory test of a model of performance determinants. Journal of Applied Psychol- ogy, 79, 493–505.
+Judge, T. A., Higgins, C. A., Thoresen, C. J., & Barrick, M. R. (1999). The Big Five personality traits, general mental ability, and career success across the life span. Personnel Psychology, 52, 621–652.
 
-Mischel, W. (1968). Personality and assessment. New York: Wiley. Mitchell, T. R., & Daniels, D. (2002). Motivation. In W. Borman, D. Ilgen, & R. Klimoski (Eds.), Comprehensive handbook of psychology, Vol. 12: In- dustrial and organizational psychology. New York: Wiley.
+Judge, T. A., & Ilies, R. (2002). Relationship of personality to performance motivation: A meta-analytic review. Journal of Applied Psychology, 87, 797–807.
 
-Motowidlo, S. J., Borman, W. C., & Schmit, M. J. (1997). A theory of in- dividual differences in task and contextual performance. Human Performance, 10, 71–83.
+Kanfer, R. (1990). Motivation theory and industrial and organizational psychology. In M. D. Dunnette & L. M. Hough (Eds.), Handbook of industrial and organizational psychology (2nd ed., Vol. 1, pp. 75–170). Palo Alto, CA: Consulting Psychologists Press.
 
-Motowidlo, S. J., & Van Scotter, J. R. (1994). Evidence that task perfor- mance should be distinguished from contextual performance. Jour- nal of Applied Psychology, 79, 475–480.
+Kanfer, R. (1992). Work motivation: New directions in theory and re- search. In C. L. Cooper & I. T. Robertson (Eds.), International review of industrial and organizational psychology (pp. 1–42). New York: Wiley. Kanfer, R., & Heggestad, E. D. (1997). Motivational traits and skills: A per- son-centered approach to work motivation. Research in Organiza- tional Behavior, 19, 1–56.
 
-Mount, M. K., Barrick, M. R., & Strauss, J. P. (1999). The joint relation- ship of conscientiousness and ability with performance: Test of the interaction hypothesis. Journal of Management, 25, 707–721. Mumford, M. D., Baughman, W. A., Threlfall, K. V., Uhlman, C. E., & Costanza, D. P. (1993). Personality, adaptability, and performance: Performance on well-deﬁned and ill-deﬁned problem-solving tasks. Human Performance, 6, 241–285.
+Kernan, M. C., & Lord, R. G. (1988). Effects of participative vs. assigned goals and feedback in a multitrial task. Motivation and Emotion, 12, 75–86.
 
-Ones, D. S., Viswesvaran, C., & Schmidt, F. L. (1993). Comprehensive meta-analysis of integrity test validities: Findings and implications for personnel selection and theories of job performance. Journal of Applied Psychology, 78, 679–703.
+Kuhl, J. (1985). Volitional mediators of cognition-behavior consistency: Self-regulatory processes and action vs. state orientation. In J. Kuhl & J. Beckmann (Eds.), Action control: From cognition to behavior (pp. 101–128). New York: Springer-Verlag.
 
-Organ, D. W. (1988). Organizational citizenship behavior: The good soldier syn-
+Kuhl, J. (1994). Action versus state orientation: Psychometric properties of the action control scale (ACS-90). In J. Kuhl & J. Beckmann (Eds.), Volition and personality: Action versus state orientation (pp. 47–59). Seattle: Hogrefe & Huber.
+
+Lance, C. E., & Bennett, W. (2000). Replication and extension of models of supervisory job performance ratings. Human Performance, 13, 139–158. LePine, J. A., Colquitt, J. A., & Erez, A. (2000). Adaptability to changing task contexts: Effects of general cognitive ability, conscientiousness, and openness to experience. Personnel Psychology, 53, 563–593. LePine, J. A., Erez, A., & Johnson, D. E. (2002). The nature and dimen- sionality of organizational citizenship behavior: A critical review and meta-analysis. Journal of Applied Psychology, 87, 52–65.
+
+Leslie, J. B., & Van Velsor, E. (1996). A look at derailment today: North Amer-
+
+ica and Europe. Greensboro, NC: Center for Creative Leadership.

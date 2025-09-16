@@ -1,9 +1,17 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 6a6a432f7cdd9da3b2f2b286f0d37eef86615b95
+title: issn_print_0976_013x
+---
+# 6 June 2023. h(cid:425)ps://www.livemint.com/companies/news/cos-must-act-to-check-toxic-oﬃce-
 
-Journal of Management & Public Policy,
+behaviour-11686072774500.html
 
-Vol. 14, No. 2, June 2023, Pp. 49-63
+Tiwari, M., & Jha, R. (2022). Narcissism, toxic work culture and abusive supervision: a double-
 
-ISSN 0976-0148 (Online) 0976-013X (Print)
+edged sword escala(cid:415)ng organiza(cid:415)onal deviance. Interna(cid:415)onal Journal of Organiza(cid:415)onal
 
-DOI: https://doi.org/10.47914/jmpp.2023.v14i2.006
+Analysis, 30(1), 99-114. h(cid:425)ps://doi.org/10.1108/IJOA-05-2020-2187
+
+48

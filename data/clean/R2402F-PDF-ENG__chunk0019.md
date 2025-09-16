@@ -1,25 +1,13 @@
-# reﬂective time.
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1823efa96200755a48b4f0270f04df29dd1ee165
+title: R2402F-PDF-ENG
+---
+## person experiences—from workshops to team-building activities to
 
-Consider how community dinners are held. Fellows are divided into
+community dinners. All the fellows and mentors we spoke with
 
-tables of ﬁve or six people plus a UI mentor. Each table is given a
+mentioned “the magic” that happened over the course of these events.
 
-prompt; for example, “Tell us about a decision you made that changed
-
-your life” or “Describe an object that is meaningful to you.” Each fellow
-
-gets ﬁve minutes to respond without interruptions. Fellows often share
-
-personal and emotional experiences. As one participant recalls, “There
-
-was not one dinner without some tears.”
-
-The programs include periods of time oﬀ for activities such as yoga
-
-or quiet walks. The importance of having space for reﬂection is
-
-well documented in organizational psychology research: It is how
-
-people come to understand others with whom they have shared
-
-intense experiences and discover whom they might be able to form
+UI retreats typically combine small-group interactions with periods of

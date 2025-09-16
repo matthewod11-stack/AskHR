@@ -1,5 +1,9 @@
-# New York, NY.
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 0caa93dbb2f3a9eab572232f381bc4576009ae80
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## organizations”, Journal of Hospitality & Tourism Research, Vol. 21, pp. 58-74.
 
-Luthans, F., Avey, J.B., Avolio, B.J. and Peterson, S.J. (2010), “The development and resulting performance impact of positive psychological capital”, Human Resource Development Quarterly, Vol. 21, pp. 41-67.
-
-Macey, W.H. and Schneider, B. (2008), “The meaning of employee engagement”, Industrial and
+Luthans, F., Youseff, C.M. and Avolio, B.J. (2007), Psychological Capital, Oxford University Press,

@@ -1,13 +1,9 @@
-# up on core skills?
+---
+source_path: F2501A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46b7c2e39d752d58ac535f4de85a8c32a6547ed8
+title: F2501A-PDF-ENG
+---
+# and organizational design.
 
-If an employee is resistant, it’s their manager’s job to help them understand
-
-the requirements and hone their skills. This involves a combination of
-
-development and selection. We try to start with people who have a
-
-growth-oriented mindset. They’re more likely to positively receive a training
-
-program, core or emerging, because they understand the direct link
-
-between training and future success. For those who struggle, we provide
+How do you handle long-term employees who are opposed to brushing

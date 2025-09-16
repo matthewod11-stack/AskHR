@@ -1,31 +1,49 @@
-## HBR / Magazine Article / Redesigning How We Work
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05d47424fd36b8e798d8e30efad44487ba2b02b5
+title: R2302D-PDF-ENG
+---
+## a period of uncertainty and transition, during which new assumptions
 
-Companies have started to realize that the changes they’re contemplating to workplace practices and norms may be more significant than anything that’s happened in generations.
+and norms take shape. Eventually they “refreeze.”
 
-When I repeated the survey the following November, the percentage of
+That’s what’s happening now, on an enormous scale. When the
 
-executives who reported having rolled out a ﬁnal hybrid-work design
+pandemic hit, our long-standing structures, practices, and processes all
 
-had risen considerably, to 42%. Some companies are at last moving into
+unfroze. Old ways of working fell away; we discovered new options for
 
-that phase, but many others remain in transition.
+remote and hybrid work; and as Covid restrictions eased, we began to
 
-Why has this been so hard? Because so much is at stake. The new world
+discern which of those options might be worth hanging on to.
 
-of hybrid work is about more than determining whether everybody
+We recognized that making sense of all this would be diﬃcult—and it
 
-should come back to the oﬃce full-time, or whether two or three days
+has been. In February 2022 I polled 266 executives from 68 companies
 
-a week makes more sense, or whether employees should be allowed
+across 36 countries and asked them, “Where do you think you are
 
-to work from home. In debating those and other questions, companies
+[with hybrid work] at the moment?” Only 2% chose the response “We’ve
 
-have found themselves testing long-held assumptions about how work
+implemented and rolled out a ﬁnal design of work.” The remaining 98%
 
-should be done and what it even is—and have started to realize that
+located themselves somewhere earlier in the process by choosing one of
 
-the changes they’re contemplating to workplace practices and norms
+these: “We have a design and are beginning to roll out in some places”
 
-may be more signiﬁcant than anything that’s happened in generations.
+(40%), “The ﬁnal design is still under discussion” (35%), or “We are
 
-“This is the greatest change to work since the Industrial Revolution,”
+looking at options” (23%). Most companies, in other words, were stuck,
+
+often uneasily, in the transitional phase: They had unfrozen old ways of
+
+working and wanted the clarity and stability of a refreeze, but they just
+
+weren’t there yet.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

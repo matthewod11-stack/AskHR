@@ -1,3 +1,11 @@
-# 324 Abnormal Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ec0906a386200601fecdd99529a80cd142606feb
+title: untitled
+---
+## The Third Version of Freud’s Psychoanalytic Theory of Psychopathology
 
-Freud rejected the possibility that in his psychoanalysis he might have led patients to report false memories of sexual seductions. Instead he concluded that the memories he had elicited were real—but not of real experiences. The memo- ries were memories of infantile fantasies of sexual seduction created because they had wished either to be seduced or to seduce. Why, if the patients had fantasized sexual seduc- tion in early childhood, had they repressed the memories of these fantasies? Freud answered this question with the further assumption that childhood sexual fantasies are always incestuous—hidden behind the fantasies of seduction were infantile wishes for erotic gratiﬁcation with their parents that led to fear of parental wrath and punishment, and so the memories of the fantasies were repressed. Freud also had to explain why neurotic patients had incestuous sexual fan- tasies, and this he did with the generalization that all young children create such fantasies. Mentally healthy individuals would show the same resistances if presented with evidence that they had once had such fantasies. To Freud, the only dif- ference between patients and nonpatients was that the analyst was in a position to bring pressure to bear on patients, so as to induce them to realize and overcome their resistances. In short, Freud claimed that criticism of his theory by others was itself evidence for the validity of the theory.
+When Freud discarded his seduction theory, he recognized that his patients had been right in expressing their disbelief in the recollections he had forced upon them. However Freud did not relinquish his belief in a universal sexual etiology for the neuroses; instead he modiﬁed his theory. “Analysis had led by the right paths back to these sexual traumas and yet they were not true. At that time I would gladly have given up the whole thing . . . perhaps I persevered only because I had no choice and could not then begin at anything else. . . .” (Freud, 1914/1950b, p. 299). If Freud’s theory of the sexual etiology of neurosis, with its accompanying concepts of re- pressed memories and resistance to recovery of repressed memories, was invalid, it followed that his psychoanalytic method of treating patients by retrieving repressed memories was invalid. In that event, Freud would have had to abandon both his method of analysis and of therapy.
+
+323

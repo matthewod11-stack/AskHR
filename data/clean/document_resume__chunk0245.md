@@ -1,5 +1,7 @@
-# PCT
-
-10%
-
-Maintaining office hours, attending meetings arid carrying ist,t committee assignments, following appropriate procedures aid Policies for submitting reports, requesting supplies and equipment and fulfilling other duties or assignments
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: fd6175540000b90d2dc635b6470b3bc051838e35
+title: document_resume
+---
+# E Administration

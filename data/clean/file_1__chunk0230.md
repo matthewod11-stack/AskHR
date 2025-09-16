@@ -1,9 +1,13 @@
-# Oxford University Press.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 78b17993aaf3137854d56064f91c957db8541524
+title: file_1
+---
+# 57
 
-Halonen, T., 2000. Speech by President of the Republic Tarja Halonen at the opening of the Women of Learning exhibition in Helsinki on 8.5.2000. Helsinki: University Library.
+Gutek, B. and B. Morasch, 1982. Sex-ratios, Sex-role Spillover, and Sexual Harassment of
 
-Hannan, M., Schomann, K., and H-P. Blossfeld, 1990. Sex and sector differences in the
+Women at Work. Journal of Social Issues, 38, 55-74.
 
-dynamics of wage growth in the Federal Republic of Germany. American Sociological Review, 55, 694-713.
-
-Harding, S., 1987. Introduction: Is there a feminist method? In S. Harding, eds, Feminism
+Hakim, C., 2000. Work-Lifestyle Choices in the 21st Century: Preference Theory. Oxford:

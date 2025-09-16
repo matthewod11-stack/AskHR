@@ -1,7 +1,19 @@
-# with each other.
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd125d1f0e1aad00e1d2b35fb767b47d850482c5
+title: H08MUE-PDF-ENG
+---
+## rely more on technology-generated reports and pre-scheduled virtual
 
-Listening and creating connections The third way that remote managing diﬀers is that it may require a more intense and targeted eﬀort to really understand what each team
+meetings to monitor employees’ performance and output—without the eﬀorts backﬁring.
 
-member and colleague needs and how to help them be successful.
+One senior leader I work with holds a weekly Monday morning virtual
 
-Direct contact with teams and colleagues on a day-to-day basis gives
+meeting with his direct reports, who are located around the world. They
+
+go around the “room” quickly with each person giving an update on key
+
+performance goals and any issues that need attention. It’s a major time
+
+commitment every week but it means the team won’t get out of sync

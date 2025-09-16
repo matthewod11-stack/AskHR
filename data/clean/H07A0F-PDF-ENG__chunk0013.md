@@ -1,11 +1,43 @@
-## The most equitable and eﬀective solution to the challenge of leadership
+---
+source_path: H07A0F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae1345403cbc675b57de66c40d5e7609ec44de1e
+title: H07A0F-PDF-ENG
+---
+# decades.
 
-development selection is to oﬀer opportunities to all employees who are
+We argue that a major reason for stalled progress in leadership
 
-part of the broader target population. For instance, if you currently oﬀer
+representation is the inequitable way leadership development
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+opportunities are allocated in many organizations. When informal
 
-3
+means are used to select employees for opportunities like mentorship,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leadership coaching or other high-potential programs it’s all too likely
+
+that our biases about who has potential (according to research: tall,
+
+attractive, white, men) come into play. Since leadership development
+
+opportunities tend to beget other opportunities, the problem of
+
+inequitable selection compounds over time.
+
+By primarily relying on informal feedback, organizations are impeding
+
+their ability to make the best decisions about who may beneﬁt from
+
+powerful development programs. Research also suggests approaching
+
+selection in this way limits their potential impact. In their new
+
+book, Getting to Diversity, for example, professors Frank Dobbin and
+
+Alexandra Kalev write, “mentoring has the biggest payoﬀ for the
+
+people who aren’t on the executive’s radar.” They share the example
+
+of Sun Microsystems, which found giving mentors to “non-star workers”
+
+resulted in the biggest performance improvements.

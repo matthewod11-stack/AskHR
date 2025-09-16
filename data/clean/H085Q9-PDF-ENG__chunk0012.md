@@ -1,17 +1,19 @@
-# employee concerns.
+---
+source_path: H085Q9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e04b531ea496f88243ce0dc5ffaa4abae47e5572
+title: H085Q9-PDF-ENG
+---
+## HBR / Digital Article / 6 Mistakes Leaders Make When Announcing Layoffs
 
-Managers must believe in the strategy or actions will seem unfair,
+and their questions are taken seriously. Healing takes time, patience, and persistent eﬀort. Think of every conversation as an opportunity to
 
-advises Rodstein. Map out a timeline that includes an investment in
+re-recruit those who stay.
 
-these critical culture carriers. Allow space for them to process their own
+They don’t bring middle management on board.
 
-feelings, so they can show up as leaders with genuine conﬁdence when
+Employees will likely direct most of their questions to their managers.
 
-its needed most.
+So it’s critically important to give middle managers the information
 
-They don’t show appreciation to departing employees.
-
-Your employees contributed to building your organization. Thank them
-
-for the piece of their life that they invested. Incorporate genuine
+they need about the business case and future vision, so they can address

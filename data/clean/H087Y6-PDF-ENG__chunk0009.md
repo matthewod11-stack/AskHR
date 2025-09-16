@@ -1,17 +1,27 @@
-## work as a law professor and labor policy expert, and my research-backed
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a3e2dcf41ce8f5ca8843835a78b261383b0472f
+title: H087Y6-PDF-ENG
+---
+## HBR / Digital Article / The FTC’s Noncompete Ban Was Long Overdue
 
-belief that noncompetes harm both workers and businesses.
+In 2016, I was part of President Obama’s team when his administration
 
-Now that we’re here, questions still loom, as there are already challenges
+issued a call to action urging states to curtail the expansion of
 
-in court to block the FTC’s action. But company leaders would be well
+noncompete clauses, recognizing growing empirical evidence that
 
-advised to understand what’s in the rule, its potential impact, and what
+noncompetes — terms or conditions of employment that prohibit a
 
-it could mean for employees. Far from being an anti-business rule, the
+worker from seeking or accepting work for a certain period of time with
 
-new FTC ban on noncompetes stands to actually spur innovation and
+a competitor or starting their own business after leaving their employer
 
-grow markets. Employers should plan for a new landscape in which only
+— are harmful not only to employees but to the economy at large.
 
-true trade secrets are protected, while talent and creativity remain freely
+Since then, I have been among the voices calling on the FTC to act on
+
+noncompetes and advising the Biden administration to give the FTC
+
+the authority to promulgate a national ban. This has been driven by my

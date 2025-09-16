@@ -1,31 +1,17 @@
-## standard of performance for the automobile industry, while the U.S.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86f2e8f1265d49ec68328d60e3dd77bb5cc61e29
+title: R0507Q-PDF-ENG
+---
+# company as a supplier overall.
 
-Department of Transportation’s measurement of on-time arrivals and
+Depending on customers’ evaluations to deﬁne some of a company’s
 
-lost baggage provides external standards for airlines. Benchmarking
+performance measures forces that company to view its performance
 
-procedures are yet another technique companies use to compare their
+through customers’ eyes. Some companies hire third parties to perform
 
-performance against competitors’ best practices. Many companies have
+anonymous customer surveys, resulting in a customer-driven report
 
-introduced “best of breed” comparison programs: The company looks
-
-to one industry to ﬁnd, say, the best distribution system, to another
-
-industry for the lowest-cost payroll process, and then forms a composite
-
-of those best practices to set objectives for its own performance.
-
-In addition to measures of time, quality, and performance and service,
-
-companies must remain sensitive to the cost of their products. But
-
-customers see price as only one component of the cost they incur
-
-when dealing with their suppliers. Other supplier-driven costs range
-
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+card. The J.D. Power quality survey, for example, has become the

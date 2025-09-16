@@ -1,25 +1,25 @@
-# the most theoretically coherent mediators for the SE relationship between leadership and
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: b76c6273b4138c957978e6264b81f1d72ef61ae1
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# attributes of the leader-follower relationship in line with their critical positioning in
 
-performance related outcomes.
+understanding the impact of leadership styles via SET. While trust in the leader is one
 
-LMX, which is a relational approach to leadership, has been viewed as both a
+important example of this, other, potentially overlapping or broader social exchange based
 
-leadership variable in its own right and as a mediator explaining the effects of other
+variables, may also be in operation (Hughes et al., 2018). Most critical would be LMX
 
-leadership styles (e.g. Wang et al., 2005). This has resulted in confusion regarding the
+quality which has been identified as the second most common operationalisation of SET with
 
-treatment of LMX in combination with other leadership styles. Inconsistencies in the
+higher content validity than the more commonly used perceived organisational support
 
-literature about the conceptualisation and positioning of LMX have been carried over into
+(Colquitt et al., 2014). Given the leader-follower context of the relationships we are focused
 
-meta-analytic work in the area. For instance, while Ng and Feldman (2015) describe LMX as
+on, LMX quality is also the most contextually specific operationalisation of the SET
 
-a leadership style, others have positioned LMX, alongside trust in the leader, as an attitudinal
+relationship and its utility as a mediator in the relationship between leadership and outcomes
 
-outcome of leadership (e.g. authentic leadership, Banks et al., 2016; ethical leadership, Bedi
-
-et al., 2016). In addition, Dulebohn et al. (2012) treat LMX as a mediator, driven by styles
-
-such as transformational leadership. Hoch et al. (2018) argue that, unlike other leadership
-
-styles, LMX does not focus on leader behaviour and is thus more accurately captured as a
+has received considerable support (e.g. Gu et al., 2013). As such, trust and LMX quality offer

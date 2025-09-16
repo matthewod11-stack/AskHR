@@ -1,7 +1,7 @@
-# Self-Managed Teams
-
-Teams collectively assume responsibility for their work
-
-Members expand their networks, but selection criteria sometimes exclude women and people of color
-
-0.02
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d79db08de92576e39952ee89b32f8ccced1e846b
+title: H0893T-PDF-ENG
+---
+# Prevalence

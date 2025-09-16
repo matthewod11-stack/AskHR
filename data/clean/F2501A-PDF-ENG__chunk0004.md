@@ -1,11 +1,29 @@
-## engineering, for example, isn’t essential at this point for employees in
+---
+source_path: F2501A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7b326b2d603764356bf5fbcefa96f10ae1d5ba2
+title: F2501A-PDF-ENG
+---
+## HBR / Magazine Article / Learning Emerging Skills Doesn’t Always Pay Off
 
-accounting, but it is for certain engineers working with large language
+fewer hours of training per year per employee, on average, while the
 
-models. Unfortunately for HR managers, only 25% of employees prefer
+expenses for conducting training continued to climb. With less time and
 
-to improve core skills rather than learn new ones. Companies want their
+money available, it’s crucial that your company invest in skills that will
 
-employees to focus most of their training time on mastering their core
+have a lasting and meaningful impact on your organization. But where
 
-skills, but 40% of employees aren’t doing this. That is a mistake.
+should you start?
+
+A recent Gartner survey of 3,375 employees found that training workers
+
+in the core skills essential to their roles right now has ﬁve times
+
+more impact on their performance than teaching “emerging” skills that
+
+don’t have a clear here-and-now application. It’s important to note
+
+that core skills will be diﬀerent for every role, and certain emerging
+
+skills may actually be immediately needed in some jobs. AI-prompt

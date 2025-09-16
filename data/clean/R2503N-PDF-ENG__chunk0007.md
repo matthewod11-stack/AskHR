@@ -1,31 +1,13 @@
-# anonymous.
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7a1fa8d5cf2081fe26e7fbd519a148353dc85e1
+title: R2503N-PDF-ENG
+---
+## HBR / Magazine Article / Are You Really a Good Listener?
 
-In our research we’ve found that even the most well-intentioned
+at Amazon, where employees said that a daily survey designed to
 
-leaders are sometimes guilty of being poor listeners. We’ve identiﬁed
+gauge their sentiment was being skewed by managers’ overt pressure
 
-ﬁve of the most common and damaging causes of that failure: haste,
-
-defensiveness, invisibility, exhaustion, and inaction. In this article we’ll
-
-explain how to avoid those pitfalls and become the kind of listener that
-
-your team members need you to be.
-
-- 1. Haste
-
-In April 2023 MillerKnoll’s CEO, Andi Owen, held an online town hall.
-
-Going in, she worried that morale was low. In order for the employees—
-
-including her—to receive their annual bonuses, the company needed to
-
-hit a revenue goal, and sales weren’t on track. But Owen believed that
-
-with a ﬁnal push the employees could succeed. “My goal was to get them
-
-to…say, ‘Gosh, it really stinks that we aren’t further along.’ And maybe
-
-take a minute and feel bad about that, but then sort of leave that place
-
-of feeling bad. We still have a quarter, we can still do this,” she later told
+to give positive answers and by worries that responses wouldn’t be kept

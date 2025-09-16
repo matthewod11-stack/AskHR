@@ -1,13 +1,21 @@
-# recommendation, satisfaction, and effort-based questions across the whole employee
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 82a7d32ae8134792d90a7b89e5d0faffd336c6d7
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Measurements of Employee Experience
 
-journey. He also specifies and calculates overall EX index as a simple average of the
+Many Employee Engagement metrics are available in existing literature, the most
 
-EX-scores through the whole employee journey. EX index, overall = (EX index “I just
+widely used metrics are global in scale. Surveys typically measure satisfaction and
 
-heard about this organization") + (EX index “I’m applying for a job”) + (EX index “It’s
+willingness to recommend. Employee experience is a much wider area, employee
 
-my first day") + (EX index “I have a daily life here") + (EX index “It’s my last day") / 5.
+engagement surveys are not enough to capture the entire employee journey since
 
-In order to get more accurate results for specific organization preference, he also
+they typically cover daily life but do not include experiences in small subjourneys that
 
-applied weights to different areas to get an overall EX index relative to employee
+influence EX. This element needs to be gathered using another method. Soren Smit
+
+recommends using the same approach as used in Customer Experience by using

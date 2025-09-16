@@ -1,7 +1,9 @@
-## psychology. Educational Studies, 2, 1–11.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 01c89b7a35d35f0bed5e5a5caecdcf5afe2f2d34
+title: untitled
+---
+# Chicago: University of Chicago Press.
 
-Stern, W. (1911). The supernormal child: II. Journal of Educational
-
-Psychology, 2, 181–190.
-
-Symonds, P. M. (Ed.). (1942). [Special issue]. Journal of Consulting
+Slater, R. (1980). The organizational origins of public school

@@ -1,1 +1,21 @@
-# greedy decoding.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: b6b2c6e796fd0f8aeecd7acc58fe7e938d60a2e8
+title: prompt
+---
+# Top-K and top-P
+
+Top-K and top-P (also known as nucleus sampling)4 are two sampling se(cid:459)ings used in LLMs
+
+to restrict the predicted next token to come from tokens with the top predicted probabilities.
+
+Like temperature, these sampling se(cid:459)ings control the randomness and diversity of
+
+generated text.
+
+- Top-K sampling selects the top K most likely tokens from the model’s predicted
+
+distribution. The higher top-K, the more creative and varied the model’s output; the
+
+lower top-K, the more restive and factual the model’s output. A top-K of 1 is equivalent to

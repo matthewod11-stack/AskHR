@@ -1,11 +1,37 @@
-# Characteristics
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: cc66e3fe40f9bdf87cd1b6cbc47dac215c04f9a7
+title: document_resume
+---
+# Performance Appraisal
 
-staistical measures.14 Extremely good results halve been obtained with training pro- grams designed to build observational skills and reduce such common problems as halo effect, first impressions, patterns of leniency and strictness, recency, and similar errors.'5 Raters must fully understand the critical importance of the interpersonal aspects of performance appraisal. They must develop skills in feedback, praise, con- structive criticism, and listening. Raters also must be sensitive to the situations and conditions faced by individuals. Finally, raters must develop skills for identifying, describing, and negotiating performance expectations.
+lost every cases Job analysis should be conduct,-%1 when duties are reasonably stable so that conditions will be comparable to those which will exist when the performance appraisal instrument is used.
 
-- 10. Administration. The most basic requirement is that
+Performance Criteria. While traits such as initiative, enthusiasm, attitude, and loyalty are important to job performance, most often they are not suitable as performance criteria.61 It is better to develop criteria which describe observable job behaviors or outcomes. Even when the possession of a trait can be shown as critical for effective job performance, it is usually possible to design an observable measurement based on how job duties actually are performed.
 
-the performance appraisal process should support the system's goals, conflicting multiple uses should be avoided. The system could be cost effective. Expenses should be balanced against the post appraisal impact on motivation and productivity.'6 Performance appraisal admin- istration must ensure that the people who are being rated understand the mechanics, including such issues as performance expectations, how ratings on vanous criteria will be weighted, and who will actually conduct the appraisal. Finally, it is very important that performance appraisal be conducted by raters who have directed and continually observed job performance.17
+4.
 
-- 11. Privacy and Due Process. The Federal Privacy Act of 1973 created the Privacy Protection Study Committee (PPSC), which issued a series of recommendations in 1977. Among these was the suggestion that employees should have access to all records relating to their qualifications for employment, promotion, and pay increases and to records relating to discipline and discharge. Many professional groups have recommended voluntary compliance with these recommendations. Moreover, indi- vidual access to records builds confidence in the system's basic fairness, provides an additional means of communicating results, and protects the individual's rights.18. Adverse performance ratings can lead to denial of merit pay and promotions in some cases, dismissal. Due process refers to a systematic, orderly procedure where an indi- vidual has the opportunity to object and be heard.I9 Employee rights in this area are still evolving; however, courts increasingly are requiring employers to jastify their actions.20 Legal questions aside, organizations due process is a good management practice. A formal appeal process should be established to provide an impartial review of ratings that are disputed.
+Appraisal Instruments. The various instruments should facilitate the admin- istration of performance appraisal under standardized and controlled conditions.8 Instruments should be designed carefully to accommodate both the criteria and method. If several criteria or scales are to be combined, the instrument should produce a com- posite rating based on the rules of combination!) Appropriate identification, comments, and signatory sections should be included.
 
-- 12. Audits. Performance ratings should be analyzed periodically for evidence of discrepancies and adverse impact. Statistical tests do not prove that raters are making errors or showing bias. However, properly designed analyses can highlight certain patterns that might not be found merely by reviewing a list of ratings. When such patterns appear, management should determine the cause and, if necessary, correct the problem--particularly when members of protected groups such as blacks and females receive significantly lower ratings. In the final analysis, the effectiveness and legal defensibility of a performance appraisal system will depend on its legitima,y as a tool for making employment deci- sions. The success of any system depends on its effective administration by all levels of management. A common failure of performance appraisal systems is the assumption
+5.
+
+Reliability and Validity. To achieve the organization's purpose of accurately measuring performance and to satisfy legal requirements, the appraisal system must be valid; it must measure what it purports to measure. First, however, the system must be reliable. The ratings must yield stable and consistent results from one period to the next and across all items.'°. Reliability and validity studies should be conducted to meet technical standards of the "Uniform Guidelines on Employee Selection Procedures" and documented in a written reporin
+
+6.
+
+Testing the System. Prior to implementation of performance appraisal, a review should be conducted to ensure that the process selected supports overall objec- tives and will provide the needed information flew to such decision areas as compensa- tion, placement, and professional development. In many cases it may be necessary to conduct a pilot or "shakedown" test of the system to identify and address problem areas and work out procedural matters.12
+
+7.
+
+Communication of Policy and Purpose. The purpose and uses of perfor- mance appraisal should be stated clearly in the organizational policy as well as in the employee or faculty handbook. Procedures should be developed to cover which systems will be used for which jobs or job families, how often appraisals are to be con- ducted, documentation required, recourse, and similar matters. Fully informing all individuals of policies will minimize uncertainty and resistance and will increase the probability of positive results.13
+
+8.
+
+Rater Training. In many organizations, the task of observing and measuring job performance is poorly carried out. Research has indicated that rater training is more important than design considerations in improving accuracy of performance appraisal. Training programs should focus on improving rater skills in observing, recording, and appraising behavior with less emphasis given to such issues as rating distributions and
+
+9.
+
+I
+
+CJ

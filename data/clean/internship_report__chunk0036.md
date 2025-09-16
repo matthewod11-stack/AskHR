@@ -1,5 +1,9 @@
-# Chapter 2
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 4891abfba4d7d3f3584c4a95ca5e4b83134a7483
+title: internship_report
+---
+# Introduction
 
-12.(cid:32) Overview of Karnaphuli Group 13.(cid:32) About Karnaphuli Group 14.(cid:32) Mission& Vision 15.(cid:32) Theme and Driving Force 16.(cid:32) The Business Slogan 17.(cid:32) Values 18.(cid:32) Range and Scope of Activities 19.(cid:32) Sister Concerns and Associates of Karnaphuli Group 20.(cid:32) Corporate Social Responsibility (CSR) 21.(cid:32) Organizational Hierarchy of Karnaphuli Group
-
-6 6 6 7 7 7 8 8 9 10
+2 2 3 3 4 4

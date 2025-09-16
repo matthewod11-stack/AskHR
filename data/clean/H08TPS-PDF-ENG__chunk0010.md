@@ -1,13 +1,43 @@
-# labor market conditions.
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe6161928653e65150e8206c6f1c1d0111905ab0
+title: H08TPS-PDF-ENG
+---
+## HBR / Digital Article / New Research on How Layoffs Affect the Labor Market
 
-We ﬁnd that job destruction has substantial negative spillover eﬀects.
+But here’s the rub: recessions induce many business leaders, across a
 
-When a worker is laid oﬀ in a local labor market with a one percentage
+broad array of geographies and industries, to simultaneously conclude
 
-point higher rate of job destruction, they earn an estimated $4,200 less
+that it is a prudent time to cut employment. With so many laid-
 
-over the following six years than laid-oﬀ employees where there was a
+oﬀ workers desperate to ﬁnd a new job, even healthy ﬁrms may
 
-lower rate of job destruction. Our ﬁndings suggest that each layoﬀ that
+struggle to adjust their business plans to accommodate new employees.
 
-an individual business makes during an economic downturn leads to a
+Unemployed workers, in turn, may be forced to endure a prolonged
+
+spell of joblessness that weakens their skills and attachment to the labor
+
+force. As a result, individually rational decision-making by companies can produce ineﬃcient collective outcomes in the market.
+
+We examined the signiﬁcance of these spillover eﬀects to better
+
+understand what might be done to prevent such rapid deterioration of
+
+labor markets. To do this, we used comprehensive administrative data
+
+from the U.S. Census Bureau on workers’ quarterly employment status
+
+and labor earnings between 1994 and 2020. We studied the variation
+
+in the employment cuts by large national ﬁrms that operate in many
+
+diﬀerent geographic markets and which tend to make company-wide
+
+layoﬀ decisions based on factors, like credit, that are unrelated to the
+
+conditions in any one local market. The large employment share of
+
+these ﬁrms means that their workforce decisions are key drivers of local

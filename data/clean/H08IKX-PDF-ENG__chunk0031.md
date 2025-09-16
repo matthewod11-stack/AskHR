@@ -1,21 +1,13 @@
-# in India.
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b714e40a71bf6164fe50b2e3acb64988811a6881
+title: H08IKX-PDF-ENG
+---
+# Managing Complex Problems
 
-In 2015, Nestlé faced a crisis when some state regulatory bodies reported
+For a closer look at how to deal with a complex crisis, we propose six
 
-that Maggi Noodles, which accounted for 30% of the company’s sales
+steps to guide leaders through them. To illustrate how leaders can use
 
-in the country, contained elevated levels of lead and monosodium
-
-glutamate (MSG). Although Nestlé’s own tests showed that its product
-
-was safe, conﬂicting results from various government labs and an
-
-increasingly sensationalist media environment quickly escalated the
-
-problem into a national controversy. To navigate this complex crisis,
-
-which at one point threatened not just Maggi, but Nestlé’s entire
-
-India business, its leaders had to reach beyond their familiar solutions
-
-and embrace a strategic, principle-driven approach that allowed for
+these steps, we turn to the example of Nestle’s crisis over Maggi Noodles

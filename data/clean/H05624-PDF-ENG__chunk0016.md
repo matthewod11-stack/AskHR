@@ -1,13 +1,29 @@
-# with our children.
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5f3a11ec763dd605b4ec1b8fcb9502f68371f8e
+title: H05624-PDF-ENG
+---
+## HBR / The Big Idea / Every Employee Should Have Access to Paid Parental Leave
 
-So I hope the surprise starts to go away. I want to see men taking their
+cover to people in the rest of the organization, so they can take time
 
-responsibilities as fathers seriously in my companies. I want us all to
+oﬀ without thinking it will hurt their careers. Instead, it lets them know
 
-have the conﬁdence to say, “I’m leaving early today to pick up my kid.”
+it will be the best decision they’ll ever make. I think social media has
 
-No one could look at my history and accuse me of not being a hard-
+helped to normalize this. Men being proud to be dads is as old as
 
-charging and career-driven entrepreneur. But I really, really believe that
+time, but historically it’s a thing we didn’t always talk about. That’s
 
-these things are not mutually exclusive. And I think this shift is good for
+changing. This generation is more able to be vocal and open. A good
+
+example is the “Dad Reﬂexes“ subreddit, which hundreds of thousands
+
+of people are on every day, sharing and watching videos of things like
+
+a kid almost falling oﬀ a sofa and the father catching him without his
+
+partner even realizing it happened. We now have ways to share these
+
+little vignettes of dads protecting, playing with, feeding, spending time

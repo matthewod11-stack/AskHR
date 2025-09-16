@@ -1,9 +1,9 @@
-## a review and integration. J. Manag. 40:316–46
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 404194b0d5f79d0bcc6e60d31afcc22092628948
+title: arop1noe_245_275
+---
+## human capital. Hum. Resour. Manag. Rev. 22:152–56
 
-Salas E, Tannenbaum SI, Kraiger K, Smith-Jentsch K. 2012. The science of training and development in
-
-organizations: what matters in practice. Psychol. Sci. Public Interest 13:74–101
-
-www.annualreviews.org (cid:1) Learning in Today’s Workplace
-
-275
+Nyberg AJ, Moliterno TP, Hale D, Lepak DP. 2014. Resource-based perspectives on unit-level human capital:

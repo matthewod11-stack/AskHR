@@ -1,25 +1,21 @@
-# team’s success.
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eca9e958061ae584eeb949c383e11b1ee5434f5f
+title: S24054-PDF-ENG
+---
+## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
 
-In our third game of the year, against Syracuse, Drew threw a long
+a top prospect named Drew Hensen. The coaches were adamant that
 
-touchdown pass to end the second quarter. At halftime the coaches
+he would play, and I began to doubt whether they wanted me to be
 
-chose Drew to play the entire second half while I watched from the
+the starter. Our coach decided that an alternating rotation, which rarely
 
-sideline. It felt like a gut punch. We won the game, and Michigan has an
+happens in football, was the way our team would go forward. We split
 
-awesome tradition: In the locker room after a win, the captains stand on
+time at quarterback for most of the year, even though at times I thought
 
-chairs and lead the team in singing the ﬁght song. I was crushed that
+I outplayed Drew. But I refused to sulk or complain—which I had done
 
-I hadn’t played in the second half, but I stood up on that chair and I
-
-screamed those lyrics out as loud as I could. I’m sure people knew I was
-
-disappointed, but I wanted to show everyone that I supported Drew and
-
-the team. I felt like that really endeared me to my teammates. A few
-
-games later, the coach chose me to become the permanent quarterback.
-
-We won the rest of our games, including a dramatic overtime win in my
+my share of when I was younger—because I wanted to be focused on the

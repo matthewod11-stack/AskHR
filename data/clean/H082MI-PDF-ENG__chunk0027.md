@@ -1,9 +1,15 @@
-## and connection with employees across the company. Cross-functional
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c2c7a142ccafae026de1f1219db20bbaec28300
+title: H082MI-PDF-ENG
+---
+## HBR / Digital Article / Fighting Loneliness on Remote Teams
 
-projects, where employees take on tasks outside of their area of
+others, you invite diverse perspectives and questions that can help
 
-expertise, is another popular method of career development that can
+reﬁne and challenge your ideas and rationales.
 
-be done remotely. Take caution, though, to be sure these projects aren’t
+A monthly virtual “lunch and learn” is another great way to create
 
-added on top of already heavy workloads.
+exposure for other roles and deepen your remote team’s appreciation for

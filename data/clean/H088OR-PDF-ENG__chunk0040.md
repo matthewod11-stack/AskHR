@@ -1,9 +1,23 @@
-## Mike Tolliver is the Director of Product Management at Vyopta.
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89057f375213beaafbd69ea2be1935f533bbec91
+title: H088OR-PDF-ENG
+---
+# meeting.
 
-Jonathan Sass, Vice President of Product and Marketing at Vyopta, focuses on creating solutions to help organizations deliver best- in-class collaboration and communication experiences for their employees and customers while optimizing their technology and real estate investments. He has a BS in Applied Physics from Bethel University and an MBA from the Harvard Business School.
+After initiating the program, the data showed clear improvements.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Meetings got smaller (from an average of 6.7 participants to 6.3), shorter
 
-11
+by several minutes, and camera enablement rates increased by over two
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+percent. The result was higher quality collaboration, and the eﬃciency
+
+gains saved employees an average of 21 minutes each week.
+
+A theme we frequently heard from organizational leaders was that without intentional eﬀort, meeting culture will gravitate toward ineﬃciency. For those willing to invest that eﬀort, a data-driven
+
+approach is critical for success.
+
+This article was originally published online on June 17, 2024.

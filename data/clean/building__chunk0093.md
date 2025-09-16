@@ -1,3 +1,9 @@
-# Stage 3: Build for production
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: e45c6270c787a6de9ef3e4154490be999e6ee7b2
+title: building
+---
+## Taylor McCaslin, Group Manager, Product - Data Science AI/ML, Gitlab
 
-Now that you’ve identified the best use case and settled on a model it’s time to build something real. Moving to production means thinking through all the details that will help your Claude implementation run reliably and scale smoothly. Whether you’re building customer-facing features or internal tools, let’s look at what it takes to get your use case production-ready.
+19

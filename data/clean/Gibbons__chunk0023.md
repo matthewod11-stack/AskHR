@@ -1,22 +1,31 @@
-### **[2. From predictable pathways to perpetual adaptation]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: 3c8b2b0eb4cb42a14e2d72a5746c08bfeda09ef8
+title: Gibbons
+---
+### **[1. From answer-giver to question-master]{.underline}**
 
-[Remember when you could predict what skills would matter in a
-decade?]{.underline}
+[For generations, leaders rose by having the answers. The boss knew
+best. Experience meant expertise. Knowledge was power.]{.underline}
 
-[Exponential change has killed predictability. AI capabilities are
-doubling while human development remains linear. The skills you\'re
-building today might be obsolete before you master them. The strategy
-you\'re implementing might be irrelevant before it\'s complete. The
-future isn\'t just uncertain---it\'s fundamentally
-unknowable.]{.underline}
+[But now, AI systems can process more information in an hour than you
+can in a lifetime. They can identify patterns you\'ll never see,
+calculate probabilities you can\'t fathom, and generate solutions you
+wouldn\'t imagine. So where does that leave you?]{.underline}
 
-[This demands a new kind of leadership: one that thrives on
-discontinuity rather than stability. Leaders must now build resilience
-when disruption is the norm, create stability through values rather than
-processes, focus on building skills with a long 'half life', and embrace
-\"strong opinions, loosely held\" as an operating
-philosophy.]{.underline}
+[It leaves you with something AI systems don't have: the ability to ask
+the questions that matter. Not \"What\'s the answer?\" but \"What should
+we be solving for?\" Not \"What does the data say?\" but \"What does
+this mean for human beings?\" Not \"How do we optimize?\" but \"Should
+we do this at all?\"]{.underline}
 
-[The paradox? You must move faster while being more thoughtful. Act
-decisively while staying adaptable. Commit fully while being ready to
-pivot instantly.]{.underline}
+[The new leadership premium isn\'t on knowing --- it\'s on judgment,
+wisdom, and critical thinking. It\'s on building organizations that
+question rather than just execute. Because in a world where AI provides
+infinite answers, the scarcest resource becomes asking the right
+questions. Critical thinking --- the ability to analyze, evaluate, and
+challenge assumptions --- becomes more valuable than any technical
+skill. Leaders must model and cultivate this deeper thinking, teaching
+their teams to interrogate AI\'s outputs rather than accept them
+blindly.]{.underline}

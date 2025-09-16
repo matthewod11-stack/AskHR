@@ -1,9 +1,23 @@
-# degree network.
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76e68ca2fe07c631cd0a2a55716cf8b3f51cbf11
+title: H08LQ5-PDF-ENG
+---
+# Are Seasons the Future?
 
-Will organizations get on board and recognize similar beneﬁts, such
+Today, Melissa and Chas’s stories are the exception. But having a season
 
-as boosting retention? Corporate culture will be the deciding factor. If
+of stepping back is both possible and beneﬁcial for all parties, aiding in
 
-taking a step back for a limited time is seen as an option only for those
+everything from burnout prevention to learning and development. My
 
-with less ambition, or if it is held up as evidence against high-potential
+case studies and research also reveal that a wide range of individuals
+
+can beneﬁt from a dynamic allocation of their time across work,
+
+relationships, personal growth, and community. In doing so, life becomes richer — and diﬀerent areas of life can positively reinforce one
+
+another. For example, having a side hustle can boost job performance
+
+and you can gain an inﬂux of innovative ideas from a diverse, second-

@@ -1,5 +1,9 @@
-## cultural metrics like psychological safety and inclusion.
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f932d888e2a9b92525e566b95287ee98178d456
+title: H08PPX-PDF-ENG
+---
+## a leadership team that mirrors those demographics. Organizations
 
-DEI metrics must also align with an organization’s core values. For
-
-example, Ben & Jerry’s has identiﬁed “human rights & dignity” and
+interested in driving innovation and collaboration might integrate

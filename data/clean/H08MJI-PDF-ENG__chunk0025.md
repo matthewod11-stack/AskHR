@@ -1,7 +1,9 @@
-# progress and roadblocks.
+---
+source_path: H08MJI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84e227d70864dfed59170278e52f8bd82889adfa
+title: H08MJI-PDF-ENG
+---
+# task.
 
-- Micromanage the outcome. Delegate with the understanding that 80%
-
-done by someone else is inﬁnitely better than 100% done solely by you.
-
-This article was originally published online on March 3, 2025.
+- Hover. Instead, check in strategically with focused questions about

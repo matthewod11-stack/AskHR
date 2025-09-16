@@ -1,23 +1,13 @@
-## HBR / Digital Article / An International Travel Checklist for U.S. Employers
+---
+source_path: H08SRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24d5496a8defbf6fa7c10167e5a40c84cda30610
+title: H08SRL-PDF-ENG
+---
+# prepare for border screening.
 
-Some companies might be reluctant to share this kind of information,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-worried about causing panic. But there are real risks—like employees
+4
 
-having their phones seized and inspected, Goeschl says. It’s important
-
-to prepare, and bear in mind that the situation is evolving.
-
-Devise contingency plans for policy shifts affecting travel
-
-Many companies routinely bring in their top leaders from around the
-
-world for internal meetings in the U.S. But if those employees suddenly
-
-can’t get into the country, you’ll need a Plan B.
-
-“Smaller meetings are easier to relocate, but certain meetings and
-
-conferences—just based on the scale, the number of visitors, number
-
-of hotel rooms needed, and logistics—are relatively hard to repot,” says
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

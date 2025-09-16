@@ -1,11 +1,7 @@
-# Klaus Vedfelt/Getty Images
-
-Research shows that it takes a long time to build interpersonal trust
-
-in organizations. When people from different groups come together
-
-to cross-collaborate on important strategic challenges, there will be
-
-low trust between the individuals who haven’t worked together before.
-
-The same is true when a startup brings in new executives to help
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67675ef302d4870622bda04ff9f1dc17325fd467
+title: H071B9-PDF-ENG
+---
+## Published on HBR.org / May 09, 2022 / Reprint H071B9

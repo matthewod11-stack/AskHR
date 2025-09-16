@@ -1,13 +1,19 @@
-## their careers in economically uncertain environments.
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03d1e4ec7d315e54224356aacbf6ecdef2fbe13f
+title: H08R2D-PDF-ENG
+---
+# success.
 
-For example, Mondelēz International’s internal talent marketplace,
+Beyond talent pipelines, stable companies can also foster long-term
 
-Match & Grow, enables employees to take on short-term projects beyond
+engagement by reimagining the employee value proposition—for
 
-their usual roles or functions, gaining exposure to new experiences and
+example, by highlighting perks such as opportunities for horizontal
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+rather than vertical mobility and focusing on job security, enabled by
 
-7
+the reduced volatility of a low-growth strategy. This approach may be
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+particularly appealing to younger workers, many of whom have spent

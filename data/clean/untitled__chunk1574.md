@@ -1,11 +1,19 @@
-## ences. Palo Alto, CA: Stanford University.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8f22029714506de747b485a9eec7c2897e3602f3
+title: untitled
+---
+## the concept. New York: New York University Press.
 
-Marecek, J. (2001). Disorderly constructs: Feminist frameworks for clinical psychology. In R. Unger (Ed.), Handbook of the psychology of women and gender (pp. 303–316). New York: Wiley.
+Landrine, H. (1995). Bringing cultural diversity to feminist psychol- ogy: Theory, research, and practice. Washington, DC: American Psychological Association.
 
-Marecek, J., Fine, M., & Kidder, L. H. (1997). Working between worlds: Qualitative methods and social psychology. Journal of Social Issues, 53, 29–44.
+Lerman, H. (1976). What happens in feminist therapy? In S. Cox (Ed.), Female psychology: The emerging self. Chicago: Science Research Associates.
 
-McClelland, D. C., Atkinson, J. W., Clark, R. A., & Lowell, E. L. (1953). The achievement motive. East Norwalk, CT: Appleton- Century-Crofts.
+Lerner, H. G. (1988). Women in therapy. New York: Harper & Row.
 
-McHugh, M. D., Koeske, R. D., & Frieze, I. H. (1986). Issues to consider in conducting nonsexist psychological research: A guide for researchers. American Psychologist, 41, 879–890.
+Lykes, M. B. (1989). Dialogue with Guatemalan Indian women: Critical perspectives on constructing collaborative research. In
 
-McLean, C., Carey, M., & White, C. (1996). Men’s ways of being.
+R. Unger (Ed.), Representations: Social constructions of gender (pp. 167–185). Amityville, NY: Baywood.
+
+Maccoby, E. E., & Jacklin, C. (1974). The psychology of sex differ-

@@ -1,3 +1,9 @@
-# Author: Violetta Khoreva
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 12e5484aaca048b784c014fb165362bf5129f1fd
+title: file_1
+---
+# APPENDIX 2
 
-Abstract: in spite of the fact that equal opportunities for men and women have been a priority in many countries, the inequality between them has not disappeared. Studies have focused on the causes of gender inequality. However, in addition to objective sources of gender inequality, there is also a subjective dimension which concerns how people with different backgrounds perceive overall gender inequality. To address this issue, I develop a conceptual model of factors hypothesized to influence individuals’ perceptions of overall gender inequality grounded in social psychology theories. The model is tested applying the data from the Finnish Gender Equality Barometer 2008, which investigates the experiences and attitudes of individuals in matters concerning gender inequality. The empirical analysis individuals’ gender and occupational categorization are considerable reveals that determinants of their perceptions of overall gender inequality. In addition, the results show that both employed and retired people perceive overall gender inequality to a greater extent than students.
+Individuals’ perceptions of overall gender inequality: Lessons from Finland

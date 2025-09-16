@@ -1,15 +1,7 @@
-# Good Excellent
-
-4
-
-5
-
-- 1. Knowledge
-
-- 2. Initiative
-
-- 3. Cooperation
-
-- 4. Dependability
-
-- 5. Adaptability
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4c9b80965b4ac08d8b8556541b9381d6782bb9cf
+title: document_resume
+---
+# Average 3

@@ -1,9 +1,15 @@
-## and act as vital links to domestic and international markets.
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8158241cb9d800f70ed26777c0c0ce26e9f2c9db
+title: H088ND-PDF-ENG
+---
+# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
 
-A notable example is Starbucks, which has pinpointed Asia as a
+Moreover, incorporating Asian perspectives at the board level
 
-key growth market. To support their expansion in this vital region,
+can signiﬁcantly enhance a company’s market strategy. Just as
 
-Starbucks appointed as a Board member Wei Zhang, a former senior
+technological or domain-speciﬁc expertise is valued, companies can
 
-Alibaba executive who brings deep expertise in both global technology
+proﬁt from Asian board members who bring relevant market insights

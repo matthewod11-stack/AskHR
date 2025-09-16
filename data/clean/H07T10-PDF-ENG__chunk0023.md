@@ -1,13 +1,9 @@
-# conversations with recruits:
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f62a3c47e95df5abf8a481b12750f9940727cde
+title: H07T10-PDF-ENG
+---
+## Conducting the Flip Interview: A Four-Step Process
 
-- 1. Framing
-
-Brieﬂy describe a scenario. State upfront you are the source of
-
-information for the scenario and ask the interviewee to drive the
-
-next 8-12 minutes with a straightforward “How would you start this
-
-discovery?” When they inevitably get stuck, prompt them with a branch
-
-of the decision tree that opens the discovery further. Invite them to ask
+Use the following framework to maximize the value of your

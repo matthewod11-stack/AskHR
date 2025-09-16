@@ -1,7 +1,9 @@
-## Gilgen, A. R., & Gilgen, C. K. (Eds.). (1987). International hand-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 987e2bf00ec16649b217d04c3a338a61f4cc590e
+title: untitled
+---
+## Gielen, U. P., & Bredenkamp, J. (1997). Editorial. World Psychol-
 
-book of psychology. Westport, CT: Greenwood Press.
-
-Graumann, C. F. (1997). Psychology in postwar Germany: The vi- cissitudes of internationalization. World Psychology, 3, 253–277.
-
-Hanscom, K. L. (2001). Teaching survivors of war trauma and tor-
+ogy, 3, 247–252.

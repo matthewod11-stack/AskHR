@@ -1,9 +1,11 @@
-# BR
+---
+source_path: H048KW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e38151ac98f589faba2cf20353e723dac706cf2
+title: H048KW-PDF-ENG
+---
+# HBR / Digital Article / When You Need to Take Time Off Work for Mental Health Reaso…
 
-Barbara Ricci is a senior advisor in behavioral health at the University of Pennsylvania’s Center for High Impact Philanthropy in the School of Social Policy & Practice. She is also a board member at the National Alliance on Mental Illness (NAMI) and a former managing director at two global banks (UBS and Deutsche Bank).
+would talk about physical health, sends a powerful message that it’s OK to
 
-Copyright © 2018 Harvard Business School Publishing Corporation. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+get help.

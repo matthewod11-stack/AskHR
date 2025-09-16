@@ -1,7 +1,9 @@
-## The Beginnings of the New Profession of Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5d46ddbdbfe03ad1998270042d0058d144166610
+title: untitled
+---
+## THE BEGINNINGS OF THE NEW PROFESSION OF PSYCHOLOGY
 
-was only a small step to move from applied research to establish a role for psychologists as consultants employed outside the university.
-
-The beginning of the twentieth century in America was marked by great social upheaval. American cities were grow- ing rapidly and with them the factories that were the home of the new urban labor. Immigrants came to America in even greater numbers, seeking a better life. Child labor laws and compulsory school attendance laws were passed in tandem to prevent abuses of children in the workplace but also to pro- vide an education needed for an urban workforce and to impart the values of American society important to the melt- ing pot of fully acculturated citizens. There were movements for a national reform in education and for the right to vote for women. As manufacturing capacity exceeded demand, busi- nesses looked beyond their regions to a national consumer base. Advertising became more important to create those broader markets. The types of jobs available expanded con- siderably as America moved from a largely agrarian/rural society to a factory/urban one; consequently, people sought more information about jobs leading to a new focus— arguably a more scientiﬁc one—on adjustment.
-
-The changes in America at the turn of the century virtually clamored for an applied social science to solve the problems of the new society. And, there were psychologists both inside and outside of university settings who were ready to tackle those problems. We will next examine some of the early prac- tical applications of psychology in business, in counseling, in education, and in clinical settings.
+It is doubtful that psychologists at the end of the nineteenth century envisioned anything like the profession of psychol- ogy that would exist in the 1930s much less the profession of today. Yet the earliest of American psychologists, such as William James (1842–1910), G. Stanley Hall, and James McKeen Cattell, clearly recognized the potential contribu- tions of psychology through applied research. It, perhaps,

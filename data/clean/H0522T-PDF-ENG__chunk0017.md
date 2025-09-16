@@ -1,13 +1,19 @@
-# harassment.
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e0c8d7955858ff9474c570ecac2477f23330b17
+title: H0522T-PDF-ENG
+---
+## HBR / Digital Article / Has Sexual Harassment at Work Decreased Since #MeToo?
 
-Organizations should also pay attention to gender harassment,
+harassment. One woman said, “I think that it’s more and more
 
-including bullying and sexist comments about women. One woman told
+common for people to say something when they see something, or feel
 
-us she believes that women who have been empowered by #MeToo
+uncomfortable….The bigger issue isn’t somebody saying something in
 
-to call out inappropriate behavior have faced more hostility among
+the ﬁrst place; it’s the response from an employer when they learn
 
-coworkers. It is important that organizations are aware of this, as
+that one of their employees is sexually harassing another.” Managers
 
-constant exposure to gender harassment can be just as damaging to
+can also ensure that women and men feel safe to speak up about

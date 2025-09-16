@@ -1,19 +1,13 @@
-## Lexington, MA: Circadian Technologies, Inc.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f0adb94d3f1c6b7eaa1c43350f8f8e31154c477d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Boston, MA: Allyn & Bacon.
 
-Clark, M. M. (2001). More companies oﬀ ering ﬂ extime: Are
+Cialdini, R. B., Borden, R., Th orne, A., Walker, M., Freeman, S.,
 
-scheduling options ﬂ exible enough? HR News, 20(6), 1–10.
+& Sloane, L. T. (1976). Basking in reﬂ ected glory: Th ree (football) ﬁ eld studies. Journal of Personality and Social Psychology, 34, 366–375.
 
-Clark, M. M. (2004). While some employees see no incentive for EEOC mediation, others ﬁ nd beneﬁ ts. HR Magazine, 49(1), 36.
-
-Clark, R. E. (1961). Th e limiting hand skin temperature for
-
-unaﬀ ected manual performance in the cold. Natick, MA: Quartermaster Research and Engineering Command, Technical Rep. EP-147.
-
-Clause, C. S., Mullins, M. E., Nee, R., Pulakos, E. D., & Schmitt, N. (1998). Strictly parallel test forms: A development procedure and example. Personnel Psychology, 51(1), 193–208.
-
-Clements, C., Wagner, R. J., & Roland, C. C. (1995). Th e ins and outs of experiential training. Training & Development, 49(2), 52–56.
-
-Clevenger, J., Pereira, G. M., Wiechmann, D., Schmitt, N., & Harvey, V. S. (2001). Incremental validity of situational judgment tests. Journal of Applied Psychology, 86(3), 410–417.
-
-Cochran, A., Kopitzke, K., & Miller, D. (1984). Relationship between interviewer personality and interior oﬃ ce characteristics. Paper presented at the 5th annual Graduate Student Conference in Industrial/Organizational Psychology and Organizational Behavior, Norfolk, VA.
+Circadian Technologies (2002). 2002 shiftwork practices survey.

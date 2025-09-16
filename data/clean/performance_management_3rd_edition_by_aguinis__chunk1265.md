@@ -1,17 +1,21 @@
-## Chapter 7 • Implementing a Performance Management System 171
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: f27a5cf22ef4905e064f9441ac1b5d5ada9ef0f3
+title: performance_management_3rd_edition_by_aguinis
+---
+# 7.2 COMMUNICATION PLAN
 
-Consider the performance management system for the position of Senior Executive Service (SES) in the U.S. Department of Justice.3 SES members serve in key leadership positions directly below the top presidential appointees. SES members link the appointees to the rest of the federal government, and they are charged with overseeing various governmental activities in 75 federal agencies.
+In general, having more and better knowledge of the performance management system leads to greater employee acceptance and satisfaction.1 Organizations often design a communication plan to ensure that information regarding the performance management system is widely disseminated in the organization. Agood communication plan answers the following questions:2
 
-The communication plan that the Department of Justice implemented for this performance management system is described in a document divided into three chapters: Chapter 1, “General Information,” Chapter 2, “Performance Appraisal for the Senior Executive Service,” and Chapter 3, “Actions Based on Less Than Fully Successful Performance.” This is how their plan answered each of the questions discussed in the previous list:
+- What is performance management? Answering this question involves providing general information about performance management, how performance manage- ment systems are implemented in other organizations, and the general goals of performance management systems.
 
-- What is performance management? Chapter 1 states the reasons for the depart- ment’s implementing a performance management system and discusses what it is expected to accomplish. For example, the chapter notes that performance manage- ment aims at promoting efficient and effective attainment of the department’s mission, program objectives, and strategic planning initiatives, and it also aims at motivating high levels of achievement and accountability. This chapter also includes definitions of several key terms, including performance management system, performance, progress review, rating levels, and annual summary rating.
+- How does performance management fit into our strategy? To answer this question, we should provide information on the relationship between performance management and strategic planning. Specifically, information is provided on how the performance management system will help accomplish strategic goals.
 
-- How does performance management fit into our strategy? Chapter 2 begins with a list of principles that guide the system, including, “The Department of Justice federal leaders and managers create a climate for excellence by communicating their vision, values and expectations clearly.” It goes on to detail all of the ways in which leaders in the agency do this. In addition, in a memorandum that was sent with the chapters, the director of the Office of Personnel Management (OPM) included this quote from President George W. Bush: “We are not here to mark time, but to make progress, to achieve results, and to leave a record of excellence.” The director then describes how the system would be used to implement the key principles of the president’s administration.
+- What’s in it for me? A good communication plan describes the benefits of imple- menting performance management for all those involved.
 
-- What’s in it for me? Throughout the memo, there is clear information on how the performance management system will help the SES members be more effective leaders so that the president’s mission can be achieved.
+- How does it work? Answering this question entails giving a detailed description of the performance management process and time line: for example, when meetings will take place, what the purposes of each meeting are, and when decisions about rewards will be made.
 
-- How does it work? Chapter 2outlines the steps in a performance management process, detailing the managers’ responsibilities at each step. For example, it outlines the performance dimensions, the rating categories, and how to assign an overall rating. • What are my responsibilities? The communication plan outlines the responsibilities of the SES members as well as their rating official, or the person in charge of rating their performance. The plan emphasizes that leaders must create a culture performing at a high level by continually communicating expectations and rewarding high- achieving performers.
+- What are my responsibilities? The communication plan should include information on the role and responsibilities of each person involved at each stage of the process. For example, it includes a description of the employees’ and supervisors’ main responsibilities in the performance management process.
 
-- How is performance management related to other initiatives? The communication plan touches briefly on the importance of linking system outcomes to performance-based pay. The importance of training to maximize performance is also considered.
-
-In summary, the communication plan implemented by the Department of Justice is extremely detailed and provides answers to most, if not all, of the key questions that should be addressed by a good plan. However, even if a communication plan answers
+- How is performance management related to other initiatives? The communication plan should include information on the relationship between performance management and other initiatives and systems such as training, promotion, and succession planning.

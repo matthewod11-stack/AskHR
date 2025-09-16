@@ -1,9 +1,25 @@
-# Next Steps
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f52c88260faee74fe6bcf233d76ed40cce220af6
+title: H08VFN-PDF-ENG
+---
+# display helplessness or shame.
 
-Leadership skills are strengthened through practice. That practice can
+To ensure that training is student-centered, cadre should remember:
 
-take place during simulated failure exercises. (Two exercises a year is
+although the exercise’s immediate purpose is to challenge students,
 
-an eﬀective tempo for most organizations.) But it can also be organic to
+its ultimate purpose is to create leaders. When a student produces
 
-the workday. To engage in workday practice, managers should monitor
+a plan that contradicts what cadre would have done, cadre should
+
+resist the urge to criticize or correct the student. Instead, cadre should
+
+disinterestedly consider whether the plan is feasible. If it is, cadre
+
+should congratulate the student for doing something smart that they
+
+wouldn’t have done. This technique fosters leaders, because leadership
+
+is, at root, acting intelligently—and independently.

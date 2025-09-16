@@ -1,33 +1,15 @@
-## Essential Functions I: Under direct supervision and in a learning capacity:
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 2f7a4d802d796da1e010c351e9683757d741e58f
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+## Essential Functions of Counselini: Technician 1/11:
 
-- Learns and keeps informed of eligibility requirements for JTPA programs ;
+The essential functions of the job, counseling technician , will be used as a basis
 
-- Interviews applicants for JTPA services to determine their job and training needs ;
+for this part of the plan, which is designed to propose key performance objectives that
 
-- Assists in filling out forms;
+employees and management can use to evaluate employee performance. The following
 
-- Explains eligibility rules;
-
-- Completes intake forms;
-
-- Screens applicants for knowledge , aptitude, interest and barriers to employment ;
-
-- Administers and scores tests;
-
-- Appraises client suitability for various JTP A programs ;
-
-- Informs clients of available training programs ;
-
-- Conducts classroom training sessions on pre-employment & work maturity skills
-
-29
-
-Level II: Under supervision: In addition to above :
-
-- Refers clients as appropriate to other community service agencies ;
-
-- Provides program information to the public in person or over the telephone ;
-
-- Maintains records and files ;
-
-- Works with difficult cases requiring more complex needs assessment , counseling
+are the essential job functions for counselors in the Intake and Assessment Unit at ETR:

@@ -1,3 +1,11 @@
-# New Directions: Dependent Variables
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: fa08d91e87311e2d322309a11259da24de633205
+title: barrickryan_eds_personality_and_work
+---
+# 294 PERSONALITY AND WORK
 
-We make many choices when building models and conducting re- search. An especially important set of choices involves the outcome variables, that is, the dependent or criterion variables in our mod- els. The relationships between personality variables and a wide va- riety of criteria have been examined. Most of our research and hence knowledge relates to individual-level performance variables,
+(Hough, 1992). Rather than demonstrating that agreeableness is not a determinant of performance, the Borman et al. (1995) study demonstrates that ratee agreeableness is not a factor in inﬂuenc- ing subjective ratings of overall performance made by peers or su- pervisors of several military jobs. If, instead of military jobs, civilian jobs involving signiﬁcant customer contact had been studied, agreeableness might have been a causal factor in determining over- all performance (Frei & McDaniel, 1998; Hurtz & Donovan, 2000; Mount, Barrick, & Stewart, 1998). If instead of overall perfor- mance, teamwork had been the outcome variable, ratee agree- ableness might have been a causal factor in determining soldier performance (Hough, 1992; Mount et al., 1998; Neuman & Wright, 1999), especially since it was a garrisoned force. Our theories, and hence our models, need to be more speciﬁc yet more integrative in terms of causal and outcome variables.
+
+More Speciﬁc Models Theories with more speciﬁc independent, dependent, and inter- vening variables, type and form of the relationships, and situational variables that moderate or deﬁne the limits of generalizability are needed. A step in the right direction is Motowidlo, Borman, and Schmit’s framework (1997) for a theory of individual differences in task and contextual performance. Although they do not specify the precise variables and relationships, they do describe in general the kinds of variables and their roles in determining two types of per- formance. Similarly, Robertson and Callinan (1998) provide a frame- work for a theory of speciﬁc determinants of performance that incorporates genetic and perceptual factors as well. These frame- works provide useful guides to future theory building and research.

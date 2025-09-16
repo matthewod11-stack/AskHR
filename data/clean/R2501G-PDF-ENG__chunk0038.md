@@ -1,7 +1,13 @@
-## embrace more-eﬃcient, hypothesis-driven innovation practices that
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b60dda8f89b32e136cb438fa2cb3f209bfe24055
+title: R2501G-PDF-ENG
+---
+## HBR / Magazine Article / Want Your Company to Get Better at Experimentation?
 
-build on prior tests to inform future ones. Experimentation programs
+refer to such eﬀorts as experimentation programs. This shift is the
 
-also encourage product teams to break complex ideas down into small,
+key to unlocking signiﬁcant additional value from experimentation.
 
-testable hypotheses, making it easier to adapt the direction of a product
+When experiments are considered in this way, an organization can

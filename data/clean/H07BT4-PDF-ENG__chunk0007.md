@@ -1,11 +1,11 @@
-# Seller Drive Isn’t The Issue
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f25fbaa2f86b046eebd091239e4404422cd44fa
+title: H07BT4-PDF-ENG
+---
+# compensation, recognition, and reward.
 
-Through our research, we were surprised to learn that motivation
+The problem is, nearly six in 10 sellers describe the leadership of their
 
-toward work is not the problem.
-
-In fact, 76% of sellers report high levels of motivation toward work,
-
-or what we call drive. Sellers experiencing drive are mentally engaged,
-
-ready to take action, and persistent in the face of obstacles. Drive is
+sales organization as not understanding what “really” motivates sellers.

@@ -1,11 +1,9 @@
-# but internalized and acted upon.
+---
+source_path: H07VJW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1c288ef7c795c8011ca3dcbae397f70386153e5
+title: H07VJW-PDF-ENG
+---
+## By using “What, So What, Now What,” you can navigate various
 
-This article was originally published online on January 04, 2024.
-
-Matt Abrahams is a lecturer in organizational behavior at Stanford Graduate School of Business. He hosts Think Fast, Talk Smart: The Podcast and is the author of Think Faster, Talk Smarter: How to Speak Successfully When You’re Put on the Spot.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+communication situations, ensuring that your message is not just heard

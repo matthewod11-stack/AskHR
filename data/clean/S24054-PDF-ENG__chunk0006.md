@@ -1,19 +1,13 @@
-## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23e65ad6f2062cc7bc478d21081fd40c53af5a0a
+title: S24054-PDF-ENG
+---
+# passionate about both.
 
-I’ve always tried to be an ideal teammate. Much of my approach
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-came from being born into an amazing family and having a strong
+2
 
-upbringing, and this orientation deepened when I was in high school
-
-and college. Playing football at the University of Michigan, we had a
-
-team-centric philosophy that became central to who I am today. There’s
-
-an old saying in sports: Do you want to be a star, or do you want to
-
-be a champion? At Michigan, I was focused on our team goals—on
-
-winning games and championships for our school, and on being a great
-
-teammate rather than achieving individual goals. That attitude stayed
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

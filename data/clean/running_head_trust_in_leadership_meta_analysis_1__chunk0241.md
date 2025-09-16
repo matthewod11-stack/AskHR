@@ -1,13 +1,9 @@
-## leadership. Academy of Management Journal, 23, 451-465.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: df9342791619a48f2d2ccacfe8e7b3caa86a49d0
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Decision Processes, 117, 41-52.
 
-Liden, R. C., & Maslyn, J. M. (1998). Multidimensionality of leader-member exchange: An
-
-empirical assessment through scale development. Journal of Management, 24, 43-72.
-
-Liden, R. C., Wayne, S. J., Meuser, J. D., Hu, J., Wu, J., & Liao, C. (2015). Servant
-
-leadership: Validation of a short form of the SL-28. The Leadership Quarterly, 26,
-
-254-269.
-
-Liden, R. C., Wayne, S. J., Zhao, H., & Henderson, D. (2008). Servant leadership:
+Liden, R. C., & Graen, G. (1980). Generalizability of the vertical dyad linkage model of

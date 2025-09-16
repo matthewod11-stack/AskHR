@@ -1,9 +1,17 @@
-# University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b43ffc8e0682d53eb7034df991aef0a065e80374
+title: untitled
+---
+# (p. 1). Pittsburgh, PA: Author.
 
-Berman, J. S. (1995). From Chicago to Rainbow Bridge: In search of changing woman. In E. F. Williams (Ed.), Voices of feminist ther- apy (pp. 11–24). Luxembourg, Belgium: Harwood Academic.
+Becker, D. (1997). Through the looking glass: Women and Border-
 
-Bernstein, M. D., & Russo, N. F. (1974). The history of psychology revisited: Or, up with our foremothers. American Psychologist, 29, 130–134.
+line Personality Disorder. Boulder, CO: Westview Press.
 
-Bloom, C., Gitter, A., Gutwill, S., Kogel, L., & Zaphiropoulos, L. (1994). Eating problems: A feminist psychoanalytic treatment model. New York: Basic Books.
+Belle, D. (1994). Attempting to comprehend the lives of low-income women. In C. E. Franz & A. J. Stewart (Eds.), Women creating lives: Identities, resilience, and resistance (pp. 37–50). Boulder, CO: Westview Press.
 
-Bohan, J. S. (1993). Regarding gender: Essentialism, construction- ism, and feminist psychology. Psychology of Women Quarterly, 17, 5–21.
+Bem, S. L. (1974). The measurement of psychological androgyny. Journal of Consulting and Clinical Psychology, 42, 155–162.
+
+Bem, S. L. (1993). The lenses of gender. New Haven, CT: Yale

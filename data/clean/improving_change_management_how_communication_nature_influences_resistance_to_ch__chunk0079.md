@@ -1,31 +1,23 @@
-# visionary and excellent communicator.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 22d27028b44d6567ddf17e9354735b8dcb225135
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+## collection (DA SMA) and also at March 2011 (DA MA11).
 
-In terms of the environment of support and trust that must exist for dialogue to succeed
+Previous to the acquisition, vice-presidents for instance would usually took
 
-(Empathy) it is clear this was largely facilitated by the informal atmosphere that already
+decisions separately and announce them to the rest of the organization, characterizing
 
-existed in Organization X before the acquisition. Right after the acquisition this was not
+that participants of a dialogue were engaged after the decision-making (Propinquity),
 
-higher due to the unknown interlocutors and the uncertainty that prevailed in the
+and that was gradually altered by the new management model, reflecting later in the
 
-context.The same can explain the Input level, that is, change initiatives were open to
+growth of this item evaluation. The great charismatic style of the former president is an
 
-change as they were implemented, as the following example:
+iconic example of how Mutuality was different under his leadership, in terms of his of
 
-“…In construction stage we were involving more and more people. I wished they
+unquestioned power. As previously stated by respondents, not that it was generating a
 
-could talk. First I needed to know the background; I needed to master the sales
-
-managers and needed to measure the reactions(C).Then it was deliberate and
-
-left them talk. But I always did interventions because, "this point has created a
-
-controversy here ... You remember the date of such meeting, we have a record,
-
-and look what you have told us there ... Never mind, if we come to the conclusion
-
-that this should be changed it will be changed ...(P). And what I want to make
-
-clear is that this item was built like that by your observations (M).If we come to
-
-the conclusion that today it is better to change, no problem. We change” (P).
+bad climate, on the contrary, people were very pleased to count on a fair leader,

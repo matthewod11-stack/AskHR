@@ -1,3 +1,7 @@
-## Job Satisfaction and Engagement: Key Drivers of Workplace Well-being
-
-Job satisfaction and engagement are critical components of a healthy and productive work environment. Employees who are satisfied with their jobs and engaged in their work tend to be
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 392dba9a6902f6e3b6cf4718740b4550efd6f6b3
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# DISCUSSION

@@ -1,11 +1,17 @@
-## Why Human Connection Matters as Much as the Bottom Line
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f3a3ecad92918b2e53eb4baa45ca46528ca5d36
+title: H07CM6-PDF-ENG
+---
+## HBR / Digital Article / To Coach Leaders, Ask the Right Questions
 
-Many corporate leaders I’ve worked with have limited access to their
+Lucas, for example, found that his perspective shifted when he stepped
 
-hearts — meaning sensitivity to their own feelings and emotional needs,
+back from the swirl of his conﬂicting thoughts, and listened more
 
-and empathy for the feelings and needs of others. This is especially
+closely to the intelligence of his body. That meant paying more
 
-true of leaders who are motivated primarily by external rewards such as
+attention to his deeper intuition rather than relying solely on his mind,
 
-money, power, and recognition, which are the predominant signiﬁers of
+which could rationalize almost any choice he made.

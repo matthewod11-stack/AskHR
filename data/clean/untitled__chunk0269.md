@@ -1,5 +1,7 @@
-# Harcourt Brace.
-
-Porter, N. (1868). The human intellect. New York: Scribner.
-
-Posner, M. I., & Raichle, M. E. (1994). Images of mind. New York:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b6be2379bb974a6547b61f8317b2cb652223b043
+title: untitled
+---
+## Piaget, J. (1929). The child’s conception of the world. New York:

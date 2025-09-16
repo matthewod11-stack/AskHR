@@ -1,5 +1,9 @@
-## Openness to Experience (Big Five Predictor Variable)
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: defe4e660a3657874a3e6a0f5cd9631d34b76f32
+title: barrickryan_eds_personality_and_work
+---
+# 300 PERSONALITY AND WORK
 
-This variable will play an increasingly important role in explaining behavior in a world of work characterized by diversity and rapid change. However, as currently deﬁned, it is too amorphous and het- erogeneous. The conceptual underpinning of the Openness to Ex- perience factor includes components such as culture, inquiring intellect, intellectance (intelligent, perceptive, knowledgeable, ana- lytical), absorption (capacity for absorbed and self-altering atten- tion), regression in service of the ego, emotional sensitivity, aesthetic interests, liberalism, independence, independent judgment, intel- lectual ﬂexibility, emotional ﬂexibility, depth and intensity of atten- tion, scope of awareness, tender-mindedness, imagination, sensation seeking, rebelliousness, nonconforming, unusual thought pro- cesses, and preference for complexity (McCrae & Costa, 1997a). An example of the confusion surrounding the Openness construct is present even in the gold standard of Big Five personality inven- tories, the Revised NEO Personality Inventory (NEO PI-R; Costa & McCrae, 1992). The NEO facet excitement seeking, thought by some to be a part of Openness, is instead a part of the NEO Ex- traversion scale. In the NEO PI-R, Openness consists of six facets— fantasy, aesthetics, feelings, actions, ideas, and values—with a subscale to measure each.
-
-Although Openness to Experience is the most controversial and debatable of the ﬁve Big Five factors (Digman, 1990), it is an important construct. However, it is too heterogeneous for com- municating ﬁndings effectively. Many of the components and facets correlate differently with criteria; many undoubtedly play differ- ent types of roles in explaining behavior. A theme of openness is apparent in several of the components of Openness; nonetheless, some of the components are likely to warrant status as separate constructs. Our models of performance will improve when the nomological nets (construct validity) of the components of Open- ness to Experience have been better explicated.
+Big Five factors and their facets. This structure can help integrate our research with compound variables into bodies of knowledge, thereby enhancing understanding of personality variables and their many roles in work settings. A “back to the future” scenario must be avoided.

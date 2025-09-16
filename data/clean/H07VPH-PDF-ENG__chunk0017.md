@@ -1,19 +1,29 @@
-## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45619c70defb738c2b50970afc6a65c3176234e5
+title: H07VPH-PDF-ENG
+---
+# independently.
 
-As a lab scientist without any direct experience working with a CEO,
+- 3. Consider your career stage.
 
-Miriam unwittingly adopted a CEO persona. “I am a scientist by
+Are you starting your career, at your peak, or counting the days until
 
-training,” she told me. “So, founding a company was a big leap for me.
+retirement? We expect a new employee to listen and learn and an
 
-As the CEO of a start-up, I knew I owned the decisions. I felt I needed to
+experienced one to lead the team, but that’s not always the case.
 
-move quickly and decisively because that’s what CEOs do.”
+Sometimes if you’re new at the job, you may feel pressure to prove
 
-- 4. Adopt other people’s perspectives.
+yourself. And a senior employee may feel comfortable stepping back
 
-Who are the other stakeholders in the decision-making process and
+and letting more junior staﬀ take charge. Thinking about your career
 
-what is their relationship to you? Are you trying to make your boss look
+stage can help you understand your decision-making behavior.
 
-good or does the outcome of this decision primarily impact your own
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

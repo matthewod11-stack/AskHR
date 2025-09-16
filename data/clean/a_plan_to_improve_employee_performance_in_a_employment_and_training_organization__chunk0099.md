@@ -1,11 +1,13 @@
-# for improvement as well.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 0750fd25ab3ef79fd300020e04899515c58713ea
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+## d. Review the draft of the Performance Evaluation form with the
 
-e. Close the evaluation when all key areas have been covered and the
+employee. Discuss the employee 's strengths first, which will set a positive
 
-employee has been given the opportunity to provide feedback and input.
+tone for the meeting ; Discuss areas of needed improvement and ask the
 
-Also, present the employee with an opportunity to come in at any time to
-
-discuss performance issues and show interest in the employee 's progress.
-
-- 4) During the performance evaluation the recommended areas should be covered:
+employee how he or she can improve performance. Then introduce ideas

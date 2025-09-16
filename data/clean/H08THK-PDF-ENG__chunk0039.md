@@ -1,9 +1,13 @@
-# HBR / Digital Article / Our Favorite Management Tips on Communicating Like a Leader
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de81b664343e312e7740b324aac22237595985ae
+title: H08THK-PDF-ENG
+---
+# ultimately, persuasive.
 
-- Emphasize your mission. Shine a spotlight on your company’s
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-purpose across communication channels: meetings, memos, emails,
+7
 
-presentations, social media, and marketing material. If your mission
-
-stands for something, then stand up for it.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

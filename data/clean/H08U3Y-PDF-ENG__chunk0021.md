@@ -1,15 +1,13 @@
-# of action.
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d79d4e3dd04bc302c281cff57d99cbfd7d016bf
+title: H08U3Y-PDF-ENG
+---
+# visualization with feedback.
 
-- Consensus: Engaging stakeholders in a shared, facilitated decision-
+- Prediction: Identifying needs and simulating the impact of alternative
 
-making process to reach a uniﬁed vision of the future.
+interventions by evaluating thousands of “what-if” scenarios.
 
-Here’s how these functions played out in the process of working with
-
-residents and planners in Hamburg to move the needle forward.
-
-The ﬁrst step involved gathering as much data as possible.
-
-CityScope drew on data about housing and zoning laws, but
-
-also economic development, purchasing patterns, city-wide events
+- Transformation: Iterating possible interventions into validated paths

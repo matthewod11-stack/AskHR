@@ -1,7 +1,9 @@
-# traction]
+---
+source_path: H07RKN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 921fdff554abaf919936601a2398e1a21951b8d8
+title: H07RKN-PDF-ENG
+---
+## So that… [connects to a meaningful, relevant goal for the listener]
 
-And that’s not all… [demonstrates potential, additional future
-
-opportunities]
-
-Let’s look at an example of how this structure might be used in a
+For example… [makes things concrete and demonstrates existing

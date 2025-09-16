@@ -1,11 +1,29 @@
-# than exhausts.
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9921fb2551aa25f0a675eed33b4a5447b3c107a7
+title: H08OIO-PDF-ENG
+---
+# a culture of accountability and focus.
 
-This article was originally published online on April 4, 2025.
+. . .
 
-Graham Kenny is the CEO of Strategic Factors and author of Strategy Discovery. He is a recognized expert in strategy and performance measurement who helps managers, executives, and boards create successful organizations in the private, public, and not-for-proﬁt sectors. He has been a professor of management in universities in the U.S. and Canada.
+In an uncertain business environment, many organizations fall into
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the trap of adopting reactive strategies under the mistaken impression
 
-5
+that the more initiatives, the more chances of success. But as you’ve
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+seen, unchecked proliferation of strategic priorities carries a heavy
+
+cost: strategy fatigue can stealthily sap your organization’s strength,
+
+eroding employee engagement and blunting performance. You can
+
+avoid this outcome and restore your organization’s energy and purpose
+
+by applying judicious ﬁlters to new strategy initiatives. Your employees
+
+will thank you with renewed engagement. And your business will reap
+
+the rewards of considered and deliberate strategy that inspires rather

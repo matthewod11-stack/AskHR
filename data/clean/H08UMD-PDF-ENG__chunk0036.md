@@ -1,9 +1,21 @@
-## email oﬀers of incentives with an apology for a trivial mistake. But
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12f52b80a74abd275bd4077f46a9696b776b4865
+title: H08UMD-PDF-ENG
+---
+# HBR / Digital Article / Research Roundup: Humility at the Top, Motivating Your Staff, R…
 
-they should be careful about the nature of the slip-ups they disclose.
+Across the four studies, the researchers determined that when
 
-Apologizing for signiﬁcant mistakes doesn’t improve perceived warmth
+companies express regret for minor errors, it makes customers feel
 
-and can reduce perceived competence, leading to negative attitudes
+more positively toward them. It increases the perceived warmth of
 
-toward a company, the authors write.
+the company without making it seem less competent. However, if a
+
+company is already seen as very warm, apologizing for small mistakes
+
+doesn’t have as much impact.
+
+The researchers suggest it may be beneﬁcial for companies to precede

@@ -1,15 +1,27 @@
-## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f21fce4b684e642b1bbde2e37819900270d8a7c1
+title: H07ZZW-PDF-ENG
+---
+# Mariaelena Caputi
 
-on issues and to take concrete action on environmental and social issues
+Recently I asked my MBA students whether they believed employers
 
-— and sometimes they demand it. In 2022, for example, thousands
+should be making public statements on the tragic events occurring in
 
-of Salesforce employees signed an open letter urging co-CEOs Marc
+Israel and Gaza. One said he was “appalled” at the thought, but most
 
-Benioﬀ and Bret Taylor to stop doing business with the National Riﬂe
+took for granted that companies would speak out. Few even remember a
 
-Association. “It’s not in our power to get background checks or other
+time when companies avoided the political limelight.
 
-gun control measures passed by Congress,” it explicitly argued, “but
+Employees, particularly young ones, want employers to provide much
 
-we can eﬀect change by ending our commercial relationship with our
+more than a paycheck. They expect companies to oﬀer public advocacy
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,19 @@
-# relationships.
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: f4ce0193398a82ec65dc6f82fb8eae67896c244c
+title: S24051-PDF-ENG (1)
+---
+## in the design of our one-on-ones and retrospectives.
 
-As we continue to evolve the WWW operating system, we’ve invested
+When we ask our highest-performing teams what they attribute their
 
-in creating tools to help teams run it. We suggest that companies
+success to, their answer is: building trust in client relationships. This
 
-instituting an operating system do the same. Our teams, for example,
+is what the WWW operating model is meant to facilitate—and we have
 
-can get professional support to facilitate kickoﬀs and retrospectives,
+plenty of evidence that it does. Frequently collecting client feedback,
 
-conduct one-on-ones, and set up protocols for handovers. We’ve also
+conducting client retrospectives, and holding one-on-ones—our teams
 
-created a library of WWW resources that is available to all on our
+listed all these as practices that helped them build trusting client

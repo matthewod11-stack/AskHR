@@ -1,5 +1,7 @@
-# (cid:10)
-
-(cid:26)(cid:10)(cid:2)(cid:4)(cid:7)(cid:2)(cid:4)(cid:3)(cid:8)
-
-1 2 The Purpose of Performance Management 3 A Shift in Emphasis in Performance Appraisals 4 Critiques of Performance Appraisal
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: 9a6ee26f18ee1ebbb4f7dd00e6480c6bece4dd6a
+title: microsoft_word_performance_management_literature_review_doc
+---
+# IES project code: 99993-2281

@@ -1,15 +1,11 @@
-# company.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 4b1c9dcfd083a32b5cbd10f45eb65054dfc1adef
+title: california_state_university_northridge_1
+---
+# In discriminatory
 
-Likewise, when it comes to computers and e-mail systems, companies have been
+cases the courts have the liberty to award compensatory damages, mental anguis~ and
 
-found guilty of discrimination. Citibank, New York City, was sued in federal district court
-
-on February, 14, 1997 for racial discrimination after e-mail messages were intercepted in
-
-,vt.J.ch Citibank n1anagers n1ade racist con]m.ents demearJng to Africa,.~~ A.t~ericariS
-
-(Mullins, 1997). E-mail messages thought to be deleted were retrieved from the hard
-
-42
-
-drive and used in court against Citibank. As previously stated, the term delete does not
+punitive damages can range from $50,000 to $300,000, which is based on the size of the

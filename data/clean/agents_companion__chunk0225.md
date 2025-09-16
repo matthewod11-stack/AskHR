@@ -1,15 +1,33 @@
-# Contract Feedback
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 9419cc5f3ddf401e88b2ba034c809d7db3a55fa2
+title: agents_companion
+---
+# Contract Negotiation
 
-Contracts give a vehicle to provide feedback and in particular resolve ambiguities. As tasks
+One core hypothesis behind contracts in the context of automation agents specifically is that
 
-become more and more complex, it is critical to be able to raise ambiguities or other issues
+many tasks in the enterprise world can draw significant benefit from leveraging the power of
 
-related to the tasks specifications as early as possible. Contractors can give feedback on the
+LLMs when used in a less-constrained manner (latency and cost wise).
 
-contract just after having received the contract (initial contract assessment), and then at a
+Being able to tackle more and more complex tasks and making it possible for customers to
 
-frequency predefined in the contract.
+be able to rely on and trust the results of contractors will ensure real value for companies.
 
-This feedback will contain clarification requests, or other types of feedback about the
+Even that being said, we need to have a notion of relative priority in order to make sure that
 
-underspecification or misspecification of tasks (inconsistencies, conflicting specs,
+tasks are appropriately prioritized as well as resources fairly allocated. We thus introduce a
+
+notion of cost (typically relative per customer or contract initiator) which can be discussed
+
+and negotiated between the contract initiator and the contractor, in order to make sure that
+
+the contract receives the adequate resources relative to the other contracts initiated by the
+
+contract initiator. The contractors can also negotiate other aspects of the contracts, for
+
+example in terms of specification and deliverables (cf. also section below on feedback).
+
+50

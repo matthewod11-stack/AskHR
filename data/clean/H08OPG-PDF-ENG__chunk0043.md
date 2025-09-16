@@ -1,17 +1,15 @@
-## HBR / Digital Article / What Is the Office for Today?
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 593b3b97fef2659c709513d86d0cdafd7e62e758
+title: H08OPG-PDF-ENG
+---
+## physical proximity, voice levels, nuance of expressions, etc. And
 
-organizations increasingly happens through being able to integrate diﬀerent perspectives while evaluating diﬀerent angles of a problem (represented by diﬀerent voices and diﬀerent data streams). Physical
+as we know, complex problem-solving and decision-making in
 
-space has historically had a vital enabling role in these moments,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-at least in tech. Whether known as informal “campﬁre huddles” in
+8
 
-young competition teams, “war rooms” for startups, or “situation
-
-rooms” in more formal technology oﬃces, these types of collaborative
-
-environments set the stage for stakeholders to gather and share
-
-specialized and multidisciplinary data, leading to better group problem-
-
-solving and decision-making.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

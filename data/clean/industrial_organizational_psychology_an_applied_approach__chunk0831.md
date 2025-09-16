@@ -1,15 +1,17 @@
-## Legality of Preferential Hiring and Promotion Plans
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9c6925f802bcb44d872f79ef31a89be0d1b928d9
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Reasons for Aﬃ rmative Action Plans
 
-Recently, the courts have indicated that any form of preferential hiring or pro- motion must undergo a “strict scrutiny analysis,” in which the plan must be nar- rowly tailored and meet a compelling government interest (Gutman, ). The various courts have ruled that achieving diversity in such settings as a univer- sity ( Grutter v. Bollinger, ) and a police department (Petit v. City of Chicago, ) are compelling government interests.
+Organizations have affirmative action plans for one of four reasons, two of which are involuntary and two voluntary (Robinson, Allen, & Abraham, ).
 
-If the plan does not meet a compelling government interest, it is illegal. If it does meet a compelling government interest, as shown in Figure ., the courts use five criteria to “strictly scrutinize” the extent to which an affirmative action plan involving preferential hiring is narrowly tailored. It is always legal to monitor employment statistics, actively recruit minorities, and remove bar- riers discouraging women and minorities from being hired or staying with an organization.
+Involuntary: Government Regulation Most affirmative action requirements are the result of Presidential Executive Order . This order, as well as sections of several laws, requires federal con- tractors and subcontractors with more than  employees to submit an annual EEO- Report and requires federal contractors and subcontractors with contracts in excess of $, to have formal affirmative action plans. Most state and local governments also have such requirements, although the number of employees and dollar amounts of contracts will differ. These mandatory affirmative action plans typically involve analyses of all major job categories and indicate which cat- egories have underrepresentations of the protected classes, as well as goals and plans for overcoming such underrepresentations.
 
-legal issues in employee selection
+Involuntary: Court Order When a court finds a public agency such as a police or fire department guilty of not hiring or promoting enough members of a protected class, it can order the agency to begin an affirmative action program. As previously discussed, this pro- gram may involve increased recruitment efforts or may entail specific hiring or promotion goals.
 
-101
+Voluntary: Consent Decree If a discrimination complaint has been filed with a court, a public agency can “voluntarily” agree to an affirmative action plan rather than have a plan forced on it by the court. With a consent decree, the agency agrees that it has not hired or promoted enough members of a protected class and is willing to make changes. The specific nature of these changes is agreed upon by the group filing the com- plaint and the agency that is the subject of the complaint. This agreement is then approved and monitored by the court.
 
-Figure 3.4 Determining the legality of an affi rmative action plan
-
-102
-
-chapter 
+Voluntary: Desire to Be a Good Citizen Rather than wait for a discrimination complaint, some organizations develop affirmative action programs out of a desire to be good citizens. That is, they want to voluntarily ensure that their employment practices are fair to all groups of people.

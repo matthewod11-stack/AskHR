@@ -1,5 +1,9 @@
-## plaints. London: Simpkin, Marshall & Cole.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c63571769f2151cc4045edbabd9284c08f986191
+title: untitled
+---
+## Review of Neurology and Psychiatry, 8, 259–271.
 
-Murray, E. J., & Berkun, M. M. (1955). Displacement as a function of conﬂict. Journal of Abnormal and Social Psychology, 51, 47–56.
-
-Nasrallah, H. A. (Ed.). (1991). Handbook of schizophrenia
+Moseley, E. (1838). Eleven chapters on nervous and mental com-

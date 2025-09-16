@@ -1,11 +1,21 @@
-# policy areas.
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f2887126be9ae91eff0ef4e3a9bef670f7c9372
+title: H08MS4-PDF-ENG
+---
+# communication.
 
-Such a document could serve as a touchstone for organizational leaders
+Document your organization’s approach to DEI in writing.
 
-when implementing existing DEI policies or designing new ones.
+An internal charter or similar document could set out why the
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+organization supports DEI, how it deﬁnes the letters of that acronym,
 
-6
+and how that commitment inﬂuences its practices relating to outreach,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+recruitment, onboarding, retention, and promotion. The charter could
+
+also explain what the organization does and doesn’t approve with
+
+respect to data collection, diversity targets, diversity training, and other

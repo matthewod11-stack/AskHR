@@ -1,19 +1,49 @@
-## their managers more often than just during the performance-review
+---
+source_path: H07ZOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00f8a4857a0cbe55219450117acf6fd05fb4b88e
+title: H07ZOW-PDF-ENG
+---
+## HBR / Digital Article / 5 Reasons People Get Laid Off
 
-period. Once you receive feedback, continually work on improving, and
+In times of organizational changes or restructuring, being visible can
 
-check back in with your manager to see whether they agree that your
+help mitigate the risk of being overlooked or underestimated.
 
-performance has improved.
+Your visibility can act as a form of job security by ensuring decision
 
-- 5. Offshoring and automation
+makers are aware of your capabilities and impact. Having visibility at
 
-The automation or oﬀshore relocation of speciﬁc jobs is determined
+all levels in an organization can help you create a strong network of
 
-based on strategic, economic, and operational costs as well as
+colleagues and senior leaders who can vouch for your contributions and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+accomplishments. It could also show leaders you can succeed if plugged
 
-4
+into any position. If decision makers have a clear understanding of your
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+skills, achievements, and contributions, they’re more likely to view your
+
+position as essential to the success of the company, or they may see you
+
+as the person to combine teams under when other roles are eliminated.
+
+- 4. Lack of performance
+
+When companies need to cut their budgets, they’ll likely try to eliminate
+
+those who are considered non-performers. Where more than one person
+
+is doing a particular job, layoﬀs provide managers a ripe opportunity to
+
+cut low performers without having to do the hard work of giving them
+
+more feedback or putting them on a performance improvement plan.
+
+Employees must realize their manager’s perception means everything.
+
+So even if you think you’re doing a great job, if your manager doesn’t
+
+agree, you could be deemed a poor performer and be on the chopping
+
+block. Therefore, employees need to proactively request feedback from

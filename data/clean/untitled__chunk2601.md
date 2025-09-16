@@ -1,7 +1,9 @@
-# strations.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d4e5d8cd6e6d798ae72b8dab54b34658e5a571f8
+title: untitled
+---
+## Professor Lord. Aparallel course is given by Dr. Thorndike at Teachers College.
 
-Professors Butler, Cattell, Boas, Starr, and Hyslop, Drs. Far- rand and Thorndike, and Mr. Strong.
-
-The object of this course is to give a summary view of the subject-matter and methods of modern psychology. The ground covered is as follows:
-
-A. Prolegomena to psychology, including a sketch of the history
+- 1. Introduction to psychology. 2 hours, lectures and demon-

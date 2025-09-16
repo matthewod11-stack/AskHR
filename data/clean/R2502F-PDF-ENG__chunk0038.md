@@ -1,11 +1,25 @@
-## the odds of misunderstanding and miscommunication.
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1762a99ac9d8a877819b5a5d7167da94078a327a
+title: R2502F-PDF-ENG
+---
+## team. Deviations from the desired behaviors or necessary updates to the
 
-If adapting to another culture’s ritual appeals to you, then go ahead and
+document were also discussed. This ritual allowed each negotiator to
 
-enjoy the experience, but beware of the implications and the cognitive
+connect with and feel appreciated by the other team, while explicitly carving out time to discuss their relationship-building eﬀorts and
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+direction. It helped set a positive, collaborative tone, which became
 
-12
+the foundation for mutual understanding—without team members’
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+needing to become experts in each other’s cultural practices.
+
+In any cross-cultural negotiation, it is important for teams to have
+
+ongoing conversations about their shared rituals and behavior. Skipping
+
+or phasing out these conversations usually results in negotiators from
+
+each side defaulting to their preferred ways of operating and increases

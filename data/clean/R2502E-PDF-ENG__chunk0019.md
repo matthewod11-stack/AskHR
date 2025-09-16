@@ -1,27 +1,17 @@
-## out through external sources, such as media outlets or websites like
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85fc96101881279dac99d1aa527d84534840d360
+title: R2502E-PDF-ENG
+---
+## HBR / Magazine Article / How Women Can Win in the Workplace
 
-Glassdoor and Indeed. You can ask questions like these: What are the
+The question, of course, is how to identify companies that actually
 
-core values of the company, and how do leaders walk the talk each day?
+possess these traits. The most obvious places to start are company
 
-How many hours a year (or what percentage of time) are employees
+websites and the information that companies’ HR departments make
 
-encouraged to invest in their personal learning? How does that learning
+available. It’s always a good idea to talk to people who work in the
 
-actually happen, and what company support and resources are there
-
-to ensure that it happens? What is the promotion structure? How
-
-high is employee turnover? What percentage of employees make
-
-cross-functional moves within the organization? What kinds of formal
-
-sponsorship and mentorship programs exist?
-
-When interviewing for a job, never forget that it’s a two-way process:
-
-The people at a company may be interviewing you, but you’re also
-
-interviewing them. Outside the interview process, seek every possible
-
-opportunity to speak to current and former employees. Find out about
+organizations and to compare what they tell you with what you ﬁnd

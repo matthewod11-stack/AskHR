@@ -1,25 +1,31 @@
-# HBR / Digital Article / Making Mental Health Programs Work at Multinational Compan…
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c33dd09ee04fd7cd776c0c5ed3f2e0a95439b031
+title: H08NVC-PDF-ENG
+---
+## express themselves and their emotions in a comfortable way, this
 
-could speak more freely about the anxieties in their roles, and better
+organization created close-door, small-group activities for these leaders
 
-cope with them without directly talking about burnout or being forced
+to meet and share, as opposed to open-invitation company-wide events
 
-to sit through a lecture of theories on stress.
+and talks commonly used by many multinationals to save cost. In
 
-Similarly, a global bank’s Northern China oﬃce found a creative way to
+small groups, the leaders were encouraged to reﬂect on the challenges
 
-engage its local executives in mental health practices. They focused on a common challenge faced by the leaders: parenting. The oﬃce organized
+managing the organization, using art materials such as plasticine or toy
 
-a series of workshop for leaders on how to speak with their children
+bricks to make a structure that represented their sentiments. They then
 
-about emotions as part of the program design. As they practiced with
+shared what they had built with each other. Through the practice, these
 
-their children, the barriers to expressing themselves lowered. The
+senior leaders were able to “see” their emotional experiences through
 
-executives started to check in with their peers and their team members
+the object they had built. Feeling less threatened or confronted, they
 
-without feeling that doing so would make them any less of a “strong
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-leader.” These conversations built a sense of camaraderie, more open
+5
 
-dialogue between leaders and their employees, and allowed HR to tune
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

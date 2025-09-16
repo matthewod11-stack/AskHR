@@ -1,11 +1,31 @@
-# Establish roles and a timeline.
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb06089a5e6862e908847312662eef315de72e7f
+title: H089EG-PDF-ENG
+---
+# as the project lead.”
 
-Having clearly deﬁned roles is often where I see clients get stuck.
+Give your team member time to process the information.
 
-If you’re delegating a project, for example, you’ll likely want to give
+Next, follow up with a question like, “What are your thoughts on this
 
-your team member a timeline of goals to reach and check in on them
+project? What else would be helpful for me to share with you?” Then
 
-regularly to track their progress. At the same time, you don’t want your
+pause and let your team member have the ﬂoor. They may have some
 
-direct report to feel micromanaged. That’s why it’s helpful to deﬁne
+initial questions around the scope of the project or task, or wonder how
+
+it will ﬁt into their current workload. As the manager, it’s your job to
+
+help them reprioritize their to-do list and ensure they have enough time
+
+on their plate to successfully do this work.
+
+Be mindful not to characterize the work you’re delegating as “easy”
+
+or say, “It will only take a few hours.” Though you may feel tempted
+
+minimize to the eﬀort required, you may unintentionally minimize your
+
+expectations by doing so.

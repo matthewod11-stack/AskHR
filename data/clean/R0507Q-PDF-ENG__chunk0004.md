@@ -1,31 +1,15 @@
-## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca671ab3faef8ebf34857aee37bc581c91f0309a
+title: R0507Q-PDF-ENG
+---
+## ﬁnancial accounting measures like return on investment and earnings
 
-and innovation—activities today’s competitive environment demands.
+per share can give misleading signals for continuous improvement
 
-The traditional ﬁnancial performance measures worked well for the
+Copyright © 2005 Harvard Business School Publishing. All rights reserved.
 
-industrial era, but they are out of step with the skills and competencies
+1
 
-companies are trying to master today.
-
-As managers and academic researchers have tried to remedy the
-
-inadequacies of current performance measurement systems, some have
-
-focused on making ﬁnancial measures more relevant. Others have
-
-said, “Forget the ﬁnancial measures; improve operational measures
-
-like cycle time and defect rates. The ﬁnancial results will follow.” But
-
-managers should not have to choose between ﬁnancial and operational
-
-measures. In observing and working with many companies, we have
-
-found that senior executives do not rely on one set of measures to the
-
-exclusion of the other. They realize that no single measure can provide
-
-a clear performance target or focus attention on the critical areas of the
-
-business. Managers want a balanced presentation of both ﬁnancial and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

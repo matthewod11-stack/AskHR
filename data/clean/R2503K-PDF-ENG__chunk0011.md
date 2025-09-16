@@ -1,31 +1,39 @@
-# engagement.
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6bbf94815268ef6a0b5efc5b3fbbfd314043d3a
+title: R2503K-PDF-ENG
+---
+## thrive when their leader outlines clear processes and deadlines, and
 
-Yet the majority of the global workforce has grown up in collectivist
+they struggle to be productive in environments that lack directive
 
-environments, where you speak up only when invited to do so—and
+leadership. The degree to which individuals want to make decisions on
 
-even then, you’re taught to defer to those more senior. You make
+their own, oﬀer recommendations, and chart their own development
 
-decisions based on what’s best for your extended family and the other
+paths varies widely depending on whether they have an individualist
 
-social groups of which you’re a part. Being told to set your own goals
+or collectivist orientation. Dutch psychologist Geert Hofstede found
 
-and solve your challenges independently can feel disorienting and
+that employees from individualist cultures expected to be consulted in
 
-demotivating. A McDonald’s executive once told me that the company
+decision-making while those from collectivist cultures preferred leaders
 
-learned this lesson in India when its Employee of the Month program
+to make decisions on behalf of the group. INSEAD’s Erin Meyer adds
 
-failed because no one wanted to be singled out. People who were
+nuance to Hofstede’s ﬁnding, noting that most collectivist leaders don’t
 
-recognized for the award were often teased mercilessly for acting
+explicitly solicit their team members’ input, but they do consider their
 
-superior and were accused of betraying their team and undermining
+perspectives when making decisions.
 
-camaraderie. McDonald’s quietly shifted the program to the Team of the
+Most people value some measure of autonomy, but it’s especially
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+important to individualists. They want a say in decisions, and they
 
-3
+thrive in environments that encourage them to express their diﬀerences
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and creativity. In many Western organizations, proactively voicing
+
+unique ideas is rewarded because it’s believed to signal initiative and

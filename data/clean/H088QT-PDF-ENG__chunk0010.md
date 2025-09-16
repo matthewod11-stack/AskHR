@@ -1,17 +1,19 @@
-## days rather than work-from-home ones for medical appointments or
+---
+source_path: H088QT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cbdb0b4e59c9ce0c6604b22781593fff33531e42
+title: H088QT-PDF-ENG
+---
+# Scheduling
 
-leave, resulting in even less time with colleagues. In short, even though
+Many organizations have settled on a set combination of remote and
 
-employers are doing whatever they can to bring people in — free meals,
+onsite work, such as three in-oﬃce days, say Tuesday to Thursday, and
 
-less restrictive dress codes, social events, and nicer oﬃce spaces — these eﬀorts do not appear to be working.
+two work-from-home days, say Monday and Friday. However, employees
 
-To overcome this challenge, we recommend shifting the focus from how
+don’t always adhere to those guidelines. Indeed, tracking data suggests
 
-often your people should be in the oﬃce to when that physical presence
+that some are not coming in as often as expected (or mandated); consider the trend of “coﬀee badging” where employees put in a brief appearance at the oﬃce but take oﬀ at the earliest opportunity. We’ve
 
-and togetherness is important. For example, when employees are new
-
-to the organization and getting onboarded and trained, it is more
-
-critical for them to come in and connect in person with key colleagues.
+also heard managers express frustration about employees using onsite

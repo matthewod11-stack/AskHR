@@ -1,13 +1,13 @@
-# stretch further.
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95a236698e91c225ec42fb82447dda82834b6ced
+title: S24053-PDF-ENG
+---
+# reviews, for example.
 
-Communicate. Over time, get used to making your goals public, and
+Measure. Regular measurement of the team’s progress will keep the
 
-share mistakes and successes along the way. If you can model this
+journey headed in the right direction. After six to 12 months, survey or
 
-behavior and foster a culture of continuous improvement, other teams
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+interview team members and others again. Then celebrate progress and

@@ -1,7 +1,9 @@
-# 2 Marginal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: db3ef06d7540e7385b895c8f59932a9e04849242
+title: document_resume
+---
+# 3 Acceptable
 
-Reads material available through college in subject areas and in field of education. Holds appropriate master's degree in subject area of instruction.
-
-1 Unacceptable Does little or no independent rea6,ng in subject area or teaching methods. Makes little or no progress toward eliminating noted deficiencies in subject area or in teaching methods and tech- niques.
-
-- 2. Classes and Workshops
+Seeks information in subject areas and keeps updated on latest developments in subject area or in related field. Holds appropri- ate master's degree in current subject area. Makes progress toward one year of advanced study in subject area.

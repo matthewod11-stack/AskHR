@@ -1,37 +1,13 @@
-# Regime. Social Politics, 11, (1), 4-29.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 56e3a53498fb49143b21d45b2e71fd9b30b8a939
+title: file_1
+---
+# 84
 
-7 1
+Verloo, M. and E. Lombardo, 2007. Contested Gender Equality and Policy Variety in Europe:
 
-6 1
+Introducing a Critical Frame Analysis Approach. In M. Verloo, eds, Multiple Meanings of Gender Equality: A Critical Frame Analysis of Gender Policies in Europe. Budapest, New York: CEU Press, 21-49.
 
-5 1
-
-4 1
-
-3 1
-
-2 1
-
-1 1
-
-0 1
-
-9
-
-8
-
-7
-
-6
-
-5
-
-4
-
-3
-
-2
-
-1
-
-.
+Walby, S., 2004. The European Union and Gender Equality: Emergent Varieties in Gender

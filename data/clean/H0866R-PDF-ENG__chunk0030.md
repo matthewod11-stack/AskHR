@@ -1,11 +1,33 @@
-# anyone else in the mix.
+---
+source_path: H0866R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09a683613197937e6ee7cb5825aadabe5b90cde2
+title: H0866R-PDF-ENG
+---
+# the kids.
 
-The goal of this weekly preview is not to create an unnecessary
+To avoid this, identify the trickiest moments in your week and set a
 
-additional burden, but rather to create structure that in fact lightens
+back-up plan. Decide who will be called in when. For example, say, “I
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+have a board meeting Wednesday, so I can be back-up Thursday and
 
-6
+Friday if you can take Monday through Wednesday.” Or, “Wednesday
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+looks really tricky. You’re away and I think I can handle it but if I get an
+
+afternoon meeting added to my calendar I’m going to need to call my
+
+dad in to help. Let’s let him know now.”
+
+. . .
+
+That’s it! Once you’ve completed your preview each week, share your
+
+preview document with all key collaborators — all the people who will
+
+be involved in helping to make this week go to plan. This includes local
+
+grandparents, neighbors, step-parents and nannies. Whether you print
+
+it out, email it, or share the digital doc, the key is to share the plan with

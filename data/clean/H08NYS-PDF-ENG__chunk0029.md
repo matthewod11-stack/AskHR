@@ -1,13 +1,13 @@
-## inadvertently reinforce demographic inequalities.
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48d0bdb0f7dec5e895bbe623f79d054241ef3f9c
+title: H08NYS-PDF-ENG
+---
+# HBR / Digital Article / Research: How Gig Platforms Can Mitigate Racial Bias in Rating…
 
-A simple yet eﬀective approach for platforms is to regularly compare
+these seemingly small biases in evaluations can compound over time—
 
-ratings across demographic groups. To most accurately detect bias and
+shaping future work opportunities and ﬁnancial outcomes—platforms
 
-not quality diﬀerences, platforms should compare ratings for workers
-
-performing similar jobs with comparable experience. Platforms can also
-
-proactively analyze individual customer rating behaviors to identify
-
-customers who consistently rate workers diﬀerently based on worker
+should be vigilant in assessing whether their evaluation process

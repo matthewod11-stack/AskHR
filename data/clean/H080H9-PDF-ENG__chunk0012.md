@@ -1,27 +1,25 @@
-## Survive, Reset, Thrive: Leading Breakthrough Growth Strategy in Volatile
+---
+source_path: H080H9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3358fe3ff3aef27faa54eca4f9948c8788e6482e
+title: H080H9-PDF-ENG
+---
+## with your boss’s abrupt departure, or layoﬀs in your department, or
 
-Times. The goal, she says, is to “make the most out of the changes by
+an unexpected team reorg, it can feel like the ground is shifting.
 
-looking for new opportunities and possibilities.” Here’s how.
+Just because chaos is an unavoidable reality doesn’t mean you have
 
-Give yourself grace. Hectic changes at work can “stir up anxiety, anger,
+to surrender to it, says Erica Roberts, an organizational leadership
 
-and frustration,” says Roberts. Being aﬀected by these dynamics isn’t a
+development consultant and executive career coach. Learning to stay
 
-sign of weakness. “Allow yourself to feel your feelings,” she says. Change
+centered is key. “There’s no stability in the world today,” she says.
 
-can be disorienting, so be gentle with yourself. It’s normal not to feel
+“Change is constant, so rather than fear it, embrace it and adapt to it.”
 
-normal for a while. “When something happens at work, many people —
+Indeed, if you approach the chaos with an open mind and a measure of
 
-especially high performers — think they need to go right back to thrive,”
+resilience, it might even have some upside for your career, says Rebecca
 
-meaning pushing themselves to operate at peak performance, according
-
-to Homkes. “But you need to give yourself permission to be in survival
-
-mode,” at least temporarily. This doesn’t involve “moping around and
-
-feeling sorry for yourself.” Instead, it’s about taking “time to stabilize,”
-
-she says. If you don’t, “how do you explore the right reset for you and
+Homkes, a lecturer at London Business School and author of the book,

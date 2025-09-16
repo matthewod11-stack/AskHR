@@ -1,5 +1,23 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 794173654c30655d65d6070fb2f8eaaeddc76b51
+title: issn_print_0976_013x
+---
+# tion
 
-members, are societies of practice where scholars of various degrees collaborate and co-
+Table 8 provides an overview of TCS and Infosys' mean and standard deviation scores on
 
-create. However, this study found no substantial difference in workplace conformity or
+conformity and experimentation, respectively. There is no significant difference between TCS
+
+and Infosys on both conformity (0.254) and experimentation (0.668) as the P-value > 0.05.
+
+Pozzo et al. (2020) observe that since culture is social, cultural innovation is accessible.
+
+Cultural production should also facilitate technical and administrative innovation. Societies of
+
+practice (Lave and Wegener, 1991) can influence cultural innovation and provide a fertile
+
+setting for testing various indicators. DARIAH's twenty-one working groups, managed by their
+
+59

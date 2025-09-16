@@ -1,7 +1,13 @@
-# Infrequent
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bbdc19e19c4b34df3fd1b6bb71c97636c4e928e5
+title: H0893T-PDF-ENG
+---
+# Formal Mentoring
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The organization pairs mentees with mentors
 
-3
+Women and people of color broaden their networks to include people with power
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+0.1

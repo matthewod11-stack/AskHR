@@ -1,9 +1,21 @@
-# within the organization.
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 00b78568d95e05079d722ccda9b17f0c161e0e40
+title: final_2019_jan_feb_jbs_pmd
+---
+# (ATD Model)
 
-3.2.2 The Skills Journey Shepherd (2017) introduces a skills-based development model for L&D professionals, and explains that a skill has physical, social and cognitive dimensions. There is a great deal of confusion between skills and competencies because their definitions overlap (Kamperman, 2009).
+The best-known example is the ATD competency model (ATD, 2014), formerly American society for Training & Development consisting of generic competencies, and the following job-specific ones:
 
-- Shows empathy in communication with clients, colleagues and others’.
+- Managing learning programs Integrated talent management
 
-Despite their shortcomings, competency models do have a function in individual professional development, and in defining the knowledge required to do the job (Campion, 2011; Stevens, 2012).
+- Coaching ● Knowledge management ● Change management ● Performance improvement
 
-Shepherd’s model consists of three domains, each defining four roles. The skills to be developed for each role are as follows:
+Instructional plan ● Training sessions ● Learning innovation ● Learning sway assessment
+
+Each section specifies what to do, but not how to do it. In the case of performance improvement, this includes identifying the client, carrying out performance, cause and system analysis, collecting data, and other tasks.
+
+- Recognizes clients’ and colleagues’ implicit
+
+expectations. Is able to adapt to the organizational culture. ● Anticipates formal and informal communication

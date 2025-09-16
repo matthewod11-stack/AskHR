@@ -1,9 +1,23 @@
-# HBR / Digital Article / Becoming More Collaborative When Your Impulse Is to Be Territo…
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8617a7d5939e288bc990197add7b0d35c1ebb9ab
+title: H07ZCR-PDF-ENG
+---
+## collaborative approach will ultimately position you for greater success.
 
-Julie Lee, PhD, is a clinical psychologist, NYU faculty, and a leading Gen Z employment and mental health strategist. Dr. Lee’s work spans Fortune 500 companies, startups, and higher education institutions, including Harvard and Brown University. In her consulting work, Dr. Lee helps organizations to motivate and retain Gen Z professionals and coaches executives to lead with purpose and empathy. Connect with her on LinkedIn.
+As Steve Jobs said, “Great things in business are never done by one
+
+person. They’re done by a team of people.”
+
+This article was originally published online on January 25, 2024.
+
+Jenny Fernandez, MBA, is a corporate leadership consultant and executive coach who partners with senior leaders and their teams to become more adaptive, eﬀective, and resilient. She is a faculty member at Columbia University and NYU, a TEDx Speaker, and a Doctoral Candidate at the University of Southern California. You can download her free Personal Branding and Self-Promotion e-book—a practical toolkit designed to empower your teams and enhance their skills—and connect with her on LinkedIn.
+
+Kathryn Landis, MBA, is an executive coach and keynote speaker who teaches executive education at New York University. She helps senior leaders and their teams thrive in high-stakes moments— stepping into new roles, navigating complex change, and aligning on what matters most. You can download her free toolkit, Better Together: Navigating the Multigenerational Workplace, to help you bridge generational divides and lead more focused and eﬀective teams. You can also connect with her on LinkedIn.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-11
+10
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

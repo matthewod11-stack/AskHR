@@ -1,17 +1,31 @@
-# Introduce response data.
+---
+source_path: H06GCB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 82b584be9c08d594b5b7662163e6de5d0c7875cd
+title: H06GCB-PDF-ENG
+---
+## HBR / Digital Article / 7 Strategies to Break Down Silos in Big Meetings
 
-Use the adage “we get what we measure” to your advantage by noting
+Ask the right questions to generate questions.
 
-participation data about halfway through a meeting. Notice who is
+Shanna used to solicit questions and, after a pause of about a
 
-speaking, how much, in what order, and what they’re contributing.
+microsecond, barrel ahead. She chose a diﬀerent strategy to encourage
 
-Then say, “Halfway into the meeting, only four of us have spoken,” or
+interaction. Instead of saying, “Do you have any questions?” consider
 
-“John has been the ﬁrst to speak each time the presenter has asked
+asking, “Who has the ﬁrst question?” If there’s silence, follow up with a
 
-for comments.” Simply mention some data points and notice how
+joke, “OK, who has the second question?” and then allow the silence to
 
-participants choose to respond. Some of those who haven’t spoken
+sit long enough to allow people to come up with rich queries. Shanna
 
-will start to participate, or “John” might step back and invite others to
+learned not to ﬁll silences and to ask more questions of her audience
+
+instead of the presenter. For example, “If a developer on your team
+
+heard this sales presentation, what questions would they have?” or,
+
+“What do you need to know to vote on this option?” Sometimes it’s how
+
+you invite questions that results in quality responses.

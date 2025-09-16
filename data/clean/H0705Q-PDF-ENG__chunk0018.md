@@ -1,7 +1,23 @@
-# bias.
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5dc7126b01df0045608f7fabd9bac81ab8017f6
+title: H0705Q-PDF-ENG
+---
+# it.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+As Bill examined his assumptions about what information they all
 
-4
+would need, he again circled back to the behavioral expectation step:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+If he and his parents began solving the problem from an incorrect frame
+
+(i.e., only one move), they weren’t actually collecting the information
+
+they needed. How could they possibly assess his parents’ future needs
+
+accurately? Further, would they be able to assess how a particular
+
+institution would be able to meet those future needs? Might they
+
+assume that a lot of care equaled good care? This is called conﬁrmation

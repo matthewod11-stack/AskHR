@@ -1,27 +1,17 @@
-# the truth.
+---
+source_path: H07XS0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa74413e66fea540e5aec05ca9c9ce97f035d812
+title: H07XS0-PDF-ENG
+---
+# between 2019 and 2022.
 
-And the truth is — it takes hard work in ways that might surprise you.
+While we appreciate that those who are asking us how to become a
 
-Why? Because many people misunderstand what coaching is,
+coach likely value the profession, recognize that coaching is a powerful
 
-underestimate the process to become a credentialed coach, and don’t
+way to support others, see the ﬂexibility and autonomy that having
 
-anticipate the ongoing eﬀort required to generate and develop business
+a coaching practice can oﬀer, and perhaps have even beneﬁtted from
 
-to make a living doing this work.
-
-The ﬁve of us have approximately 60 years of collective coaching
-
-experience and we all really, really love what we do. But each of us has
-
-our own “secret sauce” to building these rewarding coaching careers;
-
-there’s no single playbook. How many clients should you have? What
-
-other income streams should you consider? How many hours per day
-
-should you coach? How do you get clients (and keep them)? And most
-
-importantly, how hard is it? We want to give you some clarity so that you
-
-can fulﬁll your own coaching dream.
+being coached themselves, we also acknowledge that we must tell them

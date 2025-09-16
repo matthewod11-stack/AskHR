@@ -1,3 +1,7 @@
-## How a Playful Mindset Can Boost Creativity on Your Team
-
-Three strategies to shift the brain from a busy, overworked state to a more relaxed and imaginative one. by Duncan Wardle
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29258e3d330729c5023fc56e5db1afb14c135708
+title: H08DYH-PDF-ENG
+---
+## HBR / Digital Article / How a Playful Mindset Can Boost Creativity on Your Team

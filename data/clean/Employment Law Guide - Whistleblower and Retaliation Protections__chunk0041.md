@@ -1,7 +1,15 @@
-# Employee Rights
+---
+source_path: Employment Law Guide - Whistleblower and Retaliation Protections.md
+pages: n/a-n/a
+chunk_id: f1644fb52cb6373a160ebc3589d3d2df52ef9fdd
+title: Employment Law Guide - Whistleblower and Retaliation Protections
+---
+# statutes; or
 
-Any employee who believes that he or she has been discriminated or retaliated against in violation of any of the statutes listed above may ﬁle a complaint with OSHA. Complaints must be ﬁled within 30 days after the
+Complaining about a violation.
 
-occurrence of the alleged violation under the OSH Act, CAA, CERCLA, SWDA, FWPCA, SDWA, and TSCA;
+Many of the statutes speciﬁcally protect an employee's internal complaints to his or her employer, and it is the Department of Labor's position, as set forth in regulations, that employees who express safety or quality
 
-within 60 days under ISCA; within 90 days under AIR21 and AHERA; and within 180 days under ACA, FSMA,
+assurance concerns internally to their employers are protected under all of the whistleblower statutes
+
+administered by OSHA.

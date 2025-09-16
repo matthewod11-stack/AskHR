@@ -1,5 +1,7 @@
-# low hazard, the employer does not need to keep records unless OSHA or the BLS asks them to do so in
-
-writing. The partial industry classiﬁcation exemption applies to individual establishments. If a company has several establishments engaged in diﬀerent classes of business activities, some of the company's
-
-establishments may be required to keep records, while others may be exempt. Industries currently designated
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: 8c4482c00a679db7538f9d72a1c05697cb5a187a
+title: Employment Law Guide - Occupational Safety and Health
+---
+# Records for employers in certain industries. If an employer's business is in an industry that is classiﬁed as

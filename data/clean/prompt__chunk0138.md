@@ -1,3 +1,9 @@
-# Prompt
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: b863445bb2e9e1df08edfc5cfdcee91ba87c5b6d
+title: prompt
+---
+# Top-P
 
-Classify movie reviews as positive, neutral or negative. Only return the label in uppercase. Review: "Her" is a disturbing study revealing the direction humanity is headed if AI is allowed to keep evolving, unchecked. It's so disturbing I couldn't watch it. Sentiment:
+0.8

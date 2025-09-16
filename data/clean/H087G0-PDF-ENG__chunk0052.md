@@ -1,33 +1,13 @@
-## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b60112b9a4bf692f27da488b63e4d8efb7337b3f
+title: H087G0-PDF-ENG
+---
+## Dignity, and Intersectional Belonging at Work.
 
-. . .
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-I’m still ﬁne-tuning my own approach to disclosure. As of this writing
+11
 
-my neurodivergence is radically shared with the world, but with more- physical diﬀerences I am using a network of disclosure at work. Both
-
-strategies seem to be working much better than the “quietly pushing
-
-through” approach, which on several occasions has led me to the
-
-dangerous extreme of overworking while trying to prove myself. They
-
-also work better than disclosing only to a supervisor.
-
-You may follow a similar path, or you may not. Disclosure decisions
-
-are deeply personal. But it’s important for all of us to remember: Our
-
-worth and human dignity far surpass our ability to perform speciﬁc
-
-tasks. The responsibility for ableist behavior lies on those who exhibit it
-
-— not on us. Our health should come before having to prove ourselves
-
-to others. Advocating for inclusive workplaces isn’t just about securing
-
-accommodations; it’s about creating organizations where every person
-
-is valued for their unique talents, experience, and insights. And we all
-
-can do our part by validating each other’s experiences and believing
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

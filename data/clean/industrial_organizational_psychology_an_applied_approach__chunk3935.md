@@ -1,7 +1,11 @@
-# behavior of others.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6387945231830375297f59677a68b3f673996049
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Mixed-standard scale A method of performance
 
-Modified flexitour A flextime schedule in which
+appraisal in which a supervisor reads the description of a specific behavior and then decides whether the behavior of the employee is better than, equal to, or poorer than the behavior described.
 
-employees have flexibility in scheduling but must schedule their work hours a day in advance.
-
-Moonlighting Working more than one job. Motivation The force that drives an employee to
+Modeling Learning through watching and imitating the

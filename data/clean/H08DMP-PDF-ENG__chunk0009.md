@@ -1,13 +1,15 @@
-# promotion.
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45b930d8bd972655f92a363ff0584819c870387a
+title: H08DMP-PDF-ENG
+---
+## to the oﬃce only on Mondays, Tuesdays and Thursdays within the same
 
-Before the experiment, managers estimated hybrid would reduce
+timeframe. The company designed the hybrid work schedule in this way
 
-productivity by 2.6%. After the six-month experiment they estimated
+to encourage collaboration.
 
-it increased productivity by 1%. Those working under the hybrid
+We analyzed data from the six-month experiment and subsequent
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+performance reviews for the next two years, and found the two groups showed no diﬀerences in productivity, performance review grade, or

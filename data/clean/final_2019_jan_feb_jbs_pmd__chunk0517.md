@@ -1,3 +1,7 @@
-# ISSN 2393-9451
-
-Shepherd (2017) also defines each role in operational terms. For example, the content curator ‘draws upon the wealth of information and people that could be valuable to their learners, and suggests where they should start.’
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 1d6805d259da501bfcecfe30a657fbc2272d8256
+title: final_2019_jan_feb_jbs_pmd
+---
+# January - December, 2019

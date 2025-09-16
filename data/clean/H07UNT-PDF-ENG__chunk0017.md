@@ -1,23 +1,41 @@
-## HBR / Digital Article / The Art of Setting Expectations as a Project Manager
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 47de298ef44def7dcf61b8e013df5fe7847cfe30
+title: H07UNT-PDF-ENG
+---
+# project to the end zone.”
 
-“I need to make it very clear that certain things will only be possible
+Further, PMs often become experts at delicately navigating the moods
 
-if pieces fall into place as anticipated,” says Sandy Binjour, a senior
+of various stakeholders, another skill that enables them to properly
 
-project manager at a global advertising agency. “At the 11th hour, if things are still oﬀ the rails, it’s time to have a candid yet collaborative
+manage the expectations of the entire team.
 
-conversation that gets everyone to weigh in on the decision that needs
+“PMs become couples counselors, mediators, and therapists,” says
 
-to be made.”
+Hecht. “They need to make everyone feel valued and heard, explaining
 
-To foster that collaboration and manage the expectations of key
+what’s possible while clearly outlining the limitations. Clear is kind.”
 
-stakeholders prone to making unrealistic demands, Hecht suggests
+To do this successfully, recap conversation takeaways in detail. For
 
-trying this script. “I hear that you want X, and we can deliver X to a
+example, the way a client digests a conversation can signiﬁcantly
 
-point.” Clearly and candidly state how far you can go. Then, ask how the team can work together to come up with a diﬀerent solution so everyone
+vary from how a creative team digests it. An all-too-familiar scenario
 
-feels like they are co-creating the new path forward, even as folks are
+happens when a client approves a creative concept, a team begins work
 
-dealing with high stress and strong emotions.
+and comes back to present ideas to the client. The feedback isn’t great.
+
+The PM needs to re-brief the team, set new deadlines, and present
+
+again. Minds are changing, self doubt is creeping in, the PM is trying
+
+to motivate employees as deadlines are shrinking.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,21 @@
-## HBR / Digital Article / When Your Colleague Is Jealous of Your Success
+---
+source_path: H08N72-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37f91ad271e911238b3326200143c7456dd94a30
+title: H08N72-PDF-ENG
+---
+# collaborate. Choose wisely.
 
-This article was originally published online on March 5, 2025.
+It’s discomforting when a colleague starts to feel resentful of your
 
-Dorie Clark is a marketing strategy consultant who teaches executive education at Columbia Business School and has been named one of the Top 50 business thinkers in the world by Thinkers50. Her newest book is The Long Game: How to Be a Long-Term Thinker in a Short-Term World and you can receive her free Long Game strategic thinking self-assessment.
+accomplishments. But by following the strategies above, you can make
 
-Ruth Gotian, EdD, MS, is the chief learning oﬃcer and associate professor of education in anesthesiology at Weill Cornell Medicine in New York City. She is the author of The Financial Times Guide to Mentoring with Andy Lopata and The Success Factor. Discover your potential for high achievement by taking her exclusive High Achiever Optimization Assessment here.
+every attempt to turn them around and get them on your side—or to
+
+limit the damage they can do to your professional aspirations.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

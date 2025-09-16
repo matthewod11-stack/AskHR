@@ -1,5 +1,7 @@
-## Competency Definition, Question, and Benchmark Levels.
-
-Teamwork Definition: Encourages and facilitates cooperation, pride, trust, and group identity; fosters commitment and team spirit; works with others to achieve goals.
-
-Competency-Based Questions: Describe a situation in which you worked with a team to achieve a common goal. What was the goal? Who was on the team and how was the team assembled? What steps did you take to work toward meeting the goal? What was the outcome?
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: e1bb64ad49d4d7ab55dccfcec912a1b02eb5bbee
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+# TABLE III

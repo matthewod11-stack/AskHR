@@ -1,33 +1,21 @@
-# Claudia Gori
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed3cbd1455c9edad023655bdc4f6811072a040e1
+title: F2404A-PDF-ENG
+---
+# peer-to-peer product-rental service. Our
 
-use this platform and that it would help
+mission was to reduce consumption to
 
-reduce climate change.
+improve sustainability. Companies would
 
-But you were wrong?
+be forced to produce fewer products,
 
-We used the scientific method to try to validate our idea that people would
+and their carbon footprint would shrink.
 
-rather rent than buy products and that the owners of the products would
+Joining the study was a great opportunity
 
-make money from the rentals. To do that, we conducted field interviews
+for us to learn how to test our hypothesis,
 
-asking whether people would be inclined to reuse other people’s goods
-
-and whether people had goods they wanted to rent out. We conducted
-
-approximately 25 interviews, but after only five, we realized this wasn’t
-
-going to work.
-
-What would have happened if you hadn’t used the scientific method?
-
-We probably would have developed our idea about peer-to-peer rentals
-
-further and built a prototype. It would have been costly and time-
-
-consuming. And we would have ended up with a product that wasn’t viable.
-
-The only positive feedback we received during the interviews was that
-
-people were interested in products that promote sustainability. So we came
+which basically assumed people would

@@ -1,15 +1,23 @@
-# companies around the world.
+---
+source_path: H05CAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35a47b4fb760602c31ffa27bbef3d91dc9bd95ee
+title: H05CAR-PDF-ENG
+---
+## diﬀerently. In one-on-one meetings with individual board members of
 
-In April, 2001, all 39 companies dropped the lawsuit against Nelson
+GSK, he stressed the company’s moral responsibility to alleviate human
 
-Mandela; GSK and others reduced the prices of antiretroviral drugs by
+suﬀering and tied it to the long-term success of the company. He stated
 
-90% or more. Furthermore, under Yamada’s direction, one of GSK’s
+that GSK can’t make medicines that save lives and then not allow people
 
-major laboratories in Tres Cantos, Spain, was converted into a proﬁt-
+access to them. He noted the public relations disaster associated with
 
-exempt laboratory that focused only on diseases in the developing
+the lawsuit, and set forth a vision, co-created by his team, for how GSK
 
-world, including malaria and tuberculosis. Using his inﬂuence, Dr.
+could also become a leader in the ﬁght against TB and malaria, diseases
 
-Yamada also spurred GSK into allocating resources for aﬀordable access
+that also were disproportionately impacting third-world populations.
+
+The external pressure did not abate, with protests against many drug

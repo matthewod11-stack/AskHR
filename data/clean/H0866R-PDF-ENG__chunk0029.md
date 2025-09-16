@@ -1,27 +1,29 @@
-# the kids.
+---
+source_path: H0866R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63fb8e9176f1c9019689017c11d19a0e8e9997b0
+title: H0866R-PDF-ENG
+---
+# HBR / Digital Article / Working Parents, Plan for the Week with This Simple Exercise
 
-To avoid this, identify the trickiest moments in your week and set a
+you already have groceries, or a regular weekly pick-up plan — I strongly
 
-back-up plan. Decide who will be called in when. For example, say, “I
+recommend you still cover these because it’s when things are assumed
 
-have a board meeting Wednesday, so I can be back-up Thursday and
+that issues crop up: “Oh, I thought you knew we had soccer and were
 
-Friday if you can take Monday through Wednesday.” Or, “Wednesday
+going to pick up dinner on the way home.”
 
-looks really tricky. You’re away and I think I can handle it but if I get an
+Finally, ﬁnish up by looking at the top 3–5 to-dos that you identiﬁed and
 
-afternoon meeting added to my calendar I’m going to need to call my
+decide who the owner will be for each and a quick plan and timeslot to
 
-dad in to help. Let’s let him know now.”
+get it done.
 
-. . .
+- 3. What’s the back-up plan?
 
-That’s it! Once you’ve completed your preview each week, share your
+“No plan survives ﬁrst contact with the enemy,” as the saying goes. But
 
-preview document with all key collaborators — all the people who will
+without a safety net, every change in the plan feels like a ﬁre. Worse, it
 
-be involved in helping to make this week go to plan. This includes local
-
-grandparents, neighbors, step-parents and nannies. Whether you print
-
-it out, email it, or share the digital doc, the key is to share the plan with
+often falls to one “default parent” to change their plans to be on hand for

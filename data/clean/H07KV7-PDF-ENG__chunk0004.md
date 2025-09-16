@@ -1,9 +1,9 @@
-# support.
+---
+source_path: H07KV7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9309a8c2e664014c14e6a0c8d712383d2e1647a9
+title: H07KV7-PDF-ENG
+---
+## HBR / Digital Article / Sensitivity Can Be a Superpower at Work
 
-But at times, Irene’s deep thinking and feeling nature got the better
-
-of her. Last-minute changes sent her into a tailspin and compromised
-
-her productivity. Irene shied away from confrontation and sometimes
-
-avoided giving necessary feedback to other colleagues, which blocked
+team – the one who everyone turned to for compassion, care, and moral

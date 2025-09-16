@@ -1,9 +1,27 @@
-## access ever stronger investment opportunities.
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62a3729ee853606419755469cf321eade3142256
+title: H08DDG-PDF-ENG
+---
+# critical.
 
-This article was originally published online on September 09, 2024.
+But in general, if you expect your entrepreneurs to listen to their
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+customers, it’s only fair that you listen to yours, too.
 
-9
+The four-step approach I’ve outlined is an easy way to both capitalize
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+on the untapped ideas your entrepreneurs can oﬀer and to ensure
+
+you’re able to provide them with as positive an experience as possible,
+
+ultimately increasing the chances that they’ll recommend you to their
+
+networks. This is a true “equal-win” for VCs and entrepreneurs: It makes
+
+the VC better at serving its entrepreneurs (which beneﬁts startups),
+
+and it inspires those entrepreneurs to become champions of the VC,
+
+ultimately helping VCs connect with even more great entrepreneurs and

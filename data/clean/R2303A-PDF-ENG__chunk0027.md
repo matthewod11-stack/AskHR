@@ -1,29 +1,15 @@
-# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 623128f84fb7c0aa87cd76543fbdb8d11cb9ef90
+title: R2303A-PDF-ENG
+---
+# person?
 
-We do have more advice to oﬀer, however. First, recognize that
+Jamie LaPradd calling out an order; Rachel Wolfe and Tyler Smith behind the counter Matt Ray
 
-disabilities are part of the human condition. Some people are born with
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-them. Others acquire them through a health challenge or an accident,
+8
 
-and that could happen to any of us. But disability is a diﬀerence
-
-that continues to engender severe marginalization. Let’s normalize
-
-it instead, and move toward integrating people with disabilities into
-
-society as we’ve tried to do with all other nonmajority groups.
-
-To that end, we need to put more than charity dollars to work on
-
-this cause. Business leaders should be investing real capital in and
-
-innovating around this population of people, who can add value in a
-
-variety of venues. Too often people with disabilities aren’t even given
-
-a chance. Employers think it will take too much eﬀort to get them up
-
-to speed. But in our experience the learning curve isn’t that steep, and
-
-you’ll soon have highly reliable, deeply engaged, and ﬁercely loyal new
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

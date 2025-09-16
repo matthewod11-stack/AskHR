@@ -1,23 +1,17 @@
-## HBR / Digital Article / 5 Ways Leaders Can Communicate Power
+---
+source_path: H08TT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8a90793e31fbe45067a3eebcacfaca7bde7a007
+title: H08TT4-PDF-ENG
+---
+# startups.
 
-Conversely, those in the weaker position aim to prove themselves.
+Those who feel they have a strong position in negotiations ask more
 
-Proving is the low-power behavior.
+questions to learn whether the other person will be valuable to them.
 
-But assessment can ﬂow both ways in any discussion. A highly skilled
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-job candidate might probe recruiters to determine if the role will be a good personal ﬁt. Or a seller may be selective about which customers
+4
 
-they work with. Companies like Gulfstream and Feadship vet buyers
-
-before allowing them to purchase high-end jets and yachts.
-
-To convey power, ask questions of your conversational counterparts or
-
-audience. For example, an executive candidate in an interview might,
-
-after answering a few questions to demonstrate their value to the
-
-organization, turn the tables with a query like:
-
-How does leadership support innovation here? What’s the long-term
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

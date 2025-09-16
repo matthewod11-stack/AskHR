@@ -1,13 +1,11 @@
-## of the job and details such as job classiﬁcation (exempt or non-exempt)
+---
+source_path: H07TI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17cbcdef6b4481ca0133c4663fc4b0c0766c0ea6
+title: H07TI0-PDF-ENG
+---
+## Labor Standards Act (FLSA) position status in the U.S. — which can
 
-can help here. Also, monitor employee tasks, responsibilities, and
+be challenging without a formal job description. Creating a “role
 
-actual working hours to ensure that they align with labor guidelines;
-
-depending on your circumstances, this could be a periodic review or
-
-meticulous record-keeping enabled by modern HR software.
-
-As organizations become more agile and responsive and technology
-
-enables new forms of work in the coming years, the trend towards
+compliance document” for each employee that provides a broad outline

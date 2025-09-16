@@ -1,11 +1,7 @@
-## Writing for Busy Readers: Communicate More Effectively in the Real
-
-World (co-authored by Todd along with Jessica Lasky-Fink), lays out
-
-six science-based principles for writing so busy people will actually
-
-read and respond. The core idea? Make it easy for skimmers. While
-
-the speciﬁcs vary by context, teams that establish clear norms around
-
-readability can ensure that their messages get through with minimal
+---
+source_path: H08UHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c9a21ce3e276a6b8fd9a408131799e13f5f6209
+title: H08UHK-PDF-ENG
+---
+# Make Reading Easy

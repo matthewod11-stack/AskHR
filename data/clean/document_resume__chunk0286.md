@@ -1,3 +1,7 @@
-# Performance Appraisal
-
-Consider the employees in your department in terms of overall jcb performance Select the best employee and put his/her name in column A, line 1 Then select the worst employee and put his/her name in column B, line 20 Continue this process until the names of all employees have been place, on the scale
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: a93081400c341dbf72bdc5c335bd45cc3fc35ecf
+title: document_resume
+---
+# 26

@@ -1,11 +1,33 @@
-# the team.
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b09e4e439c3f4788b51f79a8ce15353be1d23a95
+title: H08HJ8-PDF-ENG
+---
+## HBR / Digital Article / When Your Manager Is Ineffective — and You Feel Stuck
 
-Open a dialogue with your manager.
+support your leader. For instance, can you help ease their transition
 
-When coming from a place of feeling that your manager doesn’t add
+if they’re new by teaching them about the industry, navigating
 
-value, you may not be inclined to bring your concerns to light. There
+the organizational culture, or sharing insight into team dynamics.
 
-is beneﬁt, however, to discussing the nature of the relationship. Most
+Questions to consider are:
 
-notably, you have an opportunity to advocate for what’s important to
+- In what ways do my skills diﬀer from my manager’s, and how can I
+
+leverage those diﬀerences to create a more cohesive team?
+
+- What challenges is my manager facing, and how can my experience
+
+help them overcome?
+
+- In what areas can I proactively oﬀer support where my manager might
+
+not be fully acclimated or skilled?
+
+When you ﬁnd common ground with your manager, you increase
+
+productivity and improve your relationship, as well as decrease your
+
+stress level. Identify what your manager is contributing that is unique to

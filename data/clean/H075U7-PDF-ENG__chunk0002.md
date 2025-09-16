@@ -1,5 +1,7 @@
-# Stop Protecting “Good Guys”
-
-The “good guy” defense gaslights women and enables offenders. by Resa E. Lewiss, W. Brad Johnson, David G. Smith, and Robin Naples
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b9ecf2ba5d5004400532d248a43e3b2caa014032
+title: H075U7-PDF-ENG
+---
+# Gender

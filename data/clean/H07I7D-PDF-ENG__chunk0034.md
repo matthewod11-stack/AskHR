@@ -1,21 +1,23 @@
-## HBR / Digital Article / How to Help Superstar Employees Fulfill Their Potential
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3b1bc32f51e846baf7d9e24a4c771fd3b3fb579
+title: H07I7D-PDF-ENG
+---
+# recordings.
 
-empathy tends to decline as one moves up, that is when it is most
+Along with self-awareness, empathy is core to the ability to manage
 
-needed, especially when one is leading and not doing.
+conﬂict successfully, to coach and mentor subordinates, and to
 
-While many believe that empathy is something that you either have or
+motivate and inspire others. It’s also been shown to be essential to cross-
 
-don’t, it can be learned, but it requires dedicated behavioral change. By
+cultural teams. Despite its strengths, empathy can often be a victim
 
-focusing on inquiry, developing active listening skills, acknowledging
+of one’s hyper focus on results and achievement. Paradoxically, while
 
-diﬀerent perspectives, and demonstrating genuine concern, high
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-potentials can hone their skills in empathy.
+8
 
-- 3. Encourage a learning mindset.
-
-Moving from a core technical or speciﬁc functional area to a
-
-general management role requires high potentials to see how various
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

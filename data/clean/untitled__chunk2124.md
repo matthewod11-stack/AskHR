@@ -1,13 +1,13 @@
-# Conﬂuence of Dynamic Forces
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6d8718c2e6d02addc03777dc30387191e0959851
+title: untitled
+---
+# Business Forces
 
-more than machines, tools, procedures, and inventory con- trol. “It meant, ﬁrst of all, the people who did the jobs” (Gilbreth, 1970, p. 103). The primary importance of scientiﬁc management for I-O psychology was the study of work (Baritz, 1960) and the establishment of a precedent for scien- tists to enter organizations.
+Organizations must change their structures, technologies, and processes to adapt to their environments and to survive (Huber, 1984). Because I-O psychologists historically re- sponded to business problems (e.g., Baritz, 1960), changes in business directly affected I-O psychology. I-O psycholo- gists provided employers techniques and information for im- plementing an explicit scientiﬁc approach and developed techniques to help employers make decisions (Dipboye et al., 1994). When asked to identify an inﬂuence on the ﬁeld, SIOP past president (1991–1992) Richard J. Klimoski responded,
 
-The emergence of capitalism and emphasis on efﬁciency forced companies to hire the most qualiﬁed employees; thus, selection and training were critical issues. Industrial psychol- ogists used mental tests that had been successful in education and in the armed forces to select hardworking and committed employees (Katzell & Austin, 1992). According to Van De Water (1997), mental tests were the ﬁeld’s ﬁrst technical product.
+The changing nature of organizing—favoring large manufactur- ing enterprises right after the war, the rise of the large multi- divisional ﬁrm, to the conglomerate, to the rise of service providers, to the multinational ﬁrm, to the development of vir- tual organizations. These affect such things as the need for I/O services, the kinds of problems studied, the kinds of job venues I/O types hold. (Richard J. Klimoski, personal communication, August 27, 2000)
 
-An emphasis on productivity during the late nineteenth and early twentieth centuries inﬂuenced organization leaders to explore ways to advertise, sell, and distribute their goods. Psychologists recognized the value of their discipline to these business issues as well. For example, Scripture (1895) wrote in his book Thinking, Feeling, Doing that advertisers could beneﬁt from psychology with regard to attention and mem- ory. Ayoung psychologist, Walter Dill Scott, was approached by a group of businessmen to present a speech about the value of psychology for advertising in 1901. He did so on the condition that his name not be published because he feared the disdain of his colleagues. This concern soon dissipated, as Scott in 1903 published a book titled The Theory of Advertis- ing (Ferguson, 1962–1965).
-
-Interest in applying psychology to business problems provided opportunities for businesses and academic psy- chologists to collaborate. An important program for the development of I-O psychology was the Division of Ap- plied Psychology at Carnegie Institute of Technology (now Carnegie-Mellon University), which was established in 1915 with Walter VanDyke Bingham as the director (Hilgard, 1987). In 1916, a new department was formed, the Bureau of Salesmanship Research, headed by Scott. Scott and his col- leagues devised a multiple-component selection system for sales personnel that included a personal history blank (bio- data), a standard interview, a reference form, and a mental alertness test (Katzell & Austin, 1992). Later, the bureau was renamed the Bureau of Personnel Research. Bingham created another program, the School of Life Insurance Salesmanship, which trained several thousand life insurance salesmen (Hilgard, 1987). Following World War I, the Carnegie Insti- tute of Technology expanded its work to include sales train- ing, with the establishment of the Research Bureau of Retail Training. Vocational interests were researched, and E. K. Strong along with Karl Cowdery eventually developed the Strong Vocational Interest Blank, now known as the Strong
-
-377
-
-378
+The Industrial Revolution at the end of the nineteenth cen- tury created a prevailing faith in capitalism (Katzell & Austin, 1992). The primary business objectives were to im- prove efﬁciency, increase productivity, and decrease costs through standardization and simpliﬁcation (Dipboye et al., 1994). Scientiﬁc management advocates addressed these ob- jectives by designing work to improve efﬁciency (Taylor, 1947). Frank and Lillian Gilbreth, known for their time-and- motion studies, were concerned with individual needs in work settings. They believed that scientiﬁc management was

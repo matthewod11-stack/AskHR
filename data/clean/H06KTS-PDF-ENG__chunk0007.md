@@ -1,13 +1,21 @@
-## HBR / Digital Article / When Everyone’s Quitting … Except You
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6942687e66be5b0b8bf31ff0f5caa088a4e0c9a1
+title: H06KTS-PDF-ENG
+---
+# in the future?”
 
-role. You may ﬁnd that you’re motivated by a diﬀerent set of criteria
+Then do an honest inventory of your current capabilities and
 
-than your company, or that with a bit more adaptability you could ﬁnd a
+reputation, as well as where you still need to develop, in order to achieve
 
-way to be fulﬁlled by staying.
+your ideal work life. At the same time, explore whether your values and
 
-The key is to engage in some patient introspection and observation
+goals are aligned with what your employer deﬁnes for success in your
 
-before acting. In this way you objectively evaluate whether your employer will suﬃciently respond to your growth and nurture your
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-career the way it supports your new colleagues or not.
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

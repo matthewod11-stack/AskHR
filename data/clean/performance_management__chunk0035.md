@@ -1,5 +1,9 @@
-# ONGOING COACHING
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: 7d80d6f61d9a25accc24b719d618442b650896ee
+title: performance_management
+---
+# 84 ORGANIZATIONAL DYNAMICS
 
-In the past ﬁve years, there has been a shift in emphasis within the private and public sectors from performance appraisal to perfor- mance management, from being a perfor- mance appraiser to becoming a performance coach. The shift is from a discrete activity to one that is performed on an ongoing process. The shift is from being primarily an evaluator to becoming a developer of people.
-
-Cyclical year-round performance man- agement (i.e., feedback, analyzing results, setting goals) effectively increases organiza- tional performance. Executive coaching in a public-sector municipal agency increased employee productivity dramatically. This is because coaches can be powerful catalysts for bringing permanent improvements in employees’ behavior when they challenge employees on a daily basis, and when they instill in them the conﬁdence that they can expand their abilities to attain desired goals. The CEO of Hewlett–Packard was recently quoted as saying ‘‘along the way, you must remind people of how far they’ve come already and how much closer they are to achieving the goal.’’
+receives and subsequent positive or negative outcomes, the entire process is seen as mean- ingless. Therefore, a coach should be for- mally evaluated on the accuracy and comprehensiveness of appraisals of others, as well as on the extent to which organiza- tional justice principles are followed, and speciﬁc high goals are set.

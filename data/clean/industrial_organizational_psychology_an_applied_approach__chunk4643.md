@@ -1,3 +1,7 @@
-## packages, 537 Earnings at risk plans, 349 Eastman Chemical
-
-Company, 537 Echostar Communications, 88 EDS, 312 Education level and job analysis, 45
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 250c90ecac96c38d46b0a9fa0d3bb673966dad5a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Early retirement

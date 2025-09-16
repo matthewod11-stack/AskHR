@@ -1,25 +1,31 @@
-## exact opposite intention of psychological safety.
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ef9e6c02e83d3e25234657b15d91e458397876a
+title: R2503K-PDF-ENG
+---
+# workforce perceives as safe.
 
-Leaders can use an array of strategies to create psychological safety
+When leaders in other organizations attempt to replicate Google’s
 
-without sacriﬁcing intellectual honesty on culturally diverse teams. One
+success applying psychological safety, many end up with teams whose
 
-is to develop team norms that guide behavior while embracing diverse
+members, instead of embracing a culture of rigorous debate, are timid
 
-perspectives. Isabella, an executive I coached, led the global marketing
+and afraid of oﬀending one another. They default to the common
 
-division of a U.S. company’s top product line. Her team spanned
+knowledge eﬀect, in which team discussions revolve around familiar
 
-four regions and several time zones, and team members had diﬀering
+ideas that everyone already knows, and individuals avoid sharing
 
-cultural preferences. When preparing a campaign, they had vastly
+anything that might be disagreeable and lead to uncomfortable debate
 
-diﬀerent opinions on messaging, timing, and design priorities, causing
+or ﬁnger-pointing. The research on this backﬁre risk is now extensive.
 
-friction and stiﬂing performance. Isabella brought in a facilitator
+Several studies, including one led by Jeﬀ Dyer at Brigham Young
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+University, have shown that many global teams have become places
 
-7
+where safety, inclusion, and belonging are emphasized at the expense of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+intellectual honesty and the conﬁdence to challenge the status quo—the

@@ -1,3 +1,17 @@
-# dos colaboradores.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 8460f999f4110070a09b7fc74682bdcecb54e24f
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## que tentaram implementar as melhorias organizacionais, a partir de demandas
 
-Durante a minha faculdade eu estudei alguns conceitos de pesquisa. Quando fizemos esse mergulho na temática pesquisa, revisei alguns autores que conheci ao longo da minha vida acadêmica. Mas só a título de conhecimento e apoio. Olhamos mais a fundo as empresas referências e suas escolhas, mas garantimos que não estivéssemos empregando uma metodologia que não fizesse sentido. (Entrevistada)
+advindas das pesquisas de clima, que, no entanto, mas não aumentavam o tempo
+
+de permanência dos funcionários na empresa, por exemplo. Esta correlação, para
+
+os fundadores, era essencial. A busca passou a ser, então, por uma metodologia
+
+que permitisse não apenas medir o que chamavam de satisfação, mas que
+
+apontasse caminhos para aumentar a retenção e o volume e qualidade das entregas

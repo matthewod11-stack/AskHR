@@ -1,9 +1,9 @@
-## While the World Economic Forum predicts the United States won’t
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1acda12d366d3433a7b4a3f20549ce71ce0625aa
+title: H0561N-PDF-ENG
+---
+# Illustration by Ewelina Karpowiak
 
-reach this mark for more than two centuries, other countries are further
-
-along — and several could reach equality within our (or our children’s)
-
-lifetime. But in most nations, and on many key metrics, equality is still
-
-a long way away. Looking at the data reveals exactly where women are
+Just how long will it take to achieve gender equality around the world?

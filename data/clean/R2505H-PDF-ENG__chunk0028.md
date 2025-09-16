@@ -1,9 +1,39 @@
-## HBR / Magazine Article / The Founder’s Final Act
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf3bf1eb024863a2047817ecd0e5c78e48b0d2a9
+title: R2505H-PDF-ENG
+---
+# Explore Your Options
 
-business. They may view the business as a source of value that can be
+Once you’ve determined your goals, you need to decide whether the
 
-unlocked to fund their retirement, set up their family for the long term,
+best way to achieve them is by transferring the company to another
 
-or support charitable causes. If you see your company this way, your
+long-term owner or through a liquidation or sale. Although it may seem
 
-succession plan should be focused on how to maximize its sale value.
+counterintuitive, for some founders the company’s continued existence
+
+will be an obstacle to realizing their legacy. They may lack conﬁdence
+
+that the business can thrive without the speciﬁc skills they bring to it.
+
+They may not want to burden their family with the demands of the
+
+business. Perhaps they fear that without their guidance the business
+
+will become something very diﬀerent that they wouldn’t want their
+
+name associated with. If any of this is true for you, your objective should
+
+probably be to shut the business down or liquidate it.
+
+More frequently, though, founders instead see the business as a lever for
+
+achieving goals that don’t depend on their continued connection to the
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

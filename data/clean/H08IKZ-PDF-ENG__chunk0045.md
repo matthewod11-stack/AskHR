@@ -1,23 +1,17 @@
-# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 75de9ae350dd1588c6a1d1bc77e32a0413f70d97
+title: H08IKZ-PDF-ENG
+---
+## processing, pattern recognition, and optimization for quantiﬁable
 
-The pumpkin spice latte, one of Starbucks’ most successful products,
+criteria, best suited for AI from those requiring human judgment, like
 
-is an example of human decision-makers taking the lead and
+setting objectives and considering ethics, values, and context.
 
-leveraging their understanding of context. While initial tests showed
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-that customers preferred the taste of chocolate or caramel-ﬂavored
+8
 
-products, the product developers believed that for a seasonal special,
-
-uniqueness was even more important than taste. In subsequent studies,
-
-they gathered information on this criterion, where the pumpkin ﬂavor
-
-excelled.
-
-There will also be tasks where human and machine intelligence
-
-intersect and cooperate, forming what might be called a bionic
-
-organization in which humans review AI-generated solutions to assess
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,29 @@
-# from within the platform itself.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16f6aff2668e757fe59cec5e8764a8920553db84
+title: H08TKY-PDF-ENG
+---
+## Go deeper: “Operational Transparency,” by Ryan W. Buell (2019)
 
-Businesses that fail to learn the new rules of platform strategy
+[ P ]
 
-will struggle—when a platform enters the marketplace of a pure
+Platform strategy: Traditional “pipeline” businesses succeed by
 
-pipeline business, the platform nearly always wins. That’s exactly what
+optimizing the activities in their value chains—most of which they
 
-happened when the iPhone came on the scene in 2007. By 2015, it
+own or control. “Platform” businesses that bring together consumers
 
-accounted for 92% of global proﬁts in mobile phones, while most of
+and producers, as companies Uber, Alibaba, and Airbnb do, require
 
-the giants that once ruled the industry, such as Nokia, Samsung, and
+a diﬀerent approach to strategy. The critical asset of a platform
 
-Motorola, made no proﬁt at all.
+is external—the community of members. The focus therefore shifts
+
+from controlling resources to orchestrating them, and ﬁrms win by
+
+facilitating more external interactions and creating “network eﬀects”
+
+that increase the value provided to all participants. In this world,
+
+competition can emerge from seemingly unrelated industries and even

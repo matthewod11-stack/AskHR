@@ -1,5 +1,21 @@
-## KSAO = knowledge, skill, ability, other characteristics.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b49c31c961911dc8d36f8d10d0638e0bdda52137
+title: industrial_organizational_psychology_an_applied_approach
+---
+# When KSAO Is Needed 0
 
-samples, ability tests, personality tests, reference checks, integrity tests, biodata, and assessment centers. Th ese methods, and how to choose them, will be dis- cussed in great detail in Chapters , , and .
+KSAO is not needed.
 
-Th e average ratings obtained from Step  will be used to weight test scores. Th at is, a test tapping a KSAO with a rating of . should receive more weight than a test tapping a KSAO with a rating of ..
+1
+
+KSAO is needed after completion of fi eld training.
+
+2
+
+KSAO is needed after graduation from the police academy.
+
+3
+
+KSAO is needed at the time of hire.

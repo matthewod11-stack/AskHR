@@ -1,7 +1,11 @@
-## help with decision-making—data analysis, scenario planning, decision
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7923bcae30cfd21608ff3a8083251f52ef6d4b4
+title: H08U3Y-PDF-ENG
+---
+## processes, data overload, information asymmetry, and other inequities
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+only compound the challenges that come from large, disparate factions
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with diﬀerent goals trying to work together. And the tools that often

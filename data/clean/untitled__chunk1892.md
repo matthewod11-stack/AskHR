@@ -1,7 +1,9 @@
-## Archivo Generale di Neurologia, 19, 266–268.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 06ab42dd67329eb77af46c0068f9e513586d9f3f
+title: untitled
+---
+# Cambridge, MA: Harvard University Press.
 
-Chiarugi, V. (1987). On insanity and its classiﬁcation (G. Mora, Trans.). Canton, Mass: Science History Publications. (Original work published 1793)
-
-Clark, S. (1984). The scientiﬁc status of demonology. In B. Vickers (Ed.), Occult and scientiﬁc mentalities in the Renaissance. Cambridge, England: Cambridge University Press.
-
-Clarke,E.,&Jacyna,L.S.(1987).Nineteenth-centuryoriginsofneu- roscientiﬁc concepts. Berkeley: University of California Press. Clay, R. M. (1909). The medieval hospitals of England. London:
+Cerletti, U., & Bini, L. (1938). L’Elettroshock [Electric shock].

@@ -1,13 +1,23 @@
-# growth and happiness.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a663010e35e30dd879fc68f1f3f5c0a6b236c9e
+title: H07U7Q-PDF-ENG
+---
+# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
 
-One area I’m excited about is an apprentice program. We currently
+ADI IGNATIUS:
 
-have three live, a Butcher Apprentice program, a Certiﬁed Cheese
+Here’s a question from Ontario, Canada, about retention: what strategies
 
-Professional, and a Bakery Decorator Apprentice. We’re going to be
+has the company implemented to retain employees?
 
-rolling this out so each one of our departments and teams has an
+JASON BUECHEL:
 
-apprentice program going forward. This allows team members to
+One of the top things is providing growth opportunities for our team
 
-develop skills and trades they can use at Whole Foods Market and
+members. I mentioned a little bit earlier we had 11,000 promotions over
+
+the last 12 months. One of the things that’s important about doing that
+
+is providing ways by which we can help support our team members’

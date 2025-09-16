@@ -1,13 +1,9 @@
-## references and sources to follow-up and cross-check.
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9951971ec255f7340b1a38589533e4d6ea39ac86
+title: H08O9C-PDF-ENG
+---
+# industry?
 
-Note that it is perfectly OK to report that you have prepared your
-
-thoughts and ideas with the support of gen AI. Many people do so, but
-
-few admit it. Second, it will show you are honest and have integrity.
-
-Third, the real value will come not from what everybody else can
-
-produce with gen AI, but from the human touch you provide by
-
-injecting your expertise, experience, and creativity.
+- Help me write an [X number of words] article on [X topic] and provide

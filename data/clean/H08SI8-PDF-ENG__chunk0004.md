@@ -1,33 +1,21 @@
-## HBR / Digital Article / How 6 Companies Approached Digital Transformation
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 846c316258f775647048402ac2f5d1d030875094
+title: H08SI8-PDF-ENG
+---
+# successfully?
 
-to delve into the granular details of their organizations, while keeping a larger vision top of mind. It’s no wonder they’re notoriously diﬃcult.
+Digital transformations involve a kind of organizational soul searching:
 
-Consider what digital transformation really involves. First, it requires
+How do we change while remaining the same? How do we do new things
 
-understanding a new technology—AI, cloud computing, data analytics
+diﬀerently, while staying true to our purpose? And how do we adopt—
 
-—and how it might help your business. But a transformation, as the
+and adapt to—new technologies as they emerge? They require leaders
 
-term implies, is bigger than merely onboarding new tools. It requires
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-rethinking how your company creates value, its strategy, and the
+1
 
-processes by which your employees get things done. And ﬁnally, it
-
-requires shepherding real cultural change.
-
-Daunting as all of this might seem, it’s also unavoidable. The pace of
-
-technological change seems to only increase. The miracles of yesterday
-
-are the baseline of tomorrow. As such, digital transformation has
-
-become a muscle that companies must learn to exercise—a process that
-
-is never really ﬁnished.
-
-How should leaders think about this task? One place to start is by
-
-asking: How have other companies navigated this? So, looking back at HBR’s archive, let’s consider how six diﬀerent legacy companies have
-
-tackled this process.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

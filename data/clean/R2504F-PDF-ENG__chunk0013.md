@@ -1,23 +1,17 @@
-# Who Provides Eldercare?
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df7953ec27c73b443eaf946a035e8c6973c868c6
+title: R2504F-PDF-ENG
+---
+# consistent across the world.
 
-According to the U.S. Bureau of Labor Statistics, nearly half (45%) of
+We’ve been researching, working with, and writing about the aging
 
-all elder caregivers are between the ages of 45 and 64, which means
+workforce for decades, and recently we’ve devoted considerable
 
-many are at the height of their earning power and organizational
+attention to the growing demand for eldercare support and how it can
 
-responsibility. They and their employers therefore have a great deal at
+be met. In this article, we’ll oﬀer practical guidance to leaders who want
 
-stake in avoiding disruptions to their employment.
-
-As with childcare, women who provide eldercare are those most in
-
-need of support. They make up the majority (59%) of providers and
-
-spend more time in their caregiving roles than men do. As a result,
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to prepare their organizations for this unprecedented challenge.

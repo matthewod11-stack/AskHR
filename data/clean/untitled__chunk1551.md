@@ -1,13 +1,25 @@
-# women. New York: Crown.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e6a45675908bd16e139a70e852d2cad5a51e33bd
+title: untitled
+---
+## Crawford, M. (1995). Talking difference. London: Sage.
 
-Fine, M. (1983). Coping with rape: Critical perspectives on con- sciousness. Imagination, Cognition, and Personality: A Scien- tiﬁc Study of Consciousness, 3, 249–264.
+Crawford, M., & Marecek, J. (1989). Psychology reconstructs the female, 1968–1988. Psychology of Women Quarterly, 13, 147–166.
 
-Fine, M., & Weis, L. (1998). The unknown city: Lives of poor and
+Crawford, M., & Unger, R. (1994). Gender issues in psychology. In A. M. Colman (Ed.), Companion encyclopedia of psychology (pp. 1007–1027). New York: Routledge.
 
-working class young adults. Boston: Beacon Press.
+Deaux, K. (1985). Sex and gender. Annual Review of Psychology,
 
-Franz, C. E., & Stewart, A. J. (Eds.). (1994). Women creating lives: Identities, resilience, and resistance. Boulder, CO: Westview Press.
+36, 49–81.
 
-Frederickson, B. L., & Roberts, T.-A. (1997). Objectiﬁcation theory: Toward understanding women’s lived experiences and mental health risks. Psychology of Women Quarterly, 21, 173–206.
+Deaux, K., & Major, B. (1987). Putting gender into context: An interactive model of gender-related behavior. Psychological Review, 94, 369–389.
 
-Gilbert, L. A. (1993). Two careers/one family: The promise of gen-
+Eccles, J. S., & Jacobs, J. E. (1986). Social forces shape math atti-
+
+tudes and performance. Signs, 11, 367–380.
+
+Espín, O. M. (1997). Latina realities. Boulder, CO: Westview Press.
+
+Faludi, S. (1991). Backlash: The undeclared war against American

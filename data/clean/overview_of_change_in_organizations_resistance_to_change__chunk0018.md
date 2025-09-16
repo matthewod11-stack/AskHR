@@ -1,45 +1,33 @@
+---
+source_path: overview_of_change_in_organizations_resistance_to_change.md
+pages: n/a-n/a
+chunk_id: c7259dea5a2ec12bafdd582f63c9c9acd7165bef
+title: overview_of_change_in_organizations_resistance_to_change
+---
 ## “Ovidius” University Annals, Economic Sciences Series Volume XXI, Issue 1 /2021
 
-that the context and content of change per se vary significantly among organizations and should determine the adequate response.
+While changes can generate acute reactions in the process of organizational change, employees are also interested in how being open to change can bring them benefits. Change readiness, as opposed to resistance to change, is another concept subject to debate in the literature. Until now, readiness "has been considered a fundamental precursor for the implementation and management of productive changes” (Bateh et al, 2013).
 
-While changes can generate acute reactions in the process of organizational change, employees are also interested in how being open to change can bring them benefits. Change readiness to, as opposed to resistance to change, is another concept subject to debate in the literature. Until now, readiness has been considered a fundamental precursor for the implementation and management of productive changes (Bateh et al, 2013).
+The concept of “change readiness” is reflected in the Lewis model of organizational change, which requires that organizations should first unfreeze the existing mentalities and develop a sense of emergency before actually starting to implement changes. Some employees are more loyal to relationships whereas others are more loyal to the organization’s structural components, which are often based on principles such as efficiency, tradition or creating an acceptable match with counterpart organizations (Chenevert et al, 2019).
 
-- 6. References
+Usually, both elements must be approached during the organizational change process. In order to facilitate employee readiness and overcome resistance, some employees need to know that the organization’s staff is being treated fairly during the process, whereas others are more concerned about the logic of the decisions in connection with the structural change.
 
-- Amarantou, V., Kazakopoulou, S., Chatzoudes, D. and Chatzoglou, P., 2018. Resistance to change: an empirical investigation of its antecedents. Journal of Organizational Change Management, Vol. 31, No. 2, pp. 426-450.
+To facilitate preparedness and overcome resistance, those employees who are more concerned about relationships must be convinced that certain staff changes are necessary and will be made with utmost respect and fairness. The employees concerned about structure may question whether the change is actually necessary and useful or, on the contrary, is a capricious idea of the top managers who want to leave a mark without fully considering the implications. These employees are more likely to adopt a position depending on which change brings about few benefits but many obstacles. They will probably accept the changes if they can be convinced that short-term challenges will ensure long-term benefits. In order to engage them in the change process, “they must be convinced that the long-term benefits will be more rewarding than the inherent short-term disruptions and inefficiencies of the change process” (Bateh et al, 2013, p.114).
 
-- Anderson, D. and Ackerman Anderson, L., 2010. Beyond change management: how to achieve breakthrough results through conscious change leadership. 2nd ed., Pfeiffer, San Francisco, US.  Awoke, T.G., 2020. Leading and Managing Change: A Review from the Global Corporate Organizations Perspectives. International Journal of Academic Accounting, Finance & Management Research, Vol. 4 Issue 11, p. 63-72.
+- 5. Conclusions
 
-- Bateh, J., Castaneda, M.E. and Farah, J.E., 2013. Employee Resistance To Organizational Change. International Journal of Management & Information Systems, 17(2), p. 113 – 116.
+Global economy continues to influence the manner in which companies run their business. All workplaces are subject to change. The pace of change is substantially different from one place to another and frequent changes may create a stressful environment for employees. Change in organizations is an ongoing daily challenge. However, the current business environment, impacted by globalization, has made it necessary for organizations to manage change, and change management has become one of the key management skills.
 
-- Bernard Burnes, 2017. Managing change. Seventh edition, Pearson, Harlow, England, New York. ISBN 9781292156071.
+The purpose of this study is to present two major topics discussed in the literature, namely,
 
-- Brisson-Banks, C.V., 2010. Managing change and transitions: A comparison of different models and their commonalities. Library Management, 31(4), p. 241-252.
+resistance to change and readiness for change.
 
-- Chenevert, D., Kilroy, S. and Bosak, J., 2019. The role of change readiness and colleague support in the role stressors and withdrawal behaviors relationship among health care employees. Journal of Organizational Change Management, Vol. 32, No. 2, pp. 208-223.
+Change is a migration from the current situation to a desired future situation. Change management as a practical activity is aimed both at configuring the desired situation and at managing the successive transition through several intermediary stages until reaching the desired situation. Change in organizations is represented by any change in an organization’s state of affairs. As a discipline, change management focuses on voluntary organizational change implemented in response to environmental factors or on the organization’s own initiative, a change that must be managed in order to achieve the desired future condition (Srivastava & Agrawal, 2020).
 
-- Dent, E. B. and Goldberg, S. G., 1999. Challenging “Resistance to Change”. Journal of Applied Behavioral Science, Vol 35, Issue 1.
+Change management is a complex task, which not only starts at different levels, but must bring together the most diverse interests of those involved in a constructive manner. In this respect, knowing the potential causes of failure is as important as knowing the factors which contribute to success (Lauer, 2021).
 
-- Enders T., Martin D., Sehgal G.G. and Schüritz R., 2020. Igniting the Spark: Overcoming Organizational Change Resistance to Advance Innovation Adoption – The Case of Data-Driven Services. In: Nóvoa H., Drăgoicea M., Kühl N. (eds) Exploring Service Science. IESS 2020. Lecture Notes in Business Information Processing, vol 377. Springer, Cham. https://doi.org/10.1007/978-3-030- 38724-2_16.
+Resistance to change is a topic of frequent concern in the literature. The process of change is delayed because of such resistance, which is perceived as a collateral damage of change efforts. Resistance may take many forms, such as deliberate tardiness, resignation, strikes, sabotage of the organization’s property, etc. (Sundus et al, 2017, p.17).
 
-- Ford, J.D., Ford, L.W. and D’Amelio, A., 2008. Resistance to change: The rest of the story. Academy of Management Review, 33(2), 362-377.
+Employees’ resistance to change must be managed by means of support and involvement from the managers. Employee involvement and empowerment are frequently mentioned in the literature as being helpful in reducing resistance to change. Some authors (Sundus et al, 2017, p.18) have presented a better perspective to encourage and support the employees in cope with change, by stating
 
-- Georgalis, J., Samaratunge, R., Kimberley, N. and Lu, Y., 2015. Change process characteristics and resistance to organisational change: the role of employee perceptions of justice. Australian Journal of Management, Vol. 40, pp. 89-113.
-
-- Guidetti, G., Converso, D., Loera, B. and Viotti, S., 2018. Concerns about change and employee wellbeing: the moderating role of social support. Journal of Workplace Learning, Vol. 30, No. 3, pp. 216-228.
-
-- Kinicki, A. and Williams, B., 2020. Management: a practical introduction. Ninth edition. New York, NY: McGraw-Hill Education.
-
-- Lauer, T. 2021. Change Management. Fundamentals and Success Factors. Springer-Verlag GmbH, Berlin, Germany.
-
-- Mohajan, H.K., 2018. Qualitative Research Methodology in Social Sciences and Related Subjects. Journal of Economic Development, Environment and People, 7(01), 23-48.
-
-- Partington, D., 2002. Essential skills for management research. London: SAGE Publications Ltd.  Rahe, M. and Morales, C., 2005. Reducing Resistance to Change through Knowledge Management: A Conceptual Approach. Research and Practice in Human Resource Management, 13(2), 49-64.
-
-- Raza, M.A., Khan, M.M. and Mujtaba, B.G., 2018. The impact of organizational change on employee turnover intention: does stress play a mediating role. Public Organization Review, Vol. 18, No. 3, pp. 313-327.
-
-- Robbins, S.P. and Judge, T.A., 2019. Organizational Behavior. 18th edition, Pearson Education, London.
-
-- Robbins, S.P., Coulter, M., Martocchio, J.J. and Long, L.K., 2018. Management. 14th edition, Pearson, Always Learning, and Mymanagementlab®, Pearson Education, Inc., United States of America.
-
-619
+618

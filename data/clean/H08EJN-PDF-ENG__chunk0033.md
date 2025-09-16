@@ -1,5 +1,15 @@
-# personal happiness.
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: abfaa37cdec0633ae90f242e199c6cc0b617d8cf
+title: H08EJN-PDF-ENG
+---
+# Examine Your Own Reluctance to Change
 
-Some bosses constantly change their minds because they don’t think
+The elusive certainty our brain so desperately craves is unlikely in
 
-through their directives, don’t value the time of their team, or aren’t
+today’s business environment. Recognizing a baseline level of ongoing
+
+change as inevitable is crucial for leading yourself. More importantly,
+
+being able to operate in the face of change is imperative for your

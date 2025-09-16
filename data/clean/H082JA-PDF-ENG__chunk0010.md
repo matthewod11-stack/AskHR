@@ -1,5 +1,27 @@
-# ﬂatter organizational structures.
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32a2972b465ffa6cacace958609a24d869d8a78b
+title: H082JA-PDF-ENG
+---
+## HBR / Digital Article / The Challenges of Becoming a Less Hierarchical Company
 
-We (the ﬁrst two authors) have reviewed hundreds of internal
+massive value through the promise of increased collaboration, agility,
 
-documents, videos, presentations, and employee surveys provided to
+and employee empowerment. Research ﬁndings lend further support to
+
+these ideas — a meta-analysis of 54 published studies involving 13,914
+
+teams found that hierarchy tends to harm performance.
+
+Although experiments with ﬂattening the hierarchy in high-proﬁle
+
+companies like Zappos and Google have yielded mixed results —
+
+leading some to claim that certain types of ﬂat structures are “hella
+
+crazy” and “rarely work” — the fact remains that ﬁrms are gradually
+
+becoming less centralized. Thus, successfully organizing for the future
+
+requires a deep understanding of how to design, implement, and assess

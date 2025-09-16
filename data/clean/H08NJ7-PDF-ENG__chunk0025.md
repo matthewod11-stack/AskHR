@@ -1,17 +1,21 @@
-## HBR / Digital Article / 4 Styles of Coaching—and When to Use Them
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bf94d637c5e65bbdaac3955e19da60fd9f402eb
+title: H08NJ7-PDF-ENG
+---
+# chain?”
 
-This approach fosters self-awareness, provides the right experience-
+Then, you can move to advising them: “Given your passion for building
 
-based guidance, and empowers the employee to make the eventual
+new businesses (and desire to move into general management), have
 
-decision-making after taking all factors into consideration.
+you considered applying for the deputy country head role in Bangladesh since we have just opened a new oﬃce there? I saw the job description
 
-. . .
+and I think it aligns well with your skills. What do you think about that?”
 
-The essence of eﬀective coaching lies in the ability to discern when
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to employ diﬀerent styles and approaches. It’s a dynamic process that
+7
 
-evolves with experience and practice. As you continue to hone your
-
-coaching skills, you’ll naturally develop the intuition to adapt your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

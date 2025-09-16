@@ -1,9 +1,9 @@
-## disparity between white men and women of color for emotion work
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c011a7834f8b14eb333ed27ff72638397064c9a2
+title: H08AOU-PDF-ENG
+---
+## oﬃce housework between white men and Asian women decrease by
 
-like playing the peacemaker. Another ﬁnancial institution saw a seven-
-
-point drop in the disparity between white men and women of color for
-
-administrative work, like taking notes in a meeting.
-
-We were, frankly, astonished that our bias training proved so eﬀective. Our workshop is diﬀerent than most bias workshops in several distinct
+21 percentage points. An energy company saw a 13-point drop in the

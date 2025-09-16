@@ -1,7 +1,11 @@
-# Wang Y.
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: 76623e953b6680e2854dc4b061519e5f6724d9c4
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+# Journal of Management, 37, 1228–1261.
 
-(2008). Emotional bonds with supervisor and co-workers: Relationship to organizational commitment in China’s foreign-invested companies. The International Journal of Human Resource Management, 19, 916–931.
+Walumbwa F.O., Hartnell C.A. and Oke A. (2010). Servant leadership, procedural service climate, employee attitudes, and organizational citizenship behavior: a cross-level investigation. Journal of Applied Psychology, 95, 517–529.
 
-Wang H., Law K.S., Hackett R.D., Wang D. and Chen Z.X. (2005). Leader- member exchange as a mediator of the relationship between transforma- tional leadership and followers’ performance and organizational citizenship behavior. Academy of Management Journal, 48, 420–432.
-
-Watkins K.E. and Marsick V.J. (1997). Dimensions of the learning organiza-
+justice climate,

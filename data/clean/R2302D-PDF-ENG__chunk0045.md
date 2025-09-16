@@ -1,1 +1,13 @@
-## HBR / Magazine Article / Redesigning How We Work
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f75a0f0ecb5acc7469a11258b4e6d928a738733f
+title: R2302D-PDF-ENG
+---
+# term hybrid future.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+10
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

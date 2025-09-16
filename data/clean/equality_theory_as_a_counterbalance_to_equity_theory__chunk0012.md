@@ -1,3 +1,13 @@
-# that
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: 40b86423146912c050e23737e6ab917e0eb2199a
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+## The Conceptualization of Inputs under Distributive Equality
 
-123
+To understand why this conception of equality is prob- lematic, note that if one closely examines the notion of inputs, one can in fact envision three distinct treatments of inputs that might give rise to an equality of distribution. One such treatment suggests that we distribute outcomes based on an equality standard when we are simply unable to discern differential inputs. For example, in the context of small group or team projects, it can be notoriously difﬁcult to accurately measure or assess each individual’s unique contribution. This is particularly the case due to the highly interdependent nature of the work (and particularly knowledge work) in many contemporary organic contexts it can be virtually impossible to separately identify indi- vidual contributions. In such an event, an organization (or manager) may have little choice but to lump all members’ inputs as one and the same, and consequently to reward all, to at least some degree, equally.
+
+Yet a second potential treatment of inputs exists. Here consider a context wherein an organization is in fact able to discern or to measure differential inputs, yet chooses to ignore these differential inputs (or to downplay them) in the interest of creating a motivated harmony (i.e., to foster a sense of community and solidarity—per the logic cited above). In other words, even to the extent, an organization is capable of distinguishing distinctive individual contri- butions, it might make an explicit choice not to focus on such, the thinking being that vesting all members with common accountability (and thus equal outcomes) will engender greater teamwork, cooperativeness—a common sense of investiture in work processes and outcomes.
+
+Neither of these two treatments of inputs is defective; each offers an important contribution. However, we sug- gest that the two views above contain the seeds of a social construction and deﬁnition of the meaning of equality that is an equality perceived through the lens of equity-based conceptualization. For if we deconstruct what is going on, the tacit logic is that we presumptively know that team member inputs are in fact not equal (either because we cannot measure them or because we choose not to measure them), but in order to maximize team identiﬁca- tion, cohesion and harmony we ‘‘imagine,’’ ‘‘assume’’ or

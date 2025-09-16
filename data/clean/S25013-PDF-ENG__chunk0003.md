@@ -1,11 +1,15 @@
-# activities.
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 760749da02b7a7668c66d850325c65b41c654932
+title: S25013-PDF-ENG
+---
+# Jun Cen
 
-AI’s success hinges not only on its capabilities, which are becoming
+Artiﬁcial intelligence has created a striking paradox. Consider that in
 
-more advanced every day, but on people’s willingness to harness them.
+a 2023 Gartner survey, 79% of corporate strategists said that the use of
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+AI, automation, and analytics would be critical to their success over the
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+next two years. But only 20% of them reported using AI in their daily

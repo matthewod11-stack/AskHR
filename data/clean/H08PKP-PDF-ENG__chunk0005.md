@@ -1,11 +1,39 @@
-# The Strategic Refusal Matrix
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 369c442701f3242352e88b0aedb7694a253ce020
+title: H08PKP-PDF-ENG
+---
+## and a sharp decline in execution—in short, widespread change fatigue.
 
-Prioritizing work under competing demands can be diﬃcult, especially
+As executive coaches, we’ve consistently seen that leaders who take
 
-when pushing back feels risky. The strategic refusal matrix provides a
+on impossible goals don’t do it because they lack judgment—they do
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+it because pushing back feels risky to them. Pressure from the top, a
 
-2
+culture of “yes,” and intense market competition make committing the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+only safe choice. Many leaders also fall into the well-known traps of
+
+optimism bias, perfectionism, or a need to prove their worth, all of
+
+which skew their decision-making ability.
+
+The real leadership skill is not ﬁguring out how to do it all; it’s knowing
+
+when and how to push back. That’s where strategic refusal comes in.
+
+Strategic refusal is a structured method to force prioritization and push
+
+back on unrealistic demands that jeopardize team productivity, morale,
+
+or well-being. The idea isn’t to avoid responsibility, but rather to protect
+
+the team, maintain long-term performance, and ensure sustainable
+
+outcomes—all while safeguarding your reputation.
+
+Strategic refusal has two main components: a matrix to help you
+
+determine when to act and a framework to guide you on how to act.

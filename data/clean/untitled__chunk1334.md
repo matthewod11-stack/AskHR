@@ -1,7 +1,11 @@
-## development. Child Development, 5, 1333–1353.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8b9d9c4b114202c2716aa9ed37b7ea811f01574b
+title: untitled
+---
+## fancy? Merrill-Palmer Quarterly, 4, 267–294.
 
-Sears, R. R. (1944). Experimental analysis of psychoanalytic phe- nomena. In J. M. Hunt (Ed.), Personality and the behavior dis- orders (Vol. 1, pp. 306–332). New York: Ronald Press.
+Sameroff, A. J. (1994). Developmental systems and family func- tioning. In R. D. Parke & S. G. Kellam (Eds.), Exploring family relationships with other social contexts (pp. 199–214). Hillsdale, NJ: Erlbaum.
 
-Sears, R. R. (1975). Your ancients revisited: A history of child de- velopment. In E. M. Hetherington (Ed.), Review of child devel- opment research (Vol. 5, pp. 1–73). Chicago: University of Chicago Press.
-
-Sears, R. R., Maccoby, E. E., & Levin, H. (1957). Patterns of child
+Scarr, S. (1993). Biological and cultural diversity: The legacy for

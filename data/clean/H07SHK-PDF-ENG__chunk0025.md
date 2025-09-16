@@ -1,19 +1,33 @@
-## Factors to Consider in Choosing How Much to be Engaged
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0208df75c641c8e26e6792e79f70371c3efbdcc5
+title: H07SHK-PDF-ENG
+---
+# Making the Decision
 
-CEOs often use various criteria to determine the level of personal
+For some matters, such as setting the overall performance targets of the
 
-involvement they have across the decision-making landscape. These
+company, the CEO may be the principal decision-maker, choosing to
 
-include the decision’s strategic importance: Does it matter for the
+make the ﬁnal call after a set of recommendations have been presented.
 
-CEO’s key priorities and have long-term implications for the company’s
+In other situations, the CEO may choose to consult with a small group of
 
-direction, vision, or mission? High-level strategy decisions almost
+key executives and board members, as in the case of M&A deals, or while
 
-always warrant the CEO’s direct engagement. Other factors that may
+selecting top management team members. In other situations, such as
 
-inﬂuence the CEO’s involvement include the decision’s impact on
+formulating a business unit’s strategy, the CEO may let others, such as
 
-the company’s ﬁnancial health, either in terms of revenue, costs, or
+the business unit heads, make decisions, and then endorse them. In yet
 
-proﬁtability; or the risk associated with the decision, either in terms of
+other circumstances, such as deciding which R&D projects the company
+
+should pursue, although the CEO may participate at some stage to better
+
+understand the choices under consideration, the CEO may delegate the
+
+ﬁnal decision to a senior manager such as the head of R&D, because the
+
+CEO may lack the technical expertise to weigh in.

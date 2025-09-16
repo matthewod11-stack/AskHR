@@ -1,3 +1,9 @@
-# Determining Salary Increases
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: fddaf62b1d3ec33b43468086b697701866ff493b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Providing Employee Training and Feedback
 
-As mentioned in Chapter , a job’s worth is determined by many factors, including the degree of responsibility and level of education required to per- form the job. But the difference in compensation between two individuals within the same job is a function of both tenure and job performance. That is, it would not seem fair to pay a poor-performing employee the same amount as an excel- lently performing one. Thus, one important reason for evaluating employee performance is to provide a fair basis on which to determine an employee’s sal- ary increase. If performance appraisal results are to be used to determine salary increases, a numerical rather than narrative format is probably needed.
+By far, the most important use of performance evaluation is to improve employee performance by providing feedback about what employees are doing right and wrong. Even though employee training should be an ongoing process (see Chapter ), the semiannual performance appraisal review is an excellent time to meet with employees to discuss their strengths and weaknesses. But more impor- tant, it is the time to determine how weaknesses can be corrected. This process is thoroughly discussed later in the chapter.

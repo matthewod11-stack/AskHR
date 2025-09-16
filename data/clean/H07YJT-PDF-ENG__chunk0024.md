@@ -1,7 +1,11 @@
-# factors beyond your employee’s control.
+---
+source_path: H07YJT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 284b4467533dba3af055753ce5fcb6f630d8a179
+title: H07YJT-PDF-ENG
+---
+# Do:
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+- Foster a pragmatic, supportive tone to the conversation by
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+acknowledging challenging economic conditions and the external

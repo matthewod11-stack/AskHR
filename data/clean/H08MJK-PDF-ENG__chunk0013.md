@@ -1,21 +1,11 @@
-## often through electronic technology — without direct engagement with
+---
+source_path: H08MJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a17f680af90e3c90e04938904305d5f59eb12f49
+title: H08MJK-PDF-ENG
+---
+# Observational Monitoring
 
-employees; for instance, tracking work hours, online activity, or output
+Observational monitoring is the traditional approach most people
 
-through software or using other electronic monitoring technologies
-
-mentioned at the start of this article.
-
-While this method provides managers with a wealth of information, it is
-
-intrusive, often leaving employees feeling scrutinized and undervalued,
-
-which can hamper employee innovation and creativity. Our research
-
-found that remote workers experiencing observational monitoring
-
-reported that they tended not to share ideas, voice concerns, or suggest
-
-improvements for the organization or work unit. In fact, many noted
-
-that they actively withheld these insights, contributing to a workplace
+associate with monitoring. It involves passively collecting data —

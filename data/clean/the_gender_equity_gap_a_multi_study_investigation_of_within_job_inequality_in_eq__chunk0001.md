@@ -1,0 +1,7 @@
+---
+source_path: the_gender_equity_gap_a_multi_study_investigation_of_within_job_inequality_in_eq.md
+pages: n/a-n/a
+chunk_id: ffb84b2fc6dfa98a4e06e8cd69e9ac4ad1542168
+title: the_gender_equity_gap_a_multi_study_investigation_of_within_job_inequality_in_eq
+---
+

@@ -1,7 +1,11 @@
-# vs. task performance, 102
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 4e09b9bcda6306f24b51f6ded92ca3d2162168f0
+title: performance_management_3rd_edition_by_aguinis
+---
+# Compton, R., 34 Confidence
 
-Contingent pay (CP), 11 adoption, 265–267 plan, 264–265, 272b, 289–290 problems, 268–270, 269t selection, 270–272, 289
+coaching, 229–230 feedback, 239 Conger, J. A., 224 Conlon, D. E., 314 Context effects, peer evaluations, 147 Contextual performance, 91–94, 92t,
 
-Continuous process, 2 Contrast error, 177, 180t Cooke, D. K., 193 Corning, Inc., 266 Correctability, 22, 30 Cost, 8, 10 Cost-of-living adjustments
-
-(COLA), 11
+95f, 96b, 100

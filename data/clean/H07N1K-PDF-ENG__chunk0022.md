@@ -1,11 +1,15 @@
-# dinner.
+---
+source_path: H07N1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13357097a0a13c029f282ad1e2c0684e911e87e5
+title: H07N1K-PDF-ENG
+---
+## New Move: Discuss work in a positive way with your kids.
 
-But try ﬂipping things around and seeing them from your kids’
+When work and home-life responsibilities clash, as they did so often
 
-perspective. They’ve watched you quite closely these past few years.
+and starkly throughout the pandemic, it’s natural to view and talk about
 
-They’ve seen your tension and disappointments and witnessed your
+them in oppositional terms. And you’re only human, after all: Your
 
-short fuse. As you nurture them toward their own eventual adulthoods,
-
-are those really the feelings and attitudes you want them to associate
+boss’s message is stressful to read, or you’re disappointed about missing

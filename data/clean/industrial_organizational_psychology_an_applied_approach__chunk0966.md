@@ -1,9 +1,27 @@
-# www.monster.com www.CareerBuilder.com www.hotjobs.com www.careerbank.com www.usajobs.com
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d563be1935806ad8581cd5bf30e92139c46323a3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Internet
 
-Most major newspapers also have their help-wanted ads online. For example, jobs in Atlanta can be viewed on the Web at http://www.aajcclassifieds.com, and jobs in Chicago (through the website of the Sun-Times newspaper) can be viewed at http://searchchicago.suntimesw.com/jobs/index.html.
+The Internet continues to be a fast-growing source of recruitment; in , hir- ing managers said that they received % of their résumés electronically (Stimson, ). Internet recruiting efforts usually take one of two forms: employer-based websites and Internet recruiting sites.
 
-Though the use of online recruiting and screening has certainly increased, there is little research investigating whether the Internet is an effective recruit- ment source (Hausdorf & Duncan, ). There seems to be little doubt that the Internet generates more applications than more traditional recruiting methods, but the relative quality of those applicants is not known. In the only study to date addressing this issue, McManus and Ferguson () found that Internet sources produced better-quality applicants than did newspaper ads and career fairs and produced similar quality to school placement offices.
+employee selection: recruiting and interviewing
 
-As is the case with print media, the look and content of a Web recruitment page or advertisement greatly influences applicant reactions. A study by Dineen, Ling, Ash, and Del Vecchio () found that Web-based job postings were most effective when the posting was aesthetically pleasing and contained customized information about the job and the company. Aesthetics or content by themselves were not enough to influence applicant reactions.
+127
 
-Many organizations are expanding the traditional Web approach by blogging (Hasson, ). Blogging allows recruiters to more informally discuss an organi- zation’s career opportunities and corporate culture with potential applicants. The blog will usually include links to the organization’s official employment website. An example of a blog for T-Mobile can be found at www.wirelessjobs.com and the blog for Honeywell Corp. at www.honeywellblogs.com. Note the vast difference in the style and tone of the two blogs.
+128
+
+chapter 
+
+Employer-Based Websites With employer-based websites, an organization lists available job openings and provides information about itself and the minimum requirements needed to apply to a particular job. Though the level of sophistication varies across organization websites, on most, applicants can download their résumés, answer questions designed to screen out unqualified applicants, and then actually take employ- ment tests. On many sites, the tests are instantly scored, and if the applicant is deemed qualified, interviews are scheduled electronically.
+
+Recently, a major change in employer-based websites has been the use of the .jobs domain (SHRM ). Previously, an applicant interested in a job at a company such as Allstate Insurance would need to go to the Allstate website and then find the link to the jobs section. As of , most major employers have added the .jobs domain to make this process easier; a person interested in a job at Allstate or Raytheon, for example, could directly access jobs at that company by typing the URL www.allstate.jobs or www.raytheon.jobs.
+
+Rock Bottom restaurants (Rock Bottom Brewery, Old Chicago pizza, Chop House, and Sing Sing nightclub) provide an excellent example of an employer using an automated hiring system. Applicants can apply for jobs and complete personality inventories online at home, at a Rock Bottom restaurant, or at a career fair. The system automatically screens for work eligibility, scores the tests, and sends messages to restaurant managers letting them know when a high- quality applicant has applied. The system even suggests interview questions the manager should ask a particular applicant (e.g., Why did you have a three-month gap between jobs in ?). Since using the new online system, turnover has gone down.
+
+Internet Recruiters Internet recruiters continue to grow and have an impact on hiring: In  there were more than , employment-related websites (Leonard, ), and % of organizations used an Internet recruiter either to list jobs or to search through résumés (Gere et al., ). An Internet recruiter is a private company whose web- site lists job openings for hundreds of organizations and résumés for thousands of applicants. The largest Internet recruiter, Monster.com, had more than  million unique visitors per month in . Although small organizations are as likely as larger ones to recruit employees through their webpages, larger organizations are more likely to use Internet recruiters (Hausdorf & Duncan, ).
+
+Employers are finding that there are many advantages to using Internet recruiting compared with traditional newspaper help-wanted ads. Perhaps the biggest advantage is the cost; depending on the geographic location, advertise- ment size, and length of the ad run, advertising in a major city newspaper can be  times more expensive than Internet recruiting. Internet recruiting reaches more people over a larger geographic area than do newspaper ads, and whereas the Sunday edition is the main newspaper recruitment tool, “every day is Sunday” on the Internet. Though the Internet changes every day, these were the leading recruitment websites in early :

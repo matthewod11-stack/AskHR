@@ -1,11 +1,13 @@
-# Experts During the Design Process
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: 742bac6fdd7d7b43aa4bae83f64764a7e0a418f8
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Razzouk & Shute
 
-Expert designers solve complex problems more easily than novices (Cross, 2004). During a conceptual design process, experienced designers do not just syn- thesize solutions that satisfy given requirements, they also invent design issues or requirements that capture important aspects of a given problem that assist in solv- ing the problem at hand (Liu, 1996). From protocol studies of experienced engi- neering designers, Lloyd and Scott (1994) found that the manner by which experts approach a problem is related to the degree and type of previous experience. More experienced designers tend to use generative reasoning (i.e., an inductive approach) compared to less experienced designers who employ more deductive reasoning (depth-first approach). In other words, designers with specific experiences related
+actions, and goals) of a novice and an expert architect. Using protocol analysis, the researchers investigated concurrent cognitive actions of designers and found sig- nificant differences in output between novice and expert designers. The protocol was divided into segments. A cognitive segment consisted of cognitive actions that appeared to occur simultaneously. They found that the design protocol of the expert included 2,916 actions (i.e., chunks) and 348 segments, whereas the nov- ice’s protocol included 1,027 actions and 122 segments. Each segment consisted of 8 cognitive actions on average. Considering that the same amount of time was given to both participants, the expert’s design protocol was 2.8 times as rich as the novice’s in terms of actions. There were also 2.8 times as many segments in the expert designer’s session as in the novice’s. Therefore, the expert had more overall fluency in relation to divergent thinking skills. The expert’s cognitive actions con- tinuously rose throughout the activity, while the novice’s cognitive activity started at a peak and then declined. The authors also found that the expert seemed to have more control of his cognitive activity compared to the novice. Because the expert’s cognitive actions are well organized, he was able to govern his performance more efficiently than the novice.
 
-340
+These findings align with those by Tang and Gero (2001), who found substan- tial differences between a novice and an expert architect. Using a retrospective protocol analysis, the authors found differences between the novice and expert designers in relation to four design levels: (a) the physical level, which refers to the instances that have direct relevance to the external world, comprising drawing and looking actions; (b) the perceptual level, which concerns the instances of attending to visual-spatial features/relationships in an automatic perceptual mech- anism; (c) the functional level, which relates to the instances of functional refer- ences mapped between visual-spatial features/relationships and abstract concepts, including meanings and functions; and (d) the conceptual level, which represents the instances that process abstract concepts and the instances that process physical and perceptual actions. The expert seemed to create more meaning at the physical and perceptual levels than the novice.
 
-Downloaded from
-
-http://rer.aera.net
-
-at AERA on October 2, 2012
+Differences between novices and experts performing design-related problems were also studied by Göker (1997). The author examined novices and experts on a task involving computer-simulated construction of machines. Göker found that the experts, skilled in the use of computer simulations, did not reason toward a design concept in an abstract way, but relied more on their experience and visual information. In contrast, novices depended more on abstract reasoning.

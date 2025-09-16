@@ -1,7 +1,21 @@
-## ual. Champaign, IL: Institute for Personality and Ability Testing.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: d239ed8fa2f29850166a626c379fdf3a0fd1bb40
+title: barrickryan_eds_personality_and_work
+---
+## Caprara, G. V., Barbanelli, C., & Zimbardo, P. G. (1997). Politicians’
 
-Costa, P. T., & McCrae, R. R. (1992). Revised NEO Personality Inventory (NEO PI-R) and NEO Five-Factor Inventory (NEO-FFI) professional man- ual. Odessa, FL: Psychological Assessment Resources.
+uniquely simple personalities. Nature, 385, 493.
 
-Crutcher, R. (1931). Personality and reason. London: Favil. Deary, I. J. (1996). A (latent) Big Five personality model in 1915? A re- analysis of Webb’s data. Journal of Personality and Social Psychology, 71, 992–1005.
+Cattell, R. B. (1943). The description of personality: Basic traits resolved into clusters. Journal of Abnormal and Social Psychology, 38, 476–506. Church, A. T., Katigbak, M. S., & Reyes, J.A.S. (1998). Further exploration of Filipino personality structure using the lexical approach: Do the Big Five or Big Seven dimensions emerge? European Journal of Per- sonality, 12, 249–269.
 
-De Raad, B., Di Blas, L., & Perugini, M. (1997). Two independent Italian trait taxonomies: Comparisons with Italian and between Italian Ger- manic languages. European Journal of Personality, 11, 167–185.
+Church, A. T., Reyes, J.A.S., Katigbak, M. S., & Grimm, S. D. (1997). Fil- ipino personality structure and the Big Five model: A lexical ap- proach. Journal of Personality, 65, 477–528.
+
+Cloninger, C. R. (1987). A systematic method for clinical description and classiﬁcation of personality traits. Archives of General Psychiatry, 44, 573–588.
+
+Cloninger, C. R., Przybeck, T. R., Svrakic, D. M., & Wetzel, R. D. (1994). The Temperament and Character Inventory (TCI): A guide to its develop- ment and use. St. Louis, MO: Center for Psychobiology of Personal- ity, Washington University.
+
+Comrey, A. L. (1988). Factor-analytic methods of scale development in personality and clinical psychology. Journal of Consulting and Clini- cal Psychology, 56, 754–761.
+
+Conn, S. R., & Rieke, M. L. (1994). The 16PF Fifth Edition technical man-

@@ -1,1 +1,9 @@
-# Bateman, T. and Snell, S., Management: Building competitive advantages, 4th edition, McGraw
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: 72c7a169046c82636800696562957dceecde7146
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+## Construction management and economics, 18 (2), 15-29, (2002).
+
+Atiku, S. O., Genty, K. I. and Akinlabi, B. H., Effect of Electronic Banking on Employees’ Job Security in Nigeria, European Journal of Humanities and Social Sciences, 4(2), 68 – 84, (2011).

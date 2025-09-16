@@ -1,7 +1,27 @@
-## The hiring professionals at the Borgata Hotel
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c37f5df9c83e82e99b5f77b62f321f07e94d7fbc
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Harvard economics professor Robert Barro
 
-Casino and Spa in Atlantic City, New Jersey, embrace this philosophy. Applicants for positions of waiters and waitresses are told that they cannot gain more than 7% of their body weight from the time they weigh at hire. This means that a 125-pound woman cannot gain more than eight pounds over her tenure at the company. Of course, if you are a little too heavy to begin with (not obese, though), you won’t even get an interview. Defenders of the right to hire based on looks say that physically attractive people are perceived as smarter, more successful, more sociable, more dominant, and as having higher self-esteem. And, customers would rather be helped by those types of employees rather than the less attractive ones. The assumption is that the more beautiful employees a company has, the more clients or customers that business will attract.This, of course, means more money for the company. And, the more money the company brings in, the higher the salaries employees can earn. So, according to the defenders, it’s a win-win situation. Well, win-win for the beautiful people, anyway.
+believes that physical appearance is always a bona fide worker qualification as long as customers and coworkers think that it is. That is, if customers want to be served by beautiful people and coworkers prefer working with beautiful people, then it should be okay for companies to recruit and hire based on an individual’s looks.
 
-And speaking of salaries. In 2005, the Federal Reserve Bank of St. Louis reviewed the correlation
+When people refer to someone’s “looks” or “physi-
 
-So, like Professor Barror implies, as long as we, the customer, prefer looks over highly skilled professionals, companies should have the right to refuse employment to unattractive, short, and overweight applicants.
+person’s height, weight, and facial symmetry (i.e., high cheekbones vs. no visible cheekbones; small nose vs. big or bulbous nose). Because looks are subjective, beauty really is in the eyes of the beholder. In the United States, as well as other countries, beautiful people are often judged based on their external char- acteristics, rather than such internal characteristics as personality and ability. And it appears that many employers want employees who are tall and strong (for men), small/petitite (for women), with no visible
+
+cal appearance,” they are generally referring to that
+
+employee selection: recruiting and interviewing
+
+153
+
+body fat, and a handsome or pretty face. Even those HR professionals who know better can often fall into the “looks” trap when recruiting and hiring.
+
+Although some cities have laws against
+
+discrimination of applicants based on their height, weight, and/or physical appearance (e.g., San Francisco, CA; Santa Cruz, CA; Washington, D.C.), basically, there is no real protection from appearance-based discrimination unless it singles out applicants based on race, gender, or age. That is, you don’t have to hire ugly people so long as you aren’t hiring them because of their race, gender, or because they are old.
+
+between looks and wages. The research showed that workers with below average looks earned, on average, 9% less per hour than above average looking workers. Above average looking employees earn 5% more than their average looking coworkers. And Fortune 500 companies seem to hire male CEOs that are about 6 feet tall, which is 3" taller than the average man. Competency and the ability to do the job are often overlooked when emphasis is placed on looks. Although these beautiful people may be able to do the job, there may be less attractive people denied a position who could do the job more successfully.

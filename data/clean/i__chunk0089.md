@@ -1,9 +1,9 @@
-## mining and business analytics techniques to the field of HR=.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: d455131d4a0a2b828570c348dc226dc605d7ec10
+title: i
+---
+# that drive customer retention and customer satisfaction= (Bersin, 2015). Among many
 
-Isson et al. (2016) argue that the field of PA initiates the process by formulating specific talent
-
-management inquiries or objectives. Subsequently, it combines diverse data sources for
-
-generating predictive insights concerning future scenarios. These insights, in turn, serve as a
-
-basis for formulating actionable strategies within organizations, leading to quantifiable
+definitions for PA, Vihari and Rao (2013) describe PA as <the application of sophisticated data

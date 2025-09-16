@@ -1,9 +1,11 @@
-# Human Decision Processes, 97, 117-134.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 9576bbc8cf6d5e6ed546ba71a43a1933ef1bdfd3
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
 
-Chan, S. C., & Mak, W. M. (2014). The impact of servant leadership and subordinates'
+Brown, M. E., Treviño, L. K., & Harrison, D. A. (2005). Ethical leadership: A social learning
 
-organizational tenure on trust in leader and attitudes. Personnel Review, 43, 272-287.
-
-Chen, X. P., Eberly, M. B., Chiang, T. J., Farh, J. L., & Cheng, B. S. (2014). Affective trust
-
-in Chinese leaders linking paternalistic leadership to employee performance. Journal
+perspective for construct development and testing. Organizational Behavior and

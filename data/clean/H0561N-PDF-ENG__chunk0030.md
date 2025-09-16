@@ -1,11 +1,13 @@
-## HBR / The Big Idea / The Gender Gap in 6 Charts
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f40e2f7ac1268928c44281f7bab9317b23daddf9
+title: H0561N-PDF-ENG
+---
+# improvements between 2017 and 2018.
 
-All of this leads to both good and bad news about how soon gender
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-equality will happen. The numbers, by region, are below.
+7
 
-Fifteen countries are on track to close the gap in the next 50 years,
-
-including France (22 years) and Iceland (23 years). Thirty-ﬁve countries
-
-should do so within a century, including Canada (51 years), Switzerland
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

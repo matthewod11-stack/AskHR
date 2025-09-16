@@ -1,9 +1,17 @@
-## HBR / Digital Article / 3 Ways to Mitigate Executive Turnover
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ba1f40b2874d1c5c60b7048262ed6099984b5ae
+title: H08TM9-PDF-ENG
+---
+# today and into the future.
 
-Kate McLaren-Poole is a director on Gartner’s Market Research & Analytics team aligned to Human Resources. She leads a group of quantitative analytics associates conducting research on key HR topics, including C-suite transitions, change leadership, and employee performance.
+This article was originally published online on July 18, 2025.
+
+Alexander Kirss, director of research in the Gartner HR practice, specializes in chief human resource oﬃcer (CHRO) eﬀectiveness with an emphasis on CEO succession planning, C-suite collaboration, and how CHROs can best partner with their CEO and board of directors.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

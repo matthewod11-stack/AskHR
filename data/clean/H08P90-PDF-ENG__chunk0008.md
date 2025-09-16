@@ -1,13 +1,43 @@
-# How Can Companies Leverage Serendipity?
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c73e04f4d2401755255a3a90e243af87d9dcc0b4
+title: H08P90-PDF-ENG
+---
+## of picosecond (one trillionth of a second) lasers for eye surgery. The
 
-Serendipity is a concept that has been around for hundreds of years.
+technology did not function properly. Because the pulses were too long,
 
-It has led to many scientiﬁc breakthroughs. For instance, Alexander
+they inﬂicted a lot of damage to eye tissues.
 
-Fleming discovered penicillin while doing research on inﬂuenza. Pﬁzer
+Juhasz immediately saw the potential of femtosecond lasers. As he
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+recalls: “Ron (Kurtz) gave a talk about his ﬁndings with femtosecond
 
-3
+laser pulses … showing that everything that was the problem
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with picoseconds can be overcome using femtoseconds.” After the
+
+conference, Mourou asked Juhasz to join his team. He also convinced
+
+the University of Michigan, the NIH, and the NSF to provide additional
+
+funding. Together with Kurtz, Juhasz founded the company that
+
+launched the ﬁrst femtosecond laser for ophthalmology in 2001.
+
+Juhasz recalls the early days of the startup: “People in the industry were
+
+initially very skeptical that the concept would work.” But his persistence
+
+paid oﬀ. In 2007, the business was sold to a medical optics company
+
+for more than $ 800 million. Today, it belongs to Johnson & Johnson
+
+Vision. And the story didn’t end there. After working on corrective
+
+eye surgery, Kurtz and Juhasz developed a femtosecond laser-based
+
+procedure for cataract surgery. More recently, Juhasz has created a new
+
+startup that uses the same technology to treat glaucoma.

@@ -1,7 +1,13 @@
-## history. Cambridge, MA: Harvard University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 27cf699bdf489b75b8d23ff34936f02cce07ef1f
+title: untitled
+---
+# London: Sage.
 
-Robinson, J. A. G. (1987). The Montgomery bus boycott and the women who started it. Knoxville: University of Tennessee Press.
+Reiff, R. (1971). Community psychology and public policy. In J. C. Glidewell (Ed.), Issues in community psychology and preventive mental health (pp. 33–54). New York: Behavioral Publications.
 
-Roosa, M. K., & Gonzales, N. A. (2000). Minority issues in preven- tion [Special issue]. American Journal of Community Psychol- ogy, 28.
+Reppucci, N. D. (1990). The conscience of community psychology: Seymour Sarason’s contributions. American Journal of Commu- nity Psychology, 18(3), 353–358.
 
-Rosen, G. (1993). A history of public health: Expanded edition.
+Ridenour, N. (1961). Mental health in the United States: A ﬁfty year

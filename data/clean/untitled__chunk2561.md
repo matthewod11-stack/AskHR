@@ -1,15 +1,15 @@
-# New York: Guilford Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8c3a3105f34f99df7d3858768471a7edf9aa41e0
+title: untitled
+---
+# illness. St. Louis, MO: Mosby.
 
-Gentry, W. D., & Matarazzo, J. D. (1981). Medical psychology: Three decades of growth and development. In L. A. Bradley & C. to K. Prokop (Eds.), Medical psychology: Contributions behavioral medicine (pp. 6–15). San Diego, CA: Academic Press.
+Franz, I. D. (1913). On psychology and medical education. Science,
 
-Gentry, W. D., Street, W. J., Masur, R. T., & Asken, M. J. (1981). Training in medical psychology:Asurvey of graduate and intern- ship training programs. Professional Psychology, 13, 397–403.
+38, 555–566.
 
-Graham,D.T.(1972).Psychosomaticmedicine.InN.S.Greenﬁeld& R.A. Sternbach (Eds.), Handbook of psychophysiology (pp. 839– 924). NewYork: Holt, RinehartandWinston.
+Gatchel, R. (1993). Psychophysiological disorders: Past and present perspectives. In R. Gatchel & E. Blanchard (Eds.), Psychophysiological disorders: Research and clinical applica- tions (pp. 1–21). Washington, DC: American Psychological Association.
 
-Graham, D. T., Stern, J. A., & Winokur, G. (1958). Experimental investigation of the speciﬁcity hypothesis in psychosomatic disease. Psychomatic Medicine, 20, 446–457.
-
-Guze, S. B., Matarazzo, J. D., & Saslow, G. (1953). A formula- tion of principles of comprehensive medicine with special reference to learning theory. Journal of Clinical Psychology, 9, 127–136.
-
-Institute of Medicine. (1982). Health and behavior: Frontiers of research in the biobehavioral sciences (Report of a study by committee of the Institute of Medicine, Division of Mental Health and Behavioral Medicine, NTIS Accession No. PB 82 260–268). Washington, DC: National Academy Press.
-
-Jacobson, E. (1938). Progressive relaxation. Chicago: University of
+Gentry, W. D. (Ed.). (1984). Handbook of behavioral medicine.

@@ -1,13 +1,17 @@
-# support?”
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 100f70203ad24e05a027980cd4d14aa792abac21
+title: H08PKP-PDF-ENG
+---
+## HBR / Digital Article / When You’re Asked to Meet Impossible Goals
 
-- Low Strategic Importance + High Feasibility → Deprioritize: “While
+- Low Strategic Importance + Low Feasibility → Decline & Justify:
 
-we could execute this, it would divert focus from higher-value work.
+“This initiative is unlikely to drive meaningful results, and we don’t have the capacity to execute it eﬀectively. Let’s focus our resources on higher-priority eﬀorts.”
 
-Let’s pause this initiative and revisit it later.”
+- High Strategic Importance + Low Feasibility → Renegotiate: “This
 
-- High Strategic Importance + High Feasibility → Commit & Focus:
+initiative is critical, but we don’t currently have the resources to
 
-“This is both critical and feasible. Let’s allocate the right resources and
-
-move forward.”
+execute it well. Can we adjust the timeline or allocate additional

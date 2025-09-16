@@ -1,7 +1,11 @@
-# Embarrassment? Stress?
+---
+source_path: H071S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c71612c2049d91d53d82b6aafc963445c2971af9
+title: H071S2-PDF-ENG
+---
+# own internal state.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Process what you’re feeling on your own or with a trusted person
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and honestly assess why you’re so upset. Is it a lack of control? Fear?

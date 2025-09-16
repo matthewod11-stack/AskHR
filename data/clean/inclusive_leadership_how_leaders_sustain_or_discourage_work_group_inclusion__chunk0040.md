@@ -1,1 +1,15 @@
-# 17
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: feb798c4fc49f59a865f5c0dd5130bfb83332dc1
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# Shore and Chung
+
+memberships in various groups. Group members create a positive social identity and conﬁrm their connection to a group by showing partiality to members of their own social category (Billig & Tajfel, 1973; Tajfel & Turner, 1986). This can result in disruption of interaction among members in diverse groups (Jehn, Northcraft & Neale, 1999). Categorizing individuals into different groups can elicit animosity within the work group and heighten in- group and out-group membership. This type of social categorization process can encourage exclusionary treatment within the work group.
+
+Social exclusion can involve rejection, microaggressions, or ostracism (Williams, 2007). When targets are socially excluded by the leader, they can feel as though the leader does not consider them to be worthy of even minimal acknowledgment or respectful treatment. People generally respond negatively to opinion and behavior deviates and pressure these individuals to conform to group social norms. When these members do not conform, they are likely candidates for social exclusion (Williams, 2009). In order to prevent the negative consequences of exclusion (Robinson, O’Reilly, & Wang, 2013), the leader needs to consciously consider which group norms are beneﬁcial to their work group members and work goals (e.g., showing up to work on time), and which are really a matter of the leader’s preference (for example, hiring employees who belong to the same religion). But norms often evolve without planning or strategy involved, and sometimes ex- clusion occurs and causes harm to individuals. Below, we brieﬂy describe these types of social exclusion and then the leader exclusion behaviors and effects of those behaviors.
+
+Rejection. Experiences of rejection involve direct negative attention that signiﬁes relational devaluation or otherwise indicates someone is unwanted (Blackhart, Nelson, Knowles, & Baumeister, 2009). Rejection can include when the leader refers to someone in a demeaning way (Demoulin, Leyens, Paladino, Rodriguez-Torres, Rodriguez-Perez, & Dovidio, 2004), when a leader allows an employee to experience discrimination or stigmatization (Kurzban & Leary, 2001; Smart Richman & Leary, 2009), or when the leader laughs at an employee in a disparaging way (Klages & Wirth, 2014).
+
+Microaggressions. Microaggressions are “brief or subtle comments, in- sults, or discriminatory behaviors that members of minority groups often experience on a daily basis” (Wesselmann & Williams, 2017, p. 694). The mistreatment may not be intended, as for example, when the leader expresses surprise that a woman in his team is good at math. These can still be harmful (Sue, Bucceri et al., 2007; Sue, Capodilupo et al., 2007) because it can express racist or sexist attitudes that might otherwise be consciously refuted. Sue, Capodilupo et al. (2007) have proposed a taxonomy of racial micro- aggressions that classiﬁes them under three forms: microassault, microinsult,

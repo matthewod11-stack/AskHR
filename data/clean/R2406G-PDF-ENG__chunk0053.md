@@ -1,15 +1,11 @@
-## Voya Financial Keeps the Promises of Personalization
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eeee47919b7761c7421bd913ef6773390f5502a7
+title: R2406G-PDF-ENG
+---
+## HBR / Magazine Article / Personalization Done Right
 
-One company that’s realizing the potential of personalization is Voya
+the size of each sector, we estimate that a $2 trillion prize is waiting to be
 
-Financial. Recognizing that employee beneﬁts were becoming a no-
-
-win commodity game, Voya’s leaders set out to diﬀerentiate the
-
-ﬁrm. They positioned it as a partner that would improve how its
-
-clients’ employees managed their ﬁnances while delivering superior
-
-economics for employers. To do that, they focused on pulling together
-
-a complete ﬁnancial picture for registered users—including their
+captured across industries by personalization leaders.

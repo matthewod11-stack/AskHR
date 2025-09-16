@@ -1,7 +1,11 @@
-# The Biological Basis for Goals
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: 84b9cf4641ad4608312c13020a62438c4c0a1872
+title: legacies_in_motivation_science
+---
+# Goals and Organizations
 
-We noted in our 1990 book that the foun- dation of goal directed action is biology. Life is a conditional process; it requires action that sustains survival. If no action is taken or the wrong actions are taken, the organism does not survive and cannot reproduce. At the level of lower animals, action that is guided by sensory perception and perceptual level learn- ing is needed. At the human level, there is the need for conceptual thought (reason), voli- tional goal choices (Locke, 2018b), and long- range thinking.
+All organizations require goals; otherwise they have no purpose in being and would not achieve anything. A recent book by John Do- err (2018), inspired by goal-setting research,
 
-Given the nature of life and human nature, it seems obvious that goal-directed choice and action are at the core of human motivation. This fact shows the inadequacy of control theory models of goal setting (Locke, 2018a). torpedoes) do thermostats, Machines (e.g., not have goals; only their builders and users do. Contrary to control theory, discrepancy reduction between a desired goal and one’s level of performance cannot be the primary source of motivation; otherwise the easiest path to take would be to not set goals. More foundational than discrepancy reduction is that the goal-setting process involves discrep- ancy production (Bandura & Locke, 2003). Furthermore, once a goal has been attained, given self-efﬁcacy, people typically set an even higher goal rather than rest on their laurels.
-
-101
+provides a detailed method of how organiza- tions can and should use goal setting to be successful. Based on his work at Intel, he introduced Google’s leadership team to goal setting (based on a study by Locke), which is now a critical part of Google’s leadership strategy. Doerr explained the necessity of making goals transparent to all departments, thus making unethical behavior less likely. Similarly, Kerr and Lepelley (2013) described how G.E. managers, at the insistence of Jack Welch, set stretch goals, that is, goals that were arguably impossible to attain. These were set to stimulate creative outside-the-box thinking. No one was penalized for failure to attain these goals. Hence, no one was tempted to cheat or exaggerate goal attainment. Stretch goals were in addition to assigned minimum goals that did have to be attained.

@@ -1,35 +1,17 @@
-## many interaction (for example, at a team meeting or workshop)?
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5690361b81b0666445cbff294a862b60228b433
+title: H08L2R-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Managers Think Through Problems
 
-Step 3: Outline the dialogue. Envision a sequence of questions and
+introductory phrases like “Act as…”, “Help me…”, “The output of the
 
-statements that will clarify who does what between you and the AI.
+dialogue will be…”, etc.
 
-Deﬁne closely what the AI will bring and what the human will bring;
+Step 2: Deﬁne the setting. Choose the setting in which you’d like the
 
-leaving the ﬂow of the dialogue to chance increases the risk that it will
+conversation to take place. Who is taking part in the conversation?
 
-go oﬀ track.
-
-Step 4: Create the prompt. Write the prompt based on the outline you
-
-drafted. You can use gen AI to help you reﬁne the prompt further, for
-
-instance you can type in the chat: “I have this outline of a dialogue and
-
-need your help turning it into a structured prompt that you can run with
-
-me: ‘[insert your outline here].’”
-
-The sidebar “Two Co-Thinking Dialogues to Try” shows you two
-
-prompts that were created using this framework. We encourage you
-
-to copy and paste them into any gen AI model of your choosing and
-
-start your dialogue now. After you have proceeded through the dialogue
-
-once, try modifying the prompt to address a professional challenge
-
-you are facing — or design a new dialogue from scratch. The more
-
-you experiment with co-thinking dialogues, the faster your skills will
+Should it be a one-to-one interaction between you and AI or as a one-to-

@@ -1,3 +1,9 @@
-## What Do Managers Who Are Both Successful and Effective Do?
+---
+source_path: successful_vs_effective_real_managers.md
+pages: n/a-n/a
+chunk_id: 38ae768a06c2f97d970b879c1f963e5a3bb1486f
+title: successful_vs_effective_real_managers
+---
+## more realistic) members and observers of real organizations
 
-The most obvious concluding question 1s what those who were found to be both successful and effective really do This “combination” real manager, of course, 1s the ideal — and has been assumed to exist in American management
+ers who are both successful and effective

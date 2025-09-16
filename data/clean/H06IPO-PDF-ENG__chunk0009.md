@@ -1,7 +1,21 @@
-## these issues at the group level, not just the individual one.
+---
+source_path: H06IPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f851c7f03bdd0237bdf3de829c6859dfd2e8f59d
+title: H06IPO-PDF-ENG
+---
+# leniency.”
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+Instead, deal with underperformance directly. If someone isn’t able
 
-4
+to do their job according to expectations, understand why and talk
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+through, together, how you can address the root causes. Hirsh suggests
+
+you consider: “Is it their motivation? Is it stress? Is it the workﬂow? Is
+
+it a lack of training? Where are things actually hurting here? And then
+
+focus in on that.” Hill suggests that you consider the team as a whole. If
+
+the entire team is struggling to be productive, then you’ve got to address

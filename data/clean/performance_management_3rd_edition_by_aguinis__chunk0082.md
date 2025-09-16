@@ -1,11 +1,7 @@
-## Chapter 10 Reward Systems and Legal Issues
-
-263
-
-10.1 Traditional and Contingent Pay Plans 264 10.2 Reasons for Introducing Contingent Pay Plans 265
-
-192
-
-221
-
-10.3 Possible Problems Associated with Contingent Pay Plans 268 10.4 Selecting a Contingent Pay Plan 270 10.5 Putting Pay in Context 272 10.6 Pay Structures 276
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 1f9dac137f0d0ed5b390c704dbe7b0e32c513670
+title: performance_management_3rd_edition_by_aguinis
+---
+# Performance Management 263

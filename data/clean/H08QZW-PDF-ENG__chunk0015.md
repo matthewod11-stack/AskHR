@@ -1,7 +1,9 @@
-## rational aspects of the recent decisions.
+---
+source_path: H08QZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94eb4c766dac928601a793ac22c7a54250f5564e
+title: H08QZW-PDF-ENG
+---
+# Principles to Remember
 
-- Create a shared mental model to make sure your team understands
-
-what the new context means for how they work together.
-
-- End the meeting in a reassuring way that leaves your team feeling a
+Do • Acknowledge what’s diﬃcult by addressing both the emotional and

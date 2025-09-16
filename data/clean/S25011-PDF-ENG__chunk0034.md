@@ -1,19 +1,13 @@
-## into customer attrition, numbers of service requests, and customer
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4ac541a7764572ca24034b7049eac06986a4ecd
+title: S25011-PDF-ENG
+---
+# them.
 
-proﬁtability. Generative AI systems can analyze and summarize
+Technology can help companies capture and analyze customer data
 
-customers’ comments in inbound service calls, emails, and social media
+and the customers’ views on the current performance of processes.
 
-posts—and are getting better at it all the time.
-
-Step 3: Map out the existing process. Next you need to develop a high-
-
-level ﬂowchart depicting the current process, including the physical
-
-movement of goods and the creation, ﬂow, and use of data. This work
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Customer relationship management systems can provide insights

@@ -1,13 +1,35 @@
-## incompleteness), along with walks for a cure and “autism” events
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb4c290f6fe75124e81ba40c84729999199a2a20
+title: H06YBA-PDF-ENG
+---
+## language (autistic person) rather than person-ﬁrst language (person
 
-that center non-autistic speakers. While likely unintended, that cure
+with autism), similar to other marginalized communities that wish to
 
-and deﬁcit messaging can make many autistic employees feel othered.
+reclaim their identity. On the individual level, however, it’s always polite
 
-Invisible. And like they can never belong.
+to ask each person about their language preferences.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+In the last few years, some organizations aiming to represent autism
 
-3
+in the mainstream media switched from the “autism is the enemy”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+rhetoric to the language of diversity. Still, the deﬁcit perspective
+
+remains an underlying assumption that biases much of the inﬂuential
+
+discourse, and autistic adults feel largely excluded by it. When well-
+
+meaning company leaders make plans to mark Autism Awareness
+
+Day, that sometimes takes the form of messaging based on potentially
+
+harmful stereotypes or outdated messaging, such as “light up the blue”
+
+(blue is associated with fundraising for the cure and also perpetuates
+
+the stereotype that autism is more common in boys than in girls,
+
+who are underdiagnosed) and puzzle pieces (which to many connote

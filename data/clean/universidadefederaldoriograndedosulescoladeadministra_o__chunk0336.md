@@ -1,13 +1,9 @@
-# conveniente;
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 1cbf97adb7184e4805382e2364d4f3c369e621b7
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# c) garante o anonimato das respostas;
 
-e) não expõe os pesquisadores à influência das opiniões e do aspecto
-
-pessoal do entrevistado.
-
-Por outro lado, as desvantagens elencadas por Gil (1999) são:
-
-a) exclui as pessoas que não sabem ler e escrever, o que, em certas
-
-circunstâncias, conduz a graves deformações nos resultados da investigação;
-
-35
+d) permite que as pessoas o respondam no momento em que julgarem mais

@@ -1,9 +1,23 @@
-## meta-analysis. Personnel Psychology, 52 (3), 653-677.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: cf0a7477ebb4b1d3f537ce9330fe2adb57c08baa
+title: file_1
+---
+# http://www.economist.com/blogs/dailychart/2011/01/social_justice [Accessed 31 January 2011]
 
-Suls, J., Martin, R. and L. Wheeler, 2002. Social comparison: Why, with whom, and
+Shrout, P. and N. Bolger, 2002. Mediation in experimental and nonexperimental
 
-with what effect. Current Directions in Psychological Science, 11, 159-163.
+studies: new procedures and recommendations. Psychological Methods, 7, 422- 445.
 
-Sweeney, P. and D. McFarlin, 1993. Workers’ evaluations of the ‘ends’ and the ‘means’:
+Smith, A. and V. Rogers, 2000. Ethics-related Responses to Specific Situation
 
-an examination of four models of distributive and procedural justice. Organizational Behavior and Human Decision Processes, 55, 23-40.
+Vignettes: Evidence of Gender-based Differences and Occupational Socialization. Journal of Business Ethics, 28 (1), 73-86.
+
+Stockard, J., 1999. Gender Socialization. In J.Chaftez, eds, The handbook of the sociology of gender. New York, NY: Plenum Publishers, 215-227.
+
+Stone-Romero, E. and Stone, 2005. How do organizational justice concepts relate to
+
+discrimination and prejudices? In J. Greenberg and J. Colquitt, eds, Handbook of organizational justice. Mahwah, NJ: Lawrence Erlbaum; 339-469.
+
+Stuhlmacher, A. and A. Walters, 1999. Gender differences in negotiation outcome: A

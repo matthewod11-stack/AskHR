@@ -1,7 +1,7 @@
-## With remarkable shifts in research and advances in medicine, life
-
-expectancy more than doubled between 1900 and 2021. Yet, there are
-
-many illnesses that still don’t have a cure. This means that, at some
-
-point in your career as a manager, you may have someone with a
+---
+source_path: H08EAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7028040992d68ab9a33470e572a25b0fe6c40bc8
+title: H08EAJ-PDF-ENG
+---
+# Maryna Terletska/Getty Images

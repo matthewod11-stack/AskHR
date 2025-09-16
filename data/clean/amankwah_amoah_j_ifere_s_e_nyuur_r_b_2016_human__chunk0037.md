@@ -1,51 +1,39 @@
-# Data collection and analysis
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 2ebadab6e9f186f9cb25cb11d4772b57e04bcdbc
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# regional and indigenous multinationals.
 
-Given the sensitive nature of discussion of the status of co-workers and subordinates, many
+We developed semi-structured interview questions to elicit the views of these
 
-of the informants requested that we limit ourselves to note taking. This meant that extensive
+professionals. To narrow down the scope of the study, the interviews covered the following
 
-field notes were taken, transcribed verbatim and cross-checked with the informants to ensure
+broad areas. In the first set of questions, we focused on the informants’ employers, incentive
 
-accuracy. Following the “24-hour rule” (Eisenhardt, 1989), text and field notes were
+11
 
-transcribed verbatim within 24 hours of each interview. This helped to establish a clear
+and rewards system, and decision-making processes. The questions also focused on the key
 
-chronology of events and capitalise on the immediacy of our data (Gioia & Thomas, 1996;
+challenges in the workplace, hiring and firing. We also asked the informants whether they
 
-Whyte, 1994). Interview data were transcript coded into common themes and issues. In all,
+managed or worked with any employee who had consistently underperformed over a long
 
-we conducted 61 interviews in both countries.
+period of time. The final set of questions revolved around causes of underperformance,
 
-To analyse our data, we employ a narrative strategy (Langley, 1999) by writing a
+processes in dealing with underperformance, options in dealing with underperforming
 
-detailed field note and summary for each informant covering the issues noted above. We
+workers, why firms hung on to them, and their experiences and views. They were also asked
 
-developed a chronology and narrative accounts. We then looked for patterns and similarities
+about the difficulties in dealing with and managing underperforming workers including how
 
-in their responses, and then organised the data to allow meanings to be deduced. As observed
+the firm deals with early-warning signals of performance decline by employees. Some of the
 
-12
+authors conducted the interviews from early 2014 to early 2015. On average, the interviews
 
-by Eisenhardt (1989, p. 541), “the juxtaposition of seemingly similar cases by a researcher
+lasted around 60 minutes. Given the focus on two countries, we sought to ensure a greater
 
-looking for differences can break simplistic frames”. The data analysis replicated the
+level of consistency as well as a degree of flexibility to allow new insights to emerge
 
-inductive grounded theory development process (Glaser & Strauss, 1967; Sutton, 1991)
-
-which “requires that data and theory be constantly compared and contrasted throughout the
-
-data collection and analysis process” (Isabella, 1990, p. 12).The process led to classifications
-
-of responses into sections such as causes of underperformance, firms’ responses and
-
-persistence with underperformance. The interview data were supported with secondary data
-
-gleaned from sources such as press releases, internal documents, company websites,
-
-newspapers and additional materials provided by the informants. In presenting the findings,
-
-we used letter N to denote informants from Nigeria and letter G to denote informants from
-
-Ghana. Table 2 provides an overview of our times of data collection and data sources.
-
------------------------------- Insert Table 2 about here ------------------------------
+(Robson, 2002).

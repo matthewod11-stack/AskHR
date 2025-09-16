@@ -1,17 +1,13 @@
-## inﬂuence workers’ job opportunities, work assignments, and income.
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2bdae510a01a8de59e1867c4f2d2bf4eaf460fa5
+title: H08NYS-PDF-ENG
+---
+## on quick, single-dimension evaluations from customers immediately
 
-As a result, even subtle biases in customer evaluations can lead
+following a brief interaction.
 
-to signiﬁcant inequalities for workers, particularly those from
+The implications of this shift are profound. Customer ratings on
 
-marginalized backgrounds. To mitigate these disparities, the design and
-
-structure of these evaluation processes are crucial.
-
-Our research, recently published in Nature, demonstrates how
-
-customer evaluation processes on online platforms can unintentionally
-
-amplify the eﬀects of subtle biases. Traditional approaches to
-
-mitigating bias, such as diversity training and bias awareness
+these platforms are not just performance feedback; they directly

@@ -1,7 +1,7 @@
-# The Model in Practice
-
-Medical technology is a $500 billion industry characterized by a
-
-polarized approach to innovation. Large med-tech companies face
-
-substantial barriers to internal innovation, including high development
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04ad12ed13b4914b111ea0ddfd6756d60b06760d
+title: R2404K-PDF-ENG
+---
+## company in the medical technology sector.

@@ -1,37 +1,17 @@
-# from our work.
+---
+source_path: H08MFI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 532324ee6effd27ecbd5c8a9946c1cd8929a8397
+title: H08MFI-PDF-ENG
+---
+## business, but they can also permanently diminish one’s willingness to
 
-Lindsey Epperly’s story illustrates this intersection of professional and
+take risks. The loss of that “freedom of opportunity” and “going for
 
-personal identity. As founder of a travel company, she had known only
+it-ness'” represents a hidden cost of professional betrayal — a scaling
 
-success: “I believed that because my business was a success, I was a
+back of ambition and trust that can limit future possibilities.
 
-success,” she recalled. Then the pandemic hit.
+There are also times when identity and loss coincide. Professional
 
-The crisis forced tough choices. Five months pregnant, Lindsey and her
-
-husband (also her business partner) had to walk away from their home
-
-to keep their company alive. But the real struggle was internal: “My
-
-identity was so intertwined with my business that those stark months of
-
-continued sacriﬁce, strategic attempts at gaining any momentum, and
-
-painstaking attempts to hold onto a dream were actually attempts to
-
-claw my way back to a semblance of success that made me feel worthy.”
-
-Each business setback felt like a personal failure, each strategic decision
-
-a referendum on self-worth. It took hitting “rock bottom” for Lindsey to
-
-grasp a crucial truth: “Even in a season of professional failure, I did not
-
-have to view myself as a failure.”
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+heartbreak strikes deepest when our sense of self becomes inseparable

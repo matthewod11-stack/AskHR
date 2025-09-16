@@ -1,7 +1,25 @@
-# independent caretaker across all tasks.”
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94b86ff0c54910f92ba9591a6853a5e78ee46d10
+title: H07VWF-PDF-ENG
+---
+## Erez Levin, father of two, adtech specialist at Google, and paternity
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+leave “dadvocate,” agrees. Levin took advantage of his employer’s
 
-4
+parental leave entitlement when his children were born, and does not
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+think the question should be if you take parental leave, but how you
+
+take parental leave. “When my daughter was four months old, my wife
+
+returned to work, and that’s when I began my full 12 weeks of paternity
+
+leave. I learned that bonding happens during the challenging moments,
+
+and I had plenty of those, especially in the ﬁrst few weeks of my solo
+
+leave,” he told us. “I beneﬁtted in more ways than I could list, but
+
+overall I am conﬁdent that taking my leave got me comfortable being an

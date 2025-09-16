@@ -1,3 +1,11 @@
-# that
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: 1fc89aa16378c92a585a553dada9b43050767b2a
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# Takingworkplacedecisionsseriously
 
-more complex tasks (see also Hayes & Wooldridge, 2010). Moreover, as research on creativity and NDM (Rosen et al., 2010) have begun to do, JDM could focus more on stages of the decision process both prior and subsequent to choice (see Mohammed & Schwall, 2009).
+important or even necessarily the most motive associated with workplace deci- sions. Non-accuracy factors associated with workplace decisions deﬁnitely need to the presence of be studied. However, these non-accuracy factors does not negate the necessity of studying decision accu- racy—as the commentators would surely agree. For example, Goodwin (2010) pro- vides some compelling examples that illus- trate the need to study how non-accuracy factors inﬂuence the importance of accu- racy to decision makers in organizations, whereas Kuhn (2010) correctly notes that JDM research on advice taking could ben- eﬁt by studying how nonaccuracy factors inﬂuence the accuracy of advisors’ recom- mendations and decision makers’ choices. As another example of how IOOB can contribute to JDM, Kuhn (2010; see also Rosen et al., 2010) focuses on the difﬁcul- ties of training managers to make better decisions. Once again, we are pleased to note the practitioner-oriented angle of this commentary. Of particular interest to us wasKuhn’s contentionthat training employ- ees to avoid decision biases may be less useful than implementing carefully consid- ered structural solutions. We agree with the importance of structural solutions (though here too we feel that a ‘‘both/and’’ approach is preferable to an ‘‘either/or’’ approach), and we point the reader to several creative examples ofstructural solutionsdiscussedin the popular bookNudge(Thaler &Sunstein, 2008). In our view, the focus on context by IOOB researchers provides an invaluable opportunity to study such structural solu- tions and, ultimately, to implement them proﬁtably in organizations.
+
+Finally, Reiter-Palmon and Hullsiek (2010) also argue for a focus on outcomes other than decision accuracy. They con- tend, and we agree, JDM research can be improved by expanding its crite- rion space in a manner similar to creativ- just ity research (which emphasizes not the accuracy or quality of solutions but also their quantity, novelty, and so forth) and by following creativity research in studying individual differences and using

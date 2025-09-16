@@ -1,13 +1,7 @@
-## as anxiety or attention deﬁcit hyperactivity disorder (ADHD). These
-
-lessons that parents of neurodivergent children learn very quickly can
-
-make them some of your best and most productive leaders.
-
-As workforces increasingly acknowledge neurodiversity, these parents,
-
-if they choose to, are uniquely qualiﬁed to act as a bridge
-
-between neurodivergent and neurotypical employees and help develop
-
-processes, systems, and programs around neurodiversity that will make
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7627ac7350436ef4f2385e7a0423c791fba04593
+title: H07MZQ-PDF-ENG
+---
+## well because of speech and cognition delays or comorbidities such

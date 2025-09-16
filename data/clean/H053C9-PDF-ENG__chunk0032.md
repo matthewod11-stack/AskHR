@@ -1,7 +1,17 @@
-## onto global LGBT frameworks, such as the UN Standards of Conduct for
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f56f8f8b0084d6dd594de8b7666adb6f9cf32699
+title: H053C9-PDF-ENG
+---
+## community engagement, supplier diversity, and marketing. A Microsoft
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+manager in the United Kingdom observed that one of his biggest
 
-5
+challenges was ﬁnding people to maintain the ERG, which makes
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leadership succession planning critical.
+
+Forge external coalitions. Join other companies and non-governmental
+
+organizations to create task forces, host LGBT inclusion events, and sign

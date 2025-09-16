@@ -1,15 +1,7 @@
-# Engaging Employee Groups
-
-Peer-to-peer contact can beneﬁt those employees who struggle with
-
-loneliness and isolation. Employee resource groups (ERGs) can
-
-provide a forum for those impacted by, living with, or supporting
-
-someone with mental illness and identify opportunities to address
-
-any workplace issues. All employees should be welcome to join, but
-
-privacy for members should be preserved. Managers should promote
-
-and participate in these groups where relevant to help normalize these
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e082127780b2cabe69d74c346abe5cac2b77d648
+title: H0719C-PDF-ENG
+---
+## such as NAMI or Mayo Clinic, for additional information.

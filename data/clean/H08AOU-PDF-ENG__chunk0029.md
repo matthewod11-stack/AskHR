@@ -1,7 +1,35 @@
-## interlinked: For example, access to career-enhancing work should
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe87e41253f7c434d8c9fa956d5663799f66b75b
+title: H08AOU-PDF-ENG
+---
+# business systems.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- Commitment: measuring progress and implementing stronger bias
 
-7
+interrupters until metrics improve.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The four companies we worked with are well on their way
+
+with collecting evidence and taking action by implementing bias
+
+interrupters, but time will tell whether they retain the commitment
+
+to achieve year-over-year progress. Because bias is primed all the
+
+time, bias interrupters need to be built into normal business processes
+
+so that bias is interrupted all the time, too. The good news is that
+
+they’re already collecting the metrics they need to continue pinpointing
+
+inequality and identifying what needs to be ﬁxed.
+
+Interrupting bias in access to opportunities won’t accomplish a
+
+company’s goal of retaining talent if bias is allowed to ﬂourish in
+
+other business systems, from hiring to performance evaluations to
+
+compensation, and more. These business-system outcomes are often

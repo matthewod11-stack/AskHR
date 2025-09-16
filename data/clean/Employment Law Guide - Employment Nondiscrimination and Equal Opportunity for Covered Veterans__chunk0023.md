@@ -1,7 +1,9 @@
-# veteran, recently separated veteran, active duty wartime or campaign badge veteran, or Armed Forces service
-
-medal veteran ("protected veteran"). Covered contractors must also take steps to employ and advance in employment qualiﬁed protected veterans. Contracts covered by VEVRAA are subject to the implementing
-
-regulations found at 41 CFR Part 60-300.
-
-The following types of contracts and subcontracts are not covered under VEVRAA:
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Covered Veterans.md
+pages: n/a-n/a
+chunk_id: ad1dcdb85fb500809fd13de21da1dc1d46cf7ca1
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Covered Veterans
+---
+# less than $150,000), to treat applicants and employees without discrimination because they are a disabled

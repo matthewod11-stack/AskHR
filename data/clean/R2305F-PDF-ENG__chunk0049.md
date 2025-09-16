@@ -1,15 +1,23 @@
-# with emotional resilience.
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69804439a6607560c2e83d527a87679135b57d24
+title: R2305F-PDF-ENG
+---
+# instantaneously.
 
-Research conducted in 2019 showed that when it comes to accepting
+Millennials, or Generation Y (in their late twenties and thirties), were
 
-feedback, Millennials are less sensitive than their older colleagues are.
+raised when child-rearing psychology focused on building self-esteem.
 
-Though members of this generation expect and appreciate frequent and
+A product of helicopter parenting and the philosophy that “every
 
-copious praise, don’t expect them to wilt when the criticism is tough.
+child gets a trophy,” they’re sometimes referred to sarcastically as the
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+“snowﬂake generation” (because they’re sensitive and easily crushed).
 
-16
+But according to the generational expert Neil Howe (who coauthored
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Generations), this stereotype is misleading. Millennials do have high
+
+self-esteem, he says, but their self-conﬁdence seems to be correlated

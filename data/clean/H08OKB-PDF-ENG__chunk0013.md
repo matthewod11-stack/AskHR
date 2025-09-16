@@ -1,7 +1,25 @@
-## the myth of their own exceptional talent.
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89b36d7bc1380cad8c24cf3b78d0c50294dad625
+title: H08OKB-PDF-ENG
+---
+# course clients.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Performance also depends on routines, systems, and cultures of work
 
-3
+which are often organization speciﬁc. As they move, stars lose their
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+broader support networks and systems which greatly facilitated their
+
+exceptional performance. Moreover, research has shown that stars
+
+often struggle to adjust to their new organizations’ systems, routines,
+
+networks and cultures, as they are too invested in their previously
+
+successful ways of working. Indeed, many stars also feel that their star
+
+status insulates them from the need to change, and instead expect their
+
+new organization to adapt to them. They might in other words buy into

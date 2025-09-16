@@ -1,3 +1,13 @@
-# Infrequent
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae3fd11bb4143ad2ed91f12af198f8f9d644f308
+title: H0893T-PDF-ENG
+---
+# Job Tests For Managers
 
-Source: Adapted from “Why Is Progress Toward Diverse Representation So Slow? Contrasting Management Practices’ Prevalence Versus Effectiveness for Achieving Diverse Representation,” by T. Sitzmann and S. Schwartz, in Business Horizons, 2024. Copyright 2024, with permission from Elsevier.
+Assessments administered to applicants
+
+May provide a false sense that personnel practices are fair
+
+- 0.08

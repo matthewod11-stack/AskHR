@@ -1,3 +1,13 @@
-# The Near and Middle East
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b9970b085d9394f49dc51b6189bd9a1b1ee5913d
+title: untitled
+---
+# Asia
 
-The ﬁrst psychological organization in the Arab world was established in Egypt in 1948. The Israeli Psychological Asso- ciation was formed a decade later (1958), with Tunisian psychologists following in 1962. In the last decade of the twentieth century, psychologists in Yemen (1990) and Jordan (1996) formed national societies. Other countries in the re- gion with national associations are Iran and Morocco.
+China was the ﬁrst Asian country where psychologists formed a national society (Chinese Psychological Society, 1921), but because of the nation’s internal political conﬂicts, the organization disbanded after a few years. The society was brieﬂy reorganized in 1937 but was dissolved again when Japan invaded China. The Chinese Psychological Society re- sumed operation in 1950, only to close in 1966 for 10 years during the Cultural Revolution. In 1977, the organization was able to resume its activities. At the end of the twentieth cen- tury, the society had approximately 3,000 members.
+
+The Indian Psychological Association was formed in 1925. Psychology in Japan began with the visit of former APA president G. T. Ladd in the late 1800s. One of his Japanese students, M. Mastumoto, helped train the ﬁrst gen- eration of Japanese psychologists. It was not until 1927, how- ever, that the Japanese Psychological Association was founded. Its membership remained small until after World War II; by the year 2000 its membership was approximately 5,000. Other more specialized psychological societies are afﬁliated with the JPA, including the Japanese Association of Educational Psychology (est. 1952) and the Association of Japanese Clinical Psychology (est. 1982).
+
+It was not until 1952 that psychologists in another Asian nation, Indonesia, formed a national society. Since then, national associations have formed in the Philippines, Hong Kong, Bangladesh, Korea, Singapore, Mongolia, Vietnam, and Pakistan.

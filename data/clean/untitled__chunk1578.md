@@ -1,7 +1,9 @@
-## chology. Ann Arbor: University of Michigan Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2469175792dff602467c4ffc6273707957702168
+title: untitled
+---
+# Beacon Press.
 
-Morawski, J. G., & Agronick, G. (1991). A restive legacy: Experi- mental and cognitive psychology. Psychology of Women Quar- terly, 15, 567–579.
-
-Murray, H. A. (1938). Explorations in personality: A clinical and experimental study of ﬁfty men of college age. London: Oxford University.
-
-Nieva, V. F., & Gutek, B. A. (1981). Women and work: A psycho-
+Morawski, J. G. (1994). Practicing feminisms: Reconstructing psy-

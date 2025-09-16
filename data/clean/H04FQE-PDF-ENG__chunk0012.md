@@ -1,35 +1,17 @@
-# unwanted advances:
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79ed4f0316513f868f46573bc6385d9daad3e564
+title: H04FQE-PDF-ENG
+---
+## Proving an Experience to Be Rare and Signiﬁcant
 
-He was super nice in the beginning, but then he always wanted to
+Victims were often told that their experiences didn’t amount to
 
-do work in the evening over a drink. I was ﬁne with this, but he
+harassment — that they were common and insigniﬁcant — and
 
-kept complimenting me about the way I look, which made me quite
+that if they wanted to ﬁle a formal complaint, they’d need to show
 
-uncomfortable. People were looking at us as if we were a couple. He
+otherwise. One assistant professor we talked to, Alaina, explained how
 
-was not bothered by it — it was good for his ego, a young woman
-
-on the side. My head of department was the only person I trusted,
-
-so I told him. He listened very carefully and laughed it off, saying
-
-that these kinds of things happen all the time, I shouldn’t take it so
-
-seriously. After all, this person has not forced himself onto me, and I
-
-agreed to go to all the places he invited me to. And so on. I ended up
-
-feeling embarrassed… He is the head of department; he should know
-
-what he is talking about, I guess. I don’t know what to do.
-
-By suggesting that Alaina’s experience wasn’t serious, her manager
-
-positioned her as an individual who had misinterpreted her
-
-circumstances. He also hinted that she may have “encouraged” her
-
-perpetrator because she had agreed to meet him in various places,
-
-making her feel partially responsible for her fate and invalidating the
+her line manager responded to her complaint about a senior colleague’s

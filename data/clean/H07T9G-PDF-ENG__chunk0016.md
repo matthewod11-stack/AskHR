@@ -1,23 +1,9 @@
-# Alex O’Brien, CEO of the bank.
+---
+source_path: H07T9G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cfef4950772084ae69ecd4eb9938c0ae518c628a
+title: H07T9G-PDF-ENG
+---
+## HBR / Digital Article / Help Your Employees Develop the Skills They Really Need
 
-If we are to compete for the future, we need to shift from a “war
-
-for talent” mindset to a skills-based mindset. Talent isn’t an innate
-
-property that ﬁrms can attract and bid for, but a capacity that needs
-
-to be built — and in any case, the most vital skills of the future don’t
-
-exist yet. In the same way that venture capitalists invest in and manage
-
-portfolios of companies, corporate leaders need to pursue portfolios of
-
-skills, divesting in some that become obsolete while doubling down on
-
-others that begin to pay oﬀ.
-
-The future of work will not be determined by technology, but by
-
-creating the right mix of education, exposure, and experience needed to
-
-develop skills and put them to work, creating a vastly more productive
+distinctive core software that sets us apart in the banking sector,” said

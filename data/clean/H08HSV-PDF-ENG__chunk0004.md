@@ -1,25 +1,39 @@
-# Pause
+---
+source_path: H08HSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94c5dfaf62f992beeedee8e140029d2bcd52d955
+title: H08HSV-PDF-ENG
+---
+## HBR / Digital Article / When Your High Standards Derail Your Success
 
-Instead of charging ahead, take a beat. Set aside 15 to 30 minutes in your
+In practice, this can look like:
 
-week to ask yourself the following questions:
+- You and your team don’t seem to be on the same page in meetings.
 
-- How long have I had these standards in place?
+- Projects never get completed in the timeline you set forth.
 
-- Are they in line with the company’s goals and needs?
+- Your manager says, “Eighty percent done is good enough,” yet you
 
-- When did I last consider how I’m measuring success for the current
+delay getting work to them until it’s “perfect.”
 
-situation? Do I need to recalibrate?
+- You and your teams always work long hours.
 
-- Have I ever discussed these standards with my team? (It’s not
+- Your teams are showing signs of burnout (and so are you).
 
-uncommon for leaders to have incredibly high standards…which
+It may feel personally satisfying to see a project completed at your
 
-they’ve never communicated.)
+perception of “one hundred percent.” But at what cost? And what is
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+the long-term net good? It might be less than you think, both for the
 
-2
+company and you. All this extra energy is exhausted seeking perfection
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+when it could be used to innovate or take a new step in your career.
+
+Your high standards can become a detriment, inhibiting good work and
+
+sabotaging your career.
+
+If this sounds like you, here are four ideas to help you adjust your
+
+expectations and get you moving forward again.

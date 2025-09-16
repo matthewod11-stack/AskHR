@@ -1,7 +1,13 @@
-# many dimensions as possible.
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1dd5e25a52cb9f268f0a42a1984b778b0e460f3
+title: H07EDU-PDF-ENG
+---
+# the company as a whole.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Layoﬀs are as much about who is staying as who is being let go, and
 
-9
+managers must be allowed to go to bat for people they want to retain,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+while ensuring that the ﬁnal list of layoﬀ candidates is fair — on as

@@ -1,7 +1,7 @@
-## tions. New York: Cambridge University Press.
-
-Folkman, S., & Lazarus, R. S. (1990). Coping and emotion. In N. S. Stein, B. L. Leventhal, & T. Trabasso (Eds.), Psychological and biological approaches to emotion (pp. 313–332). Hillsdale, NJ: Erlbaum.
-
-Fraisse, P. (1968). Les Emotions. In P. Fraisse & J. Piaget (Eds.), Traitédepsychologieexperimentale(pp.102–191).Paris:Presses Universitaires.
-
-Frankenhaeuser, M. (1971). Behavior and circulating cate-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e2d14c82995330b22b6ac6e4eb2adbb0e82eb382
+title: untitled
+---
+## Elster, J. (1999). Alchemies of the mind: Rationality and the emo-

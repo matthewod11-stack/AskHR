@@ -1,7 +1,23 @@
-## Atonomous work groups, 295 Avon Corporation, 266
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 17de59c9f0ae4c756781eb842cf11c570e64bc2c
+title: performance_management_3rd_edition_by_aguinis
+---
+# Accenture, 91 Accountabilities
 
-B Bacon, T. R., 260 Bailey, C., 224 Balme, David Mowbrary, 57 Band, 276, 279–280 Bande, B., 104 Bankers Life and Casualty, Chicago,
+identification, 108–109, 124, 125 objectives and standards, form,
 
-Aiman-Smith, L., 129 Alexandria, City of (Virginia), 42 Algera, J. A., 193, 314 Allenbaugh, G. W., 260 Allen, D. W., 261 Allowances, 13 Almost, J., 293 Aloha Airlines, 281 Altenergy, 290 Alternate rank order procedure,
+131, 133t
 
-79–80 Banner, D. K., 57 Baranowski, L., 194 Barbeite, F. G., 224 BARS, see Behaviorally anchored
+Accounting, Inc. Amsterdam, 192 Accurate ratings, 150 Achimota College, Ghana, 56 Adams, S., 37 Adams, S. K. R., 35, 194 Adams, T. H., 58 Adaptability/flexibility competency, 122 Addams, H. L., 85 Administrative units, 302 Age Discrimination in Employment
+
+Act of 1967, 284
+
+Aguinis, H., 34, 104, 129, 166, 194,
+
+291, 293
+
+Australia, performance management,
+
+25–26

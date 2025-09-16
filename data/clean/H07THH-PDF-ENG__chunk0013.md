@@ -1,27 +1,37 @@
-# HBR / Digital Article / Research: Flexible Work Is Having a Mixed Impact on Employee…
+---
+source_path: H07THH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b2ae3483c7450d71f3a553c6cd4e26fa01c67ff7
+title: H07THH-PDF-ENG
+---
+# people about their well-being.
 
-teams are more likely to report they are burning out as compared to
+Require manager training on leading remote and hybrid teams.
 
-managers leading either remote or onsite teams. You might be thinking
+Ninety-one percent of HR leaders said they have provided some sort of
 
-managers will ﬁgure it out, but what Gallup discovered is that they are
+formal or informal training to their managers around leading remote
 
-not ﬁnding their way, but instead are losing themselves.
+and hybrid teams. Job done, right? Not quite. More than half — 57% —
 
-With mental health, engagement, productivity, and more on the line,
+of U.S. managers told Gallup they had received zero formal or informal
 
-leaders should require training on leading hybrid teams that also
+training on managing remote or hybrid teams.
 
-teaches managers how to put on their own oxygen masks before helping
+One major issue is that trainings are often optional and often coupled
 
-others — because their mental health is at just as much risk.
+with a message to “own your own development.” In these situations,
 
-To be truly engaged and productive, your employees must thrive in
+what managers and employees hear is: You are on your own. Help is not
 
-both their work and their life. Organizations that help employees ﬁnd
+on the way, so ﬁgure it out by yourself.
 
-their version of balance, prioritize their feelings of being cared for, and
+Overwhelmed managers aren’t likely to complete these kinds of
 
-ensure managers are actually equipped to lead remote and hybrid teams
+trainings. Gallup research has found that managers leading hybrid
 
-have a good chance of improving both well-being and productivity in
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

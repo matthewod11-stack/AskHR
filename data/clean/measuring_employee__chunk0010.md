@@ -1,3 +1,7 @@
-# Institute for Employment Studies
-
-IES is an independent, apolitical, international centre of research and consultancy in HR issues. It works closely with employers in all sectors, government departments, agencies, professional bodies and associations. IES is a focus of knowledge and practical experience in employment and training policy, the operation of labour markets, and HR planning and development. IES is a not-for-profit organisation.
+---
+source_path: measuring_employee.md
+pages: n/a-n/a
+chunk_id: b4005101cad6000ced7945e78ee8a2c0b62cc665
+title: measuring_employee
+---
+## Professor Graeme Currie, University of Warwick

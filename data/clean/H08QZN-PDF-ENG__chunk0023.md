@@ -1,23 +1,41 @@
-# works.
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7489701179d61738282e6c71618e5b95e7c8ad8
+title: H08QZN-PDF-ENG
+---
+## HBR / Digital Article / When Your Go-To Leadership Style Stops Working
 
-In any leadership role, your style of engaging others plays a signiﬁcant
+learning professionals believe leaders must become more behaviorally
 
-part in determining success, sometimes even more than the subject
+adaptable to meet future needs. And these days, companies are even
 
-matter of the work. And when your style suddenly loses its desired
+creating C-suite roles speciﬁcally designed to foster agility because of
 
-impact, it can be hard to know how to shift it without losing your
+its criticality for achieving enterprise-wide alignment. But versatility
 
-authenticity or confusing those you lead. By using these strategies, you
+demands vulnerability and often letting go of your core identity.
 
-can make sure you’re sustaining followership by optimizing your style
+For example, if you’re a leader who has built trusted relationships before
 
-for the moment and developing your adaptive range for future shifts.
+setting expectations, you might view the necessity to be authoritative
 
-This article was originally published online on May 30, 2025.
+and decisive ﬁrst, as an aﬀront to your values and “who you are.” And
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+yet in holding onto what feels authentic, you could miss the opportunity
 
-7
+to use a directive style when it’s more eﬀective for the moment at hand,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+such as providing clarity in crisis, or helping new employees know what
+
+is expected of them before ramping up to their own level of competence.
+
+To develop your adaptability across styles, let go of the need to feel
+
+authentic at all times. Versatile leaders often embody all six styles in the
+
+span of a day, depending on the purpose of the interaction. Read the
+
+room, consider if people need you to be decisive, observant, facilitative,
+
+or something else at that time, and show up accordingly, just to see what

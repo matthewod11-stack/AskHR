@@ -1,19 +1,43 @@
-## imposter syndrome, that not just women, but women in particular feel
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36710c6d13b6c8e4a8c9e2d697e6816ed0b17a2f
+title: H07DLJ-PDF-ENG
+---
+# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
-that they don’t belong where they in fact do belong it. It’s been written
+DEB LIU:
 
-about so much that we ran a piece recently that actually said, “Stop
+I felt that way not long ago. In fact, I shared this story of my friend
 
-talking to women about this idea of imposter syndrome.” But what do
+Fidji Simo, she is the CEO of Instacart. And many years ago, I went to her oﬃce, I was upset about something at work and I just was grousing
 
-you think? There’s imposter syndrome, there’s also the “fake it ‘til you
+about something and she goes, “You know what, Deb? We’re going to
 
-make it” idea, to act like you belong until you get there. Where do you
+be CEO someday.” And I laughed because I just thought that was such
 
-come down with some of these concepts?
+a crazy idea. And you know what? This time, about two years ago when
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+I was talking to Blackstone about the Ancestry role, she eventually
 
-7
+became CEO.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+We joked about how she knew where we were going to go and I didn’t.
+
+But regardless, I was the person who never aspired to this, and she was
+
+somebody who had such clarity of vision. She knew the world, the mark
+
+she was going to make in the world, and both of us ended up in similar
+
+places. And that means that it is possible. You don’t have to have dreamt
+
+since you were a little girl that you wanted to be CEO. But it is possible
+
+if you just take back your power and you take those opportunities as
+
+they’re given to you.
+
+ADI IGNATIUS:
+
+One issue that comes up with women in the workplace is this idea of

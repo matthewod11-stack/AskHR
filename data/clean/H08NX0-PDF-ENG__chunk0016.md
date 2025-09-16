@@ -1,13 +1,19 @@
-# physical presence in an oﬃce.
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67026901f4c7e12cfee1777e28dbe949e0593455
+title: H08NX0-PDF-ENG
+---
+## HBR / Digital Article / 5 Pandemic-Era Lessons on Leading Through Drastic Change
 
-- 3. Test new ideas quickly.
+simultaneously supports business goals and employee engagement.
 
-In a world of constant change, the ability to quickly test and reﬁne
+Finally, fully embrace the principle that performance matters more
 
-new ideas becomes crucial. Successful organizations have moved
+than presence by establishing transparent goals, implementing robust
 
-beyond traditional planning cycles to create environments where
+progress tracking, and providing regular, meaningful feedback. As
 
-experimentation is continuous and learning from failure is valued. This
+Chesky demonstrates at Airbnb, genuine accountability stems from
 
-approach requires a fundamental shift in how leaders think about risk
+well-deﬁned milestones and thoughtful check-ins, not from monitoring

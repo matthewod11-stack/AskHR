@@ -1,7 +1,15 @@
-# at an eﬃcient pace.
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90f507b2722273dbecea36798ead19444816c460
+title: R2503C-PDF-ENG
+---
+## HBR / Magazine Article / Lean Strategy Making
 
-Once the strategic backlog is deﬁned and the decision calendar is set,
+leadership forums, where time is set aside to focus on decisions in
 
-lean strategy making becomes a continuous process. As each issue on
+the backlog. Done correctly, the calendar establishes a steady cadence
 
-the backlog is resolved, it’s removed and replaced with a new one.
+or “drumbeat” of decision-making, ensuring that the gap between
+
+leadership’s performance ambition and the company’s MYO gets closed

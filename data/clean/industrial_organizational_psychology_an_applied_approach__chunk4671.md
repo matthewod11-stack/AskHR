@@ -1,11 +1,17 @@
-# 487–488 personality of
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 79bb22ded63e4dc235fe9a65f2ff54c99bf1024e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# cohesiveness, 478–483 communication
 
-members, 483 presence of others,
+structure, 483–484 definition of a group,
 
-484–487
+474–475 group ability, 483 group homogeneity,
 
-reasons for joining groups, 475–478
+479–480
 
-social loafing, 487 Group I strategy, 530 Group interviews, 135 Group-group conﬂ ict, 499 Groupthink, 488 Grutter v. Bollinger,
+group performance,
 
-101, 104 GTE Directories, 493 GTE, 353 Guantanamo Bay, 476 Gulf Oil, 542
+488–489 group roles, 484 group size, 481 group status, 482 groupthink, 488 individual dominance,

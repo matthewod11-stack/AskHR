@@ -1,3 +1,27 @@
-# . s r e h s i l b u p
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: 03ff632a049427c6d5f50efb33b27d493c62101f
+title: legacies_in_motivation_science
+---
+# LOCKE AND LATHAM
 
-d e i l l a
+point in time. The dominant philosophy under- lying empirical experiments was behaviorism, the doctrine that human action can be predicted, explained, and controlled without reference to consciousness. John B. Watson (1924), the founder of behaviorism, argued that because consciousness can be neither weighed nor mea- sured as with physical entities, it should not be considered as part of science. Only observable behavior should be studied. Behaviorists denied free will and asserted that psychology should embrace environmental determinism.2
+
+The philosophy of behaviorism was accepted by most psychologists in Canada and the United States because it did not encounter much oppo- sition. For example, instinct theory turned out to be a dead end because people were not found to have inborn goals or knowledge. Superﬁcially, the school of introspectionism seemed better than the study of instincts because it dealt with consciousness, but its core was narrowly fo- cused on reports of physical sensations. The success psychologists had in inﬂuencing animal behavior at that time through the use of rewards was considered to provide support for behavior- ism.
+
+tial Freudian inﬂuence on some psychologists such as Henry Murray. Murray (1938) viewed motivation as stemming from an individual’s unconscious motives or general needs as mea- sured by projective tests. These were often poor predictors of job performance.3 The thrust of Ryan’s book is an approach to motivation that includes conscious, task, and situationally spe- ciﬁc intentions on the premise that these are the most direct regulators of an individual’s actions. Armed with philosophical conﬁdence, I did my dissertation on goal setting, under Ryan’s and Smiths’ supervision. Following in Mace’s (1935) footsteps, I added task and goal variety and, most importantly, statistical tests. The lab- oratory experiments I conducted supported Mace, and I was able to publish my results. I was subsequently hired by the American Insti- tutes for Research where the director of the Washington ofﬁce, Ed Fleishman, helped me get a grant from the Ofﬁce of Naval Research. With my research assistant, Judy Bryan, I con- ducted additional laboratory experiments on the goal-performance relationship. Two years later I was hired by the University of Maryland De- partment of Psychology. There I continued my research on goal setting.
+
+Ryan (1970) rejected behaviorism as inade- quate and asserted that conscious intentions should be studied. He was writing his book on intentions during my time in the Cornell doc- toral program (1960–1964). Thus, I was able to read drafts of his chapters.
+
+In this same time period, I was reading the work of philosopher Ayn Rand (for a summary see Peikoff, 1991). I learned that consciousness had the status of an axiom, that is, a concept that along with other axioms such as existence, formed the basis for all knowledge and are self-evident to perception and thus irrefutable. Consequently, I knew that behaviorism, includ- ing Skinner’s (1953) operant model and envi- ronmental determinism, was wrong in principle. As a result, I wrote a number of critiques of behaviorism (e.g., Locke, 1971) and its alleged applicability to management (Locke, 1977). Ul- timately the behaviorist doctrine failed because of its inadequacy as an explanation of human action.
+
+Here it is worth pointing out why a large number of researchers proceeded to conduct goal setting experiments after seeing these re- sults. Goal setting is a technique that, if properly implemented, works, and it works reliably to increase an individual and a team’s perfor- mance. Researchers like their experiments to succeed because it is difﬁcult to publish null ﬁndings.
+
+Frederick Herzberg’s motivator-hygiene the- ory (Herzberg, Mausner, & Snyderman, 1959) was a competing theory to goal setting. Herz- berg’s theory asserted that extrinsic aspects of the job, that is, hygiene variables (e.g., an em- ployee’s pay) cause job dissatisfaction but not job satisfaction. The theory claimed that intrin-
+
+2 Some psychologists who adhered to this model viewed the study of consciousness in psychology as a regression to mysticism.
+
+Another aspect of Ryan’s book proved espe- cially useful to me. He reviewed the most com- mon, contemporary attempts at dealing with the issue of motivation, aside from the behaviorist’s concept of reinforcement. He noted the substan-
+
+3 McClelland, Atkinson, Clark, and Lowell (1953) sub- conscious need for achievement motive predicts entrepre- neurship, but it does so no better than self-reports of con- scious achievement motivation (Collins, Hanges, & Locke, 2004). For recent data on this issue, see Howard (2013) and Locke (2015).

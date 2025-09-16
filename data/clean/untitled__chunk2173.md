@@ -1,5 +1,11 @@
-# nal of Applied Psychology, 77, 787–802.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9b2ed41ae7848524a4a343645372d3a30e00d83b
+title: untitled
+---
+## Industrial-Organizational Psychologist, 38(2), 48–54.
 
-Landy, F. J. (1997). Early inﬂuences on the development of indus- trial and organizational psychology. Journal of Applied Psychol- ogy, 82(4), 467–477.
+Koppes, L. L., Landy, F. J., & Perkins, K. N. (1993). First American female applied psychologists. Industrial-Organizational Psy- chologist, 31, 31–33.
 
-Likert, R. (1932). A technique for the measurement of attitudes.
+Landy, F. J. (1992). Hugo Münsterberg: Victim or visionary? Jour-

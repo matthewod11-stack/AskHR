@@ -1,7 +1,15 @@
-# and clarity.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f1d55ad10ee3d13169a0f3f1b5c9efe2723cc70
+title: H08TK8-PDF-ENG
+---
+## HBR / Digital Article / Leading Is Emotionally Draining. Here’s How to Recover.
 
-Reﬂection doesn’t require a lot of time. It just takes the discipline to
+of and process diﬃcult events but also enhances our resilience to stress,
 
-pause amid the busyness. Even a few intentional minutes can help
+protects us from burnout, and promotes our mental and physical well-
 
-you build the self-awareness, emotional intelligence, and resilience essential for eﬀective leadership in today’s complex and challenging
+being. Leadership is often a lonely experience, and having trusted peers,
+
+mentors, and other supports can be a powerful source of connection

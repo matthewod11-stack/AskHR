@@ -1,11 +1,21 @@
-# or client;
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 2bc26ea6091d9dc408beb0740d178bff288487fc
+title: california_state_university_northridge_1
+---
+# workforce (contingent workers).
 
-1.4. The staffing firm of client sets the hours of work and duration of the job;
+To help clarify a workers status, EEOC has set place factors it shall use to
 
-1.5. The worker is paid by the hour, week or month rather than for the agreed
+determine if someone is covered and they are delineated below. If the criteria are met then
 
-cost of performing a particular job;
+the employee can. file a retaliation charge against the staffing firm or Client Company.
 
-1.6. The worker has no role in hiring and paying assistants;
+1.1. The work being done does not require a high level of skill or experience;
 
-- 1. 7. The work performed is part of the regular business of the staffing firm or
+60
+
+1.2. The work is performed on the staffing firm or client's premises;
+
+1.3. There is a continuing relationship between the worker and the staffing firm

@@ -1,7 +1,15 @@
-# 128 Cognition and Learning
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0c252743e62d76aaf7c4c79b9797ea8b65fd1bc1
+title: untitled
+---
+## Mind Design and the Architectures of Cognition
 
-- The implementation level speciﬁes how the hardware device is to carry out the program instructions.
+Ironically, the ﬁrst application of the computer conception of mind arose not in psychology but in computer science, when Alan Turing (1950) proposed that computer programs might emulate human intelligence. Turing put forward no new analysis of cognition but provided a now famous test by which computer intelligence might be recognized. A person interacts as in a chat room with two entities, one of which is a human being and the other of which is a computer program. Turing said that the program would have to be called intel- ligent when the person could not tell if his or her conver- sational partner was human or computer. As yet, no program has passed the Turing test in the form Turing originally suggested.
 
-The cognitive level is a detailed analysis of what a system must be able to know and do in order to perform a speciﬁed job. In certain respects, this is psychologically the most revealing level, because so much of what we know and do involves consciousness not at all. It is easy for me to walk downstairs and retrieve a book, and I can often do it while my conscious mind is engaged in thinking about writing this chapter. However, we ﬁnd that building a robot to do the same thing reveals deep problems that my mind/brain solves effortlessly. Even recognizing an open doorway requires complexities of scene analysis that no robot can yet carry out. Once one has speciﬁed the cognitive requirements of a task, the next job is writing the program that can get the job done. This is the algorithm level, deﬁning the exact computa- tional steps the system will perform. In psychology, this is the level of psychological theory, as we attempt to describe how our existing human program operates.An artiﬁcial system, on the other hand may achieve the same results with a very dif- ferent program. For example, a human chess master and a chess-playingprogramsuchasDeepBluesolvethecognitive- level problems of chess very differently. A computational psychological theory of chess playing needs to replicate the mental steps of the human player; the computational AI theory does not.
+Obviously, constructing artiﬁcial intelligences has great practical value. For cognitive psychology, the value of mind design (Haugeland, 1981, 1985) is that it forces theorists to think deeply and precisely about the requirements for intelli- gent cognition. In an inﬂuential book, Marr (1982) speciﬁed three hierarchically arranged levels at which computational analysis takes place. In the case of artiﬁcial intelligence, the levels deﬁne the job of making a mind, while in the case of psychology—whichstudiesanalreadyevolvedintelligence— they deﬁne three levels of reverse-engineering psychological theory. The levels are most readily described from the stand- point of artiﬁcial intelligence.
 
-Finally, one implements the program in a working physi- cal system. In AI, this means building or programming an intelligent system; in psychology it means working out the neuroscience about the workings of the human meat machine. Within Marr’s broad framework, two different ap- proaches to mind design—two architectures of cognition— came into existence, the symbol-system hypothesis and connectionism.
+- The cognitive level speciﬁes the task the AI system is to perform.
+
+- The algorithm level speciﬁes the computer programming that effects the task.

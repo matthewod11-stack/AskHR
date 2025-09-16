@@ -1,5 +1,19 @@
-# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7894463fca4f5eea82ebcbc52e3377537270dad3
+title: H06SBB-PDF-ENG
+---
+# designing.
 
-to solve globally, but in the workplace as well. So in your mind, how
+ADI IGNATIUS: My next question may relate to that. And you’d
 
-can design, design thinking, process thinking contribute to progress in
+mentioned before we’re not just dealing with Covid, but there are also
+
+big societal issues that we’re wrestling with and we’re feeling we need
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

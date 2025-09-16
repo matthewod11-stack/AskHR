@@ -1,9 +1,39 @@
-## Assessment center A method of selecting employees
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: edb121ecd29fe231b977ae22f800192ce1961cca
+title: industrial_organizational_psychology_an_applied_approach
+---
+# predominates.
 
-in which applicants participate in several job-related activities, at least one of which must be a simulation, and are rated by several trained evaluators. Assimilated A description of a message in which
+Application of training Measurement of the effectiveness
 
-the information has been modified to fit the existing beliefs and knowledge of the person sending the message before it is passed on to another person.
+of training by determining the extent to which employees apply the material taught in a training program.
 
-Assimilation A type of rating error in which raters base their rating of an employee during one rating period on the ratings the rater gave during a previous period.
+Apply-in-person ads Recruitment ads that instruct
 
-Attitude survey A form of upward communication in which a survey is conducted to determine employee attitudes about an organization.
+applicants to apply in person rather than to call or send résumés.
+
+Apprentice training A training program, usually found in the craft and building trades, in which employees combine formal coursework with formal on-the-job training.
+
+Arbitration A method of resolving conflicts in which a
+
+neutral third party is asked to choose which side is correct.
+
+Archival research Research that involves the use of
+
+previously collected data.
+
+Army Alpha An intelligence test developed during
+
+World War I and used by the army for soldiers who can read.
+
+Army Beta An intelligence test developed during
+
+World War I and used by the army for soldiers who cannot read.
+
+Artifacts The things people surround themselves with
+
+(clothes, jewelry, office decorations, cars, and so forth) that communicate information about the person.
+
+603

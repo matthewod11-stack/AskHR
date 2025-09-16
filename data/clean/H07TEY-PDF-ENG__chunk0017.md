@@ -1,15 +1,13 @@
-## than the sought after position level information. Meanwhile, several
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ceadb529a7fd21256658adea31241bed3bb8b95
+title: H07TEY-PDF-ENG
+---
+## example, the U.S. government reports average earnings at the six-digit
 
-large consulting ﬁrms oﬀer exclusive access to the aggregated earnings
+occupation code, within industry and state, each year using surveys
 
-of their clients, often using proprietary standardized corporate titles.
+of businesses and households. These data are highly representative,
 
-Most recently, ﬁrms that collect salary information as part of their
-
-core businesses, like ADP, have added user interfaces that make
-
-aggregated, anonymized data accessible as benchmarks. And platforms
-
-like Glassdoor have encouraged millions of users to volunteer their
-
-salary information anonymously in exchange for seeing the average
+but are released infrequently and at a higher level of aggregation

@@ -1,1 +1,15 @@
-# 132
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 84dd9f7bd6e712fa5e4ddc10548321aa57544ea1
+title: file_1
+---
+# 131
+
+perceived (Burchett and Willoughby, 2004; Graham and Welbourne, 1999). Furthermore, male and female employees might perceive justice differently depending on whether the evaluation and performance appraisal was conducted by male or female supervisor (Sweeney and McFarlin, 1997). Cross-national and cross-industry research is thus needed to test the validity of the present study’s framework. Also, the effect of sex-role orientation on preferences for organizational justice might be considered to be examined in future.
+
+Next, future studies may extend the investigation by examining whether the interactive effect of gender and pay inequity and/or procedural justice on organizational commitment is mediated by work identity, specific gender-dyadic comparisons and pay expectations. According to social identity theory (Tajfel and Turner, 1979), both male and female employees estimate what they deserve on the base of intra-group comparisons of working environment where male employees are traditionally considered to be the advantaged social group and female employees tend to be disadvantaged. Attitudes of men are shaped by their own privilege and sense of the legitimacy of their dominant position; thus, they base their working identity on pay and are keener on access to pay information than female employees. For these reasons, underpayment is likely to provoke stronger reactions among male employees. In contrast, since female employees tend to be the members of the disadvantaged gender group, underpayment is largely consistent with their group identity and hence causes fewer reactions. This leads to a conclusion that base for work identity might mediate effect of gender and pay inequity/procedural justice on organizational commitment.
+
+According to social comparison theory (Festinger, 1954), pay expectations can also have an impact on the way employees perceive pay inequity and procedural justice because employees’ perceptions of financial rewards of others are affected by the perceptions of whether their own opportunities are equal to the opportunities of others. Therefore, employees with low pay expectations are expected to build their pay expectations for others based on the knowledge of other employees with similar pay. Since female employees tend to have lower pay expectations than their male co-workers (Balkin and Gomez-Mejia, 2002; Jackson and Grabski, 1988; Keaveny and Inderrieden, 2000), pay expectations might mediate effect of gender and pay inequity/procedural justice on organizational commitment.
+
+Overall, the paper will hopefully stimulate more theoretical and empirical research on gender similarities and differences in responses to injustice, which will expand both theoretical and practical implications. A broader empirical examination of the relationships between gender, general interest in pay, pay expectations, social comparisons, work identity, and organizational outcomes based on the integration of organizational justice and gender theories may significantly enrich the research in both organizational and gender fields.

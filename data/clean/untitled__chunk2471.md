@@ -1,5 +1,9 @@
-# Bantam Books.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8c7b7eb1b25e5b0a0122b9f925bf171d2773a814
+title: untitled
+---
+# Charles C. Thomas.
 
-Gitlin, T. (1997). Afterward. In S. Macedo (Ed.), Reassessing the sixties: Debating the political and cultural legacy (pp. 291–292). New York: Norton.
-
-Glass, A. J. (1958). Observations upon the epidemiology of mental illness in troops during warfare. In Preventive and social psychi- atry (pp. 185–198). Washington, DC: U.S. Government Printing Ofﬁce.
+Gitlin, T. (1987). The sixties: Years of hope, days of rage. New York:

@@ -1,9 +1,11 @@
-## fessoriate. Princeton, NJ: Princeton University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9e1892980c20b1126282db1fd6251c347365d5d5
+title: untitled
+---
+# American Psychologist, 45, 891–900.
 
-Brewer, C. L. (1997). Undergraduate education in psychology: Will
+Borden, V. M. H., & Rajecki, D. W. (2000). First-year employment outcomes of psychology baccalaureates: Relatedness, prepared- ness, and prospects. Teaching of Psychology, 27, 164–168.
 
-the mermaids sing? American Psychologist, 52, 434–441.
-
-Brewer, C. L., Hopkins, J. R., Kimble, G. A., Matlin, M. W., McCann, L. I., McNeil, O. V., et al. (1993). Curriculum. In T. V. McGovern (Ed.), Handbook for enhancing undergraduate edu- cation in psychology (pp. 161–182). Washington, DC: American Psychological Association.
-
-Brown University Catalogue, 1900–1901. Providence, RI: Brown
+Boyer, E. L. (1990). Scholarship reconsidered: Priorities of the pro-

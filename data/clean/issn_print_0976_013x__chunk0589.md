@@ -1,7 +1,13 @@
-## http://pubs.sciepub.com/jbms/1/4/5/index.html
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 0536b5c24cd2d383aa2255915fe149c6aa5b3154
+title: issn_print_0976_013x
+---
+# leadership. The International Journal of Knowledge, Culture and Change Management, 11
 
-Gerard, H. B. (1964). Conformity and commitment to the group. The Journal of Abnormal and
+(2), 45-57.
 
-Social Psychology, 68(2), 209-211. https://doi.org/10.1037/h0045912
+Essawi, M., and Tilchin, O. (2013, January 23). A constructive confrontation approach to
 
-Hanaki, N., and Owan, H. (2013). Autonomy, conformity, and Organizational Learning.
+managing organizational culture. Journal of Business and Management Sciences.

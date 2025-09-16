@@ -1,17 +1,19 @@
-## Why the Five-Star Rating Scale Fails and How Dichotomization Helps
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3aa4ab6ff47cb791cf6d7d8ea91548c2e298c716
+title: H08NYS-PDF-ENG
+---
+## campaigns, focus on supervisors and colleagues in traditional
 
-While people often believe that evaluations are meritocratic in
+workplaces. However, applying these interventions to the usually
 
-theory and that they are fair measure of performance, it has been
+anonymous customer is challenging because they are not employees
 
-demonstrated that subtle biases can inﬂuence evaluations, even
+and are not easily trained or monitored.
 
-without conscious awareness. The likelihood that these subtle biases
+From this research, we oﬀer three strategies for platforms to create more
 
-inﬂuence ratings may be compounded when customers have greater
+eﬀective evaluation processes that can reduce bias and improve the
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+platform’s ability to identify the quality of service.

@@ -1,5 +1,23 @@
-# Source: Survey Data
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 56f20b70c977a2b60fa1a292ce481d9ffcbf86ab
+title: final_2019_jan_feb_jbs_pmd
+---
+# SC/ST OBC Gen Total
 
-The descriptive table below provides some useful statistics including mean, standard deviation and 95% confidence intervals for the dependent variable (Group Performance)for each separate groups (SC/ST,OBC,
+87 241 159 487
 
-Gen) as well as for all group combined. Group Performance of OBC is seen to be highest followed by Gen and SC/ST.
+2.0019 4.0214 2.9329 3.3053
+
+.46693 .40268 .26790 .86359
+
+.05006 .02594 .02125 .03913
+
+1.9024 3.9703 2.8910 3.2284
+
+2.1014 4.0725 2.9749 3.3822
+
+1.17 3.33 2.50 1.17
+
+2.50 4.83 3.33 4.83

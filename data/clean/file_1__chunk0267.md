@@ -1,11 +1,15 @@
-# 63
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: f0c17a78c2f17ef6463afe60383bd690171aa4fd
+title: file_1
+---
+# 11th ed. John Wiley & Sons.
 
-Sen, A., 1992. Inequality Reexamined. Oxford: Oxford University Press.
+Scott, J., 1986. Gender: A Useful Category of Historical Analysis. The American Historical
 
-Sen, A., 2001. The Many Faces of Gender Inequality. The New Republic, 35-40.
+Review, 91 (5), 1053-1075.
 
-Shapiro, D. and B. Kirkman, 2001. Anticipatory injustice: The consequences of expecting
+Scott, J., 1988. Deconstructing equality-versus-difference: or, the uses of poststructuralist
 
-injustice in the workplace. In J. Greenberg and R. Cropanzano, eds, Advances in organizational justice. Lexington, MA: New Lexington, 152-178.
-
-Shunfeng, S. and C. Aimin, 2006. China's rural economy after WTO: problems and
+theory for feminism. Feminist Studies, 14 (1), 32-50.

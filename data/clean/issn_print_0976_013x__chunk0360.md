@@ -1,11 +1,7 @@
-# Manufacturing
-
-Systems,
-
-12(7),
-
-524-533.
-
-https://doi.org/10.1108/EUM0000000006232
-
-More, D., & Babu, A.S. (2008). Perspectives, practices and future of supply chain
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: edd237600fcdf77c3dff73155c6158d9ae8643da
+title: issn_print_0976_013x
+---
+# Integrated

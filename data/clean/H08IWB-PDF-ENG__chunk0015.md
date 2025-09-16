@@ -1,11 +1,9 @@
-# Expand Access and Inclusivity
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63a531d2baccad7bb515266b3cbeaebabc66d009
+title: H08IWB-PDF-ENG
+---
+## powerful message to the rest of the organization about the importance
 
-For mentoring programs to achieve their full potential, they must be
-
-inclusive and accessible to a wide range of employees. Traditionally,
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of mentoring, encouraging broader participation and commitment.

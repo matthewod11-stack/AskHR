@@ -1,11 +1,17 @@
-# Lr_
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: eb6541030fc9c4b5f7036f81cc60ae4a8bc3f294
+title: document_resume
+---
+# El
 
-L._
+L_J 71
 
-- 7. Judgement
+L____J
 
-- 8. Creativity
+- 1L_J Ei
 
-- 9. Leadership
+'
 
-- 10. Punctuality
+- 6. Attitude

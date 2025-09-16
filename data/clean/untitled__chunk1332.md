@@ -1,5 +1,11 @@
-# North-Holland.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bd433f741dba92a650e92587d479e19535981981
+title: untitled
+---
+# York: Guilford Press.
 
-Sameroff, A. J. (1970). Changes in the nonnutritive sucking re- sponse to stimulation during infancy. Journal of Experimental Child Psychology, 1, 112–119.
+Sackett, G. P. (1968). The persistence of abnormal behavior in monkeys following isolation rearing. In R. Porter (Ed.), The learning in psychotherapy (pp. 26–39). London: role of Churchill.
 
-Sameroff, A. J. (1975). Early inﬂuences on development: Fact or
+Salthouse, T. A. (1985). A theory of cognitive aging. Amsterdam:

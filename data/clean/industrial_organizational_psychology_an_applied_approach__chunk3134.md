@@ -1,3 +1,9 @@
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 40fea61b1d7d1b7c76a44b7c1cada93bbd824a77
+title: industrial_organizational_psychology_an_applied_approach
+---
 # S
 
-Confront conflict as it occurs. Don’t wait, thinking that “it will go away.” If you have concerns with another person, speak to that person about how your feel. Don’t be accusatory. Just explain how you interpreted the events and then ask if you and the other person could discuss how to resolve the situation. Be willing to ask for mediation, if necessary. When two or more members of a group or team are in conflict, everyone suffers, and you get a bad reputation for being a poor group/team member.
+If you or your team is given an assignment or project, be sure that you fully understand the goal of that assignment and what is expected of you. To do this, go to your manager or another colleague to get clarification. Ask about the goal and the expectations. Will you and/or your team be responsible just for gathering and submitting information? Will you serve as an advisory group, giving recommendations or suggestions? Or do you have full authority to carry out all decisions regarding the project or assignment?

@@ -1,19 +1,35 @@
-## and non-generic, of appropriate intensity, and not too over the top
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6bfe4f6facb518ff86ebd211d8a04b13f956e888
+title: H08HK5-PDF-ENG
+---
+## HBR / Digital Article / When Expressing Gratitude to Employees, Timing Matters
 
-given the current situation and nature of the relationship—inauthentic
+in the moment, but also what is likely to happen in the future. Try
 
-gratitude will not yield desired results. It’s also important to use words
+to take on the perspective of your employee: what about what they’re being asked to do might be painful or diﬃcult? This awareness and
 
-that explicitly describe why the employee’s behavior matters and is
+anticipation can come from a number of places, including your own
 
-impactful. In expressing genuine gratitude, you should remind the employee that their behavior—even though the situation is diﬃcult
+prior experience and knowledge that the task ahead will be unpleasant,
 
-and distressing—has a positive impact in furthering the group or
+the other person’s prior experience the last time they had to engage
 
-organization’s goals, and that their contributions are truly valued by
+in the task (in our example, having layoﬀ conversations), or something
 
-the team and organization. Our research ﬁnds that expressing gratitude
+that the other person shares with you directly (e.g., “I’m really dreading
 
-(anticipatory or otherwise) has a positive eﬀect on employees’ sense of
+these layoﬀ conversations on Friday”). Rather than hoping it won’t be
 
-collective social worth, and detailing how it beneﬁts the team can help
+that big of a deal, invalidating, or trivializing the situation, you can use
+
+this information to take prescient, preemptive action.
+
+- 2. Show genuine gratitude. Before the employee goes into a diﬃcult
+
+and distressing situation, express genuine gratitude to them. In order
+
+for this expression of gratitude to be eﬀective, it needs to include a
+
+number of features, including being speciﬁcally tailored to the person

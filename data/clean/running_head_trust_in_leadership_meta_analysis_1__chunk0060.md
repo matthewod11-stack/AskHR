@@ -1,13 +1,17 @@
-# (Mayer & Gavin, 2005).
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 5f5c23f948a300fc9528d27093348da290919f9b
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# relationship between numerous leadership styles and employee behavioural outcomes such as
 
-In contrast, when a leader does not inspire trust, a follower’s performance may suffer
+performance and OCB (e.g., Chen et al., 2014; Newman et al., 2014; Zhu et al., 2013). Trust
 
-as they allocate resources toward ‘covering their backs’ (Dirks & Ferrin, 2002). Here, we aim
+facilitates these relationships due to its pivotal role in the formation and maintenance of
 
-to test whether meta-analytic support exists for the role of trust as a key mediator in the
+social exchanges (Den Hartog, 2018; Dirks & Ferrin, 2002; Konovsky & Pugh, 1994) and
 
-relationship between the different leadership styles and performance outcomes. We focus
+ability to stabilize interpersonal relationships. When employees trust their leaders, they are
 
-specifically on task performance and OCB, as these are considered some of the most
-
-important outcomes in the organisational behaviour context (Banks et al., 2017).
+more willing and able to focus cognitive resources on in-role and extra-role performance

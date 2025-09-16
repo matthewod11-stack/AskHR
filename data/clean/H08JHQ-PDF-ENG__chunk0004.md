@@ -1,15 +1,13 @@
-# their reporting relationships.
+---
+source_path: H08JHQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18a2e0440b37487cf4b0eb94f6206d04162dd12f
+title: H08JHQ-PDF-ENG
+---
+## HBR / Digital Article / 5 Mistakes Managers Make When Giving Negative Feedback
 
-If you can relate to this experience, don’t worry. While performance
+desire to be liked and to belong. Confrontation of any kind can threaten
 
-conversations are rarely easy, through time and repetition, your
+that, and leaders who are new to performance conversations often feel
 
-communication skills and comfort giving critical feedback will improve.
-
-There are, however, some common mistakes people make when they’re
-
-just starting out. To help you avoid them and gain more conﬁdence
-
-in your approach, let’s talk about what not to do during performance
-
-conversations — and what to do instead.
+this the most. They fear that sharing critical feedback might damage

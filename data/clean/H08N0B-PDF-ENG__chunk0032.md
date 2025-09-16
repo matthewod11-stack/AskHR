@@ -1,29 +1,31 @@
-## employer brand but reduced turnover talent.
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1801f9cf7082c4f614831171bd56eb368e76d02
+title: H08N0B-PDF-ENG
+---
+## remote and work expands your talent pool?
 
-- 5. Manager training
+Look at your top performers—does remote and hybrid work help them
 
-Ask: Are managers aware of how their important role in making remote
+thrive? Your long-term workforce strategy is another key factor. Are
 
-or hybrid work successful—and do they receive training based on it?
+you scaling a distributed workforce for growth, or does in-person
 
-Traditional management strategies often fall short in remote and
+collaboration remain essential? Finally, assess whether remote and
 
-hybrid settings, and only 28% of hybrid team leaders receiving
+hybrid work improves engagement and retention. Do employees stay
 
-relevant training. This highlights the need to upskill leaders to meet
+longer and perform better when given hybrid or remote options?
 
-these new demands, including developing managers’ skills in team
+Evaluating these questions will help you determine how central remote
 
-building, assessing employees’ performance, and enhancing well-being
+work should be in your talent strategy.
 
-when face-to-face interaction is limited. For example, Pinterest, which
+Doing this right can yield huge beneﬁts. Yelp, which adopted remote
 
-allows employees to work remotely or in person, has a “Manager Kickstart” program to train leaders on how to eﬀectively manage remote
+work to save on real estate costs, reduced turnover by 13% since 2021.
 
-workers, paired with detailed follow-up analysis of the program’s eﬀects. Cisco provides training around assessing outcome-based
+Spotify’s “Work from Anywhere” policy, launched in 2021, signiﬁcantly
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+contributed to talent retention, cutting attrition rates by 15%. By noting that remote staﬀ aren’t “children,” Spotify has not only strengthened its

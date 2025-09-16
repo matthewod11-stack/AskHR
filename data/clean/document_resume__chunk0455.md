@@ -1,3 +1,9 @@
-# Considerations in Selecting
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: d147f40d2a57d8063511574c181820c7b1994a56
+title: document_resume
+---
+# Peer Appraisal
 
-Research has shown that peer appraisals are strongly Lonelated with objective measures of job success, However, peer appraisals have a Lompentive aspect and can be disnip- tive Conflicts may arise between making objectie appraisals and maintaining colle- gial relationships. Finally, peers may agree in advance to give each other high ratings.
+Peer appraisals are most effective when there is a high level of trust among peers and when job performance information is available to peers such as in a faculty.

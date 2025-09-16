@@ -1,7 +1,15 @@
-## description and your resume into the AI program and prompt, “Tell me
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 107d609b99b3f642285862673746b0c3a72d22c1
+title: H08MYZ-PDF-ENG
+---
+## similar-sounding language for anyone applying for the same job.
 
-what keywords and responsibilities from the job description are missing
+Therefore, you should only rely on AI tools to align your already drafted
 
-from my resume.” Then review the keywords or responsibilities that are
+resume with the keywords for speciﬁc careers. For example, you could
 
-relevant to your speciﬁc experience and organically incorporate them
+use a prompt like, “Provide me all possible keywords for hard and
+
+soft skills for business operations jobs.” Or you could input the job

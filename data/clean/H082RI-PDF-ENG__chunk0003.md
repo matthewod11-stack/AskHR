@@ -1,23 +1,25 @@
-# HBR / Digital Article / What Demographics Forms Say About Inclusivity at Your Compa…
+---
+source_path: H082RI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9ae8450b77d6ae2b6ef3f8f2a03aac1d3bdc176
+title: H082RI-PDF-ENG
+---
+# Illustration by Antti Kalevi
 
-We explored situations like these, which we term instances of “identity
+Picture yourself ﬁlling out a job application online. You arrive at a
 
-omission,” in a recent paper. We ﬁnd that the seemingly mundane
+question asking you to provide some demographic information, like
 
-choices companies make when designing demographics forms —
+your gender or race. Although several response options are provided,
 
-such as those used in job applications or employee engagement
+you notice that your own identity group is not included in the list.
 
-surveys — can have relatively major implications. For members of
+At this point in the process, how would you feel about this potential
 
-minority groups, ﬁnding their identity omitted in an organization’s
+employer? Would you expect to feel a sense of belonging if hired?
 
-demographics forms can make them question whether their identity is
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-valued and respected by that organization.
+1
 
-However, decision makers in organizations may not recognize the
-
-implications of the response options and formats they use in
-
-demographics forms. In this article, we summarize recent research on
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

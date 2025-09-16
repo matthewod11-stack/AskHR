@@ -1,13 +1,11 @@
-# company ample preparation time.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d326ac11a60d64b7fabc1648e0aad6027d1c65c6
+title: H08LRM-PDF-ENG
+---
+## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
 
-On the personal front, if you have kids, you’ll want to investigate
+before approaching your supervisors. And test the waters by identifying
 
-schools in your potential destinations; if you have pets who can’t come
-
-along, long-term sitters. Subletting your home, putting large expenses
-
-on hold, and cutting oﬀ unnecessary recurring costs can help mitigate
-
-the ﬁnancial burden. Even saving as little as 5% of your after-tax income
-
-over a decade, much like you would save for retirement, can result
+a proposed sabbatical date years in the future to give your team and

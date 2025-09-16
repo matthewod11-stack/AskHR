@@ -1,7 +1,37 @@
-# SS
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb4df84716a51d4d52a7b616e7137dbc5991b77f
+title: R2302A-PDF-ENG
+---
+# HBR / Magazine Article / GitLab’s CEO on Building One of the World’s Largest All-Rem…
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+In our view, an in-person workplace operates well until you grow out of
 
-10
+a single room. Once you spread to other ﬂoors and locations, the work
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+becomes more virtual anyway. Hybrid, meanwhile, is the worst of both
+
+worlds, because it creates a divide between those in the oﬃce and those
+
+outside it. I think we can all admit that meetings with half the people in
+
+a room and the other half on Zoom are typically disastrous.
+
+At GitLab we believe that tech-enabled distributed teams are the future
+
+of knowledge work. We’ve been able to hire exceptional talent from
+
+all over the world and introduce our employees to a more ﬂexible
+
+and productive kind of teamwork that has propelled our company to
+
+new heights. But our success has rested on careful adherence to the
+
+principles I’ve described. We hope that more organizations will follow
+
+our lead and learn how to run an all-remote workplace well.
+
+A version of this article appeared in the March–April 2023 issue of Harvard Business Review.
+
+Sid Sijbrandij is the CEO of GitLab.

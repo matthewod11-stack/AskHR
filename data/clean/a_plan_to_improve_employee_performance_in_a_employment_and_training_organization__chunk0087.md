@@ -1,11 +1,19 @@
-# meeting.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: f0d1bd6392d804ba4d061deace61066819288783
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# c
 
-c. Hold a preliminary meeting with the employee before the actual formal
+Obtain feedback from other employees whom the employee has worked with, if
 
-performance evaluation takes place. At this meeting, the evaluation form(s) and
+appropriate. This is important information to have when evaluating the key
 
-process will be explained and reviewed. The employee and supervisor should
+performance objectives of an employee 's job. Locate and have ready any
 
-discuss his or her job description and decide which essential functions and
+supporting information (i.e., intakes,files, etc.)
 
-organizational goals the employee is responsible and should be evaluated for that
+b. Give the employee advanced notice of the performance evaluation so that he
+
+or she has the opportunity to review (self-evaluate) and prepare for the

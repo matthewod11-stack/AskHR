@@ -1,25 +1,19 @@
-## HBR / The Big Idea / What Defines a Successful Organization?
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf6162873408aa5ae910d3497d05a8223b0748f9
+title: H0785Z-PDF-ENG
+---
+# ways:
 
-lower cost. This kind of aﬀordable personalization and service was a
+- 1. From mass market to markets of one. Bezos recognized that an online
 
-new value proposition. What’s more, each transaction provided Amazon
+retailer could oﬀer far more choices than a local shop could, along with
 
-with data that its algorithmic engine could analyze to ensure that future
+the convenience of delivery right to the customer’s home — all at a
 
-oﬀerings were better tailored to each consumer’s preferences, needs,
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-and desires, or what I call “markets of one.”
+5
 
-Businesses that use technology to predict and personalize what a vast
-
-number of individuals want at low incremental cost can scale up and
-
-increase cash gross margins. Companies that don’t make this shift will
-
-ﬁnd it hard to compete.
-
-- 2. From building on core competencies to routinely replacing them.
-
-The conventional wisdom has been that companies should use their
-
-core competencies to sustain a competitive advantage. But in an age of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

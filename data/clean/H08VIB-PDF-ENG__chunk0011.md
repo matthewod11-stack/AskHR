@@ -1,11 +1,15 @@
-# AI Sets the Table
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3a2e895115739edb193af99915fda8a509d4be0
+title: H08VIB-PDF-ENG
+---
+# use of AI”).
 
-In the “AI sets the table” approach, AI is leveraged before a meeting
+Our research uncovered that there are three main approaches to
 
-or workshop to generate materials, templates, or guidelines to be used
+consider when integrating AI into teamwork: AI sets the table, AI at
 
-in the room. Anna, the regional head of strategy at an automotive
+one seat, and AI at every seat. When you make AI part of your team, you
 
-company, used generative AI to help her prepare for a strategy planning
-
-meeting. Her goal wasn’t just to organize the session, but to elevate the
+must consider team chemistry.

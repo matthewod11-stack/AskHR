@@ -1,11 +1,11 @@
-# Psychological Review, 2, 382–387.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1ff5e5ee18a65df673972d40253af1664c05ce81
+title: untitled
+---
+# References
 
-Wolﬂe, D. (1942). The ﬁrst course in psychology. Psychological
+Teaching psychology in America: A history (pp. 365–384). Washington, DC: American Psychological Association.
 
-Bulletin, 39, 685–712.
-
-Wolﬂe, D. (1948). The place of psychology in an ideal university [Review of the book The place of psychology in an ideal univer- sity]. American Psychologist, 3, 61–64.
-
-Zemsky, R. (1989). Structure and coherence: Measuring the under- graduate curriculum. Washington, DC: Association of American Colleges.
-
-481
+Wolfe, H. K. (1895). The new psychology in undergraduate work.

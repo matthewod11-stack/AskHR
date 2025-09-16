@@ -1,23 +1,17 @@
-## HBR / Digital Article / 3 Strategies for Making Better, More Informed Decisions
+---
+source_path: H07MWV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0938e4195fe3b90b289507c200c78b8a1e1985b
+title: H07MWV-PDF-ENG
+---
+## cloud computing and artiﬁcial intelligence.
 
-response to new evidence. By actively seeking out diverse perspectives
+Research has found that people who actively seek out information that
 
-and evidence, you can overcome the limitations of self-serving biases
+challenges their preconceptions are better able to update their beliefs in
 
-and make more informed decisions.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-- • •
+4
 
-Falling prey to self-serving biases only means we are human beings.
-
-Overcoming such biases in our work and life is not only critical to
-
-achieving better decisions — it’s also very possible. We can make better,
-
-more informed decisions — and unlock our full potential at work and
-
-beyond — if we make a regular habit of the above three strategies.
-
-This article was originally published online on May 25, 2023.
-
-Francesca Gino is a behavioral scientist and the Tandon Family Professor of Business Administration at Harvard Business School. She is the author of Rebel Talent and Sidetracked.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

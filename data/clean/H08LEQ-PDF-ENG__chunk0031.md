@@ -1,11 +1,19 @@
-## perform predictive maintenance, and work toward zero-defects.
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2f3882a7eb893c19078f4dd467856167d142fe8
+title: H08LEQ-PDF-ENG
+---
+## information as audio signals, visual data, and sensor inputs from
 
-The emergence of multimodal AI — the capability to reason about how
+production processes. Audio signals might include the sound a
 
-the world works across diverse types of sensory inputs — is one of
+component makes as it is installed. Sensors may report the weight and
 
-the key breakthroughs bringing us ever closer to human-level artiﬁcial
+temperature of parts made to very precise speciﬁcations. The amount of
 
-general intelligence (AGI). Long thought to be many decades away, some
+data is enormous: at one plant, the equivalent of more than 40 million
 
-experts have recently argued that the timeline could be much shorter.
+sheets of paper per day. Self-optimizing algorithms synthesize the data,
+
+enabling production personnel to monitor the health of equipment,

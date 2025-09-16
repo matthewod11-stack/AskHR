@@ -1,23 +1,37 @@
-# tasks.
+---
+source_path: H08GLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5b424a187b277aba33a9e72e26eedbd163c91c5
+title: H08GLK-PDF-ENG
+---
+# Map Out Clear Paths for Growth
 
-Try: “You did great work communicating with our clients on the last initiative. I know they were diﬃcult to work with, and you showed
+Career growth shouldn’t feel be a mystery to your employees. Clarity
 
-patience and compassion. I would love for you to take the lead on the
+about what’s required to move towards their goals keeps people
 
-upcoming client integration project. It will help you demonstrate your
+motivated. Feedback sessions are opportunities to map out not just
 
-ability to handle more complex transactions, positioning you well for
+promotions, but also career-building projects, cross-functional roles,
 
-the senior manager role we’ve been discussing. Let’s detail the exact
+and mentorship opportunities that match their aspirations.
 
-skills and milestones you need to hit to achieve this.”
+This is even more critical for high-performing women and non-binary
 
-This provides a clear example of what the employee is doing well and
+individuals, as research shows that a disproportionate number of them
 
-why they have earned this new opportunity. It also gives them a detailed
+don’t know what’s required for their next promotion, indicating a gap
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+that needs to be closed to avoid frustration and lost opportunities.
 
-8
+Your one-on-ones are a great time to reinforce that you’re dedicated to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+helping your high performers grow and get the opportunities they want.
+
+Instead of: “Keep up the good work, you are on the right track.”
+
+This feedback is not speciﬁc enough to be useful. It vaguely references
+
+the future and doesn’t explain what it will take for a high performer
+
+to get to the next level or, say, be picked for high-priority projects and

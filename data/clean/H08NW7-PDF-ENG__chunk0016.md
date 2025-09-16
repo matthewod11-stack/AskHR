@@ -1,7 +1,17 @@
-# Rebuilding Your Credibility
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a37d3e5a6bc7e0567490b53344725d5a66ed15c
+title: H08NW7-PDF-ENG
+---
+## But the biggest risks—and actual costs—are for others. Since there’s
 
-If you’re feeling the urge to embellish your abilities to others—or
+always a strong possibility that you’ll succeed in your deception or
 
-already have and now realize you can’t keep up the illusion—here are
+exaggeration, there’s a clear possibility that you’ll become like Ben, the
 
-some ways to start a graceful journey back to reality and legitimate
+person we cautioned about at the start of the article: someone who isn’t
+
+as good as they want others to believe but is able to succeed despite
+
+being overrated.

@@ -1,17 +1,23 @@
-## HBR / Magazine Article / Leaders Shouldn’t Try to Do It All
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2018f9ef1862fd6341e286a87ccb939e8344c0e7
+title: R2501E-PDF-ENG
+---
+## comparative advantage over Italy on that front.) Meanwhile, England
 
-That is our deﬁnition of leading to win. It was an essential part of the
+exports wool to Portugal because its weather is perfect for raising sheep.
 
-strategic logic that guided us in turning around the organizations we
+A similar logic holds here. Leaders shouldn’t spend their scarce time on
 
-led. When A.G. was appointed CEO of Procter & Gamble, in June 2000,
+activities simply because they are very important. They should do only
 
-P&G was a company in crisis. It had had two consecutive quarterly
+the things that nobody else in the organization can do nearly as well—if
 
-earnings misses, and its stock price had halved since the beginning of
+at all. And they should spend as much of their time as possible on them.
 
-the year. A.G. led a turnaround during his 2000–2009 tenure, and the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-board asked him to come back and do it again from 2013 to 2015. His
+2
 
-transformation of P&G made him one of the most successful CEOs of his
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

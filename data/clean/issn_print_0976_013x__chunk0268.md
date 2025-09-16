@@ -1,9 +1,15 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: f1e22f29e6f8fd1e3fe1226932a978f7a2118671
+title: issn_print_0976_013x
+---
+# economics, psychology, and organization management with different perspectives. Supply
 
-(SCRM), with overlapping concepts of organizational agility under dynamic competition, i.e.,
+chain resilience utilizes the aspect of flexibility, dynamic capacity, and adaptability approach
 
-the ability to cope with unexpected challenges, survival under threats, and exploit challenges
+towards negative as well as positive influences of the environment (Ponomarov & Holcomb,
 
-to take advantage of opportunities (Sharifi & Zhang, 2009). Parallel developments in
+2009). It was identified as one of the critical components of Supply Chain Risk Management
 
-resilience concepts, i.e., restoration or rebound aspect (fail-safe design from an engineering
+30

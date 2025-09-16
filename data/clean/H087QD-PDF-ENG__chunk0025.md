@@ -1,7 +1,9 @@
-# apart
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 241f83210ded53c13f74840be4ce0e92b4c6b27d
+title: H087QD-PDF-ENG
+---
+# that time
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Behaviors that can enable better remote collaboration when you’re

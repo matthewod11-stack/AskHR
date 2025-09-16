@@ -1,33 +1,39 @@
-# HBR / Digital Article / How to Set Transformation Targets That Actually Drive Change
+---
+source_path: H08C8U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd774364444e242b2d127127c98ef36fa2e6818c
+title: H08C8U-PDF-ENG
+---
+# shortcomings.
 
-- 2. Specify targets in absolute — not relative — terms
+To elaborate, most senior executives strive to hit the bullseye. However,
 
-To be eﬀective, targets should be set as absolutes — e.g., “we will deliver
+once managers identify the actions required to meet their assigned
 
-a minimum of $4.5 billion in EBIT in 2025” — rather than relative
+target, they often stop, seeing no need to identify additional steps or
 
-to a baseline — e.g., “we will deliver $400 million in cost savings in
+strive to improve performance further. Worse, in companies that have
 
-2025.” Setting targets as absolutes avoids unnecessary game-playing and
+deployed multiple rounds of targets over a short time, executives may
 
-increases the likelihood that the minimum performance requirement
+have a perverse incentive to avoid exceeding targets, fearing it will raise the baseline and make hitting subsequent targets more diﬃcult.
 
-appears in the company’s ﬁnancial statements.
+Successful companies think of targets as minimum performance
 
-While common, the approach of setting targets in relative terms almost
+requirements and often refer to them as such to avoid the stigma
 
-always fails to produce real performance improvement. To start, relative
+now attached to the term targets. In these cases, leadership is explicit
 
-targets encourage counterproductive behavior among managers. Two
+about the minimum hurdle the company must clear and encourages
 
-behaviors are most common:
+executives to deliver even more, typically reinforced through incentives.
 
-- Arguing the baseline. Baseline plans are rarely stable, nor are all the
+This new mindset uniﬁes the organization, pushing everyone to identify
 
-actions within them clearly deﬁned. Astute executives know this and,
+new opportunities to drive higher levels of performance.
 
-in the face of targets, claim to ﬁnd “new opportunities” that in fact
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-were already included in the baseline, such as consolidating sales and
+2
 
-support locations to save on overhead costs when that was the plan all
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

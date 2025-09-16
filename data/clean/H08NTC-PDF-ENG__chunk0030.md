@@ -1,9 +1,19 @@
-# child to a new school further away.
+---
+source_path: H08NTC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97725a8abbde0d2034c4fd8d7521ebfa26eea9e0
+title: H08NTC-PDF-ENG
+---
+# Patience and ﬂexibility
 
-By implementing the above strategies, you can support team members
+The aftermath of a natural disaster often leaves employees in a state of
 
-who have been aﬀected by natural disasters and help them recover,
+uncertainty. It will likely take time for the aﬀected employee to re-focus
 
-both professionally and personally. In doing so, you can contribute to
+on anything work-related. And, when they do re-engage with work,
 
-creating a sense of security at a time when their life has been upended
+they may need additional ﬂexibility, including ﬂexible hours and/or
+
+the ability to work remotely (if they don’t already) to handle personal
+
+matters related to the disaster, such as changing housing, or driving a

@@ -1,33 +1,25 @@
-## HBR / Magazine Article / The Conflict-Intelligent Leader
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3817edfabc0a0cdf3f960ee86d56f2d6775428e
+title: R2504D-PDF-ENG
+---
+## organization’s work climate and conﬂict-engagement skills and
 
-groundwork in a peace process. When Mitchell arrived in Northern
+infrastructure—before disagreements come to a head. And when a
 
-Ireland, he faced a centuries-old conﬂict and communities divided
+conﬂict erupts, they choose their moves carefully. Like diplomats who
 
-by religion, politics, and blood. What distinguished his approach was
+know that the ﬁrst 48 hours of a crisis can determine the nature of
 
-extraordinary patience and methodical foundation building. He spent
+relationships for years, they understand that their initial responses will
 
-the ﬁrst months doing nothing but listening, conducting more than a
+shape all that follows.
 
-hundred in-depth interviews with people across Northern Irish society
-
-—including paramilitary leaders, clergy, politicians, and ordinary citizens aﬀected by “The Troubles.”
-
-Mitchell’s signature contribution was the Mitchell Principles—a set
-
-of commitments to democracy and nonviolence that created a moral
-
-framework for negotiations. Instead of demanding immediate solutions,
-
-he acknowledged that peace required building blocks. His team
-
-meticulously documented every agreement and concession, creating
-
-what he called “gardens of agreement” in a landscape of conﬂict.
+George Mitchell’s work on the Good Friday Agreement in Northern Ireland in the 1990s illustrates the eﬀectiveness of laying the
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

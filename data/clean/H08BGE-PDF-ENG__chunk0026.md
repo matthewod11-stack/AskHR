@@ -1,9 +1,13 @@
-## and competencies. Ensure opportunities for bonuses and promotions
+---
+source_path: H08BGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8eb9b3f84aa0f1129e16ddf2bdc8e5f52bfa834
+title: H08BGE-PDF-ENG
+---
+# Equal pay
 
-are available to everyone. Conduct a pay audit for jobs at all levels which
+Pay should be set based on a person’s position and not their family
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+status. Use policies to guide how pay and raises are determined. Use
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+standardized job classiﬁcations to set salaries based on the needed skills

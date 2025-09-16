@@ -1,3 +1,9 @@
-# 14
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: 5cddd61c1067ab23b186a7cf7118bceb8d6c30e2
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# i
 
-organization-related factors as antecedents and instigators of deviant behavior. Whilst di Stefano et al. (2019) and Aleksi’c et al. (2019) found that some types of culture are linked to less deviant behavior, Nacˇ inovi’ et al. (2020) research showed that culture has a small effect when per- sonality is considered. Nacˇ inovi’ et al. (2020) implication was that an employee’s demographic and personality traits are more influential to their deviant behavior than envi- ronmental factors of the workplace. Aside from the cul- ture implemented by the organization, workplace culture defined in the findings also included culture that is resulted by personal circumstances and experiences of the employ- ees such as experiencing incivility (Rosen et al., 2016), abu- sive supervision (Mawritz et al., 2014; Syed & Azam, 2019; Valle et al., 2019), aggressive work culture (Mawritz et al., 2014; Restubog et al., 2012) and toxic work culture (Tiwari & Jha, 2022). The results have shown that work- place culture derive from experiencing negativity and dark personality have a strong influence on deviances. It is worth noting that the definition of workplace culture is not necessarily an antecedent at organizational level but can also be at individual level. Workplace culture define by instruments explained in findings were used to examine workplace culture as organizational or environmental fac- tor meanwhile culture from collective employees’ personal- ity is arguably an individual factors.
+13

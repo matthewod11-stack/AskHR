@@ -1,15 +1,7 @@
-# Asia.
-
-Today, China represents the largest overseas market for Cummins,
-
-and Cummins China’s partnerships have been pivotal in Cummins’
-
-successful journey. “The economy of scale we have developed through
-
-our partnerships has allowed Cummins to develop a localized supply
-
-chain and build up our engineering capabilities in China. This in turn
-
-has helped Cummins develop robust and innovative ‘ﬁt-for-market’
-
-solutions that are required to compete and win in China,” shared
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a215c4af93b135464255b4577e83d6527b6d136
+title: H08D71-PDF-ENG
+---
+## Chapman, then Cummins vice president for East Asia and Southeast

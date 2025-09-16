@@ -1,5 +1,7 @@
-## https://abo.finna.fi/Record/abo_electronic_aa.9913557271305972?sid=
-
-4080115895
-
-94
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: fa367374d070c76e7c2817ca3fe53e09d456845c
+title: i
+---
+# Decisions.

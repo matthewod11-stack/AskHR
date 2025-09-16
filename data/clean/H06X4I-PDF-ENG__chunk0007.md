@@ -1,7 +1,19 @@
-## accurate description of the remote work evolution for many ﬁrms. The
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c354b371c39f71264d0ee25615b7d4924230f65e
+title: H06X4I-PDF-ENG
+---
+# Maciej Toporowicz, NYC/Getty Images
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Imagine a consultant telling a C-level executive in 2019 that huge
 
-1
+swaths of their company could transition to remote work with only a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+few days’ notice, they would experience a productivity boost after an
+
+adjustment period, and many of those workers would not want to return
+
+to the oﬃce. The consultant’s contract likely wouldn’t be renewed. Even
+
+so, surveys conducted independently by both authors indicate this is an

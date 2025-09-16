@@ -1,13 +1,19 @@
-# from AI in the long run.
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c37796f1af24792f98788eb39df3eeceaa07fb91
+title: H07IG2-PDF-ENG
+---
+# in combination as well.
 
-This article was originally published online on March 2, 2023.
+AI is fast becoming a ubiquitous technology. Once the hype recedes
 
-Thomas H. Davenport is the President’s Distinguished Professor of Information Technology and faculty director of the Metropoulos Institute for Technology and Entrepreneurship at Babson College, a visiting scholar at the MIT Initiative on the Digital Economy, and a senior adviser to Deloitte’s Chief Data and Analytics Oﬃcer Program.
+it will become as standard as ERP systems, statistical packages, or
 
-Matthias Holweg is the American Standard Companies Professor of Operations Management and director of the Oxford Artiﬁcial Intelligence Program at the University of Oxford’s Saïd Business School.
+even spreadsheets. AI platforms can be used by a much larger pool of
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+companies to reengineer their processes. AI is a means to an end, not
 
-7
+an end in itself. Firms that understand how to use it as a new tool in
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the broader context of process reengineering will arguably get the most

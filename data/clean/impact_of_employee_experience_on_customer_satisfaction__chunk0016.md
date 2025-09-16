@@ -1,13 +1,9 @@
-# INTRODUCTION TO RESEARCH TOPIC
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 8fdfb868b7ba5346169cc3e4cfed763ec1252628
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# persuasion, or gender.
 
-The author of this Master Thesis research document spent his career in the
-
-automotive industry with fifteen years’ experience in sales, product management,
-
-service management, and global marketing. The relationship between employee
-
-experience and customer satisfaction has always been of professional interest to the
-
-author and it has the potential to become equally as important as customer experience
-
-to many companies. Atlas Copco gives to author the opportunity to be part of an
+1.

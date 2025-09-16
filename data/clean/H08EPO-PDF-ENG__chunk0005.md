@@ -1,39 +1,19 @@
-## In an ideal world, higher-ups would instinctively and unquestioningly
+---
+source_path: H08EPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e0cff4f820a730d4b8d16bd80926b0e993ffd62
+title: H08EPO-PDF-ENG
+---
+## visible support from my boss and the rest of the leadership team.”
 
-champion your eﬀorts. But the truth is, your supervisor is busy juggling
+Maybe you’ve been in Emily’s shoes, wishing your manager would
 
-multiple priorities and your project may have slipped their mind. If
+advocate for you, whether through the public endorsement of an idea,
 
-they’re new to their role, they might be hesitant to throw their weight
+introductions to key stakeholders, publicizing team achievements, or
 
-around. In some cases, your boss may intentionally wait and see how
+positioning you as a subject matter expert. Your leader’s support can
 
-you go about getting buy-in on your own. Most of the time though,
+lend credibility, open doors, and rally resources in a way that’s hard to
 
-leaders simply don’t recognize when their advocacy is needed, how
-
-impactful it can be, or the obstacles you’re facing.
-
-Regardless of the reason, waiting for support to magically materialize is
-
-a sureﬁre way to aggravate yourself and potentially derail your project.
-
-So, how do you manage up and ask for the help you need? Here’s how to
-
-convince those above you to champion your cause.
-
-Highlight what’s in it for them
-
-Your boss, like everyone, is tuned into their personal “radio station,”
-
-WII-FM (what’s in it for me?). To gain their support, you need to
-
-broadcast on their frequency. In other words, connect your ask to how it
-
-not only meets your needs, but also aligns with their priorities.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+do on your own — but it’s often up to you to ask for it.

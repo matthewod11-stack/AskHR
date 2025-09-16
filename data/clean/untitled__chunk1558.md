@@ -1,5 +1,7 @@
-# York: HarperCollins.
-
-Greene, B., White, J. C., Whitten, L., & Jackson, L. C. (Eds.). (2000). Psychotherapy with African American women: Innovations in psy- chodynamic perspective and practice. New York: Guilford Press.
-
-Groneman, C. (1994). Nymphomania: The historical construction of
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 12a657c938c63511ea713c68dcc2434dab57434a
+title: untitled
+---
+## Gray, J. (1992). Men are from Mars, women are from Venus. New

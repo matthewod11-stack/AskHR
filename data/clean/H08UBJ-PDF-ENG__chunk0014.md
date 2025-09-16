@@ -1,25 +1,19 @@
-## banking relationship). In other words, when conﬂict of interest would
+---
+source_path: H08UBJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7bd6a264033285235c74760c6680607eb8d1a7a2
+title: H08UBJ-PDF-ENG
+---
+# diversity.
 
-normally bite hardest, gender-diverse teams showed the most resistance
+The pattern that emerged was unmistakable: Teams with more women
 
-to the optimism bias it induces.
+exerted lower optimism bias in their issued target prices than those with
 
-How big a diﬀerence are we talking about? The statistics were eye-
+fewer women. Put another way, gender diversity was consistently found
 
-opening: Increasing the proportion of women on an analyst team by
+to reduce the level of optimism bias. The eﬀect was strongest when
 
-just 8 percentage points dropped the optimism bias in their stock price
+the pressure was highest—that is, when the analyst’s brokerage had a
 
-targets by up to 12%. In an industry where even small forecasting errors
-
-can translate into billions of dollars misallocated, that reduction in
-
-bias is anything but trivial. Teams with higher female representation
-
-were far more realistic in their assessments—that is, much less likely
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+big stake in the company being evaluated (for example, an investment-

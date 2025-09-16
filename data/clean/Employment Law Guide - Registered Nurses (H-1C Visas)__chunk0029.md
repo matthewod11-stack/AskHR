@@ -1,11 +1,27 @@
-# Department of Labor."
+---
+source_path: Employment Law Guide - Registered Nurses (H-1C Visas).md
+pages: n/a-n/a
+chunk_id: 20adce012b3e6d635bfeb00a4c7e3aa080f3d0ed
+title: Employment Law Guide - Registered Nurses (H-1C Visas)
+---
+# others.
 
-Within 30 days of the date of the ﬁling of the Attestation, a copy must be provided to all registered nurses employed at the facility
+There are speciﬁc notice and posting requirements relating to the Attestations and petitions.
 
-either by individual e-mail, or by posting and delivering the nurse a hard copy.
+Notice of the ﬁling of the Attestation Form ETA 9081(https://www.dol.gov/agencies/eta/foreign-laborpdf/eta9081.pdf) must be provided
 
-The facility must maintain a separate ﬁle available to any interested parties within 72 hours upon written or oral request containing a copy of various documents, including the attestation, the prevailing wage determination, description of the facility's pay system
+by the facility to the bargaining representative of the registered nurses at the facility immediately upon ﬁling with the Department of
 
-(or copy of the pay schedule), and copies of all notices required by the regulations.
+Labor. Notice of the ﬁling of the petition must also be provided by the facility to the bargaining representative for the nurses on the date of such transmission to the Department of Homeland Security. If there is no bargaining representative, a written notice must
 
-The facility must maintain its payroll records for at least three years, and make the records available if there is an enforcement
+be posted at two or more conspicuous locations at the facility. In the alternative, electronic notice may be given by whatever
+
+means the employer normally communicates with its employees (e.g., e-mail or home webpage). The notice may be either a copy
+
+of the Attestation or petition, or a document stating that the Attestation or petition has been ﬁled and is available for review at the
+
+facility. The petition notice must remain posted for 10 days. The Attestation notice must either be posted for the duration of the validity period or sent to the individual e-mail addresses of each nurse.
+
+The notice must include the following statement: "Complaints alleging misrepresentation of material facts in the Attestation or
+
+failure to comply with the terms of the Attestation may be ﬁled with any oﬃce of the Wage and Hour Division of the U.S.

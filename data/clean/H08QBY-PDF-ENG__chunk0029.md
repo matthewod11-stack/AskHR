@@ -1,5 +1,9 @@
-## capabilities, you or the owner of the AI model or agent?
+---
+source_path: H08QBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b29fd94526c9f9a1058be80a1058a50d271fb244
+title: H08QBY-PDF-ENG
+---
+# strategy:
 
-- Are new legal frameworks needed, including employment-like
-
-contracts for AI agents, and who bears liability if the AI makes a
+- When AI is trained on your proprietary data, who owns the resulting

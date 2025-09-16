@@ -1,3 +1,9 @@
-# pp. 211–74. Lincoln: Univ. Neb. Press
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 96bbd490f1d74c32cbaeac0793e9fac47c592f7a
+title: arop1noe_245_275
+---
+## the role of conscientiousness. J. Vocat. Behav. 24:555–64
 
-Barney JB. 1991. Firm resources and sustained competitive advantage. J. Manag. 17:99–120 Barney JB, Felin T. 2013. What are microfoundations? Acad. Manag. Perspect. 27:138–55 Barney JB, Wright PM. 1998. On becoming a strategic partner: the role of human resources in gaining
+Bandura A. 1962. Social learning through imitation. In Nebraska Symposium on Motivation, ed. MR Jones,

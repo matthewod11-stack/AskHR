@@ -1,7 +1,35 @@
-# employer.
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b456a11aac607420fa6674a496c375bada368b3e
+title: R2304H-PDF-ENG
+---
+## employer, a global ﬁrm with about 3,000 employees in ﬁnancial
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+services. We provided information on the company to 200 respondents
 
-13
+(who were diﬀerent from those in our previous experiments). With half
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of them, we mentioned that the ﬁrm had employees with a disability,
+
+but with the other half we did not.
+
+The results revealed that if a considerable proportion of employees at
+
+the company had a disability, job seekers liked the company much
+
+more, were substantially more interested in working for it, and thought
+
+they would simply be happier there. They even indicated that they
+
+would be willing to forgo a higher salary from another ﬁrm to join
+
+the company. That corroborates prior ﬁndings that having a positive
+
+impact on society is increasingly critical in the labor market. Recent
+
+surveys—by Gallup and Deloitte, for instance—consistently indicate
+
+that, particularly for Millennials, whether a company behaves in a
+
+socially responsible manner is an important criterion in choosing an

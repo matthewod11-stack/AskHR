@@ -1,27 +1,27 @@
-## HBR / Magazine Article / Precedents Thinking
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 66695ef9685c5ae2dc81b411775e5c66eaf0a0ec
+title: R2502D-PDF-ENG
+---
+## a productive search for precedents, particularly out-of-domain ones.
 
-skeptical consumers to ride in an autonomous vehicle when they were
+First give the LLM context and background on the challenge you are
 
-worried about safety. The executives asked Microsoft Copilot, Who has
+trying to solve (the more detail, the better). Then enter questions
 
-successfully persuaded consumers to adopt a new technology that was
+to guide the LLM’s search for precedents, at least two or three for
 
-perceived as potentially unsafe? Electric vehicles were included in its
+each element of your problem. For example, in a recent workshop on
 
-response, which was unhelpful. So they modiﬁed the prompt to add
+precedents thinking we challenged a group of executives to evaluate
 
-Please provide additional examples from outside the auto industry. That
+how autonomous vehicles will change business models in the auto
 
-led Copilot to name microwave ovens, mobile payments, and vaccines.
+industry. One of the elements of this challenge was how to persuade
 
-Another modiﬁcation—Who has successfully persuaded consumers to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-engage in new ways of doing things that were previously perceived as
+11
 
-unsafe?—led to telemedicine.
-
-Foster combinatory play. In our work with both startup and
-
-legacy businesses, combinatory play has resulted in innovations
-
-that might never have happened otherwise. Indeed, the ﬁrst two
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

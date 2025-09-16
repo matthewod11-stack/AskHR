@@ -1,17 +1,15 @@
-# of employee data.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 16c0fc0038629497c6a2d86fa6962617a0d38e6e
+title: i
+---
+## characteristic, skills and other qualification. In
 
-There are six major categories of data for workforce planning:
+This predictive people analytics may provide valuable insights into workforce planning since
 
-- Talent data
+the organization achieves the effectiveness of analytics, which demands on the quality and
 
-- Market data
+accuracy of the data being analyzed. Ethical considerations and data privacy should also be
 
-- Business data
-
-- Economic and industry data
-
-- Labor statistics data
-
-- University and graduation data.
-
-The turnover analysis, according to Isson et al. (2016, page 110) should address the causal
+prioritized when implementing predictive people analytics to ensure fair and responsible use

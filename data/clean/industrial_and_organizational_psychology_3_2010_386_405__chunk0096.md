@@ -1,11 +1,25 @@
-# makedecisions.Cambridge, MA: MIT Press.
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: a35d217fcdacce08492b7c3b45de5c1637f49310
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# 404
 
-Klimoski, R., & Mohammed, S. (1994). Team mental model: Construct or metaphor? JournalofManage- ment, 20, 403–437.
+Ilgen, D. R. (1986). Laboratory research: A question of when, not if. In E. A. Locke (Ed.), Generaliz- ingfromlaboratorytoﬁeldsettings(pp. 257–267). Lexington, MA: Lexington Books.
 
-Ku, G. (2008). Learning to de-escalate: The effects of regret in escalation of commitment. Organiza- tional Behavior and Human Decision Processes, 105, 221–232.
+Ilgen, D. R., Hollenbeck, J. R., Johnson, M., & Jundt, D. (2005). Teams in organizations: From input- process-output models to IMOI models. Annual ReviewofPsychology, 56, 517–543.
 
-Kuhl, J., & Beckmann, J. (1994). Volitionandperson- ality:Actionversusstateorientation. Seattle, WA: Hogrefe & Huber.
+Ilgen, D. R., Major, D. A., Hollenbeck, J. R., & Sego, D. J. (1995). Raising an individual decision making model to the team level: A new research model and paradigm. In R. Guzzo & E. Salas (Eds.), Team effectivenessanddecisionmakinginorganizations (pp. 113–148). SIOP Frontier Series. San Francisco: Jossey-Bass.
 
-Kuncel, N. R. (2008). Some new (and old) suggestions for improving personnel selection. Industrial and OrganizationalPsychology, 1, 343–346.
+Judge T. A., & Bretz R. D. (1992). Effects of work val- ues on job choice decisions. Journal of Applied Psychology, 77, 261–271.
 
-Larrick, R. P. (2004). Debiasing. In D. J. Koehler & N. Harvey (Eds.), Blackwell handbook of judg- mentanddecisionmaking(pp. 316–338). Oxford: Blackwell.
+Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47, 263–291.
+
+Kahneman, D., & Tversky, A. (1996). On the reality of cognitive illusions. PsychologicalReview, 103, 582–591.
+
+Karren, R. J., & Barringer, M. W. (2002). A review and analysis of the policy-capturing methodology in organizational research: Guidelines for research and practice. OrganizationalResearchMethods, 5, 337–361.
+
+Kellermanns, F. W., Floyd, S. W., Pearson, A. W., & Spencer, B. (2008). The contingent effect of con- structive confrontation on the relationship between shared mental models and decision quality.Journal ofOrganizationalBehavior, 29, 119–137.
+
+Klein, G. A. (1998). Sources of power: How people

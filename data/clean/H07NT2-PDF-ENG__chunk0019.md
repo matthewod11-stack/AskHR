@@ -1,11 +1,17 @@
-## companies that typically under-select applicants from these groups for
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 548a87ac406462dc6d7073ecba52f0f4850eaeb4
+title: H07NT2-PDF-ENG
+---
+## HBR / Digital Article / When Blind Hiring Advances DEI — and When It Doesn’t
 
-interviews. This makes sense intuitively — blind hiring will only help
+themselves three questions to understand whether a blind hiring policy
 
-if there is bias to eliminate. Thus, if decision-makers are operating in
+is right for them.
 
-organizations that are failing to diversify pools of new hires overall
+Question 1: Does my organization systematically under-select applicants from traditionally disadvantaged groups for interviews?
 
-but are succeeding at diversifying pools of interviewees, adoption of a
+Research suggests that blind hiring only boosts interview rates
 
-blind hiring policy to govern the initial screening stage will not help diversity hiring eﬀorts. Instead, they should focus on solutions that
+for members of traditionally disadvantaged groups when used by

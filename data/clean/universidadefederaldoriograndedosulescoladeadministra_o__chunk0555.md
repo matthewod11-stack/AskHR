@@ -1,5 +1,17 @@
-# apresentado na figura 34.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 5ba9f2199ba1341b8ca317918a3bdf80c21c2e34
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Sendo 1 = Muito insatisfeito e 5 = Muito satisfeito
 
-Figura 34: Respostas à pergunta "Quão satisfeito você se considera a respeito da pesquisa
+Fonte: respostas do questionário aplicado aos funcionários
 
-de eNPS aplicada na companhia considerando os seguintes aspectos: ações tomadas a
+74
+
+Já a satisfação deste grupo de funcionários com as ações tomadas a partir
+
+dos resultados é consideravelmente baixa. 66,7% dos respondentes estão
+
+insatisfeitos (1 e 2) ou têm opinião neutra (3) quanto a esse aspecto, conforme

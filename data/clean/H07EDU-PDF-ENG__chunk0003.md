@@ -1,1 +1,11 @@
-## HBR / Digital Article / What Companies Still Get Wrong About Layoffs
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e34fcd7a2c7a30657b3502b550501ee7a79aeab2
+title: H07EDU-PDF-ENG
+---
+## What Companies Still Get Wrong About Layoffs
+
+Many cling to the idea that reducing staff is the fastest, easiest way to cut costs. But there are smarter, more humane approaches. by Sandra J. Sucher and Marilyn Morgan Westner
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

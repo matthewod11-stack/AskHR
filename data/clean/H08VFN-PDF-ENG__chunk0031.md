@@ -1,23 +1,37 @@
-# in person.
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8dd1a38e59431944b16467440ccb35fd25721b88
+title: H08VFN-PDF-ENG
+---
+# outside inﬂuence.
 
-When you encounter challenges in your own life, ask yourself: What
+Solution 1: Make a “hasty plan.” In combat, Special Operators exit fear
 
-would that leader do? This process shifts your brain’s attention from its
+by making a hasty plan, which is the quickest ﬁrst step they can take
 
-personal stress onto an outside possibility, encouraging mental motion.
+toward a target. That ﬁrst step gets the brain’s planning mechanisms
 
-In VUCA, if you can’t imagine what your chosen leader would do, call on
+moving, gathering impetus to meet the pace of events.
 
-a nearby colleague to give you advice. Even though the advice is theirs,
+You can practice this in a business setting by using a quiet moment
 
-the choice of whom to call is yours, so this technique is a quick way
+to write down a concrete near-term goal, like communicating better to
 
-for you to get your planning motor going. Remember: You don’t have
+your team, or reaching out to new clients. The next time you hit VUCA
 
-to take the person’s advice—your purpose in soliciting it is to kick your
+at work, ask yourself: Given this unexpected situation, what simple
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+action can I still take to advance my goal? Take that action immediately.
 
-6
+Once you have your brain engaged in active planning, shift focus onto
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the situation itself, engaging leadership skills such as imagination and
+
+strategic vision (discussed later in this article).
+
+Solution 2: Choose your own advisor. Start by identifying a leader
+
+you respect and research how they handled a challenging leadership
+
+situation. For example, you could read their memoirs or interview them

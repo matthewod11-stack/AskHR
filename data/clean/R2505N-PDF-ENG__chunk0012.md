@@ -1,23 +1,17 @@
-# lower-level tasks.
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c63ca56d2631937ec888437c7caae182babf3617
+title: R2505N-PDF-ENG
+---
+## HBR / Magazine Article / Why Aren’t I Better at Delegating?
 
-Recently, we surveyed this group to ﬁnd out what was tripping them up.
+through. Consider, for example, the thousands of managers who have
 
-From their stories, we realized that many needed a refresher on which
+taken my leadership development programs at London Business School
 
-tasks to retain and which to give to others. A how-to on that is outlined
+and the MIT Sloan School of Management. They leave these programs
 
-below. But we also identiﬁed four challenges that stop even those who
+committed to delegating more, but when my team and I follow up with
 
-know how to delegate from doing it successfully: an addiction to the
-
-dopamine hit of easy productivity, a disinclination to reject requests
-
-for help, a desire to meet their own bosses’ or clients’ unmanaged
-
-expectations, and a misunderstanding of what “work” should mean for
-
-a manager. Drawing on research and my own two decades of experience
-
-advising senior leaders, I’ve developed concrete recommendations for
-
-overcoming each challenge.
+them six months later, about a third admit to still being bogged down in

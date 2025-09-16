@@ -1,5 +1,13 @@
-## however, their urgency fades, and in retrospect the energy a leader
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 069fa7a054fb38f288b48211c576927a778ef800
+title: S24012-PDF-ENG
+---
+## HBR / Spotlight Article / Leaders Must React
 
-puts into dealing with them yields little return. Worse, in some such
+people in but are ultimately deceptive and destructive—forces that
 
-situations, a leader’s response is like oxygen on a ﬁre and turns a small
+must be resisted. These siren song events appear signiﬁcant at face
+
+value—and often prompt CEOs to clear their calendars. Over time,

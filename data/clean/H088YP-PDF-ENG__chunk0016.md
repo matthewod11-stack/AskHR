@@ -1,37 +1,31 @@
-# personalized support.
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5a224502b077e7e460de5a433ad9ea750ae2e9b
+title: H088YP-PDF-ENG
+---
+## HBR / Digital Article / How to Make Job Interviews More Accessible
 
-“If you’re inviting people to a physical site, meet them at the door and
+she says, noting research that suggests disclosing a disability at work
 
-guide them to the interview,” she says. “If it’s a virtual interview, don’t
+is often a fraught experience. Praslova champions the platinum rule —
 
-assume they know how to use Zoom. Even when things feel obvious to
+an evolved version of the golden rule: “Treat others as they want to be
 
-you, try to put yourself in the candidate’s shoes.”
+treated,” she says. “It’s not what you want, it’s what the other person
 
-Praslova also recommends providing all candidates with interview
+wants.”
 
-questions in advance. Not only does this allow them time to prepare
+Build in ﬂexibility and humanity. In addition to oﬀering speciﬁc
 
-thoughtful responses, it also removes some of the psychological
+accommodations, Praslova suggests building in ﬂexibility, convenience,
 
-stress associated with interviews. Otherwise, she says, you may
+and humanity into your interviews. “If you create environments that
 
-unintentionally place a higher value on their conﬁdence, rather than
+are good for candidates, they’ll be good for everyone,” she says. For
 
-their skills and abilities. “When you’re measuring people’s quickness on
+example, she recommends conducting interviews in quiet, private
 
-their feet, sometimes what you’re getting is their overconﬁdence.”
+spaces to reduce distractions and sensory overload; limiting the number
 
-Use structured interviews. While open-ended, more casual interviews
-
-have their appeal, research shows that structured interviews — which
-
-involve a set number of predetermined questions — are less biased and
-
-tend to oﬀer a more accurate assessment of a candidate’s suitability for
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of interviews a candidate must attend in one day; and providing

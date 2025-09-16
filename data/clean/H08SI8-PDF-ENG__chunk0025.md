@@ -1,13 +1,9 @@
-## transformation. For Intuit, the ﬁnancial software company, this problem
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7334a5d334bb0b5a27d14180ccd75f18ac9de0b
+title: H08SI8-PDF-ENG
+---
+# Intuit
 
-manifests through the shifting baseline of customer expectations.
-
-“When a product truly solves a customer problem, users very quickly stop noticing it at all,” writes Ashok Srivastava, Intuit’s chief data oﬃcer.
-
-“Today’s breakthrough is tomorrow’s baseline.” And AI has accelerated
-
-this cycle. To keep up, transformation needs to be a continuous process.
-
-Intuit has tried to develop a culture of continuous transformation by
-
-adopting three guiding principles and embedding them into the regular
+Digital native companies aren’t immune to the challenge of digital

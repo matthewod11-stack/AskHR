@@ -1,3 +1,9 @@
-## Non-Transitive Choice?" Economic Journal 99(395): 140-151.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 31df20d86dfcd555d02d2c52c1944ecdfd811273
+title: behavioral_economics_1
+---
+# Interpersonal Contexts." Journal of Personality and Social Psychology 57(3): 426-441.
 
-Lucas, R. E., Jr. (1986). "Adaptive Behavior and Economic Theory." Journal of Business 59(4, Part 2: The
+Loomes, G., C. Starmer and R. Sugden (1989). "Preference Reversal: Information-Processing Effect or Rational

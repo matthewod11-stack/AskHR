@@ -1,19 +1,13 @@
-# bottom line.
+---
+source_path: H08LN0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 946b8e45bfad81e9aacafa1deead3fbb5f290665
+title: H08LN0-PDF-ENG
+---
+# reputation and ﬁnancial stability.
 
-While ensuring fair treatment of external stakeholders is critical,
+Relatedly, CEOs and top executives need to be cognizant of imbalances
 
-striking a balance between stakeholder priorities is equally important.
+in treatment of external stakeholders versus internal stakeholders, as it
 
-Treating employees poorly while focusing resources on external
-
-stakeholders creates a harmful imbalance, eroding employee loyalty.
-
-As labor-market mobility also impacts the likelihood of employee
-
-whistleblowing, executives also need to pay extra attention when
-
-unemployment rate becomes lower, for instance. Conversely, investing
-
-in fair compensation and equitable treatment for employees can create
-
-a virtuous cycle: Engaged and loyal employees are more likely to
+is the employees as a whole who contribute the most to the company’s

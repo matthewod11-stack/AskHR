@@ -1,21 +1,25 @@
-# energy levels?”
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bfc92d1247b01b6ddf7f9b7c62f30f74b2a5ef0
+title: H087G0-PDF-ENG
+---
+# and advancement opportunities.
 
-- 2. What are the career risks? Ask, “What’s the worst that could happen
+How can you determine whether it makes sense to disclose your
 
-if I face ableism, and how does it compare to the potential risks of not
+condition at work? Here are the key steps.
 
-advocating for my needs?”
+Clarify your priorities. Disclosure involves many uncertainties since you
 
-- 3. What are your essential needs? Ask, “What’s core to my survival and
+can’t control others’ reactions and biases. Rather than attempting to
 
-to maintaining a basic quality of life?”
+predict how people will feel, tie your decision-making to your personal
 
-Once you’ve identiﬁed your key needs, look for alternative ways to meet
+guiding principles. To start, ﬁgure out your nonnegotiable needs for
 
-them in case your work situation does not improve or your disclosure
+your health and well-being. A few questions can help:
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- 1. What are the health risks? Ask yourself, “Is continuing to work
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+without necessary accommodations risking my health, safety, or

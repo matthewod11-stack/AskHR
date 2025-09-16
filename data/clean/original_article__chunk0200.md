@@ -1,11 +1,17 @@
-# (2012) The Future
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: bdfb7887ff7408b3558ea0f6bbdc2e7b78d94e67
+title: original_article
+---
+# Charas
 
-Mcgrath, J.E., Arrow, H. and Berdahl, J.L. (2000) The study of groups: Past, present, and future. Personality and Social Psychology Review 4(1): 95–105.
+interaction: A cross-cultural comparison of US and Spanish MBA teams. Cross Cultural Journal 16(1): Management: An International 5–27.
 
-Millstein, I.M. and Macavoy, P.W. (1998) The active board of directors and performance of the large publicly traded corporation. Columbia Law Review 98(5): 1283–1322.
+Preacher, K.J. and Hayes, A.F. (2004) SPSS and SAS procedures for estimating indirect effects in simple mediation models. Behavior Research Methods 36(4): 717–731.
 
-Minichilli, A., Zattoni, A., Nielsen, S. and Huse, M. (2012) Board task performance: An explora- tion of micro- and macro-level determinants of board effectiveness. Journal of Organizational Behavior 33(2): 193–215.
+Lorsch,
 
-Muth, M. and Donaldson, L. (1998) Stewardship theory and board structure: A contingency approach. Corporate Governance: An Interna- tional Review 6(1): 5–28.
+of Boards: Meeting the Governance Challenges of the 21st Century. Boston, MA: Harvard Business Press. Madden, T.J., Ellen, P.S. and Ajzen, I. (1992) A comparison of the theory of planned behavior and the theory of reasoned action. Personality and Social Psychology Bulletin 18(1): 3.
 
-Pye, A. and Pettigrew, A. (2005) Studying board context, process and dynamics: Some chal- lenges for the future. British Journal of Manage- ment 16: S27–S38.
+J.W.

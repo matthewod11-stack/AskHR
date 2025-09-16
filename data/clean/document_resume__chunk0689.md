@@ -1,17 +1,23 @@
-# Minimizing Rater Errors
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4b40ec1b3bc57f55051d07e3be7c67ded6c8d690
+title: document_resume
+---
+# Performance Appraisal
 
-The motivational effect of participation in the development of performance rating scales has been documented in the research literature.2-c:6 Raters are typically proud of the rating scales they develop through their own efforts and are motivated to use them effectively.
+one will be more or less appropriate depending on the purpose of the assess- ment. For example, a results approach might be more suitable as a basis for awarding a bonus. A beha% ior emphasis would be better when assessments are to be used to determine a manager's training needs. A person or trait orienta- tion makes sense when the assessment is to be used as input to making a pro- In the last case, we need to predict a person's likely future motion decision. success, and knowing his or her personal traits or qualities helps us to do this.1')
 
-Rater participation in scale construction can also have a second major benefit, particularly when Patricia Smith and Lorne Kendall's "retranslation technique"--the process used to develop Bella\ Anchored Rating Scales (BARS)--is employed. William Sauser notes:
+The message of this section is that the format and content of the assessment device to be implemented should certainly not be determined arbmanly if rater errors in obser- vation and appraisal are to be avoided. Administrators should consider carefully the organizational context, the prevailing managerial philosophy, ind the purpose for carrying out the appraisal program before any decisions about format or content are made.
 
-When employees work together to est:.iish a standardized set of performance levels and dimensions to ev aluate, they typically reach a common understand- ing of the meaning of each dimension and anchor point. Thus, the rater participation process serves to greatly reduce the problem of each rater inter- preting the scales differently.28
+- 4. Involve the raters in creating or interpreting the rating scale.
 
-One problem with Smith and Kendall's retranslation process is that it
+Douglas McGregor argues that supervisors are very reluctant to "play God" in appraising employees' performance, and implies that they may intentionally distort ratings as a result of this reluctanee.2n Some of the reasons for managers' resistance to performance appraisal cited by McGregor include. ( I ) a normal dislike of criticizing a subordinate (and perhaps having to argue about it), (2) lack of interview= skills, (3) dislike of new procedures v,ith accompanying changes in ways of operating, and (4) mistrust of the validity of the appraisal instrument.21
 
-is very cumbersome and time-consuming. Fortunately, i shortcut method for constructing BARS has been devised .2`)'° The psychometric quality of the scales which have been produced using this shortcut technique is similar to that of scales developed with the unabridged method.
+Carl Kujaw ski and Drew Young suggest, "Too often this resistance is justified. If an appraisal program is developed independently by a staff unit and imposed from above, it has a good chance for failure. Flowever,, it doesn't hive to be this way. "22
 
-Participation in scale construction almost always leads to an improvement in rater motivation. However, the examples described above seem to indicate that the addi- tional benefit--creating a common understanding of the meaning of scale dimensions and anchor points accrues only when such participation is in the form of involvement in the "retranslation process." Flow can this additional benefit be obtained when work- ing with scales which are not of the BARS format?
+Kujaw ski and Young point out Peter Drueker's major suggestion for overcoming resistance to change. "Workers must be pros ided with opportunities for participation that will give them a managenal v iew."21 They then translate Dnicker's des ice into a pragmatic suggestion for administrators who sire trying to implement a workable appraisal progi am:
 
-This question has been answered by the dt % elopment of a type of training program, called "frame-of reference training," which involves raters not in the development of the scale, but rather in the interpretation of the scale.'1 An example of the practical application of frame-of-reference training is described below. In this particular exam- ple, the standardized instrument in use was a trait rating scale:
+Ore approach is to have the personnel department work with a cross section of management in developing the appraisal program. Once the outline of the program has been established, it can be circulated to a larger group of managers for review and comment, and the program modified as needed.
 
-One possible modification with which I hav e been experimenting in my rater training workshops may prove to be % aluable. Workshop participants are asked to develop, in small task groups, meaningful definitions of each dimension of the standardized scale with which they ine working. Each task group also produces beim\ ioral anchors for each level of a pamcular standardized scale. After these definitions and anchors have been dev iced, the workshop convenes in full session, and each task pouf) presents its products. All workshops participants then seek to agree upon a common set of performance dimensions and standards.32
+Depending on the particular needs of the organization and the results desired, the number of levels of management involved in the design of the program will vary. The critical faetoi is that the users of the program be involved. By being so, they' will come to "own" the program, tnd therefore will be more willing to support it because it is theirs.24

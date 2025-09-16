@@ -1,3 +1,15 @@
-# Conducting Classroom Training
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3092a02ef915c36f415f3617cffe60475df430b2
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Choosing the Best Training Method
 
-Classroom instruction—commonly called a seminar, lecture, or workshop—is still the most common training method (ASTD, ). With this approach, either a member of the training staff or an outside consultant provides training, often in the form of a lecture, to a few or many employees at one time.
+Once goals and objectives have been established, the next step in developing a training program is to choose the training method that will best accomplish those goals and objectives. For example, if the goal is for employees to learn an
+
+designing and evaluating training systems
+
+297
+
+actual skill, some type of hands-on training will be necessary (e.g., role plays, simulations). Because most training programs have multiple goals and objectives, the best training programs often use a variety of methods so that employees will understand the reasons for doing a certain task, how it should be done, and in what situations it should be done (Lawson, ). In the following pages, several training methods will be discussed.

@@ -1,11 +1,17 @@
-## card fraud, algorithmic market-making, jet-engine prognostics.
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2f495c60b6865b159364fdcdea80f0da25b46ca6
+title: H08SHM-PDF-ENG
+---
+## pricey seed only on their best acres—where the yield jump easily
 
-But AI now slashes the cost of precise measurement, making
+covered the extra cost and learning curve of using a new product.
 
-continuous, ﬁne-grained sensing the default. Lightweight models run
+As hybrids improved and word spread, even thin-margin ﬁelds soon
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+cleared the beneﬁt-cost bar. With AI, the investment into measuring
 
-5
+things follows the same payoﬀ curve. When turning reality into data is
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+expensive, companies tend to only invest in the headline cases—credit-

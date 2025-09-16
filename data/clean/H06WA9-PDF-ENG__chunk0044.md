@@ -1,23 +1,23 @@
-## HBR / The Big Idea / Harnessing the Power of Age Diversity
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e35327611d6082744a87108d4c06a54ce8263f23
+title: H06WA9-PDF-ENG
+---
+# ask for contributions from the group.
 
-rudely — not paying attention to their caregiving team. When prompted
+For example, recently one of us (Megan) conducted a workshop with a
 
-to think of alternative explanations, she looked confused, unable to
+group of health care professionals. A nursing manager who identiﬁed
 
-come up with anything. But her colleagues — mostly younger doctors
+herself as a Baby Boomer described being annoyed with young patients
 
-and nurses — had plenty of ideas: The young patients might be taking
+who used their mobile phones in the middle of a conversation with
 
-notes on the conversation or looking up the pharmacy’s hours to make
+a nurse or a doctor. Her interpretation was that the patients were —
 
-sure they could get their prescriptions before closing. As her teammates
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-oﬀered these insights, the nursing manager’s expression changed. She
+9
 
-was able to see the behavior in a diﬀerent light and better appreciate
-
-the patients’ perspectives. At the same time, her younger colleagues
-
-realized how behavior that felt natural to them — like checking a phone
-
-mid-conversation — might oﬀend older peers.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

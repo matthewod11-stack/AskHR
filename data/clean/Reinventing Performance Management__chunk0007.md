@@ -1,5 +1,11 @@
-## FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+---
+source_path: Reinventing Performance Management.md
+pages: n/a-n/a
+chunk_id: d8dc39a53dff7554b17377cc6ba670b934f6a1ac
+title: Reinventing Performance Management
+---
+# by Marcus Buckingham and Ashley Goodall
 
-Marcus Buckingham provides performance management tools and training to organizations. He is the author of several best-selling books and the forthcoming StandOut 2.0: Assess Your Strengths, Find Your Edge, Win at Work (Harvard Business Review Press). Ashley Goodall is the director of leader development at Deloitte Services LP, based in New York.
+2  Harvard Business Review April 2015
 
-enting
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

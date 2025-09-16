@@ -1,17 +1,17 @@
-# business strategy and performance.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 018165b3f93da17a4f0012b077095d6ff013be31
+title: i
+---
+# outcomes.
 
-Kapoor and Sherif (2012) define HRA as the process that involves collecting, transforming,
+Dooren (2012) refers to PA as a methodology that is achieved through the application of
 
-and managing key HR-related data and documents. This information is then analyzed utilizing
+statistical methods and experimental approaches, using metrics such as efficiency,
 
-business analytics models, and the outcomes of the analysis are communicated to decision-
+effectiveness, and impact…to comprehend and assess the cause-and-effect connection between
 
-makers, enabling them to make informed and intelligent decisions.
+HR practices and organizational performance results. Results can be customer satisfaction,
 
-HRA is believed to be a methodology for developing innovative insights (Smeyers & Delmotte,
-
-2013). Johnson-Murray, Rachael, et al. (2018) refer to PA as a <powerful tool for elevating
-
-the credibility of the HR function=. Heuvel and Bondarouk (2017) argue that HRA is the
-
-17
+sales, or profit. It establishes credible foundations for human capital decisions, influencing

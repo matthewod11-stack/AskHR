@@ -1,43 +1,23 @@
-# support in any state.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: ef58bc75fecba88dbe9b82a55d5f5915e2fab5eb
+title: california_state_university_northridge_1
+---
+# rl-A- •• tenrunateu au.er jUrf serv1ce.
 
-In chapter five, the attention will shift to employee resources when work related
+4
 
-issues are the center of employee concern. There are three businesses that will analyze
+Another approach that has been taken is formulation of the Model Employment
 
-how employment problems are to be addressed. In addition, the Equal Employment
+Termination Act (META). META has been designed to assist employees, mainly those
 
-Opportunity Commission and the court would be examined as an option to seek relief for
+who are at-will employees. It is also designed to limit cases that go to court and seek
 
-work related issnes. Each bnsiness to he analyzec1 has a methoc1 that is s111ti:1hle for thP.ir
+compensatory and punitive damages. Also, META seeks to utilize arbitration as an option
 
-employees to solve problems.
+to reduce wrongful terminate cases. Unfortunately, the research has shown META has
 
-The University Student Union is Grievance Procedures, as stated, are designed to
+not been enacted in any state legislation. The theory behind META to address issues
 
-solve work related issues when an employee feels they were treated unfairly. The
-
-Grievance Procedures are spelled out in the employee handbook, which is given to each
-
-employee at the start of their employment. This procedure has a series of sequential steps
-
-starting from one, and ending with step four. Ifno resolution can be achieved at the first
-
-step, then the employee can proceed until all steps have been exhausted.
-
-Host 1'v1ardott Services Corporation employees who are not at the management
-
-level, are union employees. Employees who belong to the union have union
-
-5
-
-representatives that protect their rights under its contact. The union contract utilizes a
-
-progressive discipline approach and spells out how the employee should be treated. An
-
-employee only has to raise any concerns he or she has with the designated union
-
-representative. At this point the union representative will then work with management to
-
-resolve any work related issues. An option spelled out in the union contract, is the ability
-
-to attend arbitration, which is covered by employee's dues. Arbitration is the final step for
+relating to at-will employee and wrongful discharge is good, but lacks the necessary

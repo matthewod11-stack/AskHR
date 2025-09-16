@@ -1,7 +1,13 @@
-# HBR / Digital Article / Avoid These Communication Breakdowns When Launching Stra…
+---
+source_path: H08TXR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27dcd8186de0fbf5243d5b69e5d74b242abefded
+title: H08TXR-PDF-ENG
+---
+# to organizational performance.
 
-Consider what happens to your best strategic ideas. As a senior leader,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-you’ve developed a comprehensive mental model of a transformative
+1
 
-initiative. But when you begin documenting it, you inadvertently
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

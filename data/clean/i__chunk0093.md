@@ -1,3 +1,9 @@
-# 2.3.2 History of People Analytics
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 54a6f3cef305fbdd484da76659996b928e29cbd7
+title: i
+---
+# systematic identification and quantification of the people drivers of business outcomes, with
 
-The human capital metrics were put into use in the early twentieth century by mechanical
+the purpose of making better decisions.

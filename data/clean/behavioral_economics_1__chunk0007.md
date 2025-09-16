@@ -1,23 +1,13 @@
-## naturally-occurring data (as well as experimental data).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 32fccf870f246e1dd19c139bb0605797920408d8
+title: behavioral_economics_1
+---
+# thought of as efficient and respectful of comparative advantage across disciplines.
 
-1
+Other than trying to “get the psychology right” in choosing assumptions, the empirically-driven
 
-The behavioral economics approach I describe in this essay is a clear departure from the “as if”
+approach to behavioral economics shares the methodological emphases of other kinds of analysis: The goal is to
 
-approach endorsed by Milton Friedman. His “F-twist” argument combines two criteria:
-
-- 1. Theories should be judged by the accuracy of their predictions;
-
-- 2. Theories should not be judged by the accuracy of their assumptions.
-
-The empirically-driven approach to behavioral economics agrees with criterion (1) and rejects criterion
-
-(2). In fact, criterion 2 is rejected because of the primacy of criterion 1, based on the belief that replacing
-
-unrealistic assumptions with more psychologically realistic ones should lead to better predictions. This
-
-approach has already had some success: This paper reports many examples of how behavioral theories
-
-grounded in more reasonable assumptions can account for facts about market outcomes which are anomalies
-
-under rational theories. More empirical examples are emerging rapidly.
+have simple formal models and themes which apply across many domains, which make predictions about

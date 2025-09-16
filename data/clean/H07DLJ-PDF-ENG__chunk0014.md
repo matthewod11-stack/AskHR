@@ -1,15 +1,25 @@
-# and more opportunity for everybody.
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a8bb4d4f4019914ed1075c621c55a0e322f9230
+title: H07DLJ-PDF-ENG
+---
+#MeToo movement itself is not just about the actual talking about what
 
-ADI IGNATIUS:
+happened, but it’s really changing our behavior and what is acceptable
 
-So what would you say to women who are enormously capable, but feel
+in the workplace. You look at what happened 30, 40 years ago, the kind
 
-that somehow they just don’t have the right stuﬀ to be in the C-Suite, to
+of sexual harassment that was very open. And now, as we evolve, I think
 
-be CEO?
+that we are learning every single year, every decade, how we can be
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+better and more sensitive, and how we can actually call each other into
 
-6
+account about some of these things. Things that were acceptable 10, 20
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+years ago and no longer acceptable today, and that will continue over
+
+time. And so I think each of these movements, there’s two steps forward,
+
+one step back, and then we keep moving forward towards more equality

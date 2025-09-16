@@ -1,7 +1,7 @@
-# Was the Requirement Designed to Intentionally Discriminate against a Protected Class?
-
-If an employment practice does not refer directly to a member of a protected class but adversely affects a protected class, the courts will look closely at whether the practice was initiated to intentionally reduce the pool of qualified minority applicants. For example, suppose a city requires all of its employees to live within the city limits. The city believes that this is a justifiable requirement because
-
-salaries are paid by tax dollars, and town employees should contribute to that tax base. Though such a requirement is not illegal, the court might look deeper to see if the tax base was in fact the reason for the residency requirement. That is, if the city population was % White and the population of the surrounding area was % African American, the court might argue that the residency requirement was a subtle way of discriminating against minorities.
-
-Though such subtle requirements are probably no longer common in the employment sector, they have been used throughout history. For example, before the s, some states required voters to pass a “literacy test” to be eligible to vote. Though the stated purpose of the test was to ensure that voters would make intelligent and educated decisions, the real purpose was to reduce the number of minority voters.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: eea48c3d8561351fec8b05700825afd1f77d88d3
+title: industrial_organizational_psychology_an_applied_approach
+---
+# cise . in your workbook.

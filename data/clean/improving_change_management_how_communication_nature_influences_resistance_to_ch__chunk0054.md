@@ -1,13 +1,11 @@
-## through observation, semi-structured interviews and questionnaires with the main
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: b17bccc32cf39f0ea270b915a9da56c5ed6246e0
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# organizationas whole.
 
-change leaders and communication managers. Also it was collected material for
+The first stage, a qualitative one, looked for to characterize the corporate
 
-document analysis and made direct observation to check the data. Such choices were
-
-made according to proposals made by several authors (Minayo, Assis et al. 2005; Yin
-
-- 2005) about how appropriate multiple sources of evidence can be towards a more
-
-encompassing data collection process. Thus, triangulation was made possible and,
-
-consequently, the research intend to be more successful from the point of view of
+communication activities related to change in each organization, by collecting data

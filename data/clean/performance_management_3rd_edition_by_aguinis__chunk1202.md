@@ -1,3 +1,7 @@
-# E
-
-OVERALL RATING (based on Parts I and II) Relative weights of job success factors and performance goals are determined by the manager or supervisor. Higher priority items may be highlighted.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d734499eee9706007fe486bc53d0bf971daef9a4
+title: performance_management_3rd_edition_by_aguinis
+---
+# EE

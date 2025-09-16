@@ -1,5 +1,7 @@
-# by Frank Dobbin and Alexandra Kalev
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: S20031-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: c22a69c4c3fbf9ed16bdc996cf316a689d050fb5
+title: S20031-PDF-ENG (1)
+---
+# Why Sexual Harassment Programs Backﬁre

@@ -1,21 +1,9 @@
-# environmentally friendly
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cbab521916d3b8165b86896a038a414a92c136a7
+title: H08DO8-PDF-ENG
+---
+# audio facilities
 
-While Angeline was satisﬁed with the outcome, she wondered how
-
-gen AI might assist in addressing these changes and trends. She had
-
-two questions: 1) Did her team’s list reﬂect the current trends in the
-
-industry? And 2) what was the likely future for the industry, given the
-
-shortage of land and the increased interest in environmental practices?
-
-How gen AI can — and can’t — help.
-
-To help Fitzroy with the ﬁrst question, we gave a gen AI tool the
-
-list developed by Angeline’s team and asked: “Act as a strategic
-
-management consultant. Based on industry challenges, provide
-
-recommendations on what is missing from the list relevant to our
+- Growth in diﬀerent forms of cremation and burial that are more

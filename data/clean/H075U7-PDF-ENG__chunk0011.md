@@ -1,19 +1,21 @@
-## outpace all other science, technology, engineering, mathematics, and
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2f7877dc3578bcb52993f206d6cccb9ede6be37
+title: H075U7-PDF-ENG
+---
+## communicator, despite her 10 years of practice expertise. Six colleagues
 
-medicine (STEMM) ﬁelds. Although women comprise the majority of
+witnessed the heated verbal exchange, including his personal attacks.
 
-the healthcare workforce, the majority of healthcare leaders are men.
+They remained silent. The meeting ended, and the committee chair pulled
 
-The academic medicine culture in particular is historically permissive
+her aside: “Don’t take it personally. Cut him some slack. I know he didn’t
 
-of sexual harassment and bias perpetuated by men. More so, the
+mean it. He’s a good guy.”
 
-atmosphere of repercussion and retaliation makes it challenging for
+These two vignettes are composites, based on real accounts, that
 
-women to speak up. Research suggests that men do not condone sexist
+illustrate a common strategy for enabling and protecting perpetrators of
 
-behavior, but at the same time, they are reluctant to confront other
-
-men. Reasons include a fear of the wimp penalty (being seen as a wimp
-
-or weak by other men) or of violating the bro code. This implicit rule
+sexism and sexual harassment. Rates of sexual harassment in medicine

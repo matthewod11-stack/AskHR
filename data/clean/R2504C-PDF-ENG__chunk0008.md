@@ -1,51 +1,73 @@
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6585d031974a0cc90596b08f23fc9d91f4ed993
+title: R2504C-PDF-ENG
+---
 ## HBR / Magazine Article / “Speed Is a Leadership Decision”
 
-senior leaders, and we’ve already changed 375 processes. That visibility
+have to keep working on strengthening the parts of your culture that you
 
-has helped us address some of the red tape deep in the organization.
+see being stretched.
 
-What’s behind your return-to-ofﬁce policy?
+So what does that look like in practice?
 
-After the pandemic our people were largely working remotely. We brought them back to the oﬃce in May 2023, three days a week,
+It comes back to the notion of wanting to operate like the world’s
 
-and noticed that a lot of things about how we were inventing and
+largest startup. We looked at our culture and identiﬁed a few things.
 
-collaborating got better. We were in meetings together. We were
+Historically, Amazon has hired smart, ambitious, motivated people. We
 
-iterating with one another. When you’re together, that invention is
+let them make the lion’s share of what we call “two-way-door decisions”
 
-stronger. People riﬀ on top of one another’s ideas better when they’re
+—if you walk through it and you’re wrong, you can always walk back, no
 
-together. It turns out, it can be useful to interrupt each other because
+harm done. (In a one-way-door decision, if you walk through the door
 
-you get to a spot more quickly. You feel that energy. A lot of our best
+and you’re wrong, it’s really hard to walk back.) But as you get larger,
 
-inventions have come after messy, wandering meetings, when a few
+as we have, you end up logically with a lot of managers and a lot of
 
-people stayed behind and worked on a whiteboard to map out whatever
+layers of managers. There’s a pre-meeting for the pre-meeting for the
 
-it was they couldn’t ﬁgure out. When you’re remote, the meeting ends
+pre-meeting for the decision meeting. And owners who don’t feel like
 
-and you’re on to the next thing.
+they own the decision to make a recommendation because they know
 
-Are you now totally committed to in-ofﬁce work, ﬁve days a week?
+the decision will be made three levels up. We want them to own the
 
-We’ve realized the teaching and apprenticeship are much better if you
+two-way-door decisions and be able to move quickly and autonomously.
 
-can walk over to somebody after a meeting and say, “That was a hard meeting. This is a really diﬃcult topic. Next time, think about these
+It’s part of our eﬀort to increase the ratio of individual contributors to
 
-three things.” You just don’t end up doing this as much when you’re
+managers by at least 15%. We want to ﬂatten the organization in order to
 
-remote. And we realized that it’s much better for our customers and our
+move faster and to drive more ownership.
 
-business if we’re together.
+What’s your advice for companies that want to break down their own layers of complexity in order to innovate quickly and effectively?
 
-Data that we’ve published has shown that working from home can increase productivity and that the workforce by and large wants it. Do you think that data is wrong, or are you saying that there are intangibles that outweigh those ﬁndings?
+The ﬁrst step is to want to address it, which isn’t simple because you
 
-I think it’s hard to measure these things, truthfully, and our data doesn’t
+get used to operating in a certain way. The leadership team has to
 
-suggest what you’ve just described. When I look at the data, it’s hard
+decide they actually want to change things and resolve to take action.
 
-to measure. How do you measure how well you’re inventing? You don’t
+That requires getting visibility into what’s really happening. When we
 
-actually know for a few years. I spend a good amount of my own time
+announced that we wanted to ﬂatten and have fewer managers, we
+
+started a “no bureaucracy” email alias, and we encouraged anybody
+
+in the company who thought they were experiencing bureaucracy to
+
+email me. I’ve received more than 1,000 emails in six months. Not all of
+
+them are about bureaucracy—sometimes people just tell me they don’t
+
+like their manager. But I’ve read every one and shared them with other
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

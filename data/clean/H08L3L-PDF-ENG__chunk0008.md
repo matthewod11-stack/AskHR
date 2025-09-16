@@ -1,9 +1,21 @@
-# Spark Change
+---
+source_path: H08L3L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cffc62e6e7f6468334ae18a1517e5e5287cd61ea
+title: H08L3L-PDF-ENG
+---
+## HBR / Digital Article / To Jumpstart Creativity, Try These 8 Prompts
 
-Perhaps you’re worried about falling behind competitors, or customer
+more creatively? How deep and long a commitment can we make? How
 
-feedback is mediocre, or you’ve seen previous change initiatives fall ﬂat.
+much discomfort are we willing to live with during the process?”
 
-When individuals or teams are in a rut and looking for reinvention, we
+After this prep work, you should be ready to try four diﬀerent types of
 
-often recommend these two exercises.
+creativity prompts. The ﬁrst set is designed to spark change when you’re
+
+in a rut. The second, to nourish your team after a fallow period. The
+
+third, to renew and refresh on top of success. And the fourth, to test
+
+transformation if you think it might be necessary.

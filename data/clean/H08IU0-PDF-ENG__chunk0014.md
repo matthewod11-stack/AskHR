@@ -1,11 +1,37 @@
-# cycle of defensive organizing.
+---
+source_path: H08IU0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2593f3d86619ce10425a0272d60a774677cebbd
+title: H08IU0-PDF-ENG
+---
+# control.”
 
-Before launching into some breakthrough idea, reﬂect long and hard
+The ﬂurry of intensiﬁed activity surrounding change initiatives serves
 
-about what internal or external challenges you may be avoiding. And
+as a numbing agent to keep leaders from feeling the pains of real
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+trouble. I’ve seen organizations whip up innovation crazes, investing
 
-4
+tens of millions of dollars into R&D pipelines to confront hemorrhaging
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+market share, ignoring the reality that their core products are rapidly
+
+commoditizing or becoming irrelevant and consumers aren’t interested
+
+in new-fangled versions of obsolete products. But when the CMO shows
+
+up with market analytics that suggest that “improvements” to the core
+
+oﬀerings could revitalize sales and grow margins, the company is all in.
+
+For leaders, the pain of acknowledging the end of their monopolistic
+
+market share, their refusal to recognize the causes of declining sales,
+
+and the inability to admit that the kind of transformation required for
+
+them to succeed long term would take more years than shareholders
+
+would tolerate, are all too overwhelming to consider. This kind of self-
+
+deception, however, conspires to lure the organization into the vicious

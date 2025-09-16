@@ -1,13 +1,29 @@
-## HBR / Digital Article / The Unintended Consequences of Asking for Employee Input
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e77f4d8505b9fcaa98b5db90dca70a77a90d8a2b
+title: H06V9A-PDF-ENG
+---
+# valuable input in both cases.
 
-come up with and express their ideas. Rather than rewarding employees
+This is an easy trap for managers to fall into. It’s generally hard to
 
-for that eﬀort, we found that managers would often take credit
+tell how valuable an idea will be upfront, and it’s often necessary to
 
-themselves for creating an environment that they felt had enabled
+produce many “bad” ideas in order to uncover a few good ones. As such,
 
-employees to speak up. In other words, soliciting input led managers
+managers don’t often reward employees solely based on the apparent
 
-to assume (consciously or subconsciously) that their employees were
+value of the ideas they contribute, and instead focus on rewarding
 
-only speaking up because they were asked to, making them less likely to
+employees’ proactivity in coming up with and expressing ideas.
+
+The problem is, when managers actively solicit employee input, it can
+
+lead them to discount the proactivity it still takes for employees to
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

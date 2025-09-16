@@ -1,31 +1,17 @@
-## mental illness. In Psychedelic Outlaws: The Movement Revolutionizing
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d24f36cc2b6e93e42663407c89d7f6e14d948079
+title: R2405N-PDF-ENG
+---
+## HBR / Magazine Article / Will Psychedelics Propel Your Career?
 
-Modern Medicine, Kempner follows research into whether psilocybin
+Institute, Bill Linton; and the rocker Melissa Etheridge, who, following
 
-can relieve cluster headaches. The condition, known as “suicide
+the death of her son from an opioid overdose, became an advocate for
 
-headaches” because they can last for weeks or even months, is
+psychedelic therapy to treat addiction.
 
-described by one study as more painful than stab wounds, kidney
+Like Etheridge, Joanna Kempner, a sociologist, believes that
 
-stones, pancreatitis, or unmedicated labor. (Needless to say, work
-
-becomes impossible for those suﬀering from it.) Connected online and
-
-operating illegally, a network dubbed the Clusterbusters grew their
-
-own magic mushrooms, developed their own treatment protocols, and
-
-eventually drew the attention of researchers and policymakers. “The
-
-internet provided the kind of safe, unregulated space…where drug
-
-geeks could create their own repositories for the kinds of…information diﬃcult to obtain elsewhere,” Kempner writes.
-
-Two other recent releases chronicle their authors’ own use of
-
-psychedelics—and the fellow users they encountered on their journeys.
-
-After all, this is a community that values lived experience as much as it
-
-does scientiﬁc studies.
+psychedelics can help save lives, and not just in cases of addiction and

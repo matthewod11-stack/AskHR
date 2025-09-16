@@ -1,9 +1,9 @@
-# Elena Alfaro Head of Global AI Adoption
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: 3692720c54f5ab0241b65fd36813e2fc08bde6a3
+title: a_i_i_n_t_h_e
+---
+# And the wins continue to spread across Marketing, Risk Management, Operations, and beyond. All because they got AI in the hands of the people who know how to apply it in their own disciplines.
 
-Product Note: With deep research, ChatGPT can do work independently. Give it a prompt, and it can synthesize hundreds of online sources to create comprehensive, PhD-level reports. This unlocks employee productivity and gives them access to deep, detailed research on any topic in minutes. In an internal evaluation by experts across domains, deep research saved an average of 4 hours per complex task.
-
-For more detail, watch BBVA puts AI into the hands of every team.
-
-17
-
-AI in the Enterprise
+We consider our investment in ChatGPT an investment in our people. AI ampli#es our potential and helps us be more e(cid:29)cient and creative.

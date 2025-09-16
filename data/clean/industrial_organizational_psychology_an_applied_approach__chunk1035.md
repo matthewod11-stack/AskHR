@@ -1,7 +1,13 @@
-# Customer Service Experience
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d3f4ae711c7efcbac866dbc5e96376f5de5beae4
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Banking & Management Experience
 
-Customer service/cashier for Dunkin’ Donuts coffee shop in Lexington, Kentucky. Assisted customers with placing orders and was responsible for maintaining a balanced cash drawer.
+Posted receipts and made bank deposits daily for Dunkin’ Donuts coffee shop in Lexington, Kentucky. July 2008–present.
 
-Assisted customers promptly and courteously with ﬁnancial transactions at Citizen’s Fidelity Bank in Lexington, Kentucky. Received excellent performance ratings. May 2009–August 2009.
+Supervised and scheduled cashier personnel for Dunkin’ Donuts coffee shop in Lexington, Kentucky. July 2008–present.
 
-Waited on customers at EL Torito Mexican Restaurant in Lexington, Kentucky. After taking customers’ orders, served customers promptly and courteously. August 2007–May 2008.
+Bank teller for Citizen’s Fidelity Bank in Lexington, Kentucky. Maintained balanced cash drawer 99% of the time. Trained in various ﬁnancial transactions of the banking ﬁeld. May 2009–August 2009.

@@ -1,29 +1,29 @@
-# HBR / Digital Article / How to Avoid the Unexpected Consequences of Your DEI Policy
+---
+source_path: H07TPI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 980de3579fd441b2b7d5e9c6c8364c2e1085ef42
+title: H07TPI-PDF-ENG
+---
+# promotions.
 
-important to collect data on employees’ experiences at baseline (before
+Some organizations have even started piloting their DEI initiatives before rolling them out organization-wide, and such eﬀorts can
 
-rollout) to compare with their experiences after policy implementation
+improve policy quality by identifying issues before the policy has even
 
-- • •
+been oﬃcially implemented. Ericsson, a global telecommunications
 
-DEI policies remain important ways to achieve positive improvements
+company, tested a policy intervention aimed at improving women’s
 
-in equality within organizations. These three steps — which take a
+interest in internal job openings. This testing helped Ericsson identify
 
-systems-level view of inequality — are purposeful, meaningful changes that managers can enact to design eﬀective and impactful DEI policies.
+the message that seemed most likely to decrease the gender gap.
 
-Of course, the research I present here is just a starting point. More is needed — particularly that accounts for diﬀerent actors’ perspectives
+And before rolling out a ﬂexible work policy more broadly, Boston
 
-and the connections between them — to understand how DEI policies
-
-can be designed to best help employees.
-
-This article was originally published online on October 06, 2023.
-
-Vanessa M. Conzon is an assistant professor of management and organization at Boston College, Carroll School of Management (conzon@bc.edu). Her research focuses on the intersections between work, autonomy, and diversity. She received her Ph.D. from MIT Sloan School of Management.
+Consulting Group tested it with smaller groups of consultants. Here, it is
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

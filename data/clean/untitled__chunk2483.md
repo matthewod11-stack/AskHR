@@ -1,7 +1,13 @@
-# American Psychologist, 21(6), 535–539.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c9566bdd6bfd1976ee57a64479e42e0027edd231
+title: untitled
+---
+# mental health. New York: Basic Books.
 
-Kelly, J. G. (1967). Naturalistic observations and theory conﬁrma- tion: An example. Human Development, 10(3/4), 212–222.
+Kellam, S. G., Koretz, D., & Moscicki, E. K. (Eds.). (1999a). Prevention science: Part I [Special issue]. American Journal of Community Psychology, 27.
 
-Kelly, J. G. (1968). Towards an ecological conception of preventive interventions. In J. W. Carter Jr. (Ed.), Research contributions from psychology to community mental health (pp. 1–36). New York: Behavioral Publications.
+Kellam, S. G., Koretz, D., & Moscicki, E. K. (Eds.). (1999b). Prevention science: Part II [Special issue]. American Journal of Community Psychology, 27.
 
-Kelly, J. G. (1970). Antidotes for arrogance: Training for commu-
+Kelly, J. G. (1966). Ecological constraints on mental health services.

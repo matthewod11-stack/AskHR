@@ -1,17 +1,21 @@
-# business or the family.
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86bf54011fcf883934012ea140cec46fc8a3159a
+title: H079OJ-PDF-ENG
+---
+## grows, interests diverge and individual family member relationships
 
-Fake harmony can also create resentment in the family. People don’t
+with the business can change. It’s healthy and expected for individual
 
-feel like they can express their interests or opinions for fear of creating
+owners (or future owners) to have diﬀerent perspectives, and the desire
 
-conﬂict. Issues may be unspoken, but that doesn’t mean they’re gone.
+to quash those perspectives, rather than risk rocking the boat with
 
-Fake harmony also stiﬂes innovation. Families can be cornucopias
+diﬀerences of opinion, is often counterproductive.
 
-of great ideas, but when individuals don’t share ideas because they
+If your family isn’t discussing any competing ideas, you’re likely
 
-are afraid to “rock the boat,” businesses and family owners miss
+avoiding conversations about important issues. In our experience, fake
 
-opportunities to innovate.
-
-Fake harmony also delays generational transitions by limiting
+harmony can be far more damaging than ﬁreworks, because it causes families to avoid making diﬃcult, but important, decisions about the

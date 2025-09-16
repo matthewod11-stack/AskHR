@@ -1,13 +1,25 @@
-# Human resource management practices
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: b49b680adced79a5bb7fedac0bfdf2bea67e49c3
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# I
 
-23
+d e d a o l n w o D
 
-) T P (
+Research suggests that training can also be used to increase employee work engagement (Luthans et al., 2010).
 
-5 1 0 2
+As we have already noted, according to JD-R theory (Bakker and Demerouti, 2014; Demerouti et al., 2001), work engagement is most likely to develop when employees are confronted with challenging job demands in combination with high job resources. We have also noted that personal resources positively impact engagement (Xanthopoulou et al., 2009a, b) such that employees who are, for example, more self-efficacious and who find their work meaningful are better able to mobilize their own job resources and become more engaged in their work (Albrecht, 2013; Halbesleben, 2010). Importantly, the JD-R model also includes a feedback loop, representing a positive gain cycle, which describes how employees who are engaged in their work are more able to create their own resources, which then, over time, foster further engagement. In what follows, we use the JD-R model to show how HR professionals can improve employee engagement through training, learning, and development. We discuss three interventions to facilitate employee work engagement, namely:
 
-h c r a
+(1) providing the optimal mix of job demands and resources;
 
-M 9 0
+(2) optimizing personal resources through training; and
 
-0 0 : 8 0
+(3)
+
+encouraging employees to engage in job crafting.
+
+Optimizing job demands and resources HRM professionals can use the JD-R model and associated measures to assess the levels of job demands, job resources, and engagement in an organization. For example, analyses of engagement survey results can detect differences between locations, departments, and teams in terms of the job demands and resources, engagement, and its consequences. Sub-group analyses can provide clear indications of where to target interventions to foster engagement. Tailor-made interventions can then be designed, aimed at reducing salient hindrance demands, and increasing important job resources, which, in turn, may increase work engagement and job performance. These interventions may, for example, include transformational leadership training, in which leaders learn how to optimize the job demands and resources in their team through developing individual consideration and intellectual stimulation. Interventions may also take the form of survey feedback workshops in which employees and teams can generate their own ideas about how to decrease their hindrance demands, increase their challenge demands, and increase their job resources. In this context, survey results can also identify groups where certain practices have proven effective. Indeed, it is through the benefits of unique and specific best practices that competitive advantage may be realized.
+
+Optimizing personal resources through training Personal resources are positive self-evaluations that are linked to resiliency and refer to individuals’ sense of their ability to successfully control and impact upon their environment (Hobfoll et al., 2003). It has been argued and shown that such positive self- evaluations predict goal-setting, motivation, and performance (for a review, see Judge et al., 2004). Several authors have investigated the relationships between personal resources and work engagement. In their longitudinal study among highly skilled Dutch technicians, Xanthopoulou et al. (2009a) tested the predictive value of personal resources on engagement. As noted in our discussion of selection methods, the findings indicated that self-efficacy, optimism, and organizational-based self-esteem made a unique contribution to explaining variance in work engagement, over and above the

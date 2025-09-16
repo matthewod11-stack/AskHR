@@ -1,5 +1,7 @@
-## 6 Key Levers of a Successful Organizational Transformation
-
-Leaders, don’t overlook your employees’ emotional journey. by Andrew White, Michael Wheelock, Adam Canwell, and Michael Smets
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d77eb986053b0c0b5633ef53367dd10a626219b9
+title: H07MI6-PDF-ENG
+---
+# Organizational Transformation

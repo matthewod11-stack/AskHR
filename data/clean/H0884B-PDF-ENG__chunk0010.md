@@ -1,21 +1,19 @@
-## their password-protected smartphones and hand them over for the
+---
+source_path: H0884B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2629b078e67125dccb69ee66210ba7cf2a2f5e47
+title: H0884B-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways to Make a Request That Doesn’t Feel Coercive
 
-research assistant to look through in another room. In one condition,
+Share an example of how to say “no.”
 
-the researcher assistants told the participants they could refuse: “If
+In our research, we have identiﬁed another way to formulate a request
 
-you’d like to refuse, you may do so.” In another condition, they told
+so that it leads people to feel freer to say “no,” even when issued in
 
-participants how to refuse by giving them a speciﬁc phrase they could
+person: Giving them the words to say “no” as part of your request.
 
-use: “If you’d like to refuse, please say the words, ‘I’d rather not.’” While
+In two studies, we had trained research assistants ask participants a
 
-this intervention had little impact on whether participants ultimately
-
-agreed to this request, those who were given speciﬁc words to say no felt
-
-freer to do so, suggesting that their agreement felt more voluntary.
-
-If your goal is to solicit an employee’s genuine preference, rather than
-
-simply pressuring them to agree, the above strategies can help you get
+sensitive request that most people would prefer to refuse: to unlock

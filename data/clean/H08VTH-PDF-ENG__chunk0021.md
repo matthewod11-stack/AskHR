@@ -1,7 +1,19 @@
-# performance.
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 82febf10ec0e4715eea2d8379021049dfd2ba34b
+title: H08VTH-PDF-ENG
+---
+# baseline for everyone around you.
 
-At the end of each week, take a few minutes for a simple red/yellow/
+Leadership at scale is a marathon, not a sprint. While protecting your
 
-green check-in to spot unsustainable patterns early. This is a self-
+energy may seem indulgent, it’s an investment in your leadership.
 
-reﬂection tool for you as a leader, not a performance assessment of your
+You’re not just managing deadlines; you’re setting the tone. This means
+
+being honest about your bandwidth, building in recovery time, and
+
+making choices that prioritize sustainability over urgency. Modeling
+
+resilience and sustainability for your team requires presence over

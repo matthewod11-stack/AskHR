@@ -1,17 +1,35 @@
-# throughout the organization.
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f509cf121eca1713c675546c37e08a4ee2e83f9
+title: H06XTG-PDF-ENG
+---
+## example of the latter: Its culture of radical transparency and trust
 
-To start, managers should explicitly describe the categories of decisions
+encourages managers to only hire people whom they feel they can
 
-that will likely be encountered (with speciﬁc examples of each), and
+really trust, and to whom they can therefore feel comfortable giving
 
-determine who will be responsible for making them. Once they’ve
+substantial autonomy. This is evident across its global teams — for
 
-developed this plan, home oﬃce managers can work with their
+example, its business development director in Brazil was given the
 
-counterparts on the ground to ensure smooth implementation. For
+authority to sign contracts and agreements on behalf of Netﬂix without
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+approval from anyone. Similarly, its director of marketing in Italy was
 
-5
+entrusted to use the entire marketing budget for Italy however he
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+wanted, with no oversight from his American boss.
+
+Effective implementation takes planning and communication.
+
+These three questions can help you determine how much autonomy
+
+to provide your international teams — but of course, ﬁguring this
+
+out is just the ﬁrst step. The next step is to develop a plan to actually implement these diﬀerent levels and types of autonomy around the world. That means working with diﬀerent departments to
+
+specify exactly where and how autonomy should be granted, and then
+
+making sure that information is clearly documented and communicated

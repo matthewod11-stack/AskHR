@@ -1,5 +1,11 @@
-# in psychology: The major
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 57447542aeba0277ac471962bc001b92083e7d21
+title: untitled
+---
+# York: Norton.
 
-Lang, P., & Lazovik, A. D. (1963). Experimental desensitization of a phobia. Journal of Abnormal and Social Psychology, 66, 519–525.
+Korman, M. (1974). National conference on levels and patterns of themes.
 
-Lazarus, R. S. (1966). Psychological stress and the coping process.
+training professional American Psychologist, 29, 441–449.

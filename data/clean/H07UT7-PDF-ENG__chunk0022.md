@@ -1,15 +1,17 @@
-## or allergy concerns; or simply personal preference. Even employees
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f0d3d3bbe04af7a07c07444e665d0e6c25423dc
+title: H07UT7-PDF-ENG
+---
+## The Challenges of an Inclusive Workplace Pet Policy
 
-who like the idea will sour on a pet-friendly workplace when the
+We hope to have given you some reason to be excited about welcoming
 
-reality involves sharing their space with noisy, disruptive, or aggressive
+pets. Let us now be transparent about the challenges.
 
-animals. As one redditor wrote: “I used to work in a WeWork and
+A documented minority of employees view pet-friendly workplaces
 
-we’d have our workspace door open for ventilation — I lost count of
+as unprofessional, unclean, or unsafe. Objections range from cultural
 
-the amount of time someone’s dog from elsewhere on that ﬂoor came
-
-bounding in and disrupted everyone. I mean I like dogs so I was amused
-
-at a soppy old boxer begging for attention, but it’s just not appropriate in
+and religious traditions; past encounters and phobias; health, hygiene,

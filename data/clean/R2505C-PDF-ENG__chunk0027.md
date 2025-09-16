@@ -1,41 +1,19 @@
-## HBR / Magazine Article / Now Is the Time for Courage
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3e31840ab284921f74e4bb481d30bd1d1d4bb19
+title: R2505C-PDF-ENG
+---
+# Cultivate Confidence
 
-courageous people I studied beneﬁted from having developed deep
+Conﬁdence comes from self-eﬃcacy, which the late Stanford
 
-competence in their everyday work, which made them feel better
+psychologist Albert Bandura described as “what you believe you can
 
-equipped to grapple with complex and ambiguous challenges. They also enhanced their sense of self-eﬃcacy using three key tactics.
+do with [the skills] you have under a variety of circumstances.” The
 
-Train deliberately. To be conﬁdent in any role, you must study
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-and apply best practices until they become second nature, allowing
+6
 
-you to perform at your best even under pressure and amid change.
-
-In sales, that might mean knowing how to pitch clients, nurture
-
-relationships, and close deals; in tech, having a deep understanding of
-
-both engineering and product design; in HR, studying psychology and
-
-developing a playbook for sensitively handling any kind of employee
-
-emergency. Your training might not teach you how to respond to every
-
-crisis, but it should leave you feeling like a seasoned expert in your
-
-domain, who has the knowledge, skills, and fortitude to get the job done
-
-and the responsibility to do it.
-
-For example, C.B. “Sully” Sullenberger’s pilot training didn’t include a
-
-unit on what to do when a midair collision with a ﬂock of birds causes
-
-both of a plane’s engines to fail. However, when that happened to his
-
-January 2009 US Airways ﬂight, Sullenberger was able to safely land
-
-the aircraft on the Hudson River. “As it turned out,” he later told the
-
-journalist Katie Couric, “my entire life had been preparation to handle
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

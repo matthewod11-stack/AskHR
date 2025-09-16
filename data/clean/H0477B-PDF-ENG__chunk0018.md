@@ -1,21 +1,39 @@
-## While there’s more to a comprehensive policy than a certain number
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f1bf3ad96537bb9869e7f16fa45d6e81c5d54da
+title: H0477B-PDF-ENG
+---
+## recruitment and retention of talent.” Stories like a job candidate you
 
-of paid weeks, that is often the central question. What’s the ideal
+really wanted to hire turning you down because of your leave policy, or
 
-length, then? Some experts have put it at between six months and a
+someone talented leaving the organization because of a bad experience
 
-year. That’s the point at which babies are (often) sleeping through the
+with parental leave. “Those are the kind of stories that really ring with
 
-night, smiling, remembering faces and interacting with their caregivers,
+leadership, and really highlight for them the market opportunity they
 
-and eating solid foods. But since almost no U.S. companies are that
+are missing.”
 
-generous, employee advocates will have to decide what they can settle
+Bethell highlighted the story of one employee who had come back
 
-for. Collecting data on what competitor firms offer is tough: when
+to work at Walmart just one week after giving birth even though her
 
-Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+baby was in the neonatal intensive care unit (NICU). (According to
 
-5
+Department of Labor data, about one in four U.S. women return to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+work within two weeks of giving birth.) She couldn’t afford not to work.
+
+Employers hear that kind of story, says Bethell, and say to themselves,
+
+“That’s not the kind of employer I want to be.”
+
+A strong proposal. Bethell said employees who want better leave
+
+policies should not stop at saying that the current policy is inadequate
+
+— they should let their corporate decision-makers know exactly what
+
+they want the new policy to be.

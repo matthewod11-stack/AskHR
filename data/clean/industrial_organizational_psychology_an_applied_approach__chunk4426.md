@@ -1,11 +1,11 @@
-## Academy of Management Executive, 18(4), 139–142.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ff25c9db36e25c2b501f5cc915189889618b42e0
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Shaw, J. D., Gupta, N., & Delery, J. E. (2005). Alternative
 
-Shaw, M. E., & Shaw, I. M. (1962). Some eﬀ ects of social
+conceptualizations of the relationship between voluntary turnover and organizational performance. Academy of Management Journal, 48(1), 50–68.
 
-grouping upon learning in a second grade classroom. Journal of Social Psychology, 57, 453–458.
-
-Shen, W., Davies, S. E., Rasch, R. L., & Bono, J. E. (2008, April). Th e development of a taxonomy of ineﬀ ective leadership behaviors. Paper presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
-
-Shepperd, J. A. (1993). Productivity loss in performance groups: A motivation analysis. Psychological Bulletin, 113(1), 67–81.
-
-Shepperd, J. A., & Taylor, K. M. (1999). Social loaﬁ ng and
+Shaw, K. N. (2004). Changing the goal-setting process at Microsoft.

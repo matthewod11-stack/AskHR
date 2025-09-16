@@ -1,13 +1,7 @@
-# Individual-Level Models
-
-When the impact of age and sex on enrollment in wellness programs was analyzed using all 205,672 employees in the data, the models yielded the expected pattern of older age and female sex associated with higher enrollment rates. When this analysis was replicated 55 times, once for each of the companies in the study, on average a similar pattern emerged. But these averages, presented in Table 6, can be quite deceiving, as indicated by the minimums, maximums, and standard deviations of the coefﬁcients. The data are not shown for this level of detail in the table, but for 15 of the companies, the logistic regression coefﬁcient for sex was less than −0.5, meaning that enrollment rates were decidedly lower for men in these companies. For another 14 of these companies, the logistic regression coefﬁcient was greater than −0.15, suggesting only a modest impact on rates of enrollment favoring women. Indeed, for one of the companies, men were more, not less, likely to enroll.
-
-As presented on the lower half of Table 6, in the overall analysis, the effect was not statistically signiﬁcant (β = 0.007). Repeating the analysis 47 times yielded a clearer view and substantially different perspective of the effect of sex on active participation. Although the average sex coefﬁcient across the companies was only 0.034, 11 of the 47 companies displayed a pattern where men were sig- niﬁcantly less likely to actively participate, with effect coefﬁcients less than −0.13. But in 20 of the companies, men were signiﬁcantly more likely to actively participate, with effect coefﬁcients greater than 0.13. Thus, the overall average masks these substantially differ- ent, even contradictory, patterns. A similar, although somewhat less strong, pattern was found in the relationship between age and active participation. Also, older employees generally had higher rates of active participation in health coaching. But for 11 of the 47 com- panies, the effect of age was at least 33% stronger than the average effect, and for another 11, the effect was at least 33% weaker.
-
-A similar pattern was seen with age. Although in general the older the age of the employee, the higher the probability of enrolling in wellness programs, for 16 of the companies a negative effect was noted, meaning that older employees were less likely to enroll. And while, on average, the age coefﬁcient was 0.005, for 15 of the companies the logistic regression coefﬁcient was more than twice as strong. This means that for these 15 companies the rate of change associated with increasing age and increasing participation was at least doubled, with much higher rates of participation than that seen on average.
-
-In terms of participation, the overall impact of sex on whether or not an individual completed a health coaching call was negligible.
-
-Table 7 presents the results for the participant health behavior change models. On average, there was a substantial impact of base- line health risk on subsequent behavior change, with higher baseline risk associated with greater behavior change. Across companies, there was some relatively small variability in the magnitude of this effect.
-
-On average across these companies, men showed a very slight advantage compared with women with regard to behavior change, reducing slightly more health risks than women. But here, too, this modest average reduction advantage masks company-speciﬁc variations. For 6 of the 36 companies, the male advantage vis-a- vis women was ﬁve times more than the average. In four of the
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: f8973b07f6b6b5af4e65ee5660a2f83cfcc93d2a
+title: fast_track_art_i_c_l_e
+---
+## HRA, health reimbursement account; IV, independent variable.

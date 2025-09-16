@@ -1,13 +1,15 @@
-## primary takeaway for people from that book?
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03cdabb58873bde645b877cb32484c69d86f3b93
+title: H07DLJ-PDF-ENG
+---
+# up here.
 
-DEB LIU:
+ADI IGNATIUS:
 
-I actually start the book saying, “Power is not a dirty word,” and
+Deb Liu, thank you very much for being with us today. I read your book,
 
-that is absolutely true. I think we have this weird impression that
+Take Back Your Power: 10 New Rules for Women at Work. Before I get
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+into questions, I’d love to hear your take. What would you like to be the

@@ -1,9 +1,23 @@
-## The impact of human resource and operational management practices on company
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 8738423593a1876b9c2a889a6f929f3c9408dc09
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Academy of Marketing Science, 16(2): 79-94. http://dx.doi.org/10.1007/BF02723327
 
-productivity: a longitudinal study. Personnel Psychology, 61(3): 467-501.
+BACKES-GELLNER, U.; TUOR, S.N. (2010). Avoiding labor shortages by employer signaling: on
 
-http://dx.doi.org/10.1111/j.1744-6570.2008.00136.x
+the importance of good work climate and labor relations. Industrial and Labor Relations
 
-BOLCH, M. (2001). Proactive coaching. Training, 38(5): 58-66.
+Review, 63: 271.
 
--183-
+BARNEY, J.B. (1991). Firm resources and sustained competitive advantage. Journal of
+
+Management, 17: 99-110. http://dx.doi.org/10.1177/014920639101700108
+
+BARRET, P. (2007). Structural Equation Modeling: Adjusting Model Fit. Personality and
+
+Individual Differences, 42(5): 815-824. http://dx.doi.org/10.1016/j.paid.2006.09.018
+
+BIRDI, K.; CLEGG, C.; PATTERSON, M.; ROBINSON, A.; STRIDE, D.; WALL, T. et al. (2008).

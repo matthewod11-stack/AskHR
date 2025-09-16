@@ -1,21 +1,19 @@
-## HBR / Digital Article / Research: The Long-Term Costs of Layoffs
+---
+source_path: H08DVD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 82e1c34dcaca4d1fea7d8af61e45412c421149c5
+title: H08DVD-PDF-ENG
+---
+# weigh in on our ﬁndings:
 
-they do, whether employees still have power within the company. Can
+It’s no coincidence that we see a shift in employee dynamics and a
 
-you really show up to work with the same enthusiasm when you’re
+rise in tension after layoffs. Staff begins to question whether their
 
-feeling betrayed and wondering, “Will I be next?”
+company cares about its employees, whether they respect the work
 
-Perel also noted that building loyalty is almost impossible in an
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-environment where people feel they could lose their jobs at any
+5
 
-moment: “Many employees come to work looking for a sense of identity,
-
-belonging, and purpose,” she told us. “When companies do round
-
-after round of layoﬀs, it erodes their trust, diminishes their sense
-
-of belonging, and threatens their motivation. It’s hard to continue
-
-embracing work with the same gusto when you’re not sure if your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,7 @@
-# together (indeed, of NDM).
-
-this is often a feature
-
-Although the study of small groups has largely shifted from other disciplines to IOOB (Levine & Moreland, 1990), research in IOOB does not provide the same centrality to group judgmentanddecision- making as does research conducted within a JDM tradition (for an exception, see Hollenbeck et al., 1995). In IOOB, decision making has, for the most part, been treated as just one of several processes (along with motivation, affect, etc.) contributing to group effectiveness. In the case of JDM, decision making has remained central at each level of analysis. Thus, although there is a very large IOOB literature on groups or teams (e.g., Ilgen, Hollenbeck, Johnson, & Jundt, 2005), our focus here is to very brieﬂy summarize ﬁndings from the JDM literature on group processes and outcomes that are likely to be of interest to an IOOB audience. Much research has attempted to under- stand, often via mathematical models, how the prediscussion distribution of group- member preferences and knowledge is translated into group discussion and, ulti- mately, the group-level choice or judgment (e.g., Davis, 1996; Gigone & Hastie, 1993; Stasser, 1999). Sunstein (2003) sums up the bottom line from these programs of research very neatly, as follows: ‘‘Like-minded peo- ple, talking only with one another, usually end up believing a more extreme version of what they thought before they started to talk.... Blunders and even catastrophes are possible results.’’ Sunstein further argues that group processes such as these were partly responsible for the loss of the space shuttle Columbia. As we will discuss at a later stage in the article, these literatures are relevant to the study of teams and assess- ment centers in IOOB.
-
-This potential for groups to make poor choices and judgments has led to several techniques designed to inﬂuence group pro- cess and, thereby, to improve group perfor- mance. Perhaps the technique best known to IOOB researchers as well as managers is group brainstorming. What may not be widely known, however, is that research
-
-has consistently found group brainstorming to be an abject failure (e.g., Diehl & Stroebe, 1987). Among the more promising alterna- tives is the Delphi technique (for a review, see Rowe & Wright, 1999). This technique involves rounds: group-member judgments are obtained anonymously at each round and feedback regarding the dis- tribution of judgments (sometimes accom- panied by rationales provided by members with extreme judgments) is presented to members at the end of each round. After several rounds, the group’s ﬁnal judgment is taken as the median or mean of the mem- bers’ judgments on the last round.
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 6b4e028a9a1adc6e96144a550d7097ae5e07ab58
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# I–Opsychologyandworkplacedecisions

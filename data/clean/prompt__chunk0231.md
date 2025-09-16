@@ -1,5 +1,9 @@
-# Prompt Engineering
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 597d7b2ebd36bd9f4db15dfae4fd3aacef49ee8f
+title: prompt
+---
+# February 2025
 
-Table 12 is an example of ‘zero-shot’ Chain of thought. Chain of thought prompting can be
-
-very powe(cid:455)ul when combined with a single-shot or few-shot, as what you can see in Table 13:
+30

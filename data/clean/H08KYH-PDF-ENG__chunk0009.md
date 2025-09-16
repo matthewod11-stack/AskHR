@@ -1,11 +1,41 @@
-# Identifying Hurry Sickness
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 92e55a96d4045b7f1b7f0877be77a4e3e65f252a
+title: H08KYH-PDF-ENG
+---
+## HBR / Digital Article / The Insidious Effects of Hurrying
 
-One of the things that makes hurry sickness diﬃcult to detect is its ability to come disguised as eﬃciency, productivity, achievement, or
+Hurry sickness can also leave you physically and mentally exhausted
 
-creating value for the organization. As each of these are prized qualities
+as you rush from task to task and don’t allow time for basic self-care
 
-and signs of high performance, you may not even realize something is
+such as regular, healthy meals, adequate sleep, and taking breaks.
 
-wrong until your constant hurrying exacts a price.
+Increasingly fatigued, your immune system can become suppressed,
 
-See if any of these signs and symptoms of hurry sickness are present in
+leading to greater susceptibility to infectious illness.
+
+At work, hurry sickness can lead to poor decision-making as well
+
+as suboptimal outcomes when you don’t take time to think things
+
+through, or when rushing results in careless errors. Deep in the throes
+
+of hurry sickness, you experience a decreased ability to absorb, process,
+
+and use new information, and your ability to innovate can suﬀer as
+
+well, as creativity usually can’t be hurried. Relationships can suﬀer
+
+because you’re easily irritated when others don’t keep up with your
+
+intense pace, or because you’re openly skeptical of their ability to get things done eﬃciently. When relationships falter, team dynamics suﬀer
+
+— as does team output, as eﬀective collaboration is compromised.
+
+When chronic workplace stress leads to exhaustion, negativity, and
+
+underperformance, the ﬁnal outcome of hurry sickness can be full-
+
+blown burnout.

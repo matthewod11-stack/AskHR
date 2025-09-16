@@ -1,3 +1,7 @@
-# history of, 5–9 major fields of, 4–5
-
-IBM, 492, 584 Ice Hotel, 572 Icebreakers, 302–303 Identiﬁ cation, 477, 491 Illness and personal problems, 392
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bb4257ff788049d956ca1c3d48c5690a365cfcb5
+title: industrial_organizational_psychology_an_applied_approach
+---
+# opportunities, 9–10

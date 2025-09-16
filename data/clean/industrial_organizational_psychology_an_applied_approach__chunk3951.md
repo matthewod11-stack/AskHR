@@ -1,5 +1,9 @@
-## Organizational psychology The field of study that
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0ed030e86cb1bf0b310963b3dfd233e84f130704
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Organizational justice A theory that postulates that if
 
-investigates the behavior of employees within the context of an organization.
-
-Organizational socialization The process whereby new employees learn the behaviors and attitudes they need to be successful in an organization. Other characteristics Such personal factors as personality, willingness, and interest that are not knowledge, skills, or abilities.
+employees perceive they are being treated fairly, they will be more likely to be satisfied with their jobs and motivated to do well.

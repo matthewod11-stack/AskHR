@@ -1,7 +1,11 @@
-# like a leader.
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d69772fe7b354edc6a143efbd30d1dd5af55c35f
+title: H08THK-PDF-ENG
+---
+## Each weekday, in our Management Tip of the Day newsletter, HBR
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+oﬀers tips to help you better manage your team—and yourself. Here is
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a curated selection of our favorite Management Tips on communicating

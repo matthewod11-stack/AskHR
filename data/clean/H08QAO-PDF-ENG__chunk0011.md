@@ -1,19 +1,25 @@
-# managers.
+---
+source_path: H08QAO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0cd978cd994d26fcc9698fdb04f0d0bb3488801a
+title: H08QAO-PDF-ENG
+---
+# with managers and HR professionals.
 
-Surveys also showed that HR employees were more likely to consider
+We found the strongest evidence for the idea that the hiring disparities
 
-hiring an important part of their job, whereas managers were more
+had been due in part to time constraints on the company’s line
 
-likely to see it as a distraction from their day-to-day work.
+managers. Time crunches often forced them to rely on subjective data
 
-Importantly, we also asked line managers how they felt about the
+—including recommendations from colleagues and assumptions about
 
-candidates that HR selected and the overall job that they felt HR did in
+who best ﬁt a role—to make quick decisions so that they could return
 
-the new process. Before the intervention, 60% of line managers reported
+to their work. This likely perpetuated the company’s status quo, which
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+was predominantly male. The HR department, on the other hand, was
 
-3
+more likely to place greater weight on objective data about candidates
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and whether they ﬁt the job description and requirements provided by

@@ -1,11 +1,9 @@
-## “We Don’t Want a Long List of Candidates”
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 535124184194a7665bc88877739541de36567b56
+title: F2401A-PDF-ENG
+---
+# too.
 
-As the former executive chair of the family-owned Mahindra Group, based
-
-in Mumbai and comprising companies in automotive, finance, hospitality,
-
-and other sectors, Anand Mahindra has overseen multiple leadership
-
-successions, including his own. Now nonexecutive chair of the group, he
-
-recently spoke with HBR about choosing great CEOs. Edited excerpts of the
+About the research: “Making Family Businesses Great in Perpetuity,” by Claudio Fernández- Aráoz, Carrie Green, Sonny Iqbal, and Gregory Leo Nagel (white paper, 2023)

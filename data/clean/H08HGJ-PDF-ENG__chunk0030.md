@@ -1,25 +1,19 @@
-## Scaling Humanity, Instead of Scaling Companies
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf7f6edb2ba0da1ff8d29ab4034ba0b97ef650be
+title: H08HGJ-PDF-ENG
+---
+## HBR / Digital Article / It’s Time to Reimagine Scale
 
-Although leaders often feel pressure to grow, is that always the right
+As their success has grown, many have pushed Hieatt to expand
 
-path for its employees, and their communities? Some time ago, the
+into other product lines. But at a recent conference for “Makers and
 
-famous evolutionary biologist Stewart Kauﬀman attended a major
+Mavericks,” Hieatt challenged the assembled group: Can a company
 
-conference for strategy scholars. He challenged the assembled crowd:
+scale in other ways than size? For example, in impact? Since this
 
-“When will you start asking how GDP can serve humanity rather than
+time, Huit Denim has become an advocate for treating employees well,
 
-humanity serving GDP?”
-
-Kauﬀman’s question haunts us to this day, because he touched on the
-
-other dimensions that could be considered in our deﬁnitions of scale.
-
-What is best for our happiness, for our community, for ecology? What
-
-could that world look like? What would it look like if we got it right?
-
-As economist R. H. Tawney once wrote, “The existing economic order
-
-and too many of the projects advanced for reconstructing it break down
+dealing with microplastics, and manufacturing sustainably.

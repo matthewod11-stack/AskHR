@@ -1,11 +1,11 @@
-# with others.
+---
+source_path: H07RKN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbfb9b03fef9a8a132bcf71aa6c4dce7dab09cc3
+title: H07RKN-PDF-ENG
+---
+## HBR / Digital Article / How to Make a Compelling Pitch
 
-This article was originally published online on August 14, 2023.
+By relying on this tested framework, you can be concise, relevant, and
 
-Matt Abrahams is a lecturer in organizational behavior at Stanford Graduate School of Business. He hosts Think Fast, Talk Smart: The Podcast and is the author of Think Faster, Talk Smarter: How to Speak Successfully When You’re Put on the Spot.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+persuasive and actually enjoy sharing your perspectives and passions

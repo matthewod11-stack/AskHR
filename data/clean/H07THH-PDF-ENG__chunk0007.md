@@ -1,19 +1,43 @@
-# HBR / Digital Article / Research: Flexible Work Is Having a Mixed Impact on Employee…
+---
+source_path: H07THH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3548bed5b8898c727cb7a94dc0fdd022de4e859b
+title: H07THH-PDF-ENG
+---
+## At the same time, Gallup data shows that remote and hybrid
 
-day. But Gallup asked a representative sample of the U.S. workforce: In
+employees across the world were consistently more engaged than onsite
 
-your best life imaginable, which of the following work schedules would you prefer Monday through Friday, whether at home or in the oﬃce?
+employees, which correlates with higher productivity and performance.
 
-- 1. A job in which you work 9 AM to 5 PM and attend to other
+Again, Fortune 500 HR leaders agree: 41% of HR leaders with the most
 
-life activities before or after work (Gallup calls these employees
+ﬂexible policies said their productivity had generally increased in the
 
-“splitters”)
+past year, as compared to 33% of HR leaders who required one or two
 
-- 2. A job in which you alternate between work and other life activities
+days/week, 32% who require three days per week, and 32% of HR leaders
 
-throughout the day (Gallup calls these employees “blenders”)
+who require four to ﬁve days per week.
 
-The results were surprising: 50% of the U.S. workforce want to be
+This presents a complicated challenge for company leaders: Full
 
-splitters and 50% want to be blenders. This varies somewhat by type of
+ﬂexibility means employee well-being might be in jeopardy. But if you’re going to require employees to be in the oﬃce full-time, you may
+
+need to mitigate lower engagement and lower productivity.
+
+So what can organizations do to promote both well-being and
+
+productivity wherever employees are working?
+
+Help people live their best lives with their definition of balance.
+
+A common misperception leaders have about ﬂexible work is that
+
+employees want to be mixing their work and personal lives during the
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

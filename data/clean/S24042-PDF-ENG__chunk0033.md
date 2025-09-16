@@ -1,23 +1,19 @@
-## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: beb319abcdfb907aa5f15dee582eabe1487f3927
+title: S24042-PDF-ENG
+---
+## directors but also their preferred engagement rhythms and forms of
 
-an eﬀective conductor of information and was able to get his executive
+interaction. He arranged for the directors to spend meaningful time
 
-team to chart a path forward collectively.
+getting to know his senior team. This work paid oﬀ: At a stage when
 
-Earning the conﬁdence of all employees is also key and should become
+many new CEOs become an information bottleneck, he instead became
 
-a daily practice. One often eﬀective approach is to run regular “ask me
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-anything” sessions with employee groups and gather data about what
+9
 
-people are thinking, how trends are developing, and where the focus
-
-may need to be adjusted. That will help you learn what your employees
-
-are concerned about and has the added beneﬁt of making them feel
-
-heard—all of which naturally engenders trust. Of course, don’t forget
-
-the obvious: To maintain that trust, you’ll need to make sure that your
-
-actions match your words (those you speak on the public stage and in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

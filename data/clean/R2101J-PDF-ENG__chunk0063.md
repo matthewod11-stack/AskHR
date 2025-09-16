@@ -1,4 +1,10 @@
-# Health care
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7eaadaa2afc8c397f0e57ef2ed3baae48bd06a00
+title: R2101J-PDF-ENG
+---
+# Consumer discretionary
 
 82
 
@@ -8,10 +14,10 @@
 
 30
 
-55
+57
 
-45
+43
 
-69
+70
 
-31
+30

@@ -1,11 +1,15 @@
-## a people-ﬁrst understanding of the consumer marketplace and their
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5682d91c7dcd59bb0827663d6b0f203c028e998f
+title: H07VZN-PDF-ENG
+---
+## information than before the global pandemic.
 
-China-based workforce. Based in China and leading the Young China
+So how best to proceed if you’re a global business that has decided
 
-Group, I have spoken to culturally diverse executives on six continents
+China needs to be a part of your future, or if you’re on a China-based
 
-to help bridge the gap between perception of China and experience on
+team that is supporting global HQ in that decision?
 
-the ground. In this article, I’ll describe some key steps that I’ve seen
-
-companies take to put themselves on the right track to develop the right
+For years, I have served as an advisor to executives seeking to gain

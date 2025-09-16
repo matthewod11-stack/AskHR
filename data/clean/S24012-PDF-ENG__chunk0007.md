@@ -1,19 +1,33 @@
-## HBR / Spotlight Article / Leaders Must React
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de49c9555a7b602afa89a6f082c6be83c8703d78
+title: S24012-PDF-ENG
+---
+# Yasu & Junko/Trunk Archive
 
-After listening to that answer, a prominent leader challenged me:
+During my many years as a professor of leadership, I’ve been asked
 
-“That’s a useful theory you’re teaching, but you’re missing something
+one question more times than I can count: Can leadership actually
 
-that makes or breaks leaders—something that’s much harder to teach.
+be taught? I usually respond with a well-rehearsed answer: Much
 
-It’s how they react in real time to events they can’t anticipate.” He was
+like athletic prowess or musical talent, people’s innate capacity for
 
-referring to leaders like Volodymyr Zelensky of Ukraine. No one would
+leadership varies. But just as good coaches and teachers can help
 
-have called him a visionary, and because of his inexperience, many were
+athletes and musicians realize their full potential, good educators can
 
-skeptical of his abilities. But how he responded to Russia’s invasion of
+help people become better leaders. To do that at Harvard Business
 
-his country made him a hero. Jimmy Carter, on the other hand, may
+School, we draw heavily on John Kotter’s framework, which breaks a
 
-well have been a visionary president, but he was undone by the Iran
+leader’s job down into three key functions: articulating a compelling
+
+vision, aligning people around it, and motivating them to execute it.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

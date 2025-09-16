@@ -1,15 +1,25 @@
-# A New Era
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfb83103dd78e27d537d5d1b9f073ddc0d747812
+title: H07ZZW-PDF-ENG
+---
+# work awaits.
 
-The past decade has transformed the nature and impact of speaking
+Once you have been explicit and deliberate about employee
 
-out. Although leaders may ﬁnd it frustrating and chaotic, it reﬂects
+involvement in strategy, ethics, politics, and human rights, you’ll be
 
-a real desire for positive change among employees, who have found
+better equipped to make consistent decisions on how to address social
 
-new ways to counter the hazard of retaliation for speaking out. Social
+and political issues. Your employees may not always agree, and you
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+must be clear from the outset as to whether they’re allowed to disagree
 
-18
+publicly. But because they’ve been involved throughout the process,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and there has been clear consideration of how these issues will aﬀect
+
+organizational culture, they should better understand what you are (or
+
+are not) saying — and why.

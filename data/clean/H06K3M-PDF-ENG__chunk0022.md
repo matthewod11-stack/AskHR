@@ -1,21 +1,15 @@
-# minutes throughout the day.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4c7f533de47a38f940496c9572a414ad9ff0145
+title: H06K3M-PDF-ENG
+---
+## HBR / Digital Article / Collaboration Overload Is Sinking Productivity
 
-- Using triage rules in email. Email begets email, and we all have
+- Blocking out reﬂective time based on optimal personal rhythms.
 
-a tendency to want to answer the quick request that we can feel
+For some, this means answering emails ﬁrst thing in the morning and
 
-good about solving. More eﬃcient people tend to block emails into diﬀerent categories to process them at a given point in time, rather
+then having a two-hour block for reﬂective work. For others, it means
 
-than allowing constant disruptions.
-
-- Using “standing” meetings to make team problem-solving happen
-
-faster. More eﬃcient leaders use weekly touch points to discuss one- oﬀ issues, rather than allowing excess disruptions to occur ad hoc.
-
-Team members post issues on collaboration platforms like Slack or
-
-Microsoft Teams, and the team is encouraged to solve what they can ahead of meetings. Over time, leaders ﬁnd that the number of one-oﬀ
-
-issues funneling through them declines substantially as the team gets
-
-better at knowing who to turn to for what.
+doing creative work early, and answering email in three blocks of 30-

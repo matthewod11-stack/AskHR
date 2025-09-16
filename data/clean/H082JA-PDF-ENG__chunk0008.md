@@ -1,11 +1,13 @@
-# decision-making.”
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c0d23c8d88ba13e289fc1b44174d24586ad7414
+title: H082JA-PDF-ENG
+---
+## Last March, Meta’s CEO Mark Zuckerberg labeled 2023 the “Year of
 
-The consulting ﬁrm, McKinsey & Company, has echoed these
+Eﬃciency” in a company-wide email, noting that “ﬂatter is faster.”
 
-sentiments, describing how unstructuring your organization can unlock
+According to Zuckerberg, “It’s well-understood that every layer of a
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hierarchy adds latency and risk aversion in information ﬂow and

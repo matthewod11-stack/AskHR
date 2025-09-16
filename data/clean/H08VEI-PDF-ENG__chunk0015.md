@@ -1,11 +1,11 @@
-# Point out progress.
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 28de4b57c90aaa3e40f01cb2f592b0877caa6ce3
+title: H08VEI-PDF-ENG
+---
+## HBR / Digital Article / Building Employee Buy-In for Strategic Change
 
-If some workers are having trouble grasping what the strategic change
+can get on board with change even if they don’t like it, as long as you
 
-means for their day-to-day work, Willett recommends using real-life
-
-examples to bring the vision to life. Seek out people in your organization
-
-who are already on board and making the change work. Showcase their
-
-achievements and demonstrate how the new approach beneﬁts them
+show them respect, she adds.

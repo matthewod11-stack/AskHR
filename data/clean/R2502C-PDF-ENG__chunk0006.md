@@ -1,23 +1,19 @@
-# The Current State of Strategy
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d9af99f7120fced36a5c554925aae878861d620
+title: R2502C-PDF-ENG
+---
+# success?
 
-Facing heavy pressure to improve the worth of their company, many
+In this article we will explain why maximizing company value for the
 
-managers have turned to what we call “spreadsheet strategies.” They set
+beneﬁt of all stakeholders is the right objective. We will identify seven
 
-ﬁnancial goals suﬃcient to meet analysts’ expectations and then ﬁll in
+strategic factors and describe how to align them to unleash a company’s
 
-row by row, column after column, tweaking the numbers to ﬁnd a plan
+collective strengths. Drawing on the inspiring example of Self Esteem
 
-that appears plausible and then backing into ways to achieve it. That
+Brands, a ﬁtness, health, and wellness company, we will show how to
 
-approach has four ﬂaws.
-
-First, it grants excessive credence to archaic accounting rules as the
-
-best way to measure the value of modern companies. Accounting
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+build an extraordinary organization that creates extraordinary value.

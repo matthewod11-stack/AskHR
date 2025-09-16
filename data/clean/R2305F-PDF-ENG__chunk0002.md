@@ -1,13 +1,7 @@
-# Walter Chandoha/Trunk Archive
-
-If you’ve picked up a book about raising organizational performance
-
-in the past ﬁve years, you’ve almost certainly read about the beneﬁts
-
-of developing a culture of candid feedback. Kim Scott, a former Google
-
-executive, popularized the term “radical candor” in her 2017 book by
-
-that name, arguing that even “obnoxiously aggressive” feedback was
-
-better than “ruinous empathy” (keeping feedback that could otherwise
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3dfd60be7133f03457e5859dcedeb6b8dc2abb84
+title: R2305F-PDF-ENG
+---
+## From the Magazine (September–October 2023) / Reprint R2305F

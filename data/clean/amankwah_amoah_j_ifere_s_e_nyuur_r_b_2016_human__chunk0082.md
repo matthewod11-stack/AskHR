@@ -1,5 +1,21 @@
-## research. London: Wiedenfeld & Nicholson.
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 5bb014d8656ba3ec061454adfdbb1697da78cb4b
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+## Human Resource Management Review, 19(4), 304-313.
 
-Hayek, M., Thomas, C. H., Novicevic, M. M., & Montalvo, D. (2016). Contextualizing human capital theory in a non-Western setting: testing the pay-for-performance assumption. Journal of Business Research, 69(2), 928-935.
+Eisenhardt, K. M. (1989). Building theories from case study research. Academy of Management
 
-Henagan, S. C., & Bedeian, A. G. (2009). The perils of success in the workplace: Comparison target threat. Journal of Applied Social
+Review, 14, 532–550.
+
+Fiske, S. (2011). Envy up, scorn down: How status divides us. New York: Russel Sage Foundation.
+
+Forstenlechner, I., & Mellahi, K. (2011). Gaining legitimacy through hiring local workforce at a premium: the case of MNEs in the United Arab Emirates. Journal of World Business, 46(4), 455-461.
+
+Gioia, D. A., & Thomas, J. B. (1996). Identity, image, and issue interpretation: Sensemaking during
+
+strategic change in academia. Administrative Science Quarterly, 41, 370–403.
+
+Glaser, B.G., & Strauss, A. L. (1967). The discovery of grounded theory: Strategies for qualitative

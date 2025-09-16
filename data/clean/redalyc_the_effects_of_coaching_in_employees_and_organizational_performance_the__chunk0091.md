@@ -1,7 +1,17 @@
-# References
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 597de3b495c748e1f188bcfbedcf7e529f4e8c85
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## Intangible Capital – http://dx.doi.org/10.3926/ic.586
 
-AGARWAL, R.; ANGST, C.; MAGNI, M. (2009). The performance effects of coaching: a
+recommendations in order to an adequate management of the coaching process, as a way to
 
-multilevel analysis using hierarchical linear modeling. The International Journal of Human
+reduce the risk of failure.
 
-Resource Management, 20(10): 2110-2134. http://dx.doi.org/10.1080/09585190903178054
+The results here show that coaching processes are an important tool for improving the
+
+individual-level performance of human resource. Furthermore, the firms can benefit from the
+
+resulting effects on organisational performance, sales increases and productivity growth.

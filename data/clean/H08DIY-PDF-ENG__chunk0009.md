@@ -1,17 +1,35 @@
-# Distinguish feelings from facts.
+---
+source_path: H08DIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c37159079d85d0002ae9c53f4fdc360f4627416e
+title: H08DIY-PDF-ENG
+---
+## HBR / Digital Article / When a Coworker You Don’t Like Becomes Your Boss
 
-When Anika heard the news about Charles’ appointment, her emotions
+“Charles and I have worked together for 13 years and never seen eye-to-
 
-took over, leading her to worries that weren’t grounded in reality.
+eye,” she told me in a coaching session. “Now is his chance to get rid of
 
-To break her out of this pattern, I encouraged her to list her feelings
+me.” She even considered preemptively looking for other jobs.
 
-or perceptions on one side of a piece of paper and the actual facts on
+Anika’s reaction was understandable. When a colleague you dislike or
 
-the other. For example, “Charles doesn’t trust me” versus “Charles said
+who dislikes you becomes your new leader, it’s natural to feel anxiety
 
-that my presentation could include more campaign results and ROI
+or despair, worry about the fallout, and think about leaving. After all,
 
-data.” This exercise helped Anika realize that she had no actual data
+research shows that having a good relationship and reputation with
 
-indicating that Charles actively disliked her or wanted to sabotage her career, just that he wasn’t afraid to challenge her or oﬀer suggestions for
+your manager is critical to job satisfaction and engagement. Gallup
+
+Workplace Reports has repeatedly found that one of the most common
+
+reasons quit is because they don’t like their manager.
+
+But it’s important not to throw up your hands too quickly, especially if
+
+you genuinely enjoy your organization and your job. Instead, you need
+
+to use the transition as a catalyst for resetting the troubled relationship
+
+and ﬁgure out a better way to work together. Here’s how:

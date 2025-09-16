@@ -1,7 +1,15 @@
-# outcomes.
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72c16522cffe7f2beee148e0762c69f08b4ecd7e
+title: H08EDN-PDF-ENG
+---
+# forward.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Think of your past decisions as a dataset that you can mine for insights.
 
-2
+They can help you identify biases and assumptions that may be holding
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you back, develop strategies to shift your behavior going forward, and
+
+ultimately feel more conﬁdent that your process will lead to positive

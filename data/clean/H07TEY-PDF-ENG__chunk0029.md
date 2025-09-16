@@ -1,3 +1,9 @@
-# RP
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a47c105ced6a80b71050e498912c4b381d9105b
+title: H07TEY-PDF-ENG
+---
+# SL
 
-Ricardo Perez-Truglia is an assistant professor of economics at University of California Los Angeles, in the Anderson School of Management. He is also a Faculty Research Fellow at the National Bureau of Economic Research.
+Shengwu Li is an associate professor of economics at Harvard University.

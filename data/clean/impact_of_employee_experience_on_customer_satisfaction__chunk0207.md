@@ -1,13 +1,27 @@
-# Fig. 20 Employee Experience comparison
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 279f59b64c9bc604e20c8b7e691bf32a9624ec5d
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+## Fig. 19 eNPS Atlas Copco in region Europe, US and China
 
-The Employee Experience survey is constructed to measure aspects of the whole
+In Europe, an eNPS = 37 shows a big difference compare to the other two markets.
 
-employee life cycle from recruiting, onboarding, and daily employee life measured
+17 employees would recommend the company to their friends to become coworkers,
 
-with the employee engagement index. A detailed score comparison is shown in figure
+while 4 are detractors. However, 14 employees out of 35 have neutral opinion, this
 
-20 – Employee Experience comparison. The construction of the survey and
+represents 40%. In other markets, size of detractors is similar to the European one,
 
-measurement method was described in part 3.1.1.1. The first metrics influencing EX
+but the biggest differences are linked to the number of passive employees. The US
 
-are recruiting experience and onboarding.
+has 20% and China has 23% passive or neutral employees, while the number of
+
+promoters represents 71% of employees in US and 66% of employees in China. The
+
+eNPS score in all three markets is higher than the industrial benchmark, however
+
+significant differences are visible mainly between Europe eNPS=37 and US eNPS=
+
+63.

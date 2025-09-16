@@ -1,5 +1,9 @@
-# caregivers for their children.
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2abba7c364a8d189e3cca696f2dfad5c724b61fa
+title: H07VWF-PDF-ENG
+---
+## the more hours alone with an infant, the greater the functional neural
 
-One study by Saxbe and colleagues highlights the potential power of
-
-paternity leave in shaping the dad brain. The research teams compared
+changes. This enables fathers to become more eﬀective, instinctual

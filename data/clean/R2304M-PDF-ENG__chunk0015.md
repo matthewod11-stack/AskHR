@@ -1,23 +1,27 @@
-# accomplish less.”
+---
+source_path: R2304M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba5c787485890bf40bedbba473b80babfdf04f86
+title: R2304M-PDF-ENG
+---
+# Three Cost-Saving Options
 
-Ed pointed to one upside of this plan: Because they’d be saving
+Over the following week Tyler noted headlines about the many large and small tech companies5 announcing layoﬀs. Louis continued to argue that laying oﬀ 10% of the staﬀ represented an opportunity to part
 
-money on salaries, they could preserve some budget for learning and
+ways with the quiet quitters, poor performers, and employees reluctant
 
-development, food, travel, and events to maintain morale. Still, Simone warned, doing layoﬀs twice within a year would have a negative impact
+to come back to the oﬃce. Puck’s new oﬃces were nearly empty most
 
-—and some star employees might head for the door.
+Mondays and Fridays, and some employees weren’t coming in at all.
 
-As an alternative to more layoﬀs, the trio discussed another, two-
+Simone and Ed Bills, Puck’s chief ﬁnancial oﬃcer, had worked over the
 
-pronged approach. To reduce head count, Puck could stop replacing
+weekend to put together a few scenarios for reducing the burn rate. On
 
-departing employees and do more to manage out weak performers.
+Monday they asked Tyler to sit down with them, and they laid out three
 
-Attrition the previous year among people Puck wasn’t sorry to lose had
+options for him to consider.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+“If you see no choice but to do a 10% head count reduction, we should make targeted layoﬀs, team by team, instead of an across-the-board cut that aﬀects all teams,” Simone said. “We’ll also need to adjust
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the product road map to reﬂect the reality that fewer employees will

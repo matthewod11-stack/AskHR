@@ -1,5 +1,31 @@
-# global EY organization.
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e11cc8adaca0d458c96184fa5eada952eab0d643
+title: H087QD-PDF-ENG
+---
+## HBR / Digital Article / Using Data to Design Your Hybrid Work Policies
 
-This article was originally published online on May 8, 2024.
+- A plan to revisit the norms and habits to which you commit at some
 
-Heidi Grant is a social psychologist who researches, writes, and speaks about the science of motivation. Her books include Reinforcements: How to Get People to Help You, Nine Things Successful People Do Differently, and No One Understands You and What to Do About It. She is the Director of Behavioral Science & Insights, EY Americas.
+point in the future, to see if they’re working for everyone
+
+. . .
+
+Figuring out the right ways of working to support our new hybrid model
+
+at EY U.S. hasn’t always been smooth sailing, and we still consider our
+
+approach a work in progress. But that’s the point: Real innovation is
+
+always an experiment that requires an open mind, a commitment to
+
+communication and collaboration, and a lot of ﬁne-tuning. We believe
+
+that it starts by putting your intuitions aside and really understanding
+
+how hybrid work is impacting your people — in practice, not theory.
+
+The views expressed are those of the author(s) and do not necessarily
+
+represent the views of Ernst & Young LLP or any other member ﬁrm of the

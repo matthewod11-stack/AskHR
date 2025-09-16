@@ -1,3 +1,7 @@
-# by Per Hugander
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78bfd37d071c6224b419e2daa41c2b02fba39ba9
+title: H071B9-PDF-ENG
+---
+## When Trust Takes Away from Effective Collaboration

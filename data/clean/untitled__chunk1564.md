@@ -1,7 +1,13 @@
-## bear children. American Journal of Sociology, 22, 19–29.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0d5d564c8f83b69cfb802009bfd2aebbcc28825b
+title: untitled
+---
+# Hall.
 
-Horner, M. S. (1970). Femininity and successful achievement: A basic inconsistency. In J. M. Bardwick, E. Douvan, M. S. Horner, & D. Gutman (Eds.), Feminine personality and conﬂict (pp. 45–74). Belmont, CA: Brooks/Cole.
+Herman, J. (1992). Trauma and recovery. New York: Basic Books.
 
-Hurtado, A. (1989). Relating to privilege: Seduction and rejection in the subordination of White women and women of color. Signs: Journal of Women in Culture and Society, 14, 833–855.
+Hollingworth, L. S. (1914). Variability as related to sex differences in achievement. American Journal of Sociology, 19, 510– 530.
 
-Hyde, J. S., & Linn, M. (1988). Sex differences in verbal ability: A
+Hollingworth, L. S. (1916). Social devices for impelling women to

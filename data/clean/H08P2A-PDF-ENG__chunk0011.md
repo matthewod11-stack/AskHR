@@ -1,19 +1,15 @@
-# innovation.
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0108a74f95bda423853c74b3335004e92176bdc
+title: H08P2A-PDF-ENG
+---
+## quality of both the data under discussion and the process by which
 
-Second, psychological safety improves collaboration by strengthening
+it’s used in decisions. It plays a particularly critical role in supporting
 
-interpersonal bonds and trust. In my team dynamics sessions, I always
+innovation, as it’s impossible to innovate without risk. Each wild idea
 
-ask executives to reﬂect on their best experiences in teams and the
+or challenge to the status quo that members of a meeting decide not to
 
-drivers thereof, and trust is always near the top of the list. One of the
-
-best ways we build trust is by being open and vulnerable—neither of
-
-which we do when we don’t feel psychologically safe. It was a leader
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+commit to the permanent record removes the raw materials required for

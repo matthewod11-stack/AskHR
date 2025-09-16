@@ -1,11 +1,7 @@
-## Fig. 17 Example of calculation survey questions
-
-3.2.1.2. KPI’s measurement
-
-Answers to the thirty questions are compiled into eight key performance indicators
-
-(KPIs). They provide perspectives on the employee experience for the whole
-
-company as well as individual organizational units and also provide information about
-
-the most important aspects of the mutual relationship. Questions are based on internal
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 0c2f6364c9df76ec223f610be790d53d5f58024c
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 33 | P a g e

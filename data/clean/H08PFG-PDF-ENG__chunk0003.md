@@ -1,7 +1,9 @@
-## key policies and formal processes around things like vacation time. But
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 160f5f3fea8fdeb2b98ac4c934dc60b7c1685f2c
+title: H08PFG-PDF-ENG
+---
+# Artur Debat/Getty Images
 
-employee manuals don’t teach other things, like whether you should
-
-advocate for a promotion or wait to be asked, how quickly colleagues
-
-expect email replies, or if meetings start on time or three minutes after
+Think of all the times you started a new job. You probably learned about

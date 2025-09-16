@@ -1,25 +1,19 @@
-# during non-working hours.
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 60bffe5071940163e2ec09df1cff38d0ef4f5c9e
+title: H087XL-PDF-ENG
+---
+## informally outside the zone of formal inﬂuence of their manager, they
 
-. . .
+are often only partially visible. Hence, to help boundary spanners
 
-Cross-silo collaboration is a double-edged sword in the modern
+disengage, organizations can cultivate a wider workplace culture that
 
-workplace. While it undeniably serves as a catalyst for expedited
+emphasizes the importance of breaks and recovery time and legitimizes
 
-coordination and innovation, it can adversely aﬀect the well-being of
+disengaging completely from work during the evening or the weekend.
 
-those who engage in it. The good news is that organizations can adopt a
+For example, having leaders delay their answers (or questions) until the
 
-multifaceted approach to support their boundary-spanning employees.
-
-Adopting these approaches will require eﬀort and time at both the
-
-organizational and individual levels. However, we believe this is a
-
-worthy investment, not only to address the risk of employee burnout
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+next working day signals that immediate responses are not required

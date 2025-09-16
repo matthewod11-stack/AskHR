@@ -1,9 +1,21 @@
-# CHAPTER SEVEN
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 8d920e0dc2701fa580f5122bfc9fbb95e39682fe
+title: beo_chap7_1
+---
+# REFERENCES
 
-King-Casas, B., D. Tomlin, C. Anen, C. F. Camerer, S. R. Quartz, and P. R. Montague. 2005.
+Bechara, A., H. Damasio, D. Tranel, and A. Damasio. 1997. Deciding advantageously before
 
-Getting to know you: reputation and trust in two-person economic exchange. Science
+knowing the advantageous strategy. Science 275:1293-95.
 
-308:78-83.
+Cohen, M., and P. Bacdayan. 1994. Organizational routines are stored as procedural memory:
 
-Nelson, R., and S. Winter. 1982. An Evolutionary Theory of Economic Change. Belknap Press
+evidence from a laboratory study. Organization Science 5:554-68.
+
+Damasio, H., T. Graboski, R. Frank, A. Galaburda, and A. Damasio. 1994. The return of Phineas Gage: Clues about the brain from the skull of a famous patient. Science 264:
+
+1102-5.
+
+289

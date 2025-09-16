@@ -1,21 +1,31 @@
-# EMPLOYEE WELL-BEING
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 42a3f5bdf2f02c13c5640d7712c91492a8a20f3d
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# EMPLOYEE ENGAGEMENT
 
-21
+23
 
-22
+24
 
-My workload is manageable
+The work that I do is meaningful to me.
 
-My company takes a genuine interest in my wellbeing (physical, mental).
+I feel a sense of belonging at my company.
 
-27
+25
 
-I feel safe at my workplace.
+I feel satisfied with the recognition or praise I receive for my work.
 
-30
+26
 
-Your organization offers flexible work options (such as the ability to work your own hours wherever you want) and encourages autonomy.
+People at my company behave ethically.
 
-7
+19
 
-My manager (the person you report to) provides me with feedback that helps me improve
+I can manage my job responsibilities in a way that enable a healthy work-life balance
+
+20
+
+I have the flexibility I need in my work schedule to meet both work and personal needs

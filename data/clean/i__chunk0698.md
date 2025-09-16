@@ -1,7 +1,7 @@
-# Deobald, U., & Redzepi, A.
-
-(2021). The dark sides of people analytics: reviewing the perils for
-
-‐
-
-organisations and employees. European Journal of
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 55e77b09dce74abd85efe86193c8715ea8e94706
+title: i
+---
+## (cid:111) Giermindl, L., Strich, F., Christ, O., Leicht

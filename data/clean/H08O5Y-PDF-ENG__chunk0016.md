@@ -1,7 +1,13 @@
-# scalability, and innovation.
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71c823194f62ecb50a17cb87330f01af9fee9035
+title: H08O5Y-PDF-ENG
+---
+# HBR / Digital Article / A Guide to Updating Your Resume When Moving from Public to P…
 
-Because government employees don’t measure success in proﬁt, you
+industry, depending on their speciﬁc responsibilities. Similarly,
 
-need to reframe your accomplishments in private sector terms. Instead
+government success is measured by policy impact, long-term outcomes,
 
-of emphasizing compliance with federal mandates, highlight how your work optimized resources, improved eﬃciency, or led to cost savings—
+and compliance, whereas businesses focus on revenue growth,

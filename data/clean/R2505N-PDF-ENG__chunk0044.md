@@ -1,11 +1,29 @@
-# big-picture, strategic thinker.
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d71b21b5d9ec9cc3be124a87a1b0a5549288e6a0
+title: R2505N-PDF-ENG
+---
+# Be Patient
 
-A version of this article appeared in the September–October 2025 issue of Harvard Business Review.
+Even for leaders with the best of intentions, overcoming these
 
-Elsbeth Johnson is a senior lecturer at the MIT Sloan School of Management, having previously been a professor at London Business School, an equity analyst, and a corporate strategist. She is the founder of the consulting ﬁrm SystemShift and the author of Step Up, Step Back: How to Really Deliver Strategic Change in Your Organization (Bloomsbury Business, 2020).
+challenges will take time. When you’re new to context-setting, you will
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+crave the dopamine that activity-based work has long provided you.
 
-11
+Team members will invariably ask questions, and some will struggle to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+stop themselves from frequently checking in or resisting when you hand
+
+decisions back to them. Bosses and clients may question how much you
+
+delegate until you’ve proven your decisions are sound. And your own
+
+beliefs about the value you bring to your organization will be tricky to
+
+shift. However, eﬀective delegation is one of the most important skills
+
+for any leader to learn. If you stick with it, you’ll get so much more out
+
+of your team members—and yourself, as a developer of talent and as a

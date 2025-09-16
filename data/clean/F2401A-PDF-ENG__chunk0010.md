@@ -1,9 +1,11 @@
-# longer time horizon.
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b350d09a9134ae5cab1e43537cfa53c3204fd133
+title: F2401A-PDF-ENG
+---
+## point, on average, in the couple of years before the leadership transition.
 
-Bring on a few highly engaged long-term directors and empower
+By contrast, large family ﬁrms undertook CEO changes independently
 
-them to lead the process. The family and nonfamily ﬁrms in the
-
-study appointed CEOs from within the organization at similar rates
-
-—roughly 70% of the time. But large family ﬁrms did much better
+of short-term performance issues, reﬂecting a more strategic focus and a

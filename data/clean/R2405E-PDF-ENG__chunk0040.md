@@ -1,13 +1,25 @@
-# treatment for rheumatoid arthritis.
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8e7034e763dd01d33db815064f0b9d8e514527e
+title: R2405E-PDF-ENG
+---
+## BASF Bioresearch and Cambridge Antibody Technology. When Abbott
 
-As the examples illustrate, incumbent strengths come to the fore
+Laboratories, the incumbent that had acquired BASF, brought Humira
 
-in the corridor of uncertainty. But the leadership team deciding
+to market, in the early 2000s, it was one of several monoclonal
 
-whether to make signiﬁcant investments needs to evaluate whether the
+antibody treatments for rheumatoid arthritis. However, it was mired in
 
-innovation team is answering the four questions with quality insights
+controversy because its potential side eﬀects were hard to isolate from
 
-and experimental evidence or merely with market chatter. That is the
+the progression of the disease. The Abbott team worked with patient
 
-only way to know if an innovation is truly ready to be scaled up.
+advocacy groups to raise awareness and debunk the treatment’s stigma.
+
+This, of course, involved some competitive risk, since Abbott’s eﬀorts
+
+would also make rival products more acceptable to consumers and
+
+health care professionals. But the move positioned Humira as the go-to

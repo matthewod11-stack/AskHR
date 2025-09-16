@@ -1,3 +1,7 @@
-# Prompt
-
-Based on popular first-person shooter action games, what are 5 fictional key settings that contribute to a challenging and engaging level storyline in a first-person shooter video game?
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 0eee1e267baa84a9c2784bf09baca1bcf3f9f409
+title: prompt
+---
+# Prompt Engineering

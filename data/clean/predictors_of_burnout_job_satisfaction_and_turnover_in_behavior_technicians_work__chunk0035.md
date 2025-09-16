@@ -1,1 +1,7 @@
-# Burnout
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 69066003e302c1ca9e55f16c14d9bb5bc1c8baae
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Questionnaires

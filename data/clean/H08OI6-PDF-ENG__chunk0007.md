@@ -1,13 +1,51 @@
-## HBR / Digital Article / In a Slump at Work? Here’s How to Motivate Yourself.
+---
+source_path: H08OI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58bb464f73a39b1a33035587b7135729d87424aa
+title: H08OI6-PDF-ENG
+---
+# forward to?
 
-Sometimes your previous performance review feedback may not give
+The good news is you have more control over your career than you
 
-you the clarity or direction you need. I’ve coached professionals who
+might think. Here are ﬁve options to reignite your motivation at work—
 
-found themselves out of sync with their supervisor’s assessment,
+no matter how remote you are.
 
-received vague feedback, or had their review led by someone who’s
+Create your own mini performance review.
 
-no longer on the team. In these cases, it can be valuable to build
+If you’ve been at your company for a while and have been through at
 
-relationships with senior leaders and trusted peers who can oﬀer
+least one performance review cycle, now’s a good time to go back and
+
+revisit it. In my work as a career coach, I’ve observed that most people
+
+ﬁle away their reviews and only revisit them when the next one is due.
+
+However, past conversations could hold clues about what you could be
+
+doing right now to invest in your growth.
+
+What themes came up in your last performance review? What are your
+
+core strengths? What goals did you share in that conversation but
+
+haven’t acted on? What constructive feedback did you receive?
+
+Goals or suggestions from your last review can serve as a springboard
+
+for thinking about speciﬁc, actionable goals to pursue in the next few
+
+months. You can also reﬂect on any changes in your role, team, or the
+
+company since that last performance conversation. In addition, if your
+
+company has shifted priorities since your last review, consider what you
+
+could explore to match those new needs.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

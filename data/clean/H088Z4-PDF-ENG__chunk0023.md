@@ -1,21 +1,19 @@
-# HBR / Digital Article / Research: Why Companies Should Disclose Their Lack of Progre…
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26dcab0bc24ea174804cf2d2334c4bfdb7c8dc93
+title: H088Z4-PDF-ENG
+---
+# and true motives.
 
-to increasing diversity. We then presented people with one of two
+In another study, we investigated the reputational eﬀects of disclosing
 
-ﬁgures that visually depicted the change in the representation of
+diversity data when these data were good or bad. We asked 819 working
 
-racial/ethnic minorities in the year following this commitment. Half of
+adults to consider a case in which their own company had committed
 
-people saw a positive trend, which portrayed an eight percentage-point
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-increase, while the other half saw a line depicting zero change in the
+4
 
-representation of minorities over the same time period. But there was
-
-one other wrinkle in the study: we told half the people in this study that
-
-it was the company who decided to disclose these diversity data, but
-
-told other half that it was a colleague in HR who privately showed them
-
-these data (thus implying it was not the company’s decision to disclose
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,7 @@
-## Affiliation style A leadership style in which the
-
-individual leads by caring about others and that is most effective in a climate of anxiety. Affirmative action The process of ensuring
-
-proportional representation of employees based on variables such as race and sex. Affirmative-action strategies include intentional recruitment of minority
-
-applicants, identification and removal of employment practices working against minority applicants and employees, and preferential hiring and promotion of minorities.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b8c3001874413caeba2cd1e48645a8c3f620f7bf
+title: industrial_organizational_psychology_an_applied_approach
+---
+## tendency to approach and interact with others.

@@ -1,25 +1,13 @@
-## HBR / Digital Article / How to Bring an Outside CEO into the Family Business
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc4ad89489c4975a9de2e5fccbbcf1c518b60ac5
+title: H07UQT-PDF-ENG
+---
+# instance.
 
-Throughout the learn phase, the outgoing and incoming CEOs should
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-check in periodically. In partnership with administrative staﬀ, the
+3
 
-outgoing CEO should ensure that the incoming CEO has access to any
-
-additional material they may require. And while this is happening, the
-
-outgoing CEO works with the HR team to plan the schedule of meetings
-
-for the incoming CEO that will begin during the Listen phase. At Gera,
-
-as we planned this agenda, we thought deliberately about which family
-
-members should be met casually versus which ones required an in-
-
-depth, more formal meeting. Although the family members’ preferred
-
-style factored into these choices, we focused on what would be best for
-
-the incoming CEO, and which format would maximize his chance to
-
-learn. (In the end, the agenda featured more formal, in-depth meetings
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

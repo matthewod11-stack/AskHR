@@ -1,13 +1,7 @@
-# Managerial philosophy of the firm
-
-Public image sought by organization
-
-Self-concept of business adopted by employees and stockholders
-
-Brief—so that employees can remember it
-
-Verifiable—able to stand the reality test
-
-Bound by a timeline—specifies a timeline for fulfillment of the various aspirations
-
-Current—updated on an ongoing basis
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8488985b3e847a6b5274b791d0d51bd795a0b18a
+title: performance_management_3rd_edition_by_aguinis
+---
+## Fundamental concern for survival through growth and profitability

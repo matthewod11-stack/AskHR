@@ -1,9 +1,9 @@
-## Leader/member relations The variable in Fiedler’s
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 85c074f286b064d998791fbafcc5bb22254b2f96
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Leader–member exchange (LMX) theory A leadership
 
-contingency model that refers to the extent to which subordinates like a leader.
-
-Leadership motive pattern The name for a pattern of needs in which a leader has a high need for power and a low need for affiliation.
-
-Leadership Opinion Questionnaire (LOQ) A test used to measure a leader’s self-perception of his or her leadership style.
-
-Least acceptable result (LAR) The lowest settlement that a person is willing to accept in a negotiated agreement.
+theory that focuses on the interaction between leaders and subordinates.

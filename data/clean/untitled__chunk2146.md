@@ -1,3 +1,9 @@
-## War II. American Psychologist, 1, 423–437.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 014439ef28114bfe57a92ef8c6543f5886858ece
+title: untitled
+---
+# labor force. Science, 238, 176–180.
 
-Brogden, H. E. (1946). On the interpretation of the correlation coef- ﬁcient as a measure of predictive efﬁciency. Journal of Educa- tional Psychology, 37, 64–76.
+Britt, S. H., & Morgan, J. D. (1946). Military psychologists in World

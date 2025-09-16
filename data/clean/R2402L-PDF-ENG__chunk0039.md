@@ -1,17 +1,19 @@
-## HBR / Magazine Article / Negotiate Like a Pro
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 713e31b98093eafeb7c8cf568e1ec236bbb1a19c
+title: R2402L-PDF-ENG
+---
+## with executives as a leadership and negotiation coach and a consultant
 
-ﬁve listening and more pies, they felt more comfortable negotiating and
+in the corporate world. For example, I recently worked with several
 
-were better able to achieve deals that worked for both parties. In another
+newly promoted leaders at a global professional services ﬁrm who were
 
-case, this mindset and tool kit helped the head of a small banking and
+avoiding diﬃcult conversations with clients. Once they learned level-
 
-investment company that had recently been acquired by a larger one to navigate discussions around layoﬀs and exit packages with his new colleagues and aﬀected employees.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Successful negotiation starts with managing your own emotions. But
+10
 
-that’s where your self-focus should stop. The rest is all about your
-
-counterparts. Listen well and show them you’re doing so. That’s how
-
-you build trust and ultimately ﬁnd mutually agreeable solutions.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

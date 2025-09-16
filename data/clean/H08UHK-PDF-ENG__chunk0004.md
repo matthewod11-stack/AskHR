@@ -1,31 +1,19 @@
-## HBR / Digital Article / It’s Time to Streamline How We Communicate at Work
+---
+source_path: H08UHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e9beae7a4ec893d97c5b17165e9e6e5952d405f
+title: H08UHK-PDF-ENG
+---
+## array of digital tools like Slack, Teams, WhatsApp, and internal digital
 
-Consider a few real-world breakdowns. A manager sends a detailed
+bulletin boards. Yet many leaders fail to set clear communication
 
-memo ahead of a decision-making meeting—only to discover no one
+norms, resulting in burnout, ineﬃcient onboarding, wasted time, and
 
-read it. A colleague misses an urgent Zoom call because the alert was
+reduced productivity.
 
-sent via Slack, which they rarely check. A CEO delays approval of a
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-six-page memo because the sender didn’t include a summary in the
+1
 
-email body. And a leader preparing for a board meeting receives ﬁve inconsistent reports from ﬁve diﬀerent business units, wasting hours
-
-harmonizing them.
-
-These examples illustrate the friction that arises when communication
-
-norms are unclear. As AI-assisted writing becomes more prevalent,
-
-written communication volume will only grow. This makes it even more
-
-critical to establish clear norms that prioritize readability—ensuring
-
-that human readers can easily process information, no matter whether
-
-it’s authored by a person, an AI, or a collaboration between the two.
-
-We’ve conducted hundreds of randomized experiments on eﬀective
-
-communication and coached dozens of organizations on improving
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,29 +1,23 @@
-## HBR / Digital Article / 7 Questions to Decode Your Manager’s Priorities
+---
+source_path: H08ME9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63a6ba203d5cd85788638c3173838856d2646776
+title: H08ME9-PDF-ENG
+---
+# your team.
 
-process improvements, or take work oﬀ their plate in stressful areas,
+- 2. What keeps you up at night when thinking about our team or projects?
 
-turning you into a trusted advisor who helps them sleep better at night.
+Unlike asking about general challenges, which often gets you a canned
 
-- 3. What actions or changes would allow you to look back in 90 days and say “Wow, that really made a difference?”
+response, asking this question tends to elicit a more candid answer.
 
-The timeframe is key. Ninety days is long enough to accomplish
+It invites vulnerability in a way that builds trust and creates an
 
-something meaningful, but short enough to feel tangible and speciﬁc.
+opportunity to help solve issues. You might ﬂag risks earlier, suggest
 
-If your boss gives a vague answer like “reﬁne our strategy,” ask, “What’s
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-one change we could make to our roadmap that would have the biggest
+2
 
-impact by the end of the quarter?” If they’re still unclear, oﬀer a binary:
-
-“Would you be more impressed if we doubled our enterprise clients or
-
-increased revenue per customer by 40%?”
-
-- 4. What do you wish you had more time to work on?
-
-This question uncovers what matters to your manager but keeps getting
-
-pushed aside by urgent tasks. Maybe they wish they had more time
-
-to create documentation, build relationships with another team, or
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

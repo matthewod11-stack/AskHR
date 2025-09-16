@@ -1,33 +1,23 @@
-## of these scenarios with employees from all areas and levels of the
+---
+source_path: H0734V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bce070844e07c501e4f20346d6a483856ecb407c
+title: H0734V-PDF-ENG
+---
+# the company?”
 
-company. The participation of a wide group of individuals helps expand
+From this data we craft a mix of scenarios which depict different
 
-strategizing to certain stakeholders, such as frontline employees, who
+versions of the future. For example, by talking to employees of a major
 
-can contribute different and necessary perspectives as well as identify
+fragrance brand, we identified the limiting belief that the company’s
 
-opportunities to seize. In small groups, we help them reflect on the role
+sales would forever be driven by the end of the year season, as it has
 
-that their companies could play in these scenarios of possible futures
+always been since the creation of the brand more than a century ago.
 
-and how to provoke the conditions for a more desirable future. Design
+Using this information, we crafted a “Christmas is over” scenario in
 
-fictions emerge from these discussions. They describe new missions
+which sales seasons were spread out over the year.
 
-and visions for companies and how to get there. In the project we
-
-conducted with the car insurance company, this part of the design
-
-fiction process triggered a change in the mission of the company from
-
-insuring cars against damages to enabling individual journeys with
-
-all mobility means. Workshops with the fragrance brand around the
-
-“Christmas is over” scenario generated a new mission that was more
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Next, we run immersive workshops in which we discuss three or four

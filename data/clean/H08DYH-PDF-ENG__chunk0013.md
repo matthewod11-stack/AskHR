@@ -1,21 +1,31 @@
-## HBR / Digital Article / How a Playful Mindset Can Boost Creativity on Your Team
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 981264e9db0cfb9388650d493bcbf3dedf715443
+title: H08DYH-PDF-ENG
+---
+# permits.
 
-By contrast, the alpha and theta states, characterized by slower brain
+Think about the last argument you had. As you walked away, what
 
-activity and greater mental relaxation, open that door. When you’re
+popped into your head? The perfect comeback, right? But why didn’t it
 
-in an alpha state, perhaps resting after completing a task or taking a
+come to you in the heat of the moment? Because during the argument,
 
-break to meditate, your mind is more receptive to creative ideas. When
+your brain was in overdrive, defending itself. At work, our brains are
 
-you’re in a theta state, you’re likely daydreaming, taking a long drive, or
+similarly overloaded with emails, meetings, reports, training, and so
 
-jogging. In this state, your mind is free to wander, allowing ideas to ﬂow
+on. We often don’t have time to think. This is because our brains are
 
-without censorship or overthinking. This is why those “aha” moments
+stuck in what science calls the beta state — a state of constant busyness
 
-often occur in the shower, during a walk, or even while brushing your
+where creativity is blocked. When you’re in beta, the door between your
 
-hair — activities that naturally put you in an alpha or theta state where
+conscious and subconscious mind is shut.
 
-creativity thrives. The key to making the jump from beta to alpha or
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

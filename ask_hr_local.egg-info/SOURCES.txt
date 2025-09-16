@@ -1,0 +1,13 @@
+pyproject.toml
+app/__init__.py
+app/embeddings.py
+app/main.py
+app/prompting.py
+app/retriever.py
+app/schemas.py
+app/store.py
+ask_hr_local.egg-info/PKG-INFO
+ask_hr_local.egg-info/SOURCES.txt
+ask_hr_local.egg-info/dependency_links.txt
+ask_hr_local.egg-info/requires.txt
+ask_hr_local.egg-info/top_level.txt

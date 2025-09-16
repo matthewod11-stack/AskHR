@@ -1,7 +1,25 @@
-# HBR / Digital Article / How to Evaluate a Job Candidate’s Critical Thinking Skills in an…
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1581f284cf7bbb3c03e2d80f27a2ee07445dc920
+title: H07T10-PDF-ENG
+---
+## Blend Images - Peathegee Inc/Getty Images
 
-list talent, thought leaders, and subject matter experts. This is often
+Hiring is one of the most challenging competencies to master, yet it
 
-done under time constraints as you must quickly ﬁll a key position.
+is one of the most strategic and impactful managerial functions. A
 
-Essentially you are committing to a long-term relationship after a few
+McKinsey study quantiﬁed that superior talent is up to eight times
+
+more productive, showing that the relationship between talent quality
+
+and business performance is dramatic. Organizations seeking growth
+
+or simply survival during diﬃcult times must successfully recruit A-
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,13 @@
-# the line?
+---
+source_path: H08QBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ceea0a3da03646e061ad14c84fe17355690f8a3
+title: H08QBY-PDF-ENG
+---
+# mistake?
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- Are there oversight and equity questions that remain unresolved?
 
-6
+- What guidelines exist for choosing between humans and AI for certain
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+jobs, especially when ethics, brand reputation, or job protection are on

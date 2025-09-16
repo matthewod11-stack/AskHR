@@ -1,25 +1,25 @@
-# Delegate decision-making
+---
+source_path: H07U8T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d7208f2a6d45e5fc613b7ffc443cc5341d46e8d
+title: H07U8T-PDF-ENG
+---
+## principal in the people advisory services division at Ernst & Young and
 
-One of the biggest challenges of managing a large team is keeping up
+the author of Strategies for Organizational Design. “More often than
 
-with the number of decisions and trade-oﬀs that need to be made, says
+not, managers inherit their teams, and they’re left to try to make do
 
-Gupta. Trying to handle them all on your own can slow everything
+with what they have,” she says. But while the challenges of leading a
 
-down and cause a bottleneck. That’s why you need to “give your team
+large team are real, there are also positives. “When you have a wide
 
-members as much decision-making autonomy as possible,” according
+range of direct reports, you’re not going to be able to micromanage
 
-to McDowell. The key, she says, is to keep the high-stakes decisions
+or get in the weeds,” she says. Instead, you must become a “true
 
-for yourself and delegate the rest. You should still guide and advise
+people manager” and learn to trust your team members to give them
 
-your team members. But giving them the latitude to make their own
+agency and autonomy, “which is a strong driver of engagement and
 
-decisions will not only increase their productivity, but it will also help
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+productivity.” Here’s how to do that.

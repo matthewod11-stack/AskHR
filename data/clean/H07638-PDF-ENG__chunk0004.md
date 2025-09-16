@@ -1,7 +1,15 @@
-# up to par.
+---
+source_path: H07638-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 88307180e1327b45bebea1ef588825dedd1304dc
+title: H07638-PDF-ENG
+---
+## communication between the leader and team members, or some
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+combination of all of these. If your team is underperforming and your
 
-1
+manager is pushing for a turnaround, you may feel at a loss — especially
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+if you feel like you’ve already been giving the team your all. Here’s what
+
+to do if you’re responsible for a team whose work has been deemed not

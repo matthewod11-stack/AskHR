@@ -1,13 +1,19 @@
-# EXTERNAL INNOVATION (Example: M&A)
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40b8866d47276b28f8a29ff08a2d620e0acd837d
+title: R2404K-PDF-ENG
+---
+# Talent
 
-Increased: The product could be lost to a competitor, underperform expectations, or need extensive modifications.
+GROWTH DRIVER MODEL (Example: independent accelerator collaborating with a large corporation and investors)
 
-Increased: Competing bids for an innovative asset raises its price.
+Mediated: Higher-risk products are developed by trusted teams with assurance of fit.
 
-Opportunistic: Innovation depends on opportunism (products that happen to be available), not strategy (products intentionally developed to meet needs).
+Minimized: R&D costs are off balance- sheet, and price is preset below M&A value.
 
-Lacking: Product development can’t be aligned with a company’s sales, manufacturing, and other operational strengths, making product integration time- consuming and inefficient.
+Maximized: Collaboration with the accelerator to develop products fills in portfolio gaps.
 
-Squandered by distraction: The best creative talent wants to build a product, not a company.
+Moderated: Development teams have autonomy, but accelerator teams guide efforts toward the corporation’s needs.
 
-Now we’ll look at how this model worked to kick-start innovation in a
+Mobilized and motivated: Talent can focus on what it does best.

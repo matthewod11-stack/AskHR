@@ -1,7 +1,15 @@
-# 364 Counseling Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c53ce181142b6ec98b58bd9c85f35d429f713855
+title: untitled
+---
+# SUMMARY
 
-training model for professional psychology espoused by the American Psychological Association.
+Perhaps it is most important to know that counseling psy- chology does have a history, one that is embedded in the American experience of the twentieth century that stressed the triumph of turning raw materials into ﬁnished products with precision and efﬁciency. The application of this to the human experience, while a desired goal, was a messier proposition.
 
-Psychotherapy continues to grow as an area of emphasis within counseling psychology, and counseling psychologists have long served as active contributors to theory, research, and practice. The same is true for vocational psychology and career development.
+The genesis of counseling psychology can be found in the vocational guidance movement, a Progressive Era develop- ment that sought to add a humane element to the science of efﬁciency. Its adherents and practitioners saw in the progres- sive ideal a chance for a better and more satisfying life for all people of all ages.
 
-Like any organization or institution, counseling psychol- ogy has molded itself to the demands, challenges, changes, and opportunities of the times. It is interesting to note that as the new century begins, counseling psychology ﬁnds itself deﬁning as a value the priority of multicultural inclusiveness. The template of inclusiveness is now laid over all aspects of counseling psychology research, teaching, training, and service. It is a point of view that expresses a concern for the well-being of all people, a concern much like that of 100 years ago.
+Embracing the applied study of individual difference, these prototypes of the professional psychologist found their calling in the theory and practice of measurement of human abilities, aptitudes, and interests. Their work had applications in all corners of society, especially in those areas concerned with education and rehabilitation. Over time, these coalesced into an identify as a health service profession, aligned with a
+
+363

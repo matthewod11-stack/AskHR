@@ -1,15 +1,17 @@
-## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1602b38b9351e1d210c9f21ce92c6319d40c9d1c
+title: H07ZZW-PDF-ENG
+---
+## rights violations, or just bad customer service.
 
-to trigger libel actions or risk losing ad revenue — so companies
+In the 20th century, public relations was about eﬀective
 
-could largely direct messaging through friendly, predictable channels.
+communication. Mainstream media were concentrated — and reluctant
 
-Today the public crowdsources opinions on where to work and what to
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-buy, and then skeptically compares them to corporations’ own claims. To make matters more diﬃcult, there’s no predictable formula for
+3
 
-determining which mistakes will come back to bite you. Activists often
-
-target the best performers, and two companies can encounter wildly
-
-disparate responses for the same conduct. Reputational risk is less a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

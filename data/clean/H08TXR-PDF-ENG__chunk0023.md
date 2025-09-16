@@ -1,11 +1,13 @@
-# advantage.
+---
+source_path: H08TXR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99d8eb3eac531a49328f9b9827b2b2547f8dea37
+title: H08TXR-PDF-ENG
+---
+# HBR / Digital Article / Avoid These Communication Breakdowns When Launching Stra…
 
-This article was originally published online on August 8, 2025.
+performance. By treating communication leak points as mission-
 
-Andrea Belk Olson is a diﬀerentiation strategist, speaker, author, and customer-centricity expert. She is the CEO of Pragmadik, a behavioral science driven change agency, and has served as an outside consultant for EY and McKinsey. She is the author of 3 books, a 4-time ADDY® award winner, and contributing author for Entrepreneur Magazine, Rotman Management Magazine, Chief Executive Magazine, and Customer Experience Magazine.
+critical vulnerabilities requiring dedicated resources and attention,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+organizations can convert this weakness into a formidable competitive

@@ -1,11 +1,13 @@
-# Astin, A. W., 12 Austin, J. T., 64
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b3f7ec18827512999105de6af5132852fe93ba2f
+title: barrickryan_eds_personality_and_work
+---
+# A
 
-B Bachrach, D. G., 90 Bailey, D. E., 296, 305 Bakan, D., 8, 329 Baker, K. H., 43 Baldwin, T. T., 234, 245 Bandura, A., 60 Banholzer, E., 174 Bannister, B. D., 171 Barbanelli, C., 8 Barenbaum, N. B., 157 Barker, J. R., 186, 190 Barling, J., 127, 153 Baron, J. N., 213 Baron, R. A., 31, 41, 42, 47, 220 Baron, R. M., 71 Barrick, M. R., xii, 11, 38, 50, 60, 61, 63, 64, 66, 67, 68, 69, 71, 72, 73, 74, 84, 85, 98, 103, 104, 105, 136, 154, 183, 184, 186, 189, 192, 193, 194, 195, 196, 197, 230, 237, 262, 270, 271, 279, 291, 293, 294, 303, 304, 305, 306, 309, 326, 329, 334, 337
+Abramson, L. Y., 140 Achee, J. W., 47 Ackerman, P. L., 61, 238, 242, 299,
 
-Barrios, B. A., 243, 247 Barron, K. E., 253 Barry, B., 39, 184, 194, 201, 304, 305,
+301, 311
 
-309
-
-Barsade, S. G., 31 Bassi, L. J., 231, 254 Bateman, T. S., 298
-
-345
+Aditya, R. N., 308 Adkins, C. L., 264 Adler, M. F., 2 Agho, A. O., 169 Agnew, C. R., 206, 211, 224 Ahadi, S., 307 Aiman-Smith, L., 277 Ajzen, I., 62, 160 Albright, L., 279 Allen, N. J., 302 Allen, T. D., 90 Allport, G. W., 1, 2, 5, 157, 190, 328 Almagor, M., 11 Alnaes, R., 175 Ambrose, M. L., 64, 169 Ames, C., 250 Andreasen, N. C., 46 Angleitner, A., 5, 14 Arad, S., 91 Arbuckle, B., 41 Arias, A. V., 252 Arvey, R. D., 302 Ash, R. A., 269 Ash, S. R., 278 Ashford, S. J., 73 Ashforth, B., 127, 262, 277 Ashkanasy, N. M., 302 Ashton, M. C., 7, 9, 15, 312 Ashworth, S., 153, 290

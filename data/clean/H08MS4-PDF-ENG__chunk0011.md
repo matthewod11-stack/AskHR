@@ -1,11 +1,7 @@
-# When Is DEI Communication Legally Risky?
-
-DEI communications create legal risk when a statement suggests that
-
-the organization engages in what we call the “three Ps” by conferring a
-
-preference on a protected group with respect to a palpable beneﬁt.
-
-Let’s go through some examples. By understanding why these examples
-
-create risks, leaders can avoid a wide range of communications traps.
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4301444a99286ad8a06491f9710b95f5db1b0b74
+title: H08MS4-PDF-ENG
+---
+# HBR / Digital Article / The Legal Landscape Around DEI Is Shifting. Your Messaging Sh…

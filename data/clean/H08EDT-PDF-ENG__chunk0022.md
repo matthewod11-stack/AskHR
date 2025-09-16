@@ -1,11 +1,57 @@
-# color.
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 353d58c939379cdf5e85744cc8f33153e0d5338a
+title: H08EDT-PDF-ENG
+---
+# HBR / Digital Article / How Work Has Changed for Women in Corporate America Over t…
 
-While I don’t make the business case for DEI any longer, there are
+innovative. Or, if you are customer focused, talk about how having more
 
-undeniable reasons for why leaders need to stay the course. As Sandberg
+women in leadership can help enhance products geared to women.”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Creating allyship opportunities for men
 
-6
+Because they still comprise the majority of leadership positions, it’s
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+critical for male employees to participate in advancing their women
+
+colleagues. Organizations should consider sponsoring allyship groups
+
+in the same way they sponsor other ERGs. These allyship groups often
+
+provide camaraderie and a structured way for men and other allies to
+
+participate. Employer-sponsored groups signal that allyship is aligned
+
+with company priorities, which can help motivate men to get involved.
+
+Providing beneﬁts that support parents, caregivers, and employees facing health issues
+
+There’s been a signiﬁcant improvement in company beneﬁts that
+
+support a vast swath of employees over the past decade. From extended
+
+parental leave to backup childcare and increased ﬂexibility, employer
+
+beneﬁts are linked to higher rates of happiness and better employee
+
+retention. While beneﬁcial to all, they’re especially helpful to women,
+
+who are more likely to have caregiving responsibilities.
+
+. . .
+
+Without a doubt, we cannot back down from the DEI progress that’s
+
+been made in the past 10 years. It’s especially concerning to see
+
+company commitments lessening on gender and racial equity precisely
+
+when we need them the most. I’ve been heartened to see some forward-
+
+thinking leaders and organizations continuing (and in some cases
+
+even increasing) their commitments. But we truly need everyone to be
+
+involved, particularly as we know progress is still slow for women of

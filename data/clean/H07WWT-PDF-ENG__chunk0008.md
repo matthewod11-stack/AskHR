@@ -1,17 +1,13 @@
-## HBR / Digital Article / How to Prepare for the Deluge of Year-End Requests
+---
+source_path: H07WWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 449b3f54ae3b5b2fab5725f7d2dc6b52c96c77c7
+title: H07WWT-PDF-ENG
+---
+# this year?”
 
-- “Typically our performance reviews are due December 15, but I haven’t
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-seen any of the usual tools shared yet. Who could I check with to
+2
 
-conﬁrm this year’s timing so my team is prepared?”
-
-While it’s frustrating, there could be an understandable reason behind
-
-a last-minute request. Research from Columbia Medical School suggests
-
-that our brains can forget what happened in the past in an eﬀort to
-
-make room for the information we need each day. Plus, with increased
-
-turnover of recent years, your leaders or coworkers may not have been
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

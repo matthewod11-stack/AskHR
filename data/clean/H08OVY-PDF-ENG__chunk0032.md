@@ -1,7 +1,11 @@
-# undermining.
+---
+source_path: H08OVY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17ba02ce9233eff2c2b513188760fc4a48058dd4
+title: H08OVY-PDF-ENG
+---
+# Don’t
 
-- Dig in your heels for the sake of it; stand ﬁrm but be open to
+- React impulsively if your boss gets defensive; take a pause to
 
-alternatives and willing to ﬁnd a middle ground
-
-- Rub it in if you’re right and your boss didn’t listen; let them learn from
+ground yourself and calmly frame your feedback as supportive, not

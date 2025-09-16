@@ -1,13 +1,11 @@
-# than its underlying causes.
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 945300d6f6f25d571a079f2f348543f6d30943ab
+title: H07BT4-PDF-ENG
+---
+## beyond periodic skip-level meetings, climate surveys, or manager
 
-Lever, a small HR software organization selling talent acquisition
+feedback. These standard approaches can often lead to misdiagnosis,
 
-solutions, undertook a co-investigation alongside sellers to increase
-
-engagement and curb attrition. Their comprehensive diagnostic
-
-approach is credited with a reduction in seller attrition, down from
-
-double digits to only 3% year to date. Their work highlighted four
-
-essential steps in eﬀectively understanding and solving unique sources
+encouraging leaders to treat the surface level symptoms of drag rather

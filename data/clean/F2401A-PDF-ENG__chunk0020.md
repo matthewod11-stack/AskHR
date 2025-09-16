@@ -1,13 +1,17 @@
-# freedom.”
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e900a49693c4d6447567ef2bf1b81debb2a398a
+title: F2401A-PDF-ENG
+---
+## HBR / Magazine Article / Lessons from Large Family Firms About Choosing a CEO
 
-The study’s ﬁndings hold lessons for investors as well. When a family
+frequently as their nonfamily counterparts did. “Family members and
 
-ﬁrm brings in an outside CEO, the market pays a premium, the
+long-serving directors know their new leaders thoroughly,” explains
 
-researchers found—but that’s not justiﬁed, given that insider CEOs in
+Egon Zehnder consultant and coresearcher Sonny Iqbal. “They’ve been
 
-large family ﬁrms do just as well. In addition, “the stable cash-ﬂow
+watching them constantly regardless of time served on the board.
 
-performance in large family ﬁrms makes them worth about 13% more
-
-than comparable nonfamily ﬁrms,” says coresearcher Carrie Green, the
+So they really trust them and are willing to give them considerable

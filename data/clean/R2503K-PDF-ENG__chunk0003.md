@@ -1,1 +1,19 @@
-## in Shanghai and Dubai but also of immigrant talent in Copenhagen and
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bfdd2d723476a7e221a10ff37ea0ae9dfcb3f0fd
+title: R2503K-PDF-ENG
+---
+## Dechen Phodrang Monastery, Thimphu, Bhutan James Mollison
+
+Western managers who are charged with leading global teams face a
+
+trap. Their expertise and training usually have their roots in Western,
+
+individualistic contexts, steeping them in ideals such as autonomy,
+
+empowerment, egalitarianism, and authenticity. Yet according to the
+
+GLOBE Leadership Studies, 70% of the world’s workforce is collectivist
+
+and hierarchical. These values are characteristic not only of employees

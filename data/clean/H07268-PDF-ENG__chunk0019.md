@@ -1,15 +1,27 @@
-## professional development tools, but also to the informal processes that
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c882f61a4ab5a5e54b6a7cc8840a84d06df2d0ae
+title: H07268-PDF-ENG
+---
+# structures as well.
 
-are critical for growth.
+- 2. Ensure access to informal career development resources.
 
-- 3. Reframe politics positively.
+Many organizations aim to foster diversity and inclusion through
 
-In our interviews, we repeatedly heard from employees that they felt
+formal talent development programs. However, this approach doesn’t
 
-it would be distasteful, perhaps even morally repugnant, to engage in
+help when it comes to the informal, unoﬃcial interactions that drive
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+oﬃce politics. Indeed, in our prior research, we found that successful
 
-5
+career growth requires a mix of both formal and informal resources,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and minority employees typically have less access to vital informal
+
+resources. To close this gap, organizations should provide mechanisms
+
+such as mentorship, sponsorship, and support networks to ensure
+
+women and ethnic minority employees have access not only to formal

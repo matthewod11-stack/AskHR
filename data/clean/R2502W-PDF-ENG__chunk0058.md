@@ -1,45 +1,27 @@
-# experiences for their clients.
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5e38f6a0ba33764d23d1a7d713c373b3095f0c8
+title: R2502W-PDF-ENG
+---
+## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
 
-- 2. Which types of expertise that we currently possess will need
+We believe that every company will need to reevaluate its strategy in
 
-to evolve most if we are to remain ahead of AI’s capabilities?
+this changing era and will have to ask itself three questions.
 
-Companies must continue to develop their unique expertise to
+- 1. Which aspects of the problem we now solve for customers will
 
-provide value beyond what AI provides. For example, in the medical
+customers use AI to solve themselves? Consider the work of travel
 
-ﬁeld AI can in some cases perform image-based diagnoses more accurately than physicians can. As doctors’ oﬃces enter this new age,
+agents. For many years customers have been able to ﬁnd information
 
-they will need to acquire nontechnical capabilities, such as empathy,
+about travel destinations and book reservations online. Now they can
 
-caregiving, and working collaboratively with a team of healthcare
+simply consult AI apps to create tailored travel itineraries based on
 
-professionals to design the right course of treatment for a patient.
+their unique preferences. As AI’s ability to take action improves, it
 
-- 3. Which assets can we build or augment to enhance our ability to
+will be able to make reservations as well. Travel agents will need
 
-stay competitive as AI advances? As AI comes to oﬀer a broader
-
-range of expertise, companies will need to look to other sources
-
-of durable advantage. Those that AI is currently unlikely to aﬀect
-
-include brands, customer relationships, ownership of scarce physical
-
-assets, and network eﬀects. For example, a consumer-product
-
-designer can now use AI to create new prototype designs to meet
-
-certain speciﬁcations. The designs are informed by the quality and
-
-nuance of the speciﬁcations, which will have been shaped by more
-
-in-depth and insightfully designed customer research. The ability
-
-to gather that research may eventually become more diﬀerentiating
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to reinvent themselves—perhaps by organizing unique events and

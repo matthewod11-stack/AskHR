@@ -1,13 +1,13 @@
-# lightly.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 2db2a36aad171ac6def42238e76c47aa98e5a400
+title: california_state_university_northridge_1
+---
+# in the
 
-15
+workplace. Also, stricter requirements were placed on an employer with 15 employees or
 
-Due to a large settlement under emotional distress, the plaintiff which prevailed,
+more are required them to adopt a policy by a specific date. Based on these requirements, it
 
-received a large amount of money that the IRS was not able to acquire the appropriate taxes
-
-due therefore, an adjustment to the tax code was required. Mr. Rosenfeld states that
-
-President Bill Clinton passed the Small Business Job Protection Act of 1996, which amended
-
-the IRS code so that taxes could be collected on emotional distress, punitive damages to be
+can be detennin.e the state of Massachusetts does not take the issue of sexual J:1arassment

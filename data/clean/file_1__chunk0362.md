@@ -1,11 +1,11 @@
-# Personnel Review, 38 (1), 26-44.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 13769b4e37c1bb44c7965db31336e399efcc2452
+title: file_1
+---
+# Sociological Review, 42, 491-504.
 
-Salmi, M. and J. Lammi-Taskula, 1999. Parental leave in Finland. In P. Moss and F. Deven, eds, Parental Leave. The Hague, Brussels: NIKI/ CBGS Publications, 85-122.
+Rosette, A. and L. Thompson, 2005. The camouflage effect: separating achieved status and unearned privilege in organizations. Research on Managing Groups and Teams, 7, 259-281.
 
-Sen, A., 1995. Inequality Reexamined. Oxford: Oxford University Press.
-
-Shapiro, D. and B. Kirkman, 2001. Anticipatory injustice: The consequences of expecting
-
-injustice in the workplace. In J. Greenberg and R. Cropanzano, eds, Advances in organizational justice. Lexington, MA: New Lexington, 152-178.
-
-Shunfeng, S. and C. Aimin, 2006. China's rural economy after WTO: problems and
+Salin, D., 2009. Organizational responses to workplace harassment: an exploratory study.

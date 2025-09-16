@@ -1,29 +1,11 @@
-# disruption of ongoing practices.
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9fdc46351756b37c78cee730f6584adb85cedee
+title: S24012-PDF-ENG
+---
+## HBR / Spotlight Article / Leaders Must React
 
-CEOs must learn not to get distracted or drawn in by noise. They
+stakeholders, and ﬂare-ups of human emotions fall into this category.
 
-should trust their organizations to handle these events and try to
-
-resolve to treat them as routine. Although it’s best for leaders to avoid
-
-getting personally engaged, they will beneﬁt from adopting the motto
-
-“Trust but verify.” Even with seemingly trivial matters, they must
-
-ensure that anomalies don’t go unnoticed. By occasionally checking
-
-that the organization is responding appropriately, leaders can prevent
-
-problems from being neglected and becoming bigger headaches. That
-
-might involve periodically tuning in to customer feedback, reviewing
-
-employee sentiments on platforms like Glassdoor, or ﬁnding other ways
-
-to take the pulse of the organization.
-
-Clarion calls: Signiﬁcant issues likely to remain signiﬁcant.
-
-The leader’s task: Be all-in.
-
-Occasionally, events and problems that can have a huge impact on an
+Most of these things don’t warrant the leader’s intervention or any

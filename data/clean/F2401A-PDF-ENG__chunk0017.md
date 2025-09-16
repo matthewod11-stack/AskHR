@@ -1,17 +1,15 @@
-## sharply after the ﬁrst few and virtually disappears after about a
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: acd28f895db7b038236ab7683806294c4600c5be
+title: F2401A-PDF-ENG
+---
+## Don’t obsess about formal planning and documentation. More
 
-dozen. “You can put on a show and generate an inﬁnite number
+important than amassing large numbers of candidates and carefully
 
-of candidates,” says coresearcher Greg Nagel, a professor at Middle
+documenting your plans—the approach taken by most nonfamily public
 
-Tennessee State University. “But it doesn’t result in better outcomes.”
+companies—is doubling down on the rigor of your assessments. Prior
 
-In fact, the more that large family ﬁrms engaged in sweeping searches
-
-and communicated about them to their shareholders, the worse their
-
-subsequent cash-ﬂow performance was.
-
-Empower new leaders from the start. It’s not just that large family ﬁrms
-
-appoint more-competent CEOs; they do more to support their eﬀorts
+studies have shown that the value of additional prospects declines

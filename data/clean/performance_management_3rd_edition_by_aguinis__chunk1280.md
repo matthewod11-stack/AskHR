@@ -1,1 +1,15 @@
-## 7.4 TRAINING PROGRAMS FOR THE ACQUISITION
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 42454b77f935b8fc22176aaac30c834d4aba1af0
+title: performance_management_3rd_edition_by_aguinis
+---
+# Box 7.1 (Continued)
+
+Any member may be designated as Panel Leader. The Panel determines what information is needed. The involved parties must provide the information requested by the Panel.
+
+The Panel Leader notifies the employee and the department head in writing of the hearing date and location. Every effort must be made to arrange for a timely hearing. The Level B hearing is confidential. It is not open to the media or other persons whose attendance is not approved in advance by the Panel Leader. The employee, the department head, and supervisors involved in the performance review are allowed to appear in person at the hearing. However, any party may elect not to appear and to have the Panel’s Level B recommendation based only on documentation presented to the Panel. The chair must receive advance notification if anyone other than the employee and department head is to provide information to the Review Board. The employee and management must request approval in advance for witnesses to address the Panel. Only witnesses approved in advance may appear at the hearing.
+
+After the hearing, the Panel decides whether additional information is needed. Any informa- tion requested and received after the hearing is shared with the employee and the department head. After considering all of the information presented, the Panel makes its recommendation by majority vote and submits its written recommendation through the Board Chair to the Chancellor. The Chancellor either accepts, modifies, or rejects the Panel’s recommendation and issues the University decision within 15 calendar days of receiving the Panel recommendation. If the Chancellor rejects the Panel recommendation, the written decision will state the reason(s) for rejection. The Chancellor sends the written decision to the employee.
+
+Source: Performance management appeals process. Available online at http://hr.unc.edu/Data/SPA/perfmgt/ perf-appeal. Retrieval date: March 12, 2007.

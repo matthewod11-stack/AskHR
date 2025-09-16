@@ -1,15 +1,17 @@
-## the begiiuring to the end of the employment relationship.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 2f9d7da069b5c5a52d134e106e4c0504901f101e
+title: california_state_university_northridge_1
+---
+# Commission.
 
-72
+1.1. When dealing with hiring and firing get everything in writing. "Many
 
-1.2. When recruiting and hiring beware of language used in your
+oral agreements are enforceable" (Bordwin, 1998, p. 51 ). Keep in
 
-advertisement. Also be cognizant of any protected class under federal
+mind that juries are comprised mostly of employees as opposed to
 
-and state statutes. In regard to gender-segregated ads, avoid them,
+employers. These juries can have sympathy for an employee bring suit
 
-unless they are a bona fide occupational qualification (BFOQ).
-
-1.3.
-
-If you are an at-will employer, do not use words such as "permanent"
+against the employer. Therefore, written records are essentiaL from

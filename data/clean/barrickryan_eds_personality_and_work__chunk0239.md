@@ -1,1 +1,13 @@
-## INFLUENCES ON TRAIT-BEHAVIOR RELATIONSHIPS 71
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f3259eaee54bb9168cf539f599be56deea084b66
+title: barrickryan_eds_personality_and_work
+---
+# 70 PERSONALITY AND WORK
+
+relationships (the informal peer system). Similarly, at the organi- zational level, several dimensions of work design have been iden- tiﬁed, but empirical research shows that many of them can be summarized by two parameters: (1) coordination or structuring of activities and (2) concentration of authority or interdependence among workers and managers (Pugh & Hickson, 1997). Thus, both individual- and organizational-level literatures on work design un- derscore the importance of determining how tasks are coordinated and controlled. These theories also assess the extent to which em- ployees depend on each other for information, materials, and rec- iprocal inputs.
+
+Ultimately, how the organization addresses the fundamental is- sues of coordination and control at work will have a substantive im- pact on the social dynamics of that work setting. One dimension along which the social aspects of work settings differ is how the ﬁrm structures the cooperative and competitive demands and op- portunities in the organization. For example, an organization may design the job of marketing specialist so that employees work in a team that requires extensive interdependence to develop market- ing campaigns. In another ﬁrm, the marketing specialist job may be designed to work independently of others. Furthermore, this organization may encourage multiple marketing specialists to vie for limited incentives or resources by making them available only to employees who have their marketing campaigns adopted by a customer. Thus, these two work settings will fundamentally differ in their cooperative and competitive social demands.
+
+The importance of cooperative and competitive demands is supported by research that reveals that social aspects of work are psychologically meaningful to employees. How we see ourselves is substantially inﬂuenced by how we are deﬁned in relation to oth- ers in the larger organization or society (Markus & Kitayama, 1991). Furthermore, Hogan (1996) argues that socioanalytic the- ory, which is based on an evolutionary perspective, identiﬁes two critical social dimensions that people pursue. These dimensions address how individuals strive toward getting along with others (cooperation) and getting ahead of others (competition). People are thus predisposed to distinguish work settings according to the cooperative and competitive demands and opportunities of the sit- uation. We propose that these distinctions will systematically affect

@@ -1,35 +1,37 @@
-## in relation to other employees in the company.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 3823aebbac4a51cdbe035ea4eef625ca64f1d5f3
+title: california_state_university_northridge_1
+---
+## knowledge of correct approach by front line managers.
 
-Another piece of important information contained in an employee handbook, is
+In order to educate managers
 
-discipline procedures and the evaluation process. The University Student Union has its
+and supervisors in both workplaces, the executive management had those persons trained
 
-discipline procedure outlined in a step-by-step format. At the same time, there is a
+in the areas of disciplinary action and the process of termination. For example, in one of
 
-staterr..ent that any of these steps can be superseded, based on the severity· of the action.
+the workplace, store mangers had to learn about the union contract and the process of
 
-2
+arbitration, when applicable. In the following chapters the Case Study of Wrongful
 
-In addition, the Grievance Procedures, can be utilized by an employee has ifhe or she feels
+Termination procedures will be analyzed.
 
-they have been treated unfairly.
+In chapter two, the focal point is the employee handbook. An employee handbook
 
-In this section, court cases involving employee handbooks are presented, where an
+can serve as an instrumental guide in introducing new employees to the corporate culture
 
-employee brought the employer to court based on the contents of the handbook, for
+and giving an overview of key material that an employee will find useful. For example,
 
-failure to comply with specified steps. The landmark case of Toussaint vs. Blue Cross
+issues dealing with overtime for hourly employees are effective at the start of the year.
 
-and Blue Shield of Michigan (1980) will address how the employer failed to comply with
+Overtime will be calculated by a new method that is any time after the eight hour shall be
 
-their own disciplinary action. In addition, another case involving Hoffinan-La Roche, Inc.,
+overtime_ Prior to this new method, overtime pay did not start until the completion of 40
 
-a pharmaceutical firm, spelled out the reasons an employee could be terminated. In this
+hours. This new law just passed the California state legislature this summer. Hourly
 
-situation, the employee termination did not fall under one of the stated causes; therefore,
+employees would find this piece of information valuable, as it may make a difference in
 
-the termination was considered wrongful. These two cases presented here, demonstrate
-
-the negative impact an employee handbook can have on a business, if there is deviation
-
-from a format. The next logical approach would be to look at what the law says about
+their paychecks. Yet another topic to be included is, classification of an employee status,

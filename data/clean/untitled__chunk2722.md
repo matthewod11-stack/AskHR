@@ -1,11 +1,11 @@
-# ACTIVISM IN APA
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c15d3c3a78bad7afc81d114a4df0270594cae18a
+title: untitled
+---
+# 500 Ethnic Minorities
 
-It was 1963 when formal awareness of the relevance of ethnic issues led to any active movement. APA Division 9, Society for the Psychological Study of Social Issues, presented a pro- posal to the American Psychological Association to study problems encountered in education and employment associ- ated with race. In response, APA formed the Ad Hoc Com- mittee on Equality of Opportunity in Psychology.
+Efrain Sanchez-Hidalgo was the ﬁrst Puerto Rican receiving a doctorate, while in 1962 Martha Bernal was the ﬁrst Mexican American woman awarded the PhD degree.
 
-Soon after, in 1963, the Association of Black Psycholo- gists (ABPsi) was formed at the APA Convention in San Francisco, a group which then presented a Petition of Concerns to the APA Council of Representatives. This set of concerns covered the limited number of African American psychologists and students in the profession, APA’s failure to address social problems and racism, and the underrepresenta- tion ofAfricanAmericans in theAPAgovernance.
-
-A slow series of actions by APA followed such pressures from activists. APA and ABPsi organized a Black Visiting Scientist program, and APA established the Commission for Accelerating Black Participation in Psychology. By 1973, the importance of systematic attention to ethnic education and training was recognized at the Vail Conference, with the recommendation that an ofﬁce and board on ethnic minority affairs be formed within APA. This same recommendation was repeated in 1978 at the Dulles Conference. An Ad Hoc Committee on Ethnic Minority Affairs (CEMA) was formed that year and the APA Ofﬁce of Ethnic Minority Affairs staffed the next year. In 1980, the CEMA was elevated to the status of Board of Ethnic Minority Affairs. (In 1996, CEMA was reinstituted as a continuing committee of the Board for the Advancement of Psychology in the Public Interest.)
-
-Two other events deserve mention as part of the gradual changes withinAPA. TheAPAMinority Fellowship Program was funded in 1974 by NIMH to provide fellowships for mi- nority graduate students. This Fellowship has continued into 2001 and has been one of the most successful sources for sup-
-
-porting minority graduate students.Also in 1986, Division 45 was ofﬁcially approved as the Society for the Psychological Study of Ethnic Minority Issues. This Division has become a major home for many ethnic minority psychologists, and pro- vides positions in its executive committee and ofﬁcers for minorities to serve.
+Within the American Psychological Association, although a woman was elected in early years as president (Mary Calkins was the 14th president), it took nearly 80 years for the ﬁrst ethnic minority to be so elected. Kenneth B. Clark served as president in 1971. Another 15 years was to pass before the next ethnic psychologist would become APA president—Logan Wright. Over a decade later, the author was elected to the APA presidency.

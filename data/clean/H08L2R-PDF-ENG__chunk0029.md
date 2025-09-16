@@ -1,15 +1,17 @@
-# stakeholders.
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b13783fb34b3e984b946d054c7b9f922f0faaa7b
+title: H08L2R-PDF-ENG
+---
+## ask for my feedback before the next step.
 
-[Step 3] Gen AI creates a table with four columns: stakeholders, their
+[Step 1] Gen AI asks the manager to share the problem and the list of
 
-specific needs, unresolved pain points, and associated root causes.
+external stakeholders that need to be involved to solve it, explaining
 
-The manager provides feedback and validates the table.
+why the company alone cannot tackle it
 
-[Step 4] Gen AI asks the manager to select the three most critical
+[Step 2] Gen AI suggests three other stakeholders that are overlooked.
 
-stakeholders. Then, it suggests three red flags and mitigation actions
-
-for each stakeholder. The manager provides feedback.
-
-[Step 5] Gen AI suggests three immediate next steps to initiate
+The manager provides feedback and validates the revised list of

@@ -1,15 +1,11 @@
-## HERZBERG’S MOTIVATION THEORY IN WORKPLACE
+---
+source_path: microsoft_word_9_herzberg_s_motivation_theory_in_workplace.md
+pages: n/a-n/a
+chunk_id: 2cb1c3d9dab81535f74c1699f72ead75241224dd
+title: microsoft_word_9_herzberg_s_motivation_theory_in_workplace
+---
+# Conclusion
 
-performance. On the other hand, understanding individual goals, combined with broader skills and abilities, can lead to greater opportunities. Therefore, individuals must be seen as valuable to organizations and capable of
+Managers understand that staff demotivators can often be related to issues other than work itself, the
 
-acquiring new skills useful for the future. Improving their skills and increasing the knowledge of employees will,
-
-in the long run, increase the value of an organization's human resources. More importantly, it can lead to greater
-
-staff engagement, understanding and commitment.
-
-Consequently, the theory is directly applicable to the wider field of work and plays a very important role,
-
-especially in relation to motivation. On the other hand, it is not possible to get absolute results by simply applying
-
-the theory of motivation, since there are other key factors that may influence this theory.
+resolution of which can lead to improved staff motivation, greater job satisfaction and improved organizational

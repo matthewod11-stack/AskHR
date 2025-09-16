@@ -1,7 +1,7 @@
-# Part III • Employee Development
-
-item; however, you didn’t complete all of the tasks associated with closing a sale. In the training last week, we discussed the importance of adding on additional sales, entering the customer’s personal contact information in our computer, and letting them know about upcoming sales.
-
-MATT:
-
-Yes, I just remembered us talking about that. When customers seem in a hurry, I feel bad about asking them additional questions.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 378de6b0d055d4cf9718f84a3cde25c3143c7601
+title: performance_management_3rd_edition_by_aguinis
+---
+# 242

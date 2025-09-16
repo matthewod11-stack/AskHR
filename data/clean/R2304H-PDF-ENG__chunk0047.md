@@ -1,7 +1,27 @@
-## an emotional connection with the La Fageda brand.
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce99d29dac0be1da9170299b1b6645b2ba8ffa19
+title: R2304H-PDF-ENG
+---
+## disabilities or suﬀer from mental illness (many of whom might
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+otherwise be in psychiatric hospitals), paying them standard salaries.
 
-10
+By buying the cooperative’s products and services, customers will
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+help these people have productive and meaningful lives. However,
+
+supermarket consumers may not know about La Fageda’s workers.
+
+To address that problem, the cooperative opened a visitors’ center,
+
+which, given its location in an area of natural beauty, attracts more
+
+than 40,000 visitors a year. “That is the best marketing we have,”
+
+commented founder Cristóbal Colón. “People go away not just liking
+
+the yogurt but also—after seeing the forest, the cows listening to their
+
+music, and the workers doing their jobs—as apostles.” People develop

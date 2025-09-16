@@ -1,19 +1,7 @@
-## Organizational Strategies for Innovation or Imitation
-
-Once an organization has decided whether to compete through
-
-innovation or imitation, how can they enact their new strategic focus?
-
-While countless mechanisms are available, we concentrate on the
-
-most common and consequential: shaping organizational structure,
-
-recruiting or upskilling talent, codifying routines, and calibrating the
-
-timing of investment behind the chosen approach. The guidance distills
-
-lessons from decades of research—including our own—and patterns we
-
-see repeatedly in practice. Although every ﬁrm operates in a unique
-
-context, we oﬀer a pragmatic starting point for leaders looking to
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80d6e3b32aa440d676f30005ae25facd93dcc723
+title: H08T9I-PDF-ENG
+---
+## HBR / Digital Article / When to Innovate and When to Imitate

@@ -1,19 +1,23 @@
-## Step 4: Establish process-performance measures and targets. The
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4e9218aca30a13b52c86eb50e784eab0a6f3310
+title: S25011-PDF-ENG
+---
+## HBR / Spotlight / How to Marry Process Management and AI
 
-next step is to deﬁne and put in place the metrics you need to
+millions of dollars. Now the company is using process mining (from the
 
-manage the revised process. For OTC, end-to-end cycle times (how
+vendor Celonis) across nine more processes, including broad end-to-end
 
-long it takes from the placement of an order to the receipt of payment), customer satisfaction, data accuracy, and process eﬃciency
+ones like OTC. Some activities, including the creation of messages to
 
-are especially important. Companies should also determine what
+customers on overdue receivables, have been automated within these
 
-level of improvement to the existing process is needed. During the
+processes. AI was used to identify the biggest problems to address, such
 
-reengineering movement, 10-fold improvements were often sought,
+as an initial 30% order-rejection rate when PepsiCo installed a new SAP
 
-but with the lean and Six Sigma methodologies, goals became much
+system. Thanks to process mining with AI, the rejection rate dropped to
 
-more incremental. Instead of setting arbitrarily large or small goals,
-
-companies should base targets on what is needed and what seems
+4%.

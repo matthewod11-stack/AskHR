@@ -1,11 +1,7 @@
-## At Novo Nordisk, Head of Global Learning & Development Sanne
-
-Mantoni Macaire’s team focuses on “the most important enterprise
-
-skills and mindsets.” For example, one program, focused on
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 199ca601a994a3fcce0ffd5d714777da26d33ae2
+title: H08JKA-PDF-ENG
+---
+# move quickly in a new direction.

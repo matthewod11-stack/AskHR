@@ -1,11 +1,11 @@
-# common factors.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 34f7344b82d9577ca0b2c5f98f11a2c3a3732164
+title: H07WED-PDF-ENG
+---
+## Why Project Managers Get Stuck at the Gantt Ceiling
 
-Clear trajectory versus conﬁned path.
+Despite possessing valuable skills and competencies, a project
 
-As seen in the previous section, CEOs have a more straightforward
-
-trajectory than project managers. Their career path emphasizes speciﬁc
-
-expertise that also resonates with the organization’s broader needs,
-
-giving these candidates an unbeatable advantage.
+manager’s career shift toward an executive role is hindered by four

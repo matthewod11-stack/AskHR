@@ -1,25 +1,13 @@
-# book on the topic.
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e9f01a6b439ac67d8733751552d3943b3c07552
+title: H08T4Z-PDF-ENG
+---
+## HBR / Digital Article / How to Know When to Pursue Your Side Gig Full-Time
 
-While there is no one-size-ﬁts all answer, our work with executives and
+It’s a question we’ve researched, consulted on—and considered deeply
 
-leaders who’ve successfully made the leap highlights ﬁve questions to
+before making the leap ourselves. Our business, Category Pirates, has begun oﬀering coursework and publishing a newsletter that focuses on
 
-determine if you are ready to jump.
-
-Can cash flow from your side hustle sustainably exceed your main hustle?
-
-Ideally you have a sustained track record of doing this, but your side
-
-hustle trajectory, pricing power, scalability, and word of mouth can
-
-help you make the leap a bit earlier. A strong trajectory can be enough
-
-to estimate the potential of your side hustle if you gave it your full
-
-attention and time. Your side hustle must have pricing power, which is
-
-the most truthful signal of demand. New automation tools like Zapier
-
-can help you scale your side hustle without just adding time or labor
-
-since how you sell (your business model) matters more than what you sell (your oﬀer). Finally, your side hustle must generate word of mouth
+this pivotal decision, and we’re currently in the ﬁnal stages of writing a

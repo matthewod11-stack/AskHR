@@ -1,15 +1,19 @@
-## on markets to access expertise far broader and deeper than what
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42d1456aed9eb4fa0ba690a3abf24b49a8f1cead
+title: R2502W-PDF-ENG
+---
+## operations. In recent years, however, the trend toward ever-expanding
 
-could practically exist within a single entity. Those that use third-party
+operational scope has reversed as the breadth and level of expertise
 
-business and technology platform services have been able to narrow the
+needed to remain competitive has continued to grow.
 
-scope of their in-house expertise, allowing internal resources to focus on
+Friedrich Hayek, a contemporary of Coase’s, believed that markets and
 
-the areas that drive their competitive diﬀerentiation.
+price systems would be more eﬀective than companies at accessing
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+and managing dispersed knowledge in society. Since the 1980s several
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+technological innovations have led companies to rely more and more

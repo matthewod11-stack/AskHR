@@ -1,3 +1,13 @@
-# Table 2.14
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: aa0bfe1d9ee0df41b70ab06f2d3402e926da2288
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Determining a Sex and Race Equity
 
-Trends of salary level of women as a percentage of men's salaries and minorities as a percentage of white’s salaries
+In addition to analyses of internal and external equity, pay audits should also be con- ducted to ensure that employees are not paid diﬀ erently on the basis of gender or race. For organizations with  or more employees and federal contracts in excess of $,, compensation analyses are mandatory each year. Th e Oﬃ ce of Federal Con- tract Compliance Programs (OFCCP) monitors these analyses to ensure that they are conducted and that contractors are not discriminating on the basis of pay. Two types of audits should be conducted: one that looks at pay rates of employees within posi- tions with identical duties (equal pay for equal work) and a second that looks at pay rates of employees in jobs of similar worth and responsibility (comparable worth).
+
+Th is second type of analysis is normally conducted by comparing jobs with similar worth (salary grade) and responsibility (job family). Th e OFCCP calls such groups, similarly situated employee groupings (SSEGs).
+
+Comparable worth is an issue very much related to the discussion of job evaluation. Comparable worth is often in the news because some groups claim that female workers are paid less than male workers. Th is perception of pay ineq- uity stems from the statistic that, on average, female workers in  made only .% of what male workers were paid. On average, African American workers (.%) and Hispanics (.%) made less than Whites. As shown in Table ., the pay gap, which was narrowing for many years, seems to have stagnated at approximately % for women and African Americans and % for Hispanics. Interestingly, Asians make more money than do the other ethnic and racial groups, a gap that is widening each year.

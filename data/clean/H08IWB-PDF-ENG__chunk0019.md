@@ -1,15 +1,13 @@
-## an essential part of personal and career development.
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03138e256f7f40d6d9e502e5b846f388640dd751
+title: H08IWB-PDF-ENG
+---
+# retention.
 
-. . .
+Mentoring activity — whether as mentor and mentee — should be
 
-Transforming your organization’s mentoring program into a powerful
+encouraged within individuals’ workﬂow and recognized in appraisals.
 
-tool for employee retention requires more than just setting up
-
-the framework. It involves strategically communicating eﬀectively,
-
-leveraging storytelling, engaging senior leaders, and expanding access.
-
-By implementing these strategies, companies can bridge the gap
-
-between potential and performance, leading to higher employee
+The narrative needs to move from mentoring is a “nice to have” to being

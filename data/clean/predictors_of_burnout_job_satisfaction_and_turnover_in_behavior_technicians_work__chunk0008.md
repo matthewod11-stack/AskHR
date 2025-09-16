@@ -1,5 +1,11 @@
-# Rev J Autism Dev Disord (2019) 6:413–421
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 14224693a1aade06a5ce4e93a773ba0d79db276c
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Methods
 
-factors associated with retention, turnover, burnout, and job satisfaction in behavior technicians.
+The databases PsycINFO and PubMed were searched. Results were limited to peer-reviewed articles with a publication year of 2000 or later. A combination of the following terms was used in the searches: Bautism,^ BAsperger’s,^ Bpervasive de- velopmental disorder,^ Btherapists,^ Btechnicians,^ Bparaprofessionals,^ Btutors,^ Bstaff,^ Bdirect care,^ Bretention,^ Bturnover,^ Bburnout,^ and Bjob satisfaction.^
 
-Interobserver agreement (IOA) data were collected for study inclusion. The authors independently followed the pro- cedures discussed previously for study inclusion. Percentage of agreement was calculated by dividing the total number of agreements by the total number of agreements plus disagree- ments and multiplying by 100 (Kazdin 1982). IOA for study inclusion was 96.9% (i.e., the authors disagreed on one arti- cle). The disagreement was discussed and resolved. Procedures were also in place to verify the data collected from the included studies. One author extracted data from the stud- ies (i.e., sample size, setting, methods, dependent variables and measures, independent variables found to be significant, independent variables found to be insignificant). The second author reviewed and verified the extracted data. Any disagree- ments between the authors were resolved via discussion.
+The titles and abstracts of articles were initially reviewed for relevancy. The methods of relevant articles were reviewed and the article was included if the following criteria were met: (a) was a research study; (b) participants included behavior technicians providing ABA to individuals with ASD; and (c) retention, turnover, burnout, or job satisfaction was a depen- dent variable. While these procedures may not have produced an exhaustive review, findings should be representative of

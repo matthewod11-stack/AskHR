@@ -1,13 +1,11 @@
-## relevant and actionable insights for her strategic planning.
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0569da10217bb50fdaebee9e4797a04c01920656
+title: H08DO8-PDF-ENG
+---
+## provide more industry-speciﬁc and up-to-date suggestions for land-
 
-. . .
+use alternatives, incorporating recent innovations in sustainable burial
 
-While gen AI oﬀers signiﬁcant advantages, it’s crucial that you
-
-recognize its limitations for strategic planning. These come from the
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+practices and local regulatory changes. Thus, Angeline would have more

@@ -1,25 +1,45 @@
-# organizations.
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f9b34d3d23f78e0087739eb1a8403756524ffb5f
+title: R2305F-PDF-ENG
+---
+## HBR / Magazine Article / When Diversity Meets Feedback
 
-But there’s another movement in business that has increasingly gained
+The hedge fund billionaire and Bridgewater founder Ray Dalio went
 
-steam: diversity, equity, and inclusion. Bolstered by the Black Lives
+a step further in his book Principles, describing a culture of “radical
 
-Matter and #MeToo movements, DEI is perhaps the most overarching
+transparency,” in which employees rate and give feedback about one
 
-organizational culture trend of the decade. Today every single Fortune
+another’s contributions to meetings on publicly shared documents as
 
-100 company cites DEI as a key priority on its website.
+the meetings actually take place. And in his 2020 book No Rules Rules
 
-At ﬁrst glance, DEI seems compatible with a culture of honest feedback.
+(which I coauthored), Reed Hastings, Netﬂix’s founder and executive
 
-The more diverse the workforce, the more beneﬁcial it is to hear
+chairman, lists candid feedback as one of the top three ingredients of an
 
-everyone’s opinions, and the more we all succeed. When Satya Nadella
+innovative organization. A popular motto at Netﬂix is “Only say about
 
-took over Microsoft, in 2014, he declared that he would work to turn
+someone what you will say to their face.” If an employee comes to the
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+boss to complain about another employee, the boss is to respond, “What
 
-2
+did your colleague say when you gave them that feedback?”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Most employees also recognize the beneﬁts of frank and honest
+
+feedback, and they say they want more of it. In a 2019 survey by
+
+Zenger Folkman, 94% of 2,700 respondents said they believed corrective
+
+feedback improved their performance when it was presented well, while
+
+nearly two-thirds agreed with the statement “My performance and
+
+possibilities for success in my career would have increased substantially
+
+if I had been given more feedback.” The survey’s authors conclude
+
+that feedback—done right—can truly be a gift to individuals and

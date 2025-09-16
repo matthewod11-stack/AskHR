@@ -1,27 +1,35 @@
-## HBR / Digital Article / When AI Gets a Board Seat
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 740c4aff05543f987f1bdfd5c3055761310b1223
+title: H08NNP-PDF-ENG
+---
+# challenge and reﬂection.
 
-refurbishing the plant if they decided to keep it. ChatGPT was able
+This is not the same as the more widely reported issue of hallucination.
 
-to provide rapid and accurate-enough estimations that enabled the
+AI introduced a welcome broadening of the meeting agenda but one
 
-executives to move forward on this issue.
+that was not complete and required critical thinking and challenge to
 
-In some cases, the use of AI can also reduce the costs of further
+avoid missing important issues.
 
-exploration. For example, one of the decisions the team made required
+- 3. Speed and cost advantage
 
-them to issue a press release. In the past, they would have hired
+A ﬁnal set of advantages of bringing AI into these meetings were speed
 
-an agency to write and issue the release, but ChatGPT produced a
+and cost reduction. Boardroom discussions typically result in questions
 
-statement that ﬁt their purpose. This beneﬁt was also apparent when we
+that require further research. ChatGPT enabled the team to gather data
 
-engaged ChatGPT in the post-meeting analysis. For example, Giesswein
+and make immediate recommendations, enabling quicker action.
 
-wanted input on its future product portfolio. ChatGPT generated ideas
+For example, when Giesswein considered the future of the facility in
 
-and referred to examples from other companies, a task that otherwise
+Slovakia, an important question that arose was the possible cost of
 
-would require a consultant or taking up considerable management time
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to create.
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

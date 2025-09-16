@@ -1,9 +1,11 @@
-# long run.
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac1c3ca8fd54d31b8e9f52bb58ee27a85fbf3684
+title: R2505M-PDF-ENG
+---
+## HBR / Magazine Article / Why You Need Systems Thinking Now
 
-Despite its beneﬁts, systems thinking remains the least common mode
+options. The short-term increases in congestion could be exactly what is
 
-of innovation, largely because it is a slower and more complex way to
-
-solve a problem. In the traditional approach to systems thinking, the
-
-ﬁrst task of the systems thinker is to identify and model all the ﬂows,
+needed to discourage people from driving and lessen congestion in the

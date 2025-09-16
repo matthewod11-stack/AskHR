@@ -1,11 +1,19 @@
-# HBR / Digital Article / Shift Your Leadership from “Power Over” to “Leading Through”
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 763b0e9784666b1c74b34734bde42ea7d00ad483
+title: H08F9M-PDF-ENG
+---
+## unprecedented levels of dissatisfaction and distrust in organizations
 
-gains in productivity. The real costs are too great. We see them in
+must be our burning platform. We cannot aﬀord to succumb to the
 
-the growing prevalence of burnout and the incidence of workplace
+familiar pressure to double-down on power and control, giving priority
 
-bullying and harassment. We see it in the surge of adults reporting
+to quickly reducing costs at the expense of people, purpose and genuine
 
-signiﬁcant symptoms of anxiety or depression. We see it in the general
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-discontent as reported through annual engagement surveys of workers
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

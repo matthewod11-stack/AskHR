@@ -1,3 +1,7 @@
-# System 299
-
-11.4.1 Prerequisites 300 11.4.2 Performance Planning 302 11.4.3 Performance Execution 303 11.4.4 Performance Assessment 304 11.4.5 Performance Review 305 11.4.6 Performance Renewal and Recontracting 306
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d2767e41bcea60070674b15c16bfe78541f469ee
+title: performance_management_3rd_edition_by_aguinis
+---
+## 11.4 Including Team Performance in the Performance Management

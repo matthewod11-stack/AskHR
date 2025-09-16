@@ -1,17 +1,17 @@
-## zero-sum game or a “war for talent,” with migrating entrepreneurs
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 383584ff72f6ae5e7d5f57f28310cb907fc0a574
+title: H037WI-PDF-ENG
+---
+# entrepreneurs.
 
-increasing entrepreneurial activity in one country at the expense of
+Implications of our research also extend to the ﬁeld of immigration
 
-another. Instead, migration can help nurture entrepreneurial abilities
+policy. The United Nations estimates that there are over 240 million
 
-by fostering the learning and application of cross-cultural knowledge
+temporary and permanent migrants and refugees worldwide. Our
 
-that helps someone identify proﬁtable opportunities.
+results help explain the above-average entrepreneurial activity of this group and highlight the positive eﬀects that immigration can have
 
-Since immigration is increasingly seen by some people as a threat,
-
-the insight that more immigration may result in an overall gain in
-
-entrepreneurial activity may be a useful reminder of the opportunities
-
-associated with migration. It suggests that public money may be
+on an economy. We show that migration does not need to be a

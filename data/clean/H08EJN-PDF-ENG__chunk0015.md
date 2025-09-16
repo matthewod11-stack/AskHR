@@ -1,11 +1,11 @@
-## Leadership Center at the Tuck School of Business at Dartmouth College.
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f2bed0268341bcc3112382dc063c6cffa52f515
+title: H08EJN-PDF-ENG
+---
+# resentment.
 
-If your leader is easily inﬂuenced by whoever talked to them last, what
+Reporting to an indecisive boss is an unquestionably “challenging
 
-other organizations are doing, or the TikTok they saw this morning,
-
-it shouldn’t sentence you to a constant state of ﬂux. While you can’t
-
-control their behavior, you’re not powerless.
-
-Here are ﬁve strategies I’ve used with my clients in this situation:
+and frustrating situation,” says Sydney Finkelstein, the director of the

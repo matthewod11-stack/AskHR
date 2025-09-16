@@ -1,13 +1,21 @@
-# choice of standard white subway tiles.”)
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e35beb606c050cee35b0549069e518cc7e0236ea
+title: H08P2A-PDF-ENG
+---
+## HBR / Digital Article / Should You Record That Meeting?
 
-While this innocuous example led to a good laugh, it’s easy to see how
+chooses what to include and what to leave out. A collaborator and I
 
-an algorithm—without sense of what is or isn’t on topic or appropriate
+recently had this experience when we read through the AI-generated
 
-to be captured and logged—ﬂagged this as a to-do. This applies to
+transcript of our meeting only to discover a signiﬁcant portion of the notes and to-dos focused on a side conversation sparked by an offhand
 
-language as well: Perhaps you’ve discovered that your carefully framed
+comment about a my collaborator’s kitchen tiles. (Here’s a snippet:
 
-and worded message read as blunt and aggressive when summarized by
+“Amy expressed her excitement about the new triangular tiles she found
 
-AI.
+in the tile store, contrasting them with the more common subway tiles.
+
+Mark shared his experience of redoing his parents’ house, including the

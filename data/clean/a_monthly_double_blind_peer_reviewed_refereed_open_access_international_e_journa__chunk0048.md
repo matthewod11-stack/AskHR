@@ -1,17 +1,31 @@
-# staff.
+---
+source_path: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa.md
+pages: n/a-n/a
+chunk_id: e51409d89b5bcb1bbe9e45bc66d22df55557e2a9
+title: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa
+---
+# VII. TECHNIQUES OF EMPLOYEE MOTIVATION
 
-- 3. Job Rotation:
+Job enlargement, job enrichment and job rotation are three basic approaches;
 
-Job rotation is a practice whereby each employee learns several operations in
+- 1. Job Enlargement:
 
-manufacturing process and rotates through each in a set period. Job rotation has
+Job enlargement involves expanding the job of an employee that has them
 
-important implications for firm learning. On one hand, when employees rotate, the firm
+doing more work of a similar nature to what they already do. This may be allowing
 
-receives information about the quality of various jobs - employee matches. On the other
+them to complete the whole task instead of just part of it, for example, packaging the
 
-hand, without rotation, the firm receives only direct information about one match, but the
+products as well as manufacturing them. This process ideally removes the boredom out
 
-information it gets about this one match is very reliable.
+of the job by eliminating the repetitiveness out of tasks and allowing them to complete
 
-A Monthly Double-Blind Peer Reviewed Refereed Open Access International e-Journal - Included in the International Serial Directories. International Research Journal of Human Resources and Social Sciences (IRJHRSS)
+the whole process, further increasing their responsibility.
+
+- 2. Job Enrichment:
+
+Job enrichment is an attempt to give workers more control over their tasks and
+
+more responsibility for design, execution, and output. The worker assumes some
+
+of the functions previously carried out by his or her immediate supervisor or by other

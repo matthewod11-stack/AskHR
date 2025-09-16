@@ -1,17 +1,17 @@
-## HBR / Digital Article / How to Respond When a Big Decision Provokes Backlash
+---
+source_path: H08VFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51caf89097a992cfc98821643e7dff9752e93f93
+title: H08VFX-PDF-ENG
+---
+## aggressive comments from certain colleagues.
 
-your choices, undermining your judgment calls, excluding you from
+Even worse, the backlash feels personal. It’s not gentle, “let’s slow
 
-conversations, or otherwise treating you like you’ve overstepped your
+down here” type concerns. Rather, others are openly questioning
 
-bounds—even when you have higher authority.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-This happened to Rick, a newly appointed city administrator. A few
+1
 
-months into the role, he restructured a cumbersome project approval
-
-process that was delaying road repairs and business permits. Rick
-
-knew the change meant some department heads would lose inﬂuence
-
-and control, but he underestimated how vocal the resistance would
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

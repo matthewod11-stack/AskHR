@@ -1,19 +1,15 @@
-# habits.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6cc30834e00df721254fe337ad1c5aa43150ce73
+title: H07QP9-PDF-ENG
+---
+# behavior changes.
 
-We are also strongly inﬂuenced by the norms and expectations of other
+However, this focus on individual development doesn’t account for another key variable in any behavior change eﬀort: the context or
 
-people within our environment. When we see others around us being
+environment in which an individual is working. Across nearly all
 
-altruistic or exercising, we’re more likely to behave in the same way. BJ
+domains, a person’s context plays a large role in shaping their behavior.
 
-Fogg, founder and director of the Stanford Behavior Design Lab, goes as
-
-far as to say, “There’s just one way to radically change your behavior:
-
-radically change your environment.”
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The design of our environment impacts our choices and consequent

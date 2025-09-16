@@ -1,3 +1,15 @@
-## animals. Advances in the Study of Behavior, 17, 1–60.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ba30be5671683e4608b3b6a7aba7066c9a07305e
+title: untitled
+---
+# Row.
 
-Heyes, C. M. (1994). Reﬂections on self-recognition in primates.
+Hebb, D. O. (1949). The organization of behavior. New York: Wiley.
+
+Hebb, D. O. (1953). Heredity and environment in mammalian behaviour. British Journal of Animal Behaviour, 1, 243–254.
+
+Hebb, D. O., & Thompson, W. R. (1954). The social signiﬁcance of animal studies. In G. Lindzey (Ed.), Handbook of social psychology (Vol. 1, pp. 532–561). Cambridge, MA: Addison- Wesley.
+
+Herman, L. M. (1987). Receptive competencies of language-trained

@@ -1,7 +1,7 @@
-# 14.https://www.westminstercollege.edu/myriad/?parent=2514&detail=4475&content=479
-
-8
-
-- 15. Ilgen, D R and Klein, H J (1988) “Individual Motivation and Performance:
-
-Cognitive Influences on Effort and Choice” in J P Campbell; R J Campbell and
+---
+source_path: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa.md
+pages: n/a-n/a
+chunk_id: d91707e8e3100ecd540436ea83c309f3481f2ecb
+title: a_monthly_double_blind_peer_reviewed_refereed_open_access_international_e_journa
+---
+## 13. http://www.trainingsolutions.com/pdf/motivating.pdf

@@ -1,13 +1,25 @@
-## essential resources in exchange for improved performance from
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4ca537e720f37bb115e7f37f42251f8652f5f39
+title: R2503C-PDF-ENG
+---
+## HBR / Magazine Article / Lean Strategy Making
 
-business units and functions. Such contracts formalize the strategy.
+eliminates ambiguity. Strategy is no longer subject to hallway debates or
 
-For over a decade, Dell has adhered to this standard two-session
+passive resistance from those who claim not to understand the decision
 
-formula when making decisions, regardless of their complexity. In his
+or who wish to pursue their own alternatives.
 
-book Play Nice but Win, Michael Dell encourages readers to “trust the
+Commitments also matter: Strategic decision-making must drive the
 
-scientiﬁc method,” highlighting how his team applied it to calls about
+allocation of resources, including operating expenses, capital, and
 
-everything from reestablishing Dell’s market leadership in servers;
+talent, over several years. Otherwise, the budgeting process will dictate
+
+what gets funded and, by extension, shape the company’s strategy.
+
+The best companies embed leadership’s strategic choices in a written,
+
+two-way performance contract, where the corporate center provides

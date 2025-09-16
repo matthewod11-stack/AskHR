@@ -1,7 +1,29 @@
-# Design Thinking and Its Importance
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: 338836189413ecb9f8a7e958a0911d2bb36e237c
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Design Thinking Competency Model
 
-The design thinking competency model is useful for assessment and diagnostic purposes. That is, once the key knowledge and skills have been identified, then tasks and activities can be developed in line with the model’s variables. Another relevant question concerns whether these skills are learnable. With sufficient prac- tice within meaningful environments, along with scaffolded support and formative feedback, we believe that students can learn design thinking skills. Moreover, pedagogical approaches that involve problem-based learning, project-based learn- ing, and inquiry-based learning can be used to enhance students’ design thinking skills within the context of evocative and consequential classroom activities (Dym et al., 2005).
+As a result of this review of the literature, we have created a design thinking competency model (Figure 2), adapted from Shute and Torres (2012). This model displays a hierarchically arrayed set of variables (or nodes), from general to more specific when viewing from left to right. This competency model represents an
 
-Such learner-centered approaches can help to raise students’ awareness about good design processes and generally enhance their interest in solving complex problems. Associated activities could be designed in a way that requires students to generate ideas/solutions, receive support for their emergent design thinking skills, as well as ongoing feedback about the feasibility of various solutions. Educators can support their students in developing these skills by providing them with multiple and varied opportunities to design and create prototypes, experiment with different ideas, collaborate with others, reflect on their learning, and repeat the cycle while revising and improving each time.
+341
 
-In summary, the premise is that by improving students’ design thinking skills through having them apply processes and methods that designers use to ideate and help them experience how designers approach problems to try to solve them, stu- dents will be more ready to face problems, think outside of the box, and come up with innovative solutions. We believe that design thinking is more than just a skill to be acquired and used in limited contexts. Rather, we view it as a way of thinking and being that can potentially enhance the epistemological and ontological nature of schooling.
+Downloaded from
+
+http://rer.aera.net
+
+at AERA on October 2, 2012
+
+FIGURE 2. The design thinking competency model. Note. Adapted from “Where Streams Converge: Using Evidence-Centered Design to Assess Quest to Learn.” In M. Mayrath, J. Clarke-Midura, & D.H. Robinson (Eds.), Technology-Based Assessments for 21st Century- Skills: Theoretical and Practical Implications from Modern Research (pp. 91-124). Charlotte, NC: Information Age Publishing.
+
+operationalization of the design thinking construct and may also help drive the crea- tion of appropriate activities that would allow for the collection of relevant evidence to inform variables in the model. For example, consider the variable “Iterate Diagrams” in Figure 2. Skills associated with this variable include tinkering, creat- ing, and testing ideas via diagrams. Testing, in turn, entails initial testing of the design idea, getting feedback, modifying the design, reevaluating it, and making a decision to accept or reject the modeled idea. To assess students’ competency levels relative to the iterate diagrams variable, we would have to put them in a situation in which those constituent skills could be employed, such as in a game or simulation. Diagnostically, the model could provide the framework for evaluating the degree to which students are demonstrating particular design thinking skills at various times and at various grain sizes relative to the model (for more, see Shute & Torres, 2012).
+
+342
+
+Downloaded from
+
+http://rer.aera.net
+
+at AERA on October 2, 2012

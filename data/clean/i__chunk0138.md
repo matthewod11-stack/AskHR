@@ -1,31 +1,23 @@
-# about <acquisition, retention, placement, promotion, compensation and workforce and
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 26525fc4cde15c8787dd9d24ed922b8697d34a24
+title: i
+---
+# 2.3.5.2 The value of PA
 
-succession planning < (Walford-Wright & Scott-Jackson, 2018) in a proven, more accurate and
+Analytics is often said to be a process that unveils hidden and strategic value for business.
 
-insightful manner and help the HR depart avoid making decisions using experience and gut-
+According to Marler and Boudreau as cited by Peeters et al. (2020), PA or <Talent analytics,=
 
-feeling and guesswork (King, 2016). Dooren 2012 defines PA as: <a methodology for
+<Human resource Analytics= is an HR practice empowered by technology development,
 
-understanding and evaluating the causal relationship between HR practices and organizational
+employing statistical and visualization techniques to analyze <HR process, human capital,
 
-performance outcomes (such as customer satisfaction, sales or profit), and for providing
+organizational performance, and external economic benchmarks=. Isson et al. describe PA as
 
-legitimate and reliable foundations for human capital decisions for the purpose of influencing
+the <integration of disparate data sources= such as employee data, organization data, and data
 
-the business strategy and performance, by applying statistical techniques and experimental
+from the labor market. While data analytics is conducted for making evidence-based day-to-
 
-approaches based on metrics of efficiency, effectiveness and impact=.
-
-Pease (2015), in his book, quoted a research result by Deloitte, which indicates organizations
-
-which employ Human resource analytics are <doubling their improvements in recruiting,
-
-tripling their leadership development capabilities, and enjoying 30 percent higher stock prices.=
-
-Pease (2015) also concludes the primary PA by surveying 114 organizations that employ PA
-
-at the mid-maturity level… Most organizations (88%) agree that PA gives them the power of
-
-data-driven decision-making. More than three-fourths of organizations believe PA gives them
-
-the ability to improve their business performance. Lastly, over 70% conclude that PA enables
+day decision-making and strategic decisions, the PA focuses on answering essential questions

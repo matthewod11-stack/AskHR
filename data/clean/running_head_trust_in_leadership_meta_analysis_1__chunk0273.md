@@ -1,5 +1,11 @@
-# (pp. 3-13). New York: Routledge.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 0b7ee6348d086a51e228fdafcade5f3d0267eb99
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Psychology Review, 9, 99-123.
 
-van Knippenberg, D., & Sitkin, S. B. (2013). A critical assessment of charismatic—
+van Knippenberg, D. (2018). Reconsidering Affect-Based Trust: A new research agenda. In
 
-Transformational leadership research: Back to the drawing board? The Academy of
+R. Searle, A-M. Nienaber, & S. B. Sitkin, (Eds.), The Routledge Companion to Trust.

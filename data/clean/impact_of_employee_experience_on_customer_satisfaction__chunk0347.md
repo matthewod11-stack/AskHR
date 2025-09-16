@@ -1,7 +1,9 @@
-# Irwin.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 36fc5c4a6f51a101596fe7b9cd44a51e3f37a0c1
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Bibliography
 
-Atlas Copco. (2021). Annual report incl. sustainability report and corporate fovernance report
-
-- 2021. Stockholm: Atlas Copco group.
-
-AtlasCopco. (2022, 08 10). Atlas Copco. From Atlas Copco group: Vision, Mission and https://www.atlascopcogroup.com/content/dam/atlas-copco/web-
+Albanese, R. (1978). Managing: Toward Accountability for Performance. New York: Richard d

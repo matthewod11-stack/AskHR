@@ -1,7 +1,13 @@
-## with an employer's contractual obligations to employees.
+---
+source_path: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas).md
+pages: n/a-n/a
+chunk_id: a54718b28d3c0f510ee207cac9535ebec9e6cbdd
+title: Employment Law Guide - Temporary Agricultural Workers (H-2A Visas)
+---
+# the worker as necessary or reasonable.
 
-ETA has the authority to audit applications for which certiﬁcations have been granted and may refer its audit ﬁndings to DHS or another
+The Wage and Hour Division has a primary role in investigating and enforcing the terms and conditions of employment. The Wage and Hour
 
-appropriate enforcement agency. ETA may revoke a temporary agricultural labor certiﬁcation if the employer substantially violated a material
+Division is responsible for enforcing the contractual obligations employers have toward employees, and may assess civil money penalties and
 
-term or condition of the certiﬁcation, if fraud or misrepresentation was found in the application, or if the employer failed to cooperate with a
+recover unpaid wages. Administrative proceedings and/or injunctive actions through Federal courts may be instituted to compel compliance

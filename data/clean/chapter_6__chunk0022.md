@@ -1,5 +1,15 @@
-## mindfulness. Group Organization Management, 31, 78–99.
+---
+source_path: chapter_6.md
+pages: n/a-n/a
+chunk_id: 69d1123f9472323c0378941408cf858a7388a67d
+title: chapter_6
+---
+## available tests. Journal of Cross-Cultural Psychology, 44, 849–873.
 
-Thomas, D. C., & Fitzsimmons, S. R. (2008). Cross-cultural skills and abilities. In P. B. Smith, M. F., Peterson, & D. C. Thomas (Eds.), The handbook of cross-cultural management (pp. 201– 215). Los Angeles, CA: Sage.
+McCloskey, M. J., Behymer, K. J., Papautsky, E. L., Ross, K. G., & Abbe, A. (2010). A developmental model of cross-cultural competence at the tactical level. (Technical Report No. 1278). Alexandria, VA: U.S. Army Research Institute for the Behavioral and Social Sciences.
 
-Thomas, D. C., & Inkson, K. (2008). Cultural intelligence: People skills for global business. San
+Morris, M. W., Savani, K., Mor, S., & Cho, J. (2014). When in Rome: Intercultural learning and
+
+implications for training. Research in Organizational Behavior, 34, 189–215.
+
+Thomas, D. C. (2006). Domain and development of cultural intelligence: The importance of

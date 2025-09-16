@@ -1,7 +1,17 @@
-## responses about their skills and abilities.
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7ad88c046e2e6c076e083275fb7393783a3620f
+title: H088YP-PDF-ENG
+---
+# Don’t:
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- Blindly adhere to traditional interviewing methods without reﬂection;
 
-6
+instead, examine your processes and identify unnecessary hurdles
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that aren’t related to the job.
+
+- Rely solely on candidates’ quick thinking and conﬁdence during
+
+interviews; provide questions in advance to allow for thoughtful

@@ -1,13 +1,19 @@
-# quickly.
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f56bddd48c8df944e713f6f6976066924a5db51
+title: H08KYH-PDF-ENG
+---
+## HBR / Digital Article / The Insidious Effects of Hurrying
 
-- You’re preoccupied with the passage of time. It feels as though time
+- Everything feels urgent. You frequently feel restless, anxious, or
 
-is always slipping away from you, you feel compelled to “beat the
+worried because everything feels like it must be attended to at once
 
-clock,” and you’re always on the lookout for shortcuts and timesavers.
+and ﬁnished as quickly as possible.
 
-- You always feel behind schedule. Despite your eﬀorts, you
+- You’re always in a rush. You walk, talk, carry out tasks, and even
 
-frequently worry about falling behind — even when deadlines aren’t
+drive at a rapid pace. You tend to interrupt others or hurry them along
 
-imminent or others consider you highly productive and ahead of
+and constantly multitask in an attempt to ﬁnish more things more

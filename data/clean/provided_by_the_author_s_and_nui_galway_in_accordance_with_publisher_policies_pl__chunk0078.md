@@ -1,13 +1,17 @@
-## lower quit rates and improved motivation.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 84e318a13fa5a3caf9887237f4648b7c956ee880
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# the behaviours and antecedents- factors which influence differences in each of the
 
-On balance this stream of literature is reflected in the AMO framework which has
+21
 
-become one of the dominant theoretical approaches toward exploring the HRM-
+required capabilities of performance (see also Neal and Griffin, 1999). Batt (2002),
 
-performance link in recent years (Boselie et al, 2005). In essence the AMO framework,
+writing in the context of high performance work systems (HPWS) in the services
 
-proposes that employee performance (P) is a function of the employee’s ability (A),
+industry, identifies both a direct role of HPWS in individual performance through
 
-motivation (M) and opportunity (O) to perform (Boselie et al., 2005; Boxall and Purcell,
-
-2008). Expressed as an equation:
+enhancing employee skill levels and firm specific knowledge and an indirect role via

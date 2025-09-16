@@ -1,23 +1,9 @@
-# Factor 3
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 1a718b378ffc8f09d48362dcde1b05f7357e4efa
+title: file_1
+---
+# 3.3. Finnish university data
 
-.054
-
-- .009
-
-- .070
-
-.504 .160
-
-- .036 .243
-
-- .177
-
-.713
-
-- .325
-
-- .458
-
-- .020 .462
-
-1.176 9.044 40.094
+Data for the fourth thesis paper were gathered in February 2007 by Aino Tenhiälä through a web-based questionnaire, which was sent to a random sample of 1,000 academic and administrative personnel of two universities in Finland. The study was approved and financed by the Office for the government as Employer Representatives (Valtion työmarkkinalaitos). It follows the ethical guidelines of the researched universities. The data in this study were collected using a double-blind procedure which meant that the university management or researchers did not have access to person identifiers. The respondents were informed about this double blind procedure, data confidentiality, and anonymity. The respondents were also acknowledged that only aggregated results would be reported and published. The respondents knew that the employer representatives, who provided records- based data for the sample, would not have any access to the completed questionnaires. The survey data were accompanied with pay data from university records. The number of responses was 495, corresponding to the overall response rate of 49.5%. Due to the missing information in some of the completed questionnaires, the final sample size was 455.

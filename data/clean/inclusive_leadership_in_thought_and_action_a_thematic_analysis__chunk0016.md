@@ -1,5 +1,7 @@
-# Group & Organization Management 47(4)
-
-to fundamentally address individuals’ needs for being valued for their uniqueness while feeling part of the group (Shore et al., 2011). As such, it is considered to enable work group functioning in a way that has not yet been addressed by other forms of leadership (Randel et al., 2018).
-
-While diversity researchers have conceptualized inclusive leadership, our understanding of leader behaviors to facilitate an inclusive environment is relatively limited. Randel et al. (2018) proposed categories of behaviors that signal a value for uniqueness and help to facilitate belonging. Speciﬁcally, behaviors that make group members feel comfortable and supported, dem- onstrate fair and equitable treatment, and provide opportunities for shared decision-making are posited to create a sense of belongingness while be- haviors that encourage different perspectives and approaches and reduce barriers to participation are posited to facilitate a sense of uniqueness (Randel et al., 2018). Yet, while such behaviors are believed to enhance employees’ experiences of inclusion, little attention has been given to whether these behaviors are enacted by leaders in organizations. In this study, we explore leader recollections of the behaviors in which they engage to create and maintain inclusive environments.
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: b1e4ae608cf4ae96a53193aa901e58a64a4526d1
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# 760

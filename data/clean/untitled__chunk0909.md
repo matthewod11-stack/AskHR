@@ -1,11 +1,21 @@
-# Cambridge, MA: MIT Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 63c1c025e11b72d88195a0991a24325d91302e15
+title: untitled
+---
+# Westport, CT: Praeger/Greenwood.
 
-Kroeber, A. L., & Kluckhohn, C. (1952). Culture: A critical review of concepts and deﬁnitions [Papers, Peabody Museum of Archaeology and Ethnology Vol. 47, pp. viii, 223]. Cambridge, MA: Harvard University.
+Jensen, A. R. (in press). Psychometric g: Deﬁnition and sub- stantiation. In R. J. Sternberg & E. L. Grigorenko (Eds.),
 
-Laboratory of Comparative Human Cognition. (1982). Culture and intelligence. In R. J. Sternberg (Ed.), Handbook of human intel- ligence (pp. 642–719). New York: Cambridge University Press.
+General factor of intelligence: Fact or ﬁction. Mahwah, NJ: Erlbaum.
 
-Larkin, J. H., McDermott, J., Simon, D. P., & Simon, H. A. (1980). Expert and novice performance in solving physics problems. Science, 208, 1335–1342.
+Katz, H., & Beilin, H. (1976). A test of Bryant’s claims concerning the young child’s understanding of quantitative invariance. Child Development, 47, 877–880.
 
-Luria, A. R. (1973). The working brain. New York: Basic Books.
+Kaufman, A., & Kaufman, N. (1983). Kaufman Assessment Battery for Children. Circle Pines, MN: American Guidance Service.
 
-Luria, A. R. (1980). Higher cortical functions in man (2nd ed.). New
+Kauffman, S. (1995). At home in the universe: The search for laws of self-organization and complexity. New York: Oxford Univer- sity Press.
+
+Keating, D. P., & Bobbit, B. (1978). Individual and developmental differences in cognitive processing components of mental abil- ity. Child Development, 49, 155–169.
+
+Keil, F. C. (1989). Concepts, kinds, and cognitive development.

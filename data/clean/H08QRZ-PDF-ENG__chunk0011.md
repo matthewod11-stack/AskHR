@@ -1,39 +1,27 @@
-## hefty penalties of up to $4,000 annually.
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af7f40d246608d3c9ed6e3016c5af0c6dfa4b2e7
+title: H08QRZ-PDF-ENG
+---
+## HBR / Digital Article / The Risks of Collecting Employees’ Biometric Data
 
-Second, the perceived loss of job autonomy can make employees feel
+over their bodily autonomy. Those who didn’t share their personal
 
-less secure. After a large sanitation products wholesaler in Ontario,
+data worried they might be seen as not being a team player and
 
-Canada introduced video surveillance systems to promote safety and
+discriminated against as a result.
 
-optimize walking routes, warehouse workers told us that they felt a loss
+In some cases, employees organized to ﬁght back. After Yale University
 
-of trust and meaningfulness in their work. While they would usually
+took health data screenings to an extreme by penalizing employees
 
-take alternate routes to reorganize inventory and to check in on fellow
+for not participating, employees ﬁled a federal lawsuit against the
 
-workers, employees were now worried that not complying with the
+university. The university recently agreed to a large settlement and a
 
-suggested walking routes could invite scrutiny or punitive actions.
+commitment from the university to suspend the penalty for at least four
 
-Regulatory compliance is usually an insuﬃcient measure of whether
+years. In 2014, Honeywell was sued for mandating that employees and
 
-data collection may cause harm. The forms of data collection enabled
-
-by technologies that gather biometric data are much more invasive,
-
-intimate, and intrusive than those traditionally covered by data
-
-privacy regulations. While new laws that target how organizations
-
-handle biometric data are being passed—Illinois’ Biometric Information
-
-Privacy Act (BIPA), for instance—regulations are generally still playing
-
-catch up.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their spouses participate in health-data collection and screening, or face

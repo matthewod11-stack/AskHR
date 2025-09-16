@@ -1,9 +1,15 @@
-## Journal of Applied Psychology, 85(5), 779–783.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 01e442de03789aa149cddf15d08d4f7f35e31d48
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Applied H.R.M. Research, 1(1), 15–18.
 
-Falcone, P. (2002). Fire my assistant now! HR Magazine, 47(5),
+Eurich, T. L., Krause, D. E., Cigularov, K., & Th ornton, G. C.
 
-105–111.
+(2006). Assessment centers: Current practices in the United States. Poster presented at the 21st annual conference of the Society for Industrial and Organizational Psychology, Dallas, TX.
 
-Faragher, E. B., Cass, M., & Cooper, C. L. (2005). Th e relationship between job satisfaction and health: A meta-analysis. Occupational and Environmental Medicine, 62, 105–112.
+Evans, G. W., Hygge, S., & Bullinger, M. (1995). Chronic noise and psychological stress. Psychological Science, 6(6), 333–338.
 
-Farber, B. J. (1994). Sales managers: Get real! Real play, not role play, is the best training you can give your salespeople. Sales & Marketing Management, 146(10), 25–26.
+Evans, G. W., & Johnson, D. (2000). Stress and open-oﬃ ce noise.

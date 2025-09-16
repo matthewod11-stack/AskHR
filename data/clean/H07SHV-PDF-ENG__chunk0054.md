@@ -1,11 +1,17 @@
-# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 183f0b9d7cb405e02d119d1d0f4ff59c8596a100
+title: H07SHV-PDF-ENG
+---
+# rest of your life.
 
-I’ll look for a spouse when I’m 35.” Probably not. I got the data, and the
+People say, “Okay, I’m 28. I’m going to go get an investment bank job,
 
-data don’t lie. You’re more and more likely to actually not have the thing
+they’re going to expect me to work a hundred hours a week. That’s ﬁne.
 
-that’s going to give you the most happiness in your life, which is your
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-marriage. We actually have to think in a balanced-portfolio approach to
+18
 
-the happiness that we’re trying to get, and making those sacriﬁces are
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

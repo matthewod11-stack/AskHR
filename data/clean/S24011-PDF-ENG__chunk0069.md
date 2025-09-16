@@ -1,9 +1,15 @@
-## Love Energy: Connected with Those You Work with and Serve
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9240251b559ccfe30e97a70600fec6397c7e98c1
+title: S24011-PDF-ENG
+---
+# and correct mistakes.
 
-- 17. Appreciate. Recognize positive qualities in situations and people.
+- 15. Learn from adversity. Use setbacks and failures to help you and others
 
-- 18. Affiliate. Find common ground with others.
+become better—not bitter.
 
-- 19. Deepen human connection. Create strong emotional bonds with others
+- 16. Anticipate, assess, adjust. Think about the challenges that may lie
 
-by accepting and offering bids for connection.
+ahead and plan how you will evaluate and adapt to them.

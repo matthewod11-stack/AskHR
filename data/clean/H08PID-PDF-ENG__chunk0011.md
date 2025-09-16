@@ -1,11 +1,37 @@
-## While strong positive emotions at the beginning of a season or year
+---
+source_path: H08PID-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 41a9dd3b063d49b4435d64a3845af47cf520c3d4
+title: H08PID-PDF-ENG
+---
+## more positivity at the mid-point, or end of year, or leaders who
 
-were the best indicator of strong performance, we also found that in
+were primarily negative at the outset). This remained true even after
 
-both studies, those individuals whose leaders showed strong positivity
+controlling for factors like past performance or tenure in the ﬁrm.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+To examine why early positive emotions played such a strong role in
 
-3
+performance, we conducted a second study with 245 student-athletes
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and their 86 coaches on 20 N.C.A.A. Division 1 sports teams over the
+
+course of a season. We used multiple, time-lagged surveys to capture the
+
+degree to which team members received positive or negative emotional expressions from their coaching staﬀs over the course of the season
+
+and how it related to team members’ sense of worth and individual performance (as measured by coaching staﬀ evaluations).
+
+We found similar results: athletes whose coaches showed highly
+
+positive emotions during the preseason performed better than other
+
+athletes, even when controlling for things like playing time or previous
+
+performance. We found that this is because when leaders expressed
+
+positivity during the early time period, team members felt more highly
+
+respected and desired to maintain that respect throughout the year,
+
+thus motivating stronger performance.

@@ -1,9 +1,7 @@
-# longer-term ones.
-
-To really learn from any data set, you need to ask basic questions like,
-
-What outcomes were measured, and did we include all that are relevant
-
-to the decision we have to make? Were they broad enough to capture
-
-key intended and unintended consequences? Were they tracked for an
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1bf1676d93f8fe8d05eef690c5d6b1ebc24b30d
+title: R2405D-PDF-ENG
+---
+## limitations to formal analyses of the link between short-term eﬀects and

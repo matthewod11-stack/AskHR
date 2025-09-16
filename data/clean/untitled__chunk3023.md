@@ -1,5 +1,17 @@
-## International Psychological Organizations
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9f8ff12b3c79bc7c5858e040d60b6f2e6ad4ada4
+title: untitled
+---
+## The International Council of Psychologists
 
-After 1959, the mission of the ICP was broadened so that the advancement of women and men in psychology was fo- cused on psychological science and practice in the interna- tional arena. The ICP now has women and men members in over 90 countries and sponsors annual meetings at various sites around the world. The ICP is registered as a Non- Governmental Organization with consultative status at the United Nations and has representation on many UN initia- tives. Members of the ICP are organized in committees and interest groups that reﬂect a broad array of psychologi- cal concerns and activities (Davis, 2000; Gielen, Adler, & Milgram, 1992).
+The National Council of Women Psychologists (NCWP) began in December 1941 as an organization to promote the interests of women psychologists in the United States. The name was changed to the International Council of Women Psychologists after World War II and to the current Interna- tional Council of Psychologists in 1959.
 
-The ICP and the APA cohost a reception for international visitors at each annual APA convention. The two organiza- tions also jointly sponsor a program to donate books and journals to libraries in third-world countries.
+As American psychologists began to prepare for national service in the event of U.S. involvement in the war, women psychologists felt excluded. One stated that she and her women colleagues grew frustrated with male psychologists who either wanted to go on “reading papers on rat reactions and retroactive inhibitions as though psychology had no concern with a world already launched into inferno” or who sought to exclude women from war work (Schwesinger, 1943, p. 298). Women psychologists were repeatedly coun- seled by male psychologists in leadership positions in orga- nized psychology to wait patiently. Finally, when it became clear that nothing was going to be done for them, a group of 50 women voted to organize as the National Council of Women Psychologists (Capshew & Laszlo, 1986). By June 1942, membership had grown to 240 women PhD psycholo- gists (Schwesinger, 1943). The NCWP was successful in gaining its members useful civilian roles in wartime service. NWCP members provided a variety of educational, assess- ment, and placement services. However, the NWCP was un- able to signiﬁcantly increase the number of women faculty members, even though there was a chronic shortage of quali- ﬁed male professors of psychology.
+
+Membership in the NCWP declined after the war. Rather than disband, its leaders decided to add an international focus and took a new name, the International Council of Women Psychologists (Carrington, 1952). The ICWP developed an extensive educational and support role for psychologists around the world. Included among these activities were sup- port for displaced psychologists and the publication of a book, Women Psychologists: Their Work and Training and Professional Opportunities (1950), meant to encourage young women to become psychologists.
+
+the promotion of women in psychology remained the ﬁrst goal of the ICWP. The 1950s was an era that was not sympathetic to women’s issues. Leading male psychologists were frequently unsympathetic, if not hostile, to women as professional colleagues (e.g., Boring, 1951). One departmental chairman stated that if “women were really capable, nothing could hold them back and that any effort to support women psychologists just because they were women was a mistake” (cited in Walsh, 1985, p. 21). Leaders of the ICWP sought divisional membership in the American Psychological Association (APA) as a means to gain a voice for women’s issues in psychology but were repeatedly turned down by the APA leadership. In 1959, after considerable discussion, the ICWP changed its constitution to allow men to become members and its name to the International Council of Psychologists. Still, the APA would not admit the organization to divisional status (Walsh, 1985).
+
+However,

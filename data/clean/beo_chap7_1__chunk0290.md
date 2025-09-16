@@ -1,15 +1,11 @@
-# level; and many more.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 75f6f813418b884076710afb37dce200e8495303
+title: beo_chap7_1
+---
+## positron emission tomography (PET) and functional magnetic resonance imaging
 
-The consequences of this measurement gain in psychology are many. Among
+(fMRI)-—but there are others as well, including improved precision of lesion studies in humans and in animal models; improved chemical detection methods (a few dol-
 
-them is an important increase in our ability to exhibit well-measured counterparts
-
-of the previously “soft” observations of clinicians. Thus “hardened,” they become
-
-more difficult to set aside as we study decision and choice.
-
-A case that dramatizes this change is that of Phineas Gage, a young man of
-
-excellent reputation and work habits who was the victim of a construction accident
-
-285
+lars for a simple, reliable saliva assay of important chemicals such as testosterone, cortisol, or progesterone); knockout gene studies in animal models; improved place- ment of, and recording from, micro-electrodes, now reaching the single brain-cell

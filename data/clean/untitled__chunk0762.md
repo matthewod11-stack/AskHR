@@ -1,5 +1,11 @@
-## ness. Psychological Review, 30, 237–272, 329–353.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 407614213cf47989870e5edef7d42d32a5c90ec3
+title: untitled
+---
+# Henry Holt.
 
-Leahey, T. H. (2000). A history of psychology: Main currents in psychological thought (5th ed.). Upper Saddle River, NJ: Prentice-Hall.
+James, W. (1905/1955). Pragmatism. New York: Meridian.
 
-Leahey, T. H. (2001). A history of modern psychology (3rd ed.).
+Lashley, K. (1923). The behavioristic interpretation of conscious-

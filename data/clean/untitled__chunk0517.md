@@ -1,5 +1,13 @@
-# Academic Societies
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 91fa2c3a6b580b296edf93a4839cce73f63416e7
+title: untitled
+---
+# Journals
 
-No one academic society has emerged as the primary home for comparative psychologists. The APA remains the leading organization of psychologists, but its Division of Behavioral Neuroscience and Comparative Psychology (Division 6) is but a small part of the APA. Some psychologists have given allegiance to other psychological organizations such as the Psychonomic Society or theAmerican Psychological Society. TheAnimal Behavior Society in NorthAmerican, theAssoci- ation for the Study of Animal Behavior in Great Britain, and the International Ethological Congress have become the lead- ing organizations in the ﬁeld of animal behavior studies.
+Beginning in 1947, the Journal of Comparative Psychology adopted a name more descriptive of its coverage: the Journal of Comparative and Physiological Psychology. That title re- mained until 1983, when it was split into three journals even more descriptive of the three prominent parts of animal psy- chology at the time: Behavioral Neuroscience, the Journal of Experimental Psychology: Animal Behavior Processes, and the reformulated Journal of Comparative Psychology.
 
-Many comparative psychologists participate in these. The International Society for Comparative psychology, founded in 1983, has great possibilities that have not yet been realized.
+The scope of the growth of animal psychology can be seen in an analysis of the articles appearing in the Journal of Com- parative and Physiological Psychology in 1963 as compared with 1949 (Dewsbury, in press-b). The number of articles published increased by a factor of nearly 3.5 from 60 to 208. There were few footnote credits to federal funding sources in 1949; by 1963, just 14 years later, it had risen eightfold.
+
+Comparative psychologists published in other American journals as well. Some comparative psychologists found American journals uncongenial and published in the grow- ing stable of European journals, including Animal Behav- iour, Behaviour, and the Zeitschrift für Tierpsychologie (now Ethology).

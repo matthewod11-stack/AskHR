@@ -1,9 +1,15 @@
-## primarily through initiatives and transformations, but that doesn’t
+---
+source_path: H08VBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa2e576806e3efb472c95d817a432850b84e2f73
+title: H08VBA-PDF-ENG
+---
+## in the Transformation Age (HBR Press, January 2026), only 8% of
 
-mean that more projects are better. Bloated portfolios dilute resources,
+organizations conduct monthly project reviews, 44% stop projects only
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+occasionally, 26% rarely, and 7% never stop them at all.
 
-2
+This obsession with starting everything is more than ineﬃcient; it is
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+strategically dangerous. In today’s project economy, value is delivered

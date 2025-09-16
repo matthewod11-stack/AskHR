@@ -1,3 +1,13 @@
-# Analysis
+---
+source_path: microsoft_word_jole_8_2_fall_2009_doc.md
+pages: n/a-n/a
+chunk_id: 0d04f3dc9d53cdaa1e3fbabb6939f8efffd5a249
+title: microsoft_word_jole_8_2_fall_2009_doc
+---
+## Journal of Leadership Education Volume 8, Issue 2 – Fall 2009
 
-We carried out a single variable ANOVA where the dependent variables were the leadership dimension scores and the grouping variable was team participation. For significant ANOVA, follow-up univariate analyses were carried out. Finally, we examined the correlation between the number of seasons played and the level of leadership skill for each of the nine leadership dimensions measured.
+Participants’ behaviors and outcomes of their participation in each of the simulations were recorded either on videotape or in written format. DDI evaluated the results. Each participant’s exercises and simulations are rated by multiple (typically three) assessors. DDI assessors are given extensive training to differentiate participants’ behaviors related to competencies being measured. DDI provides assessors with behavioral examples to guide their judgment of participants’ performance on each dimension (DDI, 2001). After each assessor assigns a rating on each dimension for each participant, assessors share their observations and agree on a single score for each dimension. Specific written feedback was returned to the participants, including numeric scores (1 = low to 5 = high) on each of the dimensions. A university career counselor then debriefed each student, explaining the DDI feedback and suggesting courses and activities that might result in skill improvement.
+
+Sports Team Participation. Each assessment center participant completed a survey requesting the number of seasons played in each of 24 sports on a formal school-sponsored team at either the high school or college level. We based the list of sports on those offered by a university identified by the NCAA as having the widest variety of varsity teams. In addition, we added that university’s “club” sports to the list and an open-ended question was available for participants to amend the list.
+
+Although participation in the assessment center exercises was not voluntary for students in this MBA program, participating in the survey of sports team participation was. No student refused to complete the survey.

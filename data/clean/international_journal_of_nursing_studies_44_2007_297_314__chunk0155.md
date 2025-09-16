@@ -1,1 +1,11 @@
-# for
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 7687391b8b6b099e25a98c82dce95238452c8d99
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# B. Coomber, K. Louise Barriball / International Journal of Nursing Studies 44 (2007) 297–314
+
+secondary analysis of US relicensure surveys by Rambur et al. (2003) (n ¼ 4418, RR ¼ 85%) reported that job dissatisfaction decreased with higher educational level, and Yin and Yang’s (2002) work in Taiwan conﬁrmed this ﬁnding, suggesting that nurses with lower educa- tional levels are less satisﬁed with their jobs (po0:05). This is reiterated by Tzeng (2002), whose results for the ﬁnal ordinal regression indicated that holding a diploma (estimate ¼ (cid:3)1.790, Wald w2 ¼ 4:28, p ¼ 0:04), holding an associate degree ((cid:3)1.639, Wald w2 ¼ 4:00, p ¼ 0:05) and general job satisfaction ((cid:3)0.862, Wald w2 ¼ 22:89, p ¼ 0:00) are signiﬁcant predictors of Taiwanese nurses intention to quit. Yin’s and Yang’s (2002) meta-analysis of individual factors related to nurse turnover asserted a small but stable relationship for educational attainment (rxy ¼ 0:09), with this relationship being one of the strongest out of the individual factors that included marital status, years of tenure, age and position.
+
+Interestingly, opposing results were obtained by Lu et al. (2002) who found a signiﬁcant association indicating educational level to be negatively correlated with job satisfaction (Spearman’s correlation (cid:3)0.101, po0:01) and positively correlated with intent to leave the organisation (.054, po0:05) and the profession (0.058, po0:01) (n ¼ 2197, Taiwanese RR ¼ 86.2%). The studies by Fang (2001) and Larrabee et al. there were no signiﬁcant relationships between any demographic factors and turnover cognition or intention. Fang (2001) further reported that job satisfaction did not exhibit any signiﬁcant inﬂuence on turnover in a sample of Singaporean nurses (coefﬁcients standardised for cognition (cid:3)0.108; for intention 0.007). The small, non- random sample in Larrabee et al.’s (2003) study could indicate a reason for their opposing results, with larger studies required to conﬁrm these as valid ﬁndings. Additionally, study did not speciﬁcally involve the investigation of demographic variables on job satisfaction and intent to leave, so results of statistical tests were not provided for educa- tional attainment, thus disallowing independent assess- ment of the effect.

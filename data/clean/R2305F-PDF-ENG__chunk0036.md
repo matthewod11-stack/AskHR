@@ -1,17 +1,21 @@
-## HBR / Magazine Article / When Diversity Meets Feedback
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97d8dca42b27fdb4a5cbabd7d89d5015d4aa4ce4
+title: R2305F-PDF-ENG
+---
+## it emotional power over the person on the receiving end. One study
 
-Research also shows that the act of
+has found that when people get spontaneous feedback, their heart rate
 
-providing advice makes people feel more
+jumps to a level that indicates moderate or extreme duress. It’s no
 
-powerful. One study asked 94 library
+wonder that when one person oﬀers feedback to another, the recipient’s
 
-employees how often they gave advice
+composure is shaken.
 
-during their workday. The more advice
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-someone gave, the more powerful that
+12
 
-individual reported feeling. In another
-
-study the same researchers asked 188
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

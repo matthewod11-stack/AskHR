@@ -1,15 +1,19 @@
-# for you.
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6acbde1fe74301190e8e555182907ee43ec69f1
+title: H087FB-PDF-ENG
+---
+# present?
 
-Resist the need to control every aspect of your newly available free time.
+To explore that question, take a moment to reset. Become mindful of the
 
-Try releasing the reins and seeing what comes up serendipitously. For
+present. This is a paradox; in order to begin to think about what’s next,
 
-example, a client I coached was traveling for work and instead of going
+you must ﬁrst become aware of the present moment. Don’t succumb
 
-right home after the meetings, he stayed and went to an art exhibit with his client. The time spent in a creative space outside the oﬃce was
+to overwhelm about the future. Focus on each day, each moment,
 
-energizing, helped him bond with his new client, and generated some
+as it comes — even if your mind wants to race ahead. Embrace a
 
-new ideas. When you’re settled and able to think about what you want
-
-in this new phase, consider what you would like to happen in both your
+combination of doing and non-doing as you see what desires emerge

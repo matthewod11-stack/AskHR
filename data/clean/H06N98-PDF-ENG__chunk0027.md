@@ -1,19 +1,15 @@
+---
+source_path: H06N98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78bcb83f914400eeb4f407e10128088e9adef18b
+title: H06N98-PDF-ENG
+---
 ## HBR / Digital Article / A User’s Guide to Open Strategy
 
-Choose the right tools for engaging with outside participants
+See more HBR charts in Data & Visuals on HBR.org.
 
-As shown in “The Open Strategy Decision Tree” graphic above, we’ve
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-developed a framework to help managers determine for each of
+6
 
-the three phases of strategy (1) whether participants should come
-
-exclusively from inside the company or should also include externals
-
-and (2) whether they should recruit large groups of randomly selected
-
-or self-selecting people or target small numbers of hand-picked
-
-individuals. In each case, we identify the appropriate open strategy
-
-mechanisms for engaging with external participants, which include:
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

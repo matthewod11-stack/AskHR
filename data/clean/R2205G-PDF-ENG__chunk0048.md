@@ -1,9 +1,15 @@
-# Company childcare centers
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e38e033e26611d41a7b73600c062bd07cb180fb7
+title: R2205G-PDF-ENG
+---
+# Vouchers for childcare
 
-6.8
+16.2
 
-7.6
+12.3
 
-13.5
+16.4
 
-Source: Authors’ survey of 829 U.S. ﬁrms and their EEOC workforce composition data
+10.6

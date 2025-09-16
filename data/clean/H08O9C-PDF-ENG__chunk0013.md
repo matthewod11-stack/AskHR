@@ -1,17 +1,11 @@
-# Personalization Tip:
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f33001f6b3448297fc757571eb0023508c009e6
+title: H08O9C-PDF-ENG
+---
+## skills] and my interest in [mention industries or ﬁelds]?
 
-Provide as much detail as possible about your experiences and
+- I enjoy problem-solving, creativity, and working with people. What
 
-preferences. The more context you give, the more tailored gen AI’s
-
-responses will be.
-
-Consider uploading your resume or CV to gen AI. (Most platforms
-
-enable you to attach Word or PDF ﬁles.) Let the tool review it and
-
-give you feedback on your hard and soft skills, potential, and general
-
-employability. A sample prompt might be: “If I upload my CV, can you
-
-review it and give me an overall assessment of my hard and soft skills,
+career paths might ﬁt these interests?

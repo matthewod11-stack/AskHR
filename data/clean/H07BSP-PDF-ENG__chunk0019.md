@@ -1,13 +1,39 @@
-## HBR / Digital Article / Using Simulations to Upskill Employees
+---
+source_path: H07BSP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 96d78cf4184ca57907936331937f9ac88e1eb2d1
+title: H07BSP-PDF-ENG
+---
+# a deliberate practice.
 
-experiences and information with meaning, in eﬀect shaping new
+The agency had training programs in place, but a game-based solution
 
-memories to ﬁt constructs of the world and ourselves.” Learning
+called Financial Fitness Simulator enabled more than 300 MDs to
 
-theorists call this “active retrieval.” When people must respond to
+work through scenarios involving discovery conversations with clients,
 
-diverse circumstances, learning involves the ability to retrieve a
+enlisting support from other service lines, and managing projects while
 
-relevant model or scenario, and this ability is extended with each
+building a pipeline of prospects. After this initiative, 88% of the MDs
 
-iteration. In fact, there’s some evidence that this process reshapes
+reported a much better understanding of their responsibilities and
+
+improved decision-making skills; 90% said their ability to collaborate
+
+with other lines of business had also improved. These are compelling
+
+results compared to most training initiatives.
+
+The simulation scenarios involved narratives, or plotlines depicting
+
+common work situations. This is a key element in promoting durable
+
+learning. As one summary of the research puts it: “Narrative provides
+
+not only meaning but also a mental framework for imbuing future
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,25 +1,39 @@
-## HBR / Digital Article / Using Fiction to Find Your Strategy
+---
+source_path: H0734V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e67266c4301b1569667925ca983319a40d364270
+title: H0734V-PDF-ENG
+---
+## of these scenarios with employees from all areas and levels of the
 
-inclusive by focusing on events such as Black History Month and Pride
+company. The participation of a wide group of individuals helps expand
 
-Day. While discussing how to get there, the company also realized that
+strategizing to certain stakeholders, such as frontline employees, who
 
-its targeting strategy would be much more accurate as a result.
+can contribute different and necessary perspectives as well as identify
 
-Finally, we use the design fictions to design shareable artifacts (e.g.,
+opportunities to seize. In small groups, we help them reflect on the role
 
-short movies, fictitious newspaper articles) which can be considered as
+that their companies could play in these scenarios of possible futures
 
-a prototype of the companies’ future. From these artifacts, a roadmap
+and how to provoke the conditions for a more desirable future. Design
 
-of strategic transformation is created. For instance, a design fiction
+fictions emerge from these discussions. They describe new missions
 
-project with a large construction company ended up shifting their
+and visions for companies and how to get there. In the project we
 
-innovation strategy after they invented a future in which 3D printing
+conducted with the car insurance company, this part of the design
 
-made building construction carbon-emission free. The transformation
+fiction process triggered a change in the mission of the company from
 
-roadmap included areas of 3D printing to focus on and investments
+insuring cars against damages to enabling individual journeys with
 
-needed to shape this desirable future.
+all mobility means. Workshops with the fragrance brand around the
+
+“Christmas is over” scenario generated a new mission that was more
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

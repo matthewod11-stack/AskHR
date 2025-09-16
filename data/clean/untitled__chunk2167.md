@@ -1,5 +1,15 @@
-# McGraw-Hill.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 98fbdafd621f33b3677e55521e835805150aa8a8
+title: untitled
+---
+# American Psychologist, 10, 238–242.
 
-Howard, A. (1990). The multiple facets of industrial/organizational psychology: Membership survey results. Arlington Heights, IL: Society for Industrial/Organizational Psychology.
+Holland, B., Hogan, R., & Sheton, P. (1999). From phrenology to fraud: The breakdown of science in the practice of industrial- organizational psychology. Industrial-Organizational Psycholo- gist, 36(3), 35–36.
 
-Howard, A. (Ed.). (1995). The changing nature of work. San
+Hollenbeck, J. R. (Ed.). (1998). Personnel psychology’s citation leading articles: The ﬁrst ﬁve decades. Personnel Psychology, 51(4), Editorial.
+
+Hoppock, R. M. (1935). Job satisfaction. New York: Harper.
+
+Houser, J. D. (1938). What people want from business. New York:

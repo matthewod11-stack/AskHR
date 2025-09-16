@@ -1,27 +1,17 @@
-# Intrapreneur Programs
+---
+source_path: H08D7W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d14b6e29afa2761acce7d0da6af82b58a1ca2539
+title: H08D7W-PDF-ENG
+---
+## only facilitate investments and research partnerships, but they also
 
-Where do employees with big ideas go? Often, they make their big ideas
+provide lab space and support services for promising startups without
 
-small to get approved easily, or they simply leave. History is witness
+requiring an equity stake. This can give Johnson & Johnson an inside
 
-to how Steve Wozniak left HP because it wouldn’t do anything with
+track with the startup when the timing is ripe. The fruits of the program
 
-his design for an early personal computer — the Apple I. In fact, they
+have been substantial — as of 2023, 840 incubations of companies in
 
-rejected it ﬁve times! Organizations serving the core business day-to-
-
-day may hesitate to take the ideas on board because they don’t ﬁt their
-
-operating model and may drain resources and take too long to pay oﬀ.
-
-To ﬁght these challenges, companies need to provide a structured way
-
-for idea champions to build out their concepts without over-committing
-
-to them before they’re ready.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+this network had yielded more than 290 deals or partnerships with J&J.

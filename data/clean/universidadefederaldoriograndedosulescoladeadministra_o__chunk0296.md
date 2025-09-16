@@ -1,11 +1,9 @@
-## meio de uma entrevista semiestruturada e da aplicação de um questionário
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 074d3e03a6b9813513dc016cadd427faa08e8087
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## de como se desdobra o emprego da ferramenta eNPS como medida de
 
-quantitativo, ambos com funcionários da empresa em que o foi conduzido. Como
-
-complemento, documentações a respeito dos processos de pesquisas com
-
-funcionários da empresa disponibilizados para a pesquisadora também foram
-
-utilizados e analisados, somados à observação da autora, enquanto funcionária da
-
-companhia nos últimos três anos.
+engajamento em uma organização real. A técnica de coleta de dados se deu por

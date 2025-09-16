@@ -1,15 +1,23 @@
-# HBR / Digital Article / How to Learn from Your Mistakes and Make Better Decisions
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e7c950e5bbbf4a5de5b899ac1b708a2c9908b170
+title: H08EDN-PDF-ENG
+---
+## thoroughly check references for candidates’ strengths, limitations, and
 
-Stacey was so surprised at how quickly she gained insight into her
+ﬁt for our organization.”
 
-decision-making that she shared the questions and her responses with
+. . .
 
-her HR colleague Jordan, who made adjustments to the interview
+I’ve written extensively about how strategic stops can enable us to
 
-process. Top candidates are now asked to write out speciﬁcs about how
+mine the data of our past to help us to move forward with decisions more mindfully and eﬀectively. This set of questions can give you an
 
-they will fulﬁll their new role and responsibilities, and all references are
+actionable plan for making decisions with greater conﬁdence.
 
-checked fully. The result is that Stacey’s most recent hire – who had
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-never held the COO role before — recently celebrated her successful
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

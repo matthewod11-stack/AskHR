@@ -1,17 +1,31 @@
-# HBR / Digital Article / Building Cross-Cultural Relationships in a Global Workplace
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20e40cf8d4cd982e959161b1bd9f78a6c008312f
+title: H081NE-PDF-ENG
+---
+# Privacy
 
-perspective from a Taiwanese manager, who griped that the default
+All relationships involve some degree of personal disclosure, but what
 
-American style of getting-to-know-you questions was far too personal.
+you reveal and how soon you share it vary tremendously across cultures
 
-“They say things like, ‘Tell me about yourself,’ or ask questions about
+(and personalities!). A Brazilian interviewee said there’s almost no topic
 
-my background, my family. And I’m thinking, ‘Slow down, I just met
+she wouldn’t discuss with her workmates, and she found it oﬀ-putting
 
-you! Let’s talk about something less personal ﬁrst.’” It’s easy to see how
+that people would put up artiﬁcial walls around their personal lives
 
-these diﬀerences in cultural norms could easily lead two colleagues to
+while at work. “What’s the big deal? We’re all just people!” According
 
-completely misjudge each other’s approach and even assume that the
+to her, if she tried to get to know someone a few times and they
 
-relationship was hopeless, when the truth is that they just have diﬀerent
+wouldn’t open up, she would likely assume that person was a snob, or
+
+anti-social, and would probably give up. Now consider a totally diﬀerent
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

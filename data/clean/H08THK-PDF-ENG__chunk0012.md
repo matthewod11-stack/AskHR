@@ -1,23 +1,13 @@
-# into blame or false optimism.
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ba982b67716970fef9bc00b83a2bc1e73100bdf5
+title: H08THK-PDF-ENG
+---
+# HBR / Digital Article / Our Favorite Management Tips on Communicating Like a Leader
 
-Make space for real questions. Don’t redirect or minimize concerns.
+Acknowledge what’s working. As you address uncertainty, point to
 
-Ask your team what’s weighing on them and how it’s showing up in
+areas of progress. Use a “yes, and” approach: Yes, things are messy—and
 
-their day-to-day work lives. If no one speaks up, check in with trusted
-
-team members behind the scenes to get a fuller picture.
-
-Respond with care. When you don’t have answers, explain what could
-
-inﬂuence the outcome. Share details only if they aﬀect the team’s
-
-reality; disclosing what’s irrelevant or uncertain creates confusion.
-
-Stick to the facts. Avoid speculation. Use data and observable progress
-
-to ground your message. Reinforce how the team’s work supports key business goals like revenue or eﬃciency.
-
-Model resilience. Show up with calm and clarity. In tough moments,
-
-consistency builds trust—and helps your team focus on what they can
+we’re doing good work. Be honest about challenges without slipping

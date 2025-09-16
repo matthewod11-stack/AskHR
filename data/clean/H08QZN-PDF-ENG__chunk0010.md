@@ -1,21 +1,15 @@
-# stakeholders more eﬀectively.
+---
+source_path: H08QZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea86f4f29a38c80e035a0cbf0dde21eefaf50aa5
+title: H08QZN-PDF-ENG
+---
+## criticism rather than valuable strategic partners.
 
-Identify a style you’re overusing and try on new ones.
+By scanning at the level of the business, stakeholders and self, the VP
 
-To help you assess which styles you tend to favor, consider how you
+realized he needed to lead with more clarity and conviction to improve
 
-show up across these six leadership styles, as provided by psychologist
+credibility around what his team could promise and deliver. Shifting his
 
-Daniel Goleman’s research: directive (using command and coercion),
-
-authoritative (deﬁning a vision to follow), pacesetting (insisting on high standards), aﬃliative (preferring personal bonds), democratic (seeking
-
-consensus for decisions), and coaching (prioritizing individual growth).
-
-Several factors inﬂuence your chosen style, from your personality and
-
-unique strengths, to how you were taught about leadership, perhaps
-
-from prior bosses or mentors. But comfort breeds complacency, and
-
-as needs change, your over-reliance on one approach can limit future
+style with this intention helped reset and re-engage both his team and

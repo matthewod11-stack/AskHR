@@ -1,9 +1,9 @@
-# interpretability via feature
+---
+source_path: 4th_international_conference_on_innovative_practices_in_technology_and_managemen.md
+pages: n/a-n/a
+chunk_id: 10ca042147c4a5208cbb6159d983450fe03dc8eb
+title: 4th_international_conference_on_innovative_practices_in_technology_and_managemen
+---
+# firms
 
-REFERENCES [1] Archita Banerjee, R. K. G. M. G., 2017. A Study on the Factors Influencing the Rate of Attrition in IT Sector: Based on Indian Scenario. Pacific Business Review International, 9(7), p. 01
-
-[2] Kotsiantis, S. B., 2007. Supervised Machine Learning: A Review of
-
-[3]
-
-Classification Techniques. Informatica 31, 1(1), pp. 249-268. IBM , 2018. Employee Attrition and Performance - IBM Analytics. [Online] at: https://www.ibm.com/communities/analytics/watson-analytics- blog/hr-employee-attrition
+It has been shown that XGBoost is a very successful and popular algorithm for predicting staff attrition. XGBoost builds an ensemble of decision trees iteratively by utilizing a gradient boosting framework and gradually increasing prediction performance. This approach is well-suited for the complicated nature of attrition prediction because it performs well in capturing intricate linkages within the data and managing both numerical and categorical characteristics [19]. Because of its regularization approaches, XGBoost provides better prediction accuracy and efficiency while preventing over fitting. Its ability to prioritize various qualities makes it easier to pinpoint the main causes of attrition. Furthermore, XGBoost offers importance ranking, allowing interested parties to understand the key factors influencing attrition forecasts. Effective hyper parameter optimization and cautious management of unbalanced datasets are key components in maximizing XGBoost's employee attrition prediction ability. G. Logistic Regression (LR)

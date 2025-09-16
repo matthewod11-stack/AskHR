@@ -1,33 +1,43 @@
-## HBR / Digital Article / Office Politics Don’t Have to Be Toxic
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 955ba4172495dc3abed206a9db23d88e5630fef4
+title: H07268-PDF-ENG
+---
+# cultures.
 
-their peers “played the game” that was “all about trying to get the other
+Toxic cultures lead to disengagement from office politics
 
-person down.”
+Unsurprisingly, many of the people we talked to shared extremely
 
-In response to these toxic cultures, many of the people we talked to
+negative experiences with oﬃce politics. They told us stories of feeling
 
-disengaged from politics, keeping their heads down and redoubling their work eﬀorts rather than joining the political melee. For example,
+excluded from informal relationships, being overlooked or pushed aside
 
-one interviewee told us that participating in their workplace’s oﬃce
+by managers, and witnessing underhanded behavior from their peers.
 
-politics meant “you’re willing to bend the rules and you’re willing to
+One participant explained how it was “an impossible task to break into
 
-bully, you’re willing to step on people, and morally, to me, I don’t
+those cliques and establish yourself.” Another vividly described the
 
-agree with that, so I would not be part of that social club, so I haven’t
+brutality of their workplace, saying, “They’ll slit your throat in front
 
-[progressed].” Another explained, “I didn’t get involved in the politics;
+of you over there. They’ve got no issues about that.” Others recounted
 
-just did a good job and that was it.” Some even sought to leave their jobs
+times when they were scapegoated or stepped over: “I’d been sidelined
 
-entirely: “I wasn’t conﬁdent I would succeed because of the cliquiness of
+because [the managers] took the credit,” one participant recalled.
 
-the organization,” a participant shared, “so I looked for jobs elsewhere.”
+Our analysis also demonstrated that toxic oﬃce politics cultures can
 
-These reactions are understandable — but the problem with avoiding
+be created and perpetuated at any level of the organization. One
 
-the political arena is that it can lead employees to miss out on the vital
+participant described how their manager “started bringing his friends
 
-development opportunities and relationships they need to get things
+in, so I got moved to a lower position,” while others described how
 
-done and advance their careers.
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

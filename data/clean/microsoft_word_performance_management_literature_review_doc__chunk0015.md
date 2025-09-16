@@ -1,13 +1,9 @@
-# (cid:37) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:2)(cid:6)(cid:2)(cid:8)(cid:13)(cid:35)(cid:10)(cid:14)(cid:15)(cid:13)(cid:2)(cid:3)(cid:7)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)(cid:17)(cid:2)(cid:18)(cid:15)(cid:2)(cid:19)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: eb9c9c92ad371bb61dc96b4dee7baf951e4a2214
+title: microsoft_word_performance_management_literature_review_doc
+---
+# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:36)(cid:10) (cid:10)
 
-(cid:34) (cid:35)(cid:8)(cid:17)(cid:20)(cid:5)(cid:9)(cid:4)(cid:8)(cid:5)(cid:2)(cid:8)(cid:12)(cid:13)(cid:14)(cid:20)(cid:31)(cid:3)(cid:5)(cid:3)(cid:8)(cid:5)(cid:2)(cid:8)(cid:30)(cid:7)(cid:11)(cid:9)(cid:10)(cid:11)(cid:13)(cid:31)(cid:2)(cid:28)(cid:7)(cid:8)
-
-(cid:35)(cid:14)(cid:14)(cid:11)(cid:31)(cid:5)(cid:3)(cid:31)(cid:15)(cid:3)(cid:8)
-
-Much literature has pointed to the problems with performance appraisals, which has led some commentators to call for abolition of the process or a renewed focus on the core elements of performance appraisal. For example, Coens and Jenkins based on their experience in North America recommended ‘abolishing performance appraisals’ (2000), citing regular failings in development planning, objective setting and 360 degree feedback. They advocate instead broader performance management approaches focused on customer outcomes and decoupling the complex mix of processes often tied up inside performance appraisal. They cite a Police Department in Madison, Wisconsin which replaced traditional appraisals with a system of individual goal setting, leadership training and employee involvement that let officers choose who they wanted to work with and who supervised them. A US Department of Justice comparative study found that Madison had the highest levels of citizen satisfaction following the changes.
-
-Gratton and Ghoshal (2002) argue that at all levels, the emphasis should be on the core of the appraisal and development process, that is ‘improving the quality of conversations’, rather than going through ‘dehydrated rituals’, with open and honest leaders setting the example for a culture of curious, creative learning organisations. Cunneen (2006) also highlights the issue of managers and employees simply going through the motions of the process when he stated:
-
-‘Not only do managers dislike carrying out performance appraisals but many admit that it is the most dreaded task in their calendar. Too often it leads to a shallow discussion, with both parties colluding to meet the organisation's prescribed administrative procedure and, in doing so, avoiding the more fundamental issue of performance improvement.’
-
-These failings of appraisal have led to new approaches to performance management.
+of the employee. Individuals may demand a career where there is scope for development and progression, ‘whilst organisations will need to ensure they have the right people in the right jobs and are building a talent pool for the future’ (CIPD, 2003).

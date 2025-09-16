@@ -1,17 +1,33 @@
-# generation of sellers:
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdad44a647dbe089f078b417a782842fe88eb9b2
+title: H07BT4-PDF-ENG
+---
+# HBR / Digital Article / Why Some of Your Salespeople Are Dragging — and How to Fix It
 
-“When we look at why people leave, it’s the lack of development
+To address these concerns, FedEx changed how they structured their
 
-opportunities. Through SLA, we’ve seen a reduction in turnover as
+seller leadership academy. Under the new program, selected applicants
 
-SLA prevents other ﬁrms from poaching talent, and there has been
+could test drive a management role before fully committing, with
 
-improvement in seller engagement as well.”
+no penalty for opting out and remaining in a frontline sales role.
 
-Leaders might question expanding career development opportunities
+Unselected applicants were provided with supplemental development
 
-if those opportunities make it easier for sellers to leave the sales
+opportunities and individual coaching to help position them for success
 
-organization. But our research shows that sellers who feel locked
+in the next application cycle, further mitigating perceived risk.
 
-into a particular career path are more likely to look for outside job
+FedEx didn’t limit program eligibility to a hand-selected few. Instead,
+
+they changed how they identiﬁed leadership academy candidates:
+
+Rather than requiring nomination from a manager, sellers could
+
+now signal their career aspirations and commitment by applying
+
+independently. According to FedEx’s European Sales VP, the Sales
+
+Leadership Academy (SLA) has been a valuable tool for the next

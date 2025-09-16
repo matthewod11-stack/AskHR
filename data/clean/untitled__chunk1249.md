@@ -1,3 +1,11 @@
-# the successful agricultural
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 21b9670bc4a40e90231155e88b026a08a10f7a31
+title: untitled
+---
+# The Institutes of Child Development
 
-The institutes not only created a professional workforce of child developmentalists but also initiated some of the major longitudinal projects of the century. Some of these projects were highly specialized; others were more general. At Yale, Arnold Gesell (1880–1961) began his intensive studies of children’s motor development, while John Anderson at Minnesota provided detailed descriptions of personality de- velopment (Anderson, 1937). At Berkeley, two sets of lon- gitudinal studies began in the late 1920s and early 1930s focusing on a variety of aspects of development—intellec- tual, social, and motor (see Bayley, 1949; Elder, 1974). Sontag (1944), at the Fels Research Institute, also started a longitudinal study in the 1930s that lasted until the 1970s. The Fels project also used a broadband approach involving assessments of social, emotional, motoric, and physical de- velopment. These studies were largely atheoretical and descriptive; they provided important normative guidelines concerning early developmental timetables.
+Reﬂecting societal concerns about ways to improve the rearing of children, a number of research institutes were
+
+established around the United States, including those at the University of Iowa, the University of Minnesota, Teachers College at Columbia, Yale, and the University of California, Berkeley. The goals of these new institutes were research, teaching, and dissemination. The programs were modeled after research stations. As Mrs. CoraBusseyHillis, anearlysupporterof theseactivities, envisioned,“ifresearchcouldimprovecornandhogs,itcould improve children” (Sears, 1975, p. 19).

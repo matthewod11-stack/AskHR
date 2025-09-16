@@ -1,13 +1,31 @@
-## Is the Problem Complex, or Just Complicated?
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57d1054f0578d216012480101d981297ce5c5c54
+title: H08IKX-PDF-ENG
+---
+# and product decisions.
 
-The challenges created by the Covid-19 pandemic illustrate the
+Covid-19’s complexity, with its attending uncertainty, had to be
 
-diﬀerence between complicated problems and complex ones, terms that
+embraced before top management could devise solutions to deal with
 
-are easily confused. Complicated stems from the Latin “complicar,”
+it. Thus, the three decision-making principles became a guiding light
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+as management took a series of iterative actions to adapt to Covid-19’s
 
-2
+evolving nature. For example, initially Best Buy had to close all 1,025
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+stores, but then it became one of the ﬁrst national retailers to reopen
+
+its stores safely a few months later. When the stores closed, Best Buy
+
+furloughed 51,300 employees, but many of them were brought back
+
+when stores reopened. Throughout, Barry relied heavily on her ﬁeld
+
+teams to make the best decisions they could, guided by the principles
+
+they had agreed upon. Barry and her team knew that each decision was
+
+provisional and could be revisited and changed as the crisis unfolded.

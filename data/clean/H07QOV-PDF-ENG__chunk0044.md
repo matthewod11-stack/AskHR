@@ -1,35 +1,61 @@
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30aec1cbde2bf5041a3d9e25371187e118ac0484
+title: H07QOV-PDF-ENG
+---
 ## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
-
-And consider why it matters to you and why what you are doing or
-
-leading matters to the world.
-
-Having done that, share it. Share it often and then just as quickly invite
-
-others in to help navigate the necessarily stormy waters that lie ahead. I
-
-think it starts with you and then it’s an honest sharing of why you care,
-
-why it’s challenging, why you very much need and are interdependent
-
-with others. Because all of us want to be needed. We want to be needed.
-
-We want to matter.
 
 ADI IGNATIUS:
 
-The last few years, with the pandemic, I’d say certainly in the U.S.,
+Furthering that, here’s a question from Benny from California. What’s
 
-there’s been increased attention to social issues, which on the one hand
+the best way to speak to subordinates after a failure to boost morale and
 
-I think felt right to people in the workplace. On the other, it brought
+communicate that, “This was a good failure. It’s OK”?
 
-more challenges into the workplace. One imagines there’s a pendulum,
+AMY EDMONDSON:
 
-and it might swing between leadership needing to be very empathetic
+I’m going to say “honestly.” You can be honest about, “Wow, this was
 
-to, I don’t know, the backlash if that’s the right word. Leaders need to
+disappointing for all of us, and let’s get everything we can out of it.
 
-achieve productivity. That’s what it’s all about. Do you believe in that
+Let’s learn as much as possible.” And in fact, given that something
 
-pendulum or are we in a diﬀerent place? And if you do, where are we
+substantial that goes wrong nearly always has multifaceted aspects to
+
+it, it’s helpful to have a thoughtful and data-driven conversation about
+
+what happened. Not “Who did it?”, but, “What happened?”
+
+We may go around the team and ask, “What did you see?” And we’re
+
+really looking for what happened, what contributed to that, and that’s
+
+both commission and omission, things that you did that may have
+
+contributed, things that you didn’t do that may have helped. It’s
+
+a thoughtful, deliberately learning-oriented conversation designed to
+
+help us be better next time.
+
+ADI IGNATIUS:
+
+How do you reenergize your team these days? How do we reenergize our
+
+team particularly now, in 2023, where it feels like there’s a lot of stuﬀ
+
+swirling around?
+
+AMY EDMONDSON:
+
+It starts with personally taking the time to reconnect with your own
+
+sense of purpose for doing the job, the role that you are currently doing.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+15
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

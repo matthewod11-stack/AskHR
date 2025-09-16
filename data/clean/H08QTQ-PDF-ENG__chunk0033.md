@@ -1,11 +1,15 @@
-# answer these questions.
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50c35195eb71c2bdc810761f7a60e270ed043884
+title: H08QTQ-PDF-ENG
+---
+## HBR / Digital Article / The Right Way to Implement Stretch Assignments
 
-How to ﬁx it: Organizations should not only track who is getting stretch
+assignments than men. Were they being given these opportunities to
 
-assignments, but also clarify how these opportunities connect to career
+develop their skills rather than to position them for leadership? In other
 
-growth. Simply assigning high-stakes work—or encouraging employees
+words, do men get higher-value stretch assignments to advance, while
 
-to seek it out—isn’t enough. Employees need to know: What does
-
-success look like? What speciﬁc skills will be developed? How will this
+women get stretches to prove themselves? More research is required to

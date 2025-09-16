@@ -1,25 +1,23 @@
-## HBR / Digital Article / 7 Strategies to Break Down Silos in Big Meetings
+---
+source_path: H06GCB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89a2858a09c55bb0ba6fdf45d5cc5404e3419aed
+title: H06GCB-PDF-ENG
+---
+# Ensure participation.
 
-Ask the right questions to generate questions.
+Let people know it will be important to hear from everyone on key
 
-Shanna used to solicit questions and, after a pause of about a
+topics. If they agree with someone else, they can say, “plus one” rather
 
-microsecond, barrel ahead. She chose a diﬀerent strategy to encourage
+than echoing the idea. If they really don’t have anything to contribute,
 
-interaction. Instead of saying, “Do you have any questions?” consider
+they can say, “pass.” By requiring a pass or plus one, we raise the bar for
 
-asking, “Who has the ﬁrst question?” If there’s silence, follow up with a
+participation and insert everyone’s voice into the room.
 
-joke, “OK, who has the second question?” and then allow the silence to
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-sit long enough to allow people to come up with rich queries. Shanna
+3
 
-learned not to ﬁll silences and to ask more questions of her audience
-
-instead of the presenter. For example, “If a developer on your team
-
-heard this sales presentation, what questions would they have?” or,
-
-“What do you need to know to vote on this option?” Sometimes it’s how
-
-you invite questions that results in quality responses.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

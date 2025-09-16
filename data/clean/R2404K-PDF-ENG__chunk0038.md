@@ -1,19 +1,23 @@
-## from the bureaucracy and political maneuverings of a large company. In
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6081bfdb234c4fb0d6c8d56381f9a5d64d9ce41f
+title: R2404K-PDF-ENG
+---
+# Stage 3: Developing the Innovations
 
-other words, working at an accelerator allows innovative people to focus
+In the third stage the accelerator’s leadership team recruits key
 
-on what they do best: designing and engineering new products.
+management and technical talent to develop products and creates
 
-The accelerator attracts talent, both from large corporations and start-
+incentives to ensure that the new products ﬁt the corporation’s strategic
 
-ups, because it oﬀers a fast-paced entrepreneurial climate and removes
+aims. The advantage of working in an accelerator is that, unlike at a VC-
 
-funding and acquisition risks. The best practice is to institutionalize
+funded start-up, the team developing the growth driver is not expected
 
-recruiting from an ecosystem of repeat players, which could include
+to spend time building up the operating infrastructure of a business
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+(HR, accounting, marketing, and sales) or engaging in multiple and
 
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+time-consuming rounds of fundraising. They are somewhat sheltered

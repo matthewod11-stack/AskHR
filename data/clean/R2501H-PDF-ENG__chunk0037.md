@@ -1,7 +1,11 @@
-## simultaneously. And in circumstances where community building isn’t
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 34c2082e1f1ddcc92db2a272598350c2b9c9ad8f
+title: R2501H-PDF-ENG
+---
+## HBR / Magazine Article / Three Ways to Lead Learning
 
-a priority, connectors can appear unfocused. When introduced to the
+But connectors aren’t perfect. Their work is criticized as being ineﬃcient, and it surely takes time. They also often mentioned that it
 
-three types, some executives have even told me that they do not believe
-
-connectors really exist—that they’re just custodians or challengers
+was a struggle to hold instrumental and humanistic views of learning

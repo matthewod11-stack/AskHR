@@ -1,11 +1,9 @@
-## construction and manufacturing to IT and ﬁnance) with little to no
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d473de681b11a495b8b2f42c76c57760d4ed7402
+title: H08BKU-PDF-ENG
+---
+## On this note, in our second longitudinal study from 2023, we
 
-experience in hiring refugees to understand what resources and support
-
-they need to succeed in this endeavor. We found that traditional
-
-recruitment processes often prevent managers from tapping into non-
-
-traditional talent pools, with refugees being just one example of those excluded. Most conventional staﬃng approaches are built around
-
-mainstream talent-sourcing avenues, use a pre-deﬁned list of criteria
+interviewed 35 Australian employers across various industries (from

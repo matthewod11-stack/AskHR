@@ -1,25 +1,19 @@
-# with prosocial behavior.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: b5d0f5c04a8b7930b9d81481f1c011d7dcba4130
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-Leaving aside crowding out, monetary incentives could also affect performance
+is to create a theory which permits both positive effects and negative effects (Le.,
 
-negatively if high incentives create arousal that inhibits automatic responses or cre-
+“hidden costs” or “crowding out”). In Benabou and Tirole’s theory, crowding out
 
-ates distraction (e.g., “choking under pressure”). According to the “Yerkes—Dodson
+occurs when an agent thinks the principal knows more about job difficulty or the
 
-Law” (Yerkes and Dodson 1908), arousal increases performance up to a point at
+agent’s abilities than she herself does. Then the agent takes the provision of high-
 
-which further arousal degrades performance. Ariely et al. (2003) demonstrate this
+powered incentives as a bad sign. Their theory is much like the original idea in social psychology but more carefully specified and rich with empirical implications (chiefly, that hidden costs should only occur when workers think incentives signal
 
-effect with experiments conducted in India. They allowed their subjects to earn up to six months of wages® in various simple games. Surprisingly, the subjects with
-
-the highest payment perform worse than those with the moderate and the low pay-
-
-ment in almost all games. It is, of course, unclear how relevant this effect is for the
-
-economics of organizations, given actual wage-setting and reward policies. Even if
-
-the effect were prevalent, wage-setters may account for it and adjust wages appro-
-
-priately. Moreover, if experience with high-stakes situations decreases arousal, the
-
-effect may only apply to inexperienced agents.
+bad news). Benabou and Tirole (2004) discuss the case where incentives interact —

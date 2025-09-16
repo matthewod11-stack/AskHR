@@ -1,7 +1,11 @@
-# i
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f98322eb0edbe4f495cd0a13be13fd2d8a75eb29
+title: industrial_organizational_psychology_an_applied_approach
+---
+# s s e r t s
 
-7 6 .
+l l a r e v O
 
-n o i t a v i t o m
-
-c i s n i r t n
+employee satisfaction and commitment

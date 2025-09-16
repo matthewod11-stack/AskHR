@@ -1,9 +1,7 @@
-## Why Should We Care About Employee Attitudes?
-
-
-
-What Causes Employees to Be Satisﬁ ed with and Committed to Their Jobs? What Individual Diff erences Aff ect Job Satisfaction? Are Employees Satisfi ed with Other Aspects of Their Lives?
-
-367
-
-370
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 76beb5072365be6eed40a778a1b2df03ad6ce9bc
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Employee Satisfaction and Commitment

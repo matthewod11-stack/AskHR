@@ -1,15 +1,27 @@
-# HBR / Digital Article / What New CEOs Should Ask Themselves in Their First 100 Days
+---
+source_path: H08UY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e8bbe4f4d757788e2594489cbc5643a053f61fd
+title: H08UY5-PDF-ENG
+---
+# capabilities and traits.
 
-- Who will drive change from the trenches—coaching, empowering, and
+They also make a deliberate choice to bring in a mix of perspectives,
 
-elevating their teams, as opposed to just managing the business and
+including both fresh voices bringing new ideas and experienced leaders
 
-tracking metrics?
+who know the ropes. And while they are fair in assessing the leadership
 
-- Is my team inclusive of leaders who have diﬀerent viewpoints?
+team they inherit, they are focused on moving deliberately and making
 
-- Do I have leaders on my team who will challenge old ways of thinking
+the tough choices for who will drive the company forward. The result? A
 
-and drive towards where the business is headed?
+leadership team built with intention.
 
-- What signals am I sending to the organization and clients with my
+As you’re building your leadership team, ask yourself:
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

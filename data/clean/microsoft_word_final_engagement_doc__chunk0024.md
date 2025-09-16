@@ -1,15 +1,17 @@
-# Gallup Organization. See the online Gallup Management Journal. http://gmj.gallup.com/
+---
+source_path: microsoft_word_final_engagement_doc.md
+pages: n/a-n/a
+chunk_id: e6591705bff43d9eeca962fd1ec2265a61960ca8
+title: microsoft_word_final_engagement_doc
+---
+# VI. Resources
 
-Institute of Health Economics. See the 2009 report, Effectiveness of Organizational Interventions for the Prevention of Workplace Stress. http://www.ihe.ca/publications/library/2009
+The following is a list of free online resources available from organizations that offer assistance to employers and employees in the area of engagement.
 
-Partnership for Public Service and American University’s Institute for the Study of Public Policy Implementation. See the results of engagement surveys of over 220,000 U.S. federal government workers in 2007. http://www.bestplacestowork.org
+BlessingWhite. See the 2008 report, The State of Employment Engagement – 2008: North American Overview. http://www.blessingwhite.com/research.asp?pid=1
 
-Towers Perrin. See the 2006 report, Ten Steps to Creating an Engaged Workforce: Towers Perrin Global Workforce Survey. http://www.towersperrin.com/gws
+Center for Applied Positive Psychology. See the 2006 journal article, Retention on a Knife Edge: The Role of Employee Engagement in Talent Management. http://www.cappeu.org/strengths_at_work.aspx
 
-(cid:82)(cid:101)(cid:115)(cid:101)(cid:97)(cid:114)(cid:99)(cid:104)(cid:32)(cid:87)(cid:111)(cid:114)(cid:107)(cid:115)(cid:32)(cid:32)(cid:32)(cid:74)(cid:117)(cid:110)(cid:101)(cid:32)(cid:50)(cid:48)(cid:48)(cid:57)(cid:32)
+ColeySmith Consulting. See the 2006 presentation “Employee Engagement: Useful Facts and Figures.” http://www.coleysmithconsulting.com/your_resources.php
 
-(cid:32)
-
-(cid:32)
-
-(cid:49)(cid:48)(cid:32)
+Employee Engagement Network. Blogs and online network of over 1,000 global professionals interested in employee engagement practices. http://employeeengagement.ning.com/

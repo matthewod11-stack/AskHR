@@ -1,11 +1,9 @@
-## petence. Psychological Review, 66, 297–333.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d960d9180d9d4326da404dd05772b27b976038b7
+title: untitled
+---
+# 508 Ethnic Minorities
 
-Williams, B. H. (1997). Coming together: The founding of the Asso- ciation of Black Psychologists. Unpublished doctoral disserta- tion, Saint Louis University, Saint Louis, MO.
-
-Williams, R. L. (1974). A history of the Association of Black Psychologists: Early formation and development. Journal of Black Psychology, 1, 9–24.
-
-Wispe, L., Awkard, J., Hoffman, M., Ash, P., Hicks, L., & Porter, J. (1969). The Negro psychologist in America. American Psychol- ogist, 24, 142–150.
-
-Wohlford, P. (1992). Patterns of CMHS and NIMH support of clini- cal training for ethnic minorities. Clinical Psychologist, 45, 13–21.
-
-Wyatt, G. E. (2001). The legacy of multiculturalism. Cultural
+White, R. W. (1959). Motivation reconsidered: The concept of com-

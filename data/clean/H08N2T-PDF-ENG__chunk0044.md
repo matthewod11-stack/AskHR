@@ -1,13 +1,9 @@
-## with your values, oﬀer meaningful work, and foster personal growth—
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa44bb6320acc327c31315b28544b9b853f3fdf7
+title: H08N2T-PDF-ENG
+---
+## work enjoyment, continuous learning, autonomy, and a positive work
 
-even if they don’t come with the highest salary or status.
-
-- Mostly B’s: You are driven by extrinsic motivations like ﬁnancial
-
-success, career advancement, recognition, and stability. You’re willing
-
-to make sacriﬁces, work long hours, or endure less-fulﬁlling work
-
-experiences if it means reaching your long-term career goals faster.
-
-Your career pivot should focus on maximizing earnings, prestige, and
+environment. Your ideal career pivot should focus on roles that align

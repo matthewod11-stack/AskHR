@@ -1,9 +1,17 @@
-# JL
+---
+source_path: H04UQM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a61318f66b1ac3daa99d920ce08775460580807
+title: H04UQM-PDF-ENG
+---
+# leave policies.
 
-Josh Levs is a business consultant and author of All In: How Our Work- First Culture Fails Dads, Families, and Businesses–and How We Can Fix It Together. He previously spent 20 years reporting for NPR and CNN. Learn more at joshlevs.com.
+It takes a village to make this happen. But when we do, we help ensure
 
-Copyright © 2019 Harvard Business School Publishing Corporation. All rights reserved.
+that kids will grow up seeing mom and dad as equally capable at work and
 
-4
+home. They see that their choices do not have to be limited by their
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+gender. That fuels how they see their futures. In the long run, that’s the
+
+shift we need.

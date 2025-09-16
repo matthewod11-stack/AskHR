@@ -1,7 +1,11 @@
-# in its parkas.
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bb55fc270b51e05490427d50f83ed66ee8d71b2
+title: R2405E-PDF-ENG
+---
+## 50% of the material in the new Gore-Tex laminate with the recycled
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+textile is supplied through Bionic Yarn’s operations in Costa Rica, and
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the outdoor apparel brand Patagonia has already begun using the textile

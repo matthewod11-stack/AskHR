@@ -1,9 +1,11 @@
-## Scientiﬁc American (Vol. 183, pp. 44–47).
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ec5c04511d7288af3aa70836176e45635b5c303a
+title: untitled
+---
+# Society.
 
-Goldstein, K., & Scheerer, M. (1941). Abstract and concrete behavior: An experimental study with special tests. Psychologi- cal Monographs, 41, 239.
+Gantt, W. H. (1953). The principles of nervous breakdown: Schizokinesis. Annals of the New York Academy of Sciences, 56, 143–163.
 
-Gordon, H. (1948). Fifty shock therapy theories. Military Surgeon,
-
-3, 397–401.
-
-Gottesman, I. I., & Moldin, S. O. (1998). Genotypes, genes, gene- sis, and pathogenesis in schizophrenia. In M. F. Lenzenweger & R. H. Dworkin (Eds.), Origins and development of schizophrenia (pp.5–26).Washington,DC:AmericanPsychologicalAssociation. Harms, E. (1967). Origins of modern psychiatry. Springﬁeld, IL:
+Goddard, H. H. (1912). The Kallikak family. New York: Macmillan. Goffman, E. (1961). Asylums. New York: Anchor Doubleday. Goldstein, K. (1950). Prefrontal lobotomy: Analysis and warning.

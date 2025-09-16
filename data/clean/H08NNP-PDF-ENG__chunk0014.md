@@ -1,15 +1,13 @@
-## HBR / Digital Article / When AI Gets a Board Seat
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 876d4a0ad770339c826fdd070d1c14280bb173b5
+title: H08NNP-PDF-ENG
+---
+## consideration for themselves, their employees, and their external
 
-stakeholders, as the plant was located at the company’s headquarters
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-for more than 50 years. AI helped them to have a more complete, fact-
+4
 
-based, and nuanced discussion.
-
-- 2. Completeness illusion
-
-The breadth of LLM suggestions also had a downside. As the team got
-
-used to the tool pointing them to issues they otherwise would miss, we
-
-observed an emerging reliance on it in order to not overlook anything of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

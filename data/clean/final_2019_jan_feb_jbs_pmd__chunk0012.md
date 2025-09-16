@@ -1,9 +1,13 @@
-## (cid:108) Innovation and Sustainability: The Story of Indian QSR Foodbox
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: b4f5485371cb2a46daa72d1660ae3542b66c7d26
+title: final_2019_jan_feb_jbs_pmd
+---
+# in Government Applications
 
-48-55
+- Deepika Sachdev, Dr. Deepankar Chakrabarti, Dr. Ankur Mittal
 
-- Dr. Shruti Tripathi, Dr. Rashmi Rai
+(cid:108) A Study on the Impact of Demographic Factors on Group Performance of Neighbourhood Groups - Rajeev G, Prof. C. Suriyaprakash. PhD
 
-(cid:108) Competency Models for Training & Development: A Review - Swati Bhatia, Dr. D. N. Rao, Dr. (Maj) Deepak Bhatia
-
-56-64
+33-47

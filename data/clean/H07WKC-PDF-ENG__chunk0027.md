@@ -1,49 +1,31 @@
-## HBR / Digital Article / Can GenAI Do Strategy?
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8bdbce0739ac27245e4de722cab7c4c04bb1f3e
+title: H07WKC-PDF-ENG
+---
+## 60 minutes a strategy very similar to, and in some respects more
 
-as highly prestigious jobs — are increasingly encountering. And it’s a
+original than, one that a team of INSEAD MBA students took a week
 
-trend that will only continue.
+to put together. The students — many of whom were considering
 
-Does it mean that humans will be out of a job? Of course, if people
+careers as strategy consultants — were understandably rattled by the
 
-mimic a robot, then a real robot is likely to do a better job, and those
+idea that a high-level task such as strategy-making could, eﬀectively,
 
-people risk being made redundant. But there is also plenty of evidence
+be automated. But although it was perhaps the ﬁrst time many of
 
-to suggest that strategy-making will still require a human touch, and
+them had been confronted personally with this idea, the idea is not
 
-that the best way forward is to pair smart machines with smart
+that new. Increasingly we’ve found that tasks requiring analytic skills
 
-humans. In fact, technology has in nearly every ﬁeld increased the
+and experience can, in fact, be automated. It’s a phenomenon that
 
-value of the humans using it. By freeing strategists from routine tasks,
+accountants, bankers, and, lately, doctors — all traditionally regarded
 
-AI enables them to imagine and experiment more. Financial analysts became more eﬃcient with spreadsheets, writers more proﬁcient with
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-word processors. Well-built digital tools eventually enhance human
+6
 
-productivity — and they also typically create new jobs, though the
-
-transformation can be challenging.
-
-- • •
-
-Our hope is that virtual strategists will make their human counterparts
-
-better at their job, enabling companies to create inclusive value
-
-propositions that oﬀer sustainable paths to proﬁtability and more.
-
-And the new and impactful strategies that result will generate more
-
-value and the jobs that come with it. Our Blue Ocean–centric strategic
-
-ideation AI is fairly basic early-stage software, but work continues
-
-at a brisk pace. Future AI strategists will have mastery of multiple
-
-frameworks in addition to Blue Ocean, making them even more value-
-
-adding. We can’t predict every twist and turn but we would not be
-
-surprised if, in a few years, every company strategy team will include a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

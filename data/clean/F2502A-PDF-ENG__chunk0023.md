@@ -1,11 +1,7 @@
-# to measure and remeasure accuracy and
-
-security. However, every role and task has
-
-benefited from gen AI.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dc71a7cd6f839212296c34e9b06c221f49067ed7
+title: F2502A-PDF-ENG
+---
+# Brandon Hill

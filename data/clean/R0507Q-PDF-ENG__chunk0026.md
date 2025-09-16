@@ -1,11 +1,29 @@
-# company as a supplier overall.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd67d42ae9a8b536155b69d7a08a9a4a447d08c7
+title: R0507Q-PDF-ENG
+---
+## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
 
-Depending on customers’ evaluations to deﬁne some of a company’s
+get data from outside. To assess whether the company was achieving
 
-performance measures forces that company to view its performance
+its goal of providing reliable, responsive supply, ECI turned to its
 
-through customers’ eyes. Some companies hire third parties to perform
+customers. When it found that each customer deﬁned “reliable,
 
-anonymous customer surveys, resulting in a customer-driven report
+responsive supply” diﬀerently, ECI created a database of the factors as
 
-card. The J.D. Power quality survey, for example, has become the
+deﬁned by each of its major customers. The shift to external measures
+
+of performance with customers led ECI to redeﬁne “on time” so it
+
+matched customers’ expectations. Some customers deﬁned “on time”
+
+as any shipment that arrived within ﬁve days of scheduled delivery;
+
+others used a nine-day window. ECI itself had been using a seven-day
+
+window, which meant that it wasn’t satisfying some of its customers and
+
+overachieving for others. ECI also asked its top 10 customers to rank the

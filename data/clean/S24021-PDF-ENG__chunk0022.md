@@ -1,3 +1,15 @@
-## HBR / Spotlight / How Fast Should Your Company Really Grow?
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f477cbf380d8701c1dffc998102d3f906589ea7
+title: S24021-PDF-ENG
+---
+## up” through massive hiring and infrastructure spending and other
 
-These ﬁrms ﬁnd themselves with a patchwork of suboptimal systems,
+stopgap measures. Worker burnout and attrition are not uncommon.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

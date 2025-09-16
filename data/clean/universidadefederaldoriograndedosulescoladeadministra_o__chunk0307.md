@@ -1,5 +1,11 @@
-## este tipo de entrevista é frequentemente realizada com informantes-chave, que
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 10e565d7c8eccd5d16798700ac4d4e059a63c3d3
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# também chamado de informal, é
 
-podem ser especialistas no tema em estudo,
+recomendado para estudos exploratórios, que visam oferecer visão geral do
 
-líderes formais ou informais e
+problema pesquisado. O autor (GIL, 1999) afirma que, em estudos exploratórios,

@@ -1,17 +1,55 @@
-## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e60ebf681d205b09969f75cb7ab0ea4bdf98041
+title: S24042-PDF-ENG
+---
+## objectives. Map your goals against the calendar—and communicate
 
-grow, provide new perspectives, and push their thinking. With one new
+your achievements reliably. Then make course corrections as necessary.
 
-CEO we did that by focusing intently on strategic goal setting. The
+A plan that made a lot of sense six months ago may no longer do so
 
-process began with her personal purpose and then expanded to her
+because of changes in your competitive environment. Share the nature
 
-organizational purpose—with an emphasis on determining where they
+of such changes regularly with your audiences and make sure they
 
-overlapped. With our help and the engagement of an inner circle of
+understand that you’re making the necessary adjustments. This is yet
 
-conﬁdants, which included her heads of strategy and communications,
+another way to inspire their conﬁdence in you over the long term.
 
-she got the constructive feedback and encouragement she needed to
+Better yourself. With so many constituents to serve, most new CEOs
 
-ensure that she could do her job conﬁdently and with a strong sense of
+don’t prioritize their own learning. That’s a mistake. Continued
+
+investment in your own abilities will help you gain stakeholders’
+
+conﬁdence and build your self-conﬁdence more quickly.
+
+CEOs typically lack peers within the organization who can help
+
+them with this goal. Mahesh vividly remembers the ambiguity and
+
+uncertainty that came with suddenly being the person who was
+
+supposed to know all the answers. Having few people with whom he
+
+could share his concerns about the size of the task ahead, he focused
+
+on learning, engaging, and adjusting his style, and he developed
+
+techniques—such as documenting his intentions and desired outcomes,
+
+taking evening walks with his wife, and making time for yoga and
+
+meditation—that allowed him to stay anchored in the present.
+
+Most CEOs, new or experienced, beneﬁt from having a coach or an
+
+adviser—somebody who can regularly hold up the mirror, help them
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

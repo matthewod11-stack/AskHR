@@ -1,1 +1,17 @@
-# 103
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: eda9a9b409815d3e550547681f4b5b61d24fe373
+title: performance_management_3rd_edition_by_aguinis
+---
+# Deliberate Practice Makes Perfect
+
+Ricardo is an associate financial analyst in a large financial consulting firm. He works in the emerging markets division developing low-cost products for the Southeast Asia region. He was selected for this position because of his wide range of skills, relevant experience, and analytical abilities.
+
+During his time at the firm, he has worked on a variety of projects and has become well respected among his peers. He is satisfied with his job and with his progress so far, but he strives to work on more challenging projects, wants to make a greater impact, and seeks a leadership-centered role. Ricardo has a strong drive and eventually hopes to get a position at the highest levels of the organization.
+
+In recent years, the firm has remained stable but has struggled with growth. The recent economic downturn changed the financial landscape and is requiring new and innovative solutions to common issues such as reducing and calculating risk. As a result, the firm decided to launch a com- pany-wide competition for the best risk assessment model in
+
+order to motivate all of its employees to work on solving this issue. After several rounds of assessment and interviews, the top two finalists will be invited to present their ideas to the CEO who will make the final decision regarding the winner of the competition. The winning team will receive a substantial cash prize alongside significant prestige.
+
+Ricardo sees this as the perfect chance to impress his colleagues and supervisors and to establish himself as a top performer. This competition presents the ideal circumstances for him to not only prove himself but also really shine. He and his team are incredibly excited about this opportunity and have been working tirelessly on this project. Ricardo’s strong math and finance background help him come up with a comprehensive and complex algorithm that seems to be surprisingly effective in predicting risk. Each member contributes to different aspects of the project and together they create a strong proposal that they believe is worthy of winning the competition.

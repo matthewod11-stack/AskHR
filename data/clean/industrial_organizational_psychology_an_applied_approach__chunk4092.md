@@ -1,7 +1,9 @@
-## Brabant, C. (1992). Heat exposure standards and women’s
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3ca9f74671d22adfdd63d3447f68c0a37d170e4b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Bowling, N. A., Hendricks, E. A., & Wagner, S. H. (2010).
 
-work: Equitable or debatable? Women and Health, 18(3), 119–130.
-
-Bradley, D. (2004, December). Catawba County, N.C. Emergency Medical Services (EMS) wellness program. IPMA-HR News, 6–7.
-
-Bramson, R. (1981). Coping with diﬃ cult people. New York:
+Positive and negative aﬀ ectivity and facet satisfaction: A meta-analysis. Journal of Business and Psychology, 22, 115–125 in press.

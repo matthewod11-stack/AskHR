@@ -1,5 +1,9 @@
-# Prompt
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: aad95e073c40a89cb1be98ce000c8a0995cfd90b
+title: prompt
+---
+# Top-P
 
-Parse a customer's pizza order into valid JSON:
-
-EXAMPLE: I want a small pizza with cheese, tomato sauce, and pepperoni. JSON Response: ``` { "size": "small", "type": "normal", "ingredients": [["cheese", "tomato sauce", "peperoni"]] } ```
+1

@@ -1,7 +1,15 @@
-# clashes and misalignments.
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76bf15306104a4a74cf8ac6bca22495ce9c6bd66
+title: H082JA-PDF-ENG
+---
+# transition process.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Juggling multiple change initiatives.
 
-5
+Organizations frequently manage several change initiatives at once.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Balancing the shift to a ﬂat structure with other organizational changes
+
+can feel like changing the tires on a moving car, leading to potential

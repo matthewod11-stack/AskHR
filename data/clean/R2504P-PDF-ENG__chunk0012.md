@@ -1,29 +1,25 @@
-# right away.”
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f5c53a95ef97100748b760f92f86704dd08bd8f
+title: R2504P-PDF-ENG
+---
+# your questions.”
 
-Before Alex could respond, Akash Rao from RT Hinkley Capital,
+Rich Symond, who represented SolidTech’s founding family as head of
 
-SolidTech’s second largest shareholder, chimed in. “I actually see this
+its investment trust, which still held a majority stake in the company,
 
-as a good way to get to downsizing at SolidTech. The company needs to
+unmuted himself ﬁrst. “Do we have evidence that programs like this
 
-improve its margins, and if this reskilling program gives Alex cover to
+actually work in practice? Can we really get our existing employees to
 
-make his workforce leaner, I’m all for it.”
+the level they need to be so that they’re retainable? Or will we still have
 
-Alex winced. The last thing he wanted to do was oversee mass layoﬀs.
+to hire new software talent anyway and let other people go? I know that
 
-He glanced over at Sarah, and she jumped in. “That is truly not the intent,” she said ﬁrmly. “It’s an eﬀort to hold on to our people
+the family won’t want to see us do that to longtime employees, but I also
 
-while recognizing we can do so only if they have the right skills,
+worry that we’ll spend millions on retraining only to ﬁnd ourselves at a
 
-and to preserve institutional knowledge and culture while evolving
-
-capabilities. And, yes, we’ve seen companies like IBM and Amazon do
-
-this with great success.”
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+competitive disadvantage relative to companies that hired young guns

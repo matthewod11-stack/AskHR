@@ -1,13 +1,17 @@
-## For example, in many organizations, accounting and ﬁnance
+---
+source_path: H08V5N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 353fe85ad8857ce0d9d6b82ac476073a2407b093
+title: H08V5N-PDF-ENG
+---
+## HBR / Digital Article / How to Sync Your Budget with a Strategic Plan
 
-professionals see strategy as a bit “academic” so they become
+the implications on employee costs and model the trade-oﬀs against
 
-disengaged. Their grounding is in budgets, forecasts, and variances.
+expected improvements in retention or performance.
 
-They also see functions like HR as a bit “soft,” unable to understand the
+This approach not only demystiﬁes the connection between a strategic
 
-ﬁnancial impact of their decisions. On the other hand, HR or operations
+plan and its budget, it also changes the tenor of executive deliberations.
 
-may view budgeting exercises as narrowly ﬁnancial, disconnected from
-
-managing talent, morale, or service quality, and unable to see the
+I’ve found the process brings all parts of the executive team together.

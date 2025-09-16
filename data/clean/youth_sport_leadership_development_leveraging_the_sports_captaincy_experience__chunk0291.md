@@ -1,3 +1,9 @@
-# Hold Participants More Accountable
+---
+source_path: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience.md
+pages: n/a-n/a
+chunk_id: 4b8732ff0ef8e66569d8c2c0a9ebd03ec4c5e8cf
+title: youth_sport_leadership_development_leveraging_the_sports_captaincy_experience
+---
+# D. Gould and D. K. Voelker
 
-Another important goal is to develop an accountability piece to the program. Athletes are not developing real leadership if they use nothing they learned in their everyday lives. In turn, we would like to better encourage coaches and athletic directors to follow-up with their athletes and reinforce the imple- mentation of leadership skills learned in the program. For example, feedback might be provided to captains via a leadership report card. We have also pondered the idea of developing a protected online group for current and future captains to collaborate on leadership issues.
+their own athletes and how to develop a sport leadership development ini- tiative in their own schools. The biggest mistakes and recommendations for working with team captains informed from the results of a series of recent studies (e.g., Gould, Voelker, & Griffes, 2010) would also be discussed. Like the guide for student-athletes, a manual designed speciﬁcally for coaches and athletic directors would also be created.

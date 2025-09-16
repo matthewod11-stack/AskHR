@@ -1,1 +1,9 @@
-# 303
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: bba9622c0a481808a74c0bdcefbdfcd956cb7019
+title: performance_management_3rd_edition_by_aguinis
+---
+## Making Team Performance Management Fun at Whataburger, Inc.
+
+Performance management is usually considered to be a tedious and bureaucratic procedure. Whataburger, Inc., however, is making team performance management fun. Whataburger, a Corpus Christi, Texas-based fast-food chain of 626 restaurants, serves hamburgers, chicken, and other meals in the southern United States and in Mexico. The company holds an event called the “Whataburger games” twice per year during which managers, cooks, dishwashers, servers, and busboys compete in events testing their individual and team skills against others in the company. The top prize winners receive $5,000 in cash. The company believes that many benefits result from holding the games twice per year. According to management, the goals of the games are to emphasize operating procedures, to improve skills, to enhance teamwork, to reduce turnover, and to enhance the overall performance of the restaurants. The finals of the competition are held in conjunction with the managers’ convention, where winners are formally recognized before corporate owners and executives, along with peers and management in a ceremony awarding medals and cash prizes. In summary, the leadership at Whataburger has identified a friendly and fun competition as part of the overall performance management system that aims to contribute to improved team performance and the success of the company.16

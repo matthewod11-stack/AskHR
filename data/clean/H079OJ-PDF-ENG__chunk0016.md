@@ -1,9 +1,27 @@
-## over during a seemingly innocuous discussion about a board meeting
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8008f6547b38bc4a5fc0510c22a99167989af84b
+title: H079OJ-PDF-ENG
+---
+# a tough topic.
 
-date, leading to conﬂict that ultimately caused the business to miss out
+Often, the cliﬀ event that triggers outright conﬂict after a long period of
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+fake harmony is seemingly small on its own. But the months or years
 
-3
+of keeping quiet over other disagreements are baked into that moment,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+too. So, when it explodes, it can be hard to undo the damage. And when
+
+that happens, months, years, or even decades of progress as a family
+
+and an owner group can be undone. For example, one family owner we
+
+know (all identiﬁable details have been changed) nursed wounds from
+
+decisions by the other owners (his siblings) to wind down a favorite
+
+R&D eﬀort and hire the “wrong” non-family CEO, but he said nothing
+
+for months. His anger “irrationally” (accordingly to his siblings) boiled

@@ -1,13 +1,11 @@
-## for career advancement and belonging — though only a few mentioned
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 183e96525a149e07a553a4abaae7d0a16ba7663b
+title: H089KA-PDF-ENG
+---
+# women of color employees.
 
-that they had sponsors.
+- 2. Enable sponsorship and mentoring opportunities.
 
-Enabling and growing solid sponsors and mentors in the workplace
-
-can serve as counterspaces to combat negative experiences of
-
-microaggressions, biases, and favoritism. Counterspaces are conceptual,
-
-ideological, or physical settings that promote the psychological
-
-wellbeing of individuals who experience oppression. Sponsors can also
+Interviewees and survey participants expressed that sponsorship is vital

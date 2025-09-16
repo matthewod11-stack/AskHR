@@ -1,5 +1,13 @@
-## system”, Management Research Review, Vol. 36 No. 7, pp. 674-699.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: c69a44535add37aa4e87c6f8f82ec1e71e1bfc52
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# leadership, procedural
 
-Kim, J.N. and Rhee, Y. (2011), “Strategic thinking about employee communication behavior (ECB) in public relations: testing the models of megaphoning and scouting effects in Korea”, Journal of Public Relations Research, Vol. 23 No. 3, pp. 243-268.
+(2015), “Moderation of doing and mastery orientations in relationships among justice, commitment, and trust: a cross-cultural perspective”, Cross Cultural Management, Vol. 22 No. 1, pp. 42-67.
 
-Kim, S., Tam, L., Kim, J.N. and Rhee, Y. (2017), “Determinants of employee turnover intention: understanding the roles of organizational justice, supervisory justice, authoritarian organizational culture and organization-employee relationship quality”, Corporate Communications: An International Journal, Vol. 22 No. 3, pp. 308-328.
+Jiang, Z., Gollan, P.J. and Brooks, G.
+
+Jones, G.R., Gorge, J.M. and Hill, C.W.L. (2000), Contemporary Management, McGraw-Hill, Boston, MA. Katou, A.A. (2013), “Justice, trust, and employee reactions: an empirical examination of the HRM

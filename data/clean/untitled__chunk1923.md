@@ -1,3 +1,9 @@
-## tice. Englewood Cliffs, NJ: Prentice-Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4b38b623834b60c69f4d358c2d017f4c15a6c374
+title: untitled
+---
+# Real People Press.
 
-Pinel, P. (1806). A treatise on insanity [Traité médico-philosophique de la aliénation mentale] (D. D. Davis, Trans.). Shefﬁeld, England: Todd. (Original work published 1801)
+Phillips, E. L. (1956). Psychotherapy: A modern theory and prac-

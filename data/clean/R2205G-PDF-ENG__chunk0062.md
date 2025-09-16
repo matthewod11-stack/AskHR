@@ -1,25 +1,9 @@
-## FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f72545eaa3a32a9597afb9e6d5a471ee42cfad4
+title: R2205G-PDF-ENG
+---
+# September–October 2022
 
-When employees don’t have to worry about how to get away for a child’s soccer game, ask for a leave to care for a newborn, or find childcare, they can focus on their work.
-
-for the ﬂexibility they need and be more likely to approve requests from their subordinates. The CEO at a health care ﬁrm we visited has two small children and publicly takes advantage of work/life support so that she can spend time with them. “She wants people to work hard,” her HR manager told us, “but she wants people to balance their lives, and she has been a very good model for that.” The HR manager at a southern manufacturing plant told us, “When we see managers going home at 8 o’clock at night, we tell them to stop.” Meta’s CEO, Mark Zuckerberg; Twitter’s CEO, Parag Agrawal; and Reddit’s cofounder Alexis Ohanian have endorsed parental leaves by taking them.
-
-Use technology to coordinate. Collaboration and communication platforms such as Slack, Microsoft Teams, and Airtable can make ﬂexible scheduling easier to manage. When Dell formalized ﬂexible work arrangements, its HR department worked with IT and facilities to make sure every- one had the right training, technology, and collaboration tools to stay in touch and remain productive. GoBrandgo, a St. Louis marketing company, introduced an online calendar that lets all employees see when team members are working and when they’re out and implemented project manage- ment software that tracks the status of every task.
-
-make the principle of work/life support a reality, and new managers soon realize that “ﬂexibility is part of our fabric.”
-
-WORK/LIFE PROGRAMS ARE a remarkably powerful resource for employees and employers alike. When employees don’t have to worry about how to get away for a child’s soccer game, ask for a leave to care for a newborn, or ﬁnd childcare, they can focus on their work. And when managers are paying attention to employees’ output rather than hours clocked, they can focus on improving the performance of their teams. Covid-19 showed many managers that allowing employees ﬂexibility in where and when they do their work doesn’t hurt their eﬀectiveness and may even improve it. Widespread resistance to returning to the oﬃce indicates how important work/life balance has become.
-
-Work/life support enhances diversity in two ways. It improves all corporate jobs, including the many low-wage ones that typically come with little ﬂexibility and are held disproportionately by women and people of color. And it increases management diversity by making it possible for women and people of color—who often struggle the most with work/life balance—to stay at their companies and move up the ladder. This, too, beneﬁts employees and employers alike. Employers sometimes worry about the bother or cost of
-
-Measure output, not time put in. If managers want the work done, they should measure the work done. When Best Buy experimented with tracking employees’ results rather than their hours, their work/life balance and productivity increased—and turnover declined. (The initiative was killed when Hubert Joly, who believed in taking a tough stance with employees, came in as CEO—but not before it was copied by at least 40 other companies.) The software developer Trainual has taken a similar approach. Its CEO, Chris Ronzio, told USA Today that ﬂexible work freed him from having to keep a detailed ledger of employees’ time. “We’re putting more trust into our team,” he explained, “measuring them more by the results they produce than by the hours they log.”
-
-implementing work/life programs, but what they should really worry about is the bother and cost of not implement- ing them. Speciﬁcally, they should be concerned about losing workers who are good at their jobs, about the cost of ﬁnding and training their replacements, and about losing the battle for diverse talent.
-
-The bottom line is simple: It’s time at last for ﬁrms to acknowledge that every employee has a life outside the orga- nization and to adopt programs that have been proven to help balance it with work demands. Why not give everyone a shot at success? HBR Reprint R2205G
-
-Train managers to be work/life champions. At First Horizon Bank incoming managers attend a half-day class on how to help their staﬀ balance work and personal life, and a leadership success guide and internal website spell out the company’s work/life programs. As the bank’s HR specialist Leigh Ann Spurlin sees it, manager training has helped
-
-ALEXANDRA KALEV is an associate professor and the chair of the Department of Sociology and Anthropology at Tel Aviv
-
-University. FRANK DOBBIN is the chair of the Department of Sociology at Harvard University and Henry Ford II Professor of the Social Sciences. They are the authors of Getting to Diversity: What Works and What Doesn’t (Belknap Press, 2022), from which this article is adapted.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

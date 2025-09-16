@@ -1,11 +1,17 @@
-# quality of the team discussion.
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 032da49e75a4120e5cbc45e7e1efa3be4c029085
+title: H08VIB-PDF-ENG
+---
+# AI Sets the Table
 
-To start, she used AI to curate preparatory content and co-create the
+In the “AI sets the table” approach, AI is leveraged before a meeting
 
-pre-read material. Then, Anna shared it with participants along with
+or workshop to generate materials, templates, or guidelines to be used
 
-this structured prompt: “Based on this document [upload, share or link],
+in the room. Anna, the regional head of strategy at an automotive
 
-guide me through a three-step dialogue to extract key insights, explore
+company, used generative AI to help her prepare for a strategy planning
 
-strategic questions, and reﬂect on implications. You ask for my input
+meeting. Her goal wasn’t just to organize the session, but to elevate the

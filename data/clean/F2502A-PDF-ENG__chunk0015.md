@@ -1,13 +1,33 @@
-## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65c0fa05ebdaab3a6003fe3fe855c8692a50b968
+title: F2502A-PDF-ENG
+---
+# challenges.
 
-“Generative AI tools can boost productivity, and they can help
+“What employees do with the extra time ultimately depends on how
 
-employees improve work-life balance. But time reallocation requires
+managers encourage them to use it,” Engeler says. “Employees could
 
-a deliberate, intentional, and ongoing approach,” says Engeler. “By
+plan to use it for stretching, getting a coﬀee, interacting with colleagues,
 
-helping employees notice and reallocate their saved time, companies can ensure that AI-driven eﬃciency leads to meaningful changes in the
+or working on a strategic project. Whatever it is, it’s important to
 
-workplace and beyond.”
+allocate this time purposefully in advance. Without guidance and
 
-About the research: “What Do You Do with the Time Saved by Generative AI Tools? Many Waste It, Managers Included,” by Isabelle Engeler et al. (working paper, 2024)
+preplanned activities, the saved time might easily slip away unused.”
+
+Monitor how the time is redirected. Regular monitoring and feedback
+
+are crucial to help employees make the most of their newfound time.
+
+Managers should stay engaged, observing what their reports do with
+
+time windfalls and promoting eﬀective uses.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

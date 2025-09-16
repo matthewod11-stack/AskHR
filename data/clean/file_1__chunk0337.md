@@ -1,41 +1,19 @@
-## Reconciliation of work and family (high (cid:2)low)
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 401a3ffcab16b2f9e69896060a3da39ef0de705b
+title: file_1
+---
+## Gender composition of employment sector(0=male- female-concentrated)
 
-- .050
+- .004
 
-- 1.117
+- .102
 
-1.398
+1.039
 
-.042
+- .085
 
-.925
+- 2.184*
 
-1.399
-
-Family leave for male employees (not difficult(cid:2)clearly difficult)
-
-.124
-
-2.362**
-
-1.924
-
-.157
-
-2.976**
-
-1.924
-
-Family leave for female employees (not difficult(cid:2)clearly difficult)
-
-.073
-
-1.450
-
-1.767
-
-.043
-
-.842
-
-1.764
+1.038

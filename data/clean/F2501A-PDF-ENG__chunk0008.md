@@ -1,25 +1,13 @@
-## timeline for the whole organization by two years.
+---
+source_path: F2501A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df4d2d5ea54c41f232aa253925b4ebaebb76a7ba
+title: F2501A-PDF-ENG
+---
+# advance.
 
-Redesigning a training program is costly, especially in the near term, so
+Start small and grow. It takes an enormous amount of time just to
 
-start with a deﬁned group of employees and then expand to other areas
+catalog core skills. One company told Gartner that it took so long to
 
-as you get results. That way, your HR managers can understand what
-
-works and what doesn’t before rolling a program out broadly. They’ll
-
-also be able to assess how employees are progressing and whether there
-
-will be pushback when the program moves to new departments.
-
-Incorporate emerging skills when they become mission critical. “Over
-
-the course of ﬁve years, everyone will need to learn new skills,” says
-
-Guadagni. You should constantly identify emerging skills and assess
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+conduct a skills audit for a single set of roles that it had to extend its

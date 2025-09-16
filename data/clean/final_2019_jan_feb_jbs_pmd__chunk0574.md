@@ -1,3 +1,9 @@
-# Table-4: Current Ratio of select Non-banking financial companies in India Bajaj Finance
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: a354b372b2f9bfc8b6e612e41835ac7f53be2393
+title: final_2019_jan_feb_jbs_pmd
+---
+# Year
 
-Shriram Transport Finance Corporation Financial Services 4.53 4.41 3.97 4.44 1.53 1.61 1.51 1.63 1.69 0.99 2.63 1.49 56.65
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 Average S.D C.V(%)

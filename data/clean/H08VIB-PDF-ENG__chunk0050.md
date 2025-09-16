@@ -1,19 +1,15 @@
-# drive idea convergence after ideation.
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 556dd75aeae4aeb41c88ccc471f982075fa59a44
+title: H08VIB-PDF-ENG
+---
+# Move seamlessly between the three.
 
-. . .
+The three approaches explored in this article are not mutually exclusive.
 
-While the use of AI in teamwork is still emerging, pioneers like Anna,
+They can be combined ﬂexibly, depending on the needs in the moment.
 
-John, and David are already shaping best practices. The three modes
+AI can help set the table, then later everyone might use AI during a
 
-we’ve described—AI sets the table, AI at one seat, and AI at every seat—
-
-oﬀer a practical framework to guide your experimentation.
-
-This article was originally published online on August 27, 2025.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+brainstorming session, and ﬁnally the facilitator alone might use AI to

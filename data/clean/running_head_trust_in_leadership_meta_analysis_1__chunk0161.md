@@ -1,25 +1,25 @@
-## over-positive leadership styles (e.g., Van Quaquebeke & Felps, 2018).
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: f5e21947b00e4b3163a42fb5d16753398e32bc4f
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# of the charismatic (i.e., idealised influence) dimension of transformational leadership and
 
-The focus of the primary studies involved in our sample led to some further limitations
+thus part of the independent variable as well as the mediating variable. Worryingly, this
 
-and highlight important areas to be addressed by future empirical work in the area. First, the
+tautology and a priori positive framing may also be relevant to the scale used to measure
 
-nascent nature of some of the styles included in our meta-analysis, combined with the rarity
+ethical leadership which asks followers directly whether their leader “can be trusted” (Brown
 
-of studying multiple styles within a single empirical study, means it is not yet possible to
+et al., 2005). In fact, the value-based and moral behaviour models of leadership in general
 
-compare the influence of all styles within a single model. We recommend that scholars
+tend to correlate heavily with constructs traditionally examined as outcome variables (e.g.,
 
-investigating novel leadership styles include the role of established styles in their models to
+trust) and thus are carriers of endogeneity bias (Banks et al., 2018). Such an explanation may,
 
-determine issues of relative influence. In addition, an insufficient number of primary studies
+at least, partly explain the high correlations found between the different leadership styles and
 
-were available for some of the leadership styles to meaningfully test the mediated
+trust in the leader. To begin to address these issues, we echo the call for future research to
 
-relationships for both cognitive and affective trust. As such, greater uptake of
-
-multidimensional measures of trust are needed to help to tease out their differential roles. As
-
-noted, many styles also have subdimensions that may logically be more related to cognitive
-
-or affective forms of trust. As research often only reports on the overall style, it is not
+focus on the measurement of specific behaviours enacted by leaders rather than only broad,

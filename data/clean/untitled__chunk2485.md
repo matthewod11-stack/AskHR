@@ -1,5 +1,9 @@
-# American Psychologist, 26(10), 897–903.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 50281f35790168972f0ddb48315594041c3a64b5
+title: untitled
+---
+## nity psychology. American Psychologist, 25(6), 524–531.
 
-Kelly, J. G. (1979). Tain’t what you do, it’s the way that you do it. American Journal of Community Psychology, 7(3), 244–261.
-
-Kelly, J. G. (1986). In honor of George W. Fairweather. American
+Kelly, J. G. (1971). Qualities for the community psychologist.

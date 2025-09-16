@@ -1,15 +1,25 @@
-# outcome.
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d9f7cb20ae512fafe955ef92424ac8c594a2f0d
+title: H08SY7-PDF-ENG
+---
+# Action Makes Gut Feel Useful
 
-. . .
+There’s one ﬁnal, underappreciated element of intuitive decision-
 
-Intuition isn’t a shortcut to brilliance. It’s the sum of what you’ve seen,
+making: decisiveness. The power of gut feel doesn’t just lie in the
 
-learned, and lived—folded into an internal voice that is quieter than
+insight. It lies in the willingness to act on it—with intention and speed.
 
-fear, ego, or pressure. But it’s always there.
+The early investors in Uber didn’t just feel clarity—they moved on it.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+They translated that quiet signal into bold action, and then worked
 
-6
+to make it the right decision through mentoring, resourcing, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+strategic direction. Their decisiveness reinforced their internal signal
+
+and increased the quality of future intuitive calls.
+
+In short: Gut feel doesn’t just inform the decision; it can shape the

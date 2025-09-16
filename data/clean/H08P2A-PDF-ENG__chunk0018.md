@@ -1,21 +1,33 @@
-## HBR / Digital Article / Should You Record That Meeting?
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1bec559aaa680f269391394d8eeee541d11b6e2
+title: H08P2A-PDF-ENG
+---
+# Ask: “Why?”
 
-long-standing question: Is the cost and impact of recording (and then
+There is no question that hitting record, transcribe, and summarize
 
-transcribing) an interview worth it, or will my notes do the trick?
+save signiﬁcant time over doing those tasks by hand. However, the ﬁrst,
 
-Ask yourself how often you go back to and use the transcripts you
+simplest question leaders should ask is why—exactly—do you think you
 
-generated. How does that stack up against the points above? Here it’s
+need this meeting to be captured?
 
-also important to recognize that the act of taking notes increases our
+What is the purpose of the meeting? Is this a decision meeting in which
 
-own engagement and keeps us focused.
+you want documentary proof of the steps that lead to your conclusion?
 
-This doesn’t mean you should never capture meetings without a
+Is this a brainstorming meeting where you’ll be generating ideas at a
 
-detailed use plan—sometimes “just in case” is a good-enough reason.
+volume and speed you can’t otherwise retain? In short, do you have
 
-But the key here is to make a conscious decision and ask yourself how
+a plan for how you’ll use this information, or is it simply a feature in
 
-bad would it be if you didn’t have a recording.
+search of a use? I do a lot of interviews for my research, and this is a
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

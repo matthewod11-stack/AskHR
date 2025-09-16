@@ -1,15 +1,19 @@
-# their own companies?
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e23184beaa5e16591de3d2307261810ea67f1b83
+title: H07T7V-PDF-ENG
+---
+## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
 
-ANDREW MCAFEE:
+Where the action is in the economy, where the excitement is in the
 
-Here are a few things you can start doing tomorrow that are extremely
+economy, what are they doing diﬀerently? And The Geek Way contains
 
-geeky practices that will get some traction. When you’re in charge of
+my answers to that kind of career long, geeky, head scratching question.
 
-your group or you’re a team member or you’re leading a team, if you
+ADI IGNATIUS:
 
-say things like, “Oh, that’s a good point. I hadn’t thought of that. Let’s
+Let’s get practical for our viewers who aren’t in classically geeky
 
-go that way,” or, “Oh, I was wrong about that. That’s really good to
-
-know,” you have just demonstrated openness and vulnerability instead
+cultures. How can they apply the approaches you’re championing, at

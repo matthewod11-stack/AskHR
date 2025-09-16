@@ -1,9 +1,9 @@
-# Psychological Science, 2, 67–70.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 614f1574eb2c45e6976f17bbb24581d85323f5b1
+title: untitled
+---
+# References
 
-Turing, A. M. (1950). Computing machinery and intelligence. Mind,
-
-59, 433–460.
-
-Vauclair, J. (1996). Animal cognition: An introduction to modern comparative psychology. Cambridge, MA: Harvard University Press.
-
-133
+Tulving, E. (1993). What is episodic memory? Current Directions in

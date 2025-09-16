@@ -1,9 +1,17 @@
-## HBR / Digital Article / When You Oversell Your Abilities and It Backfires
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da466358f340cb72975bdf42cd7a674826784bcc
+title: H08NW7-PDF-ENG
+---
+# Limited long-term success
 
-appearances rather than substance eventually face harsh setbacks when
+While faking it may provide short-term gains, sustainable success
 
-their true abilities are put to the test. The very failure you believe you’re
+is built on genuine competence and character. Those who rely on
 
-avoiding with an inﬂated view of your talents is likely the very failure
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-you’re setting in motion.
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

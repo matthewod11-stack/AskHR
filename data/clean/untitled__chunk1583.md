@@ -1,5 +1,11 @@
-# American Psychologist, 34, 1088–1094.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4f7702b4c312eae75aee707410675006fa479091
+title: untitled
+---
+# CO: Westview Press.
 
-Ussher, J. (Ed.). (2000). Women’s health: Contemporary interna- tional perspectives. London: British Psychological Association.
+Tolman, D. T., & Szalacha, L. A. (1999). Dimensions of desire: Bridging qualitative and quantitative methods in a study of fe- male adolescent sexuality. Psychology of Women Quarterly, 23, 9–42.
 
-Walker, L. E. (1979). The battered woman. New York: Harper
+Unger, R. K. (1979). Toward a redeﬁnition of sex and gender.

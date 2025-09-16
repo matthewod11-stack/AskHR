@@ -1,11 +1,13 @@
-# stay or leave.
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b781105389964f1efe61357c903e794b49a3c3f
+title: H06KTS-PDF-ENG
+---
+## HBR / Digital Article / When Everyone’s Quitting … Except You
 
-This article was originally published online on September 13, 2021.
+employer, the entry of new colleagues and exit of old ones can deeply
 
-Nihar Chhayais an executive coach to CEOs and senior leaders at global companies, including American Airlines, Coca-Cola, DraftKings, and Fox Corporation. He was named one of the top 50 coaches in the world by Thinkers50 and holds the master coach credential (MCC) with the International Coaching Federation. You can sign up for Envision, his newsletter on mastering leadership inﬂuence.
+impact your future advancement and personal fulﬁllment. But by
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+following these strategies, you can make sure to respond to the changes in your oﬃce in a way that maximizes your potential value whether you

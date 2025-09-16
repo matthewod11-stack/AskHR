@@ -1,17 +1,23 @@
-## medicine in development, the team identiﬁed successful practices, such
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86b46fcee3d0dd2488609921c845c2ca02d120f4
+title: R2503C-PDF-ENG
+---
+## HBR / Magazine Article / Lean Strategy Making
 
-as increased engagement with investigators, that boosted awareness
+solution to close the gap. If the gap stems from a fundamental market
 
-and enthusiasm about the therapeutic’s beneﬁts and people’s eagerness
+change or regulatory shift, the responsible executive may suggest
 
-to enroll eligible patients.
+adding a new issue to Amgen’s prioritized agenda so that the team can
 
-By standardizing the performance dialogue process, Amgen has
+reassess the company’s position, develop new alternatives, and revise
 
-strengthened its performance culture, improving execution and
+its strategy as needed.
 
-ﬁnancial results. In 2013 it had three blockbuster drugs (meaning drugs
+Amgen’s performance dialogues also highlight successes. Each session
 
-with annual sales of more than $1 billion); by 2025 it had 14, and during
+dedicates time to exploring the causes of overperformance. For
 
-those 12 years it saw its market value grow more than threefold, from
+example, after observing higher-than-expected trial enrollment for a

@@ -1,13 +1,33 @@
-# What Meetings Look Like Today
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: beba3fc52cf4a4edba0dc9d3709fe395dcf6d87d
+title: H088OR-PDF-ENG
+---
+## HBR / Digital Article / Hybrid Work Has Changed Meetings Forever
 
-For this analysis, we evaluated more than 40 million meetings from
+While meeting ineﬃciency was certainly an issue before the pandemic,
 
-11 organizations, spanning more than 450,000 unique employees
+it should be no surprise that the sudden switch to virtual collaboration
 
-(anonymized for privacy). For comparison purposes, we collected data
+exacerbated the problem. However, that switch had a beneﬁcial side eﬀect: virtual meetings produce data. At today’s scale, that data holds
 
-in two six-week snapshots from Q1 2022 and Q1 2023, each allowing
+meaningful insights — touching on productivity, engagement, and even
 
-for suﬃcient time after the sample to measure retention. The data was
+retention — and can be applied in a variety of beneﬁcial ways. For
 
-gleaned from remote or hybrid meetings facilitated by online platforms
+organizations looking to improve their meeting culture, collaboration
+
+data is a valuable but largely untapped resource.
+
+At Vyopta — a monitoring and analytics platform for enterprise
+
+collaboration — we work directly with companies to help them realize
+
+value from their meeting data. Additionally, using a large dataset, we
+
+routinely analyze global collaboration metrics to establish benchmarks
+
+and identify signiﬁcant trends. This article will cover key insights from a recent analysis and oﬀer examples of how organizations have used
+
+data to improve their meetings.

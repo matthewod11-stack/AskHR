@@ -1,9 +1,9 @@
-# Degeneracy Theory
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9abf1539b1af89c306afac6280c3254163748f6d
+title: untitled
+---
+# Late Nineteenth into Twentieth Century
 
-One theory that was compatible with Social Darwinism was the theory of degeneration, which rested on the belief that a wide variety of social ills were evidence of a unitary heredi- tary defect. Physical disease (such as tuberculosis, deformed bone development, etc.) and insanity, alcoholism, unemploy- ment, poverty, and crime seemed to go hand in hand. In fam- ilies and communities in which any of these were prevalent, the others were likely to be found.
-
-Dowbiggin (1985) reviewed the history of degeneracy theory in France. The psychiatrist Jacques-Joseph Moreau de Tours (1804–1884) asserted in 1859 that all insanity is caused by an actual alteration of the central nervous system, and that the major cause of insanity is genetic transmission from parents to children of a neuropathic predisposition. He argued that “large series of organs” such as the nervous system, rather than “isolated traits,” are transmitted from parents to offspring, and that susceptibility to disease, partic- ularly mental derangement, is caused by a morbid deviation from the healthy human type. However, autopsies of patients with mental disease had failed to discover speciﬁc lesions or pathological structures of the brain, suggesting that the causes of insanity might not be biological. This led to the theory that mental disease was caused by a hereditary degen- eracy that results in a diffuse pathological functional disequi- librium of the nervous system not detectable by autopsy.
-
-Dowbiggin pointed out that the theory of morbid heredity was compatible with the idea of free will. Dualism of soul and
-
-319
+Darwin. However, the evidence he adduced was powerful and his exposition was cogent. The clear consequences his theory held for religious views of human nature and popular views of man’s purpose in the cosmos created a dramatic and disturbing departure from the thinking of earlier centuries. Natural selection, with its message of competition and con- ﬂict was equally disturbing. Social Darwinism, a political in- terpretation of the principle of natural selection, was to have serious consequences for the public perception and treatment of the mentally ill. Social Darwinism assumed that human society was the product of inevitable and continuous conﬂict and competition. As a result, individuals formed a continuum of the “ﬁt” (the intelligent, physically healthy, afﬂuent, and powerful) at one end and the “unﬁt” (poor, diseased, retarded, insane, alcoholic, criminal, and powerless) at the other that extended to the different “races” of man. The elimination of unﬁt individuals or races was interpreted as part of man’s inevitable process of progressive improvement with an ac- companying moral imperative to eliminate any obstacles to this improvement.

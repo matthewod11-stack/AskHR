@@ -1,17 +1,19 @@
-## behavior. For example, a corporate policy such as unlimited vacation
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6675c20e17e22c5e7994fa7c230cd5213c2c92a
+title: H08PFG-PDF-ENG
+---
+# fairness.
 
-time isn’t worth much if employees don’t feel empowered to make
+To do it, you can become a “norm entrepreneur” for fairness—and
 
-use of it in practice because long leaves are frowned upon. Likewise,
+create an environment where employees can do the same. Originally
 
-organizations proclaiming a “speak-up culture” will not succeed
+coined by legal scholar Cass Sunstein, norm entrepreneurs shape
 
-in encouraging employees to raise concerns if they see colleagues
+what we perceive to be normal, acceptable, and expected. Norm
 
-sidelined, discredited, or penalized when they do. To create truly fair
+entrepreneurship is a potent tool in leaders’ toolboxes because, in some
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+cases, norms trump formal policies and processes as inﬂuencers of

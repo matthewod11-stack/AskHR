@@ -1,5 +1,17 @@
-## review. Management Research Review, 38, 767-792. https://doi.org/10.1108/MRR-08-
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: fb63911df8edbb499af6fb9f333db633287b8b79
+title: issn_print_0976_013x
+---
+# Management
 
-2013-0194
+Systems,
 
-41
+4(3),
+
+33-46.
+
+https://doi.org/10.21863/jscms/2015.4.3.013
+
+Tiwari, A.K., Tiwari, A., & Samuel, C. (2015). Supply chain flexibility: a comprehensive

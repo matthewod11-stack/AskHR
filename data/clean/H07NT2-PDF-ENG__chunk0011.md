@@ -1,43 +1,27 @@
-# The State of the Science
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16b14fdf08c51dcde5ee8c9c7450e0fe8d2fd3d4
+title: H07NT2-PDF-ENG
+---
+## HBR / Digital Article / When Blind Hiring Advances DEI — and When It Doesn’t
 
-Over roughly the past two decades, careful academic studies exploring
+approach, removing applicants’ names from their materials before
 
-the eﬃcacy of a blind hiring approach have been undertaken across
+letting managers see them. Other types of information, like college
 
-Europe, Canada, and the U.S. In these studies, researchers have
+graduation years (which communicate age) or hobbies (which can signal
 
-compared the proportions of job applicants from disadvantaged groups
+social class), are similarly candidates for blinding.
 
-who are selected for interviews — at organizations in both the public
+The logic underlying a blind hiring approach is simple: Discrimination
 
-and private sectors — when application materials are blinded or
+against members of certain groups cannot occur at a given hiring
 
-evaluated in the normal fashion. Generally (but not entirely), these
+stage if evaluators at that stage cannot discern applicants’ group
 
-studies have found that more applicants from disadvantaged groups
+memberships. Accordingly, decision-makers tasked with increasing the
 
-advance to the interview stage when a blind hiring approach is used.
+diversity of new sets of hires in their organizations may wonder whether
 
-In one study in the public sector in Sweden, researchers found
-
-that more women and ethnic minorities were selected for interviews
-
-when their applications were anonymized versus when names were
-
-maintained. Another study in the Swedish public sector found that
-
-women who uploaded their credential information to a database used
-
-by potential employers were more likely to receive interview invites
-
-when their gender information was blinded. And in the Netherlands,
-
-researchers found that people of non-Western origin, who represent a
-
-traditionally disadvantaged, Dutch job-seeker group, were more likely
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a blind hiring approach could help them achieve that goal.

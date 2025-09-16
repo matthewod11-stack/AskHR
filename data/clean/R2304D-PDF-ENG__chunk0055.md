@@ -1,7 +1,33 @@
-# teams at the plant level.
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6cbd498a27e10016a797abd91b4fc84448e40bf1
+title: R2304D-PDF-ENG
+---
+# Beyond the Contract
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+As in any constructive business relationship, you should follow a
 
-12
+no-surprises principle to engender trust. Engage your labor-leader
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+counterparts in an ongoing dialogue and keep them informed about
+
+business developments. You’d rather that labor leaders hear about a
+
+change from you than have them read it in the press or hear it from
+
+a disgruntled union member.
+
+Consider creating teams that bring together management
+
+representatives with workers and labor leaders to problem-solve in an
+
+ongoing way. These teams can improve the operations of your company
+
+and give workers a more direct voice in their work. Kaiser Permanente
+
+has nearly 4,000 such teams, which it (and some other health care
+
+organizations) calls “unit-based teams.” Similarly, Harley-Davidson,
+
+Ford, and others have made extensive use of continuous-improvement

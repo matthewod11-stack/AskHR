@@ -1,9 +1,7 @@
-## of Southern California, studies this particular shift and the importance
-
-of early parenting experience on the structural and functional changes
-
-related to the “fathering brain.” This research has led Saxbe and fellow
-
-researcher Soﬁa Cárdenas to emphasize that “fathers are made, not
-
-born: Time with infants is a key ingredient in building the fathering
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17c650e94ebaa341d0d86c214e276c0605edea82
+title: H07VWF-PDF-ENG
+---
+## neuroplasticity. Darby Saxbe, professor of psychology at the University

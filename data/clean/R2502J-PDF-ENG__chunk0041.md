@@ -1,11 +1,41 @@
-## collect data on branches with high account-closure rates within 60 days
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac815be30af47f0321985880edb6ddcf882cad5c
+title: R2502J-PDF-ENG
+---
+## HBR / Magazine Article / How Salespeople Game the System
 
-of opening the accounts. Or they might analyze the work of bankers
+Consider a ﬁnancial institution where branch bankers were covertly
 
-whose new credit-card sales exceed the average for their region.
+counseling customers to open credit-card accounts but not use them
 
-Sales activities that cannot be tracked solely through data might require
+(retaining the new card for emergency use only), allowing the bankers
 
-human monitoring and inspection. This could include random checks
+to earn commissions. In response, incentive plans were modiﬁed
 
-for rule adherence, call monitoring, transaction audits, ﬁeld-based
+to require that customers use the cards before the bankers earned
+
+commissions. This change meant that bankers did not immediately
+
+receive their incentive credit for newly opened accounts and required
+
+the ongoing collection of data to determine when cards were used for
+
+purchases, balance transfers, and cash advances. However, those were
+
+trade-oﬀs that the bank deemed appropriate, given that only credit
+
+cards that are in active use generate revenue.
+
+Establish ongoing monitoring of sales processes. Sales management
+
+systems must be updated to spot and reject cheating. Examples
+
+include systems that identify credit cards without any activity or
+
+new card applications taken in combination with baggage fee waivers.
+
+Additionally, reporting and dashboards should be created to give
+
+visibility to questionable transactions. For example, a bank might

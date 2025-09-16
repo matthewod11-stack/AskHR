@@ -1,19 +1,28 @@
-### **[The cultivation imperative]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: 6412f542d473a94dbef3f8e9bcce32dda2630c02
+title: Gibbons
+---
+### **[The new reality of human-AI collaboration culture]{.underline}**
 
-[The shift from HR to human cultivation isn\'t semantic --- it\'s
-fundamental. Cultivation implies growth, patience, and creating
-conditions for flourishing. It recognizes that humans aren\'t resources
-to be optimized but potential to be developed.]{.underline}
+[Creating an effective human-AI collaboration culture requires
+abandoning old mental models. This isn\'t about \"upskilling\" humans to
+use AI tools. It\'s about reimagining how different forms of
+intelligence work together.]{.underline}
 
-[In practical terms, this means helping humans discover capabilities
-they didn\'t know they had. When AI handles routine cognitive work, what
-dormant human capacities can emerge? When efficiency is automated, what
-new forms of creativity become possible? When AI provides infinite
-answers, what questions will humans learn to ask?]{.underline}
+[Think of AI systems as colleagues with unique characteristics: they
+never tire but lack intuition, they process vastly more information but
+miss emotional nuance, they identify patterns humans can\'t see but
+can\'t explain why something matters to a human being. Your job is to
+create a culture where these different intelligences complement rather
+than compete.]{.underline}
 
-[Your role is to create environments where humans can explore these
-questions safely. This requires psychological safety at a new level ---
-not just safety to fail, but safety to fundamentally reimagine one\'s
-professional identity. It requires learning approaches that are
-experimental rather than prescribed. It requires patience with the
-messiness of human transformation.]{.underline}
+[This demands new approaches to fundamental HR practices. Onboarding
+must include not just introducing human colleagues but explaining AI
+teammates\' capabilities. Team formation must consider the optimal mix
+of human and artificial intelligence for different challenges.
+Development conversations must help humans find their unique value when
+AI can do much of what they previously did. Recognition systems must
+celebrate human contributions that transcend productivity
+metrics.]{.underline}

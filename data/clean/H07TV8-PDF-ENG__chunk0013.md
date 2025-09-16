@@ -1,33 +1,11 @@
-## Disruption, Andrew Liveris, former CEO of Dow Chemical, points out
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76a433887e56ec3a0b954c0826976a1c241b2322
+title: H07TV8-PDF-ENG
+---
+# experience.
 
-that the advice he was given by other company leaders in the early
+But in today’s volatile context, experience may be less valuable than
 
-2000s is now mostly obsolete. “The business landscape today is so
-
-foreign from that of two decades ago that ﬁguring out how to deploy
-
-[lessons and skills from the past] needs to be reimagined and retaught,”
-
-he writes.
-
-When circumstances are changing, old paradigms not only become
-
-obsolete — they can obstruct progress precisely when new ideas
-
-and thinking are urgently required. Optimizing the current approach
-
-becomes a path towards obsolescence. Thus, instead of trying to
-
-descend further down their current experience curve, companies
-
-increasingly need to develop an ability to jump to new ones — by
-
-reimagining their businesses.
-
-Research suggests that bringing less experienced people into leadership
-
-roles can help unlock the requisite creativity and ﬂexibility. Age-
-
-diverse leadership teams create cognitive tension that fosters learning.
-
-The younger generation helps brings awareness to a new set of
+ever, as it becomes outdated quickly. In his book Leading Through

@@ -1,17 +1,9 @@
-# collaborative overload.
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 868547357322e1426d65c01b412eefba96827219
+title: H06K3M-PDF-ENG
+---
+## by brieﬁng leaders on the state of collaboration and mood among
 
-As a result of these initiatives, General Mills was able to eﬀectively
-
-mitigate the risks of collaborative overload increasing during their Covid work-from-home period that is still in eﬀect. For units that
-
-received the dedicated “Ways of Working” sessions, results have been
-
-especially promising. On average, these General Mills teams have
-
-reduced collaboration time by eight hours per employee, per week.
-
-At the same time, these groups are reporting reductions in non-value-
-
-added meetings, and more organized meetings in general — all without any negative eﬀects on stress levels or moods. Additionally, the lessons
-
-learned from these teams are being integrated into new team launches and broader team eﬀectiveness work aimed at supporting employee well-being and helping all teams at General Mills to be more eﬀective
+employees, and starting a dialogue about how the organization might act diﬀerently. Then, group sessions were held for each unit, teaching more eﬀective practices and ways to guard against personally-driven

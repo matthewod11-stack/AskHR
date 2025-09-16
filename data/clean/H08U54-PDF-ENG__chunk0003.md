@@ -1,15 +1,9 @@
-# doctoral program at your alma mater.”
+---
+source_path: H08U54-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dcd2caef724c8a5cc7cfcf39b489fe0f0ee0654
+title: H08U54-PDF-ENG
+---
+# HollenderX2/Getty Images
 
-This was the email Ruth received from someone within her network
-
-whom she knew of, but didn’t really know personally. What made
-
-matters worse, this came from someone who was always asking for
-
-favors, but never reciprocated.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“Can you write a letter of recommendation for me? I’m applying to a

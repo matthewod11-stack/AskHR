@@ -1,19 +1,19 @@
-# HBR / Digital Article / Research: How Family Motivates People to Do Their Best Work
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: adc7360fa06656bce361ca04fa68a30d4b498721
+title: H08AI6-PDF-ENG
+---
+## How Workplaces Can Encourage Employees to Bring Family into the Office
 
-Daughters and Sons to Work Day(s)” that give children insight into
+Given that family motivates people at work, organizations stand
 
-career paths and help them feel pride in their parents’ work, or
+to beneﬁt from bringing family into work. This could mean that
 
-via beneﬁts like on-site childcare. Employees can also infuse their
+workplaces should consider how employees can bring children physically into the oﬃce—whether by hosting events like “Take Our
 
-work environment with special items related to their family, such as
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-photos, children’s drawings, or letters. Infusing workspaces with family
+5
 
-memorabilia has the added beneﬁt that reminding ourselves of our
-
-families can bring out our best in other ways: for instance, research
-
-shows that having photos of loved ones on a desk can reduce unethical
-
-behavior such as padding expense reports.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

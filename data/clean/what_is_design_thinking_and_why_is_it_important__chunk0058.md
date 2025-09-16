@@ -1,11 +1,27 @@
-# Quarterly, 2, 16–27.
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: c35f1a68bec5b6dbf4f161c320e0cf59a6fc9906
+title: what_is_design_thinking_and_why_is_it_important
+---
+## Cambridge, MA: University of Cambridge Press.
 
-Piaget, J. (1972). The psychology of the child. New York, NY: Basic Books. Purcell, T., & Gero, J. (1996). Design and other types of fixation. Design Studies, 17,
+Liu, Y-T. (1996). Is designing one search or two? A model of design thinking involving symbolism and connectionism. Design Studies, 17, 435–449. doi:10.1016/S0142- 694X(96)00018-X
 
-363–383. doi:10.1016/S0142-694X(96)00023-3
+Lloyd, P., & Scott, P. (1994). Discovering the design problem. Design Studies, 15,
 
-Rotherham, A. J., & Willingham, D. (2009). To work, the 21st century skills movement will require keen attention to curriculum, teacher quality, and assessment. Educational Leadership, 9, 15–20.
+125–140. doi:10.1016/0142-694X(94)90020-5
 
-Rowe, P. (1987). Design thinking. Cambridge, MA: MIT Press. Seitamaa-Hakkarainen, P., & Hakkarainen, K. (2001). Composition and construction in experts’ and novices’ weaving design. Design Studies, 22, 47–66. doi:10.1016/ S0142-694X(99)00038-1
+Lloyd, P., & Scott, P. (1995). Difference in similarity: Interpreting the architectural
 
-Shute, V. J., & Becker, B. J. (2010). Innovative assessment for the 21st century. New
+design process. Planning and Design, 22, 383–406. doi:10.1068/b220383
+
+McNeill, T., Gero, J., & Warren, J. (1998). Understanding conceptual electronic design using protocol analysis. Research in Engineering Design, 10, 129–140. doi:10.1007/ BF01607155
+
+Mislevy, R. J., Steinberg, L. S., & Almond, R. G. (2003). On the structure of educa- tional assessments. Measurement: Interdisciplinary Research and Perspectives, 1, 3–62. doi:10.1207/S15366359MEA0101_02
+
+Nagai, Y., & Noguchi, H. (2003). An experimental study on the design thinking process started from difficult keywords: Modeling the thinking process of creative design. Journal of Engineering Design, 14, 429–437. doi:10.1080/09544820310001606911 Nigel, C. (2004). Expertise in design: An overview. Design Studies, 25, 427–441.
+
+doi:10.1016/j.destud.2004.06.002
+
+Owen, C. (2007). Design thinking: Notes on its nature and use. Design Research

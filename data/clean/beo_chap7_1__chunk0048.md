@@ -1,3 +1,25 @@
-## rather than situational influences; and overconfidence.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 5a339a1924154c29cc5cbf2443abffe70b5f75c8
+title: beo_chap7_1
+---
+## 7.2.6 Firms May Be Biased in Judging the Cause of Performance
 
-8The maximum pay amounted to half of the average annual consumer expenditure (per capita) in
+In the standard agency model laid out above, agents exert effort which is productive, but principals can only observe agents’ output. Observed output depends on unob-
+
+served effort and unobserved “luck.” The usual assumption is that principals know
+
+the relative importance of effort and error in determining output, and also anticipate
+
+the agents’ reaction to knowing their effort is not clearly observed.
+
+This simple assumption buries a lot of behavioral economics. Separating skill
+
+from luck is difficult. As a result, it is quite possible that psychological forces bias
+
+principals’ judgments of whether output is due to skill or luck. Three important
+
+psychological forces suggest that separating hard work from luck will often be
+
+biased in predictable ways: hindsight bias; overattributing cause to personal traits

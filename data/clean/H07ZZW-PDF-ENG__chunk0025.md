@@ -1,7 +1,9 @@
-# social and political risks.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa42c6bde52522c66e5ee61cb770cab855a0ced9
+title: H07ZZW-PDF-ENG
+---
+## and raw materials, and reduces oversight from various national legal
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and political institutions. But it also exposes them to a wider range of

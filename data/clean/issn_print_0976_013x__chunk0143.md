@@ -1,29 +1,13 @@
-## the circular economy (CE) (Cullen and De Angelis, 2021).
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 9ba6540ad7832f7b8330afd7b5345e2239ebdfbd
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-The concept of a circular economy (CE) can be summed up in the expression "reduce, reuse, and
+the effects of change on society and the environment, it may not be surprising that less wealthy
 
-recycle," which aims to strike a balance between promoting economic development and
+countries take these issues seriously (GEM, 2022). As a result, practitioners, and researchers of
 
-preserving the natural environment. It attempts to circumvent the inherent flaws of a straight
-
-business model, defined as "take, make, use, and dispose of" (EC, 2015). We need to move
-
-toward a new "circular" paradigm based on reducing, reusing, and recycling resources. This
-
-approach facilitates the closure of the loop in economic systems, thereby generating
-
-environmental and economic advantages across various levels of analysis, as stated by EC (2015)
-
-(EEA, 2016). At the organizational level, the implementation of Circular practices (CP) is facilitated
-
-by various behaviors, such as the prioritization of regenerative resources, the conversion and
-
-elimination of waste, the design of durable and reassembled products, and the integration of
-
-products and services in 'product-service-systems' (PSS). These practices offer significant
-
-opportunities for cost savings and revenue generation (Stahel, 2013). To use the CE framework,
-
-businesses need to make significant changes to their strategies and develop entrepreneurial skills
-
-in crucial areas (Tura et al., 2019). This article employs the resource-based view (RBV) theory of
+entrepreneurial orientation (EO) want to focus more on environmental problems and ideas like

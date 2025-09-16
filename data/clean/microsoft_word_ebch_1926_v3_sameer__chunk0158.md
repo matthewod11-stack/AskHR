@@ -1,7 +1,7 @@
-## management: 100 years of progress?,” J. Appl. Psychol., 2017.
-
-[8]
-
-F. Torgal and S. Jalali, “A sustentabilidade dos materiais de construção,” Energy Build., 2010.
-
-[9] G. Grigoletti, M. A. Sattler, and A. Morello, “Analysis of the thermal behaviour of a low cost, single-family, more sustainable house in Porto Alegre, Brazil,” Energy Build., 2008, doi: 10.1016/j.enbuild.2008.05.004.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 4a7760a50e30e6f82393925bc142f730ee798513
+title: microsoft_word_ebch_1926_v3_sameer
+---
+## [7] Angelo N. DeNisi and Kevin R. Murphy, “Performance appraisal and performance

@@ -1,9 +1,13 @@
-# HBR / Digital Article / How Managers, Coworkers, and HR Pressure Women to Stay Sile…
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 04aae30e9ba9bb5041d5d628cdfab099eacfaac8
+title: H04FQE-PDF-ENG
+---
+# importance of her claim.
 
-As a result, Alaina felt deeply embarrassed. While she did not
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-completely buy her manager’s verdict, his seniority in the organization
+3
 
-somewhat legitimized his opinion — she felt that she had no case to
-
-challenge the system. Alaina reluctantly chose to stay silent.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

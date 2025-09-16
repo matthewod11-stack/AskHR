@@ -1,13 +1,11 @@
-# future.
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a1d1d9053c81ede07eff22785f91a376116bfd5
+title: H085MC-PDF-ENG
+---
+# bonds.
 
-Though the world has changed over the past two decades, these
+- Democratic leadership style, which involves creating consensus.
 
-leadership styles remain relevant. Mastering them will help you
-
-navigate the complexities of diﬀerent situations, boost morale, and
-
-drive your team’s long-term growth.
-
-With that in mind, here’s a closer look at each of the six leadership styles
-
-— and when to use them — updated for today’s business landscape.
+- Coaching leadership style, which focuses on developing people for the

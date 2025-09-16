@@ -1,5 +1,9 @@
-# On-Line Cognitive Processes
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 85c78de7430355959859df2fcae1f6784e951ab7
+title: barrickryan_eds_personality_and_work
+---
+# PERSONALITY AND JOB PERFORMANCE 105
 
-Kuhl’s (1985) action control theory focuses on the translation of an intention to an action through self-regulatory processes. According to action control theory, self-regulatory skill is partially determined by an individual’s action or state orientation. More action-oriented individuals are better able to devote their attention to the current goal. More state-oriented individuals tend to ruminate on alterna- tive goals or emotional states, reducing the cognitive resources avail- able for striving for the current goal. Diefendorff, Hall, Lord, and Strean (2000) evaluated the construct validity of a revised version of a measure of action-state orientation, the Action Control Scale (Kuhl, 1994). This scale measures three dimensions of action-state orientation: preoccupation (the degree to which individuals de- tach from thoughts about interfering goals), hesitation (the difﬁ- culty in initiating goal-directed action), and volatility (the degree to which individuals become distracted when working on a task). These dimensions were regressed on measures of the Big Five. Emotional Stability contributed signiﬁcantly to the prediction of all three dimensions, and dependability (Conscientiousness) and Extraversion contributed signiﬁcantly to the prediction of the hes- itation dimension. The action control subscales contributed sig- niﬁcant variance beyond the Big Five to the prediction of supervisor ratings of task performance and several OCB dimensions in a sam- ple of employed students.
-
-Kanfer and Heggestad (1997) proposed a taxonomy of motiva- tional traits and skills. Motivational skills were deﬁned as individual
+Conscientiousness showing the strongest relationships. Less research has examined personality correlates of goal commitment. Hollen- beck and Klein (1987) suggested need for achievement, Type A per- sonality, self-esteem, and locus of control as indirect determinants of goal commitment. Partial support for this model was provided by Hollenbeck, Williams, and Klein (1989), who found that com- mitment to difﬁcult goals was stronger when individuals were high in need for achievement and had an internal locus of control. In other studies, need for achievement (Kernan & Lord, 1988) and Conscientiousness (Barrick et al., 1993) were positively related to goal commitment.

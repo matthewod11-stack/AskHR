@@ -1,25 +1,13 @@
-# análise dos resultados, principalmente nos trabalhos de Legerstee (2013) e Sedlak
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 833bcbee26886c44fa1c197f68c4dff35a4f79ed
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## da empresa entrevistada, atendendo ao primeiro objetivo específico proposto pelo
 
-(2020), dois autores que já se detiveram a estudar este tema no meio acadêmico.
+presente trabalho. A justificativa da opção pelo uso da metodologia do eNPS por
 
-O segundo propósito específico a que se prestou este trabalho foi o de
+parte da empresa estudada encontra resposta tanto no relato da funcionária
 
-escrever a metodologia de aplicação e a análise de dados do eNPS na corporação
-
-estudada, identificando seus benefícios e limitações, o que foi feito nas seções 5.2 e
-
-5.3, respectivamente, também a partir do relato da funcionária bem como apoiado
-
-pela observação da pesquisadora em primeira pessoa como funcionária da empresa
-
-e de análise de documentos providos pela organização. Por fim, para atender ao
-
-último objetivo específico, buscou-se identificar a percepção de líderes e
-
-77
-
-empregados acerca da utilização do eNPS nesta companhia aplicando-se um
-
-questionário neste público. Ambos grupos, ainda que com críticas, expressaram
-
-altos índices de satisfação com o processo de aplicação da pesquisa na empresa X
+entrevistada quanto na bibliografia em que se ancora a revisão que precede a

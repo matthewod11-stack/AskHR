@@ -1,17 +1,13 @@
-## HBR / Magazine Article / Leaders Shouldn’t Try to Do It All
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83f270edccfc07e6122dac2128bb99eac9e87307
+title: R2501E-PDF-ENG
+---
+# Owen Davey
 
-technology function by hiring an external CIO and dramatically
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-reducing his own time commitment to both areas. Perhaps most
+7
 
-important, when he saw that he and Lego Group were both ready for his
-
-transition to a new role, he led in the hiring of the next CEO, who has
-
-very successfully built on Knudstorp’s legacy.
-
-On A.G.’s advice, Trina Spear did much the same. FIGS has grown a
-
-loyal following through its ambassador program, which now numbers
-
-hundreds of healthcare professionals who help the company reach
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

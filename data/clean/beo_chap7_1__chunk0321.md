@@ -1,15 +1,27 @@
-# REFERENCES
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: c65521bcf8624322e1345da9d8c10459eb0c624d
+title: beo_chap7_1
+---
+# area of research.
 
-Bechara, A., H. Damasio, D. Tranel, and A. Damasio. 1997. Deciding advantageously before
+From the deviations perspective on “individual behavioral concepts” this blunt sum-
 
-knowing the advantageous strategy. Science 275:1293-95.
+mary is correct. Yet to an organizational theorist it looks odd, since the evolutionary
 
-Cohen, M., and P. Bacdayan. 1994. Organizational routines are stored as procedural memory:
+economics community has produced hundreds of papers about firms stemming from
 
-evidence from a laboratory study. Organization Science 5:554-68.
+the treatment of routine in Nelson and Winter (1982). Moreover, the performance
 
-Damasio, H., T. Graboski, R. Frank, A. Galaburda, and A. Damasio. 1994. The return of Phineas Gage: Clues about the brain from the skull of a famous patient. Science 264:
+properties of routine action have been linked to “how the brain works” (Cohen and
 
-1102-5.
+Bacdayan 1994)-—in this case to the distinction between procedural and declarative
 
-289
+memory (Squire and Kandel 1999). This stark difference suggests that the visibility
+
+of research on routine action in organizations, and of many other important aspects
+
+of the day-to-day performance of firms, will depend crucially on which of the two
+
+contending perspectives future economic researchers have in mind.

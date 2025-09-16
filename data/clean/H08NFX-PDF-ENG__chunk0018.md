@@ -1,27 +1,25 @@
-## HBR / Digital Article / How to Assess the New Legal Risks of Your DEI Policies
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9880096074ca488eb100c33a3c9097d5876b08c9
+title: H08NFX-PDF-ENG
+---
+# Commission.
 
-Diverse slate requirements, which compel organizations to interview a
+Most current corporate diversity goals are very diﬀerent from quotas,
 
-speciﬁed number of women or people of color for open roles, also are in
+which have long been illegal. Yet even lawful aspirational goals may
 
-the crosshairs. Are they worth going to the mat for? Maybe not.
+well be targeted in the current environment, even if they were carefully
 
-The most well-known example of this requirement is the NFL’s Rooney
+framed to ensure their legality. Nevertheless, they may not be worth hanging onto, because these goals are often ineﬀective. One inﬂuential
 
-Rule, which requires a diverse slate of candidates for head coach,
+study found that managerial diversity goals alone didn’t predict
 
-general manager, and other executive positions. Studies in 2021 and
+increased diversity.
 
-2023 found that the onset of the rule did not consistently increase
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the number of head coaches of color. Earlier studies suggest why:
+3
 
-White coaches lower down the chain are twice as likely to be promoted as Black coaches, with the diﬀerential promotion rate occurring both
-
-before and after the Rooney Rule was put in place.
-
-Targeted professional development programs present risks—but ones that are easy to minimize.
-
-Many companies have professional development programs that oﬀer
-
-skills- and network-building to speciﬁc groups—for example, through
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,9 @@
-# 5500 Annual Return/Report(https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: c25a6a672269fe995411c00c9e1dbf0468d9a218
+title: Employment Law Guide - Employee Benefit Plans
+---
+# page(https://www.dol.gov/agencies/ebsa/employers-and-advisers/small-business/compliance-assistance).
 
-compliance/reporting-and-ﬁling/form-5500) forms used by plan administrators to satisfy various annual reporting
-
-obligations under ERISA and the Internal Revenue Code. Many health and welfare beneﬁt plans that meet
-
-certain conditions do not have to ﬁle the Form 5500 Annual Return/Report. However, for those that do, EBSA publishes the forms used by plan administrators to satisfy various annual reporting obligations under ERISA
+EBSA, in conjunction with the IRS and the Pension Beneﬁt Guaranty Corporation (PBGC), publishes the Form

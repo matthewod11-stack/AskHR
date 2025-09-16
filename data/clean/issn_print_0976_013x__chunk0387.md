@@ -1,5 +1,17 @@
-## research agenda. Proceedings of IEEE International Conference on System, Man and
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: a84b022eb76571e4c0db46f594ee10adbe50cafe
+title: issn_print_0976_013x
+---
+# Logistics
 
-Cybernetics, 3418-3422. https://doi.org/10.1109/ICSMC.2007.4414160
+Management,
 
-Womack, J.P., Jones, D.T., & Roos, D. (1990). The Machine that Changed the World: The
+31(4),
+
+290-301.
+
+https://doi.org/10.1108/09600030110394941
+
+Vogus, T.J., & Sutcliffe, K.M. (2007). Organizational resilience: Towards a theory and

@@ -1,9 +1,9 @@
-# PZ
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ddc861ad08a77ba75004d8ff63b2fc4c58a4e02d
+title: H07WKC-PDF-ENG
+---
+# MO
 
-Peter Zemsky is the Eli Lilly Chaired Professor of Strategy and Innovation at INSEAD, a global business school with campuses in Abu Dhabi, France, and Singapore.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Michael Olenick is an Executive Fellow at the INSEAD Blue Ocean Strategy Institute in France

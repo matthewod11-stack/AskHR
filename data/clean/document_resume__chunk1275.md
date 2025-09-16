@@ -1,3 +1,13 @@
-# 4 Very Good
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: fb10df09776681c0bdd6b78f1348ad5b2534db98
+title: document_resume
+---
+# Performance Appraisal
 
-Assumes leadership role with individuals and groups. Attempts to resolve problems amicably. Carries out assignments promptly. Establishes relationships with colleagues.
+4.
+
+Interpersonal Communications Communicates and interfaces with colleagues and administration both on a one-on-one basis, in faculty committees, and in other group settings.
+
+5 Exceptional Assumes proactive leadership role in all types of situations by providing innovative solutions and inspiration to others. Carries out and follows up on assignments. Resolves conflicts even in stressful situations. Is highly regarded and influential among colleagues.

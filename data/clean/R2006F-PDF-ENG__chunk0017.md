@@ -1,21 +1,25 @@
-## numbers rather than the costs of or revenue from particular products.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cab1d81db137bf528749c253e550ede46987811a
+title: R2006F-PDF-ENG
+---
+## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-Thus product decisions are somewhat insulated from short-term
+knowledge of the technologies responsible for disruption. Long before it
 
-ﬁnancial pressures. The ﬁnance team is not involved in the product
+can get market feedback and solid market forecasts, the company must
 
-road map meetings of engineering teams, and engineering teams are
+make bets about which technologies and designs are likely to succeed in
 
-not involved in pricing decisions.
+smartphones, computers, and so on. Relying on technical experts rather
 
-We don’t mean to suggest that Apple doesn’t consider costs and revenue
+than general managers increases the odds that those bets will pay oﬀ.
 
-goals when deciding which technologies and features the company
+Second, Apple’s commitment to oﬀer the best possible products would
 
-will pursue. It does, but in ways that diﬀer from those employed by
+be undercut if short-term proﬁt and cost targets were the overriding
 
-conventionally organized companies. Instead of using overall cost and
+criteria for judging investments and leaders. Signiﬁcantly, the bonuses
 
-price targets as ﬁxed parameters within which to make design and
-
-engineering choices, R&D leaders are expected to weigh the beneﬁts to
+of senior R&D executives are based on companywide performance

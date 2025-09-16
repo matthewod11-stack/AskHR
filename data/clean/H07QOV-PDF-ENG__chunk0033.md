@@ -1,15 +1,31 @@
-# clearer?
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 691051606ec7db656223cfdd6011e77746d9705b
+title: H07QOV-PDF-ENG
+---
+# serve?
 
-AMY EDMONDSON:
+ADI IGNATIUS:
 
-As you indicated, it’s a little outside my wheelhouse, except for the
+Yeah, I love that, and I have to say that I don’t think companies have
 
-eﬀects on people and culture. I speak from the perspective of someone
+ﬁgured that out yet. The disruption of Covid opened our eyes to some
 
-listening at the margins to the many conversations in work and social
+ﬂexibility. But I think the things you’re putting your ﬁnger on, we’re
 
-gatherings alike, and I think you’re right. I think fear is the dominant
+trying to solve for that, and I think a lot of us haven’t yet and need to
 
-emotion, that certainly some are excited, some are super optimistic
+keep experimenting.
 
-about the amazing changes to come, but I think casually I hear more
+So we’re in this age of anxiety, where there’s burnout. And then, you
+
+throw on top of that generative AI, and a fear—possibly irrational,
+
+possibly not—that generative AI will be able to do all of our jobs at
+
+almost no cost. I assume you haven’t done quantitative research. But
+
+qualitatively, what’s your advice for people as generative AI enters
+
+the workplace at every level and the possibilities become clearer and

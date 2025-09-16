@@ -1,15 +1,25 @@
-# organization.
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99014de6cfdab8e33f2d61ea4dedf8846e08b62a
+title: H08MIG-PDF-ENG
+---
+## at work. The key distinction between more positive or more negative
 
-Of course, it may still be diﬃcult to anticipate reactions, especially if
+reactions for managers is whether forgiving the oﬀender is plausible.
 
-relationships within the workplace are already fragile. In such cases, it
+Managers should ask themselves: “Can — and should — I truly forgive
 
-is wise to prioritize consistency to accountability rules and adhering to
+the oﬀender for this misconduct?” Asking this is important because
 
-organizational protocols rather than opting for leniency.
+evaluations about the situation may be prone to bias and idiosyncrasies,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+such as favoring forgiveness with friends or those who are similar to
 
-6
+us. Allowing bias and favoritism to enter into the decision enhances
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the risk of perpetuating inconsistencies and, then, promoting very
+
+strong negative reactions from observing employees. Take a step back
+
+and consider the consequences of how you respond to others in the

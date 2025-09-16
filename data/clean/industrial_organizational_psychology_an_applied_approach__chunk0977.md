@@ -1,17 +1,7 @@
-# Number of applicants
-
-40
-
-30
-
-Number qualified
-
-10
-
-15
-
-Number hired
-
-2
-
-7
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d7114d47c772925f91c88b16d263e95dd0c1a208
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Referrals

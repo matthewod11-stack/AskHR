@@ -1,13 +1,29 @@
-# reentry problems.
+---
+source_path: H07SG6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 380c15c511a62356e7876db5d264ee80fcfa753b
+title: H07SG6-PDF-ENG
+---
+## Preventing the Urge to Overwork Before Time Off
 
-. . .
+Next time you’re planning to take time oﬀ, try in advance to make things
 
-Periodic time away from work is one of the best ways to ensure that
+easier for future you. Weeks before you leave, arrange for who’s covering
 
-you’ll be able to sustain your energy and productivity. With some
+your responsibilities during your absence, and include their contact
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+information in your out-of-oﬃce message. Set clear expectations for
 
-5
+when/if you should be contacted during vacation. Structure a reentry
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+routine ahead of time so you can plug into an existing process and
+
+more easily get back into work mode. Finally, consider conducting a
+
+premortem before ﬁnalizing your plans. What speciﬁc challenges or
+
+failures might you expect or imagine? What were their main causes?
+
+What was not yet accounted for? And ultimately, what additional
+
+preventive steps can you take now? This simple but powerful process helps further reﬁne your pre–time oﬀ planning, which can prevent most

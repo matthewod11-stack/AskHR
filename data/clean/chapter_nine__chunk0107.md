@@ -1,3 +1,13 @@
-## Administration. Vol. 18. No. 1. pp 13-24.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 3b97e4da3f87fe6b20fa90522990ec05cb552e67
+title: chapter_nine
+---
+## Surgery at the Bristol Royal Infirmary 1984-1995. CM 5207(1). London: HMSO.
 
-Lewis, S. (2001) Restructuring workplace cultures: the ultimate work-family challenge? Women in
+Kitson, A., Harvey, G., McCormack, B. (1998) Enabling the implementation of evidence based practice: a conceptual framework. Quality and Safety in Health Care. Vol. 7. No. 3. pp 149-158. Kitson, A., Walsh, K., Cross, W., Campbell, S., Graham, I., Thoms, D. and Thornton, A. (2010) How do Practice Development and Knowledge Translation straddle the academic and clinical divide and help knowledge into practice more effectively? Unpublished paper JBI conference Adelaide November, 2010.
+
+Kitson, A.L., Rycroft-Malone, J., Harvey, G., McCormack, B., Seers, K. and Titchen, A. (2008) Evaluating the successful implementation of evidence into practice using the PARiHS framework: theoretical and practical challenges. Implementation Science. Vol. 3. No. 1. pp 1.
+
+Kotter, J.P., Heskett, J.L. (1992) Corporate Culture and Performance. New York: The Free Press. Kramer, M., Schmalenberg, C. (1988) Magnet hospitals: institutions of excellence. Journal of Nursing

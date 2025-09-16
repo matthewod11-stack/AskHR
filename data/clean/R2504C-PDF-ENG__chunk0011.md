@@ -1,39 +1,55 @@
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c8d5f8fe5b98a078a3cbf327d703bb035b6da33
+title: R2504C-PDF-ENG
+---
 ## HBR / Magazine Article / “Speed Is a Leadership Decision”
 
-Jassy unveils a revamped Alexa with AI features during an Amazon Devices launch in 2025. UPI/Alamy Live News
+are much better in person. People are realizing that they invent better
 
-I think people are excited about the middle layer, which is for people
+together, and I think they like being with one another.
 
-who don’t want to have to build their own models but want to leverage
+Let’s talk about AI. Some analysts thought Amazon was relatively slow to get into AI in a big way. Are you happy with where you are now?
 
-an existing frontier model and customize it with their own data. We’ve
+AI is probably the biggest technology transformation since the internet,
 
-built a service called Bedrock, which oﬀers a large selection of leading
+and it’s going to change every experience that we know. We have
 
-third-party frontier models, including our own. It also has features that
+substantial investments in the AI space. In the early days people
 
-can help you build your own high-quality generative AI app. Bedrock
+were excited about ChatGPT, which is a remarkable application, and
 
-has substantial traction. It hasn’t gotten as much public limelight, but
+OpenAI’s model, which was a game changer. To pursue AI in earnest,
 
-these services are part of why we have a multibillion-dollar annual
+you need to invest in all three layers of the AI stack. We’re doing that. So
 
-revenue run rate in the AI space.
+while there wasn’t a lot of attention early on—ChatGPT was kind of the
 
-How will AI transform the customer experience?
+only large-scale generative AI application—I think people have slept a
 
-We’ve built a generative-AI-powered shopping assistant called Rufus
+little bit on the other layers of the stack, where we have big investments
 
-that can make recommendations, ask questions to help you narrow your
+and are doing really nicely.
 
-choices, and compare products. You can ask it any question, with any
+Describe the bets you’re making in those AI layers.
 
-amount of detail, and it will answer. And this sales assistant is not
+The bottom layer of the AI stack is for model builders, and they care
 
-going to move on to another career. It’s going to be with you and get
+about two things: the compute to do the training and the inference,
+
+which is really the chip. And they care about services that can make it
+
+easier to build models. We’ve built our own custom AI chip, Trainium,
+
+that delivers high performance at low cost. We’ve also built a service
+
+called SageMaker for people who are building their own models—to get
+
+the data in, to experiment, to deploy into production.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

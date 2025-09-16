@@ -1,27 +1,13 @@
-# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 666e6fb9a50acff9854752b7a53c803026e56017
+title: H088ND-PDF-ENG
+---
+# value.
 
-Let’s consider a hypothetical high-tech company employing 1,000
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-professionals, reﬂecting Silicon Valley norms where 50% of the
+12
 
-workforce is Asian with a conservatively estimated salary of $150,000.
-
-Research from Qualtrics indicates that only 20% of employees who
-
-don’t feel a sense of belonging are engaged at work, compared to 91%
-
-of those who do. Using Bain and Company’s ﬁnding that around 80%
-
-of Asian employees don’t feel belonging, we can infer that only 34% of
-
-Asian employees are engaged, leaving 66% disengaged.
-
-Using Gallup’s ﬁnding that a disengaged employee represents a cost
-
-of 34% of their annual salary, by better engaging Asian employees,
-
-the company could achieve productivity gains of $17 million per year.
-
-Assuming an enterprise value to earnings ratio of 10x, this $17 million
-
-annual proﬁt boost translates into a remarkable (albeit theoretical)
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

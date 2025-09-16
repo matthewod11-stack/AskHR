@@ -1,9 +1,17 @@
-# and strategy of the corporate parent.
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5e252a21edbfb79248163da28a7fb4d4e8500cd
+title: H082HH-PDF-ENG
+---
+# Innovation that Delivers Results
 
-In too many companies, we see an innovation team allowed to pursue
+There are no crystal balls in innovation. Just like a VC ﬁrm investing in
 
-its own agenda and imagine itself to be a separate island from the rest
+startups, you won’t know in advance which new ventures will work. This
 
-of the company. The results are always disappointing: a lot of creative
+is why innovation depends on portfolio investing, experimentation,
 
-ideas, but a failure to deliver meaningful growth. The root problem is
+and iterative funding. But for corporate innovation, one more thing is
+
+essential: Every venture must start from an idea that ﬁts the strengths

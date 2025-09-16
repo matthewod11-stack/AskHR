@@ -1,7 +1,13 @@
-# manage my high levels of negative aﬀect.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 342babc884b39391ff7ee40e9f02baec176b2027
+title: H07SHV-PDF-ENG
+---
+# population each.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+High, high, this is a high aﬀect person, it’s called the mad scientist.
 
-11
+That’s me. My problem with wellbeing is not that I’m unhappy or that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+I’m not happy enough. On the contrary, it just means that I need to

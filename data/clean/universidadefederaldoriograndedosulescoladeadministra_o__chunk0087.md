@@ -1,5 +1,13 @@
-## desmotivação, absenteísmo, alta rotatividade e o aparecimento de doenças
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 9f1480ee90692bad07ece91a182e383f7eccc7e9
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# favorável pode
 
-psicossomáticas. Em paralelo, estudos contemporâneos (MANTOVANI; GREATTI,
+proporcionar satisfação com o próprio trabalho, motivação, comprometimento,
 
-2010; ABREU et al., 2013) reforçam essas análises constatando que um clima
+dedicação, melhoras no desempenho, na produtividade e na qualidade de vida do
+
+trabalhador. De modo contrário, um clima desfavorável pode ocasionar frustração,

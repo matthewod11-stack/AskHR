@@ -1,3 +1,9 @@
-## Job Characteristics That May Interact with Happiness
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 2880ca4db89172b5a712ab5643a3034df1ead38a
+title: barrickryan_eds_personality_and_work
+---
+# 48 PERSONALITY AND WORK
 
-Based on current research on the functions of moods and emo- tions, we argue that any associations between happiness and pro- ductivity will not arise simply from an attitude-behavior link. In addition, although there are many general effects of well-being that may lead to slightly higher productivity, we do not expect many of these effects to be large. Instead, we believe that the most impor- tant effects of happiness and well-being on worker productivity are complex and varied, and most will interact with the nature of the tasks being performed. In this section, we speculate on the nature of job characteristics that could possibly interact with happiness to result in a more productive worker.
+The increased vigilance of the unhappy worker does, however, have a trade-off: these workers may not be as efﬁcient or as able to deal with complicated tasks as the happy individual. Happy work- ers may adopt more efﬁcient processing strategies and more ef- fective heuristics that allow them to accomplish complicated tasks very quickly, even if they are more likely to make errors. Thus, happy people may be able to engage in multitasking and other complicated tasks more effectively.

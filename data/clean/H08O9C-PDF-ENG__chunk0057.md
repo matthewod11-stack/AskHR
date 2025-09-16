@@ -1,13 +1,11 @@
-# autonomy?
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64a45bc1833c2be3731feb0d4c73a0666b8c5dfc
+title: H08O9C-PDF-ENG
+---
+# Sample Prompts:
 
-- A coworker keeps taking credit for my ideas in meetings. How can I
+- My manager constantly checks in on my work and doesn’t trust me
 
-address this without coming across as confrontational?
-
-- I have a colleague who frequently interrupts me and dismisses my
-
-input. Can you help me craft a diplomatic but ﬁrm way to address this?
-
-- My boss and team expect me to respond to emails late at night and on
-
-weekends. How can I professionally set boundaries without damaging
+to make decisions. How can I professionally push back and gain more

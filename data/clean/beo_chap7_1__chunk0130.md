@@ -1,11 +1,7 @@
-# 74.2 Capital Budgeting
-
-The last section focused on biases in top managers and whether organizational
-
-structures can constrain them. Biases in capital budgeting which occur below the
-
-CEO’s sphere of influence are also important and might crop up in three ways: a
-
-tendency to divide capital equally among divisions; escalation in commitment to
-
-bad projects; and empire building (and capital suppression).
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 28a44c2e618410c6ebe9d80a4d6a15f9fb43e45e
+title: beo_chap7_1
+---
+# overinvest resources.

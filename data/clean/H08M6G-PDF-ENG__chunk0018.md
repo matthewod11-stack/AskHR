@@ -1,15 +1,27 @@
-# signiﬁcantly.
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0b25735060b089947831601efbe91f3c5645ac4
+title: H08M6G-PDF-ENG
+---
+# for one of joint ownership.
 
-- 5. Cultivate deep trust and tolerance for candor.
+For example, one leader we worked with asked their team members to
 
-When team members develop deeper personal connections with each other, they tend to gain the courage to speak their minds and oﬀer
+point out the boundaries of their domain expertise. It was a vulnerable
 
-unvarnished feedback. Deep trust between colleagues gives them
+act that acknowledged the need for collaboration and invited the team
 
-positive predictability concerning the motives and behaviors of others,
+to engage respectfully at the intersections. And another client’s sales
 
-which helps them develop a high tolerance for candor and encourages
+organization would routinely exclude the design and delivery team
 
-them to engage in vulnerable acts of idea generation and clariﬁcation.
+from the initial part of sales negotiations, often overpromising delivery
 
-Dissent is almost always more easily accepted when fueled by pure
+and underestimating costs. After listening to each other’s concerns
+
+and working together at the intersection of the two functions, they
+
+increased the level of innovation in their designs, reduced their delivery
+
+time, and increased both proﬁtability and customer satisfaction levels

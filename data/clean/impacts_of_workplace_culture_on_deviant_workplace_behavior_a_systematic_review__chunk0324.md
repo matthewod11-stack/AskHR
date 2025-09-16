@@ -1,3 +1,15 @@
-# behavior. Two manuscripts
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: 9691d2cd5efdb9e0a541a648dc07e630ea435f31
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# al.
 
-Our study extends and empirically supports the premise that organizational norms and values are implemented through workplace culture, therefore it appears plausible to argue that workplace culture, in addition to employees’ personality characteristics, influenced the expression of deviant workplace behavior. Conscientiousness, followed by adjustment, agreeableness, openness to experience, and surgency, have a substantial link with deviances, with con- scientiousness being the most commonly observed person- ality and surgency being the least frequently observed (Abdullah & Marican, 2016). Nacˇ inovi’ et al. (2020), di Stefano et al. (2019), and Aleksi’c et al. (2019) explicitly investigated organizational culture as an organization- related component and personality traits as an individual- related factor in their analysis of both individual and
+(2007);
+
+as helpful or destructive, passive/defensive culture, and aggressive/defensive culture, the OCI assesses twelve sets of behavioral standards (Cooke & Lafferty, 1987).
+
+The OCP evaluates both individual and organiza- tional values, examining the connection between organi- zational value selection and personal value preferences (O’Reilly et al., 1991). The OCP is more focused on cul- ture defined by assessing person-organization fit. The OSC (Glisson et al., 2007) assesses the norms, values, and expectations of an organization’s members and cate- gorizes organizational culture as competent, inflexible, or resistive. Even while the OCI and the OSC employ differ- ent culture types for categorization, there are commonal- ities between constructive and proficient cultures, passive and rigid cultures, and aggressive and resistant cultures (Shim, 2010). None of the measurements mentioned by Shim (2014) were used in the manuscripts included in this current systematic review. The selection of measurement for culture was dependent on the subject and the vari- ables focused by the researchers.
+
+Conversely, twelve out of 19 identified manuscripts used The Scale of Workplace Deviance created by Bennett and Robinson (2000) to measure deviant work- place used FOCUS Questionnaire developed by van Mujien et al. (1999). Another five manuscripts measured specific types of devi- ant behavior using a specific set of scales. A specific type of deviance in a study usually involved specified respon- dents such as police officers (Helfers et al., 2018; Lim & Sloan, 2016; Rahmah et al., 2021). This shows that adop- tion of a typology of deviant workplace behavior is more established and accepted among researchers. Overall, the results indicate that workplace culture has negative and positive impacts on deviant workplace behavior. This has important implications for research, especially in terms of the cultivation of the right workplace culture that has negative relations to workplace deviances or prevention strategies to reduce deviant workplace behavior. Table 4 refers to the findings of studies.

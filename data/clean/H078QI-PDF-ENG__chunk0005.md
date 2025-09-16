@@ -1,15 +1,23 @@
-## representation in leadership positions for Black, Latine, and Asian
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 925385650b97b4d245f8888972e8a945ae1ddf4c
+title: H078QI-PDF-ENG
+---
+# HBR / Digital Article / To Avoid DEI Backlash, Focus on Changing Systems — Not Peop…
 
-employees of all genders, and white women, due to resistance
+But in my own work as a DEI practitioner who often administers,
 
-from existing leaders. Backlash is well-documented in response to organizational equity eﬀorts like aﬃrmative action policies, as well as
+analyzes, and helps companies act on these kinds of assessments,
 
-broader equity-related social movements. In what has since been called
+arriving at data-driven insights is only the tip of the iceberg. The
 
-the “#MeToo Backlash,” a 2019 survey following up on the impact of
+far harder challenge is addressing organizational inequities without
 
-the #MeToo movement found that 19% of men were less willing to
+incurring backlash: strong adverse reactions from individuals and
 
-hire attractive women, 21% were less willing to hire women for jobs
+groups that undermine or compromise the positive outcomes DEI
 
-involving close interpersonal interactions, and 27% now avoided one-
+initiatives try to create.
+
+Mandatory DEI trainings have been linked to lower levels of

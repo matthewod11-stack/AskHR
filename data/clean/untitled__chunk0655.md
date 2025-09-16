@@ -1,5 +1,11 @@
-# 110 Cognition and Learning
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4c813f5ec5fe33904836821fc8e7bc409afb5500
+title: untitled
+---
+# REFERENCES 131
 
-became the study of learning, inquiring into how people and animals—another effect of evolution—acquire adaptive be- liefs and behaviors.
+coin that cannot be pried apart. Once philosophers distin- guished truth from opinion (epistemology), the question immediately arose as to how (psychology) one is to acquire the former and avoid the latter. At the same time, any inquiry into how the mind works (psychology) necessarily shapes investigations into the nature of truth (philosophy). The philosophers whose work is summarized below shuttled back and forth between inquiries into the nature of truth— epistemology—and inquiries into how humans come to pos- sess knowledge.
 
-I divide my history of cognition and learning into three eras. The ﬁrst is the Philosophical Era, from Classical Greece up to the impact of evolution. The second is the Early Scien- tiﬁc Era, from the impact of evolution through behaviorism. The third is the Modern Scientiﬁc Era, when the psychologi- cal study of learning and cognition resumed its alliance with philosophy in the new interdisciplinary endeavor of cognitive science.
+This joint philosophical-psychological enterprise was profoundly and permanently altered by evolution. Prior to Darwin,philosophersdweltonthehumancapacityforknowl- edge. Their standard for belief was Truth: People ought to be- lieve what is true. Evolution, however, suggested a different standard, workability or adaptive value: People ought to be- lieve what works in conducting their lives, what it is adaptive to believe. From the evolutionary perspective, there is little difference between the adaptive nature of physical traits and the adaptive nature of belief formation. It makes no sense to ask if the human opposable thumb is “true”: It works for us humans, though lions get along quite well without them. Similarly, it may make no sense to ask if the belief “Lions are dangerous” is metaphysically true; what counts is whether it’s more adaptive than the belief “Lions are friendly.” After Darwin, the study of cognition drifted away from philos- ophy (though it never completely lost its connection) and

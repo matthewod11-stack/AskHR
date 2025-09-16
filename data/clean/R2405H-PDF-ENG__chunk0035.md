@@ -1,29 +1,21 @@
-# How To Make Safety a Performance Driver
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c8cffe79e4b67204c5d0a1a20fedfa4d498bb15
+title: R2405H-PDF-ENG
+---
+## incident rate of 0.02 per 200,000 work hours in 2022.
 
-For safety to be an eﬀective performance driver, an organization must
+When adopting safety as a strategic goal, however, managers should
 
-ensure that everyone is aligned on what safety means and on how to
+avoid making it a stand-alone initiative. Doing so will only serve to
 
-measure success. It must also introduce practices to anticipate risks
+divorce it from the core business strategy. In our experience, when
 
-and prevent incidents before they materialize, target training on those
+safety is treated as a separate initiative, it quickly becomes an exercise
 
-practices, and incentivize employees to improve safety.
+in cost reduction and compliance. Employees see it as an additional
 
-Align on meaning. It is essential to clarify your deﬁnition of safety
+burden, not an integral part of their job or the company’s strategy, and
 
-so that everyone understands precisely what it means for your
-
-organization. Alcoa provides an excellent example of such clarity.
-
-Former CEO Paul O’Neill made safety a cornerstone of the company’s
-
-overall strategy and deﬁned it as achieving zero workplace injuries.
-
-With everyone aligned on that deﬁnition and goal, workplace safety
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+resources are cut at the ﬁrst sign of ﬁnancial pressure.

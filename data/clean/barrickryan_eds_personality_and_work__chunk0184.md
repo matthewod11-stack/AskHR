@@ -1,7 +1,9 @@
-# THE HAPPY WORKER 51
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 56fc53d2b400fbc73acaa0f53bc12aba899e32a6
+title: barrickryan_eds_personality_and_work
+---
+# Conclusion
 
-choices that people make and the behaviors in which they engage. The research reviewed in this chapter shows that happy individu- als are often more sociable, active, self-conﬁdent, healthier, more creative, and more likely to use quick and efﬁcient strategies for processing information than are less happy individuals. Thus, happy individuals appear to have many advantages when interact- ing with the world. However, the speciﬁc impact that these differ- ences will have on worker productivity likely depends on the nature of the worker’s task. Happy workers may be more sociable, but whether this beneﬁts productivity depends on the precise nature of their task. In addition, happy workers may be creative and efﬁcient when performing complicated tasks, but this creativity and efﬁ- ciency may come at the expense of caution and vigilance, which may result in costly errors. Thus, researchers interested in happy worker hypotheses must carefully examine the nature of the tasks in which workers will be engaged before making predictions about whether the hypothesis should hold.
-
-Future research must determine whether selecting employees based on levels of happiness can increase productivity. Positive af- fect, negative affect, and life satisfaction are stable over time, and thus employers may want to match workers with tasks that are suit- able for their dispositional level of happiness. However, much more research needs to be conducted on the speciﬁc interactions that occur before such selection procedures can be used conﬁ- dently. Furthermore, even with the considerable stability in well- being levels, it is possible that programs to increase happiness may also be effective (Fordyce, 1977, 1983). If this is the case, research will be needed to determine whether selecting happy people or in- creasing overall levels of happiness provides the biggest boost to productivity.
-
-In addition to suggesting some avenues for future research, we hope that we have been able to emphasize the importance of ex- amining speciﬁc components of well-being, multiple objective and subjective indicators of productivity, and explicit mechanisms that can link the two. Evidence shows that different indicators of pro- ductivity may be uncorrelated (Meyer & Gupta, 1995) and may be differentially related to different forms of well-being. Furthermore, when researchers specify precise mechanisms linking speciﬁc com- ponents of happiness and speciﬁc forms of productivity, they can test each link in the chain from one construct to the other. This
+Positive affect, negative affect, life satisfaction, and job satisfaction are not simply attitudes about one’s life and one’s job. These com- ponents of happiness and well-being play a functional role in the

@@ -1,13 +1,43 @@
-## the U.S. Surgeon General’s Framework for Workplace Mental Health and
+---
+source_path: H0868F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aedfd2e3be18d83e8826912a17d0beecc0fc73aa
+title: H0868F-PDF-ENG
+---
+# important.
 
-Wellbeing. These give me hope and feel like the mindset shifts we need.
+First, recognize that technology will not ﬁx our mental health issues;
 
-Whether any of these ideas will gain “juice” inside companies remains
+technology is part of the problem. Every conversation I have includes
 
-TBD.
+feelings of utter hopelessness that we have lost the battle with our
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+phones and attention spans. The hyper-responsive cycle of always
 
-6
+being online exacerbates anxiety at work. We need strategies to address
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mental health that acknowledge the outsized role technology plays in
+
+our work lives and the damage it does to our mental health.
+
+Second, consider that work is about people, and people are messy and diﬃcult. “Pretty much every mental health struggle a person is having,
+
+at its core is a struggle of relationships, Anhalt notes. “Companies have
+
+to be willing to get in there and help people actually feel met and heard
+
+and seen and connected.” Here’s the wonderful thing: When employers
+
+invest time, curiosity, and thoughtful strategy as they develop mental
+
+health programs, people do feel met and heard and seen and connected.
+
+It’s a win!
+
+In the end, Anhalt recommends that leaders who care about mental
+
+well-being need to invest in the long game and build trust with employees over time. This approach is diﬃcult to justify for businesses
+
+beholden to short-termism and shareholder pressure, but there is
+
+growing interest in the ﬁeld of human sustainability and models like

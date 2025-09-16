@@ -1,13 +1,19 @@
-# apart of gross income.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: dcfe5b5938a4a3ea4a78466015d37cd9f9e35379
+title: california_state_university_northridge_1
+---
+# lightly.
 
-While businesses are now opting for Alternative Dispute Resolution (ADR) programs,
+15
 
-critics within the state are against such programs. The main reason for the push is to reduce
+Due to a large settlement under emotional distress, the plaintiff which prevailed,
 
-the amount of litigation. At the same time it is noted that "at-will" employee status is
+received a large amount of money that the IRS was not able to acquire the appropriate taxes
 
-recognized in the state. It is clearly stated that "at-will" employment has a strong presence in
+due therefore, an adjustment to the tax code was required. Mr. Rosenfeld states that
 
-the state where there is no implied contract. This supported by a careful review of the
+President Bill Clinton passed the Small Business Job Protection Act of 1996, which amended
 
-employee handbook and or manual to ensure language that is damaging is not used.
+the IRS code so that taxes could be collected on emotional distress, punitive damages to be

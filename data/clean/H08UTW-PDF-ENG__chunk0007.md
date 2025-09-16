@@ -1,29 +1,43 @@
-## HBR / Digital Article / When “Yes, and…” Backfires
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83ba2586b38569506cacdbb79d4c566b7b818169
+title: H08UTW-PDF-ENG
+---
+## Stanford Graduate School of Business and to Silicon Valley professionals
 
-How to avoid this mistake:
+through Stanford Continuing Studies. Today, it remains a central part
 
-“Yes, and…” delivers the most value when it ﬁts the moment. To spot
+of my coaching work with executives and teams. I’ve seen ﬁrsthand
 
-that moment, ﬁrst agree on why you and your team are meeting in the
+how the technique creates space for contribution and drives progress
 
-ﬁrst place. Is this a quick status update, an idea sprint, or a strategic
+when alignment and innovation are most needed. But I’ve also
 
-product decision? Once your goal is clear, you can decide whether to use
+seen it misunderstood, misapplied, or reduced to a buzzword. When
 
-the technique at all, and if you do, when to switch from generating ideas
+that happens, “yes, and…” loses its power and can even derail the
 
-to evaluating them.
+collaboration it’s meant to foster.
 
-Here are a few common examples to guide you:
+Here are the top ﬁve mistakes I’ve observed leaders make with “yes,
 
-Brainstorming sessions: “Yes, and…” works well here. Research shows
+and…” Let’s break each down and talk about what to do instead.
 
-that the more ideas a team generates, the better the ﬁnal outcomes tend
+Mistake #1: Not using “yes, and..” judiciously or transparently
 
-to be. If you need to come to a decision by the meeting’s end, limit “yes,
+Many of the leaders I work with worry that embracing “yes, and…” in
 
-and…” to the ﬁrst 10 minutes or so, then shift from divergent thinking
+meetings will slow down decision-making. They picture everyone piling
 
-(idea making) to convergent thinking (idea weighing and selecting). Tell
+on idea after idea without pausing to sift, debate, analyze, and come to
 
-your team in advance when you’ll be switching gears to avoid catching
+the best solution. But this only happens when the tool is not being used
+
+judiciously—when it’s being applied too broadly or at the wrong time.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

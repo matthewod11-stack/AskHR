@@ -1,21 +1,45 @@
-## their wisdom and know-how without fear or insecurity.
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a514078df6366df28f65067e2171feccef33494b
+title: H0832U-PDF-ENG
+---
+## HBR / Digital Article / Leading the 6-Generation Workforce
 
-As America navigates the so-called “peak 65” demographic benchmark
+To be sure, this unprecedented age span could aﬀord organizations
 
-with over 4 million Americans projected to reach age 65 every year
+unique opportunities to reimagine and reposition themselves for
 
-through the end of the decade — that’s more than 11,000 people every
+sustainable intergenerational inclusion and impact. At the same time,
 
-day — eﬀective succession planning is essential for organizational
+where executives are unwilling or unprepared to engage this new six-
 
-sustainability. Thinking in 6G requires organizations to undertake the
+generation (6G) reality, organizational chaos and decline may ensue.
 
-hard work of ﬁguring out how to become employers-of-choice for every
+Here are ﬁve steps leaders can take to create healthy 6G organizations.
 
-generation (not just the younger ones), anchored by a compelling
+- 1. Develop a 6G organizational strategy.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Every organization needs a 6G organizational strategy. To be clear,
 
-2
+this is not a special “six-generation strategy” that sits apart from
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the organization’s core strategic plan. Instead, developing a 6G
+
+organizational strategy is about ensuring that the discipline of 6G-
+
+thinking is embedded within — and evident throughout — your
+
+organization’s strategy, dashboards, and scorecards. In other words, 6G
+
+strategic thinking can make your organization’s strategy come alive.
+
+At ﬁrst glance, such a strategy might appear to be the exclusive domain
+
+of your talent management team. But this about more than recruiting,
+
+retaining, and advancing talent from all generations. Leaders are also
+
+tasked with creating the conditions that incentivize older and younger
+
+workers alike to be open to learning from and with one another, sharing

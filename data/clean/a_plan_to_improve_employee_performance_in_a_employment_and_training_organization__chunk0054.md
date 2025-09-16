@@ -1,7 +1,15 @@
-## recommended steps for the performance evaluation process and performance
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 4e2b50662f78a5bd5965fe2e39bdeb16b6af07cc
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# standards/objectives/criteria
 
-standards or objectives; and,
+that supervisors can utilize as a guide when
 
-- 2) Propose a list of actions management can take to develop a program for
+conducting a performance evaluation with new and existing employees; The new
 
-the recognition of new and existing employees .
+performance evaluation tool will not only enhance productivity but encourage
+
+personal growth among employees at ETR. Also, this plan will propose

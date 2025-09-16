@@ -1,61 +1,47 @@
-## HBR / Magazine Article / “Speed Is a Leadership Decision”
+---
+source_path: R2504C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c20c0ad120648137a9ab3d3aee27a8a18ea2ffc
+title: R2504C-PDF-ENG
+---
+# customers.
 
-in processes. And pretty soon you have process upon process upon
+How do you staff for that?
 
-process, which slows people down, so they can’t get the real work
+We need a lot of builders—people who like to invent, who like to dissect
 
-done. You have to be scrappy. You can’t put 50 or 100 people on every
+the customer experience and ﬁgure out what’s wrong with it, even if it’s
 
-new project. We started our cloud-computing business, Amazon Web
+pretty good, and then rebuild it. And we need owners—people who ask,
 
-Services, with about 13 employees. With a small number of people,
+“What would I do if it were my money? What would I do if I owned all
 
-you can build something that resonates with customers and then keep
+the resources?” In other words, people who feel accountable.
 
-iterating from there.
+How do you think about pace?
 
-How do push your team to take chances and embrace failure?
+Speed disproportionately matters in every business at every time. I used
 
-As companies get bigger, they often get risk averse. If you hire
+to speak with a lot of CEOs who would say, “We’re big. We have security
 
-achievement-oriented, type A people, they are not used to failing. When
+issues. We have compliance issues. We just can’t move fast.” I think
 
-they want to pursue something new, they worry that if they get it wrong,
+speed is a leadership decision. You can decide you want to move fast,
 
-they’ll be ostracized. So they play to not lose. We stress that the only way
+but you have to ﬁgure out what’s slowing you down and knock all those
 
-to build something unique is to do something diﬀerent. You have to be
+barriers out. Then you’ve got to get the whole organization aligned on
 
-willing to take risks and to fail.
+moving really fast, even if you make mistakes along the way.
 
-Being customer-focused seems inconsistent with taking risks. If you know exactly what your customers want, you deliver that. It doesn’t sound risky. How do you square those two imperatives?
+That’s a classic challenge: How do you move quickly in a big organization with so many layers of management?
 
-I think they’re pretty consistent. If you ﬁnd the right feedback loops,
+You need to really try to root out bureaucracy. As you get bigger,
 
-customers will tell you what’s wrong with your product or with their
-
-experience. And if you ask the right “why” questions about the problem
-
-you’re trying to solve, customers will tell you what’s really constraining
-
-them. They can’t always tell you how to ﬁx it, but if you’re listening and
-
-you understand the need, then you can invent on their behalf.
-
-You seem to be reinventing Amazon’s management and culture: You’re rethinking the role of middle management. You’ve adjusted expectations about how teams work together. What’s the unifying idea behind these steps?
-
-Most companies that are successful for any period of time have a culture
-
-that’s a key part of their success. We have a really strong culture, but
-
-it’s not our birthright. Things change. The size of the company changes.
-
-The scope of businesses you’re going after changes. The geographic
-
-distribution of your people changes. If you want to stay successful, you
+you have a lot of managers—well-intended people—who keep layering
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-3
+2
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,9 @@
-# basis for executive action.”
+---
+source_path: H0785O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa3db44815452529ffc39e6f33be5344c6b760da
+title: H0785O-PDF-ENG
+---
+## HBR / The Big Idea / Improving the Practice of Management — Then and Now
 
-At the time, the business world had reason for optimism. The First
-
-World War had ended just a few years before. The Spanish ﬂu pandemic
-
-had subsided. The economy had weathered a brief depression, and
-
-the outlook was decidedly improving. In that ﬁrst issue, writing about
-
-the taxation of capital gains, accountant George O. May said as much,
-
-noting that, in the U.S. at least, business was getting “back to more
+remedy that situation, HBR would seek to provide “a better theoretical

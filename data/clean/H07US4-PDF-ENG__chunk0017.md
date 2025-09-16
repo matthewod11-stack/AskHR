@@ -1,11 +1,13 @@
-## HBR / Digital Article / The Business Case for Love
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 475c9f4f65105220d75102df47e730d8de029919
+title: H07US4-PDF-ENG
+---
+# into the 4/5 category.
 
-Unfortunately, this thinking is not backed by the data. Moving 2’s to 3’s
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-and 3’s to 4’s drives very little in terms of desired customer or employee
+3
 
-behaviors — the line from 2’s to 3’s to 4’s might as well be ﬂat.
-
-It’s only when employees or customers rate their experience as an
-
-extreme positive — the 5’s — that we see a link between people’s
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,45 +1,23 @@
-# together.
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f429a9905bb44496a4d57cf8cd7a68a651ec3752
+title: H06SBB-PDF-ENG
+---
+# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
 
-ADI IGNATIUS: Another question that all companies have is the
+These are kind of design approaches to asking that question, and
 
-million-dollar question: how do you innovate? How do you perpetually
+how do we become a more inclusive environment, how do we bring
 
-create a sort of perpetual innovation machine in your company? And
+equity into that environment? And it requires a lot of listening, a lot of
 
-this is a question from James in Sydney who asked about the role of
+curiosity, also a lot of learning, a lot of iterating, and also don’t be shy of
 
-serendipity and randomness in innovation. I know as employers we talk
+bringing in experts who have the experience and view to help guide us
 
-about it being good to be together physically because there are these
+through that process. Because these are difficult conversations to have
 
-sparks, but does that really happen?
+and it really helps to have that facilitated, so that you can get to a deeper
 
-SANDY SPEICHER: I think it does really help. Serendipity really does
-
-help because through some of those interactions, you might learn
-
-something that you hadn’t known before, and it might help you connect
-
-a dot in your mind on a problem that you’re working on.
-
-Of course, that doesn’t mean that being in the office is the only way to
-
-do that. I think the key for that is to be looking for inspiration, to be
-
-asking different types of questions, to be seeking outside of what your
-
-current experiences and knowledge are in order to help expand your
-
-mind with inspiration, which is the thing that helps us get to new ideas.
-
-Recently, someone I work with was talking about this, that in meetings,
-
-what we’re often looking for is to find common ground. What’s the
-
-pieces that we all agree on so that we can move forward?
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+root of what people’s experiences are and the ways that we can come

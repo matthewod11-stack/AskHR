@@ -1,5 +1,7 @@
-# | RESEARCH ARTICLE
-
-Employee Attrition Prediction in the USA: A Machine Learning Approach for HR Analytics and Talent Retention Strategies
-
-Md Sumon Gazi1 Islam6 16MBA Business Analytics, Gannon University, USA 2Department of Management Science and Quantitative Methods, Gannon University, USA 3Master of Arts in Physics, Western Michigan University, USA 4PhD Student in Information Technology, University of the Cumberlands, KY, USA 5Masters of Science in Management, ST. Francis College Corresponding Author: Md Sumon Gazi, E-mail: sumonmkt87@gmail.com
+---
+source_path: journal_of_business_and_management_studies.md
+pages: n/a-n/a
+chunk_id: 28dbaba2666fb0657641c7afd3e611305c952628
+title: journal_of_business_and_management_studies
+---
+## AL-KINDI CENTER FOR RESEARCH AND DEVELOPMENT

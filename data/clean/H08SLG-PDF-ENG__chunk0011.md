@@ -1,5 +1,25 @@
-## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ef9d58c64391b51d5402f91aba8efdbf7cffe05c
+title: H08SLG-PDF-ENG
+---
+## experience facilitating meetings, leaders almost always underestimate
 
-leaders overestimate how approachable they are and how able those
+how much airtime they take up.
 
-lower on the hierarchy are to choose their own course of action.
+Leaders also tend to mistakenly believe that it’s easy for their direct
+
+reports to move into spacious mode without permission—or that it
+
+would be easy to ask for that permission. This is driven by “advantage
+
+blindness,” which can cause those with higher standing in a hierarchy
+
+to underestimate the power they hold and the impact it has. Therefore
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,25 +1,17 @@
-## two expansion ideas ﬁrst as a division head?”
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 853b2eb59dc1205f6b0d4ea23f841a054168e5a9
+title: R2405M-PDF-ENG
+---
+# HBR / Magazine Article / Case Study: Should a Family Business Accept a Returning Da…
 
-“Perhaps she knows this is the only chance she has to negotiate with
+“It seems your daughter was raised to have grander ambitions than
 
-you, because this is the only time she will have a credible walk-away
+that,” Jean-Louis said. “And as much as you care for Ibrahim, he is not
 
-threat,” Jean-Louis said. He looked searchingly at his two friends. “May
+your child; Aminata is.”
 
-I ask you to consider what would happen if Aminata came home and
+“But why does it have to be all or nothing?” Yao asked, sighing deeply
 
-was successful? The agribusiness would help provide food security and good jobs for our people.6 Producing power for the grid would help industrial productivity and improve the quality of life for Ivorians. Your
-
-daughter could become a national hero.”
-
-“That’s true,” Koﬃ said. “But may I ask you to consider what would
-
-happen if she failed? We’d have to leverage the business for a
-
-transformation of this scope. Apart from wiping out the value of
-
-the company, it would turn Assoua Group into yet another “désastre
-
-africain,” which the Paris papers love to write about. We’ve worked our
-
-whole lives to make sure that doesn’t happen.”
+as his brother got ready for a tee shot. “Why can’t she just try one of the

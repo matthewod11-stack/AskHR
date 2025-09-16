@@ -1,23 +1,21 @@
-# rate.
+---
+source_path: H08UHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6dc67715739c2c4e3ffb44118fb806e3d54bb23
+title: H08UHK-PDF-ENG
+---
+# wasted time.
 
-However, brevity isn’t always the ideal approach. A team at the United
+One of the most important principles is less is more. As Blaise Pascal
 
-Nations that one of us (Todd) worked with encountered an unexpected
+famously wrote, “I’m sorry this letter is so long. I would have written
 
-challenge: Reports were capped at 6,500 words, and most submissions
+a shorter one if I’d had more time.” Our research supports Pascal’s
 
-predictably reached that limit. While a shorter, 3,000-word report might
+wisdom. In one experiment, we randomly assigned 7,000 elected and
 
-be more reader-friendly, it could also be perceived as the writer not
+appointed leaders to receive either a 129-word request to complete a
 
-doing a thorough job. In this case, the word limit unintentionally
+survey or a version where we removed the middle sentences so it was
 
-became a word-length expectation—reinforcing the idea that anything
-
-shorter was incomplete. This is why leaders must be publicly committed
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+only 49 words. When we tested both versions with an independent group, most assumed the longer one would be more eﬀective. But the data told a diﬀerent story—cutting words nearly doubled the response

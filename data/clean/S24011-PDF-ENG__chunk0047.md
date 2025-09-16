@@ -1,19 +1,15 @@
-# diﬀerent energies as the event unfolds.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13f30e22ee414733f5126fb289b15347dfe75195
+title: S24011-PDF-ENG
+---
+# Mary Haasdyk Vooys
 
-At one ﬁnancial services company, tensions were running high on
+Such preparation also frees up more of the brain’s executive system
 
-the analytics team of an executive called Roger. It was getting a
+—the frontal lobes—to deal with evolving dynamics, allowing people
 
-lot of assignments but didn’t have a good process for prioritizing
+to adapt quickly as conditions change. They can use whatever action
 
-them. Deadlines were being missed, and teammates were blaming
-
-one another, much to Roger’s irritation. He decided to bring the team
-
-together for a conversation. To put aside his negative emotions, he set
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+makes the most sense to them, moment by moment, shifting toward

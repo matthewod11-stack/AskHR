@@ -1,1 +1,13 @@
-# 9/10/25, 11:22 AM
+---
+source_path: Going into the Office for the First Time_.md
+pages: n/a-n/a
+chunk_id: 364f2c959271bee4c15d798748158b6e5596a076
+title: Going into the Office for the First Time_
+---
+# Going into the Ofﬁce for the First Time?
+
+https://hbr.org/2024/02/going-into-the-ofﬁce-for-the-ﬁrst-time
+
+4/8
+
+To avoid becoming overly stressed, you should expect a slightlearning curve when you arrive. After all, this is your first time ina new space. You may need some training on how to book aconference room, share your presentation on the big screenduring team meetings, and dock your laptop into your workstation. Give yourself some grace your first day or two back in theoffice as you figure out these logistics.Pro tip:Some offices require employees to have a special ID or passcode togain access to the parking lot or building. If your company hasn’talready provided you with this information, reach out to yourmanager to find out the protocol, as well as what steps you shouldtake to get what you need. This will help you avoid the stress ofbeing locked out on your first day back — which is never fun.Pay attention to the ofﬁce culture.Even if you’ve been in your position for a while, you may need todo some relearning to fully understand the office culture, whichmay look different in person than online.For instance, traditional, in-person environments can be lessflexible than remote ones. Your boss may not have noticed if yousigned in a few minutes late when you worked remotely, but beingat your desk on time may actually be important to them. Now thatyou’re physically visible, punctuality can be a sign that you’re acommitted and responsible team member. Or perhaps when youworked remotely it was okay to check out early and grab coffeewith a friend, and then put in some extra time later that night.Now that you’re in person, leaving early could raise someeyebrows.

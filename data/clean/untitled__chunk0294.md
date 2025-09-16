@@ -1,13 +1,13 @@
-# Philosophical Review, 7, 449–465.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c2635c086761c682477ccf970fc264a6b5127fce
+title: untitled
+---
+# Monograph (Suppl. 2, Whole No. 8).
 
-Titchener, E. B. (1901–1905). Experimental psychology, a manual
+Thorndike, E. L. (1913). The laws of learning in animals. In E. L. Thorndike (Ed.), Educational psychology: The psychology of learning (Vol. 2, pp. 6–16). New York: Teachers College Press.
 
-of laboratory practice. New York: Macmillan.
+Thorndike, E. L. (1936). Edward Lee Thorndike. In C. Murchison (Ed.), A history of psychology in autobiography (Vol. 3, pp. 263–270). Worcester, MA: Clark University Press.
 
-Todes, D. (1997). From the machine to the ghost within: Pavlov’s transition from digestive physiology to conditional reﬂexes. American Psychologist, 52, 947–955.
-
-Tolman, E. C. (1922). A new formula for behaviorism. Psychologi-
-
-cal Review, 29, 44–54.
-
-Tolman, E. C. (1932). Purposive behavior in animals and men. New
+Titchener, E. B. (1898). The postulates of a structural psychology.

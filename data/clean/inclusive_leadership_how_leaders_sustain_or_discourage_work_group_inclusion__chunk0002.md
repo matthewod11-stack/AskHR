@@ -1,3 +1,9 @@
-# Lynn M. Shore1,2 and Beth G. Chung3
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 6c5b83711863a524866bc85694ea0c25b3c0db0c
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+## Inclusive Leadership: How Leaders Sustain or Discourage Work Group Inclusion
 
-Abstract Research on leader inclusion has continued to proliferate. However, most of the research has not focused on the importance of leader inclusion for employees with marginalized social identities. Based on Shore, Randel, Chung, Dean, Ehrhart, and Singh’s (2011) model of work group inclusion consisting of fulﬁllment of needs for belongingness and value in uniqueness, we describe four different leadership orientations including leader inclusion, exclusion, assimilation, and differentiation. Three psychological mechanisms that result when employees feel included by the leader are discussed, consisting of psychological safety, psychological empowerment, and work group identiﬁ- cation. While leader inclusion has been shown to be beneﬁcial to employees generally, this article provides increased attention to the particular impor- tance of leader inclusion for employees who are members of marginalized social identity groups.
+Group & Organization Management 2021, Vol. 0(0) 1–32 © The Author(s) 2021 Article reuse guidelines: sagepub.com/journals-permissions DOI: 10.1177/1059601121999580 journals.sagepub.com/home/gom

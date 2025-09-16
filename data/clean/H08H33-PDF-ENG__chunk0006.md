@@ -1,5 +1,7 @@
-# Andriy Onufriyenko/Getty Images
-
-When interviewed by the Smithsonian Institution in 1993 about the
-
-early days of his company, Microsoft co-founder Bill Gates didn’t stress
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: faf8a0fc255d1dec8a75868fa33796f550a349d5
+title: H08H33-PDF-ENG
+---
+## Published on HBR.org / November 07, 2024 / Reprint H08H33

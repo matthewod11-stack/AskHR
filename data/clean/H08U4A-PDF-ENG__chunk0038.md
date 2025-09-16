@@ -1,13 +1,13 @@
-## HBR / Digital Article / Why Kindness Isn’t a Nice to Have
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9db2438f4228fbe6a9214c468eb1d6ec9567a2cf
+title: H08U4A-PDF-ENG
+---
+# growth.
 
-- If someone acts unkindly, it gets called out in real time, and that
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-person is held accountable for that behavior. If an individual’s
+9
 
-behavior puts others at risk of physical or emotional harm, it is taken
-
-seriously and followed up through formal reporting channels.
-
-When kindness is framed in this way, it becomes part of the shared
-
-legend of what it means to work in a place: what it means to be a good
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

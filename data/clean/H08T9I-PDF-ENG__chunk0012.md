@@ -1,7 +1,9 @@
-## For instance, in the early 1920s when the automobile industry
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 591c0041e01799b3c7f55e8e77ac1cf62bb72ef6
+title: H08T9I-PDF-ENG
+---
+# on the maturity of the industry.
 
-was nascent, Ford produced more than 50 percent of all motor
-
-vehicles in the world. By the 1990s, the automotive industry had
-
-matured into a global industry with a plethora of manufacturers.
+See more HBR charts in Data & Visuals on HBR.org.

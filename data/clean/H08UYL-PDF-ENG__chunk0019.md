@@ -1,17 +1,21 @@
-# communication?
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dc80479888f48077971045be838354281fb5f1d5
+title: H08UYL-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Edit What They Say Before They Say It
 
-This may sound obvious, but in our experience, far too many senior
+- 2. Clarify your audience and outcome.
 
-leaders forget to take this critical step and ultimately impact people in a
+What do you want your audience to think, feel, and do after hearing
 
-way they didn’t intend. Strategic editing starts with clarity of intent.
+you? Make it a practice to ask yourself three simple questions before
 
-Jordan worked with a tech CEO who was perceived as insensitive.
+communicating widely:
 
-His team was under a lot of pressure and driving hard in a
+- Who is my audience?
 
-competitive market. The team felt that he always wanted more without
+- What do they care about right now?
 
-acknowledging their hard work, struggles, and accomplishments along
-
-the way. This led to venting between team members outside of team
+- What do I want them to be thinking/feeling/doing as result of my

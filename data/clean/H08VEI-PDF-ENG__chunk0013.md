@@ -1,27 +1,39 @@
-# Have compassion.
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad2551b919870ed5f82e8b090cde1432e6e3f1e3
+title: H08VEI-PDF-ENG
+---
+## pertinent to their jobs and the business.” Explain what the change
 
-People crave stability. “And when you introduce change, you’re
+means in practice, he says: “Walk through tasks and timelines. Say:
 
-inevitably putting people into a state of uncertainty and turmoil,” says
+‘Here’s how this may aﬀect your day-to-day.’”
 
-Carroll. “That’s not necessarily bad, but as a leader, you need to help
+Make it personal.
 
-them navigate it with empathy and compassion.”
+Next, you need to help people answer the question: What’s in it for
 
-That means noticing their emotions and worries. “People are
+me? This is where you put your translation skills to work, according
 
-wondering: ‘What else is going to change? What else don’t I know?’” You
+to Willett. Rather than talking about what’s good for the company,
 
-might be tempted to rush them toward acceptance, but they often need
+focus on personal opportunities and connect the change to individual
 
-to sit with their discomfort. “Don’t waste time trying to win everyone
+goals. Consider what motivates diﬀerent team members—whether it’s
 
-over one by one,” she says. “Let them feel what they’re feeling while
+learning opportunities, career advancement, or new responsibilities.
 
-consistently oﬀering a vision that’s both optimistic and realistic.” People
+Then show them what the strategic shift means for them personally.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+“You could say: ‘You’ll have the opportunity to build new skills, which
 
-4
+can help you get promoted.’ Or, ‘You’ll help colleagues get up to speed,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+which gives you a bigger role.’”
+
+Carroll recommends backing this up with anecdotes and stories that
+
+show you appreciate how the change aﬀects diﬀerent teams and people.
+
+“It helps them feel seen and understood.”

@@ -1,17 +1,13 @@
-## adopts a comprehensive prohibition on the use of noncompete clauses
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b9e5af18bb0088f5e33b9e9948611681b7bb8fa
+title: H087Y6-PDF-ENG
+---
+# Holloway/Getty Images
 
-in any industry with any worker, including those at senior executive
+The Federal Trade Commission (FTC) made history last week when
 
-levels. The rule is promulgated using the FTC’s authority to determine
+it passed a new rule that fundamentally alters the landscape of
 
-practices that are unfair methods of competition. For those like me who
-
-have long argued against the use of noncompetes, this moment has
-
-been a long time coming.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+employment agreements across the U.S. The agency’s noncompete rule

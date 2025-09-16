@@ -1,7 +1,19 @@
-## colleague, professional, and manager or leader.
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 117663f49e85c5237d0211f58bb8bc84a701cdc0
+title: H08U4A-PDF-ENG
+---
+## HBR / Digital Article / Why Kindness Isn’t a Nice to Have
 
-- 3. Measure kindness.
+- If someone acts unkindly, it gets called out in real time, and that
 
-Most organizations that take something seriously measure it. The same
+person is held accountable for that behavior. If an individual’s
 
-should apply to kindness. It should be measured in terms of observable
+behavior puts others at risk of physical or emotional harm, it is taken
+
+seriously and followed up through formal reporting channels.
+
+When kindness is framed in this way, it becomes part of the shared
+
+legend of what it means to work in a place: what it means to be a good

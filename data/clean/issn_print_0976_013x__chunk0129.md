@@ -1,5 +1,9 @@
-## Science, Toxicology and Food Technology, 2017, 11
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 95b3c75c303e2d0eb07b908b92d6fa57f77f15c0
+title: issn_print_0976_013x
+---
+## Journal of Advanced Engineering Research and Science. 2017, 4(7)
 
-Souza, F. T. C., Santos, E. R., Silva, J. D. C., Valentim, I. B., Rabelo, T. C. B., Andrade, N. R. F. D., &
-
-Silva, L. K. D. S. (2018). Production of nutritious flour from residue custard apple (Annona
+Sinthiya R, Poornima. Value added products from annona fruits. IOSR Journal of Environmental

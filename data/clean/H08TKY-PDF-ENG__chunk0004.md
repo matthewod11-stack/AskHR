@@ -1,11 +1,13 @@
-## HBR / Digital Article / The Definitive HBR Strategy Glossary
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a85bacf036ff677a5e21dd404ec9efe64678206c
+title: H08TKY-PDF-ENG
+---
+## remarkable number of management tools and techniques…Although
 
-the resulting operational improvements have often been dramatic,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-many companies have been frustrated by their inability to translate
+1
 
-those gains into sustainable proﬁtability. And bit by bit, almost
-
-imperceptibly, management tools have taken the place of strategy.
-
-As managers push to improve on all fronts, they move farther away
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,9 @@
-# JBMS 6(3): 47-59
+---
+source_path: journal_of_business_and_management_studies.md
+pages: n/a-n/a
+chunk_id: d50d23c408c338fe7513d17a1fad689ad3260c30
+title: journal_of_business_and_management_studies
+---
+# Output:
 
-- 5. Models Performance Evaluation Confusion matrix was applied to assess the performance of the models in terms of accuracy, precision, and recall.
+Page | 56

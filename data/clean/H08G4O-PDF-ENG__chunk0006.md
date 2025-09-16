@@ -1,5 +1,11 @@
-## and over from investors and board members in recent years.
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46da93b1ab85d9357d8b0cf2ca1fe56bf416e913
+title: H08G4O-PDF-ENG
+---
+# the next level.
 
-To deepen our own insights and advise clients, we embarked on a
+The desire to understand what makes founders tick — and how to
 
-comprehensive study of what we call the “founder DNA.” We analyzed
+harness their special sauce to outperform — is one we’ve heard over

@@ -1,13 +1,23 @@
-## HBR / Digital Article / Creating Workplaces Free of Forever Chemicals
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 55cbc0a2bc023f3ee7f3279592d823143b6bbbe0
+title: H08P2F-PDF-ENG
+---
+# Why Forever Chemicals Are Dangerous
 
-The strength of these bonds imparts some very useful properties. Put
+Five years ago, one of us (Joseph Allen) coined the term “forever
 
-a coating of forever chemicals on a product, and not much—oils,
+chemicals.” The name uses the initials of ﬂuorine and carbon, whose
 
-stains, water, or food gunk—gets through, which is why they have
+bonds serve as PFAS’ building blocks, and describes their deﬁning
 
-long been used to make non-stick pans, ﬁreﬁghting foam, and stain-
+feature: because these chemical bonds are the strongest in organic
 
-resistant and water-repellent furniture fabrics, paints and coatings,
+chemistry, they don’t ever fully break down.
 
-carpets and ﬂooring, wallboards and insulation, food packaging, and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

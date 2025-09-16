@@ -1,7 +1,23 @@
-# particular moment.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2126f7837fe6971f14b0521ba98617d9dfe75a23
+title: H07SHV-PDF-ENG
+---
+# ourselves?
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+ARTHUR C. BROOKS:
 
-6
+To a certain extent, there’s a set of biases that are at play here. For
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+example, one of the things we ﬁnd is that when you’re really lonely, it
+
+impairs the executive centers of your brain. We know this. This is the
+
+reason that when you’re really sad and lonely, you cocoon on the couch
+
+with a comfortable blanket streaming Netﬂix and eating Haagen-Dazs.
+
+What you should do is get up and go outside and get some vitamin D
+
+and ride your bike and call your friends, but you’re impaired at that

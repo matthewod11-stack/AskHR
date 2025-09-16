@@ -1,7 +1,7 @@
-# Design with simplicity
-
-Prompts should be concise, clear, and easy to understand for both you and the model. As a
-
-rule of thumb, if it’s already confusing for you it will likely be also confusing for the model. Try
-
-not to use complex language and don’t provide unnecessary information.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 53d97bd9a711488c778c6ab9c89a323756a587fb
+title: prompt
+---
+# Prompt Engineering

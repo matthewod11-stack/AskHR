@@ -1,41 +1,45 @@
-# in a handbook that
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 319642e5e3c8d5ffa7e0127b5279502dca877591
+title: california_state_university_northridge_1
+---
+# worker's compensation claims.
 
-specifically delineates a sequential format can work against the employer if not followed.
+In respect to breach of contract, there are cases where the courts have looked at
 
-A hotel manger may be concerned that if progressive discipline becomes policy, past
+the employers' statements, also including spoken assurances. It is important to recognize
 
-employees who were not given the option to rectify inappropriate behavior may sue them.
+that cases, which involve spoken promises, come down to hearsay and do not stand up
 
-Therefore, fear of what may occur from past employees may have an impact on current
+well in court. Conversely, written statements within a job offer letters, handbook and
 
-employees. If no policy is set, the manager must determine, on what grounds an employee
+personnel polices are more successful than cases focusing on verbal statements made in a
 
-circumstance, an agent of the employer will become inconsistent in their actions. The
+meeting. A hypothetical situation, if a job offer letter states that an executive will be hired
 
-31
+at $85,000 per year and in actually the starting salary is $78,000, a problem exist. The
+
+executive in auestions has a reasonable exnectation that he or she wi11 start with a salarv of
+
+.I.
+
+·-
+
+.I.
 
 --
 
-inconsistency in terminating employees will in itself lead to legal action from current
+--
 
-employees or those recently terminated for lack of written disciplinary procedures in place.
+--
 
-In the matter of bad-faith discharge, this is vague and this is a tort and can lead to
+--
 
-punitive damages. Here, the courts must find an implied contract even when one does not
+--------
 
-exist, this being the first element. Second element, the courts must determine if the
+------------.,
 
-breach is in bad-faith and if the employee reasonable had an expectation of continual
+$85,000 and may not have taken the job if $78,000 was initially offered.
 
-employment as well as sense of trust to the employer. This is a two-prong test; one
-
-element cannot exist without the other fur the test to be satisfied. Again, a contract exists
-
-between two parties and good faith is apart of said contract, which is implicitly
-
-understood. "This is an accepted theory that has been codified in the Uniform
-
-Commercial Code, Article 1-203" (Aalberts et al., 1993). Given this, a breach of contract
-
-has occurred when a discharge was in bad faith and such discharge violated the implied
+Another hypothetical situation, where written procedures

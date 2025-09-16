@@ -1,13 +1,9 @@
-# courts.
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6ee8cdc85f023c8a09ef968cb0d107dc59c6347
+title: H05W7P-PDF-ENG
+---
+## EEOC rarely results in beneﬁt to victims, with only 1% of federal
 
-Another is the inﬂexibility of options available to victims. When MIT
-
-made an informal, conﬁdential process available to employees in the
-
-1980s, they found that 90% of those ﬁling sexual harassment complaints
-
-preferred that route to the more formal one. Even 40 years later, many
-
-employers still lack these types of processes, discount informal reports
-
-of harassment or discrimination, or oﬀer few choices for victims looking
+discrimination, harassment, or retaliation claims succeeding in U.S.

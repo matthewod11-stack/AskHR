@@ -1,13 +1,45 @@
-# improves group dynamics.
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9eff5c308082aa93e85c29c2feaeb3a695dad48e
+title: H08M6G-PDF-ENG
+---
+# further analysis.
 
-- 4. Explain how innovation happens at the intersections.
+When we lay out the above sequence most team members immediately
 
-Innovation is typically cross-functional in nature. But often, no one
+grasp the paradox of constructive dissent — that it’s vital for unleashing
 
-owns the intersections between functions, nor is anyone an expert
+innovation and yet hard to establish as a prevailing norm.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+As we help teams shape constructive dissent into a team norm, we
 
-4
+encourage them to signpost each of the steps as they move through
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+them. For example, when a team begins a formal session of constructive
+
+dissent, a team member might say something like, “Let’s start with step
+
+one, generation. What ideas do we have?” Once generation is complete,
+
+the team member might announce, “Ok, if we’re done with generation,
+
+let’s move into step two, clariﬁcation. What evidence do we have to
+
+support these ideas?” After the members of the team have exhausted
+
+all pertinent clarifying questions, a team member will signpost the
+
+third step by saying, “I think we’re ready to move into friction. Let’s
+
+challenge the ideas we’ve identiﬁed.” Finally, once all challenges and
+
+contrary points of view have been considered, the team member can
+
+say, “Great, let’s move to the last step of selection. Which of the ideas
+
+we’ve discussed have real potential and should be considered for further
+
+analysis and testing?”
+
+We’ve been amazed at how distinguishing the steps and signposting as they move through them helps teams self-regulate more eﬀectively and

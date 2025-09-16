@@ -1,7 +1,17 @@
-# presentation.
+---
+source_path: H08H8C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1e2840fdfcc6efd8779f510d8936bf58ea4a112
+title: H08H8C-PDF-ENG
+---
+# opinions and experiences.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- The friendly self, who believes that a presentation is a dialogue rather
 
-4
+than a monologue, and engages the audience in discussion about the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+topic — including welcoming questions.
+
+- The mentor self, who believes that every presentation is an
+
+opportunity to learn and grow, and solicits feedback after the

@@ -1,15 +1,9 @@
-# 4.3 PERFORMANCE DIMENSIONS
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 09d7ffbde7989826d06b7a1a45d1e40697a2fa1f
+title: performance_management_3rd_edition_by_aguinis
+---
+## 4.2.2 Factors Influencing Determinants of Performance
 
-As noted earlier, performance is multidimensional, meaning that we need to consider many different types of behaviors to understand performance. Although we can identify many specific behaviors, two types of behaviors or performance facets stand out: task performance and contextual performance.6 Some authors also use the labels “prosocial behaviors” and “organizational citizenship behaviors” in referring to contextual performance.7
-
-Contextual and task performance must be considered separately because they do not necessarily occur in tandem. An employee can be highly proficient at her task, but be an underperformer regarding contextual performance.8 Task performance is defined as
-
-- activities that transform raw materials into the goods and services that are produced by the organization
-
-- activities that help with the transformation process by replenishing the supply of raw materials, distributing its finished products, or providing important planning, coordination, supervising, or staff functions that enable the organization to function effectively and efficiently.9
-
-Contextual performance is defined as those behaviors that contribute to the organization’s effectiveness by providing a good environment in which task performance can occur. Contextual performance includes behaviors such as the following:
-
-- persisting with enthusiasm and exerting extra effort as necessary to complete one’s own task activities successfully (e.g., being punctual and rarely absent, expending extra effort on the job)
-
-- volunteering to carry out task activities that are not formally part of the job (e.g., suggesting organizational improvements, making constructive suggestions)
+The factors that determine performance are affected by the employee (i.e., abilities and previous experience), human resources (HR) practices, and the work environment. For ex- ample, some companies offer more opportunities for training than do others. At the top of the list in terms of annual training investment are IBM ($1 billion), Accenture ($717 million), and Ford Motor ($500 million).5 In these companies, declarative knowledge is not likely to be a big problem because, when lack of knowledge is identified, employees have multiple opportunities to fill in the gap. However, performance problems may be related more to procedural knowledge and motivation. In terms of procedural knowledge, employees may actually have the knowledge to perform certain tasks but may not have the skill to do them because of lack of opportunity for practice. In terms of motivation, downsizing interven- tions may have caused a “survivor syndrome,” which includes retained employees’ feelings of frustration, resentment, and even anger. These feelings are likely to have strong negative effects on motivation, and employees may expend minimal energy on their jobs. Thus, there are three individual characteristics that determine performance: procedural knowledge, declarative knowledge, and motivation. In addition, HR practices and the work environment can affect performance. When addressing performance problems, managers first need to identify which of these factors is hampering performance and then help the employee improve his or her performance.

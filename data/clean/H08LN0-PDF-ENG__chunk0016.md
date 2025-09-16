@@ -1,7 +1,11 @@
-# actions:
+---
+source_path: H08LN0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de319b2a46a21a6210a6180c137cd560dcc5173c
+title: H08LN0-PDF-ENG
+---
+## Implications for Decision-Makers and Organizations
 
-CEOs and top executives: Consider taking a pay cut, and balance stakeholder treatment.
+Our ﬁndings have implications for CEOs and top executives of ﬁrms,
 
-CEOs and top executives, especially in the U.S., must ﬁrst realize that
-
-downside eﬀects of signiﬁcant pay gaps include diminished employee
+policymakers, and boards of directors. They can each take the following

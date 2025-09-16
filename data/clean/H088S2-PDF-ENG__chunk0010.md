@@ -1,17 +1,25 @@
-# change initiatives.
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de40de9a65652cff1107cdf325a31df72ead898e
+title: H088S2-PDF-ENG
+---
+## the pace of change in the insurance industry now necessitated
 
-State Farm’s transformation journey has already yielded signiﬁcant
+continuous transformation. Accordingly, State Farm built a “persistent
 
-beneﬁts for both the company and its customers. By embracing
+change capability,” essentially a suite of tools empowering executives
 
-digital technologies and modernizing processes, State Farm improved customer experience, enhanced operational eﬃciency, and achieved
+to continually reassess and reshape the company’s strategy and
 
-substantial cost savings. Notably, between 2018 and 2023, State Farm
+operations. In addition, in working with State Farm, we saw how the
 
-Mutual’s net worth — a critical measure of ﬁnancial strength in the
+company’s newly established “Change Center of Excellence (CoE)”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+provided support and coaching to leaders throughout the organization
 
-3
+in driving transformative change and helping the impacted workforce
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+adapt. This group also served as a central repository for best practices,
+
+approaches, and tools utilized at State Farm to strengthen ongoing

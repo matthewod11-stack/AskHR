@@ -1,9 +1,13 @@
-## sauce with the operational rigor of professional management.
+---
+source_path: H08G4O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89f039ed9b90ae751315b4f7b75c38f71b2c0db5
+title: H08G4O-PDF-ENG
+---
+# Bridging Founder and Manager Modes
 
-In the end, the founder’s “spikiness” is likely to be core to a startup’s
+The key to unlocking a company’s full potential lies not in replacing
 
-success. By understanding and embracing the founder’s unique traits
+“founder mode” with “manager mode” but in creating synergies
 
-and challenges, everyone in the ecosystem — investors, board members,
-
-team members, and even the founders themselves — can create
+between the two. This hybrid approach combines the founder’s special

@@ -1,17 +1,23 @@
-## expressions of appreciation in your communications, both formal and
+---
+source_path: H085Q9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f9f30f6144c0db6ff888bf4994b921a43cbb20d7
+title: H085Q9-PDF-ENG
+---
+# employee concerns.
 
-in-person. Be speciﬁc with your feedback. It means much more for a
+Managers must believe in the strategy or actions will seem unfair,
 
-manager to thank a colleague for their lasting contributions on a project,
+advises Rodstein. Map out a timeline that includes an investment in
 
-or gaining a critical customer, than just to give vanilla thanks.
+these critical culture carriers. Allow space for them to process their own
 
-. . .
+feelings, so they can show up as leaders with genuine conﬁdence when
 
-Thoughtful leadership is critical in navigating the challenging terrain of layoﬀs. Employees are not only exiting partners in your business — they
+its needed most.
 
-are future clients, customers, and competitors of your business. Treat
+They don’t show appreciation to departing employees.
 
-them as such. By avoiding these six common mistakes, you can ensure
+Your employees contributed to building your organization. Thank them
 
-you treat people with compassion, dignity and respect when it’s needed
+for the piece of their life that they invested. Incorporate genuine

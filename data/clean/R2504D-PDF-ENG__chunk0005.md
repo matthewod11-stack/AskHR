@@ -1,27 +1,21 @@
-## billion a day in productivity losses and absenteeism.
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fc152072ec8d071f4f812cbdbc87bfb5c6215044
+title: R2504D-PDF-ENG
+---
+## HBR / Magazine Article / The Conflict-Intelligent Leader
 
-Polarization and increased incivility have put CEOs under intense
+Management survey of 1,622 U.S. workers showed that 76% had
 
-scrutiny too. Today their every utterance risks backlash from
+witnessed acts of incivility in the past month, with 21% experiencing
 
-employees, customers, politicians, or all three. But in this era leaders are
+it personally. Nearly half said they had encountered it weekly, and 13%
 
-often expected to wade into the fray. Research from Weber Shandwick
+said they had encountered it daily. Forty-four percent believed incivility
 
-published in 2023 revealed that 65% of employees believe that their
+would worsen in 2025, and 26% said they were likely to leave their
 
-companies have a responsibility to speak up about critical social
+jobs because of it. With employee engagement at a low, contentious
 
-issues, and upwards of 80% of consumers think that companies should
-
-take stands. Some leaders have a diﬃcult time threading this needle,
-
-however, which may explain why in the ﬁrst quarter of 2024, 622 CEOs
-
-announced their resignations—50% more than quit in the ﬁrst quarter
-
-of 2023, which was already a record year for departures.
-
-CEOs and other corporate leaders are by no means the ﬁrst to navigate
-
-thorny conﬂicts, however. Over the past 30 years, I and my colleagues
+interactions at work are estimated to cost businesses more than $2

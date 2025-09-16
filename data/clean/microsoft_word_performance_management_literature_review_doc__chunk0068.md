@@ -1,9 +1,11 @@
-## Armstrong M, Baron A (2005), Managing Performance, London CIPD
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: 2abf7ef8d9bd6ca42fdf079d68b510ba8a3ddeb9
+title: microsoft_word_performance_management_literature_review_doc
+---
+## Acas (2005), The Acas Model Workplace, Acas, July 2005
 
-Askim J (2004), ‘Performance management and organizational intelligence: adapting the balanced scorecard in Larvik municipality’, International Public Management Journal, Vol. 7(3), pp. 415–438
+Armstrong M, Baron A (1998), ‘Out of the tick box’ People Management, Online article, CIPD, 23 July 1998
 
-Boswell W, Boudreau J (2000), ‘Employee satisfaction with performance appraisals and appraisers: The role of perceived appraisal use’, Human Resource Development Quarterly, Vol. 11, No 3, Fall 2000, pp. 283-299
-
-Bourne M, Mills J, Wilcox M, Neely A, Platts K (2000), ‘Designing, implementing and updating performance measurement systems’, International Journal of Operations & Production Management, Vol. 20, No. 7
-
-Brown D (1998), ‘A Practical Guide to Competency-Related Pay’, Financial Times Management, London
+Armstrong M, Baron A (2004), ‘Get into Line’, People Management, Vol. 10, issue 20 CIPD

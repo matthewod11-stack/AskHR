@@ -1,11 +1,11 @@
-# generation, contextual comprehension, and comprehensive information retrieval. It
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 5d375b7f4e705bc7af4d3b2999a872a67fead901
+title: agents_companion
+---
+# physical location.
 
-empowers employees with efficient information access by consolidating disparate content
+Agentspace directly addresses the limitations inherent in traditional knowledge management
 
-sources, generating grounded and personalized responses, and streamlining operational
-
-workflows. Key functionalities include the capacity to ingest a wide variety of data formats,
-
-synchronize data from Software-as-a-Service (SaaS) platforms, deliver access-controlled
-
-search results and AI-generated answers, and integrate AI assistance and intelligent agents
+systems, which frequently fall short in areas such as personalization, automated answer

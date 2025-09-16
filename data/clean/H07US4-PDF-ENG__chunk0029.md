@@ -1,49 +1,49 @@
-## HBR / Digital Article / The Business Case for Love
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b5d9cbd421c4b45207ca23e44a98930347b4368
+title: H07US4-PDF-ENG
+---
+# touchpoint.
 
-kitchen. Customers can see the shelves of fresh potatoes, tomatoes, and
+To design love in, we can start by drawing a keen and clear distinction
 
-lettuce, as compared to other fast-food restaurants that hide how the
+between what “loving” and “unloving” looks like. Note: In the examples
 
-“sausage” is made. The company has designed their customer oﬀerings
+below, I’m singling out speciﬁc touchpoints to help you distinguish
 
-and experience in a loving way that shows its commitment to its values
+loving from unloving. My referring to these touchpoints does not
 
-and its customers’ ﬂourishing.
+necessarily imply that the entire company is loving or unloving. A
 
-The unloving company, by contrast, is amoral and transactional, always
+loving company is built one touchpoint at a time.
 
-and only assessing how to maximize proﬁts or revenue. For example,
+The loving company tells its employees and customers what it stands
 
-Delta’s recent changes to its frequent ﬂyer program are unloving.
+for and is not afraid to take action to reinforce its moral stance. Chick-
 
-Delta used to reward its most loyal customers with cheaper tickets
+ﬁl-A refusing to open on Sundays is a clear signal of its values — it wants
 
-and upgrades. Under its new rules, a passenger’s standing with Delta
+its workers to be home with their families in their community for at
 
-depends less on how often they ﬂy and more on how much they spend
+least one day a week for no good business reason other than they think
 
-on Delta’s credit card — it’s now a frequent spender program. This
+it’s the right thing to do.
 
-change makes sense in a purely transactional world. But it confuses
+Another example is In-n-Out Burger’s commitment to only serving the
 
-who Delta is for its passengers, leaving them disoriented — which is an
+freshest food to its customers. When I asked company executives a few
 
-unloving thing to do to those you serve. Perhaps sensing this, Delta’s
+years back why they don’t serve breakfast, they told me that they knew
 
-CEO recently announced plans to roll back some of these changes.
+they couldn’t keep their ingredients fresh enough to meet their promise
 
-The loving company is thoughtful about its language. For example,
+to their customers. So, no breakfast. This commitment to freshness is
 
-Home Depot calls its headquarters its “Store Support Center” to
+also why In-n-Out Burger’s drive-thru windows open up right into the
 
-reinforce its commitment to the locations where customers are served
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-every day. Capital One agents introduce themselves with their name,
+6
 
-their actual location, and a promise that “I’ll be your advisor today.” In
-
-so doing, they not only personalize themselves to you, the customer, but
-
-they also remind you of how they intend to serve you on the call.
-
-Contrast this with those companies that refer to their employees by the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

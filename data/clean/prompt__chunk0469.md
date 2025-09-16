@@ -1,9 +1,35 @@
-# generalizes to a task.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: cb00775d49b2709a6163ec9246201e05728aad80
+title: prompt
+---
+# Prompt Engineering
 
-Prompt engineering is an iterative process. Cra(cid:454) and test di(cid:441)erent prompts, analyze,
+We recommend creating a Google Sheet with Table 21 as a template. The advantages of this approach are that you have a complete record when you inevitably have to revisit your
 
-and document the results. Re(cid:450)ne your prompt based on the model’s pe(cid:455)ormance. Keep
+prompting work–either to pick it up in the future (you’d be surprised how much you can
 
-experimenting until you achieve the desired output. When you change a model or model
+forget a(cid:454)er just a sho(cid:457) break), to test prompt pe(cid:455)ormance on di(cid:441)erent versions of a model,
 
-con(cid:450)guration, go back and keep experimenting with the previously used prompts.
+and to help debug future errors.
+
+Beyond the (cid:450)elds in this table, it’s also helpful to track the version of the prompt (iteration),
+
+a (cid:450)eld to capture if the result was OK/NOT OK/SOMETIMES OK, and a (cid:450)eld to capture
+
+feedback. If you’re lucky enough to be using Ve(cid:457)ex AI Studio, save your prompts (using the same name and version as listed in your documentation) and track the hyperlink to the saved
+
+prompt in the table. This way, you’re always one click away from re-running your prompts.
+
+When working on a retrieval augmented generation system, you should also capture the
+
+speci(cid:450)c aspects of the RAG system that impact what content was inse(cid:457)ed into the prompt,
+
+including the query, chunk se(cid:459)ings, chunk output, and other information.
+
+Once you feel the prompt is close to pe(cid:455)ect, take it to your project codebase. And in the
+
+codebase, save prompts in a separate (cid:450)le from code, so it’s easier to maintain. Finally, ideally
+
+your prompts are pa(cid:457) of an operationalized system, and as a prompt engineer you should rely on automated tests and evaluation procedures to understand how well your prompt

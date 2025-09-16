@@ -1,7 +1,13 @@
-# Mikael Jansson/Trunk Archive
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 079846228032f03f713a7ae2cf65ad40fead3cdf
+title: R2006F-PDF-ENG
+---
+## the organization through areas of ever-increasing specialization. Apple’s
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+leaders believe that world-class talent wants to work for and with other
 
-8
+world-class talent in a specialty. It’s like joining a sports team where you
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+get to learn from and play with the best.

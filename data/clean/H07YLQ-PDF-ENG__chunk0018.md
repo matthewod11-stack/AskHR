@@ -1,21 +1,15 @@
-# ﬁrm’s ﬁnancial goals.
+---
+source_path: H07YLQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53999906bb4250e9d97a493d06ef9bccddeb03a8
+title: H07YLQ-PDF-ENG
+---
+## HBR / Digital Article / Are You a “Bottleneck Boss”?
 
-At the end of the day, your time is better spent on high-level
+basic operational tasks, while necessary, don’t directly contribute to the
 
-responsibilities, not routine projects. You are not a salesperson. You are
+ﬁrm’s revenue. Treat those tasks as delegation opportunities and delete
 
-not the marketing manager. You are not the human resources director,
+them from your personal to-do list. Free up your time for high-impact,
 
-the payroll administrator, or the IT person. Nor should you be. With
-
-the right recruiting and training, your employees will be the experts
-
-at these tasks. Let go of your ego and start working on strategies and
-
-systems. Get everything that could help someone else grow in their role
-
-oﬀ your plate and onto that other person’s. Alternatively, you could hire
-
-an expert or outsource a workﬂow. This will allow your value to go up
-
-and give everyone around you the chance to systematically progress
+revenue-generating activities so that your eﬀorts are aligned with the

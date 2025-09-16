@@ -1,15 +1,41 @@
-## doesn’t always correspond to their long-term impact on company
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d39205057f2ac9881315b9e1fb6538c2ec3aaaac
+title: S24012-PDF-ENG
+---
+# ﬂame into a conﬂagration.
 
-performance. The key to siren song situations is equanimity. Learning
+Apple’s “Antennagate” is a classic example of a siren song. Soon after
 
-to watch and wait is essential. It can be helpful to sleep on a matter
+the 2010 launch of the iPhone 4, customers began reporting that when
 
-for a day or two and let the steam blow oﬀ to see if things calm down.
+the device was held a certain way it dropped calls. The tech media
 
-More time often allows more information to come in—which can be
+pounced—yet CEO Steve Jobs astutely discerned that the issue was
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+temporary. He addressed it while making it clear that he wasn’t very
 
-9
+concerned that it would dent Apple’s core value proposition. Another
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+example is the launch of Microsoft’s Vista operating system in 2007.
+
+Vista was widely panned as slow and buggy and failed to gain market
+
+share. Rather than getting dragged down, the company deftly pivoted to
+
+more-successful product introductions without letting Vista’s problems
+
+swamp the leadership team’s focus.
+
+In 2015, Starbucks was widely ridiculed for its attempt to spark a
+
+nationwide conversation on race relations by writing “Race Together”
+
+on every customer’s coﬀee cup. Yet its leaders didn’t overreact, and the
+
+furor quickly faded.
+
+Though such situations can generate headlines and internal angst,
+
+leaders must recognize that the initial assessment of their signiﬁcance

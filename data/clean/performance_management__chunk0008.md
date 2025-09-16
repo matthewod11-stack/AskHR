@@ -1,7 +1,17 @@
-# LEGAL ISSUES
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: 24053098d818a67294d379c2f8294652d30b8260
+title: performance_management
+---
+# INTRODUCTION
 
-Human resource management came under legal scrutiny in 1964 with the passage of Title VII of the Civil Rights Act in the United States (U.S.). This act makes it illegal to allow sex, age, race, religion, or ethnicity to inﬂu- ence decisions regarding the recruiting, training, upgrading, compensating, demot- ing, or terminating of an employee. Legal issues are increasingly problematic for orga- nizations as people are becoming more aware of their legal rights. In fact, there has been a 100% increase in the number of
+The primary purpose of appraising and coaching employees is to instill in them the desire for continuous improvement. Yet the outcome of many performance appraisals is frequently a decrease rather than an increase in performance. Among the reasons for this decrease is the belief by employees that they are being evaluated on the wrong things, by the wrong person; that is, the person who is evaluating them lacks objectivity, and hence is not ‘‘fair.’’ Moreover, the feedback that is given to them is not seen as timely or con- structive. Thus, it is not surprising that a performance appraisal often leads to legal challenges for the appraisers and the orga- nization that employs them.
 
-77
+boss who has a similar philosophy in the workplace.
 
-employment discrimination cases ﬁled since 1995, and these cases have usually involved complaints regarding a performance apprai- sal. Legal confrontations regarding perfor- mance appraisals have led to the discovery of ways to minimize them. Organizations are most likely to win court challenges when: (1) the appraisal instrument is based on a writ- ten job analysis; (2) it is behavioral; (3) there is a written manual for appraising and then coaching an employee; (4) reliability and validity of the appraisal decisions have been documented; (5) the results of an appraisal have been reviewed with the employee; and (6) organizations can show that appraising and coaching of employees is ‘‘fair.’’
+Coaches have to appraise each indivi- dual on the team. Who should get more time on the ice? Who should appear where in the batting lineup? Who should be cut from the tennis team? The principles of appraising others apply to one’s self, as well as to appraisals of one’s subordinates, peers and boss. The primary differences between the traditional top-down performance appraisal versus performance management are the time interval, namely discrete (i.e., annually) versus continuous, and the use of construc- tive feedback or coaching tips from sources other than one’s boss.
+
+Within the recent past, there has been a shift from the traditional annual perfor- mance appraisal by one’s boss to perfor- mance management, with coaching as the cornerstone. As suggested by the chief executive ofﬁcer (CEO) of Mattel Inc., ‘‘Peo- ple can’t and won’t do much for you if no one in the organization knows what’s going on, what you expect of them, and what the future holds. And talking to them once a quarter isn’t enough—you have to repeat messages of direction, inspiration, and com- fort daily, in a variety of forms.’’ To believe that an annual appraisal, or even a quarterly one, is likely to lead to an increase in an employee’s performance is as naı¨ve in orga- nizational settings as it is in the ﬁeld of athletics. The negative reaction to your child’s swim coach—who refuses to offer constructive feedback except at the middle and again at the end of the swim season— should be no different than the reaction to a
+
+Research within the past decade sug- gests ways organizations can overcome pro- blems with the traditional performance appraisal. Five issues are addressed: (1) legal pitfalls; (2) the appraisal instrument; (3) who should appraise and coach the employee; (4) objectivity and fairness; and (5) the coaching process itself.

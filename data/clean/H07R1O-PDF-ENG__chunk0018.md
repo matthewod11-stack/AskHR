@@ -1,15 +1,17 @@
-## sexual orientation and gender identity in Florida schools. Chapek
+---
+source_path: H07R1O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff768a4e975a0003d0057f552e0d4ce7e11ebf46
+title: H07R1O-PDF-ENG
+---
+# and external pressures.
 
-initially stayed silent, relying on Disney lobbyists to work against the
+One example of a CEO who failed to navigate these challenges is Bob
 
-bill in private, but facing threats of a boycott and employee criticism,
+Chapek, who was ﬁred as CEO of Disney in November 2022 after
 
-he subsequently spoke out publicly against it. He then faced harsh
+less than three years in the role. Disney is one of Florida’s largest
 
-blowback from conservatives, with Florida’s governor, Ron DeSantis,
+employers, and for that reason, various stakeholders expected Chapek
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to take a stand on a controversial state law limiting discussion of

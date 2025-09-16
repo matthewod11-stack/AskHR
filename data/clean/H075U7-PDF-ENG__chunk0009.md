@@ -1,11 +1,13 @@
-## HBR / Digital Article / Stop Protecting “Good Guys”
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5dd6d46073774335db6ee9f7922b4cf6716beb3
+title: H075U7-PDF-ENG
+---
+# guy.”
 
-At a national committee meeting, a woman physician proposed a policy
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-on patient safety and the challenges of hospital crowding. She presented
+1
 
-data and suggested language for the committee’s statement. Her male
-
-colleague interrupted her mid-presentation, talked over her, and usurped
-
-the conversation. He called her naïve, inexperienced, and an ineffective
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,43 @@
-# achievement-related word search task.
+---
+source_path: H082RI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ad6aa81959ab753c6f2a0be302ac96ac920c3ca
+title: H082RI-PDF-ENG
+---
+# people.
 
-Given these ﬁndings on the prevalence and impact of social identity
+There are even subtler instances of identity omission, such as situations
 
-omissions, how can organizations do better?
+in which demographics forms allow a person to partially, but not
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+completely, self-identify. Addressing this issue, research by Sarah
 
-4
+Townsend and colleagues found that multi-racial people — those
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+who identify their race as mixed between two or more categories —
+
+often feel their ability to fully self-identify is denied in the context
+
+of demographics forms. Speciﬁcally, participants cited situations in
+
+which demographics forms ask them to identify their membership in
+
+a racial group but allow them to only select one racial identity, rather
+
+than multiple identities. In a follow-up experiment with multi-racial
+
+undergraduate students, Townsend and colleagues assigned one group
+
+to complete a set of demographics questions that allowed them only
+
+to select one racial identity and another group to complete a set of
+
+questions that allowed them to select multiple racial identities. The
+
+researchers found that multi-racial students assigned to the “check one”
+
+condition reported lower self-esteem than those assigned to the “check
+
+all that apply” condition. They also found that those students who were
+
+only able to select one racial identity performed worse on a subsequent,

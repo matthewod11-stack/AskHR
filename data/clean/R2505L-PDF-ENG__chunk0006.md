@@ -1,17 +1,33 @@
-## HBR / Magazine Article / How to Counter Fake News
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b0d3e5c7cf1daf733a4e6900dd3a32d4026c3a3
+title: R2505L-PDF-ENG
+---
+## restaurants (McDonald’s), airlines (Delta), entertainment (Disney), the
 
-stories on Twitter by MIT researchers. And with each share, it gains
+fashion industry (Victoria’s Secret), the automotive industry (Tesla), and
 
-momentum: The more it gets shared, the more it looks true, and the
+others. Fake news has also proven disruptive in politics, eroding trust
 
-more people share it. Fake news is likely to be an even bigger problem in
+in democratic institutions, deepening polarization, inﬂuencing voting
 
-the coming years as trust in legacy media continues to erode, advances
+perceptions, and swaying results in closely contested elections.
 
-in AI and video-editing technologies make fabricated content nearly
+Unfortunately, fake news is a stubborn problem that is unlikely to go
 
-indistinguishable from reality, and social media companies abdicate
+away. While many U.S. adults feel conﬁdent in their ability to detect fake
 
-their content-moderation responsibilities, as Meta did in early 2025
+news, 38% of U.S. social media users have accidentally shared a fake
 
-when it announced that Facebook would stop fact-checking content on
+news story, according to the Trusted Web Foundation. Complicating
+
+matters, fake news spreads signiﬁcantly faster than real news—it is
+
+up to 70% more likely to be shared, according to a study of news
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

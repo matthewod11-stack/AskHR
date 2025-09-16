@@ -1,13 +1,19 @@
-## who practice it demonstrate humility and a belief in the power of
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53ea1d0287af035d83d8522ec2074fd93cc5af0d
+title: S24041-PDF-ENG
+---
+## HBR / Spotlight Article / Power, Influence, and CEO Succession
 
-collaboration. Using active listening skills, they draw out the ideas of
+it would feel if together we could create a place that…” Leaders
 
-followers and meld them with their own, perhaps by saying, “I’m going
+skilled in this style can describe their ideal state in vivid detail, are
 
-to tell you everything I can about what I think we need to do and why
+good communicators, and appeal to followers’ emotions. They project
 
-it’s important. Then I need your help. I can’t do this by myself. Each of
+credibility and are at least somewhat charismatic.
 
-you has diﬀerent abilities, ones I don’t have. Together we can solve this
+The other pull style is called openness and involvement. It entails
 
-problem and achieve something really special.”
+inviting followers to help shape and execute the new plan. Leaders

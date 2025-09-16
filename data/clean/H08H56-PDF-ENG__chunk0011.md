@@ -1,7 +1,9 @@
-# the moment.”
+---
+source_path: H08H56-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ac7d53f0b7d99bb31a09f313400c5fcd7506857
+title: H08H56-PDF-ENG
+---
+## College of Business & Economics and the author of the book, Both/And
 
-After a contentious election, “people want to feel heard,” says Paul
-
-Argenti, a professor of corporate communication at Dartmouth’s Tuck
-
-School of Business. As a leader, your role is to help make sure that
+Thinking. “And acknowledge the emotional complexity and intensity of

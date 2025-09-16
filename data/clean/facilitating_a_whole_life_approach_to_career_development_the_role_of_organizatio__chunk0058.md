@@ -1,11 +1,15 @@
-## stigma? Journal of Social Issues, 69, 322–340. doi:10.1111/josi.12017
+---
+source_path: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio.md
+pages: n/a-n/a
+chunk_id: d14348a19409a2521cb3772f09bdff52ef3a7599
+title: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio
+---
+# Litano and Major
 
-Sands, J., & Harper, T. (2007). Family-friendly benefits and organizational performance. Business Renaissance
+Richard, O. C., Ismail, K., Bhuian, S., & Taylor, E. (2009). Mentoring in supervisor–subordinate dyads: Antece- dents, consequences, and test of a mediation model of mentorship. Journal of Business Research, 62, 1110–1118. doi:10.1016/j.jbusres.2008.09.007
 
-Quarterly, 2, 107–126.
+Rousseau, D. M., Ho, V. T., & Greenberg, J. (2006). I-deals: Idiosyncratic terms in employment relationships.
 
-Scandura, T. A., & Ragins, B. R. (1993). The effects of sex and gender role orientation on mentorship in male-
+Academy of Management Review, 31, 977–994. doi:10.5465/AMR.2006.22527470
 
-dominated occupation. Journal of Vocational Behavior, 43, 251–265. doi:10.1006/jvbe.1993.1046
-
-Scandura, T. A., & Williams, E. A. (2004). Mentoring and transformational leadership: The role of supervisory
+Rudman, L. A., & Mescher, K. (2013). Penalizing men who request a family leave: Is flexibility stigma femininity

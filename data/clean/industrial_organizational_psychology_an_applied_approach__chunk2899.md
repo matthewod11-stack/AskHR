@@ -1,45 +1,47 @@
-# Humane Autonomous
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e75977ba837e561bd3b21f3e1136cc7ba60884d8
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Participative
 
-4.77
+−0.63
 
-3.86
+0.32
 
-0.38 4.24
+0.54
 
-0.45 3.70
+−0.63
 
-4.75
+−1.02
 
-4.18
+1.22
 
-4.71
+0.83
 
-4.16
+−0.90
 
-4.80
+0.90
 
-3.69
+0.90
 
-5.08
+0.90
 
-3.82
+−0.71
 
-5.68
+0.49
 
-3.99
+−0.24
 
-4.85
+0.71
 
-3.68
+−0.39
 
-5.22
+0.68
 
-3.69
+−0.88
 
-5.04
+−1.66
 
-4.03
-
-4.59
-
-3.97
+0.71

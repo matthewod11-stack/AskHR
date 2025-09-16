@@ -1,11 +1,29 @@
-## such as self-service check-out kiosks and loyalty-program-management
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 75af06a772e81249c6371859922e2fe67211adb2
+title: S24022-PDF-ENG
+---
+## the lens of successful companies—Toast, IKEA, Vertex, Adobe, and
 
-technology that makes it easy for restaurants to design customer
+Roblox—that have built eﬀective growth systems. No company we
 
-reward programs and launch targeted email-marketing campaigns to
+studied has developed all ﬁve elements perfectly, but these companies
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+have a keen sense of how to improve their growth system over time.
 
-3
+Deﬁne a compelling customer outcome. The foundation of a growth
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+system is a diﬀerentiated and compelling customer oﬀering—a clear,
+
+relevant, and unique promise that deﬁnes what you will deliver and
+
+to whom. Consider Toast, a leader in ﬁntech that has achieved growth
+
+consistency by creating payment solutions speciﬁcally for restaurants.
+
+Toast is dedicated to helping restaurant employees delight their guests
+
+by focusing on food and hospitality instead of payment logistics.
+
+It continually hones and improves its oﬀering, with innovations

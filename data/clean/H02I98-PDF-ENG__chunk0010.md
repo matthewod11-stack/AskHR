@@ -1,5 +1,9 @@
-# change that.
+---
+source_path: H02I98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d11482f9435b2c05d30f0beb59d1b705961c232f
+title: H02I98-PDF-ENG
+---
+## HBR / Digital Article / Need a Good Parental Leave Policy? Here It Is.
 
-This article was originally published online on November 23, 2015.
-
-Joan C. Williams is director of the Equality Action Center and author of Bias Interrupted: Creating Inclusion for Real and for Good (HBR Press) and Outclassed: How the Left Lost the Middle Class and How to Win Them Back (forthcoming, May 2025, St. Martin’s).
+man with caregiving responsibilities. With today’s workforce, it’s time to

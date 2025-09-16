@@ -1,5 +1,9 @@
-# http://wfnetwork.bc.edu/encyclopedia_entry.php?id=16369&area=All [Accessed 7 March 2010]
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: a58ffed19a0e7485bcf9ccbcf1268974bf7bb553
+title: file_1
+---
+# of Sexual Behavior, 7 (2), 127-42.
 
-Zhou, J. and J. Martocchio, 2001. Chinese and American managers’ compensation award
-
-decisions: A comparative policy-capturing study. Personnel Psychology, 54, 115-145.
+Winslow-Bowe, S., 2009. Spousal wage gaps: income disparities in couples.

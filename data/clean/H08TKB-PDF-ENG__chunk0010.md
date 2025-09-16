@@ -1,7 +1,27 @@
-# planning, not as an afterthought.
+---
+source_path: H08TKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 045060253da0c64e53a5f71f93d89f2b63c0b404
+title: H08TKB-PDF-ENG
+---
+## wasn’t in line with the strategic focus of the business. The question
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+of how her team allocates internal resources was paramount. In a speciﬁcally focused oﬄoading session at the beginning of the
 
-4
+oﬀsite, the team identiﬁed ways-of-working and friction that could be
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+eliminated to free up capacity. Dozens of ideas were generated. The
+
+team selected three items as a team and each selected one item as an individual to immediately oﬄoad. The feeling of release was palpable,
+
+and the exercise turned out to be a ﬁre starter for the whole organization —inspiring more oﬄoading, creating capacity for highest value work.
+
+- 5. How are you going to make it stick?
+
+An oﬀsite oﬀers people a pause in their regular routines to connect
+
+and reﬂect before they often default back into the daily busyness
+
+trap. But lasting adjustments and changes are possible and have the
+
+greatest signiﬁcance. Making it stick has to be considered as part of the

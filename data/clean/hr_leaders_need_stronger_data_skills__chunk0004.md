@@ -1,1 +1,15 @@
-# 8/22/25, 11:13 AM
+---
+source_path: hr_leaders_need_stronger_data_skills.md
+pages: n/a-n/a
+chunk_id: b7d81f19c811b77f363fc1197ee7ab999910da1a
+title: hr_leaders_need_stronger_data_skills
+---
+# Privacy - Terms
+
+https://hbr.org/2018/10/hr-leaders-need-stronger-data-skills?autocomplete=true
+
+1/6
+
+We base this claim about HR’s digital skills gap on the results ofour latest
+
+global leadership survey. Co-produced by our threeorganizations, the survey gauged nearly 28,000 business leadersacross industries about the state and trajectory of leadership.Among the findings: On average, HR leaders lag far behind otherprofessionals in their ability to operate in a highly digitalenvironment and use data to guide business decisions.It comes as no surprise that this skills gap has spurred acredibility gap between HR professionals and their colleagues.Only 11% of business leaders trust HR to use data to anticipate andhelp them fill their talent needs. When we last fielded the samesurvey three years prior, 20% of business leaders felt that way —still a low number, but nearly twice what it is today.Finding ways to improve HR’s digital acumen and data skills canchallenge even the most well-resourced companies. HR leaderscan start by upskilling their teams in areas that impact two criticalbusiness outcomes: building bench strength and tying HR metricsto financial success. To achieve both, companies can supporttheir HR leaders in taking these steps:Forge internal partnerships. At most companies, otherdepartments use data and technology in ways that HR couldapply to their own work. For example, HR can work withmarketing for guidance on search engine optimization (SEO), askill that can help HR improve its recruitment efforts. They canalso consider partnering with colleagues proficient in financetechnology for guidance about blockchain, a technology capable

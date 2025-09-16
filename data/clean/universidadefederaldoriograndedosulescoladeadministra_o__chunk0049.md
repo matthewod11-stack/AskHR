@@ -1,9 +1,15 @@
-## estão funcionando e aquelas que precisam de correção.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 39576277b12d16b31065d3d3d9bb2ebf83527762
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# propaganda negativa
 
-Com a popularização do NPS, a área de recursos humanos - doravante
+A métrica final, o indicador, é gerado a partir de um cálculo dado pela razão
 
-denominada apenas RH - adaptou-o e o incorporou aos seus métodos de pesquisas
+entre a dedução da quantidade de detratores da quantidade de promotores e o total
 
-com funcionários. Neste novo campo, a "pergunta definitiva" passou a ser "De 0 a
+de respostas coletadas. Já a segunda questão, segundo Reichheld (2003), é aberta
 
-10, quanto você recomendaria a empresa como um bom lugar para se trabalhar?" e
+e qualitativa, tendo como objetivo coletar insumos a respeito das estratégias que

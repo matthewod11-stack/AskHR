@@ -1,19 +1,15 @@
-## Working Life. London and New York: Macmillan Press Ltd.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 41198b0339486d456f153471f057759e95ec7f4b
+title: file_1
+---
+# REFERENCES
 
-Acker, J., 2006a. Inequality Regimes: Gender, Class, and Race in Organizations. Gender and
+Acker, J., 1991. Thinking about wage gap in Swedish banks. Gender and Society, 5, 390-407.
 
-Society, 20, 441-461.
+Acker, J., 1992. Gendering Organizational Theory. In A. Mills and P. Tancred, eds,
 
-Adams, J., 1965. Inequity in social exchange. Advances in experimental social psychology,
+Gendering Organizational Analysis. London and New Delhi: Sage Publications.
 
-62, 335-343.
-
-Anderson, T., Forth, J., Metcalf, H. and S. Kirby, 2001. The Gender Pay Gap. Final Report. http://www.niesr.ac.uk/pdf/the%20gender%20pay%20gap.pdf [Accessed 18 February 2010]
-
-Arulampalam, W., Booth, A. and M. Bryan, 2007. Is There a Glass Ceiling over Europe?
-
-Exploring the Gender Pay Gap across the Wage Distribution. Industrial and Labor Relations Review, 60 (2), 163-186.
-
-Auster, E., 1989. Task Characteristics as a Bridge between Macro- and Microlevel Research on Salary Inequality between Men and Women. The Academy of Management Review, 14 (2), 173-193.
-
-Bacchi, C., 1999. Women, Policy, and Politics. The Construction of Policy Problems. London:
+Acker, J., 1997. Foreword. In L. Rantalaiho and T. Heiskanen, eds, Gendered Practices in

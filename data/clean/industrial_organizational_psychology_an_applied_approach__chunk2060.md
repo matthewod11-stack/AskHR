@@ -1,9 +1,9 @@
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 54bc1873e80a3236a37cc3560884e3c0ad5d7fb4
+title: industrial_organizational_psychology_an_applied_approach
+---
 # S
 
-Ask the employee for suggestions on how the behavior can be changed. If the employee has none
-
-After an agreed-upon time, the supervisor and the employee should meet to see if the goal has been met and to set new goals.
-
-To encourage employees to ask for feedback, supervisors should indicate their willingness to provide feedback and then reinforce employees who seek it (Williams, Miller, Steelman, & Levy, ).
-
-Feedback is constructive when it is given positively with the goal of encourag- ing and reinforcing positive behavior. For feedback to be effective, it must be given when employees do things properly, not just when they make mistakes. Some tips for providing effective feedback can be found in the Career Workshop box.
+to offer, the supervisor can provide some. A sample conversation might go something like this: Employee: I know I shouldn’t be missing work, but I’m so tired in the morning and often don’t hear the alarm. Supervisor: Can you think of things you can do so that you will not be so tired in the morning? Employee: I could go to bed earlier, but I love to watch David Letterman and then SportsCenter on ESPN. Supervisor: Could you try watching the early edition of SportsCenter and tape the David Letterman show so that you can watch it when you get home from work? Employee: I guess I could give that a try. After arriving at a solution, the supervisor and the employee should then set a specific goal. For example, they could agree that the employee will be on time every day for the next week.

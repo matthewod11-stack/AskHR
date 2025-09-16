@@ -1,13 +1,13 @@
-## equity and inclusion, stance on the Middle East crisis, supply chain
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b150a113f4083123ad30c5a6f30ffaec859697e
+title: H08058-PDF-ENG
+---
+# the strategic discussion.
 
-ethics, or the myriad other topics where businesses are seen, by some, to
+Leadership teams around the world are facing similar challenges about
 
-be contributing to problems or to have some inﬂuence on the solutions.
+how to engage with employee activism — whether in relation to their
 
-Our research conducted over the past decade has focused on “speaking
-
-truth to power.” Speciﬁcally, we explore “conversational habits” — what
-
-gets talked about and what doesn’t, who gets heard and who gets
-
-ignored, and the consequences for performance, innovation, ethical
+organization’s impact on the environment, commitment to diversity,

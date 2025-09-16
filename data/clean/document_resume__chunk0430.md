@@ -1,3 +1,7 @@
-# a
-
-Uses a variety of methods and aids to increase students' interest. Exhibits substantial knowledge in subject area. Provides outlines, handouts, and bibliographies to aid learning. Involves students in presentation. Wisely uses class time. Directly offers outside help to specific students determined to need it.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: ddaaba80354cd1e00098ff4cffc87f64ed8b4c29
+title: document_resume
+---
+# VERY GOOD

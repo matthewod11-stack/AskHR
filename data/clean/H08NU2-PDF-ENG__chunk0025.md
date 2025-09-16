@@ -1,37 +1,29 @@
-# HBR / Digital Article / 3 Types of Silos That Stifle Collaboration—and How to Dismantle…
+---
+source_path: H08NU2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23d4f734c304108e1f926bb9c4635b41154899a5
+title: H08NU2-PDF-ENG
+---
+# How to Address the Silo Effect
 
-We recommend three key strategies for addressing root causes: aligning
+Businesses must ﬁrst determine whether silos require immediate action
 
-goals, improving communication, and fostering secure data sharing.
+or a long-term strategic solution. Severe issues—such as customer service delays, cost overruns, or operational ineﬃciencies—may
 
-Aligning goals ensures all departments work toward uniﬁed objectives,
+necessitate short-term ﬁxes. A focused team led by senior management
 
-enhancing collaboration. Improving communication keeps teams
+can facilitate communication and ensure critical information ﬂows.
 
-informed and engaged, promoting cross-functional understanding.
+However, this provides only temporary relief, as misalignment, elitism,
 
-Secure data sharing builds trust, encouraging open information
+or self-preservation behaviors will likely resurface. While useful for
 
-exchange. Each strategy targets a speciﬁc silo type, and its eﬀectiveness
+stabilizing operations, short-term measures must lay the groundwork
 
-depends on correctly matching it to the root cause.
+for addressing root causes through strategic interventions.
 
-Aligning goals.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-At Goal-Diﬀ Beverage Co., the silo eﬀect stems from misaligned goals
+5
 
-between sales and manufacturing. Simply increasing communication
-
-or securing data sharing won’t resolve the issue, as these eﬀorts
-
-do not inherently align departmental objectives. Without uniﬁed
-
-goals, communication can exacerbate tensions, and data sharing may
-
-still leave teams working independently. Addressing this disconnect
-
-requires top management to establish overarching goals that integrate
-
-the needs of both departments. One eﬀective approach is sales and
-
-operations planning (S&OP), which aligns sales, operational, and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

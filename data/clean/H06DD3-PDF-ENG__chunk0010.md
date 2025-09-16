@@ -1,9 +1,15 @@
-# ﬁefdoms.
+---
+source_path: H06DD3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7029d6d5d5db81186a9843851a78f65f7f830891
+title: H06DD3-PDF-ENG
+---
+# performance companies.
 
-Despite the beneﬁts, too few companies place a priority on moving talent
+Building a culture of mobility is a trait of very healthy organizations, and
 
-or have a formal talent mobility program in place. As companies emerge
+the beneﬁts are clear: Cross-functional collaboration increases,
 
-from the pandemic, this will be critical to retaining top performers and
+departmental cooperation is enhanced, innovation improves, and
 
-upskilling the workforce to be more agile in the future.
+companies begin working more as one cohesive team instead of separate

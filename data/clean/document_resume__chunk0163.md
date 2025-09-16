@@ -1,5 +1,13 @@
-# A Validation Strategy
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: bab23b7f02a3959b4426b98d01e71116dfa59d39
+title: document_resume
+---
+# Performance Appraisal
 
-a o minimizing EEO liability is realistic and well within the capability of any organization. Although no system can be made "lawsuit proof," there are measures which can reduce the possibility of systemic discrimination. The approach recom- mended here is based on a strategy of validation. By requiring the validation of perfor- mance appraisal systems according to the "Guidelines," this strategy ensures adequate defense if an employer is charged with discrimination.
+invested in research and analysis, answering interrogatories, and preparation for trial, unlike attorney fees, cannot be recovered.
 
-Not all authorities in personnel nnagement recommend the strategy of validation. One view held by the opposing group of practitioners. writers, and consultants is that validation can be done only by experts and that another strategy, namely reducing or eliminating adverse impact, is preferred. Although it is true that validation is required only where a practice is having an adverse impact, such reasoning is not compelling. In the first place, if one accepts the definition of validity, that a procedure or "test" measures what it purports to measure, then validity itself is a legitimate end. Why would an organization not take steps to ensure that its performance appraisal system was measuring job performance? Another problem with a strategy of reducing adverse impact is that this approach implicitly questions whether members of protected groups can perform adequately even when the system is fair. They can and do. Finally, the 'Uniform Guidelines" provide validation methods. and one of these (content validity) can be accomplished without the need for statistical expertise. A checklist for legal requirements is shown in Appendix B.
+There are three basic approaches that may be used by an employe' to minimize EEO liability. The first is to hire, promote, and administer salaries without regard to performance. For example, promotions could be based on seniority, and across the hoard raises could be given. The employer could thus ensure that there would be no adverse impact, and a prima facie case could not be established. The second approach would be to continue current invalidated practices and wait for the EEOC or minority applicants or employees to take legal action. Many organizations follow th:s practice. A third anproach would bt to assume that performance appraisal practices \N, ill have adverse impact and validate each practice in accordance with the "Guidelines."
+
+The third approach is recommended. The idea of being prepared to defend the organization's performance appraisal practices after a prima facie case has been estab- lished does not mean that adverse impact is something that should not be avoided whenever possible. One does not purchase automobile liability insurance with the intention of causing a traffic accident. In fact, insured motorists are likely to be safer drivers. It is also true that job-related performance appraisal practices ha\ e less adverse impact.

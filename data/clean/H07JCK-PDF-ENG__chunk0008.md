@@ -1,37 +1,21 @@
-# expectations.
+---
+source_path: H07JCK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be7e99d0e2a82df8f3db2e11c264c910a7146387
+title: H07JCK-PDF-ENG
+---
+# HBR / Digital Article / 6 Questions to Ask Yourself When You’re Frustrated with Your T…
 
-Is it a stretch assignment, intended to be a challenge or stimulate the
+purpose. It may also save valuable time by preventing confusion down
 
-employee’s growth? If yes, you may need to provide more guidance
+the line. And you should always check in with your employee to assess
 
-and mentoring. Consider whether you’ve made yourself available
+how clearly your message has been understood.
 
-for questions and any necessary approvals. Assess the timeline and
+- 2. Are my expectations reasonable?
 
-whether the person is adequately supported to meet expectations.
+Consider the assignment and compare it with similar work you’ve
 
-- 3. What do I know to be true about this employee?
+delegated in the past. Is the current project adequately resourced? If
 
-When you’re frustrated with an individual’s performance, take a step
-
-back and remember the whole person. Assess their knowledge, skills,
-
-and abilities. Reﬂect on their strengths and areas for growth. Some
-
-people may enjoy and do better with greater autonomy, while others
-
-prefer more communication, support, and connection.
-
-If you notice a downturn in performance, have a direct and kind
-
-conversation to ﬁnd out what’s going on. There may be personal events
-
-at play, such as an ailing family member, a breakup, or additional
-
-caregiving responsibilities. In your check-ins, make sure you are
-
-focused on listening. Ask about their experience with the work at hand,
-
-and assess whether they understand your expectations. Feelings of
-
-stress and overwhelm may require a diﬀerent kind of support than on-
+not, you may need to ﬁnd additional resources or scale back your own

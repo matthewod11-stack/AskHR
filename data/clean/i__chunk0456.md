@@ -1,1 +1,7 @@
-## tree_model_tune = attrition_tree_tune.fit(X_train2,y_train2)
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 655134600b9b56a9ab8e6256f5cdee2389521361
+title: i
+---
+# min_samples_leaf= 17)

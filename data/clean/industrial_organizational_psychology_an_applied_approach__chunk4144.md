@@ -1,9 +1,15 @@
-## Daanen, H. A. M., van de Vliert, E., & Huang, X. (2003).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 895bb4fc69ae6eda0786d0d49d8f6996a7179271
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Cucina, J. M., Vasilopoulos, N. L., & Sehgal, K. G. (2005).
 
-Driving performance in cold, warm, and thermoneutral environments. Applied Ergonomics, 34(6), 597–602. Dababneh, A. J., Swanson, N., & Shell, R. L. (2001). Impact of added rest breaks on the productivity and well being of workers. Ergonomics, 44(2), 164–174.
+Personality-based job analysis and the self-serving bias. Journal of Business and Psychology, 20(2), 273–290.
 
-Dalal, R. S. (2005). A meta-analysis of the relationship between
+Czaja, R., & Blair, J. (2005). Designing surveys: A guide to decisions and procedures (2nd ed.). Th ousand Oaks, CA: Pine Forge Press.
 
-organizational citizenship behavior and counterproductive work behavior. Journal of Applied Psychology, 90(6), 1241–1255.
+references
 
-Dale, E., & Chall, J. S. (1948). A formula for predicting
+631

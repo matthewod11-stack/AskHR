@@ -1,17 +1,27 @@
-## Coaction The effect on behavior when two or more
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: db0a54c49995e4e3407f79418944916ad6bfd917
+title: industrial_organizational_psychology_an_applied_approach
+---
+# changes for the sake of it.
 
-people are performing the same task in the presence of each other.
+Change analyst A person who is not afraid of change but makes changes only when there is a compelling reason to do so.
 
-Coefficient alpha A statistic used to determine internal reliability of tests that use interval or ratio scales. Coercive power Leadership power that comes from the
+Change resister A person who hates change and will do anything to keep change from occurring. Chronic self-esteem The positive or negative way in which a person views himself or herself as a whole.
 
-leader’s capacity to punish others.
+Chronological résumé A résumé in which jobs are
 
-Coercive style A leadership style in which the individual leads by controlling reward and punishment; most effective in a climate of crisis.
+listed in order from most to least recent.
 
-Cognitive ability Abilities involving the knowledge and use of information such as math and grammar. Cognitive ability test Tests designed to measure the
+Circadian rhythm The 24-hour cycle of physiological
 
-level of intelligence or the amount of knowledge possessed by an applicant.
+functions maintained by every person.
 
-Collaborating style The conflict style of a person who wants a conflict resolved in such a way that both sides get what they want.
+Clarifier A type of structured interview question that clarifies information on the résumé or application. Closed desk arrangement An office arranged so that a visitor must sit across from the person behind the desk.
 
-Common goal An aim or purpose shared by members
+Cluster grapevine A pattern of grapevine communication in which a message is passed to a select group of people who each in turn pass the message to a few select others.
+
+Coaching A method of training in which a new
+
+employee receives on-the-job guidance from an experienced employee.

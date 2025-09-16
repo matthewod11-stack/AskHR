@@ -1,17 +1,31 @@
-# Summary Points
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 0bf3633a6c111203dd04e6702c65cb8383223957
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part II • System Implementation
 
-- The first step in measuring performance by adopting a results approach is to iden- tify accountabilities. Accountabilities are the various areas in which an individual is expected to focus.
+Knowledge of Accounting and Auditing Standards/Theory: Technical foundation, application of knowledge on the job, ability to identify problem areas and weigh theory vs. practice.
 
-- After all key accountabilities have been identified, the second step in the results
+3 High-Point Performance: Displays very strong technical foundation, able to proficiently apply knowledge on the job, willingly researches areas, able to identify problems, can weigh theory vs. practice considerations.
 
-approach is to set objectives for each. Objectives should be (1) specific and clear, (2) challenging, (3) agreed upon, (4) significant, (5) prioritized, (6) bound by time, (7) achievable, (8) fully com- municated, (9) flexible, and (10) limited in number.
+2 Midpoint Performance: Can resolve normal accounting issues, has adequate technical foundation and skills, application requires some refinement, has some problems in weighing theory vs. practice, can identify major problem areas.
 
-- Finally, the third step in the results approach involves determining per- formance standards. These yardsticks are designed to help people understand to what extent the objective has been achieved. In creating standards, we must consider the dimensions of quality, quantity, and time. Good standards are (1) related to the position; (2) concrete, specific, and measurable; (3) practical to measure; (4) meaningful; (5) realistic and achievable; and (6) reviewed regularly. • The first step in measuring performance adopting a behavior approach involves identifying competencies. Competencies are measurable clusters of KSAs that are critical in determining how results will be achieved. Examples of competencies are customer service, written or oral communication, creative thinking, and dependability.
+1
 
-- The second step in the behavior approach involves identifying indica- tors that will allow us to understand the extent to which each individual possesses the competency in question. These indicators are behavioral mani- festations of the underlying (unobserv- able) competency.
+Low-Point Performance: Displays weak accounting knowledge and/or technical ability to apply knowledge to situations/issues on an engagement, has difficulty in identifying problems and/or weighing factors of theory vs. practice.
 
-- In describing a competency, one must first clearly define it, then describe behavioral indicators showing the pres- ence of the competency, describe behav- ioral indicators showing the absence of the competency, and list suggestions for developing the competency.
+For graphic rating scales to be most useful and accurate, they must include the
 
-- After the indicators have been identi- fied, the third step in the behavior approach includes choosing an appro- priate measurement system, either comparative or absolute.
+following features:
 
-- Comparative systems base the measure- ment on comparing employees with one another and include simple rank order, alternation rank order, paired
+- The meaning of each response category is clear. • The individual who is interpreting the ratings (e.g., a human resources manager) can tell clearly what response was intended.
+
+- The performance dimension being rated is defined clearly for the rater.
+
+Compare the two examples of BARS shown earlier. Which is better regarding each
+
+of these three features? How can these BARS be revised and improved?
+
+In summary, several types of methods are available for assessing performance. These methods differ in terms of practicality (i.e., some take more time and effort to be developed than others), usefulness for administrative purposes (i.e., some are less use- ful than others because they do not provide a clear quantification of performance), and usefulness for users (i.e., some are less useful than others in terms of the feedback they produce that allows employees to improve performance in the future). Practicality and usefulness are key considerations in choosing one type of measurement procedure over another.

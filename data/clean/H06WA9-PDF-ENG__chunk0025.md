@@ -1,27 +1,43 @@
-## HBR / The Big Idea / Harnessing the Power of Age Diversity
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5468ee980d37efef35614d092073195c2c86c83
+title: H06WA9-PDF-ENG
+---
+## generational makeup vary around the world.
 
-are seen as having the most relevant education and skills and the best
+But across geographies, the diﬀerent outlooks, attitudes, and behaviors
 
-cultural ﬁt for open positions. Even as people ﬂocked online during
+of cohorts can lead to conﬂict. For example, in many countries older
 
-the pandemic, diﬀerent generations tended to spend time on diﬀerent
+workers, who have dominated the workplace for decades, are staying in
 
-platforms — older people scrolling Facebook, younger ones TikTok —
+it longer due to better health and longevity. Younger colleagues, anxious
 
-deepening the digital divide. Gen Z employees, meanwhile, have worked
+for change and upward mobility, are often impatient for them to move
 
-remotely for most if not all of their professional lives, leaving many
+on. And when Boomers and digital natives work side by side, tensions
 
-feeling disconnected from coworkers and undervalued by their older
+can arise about whose contributions are valued more. If the client
 
-teammates. And older generations have adjusted to working from home
+database that an older employee developed is replaced by automated
 
-better than expected, ﬁnding the ﬂexibility energizing after a lifetime of long hours at the oﬃce.
+software suggested by a younger associate, the older employee may feel
 
-Many of these tensions — and the media hype around them — have
+that their contribution is being minimized.
 
-led to a further decline in trust between the generations. The steps we
+These generational frustrations have become even more pronounced
 
-outline in the four practices and activities below are designed to help
+during the pandemic. As people of all ages have left their jobs in the
 
-bridge that gap and move toward better intergenerational cooperation.
+so-called Great Resignation, older and younger workers are competing
+
+for similar roles. While older workers have more experience, the 35-and-
+
+under age groups, according to a recent survey of hiring managers,
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

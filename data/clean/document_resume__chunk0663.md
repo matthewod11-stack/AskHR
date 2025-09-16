@@ -1,5 +1,11 @@
-## Tenured Faculty Members," Educational Record 65 (Spring 1984), pp. 38-41
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: a401e6e9643d9f6d00aeda1d0e647a5bf8c1dd3f
+title: document_resume
+---
+# Laird and Clampitt, op. cit., pp. 49-57.
 
-42.
+41.
 
-Stano, op. ca , pp. 131-142.
+John B. Bennett and Shirley S. Chater. Evaluating the Performance of

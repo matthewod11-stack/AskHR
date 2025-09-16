@@ -1,3 +1,9 @@
-## Figure 3 Average gender pay difference by employer sector in 2009.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 944b4e57ee1191d10f99cff625642091abb9280f
+title: file_1
+---
+# 10
 
-Since the study is conducted in Finland, an overview of the Finnish gender system was provided. It should be noted that the results of the study are viewed in the Finnish context. The extent to which the results of the study can be generalized are discussed in ‘limitations and suggestions for future research’ subsection of the thesis (section 5.3).
+important and active in gender equality issues (Saari, 2011). In order to promote further equal pay, the Finnish government and the central labour market organizations have undertaken a commitment the Equal Pay Programme, according to which, gender-based pay difference has to be narrowed to 15 % by 20153. In February 2011, a report of the overall assessment of the Equal Pay Programme 2007-2010 was published. According to the report, the factors that have narrowed gender pay differences are collective agreements, introduction of new analytical pay systems, equality planning and pay surveys, and career development for women (Salonius, 2011).

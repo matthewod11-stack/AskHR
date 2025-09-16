@@ -1,5 +1,7 @@
-# Use open/flexible
-
-Open/flexible can be used if integration costs are low enough
-
-Use traditional employees unless tasks can be broken down to remove need for firm-specific context
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 390e920e0e1854d07db43287340a9a4b0f596b26
+title: H06X4I-PDF-ENG
+---
+# One-off

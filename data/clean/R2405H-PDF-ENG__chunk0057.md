@@ -1,9 +1,9 @@
-# accidents in the oil, gas, and chemical
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37e5c01dd1c2f82c71c64cf6e2f4ec13e2ac8888
+title: R2405H-PDF-ENG
+---
+# Dräger, a provider of ﬁxed and portable
 
-industries, exempliﬁes the value of
-
-targeted training. Dräger’s training on the
-
-use of its gas-detection systems covers the
-
-technical aspects of operating the
+gas-detection systems for preventing

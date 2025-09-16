@@ -1,7 +1,13 @@
-## HBR / Digital Article / A Data-Based Approach to Delegating
+---
+source_path: H08TOA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5bbf64d7992b472d83b9b81059feba84f7ef98ad
+title: H08TOA-PDF-ENG
+---
+# the same.
 
-While a time log might feel tedious, it can be a very eﬀective way to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-start freeing up your day for more strategic work. If you’re ready to put
+2
 
-this into action, I recommend approaching this exercise in four steps:
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

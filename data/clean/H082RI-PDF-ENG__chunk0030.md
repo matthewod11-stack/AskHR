@@ -1,9 +1,25 @@
-## applicants. With a little bit of thoughtful attention, organizations can
+---
+source_path: H082RI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5a2391ae38370a988a59a957eede4e8c3fba814
+title: H082RI-PDF-ENG
+---
+## open-ended responses. However, with the advent of large language
 
-boost the chances that the demographics forms they use include
+models like ChatGPT, organizations can potentially use human-assisted
 
-a broader set of identities that better represent the diverse set of
+AI processes to read through open-ended responses to demographics
 
-individuals ﬁlling them out.
+questions and categorize those responses and their relative frequencies.
 
-This article was originally published online on March 27, 2024.
+. . .
+
+The steps we’ve outlined in this article would cost organizations little
+
+to nothing to implement. Recent research on identity omission in
+
+demographics forms suggests that taking steps like these could help
+
+organizations reach commonly held goals, such as fostering a sense
+
+of belonging among employees and a positive experience among job

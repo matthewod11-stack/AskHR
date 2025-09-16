@@ -1,33 +1,33 @@
-## search and analytic power of the basic ChatGPT program.
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81a8c8ca3b38ab1d7ba0e47803960d95061a0515
+title: H07WKC-PDF-ENG
+---
+## HBR / Digital Article / Can GenAI Do Strategy?
 
-In the next step, the AI leveraged, via a custom programmed interface,
+and-go setup around Champs Elysees clubbing hubs could potentially
 
-the Blue Ocean framework connected to its basic programming to
+maximize untapped sectors eﬀectively.”
 
-identify which of the factors on the edited set should be eliminated,
+The AI also proposed diﬀerent approaches to reaching customers: “Oﬀer
 
-reduced, raised, or created to produce a value proposition that
+not just bagels but an experience,” it suggested, and “Think about large
 
-would attract the target noncustomers, presenting it as a 2D value
+conferences or business meetings.” The AI further proposed adding
 
-curve at the bottom of the screen that we could manually adjust
+other American bakery items and sourcing local ingredients.
 
-ourselves. Once adjusted, the AI exported the data for us to produce
+So how, exactly, should we be oﬀering bagels in Paris?
 
-a classic presentation-ready set of Blue Ocean value curves presenting
+Building the value proposition
 
-propositions that might attract noncustomers.
+To develop a new value proposition, whatever your strategy process,
 
-Mapping the ecosystem
+you ﬁrst have to identify the list of essential factors traditionally found
 
-Looking toward execution, we trained the AI to map the extended
+in the product/service oﬀering that your target market is using. This is
 
-ecosystems in which we would need to operate. The AI was quickly
+normally a time-consuming, tedious task. But the AI created a list of
 
-able to present the leading players in the bakery industry generally
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+factors for us to review and edit in less than a minute, leveraging the

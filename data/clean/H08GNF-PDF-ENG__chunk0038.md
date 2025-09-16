@@ -1,11 +1,11 @@
-# app for the business.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb8d22bcf23848d3379b0ff167940d71a731f0f7
+title: H08GNF-PDF-ENG
+---
+## HBR / Digital Article / Use the STAR Interview Method to Land Your Next Job
 
-(Takeaway): I learned that many of the issues we discovered
+Result: I was able to reduce the algorithm’s execution time by 70%
 
-could have been avoided by spending more time on the front-end
-
-whiteboarding with the team. Now I always spend more time on
-
-analysis and understanding the complexities, because the solution
-
-comes quickly from that. That is what I would bring to this role
+and we were able to meet the deadline and deliver a high-performing

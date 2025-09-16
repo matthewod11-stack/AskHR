@@ -1,7 +1,13 @@
-# Moderate
+---
+source_path: H0893T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7944182a238618732cfda8f028cf4e23997b4e37
+title: H0893T-PDF-ENG
+---
+# Employee Resource Groups (ERGs)
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Employee-led volunteer groups that foster community and DEI progress
 
-4
+Can isolate ERG members from white men who disproportionately hold power
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+0.02

@@ -1,17 +1,27 @@
-## Feedback Across Cultures: Upgrade, Downgrade, or Wrap Positives Around Negatives
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb87477428dc2036ae9930d4330fe21e1ad04730
+title: R2305F-PDF-ENG
+---
+# amygdala, doesn’t.
 
-In today’s interconnected, virtual world you might have a strategy
+If you tell me I’ve acted ineffectively, it may trigger an alarm in my
 
-meeting with a colleague in India at 9 AM, attend a ﬁnancial
+amygdala: “Danger! I might get kicked out of my tribe!” The stress
 
-presentation in Stockholm at 10, and run a program for new managers
+hormones cortisol and adrenaline flood my bloodstream, throwing my
 
-across South America at noon. If you’re on a team that emphasizes
+body into “fight or flight” mode. The fight reaction leads me to respond
 
-candid feedback, at any moment of the day you may ﬁnd yourself
+defensively: “I’m not the problem. You are!” The flight reaction may result
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+in a comment like “Thanks so much for that feedback. That is very helpful,”
 
-5
+after which I try to never speak to you again.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The challenge with feedback, therefore, is to make sure that your delivery
+
+succeeds in helping the cortex override the amygdala.
+
+[ 1 ]

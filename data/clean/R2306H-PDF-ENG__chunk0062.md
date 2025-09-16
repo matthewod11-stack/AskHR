@@ -1,29 +1,13 @@
-## HBR / Magazine Article / Harness Your Network to Unlock Innovation
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6b25013263137c5e16859fce153b0f96e3f06c31
+title: R2306H-PDF-ENG
+---
+## team of technology leaders and managers at one consumer products
 
-company learned the hard way. In their quest to develop a laundry
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-detergent that was more sustainable, they had fundamentally rethought
+14
 
-the underlying chemistry to allow clothing to be washed at lower
-
-temperatures. Because the new product was highly eﬀective, the
-
-manager leading the project didn’t think it was problematic that the
-
-chemistry worked only in a powder-based detergent. But despite the
-
-brilliance of the idea, the project was deemed too deviant and was
-
-rejected, at least initially. Not only was it considered to be out of line
-
-with the recent market shift from products that were powder-based
-
-to those that were liquid-based, but the company’s decision makers
-
-believed that consumers weren’t ready to switch to low-temperature
-
-washing. As we listened to this manager recount her experience, we
-
-noted a marked lack of attention to the need to carefully and gradually
-
-build momentum for the innovation in her network before putting the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

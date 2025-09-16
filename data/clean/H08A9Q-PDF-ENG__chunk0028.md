@@ -1,13 +1,9 @@
-## such as procurement, supply chain, reporting, and analytics.
+---
+source_path: H08A9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 244a4f9654177017142e2c702ddbae1cc5ddf88a
+title: H08A9Q-PDF-ENG
+---
+## HBR / Digital Article / AI Success Depends on Tackling “Process Debt”
 
-- 4. Reskill employees to help support your new processes.
-
-With new processes that are increasingly critical to business outcomes,
-
-organizations must staﬀ them with highly skilled talent who can unlock
-
-their power. This will likely mean changing the operating model —
-
-how you are organized to deliver on the work — as well as reskilling
-
-or upskilling employees and redeploying talent around your new value-
+discount allowances, as well as streamlining shared services activities,

@@ -1,9 +1,15 @@
-# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a009af76bebc4680ce9b717723b76274503cbd55
+title: R2403D-PDF-ENG
+---
+## blockchain, and the internet of things—have a diﬀerent mindset now.
 
-Talented workers have sought ﬂexible work for some time, but it’s only
+They want more-ﬂexible working arrangements.”
 
-recently that the downsides traditionally involved in freelancing have
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-been addressed. Independent work used to be an unreliable source of
+2
 
-income that was heavily dependent on personal networks, but today
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

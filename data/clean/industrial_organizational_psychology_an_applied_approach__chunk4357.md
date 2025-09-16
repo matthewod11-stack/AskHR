@@ -1,7 +1,9 @@
-## Unpublished doctoral dissertation, Louisiana State University, Louisiana.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 22f74c3bf76f2f54270cf701f55a75ca03950c86
+title: industrial_organizational_psychology_an_applied_approach
+---
+# track. American Banker, 158(12), 7.
 
-Nagy, M. S. (2005, April). Practical suggestions in providing and asking for references and letters of recommendation. Paper presented at the 20th annual meeting of the Society for Industrial and Organizational Psychology, Los Angeles, CA.
-
-Nagy, M. S. (1996, April). What to do when you are dissatisﬁ ed
-
-with job satisfaction scales: A better way to measure job satisfaction. Assessment Council News, pp. 5–10.
+Nagy, M. S. (1995). An integrated model of job satisfaction.

@@ -1,15 +1,27 @@
-# disengage altogether.
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b566a76a57661a2d246cc6855a5458685442d143
+title: R2503N-PDF-ENG
+---
+## HBR / Magazine Article / Are You Really a Good Listener?
 
-Take Google’s all-company TGIF meetings. For years these were
+However, studies also show that such practices often are ineﬀective—
 
-biweekly open forums where company leaders would share updates,
+in part because many managers simply aren’t good listeners. When
 
-discuss strategic developments, and take questions from employees.
+we conducted a comprehensive review of 117 academic papers on
 
-They played a critical role in maintaining a culture of trust at the
+workplace listening—whether it happened in individual conversations
 
-company. As Laszlo Bock, Google’s former senior vice president of
+or in team or larger meetings—we found that this skill is far easier to
 
-people operations, once explained, they covered “everything from
+describe than to display.
 
-whether the mix of food in the cafés is too healthy to really sublime
+Why? Because listening is an intentional activity that requires empathy,
+
+patience, and the ability to respond to what you hear. And because
+
+it can be so mentally taxing, particularly when the subject matter
+
+is complex or emotionally charged, people often take shortcuts or

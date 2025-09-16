@@ -1,15 +1,19 @@
-# HBR / Digital Article / Why Employee Mediations Fail — and How to Get Them Back on…
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97aa2ca383b0e898e32d0678fe52be5fe2f3ee06
+title: H075PH-PDF-ENG
+---
+# Competitive relationships
 
-are ﬁghting over sparse funding allocations or even the attention and
+Conﬂicts that occur between people or groups who are solely competing
 
-recognition rarely doled out by higher-ups.
+against one another, especially over coveted resources, are also prone
 
-Limiting conditions Eﬀorts that are greatly constrained by time, law, norms, or other factors
+to fail in mediation. For example, perhaps those two department heads
 
-are also prone to ﬂop. To suggest that two employees can work out their
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-issues in a single, two-hour meeting might be wrong. Working things out
+2
 
-takes as long as it takes, and mediation doesn’t always respond to the
-
-parameters that organizations draw.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

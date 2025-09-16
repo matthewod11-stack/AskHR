@@ -1,29 +1,25 @@
-# HBR / Digital Article / Research: The Risks of Founding a Startup Near Big Companies
+---
+source_path: H08HCJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9adc2722e4375f7cd4dc5d8a6b6050c4b1b91293
+title: H08HCJ-PDF-ENG
+---
+# anucha sirivisansuwan/Getty Images
 
-the oﬀerings of their large ﬁrm competitors. Spending large amounts
+Startups often choose to base their ﬂedgling companies in “tech
 
-on salaries can leave less capital for other important initiatives, like
+clusters,” seeking to beneﬁt from these areas’ developed labor markets
 
-experimentation or marketing, which can in turn make it harder for
+for technical, sales, and managerial staﬀ — typically arising from a
 
-startups to reach a growth phase.
+signiﬁcant presence of large ﬁrms. Yet while this proximity to talent
 
-So what should startups do? Does the beneﬁt of being close to talent
+can provide access to the specialists a startup may need to scale, it
 
-outweigh the ﬁnancial burden of attracting it away from big ﬁrms?
+also forces these new companies to oﬀer high wages to compete with
 
-And what part do large ﬁrms play in this? In new research, we
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-analyzed more than 180 million job ads placed between 2010 and 2020,
+1
 
-including ads from more than 140,000 U.S. startups founded in that
-
-decade. We found that local large ﬁrm hiring patterns have a signiﬁcant
-
-impact on startups’ ability to grow. We examine our ﬁndings and oﬀer
-
-recommendations for startups looking to navigate this complicated
-
-landscape in order to take advantage of resource-rich locations without
-
-being crowded out.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

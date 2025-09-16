@@ -1,23 +1,31 @@
-## Besides the sheer size of investments, K-brands share a common recipe
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d66a77d00635805166e4318af2ab45160357835f
+title: H089ZD-PDF-ENG
+---
+## most attractive brands in the world: the K-brands.
 
-for success that oﬀer unique lessons for entrepreneurs, brand managers
+In 1994, a presidential advisory report noted that one single blockbuster
 
-and marketing executives:
+ﬁlm — Jurassic Park — had realized proﬁts equivalent to selling 1.5
 
-- 1. They encourage fun and fast consumer discovery.
+million Hyundai cars. President Kim Young-sam decided to lead his
 
-To explain South Korea’s innovativeness, observers often point to the
+country on a massive transformation, moving away from the production
 
-country’s massive R&D investments (4.9% of GDP in 2021) or to the
+of functional mid-range goods, upon which South Korea had built its
 
-country’s high urban population density. They argue that these create
+competitive edge, to become a global cultural player.
 
-a competitive environment in which showing oﬀ the latest product and
+Massive eﬀorts over the years saw the culture ministry’s budget grow
 
-“being ﬁrst” are highly valued.
+to US$6.05 billion in 2022, a third more than the equivalent ministry
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+in France (about US$4.6 billion in 2022). New governmental agencies
 
-2
+such as the Korea Creative Content Agency (KOCCA) encouraged foreign
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+investments — Netﬂix alone announced a US$2.5 billion investment in
+
+Korean content — and further boosted the country’s soft power.

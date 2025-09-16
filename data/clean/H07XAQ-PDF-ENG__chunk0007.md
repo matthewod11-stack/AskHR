@@ -1,13 +1,23 @@
-# internet! Book recommendations!
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b3d4a98fe49cc8d8f4cb9cd8767d960224cb182
+title: H07XAQ-PDF-ENG
+---
+# facing.
 
-We now expect personalized experiences from websites, apps, and
+We’ve come to think of this phenomenon as the “kitchen sink problem.”
 
-social media, yet organizations’ approach to learning programs and
+Too often, employees are barraged with a huge catalog of learning
 
-related content typically feels overwhelming, indiscriminate, and,
+programs, many of which are saddled with so much content that it’s
 
-above all else, impersonal. Since this overabundance of learning options
+diﬃcult for them to know where to focus. And in connection with these
 
-seems to be the norm, we need to pause and reﬂect on something
+programs, employees are provided exhaustive lists of resources, rather
 
-behavioral scientists have known for decades: Less is more. In this article, we’ll unpack why that is and outline some strategies for oﬀering
+than carefully curated ones. Here are 100 courses! 70 hyperlinks! 35
+
+toolkits! Dozens of internal sites, all looped together like a Kafkaesque
+
+nightmare. Plus…videos from thought leaders! Random blogs from the

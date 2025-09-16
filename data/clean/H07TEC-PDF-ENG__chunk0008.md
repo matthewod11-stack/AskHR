@@ -1,19 +1,13 @@
-# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 611c103d4fe35923c134b2f0d2f869d9bd3e3bac
+title: H07TEC-PDF-ENG
+---
+# the most out of its L&D investment?
 
-The ﬁrst step is to quantify baseline performance before training —
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-but it’s not enough to assess what the learner already knows. To help
+1
 
-you target training to the individuals and teams most in need, you also
-
-want to understand how they contribute to team and organizational
-
-outcomes. Indeed, research suggests that training programs that start
-
-with a needs analysis prior to training result in learners being far more
-
-likely to retain and apply what they learn. However, performing a
-
-needs analysis is time consuming, and there is a lack of standardization
-
-around how to perform them.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

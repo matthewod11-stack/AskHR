@@ -1,37 +1,27 @@
-## HBR / Magazine Article / The Labor-Savvy Leader
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b597d7cda8c2d0ec4d29c854e4ffa47f51d95a5e
+title: R2304D-PDF-ENG
+---
+# consultants.
 
-Set the ground rules. This involves “bargaining over how to
+Whether or not you hire an outside negotiator, you’ll need an internal
 
-bargain.” Meet early with union representatives to deﬁne rules for the
+negotiating team staﬀed with managers from a variety of departments
 
-negotiations—for example, when and how to use sidebar caucuses, the
+who understand your approach and share your goals. Your toughest
 
-frequency of meetings, how both sides should communicate with the
+discussions may not be with the union team across the table but within
 
-media and constituents, and whether to use subcommittees. Working
+your own team, so do everything you can to ﬁnd and empower internal
 
-out these rules can make it much easier to get started and can shape
+allies. Even if your company had a hostile posture toward unions in the
 
-how later, more-substantive negotiations will fare.
+past, you will ﬁnd people eager to turn over a new leaf and collaborate.
 
-This process can be diﬃcult. As we’ve seen at Starbucks and at some
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-universities, many younger workers demand open negotiations in
+8
 
-which the outside world can experience events at the bargaining table
-
-in real time—via Zoom, Twitter, or the like. Old-school labor negotiators
-
-may pull their hair out at the thought, but remember: Management
-
-needs to experiment to discover new solutions.
-
-Set the tone yourself. Many unions fear that companies’ management
-
-teams aren’t interested in negotiating in good faith and would prefer
-
-to delay and confuse matters for as long as possible. That fear
-
-is valid, given the traditional playbook of many newly unionized
-
-companies, so reassure your union representatives right from the start.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

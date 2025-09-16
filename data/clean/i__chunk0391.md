@@ -1,9 +1,27 @@
-# to one of the categories. (Kumar, 2016)
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 22c32abf5012657d8fd59d4e75455098bffa97a0
+title: i
+---
+# There is an underlying Linear Relationship Assumption for Logistic Regression. The
 
-Question logistic regression helps to solve for our dataset is to predict whether a random
+assumption is : there a linear relationship between the predictor (independent) variables and
 
-employee will voluntarily quite the position given his details such as salary, distance from
+the output (dependent) variable. This means that the change in the predictor variables is
 
-home, his age, education level and time working in current position and so on. These conditions
+assumed to result in a linear change in the log-odds of the output variable in logistic regression.
 
-are in this case predictor variables while output variables are the Quit/ Not Quite categorial
+In logistic regression, the output variable undergoes a transformation. Instead of predicting the
+
+actual values, logistic regression predicts the probability that the given input belongs to a
+
+particular category. The transformation involves converting the linear combination of
+
+predictors into a probability using a logistic function, also known as the sigmoid
+
+function.Logistic regression is particularly useful when dealing with binary outcomes or
+
+situations where there are only two possible categories. The logistic function maps the linear
+
+combination of predictors to a value between 0 and 1, representing the probability of belonging

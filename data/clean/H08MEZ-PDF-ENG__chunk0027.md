@@ -1,3 +1,9 @@
-# compliance and operational consistency.
+---
+source_path: H08MEZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be6869ced621ddfc8ee2aecbf80d6640777cef50
+title: H08MEZ-PDF-ENG
+---
+## other unique state requirements (such as Illinois’ Biometric Information
 
-- 3. Actively communicate with employees about state differences and their impact. Eﬀective internal communication is an essential but often overlooked
+Privacy Act for facial recognition tools). This approach ensures both

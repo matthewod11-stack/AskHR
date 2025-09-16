@@ -1,19 +1,31 @@
-# team at her location.
+---
+source_path: H06O9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4227dfcb5edfffbb0899277cd9cbe8abd9614372
+title: H06O9Q-PDF-ENG
+---
+# side of a one-way door.
 
-In this “grass-is-greener” scenario, both Jason and Helen focused on
+Why we should be careful
 
-aspects of their work situations that were particularly vivid and salient
+Our decision making isn’t perfect. Nobel laureate Herbert Simon taught
 
-for them individually. What both needed was to take some time to think
+us that it’s never the fully rational process we’d like to think it is, in
 
-about the whole picture and weigh the pros and cons of each setup.
+part because we’re working with incomplete information. Amos Tversky
 
-Almost no job-change decision will be unilaterally good or bad — each oﬀers beneﬁts but comes with costs. As diﬃcult as it is, we need to step
+and Daniel Kahneman also pointed out that our own psychology further
 
-outside our immediate contexts to get a more objective view.
+biases our decisions. Unfortunately, these factors are playing a large role
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+in people’s thinking during this time of transition.
 
-2
+I recently spent time with two diﬀerent managers within the same
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+organization, both of whom were looking to change jobs. Jason* wanted
+
+to change to a position that allowed for more remote work, citing
+
+his increased productivity at home. Helen,* in contrast, was feeling
+
+disconnected, out of the loop, and isolated as the only member of her

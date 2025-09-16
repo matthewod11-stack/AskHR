@@ -1,15 +1,17 @@
-# rates equitable to younger men.
+---
+source_path: H08GMA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9118c5b177a18783340a44125fa289dad47b0f8d
+title: H08GMA-PDF-ENG
+---
+# beginning of the pipeline as well.
 
-Second, companies need to address the broken rung, given that the
+Companies should start by monitoring representation at every level.
 
-greatest barrier to women ascending to the top is getting stuck at the
+Using existing data, they can determine whether or not women are
 
-entry level. Fixing the broken rung will require that companies take a
+underrepresented at the entry level and if so, why. Adopting tried-
 
-closer look at their people processes to ensure fairness. Best practices
+and-true approaches, like inclusive hiring and recruiting, can help
 
-involve tracking promotion rates by gender, race, and level to uncover
-
-hidden barriers, then working to mitigate and block the biases that
-
-can drive gender and racial disparities in performance evaluations and
+companies ensure that younger women are entering the workforce at

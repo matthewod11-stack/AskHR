@@ -1,13 +1,27 @@
-## HBR / Digital Article / How to Decide Which Innovation Projects to Greenlight
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ee32594083c5b444b675616dff94c004b4eda05
+title: H08GJ6-PDF-ENG
+---
+# The “Kickstarter” Approach
 
-poorly match the domain expertise of your decision makers, either
+Another interesting case are internal platforms such as IBM’s iFundIT
 
-because you work for a diversiﬁed business, or because the innovation
+initiative. On these, decision makers can build their own virtual
 
-frontier moves quickly, then you need a decision rule that can handle
+portfolios and weight them, much like Kickstarter investors would. This
 
-inaccurate judgment. Voting here performs better than scoring, which
+is expensive to orchestrate, but aggregating the individual portfolios
 
-provides a false sense of precision when what you need is a rough
+would give you even better discrimination than simple ranking.
 
-categorization. Ranking is more robust to misclassiﬁcation of novel
+There are other aspects to consider, regardless of the kind of rules you
+
+use. For example, if you believe that the variety of project candidates
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

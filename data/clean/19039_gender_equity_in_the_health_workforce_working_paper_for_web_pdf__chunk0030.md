@@ -1,7 +1,13 @@
-## 3 WHO. Global Strategy on Human Resources for Health: Workforce
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: 7bb40f9b3caa306e16635a8c6d05a3a51c680bcc
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+## WHO, together with the International Labour Organization
 
-- 2030. Geneva: World Health Organization; 2016.
+(ILO) and Organisation for Economic Co-operation and Development (OECD), adopted the Working for Health
 
-4 United Nations High-Level Commission on Health Employment and Economic Growth. Working for health and growth: investing in the health workforce. Geneva: World Health Organization; 2016.
+1 ILO. Report for discussion at the Tripartite Meeting on Improving Employment and Working Conditions in Health Services. Geneva: International Labour Organization; 2017.
 
-Gender equity in the health workforce: analysis of 104 countries
+2 Langer A, Meleis A, Knaul FM, Atun R, Aran M, Arreola-Omelas H et al. Women and health: the key for sustainable development. Lancet. 2015;386:1165–210.

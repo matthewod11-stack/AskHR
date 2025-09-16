@@ -1,5 +1,7 @@
-# Going into the Ofﬁce for the First Time?
-
-https://hbr.org/2024/02/going-into-the-ofﬁce-for-the-ﬁrst-time
-
-8/8
+---
+source_path: Going into the Office for the First Time_.md
+pages: n/a-n/a
+chunk_id: 4b7fa357772aab054e2f1cde39f0e4ee367f451d
+title: Going into the Office for the First Time_
+---
+# 9/10/25, 11:22 AM

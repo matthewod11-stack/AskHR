@@ -1,13 +1,19 @@
-# even the most talented individuals.
+---
+source_path: H08LL6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9e40203079bcbfc9401b4fce2dd6f1a0489986e
+title: H08LL6-PDF-ENG
+---
+# enable cross-border collaboration).
 
-We examine our ﬁndings to show the ways these structural elements
+Furthermore, we found that scoring highly on one of these factors was
 
-interact, isolate potential pitfalls and oﬀer actionable lessons for leaders
+not enough to drive success — the most successful employees (those
 
-to optimize expatriate success.
+most likely to express intention to complete their assignment and report
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+high commitment to their organization) worked for companies that
 
-2
+had alignment on all three elements. Our work suggests that while
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+alignment can allow employees to thrive, misalignment can undermine

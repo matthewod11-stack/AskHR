@@ -1,11 +1,17 @@
-## https://hbr.org/2002/05/how-resilience-works
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: b9337fe3e02432cc42156e947a568df832e23d29
+title: issn_print_0976_013x
+---
+# Reconfigurability using Integrated and Deterministic Assessment Models. Journal of
 
-Do, Q. N., Mishra, N., Wulandhari, N. B. I., Ramudhin, A., Sivarajah, U., & Milligan, G.
+Manufacturing Systems, 52, 172-183. https://doi.org/10.1016/j.jmsy.2019.05.008
 
-(2021). Supply chain agility responding to unprecedented changes: empirical evidence
+Carter, C.R. & Rogers, D.S. (2008). A framework of sustainable supply chain management:
 
-from the UK food supply chain during COVID-19 crisis. Supply Chain Management: An
+moving towards new theory. International Journal of Physical Distribution & Logistics
 
-International Journal, 26(6), 737–752. https://doi.org/10.1108/scm-09-2020-0470
+Management, 38(5), 360-387. https://doi.org/10.1108/09600030810882816
 
-Dolgui, A., Ivanov, D.A., & Sokolov, B.V. (2020). Reconfigurable supply chain: the X-
+Coutu, D. (2002). How Resilience Works. Harvard Business Review, 80(5), 46-55.

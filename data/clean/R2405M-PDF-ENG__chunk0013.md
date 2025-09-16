@@ -1,13 +1,13 @@
-## division heads, and meet with some of our key bankers and partners.”
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a1ff89fa54749a5d97f4da53a7595f5fd398751
+title: R2405M-PDF-ENG
+---
+# HBR / Magazine Article / Case Study: Should a Family Business Accept a Returning Da…
 
-His daughter interrupted him. “Papa, it’s Aminata now,” she said,
+As they moved toward the exit, Koﬃ felt a wave of relief and relaxation.
 
-tilting her head toward the driver to make clear how she wanted to be addressed in front of company staﬀers. “And that’s very kind. But before
+“Amina,” he said, “we have a whole week planned for you. We are
 
-we do all that, I would like a morning with you both to introduce some
-
-ideas I have for Assoua Group.”
-
-“Of course,” Koﬃ replied.
-
-“Yes, my dear,” Yao echoed. “Whatever makes you happy!”
+going to take you to see all the operations of the company, meet all the

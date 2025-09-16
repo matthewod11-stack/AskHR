@@ -1,15 +1,15 @@
-# transformational leadership, drawn from the full-range model (Jung & Avolio, 2000).
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: d261722203d0aab12aca56fbb1aa4fb0bb565e98
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# reduces uncertainty around reciprocation (Konovsky & Pugh, 1994). Trust therefore
 
-Transformational leaders motivate their followers to perform beyond expectations and to
+facilitates SET and can be used to operationalise leader-follower relationships (Colquitt et al.,
 
-transcend self-interest in pursuit of group/organisational goals (Bass, 1985). The power of
+2012). The facilitation of social exchanges through trust has become a prominent explanation
 
-transformational leadership in furthering trust relates to the capacity for these leaders to
+in understanding the link between many leadership styles and their outcomes.
 
-inspire pride, admiration and respect and their ability to use social cues to evoke a sense of
-
-being appreciated and valued in followers (Ng, 2017). Transformational behaviours are
-
-argued to result in followers trusting leaders and being willing to reciprocate by going over
-
-and above in their efforts. Transformational leadership consists of four dimensions; idealised
+Over the past three decades, the form of leadership most associated with trust is

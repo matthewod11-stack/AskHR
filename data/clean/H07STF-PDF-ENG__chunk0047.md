@@ -1,9 +1,15 @@
-# Thank you so much, Adi.
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cdafb0fdc925ef0aa21cc954da6341fa5f59daf5
+title: H07STF-PDF-ENG
+---
+# insular in your views.
 
-This article was originally published online on September 8, 2023.
+ADI IGNATIUS:
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Herminia, we’re out of time, but I want to really thank you for being on
 
-19
+the show. It’s great to see you again and great to connect.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+HERMINIA IBARRA:

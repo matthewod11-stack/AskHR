@@ -1,3 +1,7 @@
-# Signs of Maturation
-
-Among the early signs that a ﬁeld is beginning to mature is the emergence of professional organizations and publications that provide a source of intellectual support for the ﬁeld, the identiﬁcation of a speciﬁc knowledge domain that constitutes the ﬁeld, and the development of professional training pro- grams. The 1970s and 1980s saw signiﬁcant development in all of these areas for forensic psychology and for psychology and law.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8cc9be80c5520d1419b67ac2c66431111e674f93
+title: untitled
+---
+## EMERGENCE OF FORENSIC PSYCHOLOGY AS A RECOGNIZED SUBFIELD

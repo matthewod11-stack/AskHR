@@ -1,21 +1,13 @@
-## Coase Theorem." Journal of Political Economy 98(6): 1325-1348.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 5705b1eee33a74016227ba5c6af98bbfc427d2d3
+title: behavioral_economics_1
+---
+# Princeton, Princeton University Press.
 
-42
+Kahneman, D. (2003). "Maps of bounded rationality: Psychology for behavioral economics." American
 
-Kahneman, D. and A. Tversky (1979). "Prospect Theory - Analysis of Decision under Risk." Econometrica
+Economic Review 93(5): 1449-1475.
 
-47(2): 263-291.
-
-Kahneman, D. and A. Tversky (1982). On the study of statistical intuitions. Judgment under Uncertainty:
-
-Heuristics and Biases. D. Kahneman, P. Slovic and A. Tversky. Cambridge, Cambridge University Press.
-
-Kluger, B. D. and S. B. Wyatt (2004). "Are Judgment Errors Reflected in Market Prices and Allocations?
-
-Experimental Evidence Based on the Monty Hall Problem." Journal of Finance 59(3): 969-998.
-
-Kosfeld, M., M. Heinrichs, P. J. Zak, U. Fischbacher and E. Fehr (2005). "Oxytocin increases trust in humans."
-
-Nature 435(7042): 673-676.
-
-Koszegi, B. and P. Heidhues (2005). The Impact of Consumer Loss Aversion on Pricing, University of
+Kahneman, D., J. L. Knetsch and R. H. Thaler (1990). "Experimental Tests of the Endowment Effect and the

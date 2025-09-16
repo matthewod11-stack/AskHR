@@ -1,13 +1,35 @@
-# Source: Predicted by Researcher
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 3a4e959e4a7556fec91ed3ea715df8ca4416f43b
+title: final_2019_jan_feb_jbs_pmd
+---
+# BRICS
 
-It was seen from the above trend that FDI Inflow in SAARC countries is 3%, ASAEAN is 9 %, BRICSis 18 % and SADC is 0.5%. It was seen from the above table that compounded annual growth rate was decreasing for SAARC by -0.67 because of instability in India due to demonetization and GST. And India is the largest recipient of FDI Inflow in South Asia as shown by the below trends after India, Pakistan is the largest recipient of FDI in SAARC.
+116116
 
-Amanullah (2015) “The present study attempts to investigate the growth and development of the scholarly literature published by the SAARC Nations. The study is based on the Data harvested from Scopus- one of the largest indexing and abstracting databas e in the fields of science, technology, medicine, soc ial sciences and arts and humanities. Data congregated encompasses research publications published for the period, 1900- Dec 2013.”
+149618
 
-- 2. Review of literature Asmat Ali Refhat-un-NisaAkibAhmed and Amir
+204915.7
 
-Duran (1999) used panel data and time series technique to find out the drivers of FDI for the period
+285537
 
-4
+191836.8
 
-IITM Journal of Business Studies (JBS)
+261203.6
+
+297438.5
+
+256120.2
+
+267372.1
+
+271374.
+
+257552.6
+
+275600
+
+265557.4
+
+Source: UNCTADFDI–TNC–GVC information system, FDI/TNC Database (www.unctad.org/fdistattistics). Note : SAARC South Asia association of regional council, ASEAN Association of southeast Asian Nation, BRICS Brazil Russia, India, China, South Africa, SADC

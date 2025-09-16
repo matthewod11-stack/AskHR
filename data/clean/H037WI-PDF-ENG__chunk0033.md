@@ -1,13 +1,23 @@
-## better spent on building incubators for migrant entrepreneurs than on
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 083dcb1b1d7497cb1fa195acc3488e7f334d7153
+title: H037WI-PDF-ENG
+---
+## zero-sum game or a “war for talent,” with migrating entrepreneurs
 
-building border walls.
+increasing entrepreneurial activity in one country at the expense of
 
-This article was originally published online on October 27, 2016.
+another. Instead, migration can help nurture entrepreneurial abilities
 
-Peter Vandor is a senior researcher at the Social Entrepreneurship Center at WU Vienna (Vienna University of Economics and Business).
+by fostering the learning and application of cross-cultural knowledge
 
-Copyright © 2016 Harvard Business School Publishing. All rights reserved.
+that helps someone identify proﬁtable opportunities.
 
-6
+Since immigration is increasingly seen by some people as a threat,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the insight that more immigration may result in an overall gain in
+
+entrepreneurial activity may be a useful reminder of the opportunities
+
+associated with migration. It suggests that public money may be

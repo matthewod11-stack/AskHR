@@ -1,11 +1,9 @@
-## ordinary people. In 2011 Occupy Wall Street, the Indignados Movement
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b4f33b32f83712967fa8404902391a50daab4cd
+title: H07ZZW-PDF-ENG
+---
+## the injection of vast public subsidies into private companies, swiftly
 
-in Spain, and the Arab Spring are early examples of intersecting
-
-sociopolitical frustrations that drew business into their tailwinds.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+followed by severe austerity in public spending, which enraged many

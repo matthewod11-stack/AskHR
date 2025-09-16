@@ -1,13 +1,7 @@
-# Simon Marcus Taplin/Getty Images
-
-Once, during a workshop, I asked people to close their eyes and
-
-recall where they were when they had their best ideas. Over 80% of
-
-participants said they were in the shower, in bed, jogging, or playing
-
-with their children — anywhere but work. Out of 15,000 people, not
-
-a single person said they get their best ideas on the job. This isn’t a
-
-coincidence; it’s a symptom of how traditional work environments stiﬂe
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8bea6d09a5a23de8c0c78a323370de5756538295
+title: H08DYH-PDF-ENG
+---
+## Published on HBR.org / September 16, 2024 / Reprint H08DYH

@@ -1,5 +1,7 @@
-## 5.4.2. Análise das respostas de funcionários sem papel de liderança de pessoas
-
-À parte dos seis líderes de pessoas que responderam o questionário, tivemos
-
-a participação de 36 funcionários que não tem função de gestão de pessoas. Estes
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: fd6ee354d0de05f9a4ed8a79aa8a18880f087e06
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# Bergamini e Coda (1997).

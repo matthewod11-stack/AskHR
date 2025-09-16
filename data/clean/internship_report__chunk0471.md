@@ -1,13 +1,19 @@
-# In %
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 445e63144fe281e23fd3b2b15f80572a395f130e
+title: internship_report
+---
+# Sample Size
 
-0%
+0
 
-45%
+5
 
-45%
+5
 
-9%
+1
 
-0%
+0
 
-100%
+11

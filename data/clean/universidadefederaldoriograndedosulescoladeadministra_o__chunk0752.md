@@ -1,7 +1,7 @@
-# e. Concordo totalmente
-
-25.Como é feita a apresentação?
-
-26.Seu líder costuma criar planos de ação a partir dos resultados das pesquisas
-
-de eNPS do time?*
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 0f4c689267341b3134c420994720e5dc6c14705c
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# d. Concordo

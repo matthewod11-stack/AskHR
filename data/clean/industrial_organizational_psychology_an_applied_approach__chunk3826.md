@@ -1,21 +1,21 @@
-# application.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 774cc8ae80c005e0634c851f35089fdb03ad09f5
+title: industrial_organizational_psychology_an_applied_approach
+---
+# the relationship between two variables.
 
-Crisis A critical time or climate for an organization in which the outcome to a decision has extreme consequences.
+Correlation coefficient A statistic, resulting from performing a correlation, that indicates the magnitude and direction of a relationship.
 
-Criterion A measure of job performance, such as attendance, productivity, or a supervisor rating. Criterion group Division of employees into groups
+Corresponding effects An event that affects one member
 
-based on high and low scores on a particular criterion.
+of a group will affect the other group members. Cost per applicant The amount of money spent on
 
-Criterion validity The extent to which a test score is related to some measure of job performance.
+a recruitment campaign divided by the number of people that subsequently apply for jobs as a result of the recruitment campaign.
 
-Critical Incident Technique (CIT) The job analysis method developed by John Flanagan that uses written reports of good and bad employee behavior.
+Cost per qualified applicant The amount of money spent on a recruitment campaign divided by the number of qualified people that subsequently apply for jobs as a result of the recruitment campaign. Counterbalancing A method of controlling for order effects by giving half of a sample Test A first, followed by Test B, and giving the other half of the sample Test B first, followed by Test A.
 
-Critical incidents A method of performance appraisal in which the supervisor records employee behaviors that were observed on the job and rates the employee on the basis of that record.
+Country club leadership A style of leadership in which the leader is concerned about the well-being of employees but is not task oriented.
 
-Critical judge A person who, when under stress,
-
-focuses on his or her negative aspects as well as those of the situation.
-
-Cross-functional teams Teams consisting of representatives from various departments (functions) within an organization.
-
-Cross-training Teaching employees how to perform tasks traditionally performed by other employees.
+Cover letter A letter that accompanies a résumé or job

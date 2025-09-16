@@ -1,17 +1,23 @@
-# competitive.
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 552e0cea26d8377c6e70116145898a71a33e349b
+title: H08HWT-PDF-ENG
+---
+## My friend Dharmesh Shah, co-founder and chief technology oﬃcer of
 
-There’s a saying that you’ve probably heard many times and will
+HubSpot, once shared online that “you’re competing with A.I.”
 
-probably hear many times more, “AI won’t likely take your job, but
+“That’s right,” people agreed. They went on to share other reactions
 
-people who use AI will.”
+including, “AI is going to take jobs,” with some harboring more
 
-AI empowers you to take what you do today and make it more eﬃcient, more scalable, less expensive, and more automated. More so,
+dystopian outlooks, such as: “AI is going to destroy us.”
 
-AI supercharges your capabilities to do what you couldn’t do yesterday
+However, that wasn’t Shah’s intended meaning. He challenged people
 
-to augment your performance. It’s this part that requires imagination,
+to read the statement from a diﬀerent angle: “You’re competing with
 
-creative and repetitive training, and a willingness to step beyond your
+A.I.” His point was that you can enhance, amplify, and even augment
 
-comfort zone and explore the unknown (and have fun while you’re at it).
+your potential by doing so. In other words, AI can make you more

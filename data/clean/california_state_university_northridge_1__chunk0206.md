@@ -1,23 +1,13 @@
-## in writing and at locations where employees can easily access the information.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 89e563cd15bd4ccebf11468786000fc8dbb50b95
+title: california_state_university_northridge_1
+---
+# ::ictim1S ::incl
 
-Consistency among management is paramount when dealing with discipline and
+documentation to spot legal problems before they arise (Frieson, 1999).
 
-termination procedures. A company has an option to seek advice from attorneys and
+This action taken by companies can be helpful in avoiding lawsuits.
 
-HU1ufu1 Resources representatives. Some of preventive measures cost money and other
-
-do not, yet one may determine the cost for a legal audit every three years, compared to
-
-76
-
-paying punitive damages, back wages and other fees that may be assessed in a lawsuit.
-
-Most of the companies listed in the lawsuits presented are not your average sole
-
-proprietorship, or partnership conversely, they are mid size to large corporations. This
-
-being a reality, executive staff members should find out about inconsistencies and mandate
-
-that all managers comply with corporate policy, not allowing the termination of employees
-
-for race, age, sex, sexual orientation, disability, religion and stating company downsizing
+The central theme in most of the stated preventive measures is to have information

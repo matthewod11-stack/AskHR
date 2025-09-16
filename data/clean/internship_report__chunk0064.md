@@ -1,7 +1,21 @@
-# 2.2(cid:32) About Karnaphuli Group
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: ccfb1ea2fe3a42a7998def5f7622ed3007dc8ef4
+title: internship_report
+---
+# 2.1(cid:32) Overview of Karnaphuli Group
 
-Karnaphuli Group is one of the oldest and largest business houses in Bangladesh which was
+Karnaphuli Group is one of the renowned groups of company in Bangladesh. It established in
 
-established in 1954. The Group is named after „Karnaphuli‟, a traditional river situated on the
+- 1954. Karnaphuli has with the ebb and flow of the past 58 years evolved and grown into a
 
-banks of the port city of Chittagong. The Founder Chairman of Karnafuli Group is Mr. Hedayet
+business house of diversified subsidiaries and activities. Total No. of employees of the group are
+
+- 1875. Its Headquarter is in Dhaka, Bangladesh. Karnaphuli holds the title in achieving the first
+
+ISO 9002 Certification in Bangladesh. The annual turnover of this Group is BDT 875 crore
+
+(USD 124 million). At present, Karnaphuli Group has more than 1,875 employees. The website
+
+of Karnaphuli Group is www.karnaphuli.com.

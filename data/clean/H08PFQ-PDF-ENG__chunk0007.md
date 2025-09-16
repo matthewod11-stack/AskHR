@@ -1,13 +1,17 @@
-## in areas like DEI, pricing, and supply-chain sourcing, forces leadership
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d3740b3badca0bb517d508a04f72fc49cad1909
+title: H08PFQ-PDF-ENG
+---
+# enterprise above their own.
 
-teams to make swift decisions with limited clarity. And global tensions
+I’m hearing this too. My clients cite several forces that are encroaching
 
-and conﬂicts may well disrupt supply chains and market stability,
+on their cohesion and ability to lead—and subsequently diminishing
 
-requiring leaders to proactively assess and manage these risks to protect
+others’ conﬁdence in them. Shifts in political power have led to abrupt
 
-their organizations. Finally, heightened political activism and societal
+policy changes, challenging leaders to remain agile and compliant amid
 
-tensions increase personal risks for executives, necessitating robust
-
-security measures to protect leadership and maintain organizational
+evolving regulations. The whiplash of changing priorities, particularly

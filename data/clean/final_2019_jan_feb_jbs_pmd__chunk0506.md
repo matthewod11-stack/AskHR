@@ -1,5 +1,7 @@
-# ISSN 2393-9451
-
-Roth (2002) orders the center abilities further portraying essential and moderate skills. Exhibit of the center skills delineates a person’s word related or proficient capability (Spencer and Spencer, 1993). The central skills may incorporate perusing, composing, calculation, tuning in, addressing, talking, intellectual, singular duty and confidence, assets (time, cash, individuals, and data), relational, and data and innovative. The larger amount skills (McClelland, 1973; and Rothwell, 2002) might incorporate frameworks thinking, individual authority or eagerness to learn, mental displaying, shared visioning, grou p learning, self-information, shortand long haul memory, topic learning, pleasure in learning and work, adaptability, tirelessness and certainty, feeling of direness, genuineness, offering appreciation to other, and activity. In a significant part of the ongoing writing on competency models, there are works related or useful abilities with supporting social skills (Delamare Le Deist &Winterton, 2005). These models have competency areas separated into competency gatherings and further sub-ordered into sub-abilities. As one proceeds to the following dimensions in the chain of command, the skills become additionally engaged and explicit to the business, employment or occupation, and position. Specialized skills can be found in the level(s) over the middle of the road dimension of the competency model.
-
-responsibility. The following two examples indicate how they apply to Learning and Development.
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 6f61959779fad9c020c3cadfaa464042e80e7ee3
+title: final_2019_jan_feb_jbs_pmd
+---
+# January - December, 2019

@@ -1,7 +1,17 @@
-# wakeup call for western AI companies.
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8634a6a37434db0897d995a5fb9d73c291e30ed9
+title: H08ONJ-PDF-ENG
+---
+## HBR Staff; Flavio Coelho/Getty Images; Unsplash
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+In January, the Chinese startup DeepSeek rattled the AI world, tech
 
-1
+stocks, and Wall Street darling NVIDIA when it released an open-source
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+model that was smaller, more eﬃcient, and signiﬁcantly cheaper to
+
+build than products from leading U.S. companies. DeepSeek quickly
+
+jumped to the top of app-store charts, and the moment was declared a

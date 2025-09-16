@@ -1,5 +1,19 @@
-# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d4b255bc23797be9e98dd8de4f195293d253f71
+title: H08HKF-PDF-ENG
+---
+# thresholds?
 
-- 4. Have you trained the people responsible for overseeing the implementation and impact of the RAI program? An RAI committee is a cross-functional, cross-departmental team populated by people from diﬀerent parts of the organization with diﬀerent perspectives on competing strategies, priorities, and types of risk. To function eﬀectively, the team must be aligned on what the risks
+- At what rate will metrics be deployed? For example, quality assurance
 
-of AI are and how to prioritize distribution of resources to manage those
+and quality improvement metrics can only be collected once the
+
+program has been operational, otherwise there’s nothing to measure.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

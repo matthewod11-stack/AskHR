@@ -1,27 +1,35 @@
-## the tension between employees and employers in the conﬂict over
+---
+source_path: H08AWG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5ce6a7ec0e711c950138c77b13c44d2fce3a1711
+title: H08AWG-PDF-ENG
+---
+# HBR / Digital Article / Research: People Still Want to Work. They Just Want Control Ov…
 
-whether (and how often) employees should be required to return to the
+much control they have over their work schedule, and how satisﬁed
 
-oﬃce. First, people who had greater control over their time — that is,
+they are at work and in life. These measures allow us to examine the
 
-who had more ﬂexibility in their work schedules — had the highest job
+relationship between how people experience their time and their well-
 
-satisfaction and overall satisfaction with their lives. Second, those who
+being — both at work and overall.
 
-felt a sense of time scarcity had less satisfaction with their jobs and were
+Previous research has documented that how people experience time —
 
-less satisﬁed with their lives. These ﬁndings mean that feeling like you don’t have enough time and feeling like you don’t have control over the
+and in particular, whether they feel they have control over their time — aﬀects their motivation to work toward a variety of long-term goals.
 
-limited time you do have are both negative predictors of well-being.
+We wanted to know whether those dynamics operated in a similar way in the modern workforce. We also wanted to understand the diﬀerence
 
-The third key ﬁnding — which is particularly important in light of
+between feeling like you don’t have enough time to do the things you
 
-contemporary discourse — is that the number of hours people worked was not related to how satisﬁed people were with their jobs. Finally,
+need to do (referred to in this line of research as a sense of time scarcity)
 
-for those who had more control over their time, having scarce amounts
+and feeling like you don’t have control over your time. These feelings
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+can go hand in hand, but they don’t always. For instance, you might feel
 
-3
+a sense of time scarcity when your schedule is ﬁlled with tasks you don’t
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+have time to complete, even if you have total control over that schedule.
+
+We found a few key patterns that can help us to collectively understand

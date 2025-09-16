@@ -1,9 +1,17 @@
-## De Waard, D., Jessurun, M., Steyvers, F. J., Raggatt, P. T., &
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4ad28fa7e8dc79cc8f58cf3fd32fed744416a649
+title: industrial_organizational_psychology_an_applied_approach
+---
+# NJ: Prentice-Hall.
 
-Brookhuis, K. A. (1995). Eﬀ ect of road layout and road environment on driving performance, drivers’ physiology, and road appreciation. Ergonomics, 38(7), 1395–1407. Dickenson, T. L., & Zellinger, P. M. (1980). A comparison of the behaviorally anchored rating and mixed standard scale format. Journal of Applied Psychology, 65, 147–154. Dickinson, A. M. (1989). Th e detrimental eﬀ ects of extrinsic
+Devine, D. J., Clayton, L. D., Philips, J. L., Dunford, B. B., &
 
-reinforcement on intrinsic motivation. Behavior Analyst, 12(1), 1–15.
+Melner, S. B. (1999). Teams in organizations: Prevalence, characteristics, and eﬀ ectiveness. Small Group Research, 30(6), 678–711.
 
-Dickinson, A. M., & Gillette, K. L. (1993). A comparison of the eﬀ ects of two individual monetary incentive systems on productivity and piece rate pay versus base pay plus incentives. Journal of Organizational Behavior Management, 14(1), 63–82.
+Devine, D. J., & Philips, J. L. (2001). Do smarter teams do better: A meta-analysis of cognitive ability and team performance. Small Group Research, 32(5), 507–532.
 
-Dickson, D. H., & Kelly, I. W. (1985). Th e “Barnum Eﬀ ect” in personality assessment: A review of the literature. Psychological Reports, 57, 367–382.
+Dew, A. F., & Steiner, D. D. (1997). Inappropriate questions in
+
+selection interviews: Interviewer knowledge and applicant reactions. Poster presented at the 12th annual conference of the Society for Industrial and Organizational Psychology, St. Louis, MO.

@@ -1,21 +1,37 @@
-## HBR / The Big Idea / Survey: How People Experience Chronic Illness at Work
+---
+source_path: H087G3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64ab81823075fa2c8fa75c12b861a8c66283b6fb
+title: H087G3-PDF-ENG
+---
+# promotions.”
 
-about my illness, I was trusted less and given fewer opportunities
+One employee talked about the tension between needing support and
 
-for development. Nothing about my performance changed other than needing time oﬀ to recover.”
+wanting to appear “well”: “Because long Covid is an invisible disability,
 
-An additional barrier to accommodation access was the challenge of
+I am often stuck between wanting to pass as non-disabled so I am not
 
-getting a diagnosis or conﬁrmation of disability. As one person said,
+excluded from various activities, projects, etc., and needing people to
 
-“Few doctors know anything about long Covid. Getting one to even
+understand that I can’t function the way I used to. I end up feeling like
 
-acknowledge that you have it is at best months of irrelevant tests to ‘rule
+I need to read as simultaneously sick and well.”
 
-out’ everything else under the sun.” A second shared, “My employer
+These concerns may not be unfounded. Some respondents who had
 
-didn’t recognize long Covid and expected that I was ﬁt to work on my
+disclosed their condition shared that they had experienced challenges.
 
-return,” while a third wrote, “Employers do not understand the impact
+“Once people get wind of my disabling condition, they begin to
 
-of my disability on my day-to-day life, and they are not willing to trust
+infantilize me and really put more focus on what they think my
+
+limitations are rather than what I actually state as my limitations,”
+
+noted one person. And from another: “When my employer learned
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

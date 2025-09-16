@@ -1,9 +1,9 @@
-## Harvard Business School Press, Boston 2006.
+---
+source_path: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis.md
+pages: n/a-n/a
+chunk_id: 514cf72a302ce38f215176bcf7fb6e7e8aedf866
+title: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis
+---
+## Employee Net Promoter Score (eNPS) as a Single-item Measure of Employee…
 
-Schaufeli W. B., What is engagement?, [in:] C. Truss, K. Alfes, R. Delbridge, A. Shantz, E. Soane (eds), Employee Engagement in Theory and Practice, Routledge, London 2013, https://www .wilmarschaufeli.nl/publications/Schaufeli/414.pdf (accessed: 7.12.2019).
-
-Sharp B., Net promoter score fails the test, “Marketing Research” 2006, vol. 20, no. 4, pp. 28–30. Staples D. S., Higgins C. A., A Study of the Impact of Factor Importance Weightings on Job Satisfac- tion Measures, “Journal of Business and Psychology” 1998, vol. 13(2), pp. 211–232.
-
-Temkin B., Is Net Promoter Score A Savior Or A Demon?, 2015, https://experiencematters.blog/20
-
-15/07/09/is-net-promoter-score-a-savior-or-a-demon/ (accessed: 7.12.2019).
+Reichheld F. F., Covey S. R., The ultimate question: Driving good profits and true growth, vol. 211,

@@ -1,13 +1,11 @@
-## www.si.umich.edu/ICOS/Linguisticmemes4.2.pdf.)
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: bb065d8aa0288a1a90bc627e25e10a6c3e97824f
+title: beo_chap7_1
+---
+# Processes 62:38-54.
 
-Heath, C., and N. Staudenmayer. 2000. Coordination Neglect: How Lay Theories of Organiz-
+Heath, C., and V. Seidel. 2004. Language as a coordinating mechanism: how linguistic memes
 
-ing Complicate Coordination in Organizations (ed. B. M. Staw and R. I. Sutton), Research
-
-in Organizational Behavior Series, Volume 22, pp. 153-91. Greenwich, CT: JAI Press.
-
-Heath, C., R. P. Larrick, and J. Klayman. 1998. Cognitive repairs: how organizations com-
-
-pensate for the shortcomings of individual learners. Research in Organizational Behavior
-
-20:1-37.
+help direct appropriate action. Stanford University Working Paper. (Available at http://

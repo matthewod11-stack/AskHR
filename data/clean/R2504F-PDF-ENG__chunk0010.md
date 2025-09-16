@@ -1,13 +1,19 @@
-## comprehensive public healthcare systems and more provisions for
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a60ee3b9b060c6c854566e9a90be57ac0929e5e
+title: R2504F-PDF-ENG
+---
+## HBR / Magazine Article / Your Company Needs an Eldercare Policy
 
-long-term care. Japan, for example, makes long-term-care insurance
+The factors driving the need for eldercare support vary greatly
 
-mandatory for citizens aged 40 and over, and the Netherlands has
+around the world, and international organizations adjust their beneﬁts
 
-included long-term care in its national healthcare system since 1968.
+oﬀerings to local laws and circumstances. That’s because although
 
-Compared with most developed countries, the United States faces more
+the demographics of population aging are common across developed
 
-eldercare support needs, which employers can help ﬁll. But much
+countries, many countries have longer health spans and better public-
 
-of what employee caregivers need—education, navigational guidance,
+health outcomes than the United States does, in part because of more-

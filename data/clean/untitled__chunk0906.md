@@ -1,3 +1,15 @@
-## achievement? Harvard Educational Review, 39, 1–123.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f23ca6bcec9471ffef533717cac42aa5f53a2218
+title: untitled
+---
+## concept. British Journal of Psychology, 71, 449–474.
 
-Jensen, A. R. (1979). g: Outmoded theory of unconquered fron-
+Hunt, E. B., Lunneborg, C., & Lewis, J. (1975). What does it mean
+
+to be high verbal? Cognitive Psychology, 7, 194–227.
+
+Intelligence and its measurement: A symposium. (1921). Journal of Educational Psychology, 12, 123–147, 195–216, 271–275.
+
+Jensen, A. R. (1969). How much can we boost IQ and scholastic

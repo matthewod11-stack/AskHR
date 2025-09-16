@@ -1,7 +1,11 @@
-## unintentional mismanagement of Asian workers results in their career
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 628a47e5101efc4c45d9fbf6e6fc15b310b47f52
+title: H088ND-PDF-ENG
+---
+# consumer market.
 
-stagnation and lost organizational productivity. We will also oﬀer our
+Of course, prejudice based on race or ethnicity and unconscious bias
 
-views on strategies for ensuring Asian employees can grow and thrive
-
-within organizations, in ways that further a company’s broader business
+play a role in these challenges. In this article, we will explain how the

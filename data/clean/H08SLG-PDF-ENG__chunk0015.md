@@ -1,21 +1,47 @@
-# bowels of a building.
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec66054bd58b9e04457db7ed1713e7cf058972fc
+title: H08SLG-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
 
-One manager we worked with bought his team a new book every
+Bring in novelty. We often meet in the same places, follow the same
 
-quarter, which focused on a diﬀerent sector or a broader industry-
+agendas with the same people, and assume that the same process can
 
-or society-wide issue, and then put some time aside to discuss what
+meet any number of diﬀerent outcomes.
 
-they’d read together. Other executives encourage their teams to get out of the oﬃce to experience the world as their customers do. When
+It’s almost heretical to suggest that a meeting doesn’t have to end
 
-they do, the teams explain to us that these eﬀorts help them to
+with actions to add to our already over-stuﬀed to-do lists. However,
 
-bring the wider context back into view, and that leads to valuable
+other outcomes might be far more important. For example, at a
 
-conversations about strategy and purpose. Encountering novelty jolts
+recent meeting at a life sciences company, participants told one of
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+us (John) they found it “cathartic and hopeful” that the agenda had
 
-5
+been speciﬁcally designed to be an inquiring conversation rather than
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their usual action-focused drills. In the weeks following the meeting,
+
+participants’ senior leadership reported feeling an increase in the team’s
+
+energy to the point that they felt comfortable shifting away from their
+
+usual directive control. As a result, speed of decision making ramped
+
+up and the market agility that had been espoused came to life, as
+
+staﬀ in the U.S. and Europe felt trusted to use their own judgment in
+
+co-ordinating their work.
+
+External facilitators and invited guests can bring in fresh ideas and
+
+perspectives. For example, diﬀerent venues can inspire diﬀerent sorts of
+
+conversations: a walk-and-talk or meeting outside might engage a more
+
+open mind than the goldﬁsh bowl of a glass-walled meeting room in the

@@ -1,15 +1,11 @@
-# Using This Data to Improve Meetings
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1c3b4d0e837693142af2cd77c4f500e2ce548f7
+title: H088OR-PDF-ENG
+---
+## metrics with internal data from pulse surveys for further validation.
 
-In addition to our analysis, we are also directly engaged with
+While more research is needed, this approach has the potential of
 
-a small group of companies to deﬁne and implement practical
-
-applications for this data. After several rounds of conversations
-
-with organizational leaders who’ve reviewed the insights from their
-
-company’s collaboration data, as well as the benchmarks and broader
-
-trends mentioned above, we’ve compiled some key takeaways you
-
-might consider applying at your own organization.
+providing a leading indicator for larger issues that may need attention.

@@ -1,7 +1,13 @@
-# such as temperature etc.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 88f1c2abd14739724f92d032aa8b47ba6792c29f
+title: prompt
+---
+# Prompt Engineering
 
-This whitepaper discusses prompt engineering in detail. We will look into the various
+When you chat with the Gemini chatbot,1 you basically write prompts, however this
 
-prompting techniques to help you ge(cid:459)ing sta(cid:457)ed and share tips and best practices to
+whitepaper focuses on writing prompts for the Gemini model within Ve(cid:457)ex AI or by using
 
-become a prompting expe(cid:457). We will also discuss some of the challenges you can face
+the API, because by prompting the model directly you will have access to the con(cid:450)guration

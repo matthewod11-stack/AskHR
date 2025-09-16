@@ -1,27 +1,15 @@
-## work strategy. At the onset of the pandemic, numerous companies
+---
+source_path: H07VVF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44243ed821986be5d07f1556ffb5ff2b89afb654
+title: H07VVF-PDF-ENG
+---
+# HBR / Digital Article / Your Company Will Need Remote Work as Extreme Weather Ge…
 
-found themselves competing for scarce resources, complicating the
+we believe our research suggests that ﬁrms proactively shift their
 
-adoption of remote work practices. Moreover, equipping a workforce
+operations toward remote-work readiness. There are, after all, plenty
 
-to seamlessly transition to remote work, embracing virtual meetings
+of ﬁrms that could be more remote-work-ready than they are today.
 
-and cloud collaboration, can be a time-intensive process, particularly
-
-for less technically inclined employees. In today’s competitive
-
-business environment, maintaining an inactive workforce during such unforeseen shocks is a luxury few ﬁrms can aﬀord.
-
-Notably, our ﬁndings do not necessarily advocate for a permanent
-
-shift to remote work practices but rather emphasize the importance of
-
-remote work as an organizational capability. Remote work can present
-
-considerable drawbacks, encompassing challenges such as blurred
-
-work boundaries, isolation, diminished team cohesion, and reduced
-
-cross-team collaboration. As the new work landscape takes shape, it
-
-appears that ﬂexible hybrid work arrangements are becoming the new standard, oﬀering the advantages of both the home oﬃce and in-oﬃce
+It’s important not to wait for disaster to strike before planning a remote

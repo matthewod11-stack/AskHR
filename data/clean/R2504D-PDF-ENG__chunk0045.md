@@ -1,7 +1,25 @@
-## HBR / Magazine Article / The Conflict-Intelligent Leader
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ef4e5f3e5dcab3aa0a2446e5846b8b90ea60d7e
+title: R2504D-PDF-ENG
+---
+# Yasu + Junko/Trunk Archive
 
-conﬂict. In both Afghanistan and later Syria, he engaged neighboring
+Brahimi engaged with both traditional tribal councils (jirgas) in rural
 
-countries and regional powers, understanding that local conﬂicts often
+areas and government oﬃcials in urban centers. He understood that
 
-had international dimensions that needed to be addressed for peace to
+religious authorities needed to be part of the solution and worked
+
+to integrate Islamic principles with international humanitarian law.
+
+Perhaps most important, Brahimi demonstrated that peace processes
+
+needed to pay attention to what he called the “regional ecology” of
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

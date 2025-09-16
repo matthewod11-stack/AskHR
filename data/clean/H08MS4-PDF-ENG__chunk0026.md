@@ -1,11 +1,25 @@
-# employment decisions.
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 98211c7ff84bb33394a567d43e0af39c52bcf65c
+title: H08MS4-PDF-ENG
+---
+# advocate for:
 
-Of course, some leaders might decide that certain DEI language (or
+- Greater diversity of personnel in their organization
 
-even the acronym DEI itself) is risky for reasons that don’t have to do
+- Fairness and equity in the organization’s policies and procedures
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- A culture of inclusion in which employees feel a sense of belonging
 
-5
+They can also continue to highlight biases and barriers faced by
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+members of diﬀerent demographic groups and teach employees how
+
+to counteract those biases.
+
+In addition, it remains lawful to call for greater demographic diversity —
+
+including on legally protected grounds such as race and sex — so long
+
+as the organization does not consider those protected characteristics in

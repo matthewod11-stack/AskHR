@@ -1,21 +1,27 @@
-# Cognitive Trust in the Leader
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 25c86ee417f9b4f6c7cbd208e6070733fa874ff2
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Trust in the Leader
 
-11
+53
 
-2366
+12237
 
-.17
+.26
 
-.14
+.24
 
-.21
+.29
 
-.20
+.30
 
-.05
+.11
 
-68.94
+28.22
 
-.14
+.16
 
-.27
+.45

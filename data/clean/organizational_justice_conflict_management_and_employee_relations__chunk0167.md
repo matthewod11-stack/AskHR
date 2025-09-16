@@ -1,5 +1,9 @@
-## Tjosvold, D., Wong, A.S. and Feng Chen, N.Y.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: d3d4f3db2f991e5f2eabe7d469ae313170fd4e9e
+title: organizational_justice_conflict_management_and_employee_relations
+---
+## International Journal of Manpower, Vol. 35 No. 8, pp. 1260-1275.
 
-Tjosvold, D., Yu, Z.Y. and Hui, C. (2004), “Team learning from mistakes: the contribution of cooperative goals and problem-solving”, Journal of Management Studies, Vol. 41 No. 7, pp. 1223-1245. Tsui, A. and Wang, D. (2002), “Employment relationships from the employer’s perspective: current research and future directions”, in Cooper, C.L. and Robertson, I.T. (Eds), International Review of Industrial and Organizational Psychology, Wiley, New York, NY, pp. 77-114.
-
-Vanhala, M. and Ahteela, R. (2011), “The effect of HRM practices on impersonal organizational trust”,
+(2014), “Constructively managing conflicts in organizations”, Annual Review of Organizational Psychology and Organizational Behaviour, Vol. 1 No. 1, pp. 545-568.

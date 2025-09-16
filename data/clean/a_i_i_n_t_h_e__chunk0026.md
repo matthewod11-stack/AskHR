@@ -1,7 +1,21 @@
-# With Indeed sending over 20 million messages a month to job seekers—and 350 million visitors coming to the site every month—these increases scale up to signi(cid:14)cant business impactG
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: 5f191673d17b447a51b9cb37727acd0bfb88a9a0
+title: a_i_i_n_t_h_e
+---
+# The power of why
 
-But scaling up also meant using more tokens. To increase e(cid:8)ciency, OpenAI and IndeedC worked together to (cid:13)ne-tune a smaller GPT model that was able to deliver similar resultsC with 60% fewer tokens.B
+Making great job recommendations to job seekers is only the start of the Indeed experience.` They also need to explain to the candidate why this speci…c job was recommended to them9
 
-Helping job seekers (cid:13)nd the right jobs—and understanding why a given opportunity is right for them—is a profoundly human outcome. Indeed's team has used AI to help connect more peopleC to jobs, faster—a win for everyone.
+Indeed uses the data analysis and natural language capabilities of GPT-4o mini to shape these ‘why’ statements in their emails and messages to jobseekers. Using AI, the popular ‘Invite to Apply’ feature also explains why a candidate’s background or previous work experience makes the job‰ a good ‚t.
 
-We see a lot of opportunity to continue to invest^ in this new infrastructure in ways that will help^ us grow revenue.
+The Indeed team tested the previous job matching engine against the GPT-powered version with the new, customized context.` The performance uplift was signi…cant:
+
+A 20% increase in job applications starte(cid:16)
+
+A 13% uplift in downstream success—not only were more candidates likely to apply,` but employers were more likely to hire them.
+
+9
+
+AI in the Enterprise

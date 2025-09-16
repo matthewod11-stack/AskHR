@@ -1,7 +1,7 @@
-# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
-
-2006; McEvily & Tortoriello, 2011; Rousseau et al., 1998). In our assessment of these three
-
-competing mediators (cognitive trust, affective trust, LMX), we chose to focus only on
-
-studies that operationalise performance as an other-rated outcome with the aim of minimising
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 1f3bd71a319ddac95adc0b6114b596c620b399e7
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# (cid:32)(cid:53)(cid:32)

@@ -1,21 +1,11 @@
-## this conversation productive, not just the platform itself.
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51f5ce035b723c47e1368998b99c9f4696eabd4e
+title: H08U3Y-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Tackle Collective Decision-Making
 
-Further, these tools only matter if they are integrated into the right
+sophisticated, can replace a culture of healthy disagreement and mutual
 
-ecosystem. In Hamburg, the city could not take advantage of CityScope
-
-without also reforming bureaucratic hurdles that prevented certain
-
-spaces from being repurposed or built upon. CityScope helped identify
-
-and prioritize those reforms, but without them, the remainder of its
-
-functions would have been futile. While AI can streamline processes
-
-and help us make better decisions together, only with the right
-
-leadership can these tools translate into collective action.
-
-Nevertheless, tools which combine sophisticated simulations with
-
-direct engagement can change how we make decisions in all kinds of
+respect. In Hamburg, it was the residents and their leaders who made

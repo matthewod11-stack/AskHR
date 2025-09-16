@@ -1,23 +1,21 @@
-## HBR / Magazine Article / Are You Really a Good Listener?
+---
+source_path: R2503N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 31317ca13b9c52bb583555b61c4dc2b75170b7cc
+title: R2503N-PDF-ENG
+---
+# Avraham Kluger, and Dotan Castro.
 
-think the speaker has said or thanking that person for sharing. You can
+The lesson is to steel yourself against defensiveness by calming your
 
-also ask questions to get more information. Those moves will prevent
+own emotions and seeking to understand the other parties’ intentions
 
-you from counterattacking and show people that you’re hearing them
+before responding. Before you speak, take stock of yourself. If you feel
 
-out before voicing your own opinion.
+criticized or threatened, buy yourself time by simply restating what you
 
-- 3. Invisibility
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-One of the most common mistakes we see among managers is not
+5
 
-showing that they’re listening, which makes them appear indiﬀerent
-
-and disconnected. Sometimes organizational leaders are working
-
-behind the scenes to ﬁx problems identiﬁed in town halls or staﬀ
-
-surveys but fail to broadcast those eﬀorts to employees. Or managers are
-
-indeed hearing and understanding their employees but not providing
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

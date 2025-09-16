@@ -1,19 +1,29 @@
-# time frames.
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: 0cd5f71f8f7d7211afac5c369fe0bb60dc67f69d
+title: a_i_i_n_t_h_e
+---
+# More resources
 
-02
+2
 
-Automating routine operations
+3 5
 
-Freeing people from repetitive tasks so they can focusY on adding value.
+6 9 11 13 16 18 21
 
-03
+22
 
-Powering products
-
-By delivering more relevant and responsive customer experiences.
-
-3
+24
 
 AI in the Enterprise
 
-But leveraging AI isn’t the same as building software or deploying cloud apps. The most successful companies are often those who treat it as a new paradigm. This leads to an experimental(cid:24) mindset and an iterative approach that gets to value faster and with greater buy-in from(cid:24) users and stakeholders.
+A new way(cid:8) to work
+
+As an AI research and deployment company, OpenAI prioritizes partnering with global companies because our models will increasingly do their best work with sophisticated, complex, interconnected work(cid:13)ows and systems.
+
+We’re seeing AI deliver signi:cant, measurable improvements on three fronts:
+
+01
+
+Workforce performance Helping people deliver higher-quality outputs in shorterY

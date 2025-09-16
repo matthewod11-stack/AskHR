@@ -1,29 +1,33 @@
-## Walster, E., Aronson, E., & Abrahams, D. (1966). On increasing
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 87e51daa3e6e14e2979668c580938240aedf61d1
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Viswesvaran, C., Schmidt, F. L., & Ones, D. S. (2005). Is there
 
-the persuasiveness of a low prestige communicator. Journal of Experimental Social Psychology, 2, 325–342.
+a general factor in ratings of job performance? A meta- analytic framework for disentangling substantive and error inﬂ uences. Journal of Applied Psychology, 90(1), 108–131.
 
-Wanberg, C. R., & Banas, J. T. (2000). Predictors and outcomes of openness to changes in a reorganizing workplace. Journal of Applied Psychology, 85(1), 132–142.
+Vroom, V., & Yetton, P. W. (1973). Leadership and decision making. Pittsburgh, PA: University of Pittsburgh Press.
 
-Wanous, J. P. (1980). Organizational entry: Recruitment,
+Vroom, V. H. (1964). Work and motivation. New York: John Wiley.
 
-selection, and socialization of newcomers. Reading, MA: Addison-Wesley.
+Waddell, J. R. (1996). You’ll never believe what I heard.
 
-Wanous, J. P., Poland, T. D., Premack, S. L., & Davis, K. S. (1992). Th e eﬀ ects of met expectations on newcomer attitudes and behavior: A review and meta-analysis. Journal of Applied Psychology, 77(3), 288–297.
+Supervision, 57(8), 18–20.
 
-Ward, E. A. (2001). Social power bases of managers: Emergence
+Wagner, J. A. (1994). Participation eﬀ ects on performance
 
-of a new factor. Th e Journal of Social Psychology, 141(1), 144–147.
+and satisfaction: A reconsideration of research evidence. Academy of Management Review, 19(2), 312–330.
 
-Warr, P. (2007). Some historical developments in I-O psychology outside the United States. In L. L. Koppes (Ed)., Historical perspectives in industrial and organizational psychology. Mahwah, NJ: Lawrence Erlbaum.
+Wagner, R. F. (1950). A study of the critical requirements for dentists. University of Pittsburgh Bulletin, 46, 331–339.
 
-Waung, M., & Brice, T. S. (2000). Communicating negative hire decisions to applicants: Fulﬁ lling psychological contracts. Journal of Business and Psychology, 15(2), 247–263.
+Wagner, T. L. (1990). A meta-analytic review of absenteeism control methods. Applied H.R.M. Research, 1(1), 23–26.
 
-Waung, M., & Brice, T. S. (2003). Th e impact of a rejection
+Wakabayashi, M., & Graen, G. B. (1984). Th e Japanese career
 
-communication on rejected job applicants. Poster presented at the 18th annual meeting of the Society for Industrial and Organizational Psychology, Orlando, Florida.
+progress study: A seven-year follow-up. Journal of Applied Psychology, 69, 603–614.
 
-Waung, M., & Highhouse, S. (1997). Feedback inﬂ ation:
+Wall, H. J. (2000, October). Th e gender wage gap and wage
 
-Empathic buﬀ ering or fear of conﬂ ict? Poster presented at the 12th annual conference of the Society for Industrial and Organizational Psychology, St. Louis, MO.
-
-Webber, S. S., & Klimoski, R. J. (2004). Crews: A distinct type of work team. Journal of Business and Psychology, 18(3), 261–279.
+discrimination: Illusion or reality? Regional Economist, pp. 1–5.

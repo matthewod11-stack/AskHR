@@ -1,13 +1,21 @@
-# HBR / Digital Article / Research: When Is Leniency the Right Response to Employee M…
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6065a04e1a8f84275f52fed0cbc8f97177469e54
+title: H08MIG-PDF-ENG
+---
+# organization.
 
-- 2. Assess the individual’s needs.
+Of course, it may still be diﬃcult to anticipate reactions, especially if
 
-Managers should also consider whether granting leniency would be
+relationships within the workplace are already fragile. In such cases, it
 
-a compassionate act for the oﬀender. Observing employees vigilantly
+is wise to prioritize consistency to accountability rules and adhering to
 
-watch to see how managers react to their coworkers’ misconduct and
+organizational protocols rather than opting for leniency.
 
-if they believe there is little reason for compassion, their contempt for
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the manager’s leniency will be fueled, as will their desires to retaliate
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

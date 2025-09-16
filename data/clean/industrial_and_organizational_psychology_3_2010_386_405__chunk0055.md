@@ -1,7 +1,7 @@
-# R.S.Dalaletal.
-
-psychology that has yet to be discussed is emotion. Emotions research has exploded in IOOB; we know a lot more about emotions at work now than we did just is 10 years ago. But one emotion that relevant is almost to the workplace that completely unaddressed in the IOOB lit- erature is regret, particularly the role of in decision making (cf., Wong & regret Kwong, 2007). I believe there is a lot of opportunity for studying regret in IOOB contexts, such as regret over having made poor acquisition decisions (also known as ‘‘buyer’s remorse’’), hiring decisions, and job-choice decisions. Anticipated regret is often posited, in the JDM literature, as a reason for the omission bias and status quo biases, and so examining regret might inform organizational research about things like inaction inertia (Arkes, Kung, & Hutzel, 2002). In sum, regret is the most researched emotion in the JDM literature (Connolly & Zeelenberg, 2002), and one at which I think IOOB researchers could take a closer look.
-
-Question 5: What are your recommen- dations for increasing cross-fertilization from JDM to IOOB? How can we increasethenumberofpeoplewith‘‘one footintheIOOBworldandonefootin theJDMworld?’’
-
-Dan Ilgen: For cross-fertilization, each party must see the advantages of the other for addressing its concerns. One way to do this is to increase the likelihood that each will see the work of the other.OBHDPis an attempt to do that by creating a journal in which both disciplines publish. As we have implied, the cross-fertilization effects of this effort were limited. Another approach is to have persons from each discipline work- ing jointly on the same problem. The early work at NASA is a classic case study where a common objective pulled multiple dis- ciplines together for a successful outcome. In a far more limited way, Jim Naylor, Bob Pritchard andIfelt thatwewere abletolearn a lot from the combination of JDM with OB as we created a book on a theory of orga- nizational behavior (Naylor, Pritchard, & I believe such combined Ilgen, 1980).
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 50c7f305aa061457ef4c96d88abb4e2367fd9482
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# An important

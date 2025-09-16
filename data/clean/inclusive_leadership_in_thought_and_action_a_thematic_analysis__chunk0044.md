@@ -1,7 +1,7 @@
-# Group & Organization Management 47(4)
-
-creating a welcoming and constructive environment, maintaining an open mind when interacting with others, and creating a sense of empowerment among employees, surfaced as well. Given these themes regarding openness, it follows that themes related to creating a shared identity and facilitating employee participation and involvement were also found. Speciﬁcally, re- spondents referenced encouraging people to provide input and share ideas, listening to and learning from others, and facilitating teamwork and col- laboration as aspects of inclusive leadership. Respondents also underscored the importance of balancing the tension between a shared identity and a sense of uniqueness by identifying the creation of diverse teams and appreciating and utilizing the varied experiences, talents, skills, and perspectives that come with such diversity as key dimensions of inclusive leadership.
-
-Our assisted analysis of responses to the question on the concept of inclusive leadership revealed a number of keywords that yielded ﬁve second- order themes, as shown in Figure 1. In deﬁning inclusive leadership, re- spondents emphasized a focus on the team as a collective and utilizing the unique skills within the team. In addition, they highlighted the importance of allowing everyone to be involved in work processes and contribute their perspectives to the team. Themes related to acknowledging and understanding differences among team members and valuing such differences also emerged. Based on a hierarchy chart of these second-order themes, our third coder was
-
-Figure 1. Emergent themes from assisted content analysis: concept of inclusive leadership.
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: 891c70d8af67ee1723f2e21f71bc9193bdf94187
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# 766

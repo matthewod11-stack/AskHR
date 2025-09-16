@@ -1,11 +1,11 @@
-# CrookTR,ToddSY,CombsJG,WoehrDJ,KetchenDJJr.2011.Doeshumancapitalmatter?Ameta-analysis
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 3fa33f18cbfaff23b6640299ebb8a88ced74d822
+title: arop1noe_245_275
+---
+## introduction to propensity scoring. Pers. Psychol. 66:407–42
 
-of the relationship between human capital and firm performance. J. Appl. Psychol. 96:443–56
+Connelly CE, Zweig D, Webster J, Trougakos JP. 2012. Knowledge hiding in organizations. J. Organ. Behav.
 
-Cummings JN. 2004. Work groups, structural diversity, and knowledge sharing in a global organization.
-
-Manag. Sci. 50:352–64
-
-Dabbagh N, Kitsantas A. 2012. Personal learning environments, social media, and self-regulated learning:
-
-a natural formula for connecting formal and informal learning. Internet High. Educ. 15:3–8
+33:64–88

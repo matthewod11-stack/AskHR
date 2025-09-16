@@ -1,9 +1,11 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d31ad6c4c97b30b6bf153b65a9ef962ac7c59e28
+title: untitled
+---
+# Harper.
 
-Gewirtz, J. (1969). Mechanisms of social learning: Some roles of stimulation and behavior in early human development. In D. A. Goslin (Ed.), Handbook of socialization theory and research (pp. 157–212). Chicago: Rand McNally.
+Gesell, A., Ilg, F. L., & Ames, L. B. (1956). Youth: The years from
 
-Gibson, E. J., & Walk, R. R. (1960). The “visual cliff.” Scientiﬁc
-
-American, 202, 2–9.
-
-Greenﬁeld, P. M. (1974). Comparing dimension categorization in natural and artiﬁcial contexts: Adevelopmental study among the Zinacantecos of Mexico. Journal of Social Psychology, 2, 157– 171.
+ten to sixteen. New York: Harper.

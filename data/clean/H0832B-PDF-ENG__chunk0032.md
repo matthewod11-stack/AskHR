@@ -1,19 +1,13 @@
-## perspectives, advise on network oﬀerings, and connect with other
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39f646ebffedc06a667fd183191e20f9f8399344
+title: H0832B-PDF-ENG
+---
+## of the BMGF alumni network, shares their advisory board members
 
-alumni to encourage engagement.”
+“serve voluntarily three-year terms, and live and work around the
 
-Although an advisory board can strengthen the broader alumni
+world representing the broader alumni community in geography and
 
-program, it is important to build it with care. To start, leaders should
-
-provide clear guidance about the board’s role and purpose within the
-
-overarching alumni strategy. Without this direction, the company runs
-
-the risk of discouraging board members or making them feel that
-
-their time is not being used productively. It is also important for the
-
-board to be representative of the broader alumni network so that their
-
-recommendations and guidance consider how to engage a wide-range of
+areas of expertise. Our board members provide strategic input and

@@ -1,15 +1,17 @@
-# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a35dbee52eba84c432ab41e2ad5501728c486b6a
+title: H07WED-PDF-ENG
+---
+# outline shortly.
 
-project coordinators or junior project managers, gaining experience in
+In contrast, the career path of a project manager is often characterized
 
-planning, execution, and reporting. Advancement often means taking
+by a more conﬁned, linear progression. They typically begin as
 
-on larger and more complex projects, but the focus remains primarily
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-on project management skills. Project managers also exhibit leadership
+3
 
-skills but primarily within the scope of their projects. Their focus is
-
-on eﬃcient project execution and stakeholder management rather than
-
-broader organizational leadership. While project managers may work on projects across diﬀerent departments, they often have limited exposure
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

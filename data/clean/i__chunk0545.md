@@ -1,15 +1,49 @@
-# cycle within an organization.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 88e1352be8ce6e971438f0156b765bef3fdec921
+title: i
+---
+## 4.4 Elements to Evolution of People Analytics
 
-The narrative suggests that understanding the contributing factors to chaotic or unpredictable
+There are four elements that Fitz-Enz and II Mattox (2014) believe will shape the emerging
 
-processes allows for control. By comprehending and controlling the inputs, organizations can
+trend of PA. The first element authors mention, however, is not Information Technology but
 
-influence the outputs. In the context of the recruiting cycle, this implies that by understanding
+the Finance field, which include Business standards and the assessment of an organization's
 
-and managing the factors contributing to unpredictable hiring and firing patterns, organizations
+value.These standards and valuation act as framework and provides a structured approach for
 
-can mitigate the extremes of overstaffing and understaffing.
+organizations to gather and report data related to talent development within the realm of Human
 
-The ultimate goal is to bring stability to the workforce by controlling these extreme swings,
+Resources. It outlines principles and guidelines for reporting metrics that are essential for
 
-leading to more predictable and manageable outcomes. This control, in turn, has positive
+understanding and managing the development of an organization's workforce. This
+
+standardized approach ensures consistency and uniformity in how organizations measure and
+
+report HR metrics. It also allows for benchmarking, enabling organizations to compare their
+
+performance against industry standards or best practices. This, in turn, facilitates a more
+
+comprehensive understanding of where an organization stands in terms of talent development.
+
+The second element authors emphasize is Mathematics or more accurately the significance of
+
+modeling, particularly in the context of understanding seemingly chaotic situations, such as
+
+those found in organizational processes like the recruiting cycle. The author draws inspiration
+
+from James Gleick's perspective on mathematics, asserting that modeling is essential for
+
+accurately defining a situation. According to Gleick, the primary objective of mathematics is
+
+to unveil the intricate structures concealed within seemingly disorderly streams of data.
+
+The author argues that the scientific exploration of chaotic processes aims to uncover and
+
+define the underlying patterns. Once these patterns or structures are identified, they can be
+
+80
+
+explained. This explanatory step is deemed crucial for any system, including the recruitment

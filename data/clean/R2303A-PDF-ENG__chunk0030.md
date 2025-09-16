@@ -1,5 +1,23 @@
-# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f3b03706b10b721ba69e528080073f86d3be623
+title: R2303A-PDF-ENG
+---
+# initiative from there.
 
-There are no shortcuts to ﬁguring out who will work best in which
+As you build, try to look at your new employees through a parent’s
 
-role. It’s important to consider every applicant who has a disability as a
+eyes. See their untapped potential. Give them opportunities. Keep your
+
+expectations high, but also aﬀord them grace and understanding. Be
+
+their biggest cheerleader. (For what it’s worth, we think this is good
+
+advice for managing people without disabilities too.)
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

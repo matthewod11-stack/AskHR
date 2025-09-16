@@ -1,15 +1,29 @@
-## HBR / Digital Article / Is Your Team Overworking But Underperforming?
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5cf05119949463e9b4a6b89ce89b5facb0fde59b
+title: H07UPN-PDF-ENG
+---
+## on average, the more years general physicians practice medicine, the
 
-that also lead to improvement — engaging in the performance zone and
+worse their patient outcomes become. That’s because many of them
 
-the learning zone at the same time, which I call learning while doing.
+are solely focused on providing care: seeing patients, diagnosing, and
 
-This means leaping beyond what we’ve already mastered — setting
+prescribing as best as they know how. But doctors who continue
 
-challenging goals that push us to the next level, while paying attention
+to engage in eﬀective learning — seeking out and expanding their
 
-to what we can learn and change. You can do this while executing. For
+knowledge and skills, and examining mistakes — continue to improve.
 
-example, try testing whether a new technology or technique you heard
+Most of us don’t have the luxury of devoting signiﬁcant blocks of
 
-about could enable your team to solve customer problems better, faster,
+time every day to learning or practicing a speciﬁc skill. The biggest
+
+opportunity to accelerate our development is to get things done in ways
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

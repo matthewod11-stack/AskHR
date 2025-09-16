@@ -1,19 +1,47 @@
-## company. In a business without family shareholders, an exiting CEO
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9844f4d7dcd898de9897692f4998162b694eef24
+title: H07UQT-PDF-ENG
+---
+## HBR / Digital Article / How to Bring an Outside CEO into the Family Business
 
-typically leaves immediately, or may remain on the board for a short
+the person responsible for the unwise decision may be a family member
 
-period. In a family-owned business, it’s common for an outgoing CEO
+who is still on the board. These dynamics may require the incoming
 
-to stay on as an executive chairman or board member. Indeed, at Gera,
+CEO to be especially diplomatic when oﬀering criticism. The incoming
 
-after Rohit stepped down as CEO, he remained a full-time managing director. Although he vacated the CEO’s oﬃce and moved to a diﬀerent
+CEO should also realize that outgoing CEOs who are family members
 
-part of the headquarters to give his successor literal and ﬁgurative
+(and therefore large stockholders) probably wielded more power than
 
-space, he remained an inﬂuential voice.
+a traditional executive CEO, so questioning decisions made by the
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+outgoing CEO should be done with special care and consideration.
 
-6
+At Gera, the observe stage was when we knew for sure that we had
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hired the right person as our new CEO. Gulzar engaged fully in company
+
+meetings, and while he was willing to advance his proposals through
+
+vigorous debate, he respected and embraced all perspectives (including
+
+those of the controlling family) as a consummate team player.
+
+By the fourth phase, own, your new CEO should be feeling like a leader
+
+and gradually taking over daily management and accountability. The
+
+new leader should be supervising their direct reports and implementing
+
+their own processes for supervising the areas of the company outside
+
+their direct control. As the month progresses, the outgoing CEO should
+
+meet less frequently with the new CEO, and eventually only as needed
+
+Even as the incoming CEO takes the helm, they must have awareness
+
+of how the power dynamics may be diﬀerent in a family-controlled

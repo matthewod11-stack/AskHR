@@ -1,5 +1,21 @@
-# follows:11
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: bf24b49d238c251275082dbf1add006d13f52131
+title: document_resume
+---
+## 2 Method of Instruction Varies method of pre,entation '
 
-The participative approach gives both the subordinate and the superior a means of sharing thoughts about work priorities and expected results. This approach tends to earn the subordinate's commitment to achieve standards and the supei ior's commitment to provide support and resources, The subordinate is not surprised b) the appraisal results, standards are known all along so the subindinate Lan identif) ,,ny variances its they develop and correct the problem before the formal appraisal. Appraisals and feed- back interviews are more objective and less Lontentious because the) are based on specified outcomes in the principal job segments tathet than on personality traits.
+ri( rt,abt, stuotqit interest Uses class lime on subject ;natter Ent ourades student partiipation Demonstrates overall knowlt dge of subject and presents mater al so that it is understood Dv students Encourages students to seek hip after class if needs a
 
-The principal disadvantage of the performanLe standards appioaLh is the amount of time and thought required to discuss job priorities and develop standards fin ail the sig- nificant 1/4,g-ineets of each job It takes effort to agree on performance standards and define them in ch ar and measurable terms. Although time is diffiLult to schedule, it is time well spent ;ills process requires aunistrators to identify, desLribe, and weigh the various job objectives and results.
+3 Presentation of instruction I-)resents ntormation liunntly and precisely and stimulates stud, nts interest Attempts to make instruction d pit asant experience for students
+
+4 Student Evaluation Admin[slors student evaluations ar ( ordind to established
+
+procedures Reviews results and uses fenclbac k to improive tear hibij
+
+Figure 3 8. Performance Standards ft r Instructional Position
+
+Standards should be established through negotiations between the individual or group of subordinates and the superior. ,advocates of performance standards recom- mend that they be written in quantitative terms shen possible. However, as the exam- ples show, some job aspects are difficult to reduce to quantitate e terms, therefore, behavioral statements must be made.
+
+The advantages and disadvantages of the perfonnanLe standards approach are as

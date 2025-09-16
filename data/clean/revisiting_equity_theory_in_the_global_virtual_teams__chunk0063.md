@@ -1,5 +1,7 @@
-# Psychology, Vol. 21 No. 2, pp. 90-108.
-
-Gilli, K., Veglio, V., Gunkel, M. and Taras, V. (2022), “In search of the holy grail in global virtual teams: the mediating role of satisfaction on performance outcomes”, Journal of Business Research, Vol. 146, pp. 325-337.
-
-Herzberg, F., Mausner, B., Peterson, R. and Capwell, D. (1957), Job Attitudes: Review of
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: 53904fa335208146b80082930d1ead35d6f648cd
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+# Foote, D.A. and Harmon, S. (2006), “Measuring equity sensitivity”, Journal of Managerial

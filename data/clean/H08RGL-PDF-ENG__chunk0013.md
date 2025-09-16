@@ -1,65 +1,29 @@
-## HBR / Digital Article / Research: When Help Isn’t Helpful
+---
+source_path: H08RGL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a4b64300e22c553cc83fd0b40030a67b3703410
+title: H08RGL-PDF-ENG
+---
+# How to Make Help More Helpful
 
-subordinates to be open about their struggles and then listen carefully
+So how can organizations improve the quality of help at work? Our
 
-to what they hear. Leaders can focus these conversations around
+ﬁndings oﬀer three concrete lessons:
 
-questions like “what are the obstacles that might prevent you
+- 1. Clarify the Problem
 
-from reaching a goal on time?” and “what would be the expected
+Asking for help requires admitting you have a problem. But it’s a long
 
-deliverable from a colleague you may bring into this project?” When an
+journey from “I feel anxious” to “I know who to ask and what to ask for.”
 
-organization’s projects require creativity and learning, many employees
+For most people, the process of ﬁnding clarity comes from talking it out.
 
-aren’t actually aware of what they need. Formulating the problem and
+Problems—especially in creative work—don’t come neatly packaged
 
-clarifying the help required is an important work task.
-
-Additionally, organizations need to acknowledge that clarifying a
-
-problem is progress. Both givers and receivers who have clarifying
-
-conversations should be praised and recognized. Just as doctors are
-
-valued for their clear and correct diagnoses, so too should leaders and
-
-other help-givers. Sometimes, understanding employees’ struggles is
-
-the most important work that needs to be done.
-
-- 2. Avoid the Politeness Trap
-
-In our research, we found that politeness is a hidden cause of poor-
-
-quality help. Asking for help is akin to asking for a favor, so everyone
-
-wants to do it politely. But sometimes, help-seekers are so deferential
-
-that they make their requests vague, asking for general “input” or
-
-nonspeciﬁc “feedback.” Such “fuzzy asks” can feel polite and deferential
-
-because pointed requests seem too bossy.
-
-But help-givers aren’t mind readers. For any problem, there are a
-
-thousand ways to help. Do you want new ideas that might send you
-
-back to the drawing board? Or are you looking for minor feedback that
-
-you can use quickly? It is possible to do this politely. Your helpers will
-
-appreciate the direction and can be honest with you about whether they
-
-can deliver.
-
-Senior leaders play an important role in making sure that their
-
-employees don’t fall into the politeness trap by fostering an
+when we encounter them. That’s why leaders need to encourage
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

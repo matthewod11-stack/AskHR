@@ -1,9 +1,7 @@
-# Group & Organization Management 0(0)
-
-A ﬁrst step is for the leaders themselves to seek feedback about their effectiveness in being inclusive by observing and promoting meaningful conversation with their group members. Roberson and Perry (2021) found leader availability and openness are key elements of inclusion as leaders listen to and learn from different perspectives. Leaders can also look for signs that they are inclusive or whether they adopt one of the other orientations by observing the behavior of work group members who are from marginalized social identity groups. Do minority members voice their opinions, share their knowledge, and make suggestions for organizational improvement? These are all signs of psychological safety, which is one of the key psychological mechanisms resulting from leader inclusion.
-
-Another area in which a leader can observe signals of their inclusiveness is whether their team is inclusive to everyone, regardless of their social identity. One of the key predictors of work group inclusion is leader inclusion (Chung et al., 2020). Members of a leader’s work group look to the leader for how to act and usually behave in a similar manner (Yaffe & Kark, 2011). If group members behave in ways that support belongingness and value in uniqueness to all group members, then chances are the leader is also consistently dis- playing such behavior. Likewise, if all group members discuss projects and activities by using terms that suggest a deep identiﬁcation with the work group, then the leader is successful in creating an inclusive environment. Terms such as “we” and “our” and speaking proudly of the team and its successes all reﬂect a strong work group identiﬁcation. Identiﬁcation reﬂects in-group membership and a sense of belonging which is a key element of inclusion.
-
-When all employees in a group feel psychologically empowered, odds are that their leader is inclusive. This is particularly important for employees with marginalized social identities as empowerment is something that is not ex- perienced with exclusion, differentiation, and assimilation. When employees feel comfortable conveying theirviews, behavingauthentically without fear of reprisal, and contributing to work-related decisions, they are likely also feeling empowered (Randel et al., 2018). Employees, especially those who are members of identity groups of lower status and power such as women and people of color, are very likely to pay attention to any signs of being in the out-group at work. Treatment that facilitates psychological empowerment provides an inclusive message of being valued and cared about, which is associated with belongingness.
-
-While an inclusive leader may promote strong dyadic relationships with their team members, it is important to recognize the potential limits of these efforts. Through such dyadic relationships, the employee’s sense of psy- chological safety and psychological empowerment is enhanced, and employee
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 5956934c8f7b00b512ad60ecc051f1a696baef7c
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# 22

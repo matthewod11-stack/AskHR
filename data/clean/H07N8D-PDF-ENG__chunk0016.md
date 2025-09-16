@@ -1,9 +1,11 @@
-# Why Do Perspective Swaps Work?
+---
+source_path: H07N8D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 352bf55c5f7333bb1b360bc1033d52d36493ebb4
+title: H07N8D-PDF-ENG
+---
+# work.
 
-At the heart of perspective swaps is the idea that there is always more
+Ultimately, perspective swaps can foster a culture of innovation and
 
-than one way to view a situation. But perspective swaps aren’t just about
-
-ﬁnding new inspiration. They help build “cognitive ﬂexibility” — the
-
-ability to think creatively and adaptively in response to new situations
+empowerment that leads to better outcomes for everyone involved.

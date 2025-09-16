@@ -1,11 +1,17 @@
-# participation in organizational decision making, increase concern for the success and well
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 57f16df5a6503ec740bcf38717047861b6117df0
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## George and Bettenhausen, 1990; Baterman and Organ, 1983; Organ, 1988; Organ and
 
-being of the organization, and assistance and mentoring of colleagues/co-workers (Organ,
+Ryanm 1995; Smith, Organ, and Near, 1983). There is ample evidence to suggest that
 
-1988). These behaviours are particularly important with pivotal positions discussed
+extra-role behaviour has a direct positive effect on organizational effectiveness, work
 
-above. Pivotal positions by their very nature tend to require greater proactive initiatives
+group cohesiveness and a negative relationship with turnover and propensity to leave the
 
-and flexibility to cope with the fast changing environment and timely adaptation to new
+organization (George and Bettenhausen, 1990). The reasons for this are straightforward.
 
-processes and innovations. We argue that work motivation, organizational commitment
+Extra-role behaviour tends to lead to tolerance of less than ideal working conditions,

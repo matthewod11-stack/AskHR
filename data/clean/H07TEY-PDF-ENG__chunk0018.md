@@ -1,7 +1,21 @@
-# inputs of others at the position level.
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2ea9a13c1e9dbd378ed5146a859f8317c083ac5
+title: H07TEY-PDF-ENG
+---
+## than the sought after position level information. Meanwhile, several
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+large consulting ﬁrms oﬀer exclusive access to the aggregated earnings
 
-4
+of their clients, often using proprietary standardized corporate titles.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Most recently, ﬁrms that collect salary information as part of their
+
+core businesses, like ADP, have added user interfaces that make
+
+aggregated, anonymized data accessible as benchmarks. And platforms
+
+like Glassdoor have encouraged millions of users to volunteer their
+
+salary information anonymously in exchange for seeing the average

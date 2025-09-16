@@ -1,9 +1,15 @@
-# critical meaning evaporates.
+---
+source_path: H08TXR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b31898391a73d50c1ca8aa7d553bff4aa8ec38f
+title: H08TXR-PDF-ENG
+---
+## subsequent town halls and leadership meetings, further compression
 
-See more HBR charts in Data & Visuals on HBR.org.
+occurs. While you believe your team has suﬃcient context to ﬁll
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+information gaps, they’re left with fragments of your original vision.
 
-2
+This degradation occurs systematically through what I call
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“communication leak points”—speciﬁc transition moments where

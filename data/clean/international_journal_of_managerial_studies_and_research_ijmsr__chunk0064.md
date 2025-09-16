@@ -1,25 +1,13 @@
-# SA
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: 8ddfd35c2f25edc675960975999bf0e9bff73682
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# us to further education
 
-21 (5.3%) 252 (73.0%) 44 (11.0%) 0
+12 Working environment is friendly
 
-0
+13
 
-0
-
-0
-
-2 (0.5%)
-
-A 8 (2%) 101 (25.3%) 86 (21.5%) 313 (78.3%) 47 (11.8%)
-
-22 (5.5%) 51 (12.8%) 9 (2.3%) 8 (2.0%)
-
-D 62 (15.5%) 196 (49.0%) 18 (4.5%) 43 (10.8%) 221 (55.3%)
-
-84 (21.0%) 156 (39.0%) 386 (96.5%) 389 (97.3%)
-
-SD 330 (82.5%) 82 (20.5%) 4 (1.0%) 0
-
-132 (33.0%)
-
-294 (73.5%) 193 (48.3%) 5 (1.3%) 1 (0.3%)
+I normally receive allowance for special duties and overtime on the job

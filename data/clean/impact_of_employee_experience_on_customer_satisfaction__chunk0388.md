@@ -1,3 +1,9 @@
-# Eotvps University Press, 11-48.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: d801e9eb9a3ff85046aa92ace3494c8aee42e76b
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# https://focus.kornferry.com/employee-engagement/employee-recognition-the-secret- ingredient-to-high-employee-engagement-asean/
 
-Watson, W. T. (2021, 07 21). wtwco.com/employee experience survey. Retrieved 08 12, 2022 https://www.wtwco.com/en-US/Insights/2021/07/2021-employee-experience-
+Veenhoven, R., & Saris, W. E. (1996). A comparative study of satisfaction with life in Europe.

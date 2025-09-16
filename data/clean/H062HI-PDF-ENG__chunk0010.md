@@ -1,19 +1,23 @@
-## track with them, organizations, no matter their size, no matter their
+---
+source_path: H062HI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9039c30e03b6fcdebdf1c751c4935dacfa52c64d
+title: H062HI-PDF-ENG
+---
+## Washington, DC, one of a handful of states and local jurisdictions that
 
-industry, the best-places-to-work type organizations, the ones that have a
+have a public paid leave policy. That closed the deal.
 
-real focus on talent, have tried to extend their paid leave as well.” One of
+Research has found that paid leave policies can help employers recruit top
 
-her female engineer candidates with multiple offers told Klein she
+talent, especially in the highly competitive tech sector. A 2016 Deloitte
 
-speciﬁcally chose the company with the most generous paid leave.
+survey found 77% of employees said that whether a ﬁrm offered paid leave
 
-Paid leave can increase retention, too, especially for women and diverse
+— and the length of it — had some bearing on where they chose to work.
 
-talent. When Google expanded its paid parental leave policy from 12 to 18
+Half said they’d rather have more paid leave than a pay raise. Jaime Klein,
 
-Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
+founder and CEO of Inspire HR, calls it “the Google effect”: “Facebook,
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Google, they’ve started doing these longer paid leaves, and in an effort to

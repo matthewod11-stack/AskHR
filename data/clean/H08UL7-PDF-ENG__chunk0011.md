@@ -1,21 +1,35 @@
-## HBR / Digital Article / Do You Have an Emotionally Intelligent Team?
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7da9e25b30cf3a5c44a06c6cd17254dbb507abc
+title: H08UL7-PDF-ENG
+---
+## Assess Your Team’s Emotional Intelligence
 
-Encourage individual team members to ﬁll this out as well
+The ﬁrst step in acquiring these norms is to understand your
 
-(anonymously works best) so you can learn more about how your team
+team’s current baseline. My colleagues and I have developed a quick
 
-members experience the team’s operations. Team leaders are often the
+assessment that lets you gauge a group’s Team EI, so you can see what
 
-last to know how team members experience their team. This assessment
+changes may improve your culture. As the leader of the team, read each
 
-provides an opportunity to test your assumptions.
+item below, and jot down a score between 1 and 5 for each that reﬂects
 
-Understanding each other better.
+how you perceive the team operates in each area:
 
-- We try to understand one another’s needs.
+- 1. Your team is not actively doing this.
 
-- We work to know the talents and skills of every member in this team.
+- 2. Your team tries but is weak in this area.
 
-- All members of our team are treated with respect.
+- 3. Your team is ok or following this norm sometimes.
 
-- We routinely give one another feedback that can help members learn
+- 4. Your team does this most of the time and you feel it does a good job.
+
+- 5. Your team is especially strong in this area.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

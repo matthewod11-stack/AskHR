@@ -1,21 +1,13 @@
-## the bottom line for many years for my book, Rituals Roadmap. This
+---
+source_path: H076XK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 440335be9d527efd9b1967f4e8c9fcca1a5f9a8b
+title: H076XK-PDF-ENG
+---
+## HBR / Digital Article / The Hidden Power of Workplace Rituals
 
-research has helped me deﬁne rituals using two important benchmarks.
+sensitive, emotional topics. One important way to provide the support
 
-First, rituals go beyond their practical purpose, moving participants
+employees expect is through rituals.
 
-beyond transaction and into meaning. For instance, lighting a candle
-
-when the lights go out isn’t a ritual, but turning oﬀ the lights and
-
-lighting a candle at sundown is. Second, rituals are sorely missed when
-
-they’re taken away.
-
-What follows is one case study from a company that took a risk in real
-
-time and created a successful response to a tragedy, and over time, that
-
-response became a ritual. Here’s how they did it, and how rituals can
-
-improve psychological safety, purpose, and ultimately performance.
+I’ve studied the impact of workplace rituals on individuals, teams, and

@@ -1,7 +1,7 @@
-# and work
-
-recognizing their efforts publicly and privately.”
-
-Acknowledging and accounting for individual needs (e.g., work–life balance, time-off, etc.)
-
-“Asking others to contribute and how they can/want to contribute (and how they want to grow).”
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: cb92183a44c3fe708ff3242a840ee25c0a94c326
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# “Thanking people for their work and

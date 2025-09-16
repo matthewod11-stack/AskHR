@@ -1,19 +1,19 @@
-## Intangible Capital – http://dx.doi.org/10.3926/ic.586
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: f5b8aef96481b348b87636c5628cd3747ef5711c
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## American Sociological Review, 43: 721-739. http://dx.doi.org/10.2307/2094546
 
-DIEDRICH, R. (1996). An iterative approach to executive coaching. Consulting Psychology
+CROPANZANO, R.; MITCHELL, M.S. (2005). Social Exchange Theory: An Interdisciplinary
 
-Journal, 48(2): 61-66. http://dx.doi.org/10.1037/1061-4087.48.2.61
+Review. Journal of Management, 31(6): 874-900. http://dx.doi.org/10.1177/0149206305279602
 
-ELLINGER, A.D.; ELLINGER, A.E.; KELLER, S. (2003). Supervising coaching behavior, employee
+DATTA, D.K.; GUTHRIE, J.P.; WRIGHT, P.M. (2005). Human resource management and labor
 
-satisfaction and warehouse employee performance. Human Resource Development
+productivity: does industry matter?. Academy of Management Journal, 48(1): 135-152.
 
-Quarterly, 14(4): 435-458. http://dx.doi.org/10.1002/hrdq.1078
+http://dx.doi.org/10.5465/AMJ.2005.15993158
 
-ELY, K.; ZACCARO, S.J. (2010). Evaluating the Effectiveness of Coaching: A Focus on
-
-Stakeholders, Criteria, and Data Collection Methods. In G. Hernez-Broome & L. Boyce
-
-(Eds.). Advancing Executive Coaching (pp. 317-349). San Francisco: Jossey-Bass.
-
-http://dx.doi.org/10.1002/9781118255995.ch12
+-184-

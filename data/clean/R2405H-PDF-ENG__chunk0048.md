@@ -1,7 +1,15 @@
-# mail.
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b090abd80961bf23a521837245d71d6fd573ff03
+title: R2405H-PDF-ENG
+---
+## diabetes, seizures, schizophrenia, depression, and bipolar disorder. By
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+proactively identifying inmates who did not receive medicines on time
 
-10
+and correcting the oversight, leadership has minimized the likelihood
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of harmful medical incidents. Finally, to reduce the smuggling of
+
+contraband such as drug-laced paper through the mail, the sheriﬀ’s oﬃce has implemented technology to digitize and scan all incoming

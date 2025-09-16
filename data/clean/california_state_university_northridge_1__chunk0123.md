@@ -1,9 +1,7 @@
-## The Model Employment Termination Act (META) is designed to protect nearly
-
-two thirds of the American work force from at will discharge. It seeks to reduce
-
-employees' wrongful termination settlements by eliminating compensatory and punitive
-
-damages. Also by providing limited protection to employees that they may not otherwise
-
-be able to afford and or beyond their scope. META suggests using arbitration as a
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 3e1006a47a082a902bb49c0865fc1ef108b3526a
+title: california_state_university_northridge_1
+---
+# Model Employment Termination Act

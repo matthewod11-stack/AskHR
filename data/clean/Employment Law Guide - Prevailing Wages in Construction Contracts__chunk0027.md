@@ -1,13 +1,35 @@
-# or their cash equivalents;
+---
+source_path: Employment Law Guide - Prevailing Wages in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: febe03c055bc4e540c9681ea0fef1b24d284dafa
+title: Employment Law Guide - Prevailing Wages in Construction Contracts
+---
+# Worker Rights
 
-Daily and weekly numbers of hours actually worked in total and on each covered contract;
+The Davis-Bacon and Related Acts (DBRA) provide laborers and mechanics on covered contracts the right to
 
-Deductions made; Actual wages paid;
+receive at least the locally prevailing wages (including fringe beneﬁts), as determined by the Department of
 
-Detailed information regarding bona ﬁde fringe beneﬁt plans and programs, including records that show
+Labor, for the type of work performed. The Wage and Hour Division and contracting agencies accept complaints of alleged DBRA violations.
 
-that the plan or program has been communicated in writing to the laborers and mechanics aﬀected; and
+It is prohibited to retaliate against workers or job applicants for engaging in protected activities such as
 
-If applicable, detailed information regarding approved apprenticeship programs.
+making a complaint or cooperating in a WHD investigation under the DBRA.
 
-Some of the records required to be kept under the DBRA are also required under the Fair Labor Standards Act. See Wage and Hour Division Fact sheet #21: Recordkeeping Requirements under the Fair Labor
+Every contractor performing work covered by the Davis-Bacon labor standards must post the WH-1321 "Worker Rights Under the Davis-Bacon Act" poster at the site of the work in a prominent and accessible place
+
+where it may be easily seen by workers. The applicable DBRA wage determination, including any conformed
+
+classiﬁcations, must be similarly posted.
+
+Under the Davis-Bacon and Related Acts (DBRA), contractors must maintain records for all laborers and
+
+mechanics during the course of the work and preserve the required records for a period of three years after all
+
+the work on the prime contract is completed. Required records must include the following information for each
+
+covered worker:
+
+Name, address, telephone number, email address, and social security number; Correct classiﬁcation(s) of work actually performed;
+
+Hourly rates of wages paid, including rates of contributions or costs anticipated for bona ﬁde fringe beneﬁts

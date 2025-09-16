@@ -1,21 +1,45 @@
-# Adverse Impact
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 536b454d4038ad16c2b3748a453074f43d24955f
+title: industrial_organizational_psychology_an_applied_approach
+---
+# m
 
-The first step in determining a test’s potential bias is finding out whether it will result in adverse impact. There are two basic ways to determine this: looking at test results or anticipating adverse impact prior to the test. As mentioned in Chapter , adverse impact occurs if the selection rate for any group is less than % of the highest scoring group (practical significance) and the difference is sta- tistically significant (statistical significance).
+1.00 .90 .80 .70 .60 .50 .40 .30 .20 .10 .05
 
-Though determining the adverse impact of a test seems simple—which is done by comparing the hiring rates (hires ÷ applicants) of two groups—the actual nuts and bolts of the calculations can get complicated, and it is common that plaintiffs and defendants disagree on who is considered an “applicant” and who is considered a “hire.” For example, as shown in Table ., if a person applying for a job does not meet the minimum qualifications, he is not considered as an applicant in adverse impact calculations. For example, if a plumber applies for a job as a brain surgeon, he clearly lacks the minimum qualifications for the job—a medical degree.
-
-There are three criteria for a minimum qualification: it must be needed to perform the job, and not merely be a preference; it must be formally identified and communicated prior to the start of the selection process; and it must be con- sistently applied. As you can imagine, with such criteria, there is much room for disagreement. Your CD-ROM contains data that you can use to compute adverse impact and determine who is an applicant and who should be counted as a hire/ offer.
-
-Remember that a legal defense for adverse impact is job relatedness and that a valid test is a job-related test. Thus, even if the test has adverse impact, it probably will be considered a legal test.
-
-But even though the test might be considered valid, an organization still might not want to use it. If a test results in adverse impact, the organization may have to go to court to defend itself. Even though a valid test will probably allow the organization to win the case, going to court is expensive. Thus, if the utility of the test is low, potential court costs will outweigh the minimal savings to the organization. Furthermore, a test with adverse impact will lead to poor public relations with minority communities, which could hurt recruitment or marketing efforts by the organization.
-
-Using the % rule to determine a test’s fairness means that an organization must wait until it has used the test to select employees, at which time damage
+0.00 0.20 0.35 0.50 0.64 0.80 0.97 1.17 1.40 1.76 2.08
 
 evaluating selection techniques and decisions
 
-225
+223
 
-226
+This means that after accounting for the cost of testing, using this particu- lar test instead of selecting employees by chance will save a company $, over the  years that auditors typically stay with the organization. Because a com- pany seldom selects employees by chance, the same formula should be used with the validity of the test (interview, psychological test, references, and so on) that the company currently uses. The result of this computation should then be sub- tracted from the first.
+
+This final figure, of course, is just an estimate based on the assumption that the highest-scoring applicants accept the job offer. To be most accurate, it must be adjusted by such factors as variable costs, discounting, corporate tax rates, and changes in strategic goals (Boudreau, ; Russell, Colella, & Bobko, ). Because utility estimates are often in the millions of dollars, there has been con- cern that managers may not believe the estimates. However, research indicates that managers positively view utility estimates, and thus these estimates can be used to support the usefulness of testing (Carson, Becker, & Henderson, ; Hoff Macan & Foster, ). When one considers the costs of constant poor per- formance, the size of these estimates should not be surprising. The high estimated savings are even more believable when one considers the cost of one employee’s mistake. For example:
+
+7
+
+7
+
+7
+
+An employee of Oxford Organics Inc. mislabeled an artificial vanilla flavoring sent to General Mills, resulting in $, in damaged cake frosting. A Navy mechanic left a -inch wrench inside the wheel compartment of a jet, causing the $ million plane to crash. A typo in a letter by a car dealer told customers to call a  number instead of an  number. The  number turned out to be a sex line, and the dealership had to send out an additional , letters to apologize and correct the mistake.
+
+Thus, the cost of daily poor performance, combined with the cost of occasional
+
+mistakes such as these, provides support for the validity of high utility estimates.
+
+Though utility formulas are useful means for decision making, it should be noted that not all managers trust the results of utility formulas and thus other means for demonstrating validity might be needed. Such methods include bench- marking studies to show that what your organization is doing is a “best practice”; studies looking at applicant and employee reactions to demonstrate that your “clients” feel comfortable with your testing practices (face validity); data indicat- ing that your new hires are successful (e.g., performance ratings, tenure, supervi- sor comments); data indicating that the results of hiring decisions are consistent with the organization’s affirmative action and diversity goals; and data indicating that the hiring process is meeting the organization’s goals for filling positions in a timely manner with competent employees. To help you understand the utility tables and formulas, complete Exercises . and . in your workbook.
+
+Determining the Fairness of a Test
+
+Once a test has been determined to be reliable and valid and to have utility for an organization, the next step is to ensure that the test is fair and unbiased. Although the terms fair and unbiased appear to be similar and do overlap, they have very
+
+224
 
 chapter 
+
+different meanings. The term bias or unbiased refers to technical aspects of a test. A test is considered biased if there are group differences (e.g., sex, race, or age) in test scores that are unrelated to the construct being measured. For example, if race differences on a test of logic are due to vocabulary words found more often in the White than the African American culture, the test might be considered biased.
+
+The term fairness can include bias, but also includes political and social issues. Typically, a test is considered fair if people of equal probability of suc- cess on a job have an equal chance of being hired. Though some people argue that a test is unfair if members of a protected class score lower than the majority (e.g., Whites, men), most I/O psychologists agree that a test is fair if it can predict performance equally well for all races, genders, and national origins.

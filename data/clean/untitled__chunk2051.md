@@ -1,5 +1,9 @@
-# Summary
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f530fa6a8d2f706e734004cc00f3a631d587a341
+title: untitled
+---
+# Moving Ahead
 
-APA-accredited doctoral programs (APA, 2000), and two major journals (The Journal of Counseling Psychology and The Counseling Psychologist). Counseling psychologists are found in higher education, industry, government, and health care (private and nonproﬁt). As an organization, counseling psychology has a uniﬁed existence within Division 17, which provides a forum for debate, sets policy through coordinated meetings and conferences, reorganizes itself to the demands of the times, and recognizes its members through a variety of awards and honors (Blocher, 2000; Meara & Myers, 1999). Since its inception, the division has worked on the issue of identity, the most recent deﬁnition of counseling psychology appearing in 1998 (APA, 1999):
-
-Counseling psychology is a general practice and health service- provider specialty in professional psychology. It focuses upon personal and interpersonal functioning across the life span and on emotional, social, vocational, educational, health-related, de- velopmental and organizational concerns. Counseling psychol- ogy centers on typical or normal developmental issues as well as atypical or disordered development as it applies to human expe- rience from individual, family, group, systems, and organiza- tional perspectives. Counseling psychologists help people with physical, emotional and mental disorders improve well being, alleviate distress and maladjustment, and resolve crises. In addi- tion, practitioners in the professional specialty provide assess- ment, diagnosis and treatment of psychopathology. (p. 589)
+However, it was not that simple. The expansion of private practice, a decline in federal support of training and research, and retrenchment in academia contributed to continued self- doubt and a lingering unease about the future and direction of counseling psychology. Whiteley and Fretz (1980) invited a distinguished cohort to comment on the future of counseling psychology, and the forecast was gloomy. Counseling psy- chology’s lack of a clear identiﬁcation with a particular role, function, or setting made it difﬁcult for many of the contri- butors to see a future that made any sense. But in spite of decades of an entrenched identity crisis, the division has grown.There are over 2,500 members (APA, 2001), 67 active

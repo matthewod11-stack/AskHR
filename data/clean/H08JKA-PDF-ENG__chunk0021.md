@@ -1,21 +1,33 @@
-## the impact of its long-running leadership development program on
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9eaa3652c247375bfcd9ecb406bc2e902036407
+title: H08JKA-PDF-ENG
+---
+# HBR / Digital Article / Connect Your Learning Programs to Your Company’s Strategy
 
-participants’ long-term career progression. The company created a
+One more outcome-based approach is to focus on productivity metrics that quantify improvements in speed and eﬀectiveness. For example,
 
-talent and performance dashboard that tracks performance, promotion
+the CLO of a large luxury goods company described a learning initiative
 
-rates, and turnover. Within two to three years, participants in the
+that was designed to boost sales from online channels. The program
 
-leadership development program have generally moved to a more
+played out over eight months and included webinars, project work, and
 
-complex role, and their direct reports have higher promotion rates,
+self-paced material, culminating in a two-day hackathon to identify
 
-according to Andreina González, Nestlé’s global learning partner.
+solutions for a speciﬁc challenge the business was facing. One team
 
-The CLOs I spoke with also noted the importance of regularly reviewing
+focused on improving the search bounce rate, a crucial measure of the
 
-learning KPIs with stakeholders. James Fulton, the head of Pine Street,
+number of people who arrive on a product’s website from a search
 
-Goldman Sachs’ leadership development practice, says his team “has
+engine and then leave quickly. The lower the bounce rate, the more
 
-a clear set of 18 KPIs which we review every two months with the
+likely the customer will buy something. Four months after the program,
+
+the company saw a signiﬁcant improvement in the bounce rate, easily
+
+justifying the cost of the training program.
+
+Another approach is to apply a longitudinal perspective. Nestlé assesses

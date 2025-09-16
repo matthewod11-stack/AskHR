@@ -1,13 +1,7 @@
-# Product design leaders should:
-
-- Replace generational stereotypes with behavioral segmentation,
-
-building strategies around what motivates people to take action or
-
-make a purchase, or marketing around speciﬁc life events, like having
-
-a child. McKinsey & Company found that companies using behavioral
-
-and psychographic segmentation in their marketing campaigns saw
-
-returns up to three times higher than those relying solely on
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21ec43dfbfe8b7ddb518ee231bf1e4cc1caeb743
+title: H08TZO-PDF-ENG
+---
+## abilities, life stages, and preferences from the start.

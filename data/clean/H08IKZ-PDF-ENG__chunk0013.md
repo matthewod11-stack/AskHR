@@ -1,21 +1,19 @@
-# lodging.
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1473497633e9a4873cfe308eee8a69b8c12b8d1f
+title: H08IKZ-PDF-ENG
+---
+# services, or electric scooters.
 
-- 4. Selecting data sources.
+All ﬁrms are built on an act of imagination. For instance, Airbnb’s
 
-Assessing your options can beneﬁt from relevant data. But even though
+founders envisioned a platform where homeowners could rent out spare
 
-the word data derives from the Latin “datum” (something that is given),
+rooms — upending the belief of leading hospitality companies that
 
-data needs to be created: captured, ﬁltered, selected, interpreted and
+you had to build or own the accommodations oﬀered to customers.
 
-corrected — a task that requires human agency and discernment.
+This idea didn’t emerge from analysis of existing hospitality data, but
 
-We must avoid the trap of focusing only on given or easily
-
-accessible data. In our car-purchasing scenario, relying solely on manufacturer-provided fuel-eﬃciency data may not provide the
-
-complete picture. Supplementing this with independent reviews of real-
-
-world performance can lead to a more informed decision.
-
-In business, think of the ease with which we can query current
+from humans imagining how they could address the need for aﬀordable

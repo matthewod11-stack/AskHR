@@ -1,13 +1,13 @@
-## HBR / Digital Article / The Business Case for Love
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24b5c21dad2337597ba740742f45a6b169bbbe84
+title: H07US4-PDF-ENG
+---
+# as a great place.
 
-The same applies to customers. I know a ﬁlm studio executive who says
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-that when he’s screen-testing his latest movie, what he’s listening for
+2
 
-isn’t “I really enjoyed that” or “I thought it was great.” He pays attention
-
-only to how many times he hears someone spontaneously say, “I loved
-
-it!” Because only then can he be sure that this person will tell others
-
-to go see the movie — and even go back themselves to see it multiple
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,7 @@
-# Time orientation
-
-Many organizations use forms very similar to those presented in Figures 6.1 and 6.2. Acareful analysis of these forms against the desired features indicates that the forms, particularly the one shown in Figure 6.2, could be improved substantially. An important
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: f1ce5f82156105d54b66577c4e86ecee09ffaef9
+title: performance_management_3rd_edition_by_aguinis
+---
+# Communication

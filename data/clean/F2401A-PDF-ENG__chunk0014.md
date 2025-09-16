@@ -1,21 +1,19 @@
-## HBR / Magazine Article / Lessons from Large Family Firms About Choosing a CEO
+---
+source_path: F2401A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c091816db25543213859b9ffa41da8f5cc7a87b6
+title: F2401A-PDF-ENG
+---
+## equal chance of top cash-ﬂow performance and less chance of inferior
 
-than nonfamily directors typically do on what their organization really
+performance than did external hires at nonfamily ﬁrms.
 
-needs. And work by other scholars has shown that one of the most
+Several factors contribute to the diﬀerence, the researchers say. As
 
-important predictors of competence in interviewing and assessing
+noted, long-term family directors have a broader and deeper perspective
 
-candidates is motivation. It stands to reason that a family member,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-who usually has more skin in the game, would have an especially
+3
 
-strong incentive to get this critical choice right. Think, for example, of
-
-William Ford’s intense involvement in the CEO search that led to the
-
-hiring of Alan Mulally, who returned the car company to proﬁtability
-
-after his appointment, in 2006. Bringing on some deeply committed
-
-board members for long tenures can help nonfamily ﬁrms with external
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

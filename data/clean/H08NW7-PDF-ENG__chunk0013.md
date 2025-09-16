@@ -1,11 +1,11 @@
-# Limited long-term success
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 368f86f805f719fe1cef1f8dfbf3726f7855e2c3
+title: H08NW7-PDF-ENG
+---
+## leads to feelings of shame and a deeper sense of inadequacy, which
 
-While faking it may provide short-term gains, sustainable success
+in turn intensiﬁes your need to double down on using an exaggerated
 
-is built on genuine competence and character. Those who rely on
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+version of yourself to purchase the regard of others. It’s a vicious cycle.

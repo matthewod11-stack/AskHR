@@ -1,7 +1,13 @@
-## just-discovered product ﬂaws, and the unpredictable reactions that
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 338d160dffa2dc0d6f0eea9f1ae3cf6922e8e0f6
+title: S24012-PDF-ENG
+---
+## in stock price; surprise moves by competitors, suppliers, and regulators;
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+or macroeconomic developments such as rising interest rates or major
 
-2
+geopolitical changes. CEOs also continually face unforeseen internal
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+events: workplace accidents, employee unrest, sudden resignations,

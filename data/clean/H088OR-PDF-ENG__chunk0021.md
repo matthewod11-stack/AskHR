@@ -1,13 +1,27 @@
-## HBR / Digital Article / Hybrid Work Has Changed Meetings Forever
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e8f1d50fb4af2b0183bf44fbd66888088fc483f
+title: H088OR-PDF-ENG
+---
+## of approximately 40,000, in 2022 the cost of no-participation meeting
 
-also tied to increased fatigue and other negative outcomes. From 2022
+attendance was $10.2 million per organization. In 2023, that number
 
-to 2023, camera enablement rates fell slightly for each meeting type. In
+rose to $19.1 million.
 
-a similar analysis from 2022 (with certain takeaways published here),
+Participants are enabling their cameras less often.
 
-we saw slight increases in this rate over a three-year period. While the
+During most meetings, participants can choose whether to enable their
 
-reduction of a couple percentage points isn’t dramatic, it does represent
+camera to appear on video. Doing so is commonly encouraged, as it
 
-the ﬁrst downward trend we’ve seen for this metric.
+can increase the quality of communication and is often preferred by
+
+management. At the same time, frequent use of front-facing cameras is
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

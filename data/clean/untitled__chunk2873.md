@@ -1,5 +1,7 @@
-## The Brazilian Boletim de Psicologia was introduced in São Paulo.
-
-The ﬁrst postwar German-language journal, Psychologische Rundschau, was published.
-
-Applied Psychology: An International Review began publication under the auspices of the International Association of Applied Psychology.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f9edfafd1a0e8d2ef0402c15a0999bacd8d805f2
+title: untitled
+---
+# Publications

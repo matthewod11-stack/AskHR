@@ -1,7 +1,17 @@
-# years?
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9841b58db407adb4a157ce1edca2b546475cae2
+title: H07SHV-PDF-ENG
+---
+# Atlantic.
 
-- The two traits of those who ﬁnd true happiness in their work
+For this episode of our video series “The New World of Work”, HBR
 
-- The diﬀerence between “deal friends” and “real friends”. The
+editor in chief Adi Ignatius sat down with Brooks, co-author (with Oprah
 
-real kind are “beautifully useless” and you need them more than deal
+Winfrey) of the forthcoming book, Build the Life You Want: The Art and
+
+Science of Getting Happier, to discuss:
+
+- What’s caused the severe dip in general happiness in the last few

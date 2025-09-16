@@ -1,9 +1,11 @@
-## your work? When Marcus Buckingham and Ashley Goodall crunched
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 989cdde812674fa006a9d207882f06821ed99d2b
+title: R2401G-PDF-ENG
+---
+# clients’ frustration.
 
-the numbers at the global services ﬁrm Deloitte, they discovered that
+Calculate the burdens of performance measurement. Are you spending
 
-the 65,000 employees were collectively spending nearly 2 million hours
-
-a year on performance management—completing the forms, attending
-
-meetings, and creating the ratings (see “Reinventing Performance
+so much time evaluating one another that you don’t have time to do

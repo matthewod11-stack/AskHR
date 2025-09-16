@@ -1,11 +1,39 @@
-# data and a request for more funding.
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a880e4691b321fb96c2df0206f7c294cc3048e3e
+title: H082HH-PDF-ENG
+---
+## HBR / Digital Article / The Missing Link Between Strategy and Innovation
 
-Walmart’s innovation that let customers shop by text, dubbed
+agenda should be greenlit — i.e., given an initial round of funding or
 
-“Jet black,” showed early product-market ﬁt. Customers loved the
+added to a backlog of ventures to try next.
 
-experience and started to switch from ordering on Amazon. But with
+- 4. Rapidly validate through experimentation.
 
-further testing, Walmart found no path to deliver a scalable, proﬁtable
+For greenlit ideas, your next step is to deﬁne the key business model
 
-oﬀering. The innovation was shut down and learning shared within the
+hypotheses and conduct quick, low-cost experiments to validate them.
+
+Who is the optimal customer? How do they experience the problem you
+
+are solving for? Does your solution drive adoption? Can you deliver it at
+
+scale? Do you have any competitive advantage? Can you capture value
+
+and turn a proﬁt?
+
+When Walmart began to focus on online groceries, it launched pilots
+
+for a variety of diﬀerent approaches to the same problem. It learned
+
+that some delivery models scaled better than others. It also found that
+
+customers preferred an annual fee to a charge per delivery, and that
+
+price was critical to customer adoption.
+
+- 5. Scale up the few that work and quickly shutter the majority that don’t. Funding of new innovations must be iterative as well. Every team whose
+
+idea is approved should be required to return in 90 days with market

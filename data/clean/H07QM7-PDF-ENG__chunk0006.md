@@ -1,9 +1,9 @@
-## surprise that a scarcity of trust among leaders for their employees
+---
+source_path: H07QM7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 332ab819553b6b78cec352e7aaadc8dd54490221
+title: H07QM7-PDF-ENG
+---
+# someone on their team.
 
-is now at an all-time high, a perspective conﬁrmed in the recently
-
-published Microsoft Work Trends Index. Lack of trust in an employee
-
-leads to troublesome outcomes. It can cause leaders to feel anxious
-
-and frustrated, hesitant to delegate, and prone to micromanaging.
+In this unique age of remote and hybrid work, it’s perhaps no

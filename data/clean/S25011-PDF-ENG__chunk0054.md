@@ -1,11 +1,17 @@
-# about AI.
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa9fa6b0c17cfec2d5e957604b36f08a6b46b3ba
+title: S25011-PDF-ENG
+---
+## virtuous cycle of better data, easier technology implementation, and
 
-Executives need to think broadly about how people, data, technology,
+productivity gains has increased the payoﬀs, while numerous new
 
-AI, and analytics come together to improve business performance.
+technologies now make the work faster and easier. And though the focus
 
-Process needs to lie at the core. After all, it’s through processes that
+on process has fallen out of favor, those who’ve maintained it have
 
-organizations deliver value. It’s time for senior managers to put process
+reaped the beneﬁts. We believe that all companies should give process
 
-back on their radar screens and begin to sort out how to make it better in
+management a hard look and that it’s essential for ﬁrms that are serious

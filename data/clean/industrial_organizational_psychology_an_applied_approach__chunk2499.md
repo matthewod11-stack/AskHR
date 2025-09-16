@@ -1,19 +1,7 @@
-# Very Sat.
-
-1.
-
-Being able to keep busy all the time
-
-2.
-
-The chance to work alone on the job
-
-3.
-
-The chance to do different things from time to time
-
-4.
-
-The chance to be “somebody” in the community
-
-5.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e87428f2f07f24f58ff8c0f994b0384bb94462dc
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Sat.

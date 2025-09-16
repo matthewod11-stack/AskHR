@@ -1,23 +1,15 @@
-# hold events, etc.
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 428e309df444b74970b2ef825333f543aeb2ba7a
+title: H06XTG-PDF-ENG
+---
+## On the sales team, managers both at headquarters and in local oﬃces
 
-Marketing took a slightly diﬀerent approach: Leadership decided that
+agreed that if a customer from the Chinese market was a global
 
-the local team should entirely develop its own marketing strategies, since eﬀective user acquisition strategies were very diﬀerent in the U.S.
+customer, the home oﬃce would take the lead, with the local team
 
-and Chinese markets. They decided that to ensure speed and agility, the
+providing support. But if a customer was local, the China team would
 
-local team shouldn’t have to consult with the home oﬃce before making
-
-marketing decisions, as long as they stayed within the approved budget
-
-and reported on the return on these investments.
-
-Conversely, on the product front, the company determined that less
-
-autonomy was needed. Since the China market used the same product
-
-as other markets, the product team was centralized at the home oﬃce.
-
-However, a few engineers were assigned to focus on requests from
-
-the Chinese market in order to meet location-speciﬁc needs for new
+handle it themselves, and would have the authority to decide on prices,

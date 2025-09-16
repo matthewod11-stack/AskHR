@@ -1,19 +1,13 @@
-# this.
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bdacd789bad30737b5826a7e8d13da35dff232a
+title: H08MZQ-PDF-ENG
+---
+## the ideal of inclusion reach toward fairness: a system where eﬀort and
 
-Consider Brian. Brian is brilliant. He completed a double major in
+ability—not arbitrary barriers—determine success at work. Yet in our
 
-computer science and math in three years. His performance on pattern-
+less-than-ideal world, we’re falling short of this goal. Many stories I’ve
 
-recognition tests had previously been considered impossible. He seems
-
-to be an ideal ﬁt for the cybersecurity jobs he’s passionate about—but
-
-he can’t get one. Why? The typical interview format of rapid-ﬁre of
-
-questions—including “weird” inquiries like what animal he would be or
-
-whether he prefers golf or tennis—ﬁlters him out. Not his skill. Not his
-
-talent. Instead, the problem is a ﬂawed hiring process with overreliance
-
-on interviews—a measurement that lacks validity, particularly for
+encountered in my global neurodiversity and disability work illustrate

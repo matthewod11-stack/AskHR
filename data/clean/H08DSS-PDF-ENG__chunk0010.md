@@ -1,27 +1,29 @@
-## HBR / Digital Article / How to Kickstart Your Post-Summer Career Development
+---
+source_path: H08DSS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f941d428c3252f2ddcde29bde8a05635f188546
+title: H08DSS-PDF-ENG
+---
+# more?
 
-- 2. Connect with a learning community
+- What do I want to be true about my impact in three months’ time?
 
-It’s much easier to prioritize your development when you’re not trying
+- Who am I learning from?
 
-to do it on your own. When you learn with other people, not only are you
+- What haven’t I done before that I would like to try out?
 
-more likely to stick to what you start, but the learning gain is more likely
+- What am I curious to learn more about?
 
-to be retained.
+Here are a few example growth goals:
 
-Community learning is eﬃcient and eﬀective, which makes it a great
+- To lead my ﬁrst global project in the next six months
 
-use of your time when you’re trying to ﬁt professional development into
+- To improve my presentation skills and use them in more situations
 
-your busy workweek. A learning community is simply a small group of
+- To develop my coaching capability and use it to support my colleagues
 
-people who are connected by their curiosity and shared interest in a
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-speciﬁc topic. For example, it could be a group of people who want to
+2
 
-learn about design thinking or who want to develop management skills.
-
-There’s no limit to what a group can learn about, and if one doesn’t
-
-exist for your area of interest, you can easily start one from scratch. For
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

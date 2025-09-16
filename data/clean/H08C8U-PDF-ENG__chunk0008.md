@@ -1,11 +1,21 @@
-## In short, relative targets too often waste valuable time in discussions
+---
+source_path: H08C8U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2cec98f57a9cb25606567b4e226f42ebf24eaf30
+title: H08C8U-PDF-ENG
+---
+# the opportunity.
 
-around the targets themselves, rather than focusing leadership’s time
+- Sand-bagging negotiations around the targets. Even when the
 
-on identifying new and better options to improve performance.
+baseline is undisputed, leaders may deliberately understate the
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+potential for performance improvement to secure lower targets. This
 
-3
+often manifests in debates over the applicability of benchmarks or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+statements regarding the limitations the company faces given its
+
+strategy. Haggling over targets takes precedence over ﬁnding ways to
+
+improve performance.

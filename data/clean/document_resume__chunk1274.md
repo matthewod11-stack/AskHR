@@ -1,7 +1,7 @@
-# Performance Appraisal
-
-4.
-
-Interpersonal Communications Communicates and interfaces with colleagues and administration both on a one-on-one basis, in faculty committees, and in other group settings.
-
-5 Exceptional Assumes proactive leadership role in all types of situations by providing innovative solutions and inspiration to others. Carries out and follows up on assignments. Resolves conflicts even in stressful situations. Is highly regarded and influential among colleagues.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 69db2fcff6d8096d1fe82345e16c702c069e46e7
+title: document_resume
+---
+# 150

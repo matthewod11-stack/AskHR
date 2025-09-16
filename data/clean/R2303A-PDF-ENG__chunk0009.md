@@ -1,15 +1,15 @@
-# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20d3bcce3590ba018e8bcf03a244e9d1b7b5790f
+title: R2303A-PDF-ENG
+---
+## the University of Cincinnati College-Conservatory of Music while in our
 
-graduation we got married and moved to New York for a while to make
+twenties. Ben had already appeared on Broadway in his teens, so after
 
-a go of show business. We had the good fortune to perform together on
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Broadway in State Fair, but we soon decided that as we started having
+2
 
-children, we wanted to be closer to family in North Carolina. There
-
-we both went to work for Amy’s dad, who owned a precision sheet-
-
-metal fabrication company, and got an education in operations and
-
-manufacturing. Meanwhile, Amy’s entrepreneurial spirit manifested
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

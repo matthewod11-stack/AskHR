@@ -1,9 +1,37 @@
-# HBR / Digital Article / 4 Signs That Someone in Your Network Is Taking Advantage of Y…
+---
+source_path: H08U54-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 510d467c14d84fc0d445cfc9388857b47e698ff4
+title: H08U54-PDF-ENG
+---
+# time and energy.
 
-- 3. Lopsided requests to collaborate
+- 2. Insincere praise
 
-Some people like to propose “collaborations”—to coauthor an
+It’s nice to be told we’re brilliant or insightful or thoughtful—but not
 
-article, jointly present at a conference, or co-host a workshop, for
+when it becomes clear, moments later, that the compliment is merely
 
-instance. Yet if you dig beneath the surface, sometimes the oﬀer is
+the prelude to an ask. This is a form of manipulation—a misuse of the
+
+reciprocity principle that psychologist and author Robert Cialdini has
+
+identiﬁed as a lever of inﬂuence (“They were nice to me, so I should be
+
+nice to them in return by doing them this favor”).
+
+Try to resist this very human reﬂex, as it will likely only lead to future
+
+requests. Thank them for the kind words, but feel free to decline. You
+
+don’t owe them anything as a result of their compliment. “I’m focused on
+
+other priorities right now,” you could say, or “Thank you, but this doesn’t
+
+align with my goals.”
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

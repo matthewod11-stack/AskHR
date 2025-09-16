@@ -1,3 +1,11 @@
-# Instructional Planning Makes necessary preparations for classroom lectures, demonstrations or laboratory presentations.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 25d846bddbcf534c0c21b31612ac3495d331cb70
+title: document_resume
+---
+# 1 Unacceptable Misses or
 
-5 Exceptional Develops, maintains, and previews additional resources, such as films or tapes for reference, timing, and quality. Utilizes a variety of teaching methods and aids. Promotes sophisticated inquiry techniques and provides problem solving experiences emphasizing key concepts. Instructional time is optimally planned for benefit of students.
+irregularly attends divisional planning meetings. Assumes minimal or no responsibility for completing course out- lines. Demonstrates limited interest in using textbooks or other resources.
+
+2.

@@ -1,31 +1,23 @@
-# content.
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e179e5fbdd06d8efaae68d0d1a2066fc725b273
+title: H06SBB-PDF-ENG
+---
+# HBR / Digital Article / IDEO’s CEO, Sandy Speicher, Asks: What Is an Office Even For N…
 
-So we did a lot to really say, how are we still connected? How do we
+is we thought about how do we bring everybody together in the ways
 
-still maintain our culture even through this distributed format? And of
+we used to, right? So we used to be able to walk through our space and
 
-course, as time has gone on, we’re are all a little exhausted by Zoom.
+see the work that everyone was doing. So we ended up creating this
 
-We’re all a little bit tired of this environment. It’s actually quite hard to
+event we called the Frenzy, which was four-days-long event, basically
 
-maintain the spirit of that culture.
+24-hours-a-day rolling across multiple time zones, because we’re all
 
-So there are some things that we did for that. For instance, in our
+around the world, where people were sharing content, where we had
 
-Tokyo office, they did something really beautiful where they recognized
+times where people came together, times where people could sign up for
 
-that even though we can’t be all in the office together, we could be
-
-individually. So they decided to create a group art installation where
-
-individuals made different art pieces, went into the office and installed
-
-them, and then people could sign up to come through the whole gallery
-
-and experience each other in a different type of distributed way.
-
-I give these examples to basically say we have a lot of areas that we can
-
-manifest culture. I think the question really becomes how do we want
-
-to be together? And that’s something we should all be talking about and
+stuff. So people were sharing, teaching each other things through this

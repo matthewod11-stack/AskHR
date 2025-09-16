@@ -1,13 +1,17 @@
-## to share questions, struggles, mistakes, ideas, insights, or feedback.
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff4d6927e1531e3ba860f0834337f5fa86939eca
+title: H07UPN-PDF-ENG
+---
+# dashboards, and quarterly reviews.
 
-- Ensure checklists include steps to reﬂect on what went well, what
+But these systems shouldn’t have a sole focus on getting things done.
 
-didn’t, and what to try diﬀerently moving forward.
+You can design processes that encourage team members to regularly
 
-- Teach people that when a standard procedure or template leads to a
+enter the learning zone — even when you’re not around. To establish
 
-mistake, they should ask how the process or tool could be changed to
+routines that ensure continuous improvement:
 
-avoid repeating the error.
-
-- Make it standard practice for projects to incorporate mid-action and/or
+- Design meeting agendas to include sections that prompt participants

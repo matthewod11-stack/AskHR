@@ -1,17 +1,21 @@
-# externally.
+---
+source_path: H07HOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89becba9b4bf37b4f1bc02793badcbc7c4d291e4
+title: H07HOW-PDF-ENG
+---
+# Make time for career maintenance.
 
-Manage your emotions, and be kind to yourself.
+Regularly updating your resume and LinkedIn proﬁle is good
 
-It’s normal to feel stressed, angry, or fearful about your future during
+career hygiene, enabling you to capture your contributions and
 
-this period of limbo. To manage your emotions, notice and brieﬂy name
+accomplishments while they’re still fresh. Use every reorg as a prompt
 
-them; for example, “I feel stressed I might lose my job.” Labeling your
+to undertake this career upkeep.
 
-feelings can help you feel calmer and reduce the risk of being reactive.
+It’s also an opportunity to reﬂect on your overall feelings about your current role. A reorg can oﬀer a valuable inﬂection point, even if you
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+didn’t realize you were ready for one; perhaps you can let it be your
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+impetus to explore more energizing possibilities, either internally or

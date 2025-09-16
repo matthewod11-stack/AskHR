@@ -1,7 +1,9 @@
-# Use variables in prompts
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 20b4e2bacc82415f495f3b1f547c732d62558dbe
+title: prompt
+---
+# Use Instructions over Constraints
 
-Experiment with input formats and writing styles
-
-For few-shot prompting with classi(cid:450)cation tasks, mix up the classes
-
-Adapt to model updates
+Control the max token length

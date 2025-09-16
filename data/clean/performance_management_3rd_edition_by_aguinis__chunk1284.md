@@ -1,3 +1,9 @@
-## Chapter 7 • Implementing a Performance Management System 177
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 53c5c49bbb590a5c742d66c24093601e47af382c
+title: performance_management_3rd_edition_by_aguinis
+---
+# Training Programs
 
-Consider the list of content areas included in Table 7.2. The first two content areas are not unique to rater training programs. In fact, these are common components of the communication plan in which all organizational members participate, not just the raters. Given the suggestion that the same information should be presented many times and through different communication channels, however, it does not hurt to include this content area as part of a rater training program. Content areas 3–5 involve the general issue of identifying, observing, recording, and evaluating performance. Content areas 6 and 7 involve the general issue of how to interact with the employee receiving perform- ance information. Next, we address various choices in terms of implementing training programs specific to content areas 3–5. The development of skills related to content areas 6 and 7 is addressed in detail in Chapter 9.
+- 1. Reasons for implementing the performance management system 2. Information on the appraisal form and system mechanics 3. How to identify and rank job activities 4. How to observe, record, and measure performance 5. How to minimize rating errors 6. How to conduct an appraisal interview 7. How to train, counsel, and coach

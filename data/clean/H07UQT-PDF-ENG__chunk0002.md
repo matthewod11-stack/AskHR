@@ -1,5 +1,7 @@
-## How to Bring an Outside CEO into the Family Business
-
-Use this five-phase onboarding process. by Christina Wing and Rohit K. Gera
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 097de0f7e35515c62bbcbdc157d9555656d9d475
+title: H07UQT-PDF-ENG
+---
+# Family Businesses

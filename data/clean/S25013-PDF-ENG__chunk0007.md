@@ -1,7 +1,19 @@
-# more or less equivalent.
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b94d70b5f75b4f5b2d4c1f5962db329a75754e6d
+title: S25013-PDF-ENG
+---
+# People Believe AI Is Too Opaque
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The machine-learning algorithms underlying many AI tools are
 
-2
+inscrutable “black boxes” to users. Their impenetrability frustrates
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+people’s basic desire for knowledge and understanding, especially when
+
+their outcomes are uncertain or unexpected. Studies ﬁnd that people
+
+are willing to use opaque AI if it outperforms humans or simple,
+
+transparent AI, but they may balk at using it when its performance is

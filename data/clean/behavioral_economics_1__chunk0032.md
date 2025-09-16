@@ -1,11 +1,13 @@
-## http://www.casinolasvegas.com/currency-us-dollars/lang-en/skins/noscript.html).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: fe3b717e067dc1226f1c4da7fb0a45b3ea7107e5
+title: behavioral_economics_1
+---
+# solutions.
 
-This exercise illustrates the rationality tug-of-war between consumers and firms: If heterogeneity and
+The rationality tug-of-war between consumers and firms: Suppose you struggle with a gambling
 
-sorting enables firms to weed out poorly-suited workers, is the result a larger supply of products and techniques
+problem, and type “pathological gambling” into the Google search engine looking for help.13 When I did this in
 
-for taking advantage of limited consumer rationality, or a larger supply of products that help consumers?
-
-Figure 1: A first-page entry in an April 2005 Google search for “pathological gambling”
-
-- 1. GAMBLING PROBLEMS - TOP RATED ONLINE CASINO SITES. FREE KENO MASSAGE
+April 2005, one of the entries on the first page is shown in Figure 1 (leading to

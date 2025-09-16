@@ -1,13 +1,11 @@
-# success:
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 646a05e2b64a4703266796039a3d4cc2f87e1f3b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Putting It All Together
 
-7
+In this chapter, you have learned many factors that can affect the success of a training program. Before discussing how the success of a training program can be evaluated, let’s recap what you have learned. As shown in Figure ., the first issue to consider is whether training is the proper solution to a problem. That is, if employees already possess the necessary skills and knowledge but aren’t performing well, the problem is probably one of motivation, communication, or work design rather than a lack of training.
 
-7
-
-7
-
-Employees must have the skills and abilities to complete the training successfully. For example, if an employee is not bright enough to learn a computer program or doesn’t have the dexterity to perform intricate microelectronics assembly, no amount of training will improve his performance. There should be minimal outside factors (e.g., work or family problems) that might distract the employee and keep him from concentrating on the training program. Employees must be motivated to learn. That is, they must perceive that training is needed, that the training program meets their expectations, that they have the ability to complete the training (self-efficacy), and that there will be some reward (e.g., pay, career advancement) for performing well.
-
-316
-
-chapter 
+If training is to be the desired intervention, several factors will affect its

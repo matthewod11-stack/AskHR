@@ -1,9 +1,17 @@
-# explorar, descrever ou explicar.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 87c60cf6868b711455009ee9404f63cd712c2858
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## método rigoroso de pesquisa, através de uma abordagem sistêmica e sociológica. O
 
-Desta forma, o presente trabalho utiliza-se, como procedimento metodológico,
+autor coloca que o estudo de caso pode ser definido com base nas características
 
-do emprego de estudo de caso exploratório. Ainda que o método de estudos de
+31
 
-caso não nos permita generalizar conclusões para toda a população, neste trabalho,
+do fenômeno sendo estudado, além de determinado com base em um conjunto de
 
-a proposta é utilizar-se do estudo de um caso como exemplo para a compreensão
+características associadas ao processo de coleta de dados e estratégias de análise
+
+destes. Com isso, Yin (2015) assente que o objetivo de um estudo de caso é

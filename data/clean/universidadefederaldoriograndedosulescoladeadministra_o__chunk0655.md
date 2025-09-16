@@ -1,3 +1,7 @@
-# c. Não sei opinar
-
-- 5. Você a considera uma ferramenta útil para apoiar na gestão do(s) seu(s)
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: bf7711105f1418cd204a845913bf64063c895ae6
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# b. Não

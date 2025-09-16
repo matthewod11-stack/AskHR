@@ -1,11 +1,21 @@
-# Acknowledge Your Biases
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee09630f88f0d284870b6ca487dccb6f5255d42d
+title: H06V9A-PDF-ENG
+---
+# reward employees for those ideas.
 
-To address this tension, managers should ﬁrst acknowledge that they
+Of course, this is not to suggest that managers shouldn’t invite their
 
-may be susceptible to a bias that leads them to credit themselves for
+employees to contribute ideas. Explicitly soliciting input is a great
 
-their employees’ actions. This is not an entirely new concept: There is a
+way to gather new, innovative ideas from employees who might not
 
-body of research documenting a related bias known as the Romance of
+otherwise feel comfortable or conﬁdent enough to speak up. But our
 
-Leadership eﬀect, which refers to how people tend to see leaders (rather
+research illustrates how it can also make managers less likely to reward
+
+employees for speaking up, and thus potentially reduce employees’
+
+motivation to continue sharing their ideas.

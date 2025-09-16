@@ -1,13 +1,11 @@
-# Management Annals, 7, 1-60.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 73a9e3ec562e65b1818a8225b127f48cedef7d84
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# (pp. 3-13). New York: Routledge.
 
-Van Quaquebeke, N., & Felps, W. (2018). Respectful inquiry: A motivational account of
+van Knippenberg, D., & Sitkin, S. B. (2013). A critical assessment of charismatic—
 
-leading through asking questions and listening. Academy of Management Review, 43,
-
-5-27.
-
-Viswesvaran, C., & Ones, D. S. (1995). Theory testing: Combining psychometric meta-
-
-analysis and structural equations modeling. Personnel Psychology, 48, 865-885.
-
-Walumbwa, F. O., Avolio, B. J., Gardner, W. L., Wernsing, T. S., & Peterson, S. J. (2008).
+Transformational leadership research: Back to the drawing board? The Academy of

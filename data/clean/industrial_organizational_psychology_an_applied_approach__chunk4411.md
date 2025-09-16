@@ -1,23 +1,15 @@
-## Schmidt, F. L., Gast-Rosenberg, I., & Hunter, J. E. (1980). Validity
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 610ee2c1a601bacc8fb5466a2c9eade872d0031b
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Schleifer, L. M., & Okogbaa, O. G. (1990). System response
 
-generalization results for computer programmers. Journal of Applied Psychology, 65, 643–661.
+time and method of pay: Cardiovascular stress eﬀ ects in computer-based tasks. Ergonomics, 33(12), 1495–1509.
 
-Schmidt, F. L., Greenthal, A. L., Hunter, J. E., Berner, J. G., &
+Schmidt, F. L. (1973). Implications of a measurement problem for expectancy theory research. Organizational Behavior and Human Performance, 10, 243–251.
 
-Seaton, F. W. (1977). Job sample vs. paper and pencil trades and technical tests: Adverse impact and examinee attitudes. Personnel Psychology, 30, 187–197. Schmidt, F. L., & Hunter, J. E. (1978). Moderator research
+Schmidt, F. L. (1988). Th e problem of group diﬀ erences in ability test scores in employment selection. Journal of Vocational Behavior, 33(3), 272–292.
 
-and the law of small numbers. Personnel Psychology, 31, 215–232.
-
-Schmidt, F. L., & Hunter, J. E. (1981). Employment testing: Old theories and new research. American Psychologist, 36, 1128–1137.
-
-Schmidt, F. L., & Hunter, J. E. (1998). Th e validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research ﬁ ndings. Psychological Bulletin, 124(2), 262–274.
-
-Schmidt, F. L., Hunter, J. E., Pearlman, K., & Hirsh, H. R. (1985). Forty questions about validity generalization and meta- analysis. Personnel Psychology, 38, 697–798.
-
-Schmidt, F. L., & Rader, M. (1999). Exploring the boundary
-
-conditions for interview validity: Meta–analytic validity ﬁ ndings for a new interview type. Personnel Psychology, 52(2), 445–464.
-
-658
-
-references
+Schmidt, F. L. (1991). Why all banding procedures in personnel selection are logically ﬂ awed. Human Performance, 4, 265–277.

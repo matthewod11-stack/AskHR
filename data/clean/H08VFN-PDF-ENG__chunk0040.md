@@ -1,7 +1,11 @@
-# buckets:
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6cb96c3af6435471d805bbe8e00f4829446ed7a
+title: H08VFN-PDF-ENG
+---
+# during leadership challenges.
 
-- Room for personal improvement. Shame goes in this bucket if you
+Solution 2: Eat your demons. Review your past for moments of failure
 
-reﬂect on the moment and think, I could have done better. Make a plan
-
-for what you should have done instead and commit to executing it next
+that prompt strong feelings of shame. Assign each moment to one of two

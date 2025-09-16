@@ -1,3 +1,9 @@
-# Psychological Review, 45, 445–471.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 316c9ff44f5cc59820d9f201e04178df6b2141ea
+title: untitled
+---
+# University of Chicago Press.
 
-LeDoux, J. E. (2000). Emotion circuits in the brain. Annual Review
+Lashley, K. S. (1938). Experimental analysis of instinctive behavior.

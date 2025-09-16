@@ -1,17 +1,13 @@
-# HBR / Spotlight / New Rules for Teamwork
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6087b2ec78f1623882aa03111dc0b99e2df0c32
+title: S24051-PDF-ENG
+---
+# straight weeks each month.
 
-To facilitate continuous learning, we’ve created a Way We Work center
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-of excellence. This is a centralized group of 14 full-time employees
+10
 
-who are responsible for driving the WWW operating system. They also
-
-experiment with innovative practices and monitor the relevant ﬂows of
-
-data to improve the way teams work. The center can step in if a team is
-
-struggling. For example, regional WWW support staﬀ may join a team’s
-
-retrospectives to discuss what could have been done better. They also
-
-may look at the patterns across teams to identify improvements and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

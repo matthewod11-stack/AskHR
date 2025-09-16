@@ -1,11 +1,15 @@
-# K
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: bbe34d58fdce54632f3e23b1d1f529f200f63354
+title: a_p_r_a_c_t_i_c_a_l
+---
+# instructions=B
 
-22
+20
 
-A practical guide to building agents
+"You assist clients with inquiries regarding order tracking,
 
-2(cid:12)
+21
 
-)$
-
-2(cid:11)
+delivery schedules, and processing returns or refunds.È

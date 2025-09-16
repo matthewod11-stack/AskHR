@@ -1,25 +1,21 @@
-# exhaustion.
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 144e914dfa053b7b5f95f32ef5a2d78e626f9e22
+title: R2401G-PDF-ENG
+---
+# earlier entrants.
 
-- 5. Is your goal to develop quick but shallow or deep and enduring
+- 4. Do people have the bandwidth to take on more work, or are they
 
-working relationships? Teams of strangers with well-trained members who
+overextended or burned-out? Too much of a good thing can be terrible.
 
-understand their roles can develop “cognitive trust” swiftly, which enables
+One exasperated service rep showed us that to serve just one customer,
 
-them to do good work—such as flight crews on commercial airlines and
+she had to switch among at least 15 applications and 20 windows on the
 
-teams of doctors and nurses in emergency departments who have never
+13-inch screen of her laptop. Her company had adopted so many efficiency
 
-met but perform complicated tasks together. Yet the best work happens
+tools to “help” its workers that it rendered them inefficient. Making it
 
-after collaborators develop deep “emotional trust,” which requires working,
-
-talking, and failing and succeeding together over long stretches of time.
-
-(continued)
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+harder for that rep’s IT team to add apps would have reduced her digital

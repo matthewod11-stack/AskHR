@@ -1,21 +1,51 @@
-## their performance from their agents, their family and friends, or the
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f41f51503f0d4a112aff5a22c73c3ac6b2818d04
+title: S24054-PDF-ENG
+---
+## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
 
-media. If the pattern continues, their individual stats will go down, and
+Our other team leaders used diﬀerent leadership styles. Willie
 
-their agents will start warning them that not getting the ball is going
+McGinest, a great linebacker during my early years with the Patriots,
 
-to aﬀect the value of their next contract. They start to worry that they
+was six-foot-ﬁve and 270 pounds. He used his physical presence and
 
-may lose the aﬀection and admiration of their fan base. As a leader, I
+voice as a leadership tool. When Willie said something, people stood
 
-needed to understand that even if everyone agreed that our goal was to
+up straight and said: “Yes, Willie, we’ll do whatever you ask us to do.”
 
-win championships as a team, players would face pressure from people
+Matthew Slater, who I played with in the 2010s, became a leader by
 
-in their lives to behave in more self-serving ways.
+example because of how hard he played on our special teams unit. The
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+dedication and work he put into his job endeared him to his teammates.
 
-12
+Assistant coaches played important leadership roles, too. Dante
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Scarnecchia, who coached our oﬀensive line, combined the tough
+
+discipline that Belichick exuded with a deep personal caring for people.
+
+He got every ounce of eﬀort out of his players, every day. At the
+
+Patriots we talked about leaders as “culture drivers,” and in any given
+
+season there were probably a dozen players who held that role, each
+
+complementing the others with his own style.
+
+Recognize and counteract the external forces that can cause selﬁsh
+
+behavior. Leaders need to realize that powerful external forces push
+
+people to focus on themselves instead of the team. In professional
+
+sports, agents can be one example. In a perfect world, I’d have three
+
+great receivers who didn’t care which one I threw the ball to, as long as
+
+we won the game. In reality, if receiver A has a great day, receivers B
+
+and C may be happy we won, but then they may hear rumblings about

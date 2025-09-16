@@ -1,1 +1,21 @@
-# 75
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 25d37f2b762d8f9de1289603accb7f54bd5ef6a6
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 3 • Performance Management and Strategic Planning
+
+programs, on-line information, and resources for Microsoft employees. MSTE’s integrated suite of technical offerings supports our goal of having a significant impact on Microsoft’s business. We promote best practices, cross- group communication, Microsoft expertise and Industry expertise.
+
+As you can see, the mission of the training and education unit is consistent with the overall mission in that the realization of full potential plays a central role. Of course, MSTE’s mission is more focused on issues specifically relevant to the training and education function. Nevertheless, the link between the two mission statements is readily apparent. The congruence between the mission of the organization and its various units is important regardless of the type of industry and the size of the organization. High- performing organizations have a clear alignment in the mission and vision of the overall and unit-level mission and vision statements. Consider the case of Norfolk State University (NSU, http://www.nsu.edu/), located in Norfolk, Virginia. NSU, with a current enrollment of about 6,000 students, is the seventh-largest historically African American university in the United States, and it serves many students who are the first in their families to attend college. It offers more than 50 academic programs, including 16 master’s, and 2 doctoral degree programs. NSU has five main schools: School of Business, School of Education, School of Liberal Arts, School of Social Work, and School of Science and Technology. The university’s mission statement is the following:
+
+To provide an affordable, high-quality education for an ethnically and culturally diverse student population, equipping them with the capability to become productive citizens who continuously contribute to a global and rapidly changing society.18
+
+The mission statement for the School of Business indicates that its goal is to prepare stu- dents for careers in all types of organizations and this is achieved in a learning environment that fosters academic achievement, professional growth, and a recognition of diversity, technology, globalization, and ethics in the workplace and society.19
+
+Note that both mission statements are aligned and refer to similar issues including the (1) delivery of a high-quality education and academic achievement to a (2) diverse student body with the goal of (3) educating productive citizens who will contribute to a (4) global society.
+
+In sum, the organization’s strategic plan including the mission, vision, goals, and strategies cascades down to all organizational levels. Thus, each division or unit also cre- ates its own strategic plan, which should be consistent with the organization’s overall plan.
+
+3.2.2.1 CONSENSUS ABOUT STRATEGIES AND GOALS ACROSS ORGANIZATIONAL UNITS Strategic consensus occurs when the various organizational units agree on a common set of strategic priorities. Although it may seem that the greater the consensus across units, the better firm performance, this is not always the case because we must differentiate between consensus regarding strategies and consensus regarding goals. In the early development of strategic management as a field, the dominant approach was for a firm to focus first on goals, and then create strategies on how to compete. This process has been described as “formal,” “normative,” or “grand strategy.” A more recent way of thinking about consensus within the context of strategic planning has been influenced

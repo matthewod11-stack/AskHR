@@ -1,7 +1,7 @@
-## HBR Staff; Peter Dazeley/Getty Images; AI
-
-In 2021, the average CEO at one of the top 350 ﬁrms in the U.S. was paid
-
-$27.8 million—a rate that skyrocketed by an astonishing 1,460% since
-
-- 1978. During this same period, the average worker’s pay grew by just a
+---
+source_path: H08LN0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e80940a983f52a453541cec6e909d1667702f145
+title: H08LN0-PDF-ENG
+---
+## Published on HBR.org / March 6, 2025 / Reprint H08LN0

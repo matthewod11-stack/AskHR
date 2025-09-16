@@ -1,7 +1,19 @@
-# help colleagues to yourself).
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08ef4e0cfeea24bb55380da534b4b5112e2597ae
+title: R2305F-PDF-ENG
+---
+# Walter Chandoha/Trunk Archive
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+If you’ve picked up a book about raising organizational performance
 
-1
+in the past ﬁve years, you’ve almost certainly read about the beneﬁts
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of developing a culture of candid feedback. Kim Scott, a former Google
+
+executive, popularized the term “radical candor” in her 2017 book by
+
+that name, arguing that even “obnoxiously aggressive” feedback was
+
+better than “ruinous empathy” (keeping feedback that could otherwise

@@ -1,15 +1,23 @@
-# 6.1 Organisational-level actions
+---
+source_path: measuring_employee.md
+pages: n/a-n/a
+chunk_id: ef5e676126a15bf48fe7f077a7689c026ce8da37
+title: measuring_employee
+---
+# Engagement via the NHS Staff Survey
 
-Implementing organisational practices and communication activities that demonstrate to employees that the organisation genuinely cares about their wellbeing, morale and performance.
+NHS Employers state that (cid:515)acting on staff experience information collected from the NHS staff survey is important for delivering improvements for staff and patients(cid:516) (NHS Employers, 2013). And as Steve Trenchard, Chief Executive of Derbyshire Healthcare NHS Foundation Trust notes:
 
-Employees are more likely to be engaged when they feel that their organisation values and respects them as individual human beings, and perceives that the organisation is endeavouring to meet their psychological needs and desires. Alongside the engagement indicators, the (cid:513)your health, wellbeing and safety at work(cid:514) section (cid:507)qs (cid:343)(cid:346), (cid:343)(cid:347), (cid:343)(cid:350), and (cid:344)(cid:344)(cid:508) would be useful to examine here (cid:507)i.e. KF (cid:343)(cid:347), (cid:344)(cid:342), and 27). If a significant proportion of employees feel that the organisation has not met their basic health, safety and wellbeing needs through its policies and practices; and perceive that they are unable to communicate these needs adequately or safely to the organisation, then they may feel a lack of engagement. Therefore, for an organisation with these issues, an engagement strategy may be tailored towards creating more consistent, clearer, and fairer policies and practices designed to meet the health, safety and wellbeing needs of its workforce. An underlying element to this may be two-way communication. NHS Employers (2013) view good communication as
+(cid:515)The important task is to be able to demonstrate to our workforce that the ”oard is taking palpable steps to improve the conditions in which we work. It(cid:514)s a bit like a large-scale (cid:515)You Said We Did(cid:516) exercise. Having specific feedback for individual professional groups, or service lines, helps us to triangulate other information to ensure we provide the best support and workforce interventions to colleagues in times of challenge, change and improvement.(cid:516)
 
-(cid:515)key to maintaining an engaging culture within an organisation, whether this is from senior leaders keeping staff informed of business developments to managers telling their staff about things that affect their work(cid:516).
+Therefore, every Trust should develop an (cid:513)engagement strategy(cid:514) that links with their overall workforce strategy, and is supported by senior management and the Chief Executive. Effort should be made to involve various staff groups (e.g. operational managers and clinicians) when developing and implementing such a strategy.
 
-Involving employees within higher-level decision-making and organisational processes.
+The results from the NHS staff survey should be carefully examined. Many of the key factors that influence engagement are assessed by the survey. By identifying which areas need improving, which groups of workers are particularly vulnerable, and which areas are particularly strong the Trust can develop an overall strategy based on reliable evidence.
 
-Employees are more likely to be engaged when they feel that they can input into decisions or changes that may affect their work, and perceive that senior managers will listen and act on their views and suggestions. Alongside the engagement indicators, the scores from the (cid:513)senior management(cid:514) section (cid:507)q (cid:343)(cid:343)(cid:508) and (cid:513)raising concerns at work(cid:514) (cid:507)q (cid:343)(cid:351)(cid:508) would be useful to examine here (cid:507)i.e. KF (cid:344)(cid:343)(cid:508). If, on average, employees perceive that their senior managers do not involve staff in decisions and are ineffective and uncommitted to patient care, and feel unable to raise concerns to higher levels of management, then employees may feel low levels of engagement. An organisation suffering with such issues may want to focus their engagement strategy on improving internal communication practices, developing senior managers(cid:514) capabilities to involve and communicate with employees about decisions
+The NHS staff survey measures a vast range of work-related perceptions, from aspects of physical safety to personal development to relationships with line management. This may make it difficult for Trusts to identify particular areas on which to focus a strategy, especially when limited budgets and resources make such strategic decisions even more important. Trusts must identify the areas which have the most potential to raise engagement scores (i.e. motivation, involvement and advocacy) significantly and directly, and are most likely to be cost-effective and efficient to implement. Preliminary findings from the NIHR evidence synthesis (Truss et al, forthcoming) highlight the following areas are most likely to help foster
 
-15
+14
 
-that affect them, and building formal processes through which employees can give feedback, raise concerns or make suggestions to higher levels of management. Enabling involvement is a core factor within the staff engagement star framework (see www.nhsemployers.org for more detail).
+Institute for Employment Studies
+
+engagement within organisations (note any reference to the NHS staff survey refers to the 2013 version; NHS, 2013):

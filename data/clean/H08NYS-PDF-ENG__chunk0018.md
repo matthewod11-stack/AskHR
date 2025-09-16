@@ -1,7 +1,9 @@
-## up/thumbs down scale without any notice to customers or workers. By
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6edf1a4ffabd7586c2b31c95765655739e3827c9
+title: H08NYS-PDF-ENG
+---
+## platform operating in various cities in North America. The platform
 
-analyzing nearly 70,000 customer ratings (some that occurred before
-
-and some after this unexpected and sudden shift), we found a clear
-
-pattern: Workers of color received slightly lower ratings on average
+suddenly changed its rating system from a ﬁve-star scale to a thumbs

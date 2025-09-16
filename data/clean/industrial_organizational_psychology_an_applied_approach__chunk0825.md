@@ -1,27 +1,19 @@
-# Harassment
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 5deaf4266cc2d3f5c0269179986810f2a3fe083f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Can the Employer Prove That the Requirement Is Job Related?
 
-94
+As shown in the flowchart in Figure ., if our employment practice does not result in adverse impact, it is probably legal. If adverse impact does result, then the burden of proof shifts to the employer to demonstrate that the employment practice is either job related or exempt from adverse impact. Before discussing these two strategies, two points need to be made. First, adverse impact is a fact of life in personnel selection. Almost any hiring test is going to have adverse impact on some protected class, though some may have less adverse impact than others. Second, the burden of proof in employment law is different than in criminal law. In criminal law, a defendant is innocent until proven guilty. In employment law, both the  Civil Rights Act and the court’s ruling in Griggs v. Duke Power () shift the burden of proof: Once adverse impact is established, an employer (the defen- dant) is considered guilty unless it can prove its innocence by establishing the job relatedness of the test. That employers are treated more harshly than criminals by Congress and the courts is a constant source of frustration among HR professionals.
 
-chapter 
+Valid Testing Procedures An employment practice resulting in adverse impact may still be legal as long as the test is job related (valid) and as long as reasonable attempts have been made to find other tests that might be just as valid but have less adverse impact (refer to the flowchart in Figure .). For example, if an employer uses a cognitive abil- ity test to select employees, there is a strong possibility that adverse impact will occur. If the employer can demonstrate, however, that the cognitive ability test predicts performance on the job and that no other available test with less adverse impact will predict performance as well, the use of the test is probably justified.
 
-Exceptions Bona Fide Seniority System. An organization that has a long-standing policy of promoting employees with the greatest seniority or laying off employees with the least seniority can continue to do so even though adverse impact occurs. For a seniority system to be considered bona fide, the purpose of the system must be to reward seniority; not to discriminate (Twomey, ). That is, if an organization established a seniority system to protect male employees, it would not be considered bona fide.
+Validating tests can be quite expensive: Estimates of the average cost to vali- date a test range from $, to $, per job (Seberhagen, ). A more in- depth discussion of validity strategies is found in Chapter .
 
-National Security. In certain circumstances, it is legal for an employer to discrimi- nate against a member of a particular national origin or other protected class when it is in the best interest of the nation’s security to do so. For example, for years Russian citizens living in the United States were prohibited from working in any defense-related industry.
+An interesting example of adverse impact and job relatedness comes from the town of North Miami, Florida. For  years, North Miami required that police recruits be able to swim. Although the requirement seemed logical given that the town is located next to the ocean, it had adverse impact against African Ameri- cans. When the town looked further at the job relatedness of the requirement, it discovered that North Miami officers seldom entered the water for rescues: only eight times from  to . Because swimming was an infrequent activity and the swimming requirement resulted in adverse impact, in  North Miami eliminated the swimming ability as a requirement for the job of police officer.
 
-Veteran’s Preference Rights. Most civil service jobs provide extra points on tests for veterans of the armed forces. For example, in Fort Worth, Texas, veterans who apply for city jobs get five points added to their exam score. Because most people in the military are male, awarding these extra points for military service results in adverse impact against females. However, according to the Civil Rights Act of , such practices are exempt from legal action. To test your knowledge of these exceptions, complete Exercise . in your workbook.
+legal issues in employee selection
 
-Did the Employer Look for Reasonable Alternatives that Would Result in Lesser Adverse Impact?
-
-As shown in Figure ., if an employer proves a test is job related, the final factor looked at by the courts is the extent to which the employer looked for other valid selection tests that would have less adverse impact. For example, if an organiza- tion wanted to use a particular cognitive ability test, did it explore such alterna- tives as education level or other cognitive ability tests that would be just as valid but would have less adverse impact? To get experience using the flowchart in Figure ., complete Exercise . in your workbook.
-
-An issue of growing concern in the workplace is sexual harassment. In , , complaints of harassment were filed with the EEOC and with state and local agencies; , of these were for sexual harassment. Of these ,, % were filed by males. Of harassment claims filed with the EEOC, approximately % involve racial harassment, % sexual harassment, and % harassment of other protected classes. Research indicates that as many as % of women and % of men have been victims of sexual harassment (U.S. Merit Systems Board, ). These percentages increase when employees are the sole representative of their gender (called gender pioneers) or consist of a small minority of the employ- ees in a particular work setting (called gender isolates) (Niebuhr & Oswald, ). Harassment is not an issue limited to the United States. Though the United States has taken the lead in preventing and punishing harassment, Canada, the United Kingdom, Australia, New Zealand, Ireland, and the European Union also have laws prohibiting sexual harassment (Gutman, ).
-
-Though the following discussion focuses on sexual harassment, the courts have ruled that racial, religious, disability, and age harassment are also illegal (e.g., Crawford v. Medina General Hospital, ; Lanman v. Johnson County, Kansas, ). For example:
-
-7
-
-7
-
-7
-
-In , Consolidated Freightways settled an EEOC charge of race harassment for $,,. The harassment included hanging nooses in the workplace, racial graffiti, and threats of physical harm. In , Fairfield Toyota in California settled an EEOC charge of religion (Muslim), color (dark-skinned), and national origin (Afghani) harassment for $,. Supervisors and other employees commonly referred to seven Afghani Muslim employees as “the bin Laden gang,” “sand niggers,” and “camel jockeys.” In , Lexus of Kendall in Miami, Florida, reached an agreement to pay $, for race, national origin, and religious harassment by a senior manager who made comments such as, “America is for Whites only” and calling employees terms such as “spic” and “nigger.”
+93

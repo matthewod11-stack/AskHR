@@ -1,11 +1,29 @@
-# features or product modiﬁcations.
+---
+source_path: H06XTG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8ec7524ecf6b34db00e28762c3ece78eadfd51d
+title: H06XTG-PDF-ENG
+---
+# hold events, etc.
 
-Of course, this is just one company’s approach. The details will vary
+Marketing took a slightly diﬀerent approach: Leadership decided that
 
-widely based on the speciﬁc industry and market you’re hoping to enter.
+the local team should entirely develop its own marketing strategies, since eﬀective user acquisition strategies were very diﬀerent in the U.S.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+and Chinese markets. They decided that to ensure speed and agility, the
 
-6
+local team shouldn’t have to consult with the home oﬃce before making
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+marketing decisions, as long as they stayed within the approved budget
+
+and reported on the return on these investments.
+
+Conversely, on the product front, the company determined that less
+
+autonomy was needed. Since the China market used the same product
+
+as other markets, the product team was centralized at the home oﬃce.
+
+However, a few engineers were assigned to focus on requests from
+
+the Chinese market in order to meet location-speciﬁc needs for new

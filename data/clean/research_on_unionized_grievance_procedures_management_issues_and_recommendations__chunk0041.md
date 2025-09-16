@@ -1,7 +1,17 @@
-# New York: Wiley.
+---
+source_path: research_on_unionized_grievance_procedures_management_issues_and_recommendations.md
+pages: n/a-n/a
+chunk_id: a996873418167f5845ff33da5d05308f45355aee
+title: research_on_unionized_grievance_procedures_management_issues_and_recommendations
+---
+# groups. New York: McGraw-Hill.
 
-Muchinsky, P.M., & Maassarani, M.A. (1981). Pub- lic sector grievances in Iowa. Journal of Collec- tive Bargaining in the Public Sector, 10, 55–62. Muchinsky, P.M., & Maassarani, M.A. (1980). Work environment effects of public sector grievances. Personnel Psychology, 33, 403–414.
+Lewin, D., & Peterson, R.B. (1988). The modern griev- ance procedure in the United States. New York: Greenwood Press.
 
-Sulkin, H.A., & Pranis, R.W. (1967). Comparison of grievants in a heavy machine company. Person- nel Psychology, 20, 111–119.
+Slichter, S.H., Healy, J.J., & Livernash, E.R. (1960). The impact of collective bargaining on manage- ment. Washington, D.C.: Brookings.
 
-Walker, R.I., & Robinson, J.W. (1977). The first-line supervisor’s role in the grievance procedure. The Arbitration Journal, 32, 379–392.
+Mitchell, D.J.B., Lewin, D., & Lawler, E.E., III. (1990). Alternative pay systems, firm perfor- mance, and productivity. In Alan S. Blinder (Ed.), Paying for productivity. Washington, D.C.: Brookings, pp. 15–88.
+
+Stagner, R. (1962). Personality variables in union- management relations. Journal of Applied Psy- chology, 46, 350–357.
+
+Stagner, R. (1956). Psychology of industrial conflict.

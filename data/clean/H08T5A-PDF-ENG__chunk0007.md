@@ -1,17 +1,21 @@
-# The Costs of Entrainment
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b2093f6181fd39e8287319ec2dd9a2e8335bb321
+title: H08T5A-PDF-ENG
+---
+## motion. In moments of slowdown or crisis, such as economic downturns
 
-In many elite professional service ﬁrms, long hours are more than
+or leadership transitions, this pace-dependent loyalty can evaporate,
 
-just a habit—they’re a way of life. Employees routinely work evenings,
+leaving disengaged teams, quiet quitting, or sudden departures in its
 
-weekends, and holidays, not simply because they’re told to, or they’re
+wake, as seen during the Covid-19 pandemic.
 
-particularly driven or “type-A,” but because they’ve come to feel that
+So what can organizations do to future-proof themselves against the
 
-pace is normal—even necessary.
+heavy costs associated with high tempos? We draw upon our study to oﬀer insight into what causes entrainment cycles, how to break them,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+and what companies should do instead to maintain proﬁtability while
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+supporting employee health, well-being, and retention.

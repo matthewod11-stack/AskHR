@@ -1,3 +1,9 @@
-# Method, sample & data collection
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 5ab63ad715dfae4fbfc1a3b249b732c5c39da036
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# Research question
 
-Meta-analysis of 13 studies related to nursing turnover published or reported in the Chinese language literature. Inclusion criteria maintained that studies must report analyses of quantitative data from samples of hospital nurses engaged in patient care. Individual sample sizes ranged from 69 to 725, with a total of 4032 subjects from 109 hospitals.
+To provide an organised overall picture of turnover among nurses in Taiwan.

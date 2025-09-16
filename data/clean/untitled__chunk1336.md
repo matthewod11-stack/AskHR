@@ -1,5 +1,9 @@
-## rearing. Stanford, CA: Stanford University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 47e8768350feaa21d30b80bd664e0237691619c6
+title: untitled
+---
+# rearing. Evanston, IL: Row, Peterson.
 
-Sears, R. R., Whiting, J. W. M., Nowlis, V., & Sears, P. S. (1953). Some child-rearing antecedents of aggression and dependency in young children. Genetic Psychology Monographs, 47, 135– 234.
-
-Siegler, R. S. (1991). Children’s thinking (2nd ed.). Englewood
+Sears, R. R., Rau, L., & Alpert, R. (1966). Identiﬁcation and child

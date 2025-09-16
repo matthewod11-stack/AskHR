@@ -1,29 +1,33 @@
-# new median employee pay information.
+---
+source_path: H08UG4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f30be5b7e7b2daf7ee193f4bcd73383a765814bf
+title: H08UG4-PDF-ENG
+---
+# in CEO pay.
 
-The disclosure of median employee pay was one small step toward more
+But our research, which looked at approximately 300,000 individual
 
-pay transparency. Looking to the future, managers can use the lessons
+compensation ratings across ﬁrms in 62 diﬀerent industries, shows that
 
-learned from the CEO pay ratio to develop pay transparency policies for
+employees focused on a diﬀerent part of the disclosure: the surprisingly
 
-their ﬁrms. What the research shows us is that sharing more meaningful
+low values of median employee pay. Employees already knew their
 
-pay reference points can help employees understand how fair (or unfair)
+own personal CEO pay ratio (i.e., the ratio of the CEO’s pay to their
 
-their pay actually is.
+own pay). What they didn’t know, before the pay ratio disclosure, was
 
-Managers who seek to develop their own pay transparency policies
+that their peers were also earning a lot less than the CEO. Seeing
 
-should consider the following critical questions:
+the median employee pay value gave them a more realistic and lower
 
-What salary information is available already?
+reference point for their own pay. We ﬁnd that this eﬀect holds even
 
-Employees can and do check salary information posted on job
+when controlling for CEO pay, the ratio itself, ﬁrm characteristics,
 
-search websites. Managers should assume their employees see this
+and market-wide factors. Moreover, we ﬁnd that the eﬀect strengthens
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+when employees had less pay information available to them before the
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+disclosure, conﬁrming our intuition that they were responding to the

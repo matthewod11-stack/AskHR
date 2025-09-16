@@ -1,15 +1,19 @@
-# only a 1.1% decline in growth rate.
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa6c866cb0ea6b5f71969e0859e10a24e948f551
+title: H08FE6-PDF-ENG
+---
+## a poor cultural ﬁt, sales team disengagement, or even retirement or a
 
-The key is not necessarily to dismiss external candidates entirely, but
+move on to a CEO role somewhere else. In those cases, conventional
 
-to weigh their potential contributions against the very real costs of
+wisdom suggests hiring a seasoned leader with a lengthy resume of
 
-disruption. If intent on hiring from outside, look for someone who
+CRO experiences who can hit the ground running. The thinking is that
 
-has worked in a variety of commercial contexts and who shows an
+external CROs bring new perspectives and industry best practices that
 
-enthusiasm for learning and adapting their approach. To put it bluntly,
+can rejuvenate a stagnant commercial organization. Our data, however, tell a diﬀerent story. Prior CROs, on average, lead their new companies
 
-be careful if you’re thinking of “hiring a playbook” and instead hire a
-
-leader who excels in contextual understanding and delivering built-for-
+to a 7.1% decline in growth rate. By contrast, newly minted CROs see

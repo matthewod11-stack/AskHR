@@ -1,15 +1,9 @@
-## through virtual meetings, phone calls, and video conferences. These
+---
+source_path: H08MJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 49af279041adfceabe3c8f6da196e9aa47a8c510
+title: H08MJK-PDF-ENG
+---
+# HBR / Digital Article / Research: A Better Way to Keep Tabs on Your Remote Workforc…
 
-conversations provide a space for remote employees to share updates,
-
-discuss challenges, and align on goals. For example, a manager might
-
-schedule weekly one-on-one video calls with each direct report to check
-
-in and garner progress updates.
-
-Our study found that remote workers experiencing interactional
-
-monitoring reported that they tend to speak up and voice their
-
-ideas and suggestions for improving the organization. By focusing on
+meaningful check-ins with their teams and remote employees

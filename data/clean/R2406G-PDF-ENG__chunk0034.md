@@ -1,15 +1,19 @@
-# personalized digital experience.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aeec66cba5ec7812a69d5d70b66796cee0fe66f8
+title: R2406G-PDF-ENG
+---
+# committed funding.
 
-Instead of competing on manufacturing scale, companies are competing on the scale of customer interactions and on the speed at which they learn from interactions.
+Many of the personalization leaders that set the bar in this area are
 
-More-traditional companies often fail a few times before they manage
+digital natives. DoorDash runs hundreds of micro-experiments in its
 
-to emulate these approaches. We recently worked with a large U.S.
+app, testing things such as improvements in add-to-cart and product-
 
-bank that had created a team charged with breaking down silos to
+substitution recommendations. It has designed its app and its tech
 
-deliver greater agility throughout the company. But all it did was
+infrastructure to quickly run and measure such experiments, and
 
-create yet another silo. We disbanded it and replaced it with a cross-
-
-functional “agile” pod, made up of in-house representatives from
+it operates agile teams that act on the learnings to improve each

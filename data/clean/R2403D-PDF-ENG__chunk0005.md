@@ -1,11 +1,9 @@
-## true for tech and digital experts, her colleague Jeremy Andrulis, the
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79d0beedcfee881c84f95658622087db822c02b8
+title: R2403D-PDF-ENG
+---
+## the global vice president of talent acquisition at Mars, “we must
 
-vice president of talent, told us. “And people with the most sought-after
-
-skills are more than likely to be freelancers.” He went on to explain
-
-why this works for Mars: “Freelancers tend to jump from one project
-
-to another. That’s essentially what we’re paying for—their accumulated
-
-experiences and the fresh external perspectives they bring.”
+continually attract people with the latest skill sets.” This is particularly

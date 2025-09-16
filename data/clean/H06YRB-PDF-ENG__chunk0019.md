@@ -1,27 +1,31 @@
-# or bias.
+---
+source_path: H06YRB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12ba167ca9ee8f46b7ec9c6d5909f4ff2e4af47a
+title: H06YRB-PDF-ENG
+---
+## HBR / Digital Article / We Need Trauma-Informed Workplaces
 
-The flip side of institutional betrayal is psychological safety. Largely
+When we are in a period of crisis, many of us look to our institutions
 
-popularized through the work of Amy Edmondson, psychological safety
+to support and protect us. If they fail to do so, or if they take steps that
 
-is the sense that within a team or organization, it is acceptable for
+we fear will harm us or those we care about, that can create a second
 
-someone to admit that they made a mistake, or don’t know the answer,
+injury, called an institutional betrayal. The term “institutional betrayal”
 
-or are struggling. In a recent study, Google found that psychological
+was first coined by psychologist Jennifer Freyd, who describes it as
 
-safety, more than anything else, was critical to making a team work.
+occurring when an institution you trust or depend upon mistreats you.
 
-And the fastest way to build psychological safety was for team members
+It can arise due to deliberate actions that harm, as well as from failing to
 
-to support each other through hard times. As Charles Duhigg at The
+act when action is expected. These actions or inactions can exacerbate
 
-New York Times Magazine put it: “To feel ‘psychologically safe,’ we
+already-difficult circumstances. Institutional betrayal may arise due to
 
-must know that we can be free enough, sometimes, to share the
+an organization’s large-scale actions, like a Covid response that leaves
 
-things that scare us without fear of recriminations. We must be able
+many workers feeling vulnerable and trapped, or the actions of an
 
-to talk about what is messy or sad, and to have hard conversations
-
-with colleagues who are driving us crazy. We can’t be focused just on
+individual, like a manager’s belittling response to a claim of harassment

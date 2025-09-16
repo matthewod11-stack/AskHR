@@ -1,9 +1,21 @@
-## four months during her early stages of long Covid but couldn’t get
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8cec8e62951ee7079efc977d2a6f806859c388d
+title: H087FX-PDF-ENG
+---
+## syndrome, cancer, and multiple sclerosis.
 
-one to provide documentation to her employer. Thankfully, her HR
+As employers consider how to provide and customize accommodations,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+they need to be aware that it is often challenging for employees with
 
-5
+these illnesses to get medical documentation or even a diagnosis. There
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are too few clinicians who specialize in them, nonspecialists may be
+
+less familiar with them, and underdiagnosis is common. For example,
+
+pre-pandemic it was estimated that 84% to 91% of people with ME/CFS
+
+weren’t diagnosed. Dara, from our ﬁrst example, saw ﬁve doctors over

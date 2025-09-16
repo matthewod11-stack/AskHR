@@ -1,9 +1,17 @@
-## their jobs, more committed to their organizations, and less likely to
+---
+source_path: H07IJ3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2243cda5db9748c41eefd045f68512e1abd647d1
+title: H07IJ3-PDF-ENG
+---
+## HBR / Digital Article / 5 Ways Leaders Can Support Adoptive Parents
 
-leave — all great things. So, what can organizations do? The answer
+waiting to be matched with their child and ﬁnalizing the adoption.
 
-is simple: Provide meaningful support for adoptive parents. We sought
+And when one or both adoptive parents are working, they’re faced with
 
-to understand the beneﬁts of this kind of organizational support by
+balancing all of those challenges with the demands of their work.
 
-surveying married couples who had adopted a child within the last few
+What we know is that when employees perceive their organization to
+
+be supportive of their family in general, they’re more satisﬁed with

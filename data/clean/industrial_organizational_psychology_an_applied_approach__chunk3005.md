@@ -1,13 +1,9 @@
-# Learning Objectives
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 104b0166a2a5fbb0765ea8f9e6ffe2034b2f7a77
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Ô
 
-Understand what constitutes a group and a team
-
-Learn why people join groups
-
-Know how to increase group performance
-
-Understand how teams operate
-
-Be able to decide when groups perform better than individuals
-
-Know why the team approach is not always the best
+

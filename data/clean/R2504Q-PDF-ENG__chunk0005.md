@@ -1,19 +1,37 @@
-# many obstacles.
+---
+source_path: R2504Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 692a18107ab94124fc5af26c4925d3054c9617a1
+title: R2504Q-PDF-ENG
+---
+## HBR / Magazine Article / Building Everyday Bravery
 
-Whether you’re a parent facing a healthcare challenge, a manager with
+down after his talk to thank him, I found all the wonders and worries
 
-a supply chain failure, or a CEO trying to lead through an economic
+I’d carried for six years spilling out of me. He listened intently, put
 
-crisis, it takes great fortitude to navigate shifting contexts with scant
+his hand on my arm, and said, “You have a great story. Have you ever
 
-data and no handbook. Three new story-driven, research-backed books
+considered doing any public speaking?” I’d laid bare my utter confusion
 
-could have helped me do so more easily, and they can help you now. The
+and uncertainty about the high-impact decisions I was making with so
 
-authors assert that courage is a skill you can develop and strengthen in
+little expert guidance, and here he was, a leader in the ﬁeld, saying that
 
-yourself and on your team, and they provide insights and inspiration on
+others could learn from me? I laughed but gave him my number.
 
-how to be brave—in both everyday and extraordinary situations that call
+Since that day, I’ve given hundreds of speeches and interviews about
 
-for you to be and do more than you think possible.
+my experience. I’ve gained courage and conﬁdence along the way. But
+
+what I tell my audiences is that true bravery in parenting is rarely of
+
+the headline variety—jumping into freezing water to save a drowning
+
+child or hoisting a car to liberate a pinned leg—nor is it about getting up on a stage to oﬀer advice. It is also quotidian. My ﬁrst brave acts
+
+did not involve deadlifting or ﬁreﬁghting; for me, beginning to be brave
+
+meant prioritizing what my child was telling me, listening to my own
+
+gut, and making one small decision at a time with no clear path amid

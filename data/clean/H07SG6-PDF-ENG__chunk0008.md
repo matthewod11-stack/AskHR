@@ -1,43 +1,23 @@
-# Time Off Is Essential
+---
+source_path: H07SG6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b0fa399115b5459513cb1b3d5a82452b8c181e06
+title: H07SG6-PDF-ENG
+---
+## HBR / Digital Article / Stop Overworking After Vacation
 
-First, let’s be clear that taking periodic breaks in order to reset and
+that’s on top of the guilt I’ve been feeling about overburdening my
 
-recover from work stress (what researchers refer to as work recovery)
+team while they’ve been covering for me.
 
-isn’t a “nice to have” — it’s essential for sustained performance and
+It’s easy to respond to these intense feelings like Leslie did, by throwing
 
-growth. Just as athletes engage in regular periods of rest and recovery
+yourself into overworking, overcompensating, and overachieving the
 
-in order to perform at their best and avoid injury, workers need periods
+minute you disable your out of oﬃce responder — especially in work cultures that don’t exactly encourage time oﬀ in the ﬁrst place.
 
-of time away from their jobs to recuperate from the strain of work and
+However, there’s a healthier, more balanced approach that can help you
 
-replenish their physical and mental energy.
+ease back into your routine without losing all the stress-reducing and
 
-Research shows that those who don’t take the opportunity to rest,
-
-recharge, and recover are at higher risk of exhaustion, low motivation,
-
-poor performance, and burnout, while those who engage in regular
-
-periods of work recovery enjoy better sleep, higher job satisfaction,
-
-more engagement, and higher job performance. Human bodies and
-
-brains simply aren’t built to endure chronic stress, and there’s plenty
-
-of evidence showing how disconnecting from the strains and demands
-
-of work not only lowers stress, but increases productivity and boosts
-
-creativity. Even micro-breaks taken throughout the workday, such as
-
-stretching, doing some deep breathing exercises, or stepping outside for
-
-some fresh air, can halt the stress cycle and return you to baseline.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+performance-enhancing beneﬁts of unplugging from work.

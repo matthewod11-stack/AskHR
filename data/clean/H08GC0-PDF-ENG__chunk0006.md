@@ -1,17 +1,7 @@
-# Thomas Jackson/Getty Images
-
-“I’ll sleep when I’m dead.” I’m embarrassed to admit that this is a line I
-
-used to repeat, whether to justify working until 2:00 am to hit a deadline
-
-or squeezing in just one more email or skipping meals because “I don’t
-
-have time.”
-
-But I learned the hard way that this joke isn’t funny. The 2024 Mercer
-
-Global Talent Trend Report data supports agrees. This robust study
-
-of more than 12,000 global participants suggests that 82% of the
-
-workforce is at risk of burnout, citing excessive workload, exhaustion,
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebcd6c229d560f22ce8c52ed15f34178d15b22ef
+title: H08GC0-PDF-ENG
+---
+## Published on HBR.org / November 13, 2024 / Reprint H08GC0

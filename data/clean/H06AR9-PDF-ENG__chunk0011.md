@@ -1,29 +1,29 @@
-# and your kids.
+---
+source_path: H06AR9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2a402432105ee810e55c036cb4e4ca9946b1fbb
+title: H06AR9-PDF-ENG
+---
+## HBR / Digital Article / Parents, Take Your Sick Days
 
-So how do you actually go about taking the time you need?
+- Your family is relying on you. Pushing through the week just to crash
 
-First, assess if you’re well enough to work productively at home.
+on Saturday means you may miss opportunities to go hiking, visit the
 
-Sometimes canceling meetings and video calls, so you can email, work
+playground, or take part in some other favorite family activity.
 
-on spreadsheets, or cold-call in your pajamas for a day will get you
+- Taking time for yourself communicates your priorities and models
 
-where you need to be. That said, don’t do this if your physical or mental
+behaviors to others — both at work and at home. If you want your
 
-state means you’re going to do work that’s subpar. If you do, you’ll have
+kids to grow up to take care of themselves and work in a healthy
 
-to do it over again when you’re feeling better. (As someone who has had
+environment, prioritizing your own health helps them see that it’s OK.
 
-to apologize for emails sent in the haze of the ﬂu, trust me on this one.)
+- Finally, “being sick” doesn’t mean that you’re down with a fever,
 
-If you do call in sick, be direct. You don’t have to be elaborate about
+chills, stomach cramps, or migraine. Mental health days are just
 
-your reason: “I’m not feeling well enough to work today, so I’m taking
+as important. Taking mental health seriously can have an outsized
 
-a sick day. I’ll be back on the job tomorrow if I’m feeling better.” Some
-
-organizations or managers may push back on this, but you don’t owe
-
-them details about your health. If you’ve determined that you’re not
-
-well enough to work, stay ﬁrm. Remember, this is your time and your
+impact on family life by reenergizing you to engage with your partner

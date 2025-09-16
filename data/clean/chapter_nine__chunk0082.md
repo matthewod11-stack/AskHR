@@ -1,31 +1,21 @@
-# Associates.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 33c73b1dbfcbdbb752ddbd131306a79b54f6ba8d
+title: chapter_nine
+---
+# http://www.fons.org/library/journal.aspx
 
-Bate, P. (1994) Strategies for Cultural Change. Oxford: Butterworth Heinemann. Bernick, C.L. (2001) When your culture needs a makeover. Harvard Business Review. Vol. 79. No. 6.
+The concept effective workplace culture is not mature and data retrieved from the literature for the proposed enabling factors, attributes and consequences was predominantly implicit. Whilst some components of the framework are well developed concepts e.g. transformational leadership (Bass et al., 2006) and person-centredness (McCormack, 2004; Dewing, 2004), others are less developed e.g. organisational readiness, or there is contention about how they are measured for example, individual, team, organisational effectiveness, human flourishing. We would also assert that there is a need to consider what happens when organisations are not ‘ready’ to take on development to enable an effective work place culture.
 
-pp 53-8, 60-61, 146.
+The resulting framework challenges us to move our gaze from organisational and corporate culture to the culture of the workplace because it is at this level that the patient/practitioner interface occurs. Whilst there is an interdependence between corporate, organisational and workplace culture, it is the workplace culture that is experienced by patients, users and staff - it is at this level that most potential exists for transformation that benefits all.
 
-Bevan, H. (2004) What works. On the power of theory. Health Service Journal. 8th April. p 31. Bevington. J., Halligan, A., Cullen, R. (2004a) Culture vultures. Health Service Journal. 8thApril. pp 30-
+References Alimo-Metcalfe, B., Alban-Metcalfe, J. (2006) More (good) leaders for the public sector. International
 
-31.
+Journal of Public Sector Management. Vol. 19. No. 4. pp 293-315. Anthony, P. (1994) Managing Culture. Birmingham: Open University. Apekey, T.A., McSorley, G., Tilling, M. and Siriwardena, A.N. (2011) Room for improvement? Leadership, innovation culture and uptake of quality improvement methods in general practice. Journal of Evaluation in Clinical Practice. Vol. 17. No. 2. pp 311–318.
 
-Bevington, J., Halligan, A., Cullen, R. (2004b) Pass it on. Health Service Journal. 15thApril. pp 28-29. Bhatia, R., Blackshaw, G., Rogers, A., Grant, A., Kulkarni, R. (2003) Developing a departmental culture for reporting adverse events. International Journal of Health Care Quality Assurance. Vol. 16. No. 3. pp 154-6.
+Bamford-Wade, A., Moss, C. (2010) Transformational leadership and shared governance: an action
 
-Binnie, A. (2000) Freedom to practice: changing ward culture. Nursing Times. Vol. 96. No. 6. pp 41-
+study. Journal of Nursing Management. Vol. 18. No. 7. pp 815-821.
 
-42.
-
-Binnie, A., Titchen, A. (1998) Freedom to Practise: A Study of the Development of Patient-Centred Nursing in an Acute Medical Unit. RCN Institute Research Publication. No 18. London: Royal College of Nursing.
-
-Binnie, A., Titchen, A. (1999) Freedom to Practice. Oxford: Butterworth Heinemann. Block, L. (2003) The leadership-culture connection; an exploratory investigation. Leadership and
-
-Organization Development Journal. Vol. 24. No. 6. pp 318-334.
-
-Bolan, D.S., Bolan, D.S. (1994) A reconceptualization and analysis of organizational culture: the influence of groups and their idiocultures. Journal of Managerial Psychology. Vol. 9. No. 5. pp 22- 27.
-
-Boyer, S. (2005) The healthcare workplace culture: support and socialisation for students and staff.
-
-Vermont Nurse Connection. Vol. 8. No. 3. p 4.
-
-Brayford, L. (2004) Action across the NHS must happen now. Health Estate. Vol. 58. No. 3. pp 33-37.
-
-21
+Bass, B., Riggio, R. (2006) Transformational Leadership (2nd ed). New Jersey: Lawrence Erlbaum

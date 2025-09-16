@@ -1,9 +1,13 @@
-## High-Performing Teams Don’t Leave Collaboration to Chance
+---
+source_path: H07YWJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86af4f09575b611127bb0397c5bfe5b936a94ee5
+title: H07YWJ-PDF-ENG
+---
+# of everyone else.
 
-When launching a project, many teams follow a predictable cadence:
+Our research found that high-performing teams are exceedingly rare;
 
-They assign tasks and start working. High-performing teams, on the
+only 8.7% of respondents gave their teams qualifying scores. We also
 
-other hand, are more than three times more likely to begin by ﬁrst
-
-discussing how they will work together, paving the way for fewer
+identiﬁed ﬁve key behaviors related to trust that set these teams apart.

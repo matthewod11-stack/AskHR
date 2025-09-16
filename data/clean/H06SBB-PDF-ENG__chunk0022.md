@@ -1,21 +1,29 @@
-## intersection of as much of that as possible.
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6834ec807d9baf886c96dbde3842e8273d092e73
+title: H06SBB-PDF-ENG
+---
+# healthy.
 
-ADI IGNATIUS: That’s inspiring. Before COVID, several years ago you
+And so now is a great opportunity for people to reflect on what
 
-wrote an article that said the secret to creative success is disequilibrium.
+kind of life they want to be living, and how do they want to spend
 
-Can you explain what you mean by that?
+their days? One of the things that we then have to do is get to new
 
-SANDY SPEICHER: Oh, thanks for that question. You give me a chance
+agreements about what it means to live together, to work together. How
 
-to be a little bit nerdy here. Disequilibrium is one of my favorite terms,
+do we rebalance, for instance, our relationship with work? How do we
 
-but I might go into teacher mode on it.
+rebalance our relationship with the planet? How do we rebalance some
 
-ADI IGNATIUS: It’s okay, our audience is highly sophisticated.
+of the inequities in society? And all of this is coming up for people.
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+And so of course, as we individually start to think about our needs,
 
-7
+any system that we’re a part of, the people who are the stewards of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that system, the leaders of that system, really need to listen to the
+
+aggregate of those individual needs and find solutions that work at the

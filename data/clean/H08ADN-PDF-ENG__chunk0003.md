@@ -1,11 +1,7 @@
-## In October 2021, Delta Air Lines CEO Ed Bastian noted a signiﬁcant
-
-shift in the airline’s workforce as it emerged from the Covid-19
-
-pandemic. Speaking to investors, he called it a juniority beneﬁt. “Many
-
-of our most experienced employees have chosen to retire, and that’s
-
-opened up opportunities for younger people,” he said, framing the
-
-change as advantageous for the company. But juniority beneﬁts were
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e88c3814ddfcdd635ad820e459269af4850dbc3
+title: H08ADN-PDF-ENG
+---
+# ballyscanlon/Getty Images

@@ -1,19 +1,13 @@
-## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6e18fc13753ba44d05f2220974e5599d0055245
+title: R2502F-PDF-ENG
+---
+# counterparts.
 
-Another reason to focus on the individual rather than the culture in a
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-negotiation is the infeasibility of becoming an expert in the customs
+4
 
-and norms of all the geographies in which one might do business.
-
-For example, an executive responsible for the EMEA region may have
-
-morning negotiations with counterparts from Turkey and South Africa,
-
-followed by lunch with her boss who is expatriated from South Korea,
-
-then a meeting with executives from Ethiopia before closing a deal in
-
-the late afternoon with UAE nationals. The agenda for the next day might involve an entirely diﬀerent set of nationalities. And even when
-
-you are dealing with a single foreign country, teams may include people
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

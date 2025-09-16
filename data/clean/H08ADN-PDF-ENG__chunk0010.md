@@ -1,11 +1,7 @@
-# characteristics like race and gender. It
-
-implied that it could take 20 years or more
-
-for employees to get back to the levels of
-
-psychological safety they had when they
-
-started. Further, while our analyses showed
-
-that a supportive context — that is,
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6841ea700c3ab25aa127d4da07115294f3c1f916
+title: H08ADN-PDF-ENG
+---
+# after the Covid-19 pandemic — and across

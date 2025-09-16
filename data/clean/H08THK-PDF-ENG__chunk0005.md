@@ -1,1 +1,13 @@
-# HBR / Digital Article / Our Favorite Management Tips on Communicating Like a Leader
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97ea584559fb854f327d726a3529aff43054e857
+title: H08THK-PDF-ENG
+---
+# like a leader.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

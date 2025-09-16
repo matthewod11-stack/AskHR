@@ -1,17 +1,25 @@
-# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79c934a65c7d16126fbe10c9310d28d4e6efc86e
+title: H07WED-PDF-ENG
+---
+## the president and CEO of Boeing Commercial Airplanes. Mulally’s
 
-Another great example is Satya Nadella, the CEO of Microsoft, who has
+project management background and ability to lead large-scale
 
-roots in project management. Nadella joined Microsoft in 1992 and held
+initiatives positioned him as the ideal candidate to eventually take
 
-various leadership roles, including leading the company’s cloud and
+the helm at Ford Motor Company in 2006. As Ford’s CEO, he steered
 
-enterprise division. His background in managing complex technology
+the company through a ﬁnancial crisis, implementing successful
 
-projects and his strategic vision were instrumental in his appointment
+turnaround strategies. His sharp project management sense was crucial
 
-as CEO in 2014. Under Nadella’s leadership, Microsoft transitioned
+in revitalizing Ford.
 
-into a cloud-ﬁrst, mobile-ﬁrst company and experienced signiﬁcant
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-growth. His project management skills played a role in orchestrating
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

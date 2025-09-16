@@ -1,9 +1,13 @@
-# How to Make Compensation More Equitable
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 41e9ad83991e316ef0a20e90a177ffeced66de5d
+title: H081SB-PDF-ENG
+---
+## their trust in their teams and broader organizations. When people
 
-The good news is, our research highlights several strategies that can
+perceive their organizations as treating them unfairly and paying them
 
-help managers and leaders address these issues, ensuring that both new
+inequitably, their morale and commitment falter, making them that
 
-hires and existing employees — especially top performers — are treated
-
-fairly and set up for success.
+much more likely to start looking for the door.

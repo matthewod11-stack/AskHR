@@ -1,13 +1,11 @@
-# own work.
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8fa96df46714f7d69b6674cb465fd8b2d077787c
+title: R2306H-PDF-ENG
+---
+## HBR / Magazine Article / Harness Your Network to Unlock Innovation
 
-After identifying a sparring partner, a leader should reach out to others
+have the credentials and conﬁdence to defend their expertise—but also
 
-who are knowledgeable about the partner’s domain but aren’t in the
-
-partner’s network. The leader should also encourage the partner to
-
-likewise look for advisers in the leader’s domain who aren’t close to
-
-the leader. That will set the two colleagues up to do what we call dual
-
-networking and gather a fusion of perspectives that will enhance a new
+curiosity about how another area of expertise might be relevant to their

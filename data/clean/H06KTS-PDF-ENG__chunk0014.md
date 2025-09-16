@@ -1,23 +1,19 @@
-# former associates.
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 569a33729ef18ccde1b01f7ccabad436661be5d8
+title: H06KTS-PDF-ENG
+---
+# employees.
 
-One leader I worked with was deeply aﬀected when he found out several
+Another disadvantage to staying too long is that you may never advance
 
-of his colleagues were leaving their company. He took it personally,
+to levels at which new hires enter, and even worse, if you’re over 50,
 
-feeling abandoned at ﬁrst and then insecure about how he compared in
+studies show you may be let go before you’re ready. So do consider
 
-a job market he wasn’t even thinking about before.
+whether you can grow at your current company, but don’t write oﬀ
 
-His ego took over and he wondered, “How did they get that job?” By
+the option of leaving if the right opportunity arises. And to ensure you
 
-falling victim to superiority bias, he underestimated his colleagues’
-
-competency while overestimating his own. This dual feeling of
-
-inferiority about his value and superiority relative to his former
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+have as many options as possible, avoid burning any bridges with your

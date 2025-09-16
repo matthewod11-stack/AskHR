@@ -1,27 +1,37 @@
-### **Stage 2: Designing interaction protocols**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: eaae88d551dd9fdaed278869f18601742285f7e1
+title: Gibbons
+---
+### **Stage 1: Mapping complementary capabilities**
 
-Once you\'ve mapped capabilities, you need to design how humans and AI
-will actually work together. This isn\'t about installing software and
-training people to use it. It\'s about creating new collaborative
-workflows that leverage the strengths you\'ve identified.
+The first mistake organizations make is assuming AI should replicate
+human work. DeepMind succeeded because they identified what each party
+did best. Humans excel at formulating research questions, understanding
+context, and recognizing significance. AI excels at pattern recognition
+across vast datasets, consistent application of rules, and rapid
+generation of possibilities.
 
-Consider the spectrum of collaboration models:
+Start by mapping your team\'s work into three categories:
 
-- Human-in-the-loop works for high-stakes decisions where AI generates
- > recommendations but humans retain veto power. A medical diagnosis
- > team might use this model, with AI suggesting possibilities but
- > physicians making final determinations.
+1. Human advantage zones: These include ethical reasoning, contextual
+ > judgment incorporating organizational values, causal understanding
+ > of why relationships exist, and creative problem-solving that
+ > transcends existing patterns. A pharmaceutical research team found
+ > their chemists\' understanding of synthesizability and side
+ > effects couldn\'t be captured in training data. This human insight
+ > proved essential for filtering AI-generated drug candidates.
 
-- AI-in-the-loop suits creative or strategic work where humans lead
- > but consult AI for specific insights. Marketing teams developing
- > campaigns might use AI to analyze consumer data or generate
- > headline variations while maintaining creative control.
+2. AI advantage zones: These encompass pattern recognition across large
+ > datasets, consistent application of defined criteria without
+ > fatigue, rapid generation of multiple options, and processing vast
+ > information volumes. The same pharmaceutical team used AI to
+ > screen thousands of molecular structures in hours rather than
+ > months.
 
-- Human-on-the-loop fits moderate-risk, high-volume operations where
- > AI handles routine cases independently while escalating
- > exceptions. Content moderation teams use this model effectively,
- > with AI managing clear policy violations while humans handle
- > nuanced cases.
-
-The key is matching the model to the risk profile and complexity of the
-work. Don\'t default to one approach for everything.
+3. Collaboration zones: These are areas where neither humans nor AI
+ > alone are sufficient. Complex decision-making requiring both
+ > pattern recognition and contextual judgment falls here. Strategic
+ > planning that needs both data analysis and stakeholder
+ > understanding belongs in this category.

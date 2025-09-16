@@ -1,11 +1,21 @@
-# towards her goal of Olympic success.
+---
+source_path: H08CWK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69f405b63abe021bb09252632010b36a76b9c768
+title: H08CWK-PDF-ENG
+---
+## Nicole’s diet, sleep schedule, mental health, and even her leisure
 
-Living under the weight of constant scrutiny and comparison teaches
+activities were viewed through the prism of their potential impact on
 
-these athletes not only how to excel in their sport but also how to
+her performance. The concept of a “day oﬀ” became alien. Rest days
 
-eﬀectively harness feedback for continuous improvement. Learning to
+were strategic, not a respite. Her vacations were often more about
 
-discern which feedback to embrace and which to ﬁlter out becomes
+recovery and mental health than about leisure or exploration. Nicole,
 
-essential for not just surviving, but for thriving — and those lessons are
+who is now my colleague as a mindset coach at Finding Mastery, says
+
+the omnipresent pressure to maintain and exceed her performance
+
+standards meant that every life choice she made needed to contribute

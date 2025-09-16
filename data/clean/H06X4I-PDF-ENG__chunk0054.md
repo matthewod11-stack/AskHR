@@ -1,7 +1,13 @@
-# HBR / Digital Article / Remote Work Has Opened the Door to a New Approach to Hiring
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca8fccc2afc592daac17e0fccab4ef0b5a646113
+title: H06X4I-PDF-ENG
+---
+# scarce.
 
-To conclude, gaining practice with remote work seems to open up
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-possibilities for leveraging ﬂexible or open talent. When done well,
+10
 
-these models can drive exceptional results, but they require purposeful
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

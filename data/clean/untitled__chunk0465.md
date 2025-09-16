@@ -1,5 +1,9 @@
-# New York: Macmillan.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ac62d978dd19cdf13ff0051227d04f4e3486503a
+title: untitled
+---
+# London: Oxford University Press.
 
-Pogliano, C. (1991). Between form and function: A new science of man. The enchanted loom (pp. 144–203). New York: Oxford University Press.
-
-Posner, M. I., & Raichle, M. F. (1994). Images of mind. New York:
+Penﬁeld, W., & Rasmussen, T. (1950). The cerebral cortex of man.

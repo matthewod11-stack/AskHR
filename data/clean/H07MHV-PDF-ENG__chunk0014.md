@@ -1,23 +1,21 @@
-# through words.
+---
+source_path: H07MHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 875bf28e89f6141c2d6c840a18ba3d169f356cc8
+title: H07MHV-PDF-ENG
+---
+## photorealistic pictures and short video clips, like those on TikTok. My
 
-Visual thinkers like me process information diﬀerently; we use hands-
+visual recall is a full vocabulary of images that come from memories
 
-on problem solving and visual perception. I often point to a moment at
+of places I’ve visited, movies and pictures I’ve seen, and printed text
 
-the beginning of my career when my visual orientation aided in solving
+I’ve translated into pictures. When I’m asked to assess a cattle-handling
 
-some behavioral issues in cattle. The animals had suddenly halted and
+system, for example, video clips of every system I’ve seen run through
 
-refused to move forward, causing work delays and compromising proﬁt
+my mind. I sort these images into categories, and I have the ability to
 
-margins. Handlers hadn’t been able to ﬁgure out what was causing
+combine them into new things. With age and experience, my visual
 
-the cattle’s behavior, and they were using extreme methods, such as
-
-prodding and bullhorns, to keep the animals in line.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“vocabulary” grows the way a verbal person learns complex ideas

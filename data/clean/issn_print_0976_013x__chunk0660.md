@@ -1,7 +1,9 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 74b0d839703dab4bfcc97ed1ab3aa4926e047b7f
+title: issn_print_0976_013x
+---
+# environment enables people with multiple backgrounds, mindsets, and ways of thinking to
 
-work effectively together and to perform to their highest potential to achieve organizational
-
-objectives based on sound principles (https://www.gritandflow.com). The organizations have
-
-started coming forward to safeguard the interests of LGBTQ+ to create a holistic and inclusive
+68

@@ -1,11 +1,15 @@
-## gender discrimination, and other inequities—but many of these things
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1b7e25351373059bb9110eba79c9a9900f3db5ed
+title: H08NSA-PDF-ENG
+---
+## The concept of the “circle of inﬂuence” vs. the “circle of concern,”
 
-fall outside of our direct control. They live in our circle of concern.
+is a useful way to think about this. Popularized by professor and
 
-On the other hand, the things we can control live in our circle of
+author Steven Covey, it’s meant to help people focus their eﬀorts
 
-inﬂuence. These are the areas in our lives where our actions, choices,
+where they have the most impact. The idea is that many of us may
 
-and involvement can directly make an impact. In the context of
-
-volunteering, if enough people focus their eﬀorts in these areas—like in
+care deeply about large-scale issues—such as poverty, climate change,

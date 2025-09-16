@@ -1,3 +1,7 @@
-# Summary and Concluding Comments
-
-The discussion among Highhouse, Ilgen, Mohammed, and Slaughter addressed sev- the lack of eral potential cross-fertilization between JDM and IOOB and pointed to the way forward. Table 1 summarizes from this the conclusions discussion.
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: e793c5f7ceafe79fa4d037551f3feb6533a93823
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# 402

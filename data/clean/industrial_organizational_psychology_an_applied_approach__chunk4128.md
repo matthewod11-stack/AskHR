@@ -1,7 +1,21 @@
-## Cellar, D. F., Curtis, J. R., Kohlepp, K., Poczapski, P., &
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 635e518ddfab93f6ff5d5710c75372a0bdca1641
+title: industrial_organizational_psychology_an_applied_approach
+---
+## options. Personnel Journal, 73(6), 38–44.
 
-Mohiuddin, S. (1989). Th e eﬀ ects of rater training, job analysis format and congruence of training on job evaluation ratings. Journal of Business and Psychology, 3(4), 387–401.
+Cavanaugh, J. (2001, January 15). Death at work: Some killings
 
-Chan, D., & Schmitt, N. (1997). Video-based versus paper-and-
+can be prevented. People Weekly, 55(2), 63.
 
-pencil method of assessment in situational judgment tests: Subgroup diﬀ erences in test performance and face validity perceptions. Journal of Applied Psychology, 82(1), 143–159.
+Cavanaugh, M. A., Boswell, W. R., Roehling, M. V., & Boudreau, J. W. (2000). An empirical examination of self-reported work stress among U.S. managers. Journal of Applied Psychology, 85(1), 65–74.
+
+Ceci, S. J., & Peters, D. (1984). Letters of reference: A naturalistic
+
+study of the eﬀ ects of conﬁ dentiality. American Psychologist, 39, 29–31.
+
+Cederbloom, D. (1989). Peer and supervisor evaluations: An
+
+underused promotion method used for law enforcement. Proceedings of the 13th Annual Meeting of the International Personnel Management Association Assessment Council.

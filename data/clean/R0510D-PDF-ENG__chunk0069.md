@@ -1,5 +1,11 @@
-# Manage strategic initiatives.
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ceacac1fc2a0172c54addf37a98f1484c88a613
+title: R0510D-PDF-ENG
+---
+# The Office of Strategy Management
 
-by customer service) or by an ad hoc team drawn from the functions or units affected. Responsibility for managing initiatives that al- ready have a natural home should remain with the associated unit or function. The OSM intervenes only when an initiative falls behind schedule, is over budget, or is not delivering expected results. But the OSM should manage initiatives that cross unit and functional lines—it can thus make sure that they get the resources and attention they need. In all cases, the OSM retains responsibility for monitoring the progress of strategic initiatives and report- ing on them to top management.
+of its communication responsibilities, the OSM must cooperate with HR to ensure that education about the scorecard and its role is included in employee training programs.
 
-Integrate strategic priorities with other support functions. Existing functional depart- ments retain prime responsibility for three other key processes necessary for successful strategy implementation: planning and bud- geting, human resource alignment, and knowledge management. These processes are critical for effective strategy execution, and
+Strategic ini- tiatives—such as a TQM program or the im- plementation of CRM software—are discre- tionary programs that help companies accomplish strategic objectives. The executive team typically identiﬁes these initiatives as part of its annual planning process, although new initiatives may arise throughout the year. Ideally, the entire portfolio of such initiatives should be assessed and reprioritized several times annually. The screening, selection, and management of strategic initiatives are what drive change in the company and produce re- sults. Our experience suggests that such initia- tives should be managed separately from rou- tine operations. Typically, they are managed by the units most closely associated with them (a CRM project, for instance, is best managed

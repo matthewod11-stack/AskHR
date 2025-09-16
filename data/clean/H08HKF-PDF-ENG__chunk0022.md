@@ -1,15 +1,11 @@
-## reputational, regulatory, and legal risks of AI.
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e88e68cce8efddded5b4b8a9a7a8c3d09414d2e
+title: H08HKF-PDF-ENG
+---
+# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist
 
-There are two paths forward here: hiring new personnel or training
+personnel are not up to the task if they are not trained for responsible
 
-existing QA/QI and audit teams. In our experience, no one wants to
-
-hire new personnel, at least to start. Training existing personnel is
-
-less expensive and less disruptive and, so long as they can take on
-
-the additional work, is to be preferred. That said, organizations should
-
-anticipate needing to hire personnel in this area as their AI program
-
-matures and thus increasingly more AI and more AI teams enter the
+AI in particular, including the vast array of the (sources of) ethical,

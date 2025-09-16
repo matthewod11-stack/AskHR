@@ -1,25 +1,13 @@
-# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 74a8776124b6d2ede1f77cfa788479996a6ba04b
+title: H08H7H-PDF-ENG
+---
+# to-oﬃce (RTO) schedule.
 
-When announcing this change, leaders often say they are doing so to
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-enable collaboration that can only happen in person. When Starbucks’
+1
 
-former CEO Howard Schultz called for his employees to return to
-
-their oﬃces for at least three days of the week, he said the decision
-
-was motivated by work that demanded “the kind of thinking, daring
-
-collaboration, [and] courageous conversations that cannot be done on
-
-Teams calls, or in just pre-scheduled meetings.”
-
-Behind statements like Schultz’s is a strong body of research
-
-in communications and social psychology that provides evidence
-
-supporting the notion that remote communication is less rich than in-
-
-oﬃce communication. And some management research suggests that
-
-employees who primarily work remotely tend to have less trusting and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

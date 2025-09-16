@@ -1,17 +1,31 @@
-## of new and expanded policies, programs, and beneﬁts. The business
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e54ccd62a6e22319a7df5bd751a9b2f801c29fa8
+title: R2504F-PDF-ENG
+---
+# happen.
 
-case for doing so is straightforward. According to Care.com, supporting
+Expanding Medicare to cover long-term care would oﬀer enormous
 
-family caregivers improves productivity, retention, recruitment, and
+relief to people shouldering the cost and eﬀort of eldercare. And that
 
-diversity, and according to the Rutgers Center for Women in Business,
+idea is very popular: Recent research by Age Wave and the John A.
 
-the work of caregiving itself leads to growth: Caregivers have been
+Hartford Foundation found that 80% of all Americans are in favor of
 
-shown to bring enriched capabilities to the workplace, among them empathy, eﬃciency, and persistence.
+integrating long-term care into a new age-friendly healthcare system.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Most U.S. workers will need to provide eldercare at some point
 
-3
+during their careers. Even if expanding Medicare were politically
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and economically viable, however, many employees would still be
+
+responsible for coordinating care and other responsibilities. Eldercare
+
+would remain a part-time job for much of the workforce. To help
+
+employees meet the challenge, employers need to step up, just as the
+
+majority have done for childcare, and provide more support in the form

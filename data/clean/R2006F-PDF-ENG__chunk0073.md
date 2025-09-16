@@ -1,7 +1,9 @@
-# @MortentHansen
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e520c708a45d689ed594213d52513b936b86ec7f
+title: R2006F-PDF-ENG
+---
+# MH
 
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
-
-22
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Morten T. Hansen is a professor at the University of California, Berkeley, and a faculty member at Apple University, Apple. He is the author of Great at Work and Collaboration and coauthor of Great by Choice. He was named one of the top management thinkers in the world by the Thinkers50 in 2019.

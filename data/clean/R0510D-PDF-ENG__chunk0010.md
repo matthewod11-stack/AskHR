@@ -1,5 +1,17 @@
-## CREATE AND OVERSEE YOUR STRATEGY MANAGEMENT SYSTEM
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 061b84bcc421b199510d354990b82184466fa103
+title: R0510D-PDF-ENG
+---
+# The Office of Strategy Management
 
-Help the executive team select performance targets and identify required strategic initia- tives. Initiate and administer your company’s strategic performance reporting system. To maintain integrity of performance data, create and enforce uniform organization-wide metrics.
+The Idea in Brief Most large organizations fail to achieve profitable growth—despite ambitious plans. Why the gap between intended and actual performance? There’s an alarming disconnect between the parts of the orga- nization that formulate corporate strategy and the functions, processes, and people required to execute it.
 
-Incorporate changes in corporate strategy into all documents and tools that the com- pany uses to track strategic performance— such as strategy maps and the Balanced Scorecard.
+67% of HR and IT departments’ strategies don’t reflect corporate strategy. 60% of or- ganizations don’t link their financial bud- gets to strategic priorities. Compensation packages of 90% of frontline employees show no connection to the success or fail- ure of strategy execution. 95% of the typical company’s workers are unaware of, or don’t understand, its strategy.
+
+How to close the breach between strategy office formulation and execution? Create an of strategy management (OSM) . Your OSM couples the units responsible for strategic planning with those performing the activi- ties required to implement strategy—such as establishing budgets, communicating strategy to the workforce, and designing compensation systems that reward strate- gic performance.
+
+The payoff for designing an effective OSM? A corporate strategy that delivers on its promises. Thanks in part to its OSM, the Chrysler Group generated $1.2 billion in earnings and launched a series of exciting new cars in 2004—while the rest of the U.S. domestic auto market languished.
+
+The Idea in Practice Design your office of strategy management to perform these functions:

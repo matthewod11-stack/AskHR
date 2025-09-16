@@ -1,23 +1,39 @@
-## HBR / Digital Article / The High Costs of Chief Revenue Officer Turnover
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46fbb3723fab84ee08cef613e366147c9bf1fff7
+title: H08FE6-PDF-ENG
+---
+## Actions to Take Before Pushing Your CRO Out the Door
 
-Consider surrounding your CRO with analytical horsepower through an
+Turning over the CRO may feel like the only action when revenue
 
-upgraded revenue operations (rev ops) department. If your current rev
+targets are under threat. Our work with CEOs and commercial
 
-ops team isn’t delivering robust insights on commercial performance,
+organizations across industries and company sizes, however, often ﬁnds
 
-making a change in this department is far less disruptive than
+that a missed target can be as much about the operating environment as
 
-jettisoning a CRO. Highly talented rev ops leaders are diﬃcult to source,
+it is an issue with leadership.
 
-so consider leveraging fractional or revenue operations-as-a-service
+CEOs are quick to lament their CRO isn’t “a data-driven leader”
 
-providers to provide both cover and best practice methodology while
+or lacks analytical chops. More commonly, CROs are saddled with
 
-you upgrade your rev ops function.
+incredibly poor data which is insuﬃcient to identify root causes of
 
-Similarly consider which role should maintain authority over GTM
+underperformance. If your underlying commercial data is in disarray
 
-strategy versus execution. A common theme in healthy growth
+(as it is for most companies), consider a short-term engagement with
 
-organizations is placing a highly competent and capable revenue
+external consultants to quickly cleanse, augment, and enrich the fact base to pinpoint root cause issues in GTM eﬃciency and eﬀectiveness.
+
+This is a no-regrets move for most leaders, and will also beneﬁt a new
+
+leader should you proceed in that direction.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,19 @@
-## positive economics and potentially normatively useful for managers.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 48e8aebaa80b53e646859f8918248d0425fe78fa
+title: beo_chap7_1
+---
+## flow when (over)investing, and enter into value-reducing mergers.
 
-We end the book with an important caveat. Psychology and economics share
+If organizations are aware of the mistakes workers and managers make, they
 
-a basic methodological individualism: psychologists are interested in people, and
+can sort around them (via hiring practices and internal matching of workers into
 
-economists are interested in how economic outcomes arise from the interaction of
+jobs where their mistakes are least costly), they can design “organizational repairs,”
 
-people (and institutions). Many organizational theorists, however, work at a middle
+or they can exploit mistakes by workers (e.g., offering backloaded incentives to
 
-level sometimes called “meso,” in which the organization is the unit of analysis.
+optimistic workers who are sure they will succeed). Thinking about the optimal
 
-Meso concepts like organizational routines and learning are not rooted in individual
-
-behavioral concepts. It is possible that organizational economics could be tied to
-
-meso-organizational (or macro-organizational) constructs, but this is not an active
+design problem in the face of worker error, as suggested in Section 4.4, is both

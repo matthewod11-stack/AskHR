@@ -1,9 +1,11 @@
-## and work ethic, the next step in their leadership journey will
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f25b8f97b672983eb83ff53f84acd6428eaf3e55
+title: H07I7D-PDF-ENG
+---
+## in new markets or new product/service areas.
 
-depend on their ability to work with and through others. That
+- • •
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+While high potentials have been recognized for their results-orientation

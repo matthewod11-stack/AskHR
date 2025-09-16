@@ -1,11 +1,15 @@
-## decision-making framework aligns best with their objectives.
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e72db4489f1d424b1b84156b87330f39853d7ca9
+title: H08IKZ-PDF-ENG
+---
+# information.
 
-In the car example, a cost-focused buyer might use a tool that calculates
+- 6. Choosing a decision algorithm.
 
-life-cycle-ownership costs, while another buyer who prioritizes
+While many AI products are marketed as being universally useful,
 
-aesthetics might choose a very diﬀerent approach. Some buyers may
+mathematics has shown that no single optimization algorithm can
 
-forego the expected value of perfect computation and opt for a fast and
-
-frugal set of heuristics, and another may prefer an exhaustive search
+be superior across all problems. Thus, humans must decide which

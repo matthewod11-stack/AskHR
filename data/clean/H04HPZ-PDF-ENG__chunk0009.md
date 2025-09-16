@@ -1,11 +1,13 @@
-## and content analyses of both human resources journals and federal
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f857d7caeb0483bfda2e73ffda971c0f9a8e0fab
+title: H04HPZ-PDF-ENG
+---
+## complaint procedures, and training programs.
 
-court opinions — shows that sexual harassment policies and procedures
+This approach may be misguided. Programs, policies, and training alone
 
-can comfortably coexist in organizational cultures where women are
+do not stop sexual harassment and abuse. My book Working Law —
 
-regularly subjected to demeaning commentary, unwanted physical
-
-contact, and even threats or sexual assault. In other words, someone can
-
-be sexually harassed without recourse in an organization with plenty of
+based on surveys of organizations, interviews with HR professionals,

@@ -1,9 +1,9 @@
-# TP
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f77a27a454994f698b70d8af03bbf3b712957f43
+title: H08OXV-PDF-ENG
+---
+# CM
 
-Ted A. Paterson, Ph.D. is currently an Associate Professor of Management at Oregon State University, director of the Center for Family Enterprise, and the L. W. “Bill” Lane Professor in Family Business Management. He serves as Senior Editor for the Journal of Business Research. He received his Ph.D. from the University of Nebraska in 2014. Dr. Paterson’s research interests center on positive organizational behavior, leadership, ethics, identity, and family business.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Charles Y. Murnieks, Ph.D., is an Associate Professor and the A. Gottlieb Chair of Strategic Management in the Bloch School of Management at the University of Missouri-Kansas City. His research explores how cognition, emotions, and particularly entrepreneurial passion inspire and inﬂuence individuals at work.

@@ -1,11 +1,9 @@
-## the market despite limited growth in revenues, margins, or dividends.
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91cc11cbfd203f0a595d02aebb5a927df3817017
+title: H08R2D-PDF-ENG
+---
+## deviation below the market average and oﬀered investors greater
 
-These stable outperformers built ﬁnancial slack, for example, by
-
-reducing their debt-to-equity ratios by 30% on average. In this way, they
-
-achieved not only a high and stable cash ﬂow contribution to TSR but
-
-also enhanced their valuation multiples by an average of 3% per year.
-
-This strategy can be observed in all industries and sectors but is
+stability and reduced risk, enabling these companies to outperform

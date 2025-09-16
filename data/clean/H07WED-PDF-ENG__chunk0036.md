@@ -1,25 +1,15 @@
-## learn from the outcomes of your risk-management decisions.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f1e8600e437ce5e59089eab8599930867008bb0
+title: H07WED-PDF-ENG
+---
+# business.
 
-- 3. Bias toward action
+- 2. Calculated risk taking
 
-Project managers are action oriented by nature. To align with a CEO
+In projects, risk management is crucial. To develop a CEO’s comfort
 
-mindset, focus on the broader impact of your actions. Participate in
+with calculated risks, take on projects where you need to assess and
 
-decision-making processes beyond your project’s scope and engage in
-
-cross-functional initiatives to inﬂuence outcomes. Continuously reﬁne
-
-your project leadership skills, emphasizing eﬃcient execution.
-
-- 4. Optimism
-
-Optimism in project management involves maintaining a positive
-
-outlook during challenging project phases. To elevate this mindset,
-
-mentor and motivate your project team members, emphasizing chances
-
-for learning and growth. Cultivate a positive outlook by focusing on
-
-opportunities rather than obstacles. Develop a collective resilience to
+mitigate risks strategically. Gradually expand your risk tolerance and

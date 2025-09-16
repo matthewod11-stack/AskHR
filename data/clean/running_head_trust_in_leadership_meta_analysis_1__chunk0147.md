@@ -1,19 +1,21 @@
-# team relationships. The power differential and stronger hierarchical dependence inherent in
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 30ae9e531c377240d0d49cb8ab0e2dbf441871ba
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Williams, 2001).
 
-the leader-follower relationship (Emerson, 1962; Lapidot et al., 2007) may result in a
+We note that a meta-analysis by de Jong et al. (2016) revealed that cognitive and
 
-situation where issues such as care, concern and benevolence are more important for
+affective team trust predicted team performance to a similar extent. Our findings paint a
 
-performance or citizenship. In contrast, in less hierarchical team level relationships, where
+different picture for trust in the leader at the individual level. Specifically, we found evidence
 
-team members may work more interdependently, aspects of cognitive trust such as the
+that affective trust in the leader is a more powerful predictor of OCB and performance
 
-competence and dependability of one’s team members may be of greater (or equal) concern.
+compared to cognitive trust suggesting that, in the context of a relationship with one’s leader,
 
-We also find that servant and ethical leadership styles are more influential in driving
+affective trust may be more critical. This may be symptomatic of differences in how the
 
-affective trust than the dominant theories of the full-range model. Servant and ethical leaders
-
-put their followers first, even at the expense of themselves and organisational objectives
-
-(Brown et al., 2005; Lee et al., 2020). This represents a key point of conceptual departure as
+social exchange relationship operates in leader-follower exchange relationships compared to

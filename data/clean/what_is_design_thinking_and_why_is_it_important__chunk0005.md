@@ -1,13 +1,13 @@
-# Goals and Focus
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: ccf26ad079d75f6923df7e53ee8547a2929d5b71
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Design Thinking and Its Importance
 
-The dual aims of this article are to (a) summarize findings from the literature of design thinking to gain better understanding of its characteristics, processes, and differences between novice and expert design thinkers and (b) apply the findings from the literature regarding design thinking to our educational system. Our over- arching goal is to identify the features and characteristics of design thinking and show its importance in promoting students’ problem-solving skills needed to succeed in the 21st century. The major questions addressed in this review include (a) What are the characteristics of design thinking, (b) what are the differences between a novice and an expert design thinker, and (c) why is design thinking important?
+the intellectual complexities and resources demanded to support good design edu- cation (Todd & Magleby, 2004). This awareness has resulted in the improvement of existing courses to include industry-sponsored projects where companies pro- vide real problems along with real-world expertise (Bright, 1994; Dutson, Todd, Magleby, & Sorensen, 1997).
 
-331
+Design thinking has also started to receive increased attention in business set- tings. This is because the design of products and services is a major component of business competitiveness, to the extent that many known companies have commit- ted themselves to becoming design leaders (Dunne & Martin, 2006). And although design thinking has become an integral part of the design and engineering fields as well as business, it can also have a positive influence on 21st century education across disciplines because it involves creative thinking in generating solutions for problems. That is, in academic environments, students are required to read criti- cally, think and reason logically, and solve complex problems (Rotherham & Willingham, 2009). Thus, to help students succeed in this interconnected, digital world we live in, educators should support students in developing and honing 21st- century skills (e.g., design thinking, systems thinking, and teamwork skills) that enhance their problem-solving skills and prepare them for college and career (Rotherham & Willingham, 2009; Shute & Torres, 2012).
 
-Downloaded from
-
-http://rer.aera.net
-
-at AERA on October 2, 2012
-
-Table 1 Databases used in searching for articles
+These skills are consistent with the theoretical traditions of situated cognition (Lave & Wenger, 1991), developmental theories (Piaget, 1972), and constructiv- ism (Bruner, 1990). What’s new is the growing extent to which individual and collective success is seen as depending on having such skills. In addition to busi- ness settings, design thinking has received a lot of attention in engineering, archi- tecture, and design majors in universities because it can change how people learn and solve problems (e.g., Dym, Agogino, Eris, Frey, & Leifer, 2005; Fricke, 1999; Nagai & Nagouchi, 2003). The topic of expertise in design has also been receiving increasing attention in design research. In support of these claims, consider the large number of research articles published on the topic of design thinking (e.g., Do & Gross, 2001; Goldschmidt & Weil, 1998; Owen, 2007; Stempfle & Badke- Schaube, 2002; Tang & Gero, 2001). Among these research papers, there are stud- ies of expert or experienced designers and comparisons of the processes of novice versus expert designers (e.g., Cross & Cross, 1998; Ericsson & Smith, 1991; Ho, 2001). Within this large body of design thinking research, experimental and quasi- experimental studies are lacking. Most, if not all of the studies are qualitative.

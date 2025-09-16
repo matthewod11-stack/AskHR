@@ -1,7 +1,17 @@
-# Organization 21:256-83.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 4a8daae1fad2d38fcba9cf4a163dc148c45d3fca
+title: beo_chap7_1
+---
+# library/lesslaw.htm.)
 
-Van Huyck, J. B., R. C. Battalio, and R. O. Beil. 1990. Tacit coordination games, strategic
+Tyler, T. R. 2001. Cooperation in organizations. In Social Identity Processes in Organizational
 
-uncertainty, and coordination failure. American Economic Review 80:234-48,
+Contexts (ed. M. A. Hogg and D. J. Terry), pp. 149-66. Philadelphia, PA: Psychology Press.
 
-Weber, R. A. 2006, Managing growth to achieve efficient coordination in large groups. Amer-
+Van Den Steen, E. 2004. Rational overoptimism (and other biases). American Economic
+
+Review 94:1141-51.
+
+. 2005. Organizational beliefs and managerial vision. Journal of Law, Economics and

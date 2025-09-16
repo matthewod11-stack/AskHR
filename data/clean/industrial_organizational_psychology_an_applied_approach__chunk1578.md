@@ -1,5 +1,9 @@
-# Conducting Personnel Research
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9283b6013f7693e902ed2c0593e19806207e203e
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Making Termination Decisions
 
-A final reason for evaluating employees is for personnel research. As discussed in previous chapters, employment tests must be validated, and one way this can be done is by correlating test scores with some measure of job performance. To do this, however, an accurate and reliable measure of job performance must be avail- able. The same is true in evaluating the effectiveness of training programs. To determine effectiveness, an accurate measure of performance must be available for use in determining whether performance increases as a result of training.
-
-Although not the most important reason for evaluating employee perfor- mance, personnel research is still important, especially in organizations where union contracts forbid the use of performance evaluations in personnel decisions. In those situations, performance evaluations are still needed for effective personnel research.
+Unfortunately, providing feedback, counseling, and training to employees does not always increase performance or reduce discipline problems. When performance management techniques are not successful, the results of a performance review might suggest that the best course of action is to terminate the employee. Meth- ods for doing this and the legal issues that surround such decisions will be discussed in great detail at the end of this chapter.

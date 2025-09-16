@@ -1,9 +1,7 @@
-# 79
-
-acceptance and reproduction at each level. While in theory, organizations are supposed to be equal arenas for development and promotion, in practice, they are full of barriers, which might be set up by upper-level employees, who continue to enjoy power and possibly gender inequality. Accordingly, even though equality programmes and policies have opened up the gates for many employees in Finland as well as in other countries, many steps have to be pushed forward by forcing organizational members in higher-level hierarchical positions to realize their obligations and responsibilities.
-
-Table 2 illustrated that far more employees tend to perceive gender inequality in society in general rather than in their own workplaces, which means that while employees realize that there are problems in Finnish society concerning gender inequality as a whole, they tend not to perceive the existence of this very problem in their own workplaces. This finding goes along with the statement of Jackson and Grabski (1988: 623) that employees may ‘restore psychological equity in the face of actual inequities, which they may view as beyond their power to redress’. It also supports the argumentation of Acker (2006a: 452), according to which the practices that maintain workplace gender equality are perceived as ‘something that is beside the point of the organization’, they are difficult to see.
-
-This finding leads to some skepticism concerning current gender-awareness programmes and policies promoting equality. How can organizational members support efforts to diminish gender inequality when they recognize its existence only ‘somewhere else’, but not in their own environments, in their own workplaces? Policy makers should continue to struggle against employers’ and employees’ insensitivity, fear, and ignorance of gender inequality issues. Furthermore, gender awareness programmes should continue to aim at acknowledging both employers and employees that gender inequality is an issue which concerns each of them and each of them is responsible for solving it.
-
-Lastly, the finding that psychological harassment is related to employees’ perceptions of both societal and workplace gender inequality shows that there are factors which were not under investigation in previous studies but have a considerable influence on employees’ perceptions. There is thus a room for further theoretical investigation of the perceived gender inequality.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: b439d3f23339f3f8b730087158dc4ab39c893317
+title: file_1
+---
+# 15 Details available from the author.

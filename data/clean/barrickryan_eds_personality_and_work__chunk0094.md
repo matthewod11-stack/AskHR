@@ -1,5 +1,11 @@
-# What Would Be a Big Three?
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a37bdb05a4efd513f9a496d641d89cd735e6009a
+title: barrickryan_eds_personality_and_work
+---
+## THE STRUCTURE OF PERSONALITY ATTRIBUTES 9
 
-Findings from most lexical studies to date suggest the general rule that if three factors are extracted and rotated, these factors tend to be broad versions of Extraversion, Agreeableness, and Consci- entiousness, the ﬁrst three factors from the Big Five (Saucier & Goldberg, 2001). All lexical studies that have identiﬁed the Big Five in ﬁve-factor solutions and also report the character of the three- factor solution report this Big Three. Moreover, some studies that did not straightforwardly replicate the Big Five did replicate this lexical Big Three (Di Blas & Forzi, 1998, 1999; De Raad & Szirmák, 1994; Hahn, Lee, & Ashton, 1999), so it appears more robust than the Big Five. And the Big Three (like the one- and two-factor so- lutions already described) seem relatively unaffected by how wide versus narrow a variable selection one employs (Saucier, 1997).
+This constellation of two factors is also related to the three most ubiquitous dimensions of affective meaning, which include Potency (or Strength) and Activity in addition to Evaluation (Osgood et al., 1975). Whether this correspondence is due entirely to the imposi- tion of universal tendencies in human cognition or to the natural structure of phenomena “out in the world” remains an open ques- tion. In judgments about human targets, Potency and Activity tend to merge into a single dimension that Osgood and his associates called Dynamism. Unpublished analyses with English-language ad- jectives indicate that the Big Two lexical factors are strongly related to the dimensions of affective meaning as indexed in pancultural bipolar scales applied in self-descriptions. The ﬁrst unrotated lexical factor is strongly related to Evaluation (but independent of Potency and Activity), whereas the second unrotated lexical factor is related to Potency and Activity (but independent of Evaluation).
 
-However, at least two lexical studies have not replicated this Big Three in three-factor solutions, these being the studies in French
+As is true of the Big One factor structure, no lexical study has presented evidence to contradict the view that this two-factor struc- ture is ubiquitous across languages and cultures. If both the one- and two-factor structures eventually turn out to be universal, the latter has some advantage because two factors provide more in- formation than one.

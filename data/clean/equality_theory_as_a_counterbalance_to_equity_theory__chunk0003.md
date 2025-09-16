@@ -1,5 +1,11 @@
-# Keywords Distributive equality (cid:2) Distributive justice (cid:2) Status leveling (cid:2) Egalitarian
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: 615aa1ddc4feac7ee070da97273a97093f75fb43
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# David A. Morand • Kimberly K. Merriman
 
-common subtype of distributive justice, that is, one basis for distributing resources, is equity. Equity-based justice is rooted in the sense of proportion—the sense that the out- comes individuals receive (remuneration, a corner ofﬁce, or any other valued outcome) should be awarded in pro- portion to their inputs (how hard they work, how produc- tive they are, etc.). Equity is a central base of distributive justice in organizations. Indeed, based on the amount of literature it has generated, it would appear to comprise the preeminent base.
+Received: 10 June 2011/Accepted: 28 July 2012/Published online: 16 August 2012 (cid:2) Springer Science+Business Media B.V. 2012
 
-Yet the wider literature on distributive justice recognizes that, in addition to equity, equality is also a fundamental base of distributive justice (e.g., Rawls 1971, 2001; Fraser and Honneth 2003; Fraser 2008). In contrast to equity, under equality distribution rules, all outcomes are equal. Here, in stark contrast to equity principles, individuals receive equivalent outcomes, presumably without regard to their inputs. For example, if all members of a team receive an equivalent reward, such instances distributive equality. But despite the fact that equality is a major distributive basis within the broader literature on distributive justice, within the organizational literature there is scant research on, or recognition of, equality as a basis for distributing valued outcomes or resources.
+Abstract This conceptual paper revisits the concept of equality as a base of distributive justice and contends that it is underspeciﬁed, both theoretically and in terms of its ethical and pragmatic application to human resource management (HRM) within organizations. Prior organiza- tional literature focuses primarily upon distributive equal- ity of remunerative outcomes within small groups and implicitly employs an equity-based conception of inputs to deﬁne equality. In contrast, through exposition of the philosophical roots of equality principles, we reconceptu- alize inputs as de facto equal and consider the systemic application of distributive equality in the form of status leveling practices. Ethical ramiﬁcations of distributive equality so viewed are explored. We conclude by arguing that, to implicitly insert a stronger ethics focus into the study and practice of HRM, perhaps there should be ‘‘equality theory’’ competing with equity theory for rec- ognition in managerial and scholarly discourse.

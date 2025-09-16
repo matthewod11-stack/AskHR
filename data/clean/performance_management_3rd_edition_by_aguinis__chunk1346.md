@@ -1,3 +1,7 @@
-# Part III • Employee Development
-
-Part I of this text described strategic and macro-organizational issues in designing a performance management system. Part II described operational details on how to implement the system. Part III includes two chapters dealing with employee developmental issues. There are two key stakeholders in the developmental process: (1) the employees who are improving their own performance, and (2) the managers who help guide the process of employee development for their staff and support it so that it can successfully occur. Developmental planning is a joint activity entered into by both the employee and the manager. This chapter addresses how to use a performance management system to help employees develop and improve their performance. Chapter 9 addresses the skills needed by managers so that they can best manage the performance of their employees. Let’s begin this chapter by discussing personal developmental plans.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 42512b092fd80d50242d2de51103b89f47fb72d5
+title: performance_management_3rd_edition_by_aguinis
+---
+# 196

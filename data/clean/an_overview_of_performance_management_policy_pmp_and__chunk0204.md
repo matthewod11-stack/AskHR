@@ -1,19 +1,15 @@
-# the Manager or any
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: a21cf8f18bd1eacedabb2ec6905a6a6cda597fb4
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# the goal.
 
-individuals/advantage related choices between the periods July to December. (Tisha,
+- (cid:32) HR needs to catch Mid-Year Ratings in the framework for some time later. Mid-year
 
-2019)
+examination rating will be utilized for surveying progress made by the representative
 
-20
+and course redresses dependent on
 
-(cid:32)
-
-(cid:32)
-
-3.12 ANNUAL APPRAISAL:
-
-(cid:32)(cid:32)(cid:32)
-
-The Annual Appraisals are to be finished by the February of the following year. HR will
-
-impart the beginning and end dates of the cycle.
+input got from

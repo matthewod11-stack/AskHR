@@ -1,7 +1,7 @@
-## In academic and U.S. national surveys alike, the majority of employees
-
-express beliefs that pets contribute to a more pleasant and social work
-
-environment. They are on to something. Various studies we analyzed
-
-found that the mere presence of animals provides employees comfort, buﬀers against stress, enhances work engagement, and improves
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6c2f02fdc8532713a17e7981fccc1ddad3a3d95
+title: H07UT7-PDF-ENG
+---
+## In-Office Pets Enhance Workplace Well-being

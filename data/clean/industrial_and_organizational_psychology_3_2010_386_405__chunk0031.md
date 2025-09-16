@@ -1,3 +1,7 @@
-# 392
-
-provocative ‘‘garbage can’’ model of organizational choice (Cohen, March, & Olsen, 1972) addresses the seeming ran- domness and disorder of decisions in orga- nizations by focusing on the externally dictated and highly time-bound arrival, and hence coupling, of problems, choices, solu- tions, and decision makers. More generally, a loose clustering of theories, collectively called the new organization theory, empha- sizes the role of (other organizations, scarce resources, time, etc.) ‘‘as both a constraint on and a venue for organizational decisions’’ (Connolly & Koput, 1997, p. 290).
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: ea821405d85d4b3403e2bee33a429dbc5005211c
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# 391

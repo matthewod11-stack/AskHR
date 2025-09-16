@@ -1,37 +1,29 @@
-# control over search results.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: cb3dcd71eb1747865439dee53f389610a199bd1e
+title: agents_companion
+---
+# Better Search, Better RAG
 
-- Fine tune the embedding model or add a search adaptor which changes embedding
+Almost all RAG approaches require a search engine to index and retrieve relevant data. The
 
-space: these allow the searchable index of vectors to represent your domain better than a
+introduction of agents allows for refinement of query, filtering, ranking, and the final answer.
 
-general purpose embedding model.
+Agentic RAG agents are executing several searches to retrieve information.
 
-- A faster vector database can improve search quality: to search embeddings, you must
+For developers who are trying to optimize existing RAG implementations, it is usually most
 
-make a tradeoff between speed and accuracy, upgrading to an ultra-fast Vertex AI
+valuable to improve search results (measured in recall) prior to introducing agents. Some of
 
-Vector Search can improve both latency and quality
+the main techniques to improve search performance are:
 
-- Use a ranker: vector searches are fast but approximate, they should return dozens or
+- Parse source documents and chunk them: Vertex AI Layout Parser can handle complex
 
-hundreds of results which need to be re-ranked by a more sophisticated system to ensure
+document layouts, embedded tables, and embedded images like charts, and uses a
 
-the top few results are the most relevant or best answer.
+semantic chunker to keep chunks on topic with a hierarchy of headings.
 
-Implement check grounding: as a safeguard on grounded generation, you can ensure
+- Add metadata to your chunks: synonyms, keywords, authors, dates, tags and categories
 
-each phrase is actually citable by retrieved chunks.
-
-36
-
-Figure 10: A diagram of common RAG and search components, showing Vertex AI Search26, search builder APIs27, and RAG Engine.28
-
-Vertex AI Search26 is a powerful search engine providing Google quality search for your
-
-data and can be used with any RAG or Agentic RAG implementation. Each of the above
-
-components is automatically available within Vertex AI Search, without any development
-
-time at all. For developers who want to build their own search engine, each of the above
-
-components is exposed as a standalone API27, and RAG Engine28 can orchestrate the whole
+allow your searches to boost, bury, and filter; these allow your users or your agents more

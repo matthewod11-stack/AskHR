@@ -1,5 +1,9 @@
-## two-hour review session with yourself, or with the life strategy group
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 1a4d0b0a06953725d300af7f90c9e91f5d964b73
+title: H07XDL-PDF-ENG (1)
+---
+## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
 
-you started with other people, every six to 12 months. Review all seven
-
-steps, consider setbacks or shifting circumstances, and adjust
+weekly 15-minute check-in, we recommend scheduling a longer, one- to

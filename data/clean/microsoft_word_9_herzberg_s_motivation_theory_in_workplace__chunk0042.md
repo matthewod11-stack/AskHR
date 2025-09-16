@@ -1,3 +1,9 @@
-## HERZBERG’S MOTIVATION THEORY IN WORKPLACE
+---
+source_path: microsoft_word_9_herzberg_s_motivation_theory_in_workplace.md
+pages: n/a-n/a
+chunk_id: 920ad828233f3730d1566efe81a44117401dca1f
+title: microsoft_word_9_herzberg_s_motivation_theory_in_workplace
+---
+# from
 
-Shen, K. T. (2013). Herzberg’s two-factor theory on work motivation: Does it works for todays’ environment? G.J.C.M.P., 2(5), 18-22. Retrieved from https://www.researchgate.net/publication/262639924_Herzberg%27s_Two_Factor_Theory_on_Work_ Motivation_Does_it_Works_for_Todays_Environment (n.d.). Herzberg’s motivation-hygiene
+978

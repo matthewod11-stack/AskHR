@@ -1,5 +1,15 @@
-# a strategic vision.
+---
+source_path: H08BHS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8361c7e0e0879c202d725affb82ff2f296ddbfbb
+title: H08BHS-PDF-ENG
+---
+## HBR / Digital Article / What High Achievers Need from Their Mentors
 
-This article was originally published online on August 19, 2024.
+The best mentors don’t just teach; they inspire a perpetual quest
 
-Ruth Gotian, EdD, MS, is the chief learning oﬃcer and associate professor of education in anesthesiology at Weill Cornell Medicine in New York City. She is the author of The Financial Times Guide to Mentoring with Andy Lopata and The Success Factor. Discover your potential for high achievement by taking her exclusive High Achiever Optimization Assessment here.
+for knowledge and self-development. By embracing this philosophy,
+
+mentors can guide their high-achieving mentees to not only maintain
+
+their success but to evolve and lead strategically with renewed vigor and

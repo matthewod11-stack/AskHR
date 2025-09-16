@@ -1,7 +1,19 @@
-# strengths and potential.
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 149e4461b8f7586f5a0b35a6ebd2bb05d1de7ecf
+title: H089EG-PDF-ENG
+---
+## Schedule a one-on-one meeting with the team member.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Typically, it’s best to schedule a meeting speciﬁcally focused on this
 
-5
+topic to ensure you have enough time to discuss your expectations
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and answer any questions that come up. During your meeting, clearly
+
+explain what the project is, how it’s contributing to the goals of your
+
+team or organization, and why you’re asking this person to work on it.
+
+Think of the conversation as a chance to recognize your team member’s

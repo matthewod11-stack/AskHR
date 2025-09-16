@@ -1,53 +1,35 @@
-## order financing among overconfident CEOs (Malmendier et al. 2006). Similar evi-
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 00a43fce4c351c17d1a89940a2e2c8db5ea9f1ba
+title: beo_chap7_1
+---
+# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
 
-dence has been found for a sample of French start-up firms (Landier and Thesmar
+Malmendier and Tate 2005b). It is just the flip side of traditional Myers—Majluf-type
 
-2004). This increasingly robust evidence on managerial overconfidence gives rise to
+models with asymmetric information (Myers and Majluf 1984). There, the manager
 
-the question of how corporate governance should respond to CEO overconfidence.
+has inside information, and good types are reluctant to issue equity since they will be
 
-A large literature in corporate finance analyzes how options and stock grants help
+taken for bad types. Here, the overconfident manager thinks he has (positive) inside
 
-to align the interest of the CEO (or other corporate executive) with the interest
+information, with the same effect on equity issuance. Overconfidence amounts to
 
-of shareholders (Murphy 1999). The possibility of executive overconfidence alters
+“perceived asymmetric information.” As a result, overconfidence may actually lead
 
-basic conclusions about these incentive mechanisms. If we worry that a CEO just
+to /ess investment orfewer mergers whenever the overconfident CEO needs to tap the
 
-may have too positive a view on the value he or she can generate, then options and
+external capital market. A CEO is expected to overinvest only if a firm has abundant
 
-stocks are not helpful. Overconfident CEOs do not need incentives to maximize the
+internal resources or extra debt capacity. In other words, the investment decision of
 
-market value of the firm’s equity-——that is what they perceive to be doing already.
+an overconfident CEO should be sensitive to the availability of internal cash flow,
 
-In fact, options and stocks may then push them to act as if they were risk-loving
+and such investment—cash-fiow sensitivity should be strongest in firms with little
 
-and choose investment which are riskier (and lower net present value) than share-
+internal resources. At the same time, the inclination to undertake bad acquisitions
 
-holders would prefer. This concern is of particular relevance given that the CEO
+should have highest impact in firms with abundant internal resources.
 
-overestimates the expected value of those gambles to begin with.
-
-If CEOs are overconfident, then other incentive devices may work better than
-
-stocks and options. One example is debt (see Hart 1995, Chapter 6). An overconfident
-
-CEO in a cash-rich firm tends to undertake too many investment projects, including
-
-acquisitions. If cash is tied up for debt repayments and the capacity for senior debt is
-
-exhausted, the CEO would need to issue more risky debt or equity to finance projects.
-
-Given that overconfident CEOs perceive their firms to be undervalued by the equity
-
-market and, consequently, expected returns to their projects will be underestimated
-
-by providers of risky debt, the preexisting debt will curtail the tendency to overinvest.
-
-More generally, a mechanism that requires the CEO to get an outsider’s approval
-
-on an investment project would counterbalance CEO overconfidence. That “out-
-
-sider” could be a vigilant board. Companies typically specify in their charter that
-
-263
+The data confirm all of the predictions above, including some type of pecking-

@@ -1,3 +1,9 @@
-# TM
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 423ad15800bc36ad892f75c265a77bcfe5b929fc
+title: H08OXV-PDF-ENG
+---
+# PP
 
-Tim Michaelis, Ph.D., is an Assistant Professor of Entrepreneurship at Northern Illinois University College of Business. He received his doctorate in Psychology at NC State University. Tim focuses primarily on developing original research around the topics of entrepreneurial resourcefulness, hybrid entrepreneurship, and entrepreneur health & well-being.
+Paraskevas Petrou, Ph.D., is an Assistant Professor of Organizational Psychology at Erasmus University Rotterdam. His research interests fall under the overarching theme of self-regulation and include topics such as leisure crafting as well as employee proactivity, adaptivity and creativity.

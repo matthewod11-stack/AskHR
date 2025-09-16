@@ -1,5 +1,9 @@
-# Appleton-Century-Crofts.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b05ec3582f3767314ec5b3c28aaa9b972bb57967
+title: untitled
+---
+# Century-Crofts.
 
-Smith, L. (1986). Behaviorism and logical positivism: A revised ac- count of their alliance. Stanford, CA: Stanford University Press.
-
-Smolensky, P. (1988). On the proper treatment of connectionism.
+Skinner, B. F. (1969). Contingencies of reinforcement. New York:

@@ -1,15 +1,13 @@
-## Recordkeeping, Reporting, Notices and Posters
+---
+source_path: Employment Law Guide - Child Labor Protections (Agricultural Work).md
+pages: n/a-n/a
+chunk_id: 4a45e8097d768d47cfe644c42f68a23d8742bcce
+title: Employment Law Guide - Child Labor Protections (Agricultural Work)
+---
+# Wage and Hour Division oﬃce and in subpart E-1 of Regulations, 29 CFR Part 570. By regulation, employers
 
-Every employer of employees subject to the FLSA's minimum wage provisions must post, and keep posted, a
+must keep records of the dates of birth of employees under age 19, their daily starting and quitting times, their daily and weekly hours of work, and their occupations.
 
-notice(https://www.dol.gov/whd/regs/compliance/posters/ﬂsa.htm) explaining the Act in a conspicuous place in all
+The FLSA also gives an employee the right to ﬁle a complaint with the Wage and Hour Division and testify or
 
-of their establishments. Although there is no size requirement for the poster, employees must be able to
-
-readily read it. The FLSA poster is also available in
-
-Spanish(https://www.dol.gov/whd/regs/compliance/posters/ﬂsaspan.htm), Chinese(https://www.dol.gov/whd/regs/compliance/posters/minwagecn.pdf),
-
-Russian(https://www.dol.gov/whd/regs/compliance/posters/FLSAPosterRuss.pdf), Thai,
-
-(https://www.dol.gov/whd/regs/compliance/posters/MinWageThai.pdf) Hmong,
+in other ways cooperate with an investigation or legal proceeding without being ﬁned or discriminated against in any other matter.

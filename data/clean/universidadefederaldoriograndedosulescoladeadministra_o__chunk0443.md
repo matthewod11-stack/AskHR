@@ -1,5 +1,9 @@
-## Comunicação Interna, com uma mensagem institucional, geralmente enviada por
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: e3c9ea001b587308c5f4a69a42eb0e030e9c18c2
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## as lideranças recebem acesso à plataforma para navegar nos resultados das
 
-e-mail, agradecendo a participação, contando sobre o resultado e trazendo algum
-
-destaque do ciclo, caso haja, ponto levantado por D’Otaviano (2009), quando
+pesquisas. Para o restante da companhia, mais uma vez, entra a equipe de

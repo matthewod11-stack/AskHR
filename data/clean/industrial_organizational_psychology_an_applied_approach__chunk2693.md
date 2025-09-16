@@ -1,15 +1,7 @@
-# 7
-
-7 7
-
-Show the speaker you want to listen by using nonverbal cues such as making eye contact and nodding your head. Remove or resist distractions that will keep you from listening. Be silent for a few seconds after the person has finished speaking. This will encourage the person to continue to talk, you will be sure when they have finished talking, and it will give you time to respond calmly.
-
-To test your own listening skills, complete Exercise . in your workbook.
-
-Emotional State The interpretation of a message can certainly be affected by the receiver’s emo- tional state. When we are mad, anxious, depressed, elated, or upset, we do not think as clearly as when our moods are more moderate. Think of the last time you had an argument with someone. How rational and intelligent was your con- versation? After the argument was over, did both of you remember what was said in the same way?
-
-Likewise, have you ever attended a class when your mind was somewhere else? My guess is that neither your attention span nor your comprehension of the material was as high as normal.
-
-Cognitive Ability Cognitive ability is another factor than can affect the way in which a received mes- sage is interpreted. That is, a person can receive a message exactly as it was sent, yet not be bright enough to understand it. For example, have you ever attended a class where you had no idea what the professor was talking about? You heard her words and saw her diagrams, but the message still made no sense. Likewise, have you ever told a great pun, only to be disappointed that the person at the receiving end of the joke did not understand it? If so, then you have firsthand experience in understanding how cognitive ability can affect the way in which information is interpreted.
-
-Bias Our biases obviously affect our ability to interpret information we receive. For example, we can hate a political candidate so much that we can refuse to process any of the positive information we hear about her. We do, however, process every piece of information that is consistent with our opinion.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a5ffc7b62722beb3a817e1c19795f55ef131a57b
+title: industrial_organizational_psychology_an_applied_approach
+---
+a party at your house on Thursday at : p.m., you should also add that she is invited, or she will understand only that there is a party, and not that she has been invited. Of course, the million-dollar question is, “How can we tell what style of lis- tener is listening to us?” The best way might be to test the listener on the Attitu- dinal Listening Profile mentioned earlier, but this is hardly practical. The most practical method is to use the person’s speaking style as an indicator of listening style. If the person usually mentions how she feels about things, she is probably an empathic listener, but if she speaks with a lot of detail, she is probably a tech- nical listener. Someone speaking to a group, of course, must relate to all styles of listeners. The best communicators will have something for everyone. A good instructor will provide jokes and humorous stories for leisure listeners, use an outline for- mat and provide main points for inclusive listeners, provide specific facts and details for technical listeners, discuss her feelings about the topic for empathic listeners, have good speaking skills and appropriate dress for stylistic listeners, and be confident and accurate for nonconforming listeners. To gauge your own listening style, complete Exercises . and . in your workbook. Tips for Eff ective Listening In addition to understanding how your listening style serves as a filter, you can improve your listening effectiveness in many other ways. Below is a summary of tips taken from a variety of sources: 7 7 7 7 7 Stop talking. Let the other person finish speaking. Focus on what the person is saying rather than on how well they are saying it, what your next response will be, or what you will eat for lunch. Try to understand what the other person is trying to say. Ask questions to make sure you understand the person’s point, but don’t ask so many questions that they distract the speaker. Be patient and keep an open mind. If you disagree, you can always do so after the person is finished talking.

@@ -1,31 +1,27 @@
-# people about their well-being.
+---
+source_path: H07THH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 88681cfd1650b50fd740687f438ba58d12dd1c20
+title: H07THH-PDF-ENG
+---
+## the case. However, less than a quarter of U.S. employees could strongly
 
-Require manager training on leading remote and hybrid teams.
+agree their organization cares about their well-being.
 
-Ninety-one percent of HR leaders said they have provided some sort of
+Leaders may feel like their organization cares about their employees —
 
-formal or informal training to their managers around leading remote
+but that doesn’t matter if your employees don’t feel like you care.
 
-and hybrid teams. Job done, right? Not quite. More than half — 57% —
+If your well-being strategy is based on programs that few people use,
 
-of U.S. managers told Gallup they had received zero formal or informal
+then you have failed to bridge the gap between your caring and your
 
-training on managing remote or hybrid teams.
+employees feeling cared for. Managers must not only understand what
 
-One major issue is that trainings are often optional and often coupled
+programs are available, they must also be trained on how to talk
 
-with a message to “own your own development.” In these situations,
+to employees about their well-being. While 72% of CHROs said their
 
-what managers and employees hear is: You are on your own. Help is not
+managers were trained on well-being programs, less than half (49%)
 
-on the way, so ﬁgure it out by yourself.
-
-Overwhelmed managers aren’t likely to complete these kinds of
-
-trainings. Gallup research has found that managers leading hybrid
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+said they were training managers how to have a conversation with their

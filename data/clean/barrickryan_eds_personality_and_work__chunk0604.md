@@ -1,5 +1,11 @@
-# A Multilevel Perspective
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f476c24564911df4182296e0857ec8ef9405cb13
+title: barrickryan_eds_personality_and_work
+---
+# 198 PERSONALITY AND WORK
 
-Kozlowski and Klein (2000) provide a useful framework for sum- marizing the multilevel effects of personality in teams. They sug- gest that cross-level models, which describe relationships between different constructs at different levels of analysis, tend to take three forms:
+Research related to the team level of analysis is thus rather lim- ited. The research that exists supports the notion that individual traits can combine to inﬂuence a team trait in an additive or a dominant effect. Although researchers have not yet looked at how different individual traits may interact to form a team-level trait, the epistasis effect suggests that future work in this area should be quite informative. A great deal of additional work also needs to be done to assess the impact of environment. As research evolves, we will be better able to develop theory that explains how individual traits combine with team environmental factors to inﬂuence team trait development.
 
-- A direct effects model, which occurs when a construct at one level (individual personality) is hypothesized to directly inﬂu- ence a construct at another level (team-level personality)
+From a practice perspective, research suggests that team-level traits do have an impact on team performance. One method of in- ﬂuencing these traits is careful selection of team members. The in- clusion of a single team member who is very low on Agreeableness, Conscientiousness, or Emotional Stability can potentially harm the performance of the entire team. The desirability of Extraversion for any individual also appears to depend on the levels of Extra- version for other team members. These effects suggest that the im- portance of selecting employees with desirable traits may be even more critical in team settings than in settings that rely primarily on individual performance. This is because of the potential dominance effect of an individual trait on the team trait, whereby the trait of one individual has a large impact on performance at the team level. The utility of personality traits as performance predictors, particu- larly Agreeableness, is thus likely to be severely underestimated by studies that measure individual but not team performance.

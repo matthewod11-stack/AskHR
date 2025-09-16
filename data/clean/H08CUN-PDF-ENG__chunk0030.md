@@ -1,11 +1,15 @@
-# Don’t
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56f1858bfc5eb439bb7e8707d6d563acd07e1f8d
+title: H08CUN-PDF-ENG
+---
+# by others.
 
-- Hesitate to step in when team dynamics shift from arguing about work
+- Experiment with new routines and communication to counteract
 
-to personal conﬂicts; keep communication open and let your team
+potential resentment and improve team dynamics.
 
-know you’ve got their back.
+- Be an advocate for your team by both expressing their concerns to
 
-- Respond with defensiveness when you’re the target of resentment;
-
-instead, be curious and seek feedback to understand how your team
+leadership and shielding them from organizational dysfunction.

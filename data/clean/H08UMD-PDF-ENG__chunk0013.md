@@ -1,5 +1,13 @@
-## contributions, and teachability…signal respect and recognition,” which
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 913dda52ff59e99637d3895db1cd50aa9af7b31f
+title: H08UMD-PDF-ENG
+---
+## Australia, Canada, New Zealand, the United Kingdom, and the United
 
-can help employees gain the conﬁdence that they have what it takes to
+States. They found the same pattern: Humble leaders made others want
 
-lead, the researchers write.
+to lead.
+
+“Behaviors [that exhibit] self-awareness, appreciation of others’

@@ -1,11 +1,7 @@
-## In the aftermath of George Floyd’s murder and the national reckoning
-
-around racial injustice in 2020, many companies redoubled their
-
-commitment to increase the diversity of their workforce. New practices
-
-and policies were introduced to help reach diversity goals set by
-
-leadership, and for quite a few, this commitment was broadcast widely:
-
-centered in a CEO speech, a press release, a company town hall, on
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c9f4474e02a5c00f12cc1e4a8ed1fcfa436c7e1
+title: H088Z4-PDF-ENG
+---
+# photo by dasar/Getty Images

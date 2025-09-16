@@ -1,7 +1,23 @@
-# Mixed-Standard Scales
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f38cd48ac277f0600057ba3e2d90682e88d19d9b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Creating a Forced-Choice Scale
 
-To overcome some of the problems of forced-choice scales, Blanz and Ghiselli () developed mixed-standard scales, an example of which is shown in Figure .. Mixed-standard scales are developed by having employees rate job behaviors and critical incidents on the extent to which they represent vari- ous levels of job performance. For each job dimension, a behavior or incident is chosen that represents excellent performance, average performance, and poor performance. These behaviors then are shuffled, and the end results look similar to those shown in Figure ..
+To create a forced-choice scale, the first step is similar to that for BARS: Critical incidents and relevant job behaviors are generated. These incidents, of course, are available only when a job analysis has been conducted.
 
-To evaluate an employee, a supervisor reads each behavior and places a plus ( + ) next to it when a particular employee’s behavior is usually better than the behavior listed, a zero () if the employee’s behavior is about the same as the behavior listed, or a minus (−) if the employee’s behavior is usually worse than the behavior listed. To arrive at a score for each scale, the supervisor uses a chart like the one shown in Table .. An overall score can be obtained by summing the scores from each of the scales.
+In the second step, employees rate all of the behaviors on the extent to which excellent employees perform them. After an approximately -month interval, the employees again rate the items. This time, however, they rate the extent to which bad employees perform the behaviors. Finally, after another month, the employees again rate the behaviors, this time for their desirability.
 
-Although mixed-standard scales are less complicated than forced-choice scales, they also have their drawbacks. The most important is that supervisors often make what are called “logical rating errors.” For example, it would make no sense for a supervisor to rate an employee as better than the example of excellent performance or worse than the example of poor performance. Yet these types of errors are common. Logical rating errors can still be scored by using the revised scoring method developed by Saal () (Table .), but their existence alone casts doubt on the accuracy of the entire performance appraisal.
+In the third step, the actual items for the rating scale are created. This is done by computing a value for each behavior by subtracting the average rat- ing given to each behavior that describes the bad employee from the average rating given to each behavior that describes the good employee. Behaviors with high positive values are considered to discriminate good from bad employees, items with high negative values are considered to discriminate bad from good employees, and behaviors with values near zero are considered neutral.
+
+The next step in creating the items is to pick good, bad, and neutral behaviors that have similar desirability ratings. Thus, each rating item has three behaviors: One indicates good performance, one indicates poor perfor- mance, and one indicates neither good nor bad performance. Furthermore, all of the behaviors for an item have the same level of desirability. This process is repeated until several items have been constructed for each of the relevant job dimensions.
+
+The disadvantages of the forced-choice scale probably outweigh its advan- tages. First, evaluations on forced-choice scales can be “faked.” A supervisor who wants to give an employee a high rating need only think about a good employee when evaluating the employee in question. Second, supervisors often object to forced-choice scales because the scoring key is kept secret. Not only does this secrecy deprive a supervisor of any control over the rating pro- cess, but it can be seen by supervisors as a lack of trust in their abilities to evaluate their employees. Most important, however, because the key must be
+
+evaluating employee performance
+
+283
+
+kept secret, forced-choice scales make feedback almost impossible. Thus they should be used only when the major goal of the performance appraisal system is accurate employee evaluation for purposes such as promotion and salary increases.

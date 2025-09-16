@@ -1,23 +1,17 @@
-## especially in a virtual environment,” as one 2020 program participant
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2cf7e7aba71d27d2d3c1625cf092345eaea8de08
+title: H07I7D-PDF-ENG
+---
+## HBR / Digital Article / How to Help Superstar Employees Fulfill Their Potential
 
-said.
+member’s background is diﬀerent and each one is driven diﬀerently.
 
-For the most part, men and women cited similar leadership challenges.
+I must then manage diﬀerently.”
 
-However, women were more likely than men to cite “leadership style”
+Fifteen years later, high potentials noted the added complexity of
 
-as a challenge. As one woman noted: “I struggle with my leadership
+leading global teams remotely. “Having enough time to develop
 
-style. I am a very driven, see the end goal, and often think that everyone
-
-else around me should be able to do the same. When giving direction
-
-or communicating to members on my team, it can sometimes come
-
-across as being parental and directive. Although I am highly regarded
-
-and respected, I want to make sure that my leadership style continues
-
-to be one of encouragement, motivation, and development versus one
-
-that turns people oﬀ and they therefore do not want to follow me and
+employees while advancing organizational goals is a real challenge

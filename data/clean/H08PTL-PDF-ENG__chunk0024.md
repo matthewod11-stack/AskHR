@@ -1,17 +1,7 @@
-## directors and board-appointed individuals such as executives and
-
-chairs are chosen for their ability to shape the organization’s direction
-
-—not just to carry out day-to-day operations. This means that their
-
-value lies not only in managing internal tasks, but in guiding long-term
-
-strategy, setting vision, and representing the company to stakeholders.
-
-Consider Satya Nadella, CEO of Microsoft. He wasn’t hired just to
-
-manage internal operations, but to lead Microsoft into new areas
-
-like cloud computing and AI. And during her time as chairperson
-
-of PepsiCo’s board, Indra Nooyi inﬂuenced the company’s long-term
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8263816b599dac9524623010d067e31c5683f88
+title: H08PTL-PDF-ENG
+---
+## encroachment risk, such as board chairs and C-suite executives. Board

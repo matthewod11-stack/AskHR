@@ -1,9 +1,17 @@
-# 6 Day
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: c522d62289a2669ddebe17b21d4d53eda8d6f20f
+title: barrickryan_eds_personality_and_work
+---
+# Negative
 
-7
+1
 
-8
+2
 
-9
+3
 
-10
+4
+
+5

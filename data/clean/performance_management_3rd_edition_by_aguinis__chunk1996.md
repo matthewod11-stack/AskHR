@@ -1,13 +1,17 @@
-# insight, 4 resource demand, 9, 9t
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: f531abea5681e778ca2dc6aa53a150f170a77136
+title: performance_management_3rd_edition_by_aguinis
+---
+# protection, 5 risk, 9, 9t
 
-Manz, C. C., 194 Marks, M. A., 314 Martey, A. K., 57 Martineau, J., 58, 224 Martin Marietta Corporation, 49 Masterson, S. S., 35
+Locander, W. B., 167 Locke, E. A., 224, 261, 292 Lockheed Martin Corporation, 49 London, M., 35, 58, 166, 194, 224, 261 Longenecker, C. O., 167 Long-term incentives, 11–12 Loop Customer Management, 73b Lovegrove, I., 167 Luthans, F., 224, 292 Lutz, B., 256 Lyons, L. S., 226, 260 M Mabey, B., 129 MacBryde, J., 314 Major achievements and contributions,
 
-Mathewson, H. M., 281 Maurer, T. J., 224 McAdam, R., 35 McCaleb, V. M., 292 McCarthy, A. M., 225 McCloy, R. A., 104 McDonald, P., 66 McGourty, J., 313 McGregor, D., 262 McGregor, J., 129 McKee-Ryan, F. M., 261 McNealy, S., 13 Meadows, M., 85 Meaningfulness, 20, 29 Measurement challenges, 99 Mechanical strategy, performance
+form, 132, 133t
 
-score, 140, 162–163
+Maloney, R., 224 Malos, S. B., 293 Management by objectives (MBO), 107 Management Standards Centre, UK, 4,
 
-Medical insurance, 13 Mendibil, K., 314 Mercer consulting, 23b Merit pay, 11 Merit/salary review, 144, 249 Merrill Lynch, 3 Mexico, performance management
+6, 48
 
-in, 24 Meyer, C., 314 Microsoft Corporation, 72, 74, 85, 90,
-
-110, 117
+Management support, PM system, 79 Managers. See also Supervisors

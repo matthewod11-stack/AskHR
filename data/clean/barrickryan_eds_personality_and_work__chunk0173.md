@@ -1,7 +1,9 @@
-# THE HAPPY WORKER 47
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 3b745715156a2f0f52f2ee8d01463ffca314393b
+title: barrickryan_eds_personality_and_work
+---
+# Judgment and Decision Making
 
-to rely on stereotypes and preexisting judgments (Edwards & Weary, 1993; Meloy, 2000). These studies suggest that happy people are less careful and less analytical than unhappy people, which leads to more frequent errors and greater reliance on stereotypes and biases. On the other hand, in certain conditions (particularly when more per- sonally relevant or more ecologically valid tasks are used), happy people have been shown to be more efﬁcient in their cognitive pro- cessing. Baron (1990), for example, found that people who had ex- perienced a positive mood induction were more likely than those who did not to use an efﬁcient strategy in a clerical coding task, and Isen and Means (1983) showed that in a decision-making task, participants in a positive mood condition were more likely to ignore information that they had previously seen, resulting in a more efﬁ- cient strategy. In addition, Bodenhausen, Kramer, and Süsser (1994) found that participants in a positive mood condition could over- come their stereotypes if they were told that they would be held ac- countable for their decisions.
-
-Resolving the discrepancies in the literature has required emo- tion researchers to consider the function and effects of positive moods more carefully. Many emotion theorists now believe that positive moods are not tied to particular types of processing. In- stead, moods may provide information about the conditions in the world around us, and it is that information that inﬂuences the choice of cognitive processing (Martin, Ward, Achee, & Wyer, 1993). Speciﬁcally, positive moods signify that things are going well, and therefore decisions can be made more quickly, less carefully, and with less concern about potential risks (Bless et al., 1996). As a result, people in positive moods will be likely to use heuristics to perform tasks. This results in more errors when attention to detail is required, but more efﬁcient strategies when tasks are less difﬁ- cult or more information needs to be synthesized.
-
-Implications for Work and Productivity The research on judgment and decision making illustrates that there are situations where a positive mood can lead to riskier de- cisions and less careful processing of available information. For jobs that require vigilance, caution, and careful consideration of all information, happy individuals may be less productive than less happy workers. Although happy individuals can sometimes over- come these deﬁcits, it is unclear exactly when this occurs.
+The literature on judgment and decision making presents a com- plicated picture of the cognitive processes that happy and unhappy individuals are likely to use. On the one hand, numerous studies show that happy individuals are less likely than neutral or sad in- dividuals to evaluate the quality of arguments (Bless, Bohner, Schwarz, & Strack, 1990; Mackie & Worth, 1989) and are more likely

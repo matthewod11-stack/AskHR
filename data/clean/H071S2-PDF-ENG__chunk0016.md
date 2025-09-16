@@ -1,33 +1,55 @@
-# HBR / Digital Article / How to Help an Employee Who Struggles with Time Management
+---
+source_path: H071S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8abbf4f8408f2a4eac928b70c9769b2dbdfc6b9d
+title: H071S2-PDF-ENG
+---
+# Assess your part.
 
-Take the time to think through exactly what’s causing issues for you
+Your direct report may very well have poor time management. But you
 
-with your direct report’s lack of time management: Do you not have
+might want to consider whether you also have poor time management
 
-what you need for important update meetings or presentations? Are you
+skills and in which ways, if any, you’re contributing to the problem.
 
-experiencing stress from them asking you to review things last minute?
+If you send over assignments last minute, don’t give clear direction,
 
-Are their actions costing you time or money? Do you feel anxious when
+refuse to set priorities, have no follow-up system, or forget to give
 
-there’s not good communication on status? Once you know this, it will
+feedback, then your actions could be playing a role in the situation.
 
-help focus your feedback discussions.
+If you also expect your employees to be constantly available through
 
-Communicate what you need.
+email, chat, or other channels, so they can’t set boundaries to complete
 
-Once you know exactly what’s bothering you, calmly communicate
+focused work, you’re also partially at fault for the struggles they face.
 
-exactly what you need, when you need it, and why you need it. You
+By identifying these issues in advance of the feedback conversation, you
 
-can also ask them what they need from you to help them be successful.
+can go in acknowledging where you could also have done better.
 
-Although you may feel tempted to unload all of your frustration on your
+Pinpoint the stress.
 
-direct report about the stress they’ve caused you and the issues they’ve
+Earlier this year, I had a situation I found very stressful with an outside
 
-had, a harsh approach will typically backﬁre. They’ll be so overwhelmed
+contractor. There was a large project that I needed them to complete,
 
-by your anger and shut down or become defensive and stonewall. Take
+and they were very delayed. One day as I was thinking about it, I
 
-deep breathes, and try to remember that they likely mean well but
+realized that within the larger project, there were just a couple of
+
+distinct items that mattered most. Once those were done, my stress
+
+would dramatically decrease, and the other parts could take more time.
+
+By clarifying my most important needs, I felt much less stressed and
+
+could communicate what I needed to get back most urgently, even if the
+
+whole project wasn’t done.
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

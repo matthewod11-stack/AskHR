@@ -1,9 +1,9 @@
-# WS
+---
+source_path: H08DZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a79dde54027c6346e5e8f2f42656afca90b63a6
+title: H08DZN-PDF-ENG
+---
+# TH
 
-Winny Shen is an Associate Professor of Organization Studies at the Schulich School of Business, York University. She is currently an Associate Editor at Journal of Occupational Health Psychology and Journal of Business and Psychology. Her program of research focuses on issues of leadership, diversity and inclusion, and worker health and well-being, and has appeared in leading psychology and management journals.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Tanja Hentschel is an Associate Professor of Organizational Behavior at the Amsterdam Business School, University of Amsterdam. She received her PhD from the Technical University of Munich and was a research fellow at the Department of Psychology, New York University. Tanja is an editorial board member of Journal of Business and Psychology. Her research focuses primarily on (gender) stereotypes, biases, leadership, and career choices.

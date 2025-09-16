@@ -1,13 +1,19 @@
-# HBR / Digital Article / What Employers Get Wrong About How People Connect at Work
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45ee37e176c772e6480822ae51873b121fc76a6e
+title: H08FH3-PDF-ENG
+---
+# Employer Connection
 
-what you did. If you’ve had an opportunity to work with an organization
+You may or may not have worked at a place where you felt like
 
-that met those needs, you likely felt a boost of employer connection.
+your values aligned with those of your employer, your work richly
 
-When there’s low employer connection, going to work can feel like the
+contributed to the goals of the organization, and you found meaning in
 
-proverbial “clocking in.” Lack of employer connection can not only
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-inﬂuence an employee’s job performance, but it can also inﬂuence the
+3
 
-talent an organization attracts.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,22 +1,35 @@
-### **[The new reality of human-AI collaboration culture]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: 0d67f505a371227898bfee69e4f36557d679c58d
+title: Gibbons
+---
+### **[What it means for CHROs: the evolution from human resources to human cultivation]{.underline}**
 
-[Creating an effective human-AI collaboration culture requires
-abandoning old mental models. This isn\'t about \"upskilling\" humans to
-use AI tools. It\'s about reimagining how different forms of
-intelligence work together.]{.underline}
+[The traditional CHRO role was built on predictable assumptions: defined
+job roles, linear career paths, stable skill requirements, and humans as
+the only workers. These assumptions are dissolving.]{.underline}
 
-[Think of AI systems as colleagues with unique characteristics: they
-never tire but lack intuition, they process vastly more information but
-miss emotional nuance, they identify patterns humans can\'t see but
-can\'t explain why something matters to a human being. Your job is to
-create a culture where these different intelligences complement rather
-than compete.]{.underline}
+[Every framework underlying talent strategy now requires fundamental
+rethinking. Succession planning assumes stable roles that may not exist
+in two years. Leadership development programs train for a world that\'s
+already changed. Performance management systems measure human output
+against human benchmarks, ignoring that AI colleagues are redefining
+what \"good\" looks like. Talent pipelines prepare people for jobs while
+the definition of those jobs shifts monthly.]{.underline}
 
-[This demands new approaches to fundamental HR practices. Onboarding
-must include not just introducing human colleagues but explaining AI
-teammates\' capabilities. Team formation must consider the optimal mix
-of human and artificial intelligence for different challenges.
-Development conversations must help humans find their unique value when
-AI can do much of what they previously did. Recognition systems must
-celebrate human contributions that transcend productivity
-metrics.]{.underline}
+[But here\'s the deeper shift: CHROs must evolve from managing human
+resources to cultivating human potential in a hybrid workforce. This
+means thinking about AI systems not as tools but as colleagues --- team
+members with their own capabilities, limitations, and development
+trajectories. Your workforce now includes both human and artificial
+intelligence, and your role is to help them work together
+effectively.]{.underline}
+
+[Consider what this means practically. You\'re no longer just developing
+human leaders --- you\'re helping them learn to lead hybrid teams where
+an AI might be the most knowledgeable member. You\'re not just building
+culture among humans --- you\'re architecting collaboration patterns
+between human and artificial colleagues. You\'re not just managing
+change --- you\'re shepherding a fundamental redefinition of work
+itself.]{.underline}

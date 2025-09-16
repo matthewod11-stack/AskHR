@@ -1,9 +1,7 @@
-# Psychological Bulletin, 63, 384–399.
-
-Tulgan, B. (2001). Real pay for performance. Journal of Business
-
-Strategy, 22(3), 19–22.
-
-Turner, J. T. (1994). Violence in the work place: First line of
-
-defense. Paper presented at the 23rd annual meeting of the Society of Police and Criminal Psychology, Madison, WI. Turner, J. T., & Gelles, M. G. (2003). Th reat assessment: A risk
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: beb9f00d92063abb55ee1509700d8ea93b83f5e9
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Tuckman, B. (1965). Developmental sequence in small groups.

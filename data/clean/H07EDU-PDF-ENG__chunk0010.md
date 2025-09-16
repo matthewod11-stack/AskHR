@@ -1,3 +1,19 @@
-## engagement, higher voluntary turnover, and lower innovation — all of
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e9112aca52d982d2753d6de3185e62b93aecdc7
+title: H07EDU-PDF-ENG
+---
+# across the tech sector.
 
-which hurt proﬁts in the long run.
+Traditionally, employers resort to layoﬀs during recessions to save
+
+money. Companies continue to cling to the idea that reducing staﬀ will
+
+provide the best, fastest, or easiest solution to ﬁnancial problems.
+
+I’ve studied layoﬀs since 2009. In 2018, I wrote an article for HBR
+
+that explored how the short-term cost savings provided by a layoﬀ
+
+are overshadowed by bad publicity, loss of knowledge, weakened

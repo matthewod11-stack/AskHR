@@ -1,11 +1,21 @@
-## employee satisfaction and performance) and if so whether less-extreme
+---
+source_path: H07Q3D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af24f4997f5e89f7af96f1350507d59344e15a3a
+title: H07Q3D-PDF-ENG
+---
+# around nature.
 
-doses of nature are meaningful enough to elicit these gains. Thus, we set out to test the eﬀects (if any) of what we call micro-nature — small, aﬀordable, seemingly innocuous ways of incorporating nature into the
+Despite the connection between contact with nature and our well-being,
 
-workplace — on how employees feel at work, and how they perform.
+large investments in bringing nature into the workplace raise some
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+thorny issues. First, in a time of economic headwinds and cost-cutting,
 
-2
+is there a business case for incorporating nature into employees’
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+surroundings? Second, what about those workplaces where it is not
+
+feasible or sensible to incorporate a green spine or a rooftop garden?
+
+Answering these questions requires ﬁrst understanding whether nature has eﬀects on metrics that matter to organizations’ bottom lines (e.g.,

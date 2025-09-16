@@ -1,35 +1,29 @@
-## HBR / Digital Article / Go Beyond the Basics to Support Nursing Parents at Work
+---
+source_path: H07VJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4f684846d28b7fc7726ee924614450c2b4d80bb
+title: H07VJ8-PDF-ENG
+---
+# creates goodwill?
 
-One option that I’ve seen grow in popularity is the Nessel, an all-in-one,
+- Is the lactation room designed as a single or multiple-user space?
 
-portable lactation station. I spoke with the company’s co-founder, Della
+- Is it a warm, welcoming, and well-equipped space?
 
-Leapman, and she explained what drove her to start the business. “As
+The ﬁrst of these questions often sparks the most concern within
 
-an architect and a pumping mother, I quickly understood how to ﬁll the
+organizations. How do you ﬁnd the space for one lactation room, let
 
-void and bring a new level of workplace pumping station to life. We built
+alone enough to meet your campus size? This can often feel threatening
 
-the concept of Nessel around what I call ‘swing space’ — a space that
+— how much space will I need to “ﬁnd”? — when really the opposite
 
-has multiple, often temporary functions, underused or forgotten areas.
+is true. The PUMP law is ﬂexible based on need. So, break down your
 
-Think a supply closet, for example. Recognizing that these spaces may move around within a campus or oﬃce suite, we added in ﬂexibility for
+assessment to consider temporary as well as permanent options.
 
-the employer by removing built-in plumbing as a requirement.” With its
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-fully functional sink, refrigerator, electrical outlets and chair designed
+2
 
-speciﬁcally for pumping, Nessel has been busy ﬁlling orders.
-
-What more can your organization do to go beyond basic compliance?
-
-Getting input from employees who have used the space is invaluable. It
-
-not only informs, it actively engages, which underscores an authentic
-
-desire to learn from employee experiences. Here are questions you
-
-might ask in person, over email, or in an anonymous survey:
-
-- Where did you get most of your information around pumping and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

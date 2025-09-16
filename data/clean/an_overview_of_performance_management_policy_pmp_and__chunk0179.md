@@ -1,25 +1,27 @@
-## 3.2 CBL Performance Management Process Components:
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 7dcbfe143a02b1e20889d6f19f41ccef2280db00
+title: an_overview_of_performance_management_policy_pmp_and
+---
+# 3.1 Performance Management Objectives:
 
-- (cid:32) Operational
+- (cid:32)
 
-- (cid:32) Financial
+Indemnifying great performance is perceived
 
-- (cid:32) Customer Focus
+- (cid:32) Constituent supports and Trainings needing bountiful performance
 
-- (cid:32) Leadership
+- (cid:32) Change of duties with respect to ceaseless poor performance\
 
-(cid:79)(cid:112)(cid:101)(cid:114)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:97)(cid:108)(cid:32)
-
-(cid:76)(cid:101)(cid:97)(cid:100)(cid:101)(cid:114)(cid:115)(cid:104)(cid:105)(cid:112)
-
-(cid:67)(cid:66)(cid:76)(cid:32) (cid:80)(cid:101)(cid:114)(cid:102)(cid:111)(cid:114)(cid:109)(cid:97)(cid:110)(cid:99)(cid:101)(cid:32) (cid:77)(cid:97)(cid:110)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:32) (cid:80)(cid:114)(cid:111)(cid:99)(cid:101)(cid:115)(cid:115)(cid:32) (cid:67)(cid:111)(cid:109)(cid:112)(cid:111)(cid:110)(cid:101)(cid:110)(cid:116)(cid:115)
-
-(cid:70)(cid:105)(cid:110)(cid:97)(cid:110)(cid:99)(cid:105)(cid:97)(cid:108)(cid:32)
-
-(cid:67)(cid:117)(cid:115)(cid:116)(cid:111)(cid:109)(cid:101)(cid:114)(cid:32) (cid:70)(cid:111)(cid:99)(cid:117)(cid:115)(cid:32)
-
-13
+12
 
 (cid:32)
 
 (cid:32)
+
+- (cid:32) Perceive representative responsibility
+
+- (cid:32) Ensure a sensible association among pay and performance
+
+- (cid:32) Focus performance on key business needs to drive business results

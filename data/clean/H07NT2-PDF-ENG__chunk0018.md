@@ -1,11 +1,19 @@
-## HBR / Digital Article / When Blind Hiring Advances DEI — and When It Doesn’t
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0d7edc78f18136afecc0f6d53715fa437401d70
+title: H07NT2-PDF-ENG
+---
+# groups.
 
-themselves three questions to understand whether a blind hiring policy
+Viewed together, these recent studies suggest that a blind hiring process
 
-is right for them.
+often helps, but may sometimes hinder, organizations’ goals related
 
-Question 1: Does my organization systematically under-select applicants from traditionally disadvantaged groups for interviews?
+to diversity. Informed by these ﬁndings, decision-makers should ask
 
-Research suggests that blind hiring only boosts interview rates
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-for members of traditionally disadvantaged groups when used by
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,35 @@
-# signiﬁcance).
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8427dd82535362c0a6ba190d1b2ea6c0b61c0681
+title: H08NEW-PDF-ENG
+---
+# HBR / Digital Article / Your Company Wants to Close Pay Gaps. Here’s Where to Start.
 
-If a ﬁrm’s pay equity analysis reveals a pay gap, and that gap is over
+Between these poles, there are ﬁrms that may face little regulatory
 
-the ﬁrm’s threshold, the ﬁrm will need to give raises to employees of
+pressure regarding pay equity but hold values inconsistent with having
 
-the underpaid demographic(s) the sum of which would be determined
+pay gaps. Such a ﬁrm should establish a tolerance threshold of
 
-by what it would take to pull the gap within the ﬁrms’ acceptable
+acceptability for its economic pay gaps (e.g., 1%) and manage the gaps
+
+below this level, ideally close to zero. Another intermediate case are
+
+ﬁrms that are mostly concerned about regulatory risk. Such ﬁrms may
+
+take little consideration of economically signiﬁcant gaps except when
+
+they are statistically signiﬁcant. These ﬁrms need to determine how
+
+large a pay gap can be before it is statistically signiﬁcant and work to
+
+keep their gaps within regulators’ accepted levels.
+
+- 2. Close or reduce existing gaps
+
+Once an organization has clariﬁed its pay gap goals, it’s time to close
+
+the gap. First, the pay gap needs to be reduced to below its internal
+
+threshold (which can be based on statistical signiﬁcance or economic

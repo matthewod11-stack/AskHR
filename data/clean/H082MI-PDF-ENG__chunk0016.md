@@ -1,11 +1,31 @@
-# Relationships with remote work
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00203c1a3f79030ebabd2f73c73e48565eecc0e0
+title: H082MI-PDF-ENG
+---
+## HBR / Digital Article / Fighting Loneliness on Remote Teams
 
-Lastly, reﬂect on each of your employees’ relationship with remote
+like decision making, meetings, and emails — viewing roughly 40% of
 
-work. Speciﬁcally, ask yourself:
+the time spent on these tasks as ineﬃcient.
 
-- 1. What may make remote work challenging for them? They may
+As well as time, displaying respect for the individuals on your team will
 
-identify as having an extroverted personality or a small social circle,
+help foster a stronger sense of community. Employees often cite feelings
 
-so work has typically provided an opportunity for them to connect
+of disrespect when managers take credit for their ideas, form a habit
+
+of talking over them in meetings, or micromanage them in a way that
+
+undermines proven capabilities.
+
+As you reﬂect on any roadblocks in your journey to building
+
+community, think about whether you may have broken respect around
+
+your employees’ time or emotions. If you uncover any instances, make it
+
+a goal to express a meaningful apology and, if necessary, show how you
+
+are rethinking your behavior and practices to facilitate change.

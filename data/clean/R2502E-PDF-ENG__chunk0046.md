@@ -1,13 +1,17 @@
-## didn’t study computer science or engineering in college.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4622d9ee752b0b6a9db6f94124917f2d9df31ead
+title: R2502E-PDF-ENG
+---
+# Everyone Can Be a Technologist
 
-But remember: What you learn in school is only half the story. You
+Once technology was seen as a back-oﬃce support function, but today
 
-can still learn at work, and there are several ways you can embrace
+tech skills are valuable in jobs of all types across all industries. An
 
-technology to set yourself apart.
+increasing number of jobs don’t require direct computer engineering
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+skills but do require familiarity with technology. However, many women
 
-12
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+may perceive that those jobs are out of reach, perhaps because they

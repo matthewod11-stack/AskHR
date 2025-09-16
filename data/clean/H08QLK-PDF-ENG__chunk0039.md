@@ -1,11 +1,23 @@
-# Strategic Responses.
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 66b1a8dcc97bf910edb19fb31a600fa6cb0d4287
+title: H08QLK-PDF-ENG
+---
+# Organizational Readiness.
 
-Appreciate that unless they proactively lead this transition, incumbent
+Recognize that careers centered on workﬂow software—
 
-enterprise software leaders will lose the advantages they enjoy to
+implementation, customization, and maintenance—will evolve or
 
-disruptive upstarts. To retain their advantage, incumbents should:
+diminish. Administrative teams in HR, ﬁnance, and IT will shrink or
 
-- 1. Prioritize interoperability. Open APIs and modular architectures
+redeploy, freeing talent for innovation and strategic work. Suppliers,
 
-enable federated AI ecosystems that integrate legacy systems and
+investors, and local economies anchored in software services will also
+
+feel these shifts. Change management, especially for the humans who
+
+will be aﬀected and will need to adapt will have to be thoughtfully
+
+managed to enable and accelerate the transition to AI systems.

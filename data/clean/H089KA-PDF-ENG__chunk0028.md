@@ -1,25 +1,41 @@
-# for this training.
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71b8021f924f08d65fe22cefbcac50d0690ad61f
+title: H089KA-PDF-ENG
+---
+## with follow-through, speciﬁcally on budget and resources.
 
-Leaders also need to demonstrate through their own individual actions
+Francesca emphasized the importance in investing in ERGs: “People in
 
-and advocacy that they want women of color to feel they belong.
+ERGs are doing extra labor for no extra pay…I ﬁnd myself [volunteering]
 
-Monique expressed how incredible her VP was in sending individual
+at night; it’s more of a passion project.” Monique suggested presenting
 
-emails to every person who joined his organization. Every gesture
+ERG leaders with compensation for extra work time or to switch their
 
-during the onboarding period sets the tone for workplace belonging.
+role. Katie commended her company for its ERG support: “There can be
 
-Whether making ﬁrm commitments within their organizational goals
+ERG lead burnout, but they realize it’s not people’s full-time job. And
 
-or sponsoring an ERG, leaders need to take decisive action to increase
+they have put full-time resources towards making sure all the ERG stuﬀ
 
-sense-of-belonging, particularly at the individual manager level. “Give
+gets attended to, which is reassuring. They’re walking the talk.”
 
-managers incentives to ensure they’re valuing and representing folks,”
+In addition to investing in ERGs, research participants encouraged
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+investments in pipeline-building programs to increase representation
 
-9
+and trust as well as more trainings. Andrea explained, “Some
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mandatory training can be very eﬀective [because] it tells me leadership
+
+values this enough that we are going to make all of our employees do it,
+
+and that we all need to have this knowledge.” Monique added, “Make it
+
+mandatory … You gotta sit through it, and maybe one thing will land on
+
+your ears.” She hopes someone will learn to do better and say, “I never
+
+knew that.” If possible, the company should set aside designated time

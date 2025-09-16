@@ -1,13 +1,9 @@
-# function and business stakeholders.
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27ab5408624eb9b48d575021aabdb0051ff510fb
+title: H08JKA-PDF-ENG
+---
+# HBR / Digital Article / Connect Your Learning Programs to Your Company’s Strategy
 
-At Novo Nordisk, Mantoni Macaire’s team has established a steering
-
-committee for each strategic capability development initiative. “We take
-
-a global approach,” she describes. “For example, in the digitization
-
-initiative, we not only partnered closely with our chief information
-
-oﬃcer, we made sure to get the key business unit heads on board. The
-
-steering committee ensures that what we develop is relevant for all key
+of fresh work patterns that require regular interaction between the L&D

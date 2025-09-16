@@ -1,9 +1,13 @@
-# times of crisis.
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ef94ee60c7b1d88ac61d030bc14f210817fc480
+title: H08TPS-PDF-ENG
+---
+## economic downturn. Yet the collective impacts of these decisions across
 
-This article was originally published online on July 21, 2025.
+businesses can cause lasting damage to workers and labor markets.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Our research suggests ﬁrms and policymakers can help support healthy
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+labor markets when they work together to stabilize and maintain jobs in

@@ -1,19 +1,23 @@
-## HBR / Digital Article / In Turbulent Times, Consider “Strategic Subtraction”
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca8e0c7fb081e669bcdb8f194366ac925dfea135
+title: H08SNU-PDF-ENG
+---
+## (eﬃciency), a cryptographically secure backbone guards continuity
 
-processes, and products. Tuck away non-essential elements from the
+(resilience), and the program earns Estonia prominence by positioning
 
-primary interface while preserving access when needed. For example,
+it as a tiny nation punching far above its weight in digital governance.
 
-an employee-onboarding portal might reveal only the next required step
+Hiding: Conceal complexity while keeping it accessible
 
-while keeping full policy documents accessible with a single click. Or
+Organizations can lighten cognitive load—without sacriﬁcing
 
-consider Otter.ai, an AI-powered transcription and collaboration tool.
+functionality—by selectively hiding complexity in everyday workﬂows,
 
-Its “Highlight” feature masks 100% of the transcript until you need
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-it. The AI meeting tool now autogenerates a bite-sized summary from
+4
 
-user highlights, tucking the verbatim transcript beneath a single click.
-
-Teams spend less time scrolling (eﬃciency), the records are preserved
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

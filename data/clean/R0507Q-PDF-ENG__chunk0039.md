@@ -1,9 +1,25 @@
-## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b59a8410c1083a2f6d5953e515830938635e94ec
+title: R0507Q-PDF-ENG
+---
+# of these four internal business goals.
 
-competencies to the actions taken by individuals that aﬀect overall
+To achieve goals on cycle time, quality, productivity, and cost, managers
 
-corporate objectives. This linkage ensures that employees at lower
+must devise measures that are inﬂuenced by employees’ actions. Since
 
-levels in the organization have clear targets for actions, decisions, and
+much of the action takes place at the department and workstation
 
-improvement activities that will contribute to the company’s overall
+levels, managers need to decompose overall cycle time, quality,
+
+product, and cost measures to local levels. That way, the measures
+
+link top management’s judgment about key internal processes and
+
+Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

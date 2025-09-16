@@ -1,19 +1,41 @@
-## sign of failed planning and talent development.
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4227d9eb96073df167bafb7f03768b3336f7d1df
+title: S24041-PDF-ENG
+---
+## HBR / Spotlight Article / Power, Influence, and CEO Succession
 
-The outgoing CEO decided that the period when he and Jeﬀ overlapped
+independent directors. He struggled to understand the board’s points of
 
-should be a short one. Seeing a chance to gain power more quickly, Jeﬀ
+view and overestimated his power and room to maneuver.
 
-conveyed to the independent directors that it would be best if the CEO
+Stylistically, Jeﬀ was a sharp contrast to the incumbent CEO, who
 
-left even sooner. As their relationship soured, tension increased within
+was charismatic, eﬀective with investors, and a powerful spokesman
 
-the senior management group. Eventually things calmed down, but Jeﬀ
+for the company. Jeﬀ had a reserved style and tended to emphasize
 
-never overcame the poor start. Then the pandemic hit, overwhelming
+the practical rather than the possible. He also made mistakes that
 
-the company. Its growth collapsed, and investors became skeptical of
+hurt his eﬀorts to win the board’s conﬁdence, including criticizing
 
-Jeﬀ’s leadership. Because the former CEO was not in his corner to
+aspects of the outgoing CEO’s tenure and keeping on an inﬂuential
 
-help with either the board or investors, Jeﬀ was ﬁred before his ﬁrst
+but controversial direct report the directors believed he should replace.
+
+Most important, he did not invest enough time in understanding the
+
+board’s expectations and concerns.
+
+Compounding this situation, the independent directors played a passive
+
+role in the succession process. They went along with the CEO’s choice
+
+rather than critiquing his process or creating their own. Most of the
+
+directors had never gone through a CEO succession before, and their
+
+inexperience showed. They were faced with limited options because the
+
+CEO had decided against an external search, worrying that it would be a

@@ -1,17 +1,21 @@
-## decisive: tasks that defy quantiﬁcation because their outcome odds
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd15615a8345f172040208f0c25d8c998ddfe736
+title: H08SHM-PDF-ENG
+---
+## deep mantle and abyssal oceans, or live cellular interactions inside the
 
-are fundamentally unknowable—the realm of Knightian uncertainty,
+human brain. It will also lag where measurement is throttled by privacy,
 
-where you can’t assign any probabilities because the risks themselves
+ethics, or regulation; where society requires transparent reasoning—
 
-are undeﬁned. Scaling a startup, allocating capital or talent into highly
+at least until model interpretability catches up; and where people
 
-uncertain ventures, containing a novel pathogen, setting central bank
+simply prefer a human touch. Yet, as with hybrid corn adoption, future
 
-policy during a ﬁnancial regime shift, drafting AI ethics, inventing
+generations will keep revisiting the cost-beneﬁt calculus for each of
 
-a new artistic medium, igniting a fashion trend, or creating a new
+these—and may reach conclusions very diﬀerent from ours.
 
-genre-bending blockbuster—all sit in zones where probabilities vanish.
-
-Some creative acts and discoveries amount to little more than clever
+But one crucial carve-out in what can be measured may prove

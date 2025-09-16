@@ -1,33 +1,13 @@
-# HBR / Digital Article / Why Companies Should Consolidate Tech Roles in the C-Suite
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 131c462f7c6b0bb4aa8c38fd3eda5ffb2ee30cd6
+title: H08DSC-PDF-ENG
+---
+# these roles.
 
-For example, Shamin Mohammad, who is both chief information and technology oﬃcer at CarMax, told us: “To be eﬀective as a technology
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-leader, I have to be a business leader. I am working side-by-side with
+3
 
-the CMO, the COO — we are joined at the hip — and then the CFO, the
-
-CEO, and the board. Execution is table stakes. You have to deliver — it’s
-
-not even up for discussion. It is more important for a technology leader
-
-to be a business leader, to understand what’s happening in the industry,
-
-and to envision where the industry is going so you can enable that with
-
-technology and bring the rest of the organization on board.” Topics like
-
-“Keeping the lights on,” renewing technical infrastructure, or dealing
-
-with cybersecurity threats are important, but not his primary focus; his
-
-direct reports ensure they are taken care of.
-
-Sean McCormack, a SuperTech leader at school busing company First
-
-Student, noted, “If you are not a value- and innovation-oriented IT
-
-executive, it won’t work to oversee technology innovation, analytics
-
-and AI, and that sort of activity. If all you’ve done is package
-
-implementations, you will not succeed in a broader role.” Sebastian
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

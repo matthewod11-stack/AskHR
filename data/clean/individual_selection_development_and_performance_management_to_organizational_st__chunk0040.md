@@ -1,3 +1,11 @@
-# Reasons for Automating Study Results
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: 4df5108c76773682e412a51761b34be0cdf585e8
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+## Developing Competency Models for an Occupation
 
-OPM wanted to provide line managers, HR professionals, and employees with immediate access to occupational information. With ad- vances in technology, it became possible to place this information in easy-to-use systems, ensuring that it is used for daily HR opera- tional purposes as well as other programmatic initiatives. With the assistance of HR profes- sionals within the federal government, OPM designed two automated occupational data delivery systems, the Human Resource Man- ager (HR Manager), designed for use by HR professionals and line managers, and USACareers (originally called Career Counse- lor), designed as a career development tool for use by employees. These systems not only pro- vide the results of the occupational analyses but also useful applications of the data. In addition, they place the same competency in- formation in the hands of managers and em- ployees, building a foundation for clearer com- munication of occupational expectations and career progression.
+The competency model, or occupational pro- file, for each occupation for which there are sufficient data is based on the ratings of im- portance by supervisors and incumbents as
+
+well as ratings by supervisors of the require- ment that individuals have that competency upon entry into the job. Competency models are also formed for several levels of each oc- cupation (e.g., entry into the occupation, in- termediate, full performing/journey). These competency models are intended for use by HR professionals and line managers to inform their daily HR activities by providing a sound basis for their decisions. The key to the suc- cess of this effort is to make this large data- base easily accessible by providing informa- tion in an automated format.

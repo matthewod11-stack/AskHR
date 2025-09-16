@@ -1,5 +1,11 @@
-# Basic Knowledge Domain
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 178ad937de9aced7a4aa3dee3690696a34e6bf97
+title: untitled
+---
+# Journals and Textbooks
 
-As the ﬁeld evolved, the question of what constituted the knowledge domain that deﬁnes forensic psychology became more salient. This was particularly important from the per- spective of training forensic psychologists. A National Con- ference on Education and Training in Law and Psychology, popularly known as the Villanova Conference, addressed this issuein1995.Theconferenceparticipantsidentiﬁedﬁveareas crucial for properly educating a competent scholar of psy- chology and law. The ﬁrst was substantive psychology, a core knowledge of basic areas of psychology (e.g., developmental,
+The 1970s saw the development of the ﬁrst journals in law and psychology. The American Psychology-Law Society began publishing Law and Human Behavior, and the American Association of Correctional Psychologists devel- oped Criminal Justice and Behavior. They were joined by the Law and Psychology Review, then in the 1980s by Behavioral Sciences and the Law, and ﬁnally the APA’s new journal, Psychology, Public Policy, and Law, in the 1990s. Several new journals also appeared in Great Britain in the 1990s: Criminal Behaviour and Mental Health, Legal and Crimino- logical Psychology, and Psychology, Crime and Law.
 
-social, cognitive, and abnormal psychology), as well as an un- derstanding of important ethical and professional issues. The second area was knowledge of research design and statistics. Third was basic legal knowledge, the ability to “think like a lawyer,” learning the basic tools of law and the core substance of the law itself. The fourth area was labeled substantive legal psychology, which involves an understanding of how social- scientiﬁc evidence is used in law. The ﬁnal area, called scholarship and training, included the experience of conduct- ing original dissertation research. The conference participants also noted that it would be especially helpful if additional opportunities were provided for students to obtain appropriate real-life experience in legislative, administrative, and judicial settings. It has been asserted that the competent psycholegal scholar must be “trilingual,” familiar with scientiﬁc psychol- ogy, the law, and the psychology-law interface. This would seem to be a most challenging training situation (e.g., see Bersoff, Goodman-Delahunty, Grisso, Hans, Roesch, & Poythress, 1997).
+One of the ﬁrst forensic psychology texts in this modern era of forensic psychology was Brodsky’s Psychologists in the Criminal Justice System (1973). Few texts in psychology and law were available until the American Psychology-Law Society developed a book series in the mid-1970s, but by the 1980s the ﬁeld had spawned enough texts to provide the ﬁeld with a body of recognized knowledge that began to forge the ﬁeld’s identity.

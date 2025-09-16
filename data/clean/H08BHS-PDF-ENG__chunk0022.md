@@ -1,9 +1,13 @@
-## HBR / Digital Article / What High Achievers Need from Their Mentors
+---
+source_path: H08BHS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa4f085144da1835b89c56ee93c543ee57ce1a60
+title: H08BHS-PDF-ENG
+---
+# even greater success.
 
-The best mentors don’t just teach; they inspire a perpetual quest
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-for knowledge and self-development. By embracing this philosophy,
+5
 
-mentors can guide their high-achieving mentees to not only maintain
-
-their success but to evolve and lead strategically with renewed vigor and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

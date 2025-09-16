@@ -1,37 +1,19 @@
-# people.
+---
+source_path: H082RI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 655d1053ce42306c47349308e908942ea2113f2a
+title: H082RI-PDF-ENG
+---
+# HBR / Digital Article / What Demographics Forms Say About Inclusivity at Your Compa…
 
-There are even subtler instances of identity omission, such as situations
+identity but omitting the MENA category as an option. In another
 
-in which demographics forms allow a person to partially, but not
+condition, the MENA category was included as an option. Hakim
 
-completely, self-identify. Addressing this issue, research by Sarah
+and Branscombe found that, particularly for those students who self-
 
-Townsend and colleagues found that multi-racial people — those
+identify as MENA and also strongly identify as American, ﬁlling out a
 
-who identify their race as mixed between two or more categories —
+demographic form that omitted the MENA racial identity led them to
 
-often feel their ability to fully self-identify is denied in the context
-
-of demographics forms. Speciﬁcally, participants cited situations in
-
-which demographics forms ask them to identify their membership in
-
-a racial group but allow them to only select one racial identity, rather
-
-than multiple identities. In a follow-up experiment with multi-racial
-
-undergraduate students, Townsend and colleagues assigned one group
-
-to complete a set of demographics questions that allowed them only
-
-to select one racial identity and another group to complete a set of
-
-questions that allowed them to select multiple racial identities. The
-
-researchers found that multi-racial students assigned to the “check one”
-
-condition reported lower self-esteem than those assigned to the “check
-
-all that apply” condition. They also found that those students who were
-
-only able to select one racial identity performed worse on a subsequent,
+feel less sure that broader American society respects Arab American

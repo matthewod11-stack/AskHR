@@ -1,9 +1,9 @@
-## translate into an added $5.3 million annually in costs for every 1,000
+---
+source_path: H08R2K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19badc9b9595afb37b6c3e0109504f830025e178
+title: H08R2K-PDF-ENG
+---
+## In our recent study of 1,005 full-time professionals across high-intensity
 
-employees at a company. Our analysis also found that the cost of
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+industries in the U.S. and UK, we found that high levels of stress

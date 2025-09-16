@@ -1,11 +1,15 @@
-## fast-track personal relationships in Germany as you might in the U.S.
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ffef67c3b29cf4f30a704cfce130d0cd2d4385d
+title: H081NE-PDF-ENG
+---
+## feel comfortable enough with a new work colleague to share personal
 
-or some South American countries. We similarly heard from a Japanese
+information with them. This is exempliﬁed by the fact that Germans
 
-expat interviewee in Jordan that he had come to expect many rounds
+often wait for a long time before even using the more familiar form of
 
-of tea and sweets as part of the local getting-acquainted dance. To him,
+the pronoun “you” (which is “du”) — defaulting instead to the more
 
-the series of introductory conversations was superﬂuous to the tasks at
-
-hand, but because he understood the pacing code, he tried to go with
+formal version (“sie”) until the time is right. You just don’t typically

@@ -1,9 +1,51 @@
-# Leadership: Where Are We Today?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d8b35a4e0216d7103ecc59381bb64dc80ad831fe
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Humane Autonomous
 
-Most of this chapter has described leadership theories. Of course, when several theories address the same topic, the question comes to mind: “Which of the the- ories is (are) true?” The answer probably is that each is somewhat true and that the best “theory” about leadership is some combination.
+−1.39
 
-As Figure . shows, if we combine all of the theories discussed in this chap- ter, leadership emerges as a set of interactions: between a leader’s traits and skills, between a situation’s demands and characteristics, and between followers’ needs and characteristics. If we begin with a leader’s traits and skills, a summary of the theories would suggest that individuals would be more likely to be successful leaders if they:
+−0.36
 
-7 7
+−0.05
 
-Have received leadership training and mastered the skills listed in Table . Are high self-monitors
+0.71
+
+−0.16
+
+0.67
+
+0.08
+
+−0.38
+
+0.82
+
+−0.09
+
+2.39
+
+0.29
+
+0.21
+
+−0.40
+
+1.18
+
+−0.38
+
+0.71
+
+0.38
+
+−0.47
+
+0.24
+
+involves getting the opinions and help of others. An autonomous style involves being independent and individualistic and making one’s own decisions.
+
+Project GLOBE researchers found that the ten culture clusters differed on the six main leadership styles. For example, compared with other clusters, lead- ers from countries in the Anglo cluster are more self-protective and participative, leaders from countries in the Nordic Europe cluster are more participative and less self-protective, and leaders from the Southern Asia cluster are more humane and less participative.

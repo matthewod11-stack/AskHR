@@ -1,9 +1,9 @@
-# this new technology.
+---
+source_path: H08P90-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7fcd74acbca45dc745a4ea5b24ee41ba83951c19
+title: H08P90-PDF-ENG
+---
+## technologies. The Japanese company identiﬁed inkjet printing as a
 
-During one experiment, an employee accidentally touched the tip of an
-
-ink-ﬁlled syringe with a hot soldering iron. Much to his surprise, the
-
-heat caused the ink to spray out of the needle. He immediately realized
-
-that heat—rather than pressure—could be used to trigger the spray of
+particularly promising avenue and assembled a small team to work on

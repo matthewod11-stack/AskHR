@@ -1,7 +1,21 @@
-## HBR / Digital Article / When to Change Your Company’s P&L Responsibilities
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c6139767f518f132d6f8349ef87081cba9ec0bb
+title: H06YIA-PDF-ENG
+---
+## proper migration, communication, and buy-in.
 
-comply-or-explain rule: Any proposed deviation must be explained very
+During that phase, people regularly plead for adjustments or exceptions
 
-well and can only be accepted after approval by the governance body
+to the target model. The arguments and anecdotes they use may
 
-that approved the target model.
+make sense from a local optimization perspective, but rarely do when
+
+considering the full picture. Therefore, the sponsor should apply a stern
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

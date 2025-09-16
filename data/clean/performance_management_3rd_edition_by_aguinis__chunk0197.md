@@ -1,7 +1,7 @@
-# High
-
-classroom courses with online classes that can be accessed anywhere in the world at any time.34 Sun offers its employees enormous scope for development and career progression, and there is a commitment to ensuring that all employees are given the opportunity to develop professionally. The new knowledge and skills acquired by employees can help them not only to further their careers within Sun but also to take this knowledge with them if they seek employment elsewhere. Thus, some types of relational returns can be long-lasting.
-
-Table 1.3 includes a list of the various returns, together with their degree of dependency on the performance management system. As an example of the low end of the dependency continuum, cost-of-living adjustment has a low degree of depend- ency on the performance management system, meaning that the system has no impact on this type of return. In other words, all employees receive this type of return regard- less of past performance. On the other end, short-term incentives have a high degree of dependency, meaning that the performance management system dictates who receives these incentives and who does not. Long-term incentives (e.g., profit sharing and stock options, which are discussed in more detail in Chapter 10) also have a high degree of dependency; although this type of incentive is not specifically tied to individual performance, it does depend on performance measured at the team, unit, or even organizational levels. Between the high and low end, we find some returns with a mod- erate degree of dependency on the performance management system such as base pay, a type of return that may or may not be influenced by the system.
-
-Think about the performance management system of your current employer, the system used by your most recent employer, or the system in place at an organization where someone you know is employed at present. Based on Table 1.3, try to think about the vari- ous types of tangible and intangible returns allocated in this organization. To what extent is each of these returns dependent on the organization’s performance management system?
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 13cd3e4066962cf14a4e26244499a5133f15070c
+title: performance_management_3rd_edition_by_aguinis
+---
+# Long-term incentives

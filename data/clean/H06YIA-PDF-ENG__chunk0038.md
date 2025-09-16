@@ -1,9 +1,29 @@
-# FW
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b91be0bfc9c6ab39bbb6a94177d1739805d4081
+title: H06YIA-PDF-ENG
+---
+## CEO and the near-complete renewal of the board of directors. Global
 
-Frederic Wirtz heads The Little Group advising companies on organization design issues worldwide. He can be reached at wirtz.f@thelittlegroup.net.
+energy company ENGIE switched its primary dimension from product
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+to region in 2016, only to ﬂip back to product in 2021. Turbulence and
 
-7
+uncertainty are not conducive to a serene discussion about organization
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+design: They drain energy, lead to fatigue, prevent alignment, and make
+
+people leave at all levels needlessly.
+
+Changing an organization’s primary dimension, i.e., making a diﬀerent
+
+choice of which verticals have full P&L responsibility, is not something
+
+to get into lightly. But don’t do it belatedly either, when your degrees of
+
+freedom and the time to handle it carefully are severely limited.
+
+This article was originally published online on April 14, 2022.
+
+Herman Vantrappen is the managing director of Akordeon, a strategic advisory ﬁrm based in Brussels, and the coauthor of Fad- Free Strategy (Routledge, 2020).

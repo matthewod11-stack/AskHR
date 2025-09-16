@@ -1,7 +1,7 @@
-# LEARNING OBJECTIVES
-
-By the end of this chapter, you will be able to do the following: (cid:2) Distinguish between traditional and contingent pay plans, and know how each
-
-of these reward systems relates to the performance management system.
-
-(cid:2) Understand the reasons for the popularity of contingent pay plans. (cid:2) Describe how contingent pay plans can help improve employee motivation
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 5718fa89a1f5f6202b1902a148961f7829df8d38
+title: performance_management_3rd_edition_by_aguinis
+---
+# —JACK WELCH

@@ -1,51 +1,35 @@
-# HBR / Magazine Article / HR’s New Role
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b25c632622e65aadf2a0c1ca48ee28dba357dd64
+title: R2403F-PDF-ENG
+---
+# Human Resource Management.
 
-and promised its workforce of 275,000 that all employees who agreed
+Internal job markets not only cost very little but also save enormous amounts of money by reducing turnover and the need to hire from the outside.
 
-to undergo it, even those whose roles were eliminated by automation,
+The beneﬁts of retraining are enormous because it prevents companies
 
-would have a job with the company, though it might not be the same job.
+from replacing good employees with people with diﬀerent skill sets,
 
-Internal job markets help current employees move to new positions in
+who often have to be paid more. Some companies have realized this.
 
-their organizations where the growth is and where they can learn new
+Several years ago, IBM oﬀered some employees who were about to be
 
-skills. They not only cost very little but also save enormous amounts
+restructured out of jobs the option of taking severance or moving into
 
-of money by reducing turnover and the need to hire from the outside.
+roles requiring new skills that they would receive training in for one
 
-Though internal job markets date back to the dot-com days of 1995 to
+day a week on their own time—a way of sharing the costs with them.
 
-2000, they were scaled down after the Great Recession under pressure
+This approach had a huge payoﬀ—including better productivity, better
 
-from line managers who didn’t want to let their good employees leave
+employee ﬁt, and lower turnover—and saved twice as much money
 
-them, even if it was for better jobs in the same organization. Now these
+as the retraining cost. In 2019 PwC committed $3 billion to retraining
 
-programs are being revived, often under the name “talent marketplace.”
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-(See “How to Design an Internal Talent Marketplace,” HBR, May–June,
+10
 
-2023.)
-
-HSBC says its talent marketplace was critical to its transformation into a
-
-digital-ﬁrst bank. Unilever’s former CEO Alan Jope praised its revamped
-
-internal job market, Flex Experiences, for helping the company
-
-rearrange talent in a way that allowed it to weather the pandemic
-
-and become more agile. A few years ago Flex expanded into matching
-
-employees with learning opportunities on projects, particularly those
-
-with ESG objectives. Since 2018 Unilever has reallocated 500,000
-
-employee hours toward more than 4,000 business-critical projects,
-
-improving overall productivity by 41% in the process. Seventy percent
-
-of the assignments in those projects were cross-functional, helping
-
-employees build skills that will make the organization even more agile.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

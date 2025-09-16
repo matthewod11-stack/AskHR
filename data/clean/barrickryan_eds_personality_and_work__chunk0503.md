@@ -1,3 +1,7 @@
-# Personality and Counterproductive Workplace Behavior Michael J. Cullen Paul R. Sackett
-
-Despite overwhelming evidence that personality traits are useful pre- dictors of counterproductive workplace behaviors (CWBs), little progress has been made in describing the processes underlying the observed empirical linkage between personality and CWBs. In brief, we lack an understanding of why personality traits should be pre- dictive of counterproductive behavior. A sound theoretical under- standing of the basis for our empirical ﬁndings is necessary not only to make sense of these results in the aggregate, but also to guide fu- ture research in proﬁtable directions. In this chapter, we aim to chart a tentative course for researchers interested in exploring more deeply the relationships between personality and CWBs.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 73cea5d220cbb40b31e51b6672e536c4db2a8e8c
+title: barrickryan_eds_personality_and_work
+---
+# CHAPTER 6

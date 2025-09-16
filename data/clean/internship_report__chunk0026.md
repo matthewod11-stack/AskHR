@@ -1,39 +1,31 @@
-# (cid:32) (cid:32) (cid:32) (cid:32)
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 12b60d8e3dc1240097d6d5494fc044780c89c425
+title: internship_report
+---
+# organization needs.
 
-To complete all these activities it is required to have help of Human Resource Management
+Human resource management information system has many modules that can be related to the
 
-System (HRMS) to make every work smooth and faster. An organized recruitment team can hire
+different functions of the human resource department. Some of the modules of the HRMS are as
 
-skill employee for the organization with the help of other program’s management decision.
+follows:
 
-Human resource management is the process of acquiring, training, appraising, and compensating
+- (cid:32) Workforce planning
 
-employees and attending to the labor relations, health and safety and fairness concern. So a skill
+- (cid:32) Recruitment, induction and orientation
 
-workforce can drive an organization smoothly.
+- (cid:32) Training and development
 
-The topic mainly covers the HR Planning & Policy Development of Karnaphuli Group.
+- (cid:32) Performance appraisal
 
-Karnaphuli is one of the renowned Groups of Bangladesh. It established in 1954 and named
+- (cid:32) Compensation, benefits administration
 
-after a river on whose banks the port city of Chittagong stands, Karnaphuli has with the ebb and
+- (cid:32) Time management
 
-flow of the past 58 years evolved and grown into a business house of diversified subsidiaries and
-
-activities. Its growth has been characterized by a single minded and dedicated pursuit of
-
-excellence and a professional urge to be the market leader in everything it is involved and
-
-engaged in. Not surprisingly perhaps, Karnaphuli holds the unique distinction of being the first
-
-company in Bangladesh to achieve ISO 9002 Certification.
-
-I have worked as an Executive, Business Development last three years. The data provided by me
-
-are accurate or approximate in number. The HR team of Human Resource Division of
-
-Karnaphuli Group is completely organized and well reputed team.
+- (cid:32) Payroll.
 
 HR Planning & Policy Development
 
-(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:124) (cid:32) (cid:55)
+(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:124) (cid:32) (cid:118) (cid:105)

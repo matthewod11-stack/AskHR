@@ -1,5 +1,43 @@
-# work in addition to financial riches
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 2e7aa29efde0e6b0fd3c8b67b666c7ad8e6d7a3c
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 2.4.1. Satisfaction
 
-▪ Happiness is good for health, relationships, and work
+The definition of life satisfaction is more complicated than it first seems to be and
 
-▪ Setting realistic goals and expectations can be helpful for happiness. No one is
+sometimes is used interchangeably with happiness, but in reality, they mean two
+
+different things. Life satisfaction is how a person feels about their life, not just how
+
+happy they are right now. Another popular definition of life satisfaction comes from
+
+Stuart and Hamilton, satisfaction with life is how happy someone is with the way they
+
+live. (Stuart & Hamilton, 1995) David Meyers is his book The Pursuit of Happiness
+
+defining Life Satisfaction as a desirable goal in and of itself. This comes from the
+
+Aristotelian ethical model called eudaimonism (from the Greek word for happiness,
+
+eudaimonia), which says that good actions lead to happiness, which is the highest
+
+good. (Myers, 1993) Satisfaction is defined by American psychologist Edwin Locke
+
+as an emotional response or affection toward an object. (Locke, 1993) Based on Ruut
+
+Veenhoven, Life Satisfaction is the degree to which a person positively evaluates the
+
+overall quality of his/her life. In other words, how much the person likes the life he/she
+
+leads. (Veenhoven & Saris, 1996) Life Satisfaction is a part of a person's subjective
+
+well-being and life quality in perspective of the events that take place in it. (Dikmen,
+
+- 1995) Diener has done substantial research on this topic, and he has concluded that
+
+there are four essential components to life satisfaction:
+
+▪ Psychological wealth includes attitude, aspirations, and level of participation at

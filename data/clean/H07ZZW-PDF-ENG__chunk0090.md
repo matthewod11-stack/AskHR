@@ -1,11 +1,7 @@
-# value.
-
-Base your commitments on how you impact human beings. Your ethical
-
-commitments should be based not solely on legal obligations but also
-
-on human rights principles. Although the UN Guiding Principles on
-
-Business and Human Rights are relatively new, and most corporate
-
-implementation eﬀorts are still nascent, they can oﬀer business unique
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15ececc0643166ceb278c7c9d1a2296a8821cee8
+title: H07ZZW-PDF-ENG
+---
+## comparative advantage and may even negatively impact company

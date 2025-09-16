@@ -1,43 +1,23 @@
-# fun.”
+---
+source_path: H087JX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f50930c65a41f767825ab8dd2ca36ede675080da
+title: H087JX-PDF-ENG
+---
+# HBR / Digital Article / When Someone You Manage Isn’t Following the Return-to-Offic…
 
-Measure results. Finally, you’ll want to conﬁrm that the return-to-oﬃce
+There’s no need for excessive optimism, but a simple acknowledgment
 
-mandate is doing what it’s supposed to. “Continuing to take a look at
+such as, “Wasn’t this better than a Zoom meeting?” serves as a reminder
 
-the policy shows you’re willing to use data to inform decisions,” says
+of the special advantages that come with working alongside each other
 
-Markman. He recommends talking with upper management before the
+in person, even for those who may have been less than thrilled about the
 
-mandate is in place, to determine clear success criteria for it.
+idea of coming back. “It’s a recognition that we had a good time working
 
-Once it’s up and running, keep an eye on metrics like productivity and
+together in person to solve problems, as opposed to the Hollywood
 
-absenteeism — as well as retention. Research from Gartner found that
+squares of virtual meetings,” says Markman. “We spend an enormous
 
-the intent to stay among knowledge workers was 8% lower at companies
-
-with strict RTO mandates. For high-performing employees, it was 16%
-
-lower. Pay attention to how long it takes your team to get things done
-
-and if it’s tougher to hire with the mandate in place.
-
-Then, take a good, hard look at the data. “It could show that
-
-your strategies are working and that everyone’s still motivated and
-
-engaged,” says Kulik. “Or it might reveal that people were actually more
-
-productive working from home.” The goal is to ﬁnd a balance between
-
-company policies and your people’s needs, adds Markman. “Make sure
-
-the mandate makes sense for your team,” he advises. If it doesn’t, be
-
-prepared to adjust or revisit.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+percentage of our waking hours at work, on some level, it needs to be

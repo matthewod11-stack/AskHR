@@ -1,5 +1,11 @@
-# Plato and Aristotle
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 10fa5ab686c07da9376b205917ad5ce945c7f8aa
+title: untitled
+---
+# The Philosophical Period 111
 
-Of all Socrates’many students, the most important was Plato. Before him, philosophy—at least as far as the historical record goes—was a hit or miss affair of thinkers offering oc- casional insights and ideas. With Plato, philosophy became more self-conscious and systematic, developing theories about its varied topics. For present purposes, Plato’s impor- tance lies in the inﬂuential framework he created for thinking about cognition and in creating one of the two basic philo- sophical approaches to understanding cognition.
+racy are just acts, Socrates wanted to know what Justice itself is. Plato extended Socrates’ quest for universal moral truths to encompass all universal concepts. Thus, we apply the term “cat” to all cats, no two of which are identical; how and why do we do this? Answering this question became a central pre- occupation of thephilosophyandpsychology of cognition.
 
-Plato formally drew the hard and bright line between opinions—beliefs that might or might not be true—and knowledge, beliefs that were demonstrably true. With regard to perception, Plato followed the Sophists, arguing that perceptions were relative to the perceiver. What seemed true to one person might seem false to another, but because each sees the world differently, there is no way to resolve the difference between them. For Plato, then, experience of the physical world was no path to truth, because it yielded only opinions. He found his path to truth in logic as embod- ied in Pythagorean geometry. A proposition such as the Pythagorean theorem could be proved, compelling assent from anyone capable of following the argument. Plato was thus the ﬁrst philosophical rationalist, rooting knowledge in reason rather than in perception. Moreover, Plato said, prov- able truths such as the Pythagorean theorem do not apply to the physical world of the senses and opinion but to a tran- scendental realm of pure Forms ((cid:7)(cid:8)(cid:9)(cid:10) in Greek) of which worldly objects are imperfect copies. In summary, Plato
+The second important feature of Socrates’philosophy was the demand that for a belief to count as real knowledge, it had to be justiﬁable. Asoldier might do many acts of heroic brav- ery but be unable to explain what bravery is; a judge might be esteemed wise and fair but be unable to explain what justice is; an art collector might have impeccable taste but be unable to say what beauty is. Socrates regarded such cases as lying awkwardly between opinion and Truth. The soldier, judge, and connoisseur intuitively embrace bravery, justice, and beauty, but they do not possess knowledge of bravery, justice, and beauty unless and until they can articulate and defend it. For Socrates, unconscious intuition, even if faultless in appli- cation, was not real knowledge.

@@ -1,49 +1,21 @@
-# Collective efficacy
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: d8b539ab28fa034323d7953d697b88e3bb13cbed
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Social cohesion
 
-3.61 (.52)
+6.83 (1.46)
 
-3.56 (.66)
+6.92 (1.68)
 
-3.62 (.61)
+6.61 (1.56)
 
-.31
-
-1.00
-
-1.00
-
-1.00
-
-Intention to continue
-
-3.55 (.99)
-
-3.70 (.98)
-
-3.80 (.89)
-
-1.25
+1.17
 
 1.00
 
-.23
+1.00
 
-.73
-
-Perceived performance
-
-3.29 (.87)
-
-3.51 (1.22)
-
-3.92 (.66)
-
-8.94
-
-���
-
-.48
-
-.001
-
-.005
+.35

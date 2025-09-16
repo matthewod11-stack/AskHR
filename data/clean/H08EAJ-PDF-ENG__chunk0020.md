@@ -1,23 +1,15 @@
-# support without hesitation.”
+---
+source_path: H08EAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2b1364e15e96067e5a64a9f804fa19187a99703
+title: H08EAJ-PDF-ENG
+---
+# HBR / Digital Article / How to Compassionately Manage an Employee with a Terminal I…
 
-One option to consider is to implement a future role-planning initiative
+a tough time made me proud to be part of this team. It wasn’t just
 
-where the terminally ill employee can help design the future structure
+about work—it was about showing we care.” Another team member also
 
-of their role or department. This not only shows respect for their
+shared, “Knowing that our company values ﬂexibility made it easier for
 
-expertise but also give them a chance to make a lasting impact on the
-
-organization’s future.
-
-In our research, we observed two organizations who took this approach.
-
-In one, managers found that involving the terminally ill employee in
-
-planning their role’s transition gave them a sense of control and purpose during a diﬃcult time. However, it’s important to note that responses
-
-to this approach may vary — while some employees may welcome the
-
-opportunity to contribute, others may ﬁnd it somewhat triggering and
-
-prefer a less formal role in future planning, which was the case in the
+us to rally around our terminally ill colleague and provide the necessary

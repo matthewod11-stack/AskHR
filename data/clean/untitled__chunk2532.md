@@ -1,5 +1,13 @@
-## CONCLUSION 460 SUGGESTED READINGS 461 REFERENCES 461
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3df6b945b9597969187739aafc3832d915d9cba5
+title: untitled
+---
+# Training in Europe
 
-Health psychology is the aggregate of the speciﬁc educational, scientiﬁc, and professional contributions of the discipline of psy- chology to the promotion and maintenance of health, the preven- tion and treatment of illness, the identiﬁcation of etiologic and diagnostic correlates of health, illness and related dysfunction, and the analysis and improvement of the health care system and health policy formation. (Matarazzo, 1980, 1982, 2001)
+460
 
-is dedicated to both the development of knowledge and the delivery to individuals, families, and health care systems of high quality services based on that knowledge (APA, 1997).
+FORMALIZATION OF THE FIELD WITHIN PSYCHOLOGY 456 American Organizational Efforts International Organizational Efforts 457
+
+456

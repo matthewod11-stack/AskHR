@@ -1,45 +1,21 @@
-## spend time “down on the dance ﬂoor” and “up in the balcony.”
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 305969ac8211bf75f0fbb042b388c3359b7e42fd
+title: R2303G-PDF-ENG
+---
+## one reason that temporary assignments, side projects, and job rotations
 
-Two of the aspiring CEOs in our study used the strategy of regular
+can be such eﬀective triggers for transformation. It’s hard to change if
 
-reﬂection very eﬀectively. One spent her 20-minute ride to work every
+you just keep doing more of the same.
 
-morning thinking about the interactions of the previous day and
+Create space for learning. Carving out regular time for reﬂection is a
 
-deﬁning one learning intention for the day. The second blocked out
+simple way to speed your progress, capitalize on small wins, and learn
 
-a regular time in his week to reﬂect on his successes, failures, and
+more from your inevitable setbacks. But this sort of daily exercise works
 
-challenges as a leader. He also used that time to seek feedback from
+best if you also periodically pause to contemplate the big picture. As
 
-his colleagues, often by asking them such questions as “What did you
-
-see me do/hear me say?” and “What would you like to see me do/hear
-
-me say?”
-
-Learning requires you to recognize the patterns you fall into. Kevin
-
-identiﬁed his by writing in a journal about the many situations in
-
-which he could have been more appreciative and less hard-charging
-
-with colleagues. Later he would analyze those situations in detail—
-
-and visualize other ways of responding. A coach helped him recognize
-
-that his abrasive self often emerged when he felt impatient, so they
-
-developed a plan: Whenever he sensed his impatience rising, he would
-
-press each ﬁngertip with his thumb before responding. Just creating
-
-that small space between stimulus and response helped him react as he
-
-intended.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-15
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Ron Heifetz of Harvard’s Kennedy School has put it, it’s important to

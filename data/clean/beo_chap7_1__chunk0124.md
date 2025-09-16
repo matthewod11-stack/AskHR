@@ -1,15 +1,13 @@
-## firm between the (overconfident) corporate insider and the outside investor. An
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 6512aa95f5ca93fb92d4eeefdf068112158e1460
+title: beo_chap7_1
+---
+# (The Economist, August 10, 1991)
 
-overconfident CEO will persistently feel undervalued by the capital market and thus
+The implications of overconfidence are, however, more subtle than simply “more
 
-be reluctant to issue equity to finance investment projects or mergers (Heaton 2002;
+mergers” and “more investment,” as the winner’s curse view of Roll would suggest.
 
-24Precommitment allows the avoidance of sending negative signals to the market.
-
-25-The New York Times, March 3, 2004, comments: “Unlike many other telecommunications kingpins of the 1990’s, who cashed out hundreds of millions of dollars in inflated stock ahead of unsuspecting
-
-investors, Mr. Ebbers apparently believed that he could keep the company afloat one way or another. He
-
-kept buying WorldCom shares even as the company’s house of cards began to topple.”
-
-262
+Managerial overconfidence implies a difference in opinion about the value of the

@@ -1,9 +1,13 @@
-## of turnover, absenteeism, engagement, and productivity, which can
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09f8b1e1a7c791c9e29a86f071ca01ee73ce128e
+title: H08U4A-PDF-ENG
+---
+## behaviors and team experiences and not in vague or subjective terms.
 
-include the presence or absence of kindness at work.
+While no perfect kindness metric currently exists, many organizations
 
-Organizations don’t need to reinvent the wheel to measure relational
+already measure distinctly related dynamics such as psychological
 
-behaviors. Existing surveys can be adapted. Items not labelled
-
-speciﬁcally as kindness can measure the conditions that help or hinder
+safety, inclusion, civility, and trust. Others dig into the root causes

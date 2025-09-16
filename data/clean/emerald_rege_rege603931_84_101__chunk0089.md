@@ -1,3 +1,9 @@
-## Medeiros, C.A.F., Albuquerque, L.G., Siqueira, M. and Marques, G.M.
+---
+source_path: emerald_rege_rege603931_84_101.md
+pages: n/a-n/a
+chunk_id: e82d9e92eccd7310c8851ff1676b09c40049f0a3
+title: emerald_rege_rege603931_84_101
+---
+# Medeiros, C.A.F. and Enders, W.T.
 
-(2003), “Comprometimento Organizacional: o estado da arte da pesquisa no Brasil”, Revista de Administração Contemporânea, Vol. 7 No. 4, pp. 187-209, doi: 10.1016/S1053-4822(99)00027-3.
+(2002), “Comprometimento Organizacional: o estado da arte da pesquisa no Brasil”, Encontro Nacional de pós-graduação em Administração, Anpad, Salvador.

@@ -1,9 +1,15 @@
-# view of Psychology, 22, 565–602.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 90daf93901e64708bae972e625cf9ae25b23783e
+title: barrickryan_eds_personality_and_work
+---
+## dustry report. Training and Development, 52, 21–43.
 
-Campbell, J. P., & Kuncel, N. R. (2002). Individual and team training. In N. Anderson, D. S. Ones, H. K. Sinangil, & C. Viswesvaran (Eds.), Handbook of industrial, work, and organizational psychology (pp. 278– 312). Thousand Oaks, CA: Sage.
+Bassi, L. J., & Van Buren, M. E. (1999). Sharpening the leading edge. Training and Development Magazine, 53, 7–21. [http://www.astd.org/ virtual_community/research/].
 
-Chen, G., Gully, S. M., Whiteman, J. A., & Kilcullen, R. N. (2000). Exam- ination of relationships among trait-like individual differences, state- like individual differences, and learning performance. Journal of Applied Psychology, 85, 835–847.
+Bauer, T. N., Maertz, C. P., Dolan, M. R., & Campion, M. A. (1998). Lon- gitudinal assessment of applicant reactions to employment testing and test outcome feedback. Journal of Applied Psychology, 83, 892–903.
 
-Colquitt, J. A., LePine, J. A., & Noe, R. A. (2000). Toward an integrative theory of training motivation: A meta-analytic path analysis of 20 years of research. Journal of Applied Psychology, 85, 678–707.
+Brophy, J. (1998). Motivating students to learn. New York: McGraw-Hill. Brown, K. G., & Ford, J. K. (2002). Using computer technology in train- ing: Building an infrastructure for active learning. In K. Kraiger (Ed.), Creating, implementing, and managing effective training and de- velopment (pp. 192–233). San Francisco: Jossey-Bass.
 
-Cronbach, L. J. (1957). The two disciplines of scientiﬁc psychology. Amer-
+Button, S. B., Mathieu, J. E., & Zajac, D. (1996). Goal orientation in or- ganizational research: A conceptual and empirical foundation. Organizational Behavior and Human Decision Processes, 67, 26–48. Campbell, J. P. (1971). Personnel training and development. Annual Re-

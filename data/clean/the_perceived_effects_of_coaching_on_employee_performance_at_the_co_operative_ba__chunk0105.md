@@ -1,19 +1,13 @@
-# 4.2.4(cid:32) Support and Development
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: d7283cbba35b7fed42466ac6a1b19cb2eb3f335a
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+## Figure 4.2.3: Effective feedback responses
 
-The survey found out that a majority of the line managers had not been trained as
+Evaluating coaching’s performance through effective feedback may help boost
 
-coaches. 85% of the respondents acknowledged having not received a training on
+success rates. The more frequently respondents reported using a measurement
 
-coaching. They however did agree that coaching is part of the line manager’s core
-
-competencies and they should support and develop the coachees. The line
-
-managers are receptive to the coaching practices and are raising awareness of
-
-coaching within the workplace. These responses were captured in question 1A, 4A
-
-and 9A and are illustrated in the figure 4.2.4 below.
-
-(cid:50)(cid:53)(cid:32)
-
-(cid:32)
+method, the more likely they were to report success in their coaching programs.

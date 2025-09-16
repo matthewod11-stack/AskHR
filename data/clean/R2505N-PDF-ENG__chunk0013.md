@@ -1,29 +1,29 @@
-# Deciding What to Delegate
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd04b231e81d584969baf543d4ff5c9598890417
+title: R2505N-PDF-ENG
+---
+# lower-level tasks.
 
-Before you can successfully delegate, you need to learn to diﬀerentiate
+Recently, we surveyed this group to ﬁnd out what was tripping them up.
 
-between the work you should keep—and, indeed, do more of—and the
+From their stories, we realized that many needed a refresher on which
 
-work that is better left to a team member. My advice is simple: When
+tasks to retain and which to give to others. A how-to on that is outlined
 
-considering any meeting, task, or responsibility, always ask yourself,
+below. But we also identiﬁed four challenges that stop even those who
 
-“Am I the best and cheapest person to get this done?” If the answer is no,
+know how to delegate from doing it successfully: an addiction to the
 
-delegate the work and give the person you’re handing it to the context
+dopamine hit of easy productivity, a disinclination to reject requests
 
-needed to succeed.
+for help, a desire to meet their own bosses’ or clients’ unmanaged
 
-Context-setting includes explaining why the work needs to be
+expectations, and a misunderstanding of what “work” should mean for
 
-done (following an organizational strategy, entering a new market,
+a manager. Drawing on research and my own two decades of experience
 
-onboarding a client, or investing in a project, for example); the results
+advising senior leaders, I’ve developed concrete recommendations for
 
-the person or group is expected to deliver; the deadline for the work;
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+overcoming each challenge.

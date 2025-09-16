@@ -1,5 +1,13 @@
-# Consequences of Empowerment
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: fa79f7875e3f6e6c2e25bf873fa7aa3e250fad81
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Empowerment Charts
 
-As shown in Table ., being at a higher level of control/input has many positive aspects. For example, research indicates that increased empowerment typically results in increased job satisfaction for employees in the United States, Mexico, and Poland but not for employees in India (Robert, Probst, Martocchio, Drasgow, & Lawler, ). The increased responsibility can result in higher skill levels, which in turn can result in higher pay, increased job security, and increased potential to find other employment. However, empowerment can have its downside. With increased responsibility comes increased stress. With the power to make deci- sions comes the risk of making bad ones and thus being fired or denied a promo- tion. Thus, it is not surprising that some employees resist efforts to empower them or their teams (Maynard, Mathieu, Marsh, & Ruddy, ).
+Organizations never have just one level of employee input and control that applies to every employee. Instead, levels will differ by employee as well as by task. For example, a bank teller might be placed at the absolute level to decide when she will take her breaks, at the advisory level when it comes to hiring new employees, and at the following level when it comes to waiving check fees. To reduce confu- sion, it is a good idea for organizations to develop what I call individual employee empowerment charts. An example of such a chart is shown in Figure ..
 
-One of the things that is true throughout life is that people are different, and not everything affects everyone the same way. For example, imagine that we place all of the employees in a fast-food restaurant at the absolute level in mak- ing decisions such as when to comp drinks or a meal if the service is slow or the food is bad or when to allow customers to make substitutions. For many of these employees, this authority will be welcome, as it reduces the time taken to get permission from a supervisor and provides them with a sense of power. However, for some employees, the increased stress of making acceptable decisions far out- weighs any feelings of so-called empowerment.
+In the chart, notice that for each task, a range of control/input is allowed. For example, the task of opening new accounts can be performed at the
+
+following, ownership, or advisory level. Our new employee, Jane (J), is at the following level, whereas our experienced teller, Emily (E), is at the advisory level. In most organizations, a new employee would most likely be placed at the following level until she has demonstrated mastery in performing the task. Individual employee empowerment charts reduce confusion and provide a sys- tematic plan for providing employees with more autonomy as their skills and experience increase.

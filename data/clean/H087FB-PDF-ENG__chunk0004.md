@@ -1,15 +1,9 @@
-## disruptive, both for your home life and your career.
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d558017a096d2e0fe69dc06b329e6b9838ebd6a2
+title: H087FB-PDF-ENG
+---
+## HBR / Digital Article / How to Rethink Your Career as an Empty Nester
 
-It’s common for parents to feel grief when kids leave the house. Perhaps
-
-you’ve been caught unaware: You haven’t fully anticipated this time and
-
-season, and now your life looks like a blank canvas. How do you ﬁll it?
-
-Even asking the question can give rise to emotions that need to be fully
-
-processed.
-
-If you’re an empty nester (or will be soon), here are some strategies to
-
-help you re-shape your life and ﬁnd meaning — both personally and
+children move out? The sudden change and loss of predictability can be

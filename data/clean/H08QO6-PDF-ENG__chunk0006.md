@@ -1,23 +1,17 @@
-# delegate sideways.
+---
+source_path: H08QO6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29bd17a20260ca39df489e8984b21955e02334a7
+title: H08QO6-PDF-ENG
+---
+# theirs.”
 
-It’s hard to ask for time and attention from colleagues who have
+The higher you rise, the more your success depends on delivering
 
-demanding roles just like yours and wouldn’t appreciate someone
+results through people who don’t report to you, namely your peers.
 
-else’s work being dumped onto their plate. Delegating across means
+Sometimes you need specialized expertise, like a forecast from Finance
 
-managing egos, politics, and invisible dynamics, so here’s how to share
+or a contract from Legal. Other times, you simply need more hands to
 
-the load and enlist the help you need, without overstepping.
-
-Assess which tasks fit the bill.
-
-You’re likely asking your peer to mobilize multiple members of their
-
-team, reallocate resources, and potentially delay their own deliverables,
-
-which is why you have to be selective about what you hand oﬀ. Before
-
-you ask a peer to take something on, gut-check whether it truly makes
-
-sense for their team to own it. Delegating the wrong kind of task—
+deliver at the scale and pace your projects demand, requiring you to

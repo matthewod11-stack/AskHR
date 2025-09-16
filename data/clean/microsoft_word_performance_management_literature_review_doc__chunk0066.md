@@ -1,3 +1,9 @@
-# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:36)(cid:42)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: f0f713a52581abe32d416717980b0420fb21adce
+title: microsoft_word_performance_management_literature_review_doc
+---
+# Halifax
 
-(cid:22)(cid:7)(cid:9)(cid:7)(cid:11)(cid:7)(cid:2)(cid:28)(cid:7)(cid:3)(cid:8)
+And adding to the good practice picture in quantitative terms, the CIPD survey (2005) found that management buy-in alongside the communication of objectives were considered to be the most critical factors in the introduction, maintenance and improvement of a performance management system (CIPD, 2005).

@@ -1,7 +1,7 @@
-# America heavy duty market size.
-
-- 3. Its Ultra-Competitive Markets
-
-Companies that survive the life-and-death struggles of China’s markets
-
-— often described as a “Gladiators Arena” — often emerge as global
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c4de82eba2b83b0bef3634199a4bb40cbaf5aaa8
+title: H08D71-PDF-ENG
+---
+## of total domestic production and roughly equivalent to the entire North

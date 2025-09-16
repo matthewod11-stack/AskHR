@@ -1,19 +1,19 @@
-## Thesis. Tampere: Acta Universitatis Tamperensis 600.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: af9d7077742a8b6392866913d619ee42c94dfe3c
+title: file_1
+---
+## of Applied Social Psychology, 18 (7), 606-625.
 
-Korvajärvi, P., 2003. Doing Gender – Theoretical and Methodological Considerations. In E. Gunnarsson et al., eds, Where Have All the Structures Gone? Stockholm: Center for Women’s Studies, Stockholm University, 45–76.
+Judge, T. and B. Livingston, 2008. Is the gap more than gender? A longitudinal analysis of
 
-Kray, L., Thompson, L. and A. Galinsky, 2001. Battle of the sexes: Gender stereotypes and
+gender, gender role orientation and earnings. Journal of Applied Psychology, 93 (5), 994-112.
 
-reactance in negotiations. Journal of Personality and Social Psychology, 80, 942-58.
+Kanter, R., 1977. Men and Women of the Corporation. USA: Basic Books.
 
-Lam, M., 2004. The perception of Inequalities: A gender case study. Sociology, 38, 5.
+Knijn, T. and K. Kremer, 1997. Gender and the caring dimension of welfare states. Social
 
-Lehto, A., 1999. Towards equality in working life. In A. Lehto, and H. Sutela, eds, Gender
+Politics, 4, 329-367.
 
-Equality in Working Life. Helsinki: Statistics Finland.
-
-Lewis, J. and S. Giullari, 2005. The adult worker model family, gender equality and care: the
-
-search for new policy principles and the possibilities and problems of a capabilities approach. Economy and Society, 34 (1), 76-104.
-
-Lockwood, D., 1986. Class, Status and Gender. In R. Crompton and M. Mann, eds, Gender
+Korvajärvi, P., 1998. Gendering Dynamics in White-Collar Work Organizations. PhD

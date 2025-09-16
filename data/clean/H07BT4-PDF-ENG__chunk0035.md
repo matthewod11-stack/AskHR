@@ -1,11 +1,15 @@
-# organizations.
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 218c8fc4508e5febeda40b2ba5db10106428606a
+title: H07BT4-PDF-ENG
+---
+# HBR / Digital Article / Why Some of Your Salespeople Are Dragging — and How to Fix It
 
-Unfortunately, sellers looking to branch out within their
+High-drag sellers are in turn up to 35% less likely to attain quota
 
-organization typically have limited knowledge of available alternatives.
+and up to 51% more likely to be actively job-seeking than their low-
 
-Traditionally, sellers have climbed a vertical career ladder, graduating
+drag counterparts. To reduce seller drag, sales leadership must address
 
-to bigger or better accounts, segments or goals — perhaps even moving
-
-into management. This trajectory tends to aﬀord limited opportunity to
+the risk and uncertainty that accompanies career movement at many

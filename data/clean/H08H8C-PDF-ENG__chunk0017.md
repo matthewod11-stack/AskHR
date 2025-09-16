@@ -1,11 +1,7 @@
-# opinions and experiences.
-
-- The friendly self, who believes that a presentation is a dialogue rather
-
-than a monologue, and engages the audience in discussion about the
-
-topic — including welcoming questions.
-
-- The mentor self, who believes that every presentation is an
-
-opportunity to learn and grow, and solicits feedback after the
+---
+source_path: H08H8C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d763c40bee72948aad264b44db5fd226f6ffeb2
+title: H08H8C-PDF-ENG
+---
+## homework to share their perspective, and proactively shares their own

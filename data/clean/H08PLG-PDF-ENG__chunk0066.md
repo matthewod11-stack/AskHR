@@ -1,7 +1,15 @@
-# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73d4385da601f33c3eef156188175d70ca1d7255
+title: H08PLG-PDF-ENG
+---
+## leaders—particularly at AI companies or those with extensive AI needs
 
-Technologies There are a number of innovations that can make AI use more eﬃcient.
+—can consider several mitigation options:
 
-If you run your own data centers, Google’s DeepMind AI can cut cooling expenses by up to 40%. Also, Nvidia is developing more eﬃcient GPUs
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that can deliver up to 30 times the performance while using 25 times
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

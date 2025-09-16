@@ -1,5 +1,11 @@
-# 1.4.3 Short-Term Incentives
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8eb404b280869c389d8a1f91f61d18b49e3c0c78
+title: performance_management_3rd_edition_by_aguinis
+---
+## 1.4.2 Cost-of-Living Adjustments and Contingent Pay
 
-Similar to contingent pay, short-term incentives are allocated based on past performance. However, incentives are not added to the base pay and are only temporary pay adjust- ments based on the review period (e.g., quarterly or annual). Incentives are one-time payments and are sometimes referred to as variable pay.
+Cost-of-living adjustments (COLA) imply the same percentage increase for all employees regardless of their individual performance. Cost-of-living adjustments are given to com- bat the effects of inflation in an attempt to preserve the employees’ buying power. For example, in 2003 in the United States, organizations that implemented a COLA used a 2.1% pay increase. In 2001, this same percentage was only 1.4%. Year-by-year COLA percentages can be obtained from such agencies as the Social Security Administration in the United States (http://www.ssa.gov/OACT/COLA/colaseries.html).
 
-A second difference between incentives and contingent pay is that incentives are known in advance. For example, a salesperson in a pharmaceutical company knows that if she meets her sales quota, she will receive a $3,000 bonus at the end of the quar- ter. She also knows that if she exceeds her sales quota by 10%, her bonus will be $6,000. By contrast, in the case of contingent pay, in most cases, the specific value of the reward is not known in advance.
+Contingent pay, sometimes referred to as merit pay, is given as an addition to the base pay based on past performance. Chapter 10 describes the topic of contingent pay in detail. In a nutshell, contingent pay means that the amount of additional compensa- tion depends on an employee’s level of performance. So, for example, the top 20% of employees in the performance score distribution may receive a 10% annual increase, whereas employees in the middle 70% of the distribution may receive a 4% increase, and employees in the bottom 10% may receive no increase at all.

@@ -1,17 +1,9 @@
-## According to Harvard Business School’s Amy Edmondson, teams need
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b70ed0e9ee19677fb78636ad24fa966ed0810f17
+title: R2503K-PDF-ENG
+---
+# Too Much Psychological Safety
 
-environments where members feel accepted and comfortable enough
-
-to take risks and share concerns without fear of embarrassment or
-
-retribution. (For more on this topic, see “What People Get Wrong
-
-About Psychological Safety,” in this issue.) Google, an early adopter
-
-of Edmondson’s work, found that teams with higher levels of
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Psychological safety is a crucial aspect of eﬀective leadership.

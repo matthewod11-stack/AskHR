@@ -1,11 +1,17 @@
-# decision-making.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 941805e176b5fc6633c8dd47111aa82fd97235fd
+title: i
+---
+# models), and artificial intelligence (AI) approaches (such as neural networks). Optimization
 
-Also according to the authors, Insights, on their own, possess restricted value unless they are
+15
 
-transformed into actionable steps by management. These actions can encompass enhancements
+models can also be applied to discover the most optimal solution within a set of predefined
 
-in operational decisions, reconfiguration of existing processes, and formulation or modification
+assumptions and constraints. Such models include various mathematical programming models
 
-of strategies. At the operational level, insights have the potential to enhance the quality and
+and AI heuristics, such as genetic algorithms. These approaches collectively enable a
 
-promptness of decisions made by frontline managers.
+comprehensive analysis of the data, providing valuable insights and facilitating informed

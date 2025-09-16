@@ -1,15 +1,23 @@
-## only when responsibilities far outside of my job description — or
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc974dda2d47339f1164f53042cf8246d7a91636
+title: H087G0-PDF-ENG
+---
+## rates of workplace bullying and stigmatization of disabled people.
 
-other surprises, like oﬃce moves — were thrown my way. When
+(Note: disability communities generally favor identity-ﬁrst language.)
 
-that happened, I found work-arounds. I did, however, lose career
+As an autistic woman (misdiagnosed, like many, with depression for
 
-opportunities — my sensory sensitivities make noise and artiﬁcial
+much of my life), I’ve navigated various disclosure options and fear
 
-lighting debilitating, so I’ve had to turn down otherwise excellent job
+of mental health stigma for over 25 years while also encountering
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+additional, more physical challenges. In most work settings I haven’t
 
-2
+disclosed or asked for accommodations, relying instead on job matching
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and job crafting to use my strengths to excel. Successful matching
+
+meant that I faced misalignment between my work and abilities

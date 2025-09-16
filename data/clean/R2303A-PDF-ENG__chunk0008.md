@@ -1,9 +1,9 @@
-## the University of Cincinnati College-Conservatory of Music while in our
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f1572668b57361b29fa3c6e2c817eb2adae1c2c
+title: R2303A-PDF-ENG
+---
+# Family Inspiration
 
-twenties. Ben had already appeared on Broadway in his teens, so after
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Our path to the hospitality industry was a circuitous one. We met at

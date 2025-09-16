@@ -1,21 +1,43 @@
-## HBR / Magazine Article / The Labor-Savvy Leader
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8dd0bf90ecf77bf5b9726157ab51645b070ec06d
+title: R2304D-PDF-ENG
+---
+# years ahead.
 
-consider the treatment of workers to be the most important of
+Most companies aren’t prepared for this new wave of organized labor.
 
-environmental, social, and governance issues. Even some shareholders
+For much of the past century, when workers organized to demand
 
-are starting to look positively at organized labor.
+change, companies’ knee-jerk reaction was fear that unions would
 
-Business leaders can choose a diﬀerent path: They can start working
+hurt shareholder value by raising labor costs or slowing innovation.
 
-to reinvent corporate America’s relationship with labor so that more
+CEOs responded with one strategy: Fight, at all costs. This was brutally
 
-people can share in the rewards and companies can compete and
+eﬀective. In the last half of the 20th century, with companies perfecting
 
-grow in new ways. Choosing that path will require leaders to learn
+the skill of union busting and labor laws too weak to deter it, unions
 
-how to work with, rather than against, labor. Indeed, in the next 20
+lost much of their power and inﬂuence—so much so that most business
 
-years, the skill of leading an organized workforce—or leading as if your
+leaders now have little experience with organized labor.
 
-workforce is organized, regardless of its union status—may well become
+If companies continue to assume that organized labor destroys value
+
+and to reﬂexively ﬁght all collective-action eﬀorts, as has been
+
+happening at Starbucks, Amazon, and elsewhere, they run an enormous
+
+—even existential—risk. They may permanently disenchant their
+
+workforce and stamp out employees’ investment in their company’s
+
+success. They also risk harming their brands: U.S. consumers now
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,23 +1,27 @@
-# encourages collaboration.
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 250ae22193be6766d3a8dbfc71428f8d5f36c186
+title: H0785Z-PDF-ENG
+---
+## HBR / The Big Idea / What Defines a Successful Organization?
 
-Fidelity Investments, the ﬁnancial services ﬁrm, recently restructured
+businesses that are the most skilled in acquiring and developing these
 
-its personal investing group in a team format. Each team has a clear
+competencies will have a distinct competitive advantage.
 
-mission and much autonomy in how to accomplish it. The roughly
+- 3. From hierarchical layers to a team-based structure. Nearly every
 
-5,000-person organization now has just three layers below the president
+company needs to reduce the hierarchical layers that have accumulated
 
-and operates at lower cost and with shorter cycle times for innovation.
+in their organizations over time and channel more work to teams.
 
-The control function that managerial layers used to perform is now
+The beneﬁts of doing so are manifold. When teams include people who
 
-done through software that generates detailed metrics. Reports are
+are on the front lines, the information ﬂow is both faster and more
 
-produced 24/7 and highlight any red ﬂags in the data.
+accurate; with this increased speed comes greater ﬂexibility to respond
 
-- 4. From inside-out to outside-in management. To keep a company
+to customer and market changes. The improved ﬂow of information also
 
-competitive over the long term, leaders must know what is happening
-
-far beyond their own industry, geography, and existing customers.
+creates transparency that removes a lot of organizational politics and

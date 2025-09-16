@@ -1,13 +1,21 @@
-# Conclusion
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 7f2b26f16a0d3ce24e5ae273dffa2a5d0f31a2be
+title: a_p_r_a_c_t_i_c_a_l
+---
+# Plan for human interventioQ
 
-Agents mark a new era in work$ow automation, where systems can reason through ambiguity, take action across tools, and handle multi-step tasks with a high degree of autonomy. Unlike simpler LLM applications, agents execute work$ows end-to-end, making them well-suited for use cases that involve complex decisions, unstructured data, or brittle rule-based systems(cid:17)
+Human intervention is a critical safeguard enabling you to improve an agent’s real-world performance without compromising user experience. It’s especially important early} in deployment, helping identify failures, uncover edge cases, and establish a robust evaluation cycle@
 
-To build reliable agents, start with strong foundations: pair capable models with well-de(cid:12)ned tools and clear, structured instructions. Use orchestration patterns that match your complexity level, starting with a single agent and evolving to multi-agent systems only when needed. Guardrails are critical at every stage, from input (cid:12)ltering and tool use to human-in-the-loop intervention, helping ensure agents operate safely and predictably in production(cid:17)
+Implementing a human intervention mechanism allows the agent to gracefully transfer control when it can’t complete a task. In customer service, this means escalating the issue} to a human agent. For a coding agent, this means handing control back to the user@
 
-The path to successful deployment isn’t all-or-nothing. Start small, validate with real users, and grow capabilities over time. With the right foundations and an iterative approach, agents can deliver real business value—automating not just tasks, but entire work$ows with intelligence. and adaptability.-
+Two primary triggers typically warrant human intervention<
 
-If you’re exploring agents for your organization or preparing for your (cid:12)rst deployment, feel free. to reach out. Our team can provide the expertise, guidance, and hands-on support to ensure. your success.
+Exceeding failure thresholds: Set limits on agent retries or actions. If the agent exceedN these limits (e.g., fails to understand customer intent after multiple attempts), escalat(cid:131) to human intervention@
 
-32
+High-risk actions: Actions that are sensitive, irreversible, or have high stakes shoulc trigger human oversight until con2dence in the agent’s reliability grows. ExampleN include canceling user orders, authorizing large refunds, or making payments.
+
+31
 
 A practical guide to building agents

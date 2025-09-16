@@ -1,7 +1,13 @@
-# patterns, not someone else’s.
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: d9ea57c7fc9f6569f6cd4e1731be0da2588c4cf6
+title: The Feedback Fallacy
+---
+## therefore more like new buds on a branch rather than new branches.”
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+Through this lens, learning looks a lot like building, little by little, on
 
-7
+the unique patterns already there within you. Which in turn means
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+learning has to start by ﬁnding and understanding those patterns—your

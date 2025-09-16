@@ -1,39 +1,21 @@
-## Luckily, feedback intervention theory (FIT) oﬀers valuable insights
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f7247fec5edbb8222b4b858b9f9bdb8add5e70c
+title: H08HAK-PDF-ENG
+---
+# HBR / Digital Article / Research: Performance Reviews That Actually Motivate Employ…
 
-into eﬀective delivery, suggesting that feedback should be speciﬁc
+Delivering negative performance feedback. Eﬀectively delivering
 
-and behavior-focused, avoiding personal critiques that may trigger
+negative feedback is a pivotal part of helping your employees
 
-defensiveness. FIT stresses the importance of aligning feedback with
+understand how they can improve and grow. Though while employees
 
-an employee’s values and perspective to increase its receptivity and
+generally respond well to positive feedback regardless of how it’s
 
-eﬀectiveness. This alignment involves tailoring feedback to match
+delivered, negative feedback can evoke resistance, defensiveness,
 
-employees’ personal goals and values, thereby enhancing its relevance
+or even feelings of helplessness among employees. For managers,
 
-and ensuring it is perceived as supportive and constructive rather than
-
-punitive. It’s crucial to frame negative feedback as an opportunity for
-
-growth and development to foster a forward-looking and constructive
-
-dialogue that encourages continuous improvement and learning. Our
-
-research shows that negative feedback may feel even more negative
-
-when accompanied by numbers. Managers should consider this when
-
-delivering negative feedback. Numerical ratings might be useful to
-
-highlight areas for improvement but could also unintentionally amplify
-
-criticism. The value of numbers thus depends on the message managers
-
-wish to send.
-
-. . .
-
-Performance feedback is more than just a routine administrative task
-
-— it’s a strategic tool that shapes organizational culture and employee
+presenting negative feedback can be challenging and uncomfortable.

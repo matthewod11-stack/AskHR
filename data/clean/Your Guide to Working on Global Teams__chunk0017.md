@@ -1,7 +1,19 @@
-# Globish words when you can
+---
+source_path: Your Guide to Working on Global Teams.md
+pages: n/a-n/a
+chunk_id: cb7508966e41741a531cc03cd257ff1040b127b7
+title: Your Guide to Working on Global Teams
+---
+# a glossary
 
-Don’t say: “Let’s catch up about that later.”
+Don’t say: “What’s your bandwidth for this project?
 
-Do say: “We can talk about the project later.”It’s also important to speak slowly and articulate well whenspeaking Globish, and to make any jokes with caution. But evenwith Globish, miscommunications can happen. Again, it can behelpful to set some communication guidelines, such as “Don’thesitate to interrupt me if something is unclear. I tend to speakquickly,” or “I’ll take notes during the meeting to be sure we areon the same page and I’ll send out the minutes later.”
+Do say: “How much time do you have to work on thisproject?”
 
-Building relationships across cultural boundaries is not a one-offexercise. It takes time, perseverance, and courage. And odds are,you will make mistakes. The key to moving forward when culturalmissteps happen is to highlight what’s at stake, talk transparentlyto avoid grudges, and confirm humbly that you’re eager toimprove and work together.
+Don’t use idioms (or give an explanation when you do usethem)
+
+Don’t say: “You can call the shots on this project.”
+
+Do say: “You’ll be the main decision-maker on this project.”
+
+Do reformulate to use

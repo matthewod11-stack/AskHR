@@ -1,5 +1,13 @@
-# PERSONALITY AND JOB PERFORMANCE 89
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 88d18d91bf25cc6c77bcaa3634e603b39f545dd1
+title: barrickryan_eds_personality_and_work
+---
+# Performance Deﬁned
 
-- Demonstrate effort • Maintain personal discipline • Facilitate peer and team performance • Supervision/leadership • Management/administration
+This chapter focuses on individual job performance, which Camp- bell (1990; Campbell, McCloy, Oppler, & Sager, 1993) deﬁned as behavior that is relevant to the goals of the organization and can be measured in terms of the level of the individual’s contribution to those goals. Performance can be distinguished from effective- ness, which is some aggregate of the outcomes of performance that can be inﬂuenced to some extent by factors other than the indi- vidual’s performance. Thus, this chapter includes only models of performance that are based on individual behaviors, not measures of effectiveness (such as dollar volume of sales). This chapter also does not include counterproductive or withdrawal behaviors, which are addressed in Chapter Six.
 
-This model is a useful starting point to which more speciﬁc di- mensions can be added based on recent research on citizenship performance, adaptive performance, and managerial performance.
+Campbell et al.’s (1993) model of performance consists of eight components, some or all of which should be adequate to de- scribe all jobs in the U.S. economy:
+
+- Job-speciﬁc task proﬁciency • Non-job-speciﬁc task proﬁciency • Written and oral communication proﬁciency

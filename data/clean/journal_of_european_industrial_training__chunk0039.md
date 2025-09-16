@@ -1,17 +1,17 @@
-# 36088 feedback processes
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: dac4264c345ebe286c2089f38cb056cb2c2ea9eb
+title: journal_of_european_industrial_training
+---
+# Context of process
 
-To provide feedback on performance, behaviour and developmental needs from a variety of perspectives Multiple raters: peers, subordinates, self, customers, suppliers, skip-level reports Feedback is collated by rater group ± individual ratings are unknown to the recipient Reports on behaviour and judgements on performance based on work unit performance and development dimensions Ratings scales: primarily Likert scales. Most 3608 processes only collect quantitative data Typically only used for the identification of training and development needs and the exploration of career issues
+Yearly event linked to pay decisions in many cases
 
-Recipient ownership; focus on employee's development, rather than evaluation; self-appraisal component; safe-awareness tool; multi-perspective feedback; more egalitarian in focus Continuous process not necessarily confined to one time a year Typically employees in managerial positions
+Targeted employees All employees in the organisation
 
-) T P (
+[10]
 
-5 1 0 2
+The American Society for Training and Development (ASTD) provides a benchmarking service which collects information from all types of organisations in the USA on the nature of employer- provided training expenditures, practices and outcomes (Bassi and Van Buren, 1999). The report for 1998 highlights the current trends and advances in training and development in various respondent organisations. The typical organisation spent $2 million on training in 1997, a substantial increase from $1.4 million in 1996, and the average ``leading edge'' firm spent $4.1 million, whereas the 1996 figure was $3.4 million. The report claims that 73 per cent of the leading edge organisations included in the sample indicated that they used 3608 feedback in their performance management.
 
-h c r a
-
-M 8 0
-
-1 0 : 5 1 t
-
-A K R O C E G E L L O C Y T I S R E V N U y b
+Further evidence of the level of adoption of 3608 feedback is provided by Atwater and Waldman (1998) who propose that about 90 per cent of Fortune 1000 firms are using multi-source assessment in the USA. Ghorpade (2000) goes as far as stating that 3608 feedback has nearly become universal among Fortune 500 companies. In addition, the findings of the 1997 International Study of Executive Development Trends profiles eight major trends in executive education and leadership development (Vicere, 1998). This is a longitudinal study which has been carried out every five years since 1982. Vicere highlights that performance feedback made an ``impressive return to

@@ -1,9 +1,11 @@
-## Intimacy zone A distance zone within 18 inches of a
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b07ef2fa2decc725d5209bf7943ba705f52dd536
+title: industrial_organizational_psychology_an_applied_approach
+---
+# between two individuals.
 
-person, where only people with a close relationship to the person are allowed to enter.
+Interpersonal conflict Conflict between two people. Intervening variable A third variable that can often
 
-Intranet A computer-based employee communication network used exclusively by one organization.
-
-glossary
-
-611
+explain the relationship between two other variables.

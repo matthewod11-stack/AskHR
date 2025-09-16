@@ -1,37 +1,13 @@
-## HBR / Digital Article / When Your Vacation Wasn’t Exactly Relaxing
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fef421c06e3bcc19cbaa4d79453da4737522ce1
+title: H07SAC-PDF-ENG
+---
+# name: leisure sickness.
 
-Even when pacing yourself, your time oﬀ doesn’t always go as planned.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-The vacation itself can be a source of stress for a variety of reasons, from
+1
 
-strained relationships, pre-vacation stress of getting everything done,
-
-unexpected travel delays, or the weight of impending deadlines and
-
-workload when you return.
-
-So, what can you do when you come back to work more exhausted than
-
-when you left — especially when everyone assumes you’re well rested
-
-and raring to go but you feel just as depleted (or more) than before? Here
-
-are ﬁve steps you can take to refresh on your return.
-
-- 1. Take inventory of your health and energy.
-
-Unless you’ve been on a rejuvenating health retreat, it’s possible that
-
-you’ve veered away from your healthy routines, maybe skipping out on
-
-physical activity or ﬁnding yourself caught up in a full schedule and
-
-indulging a bit too much.
-
-On your return, assess and acknowledge your energy levels, taking
-
-inventory of how you’re feeling to determine what you need. Research
-
-has found that optimizing your energy along the following domains can
-
-help boost wellbeing and performance: sleep, movement, connection,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

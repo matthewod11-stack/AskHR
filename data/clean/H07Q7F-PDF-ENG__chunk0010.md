@@ -1,15 +1,11 @@
-# environment.
+---
+source_path: H07Q7F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2190955f2722e3ece7ea4f54200286749b77385c
+title: H07Q7F-PDF-ENG
+---
+# assignment to completion
 
-- Your constructive criticism could help a team member develop and
+- That candid comment you make to a coworker about their
 
-grow in their role, opening up new career opportunities
-
-When you look more closely, you’ll see that expressing your thoughts, feelings, and opinions is far more beneﬁcial than stuﬃng them down
-
-and suﬀering the consequences.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+disruptive behavior could result in a more peaceful, productive work

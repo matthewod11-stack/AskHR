@@ -1,19 +1,13 @@
-# the ﬁrst 90 days of employment.
+---
+source_path: H083D5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebacb07a0736d8a689ef096627ff875311a663d7
+title: H083D5-PDF-ENG
+---
+## the formation of an emotional bond between new hires and the
 
-One common mistake is oﬀering a perfunctory experience that consists
+company, impacting engagement and inﬂuencing employee retention.
 
-of a day of orientation and a packet explaining beneﬁts. What is less
+New employee turnover rates can be as high as 20% in the ﬁrst 45 days,
 
-recognized — but equally destructive and prevalent — is that some
-
-companies “over-onboard” their employees. In my work as a learning
-
-design consultant, I hear stories of managers who, on their new hires’
-
-ﬁrst days, read through every single page of the employee manual with
-
-them and expect them to get up to speed with Slack, email, Box, and
-
-all the other platforms all at once. Or managers who take employees
-
-on a “quick tour” of a manufacturing plant and then point out all the
+and approximately one-third of employees leave their new jobs within

@@ -1,51 +1,17 @@
-# performance.”
+---
+source_path: H06D14-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e747870ec6adb8940bc42f4c379db688bc52af01
+title: H06D14-PDF-ENG
+---
+## HBR / Digital Article / When You’re Stuck Working with a Slacker
 
-Deﬁne expectations. One way to safeguard your reputation is to ensure
+says White. She suggests asking your boss for additional individual
 
-that “expectations and roles are clearly deﬁned,” says White. Let’s
+assignments. For instance, “you might say, ‘I love being on the team,
 
-say you and this colleague are collectively responsible for producing
+but I‘m looking for new challenges, and I want to do more. Are there
 
-particular elements of projects. White recommends proposing that each
+any solo tasks I could take on?’” Your goal is to demonstrate your
 
-project “has a clear and designated leader.” Project leadership would
-
-rotate to “increase accountability.” This way, “at least you know you’re
-
-going to get credit” for success when you’re the leader, she says.
-
-Bringing your boss into these conversations is key, says Uzzi. When your
-
-manager has weighed in on how “Janet will do this and Deepak will
-
-do that,” then there’s a trail for the boss to know who’s responsible for
-
-each deliverable. “This should provide motivation for the weak link to
-
-produce more high-quality work,” he says.
-
-Invite others in. Another way to change the dynamic of your
-
-relationship with this colleague is to incorporate another person into
-
-the work, says Uzzi. “Paired relationships often fall out of balance,” he
-
-says. “There may be something about the two of you that dampens
-
-[your colleague’s] creativity or hurts their motivation.” Inviting a third
-
-party into your project “changes your chemistry” and builds trust. So,
-
-think about who might make a strong addition to your relationship
-
-and how they might contribute. “Perhaps this person provides new
-
-skills that neither of you have; maybe they inject some creativity; or
-
-maybe they’re a sounding board and can oﬀer feedback.” If this third colleague doesn’t have capacity to oﬃcially join your project, “even just
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+competence and “give your boss another way to evaluate you and your

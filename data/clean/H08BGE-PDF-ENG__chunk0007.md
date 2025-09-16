@@ -1,33 +1,23 @@
-## HBR / Digital Article / How Biases About Motherhood Impact All Women at Work
+---
+source_path: H08BGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff0f5252ef76e7246e5277aaa62e8c430b189d38
+title: H08BGE-PDF-ENG
+---
+# Illustration by Benedetta Vialli
 
-While this employee had no children, her employer upended her job due
+In our book Glass Walls, we tell the story of a newspaper employee
 
-to her aspiration to have children in the future.
+whose publisher asked her if she planned to have kids. She replied,
 
-Women’s experiences as parents in the workplace are completely
+“Someday.” The publisher responded, “That will be your career.”
 
-diﬀerent from men’s. Men get a “fatherhood wage premium,” such
+Subsequently, the publisher moved her around the newsroom, never
 
-that fathers earn more than everyone else, including men without
+gave her a promotion, and assigned her to the night shift. She quit.
 
-children. However, mothers encounter a “motherhood penalty” in
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-wages and advancement opportunities. Pregnant women experience
+1
 
-discrimination to the point that they are often afraid to let their
-
-employers know they are expecting. One might think that women
-
-without children, who make up almost half of U.S. women aged 15 to
-
-50, have workplace advantages on a par with their male counterparts.
-
-But they don’t. Among women with similar levels of education, non-
-
-mothers have the same gender wage gap as mothers. Women don’t have
-
-to be mothers or even want children to be aﬀected by a “maternal wall.”
-
-Simply being a woman means being viewed as a potential mother — or
-
-someone who should be a mother — which is enough to create such a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

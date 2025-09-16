@@ -1,11 +1,17 @@
-# Fleishman, E.A. The Leadership Opinion Questionnaire. In R.M. Stogdill & A.E. Coons
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: c552c9a751ef6bb825b8560a237d8190aa96e274
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# Applied Sports Sciences, 1978, 3, 85-92.
 
-(Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research, 1957. (b)
+Cratty, B.J. Psychology in contemporary sport. Englewood Cliffs, N.J.: Prentice-Hall,
 
-Halpin, A.W. The leader behavior and effectiveness of aircraft commanders. In R.M. Stogdill & A.E. Coons (Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research, 1957.
+1973.
 
-Halpin, W.W., & Winer, R.J. A factorial study of the leader behavior description. In
+Danielson, R.R., Zelhart, P.F., & Drake, D.J. Multidimensional scaling and factor
 
-R.M. StogdillA A.E. Coons (Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research, 1957.
+analysis of coaching behavior as perceived by high school hockey players. Research Quarterly, 1975, 46, 323-334.
 
-Hemphill, J.K., & Coons, A.E. Development ofthe leader behavior description question- naire. In R.M. Stogdill & A.E. Coons (Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research 1957.
+Fiedler, F.E. A theory of leadership effectiveness. New York: McGraw-Hill, 1967. Fleishman, E.A. A leader behavior description for industry. In R.M. Stogdill & A.E. Coons (Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research, 1957. (a)

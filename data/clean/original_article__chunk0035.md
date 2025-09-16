@@ -1,7 +1,9 @@
-# state that
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 2ed3d377cdef153560f08e4dd5fb83140f6395b4
+title: original_article
+---
+# that
 
-© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
-
-111
-
-112
+- 2) are employees with interrelated tasks res- ponsible for making a product or providing [exercise] discretion over a service; and 3) decisions task assignments, methods such as for carrying out the work and scheduling of activities’ (Cohen and Ledford, 1994). There- fore, we consider the board of directors a ‘team’ in the same way others have considered and studied boards at the theoretical level (F&M, 1999; Conger and Lawler, 2009; Vandewaerde et al, 2011; Vandewaerde et al, 2012). This distinction that boards are teams is germane when considering the next level of inquiry in F&M’s (1999) model: board processes. They identify effort norms, cognitive conﬂict and the use of skills and knowledge as the ‘intervening process’. We assume that the referenced inter- vening process is the board’s dynamic. F&M the ‘the study of process (1999) constructs has to expand and the potential reﬁne our understanding of group dynamics … the identiﬁcation of independently predictive processes represents an important complement to knowledge about the direct or indirect effects of board demography’ (F&M, 1999). According to Curry et al (2012), team dynamics is deﬁned as being able to deal with differences, trusting the other, creating a meaningful con- text, handling conﬂict and tension, and enact- ing effective leadership roles within the team (Curry et al, 2012). McGrath et al (2000) deﬁne it as ‘team members engaged in tasks using tools and resources’ to satisfy two team objectives – to complete group projects and to fulﬁll mem- ber needs (McGrath et al, 2000). Therefore, we measure dynamics to determine the degree to which team members interact successfully to achieve the team’s and their personal objectives by capturing how the team operates through these interactions. We measure the degree and quality of a board’s dynamic or interaction using the TLI (Lingham, 2009). Speciﬁcally, the scale was developed to capture the ‘socio- psychological’ aspects of teams, as it was observed team experiences are deﬁned by that great team member interaction with regard to ‘… trust, relating to others, safety and other

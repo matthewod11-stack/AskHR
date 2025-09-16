@@ -1,17 +1,17 @@
-# within the accelerator.
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a96f93aedde52ed7b043724511ca3bd2c3dac09
+title: R2404K-PDF-ENG
+---
+## HBR / Magazine Article / The Middle Path to Innovation
 
-Innovators were recruited for their technical skill, reliability, eﬀective
+The investor partners and Ajax allocated an additional $300 million,
 
-project management, teamwork, and creativity. Both Cordis and the
+with the vast majority dedicated to R&D, to create an oﬀ-balance-sheet
 
-innovators had to yield some autonomy to collaborate eﬀectively. The
+accelerator called Cordis-X, which had the same ownership structure
 
-accelerator’s leaders began by inviting innovators they had worked
+as Cordis. Cordis-X recruited experienced teams to work on product
 
-with at Ajax to join. Recruitment snowballed as word of the unique
-
-opportunities presented by the model spread. Leveraging the Ajax
-
-network, Cordis-X’s leadership expanded the range of development
-
-teams it invited to oﬀer bids on RFPs, which it then evaluated based
+development, with each team forming its own development companies

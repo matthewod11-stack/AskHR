@@ -1,9 +1,19 @@
-## rotation , special work assignments for training purposes , etc.).
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 95db7bdab82f719681fd87693d5d6ceb345feb96
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# for standards of work performance.
 
-c. Plan to meet with the employee in private. Carefully review his or her
+- 2. Outline the employee 's strengths and achievements.
 
-written self-evaluation if provided and discuss areas of agreement and
+22
 
-difference. Consider any points raised in the employee self-evaluation that
+- 3. Outline functional areas that need improvement and establish an
 
-shows another perspective on the assessment, and be prepared to modify
+improvement plan of how to accomplish performance objectives.
+
+- 4. Specify methods by which the employee can work toward
+
+accomplishing his or her performance objectives (i.e., training, job

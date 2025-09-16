@@ -1,15 +1,21 @@
-## HBR / Digital Article / When You’re Asked to Meet Impossible Goals
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 319d6ff403af8cdfa92c136e7a5efd4aff121460
+title: H08PKP-PDF-ENG
+---
+# Michael Blann/Getty Images
 
-It wasn’t just the sales targets. His company was undergoing multiple
+John, the CRO of a private equity-backed tech company, faced
 
-changes at once: shifting to a SaaS model, rolling out a new CRM,
+mounting pressure to meet sky-high sales targets tied to an acquisition.
 
-restructuring teams, and enforcing a return-to-oﬃce mandate.
+He knew the goals he was given were unachievable. Saying yes risked
 
-John’s dilemma is now common. Change is no longer an occasional
+burnout and failure; saying no risked his credibility.
 
-disruption but a constant. Employees are now experiencing ﬁve times
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-more planned change initiatives than they did just a decade ago. Add
+1
 
-unrealistic goals, and the result is predictable: disengagement, burnout,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

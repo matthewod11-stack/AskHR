@@ -1,3 +1,7 @@
-# Harvard Business Review:
-
-For customized and quantity orders of reprints and Review OnPoint products: Call Frank Tamoshunas at 617-783-7626, or e-mail him at ftamoshunas@hbsp.harvard.edu
+---
+source_path: R0311F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 842e8c51ebdf4c68ddcf03fe7c29cf6383b71321
+title: R0311F-PDF-ENG
+---
+# Harvard Business Review

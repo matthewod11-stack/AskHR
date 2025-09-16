@@ -1,13 +1,21 @@
-# 41 | P a g e
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: cdaaf05ed7c84517a3f6885f30afca10eb7e9213
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+## Fig. 24 Employee Engagement Index in the three different markets
 
-feel satisfied with the recognition or praise I receive for my work. The Qualtrics
+Q10: How happy are you working at your company?
 
-platform was used for the analysis. According to the study:
+Fig. 25 eSAT: Q10 How happy are you working at your company?
 
-Q11: I am proud to work for this company is strongly positively correlated with Q25:
+Using the same metrics as eNPS, eSAT indicates that 62% of employees are
 
-I feel satisfied with the recognition or praise I receive for my work.
+extremely satisfied, 27% are passive and 11% are negative employees or not satisfied
 
-Effect size indicates whether a relationship is meaningful in a practical sense,
+at all. A very similar statistic is shown in Q11: I am proud to work for this company
 
-regardless of the amount of data. In this case represent 0.512 which is large effect.
+where 91% of scores strongly agree or somewhat agree with this statement and the
+
+author of this document evaluated the relationship between this question and Q25: I

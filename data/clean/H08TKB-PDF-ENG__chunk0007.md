@@ -1,19 +1,27 @@
-# behaviors after the session.
+---
+source_path: H08TKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 49a88c0ef2094aa03a6b617d01e962c42e5fe9ba
+title: H08TKB-PDF-ENG
+---
+# which decisions.
 
-For example, an education non-proﬁt leadership team wanted to
+At the oﬀsite, speciﬁc decision-making tools to support decision-
 
-transform their meetings from passive status updates into dynamic
+making were discussed and speciﬁcally applied directly to three real-
 
-discussions that harnessed everyone’s best thinking. The team had
+time situations. By providing the right tool and using it directly on
 
-historically avoided conﬂict, resulting in surface-level conversations
+actual situations, the team immediately clariﬁed their decision-making
 
-and missed opportunities for robust problem-solving. At the oﬀsite,
+process going forward.
 
-they discussed the need for more productive debate and co-created
+- 3. What shift in behavior will set your team on a new trajectory?
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Consider in what ways you hope things will be diﬀerent when
 
-3
+examining the “before” and “after” of the oﬀsite. A great oﬀsite is a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+memorable milestone in the team’s story, after which, it is on a new
+
+trajectory. That diﬀerent trajectory can only be created with diﬀerent

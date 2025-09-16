@@ -1,9 +1,7 @@
-# Westend61/Getty Images
-
-We’ve all been there: We’re talking to someone and then realize they’re
-
-not actually listening to us. Sometimes it’s obvious, like when someone
-
-is scrolling through their phone while you’re speaking. Other times,
-
-it’s more subtle, such as a phone call where the only response is an
+---
+source_path: H08HRO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 332d58075f3bf9a805ea4712859111e338b8ba84
+title: H08HRO-PDF-ENG
+---
+## Published on HBR.org / March 13, 2025 / Reprint H08HRO

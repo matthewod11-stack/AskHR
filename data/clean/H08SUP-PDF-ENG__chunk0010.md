@@ -1,11 +1,13 @@
-# redundancy over discovery.
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6befbf507d7f113ca0a502dff765b2779bd1553
+title: H08SUP-PDF-ENG
+---
+## HBR / Digital Article / Set Your Committees Up for Success
 
-Psychological costs. Sharing private information introduces a form of
+result is that individuals in groups naturally gravitate toward shared
 
-psychological vulnerability that individuals prefer to avoid. Voicing a
+and common information as it is easier to retrieve, validate, and discuss.
 
-divergent viewpoint or raising a previously unmentioned concern risks
-
-being wrong—or worse, it may be perceived as out of sync with the
-
-group. This phenomenon, known as evaluation apprehension, can be
+This bias toward the “easily available” can lead teams to privilege

@@ -1,15 +1,13 @@
-## HBR / Digital Article / 5 Steps for Leading a Team You’ve Inherited
+---
+source_path: H08SGA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 120843a801d00d730993038f571242fbe1cbb972
+title: H08SGA-PDF-ENG
+---
+# strengths and untapped potential.
 
-- 2. Conduct an objective talent assessment.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-To combat bias and quick judgment, take time to conduct a fair talent
+2
 
-assessment. Rather than relying solely on your gut, approach this
-
-evaluation as a structured process. Build a full-picture understanding
-
-of your team by gathering data and conducting a listening tour:
-
-- Look at team members’ performance evaluations from the past 12 to 24
-
-months to understand how predecessors and stakeholders perceived
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

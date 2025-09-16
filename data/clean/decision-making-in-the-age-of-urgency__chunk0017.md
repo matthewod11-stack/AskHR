@@ -1,11 +1,15 @@
-# and for middle managers, n = 213.
+---
+source_path: decision-making-in-the-age-of-urgency.md
+pages: n/a-n/a
+chunk_id: 4ef71bc7dab6d110ce0f7e7ed2bb2043e1e32d89
+title: decision-making-in-the-age-of-urgency
+---
+# Middle managers
 
-Decision making in the age of urgency
+8
 
-5
+43
 
-Decision speed and quality Two other noteworthy opportunities for improve- ment are the quality and speed of decision making. Overall, 57 percent of respondents agree that their organizations consistently make high-quality decisions—just slightly likelier than a coin toss. With respect to speed, only 48 percent of respon-
+49
 
-dents agree that their organizations make decisions quickly. And just 37 percent of respondents say their organizations’ decisions are both high in quality and velocity.
-
-The data suggest that speed is a bigger challenge than quality when making all three types of
+1 Question was asked only of respondents who said they are familiar with more than 1 decision type. For C-level executives, n = 273; for senior managers, n = 323;

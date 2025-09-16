@@ -1,7 +1,13 @@
-## underrepresentation in senior positions, fewer opportunities
+---
+source_path: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf.md
+pages: n/a-n/a
+chunk_id: 941b3e377d983182aa159dc2b1975775f51f4e8f
+title: 19039_gender_equity_in_the_health_workforce_working_paper_for_web_pdf
+---
+## Geneva: International Labour Organization; 2018.
 
-for career advancement, and gender discrimination. Using
+Gender equity in the health workforce: analysis of 104 countries
 
-data from European countries, the analysis showed that male
+The remaining pay differential of 11.2% could be
 
-physicians are more than twice as likely as females to be in
+attributable to a wide array of factors, including women’s

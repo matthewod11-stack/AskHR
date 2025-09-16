@@ -1,13 +1,13 @@
-## HBR / Digital Article / 3 Ways to Make a Request That Doesn’t Feel Coercive
+---
+source_path: H0884B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f77140ab0041acf8e44615fa342e6f2e9077ab80
+title: H0884B-PDF-ENG
+---
+# response.
 
-Share an example of how to say “no.”
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-In our research, we have identiﬁed another way to formulate a request
+3
 
-so that it leads people to feel freer to say “no,” even when issued in
-
-person: Giving them the words to say “no” as part of your request.
-
-In two studies, we had trained research assistants ask participants a
-
-sensitive request that most people would prefer to refuse: to unlock
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

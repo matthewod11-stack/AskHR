@@ -1,11 +1,11 @@
-## Multi-Agent Design Patterns and Their Business Impact
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: d1f552b04c20993b7fba8eee00aa1dc363a89239
+title: agents_companion
+---
+# with objectives.
 
-To design effective multi-agent architectures, specific design patterns have emerged. These
+Through these components, multi-agent architectures extend beyond simple prompt-based
 
-patterns define interaction protocols, delegation mechanisms, and role distributions, allowing
-
-businesses to implement AI-driven automation in structured ways. Some common design
-
-patterns include:
-
-25
+interactions, enabling AI-driven workflows that are adaptive, explainable, and efficient.

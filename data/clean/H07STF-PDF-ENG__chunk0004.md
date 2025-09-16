@@ -1,7 +1,9 @@
-# and evolution
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c8d066e837d7e4ae600fca5ac8d1e60ea962370
+title: H07STF-PDF-ENG
+---
+# another
 
-- How to break out of insular networks to truly connect with those
-
-who can link you to new opportunities.
-
-Two of Ibarra’s books are coming out next month in updated editions:
+- Being authentic in the workplace without limiting your own growth

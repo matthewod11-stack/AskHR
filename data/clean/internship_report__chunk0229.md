@@ -1,1 +1,19 @@
-# Human Resources Department.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: ea7e4fa166138ddd4129b9a12664f67b0a1a1b5f
+title: internship_report
+---
+# XII. Maternity Leave
+
+Female employee with at least 03 (three) months service with the Company are eligible for
+
+maternity leave up to a maximum of 120 (one hundred and twenty) calendar days during their
+
+pregnancy. Employee may take this leave before or after the childbirth. Any leave of absence on
+
+account of maternity, which is greater than the maternity leave entitlements, can be adjusted
+
+from her Annual Leave entitlement. In exceptional circumstance if merited, Leave without Pay
+
+may be considered. If staffs require more information on Maternity Leave, advise to contact to

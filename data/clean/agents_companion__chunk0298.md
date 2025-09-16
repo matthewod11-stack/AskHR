@@ -1,15 +1,19 @@
-## convenient integrations into monitoring and experimentation offerings.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 42c5882f174d271071b25daee2e7247b1108d8a1
+title: agents_companion
+---
+# of agents.
 
-A large portfolio of agent tools, with more to watch out for:
+Vertex AI Agent Engine streamlines development, relying on Google engineering managed
 
-- Retrieval via Vertex AI Search26 or RAG Engine28.
+integrations with popular open source agent libraries. It provides a managed autoscaling
 
-- Non-search based retrieval from DBs via Gen AI Toolbox for Databases32
+runtime and many services agents will need (eg: session, examples, trace, evals). This is the
 
-69
+very low effort and high value way to safely deploy agents you have written in any framework.
 
-- Application integrations33 with hundreds of APIs supporting full ACLs
+Vertex AI Eval Service provides all of the evaluation tools discussed in this whitepaper, and
 
-- Turn any API into a managed, enterprise ready tool with Apigee Hub34
-
-And of course the best LLMs for agents, with access to Vertex AI Model Garden35 and also
+more. LLMs, RAG, and Agent evals are stable and scalable via the Vertex AI Eval Service, with

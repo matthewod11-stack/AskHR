@@ -1,15 +1,9 @@
-# to in-store displays.
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b2ec40e64b28d27667ebfb2595240c1188f39bca
+title: H082HH-PDF-ENG
+---
+## leverage this physical footprint — from mini fulﬁllment centers that
 
-Knowing your unique advantages is especially critical when an
-
-established business looks to innovate beyond its core. How did Alibaba,
-
-as an online retail business, decide to move into digital payments? As
-
-a senior executive at their ﬁnance division explained to me, it started
-
-with a customer problem to solve: Its own customers needed ways to pay
-
-each other on its marketplace. But Alibaba also had a unique ability to
-
-solve this problem thanks to its large existing customer base and its rich
+support its ecommerce division, to a digital advertising network linked

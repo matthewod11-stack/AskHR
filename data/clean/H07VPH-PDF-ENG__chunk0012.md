@@ -1,35 +1,31 @@
-# listener tendencies.
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 02848d008fe4f7801e768cf67d407264942a470c
+title: H07VPH-PDF-ENG
+---
+## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
 
-Thinking about situationality means looking at yourself as though you
+be very diﬃcult for a listener who values relationships and excels at
 
-are a character in a story. I’ve created a rubric with eight questions
+building them. I pointed out the apparent contradiction to Miriam, who
 
-to help you 1) frame the problematic work situation that requires a
+was as puzzled as I was.
 
-decision, 2) tease out some of the key situational factors that are
+She felt stuck. She knew she needed to sever this problematic
 
-inﬂuencing your decision-making, and 3) take a speciﬁc action to
+relationship, but she didn’t understand what had gone wrong. She
 
-improve your decision-making with others. Use these questions to
+had another employee, Andre, and she was concerned that history
 
-better understand how you may be making work-related decisions
+might repeat itself, without her understanding why. Would he ghost
 
-diﬀerently depending upon the situation you’re in.
+her too? She didn’t know him very well, but thought they had a good
 
-- 1. Define the problem.
+relationship. How could she move forward and “break-up” with her
 
-What negative experience are you having in the workplace that requires
+cofounder in a way that didn’t make Andre collateral damage?
 
-a decision? Often, we communicate and make decisions in a way that
+To help Miriam become unstuck, I asked her to think about how her
 
-feels comfortable to us but doesn’t get the result we expect.
-
-Miriam, in her early 30s, was in conﬂict with her cofounder. She
-
-couldn’t understand what went wrong but didn’t want his removal from
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+CEO situationality might be undercutting her dominant PSP, or her

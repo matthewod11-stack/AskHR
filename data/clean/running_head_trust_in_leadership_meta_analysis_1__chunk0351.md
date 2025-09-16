@@ -1,21 +1,27 @@
-# Authentic
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: a72be5208c64055dbf5314981965e038458d9aba
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Servant
 
-4
+5
 
-723
+923
 
-.57
+.58
 
-.45
+.47
+
+.70
 
 .69
 
-.62
+.12
 
-.15
+17.79
 
-11.74
+.53
 
-.43
-
-.81
+.84

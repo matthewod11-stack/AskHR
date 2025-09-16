@@ -1,37 +1,27 @@
-## free-ﬂowing, argumentative, autonomous, evidence-driven, and pretty
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ce0040cf58576d0370187ab36d2bed28bb5a137
+title: H07T7V-PDF-ENG
+---
+## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
 
-egalitarian. That’s the goal of the geek way.
+want to emulate. They’re often male-dominated bro-cultures. The boss
 
-Now you point out some of these companies that I do think follow the
+frequently is an overly demanding bully. How do you square all this?
 
-geek way that are still too pale, stale, and male. That’s absolutely true.
+ANDREW MCAFEE:
 
-The evidence is pretty clear on this. I hope that gets better over time.
+There clearly is some of that going on in the Valley. There are toxic
 
-But Adi, you said something that I disagree with, that a lot of these
+cultures. You mentioned the bro-culture. I would say that Theranos
 
-cultures that are not good places to work. That’s true in some cases.
+is one of the most toxic cultures I’ve ever heard about, and it was
 
-Remember when LinkedIn did its top attractors survey, I believe in
+headquartered in Silicon Valley.
 
-2016, they said, look, we’re just going to look at objective criteria.
+I don’t think those are geek companies at all. They might be in the
 
-We’re going to look at which company pages get viewed the most often
+right geographic location, but they’re not following the geek way, which
 
-by LinkedIn members. Which companies get the most interest from
-
-LinkedIn members, the most applications, and where do people stick
-
-around when they take their ﬁrst job?
-
-The top 11 attractors in the LinkedIn list were all companies
-
-headquartered on the West Coast in the industry that we loosely call
-
-tech. The geek culture is an extremely attractive culture to work in.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+is about these norms and about creating a culture that is fast-moving,

@@ -1,19 +1,29 @@
-# to 12% for those with gaps.
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d31cdcdc2c51b8b910dcc19468fcffcf308ed5c
+title: H08OET-PDF-ENG
+---
+## HBR / Digital Article / How Costly Is a Resume Gap for Executives?
 
-- In North America, pay raises for executives without career gaps
+understanding of circumstances, such as caregiving, that could lead to
 
-average 23%; this fell to 17% for those with gaps.
+resume gaps. They also argued employers were beginning to recognize
 
-- In Europe, pay raises for executives without career gaps average 19%;
+that positive growth and development could occur during these gaps.
 
-this fell to 12% for those with gaps.
+While it is encouraging to observe that taking control of your digital
 
-- In Australia and New Zealand, the raises for both those with and
+narrative seems to mitigate some of the negative eﬀects of resume gaps,
 
-without gaps remained about the same—20%.
+the numbers still show gaps have a negative impact. This suggested to
 
-Publicly traded companies are less forgiving of career gaps.
+us that there are still circumstances where gaps will matter more.
 
-Public companies are under more scrutiny compared to privately
+The effects of career gaps differ by region.
 
-held ones, as they must communicate and justify their approaches to
+We know that pay raises diﬀer by region—what about the impact of
+
+resume gaps? Our data showed regional diﬀerences here as well:
+
+- In Asia, pay raises for executives without career gaps was 27%; this fell

@@ -1,17 +1,13 @@
-# performance assessment tool, 123
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 0fb22923066f27b69eb6a05ebb21b06b25a70af8
+title: performance_management_3rd_edition_by_aguinis
+---
+# Index
 
-Praise, coaching, 243–244 Prerequisites, 38–45 Primacy error, 178, 180t Procedural knowledge, 89, 89t,
+Point method, pay structure,
 
-90, 91, 100
+277–278, 279
 
-Processes, strategic planning, 67 Process, PM, 39f Productivity, 23b Profit sharing, 271, 271t Project teams, 296 Prosocial behaviors, 91 Prussia, G. E., 261 Pulakos, E. D., 129, 194
-
-R Race, rater error, 179 Race Relations Act of 1976, 284 Rahman, S. A., 58 Ramsey, W., 166 Ranking method, pay structure, 277,
-
-279
-
-Rater errors, 180t Rater error training (RET), 153–154,
-
-177–180, 183, 191 content areas, 176t
-
-Rater motivation, 150–153, 150f Rating system clarity, 9, 9t Ravden, D., 167 Rayovac Corporation, 70 Real-world implementation, 28 Recency error, 178, 180t Recognition, 274 Recontracting, 52–53 teams, 307–308
+Political factors, strategic planning, 66 Poon, J. M. L., 129 Poor performance diagnosing, 101 Porras, J. I., 85 Practicality, 19, 29

@@ -1,11 +1,15 @@
-## Through years of my own behavioral science research and independent
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d59010dd82518d62cbab6f16ca3c53561e0a9d0
+title: H08SY7-PDF-ENG
+---
+## HBR / Digital Article / How CEOs Hone and Harness Their Intuition
 
-coaching of senior leaders, I’ve come to see that while most leadership
+That moment—that ﬂash of recognition—is what many people call gut
 
-advice centers on being data-driven, the world’s top-performing CEOs
+feel. In the world of executive decision-making, it’s often misunderstood
 
-often rely on something else entirely: intuition. And the most eﬀective
+as impulsive or emotional. But in reality, it’s something more nuanced
 
-ones treat it not as a superpower they’re born with, but a skill they’ve
-
-worked to sharpen.
+and more powerful: the output of a process called intuition.

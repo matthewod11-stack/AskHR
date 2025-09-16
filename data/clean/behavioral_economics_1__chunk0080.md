@@ -1,7 +1,13 @@
-## Vartiainen. Princeton, Princeton University Press.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: a21cf4a1acfefc433a232097737e0adaae848334
+title: behavioral_economics_1
+---
+# Princeton University Press.
 
-Campbell, J. Y. and T. Vuolteenaho (2004). "Inflation Illusion and Stock Prices." American Economic Review
+37
 
-94(2): 19-23.
+Camerer, C. F. and U. Malmendier (in press). Behavioral Organizational Economics. Yrjo Jahnsson Foundation
 
-Cardenas, J. C. and J. P. Carpenter (2005). Experiments and Economic Development: Lessons from field labs in
+50th Anniversary Conference on Economics Institutions and Behavioral Economics. P. Diamond and H.

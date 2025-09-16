@@ -1,17 +1,21 @@
-# equally to organizational performance.
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8fe241c57169a61ccb47024b0bd3b6f73135a756
+title: H08TM9-PDF-ENG
+---
+## style, particularly during unscripted moments.
 
-Targeting retention eﬀorts can ensure organizations don’t overspend to
+- Demonstrate empathy to executives who may have concerns and
 
-retain less essential executives. There is no single “right” criteria to use
+encourage them to raise them with the CEO.
 
-when deciding which executives to try and retain, rather the CHRO and
+- Empower the CEO with insights on the broader C-suite climate, being
 
-CEO should select what best ﬁts their organizational priorities, goals,
+careful to anonymize individual concerns to preserve conﬁdentiality.
 
-and strategy. Examples of potential criteria include:
+- 2. Develop retention criteria.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Executive retention eﬀorts can be costly, particularly if executives are
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+being courted by a competitor. Moreover, not all executives contribute

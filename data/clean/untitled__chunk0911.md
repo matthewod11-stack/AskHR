@@ -1,7 +1,9 @@
-# England: Oxford University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7843fcb8be20d8dd022b54f975273dbd97baefce
+title: untitled
+---
+# York: Basic Books.
 
-Mazzoni, G., & Nelson, T. O. (1998). Metacognition and cognitive neuropsychology: Monitoring and control processes. Mahwah, NJ: Erlbaum.
-
-McNemar, Q. (1951). The factors in factoring behavior. Psychome-
-
-trika, 16, 353–359.
+Mackintosh, N. J. (1998). IQ and human intelligence. Oxford,

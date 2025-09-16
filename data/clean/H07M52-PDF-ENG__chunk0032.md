@@ -1,9 +1,13 @@
-## HBR / Digital Article / Is Your Hybrid Team Losing Steam?
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d549b568a10305f532d702fc89b67ff243eaeddf
+title: H07M52-PDF-ENG
+---
+# members.
 
-Back when I was leading teams at McKinsey & Company, it became
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-clear that certain teams were fully tapping into each team member’s
+6
 
-professional, cultural, and educational diversity, while others seemed
-
-to coast on common experiences, leading to far less innovative or
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

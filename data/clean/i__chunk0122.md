@@ -1,21 +1,15 @@
-# Value
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 7f932149310080ed71f7bdad7b95a965c36b272e
+title: i
+---
+## generation of insights, and access to data.
 
-The core value of people analytics is to be delivered to the organization regarding business
+Data discusses data stewardship, data management, and strategies for extracting value from
 
-performance and organizational data analytics culture and to its employees regarding their
+data. This pillar includes a particular emphasis on leveraging various data sources, including
 
-working lives.
+emerging data, to enhance people analytics beyond the realm of human resources processes,
 
-Workforce Experience refers to employees as a pillar for a successful PA. The role of PA as
-
-a value-creator for workforce experience is as essential as it is to the organization.
-
-Business Outcome This typically refers to the organization’s financial performance and
-
-other tangible outcomes, which were realized as a result of PA implementation
-
-23
-
-Culture. This pillar focuses on fostering a culture within the HR function that encourages and
-
-empowers professionals to embrace analytics.
+addressing more multifaceted business challenges.

@@ -1,17 +1,17 @@
-## the bottom line, such as future sales ﬁgures or achievable growth. Here
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7aaafb0fbfd081937fd20113bb3bb386f96ba80
+title: H08DO8-PDF-ENG
+---
+## HBR / Digital Article / How CEOs Are Using Gen AI for Strategic Planning
 
-the experience of Keith’s team provides the best predictions, and this
+Keith’s second question, “Can AI forecast future demand for our
 
-requires each member of his team to have their antennae out.
+services?” proved more challenging for gen AI. While gen AI is a
 
-However, with clever prompting, gen AI tools can provide the team
+sophisticated technology, it cannot predict the future. This is because
 
-with food for thought. We framed the prompt as “What will impact the
+gen AI tools are loaded and trained on historical data. The question
 
-future demand for our services?” The tool highlighted seven factors,
-
-from “sustainability and climate change” to “changing consumer
-
-preferences” and “global population growth.” These drivers help Keith’s
-
-team think more broadly about demand.
+requires looking forward, not backward, for making projections about

@@ -1,9 +1,13 @@
-# For the Instructor
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2f5c0be7e54577746ff86407053120e5c8260e3d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Student Friendly!
 
-xvi
+To make your reading easier, humor, stories, and real-world examples are used. Th e text is written at a level designed to help you understand the material rather than show oﬀ the author’s vocabulary. Th e feedback I have received indicates that students actually enjoy reading this text!
 
-preface
+To help you learn, innovative charts such as those found in Chapters , , , , and  integrate the main points of the chapter. At the beginning of each
 
-chapter, a list of learning objectives helps organize your thinking for what you are about to read. At the end of each chapter, a chapter summary reminds you of the important points you learned, and questions for review test the depth of your new knowledge.
-
-To help you apply the material to whatever career you choose, each chapter contains an Employment Proﬁ le containing advice from a professional, a Career Workshop box that provides tips on how to use the chapter information to help your career, a Focus on Ethics box, and an On the Job case study of an actual situ- ation experienced by a real organization. Although additional material has been added to the case studies, they have intentionally been kept short so that the stu- dents can apply what they have learned from the chapter and then compare their solutions to those of actual organizations. For some chapters, longer case studies are included in the student workbook.
+xv

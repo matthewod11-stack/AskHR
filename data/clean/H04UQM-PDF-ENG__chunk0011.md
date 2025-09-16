@@ -1,11 +1,21 @@
-# leave policies.
+---
+source_path: H04UQM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af494808efd6a9799b3e3cd1783b1073fe6b77a4
+title: H04UQM-PDF-ENG
+---
+## Take, and share, the Paternity Leave Pledge
 
-It takes a village to make this happen. But when we do, we help ensure
+Recently, Dove Men+Care and I announced a new effort to make paternity
 
-that kids will grow up seeing mom and dad as equally capable at work and
+leave a national norm. The Pledge for Paternity Leave is an invitation to
 
-home. They see that their choices do not have to be limited by their
+everyone to take action. New and expecting dads can pledge to take their
 
-gender. That fuels how they see their futures. In the long run, that’s the
+full leave — to stand up against the stigmas, exert their rights, and demand
 
-shift we need.
+that their workplaces treat them fairly. Allies can pledge to spread the
+
+word about positive impacts of paternity leave and to call on officials to
+
+endorse parental leave. And business leaders can pledge to enact paternity

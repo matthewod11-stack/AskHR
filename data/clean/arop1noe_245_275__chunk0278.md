@@ -1,7 +1,9 @@
-## organizational learning. J. Manag. In press. doi: 10.1177/0149206312443558
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 79690855ded644dbf861195d976a7206c9a2b4b2
+title: arop1noe_245_275
+---
+# Press
 
-Choi W, Jacobs RL. 2011. Influences of formal learning, personal learning orientation, and supportive learn-
-
-ing environment on informal learning. Hum. Resour. Dev. Q. 22:239–57
-
-Collins CJ. 2007. The interactive effects of recruitment practices and product awareness on job seekers’
+Chadwick IC, Raver JL. 2013. Motivating organizational to learn: goal orientation and its influence on

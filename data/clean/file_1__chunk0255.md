@@ -1,9 +1,17 @@
-# Oxford University Press, 1991: 469-582.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 6845a38bc548f4d8d60214a5f4f48a815ecbb229
+title: file_1
+---
+## Journal of Marriage and the Family, 58, 417–432.
 
-Mill, T., 1851. The Enfranchisement for Feminist Research. In Bowles and Klein, eds, 1983,
+Melkas, T., 1999. The Gender Barometer 1998. Helsinki: Tilastokeskus.
 
-117-39.
+Melkas, T., 2002. The Gender Barometer 2001. Helsinki: Tilastokeskus.
 
-Miner-Rubino, K. and T. Jayaratne, 2007. Feminist Survey Research. In S. Hesse-Biber and
+Melkas, T., 2005. Gender Equality Barometer 2004. Helsinki: Tilastokeskus.
 
-P. Leavy, eds, Feminist Research Practice. Thousand Oaks, CA: Sage.
+Mikkelsen, E. and S. Einarsen, 2002. Relationships between exposure to bullying at work and psychological and psychosomatic health complaints: the role of state negative affectivity and generalized self-efficacy. Scandinavian Journal of Psychology, 43 (5), 397-405.
+
+Mill, J., 1869. The subject of women. In J. Gray, eds, On Liberty and Other Essays. Oxford:

@@ -1,7 +1,29 @@
-## skill development and career advancement.
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3fb20b6001e5544e1b852bbeeb11083bd414482
+title: H08IWB-PDF-ENG
+---
+# HBR / Digital Article / Why Mentoring Programs Fail — and How to Make Them Worthw…
 
-- Aligning with organizational values: For those who seek validation
+Employees today view themselves as consumers of workplace
 
-and alignment with company culture, emphasizing how mentoring ﬁts
+experiences, seeking empowerment to make their own choices. By
 
-into the organization’s values and long-term goals can be particularly
+referencing frameworks like Dr. Ellie Drago-Severson’s on diﬀerent ways
+
+of knowing, organizations can understand that employees have varied
+
+motivations and communication needs. Organizations should think
+
+about how they frame the availability of mentoring programs, giving
+
+employees more reasons to engage with them. Mentoring programs
+
+should be positioned to include:
+
+- Highlighting practical beneﬁts: Many employees are driven by what
+
+mentoring can do for their immediate career goals. Communication
+
+should focus on the speciﬁc, tangible beneﬁts of participation, such as

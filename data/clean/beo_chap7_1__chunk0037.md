@@ -1,25 +1,23 @@
-# CHAPTER SEVEN
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: c7e8c6602a253a25d32026d884ea8ea76e38a5af
+title: beo_chap7_1
+---
+# experiments or field analyses.
 
-having their wages depend on a variable out of their control if it benefits them
+One kind of sensitivity to organizational procedures involves control, In a standard
 
-by reducing undesirable variance in adjusted wages. This changes if workers have
+extension of the simple agency model above, firms observe a variable, 7;, which is
 
-preferences for fairness. Sometimes the value of y; will lead the firm to penalize a
+correlated with the unobserved luck component 6;. The usual presumption is that
 
-worker when true effort e; was high (e.g., firing a successful CEO who was much
+effort e; can be controlled by worker i but the error-correlate filtering variable y;
 
-less successful than industry peers). Workers may think this is unfair.
+cannot. Optimal contracting tells us that if workers dislike variance in wages more
 
-A common example is benchmarking performance to an outside standard, like
+than firms do, the firms should use what they observe (j;) to filter some of the
 
-industry profits. Risk-averse workers should like benchmarking because it buffers
+variance in 6; and reduce the risk imposed on the worker. Workers will not mind
 
-them against industry-wide shocks. But evidence for direct benchmarking in execu-
-
-tive compensation is surprisingly scarce, even though it is not hard to create simple
-
-benchmarks which would reduce compensation variance a lot. It does not appear
-
-that wages are even indirectly very sensitive to benchmarks (Antle and Smith 1996;
-
-Salanié 2003, p. 470).7
+241

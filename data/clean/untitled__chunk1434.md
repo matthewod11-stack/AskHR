@@ -1,7 +1,17 @@
-# McGraw-Hill.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b4a734ad9a771da5cffc53bd7b8e99790da5e2b1
+title: untitled
+---
+# Holt.
 
-Katz, D. (1988). The development of social psychology as a research science. In H. J. O’Gorman (Ed.), Surveying social life: Papers in honor of Herbert H. Hyman (pp. 217–235). Middletown, CT: Wesleyan University Press.
+Janis,I.,&Mann,L.(1977).Decisionmaking:Apsychologicalanaly- sis of conﬂict, choice, and commitment. NewYork: Free Press.
 
-Kelman, H. C. (1967). Human use of human subjects: The problem of deception in social psychological experiments. Psychological Bulletin, 67, 1–11.
+Jastrow, J. (1928). Lo, the psychologist! In M. L. Reymert (Ed.), Feelings and emotions: The Wittenburg symposium (pp. 434–438). Worcester, MA: Clark University Press.
 
-Klein, N. (2000). No logo: Taking aim at the brand bullies. Toronto,
+Jones, E. E. (1985). Major developments in social psychology during the past ﬁve decades. In G. Lindzey & E. Aronson (Eds.), Handbook of social psychology (3rd ed., Vol. 1, pp. 47–107). New York: Random House.
+
+Kaplan, S. (1956). Social engineers as saviors: Effects of World War I on some American liberals. Journal of the History of Ideas, 17, 347–369.
+
+Karpf, F. B. (1932). American social psychology. New York:

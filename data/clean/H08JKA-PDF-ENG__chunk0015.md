@@ -1,9 +1,17 @@
-# sales.
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf421c3f62a97c62283ce8414027f9da552c5424
+title: H08JKA-PDF-ENG
+---
+## sales, supply chain, ﬁnance, and legal come together for two days to
 
-Design learning experiences that encourage application.
+learn how to sell wine online. The game takes place on real platforms,
 
-However well their workplace learning programs are conceived or
+teaching leaders about digital ads, web analytics, customer experience,
 
-designed, CLOs will only be able to have a meaningful impact on
+and brand positioning. CLO Nicolas Pauthier credits this program with
 
-strategic priorities when participants actually apply new skills and
+playing a signiﬁcant role in achieving L’Oréal’s ambitious e-commerce
+
+goals. In 2023, L’Oréal’s revenue from e-commerce was 27% of total

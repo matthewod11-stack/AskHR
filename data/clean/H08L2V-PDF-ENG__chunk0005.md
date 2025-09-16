@@ -1,11 +1,35 @@
-# culprit for the damage.
+---
+source_path: H08L2V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6441b8760d0218d3d8fa559e06019bf0f95e643a
+title: H08L2V-PDF-ENG
+---
+# in the market.
 
-Third, the beneﬁts of growth are evident in the short-term whereas the
+Why it happens
 
-dilution — if it happens — becomes apparent in the long term. Not
+One might wonder why clever people undertake investments that dilute
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+their ﬁrm’s strategy or diﬀerentiation. As it happens, there are many
 
-2
+good reasons why. First, there is the issue that when an investment is
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+being evaluated, nobody knows for sure if it will lead to dilution and/or
+
+if it does, how much dilution there would be. It is only after the fact —
+
+and often, long time after the fact — that the dilution eﬀect becomes
+
+apparent and by that time, the damage has been done.
+
+Second, it is rarely one big decision that leads to dilution. More often
+
+than not, it is a series of many small decisions, taken over a long
+
+period, that cumulatively lead to dilution. Since ﬁrms evaluate each
+
+investment on its own merits at the time they are considering it,
+
+individual investments may not appear as too damaging to the ﬁrm’s
+
+diﬀerentiation; and since the investments are taken over a long period of time, it is diﬃcult to assess their cumulative eﬀect, which is the real

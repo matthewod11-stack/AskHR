@@ -1,5 +1,11 @@
-## The impact of work culture on employee engagement
+---
+source_path: international_journal_of_case_studies_in_business_it_and_education.md
+pages: n/a-n/a
+chunk_id: 7b87b7a43fb1b39a88f4e7b1b196a7fd56e1db87
+title: international_journal_of_case_studies_in_business_it_and_education
+---
+# International Journal of Case Studies in Business, IT, and Education (IJCSBE), ISSN: 2581-6942, Vol. 7, No. 2, June 2023
 
-The link between workplace culture and employee engagement and how engagement can affect corporate outcomes. Through enhancing employee wellbeing, job satisfaction, and motivation, a positive workplace culture can inspire engagement. Also, the study showed that leadership is critical in establishing workplace culture and encouraging employee engagement.
+culture that encourages experimentation, risk-taking, and new idea generation.
 
-Table2: Scholarly literature on Employee Mental Health Contribution by Researcher S. No. Focus Area The study revealed that there are many mental health problems in the workplace and suggested using mental health interventions to help workers. Workplace culture can significantly influence whether or not employee well-being is promoted or hampered. The prevalence of mental health difficulties the workplace is a serious concern. Workplace culture can significantly influence whether or not employee well-being is promoted or hampered. The prevalence of mental health difficulties in the workplace is a serious concern. To address this issue, organizations need to prioritize creating a positive and supportive workplace culture that prioritizes employee well-being. This can include initiatives such as flexible work employee assistance programs, arrangements, and promoting work-life balance. The working environment's culture significantly affects employees' well-being and state of mind. A positive workplace culture can lead to improved mental health outcomes, while a toxic culture can have negative consequences. Strategies to promote a positive workplace culture include providing social support, offering resources for stress management, and addressing systemic issues such as discrimination and inequality. According to the review, workplace bullying can have a range of detrimental mental health consequences for workers. Moreover, physical health issues including heart disease and gastrointestinal diseases can result from workplace bullying. The authors stressed the requirement for efficient bullying prevention and intervention measures that also support staff members' mental health. The study demonstrated a beneficial relationship between work-life balance and employee mental health and suggested that businesses offer work-life balance initiatives to assist staff members.
+15

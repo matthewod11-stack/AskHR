@@ -1,5 +1,7 @@
-# ist. Philadelphia: Lippincott.
-
-Watson, J. B., & Lashley, K. S. (1915). An experimental and histor- ical study of homing. Carnegie Institution Publication, 211, 7–60.
-
-Wilson, E. O. (1975). Sociobiology: The new synthesis. Cambridge,
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 47b24c809f8fa6d6ed5b6110f42d1927583d42e9
+title: untitled
+---
+## Watson, J. B. (1919). Psychology from the standpoint of a behavior-

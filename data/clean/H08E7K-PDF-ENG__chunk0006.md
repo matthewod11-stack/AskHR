@@ -1,15 +1,43 @@
-## HBR / Digital Article / How to Keep Learning at Work — Even When You Feel Fried
+---
+source_path: H08E7K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1966c74d7d6add62e4ddbabd0046f89698488a0
+title: H08E7K-PDF-ENG
+---
+## Challenge beliefs about your learning capacity.
 
-response and one from which you can creatively challenge unhelpful
+I once worked with a senior executive leading a new team spread out
 
-beliefs you’ve been holding onto while in that state.
+around the world. He was exhausted from all the travel required to
 
-When the senior executive I worked with challenged his assumptions,
+eﬀectively engage them. While he was excited about this prestigious
 
-he realized he could in fact, lead with conviction, while also learning
+leadership role, self-doubt creeped in, and a critical inner voice led
 
-how to keep improving. Soon his energy shifted and he was eager to
+him to question his leadership capabilities under these conditions. By
 
-make time for learning, reading articles on leading global teams and
+observing this inner critic from afar, he realized he was holding onto a
 
-watching videos on improving executive presence for his upcoming site
+ﬁxed belief that he couldn’t “learn to ﬂy the plane while it was already
+
+ﬂying.”
+
+When you’re feeling depleted, you may start to identify so much with
+
+the fatigue that you forget your agency over your thoughts and beliefs.
+
+In this condition, every exclamation of “I’m so tired,” teaches your mind
+
+to believe that it’s probably impossible to learn anything when you’re
+
+exhausted. Instead try observing your fatigue without judgment or a
+
+desire to get rid of it and get curious about what’s possible even with
+
+such constraints. Making space for the fatigue enables a more mindful
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

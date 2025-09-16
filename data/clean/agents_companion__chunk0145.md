@@ -1,7 +1,23 @@
-# interaction between agents.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 54cf0eb0773823210709c63c44858e122655c5e3
+title: agents_companion
+---
+# game like Overcooked-AI, where
 
-Businesses benefit from these patterns by reducing operational bottlenecks, improving
+they must coordinate their actions
 
-knowledge retrieval, and enhancing automation reliability. Multi-agent systems enable
+to achieve a shared goal while
 
-companies to scale AI deployments while ensuring agility in decision-making and
+competing for resources and
+
+optimizing individual performance.
+
+Table 2: A table comparing types of multi-agent systems.
+
+26
+
+Figure 7: An image depicting different multi-agent topologies, from LangGraph documentation.23
+
+The choice of design pattern depends on the specific application and the desired level of

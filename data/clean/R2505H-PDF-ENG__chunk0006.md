@@ -1,11 +1,11 @@
-## million businesses, 32.1 million employees, $1.3 trillion in payroll, and
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: abcd35219e5250b427853a75e08492df47366c78
+title: R2505H-PDF-ENG
+---
+## founder-led businesses—part of the “silver tsunami” of retirement.
 
-$6.5 trillion in revenue. These ﬁgures may be even higher outside
+More than half of all privately held businesses with employees in the
 
-the United States, where family-owned businesses make up a larger
-
-portion of the economy. This is not just an issue faced by mom-and-
-
-pop businesses. During the past two decades some of the world’s most
-
-high-proﬁle companies have been founder-led, including private ﬁrms
+United States have owners over age 55, representing an estimated 2.9

@@ -1,11 +1,17 @@
-# view of the situation.
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf844244c245083c4e3487c8eaaf358eb0cfe8c2
+title: H07P39-PDF-ENG
+---
+# Seek feedback.
 
-Be relentless about asking for feedback and suggestions to better
+Others often see us more objectively than we see ourselves. Research
 
-understand how your approach is being perceived and what you can do next time to become more eﬀective. This is a transformative (and
+has shown that people don’t realize how they behave in certain
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+situations, or they misremember their actions, leading to an inaccurate
 
-5
+perception of themselves. Crusaders, often consumed by their vision,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+may overlook crucial details or perspectives, leading to an incomplete

@@ -1,49 +1,29 @@
-# The empirically-driven approach to behavioral economics combines two practices: (i) Explicitly
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 748fc3703c49ea47b488507ed97ed0b27e7740ec
+title: behavioral_economics_1
+---
+## naturally-occurring data (as well as experimental data).
 
-modeling limits on rationality, willpower and self-interest; and (ii) using established facts to suggest
+1
 
-assumptions about those limits. A different, “mindless”, approach (Gul and Pesendorfer, 2005) follows
+The behavioral economics approach I describe in this essay is a clear departure from the “as if”
 
-elements of practice (i) but not (ii), modeling limits but enthusiastically ignoring empirical details of
+approach endorsed by Milton Friedman. His “F-twist” argument combines two criteria:
 
-psychology. The argument for the mindless approach is Friedmanesque: Since theories that infer utility from
+- 1. Theories should be judged by the accuracy of their predictions;
 
-observed choices were not originally intended to be tested by any data other than choices1, evidence about
+- 2. Theories should not be judged by the accuracy of their assumptions.
 
-assumptions does not count.
+The empirically-driven approach to behavioral economics agrees with criterion (1) and rejects criterion
 
-But theories are not copyrighted. So neuroscientists, for example, are free to assume that utilities
+(2). In fact, criterion 2 is rejected because of the primacy of criterion 1, based on the belief that replacing
 
-actually are numbers which correspond to the magnitude of some process in the brain (e.g., neural firing rates)
+unrealistic assumptions with more psychologically realistic ones should lead to better predictions. This
 
-and search for utilities using neuroscientific methods (knowing full well their results will be ignored by
+approach has already had some success: This paper reports many examples of how behavioral theories
 
-“mindless”-type economists). Such a search doesn’t ‘misunderstand economics’, it just takes the liberty of
+grounded in more reasonable assumptions can account for facts about market outcomes which are anomalies
 
-defining economic variables as neural constructs. The hope is also that new neural constructs will be discovered
-
-1 The doctrine that choices are the only possible data is a modern one, however (see footnote 3 below).
-
-2
-
-that are most gracefully accommodated only if the standard language of preference, belief and constraint is
-
-stretched by some new vocabulary.
-
-Before proceeding, let me clarify two points. First, the discussion above should make clear that
-
-behavioral economics is not a distinct subfield of economics. It is a style of modeling, or a school of thought,
-
-which is meant to apply to a wide range of economic questions in consumer theory, finance, labor economics
-
-and so on. Second, while the psychological data that fueled many developments in behavioral economics are
-
-largely experimental, behavioral economics is an approach and experimental economics is a method. It is true
-
-that early in modern behavioral economics, experiments proved to be useful as a way of establishing that
-
-anomalies were not produced by factors that are hard to rule out in field data-- transaction costs, risk-aversion,
-
-confusion, self-selection, etc.— but are easy to rule out with good experimental control. But the main point of
-
-these experiments was just to suggest regularities that could be included in models to make predictions about
+under rational theories. More empirical examples are emerging rapidly.

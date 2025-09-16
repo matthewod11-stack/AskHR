@@ -1,25 +1,19 @@
-# As a result, AI app development has accelerated dramatically, helping Mercado Libre employees do amazing things, including:
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: a03a147f38ddcda0b859eff64184faba3110dceb
+title: a_i_i_n_t_h_e
+---
+# Unblock your developers
 
-Improving inventory capacity
+Mercado Libre builds AI programs faster and more consistently
 
-GPT-4o mini Vision tags and completes product listings, allowing Mercado to catalog 100x more products.
+Developer resources are the main bottleneck and growth inhibitor in many organizations.c When engineering teams are overwhelmed, it slows innovation and creates an insurmountable backlog of apps and ideasC
 
-Detecting fraud
+Mercado Libre, Latin America’s largest ecommerce and :ntech company, partnered witha OpenAI to build a development platform layer to solve that. It’s called Verdi, and it’s powereda by GPT-4o and GPT-4o mini. Today, it helps their 17,000 developers unify and accelerate theira AI application buildsA
 
-Evaluating data on millions of product listings each day, improving fraud detection accuracy to nearly 99% for_ Tagged items.
+Verdi integrates language models, Python nodes, and APIs to create a scalable, consistent platform that uses natural language as a central interface. Developers now build consistentlyc high-quality apps, faster, without having to get into the source code. Security, guardrails, and routing logic are all built in.
 
-Customizing product descriptions
-
-Translating product titles and descriptions to adapt to nuanced Spanish and Portuguese dialects.
-
-Increasing orders
-
-Automating review summaries to help users quickly grasp product feedback.
-
-Personalizing notiºcations
-
-Tailoring push notiÂcations to drive higher engagement and improve product recommendations.
-
-19
+18
 
 AI in the Enterprise

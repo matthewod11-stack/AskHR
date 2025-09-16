@@ -1,9 +1,13 @@
-# Most distance
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e6967afd1623ae14d393a0de4f84122e8e82db95
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Providing Individual Training through Distance Learning
 
-Second, each trainee is actively involved in the learning. This contrasts sharply with the lecture method, where the employee might sit through two hours of lecture without being actively involved. Think of your favorite classes: The instructor prob- ably allowed you to become involved and actually do things. (That is why some of the chapters in the text are so detailed. By making the text inclusive and complete, your instructor can spend class time on projects instead of straight lecture.)
+One disadvantage of classroom instruction is that all employees must be taught at the same pace. This is unfortunate because some employees are brighter or more experienced than others and will be bored if a training seminar moves too slowly. Other employees, however, will become frustrated if the seminar goes too quickly. Thus, to allow employees to learn material at their own pace, at a time and place that is convenient to them, many organizations are using some form of distance learning.
 
-Finally, programmed instruction presents information in small units or chunks, because learning smaller amounts of material is easier than learning larger amounts. To demonstrate this point, think of the exam for this class. Would your score on the test be higher if you read and reviewed one chapter each week or if you waited until the night before the test to read five chapters? (The answer is obvious, and hope- fully you did not answer the question from experience!). A meta-analysis by Manson () concluded that programmed instruction can lead to improved performance at relatively low cost, and a meta-analysis by Allen, Mabry, Mattrey, Bourhis, Tits- worth, and Burrell () found that test scores for students in distance learning classes were no different than those earned by students in traditional courses.
+Though distance learning has many advantages, it may result in increased working hours for employees who are already overworked and have family demands. With traditional on-site training programs, employees must take time off from work to attend. With distance learning, however, employees may feel pres- sured to put in their regular working hours and then engage in self-paced distance learning on their own time. The Tourist Bureau of the Bahamas provides an inter- esting example of distance learning. The Bahamian government ran a series of short television commercials showing the Bahamian people how to engage in better cus- tomer service when dealing with tourists. The commercials first showed a tourist being mistreated and the negative consequences of this treatment and then showed the proper way to treat the tourist and the positive consequences that resulted.
 
-308
-
-chapter 
+learning training takes advantage of the concept of programmed instruction. Programmed instruction, whether offered through books or through e-learning, is effective because it takes advantage of several important learning principles (Goldstein & Ford, ). First, learning is self- paced—that is, each trainee proceeds at his own pace. You have probably been in classes in which the lecturer went too quickly and in others in which the lecturer went too slowly. When the presentation speed of the material does not parallel the comprehension speed of the learner, frustration occurs, and the material will not be learned as well as it might.

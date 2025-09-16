@@ -1,11 +1,21 @@
-# Culture Isn’t a Campaign
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a05efefdef0b8b842c6dbb5ed01db50d280ebf49
+title: H08VNO-PDF-ENG
+---
+# experience?
 
-In many organizations, work on culture begins with visible gestures.
+- What behaviors signal authenticity—and which quietly erode it?
 
-Leadership teams roll out refreshed values, commission posters, launch
+- And what does it actually take to build a culture that lasts?
 
-Slack emoji packs, or schedule empathy workshops. While the intent
+What we found was striking: culture doesn’t fail because it’s forgotten. It
 
-is often genuine, when these symbolic eﬀorts aren’t accompanied by
+fails because it’s misunderstood. It’s treated as branding, not behavior.
 
-a shift in leadership behavior, employees don’t feel inspiredt—they
+As output, not infrastructure. And when that happens—even the most
+
+well-meaning eﬀorts can erode the very trust they’re meant to build.
+
+Here’s what we learned.

@@ -1,31 +1,13 @@
-## HBR / Digital Article / Research: How “Leisure Crafting” Can Help You Recharge
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4e2543c21f5b72783e228e4bea96501c26bd0281
+title: H08OXV-PDF-ENG
+---
+## restorative beneﬁts that spillover into the workplace.
 
-Instead of focusing on how to set the “right” goals for the “right”
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-activities, focus on setting goals that you feel you can actually stick with
+4
 
-for activities you already enjoy and that energize you.
-
-If you really like watching TV, ask yourself: what do you like about it? Is
-
-it the social connection you feel with your peers talking about the latest
-
-episode? How can you create a goal to help strengthen what you already
-
-enjoy about this activity? Perhaps hosting a monthly watch night, where
-
-you and your friends watch something none of you have seen will help
-
-you to expand your horizons while deepening your friendships.
-
-- 2. Be Speciﬁc
-
-The size of the goals doesn’t matter. But it does matter that you stay
-
-committed to them. When goals are loose or unstructured (for example,
-
-“I want to be a more knowledgeable baker”), they can be hard to pursue.
-
-Make sure to set tangible, trackable goals (like, “I will bake one new loaf
-
-of bread from the Tartine cookbook each week until I’ve gone through
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,19 +1,23 @@
-# The Stigmatization of Rest
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b0d907b0bb28bb951b77e1c62097d41e7bd2dc8
+title: H08GC0-PDF-ENG
+---
+# antithetical to ambition.
 
-Unfortunately, “rest” is a bad four-letter word in most workplaces.
+“When I started to go through that process of adapting as a young
 
-“Hero culture” is when people who stay late, skip vacations, and work
+parent, I was like, there is something really broken here,” Dean told me.
 
-weekends are celebrated. This philosophy can create an environment
+She took on the role at Atlassian because she felt that they’re making a
 
-where rest is seen as a weakness or a lack of commitment.
+genuine eﬀort to ﬁx what’s broken at work. With more autonomy and
 
-Despite the well-known beneﬁts of taking time oﬀ — including
+work/life harmony, Dean felt the beneﬁts. She suggests that this current
 
-reduced stress, improved mental health, and increased productivity
+fracturing of work isn’t a bad thing. “The way we work needs to break
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+down completely, because that will create completely new and better
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ways of working.”

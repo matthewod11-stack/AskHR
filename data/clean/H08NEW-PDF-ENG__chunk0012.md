@@ -1,23 +1,13 @@
-## organization and your ﬁrm’s pay structure.
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09c7f590d8f8b178ee50b838a87bf77b526c57f5
+title: H08NEW-PDF-ENG
+---
+# eyes of the court.
 
-The more employees there are, the more conﬁdent you can be about
+If you conduct a pay equity analysis, one of the outputs—in addition
 
-whether a pay gap happened by chance. To see why, imagine ﬂipping
+to the size of the gaps—will be your gaps’ statistical signiﬁcance. This
 
-a coin. If it comes up heads 3 times out of 4, you might attribute that
-
-to chance. If it comes up heads 30 times out of 40, you would be more
-
-convinced the coin was weighted toward heads.
-
-For similar reasons, the more regimented a ﬁrm’s salary structure
-
-—that is, the more precisely an employee’s job and qualiﬁcations
-
-determine their pay—the more likely it is that a pay gap of a given
-
-size will be considered signiﬁcant to a court. In other words, if jobs
-
-and qualiﬁcations closely predict employees’ pay at a ﬁrm, it’s harder to
-
-attribute a pay gap within that organization to chance.
+ﬁgure is inﬂuenced by a number of factors, including the size of your

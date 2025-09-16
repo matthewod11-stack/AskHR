@@ -1,9 +1,13 @@
-# transformation.
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e32fd1f4aa5d440d8c6766a4bf0a9c3781c2cfce
+title: H085EX-PDF-ENG
+---
+## traditional top-down targets and bottom-up delivery model, leadership
 
-This article was originally published online on April 16, 2024.
+should adopt a middle-out approach. By harnessing the ingenuity and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+creativity of an organization’s middle management, companies can
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+develop the innovative solutions needed to unlock the full potential of

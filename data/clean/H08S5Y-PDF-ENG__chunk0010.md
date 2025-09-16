@@ -1,15 +1,33 @@
-# account three months from now.
+---
+source_path: H08S5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 21c337808ff0854f6cba951fd4153c9926ca83f7
+title: H08S5Y-PDF-ENG
+---
+## HBR / Digital Article / Navigating the Jump from Manager to Executive
 
-- 3. Evolving from oversight to scalable systems
+But now, you have to loosen that grip. When you’re driving multiple
 
-Since you’re overseeing more people and projects, the volume of
+teams’ performance, your role shifts to cultivating conditions where
 
-information coming at you may double or triple. Without proper
+good work can happen without your direct involvement.
 
-mechanisms in place, you may drown in details or miss critical issues
+This shift can be emotionally challenging. Your satisfaction once came from checking tasks oﬀ a list and ending each day with concrete
 
-entirely. So identify three to ﬁve priorities or risks you must stay closest
+proof of what you accomplished. At the senior level, your productivity
 
-to, such as revenue targets or client retention. Then establish clear
+becomes intangible—strategic conversations, coaching sessions, and
 
-guardrails for when your managers should escalate issues versus handle
+relationship-building that creates value you can’t easily measure.
+
+When you catch yourself thinking, “I talked all day and have nothing to show for it,” think beyond the ﬁrst-order eﬀects of your actions.
+
+Did you guide an important decision? Align priorities so work moves
+
+forward faster? These wins may not come with a dopamine hit in the moment, but the second- and third-order eﬀects compound over
+
+time. The feedback you gave a manager today might mean stronger
+
+performance next quarter. The way you challenge someone could give
+
+them the conﬁdence to take a bolder approach that secures a major

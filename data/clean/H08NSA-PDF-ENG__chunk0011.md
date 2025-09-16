@@ -1,9 +1,17 @@
-## The concept of the “circle of inﬂuence” vs. the “circle of concern,”
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d4350689aaf563cdc8bdcce75e9274fcda21219
+title: H08NSA-PDF-ENG
+---
+## students, as well as people at later stages of their careers.
 
-is a useful way to think about this. Popularized by professor and
+If this feeling resonates with you, try not to get discouraged. Remind
 
-author Steven Covey, it’s meant to help people focus their eﬀorts
+yourself that every meaningful change starts with individuals. A single
 
-where they have the most impact. The idea is that many of us may
+person may not have the power to solve every problem, champion every
 
-care deeply about large-scale issues—such as poverty, climate change,
+cause, or save every life. But when many people take action, they can
+
+quickly become a critical mass and achieve great things.

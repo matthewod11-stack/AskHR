@@ -1,11 +1,19 @@
-## taries. Psychological Inquiry, 11, 218–225.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: e4823cbe2cd12687b22310547974710e051ca2f4
+title: barrickryan_eds_personality_and_work
+---
+# 146 PERSONALITY AND WORK
 
-Larsen, R. J., & Diener, E. (1987). Affect intensity as an individual differ- ence characteristic: A review. Journal of Research in Personality, 21, 1–39. Larsen, R. J., Diener, E., & Emmons, R. A. (1986). Affect intensity and re- actions to daily life events. Journal of Personality and Social Psychology, 51, 803–814.
+Judge, T. A., & Hulin, C. L. (1993). Job satisfaction as a reﬂection of dis- position: A multiple source causal analysis. Organizational Behavior and Human Decision Processes, 56, 388–421.
 
-Larsen, R. J., Diener, E., & Lucas, R. E. (2002). Emotion: Models, mea- sures, and individual differences. In R. G. Lord, R. J. Klimoski, & R. Kanfer (Eds.), Emotions in the workplace: Understanding the structure and role of emotions in organizational behavior (pp. 64–106). San Fran- cisco: Jossey-Bass.
+Judge, T. A., Locke, E. A., & Durham, C. C. (1997). The dispositional causes of job satisfaction: A core evaluations approach. Research in Organizational Behavior, 19, 151–188.
 
-Larsen, R. J., & Ketelaar, T. (1989). Extraversion, neuroticism and sus- ceptibility to positive and negative mood induction procedures. Per- sonality and Individual Differences, 10, 1221–1228.
+Kurek, K. E., Le, B., & Weiss, H. M. (2001). Studying affective climates using Web-based experiential sampling methods. In H. Weiss (Chair), Ex- perience sampling methods (ESM) in organizational research. Symposium conducted at the Sixteenth Annual Conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
 
-Larsen, R. J., & Ketelaar, T. (1991). Personality and susceptibility to posi- tive and negative emotional states. Journal of Personality and Social Psychology, 61, 132–140.
+Larsen, R. J. (2000a). Emotion and personality: Introduction to the spe- cial symposium. Personality and Social Psychology Bulletin, 26, 651–654. Larsen, R. J. (2000b). Toward a science of mood regulation. Psychological
 
-Lazarus, R. S. (1991). Emotion and adaptation. New York: Oxford Univer-
+Inquiry, 11, 129–141.
+
+Larsen, R. J. (2000c). Maintaining hedonic balance: Reply to commen-

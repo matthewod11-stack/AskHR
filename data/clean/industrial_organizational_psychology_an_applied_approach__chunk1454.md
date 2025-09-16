@@ -1,19 +1,15 @@
-# 5 Test Score (x)
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c3bf6e0a038061117a782f4c86fd9b988976c977
+title: industrial_organizational_psychology_an_applied_approach
+---
+# X
 
-6
+1
 
-7
+2
 
-8
+3
 
-9
-
-10
-
-well on the job. Points located in quadrant II represent employees who scored well on the test and were successful on the job. Points in quadrant III repre- sent employees who scored high on the test, yet did poorly on the job, and points in quadrant IV represent employees who scored low on the test and did poorly on the job.
-
-If a test is a good predictor of performance, there should be more points in quadrants II and IV because the points in the other two quadrants represent “predictive failures.” That is, in quadrants I and III no correspondence is seen between test scores and criterion scores.
-
-To estimate the test’s effectiveness, the number of points in each quadrant is
-
-totaled, and the following formula is used:
+4

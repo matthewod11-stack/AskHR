@@ -1,5 +1,7 @@
-# (cid:2) Gather information about a performance problem and understand which of the
-
-three main determinants of performance need to be addressed to solve the problem.
-
-(cid:2) Design a performance management system that includes both task and contextual
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 11f35c5fc86c9248a5916cffb363b39b2cdd07fb
+title: performance_management_3rd_edition_by_aguinis
+---
+## knowledge, procedural knowledge, and motivation.

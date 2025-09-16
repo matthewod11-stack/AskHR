@@ -1,15 +1,17 @@
-## Procedural justice The perceived fairness of the
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7cc6563303c1d14187d29ac091fbd098824e275a
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Pregnancy Discrimination Act A 1978 federal law
 
-methods used by an organization to make decisions.
+protecting the rights of pregnant women. Premack Principle The idea that reinforcement is relative both within an individual and between individuals.
 
-Profit sharing A group incentive method in which
+Pretest A measure of job performance or knowledge taken before the implementation of a training program.
 
-employees get a percentage of the profits made by an organization.
+Primacy effect The fact that information presented early in an interview carries more weight than information presented later.
 
-Programmed instruction A training method in which employees learn information at their own pace. Progressive discipline Providing employees with
+Probability grapevine A pattern of grapevine
 
-punishments of increasing severity, as needed, in order to change behavior.
-
-Project teams Groups formed to produce one-time
-
-outputs such as creating a new product, installing a new software system, or hiring a new employee. Projective tests A subjective test in which a subject is asked to perform relatively unstructured tasks, such as drawing pictures, and in which a psychologist analyzes his or her responses.
+communication in which a message is passed randomly among all employees.

@@ -1,7 +1,9 @@
-# @LianeDavey
+---
+source_path: H07PSQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35f5120828646c1e9e07659d7d756362f51f8158
+title: H07PSQ-PDF-ENG
+---
+# LD
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Liane Davey is a team eﬀectiveness advisor and professional speaker. She is the author of The Good Fight and You First, and the coauthor of Leadership Solutions.

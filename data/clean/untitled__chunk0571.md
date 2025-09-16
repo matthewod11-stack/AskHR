@@ -1,5 +1,9 @@
-## mice? Psychological Bulletin, 7, 253–263.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5be8c4bf583da7e1a7074a44661ed279d3251144
+title: untitled
+---
+# Haven, CT: Yale University Press.
 
-Yerkes, R. M., & Huggins, G. E. (1903). Habit formation in the crawﬁsh Cambarus afﬁnis. Psychological Review Monograph Supplement, 17, 565–577.
-
-Yoakum, C. S. (1909). Some experiments upon the behavior of squirrels. Journal of Comparative Neurology and Psychology, 19, 565–568.
+Yerkes, R. M., & Bloomﬁeld, D. (1910). Do kittens instinctively kill

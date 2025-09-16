@@ -1,9 +1,11 @@
-# Systems Theory
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 1e3923cbd856cca71389ec02241fb690abee83e3
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# contribution
 
-The systems theory of industrial relations as propounded by Dunlop (1958), states that industrial relations can be regarded as a system or web of rules regulating employment and the ways in which people behave at work. According to this theory, the role of system is to produce the regulations and procedural rules that govern how much is distributed in bargaining process and how the parties involve or relate to one another. Dunlop explained that the output of the system takes the following forms; the system is expressed in many formal or informal guises that are in legislation and statutory orders, trade union regulations, in collective agreements and arbitration awards, in social conventions, in managerial decisions and in accepted custom and practice. The rules may be defined and coherent or ill-defined and incoherent. In a company the rules may be concerned with doing no more than defining status quo that both parties recognize as the norm from which deviations may be made only by agreement. In industrial relations this sense therefore an system is a normative system where a norm can be seen as a rule, a standard or a pattern for action that is generally accepted as the basis up on which the parties concerned should operate.
+is concerned with
 
-Dunlop (1958), asserts that job regulation aims to provide a framework of minimum rights and rules. These may provide for internal or external regulation, contain substantive or procedural rules or be expressed in the form of collective
-
-- 1558 -
-
-agreements or customs and practice. Internal is concerned with and external regulations procedure grievance, redundancies or disciplinary problems and rules concerning the operation of the employment relationship and the rights of stewards. External is carried out by means of regulation employment legislation, rules of trade unions
+are being operated. The above theory facilitated the understanding of the third study variable and objective that is to establish the effects of employee disciplinary procedures on employee performance in Kenya

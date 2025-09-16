@@ -1,13 +1,21 @@
-# culture?
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 936ced724b7c44abbf64f3b36fc948b64930f33b
+title: H06SBB-PDF-ENG
+---
+# means in this new environment.
 
-I think about some of the things that we’ve done to hold culture alive
+SANDY SPEICHER: Yeah. One thing that I don’t feel we’ve really come
 
-when in-person became immediately unavailable. One of the things we
+to yet is, what is culture in a virtual environment? We have a lot of
 
-did when we went into shelter-in-place across many of our IDEO offices
+tools that manage the way we interact with each other, but we don’t
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+necessarily design that as culture. So that feels like a great opportunity.
 
-11
+I think these questions about culture are really important for us to hold.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+And I think that both for leaders and for everyone at work, we should
+
+be asking the question about how am I contributing to creating this

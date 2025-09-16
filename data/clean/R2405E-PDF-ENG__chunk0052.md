@@ -1,39 +1,23 @@
-## the service business model for its mining equipment business in the
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1aeb04f9b6f5b843067a480b199da34c3a58aa1e
+title: R2405E-PDF-ENG
+---
+## and reliable growth scenario rather than a highly promising outlook
 
-mid-2010s. For instance, while some fully customized solutions may
+based on more-speculative evidence. Satisﬁed that their concerns had
 
-have been helpful during the earlier stages of development, once the
+been recognized, the directors green-lighted the acquisition, which the
 
-scaling phase commenced, Epiroc pivoted to oﬀering solutions that
+company then turned into an exponential growth opportunity.
 
-were replicable across a wide range of customers. Atlas Copco opted to
+Beware the differentiation and synergy traps. Incumbents and their
 
-rapidly grow its service business by giving it autonomy, which meant it
+start-up partners often struggle to let go of product or service features
 
-couldn’t share costs with the product side of the company. That decision
+that don’t scale up well and to prioritize speed over cost synergies.
 
-was consistent with the general approach the company has taken ever
+Once exponential growth starts, they need to avoid those traps. Epiroc
 
-since the 1980s, when it chose to be organized by product divisions.
-
-As a result, innovation projects, whether developed in-house or with
-
-entrepreneurial partners, either become separate divisions or business
-
-lines or are spun out.
-
-Put an entrepreneur in charge. An entrepreneurial mindset is critical
-
-for driving innovation and overcoming organizational inertia. If you
-
-have already partnered with a start-up, then its founder is the obvious
-
-candidate, especially if that person has a track record in getting
-
-new businesses oﬀ the ground. If the venture is homegrown, a likely
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+learned to prioritize scale over “nice to have” features when creating

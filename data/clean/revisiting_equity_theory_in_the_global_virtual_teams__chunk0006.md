@@ -1,13 +1,15 @@
-# nteraction of
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: f40f7d154b21de80e7c749781a2754b1075dae5f
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+# like. This
 
-the ability to collaborate across using virtual channels, away from the home office, with local and international colleagues;
+Under the circumstances, and considering that the concepts of equity and its foundations
 
-- overcoming barriers such as the COVID pandemic lockdown for the continuity of international business activities; leveraging the availability of skilled individuals, regardl ess of geographic boundaries; and
+have undoubtedly been transformed due to the rapid changes in the business environment, this knowledge gap justifies the investigation of ET in the current context. In addition, the research sheds light on the applicability of ET in global virtual teams (GVT). Therefore, t his manuscript offers an up-to-date discussion of the knowledge gap for the specific topics under study.
 
-- maximization of the quality of decision-making.
+The literature refers to the working context as GVTs, and we follow the definition of GVTs by Gilli et al. (2022): GVTs are distributed groups whose members are geographical ly dispersed ion and whose work is coordinated predominantly with electronic information and communicat
 
-Globalization and the development of communication technologies contributed to an incre asing reliance on virtual workgroups. A survey by Culture Wizard (2018) has shown that up to 87% of white-collar workers in OECD countries have completed projects by acting as members of virtual teams, at least partially. The COVID -19 pandemic further accelerated the reliance on virtual workgroups, as the pandemic necessitated the shift toward telework and the use of teleconferences in lieu of international travel for meetings.
-
-Unlike traditional workplace environments, where all employees work on the same factory be directly floor or in the same office, the effort and time dedicated to completing tasks cannot observed. As a result, monitoring the actions of a specific virtual te am member is harder – with the exception, of course, of the duration of online video calls. Therefore, given its subject ive nature, the new workplace environment makes assessing one’s input -reward ratio more difficult vis-à-vis those of other team members.
-
-Specifically, this study revisits the applicability of ET in the context of the mode
+technologies. These authors list the benefits of adopting such strategies for the i geographically dispersed teams, namely:

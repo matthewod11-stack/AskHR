@@ -1,33 +1,49 @@
-## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1f08c2af47b45f230299606bc31fc8e440b378b
+title: H07XDL-PDF-ENG
+---
+## your emotion and intuition an analytical partner.
 
-your purpose; in step 3 your life vision. Step 4 is a portfolio analysis of
+In surveying our workshop and coaching session participants, we found
 
-how you spend your 168-hour week, while step 5 involves setting life
+that, in the past, only 21% had outlined what a great life means to
 
-satisfaction benchmarks. In step 6 you incorporate the results of the
+them, 9% had identiﬁed their purpose, 12% had set a vision for their
 
-ﬁrst ﬁve steps and determine your choices and potential changes in
+life, 17% had created concrete goals and milestones, and a paltry 3%
 
-your life, and in step 7 you map out a plan for putting your choices into
+had developed what could be called a life strategy. These are critically
 
-action. We recommend that you take notes throughout so that, by the
+important issues that very few of us are spending enough time on.
 
-end, you can put an initial version of your life strategy on a single page.
+As Martha, a 26-year-old graduate student, explained, “Life keeps taking
 
-(To help, we created a life strategy worksheet, which should be ﬁlled out
+shape… When all the Christmas parties and weddings and trips are
 
-after you’ve gone through all the steps.)
+suddenly over, you ask yourself, ‘Have I really lived or has life just
 
-This work may seem daunting, but in practice it should take you only
+happened to me?’” She was eager to be more proactive. “What better
 
-a few hours. That said, it might not be easy. You will have to challenge
+help is there than a high-level plan for life?” she asked. “Not to strictly
 
-yourself and go beyond the obvious. But you shouldn’t give up, because
+follow it and forbid life to unfold, but to have a common thread. What
 
-the answers you’ll discover are so worthwhile. After all, what’s more
+should my story be? What should I have experienced so that in the end
 
-important than your life? Commit to thinking strategically about it, look
+I can say to myself, ‘I have lived’?”
 
-forward to the insights you will gain, and enjoy the journey.
+Unlike most self-help books, we don’t present one golden path to
 
-Watch Rainer Strack explain how to build a successful life portfolio.
+happiness or life satisfaction. Because everyone is unique, we give you
+
+the tools to ﬁnd your own path in a seven-step life strategy process. In
+
+step 1 you deﬁne what a great life means for you. In step 2 you outline
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

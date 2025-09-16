@@ -1,11 +1,11 @@
-## a shift from traditional industrial conglomerate to digital industrial
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 867363d7ef3792117c9e7d44e0ef3abbedbf0aa7
+title: H08R2D-PDF-ENG
+---
+## commoditization or pressure from competitors.
 
-innovation leader, embedding software and data-driven services into its
+A case in point is Siemens: In 2014, it announced an increased focus on
 
-core oﬀerings and creating more resilient revenue streams and deeper
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+software-as-a-service and digital twin technology. This move reﬂected

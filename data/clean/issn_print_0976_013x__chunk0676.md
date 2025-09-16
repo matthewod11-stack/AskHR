@@ -1,5 +1,9 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 2d10f7413676d189a4c5bee572aadd62ffab6cd3
+title: issn_print_0976_013x
+---
+## content/uploads/inclusive-enviroment-at-work.png)
 
-Furthermore, Society for HRM has prepared a comprehensive checklist for inclusivity that the
-
-organizations must heed to foster a robust D&I programme (https://www.shrm.org/hr-
+70

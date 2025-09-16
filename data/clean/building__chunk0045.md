@@ -1,3 +1,9 @@
-# operational data
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: f09925783a460bdb36b6dc9930161583993444e5
+title: building
+---
+# and use cases
 
-- Building internal capability through training and knowledge
+- Optimizing processes based on early learnings and

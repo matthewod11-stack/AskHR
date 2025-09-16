@@ -1,11 +1,9 @@
-## on-time arrivals. However, the relationship between index ranking and
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1c07aff2eb2319422c75dcd534476ff6490384b
+title: R2406G-PDF-ENG
+---
+## service and value don’t rely on personalization—think of a low-cost
 
-customer satisfaction is clearest among personalization leaders. All top-
-
-scoring companies in the Personalization Index had NPS scores above
-
-30, and only companies with high index scores had NPS scores above
-
-- 40. By building personalization programs that scale up, companies can
-
-truly stand out among the world’s best and achieve the highest levels of
+retailer known for its private-label quality or a no-frills airline known for

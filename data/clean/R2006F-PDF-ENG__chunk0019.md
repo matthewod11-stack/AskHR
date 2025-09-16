@@ -1,11 +1,25 @@
-## HBR / Magazine Article / How Apple Is Organized for Innovation
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0107028888aa332acccb1044586ac4fcfac119d2
+title: R2006F-PDF-ENG
+---
+## users of those choices against cost considerations.
 
-that he and his team were taking a big risk: If users were unwilling to
+In a functional organization, individual and team reputations act as a
 
-pay a premium for a phone with a more costly and better camera, the
+control mechanism in placing bets. A case in point is the decision to
 
-team would most likely have less credibility the next time it proposed an
+introduce the dual-lens camera with portrait mode in the iPhone 7 Plus
 
-expensive upgrade or feature. The camera turned out to be a deﬁning
+in 2016. It was a big wager that the camera’s impact on users would be suﬃciently great to justify its signiﬁcant cost.
 
-feature for the iPhone 7 Plus, and its success further enhanced the
+One executive told us that Paul Hubel, a senior leader who played a
+
+central role in the portrait mode eﬀort, was “out over his skis,” meaning
+
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

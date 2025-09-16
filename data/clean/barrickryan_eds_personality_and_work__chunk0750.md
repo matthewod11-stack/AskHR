@@ -1,5 +1,9 @@
-# Conclusion
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 1da9a1e748e5f2471ea9eae1c63952f3aad27c88
+title: barrickryan_eds_personality_and_work
+---
+# 254 PERSONALITY AND WORK
 
-Most of the research on traits, situations, and aptitude treatment interactions has been conducted in traditional classroom settings. We have highlighted key advances that need to be made in train- ing research. In meeting this research agenda, it should be noted that there is a trend toward a decrease in instructor-led classroom instruction and an increase in the use of emerging learning tech- nologies such as distance learning, CD-ROM and multimedia in- struction, Web-based training, intelligent tutoring systems, and virtual reality training (Goldstein & Ford, 2002). For example, a survey from the American Society of Training and Development suggests that classroom instruction will decline from over 80 per- cent of all instruction in 1996 to less than 60 percent by 2002 (Bassi & Van Buren, 1998).
-
-The changes in learning technologies also have clear implica- tions for training research. First, the emerging learning technolo- gies allow for a more individualized approach to instruction. For example, Web-based and CD-ROM courses provide a number of hyperlinks that allow individuals to choose how much breadth and depth to go into in the topics in the course. Thus, the learning is more in control of the student’s own learning pace, as well as the content to attend to. Second, techniques such as intelligent tutor- ing systems hold the promise of a learning process that can be in- dividualized or customized to meet the training needs of each learner better. Third, individuals have more choice over when to engage in a learning activity. For example, they may choose when to attend a distance-learning program. Perhaps more important, with courses on CD-ROM or the Web, they can choose to work on
+learners use particular study strategies or be devoted to develop- ing skills in planning, monitoring, and evaluating their own learn- ing. Trainees could be asked to set challenging learning goals, visualize possible courses of action, reﬂect on how much they have learned, and consider whether alternative learning strategies might be more effective. These efforts are more proximal to the desired learning outcomes. What is interesting is the extent to which dif- ferent personality characteristics affect and are affected by inter- ventions to improve the learning processes of the learner.

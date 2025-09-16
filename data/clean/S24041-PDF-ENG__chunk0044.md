@@ -1,15 +1,13 @@
-## HBR / Spotlight Article / Power, Influence, and CEO Succession
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57f198295ced108f894dcde3c10fd65b79268ded
+title: S24041-PDF-ENG
+---
+# anniversary as CEO.
 
-These two situations were quite diﬀerent, but the same set of
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-factors enabled Beth to succeed and led to Jeﬀ’s failure: the relative
+13
 
-sophistication and skill with which each handled the pressure of
-
-assuming the top spot and, in particular, winning over key decision-
-
-makers and securing loyal followers. Jeﬀ needlessly created a conﬂict
-
-with his predecessor that forced senior managers and the board to
-
-choose sides. Beth was patient and focused on moving into the CEO
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

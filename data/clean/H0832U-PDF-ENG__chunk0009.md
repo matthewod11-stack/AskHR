@@ -1,11 +1,33 @@
-## two related but distinct dimensions of human diﬀerence: age-based and
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df74b7d390a01eef800b3296bbf028c4588905ca
+title: H0832U-PDF-ENG
+---
+## However, beyond the traditional internal people-and-culture types
 
-generational diversity. Age eﬀects give us a snapshot of how individuals
+of issues, there are critical market-facing dimensions for which 6G
 
-diﬀer based on where they are in the life cycle (e.g., toddler, emerging
+strategy is necessary. 6G strategy ensures the evolving needs, tastes, and
 
-adult, or in the ﬁnal third of their lives). Generations, on the other hand,
+preferences of a 6G consumer and/or customer base are understood,
 
-are cohorts of individuals who were born at a similar time (often over
+prioritized, and addressed through the organization’s products or
 
-a 15- to 20-year span) and had their worldviews shaped by the same
+services. For example, the thought process that led Chevrolet to refresh
+
+its iconic Corvette embodies the heart of this thinking. To broaden its
+
+customer base beyond its average consumer, pegged at age 61 (and
+
+rising), Chevrolet’s strategic redesign and brand repositioning eﬀort
+
+doubled sales to Gen Xers. In short, strategizing with a 6G mindset —
+
+and involving voices from all six generations — is just as important for
+
+marketplace impact as it is for workplace impact.
+
+- 2. Manage both age-based differences and generational differences.
+
+Building healthy 6G organizations involves a nuanced understanding of

@@ -1,23 +1,11 @@
-## Chapter 6 • Gathering Performance Information
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 8a79ff61e8ac2d658ab1d194ddd862ea38c76591
+title: performance_management_3rd_edition_by_aguinis
+---
+# 6.6 A MODEL OF RATER MOTIVATION
 
-information about whether this supervisor is likely to be motivated to provide accurate ratings. Similarly, are there any positive and negative consequences associated with rating distortion? What is the probability that this will indeed happen? The answers to these questions will determine the supervisor’s motivation to distort ratings.
+Regardless of who rates performance, the rater is likely to be affected by biases that distort the resulting ratings. Performance ratings may be intentionally or unintentionally distorted or inaccurate. When this happens, incorrect decisions may be made, employees are likely to feel they are treated unfairly, and the organization is more prone to litigation. In other words, when performance ratings are distorted, the performance management system not only fails to result in desired outcomes but also may lead to very negative consequences for the organization. To prevent these negative outcomes, we need to understand why raters are likely to provide distorted ratings.
 
-There are motivational barriers that prevent raters from providing accurate performance information. Raters may be motivated to distort performance information and provide inflated or deflated ratings.37 In fact, supervisors may not even be trying to measure performance accurately and may attempt to use performance ratings for other goals.38 For example, a supervisor may be motivated to provide inflated ratings to
-
-- Maximize the merit raise/rewards. A supervisor may want to produce the highest possible reward for his employees, and he knows this will happen if he provides the highest possible performance ratings.
-
-- Encourage employees. A supervisor may believe that employees’ motivation will be increased if they receive high performance ratings.
-
-- Avoid creating a written record. Asupervisor may not want to leave a “paper trail” regarding an employee’s poor performance because such documentation may eventually lead to negative consequences for the employee in question. This situation is possible if the supervisor and employee have developed a friendship. • Avoid confrontation with employees. A supervisor may feel uncomfortable provid- ing negative feedback and, in order to avoid a possible confrontation with the employee, may decide to take the path of least resistance and give inflated performance ratings.
-
-- Promote undesired employees out of unit. A supervisor may believe that if an employee receives very high ratings she may be promoted out of the unit. The supervisor may regard this as an effective way to get rid of undesirable employees. • Make the manager look good to his/her supervisor. A supervisor may believe that if everyone receives very high performance ratings, the supervisor will be consid- ered an effective unit leader. Moreover, when the performance ratings for the manager himself depend on the performance of his subordinates, managers are likely to inflate their subordinates’ ratings.39
-
-We can understand each of the reasons for a supervisor’s choosing to inflate ratings using a model or rater motivation. For example, looking good in the eyes of one’s own supervisor can be regarded as a positive consequence of providing inflated ratings. Avoiding a possible confrontation with an employee can also be regarded as a positive consequence of providing inflated ratings. Thus, given these anticipated posi- tive consequences of rating inflation, the supervisor may choose to provide distorted ratings.
-
-Supervisors may also be motivated to provide ratings that are artificially deflated.
-
-Some reasons for this are to
-
-- Shock an employee. A supervisor may believe that giving an employee a “shock treatment” and providing deflated performance ratings will jolt the employee, demonstrating that there is a problem.
-
-- Teach a rebellious employee a lesson. Asupervisor may wish to punish an employee or force an employee to cooperate with the supervisor and believes that the best way to do this is to give deflated performance ratings.
+Rating behaviors are influenced by (1) the motivation to provide accurate ratings and (2) the motivation to distort ratings.36 The motivation to provide accurate ratings is determined by whether the rater expects positive and negative consequences of accurate ratings and by whether the probability of receiving these rewards and punishments will be high if accurate ratings are provided. Similarly, the motivation to distort ratings is determined by whether the rater expects any positive and negative consequences of rating distortion and by the probability of experiencing such consequences if ratings are indeed distorted. Consider a supervisor and his motivation to provide accurate ratings. What will the supervisor gain if ratings are accurate? What will he lose? Will his own performance be rated higher and will he receive any rewards if this happens? Or will the relationship with his or her subordinates suffer? The answers to these questions provide

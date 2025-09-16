@@ -1,9 +1,11 @@
-## unrelated to the quality of work, like the demographic identity of the
+---
+source_path: H08NYS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4a99670fef65aff33edb546ada57e75abeb5b02
+title: H08NYS-PDF-ENG
+---
+# Check for gaps.
 
-worker. Recall that we found that white workers received an average
+Platforms should regularly audit their rating systems to see if
 
-rating of 4.79 stars, whereas workers of color received 4.72 stars on
-
-a ﬁve-star scale. Though this 0.07-star diﬀerence may appear small,
-
-our ﬁndings indicate that it translates into meaningful disparities in
+evaluations vary systematically based on characteristics commonly

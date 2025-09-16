@@ -1,13 +1,7 @@
-# Expectancy Theory
-
-An influential theory of worker motivation that integrates many of the fac- tors discussed previously in this chapter is expectancy theory, which was first proposed by Vroom () and then modified by others, including Porter and Lawler (). This theory has three components, the definitions of which vary with each modification of the theory. The following definitions are combinations of those suggested by others and make the theory easier to understand:
-
-7
-
-7
-
-7
-
-Expectancy (E): effort an employee puts in and the resulting outcome. Instrumentality (I): performance, if noticed, results in a particular consequence. Valence (V): consequence.
-
-The perceived relationship between the amount of
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b65ecce202b2e0ee60a19b57eacbd2dfcb9f8f7c
+title: industrial_organizational_psychology_an_applied_approach
+---
+satisfaction, and declines in absenteeism (Gowen, ). As with any incentive plan, gainsharing is most effective when employees are formally involved in the design and operation (Bullock & Tubbs, ) and when there is not a long delay between performance and the financial payoff (Mawhinney & Gowen, ). Stock Options. Although stock options represent the most complicated organiza- tional incentive plan, they are offered to all employees by more than % of com- panies (Mercer Consulting, ). With stock options, employees are given the opportunity to purchase stock in the future, typically at the market price on the day the options were granted. Usually stock options vest over a certain period of time and must be exercised within a maximum time frame. The idea is that as a company does well, the value of its stock increases, as does the employee’s profit. For example, suppose AT&T stock is selling for $ per share on June , and the company gives employees the option of purchasing the stock for $ per share anytime in the next ten years. Ten years later, the stock is worth $ per share and the employee can purchase the stock for the $ per share option price—a $ per share profit. However, if the stock had fallen from $ to $, the employee would not exercise his option to purchase the stock at $ per share. Stock options allow employees to share in the long-term success of an organiza- tion. In fact, such organizations as GTE, United Airlines, Home Depot, and Foldcraft Company report not only that their employees are making good money through their stock ownership but that organizational productivity has improved as well. At times, stock options may not be good motivators because employees have trou- ble understanding the concept of stock and because the incentive (profit made on the selling of stock) is psychologically well removed from day- to-day performance. However, having partial ownership in a company can increase performance. For example, in a study of hotel managers, Qian () found a significant correlation between the amount of manager ownership and the hotel’s profit margin.

@@ -1,7 +1,7 @@
-# 398
-
-Hollingshead, & Botero, 2004). Thus, researchers have called for future work to expand to other kinds of tasks and ﬁeld studies to examine the ‘‘potentially powerful effects that the embedding con- text and external environment have on information-sharing processes in groups’’ (Wittenbaum et al., 2004, p. 305). Through JDM cross-fertilization, information-sharing research by incorpo- rating motivational inﬂuences and con- text, whereas JDM can assist IOOB team research with a greater emphasis on group discussion and the dynamics of infor- mation exchange. The meta-analysis of information sharing and team performance that recently appeared in JAP (Mesmer- Magnus & DeChurch, 2009) is a step in the right direction towards greater integration between areas.
-
-IOOB can assist
-
-Jerel Slaughter: One applied IOOB ‘‘problem’’ where I think cross-fertilization might be beneﬁcial and probably does not occur very often is implementing decision- making training programs for managers that include things like multi-attribute utility analysis, heuristics and biases, and deci- sion trees. I admit to having relatively little experience in the applied world, so I can not say for certain this is not already hap- pening. But what I have gathered from my experiences teaching decision-making topics to working managers is that apply- ing JDM ﬁndings and strategies is com- pletely foreign to almost all of them. This is actually a little scary to me, given that some of them have been managers for 10 or 15 years, because they are able to recognize the biases in their previ- ous decisions and judgments once they learn about them formally. Assuming that the training is done well, is clear—employees will be making fewer biased decisions. The costly effects of over- conﬁdence (Hayward & Hambrick, 1997) and escalation of commitment (Ross & Staw, 1993) are pretty well documented, and perhaps more training can reduce these tendencies.
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 7bffe87d0b9aca56c6f6d30a57ff1bcdd1e26a13
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# 397

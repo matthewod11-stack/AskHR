@@ -1,15 +1,21 @@
-# of discrimination or harassment.
+---
+source_path: H04HPZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52b4cebe0ab8ad20f6f0d85da8b30d39049a06c1
+title: H04HPZ-PDF-ENG
+---
+## general governance structures, such as formal evaluation procedures
 
-As shown below, judicial deference to symbolic structures increased
+or progressive discipline policies. Courts frequently view the latter policies as evidence of rational governance and hence an eﬀort to avoid
 
-steadily over time, beginning in the lower courts and traveling up the
+discrimination. This allowed us to examine the conditions under which
 
-judicial hierarchy. It originated in federal district court but increased
+judges deferred to the various symbolic structures that organizations
 
-dramatically in the circuit courts of appeals beginning in 1980.
+created.
 
-Deference increased substantially again after 2000 in both the district
+We coded a judge as having deferred to the presence of symbolic
 
-and circuit courts. By 2014, judges were deferring to symbolic structures
+structures when the judge found the structures to be legally sound yet failed to consider the eﬀectiveness of the structures at all; declared that
 
-in about 70% of district court cases and nearly 50% of circuit court
+an inadequate procedure was suﬃcient; or ignored substantial evidence

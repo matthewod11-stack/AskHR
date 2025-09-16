@@ -1,5 +1,9 @@
-# Methodological traditions
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 40114b3201fef20e854e4431cf9259797d901008
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# Philosophical traditions
 
-JDM primarily uses well-crafted lab experiments or ‘‘paper’’
-
-simulations involving undergraduate students as subjects. These designs are internally valid and allow for better comparison of ﬁndings across studies. IOOB places greater emphasis on context and external validity and tends to use ﬁeld studies involving employees as subjects. The two methodological approaches should be viewed as complementary. It is often difﬁcult to get lab research or simulations using undergraduate students published in IOOB journals, which is unfortunate. IOOB should be much more open to lab research because such research allows for stronger causal conclusions than correlational ﬁeld studies and because the theoriesoften generalize to applied issues.
+JDM typically follows a normative, paradigmatic approach involving formal models, such an approach facilitates the cumulation of knowledge (e.g., Pfeffer, 1993). IOOB typically focuses on outcomes, and the selection of models is based on what appears most useful in each case. Such an approach facilitates the examination of a broader set of problems. The two philosophical approaches should be viewed as complementary.

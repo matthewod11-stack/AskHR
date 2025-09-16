@@ -1,19 +1,31 @@
-## HBR / Magazine Article / How AI Is Redefining Managerial Roles
+---
+source_path: F2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e26999879449004950ef7b71966c3ec6e2afc64b
+title: F2504A-PDF-ENG
+---
+## by 10%. Hoﬀmann’s team identiﬁed two underlying mechanisms
 
-believe AI will allow ﬁrms to reduce the number of people in these roles.
+driving this shift. First, using gen AI allowed coders to work more
 
-For the middle managers who remain, the technology will reduce the
+autonomously, and because they were collaborating less, it reduced the
 
-time they spend coordinating and supervising workers or serving as a
+need for them or their managers to coordinate tasks or projects with
 
-liaison between lower and upper management—that is, typical middle
+others. Second, because the new tool let them write code more quickly,
 
-manager work. As gen AI becomes better at scheduling, coordinating,
+developers could increase the time they spent on exploration activities,
 
-and checking quality, the remaining managers should be free to do more
+such as learning or trying something new.
 
-valuable work, including pitching in on the hands-on tasks typically
+The authors believe these ﬁndings can help companies ﬂatten their
 
-done by individual contributors (in a software environment, this might
+reporting structure. What do they mean by that? They don’t suggest
 
-be coding). They should also have more time to investigate process
+companies will eliminate middle managers altogether, but they do
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,11 @@
-# References
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: 7ad04fa200c6bef8ff31c93bda97b16606ea0be4
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Design Thinking and Its Importance
 
-Ahmed, S., Wallace, K. M., & Blessing, L. T. M. (2003). Understanding the differences between how novice and experienced designers approach design tasks. Research in Engineering Design, 14, 1–11.
+(ECD) framework (Mislevy, Steinberg, & Almond, 2003) for designing valid per- formance-based assessments for 21st-century skills. ECD is a systematic approach to the design of assessments that focuses on the evidence (i.e., student performance and products) of proficiencies as the basis for constructing assessment tasks and making inferences about competency levels (for more, see Mislevy et al., 2003). ECD is especially suited for assessments that involve complex problems and dynamic, interactive environments—which are exactly the kinds of contexts required for design problems.
 
-Akin, Ö., & Akin, C. (1996). Frames of reference in architectural design: Analyzing the hyper-acclamation (aha!). Design Studies, 17, 341–361. doi:10.1016/S0142- 694X(96)00024-5
-
-Atman, C. J., Chimka, J. R., Bursic, K. M., & Nachtmann, H. L. (1999). A comparison of freshman and senior engineering design processes. Design Studies, 20, 131–152. doi:10.1016/S0142-694X(98)00031-3
-
-Badke-Schaub, P. (1999). Analysis of design projects. Design Studies, 20, 465–480.
-
-doi:10.1016/S0142-694X(99)00017-4
-
-Ball, L. J., Evans, J., & Dennis, I. (1994). Cognitive processes in engineering design: A longitudinal study. Ergonomics, 37, 1753–1786. doi:10.1080/00140139408964950 Braha, D., & Maimon, O. (1997). The design process: Properties, paradigms, and struc- ture. IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans, 27, 146–166. doi:10.1109/3468.554679
-
-Braha, D., & Reich, Y. (2003). Topological structures for modeling engineering design processes. Research in Engineering Design, 14, 185–199. doi:10.1007/s00163-003- 0035-3
-
-Bright, A. (1994). Teaching and learning in the engineering clinic program at Harvey
+There is considerable empirical work to be done to establish a full understand- ing of design thinking. The studies surveyed in this article show the characteristics of novice and expert designers. Having good design thinking skills can assist in solving really complex problems as well as adjusting to unexpected changes. Although the design process involves in-depth cognitive processes—which may help our students build their critical thinking skills (e.g., reasoning and analysis)— it also involves personality and dispositional traits such as persistence and creativ- ity. If we are serious about preparing students to succeed in the world, we should not require that they memorize facts and repeat them on demand; rather, we should provide them with opportunities to interact with content, think critically about it, and use it to create new information. Preparation for future work situations requires teaching learners to use their minds well. To turn the tide in education that is leav- ing students “ill-prepared to tackle real-world, complex problems [we must change our course] . . . we cannot directly adjust the wind (the future), but we can adjust

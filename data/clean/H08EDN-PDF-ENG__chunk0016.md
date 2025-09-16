@@ -1,17 +1,33 @@
-## thoroughly check references for candidates’ strengths, limitations, and
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d474d023cf8e50b920e716da629c9dd72293949
+title: H08EDN-PDF-ENG
+---
+# reference checks.”
 
-ﬁt for our organization.”
+- 6. What is your solution now?
 
-. . .
+As you answer this question, you should see your growth in decision-
 
-I’ve written extensively about how strategic stops can enable us to
+making. You’ve inspected and evaluated your thoughts, feelings, and
 
-mine the data of our past to help us to move forward with decisions more mindfully and eﬀectively. This set of questions can give you an
+behavior, enabling you to make observations about your past that
 
-actionable plan for making decisions with greater conﬁdence.
+provide clarity and insight to move forward in a new direction.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+As she geared up for another hiring process, Stacey decided not to
 
-6
+narrow her applicant pool to only candidates who had held the same
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+position previously. She wanted to cast a wide net.
+
+Instead, she made two changes to her vetting process. “First, I plan
+
+to ask candidates for detailed speciﬁcs about how they will get up to
+
+speed for the role they’re interviewing for so that I’ll have a better
+
+sense of their understanding of the position, their skill set, and their
+
+commitment to succeeding in the role,” she said. “Second, I will more

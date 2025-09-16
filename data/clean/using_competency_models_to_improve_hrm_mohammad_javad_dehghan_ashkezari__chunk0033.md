@@ -1,5 +1,13 @@
-# succession planning and etc. by
+---
+source_path: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari.md
+pages: n/a-n/a
+chunk_id: 0f965484a4698dcf603cd552b7e44760a17ed155
+title: using_competency_models_to_improve_hrm_mohammad_javad_dehghan_ashkezari
+---
+# in
 
-A competency model is a list of competencies which are derived from observing satisfactory or exceptional employee performance for a specific occupation. The model can provide identification of the improve competencies employees need performance in their current job or to prepare for other jobs via promotion or to transfer. The model can also be useful in a skill gap analysis, the comparison between available and needed competencies of individuals or organizations.
+the organization,
 
-to develop
+5).
+
+Development of Competency Models Many companies and governmental organizations have addressed issues such as organizational transformation, performance improvement, employee development, the implementation of competency modeling programs, i.e. through strategic initiatives aimed at aligning employee performance with job requirements.

@@ -1,11 +1,21 @@
-# speciﬁc but not bold (Update product X).
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5d0cdb5841f3248a44460fe059b44f52f5071fa
+title: H08VFN-PDF-ENG
+---
+# and self-pity.
 
-A deﬁned victory, by contrast, is bold and speciﬁc: Develop the ﬁrst
+Solution 1: Target victory. List all the successes you want your
 
-tumor-agnostic cancer drug (Merck); build a personal computer that
+organization to achieve over the next ﬁve years. Then identify a single
 
-actually feels personal (Apple); put a man on the moon (NASA). Keep
+ambitious goal that, if you hit it, will enable you to achieve most (even
 
-victory top of mind whenever you encounter VUCA, and you can fully
+all) of those successes. That goal is your deﬁnition of victory.
 
-engage tactical creativity without losing strategic direction.
+Victory is bold and speciﬁc—a precise target that is hard but possible
+
+to attain. When leaders fail to deﬁne victory, it’s usually because their
+
+target is either bold but not speciﬁc (Double proﬁts in four years) or

@@ -1,19 +1,13 @@
-## According to authors Lisa Kaplowitz and Kate Mangino, more
+---
+source_path: H08HMK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd629ed9526a7833e13c0c9eb1a18360d68b45b9
+title: H08HMK-PDF-ENG
+---
+## A survey of caregivers from the Rutgers Center for Women in Business
 
-humanity involves “empathy, emotional intelligence, collaboration, and
+found that respondents reported improvements in their humanity,
 
-teamwork” that makes “one a better coworker, a kinder manager, and
+productivity, and cognitivety that can help companies “maintain
 
-a more understanding leader.” Increased productivity is due to the fact
-
-that caregivers are “problem-solvers who excel at time management can
-
-prioritize, persevere, and make decisions with imperfect information.”
-
-And cognitivity involves “anticipating needs, spotting small problems
-
-before they turn into big ones, putting measures in place to avoid issues
-
-down the road, and always staying a step ahead.”
-
-In total, these skills “bring people and processes together, which is the
+culture, connect people, and ensure smooth operations.”

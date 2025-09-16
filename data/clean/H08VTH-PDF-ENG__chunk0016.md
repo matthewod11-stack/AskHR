@@ -1,33 +1,19 @@
-# forward.
+---
+source_path: H08VTH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4fe9951efcbf6993b60ba7b8d7888f6bb3c109e
+title: H08VTH-PDF-ENG
+---
+# HBR / Digital Article / When You’re Suddenly Managing More People—and Feeling Buri…
 
-Your job isn’t to control the chaos but to eliminate what slows the work
+- 4. Simplify the System to Accelerate the Work
 
-down. That means questioning legacy systems, removing unnecessary
+As your team grows, what once felt like structure can quickly become
 
-steps, and aligning processes to what matters now. Ask yourself and
+clutter. Communication gets noisy. Processes multiply. Tools overlap.
 
-your team what’s creating unnecessary drag. Is it clunky handoﬀs?
+What began as a helpful structure becomes a drag on speed, clarity,
 
-Endless status reporting? Meetings that feel like time sinks? These
+and motivation. We’ve seen ﬁrsthand that the more systems expand,
 
-aren’t small irritants; they’re system-wide energy leaks. One study
-
-found that bad meetings alone cost large companies as much as $100
-
-million a year, with respondents reporting that they could’ve skipped
-
-30% of the meetings they attended in a week.
-
-Dave, one ﬁntech executive we coached, realized that critical updates
-
-were being shared across multiple platforms, including email, Teams,
-
-and team-speciﬁc update decks. Information was often repeated,
-
-missed, or misunderstood. He launched a two-week “process audit
-
-sprint,” empowered his area leads to map what was working and what
-
-wasn’t, and simpliﬁed the team’s internal communication ﬂow. The
-
-payoﬀ? Less noise, faster alignment, and more time spent on work that
+the more teams go through the motions instead of moving the work

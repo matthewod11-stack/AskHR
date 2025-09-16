@@ -1,25 +1,17 @@
-## Rethinking Collaboration with AI for More Creative, Innovative Outcomes
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2503bf22dcc6379fc79fa8fa6267a68731ae6589
+title: H08HWT-PDF-ENG
+---
+## HBR / Digital Article / Train Your Brain to Work Creatively with Gen AI
 
-Changing your mindset to more creatively and openly collaborate with
+a personal note from the chef to motivate and guide you, and voilà, the
 
-AI is about the willingness to explore the unknown and the capacity to
+chef’s kiss. Suddenly gen AI becomes your personal cooking coach.
 
-learn, unlearn, and experiment. Plus, it’s a lot of fun.
+The idea here is to think about your interactions creatively, to practice
 
-I often say that using AI delivers its best potential and results when I,
+by challenging your own conventions around how you think gen AI
 
-along with my cognitive biases, step aside. I ask myself, with a smile,
-
-“WWAID?” or “What would AI do?” I acknowledge that my unconscious
-
-manner of using gen AI tools might default to predictable inputs and
-
-outputs. But by asking WWAID, I open myself up to new exchanges and
-
-experiences, which can yield unexpected results.
-
-Tapping into AI’s creative and transformative potential and training
-
-your brain for an AI-ﬁrst world requires us to mindshift our prompting
-
-style, engaging AI as a collaborative partner, rather than just a tool.
+should work, and also the outcomes you think are expected or possible.

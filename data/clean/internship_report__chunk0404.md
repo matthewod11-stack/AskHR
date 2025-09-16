@@ -1,7 +1,9 @@
-# months as per law
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 7e3a835c86fdf4329823fca7f2edd00aab258a12
+title: internship_report
+---
+# 4 Months clause 14 (2.d)
 
-Daily working hour / Work life
-
-8 Hours per day. Over time also provided
-
-8 hour per day. Maximum 2 hours overtime with payment
+Karnaphuli HR should change maternity leave to 4

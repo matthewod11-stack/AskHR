@@ -1,29 +1,33 @@
-## A Fresh Approach to Tuition Reimbursement
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f7cd41320318024d5a5b602db0c05037bdcdd04
+title: H07OHG-PDF-ENG
+---
+# company.”
 
-How a historically elite beneﬁt is becoming accessible for all
+Verizon, another Multiverse customer, uses the apprenticeship model
 
-Large companies have long oﬀered to pay for their employees’
+to ﬁll software engineering jobs and reports that 95% of an initial
 
-continuing education. However, these beneﬁts have historically been
+cohort accepted full-time oﬀers at the company after completing an
 
-reserved for a small number of white-collar employees, for example,
+apprenticeship program. The Verizon program was designed to “lower
 
-those pursuing an executive MBA. Or employees were asked to pay for
+barriers to entry to software jobs while training truly great software
 
-their courses out of pocket and get reimbursed afterwards.
+developers that we fundamentally believe can propel our business
 
-As the labor market has changed, more companies are oﬀering tuition
+through digital innovation,” said Shankar Arumugavelu, Verizon’s chief information oﬃcer.
 
-beneﬁts as a way to retain their frontline employees — store clerks,
+Apprenticeships aren’t right for all training needs. For one thing,
 
-baristas, drivers, and hourly workers. In response, a new class of
+they require a signiﬁcant investment of time — in the U.S., formal
 
-companies has emerged to smooth and synchronize the relationship
+apprenticeships are usually four years long. In some markets they
 
-between training providers, employers, employees, and (in some cases)
+can also come with restrictive regulation. In the UK, for instance, the
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+government’s apprenticeship funding program has been criticized for
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+being too rigid and not in line with employers’ needs.

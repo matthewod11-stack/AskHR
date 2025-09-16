@@ -1,13 +1,15 @@
-## Although the unforeseen consequences of innovation can to some
+---
+source_path: R2505M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d8813faca5ffc98754bf639c7b2df937e121e80
+title: R2505M-PDF-ENG
+---
+## HBR / Magazine Article / Why You Need Systems Thinking Now
 
-extent be mitigated retrospectively through regulation and tax policy,
+oil low, but it has harmful eﬀects on water resources and contributes
 
-we believe that a better approach is to avoid them in the ﬁrst place by
+to air pollution and other environmental problems. In ﬁnance, credit
 
-thinking more carefully about how innovation is done.
+default swaps were invented to help investors hedge credit risk, but they
 
-In this article we’ll look at the strengths and weaknesses of the
-
-two dominant approaches that businesses apply to innovation—
-
-breakthrough thinking and design thinking—which often produce
+ended up precipitating the 2008 global ﬁnancial crisis.

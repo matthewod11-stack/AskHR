@@ -1,19 +1,15 @@
-# threshold.
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a521c3ed089100a10749d23bd1261fe2da9bb05c
+title: H08NEW-PDF-ENG
+---
+# signiﬁcance).
 
-Depending on the regulatory environment, the size of the gap relative
+If a ﬁrm’s pay equity analysis reveals a pay gap, and that gap is over
 
-to the target or depending on budgetary limitations, some ﬁrms choose
+the ﬁrm’s threshold, the ﬁrm will need to give raises to employees of
 
-to address the disparity incrementally. In other words, a company may
+the underpaid demographic(s) the sum of which would be determined
 
-make smaller pay adjustments over several compensation cycles in
-
-order to bring its pay gap below its threshold. It’s also not unusual
-
-for complex organizations to allow diﬀerent units, subsidiaries, etc. to
-
-reduce pay gaps at diﬀerent rates. This is especially the case when the
-
-initial pay gaps diﬀer in size and the units and subsidiaries work in
-
-very diﬀerent labor markets, impacted by diﬀering degrees of regulatory
+by what it would take to pull the gap within the ﬁrms’ acceptable

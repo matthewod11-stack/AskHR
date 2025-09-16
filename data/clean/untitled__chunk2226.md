@@ -1,7 +1,9 @@
-# Professional Organizations
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8387863d0d3d16198276fda6a9355b70608be3aa
+title: untitled
+---
+# Signs of Maturation
 
-The American Psychology-Law Society was chartered in 1969, and it soon became the organizational support for enor- mous growth in psychology and law research and for forensic psychology practitioners (Grisso, 1991). From an initial 12 founders, the organization grew to over 100 members within its ﬁrst year. Although most of its early members spe- cialized in clinical forensic practice, during the 1970s the focus of the organization swung primarily to research and ap- plications of social, developmental, and experimental psy- chology to legal issues.
-
-When a number of members wished to develop a way to certify clinical forensic psychologists, the society provided the ﬁnancial support for the development of a separate organization, the American Board of Forensic Psychology, in 1976. This board developed a process of examination leading to a diplomate in forensic psychology, and the board eventu- ally became a specialty board of the American Board of Professional Psychology.
-
-Led by John Monahan, several psychologists in the soci- ety successfully petitioned the American Psychological As- sociation for a Division of Psychology and Law, which began in 1980. Within a few years the American Psychology-Law Society merged with the division, which is now formally named APA Division 41—the American Psychology-Law Society.
+Among the early signs that a ﬁeld is beginning to mature is the emergence of professional organizations and publications that provide a source of intellectual support for the ﬁeld, the identiﬁcation of a speciﬁc knowledge domain that constitutes the ﬁeld, and the development of professional training pro- grams. The 1970s and 1980s saw signiﬁcant development in all of these areas for forensic psychology and for psychology and law.

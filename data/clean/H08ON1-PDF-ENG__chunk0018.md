@@ -1,29 +1,19 @@
-## Analyze the results of the assessment as well as your business context
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6adb2a9b8aef3927bed49a4f868b916534b07044
+title: H08ON1-PDF-ENG
+---
+# together.
 
-and acquisition strategy to deﬁne the objectives for your cultural
+Organizations can ﬁnd designing these assessments overwhelming.
 
-integration. Will you aim to blend the cultures? Assimilate one into
+We suggest focusing on decision-making and risk-taking, which are
 
-the other? Retain the individual cultures? And what do you expect
+universally important aspects in which merged cultures must align.
 
-the tension points to be, given the diﬀerences in cultural values?
+Beyond that, we suggest looking at the cultural assessment of your own
 
-For example, when organizations diverge in how they approach risk-
+organization to determine the highest-scoring dimensions. Those are
 
-taking and innovation, this misalignment can have ramiﬁcations for
-
-the company’s competitive edge well into the future. In one acquisition
-
-we reviewed, a legacy company’s risk-averse approach to innovation
-
-collided with the risk-taking attitude of an innovative company they
-
-acquired, resulting in delays in developing cutting-edge technology that
-
-was expected as part of the deal.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+strengths of your culture and areas you will want to focus on.

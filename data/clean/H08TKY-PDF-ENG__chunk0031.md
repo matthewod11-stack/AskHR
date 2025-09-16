@@ -1,7 +1,11 @@
-# change in corporate organization.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50cbd68e8954d86df4ff7fe2d24a88dd84211650
+title: H08TKY-PDF-ENG
+---
+# this competence?”
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Internally, supporting core competencies requires harmonizing streams
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of technology and working across boundaries. This requires a radical

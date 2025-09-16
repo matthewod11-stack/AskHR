@@ -1,21 +1,9 @@
-# and stress.
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 50e846f66ae7620633f01edf010907235139104e
+title: H087DT-PDF-ENG
+---
+## HBR / Digital Article / Make Your Workday Work for Your Mental Health
 
-Your work and your patterns of attacking it might be diﬀerent
-
-from mine. What’s important is that you observe your patterns and
-
-sequence tasks accordingly. For example, say that realistically you’re
-
-only productive for four days a week. Consider accepting that rather
-
-than ﬁghting it. If you notice that all you manage to do on Fridays is
-
-phone it in, see what happens if you’re honest about it. Experiment
-
-with organizing your schedule accordingly — get your must-dos
-
-done Monday to Thursday — rather than criticizing yourself for the
-
-limitations of your focus and discipline. Accepting our limitations can sometimes have a paradoxical eﬀect: Self-criticism takes up a lot of
-
-energy, so when we stop doing it, we have more energy for more
+to work) per day keeps them from piling up and creating mental clutter

@@ -1,11 +1,31 @@
-## work groups. Journal of Applied Psychology, 78(3), 450–462.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 50df5450c50bdd847de8df80009ae6b702b55d3f
+title: industrial_organizational_psychology_an_applied_approach
+---
+# messes. HR Magazine, 44(7), 129–136.
 
-Sacco, J. M., Scheu, C. R., Ryan, A. M., & Schmitt, N. (2003). An investigation of race and sex similarity eﬀ ects in interviews: A multilevel approach to relational demography. Journal of Applied Psychology, 88(5), 852–865.
+Ryan, A. M., & Lasek, M. (1991). Negligent hiring and
 
-Sacco, J. M., & Schmitt, N. (2005). A dynamic multilevel model of demographic diversity and misﬁ t eﬀ ects. Journal of Applied Psychology, 90(2), 203–231.
+defamation: Areas of liability related to pre-employment inquiries. Personnel Psychology, 44, 293–319. Ryan, R. M., & Deci, E. L. (1996). When paradigms clash:
 
-Sackett, P. R., & Roth, L. (1991). A Monte Carlo examination of banding and rank order methods of test score use in personnel selection. Human Performance, 4(4), 279–295.
+Comments on Cameron and Pierce’s claim that rewards do not undermine intrinsic motivation. Review of Educational Research, 66(1), 33–38.
 
-Sackett, P. R., & Wanek, J. E. (1996). New developments in the use of measures of honesty, integrity, conscientiousness, dependability, trustworthiness, and reliability for personnel selection. Personnel Psychology, 49(4), 787–829.
+Ryan, T. J. (2004). Nerves of steal: As employee theft rises, retailers seek new deterrents. Sporting Goods Business, 37(6), 8–9.
 
-Sackman, S. (1991). Uncovering culture in organizations. Journal
+Rynes, S. L., Bretz, R. D., & Gerhart, B. (1991). Th e importance
+
+of recruitment in job choice: A diﬀ erent way of looking. Personnel Psychology, 44(3), 487–520.
+
+Rynes, S. L., & Connerley, M. L. (1993). Applicant reactions to alternative selection procedures. Journal of Business and Psychology, 7, 261–277.
+
+Rynes, S. L., Gerhart, B., & Parks, L. (2005). Personnel psychology: Performance evaluation and pay for performance. Annual Review of Psychology, 56, 571–600. Rynes, S. L., Weber, C. L., & Milkovich, G. T. (1989). Eﬀ ects of
+
+market survey rates, job evaluation, and job gender on job pay. Journal of Applied Psychology, 74(1), 114–123. Saad, S., & Sackett, P. R. (2002). Investigating diﬀ erential
+
+prediction by gender in employment-oriented personality measures. Journal of Applied Psychology, 87(4), 667–674.
+
+Saal, F. E. (1979). Mixed standard rating scale: A consistent system for numerically coding inconsistent response combinations. Journal of Applied Psychology, 64, 422–428.
+
+Saavedra, R., & Kwun, S. K. (1993). Peer evaluation in self-managing

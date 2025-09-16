@@ -1,7 +1,13 @@
-# Early Role of Hypnosis
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1cfc2e016064d8b2f43fdfca10401bde482b9a6a
+title: untitled
+---
+# Eugenics
 
-After Mesmer was discredited in 1784, reputable study of hypnotic phenomena in France languished until the 1870s and the work of Jean-Martin Charcot (1825–1893), a physi- cian and director of research in neurological disorders at the Salpêtrière. Harrington (1987) presents a history of neomes- merism in late nineteenth century French psychiatry, and the background to Charcot’s involvement with hypnosis.
+The concept of eugenics was ﬁrst developed in England by a cousin of Charles Darwin’s, Francis Galton (1822–1911),
 
-In 1876, Victor Burq, a physician, sent to Claude Bernard, then president of the Sociéte de Biologie of Paris, an account of how he had cured women who suffered from hysterical hemianesthesia by applying metallic discs to the afﬂicted side of their bodies (a procedure known as “metalloscopy”), with a request that Bernard arrange for his work to be investigated and validated. Bernard appointed a committee, consisting of Charcot, Jules Bernard Luys, and Amédee Dumontpallier. A yearlater,thecommitteereportedthattheyhadconﬁrmedthat Burq’s claimed metallic effects were genuine, although it was not clear if these effects were lasting. Furthermore they had found that the symptoms of hysterical hemianesthesia could be transferred from one side of the body to the other with ap- plication of metal disks (and later, magnets). When sensation was restored to a region on one side of the body, symmetrical regions on the healthy side lost normal sensibility. It was
+who proposed that measures be taken to prevent the spread of hereditary defect in society. Galton’s ideas included ﬁnancial allowances for children born to “superior” parents and dis- couragement or prohibition of marriage and reproduction among those of lesser quality (Galton, 1909). In one essay, Galton proposed that the value of a prospective child might be calculated in terms of its future economic contribution or cost to society, and this would determine what amount might be spent to encourage the potential parents to reproduce. In the case of severe degenerate defect, sterilization might be considered. As the presence of a degenerate taint might not be visible in a particular individual, a history of disorder in one’s ancestors would be adequate grounds for the application of eugenic measures.
 
-suggested that the metals effected a dynamic transfer of a functional lesion responsible for the anesthesia from one hemisphere of the brain to the other. These ﬁndings stimu- lated further research by Alfred Binet, Charles Féré, Joseph Babinski,andothers,andledtoCharcot’sinterestinhypnosis.
+Galton’s ideas found a particular promoter in Karl Pearson, a professor of eugenics at the University of London, who opened a eugenics laboratory and became the driving force in the eugenics society that Galton founded. Pearson also presented the eugenics program in a series of publica- tions (Pearson, 1909, 1910, 1911). These ideas found support in the United States, where some states legalized sterilization of mentally retarded people. Goddard’s (1912) then-famous study of the Kallikak family reinforced the argument for sterilization.

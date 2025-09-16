@@ -1,3 +1,9 @@
-# Prompt
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: e653788a54e5bd7abcd3b96f62ae73e9f0283d61
+title: prompt
+---
+# Top-P
 
-Classify movie reviews as POSITIVE, NEUTRAL or NEGATIVE. Review: "Her" is a disturbing study revealing the direction humanity is headed if AI is allowed to keep evolving, unchecked. I wish there were more movies like this masterpiece. Sentiment:
+1

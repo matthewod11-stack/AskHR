@@ -1,9 +1,9 @@
-# IH
+---
+source_path: H06V9A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 533c0ca7e69e70afa168ab38d00e3c742b55d4f2
+title: H06V9A-PDF-ENG
+---
+# ST
 
-Insiya Hussain is an Assistant Professor of Management at McCombs Business School, University of Texas, Austin. Her research focuses on understanding how employees can overcome the challenges of speaking up at work to share their ideas and opinions, advocate social issues, and negotiate for personal rewards. Twitter: @Insiya_H
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Subra Tangirala is Dean’s Professor of Management at the University of Maryland’s Robert H. Smith School of Business in College Park, Maryland.

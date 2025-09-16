@@ -1,15 +1,17 @@
-## proper migration, communication, and buy-in.
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d7e250b3d7ae43bbf0cb119ea052985713138d6
+title: H06YIA-PDF-ENG
+---
+## hard-wiring (such as a formal matrix or coordination function) or soft-
 
-During that phase, people regularly plead for adjustments or exceptions
+wiring (such as councils, planning processes, or knowledge networks).
 
-to the target model. The arguments and anecdotes they use may
+Apply a strict comply-or-explain rule.
 
-make sense from a local optimization perspective, but rarely do when
+When changing the organization’s primary dimension, usually a small
 
-considering the full picture. Therefore, the sponsor should apply a stern
+CEO-sponsored group designs the new model. The subsequent detail
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+design phase involves a much broader group of managers to ensure

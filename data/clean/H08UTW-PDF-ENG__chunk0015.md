@@ -1,9 +1,21 @@
-# change it.
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a224d19ab37fc38e6cb912c7bdef021495e174e4
+title: H08UTW-PDF-ENG
+---
+# that same depth of training?”
 
-How to avoid this mistake:
+Along with your words, be mindful of your delivery. A warm, curious,
 
-As long as your word choice acknowledges the person’s contribution
+or thoughtful tone can show that you’re focused on keeping the other
 
-and moves the group’s thinking forward, it can work. Choose language
+person engaged.
 
-that matches your goal. It could be to link ideas, expand on them, or dig
+Mistake #3: Getting hung up on the phrase itself.
+
+Leaders often tell me: “I don’t want to sound like a ‘yes person’ or come
+
+across as ‘soft’.’” They assume “yes, and…” only works if you literally say
+
+those words. That’s a misconception. If the language feels unnatural,

@@ -1,19 +1,19 @@
-# Never:
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a84c27dfbabd55fc19bb16f35fcc1c287957afcb
+title: H087G0-PDF-ENG
+---
+# reaction to the delayed disclosure
 
-- Pros: Reduces the risk of discrimination based on stigma • Cons: Increases your risk of being ﬁred or suﬀering other adverse actions if your disability impacts your performance; potentially harms
+After a problem arises, when new job requirements are introduced, or when your need for accommodations becomes clear:
 
-your health due to working without needed accommodations
+- Pros: Gives you an opportunity to prove your capabilities before
 
-Your decision about timing may depend on the extent of your need for
+disclosing
 
-accommodations and whether you have the resources to continue a job
+- Cons: Potentially harms your health due to working without needed
 
-search until you ﬁnd a disability-inclusive company. Your desire to help
+accommodations; employer potentially has a negative reaction to the
 
-normalize disability and disclosure may also come into play.
-
-But what if you develop health issues while employed and need to
-
-disclose, but are worried about the employer’s lack of understanding?
-
-The next strategy can help reduce the risks.
+delayed disclosure

@@ -1,1 +1,9 @@
-# 15
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 58ef22da52551f11d22ebd95551c107c23d801ae
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# The hiring of diversity
+
+The Equal Employment Opportunity Act prohibits discrimination in the workplace on the grounds of age, handicap, national origin, gender, race, and religion. Some businesses abide by discrimination laws purely to avoid going to court, but the majority of employers understand the benefits of a diverse workforce, including increased innovation and a wider range of clients. Employers who want to create a diverse workforce must be sure to adopt hiring practices that result in applications from a range of people. Because recruiters are in a unique position to encourage or discourage diverse candidates from applying for employment, it is crucial that they obtain training in the use of objective standards. The use of translators during interviews is permitted, as are multilingual marketing and recruitment brochures that feature images of minority and disabled workers. It is crucial that the company cultivate credibility for the idea of equal employment opportunity and that these are more than simply empty platitudes at the end of a job posting.

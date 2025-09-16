@@ -1,17 +1,21 @@
-# HBR / Digital Article / Why Companies Should Consolidate Tech Roles in the C-Suite
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 881ca4e174f67cbf2cd35d38c12d4770bc6fd698
+title: H08DSC-PDF-ENG
+---
+# Dissenters from This Model
 
-Several data leaders told us that they would not be interested in
+Not all technology and data executives believe that an integrated
 
-reporting to a chief information oﬃcer who is primarily focused on
+organization and SuperTech leader is a good idea. In interviews we
 
-infrastructure and “keeping the lights on,” as opposed to bringing about substantial business change. Other leaders had diﬀerent concerns with
+heard some objections that were based on individual attributes of
 
-an integrated role. Scott Hallworth, the chief data and analytics oﬃcer
+leaders, and some that were more principle-based.
 
-at Hewlett Packard had been interim co-CIO at HP for much of 2023. His
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-concerns about a fully integrated role — particularly the combination
+5
 
-of chief digital and chief information oﬃcer roles — is that combining
-
-the roles would eliminate a check on important decisions within a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

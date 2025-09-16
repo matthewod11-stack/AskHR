@@ -1,49 +1,51 @@
-# HBR / Digital Article / How to Conduct Motivating Performance Reviews When Busine…
+---
+source_path: H07YJT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 73ace62572793cbb1ecaafc30fc897948250382f
+title: H07YJT-PDF-ENG
+---
+## performance review conversation within the broader economic context.
 
-fuels future improvement. It also strengthens your employee’s sense
+“Acknowledge that there are factors that drive performance that are
 
-of purpose and commitment, and helps them see how to align their
+outside the control of the employee and the organization,” she says.
 
-priorities in the coming year with the organization’s objectives, she says.
+Be pragmatic but also supportive. “Say: ‘These are the realities of the
 
-Think like a coach. These discussions tend to be straightforward with
+environment that we have to weather and we are in this together.’”
 
-high-performing employees, but for those not performing at their best
+Talking about the challenges of the rocky economy also allows you
 
-expect some pushback or justiﬁcations for their performance. Sedatole
+to provide context for changes, for instance, “why the bonus pool is
 
-says that while you must “avoid making your employees feel penalized
+lower this year,” says Mondal. Hopefully, this open communication
 
-or held accountable for things they don’t have any control over,” it’s
+has been ongoing, and you’ve “recalibrated expectations based on
 
-crucial to address their mistakes.
+macroeconomic circumstances throughout the year,” she adds.
 
-Mondal suggests adopting the approach of a football coach debrieﬁng
+Help connect dots. Helping your team members understand how the
 
-with a player after a challenging game played in bad weather. The player
+wider economy aﬀects the company’s performance is a good ﬁrst step.
 
-might complain about the snow and the slippery ﬁeld, she says. “And as
+Next, you need to guide them to see how their speciﬁc roles ﬁt into
 
-a coach you need to say, ‘Yes, the conditions were tough. Here are three
+the organization’s long term goals. “You want to make them think like
 
-things you did well during the game, and here are two things you could
+the business,” says Mondal. As the conversation progresses, Sedatole
 
-have done better.’” By acknowledging what they did right under the
+suggests talking about how your employee’s day-to-day tasks and
 
-circumstances, but also where they can improve, you strike a balance
+projects contributed to the organization’s ﬁnancial results. Connecting
 
-between recognition and constructive criticism. And remember: “If a
+those dots allows them to more clearly “see how what they did over the
 
-player is not doing well, it’s the coach’s responsibility to deal with it,”
+past year supported or undermined what the company achieved,” she
 
-she says.
+says. Last year’s performance is in the books, but having this clarity
 
-Be transparent when addressing underperformance. How you
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-deal with an employee who’s consistently underperformed over the
+3
 
-year depends on many factors, including the nature of the job,
-
-the employees’ capabilities, their willingness to improve, and your
-
-bandwidth to support them and get back on track.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

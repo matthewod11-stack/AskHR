@@ -1,5 +1,9 @@
-## Measuring Achievement, Aptitudes, and Interests
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: db4ab6ac7ee0592f38847ca54b040f73b0174b17
+title: untitled
+---
+# Kuder Occupational Interest Survey
 
-(Kuder, 1939) with scales for seven areas of interest. As an alternative to the Strong, the Kuder pointed less directly to speciﬁc occupations that respondents should consider but provided more information about personal characteristics that would be likely to have a bearing on whether they would enjoy certain kinds of work.
-
-Kuder’s measure was expanded in subsequent revisions to feature 20 broad interest areas, a downward extension for use with elementary and high school students, and its cur- rent name, the Kuder Occupational Interest Survey (KOIS; Kuder & Zytowski, 1991). Paralleling the evolution of the SVIB from a strictly occupationally scaled measure to one that incorporates as well a theoretically based classiﬁcation of occupational interests, the KOIS now includes some occu- pational as well as basic interest scores.
+Frederic Kuder (1903–2000) set about measuring occupa- tional interests differently from Strong in two respects. First, instead of presenting individual items to be endorsed as “like” or “dislike,” he constructed groups of three alternative activi- ties and asked respondents to indicate which of each triad they would most prefer to do. Second, instead of scoring re- spondents’preferences for their relevance to speciﬁc occupa- tions, he developed scales for relating them to general areas of interest, including Outdoor, Mechanical, Computational, Scientiﬁc, Persuasive, Artistic, Literary, Musical, Social Ser- vice, and Clerical.Ameasure embodying these characteristics was published as the Kuder Personal Preference Record

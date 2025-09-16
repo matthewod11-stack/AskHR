@@ -1,29 +1,25 @@
-# medical devices (26%)
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce5145080aa8c31ff9ad435f978be47e038274df
+title: R2504F-PDF-ENG
+---
+## HBR / Magazine Article / Your Company Needs an Eldercare Policy
 
-- greater work ﬂexibility (in daily schedule or leave of absence) (25%)
+- a trustworthy source for reliable and aﬀordable professional caregivers
 
-- a healthcare adviser or advocate to help navigate the medical system
+(33%)
 
-(23%)
+- ﬁnancial assistance (32%)
 
-Driven by the exigencies of the Covid-19 pandemic, in 2020 many
+- more support from family, friends, and others in the community (30%)
 
-companies began to help employees meet at least some of those
+- people to step in to give the caregiver a break (28%)
 
-needs, oﬀering them more work-from-home and ﬂexible-scheduling
+- a professional to help create a care plan and work through any family
 
-options and responding to their need to care for family members
+disagreements regarding the recipient’s care (28%)
 
-recovering from Covid. Those were steps in the right direction, and
+- training and support regarding simple medical tasks, such as
 
-there are signs that organizations today are placing a higher priority on
-
-eldercare beneﬁts than in the past. Half of the HR leaders surveyed by
-
-Care.com, for example, reported that their organizations are doing so.
-
-But in practice we have a long way to go: According to the AARP and
-
-S&P Global survey mentioned earlier, only 25% of organizations oﬀer
-
-paid family leave for elder caregiving, and only 19% oﬀer subsidized
+medication management, injections, wound care, and managing

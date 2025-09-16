@@ -1,15 +1,13 @@
-# Hillman, A. and Dalziel, T.
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 07b87fb7094ec219c0ad515451b7a5f122cc3772
+title: original_article
+---
+# (2003) The coming Ivey
 
-(2003) Boards of directors and ﬁrm performance: Integrating agency and resource dependence perspec- tives. The Academy of Management Review 28(3): 383–396.
+revolution in corporate governance. Business Journal 68(1): 1–11.
 
-Hollenbeck,
+Heidrick and Struggles (2010) USC and Heidrick & Struggles Board Director Survey: Achieving the Perfect CEO-Board Dynamic. Marshall School Center for Effective Organizations.
 
-J.A., Jason, A.C. and Hedlund, J. (1998) Extend- ing the multilevel theory of team decision making: Effects of feedback and experience in hierarchical teams. The Academy of Management Journal 41(3): 269–282.
-
-J.R.,
-
-Ilgen, D.R., Lepine,
-
-Leblanc, R. and Schwartz, M. (2007) The black box of board process: Gaining access to a difﬁcult subject. Corporate Governance: An International Review 15(5): 843–851.
-
-Letendre, L. (2004) The dynamics of the board- room. The Academy of Management Executive (1993–2005) 18(1): 101–104.
+Leblanc, R. and Gillies, J. (2005) Inside the Board- room: How Boards Really Work and the Coming Revolution in Corporate Governance. London, ON: Wiley.

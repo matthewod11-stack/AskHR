@@ -1,7 +1,37 @@
-# within the app.
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a8d1b120ff5f7d3edc25ecc3fe2ed8889969715
+title: R2501K-PDF-ENG
+---
+## unpredictability: vertical slicing. Traditional project-management
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+approaches are all about running tests, analyzing results—and then
 
-2
+implementing the project. The slicing technique is diﬀerent: It delivers
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the project test by test. Each slice builds on the previous one to ﬂesh
+
+out the larger-scale initiative. Think of the project as a cake—each
+
+slice has layers of frosting, ﬁlling, and cake, representing the diﬀerent
+
+components of the project. Using the slicing technique, managers can
+
+run many small tests in diﬀerent areas of uncertainty, and use the
+
+ﬁndings to make better decisions and deliver ﬁnal products more
+
+quickly. An early slice of a new dating app, for example, might be a
+
+simple website to sign up customers and a psychologist in the back oﬃce who manually proposes matches to the ﬁrst 100 people and
+
+connects them by email. For users, the app tastes like the whole cake,
+
+so to speak: They sign up, get matched, and connect with other users.
+
+Product managers use the ﬁndings about what makes a successful
+
+match to continue to build out the app, focusing new slices on becoming
+
+more appealing to female users, for example, or introducing messaging

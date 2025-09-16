@@ -1,31 +1,13 @@
-## HBR / Magazine Article / Life’s Work: An Interview with Ketanji Brown Jackson
+---
+source_path: R2406P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d985024916dc0e28ece8b6f034fe3742732a20f
+title: R2406P-PDF-ENG
+---
+# with collegiality.
 
-You clerked for judges with different management styles. You described one as a master nurturer, another as meticulous and scholarly. What kind of leader are you?
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-I try to draw from both sets of qualities. I am very warm and open
+7
 
-with my staﬀ. I have a small group that works directly for me, my law
-
-clerks and my assistants, and we do fun things together. I try to be a
-
-nurturer in that sense. But I also ensure that we are doing the work
-
-necessary to lay out my opinions in a clear and thorough fashion. I
-
-have pretty high expectations for the drafts that we generate, and I’m
-
-a very substantial editor of the opinions coming out of my chambers. I
-
-work very, very hard to prepare for arguments, to ask questions that I
-
-think will be meaningful in helping understand the issues and shape the
-
-debate. So I do think that I exhibit a number of qualities of my former
-
-bosses—hopefully the best qualities. But you’d have to ask my staﬀ what
-
-they think!
-
-A version of this article appeared in the November–December 2024 issue of Harvard Business Review.
-
-Alison Beard is an executive editor at Harvard Business Review and cohost of the HBR IdeaCast podcast. She previously worked as a reporter and editor at the Financial Times. A mom of two, she tries— and sometimes succeeds—to apply management best practices to her household.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

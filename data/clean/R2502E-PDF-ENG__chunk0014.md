@@ -1,7 +1,15 @@
-## variation in experience capital among workers, on average.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6ad96518e231c4d00f2186687c2b600febe1453
+title: R2502E-PDF-ENG
+---
+## Find the Right Company, Not Just the Right Job
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The organizations you join at the start of your career can have a
 
-3
+profound impact on your success. In our research we’ve found that early
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+exposure to an eﬀective organization that supports employees’ growth
+
+—ideally within the ﬁrst ﬁve working years—accounts for 50% of the

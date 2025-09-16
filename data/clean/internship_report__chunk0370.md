@@ -1,41 +1,29 @@
-# 4.1.3 Work-Life Balance Analysis
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: fb71554d2cdd49d7438d8a0eb4a7f4d56bdd5ce5
+title: internship_report
+---
+## Figure 2: Analysis of HR Cooperation towards Employee
 
-(cid:87)(cid:111)(cid:114)(cid:107)(cid:45)(cid:76)(cid:105)(cid:102)(cid:101)(cid:32)(cid:66)(cid:97)(cid:108)(cid:97)(cid:110)(cid:99)(cid:101)(cid:32)(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32)
+From the above grave we see that most of the employees (45%) are agreed that HR department is
 
-(cid:56)(cid:48)(cid:37)
+helpful towards employee while they are confused regarding any company policy issues.
 
-(cid:55)(cid:48)(cid:37)
+However, same percentage (27%) of people is reluctant to express their view and disagree about
 
-(cid:54)(cid:48)(cid:37)
+the HR cooperativeness towards employee. If the HR department becomes helpful to all
 
-(cid:53)(cid:48)(cid:37)
+employees during their critical time then less number of employees will do non-compliant
 
-(cid:52)(cid:48)(cid:37)
+activity. Moreover, HR department can create work conditions stimulating innovation,
 
-(cid:55)(cid:51)(cid:37)(cid:32)
+teamwork, and total quality concept. As a result, if the HR department becomes more
 
-(cid:51)(cid:48)(cid:37)
+cooperative then the openness among employees comes in front which working environment
 
-(cid:50)(cid:48)(cid:37)
+stimulating hidden creativity and energy among employees to achieve the organizational goal.
 
-(cid:49)(cid:48)(cid:37)
+HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:52)(cid:53)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
 
-(cid:48)(cid:37)
-
-(cid:48)(cid:37)(cid:32)
-
-(cid:49)(cid:56)(cid:37)(cid:32)
-
-(cid:57)(cid:37)(cid:32)
-
-(cid:48)(cid:37)(cid:32)
-
-(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121) (cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
-
-(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
-
-(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
-
-(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
-
-(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121) (cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
+(cid:32) (cid:32) (cid:32) (cid:32)

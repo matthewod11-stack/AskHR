@@ -1,27 +1,55 @@
-# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7f723e34276d18767e7d63c1f62a424020d7a72
+title: R2401G-PDF-ENG
+---
+## Thinking, Fast and Slow, the Nobel Prize–winner Daniel Kahneman argues
 
-studied, including composer, artist, and inventor, “the most successful
+that when people are in a “cognitive minefield”—when they are confused
 
-creators tend to be those with the most failures!”
+or overwhelmed, or when things are falling apart—it’s wisest to pause and
 
-- 3. Will the fast eat the slow, or is it better to pause and learn from
+assess the situation rather than do something rash. When you find yourself
 
-others’ mistakes? Sometimes life is like a mousetrap: The first mouse
+in such circumstances, implore your people to slow down and think about
 
-gets crushed and the second (or third or fourth) mouse gets the cheese.
+the right thing to do. (continued)
 
-Research on launching new businesses and products, for example, shows
+A CEO who led an impressive turnaround at a multinational explained to us
 
-that the so-called first-mover advantage is sometimes a myth. When
+that when a leader takes charge of a troubled company, “you have to assess
 
-markets are treacherous and uncertainty is high, first movers often flounder
+the situation rather than act quickly.” The CEO continued, “Everyone wants
 
-because consumers aren’t ready for their ideas yet or are put off by flawed
+you to do something, so the first thing you say, very calmly, is, ‘We’re not
 
-early offerings. (continued)
+going to do anything today.’”
 
-Companies that launch their products or services later win, in part, because
+- 2. Are you doing routine or creative work? The best routine processes,
 
-they learn from the missteps of antsy early movers. Amazon, for example,
+such as getting an expense request approved or canceling a magazine
 
-wasn’t the first online bookstore; the defunct Books.com and Interloc were
+subscription, are so frictionless that, to paraphrase the IDEO cofounder
+
+Bill Moggridge, you notice that you don’t notice using them. In contrast,
+
+creative work requires constant struggle, frustration, confusion, and failure.
+
+There are ways to make creativity less inefficient—such as pulling the plug
+
+on bad ideas faster. But piles of studies show that streamlining creativity
+
+too much will kill it. (continued)
+
+As the psychologist Dean Keith Simonton has noted, geniuses such as
+
+Picasso, da Vinci, and Richard Feynman had far more successes and
+
+failures than their unheralded colleagues. In every occupation Simonton
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

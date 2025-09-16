@@ -1,11 +1,7 @@
-# Group Cohesiveness
-
-Group cohesiveness is the extent to which group members like and trust one another, are committed to accomplishing a team goal, and share a feeling of group pride (Beale, Cohen, Burke, & McLendon, ). In general, the more cohesive the group, the greater its:
-
-7 7
-
-Productivity and efficiency (Beale et al., ) Decision quality (Mullen, Anthony, Salas, & Driskell, )
-
-478
-
-chapter 
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 070dc27a0bbd1c249d2a2a2974f0b6aa86ddbe02
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Factors Affecting Group Performance

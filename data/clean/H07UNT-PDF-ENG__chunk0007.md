@@ -1,23 +1,23 @@
-## HBR / Digital Article / The Art of Setting Expectations as a Project Manager
+---
+source_path: H07UNT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac349563a82aa60a93d0ef4052d504f0cb7a37b3
+title: H07UNT-PDF-ENG
+---
+# Tara Moore/Getty Images
 
-Yet training on “expectations management” is fairly limited within
+Artfully managing expectations is one of the most important skills
 
-professional development curriculum and new hire onboardings. It’s
+a project manager (PM) can develop. When expectations are properly
 
-a diﬃcult concept to package into a single educational experience
+managed, teams are better equipped to deliver exceptional results, from
 
-because everyone’s expectations are unique and often deeply personal.
+executing on a behemoth campaign to meeting small, daily deadlines.
 
-PMs need to use a combination of intuition, listening, iterating, and
+The earlier this skill can be developed in one’s career, the better.
 
-learning on the ﬂy to address them successfully.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-I’ve spent the past few years gaining a deep understanding of
+1
 
-how people work through setbacks while interviewing leaders across
-
-industries and researching the psychology behind this phenomenon
-
-for my book, The Setback Cycle. Part of working through that cycle is
-
-developing a clear understanding of expectations.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

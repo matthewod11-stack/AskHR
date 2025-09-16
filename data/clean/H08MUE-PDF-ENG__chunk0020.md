@@ -1,7 +1,13 @@
-# leadership visible.
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7131749462bc1ed14627e49815036acd6c31d6c6
+title: H08MUE-PDF-ENG
+---
+# More conscious planning and use of time
 
-In the client organizations that I’ve been working with over the
+First, and perhaps most obvious, is that managing remotely requires
 
-past couple of years, remote leaders have not only been making
+much more travel, which may cancel out some of the stay-at-home or
 
-appearances in the oﬃce (on some of the days that employees need to be there) but also traveling to oﬀsite planning sessions with other senior
+ﬂexibility beneﬁts of being remote. But it is necessary for making your

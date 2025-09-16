@@ -1,11 +1,13 @@
-# Provide wellness information
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1184d129c0da5fdfac25e138ff5ac0288b092c20
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Subsidize cost of elder care
 
-72
+4
 
-Provide health screening program
+Increase employee wellness Off er an employee assistance program (EAP)
 
-41
-
-Off er a smoking cessation program
-
-40
+75

@@ -1,7 +1,7 @@
-# And We’re Not Just Talking About Women
-
-People of all genders are equally capable of mastering these skills,
-
-and companies would beneﬁt greatly if all employees, regardless of
-
-gender identity, had heightened skills around humanity, productivity,
+---
+source_path: H07R1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59b3b437e060336b941bcac22c2b1a781198a2ec
+title: H07R1C-PDF-ENG
+---
+# through our experience as caregivers.

@@ -1,9 +1,9 @@
-## Ainda assim, de maneira geral, 69,4% dos respondentes, o classificam como
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 5a1566a5c619ace9350bc017b127937f76253554
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Sendo 1 = Muito insatisfeito e 5 = Muito satisfeito
 
-um bom processo dentro da empresa,
-
-tendo apenas 5 pessoas com opinião
-
-contrária (13,9%), como demonstrado na figura 35 a seguir, resultado corroborado
-
-por comentários como "O eNPS é uma pesquisa simples e de fácil interpretação [...]"
+Fonte: respostas do questionário aplicado aos funcionários

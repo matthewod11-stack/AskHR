@@ -1,11 +1,27 @@
-# HBR / Digital Article / Becoming More Collaborative When Your Impulse Is to Be Territo…
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8872b390fbfdf258441873616804ece910b99e6
+title: H07ZCR-PDF-ENG
+---
+## about someone else’s intentions, objectives, or anticipated response.
 
-you understand the internal or external source of what’s bothering
+Often it’s the stories we tell ourselves that lead us to jump to conclusions
 
-you, which may not be directly related to the current situation,
+that may not be based on reality. For example, if you feel like a victim of
 
-as past experiences and challenges can activate negative emotions.
+the circumstances, then you may craft a story to support that identity.
 
-Most importantly, you can delay taking action so that you’re not
+What would shift if I slowed down to understand my negative feelings?
 
-disproportionately inﬂuenced by your feelings. As Ken Blanchard and
+It’s natural to pay excess attention to the negatives, which are typically
+
+driven by our emotions. The next time you have a negative reaction,
+
+consider what behavior or event speciﬁcally triggered it. This will help
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

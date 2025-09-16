@@ -1,9 +1,9 @@
-## leading organizations. However, performance management should not
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4a4fe62d33fa4aa981b072fdd6c5099341fc815
+title: H08HAK-PDF-ENG
+---
+## engagement. Like many other management practices, feedback systems
 
-be neglected simply because it is not perfect. Instead, it is crucial
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+— whether narrative or numeric — are never ﬂawless, even within

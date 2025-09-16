@@ -1,13 +1,45 @@
-## remain deep for years beyond their initial time together.
+---
+source_path: H06ORX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa9f701269c687bcb664f232bdfa794177a753d8
+title: H06ORX-PDF-ENG
+---
+# Build leadership learning cohorts
 
-As you bring leaders back to your “new normal,” invest in their
+The ultimate determinant of cross-functional health is the quality of
 
-development by establishing cohort learning communities that will
+leadership over the teams that must cooperate to get things done.
 
-bind them to one another — and their shared organizational
+Leaders who model empathy, curiosity, proﬁciency with conﬂict, and
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+a genuine desire to create widespread shared success build the strongest
 
-5
+cross-functional partnerships. But these leadership skills don’t often
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+come naturally, especially to highly results-oriented leaders who’ve
+
+been raised in overly hierarchical environments.
+
+I’ve found the fastest way to build strong, consistent cross-functional
+
+leaders is to immerse them together in cohorts of leadership
+
+development. In nearly a dozen organizations, we’ve built cohorts of
+
+12–16 leaders who journey together in their own learning and formation
+
+for 6–12 months. The content is focused on key skills and knowledge
+
+they need to drive the shared results their functions must produce.
+
+Recently, we’ve oriented content to how the organization needs to
+
+rethink leadership in a hybrid workplace. Small sub-teams spend time
+
+on real projects aligned to strategic goals that create added value for the
+
+organization, and pairs of “peer-coaches” are assigned to meet weekly
+
+to exchange feedback and advice on identiﬁed development areas. I’ve
+
+found that the relationships that form during these cohort journeys

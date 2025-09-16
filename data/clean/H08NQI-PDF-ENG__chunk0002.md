@@ -1,9 +1,7 @@
-# David Malan/Getty Images
-
-Speed has a bad reputation in business, much of it deserved.
-
-Discussions of quality problems at Boeing or the collapse of FTX or even
-
-Quibi’s dramatic ﬂameout often zero in on speed: Things were moving
-
-too fast for anyone to see the obvious ﬂaws in leadership or culture or
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6df3164593adcecd5cfb52a74adee00a7e46d681
+title: H08NQI-PDF-ENG
+---
+## Published on HBR.org / March 7, 2025 / Reprint H08NQI

@@ -1,13 +1,7 @@
-# Demonstrate expertise with conﬁdence
-
-The way you position your questions signiﬁcantly impacts how people
-
-perceive your knowledge. Framing your inquiries to reﬂect what you
-
-know will signal conﬁdence in your expertise. Thoughtfully craft
-
-questions to make your knowledge visible to others while helping
-
-them connect with and build upon your insights. You’ll not only
-
-demonstrate your expertise but also foster meaningful engagement and
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c03f082b80b47657c052159067b924cf2e44dc3f
+title: H08B1C-PDF-ENG
+---
+# decision-making.

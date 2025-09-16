@@ -1,11 +1,13 @@
-## HBR / Digital Article / 3 Strategies for Making Better, More Informed Decisions
+---
+source_path: H07MWV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9f26893c5f6c67cc4d9897c9f7d003a0676b1a3
+title: H07MWV-PDF-ENG
+---
+# Helen’s life choices.
 
-Similarly, engaging in counterfactual thinking can help you think
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-through choices you’ve made by helping you expand your focus to
+3
 
-consider multiple frames of reference beyond the present outcome. This type of reﬂection encourages you to take note of diﬀerent
-
-perspectives and reach a more balanced view of your choices. By
-
-thinking counterfactually, you can ensure you are looking at existing
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,9 @@
-## generative AI and other advanced technologies—is once again
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91f0666a8cd9ceb2ad2ee1c8dd8a3a51c81520de
+title: S25012-PDF-ENG
+---
+## driven processes, and automation with a human touch (jidoka).
 
-reshaping process management. Now that features like natural-
-
-language interfaces have made gen AI accessible to nontechnical
-
-employees, it’s driving both large and small process changes. With
-
-the help of AI, employees can synthesize data of all kinds, including
-
-unstructured data. They can turn once-inscrutable masses of numerical
+As more operations become digitized, kaizen—augmented by

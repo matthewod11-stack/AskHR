@@ -1,29 +1,21 @@
-## HBR / Digital Article / A Data-Based Approach to Delegating
+---
+source_path: H08TOA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de04b6745de73190018f7d923cdaacf44c53de85
+title: H08TOA-PDF-ENG
+---
+# your people.
 
-demands on him. He felt like he was constantly working in the business and never had time to work on the business like his predecessor and
+Should not delegate. These tasks are core to your job and rely on your skill set and position to be eﬀectively executed. If you are able
 
-mentor had. When he started delegating some of the tasks that were
+to delegate tasks in the other two categories, you will have more time
 
-consuming his time, he was able to schedule 90 minutes with himself
+to spend on these activities. For example, a CEO I coached lamented
 
-every week to review ﬁnancial projections, read industry publications,
+that he didn’t have any “strategic thinking” time because of all of the
 
-and reﬁne his vision for his business.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Automate or eliminate. This ﬁnal category is for those tasks that
+4
 
-shouldn’t be done by you or your employees. They are either vestigial
-
-tasks or meetings that should be eliminated from your day or tasks that
-
-could be automated, perhaps by an app or with the help of artiﬁcial
-
-intelligence. Tasks that fall under these could include meetings where
-
-your attendance isn’t really necessary, status updates that no one reads,
-
-or manual analysis that could be programmed. For instance, if you can
-
-get other work done during a meeting without negatively impacting the
-
-quality of the meeting, you probably don’t need to be there.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

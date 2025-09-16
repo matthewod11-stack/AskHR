@@ -1,13 +1,7 @@
-# Yasu + Junko/Trunk Archive
-
-A decade later, Alan Mulally took a similar approach in building a
-
-positive organizational environment at Ford. When he took the helm,
-
-in 2006, the company was facing a $12.7 billion loss and struggling
-
-with a deeply entrenched culture of distrust and secrecy. Fearing
-
-blame or punishment, executives hid problems in their divisions until
-
-they turned into crises. Mulally spent his ﬁrst months establishing
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 844c4948503f3584bde616e8d7bc9ca60034d4cd
+title: R2504D-PDF-ENG
+---
+## HBR / Magazine Article / The Conflict-Intelligent Leader

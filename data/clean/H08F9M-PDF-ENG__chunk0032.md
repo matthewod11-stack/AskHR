@@ -1,9 +1,9 @@
-# human thriving.
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1b61c9ebeda4ec3427056d626b0862411a28060
+title: H08F9M-PDF-ENG
+---
+## concern for people above and beyond the functional tasks or outcomes
 
-Relationships are central to the heart of leadership. To eﬀectively
-
-communicate, motivate, mentor, teach, direct, counsel, learn from,
-
-inspire and energize the people they lead, leaders need to build
-
-relationships of mutual commitment and care. It is through
+of the work. This is what we call the heart of leadership — promoting

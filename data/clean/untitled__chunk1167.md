@@ -1,3 +1,9 @@
-## Evans, J. (1950). Miller. Journal of Abnormal and Social Psychol-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: edc5f8fcbb288d3cc8a7e7f33e54e0b730d40e92
+title: untitled
+---
+## Evans, J. (1948). Johnny Rocco. Journal of Abnormal and Social
 
-ogy, 45, 359–379.
+Psychology, 43, 357–383.

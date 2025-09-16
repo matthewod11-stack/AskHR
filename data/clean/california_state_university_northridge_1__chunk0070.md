@@ -1,29 +1,25 @@
-# rights.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 671d5bb8888e1631732a7a2e9019f3312d3bada3
+title: california_state_university_northridge_1
+---
+# action within the workplace.
 
-Finally, Goldberg writes on affirmative action, mandatory arbitration mental and
+Another important area Goldberg wrote on was age discrimination, which has been
 
-emotional illness are changing based on current lawsuits. An example given is the white
+fueled by corporate downsizing.
 
-schoolteacher who sued a school board for discrimination according to Tittle VII. The
+In an effort to reduce possible litigation, companies are
 
-teacher in question was laid off for an equally qualified black teacher. School board argued it
+offering elaborate servance packages and waiver stating, the employee will not sue.
 
-was within it rights to consider race into the equation as to prevent future discrimination. The
+Goldberg cautions the public to watch the courts, because they will probably rule in favor of
 
-school board lost and, while the court was split eight to four on this issue. It appease that the
+an employee who sues after opting a waiver not to sue and or accepts a generous servance
 
-school attempted to do what they thought was the right thing however, it was at the expense
+14
 
-of a current employee who was terminated. In short, the school board had to discriminate
+package. Essentially, each of the five that were written on are critical in a workplace and
 
-against a qualified employee to level the playing field by hiring an equally qualified employee
-
-of a different race (Goldberg, 1997, p. 81(3) ).
-
-An article written by Jonathan Rosenfeld titled "Legal charged tighten workplace
-
-regulation" deals with court cases in Massachusetts. It is noted that employment law cases
-
-are up in the state of Massachusetts. Recently, developments in sexual harassment, now
-
-requires an employer with more than six employees to have a policy on harassment
+current and future court cases will have an impact on employer responsibilities and employee

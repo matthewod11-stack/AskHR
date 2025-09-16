@@ -1,17 +1,31 @@
-## HBR / Digital Article / How to Work for a Boss Who Always Changes Their Mind
+---
+source_path: H08EJN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 196838afda119b190da157a6a125142f26e8f4de
+title: H08EJN-PDF-ENG
+---
+# Be Specific with Your Questions
 
-Asking for feedback on something speciﬁc gives your boss’s racing mind
+If you work for a leader who always changes their mind, asking “What
 
-a place to land. The clearer you can be about what feedback you’re looking for, the more eﬃcient and eﬀective your conversation will be.
+do you think?” will put you on the fast track to a mountain of rework.
 
-When you’re thinking about the speciﬁc questions you may want to ask
+When asked for general feedback, most bosses will come up with
 
-your boss, it can be helpful to consider prompts like:
+something to change or add. It’s your job to point them to where they
 
-- What is my boss good at? How can I leverage their strengths?
+can be most helpful. Deﬁning the feedback scope is crucial.
 
-- What’s the most urgent component of what I’m discussing?
+Let’s go back to our example of the customer feedback project plan.
 
-- What could potentially derail success?
+After you do a tee-up, make a speciﬁc feedback ask, such as: “I’m
 
-- When considering all the elements of my plan, which will have the
+interested in your thoughts on the timeline I’ve laid out. Do you think
+
+it’s realistic or too ambitious?”
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

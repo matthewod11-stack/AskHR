@@ -1,3 +1,19 @@
-# MODELS OF THE NATURE OF INTELLIGENCE
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: de05d6acdf69b3985649ea267a6c46db8ac798b9
+title: untitled
+---
+# Evaluation
 
-Anumber of different types of models have been proposed to characterize intelligence. What are the main models, and how are they similar to and different from one another?
+Binet’s work was to have far more inﬂuence than Galton’s. Binet set many trends that were to be inﬂuential even up to the present day.
+
+First, the kinds of test items Binet used are, for the most part, similar to those used in the present day. From the stand- point of modern test constructors, Binet “largely got it right.” Indeed, a current test, the fourth edition of the Stanford-Binet
+
+Intelligence Scale (R. L. Thorndike, Hagen, & Sattler, 1986) is a direct descendant of the Binet test. The Wechsler tests (e.g., Wechsler, 1991), although somewhat different in their conceptualization, owe a great deal to the conceptualization and tests of Binet.
+
+Second, Binet grounded his tests in competencies that are central to schooling and perhaps less central to the world of adult work. Such grounding made sense, given the school- based mission with which Binet was entrusted. Although intelligence-test scores correlate both with school grades and with work performance, their correlation with school grades is substantially higher, and they correlate better with job- training performance than with work performance (see reviews in Mackintosh, 1998; Wagner, 2000).
+
+Third, intelligence tests continue today, as in Binet’s time, to be touted as serving a protective function. The goal of Binet’s test was to protect children from being improperly classiﬁed in school. Today, test users point out how test scores can give opportunities to children who otherwise would not get them. For example, children from lower-level or even middle-level socioeconomic class backgrounds who would not be able to pay for certain kinds of schooling may receive admissions or scholarships on the basis of test scores. At the same time, there is a dialectic in action here, whereby opponents of testing, or at least of certain kinds of testing, argue that the conventional tests do more damage than good (Gardner, 1983; Sacks, 1999), taking away opportunities rather than providing them to many children.
+
+An important aspect of Binet’s theory has been lost to many. This was Binet’s belief that intelligence is malleable and could be improved by “mental orthopedics.” To this day, many investigators are interested in raising levels of mental functioning (see review by Grotzer & Perkins, 2000). But many other investigators, even those who use Binet-based tests, question whether intelligence is malleable in any major degree (e.g., Jensen, 1969, 1998).

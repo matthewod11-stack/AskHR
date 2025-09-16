@@ -1,17 +1,23 @@
-## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdebff88c78f94c383fba87d39d09294eb425de6
+title: R2405E-PDF-ENG
+---
+# Commitment: Leverage Your Advantages
 
-need to be mindful that if they’re too quick to invest a lot of money in
+Once a venture yields a breakthrough, hopes and expectations begin
 
-expanding the new project, they may waste resources and consequently
+to soar. This is usually the point where incumbents start to rethink
 
-lose the stakeholder support needed to see the innovation through.
+their role and increase their commitment, often by making serious
 
-Because of that, we sometimes call this phase of the innovation process
+investments in or acquiring start-ups. Though they want to ensure
 
-the “corridor of uncertainty.”
+they’re not overtaken by competitors or other entrants, incumbents also
 
-Instead of framing their commitment as an either-or investment
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-decision, smart incumbents see it as a carefully managed escalation of
+6
 
-their involvement. When working with start-ups, they will shift from a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

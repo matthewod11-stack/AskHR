@@ -1,11 +1,21 @@
-## HBR / Magazine Article / Lean Strategy Making
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdb5f5ea575864b5ead3c179f9cd7b4f47f07744
+title: R2503C-PDF-ENG
+---
+## sound. However, in many cases the strategic decisions themselves
 
-Performance fell short because there was nothing concrete for the
+were unclear, leading to uncoordinated—or even conﬂicting—actions
 
-organization to execute.
+that produced mediocre outcomes. In other cases leaders believed
 
-If a manufacturing process had a 25% defect rate, exceeded targeted
+they had made a decision when they really had only articulated a
 
-cycle times more than 45% of the time, and experienced a yield loss of
+desired outcome without deﬁning the actions needed to achieve it.
 
-more than 30%, it would be deemed unacceptable. Yet many companies tolerate those levels of ineﬃciency and ineﬀectiveness in their strategy
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

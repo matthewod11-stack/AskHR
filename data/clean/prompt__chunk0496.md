@@ -1,15 +1,23 @@
-## Available at: h(cid:459)ps://openreview.net/pdf?id=3bq3jsvcQ1
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 95e98c0c598b080d8fa46a6504e67480c4b724c9
+title: prompt
+---
+# Endnotes
 
-- 9. Wei, J., et al., 2023, Chain of Thought Prompting. Available at: h(cid:459)ps://arxiv.org/pdf/2201.11903.pdf.
+- 1. Google, 2023, Gemini by Google. Available at: h(cid:459)ps://gemini.google.com.
 
-- 10. Google Cloud Pla(cid:458)orm, 2023, Chain of Thought and React. Available at: h(cid:459)ps://github.com/ GoogleCloudPla(cid:458)orm/generative-ai/blob/main/language/prompts/examples/chain_of_thought_react.ipynb.
+- 2. Google, 2024, Gemini for Google Workspace Prompt Guide. Available at: h(cid:459)ps://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html.
 
-- 11. Wang, X., et al., 2023, Self Consistency Improves Chain of Thought reasoning in language models. Available at: h(cid:459)ps://arxiv.org/pdf/2203.11171.pdf.
+- 3. Google Cloud, 2023, Introduction to Prompting. Available at: h(cid:459)ps://cloud.google.com/ve(cid:457)ex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design.
 
-- 12. Yao, S., et al., 2023, Tree of Thoughts: Deliberate Problem Solving with Large Language Models. Available at: h(cid:459)ps://arxiv.org/pdf/2305.10601.pdf.
+- 4. Google Cloud, 2023, Text Model Request Body: Top-P & top-K sampling methods. Available at: h(cid:459)ps://cloud.google.com/ve(cid:457)ex-ai/docs/generative-ai/model-reference/text#request_body.
 
-- 13. Yao, S., et al., 2023, ReAct: Synergizing Reasoning and Acting in Language Models. Available at: h(cid:459)ps://arxiv.org/pdf/2210.03629.pdf.
+- 5. Wei, J., et al., 2023, Zero Shot - Fine Tuned language models are zero shot learners. Available at: h(cid:459)ps://arxiv.org/pdf/2109.01652.pdf.
 
-- 14. Google Cloud Pla(cid:458)orm, 2023, Advance Prompting: Chain of Thought and React. Available at: h(cid:459)ps://github.com/GoogleCloudPla(cid:458)orm/applied-ai-engineering-samples/blob/main/genai- on-ve(cid:457)ex-ai/advanced_prompting_training/cot_react.ipynb.
+- 6. Google Cloud, 2023, Google Cloud Model Garden. Available at: h(cid:459)ps://cloud.google.com/model-garden.
 
-- 15. Zhou, C., et al., 2023, Automatic Prompt Engineering - Large Language Models are Human-Level Prompt
+- 7. Brown, T., et al., 2023, Few Shot - Language Models are Few Shot learners. Available at: h(cid:459)ps://arxiv.org/pdf/2005.14165.pdf.
+
+- 8. Zheng, L., et al., 2023, Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models.

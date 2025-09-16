@@ -1,19 +1,23 @@
-## HBR / Magazine Article / Why Entrepreneurs Should Think Like Scientists
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2af788a099f2e53a6fb379a22c69d01abfb6ec1e
+title: F2404A-PDF-ENG
+---
+## Over a span of several months, large teams of research assistants
 
-campus, Mimoto realized that young people didn’t use them any more
+collected data on the companies and interviewed the founders regularly
 
-than older people did. Rather, people of all ages—especially those who
+by phone. One of the start-ups they followed was Mimoto, an electric-
 
-had unpredictable commuting patterns—picked up the mopeds as they
+moped sharing service. It set up an experiment to test its hypothesis
 
-passed through the campus. The entrepreneurs went back to the theory
+that college students hustling between classes would rather ride
 
-stage and, on the basis of the data gathered during the experiment,
+mopeds than walk. After placing dozens of mopeds near an urban
 
-determined that young professionals, particularly lawyers, were the
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-most likely to need mopeds, because they were constantly rushing to
+2
 
-and from meetings with clients. The company then pivoted to focus on
-
-that demographic.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,19 @@
-# insights into attachment theory.
+---
+source_path: H07VJW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 782269d5d80e8351e8d51572ef5a54e772c7ad0a
+title: H07VJW-PDF-ENG
+---
+# The Framework in Action
 
-- So What: Her work has changed the way many people go about
+What does this structure look like in practice? Here are three examples:
 
-making daily decisions. I am certain you will think diﬀerently when
+- 1. Introductions
 
-you leave here tonight.
+Introductions can often ramble and confuse. Using this structure can
 
-- Now What: Without further ado, join me in welcoming Dr. Clark.
+help you be clear and set expectations for what is to come.
 
-When you’re introducing something:
+When you’re introducing someone:
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- What: I am honored to introduce Dr. Clark, who is here to discuss her

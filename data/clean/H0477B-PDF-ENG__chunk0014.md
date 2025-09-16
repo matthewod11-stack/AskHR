@@ -1,15 +1,31 @@
-# HBR / Digital Article / Why Walmart Expanded Parental Leave — and How to Convince…
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8fd481d4f933002c49ff0735670afcb847b89215
+title: H0477B-PDF-ENG
+---
+# (six).
 
-afford to offer paid leave earlier. While companies will save money as
+So why did Walmart — sued just a few years ago by 1.5 million female
 
-a result of new U.S. tax policies — Politico estimates Walmart will save
+employees for gender discrimination — become a leader on parental
 
-$1-2 billion a year under the new plan — studies show that the costs of
+leave? Walmart has attributed the move to the recently passed corporate
 
-offering paid leave are minimal: a study in California, which is one of a
+tax cut, as have other companies expanding benefits or handing out
 
-handful of states to mandate paid leave, showed that 87% of employers
+one-time bonuses, but there are reasons to be skeptical of this. For one
 
-said offering paid leave cost them nothing, while 9% said it actually
+thing, the U.S. is currently near full employment, meaning the labor
 
-helped them save money.
+market is tight; companies know they need to work harder to get the
+
+best candidates. And corporate profits have been at all-time highs for
+
+years; I have trouble believing that companies flush with cash couldn’t
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

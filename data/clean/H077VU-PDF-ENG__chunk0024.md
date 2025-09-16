@@ -1,9 +1,9 @@
-# teams.
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6a988fb1dcc3a7cd15f401c1d444f47a7fc00ea
+title: H077VU-PDF-ENG
+---
+# HBR / Digital Article / High-Performing Teams Don’t Leave Relationships to Chance
 
-Fortunately, research indicates that leaders can do a great deal when
-
-it comes to nurturing employee friendships. By utilizing insights from
-
-the science of close connections to promote bonding, teaming, and
-
-productive collaborations, any leader can fuel their team’s need for
+it’s a powerful and underutilized tool for creating high-performing

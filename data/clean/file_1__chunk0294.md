@@ -1,3 +1,7 @@
-# Sample
-
-Since 1998 every four years the Finnish Ministry of Social Affairs and Health together with Statistics Finland conduct and publish the Equality Barometer, which observes the state of gender equality in Finland and examines men’s and women’s opinions and attitudes concerning it. Data from the Gender Equality Barometer 2008 (2008 Barometer) were utilized for the present study. These data were collected through telephone interviews conducted from January until March of 2008. The representative sample of the population consists of approximately 2,500 people aged 15-74. The response rate was 64%. The Barometer distinguished three essential types of population: full and part-time employees, full and part-time entrepreneurs or self-employed persons, and full-time students. For this study, the opinions and attitudes of only full and part-time employees were investigated, which resulted in a sample size of 610/606 employees. A brief description of the employees’ characteristics and their perceptions of both societal and workplace gender inequality are illustrated in Tables 1 and 2 correspondingly.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 7cae56f61c0058cecaf316ce7af55c007661b801
+title: file_1
+---
+# METHOD

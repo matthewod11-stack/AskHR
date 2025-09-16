@@ -1,47 +1,71 @@
-# binding.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: eeb5b70d25e5193de34f68dd6f00a583684128ad
+title: california_state_university_northridge_1
+---
+# The Use of Employee Handbooks
 
-Employers usually have the at~will employment verbiage in the application and not
+The purposes oflooking at an employee handbook is to answer the question, can a
 
-within the handbook. A person looking for a job completes several applications, but only
+handbook serve as an element of wrongful termination? In reply to the question, the
 
-can accept one offer. Once hired, he or she is given the employee handbook, which
+answer is yes. For this chapter, the fundamental issues are pitfalls that exist within an
 
-provides background about the company and its goals. Likewise, a new employee can
+employee handbook. An Employee handbook can and should serve as an instrumental
 
-obtain information on a variety of issues that a company chooses to disseminate and what
+tool for employees to acquire information about company policies and procedures.
 
-is employee finds interesting. A new hire may read that he or she could only be fired for
+Despite the fact that handbooks are sometimes written in a way that does not grab the
 
-the following as outliiied hi the handbook or read disciplinary action will occur in the
+employees attention and or make the organization appear to be interesting is not the
 
-following format. The disciplinary procedures stated are in reference to a progressive
+primary issues being addressed, that will be covered in another chapter. Based on the way
 
-20
+the employee handbook has been written, has caused lawsuits brought on by existing
 
-discipline approach. A progressive discipline approach is verbal reprimand, written,
+employees or ones who have a reasonable belief he or she was wrongfully terminated.
 
-suspension then termination. These are the key elements to progressive discipline; all
+The at-will erriployee doctrine, which states that the employer can
 
-components may not be used by every business. A termination based on progressive
+terminate the work relationship at anytime, with reason, without reason, without notice
 
-disciplinary action does not have to follow this sequence, and not following that order may
+a person acting as an agent of the employer may exercise the employment at-will doctrine
 
-constitute wrongful discharged. However, it is the absence that based on the infraction
+on any employee. According to the company, policies regarding status of employment, an
 
-any portion of this process can be omitted. This well constructed process without any
+agent of the employer would not be in violation of the law or company policy. However,
 
-disclaimer constitutes the basis for reasonable expectation in the mind of the employee in
+add an additional element to the equation, the employee handbook, which has expressly
 
-which termination would occur, and how discipline will be administered. The employee
+supporting documentation that an employee can only be terminated for theft of company
 
-handbook may be read several times by employees based on upon their particular
+properry ai1d or poor performance. The employee, who may be the subject of termination,
 
-situation. And if the employee performance is bad, he or she may read about the action
+19
 
-their supervisor, may take based on their performance. Again, the handbook has formed
+has received a rating of three or four [three being average and four above average] in the
 
-the basis of a reasonable expectation between employer and employee that any action
+last three years of employment with company X. An agent of the employer terminates the
 
-outside of the handbook or not comply1-ng with a sequential order may be viewed as a
+employee, who files charges against company X. The basis of the charge is employer's
 
-violation. A perceived violation by the employee can end up in court and or viewed as a
+termination did not fall into one of the two categories delineated within the handbook.
+
+Employer argues, the employee is an at-will employee therefore; his termination is within
+
+our rights. The fact the employee is an at-will employee, is correct, however, the
+
+termination is a violation of company policy. In this case, the employer would have lost,
+
+based on the language used in the handbooks. However, there are courts that would rule
+
+in favor of the at will employment status versus the handbook. The state of Missouri
+
+clings to the at will employment doctrine. On the other hand Kansas, only consider the
+
+verbiage in the handbook and an additional element to determine if an employment
+
+contract exist. If this case was in the state of Missouri, there is a possibility the plaintiff
+
+would have lost the case based on interpretation itl. the h~11dbook, as not necessarily being

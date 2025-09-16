@@ -1,11 +1,7 @@
-# Technologies
-
-Companies can work to address this gap by investing in their workers’
-
-skills—particularly workers who are less experienced or have less
-
-training. Making AI tools and training widely accessible could raise
-
-earnings potential, especially for those who are lower performing and
-
-earn less than their peers. In addition, many smaller companies can
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b505a688646e704d3d2f6140e2297da37a982df
+title: H08PLG-PDF-ENG
+---
+# societal eﬀects of this divide:

@@ -1,13 +1,27 @@
-## HBR / Magazine Article / How Apple Is Organized for Innovation
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ff2fc7a9a2b361626feb92e521551a54a6bed591
+title: R2006F-PDF-ENG
+---
+# Three Leadership Characteristics
 
-these attributes, decisions are made in a coordinated fashion by the
+Ever since Steve Jobs implemented the functional organization, Apple’s
 
-people most qualiﬁed to make them.
+managers at every level, from senior vice president on down, have
 
-Deep expertise. Apple is not a company where general managers
+been expected to possess three key leadership characteristics: deep
 
-oversee managers; rather, it is a company where experts lead experts.
+expertise that allows them to meaningfully engage in all the work
 
-The assumption is that it’s easier to train an expert to manage well
+being done within their individual functions; immersion in the details
 
-than to train a manager to be an expert. At Apple, hardware experts
+of those functions; and a willingness to collaboratively debate other
+
+functions during collective decision-making. When managers have
+
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

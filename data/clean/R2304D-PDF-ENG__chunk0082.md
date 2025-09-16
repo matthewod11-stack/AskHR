@@ -1,7 +1,13 @@
-## Maureen Conway from Aspen and Wilma Liebman, a former head of the
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c2913b1d605f15e009e79f8525b246ef4cf725a
+title: R2304D-PDF-ENG
+---
+## convened business leaders from a variety of industries for a series
 
-National Labor Relations Board. This article draws both from roundtable
+of private roundtables. Some participants have managed an organized
 
-conversations and from expert interviews that inform them, including with
+workforce; some are experimenting with other forms of shared governance
 
-Erica Smiley of Jobs With Justice, Damon Silvers of the AFL-CIO, Oren Cass
+or worker empowerment. The authors host each session alongside

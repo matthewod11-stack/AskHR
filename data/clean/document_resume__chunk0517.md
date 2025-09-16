@@ -1,5 +1,9 @@
-## c. Evaluating items for quality and congruence with domain specifications.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: a30fc149006cdbd1f1e7954842568c853a374480
+title: document_resume
+---
+# a. Two or three items per facet.
 
-- 5. Field-test the instrument and appraise the psychometric qualities of validity, reliability, item stability, etc.
-
-Using this general format suggested by Berk is a straightforward approach to rating scale development.26 Berk's general steps, however; apply to the development of other appraisal measures as well. Once the rating scale, or checklist or inventory of tasks, has been developed, Berk suggested the following triteria for ealuating items
+b. Available rating instruments and banks serving as resource.

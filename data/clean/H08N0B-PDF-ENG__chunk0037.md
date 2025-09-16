@@ -1,19 +1,35 @@
-# HBR / Digital Article / Does Returning to the Office Support Your Company’s Strategy?
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c147864eb13ddf43719c58fc25df31fb5c052e2a
+title: H08N0B-PDF-ENG
+---
+## indicators—such as employee engagement, retention, and team
 
-This article was originally published online on February 20, 2025.
+productivity—before and after manager training. Use these insights
 
-Ellen Ernst Kossek is the Basil S. Turner Distinguished Professor of Management Emerita at Purdue University and the 2025-2026 VMware Women’s Leadership Innovation Fellow at the Center for Advanced Study in the Behavioral Sciences at Stanford University. She is editing a special issue on remote and hybrid work for Organization Science.
+to ﬁne-tune programs and provide ongoing manager coaching.
 
-N. Sharon Hill is Professor of Management at the George Washington University School of Business. Her research aims to understand the positive and negative implications of diﬀerent virtual work arrangements (e.g., virtual teams, remote work, hybrid work) and the role of leadership at diﬀerent levels in virtual work success.
+Too many ﬁrms treat remote and hybrid work as a temporary
 
-Isabel Villamor is an Assistant Professor at IESE Business School in the Managing People in Organizations Department. Her research seeks to understand how diﬀerent aspects of the contemporary workplace such as remote work or online professional networks aﬀect career equality.
+adjustment or an afterthought, leading to inconsistent policies and
 
-Brenda A. Lautsch is the Beedie Professor of Management and Organization Studies at Simon Fraser University’s Beedie School of Business. Her current research examines work-life relationships, how ﬂexibility can be implemented to enhance work-life equity and inclusion, and how work and leisure can be more meaningful.
+missed opportunities. It’s no surprise some are yet again backtracking
 
-Matthew B. Perrigino is an Assistant Professor of Management at Baruch College’s Zicklin School of Business. His research interests address work-life ﬂexibility policies and work-life supportive leadership.
+and adopting return-to-oﬃce mandates. But instead of jumping on or oﬀ the latest remote and hybrid work bandwagon, your company can
+
+take a strategic, data-driven approach to embed remote and hybrid
+
+work into your business. As demands to adapt to the rapidly-evolving
+
+future of work intensify, the organizations that succeed won’t be the
+
+ones haphazardly reacting to trends but those that thoughtfully act to
+
+make hybrid and remote work as a core part of their strategy.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-10
+9
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,19 @@
-# performance. Homewood, IL: Dorsey.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a9d84a8d4a40f2cf175f4b632257d93654a5faf9
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Money talks. HR Magazine, 50(7), 44–65.
 
-Porter, S. R., (2004). Raising response rates: What works? In
+Pond, S. B., & Geyer, P. D. (1987). Employee age as a moderator
 
-Stephen R., Porter (Ed.) Overcoming survey research problems. San Francisco: Jossey-Bass.
+or the relationship between perceived work alternatives and job satisfaction. Journal of Applied Psychology, 72, 552–557.
 
-Posner, B. Z., Hall, J. L., & Munson, J. M. (1991). A ﬁ rst look
+Pool, S. W. (1997). Th e relationship of job satisfaction with
 
-at the beneﬁ ts of educational beneﬁ ts programs. Applied H.R.M. Research, 2(2), 128–152.
+substitutes of leadership, leadership behavior, and work motivation. Journal of Psychology, 131(3), 271–283.
+
+Poor, R. (1970). 4 days, 40 hours. Cambridge, MA: Bursk Poor.
+
+Porter, L. W., & Lawler, E. E. (1968). Managerial attitudes and

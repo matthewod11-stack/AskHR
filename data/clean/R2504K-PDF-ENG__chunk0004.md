@@ -1,25 +1,13 @@
-## HBR / Magazine Article / How to Identify the Perfect Cofounder
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e7d646893b3e459044930ad4a496c58725b0bcd0
+title: R2504K-PDF-ENG
+---
+## good: Research by entrepreneurship expert Noam Wasserman and
 
-others shows that conﬂict within the founding team is one of the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-primary reasons high-potential startups fail.
+1
 
-I’ve spent three decades as a successful, serial startup operator and
-
-an investor in entrepreneurial ventures, and I’ve seen ﬁrsthand what
-
-makes or breaks a cofounding team. I’ve worked for and with hundreds
-
-of entrepreneurs, I teach entrepreneurship at Harvard Business School,
-
-and I’ve surveyed over 100 founding management teams. My research
-
-and experience have revealed that when a great match happens it can
-
-be magic—but like any marriage, a cofounder relationship should not be
-
-entered into rashly. In this article, I oﬀer guidance to help entrepreneurs
-
-decide whether they need a cofounder, and if so, how to go about
-
-ﬁnding the right one.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

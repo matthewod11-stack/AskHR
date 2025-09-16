@@ -1,11 +1,13 @@
-# trustworthy.
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf25b526759c6acc29eb8588768ddeae75d82e33
+title: H071B9-PDF-ENG
+---
+# benevolent, and trustworthy.
 
-- 3. When things don’t go according to plan, individuals hide
+- 2. Individuals representing the old norm who are not experts in the area
 
-information or share an inaccurate picture of the situation to avoid
+of transformation hold back questions and hide ignorance and
 
-looking incompetent or like a failure.
-
-- 4. In cross-collaborative settings, individuals withhold information,
-
-questions, and ideas because there’s a history of distrust between
+knowledge gaps because they’re afraid to appear less competent and

@@ -1,15 +1,17 @@
-# yield powerful results.
+---
+source_path: H07M1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15495e51b5c1cf15c4e406e5921ce4e1ba61a129
+title: H07M1A-PDF-ENG
+---
+# face-to-face:
 
-For independent contractors, no one wants to work for less than they are worth or for free, and most people cannot aﬀord to, but sometimes
+- 1. Be gracious with your time. If you are on a team, raising your hand
 
-it’s strategic and acceptable to do so. For example, if you know that
+to support someone else’s project or going beyond the scope of your role
 
-working with this client will add credibility and valuable experience to
+to help others will make you an invaluable and memorable colleague.
 
-your business, and is likely to signal to other clients that you do good
+It is how people establish a collaborative reputation and often get
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+identiﬁed for internal mobility. If you have a goal to one day move into a diﬀerent department of your organization, proactively doing this can

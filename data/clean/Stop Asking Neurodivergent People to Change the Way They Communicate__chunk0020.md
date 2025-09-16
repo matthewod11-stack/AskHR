@@ -1,7 +1,7 @@
-# Fork Theory.
-
-Let me just say that this particular advice comes with a caveat,and I’ll get to that. But if you’re unsure of what an ND coworker orother ND individual in your life might want or need, ask!One of the most important questions I suggest asking is, “How doyou prefer to be communicated with?” Many of us struggle forvarious reasons with verbal instructions. This has been a source ofa lot of miscommunication and workplace misery for ND peoplelike me. When verbal communication is unavoidable, and it oftenis, following up with an email recap of a conversation or meeting,with action items highlighted, can be a lifeline. And if you’re in aposition to follow through, consider asking, “How can I bestsupport you?” — and mean it.The Caveat: Only a tiny fraction of ND workers feel safedisclosing their neurodivergence at work. According to a
-
-2017
-
-report, “among college-educated employees in white-collar workenvironments, 30% of those employees worked with some form ofdisability,” but only 3.2% chose to disclose their disabilities totheir employers. That includes all disabilities, not just theinvisible ones that fall under the ND umbrella (and not all NDpeople consider themselves disabled). Furthermore, a UK study in
+---
+source_path: Stop Asking Neurodivergent People to Change the Way They Communicate.md
+pages: n/a-n/a
+chunk_id: b2956de1746608c963b38f8ae06c323374f1c5de
+title: Stop Asking Neurodivergent People to Change the Way They Communicate
+---
+# Spoon and

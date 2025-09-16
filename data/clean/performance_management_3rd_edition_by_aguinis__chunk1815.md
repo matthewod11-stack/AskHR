@@ -1,5 +1,7 @@
-# employee
-
-alleging
-
-given to anyone or were not given to an employee who is not a member of the same protected class (e.g., religious minority, ethnic minority, women). On the other hand, if an organization receives a legal challenge, it needs to provide evidence that the decision made was based on a legitimate and nondiscriminatory that was clearly performance related. In contrast to illegal discrimination, legal discrimination, an essential characteristic of a good performance management system, differentiates among employees based on performance-related factors.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: d48a75141eab9f8f4b979faeadb51d80e63965d7
+title: performance_management_3rd_edition_by_aguinis
+---
+# an

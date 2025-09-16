@@ -1,17 +1,27 @@
-# HBR / Digital Article / When New Hires Get Paid More, Top Performers Resign First
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d6ee6244ef947646da23614924d501813cc6087b
+title: H081SB-PDF-ENG
+---
+# Address pay inequities ASAP.
 
-otherwise would — and they resigned more than twice as quickly if pay
+Next, once an inequity has been identiﬁed, it’s critical to address
 
-adjustments took an entire year.
+it as soon as possible. While some organizations may be tempted
 
-To get ahead of this, rather than waiting for an unhappy top performer
+to leave pay adjustments to annual reviews or lengthy performance
 
-to complain to their manager (or even worse, to just turn in their two
+management processes, our research demonstrates that that simply
 
-weeks’ notice), organizations should proactively oﬀer compensation
+isn’t good enough. As we mentioned previously, in our study, a delay
 
-adjustments as soon as they notice a disparity. This doesn’t mean that
+of just six months in addressing pay disparities between new and
 
-new hires can’t be oﬀered competitive rates. But it does mean that if
+existing employees led workers to resign 1.8 times sooner than they
 
-you want to keep your existing employees, you need to adjust their
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

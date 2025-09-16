@@ -1,11 +1,23 @@
-## HBR / Digital Article / How to Steer Clear of Groupthink
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c363db1a28424b62d3d91b7ec15db563ec57196e
+title: H06W7A-PDF-ENG
+---
+# idea work.
 
-Also, delaying agreements means one thing most group members
+- 3. They celebrate progress towards final agreement.
 
-dislike — more and longer meetings!
+When groups are tasked with coming to consensus on a course of action,
 
-Teams who adopt a liminal idea can come to consensus around the
+agreement feels good — it denotes progress and group belonging.
 
-“why” of an idea, even if they disagree about how they’re going to
+Delaying agreement can feel very stressful as it requires acknowledging
 
-execute it. They can then frame a lack of final agreement as progress
+uncertainty, which groups can interpret as failure or a lack of progress.
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,27 +1,33 @@
-# the only choice for an employee.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 8d310bbbc60d4ae8222286d4a7bc7a3d452108a5
+title: california_state_university_northridge_1
+---
+## The Prudential Insurance Company of America associates have developed Roads
 
-6
+to Resolution. Road to Resolution is an internal mechanism that has been designed to
 
-Another area to be analyzed, is preventive measures, found in chapter six.
+address employment related issues. Roads to Resolution has four steps. If the associate is
 
-Preventive measures for wrongful termination, range from a disclaim.er placed in an
+not successful at step one, then they may progress to the next step. Step four, which is
 
-employee handbook to a legal audit. Handbooks were discussed in chapter two, as well as
+the final step, is the last choice before outside assistance. The complexities of each step
 
-the effectiveness they can have in focusing in on key concepts. Having a human resource
+will he detaileci in the chapter_
 
-representative review the handbook can reduce instances of litigation. Next, the employee
+The EEOC and the courts are outside options for employees for any organization
 
-would read the handbook and sign a statement to acknowledge that they have read the
+unless they have special arrangements at the start of employment. Even if a special
 
-handbook this is then kept in their personnel file.
+arrangement exists, it may be possible to have that option to challenge. The EEOC
 
-For management level employees, the research shows that training on critical
+addresses work related complaints and conducts investigations if necessary. The request
 
-business issues should be addressed along with human resource issues. Business should
+and guidelines set fo1th by the EEOC are not taken lightly. Moreover, the courts carry a
 
-design a program that covers problems that are tailored to their needs along with standard
+lot of weight and are costly for both the employer and employee. Along with court costs,
 
-personnel practices, to ensure competent managers. Further research also shows that a
+there is a time frame for a trial, along with possible appeals from the losing party. The
 
-well-trained staff will result in successful termination suits; the key here is consistency
+research wJl show that although both of these options are time consUIT.iing; they may be

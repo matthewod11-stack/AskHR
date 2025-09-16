@@ -1,15 +1,23 @@
-# HBR / Spotlight / New Rules for Teamwork
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8851566495d2d45f5f01dbab56d59a5fde588023
+title: S24051-PDF-ENG
+---
+# manufacturing to software development.
 
-and design expertise from our 7,000-plus experts while working with
+Rob Tringali is a sports photographer who has captured everything from the Super Bowl and the Olympics to obscure sporting events and high school football games.
 
-other colleagues to build strong relationships and think strategically.
+At McKinsey, we have created a new team operating system—known as
 
-Designed to foster this collaboration across geographies and at scale,
+the Way We Work (WWW)—that reframes, reshapes, and improves on
 
-WWW can be used by any team, regardless of size, location, or mission.
+the principles of agile teamwork. To do their jobs well, our team leaders
 
-Consider the example of a Latin American bank that called us in
+need to be able to bring together the best thinking, analysis, coding,
 
-to consult on a transformation of its digital strategy and operations.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Things got oﬀ to a rocky start. The bank was working not only with
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

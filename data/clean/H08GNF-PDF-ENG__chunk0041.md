@@ -1,9 +1,15 @@
-# candidate.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb31b6f8df64afc15151a216ce2104b59256dc93
+title: H08GNF-PDF-ENG
+---
+# development of your app.
 
-- 3. Highlight your unique knowledge, experience, and expertise.
+By telling a story about a challenge with an app and connecting the
 
-As you prepare your answers, also consider what you bring to the
+dots at the end to the company’s business needs as listed in the
 
-position that no other candidate can bring. Your unique value could
+job description, you would demonstrate the technical, analytical, and
 
-be skills from previous jobs, your educational background, or your
+collaboration capabilities that would make you stand out as a strong

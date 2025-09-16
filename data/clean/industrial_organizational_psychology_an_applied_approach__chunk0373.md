@@ -1,7 +1,7 @@
-# JOB POSTINGS
-
-Does all this noise affect my employees’ performance?
-
-High levels of noise will increase the number of errors made in assembling electronic components.
-
-Noise causes a distraction, making it difficult to concentrate.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0880d1414cb09cfec1d8d3f3d9aeb22e6b94c5de
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Figure 1.3 Hypothesis Example 2

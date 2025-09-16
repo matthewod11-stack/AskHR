@@ -1,15 +1,21 @@
-## and transparent. As former Starbucks CEO Howard Schultz put it, “The
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2837d20638bb4b467f6ae363da9c6286349b955
+title: R2503K-PDF-ENG
+---
+# Too Much Transparency
 
-currency of leadership is transparency.” But those values chafe against
+Trust in leadership is at an all-time low. According to the 2025 Edelman
 
-the more nuanced, discreet communication styles preferred by much
+Trust Barometer, a majority of people in 28 countries believe their
 
-of today’s global workforce. It’s not that team members from other
+leaders are deliberately misleading them. This isn’t only happening
 
-cultural contexts don’t value transparency; they just expect leaders to
+in countries that prefer ﬂat leadership structures, such as the United
 
-communicate transparently in ways that align with their own cultural
+States and Sweden. Leaders’ credibility is also low in places like Japan
 
-norms. Global teams need their leaders to have a broader repertoire of
+and France that prefer top-down leadership. The conventional wisdom
 
-communication styles so that they can eﬀectively gain the trust of team
+in the West is that leaders gain trust by being vulnerable, authentic,

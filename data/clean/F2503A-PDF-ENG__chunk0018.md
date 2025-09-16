@@ -1,23 +1,19 @@
-# consequences.”
+---
+source_path: F2503A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12609b46a6f6eb6c1f385766460ef0d78d1d019c
+title: F2503A-PDF-ENG
+---
+# HBR / Magazine Article / Why CEOs Should Think Twice Before Using AI to Write Mess…
 
-About the research: “The Wade Test: Generative AI and CEO Communication,” by Prithwiraj Choudhury et al. (working paper)
+communications, really) to ensure their meaning, tone, and personality
 
-“When I Use Gen AI, I Must Stand by Everything in the Message”
+align with what you intended.
 
-Wade Foster is cofounder and CEO of Zapier, a fully remote global software
+“Never press send without reading and fact-checking the message,”
 
-company. He recently spoke with HBR about Professor Choudhury’s
+Choudhury says. “Gen AI is a great tool that will save CEOs a lot of
 
-experiment and how a chatbot trained on his writing changed his creative
+time, but I don’t think you can let it run completely on its own. Even if it
 
-process. Edited excerpts of the conversation follow.
-
-How do you use generative AI for
-
-writing?
-
-I use it to draft long emails and Slack
-
-messages. It’s also good at composing
-
-answers to FAQs and handling templated
+answers only one question incorrectly, you will suﬀer huge unintended

@@ -1,7 +1,9 @@
-# Demonstration of Inclusive Leadership
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: 70ffbce0e956703ada5d78ed78ec1bc0a7dd66d7
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# Roberson and Perry
 
-Our study also explored leader accounts of behaviors for demonstrating inclusive leadership. Consistent with the emergent themes related to leaders’ conceptualization of inclusive leadership, we identiﬁed behavioral themes that represent a subset of actions for inviting and appreciating team members’ contributions and leveraging those contributions to enhance work processes and outputs. The results showed efforts to attract, build, motivate, and retain diverse workforces to be considered critical for fostering inclusive work environments, although encouraging and valuing the diversity in member talents were also highlighted as important. Diverging from the ﬁndings of inclusive leadership research, leaders in our study also drew attention to responding to team member needs by enabling their contributions in areas that offer a ﬁt to their unique skill sets. Notably, however, inclusive approaches to doing so were noted to involve assigning members to projects for which they might be well-suited as well as asking members for their perspectives on how and where they might best contribute.
-
-Also congruent with prior research ﬁndings, the results of this study emphasized behaviors related to inviting and acknowledging others’ view- points. Importantly, leaders highlighted the importance of providing team members with opportunities to voice their opinions and provide feedback in different ways and encouraging member input even when their opinions may be divergent from those of the leader or others in the team. As team par- ticipation norms may inﬂuence who speaks up and who gets heard, inviting input in different forums or via different mechanisms may account for in- dividual communication styles and decrease the potential effects of commu- nication barriers on team processes and performance. Further, leader behaviors to facilitate communication with and between team members may increase the likelihood that each member’s knowledge, skills, and perspectives are in- corporated into the team’s work. Our ﬁndings also suggest that purposefully inviting disagreement and debate may be useful for eradicating intragroup boundaries and engaging those who might typically be excluded from decision- making processes. As such, future research should examine leader commu- nication behaviors as a key component of inclusive leadership models.
-
-Building upon the set of inclusive leadership behaviors identiﬁed in prior research, our results highlight the importance of leaders’ responsibility for creating opportunities to engage with team members. In line with inclusive
+highlight the importance of distinguishing between actions to build and maintain inclusive environments versus providing approval or implicitly granting individuals permission to engage with the group’s work.

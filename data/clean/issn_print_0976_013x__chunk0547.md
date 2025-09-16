@@ -1,1 +1,7 @@
-# Std.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: b139fe4b784dd0ddbd73df56b740a8c50bcaea38
+title: issn_print_0976_013x
+---
+# Mean

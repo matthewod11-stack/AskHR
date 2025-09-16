@@ -1,19 +1,17 @@
-## employees and managers, C-suite executives, board members, and
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dcee673d91f7a633727cc3662c0d528f2b05942e
+title: H07XDL-PDF-ENG
+---
+## proposition. But as longtime consultants to organizations around the
 
-retirees — to help them develop their individual life strategies.
+world, we wondered: Could we adapt the model for strategic thinking
 
-You can create a life strategy at any time, but it can feel especially
+that we use with institutional clients to help individuals design better
 
-appropriate at certain milestones — a school graduation, the start of
+futures for themselves? The answer is yes, and the result is a program
 
-your ﬁrst job, a promotion, becoming an empty-nester, retiring — or
+that we call Strategize Your Life. We’ve tested it with more than
 
-after a major life event, such as a health scare, a divorce, the loss of a job,
-
-a midlife crisis, or the death of a loved one. When you have a strategy,
-
-you will be better able to navigate all those transitions and diﬃcult
-
-moments, building resilience and ﬁnding more joy and fulﬁlment while
-
-minimizing stress. This article will help you get started.
+500 people — including students, young professionals, middle-aged

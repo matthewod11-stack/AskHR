@@ -1,9 +1,23 @@
-## outcomes with substantial implications for long-term business effects.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: ba21f22e4df4fc39fa4c4fe79c61f653600c2269
+title: i
+---
+# on ROI:
 
-The evidence-based approach also proves that PA has a high ROI for the organization. PA,
+- PA as a strategic management tool
 
-with its methods and techniques, is a powerful tool for management to understand their
+- Evidence-based approach in PA
 
-employees at the individual level, as well as the whole organizational performance. The
+- PA as a decision-making support tool
 
-evidence-based approach also seeks advice on tools and analytical methods for each specific
+- Future of PA as management fad
+
+As a management tool, PA is proven to have a positive impact on organizational development
+
+and yields a high ROI for the organization. More specifically, when instilled in the management
+
+process, analytics accommodates the strategy-making with measurement, metrics, and
+
+prediction. The author highlights the prediction of turnover rates as a notable example of PAl

@@ -1,9 +1,11 @@
-# 206 Developmental Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 377f902d8ae9be586bacac7c9bc4a495b7800ac1
+title: untitled
+---
+# Appraisal of the Current Era
 
-emphasis on behaviorist and normative development, its focus on experimental child psychology and social learning theory, was a sharp departure from the origins of the ﬁeld. What Cairns noted two decades ago is still true today: “An overview of the past suggests that today’s investigators are as much determined by history as they are makers of it. The major issues of the present appear to be, in a large measure, the same ones that thoughtful contributors to the science have addressed in the past” (Cairns, 1983, p. 90).
+will whet the reader’s appetite for further exploration. Fuller reviews of our historical roots are available in Parke, Ornstein, Rieser, and Zahn-Waxler (1994) and Cairns (1998), and a reprint series of original articles and volumes by earlier theorists is available in Wozniak (1993a, 1993b, 1994, 1995). We have divided the history of developmental psychology into ﬁve time periods—the beginning years of developmen- tal psychology (1880–1914), the period of institutionaliza- tion and fragmentation (1915–1940), the era of expansion (1940–1960), the rise of contemporary themes (1960–1985), and the current period (1985 to present). Across these peri- ods, we discuss recurring issues of theory and method to illustrate the ways in which there has been both constancy and change in developmental psychologists’ views of the central issues of the ﬁeld. We argue that, in many regards, there have been major strides in the subtlety of the distinc- tions and the sophistication of the measurements and designs brought to bear on developmental questions. At the same time, there is much consistency between the perspectives of our ancestors of a century ago and the views of contemporary developmental theorists.
 
-Why are we returning to the concerns of our distant past? One reason is that our forebears were wise in their choice of questions and raised enduring issues. Another reason is that, in the middle period, developmentalists took some detours away from the original goals of the ﬁeld in their enthusiasm for establishing a separate science on the basis of positivistic principles. The ﬁeld’s behavioristic focus promoted a prolif- eration of excellent methods and technological advances but ignored basic questions of biology, consciousness, and cogni- tion. Today, as the beneﬁciaries of both the early and the middle eras, we are in a position to ask again the old ques- tions and address them in more methodologically sophisti- cated ways.
-
-THE BEGINNING YEARS (1880–1914)
-
-The beginning years of the ﬁeld of development can be char- acterized in two ways. One way is to describe the ﬁgures who ﬁrst forged the ﬁeld; the other way is to describe their posi- tions in terms of modern theoretical distinctions.
+Another thesis is that the agenda of contemporary devel- opmental psychology has more in common with the ﬁeld’s agenda from the turn of the century than with the agenda of the middle era (1920–1960). This middle period, with its

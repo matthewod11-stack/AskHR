@@ -1,9 +1,15 @@
-## along with scorecards, such the Stanford Center for Research on
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f93bc6a7688c6afff2d21d08a0ac79fb85a8df84
+title: H08PLG-PDF-ENG
+---
+# Institutions
 
-Foundation Models’ transparency scores. “AI interpretability” studies
+Several organizations are working to instill trust-building in AI and can
 
-in healthcare, and training from the AI developers or intergovernmental
+oﬀer guidance on how to do so. These include academic institutions,
 
-bodies are also key to ensuring trustworthiness of AI. Employers can
+such as the Institute for Ethics in AI at Oxford; non-proﬁts, such as the
 
-also train workers in detecting unreliable AI-generated information.
+Partnership on AI; and initiatives funded by multiple philanthropies,

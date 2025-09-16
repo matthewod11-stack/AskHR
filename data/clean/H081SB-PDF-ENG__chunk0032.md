@@ -1,3 +1,9 @@
-# PB
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37e9521494d14b8df835a0a3ec0ca833f3738024
+title: H081SB-PDF-ENG
+---
+# AD
 
-Peter Bamberger is a professor of organizational behavior and the head of the organizational behavior department at the Coller School of Management, Tel Aviv University. He is the former editor in chief of Academy of Management Discoveries and currently serves as the President-Elect of the Academy of Management, as well as the research director of the Smithers Institute of Cornell University’s ILR School. He is a world-leading expert on compensation strategy and pay communication. His work has been cited over 15,000 times.
+Andrea Derler is Visier’s principal of research and value, where she collaborates with Visier’s team of data scientists, people analytics experts, as well as HR professionals to help produce practical, data-driven insights for organizations. Visier is a Canadian-based people analytics technology provider, which maintains a database of more than 15 million employee records from over 15,000 companies globally.

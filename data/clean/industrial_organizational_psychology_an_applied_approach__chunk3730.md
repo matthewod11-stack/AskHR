@@ -1,5 +1,11 @@
-# Paid sick days Lowest Median
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bf2ab07d8cffb352d30ecbddd59c535e13e0b5cb
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Median Highest
 
-0 3
+8 27
 
-0 9
+10 25

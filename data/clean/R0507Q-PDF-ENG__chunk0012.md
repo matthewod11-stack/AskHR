@@ -1,7 +1,25 @@
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4cac33f28b9042ca49946502610bb259259d03a
+title: R0507Q-PDF-ENG
+---
 ## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
 
-suggestion. One manager described the proliferation of new measures at
+See more HBR charts in Data & Visuals on HBR.org.
 
-his company as its “kill another tree program.” The balanced scorecard
+While giving senior managers information from four diﬀerent
 
-forces managers to focus on the handful of measures that are most
+perspectives, the balanced scorecard minimizes information overload
+
+by limiting the number of measures used. Companies rarely suﬀer
+
+from having too few measures. More commonly, they keep adding new
+
+measures whenever an employee or a consultant makes a worthwhile
+
+Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

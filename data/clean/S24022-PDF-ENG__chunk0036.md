@@ -1,17 +1,23 @@
-## HBR / Spotlight Article / Create a System to Grow Consistently
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf4c8d618cc2e79e70a4932901a0237edf41d87c
+title: S24022-PDF-ENG
+---
+## enable individuals, social inﬂuencers, marketers, and celebrities to
 
-in-platform user-to-user call features to expand engagement. Roblox
+create ever-expanding forms of content. Event producers use Roblox to
 
-also looks for ways to embed its platform in devices with active gamer
+create virtual concerts to promote their bands’ live tours, and sponsors
 
-populations, such as Sony PlayStation, and in emerging domains such
+can place advertisements in them. Celebrities and social inﬂuencers
 
-as virtual reality headsets. When people use these assets, they generate
+can create personalized, lifelike 3D avatars enabled by the latest AI.
 
-in-game, easily convertible currency, called Robux. That allows Roblox
+Video game developers can create calendars, community forums, and
 
-to connect the number of daily active users and engagement hours with
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-revenue growth. And that, in turn, helps the company decide where to
+9
 
-make its next wave of growth investments.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

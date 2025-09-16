@@ -1,15 +1,29 @@
-## our company leadership awards and annual leadership conference.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 969f2061cbf1fb6b711810d9c5a2b05edf06ed66
+title: H07QP9-PDF-ENG
+---
+# great leadership.
 
-Many organizations have leaders just like “Taylor” — curious,
+We embedded our Leadership Playbook into our hiring, onboarding,
 
-motivated, and eager to do the right thing for their company and team
+and performance management processes. We mapped behavioral
 
-but working against organizational headwinds. Taking steps to create
+interviewing questions to our playbook for use when hiring leaders.
 
-an environment and culture that supports and ampliﬁes, rather than
+For example, to get at our leadership behavior of “Deﬁne success and
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+galvanize the team around it,” we included the interview question:
 
-7
+Describe a time that you had to inﬂuence others to move in a direction
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they were initially resistant to go in. What did you do?
+
+Every employee is introduced to the playbook during employee
+
+orientation and all new executives take part in a year-long deep dive as
+
+part of our executive onboarding. The Leadership Playbook is the rubric
+
+we use for performance and promotion decisions, and is foundational to

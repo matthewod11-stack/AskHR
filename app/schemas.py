@@ -1,30 +1,38 @@
 # app/schemas.py
+from __future__ import annotations
+from typing import Optional, Dict, List
 from pydantic import BaseModel
-from typing import List, Dict, Any
+
 
 class SearchRequest(BaseModel):
     query: str
     k: int = 8
 
+
 class SearchHit(BaseModel):
     text: str
-    distance: float
-    meta: Dict[str, Any]
+    score: float
+    meta: Dict
 
 
 class SearchResponse(BaseModel):
     results: List[SearchHit]
 
+
 class AskRequest(BaseModel):
-    """
-    Request model for /v1/ask endpoint.
-    """
     query: str
     k: int = 8
+    system: Optional[str] = None
+    grounded_only: bool = False
+    model: Optional[str] = None
+
+
+class Citation(BaseModel):
+    display_name: Optional[str] = None
+    open_url: Optional[str] = None
+    pdf_url: Optional[str] = None
+
 
 class AskResponse(BaseModel):
-    """
-    Response model for /v1/ask endpoint.
-    """
     answer: str
-    citations: List[str] = []
+    citations: List[Citation] = []

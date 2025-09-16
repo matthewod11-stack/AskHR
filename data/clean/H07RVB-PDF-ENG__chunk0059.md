@@ -1,27 +1,19 @@
-## career to share my authenticity in that sphere as well.
-
-ADI IGNATIUS:
-
-So I want to go to a question from Darcy from Wisconsin. What are your
-
-thoughts on incorporating metrics, performance measures, to include
-
-LGBTQ+ measurements of some kind? And if you think that’s good,
-
-what kind of metrics would you recommend?
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e7459f9e3a0fd07d2f8ba753c4d95826c4d3566
+title: H07RVB-PDF-ENG
+---
+# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
 
 JIM FIELDING:
 
-It’s interesting, I’ve had this conversation in higher education. I do a lot
+You can’t take anything for granted. I write in the book, “Democracy is
 
-of work in higher education where I would love to see on the admission
+work and it’s a responsibility, not a right.” I’ve always been politically
 
-forms or on applications if people chose to identify as a member
+active, and I’ve always been a donor and use my voice. And I think now
 
-of the queer community that we could actually track. Because even
+that I work in a diﬀerent type of company, in a smaller company with
 
-just self-identifying as a community and being actually able to track
-
-the percentage of students who identify with a particular community
-
-could help towards allocating resources and recognizing the size of the
+like-minded partners, I’m even more free than I’ve been earlier in my

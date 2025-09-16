@@ -1,7 +1,7 @@
-# REFERENCES
-
-Acker, J., 2006a. Inequality regimes: gender, class and race in organizations. Gender and
-
-Society, 20 (4), 441-64.
-
-Baker, J., Lynch, K., Cantillon, S. and J. Walsh, 2004. Equality: From Theory to Action.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 8fa922176539b2c5bf2e9ee55c7e7d8b37c07168
+title: file_1
+---
+# 81

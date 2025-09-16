@@ -1,7 +1,9 @@
-## COBRA notiﬁcation and disclosure provisions.
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: 49556cf7c6dc551cdda6ff1fc8eccff32caccc6b
+title: Employment Law Guide - Employee Benefit Plans
+---
+# continuation coverage.
 
-Jurisdiction of the Internal Revenue Service. The IRS has regulatory and interpretive responsibility for all
-
-provisions of COBRA not under the Department of Labor's jurisdiction. In addition, the IRS generally
-
-administers and interprets the ERISA provisions relating to participation, vesting, funding, and beneﬁt accrual, contained in parts 2 and 3 of Title I.
+The Department of Labor's regulatory and interpretive jurisdiction over the COBRA provisions is limited to the

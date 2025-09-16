@@ -1,33 +1,19 @@
-## HBR / Digital Article / Team Leaders Need Better Data, Faster
+---
+source_path: Team Leaders Need Better Data, Faster.md
+pages: n/a-n/a
+chunk_id: 2b8f000f6f48d7c32583b92ba9295ca7be1be398
+title: Team Leaders Need Better Data, Faster
+---
+# member in the real world.
 
-chief concerns are simply: a) what are the strengths and capabilities of
+Moving forward, performance management systems should be designed
 
-each team member? and b) how can I focus each person on the right
+to address the practical concerns of team leaders. Once broad
 
-outcomes this week, and the next? It will be a challenge to design tools
+organizational priorities have been communicated, the team leader’s
 
-that are simple, agile, and ﬂexible enough to support team leaders in
+Copyright © 2015 Harvard Business School Publishing. All rights reserved.
 
-answering these questions, but it will be impossible if we don’t keep in
+3
 
-mind whom the tools are actually for.
-
-Challenging though it may be, the wonderful thing about designing
-
-performance and engagement tools for the team leader is that they will
-
-be constantly in use, and as a result will generate real-time and reliable
-
-data from within the team. This is the brass ring for any organization
-
-—to be able to see, right now, which teams are most productive and
-
-engaged, and which aren’t. At present it lies beyond our grasp. Our
-
-once-a-year ratings and surveys, deployed by and for the organization,
-
-provide no insight into what is going on inside each team. Ask the
-
-senior executives in your organization: “Today, which are our most
-
-productive and engaged teams?” They are forced to guess. They have no
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

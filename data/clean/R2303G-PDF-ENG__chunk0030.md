@@ -1,19 +1,25 @@
-## HBR / Magazine Article / The Leadership Odyssey
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e172d5756acdb025dcdcf39417d7b587d697d48
+title: R2303G-PDF-ENG
+---
+# later with their own teams.
 
-Many leaders underestimate the extent of change required and need the help of a trusted partner—an adviser, a mentor, or a coach.
+Take Karen, a leader in a big industrial ﬁrm who had worked her way up
 
-Luckily, at around that time she took on an external board role
+through the hierarchy by cultivating a directive leadership style. With
 
-that gave her an opportunity for outside-in learning. The board
+every promotion, Karen had taken on additional responsibilities, but
 
-meetings demanded that she and her fellow directors navigate complex
+when she ﬁnally moved into a C-suite position, she realized she wasn’t
 
-multistakeholder situations with competing interests, and to do that
+well-known outside her division and didn’t know how to lead people
 
-work successfully she had to learn how to exert inﬂuence without
+who weren’t her direct reports.
 
-authority—for example, by asking questions and probing for desired
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-outcomes. She was able to sharpen those skills further when, in addition
+7
 
-to her new role in the C-suite, she was asked to lead her ﬁrm’s diversity,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,1 +1,7 @@
-# September–October 2022  9
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8157bbc90af90c3b9311d02a7b40f02b402ff8c
+title: R2205G-PDF-ENG
+---
+## FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG

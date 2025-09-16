@@ -1,13 +1,17 @@
-# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 314e3d827f15953454ac18cc6962a0fbb796805d
+title: H08HKF-PDF-ENG
+---
+# necessary.
 
-to implement, scale, and maintain an enterprise-wide RAI program. If
+To help leaders get oﬀ to the right start, we suggest a series of questions
 
-your organization can answer “yes” to all of these questions, it’s likely
+that acts as a checklist to determine whether your organization is ready
 
-in a good position to implement. If you answer “no” to any of them,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-we highly recommend slowing down the implementation of your RAI
+2
 
-program and waiting to complete the design until the answer is yes.
-
-While this may feel like a step backwards, it will ultimately propel implementation faster and more eﬀectively than charging ahead.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

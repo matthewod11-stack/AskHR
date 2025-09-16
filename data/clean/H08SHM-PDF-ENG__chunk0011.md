@@ -1,11 +1,21 @@
-## HBR / Digital Article / What Gets Measured, AI Will Automate
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f1908a4f4ec27c12b5bc65c7dee9d29f49a09a8
+title: H08SHM-PDF-ENG
+---
+## translation, swaths of creative writing, design, and even everyday
 
-users ask the AI to perform a task directly as opposed to helping
+coding are being handed oﬀ to AI.
 
-them iterate and think it through. That share will keep climbing as
+In February, Anthropic shared revealing user stats: although the chat
 
-modular AI agents enter the workforce, trading data and coordinating
+format naturally steers people toward human augmentation, about 43%
 
-tasks through protocols like MCP. Environments that are extensively
+of interactions already represented some form of automation, in which
 
-measured or codiﬁed—whether through laws, tax codes, compliance
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

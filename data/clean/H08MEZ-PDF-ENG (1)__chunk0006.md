@@ -1,9 +1,9 @@
-## private employers. However, states like California and Illinois already
+---
+source_path: H08MEZ-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 2193c6576cf7174c8fac6afcc44b4cd695ad8a58
+title: H08MEZ-PDF-ENG (1)
+---
+## HBR / Digital Article / The Challenge of Navigating U.S. Employment Law in 2025
 
-have laws on the books requiring employers to collect and report race,
-
-gender and pay data to the state. These states are likely to oppose
-
-federal attempts to curtail race and gender-based data collection and
-
-continue to push companies to focus on diversity and equity, placing
+to eliminate DEI initiatives in the government and discourage them in

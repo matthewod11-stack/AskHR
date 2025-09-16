@@ -1,15 +1,25 @@
-# blind.
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7bd8f0fe1faf8de15c51f3cf3931214f8c0dd9b7
+title: H08P2F-PDF-ENG
+---
+## Over the past decade at Harvard University, more than 50 major capital
 
-To truly understand what risks you’re taking on, you need to know
+projects covering more than 5 million square feet of real estate on
 
-exactly what’s in your wall and ﬂoor coverings, furnishings, and
+our campus—plus many interior renovation projects—have followed a
 
-workplace accessories. So, the ﬁrst step in our playbook is simply to
+simple, two-part playbook. And along the way, we’ve collaborated with
 
-get an ingredient list for every product you’re adding. You might do
+several major corporations that are working toward the same.
 
-the same for those already purchased, though we realize that ﬁnancial
+- 1. Demand transparency.
 
-realities might prevent you from replacing items before their end-of-life.
+When your organization buys products for its buildings, manufacturers
 
-If that’s the case, simply focus on the future. Tell your suppliers that you
+seldom provide an ingredient label like you get with food. And those
+
+that do provide building materials labels rarely, if ever, indicate whether
+
+they contain forever chemicals. As a result, we’re essentially ﬂying

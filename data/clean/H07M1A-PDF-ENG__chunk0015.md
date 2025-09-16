@@ -1,15 +1,31 @@
-# unreliable.
+---
+source_path: H07M1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c3fb5e62ecb5c6a2858556dde82be983d6ac88c
+title: H07M1A-PDF-ENG
+---
+# scorecard.
 
-Conversely, I’m sure you can easily name the people you know you can
+Even so, if you’re working to improve your executive functioning
 
-count on and who earn the covetable reputation of consistently being
+(organizing, prioritizing, etc.) or your skills in managing yourself,
 
-great to work with. You are conﬁdent these people can deliver whatever
+drafting a to-do list might not be suﬃcient. Instead, consider making
 
-you ask of them well and on time. Because of this, you are likely to call
+meetings with yourself to block the time for each task on your calendar.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+This can help you accomplish what you need to in the assigned
 
-4
+timeframe and will support you in delivering on your word.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Despite the clear beneﬁt in doing what you say you will, how many
+
+times has someone promised you that they would make an introduction
+
+for you but then ghosted you? Can you count how often someone owed
+
+you something that was done incompletely or past a deadline? There
+
+are way too many instances to count. The risk of unfulﬁlled promises
+
+is that when you fail to deliver, you become labeled as someone who is

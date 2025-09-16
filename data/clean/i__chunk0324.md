@@ -1,11 +1,13 @@
-## attrition_data.drop(col, axis=1, inplace=True)
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 4703e54037fe9c3eb30980a25ae75774c2a77279
+title: i
+---
+# for col in attrition_data.columns:
 
-This code detects and drops three columns, which has only one value.
+uniques = len(attrition_data[col].unique())
 
-Dropping col: EmployeeCount
+if uniques == 1:
 
-Dropping col: Over18
-
-Dropping col: StandardHours
-
-57
+print("Dropping col: ", col)

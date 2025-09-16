@@ -1,27 +1,13 @@
-# open exchange of ideas.
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8ae638239ae90141330ce2363960552265ed80f
+title: H08SUP-PDF-ENG
+---
+## authentic, positive, and free of status-laden cues. These behavioral
 
-Importantly, these changes also translated into better decisions. After
+shifts and changes in linguistic patterns ultimately helped reduce
 
-the change in voting protocols, drugs recommended for approval by the
+the psychological and social costs typically associated with oﬀering
 
-AdComs were signiﬁcantly less likely to be associated with post-market boxed warnings or full withdrawals due to safety or eﬃcacy concerns.
-
-In other words, the AdComs made more sound recommendations as to
-
-which products should be allowed in the market.
-
-In sum, a simple procedural change altered the incentives for
-
-individuals to overcome the “costs” and expend the eﬀort needed
-
-for solid discussions, triggering a cascade of behavioral adaptations.
-
-By removing early visibility of peer votes, experts compensated
-
-by proactively uncovering one another’s views during discussion.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+unshared or dissenting information, encouraging a richer and more

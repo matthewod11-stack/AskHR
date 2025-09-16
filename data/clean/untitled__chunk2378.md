@@ -1,3 +1,13 @@
-# Credentialing Development
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f098d052ac8a85af239cf321007f4472ea26a371
+title: untitled
+---
+# Training Development
 
-By the mid-1970s, all states had credentialing for school psy- chologists from their respective state departments of educa- tion (SDE) and/or state boards of examiners in psychology (SBEP). The two credentialing structures had standards that differed along lines of doctoral and nondoctoral preparation, titles, and practice settings. The differences created several state-level skirmishes over practice privileges in nonschool settings. Some states (e.g., California, Connecticut, Illinois, Ohio) achieved nonschool practice privileges for nondoctoral practitioners as an outcome of state-level legislative skir- mishes. Nevertheless, by the end of the period, credentialing for school-based practice was almost entirely regulated by SDEs with nondoctoral degree training requirements, whereas nonschool practice was almost entirely regulated by SBEPs with doctoral degree requirements. Nonpractice recognition credentials continued to be available from the APA in the form of the diploma from the American Board of School Psychology (ABSP) and from the NASP in the form of National Certiﬁcation in School Psychology (NCSP).
+Training programs expanded rapidly in the 1970s, and for the remainder of the period between 200 and 230 institutions were offering programs at the master’s, specialists, and doc- toral levels. Program standards were proffered by the NASP that were in contrast to those of the APA. Both organizations offered procedures for program approval and accreditation.
+
+By 2000, the NCATE, with the NASP as a constituent mem- ber, was the largest accreditor of nondoctoral programs, although the APAmaintained a stronger presence among doc- toral programs and related internship and postdoctoral train- ing sites. The Thoroughbred Years were characterized by much greater consistency in training curricula, the standards for which were increasingly interlocked with the credential- ing expectations of the state education and psychology boards.
+
+Doctoral programs offered subspecializations (e.g., neu- ropsychology, preschool) to coincide with the broadening in- terests and practices of school psychologists and their diverse practice settings. Many subspecializations were represented in special-interest groups within the NASP and the APA. Some even had their own publications. As the number of subspecializations expanded, there was concern that the tra- ditional specialties of clinical, counseling, and school psy- chology might lose their identities because subspecialization often merged the interests of two or more specialty groups (e.g., school and child-clinical psychology along lines of pediatric applications).

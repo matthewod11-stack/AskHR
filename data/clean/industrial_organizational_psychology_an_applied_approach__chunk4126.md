@@ -1,3 +1,13 @@
-## Casperson, D. M. (2002, December). E-mail etiquette: How to
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ff494ebcd3d019a7c2ad15b4b774f8eb3aa99e29
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Cascio, W. F., & Phillips, N. F. (1979). Performance testing:
 
-make sure your message gets across. IPMA News, p. 25. Caudron, S. (1994). Volunteer eﬀ orts oﬀ er low cost training
+A rose among thorns. Personnel Psychology, 32, 751–756.
+
+references
+
+629

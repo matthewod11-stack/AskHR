@@ -1,23 +1,19 @@
-## Cleveland Clinic has a Remote + Hybrid Work director, and Zillow and
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 299b4efae0cae282de5dea23681b49f3acf4405c
+title: H07Z4W-PDF-ENG
+---
+# so, when and on what conditions?
 
-Microsoft have directors of Flexible Work.
+. . .
 
-I’d like to conclude with this thought: Workplace ﬂexibility is important
+The promising reality is that some companies are formalizing pathways
 
-but lingering, deeper workplace problems like burnout or languishing
+to remote or hybrid work. Under Meta’s new policy, for example,
 
-require multiple cause-based solutions. If you sense you’re experiencing
+some employees will be able to apply for fully remote positions after
 
-these deeper issues, I recommend reﬂecting on your core values and ﬁnding diﬀerent ways to fulﬁll them. That may look like suggesting a
+18 months with positive performance reviews. Many companies have
 
-change in return-to-oﬃce messaging to include language that seems
-
-less top-down and more empowering, being the architect of your
-
-career by crafting your job, or setting ﬁrmer boundaries at work like
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+employees who are solely focused on ﬂexible work. For example, Upwork has a director of Remote Organizational Eﬀectiveness,

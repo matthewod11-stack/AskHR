@@ -1,21 +1,9 @@
-## provider for private debt capital markets, when after each interaction
+---
+source_path: R2504K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a766912b074072a8fe71caf81d5555f2a3289a8
+title: R2504K-PDF-ENG
+---
+## person performs in a high-stakes business environment.
 
-with Vishal Singh, he became more energized and excited about their
-
-next activity. Rai noted, “Starting a company demands limitless energy
-
-to bring an idea to life, making it essential to choose cofounders who
-
-enhance your energy rather than drain it.”
-
-During this phase, don’t get too caught up in equity, titles, and
-
-such. The goal is to get a sense of how you would work together.
-
-By engaging in both personal and professional activities, you can
-
-gain a comprehensive understanding of your prospective cofounder’s
-
-personality and work style and how well you collaborate under various
-
-circumstances. This will inform your decision about whether to pursue
+Dipish Rai knew he’d found the right cofounder for Termgrid, a software

@@ -1,7 +1,7 @@
-## Includes bibliographical references and index.
-
-ISBN 0-7879-6037-3 (alk. paper)
-
-- 1. Personality and occupation. 2. Job satisfaction.
-
-- 3. Achievement
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: bce83380931820b35df0a191eff4f2b1862d58e0
+title: barrickryan_eds_personality_and_work
+---
+## cm.—(The organizational frontiers series)

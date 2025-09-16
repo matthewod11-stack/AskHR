@@ -1,11 +1,13 @@
-# REFERENCES
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7e038c873b87a10447ed62028d2be058c28e0d6d
+title: untitled
+---
+# 364 Counseling Psychology
 
-American Psychological Association. (1999). Archival description of counseling psychology (Division 17). Counseling Psycholo- gist, 27, 589–592.
+training model for professional psychology espoused by the American Psychological Association.
 
-American Psychological Association. (2000). Accredited doctoral training programs in professional psychology: 2000. American Psychologist, 55, 1473–1486.
+Psychotherapy continues to grow as an area of emphasis within counseling psychology, and counseling psychologists have long served as active contributors to theory, research, and practice. The same is true for vocational psychology and career development.
 
-American Psychological Association. (2001). Directory of the American Psychological Association. Washington, DC: Author.
-
-American Psychological Association, Division of Counseling and Guidance, Committee on Counselor Training. (1952). Recom- mended standards for training counselors at the doctoral level. American Psychologist, 7, 175–181.
-
-Baker, D. B. (1988). The psychology of Lightner Witmer. Profes-
+Like any organization or institution, counseling psychol- ogy has molded itself to the demands, challenges, changes, and opportunities of the times. It is interesting to note that as the new century begins, counseling psychology ﬁnds itself deﬁning as a value the priority of multicultural inclusiveness. The template of inclusiveness is now laid over all aspects of counseling psychology research, teaching, training, and service. It is a point of view that expresses a concern for the well-being of all people, a concern much like that of 100 years ago.

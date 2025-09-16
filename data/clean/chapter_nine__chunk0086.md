@@ -1,11 +1,13 @@
-# College of Nursing Institute.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: bc8f2bc5b53219c7a29113bfe8ae244733f6ced3
+title: chapter_nine
+---
+# C.V.Mosby.
 
-Coccia, C. (1998) Avoiding a toxic organization. Nursing Management. Vol. 29. No. 5. pp 32-33. Cox, S., Jones, B., Collinson, D. (2006) Trust relations in high-reliability organisations. Risk Analysis.
+Clark ,G. (2002) Organisational culture and safety. Australian Health Review. Vol. 25. No. 6. pp 181-
 
-Vol. 26. No. 5. p 5.
+189.
 
-Davies, H., Nutley, S.M., Mannion, R. (2000) Organisational culture and quality of health care. Quality
-
-and Safety in Health Care. Vol. 9. No. 2. pp 111-119.
-
-Department of Health (2001a) Shifting the Balance of Power within the NHS – Securing Delivery.
+Coats, E. (2006) Opening Doors on Creativity: Resources to Awaken Creative Working. London: Royal

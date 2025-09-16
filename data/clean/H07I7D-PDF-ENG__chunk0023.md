@@ -1,7 +1,29 @@
-## HBR / Digital Article / How to Help Superstar Employees Fulfill Their Potential
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3248ced489bf5e59d85dba35b9a478f64aca7020
+title: H07I7D-PDF-ENG
+---
+# management roles.
 
-See more HBR charts in Data & Visuals on HBR.org.
+Stepping up to higher levels of leadership requires six key skills,
 
-As the sponsors in our data set considered the next step for their
+according to the managers in our data set:
 
-high potentials, they often cited the need for high potentials to have
+- Strategic management
+
+- Emotional intelligence
+
+- Communication
+
+- Leading at scale
+
+- Leading teams
+
+- Relationship management
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

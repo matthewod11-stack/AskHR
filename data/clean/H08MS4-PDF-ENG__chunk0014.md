@@ -1,5 +1,9 @@
-# applicant pool.”
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee4b49bd9f33b7ca37947f73b64a7d8a68088487
+title: H08MS4-PDF-ENG
+---
+# HBR / Digital Article / The Legal Landscape Around DEI Is Shifting. Your Messaging Sh…
 
-- “While we strive for a diverse mix of candidates, all employment
-
-decisions are made without regard to race, sex, or other protected
+- “We conduct outreach at diverse colleges to strive for a diverse

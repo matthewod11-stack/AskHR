@@ -1,23 +1,23 @@
-# their goals.
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ad7373d6e25d4ec31fb02468b94f406220bbde5
+title: S25012-PDF-ENG
+---
+# kaizen-oriented settings:
 
-Long-term memory and reﬂection. AI agents draw on past interactions
+Goal-oriented behavior. People set the goals, but AI agents act
 
-to better understand intention and context. They learn from their
+independently to achieve them, adapting their strategies when
 
-experience to get better at their jobs.
+necessary. To do so, an agent can work across other software platforms
 
-Across industries, many companies are now deploying AI assistants or
+at a company and interact with other organizations’ software and
 
-agents with varying degrees of autonomy. Walmart uses them to help
+language models to execute tasks.
 
-manage inventory. At Marriott International, they optimize booking
+Logical reasoning and planning. AI agents perceive and analyze
 
-processes. At Nestlé, they improve supply chain processes. ADT is
+their environments. They can break complex tasks down into their
 
-building an agent that will help its millions of customers select,
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+component parts and use reason to ﬁgure out the best way to achieve

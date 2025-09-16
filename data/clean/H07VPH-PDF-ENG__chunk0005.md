@@ -1,9 +1,23 @@
-## diﬀerent decision-making archetypes, or problem solver proﬁles, that
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6de410f92641f633b0bc5d8ee5587069f07a702c
+title: H07VPH-PDF-ENG
+---
+## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
 
-explain how people tend to approach their decisions. The ﬁve problem
+That’s not the only situation in which we change our decision-making
 
-solver proﬁles (PSP) are:
+habits. We may be a diﬀerent decision-maker with the coworker who
 
-- Adventurers, who make decisions easily and go with their gut, but
+intimidates us, the veteran employee who serves as a mentor, or the
 
-who may downplay evidence, and input from others, if it contradicts
+recent college grad who has asked for your mentorship.
+
+In other words, we approach decisions diﬀerently depending on the
+
+context — where we are and which role we’re playing — and the other
+
+decision-makers with whom we’re engaging.
+
+Through my research into decision-making, I have identiﬁed ﬁve

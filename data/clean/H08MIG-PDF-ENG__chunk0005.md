@@ -1,15 +1,21 @@
-# small slights.
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: beb949e09f650fdaf017522f2368ef320aca4ab5
+title: H08MIG-PDF-ENG
+---
+# HBR / Digital Article / Research: When Is Leniency the Right Response to Employee M…
 
-Yet while being lenient may seem like the easy or empathetic thing to
+state that the employee should be suspended or even ﬁred. Standard
 
-do, our research suggests that leniency can yield mixed consequences
+punitive procedures uphold rules, signal how employees should behave
 
-for managers and employees, and should be used with caution and
+(and how they should not behave), and deter bad behavior.
 
-care. Despite natural inclinations to act with empathy or use a laid-back
+Still, eﬀectively doling out punishment can be challenging and
 
-approach, managers should recognize that being lenient may lead to
+emotionally fraught. So, instead of enforcing rules about punishment,
 
-unintended consequences and raise concerns about bias and injustice.
+managers sometimes choose instead to be lenient, lightening the
 
-Over the past decade, we have studied lenient reactions to misconduct
+punishment or letting the misconduct slide altogether, particularly for

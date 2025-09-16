@@ -1,9 +1,13 @@
-# Deciding Whether to Disclose
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2516fef6f3dc0657a764671238253ebb2c61d16
+title: H087G0-PDF-ENG
+---
+# general forums.
 
-Unfortunately, disclosing a disability or neurodivergence information is
+In this article I’ll discuss why disclosure is a risk, how to decide whether
 
-often a “damned if you do, damned if you don’t” situation. Research
+it’s one worth taking, and how a network of supporters at work can help
 
-shows that 61% of disabled employees have experienced some form of
-
-workplace discrimination, including hiring biases, pay gaps, bullying,
+you minimize the potential downsides.

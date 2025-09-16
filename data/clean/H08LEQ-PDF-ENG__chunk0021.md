@@ -1,21 +1,29 @@
-# overall content quality on the platform.
+---
+source_path: H08LEQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 821d73ed786739e0ac380aebecb2aa8743112438
+title: H08LEQ-PDF-ENG
+---
+# engagement.
 
-Synthesizing multiple types of data
+TikTok’s use of real-time intelligence and AI represents a signiﬁcant
 
-The digital era focused on bits and bytes; the AI revolution is “multi-
+evolution in human-computer interaction. Unlike earlier technologies
 
-modal.” That is, AI systems can now process information from diﬀering
+that rely on static data, TikTok’s system continuously learns and
 
-modalities, including text, images, audio, video, and other sensory
+adapts to user preferences — in essence collaborating with users to
 
-input. Of course we humans have always been multi-modal, processing
+create dynamic and engaging experiences. Users also help drive the
 
-and synthesizing all kinds of information in the real world we inhabit.
+training of the platform’s algorithm, which learns from user behavior
 
-Now, with multi-modal AI, we have a technology that mimics our ability
+to reﬁne its recommendations. In the platform’s hybrid system of
 
-to interpret and integrate a broad spectrum of information and that can
+content moderation, humans are empowered, not replaced, by AI tools,
 
-communicate and interact with us wherever we are, engaging with us in
+producing results that neither machines nor people could achieve
 
-a way that ﬁts our preferences, surroundings, and intentions. No longer
+alone. Similarly, the AI-powered tools that TikTok provides creators
+
+marries machine intelligence and human creativity to enhance the

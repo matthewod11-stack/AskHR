@@ -1,9 +1,7 @@
-# Evgeniy Shvets/Stocksy
-
-As leaders in organizations see embracing diversity as enriching
-
-the talent pool, they become increasingly interested in welcoming
-
-neurodivergent and, speciﬁcally, autistic talent. This leads to a desire
-
-to signal this interest via special events and observances, especially
+---
+source_path: H06YBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e44bc02cfcbbef8907f1e7ce67c560fc77efdc2b
+title: H06YBA-PDF-ENG
+---
+## Published on HBR.org / April 1, 2022 / Reprint H06YBA

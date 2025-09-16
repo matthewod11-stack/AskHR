@@ -1,7 +1,13 @@
-## HBR / Digital Article / How to Decide Which Innovation Projects to Greenlight
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59d34e57df4e7c64e0f27bd702d1e915e6988a30
+title: H08GJ6-PDF-ENG
+---
+# classiﬁcation.
 
-Are you bound by a tight budget?
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-The smaller the budget, relative to the resources requested by the
+8
 
-proposals before you, the greater the need for a decision rule oﬀering
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

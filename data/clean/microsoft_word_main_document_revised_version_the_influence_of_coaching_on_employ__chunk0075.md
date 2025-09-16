@@ -1,3 +1,9 @@
-# Research Methods, 9(2), 221-232.
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: fbab3824de688a381bae131fc83190f0776d5926
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+## Method, Journal of Organizational Behavior, 15(5), 385-392.
 
-Trépanier, C. (2010). Le coaching du directeur et la performance du vendeur: une approche relationnelle, doctoral
+Spector, P. E. (2006). Method Variance in Organizational Research: Truth or Urban Legend?, Organizational

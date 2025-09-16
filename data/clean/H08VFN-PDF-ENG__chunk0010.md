@@ -1,11 +1,11 @@
-## from traditional executive education: namely, experiential exercises
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b13425d10803495068b69683a4f6450290a48a4d
+title: H08VFN-PDF-ENG
+---
+## HBR / Digital Article / Lessons from U.S. Army Special Ops on Becoming a Leader
 
-that coach the brain to learn from failure. Next, I’ll share what Special
+In this article, I’ll describe how you can develop leadership like Special
 
-Ops has identiﬁed as the four main reasons for leadership failure—and
-
-how to correct them. Finally, I’ll lay out a “Simulated Failure” exercise
-
-for scaling Special Ops training across your organization, equipping
-
-every manager to lead in volatility.
+Ops. First, I’ll explain what distinguishes the Special Ops curriculum

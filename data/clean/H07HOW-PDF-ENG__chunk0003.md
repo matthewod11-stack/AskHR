@@ -1,19 +1,27 @@
-## HBR / Digital Article / Navigating Uncertainty About Your Role During a Reorg
+---
+source_path: H07HOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25beeed0f35f037c4bae811cdc683327c5b22c14
+title: H07HOW-PDF-ENG
+---
+# OgnjenO/Getty Images
 
-It’s no wonder approximately 60% of organizations experience
+You’ve likely experienced at least one reorg in your career. And, like
 
-plummeting productivity during this limbo state.
+most executives and employees, you probably dread them.
 
-Reorgs can be especially diﬃcult when you’re nervous about what might
+While a successful redesign can help a company boost performance,
 
-happen with your role. While it may feel like the situation is out of your
+they’re often a miserable experience for everyone involved. Most
 
-hands, there is much you can do to steer toward a positive outcome.
+reorganizations take 10 months from plan to implementation,
 
-Here are a few steps to take if you’re worried about a looming reorg:
+and the extended uncertainty leads to signiﬁcant stress and
 
-First, talk to your manager and emphasize how you bring value.
+anxiety, regardless of whether job losses accompany the change.
 
-When you learn of the reorg, some restructuring decisions may be ﬁnal.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-But chances are, many pieces are still in play. Proactively talk to your
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

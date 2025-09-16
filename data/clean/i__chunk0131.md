@@ -1,17 +1,21 @@
-# Implementation and considerations
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 6ef602f46902d5f7785086f9d8a2429b6fc49425
+title: i
+---
+# by step:
 
-The Isson’s IMPACT model and Pease’s Blueprint suggest similar steps to achieve success in
+- Purpose: identify the purpose of the analytics project
 
-People analytics, create a strong data foundation and encourage a culture of data-driven
+- Questions to be answered.
 
-decision-making within the business. These two models also create frameworks to promote the
+- Data sources
 
-use of data and analytics across HR teams and businesses as a whole to inform decision-
+- Data collection method
 
-making, drive innovation, and continuously improve performance. However, while the
+- Timing
 
-IMPACT model focuses on communicating and measuring the impacts of the analysis, the
+- Stakeholders
 
-blueprints give a guideline on the development plan of the analysis itself.
-
-26
+- Reporting requirements

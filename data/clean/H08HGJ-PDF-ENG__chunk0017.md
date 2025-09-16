@@ -1,7 +1,19 @@
-## of electronics, automation, materials, and other knowledge areas to
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf3f3dcf593d4102b0b75dd4ea7c14486b0f10d6
+title: H08HGJ-PDF-ENG
+---
+## conceptualizations of division of labor and specialization. In other
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+words, the machines that populate the factory today were developed to
 
-3
+manufacture pins but draw on knowledge from diverse areas, including
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mechanical engineering, manufacturing operations, heat dynamics,
+
+vacuum handling, and dozens of other domains, all of which had
+
+to be recombined to create the modern pin factory. Moreover, the
+
+most valuable workers in the factory today have broad knowledge

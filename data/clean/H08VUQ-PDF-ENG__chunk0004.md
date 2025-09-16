@@ -1,7 +1,19 @@
-## When Companies Fall into the AI-Technology Trap
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56b14f9fbb2e48deb850f346774a52e2ee877170
+title: H08VUQ-PDF-ENG
+---
+## HBR / Digital Article / Make Sure Your AI Strategy Actually Creates Value
 
-Take Snapchat. Founded in 2011, it quickly became popular—especially
+Amid the growing enthusiasm, many see AI as an integral part of their
 
-with Gen Z—due to features like disappearing messages and casual
+future. One estimate suggests corporate investments in AI will triple by
 
-visual sharing. At its peak, Snapchat was one of the most downloaded
+2028.
+
+But an unquestioning belief in the power of AI to radically transform
+
+business is risky. It may cause leaders to make suboptimal decisions
+
+that undermine their company’s potential for proﬁtable growth.

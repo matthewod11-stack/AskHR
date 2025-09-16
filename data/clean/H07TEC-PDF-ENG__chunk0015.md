@@ -1,11 +1,25 @@
-# to the other attorneys in the group.
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a7000f3db14d16855ad406eebc8608962c126280
+title: H07TEC-PDF-ENG
+---
+# performance.
 
-The balanced benchmarking approach allowed us to quantify how
+For the input variables in the balanced benchmarking equation (i.e.,
 
-much the underperforming attorneys were lagging their higher-
+those variables we wanted to minimize), we used the attorney’s salaries
 
-performing peers. This meant the ﬁrm could focus on the performance
+and their non-billed hours (i.e., hours that the attorneys worked on
 
-of speciﬁc attorneys with an understanding of how they should be performing. Additionally, the balanced benchmarking approach oﬀered
+client cases but were not able to be billed for some reason). For the
 
-us the opportunity to quantify the impact of qualitative metrics (e.g.,
+output variables (i.e., variables we wanted to maximize), we used the
+
+attorney’s billed hours, fees received, number of referred clients, and
+
+client satisfaction reviews. We performed the balanced benchmarking
+
+approach monthly for each attorney in the ﬁrm over the course of a
+
+year, allowing us to quantify the performance of each attorney relative

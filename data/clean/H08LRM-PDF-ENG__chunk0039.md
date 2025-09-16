@@ -1,23 +1,41 @@
-## for self-renewal. A survey I conducted among Harvard Business School
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4577a315773a30e5930c4b96ee1c152d040d2808
+title: H08LRM-PDF-ENG
+---
+## Perceptions. The psychological hurdles that sabbatical-takers must
 
-graduates 10 years out found that more than one-third had already
+overcome fall into two categories: negative self-perception and fear of
 
-taken a sabbatical, and more than 90% of those who hadn’t taken time
+others’ judgment.
 
-oﬀ viewed extended leave-takers in a positive or neutral light.
+For many people, self-worth is linked to performance at work. That’s
 
-One of the best ways to alleviate this worry is to ﬁnd an exemplar:
+why our self-esteem takes a hit when we’re unemployed — even when
 
-someone you admire who has taken a successful sabbatical. This makes
+it’s by choice. Even sabbatical alumni who enjoyed their experiences
 
-it easier to envision yourself taking one. If no one immediately comes
+told me that they dreaded being asked “What do you do for a living?”
 
-to mind, ask around, search your LinkedIn connections for those taking
+during their time oﬀ, especially if they had left their jobs. One way
 
-advantage of its “career break” designation, or post in dedicated forums
+to alleviate this feeling can be to adopt other work identities — for
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Aarti, being a writer, and for Paul, an employee at a resort. Others may choose to lean into the discomfort, understanding that diﬃcult times
 
-11
+disproportionately produce positive growth.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Another concern is how current or future employers (or even your
+
+in-laws) may view your sabbatical. This is not surprising when many
+
+organizational and national cultures reward a devotion to work. People are lauded for staying late at the oﬃce, being available on vacations,
+
+and generally prioritizing work over personal priorities. The pull to
+
+conform is strong, but there’s growing evidence that more people,
+
+including hiring managers, are beginning to view time oﬀ as a healthy
+
+choice or a positive sign of a thriving inner life, curiosity, and desire

@@ -1,9 +1,15 @@
-# information.”
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0015ff588209992b116be442244c58ac0bd1824e
+title: H08M4T-PDF-ENG
+---
+## of Informatics at the University of California, Irvine, and the author of
 
-All that switching comes at a cost. Studies show that multitasking leads
+Attention Span: A Groundbreaking Way to Restore Balance, Happiness,
 
-to longer completion times, more errors, and increased stress. “Your
+and Productivity. “Think of your mind as a whiteboard,” she says.
 
-executive function — your brain’s CEO — gets fatigued,” says Mark.
+“Each task or topic you focus on is like writing on that whiteboard.
 
-“And it struggles to ﬁlter out distractions or make decisions, leaving you
+When you multitask, you’re constantly erasing and rewriting diﬀerent

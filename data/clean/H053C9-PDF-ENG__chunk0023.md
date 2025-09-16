@@ -1,7 +1,13 @@
-# Advocate globally.
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f82c19b00b4ba1a168107b0f16121e9048e9c09
+title: H053C9-PDF-ENG
+---
+## and communities and upset current or potential customers. However, if
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+a company wants to be a market leader on LGBT inclusion — to recruit
 
-3
+and retain LGBT talent, to appeal to LGBT consumers and allies, and to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+help create vibrant inclusive economies — it should strive to become an

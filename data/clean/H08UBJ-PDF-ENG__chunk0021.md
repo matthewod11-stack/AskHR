@@ -1,9 +1,7 @@
-# Implications for Leaders
-
-Consider how powerful this is: Without new laws or stern guidance from
-
-the CEO, simply changing gender composition tilted behavior toward
-
-greater honesty about ﬁrm prospects. It’s a form of soft regulation
-
-that arises organically from within the team, complementing formal
+---
+source_path: H08UBJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b1fc785ecf733e62ea81cc83b924a4fe87c7352
+title: H08UBJ-PDF-ENG
+---
+# around.

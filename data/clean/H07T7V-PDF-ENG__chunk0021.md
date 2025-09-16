@@ -1,21 +1,33 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97a0a722a98d3f81b61bc7a3f297798834ea319d
+title: H07T7V-PDF-ENG
+---
+# Meyer.
 
-want to emulate. They’re often male-dominated bro-cultures. The boss
+He successfully worked hard on building a company that would correct
 
-frequently is an overly demanding bully. How do you square all this?
+him, the boss, the high status prestigious person at the top of the
 
-ANDREW MCAFEE:
+organization. It’s part of this great geek norm of openness that I talk
 
-There clearly is some of that going on in the Valley. There are toxic
+about. How do you build a company that will get it right when the
 
-cultures. You mentioned the bro-culture. I would say that Theranos
+person at the top of the org chart is wrong? Man, that’s a hard problem.
 
-is one of the most toxic cultures I’ve ever heard about, and it was
+ADI IGNATIUS:
 
-headquartered in Silicon Valley.
+It’s a hard problem. And I’m sure some people are going to read your
 
-I don’t think those are geek companies at all. They might be in the
+book and think, “Hang on, a lot of these companies we’re talking
 
-right geographic location, but they’re not following the geek way, which
+about are Silicon Valley startups or somewhere in that realm.” The
 
-is about these norms and about creating a culture that is fast-moving,
+popular perception is these are not cultures that you necessarily
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

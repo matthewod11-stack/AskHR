@@ -1,17 +1,11 @@
-## of projects and nurture each one until its chances of successfully
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4691a60364dfca5fc3cb6f8d60d06887e62fb70c
+title: R2405E-PDF-ENG
+---
+## array of capabilities and resources they can share with entrepreneurial
 
-scaling up have become clear. This allows incumbents to stay at the
+partners—or with in-house entrepreneurial managers—that have ideas
 
-leading edge of innovation in their ﬁelds and expand into new ones
-
-while greatly increasing the odds that their entrepreneurial partners (or
-
-intrapreneurial managers) will succeed.
-
-But as we’ll see in the following pages, this approach is complex and
-
-nuanced. It requires careful management. To describe how ﬁrms can
-
-eﬀectively apply it, we’ll draw on what we’ve learned by studying
-
-the experiences of more than a dozen large multinationals, including
+for breakthrough products and services. They can create portfolios

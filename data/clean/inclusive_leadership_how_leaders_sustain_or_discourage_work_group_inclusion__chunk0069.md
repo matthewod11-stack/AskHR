@@ -1,33 +1,39 @@
-# Shore and Chung
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: dc2b4b3a30fae54c87d6b995a349dc2a1276e427
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# Group & Organization Management 0(0)
 
-Hewlin, P. F. (2009). Wearing the cloak: Antecedents and consequences of creating
+Edmondson, A. C. (2004). Psychological safety, trust, and learning in organizations: A group-level lens. In R. M. Kramer & K. S. Cook (Eds.), The russell sage foundation series on trust. Trust and distrust in organizations: Dilemmas and approaches (pp. 239-272). New York: Russell Sage Foundation.
 
-facades of conformity. Journal of Applied Psychology, 94, 727-741.
+Edmondson, A. C., & Lei, Z. (2014). Psychological safety: The history, renaissance, and future of an interpersonal construct. Annual Review of Organizational Psy- chology and Organizational Behavior, 1, 23-43.
 
-Hirak, R., Peng, A. C., Carmeli, A., & Schaubroeck, J. M. (2012). Linking leader inclusiveness to work unit performance: The importance of psychological safety and learning from failures. The Leadership Quarterly, 23(1), 107-117.
+Ely, R. J., & Thomas, D. A. (2001). Cultural diversity at work: The effects of diversity perspectives on work group processes and outcomes. Administrative Science Quarterly, 46, 229-273.
 
-Hogg, M. A., & Reid, S. A. (2006). Social identity, self-categorization, and the
+Ferdman, B. M. (In Press). Inclusive leadership: The fulcrum of inclusion. In B. M. Ferdman, J. Prime, & R. E. Riggio (Eds.) Inclusive leadership: Transforming diverse lives, workplaces, and societies. New York, NY: Routledge.
 
-communication of group norms. Communication Theory, 16(1), 7-30.
+Ferris, D. L., Brown, D. J., Berry, J. W., & Lian, H. (2008). The development and validation of the workplace ostracism scale. Journal of Applied Psychology, 93, 1348-1366.
 
-Homan, A. C., Van Knippenberg, D., Van Kleef, G. A., & De Dreu, C. W. (2007). Bridging faultlines by valuing diversity: Diversity beliefs, information elabora- tion, and performance in diverse work groups. Journal of Applied Psychology, 92, 1189-1199.
+Fiset, J., Al Hajj, R., & Vongas, J. G. (2017). Workplace ostracism seen through the
 
-Hom, P. W., Roberson, L., & Ellis, A. D. (2008). Challenging conventional wisdom about who quits: Revelations from corporate America. Journal of Applied Psy- chology, 93(1), 1-34. doi:10.1037/0021-9010.93.1.1
+lens of power. Frontiers in Psychology, 8, 1–19.
 
-Howard, M. C., Cogswell, J. E., & Smith, M. B. (2020). The antecedents and outcomes of workplace ostracism: A meta-analysis. Journal of Applied Psychology, 105, 577-596.
+Gaertner, S. L., & Dovidio, J. F. (2000). Reducing intergroup bias: The common
 
-Jans, L., Postmes, T., & Van der Zee, K. I. (2012). Sharing differences: The inductive route to social identity formation. Journal of Experimental Social Psychology, 48, 1145-1149.
+ingroup identity model. Philadelphia, PA: Psychology Press.
 
-Jehn, K. A., Northcraft, G. B., & Neale, M. A. (1999) Why differences make a dif- ference: A ﬁeld study of diversity, conﬂict, and performance in workgroups. Administrative Science Quarterly, 44, 741-763.
+Gallegos, P. V. (2014). The work of inclusive leadership. In B.M. Ferdman, & B. R. Deane (Eds.), Diversity at Work: The practice of inclusion (pp. 177-202). San Francisco, CA: Jossey-Bass.
 
-Kahn, W. A. (1990). Psychological conditions of personal engagement and disen-
+Giovanni, M. (2004). What gets measured gets done: Achieving results through di- versity and inclusion. The Journal of Quality and Participation, 27, 21-27. Graen, G. B., & Uhl-Bien, M. (1995). Relationship-based approach to leadership: Development of leader-member exchange (LMX) theory of leadership over 25 years: Applying a multi-level multi-domain perspective. The Leadership Quar- terly, 6(2), 219-247. doi:10.1016/1048-9843(95)90036-5
 
-gagement at work. Academy of Management Journal, 33(4), 692-724.
+Hales, A. H., Ren, D., & Williams, K. D. (2016). Protect, correct, and eject: Ostracism as a social inﬂuence tool. In S. G. Harkins, K. D. Williams, & J. Burger (Eds.) The Oxford handbook of social inﬂuence (pp. 205-217). England: Oxford. doi:10. 1093/oxfordhb/9780199859870.013.26
 
-Kanter, R. M. (1977). Men and women of the corporation. New York: Basic Books. Khan, A., Jaafar, M., Javed, B., Mubarak, N., & Saudagar, T. (2020). Does inclusive leadership affect project success? The mediating role of perceived psychological empowerment and psychological safety. International Journal of Managing Projects in Business, 13(5), 1077-1096.
+Hebl, M., Cheng, S. K., & Ng, L. C. (2020). Modern discrimination in organizations. Annual Review of Organizational Psychology and Organizational Behavior, 7, 257-282. doi:10.1146/annurev-orgpsych-012119-044948
 
-King, L. A., & Geise, A. C. (2011). Being forgotten: Implications for the experience of
+Heilman, M. E., Block, C. J., & Lucas, J. A. (1992). Presumed incompetent? Stig- matization and afﬁrmative action efforts. Journal of Applied Psychology, 77, 536-544.
 
-meaning in life. The Journal of Social Psychology, 151, 696-709.
+Henderson, E. (2014). The Chief Diversity Ofﬁcer’s view of the diversity and inclusion journey at Weyerhaeuser. In B. M. Ferdman, & B. R. Deane (Eds.), Diversity at work: The practice of inclusion (pp.431-450). San Francisco, CA: Jossey-Bass. Herring, C. (2017). Is diversity still a good thing?. American Sociological Review,
 
-Klages, S. V., & Wirth, J. H. (2014). Excluded by laughter: Laughing until it hurts
+82(4), 868-877. doi:10.1177/0003122417716611

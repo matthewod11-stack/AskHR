@@ -1,9 +1,11 @@
-## implementation. In addition to the tried-and-true principles of change
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b5fb29642e0a21c86eaa62910ce22f3b0714d528
+title: R2502W-PDF-ENG
+---
+# intelligence.
 
-management, an eﬀective way to drive change in this case is to cultivate
+As with any transformation, persuading people and achieving
 
-a group of employees who are early adopters of AI in select processes
-
-and empower them to become AI champions within the organization.
-
-They can serve as role models and peer mentors, accelerating adoption
+organizational change can be even more challenging than technical

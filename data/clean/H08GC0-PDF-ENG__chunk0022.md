@@ -1,41 +1,25 @@
-## HBR / Digital Article / Let’s End Toxic Productivity
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3747c8b17e99b4d5087a03fb591102367af6d2d0
+title: H08GC0-PDF-ENG
+---
+# The Stigmatization of Rest
 
-upon return — several studies have shown that workers are vacation-
+Unfortunately, “rest” is a bad four-letter word in most workplaces.
 
-deprived. According to Expedia’s annual global survey of 11,500 global
+“Hero culture” is when people who stay late, skip vacations, and work
 
-employees, 62% of global workers don’t feel they have enough time oﬀ
+weekends are celebrated. This philosophy can create an environment
 
-or breaks. The 2024 PTO Report by ﬁntech ﬁrm Sorbet found persistent
+where rest is seen as a weakness or a lack of commitment.
 
-underutilization of vacation time, with employees taking around 10
+Despite the well-known beneﬁts of taking time oﬀ — including
 
-days in 2023. It also found that women in the U.S. are 19% less
+reduced stress, improved mental health, and increased productivity
 
-comfortable with taking a vacation than their male counterparts. No
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-wonder U.S. workers are feeling the eﬀects of vacation deprivation.
+4
 
-Pew research ﬁnds that 49% of people who don’t take their full PTO say
-
-they worry about falling behind, 43% say they would feel badly about
-
-coworkers taking on extra work, and 19% worry that taking time oﬀ
-
-might hurt their chances of getting a promotion.
-
-Slack’s report also found that “half of all desk workers say they rarely
-
-or never take breaks during the work day.” Compass Group’s Global
-
-Eating at Work Survey 2023 found that one third of employees globally
-
-are eating alone. “Dining al desko,” or “desktop dining” may sound
-
-like just another TikTok trend, but it comes with serious consequences.
-
-Research found that eating alone signiﬁcantly increases depressive
-
-symptoms and people who sat for more than eight hours a day with
-
-no physical activity had a mortality risk similar to that posed by obesity
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

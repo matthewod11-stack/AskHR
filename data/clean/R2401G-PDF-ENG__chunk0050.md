@@ -1,13 +1,23 @@
-# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d70a91df31f9caef4f7fb0657545747c40a98359
+title: R2401G-PDF-ENG
+---
+## reports, meetings, and emails by about 50%—targets that Scott actually
 
-The subtraction game. We have played this game with more than 100
+hit. His direct reports felt more empowered (and less overloaded)
 
-organizations. It starts with solo brainstorming. We ask people, “Think
+because they made more decisions without checking and coordinating
 
-about how your organization operates. What adds needless frustration?
+with him. And because Scott had fewer people to deal with—
 
-What scatters your attention? What was once useful but is now in the
+and resisted jumping into every decision—his unit operated more eﬃciently. He worked fewer hours, his health improved, and, Cross tells
 
-way?” Next, people meet in small groups to discuss the impediments
+us, he saved his troubled marriage.
 
-identiﬁed and name additional subtraction targets. Then they select two
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

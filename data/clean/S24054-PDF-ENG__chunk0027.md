@@ -1,27 +1,21 @@
-# perform better as a group this fall.
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 02c48650391e1d36fa9a1406fa80b688a319d015
+title: S24054-PDF-ENG
+---
+# team-ﬁrst message.
 
-Some people criticize corporate oﬀsites or team-building events as
+Create opportunities to connect as people outside the ofﬁce. This fall
 
-wasteful junkets. That is enormously short-sighted. Leadership is about
+I’m starting work as a broadcaster. In May, our broadcast team went to
 
-improving the quality of teammates’ relationships and building trust,
+the Bahamas together. We played games on the beach, shared meals,
 
-and that comes from shared experiences. Those experiences should not be limited to the oﬃce—in fact, they often deepen more easily away
+and got to know one another. We were creating a shared experience
 
-from work. When I played football, my teammates and I regularly spent
+outside the environment that we’re used to, and we saw new parts
 
-time together in the oﬀseason. We texted. We FaceTimed. We’d hang
+of everyone’s personalities. The camaraderie we built and the better
 
-out at my place in Montana, or we’d have fun at the Kentucky Derby.
-
-Sometimes we just went bowling. We loved being together. People focus
-
-on the physical attributes and skills that we as athletes brought to
-
-competition, but so much of our success was built on our emotions
-
-and how they helped us perform better. The more we were interested in
-
-and concerned about one another as teammates, and didn’t want to let
-
-one another down, the more motivated we were to do our absolute best,
+understanding we gained of one another as individuals will help us

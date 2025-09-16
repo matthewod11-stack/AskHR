@@ -1,11 +1,29 @@
-# Or
+---
+source_path: H08LCW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5b23987e3d1656011a64e608cad9edb0a051e74
+title: H08LCW-PDF-ENG
+---
+## demonstrates intentionality and alignment with your career growth.
 
-After ﬁve years at [agency name], I wanted to grow my skills and
+Highlight the reasons for each move — were you seeking to develop
 
-understanding of international media campaigns, so I accepted
+speciﬁc skills that are now crucial for the role you’re applying for? Did
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+a former manager or colleague recruit you because they valued your
 
-3
+expertise? Mentioning this highlights your professional reputation. If
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you changed industries or shifted careers, explain how the transition
+
+was a strategic step that prepared you for the responsibilities of the
+
+position you’re pursuing. In continuing the previous example:
+
+After ﬁve years at [agency name], a former manager recruited me
+
+to join [new company name] as an International Senior Media
+
+Planner. This move allowed me to build on my expertise planning
+
+and executing multi-channel campaigns for global brands.

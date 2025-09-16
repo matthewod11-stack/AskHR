@@ -1,11 +1,13 @@
-# Media Resources and Learning Tools
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0c25274318b8197942452299c6d3e9cb065f410c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Why or why not?
 
-7
+. What should be the most important factors in choosing a selection method?
 
-7
+Explain your answers.
 
-Visit our website. Go to www. cengage.com/psychology/aamodt, where you will find online resources directly linked to your book, including chapter-by- chapter quizzing, flashcards, crossword puzzles, application activities, and more. Want more practice applying industrial/organizational psychology? Check out the I/O Applications Workbook. This workbook (keyed to your textbook) offers engaging, high-interest activities to help you reinforce the important concepts presented in the text.
-
-employee selection: references and testing
-
-201
+. What selection methods are most valid? . Should employers test employees for drugs? Why or why not? . Are integrity tests fair and accurate? Explain your answer.

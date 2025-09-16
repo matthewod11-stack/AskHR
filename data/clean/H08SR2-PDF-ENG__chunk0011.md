@@ -1,7 +1,37 @@
-# above:
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48be4bcc91077cbc04f2ca1fdd0fa70cc4e2d4db
+title: H08SR2-PDF-ENG
+---
+## non-work boundaries (e.g., an interest-based club, a cohort-based
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+professional development opportunity) we focus here on Peloton, a virtual exercise platform that we found was particularly eﬀective at
 
-3
+building these deeper extra-work connections.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+While we initially began studying Peloton to understand how its
+
+members connected with the company and the Peloton community,
+
+we were surprised to ﬁnd that our study participants consistently used
+
+Peloton “with” their bosses, peers, and even other people in their
+
+profession who they had never met in person. Sometimes this happened
+
+through the use of hashtags that helped users identify others in their
+
+company or profession. Other times a senior leader talked about using
+
+Peloton in a large meeting and invited others to connect, or someone
+
+created the infrastructure (e.g., Slack channel, shared spreadsheet) to
+
+help colleagues who use the platform ﬁnd each other. This unexpected
+
+discovery led us to ask why study participants felt comfortable enough
+
+to blur their work and non-work lives in this setting.
+
+We found that Peloton has those four unique characteristics listed

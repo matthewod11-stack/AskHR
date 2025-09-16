@@ -1,3 +1,17 @@
-## HBR / Digital Article / How AI Can Help Managers Think Through Problems
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e65d49775661d4aa5f5c2ad8568a3cbca771fbf0
+title: H08L2R-PDF-ENG
+---
+# Two Co-Thinking Dialogues to Try
 
-such as ChatGPT, Claude, or Copilot. The gen AI will walk you through each
+Below are two prompts to help you try out co-thinking with AI. Copy and
+
+paste either of the dialogues below into the gen AI model of your choosing
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

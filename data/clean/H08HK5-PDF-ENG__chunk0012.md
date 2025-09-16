@@ -1,29 +1,27 @@
-## HBR / Digital Article / When Expressing Gratitude to Employees, Timing Matters
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 319c6d03ccee09331647c933c3746fdf48b3ea6e
+title: H08HK5-PDF-ENG
+---
+# unpleasant.
 
-in the moment, but also what is likely to happen in the future. Try
+Instead of being a meaningless phrase used to sign oﬀ on an email or
 
-to take on the perspective of your employee: what about what they’re being asked to do might be painful or diﬃcult? This awareness and
+a sentiment that is only expressed after the fact, our research suggests
 
-anticipation can come from a number of places, including your own
+that intentionally expressing gratitude in advance of a distressing or diﬃcult task may favorably inﬂuence employee behavior. To do so
 
-prior experience and knowledge that the task ahead will be unpleasant,
+eﬀectively, our research suggests these four steps can make a diﬀerence:
 
-the other person’s prior experience the last time they had to engage
+- 1. Anticipate distress, difﬁculty, and unpleasant emotions. The ﬁrst
 
-in the task (in our example, having layoﬀ conversations), or something
+step, and most important, is the anticipation of an employee’s experience of distress, diﬃculty, or unpleasant emotions (e.g., anxiety,
 
-that the other person shares with you directly (e.g., “I’m really dreading
+frustration). This requires not only being aware of what is going on
 
-these layoﬀ conversations on Friday”). Rather than hoping it won’t be
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-that big of a deal, invalidating, or trivializing the situation, you can use
+4
 
-this information to take prescient, preemptive action.
-
-- 2. Show genuine gratitude. Before the employee goes into a diﬃcult
-
-and distressing situation, express genuine gratitude to them. In order
-
-for this expression of gratitude to be eﬀective, it needs to include a
-
-number of features, including being speciﬁcally tailored to the person
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,19 @@
-# on ROI:
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: e5aa1e76c795eba4d96d1660a9746989f8420e73
+title: i
+---
+## 2.3.5.1 Business value of People analytics from ROI based-view
 
-- PA as a strategic management tool
+Ben-Gal (2018)in her Return On Investment-based review of PA, describes an increasing
 
-- Evidence-based approach in PA
+amount of research papers on the topics, in addition, the topic also acquires more attention in
 
-- PA as a decision-making support tool
+practice and emerges in business and management journals. The author describes four PA
 
-- Future of PA as management fad
+research approaches, which include empirical research, conceptual, case-based, and technical
 
-As a management tool, PA is proven to have a positive impact on organizational development
+research. According to Ben-Gal, this indicates PA has enhanced its presence in business
 
-and yields a high ROI for the organization. More specifically, when instilled in the management
-
-process, analytics accommodates the strategy-making with measurement, metrics, and
-
-prediction. The author highlights the prediction of turnover rates as a notable example of PAl
+research. The research reveals four significant trends of PA research categorized by its impacts

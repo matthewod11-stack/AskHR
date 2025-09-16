@@ -1,5 +1,13 @@
-## McCarthy, J. M., & Saks, A. M. (2008, April). Rapport building
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 703103310fe00b5f0bf255a12479007072a76bb2
+title: industrial_organizational_psychology_an_applied_approach
+---
+## and marijuana. Psychological Reports, 79(2), 366.
 
-in job interviews: Implications for interviewee anxiety and interview performance. In M. R. Barrick (Chair), Th e role of unstructured information in the employment interview. Symposium presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
+McCarthy, J. M., & Goﬃ n, R. D. (2001). Improving the validity
 
-McCarthy, P. M. (1998). Brief outline of the history of I/O psychology. www.mtsu.edu/(cid:1)pmccarth/io_hist.htm McClelland, D. C. (1961). Th e achieving society. Princeton, NJ:
+of letters of recommendation: An investigation of three standardized reference forms. Military Psychology, 13(4), 199–222.
+
+McCarthy, J. M., & Goﬃ n, R. (2004). Measuring job interview anxiety: Beyond weak knees and sweaty palms. Personnel Psychology, 57(3), 607–637.

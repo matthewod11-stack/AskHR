@@ -1,19 +1,13 @@
-## emergence of cliques, silos, and conﬂicts.
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1f27feac4ed3ca791ba46e32c33e208f40e1378
+title: H077VU-PDF-ENG
+---
+# meaningful.
 
-And yet shared goals can still oﬀer leaders a valuable opportunity for
+The challenge in many organizations is that shared goals are often
 
-building a team mentality, even when collaboration is limited. For
+surprisingly diﬃcult to identify, especially when members of the same team are working on diﬀerent projects. It’s when we don’t feel like
 
-example, managers can draw attention to the ways projects require a team eﬀort. Doing so can be as simple as highlighting an important
-
-collaboration, or publicly thanking an individual whose contributions
-
-are vital to a team’s success but are easy to overlook.
-
-Another option is to emphasize team-wide goals (such as objectives
-
-and key results, or OKRs) that can only be achieved through working
-
-together. Depending on the department, team OKRs may include
-
-increasing referrals, improving organic traﬃc, or optimizing employee
+our objectives align with those of our colleagues that we witness the

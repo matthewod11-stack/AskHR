@@ -1,9 +1,9 @@
-# illness. St. Louis, MO: Mosby.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5ddba9a22827c0a18d7a5b78e537931a628967b1
+title: untitled
+---
+# for bio-medicine. Science, 196, 129–136.
 
-Franz, I. D. (1913). On psychology and medical education. Science,
-
-38, 555–566.
-
-Gatchel, R. (1993). Psychophysiological disorders: Past and present perspectives. In R. Gatchel & E. Blanchard (Eds.), Psychophysiological disorders: Research and clinical applica- tions (pp. 1–21). Washington, DC: American Psychological Association.
-
-Gentry, W. D. (Ed.). (1984). Handbook of behavioral medicine.
+Fordyce, W. E. (1976). Behavioral methods for chronic pain and

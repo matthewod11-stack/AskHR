@@ -1,9 +1,9 @@
-# Assumptions About People
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 3ffd3cd4a003462e5eee4c794f78505d217e6dd6
+title: document_resume
+---
+# Performance Appraisal
 
-Writing in the late 1950s, Douglas M. McGregor was one of the first writers to suggest that administrators who hold different assumptions about people in their organi- zations will behave differently toward them as well. This, of course, is the ba'is for McGregor's famous set of assumptions known as Theory X and Theory Y.3
-
-Recall that if administrators feel subordinates are lazy, indifferent, and uncoopera- tive, they will treat them that way. Conversely, if it is assumed that their subordinates are hard working, open-minded, and interested in achieving organizational objectives, they will treat them quite differently. The irony is that consistent with reinforcement theory, people will tend to live up to expectations, in other words, treat people as losers and they will begin to act like losers. McGregor called this result a self-fulfilling prophecy.
-
-While McGregor's work is almost 30 years old and has received some criticism, the real value is that an administrator influences a situation by his/her assumptions about neople. A number of other researchers have demonstrated the effect that expec- tations and environmental pressures have on human behavior. In particular, researchers such as John Roueche and George Baker recommend shifts from rigid, traditional forms of government to models of governance which are more humanistic and create a work environment that is caring and nt.rturing.4 Leadership assumptions and governance styles clearly impact upon employee performance.
-
-In regard to performance appraisal, the administration would do well to provide a positive governance style which assumes that people want to do a good job and will not only accept performance appraisal, but will demonstrate a high degree of cooperation in carrying out a program to w hich they become committed. Therefore, adopt the Theory Y assumptions. There is nothing to lose and a great deal to be gained.
+As has been well stated by John Kingdon, "If you're not ready to paddle when the big wave comes along, ycl're not going to ride on it. 1 he objective of this chapter is to present a strategy for developing and implementing a performance appraisal program in a postsecondary institution. The following material draws heavily on the experience of Southern Union State Junior College to demonstrate how a rather significant endeavor of this nature can be accomplished.

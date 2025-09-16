@@ -1,17 +1,13 @@
-## HBR / Digital Article / Train Your Brain to Work Creatively with Gen AI
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4955f264660168d2c1c09a7fed80d5367c5ecc23
+title: H08HWT-PDF-ENG
+---
+# approach change?”
 
-- 7. Prompt for perspectives, beyond facts
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Ask AI to take on diﬀerent perspectives to broaden the creative capacity
+6
 
-for unpredictable results. For instance, “How might an artist, a scientist,
-
-and a philosopher each approach the challenge of leading in a tech-
-
-driven world?” prompts AI to combine diverse viewpoints, oﬀering a
-
-richer pool of ideas, and inspiring you in ways not possible before.
-
-- 8. Experiment with “role-play” prompts
-
-Train yourself to consider multiple perspectives by asking AI to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

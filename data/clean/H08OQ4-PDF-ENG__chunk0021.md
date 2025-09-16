@@ -1,13 +1,27 @@
-# HBR / Digital Article / How to Prepare for a Meeting Where Emotions Will Run High
+---
+source_path: H08OQ4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af129cf3f1c702eaa3699bfea0d3aac69477202f
+title: H08OQ4-PDF-ENG
+---
+# Build in buffer zones
 
-any built-up stress so that you don’t take it into your next interaction.
+Leaders’ schedules are often crammed with back-to-back meetings,
 
-If this requires rescheduling a meeting or adjusting your arrival or
+but taking time to get into the right headspace before a challenging
 
-departure time, it’s worth it.
+interaction is essential. Set aside 10 minutes before your meeting to
 
-These buﬀer zones help you stay present and composed throughout
+mentally prepare so you can arrive focused and composed. You might
 
-the day but require planning ahead. Get into the practice of looking
+review key points, remind yourself how you want to show up, and get
 
-ahead at your calendar to identify important meetings, challenging
+grounded. Afterward, plan to take another 10 minutes to process and
+
+reset. For instance, you might take a short walk to reﬂect and release
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,33 +1,23 @@
-# its platforms.
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9bec0c4359eaddcb1a3935a3ff5971b618a40493
+title: R2505L-PDF-ENG
+---
+## HBR / Magazine Article / How to Counter Fake News
 
-Fake news is distinct from misinformation or false rumors, which can
+stories on Twitter by MIT researchers. And with each share, it gains
 
-be deﬁned as false content shared regardless of intent. In contrast, fake
+momentum: The more it gets shared, the more it looks true, and the
 
-news is a speciﬁc type of disinformation: It is deliberately fabricated as a
+more people share it. Fake news is likely to be an even bigger problem in
 
-“news” story with an intent to deceive, transmitted by social media, and
+the coming years as trust in legacy media continues to erode, advances
 
-characterized by virality.
+in AI and video-editing technologies make fabricated content nearly
 
-The traditional corporate playbook for responding to misinformation or
+indistinguishable from reality, and social media companies abdicate
 
-false rumors assumes that a company is engaging with actors who want
+their content-moderation responsibilities, as Meta did in early 2025
 
-to set the record straight or are open to fact-based persuasion. It calls
-
-for companies to ignore the information, scramble to have it removed,
-
-or provide facts and accurate information to debunk false claims. This
-
-fact-checking approach typically involves issuing statements through
-
-its own media channels, such as corporate Facebook pages or X
-
-accounts, as Eli Lilly did. When it comes to fake news, all those
-
-approaches are insuﬃcient. Through our own research and decades of
-
-experience in studying and advising on reputation management, we’ve
-
-found that conventional methods fail to address the full scope of the
+when it announced that Facebook would stop fact-checking content on

@@ -1,11 +1,13 @@
-## beneﬁts speciﬁcally for elder caregivers.
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24d0cbb1b1e8e9ce25df0947c179184f2aac1709
+title: R2504F-PDF-ENG
+---
+# Promising Models
 
-Bank of America, for instance, provides beneﬁts to support employees
+As part of our investigation into the eldercare challenge, we’ve
 
-across all stages of life, with the goal of enabling productivity, increasing
+examined several companies that are leading the way, either by
 
-engagement, and encouraging lengthy careers. The company’s support
-
-for eldercare has been evolving since 2010, and today its eldercare
-
-beneﬁts include information resources and referrals, such as access
+redesigning their approach to caregiving beneﬁts or by oﬀering new

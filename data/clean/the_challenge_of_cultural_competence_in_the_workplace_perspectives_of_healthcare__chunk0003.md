@@ -1,7 +1,9 @@
-# Abstract
+---
+source_path: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare.md
+pages: n/a-n/a
+chunk_id: 4cde0257de1f4f26093ec6c0092c3a40ddec84fa
+title: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare
+---
+# Open Access
 
-Background: Cross-cultural educational initiatives for professionals are now commonplace across a variety of sectors including health care. A growing number of studies have attempted to explore the utility of such initiatives on workplace behaviors and client outcomes. Yet few studies have explored how professionals perceive cross-cultural educational models (e.g., cultural awareness, cultural competence) and the extent to which they (and their organizations) execute the principles in practice. In response, this study aimed to explore the general perspectives of health care professionals on culturally competent care, their experiences working with multi-cultural patients, their own levels of cultural competence and the extent to which they believe their workplaces address cross-cultural challenges. Methods: The perspectives and experiences of a sample of 56 health care professionals across several health care systems from a Mid-Western state in the United States were sourced via a 19-item questionnaire. The questionnaire comprised both open-ended questions and multiple choice items. Percentages across participant responses were calculated for multiple choice items. A thematic analysis of open-ended responses was undertaken to identify dominant themes.
-
-Results: Participants largely expressed confidence in their ability to meet the needs of multi-cultural clientele despite almost half the sample not having undergone formal cross-cultural training. The majority of the sample appeared to view cross-cultural education from a ‘cultural awareness’ perspective - effective cross-cultural care was often defined in terms of possessing useful cultural knowledge (e.g., norms and customs) and facilitating communication (the use of interpreters); in other words, from an immediate practical standpoint. The principles of systemic cross-cultural approaches (e.g., cultural competence, cultural safety) such as a recognition of racism, power imbalances, entrenched majority culture biases and the need for self-reflexivity (awareness of one’s own prejudices) were scarcely acknowledged by study participants.
-
-Conclusions: Findings indicate a need for interventions that acknowledge the value of cultural awareness- based approaches, while also exploring the utility of more comprehensive cultural competence and safety approaches.
+The challenge of cultural competence in the workplace: perspectives of healthcare providers Stephane M. Shepherd1*, Cynthia Willis-Esqueda2, Danielle Newton3, Diane Sivasubramaniam4 and Yin Paradies5

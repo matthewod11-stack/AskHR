@@ -1,11 +1,29 @@
-# decency.
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4ddde3c2950e7efaf4d7cd2385438f9f2b4d0e2
+title: H08NQI-PDF-ENG
+---
+## HBR / Digital Article / Leaders Can Move Fast and Fix Things
 
-Our work suggests that low empathy is a big deal, as people don’t trust
+- 2. Build more trust as you go.
 
-leaders who seem to be primarily in it for themselves. When we worked
+Trust in leadership is a byproduct of logic, authenticity, and empathy,
 
-with Uber’s senior team to rebuild trust after its own crisis in leadership,
+a pattern that goes all the way back to Aristotle’s observation that
 
-the company quickly made it clear to drivers, riders, and regulators
+persuasion requires a combination of logos, pathos, and ethos.
 
-that it also cared about their interests—not just the enrichment of their
+Our take on the American people’s trust in the current government eﬃciency campaign is that it gets high marks for authenticity (we
+
+believe we’re seeing the real Elon Musk in action), the beneﬁt of
+
+the doubt on the logic of the cuts (reducing government waste is a
+
+reasonable goal), but decidedly low marks for empathy. As Rep. Rich
+
+McCormick (R-Ga.) told CNN’s Manu Raju, the GOP should do a better
+
+job of showing “compassion.” Compassion is also a core American value.
+
+We see ourselves as decent people and want our leaders to embody that

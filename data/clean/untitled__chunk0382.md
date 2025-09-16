@@ -1,7 +1,13 @@
-# Boston: Houghton Mifﬂin.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c4e24af6e670edcf769f31ae754bf24b00e47708
+title: untitled
+---
+## Washington, DC: American Psychological Association.
 
-Napoli, D. S. (1981). Architects of adjustment: The history of the psychological profession in the United States. Port Washington, NY: Kennikat Press.
+Moore, D. L. (1992). The Veterans Administration and the training program in psychology. In D. K. Freedheim (Ed.), History of psychotherapy: A century of change (pp. 776–800). Washington, DC: American Psychological Association.
 
-Parsons, F. (1909). Choosing a vocation. Boston: Houghton Mifﬂin.
+Münsterberg, H. (1909). Psychotherapy. New York: Moffat, Yard.
 
-Peterson, D. R. (1992). The doctor of psychology degree. In D. K. Freedheim (Ed.), History of psychotherapy: A century of change
+Münsterberg, H. (1913). Psychology and industrial efﬁciency.

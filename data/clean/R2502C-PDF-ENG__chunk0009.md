@@ -1,21 +1,29 @@
-# ﬂow until 2002.
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07dc434bcf6fe340f66f52383d8cc8d5f9f9d5f4
+title: R2502C-PDF-ENG
+---
+## of advisory services on assets, calculates that in 1975 tangible assets
 
-Facing heavy pressure to improve the worth of their company, many managers have turned to what we call “spreadsheet strategies.” That approach is flawed.
+—such as land, buildings, and machinery—accounted for 83% of the
 
-Second, spreadsheet strategies typically extrapolate positive linear
+market value of the S&P 500. By 2020 that ﬁgure had plummeted to
 
-relationships ad inﬁnitum. For instance, if a $10 million reduction in
+just 10%. The remaining 90% consisted of intangible assets such as
 
-R&D spending correlated with improved proﬁts last year, then this
+patents, trade secrets, and brand equity. Annie Brown, the valuation
 
-approach suggests that a $20 million cut would double the ﬁnancial
+director at Brand Finance, a brand advisory consultancy, told us that
 
-beneﬁts in the following year. If market share increased for eight
+today only 24% of those intangibles are disclosed on S&P 500 balance
 
-years but recently declined for two, spreadsheet regression functions
+sheets. In other words, nearly 70% of all assets driving the market
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+valuations of major companies are invisible on ﬁnancial statements and
 
-3
+spreadsheets. Nevertheless, those assets are the reason that the stock
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+price of Amazon (founded in 1994) soared even though the company
+
+didn’t realize a quarterly proﬁt until 2001 or positive annual free cash

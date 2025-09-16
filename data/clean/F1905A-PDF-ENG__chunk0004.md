@@ -1,1 +1,7 @@
-# New Research and Emerging Insights
+---
+source_path: F1905A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4050110b22462694fa2a26e9c622e0d533a0cc5
+title: F1905A-PDF-ENG
+---
+## FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG

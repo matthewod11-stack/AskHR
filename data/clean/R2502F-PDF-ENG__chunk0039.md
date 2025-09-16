@@ -1,3 +1,17 @@
-## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5ea85f0e489b4fbbf6c8c6fce7e746f83350916
+title: R2502F-PDF-ENG
+---
+## the odds of misunderstanding and miscommunication.
 
-toll it may take on your negotiation performance. Otherwise, negotiate
+If adapting to another culture’s ritual appeals to you, then go ahead and
+
+enjoy the experience, but beware of the implications and the cognitive
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

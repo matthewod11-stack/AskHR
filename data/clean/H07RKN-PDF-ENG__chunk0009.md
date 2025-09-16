@@ -1,7 +1,23 @@
-## easy-to-remember and easy-to-implement structure for a pithy pitch.
+---
+source_path: H07RKN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4cf7b29edffbdf1409e618ce65b78a5efb80cab1
+title: H07RKN-PDF-ENG
+---
+## both professional environments and day-to-day interactions.
 
-These four simple sentence starters allow you to create a concrete,
+Successful pitching is, ﬁrst and foremost, about your audience. Your
 
-concise, easily repeatable pitch on the spot if needed:
+pitch must be understandable, relevant, and readily convincing —
 
-What if you could… [paints a picture of what is possible through your
+without any strong-arm tactics or perceived gimmicks and tricks. And
+
+in today’s rapid-ﬁre, short-attention-span world, it must also be concise.
+
+There are literally hundreds of thousands of books and lifetimes’ worth
+
+of training courses on pitching skills. But despite this plethora of
+
+content, I’ve found very little advice and guidance on how to pitch
+
+concisely and spontaneously. That’s why I’ve put together a simple,

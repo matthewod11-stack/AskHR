@@ -1,9 +1,25 @@
-## reportam direta ou indiretamente para ele.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 464138afb9047c0efa346788f4ad158e7912e71a
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# taxa de resposta, considerando
 
-As respostas das pessoas jamais são expostas nominalmente, sendo
+número total de respostas e número de convidados a responder e um gráfico
 
-apresentadas apenas como indicadores consolidados, utilizando o cálculo da
+evolutivo com o resultado do indicador de eNPS da companhia trimestralmente
 
-metodologia do eNPS, além da distribuição entre as classes detratores, neutros e
+desde o primeiro trimestre de 2021 até o quarto trimestre de 2022. O que muda,
 
-promotores, e outras estatísticas descritivas que não firam, de maneira nenhuma, a
+segundo a entrevistada, é o recorte de respostas a que cada líder tem acesso. Por
+
+exemplo, no caso do CEO, que é o líder máximo da empresa X, os resultados a que
+
+44
+
+ele terá acesso serão os consolidados de toda a companhia. Já no caso de um
+
+gerente de área específica, ele terá acesso apenas aos resultados consolidados das
+
+respostas das pessoas situadas hierarquicamente abaixo dele, ou seja, que

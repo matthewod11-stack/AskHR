@@ -1,3 +1,7 @@
-## Fig. 5.1. Basic Communication Transaction
-
-Frequently, appraisers sending nit,tiges find that their purposes are not achieved; the receiver (appraisee) does not respond as expected or possibly does not respond at all. When communication is viewed simply as "sending" a message, we may safely assume that communication will not take plate. As with the Tango, communication is a two-way process. It takes two people to hold an effective performance discussion.18 Further, the two persons must be in contact, have each other's attention, and attach similar meanings to messages. In summary, there must be a sender who transmits a message to a receiver who understands the meaning of the message in the same sense as the sender. The sender ascertains that communication has taken place by securing feedback from the receiver. Only then can the sender knov. whether a message has
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: e37e3e04530cda4b32a50c51fe25118edc56d214
+title: document_resume
+---
+# Interprets N_,..Encodes

@@ -1,39 +1,21 @@
-# HBR / Digital Article / Why Walmart Expanded Parental Leave — and How to Convince…
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6bdac37466f581300a022e77406a69611e27df07
+title: H0477B-PDF-ENG
+---
+## But Jackie Telfair, Walmart’s SVP of Global Compensation, told me
 
-from our associates that this was a benefit that was important to them,”
+this move was not about competing for workers with other companies.
 
-she told me.
+Instead, she said, it’s “an investment in our associates…[and] if we
 
-Walmart also recognized that what when workers have stability at work,
+invest in our associates, they will invest in our company.” Telfair said
 
-they can thrive at home, according to Telfair. And when they can
+they knew the benefit would be important to their employees. “We knew
 
-thrive at home, they’ll have better work engagement, performance, and
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-productivity. In other words, this was a business decision. Walmart’s
+2
 
-view is that, from a human capital management perspective, expanded
-
-parental leave makes a whole lot of sense. This is borne out by the data:
-
-research has shown that paid leave increases not only the probability
-
-that new mothers will return to their jobs, but also increases the hours
-
-they work when they do so.
-
-What’s remarkable about Walmart’s move is that it’s not just workers
-
-in low-paying jobs who are likely to cast an envious eye over Walmart’s
-
-paid parental leave. It’s also people who work at more “elite” employers,
-
-like Princeton University, which offers employees just two fully paid
-
-weeks, and Wellesley College, which offers just four. It includes
-
-employees at General Motors and Ford, where new mothers get only
-
-6-8 weeks at both, and new fathers get 2 weeks and bupkis, respectively.
-
-It includes workers at Cargill (two weeks) and Boeing (three) and CVS
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,33 +1,21 @@
-# HBR / Digital Article / Stop Overlooking the Leadership Potential of Asian Employees
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ba0b30962af4f183078569a0aafd5407c3933f0
+title: H088ND-PDF-ENG
+---
+# HBR Staff/Gang Zhou/Getty Images
 
-But here’s the catch: Although Asians are the most educated segment of
+Asian Americans are crucial in today’s knowledge economy: around
 
-the American workforce, they are the least likely among all racial groups
+60% hold at least a bachelor’s degree and, despite representing only
 
-to ascend to leadership roles. In fact, a detailed analysis of top Fortune
+about 7% of the U.S. population, account for 50% of the workforce in
 
-500 technology companies shows that Asian professionals are even less
+leading Silicon Valley tech companies.
 
-likely to progress in their careers today than they were a decade ago.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-This paradox points to a severe underutilization of Asian talent,
+1
 
-as deﬁned by the U.S. Census to include people originating from
-
-East, South, and Southeast Asia. This squandering of talent not only
-
-curtails individual career trajectories, it also directly impacts corporate
-
-productivity. When a substantial portion of a company’s workforce is
-
-hindered from contributing fully, the entire organization suﬀers.
-
-The urgency to address this challenge is further ampliﬁed by ongoing
-
-demographic shifts. Pew research shows that in the last two decades,
-
-the Asian population segment in the U.S. has surged by 81%, outpacing
-
-the growth rates of 70% for Hispanics, 20% for Black and 1% for
-
-white segments. This makes Asians not only America’s fastest-growing
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

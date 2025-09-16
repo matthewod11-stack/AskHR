@@ -1,7 +1,7 @@
-# The Basis for the Lexical Approach
-
-Is there a more compelling rationale for personality variable se- lection? As has long been recognized (Allport, 1937; Cattell, 1943; Goldberg, 1981; Norman, 1963), some of the most basic personal- ity attributes might be discovered from studying conceptions im- plicit in the use of the natural language. If a distinction is highly represented in the lexicon, it can be presumed to have practical importance. Personality concepts salient in the lexicon should not be left out of a taxonomy of personality attributes (Tellegen, 1993). That is, folk concepts of personality provide basic but not exhaus- tive (necessary but not sufﬁcient) components for a science of per- sonality attributes (Goldberg & Saucier, 1995).
-
-This leads us to a key premise of the lexical approach to taxon- omy construction: the degree of representation of an attribute in language has some correspondence with the general importance of the attribute in real- world transactions. Imagine an attribute for which there is, within one language, a dense cluster of loosely synonymous terms; such an attribute would certainly have a claim to importance, at least with respect to the language community within which it is so richly rep- resented (Zipf, 1949). An attribute that is represented by multiple terms in a language will likely appear as a factor in multivariate analyses. Moreover, if the factor includes terms that are used with high frequency, the importance of the factor is underscored. Fac- tors derived from studies of natural language personality descrip- tors in different languages provide a superb starting point for a taxonomy of personality attributes, particularly if widely diverse lan- guages are studied. These factors are but a starting point because the lexicon could omit or underemphasize some scientiﬁcally im- portant variables, and the meaning of single natural language terms can be vague, ambiguous, or context dependent (John, Angleitner, & Ostendorf, 1988). We can assume, however, that attributes richly represented in the lexicon are there for a reason.
-
-Cross-cultural generalizability is a valuable criterion for adju- dicating among competitor taxonomic structures. Psychology is the study of mind and behavior of humans in general, not just of hu- mans in a narrow range of sociocultural settings. Structural mod- els derived within one limited population, or a limited sample from that population, are prone to reﬂect the unique patternings found within that population or sample. Culture-speciﬁc patternings may
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: aa59107e2f3312c0e96d9e76c407ff08e32e38a8
+title: barrickryan_eds_personality_and_work
+---
+## THE STRUCTURE OF PERSONALITY ATTRIBUTES 5

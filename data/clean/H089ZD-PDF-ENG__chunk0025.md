@@ -1,11 +1,17 @@
-## HBR / Digital Article / Inside the Success of South Korean Brands
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c6d8a2bbc9ad8c388593beb3dbd2f095f292416
+title: H089ZD-PDF-ENG
+---
+# visual impairments.
 
-Promoted on social media, the series featured the daily experiences of
+In another recent example, Korea’s leading convenience store brand CU
 
-convenience store customers and employees, and garnered 100 million
+launched a short-form series drama Convenience Store Veterans in 2023.
 
-views in just 39 days, boosting CU’s brand image and customer loyalty.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-These examples show how K-brands are embracing the shorter,
+6
 
-highly engaging, culturally relevant content that their customers are
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

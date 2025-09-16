@@ -1,3 +1,7 @@
-# Implications for research and practice
-
-Future research is needed comparing OB and outcome (e.g., performance, retention) impact for in-person, hybrid, and remote employees, as well as studying generational differences. Having large enough samples to spe- cifically isolate work location, i.e., in-person, hybrid and remote, to then compare them on OB dimensions is critical (De Smet, Dowling, Mugayar- Baldocci & Spratt, 2022). In addition, Gurchiek (2022) noted generational
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: bdc228415a0280d48e155d10c5fbf96e2a8f99eb
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# four

@@ -1,15 +1,9 @@
-## a name and title and builds familiarity and recognition of those
+---
+source_path: H08C2C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b653a97babd71b593fd431c23dffef6fa099293
+title: H08C2C-PDF-ENG
+---
+## in photographs, and areas of expertise, achievements, skills, talents.
 
-within the company that are not in their immediate team. Including
-
-information about people’s skills — not just title or role — helps
-
-new employees more easily identify the resident project management
-
-software expert or the go-to person in charge of optimizing content for SEO. The annotated map should make clear the functions of diﬀerent
-
-departments and highlight how groups interact and are connected.
-
-- 2. Use AI to help with this task.
-
-AI-driven platforms can analyze huge amounts of data from across your
+Including photographs helps new employees quickly put a face to

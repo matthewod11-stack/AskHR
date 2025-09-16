@@ -1,31 +1,33 @@
-# internal needs.
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f51774ceaae8a8ff037064f9e9e286ebc52d8a6a
+title: H07IG2-PDF-ENG
+---
+## Who Should Lead AI-Enabled Process Change?
 
-While we have seen multiple instances in which reengineering
+Process improvement has traditionally solely been the domain of
 
-takes place alongside AI development, not enough organizations yet
+operations managers. For that reason it has been somewhat rare for
 
-recognize the need for process change. A more explicit callout of the
+organizations to have an explicit reengineering initiative in conjunction
 
-reengineering role and activities — including high-level design, detailed
+with their AI projects. To truly leverage the power of AI, process
 
-process ﬂows, measurement of before and after costs and cycle times,
+design and improvement activities should be incorporated within the
 
-and analysis of needed skills and training — would be helpful, whether
+AI initiative. The most successful such initiatives are increasingly
 
-it is called “reengineering” or not. The activities are too important to the
+being orchestrated by “product managers” who have the successful
 
-success of AI projects to leave them to chance or an astute manager who
+deployment of the system, including the needed business changes,
 
-remembers the reengineering movement.
+as their objective. Shell designates a product owner to manage the
 
-Because automation-focused projects have a direct impact on process
+business change, and a product manager who is responsible for
 
-ﬂows and are more likely than other forms of AI to involve only
+technical delivery. Some organizations also engage in “design thinking”
 
-incremental change, they are more likely to include a formal set of
+exercises, which overlap in part with reengineering-style analyses of
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+how workﬂows and activities need to be redesigned to meet customer or

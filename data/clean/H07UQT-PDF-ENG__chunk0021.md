@@ -1,21 +1,25 @@
-# in a family-controlled company.
+---
+source_path: H07UQT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 34062b18c8eb658e9569badb77c0a9b35346c2b8
+title: H07UQT-PDF-ENG
+---
+# A Month-by-Month Process
 
-The ﬁrst phase of onboarding, learn, begins a month before the new CEO’s oﬃcial start date. Because the successor hasn’t oﬃcially started the job, most of this work takes place outside the oﬃce. In this phase,
+We think of the CEO onboarding process as consisting of ﬁve distinct
 
-guided readings help the new CEO gain basic understanding and
+phases, each lasting approximately one month. We name the stages
 
-generate a list of questions for the months ahead. Start with readings
+according to what they look like from the incoming CEO’s perspective:
 
-that provide a panoramic view of the company — annual reports,
+learn, listen, observe, own, and evaluate. We assume that during the
 
-press coverage, etc. If the company is publicly-traded, the incoming
+opening stages, the incumbent CEO remains in the role to facilitate the
 
-CEO might listen to recordings of recent earnings calls with investors.
+hand-oﬀ, as is typical in most planned CEO transitions.
 
-As the month progresses, the readings should become increasingly
+For each phase, we outline basic objectives for the new CEO, describe a
 
-speciﬁc, potentially including internal memos, slide decks, or meeting
+big-picture view of what will be necessary from the company to achieve
 
-minutes. The depth of this process may depend partly on the new CEO’s
-
-background; someone coming from a diﬀerent industry will require
+those objectives, and explain the unique dynamics that come into play

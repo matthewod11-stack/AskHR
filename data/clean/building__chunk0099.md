@@ -1,9 +1,7 @@
-# 5 Immediate task description or request
-
-6 Output formatting
-
-7 Pre-filling the response (if required)
-
-20
-
-Here’s what our prompt might look like if we wanted Claude to help us classify customer support tickets:
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: b44fe871c2972b0b94eac4d6f75c9e474b7f20d5
+title: building
+---
+## 4 Conversation history (if applicable) or user input

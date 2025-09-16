@@ -1,13 +1,21 @@
-# Authors
+---
+source_path: what_is_design_thinking_and_why_is_it_important.md
+pages: n/a-n/a
+chunk_id: 5649b09719ccb3375721b1ac800680e643542529
+title: what_is_design_thinking_and_why_is_it_important
+---
+# Razzouk & Shute
 
-RIM RAZZOUK completed her PhD in instructional systems at the Florida State University (FSU), Tallahassee, Florida. She also pursued her master's in instructional systems and obtained a certificate in human performance technology from FSU. Her research interests focus on the application and evaluation of different learner-centered methods and strate- gies, integration of mobile technology in education, and development of team-shared mental models. Currently, Rim is working as the director of measurement and assessment at Edvation in Seattle, WA; e-mail: rr05e@fsu.edu.
+Suwa, M., Gero, J., & Purcell, T. (2000). Unexpected discoveries and s-invention of design requirements: Important vehicles for a design process. Design Studies, 21, 539–567. doi:10.1016/S0142-694X(99)00034-4
 
-VALERIE SHUTE is a professor at Florida State University. Before coming to FSU in 2007, she was a principal research scientist at Educational Testing Service (2001-2007) where she was involved with basic and applied research projects related to assessment, cogni- tive diagnosis, and learning from advanced instructional systems. Her general research interests hover around the design, development, and evaluation of advanced systems to support learning, particularly related to twenty-first-century competencies. Her current research involves using immersive games with stealth assessment to support learning of cognitive and noncognitive knowledge and skills.
+Tang, H-H., & Gero, J. S. (2001). Sketches as affordances of meanings in the design process. In J. S. Gero, B. Tversky, & T. Purcell (Eds.), Visual and spatial reasoning in design II (pp. 271–282). Sydeny: University of Sydney, Australia: Key Center of Design Computing and Cognition.
 
-348
+Todd, R., & Magleby, S. (2004). Evaluation and rewards for faculty involved in engi-
 
-Downloaded from
+neering design education. International Journal of Engineering, 20, 333–340.
 
-http://rer.aera.net
+Ullman, D., Dietterich, T., & Stauffer, L. (1988). A model of the mechanical design process based on empirical data. Artificial Intelligence in Engineering Design and Manufacturing, 2, 33–52.
 
-at AERA on October 2, 2012
+Weth, R., Von der. (1999). Design instinct? The development of individual strategies.
+
+Design Studies, 20, 453–463. doi:10.1016/S0142-694X(99)00021-6

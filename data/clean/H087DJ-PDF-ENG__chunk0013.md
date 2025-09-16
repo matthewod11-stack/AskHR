@@ -1,15 +1,25 @@
-# of your race or ethnicity).
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb5b4a26c3e56c31a4f198de5a715e994c07abbd
+title: H087DJ-PDF-ENG
+---
+# leaders.
 
-Research shows that experiencing or observing racism impacts
+Racism takes three forms, each of which is a chronic stressor. Systemic
 
-someone on a cellular level, aging them at a faster rate and placing
+racism is when ideologies, institutions, and policies operate to produce
 
-them at higher risk for mental health concerns. If you’re a person of
+racial and ethnic inequality (such as your ﬁrm only hiring “qualiﬁed”
 
-color, you likely experience one or more forms of racism on a daily basis.
+people of color, or employees of color only being assigned clients of
 
-As a result, you are at higher risk for anxiety and depression as well as
+color). Interpersonal racism involves two or more people and can be
 
-stress and trauma disorders. For some disorders (anxiety and trauma),
+manifested through bigotry, bias, prejudice, and microaggressions (such
 
-the symptoms experienced by Black Americans are more intense and
+as a colleague making an oﬀensive comment to you). Internalized
+
+racism is the acceptance of negative stereotypes and societal beliefs
+
+about your racial group (such as believing you were only hired because

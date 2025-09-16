@@ -1,7 +1,7 @@
-## companies (e.g., ABB, Atlas Copco, Eaton, Emerson) tend to have
-
-product as primary dimension. Food and beverage companies tend to
-
-seek a balance between region and product, with most giving more
-
-weight to region (e.g., AB InBev, Coca-Cola Company, Danone, Nestlé,
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 509ea8f45436d4cd40e2103b8e5235a3e5d8a4cf
+title: H06YIA-PDF-ENG
+---
+## supply, commercial) as their primary dimension. Industrial equipment

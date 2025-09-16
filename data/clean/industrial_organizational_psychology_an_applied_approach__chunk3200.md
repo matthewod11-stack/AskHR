@@ -1,27 +1,7 @@
-# Organizational Culture
-
-Another important consideration in organizational change is organizational cul- ture. Often referred to as corporate culture or corporate climate, organizational culture comprises the shared values, beliefs, and traditions that exist among individuals in organizations (Nwachukwu & Vitell, ; Schein, ; Weber, ). It is this culture that establishes workplace norms of appropriate behavior (what’s wrong or right) and defines roles and expectations that employees and management have of each other (Nwachukwu & Vitell, ; Sackman, ; Weber, ). Most cultures have a subculture. For example, the environment in which you were raised is a subculture of a bigger culture, the American culture.
-
-In organizations, each department or office can be a subculture with norms of behaviors that may be different from those of the overall organization. How each department reacts to change is a result of that subculture. Most major changes, such as changing management philosophies, will require a cultural and a subcultural change to support the implementation of new ideas throughout the entire organization. This is discussed in more detail later in this section.
-
-Think of your university as an organization with its own culture and your classroom as a subculture. Your university probably has created a culture of honesty and trust where each student is expected to adhere to honor codes. To enforce or maintain that culture, it uses sanctions such as taking you before the Judicial Board if you are caught cheating or violating some other rule.
-
-From the first day of class, norms such as good attendance and participa- tion in class have been established that create a subculture. These norms were probably established by rules that your professor orally communicated or that were written in your class syllabus. If you know that the classroom culture is one where you may be expected to discuss your reading material, you are more likely to read your text each week prior to class. Your professor may use certain rewards (such as giving points for classroom participation) or sanctions (such as taking off points) to maintain the culture. Eventually, this culture, which includes the expectations of the professor, gets communicated to other students, who at that point decide whether they want to be members of that culture or not. In other words, if the class and expectations are too hard, the students will sign up for a different class with a more compatible culture.
-
-Culture and norms also result from observing, or modeling, the behaviors of others. Just like your individual personal cultures, which contained role models such as your parents, clergy, and friends who significantly influenced you over
-
-the years, organizational culture also has role models who influence your work behavior and teach you norms (Nwachukwu & Vitell, ; Weber, ). Going back to the classroom example, if you observe your professor coming in late every class or several of your classmates consistently arriving late or leaving early with- out negative consequences, this may begin to create a culture of irresponsibil- ity or unaccountability. You may eventually become one of those students with poor attendance because this has become the accepted “norm.” To transform that culture into one of accountability and responsibility, the leader (your professor) needs to model appropriate behavior and to use some strategy (such as taking off points for tardiness) to maintain the better culture.
-
-As you can see, organizational culture can aid employees in behaving opti- mally. However, it can also be a contributing factor in many undesirable behaviors such as unethical decision making. For example, if an organization’s top manage- ment consistently engages in unethical behaviors and decision making, it is likely that its employees will learn those norms and incorporate them into their own professional value system and behave accordingly (Chen, Sawyers, & Williams, ; Nwachukwu & Vitell, ). To change that behavior, the cultural norms that hinder change must be eliminated (e.g., unethical supervisors, positive con- sequences of unethical behavior such as financial rewards) (Van Slyke, ).
-
-As important as it is, organizational culture has traditionally been ignored during restructuring and other changes. This is either because there is a general belief that culture can’t be changed or because many organizations do not know how to change their cultures. In fact, in a survey of  corporations, % stated that they did not have the knowledge to address cultural issues (Sherriton & Stern, ). Without such knowledge, changes in the way the company operates, and thus, the way its employees behave, will not be long-lasting. Consequently, it is important that an organization knows how to include culture in its change process.
-
-Changing Culture Making organizational changes doesn’t necessarily mean that everything about the existing culture must change. According to one manager, “The change pro- cess includes holding on to the successful elements of the present culture and adding new elements that are important” (Laabs, , p. ). Consequently, the first step in changing culture is assessing the desired culture and comparing it with the existing one to determine what needs to change. Two additional steps are creating dissatisfaction with the current culture to create support for the new one and maintaining the new culture.
-
-Assessing the New Culture Assessment of the new culture involves a great deal of discussion and analysis and should include the following steps (Sherriton & Stern, ).
-
-Step 1: Needs Assessment. Because parts of the existing culture may actually support certain organizational changes, the current culture must be analyzed and compared with the desired culture to determine what might need to change. For example, if an organization wants to move from a traditional hierarchi- cal management philosophy to a more empowering one where employees share more decision-making responsibilities, there will have to be a change in systems, procedures, and policies to fully support the new culture. Areas such as role expectations, job descriptions identifying the new decision-making
-
-organization development
-
-523
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: b020ac19450e35411a2b32b1d11f5137a5e36765
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Exercise . in your workbook.

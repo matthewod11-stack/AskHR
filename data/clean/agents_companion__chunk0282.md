@@ -1,5 +1,9 @@
-## traction control." [Confidence score: 71%]
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 519aef49ba7620d04b73515e4525cdc0e83c54bf
+title: agents_companion
+---
+# Car Manual Agent Response: "Your Audi is equipped with Electronic Stability Control
 
-General Knowledge Agent Response: "Aquaplaning occurs when your tires lose contact
-
-with the road surface due to water buildup between the tires and the road." [Confidence
+(ESC) and Anti-lock Braking System (ABS) which help prevent aquaplaning by maintaining

@@ -1,1 +1,9 @@
-# 117
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e51d20464cd86440adaa001d40ce7d6bafedcb08
+title: performance_management_3rd_edition_by_aguinis
+---
+## The Evolution of the Forced Distribution System at GE
+
+General Electric (http://www.ge.com) is one of the most frequently cited companies to have utilized a comparative rating system with a forced distribution. GE, based in Fairfield, Connecticut, provides a wide array of products and services globally to customers in the areas of financial services, media entertainment, health care, and energy technologies, and products such as appliances and plastics. In recent years, the rigid system of requiring managers to place employees into three groups (top 20%, middle 70%, and bottom 10%) has been revised to allow managers more flexibility. While the normal distribution curve is still referenced as a guideline, the reference to the 20/70/10 split has been removed, and work groups are now able to have more “A players” or “no bottom 10’s.” The company did not view the forced distribution system of the past as a match for fostering a more innovative culture in which taking risks and failure are part of the business climate. As a result, the company has begun evaluating employees relative to certain traits, including one’s ability to act in an innovative manner or have an external business focus. In summary, GE’s performance management system and revisions to the system provide an example of how decisions about the measurement of performance need to consider the ramifica- tions and resulting behaviors that are encouraged or discouraged. The consideration of culture and overall business strategy is also crucial in determining how to measure performance.20

@@ -1,19 +1,27 @@
-## receptive to relationships, interdependencies, and possibilities—like
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a82704305f222787dc3de4c6c1f1b80ef780deb1
+title: H08SLG-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
 
-Soren’s approach to cost-cutting. Spacious mode leads to critical
+The team’s conversation led to the recognition that there were
 
-beneﬁts in the workplace, such as gaining insight into challenges,
+overlooked assets in the archive that might be used for a new
 
-thinking strategically, spotting opportunities, building relationships,
+program. This idea eventually led to a top-line contribution of tens of
 
-and sparking joy and motivation.
+millions, and reductions in workforce were avoided. In contrast, other
 
-Unfortunately, we’ve found that spacious thinking is regularly
+departments in the institution simply moved forward with cycles of
 
-suppressed in favor of doing mode in organizations. This is hardly a
+layoﬀs which reduced morale and led to burnout.
 
-surprise. We are living in a time of cultural obsession with productivity
+For the last few years we have been researching two modes of
 
-and achievement across all spheres of life. Our research—which has
+attention that people use at work: doing mode, in which people
 
-included a global survey of more than 3,000 employees, ongoing
+pay narrow attention to a speciﬁc task in order to control, predict and get it done eﬃciently; and spacious mode, in which people
+
+pay attention more expansively, without hurry, making them more

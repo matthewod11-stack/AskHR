@@ -1,17 +1,13 @@
-# HBR / Digital Article / Research: Immigrants Played an Outsize Role in America’s Age o…
+---
+source_path: H03LVO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dde73892866f7868d27de9f70891e897505edc35
+title: H03LVO-PDF-ENG
+---
+## economic opportunities, or cultural barriers to assimilation.
 
-We also looked at the technology areas in which immigrant inventors
+Copyright © 2017 Harvard Business School Publishing. All rights reserved.
 
-were active. The largest share of immigrants were involved in
+2
 
-developing medical technology inventions, such as surgical sutures.
-
-But medical technology accounted for just 1% of all U.S. patents. In
-
-areas that had a much larger eﬀect on the U.S. economy at this time
-
-– speciﬁcally electricity and chemicals, which accounted for 13.9% and
-
-12.6% of all U.S. patents respectively – immigrants were also strongly
-
-represented. Migrant inﬂuence was widespread, with migrant inventors
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,13 @@
-# HBR / Digital Article / 3 Reasons Change Initiatives Fail — and How to Ensure Yours Su…
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 936624eb4a2b10621d799b631ec560bebf1e3aea
+title: H08I7Y-PDF-ENG
+---
+# heavily in one direction or another.
 
-When working on this task, pay close attention to how team members
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-approach tasks and challenges. Do they focus on potential gains,
+4
 
-moving quickly toward solutions? Or do they prioritize avoiding
-
-mistakes, taking a more cautious, methodical approach?
-
-- 3) Match motivations to initiatives.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

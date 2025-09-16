@@ -1,3 +1,11 @@
-# https://rforhr.com/
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 62b8656f89e9ac9be2cc081d986fdd5a097a19b4
+title: i
+---
+# (Version
 
-(cid:111) Characteristics of Big Data: Types & Examples. (n.d.). Bay Atlantic from
+0.1.3:
+
+2023-09-13)

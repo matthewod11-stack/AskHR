@@ -1,9 +1,11 @@
-# ask for it.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2078d1ef118f532068a33d1608752de413a78202
+title: H08GNF-PDF-ENG
+---
+# work here?”
 
-- Ignore the question: Ensure that your story directly addresses the
+- Ramble: Keep your answers concise and focused without tangents or
 
-prompt instead of just telling a prepared story.
-
-- Focus solely on positive outcomes: It’s okay to share challenges and
-
-how you overcame them. This shows resilience, perseverance, and
+too much backstory. If the interviewer wants greater detail, they will

@@ -1,15 +1,29 @@
-## on Generative AI,” HBR, November–December 2023.) It’s particularly
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4a16292f9c0aafe6ee8bb5f98cde35da2a54ae61
+title: R2403F-PDF-ENG
+---
+# and restructuring.
 
-important to be clear that the company has no secret plan to replace
+Fear of AI. Perhaps the biggest worry across workplaces is whether new
 
-people with AI. In addition, it’s smart to engage employees in evaluating
+forms of AI will eliminate jobs. That was one of the main concerns
 
-AI’s potential uses, because doing so helps reduce their stress and
+prompting the 2023 Hollywood strikes by screenwriters’ and actors’
 
-increases learning in the process.
+unions, which succeeded in getting studios to place boundaries around
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+the use of AI to replace human talent. HR needs to calm the furor
 
-7
+by communicating to the organization, “We’re just ﬁguring out how
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+these tools can be used. In the past it has taken decades for new
+
+technologies to be fully embraced, and virtually none has lived up to
+
+the hype.” In fact, the evidence so far suggests that generative AI, which
+
+has produced widespread worker fear, will be more likely to enhance
+
+jobs in the near term than eliminate them. (See “How to Capitalize

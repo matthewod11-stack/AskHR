@@ -1,23 +1,23 @@
-# HBR / Digital Article / Research: Why Employees Work While Sick—and How Leaders C…
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29a182ecbe7ac09b9bf03d7cfb3ff0025d1bddd8
+title: H08R51-PDF-ENG
+---
+# Roos Koole/Getty Images
 
-Jordan, a marketing manager at a tech ﬁrm, had chills and fatigue. Even
+Liza, an emergency medicine physician, had a fever and a persistent
 
-with the ﬂexibility to work remotely and explicit encouragement from
+cough, but rigid shift requirements left her little ﬂexibility. Returning
 
-his boss to take sick leave, Jordan feared that missing critical meetings
+from maternity leave recently, she worried that calling out sick would
 
-and deadlines could signal unreliability. He pushed through, joining
+brand her as “less committed,” so she worked despite exhaustion,
 
-meetings camera-oﬀ and responding to emails throughout the day.
+potentially exposing her patients and coworkers.
 
-Liza and Jordan’s experiences, while distinct, point to a growing
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-workplace challenge: presenteeism, or working while ill. Even among
+1
 
-workplaces that oﬀer sick leave, a 2023 survey estimated that nearly
-
-90% of U.S. employees worked while sick during the past year, and
-
-40% hesitated to use available sick leave. Ironically, working while sick
-
-with an infectious disease is most prevalent among those who work in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

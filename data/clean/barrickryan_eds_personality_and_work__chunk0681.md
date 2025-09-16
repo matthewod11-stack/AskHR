@@ -1,7 +1,15 @@
-# 230 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 16f4b065ccff122030ac649bda37eab3ccc33804
+title: barrickryan_eds_personality_and_work
+---
+# CHAPTER 9
 
-this continuum is to understand the learning process more fully. We must examine both the constancy and stability residing in the individual, as well as the dynamic qualities that arise from the process of the individual learner in interacting with the learning situation.
+Understanding the Dynamic Learner Linking Personality Traits, Learning Situations, and Individual Behavior J. Kevin Ford Frederick L. Oswald
 
-Two trends emphasize a need to understand the dynamic learning process better. The ﬁrst is in self-managed learning, where potentially the learner has ﬂexibility in choosing how, when, or even whether to explore different learning environments and var- ious aspects within them (Brown & Ford, 2002; Warr & Bunce, 1995). The second trend is in computer-adapted learning, where there can be great latitude in tailoring the learning environment based on a learner’s characteristics and responses while learning. These two trends, taken together, imply a much larger role for the personality of the learner to inﬂuence the learning situation, be- cause much of personality relates to motivational characteristics: the direction, frequency, and intensity with which learning activi- ties are carried out. This chapter presents a synthesis of the re- search literature and our thoughts on how personality traits relate to the processes and outcomes of learning and what the implica- tions are for designing better learning environments.
+Under whatever disciplinary ﬂag, . . . someone will always ask how individuals are different from each other, how behavior changes, how people perceive, think, and plan, and how people experience reality, and even what might be going on in the regions of the mind usually hidden from view [Funder, 2001, p. 216].
 
-The ideas we present are somewhat speculative in nature be- cause the research literature combining personality with learning processes and outcomes is rather sparse. In personnel selection, Hough and Schneider (1996) note that the role of personality has been “phoenixlike,” historically held in disrepute but currently quite well established. By contrast, Mount and Barrick (1998) point out that when it comes to learning in organizations, “there remains a relative void in the literature regarding the relationship between personality dimensions and training outcomes” (p. 852). Although the amount of research conducted on personality and learning is small compared to the work on personnel selection, it is building toward a critical mass and deserves review. This research gap should be addressed because in the light of various training environments and training design considerations, it is theoretically and practi- cally useful to examine which broad personality dispositions or traits may be more effective in predicting individuals’ standing on key criterion constructs related to learning processes, such as mo- tivation to learn, attentional focus and self-regulation (Ford &
+The term dynamic learner conjures up images of an active, contin- uously productive person who develops over time in knowledge, skill, and motivation with the goal of accomplishing some set of de- sired learning outcomes. Learners and those who design new learning environments in organizations may be energized about and dedicated to the concept of the dynamic learner (and its as- sociated buzzwords), yet it is important to understand the realistic boundaries for the individual learning process, as well as for learn- ing environments that can be created. There exists a continuum in that no learner is completely adaptable to whatever learning sit- uation presents itself, nor can a particular learning situation be well suited to all learners. To understand the middle ground on
+
+229

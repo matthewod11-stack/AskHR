@@ -1,13 +1,23 @@
-# evolves.
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b3e911380fb5889f57715ca4f49cba1cfbea28f
+title: H08L2R-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Managers Think Through Problems
 
-This article was originally published online on February 11, 2025.
+Soon, managers who develop their gen AI capabilities will be leaping
 
-Elisa Farri is vice president and head of Capgemini Invent’s Management Lab, and Thinkers50 Radar Class of 2023. She is the co-author of the book HBR Guide to Generative AI for Managers.
+ahead of managers who don’t. It’s time to get your hands dirty with
 
-Gabriele Rosani is director of content and research at Capgemini Invent’s Management Lab. He is a co-author of the book HBR Guide to Generative AI for Managers.
+gen AI, understanding how to use it for yourself, your team, and
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the business. Identify tasks where to experiment with co-thinking.
 
-9
+Prioritize, keep track of the beneﬁts, the risks, and lessons learned, and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+share among your team. It’s your job to act as a co-thinking role model,
+
+encouraging your team to discuss what is going well and what could be
+
+improved, and collecting learnings in a structured way as technology

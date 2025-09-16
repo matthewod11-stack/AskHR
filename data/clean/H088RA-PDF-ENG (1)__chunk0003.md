@@ -1,7 +1,17 @@
-# the organization.
+---
+source_path: H088RA-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 2f0a2beeb7e2b64561e4487d204843fe3d217ca2
+title: H088RA-PDF-ENG (1)
+---
+# Reinhard Krull/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+During the pandemic, companies around the world explored new ways
 
-1
+of working that challenged long-held assumptions and beliefs about
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+where work gets done. Many companies, including Microsoft, saw the
+
+beneﬁts of ﬂexible work and wanted to oﬀer employees a chance to
+
+continue to work in a hybrid environment, while balancing the needs of

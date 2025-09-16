@@ -1,7 +1,17 @@
-## program as the natural solution to these challenges.
+---
+source_path: H08I7Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5868bc8f3bda639bb68ab4652dec5e961d01acb
+title: H08I7Y-PDF-ENG
+---
+# Bilanol/Getty Images
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+When a major U.S.-based ﬁnancial institution needed help with an
 
-1
+organization-wide transformation, they turned to Debora, a seasoned
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+executive coach and change consultant. The institution was grappling
+
+with technological disruption, shifting customer expectations, and
+
+mounting regulatory pressures, and they viewed their transformation

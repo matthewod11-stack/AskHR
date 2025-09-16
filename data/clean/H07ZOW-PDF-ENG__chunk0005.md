@@ -1,11 +1,11 @@
-## Recent advancements in generative AI and large language models
+---
+source_path: H07ZOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16fd091705a6970ef36b61187dead38b18e13329
+title: H07ZOW-PDF-ENG
+---
+## proﬁcient in AI applications or new programming languages. Those who
 
-(LLMs) such as ChatGPT provide a timely example. While this
+don’t continue to evolve their skills to keep up with rapidly changing
 
-technology has been predicted to replace human workers at a large
-
-scale, for now it may be replacing tech workers who don’t have AI skills.
-
-As companies update their core products with this new technology,
-
-they’ll be looking for talent who have LLM expertise. Even if you’re
+business needs may be targeted for layoﬀs.

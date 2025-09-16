@@ -1,31 +1,15 @@
-## the breadwinners and women the caregivers, and these stereotypes spill
+---
+source_path: H079PK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db5cfdb8dbb003386d807ce8fac5038acd11052a
+title: H079PK-PDF-ENG
+---
+# Myth #1: Men Negotiate and Women Don’t
 
-over into the workplace. As a result, women tend to encounter more
+The truth is that both men and women have a hard time negotiating for
 
-challenges than men when negotiating for higher pay, and men more
+resources that are counter-stereotypical for them, particularly because
 
-challenges than women when seeking access to family-friendly work
+they are more likely to encounter resistance for doing so. Following
 
-practices. Moreover, men from historically marginalized groups also
-
-face challenges negotiating their pay.
-
-In studies examining what managers and professionals negotiate
-
-in their career, both men and women overwhelmingly recounted
-
-negotiating their roles — and with about equal frequency. But
-
-case examples focused on pay or workload showed men recounting
-
-more job-oﬀer negotiations and women recounting negotiating more
-
-around work and family. (If negotiation scholars had focused ﬁrst on
-
-how people access family-friendly work practices, they might have
-
-concluded that men don’t negotiate at all!)
-
-For gender equality, it’s critically important that women have as much
-
-potential to negotiate their pay as men, and men as much potential to
+traditional gender roles (that are in many respects outdated), men are

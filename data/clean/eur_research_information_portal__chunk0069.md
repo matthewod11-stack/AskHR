@@ -1,3 +1,9 @@
-# Inclusive Leadership Development
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: c11d9eafb1cdc0bc0666b06e61f6bc3045b427fd
+title: eur_research_information_portal
+---
+# Discussion
 
-Our analysis suggests that developing inclusive leadership is likely to require much more than observational learning and the acquisition of disembodied skills that can be similarly deployed across situations. The quick ﬁxes that organizations seek may be unrealistic because teaching people to behave in certain ways across superﬁcially similar situations only gets them so far. The generic strategies learned through training need to be ﬁne-tuned to address the speciﬁc challenges and opportunities presented across the diversity of sit- uations leaders face. This is why we purposefully embedded inclusive leadership as a moderator of second-stage relationships at all levels of analysis: to make explicit the importance of monitoring and adjusting one’s
+In this article, we have articulated a multi-level model of inclusive leadership in an organizational context. Our theoretical model, which is summarized in Figure 1, is intended to help guide future research as well as practice. We advocated for the intimate interconnection between inclusive leadership and the type of diversity that leaders face. As we have described, inclusive leadership is a process that unfolds at multiple levels of analysis (individual, workgroup, and organizational) and entails a complex set of proactive (ﬁrst- stage moderation) and reactive (second-stage moderation) leadership func- tions. Its complexity begs the question of whether and how inclusive lead- ership can be developed in organizations.

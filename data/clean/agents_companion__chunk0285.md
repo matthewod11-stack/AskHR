@@ -1,19 +1,9 @@
-# complete answer]
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: e45d770bcb2eddda6c366272709c01fe651f385e
+title: agents_companion
+---
+## regain traction." [Confidence score: 94%]
 
-Final Response to User: "If you experience aquaplaning, which happens when your
-
-tires lose contact with the road due to water buildup, ease off the accelerator, avoid
-
-sudden braking or steering, and gently steer in the direction you want to go until you
-
-regain traction. Your Audi's Electronic Stability Control and ABS systems will help maintain
-
-control, but proper driving technique is still essential."
-
-66
-
-This competitive approach ensures that critical safety information isn't missed due to
-
-misrouting, and the user receives the most helpful possible response even when their query
-
-has multiple valid interpretations.
+Response Mixer Agent: [Picks the most relevant parts and merges them into one

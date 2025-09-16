@@ -1,23 +1,27 @@
-## business implications. The CrowdStrike incident highlights signiﬁcant
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b99fc73b01f9d944d9e82843d9530c3e318a0d72
+title: H08KUZ-PDF-ENG
+---
+## likelihood of potential faults in its content update processes, and
 
-ambiguities and inconsistencies among counterparties regarding
+consequently could not take appropriate corrective actions in time.
 
-respective cyber risk related commitments and expectations.
+- Ensure eﬀective communication (internally and externally) to
 
-Most current cyber solutions in organizations focus on speciﬁc local
+provide adequate transparency as a basis for appropriate cyber risk
 
-targets but fall short of providing end-to-end cyber risk insights in
+management decisions. CrowdStrike’s after-the-fact move to enable
 
-a systematic, credible, and justiﬁable manner. A new paradigm of
+customers’ control on when to apply content updates is a step in
 
-explainable cyber risk management is required. It must enable end-to-
+the right direction. But additional information on the digital risk
 
-end scenario-based cyber risk analysis insights and maps between cyber
+attributes of each update needs to be shared as well, to enable
 
-events and business outcomes. For example, with respect to incidents
+customers to make optimal decisions in each case.
 
-such as CrowdStrike, a new approach would enable systematically
+- Specify well-deﬁned accountability boundaries between relevant
 
-assessing the business outcome scenarios of potentially faulty updates,
-
-and balancing mitigation processes and recovery processes accordingly,
+parties related to potential cyber risk scenarios and their

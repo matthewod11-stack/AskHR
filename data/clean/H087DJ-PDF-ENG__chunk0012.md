@@ -1,19 +1,15 @@
-# leaders.
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f753eefc5e71154256985b45d9ba86aa6060ff5c
+title: H087DJ-PDF-ENG
+---
+# The Barriers You Face
 
-Racism takes three forms, each of which is a chronic stressor. Systemic
+If you’re a person of color, barriers to mental health assistance
 
-racism is when ideologies, institutions, and policies operate to produce
+include the impact of racism, being an “only,” cultural mistrust, and
 
-racial and ethnic inequality (such as your ﬁrm only hiring “qualiﬁed”
+collectivism. Understanding racism and its impact is key to advocating
 
-people of color, or employees of color only being assigned clients of
-
-color). Interpersonal racism involves two or more people and can be
-
-manifested through bigotry, bias, prejudice, and microaggressions (such
-
-as a colleague making an oﬀensive comment to you). Internalized
-
-racism is the acceptance of negative stereotypes and societal beliefs
-
-about your racial group (such as believing you were only hired because
+for your mental health in the workplace and for raising the awareness of

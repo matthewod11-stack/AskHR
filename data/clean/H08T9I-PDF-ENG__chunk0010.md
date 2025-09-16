@@ -1,11 +1,7 @@
-# Assess the maturity of your industry
-
-Let’s start by considering the ﬁrst dimension in our framework—
-
-industry maturity—and comparing a nascent or young industry to
-
-a mature industry. In nascent industries, few players exist; as an
-
-industry matures, more players enter, occupying diﬀerent positions in
-
-the market. Whether you should imitate or innovate critically depends
+---
+source_path: H08T9I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d00a3b231584e4a36c574f67bb119adb39a1934
+title: H08T9I-PDF-ENG
+---
+## HBR / Digital Article / When to Innovate and When to Imitate

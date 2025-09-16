@@ -1,21 +1,27 @@
-## Address status and communication barriers head-on. In high-
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6005b3dc1e8b808e0fd6a724a076a35d1d52eb9
+title: H08SUP-PDF-ENG
+---
+## Focus on committee process, not just outcomes. Eﬀective committee
 
-performing committees, we found more balanced speaking time
+decision-making depends not only on who is in the room, but on
 
-and greater use of language that promoted fact-ﬁnding and sharing
+whether the meeting structure encourages members to contribute
 
-of viewpoints. These features are not accidental: they reﬂect
+their knowledge fully. A key insight from our research is that how
 
-an environment where psychological safety is actively cultivated.
+meetings are run (especially the incentives embedded in procedures
 
-Leaders play a key role here. They must monitor and manage
+like voting protocols) shapes how deeply members engage, share private
 
-participation patterns, encourage genuine engagement, and positively
+information, and seek out diverse perspectives. Too often, organizations
 
-reinforce contributions that challenge the consensus or introduce new
+focus on the decision outcome while overlooking the mechanics that
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+produce it. This leads to focus on achieving consensus and moving on.
 
-7
+But sustainable decision quality hinges on creating protocols that lower
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+barriers to contribution and encourage learning.

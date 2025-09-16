@@ -1,13 +1,31 @@
-## their performance. As the Harvard Business School historian Alfred
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a864fa0ad86078e29c0085c1f7588f3d2704eb1
+title: R2006F-PDF-ENG
+---
+## the design, engineering, operations, marketing, and retail of any of
 
-Chandler documented, U.S. companies such as DuPont and General
+Apple’s main products meet. In eﬀect, besides the CEO, the company
 
-Motors moved from a functional to a multidivisional structure in
+operates with no conventional general managers: people who control an
 
-the early 20th century. By the latter half of the century the vast
+entire process from product development through sales and are judged
 
-majority of large corporations had followed suit. Apple proves that
+according to a P&L statement.
 
-this conventional approach is not necessary and that the functional
+Business history and organizational theory make the case that as
 
-structure may beneﬁt companies facing tremendous technological
+entrepreneurial ﬁrms grow large and complex, they must shift from
+
+a functional to a multidivisional structure to align accountability
+
+and control and prevent the congestion that occurs when countless
+
+decisions ﬂow up the org chart to the very top. Giving business unit
+
+leaders full control over key functions allows them to do what is best
+
+to meet the needs of their individual units’ customers and maximize
+
+their results, and it enables the executives overseeing them to assess

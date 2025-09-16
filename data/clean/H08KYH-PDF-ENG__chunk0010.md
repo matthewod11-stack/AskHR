@@ -1,7 +1,17 @@
-# your own experience at work:
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e7c0b3160d57672fcf3929e9a7a6ca5e572df1c
+title: H08KYH-PDF-ENG
+---
+# Identifying Hurry Sickness
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+One of the things that makes hurry sickness diﬃcult to detect is its ability to come disguised as eﬃciency, productivity, achievement, or
 
-3
+creating value for the organization. As each of these are prized qualities
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and signs of high performance, you may not even realize something is
+
+wrong until your constant hurrying exacts a price.
+
+See if any of these signs and symptoms of hurry sickness are present in

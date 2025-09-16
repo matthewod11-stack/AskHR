@@ -1,23 +1,19 @@
-# ground.
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f50d748764154af0699f5d4e947f63c68d9e353
+title: H08SQS-PDF-ENG
+---
+# untampered.
 
-Additionally, in professional settings, no one wants to be the person
+- 4. Peer calibration and social dynamics
 
-with an absurdly bullish forecast. There is a bit of “don’t be the sucker”
+The act of discussing with peers introduced a diﬀerent set of biases and
 
-mentality, because executives know that unbridled optimism can look
+behaviors, generally pushing toward caution and consensus. In a group
 
-naïve. In our view, this may have created a spiral of skepticism in the
+discussion, individuals hear diverse viewpoints and often discover that
 
-group setting: each person, consciously or not, trying not to appear too
+others’ expectations diﬀer from their own. In our peer groups, this
 
-rosy-eyed, resulted in collectively lower forecasts. This is almost the
-
-opposite of classic “groupthink”—instead of cheerleading each other
-
-into euphoria, these executives reined each other in, perhaps to avoid
-
-standing out. The end result was a more conservative consensus.
-
-- 5. Illusion of knowledge
-
-Research has shown that when people have access to vast bodies of
+dynamic often led to moderating extreme views and ﬁnding a middle

@@ -1,7 +1,11 @@
-# Illustration by Tim Boelaars
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a863777631c06cfa1312d6fa28261b1a3f725792
+title: H08TKY-PDF-ENG
+---
+# Digital Article / Strategy
 
-What is strategy? This question may be familiar if you’re a seasoned
+The Definitive HBR Strategy Glossary Our guide to all things strategy, from “adjacency expansion” to “value stick.” by HBR Editors
 
-HBR reader: It’s the title of a classic 1996 Michael Porter article on the
-
-topic. Famously, he argued that too many companies were conﬂating
+Published on HBR.org / July 28, 2025; updated July 31, 2025 / Reprint H08TKY

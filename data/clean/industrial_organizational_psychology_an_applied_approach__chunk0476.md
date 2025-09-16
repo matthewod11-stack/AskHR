@@ -1,31 +1,33 @@
-# I
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 14aaf6800f0ddf762ab656acbcf0e44e250a1c41
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Conducting a Job Analysis
 
-y t t e G / c s i D o t o h P ©
+Although there are many ways to conduct a job analysis, the goal of most job analyses is to identify the tasks performed in a job, the conditions under which the tasks are performed, and the KSAOs needed to perform the tasks under the conditions identiﬁ ed. Th is section will begin with a commonly used strategy for conducting a job analysis and conclude with descriptions of alternative methods.
 
-job. Job analysis interviews come in two main forms: individual and group. In the individual interview, the job analyst interviews only one employee at a time. In the group interview, or SME conference, a larger number of employees are inter- viewed together. As mentioned earlier in the chapter, individual interviews tend to yield similar results to group interviews.
+Step 1: Identify Tasks Performed Th e ﬁ rst step in conducting a job analysis is to identify the major job dimensions and the tasks performed for each dimension, the tools and equipment used to perform the tasks, and the conditions under which the tasks are performed. Th is information is usually gathered by obtaining previous information on the job, interviewing job incumbents, observing performance, or actually performing the job itself.
 
-Regardless of whether individual or group interviews are used, certain guidelines
+Gathering Existing Information. Prior to interviewing incumbents, it is always a good idea to gather information that has already been obtained. For example, one might gather existing job descriptions, task inventories, and training manuals. Th is information might come from the organization with which you are working, other organizations, trade publications, and journal articles.
 
-should be followed that will make the interview go more smoothly.
+Interviewing Subject Matter Experts. Th e most common method of conducting a job analysis is to interview subject matter experts (SMEs). SMEs are people who are knowledgeable about the job and include job incumbents, supervisors, cus- tomers, and upper-level management. Job analysis interviews diﬀ er greatly from employment interviews in that the purpose of the job analysis interview is to obtain information about the job itself rather than about the person doing the
 
-. Prepare for the interview by announcing the job analysis to the
+job analysis and evaluation
 
-employees well in advance by selecting a quiet and private interview location.
+47
 
-. Open the interview by establishing rapport, putting the worker at ease,
+s e g a m
 
-and explaining the purpose of the interview.
+y t t e G / c s i D o t o h P / m l h a r b I
 
-. Conduct the interview by asking open-ended questions, using easy- to-understand vocabulary, and allowing suﬃ cient time for the employee to talk and answer questions. Avoid being condescending and disagreeing with the incumbent.
+m a h s i H ©
 
-Most workers are proud of their jobs and are willing to talk about them in great detail. Once the initial apprehensions and jitters are over, most job analysis
+Interviews are a common job analysis technique.
 
-Figure 2.1 Example of Ammerman technique: Objectives and tasks for a bank teller
+48
 
-interviews go well. A good way to start the actual interview is by asking the employee to describe what she does from the moment she ﬁ rst enters the parking lot at work to the moment she arrives back home. A question such as this pro- vides some structure for the employee in recalling the various aspects of her job and also provides the interviewer with many follow-up questions and areas that will provide additional information.
+chapter 
 
-With a committee-based approach, a committee of SMEs meets to brainstorm the major duties involved in a job. Once this has been done, the committee identi- ﬁ es the tasks (work-related activities) that must be completed for each of the duties. Th e results are then summarized in job descriptions or a job analysis report.
-
-An excellent job analysis interview technique was developed by Ammerman () and reported by Robinson (). Th e basic steps for the Ammerman technique are:
-
-. Convene a panel of experts that includes representatives from all levels
+s e g a m

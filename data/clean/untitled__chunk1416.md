@@ -1,13 +1,9 @@
-# Wiley.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1a833f7c1448fe54d319c4d473f955a9b2dc81b7
+title: untitled
+---
+# psychology. Austin: University of Texas.
 
-Capshew, J. H. (1999). Psychologists on the march: Science, practice and professional identity in America, 1929–1969. Cambridge, England: Cambridge University Press.
-
-Carson, J. (1999). Minding matter/mattering mind: Knowledge and the subject in nineteenth-century psychology. Studies in History and Philosophy of Biological and Biomedical Sciences, 30(3), 345–376.
-
-Clark, K. (1966a). The civil rights movement: Momentum and organization. In T. Parsons & K. B. Clark (Eds.), The American Negro (pp. 595–625). Cambridge, MA: Houghton Mifﬂin.
-
-Clark, K. (1966b). Introduction: The dilemma of power. In T. Parsons & K. B. Clark (Eds.), The American Negro (pp. xi– xxviii). Cambridge, MA: Houghton Mifﬂin.
-
-Collier, G., Minton, H. L., & Reynolds, G. (1991). Currents of thought in American social psychology. New York: Oxford University Press.
-
-Crutchﬁeld, R. S. (1955). Conformity and character. American
+Cantril, H. (1941). The psychology of social movements. New York:

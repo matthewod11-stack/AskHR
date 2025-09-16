@@ -1,9 +1,13 @@
-## One of the more prominent critiques of 3608
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 8f1dcd1f190defe1308b9b7a880fd18fdab974d8
+title: journal_of_european_industrial_training
+---
+## Journal of European Industrial Training 25/1 [2001] 5±32
 
-feedback is presented by Moses et al. (1993) who argue that there are fundamental flaws in the design of many of the 3608 feedback inventories which result in the feedback that the system produces being severely limited. According to Moses et al. (1993) a number of factors impact the effectiveness of the feedback process. An appraiser may rate the learner in relation to ``generalised trait-based outcomes'' rather than concrete situations. Second, a limited or non-existent frame of reference may exist for making rater/ observer judgements. Third, the rater is making observations on past performance based on memory. Fourth, the rater may not be sufficiently equipped to effectively interpret the learner's behaviour. Finally, too much reliance may be placed on the instrument designer's scoring system, factor analysis and data collection to interpret the information for the participant.
+by an average of eight to ten raters. Widespread adoption of multi-source assessment within an organisation may result in employees having to fill out numerous questionnaires for their boss, their peers and their subordinates. This survey fatigue may result in less than accurate and valid ratings.
 
-Schneier et al. (1992) claim that many of the
+Some studies report that 3608 feedback does
 
-3608 programmes are carried out in the absence of a strategic context and not focused on contributions to an organisation's competitive advantage. Kanouse (1998) suggests that the success of many 3608 programmes is constrained in that raters are often inadequately instructed in the task of providing feedback. Kaplan (1993) indicates that some people may become upset by the feedback they receive, especially if it is harsh and reports negative characteristics. London and Beatty (1993) argue that multi-source feedback adds significantly to the time and money that are spent on employee appraisal and adds complexity to the appraisal administration process. They similarly argue that 3608 feedback raises the stakes for a
-
-manager, placing increased pressure on self- concept and goals because it uses more significant others than traditional supervisory ratings. Hautaluoma et al. (1992) point out the potential risks to the raters involved, for example, that the process may generate tension between the manager and those who provide ratings.
+not change feedback recipients' behaviour and performance at all. For example, Bernardin et al. (1993) found that managers' ratings from supervisors and customers did not change after the managers received feedback. They also found that store sales volume was unaffected by the use of 3608 feedback, which suggests that 3608 feedback may have no appreciable effect on an organisation-wide basis. If these findings can be generalised, then it is questionable whether or not the investment in 3608 feedback is merited.

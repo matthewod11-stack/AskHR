@@ -1,7 +1,7 @@
-# 3.2.4 Individual and Team Performance
-
-Finally, the performance management system needs to motivate employees to display the behaviors and produce the results required to support the organization’s and the unit’s mission, vision, and goals. Developmental plans need to be aligned with unit and organizational priorities as well. Well-designed performance management systems define a clear path from organizational mission, vision, and goals to individual and team performance. This is critical because organizational success is a direct function of the alignment between collective and individual objectives.
-
-In addition to serving as a necessary guide for individual and team performance, knowledge of organization- and unit-level mission and vision provides information about how to design the performance management system. Specifically, there are many choices in how the system is designed. For example, the system might place more emphasis on behaviors (i.e., processes) than on results (i.e., outcomes), or the system might emphasize more short-term criteria (i.e., quarterly goals) than long-term criteria (triennial). Some of these choices are presented in Table 3.4.
-
-Knowledge of the organization and unit vision and mission allows the HR func- tion to make informed decisions about design choices. More detailed information on each of the factors guiding each of these design choices is provided in subsequent chapters. For now, as one illustration, assume an organization is producing a mature product in a fairly stable industry. In this situation, an emphasis on behaviors rather than results may be preferred because the relationship between processes and outcomes is well known, and the top priority is that employees display reliable and consistent behaviors in making the product. Regardless of the type of criteria used, be it behaviors or results, these must be observable (i.e., the person rating the criteria needs to have the ability to observe what is rated) and verifiable (i.e., there needs to be evidence to confirm the criteria rated). As a second example, consider the actual case of Dell com- puters. Dell is one of the top players in the personal computer industry through its mode of online direct selling. Dell’s main strategic business strategy is to be a low-cost leader in an industry that deals with a product that is increasingly regarded as a commodity. However, in addition to a low-cost strategy, Dell has a customer relation- ship business strategy of maintaining customer service at a high level, while reducing
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 97d4f30d33e0f089ca9e6c4c2c24969c5beffa0a
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 3 • Performance Management and Strategic Planning

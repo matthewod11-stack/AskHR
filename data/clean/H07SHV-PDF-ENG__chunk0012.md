@@ -1,7 +1,29 @@
-# here?
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7026cc69afbff689d42ca79eaf36e45920aaa001
+title: H07SHV-PDF-ENG
+---
+## about with my students, with our wonderful viewers here.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+ADI IGNATIUS:
 
-3
+I hope a few of the students were just horriﬁed to hear that you know
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+about the Zoom link. But let’s set some context. Start with some data.
+
+The numbers show that despite a thriving happiness industry, people
+
+like you who think about it think we’re becoming less and less happy.
+
+ARTHUR C. BROOKS:
+
+That’s true.
+
+ADI IGNATIUS:
+
+In the US at least, the number of cases of depression are up, the number
+
+of people who self-report themselves to be happy is down. I know it’s
+
+impossible to say exactly why, but what’s your hunch? What’s going on

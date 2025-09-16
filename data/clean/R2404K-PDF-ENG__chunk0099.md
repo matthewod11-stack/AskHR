@@ -1,21 +1,15 @@
-## HBR / Magazine Article / The Middle Path to Innovation
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 478d419e494f9a9ef972f351f5a06ca659307555
+title: R2404K-PDF-ENG
+---
+# new ideas.
 
-The growth driver model leverages a ﬁrm’s capabilities to unlock new
+. . .
 
-revenue streams by tapping into innovators’ creativity and agility.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Incumbent ﬁrms develop a sustained innovation capability and are
+18
 
-no longer reliant on costly and uncertain M&A eﬀorts to drive
-
-future growth. Executives are better positioned to develop corporate
-
-strategy. Investors unlock greater value creation. And entrepreneurs are
-
-empowered to focus on innovation. Moreover, society itself beneﬁts
-
-through the creation of new jobs, a more productive use of resources,
-
-and innovative new products that improve everyone’s quality of life.
-
-A version of this article appeared in the July–August 2024 issue of Harvard Business Review.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

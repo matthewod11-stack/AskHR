@@ -1,27 +1,21 @@
-# Introduce subtractive design challenges
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 982fadc27bbc4ec2d2698359d5123b72113b2de9
+title: H08SNU-PDF-ENG
+---
+## “stop-doing” reviews alongside traditional goal-setting exercises. In
 
-Subtractive design challenges shift problem-solving away from
+these reviews, teams examine their workﬂows, tools, and deliverables
 
-accumulation and toward essential value. Rather than asking teams how
+and identify what no longer adds value.
 
-to improve a process by adding new elements, ask how the same result
+Elimination helps cut extraneous steps that contribute little to outcomes, while consolidation removes unnecessary handoﬀs or approval loops. Hiding can be used to remove low-value oﬀerings
 
-can be achieved with fewer steps, features, or constraints.
+or services that confuse customers or dilute strategic focus. By
 
-Consolidation allows teams to condense workﬂows into fewer steps
+building these forms of subtraction into annual or quarterly planning,
 
-without loss of quality. Substitution invites smaller, more elegant
+organizations improve eﬃciency and maintain strategic alignment
 
-solutions that are easier to use and maintain. Abstraction encourages
-
-replacing complex interfaces with simpler alternatives. Each of these
-
-approaches supports eﬃciency by reducing operational drag. They also
-
-support resilience, since simpler systems are less prone to failure and
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+without expanding complexity.

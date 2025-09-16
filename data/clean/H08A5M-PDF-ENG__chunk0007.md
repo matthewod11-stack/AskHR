@@ -1,17 +1,23 @@
-# HBR / Digital Article / Why Cross-Functional Collaboration Stalls, and How to Fix It
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a41ed95be7fd0aaa35f9498d866a37adc2596a5
+title: H08A5M-PDF-ENG
+---
+# Yellow Dog Productions/Getty Images
 
-A recent Gartner survey of more than 400 business leaders found
+Corporate growth is the ultimate team sport, relying on multiple
 
-that most companies are running as many as ﬁve types of complex
+functions’ data, technology, and expertise. This is especially true
 
-initiatives at once. For example, an organization might be designing
+as technology innovation and AI introduce new revenue streams
 
-cross-channel customer experiences, while also combining its sales and
+and business models, which require signiﬁcant cross-functional
 
-marketing functions, and crafting new digital growth strategies. Each
+collaboration to get oﬀ the ground.
 
-of these programs could involve ﬁve to eight corporate functions and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-20 to 35 team members. The sheer breadth of resource commitments
+1
 
-across such a range of initiatives creates a basic, pervasive background
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

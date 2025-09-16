@@ -1,15 +1,29 @@
-# family relationships.
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4143a95cfc5e7356791dd6c1691f706b1302b709
+title: R2505H-PDF-ENG
+---
+## Pass the business down to family members. Many well-known
 
-Take the company public or sell an interest in it to investors. Reporting
+companies around the world—including Mars, Chanel, Enterprise,
 
-requirements and corporate governance regulations ensure that there
+and Aldi—are fully owned by the founder’s descendants. A family
 
-is oversight of public companies’ performance. Public ownership also
+succession is the default setting for many owners who want to see their
 
-helps businesses access the capital they need to keep growing and
+company continue beyond them or to provide for future generations.
 
-allows them to incentivize employees with stock. On the ﬂip side,
+Bequeathing a business, rather than the proceeds of a sale, can be a
 
-public companies face pressure to focus on the short term and may
+way to address one major concern that we hear business founders voice, which is that wealth will infect their children with “aﬄuenza” and sap
 
-not continue the business’s mission if conditions change or the winds of
+their work ethic. Giving your heirs an operating company where the
+
+value is invested in factories, salaries, and assets—rather than available
+
+to spend—will make them rich on paper without giving them the liquid
+
+funds that may create idleness. The main risk with this option is that
+
+conﬂict among your successors can destroy both the company and

@@ -1,37 +1,17 @@
-## information into insight-driven workﬂow improvements, continuously
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36ff9bde77be73c6065f04481cbc4dede06b0b33
+title: S25012-PDF-ENG
+---
+## generative AI and other advanced technologies—is once again
 
-increasing performance, reducing waste, and achieving higher levels of
+reshaping process management. Now that features like natural-
 
-quality. Rather than displacing humans, as gen AI is widely presumed
+language interfaces have made gen AI accessible to nontechnical
 
-to do, kaizen 2.0 is moving them to the center of new machine-assisted
+employees, it’s driving both large and small process changes. With
 
-processes and achieving a long-held aspiration of much management
+the help of AI, employees can synthesize data of all kinds, including
 
-theory: putting business transformation in the hands of all employees.
-
-But successfully reimagining business processes isn’t as easy as asking
-
-ChatGPT to audit workﬂows. To get up to speed, leaders need to
-
-learn which processes are ripe for algorithm-powered redesign and
-
-understand how other companies have used gen AI to revamp them.
-
-In this article, drawing on decades of experience providing advice to
-
-clients about technology and innovation, we’ll describe how the best
-
-companies are deploying gen AI. We’ll also introduce you to the future
-
-of kaizen: one in which fully autonomous agents can act independently
-
-to achieve goals, adapt strategies, analyze their environments, and
-
-complete complex tasks. However, as with all technological adoption,
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+unstructured data. They can turn once-inscrutable masses of numerical

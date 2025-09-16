@@ -1,13 +1,17 @@
-# on boards of directors.
+---
+source_path: H07P87-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ffe7254cbfa44b8a58c4ff3f791f86b7b0254b56
+title: H07P87-PDF-ENG
+---
+# for improvement.
 
-- Develop a plan for how you’ll acquire the skills and build the bridges to
+- Identify the bridges — the steps and connections — that would allow
 
-make the potential futures you have identiﬁed realistic options, setting
+you to transition from your current role to your desired future options.
 
-speciﬁc goals and holding yourself accountable for achieving them.
+These might include expanding your professional network, deepening
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+your industry knowledge, or engaging in what Ken Banta and Orlan
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Boston described as “strategic side gigs,” such as teaching or working

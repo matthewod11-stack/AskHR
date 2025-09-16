@@ -1,11 +1,27 @@
-## occupied 114 and 169 positions respectively (World Bank, 2016).
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: fa94b1fd21095f09cb59d019f3ebabad6e217fee
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# exchange earnings (Agbiboa, 2012).
 
-One of the key parameters in the rankings is the flexibility of the countries’ labour
+Moreover, Nigeria has a population of 182 million people which positions it as the
 
-market regulatory frameworks relating to hiring, work scheduling and firing. These
+fifth most populated country in the world, and is projected to have 397 million people by
 
-regulatory frameworks influence employers in decision making regarding dismissals,
+2050 as the third most populated country after India, China, and the USA (Population
 
-promotion, retraining, and reassigning employees (World Bank, 2016). The ranking of these
+Reference Bureau, 2015). Ghana’s population of 27.7 million people in 2015 also is projected
 
-two countries on this index suggests that there are some bottlenecks to smooth business
+to reach 37.7 million and 52.6 million people by 2030 and 2050 respectively (Population
+
+Reference Bureau, 2015). Majority of the current population in both countries are under 25
+
+years old and are therefore projected to constitute the economic workforce in the next decade.
+
+These demographics in both countries present an attractive environment for businesses in
+
+terms of a good source of labour force and an effective market for consumers. In the 2015
+
+World Banking ranking of 189 economies on the ease of doing business, Ghana and Nigeria

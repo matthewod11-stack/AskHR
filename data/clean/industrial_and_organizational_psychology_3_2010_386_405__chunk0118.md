@@ -1,11 +1,11 @@
-# von Winterfeldt, D.
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 0084571fafe6aa2183d475b8d98a48496884be48
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# Van Eerde, W., & Thierry, H.
 
-(1989). A re-examination of the normative-descriptive distinction in decision analysis. Annals of Operations Research, 19, 499–502.
+(1996). Vroom’s expectancy models and work-related criteria: A meta-analysis. JournalofAppliedPsychology, 81, 575–586.
 
-Weiss, H. M., & Adler, S. (1984). Personality and orga- nizational behavior. Research in Organizational Behavior, 6, 1–50.
-
-Weiss, H. M., & Ilgen, D. R. (1985). Routinized behav- ior in organizations. Journal of Behavioral Eco- nomics, 14, 57–67.
-
-Wittenbaum, G. M., Hollingshead, A. B., & Botero, I. C. (2004). From cooperative to motivated infor- mation sharing in groups: Moving beyond the hidden proﬁle paradigm. Communication Mono- graphs, 71, 286–310.
-
-Wong, K. F., & Kwong, J. Y. (2007). The role of antic- ipated regret in escalation of commitment. Journal ofAppliedPsychology, 92, 545–554.
+Vedantum, S. (2007, April 2). The decoy effect, or how to win an election. Washington Post. Retrieved from www.washingtonpost.com/wp-dyn/content/ article/2007/04/01/AR2007040100973.html

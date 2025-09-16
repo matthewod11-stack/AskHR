@@ -1,7 +1,17 @@
-# their health when unwell.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19314277b2122b53325fe50a425982400bca8348
+title: H08R51-PDF-ENG
+---
+# presenteeism:
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- 1. Men and women experience job ﬂexibility differently.
 
-3
+Women in our study with rigid, low-ﬂexibility jobs like nursing,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+teaching, and administrative support reported working signiﬁcantly
+
+more days while sick than men in similar roles. Concerns about job
+
+security, ﬁnancial strain, and potential repercussions for taking sick leave may make it more diﬃcult for women in these roles to prioritize

@@ -1,9 +1,15 @@
-# work at hand.
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e7552c4b1365d6ba446b096108214aa64c33b1c5
+title: R2505N-PDF-ENG
+---
+## might structure all of your one-on-ones around a list of questions, such
 
-Reframe your purpose. Instead of chasing quick dopamine hits, train
+as, What is your most pressing challenge right now? What steps are you
 
-your focus on longer-term goals. Remind yourself that you are helping
+taking to overcome it? What’s one thing I can do to support you? In
 
-your organization to scale by staying out of activity-based work, and
+group meetings, make a habit of asking every person attending to give
 
-you’re encouraging your employees to grow by giving them more
+an opinion so you have a window into how each might contribute to the

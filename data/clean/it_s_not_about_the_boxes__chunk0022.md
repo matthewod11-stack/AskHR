@@ -1,7 +1,13 @@
-# Moving Forward
+---
+source_path: it_s_not_about_the_boxes.md
+pages: n/a-n/a
+chunk_id: fe10d7da80be8a98a885829d266602592731cd9e
+title: it_s_not_about_the_boxes
+---
+# currently available.
 
-This is also a great way to audit the names
+INSIGHTS / PAGE 5
 
-that a manager places on their grid. If any high potential talent doesn’t appear on that manager’s succession chart, or people who aren’t high potential appear on the succession chart, you should have some tough questions for that manager.
+in your company, in order to plan for succes- sion. This means that anyone who is in your high potential box should appear on a succes- sion chart. If they do not, what are they high potential for?
 
-The discussion about which tool to use in a talent review discussion pales in comparison to the quality of the discussion. If a tool helps to guide the discussion and leads to a more accurate prediction, you should use one. If you find that your predictive accuracy is just as good not using a tool, that’s fine as well.
+employees, is to ensure that there is a specific development action agreed-upon in the talent review for every high potential leader.

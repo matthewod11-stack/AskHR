@@ -1,9 +1,21 @@
-## Bacardi’s culture of innovation and entrepreneurship, Mahesh and his
+---
+source_path: S24042-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e735c5c93c3639b3626d7b4c35260a0c8498677e
+title: S24042-PDF-ENG
+---
+## HBR / Spotlight Article / How CEOs Build Confidence in Their Leadership
 
-team began to celebrate small wins in performance and reward long-
+intended to be in the role for 10 years. Those years, he told them, would
 
-tenured executives with new leadership positions. They showcased
+be the best the company had ever seen.
 
-daring ideas, rewarded desirable founder and family behavior, and,
+His next task was to reboot the culture. He and his leadership team
 
-ﬁnally, traveled across the world to meet workers in town halls and
+gave their new programs memorable names like the “Best 10 Strategy”
+
+and the “3Fs” (for “fearless, founder, family”) and talked about them
+
+regularly. Once the employees started to understand that they had a
+
+CEO who planned to stick around, provide stability, and bring back

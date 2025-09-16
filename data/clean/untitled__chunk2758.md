@@ -1,13 +1,11 @@
-# Thousand Oaks, CA: Sage.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 49c3c2bd916aa184ac498c430c8d93b0fa8baeda
+title: untitled
+---
+# Philosophical Psychology, 11, 1–10.
 
-Root, M. P. P. (1996a). A Bill of Rights for Racially Mixed People. In M. P. P. Root (Ed.), The multiracial experience: Racial borders as the new frontier (pp. 3–14). Thousand Oaks, CA: Sage.
+Root, M. P. P. (1990). Resolving “other” status: Identity develop- ment of biracial individuals. In L. Brown & M. P. P. Root (Eds.), Diversity and complexity in feminist therapy (pp. 185–206). New York: Harrington Park Press.
 
-Root, M. P. P. (Ed.). (1996b). The multiracial experience: Racial
-
-borders as the new frontier. Thousand Oaks, CA: Sage.
-
-Root, M. P. P (Ed.). (1998). Experiences and processes affecting racial identity development: Preliminary results from the biracial sibling project. Cultural Diversity and Mental Health, 4(3), 237–247.
-
-Root, M. P. P. (1999). The biracial baby boom: Understanding eco- logical constructions of racial identity in the twenty-ﬁrst century. In R. H. Sheets & E. R. Hollins (Eds.), Racial and ethnic identity in school practices: Aspects of human development (pp. 67–90). Mahwah, NJ: Erlbaum.
-
-Root, M. P. P. (2001). Love’s revolution: Interracial marriage.
+Root, M. P. P. (Ed.). (1992). Racially mixed people in America.

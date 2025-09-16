@@ -1,13 +1,17 @@
-## surprisingly, most people who rate the conversation at or below a three
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24d2f9b7a5533d6235f5b3f94a6b98a4a56bc154
+title: H079OJ-PDF-ENG
+---
+## HBR / Digital Article / Avoiding Conflict Will Only Hurt Your Family Business
 
-are typically eager to share what is not being said or that they suspect
+“candid-o-meter” into meetings. During discussions we refer to the
 
-their family members are not being candid. That low rating can trigger
+candid-o-meter to determine whether we’re getting to the heart of the
 
-a shift in the conversation. While it may seem like a silly tool, most
+matter or just glossing over the surface. And when it feels like we are
 
-people are glad to not be wasting their time in a “fake meeting” and to
+entering fake harmony, we ask each participant to rate the candor of
 
-be getting to the real issues.
-
-Other helpful tools we’ve used to help families get past fake harmony to
+the conversation from one (low candor) to ﬁve (fully open). Perhaps not

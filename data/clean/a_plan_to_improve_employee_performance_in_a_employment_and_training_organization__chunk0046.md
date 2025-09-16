@@ -1,15 +1,21 @@
-# Training Resource.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: a447a66b4ae064782272eade70e3e00b559c170e
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# efficiently .
 
-There are many reasons employee performance may be low. Some possible
+If employee performance is the problem , we as future public managers must
 
-reasons why employees' performance levels vary include: a) Employees not knowing
+determine the exact cause of this constraint. Why aren't subordinates effectively
 
-'what they are supposed to do; b) Employees not knowing why they are doing it; c)
+performing the tasks of their job? We must constantly ask what is contributing to this
 
-Employees do not know how to do it; d) Employees feel that there are obstacles to
+problem and what are some of the solutions we can propose to improve existing
 
-completing their work; e) Employees are not interested in the work they do; f) Employees
+conditions that impede employee performance? Although training is an excellent option ,
 
-have attitudes that interfere with their work; g) Employees lack the motivation to perform
+there are many other alternatives available , but I feel an effective performance evaluation
 
-their work; and h) the work environment may not provide incentive to be productive.
+system is the right alternative to improve the organizational problem at Employers'

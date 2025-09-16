@@ -1,7 +1,9 @@
-## platform, a charity challenge, a volunteer opportunity) or building
+---
+source_path: H08SR2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ee496dabd2267c3e734daa92d1db7f86aa1b607
+title: H08SR2-PDF-ENG
+---
+# lives.
 
-the infrastructure for a relational holding environment (e.g., creating
-
-a space apart from where work is done to gather), leaders can take advantage of all of the beneﬁts that a non-work setting has to oﬀer for
-
-them and their relationships. The meaningful connections that result
+By either proactively identifying a setting that exists (e.g., a non-work

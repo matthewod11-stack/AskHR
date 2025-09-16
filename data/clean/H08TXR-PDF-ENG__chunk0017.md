@@ -1,21 +1,29 @@
-# announcement.
+---
+source_path: H08TXR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99d7ca40bc7f4bb84fa8224753b6ed81c63eace2
+title: H08TXR-PDF-ENG
+---
+# communication strain.
 
-Moving from presentation to interpretation
+Start by identifying three essential components of your message that
 
-The ﬁnal and most treacherous leak point occurs when listeners
+must survive any dilution. Then recruit ﬁve individuals unfamiliar with your initiative from diﬀerent functions of the organization. Present
 
-interpret your message through their unique ﬁlters of experience, role,
+your message, and have each person explain it to another in sequence.
 
-and self-interest, often creating meaning you never intended. What
+Determine what remains intact after multiple translations and what
 
-you’re saying may not match with what others understand.
+falls through the cracks. Rebuild your communication around those
 
-Rather than assuming understanding, systematically measure the
+elements that survived the compression test.
 
-variance in how your message is absorbed. After signiﬁcant
+When a healthcare system CEO used this method before announcing a
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+major restructuring, he discovered his carefully crafted messages about
 
-4
+a “patient-centered reorganization” was consistently being perceived
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+by others as “cost-cutting” by the third retelling. This insight allowed
+
+him to fundamentally recalibrate his approach before the actual

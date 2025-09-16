@@ -1,13 +1,9 @@
-# salespeople
+---
+source_path: R2503C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65f6a597d06ec5bda229c2dd90644438bb2c611a
+title: R2503C-PDF-ENG
+---
+# contact
 
-After carefully reviewing the best available data and weighing the options, Dell’s leadership made each of those decisions, eﬀectively
-
-resolving the go-to-market redesign issue. The company hired more
-
-than 2,000 additional sales representatives to expand coverage, redrew
-
-territories to better align reps with technical support, and reduced the
-
-number of products most reps were asked to sell. Those and other
-
-changes helped Dell gain market share in commercial PCs, servers, and
+- the best way to provide product-speciﬁc technical support to

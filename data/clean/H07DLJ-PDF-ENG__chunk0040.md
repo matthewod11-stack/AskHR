@@ -1,7 +1,21 @@
-# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6b844c57e8796b5a28b7978abea541ffdef7882f
+title: H07DLJ-PDF-ENG
+---
+# professional?
 
-everybody was in their 20s, and I was deﬁnitely not. I was in my 30s
+DEB LIU:
 
-when I joined, I had two kids already, and it was just a very diﬀerent
+I think that the blurring line between work and home has changed a
 
-culture and I was really worried people didn’t think I took my job very
+lot during the last couple years. But many years ago, I was one of the
+
+few people at Facebook who had children. It was a company where
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+19
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

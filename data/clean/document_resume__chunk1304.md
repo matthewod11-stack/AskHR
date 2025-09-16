@@ -1,7 +1,9 @@
-# 1 Unacceptable
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4b575910b7443eed9bb339c47d83cfcf43ef6d39
+title: document_resume
+---
+# 2 Marginal
 
-Avoids participation in punt_ service or extension programs. Neglects to provide information to media when appropriate.
-
-- 2. Commit) Rd of the community
-
-ations Represents the institution and contributes to the welfare through participation in civic affairs.
+Will usually attend community programs and share information in area of expertise. Submits necessary information to media when requested.

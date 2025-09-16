@@ -1,5 +1,13 @@
-# Wage and Hour Division(https://www.dol.gov/whd/) Contact WHD(https://webapps.dol.gov/contactwhd/Default.aspx)
+---
+source_path: Employment Law Guide - Child Labor Protections (Nonagricultural Work).md
+pages: n/a-n/a
+chunk_id: 98e0840dcad7caeb050c6a1898063575c444c8fd
+title: Employment Law Guide - Child Labor Protections (Nonagricultural Work)
+---
+# FLSA Recordkeeping Fact Sheet(https://www.dol.gov/whd/regs/compliance/whdfs21.pdf): Explains
 
-Tel: 1-866-4-US-WAGE (1-866-487-9243)*
+recordkeeping requirements under the Act. Comprehensive FLSA Presentation (Microsoft® PowerPoint®) (https://www.dol.gov/sites/dolgov/ﬁles/WHD/legacy/ﬁles/comprehensive.pptx)
 
-- If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications
+Additional compliance assistance, including explanatory brochures, fact sheets, and regulatory and
+
+interpretive materials, is available on the Wage and Hour Division Home Page(https://www.dol.gov/whd).

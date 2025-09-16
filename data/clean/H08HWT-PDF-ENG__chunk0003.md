@@ -1,11 +1,17 @@
-## tools. Many common digital tools already feature integrated AI co-pilots
+---
+source_path: H08HWT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf222d787db27272d8700f61e674ebaf0ce348d7
+title: H08HWT-PDF-ENG
+---
+# Illustration by Brian Rea
 
-to automagically enhance and complete writing, coding, designing,
+There are countless articles on how to use generative AI (gen AI)
 
-creating, and whatever it is you’re working on. But there is so much
+to improve work, automate repetitive tasks, summarize meetings and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+customer engagements, and synthesize information. There are also
 
-1
+scores of virtual libraries brimming with prompting guides to help
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+us achieve more eﬀective and even fantastical output using gen AI

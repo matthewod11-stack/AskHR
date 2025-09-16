@@ -1,5 +1,9 @@
-# Eichel, Evelyn, 7, 40
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 2327d7e5e88a85308c3139a1ec58b83a29521b48
+title: document_resume
+---
+# Name Index
 
-Fagg, James N., 90 Fan, J. L., 41 Fay, Charles H., 115 Feild, Hubert S., 8, 18, 53, 114 Fine, Sidney A., 45, 53 Fiske, Donald W., 53 Flanagan, John C., 29, 40, 49, 53, 83,
-
-84, 91
+Darling-Hammond, Linda, 2, 8 Dawes, Robyn M., 48, 53 Drucker, Peter F., 33, 40, 78, 90 Duffy, John F., 53

@@ -1,21 +1,7 @@
-## (data visualization software)—components of a popular tech stack—
-
-would be considered more conventional and less innovative than
-
-a ﬁrm combining lesser-known products such as DigitalOcean,
-
-CockroachDB, and Metabase. The researchers say companies using
-
-more-novel technology combinations tend to create more-innovative
-
-and -functional products. Previous research had measured innovation
-
-using metrics such as patent ﬁlings, but because ﬁling a patent is a
-
-cumbersome process and many startups never seek patent protection,
-
-the ways ﬁrms combine technologies is a more relevant measure, the
-
-researchers say, noting that breakthrough products such as the iPhone
-
-came about primarily from combining existing technologies in novel
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93ac8439b2e7845b3b38ff12df4c0fbd4a409f86
+title: F2505A-PDF-ENG
+---
+## cloud provider), Amazon RDS (a relational database), and Tableau

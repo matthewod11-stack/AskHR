@@ -1,5 +1,7 @@
-## AI Success Depends on Tackling “Process Debt”
-
-It’s time to clean up the antiquated, functionally isolated, and customer-disconnected ways of doing work. by Sundar Subramanian and Mohib Yousufani
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08A9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a7fe4895d9e5de86f4313fc9e2eb31d5353c80a
+title: H08A9Q-PDF-ENG
+---
+# AI and Machine Learning

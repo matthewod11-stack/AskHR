@@ -1,13 +1,7 @@
-# How Do We Look to Shareholders?
-
-Financial performance measures indicate whether the company’s
-
-strategy, implementation, and execution are contributing to bottom-
-
-line improvement. Typical ﬁnancial goals have to do with proﬁtability,
-
-growth, and shareholder value. ECI stated its ﬁnancial goals simply: to
-
-survive, to succeed, and to prosper. Survival was measured by cash ﬂow,
-
-success by quarterly sales growth and operating income by division, and
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f2c850bd908e1d40cd8ad14477d985a780f928a
+title: R0507Q-PDF-ENG
+---
+# [ Financial Perspective ]

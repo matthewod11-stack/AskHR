@@ -1,13 +1,17 @@
-## but also fashion inﬂuencers, a counterintuitive but thoughtful insight.
+---
+source_path: H07WKC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89c3b7f8fd2a62fdafd1ee7d7ed9f9d7e9d4a847
+title: H07WKC-PDF-ENG
+---
+## distribution channels, and potential customer segments. The suppliers
 
-Like the other tools, the elements of the ecosystem are next sorted,
+included a dough mixer, malt extract producers (a key ingredient
 
-amended, and easily changed by humans via a custom intuitive
+in good bagels), and bagel cutters. Potential distribution channels
 
-computer interface. When ﬁnished, humans select which results they
+included retail bakeries and cafes, but also airport kiosks. Possible
 
-want by clicking and the system immediately creates a PowerPoint
+customers included hotels, catering companies, and tourists. Finally,
 
-slide with the traditional blocks and arrows of an industry value chain,
-
-clearly mapping out the players in the ecosystem and how they related
+it identiﬁed inﬂuencers that included travel bloggers and food critics,

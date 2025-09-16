@@ -1,7 +1,7 @@
-# Substitution
-
-Most boldly, paving the way for the next generation may also take
-
-the form of creating space for more junior leaders by imposing term
-
-limits, implementing retirement rules or creating new roles for the most
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f7972178a69bca896d50eee6cb05c16874b8f3fc
+title: H07TV8-PDF-ENG
+---
+# HBR / Digital Article / Businesses Need to Bring Younger Employees into Their Leaders…

@@ -1,13 +1,15 @@
-## area: the threat from climate change to employee health.
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af6f7f78540ecd013d6f8957a61b9a042a0f7f59
+title: H08C0J-PDF-ENG
+---
+# Illustration by Anuj Shrestha
 
-Organizations’ most valuable assets — their people — face mounting
+Companies are preparing for climate change. They are building
 
-climate-related risks to their physical and mental health from wildﬁres,
+seawalls around coastal facilities, relocating warehouses from ﬂood
 
-extreme heat, hurricanes, ﬂooding, emerging diseases, and more. One
+zones, and building additional slack into supply chains to make them
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+more resilient to climate shocks. But many companies overlook one

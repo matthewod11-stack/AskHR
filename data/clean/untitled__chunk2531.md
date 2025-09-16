@@ -1,7 +1,7 @@
-# Training in Europe
-
-460
-
-FORMALIZATION OF THE FIELD WITHIN PSYCHOLOGY 456 American Organizational Efforts International Organizational Efforts 457
-
-456
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bbc43547cfd8eaab268a4674910f56cf52e3ffbc
+title: untitled
+---
+# AND PRACTICE 453

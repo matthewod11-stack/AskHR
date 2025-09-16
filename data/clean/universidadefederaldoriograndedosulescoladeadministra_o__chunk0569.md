@@ -1,9 +1,7 @@
-## Utilizamo-nos de estudo de caso em uma empresa para atender ao objetivo
-
-geral deste projeto, que era o de descrever e analisar como a organização utiliza o
-
-eNPS na sua gestão de RH. Para isso, primeiramente, descrevemos e analisamos a
-
-definição desta corporação pela utilização do eNPS em lugar das tradicionais
-
-pesquisas de clima organizacional na seção 5.1 a partir do relato de uma funcionária
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 48afdf671ab4fbcb8644e0b81109b497569f59fa
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# propriamente dito.

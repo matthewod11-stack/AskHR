@@ -1,33 +1,19 @@
-# each level
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 72d51526732479310e350730ae6d841985fb6598
+title: i
+---
+# model.
 
-Level 1 - Operational Reporting: As a groundwork level for data analysis,
+Moreover, he postulates four levels of talent analytics. According to his suggestions, they are
 
-organizations with this maturity level use data and metrics primarily to understand past
+operational reporting, advanced reporting, strategic analytics, and predictive analytics.
 
-events and possibly the reasons behind them. The focus is on comprehending the
+Predictive analytics is considered to be the most advanced level of People Analytics.
 
-available data and gaining consensus on its interpretation.
+34
 
-Level 2 - Advanced Reporting: advanced reporting means to be more <proactive or
+Figure 16: People Analytics Maturity Model (Source Bersin, Deloitte Consulting 2018 (Murray et al., 2018, page 40))
 
-routine= by employing automated reporting systems and data visualization dashboards.
-
-Relationships among variables are also explored and analyzed.
-
-Level 3 - Strategic Analytics: Organizations at this level move beyond understanding
-
-past events and relationships to developing causal models, root cause identification, and
-
-determining the impact on business outcomes. An example of this analysis is
-
-identifying the drivers of turnover or employee engagement.
-
-Level 4 - Predictive Analytics: The highest level involves forecasting future events,
-
-trends, or outcomes and using those predictions for business planning. An instance from
-
-Murray et al. (2018) is to utilize data on turnover, promotions, and market trends to
-
-create scenarios that inform workforce planning.
-
-35
+Murray et al. quoted the maturity model of People Analytics in practice. The authors explain

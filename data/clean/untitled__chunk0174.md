@@ -1,5 +1,11 @@
-# Logical Positivism and Operationism
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1c50ee83a6dbaa22c72ad7fe6d3846e551c3e357
+title: untitled
+---
+## The Psychological Laboratory and the Psychological Experiment
 
-The abandonment of mind as psychology’s subject matter, the increased attention to ensuring that scientiﬁc standards were met by procedures for gathering and treating data in lab- oratory and nonlaboratory research, and increased attention to theory building appeared to be signs of scientiﬁc maturity in psychology. These characteristics were most closely iden- tiﬁed with the neo-behaviorist theories of learning and behavior that were the focus of much of the laboratory psy- chology from the 1930s to the 1960s. These theories focused on animal subjects and models of learning and behavior; their
+located at some distance apart give rise to the experience of one light moving from one location to the other when the lights go on and off in sequence. The phenomena seemed incapable of explanation by introspective identiﬁcation of sensory elements. The gestaltists proposed that the introspec- tion appropriate to psychology was a description of experi- ence, a naive introspection that described the experience without any attempt to subject it to analysis. Perceptual phe- nomena and conscious experience were not the only domains of gestalt theory; Köhler’s research on chimpanzees (Köhler, 1926) suggested that learning occurred not through trial and error but by insight that resulted from a perceptual reorgani- zation that produced a new way of seeing the problem to be solved. Neither Thorndike’s trial-and-error explanations of learning nor behavioral analysis of organized goal-directed behavior seemed adequate to account for the behavior of the chimpanzees.
 
-17
+The disagreement with the structural approach to mind and the behavioral approach to behavior derived from funda- mentally different assumptions about the nature of science. Titchener, and Watson as well, assumed that science pro- ceeded by analysis, by breaking down chemical and material objects into the elements of which they are composed. The elemental analysis that Titchener perceived to be the hall- mark of physics was a nineteenth-century model that had given way to analyses in terms of ﬁelds in which forces oper- ated to determine organization of particles rather than parti- cles or elements giving rise to organization (e.g., introducing a magnetic force placed among a random pattern of iron ﬁl- ings organizes the ﬁlings in terms of the directions of force). Field theory and the laws of organization were proposed to account for many phenomena (e.g., Ellis, 1950), not only of perception and problem solving and learning, but of, for example, social behavior (Asch, 1955), child develop- ment (Koffka, 1927), and thinking (Wertheimer, 1959), and served to prompt research designed to test theories in these areas.

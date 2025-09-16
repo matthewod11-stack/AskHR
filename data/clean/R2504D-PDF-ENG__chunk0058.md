@@ -1,7 +1,23 @@
-## HBR / Magazine Article / The Conflict-Intelligent Leader
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d992ce2949af6e89576b432feb5d26d66b11454b
+title: R2504D-PDF-ENG
+---
+## conﬂicts between the company’s sustainability goals and proﬁt
 
-behavior patterns, and market incentives that had evolved over decades.
+objectives. Recognizing that the disputes reﬂected broader issues, he
 
-“As more CEOs and world leaders recognize the systemic nature of the
+initiated what he called “systems mapping”—a comprehensive analysis
 
-challenges we face,” Polman explained, “it is also rising in importance
+of how environmental, social, and economic factors interconnected
+
+across Unilever’s global operations. It revealed that many sustainability
+
+challenges were actually rooted in supply chain structures, consumer
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+13
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

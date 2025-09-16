@@ -1,11 +1,17 @@
-# HBR / Magazine Article / The Founders of Bitty & Beau’s Coffee on Building a Business…
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4c1a641c1a68ba6e586e82e4cdb09283f547820
+title: R2303A-PDF-ENG
+---
+# Lasting Impact
 
-young to become oﬃcial team members, but they’re proud to represent
+As you can imagine, our entire family is invested in Bitty & Beau’s. Beau,
 
-the company, especially at new store openings. Bitty loves making the
+now a junior in high school, and Bitty, a seventh-grader, are still too
 
-rounds at our ﬂagship, chatting with customers and serving coﬀee. Beau
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-says he might someday work the counter, but he’d probably prefer being
+10
 
-at a place that serves burgers or doing taste testing for the restaurateur
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

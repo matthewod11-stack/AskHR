@@ -1,19 +1,13 @@
-## HBR / Digital Article / How to Tell Your Boss They’re Wrong—Tactfully
+---
+source_path: H08OVY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9fbb4cfd2b1d0b8fd6e46315341100a2a7da544
+title: H08OVY-PDF-ENG
+---
+# hope for another day.”
 
-Reﬂect—and don’t gloat
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-If you didn’t have luck persuading your boss, Bordone suggests taking
+6
 
-time to process. Once you’ve cooled oﬀ, ask yourself: “What did I do that
-
-I thought worked, and what could I have done diﬀerently?” Remember:
-
-“Sometimes, you need to let bad decisions play out, so people listen to
-
-you in the future,” says Wilding. “I’ve seen situations where people’s
-
-managers come back to them and say, ‘I should have listened to you.’”
-
-If it turns out you were right in the end, don’t rub it in. “We have to let
-
-people face the consequences so they can come to that realization on
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

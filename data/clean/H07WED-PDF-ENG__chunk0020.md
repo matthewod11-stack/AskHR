@@ -1,11 +1,17 @@
-## Specialized expertise versus broad leadership.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a0e06c39927764335977906cad324379592e1b9
+title: H07WED-PDF-ENG
+---
+# common factors.
 
-Project managers’ know-how lies in projects, which are often far from
+Clear trajectory versus conﬁned path.
 
-the daily challenges of running an organization. Transitioning to top
+As seen in the previous section, CEOs have a more straightforward
 
-leadership positions, such as CEO, usually requires broader leadership
+trajectory than project managers. Their career path emphasizes speciﬁc
 
-skills encompassing strategic vision, ﬁnancial acumen, and strong
+expertise that also resonates with the organization’s broader needs,
 
-commercial capabilities. Project management professionals often lack
+giving these candidates an unbeatable advantage.

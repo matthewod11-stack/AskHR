@@ -1,13 +1,29 @@
-## and gaps in customer coverage, unexploited means of upselling and
+---
+source_path: H08QTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cfa704df8682c7febcf394a454b3c0fb1add18f5
+title: H08QTW-PDF-ENG
+---
+# capital reviews.
 
-cross-selling, and opportunities to improve sales-rep productivity.
+In each of these cases, AI can accelerate change. For example, it’s
 
-Though consumers are stretched, there are still opportunities to raise
+relatively easy to ask AI to compare contractual payment terms with
 
-prices to cover increased costs, especially for high-end products. And
+actual payment times. With a bit more sophistication, AI can create
 
-companies should resist the temptation to cut marketing across the
+watchlists of suppliers or customers who are in distress or appear to be
 
-board and instead undertake a rapid, detailed analysis of marketing
+headed there.
 
-eﬀectiveness so that they can put marketing dollars where they work
+- 2. Improve the fitness of your commercial organization.
+
+Facing a downturn, companies often retrench rather than attack. In
+
+fact, they should do both, with high-impact, high-speed programs
+
+to improve customer acquisition and retention. As we’ve written
+
+previously, tactical, quick action can push revenue higher even in a
+
+down market. Within the sales force, there are almost always overlaps

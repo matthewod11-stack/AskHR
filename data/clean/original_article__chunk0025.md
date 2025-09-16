@@ -1,5 +1,7 @@
-# Figure 1:
-
-F&M (1999) model.
-
-© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 8d17fb460ac2bbb03c61c220c043a06d8c27c4c9
+title: original_article
+---
+# Cohesiveness

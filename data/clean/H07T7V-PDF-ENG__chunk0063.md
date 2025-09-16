@@ -1,23 +1,27 @@
-# an easy process.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: daac68aae6251f0abae5b6f2422daaa5e45a1bb3
+title: H07T7V-PDF-ENG
+---
+## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
 
-I think a lot of companies who get interested in what Silicon Valley
+a kind of a tripod. There are three things you have to do over and over
 
-does diﬀerently or might want to embrace the geek way are going to
+again more until you’re absolutely exhausted.”
 
-ﬁnd it hard going because a lot of it is unnatural and uncomfortable.
+First of all, tell them a vivid story. We humans respond to narratives.
 
-Challenging your boss in a meeting in most circumstances is
+Second, give them some evidence, give them some numbers to show
 
-uncomfortable, until it becomes a norm, until it becomes what people
+that it works. And third, give them a theory. Explain why it works.
 
-around you expect.
+You’ve just got to go through all three of those legs.
 
-ADI IGNATIUS:
+“Why can’t we make decisions this way? I’m a pretty smart person. I
 
-I can’t let you go without talking a little bit about generative AI. You
+reached this place on the org chart because of my excellent judgment.
 
-have an article in the next issue of HBR on how businesses can most
+What do you mean we should be relying a lot less on my judgment?”
 
-eﬀectively capitalize on the technology. What is your thinking, your
-
-quick overview, on the utility of GenAI, and its likely impact on, let’s
+Again, three part answer to that question, keep iterating on it. It is not

@@ -1,9 +1,9 @@
-## in demand for its exercise bikes and treadmills with a furious eﬀort
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b393188141bc175991595407e1f6af2b6437237d
+title: S24021-PDF-ENG
+---
+# not so temporary.
 
-to expand manufacturing capacity and distribution. The expansion
-
-pushed the company’s supply chain beyond its capabilities, which led
-
-to quality and customer service problems (including two recalls). The
-
-cooling of pandemic-fueled demand left the company with a bloated
+A case in point is Peloton. During the pandemic, it reacted to the surge

@@ -1,13 +1,59 @@
-## HBR / Digital Article / Stop Solving Your Team’s Problems for Them
+---
+source_path: H08TIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3857cfd81d6cab2bed804e9c39a08db208b5bdf6
+title: H08TIJ-PDF-ENG
+---
+## Through my years of coaching leaders through decision overload and
 
-team started solving smaller issues on their own, without reﬂexively
+team dependency, I’ve identiﬁed ﬁve questions leaders can use to
 
-handing them to Taylor.
+remain accessible, coach your team to problem-solve independently,
 
-What—or who—is getting in the way of tackling this?
+and safeguard your time. My clients across industries report consistent
 
-If your employee hasn’t been able to tackle a problem, they should at
+results: When they shift from problem solving to using these ﬁve
 
-least be able to identify why. Whether it’s budget, time, or signoﬀ, get to
+questions, their teams step up.
 
-the root of what’s stopping them from solving it. Removing the obstacle is typically more eﬃcient for you, the leader, than taking ownership of
+What have you tried?
+
+Asking this question doesn’t suggest you’re not available to support.
+
+Instead, it signals that you expect initial eﬀort, or at minimum, some
+
+brainstorming to have occurred prior to looping you in. This verbiage is
+
+a gentle reminder to employees that they have authority to act.
+
+The ﬁrst time you ask this question, you may be met with an awkward
+
+silence or “Uh, nothing yet.” After the ﬁrst few times, your team will
+
+learn to anticipate the question, start thinking ahead about solutions,
+
+and pause before passing problems upward.
+
+A director of tech ops I coached, Taylor, was frustrated that 1:1s
+
+with his employees had devolved into weekly venting sessions about
+
+organizational dysfunction. To make matters worse, most of these
+
+meetings resulted in a laundry list of follow-ups and problem-solving
+
+tasks for Taylor to handle alone.
+
+When he began consistently asking, “What have you tried?”, the tone
+
+of 1:1s shifted, and so did the outcomes. Within a month, his team
+
+started showing up with partial solutions instead of raw problems.
+
+Conversations became more focused, follow-through improved, and the
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

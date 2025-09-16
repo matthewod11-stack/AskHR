@@ -1,25 +1,33 @@
-# random component, additive to skill- and effort-based output (“luck”), with distri-
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 362ef73f2f2a8832d0364ad025ae03b616561d7d
+title: beo_chap7_1
+---
+## 7.2. COMPLICATING THE SINGLE-AGENT RisK-INCENTIVE MODEL
 
-bution m(6;). dn the simplest analysis, skill is homogeneous or does not matter, so
+A good place to start is to discuss how psychology complicates the simple risk-
 
-F (ei, 8) = e;.) Firms observe output x; and pay a wage w(x;). This could be a
+incentive model of principal-agent relations that is a workhorse in organizational
 
-fixed wage, w(x;) = w;; a step function or bonus package, w(x;) = {w; for x; <
+economics. First we will lay out a simple agency model with one type of activity. In
 
-tj; w; +b; for x; > tj}; a linear wage, w(x;) = wo + 6.x, etc. In subsequent sec-
+the standard labor economics model, workers face a prevailing wage and decide how
 
-tions we will assume that w(x;) is increasing in x;. Assume also that preferences
+much labor to supply at that wage (and consume the remaining hours as leisure).
 
-are separable in effort disutility and utility from wages. Then the agent’s expected
+We assume that people like money and, by definition, dislike work and like leisure.
 
-utility is
+A useful way to critique the standard principal-agent model is to ask when its
 
-BU(e;) = [ ulw(f (ei, si) + 9)]m @;) dO; — clei), (7.1)
+basic assumptions are violated. The goal is not to heckle the model’s shortcomings
 
-where the disutility of effort, c(e;), satisfies the usual assumptions, is increasing
+(which are an inevitable byproduct of simplicity), but to offer empirical facts and
 
-in e;, and convex. The principal’s earnings are 7 (f (e;, 5;) +4;) — w(f (ei, 513) + 4),
+build up intuition about how it could be extended in useful ways.
 
-where 7r(-) is the (gross) revenue of the firm.
+We start with a simple exposition of a standard agency model. Worker i chooses
 
-237
+effort e;, which has cost c(e;). The productivity of effort also depends on a vari-
+
+able called skill, s;, so that observed output is x; = f(e;, 5;) + 6;, where 6; is a

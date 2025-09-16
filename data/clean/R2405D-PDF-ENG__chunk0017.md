@@ -1,13 +1,27 @@
-# productivity.
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a564fdc1212e80f8fe90f7e7ab9998ed2858d88
+title: R2405D-PDF-ENG
+---
+## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
 
-Underestimating the importance of sample size. Imagine two hospitals:
+might examine the impact of a beneﬁt whose recipients were chosen by
 
-a large one that handles thousands of births each year, and a small one
+lottery, which allows researchers to compare how the beneﬁt changed
 
-with a few hundred births annually. Which hospital do you think would
+the circumstances or behavior of those who won the lottery with that of
 
-have more days where more than 60% of the babies born were boys?
+those who didn’t win.
 
-The answer is the small hospital because it has more variability in
+Researchers who don’t have access to planned or natural experiments
 
-daily birth numbers. Small sample sizes are more likely to show greater
+may instead control for potential confounding factors—variables that
+
+aﬀect the variable of interest—in their data analysis, though this can
+
+be challenging in practice. For instance, if you were assessing the
+
+impact of a training program on productivity, you’d want to make sure
+
+you controlled for prior experience and other things that might aﬀect

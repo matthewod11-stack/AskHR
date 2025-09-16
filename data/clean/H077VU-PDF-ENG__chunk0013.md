@@ -1,13 +1,25 @@
-# welcome message.
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a0262ab5d4765dfc51c5204cc035fa8c9d99ddee
+title: H077VU-PDF-ENG
+---
+# HBR / Digital Article / High-Performing Teams Don’t Leave Relationships to Chance
 
-Introducing new team members by their personal interests immediately
+whether it’s a favorite TV show, weekend hobby, or even the same
 
-humanizes them and empowers existing team members to ﬁnd
+birthday, the more likely they are to click. In a fascinating study of best
 
-commonalities over which they can bond. Moreover, inquiring about
+friends who remained close for nearly 20 years, researchers found that
 
-personal interests demonstrates to new hires that you care about them and value their individuality. It’s also a diﬀerentiator. In a world where
+the strongest predictor of long-term bonding is the level of similarity
 
-88% of employees believe their company’s onboarding process can
+when friends ﬁrst meet.
 
-improve, designing an introduction that sets the stage for friendship not only sets an organization apart, it paves the way for more eﬀective
+Managers can leverage this insight by making it easier for employees to identify commonalities. Onboarding oﬀers the perfect opportunity.
+
+Instead of simply introducing new hires by their professional
+
+experience, consider interviewing them to uncover a few colorful details
+
+about their personal interests, and sprinkle these details into your

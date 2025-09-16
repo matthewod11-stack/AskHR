@@ -1,7 +1,15 @@
-## a decision-making meeting without the details at their disposal, the
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 44d6b58b4f65753cecd7d0b6a0b9efd5c527f105
+title: R2006F-PDF-ENG
+---
+# and generate and reﬁne innovations.
 
-decision must either be made without the details or postponed.
+Immersion in the details. One principle that permeates Apple is
 
-Managers tell war stories about making presentations to senior leaders
+“Leaders should know the details of their organization three levels
 
-who drill down into cells on a spreadsheet, lines of code, or a test result
+down,” because that is essential for speedy and eﬀective cross-
+
+functional decision-making at the highest levels. If managers attend

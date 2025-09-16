@@ -1,7 +1,21 @@
-# others.
+---
+source_path: H08O9C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2c3aba3bf13256365b3c5a7554d29d29397c22f
+title: H08O9C-PDF-ENG
+---
+# options.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Importantly, in a world in which most people are likely to use gen AI to optimize their career success, the key diﬀerence and advantage will
 
-10
+come not from what AI automates, but from your ability to interact with
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+AI better than your competitors. It is often said that you’re less likely to
+
+lose your job to AI than to another human who uses AI, especially if you
+
+don’t. This is probably true. Just like it’s true that your unique creativity,
+
+expertise, and experience—not to mention your curiosity and the time
+
+you invest experimenting with AI—will make you a better AI user than

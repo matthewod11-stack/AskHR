@@ -1,7 +1,9 @@
-# exists in you and others.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89707d7976118ffad1bedd520df809e090f0fd6f
+title: S24011-PDF-ENG
+---
+## Growth Energy: Curious and Open to Learning
 
-- 13. Solicit advice. Gain a deeper understanding of others’ perspectives by
-
-asking experts and stakeholders to openly share their thoughts.
-
-- 14. Acknowledge, apologize, address. Swiftly acknowledge, apologize for,
+- 12. Practice a growth mindset. Recognize the vast untapped potential that

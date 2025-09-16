@@ -1,1 +1,9 @@
-# 59
+---
+source_path: the_wiley_blackwell_handbook_of_the_psychology_of_training_development_and_perfo.md
+pages: n/a-n/a
+chunk_id: 7d8502eb026931a8048ba260f04db0e849528b1a
+title: the_wiley_blackwell_handbook_of_the_psychology_of_training_development_and_perfo
+---
+## The Significance of New Technologies and Skills Development
+
+Factors such as rapid technological development and the expansion of digital technologies have had a profound impact both on the nature of the learning space at work and types of skills and competences that are required by contemporary workplaces. The current debate addresses the need to improve the digital skills of the population in both European and global contexts. Within the US context the public’s attainment of twenty-first-century digital literacy skills has been described as essential for the country’s economic success in the global environment. Two major federal initiatives – the National Broadband Plan, released in 2010, and the Broadband Technology Opportunities Program, initiated in 2009 – focused national attention on digital inclusion and spurred government agencies to develop a range of policies and programs (Digital Literacy Task Force, 2013). To address opportunities and challenges related to digital literacy and associated national policy conversations, the American Library Association’s (ALA) Office for Information Technology Policy (OITP) launched the OITP Digital Literacy Task Force in spring 2011 and brought together literacy experts and practitioners from school, academic, and public libraries (Digital Literacy Task Force, 2013). Similarly, in Europe, the issue of strength- ening the competence of the entire European labor force through digital skills proficiency has been emphasized as a critical factor in raising economic productivity. Specifically, it has been highlighted that digital skills underpin both the Europe 2020 strategy for growth and its component plan, the Digital Agenda for Europe (see, e.g., ECDL, 2012; JISC,

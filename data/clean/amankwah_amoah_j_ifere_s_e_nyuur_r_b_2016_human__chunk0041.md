@@ -1,17 +1,19 @@
-# it this way:
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: a26bd12b7666b56c2e945eaeb5006063d4ddb7f8
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+## in the ‘good books’ of his supervisor.” (G3)
 
-“My job is to ensure that the company keeps a very good book. I also ensure that every naira
+Our analysis suggests that cultural traditions and relational ties also perpetuate
 
-spent is accounted for in the company ... Employees who were recruited through connection
+persistence with underperforming workers. Many of the managers had developed and forged
 
-are always difficult to sack … Yes! We have reduced the salaries of those employees and kept
+closer relationships with their subordinates which then become a barrier to terminating their
 
-them on.” (N22)
+relations and the employment of the close friend. Some of the informants and key decision-
 
-15
+makers appeared to be particularly more concerned about maintaining personal ties and
 
-“It may be sentiment as a result of emotional attachments that have grown over the years. It
-
-may also be that they are the connection to major customers/contributors.” (N2)
-
-Based on the above analysis of favouritism and tribalism, we offer the following
+relationships rather than maintaining organisational success and survival. One informant puts

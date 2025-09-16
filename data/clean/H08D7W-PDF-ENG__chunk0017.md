@@ -1,11 +1,17 @@
-## operational challenges, or competitive pressures. Alternatively, trend
+---
+source_path: H08D7W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79bfa52f2f9e55b7af8ec50da0f45d4348aaa786
+title: H08D7W-PDF-ENG
+---
+## on fat content due to new discoveries in nutrition science. Nestle
 
-sensing may become a soapbox for opinionated individuals to make
+then sold the business cheaply seven years later as it divested several
 
-the industry their inkblot test, asserting big strategic implications from
+underperforming brands.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+There are other failure modes for trend sensing, too. Firms can discuss
 
-2
+trends in abstract ways — like how the population is aging — without
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+tying them to speciﬁc changes in customer needs, supplier capabilities,

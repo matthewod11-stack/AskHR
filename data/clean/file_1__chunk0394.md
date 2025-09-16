@@ -1,3 +1,9 @@
-# Sample
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 3d70eb8d7e154664c17ebb0eb5ba24931725c41d
+title: file_1
+---
+# 92
 
-Data from the Finnish Gender Equality Barometer 2008 (Barometer 2008) were chosen for observing individuals’ perceptions of overall gender inequality in Finland. The Barometer 2008 was produced by Statistics Finland for the Finnish Ministry of Social Affairs and Health. The data for the 2008 Barometer were collected through telephone interviews conducted from January until March of 2008. The sample consists of approximately 2,500 people aged 14-74. The response rate was 64%. For the following study, the opinions and attitudes of students, employed, and retired people were investigated, which resulted in a final sample size of 1584 individuals. A brief description of the respondent characteristics is presented in Table 1.
+According to the same report, in the majority of the Finnish business companies (54%) only 10% of senior management positions are held by female employees. This leads to a conclusion that women continue to dominate numerically only on the lowest and middle levels of the organizational hierarchies in the Finnish companies.

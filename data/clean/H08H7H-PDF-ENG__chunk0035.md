@@ -1,23 +1,31 @@
-# information.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e52b548fc5c5a6ec17892552a201eb95a43205c
+title: H08H7H-PDF-ENG
+---
+# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
 
-. . .
+between groups of people or between people who may not interact
 
-Our research shows that the decision to RTO can’t solely be about
+via video meetings; for example, employees who do not work with
 
-building better and stronger relationships because working from home
+each other regularly. If you are thinking about a strategy for the latter,
 
-can beneﬁt coworker relationships in ways that working in the oﬃce
+merely being in the oﬃce every day is unlikely to build the strong
 
-cannot. Thus, while there is a certain magic to being in-person that
+relationships that are desired. When people are in the oﬃce, they
 
-we haven’t yet ﬁgured out how to fully replicate virtually, there is
+tend to interact only with those who are situated physically close
 
-also a magic to working-from-home —perhaps being able to switch the
+to them. Indeed, one of our experiments showed that sharing can
 
-laundry while you learn new information about your coworkers. This is
+be vivid and perceived as less intentional when learning in-person
 
-a magic that many employees have felt and are not happy about losing,
+as well. Think about a very intentional and strategic return-to-oﬃce
 
-suggesting that managers may want to be strategic in their RTO policies
+strategy where you focus your in-oﬃce time on “moments that
 
-and capitalize on the upsides of working remotely.
+matter” that elicit the type of learning about coworkers – learning
+
+that is vivid, seen as unintentionally shared, and about nonwork

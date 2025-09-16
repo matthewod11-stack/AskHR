@@ -1,9 +1,27 @@
-## Chapter 7 • Implementing a Performance Management System 173
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: e9319d9475db61a8dde056b78773f3e81b9f0e52
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part II • System Implementation
 
-employees to be exposed repeatedly to the same message delivered using different communication channels. Of course, make sure the channels all convey consistent information.
+all or most of the important questions, the fact that the information has been made available does not necessarily mean the communication plan will be successful in gaining acceptance. This is because people have cognitive biases that affect what infor- mation is taken in and how it is processed. Specifically, there are three types of biases that affect the effectiveness of a communication plan, regardless of how well it has been implemented. These are selective exposure, selective perception, and selective retention.
 
-- Use credible communicators. Use credible sources to communicate the performance management system. In companies where HR department members are perceived as “HR cops” because they continually emphasize what cannot be done as opposed to how one’s job can be done better, it may be better to use a different department or group. Instead, in such situations, communication should be delivered by people who are trusted and admired within the organization. It also helps if those delivering the communication and endorsing the system are regarded as key and powerful organizational players.
+First, selection exposure is a tendency to expose our minds only to ideas with which we already agree. Those employees who already agree that performance management is a good idea may become involved in the communication plan activities, including reading about the system and attending meetings describing how the system works. On the other hand, those who do not see much value in performance management may choose not to read information about it and not to attend meetings related to performance management. Second, selective perception is a tendency to perceive a piece of information as meaning what we would like it to mean even though the information, as intended by the communi- cator, may mean the exact opposite. Someone who believes performance management is about only rewards and punishments may incorrectly interpret that receiving formal performance feedback at the end of each quarter translates into receiving a pay increase or a bonus. Third, selective retention is a tendency to remember only those pieces of informa- tion with which we already agree. If an employee perceives his employer as vindictive, that employee is not likely to remember information about how the appeals process works or about other fair and equitable aspects of the system.
 
-- Say it, and then say it again. Repeat the information frequently. Since people can absorb only a small amount of information at a time, the information must be repeated frequently.
+Selective exposure, selective perception, and selective retention biases are pervasive and could easily render the communication plan ineffective. Fortunately, there are several ways to minimize the negative impact of these biases and, therefore, help gain support for the system. Consider the following:4
 
-Table 7.1 summarizes what can be done to minimize cognitive biases, including selective exposure, selective perception, and selective retention. Consider the Department of Justice communication process, described earlier in this chapter. That plan attempts to minimize negative biases and gain support for the performance management system. For example, although it is a government agency, and the performance management system is a federal mandate, the OPM offered to help managers tailor the systems to their specific agencies. This is likely to help employees become more involved and is also helpful in addressing the specific needs of the employees in the various agencies. The memoran- dum from the director of the OPM, who is also a credible source of information on both the performance management system and the president’s policies, sets an extremely positive tone and appeals to employees’ patriotism by including a message from the president reminding them of the importance of serving the “American people.” The communication plan also provides facts and conclusions about the system. For example, it explains the reasoning for realigning the performance management system with the fiscal year, how to carry out this time line, and the importance of doing so. The communi- cation plan is also posted on the department’s Web site. There are also links to other Web sites with information about performance management. It is not clear whether the Department of Justice distributed this memorandum and accompanying system informa- tion using other media. Finally, the information presented in the memorandum and in the
+- Involve employees.
+
+Involve employees in the design of the system. People support what they help create. The higher the level of participation is in designing the system, the greater the support for the system will be.5
+
+- Understand employee needs. Understand the needs of the employees, and identify ways in which these needs can be met through performance management. Basically, provide a personal, clear, and convincing answer to the “What’s in it for me?” question.
+
+- Strike first. Create a positive attitude toward the new performance system before any negative attitudes and rumors are created. Make communications realistic, and do not set up expectations you cannot deliver. Discuss some of the arguments that might be used against the system, and provide evidence to counter them. • Provide facts and consequences. Because of the employee biases, facts do not neces- sarily speak for themselves. Clearly explain facts about the system, and explain what they mean or what the consequences are. Don’t let users draw their own conclusions because they may differ from yours.
+
+- Put it in writing.
+
+In Western cultures, written communications are usually more powerful and credible than spoken communications because they can be carefully examined and challenged for accuracy. Create documentation, which can be made available online, describing the system.
+
+- Use multiple channels of communication. Use multiple methods of communication, including meetings, e-mail, and paper communication. In other words, allow

@@ -1,31 +1,17 @@
-## more positivity at the mid-point, or end of year, or leaders who
+---
+source_path: H08PID-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0517da576de5a27d805b07ad02aef4f3ebd28cc2
+title: H08PID-PDF-ENG
+---
+## questions about each consultant’s performance and whether they would
 
-were primarily negative at the outset). This remained true even after
+like to continue to work with this consultant. Leaders were also asked to
 
-controlling for factors like past performance or tenure in the ﬁrm.
+provide input on whether the consultant deserved a raise and/or bonus.
 
-To examine why early positive emotions played such a strong role in
+We found that when leaders expressed a lot of early-term positivity,
 
-performance, we conducted a second study with 245 student-athletes
+their employees performed better throughout the year, compared with
 
-and their 86 coaches on 20 N.C.A.A. Division 1 sports teams over the
-
-course of a season. We used multiple, time-lagged surveys to capture the
-
-degree to which team members received positive or negative emotional expressions from their coaching staﬀs over the course of the season
-
-and how it related to team members’ sense of worth and individual performance (as measured by coaching staﬀ evaluations).
-
-We found similar results: athletes whose coaches showed highly
-
-positive emotions during the preseason performed better than other
-
-athletes, even when controlling for things like playing time or previous
-
-performance. We found that this is because when leaders expressed
-
-positivity during the early time period, team members felt more highly
-
-respected and desired to maintain that respect throughout the year,
-
-thus motivating stronger performance.
+all other leader expressions (for example those leaders who expressed

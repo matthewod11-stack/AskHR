@@ -1,7 +1,19 @@
-## relationships with external customers and stakeholders.
+---
+source_path: H08SGA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e264ef9b22c0cd07fa9aa77a9fcc79d7a8ec03de
+title: H08SGA-PDF-ENG
+---
+# few areas:
 
-- Loss of institutional knowledge: Longtime employees often hold
+- Psychological safety: As Amy Edmondson notes in The Fearless
 
-nuanced, context-rich insights that can’t be captured in handoﬀs
+Organization, sudden changes can erode team trust and silence voices
 
-or spreadsheets. Their departure can lead to slower onboarding,
+—just when you need open feedback and innovation the most.
+
+- Employer brand damage: When respected internal leaders are
+
+terminated without clear rationale, word travels inside the company
+
+and outside, especially when those terminated employees have deep

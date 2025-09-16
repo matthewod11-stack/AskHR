@@ -1,9 +1,23 @@
-# adversarial behavior.”
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16a20b4c6236440bd0a284262a3856f6856855da
+title: H08OJX-PDF-ENG
+---
+# Focus on the Right Problem
 
-The executives we interviewed said that recognizing the problem is diﬃcult, especially if experiencing it for the ﬁrst time.
+As corporate gaslighting progresses in stages, the victim may become
 
-They recommended looking for “smoke”—signs such as patterns,
+preoccupied with defending against adversarial behavior, often failing
 
-perception, and reputation. Where there is smoke, there is likely ﬁre.
+to notice that a negative narrative is starting to take root.
 
-If there is ﬁre, then adversarial behavior is just the smoke, not the real
+A CIO from a S&P 500 global technology company noted:
+
+“I was so stuck in the adversarial behavior that I missed how the
+
+negative narrative around me was taking me down. I could feel it,
+
+but I could not grasp it. If I had the clarity I have today I would
+
+have focused on countering the narrative rather than combating the

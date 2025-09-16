@@ -1,9 +1,13 @@
-## Seligman, como professor de psicopatologia, certa vez indagou-se a respeito da
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: b34f8ba27a0e8bc65cf20bf244c5d2481d592578
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# Martin Seligman tem um papel
 
-tendência da ciência psicológica em focar seus estudos nas doenças, nos aspectos
+importante no início da disseminação do
 
-disfuncionais, desconsiderando aspectos positivos do desenvolvimento. Foi a partir
+conceito de psicologia positiva. Seligman era psicólogo e professor da Universidade
 
-da década de 1990 que seus questionamentos começaram a dar origem a uma nova
-
-corrente, intitulada psicologia positiva. E foi a partir de 1997, quando ocupou a
+da Pensilvânia, nos Estados Unidos. De acordo com Scorsolini-Comin (2012),

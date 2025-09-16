@@ -1,1 +1,11 @@
-# 689
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: 392e55a0c4295934637cfdf4e1d247905f31c47e
+title: eur_research_information_portal
+---
+# Inclusive Leadership as a Moderator of First-Stage Relationships (Figure 1, link 1a)
+
+At the individual-level, the focus of inclusive leadership is the vertical re- lationship between the leader and individual followers, in particular leaders’ proactive behaviors to facilitate followers’ experiences of belonging, uniqueness, autonomy, and competence. Randel and her colleagues (Randel et al., 2018) highlight leader behaviors aimed at making workgroup members feel equitably treated, supported, and valued and providing opportunities to participate in decision-making. These correspond with the primary di- mensions of inclusive climates as environments characterized by: perceived fairness in the implementation of practices and access to valued resources (such that arbitrary status differences are delegitimized); a cultural integration of differences made possible through investments in developing personalized understandings of one another, and inclusive decision-making practices that facilitate the expression and integration of heterogeneous perspectives (Nishii, 2013). Related to the last dimension, Carmeli and colleagues (2010) focus on leaders’ readiness for consultation and encouragement of ideas for how to improve work processes, with the expectation that these behaviors help model norms of accessibility and openness.
+
+Similarly, Roberson and Perry (pp. 755–778) describe leader behaviors to reduce status differences, cultivate a sense of shared identity among

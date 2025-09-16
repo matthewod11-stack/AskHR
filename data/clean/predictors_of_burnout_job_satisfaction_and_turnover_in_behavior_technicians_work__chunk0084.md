@@ -1,1 +1,7 @@
-# Significant
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: a7cd9fdc6c6ca61e2a5584a24bd5ea31f2051467
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Variable

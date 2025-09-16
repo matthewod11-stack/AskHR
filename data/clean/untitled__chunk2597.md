@@ -1,3 +1,11 @@
-## Courses: Catalog Studies and Surveys of the Undergraduate Curriculum
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3db44bd68fe67358b8947d949dabcc2e84316429
+title: untitled
+---
+# TEACHING
 
-Psychologists have been conscientious in mapping the land- scape of their discipline’s undergraduate courses over the past 100 years. In an APA committee report, Whipple (1910) described the teaching of psychology from 100 normal
+In the Handbook of the Undergraduate Curriculum, Ratcliff (1997) identiﬁed two curricular models. The ﬁrst model he labeled as descriptive or prescriptive; it maps the landscape of organizational structures and elements put forward by fac- ulty at their institutions or by disciplinary groups. Psycholo- gists have used this model effectively for the last century. First, the archival study of catalogs and the analysis of sur- veys sent to campus departments asking them to describe their requirements and courses are two methods used to de- scribe the curriculum of a particular era. Second, periodic gatherings of scholars and teachers in the discipline have produced recommendations for curricular structures. In this section, we review these two approaches to describing or pre- scribing the undergraduate psychology curriculum.
+
+Ratcliff (1997) labeled a second model as analytical; vari- ables in the curriculum that affect student development are identiﬁed, measured, and evaluated to determine their effec- tiveness. We will use the analytical model in our discussion of scholarship.

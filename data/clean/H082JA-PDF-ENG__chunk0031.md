@@ -1,13 +1,27 @@
-## employee perceptions in the face of concurrent change initiatives.
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce592859701cb443a93a72ce82b7708c12bce22f
+title: H082JA-PDF-ENG
+---
+## HBR / Digital Article / The Challenges of Becoming a Less Hierarchical Company
 
-More generally, companies can provide clarity to their workforce by
+After investing considerable time in the decentralization process,
 
-delineating the sequence and interrelation of various change initiatives.
+a surge in demand from Avinsa’s largest client necessitated other
 
-This might involve phased rollouts, where one change is solidiﬁed
+operational adjustments, including transitioning from one 12-hour work
 
-before introducing another, or designating speciﬁc teams to champion
+shift to two 9-hour shifts. Faced with extended hours and new roles,
 
-each initiative. Prioritization, based on factors like urgency, impact,
+employees began associating the disruptions from this operational shift
 
-and feasibility, ensures that resources are optimally allocated. Regular
+with the broader decentralization initiative. As a result, support for the
+
+decentralization initiative began to wane among some employees; the
+
+fragile groundwork the company had laid was on the verge of collapsing.
+
+In hindsight, assuming that employees would intuitively discern the eﬀects of the two changes was an oversight and underscores the
+
+importance of using clear and consistent communication to guide

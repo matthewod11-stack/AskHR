@@ -1,15 +1,25 @@
-# Creating a Network of Disclosure
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c63809eaeec1b4584eb11ca9dd6f0f69a60941c6
+title: H087G0-PDF-ENG
+---
+# Never:
 
-People often want to disclose just to one person — maybe their
+- Pros: Reduces the risk of discrimination based on stigma • Cons: Increases your risk of being ﬁred or suﬀering other adverse actions if your disability impacts your performance; potentially harms
 
-supervisor or someone in HR — and only if they must. But as Ali’s story
+your health due to working without needed accommodations
 
-earlier in the article illustrates, having limited support can backﬁre.
+Your decision about timing may depend on the extent of your need for
 
-What happens if that person leaves your team or company?
+accommodations and whether you have the resources to continue a job
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+search until you ﬁnd a disability-inclusive company. Your desire to help
 
-7
+normalize disability and disclosure may also come into play.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+But what if you develop health issues while employed and need to
+
+disclose, but are worried about the employer’s lack of understanding?
+
+The next strategy can help reduce the risks.

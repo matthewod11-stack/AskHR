@@ -1,15 +1,15 @@
-# mission.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 320752fd8a0bdd6ea8d3d3f02df77b4186c63dcf
+title: R0507Q-PDF-ENG
+---
+## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
 
-Information systems play an invaluable role in helping managers
+competencies to the actions taken by individuals that aﬀect overall
 
-disaggregate the summary measures. When an unexpected signal
+corporate objectives. This linkage ensures that employees at lower
 
-appears on the balanced scorecard, executives can query their
+levels in the organization have clear targets for actions, decisions, and
 
-information system to ﬁnd the source of the trouble. If the aggregate
-
-measure for on-time delivery is poor, for example, executives with
-
-a good information system can quickly look behind the aggregate
-
-measure until they can identify late deliveries, day by day, by a
+improvement activities that will contribute to the company’s overall

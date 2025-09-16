@@ -1,9 +1,11 @@
-# own.
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 065c86e38cedc3dfa408e5944074b8c197a0a1ef
+title: H088YP-PDF-ENG
+---
+# Do:
 
-- Create a menu of possible accommodations and work with candidates
+- Broaden your outlook when designing your interview process and
 
-to identify their speciﬁc needs for additional support.
-
-- Prioritize structured interviews and focus on objective criteria to
-
-minimize bias and assess candidates fairly based on their suitability
+recognize that the experiences of others may vastly diﬀer from your

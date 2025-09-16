@@ -1,21 +1,17 @@
-## improvement is linked to Employee Experience and Net Promoter Score. This
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 7a1654814c89216c8c7004576970c59b369c3e80
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# clearly visible with the matching of Operational Metric data with Employee Experience
 
-assumption confirms the first hypothesis that positive employee experience brings
+and NPS data. Difficult global economic situations impacted by the pandemic, war,
 
-higher customer satisfaction and also generates repeating business.
+and the supply chain management crisis influenced economic results of the studied
 
-Some of the strongest factors influencing employee satisfaction are sense of
+company where revenue increase is not in correlation with EX and NPS improvement,
 
-belonging, purpose, and psychological safety which leads employees to feel proud to
+however significant improvements are visible mainly in functional costs development
 
-be working at Atlas Copco. Published literature and author research also confirms
-
-that feelings and emotions are critical areas which impact the whole employee journey
-
-from recruiting, daily working life, until the employee leaves the company. Employee
-
-engagement and company culture in Atlas Copco is significantly higher than most of
-
-the companies used as a benchmark. This also confirms the second hypothesis that
-
-Employee engagement and company culture plays significant role in the Employee
+which led to higher efficiency and profit of the company. Significantly higher

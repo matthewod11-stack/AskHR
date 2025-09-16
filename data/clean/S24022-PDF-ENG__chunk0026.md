@@ -1,21 +1,11 @@
-## their likes and dislikes across the product development and use cycle.
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cfd12810c45e9005edc15bb2efd287765b3109d5
+title: S24022-PDF-ENG
+---
+## on dutiful, check-the-box customer-satisfaction surveys. Instead, they
 
-Companies that build these next-generation insights capabilities look
+are built on integrating direct exchanges with customers as part of
 
-for all opportunities to engage with and learn about their customers,
-
-from the ordering and delivery of products and services, to postsale
-
-interactions like warranty support. Growth-system companies use those
-
-insights to ﬁnd the “white space” where opportunity lies, improve
-
-features, ﬁne-tune service models, and understand what competitors
-
-are doing to capture mindshare and wallet share.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the value delivered, including open-ended dialogue with people about

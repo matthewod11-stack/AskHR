@@ -1,21 +1,19 @@
-## HBR / Digital Article / A User’s Guide to Open Strategy
+---
+source_path: H06N98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b4c600c823153242fe9db5215e814199111adb9c
+title: H06N98-PDF-ENG
+---
+# Execution
 
-it. This sharing makes secrecy diﬃcult. Fortunately, the beneﬁts of
+During the third phase of strategy-making companies have to share
 
-openness here far outweigh the dangers. Although competitors might
+company-speciﬁc knowledge in order to glean the main beneﬁts,
 
-learn your plans, they are at this stage committed to their own.
+understanding of the strategy and buy-in from those who implement
 
-Secrecy is also less of an issue as the main participants here should
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-be employees and business partners rather than outsiders.
+4
 
-Telefónica has used an internal social network tool to mobilize its
-
-workforce around strategic initiatives for several years. Scaling the use
-
-of this tool gradually, allowed them to ﬁnd an appropriate way to share
-
-the right amount of information. Secrecy has actually never been too
-
-much of a concern, as the main goal has always been to make strategy
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

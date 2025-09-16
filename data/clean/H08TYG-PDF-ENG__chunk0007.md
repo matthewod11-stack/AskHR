@@ -1,19 +1,33 @@
-# HBR / Digital Article / Q&A: Professor Robert Sutton on Communicating Difficult Decis…
+---
+source_path: H08TYG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cddb78ac05aa4d33c4226679bd6405ee76f6fbd1
+title: H08TYG-PDF-ENG
+---
+# a warning.”
 
-There’s research that shows there are contagion eﬀects with layoﬀs. During the pandemic, many of the tech companies started doing layoﬀs,
+In 2025, amid eﬀorts to downsize America’s federal workforce, fears
 
-despite being proﬁtable, and the sense here in Silicon Valley was that
+about how AI will reshape roles and responsibilities, and rising tension
 
-many of them were doing it, in large part, because competitors were,
+around hybrid work and job security, this advice feels as relevant
 
-too. There are other reasons, of course. Many companies are citing AI
+as ever. Sutton and I spoke about what’s changed since the article
 
-and saying technology is allowing them to do more with fewer workers,
+was ﬁrst published—and what remains true. Here are excerpts of our
 
-though it’s not clear how much of that is true and how much of that
+conversation, lightly edited for length and clarity:
 
-is just a smokescreen. And some of it is just that there are sadistic
+Your original piece was published during the Great Recession.
 
-leaders who take pleasure in doing it. Firing people can make them
+Today the economy is growing and the stock market is at record
 
-feel powerful or tough: “I can cut more than you can.” Some of this is
+highs, yet we’re still seeing signiﬁcant anxiety and organizational
+
+upheaval. What’s driving that?
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

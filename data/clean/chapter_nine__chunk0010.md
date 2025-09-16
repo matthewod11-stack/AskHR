@@ -1,1 +1,25 @@
-## © FoNS 2011 International Practice Development Journal 1 (2) [1]
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: acb920cabf136e9d5bd11f3017056c69f8fd937e
+title: chapter_nine
+---
+# http://www.fons.org/library/journal.aspx
+
+‘The most immediate culture experienced and/or perceived by staff, patients, users and other key stakeholders. This is the culture that impacts directly on the delivery of care. It both influences and is influenced by the organisational and corporate cultures with which it interfaces as well as other idiocultures through staff relationships and movement.’
+
+Whilst our focus is on workplace culture when working with individuals and teams on programmes of practice development, it is still necessary to understand how different cultures and levels of culture interact with each other so as to ‘navigate’ ways ‘through’ and ‘around’ different multiple sub-cultures (idiocultures) along with the broader organisational culture (Webster, 2007). The following quote illustrates this challenge:
+
+‘…I recognised the complexity of both the clinical and organisational cultures I was working with, and as such the challenges participants were facing in developing practice that was at odds with the beliefs of peers or other members of staff and the collective values of the teams they were part of’ (Webster, 2007, p 260).
+
+Whilst we recognise that workplace cultures within the same geographical area or directorate may have distinctly different cultures, we propose that there are factors and characteristics that can positively influence the effectiveness of an idioculture. We use the term ‘effective’ carefully to mean cultures that achieve and sustain person-centred, safe and effective care and workplaces that enable patients and staff to flourish - the stated purpose of practice development (Manley et al., 2011).
+
+Developing our theoretical and practical understanding of effective workplace culture Bevan (2004) argues that the theoretical base underpinning healthcare quality improvement requires development. Concept analysis provides one approach towards this end, as concepts are the building blocks of theory (Chin and Jacobs, 1983). Concepts are socially constructed, evolve over time through use and can be associated with a set of attributes developed through socialisation and debate associated with this use (Rodgers, 1989; 1993; Morse, 1995; Walker and Avant, 2005). This approach is consistent with the idea that culture is a social phenomenon (Bate, 1994); is a concept that is still evolving; and our focus is on concept use so as to inform practice development interventions in the workplace.
+
+In theoretical terms, effective workplace culture, is a complex construct comprised of inter-related concepts and values, some of which are not clearly defined. Within Morse’s (1995) framework, effective workplace culture would be classified as an immature concept because it is nebulous and ill-defined although the surrogate (different but synonymous) term ‘transformational culture’ is linked with a specific set of cultural indicators (Manley, 2001; 2004). Effective workplace culture is therefore ripe for concept development. Rodger’s (1989, 1993) approach to concept analysis, was used to identify the attributes, the enabling factors that precede effective workplace culture; and, the consequences that follow its occurrence.A framework for describing and understanding effective workplace culture in healthcare has resulted, aimed at informing research, theory development, and cultural change facilitation in the workplace from exploring the following three questions:
+
+- How would an effective workplace culture be recognised – the attributes?  How can an effective workplace culture be enabled - the enabling factors?  What are the consequences of an effective workplace culture?
+
+Developing the framework The framework for effective workplace culture has developed through four different phases over the period of a decade, with each phase informing the next.
+
+4

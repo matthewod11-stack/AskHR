@@ -1,7 +1,7 @@
-## assess your answers for completeness and use of keywords. Some tools
-
-can even give feedback on your body language and vocal delivery. This
-
-type of feedback can help you feel conﬁdent about answering questions
-
-with the right energy, body language, and information before doing any
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e88f80de01c93486483a53d31ac82b75f5e14d5
+title: H08MYZ-PDF-ENG
+---
+## Interview Warmup ask you common interview questions and then

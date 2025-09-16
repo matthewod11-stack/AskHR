@@ -1,3 +1,9 @@
-## Conclusion: Relations among the Various Models of the Nature of Intelligence
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 580aae6dca07a9014a28986b6263fce2c337fded
+title: untitled
+---
+# The Nature of Systems Models
 
-interpersonal, intrapersonal, naturalist, and possibly existen- tial and spiritual. R. J. Sternberg (1985, 1988, 1997, 1999b) has proposed a theory of successful intelligence, according to which intelligence can be seen in terms of various kinds of information-processing components combining in differ- ent ways to generate analytical, creative, and practical abil- ities. Ceci (1996) has proposed a bioecological model of intelligence, according to which intelligence is understood in the interaction between the biology of the individual and the ecology in which the individual lives. These theories are described in more detail in “Contemporary Theories of In- telligence” (see Volume 7 of this handbook).
+In recent times, systems models have been proposed as use- ful bases for understanding intelligence. These models seek to understand the complexity of intelligence from multiple points of view and generally combine at least two and often more of the models described above. For example, Gardner (1983, 1993, 1999) has proposed a theory of multiple intel- ligences, according to which intelligence is not just one thing but multiple things. According to this theory, there are 8 or possibly even 10 multiple intelligences—linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic,

@@ -1,5 +1,11 @@
-## PASTAS PROLOGUE FOR THE TWENTY-FIRST CENTURY
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3f49dabfa3e8dc1ecfd4c70781ed18007e855ab3
+title: untitled
+---
+## Past as Prologue for the Twenty-First Century 475
 
-Psychology is not only with us, but swamping us. Its popularity is so great as to arouse suspicions of superﬁciality, or even quackery. It has become almost a fashion, so that publishers claim that the word psychology on the title page of a book is suf- ﬁcient guarantee for a substantial sale. (p. 596)
+information on course syllabi, bibliographical material on di- versity and cross-cultural issues, ethical issues in teaching, student advising issues and practices, scientiﬁc writing, and electronic databases for the journal Teaching of Psychology. As another manifestation of APA’s long-range commit- ment to academic psychology programs articulated with the initiation of the new Education Directorate in the early 1990s, 99 participants from high school, community college, college and research university, and other professional set- tings met at James Madison University in 1999 for the Psychology Partnerships Project (P3). It was the most di- verse assembly of psychology teachers to date, building on the group dynamic approach used at the St. Mary’s Confer- ence of Maryland a decade earlier. Nine issues groups— advising, curriculum, faculty development, research, tech- nology, assessment, diversity, partnerships, and service learning—developed projects to create networks, materials, and strategies for promoting the teaching of psychology and the lifelong learning needs of students and faculty in the di- verse, changing world of the twenty-ﬁrst century.
 
-Was this an editorial from a newspaper or a speech by a leg- islator in the year 2000? A commentary from a church pulpit in the 1950s? The quote is from an article by a faculty mem- ber at the Carnegie Institute of Technology, Max Schoen (1926), writing about the purposes of elementary courses in psychology in his era. In response to such popularity, the au- thor suggested that the aims of psychology in colleges were to “create an intelligent reading audience” and “to inculcate in the student a tolerant, open-minded and broad attitude to- wards human affairs and human problems” (p. 596).
+As Weiten et al. (1993) noted, “teaching and learning are communal activities” (p. 157). They described a portfolio of case studies that demonstrated the movement of psycholo- gists from isolation to increasing communication and colle- giality. With the advent of the twenty-ﬁrst century, the service activities of psychologists have fostered increased colle- giality in behalf of the teaching of psychology. Electronic communication networks enable this collegiality to have un- precedented depth and breadth.

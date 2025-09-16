@@ -1,3 +1,7 @@
-## HR & Administration 01.06.2013 as Senior Executive at TK. 48,000/-
-
-01.09.2013
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 6189be75904297918b84d3f039979296dfcc28cf
+title: internship_report
+---
+# Last Appraisal Position

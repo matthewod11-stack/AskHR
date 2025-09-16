@@ -1,5 +1,9 @@
-## of in-person work in work functions with the highest potential for
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9a597fa4829dfdcee9bb89964dbd8c4bc79da05
+title: H08OPG-PDF-ENG
+---
+## use of the real estate asset across the organization.
 
-increasing social connection and social capital across the organization.
-
-In my experience, these include enabling complex problem-solving and
+Second, I would encourage organizations to prioritize the utilization

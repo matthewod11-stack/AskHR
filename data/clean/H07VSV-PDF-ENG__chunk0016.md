@@ -1,31 +1,39 @@
-# HBR / Digital Article / Keep Your Team Motivated When a Project Goes Off the Rails
+---
+source_path: H07VSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae8929cc0928bf2916de676bbfa2b5440bd32f17
+title: H07VSV-PDF-ENG
+---
+# the team.
 
-Another one of these bottlenecks might be you. By empowering decision
+Help remove obstacles.
 
-making amongst the project team members, not every decision needs to
+A key part of your job as project leader is to help remove obstacles
 
-come to you. You can still give general guidance as to what’s important
+for the team. This includes re-prioritizing or re-assigning other work,
 
-to consider in these decisions, where you want to be kept informed, and
+and re-allocating resources for the project — including people, time,
 
-what needs to be escalated to you.
+and budget. According to the Standish Group research, more than 50%
 
-Understand what motivates different team members.
+of projects will cost almost double the original budget estimates. “If
 
-While some general principles will apply for everyone when it comes to
+possible, reallocate resources to alleviate bottlenecks,” Nieto-Rodriguez
 
-motivating your project team, also recognize that diﬀerent people are
+suggests. “This may involve bringing in additional team members,
 
-motivated by diﬀerent things. Nieto-Rodriguez points out that “some
+extending timelines, or securing more budget.”
 
-are motivated by public recognition, others by monetary incentives,
+Another obstacle you can eliminate as project leader is to provide role
 
-and still others by career development opportunities. Tailoring your
+clarity for your team members. Role clarity can prevent the duplication
 
-approach can go a long way.” Know what “currencies” are most
+of eﬀort, working at cross-purposes, or the unnecessary friction on the
 
-important to each of your team members and what you have to oﬀer
+team and morale issues that come with stepping on other people’s toes.
 
-to them individually. In addition to the ones mentioned above, these
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-currencies can include visibility, gratitude or appreciation, support,
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

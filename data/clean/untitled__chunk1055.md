@@ -1,3 +1,9 @@
-# Macmillan.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ffd22912d566ab6fca1701cec1a3a17d7eba8781
+title: untitled
+---
+# London: Longmans, Green.
 
-Tomkins, S. (1962/1992). Affect, imagery, and consciousness. New
+Titchener, E. B. (1896). An outline of psychology. New York:

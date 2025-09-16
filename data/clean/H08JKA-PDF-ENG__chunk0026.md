@@ -1,19 +1,19 @@
-# stakeholders.”
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0697e9472252ab8c55c9b22e2111b63660b9bfb7
+title: H08JKA-PDF-ENG
+---
+# function and business stakeholders.
 
-At METRO, a leading wholesale operator headquartered in Germany,
+At Novo Nordisk, Mantoni Macaire’s team has established a steering
 
-Sangeeta Pandey, SVP of global talent & organizational development,
+committee for each strategic capability development initiative. “We take
 
-makes it a priority to visit the company’s stores worldwide. Her goal is to
+a global approach,” she describes. “For example, in the digitization
 
-build strong relationships with key executives and gain ﬁrsthand insight
+initiative, we not only partnered closely with our chief information
 
-into business needs. “During country visits, I rarely spend more than
+oﬃcer, we made sure to get the key business unit heads on board. The
 
-half a day in the oﬃce,” she explains. “Instead, I focus on connecting
-
-with employees at all levels, engaging with customers, and visiting
-
-stores, depots, warehouses and platforms.” This hands-on approach has
-
-enabled her to build the relational capital necessary to bring leaders
+steering committee ensures that what we develop is relevant for all key

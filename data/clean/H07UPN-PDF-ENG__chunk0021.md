@@ -1,9 +1,17 @@
-## HBR / Digital Article / Is Your Team Overworking But Underperforming?
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23a424a452360f4f21fc9917f4290742c0221471
+title: H07UPN-PDF-ENG
+---
+## empathetic, knowledgeable, competent, responsible, and supportive. I
 
-If we want to create a culture of learning, we must be deliberate
+rarely hear someone share that they want to be perceived as a learner or
 
-about being perceived as learners. Many leaders embrace ongoing
+a work in progress — a person who is continuing to develop themselves.
 
-improvement: We read books, listen to podcasts, solicit ideas from
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-trusted mentors, experiment, and reﬂect. But we tend to do so in
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

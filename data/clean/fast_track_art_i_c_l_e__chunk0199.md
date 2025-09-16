@@ -1,7 +1,7 @@
-# Average coefﬁcient Standard deviation of coefﬁcients Minimum coefﬁcient Maximum coefﬁcient
-
-−0.921 1.053 −3.792 1.911
-
-- 0.365 0.271 −1.215 0.281
-
-0.005 0.012 −0.019 0.042
+---
+source_path: fast_track_art_i_c_l_e.md
+pages: n/a-n/a
+chunk_id: 428b81a586fbe21509823b7877949d1ee3dc9293
+title: fast_track_art_i_c_l_e
+---
+# Enrollment Model

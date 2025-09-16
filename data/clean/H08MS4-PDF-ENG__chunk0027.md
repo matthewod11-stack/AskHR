@@ -1,7 +1,17 @@
-# HBR / Digital Article / The Legal Landscape Around DEI Is Shifting. Your Messaging Sh…
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df8ab2130bb5a262117de04afd4cb396424decaf
+title: H08MS4-PDF-ENG
+---
+# employment decisions.
 
-with legal liability, such as the danger of triggering social backlash or
+Of course, some leaders might decide that certain DEI language (or
 
-incurring the ire of an anti-DEI administration. But there is no legal
+even the acronym DEI itself) is risky for reasons that don’t have to do
 
-basis to sue a company just because it expresses support for the values
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

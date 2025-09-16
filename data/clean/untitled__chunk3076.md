@@ -1,17 +1,29 @@
-# Prentice-Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 786701a7d0c28bef9de9b572e7622f798ad0c380
+title: untitled
+---
+# References
 
-Rees, J. R. (1963). World mental health. In A. Deutsch (Ed.), The encyclopedia of mental health (Vol. 6, pp. 2049–2062). New York: Franklin Watts.
+Lowrey, L. G. (1948). Orthopsychiatry, 1923–1948: Retrospect and prospect. Menasha, WI: American Orthopsychiatric Association.
 
-Rosenzweig, M. R., Holtzman, W. H., Sabourin, M., & Belanger, D. (2000). History of the International Union of Psychological Science (IUPsyS). East Essex, England: Psychology Press.
+Lunt, I. (1996). The history and organization of the European Federation of Professional Psychologists’Associations (EFPPA). European Psychologist, 1, 60–64.
 
-Routh, D. K. (1994). Clinical psychology since 1917: Science, prac-
+Lunt, I. (2000). The European Federation of Professional Psycholog- icalAssociations.InEncyclopediaofpsychology(Vol.3,pp.274– 276). Washington, DC:American PsychologicalAssociation.
 
-tice, and organization. New York: Plenum Press.
+Mednick, M. T., & Urbanski, L. L. (1991). The origins and activities of APA’s division of the Psychology of Women. Psychology of Women Quarterly, 15, 651–663.
 
-Russo, N. F., & Dumont,A. (1997).Ahistory of Division 35 (Psychol- ogy of Women): Origins, issues, activities, future. In D. A. Dewsbury(Ed.),Uniﬁcationthroughdivision:Historiesofthedivi- sions of the American Psychological Association (Vol. 2, pp. 211– 238). Washington, DC:American PsychologicalAssociation.
+Napoli, D. S. (1981). Architects of adjustment: The history of the psychological profession in the United States. Port Washington, NY: Kennikat Press.
 
-Samelson, F. (1977). World War I intelligence testing and the devel- opment of psychology. Journal of the History of the Behavioral Sciences, 13, 274–282.
+O’Donnell, J. M. (1979). The crisis of experimentalism in the 1920s: E. G. Boring and his uses of history. American Psycholo- gist, 34, 289–295.
 
-Samelson, F. (1992). The APAbetween the World Wars: 1918–1941. In R. B. Evans, V. S. Sexton, & T. C. Cadwallader (Eds.), The American Psychological Association: A historical perspec- tive (pp. 119–147). Washington, DC: American Psychological Association.
+O’Donnell, J. M. (1985). The origins of behaviorism: American psychology, 1870–1920. New York: New York University Press.
 
-553
+Phillips, L. (2000). Recontextualizing Kenneth B. Clark: An Afrocentric perspective on the paradoxical legacy of a model psychologist-activist. History of Psychology, 3, 142–167.
+
+Pickren, W. E. (1995). Psychologists and physicians in the border- lands of science, 1900–1942. Ann Arbor: University of Michigan.
+
+Pickren, W. E., & Dewsbury, D. A. (2002). Psychology between the World Wars. In W. E. Pickren & D. A. Dewsbury (Eds.), Evolv- ing perspectives on the history of psychology (pp. 349–352). Washington, DC: American Psychological Association.
+
+Raimy, V. C. (1950). Training in clinical psychology. New York:

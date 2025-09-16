@@ -1,17 +1,11 @@
-## Industrial/organizational (I/O) psychology A branch of
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 909af6fc7a5c54c48eecb8c486c9beab897297b8
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Individual dominance When one member of a group
 
-psychology that applies the principles of psychology to the workplace.
+dominates the group.
 
-Informal communication Communication among employees in an organization that is not directly related to the completion of an organizational task. Informational style A style of leadership in which the
-
-leader leads through knowledge and information; most effective in a climate of ignorance. Informed consent The formal process by which
-
-subjects give permission to be included in a study. Infrequent observation The idea that supervisors do
-
-not see most of an employee’s behavior.
-
-Initiating structure The extent to which leaders define and structure their roles and the roles of their subordinates.
-
-Inner con artists A person who procrastinates. Input/output ratio The ratio of how much employees
-
-believe they put into their jobs to how much they believe they get from their jobs.
+Individual–group conflict Conflict between an individual and the other members of a group.

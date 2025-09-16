@@ -1,61 +1,53 @@
-## Athlete Leadership and Team Effectiveness
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 7ca5f96b32099b49c3adb341d531bf3828955048
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+## Writing – review & editing: Inmaculada Gonza´lez-Ponce, Juan J. Pulido.
 
-15.
+References 1. NorthousePG. Leadership:Theory and practice. 5th ed. ThousandOaks, CA: Sage Publications, Inc.
 
-Fransen K, Vanbeselaere N, De Cuyper B, Vande Broek G, Boen F. The myth of the team captain as principalleader: Extending the athlete leadership classificationwithin sport teams. J Sports Sci. 2014; 32: 1389–1397. https://doi.org/10.1080/02640414.2014.891291 PMID: 24660668
+Pearce.; 2010.
 
-- 16. Bales RF. A set of categoriesfor the analysis of small group interaction. Am Sociol Rev. 1950; 15(2): 257–263.Available from: http://www.jstor.org/stable/2086790
+- 2. Wang D, Waldman DA, Zhang Z. A meta-analysis of shared leadership and team effectiveness. J Appl Psychol. 2014; 99: 181–198.https://doi.org/10.1037/a0034531PMID: 24188392
 
-17.
+- 3. Cronin LD, Arthur CA, Hardy J, Callow N. Transformational leadershipand task cohesionin sport: The mediatingrole of inside sacrifice. J Sport Exerc Psychol. 2015; 37: 23–36.https://doi.org/10.1123/jsep. 2014-0116PMID: 25730889
 
-Fransen K, Coffee P, Vanbeselaere N, Slater MJ, De Cuyper B, Boen F. The impact of athlete leaders on team members’ team outcome confidence: A test of mediationby team identification and collective efficacy. Sport Psychol. 2014; 28: 347–360.https://doi.org/10.1123/tsp.2013-0141
+- 4. Smith MJ, Young D, Figgins S, Arthur CA. Transformational leadershipin elite sport: A qualitativeanaly- sis of effective leadershipbehaviors in cricket. Sport Psychol. 2017; 31: 1–15.
 
-- 18. NicolaidesVC, LaPort KA, Chen TR, Tomassetti AJ, Weis EJ, Zaccaro SJ, et al. The shared leadership of teams: A meta-analysis of proximal, distal, and moderating relationships. LeadershQ. 2014; 25: 923–942. Fransen K. Athlete leaders as key figures for optimal team functioning: The mediatingrole of players’ team confidenceand their team identification. Thesis: University of Leuven; 2014. Available from: https://katrienfransen.files.wordpress.com/2014/01/doctoraatsthesis-katrien-fransen.pdf
+5.
 
-- 20. Eys MA, LougheadTM, Hardy J. Athlete leadershipdispersion and satisfaction in interactive sport teams. Psychol Sport Exerc. 2007; 8: 281–296.
+Zaccaro SJ, Rittman AL, Marks MA. Team leadership.LeadershQ. 2001; 12: 451–483. https://doi.org/ 10.1016/S1048-9843(01)00093-5
 
-- 21. Beauchamp MR, Bray SR, Eys MA, Carron A V. Role ambiguity, role efficacy, and role performance: Multidimensional and mediationalrelationships within interdependent sport teams. Gr Dyn Theory, Res Pract. 2002; 6: 229–242.
+- 6. Cotterill ST, Fransen K. Athlete leadershipin sport teams: Current understanding and future directions. Int Rev Sport Exerc Psychol. 2017; 9: 116–33.
 
-- 22. Eys MA, Evans MB, Martin LJ, Ohlert J, Wolf SA, Van Bussel M, et al. Cohesion and performancefor female and male sport teams. Sport Psychol. 2015; 29: 97–109. https://doi.org/10.1123/tsp.2014-0027
+- 7. Cummins P, O’Boyle I, Cassidy T. Leadership in sports coaching:A social identity approach. London& New York: Routledge; 2017.
 
-23.
+8.
 
-Filho E, Tenenbaum G, Yang Y. Cohesion,team mental models, and collectiveefficacy: Towards an integratedframeworkof team dynamics in sport. J Sports Sci. 2015; 33: 641–653.https://doi.org/10. 1080/02640414.2014.957714 PMID: 25385557
+LougheadTM, Hardy J, Eys MA. The nature of athlete leadership.J Sport Behav. 2006; 29: 142–158.
 
-- 24. Carron AV, Colman MM, Wheeler J, Stevens D. Cohesionand performance in sport: A meta analysis. J Sport Exerc Pshycology. 2002; 24: 168–88.
+9.
 
-25.
+Fransen K, Boen F, Vansteenkiste M, Mertens N, Vande Broek G. The power of competencesupport: The impact of coachesand athlete leaders on intrinsic motivation and performance. Scand J Med Sci Sports. 2018; 28: 725–745.https://doi.org/10.1111/sms.12950 PMID: 28730741
 
-Fransen K, Steffens NK, Haslam SA, Vanbeselaere N, Vande Broek G, Boen F. We will be champions: Leaders’confidencein ’us’ inspires team members’ team confidenceand performance. Scand J Med Sci Sports. 2016; 26: 1455–1469.https://doi.org/10.1111/sms.12603 PMID: 26687878
+10.
 
-26.
+Fransen K, Decroos S, Vande Broek G, Boen F. Leading from the top or leadingfrom within? A compar- ison betweencoaches´ and athletes leadership as predictors of team identification, team confidence, and team cohesion.Int J Sport Sci Coach. 2016; 11: 757–771.https://doi.org/10.1177/ 1747954116676102
 
-Leo FM, Gonza´lez-Ponce I, Sa´nchez-Oliva D, Amado D, Garcı´a-CalvoT. Exploringdirection between cohesionand collectiveefficacy and relationshipswith performance of football teams. S. Afr. J. Res. Sport. Phys. Educ. R. 2016; 38: 113–126.
+11.
 
-- 27. Beauchamp MR, Bray SR. Role ambiguityand role conflict within interdependent teams. Small Gr Res. 2001; 32: 133–157. https://doi.org/10.1177/104649640103200202
+LougheadTM, Fransen K, Puyenbroeck S Van, Hoffman MD, De Cuyper B, Vanbeselaere N, et al. An examination of the relationship betweenathlete leadershipand cohesionusing social network analysis. J Sports Sci. 2016; 34: 2063–2073. https://doi.org/10.1080/02640414.2016.1150601 PMID: 26902840
 
-- 28. Paradis KF, Carron A V, Martin LJ. Athlete perceptionsof intra-group conflict in sport teams. Sport Exerc Psychol Rev. 2014; 10: 4–18.
+12.
 
-29.
+Fransen K, Haslam SA, Mallett CJ, Steffens NK, Peters K, Boen F. Is perceivedathlete leadership qual- ity related to team effectiveness? A comparisonof three professional sports teams. J Sci Med Sport. 2017; 20: 800–806. https://doi.org/10.1016/j.jsams.2016.11.024 PMID: 28214098
 
-Tekleab AG, Quigley NR, Tesluk PE. A longitudinalstudy of team conflict, conflict management, cohe- sion, and team effectiveness. Gr Organ Manag. 2009; 34: 170–205.
+- 13. Dupuis M, Bloom GA, LougheadTM. Team captains’perceptionsof athlete leadership.J Sport Behav. 2006; 29: 60–78.
 
-- 30. Eys MA, Carron AV, Bray SR, Beauchamp MR (2005) The relationship betweenrole ambiguity and intention to return the followingseason. J Appl Sport Psychol. 2005; 17: 255–261.https://doi.org/10. 1080/10413200591010148
-
-- 31. Davis L, ApplebyR, Davis P, Wetherell M, Gustafsson H. The role of coach-athlete relationship quality in team sport athletes’ psychophysiologicalexhaustion: Implicationsfor physical and cognitiveperfor- mance. J Sports Sci. 2018; 36: 1985–1992.https://doi.org/10.1080/02640414.2018.1429176PMID: 29359646
-
-- 32. Gillet N, VallerandRJ, Amoura S, Baldes B. Influenceof coaches autonomy support on athletes’ moti- vation and sport performance: A test of the hierarchicalmodel of intrinsic and extrinsic motivation. Psy- chol Sport Exerc. 2010; 11: 155–161. https://doi.org/10.1016/j.psychsport.2009.10.004 Leo FM, Gonza´lez-Ponce I, Sa´nchez-Miguel PA, Ivarsson A, Garcı´a-Calvo T. Role ambiguity, role con- flict, team conflict, cohesionand collective efficacy in sport teams: A multilevelanalysis. Psychol Sport Exerc. 2015; 20: 60–66.
-
-- 32. Gillet N, VallerandRJ, Amoura S, Baldes B. Influenceof coaches autonomy support on athletes’ moti- vation and sport performance: A test of the hierarchicalmodel of intrinsic and extrinsic motivation. Psy- chol Sport Exerc. 2010; 11: 155–161. https://doi.org/10.1016/j.psychsport.2009.10.004 Leo FM, Gonza´lez-Ponce I, Sa´nchez-Miguel PA, Ivarsson A, Garcı´a-Calvo T. Role ambiguity, role con- flict, team conflict, cohesionand collective efficacy in sport teams: A multilevelanalysis. Psychol Sport Exerc. 2015; 20: 60–66.
-
-- 34. Marks MA, Mathieu JE, Zaccaro SJ. A temporallybased frameworkand taxonomy of team processes. Acad Manag Rev. 2001; 26: 356–376.
-
-35.
-
-Fransen K, Haslam SA, Mallett CJ, Steffens NK, Peters K, Boen F. Leadingfrom the centre: A compre- hensiveexamination of the relationship betweencentral playing positionsand leadership in sport. PLoS One. 2016; 11(12): e0168150. https://doi.org/10.1371/journal.pone.0168150PMID: 27977734
-
-- 36. Moran MM, Weiss MR. Peer leadership in sport: Links with friendship, peer acceptance, psychological characteristics, and athletic ability. J Appl Sport Psychol. 2006; 18: 97–113.
+- 14. Grandzol C, Perlis S, Draina L. Leadership development of team captains in collegiatevarsity athletics. J Coll Stud Dev. 2010; 51: 403–418.
 
 PLOS ONE | https://doi.org/10.1371/journal.pone.0218167 June 10, 2019
 
-21 / 22
+20 / 22

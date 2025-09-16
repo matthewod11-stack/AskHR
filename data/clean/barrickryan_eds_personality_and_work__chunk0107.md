@@ -1,5 +1,9 @@
-# Organizing the Subcomponents
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: b92ed8491e63a04c8b19c8f8a6e840a8e8e607ec
+title: barrickryan_eds_personality_and_work
+---
+# 16 PERSONALITY AND WORK
 
-There are two distinct ways of organizing the more speciﬁc sub- components of the broad factors, called the horizontal and verti- cal approaches (Goldberg, 1993b), and any complete taxonomy of personality attributes must include both kinds of organizational features. The vertical aspect refers to the hierarchical relations among the variables (for example, Reliability is a more abstract and general concept than Punctuality), whereas the horizontal aspect refers to the degree of similarity among variables at the same hi- erarchical level (Wit involves aspects of both Intelligence and Humor).
-
-The deﬁning feature of horizontal models is that the relations among the variables are speciﬁed by the variables’ locations in mul- tidimensional space. When that space is limited to only two di- mensions and the locations of the variables are projected to some uniform distance from the origin, the resulting structures are re- ferred to as “circumplex” representations. The most famous ex- ample of such models is the Interpersonal Circle (Kiesler, 1983; Wiggins, 1979, 1980), which is based on variants of the Extraver- sion and Agreeableness factors in the Big Five model. Other ex- amples of circumplex models include those that incorporate the ﬁrst three of the Big Five factors (Di Blas & Forzi, 1999; Peabody & Goldberg, 1989; Stern, 1970); the affective-interpersonal factors based on Extraversion, Agreeableness, and Emotional Stability (Saucier, 1992); and two replicated nonevaluative factors (Saucier, Ostendorf, & Peabody, 2001).
+Lexical studies comparing the lower-level subcomponents of broad factors are still in their infancy. Given the high similarity in the Big Five representations in the highly related English and Ger- man languages, Saucier and Ostendorf (1999) tested whether such similarity extends to the lower-level subcomponents as well. They found that although not all of the subcomponents from each lan- guage replicate perfectly, most of them did. Speciﬁcally, the repli- cated hierarchical subcomponents of the Big Five included four facets each for Extraversion, Agreeableness, and Conscientiousness and three each for Emotional Stability and Intellect.

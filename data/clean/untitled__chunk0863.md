@@ -1,5 +1,13 @@
-# Intelligence
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f194ec251d54cbced32a1da16ac5c429b8ee609d
+title: untitled
+---
+## One Kind of Approach or Methodology Eventually Should Be Replaced by Another
 
-laboratory research, later on. In other words, the differential approach could be replaced by a more cognitively based one. Thurstone (1947), who was largely a psychometric theorist, argued that
+Some investigators have argued that their approach is the best the ﬁeld can do at the time, but that the approach later will be replaced. For example, Louis L. Thurstone suggested that factor analysis is useful in early stages of investigation,
 
-The exploratory nature of factor analysis is often not understood. Factor analysis has its principal usefulness at the borderline of intelligence. It is naturally superseded by rational formulations in terms of the science involved. Factor analysis is useful, espe- cially in those domains where basic and fruitful concepts are essentially lacking and where crucial experiments have been dif- ﬁcult to conceive. . . . But if we have scientiﬁc intuition and suf- ﬁcient ingenuity, the rough factorial map of a new domain will enable us to proceed beyond the exploratory factorial stage to the more direct forms of psychological experimentation in the labo- ratory. (p. 56)
+151
+
+152

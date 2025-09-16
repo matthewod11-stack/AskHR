@@ -1,5 +1,9 @@
-# Level 1 (U)
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 0752119b6d85daf756fb748e3f106419a1329934
+title: performance_management_3rd_edition_by_aguinis
+---
+# Level 2 (I)
 
-Unsatisfactory Performance was consistently below expectations in most essentialareas of responsibility, and/or reasonable progress toward critical goals was not made. Significant improvement is needed in one or more important areas. In Section 4, a plan to correct performance, including timelines, must be outlined and monitored to measure progress.
-
-- The inclusion of goals is typically a consideration in assessing the overall rating.
+Improvement needed Performance did not consistentlymeet expectations—performance failed to meet expectations in one or more essentialareas of responsibility, and/or one or more of the most critical goals were not met. A professional development plan to improve performance must be outlined in Section 4, including timelines, and monitored to measure progress.

@@ -1,17 +1,13 @@
-## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0b6dfdb7ad164ea8271f7a094d5cba23bdb04096
+title: H07VPH-PDF-ENG
+---
+# revert.
 
-That’s not the only situation in which we change our decision-making
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-habits. We may be a diﬀerent decision-maker with the coworker who
+1
 
-intimidates us, the veteran employee who serves as a mentor, or the
-
-recent college grad who has asked for your mentorship.
-
-In other words, we approach decisions diﬀerently depending on the
-
-context — where we are and which role we’re playing — and the other
-
-decision-makers with whom we’re engaging.
-
-Through my research into decision-making, I have identiﬁed ﬁve
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

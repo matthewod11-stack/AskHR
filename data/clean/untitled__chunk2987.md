@@ -1,7 +1,19 @@
-# International Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 3e2de4c2ef94599129b5ad422a6a791e817fd29c
+title: untitled
+---
+# sonality theory. New York: Basic Books.
 
-Evans, R. B., & Scott, F. J. D. (1978). The 13th International Congress of Psychology: The American congress that wasn’t. American Psychologist, 33, 711–723.
+Denmark, F. L. (1987). History of professional psychology: Interna- tional conferences. In R. J. Corsini (Ed.), Concise encyclopedia of psychology (pp. 611–613). New York: Wiley.
 
-Fleishman, E. A. (1979). The new applied psychology: An interna- tional perspective. International Review of Applied Psychology, 28, 67–74.
+Diaz-Guerrero, R. (1977). A Mexican psychology. American Psy-
 
-Fleishman, E. A. (1999). Applied psychology: An international
+chologist, 32, 934–944.
+
+Draguns, J. R. (2001). Towards a truely international psychology: Beyond English only. American Psychologist, 56, 1019–1030.
+
+531
+
+532

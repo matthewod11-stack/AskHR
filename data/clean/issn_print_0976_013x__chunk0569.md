@@ -1,13 +1,19 @@
-# Experimenta
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 1c7b7c6565667aa126b0e64b6de8cff9055de7af
+title: issn_print_0976_013x
+---
+# Conformity
 
-15.3871
+21.8387
 
-2.20117
+6.455
 
-15.1290
+23.5806
 
-2.49989
+5.39614
 
-0.431
+- 1.153
 
-0.668
+0.254

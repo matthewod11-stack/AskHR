@@ -1,37 +1,23 @@
-## Stanford Graduate School of Business and to Silicon Valley professionals
+---
+source_path: H08UTW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f76b0d3fc77ad2b73abe2656b5c5bd59cdd5c9bc
+title: H08UTW-PDF-ENG
+---
+# the content.
 
-through Stanford Continuing Studies. Today, it remains a central part
+Imagine you’re in a brainstorming meeting on how to improve customer
 
-of my coaching work with executives and teams. I’ve seen ﬁrsthand
+experience at your company. “Yes, and….” might look like this:
 
-how the technique creates space for contribution and drives progress
+- Person 1: “Let’s extend our customer support hours.”
 
-when alignment and innovation are most needed. But I’ve also
+- Person 2: “Yes, and we could add a live chat so that people don’t have
 
-seen it misunderstood, misapplied, or reduced to a buzzword. When
+to call in.”
 
-that happens, “yes, and…” loses its power and can even derail the
+I’ve been teaching “yes, and…” to leaders at companies across industries
 
-collaboration it’s meant to foster.
+—including tech, AI, ﬁnance, healthcare, education, and the nonproﬁt
 
-Here are the top ﬁve mistakes I’ve observed leaders make with “yes,
-
-and…” Let’s break each down and talk about what to do instead.
-
-Mistake #1: Not using “yes, and..” judiciously or transparently
-
-Many of the leaders I work with worry that embracing “yes, and…” in
-
-meetings will slow down decision-making. They picture everyone piling
-
-on idea after idea without pausing to sift, debate, analyze, and come to
-
-the best solution. But this only happens when the tool is not being used
-
-judiciously—when it’s being applied too broadly or at the wrong time.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+sector—since 1997. I’ve also introduced it to my MBA students at

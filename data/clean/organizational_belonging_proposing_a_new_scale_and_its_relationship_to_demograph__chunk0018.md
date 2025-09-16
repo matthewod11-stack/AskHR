@@ -1,1 +1,15 @@
-# 229
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 86aea855979edbe6891b6129b6e816e7d3aff0be
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
+# JOURNAL OF WORKPLACE BEHAVIORAL HEALTH
+
+employee’s sense of inclusion within their organization. Psychological own- ership is a feeling of possessiveness over some object, including an organ- ization (Vandewalle, Van Dyne, & Kostova, 1995). Organizational identification is an employee defining him/herself in terms of their organ- ization (Ashforth & Mael, 1989). All three of these components together comprise OB (Knapp et al., 2014). Prior empirical research on OB has worked with three multi-item scales.
+
+For example, perceived Insider Status has been measured using a six- item scale (Stamper & Masterson, 2002, p. 883). However, closer inspection shows that the strong scale reliability is partially due to reverse-scored (R) item wording redundancies, e.g., “my work organization makes me believe I am included in it,” versus “I don’t feel included in this organization” (R). Van Dyne and Pierce (2004, p. 449) developed a seven-item Psychological Ownership scale, also with a high internal consistency reliability estimate partially due to item wording redundancies, e.g., “this is MY organization,” versus “I sense that this is MY company.”
+
+Organizational Identification has been measured (Mael & Tetrick, 1992, p. 817) with a six-item scale, combining three items focusing on shared experiences, e.g., “when someone criticizes this organization, it feels like a personal insult,” and three-items on shared characteristics, e.g., “if a story I would feel embarrassed.” in the media criticized the organization, Edwards and Peccei (2007) developed a reliable six-item Organizational Identification scale, with three two-item components: self-categorization and labeling, sharing of organizational goals and values, and sense of organizational membership. For example, items comprising self-categoriza- tion are (Edwards & Peccei, 2007, p. 34): “my employment in (company name) is a big part of who I am” and “I consider myself to be a (company name) person.” It can be argued that these scales, via items that either over-paraphrase each other or by being antonyms, maximize internal con- sistency, but at the cost of narrower content/domain coverage, with poten- tial lower construct validity (Stanton, Sinar, Balzer, & Smith, 2002).
+
+Summary critique of prior OB research Prior empirical research has been done using a variety of U.S. samples, including: nonprofit and manufacturing employees (Knapp et al., 2014); restaurant employees (Stamper & Masterson, 2002); clerical, office, super- visory, professional, and managerial employees (Van Dyne & Pierce, 2004); working part-time students (Mael & Tetrick, 1992); and health care employees (Edwards & Peccei, 2007). Aside from individual study critiques, why is it necessary to “cobble together” or combine three different con- structs/scales, i.e., perceived insider status, psychological ownership, and organizational identification into an overall OB measure? When combining

@@ -1,7 +1,19 @@
-## HBR / Digital Article / 3 Negotiation Myths Still Harming Women’s Careers
+---
+source_path: H079PK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61662b986bca73a2b990bfffe5adcd43d61358b7
+title: H079PK-PDF-ENG
+---
+## Myth #2: Women Should Always Negotiate Pay
 
-I don’t push for higher pay, I’m letting women down.” This is an unfair
+The second misconception is that women need to negotiate their pay in
 
-burden to place on women, particularly because the gender wage gap
+order to close the gender wage gap. As one client Kathryn worked with
 
-is more about the types of jobs that men and women are in than about
+said, “Given everything I’ve read about the gender pay gap, it feels like if
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

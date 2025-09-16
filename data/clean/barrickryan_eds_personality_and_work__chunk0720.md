@@ -1,3 +1,7 @@
-## L1, L2, L3 = Learner 1, Learner 2, Learner 3
-
-s = Situational characteristic across situations b = Average frequency of learning behavior within a learner
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: bd4101690e4c289adb1b9fad1a6489ee3507433d
+title: barrickryan_eds_personality_and_work
+---
+# L3

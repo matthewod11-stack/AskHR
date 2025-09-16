@@ -1,11 +1,9 @@
-# trends:
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6561bb3a3f6dc02ffc3c885927085d232fab40f
+title: H08DO8-PDF-ENG
+---
+## HBR / Digital Article / How CEOs Are Using Gen AI for Strategic Planning
 
-- Shift from burials to cremations
-
-- Increased demand for ﬁrst-class function centers and catering on site
-
-- A competitor buying other funeral directors and cemeteries
-
-- Shortage of suitable land for future expansion
-
-- Families and funeral directors requiring a wider range of video and
+explained. The group came up with this list of industry changes and

@@ -1,9 +1,9 @@
-# Information Agent]
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: e697ff3e1ca3730512bf522b9079ea55bc8a36b9
+title: agents_companion
+---
+## User: "Will it rain at my destination this evening?"
 
-Weather Information Agent: "At your destination in Brussels, the forecast shows a 60%
-
-chance of light rain in the evening, starting around 19:00. Temperatures will be around
-
-14°C. I'd recommend bringing an umbrella if you plan to be outdoors."
-
-59
+Orchestrator Agent: [recognizes weather query and routes to Weather

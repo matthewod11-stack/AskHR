@@ -1,39 +1,27 @@
-## high-stakes negotiations. More recently, as an adviser to executives and
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19b552d18f571cbe3b93c6403bb3c3acfb9babd7
+title: R2402L-PDF-ENG
+---
+## HBR / Magazine Article / Negotiate Like a Pro
 
-corporations, I’ve learned that the same rules can be applied to yield
+cooperation. So they believe him when he says the company can pay
 
-better outcomes in everyday business negotiations—whether you’re
+only $300,000 and not a dollar more. The deal is struck, the hostages are
 
-asking for a higher salary, lobbying for additional team resources, or
+safely returned, and no repeat attacks occur.
 
-hammering out the details of a contract with a client or a supplier.
+Over a decades-long career as a kidnapping and extortion negotiator,
 
-No matter the situation, negotiators must remember one golden rule:
+I handled many similarly sensitive cases all over the world. If I
 
-It’s not about you. The only way to move someone else in your direction
+wasn’t helping secure the release of hostages in Africa, Latin America,
 
-and ﬁnd a solution on which you can agree is to listen deeply and
+or the Middle East, I was confronting extortionist cyberattackers
 
-empathetically, ensuring that the other person feels seen, heard, and
+in the United States, Europe, or Asia. Through my experiences,
 
-understood. That is particularly powerful when the two sides are in
+observations, and conversations with other experts in the ﬁeld, I’ve
 
-disagreement. It allows you to build trust, manage expectations, and
-
-ﬁnd ways to meet the other party’s key needs. It’s what I call level-ﬁve listening, and it is fundamental to eﬀective negotiation.
-
-As Ernest Hemingway once said, “When people talk, listen completely.
-
-Most people never listen.” Negotiators who do set themselves apart.
-
-But it takes discipline of mind and body to accomplish, particularly
-
-when emotions are running high. The right mindset and a tool kit of
-
-techniques can help.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+developed a deep understanding of what works and what doesn’t in

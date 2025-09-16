@@ -1,19 +1,33 @@
-# Energy Divide
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45259b133f0158255d36d526c375ede084b2e3a4
+title: H08PLG-PDF-ENG
+---
+# Markets
 
-AI has huge energy and water demands: by 2026, data center energy
+Companies can beneﬁt from the AI industry becoming more
 
-consumption is expected to grow by 35% to 128%. Even with the
+competitive and in the growth of specialized AI applications tailored to
 
-anticipated investments in new energy infrastructure, demand will
+diﬀerent needs. These could include “small” AI companies and models
 
-continue to remain ahead of supply increases. While AI can be used
+that target much needed interventions in low productivity sectors in
 
-to make smarter use of energy, it is more likely to contribute to energy
+the developing world, such as agriculture or education, and unlock a
 
-poverty, as smart energy systems are concentrated in richer areas and
+disproportionate amount of value by solving for an unmet need.
 
-over a billion people live without access to aﬀordable energy. Moreover,
+These developments must also address AI’s trust problem, however.
 
-many companies risk missing their own net-zero goals, as investments
+While open-source AI facilitates competitiveness, it can also introduce
 
-in AI have thrown them oﬀ course. To address these issues, company
+new security vulnerabilities. Trust-building investments that also keep
+
+high-performing AI accessible will be key marketplace diﬀerentiators;
+
+companies can consider tools, such as Dependabot, Renovate, or Snyk
+
+to check open-source models for known security vulnerabilities.
+
+[ 6 ]

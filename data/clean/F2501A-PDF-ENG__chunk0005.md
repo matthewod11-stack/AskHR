@@ -1,27 +1,17 @@
-## Tony Guadagni, a director in Gartner’s HR practice and the lead author
+---
+source_path: F2501A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29383df08a98beea6a271d6287fde26f8c98289e
+title: F2501A-PDF-ENG
+---
+## engineering, for example, isn’t essential at this point for employees in
 
-of the survey, oﬀers four tips for building an eﬀective training program
+accounting, but it is for certain engineers working with large language
 
-dedicated primarily to core skills.
+models. Unfortunately for HR managers, only 25% of employees prefer
 
-Determine the right skills. Focus only on your current business needs.
+to improve core skills rather than learn new ones. Companies want their
 
-Ask employees what skills they need to thrive in their jobs today. Speak
+employees to focus most of their training time on mastering their core
 
-to your recruiters and managers, too. Drawing on those conversations,
-
-create a list of 10 core skills for every role. They should be tied to
-
-business results, and they should reﬂect only what’s mission critical
-
-now. That’s because roles change quickly, as the survey participants
-
-Guadagni interviewed report, but the fundamental skills required to do
-
-most jobs don’t. That isn’t the case with emerging skills, however. They
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+skills, but 40% of employees aren’t doing this. That is a mistake.

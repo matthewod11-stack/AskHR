@@ -1,13 +1,25 @@
-# (cid:32) Highly Satisfied b) Satisfied c) Neutral d) Dissatisfied e) High disappointed
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 3bcfea46f939d24bb7bc09ae9f9a267fa00154d4
+title: an_overview_of_performance_management_policy_pmp_and
+---
+## Personal information Name: Age: Contact: Designation: Department: Division
 
-(cid:32) How rapidly do you need measure?
+- (cid:32) Which work duties/errands do you appreciate most? Which do you least appreciate?
 
-a) Within multi week b) Within multi week c) Within multi month d) Within multi
+- (cid:32) How would you think your job assists the organization with succeeding?
 
-month e) Doesn't make any difference
+- (cid:32) What do you like least about your present job? What might you change?
 
-(cid:32) As per your Job obligations, you ought to get rating.
+- (cid:32) What do you like most about working for this organization?
 
-a)(cid:32) Strongly Agree b) Agree c) Neutral d) Disagree e) Strongly differ
+(cid:32) It is safe to say that you are happy with the Performance Management Policies?
 
-(cid:32) In which area(s) do you need that they should deal with?
+33
+
+(cid:32)
+
+(cid:32)
+
+(cid:32)

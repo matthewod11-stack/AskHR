@@ -1,15 +1,17 @@
-# career.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63334c3394c6cb9597a60c99ba4bfb2de6222c37
+title: H07WED-PDF-ENG
+---
+# Sarah’s Struggle
 
-Despite her competence, Sarah struggled to break through the Gantt
+Sarah, a highly skilled project manager with a decade of experience,
 
-ceiling. Her aspirations to climb the corporate ladder and reach an
+had successfully overseen numerous complex projects. Her planning,
 
-executive position were met with resistance. Her project management
+discipline, strong execution capabilities, and ability to navigate across
 
-background, while valuable, was not enough to be considered for an
+silos were widely recognized within her organization. However, despite
 
-open C-level role. Her application was turned down due to a lack of
-
-broader strategic experience that was expected for an executive role.
-
-Sarah’s career appeared stalled, leaving her with unanswered questions
+her stellar track record, Sarah found herself hitting a roadblock in her

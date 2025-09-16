@@ -1,11 +1,19 @@
-# DN
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1464ed691e77b92e600288acc221690b97524512
+title: R2301H-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Options
 
-David Noble is the founder of View Advisors and a leadership and strategy coach and adviser. He is a coauthor of Real-Time Leadership (Harvard Business Review Press, 2023).
+every situation. Just as the most enduring organizations are agile and
 
-Carol Kauffman (www.carolkauﬀman.com) is an assistant professor at Harvard Medical School and the founder of the Institute of Coaching. She has been ranked #1 Leadership Coach by Marshall Goldsmith and shortlisted as one of the top 8 by Thinkers50.
+adaptable, so too are the best leaders.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Editor’s note: David Noble and Carol Kauffman are the authors of Real-Time Leadership (Harvard Business Review Press, 2023), from which this article is adapted.
 
-15
+The best leaders, in the biggest moments, know how to read the situation, respond in the most eﬀective way possible, and move forward. You can, too.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Buy it here
+
+A version of this article appeared in the January–February 2023 issue of Harvard Business Review.

@@ -1,15 +1,9 @@
-# learner and the instructor groups.
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bca0bfae73cf882804a6204f3e6b43b62370125a
+title: H06WA9-PDF-ENG
+---
+## HBR / The Big Idea / Harnessing the Power of Age Diversity
 
-Once you have some pairings ready, hold a kickoﬀ meeting with the
-
-entire team and ask four to six mentors to present brieﬂy on their area
-
-of expertise. Encourage people to reach out to the mentors whose skills
-
-they want to learn. Often the energy of the meeting itself will spur
-
-connections, but you can also send monthly nudges to remind the team
-
-to keep questions ﬂowing.
-
-Even this kind of informal network can help to build a culture of cross-
+generational, make sure all generations are represented in both the

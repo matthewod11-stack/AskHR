@@ -1,15 +1,37 @@
-## expectations, or your and your team’s performance—falls on you. The
+---
+source_path: H08P2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfe42a5fed3a9ff790b7a7cf3138f16b8bd5d029
+title: H08P2N-PDF-ENG
+---
+# Highlight the consequences
 
-better you get at translating feedback from abstract to actionable, the
+Many leaders don’t realize that their communication style isn’t working
 
-more eﬀectively you can deliver results.
+for you because it’s their default, not because they’re intentionally
 
-This article was originally published online on April 14, 2025.
+holding back. So explicitly—but diplomatically—state your preferences.
 
-Melody Wilding is an executive coach, human behavior professor, and author of Managing Up: How to Get What You Need from the People in Charge. Download a free chapter here.
+Try, “I learn best from examples. Is there a particular moment where
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+you saw this issue come up?” or “It helps me most when feedback is tied
 
-5
+to speciﬁc situations rather than general patterns.”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Respectfully explain how a lack of speciﬁc feedback impacts your
+
+work as well. You might point out, “Without details, I might focus my
+
+energy in the wrong areas and waste time we don’t have,” or “Tactical
+
+guidance would help me deliver better quality because I wouldn’t have
+
+to experiment.”
+
+. . .
+
+As you advance, you’re expected to make decisions with less direction
+
+and make sense of the ambiguity around you. More often than
+
+not, the responsibility of getting clarity—whether around priorities,

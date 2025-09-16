@@ -1,39 +1,21 @@
-# 74 Top MANAGERS AND CoRPORATE FINANCE
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 161f59f19a8a6e1bf8e7fcad9bcb67d74539732b
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-Behavioral considerations contribute to our understanding of corporate finance from
+memes”: they should be simple, memorable, broadly applicable, and evoke com-
 
-two perspectives: first, recognizing that markets make mistakes which managers
+plex emotions. Their hypotheses could easily be tested in experiments on how well
 
-exploit; and, second, that managers make mistakes which markets do not fully
+various linguistic meta-principles coordinate actions in the face of garbling due to labor turnover and the passage of time. 8
 
-correct. In this section we assume the perspective most relevant to the economics of organizations and consider the possibility that top managers make mistakes.7° Managers are most likely to be affected in their judgment when they face decisions
+Van Den Steen (2005) tells a story about leadership which is closer to the meta-
 
-in which three conditions hold:
+principle theory of culture. In his model, managers with “vision” have a clear pref- erence for project types. 19 | strong vision is good because it enables efficient labor-
 
-Gi) decisions are not frequent and do not deliver clear feedback;
+market sorting of other managers who agree with the vision into the firm, and saves
 
-(ii) the manager does not specialize in making those decisions; and
-
-(iii) managers are protected from market pressure and competition.
-
-As for (i), the higher the level of a manager in the hierarchy, the less likely decisions
-
-are to be repeated enough to learn from feedback. Large-scale investments, merger
-
-agreements, or capital restructuring are relatively rare decisions, and the organiza-
-
-tional framework of a company may not be optimized to facilitate them. It is also
-
-hard to evaluate outcomes. For example, there is no agreed-upon methodology on
-
-how to evaluate the long-run returns to mergers, even in the academic literature
-
-(Andrade et al. 2001). Regarding (ii), the level of specialization is likely to decrease
-
-the higher up in the hierarchy decisions are made. As Lazear (2004) formulates in the
-
-18Experiments on slogan quality could use paradigms like the game “telephone.” In telephone, people form a circle and speak a phrase very rapidly into the ear of the person to their right, who repeats it rapidly to the person on their right, and so on. The goal is for a slogan or cultural principle to make it around the circle with the least degradation. One could also test the durability of shared memory of a slogan by announcing it to a group, then asking group members at future times whether they remember it, and whether they think others remember it. Good cultural principles will be remembered, and expected to be
-
-remembered by others, over long spans of time.
-
-!9-This is a stylized version of corporate vision as “a mental image of a possible and desirable future
+time that could be wasted by proposing projects that do not fit.

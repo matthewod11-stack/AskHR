@@ -1,9 +1,13 @@
-# and skills.
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68c1bcaefa47c32737d1df2991e036cea375b867
+title: H082MI-PDF-ENG
+---
+## HBR / Digital Article / Fighting Loneliness on Remote Teams
 
-- 2. What did you experience? This adds an element of storytelling and
+recognized. You can also lessen aﬃnity distance and make recognition
 
-makes your recognition more memorable and personalized.
+more meaningful by acknowledging the following details:
 
-- 3. What was the impact on the company and team? This can help
-
-show the employee how their eﬀorts and accomplishments align with
+- 1. What did they do? This highlights and reinforces valuable behaviors

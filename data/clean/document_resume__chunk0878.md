@@ -1,5 +1,11 @@
-# B. Circulation
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 115d1fd83cded74ea491cedf6c5ea1200d37e72c
+title: document_resume
+---
+# A. Physicial Processing
 
-PCT 20%
+PCT 35%
 
-Carrying out prescribed procedures, and accurately maintaining records regarding the borrowing of books and other materials by library users.
+Creating and maintaining records, and correctly performing related tasks needed to facilitate locating and obtaining library :niter's's.

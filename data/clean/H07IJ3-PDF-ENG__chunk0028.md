@@ -1,17 +1,15 @@
-## HBR / Digital Article / 5 Ways Leaders Can Support Adoptive Parents
+---
+source_path: H07IJ3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f52d7d50782ae8925f814f8d8dad52c27921572e
+title: H07IJ3-PDF-ENG
+---
+# of the event.
 
-Providing support to adoptive working parents doesn’t have to be
+- • •
 
-complicated or even expensive. Our research suggests that the return
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-on investment is signiﬁcant, enhancing employees’ and their families’
+4
 
-well-being. Further, providing OSFA is an important step toward
-
-legitimizing adoption as a way to build one’s family and an innovative
-
-way to beneﬁt society as a whole.
-
-This article was originally published online on March 03, 2023.
-
-Kaylee J. Hackney, PhD, is an assistant professor of management at Baylor University. She studies employee stress and well-being with a focus on pregnancy in the workplace. She is also the host of the Elegant Balance podcast where she shares her knowledge of the work-life interface to help professional women achieve a better work-life balance.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

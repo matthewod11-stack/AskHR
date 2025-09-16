@@ -1,13 +1,19 @@
-## HBR / Magazine Article / How Salespeople Game the System
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87d6d7665205cb38c8ff89c2249bb785805d29f0
+title: R2502J-PDF-ENG
+---
+# eﬀorts.
 
-changes to the incentive plan, and the addition of monitoring to detect
+Communicate the changes to the sales team. Once the incentive plan is
 
-and prevent future gaming. Leaders should also discuss any problems
+updated and the data collection and reporting systems are established,
 
-with cheating that were discovered in the process. Explanations of the
+sales leadership should communicate about any new or revised policies,
 
-policies should be combined with a review of the company’s code of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-conduct. Sales organizations without such a code should create one and
+11
 
-share it to help prevent gaming tactics and reinforce the consequences
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

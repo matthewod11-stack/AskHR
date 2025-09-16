@@ -1,27 +1,31 @@
-## through their neglect of the truism that, since even quite common men
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48aea5310aca3247e428fda80e1a8e41e9b872be
+title: H08HGJ-PDF-ENG
+---
+## Scaling Humanity, Instead of Scaling Companies
 
-have souls, no increase in material wealth will compensate them for
+Although leaders often feel pressure to grow, is that always the right
 
-arrangements which insult their self-respect and impair their freedom.”
+path for its employees, and their communities? Some time ago, the
 
-. . .
+famous evolutionary biologist Stewart Kauﬀman attended a major
 
-If we could broaden the lens of what we consider success and scale, we
+conference for strategy scholars. He challenged the assembled crowd:
 
-might be able to create more space for a healthier, happier economy.
+“When will you start asking how GDP can serve humanity rather than
 
-Sometimes we think that because something happens on its own —
+humanity serving GDP?”
 
-Adam Smith’s famous invisible hand — that makes it good. But cancer
+Kauﬀman’s question haunts us to this day, because he touched on the
 
-gets bigger on its own. There are places where scale makes sense, but
+other dimensions that could be considered in our deﬁnitions of scale.
 
-places where it does not. Perhaps one day we could celebrate a company
+What is best for our happiness, for our community, for ecology? What
 
-like Huit Denim changing the conversation or an organization like Blue
+could that world look like? What would it look like if we got it right?
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+As economist R. H. Tawney once wrote, “The existing economic order
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and too many of the projects advanced for reconstructing it break down

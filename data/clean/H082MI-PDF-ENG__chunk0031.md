@@ -1,7 +1,19 @@
-# remote team:
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 31b6f2ddf0b069dad58d8aa98b768dcb19ba8382
+title: H082MI-PDF-ENG
+---
+# styles.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- 4. Model communicating as a whole person
 
-7
+According to the 2023 U.S. Surgeon General’s “Advisory on the Healing Eﬀects of Social Connection and Community,” workplaces can foster a
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+sense of inclusion and belonging among their employees by creating
+
+cultures and practices that encourage people “to connect with one
+
+another as whole people, not just as skill sets.” Here are three ways
+
+you as a leader can model communicating as a whole person with your

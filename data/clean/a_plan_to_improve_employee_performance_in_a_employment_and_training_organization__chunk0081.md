@@ -1,27 +1,29 @@
-# Performance Evaluation System
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: ea9d00530431df1b210ba4f54cf3d0c027c19353
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+## of the job; guidelines for performance evaluations; and, the development of key
 
-Performance evaluation is a process of assessing, summarizing and developing the
+performance objectives that supervisors can use as a guide to measure employee
 
-work performance of an employee. Writing the evaluation should be preceded by a
+performance among counseling technicians at ETR's Intake and Assessment unit.
 
-meeting with the employee to provide the opportunity for a mutual understanding of the
+The new performance evaluation (see Appendix A) will provide the opportunity
 
-evaluation process. The employee will have the option to submit a position statement
+for both employee and supervisor to review performance criteria, outline job
 
-(see Appendix B) which is a self-evaluation and to be considered in the development of
+expectations, and develop a plan for future improvement. It is also an appropriate time to
 
-the evaluation . The position statement will outline what the employee and supervisor
+clarify work plans and other work processes/procedures which might affect employee
 
-think are the expectations of the job. Attached to the position statement will be an outline
+performance or the job itself. The performance evaluation should be a give-and-take
 
-of the essential functions of the job (see p.29), that will assist the employee in developing
+situation, with both parties providing input and feedback. Lastly, this plan proposes some
 
-summary statements of his or her job expectations . In order to be effective and
+incentive for employees to improve performance through reward and recognition
 
-constructive, the supervisor conducting the evaluation should make every effort to gain as
+suggestions (Included will be ideas management can implement in the public sector).
 
-much objective information about the employee 's performance as possible . Conducted
-
-quarterly, performance evaluations provide further feedback to the employee and serve as
-
-a reference point in assisting the employee and supervisor to develop more factual and
+18

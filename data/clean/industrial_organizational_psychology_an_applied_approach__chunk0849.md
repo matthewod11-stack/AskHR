@@ -1,3 +1,23 @@
-# Oﬃ ce and Locker Searches
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 31bb17482ba7d28ca6717baf14b1bf377bef2bdc
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Drug Testing
 
-Office and locker searches are allowed under the law as long as they are reason- able and with cause (O’Conner v. Ortega, ). Allowing employees to place their own locks on lockers, however, removes the right of the organization to search the locker.
+There are few legal problems associated with testing job applicants for drug use. However, drug testing of current employees by a public agency must be based on “reasonable suspicion” and with “just cause.” On the basis of prior cases, reason- able suspicion means that there is reason to suspect that employees are using drugs at work (Goldstein, ). Such suspicion can be produced from a variety of sources, including “tips” that employees are using drugs (Copeland v. Philadelphia Police Department, ; Feliciano v. Cleveland, ; Garrison v. Justice, ), accidents or discipline problems (Allen v. City of Marietta, ; Burnley v. Rail- way, ), actual observation of drug usage (Everett v. Napper, ), or physical symptoms of being under the influence (Connelly v. Newman, ).
+
+The legality of random drug testing in the public sector is a murky area. When considering it, the courts consider the extent to which the special needs of the employer outweigh the employees’ right to privacy. For example, in Local  v. Janine Winters (), the Sixth Circuit Court of Appeals ruled that random drug testing of probation and parole officers was justified, and in National Treasury Employers Union v. Von Rabb (), the U.S. Supreme Court ruled that random testing of customs officials involved in drug interdiction efforts was legal.
+
+Traditionally, the courts consider the degree to which an employee’s behav- ior affects the safety and trust of the public as a factor in deciding whether the needs of the employer outweigh the employee’s right to privacy. For example, air traffic controllers (Government Employees v. Dole, ) and teachers (Knox County Education Association v. Knox County Board of Education, ) have been deemed to be responsible for the safety of the public, but school bus atten- dants have not (Jones v. McKenzie, ).
+
+Other factors taken into consideration by the courts include the accuracy of the drug tests and the care and privacy taken during the testing (Hester v. City of Milledgeville, ; Triblo v. Quality Clinical Laboratories, ). The issue of privacy is an especially interesting one because employees who use drugs often try to “cheat” on their drug tests (Cadrain, a). Attempts at cheating include bringing in “clean” urine that has been taken or purchased from a friend, or dilut- ing the urine sample with soap, toilet water, or other chemicals. Strangely enough, to help applicants cheat on their drug tests, one company markets a product called “The Original Whizzinator,” a prosthetic penis containing a -ounce bag of dehydrated drug-free urine and an organic heating pad to keep the urine at body
+
+temperature (Cadrain, a). You might recall seeing on TV in May  that Onterrio Smith, the former Minnesota Vikings running back who had failed pre- vious drug tests, was caught at the Minneapolis airport with a Whizzinator.
+
+To stop such attempts, some organizations have required those to be tested to strip so that they cannot bring anything into the test area; they also may require that the employee be observed while he provides the urine specimen. Testing conditions such as these would be allowed only under the most serious situations involving national security.
+
+Two other important issues are the appeal process (Harvey v. Chicago Tran- sit Authority, ) and the confidentiality of test results (Ivy v. Damon Clinical Laboratory, ). Employees must be given the opportunity to have their speci- mens retested and to explain why their tests were positive even though they may not have taken illegal drugs.
+
+Thus, for a drug testing program to be legal, the organization must have rea- son to suspect drug usage, the job must involve the safety or trust of the public, the testing process must be accurate and reasonably private, the results should be handled in a confidential manner, and employees who test positive must be given opportunities to appeal and undergo rehabilitation. A detailed discussion of the use and validity of drug testing for employee selection can be found in Chapter .

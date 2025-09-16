@@ -1,7 +1,17 @@
-## tional study. Journal of Personality, 26, 388–399.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4388b57fafad37e95c5847fd59829c6a4ccda980
+title: untitled
+---
+# stress. New York: Norton.
 
-Mandler, G., Mandler, J. M., & Uviller, E. T. (1958). Autonomic feedback: The perception of autonomic activity. Journal of Ab- normal and Social Psychology, 56, 367–373.
+Mandler, G. (1990). A constructivist theory of emotion. In N. S. Stein, B. L. Leventhal, & T. Trabasso (Eds.), Psychological and biological approaches to emotion (pp. 21–43). Hillsdale, NJ: Erlbaum.
 
-Mandler, G., & Watson, D. L. (1966). Anxiety and the interruption of behavior. In C. D. Spielberger (Ed.), Anxiety and behavior (pp. 263–288). New York: Academic Press.
+Mandler, G. (1992). Emotions, evolution, and aggression: Myths and conjectures. In K. T. Strongman (Ed.), International Review of Studies on Emotion (pp. 97–116). Chichester, England: Wiley.
 
-Marañon, G. (1924). Contribution à l’étude de l’action emotive de l’adrénaline. Revue française d’Endocrinologie, 2, 301–325.
+Mandler, G. (1993). Thought, memory, and learning: Effects of emotional stress. In L. Goldberger & S. Breznitz (Eds.), Hand- book of stress (pp. 40–55). New York: Free Press.
+
+Mandler,G.(1999).Emotion.InB.M.Bly&D.E.Rumelhart(Eds.), Cognitive science (pp. 367–384). San Diego, CA: Academic Press.
+
+Mandler, G., & Kremen, I. (1958). Autonomic feedback: A correla-

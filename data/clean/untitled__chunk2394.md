@@ -1,13 +1,17 @@
-## Fagan,T.K.,&Warden,P.G.(Eds.).(1996).Historicalencyclopedia
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a08c3a2de0b898a9471defcef56f08691201e253
+title: untitled
+---
+## century perspective. American Psychologist, 55, 754–757.
 
-of school psychology. Westport, CT: Greenwood.
+Fagan, T. K., & Bose, J. (2000). NASP: A proﬁle of the 1990s.
 
-Fagan, T. K., & Wells, P. D. (2000). History and status of school psychology accreditation in the United States. School Psychol- ogy Review, 29(1), 28–51.
+Communique, 29(2), 10–11.
 
-Fagan, T. K., & Wise, P. S. (2000). School psychology: Past, pre- sent, and future (2nd ed.). Bethesda, MD: National Association of School Psychologists.
+Fagan, T. K., Delugach, F. J., Mellon, M., & Schlitt, P. (1985). A bibliographic guide to the literature of professional school psychology 1890–1985. Washington, DC: National Association of School psychologists.
 
-Farling, W. H., & Hoedt, K. C. (1971). National survey of school psychologists. Washington, DC: National Association of School Psychologists.
+Fagan, T. K., Gorin, S., & Tharinger, D. (2000). The National Asso- ciation of Schools Psychologists and the Division of School Psychology–APA: Now and beyond. School Psychology Review, 29(4), 525–535.
 
-French, J. L. (1984). On the conception, birth, and early devel- opment of school psychology: With special reference to Pennsylvania. American Psychologist, 39, 976–987.
-
-French, J. L. (1986). Books in school psychology: The ﬁrst forty
+Fagan, T. K., & Sheridan, S. (2000). Miniseries: School psychology in the 21st century. School Psychology Review, 29(4), 483–605.

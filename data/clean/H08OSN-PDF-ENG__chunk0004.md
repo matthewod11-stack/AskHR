@@ -1,17 +1,13 @@
-## HBR / Digital Article / When You’re Overloaded—and Delegating Isn’t an Option
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 130f656765f2679db7a6be8b8de1d6107f4724e6
+title: H08OSN-PDF-ENG
+---
+# sustainable option.
 
-We have seen this situation many times working with hundreds of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-leaders and teams in our consulting and coaching work. Fortunately,
+1
 
-there are three key strategies you can use to reassess and reconﬁgure the
-
-work you do to free up your limited time and capacity.
-
-- 1. Make sure your team really understands what “good enough” looks like
-
-It’s easy to think that every piece of work should be an A+. But if
-
-everything you or your team does is “excellent,” you are overdoing
-
-quality, stressing your team, wasting energy, and slowing down
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

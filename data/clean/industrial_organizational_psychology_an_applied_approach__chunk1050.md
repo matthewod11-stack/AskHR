@@ -1,3 +1,7 @@
-# Student Manager (August, 2008–present) Radford University Dining Services, Radford, VA
-
-Responsible for supervising 30 students working in the dining hall. Speciﬁc responsibilities include scheduling employees, solving customer complaints, balancing the cash drawers, promoting high levels of customer service, and ensuring health regulations are being followed.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a22808ac7039aef017ab6829d5cfa8ce2a65d336
+title: industrial_organizational_psychology_an_applied_approach
+---
+# PART-TIME AND SUMMER EMPLOYMENT

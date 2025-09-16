@@ -1,31 +1,21 @@
-# from its core strategic position.
+---
+source_path: H08L2V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1110e49e152e654d1d5f950ed71f7bb29e0f2924
+title: H08L2V-PDF-ENG
+---
+## investment proposals but also on whether the investment “ﬁts” with the
 
-. . .
+core elements of the ﬁrm’s strategic position.
 
-Although the advice to identify the core and peripheral features of a ﬁrm’s strategic position sounds easy and straightforward, the diﬃculty
+Second, it helps operational managers throughout the organization
 
-of doing so should not be underestimated. The core features of a
+make decisions with autonomy. This is because the core elements of the
 
-strategy are usually choices that were made a long time ago by
+strategy can act as the guardrails within which operational managers
 
-managers who are no longer at the ﬁrm. Current managers may not
+can decide what they can do with autonomy and what they need to get
 
-feel ownership to the choices made a long time ago by people they
+approval for before acting. Operating within these guardrails minimizes
 
-do not know and will naturally be biased towards the strategic choices
-
-undertaken during their tenure. This is made worse by the fact that
-
-managers have a tendency to deﬁne strategy as the decisions they are
-
-taking to move the organization into the future and will never associate
-
-choices made years ago as “strategy.” Yet, the choices made at the
-
-birth of the company are part of its DNA and investment decisions
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the risk that managers will make decisions that move the company away

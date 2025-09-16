@@ -1,5 +1,13 @@
-# the
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 3af2e67420106ad0cf8f9a3b07e6e3fc1e9823b0
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# R.S.Dalaletal.
 
-- Why have past exhortations for IOOB seri- to take workplace decisions to study workplace ously—that decisionsasdecisions—not had much impact? is,
+- Should one of
 
-Our hope is that this article generates a robust discussion on cross-fertilization between the two ﬁelds. Some of our ideas are likely to be points of contention, but we trust they will also convey our hopefulness regarding the prospect and the promise of increased cross-fertilization.
+the major prescrip- tive functions of IOOB involve train- ing employees how to make better decisions? • How might
+
+cross-fertilization between JDM and IOOB be institu- tionalized? Are there existing models of successful and systematic collabo- ration across disciplines from which we could draw lessons?

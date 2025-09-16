@@ -1,7 +1,19 @@
-# management skills.”
+---
+source_path: H08LCW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4d3c393e74d98309bdc88c84ff69dee074984a1
+title: H08LCW-PDF-ENG
+---
+## requirements. Don’t repeat the same responsibilities from one job
 
-If a candidate with seven years’ experience as a media planner in two
+to the next; the goal is to show career progression which aligns
 
-diﬀerent jobs wants to align their experience to the job description, they
+with the role you are pursuing. For example, the job description for
 
-would start from their ﬁrst job after school and progress toward their
+a Paid Media Director role includes language such as, “Own client
+
+relationships, creating media planning strategy from cross-platform
+
+data. Must have familiarity with social media, email, and DSP platforms.
+
+Successful candidate will have excellent writing, reporting, and project

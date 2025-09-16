@@ -1,7 +1,7 @@
-# Interpersonal Communication
-
-Interpersonal communication involves the exchange of a message across a communication channel from one person to another. As shown in Figure ., the interpersonal communication process begins with a sender encoding and transmitting a message across a communication channel (e.g., by memo, orally, nonverbally) and ends with another person (the receiver) receiving and decoding the message. Although this seems like a simple process, there are three main problem areas where things can go wrong and interfere with the accurate trans- mission or reception of the message.
-
-414
-
-chapter 
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 406e45497ce3b14c63a99b6842bf2e0564defabe
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Exercise . in your workbook.

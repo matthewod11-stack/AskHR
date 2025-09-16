@@ -1,9 +1,17 @@
-## HBR / Digital Article / 5 Ways to Ask Your Boss to Advocate for You
+---
+source_path: H08EPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78528e70d1e67ee6123348376fa22f1fe1287920
+title: H08EPO-PDF-ENG
+---
+# events or meetings
 
-- A set of frequently asked questions with clear, concise answers to help
+- Customizable email templates for connecting you with diﬀerent
 
-them ﬁeld objections or defend your ideas to senior leadership
+stakeholders or promoting your work
 
-- Pre-written social media posts they can share on professional networks
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-to highlight the progress or impact of your work
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

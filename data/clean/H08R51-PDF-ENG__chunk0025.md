@@ -1,9 +1,15 @@
-# productivity, and workforce health.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 003a56e9f50307cf1986e103a204fd5312df4bdb
+title: H08R51-PDF-ENG
+---
+# communication.
 
-This structural imbalance, exacerbated by gender norms and
+When job demands consistently outpace resources, employees
 
-occupational sorting, helps explain why expanding sick leave or well-
+experience higher rates of presenteeism, burnout, absenteeism,
 
-intentioned gestures such as leaders modeling time oﬀ or setting email
+diminished productivity, and lower job satisfaction. Conversely,
 
-boundaries often fall short. Without redesigning jobs to address deeper
+balanced demands and adequate resources boost motivation,

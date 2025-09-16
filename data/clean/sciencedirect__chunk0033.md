@@ -1,13 +1,11 @@
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: 7b563fad35c2309523cc04acff2fb393175f61c4
+title: sciencedirect
+---
 # Accepted
 
-- 10. Discussion and conclusion
+40.6
 
-such positive traits were identified as discussed in the paper. A framework was introduced which incorporated the
-
-and if nurtured by the organization will eventually makes employees more eager to engage and increase their
-
-of positive traits to Optimism, Well-Being and Personal Strength. Based on the framework, questionnaires were
-
-developed to find out whether the relationships on the framework are valid hypotheses test the hypotheses using
-
-well-being and personal strength at the workplace increase employees’ performance hence organizational
+2.438

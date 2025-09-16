@@ -1,13 +1,19 @@
-# HBR / Digital Article / Research: When Is Leniency the Right Response to Employee M…
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed5df7b26db386112f5f51c8adc7735ed12740c0
+title: H08MIG-PDF-ENG
+---
+## When Should Managers Take a Lenient Approach?
 
-of leniency and avoid the negatives. Crucially, managers should start by
+To help managers more eﬀectively navigate the pervasive and complex
 
-analyzing various factors associated with the event before acting.
+nature of employee misconduct — when to be lenient and when not to
 
-- 1. Anticipate the presence of big emotions.
+be — we suggest a few steps to ensure managers maximize the beneﬁts
 
-Misconduct events are emotional — for managers, the oﬀender, and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-other employees. Managers should be ready to understand their
+5
 
-own and others’ emotions. Oﬀenders may feel self-focused negative
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

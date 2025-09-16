@@ -1,9 +1,9 @@
-# MM
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b92034851603c6ff4dfaec49d4e0f3529cc199f5
+title: H08VNO-PDF-ENG
+---
+# TG
 
-Marcello Mariani is a professor of management at Henley Business School and the University of Bologna, Italy.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Tomasz Gorny is a Research Assistant in the Faculty of Arts and Humanities, King’s College London, London.

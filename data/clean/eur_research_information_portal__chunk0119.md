@@ -1,9 +1,19 @@
-# Editorial
+---
+source_path: eur_research_information_portal.md
+pages: n/a-n/a
+chunk_id: aab89e0d51bdcb8deb3b3cd82bd476c8fd028179
+title: eur_research_information_portal
+---
+## justice perspective. Leadership Quarterly, 10, 25–40.
 
-Spreitzer, G., Sutcliffe, K., Dutton, J., Sonenshein, S., & Grant, A. M. (2005). A socially embedded model of thriving at work. Organization Science, 16(5), 537–549. https://doi.org/10.1287/orsc.1050.0153
+Scholten, L., van Knippenberg, D., Nijstad, B. A., & De Dreu, C. K. W. (2007). Motivated information processing and group decision making: Effects of process accountability on information sharing and decision quality. Journal of Experi- mental Social Psychology, 43(4), 539–552. https://doi.org/10.1016/j.jesp.2006. 05.010
 
-Stasser, G., & Stewart, D. (1992). Discovery of hidden proﬁles by decision-making groups: Solving a problem versus making a judgment. Journal of Personality and Social Psychology, 63(3), 426–434. https://doi.org/10.1037/0022-3514.63.3.426 Sternberg, R. J. (1985). Implicit theories of intelligence, creativity, and wisdom. Journal of Personality and Social Psychology, 49(3), 607–627. https://doi.org/10. 1037/0022-3514.49.3.607
+Schyns, B., Paul, T., Mohr, G., & Blank, H. (2005). Comparing antecedents and consequences of leader–member exchange in a German working context to ﬁndings in the U.S. European Journal of Work and Organizational Psychology, 14, 1–22. https://doi.org/10.1080/13594320444000191
 
-Stroh, D. P. (2015). Systems thinking for social change: A practical guide to solving complex problems, avoiding unintended consequences, and achieving lasting results. White River Junction, VT: Chelsea Green Publishing.
+Settles, I. H., Buchanan, N. T., & Dotson, K. (2019). Scrutinized but not recognized: (in)visibility and hypervisibility experiences of faculty of color. Journal of Vo- cational Behavior, 113, 62–74. https://doi.org/10.1016/j.jvb.2018.06.003 Shore, L. M., Randel, A. E., Chung, B. G., Dean, M. A., Ehrhart, K., & Singh, G. (2011). Inclusion and diversity in work groups: A review and model for future research. Journal of Management, 37(4), 1262–1289. https://doi.org/10.1177/ 0149206310385943
 
-Sue D. W. (Ed.) (2010). Microaggressions and marginality: Manifestation, dynamics,
+Simons, T., Leroy, H., & Nishii, L. (2022). Revisiting Behavioral Integrity: Progress and new directions after 20 years. Annual Review of Organizational Psychology and Organizational Behavior, 9, 365–389.
+
+Singh, B., Winkel, D. E., & Selvarajan, T. T. (2013). Managing diversity at work: Does psychological safety hold the key to racial differences in employee performance? Journal of Occupational and Organizational Psychology, 86(2), 242–263. https:// doi.org/10.1111/joop.12015
+
+Sivunen, A. (2006). Strengthening identiﬁcation with the team in virtual teams: The leaders’ perspective. Group Decision and Negotiation, 15(4), 345–366. https:// doi.org/10.1007/s10726-006-9046-6

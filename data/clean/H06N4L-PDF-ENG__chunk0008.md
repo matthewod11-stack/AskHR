@@ -1,9 +1,9 @@
-# employees?”
+---
+source_path: H06N4L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ff643c4180b649f903882b538dfc0f681283634
+title: H06N4L-PDF-ENG
+---
+# HBR / Digital Article / Are Non-Christian Employees Represented in Your Holiday Polic…
 
-It’s not surprising that this question is coming up more and more.
-
-Religious diversity in corporate America is a fact. Although nearly two-
-
-thirds of Americans identify themselves as Christian, that number is
-
-down 12% over the last decade, according to Pew Research Center on
+interfaith organization, how do you handle religious holidays for your

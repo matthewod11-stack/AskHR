@@ -1,5 +1,7 @@
-# in
-
-On the other hand, those older in this cohort might have more experience in managing such pressures, and might in certain cases even have a motivational advantage. What is not clear, however, is whether older or younger individuals are relatively more vulnerable to withdrawal cognitions when their work-life balance is disrupted or reduced. It is not clear if older employees, in this specific cohort, with greater
-
-http://www.sajems.org
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 9cef0fe07fc47eab57137ac477474f4a82ead6e0
+title: read_online
+---
+# Individuals

@@ -1,5 +1,11 @@
-## protectiveness, and patronization toward employees with disabilities.
+---
+source_path: H07PM3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b06254faaa4a6e2c3103eedcec28d44cab1c96e4
+title: H07PM3-PDF-ENG
+---
+## “Ableist Assumptions” Hinder Efforts to Help Workers with Disabilities
 
-Managers, guided by ableist assumptions, often impose their own
+Let us explore another compelling example: benevolent ableism, which
 
-deﬁnitions of disability, attempting to create “inclusive” environments
+refers to well-intentioned but problematic behaviors such as pity,

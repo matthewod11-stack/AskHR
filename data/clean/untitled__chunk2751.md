@@ -1,11 +1,11 @@
-# and psychological University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 620f46555060962c39fe2dba6b4b9128be2864d4
+title: untitled
+---
+# York: Van Nostrand-Reinhold.
 
-Mezzich, J., Kleinman, A., Fabrega, H., Good, B., Johnson-Powell, G., Lin, K. M., et al. (Eds.). (1993). Cultural proposals and supporting papers for DSM-IV. Rockville, MD: National Institute of Mental Health.
+McKeachie, W. J. (1969). Proceedings of the American Psychologi- cal Association, Incorporated, for the year 1968: Minutes of the annual meeting of the Council of Representatives, September 1, 1968, San Francisco, and October 5 & 6, 1968, Washington, DC: American Psychologist, 24, 19–41.
 
-Murphy-Shigematsu, S. L. (1986). The voices of Amerasians: Ethnicity, identity and empowerment in interracial Japanese Americans. Unpublished doctoral dissertation, Harvard Univer- sity, Cambridge, MA.
-
-Myers, H. F., Echemendia, R. J., & Trimble, J. E. (1991). The need for training ethnic minority psychologists. In H. F. Myers, P. Wohlford, L. P. Guzman, & R. J. Echemendia (Eds.), Ethnic minority perspectives in clinical training and services in psy- chology (pp. 3–11). Washington, DC: American Psychological Association.
-
-Myers, L. J. (1988). Understanding an Afrocentric world view: Introduction to an optimal psychology. Dubuque, IA: Kendall/ Hunt.
-
-Nelson, B. (1969). Psychologists: Searching for social relevance at
+Messer, S., Sass, L., & Woolfolk, R. (Eds.). (1988). Hermeneutics theory. New Brunswick, NJ: Rutgers

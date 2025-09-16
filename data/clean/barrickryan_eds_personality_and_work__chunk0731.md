@@ -1,5 +1,9 @@
-# When Are ATIs Important to Consider?
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 8a2b01ad160d3170d89345392b08f54857ebf7d7
+title: barrickryan_eds_personality_and_work
+---
+# UNDERSTANDING THE DYNAMIC LEARNER 247
 
-ATIs are of interest because they imply that to some extent, learn- ing experiences such as training can be optimized across speciﬁc groups of individuals. In other words, one training intervention may beneﬁt some individuals more than others in terms of their standing on a learning outcome; in turn, those who do not bene- ﬁt from this intervention will beneﬁt from another one (or from some variation of it). Campbell and Kuncel (2002) stress that there are always relevant individual differences and always differences in training programs that make ATI relevant to any training effort. Yet there has been scant attention to examining ATIs in organiza- tional learning situations.
-
-Recent research has begun to reexamine the usefulness of ATIs in workplace training situations. Gully, Payne, Koles, and Whitman (2002) examined the effectiveness of error training for trainees with different levels of ability and personality traits such as open- ness to experience and conscientiousness. They found that the ef- fectiveness of the training was dependent on both ability and personality traits. For example, individuals more open to experi- ence beneﬁted more from error-encouragement training than less open individuals did. Schmidt and Ford (2002) examined the in- teractive effects of goal orientation and metacognitive instruction on learning outcomes within a Web-based training environment. They found, consistent with expectations, that the metacognitive intervention (prompting learners to self-reﬂect) resulted in lower levels of metacognitive activity and learning for those with a high
+This research direction shows that learning states can be cre- ated that have important impacts on self-regulatory processes and learning outcomes. Research from the clinical and social psychol- ogy literatures on affecting states should be considered for ideas on other types of interventions that have relevance for learning sit- uations. For example, Fosterling (1985) discusses a number of other types of attribution retraining approaches such as the use of persuasion. Barrios and Shigetomi (1979) have identiﬁed ﬁve types of programs for anxiety management. Such interventions have the potential to provide trainers and training designers with a number of strategies for improving learning.

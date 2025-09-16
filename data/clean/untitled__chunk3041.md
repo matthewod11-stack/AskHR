@@ -1,7 +1,11 @@
-# National Psychological Associations 541
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: df739ef9556552fc53b4602dcd87eabd45505f6c
+title: untitled
+---
+## The Society for Psychological Study of Social Issues
 
-psychologists, to work for the inclusion of mental health ser- vices in federal programs, and to speak out against fascism. The leadership of the APA at the time was chieﬂy focused on maintaining a public image of psychology as a natural sci- ence and declined to act on the issues presented them. A year later, at the APA meeting at Dartmouth College, Krech and Stagner held a public meeting at which the SPSSI was formed. The prominent psychologist Goodwin Watson was named as the ﬁrst president. The SPSSI sought afﬁliate sta- tus with the APA, which was granted the following year (Finison, 1986; Stagner, 1986).
+Several of the APA divisions began as independent organiza- tions and later joined the APA. While all of those organiza- tions have an interesting history, we focus here on two: the Society for Psychological Study of Social Issues (SPSSI), which is APA’s Division 9, and the Psychology-Law Society, APA’s Division 41.
 
-When the APA was reorganized during World War II, the SPSSIjoinedasDivision9.However,theSPSSIhasremained an independently incorporated organization. While all Divi- sion 9 members must also be SPSSI members, not all SPSSI members are Division 9 members. The number of psycholo- gistswhoaremembersofSPSSIhasﬂuctuatedovertheyears, fromahighof80%in1980toitscurrentlowofapproximately 55% (Kimmel, 1997). The SPSSI experienced fairly consis- tent growth in its membership over the years, with a high of 2,832 in 1985. However, the SPSSI experienced a decline in members in the second half of the 1990s.
-
-The focus of the division since its inception has been on social issues. One prominent member described the interests of SPSSI members as the “three Ps: prejudice, poverty, and peace” (cited in Kimmel, 1997, p. 17). Labor issues served as an initial focus in the late 1930s as the United States faced se- vere economic hardship. The SPSSI worked to gain greater employment for psychologists and to understand and reduce labor conﬂict. SPSSI members, led by Otto Klineberg and Kenneth and Mamie Phipps Clark, played a crucial role in the U.S. Supreme Court decision in Brown v. Board of Education in 1954. The research of Kenneth Clark and Mamie Phipps Clark was critical in the Supreme Court decision to end race- based school segregation (Jackson, 2000; Phillips, 2000). The SPSSI has worked in support of cases of academic freedom, early and notably in the case of the University of California, Berkeley, professors who were ﬁred for refusing to sign a loyalty oath during the McCarthy “Red Hunt” era. The SPSSI has also worked on social issues such as civil rights, population control, antiwar activities, and the role of science in the formation of public policy.
+A group of young psychologists led by Ross Stagner and Isadore Krechevsky (who later changed his name to David Krech) circulated a petition in 1935 that called on the APA to become involved in the pressing social issues of the day. Speciﬁcally, this group wanted the APAto address the problems of unemployment among (especially young)

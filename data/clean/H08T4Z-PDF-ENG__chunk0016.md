@@ -1,7 +1,21 @@
-# in life sciences.
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 681e5cdb1abe762775b283b6f7fed2ea7f2f3d8b
+title: H08T4Z-PDF-ENG
+---
+# expenses.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Miller realized her ability to frame, name, and claim a radically diﬀerent
 
-4
+strategy in med tech was quite rare and the outcomes she generated
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+were exponentially larger than her mid-six-ﬁgure salary. She received
+
+conﬁrmation of this when competitors began calling to poach her to
+
+their teams. So instead of being an executive, she’s now the founder
+
+and president of Grey Matter Marketing with a team of 11 utilizing her
+
+superpowers on her own terms designing new categories for companies

@@ -1,3 +1,7 @@
-## Breaking Down Barriers to Belonging for Women of Color in Tech
-
-Research sheds light on the top contributors and detractors to belonging — and how companies can address them. by Janine Lee
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e1a78842ff956a5e910acec2394be0c74bf1c79
+title: H089KA-PDF-ENG
+---
+# HBR / Digital Article / Breaking Down Barriers to Belonging for Women of Color in Tech

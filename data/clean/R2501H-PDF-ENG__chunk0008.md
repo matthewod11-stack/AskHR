@@ -1,31 +1,17 @@
-# Custodians
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdeed15cd048b92367f2d23588e5b29657dbe091
+title: R2501H-PDF-ENG
+---
+## in a mismatch between the learning approach and current company
 
-Custodians see learning as instrumental to executing an organization’s
+needs. That caused friction and frustration and derailed eﬀorts to
 
-strategy and strengthening its culture. In their view learning is a tool
+improve learning.
 
-to help employees perform their roles better (and get better roles).
+Understanding the three approaches and the diﬀering goals they serve
 
-While learning helps employees succeed and advance, the ultimate
+can help executives select, develop, partner with, and be better leaders
 
-beneﬁciary is the organization, and any learning that doesn’t provide
-
-a concrete advantage to the company is probably useless.
-
-Custodians embrace this view because they see themselves primarily as
-
-stewards of the business. For them, alignment with senior leadership is
-
-a top priority; they create value by bringing others on board with the
-
-top team’s agenda. Indeed, many custodians we spoke to were business
-
-leaders in other areas before they came to learning, and most noted how
-
-much they had in common with their C-suite peers.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of learning for their companies.

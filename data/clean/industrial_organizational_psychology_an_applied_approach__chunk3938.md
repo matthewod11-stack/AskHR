@@ -1,17 +1,13 @@
-## Multiple-hurdle approach Selection practice of
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 428f96aa6081f35412841b4d8d24a417855fdd08
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Motivators
 
-administering one test at a time so that applicants must pass that test before being allowed to take the next test.
+In Herzberg’s two-factor theory, elements of a job that concern the actual duties performed by the employee.
 
-Multiple regression A statistical procedure in which the scores from more than one criterion-valid test are weighted according to how well each test score predicts the criterion.
+Multiple channels A strategy for coping with
 
-Multiple-source feedback A performance appraisal strategy in which an employee receives feedback from sources (e.g., clients, subordinates, peers) other than just his/her supervisor.
-
-MUM (minimize unpleasant messages) effect The idea that people prefer not to pass on unpleasant information, with the result that important information is not always communicated.
-
-Need for achievement According to trait theory, the
-
-extent to which a person desires to be successful.
-
-614
-
-glossary
+communication overload in which an organization reduces the amount of communication going to one person by directing some of it to another person. Multiple-cutoff approach A selection strategy in which applicants must meet or exceed the passing score on more than one selection test.

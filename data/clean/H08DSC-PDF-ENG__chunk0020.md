@@ -1,21 +1,23 @@
-# HBR / Digital Article / Why Companies Should Consolidate Tech Roles in the C-Suite
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ba659d0015f5b004623688f2132441c069b3a3e
+title: H08DSC-PDF-ENG
+---
+# well.
 
-client services oﬃcer, leads all technology functions at TIAA, and has
+In the survey, respondents minimized “managing down” skills and
 
-direct reports dealing with data and AI, client services, and shared
+technical execution skills, but the SuperTech leaders interviewed
 
-services, as well as chief information and technology oﬃcers for TIAA’s diﬀerent business lines. In each area he seeks out people who have the
+suggested they shouldn’t be discounted. Several mentioned the
 
-relevant technology skills, but who also understand how to transform
+importance of hiring strong specialists in each area reporting to
 
-an organization. He reports to the company’s CEO, and said he still
+them. Sastry Durvasula, whose title at TIAA is chief information and
 
-codes on occasion as well. Klapdor, who worked at Vista, said that
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-he doesn’t think of himself as highly technical, but he did create a
+4
 
-small Arduino-based device for capturing sensor data from printing
-
-equipment. Understanding the technology helps him lead those who
-
-do it for a living. Both of these leaders have at least some degree of
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,11 @@
-## 318 • HUMAN RESOURCE MANAGEMENT, Fall 2002
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: e7d27c8432ae60eac4b17c5ac57b3c75587931aa
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+# t o P r o m o t e
 
-example, succession planning models, struc- tured interview questions for selection). It consists of two major components. The first component provides the results of the occu- pational survey, displayed by occupation and pay level for each competency scale (for ex- ample, importance of competencies for entry-level secretary). These results formed the basis for the first iteration of the HR Man- ager, known as the Report Generator.
+I n t e g r a t e d H u m a n R e s o u r c e P r a c t i c e s
 
-Through leveraging technology, the HR Manager ensures that occupational information can be used on a daily basis to support HR practices and decisions.
-
-Subsequently, OPM worked with users to develop the second component. This compo- nent provides summarized data and competency-based HR tools designed prima- rily for use in job design and description, re- cruitment and selection, performance management, and career development and training. As additional occupational studies are performed, more data are added to the sys- tem. In addition, feedback from users contin- ues to be incorporated into new iterations of the system. For example, the Internet version of the HR Manager offers many advantages over previous versions. The advantages include the ability to make more timely updates of data and features, easier access from remote loca- tions, the ability to access the Internet-based system without installing additional software, links to other relevant sites, and the ability to transport data to other systems. Through le- veraging technology, the HR Manager ensures that occupational information can be used on a daily basis to support HR practices and de- cisions. OPM is also working to assist several agencies that own HR Manager to integrate the data into their HR information systems. The initial HR Manager was designed for federal agencies; however, state and local gov- ernments have found the system to be of great value in their HR processes. For example, the state of California needed to conduct an oc- cupational analysis of its clerical classes to form the foundation of a new clerical test. Instead of developing new task and compe- tency lists, they compared the competencies and tasks on the federal survey of clerical and technical occupations to the work of their clerical classes. They found that the OPM survey was comprehensive and subsequently administered it to employees in 90 clerical classes. The results of the California data were placed in the HR Manager in a separate
-
-“agency-specific” component that allows the California users to access their data and com- pare it to the federal data. Other public-sec- tor organizations also began to see the benefit of using a common language. While some of these have chosen to take part in the occupa- tional studies (for example, the states of Michi- gan and Indiana), others matched their occupations to the federal occupations to be able to use the system (for example, the state of New Jersey). These matches are based on the similarity between the state or local jobs and the competencies and tasks in the federal occupational profiles.
+3 1 7

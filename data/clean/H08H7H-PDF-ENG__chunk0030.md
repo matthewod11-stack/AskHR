@@ -1,31 +1,19 @@
-## into the relational potential of your remote business practices:
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a4c5f92916da6b397f11e731a05eaf7728cb79c
+title: H08H7H-PDF-ENG
+---
+## as a generator of employee relationships rather than as an impediment.
 
-- 1. Role model ways that show (rather than just tell) nonwork
+Our research shows that over video meetings, coworkers can learn
 
-related information. For example, you might unblur your own
+new nonwork information about each other in ways that beneﬁt their
 
-video meeting background. This is an easy way to make your
+relationships more than the traditional ways employees learn about one
 
-employees see that doing so is not only accepted but encouraged.
+another in the oﬃce (e.g., by telling each other about themselves or even
 
-Through this modeling, you are encouraging employees to unblur
+connecting on social media).
 
-their backgrounds and let coworkers get a glimpse into their real life
-
-in a less ﬁltered way. For example, an employee who rock climbs
-
-might just leave their rock-climbing gear hanging behind them, rather
-
-than scurrying to put it away and tidy the camera view.
-
-- 2. Create spaces for your employees to vividly share nonwork
-
-related details with each other. This might mean carving out some
-
-time during team meetings to introduce team members to each other in a diﬀerent way. Provide a prompt — what is a favorite song, band,
-
-food, experience — and allow the conversation to ﬂow between your
-
-employees, encourage them to show beloved books or souvenirs.
-
-You can increase the vividness of this sharing by creating a team
+Based on our research, we suggest two ways you can easily start tapping

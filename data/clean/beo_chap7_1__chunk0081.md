@@ -1,15 +1,17 @@
-# categories in cultural discourse.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 097d4f4ef96e709d49dcfde93bb05171fc3e3f3e
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-If a firm can create a sense among workers that they are like a species—with
+that group members share a common essence which is immutable.!2 Gil-White
 
-immutable special properties that are inheritable—it might be able to hijack neu-
+(2001, p. 519), for example, argues that ethnic groups are perceived as a species.
 
-ral circuitry which is highly evolved to distinguish friend from foe on the basis of
+They have
 
-species and species-like ethnic characteristics, to create a deep sense of group mem-
+(1) a distinctive morphology... (2) many intercorrelated hidden properties...
 
-bership and helping. For example, a body feature which cannot be changed marks a
-
-species, so one way to create a species illusion is with tattoos. In fact, Nike founder
-
-Phil Knight and many of his employees have tattoos of the Nike “swoosh” logo on
+(3) within-category mating and descent-based membership, and (4) saliently labeled

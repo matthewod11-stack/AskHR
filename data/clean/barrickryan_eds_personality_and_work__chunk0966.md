@@ -1,15 +1,13 @@
-# S
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: fca1052455d35b41300cbbaa85147935b9d27827
+title: barrickryan_eds_personality_and_work
+---
+# R
 
-Saavedra, R., 42, 128, 190 Sackett, P. R., 111, 150, 151, 152,
+Radhakrishnan, P., 307 Ralston, D. A., 169 Ravlin, E. C., 264 Reddon, J. R., 61 Ree, M. J., 232 Reis, H. T., 138, 206, 211, 218 Reise, S. P., 237, 243 Reiss, A. D., 308 Reyes, J.A.S., 7 Rhodewalt, F., 173 Richards, R., 46 Ridgeway, C., 196 Rieke, M. L., 13 Riemann, R., 14 Riggio, R. E., 141 Rioux, S. M., 103 Riveiro, J.M.S., 252 Roberson, L., 127, 167 Roberts, B. W., 306, 310 Roberts, R. D., 299
 
-153, 161, 164, 297, 314
+Robertson, I., 42, 232, 294 Robichaud, L., 172 Robie, C., 311 Robins, R. W., 158 Robinson, B. S., 128 Robinson, G. F., 45 Robinson, S. L., 152 Rohan, M. J., 265 Rokeach, M., 265 Rosenholtz, S. J., 196 Rosolack, T. K., 10 Roth, P. L., 301 Rothman, A. J., 43 Rothstein, M., 61, 84 Rotter, J. B., 245 Rowe, D., 192, 265 Rucker, K. L., 37 Rudolph, C. J., 169 Russell, J. A., 31 Rusting, C. L., 137 Ryan, A. M., 21, 161, 164, 234, 262,
 
-Sadri, G., 42 Sager, C. E., 88 Sagiv, L., 265 Saks, A. M., 127, 262, 277 Saladin, S., 162 Salas, E., 231, 233, 243 Salgado, J. F., 60 Salovey, P., 43, 299 Santee, R. T., 187 Santoro, K. E., 140 Sapolsky, R. M., 43, 44 Sarason, B. R., 41, 141 Sarason, I. G., 41, 141 Saucier, G., 1, 5, 7, 8, 9, 10, 11, 13,
-
-16, 21, 86, 308 Savage, R. E., 236 Sawin, L. L., 111
-
-Scandura, T. A., 206 Schachter, S., 207 Scheier, M. F., 41, 44, 173 Schein, E., 267 Schimmack, U., 307 Schleicher, D. J., 207, 208 Schmidt, A., 247 Schmidt, F. L., 77, 87, 153, 154, 292,
-
-293, 298, 314, 329 Schmidt, W. H., 264 Schmit, M. J., 21, 89, 99, 294, 311 Schmitt, N., 233 Schneider, B., 222, 264, 265, 271, 272, 275, 276, 280, 307, 313 Schneider, R. J., 83, 84, 85, 86, 87, 100, 230, 237, 298, 299, 310
-
-Schuck, J. R., 171 Schulberg, H. C., 169 Schwartz, S. H., 265 Schwarz, N., 46 Scott, J., 215, 221 Scullen, S. E., 329 Seibert, S. E., 205, 211, 298 Seligman, M. E., 140 Sellaro, C. L., 171 Shao, L., 36, 68 Shapiro, D., 43 Shearon, E. N., 141 Sheldon, K. M., 65, 66, 75 Shelton, D., 66 Shiffman, S. S., 122 Shigetomi, C. C., 243, 247 Shiu, A. T., 129 Shoda, Y., 131, 132, 133, 238, 304 Shweder, R. A., 8 Si, S. X., 269 Silverman, W. H., 171 Simon, H. A., 270, 339 Simons, T. L., 186 Simpson, J. A., 210, 214, 218, 279 Sinclair, R. C., 45 Sipe, W. P., 313 Skaggs, L. P., 236 Skarlicki, D. P., 172, 173 Slack, A. K., 127 Slaughter, J. E., 12, 267
+311, 326 Ryan, K., 96, 103 Rynes, S. L., 263

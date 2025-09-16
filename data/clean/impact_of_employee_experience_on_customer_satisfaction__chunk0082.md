@@ -1,13 +1,7 @@
-# c) Cultural Environment
-
-According to Peter Drucker, considered to be one of the most well-known
-
-and important philosophers on management, “Culture eats strategy for
-
-breakfast”. The cultural aspect of EX is the perspective of how
-
-organizations treat their employees, how products or services are
-
-developed, the partnership established, and how employees actually get
-
-their job done.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 895d5693f418221d63b0c44b7116bd53fd61d8bf
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 14 | P a g e

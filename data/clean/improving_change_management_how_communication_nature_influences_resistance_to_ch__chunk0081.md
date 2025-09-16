@@ -1,17 +1,13 @@
-# research.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 9b363312f96493dc14e5071caff970366599dd93
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# (Interviewee G).
 
-As explained earlier, there was an understanding concerning the acquisition, it
+In terms of the Resistance to Change, the largest fall observed was in affective
 
-was comprehended since the first stages of the change process, as a good solution for
+dimension, meaning feelings of fear, anger or anxiety were the stronger component in
 
-the financial instability the company was immersed. Cognitive is still the weakest
-
-dimension of resistance to change for the respondents. People know they have to
-
-adjust as now they belong to a multinational corporation, with global standards, they
-
-understand there is more work to do, more procedures to follow.
-
-There is also an understanding of improvements after integration, in terms of
-
-management as well in terms of having global experiences, exposition and professional
+resistance at the beginning, but not anymore as reported by the participants of the

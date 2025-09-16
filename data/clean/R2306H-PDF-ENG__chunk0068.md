@@ -1,9 +1,9 @@
-# AW
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37f7ea2d16bc278d3d9d8291b3a63f385e4f47ce
+title: R2306H-PDF-ENG
+---
+# BM
 
-Anne ter Wal is an associate professor of technology and innovation management at Imperial College Business School in London.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-16
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Bill McEvily is a professor of strategic management at the University of Toronto’s Rotman School of Management, where he holds the Jim Fisher Professorship in Leadership Development.

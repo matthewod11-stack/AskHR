@@ -1,9 +1,29 @@
-## HBR / Digital Article / 5 Mistakes Managers Make When Giving Negative Feedback
+---
+source_path: H08JHQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aefc345cba24812cfe3770cef764b2df3b6f2dca
+title: H08JHQ-PDF-ENG
+---
+# that?
 
-Project X. I am quite disappointed in you,” you could say, “I feel that you
+- Can I give them examples of what’s not working?
 
-could have done much better on the trend analysis for Project X. Had
+- What guidance will help them get back on track?
 
-we reviewed the data more deeply, we would have noticed the gap in our oﬀering and our team would have won the bid. I know you can do better,
+Giving your team member practical examples of where expectations are
 
-so I am disappointed in how that report came out.”
+not being met and how that’s impacting the team or organizational
+
+goals will help them understand why you’re bringing up the issue.
+
+Focusing your explanation on the work — and not the individual traits
+
+of the person — is more likely to get you a respectful (as opposed to
+
+a defensive) response. Instead of saying, “You didn’t give your best on
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,13 @@
-# Lean, Agile and Leagile Concepts
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 4940128132b2cff2eebec62e0e5a2dd8ccba92a2
+title: issn_print_0976_013x
+---
+# BACKGROUND AND RESEARCH MOTIVATION
 
-The research developments in lean concepts can be traced back to TPS, by Womack et al.
+The academic records illustrating applications and conceptual demonstrations of different
 
-(1990) popularised lean in the book ‘The Machine that Changed the World’. Lean practices
+SCM (Supply Chain Management) practices were identified and subsequently categorized
 
-focus on developing a value stream for eliminating muda, doing more with less, cost
-
-reductions, volume-centric production and working well in a stable and predictable demand.
-
-Agile, on the other hand, as a bearer of competitive advantage, focus on responsiveness and
-
-29
+based on their period of introduction in SCM research.

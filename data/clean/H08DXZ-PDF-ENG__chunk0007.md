@@ -1,15 +1,25 @@
-## HBR / Digital Article / The Most Effective Negotiation Tactic, According to AI
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c2b277f266ab3c979d0e04962e2a7dcbdacfe14d
+title: H08DXZ-PDF-ENG
+---
+# Catherine Falls Commercial/Getty Images
 
-make up less than 10% of what most negotiators say during their
+Imagine knowing a negotiation tactic that could boost your earnings
 
-conversations — a problem for anyone hoping to negotiate eﬀectively.
+by 20%, takes less than three minutes to prepare, and only a few
 
-Negotiation experts have long advised that the key to success lies in
+seconds to implement. This powerful approach isn’t a well-guarded
 
-balancing inquiry (asking questions) with advocacy (persuasion). Yet,
+Phoenician trade secret or a complex strategy devised by tacticians in
 
-until now, it has been nearly impossible to determine with hard data
+hidden war rooms — it’s simply the act of asking open-ended questions.
 
-what the ideal mix should look like. Our research takes us closer to
+Astonishingly, our research has found that open-ended questions
 
-cracking the negotiation code thanks to recent advances in AI and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

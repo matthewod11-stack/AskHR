@@ -1,17 +1,15 @@
-## and reliable growth scenario rather than a highly promising outlook
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e7695354a9b1f7e9f94391f20a71e163128b288
+title: R2405E-PDF-ENG
+---
+## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
 
-based on more-speculative evidence. Satisﬁed that their concerns had
+skepticism; they thought the cyclical nature of its primary customers’
 
-been recognized, the directors green-lighted the acquisition, which the
+business, semiconductor manufacturing, could make sales volatile. So
 
-company then turned into an exponential growth opportunity.
+when ﬁnally seeking approval for the deal, one of us, Ronnie, who was
 
-Beware the differentiation and synergy traps. Incumbents and their
-
-start-up partners often struggle to let go of product or service features
-
-that don’t scale up well and to prioritize speed over cost synergies.
-
-Once exponential growth starts, they need to avoid those traps. Epiroc
-
-learned to prioritize scale over “nice to have” features when creating
+then the CEO of Atlas Copco, opted to present to the board a moderate

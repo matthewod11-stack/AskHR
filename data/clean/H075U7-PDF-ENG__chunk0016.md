@@ -1,19 +1,51 @@
-# “good guys”:
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e7f1b695585c0fae812c5eeb1c41051cf68c3b6
+title: H075U7-PDF-ENG
+---
+## HBR / Digital Article / Stop Protecting “Good Guys”
 
-Improve your situational awareness.
+may make men self-conscious about their own previous embarrassing
 
-Learn how to identify sexist behavior — more speciﬁcally, harassment.
+or improper conduct. Whatever the motivation, enabling bad actors
 
-Research on mitigating the bystander eﬀect reveals that noticing and
+perpetuates a toxic culture of harassment.
 
-correctly labeling the behavior is a key ﬁrst step. Men, in particular,
+The “good guy” defense is common in medicine, but it is not the
 
-can deliberately build gender intelligence by reading and learning the
+only ﬁeld with this problem. A study on enabling perpetrators of
 
-data through rigorously conducted reports, such as McKinsey’s Women
+sexual harassment across diverse organizations discovered “networks
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+of complicity.” In other words, perpetrators surround themselves with
 
-4
+networks of colleagues who minimize and excuse their behavior.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Publicly, we have seen the “good guy” defense used to excuse
+
+sexism and sexually harassing behavior of men in the ﬁlm industry,
+
+professional sports, and politics. Still, the medical profession has
+
+inadvertently cultivated and ampliﬁed the “good guy” defense through
+
+a reverence for the history and tradition of medicine, long dominated
+
+by men. Even the strongest, bravest, most resilient women may stop
+
+speaking up when they see these faux “good guys” systematically
+
+protected.
+
+We can do better. We need to shift workplace cultures from one that
+
+protects and perpetuates sexism and misogyny to one that is notable
+
+for men as authentic allies. Male leaders should set the example for
+
+younger generations of leaders. They can start by validating women’s
+
+experiences and follow this up by removing “good guy” as their knee-
+
+jerk defense. Here are ﬁve ways we can begin to take back the term

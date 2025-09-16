@@ -1,31 +1,71 @@
-## implementation of the idealized contracts in agency theory.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 02d3dacda472e4cdf0122a7cfdfd45ef01f55e4f
+title: behavioral_economics_1
+---
+# Vuoltenaho (2004).
 
-Many experiments have studied reciprocity (or gift-exchange) in simple versions of labor markets. In the
+Game theory: Game theory is a taxonomy of canonical strategic interactions and a collection
 
-simplest case, firms prepay a wage and workers then choose effort which is costly for them but valuable for
+mathematical theories of how players with varying degrees of rationality are likely to play in games as they are
 
-firms. If there is an excess supply of workers and no scope for reputation-building15, self-interested workers
+perceived. Since many of the games are complicated, and equilibrium theories often assume a high degree of
 
-should be happy to get jobs but should also shirk; firms should anticipate this and offer a minimum wage.
+mutual rationality and complicated Bayesian inference, game theory is ripe for introduction of behavioral
 
-Empirically, however, when effort is very valuable to firms and not too costly to workers, firms pay wages far
+alternatives that weaken equilibrium assumptions in a disciplined way. Many theoretical papers have explored
 
-above the minimum, and workers reciprocate by exerting more effort when they were paid a higher wage. When
+the implications of weakened assumptions of rationality. Many predictions of game theory depend delicately on
 
-workers are identified to firms, and firms can repeatedly hire good workers, Brown, Falk and Fehr (2004) show
+what players commonly know and on assumptions about the utility derived from outcomes. As a result,
 
-how a “two-tier” insider-outsider economy can emerge experimentally.
+experiment which carefully control strategies, information, and payoffs have been unusually helpful in
 
-15 Healy (2004) shows that the amount of reciprocity by workers is sensitive to the shared gains from effort. Charness, Frechette and Kagel (2004) show that framing of the instructions can lower reciprocity. Healy also shows in a simple model how a perception of correlation of reciprocal worker types can induce gift exchange even when the wage-effort game is repeated only finitely. His important insight is that type correlation induces “group reputation”.
+clarifying conditions under which equilibrium predictions are likely to hold or not (Crawford, 1997; Camerer,
 
-22
+2003).
 
-Data like these are a reminder that intrinsic motivations like reciprocity matter and can be quite strong.
+Two central contributions of behavioral game theory are worth mentioning. One is the study of limits on
 
-Furthermore, adding extrinsic incentives can be harmful if they “crowd out” intrinsic incentives (a phenomenon
+strategic thinking. One type of theory studies how finite automata that implement strategies with limited
 
-long-studied in psychology), so that standard models get the sign wrong in predicting effects of extrinsic
+calculation and memory will behave (e.g., Rubinstein, 1998). Empirically-driven theories posit some
 
-incentive changes. Benabou and Tirole (2003) approach crowding out in a different way. They show that
+distribution of steps of thinking (the cognitive hierarchy theories discussed in section III). The other important
 
-higher incentives can induce lower effort because high wages signal that a job is very hard, or a worker is
+contribution is precise theories of how monetary payoffs to one player and others map onto the focal player’s
+
+utility (also discussed in section III).
+
+Behavioral game theory has largely been shaped by experimental observation of educated people
+
+playing games in experiments for money. Here, equilibrium predictions do not always fare well compared to
+
+learning theories, and to QRE and cognitive hierarchy approaches. But equilibrium theory might apply at other
+
+21
+
+levels of analysis, especially low and high levels, such as animal behavior sculpted by evolution (e.g., optimal
+
+foraging), and decisions of firms and nation-states which are widely-deliberated and analyzed carefully.
+
+Labor and organizational economics: Labor economics is certainly ripe for behavioral analysis (see
+
+Camerer and Malmendier, in press). Most workers do not have much chance to learn from experience before
+
+making important decisions with irreversibility— choosing education, and a first job that often determines a
+
+career track. The goods that workers sell—their time—is also likely to involve more social comparison,
+
+optimism, emotion and identity than when firms sell cars or iPods. In many cases, workers appear to care about
+
+a range of nonpecuniary incentives besides money, such as fair treatment and being appreciated.
+
+Inside the firm, evaluation of worker performance is imperfect in all but the simplest organizations in
+
+which piece rates can be tied to individual productivity (like fruit-picking and car repair); imperfect evaluation
+
+leads to scope for biases in judgment. For example, hindsight bias—the tendency to think, ex post, that
+
+outcomes were more ex-ante predictable than they actually were—creates second-guessing and complicates

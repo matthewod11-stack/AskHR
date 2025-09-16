@@ -1,7 +1,21 @@
-# person.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d43a54e676d857907fac33921820872e1963b6c
+title: H08TK8-PDF-ENG
+---
+## access to new energy, insight, and direction.
 
-In these moments, self-compassion is a critical tool. It doesn’t mean
+Sometimes, however, it’s not just the situation that needs reframing;
 
-lowering your standards or avoiding responsibility. In fact, research
+it’s how you see yourself in relation to it. Many emotionally intense
 
-shows self-compassion improves leadership, increasing emotional
+leadership moments involve performing “necessary evils,” making
+
+decisions or taking actions that cause discomfort or harm to others,
+
+such as delivering tough feedback, letting someone go, restructuring a change-fatigued team, or implementing layoﬀs. Even when these
+
+actions are necessary for the greater good, they can leave leaders feeling
+
+anxious, guilty, and questioning their self-image as a fair and moral

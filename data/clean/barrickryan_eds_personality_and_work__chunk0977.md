@@ -1,3 +1,9 @@
-# Z
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 82aedc696aecae05b31fafa96f9ec5d33b6f2ba1
+title: barrickryan_eds_personality_and_work
+---
+# Wrightsman L. S., 196 Wyer, R. S., 47
 
-Zaccaro, S. J., 220 Zajac, D., 246 Zakriski, A. L., 311 Zedeck, S., 297 Zelenski, J. M., 137 Zellars, K. L., 127 Zerbe, W. J., 302 Zhou, J., 46, 64 Zickar, M. J., 12, 311 Zimbardo, P. G., 8 Zipf, G. K., 5 Zuckerman, M., 158
+Y Yarnold, P. R., 137 Yates, V. L., 268 Yee, P. L., 140 Yost, A. P., 306 Young, M. J., 45 Youngblood, S. A., 268

@@ -1,7 +1,13 @@
-# Transformational
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: c2c349960654184a1854c223507b78fcdd33bed2
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Abusive
 
-39.01
+21.83
 
-82.82
+17.18
 
-78.02
+21.98

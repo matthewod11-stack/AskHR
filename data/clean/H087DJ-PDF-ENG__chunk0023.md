@@ -1,29 +1,17 @@
-# my life?
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 41f9536ba98a7d013d5a7ed0ee99bd48ee3d28ea
+title: H087DJ-PDF-ENG
+---
+## the signs and symptoms of depression, anxiety, or trauma, the common
 
-- Is the way I am feeling or the thoughts I am experiencing preventing
+response from people of color is, “This has a name? I thought it was the
 
-me from doing the things I want to do?
+way I was supposed to feel.” That’s usually followed by the question,
 
-- Is the way I am feeling or the thoughts I am experiencing making it
+“How do I know if I need help?”
 
-difﬁcult for me to be present in any or all aspects of my life?
+The following questions are a good way to assess your mental health:
 
-If the answer to any of these questions is yes, it is time to pay closer
-
-attention to your mental well-being and ask for support and help.
-
-Asking for help is not always easy. The interaction between racism,
-
-cultural mistrust, and onlyness can make it feel like a sign of weakness,
-
-like mental health is a problem you cannot solve on your own. When
-
-you feel this way, remind yourself that mental health is health — if you
-
-had a problem with your body, you wouldn’t hesitate to get help. Your
-
-mental health should be no diﬀerent, and not seeking help when you
-
-need it allows the sense of shame and weakness to fester.
-
-The ﬁrst step in asking for help is identifying the best person to ask. Is
+- Is the way I am feeling or the thoughts I am experiencing interfering in

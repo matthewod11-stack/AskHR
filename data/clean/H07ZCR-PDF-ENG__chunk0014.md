@@ -1,11 +1,13 @@
-# particular organizational goal.
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 507c8ff8694eb2d2d14013116adfe66ec0fe8cb9
+title: H07ZCR-PDF-ENG
+---
+# mission.
 
-A powerful exercise to clarify where to focus your energy to align
+Elena found it incredibly useful to identify the interdependencies
 
-incentives is a “stakeholder evaluation map.” This will help you identify
+between her team and other departments to fully grasp how hers
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and her counterparts’ success were intrinsically linked to achieve a

@@ -1,5 +1,17 @@
-# York: Basic Books.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0752335a796bd1e42bdce5902a914de5d0240428
+title: untitled
+---
+## tions. Annual Review of Psychology, 35, 333–360.
 
-Jansen, M. A., & Johnson, E. M. (Eds.). (1993). Methodological issues in prevention research [Special issue]. American Journal of Community Psychology, 21, 561–680.
+Isserman, M., & Kazin, M. (2000). America divided: The civil war
 
-Jason, L. A. (1998). Tobacco, drug and HIV prevention media inter- ventions. American Journal of Community Psychology, 26, 151–188.
+of the 1960s. New York: Oxford University Press.
+
+Jahoda, M. (1953). The meaning of psychological health. Social
+
+Casework, 34, 349–354.
+
+Jahoda, M. (1958). Current concepts of positive mental health. New

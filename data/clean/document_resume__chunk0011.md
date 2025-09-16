@@ -1,1 +1,13 @@
-# Performance Appraisal
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 3c1b94490c04044839048ee02682d2e89d4ed9cb
+title: document_resume
+---
+# ABSTRACT
+
+Designed primarily as a functional tool and reference
+
+book for administrators, this book provides a collection of essays covering various aspects of the performance appraisal of college faculty, administrators, and support staff. The booklet presents practical information on the key concepts, theories, practices, and legal constraints in performance appraisal. The collection contains: (1) "Performance Appraisal: An Overview," by Bettye B. Burkhalter; (2) "Legal Aspects of Performance Appraisal," by James A. Buford, Jr.; (3) "Considerations in Selectin"; a Performance Appraisal Technique," by James A. Buford; (4) "Development of Performance Appraisal and Accompanying Criteria," by Edith A. Miller; (5) "Communication Factors in Performance Appraisal," by Mark E. Meadows; (6) "Minimizing Rater Errors in Observing and Appraising Performance," by William I. Sauser, Jr.; (7) "A President's Perspective: A Rationale and a Strategy for Building a Performance Appraisal Program," by Richard J. Federinko; and (8) "Characteristics of an Effective and Legally Defensible System for Postsecondary Education," by Burkhalter and Buford. Appendixes contain examples of performance appraisal forms designed for a number of purposes within the Alabama college system and a checklist of legal requirements. (AYC)
+
+**********************************t*************K********************** Reproductj.ons supplied by EDRS are the best that can be made from the original document. *********************/************************************************

@@ -1,11 +1,9 @@
-# like pricing, scope, and delivery.
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4c514a03f382f37b692f420136530e6598a7cddc
+title: H08IVM-PDF-ENG
+---
+# HBR / Digital Article / Contract Negotiations Should Be Collaborative, Not Adversarial
 
-The path forward requires a fundamental shift in how we approach
-
-negotiations. This isn’t about abandoning risk management — it’s
-
-about recognizing that the best risk management strategy is often
-
-creating clear, practical agreements focused on mutual success.
-
-Organizations that make this shift are seeing tangible beneﬁts: faster
+sources of disagreement during contract execution are practical issues

@@ -1,7 +1,21 @@
-## oﬀer better opportunities for advancement, higher pay, and greater job
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 311810c2c99f097b2e5af26fe9bc751f77ee5428
+title: S24021-PDF-ENG
+---
+# Jamie Chung/Trunk Archive
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Perhaps no issue attracts more senior leadership attention than
 
-1
+growth does. And for good reason. Growth—in revenues and proﬁts
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+—is the yardstick by which we tend to measure the competitive
+
+ﬁtness and health of companies and determine the quality and
+
+compensation of its management. Analysts, investors, and boards
+
+pepper CEOs about growth prospects to get insight into stock prices.
+
+Employees are attracted to faster-growing companies because they

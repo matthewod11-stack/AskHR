@@ -1,9 +1,9 @@
-## Mediterranean Journal of Social Sciences, 13(2), 11–21.
+---
+source_path: international_journal_of_global.md
+pages: n/a-n/a
+chunk_id: 7eddecbacedcd1ec614478da761cf5aefb2a87ac
+title: international_journal_of_global
+---
+# Journal of Techno-Social, 9(2), 79–85.
 
-Barnett, R., & Davis, S. (2008). Creating greater success in succession planning. Advances in Developing Human
-
-Resources, 10(5), 721–739.
-
-Bottomley, P., Mostafa, A. M. S., Gould‐Williams, J. S., & León‐Cázares, F. (2016). The impact of transformational leadership on organizational citizenship behaviours: The contingent role of public service motivation. British Journal of Management, 27(2), 390–405.
-
-Boveda, I., & Metz, A. J. (2016). Predicting end‐of‐career transitions for baby boomers nearing retirement age. The
+Bano, Y., Omar, S. S., & Ismail, F. (2022). Succession Planning Best Practices for Large and Small Organizations.

@@ -1,11 +1,9 @@
-# University Press.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: b8c9fa9a91ef8761adcfeb9630ca2edd80c9a5b6
+title: file_1
+---
+# https://members.weforum.org/pdf/gendergap/corporate2010.pdf [Accessed 11 January 2011]
 
-de Cremer, D. and T. Tyler, 2005. Managing group behavior: The interplay between procedural justice, sense of self, and cooperation. Advances in Experimental Social Psychology, 37, 151- 218.
-
-Festinger, L., 1954. A theory of social comparison processes. Human Relations, 7, 117-
-
-140.
-
-Fields, D, Pang, M. and C. Chiu, 2000. A comparative field study of the effects of
-
-distributive and procedural justice in Hong Kong. Journal of Organizational Behavior, 21, 547-562.
+Crosby, F., 1982. Relative Deprivation and Working Women. Oxford: Oxford

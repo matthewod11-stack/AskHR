@@ -1,21 +1,21 @@
-# informed decision making.
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d05aad5132a37004fb53e941f4cb274780a9fbe
+title: H088OR-PDF-ENG
+---
+## HBR / Digital Article / Hybrid Work Has Changed Meetings Forever
 
-Fortunately, most organizations already have capable business
+we work with had a stated goal of reducing the time spent in meetings
 
-intelligence (BI) infrastructure to monitor company health and
+by 25%, which came directly from their CEO.
 
-performance. We strongly recommend integrating collaboration data
+We’ve found that providing executive visibility to key markers of
 
-as an additional component to your BI suite and choosing a set of
+internal collaboration has many beneﬁts. Foremost, as companies still
 
-KPIs to include in executive dashboards. These can include the metrics
+struggle to ﬁnd the right hybrid work strategies (only 15% of managers
 
-mentioned above, but there are several others of value across the
+are very comfortable leading hybrid teams), leveraging data from the
 
-leadership spectrum. For instance, aggregate reporting on manager 1:1s
-
-can be used to ensure employees are receiving suﬃcient time with their
-
-bosses across the company. Once the data is available, there are similar
-
-applications oriented toward eﬃciency, engagement, and employee
+hybrid collaboration patterns of your workforce will facilitate more

@@ -1,15 +1,17 @@
-## a signiﬁcant competitive advantage in the wine and spirits marketplace.
+---
+source_path: H078WK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9df7091348e3eed985bc8deac17ee60d312c23f7
+title: H078WK-PDF-ENG
+---
+## Pitfall 2: A lack of intentionality from the start.
 
-“I’m African American,” Weaver says, “but the ﬁrst two people that I
+Most companies today, even the ones we identify as doing the best
 
-brought in alongside me were white. I was looking for energy, not color.
+with DEI, are playing catch-up on their diversity demographics. Weaver
 
-And as I’m looking for the energy, and as I’m looking for the diversity of
+set out to create a team that would embody diversity of thought and
 
-thought, it was imperative that my company looked like America. Today
+reﬂect the world around her. Yes, this would help her create the internal
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+culture she desired, but equally crucial it would be a team that would be

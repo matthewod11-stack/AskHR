@@ -1,7 +1,13 @@
-# Psychology, 6(4).
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 60c409382f775aedd494a525b97e4b2e4a3b6a10
+title: untitled
+---
+## psychology. Educational Studies, 2, 1–11.
 
-Thomas, A. (Ed.). (1998). Directory of school psychology grad- uate programs. Bethesda, MD: National Association of School Psychologists.
+Stern, W. (1911). The supernormal child: II. Journal of Educational
 
-Thomas, A., & Grimes, J. (Eds.). (1995). Best practices in school psychology (Vol. 3). Bethesda, MD: National Association of School Psychologists.
+Psychology, 2, 181–190.
 
-Thorndike, E. L. (1912). Education: A ﬁrst book. New York:
+Symonds, P. M. (Ed.). (1942). [Special issue]. Journal of Consulting

@@ -1,15 +1,11 @@
-# Elevate executive team time.
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3b10cfe841c66968ce0e119340384c4fc5ee7d4
+title: H08TA2-PDF-ENG
+---
+# HBR / Digital Article / Why Senior Leaders Should Stop Having So Many One-on-Ones
 
-When too many decisions happen in private 1:1s, full executive team
+afterward or decipher what had happened behind closed doors because
 
-meetings often devolve into catch-up sessions, replaying decisions,
-
-clarifying miscommunications, or managing interpersonal fallout. That
-
-robs the team of the chance to focus on the truly enterprise-wide work
-
-only they can do.
-
-By using capability meetings to handle cross-functional execution and
-
-trade-oﬀs at the right level, executive team time can be reserved for
+they were in the room when it happened.

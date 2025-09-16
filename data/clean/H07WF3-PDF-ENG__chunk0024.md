@@ -1,17 +1,17 @@
-## with the most relevant and valued skills.
+---
+source_path: H07WF3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b223ea8bc5f63bd5f1908ec7c7d51693ea743c75
+title: H07WF3-PDF-ENG
+---
+## For example, detailed syntactical knowledge of speciﬁc programming
 
-We hope the steroids, sneakers, coach framework we have provided
+languages might become less valued as generative AI tools evolve to
 
-here will prove useful for thinking through these issues and asking
+automatically generate code with increasing accuracy, freeing engineers
 
-critical questions about the AI tools being woven into both work and
+to focus on higher-level system design and architecture. As certain skills
 
-life. As we integrate AI, our challenge is to craft tools that enhance
+become less prominent and new ones emerge as priorities, companies
 
-rather than diminish human capabilities. Through mindful design and
-
-thoughtful consideration of when and how these tools are applied, and
-
-allowing these priorities to shift as we co-evolve with them, we have
-
-the opportunity to shape a future in which AI augments our human
+should proactively oﬀer training to ensure employees remain equipped

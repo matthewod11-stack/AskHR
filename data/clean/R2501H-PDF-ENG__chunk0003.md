@@ -1,49 +1,29 @@
-## HBR / Magazine Article / Three Ways to Lead Learning
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b1a3041484a6e920853aaf92d4caa1d8a8d8ed8
+title: R2501H-PDF-ENG
+---
+# Franck Bohbot
 
-Indeed, more and more business leaders are moved to make a bold
+Over the past 25 years executives have become fervent advocates
 
-promise: that their company is not just a machine to deliver proﬁt
+of learning, calling it an imperative, career insurance, and the only
 
-but also a community devoted to social impact and its members’ well-
+source of competitive advantage. That enthusiasm is warranted: Today
 
-being. Learning is key to fulﬁlling that promise, especially in an age
+the development of new skills, knowledge, and mindsets is critical to
 
-when talent ﬂocks to organizations that oﬀer to upskill employees and
+most businesses’ key strategic eﬀorts—from navigating global crises
 
-support their development. A commitment to learning is critical to making organizations both more eﬃcient and more humane.
+and unprecedented industry change, addressing the rise of generative
 
-The growing importance of learning has heralded the arrival of a new
+AI, and driving innovation, to attracting and retaining talent, building
 
-breed of senior leaders—people I call leaders of learning. They may be chief learning oﬃcers, heads of learning and development, heads
+inclusive workplaces, and making a positive diﬀerence in society.
 
-of talent and organizational development, and in some companies, chief human resources or chief people oﬃcers. They advocate for and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-organize learning, developing learning strategies and implementing
+1
 
-learning initiatives for the enterprise and its employees.
-
-But many of their eﬀorts are going awry. Academic studies reveal mixed
-
-evidence on whether such initiatives produce lasting individual or
-
-organizational change. Despite their public commitment to learning,
-
-in private many executives I meet express skepticism about the quality
-
-and eﬀectiveness of it in their workplace. “How do I know this has any
-
-impact on my company’s transformation?” I often hear. And there’s
-
-skepticism from employees as well: “My boss doesn’t actually care about
-
-my learning, just about results” is a common complaint.
-
-Throughout my career I’ve taught, coached, and collaborated closely
-
-with leaders of learning. I’ve watched their excitement turn to
-
-frustration as their eﬀorts were met with ambivalence and resistance
-
-or failed to deliver after raising much hope. To ﬁnd out why so many
-
-are stymied—and what can be done about it—I teamed up with Annie
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

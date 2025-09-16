@@ -1,27 +1,19 @@
-## a result of its imperfect knowledge of the subject matter. Balances act
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f87179f815e168adfb8bdeedaaa5eee4a66f9df3
+title: H06OBF-PDF-ENG
+---
+## HBR / Digital Article / Making Silos Work for Your Organization
 
-as circuit breakers when partial optimization threatens to damage the
+own vertical, as opposed to working with the corporate engineering
 
-system in its entirety. The following oﬀer examples of practical ways of
+team, thus reducing the latter’s scale and overall performance. Or
 
-instituting checks and balances:
+business development occasionally used less experienced contractors,
 
-- Separate functions. Transferring a function from one vertical to
+which led to hidden supervision costs down the road.
 
-another changes its hierarchical reporting line and KPIs, so that it is
+Checks and balances can mitigate these eﬀects. Checks identify critical
 
-less constrained to do a fully objective job. For example, the power
-
-company’s commercial-legal function was carved out from business
-
-development and attached to corporate legal to ensure that all legal
-
-aspects of a bid were duly considered.
-
-- Matrixed positions. A wisely deployed matrix helps establish balance
-
-so companies can change the reporting structures of certain roles.
-
-For example, you could turn the role of the manager in charge of
-
-a function within vertical A into a matrix position — that is, make
+omissions, mistakes and other lapses that a vertical may have made as

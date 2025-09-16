@@ -1,21 +1,15 @@
-## strong feelings on an issue surface, sometimes explosively.
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd657fb8841eb45de378fe7f9e817b9cd493154a
+title: H08058-PDF-ENG
+---
+## HBR / The Big Idea / A Leader’s Guide to Navigating Employee Activism
 
-A much-discussed example of this played out at Basecamp in 2021. CEO
+diﬀerently than others in the organization do. We’ve written about this
 
-Jason Fried wrote to employees that there was to be “no more societal
+tendency for senior leaders to overestimate how approachable they are,
 
-and political discussions on our company Basecamp account.” This was
+the quality of their listening, and the degree to which employees feel
 
-met with a backlash, and roughly a third of employees promptly quit. A
-
-few days later Fried blogged, “We started with policy changes that felt
-
-simple, reasonable, and principled, and it blew things up internally in
-
-ways we never anticipated.”
-
-However, we are not implying that leadership teams need to sit down in
-
-extensive dialogue or take a stand on every issue. Of course, they don’t
-
-and couldn’t — not while sticking to their main business of running a
+able to speak out. As a result, they are often taken by surprise when

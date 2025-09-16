@@ -1,3 +1,17 @@
-# Almost Always
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: ae9bb8c9e322cb4c69d405caaee66223707d3c26
+title: document_resume
+---
+# Almost Never
 
-Acts as a facilitator to clinical staff in updating plans for clinical experiences.
+1
+
+2
+
+3
+
+4
+
+5

@@ -1,19 +1,19 @@
-## R. Liken, "Motivational Approaa to Management Deelopmcnt," Harvard
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 0f8b6fda5bad3dfc556df17c8b519fd0dbb6ace4
+title: document_resume
+---
+# Communication Factors
 
-Business Review 37:4 (1959), pp. 75-82 in Sumo, op. cu., pp. 131-142.
+51 Michael K. Mount, "Comparisons of Managerial and Employee Satisfaction with a Performance Appraisal Sy stem," Personnel P.$)c holog 3 4 (Spring 1983), pp. 99-109.
 
-- 56. Wexley, op cu., pp. 167-185.
+52.
 
-57.
+Laird and Clampitt, op. cit , p. 56.
 
-Stano, op cit.., p. 135.
+- 53. Meadows, op cit.. pp. 2-6.
 
-- 58. Wexley, op. cit., pp 167-185.
+- 54. Wexley, op. cit.. pp. 167-185.
 
-59.
-
-Stano, op. cit., pp. 131-142.
-
-60
-
-Rodney Napier and Matti K. Geisherfield, Groups. Theory and Etperience
+55

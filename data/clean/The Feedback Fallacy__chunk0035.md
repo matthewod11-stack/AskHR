@@ -1,23 +1,45 @@
-# unforced.
+---
+source_path: The Feedback Fallacy.md
+pages: n/a-n/a
+chunk_id: f78a21338e53b76385dad4b2d79431ae8c40d240
+title: The Feedback Fallacy
+---
+## HBR / Magazine Article / The Feedback Fallacy
 
-Excellence is also not the opposite of failure. But in virtually all aspects
+and wailing, “I’m a wild and crazy guy!” But watch Jerry Seinfeld, and
 
-of human endeavor, people assume that it is and that if they study
+you might conclude that it means talking about nothing in a slightly
 
-what leads to pathological functioning and do the reverse—or replace
+annoyed, exasperated tone. And if you watch Sarah Silverman, you
 
-what they found missing—they can create optimal functioning. That
+might think to yourself, no, it’s being caustic, blunt, and rude in an
 
-assumption is ﬂawed. Study disease and you will learn a lot about
+incongruously aﬀectless way. At this point you may begin to perceive
 
-disease and precious little about health. Eradicating depression will get
+the truth that “funny” is inherent to the person.
 
-you no closer to joy. Divorce is mute on the topic of happy marriage. Exit
+Watch an NBA game, and you may think to yourself, “Yes, most of them
 
-interviews with employees who leave tell you nothing about why others
+are tall and athletic, but boy, not only does each player have a diﬀerent
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+role on the team, but even the players in the same role on the same team
 
-10
+seem to do it diﬀerently.” Examine something as speciﬁc and as limited
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+as the free throws awarded after fouls, and you’ll learn that not only do
+
+the top two free-throw shooters in history have utterly diﬀerent styles,
+
+but one of them, Rick Barry—the best ever on the day he retired (look
+
+him up)—didn’t even throw overhand.
+
+Excellence seems to be inextricably and wonderfully intertwined with
+
+whoever demonstrates it. Each person’s version of it is uniquely shaped
+
+and is an expression of that person’s individuality. Which means that,
+
+for each of us, excellence is easy, in that it is a natural, ﬂuid, and
+
+intelligent expression of our best extremes. It can be cultivated, but it’s

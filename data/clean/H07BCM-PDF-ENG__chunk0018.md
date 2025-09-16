@@ -1,15 +1,31 @@
-## veteran of a 15-year career and responsible for the strategic direction of
+---
+source_path: H07BCM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c4ba4e30fdc99c5125cf13c42043e16b5e1e5754
+title: H07BCM-PDF-ENG
+---
+# Overthinking
 
-a philanthropic organization, she found that her workload was wearing
+Sharp analytical skills are critical to good problem solving and
 
-her down and limiting the time she could spend with her young family.
+leadership through complex situations. However, when reinventing
 
-She was surprised to ﬁnd that she felt disconnected from a job she had
+themselves executives can get stuck claiming they simply need “a little
 
-once loved. Every time she started to imagine doing something else,
+more time to think things through” before actually taking any steps
 
-she reasoned that the job had once been engaging and that there were
+to make a change. The overthinking trap is born from a dependence
 
-others lining up for her role. Her rationalizations prevented her from
+on analysis and logic as the way to solve problems that overlooks
 
-paying attention to her felt sense of disquiet and of imagining a new
+other ways of knowing — emotional, intuitive, visual or embodied.
+
+This overthinking leads executives to miss signals from these neglected
+
+sources of data and prevents learning from experimentation. Yet
+
+personal reinvention is an embodied, experimental experience and
+
+executives cannot simply think their way into the future.
+
+Take Em, for example — another executive we have worked with. A

@@ -1,5 +1,7 @@
-# Congresses
-
-The ﬁrst International Congress of Psychiatry, Neurology, and Psychology took place in Amsterdam. Carl Jung, representing Freud, presented a paper on his theories.
-
-The ﬁrst International Congress of Psychoanalysis was convened in Salzburg.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: bd8946dfa451eb01ec54f0d569b98b9cce4665c4
+title: untitled
+---
+# TABLE 25.1 (Continued)

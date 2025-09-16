@@ -1,9 +1,17 @@
-# powerful.
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58dd05313b837f6281c74414c90adf2ee5c54731
+title: H0785Z-PDF-ENG
+---
+## HBR / The Big Idea / What Defines a Successful Organization?
 
-Jeﬀ Bezos saw the internet growing at 2,300% per annum, left his
+In the 1990s, of course, the internet changed everything. Marc
 
-job at investment ﬁrm DE Shaw, and founded an online bookstore
+Andreessen co-created a browser that made the web useful for
 
-called Amazon, which has since morphed into not just the “everything
+commercial purposes, coders began developing software and then
 
-store” but also the leading provider of web services to a host of other
+algorithms to make decisions more quickly than humans can, and
+
+computer processing capacity became increasingly cheaper and more

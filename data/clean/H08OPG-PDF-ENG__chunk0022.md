@@ -1,7 +1,17 @@
-## a mediocre workspace and Company B with a space speciﬁcally
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0021af0af25551baa72864e5c69e53d3832fb0e2
+title: H08OPG-PDF-ENG
+---
+# culture of a company?
 
-designed for optimizing interaction and collaboration, Company B
+Yes, and it’s useful to remember that solving this was less complex
 
-would outperform A. There are ways to manipulate the design of an
+before the pandemic. For example, ﬁve years ago, technology
 
-oﬃce for certain goals and it’s possible to measure this performance.
+organizations would ask me, “How do we make our oﬃces perform
+
+better for the future workforce?” The industry’s own history had
+
+shown that if you took two tech companies, with Company A having

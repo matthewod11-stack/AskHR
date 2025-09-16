@@ -1,11 +1,19 @@
-## For example, detailed syntactical knowledge of speciﬁc programming
+---
+source_path: H07WF3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2661bfc23b1300b7d4cff9209aed8e137428c825
+title: H07WF3-PDF-ENG
+---
+# HBR / Digital Article / A Sports Analogy for Understanding Different Ways to Use AI
 
-languages might become less valued as generative AI tools evolve to
+freed up time for people to invest in developing other skills. In short,
 
-automatically generate code with increasing accuracy, freeing engineers
+we have decided to let some skills atrophy so that we can focus on
 
-to focus on higher-level system design and architecture. As certain skills
+developing others.
 
-become less prominent and new ones emerge as priorities, companies
+With the growth of AI-powered tools, we expect to see similar shifts
 
-should proactively oﬀer training to ensure employees remain equipped
+in the skills that are valued and prioritized by society. People will
+
+use their time diﬀerently and invest their learning in new places.

@@ -1,7 +1,15 @@
-# attributes:
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 62820b2d198c8cb80d38773c961f1edfd2adb90f
+title: H07WED-PDF-ENG
+---
+## Nine Attributes to Boost your CEO Potential
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+If you’re a project manager who is looking to transition to executive
 
-6
+leadership, it’s important to understand and develop the essential skills.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Russell Reynolds, a leading executive search company, analyzed the
+
+characteristics of nearly 4,000 executives, including more than 130 CEOs, and found they possessed the following nine diﬀerentiating

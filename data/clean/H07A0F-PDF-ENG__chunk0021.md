@@ -1,17 +1,39 @@
-# HBR / Digital Article / Is Your Leadership Development Program Undermining Your DE…
+---
+source_path: H07A0F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d69cec6d73ade6f9a97c09f9df84b34189b257e3
+title: H07A0F-PDF-ENG
+---
+## the leadership development opportunities available, the qualiﬁcations
 
-a key growth opportunity that leads to promotions, but that managers
+needed, and how to apply. This gives managers something concrete
 
-were distributing these unevenly. Peoplism recommended that once
+to oﬀer to advance career conversations post-reviews and ensures
 
-an employee receives an average score of 3.5 (out of 5) on a bi-annual
+everyone knows about the development opportunities available.
 
-performance review they should be assigned a stretch assignment in the
+- 4. Formalize the selection process.
 
-next quarter. We built a simple form where managers could quickly see
+Create a formal selection process that encourages fair and transparent
 
-who was ready for a stretch assignment, rather than relying on their
+comparisons of employees to increase accountability. It’s not enough to
 
-gut. The form provided an added layer of accountability. HR business
+simply have criteria for selection if managers only apply that criteria
 
-partners can be enlisted to review forms and coach managers on this
+selectively to one or two people they already have in mind for an
+
+opportunity. Research shows a comparative approach, where managers
+
+see how each of their reports is performing before making a selection
+
+decision, reduces bias.
+
+For example, one Peoplism client (the DEI ﬁrm where Liz is co-founder),
+
+a legal tech company, recognized that providing stretch assignments is
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

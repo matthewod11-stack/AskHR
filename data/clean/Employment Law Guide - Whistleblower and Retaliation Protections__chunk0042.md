@@ -1,11 +1,13 @@
-## SPA, MAP-21, SOX, STAA, ERA, PSIA, FRSA, NTSSA, CFPA and CPSIA.
+---
+source_path: Employment Law Guide - Whistleblower and Retaliation Protections.md
+pages: n/a-n/a
+chunk_id: c72c045d9d06a43cd19972a238f4afbad73c14ca
+title: Employment Law Guide - Whistleblower and Retaliation Protections
+---
+# Employee Rights
 
-If the Secretary of Labor has not issued a ﬁnal decision within 180 days of the ﬁling of a SOX complaint, one year of the ﬁling of an ERA complaint, or 210 days of a ACA, SPA, FSMA, MAP-21, STAA, FRSA, NTSSA,
+Any employee who believes that he or she has been discriminated or retaliated against in violation of any of the statutes listed above may ﬁle a complaint with OSHA. Complaints must be ﬁled within 30 days after the
 
-CFPA or CPSIA complaint, and there is no showing that there has been delay due to the bad faith of the
+occurrence of the alleged violation under the OSH Act, CAA, CERCLA, SWDA, FWPCA, SDWA, and TSCA;
 
-employee, the employee may bring an action at law or equity in district court under those statutes.
-
-Posters. Although there is no speciﬁc Whistleblower Poster, the Whistleblower Protection provisions have the
-
-following poster requirements under the Occupational Safety and Health Act (OSH Act) and the Energy
+within 60 days under ISCA; within 90 days under AIR21 and AHERA; and within 180 days under ACA, FSMA,

@@ -1,15 +1,13 @@
-## (HUD)), and the Federal Water Pollution Control Act.
+---
+source_path: Employment Law Guide - Prevailing Wages in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: 5fff8627c5aed4caa12953693ae4550b7907b719
+title: Employment Law Guide - Prevailing Wages in Construction Contracts
+---
+# "Related Acts" - that provide federal assistance for construction through loans, grants, loan guarantees,
 
-The Copeland "Anti-Kickback" Act prohibits contractors from inducing any person employed in DBRA- covered construction to give up any part of the compensation to which they are entitled, and requires
+insurance, and other methods. These laws require payment of the prevailing wages determined in accordance with the Davis-Bacon Act on federally assisted construction undertaken pursuant to the relevant law.
 
-contractors to submit a weekly statement of the wages paid to each worker performing DBRA-covered work.
+Examples of the Related Acts are the Federal-Aid Highway Acts, the Housing and Community Development
 
-Implementing regulations govern allowable payroll deductions.
-
-Contractors on projects subject to Davis-Bacon labor standards may also be subject to overtime pay
-
-requirements under the Contract Work Hours and Safety Standards Act (CWHSSA) and the Fair Labor Standards Act (FLSA).
-
-In addition to these federal labor standards, state and local prevailing wage and overtime pay requirements
-
-may apply.
+Act of 1974 (and various other laws administered by the U.S. Department of Housing and Urban Development

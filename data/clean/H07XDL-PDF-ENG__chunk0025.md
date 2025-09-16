@@ -1,25 +1,19 @@
-## purpose statement serves as an important guardrail for your strategy
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c32dd165963a2abc14000100115012e7418047f
+title: H07XDL-PDF-ENG
+---
+# change.
 
-and is a North Star for your organization.
+- 2. What is my life purpose?
 
-The same questions can be used to ﬁnd your life purpose. Ask yourself,
+For a corporate strategy to be successful, it must be anchored to the
 
-What am I good at? Think about situations at work or in other areas of
+organization’s purpose, which lies at the intersection of, What are we
 
-life in which you have demonstrated critical strengths such as creativity,
+good at? and What does the world need?, and takes into account, What
 
-teamwork, or communication. Then ask, What are my core values?
+are our values? and What excites us? Using these questions, we’ve
 
-Think about critical decisions you’ve made and principles you hold
-
-dear that have provided direction, such as honesty, fairness, or integrity.
-
-There are dozens of online lists and tests to help you consider your most
-
-important values. The next question is, Which activities light me up?
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+helped companies around the world develop purpose statements. A

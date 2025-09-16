@@ -1,7 +1,15 @@
-# THE MODERN AGE
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8f745280225ecc0490c1e691c4cd68087db81fa4
+title: untitled
+---
+## A Plan for Guidance Guidance in Education and Psychology
 
-America in 1900 was embracing the modern. There was no longer a frontier but rather a growing industrial base that drove the economy. The technology of travel, the making of fuel from oil, and the building of structures from steel trans- formed the continent and the culture. The national industrial machine cleared a path east and west, north and south, trans- forming native lands and displacing and frequently extermi- nating wildlife and native peoples.
+358
 
-The culture of change brought many to the new urban cen- ters of the industrial Northeast and Midwest. City life amazed with a dizzying array of new technologies, including tele- phones, radios, movies, electricity, and automobiles. Most believed these would improve individual lives and the collec- tive good. Information, goods and services, and people could move more rapidly, and processes could be mechanized. Progress was synonymous with precision and efﬁciency, a
+358
 
-357
+THE RISE OF PSYCHOLOGICAL TESTING 359 WAR AND THE TRAINING OF PSYCHOLOGISTS 360
+
+Beginnings, for the most part, tend to be arbitrary. Whether chosen for historical precision, maintenance of myth, conve- nience, or necessity, beginnings tell us something of how we want our story to be told. For the purposes of this chapter, the genesis of counseling psychology is viewed through the con- text of the Progressive Era of the early twentieth century. For purposes of convenience the chapter will start at the begin- ning of the twentieth century; the reader is asked to consider that the substantive story of the history of counseling psy- chology is a story of the twentieth century.

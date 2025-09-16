@@ -1,17 +1,7 @@
-# to the most heads-down at the top.
-
-Accommodate a more diverse workforce.
-
-Some of the backlash around a return to the oﬃce in corporate America
-
-comes down to a rejection of old models of professionalism. Work culture in general and oﬃce design in particular need to reﬂect a more
-
-complex and varied workforce, including and those with physical and
-
-cognitive disabilities. Thus, inclusive design principles informed all
-
-the choices we made for the new LinkedIn headquarters. Taking into
-
-account conditions such as paralysis, visual or auditory impairment,
-
-neurodivergence, anxiety, and more, we considered everything from
+---
+source_path: H07AXI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7fd39d5e413e3654fb8b5839f30abc43183ebe5d
+title: H07AXI-PDF-ENG
+---
+## ﬂoor (with co-working spaces, a market-style cafeteria and coﬀee shop)

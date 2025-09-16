@@ -1,15 +1,19 @@
-## effectiveness. Nursing Management 24 (5), 38–39.
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 807c68fca674d4d4f9b706d2696a53d9d5724c4b
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# Harper and Row, New York.
 
-McNeese-Smith, D., 1995. Job satisfaction, productivity and commitment. Journal of Nursing Administration 25, 17–26. McNeese-Smith, D., 1999. A content analysis of staff nurse descriptions of job satisfaction and dissatisfaction. Journal of Advanced Nursing 29 (6), 1332–1341.
+Seccombe, I., Smith, G., 1997. Taking Part: Registered Nurses and the Labour Market in 1997. Institute for Employment Studies, Brighton.
 
-McVicar, A., 2003. Workplace stress in nursing: a literature review. Journal of Advanced Nursing 44 (6), 633–642. Meerabeau, E., Corby, S., Druker, J., White, G., 2004. Implementing local pay systems in nursing and midwifery. Journal of Advanced Nursing 47 (4), 368–376.
+Shader, K., Broome, M., Broome, C., West, M., Nash, M., 2001. Factors inﬂuencing satisfaction and anticipated turn- over for nurses in an academic medical centre. Journal of Nursing Administration 31 (4), 210–216.
 
-Mobley, W., Horner, S., Hollingsworth, A., 1978. An evalua- tion of precursors of hospital employee turnover. Journal of Applied Psychology 63, 408–414.
+Smith, P., Kendall, L., Hulin, C., 1969. Measurement of Satisfaction in Work and Retirement. Rand McNally, Chicago.
 
-Spector, P., 1997. Job Satisfaction: Application, Assessment, Causes and Consequences. Sage Publications, London. Stamps, P., Piedmonte, E., 1986. Nurses and Work Satisfac- tion: An Index for Work Satisfaction. Health Administra- tion Press, Michigan.
+McKenna, E., 2000. Business Psychology and Organisational Behaviour: A Student’s Handbook, third ed. Psychology Press, Philadelphia.
 
-Strachota, E., Normandin, P., O’Brien, N., Clary, M., Krukow, B., 2003. Reasons leave or change registered nurses employment status. Journal of Nursing Administration 33 (2), 111–117.
+Sorrentino, E., 1992. The effect of head nurse behaviours on nurse job satisfaction and performance. Hospital Health Services Administration 37, 103–113.
 
-Steele, R., Ovalle, N., 1984. A review and meta-analysis of research on the relationship between behavioural intentions and employee turnover. Journal of Applied Psychology 69, 673–686.
-
-Tovey, E., Adams, A., 1999. The changing nature of nurses’ job satisfaction: an exploration of sources of satisfaction
+McNeese-Smith, D., 1993. Leadership behaviour and employee

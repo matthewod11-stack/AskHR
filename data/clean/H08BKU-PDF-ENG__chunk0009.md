@@ -1,11 +1,19 @@
-# The Research
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5d36dada22e6cb4289dc1b1c34e2a7fff476a234
+title: H08BKU-PDF-ENG
+---
+## with engineers, lawyers, carpenters, and IT specialists among this
 
-In our ﬁrst study from 2019, we surveyed 118 employers and interviewed
+diverse cohort. They share the determination to rebuild their lives
 
-29 managers of Australian organizations. We compared a group of
+and regain a sense of stability through employment. But the path to
 
-managers who had never hired refugees to a group who had hired
+secure employment is far from easy, despite tight labor markets in many
 
-from that cohort. Those who have never recruited from this group
+developed economies. Through our work, we have come to believe that
 
-tend to undervalue the beneﬁts of this talent pool, and hold various
+most companies would beneﬁt from doing more to tap into this talent
+
+pool, and we oﬀer six recommendations for companies to start.

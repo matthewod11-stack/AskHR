@@ -1,9 +1,13 @@
-## commercial, legal, and operational perspectives.
+---
+source_path: H08IVM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa63e55ddb3badd3272dde68b71e9a322f15f293
+title: H08IVM-PDF-ENG
+---
+# collaborative contracting:
 
-Success requires aligning negotiation priorities with operational realities.
+Leading organizations are shifting from risk transfer to value creation.
 
-Organizations achieving this alignment prioritize practical terms that
+This means focusing on terms that directly impact operational
 
-impact day-to-day operations and create frameworks for handling
-
-scope changes and delivery challenges. Those making this shift report
+success and creating integrated negotiation teams that bring together

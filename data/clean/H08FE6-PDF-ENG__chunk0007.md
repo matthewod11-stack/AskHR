@@ -1,11 +1,13 @@
-# their products.
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f29ff6f0d5cb59e41e5d9d9f0aeea34e215a2ea1
+title: H08FE6-PDF-ENG
+---
+# MirageC/Getty Images
 
-It’s no coincidence that CRO tenure continues to contract. Sustained
+The average tenure of today’s chief revenue oﬃcer (CRO) is among the
 
-growth remains elusive for many companies. Our research ﬁnds that
+shortest in the C-suite, averaging just 25 months. For many companies,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+this duration doesn’t even equate to the duration of two sales cycles for

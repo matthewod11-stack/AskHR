@@ -1,19 +1,21 @@
-# HBR / Digital Article / How Managers, Coworkers, and HR Pressure Women to Stay Sile…
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec52678d04e4d13d1270497fb6b1029d502ae4e0
+title: H04FQE-PDF-ENG
+---
+# HBR Staff/Douglas Sacha/Getty Images
 
-their sex. One study of women in the military and law found that nine
+Sex-based harassment is pervasive in the workplace, and it’s
 
-out of 10 had experienced gender-based harassment in their careers.
+disproportionately experienced by women. It can include sexual
 
-Most victims stay silent about their experiences. Studies suggest that
+harassment but is more broadly deﬁned, including any behavior that
 
-victims stay silent because they fear consequences at work or feel that
+derogates, demeans, or otherwise humiliates someone on the basis of
 
-nothing will happen as a result of speaking up. What has been studied
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-less is how this silencing occurs.
+1
 
-In 2016 we set out to learn about how female victims are silenced —
-
-who inﬂuences them and what exactly happens when they try to speak
-
-up. We interviewed 31 early and mid-career academics employed in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

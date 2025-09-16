@@ -1,13 +1,21 @@
-## new products or services within a few days.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 1b55220ddac8a46d94cd61316f22e8082acc5301
+title: issn_print_0976_013x
+---
+# Hyper-agility Aspect of Supply Chains
 
-Opportunities under such disruptive events are only short-term and may not have long-term
+Supply chain agility has been considered an enabler of quick response to changes and
 
-benefit opportunities. The short-term perspective of goals and response at ultra-speed is at the
+providing a competitive edge under uncertain situations. However, during the disruption of
 
-core of hyper-agility and is suitable for colossal demand but for a shorter period. Disruption
+Covid-19, several organizations with supply chain agility could not respond quickly (Do et
 
-can even lead to extraordinary demand, and under Covid-19 disruption, several organization
+al., 2021), and the agility capabilities evaluation was a necessary step for future events.
 
-ramped up their supply chains extraordinarily, and some even changed the product category
+Supply chain hyper-agility is an extension of supply chain agility. Certain distinct concepts
 
-35
+can be identified as hyper-agility focusing on the quick response to grab the opportunities
+
+under disruptive events against long-term planning, and at the operational level, can introduce

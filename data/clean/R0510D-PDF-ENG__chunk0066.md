@@ -1,5 +1,7 @@
-# internal
-
-the executive team on strategic options. But developing strategy should not be a onetime annual event. After all, performance mea- sures, such as those supplied by the Balanced Scorecard, provide continual evidence about the validity of the assumptions underlying a company’s strategy. Those assumptions can be discussed periodically by the executive team, which can update the strategy if appropriate. And strategy development should not be done only by senior managers. The OSM or strategic planning unit can act as a ﬁlter for new ideas that come from within the organization. We’ve found that most planning units adapt fairly quickly to the continual strategy devel- opment process we observe at scorecard- driven companies. The additional processes represent a natural extension of, and comple- ment to, their traditional work. Problems arise when a scorecard project is managed by a group from outside planning (such as HR, quality, or an ad hoc team). As the scorecard acquires strategic importance, conﬂicts over strategy development can arise between the planning unit and the scorecard team. If this occurs, top management should quickly merge the two groups.
-
-Effective commu- nication to employees about strategy, targets, and initiatives is vital if employees are to con- tribute to the strategy. Canon U.S.A., a score- card user, describes its internal communica- tion process as “democratizing strategy,” and it actively promotes understanding of the com- pany’s strategy and the scorecard in all busi- ness units and support functions. Strategy communication, therefore, is a natural turf for an OSM. But as with strategy planning, inter- nal communication is sometimes another unit’s existing responsibility. In these situa- tions, the OSM has tended to take an editorial role, reviewing the messages to see that they communicate the strategy correctly. In cases where the corporate communications group has little knowledge of or focus on strategy, such as at Chrysler and the U.S. Army, the OSM takes on primary responsibility for com- municating both the scorecard and strategy to employees. In either situation, the OSM should always take the lead in crafting strat- egy messages delivered by the CEO, because one of the most effective communication channels is having each employee hear about strategy directly from the CEO. Finally, as part
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52a1e21fa4f2d02f006fe6c30ad0b041ab60f6b8
+title: R0510D-PDF-ENG
+---
+# Develop strategy.

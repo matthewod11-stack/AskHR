@@ -1,5 +1,9 @@
-## Increasing Integration: Suggestions for Moving Forward
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: 35a86787172f3886e643e9a72061097b46625384
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# that
 
-In our focal article, we noted that the journal Organizational Behavior and Human Decision Processes is an ongoing attempt at cross-fertilization. We suggested several additional strategies to increase cross-fertilization, some research based and others more structural. A forthcoming SIOP Frontiers series book (edited by Highhouse, Dalal, and Salas) will adopt JDM and NDM perspectives on IOOB topics and should also prove helpful to cross-fertilization. We are additionally pleased to see sev- eral excellent thoughts on cross-fertilization emanating from the commentaries.
-
-First, the comments include ideas stem- ming from paradigmatic considerations. For example, Reb (2010) discusses the role of theory-driven, process-oriented research as a way to bridge the gap and to inform a vari- ety of decisions from the perspective of the employee (e.g., job choice and voluntary turnover) as well as that of the organization (e.g., employee selection and involuntary turnover). Yet, Reb argues that the appli- cability of a decision process model to job performance per se is less straight- is nonetheless pos- it forward—but sible when ‘‘performance [is] considered as the aggregation of decision outcomes over a certain period and certain perfor- mance dimensions.’’ In other words, Reb contends that ‘‘a decision and its outcomes can be roughly equated with a performance episode.’’ We concur, and we add that such a view—which is very different from the way job performance has traditionally been viewed in IOOB—is likely to prove particularly useful in studying momentary (i.e., state) performance and distinguishing
+more complex tasks (see also Hayes & Wooldridge, 2010). Moreover, as research on creativity and NDM (Rosen et al., 2010) have begun to do, JDM could focus more on stages of the decision process both prior and subsequent to choice (see Mohammed & Schwall, 2009).

@@ -1,13 +1,29 @@
-## not just for information but for reassurance and direction. Leaders
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec8ecda06fdd3c15eb8473b662040fe95e764386
+title: H08NX0-PDF-ENG
+---
+## in your environment and building decision models around those
 
-must be able to convey complex information with transparency while
+established constraints, recognizing that not everything about the
 
-inspiring conﬁdence, ensuring that their messaging is both honest
+future is equally uncertain. Then, create detailed playbooks for rapid
 
-and constructive. This requires an ability to navigate sensitive topics,
+responses to recurring challenges, allowing teams to act decisively even
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+when information is limited. Additionally, implement clear “design
 
-7
+criteria” that explicitly articulate organizational values and priorities,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+providing consistent guardrails for decision-making when complete
+
+information isn’t available. This structured approach transforms
+
+uncertainty from paralyzing to actionable.
+
+- 5. Communicate to build trust and confidence.
+
+Clear, consistent, and authentic communication has never been more
+
+critical for leaders. In times of uncertainty, people look to their leaders

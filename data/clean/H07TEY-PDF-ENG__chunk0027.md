@@ -1,7 +1,13 @@
-# across ﬁrms.
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15bf8510a7dfa4ee8912fe575425dc453b13bdae
+title: H07TEY-PDF-ENG
+---
+## HBR / Digital Article / Why Your Organization Should Use Salary Benchmarking
 
-Editor’s Note: On October 19, 2023, a change was made to the originally published article to correct the number of firms and workers serviced by ADP. A change was also made to make clear that firms that collect salary information, like ADP, take various steps to make sure the data is anonymized and confidential information is protected.
+study, keeping up with pay in the marketplace, and knowing how to use
 
-This article was originally published online on October 10, 2023.
+those sources, can aﬀect your bottom-line retention and payroll costs.
 
-Zoë B. Cullen is an assistant professor of economics at Harvard University, in the Entrepreneurial Management Unit of Harvard Business School.
+And from a societal perspective, this is closing the gap between pay

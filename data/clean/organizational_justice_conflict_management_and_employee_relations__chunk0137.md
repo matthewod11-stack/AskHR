@@ -1,7 +1,13 @@
-# for Public Relations, Gainesville, FL.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: bcb918f0dee34467a149142ebfd22081355d4e74
+title: organizational_justice_conflict_management_and_employee_relations
+---
+# IJM
 
-Hopkins, M.M. and Yonker, R.D. (2015), “Managing conflict with emotional intelligence: abilities that
+Hempel, P.S., Zhang, Z.X. and Tjosvold, D. (2009), “Conflict management between and within teams for trusting relationships and performance in China”, Journal of Organizational Behavior, Vol. 30 No. 1, pp. 41-65.
 
-make a difference”, Journal of Management Development, Vol. 34 No. 2, pp. 226-244.
+Holtzhausen, L. and Fourie, L. (2009), “Employees’ perceptions of company values and objectives and employer-employee relationships: a theoretical model”, Corporate Communications: An International Journal, Vol. 14 No. 3, pp. 333-344.
 
-Jiang, H.A. (2012), “A model of work-life conflict and quality of employee-organization relationships justice, and family supportive workplace
+Hon, L.C. and Grunig, J.E. (1999), Guidelines for Measuring Relationships in Public Relations, Institution

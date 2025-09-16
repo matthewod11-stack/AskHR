@@ -1,21 +1,43 @@
-# Productivity
+---
+source_path: H088QT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43f87370a70614854c6d2a37d24b0a564fb7def2
+title: H088QT-PDF-ENG
+---
+# Culture
 
-Finally, some supervisors are concerned by their lack of insight into
+Many leaders also worry about the diﬃculty of building and sustaining
 
-what exactly employees are doing when working remotely. While some
+corporate culture when employees are physically together less often,
 
-roles (e.g., sales) have clear performance metrics, others don’t, and
+meeting mostly virtually, and often multitasking rather than fully
 
-while workers may feel equally or more productive at home versus the
+engaging in those get-togethers. Some managers have told us that even
 
-oﬃce, there is no hard evidence to back them up. Further, given stories
+when their team members are in the oﬃce together they still meet via
 
-about the growth of weekday yoga and golf and employees holding
+Zoom or Teams rather than face-to-face. They also report that people seem more eager to take oﬀ as soon as the workday ends, leading to
 
-down multiple full-time jobs — sometimes labelled “overemployed,”
+poorly attended happy hours and other social events.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Again, we suggest that organizations reframe their “ask” to employees.
 
-3
+Instead of encouraging people to come to the oﬃce to boost the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+organization’s culture and their own interaction with peers, try
+
+appealing to their motivation to help others. Research on prosocial impact suggests that will be more eﬀective than emphasizing the
+
+beneﬁts to the company or even themselves. (In one study, for
+
+example, medical workers were more likely to wash their hands when
+
+signs highlighted patient rather than personal safety.) Explain how
+
+employees’ presence in the oﬃce might help coworkers, customers, or clients and make them more eﬀective mentors, allies, and advocates.
+
+Research also suggests that people especially value the opportunity
+
+to interact with the beneﬁciaries of their work, so arranging such
+
+encounters might also help entice workers to come in more often.

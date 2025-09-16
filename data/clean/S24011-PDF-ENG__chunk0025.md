@@ -1,17 +1,31 @@
-# leave.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3b48f82e3664a0d1c5f1439ba7c35358e99f66e
+title: S24011-PDF-ENG
+---
+## On December 16, 1984, British prime minister Margaret Thatcher hosted
 
-And then something remarkable happened. Gorbachev centered
+Mikhail Gorbachev, a member of the Soviet Politburo who was seen as
 
-himself and considered his intentions in meeting Thatcher. “We are
+a potential future leader of the country, at what ended up being a ﬁve-
 
-guests here; the conversation must continue,” he thought. He reframed
+hour lunch at Chequers, the prime minister’s country home. Thatcher
 
-the situation in his mind from “She’s attacking my government!” to
+wasted no time in ﬁring the ﬁrst salvo, stating, “I want there to be no
 
-“She’s promoting her principles.”
+misunderstanding between us….I hate communism.”
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+“Very quickly, the argument between Margaret and me became very
 
-5
+heated,” Gorbachev later recalled, according to Jonathan Aitken’s book
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Margaret Thatcher: Power and Personality. “She was accusing the Soviet
+
+Union of all sorts of unfair things. I did not accuse Britain of anything.”
+
+The two turned their backs to each other in the middle of lunch, and
+
+Gorbachev’s wife, Raisa, stunned by Thatcher’s attack, indicated to her
+
+husband, “It’s over!” For a moment Gorbachev thought they should

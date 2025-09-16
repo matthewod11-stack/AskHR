@@ -1,7 +1,11 @@
-## Conta que descobriram ser uma prática comum entre empresas de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 71ace9c70724520e7afb0d650a0ee2c5be1e05ad
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# funcionários decair.
 
-tecnologia, com as quais costumam comparar-se ao voltar o olhar para o mercado.
+Conhecemos o eNPS através de benchmarking com outras empresas. É uma prática comum do meio corporativo, encontramos empresas que passaram por momentos similares aos nossos e pedimos para compartilhar a narrativa do seu processo de aprendizagem. Foi bem simples porque nossas lideranças conheciam lideranças de People em startups que estão em posição de destaque no mercado, e eles aceitaram tranquilamente conversar conosco e nos contar da sua vivência. A nossa pauta para o bench era pesquisa. (Entrevistada)
 
-Por este motivo, tornou-se mais fácil saber em que nível se encontram em termos de
-
-satisfação e engajamento dos funcionários desde que passaram a utilizá-lo, além de
+40

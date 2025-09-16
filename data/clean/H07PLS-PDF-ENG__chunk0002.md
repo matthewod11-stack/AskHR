@@ -1,5 +1,7 @@
-## To Help Your Team Grow, Give Them Space to Struggle
-
-Good managers know when to step in — and when not to. by Kelli Thompson
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07PLS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3b0bcc6f380f533e03393767b210e37b457f413
+title: H07PLS-PDF-ENG
+---
+# Developing Employees

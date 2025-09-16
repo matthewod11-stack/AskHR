@@ -1,15 +1,31 @@
-# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9cf953478a2687f6ac3a7efe5f887a39a5371717
+title: R2401G-PDF-ENG
+---
+# exhaustion.
 
-That’s why teams and networks of people who start new companies,
+- 5. Is your goal to develop quick but shallow or deep and enduring
 
-develop products, do surgery, and put on Broadway musicals perform
+working relationships? Teams of strangers with well-trained members who
 
-better when they have worked together again and again. Sure, old teams
+understand their roles can develop “cognitive trust” swiftly, which enables
 
-can become stale and need injections of fresh blood. But it may take
+them to do good work—such as flight crews on commercial airlines and
 
-years before that becomes necessary. And some enduring relationships
+teams of doctors and nurses in emergency departments who have never
 
-never lose their spark. Warren Buffett, the “oracle of Omaha,” and Charlie
+met but perform complicated tasks together. Yet the best work happens
 
-Munger, his partner at Berkshire Hathaway, produced a remarkable record
+after collaborators develop deep “emotional trust,” which requires working,
+
+talking, and failing and succeeding together over long stretches of time.
+
+(continued)
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

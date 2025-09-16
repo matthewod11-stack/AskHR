@@ -1,13 +1,17 @@
-# a
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: f8adea050d418294e88a122a1477c174f2dcc0a7
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# technique and a tool (Reis, 2004.).
 
-Adams, 1998:41, cited by Souza (2006). Communication, therefore, is not the
+Alternatively, by recovering the etymological root of the word “communication”
 
-transmission of meanings but the joint construction of meaning. This definition implies
+one can find the Latin word “communicatione” meaning to participate, to pool or to take
 
-that messages exchanged only have cognitive effects and create meaning because
+common action. More closely aligned to this original connotation, communication can be
 
-they are assigned meanings, and that such meanings depend on the general culture
+taken as a social process where people, immersed in a particular culture, create and
 
-and context in which it occurs. Communication then, is by no means limited to verbal
-
-productions or even written expressions. Its range is larger, and it includes gestures,
+exchange meanings, thus addressing the reality of everyday experience (Gill and

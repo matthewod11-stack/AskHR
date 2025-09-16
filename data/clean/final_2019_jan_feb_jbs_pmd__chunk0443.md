@@ -1,11 +1,9 @@
-# Sig.
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 3911e8469ad425f42816c23dfb167a7132397e9e
+title: final_2019_jan_feb_jbs_pmd
+---
+# Std. Error
 
-.000 .000 .000 .000 .000 .000
-
-95% Confidence Interval Upper Lower Bound Bound -1.9193 -2.1595 -.7793 -1.0403 2.1595 1.9193 1.2237 1.0355 1.0403 .7793 -1.0355 -1.2237
-
-Source: Survey Data *. The mean difference is significant at the 0.05 level.
-
-IITM Journal of Business Studies (JBS)
-
-43
+.05109 .05550 .05109 .04003 .05550 .04003

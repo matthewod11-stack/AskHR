@@ -1,13 +1,19 @@
-# their communities.
+---
+source_path: H06N4L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dc66b44d3974631a0f533ec9ecf9d12763b83151
+title: H06N4L-PDF-ENG
+---
+## Religion and Public Life, and the number of people in America who
 
-Welcoming employees’ religious diversity can even be a competitive
+identify as Jewish, Muslim, Buddhist, and Hindu is increasing, as is
 
-advantage. The Society of Human Resources points to studies that show
+the number of people who identify as having no religious aﬃliation.
 
-that when employers are attentive to recognizing and accommodating
+For decades, many companies’ holiday calendars have been oriented
 
-their employees’ religious traditions, levels of employee engagement
+around the major Christian holidays. As people who practice other
 
-and retention increase. More and more companies and corporations are
+religions become a large portion of the talent base, these shifts require that HR and internal DEI eﬀorts update the way they handle policies for religious holidays — so that people can have time oﬀ to celebrate
 
-reaching out to IFYC, asking us to advise on religious accommodation
+whichever religious holidays are meaningful to them, their families, and

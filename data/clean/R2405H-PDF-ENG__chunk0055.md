@@ -1,15 +1,25 @@
-## HBR / Magazine Article / Safety Should Be a Performance Driver
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fcf586ba517d0a722ec2eb03c0368d153ef838f0
+title: R2405H-PDF-ENG
+---
+# 9.3%—a 60% improvement in safety.
 
-its required safety trainings by 87%, it saved millions in employee time
+It’s a mistake to assume that more training is necessarily better.
 
-without sacriﬁcing results.
+Consider the case of a major industrial company in Houston with more
 
-What separates useful training from the rest is most likely its speciﬁcity.
+than $30 billion in annual sales. It initially required employees to take
 
-In our research, training that focuses on communicating the value of
+more than 70 safety trainings, each lasting more than 40 minutes. But
 
-safety in the workplace is generally not closely tied to improvements
+a statistical analysis showed that only nine of those trainings were
 
-in safety. Rather, companies should mandate training in behaviors that
+predictive of improved safety outcomes. When the company reduced
 
-have been statistically shown to improve safety outcomes.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,31 +1,17 @@
-# Nicole Reed
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 552b47fffc1f83ba9a176cce8fc4d92758e33541
+title: F2302A-PDF-ENG
+---
+# understanding of all our offerings and
 
-Australian offices. Australians are mad for
+capabilities. Rote training is boring—but
 
-sport, so we used an athletics-themed
+games are the opposite of boring. And
 
-platform. When we decided to go global
+their interactive nature means that people
 
-with the approach, we made a more universally appealing one called KPMG
+can’t just click through to completion. We
 
-Globerunner, which is now used by employees in 100 countries. People
-
-race around the world by answering questions and completing challenges,
-
-and each year the top 10 scorers in every country participate in a global
-
-tournament. The impact on sales has been substantial, and we believe
-
-Globerunner has helped with employee engagement too.
-
-What does a KPMG game look like?
-
-Well, it’s never going to be confused with Grand Theft Auto! But we knew
-
-that the digital trainings couldn’t look amateurish if we wanted people to
-
-take them seriously, so we used expert developers. We stayed away from
-
-animated graphics, which quickly become dated. You can focus too much
-
-on glossy design and mechanics, though. You also need to ensure the
+started with a pilot for employees in our

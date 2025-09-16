@@ -1,9 +1,25 @@
-# more comfortable with the tool.
+---
+source_path: H07P33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b17a080ff77f17d4f0dc7712500e597142fd9f0
+title: H07P33-PDF-ENG
+---
+## HBR / Digital Article / How AI Can Help Stressed-Out Managers Be Better Coaches
 
-Managers can also customize the quality of the feedback to reﬂect
+the platform for speciﬁc patient sessions. Another recommended
 
-speciﬁc employee needs — for example, by having the output provide
+approach is to form an employee-inclusive AI governance board to
 
-more encouraging feedback during employee onboarding. In one study, the AI coaching tool was found most eﬀective for moderately skilled
+ensure transparency in what data is being collected, how it’s being used,
 
-employees, as less-skilled employees sometimes found the feedback
+and what safeguards are in place to protect employees’ privacy.
+
+Streamline and customize the output
+
+Typically, AI tools allow managers to customize the data displays and
+
+analyses generated; we recommend organizations take full advantage of
+
+these features. At the start of a rollout, for example, it might be helpful
+
+to focus the output on only a few performance metrics until people feel

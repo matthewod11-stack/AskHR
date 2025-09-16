@@ -1,19 +1,19 @@
-## HBR / Digital Article / What Gets Measured, AI Will Automate
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6334d080257260e2ff0a7c3b76e8ee432314286d
+title: H08SHM-PDF-ENG
+---
+# worlds.
 
-that concentrates outsized rewards at the peaks of creativity, talent, and
+The list is ﬂuid—tasks drop oﬀ the moment they become measurable,
 
-capital. Yet AI oﬀers a paradoxical gift: by democratizing education and
+and new ones surface just as quickly. Each shift forces painful economic
 
-serving as everyone’s personal copilot, it hands more people than ever
+and social adjustments, squeezing more work into a superstar economy
 
-the tools to reach those peaks. Jobs themselves will keep evolving, and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-any breakthrough that turns the unknown into the countable will scale
+7
 
-and be imitated at meme speed.
-
-For leaders steering their organizations through this turbulent
-
-transition, what lies beyond the spreadsheet? It’s everything that won’t
-
-ﬁt in a cell: the skills that refuse to be tallied, the open-ended problems
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,27 +1,31 @@
-# Hawaii.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d564d6c2c16184b1a27196a09bf06e6072c163d
+title: H08LRM-PDF-ENG
+---
+## beginning of her sabbatical, a common reﬂection among achievers.
 
-His endeavors made real what psychologists call “counterfactual
+The explorer. From the outside, Paul seemed to be a typical consultant:
 
-thinking”: imagining an alternative to how things currently are. It’s one
+whip-smart, comfortable in a host of business environments,
 
-thing to wonder if you’d be happy as a teacher; it’s another to actually
+overﬂowing with air miles. He’d worked for Bain & Company prior to
 
-try teaching to ﬁnd out. Explorers run counterfactual experiments.
+business school and returned to the ﬁrm after graduating. At work, he
 
-They enjoy the challenges of new experiences, learning more about
+didn’t come oﬀ as particularly adventurous or antsy to change careers,
 
-themselves and conﬁrming or dispelling notions about what they’d
+but he had a lot of questions about life’s possibilities. So every four
 
-rather be doing. As a result, whether they make a big change or return
+years or so, in between projects, Paul would take extended breaks to
 
-to their routines, they feel more satisﬁed in their choices. Paul’s time
+test out potential paths for the future. During one sabbatical, he moved
 
-as an explorer helped him hone his thinking and his skills in travel and
+to his parents’ native Estonia for a few months to study the language
 
-hospitality, which led to a post-consulting career at Airbnb.
+and see how he’d ﬁt in. On another, he tested out his long-held dream
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+of running an eco-resort in retirement by working in the kitchen and
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+shadowing the owners of lodges in the U.S. Virgin Islands, Big Sur, and

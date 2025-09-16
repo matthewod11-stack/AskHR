@@ -1,5 +1,13 @@
-## Impact of inclusiveleadershipon employeeinnovativebehavior
+---
+source_path: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz.md
+pages: n/a-n/a
+chunk_id: 6323f22fbdf1e05efb1854817b3ec3c3405fc819
+title: impact_of_inclusive_leadership_on_employee_innovative_behavior_perceived_organiz
+---
+# Research design Sample and procedures
 
-subordinates and their matching supervisors were randomly selected, and all employees had the freedom to decide whether to participate in this study. Every participant received a red pocket with a random amount of money (5–20 RMB) for each questionnaire completed. To ensure participants’ confidentiality and decrease their fear of exposure and risk of liability, sur- veys were placed into a sealed envelope and respondents were instructed to return the com- pleted questionnaires directly to the researchers. Anonymity was assured. The survey questionnaires were coded before being distributed.
+Data were collected among employees and supervisors from 15 service-based organizations such bank, law offices, Sinopec, and retailing stores in 6 cities in China. Initial contacts with these companies were via connections to current and former MBA students. We used three ways to reduce the common bias [65]: First, a two-wave survey with a three-month interval was conducted. Using different time intervals for data collection helped to minimize the impact of memory and common method variance bias and enhanced the robustness of find- ings by collecting data on predictors and outcomes separately [65]. Second, a two-source sur- vey with employee-supervisor matched was adopted, because employee innovative behavior rated by supervisors was much more valuable. Third, during the process of questionnaire design and distribution, strict program control was carried out in this study. Each survey was conducted with the help of human resources department. At the beginning of the survey, 401
 
-Time 1 (T1), we administered questionnaires to 401 employees in 127 teams, who were asked to provide their demographic information (e.g., age, gender, education, and tenure) and perceived inclusive leadership. We received usable responses from 364 employees in 116 teams, for a response rate of 90.77%. Three months later, we conducted the second survey (T2), 330 employees who participate in the T1 survey and 112 supervisors were available. Employees were asked to report their perceived organizational support and supervisors were asked to rate their subordinates’ innovative behavior. 329 questionnaires reported by employees and 105 questionnaires rated by supervisors were collected. As a result, we obtained completed questionnaire from 226 employees (a response rate of 56.36%) and 75 matched supervisors (a response rate of 66.96%) after excluding missing data. Of the sample, 61.10% of the respondents were female; most (81%) were below 35 years old; 54% employees got bachelor degree, 41.20% employees got college degree or below, 4.80% employees got master degree or above; the tenure of employees ranged from 1 year to 10 years (40.7% of employees worked 1–3 years, 18.6% of employees worked 4–6 years, 18.1% of employees worked 7–10 years).
+PLOS ONE | https://doi.org/10.1371/journal.pone.0212091 February 28, 2019
+
+6 / 14

@@ -1,19 +1,19 @@
-## HBR / Digital Article / Ramp Up Your Career After Parental Leave
+---
+source_path: H05JR3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b212facf9f34bdd957dbaa4947fbcf85fb0ac335
+title: H05JR3-PDF-ENG
+---
+## underdeliver on your work or family commitments, or both. Discuss the
 
-Concentrate on what you can do within the time you have, and excel at
+right balance with coworkers. People will generally understand this if you
 
-that. When I returned to work following my second maternity leave, I gave
+can make it crystal clear how you will still contribute on a broader level,
 
-up supporting a major part of our business in order to focus purely on
+but in a deliberate and agreed-upon way by focusing on your goals.
 
-building out our economic crime advisory work with the public sector.
+Copyright © 2020 Harvard Business School Publishing Corporation. All rights reserved.
 
-Narrowing my focus in this way allowed me to devote the time necessary
+3
 
-to develop much more insightful content in my speciﬁc area. As a result,
-
-we’ve been able to support the most sophisticated ﬁnancial centers in
-
-improving their ﬁnancial crime defenses. I miss supporting the other part
-
-of our business. But I would make the same decision again.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,7 @@
-# resultados. Um formulário de plataforma gratuita disponível online era montado por
-
-membros da equipe de RH, e o envio era feito por e-mail. Ao receber as respostas
-
-deste formulário, as ocorrências eram processadas em planilhas. A entrevistada
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 38a454a94a2df953a112678f5b5f00d3b467662d
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## propícia para sua aplicação ou equipe de pesquisa para processamento de seus

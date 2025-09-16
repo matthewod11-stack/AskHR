@@ -1,15 +1,11 @@
-# Illustration by Skizzomat
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87b9398bff8ddee7f3b72664c569e9c2764608f6
+title: H08UMD-PDF-ENG
+---
+# Digital Article / Motivating People
 
-New research on topics ranging from leadership to AI are instrumental
+Research Roundup: Humility at the Top, Motivating Your Staff, Retailer- Brand Relationships, and More Useful and surprising findings from across academia, consultancies, and other vetted sources. by HBR Editors
 
-for making decisions about your career and your business. To help,
-
-we’ve collected a handful of useful and surprising ﬁndings from across
-
-academia, consultancies, and other vetted sources, including:
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Published on HBR.org / August 4, 2025; updated August 4, 2025 / Reprint H08UMD

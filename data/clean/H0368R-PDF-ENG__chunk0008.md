@@ -1,9 +1,17 @@
-# job creation and economic growth.
+---
+source_path: H0368R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ef149710d627a0a759197366beae4618324a07c
+title: H0368R-PDF-ENG
+---
+# entrepreneurial culture at home.
 
-Our recent research aims to address this. We have built a platform that
+But to harness immigrant entrepreneurship for better growth and
 
-uses restricted-access Census Bureau datasets to explore diﬀerences
+job creation, we need more hard facts. Good statistics on immigrant entrepreneurship are exceptionally diﬃcult to assemble, and therefore
 
-in the types of businesses formed by immigrants and their medium-
+it’s challenging to create productive policies. Likewise, most standard
 
-term survival and growth patterns. The core building block is the
+government sources that are publicly accessible can only tell us about
+
+immigrant self-employment, which leaves a big question mark around

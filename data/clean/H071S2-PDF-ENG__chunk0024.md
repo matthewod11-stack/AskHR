@@ -1,9 +1,17 @@
-# ES
+---
+source_path: H071S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 344c099f9259a7858fa15e1e8a454b4c4f31469c
+title: H071S2-PDF-ENG
+---
+## more eﬀective than someone with a history of frustration.
 
-Elizabeth Grace Saunders is a time management coach and the founder of Real Life E Time Coaching & Speaking. She is the author of How to Invest Your Time Like Money and Divine Time Management. Find out more at RealLifeE.com.
+As a manager, you can’t force anyone to improve their time
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+management. But your communication and actions can make a huge
 
-6
+diﬀerence in your direct report’s ability to overcome their struggles and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+increase their productivity.
+
+This article was originally published online on May 20, 2022.

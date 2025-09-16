@@ -1,19 +1,17 @@
-## HBR / Magazine Article / The CEO of Kaspi.kz on Designing an Essential Superapp
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b5fa32a5773286cae05430264d61ea0e7e38767
+title: R2504A-PDF-ENG
+---
+# out.
 
-well as those we generate internally, including through our operations
+Our monthly NPS surveys, which go to half a million customers, also
 
-unit, which reports back from direct dealings with customers. Then
+point us toward how to improve. Teams review all the ideas raised as
 
-preliminary research is done on 10 or so suggestions. After that, we
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-abandon the least promising half and advance the remainder to the next
+7
 
-level. Each suggestion must get a three-page explainer document that
-
-answers questions such as “Why this change or feature? How does it
-
-add value? What will it change about the user experience?” If everyone
-
-on the team ﬁnds the case for the new feature sound, we move into
-
-development, targeting implementation within three to six months.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

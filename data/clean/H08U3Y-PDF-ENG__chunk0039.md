@@ -1,17 +1,21 @@
-## HBR / Digital Article / How AI Can Help Tackle Collective Decision-Making
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec9a96fc13576e59763367bf3ae29562214c59f0
+title: H08U3Y-PDF-ENG
+---
+## perspectives into account more accurately.
 
-over those who lack money, time, or expertise, giving anyone the
+Second, they solve the problem of information overload and asymmetry.
 
-opportunity to understand and propose changes.
+By intaking and processing vast troves of data and then providing clear
 
-Third, CityScope enables the full community to ﬁnd a path to
+visuals and methods for interacting with and sharing them, CityScope
 
-consensus, not just the elite. Residents may not agree on this or that
+removes the informational barriers that favor those with more resources
 
-housing project, but they can ﬁnd common ground around shared
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-priorities. By shifting the focus of deliberation from speciﬁc projects or
+8
 
-laws to broader priorities for the city, CityScope reframes the discussion
-
-towards the bigger picture. Larson calls the platform a “consensus
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

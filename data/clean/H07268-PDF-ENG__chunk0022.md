@@ -1,15 +1,11 @@
-# development programs.
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67a519dbe2ba72572ef9e0e6d4fdba9791d60f1c
+title: H07268-PDF-ENG
+---
+## behaviors such as negotiation, inﬂuencing, and relationship-building
 
-- 4. Leverage politics to drive inclusion.
+at every level of the organization, as well as including political skills
 
-All too often, politics are seen as a system that’s designed to keep
-
-power with those who have it, and exclude those who don’t. But what
-
-if we instead used politics to disrupt entrenched inequalities? There’s
-
-no denying that managers play a key role in gatekeeping the political
-
-arena, but that also means they’re in the perfect position to encourage
-
-fairness rather than favoritism. Organizations should train managers
+alongside other core competencies that are prioritized in professional

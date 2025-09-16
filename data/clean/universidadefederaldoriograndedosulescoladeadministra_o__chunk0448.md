@@ -1,7 +1,7 @@
-# encontra respaldo teórico no trabalho de Legerstee (2013) por exemplo. Na empresa
-
-X, funcionários detratores optaram por deixar a empresa com maior ocorrência do
-
-que funcionários promotores e neutros. Estes estudos ainda estão em estado inicial,
-
-segundo ela, mas é um desejo da companhia utilizar ainda mais amplamente estes
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 8a5bfdca760a960bcb8259f42559f2a9b7ba80f3
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## funcionário como também como parte preditora de comportamento futuro, o que

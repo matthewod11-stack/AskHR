@@ -1,61 +1,63 @@
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 404463865fe6610e22744845d97d3377c252b6a7
+title: R2502F-PDF-ENG
+---
 ## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
 
-intelligence, rational decision-making, and creativity to help both
+intentions and is likely to use cultural diﬀerences as a tool for
 
-parties identify risks and opportunities and work together toward good
+exploitation. That was the case for a Singaporean executive negotiating
 
-outcomes. This approach is easier to implement if your counterpart is
+with a Swedish counterpart. He intentionally drew out discussions
 
-also a win-win negotiator, but it is often the best approach to get what
+and withheld clear responses, capitalizing on the discomfort people
 
-you want from a win-lose counterpart. Instead of ﬁghting ﬁre with ﬁre,
+from the Swedish culture tend to have with ambiguity. The Swedish
 
-win-win negotiators change the game and use water so that no one gets
+negotiator fell into the trap and started to concede on certain points just
 
-burned. That said, a win-win approach is not without its risks, because when poorly done you may come oﬀ as weak, desperate, or indecisive.
+to move things forward.
 
-The ﬁrst eﬀort, therefore, of a cross-cultural negotiator is to cut through
+In another deal we studied, one of the negotiators, perceiving a slight
 
-the cross-cultural noise and zero in on intentions. Doing so will help you
+power advantage, intentionally set tight deadlines and emphasized the
 
-anticipate and interpret your counterpart’s behavior and actions and
+need for quick responses. Her goal was to pressure her Vietnamese
 
-clarify your own. The best way to gauge intentions is to make your own
+counterpart, recognizing that his preference, typical of his culture, was
 
-explicit, because this typically encourages reciprocal behavior. It can
+for consensual decision-making and conﬂict avoidance. She justiﬁed
 
-also reduce your counterpart’s fears and resistance to the negotiation
+her moves by claiming that they were standard procedures in her
 
-and open a path for a more-collaborative process and superior outcome.
+culture and that since they were negotiating in her country, the
 
-Throughout the negotiation, take care to explain your intentions and
+Vietnamese executive should adapt. Through these power tactics, she
 
-continually probe your counterparts about theirs as well. It can help to
+pushed the Vietnamese negotiator into operating outside his comfort
 
-ask yourself two sets of questions:
+zone, which caused him to make mistakes and bad decisions. He
 
-What do my counterpart’s moves signal? Was that a win-win or a win-
+ultimately ended up making an unfavorable deal.
 
-lose move? Is it contradictory to or compatible with previous moves?
+The best way to gauge your counterpart’s intentions is to make your own explicit, because this typically encourages reciprocal behavior.
 
-Does it make sense to me? Could I be misinterpreting it? Are any of my
+No amount of cultural savviness will stop win-lose negotiators from
 
-counterpart’s moves unfamiliar or surprising to me?
+trying to use power-based moves—such as lies, threats, abuses,
 
-What have my own moves signaled? When I say something I consider to
+manipulations, and ultimatums—to get what they want, often at the
 
-be positive, does my counterpart seem to appreciate it? When I raise a
+counterpart’s expense. Win-win negotiators choose collaborative, non-
 
-sensitive matter, does the person seem to understand its gravity? When I
+power-based strategies to reach a favorable deal with their counterparts.
 
-make a complex point, does the person seem to have grasped it? When I
-
-say something negative, is my counterpart’s reaction appropriate to the
-
-message? Is the person’s body language compatible with the discussion?
+They rely on enhanced communication, trust building, emotional
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

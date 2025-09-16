@@ -1,33 +1,21 @@
-## Go deeper: “Why the Lean Start-Up Changes Everything,” by Steve Blank
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 817ec2545d35e297d663fc5dfbada13ae374599a
+title: H08TKY-PDF-ENG
+---
+## HBR / Digital Article / The Definitive HBR Strategy Glossary
 
-(2013)
+reduces the chances that startups will spend a lot of time and money
 
-. . .
+launching products that no one will actually pay for.
 
-Lean strategy: The lean strategy process ensures that startups innovate
+This is in contrast to the more traditional path, where a venture’s
 
-in a disciplined fashion so that they make the most of their limited
+founders would write a business plan (complete with a ﬁve-year
 
-resources. This helps company builders choose viable opportunities,
+forecast), use it to raise money, and then go into “stealth mode” to
 
-stay focused, and align the entire organization.
+develop their oﬀerings—all without getting much feedback from the
 
-The process begins with setting the venture’s vision, or ultimate
-
-purpose—perhaps the only aspect of strategy that should be permanent.
-
-To deliver on it, senior executives agree on a deliberate strategy,
-
-deﬁning the ﬁrm’s objective (the near-term goal that describes success),
-
-scope (what the ﬁrm will and will not do), and competitive advantage
-
-(how it will win). The deliberate strategy sets the bounds within which
-
-experiments will take place and guides daily decisions, but the results
-
-of those experiments and decisions lead to learning that reshapes the
-
-strategy. Though priorities evolve, at each point in time it’s clear to
-
-everyone in the ﬁrm which ones take precedence.
+people they intended to sell to.

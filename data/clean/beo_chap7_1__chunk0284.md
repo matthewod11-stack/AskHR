@@ -1,29 +1,15 @@
-# CHAPTER SEVEN
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: d85c0ff23ebbc868a0df02b280b98ccb574345ab
+title: beo_chap7_1
+---
+# benefits.
 
-of mind now developing in psychology gains credibility in the general intellectual
+EarlierI suggested the advantage that a deviations approach facilitates adjusting
 
-community, that shift may markedly constrain the freedom of economics to operate
+current theory to observed patterns of “mistake”. But the quite distorted psychology
 
-credibly in the eyes of policy makers and managers while retaining the strongly
+this can build into theory may itself become a rhetorical albatross. As the richer model
 
-stylized representations of economic action that might be the most convenient for
-
-formalization. Consumers of economic advice may begin to ask where human habits,
-
-skills, identifications, and emotions enter into the analysis.
-
-And within economics itself the strategy of modifying existing theory to accom-
-
-modate behaviorally observed deviations may gradually undermine the elegant sim-
-
-plicity that has been one of its hallmark attractions. The danger is that theory can
-
-become encumbered with a mass of Ptolemaic epicycles and the discipline can be
-
-left behind after an eventual Copernican simplification.
-
-Still, we have seen that there are considerable advantages to the deviations
-
-approach and therefore good reasons to continue using it, despite some problems. Now we can turn to some examples suggestive of the potential—and challenges—of the alternative. I offer my views on the second perspective, the approach that starts
-
-from “how the brain works,” not as an economist, and also not as a psychologist, but as an organizational theorist who tries to pay close attention to psychology and
+283

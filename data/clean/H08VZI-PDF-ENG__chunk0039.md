@@ -1,23 +1,19 @@
-## HBR / Digital Article / The Secret to Building a High-Performing Team
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a8a2f62151407417d40c9de34d0919918417685
+title: H08VZI-PDF-ENG
+---
+# needle on their culture.
 
-want to have. When employees see you being vulnerable about what you
+Finally, make a personal commitment to own your team’s culture.
 
-can do to improve things, and see that you are genuinely open to what
+Because culture exists more at the team level than at the organizational
 
-they have to say, they will feel less threatened, and the probability will
+level, you, not the CEO or CHRO, need to take charge of the norms you
 
-go up that they will feel safer to take more risks themselves. This is how
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-you build a high-performing team.
+10
 
-Your team members have the ability to be courageous to do hard things.
-
-But they face a fundamental clash between the requirements of high
-
-performance and how their brains try to protect them. Your job is to
-
-create the conditions—the culture—so they can perform at their best
-
-and achieve results that matter.
-
-This article was originally published online on September 4, 2025.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

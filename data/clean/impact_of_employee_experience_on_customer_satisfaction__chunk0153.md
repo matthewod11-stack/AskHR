@@ -1,21 +1,11 @@
-# 2.6.2.3. Net Promoter Score (NPS)
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: eba9b91f669d5dc82bc6222b60a27a173672025f
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 29 | P a g e
 
-Net Promoter Score is the leading metric used for measurement of customer loyalty
+culture, relationship with management, or job itself. These usually use scale questions
 
-to a company. According to research, a high NPS score correlates directly to
-
-increased business growth. Based on available studies, more than two-thirds of the
-
-Fortune 1000 list currently use Net Promoter Score (NPS) to evaluate the
-
-performance of their customer experience initiatives, and this percentage continues
-
-to rise daily. The history of NPS is not that long. Fred Reichheld and his team in 2003
-
-identified that the challenge with the traditional survey is that they have only a limited
-
-possibility of capturing customer emotions and feelings or how companies can take
-
-responsibility for their satisfaction, and they identified the most effective single
-
-measure of customer lifetime value. One sentence: “How likely are you to recommend
+for rating eSAT using an interval between 1 to 5 or “least likely” to “most likely”.

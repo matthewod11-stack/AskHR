@@ -1,3 +1,7 @@
-## How to Mentor More People — and Not Get Burned Out
-
-Five strategies to help in-demand mentors manage their time and energy. by Kavitha Ranganathan and Michael Englesbe
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 027cf3b21a6063aca9566fb9757a3a0afa057b52
+title: H07YIA-PDF-ENG
+---
+## HBR / Digital Article / How to Mentor More People — and Not Get Burned Out

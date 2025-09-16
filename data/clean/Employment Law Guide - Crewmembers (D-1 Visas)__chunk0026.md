@@ -1,25 +1,27 @@
-# port.
+---
+source_path: Employment Law Guide - Crewmembers (D-1 Visas).md
+pages: n/a-n/a
+chunk_id: d57ac45a05082db5d7a3c0b7d8cf07f2e7869d89
+title: Employment Law Guide - Crewmembers (D-1 Visas)
+---
+# Basic Provisions/Requirements
 
-As noted, performance of longshore work at U.S. ports by D-1 crewmembers on foreign vessels is generally prohibited with few
+The Department of Labor plays a role in administering and enforcing two exceptions from the INA's general prohibition on alien crewmembers (D-visa holders) from performing longshore work in U.S. ports:
 
-exemptions. The Employment and Training Administration is responsible for administering two of those exemptions. Employers in these ports are required to ﬁle an attestation with ETA which is valid for one year.
+A reciprocity agreement between the U.S. and the vessel/employer's country is in place
 
-The attestation for the prevailing practice exception (Form ETA 9033 which is valid for one year, must state that the use of alien
+A port's collective bargaining agreement(s) allows the employment of D-visa workers to perform longshore work
 
-crewmembers to perform longshore work is the prevailing practice for the activity at that port, that the use of such alien
+The vessel/employer ﬁled an Attestation (Form ETA 9033) with the Department of Labor under the prevailing practice exception
 
-crewmembers is neither occurring during a strike or lockout at the place of employment, nor intended to inﬂuence an election of a
+The vessel/employer ﬁled an Attestation (Form ETA 9033-A) with the Department of Labor under the State of Alaska exception The longshore activity is performed with the use of an automated vessel
 
-bargaining representatives in the local port, and that notice has been given to U.S. workers or their representatives.
+The INA also permits D-visa holders to perform longshore work in U.S. ports under a reciprocity exception, 8 U.S.C. 258(e), when
 
-The exception for Alaska, which an employer seeks by ﬁling Form ETA 9033-A with ETA, requires that, before using alien
+the terms of a collective bargaining agreement(s) covering the particular port permit the use of D-visa workers, 8 U.S.C. 258(c)(1)
 
-crewmembers to perform longshore activities in the State of Alaska, the employer will inter alia make a bona ﬁde request for and
+(A), and when the particular longshore activity is performed with the use of automated self-unloading conveyor belt or vacuum-
 
-employ U.S. longshore workers who are qualiﬁed and available in suﬃcient numbers from contract stevedoring companies, and
+actuated system ("automated vessel"), 8 U.SC. 258(c)(1)(B)(ii). However, no Department of Labor attestation ﬁling is necessary to operate under these exceptions, except when an interested party contends, and the Department subsequently ﬁnds by a
 
-private dock operators. ETA administers the attestation process under the prevailing practice and State of Alaska exceptions.
-
-The Wage and Hour Division investigates and resolves complaints that the employer failed to meet conditions to which it attested, misrepresented a material fact in an attestation, or failed to use the automated vessel exception properly. Complaints about such
-
-matters should be ﬁled with a local Wage and Hour Division oﬃce.
+preponderance of evidence, that use of D-visa holders to perform automated vessel activities is not the prevailing practice in a

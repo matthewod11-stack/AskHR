@@ -1,9 +1,15 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 0010f04dac2458f7e862765773f0dcd57649e643
+title: issn_print_0976_013x
+---
+# health
 
-Rasool, S. F., Maqbool, R., Samma, M., Zhao, Y., & Anjum, A. (2019). Posi(cid:415)oning depression as
+research, 27(12),
 
-a cri(cid:415)cal factor in crea(cid:415)ng a toxic workplace environment for diminishing worker
+1870-1881.
 
-produc(cid:415)vity. Sustainability, 11(9), 2589. h(cid:425)ps://doi.org/10.3390/su11092589
+h(cid:425)ps://doi.org/10.1177/1049732317723889
 
-Sengupta, D. (2023). Bosses must dis(cid:415)nguish harassment from leadership. Mint, 8 June 2023.
+47

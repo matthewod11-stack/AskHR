@@ -1,11 +1,11 @@
-## nizations. Management Science, 30(8), 928–951.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 2cb3bcae75e217395c414737ba80923aa94753ec
+title: untitled
+---
+# Francisco: Jossey-Bass.
 
-Ilgen, D. R. (1990). Health issues at work. American Psychologist,
+Howard, A., & Bray, D. W. (1988). Managerial lives in transition: Advancing age and changing times. New York: Guilford Press.
 
-45, 273–283.
-
-Jenkins, J. G. (1935). Psychology in business and industry: An
-
-introduction to psychotechnology. New York: Wiley.
-
-Katzell, R. A. (1958). Looking around: Is individualism disappear-
+Huber, G. P. (1984). The nature and design of post-industrial orga-

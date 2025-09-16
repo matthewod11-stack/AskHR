@@ -1,23 +1,21 @@
-# HBR / Digital Article / How Work Has Changed for Women in Corporate America Over t…
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2559626b97e304802f1e2f2f7c9864f25fc8de89
+title: H08EDT-PDF-ENG
+---
+## Recommendations for Advancing Gender Equity
 
-So how can organizations that haven’t backed down on their
+“What’s concerning in this year’s report is the commitment to diversity
 
-commitments — or those that have even doubled down and resisted
+is starting to slide backward,” Lean In’s founder, Sheryl Sandberg, told
 
-opposition to DEI — continue to make progress? What actually works?
+me. “Companies have the power to drive signiﬁcant change, and now
 
-As it turns out, many of the tactics experts and scholars have been recommending to company leaders for years have been paying oﬀ and
+isn’t the time to slow down.”
 
-yielding progress for women in the workplace. Here are some of the
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-speciﬁc recommendations cited in the report:
+3
 
-Reducing bias in hiring
-
-Hiring processes are riddled with bias — think screening out resumes
-
-with names that are recognizably non-Anglo Saxon or hiring for “culture
-
-ﬁt.” Organizations must identify and root out those biases using
-
-interventions known to be successful, such as: removing names and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

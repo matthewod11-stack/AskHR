@@ -1,19 +1,17 @@
-## public health tools as part of their health, safety, and wellness strategies.
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1950f5474567dcc4cc2d5c04bb62b06702505161
+title: H08C0J-PDF-ENG
+---
+## (CDC) created a framework, Building Resilience Against Climate
 
-Learning from data, pilots, and case studies.
+Eﬀects (BRACE), that guides public health departments in forecasting
 
-Before you adopt an employee health strategy, you will want to collect
+climate impacts, projecting related health outcomes, and implementing
 
-and assess information about how it will help employees while also
+interventions to protect vulnerable populations. While the tool kit targets health oﬃcials, it can easily form the basis of a corporate
 
-being ﬁscally responsible. Plus, you may need this type of data to
+program. This wouldn’t be the ﬁrst time that private ﬁrms have adapted
 
-convince company stakeholders that investing in employee health as
-
-it relates to climate risk is a good return on investment.
-
-To be sure, there is some data from the private sector that can
-
-help make your case. For example, research on the ﬁnancial beneﬁts
-
-of employer occupational health and safety expenditures shows an
+public sector programs; during Covid-19 many organizations used

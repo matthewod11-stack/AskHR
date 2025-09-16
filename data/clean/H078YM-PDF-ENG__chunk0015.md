@@ -1,11 +1,19 @@
-## HBR / Digital Article / Is Bad Onboarding Stifling Your New Senior Leaders?
+---
+source_path: H078YM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9d9a1d21d82612d1ac2745eb478ad8e7f9011f0
+title: H078YM-PDF-ENG
+---
+## organization and shape much of their onboarding around this. Most
 
-want to test. So rather than force the new person to learn what you think
+high-level people who take new positions have done enough due
 
-is important only, build the onboarding curriculum together.
+diligence about their new role that they have a number of smart
 
-Not long ago, for example, a health care company brought in a new
+questions or areas that they are curious about, or assumptions they
 
-divisional CEO, whom I’ll call Esme (both the company and the CEO
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-have been disguised). The ﬁrm set up an extensive schedule of site
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

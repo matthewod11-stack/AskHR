@@ -1,13 +1,9 @@
-## eNPS como métrica ou até mesmo acompanhamento dos resultados de uma
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 631b12bec144a9bcaf984d5c7e6300f6289094f6
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## numa nota, que pode variar de -100 a 100:
 
-mesma empresa em diferentes momentos de tempo, uma classificação amplamente
-
-utilizada, de acordo com Pedra (2022), é a que segue:
-
-- Zona crítica: abaixo de 10 pontos
-
-- Zona positiva: entre 10 e 50 pontos
-
-- Zona excelente: acima de 50 pontos
-
-Legerstee (2013) também introduz o conceito remontando sua origem no
+Para comparações entre resultados de diferentes empresas que utilizem o

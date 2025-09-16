@@ -1,45 +1,27 @@
-# A Management Discipline
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ae8ebe5919abf42be252f5572ba3de197c435dc7
+title: H08U4A-PDF-ENG
+---
+## HBR / Digital Article / Why Kindness Isn’t a Nice to Have
 
-Beyond senior leaders, kindness should become part of everyday
+where their performance, goals, and direction are discussed. Each
 
-management throughout the organization. All managers must
+physician is required to set a personal improvement goal for the year
 
-understand it’s not optional. They should treat it as part of the job, and
+ahead; some might want to learn a new technique, improve their
 
-they should be held accountable for doing so.
+communication skills, or get better at teaching. Feedback ﬂows both
 
-Ultimately, managers are responsible for how their teams perform
+ways, and people are asked to reﬂect on what’s working, what’s not, and
 
-and collaborate across the organization. In a study of 51 work teams
+what support they might need. That kind of structure sets the tone. It
 
-at a manufacturing company published in 1999, one of us (Amy
+builds a culture of trust, clarity, and shared responsibility. It is a way
 
-Edmondson) and her team found that psychological safety was the
+of hardwiring kindness into the organization in the sense that people
 
-single most important factor in team performance—measured by two
+are given time, attention, and respect. That signals to people that they
 
-surveys: of the teams, who were asked to assess their own performance,
-
-and of the recipients of the teams’ work (either a manager or a
-
-downstream internal customer), who were asked to rate it. This ﬁnding
-
-was echoed by Project Aristotle, a Google initiative that explored what
-
-made that company’s 180 teams eﬀective or not: It found that the
-
-highest-performing teams—in terms of metrics related to productivity,
-
-achieving deadlines, and work quality—had exceptional levels of
-
-psychological safety. All team members were aﬀorded opportunities
-
-to speak and share ideas and demonstrated that they cared for and
-
-supported one another.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+matter, and that the organization is invested in their success.

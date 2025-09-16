@@ -1,9 +1,13 @@
-# productive.
+---
+source_path: H08EAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7aeef302232235fc2d854cb464f008a9e8e79911
+title: H08EAJ-PDF-ENG
+---
+# HBR / Digital Article / How to Compassionately Manage an Employee with a Terminal I…
 
-At the same time, there will inevitably be diﬃcult moments for
+When an employee receives a terminal diagnosis, continuing to work
 
-everyone involved. Unlike many work challenges, it’s not about a
+might oﬀer them a sense of normalcy and purpose. Work can provide
 
-business outcome. It’s about balancing the responsibilities of your role
-
-as a leader with the emotionally charged period leading up to the loss of
+a respite by helping them maintain social connections and feel

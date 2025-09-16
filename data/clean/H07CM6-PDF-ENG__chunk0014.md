@@ -1,13 +1,19 @@
-## HBR / Digital Article / To Coach Leaders, Ask the Right Questions
+---
+source_path: H07CM6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 11cce2e0a420d6473ae489f2c29de896801526d7
+title: H07CM6-PDF-ENG
+---
+# between them.
 
-Lucas’s work included owning his unspoken role as the company’s “chief energy oﬃcer.” That meant recognizing that what he felt and
+As Lucas’s capacity to set clear expectations and hold his team
 
-communicated in any given moment had a disproportionate impact on
+accountable to them increased, so did his willingness to empower others
 
-those who worked under him, for better or for worse. With vulnerability
+to reach those outcomes without his direct involvement.
 
-and transparency, he began to acknowledge his own triggers, and how
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-he was learning to sit with them, rather than act on them. That allowed
+3
 
-others on his team to feel safer in acknowledging their own struggles.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

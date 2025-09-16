@@ -1,11 +1,11 @@
-## around this, push back, and ﬁght for your leave.
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69477594fd7a93f94302761785d9d175ff1dcaa7
+title: H07VWF-PDF-ENG
+---
+# For dads with access to parental leave.
 
-Although scheduling some overlap time with your partner is nice for
+There are very real social norms that push men into the income-earning
 
-building a family bond, it’s important to use part of your leave to spend
-
-time with your baby alone — it’s the best opportunity for brain training.
-
-When you’re the only adult at home, you tackle the challenges, so you
-
-learn how to solve those daily baby problems.
+role and dissuade them from taking their leave. Find a way to work

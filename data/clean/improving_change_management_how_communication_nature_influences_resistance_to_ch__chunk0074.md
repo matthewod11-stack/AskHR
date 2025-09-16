@@ -1,25 +1,13 @@
-# former Organization X’s President:
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: fe928d60a306e787d9c99e9a892670603347e617
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# The Group management style.
 
-The process of integration has been considered well succeeded till now, by
+The preservation of the culture was explicitly requested in several stages, not
 
-majority of testimonies collected and change has its meaning connected to different
+only in the moment right after the acquisition, but also later, in July/2010, more than a
 
-decision processes, levels of control and formal standard procedures. The process is
-
-modifying while The Group is learning about the generic business model. It is interesting
-
-to notice also that together with the change in management system, there has been
-
-also a perception about the occurrence of a cultural change.What could be interpreted
-
-as a confronting result in relation to the guidelines previously posed, about preserving
-
-the culture, seems to be clarified by one of the respondents that framed that within
-
-culture, the identity is what was really meant to be conserved.
-
-Looking further and deepening the meaning of change for Organization X’s
-
-interviewees, stands out the differences in decision process and power distribution two
-
-years after integration. Firstly highly concentrated in the President and VP’s now it is
+year later, this was again solicited for the new General Director, that was replacing the

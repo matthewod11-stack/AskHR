@@ -1,11 +1,23 @@
-## selection procedures. Public Personnel Management, 4, 300–304.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 53aab369c276a2b258bd0f60b89c3cbdda48793c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Roth, P. L., & Clarke, R. L. (1998). Meta-analyzing the
 
-Rowe, P. M. (1989). Unfavorable information and interview decisions. In R. W. Eder & G. R. Ferris (Eds.), Th e employment interview (pp. 77–89). Newbury Park, CA: Sage.
+relationship between grades and salary. Journal of Vocational Behavior, 53, 386–400.
 
-Ruback, R. B., & Juieng, D. (1997). Territorial defense in parking lots: Retaliation against waiting drivers. Journal of Applied Social Psychology, 27(9), 821–834.
+Roth, P. L., Huﬀ cutt, A. I., & Bobko, P. (2003). Ethnic group
 
-Rubenzer, S. J., & Faschingbauer, T. R. (2004). Personality,
+diﬀ erences in measures of job performance: A New meta- analysis. Journal of Applied Psychology, 88(4), 694–706.
 
-character, and leadership in the White House: Psychologists assess the presidents. Washington, DC: Brassey’s.
+Rothstein, H. R., & McDaniel, M. A. (1992). Diﬀ erential validity by sex in employment settings. Journal of Business and Psychology, 7(1), 45–62.
 
-Rubin, R. S. (2002). Will the real SMART goals please stand up?
+Rothstein, H. R., Schmidt, F. L., Erwin, F. W., Owens, W. A.,
+
+& Sparks, C. P. (1990). Biographical data in employment selection: Can validities be made generalizable? Journal of Applied Psychology, 75, 175–184.
+
+Rotundo, M., Nguyen, D. H., & Sackett, P. R. (2001). A meta- analytic review of gender diﬀ erences in perceptions of sexual harassment. Journal of Applied Psychology, 86(5), 914–922.
+
+Rouleau, E. J., & Krain, B. F. (1975). Using job analysis to design

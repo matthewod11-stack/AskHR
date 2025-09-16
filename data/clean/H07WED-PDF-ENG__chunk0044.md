@@ -1,27 +1,29 @@
-## management roots into the foundation for impactful CEO careers.
+---
+source_path: H07WED-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f63e966d88fd53eef41f0555494802dc9380913a
+title: H07WED-PDF-ENG
+---
+# HBR / Digital Article / The Leap from Project Manager to CEO Is Hard — But Not Impos…
 
-To address the Gantt ceiling project managers should actively practice
+The stories of Sarah, John, and leaders like Alan Mulally, Satya Nadella,
 
-the nine executive attributes, seek opportunities to develop a holistic
+and Dr. Susan Desmond-Hellmann shed light on project managers’
 
-skill set, gain exposure to diverse business functions, and communicate
+challenges and opportunities when aiming for the CEO’s oﬃce. While
 
-their readiness for leadership roles. At the same time, organizations
+the Gantt ceiling may seem like an insurmountable barrier, it’s essential
 
-should proactively identify and nurture those project managers with
+to recognize that project management skills, strategic thinking, and
 
-leadership potential. In the project economy, CEOs are often de facto
+leadership acumen can pave the way for remarkable career transitions.
 
-project managers during times of change and crisis. Let’s redeﬁne career
+The path from project manager to CEO may not be straightforward,
 
-paths for project managers that reﬂect this reality.
+but it is achievable. It requires a proactive approach, continuous skill
 
-This article was originally published online on November 8, 2023.
+development, and the ability to demonstrate value beyond the conﬁnes
 
-Antonio Nieto-Rodriguez is the author of the Harvard Business Review Project Management Handbook (Harvard Business Review Press, 2021), ﬁve other books, and the HBR article “The Project Economy Has Arrived.” His research and global impact on modern management have been recognized by Thinkers50. A leading authority in teaching and advising executives the art and science of strategy implementation and modern project management, Antonio is the CEO of Projects & Company, a leading strategy consulting ﬁrm.
+of project management. Aspiring leaders can draw inspiration from
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-9
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+those who have successfully made the journey, turning their project

@@ -1,13 +1,15 @@
-# Shareholder Pushback
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 25f767b029028e591872d0e0cc53c12b7f79b60e
+title: R2504P-PDF-ENG
+---
+## a new social contract between employer and employee. The company
 
-“Our ﬁve-year plan hinges on a workforce transformation,” Alex
+provides the platform for growth, and the workers take responsibility for
 
-explained, the faces of the people who held a majority of SolidTech’s
+their own futures.”
 
-shares staring back at him from the videoconference screen. “Given
+“Let’s talk to the owners ﬁrst,” Alex said. “If they balk, that sends us a
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+message.”

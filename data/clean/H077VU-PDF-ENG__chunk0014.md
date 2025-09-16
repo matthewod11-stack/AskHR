@@ -1,23 +1,19 @@
-# collaboration.
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e91a7d6f1d368f05ddcb2682be21ff4c163daf10
+title: H077VU-PDF-ENG
+---
+# welcome message.
 
-- 2. Highlight shared goals.
+Introducing new team members by their personal interests immediately
 
-It’s easy to assume that employees reporting to the same manager will
+humanizes them and empowers existing team members to ﬁnd
 
-naturally view themselves as a team. Yet that’s not always the case. A
+commonalities over which they can bond. Moreover, inquiring about
 
-crucial aspect of leading teams is therefore ensuring that employees
+personal interests demonstrates to new hires that you care about them and value their individuality. It’s also a diﬀerentiator. In a world where
 
-view their colleagues not just as coworkers, but as teammates. The
+88% of employees believe their company’s onboarding process can
 
-question is, how?
-
-Social psychologists have long appreciated that shared goals, or the
-
-experience of working together toward a common objective, supports
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+improve, designing an introduction that sets the stage for friendship not only sets an organization apart, it paves the way for more eﬀective

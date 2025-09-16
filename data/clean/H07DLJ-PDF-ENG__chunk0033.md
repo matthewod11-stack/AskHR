@@ -1,33 +1,39 @@
-# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
-
-ADI IGNATIUS:
-
-I’m torn because in some ways, everything is being recorded now.
-
-Everything is digital, everything is for history. On the other hand, I
-
-look back at letters that I used to exchange with friends and family, and
-
-they were these wonderful detailed record. We don’t do that in email. So
-
-sometimes I worry that the quality of the kind of raw material that we’re
-
-creating now is not nearly as rich as what we had before.
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81ae894408938546ac609f3842d66eb1f6341b95
+title: H07DLJ-PDF-ENG
+---
+# own background through Ancestry?
 
 DEB LIU:
 
-Well, when you look at your photographs, like Google Photos has
+I actually was able to pull my mother-in-law’s immigration papers,
 
-probably 10,000 photos of my family. And it used to be that even a
+actually her immigration card. And I showed it to her, and I found the
 
-single photograph was so hard to get for a family in the early 1900s because it was so expensive and it was so diﬃcult. And so those precious
+record that was the attestation of her good character. And I showed it
 
-archives are so important, and I think we’re losing them. There are
+to her and she said, “Oh…” My husband saw it and he goes, “Oh, that’s
 
-boxes, shoe boxes, we call it, in closets and attics that are deteriorating,
+Aunt Mary from church.” And so just to see that kind of the story. They
 
-but they’re so precious because they’re so rare as well. And so one of the
+never told me the story of how they came to America and how she got
 
-things we hope to do is make it easier to digitize. With our app, actually,
+her green card, and how she stayed in America. And so it just opened
 
-we recently did a partnership with Photomyne that allows people to take
+up that conversation and that’s why we’re here. It’s not just, you have
+
+this record. It’s the story behind the record. It’s actually the story of a
+
+person who left her home with almost nothing and came to America to
+
+go to college not knowing how she was going to go back. And the life
+
+that she’s unfolded here.
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+16
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,11 @@
-# Scientiﬁc American Library.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 21bb257730c47f3db18411a248964ec3c04daf74
+title: untitled
+---
+# Harcourt Brace.
 
-Postman, L. (1968). Hermann Ebbinghaus. American Psychologist,
+Porter, N. (1868). The human intellect. New York: Scribner.
 
-23, 149–157.
-
-Raphelson, A. (1973). The pre-Chicago association of the early functionalists. Journal of the History of the Behavioral Sciences, 9, 115–122.
-
-Rauch, F. (1840). Psychology, or a view of the human soul, includ-
+Posner, M. I., & Raichle, M. E. (1994). Images of mind. New York:

@@ -1,17 +1,15 @@
-## customer dissatisfaction over performance issues on older hardware.
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2831e4e212a64b69bbbc3cf025d791b56107fe0
+title: H08IWP-PDF-ENG
+---
+## many details of this new operating system secret from key stakeholders
 
-Similarly, many third-party developers had trouble adapting, which left
+to prevent competitors from getting ahead of Microsoft’s plans.
 
-consumers unable to use their applications. Retailers also expressed
+Windows Vista required higher hardware speciﬁcations than previous
 
-discontent that Microsoft did not provide adequate and timely training
+Windows versions, so original equipment manufacturers, who had
 
-for their sales and support staﬀ, which led to higher return rates. All of
-
-this caused many developers and consumers to stick with Microsoft’s
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+been informed late, were unable to adapt properly and struggled with

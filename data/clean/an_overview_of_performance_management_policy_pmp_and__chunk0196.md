@@ -1,7 +1,7 @@
-# 3.9 On-going Review and Feedback:
-
-- (cid:32)
-
-In the Review stage, the employee and appraiser should meet routinely to evaluate
-
-representative advancement versus objectives set. The gathering should be held in any
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 7cadb08fc196e7d2a65625b8cf10d973cf933ea7
+title: an_overview_of_performance_management_policy_pmp_and
+---
+## Figure 3: Planning and goal setting process

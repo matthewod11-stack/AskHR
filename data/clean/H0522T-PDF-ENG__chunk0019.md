@@ -1,49 +1,43 @@
-## HBR / Digital Article / Has Sexual Harassment at Work Decreased Since #MeToo?
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6219ef5de0611004ac3be728769d20e8092a6004
+title: H0522T-PDF-ENG
+---
+## women as the most egregious forms of sexual harassment.
 
-us, “[#MeToo] is bringing out a community of men who are supportive
+Oﬀering training that is focused on this issue, as well as on
 
-of women and supporting them in whatever challenging situations,
+microaggressions and unconscious bias, could be useful not only for
 
-whether it’s to the extreme of the #MeToo movement or just down to,
+encouraging civil behavior but also for empowering peers and leaders to
 
-How do I get equal representation and equal voice in a meeting? It’s
+step in when they see bullying or harassing behavior in the workplace. It
 
-developing a network of men who are comfortable saying, ‘Yeah, I’ll be
+can be stressful for a woman to stand up to sexist comments when they
 
-your supporter, and I can speak out on your behalf.’”
+are directed at her, but it can be a lot easier for a bystander to step in
 
-And we cannot forget the most vulnerable workers. Most eﬀorts around
+and diﬀuse the situation.
 
-gender equity and reducing sexual harassment in the workplace focus
+These eﬀorts will be the most successful if organizations are able
 
-on full-time, salaried potential leaders. However, there is evidence that
+to successfully enlist male allies in the gender equity conversation.
 
-the people at greatest risk for harassment are gig workers, those making
+Importantly, men need to hear the message that taking these issues
 
-minimum wage (or server wages), and part-time or temp employees.
+seriously is not an accusation against them, but rather is a mutual
 
-People in these roles are often the most powerless because they are
+eﬀort to create an environment of respect in the workplace. I like the
 
-not protected by EEOC laws. Creating a safer workplace means keeping
+Twitter campaign #yesallwomen, which is intended to remind men (and
 
-everyone in mind. Greater legislation to protect non-employees would
+women) that no one believes all men are sexual harassers, but that all
 
-be an obvious ﬁrst step, but until that happens gig workers and
+women do experience harassment in their careers. As one woman told
 
-organizations can be proactive in putting anti-harassment clauses in
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-their contracts to increase worker protection. Gig workers can also use
+4
 
-online platforms to crowdsource information about which organizations
-
-are safe
-
-While our results point to the beneﬁts of #MeToo in reducing sexual
-
-harassment over the last two years, we need to ensure that we maintain
-
-these changes, that women and men provide support for those who are
-
-harassed, and that vulnerable workers are not ignored. The goal of these
-
-eﬀorts is continued progress on workplace equity, and this goal beneﬁts
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

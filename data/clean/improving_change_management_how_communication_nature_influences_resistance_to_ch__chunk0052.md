@@ -1,9 +1,25 @@
-## the characterization of monologic communication.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 2c14ebe23d77b886f516514fa3e755cd6c066c23
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# Operational Descriptions
 
-To evaluate the perception of Organizational Resistance to Change according to
+In this research there are two main propositions and two main operational
 
-three dimensions (cognitive, affective and behavioural), the scale developed by Oreg
+descriptions to be clarified.
 
-(2006). was adapted to be collective oriented. It will work as a frame about how
+Corporate communication nature may vary during an organizational change
 
-individuals perceived the resistance to change as an expression by others, the
+context period of time. The proposal is to evaluate nature of communication according
+
+to the observance of the elements of dialogic communication, which are Mutuality,
+
+Propinquity, Risk, Empathy, Commitment, Input Use. The presence of those principles
+
+in an organizational communication would indicate the occurrence of a dialogic
+
+communication, although low levels of some of the principles would not lead to
+
+monologic, but to a weaker dialogic communication. The lack of all principles would be

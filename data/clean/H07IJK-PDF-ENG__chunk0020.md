@@ -1,7 +1,27 @@
-## network, the knowledge, or the understanding of how this part of the
+---
+source_path: H07IJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e408afcbc2f20ab9e43c9d37e1d1faa80003a337
+title: H07IJK-PDF-ENG
+---
+# In practice:
 
-business operated. While everyone thought I did not need support in
+For one leader, learning about the preferences of the company president
 
-my new role, that was not true. I needed onboarding help, too. My
+proved especially helpful. “When I started on this team, someone pulled
 
-coach helped me identify the internal relationships I needed to build for
+me aside and said that the leader was an absolute stickler for starting
+
+meetings on time. She viewed being ﬁve minutes early as being on time
+
+and those who came in on time as being late. She had no tolerance for
+
+anyone coming in after the start of the meeting. It was very helpful to
+
+me to have that insight.”
+
+“I have been with my global organization for over a decade,” said
+
+one oﬃcer. “While I was ecstatic to get a promotion to corporate
+
+headquarters, since I was coming from Europe, I did not have the

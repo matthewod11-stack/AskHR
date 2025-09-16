@@ -1,1 +1,15 @@
-# 219
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 0869a2a9c2c34dd9d453c7a7e242126fee07acf9
+title: performance_management_3rd_edition_by_aguinis
+---
+# organizations
+
+- The implementation of 360-degree feed- back systems can produce many benefits including (1) decreased possibility of
+
+biases, (2) increased awareness of per- formance expectations, (3) increased commitment to improve, (4) improved self-perceptions of performance, (5) improved performance, (6) reduction of undiscussables, and (7) increased career control on the part of employees.
+
+- In spite of the many advantages associ- ated with implementing 360-degree feedback systems, there are some risks involved. For example, negative feed- back can hurt an employee’s feelings; individuals may not be ready to receive such feedback and may therefore not participate willingly; anonymity may be compromised and therefore infor- mation may be distorted; and raters may be overloaded with forms to fill out. These risks, and the associated fail- ure of the system, are particularly high when the organization does not value participation in decision making; there is little cooperation among employees; there is favoritism; employees do not value the opinion of others (i.e., peers, subordinates); decisions are based on hearsay; and/or employees are not trusted to get the job done.
+
+- There are some features that will enhance the success rate of a 360-degree feedback system. These features include the following: there is anonymity; raters have firsthand knowledge of the performance of the person being evalu- ated; feedback is interpreted by a person interested in the development of the person evaluated; there is follow-up after receiving feedback; the system is used for development purposes only; raters do not become fatigued; there is an emphasis on behaviors instead of information results; raters provide beyond performance ratings only; and raters are trained. The presence of these characteristics is likely to lead to the successful design and implementation of the system.

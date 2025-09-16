@@ -1,9 +1,17 @@
-# percentage points.
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a315b2b97b96de1acb1e339ded189b32a1d36ab3
+title: S25011-PDF-ENG
+---
+## HBR / Spotlight / How to Marry Process Management and AI
 
-More recently, Mars Wrigley began building machine-learning models
+automate some operational decisions. It hired Kinaxis, a vendor whose
 
-that forecast sales, which will help factory managers set production
+AI software gave the staﬀ suggestions on how to balance supply and
 
-levels. On the manufacturing line it plans to deploy smart robots and new AI systems to improve eﬃciency and sustainability. In sum, Mars
+demand, automate invoice processing, and increase truck utilization by
 
-Wrigley has been using AI to reimagine process management in a wide
+15%. As a result of all these improvements, the company was able to ﬁll
+
+orders more quickly, and customer service ratings rose by a couple of

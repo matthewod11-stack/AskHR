@@ -1,9 +1,13 @@
-# The persistence of zombie structures.
+---
+source_path: H082JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b83a4f1a2a91bdd5e3ffe35f693924582d45cc5d
+title: H082JA-PDF-ENG
+---
+# Structural Dynamics
 
-Old habits are like the undead; they just won’t stay buried. As
+These are the dynamics related to the structural and operational
 
-companies aim to ﬂatten structures, the ghosts of past hierarchies can linger, haunting the change eﬀort. These zombie structures manifest
+challenges facing organizations that are transitioning to a ﬂatter
 
-in various ways – a decision-making process that still seeks approval
-
-from the top, or a communication ﬂow that remains bottlenecked
+structure. They include:

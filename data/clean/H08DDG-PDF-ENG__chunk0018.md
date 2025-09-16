@@ -1,9 +1,19 @@
-## experiences and ultimately drive growth both for the companies in
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db2699c3f03a0c6fb6dbe6a4c017c41bfee0131d
+title: H08DDG-PDF-ENG
+---
+## HBR / Digital Article / Why VCs Should Use Net Promoter Scores with Founders
 
-which we invest and for ourselves. In addition, we’ve learned that NPS
+we’ve worked with nearly 40 startups, and we’ve found that NPS is
 
-can be eﬀective even with a relatively small portfolio: In our ﬁrst year,
+an unparalleled tool to guide and empower us to better serve our
 
-we had a portfolio of just 12 startups, but NPS still helped us uncover
+entrepreneurs. From discovering that we could add additional value
 
-vital insights to better serve our entrepreneurs, such as their need for
+for our founders by oﬀering marketing support to realizing that we
+
+should be doing more to communicate check size expectations up front,
+
+this approach has helped us identify ways to improve our founders’

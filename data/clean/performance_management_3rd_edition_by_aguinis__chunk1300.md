@@ -1,5 +1,7 @@
-# Part II • System Implementation
-
-preestablished number of behaviors on each performance dimension. Using these aids helps raters increase the sample of incidents observed and recorded during a specific time period. In addition, an aid such as a diary is an effective way to standardize the observation of behavior and record of critical incidents throughout the review period. In addition, it serves as a memory aid when filling out evaluation forms. Memory aids are beneficial because ratings based on memory alone, without notes or diaries, are likely to be distorted due to factors of social context (e.g., friendship bias) and time (i.e., duration of supervisor–subordinate relationship).21
-
-Consider how BO training is implemented by the Canadian military. The Canadian military has found that a combination of FOR and BO training works best. Earlier, we described how the Canadian military uses FOR training. BO training is added to the FOR training program. In addition to FOR training, there are sessions on the importance of BO and common BO errors, including first impression, stereotypes, and halo effects. Finally, the participants are trained in the importance of keeping diaries and taking notes on their subordinates throughout the year. Furthermore, the trainer explains the criteria for each performance dimension and provides written descriptions of the different levels of performance. The participants are given a chance to practice keeping a diary while watching the vignettes used in the FOR training section of the training program. After watching each vignette, participants are given tips on note taking and recording behaviors as well as the outcomes.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 7f04584f66cc3d3848fe00510b340185c5e1882d
+title: performance_management_3rd_edition_by_aguinis
+---
+# 182

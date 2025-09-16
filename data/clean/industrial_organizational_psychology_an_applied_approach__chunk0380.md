@@ -1,19 +1,33 @@
-# Popular reading in I/O psychology.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 817b61a40a9b817e97e7fc8d8f2435d5113df18b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Theory or explanation
 
-though it does not directly answer your question, because it can provide some good ideas on how to conduct your study.
+What will happen
 
-Literature reviews can be conducted in many ways, the most common of which are: using such subject indexes as PsycINFO and Infotrac, browsing through journals, searching the reference sections of related articles, and asking other researchers (Tubré, Bly, Edwards, Pritchard, & Simoneaux, ).
-
-When reviewing the literature, you are likely to encounter four types of periodicals: journals, bridge publications, trade magazines (listed in Table .), and magazines. Journals consist of articles written by researchers directly reporting the results of a study. Journals can be difficult to read (and boring) but are the best source of unbiased and accurate information about a topic. The leading journals in I/O psychology are the Journal of Applied Psychology, Personnel Psychology, Acad- emy of Management Journal, Academy of Management Review, and Organizational Behavior and Human Decision Processes (Zickar & Highhouse, ). Fortunately, many journals are available online, making them much easier to obtain.
-
-Bridge publications are designed to “bridge the gap” between academia and the applied world. Articles in these publications are usually written by professors about a topic of interest to practitioners, but they are not as formal or statistically complex as articles in journals. Examples of bridge publications relevant to I/O psychology are Academy of Management Executive, Harvard Business Review, and Organizational Dynamics.
-
-Trade magazines contain articles usually written by professional writers who have developed expertise in a given field. The main audience for trade magazines is practitioners in the field. Trade magazines present the research on a topic in an easy-to-understand format; however, the articles in these publications do not cover all the research on a topic and can be somewhat biased. HR Magazine and Training are examples of I/O-related trade magazines.
-
-You are already familiar with magazines such as People, Time, and Cat Fancy. These periodicals are designed to entertain as well as inform. Magazines are
+Why it will happen
 
 introduction to i/o psychology
 
-17
+15
 
-r o h t u a
+16
+
+chapter 
+
+workplace. In this example, if the first theory were true, we would give every applicant a realistic job preview. If the third theory were true, we would encour- age current successful employees to recruit their friends.
+
+At times, forming a hypothesis can be difficult. In some cases, no previous research has been conducted or theory proposed that would suggest a clear hypothesis about the answer to a question. For example, a student of mine wanted to see if personality was related to handwriting neatness. She couldn’t find any research on handwriting neatness, much less on the relationship between personality and handwriting. There were also no theories or logical reason to predict what types of personalities would write a particular way. So, she conducted an exploratory study without a hypothesis—a practice that is not uncommon but is generally frowned on by scientists.
+
+In other cases, it is difficult to form a hypothesis because a prediction could go either way. For example, another of my students was curious about whether a recommendation letter written by an important person (such as a senator) would be more influential than one written by a professor (Hey, I thought professors were important!). She had trouble forming a hypothesis because there were as many reasons that a reference by an important person would be more influential as there were reasons that such a reference would be less influential.
+
+At times, a hypothesis may not be supported by a study even though the logic and theory behind it is correct. Often, a poor research design is the culprit. Other times, it is because the topic is more complicated than originally thought. When studying a topic, psychologists wish for simple answers. Unfortunately, most situ- ations in life are not simple. For example, psychologists have been trying for years to understand aggression and violence. They have postulated many theories for why people are violent: genetics, brain abnormalities, learning, and frustration, to name a few. Some studies support these reasons, but others don’t. Why the lack of consistency? Because no one theory by itself is the answer. Each of the theo- ries is partially true in that each explains violence in certain people under certain circumstances. Furthermore, violent behavior may be the result of a cumulation of several factors, each of which by itself will not result in violence.
+
+Confused? I hope not. The purpose of the preceding discussion is to show you the complexity of research. At times many theories may explain a particular behavior. At other times, behavior can be predicted, but the reason for the behav- ior may not be known. At still other times, we have questions but can’t predict what the answer will be. This complexity of life is what makes research fun.
+
+Literature Reviews Once a research idea has been created, the next step is to search the literature for similar research. This search is important because if the question you are inter- ested in answering has already been researched in  studies, it is probably not necessary for you to conduct a new study. As a graduate student, it took me a while to realize that most of my research ideas that were “so brilliant, no one else could have thought of them” had already been conducted several times over. I guess the moral of this story is, don’t forget about your university library, even after you have finished school. I would venture to say that most of the questions you will have can be answered by a quick trip to the library; it is not necessary, or smart, to constantly reinvent the wheel.
+
+Even if your specific question has not been researched before, the probability is high that similar research has been conducted. This research is useful even

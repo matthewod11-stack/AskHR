@@ -1,5 +1,7 @@
-# S3
-
-S1 = Situation 1 (one-on-one training) S2 = Situation 2 (group training) S3 = Situation 3 (computer-based training)
-
-p = Personality characteristic across learners b = Frequency of learning behavior across learners
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 9167266a3d581204c602bfaa4de762e4bc3bf110
+title: barrickryan_eds_personality_and_work
+---
+# p

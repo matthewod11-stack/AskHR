@@ -1,3 +1,9 @@
-# TRANSITING THE MODERN TO POSTMODERN ERA
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4a146d5e196866d48649466f2e45443d62f5f27b
+title: untitled
+---
+# that
 
-A number of markers can be identiﬁed to indicate this transi- tion of social psychology from the age of modernism into postmodernism, a transition that is still very much a part of U.S. culture, politics, and daily life. In wider Western social psychology endeavors one of the markers of this passage would most likely be the conference organized by Lloyd Strickland and Henri Tajfel, held at Carleton University and attended by psychologists from Europe, the U.K., and North America, and from which was published the 1976 book Social Psychology in Transition. Disciplinary parameters considered to be in transition included the view of social psychology’s subjects and topics as historically constituted (e.g., Gergen, 1973) and of the laboratory as out-of-sync with notions of an “acting, information-seeking, and information- generating agent” (Strickland, 1976, p. 6). Others tackled
+It is interesting that the forces of feminist and black psy- chologistswouldcombinewithresultsfromthesocialpsychol- ogy of laboratory experiments for what by the 1970s became known within the discipline as a full-blown crisis. This period of intense self-examination from the ground of social psychol- ogy’s paradigm on up is all too readily apparent in hindsight to be about social psychology’s transition from the height of its modernist commitments in midcentury America to what is often now called postmodernism.

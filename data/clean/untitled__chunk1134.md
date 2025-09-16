@@ -1,5 +1,11 @@
-# Boston: Beacon Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f281343b97b4ee0a6ae65fc87f21c5de903d1a0e
+title: untitled
+---
+# Brace, & World.
 
-Allport, G. W. (n.d.). Intuition as a method in psychology. Unpub- lished manuscript, undated [internal evidence suggests 1927], Gordon W. Allport Papers, Harvard University Archives, Cambridge, MA.
+Allport, G. W. (1967). Gordon W. Allport. In E. G. Boring & G. Lindzey (Eds.), A history of psychology in autobiography (Vol. 5, pp. 1–25). New York: Appleton-Century-Crofts.
 
-Allport, G. W., & Vernon, P. E. (1930). The ﬁeld of personality.
+Allport, G. W. (1968). The person in psychology: Selected essays.

@@ -1,13 +1,13 @@
-## The best CEOs operate successfully in ambiguous environments: global
+---
+source_path: H08SY7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c800c0f06e2b72069c1166d6b2b8bf2347f261e1
+title: H08SY7-PDF-ENG
+---
+## In a world of inﬁnite dashboards, algorithmic recommendations, and
 
-crises, emerging markets, evolving tech landscapes, talent volatility. In
+cognitive overload, the real leadership challenge isn’t access to data
 
-these situations, data may be incomplete or contradictory. Yet decisions
+—it’s making sense of it. Knowing what to do with it. This is where
 
-still have to be made, often quickly and under pressure.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+intuition becomes a strategic edge.

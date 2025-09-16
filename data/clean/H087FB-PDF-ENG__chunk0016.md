@@ -1,7 +1,13 @@
-## HBR / Digital Article / How to Rethink Your Career as an Empty Nester
+---
+source_path: H087FB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4093f2c7a66abb53b710c299dd9462e51df9244b
+title: H087FB-PDF-ENG
+---
+## up-to-date on key skills in your industry.
 
-One CHRO I worked with decided to dedicate more time to reading once
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-her kids left the home. She made a list of books she’d always meant
+3
 
-to read and began working through it. As a result, she gained deep
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

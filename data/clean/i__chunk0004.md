@@ -1,5 +1,9 @@
-# Number of Pages: 94
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 5403350ffc36abd64cda318bc74d3a56f490548c
+title: i
+---
+## People Analytics Technology, Employee Retention, Attrition prediction.
 
-ii
-
-(cid:32)
+Date: 09.04.2024

@@ -1,23 +1,17 @@
-# HBR / Digital Article / How to Set Transformation Targets That Actually Drive Change
+---
+source_path: H08C8U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d80c5edf0f89accb59e6f3f95c2da8dd7eebe469
+title: H08C8U-PDF-ENG
+---
+## In short, relative targets too often waste valuable time in discussions
 
-In addition to encouraging unproductive behaviors, relative targets face
+around the targets themselves, rather than focusing leadership’s time
 
-a practical constraint: tying them to the corporate ledger. Financial
+on identifying new and better options to improve performance.
 
-systems are designed to measure performance in absolute terms —
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-e.g., revenues, gross proﬁt, EBIT. Consequently, introducing relative
+3
 
-targets creates a disconnect between performance tracking for the
-
-transformation and the corporate ledger. Despite the availability of
-
-strong tools for tracking transformation initiatives — Bain’s ARC, for
-
-example — cost savings or proﬁt improvement targets often face
-
-substantial “leakage.” In fact, we ﬁnd that commonly less than 60%
-
-of “captured savings” — even opportunities supposedly reaching “L4
-
-Executed” or “L5 Realized” stage gates — actually show up in the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

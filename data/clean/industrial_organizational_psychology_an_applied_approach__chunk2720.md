@@ -1,23 +1,11 @@
-# Applied Case Study
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 190ba3abc6ebdde416e76bc4280e9346c02c9396
+title: industrial_organizational_psychology_an_applied_approach
+---
+# 6th grade
 
-As mentioned in your
+All of the readability indices show reasonable reliability and correlate highly with one another (Blumenfeld & Justice, ). (The readability levels of selected publications are shown in Table ..) As we can see from these indices, an easily read document has short sentences, uses simple rather than complicated words, and uses common rather than unusual words.
 
-chapter, ordering errors are common at the drive-thru windows of quick-service restaurants such as Hardee’s, McDonald’s, Burger King, and Wendy’s. One of the reasons for these errors is that order takers are distracted and thus don’t listen properly. That is, while taking one customer’s
-
-order, an employee is simultaneously taking money and counting change for another customer, filling drinks, and assembling food orders. Another reason is that some customers may not speak the same language as the person taking the order.
-
-7
-
-From what you learned in this chapter, what could a
-
-quick-service restaurant do to increase order accuracy?
-
-7
-
-What are the advantages and disadvantages to your plan?
-
-To find out how some McDonald’s and Hardee’s fran- chises reduced ordering errors, use the link found on your text webpage.
-
-organizational communication
-
-433
+Specialized indices have also been introduced by both Flesch (), who measured the human interest level of reading material, and Tysinger and Pitchford (), who developed a method for determining the readability of trait-based psychological tests. Many word processing packages (e.g., Microsoft Word) now contain readability indices that make it easier to determine the audience level for which the document was written. To practice how to measure the readability of a document, complete Exercise . in your workbook.

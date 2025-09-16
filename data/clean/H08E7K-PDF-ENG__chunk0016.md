@@ -1,21 +1,21 @@
+---
+source_path: H08E7K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5053f80ffd116638880b567d57704a2a1746a60f
+title: H08E7K-PDF-ENG
+---
 # feedback.
 
-This approach not only helped her quickly understand the nuances of
+I once coached a newly promoted VP of human resources who had very
 
-the company’s ﬁnances while burdened with an otherwise exhausting
+little free time but wanted to build her ﬁnancial acumen to increase her
 
-schedule, but it also cultivated a valuable relationship with the CFO
+strategic value and counsel to the business. She didn’t want to enroll in
 
-and his team which had never existed before across their functions. Her
+MBA-level courses and instead decided to ask her peer on the leadership
 
-credibility as a business-oriented HR leader soared and, in the process,
+team, the CFO, if she could learn from him. They arranged monthly
 
-she was also able to help the CFO better understand the people strategy
+one-on-one meetings during which he would explain the key aspects of
 
-which was largely outside of his expertise.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their P&L reviews, and she would present her interpretation to get his

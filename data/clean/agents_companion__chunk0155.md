@@ -1,7 +1,27 @@
-## consuming. This results in higher runtime prices and more user latency.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: d8ac5bdf887ab39ae1bedf96e314110f34204058
+title: agents_companion
+---
+# Challenges in Multi-Agent systems
 
-- Complexity: In the same way that microservice architecture allows each microservice
+While multi-agent systems offer numerous advantages, they also face several challenges:
 
-more flexibility and simplicity, the system as a whole usually becomes more complex.
+- Task Communication: Today most agent frameworks communicate in messages, not
 
-Addressing these challenges is crucial for developing robust and efficient
+structured async tasks.
+
+- Task Allocation: Efficiently dividing complex tasks among different agents can be
+
+challenging, and feedback loops are often left up to the developer to implement.
+
+- Coordinating Reasoning: Getting agents to debate and reason together effectively
+
+requires sophisticated coordination mechanisms.
+
+- Managing Context: Keeping track of all the information, tasks, and conversations
+
+between agents can be overwhelming.
+
+- Time and Cost: Multi-agent interactions can be computationally expensive and time-

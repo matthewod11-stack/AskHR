@@ -1,11 +1,25 @@
-# analysis. New York: Taylor & Francis.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1830ada7057ea97c2722b7f3b603737b8ab042eb
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Robinson, R. K., Allen, B. M., & Abraham, Y. T. (1992).
 
-Romanov, K., Appelberg, K., Honkasalo, M., & Koskenvuo, M. (1996). Recent interpersonal conﬂ ict at work and psychiatric morbidity: A prospective study of 15,530 employees aged 24–64. Journal of Psychosomatic Research, 40(2), 169–176.
+Aﬃ rmative action plans in the 1990’s: A double edged sword? Public Personnel Management, 21(2), 261–272.
 
-Ronen, S. (2001). Self-actualization versus collectualization: Implications for motivation theories. In M. Erez, U. Kleinbeck, & H. Th ierry (Eds.), Work motivation in the context of a globalized economy. Mahwah, NJ: Erlbaum.
+Robinson, S. L., & O’Leary-Kelly, A. M. (1999). Monkey see,
 
-Rosen, S., & Tesser, A. (1970). Reluctance to communicate
+monkey do: Th e inﬂ uence of work groups on the antisocial behavior of employees. Academy of Management Journal, 41(6), 658–672.
 
-undesirable information: Th e MUM eﬀ ect. Sociometry, 33, 253–263.
+Roch, S. G. (2008). Data sources and publication in top journals:
 
-Rosenthal, R. (1994). Interpersonal expectancy eﬀ ects: A 30 year
+Th e hunt for participants. Th e Industrial-Organizational Psychologist, 46(1), 91–94.
+
+Roch, S. G., Sternburgh, A. M., & Caputo, P. M. (2007). Absolute vs relative performance rating formats: Implications for fairness and organizational justice. International Journal of Selection and Assessment, 15(3), 302–316.
+
+Rogelberg, S. G., Leach, D. J., Warr, P. B., & Burnﬁ eld, J. L.
+
+(2006). “Not another meeting!” Are meeting time demands related to employee well being? Journal of Applied Psychology, 91(1), 86–96.
+
+Rohmert, W., & Landau, K. (1983). A new technique for job

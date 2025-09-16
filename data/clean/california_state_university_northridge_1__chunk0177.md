@@ -1,9 +1,9 @@
-## discrimination employment act, and equal pay act, Americans with Disability. The
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: afad876c811a9cf239bf148e32dc571ecb65a7d7
+title: california_state_university_northridge_1
+---
+# ("EEOC Compliance Manual" 1998).
 
-charging party can also argue that they were treated differently for filling a charge. For
-
-example a person who is with any physical disability can allege retaliation based on their
-
-activity with a person who has a disability ( association with a member of a protected
-
-group). It is also permitted for the charging party to file a relation claim against the
+The basis for filing a charge, he or she alleges retaliation under Title VII, age

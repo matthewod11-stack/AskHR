@@ -1,3 +1,7 @@
-# Highlights:
-
-– 3.33 G.P.A. – Extensive coursework in human resource management – Minored in psychology – President, Society for the Advancement of Management (SAM) – Received two academic scholarships – Worked to ﬁnance 50% of own education – Participated in a variety of college activities including intramurals, two professional organizations,
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: bfe6f23fc50880ac636a12fe2c5bb921c0c005c6
+title: industrial_organizational_psychology_an_applied_approach
+---
+## B.S., Business Administration (May, 2009) Radford University, Radford, VA

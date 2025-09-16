@@ -1,13 +1,17 @@
-# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30fbf66b4a20ca8fb00a8bf9c7c555218a02de9a
+title: R2401G-PDF-ENG
+---
+# College Football Campus Tour
 
-networks of the company’s top 10,000 people, Scott “was the Number 1
+By the time Cross was called in to help, Scott was working 16 hours a day,
 
-most overloaded person.” Some 120 people came to him every day for
+seven days a week, and still falling behind. When Cross examined the
 
-information. Cross found that 78 of the 150 top managers in one unit
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Scott ran “felt they couldn’t hit their business goals unless they got
+9
 
-more of Scott’s time.”
-
-Interview and observe users. Leaders at the nonproﬁt Civilla conducted
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,1 +1,7 @@
-# Coefficients
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 63f304d78e658a615b9b7229ce4b08ea06b82e76
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Unstandardized Coefficients Standardized

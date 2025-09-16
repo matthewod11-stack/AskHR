@@ -1,27 +1,19 @@
-## HBR / Spotlight Article / Create a System to Grow Consistently
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c2a51a6315000c2da30962f58950ea03a4e3d83
+title: S24022-PDF-ENG
+---
+## term focus on meeting cost objectives with a long-term focus on
 
-glean insights from cameras placed in their homes) so that it can
+sustainability. To improve the design of its products, the company has
 
-create innovative oﬀerings aimed at solving a wider set of customer
+invested in a “privileged insights” capability to learn how customers
 
-challenges. Another linchpin is IKEA’s store set-up capability that improves customers’ browsing and shopping experience by eﬃciently
+go about their daily lives (including working with customers to
 
-organizing collections of merchandise. Thanks to these carefully
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-architected capabilities, IKEA has expanded its oﬀering globally while
+5
 
-growing sales with existing customers.
-
-Create the right operating model. Operating models constrain growth
-
-when they promote silos around key functions such as marketing,
-
-sales, product development, pricing, and customer service. In too many
-
-companies, each function creates its own operating model, which
-
-impedes collaboration. To build the kind of integration necessary in
-
-a growth system, companies must rethink how they organize the most
-
-important parts of their businesses, setting up outcome-oriented, cross-
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

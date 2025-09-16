@@ -1,33 +1,13 @@
-## beneﬁt from educational opportunities throughout their careers here,”
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1de4b6187fd91a0da66a36f2696cba7eb92d00fa
+title: R2504P-PDF-ENG
+---
+## SolidTech’s future—and that of all our team members—we’re thinking
 
-he concluded. “Those who choose not to would…have more-limited
+about how to evolve.”
 
-prospects. Now I’d love to hear your thoughts.”
+For the next few minutes, he outlined the Grand Bargain. “Those
 
-Jon Laurent, a 25-year veteran of SolidTech and chief of engineering,
-
-jumped in. “Alex, in the years you’ve been here, we’ve always had an
-
-honest relationship, so I hope you don’t mind me saying straight-out
-
-that I don’t see this plan working,” he said. “Our company’s secret sauce
-
-is in the tacit, hard-won expertise of our people. And what makes them
-
-tick? It’s putting on their coveralls and working with their hands. I get
-
-wanting to digitize and can see bringing in some new hires to help us do
-
-that. But my guys don’t want to become computer nerds, and I suspect
-
-that if you force it on them, they’ll leave, which means all that essential
-
-knowledge and hundreds of years of cumulative experience just walking
-
-out the door forever.”
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+who participate would be positioned to drive SolidTech’s future and

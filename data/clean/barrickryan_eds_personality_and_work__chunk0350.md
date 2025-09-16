@@ -1,9 +1,11 @@
-# 108 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 64c6ac6ca31d6d0ae9eb3cf44e58bfabefe4007d
+title: barrickryan_eds_personality_and_work
+---
+# s e l
 
-include other classes of individual (for example, experience, inter- ests) or organizational (for example, training, rewards) indirect per- formance determinants. The relative strength of each path from one construct to another depends on the predictor variables in- cluded and the performance component that is the criterion, even for performance components within the same broad performance category (task, citizenship, or adaptive). For example, if achieve- ment were used to predict the demonstrating effort dimension of citizenship performance, the strongest path would likely go through motivation because motivation is highly relevant to demonstrating effort and achievement is highly relevant to each component of motivation. If sociability were used to predict the maintaining good working relationships dimension of citizenship performance, however, the stronger paths would likely go through declarative knowledge and procedural knowledge and skill. This is because social knowledge and skill are highly relevant to maintain- ing good working relationships, they are likely to be predicted by sociability, and sociability is not as strong a predictor of motivation. Figures 4.2 and 4.3 contain illustrative examples of how this model explains the prediction of speciﬁc performance compo- nents from speciﬁc predictor variables. Both ﬁgures include cog- nitive ability, achievement, and sociability as potential predictor variables. In Figure 4.2, the performance component is technical proﬁciency. Cognitive ability is the dominant predictor because of its inﬂuence on technical job knowledge, technical skill, and task habits. Cognitive ability may also inﬂuence motivation, primarily because it should be related to self-efﬁcacy and choice of goal dif- ﬁculty (Phillips & Gully, 1997). Achievement should also predict unique variance in technical proﬁciency, primarily through its in- ﬂuence on motivation, but also because high-achievement indi- viduals tend to acquire more job knowledge necessary for good performance and to develop habits that are effective for achieving high performance. Sociability should contribute little if anything to the prediction of technical proﬁciency.
+b a i r a V
 
-In Figure 4.3, the performance component is maintaining good working relationships. In this case, cognitive ability would predict performance only to the extent that cognitive ability contributes to the determination that one kind of social response is more effec- tive than another (Motowidlo et al., 1997). Achievement would also predict performance through its inﬂuence on motivation, but this
-
-, y t i l i
-
-b A e v i t i
+s t i b a H k r o W

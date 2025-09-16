@@ -1,5 +1,17 @@
-# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: e78b02a473929a695fddb09f00c38d46e8e2d6b3
+title: beo_chap7_1
+---
+## The Perspective Starting from “How the Brain Works”
 
-Figure 7.2. Images for analysis of skull of Phineas Gage. Reprinted with permission from Damasio et al. (1994). “The return of Phineas Gage: Clues about the brain from the skull of a famous patient.” Science, Volume 264, p. 1102. Copyright [1994] AAAS. Reproduced cour- tesy of Dr Hanna Damasio, the Dana and David Dornsife Cognitive Neuroscience Imaging Center and Brain and Creativity Institute, University of Southern California.
+My method for illustrating the possibilities now emerging for the second approach
 
-particular on examples involving emotions, since these seem to present some of the
+will be to consider a few examples of striking developments in psychology and
+
+their possible significance for economists’ views of organization. I have focused in
+
+33] think this distinction raises important choices for economics: the economics of organization that meets the needs of economics’ other fields (finance, health, labor, macro, ...) may not need to take into account the full richness of contemporary psychological research, or the full complexity of what we see going on in real organizing. Or it may.... But “real economists” have far more wisdom about this question than I do, and so I will devote myself to extending the portrait of what I believe is going on, leaving for those within economics the problems of judging how much of the development needs to be assimilated, and of how that can be done without losing the inferential power of current theoretical formalizations.
+
+284

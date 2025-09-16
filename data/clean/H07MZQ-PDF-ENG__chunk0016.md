@@ -1,15 +1,29 @@
-# professional place at work.
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36cc2474b7b3142713bf889288566a792261e236
+title: H07MZQ-PDF-ENG
+---
+## early intervention papers, and information on state assistance
 
-It took me about three more years before I spoke up about what
+programs. It was a taxing process. I felt overwhelmed, anxious, and
 
-parenting my autistic son looks like at work, but I did it because I
+stressed. I made no mention of this at my job and kept working like
 
-realized I was in a position to normalize the conversation and create
+normal. I checked my company’s resources for potential help. I checked
 
-a foundation for support for anyone going through what I went through.
+our insurance coverage, and it was unclear that there was anything
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+there. So I took all my lunch breaks, early mornings, and post-work
 
-4
+hours to schedule appointments and in-home visits. I was spent. But
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+after a few months, I found him support. He started a county early
+
+intervention program on his third birthday. Afterwards, I still didn’t feel
+
+like I could speak about it. I didn’t fully understand the diagnosis, and
+
+I knew there was nothing I could ﬁnd in my company that showed they
+
+cared. I felt that my role as a parent of a neurodivergent child had no

@@ -1,21 +1,27 @@
-# Empowering
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 5974f8d0155f5bb4c160faa4d3ac40af0079c956
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Ethical
 
-13
+19
 
-3699
+4883
 
-.56
+.58
 
 .50
 
-.61
+.66
 
-.63
+.65
 
-.12
+.23
 
-13.73
+4.06
 
-.48
+.36
 
-.77
+.94

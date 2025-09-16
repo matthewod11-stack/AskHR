@@ -1,9 +1,25 @@
-# professional relationships.
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e2e7aca35b85b44b20d234f602f528dfe93e4e18
+title: H0881J-PDF-ENG
+---
+## organization (such as training, continuous feedback, check-ins, etc.)?
 
-This article was originally published online on May 15, 2024.
+. . .
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Approaching a conversation about improving an employee’s
 
-6
+performance requires preparation, empathy, and a focus on
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+collaboration. Creating the space for self-reﬂection and an
+
+understanding that change is possible can help the employee move
+
+from feeling victimized to feeling empowered. Even though hearing the
+
+truth about their current performance will be tough and potentially
+
+hurtful, it’s a teaching moment managers must embrace to help them
+
+become more resilient and adept at problem-solving and developing

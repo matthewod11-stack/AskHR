@@ -1,9 +1,19 @@
-## companies. Performance Improvement Quarterly, 23(2), 5–31.
+---
+source_path: international_journal_of_global.md
+pages: n/a-n/a
+chunk_id: 354d7586ba6799c0b6b14cad6f4742862c80f8d9
+title: international_journal_of_global
+---
+## non-profit organizations. Administrative Sciences, 3(4), 202–220.
 
-Laratta, J. L., Reddy, H. P., Bratcher, K. R., McGraw, K. E., Carreon, L. Y., & Owens, R. K. (2018). Outcomes and revision rates following multilevel anterior cervical discectomy and fusion. Journal of Spine Surgery, 4(3), 496– 500. https://doi.org/10.21037/jss.2018.06.16.
+Ibarra, P. (2005). Succession planning. Public Management, 87(1), 18–24.
 
-Leskiw, S., & Singh, P. (2007). Leadership development: Learning from best practices. Leadership & Organization
+Jones, S., Deckers, C. M., Strand, D., Bissmeyer, H., Bowman, W. J. W., & Mathe, D. G. (2017). Succession planning:
 
-Development Journal, 28(5), 444–464. https://doi.org/10.1108/01437730710761742
+Creating a case for hiring new graduates. Nursing Economics, 35(2), 64–87.
 
-Liebman, W. B. (2016). Labor Law and the NLRB: Friend or For to Labor and Non-Union Workers? In Harbinger
+Kesner, I. F., & Sebora, T. C. (1994). Executive succession: Past, present & future. Journal of Management, 20(2),
+
+327–372.
+
+Kim, Y. (2010). Measuring the value of succession planning and management: A qualitative study of multinational

@@ -1,5 +1,7 @@
-# Worried About Impending Layoffs?
-
-Four steps you can take now to prepare. by Susan Peppercorn
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07POT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 851b3fcf5f3bc6171def1dbf450b7db7cf35d7ba
+title: H07POT-PDF-ENG
+---
+# Layoffs

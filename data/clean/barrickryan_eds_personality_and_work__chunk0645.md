@@ -1,3 +1,9 @@
-# 218 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f535458933e991733f7f249eff3b5cbfab74eb5a
+title: barrickryan_eds_personality_and_work
+---
+# Social Capital of Network Conﬁgurations
 
-of whether there are advantages and disadvantages of high self- monitors connecting with other highs, low self-monitors with other lows, or highs and lows connecting is worth considering.
+Social capital refers to relational resources embedded in the ties between individuals (Coleman, 1988; Nahapiet & Ghoshal, 1998), which research has shown to enhance value creation in organiza- tions (Tsai & Ghoshal, 1998). Furthermore, different types of net- work connections are associated with different forms of social capital. Attempting to manage too many ties can consume valuable resources (time) and can also have dysfunctional effects if the ex- pectations of others are not met. This is a particular risk with hav- ing too many strong ties (Brass & Krackhardt, 1999), because a strong tie requires a greater mutual commitment than a weak tie. The most appropriate network strategy is therefore likely to be con- tingent on the surrounding network structure of possible connec- tions. Prescriptive advice on how to develop an optimal network with regard to the networks of others in a social system has been largely overlooked in the literature (Carley, 1999). The question

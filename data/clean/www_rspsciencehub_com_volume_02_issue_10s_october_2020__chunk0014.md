@@ -1,5 +1,11 @@
-# professional
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: 15c995ff2d65d6ef65e38d4e5f581de866e9423a
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# regression, model
 
-travel,
+assessment,
 
-The Employee one of the main reasons, and The Company reason were also used. It is clear from the study, the retention rates, the company needs to develop the human resource department by assessing the working atmosphere, work or job satisfaction, amount of work of employee, and communication between manager, leader and subordinates.
+Employee attrition is studied with the help of variables as - number of companies operated, total work-experience, years with current supervisor, poor work frequent environment satisfaction, department HR, marital status – separation, marital status – wedded, poor job satisfaction, early logout, and working overtime.

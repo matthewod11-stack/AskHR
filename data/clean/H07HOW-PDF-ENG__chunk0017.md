@@ -1,11 +1,33 @@
-# through a corporate state of ﬂux.
+---
+source_path: H07HOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dd13026e961f5d4c311c13522c2b34e85d86187
+title: H07HOW-PDF-ENG
+---
+# emotional load.
 
-This article was originally published online on February 21, 2023.
+Take this example. One of my clients was required to transition her
 
-Dina Denham Smith is an executive coach to senior leaders and teams at top global companies such as Adobe, Netﬂix, PwC, Dropbox, Goldman Sachs, Stripe, and numerous high-growth startups. A former business executive, she is the lead author of the bestselling book Emotionally Charged: How to Lead in the New World of Work. Connect with her on LinkedIn or at dinadsmith.com, and subscribe to her newsletter for proven strategies to accelerate your success.
+organization to another leader with her next role still undeﬁned. She
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+felt unvalued and upset, but knew she needed to be collaborative. In
 
-5
+reappraising the situation, she realized this change would give her
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a chance to recharge and try something new. This helped her feel
+
+more positive about the transition and showed that she could thrive in
+
+uncertainty, resulting in accolades and a more senior role. Ask yourself:
+
+What could be some upsides of this reorg for me?
+
+. . .
+
+While you may have limited inﬂuence over your company’s
+
+reorganization, you absolutely have control over your response in
+
+moving forward. Using the strategies here can provide a measure of
+
+self-determination and opportunity, helping you successfully navigate

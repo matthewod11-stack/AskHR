@@ -1,41 +1,117 @@
+---
+source_path: R2502F-PDF-ENG.md
+pages: 1-1
+chunk_id: fb7d06a37f315b0bc7a62cc210c54af3dc5ca52b
+title: R2502F-PDF-ENG
+---
+ces may encourage
+
+unconscious stereotyping—that is, narrowly classifying and attributing
+
+expected behaviors to others. This creates two risks:
+
+Negative perceptions. Stereotypes may foster perceptions of cultural
+
+superiority or inferiority, leading to a sense of entitlement or a lack
+
+of empathy toward the other party. That can feed a rationalization for
+
+# conﬂict.
+
+Presumption of universality. Stereotyping disregards the individuality
+
+and diversity present within any culture, which may blind negotiators
+
+to opportunities for positive outcomes and learning from their
+
+# counterparts.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
 ## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
 
-In bridging these gaps, negotiators are often left to fend for themselves,
+Another reason to focus on the individual rather than the culture in a
 
-relying on anecdotal or conventional wisdom that has little bearing
+negotiation is the infeasibility of becoming an expert in the customs
 
-on the negotiation at hand. Or they may turn to academic or other theories that seem to explain cultural diﬀerences but generalize
+and norms of all the geographies in which one might do business.
 
-about cultures as a whole, ignoring individual variances. All this may
+For example, an executive responsible for the EMEA region may have
 
-encourage dealmakers to overascribe negotiation diﬃculties to cultural diﬀerences.
+morning negotiations with counterparts from Turkey and South Africa,
 
-In one contract negotiation we studied, a German negotiator attributed
+followed by lunch with her boss who is expatriated from South Korea,
 
-problems with his Chinese counterpart and the deal’s stalled progress to
+then a meeting with executives from Ethiopia before closing a deal in
 
-his lack of understanding of Chinese culture. The Chinese negotiator repeatedly rejected terms oﬀered by the German, even when they
+the late afternoon with UAE nationals. The agenda for the next day might involve an entirely diﬀerent set of nationalities. And even when
 
-aligned with international standards. Instead, he pushed for terms that
+you are dealing with a single foreign country, teams may include people
 
-he claimed met local Chinese standards. When asked for evidence, the Chinese negotiator seemed oﬀended and said that the German
+# from multiple backgrounds and cultures.
 
-negotiator should trust his word.
+All negotiations should begin with the question, “Does my counterpart want to work with me or against me?”
 
-Later in the negotiation, after they had agreed on several points, the
+In such situations, it is nearly impossible to memorize and leverage
 
-Chinese negotiator kept reopening issues while presenting no legitimate
+all the cultural dimensions relevant for each interaction. What’s more,
 
-reasons for doing so. He consistently pushed to improve the terms of
+trying to be all things to all people only encourages your counterparts
 
-the deal to his advantage and rejected counterbalancing suggestions,
+to question your integrity. You will constantly be outside your comfort
 
-slowly but surely transferring more value away from the German
+zone, which makes you more vulnerable to ignorance, doubt, insecurity,
 
-negotiator. Whenever the German negotiator objected, his counterpart
+# and exploitation.
 
-stated that this was necessary to build a long-term partnership the
+We believe that one key to a successful cross-cultural negotiation is, to
 
-Chinese way. Only much later, after coaching by a negotiation expert,
+some extent, taking culture out of the equation. Business negotiators
 
-did the German negotiator realize that his counterpart had been using cultural diﬀerences as a smokescreen for questionable and adversarial
+often have much in common with their counterparts—maybe even
+
+more than with their parents, partners, or children. After all, our
+
+international counterparts may be closer to us in age, education level,
+
+professional interests, the corporate world they operate in, or functional
+
+expertise. For these reasons we advise negotiators in cross-cultural
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
+
+settings to focus speciﬁcally on their counterparts, learning their own
+
+## particular intentions, rituals, and preferences.
+
+A British negotiator from a London-based family oﬃce negotiating with a Japanese executive oﬀers an instructive example. Instead of assuming
+
+that his counterpart would exhibit common Japanese cultural traits
+
+## such as a preference for indirect communication, formality, or long
+
+investments in relationship building, the British negotiator observed
+
+how she actually behaved.
+
+From the start, he saw that she was extremely friendly, shook his hand,
+
+greeted him in English with a slight American accent, and explained
+
+that she valued quick decision-making and innovation, having worked
+
+at a tech startup in Silicon Valley for many years prior to creating her
+
+own venture in Japan. She was candid, quick to share ideas, and clearly
+
+signaled her intention to collaborate. Noticing those tr

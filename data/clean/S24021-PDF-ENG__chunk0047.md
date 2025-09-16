@@ -1,7 +1,7 @@
-# Jamie Chung/Trunk Archive
-
-I’ve found that even in higher-growth industries, the distribution of
-
-growth rates tends to be highly skewed, with a small set of ﬁrms
-
-accounting for the lion’s share of industry growth. Consider the
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15447e2b18f33370cc1fd3ef873b5c72edc6d4d2
+title: S24021-PDF-ENG
+---
+## HBR / Spotlight / How Fast Should Your Company Really Grow?

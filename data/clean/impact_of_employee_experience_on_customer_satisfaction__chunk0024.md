@@ -1,11 +1,11 @@
-## experience and play significant role in employee and customer satisfaction
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: eb5969ec22fdda78d6dfebb30facc427d4ddf1f8
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 1 | P a g e
 
-▪ Based on historical, national, or cultural differences between the United
+▪ Elements of Employee engagement like commitment, pride, achievement,
 
-States, Europe, and Asia, significant differences are expected in the impact of
-
-employee experience in selected regions.
-
-The theoretical part of this master thesis defines the employee experience and how it
-
-impacts the customer experience and business outcomes. In addition, it explains the
+sense of belonging and company culture are key areas of the employee

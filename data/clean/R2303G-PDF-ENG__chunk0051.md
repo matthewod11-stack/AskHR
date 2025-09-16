@@ -1,7 +1,7 @@
-# Starting Your Own Journey
-
-Most high-performing executives today intellectually “get” the case for
-
-better people skills and know that their well-honed directive styles have
-
-signiﬁcant downsides. But learning and sticking to new habits and skills
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7cd91d7b16a4a8e62264ea878fc59a2888fefc8
+title: R2303G-PDF-ENG
+---
+## HBR / Magazine Article / The Leadership Odyssey

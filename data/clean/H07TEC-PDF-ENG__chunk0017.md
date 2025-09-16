@@ -1,19 +1,13 @@
-# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdbc842f19e872111740e124d0f8d685b998114d
+title: H07TEC-PDF-ENG
+---
+# customer satisfaction reviews).
 
-See more HBR charts in Data & Visuals on HBR.org.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-In the example output above, Attorney 5 is performing the best relative
+3
 
-to the other four attorneys. While Attorney 5 did not bill the most hours
-
-or receive the most fees for the ﬁrm, the combination of their lower
-
-salary and fewer nonbilled hours (the model inputs) with their strong
-
-outputs yielded the highest overall performance. At the other end of the
-
-spectrum, Attorney 2 has the most room for improvement, as we would
-
-expect them to be generating 16.77% more outputs (100% minus 83.23%)
-
-for their given inputs.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

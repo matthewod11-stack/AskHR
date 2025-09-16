@@ -1,7 +1,33 @@
-# Author Index 557
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c6f0a9980e4ca7b5f7837d18ef62094254a8d6b5
+title: untitled
+---
+# 556 Author Index
 
-Brassard, J. A., 212, 218 Bray, C. W., 52, 66 Bray, D. W., 191, 198, 379, 387 Brazelton, T. B., 212, 218 Bredenkamp, J., 511, 532 Bregman, E. D., 141, 156 Bregman, E. O., 378, 385 Breines, W., 233, 242 Bretnall, E. P., 122, 133 Brett, G. S., 158, 173, 307, 334 Breuer, J., 308, 322, 323, 334, 340, 353 Brewer, C. L., 465, 470, 471, 472, 474, 475, 477, 478, 479, 480, 481,
+Baistow, K., 238, 242 Bakeman, R., 216, 217 Baker, D. B., 28, 36, 43, 258, 259, 260, 261, 262, 263, 346, 353, 357, 364,
 
-497, 507
+483, 492, 493, 505
 
-Brewer, J. M., 358, 359, 364 Bridges, J. W., 342, 355 Bridgman, P. W., 18, 21 Briggs, V. M., Jr., 200, 202, 376, 385, 404, 411 Brigham, C. C., 184, 198 Brigham, J. C., 391, 399, 401, 406, 407, 408 Bringmann, N. J., 4, 21 Bringmann, W. G., 4, 6, 21, 23, 553, 554 Brinkley, A., 440, 445 Britt, S. H., 227, 242, 381, 385 Broadbent, D. E., 126, 127, 131 Broca, P., 49, 50, 63, 149, 305, 318 Brodsky, A. M., 258, 265 Brodsky, S., 283, 298, 398, 400, 409 Brody, E. B., 198, 550, 552 Brofenbrenner, U., 438, 445 Brogden, H. E., 55, 379, 385 Bromley, D. B., 179, 198 Bronfenbrenner, U., 212, 213, 218, 438 Bronk, D. W., 479 Brooks-Gunn, J., 216, 218 Broverman, D. M., 256, 265 Broverman, I. K., 256, 265 Brown, A. L., 139, 145, 148, 152 Brown, A. T., 351, 353 Brown, B. B., 214, 221 Brown, D. T., 424, 428 Brown, J. F., 231, 242, 245 Brown, J. S., 56, 63 Brown, J. V., 216, 217 Brown, L. M., 254, 265 Brown, L. S., 258, 265 Brown, R. A., 462 Brown, W. R., 282, 298 Browne, C. G., 282, 300 Brownlee, S., 275, 276 Brubaker, T., 215, 218 Bruce, C., 99, 108 Bruce, D., 15, 21 Brucher-Albers, C., 463 Brunell-Neuleib, S., 286, 299, 301 Bryant, P. E., 146, 152, 154 Buchanan, J., 348, 509, 531 Buck, J. N., 288, 298 Buckhout, R., 406, 409 Buckley, K. W., 16, 21, 228, 243 Bucy, P. C., 57, 64
+Baker, R. W., 290, 301 Baker, S., 479 Balance, W. D. G., 4, 21 Balch, P., 440, 448 Baldwin, A. L., 193, 197 Baldwin, B. A., 99, 108 Baldwin, J. M., 12, 16, 20, 80, 81, 100, 206, 207, 209, 209, 217, 223, 225,
+
+226, 227, 242, 512, 519
+
+Baldwin, M., 399, 408 Bales, R. F., 234, 242 Ball, S., 272, 276, 349 Balster, R. L., 45 Baltes, P. B., 137, 215, 217, 220 Bamberg, M., 6, 23 Bandomir, C. A., 6, 24 Bandura, A., 211, 212, 217, 219, 351, 353 Banyard, V. B., 439, 443, 447 Bard, P., 50, 57, 63, 64 Barden, R. C., 402, 409 Bardos, A. N., 288, 300 Barenbaum, N. B., 177, 179, 180, 181, 185, 186, 187, 189, 190, 194, 197,
+
+203, 229, 242, 337
+
+Baritz, L., 367, 373, 375, 377, 378, 384, 385 Barker, L. F., 49, 63 Barker, R., 437, 438, 444 Barkley, R. A., 352, 353 Barlow, D. H., 351, 353 Barlow, W., 233, 242 Barnard, C. I., 33, 479 Barnhardt, T. M., 214, 220 Barrera, M., 442, 444 Barrett, K. C., 212, 218 Barrett, R. S., 308, 385 Barrios-Santos, M., 498, 505 Bartol, A. M., 391, 392, 394, 395, 396, 397, 408 Bartol, C. R., 391, 392, 394, 395, 396, 397, 408 Bartram, D., 283, 300 Bates, J. E., 214, 221, 252 Battie, W., 314, 315, 334 Bauman, Z., 225, 242 Baumrind, D., 214, 217 Bavelas, A., 233, 234, 242 Bavelas, J. B., 167, 173 Bayer, B. M., 180, 200, 223, 231, 234, 235, 236, 239, 240, 241, 242, 337 Bayless, S., 399, 409 Bayley, N., 208, 218 Bazerman, C., 5, 9, 21 Beach, F. A., 57, 58, 63, 72, 73, 75, 76, 77, 79, 80, 81, 195, 488, 506 Beard, G. M., 329, 334 Beauchamp, G. K., 78, 81, 179, 198, 325 Beck, B. B., 81, 344 Becker, D., 257, 265 Becker, H. P., 181, 197 Beckman, J., 275, 277 Beebe-Center, J. G., 157, 173 Beer, C. G., 77, 81
+
+Beers, C., 32, 182, 197, 342, 353, 440, 444, 550 Beers, S. E., 479 Beilin, H., 146, 152, 154 Beins, B. C., 474, 478 Beitel, A., 217, 218 Békésy, G. V., 52, 53, 63 Belanger, D., 536, 553 Belar, C. D., 41, 45, 451, 458, 459, 461, 462, 463 Bellack, A. S., 44, 292, 298, 354 Bellak, L., 287, 298 Belle, D., 255, 265 Belmont, J. M., 148, 152, 388, 411, 445 Belsky, J., 216, 218 Belter, R. W., 297, 301 Bem, S. L., 235, 253, 254, 265 Ben-David, J., 2, 4, 21 Bender, D. B., 98, 108 Bender, L., 279, 292, 298 Benedek, E., 400, 411 Benjamin, L. T., Jr., 5, 8, 21, 27, 28, 29, 35, 36, 43, 44, 181, 183, 197, 324,
+
+346, 353, 358, 360, 361, 362, 364, 372, 373, 383, 385, 471, 474, 478, 493, 505, 509, 541, 542, 544, 543, 545, 551
+
+Benjamin, R. M., 64 Bennett, C. C., 64, 431, 435, 436, 437, 443, 444 Bennett, E. M., 437, 448 Ben-Porath, Y. S., 298 Bent, R. J., 28, 93, 183, 286, 549, 551 Bentley, I. M., 70, 82, 84 Bentley, M., 9, 21, 159, 173 Benton, A. L., 329, 330, 334 Berdie, R., 371, 386 Berg, C. A., 137, 155 Berg, I., 37, 43 Berger, H., 50, 63 Berkeley, G., 91, 92, 108, 115, 116, 117, 132 Berkun, M. M., 328, 334, 335 Berliner, D. C., 269, 270, 271, 274, 276, 277 Berlyne, D. E., 511, 531 Berman, J. S., 51, 65, 260, 265 Bernal, M., 500, 547, 551 Bernard, L. L., 181, 184, 197, 230, 242 Berne, E., 332, 334 Bernfeld, S., 95, 108 Bernreuter, R. G., 189, 197, 284, 298, 344 Bernstein, M., 136, 156, 251, 265 Berry, D. T. R., 286, 299, 301 Berry, J. W., 137, 150, 152, 511, 531 Berscheid, E., 172, 173 Bersoff, D. N., 394, 396, 399, 403, 405, 406, 408, 410 Bertaux, D., 179, 197 Best, D., 479 Best, L., 7, 25 Bigelow, J., 125, 132 Bijou, S. W., 211, 218, 350, 353 Bills, A. G., 189, 197, 373, 385 Bills, M. A., 373, 385 Binet, A., 13, 31, 100, 135, 137, 138, 139, 140, 144, 152, 156, 206, 207, 208, 218, 221, 279, 280, 281, 282, 284, 288, 298, 301, 321, 338, 342, 352, 353, 396, 408, 417, 418, 419, 422, 520
+
+Bingham, R. P., 477, 480, 500
+
+Bingham, W. B., 378, 385 Bini, L., 326, 334 Birdsall, T. G., 105, 108 Birman, D., 439, 449 Bitterman, M. E., 75, 80, 81 Bjorklund, D. F., 214, 218 Black, A., 167, 173 Black, J. E., 214, 219 Blais, D. J., 229, 247 Blanch, E., 480, 506 Blascovich, J., 543, 551 Blau, T. H., 494, 505 Bliss, T. V. P., 54, 63 Blocher, D. H., 360, 361, 362, 363, 364 Block, J., 16, 187, 197, 489 Bloom, B. L., 438, 446 Bloom, C., 258, 265 Bloomﬁeld, D., 70, 84 Blum, M. L., 368, 385 Blumenthal, A., 4, 5, 6, 21, 456 Boakes, R., 7, 16, 17, 21, 67, 81 Bobbit, B., 154 Boccaccini, M. T., 283, 298 Bograd, M., 254, 268 Bohan, J. S., 254, 265, 267 Bolanger, D., 510, 532 Boll, T. J., 292, 298 Bolles, R. C., 543, 552 Bonduelle, M., 340, 353 Boneau, C. A., 388, 474, 478 Bonnie, R., 264, 410 Borden, V. M. H., 476, 478 Borgen, F. H., 295, 299 Boring, E. G., 3, 4, 7, 13, 18, 20, 21, 33, 43, 47, 48, 52, 63, 70, 81, 107, 136, 149, 151, 152, 178, 185, 188, 197, 199, 201, 203, 245, 280, 284, 298, 497, 537, 542, 551, 553
+
+Borkman, T. J., 442, 444 Borkovec, T. D., 164, 173 Borkowski, J. G., 148, 152 Bornstein, M. H., 215, 218 Bornstein, R. F., 286, 299, 301 Borum, R., 283, 298 Bose, J., 423, 428 Boski, P., 230, 231, 246 Bouillaud, J., 49, 50, 63 Bowers, T. G. R., 22, 146, 152, 404, 408 Bowlby, J., 212, 218 Boyer, E. L., 466, 477, 478 Boykin, A. W., 495, 505 Boyse, E. A., 78, 81 Boysen, S. T., 80, 83 Bradbury, H., 443, 448 Bradﬁeld, A., 215, 220 Bradford, G., 10, 13, 70, 82, 100, 132, 180, 197, 453 Bradley, P., 285, 299, 462 Brainerd, C. J., 146, 152, 153 Brakke, K. E., 83 Bramel, D., 230, 242 Brand, C., 141, 152 Brandt, L. W., 516, 531

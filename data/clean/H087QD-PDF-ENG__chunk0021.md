@@ -1,13 +1,9 @@
-# focused meetings (Connection)
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94caf78743a345e72feea1b13b6af2b2899c7ab9
+title: H087QD-PDF-ENG
+---
+# questions (Development)
 
-Having teams co-create and commit to speciﬁc ways of hybrid working
-
-has been very successful at EY U.S. Teams that had these accelerator
-
-discussions reported:
-
-- A 27% increase in agreement with the statement “I am comfortable
-
-with the personal and professional demands on my time.”
-
-- A 25% increase in agreement with “I am able to dedicate time to
+- Celebrate team wins and milestones with in-person and virtual fun-

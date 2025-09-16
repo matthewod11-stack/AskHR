@@ -1,15 +1,21 @@
-# expenses.
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2275264d0289cde6bcd03e41125261be0fefc1bd
+title: H08T4Z-PDF-ENG
+---
+# marketplace by others.
 
-Miller realized her ability to frame, name, and claim a radically diﬀerent
+Holley Miller was the director of global brand for Allergan, the
 
-strategy in med tech was quite rare and the outcomes she generated
+pharmaceutical and medical device company, when she built and
 
-were exponentially larger than her mid-six-ﬁgure salary. She received
+executed a category design strategy that quadrupled revenue for a
 
-conﬁrmation of this when competitors began calling to poach her to
+product from $25 million to $100 million in four years. She did it
 
-their teams. So instead of being an executive, she’s now the founder
+by radically changing their marketing—by reframing and naming a diﬀerent end user problem instead of just marketing features and technology. As a result, end users and physicians saw Allergan’s oﬀer
 
-and president of Grey Matter Marketing with a team of 11 utilizing her
+as a category of one with no substitutes. Revenue quadrupled without
 
-superpowers on her own terms designing new categories for companies
+adding incremental sales reps or dramatic increases in operating

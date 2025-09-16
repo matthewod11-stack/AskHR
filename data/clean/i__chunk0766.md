@@ -1,3 +1,7 @@
-# https://arno.uvt.nl/show.cgi?fid=127276
-
-(cid:111) Vihari, N., & Rao, M. K. (n.d.). Analytics as a Predictor for Strategic and Sustainable Human Resource Function: An Integrative Literature review.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 2f548224e6657f1009a36cee63ea4132c4f7ad74
+title: i
+---
+# Tilburg University].

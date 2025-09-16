@@ -1,11 +1,21 @@
-# HBR / Digital Article / When Another Senior Leader Is Threatening Your Reputation
+---
+source_path: H08OJX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5bfa83346af9afc6010bcdf26a7daab4bff7bd5
+title: H08OJX-PDF-ENG
+---
+# direct my eﬀorts.”
 
-enhanced customer satisfaction scores and improved operational eﬃciency).”
+- 3. Highlighted the achievements: “Delivering (e.g., the market
 
-- 4. Refocused on results: “Leadership in high-pressure environments
+expansion or business optimization) and driving (e.g., revenue growth
 
-demands a result-oriented approach.”
+or market share increase) is my main concern, which is why you can
 
-- 5. Reinforced commitment to the business: “While every executive
+already see our teams delivering (e.g., increased quarterly proﬁts,
 
-has their own approach, my commitment is to corporate
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

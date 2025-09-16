@@ -1,5 +1,7 @@
-# the previous position/salary
-
-deduction/financial punishment even dismissed from the service) depending on the gravity of
-
-offence. A delinquent staff member may also be warned, with an appropriate entry in the
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: f94df66d7bde84db385f7476b1064a5cef2dfcf2
+title: internship_report
+---
+# to

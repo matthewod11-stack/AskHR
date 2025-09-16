@@ -1,27 +1,21 @@
-# a warning.”
+---
+source_path: H08TYG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f71635453134a42d82521d2e022cb53c74d3a93
+title: H08TYG-PDF-ENG
+---
+# Bad Economy.”
 
-In 2025, amid eﬀorts to downsize America’s federal workforce, fears
+The core advice: To reduce trauma and anxiety caused by painful business decisions, good leaders must try to oﬀer predictability
 
-about how AI will reshape roles and responsibilities, and rising tension
+(by sharing information and behaving transparently), understanding
 
-around hybrid work and job security, this advice feels as relevant
+(explaining why changes are happening), control (making people feel
 
-as ever. Sutton and I spoke about what’s changed since the article
+like they have a say in what’s happening), and compassion (by trying
 
-was ﬁrst published—and what remains true. Here are excerpts of our
+to put themselves in the other person’s shoes). “If you give people as
 
-conversation, lightly edited for length and clarity:
+much information as you can about what will happen…and when it will happen, they will prepare to the extent they can and suﬀer less,” Sutton
 
-Your original piece was published during the Great Recession.
-
-Today the economy is growing and the stock market is at record
-
-highs, yet we’re still seeing signiﬁcant anxiety and organizational
-
-upheaval. What’s driving that?
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+wrote. “Just as important, they can learn to relax in the absence of such

@@ -1,19 +1,15 @@
-## A meta-analysis of 199 cultural intelligence studies by Thomas
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4653087a349e48cbea45349fe481db98ed37e96f
+title: R2503K-PDF-ENG
+---
+## challenges with colleagues from diﬀerent backgrounds. Researchers
 
-Rockstuhl and Linn Van Dyne showed that knowing a lot about cultural
+from the University of Missouri found that some diversity initiatives
 
-diﬀerences can be more harmful than being culturally ignorant. When
+can also inadvertently lead to disengagement and the exclusion of
 
-people become overconﬁdent in their understanding of diﬀerences, it
+underrepresented individuals, hindering the very inclusion they were
 
-can lead to rigid, categorical thinking in which behavior is reduced to
-
-monolithic labels like being “German” or “Gen X” or an “engineer.” In
-
-addition, a heightened focus on how we’re diﬀerent becomes mentally
-
-taxing and prevents dynamic, generative learning about one another.
-
-Cultural intelligence equips leaders to skillfully acknowledge and adapt
-
-to diverse backgrounds while keeping the team centered on shared
+meant to create.

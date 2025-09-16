@@ -1,23 +1,15 @@
-## psychologist Anita Williams Woolley and her colleagues at Harvard and
+---
+source_path: H07MHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6d5c9be582f35b3771e8e2568c6f7b2baa6a154d
+title: H07MHV-PDF-ENG
+---
+## HBR / Digital Article / When Great Minds Don’t Think Alike
 
-Stanford undertook a study in which they asked object visualizers and
+to use. This is an example of an artistic visual thinker working with a
 
-spatial visualizers to navigate a Pac Man–style virtual maze. Some of the
+more technically oriented partner to create a very successful product.
 
-teams were pairs of same-style thinkers, others were diﬀerent thinkers.
+When diﬀerent kinds of thinkers get together and recognize the value of
 
-The research found that the teams of mixed thinkers outperformed the
-
-homogenous teams. When the teams were mixed, the visual spatial
-
-thinkers tended to work the joystick and the object visualizer zapped
-
-the greebles. The homogenous groups tended to spend more time in
-
-conversations that didn’t lead to results. (If you have been in one of
-
-those endless company meetings where nothing gets resolved, this may
-
-ring familiar.) It turns out that great minds that do not think alike are
-
-more likely to yield towering innovations.
+their diﬀerent approaches, great progress can be made. Organizational

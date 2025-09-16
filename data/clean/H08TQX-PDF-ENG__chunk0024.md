@@ -1,47 +1,21 @@
-## HBR / Digital Article / New Research on How to Get Workplace Rituals Right
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 366051198589729507a5d8d05abd419b82268fc5
+title: H08TQX-PDF-ENG
+---
+## eﬀects of complex organizational rituals, several limitations of our
 
-included in our analysis. These rituals may have distinct positive and
+research warrant mention. First, while we examined general complex
 
-negative experiences beyond those we identiﬁed. Second, while our
+rituals such as workplace holiday parties and team-building events,
 
-data spanned multiple countries (U.S., U.K., and Germany), cultural
+there may be other unique or idiosyncratic rituals—for example,
 
-diﬀerences in how rituals are perceived and experienced remain
+those speciﬁc to certain industries or organizations—that were not
 
-an important consideration. For instance, collectivistic cultures (e.g.,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-India, Indonesia) may place greater emphasis on group cohesion and
+6
 
-inclusivity, potentially altering the eﬀectiveness and impact of rituals
-
-like holiday parties or team-building retreats. Employees in such
-
-cultures may be more tolerant of the negative experiences we identiﬁed
-
-compared to those in more individualistic cultures, such as those where
-
-our studies took place.
-
-. . .
-
-Organizational rituals can be powerful tools for fostering engagement
-
-and driving positive workplace behaviors—but only if designed
-
-thoughtfully. Poorly planned rituals risk undermining their beneﬁts.
-
-The checklist we’ve developed oﬀers leaders an evidence-based
-
-framework for designing more eﬀective organizational rituals. By
-
-systematically addressing both sides of the ritual experience—
-
-maximizing positive elements like social connection and meaningful
-
-recognition while minimizing negative aspects like inauthenticity and
-
-personal sacriﬁce—organizations can transform events into meaningful
-
-experiences that genuinely enhance engagement.
-
-This article was originally published online on July 22, 2025.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

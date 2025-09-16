@@ -1,19 +1,7 @@
-# d. Orientation.
-
-As stated earlier effective performance standards must be developed in collaboration with
-
-employees and they should be based on measurable and verifiable data. At ETR, there is
-
-30
-
-enough data to measure performance , for example , when counselors do an intake or
-
-interview an applicant for JTP A programs and services, they sign in on a sheet for every
-
-client seen. On that sheet, is the client's name, social security #, time arrived, time client
-
-was seen, result of interview (i.e., eligible/ineligible and what activity the client will go
-
-into next), and time client left. All this data can be researched to gather the necessary
-
-information to develop performance standards . From the data gathered ETR can develop
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 893c8cb2a8bf29e2d274953dc5d1f538221ebfcd
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# c. Attendance ; and

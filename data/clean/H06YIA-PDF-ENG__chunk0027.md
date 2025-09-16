@@ -1,11 +1,15 @@
-## depends on the continuity of your people, networks, and processes.
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c84ef92c7f7a84b4f2dcde3b68473c6824538025
+title: H06YIA-PDF-ENG
+---
+# Rupture without disruption
 
-In determining the pace of your change, you want to make a careful but
+When you make a leap and radically change your organization design,
 
-ﬁrm transition. Consider these four points:
+you intentionally make a clear break with the previous way of doing
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+things. But much as you want rupture, you want to avoid disruption.
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+You have to safeguard your company’s ongoing business, which

@@ -1,13 +1,31 @@
-# participants and past group discussions.
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fa54893725b1e9666ab0d7240182b95d14274795
+title: H08VIB-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
 
-Provide contextual nuances. Remember to bring your unique context
+Ideally, the prompts should be carefully crafted to spark a dynamic,
 
-into the process, and not just at the beginning. Otherwise, AI may
+personalized, and two-way dialogue with AI as a co-thinker.
 
-default to a standard, surface-level output. You know your culture, your
+Simulate team dynamics. Beyond content preparation, use AI to
 
-team dynamics, and what made a valuable team collaboration in the
+reﬂect on the diﬀerent stakeholders, interests, and perspectives that
 
-past. When you infuse your lived experience, values, and nuances into
+will be in the room, anticipating the interpersonal and group dynamics
 
-the process, the results of human-AI collaboration become far more
+that may emerge during the group discussion. Try this structured
+
+prompt, “I’m preparing to present a proposal on [brief description] to
+
+the following participants: [list names]. Based on their past interactions
+
+with me (from emails, chats, or meeting transcripts), help me reﬂect on
+
+how each participant is likely to respond and how their perspectives
+
+may interact.” Prompts like this one are particularly eﬀective when AI is
+
+embedded in the enterprise suite, i.e. it has access to information about

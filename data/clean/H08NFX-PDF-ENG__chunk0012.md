@@ -1,3 +1,13 @@
-## HBR / Digital Article / How to Assess the New Legal Risks of Your DEI Policies
+---
+source_path: H08NFX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e574a6a66e414c36de5be0d76b0fce5e5aaa8e33
+title: H08NFX-PDF-ENG
+---
+# support for:
 
-- Standardizing interview questions, promotion criteria, and hiring
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

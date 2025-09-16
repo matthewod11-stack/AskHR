@@ -1,3 +1,9 @@
-## Conditions (Doctoral dissertation, California State University, Northridge).
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: 9e27026bf6d4bd4f205c4fc49ec82c12faaf436b
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+## and Rehabilitation for Life Care Planning (pp. 34–56). Routledge.
 
-39.(cid:32) Pendo, E. (2021). Protecting the Rights and Wellbeing of People with Disabilities during the COVID-19 Pandemic. 40.(cid:32) Putnam, M., & Stark, S. L. (2025). Bridging the accountability gap between aging and disability research. The
+38.(cid:32) Parra, S. (2023). An Assessment of the Americans with Disabilities Act to Improve Employment Opportunities and Working

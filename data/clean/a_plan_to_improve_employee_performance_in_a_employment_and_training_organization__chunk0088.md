@@ -1,13 +1,17 @@
-# period.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 057bbbb4b6f8ef533603b08f4e3fe572994e501b
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# meeting.
 
-d. Conclude the meeting by scheduling the second meeting which will serve as
+c. Hold a preliminary meeting with the employee before the actual formal
 
-the formal performance evaluation. Encourage the employee to bring in a written
+performance evaluation takes place. At this meeting, the evaluation form(s) and
 
-self-evaluation (see Appendix B), which can be used as the basis of discussion
+process will be explained and reviewed. The employee and supervisor should
 
-21
+discuss his or her job description and decide which essential functions and
 
-during the formal evaluation process. The self-evaluation can illicit an
-
-employee 's perspective on his or her performance for the review period, as well as
+organizational goals the employee is responsible and should be evaluated for that

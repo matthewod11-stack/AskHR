@@ -1,7 +1,15 @@
-## company to the top of customers’ rankings.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f950cb3bdeb471cca7065eb13766fb0bb30a46f
+title: R0507Q-PDF-ENG
+---
+# response to a service call.
 
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+- A semiconductor manufacturer asked each major customer to rank the
 
-10
+company against comparable suppliers on efforts to improve quality,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+delivery time, and price performance. When the chip maker discovered
+
+it ranked in the middle, managers made improvements that moved the

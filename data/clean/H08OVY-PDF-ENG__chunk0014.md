@@ -1,5 +1,13 @@
-## a more opportune moment, like your next one-on-one, when the topic
+---
+source_path: H08OVY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 05a7797641460865229e04ff39ba1fb22b0d3075
+title: H08OVY-PDF-ENG
+---
+## HBR / Digital Article / How to Tell Your Boss They’re Wrong—Tactfully
 
-is still relevant, but cooler heads can prevail. “Timing is everything,”
+Appreciate that timing is everything
 
-she says. Think, too, about the setting, adds Bordone. Trying to have a
+It’s tempting to push back the moment your boss says something that
+
+doesn’t sit right with you. But, says Wilding, it’s often smarter to wait for

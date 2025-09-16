@@ -1,17 +1,27 @@
-## into a detailed, multi-dimension performance review on a ﬁve-point
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bba3841ab6c81c1799b5fb9c628b3ddc23f573ba
+title: H08DMP-PDF-ENG
+---
+# Managerial Lessons
 
-scale. Through a bell curve appraisal system which ensures a range of grades, Trip.com can eﬀectively recognize and reward the top
+After our study came out in Nature, executives were very interested
 
-performers while identifying the bottom ones who are then placed
+in ﬁnding out more. We think there are three critical ingredients that
 
-on performance improvement plans. Moreover, pay and promotions
+contributed to the success of hybrid working at Trip.com.
 
-are directly linked to the review. So, the company’s managers can eﬀectively motivate and reward high-performing employees whether
+First, Trip.com has a rigorous performance management system that’s
 
-they work from home or in the oﬃce.
+on par with best practices around the world. Managers don’t hover
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+over employees at their desks to check their progress, or give ad-
 
-3
+hoc feedback once a year. Instead, the company has an extensive
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+performance review process every six months to help employees course
+
+correct in real time. Employee performance data, as well as feedback
+
+from co-workers, clients, direct reports and managers, are synthesized

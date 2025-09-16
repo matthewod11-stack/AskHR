@@ -1,37 +1,15 @@
-# t n e m y o l p m E
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 779da04d9802afbf384e1570e053e802b0e872d7
+title: file_1
+---
+# n
 
-. 1
+8 8 4
 
-.
-
-- 0 7 0 2 6 4
-
-- 0 7 0 .
-
-.
-
-1 3
+1 6
 
 .
 
-n o i t i s o p t n e m y o l p m E
-
-.
-
-2
-
-- * 5 6 1 .
-
-0 1 0
-
-.
-
-2 3 3
-
-.
-
-8 8
-
-.
-
-t c a r t n o c
+r o t c e s

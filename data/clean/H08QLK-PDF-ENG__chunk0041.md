@@ -1,7 +1,11 @@
-# lower adoption barriers.
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 543740363a9fa2bc5a1fc4e219df459b065ad839
+title: H08QLK-PDF-ENG
+---
+# new agents.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- 2. Redesign UI/UX for conversational workﬂows. Replace standard form
 
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+ﬁlling user interfaces with natural language and voice interfaces to

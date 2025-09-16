@@ -1,7 +1,19 @@
-## HBR / Digital Article / Making Silos Work for Your Organization
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 731ab1f8af130735a5d4523f5428d887c0c0b0fc
+title: H06OBF-PDF-ENG
+---
+## to both business development and corporate engineering.
 
-commercial tenders. Introduce thresholds to escalate approvals for
+- Governance. Assign critical decisions requiring a cross-vertical
 
-decisions to an existing higher-level body as a function of their
+purview to an existing or new cross-verticals body. For example, the
 
-business impact and risks. If needed, make additional provisions such
+power company instituted a new investment committee to review
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,11 @@
-## eﬀective managers. Over the years, strong coaching skills consistently
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29c653c4179cc1d08a47964c62b5759cfaa25c17
+title: H08NJ7-PDF-ENG
+---
+# Cavan Images/Getty Images
 
-ranked at the top. The ﬁndings echo other literature showing that
+Google’s Project Oxygen—a multi-year research initiative—analyzed
 
-exceptional leaders often elevate others through coaching. One study
-
-found that when employees are coached well, they tackle challenges
-
-more assertively and also solve problems creatively. Other research
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+data from thousands of employees to identify the qualities of highly

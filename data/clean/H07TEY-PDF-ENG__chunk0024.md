@@ -1,51 +1,25 @@
-## HBR / Digital Article / Why Your Organization Should Use Salary Benchmarking
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 66bf7963e82ae134d2b0632cdc3b371598cbbd69
+title: H07TEY-PDF-ENG
+---
+## online data sources (58% of respondents) such as Glassdoor.com. More
 
-Labor market trends can sometimes change rapidly, especially in the
+recently, payroll service companies have gained popularity (used by
 
-post-pandemic world. You do not need to check the benchmarks on a
+23% of respondents and the fastest growing source), which may give
 
-daily basis, but try to at least do it from time to time — remember that
+the best bang for your buck in terms of data quality. Most employers,
 
-information, too, has an expiration date. Likewise, you may not have
+however, use a combination of data sources. While the majority look at
 
-time to sit down to study market trends for every position in which you
+free online sources, on a scale of 1-5, HR professionals report that other
 
-hire. However, make sure to at least do due diligence for the positions
+sources are twice as trustworthy as free online sources.
 
-that are most critical for your business.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-When using a benchmarking tool, you may feel information overload.
+5
 
-Some tools provide not only the median pay, but also the mean, 10th
-
-percentile, 25th percentile, and so on and so forth. And some tools
-
-allow you to ﬁlter by industry, state, and other criteria. There are trade-
-
-oﬀs. For instance, ﬁlters can allow you to focus on peer employers,
-
-but at the cost of smaller sample sizes and thus statistically imprecise
-
-benchmarks. While the right approach depends on the context at hand,
-
-according to our survey, there are some clear favorites: most ﬁrms (89%)
-
-prefer to look at the median market pay or the average market pay, and
-
-the most popular ﬁlters are by industry (87%) and state (84%).
-
-We also gave the survey respondents an opportunity to share their
-
-own tips and advice for salary benchmarking. Some recommended not
-
-relying on job title information alone, but rather to pay attention to the
-
-job description to ensure it’s a good match. Another manager suggested
-
-that, to the extent possible, you should review the benchmarks regularly
-
-to stay in sync with the latest trends in the job market. In the same
-
-spirit, one manager recommends being proactive — do not wait until
-
-employees are unhappy about low pay and reach out to you, or you risk
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

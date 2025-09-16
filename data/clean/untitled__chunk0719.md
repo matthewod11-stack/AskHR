@@ -1,3 +1,13 @@
-# 126 Cognition and Learning
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 197b632be9214f2a0d5c40ffa70d1b3bbec60b57
+title: untitled
+---
+# Feedback
 
-the critical value of the variable of interest, the temperature of a building. A sensor in the thermostat monitors the tem- perature, and when it falls below or above critical value, the controller activates the heating or cooling system. When the temperature moves back to its critical value, the sensor detects this and the controller turns off the heat pump. The notion of feedback is that a system, whether living or mechanical, detects a state of the world, acts to alter the state of the world, which alteration is detected, changing the behavior of the system, in a complete feedback loop. A thermostat plus heat pump is thus a purposive system, acting ﬂexibly to pursue a simple goal. It is, of course at the same time a machine whose behavior could be explained in purely causal, physical, terms. Teleology and mechanism are not incompatible.
+One of the standard objections to seeing living beings as ma- chines was that behavior is purposive and goal-directed, ﬂex- ibly striving for something not yet in hand (or paw). James (1890) pointed to purposive striving for survival when he called mechanism an “impertinence,” and Tolman’s retention of purpose as a basic feature of behavior set his behaviorism sharply apart from S-R theories, which treated purpose as something to be explained away (Hull, 1937). Feedback reconciles mechanism and goal-oriented behavior.
+
+As a practical matter, feedback had been employed since theIndustrialRevolution.Forexample,a“governor”typically regulated the temperature of steam engines. This was a rotat- ing shaft whose speed increased as pressure in the engine’s boiler increased. Brass balls on hinges were ﬁtted to the shaft so that as its speed increased, centrifugal force caused the balls to swing away from the shaft. Things were arranged so thatwhentheballsreachedacriticaldistancefromtheshaft— that is, when the boiler’s top safe pressure was reached—heat to the boiler was reduced, the pressure dropped, the balls de- scended, and heat could return. The system had a purpose— maintainthecorrecttemperatureintheboiler—andresponded ﬂexibly to relevant changes in the environment—changes of temperature in the boiler.
+
+But it was not until World War II that feedback was formulated as an explicit concept by scientists working on the problem of guidance (e.g., building missiles capable of tracking a moving target; Rosenblueth, Wiener, & Bigelow, 1943/1966). The standard example of feedback today is a thermostat. A feedback system has two key components, a sensor and a controller. The sensor detects the state of a rele- vant variable in the environment. One sets the thermostat to

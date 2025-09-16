@@ -1,7 +1,9 @@
-## unlocked far more value before, during, and after the workshop. The
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2dd80566f198c30fb140933e788bfaa7ef21e2d
+title: H08VIB-PDF-ENG
+---
+# alignment, and more breakthrough ideas.
 
-barrier, however, wasn’t technical. It was the mindset. He admitted that
-
-using AI hadn’t even crossed his mind until after our question. And
-
-that’s precisely the risk: when managers default to the status quo, they
+Reﬂecting on our feedback, Marc acknowledged that AI could have

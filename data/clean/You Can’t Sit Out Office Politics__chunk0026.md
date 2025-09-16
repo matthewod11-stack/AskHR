@@ -1,7 +1,7 @@
-# You Can’t Sit Out Ofﬁce Politics
-
-https://hbr.org/2021/07/you-cant-sit-out-ofﬁce-politics
-
-11/13
-
-You also need to understand where and how relationships are stillbeing built, especially as the work environment becomes morevirtual. WhatsApp chats? Virtual coffee meetings? Hour-long callswhere there is no agenda other than to catch up with colleagues?If none of these are happening, perhaps you can start them; notonly with people who are already in your network but also withthose who you would like to have in your network.Social media offers myriad opportunities to reach out to newconnections outside of your organization. The value that this canoffer your career is immense. A network that is as diverse andwide as possible has repeatedly been shown to be
+---
+source_path: "You Can\u2019t Sit Out Office Politics.md"
+pages: n/a-n/a
+chunk_id: 7be6c64d2627348babc14e27383c1f7f1abb791b
+title: "You Can\u2019t Sit Out Office Politics"
+---
+# 9/10/25, 11:05 AM

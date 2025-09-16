@@ -1,3 +1,11 @@
-## Figure 4.6 Example of a direct mail recruitment advertisement
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 81bc0fb273a7ec69069c5d3c3607afee63e7f419
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Direct Mail
 
-Direct-mail recruiting is especially useful for positions involving specialized skills. For example, Minor’s Landscape Services in Texas had difficulty finding licensed irrigators, so the company located a list of people in Texas who had irri- gation licenses and sent letters to each person on the list. The company found  qualified candidates and was able to fill both of its openings (Gruner, ). An example of direct-mail recruiting can be found in Figure ..
+Because direct mail has been successful in product advertising, several organiza- tions have used it to recruit applicants, especially those who are not actively job hunting. With direct-mail recruitment, an employer typically obtains a mailing list and sends help-wanted letters or brochures to people through the mail. According to direct-mail expert Lewis Shomer, % of the success of a direct- mail campaign is the mailing list itself, % is the offer, and % is in the words and look of the brochure (Woodward, ). Most mailing lists cost from $ to $ per , names (Woodward, ).
+
+One California branch of Allstate Insurance had been using newspaper advertisements and getting limited response. However, from a single mailing of , letters that explained the career opportunities available at Allstate to cur- rent policyholders, the company received more than  calls and was able to hire  new employees. Union Special, an Illinois manufacturer of sewing machines, had difficulty filling  engineering positions, so they direct-mailed , cards to Chicago-area engineers at a cost of about $,. As a result, the company received  responses and conducted  interviews. A third company that suc- cessfully used direct-mail recruitment is the Bank of America. To save money, Bank of America did something different from Allstate and Union Special. Instead of sending a special recruitment mailing, Bank of America included recruitment literature in the regular monthly mailing of bank statements to its customers.

@@ -1,19 +1,13 @@
-# HBR / Digital Article / Research: Executives Who Used Gen AI Made Worse Predictions
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 39108abe02a52f06e06d5041bcc81d5b5a4a3a9f
+title: H08SQS-PDF-ENG
+---
+# forecast.
 
-These patterns held true even when we controlled for the most extreme
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-(high or low) forecasts in our dataset.
+3
 
-AI consultation made predictions worse.
-
-After we conducted our study, we waited a month, and then compared
-
-the predictions the executives had made against actual Nvidia
-
-data. We found that both groups were too optimistic, on average.
-
-However, we found that those who used ChatGPT made even worse
-
-predictions after their consultation. Those who discussed with their
-
-peers made signiﬁcantly better predictions than they’d made before
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

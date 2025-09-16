@@ -1,5 +1,19 @@
-# The Office of Strategy Management
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b1ec3153365c19755c9546f57cdfe860351bbfb
+title: R0510D-PDF-ENG
+---
+# b u P
 
-the OSM should play a consultative and inte- grative role with the respective functional de- partments.
+o o h c S s s e n i s u B d r a v r a H 5 0 0 2 ©
 
-At most corpora- tions, the various functional departments are responsible for planning how the corporation will allocate resources over the year. The ﬁ- nance department oversees budgeting and the allocation of cash to the units and cross-func- tional initiatives; IT makes recommendations about investments in databases, infrastruc- ture, and application programs; and HR makes plans for hiring, training, and leadership de- velopment. For a strategy to be effective, all the functional plans must be aligned with the strategy. The budgets prepared by the ﬁnance department, for example, should reﬂect those established in the strategic planning process and should incorporate funding and person- nel resources for cross-functional strategic ini- tiatives. To ensure this alignment, the OSM must work closely with all these functional units.
+Chief knowledge officer oversees knowledge sharing.
+
+t h g i r y p o C
+
+harvard business review • october 2005
+
+page 8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

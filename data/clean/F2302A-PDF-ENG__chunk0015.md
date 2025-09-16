@@ -1,11 +1,25 @@
-# from new clients by 7% more.
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b69a6a20ead0b5d56030aa7ca78c7a99ad96b6c8
+title: F2302A-PDF-ENG
+---
+## HBR / Magazine Article / Does Gamified Training Get Results?
 
-Leader engagement with the training was also important. The more oﬃce leaders who registered to use the platform, the higher the employee sign-up rate. And that improved results. Oﬃces whose leaders
+(indicating an interest in furthering their skills to help meet KPMG’s
 
-participated more than others increased fees collected by 19% more and
+goals) and how quickly they did so once the platform was available. Finally, they analyzed whether and how much leaders in each oﬃce
 
-grew the number of clients served by 7% more.
+played the game.
 
-The researchers oﬀer three recommendations for using gamiﬁed
+Analysis showed that the training helped increase fees collected by participating oﬃces by more than 25%. The number of clients rose by up
 
-training to improve employee performance.
+to 16%, and opportunities from new clients rose by as much as 22%. The
+
+more that employees played Globerunner, the more likely they were to improve performance in their jobs. Oﬃces whose employees showed
+
+a higher willingness to train increased fees collected by 16% more than others. Oﬃces in which employees were more engaged with their
+
+jobs to begin with increased total business opportunities by 8% more,
+
+opportunities from existing clients by 10% more, and opportunities

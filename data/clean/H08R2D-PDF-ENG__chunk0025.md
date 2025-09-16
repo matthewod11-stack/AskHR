@@ -1,19 +1,15 @@
-# path to value creation.
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09aa038f115e8e831c8f62e102ab24652b3e37fa
+title: H08R2D-PDF-ENG
+---
+# cash ﬂow contribution of 5%.
 
-The hospitality industry oﬀers a striking example. Unlike most hotel
+This strategy is most prevalent in asset-intensive sectors such as
 
-chains that franchise their brands to accelerate revenue growth,
+industrials, utilities, and materials—but any business with an already-
 
-Whitbread, owner of the largest hotel brand in the UK, Premier Inn,
+diﬀerentiated product and signiﬁcant market share facing cost
 
-owns all its hotels, directly manages their operations, and even controls
-
-digital distribution as well as revenue management by centralizing
-
-bookings on a proprietary platform. Although this integrated strategy
-
-constrains rapid expansion, consistently delivering a high-quality
-
-customer experience is an essential pillar of its competitive advantage—
-
-which we found has enabled the company to deliver 10% annualized
+pressures from suppliers may ﬁnd vertical integration a compelling

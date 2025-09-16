@@ -1,27 +1,25 @@
-## HBR / Digital Article / 3 Strategies for Making Better, More Informed Decisions
+---
+source_path: H07MWV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea47754c311a2d0e736b58423212eb46c6334872
+title: H07MWV-PDF-ENG
+---
+# Javier Zayas Photography/Getty Images
 
-Self-serving bias is the tendency to interpret information in a way
+A few years ago, I advised a sales team whose job involved making cold
 
-that conﬁrms our existing beliefs and serves our own self-interest. In
+calls. The team members would often attribute successful sales to their
 
-situations that lack clarity, we often make assumptions that serve to
+own skill and expertise, while blaming external factors like poor leads
 
-bolster our egos and self-esteem. We selectively interpret information
+or bad timing for any failures. This is just one of many examples I can
 
-to support our own position, and overlook or dismiss information that
+think of from my experience working with leaders across organizations
 
-contradicts our views. In fact, in the above example, a look at the data
+and industries that illustrates a common human bias.
 
-revealed that the team’s conversion rate was much lower than the team
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-expected. When presented with this data, some team members were
+1
 
-defensive and reluctant to acknowledge the reality of the situation.
-
-The self-serving bias can lead to suboptimal decision-making or even
-
-contribute to conﬂict, as we become more entrenched in our own
-
-positions and less willing to consider alternative perspectives. This,
-
-in turn, can make it diﬃcult to collaborate on solutions to complex
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

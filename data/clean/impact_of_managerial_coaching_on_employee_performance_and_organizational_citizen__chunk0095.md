@@ -1,1 +1,7 @@
-# In-role Performance
+---
+source_path: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen.md
+pages: n/a-n/a
+chunk_id: 8698bd7c63c6620644f6e0ad1f8aac23fd87251c
+title: impact_of_managerial_coaching_on_employee_performance_and_organizational_citizen
+---
+# Managerial Coaching

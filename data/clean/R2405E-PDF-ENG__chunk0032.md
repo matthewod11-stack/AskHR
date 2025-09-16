@@ -1,11 +1,13 @@
-## HBR / Magazine Article / The Legacy Company’s Guide to Innovation
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac7dee18e6060fc8f76cc20a716fed4b82a90f82
+title: R2405E-PDF-ENG
+---
+# in its parkas.
 
-Do we have an ecosystem that will support growth? The industrial-
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-scale rollout of an innovative oﬀering is likely to require a system
+7
 
-of complementary businesses, including component developers,
-
-downstream distributors, and service partners. When Atlas Copco
-
-started exploring the possibility of creating a remote-monitoring service
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,15 @@
-## presentation. Psychological Bulletin, 111, 203–243.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a2e9394ea36f5c686cc5e79a915dbe74f3662d4f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## experimental investigation of the eﬀ ects of group size in
 
-DePaulo, B. M., Lindsay, J. J., Malone, B. E., Muhlenbruck,
+an electronic meeting environment. IEEE Transactions on Systems, Man, and Cybernetics, 20(5), 1049–1057.
 
-L., Charlton, K., & Cooper, H. (2003). Cues to deception. Psychological Bulletin, 129(1), 74–118.
+Denton, D. K. (1996). 9 ways to create an atmosphere for change.
 
-DeRosa, D. M., Smith, C. L., & Hantula, D. A. (2007). Th e
+HR Magazine, 41(10), 76–81.
 
-medium matters: Mining the long-promised merit of group interaction in creative idea generation tasks in a meta- analysis of the electronic group brainstorming literature. Computers in Human Behavior, 23(3), 1549–1581. DeRouin, R. E., Parrish, T. J., & Salas, E. (2005). On-the-job
-
-training: A review for researchers and practitioners. Poster session presented at the 20th annual conference of the Society for Industrial and Organizational Psychology, Los Angeles, CA.
-
-Deshpandé, R., & Stayman, D. M. (1994). A tale of two cities:
-
-Distinctiveness theory and advertising eﬀ ectiveness. Journal of Marketing Research, 31, 57–64.
-
-Dessler, G. (2002). Personnel management. Upper Saddle River,
+DePaulo, B. M. (1992). Nonverbal behavior and self-

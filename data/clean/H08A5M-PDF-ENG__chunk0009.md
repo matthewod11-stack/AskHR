@@ -1,11 +1,13 @@
-## feedback, unclear decision-making authority, and too much time spent
+---
+source_path: H08A5M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ce621cc9d4173ed2022c3d1cc8e05440d644866
+title: H08A5M-PDF-ENG
+---
+# complexity.
 
-getting buy-in from stakeholders.
+Bringing some order to the chaos is imperative. Overall, Gartner
 
-When collaboration drag is high, we’ve found businesses are 37% less
+research shows 78% of organizational leaders report experiencing what
 
-likely to exceed their revenue and proﬁt targets, failing at the very
-
-things their lofty cross-functional agendas are meant to achieve. For
-
-most organizations, collaboration drag has reached epidemic levels.
+we call collaboration drag — too many meetings, too much peer

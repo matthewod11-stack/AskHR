@@ -1,3 +1,7 @@
-## Table-13: Multiple correlation and multiple regression
-
-Multiple correlation and multiple regression of earnings on Current ratio, Quick ratio, Cash earnings retention ratio [Regression equation EPS=β0+β1. Current ratio+β2. Quick ratio+β3.Cash earnings retention ratio]
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 4c9f2c65e1d785f9fcf04227d7c0a447a9cf08ef
+title: final_2019_jan_feb_jbs_pmd
+---
+# ISSN 2393-9451

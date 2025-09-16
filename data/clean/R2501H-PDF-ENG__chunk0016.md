@@ -1,19 +1,9 @@
-## If conformity stiﬂes companies and silences employees, as challengers
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91e6353e7b138f90344ab41bf8a0fcd72a171667
+title: R2501H-PDF-ENG
+---
+## HBR / Magazine Article / Three Ways to Lead Learning
 
-see it, then the boot camp typical of organizational learning often
-
-makes it worse. Humanistic learning, in contrast, is best pursued
-
-in a “playground,” where it’s self-guided and more personalized.
-
-Employees choose what to learn and when on the basis of their
-
-interests, strengths, and personal goals; there is less emphasis on
-
-models, assessments, ﬁlling skill gaps, and the best practices of experts.
-
-When challengers program speakers, often they’re luminaries outside
-
-the company’s industry (artists, philosophers, other inspiring thinkers).
-
-When challengers oﬀer classes, they favor workshops that help people
+Companies begin to stifle learning when executives assume that there’s a single right way to do it that will serve all the organization’s needs.

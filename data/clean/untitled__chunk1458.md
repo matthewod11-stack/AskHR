@@ -1,5 +1,9 @@
-# Harper & Row.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8b1cabdaed882689dec091948b06a4f8fe79de1c
+title: untitled
+---
+## dren. American Journal of Psychology, 9(4), 425–448.
 
-Sherif, C. W. (1987). Bias in psychology. In S. Harding (Ed.), Feminism and methodology (pp. 37–56). Bloomington: Indiana University Press. (Original work published 1979)
-
-Sherif, M. (1936). The psychology of social norms. New York:
+Sherif, C. W. (1976). Orientation in social psychology. New York:

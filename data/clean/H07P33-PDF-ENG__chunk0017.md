@@ -1,17 +1,13 @@
-# Establish psychological safety and trust
+---
+source_path: H07P33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ca03fd94cff1f05c0a72e363fe5bc06ec0cb153
+title: H07P33-PDF-ENG
+---
+## Five steps for successful AI-assisted coaching
 
-Decades of research show that a trust-based relationship between parties is essential for eﬀective feedback and coaching. This is even
+To ensure that AI-assisted coaching initiatives achieve the best possible
 
-more essential when dealing with the “black box” of AI-generated
+outcomes for both employees and managers, we recommend the
 
-assessments. In a new study, for example, employees who felt their
-
-managers had their best interests at heart were more willing to accept
-
-AI-generated recommendations — even ones they didn’t initially agree
-
-with. Managers can create psychological safety and trust in the tool by
-
-clarifying the rationale for the AI integration, giving assurances as to
-
-how employee data will be used, and encouraging people to speak up
+following steps:

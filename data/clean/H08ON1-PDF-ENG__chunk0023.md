@@ -1,13 +1,19 @@
-## their slower, more deliberate decision-making process in great detail as
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9ab6102b149580ebd0aaa6d5635e5dfe9b39161
+title: H08ON1-PDF-ENG
+---
+## highly innovative start-up, our client’s conversations with leaders of the
 
-they integrated workstreams. As newly acquired employees experienced
+acquired company revealed diﬀerences in the ﬁrms’ decision-making
 
-the process for the ﬁrst time, it became apparent to them how multiple
+strategies. Our client’s objective was to assimilate the acquired ﬁrm into
 
-rounds of input strengthened the product and increased the likelihood
+its culture, and that meant helping the acquired employees become
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+more deliberate in their decision-making. Instead of simply imposing
 
-5
+new processes without discussion, our client acknowledged the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+diﬀerences between the companies and communicated the rationale for

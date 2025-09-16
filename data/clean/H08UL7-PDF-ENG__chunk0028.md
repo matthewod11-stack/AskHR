@@ -1,7 +1,19 @@
-# time.
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 507125c9a3884fa46b8baa81d16391df43d9b798
+title: H08UL7-PDF-ENG
+---
+# their company.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+. . .
 
-7
+Team success is best predicted by the norms and routines that team
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+members use to integrate the knowledge, ideas, and talents inside and
+
+outside the team into daily decisions. Emotionally intelligent routines
+
+shift the focus from individual performers to the development of a
+
+robust collective brain that outperforms virtuosos working in silos every

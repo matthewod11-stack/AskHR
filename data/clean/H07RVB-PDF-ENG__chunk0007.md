@@ -1,5 +1,11 @@
-## Pride, No Ego: A Queer Executive’s Journey to Living and Leading
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 758f6711adadff7cb2fb1ab29bf722bbc7ee2f72
+title: H07RVB-PDF-ENG
+---
+## and president of Disney Stores Worldwide.
 
-Authentically has just been published, to discuss:
+For this episode of our video series “The New World of Work”, HBR
 
-- His advice to young queer professionals on how to be authentic at work
+editor in chief Adi Ignatius sat down with Fielding, whose book All

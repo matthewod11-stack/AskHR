@@ -1,7 +1,9 @@
-# The Need for Power:
+---
+source_path: international_journal_of_managerial_studies_and_research_ijmsr.md
+pages: n/a-n/a
+chunk_id: 8bce9f73ddd3c91a8e12541f037520bde1f10393
+title: international_journal_of_managerial_studies_and_research_ijmsr
+---
+# The Need for Affiliation:
 
-This is the dislike to have impact, to be influenced and to control others. They also have the desire to coach, teach or encourage others to achieve, they love to work and are concerned with discipline and self respect. The need for power has both negative and positive respect. The negative side is manifested in a winner’s take all mentality e.g. “if I win you u lose” The positive side is focused on accomplishing group goals and helping others obtain the feeling of competence.
-
-Other theories exist and include equality theory which states that it is not the actual reward that motivate but the perception, and the perception is based not on the reward in isolation, but in comparison with the efforts that went into getting it and the rewards efforts of others. The reinforcement theory of the B.F Skinner indicates the effects of the consequences of a particulars bahaviour on the future occurrences of the behaviour which are positive reinforcement, negative reinforcement, punishment and extraction.
-
-International Journal of Managerial Studies and Research (IJMSR) Page | 141
+This is the need to be like and accepted by others. People with the need strive for friendship, prefer co-operative situation rather than competitive situations and desire relationship involving a high degree of mutual understanding. People with higher need for affiliation prefer to spend more time maintaining social relationship joining groups, etc individual with a high degree of need are not effective managers or leaders because they will find it difficult to make decisions without worrying about the feeding of others or being dislike by others.

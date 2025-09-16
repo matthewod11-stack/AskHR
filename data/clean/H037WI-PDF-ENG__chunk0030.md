@@ -1,11 +1,27 @@
-## HBR / Digital Article / Why Are Immigrants More Entrepreneurial?
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 934f45645b316262bd949c3cbc973c6ed6159b85
+title: H037WI-PDF-ENG
+---
+## multinational businesses, human resource management tools such as
 
-ideas receive no chance to exploit them within a company, they might
+expatriate assignments or international job rotations can help build opportunity recognition skills. To make these tools even more eﬀective,
 
-choose to do so outside of it. Previous research has identiﬁed that many
+managers can complement them with entrepreneurship training prior
 
-expatriates choose to leave their organizations soon after ﬁnishing an overseas assignment, when they suﬀer from a lack of promotion
+to an international assignment. Furthermore, priming instruments like
 
-opportunities, career counseling, and status. Our results suggest that
+the ones in our experiments could be used while living abroad and
 
-some of them might do this in order to exploit opportunities to become
+afterward to spur business ideation.
+
+For companies, ignoring the positive eﬀect of cross-cultural experience
+
+on opportunity recognition may be harmful. If expatriates with good
+
+Copyright © 2016 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

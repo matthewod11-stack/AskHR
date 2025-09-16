@@ -1,7 +1,13 @@
-# support growth.
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30f5679914ad9d2d1dd1788def606ff2978af1f8
+title: H08H33-PDF-ENG
+---
+# numbers.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The rush to grow by hiring puts pressure on managers and recruiters
 
-3
+to ﬁll positions hastily, often overlooking chances to enhance team
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+operations, promote internal candidates, or automate processes to

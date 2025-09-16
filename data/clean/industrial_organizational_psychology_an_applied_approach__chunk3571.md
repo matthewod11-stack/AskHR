@@ -1,11 +1,11 @@
-# Predisposition to Stress
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: af2bbb31b0eb1c40916fcdf4f0f559223b275950
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Amount of stress
 
-There appear to be individual differences in the extent to which people are susceptible to stress or are predisposed to tolerate stressors. For example, rates of coronary heart disease, exacerbated by stress, are higher for divorced persons than married people. Married people report higher satisfaction and less stress than unmarried people, top corporation executives have lower mortality rates than second-level executives, and people who live in suburban environments have more stress-related illness than people who live in rural environments. These individual tolerances can be explained by the following factors.
+Bad or negative stress, known as distress, happens when there is too much stress and when nothing is done to eliminate, reduce, or counteract its effects. Distress usually occurs in situations or at events on which you place great impor- tance (e.g., interviewing for a job), that put great demands on you, and over which you eventually perceive you have little or no control. For example, having to wait in line to drop or add a class may be irritating, but it’s usually not a big enough deal to cause distress. But interviewing for a new job or a new position that you really need for financial reasons can be a big source of stress, particularly if you feel you have little control over whether you get the job. Quite simply, negative stress occurs when we perceive that there is an imbalance between the demands (stressors) placed on us and our ability to meet those demands.
 
-stress management: dealing with the demands of life and work
-
-557
-
-558
-
-chapter 
+The distinction between eustress and distress is important because when employees report being stressed, their performance will not necessarily diminish. For example, in a study of more than , U.S. managers, the amount of eustress (called challenge-related stress by the researchers) had no relationship to job satis- faction or attempts to leave the organization. However, managers with high levels of distress (hindrance-related stress) were less satisfied with their jobs, left their jobs more often, and made more attempts to find a new job than did managers with low levels of distress (Cavanaugh, Boswell, Roehling, & Boudreau, ). Similar find- ings were reported in a meta-analysis by Podsakoff, LePine, and LePine ().

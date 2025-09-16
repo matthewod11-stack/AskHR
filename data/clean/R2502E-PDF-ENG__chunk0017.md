@@ -1,23 +1,37 @@
-# and retention.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e30e30d93944c9c4601862441c53cf86030829c9
+title: R2502E-PDF-ENG
+---
+# look for these traits.
 
-Diversity. People are more likely to learn new things and be innovative
+A strong learning culture. Seek out companies in which all employees,
 
-and creative when they have colleagues who diﬀer from them.
+new and long-tenured, are oﬀered education and training—and are
 
-Organizations with leadership teams that reﬂect diverse cultures
+actively encouraged to take advantage of them by leaders who prioritize
 
-and genders are more likely to make better decisions and be open
+their growth. Such organizations also often promote peer learning
 
-to continuous improvement, which can increase their employees’
+and set the expectation that employees will take responsibility for
 
-experience capital. (Note that we’ve found only that these beneﬁts are
+developing one another.
 
-correlated with diversity; it’s not possible to put a company through a
+Successful competitive strategy. Identify organizations that have a
 
-double-blind test to prove causation.)
+clear strategy for winning in their industry and execute it systematically
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+—whether it is driving innovation, involving employees in continuous
 
-4
+improvement, being very attuned to the market and its changes, or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+building a broad set of leaders and general managers.
+
+High and cross-functional mobility. A company that actively helps
+
+employees move into new roles internally increases their experience
+
+capital. In such ﬁrms workers develop greater agility and feel that their
+
+organization invests in and values them, which increases engagement

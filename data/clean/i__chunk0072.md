@@ -1,15 +1,25 @@
-# formulate predictions: decision tree, neural network, support vector machine (SVM) nearest
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 8ad1771ad74a1365cbccb9a674644582c8d52a7f
+title: i
+---
+# Predictive analysis:
 
-neighbor (Duan & Xiong, 2014). Predictive analysis also includes other stages In HR,
+Predictive analysis, as stated by Fitz-En (2010), is the insight to the future, and <the greatest
 
-predictive models are used, for example, to predict in employee recruitment. This can be done
+asset anyone can have=. It is a process of utilizing historical data to make predictions based on
 
-12
+statistical algorithms and machine learning techniques to identify the likelihood of future
 
-using data from previous years to estimate the logistic regression model to find predictors. The
+outcomes based on patterns and trends in the data with the underlying assumption that the past
 
-model can be applied for new data to predict recruitment plans for the coming year.
+event and trend tend to happen again in the future. Predictive analysis can be as simple as
 
-According to Bersin's (2012) study, in the same year, only four percent of companies are using
+moving averages, aiming to recognize patterns from the past in the outcome variable(s) and
 
-the highest level of HR analytics, which is the predictive level.
+extend those patterns into the future. Predictive analysis can be processed using statistics,
+
+modeling, and data mining techniques such as regression, which aim to grasp the relationships
+
+between outcome variable(s) and explanatory variables, utilizing these connections to

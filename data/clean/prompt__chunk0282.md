@@ -1,3 +1,7 @@
-# Prompt
-
-We have a band merchandise t-shirt webshop, and to train a chatbot we need various ways to order: "One Metallica t-shirt size S". Generate 10 variants, with the same semantics but keep the same meaning.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 7a852ffc0190b2277e7800ac57386f9a03047933
+title: prompt
+---
+# Prompt Engineering

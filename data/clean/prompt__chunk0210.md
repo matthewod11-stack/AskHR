@@ -1,3 +1,9 @@
-# Output
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 2a382349e597a41c537c3379942a25428521d961
+title: prompt
+---
+# Prompt
 
-- 1. **Abandoned Military Base**: A sprawling, post-apocalyptic military complex crawling with mutated soldiers and rogue robots, ideal for challenging
+Based on popular first-person shooter action games, what are 5 fictional key settings that contribute to a challenging and engaging level storyline in a first-person shooter video game?

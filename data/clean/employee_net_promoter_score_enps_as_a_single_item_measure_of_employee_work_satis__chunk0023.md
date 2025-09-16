@@ -1,31 +1,11 @@
-## Employee Net Promoter Score (eNPS) and Employee Satisfaction
+---
+source_path: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis.md
+pages: n/a-n/a
+chunk_id: 12ddf4545cc139aaca81f32723e9ac25337aa986
+title: employee_net_promoter_score_enps_as_a_single_item_measure_of_employee_work_satis
+---
+## Employee Net Promoter Score (eNPS) as a Single-item Measure of Employee…
 
-In the literature there is not much written about the Employee Net Promotor Score (eNPS)23. What we know for sure is that the idea behind the eNPS is to ask employ- ees how likely they would recommend their company as an employer. The meas- urement method, the definition of detractors and promoter remains the same24.
+NPS as a poor predictor of customer loyalty and customer satisfaction17. Perhaps, the harshest words were used by Sharp, who called Reichheld’s work a snake oil and fake science18. In other articles, it was pointed out that there was no consider- ation of research bias during NPS development19. Among other criticism we may find that the NPS is focused on the user, not exactly a person who make buying decision20.
 
-17 K. Kristensen, J. Eskildsen, Is the NPS a trustworthy performance measure?, “The TQM Jour-
-
-nal” 2014, vol. 26(2), pp. 202–214, https://doi.org/10.1108/TQM-03-2011-0021
-
-18 B. Sharp, Net promoter score fails the test, “Marketing Research” 2006, vol. 20, no. 4,
-
-pp. 28–30.
-
-19 T. L. Keiningham et al., A Longitudinal Examination of Net Promoter and Firm Revenue Growth,
-
-“Journal of Marketing” 2007, no. 71 (July), pp. 39–51.
-
-20 N. I. Fisher, R. E. Kordupleski, Good and bad market research: A critical review of Net Promoter Score, “Applied Stochastic Models in Business and Industry” 2019, vol. 35(1), pp. 138–151, https://doi.org/10.1002/asmb.2417
-
-21 J. Keller, What Makes Americans So Optimistic, 2015, https://www.theatlantic.com/politi cs/archive/2015/03/the-american-ethic-and-the-spirit-of-optimism/388538/ (accessed: 7.12.2019).
-
-22 O. Faltejsková, L. Dvořáková, B. Hotovcová, Net promoter score integration into the enter- prise performance measurement and management system – A way to performance methods development, “E a M: Ekonomie a Management” 2016, vol. 19(1), pp. 93–107, https://doi.org /10.15240/tul/001/2016-1-007
-
-23 For 27.12.2019, scholar.google found 143 results for “employee net promoter score” phrase
-
-compering to 9150 for “net promoter score”.
-
-24 B. J. Kaufman et al., Who’s responsible for employee engagement?, “Bain Company Materials” 2013, pp. 1–12, https://www.bain.com/contentassets/47694dff757b45c0b1bb34ebad6b9f c9/bain_brief_whos_responsible_for_employee_engagement.pdf (accessed: 7.12.2019).
-
-351
-
-352
+An important factor we should keep in mind is the influence of national culture on the NPS. Originally the indicator was developed in the USA. Americans are the na- tion of optimists and for example Europeans are more modest in describing the positive view of something21. There are opinions that in Europe, the NPS should be measured differently and those who gave 10 and 9 but also 8 should be promoters and detractors should be limited only to those who gave 5 or less on the scale22.

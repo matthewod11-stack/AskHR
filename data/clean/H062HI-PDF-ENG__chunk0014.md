@@ -1,9 +1,25 @@
-## HBR / Digital Article / How Small Companies Can Offer Great Paid-Leave Programs
+---
+source_path: H062HI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26cb6cedf8aec826e1a7cb2ff2c4f367138518a9
+title: H062HI-PDF-ENG
+---
+# September.
 
-quit due to unmet expectations generally, costing 30% of recruiting time
+But until such a policy is in place, what can tech ﬁrms and small
 
-and resources. Offering generous paid leave could help them think twice
+businesses do to address their disadvantage in paid leave, so they can
 
-about leaving before they do. Plus, the repercussions of losing top talent
+attract and retain top tech talent? Here are six suggestions from long-time
 
-“ripples through your organization,” Sias explained. It’s important to
+human resources professionals and small business leaders who have been
+
+navigating this mineﬁeld:
+
+Do a cost-beneﬁt analysis. Providing a paid leave beneﬁt can be expensive, but so can not providing it. Failed recruiting efforts are expensive. For example, Resumelab.com reports that 43% of new hires
+
+Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

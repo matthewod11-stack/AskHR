@@ -1,7 +1,15 @@
-## the brain for the cognitive and emotional demands of parenting. One
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 903d77c7ed4a8ec09eab01ae98bb5f1f1562e68e
+title: H07VWF-PDF-ENG
+---
+## brain scans in ﬁrst-time fathers in California with those of ﬁrst-time
 
-potential explanation for this diﬀerence comes down to a cultural
+fathers in Spain. Both groups of fathers showed changes. However,
 
-norm — widespread access to generous paternity leave policies allows
+comparing the two countries showed interesting diﬀerences. One key
 
-Spanish fathers to spend more time with their newborns. It serves
+diﬀerence? Only the fathers in Spain showed signiﬁcant changes in
+
+regions associated with sustained attention, which in turn likely prepare

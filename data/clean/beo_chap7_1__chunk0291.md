@@ -1,17 +1,21 @@
-# CHAPTER SEVEN
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: bc267ff5a3d1a25faf445a6ab3ac004c35940df5
+title: beo_chap7_1
+---
+# level; and many more.
 
-in 1848 that shot a metal rod cleanly through his head. Gage made a full physical
+The consequences of this measurement gain in psychology are many. Among
 
-recovery from the accident. His intelligence was unaffected. But his physician docu-
+them is an important increase in our ability to exhibit well-measured counterparts
 
-mented dramatic changes in his character in the dozen years he lived thereafter. Gage
+of the previously “soft” observations of clinicians. Thus “hardened,” they become
 
-lost his ability to conform to social conventions or to honor his own commitments.
+more difficult to set aside as we study decision and choice.
 
-He became an unemployable and foul-mouthed wanderer. The physician archived
+A case that dramatizes this change is that of Phineas Gage, a young man of
 
-Gage’s skull after he died, and 155 years later researchers were able to correlate the
+excellent reputation and work habits who was the victim of a construction accident
 
-areas between the entry and exit holes with what is now known from many other
-
-studies about lesions affecting the same areas of the brain, the right ventro-medial
+285

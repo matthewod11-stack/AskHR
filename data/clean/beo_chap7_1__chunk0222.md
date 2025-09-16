@@ -1,9 +1,9 @@
-# Meetings Paper 2036. Mimeo.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: a0d31d18a8f0227478d17e6aec85fc3127eb4c91
+title: beo_chap7_1
+---
+# (Special Issue) 7:24~52.
 
-Ichino, A., and G. Maggi. 2000. Work environment and individual background: explaining
-
-regional shirking differentials in a large Italian firm. Quarterly Journal of Economics
-
-115:1057-90,
-
-Jensen, M. 1993. Modern industrial revolution, exit, and the failure of internal control systems.
+Huberman, G., and W. Jiang. 2004. The 1/N heuristic in 401(k) plans. EFA 2004 Maastricht

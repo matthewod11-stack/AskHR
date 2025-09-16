@@ -1,23 +1,13 @@
-# Expect a Learning Curve
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2430c287631f901936787db23ed3a069d97b643b
+title: H07VWF-PDF-ENG
+---
+# more — and on and on.
 
-With any training program, the ﬁrst few days are fun — there’s
+Spending engaged time with your new baby is a rare opportunity for
 
-excitement that comes with new hobbies or projects. But then the real
+long-term success in fatherhood. This short-term time investment has
 
-work sets in, and to get better, you have to stick with it. Improvement
-
-requires dedication, tenacity, commitment, and time. You have to
-
-plug through the hard days and can’t give up when things get rough.
-
-Otherwise, you’ll never meet your goal.
-
-Brain training with an infant is no diﬀerent. Everyone who has spent
-
-time with a baby knows how hard it can be: the sleep deprivation, the
-
-crying, the uncertainty, the monotony. But like other training programs,
-
-you need to persevere, and give your brain the stimulation it needs to
-
-grow and adapt, preparing you for a lifetime of parenthood.
+the potential to pay a lifelong dividend in dad instincts.

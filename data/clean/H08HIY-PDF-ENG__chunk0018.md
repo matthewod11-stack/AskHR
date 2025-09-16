@@ -1,9 +1,11 @@
-## valuation of the property, both the man and the woman with bipolar
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 278d38a41edb142e691ba59cf92767dea22cfaad
+title: H08HIY-PDF-ENG
+---
+## perceptions of employee capability, even when their actual behaviors
 
-disorder were seen as having less integrity and lower competence
+are identical. When the Alex character did not employ any negotiation
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+tactic at all but instead chose to present honest information about the

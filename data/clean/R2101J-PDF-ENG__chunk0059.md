@@ -1,17 +1,23 @@
-# Telecommunication services
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b23f2b1732d5c16620388fd94241b778b86a26fd
+title: R2101J-PDF-ENG
+---
+# Energy
 
 85
 
 15
 
-80
+81
 
-20
+19
 
-66
+68
 
-34
+32
 
-75
+77
 
-25
+23

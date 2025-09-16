@@ -1,19 +1,9 @@
-# and inclusion.
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71a1c1ab0c04a1c54745b2e8eb5727167dc95019
+title: H08MZQ-PDF-ENG
+---
+## HBR / Digital Article / The False Dichotomy of Merit and Inclusion
 
-The ideal of a merit-based society is attractive. And it might
-
-possibly work—in a world where a homeless child has the same
-
-opportunities as a trust-fund baby, everything is disability-accessible,
-
-and women’s contributions are not ignored. But in the world we
-
-live in, true meritocracy, where everyone plays on an even ﬁeld,
-
-requires the removal of many unfair barriers. It requires inclusion.
-
-By removing systemic barriers, organizations can create environments
-
-where inclusion enhances meritocracy and merit mechanisms enhance
-
-inclusion, ensuring that talent and eﬀort genuinely determine success.
+competitors who manage to embrace fairness in the form of both merit

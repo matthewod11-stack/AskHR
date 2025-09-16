@@ -1,9 +1,9 @@
-# issue, or a career crisis.
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90ecdc00f87a812cbec320138633bc929058a4be
+title: H08LRM-PDF-ENG
+---
+## into these breaks by sudden events in their professional or personal
 
-Of course, while anyone can beneﬁt from a sabbatical, actually taking
-
-one remains a privilege. Few companies oﬀer paid long-term leave,
-
-so the demographics of those who take them skew toward those
-
-who can more easily self-fund: college-educated, middle-to-upper-class
+lives — often negative catalysts, such as a death in the family, a health

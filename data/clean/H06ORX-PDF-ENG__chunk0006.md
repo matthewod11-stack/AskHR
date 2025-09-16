@@ -1,17 +1,15 @@
-# HBR / Digital Article / Rebuilding Relationships Across Teams in a Hybrid Workplace
+---
+source_path: H06ORX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d198dab170d4dd6df10287c29a851ffa0b92400c
+title: H06ORX-PDF-ENG
+---
+## reestablish strong connections across organizational boundaries as
 
-Create new shared identities
+they’ve shifted to hybrid work environments.
 
-Humans are naturally tribal beings. We bind with and narrowly identify
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
 
-ourselves as one of our immediate group. By default, those outside
+2
 
-the group are “other” — and likely not to be trusted. This type of
-
-we-they thinking will intensify if cross-functional connections aren’t
-
-strengthened. Enabling people to establish new shared identities that
-
-bind them to one another more broadly helps reorient their brains to
-
-new relationships, seeing colleagues who were once “they” with fresh
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

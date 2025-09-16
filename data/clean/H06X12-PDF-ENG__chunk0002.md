@@ -1,5 +1,7 @@
-## A New Way to Explain the Pause in Your Career
-
-LinkedIn’s “Career Break” feature is designed to help people relaunch after some time away from the workforce. by Carol Fishman Cohen
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H06X12-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d647bcddbfd6e4623c7e3d085105c14a0186d812
+title: H06X12-PDF-ENG
+---
+# Career Transitions

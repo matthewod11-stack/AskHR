@@ -1,7 +1,17 @@
-# capital.
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: acc63526e54de45065a92e2b28fccedcdee8512e
+title: R2404K-PDF-ENG
+---
+## innovative products for the corporation through building a network
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+of development companies. The predetermined transfer price of each
 
-9
+successful product means that team members—who have an equity
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+stake in the development companies they are a part of—get a larger
+
+return than what they would earn if they worked at a large corporation
+
+and more certainty of an exit than if their work was backed by venture

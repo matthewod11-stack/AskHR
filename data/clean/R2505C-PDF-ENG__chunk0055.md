@@ -1,17 +1,23 @@
-## HBR / Magazine Article / Now Is the Time for Courage
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d35edb75caec59b63cfaa95e141953358e63a068
+title: R2505C-PDF-ENG
+---
+# meditation.
 
-In Fink’s annual letter, he practiced reframing, writing: “We have lived
+Reframe the situation. You can preempt or limit your fear response by
 
-through moments like this before. And somehow, in the long run, we
+redeﬁning what uncertainty means for you and your organization in
 
-ﬁgure things out.” Foulkes has done the same throughout her career:
+the long term. Consider what pessimistic, realistic, and optimistic views
 
-“My brain sometimes goes to what could go wrong, and I think that’s
+might look like. With this technique, you can fully acknowledge the
 
-good [business school] training, but I also think it’s important to ask
+dangers you face while also tempering your reaction to them.
 
-ourselves, ‘What could go right?’” And just as the thriving companies
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-in my 2008 study with my coauthors saw recessions not as existential
+14
 
-threats but as opportunities, Ixigo’s Bajpai reframed the Covid-19
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

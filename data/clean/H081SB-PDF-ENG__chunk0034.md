@@ -1,9 +1,9 @@
-# CC
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 874c5e50c2b4a6d4ea26a625e264dd3b8755ce18
+title: H081SB-PDF-ENG
+---
+# MW
 
-Cuthbert Chow, MDS, BBA, and LLB, works in Visier’s publications focus area as a data scientist co-op. Cuthbert’s primary role is discovering novel and industry-relevant insights within Visier’s rich community data. Cuthbert holds a master’s in data science and bachelor’s in law and business.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Manda Winlaw is a data science manager at Visier, contributing to research and developing data products for the Visier app. She has worked as a data scientist in a number of diﬀerent ﬁelds and strongly believes in using data to drive better decisions for all people.

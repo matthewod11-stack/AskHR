@@ -1,63 +1,49 @@
-# CHAPTER SEVEN
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 42f83a4fa6dae7f19bbb8ef5a5eca44580898407
+title: beo_chap7_1
+---
+## use for the people on the other side of the mirror.
 
-enforcement can come in the hard form of firing threats, or in the soft form of feeling
+Another example was conveyed to us by Chris Mayer. In their study of loss-
 
-bad about letting coworkers down, or the in-between form of risking coworkers’
+aversion in housing, Genosove and Mayer (2001) found that the nominal purchase
 
-wrath if a missed deadline on a joint project leads to mistaken blame.
+price condominium owners in Boston, MA, had paid for their houses influenced
 
-While we are lacking convincing field data on organizational repairs, these exam-
+their listing prices and the prices at which they sold their houses. In talking about
 
-ples suggest the following recipe for studying them. Find a mistake most people make
+his findings before some investment bankers, one person in the audience said he
 
-in individual decisions; ask what organizational practice would limit its effect; then
+knew about this effect, and that his firm had taken steps to limit it. His firm combats
 
-investigate whether the practice works. (Ideally, convince a firm to randomly vary the
+loss-aversion by forcing a trader to periodically switch his “position” (the portfolio
 
-organizational design across similar departments!) Or reverse engineer the recipe:
+of assets the trader bought and is blamed or credited for) with the position of another
 
-think of a curious organizational practice; ask what economic (Gibbons 2004b) or
+trader in the firm. Switching ensures that traders do not make bad trades because of
 
-behavioral problem in individual choice it might be a solution to.
+loss-aversion and emotional attachment to their past actions without affecting the
 
-Repairs can also come from the market rather than from an organizational practice.
+firm’s net trading position. If attachment to one’s trading position is bad, the switch
 
-Commenting on the slow speed of industry consolidation, Jensen (1993, pp. 847)
+creates a purely behavioral scope economy, which permits firms with many traders
 
-wrote:
+to outcompete firms with fewer traders.
 
-In industry after industry with excess capacity, managers fail to recognize that they
+Deadlines are another kind of organizational repair. When people procrastinate,
 
-themselves must downsize; instead they leave the exit to others while they continue
+methods for enforcing deadlines will help them get work done (O’ Donoghue and
 
-to invest.
+Rabin 2001). If firms are able to enforce deadlines better than individuals can, the
 
-The reluctance to downsize might stem from emotional reluctance of executives to fire people (though self-interest surely plays a role), An aversion to firings and
+firm has a cost advantage over individual workers who are self-employed. Deadline
 
-layoffs is an organizational manifestation of loss-aversion. For most managers this
+10 percent of people who can will end up in jobs where it’s required’—such as dealing blackjack,
 
-is a kind of effort in the simple agency model sketched above—an activity which
+Becker’s example, or managing mutual funds.” (Actually, blackjack dealers’ strategies are completely
 
-they dislike doing but which is good for shareholders.
+constrained by casino rules and therefore require no skill at probability judgment.)
 
-One solution to the problem of necessary downsizing is sorting—hire managers
-
-who do not find firing people effortful (like “Chainsaw Al” Dunlop and “Neutron
-
-Jack” Welch). Jensen suggested that the emergence of the leveraged buyout (LBO)
-
-organizational form has been a useful mechanism for downsizing (and other changes
-
-in governance would help too). An important feature of the LBO is that control shifts
-
-to new investors (the LBO partnership), who typically have no emotional attachment
-
-to the firm’s workers. This element of psychological transfer, and willingness to
-
-accept a “loss” from the firm’s previous policy, may be central to the success of this
-
-kind of restructuring. Of course, the LBO form also offers huge financial incentives
-
-to restructure, and to do so rapidly (because of the large debt service burdens). But
-
-maybe these large rewards just reflect how emotionally painful downsizing is for
+269

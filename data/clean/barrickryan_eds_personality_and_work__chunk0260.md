@@ -1,11 +1,11 @@
-# Houghton Mifﬂin.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 5c485fa748717897e0592e27afb7659693d093b0
+title: barrickryan_eds_personality_and_work
+---
+# Hill.
 
-Graziano, W. G., Hair, E. C., & Finch, J. F. (1997). Competitiveness me- diates the link between personality and group performance. Jour- nal of Personality and Social Psychology, 73, 1394–1408.
+Gellatly, I. R. (1996). Conscientiousness and task performance: Test of a cognitive process model. Journal of Applied Psychology, 81, 474–482. George, J. M., & Zhou, J. (2001). When Openness to Experience and Conscientiousness are related to creative behavior: An interactional approach. Journal of Applied Psychology, 86, 513–524.
 
-Harvey, R. J. (1991). Job analysis. In M. D. Dunnette & L. M. Hough (Eds.), Handbook of industrial and organizational psychology (Vol. 2, pp. 71–164). Palo Alto, CA: Consulting Psychologists Press.
-
-Hattrup, K., & Jackson, S. E. (1996). Learning about individual differ- ences by taking situations seriously. In K. R. Murphy (Ed.), Individ- ual differences and behavior in organizations (pp. 507–547). San Francisco: Jossey-Bass.
-
-Hogan, R. (1996). A socioanalytic perspective on the Five-Factor Model. In J. S. Wiggins (Ed.), The Five-Factor Model of personality (pp. 163– 179). New York: Guilford Press.
-
-Hogan, R., & Shelton, D. (1998). A socioanalytic perspective on job per-
+Gibson, J. J. (1979). The ecological approach to visual perception. Boston:

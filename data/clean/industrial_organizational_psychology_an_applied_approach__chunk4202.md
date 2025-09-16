@@ -1,11 +1,27 @@
-## Gilliland, S. W., & Steiner, D. D. (1997). Challenge #6:
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a00f93d2eb9ec746f0986132a2e100e65ed97161
+title: industrial_organizational_psychology_an_applied_approach
+---
+## performance appraisal. Public Personnel Management, 18, 127–137.
 
-Interactional and procedural justice. Paper presented at the 12th annual meeting of the Society for Industrial and Organizational Psychology, St. Louis, MO.
+Gilboa, S., Shirom, A., Fried, Y., & Cooper, C. (2008). A meta- analysis of work demand stressors and job performance: Examining main and moderating eﬀ ects. Personnel Psychology, 61(2), 227–271.
 
-Gilmore, D. C. (1989). Applicant perceptions of simulated
+Gilchrist, J. A., & White, K. D. (1990). Policy development and
 
-behavior description interviews. Journal of Business and Psychology, 3, 279–288.
+satisfaction with merit pay: A ﬁ eld study in a university setting. College Student Journal, 24(3), 249–254.
 
-Gilmore, T. N., Shea, G. P., & Useem, M. (1997). Side eﬀ ects
+Gillet, B., & Schwab, D. P. (1975). Convergent and discriminant validities of corresponding Job Descriptive Index and Minnesota Satisfaction Questionnaire scales. Journal of Applied Psychology, 60, 313–317.
 
-of corporate cultural transformations. Journal of Applied Behavioral Science, 33(2), 174–189.
+Gilliland, S. W. (1993). Th e perceived fairness of selection
+
+systems: An organizational justice perspective. Academy of Management Review, 18, 694–734.
+
+Gilliland, S. W., Groth, M., Baker, R. C., Dew, A. F., Polly, L. M.,
+
+& Langdon, J. C. (2001). Improving applicants’ reactions to rejection letters: An application of fairness theory. Personnel Psychology, 54(3), 669–703.
+
+Gilliland, S. W., & Langdon, J. C. (1998). Creating performance management systems that promote perceptions of
+
+fairness. In Smither, J. W. (Ed.), Performance appraisal: State of the art in practice (pp. 209–243). San Francisco: Jossey-Bass.

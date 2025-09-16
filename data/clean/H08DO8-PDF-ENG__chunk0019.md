@@ -1,7 +1,19 @@
-## thinking, a key skill in any successful transformative team.
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f86d442f0a5f28e0e3092a6eaedeba0e7cc94167
+title: H08DO8-PDF-ENG
+---
+# list and avoids such blatant omissions.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+On the positive side, gen AI presented four important areas that Keith’s
 
-4
+team missed: “technological advancements,” “regulatory changes,”
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“client demand and expectations,” and “funding and investment.” All
+
+of these are pertinent to Trident’s business strategy. So, on Keith’s ﬁrst
+
+question (can AI provide a non-agricultural perspective?), we decided
+
+that gen AI had succeeded. It helped Keith’s team with divergent

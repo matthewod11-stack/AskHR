@@ -1,15 +1,13 @@
-# type.
+---
+source_path: H08QXF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ae5d00e97e4efb1015aada00c8ce01da4dea74f
+title: H08QXF-PDF-ENG
+---
+## Merit Principles Survey, a large-scale and systematic survey of federal
 
-Next, we conducted a series of online experiments to replicate our
+workers. Across over 2,000 employees, our data revealed that reports
 
-eﬀect in a controlled environment. We recruited employed adults and
+made by women were less likely to result in corrective action. This eﬀect
 
-asked them to evaluate diﬀerent reports of abuse. We used artiﬁcial
-
-intelligence to create identical voice recordings that diﬀered only in the
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+held even after accounting for factors like employee rank and abuse

@@ -1,11 +1,17 @@
-## their agility, their great customer service, or their unique cultures. When
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c273cf0d5b014a6013bbd8841e0b9dbed8081a3d
+title: S24021-PDF-ENG
+---
+## the implications—for example, whether their operating systems and
 
-demand slows, pressures to maintain historical growth rates can lead
+processes can scale, how rapid growth might aﬀect corporate culture,
 
-to quick-ﬁx solutions such as costly acquisitions or drastic cuts in R&D,
+whether they can attract the human capital necessary to deliver that
 
-other capabilities, and training. The damage caused by these moves
+growth, and what would happen if demand slows. In the process of
 
-only exacerbates the growth problems.
+chasing growth, companies can easily destroy the things that made
 
-Sustaining proﬁtable growth requires a delicate balance between the
+them successful in the ﬁrst place, such as their capacity for innovation,

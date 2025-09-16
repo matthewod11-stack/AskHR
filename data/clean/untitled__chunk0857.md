@@ -1,3 +1,9 @@
-# Evaluation
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 32be8d7ce1cf7705702fe56429bf085ff8453d92
+title: untitled
+---
+## Conclusion: Relations among the Various Models of the Nature of Intelligence
 
-The complexity of systems models is both a blessing and a curse. It is a blessing because it enables such models to rec- ognize the multiple complex levels of intelligence. It is a curse because the models become more difﬁcult to test. In- deed, one of the most popular models, that of Gardner (1983), was proposed some time ago. But as of when this chapter is being written, there has not been even one empirical test of the model as a whole, scarcely a commendable record for a scientiﬁc theory. This record compares with thousands of predictive empirical tests of psychometric or Piagetian models and probably hundreds of tests of information- processing models. R. J. Sternberg’s (1997) triarchic theory has been predictively empirically tested numerous times (see, e.g., R. J. Sternberg et al., 2000), but because most of these tests have been by members of Sternberg’s research group, the results cannot be considered deﬁnitive at this time.
+interpersonal, intrapersonal, naturalist, and possibly existen- tial and spiritual. R. J. Sternberg (1985, 1988, 1997, 1999b) has proposed a theory of successful intelligence, according to which intelligence can be seen in terms of various kinds of information-processing components combining in differ- ent ways to generate analytical, creative, and practical abil- ities. Ceci (1996) has proposed a bioecological model of intelligence, according to which intelligence is understood in the interaction between the biology of the individual and the ecology in which the individual lives. These theories are described in more detail in “Contemporary Theories of In- telligence” (see Volume 7 of this handbook).

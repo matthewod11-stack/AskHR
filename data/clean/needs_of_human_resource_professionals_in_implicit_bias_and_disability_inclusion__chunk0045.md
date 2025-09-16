@@ -1,5 +1,11 @@
-## 3.2. Disability inclusion policies and practices
+---
+source_path: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion.md
+pages: n/a-n/a
+chunk_id: 1d2d34aa16b98e630fcbaba451cc1c972eeab5d6
+title: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion
+---
+## 3.1. Educational information on implicit and explicit bias
 
-Following the COVID-19 pandemic and the Black Lives Matter movement, employers are pledging to change their hiring practices to promote employment opportunities for minority groups including people with disabilities. the largest minority group in the United States (Centers for Disease Control and Prevention [CDC]. 2023). Many companies adopted formal disability inclusion policies and practices, which leads to a higher representation of people with disabilities in their workforces (Chan et al., 2021). The second focus group theme pointed to the need for information on disability inclusion policies and practices in implicit bias training for HR managers. Participants responses included: “Executive leadership wants to see data, facts, and how it’s going to save them money. They need information on benefits
+The first theme highlighted the impact of stereotypes, prejudice, and discrimination against people with disabilities on community participation and employment opportunities. HR professionals emphasized the importance of instilling educational, research, and intervention information on implicit biases in disability bias training to promote self-awareness that disability biases can affect decisions to interview, hire, retain, and promote people with disabilities in the workplace. Participants’ responses included: “Stereotypes are very real and are limitations and obstacles for people with disabilities. There is a need for education and information on implicit and explicit biases to increase awareness and help us understand a little bit more about people and how they think and where people come from.”
 
-J Vocat Rehabil. Author manuscript; available in PMC 2024 September 16.
+Participants further elaborated on the specific type of information needed to provide education regarding these biases: “We need examples… sharing examples at work where people with disabilities have been discriminated against or not given a chance or those opportunities. It’s that real life of understanding how people make assumptions or jump to conclusions and not even realize their biases.” Participants also indicated training should include: “What works? Why does it work? What to improve? How to improve?”

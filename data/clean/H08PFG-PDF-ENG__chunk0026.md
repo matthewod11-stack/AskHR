@@ -1,17 +1,21 @@
-# meaningful action.
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6c51b45e930083d7910aad290cc4a054bc420c7
+title: H08PFG-PDF-ENG
+---
+## equitable results on his own show and credibility as a fellow journalist
 
-This is what happened when students from randomly selected
+to make the simple pitch: “We’ve found this helpful in our work, so
 
-American middle schools were encouraged to publicly advocate against
+maybe you’ll want to give it a go, too.” Seven years later, more than 750
 
-bullying as part of an anticonﬂict intervention. Reported conﬂicts
+other BBC content creating teams had joined the 50:50 Project.
 
-decreased dramatically, especially when the students who happened
+You may think that one person cannot change the norms of a large
 
-to be part of the intervention were socially inﬂuential. These so-called
+organization. But these examples show that when people start with
 
-“social referents” tended to be closely watched by their peers for cues
+what they can control—their own daily work—and recruit a small
 
-on how to behave, and when they took a stance against conﬂict, their
-
-actions had outsized inﬂuence in shaping other students’ perceptions of
+circle of colleagues to join them, even a single individual can spark

@@ -1,15 +1,23 @@
-## and notice ineﬃciencies in both the software development process and
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1c1a78fc2d4c6f8f24a6d52bb27fe55435c4981
+title: H07P39-PDF-ENG
+---
+## HBR / Digital Article / 6 Ways to Become a More Collaborative Leader
 
-the company’s recruitment strategy. While your passion and drive may
+to which behaviors are rewarded and which aren’t as eﬀective. Watch the most eﬀective leaders in the organization and consider asking
 
-urge you to tackle both issues, overhauling the recruitment strategy might be more complex, requiring collaborative eﬀorts and a broad coalition to address eﬀectively. Fighting the recruitment battle can lead
+them how they might approach a particular situation. Is their approach diﬀerent from yours? When you understand the “rules” of the game,
 
-to frustration, burnout, and an erosion of credibility if changes don’t
+you’ll be in a much better position to play it.
 
-materialize quickly. And most likely, the recruitment team will respond
+Choose your battles.
 
-defensively to your initiative. Instead, focus your energy and resources
+Crusaders tend to advocate for changing big things — things that, to
 
-on streamlining the software development process, an area where you
+their frustration, are complex and require a winning coalition. And
 
-can make a signiﬁcant and meaningful impact given your expertise.
+in some instances, the crusader isn’t the right person to make those
+
+changes. For instance, suppose you’re a manager at a software company

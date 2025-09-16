@@ -1,15 +1,11 @@
-# health challenges.
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 891e838e571f5bb27f40339c591a304fd3800d73
+title: H087G0-PDF-ENG
+---
+## HBR / The Big Idea / How to Weigh the Risks of Disclosing a Disability
 
-A comprehensive ﬂexibility framework that I created suggests aligning
+to develop a strengths-based plan for your work. The plan should be
 
-what people do with their strengths and how they do it with their
-
-health needs and energy levels. Rather than focusing on deﬁcits, this
-
-approach calls for focusing on what people can do (for example, working
-
-on project planning versus attending client meetings, or negotiating
-
-over the phone versus doing it in person). Here’s what comprehensive
-
-ﬂexibility might look like when applied to a dynamic disability such as
+tailored to what you do best and what you can do well regardless of

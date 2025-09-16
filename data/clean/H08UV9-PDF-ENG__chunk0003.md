@@ -1,9 +1,17 @@
-## retirement, change of control, or performance issues—middle-market
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c7028487124f6d9ac69949881d099bd49bf71ce
+title: H08UV9-PDF-ENG
+---
+# Martin Barraud/Getty Images
 
-companies and investors ﬁnd themselves at a serious disadvantage.
+The stakes in C-suite hiring are existential. After all, talent risk is value-
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+creation risk. Nowhere is this truer than in the middle market, where
 
-1
+leadership’s impact is most directly felt and executives are unlikely
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to be supported by layers of management and squads of subject-
+
+matter experts. But when leadership changes are necessary—because of

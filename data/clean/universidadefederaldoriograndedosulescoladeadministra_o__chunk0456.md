@@ -1,3 +1,9 @@
-# 5.3 eNPS VERSUS PESQUISA DE CLIMA
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: e973cd6243f414e0a68fa342b126ad232e31f95a
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# trabalho.
 
-O debate em torno de engajamento e satisfação no trabalho (CHRISTIAN,
+51

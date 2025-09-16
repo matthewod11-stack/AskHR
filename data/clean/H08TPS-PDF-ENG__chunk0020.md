@@ -1,15 +1,25 @@
-## HBR / Digital Article / New Research on How Layoffs Affect the Labor Market
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d13244ced988e60106c56a8a906e25637427ab5c
+title: H08TPS-PDF-ENG
+---
+# workers.
 
-jobs when labor market conditions are poor, companies experiencing
+Our research also has implications for the diﬃcult decisions employers
 
-ﬁnancial strain may want to consider alternative work arrangements
+must make when restructuring their workforce. Advance notice of
 
-before resorting to layoﬀs. For example, recent research suggests that
+workforce cuts, as mandated for mass layoﬀs covered by the WARN
 
-many workers would be willing to accept wage cuts to avoid being laid
+Act or performed by federal agencies, helps maintain a vibrant labor
 
-oﬀ by their employer. These kinds of interventions—which can prevent
+market by giving workers time to ﬁnd new opportunities that ﬁt their
 
-workers from facing total joblessness—may help maintain vibrant labor
+skills and experience. Because workers would seek to avoid looking for
 
-markets while oﬀsetting some of the steep ﬁnancial costs faced by
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

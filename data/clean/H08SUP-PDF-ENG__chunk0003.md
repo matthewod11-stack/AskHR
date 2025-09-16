@@ -1,15 +1,27 @@
-## HBR / Digital Article / Set Your Committees Up for Success
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17dc6956746f28428c858c22fe866491691e8171
+title: H08SUP-PDF-ENG
+---
+# Illustration by Kiki Ljung
 
-experts can fail to share crucial insights. This is because committee
+From investment committees weighing major capital expenditures to
 
-dynamics and unwritten norms can discourage open disclosure, leaving
+R&D stage gate reviews, organizations rely on committees to make
 
-critical information and dissent trapped inside individuals’ heads,
+high-stakes go/no-go decisions. The logic seems sound: Bring together
 
-never making it into the collective discussion. From self-censorship, to
+diverse expertise and viewpoints, and one will identify comprehensive
 
-interpreting silence as agreement, to the suppression of dissent, groups
+solutions to help make high-stakes decisions.
 
-of experts routinely struggle to surface the information needed during
+Yet, while assembling the “right people” in the room is necessary for
 
-discussions to make a sound decision. The result is a graveyard of
+solid decision-making, it is only the ﬁrst step. Even the most qualiﬁed
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

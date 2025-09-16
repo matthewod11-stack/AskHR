@@ -1,13 +1,17 @@
-# an afterthought.
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f2e4a0b20afdb203bf945a9b9d65159477e6859a
+title: H08TM2-PDF-ENG
+---
+## HBR / Digital Article / Leading After Your Predecessor Fails
 
-. . .
+in a day; they can’t be ﬁxed in a day. We both have seen ambitious
 
-Julie and John are just two examples of leaders who successfully
+and well-intentioned leaders expect too much of themselves, being
 
-used these strategies after stepping into roles previously held by failed
+unrealistic with their own capacity. Following a failed leader is hard,
 
-predecessors. However, many others struggle—some remain stuck,
+and the last thing the company needs is for you to fail, too. Self-care is
 
-prolonging their challenges, while others are replaced by frustrated
-
-boards. Worse still, some burn out quickly in what was supposed to be
+a leadership must, scheduled into the overall plan rather than treated as

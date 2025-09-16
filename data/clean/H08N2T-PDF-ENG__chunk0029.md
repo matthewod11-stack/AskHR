@@ -1,7 +1,7 @@
-# Work environment and culture
-
-- A) I thrive in a positive and collaborative team culture, where I can
-
-build relationships and enjoy my daily interactions.
-
-- B) I prioritize working on high-proﬁle projects, even if it means dealing
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd41d019b1517d0021b33dbcd84f0c47cdf772a4
+title: H08N2T-PDF-ENG
+---
+# others.

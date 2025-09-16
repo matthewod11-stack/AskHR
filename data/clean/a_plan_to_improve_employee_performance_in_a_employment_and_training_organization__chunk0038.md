@@ -1,9 +1,7 @@
-# g) referral to training programs.
-
-As a counselor , our job is to determine eligibility , assess suitability and advise
-
-customers for various JTPA programs and services at ETR. As an employee ofETR , my
-
-role is to take the unemployed , those needing employment, those needing training for
-
-employment, and provide services in the form of training and employment opportunities.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: a41684a785aa40a6bace2fc35ac8b061af3b8463
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+## f) individual service strategy development ; and

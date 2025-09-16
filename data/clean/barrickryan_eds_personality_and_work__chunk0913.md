@@ -1,3 +1,11 @@
-# Mediators and Moderators of Personality
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 194580ae5ee5000fdfdede516e5b01baf7f40b2c
+title: barrickryan_eds_personality_and_work
+---
+# RESEARCH THEMES FOR THE FUTURE 331
 
-The second and third themes that emerge across several chapters are that we must account more fully for the mediating inﬂuences of motivational processes and the moderating inﬂuences of situational
+be value in assessing equally speciﬁc personality traits. The same might also be said of other outcomes discussed in this book (affect, counterproductivity, team processes, social relations, and learning in, respectively, Chapters Five through Nine) in that greater speci- ﬁcity in the criterion may warrant greater speciﬁcity in the per- sonality construct. Indeed, Day and Kilduff (in Chapter Eight) eschew the Big Five and focus on the role of self-monitoring in dyadic relations. However, the ﬁeld will be advanced more quickly if there were a widely accepted classiﬁcation scheme for facets of personality available for researchers to use fully.
+
+The importance of studying personality-related phenomena at the appropriate construct level is also illustrated in Chapter Two per- taining to relationships between worker happiness and productivity. Lucas and Diener recommend that researchers who are interested in studying subjective feelings of well-being and happiness focus on one or more of four separable components of happiness at work. The ﬁrst two components are positive affect and negative affect, which refer to a person’s affective well-being. The third and fourth components refer to cognitive judgments about one’s satisfaction with one’s life and satisfaction with one’s job. This distinction is im- portant because a single worker could be simultaneously high on positive affect, average on negative affect, low on life satisfaction, and average on job satisfaction. Lucas and Diener contend, as do several other authors (Barrick, Mitchell, and Stewart in Chapter Three; Johnson in Chapter Four; Cullen and Sackett in Chapter Six; Ford and Oswald in Chapter Nine; and Hough in Chapter Eleven), that challenges in understanding these relationships are increased given the multiple ways that productivity is deﬁned, ranging from objective measures (including worker output, efﬁciency, turnover, and absenteeism) to subjective ratings of performance, potential, counterproductivity, and citizenship. Thus, in order to understand worker happiness, it is critical that the individual difference mea- sure matches the criterion of interest.

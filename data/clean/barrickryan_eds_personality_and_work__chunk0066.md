@@ -1,1 +1,13 @@
-# xvi PREFACE
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 1d01af370f54191bec2e598bf337fb97ab1ce204
+title: barrickryan_eds_personality_and_work
+---
+# Preface
+
+The idea for this book is based on the notion that we all have per- sonalities, and those personalities affect our behavior at work. Today, this proposition is widely accepted by psychologists, man- agers, and employees. For this reason, there is considerable inter- est in the ﬁeld of industrial/organizational (I/O) psychology on the topic of personality and its inﬂuence at work. In fact, it is dif- ﬁcult to pick up a current research journal in human resources, organizational behavior, I/O psychology, or the general area of management without ﬁnding at least one article dealing with per- sonality at work.
+
+Such interest in noncognitive individual differences is a healthy sign that increased knowledge will be gained by bringing together a variety of theoretical perspectives for understanding personality in work settings. It is our belief that a thorough knowledge of per- sonality as it affects organizational processes and outcomes requires addressing several important questions. First, what is personality, and how is it assessed? Second, how does personality affect various outcomes and behaviors? And third, what is the relationship be- tween personality and behavior in speciﬁc work settings? For ex- ample, what is the role of personality in person-organization ﬁt and person-job ﬁt? What are the effects of personality in work teams? In this book, some of the foremost scholars in the ﬁeld address these questions. Across all chapters, the authors present theoreti- cal perspectives, introduce models or frameworks, integrate and synthesize prior studies, and in myriad other ways make proposals that should stimulate future research and practice. We have been delighted with the contributions by the authors of these chapters. We particularly thank them for their thought-provoking work. We believe that these chapters will serve as inﬂuential research-oriented guides to the next wave of research on personality and work.
+
+xv

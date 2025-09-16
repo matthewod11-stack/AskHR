@@ -1,11 +1,13 @@
-## Situation: As a global project manager for a multinational
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 581d87bd051ce2f0e4171997ed161b8058ff1643
+title: H08GNF-PDF-ENG
+---
+# individual experience.
 
-corporation, I lead a cross-functional team of engineers, designers,
+Here’s an example of how unique value can be incorporated into the
 
-and marketers from diverse cultural backgrounds. We were facing
+STAR method to answer the question, “Tell me about a time you had to
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+resolve a conﬂict.”

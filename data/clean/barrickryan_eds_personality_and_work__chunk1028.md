@@ -1,3 +1,9 @@
-# Performance: adaptive, 91, 93, 95;
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: e1dd4f6915ecc078f0adaf5203cb773e7bb0d00f
+title: barrickryan_eds_personality_and_work
+---
+# P
 
-citizenship, 89–91, 93, 94–95, 96; contextual, 89; managerial, 92; task, 89, 93, 94, 96. See also Job performance; Personality- performance link
+Perceived injustice, individual per- ceptions of, and counterproduc- tive workplace behaviors (CWBs), 169–175

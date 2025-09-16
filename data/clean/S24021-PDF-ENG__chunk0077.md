@@ -1,11 +1,19 @@
-## Northeast, South, Midwest, and Canada—a direction decision. And to
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71b4f27e5ffd5af4b5e1cc214f9c83c17e0bbe26
+title: S24021-PDF-ENG
+---
+# and geographic expansion more difficult.
 
-finance growth, it began to sell franchises, a method choice; by 2019, 20%
+For the first eight years of B.good’s existence, it pursued a growth strategy
 
-of its outlets were franchised.
+compatible with its constraints: It opened only eight restaurants, all in
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+the immediate Boston area and all completely company-owned. It had a
 
-14
+cohesive growth strategy aligned with its core value proposition.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+But then the company changed its growth strategy. It began to add outlets
+
+very quickly, a rate decision. By 2019, it operated 69 stores across the

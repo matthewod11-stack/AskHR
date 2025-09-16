@@ -1,19 +1,35 @@
-## online data sources (58% of respondents) such as Glassdoor.com. More
+---
+source_path: H07TEY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 428955e84ef4a7901e8415484500ed09bc5a92bb
+title: H07TEY-PDF-ENG
+---
+# of pay-setting.
 
-recently, payroll service companies have gained popularity (used by
+Employers use salary benchmarking for a wide range of purposes. For
 
-23% of respondents and the fastest growing source), which may give
+instance, 54% of respondents use benchmarking when setting the pay
 
-the best bang for your buck in terms of data quality. Most employers,
+of new hires. Other popular uses include salary negotiations (53%),
 
-however, use a combination of data sources. While the majority look at
+setting ranges for speciﬁc job titles (90%), and setting the salary for a
 
-free online sources, on a scale of 1-5, HR professionals report that other
+job advertisement (41%). Employers also vary in terms of how frequently
 
-sources are twice as trustworthy as free online sources.
+they consult salary benchmarks. For instance, while some employers do
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+benchmarking for every single new hire (37% of respondents), the rest
 
-5
+prefer to do it for some speciﬁc new hires or for some speciﬁc positions.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Our survey data indicates that employers diﬀer in which data sources
+
+they use. The most popular option is to use industry surveys, chosen
+
+by 68% of respondents, but hiring a consulting ﬁrm to conduct these
+
+surveys can be quite expensive, and there is no guarantee that the
+
+survey data will live up to the expectations. If you do not have a big
+
+budget, you may also want to try the second most popular option: free

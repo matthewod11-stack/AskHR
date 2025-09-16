@@ -1,7 +1,19 @@
-## senior executives over several years about their strategy, innovation
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b5c3b0291f678ca53a2381c7a91a87615281d97
+title: H082HH-PDF-ENG
+---
+# opportunities.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The problem lens draws from the common wisdom of Silicon Valley
 
-2
+entrepreneurs to “fall in love with the problem” you are seeking to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+solve, and not the solution you expect will solve it. This could be a problem to solve for the customer (e.g., diﬃculty in placing an order or
+
+in personalizing a product). Or it could be a problem to solve for the business (e.g., high customer attrition, diﬃculty forecasting demand, or
+
+inaccuracy in packing orders).
+
+One company I’ve seen take this approach is Walmart. I’ve interviewed

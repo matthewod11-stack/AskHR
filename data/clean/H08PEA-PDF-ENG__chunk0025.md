@@ -1,15 +1,33 @@
-## Simple adjustments, such as breaks, ﬂexible scheduling, and clearer
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1caeca860ebdc31341f9839cd095a5fc194eed9e
+title: H08PEA-PDF-ENG
+---
+## HBR / Digital Article / Research: When Extra Effort Makes You Worse at Your Job
 
-task prioritization, can help reduce the mental strain of proactivity
+might eventually make it less taxing. In other words, if you continually
 
-while still allowing organizations to beneﬁt from it.
+look for new ways to do things, does it strengthen that ability,
 
-This article was originally published online on May 1, 2025.
+so that proactivity has a weaker impact on cognitive performance?
 
-Mouna El Mansouri is an assistant professor of Organizational Behavior at EDHEC Business School in Lille, France. She earned her MBA from Ecole des Ponts in Paris then her PhD from ESSEC Business School in Paris, and worked for around 8 years in the ﬁnance/banking industry before transitioning to academia. Her research revolves around proactivity, emotions, cognitive functioning, and well-being in the workplace.
+Additionally, future research can explore how long it takes for cognitive
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+performance to bounce back after an especially proactive day. This
 
-6
+might give us better insight about how much proactivity workers can
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+engage in before it starts leading to mental fatigue.
+
+. . .
+
+While proactive behavior is widely seen as essential in today’s complex
+
+work contexts—and with good reason—it is important to consider
+
+its less visible downside. Both individuals and organizations need to
+
+recognize that proactivity may come—at least in the short term—with
+
+cognitive costs that may aﬀect performance by the end of the workday.

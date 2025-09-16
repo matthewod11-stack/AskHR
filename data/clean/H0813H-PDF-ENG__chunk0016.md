@@ -1,35 +1,37 @@
-# HBR / Digital Article / Surveilling Employees Erodes Trust — and Puts Managers in a B…
+---
+source_path: H0813H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 896da1b15e6614c12eabe4d1426ccb79a353c3bb
+title: H0813H-PDF-ENG
+---
+# developmental way.
 
-potential to be used to promote employee well-being, as they also focus
+A survey from Gartner Insights showed that employee acceptance of
 
-on unit- and system-level issues that harm individuals.
+monitoring surges to 70% when companies simply explain the scope
 
-- 2. Train supervisors on how to deliver feedback derived from monitoring in a developmental, non-punitive way.
+and purpose of monitoring. This means implementing these systems
 
-Supervisors should be trained to hold discussions about information
+with signiﬁcant advance warning, respecting privacy boundaries, and
 
-collected through monitoring separately from overall performance
+tracking data that easily translates into developmental tips.
 
-evaluations. This helps separate the developmental message from any
+For example, Microsoft’s Viva Insights collects employee data across
 
-rewards or punishments typically associated with formal evaluations.
+various Microsoft platforms (e.g., Teams, Outlook, etc.) to provide
 
-Discussions based on monitoring data should focus on speciﬁc
+supervisors insights into workﬂow and communication patterns across
 
-behavioral incidents or trends. This allows for feedback delivery using eﬀective frameworks like the Situation-Behavior-Impact (SBI) model.
+entire teams, as well as actionable recommendations for addressing
 
-For example, supervisors should describe the task the employee was
+ineﬃciencies. These types of systems — which emphasize barriers to
 
-working on, the activity observed through the monitoring system, and
+success and strategies for improvement — encourage supervisors to use
 
-the results this activity contributed to at the time and throughout the
+employee monitoring in a developmental way. They also have greater
 
-day. This feedback could include observations of both positive and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-negative behaviors, emphasizing how to improve in each area.
+4
 
-- 3. Highlight the benefits of performance monitoring — and deliver on your promises.
-
-Because monitoring leads employees to believe their manager is “taking
-
-away” desired beneﬁts, such as autonomy, for monitoring to not “blow up” in supervisors’ faces, the organization must oﬀer something in
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

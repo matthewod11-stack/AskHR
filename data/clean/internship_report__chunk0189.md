@@ -1,29 +1,31 @@
-# III.(cid:32) Probation/Trial
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: bd64c701b3a60905a442e78208e890ed3426678a
+title: internship_report
+---
+# II.(cid:32) Placement
 
-Prior to being engaged on a permanent basis, Employees shall undergo a Trial period for one
+After an employee has been hired and oriented and completion his/her orientation & guidance
 
-month or Probationary period not exceeding at least 03 (three) to 06 (Six) calendar months in the
+program, he/she must be placed in his/her right job. Placement is understood as the allocation of
 
-first instance. However, the Trial period may be extended for a further period of up to 03 (three)
+people to jobs. It is the assignment or re-assignment of an employee to a new or different job.
 
-calendar months and Probationary period may be extended for a further period of up to 06 (six)
+Placement includes initial assignment of new employee and promotion, transfer, or demotion of
 
-calendar months at the discretion of the Company. The service may be terminated at any time
+present employee. Placement refers to assigning rank and responsibility to an individual,
 
-during probation/Trial period without any notice or pay in lieu thereof, if performance of
+identifying him with a particular job. If the person adjusts himself to the job and continues to
 
-individual is not satisfactory. On successful completion of the probationary period, the employee
+perform as per expectations, it might mean that the candidate is properly placed. However, if the
 
-shall be given a letter of confirmation. Probationary employment, the employee concerned shall
+candidate is seen to have problems in adjusting himself to the job, the Line Manager must find
 
-be entitled, after settlement of pending accounts if any, to the payment of salary up to and
+out immediately whether the person is properly placed as per the latter‟s aptitude and potential.
 
-including the date of termination of employment and no other claims against the Company or the
+Usually, placement problems arise out of wrong selection or improper placement or both.
 
-employee shall arise out of or during the course of employment except where expressly provided
+HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:50)(cid:48)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
 
-in this Terms and Conditions of Employment and except such claims as may arise under the
-
-provisions of any law for the time being in force.
-
-IV.(cid:32)
+(cid:32) (cid:32) (cid:32) (cid:32)

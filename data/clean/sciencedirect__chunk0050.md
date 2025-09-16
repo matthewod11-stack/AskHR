@@ -1,3 +1,13 @@
-# psychology/. [Accessed 12th Sep 2017].
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: 9b022c0371deffcdd0d74ecc887a3427ac501c24
+title: sciencedirect
+---
+# References
 
-[3] Rousseau, D.M. (1997) “Organizational Behavior in The New Organizational Era.” Annual Review of Psychology 48 (1): 515-546. [4] El-Den, J. (2012) “Applying Positive Psychology To Knowledge Management”, in ECKM 2015 Proceedings of the 16th European
+[1]
+
+Joseph, S., and R. Worsley (2005) “A Positive Psychology of Mental Health: The Person-Centred Perspective.” Person-centred Psychopathology: A Positive Psychology of Mental Health. pp. 348-357.
+
+[2] Seligman, M. (2016). Pursuit of Happiness. Available from: http://www.pursuit-of-happiness.org/history-of-happiness/martin-seligman-

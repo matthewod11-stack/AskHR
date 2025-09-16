@@ -1,11 +1,13 @@
-# text-to-speech synthesis.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 15abe88b421dfd4251de8a9226bd0cfd3c4c48d8
+title: agents_companion
+---
+# In this variation of the hierarchical pattern, responses from specialized agents pass
 
-The Rephraser Agent is specialized in adapting the tone, style, and presentation of responses
+through a central moderation agent before reaching the user. For instance, the Navigation
 
-to match user preferences and context. This agent transforms technical information into
+Agent generates a factual response about a nearby restaurant, which then goes through
 
-conversational language, adjusts response length based on driving conditions and urgency,
-
-personalizes communication style to match user preferences, and formats complex
-
-information for easier comprehension while driving.
+a Rephraser Agent that adjusts the tone and style based on user preferences before

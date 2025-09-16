@@ -1,9 +1,9 @@
-# condition
+---
+source_path: H087G0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9a8da5873b08dac77d372c390f8bc1557607193
+title: H087G0-PDF-ENG
+---
+# During the hiring process:
 
-- Cons: Risks drawing attention away from your strengths and abilities;
-
-risks lowering your chances of getting the position
-
-After getting an offer or being hired, but before beginning work:
-
-- Pros: Possibly provides you with legal recourse if the hiring decision
+- Pros: Gives you an opportunity to address questions about your

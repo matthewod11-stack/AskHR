@@ -1,15 +1,17 @@
-## HBR / Magazine Article / The Conflict-Intelligent Leader
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7dcf8e252b24c91ac1b08c6c95062989eb60887
+title: R2504D-PDF-ENG
+---
+# in an increasingly polarized society.
 
-Management survey of 1,622 U.S. workers showed that 76% had
+It’s perhaps inevitable that in this time of growing discord, conﬂict
 
-witnessed acts of incivility in the past month, with 21% experiencing
+at work would increase too. A recent Society for Human Resource
 
-it personally. Nearly half said they had encountered it weekly, and 13%
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-said they had encountered it daily. Forty-four percent believed incivility
+1
 
-would worsen in 2025, and 26% said they were likely to leave their
-
-jobs because of it. With employee engagement at a low, contentious
-
-interactions at work are estimated to cost businesses more than $2
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

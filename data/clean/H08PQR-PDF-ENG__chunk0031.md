@@ -1,11 +1,29 @@
-## something optional, or worse, as something cold and untrusting.
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7c421608ee4f908597e72260f656a59eac343a1b
+title: H08PQR-PDF-ENG
+---
+# The Turning Point
 
-Proactive policies are the most powerful tools for preserving what
+The Rossi family’s crisis was painful, but it was also clarifying. The
 
-makes family businesses special: unity, purpose, and continuity.
+family hired a family business advisor and began putting the necessary
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+policies in place. They created a family charter, drafted employment
 
-6
+and ownership policies, and agreed that all future marriages involving
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+family shareholders would be accompanied by a prenup.
+
+Today, the business is stronger and so is the family. Roles are clearer.
+
+Expectations are aligned. And when disagreements arise, they’re
+
+handled through process, not personality.
+
+. . .
+
+My message on these issues should be clear: Don’t wait for a crisis
+
+to get clarity. Too many family enterprises treat formal policies as

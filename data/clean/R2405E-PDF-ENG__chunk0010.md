@@ -1,9 +1,23 @@
-## but avoid signiﬁcant early equity investments, an approach that also
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a34a51f973c5c411670990644fe7c5a4595dcf77
+title: R2405E-PDF-ENG
+---
+## from collaborations with entrepreneurial ventures. Two well-known
 
-suits the start-ups because securing a large customer can help them
+examples are the Pﬁzer-BioNTech Covid-19 mRNA vaccine and
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Microsoft-backed OpenAI’s generative AI.
 
-3
+For these partnerships to work, incumbents need to create value for
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the young companies—by, say, helping them test their inventions
+
+or giving them access to their clients—and reserve the right to a
+
+stake in any success. For instance, large ﬁrms might ask start-ups
+
+to agree to become suppliers or secure the right of ﬁrst refusal on
+
+investments. Smart incumbents typically pay start-ups for their services

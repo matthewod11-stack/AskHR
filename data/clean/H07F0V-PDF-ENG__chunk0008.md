@@ -1,15 +1,19 @@
-# perhaps the orthodontist bill, too.
+---
+source_path: H07F0V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 285ffb9934b2b775095088679005b635018081db
+title: H07F0V-PDF-ENG
+---
+## HBR / Digital Article / How to Talk to Your Kids About Layoffs
 
-Layoﬀs, we must remember, are a family aﬀair. And facing the painful
+If this is you, you’re probably worried about a lot of things: your
 
-reality of job loss as a family is necessary. This doesn’t mean your four-
+mortgage or rent, grocery bills, and a job hunt, among other things. And
 
-year-old needs to know the details of your household budget, or that
+the stress only compounds when we realize this impacts not just our
 
-your pre-teen needs to worry about transferring to a new (unknown)
+own life but also each member of our family. The stakes are particularly
 
-school. But it does mean approaching conversations, and any problems
+high when it comes to your kids. How will your layoﬀ impact them? You
 
-you have, in a clear and age-appropriate manner. Here are seven things
-
-you can do to help your family weather a job loss together.
+might suddenly be worried about paying for soccer registration—and

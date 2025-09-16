@@ -1,7 +1,21 @@
-# them independently, for example:
+---
+source_path: H08S5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4f0d3bc799cc9600a8fe45ddc702c146535e361
+title: H08S5Y-PDF-ENG
+---
+# account three months from now.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- 3. Evolving from oversight to scalable systems
 
-4
+Since you’re overseeing more people and projects, the volume of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+information coming at you may double or triple. Without proper
+
+mechanisms in place, you may drown in details or miss critical issues
+
+entirely. So identify three to ﬁve priorities or risks you must stay closest
+
+to, such as revenue targets or client retention. Then establish clear
+
+guardrails for when your managers should escalate issues versus handle

@@ -1,23 +1,29 @@
-# Rebitzer, J. 2002. Monitoring, motivation and management: the determinants of opportunistic
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: ea9f00eb90b974f73113bbbb9bc4aa8b00d65911
+title: beo_chap7_1
+---
+## Ashenfelter and D. Card), Volume 3B, Chapter 38. Amsterdam: North-Holland.
 
-behavior in a field experiment. American Economic Review 92:840-64.
+Myers, S., and N. Majluf. 1984. Corporate financing and investment decisions when firms
 
-Roll, R. 1986. The hubris hypothesis of corporate takeovers. Journal of Business 59:197-217.
+have information that investors do not have. Journal of Financial Economics 13:187~221.
 
-Roy, D. 1952. Quota restriction and goldbricking in a machine shop. American Journal of
+Nisbett, R. E. 2004. The Geography of Thought: How Asians and Westerners Think Differ-
 
-Sociology 57:427-42.
+ently... and Why. New York: Free Press.
 
-Salanié, B. 2003. Testing contract theory. CESifo Economic Studies 49:461-77.
+O’Donoghue, T. D., and M. Rabin. 2001. Choice and procrastination. Quarterly Journal of
 
-Scharfstein, D. S., and J. C. Stein. 2000. The dark side of internal capital markets: divisional
+Economics 116:121-60.
 
-rent seeking and inefficient investment. Journal of Finance 55:2537-65.
+Oyer, P., and S. Schaefer. 2005. Why do some firms give stock options to all employees? An
 
-Schein, E. H. 1983. The role of the founder in creating organizational culture. Organizational
+empirical examination of alternative theories. Journal of Financial Economics 76:99-133.
 
-Dynamics 12:13-28.
+. 1998. Psychology and economics. Journal of Economic Literature 36:11-46.
 
-Schelling, Th. 1960. The Strategy of Conflict. Harvard University Press.
+Radner, R., and T. Van Zandt. 2001. Real-time decentralized information processing and
 
-279
+returns to scale. Econamic Theory 17:545-75.

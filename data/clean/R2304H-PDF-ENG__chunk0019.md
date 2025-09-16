@@ -1,15 +1,19 @@
-## authentic and original.” The private health insurance company DKV
+---
+source_path: R2304H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e1c7e0a7ecfa4d169ca187b82c304827f76cdd79
+title: R2304H-PDF-ENG
+---
+## guards at many customers across Latin America.
 
-employs only people with disabilities in its DKV Integralia call center
+HBR commissioned the team from La Casa de Carlota, Barcelona, to create the illustrations for this article. The group’s work process begins with chaotic brainstorming among creatives with intellectual disabilities, design professionals, illustrators, and design school students. Little by little illustrations emerge that blend artfully with one another.
 
-because it found that satisfaction was much higher among customers
+Examples abound of companies around the globe seeking out people
 
-helped by employees with disabilities—even though the callers didn’t
+with disabilities for speciﬁc tasks. In Spain, for instance, the design
 
-know they were talking with disabled people. The center’s general
+studio La Casa de Carlota puts people with intellectual disabilities, such
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+as Down syndrome, and with autism on all its project teams because, as
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+its creative director says, “these guys create details that are completely

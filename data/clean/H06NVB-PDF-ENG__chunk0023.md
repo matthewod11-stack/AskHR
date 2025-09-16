@@ -1,21 +1,33 @@
-# with me:
+---
+source_path: H06NVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af905140bc49191ebff2b910b1b408e4aee8c4a7
+title: H06NVB-PDF-ENG
+---
+# their own experiences (good and bad).
 
-“Culturally, I think we have an expectation that an innate
+Also take advantage of virtual and hands-on opportunities to build
 
-motherhood gene will activate the minute we birth our babies. That
+confidence and skills. There is no better way to understand your new
 
-we will magically know how to handle parenthood and also enjoy
+roles, learn best practices, and most importantly, the clip of new
 
-every stage of it. It’s wildly untrue, and can cause a lot of self-doubt
+parenting. The help is not only for you to learn skills such as how to
 
-and self-loathing. We all learn as we go, and your matrescence
+swaddle or bathe, but also in offering perspective and kindness to
 
-journey is uniquely personal based on your personality, preferences,
+yourself. Those who have already been there know this and will nurture
 
-life circumstances, and support systems.”
+you as you nurture your baby.
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+Embrace who you are. “Some women simply are not great newborn
 
-5
+mothers,” says Smith. Others find motherhood to be a new calling and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+start rethinking their careers during leave. Still others don’t really hit
+
+their stride as parents until their kids reach the school years. All of these
+
+experiences are normal. Mandy Major, a doula and the founder and CEO
+
+of postpartum care provider Major Care, shared her wise perspective

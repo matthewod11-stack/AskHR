@@ -1,7 +1,9 @@
-# challenges eﬀectively.
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c68433cbc83ba34f3c05909fbb99a49ba3bc5bdb
+title: H087XL-PDF-ENG
+---
+## HBR / Digital Article / Why Employees Who Work Across Silos Get Burned Out
 
-Therefore, it becomes crucial not only to acknowledge people’s
-
-roles in cross-silo collaboration formally, but also to equip and prepare them with suﬃcient organizational resources. These resources
-
-include essential technological tools for collaboration and, perhaps
+without necessarily receiving additional support to manage these

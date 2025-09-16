@@ -1,3 +1,11 @@
-# Conclusions
+---
+source_path: microsoft_word_5_docx.md
+pages: n/a-n/a
+chunk_id: 4d992dcfdd6431b75629b7de8f0b0b3be0f5ac90
+title: microsoft_word_5_docx
+---
+## Table 2: Difference in managerial styles (Celma, 2004)
 
-The leader of a sports institution knows how to use all the resources he has at hand. He not only administers and controls, but develops and innovates. In the face of the economic crisis, many sports institutions have been able to keep their doors open as a result of a different managerial style. The desired quality a sports institution achieves is a product of the new role the leader has assumed, sports marketing, and above all, the day to day reality of greater cooperation and sense of purpose the institution now experiences.
+Managerial Styles Administers Maintains Gives orders to a group Carrys out technical tasks Controls Structured and rigid Methodological Analytical
+
+Directs, leads Creates, transforms Leads a team Brings about change Innovates Flexible and imaginative Delegative Visionary

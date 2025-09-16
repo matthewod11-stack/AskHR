@@ -1,25 +1,33 @@
-# An Internal Committee Scores
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 151f93940f8dbd4f3ec914244c657facc8eff646
+title: H08GJ6-PDF-ENG
+---
+# An Internal Committee Votes
 
-If you work for a smaller ﬁrm with a strong focus, you are probably
+Many projects show merit on at least some dimension, so discerning
 
-looking at a bunch of comparable projects. Handset maker Sony
+their overall comparative worth is key to eﬀective prioritization. This
 
-Ericsson, for example, each year evaluated about 20 to 30 proposals
+is where voting, which is believed to be the most commonly practiced method, falls short. Tallying yes/no votes often fails to provide suﬃcient
 
-for new phones of various shapes and functionality, and funded many
+gradation, requiring arbitrary tie breaks. So if your budget permits a few
 
-of them. Their core portfolio management team consisted of ﬁve
+projects only, make it go further by adopting a method such as ranking
 
-experienced decision makers. In such situations, you may well opt for
+that our research shows as identifying the top candidates more reliably.
 
-a scoring approach. For example, ask everyone to allocate points for
+With a bigger budget, scoring is an alternative.
 
-projects’ commercial attractiveness. Then tally the points and proceed
+Voting is advisable only with large crowds. Open-science platform
 
-with the projects that garnered most.
+EteRNA, for example, pools the assessments of hundreds of scientists,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+in order to select the most promising protein molecules for further
 
-4
+study. Local governments running participative budgeting platforms
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+may similarly adopt the approach. With very large sets of decision
+
+makers, voting’s ability to discriminate improves.

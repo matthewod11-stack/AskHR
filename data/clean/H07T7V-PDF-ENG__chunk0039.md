@@ -1,13 +1,11 @@
-# own the code.”
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3af86eb1c07691f16da109303895cafa432138e
+title: H07T7V-PDF-ENG
+---
+# the world.
 
-And what he meant by that was you can’t be the gatekeeper. You can’t
+One of the brilliant things he did was say, “Look, you cannot own a
 
-say yes or no to other groups who might want to use it. With that one
-
-simple move, he said to the company, “Look, if the AI group wants
-
-to go grab all of the GitHub code to train up a model to help provide
-
-assistance to programmers, you don’t have to ask permission. Just go do
-
-that, subject to all the right constraints and safeties on it.” Man, that is
+digital resource inside Microsoft. You cannot own the data. You cannot

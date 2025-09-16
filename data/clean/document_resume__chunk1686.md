@@ -1,11 +1,9 @@
-# Almost Never
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4de54f7810d67619146b2edb715b0f2866e91da7
+title: document_resume
+---
+# Almost Always
 
-1
-
-2
-
-3
-
-4
-
-5
+Conducts clinical conferences to promote personal student-faculty relationships.

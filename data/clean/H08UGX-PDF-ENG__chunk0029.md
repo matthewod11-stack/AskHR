@@ -1,23 +1,19 @@
-# more than a dozen tweets.
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a879c417f61ad35373c2193096574c474b68da90
+title: H08UGX-PDF-ENG
+---
+# HBR / Digital Article / Why Leaders Should Bring Their Best Self—Not Their Whole Self…
 
-- 4. Protect your personal life. Executives are not obligated to be “on” 24/7. Protect your oﬀ-hours, avoid oversharing online, and model work-life boundaries that others
+- 3. Model values, don’t perform them.
 
-can emulate.
+Skip the performative LinkedIn posts. Digital virtue signaling may get
 
-- 5. Choose empathy over ego.
+lots of likes and shares, but it is a meaningless strategy for improving
 
-Great leaders make others feel seen. That means listening more than
+your business performance and risks backﬁring unless you have the
 
-talking, asking more than telling, and holding space for perspectives that diﬀer from your own. This aligns with the powerful science of
+actions and facts to back it up. Instead, let people infer your values from
 
-listening at work, especially for leaders.
-
-The Job Isn’t to Be Yourself. It’s to Be Useful.
-
-Leadership is a role, not a right. It demands discipline, foresight, and
-
-the humility to recognize that your feelings are not the organization’s
-
-moral compass. In an age that gloriﬁes mindless authenticity, the most responsible leaders are those who spend a great deal of eﬀort and
-
-attention on harnessing a positive professional reputation—one that is
+how you behave. A consistent record of ethical decision-making says

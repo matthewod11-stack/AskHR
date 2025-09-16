@@ -1,25 +1,19 @@
-## negative impact on the dynamics of the wider team as well.
+---
+source_path: H08HUR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f0c0b49d81d7fd4c4f82fa379a88b346588b462
+title: H08HUR-PDF-ENG
+---
+## HBR / Digital Article / 10 Signs of a Toxic Boss — and How to Protect Yourself
 
-- 4. Increased employee turnover
+- 2. Undermined trust
 
-A toxic boss will not only aﬀect your conﬁdence, they will also decrease
+Trust is critical for employee wellbeing, yet the behavior of toxic bosses
 
-your job satisfaction and motivate you to look for another job.
+will erode the trust that you have in them.
 
-- 5. Increased risk of serious illness
+- 3. Low morale
 
-Numerous studies have found a link between toxic bosses and serious
+When morale and conﬁdence are low it can undermine your feeling
 
-health issues such as depression, high blood pressure, PTSD, anxiety,
-
-and even premature aging.
-
-- 6. Burnout
-
-The expectations of toxic bosses around work-life balance are
-
-demanding. They don’t recognize or appreciate your eﬀorts or
-
-achievements, and they tend to provide inadequate support for you to
-
-succeed. All of this can lead to burnout.
+of self-worth, lead to a deterioration in your performance, and have a

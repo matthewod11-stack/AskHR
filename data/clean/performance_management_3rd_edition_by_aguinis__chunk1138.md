@@ -1,5 +1,7 @@
-# E
-
-- 2. Stewardship
-
-Implements a process or takes some action that significantly reduces risk on campus (e.g., making information for decision making more accessible, reliable, consistent, and secure; sup- porting continuity planning or emergency preparedness; etc.).
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 5ab7634a060d6a2b0202bc698cb62254fa94a7cd
+title: performance_management_3rd_edition_by_aguinis
+---
+# EE

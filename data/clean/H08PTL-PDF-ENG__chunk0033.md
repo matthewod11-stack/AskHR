@@ -1,19 +1,13 @@
-## key strategic roles and power-conduit tasks, as well as fencing AI
+---
+source_path: H08PTL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b77f01967ba5fc0917c2e6eb301d11be83cb79f9
+title: H08PTL-PDF-ENG
+---
+# leadership inﬂuence.
 
-involvement, board chairs can strike a balance between technological
+. . .
 
-advancement and eﬀective governance. The goal should not be to resist
+AI should be implemented thoughtfully to enhance rather than
 
-AI but to integrate it in a way that preserves leadership inﬂuence and
-
-strengthens the board chair’s strategic objectives. With careful planning
-
-and oversight, AI can be a powerful ally in governance—one that
-
-supports, rather than supplants, the individuals entrusted with leading
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+diminish the strategic inﬂuence of board chairs. By identifying

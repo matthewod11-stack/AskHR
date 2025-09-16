@@ -1,13 +1,27 @@
-# 32
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 051591b52101985e814f149a2a65bab525e98d6f
+title: file_1
+---
+# 3.2. The Gender Equality Barometer
 
-- Securing the family’s financial security is now seen more as a responsibility to be shared by the parents than it previously was.
+In Finland, the Ministry of Social Affairs and Health is in charge of gender equality. The Ministry prepares legislation, monitors the situation of gender equality nationwide, coordinates the development of activities on gender equality, and promotes the implementation of the objectives of the government's equality policy5. Since 1998, every four years the Ministry, together with Statistics Finland, has conducted and published the Equality Barometer. A Barometer observes the state of gender equality in Finland and examines men’s and women’s opinions and attitudes concerning it.
 
-- The main responsibility for most domestic tasks continues to lie with the mother, and the majority of women still feel they have too much responsibility for the work done at home.
+One of the main aims of the thesis is to examine how individuals with different backgrounds and employees from different workplaces perceive gender inequality. More specifically, some of the objectives of the thesis are to analyze whether, and to what extent, individuals and employees perceive gender inequality to exist in their own workplaces and in society, and to identify factors that explain individuals’ and employees’ perceptions of gender inequality in their own workplace and in society. The Finnish Gender Equality Barometer thus perfectly matches the above-mentioned aims and objectives of the thesis.
 
-- Both women and men consider that fathers should be more involved than now in the care and upbringing of their children. Workplaces may still regard the use of statutory family leaves as the right of women rather than men.
+I was granted an opportunity to use the data of the Finnish Gender Equality Barometer 2008 (2008 Barometer6) for the purpose of conducting my doctoral dissertation and publishing articles in academic journals. The description of this data set and the summary of the previous Barometers are presented below.
 
-Two papers of this thesis apply data of the Gender Equality Barometer 2008, which started with questions about general opinions and attitudes that affect the whole of society and moves on to the respondents’ own experiences and attitudes towards equality in their workplace or study environment. Furthermore, the reconciliation of work and family and personal experiences of the division of work and decision-making were the topics of questions. Finally, the experiences of improper treatment and sexual harassment were examined.
+A key perspective in all the Barometers is the examination of changes that have taken place during the past decade in Finland (Nieminen, 2009). Based on the summary of the Barometers (Nieminen, 2009), I would like to highlight the following result of the Barometers among others:
 
-The data for the 2008 Barometer were collected through telephone interviews conducted from January until March of 2008. One of the main advantages of telephone interviews is the absence of the interviewer which may reduce the impact on the way the respondent answers (Webster, 1997).
+- Neither women nor men view the position of women and women in society as equal.
 
-The 2008 Barometer was conducted with a representative sample of the Finnish population, which consisted of approximately 2,500 individuals of a larger population aged 15-74. The response rate was very high: 64%. The 2008 Barometer distinguished three essential types of population: full and part-time employees, full and part-time entrepreneurs or self-employed persons, and full-time students. The final sample size for the first paper was 610/606 employees (perceptions of societal gender inequality/perceptions of workplace gender inequality). The final sample size for the second thesis paper was 1583 individuals (perceptions of overall gender inequality).
+- While the majority of wage and salary earners find that gender equality at work is realized well or fairly well, women still experience their gender as much more of a disadvantage at work than men do (mostly visible in questions related to pay, recognition of professional skill, and career advancement).
+
+Increased experience of gender related disadvantages at work and increased sexual harassment among highly educated women.
+
+The father’s role in the family has strengthened.
+
+- Both women and men feel they can influence decisions made within their family.
+
+5 Further information available at: http://www.stm.fi/en/gender_equality 6Publication and questionnaire of Gender Equality Barometer 2008 are openly accessible at: http://www.stm.fi/c/document_library/get_file?folderId=39503&name=DLFE-8321.pdf

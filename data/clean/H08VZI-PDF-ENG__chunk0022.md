@@ -1,23 +1,29 @@
-## HBR / Digital Article / The Secret to Building a High-Performing Team
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 836ccc36baf563dca86c07fd30518498e8d5cd1b
+title: H08VZI-PDF-ENG
+---
+## relationships and the culture of the team.
 
-for everyone and gets in the way of the team being able to explore
+In these environments, there is less avoidance than in a family culture.
 
-disagreements or talk through tensions together. These managers often
+It’s more common for people to attempt hard things, which does take
 
-hold a belief that the only way to get results is by pushing their people to
+courage—but that courage is unskillful or even cutthroat. Managers, for
 
-do more, creating impossible targets and unreasonable timelines (often
+example, do not hold back on pointing out inconvenient truths or giving
 
-driven by pressure they feel from above).
+feedback, but because of a lack of skill and connection with others,
 
-In a transactional culture, short-term results can be achieved, but they
+a lack of interest in how their delivery aﬀects employees, or because
 
-are generally not sustainable because, over time, team members feel
+their focus is on short-term results, they can be perceived as harsh and
 
-less of a sense of belonging and an emotional commitment. They start
+unyielding. In our terminology, they “make a mess.” That sets the tone
 
-to check out, burn out, stop giving discretionary eﬀort, and are less open
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to putting themselves on the line to take risks. They also, relatedly, have
+6
 
-an increased intention to leave.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

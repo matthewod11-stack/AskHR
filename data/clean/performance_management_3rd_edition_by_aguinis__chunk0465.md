@@ -1,5 +1,11 @@
-## 3.2 PROCESS OF LINKING PERFORMANCE MANAGEMENT TO THE STRATEGIC PLAN
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a53de3779079dfd7d334dc16d861314d629a8eba
+title: performance_management_3rd_edition_by_aguinis
+---
+## Allows for the consideration of new options and opportunities
 
-The mere presence of a strategic plan does not guarantee that this information will be used effectively as part of the performance management system. In fact, countless organizations spend thousands of hours creating strategic plans that lead to no tangible actions. Many organizations spend too much time and effort crafting their mission and vision statements without undertaking any concrete follow-up actions. The process then ends up being a huge waste of time and a source of frustration and long-lasting cynicism. For example, consider a recent study including more than 350 individuals in firms in India in the following eight sectors: textiles, staple fiber, chemicals, cement, insulators, aluminum, mining, and services. Examples of companies included in this study are Grasim Cement, Jayashree Textiles, Birla NGK Insulators, Essel Mining Industries, and INDAL (Indian Aluminum Industries). Results indicated that although there was a good strategic planning process in place in most firms, there was no clear relationship between firm-level and individual-level goals.2 Thus, to ensure that strat- egy cascades down the organization and leads to concrete actions, a conscious effort must be made to link the strategic plan with individual performance.
+Provides employees with information to direct daily activities
 
-Figure 3.1 provides a useful framework for understanding the relationship among an organization’s strategic plan, a unit’s strategic plan, job descriptions, and individual and team performance. The organization’s strategic plan includes a mission statement and a vision statement as well as goals and strategies that will allow for the fulfillment of the mission and vision. The strategies are created with the participation of managers at all
+In turn, the improved allocation of resources is likely to stimulate growth and improve profitability. Fifth, strategic planning can produce a culture of cooperation within the organization given that a common set of goals is created. Such a culture of cooperation can gain organizations a key competitive advantage. Sixth, strategic planning can be a good corporate eye-opener because it generates new options and opportunities to be considered. New opportunities to be considered may include expanding to new markets or offering new products. Finally, strategic planning can be a powerful tool to guide employees’ daily activities because it identifies the behaviors and results that really matter. Astrategic plan provides critical information to be used in the performance man- agement system. To summarize, Table 3.1 lists key purposes of a strategic plan.

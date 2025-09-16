@@ -1,23 +1,21 @@
-# stage.
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f3facee110f3082ed513523d9cae9e2ca2ce4f3
+title: R2501K-PDF-ENG
+---
+## conditions, Daniel Kahneman, the pioneering behavioral economist and
 
-Astro Teller, who leads Alphabet’s “moon shot” division, illustrates this
+psychologist, recommended “delaying” one’s intuitive response to a
 
-problem with a funny question: If your end goal is to have a monkey
+question by breaking the decision down into smaller parts. Slicing is
 
-standing on a pedestal reciting Shakespeare, do you start by building
+that art. It may seem counterintuitive to managers who are accustomed
 
-the stand or teaching the animal how to talk? The answer, of course,
+to starting with “low-hanging fruit” to ensure quick, low-cost gains.
 
-is to tackle the most challenging part of the project ﬁrst to see if it’s
+But in the early stages of most initiatives, there are so many areas
 
-doable before you invest any time or resources in the easier part. That’s
+of unpredictability that forging ahead without ﬁrst slicing into the
 
-why Kirsten evaluated the behavior of partners, drivers, and customers
-
-before she designed and ordered thousands of branded T-shirts; why
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+murkiest parts of the project often results in costly changes at a later

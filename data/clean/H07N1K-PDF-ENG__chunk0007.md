@@ -1,7 +1,7 @@
-## On May 11, the U.S. Covid-19 Public Health Emergency oﬃcially
-
-expires. But if you’re like most of the working parents in my coaching
-
-practice, what hasn’t yet expired are many of the perspectives and day-
-
-to-day practices that got you through the pandemic.
+---
+source_path: H07N1K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fcb823790f1ba4fd0a99de13d1f782c74a4c787f
+title: H07N1K-PDF-ENG
+---
+# Images By Tang Ming Tung/Getty Images

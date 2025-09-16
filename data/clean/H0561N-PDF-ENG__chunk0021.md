@@ -1,17 +1,11 @@
-## countries on economic opportunity and political empowerment.
+---
+source_path: H0561N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1854549224c2c0ff11b677a699b47ec2218168a
+title: H0561N-PDF-ENG
+---
+## the dispersion of countries along each of the four measures, you can
 
-It’s worth noting the United States is on the low end when it comes to
+see where various nations land. Educational attainment and health are
 
-political empowerment, ranking 98th. Iceland leads on this particular
-
-measure, though even it has seen a slight decrease in the number of
-
-women legislators since 2017. Nicaragua, which ranks second, currently
-
-has the most parity between men and women in government.
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+considerably more clustered, while there is wider disparity between

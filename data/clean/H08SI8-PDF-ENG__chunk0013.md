@@ -1,7 +1,23 @@
-# retail.
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a07e12065078b0744d47539906d60822ee982955
+title: H08SI8-PDF-ENG
+---
+# IKEA
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+When the pandemic started, IKEA Retail’s then-chief digital oﬃcer
 
-4
+Barbara Martin Coppola, a tech industry veteran, had already spent
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+nearly two years working to rewire the iconic retailer. The sudden
+
+closure of stores, however, prompted a rapid acceleration of those
+
+eﬀorts. Making the legacy retailer into a truly digital company required
+
+redesigning supply chains, inventory management, logistics, and
+
+fulﬁllment, but it also meant reconceiving the customer experience in
+
+subtle ways that broke down distinctions between digital and physical

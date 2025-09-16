@@ -1,33 +1,33 @@
-# and environmental priorities.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0c8396cd332a8026eb94c90178b26d6e4720a45
+title: H07ZZW-PDF-ENG
+---
+## A New Speech Culture for a Vocal, Polarized World
 
-First, they speak out on these issues as a form of stealth public relations
+To proceed with integrity on matters of corporate and employee speech,
 
-— they project their ambition along a huge range of topics in an eﬀort
+you must create a culture that’s attuned to the social challenges we
 
-to appease stakeholders in the short term. Making a public statement is
+face today, and you must be realistic about how your company can (or
 
-often a way to compensate for, or distract from, a lack of meaningful
+cannot) address them. This goes beyond deciding who can say what,
 
-action, and it is increasingly the norm. For instance, the Carbon
+when. It involves designing an organization where regular discussions
 
-Disclosure Project recently reviewed 4,100 corporate commitments on
+among all employees about social priorities is anticipated; where ethical
 
-climate change and found that fewer than 100 were credible.
+concerns are part of day-to-day work; where politics are considered
 
-Second, organizations are reluctant to set tight priorities. So they end
+a healthy part of discourse; and where everyone is attuned to how
 
-up with a laundry list of goals and aspirations that fails to distinguish
+corporate choices impact human beings. Without this foundation, the
 
-among risks, opportunities, and negative impacts that require ethical
+decisions you make as a leader about when to speak — or when not to —
 
-guardrails. When corporations suggest that they can address every
+will ring hollow.
 
-relevant issue, they overpromise and underdeliver, fueling impatience
+Involve employees in setting realistic priorities. Companies tend to
 
-and diminishing trust.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+make three big mistakes when setting and publicizing societal, political,

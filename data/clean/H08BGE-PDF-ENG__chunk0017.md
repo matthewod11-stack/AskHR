@@ -1,19 +1,21 @@
-## HBR / Digital Article / How Biases About Motherhood Impact All Women at Work
+---
+source_path: H08BGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ea961c3d52a082f5d01a5b7d0a1ab031b8e8849
+title: H08BGE-PDF-ENG
+---
+# a family (also bad).
 
-Whether women have children or don’t have children, want children
+Black women are often subject to these opposing expectations. “Either
 
-or don’t want children, they are perceived as less worthy of positions,
+we have children too early, or we choose to have them too late if we
 
-promotions, and earnings than their male colleagues. As noted in legal
+put our careers ﬁrst,” as anthropologist Khiara Bridges observed in an
 
-scholar Joan C. William’s book Unbending Gender, “The impact of
+article in Harpar’s Bazaar.
 
-motherhood shadows every woman, narrowing her options. Even those
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-without children may be harmed.” Yet if we keep marginalizing women
+4
 
-at work — no matter their parental status — we all lose out. Innovation
-
-requires a diversity of ideas and perspectives. As a World Economic
-
-Forum study found, companies with above-average diversity reported
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

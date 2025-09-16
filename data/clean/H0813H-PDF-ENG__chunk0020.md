@@ -1,7 +1,9 @@
-## greater knowledge of how their work contributes to higher-level unit
+---
+source_path: H0813H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6150d2ddd0c8240e5fe0b38ecf15f38a942afd88
+title: H0813H-PDF-ENG
+---
+# HBR / Digital Article / Surveilling Employees Erodes Trust — and Puts Managers in a B…
 
-success, supervisors may be able to grant greater authority over their performance goal-setting. Each employee will have diﬀerent views on
-
-what they value, but it’s incumbent upon organizations to consider ways
-
-they can compensate for employees’ lost autonomy.
+Additionally, since employee monitoring can empower employees with

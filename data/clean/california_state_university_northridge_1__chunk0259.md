@@ -1,7 +1,9 @@
-# Workforce, www.searchbank.com.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: b0e699686663bdbab26d6aada8b8ed2f3161c51e
+title: california_state_university_northridge_1
+---
+# p.101-103. www.searchbank.com.
 
-Zachary, M. (1998). EEOC issues guidance on retaliation. (Equal Employment
-
-Opportunity Commission) (Labor Law for Supervisors). Supervision, p. 21-24. www.searchbank.com.
-
-88
+When is an independent contractor actually an employee? (1997, September).

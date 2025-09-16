@@ -1,45 +1,29 @@
-## onto some two-dimensional or multidimensional space (Cameron and Quinn 1999).
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 524a837ae27e54728245a9c2d6587c3bc70f5cc0
+title: beo_chap7_1
+---
+# BEHAVIORAL ECONOMICS OF ORGANIZATIONS
 
-These studies are not statistically sophisticated and typically treat the whole corpo-
+The idea that culture is a set of principles for generating focal points in specific
 
-ration as one culture, ignoring subcultures. Other studies focus on a dimension of
+microgames played by workers and managers is not so different from the way orga-
 
-culture, like “strength,” and explore its relation to profitability or profit variation (see
+nization theories describe culture. For example, Schein (1983) defines culture as
 
-Kotter and Heskett 1992; Sgrensen 2002). Still other studies establish the existence
+“the basic assumptions and beliefs that are shared by members of an organization.”
 
-of distinct workplace culture (called “climate” by organizational researchers) and
+He later notes that these “assumptions and beliefs are learned responses to a group’s
 
-study its consequences for phenomena like turnover (Bartel et al. 2003; Rebitzer
+problems of survival in its external environment and its problems of internal inte- gration.”5 Shared understanding reduces conflict and, if the culture is visible to
 
-2002).
+outsiders, also encourages efficient assortative matching between workers’ attitudes
 
-The lack of a sharp formal framework and clean empirical identification has cer-
+and the attitudes a firm requires.
 
-tainly held back organizational economists interested in culture but progress is being
+As important as culture appears to be, it has not been studied very carefully
 
-made (see, for example, Hermalin 2001). There is a small emerging literature on
+empirically. The biggest obstacle is the lack of empirical measures and exogenous
 
-“codes”-—-the language workers use to describe events. Codes have efficiency prop-
-
-erties, depend on shared understanding, and can be difficult to change and imitate,
-
-like other facets of culture (e.g., corporate values). Crémer et al. (2003) assume
-
-that codes are coarse partitions of a large space of events. Coarse partitions are
-
-adequate because workers need not communicate exactly which event has occurred.
-
-Wernerfelt (2004) offers a similar model.
-
-Codes have been studied experimentally by using a picture-naming paradigm. In
-
-these experiments, agents see pictures on a screen. A “manager” must figure out a
-
-code to identify predetermined target pictures to workers. Payoffs depend on how
-
-rapidly the target pictures can be named without errors. Codes develop rapidly:
-
-subjects typically use about 120 characters to describe four picture at first (that is
-
-the length of this sentence so far), but use only about five characters per picture after
+variation. One stream of literature uses psychometric scales to map organizations

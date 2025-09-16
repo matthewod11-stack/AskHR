@@ -1,7 +1,13 @@
-## HBR / Digital Article / 3 Ways to Mitigate Executive Turnover
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b84e479c5fd7570bfb6c2889eefbb795292f159
+title: H08TM9-PDF-ENG
+---
+## performance. An October 2024 Gartner survey of 200 C-suite executives
 
-found that companies where executives have an average tenure of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-ﬁve years or more outperformed on revenue, customer experience,
+1
 
-and other key metrics, as compared to companies with less tenured
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

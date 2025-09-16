@@ -1,19 +1,13 @@
-## HBR / Digital Article / Research: When Help Isn’t Helpful
+---
+source_path: H08RGL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0b6b0d910fc1c73920d8c0435cc961654b3eedf
+title: H08RGL-PDF-ENG
+---
+# The answer: unhelpful help.
 
-Helping was woven into the fabric of Glow—so much so that it was
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-enshrined in the employee handbook as the “mother-lode of all Glow
+1
 
-values.” It was because of this culture that we approached them about
-
-conducting an in-depth study of help at work. We spent years studying
-
-how helping worked at Glow, including conducting 69 interviews and
-
-analyzing 401 daily diary entries from team members about help they
-
-gave and received. And yet, despite the strength of this culture, we
-
-discovered something unexpected in our data: 25% of help-seeking
-
-episodes reported in the daily diaries were rated by recipients as
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

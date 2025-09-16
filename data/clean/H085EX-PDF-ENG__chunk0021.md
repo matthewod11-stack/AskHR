@@ -1,15 +1,15 @@
-# for wholesale change.
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 093ad3a0e2d274e92e80bab56aaf79b5c4120d86
+title: H085EX-PDF-ENG
+---
+# Reward bold action and results
 
-Take, for example, the transformation of T-Mobile. Prior to 2013, T-
+Leaders often express a desire for bold thinking but end up rewarding
 
-Mobile struggled to compete with its larger rivals and consistently
+minor adjustments instead. Successful transformation demands a
 
-ranked last in customer surveys compared to AT&T, Verizon, and
+fundamental reexamination of every aspect of a business to achieve
 
-Sprint. Following the failed AT&T acquisition of T-Mobile in 2011, John
-
-Legere assumed the role of CEO. He introduced the radical concept of
-
-“customer focus,” emphasizing the need to understand customer needs and prioritize business processes and oﬀerings accordingly.
-
-Recognizing the importance of the company’s website as a primary
+breakthrough results. To achieve this, rewards must reinforce this need

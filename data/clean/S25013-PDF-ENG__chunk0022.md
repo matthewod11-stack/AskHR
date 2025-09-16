@@ -1,33 +1,17 @@
-# their evolving preferences.
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3f9b25156bd5e3d156166dbd5f2d448ed9626140
+title: S25013-PDF-ENG
+---
+## HBR / Spotlight / Why People Resist Embracing AI
 
-People who think that AI is inﬂexible may believe that it will treat
+publicizes how its content recommendation algorithm continuously
 
-every person identically, rigidly applying a one-size-ﬁts-all approach
+improves its selections as it collects more data on users’ viewing
 
-that ignores an individual’s unique traits. Indeed, the more distinctive
+habits. It reinforces that message by putting labels like “for you” on
 
-consumers perceive themselves to be, the less likely they are to use AI.
+its recommendations and explaining that they were made “because you
 
-In one study, for instance, the more exceptional participants thought
-
-that their own ethical characteristics were, the more resistant they were
-
-to an AI system that assessed moral qualities.
-
-At the same time, there’s a delicate balance between ﬂexibility and
-
-predictability. Even though adoption often increases when companies
-
-highlight AI’s ability to learn and evolve, if users feel that the outputs of
-
-the system are too unpredictable, the intervention could backﬁre.
-
-A more adaptable AI system is also riskier since it allows a greater
-
-spectrum of user interactions, some of which may not be captured in
-
-the data used to train the AI. When AI is more ﬂexible, it increases the
-
-possibility that people will use it in inappropriate ways and that in those
-
-cases the algorithms might provide undesirable responses, creating new
+watched x,” further reassuring users that the algorithm is considering

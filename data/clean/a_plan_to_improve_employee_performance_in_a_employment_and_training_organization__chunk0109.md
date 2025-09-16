@@ -1,13 +1,7 @@
-# them?
-
-d. Has any progress been made with respect to the improvement plan
-
-developed at the last performance evaluation?
-
-e. What performance standards are still appropriate in view of the ongoing
-
-reviews and which should be changed/revised/added?
-
-- 6) Take the steps necessary to develop a plan of action, i.e. the performance
-
-improvement plan, to satisfy the conclusions from discussion of each performance area
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 09a5ce8a3f33808c8b107374d10044f0a9440e7f
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# about

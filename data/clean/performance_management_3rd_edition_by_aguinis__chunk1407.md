@@ -1,3 +1,9 @@
-## IRI Consultants to Management http://www.irisolutions.com/ default.asp
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 7c17e3868aaa8faeb0753c9ea9e0c6c67d3c9b16
+title: performance_management_3rd_edition_by_aguinis
+---
+## Development Dimensions International http://www.ddiworld.com/ default.asp
 
-IRI’s 360-degree feedback includes a standard set of questions, or we can use a set of questions developed by the client. This provides the client with the flexibility of linking items to organizational efforts already begun, or to organizational efforts planned for future deployment.
+Seven standard survey options—available in English, French, German, and Spanish—and a listing of 72 competencies enable you to assess different skill sets and job levels, or we can customize a system that is specifically aligned with the key factors your organization views as critical to job success. Comprehensive reports can be used to monitor the developmental process, prioritize learning and developmental approaches, evaluate training effectiveness, identify trends, and measure organizational performance or success over time.

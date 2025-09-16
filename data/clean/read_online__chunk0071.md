@@ -1,17 +1,23 @@
-# Years of employment
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 434b0121a697d5699cb0f42957a25756054ab2d0
+title: read_online
+---
+# Gender
 
-0.00
+0
 
-40.00
+1
 
-8.629
+0.63
 
-6.443
+0.483
 
-1.400
+- 0.544
 
 0.138
 
-2.463
+- 1.715
 
-0.276
+0.274

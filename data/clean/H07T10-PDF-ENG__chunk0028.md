@@ -1,15 +1,25 @@
-# HBR / Digital Article / How to Evaluate a Job Candidate’s Critical Thinking Skills in an…
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45300082759ad173c4decab0fbd6059426d2f90a
+title: H07T10-PDF-ENG
+---
+# decisions.
 
-enable you to determine if they are actively listening by adjusting their
+Using a ﬂip interview, you can evaluate the candidate’s logic and
 
-questions in real-time, pivoting, and probing.
+passion for the role based on their questions. Are the questions
 
-A skilled questioner creates a cooperative dialogue to elicit new learning
+superﬂuous or consequential? Are the questions generic or speciﬁc?
 
-through a series of questions. They engage the other person. Their
+Do they ask not only factual or convergent but also divergent and
 
-questions should lead to inferences and connections and open up
+evaluative questions? Does the candidate pivot, dive deep, and revisit a topic from diﬀerent angles? Are the questions grounded in the context
 
-viewpoints that are not apparent. This exploration mindset encourages
+of the problem and its environment? As they ask you questions, it will
 
-trial and iteration; unexpected learning may originate from the
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

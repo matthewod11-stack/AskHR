@@ -1,11 +1,9 @@
-## diversity program to new pay equity and sustainability initiatives.
+---
+source_path: H07SGE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fcb792d479af0ffaf2bce098f81c03f65e1e356a
+title: H07SGE-PDF-ENG
+---
+# deliver beverage sales around the world.
 
-For example, the company now openly publishes all pay bands so
-
-employees can see where they are and the pay scales for all new
-
-jobs posted. In parallel, it provides hiring and workplace support for
-
-neurodivergent employees. After undertaking a progressive gender
-
-pay equity analysis, it inaugurated a very aggressive program of
+- Enterprise software leader SAP has coupled its industry-leading

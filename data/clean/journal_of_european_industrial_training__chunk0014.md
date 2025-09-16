@@ -1,7 +1,11 @@
-## Journal of European Industrial Training 25/1 [2001] 5±32
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 6f810f2d4580c8e8901d6ebeebe25a5e3f6ce0b0
+title: journal_of_european_industrial_training
+---
+# I
 
-1996). Handy et al. (1996) suggest that some organisations use an extended version of the 3608 feedback process which is termed ``5408 feedback'', because suppliers and external customers are included with the other raters. However, it is acceptable to use the term 3608 feedback or multi-source feedback, even if the process does include suppliers and customers as raters.
+d e d a o l n w o D
 
-Historical development and evolution of 36088 feedback Multi-source appraisal became popular in organisations in the 1980s and at that time was mostly used as an executive development tool (Coates, 1998). Upward appraisal and peer appraisal did receive some attention in the 1970s and early 1980s but it was not until the 1990s that 3608 feedback per se gained currency (see, for example, Hegarty, 1974; Mount, 1984; Cederblom and Lounsbury, 1980; Downey et al., 1976).
-
-Lepsinger and Lucia (1997) refer to two books published in the late 1980s which they argue got the idea of upward appraisal and multi-source assessment into the mainstream (McCall et al., 1988; Lindsey et al., 1997). These books were based on research carried out by the Centre for Creative Leadership (CCL) in Greensboro, North Carolina on management development. Three key findings emerged from this study: 1 Feedback is an important element of a person's professional and personal development.
+Alma M. McCarthy and Thomas N. Garavan 3608 feedback processes: performance improvement and employee career development

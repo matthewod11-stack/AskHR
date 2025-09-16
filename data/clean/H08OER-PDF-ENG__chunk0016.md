@@ -1,17 +1,19 @@
-# the project?
+---
+source_path: H08OER-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26eeddc87da00c568761aa2218db8e724a4b4b00
+title: H08OER-PDF-ENG
+---
+# responses:
 
-- Autonomy, or a feeling of control over events of your environment.
+- Status, or your sense of importance relative to others. In the above
 
-After Carl’s remarks, you experience a reduced sense of control over
+example, you worry that Carl’s critique of your work will harm your
 
-the direction of your presentation. You planned it so well, but now everything’s going oﬀ the rails.
+coworkers’ views of your competence and intelligence.
 
-- Relatedness, or your feeling of connection to others. You feel betrayed
+- Certainty, or your ability to predict what happens next. As much as
 
-by Carl and want to avoid working closely with him in the future.
+you hate to admit it, Carl’s remarks spark seeds of doubt. Are you
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+missing something crucial that will hinder successful completion of

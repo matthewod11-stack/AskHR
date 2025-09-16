@@ -1,27 +1,23 @@
-# views.
+---
+source_path: H07718-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9de4a69ecddbda109ea176b70ad0990fb5f9d88
+title: H07718-PDF-ENG
+---
+## series of experiments with more than 4,000 participants across a wide
 
-For example, in one experiment, we showed participants a video clip
+variety of workplace contexts, and we consistently found that people
 
-of a press conference in which the owner of an NFL team is asked
+tend to be more suspicious and less trusting of coworkers, managers,
 
-whether he believes players should be permitted to kneel during the
+and public ﬁgures who decline to take sides than of those who openly
 
-national anthem. He responds by saying he’d rather not take a side.
+express an opinion — even if it’s an opinion with which they disagree.
 
-Most participants reported that they would ﬁnd the owner more honest,
+Furthermore, we also found that conspicuously staying neutral can
 
-sincere, and trustworthy if he took a position, even if that position went
+cause people to assume you’re trying to hide the fact that your views
 
-against their own moral views. In addition, when participants were told
+oppose those of whomever you are addressing (even if they don’t),
 
-that the owner was being interviewed by a liberal news station, they
-
-assumed he held conservative beliefs, but when they were told that he
-
-was being interviewed by a conservative news station, they assumed
-
-he held liberal beliefs. In other words, regardless of the owner’s actual
-
-opinions, they suspected that that he was refusing to take sides because
-
-he secretly disagreed with whoever he was talking to, making him seem
+making you come across poorly even to people who actually share your

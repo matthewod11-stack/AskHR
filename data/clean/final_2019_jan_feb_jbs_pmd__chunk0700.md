@@ -1,15 +1,15 @@
-# 3.1 Objective of the Study: 1.
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 2ba1d79e6bfaf04f80ba360950aa3ce4010313c8
+title: final_2019_jan_feb_jbs_pmd
+---
+# ISSN 2393-9451
 
-“To determine the Transformational, Transactional and Lassize faire leadership style of supervisor’s in banks”.
+(Jaipur, Jodhpur, and Udaipur) of Rajasthan based on the highest number of bank branches, in this explorative research, primary data was collected by online questionnaire-based on two verified tools i. e., MLQ (Bass 1999) for measuring leadership style of supervisor’s,and secondly, the employee’s task performance was measured based on IWPQ (Koopman’s 2013, 2015). Descriptive and inferential statistical analysis was conducted for analysis of data- based on objectives of the current study i.e., mean, SD, Pearson correlation, and Multi-regression method.
 
-- 2. To determine the Task performance of employees in banks.
+3.2 Hypothesis of the Study: H01a “Transformational leadership style was most prevailing style of managers in banks”.
 
-3.
+H02a “There was a significant relationship between leadership style and Task performance of subordinates in banks”.
 
-“To identify the relationship between Leadership style and task performance of subordinates in banks.”
-
-4.
-
-“To evaluate the extent to which leadership styles impact employees’ Task performance in banks.”
-
-- 4. Data Analysis: Cronbach alpha values must be between 0.7 to 0.8 or above. In the current study, the calculated value of Cronbach’s Alpha of MLQ and IWPQ was .886 with mean value 176.62, which was more than a minimum permissible value, hence proved that there was consistency in responses. Thus, the result of a reliability test confirmed the internal consistency of both the tool and all 54 items seems quite logical and suitable. Objective 1: “To determine the Transformational, Transactional and Laissez-faire leadership style of the supervisor’s in banks”.
+H03a “There was significant impact of superior’s leadership style on Task performance of subordinate’s in banks”.

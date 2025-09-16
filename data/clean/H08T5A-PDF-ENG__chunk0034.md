@@ -1,13 +1,13 @@
-## HBR / Digital Article / New Research on Why Teams Overwork—and What Leaders Can…
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 345548aa3eeb94aefa7ffd719752f5b872a9733e
+title: H08T5A-PDF-ENG
+---
+# relentless organizational rhythm.
 
-Additionally, people should feel that they have the cultural permission
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to pause. It is not enough to change schedules—companies have to
+7
 
-change expectations. Taking breaks, disconnecting on non-work days,
-
-and ignoring the inbox when on holidays should become organizational
-
-norms, not individual exceptions. The emotional sync with work
-
-intensity could thus be disrupted, allowing people to develop healthier
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

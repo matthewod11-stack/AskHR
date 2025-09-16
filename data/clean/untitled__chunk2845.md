@@ -1,23 +1,7 @@
-## The Argentine Psychological Society was founded.
-
-1918
-
-1920
-
-1921
-
-1922
-
-1925
-
-1926
-
-1927
-
-1928
-
-1929
-
-1930
-
-1935
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 64341554ab77aa01e7200ff2fd99a909df86f2af
+title: untitled
+---
+## The Hungarian Psychological Association was founded.

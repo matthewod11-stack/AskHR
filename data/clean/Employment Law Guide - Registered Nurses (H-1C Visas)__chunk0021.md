@@ -1,1 +1,7 @@
-# Section 212(m) of the Immigration and Nationality Act of 1952, (INA) (http://www.uscis.gov/portal/site/uscis/menuitem.f6da51a2342135be7e9d7a10e0dc91a0/?
+---
+source_path: Employment Law Guide - Registered Nurses (H-1C Visas).md
+pages: n/a-n/a
+chunk_id: 5fdb57910164e8b18e05586d5a0ce4c5ec4c8ace
+title: Employment Law Guide - Registered Nurses (H-1C Visas)
+---
+# Updated: December 2016

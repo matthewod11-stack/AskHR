@@ -1,9 +1,55 @@
-## Peshkam, a learning researcher and coach, to interview leaders of
+---
+source_path: R2501H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c6da8fdbf1884573d4f70bf84f9c7a0ab96bf3b9
+title: R2501H-PDF-ENG
+---
+## HBR / Magazine Article / Three Ways to Lead Learning
 
-learning at 69 multinational ﬁrms across industries and continents.
+Indeed, more and more business leaders are moved to make a bold
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+promise: that their company is not just a machine to deliver proﬁt
 
-2
+but also a community devoted to social impact and its members’ well-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+being. Learning is key to fulﬁlling that promise, especially in an age
+
+when talent ﬂocks to organizations that oﬀer to upskill employees and
+
+support their development. A commitment to learning is critical to making organizations both more eﬃcient and more humane.
+
+The growing importance of learning has heralded the arrival of a new
+
+breed of senior leaders—people I call leaders of learning. They may be chief learning oﬃcers, heads of learning and development, heads
+
+of talent and organizational development, and in some companies, chief human resources or chief people oﬃcers. They advocate for and
+
+organize learning, developing learning strategies and implementing
+
+learning initiatives for the enterprise and its employees.
+
+But many of their eﬀorts are going awry. Academic studies reveal mixed
+
+evidence on whether such initiatives produce lasting individual or
+
+organizational change. Despite their public commitment to learning,
+
+in private many executives I meet express skepticism about the quality
+
+and eﬀectiveness of it in their workplace. “How do I know this has any
+
+impact on my company’s transformation?” I often hear. And there’s
+
+skepticism from employees as well: “My boss doesn’t actually care about
+
+my learning, just about results” is a common complaint.
+
+Throughout my career I’ve taught, coached, and collaborated closely
+
+with leaders of learning. I’ve watched their excitement turn to
+
+frustration as their eﬀorts were met with ambivalence and resistance
+
+or failed to deliver after raising much hope. To ﬁnd out why so many
+
+are stymied—and what can be done about it—I teamed up with Annie

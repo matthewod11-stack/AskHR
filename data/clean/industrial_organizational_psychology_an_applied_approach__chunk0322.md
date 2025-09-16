@@ -1,1 +1,11 @@
-# Table 1.2
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d937a06613b42836b0fdcbbcc04921121be7fff2
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Employment of I/O Psychologists
+
+Throughout this text, you will find Employment Profiles, which look at specific jobs done by people with degrees in I/O psychology. However, it is useful to examine some of the broad areas in which I/O psychologists work as well. As shown in Table ., I/O psychologists typically work in one of four settings: col- leges and universities, consulting firms, the private sector, and the public sector. As one would expect, I/O psychologists who work at colleges and universities typically teach and conduct research, although some work as administrators (e.g., deans, provosts, vice presidents).
+
+I/O psychologists who work in consulting firms help a wide variety of organi- zations become more productive by helping them select a high quality and diverse workforce, designing systems that will motivate employees while treating them

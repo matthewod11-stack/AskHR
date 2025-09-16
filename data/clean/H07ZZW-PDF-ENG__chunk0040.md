@@ -1,9 +1,7 @@
-## The Uncomfortable New Landscape for Corporate Advocacy
-
-Leaders are struggling to respond to this new landscape, with some
-
-playing whack-a-mole on every issue and others simply ignoring
-
-employee criticisms in hopes they’ll go away. Many are considering
-
-whether — and how — to restrict employee speech; a 2023 Herbert
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f363736477b9965a1a9beff9a89e92dcb512d8f5
+title: H07ZZW-PDF-ENG
+---
+## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage

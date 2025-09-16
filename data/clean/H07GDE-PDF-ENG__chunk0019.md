@@ -1,13 +1,27 @@
-# through proper breathing.
+---
+source_path: H07GDE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec53641fa1fc7fdd14c98bbb9d6c60ae70d9527f
+title: H07GDE-PDF-ENG
+---
+# eye contact with every employee.
 
-Before you begin your announcement, take a deep belly breath that
+The exception to this rule is if you take questions after the
 
-engages the diaphragm and expands your stomach. Do it again after the
+announcement. In this case, you should look into the computer monitor
 
-ﬁrst two or three sentences. And keep doing it. Without these breaths,
+at the employees while they’re asking questions. This is natural and will
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+help you “read the room.”
 
-4
+Remember to breathe.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+It’s understandable to be nervous in a meeting like this; you’re probably
+
+bringing in a lot of your own emotions and you might feel angry or
+
+embarrassed. It’s important to remember to breathe. Not only will it
+
+help you do your job, but anxiety can dramatically alter one’s voice. To
+
+project strength and conﬁdence, it’s essential to try to counteract this

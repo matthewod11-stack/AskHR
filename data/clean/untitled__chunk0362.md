@@ -1,3 +1,11 @@
-# TWO ASSOCIATIONAL DEVELOPMENTS
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 1ab73cbea262a715e99766e6b9692a891ec3c5df
+title: untitled
+---
+# COMMUNITY INVOLVEMENT
 
-The essence of a profession is daily involvement with patients or clients. The context in which this interaction occurs, including the very important issue of reimbursement for services rendered, falls within the jurisdiction of public policy (e.g., the political process). For psychology to become an active participant within primary care (or to expand its scope of practice to include prescriptive authority) requires institutional collective knowledge of the evolving “bigger picture” and ongoing interrelationships existing within soci- ety and the generic health care arena. Historically, profes- sional psychology has, at most, seen itself as solely one of the mental health disciplines and has not concerned itself with broader public policy or public health issues (DeLeon, VandenBos, Sammons, & Frank, 1998). These two program- matic initiatives have signiﬁcantly changed that perspective.
+During the 1990s, the APA became increasingly involved in several highly visible community activities that contributed to society’s appreciation of the role of psychological services. In 1991, during the Gulf War, the APA joined with the American Red Cross in forming a network of psychologists to provide mental health services to families of members of the armed services. Since then the network has been activated following natural disasters, airline crashes, and terrorist attacks in Oklahoma City (1996) and in New York City and Washington, D.C., in September 2001.
+
+In another effort, the Practice Directorate forged a part- nership with Music Television (MTV) to develop a youth antiviolence initiative titled “Warning Signs,” to help the na- tion’s youth in identifying early signs of violent behavior and to emphasize the need to get help should they see any of them (Peterson & Newman, 2000). The campaign ofﬁcially kicked off with a youth forum held in Los Angeles on April 22, 1999. The 30-minute documentary, coproduced by MTV and the APA, was the highest rated prosocial special in MTV’s history, with 3.9 million youth watching the ﬁlm. In that year, there were over 600 follow-up psychologist-led “Community Youth Forums on Violence” held across the nation, with more than 58,000 youths attending. In March 2000, the Practice Directorate launched “Warning Signs for Parents” as a logical follow-up; by the end of the year, nearly 150,000 copies of the accompanying publication had been distributed.

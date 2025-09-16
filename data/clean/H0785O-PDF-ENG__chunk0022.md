@@ -1,7 +1,15 @@
-# @asbernstein2185
+---
+source_path: H0785O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b968b743086b546c267258e06c9116b10358e6a2
+title: H0785O-PDF-ENG
+---
+## HBR / The Big Idea / Improving the Practice of Management — Then and Now
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Download and read the full 1922 debut edition of HBR.
 
-5
+This article was originally published online on September 19, 2022.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Laura Amico is a former senior editor at Harvard Business Review.
+
+Amy Bernstein is the editor in chief of Harvard Business Review and a host of the Women at Work podcast.

@@ -1,17 +1,21 @@
-## empresa conhecer as demandas dos empregados e tomar as iniciativas necessárias
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: eac6ee96181fea861e98c12654e5c81f951ff8a9
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## avaliam que, comparado com outras métricas e processos de mensuração de
 
-em prol de incrementar sua satisfação com o trabalho (RAJASEKARAN; DINESH,
+satisfação, o eNPS fornece maior confiança. Com o resultado apenas da pergunta
 
-2018).
+de recomendação,
 
-Ainda que haja pouca literatura disponível sobre o tema até o momento, os
+revela-se o escore, que representa, nas palavras deles,
 
-autores que relatam experiências com testes de eNPS e outros construtos como
+"tangibilidade para uma medida real de satisfação do empregado e potencial futuro
 
-engajamento e satisfação com o trabalho consideram que a pergunta de eNPS é
+crescimento da companhia". Mesmo com tamanha defesa da técnica, no entanto,
 
-29
+concluem seu artigo defendendo que o eNPS sozinho não é suficiente enquanto
 
-suficiente para se ter uma avaliação geral. Na opinião deles, a simplicidade atrelada
-
-ao eNPS é seu principal fator positivo, não requer nenhuma espécie de instrução
+ferramenta de gestão e precisa ser associado a outras questões que permitam à

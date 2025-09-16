@@ -1,7 +1,19 @@
-# inclusive?
+---
+source_path: H07MHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f5bd3d5655f7f11e9ffb30ae195ecd84b1b2d0c
+title: H07MHV-PDF-ENG
+---
+## As someone with more than 50 years of experience in both industry
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+and academia who also happens to be a person with autism, managers
 
-1
+in charge of DEI at major corporations often invite me to give lectures.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+These companies range from steel, pharmaceuticals, computers, and
+
+consumer products to cattle and livestock handling, transportation,
+
+and social media. I always get asked the same basic question from
+
+management: What do they need to do to make their workforce more

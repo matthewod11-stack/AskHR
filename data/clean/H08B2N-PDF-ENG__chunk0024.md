@@ -1,11 +1,17 @@
-# better self-awareness.
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dded8b56a3c105ccbd793a82fb201da457575e7a
+title: H08B2N-PDF-ENG
+---
+## feedback and more resistant to objective information about their
 
-. . .
+performance, as their rose-colored glasses may inﬂate their perceptions
 
-At the end of the day, passion has a lot to oﬀer, but it can also come
+of their performance and make it harder for them to set realistic
 
-at a cost. Our research doesn’t suggest that organizations shouldn’t hire
+expectations. As such, it may be especially important for managers of
 
-passionate people, or even that managing them is inherently harder.
+passionate employees to help them set more realistic expectations for
 
-It just shows that managing passionate people requires proactivity and
+themselves, and to provide feedback regularly to help them develop

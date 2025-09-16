@@ -1,17 +1,35 @@
-# enrollment in the plan.
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: afdcf979b728bb718f65888d9bd665838808594b
+title: Employment Law Guide - Employee Benefit Plans
+---
+# reconstruction in connection with a mastectomy. For plan participants and beneﬁciaries receiving beneﬁts in
 
-Michelle's Law, passed in 2008, prohibits group health plans from terminating coverage for a dependent child
+connection with a mastectomy, plans oﬀering coverage for a mastectomy must also cover reconstructive surgery and other beneﬁts related to a mastectomy.
 
-who has lost student status as a result of a medically necessary leave of absence. Plans must continue to
+The Mental Health Parity Act of 1996 (MHPA) provides for parity in the application of aggregate lifetime and
 
-provide coverage for up to one year, or until coverage would otherwise terminate under the plan. Plans are allowed to require physician certiﬁcation of the medical necessity for the leave of absence.
+annual dollar limits on mental health beneﬁts with dollar limits on medical/surgical beneﬁts. Generally, group
 
-The Children's Health Insurance Program Reauthorization Act of 2009 (CHIPRA) requires group health plans
+health plans oﬀering mental health beneﬁts cannot set annual or lifetime dollar limits on mental health beneﬁts
 
-and group health insurance issuers to permit an employee or dependent that is eligible for but not enrolled in
+that are lower than any such dollar limits for medical and surgical beneﬁts.
 
-the plan to enroll when the employee or dependent is covered under Medicaid or CHIP and loses that
+The Mental Health Parity and Addiction Equity Act of 2008 (MHPAEA) expanded the protections of MHPA to
 
-coverage as a result of loss of eligibility or when the employee or dependent becomes eligible for Medicaid or CHIP assistance with respect to coverage under the group health plan. CHIPRA also created new notice
+ﬁnancial requirements (e.g., copayments or deductibles)and treatment limitations (e.g., visit limits). Any type of
 
-requirements related to these special enrollment rights.
+ﬁnancial requirements or treatment limitations imposed on mental health or substance use disorder beneﬁts in
+
+a classiﬁcation can be no more restrictive than the predominant requirements or limitations applied to
+
+substantially all medical and surgical beneﬁts covered by a plan in the classiﬁcation. In addition, there are rules regarding nonquantitative treatment limitations (such as prior authorization requirements).
+
+The Genetic Information Nondiscrimination Act of 2008 (GINA) prohibits group health plans and group health
+
+insurance issuers from discriminating in health coverage based on genetic information. Plans and issuers may
+
+not use genetic information to adjust premium or contribution amounts for the group covered under the plan,
+
+request or require an individual or their family members to undergo a genetic test, or request, require, or purchase genetic information for underwriting purposes or prior to or in connection with an individual's

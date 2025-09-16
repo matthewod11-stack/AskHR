@@ -1,17 +1,21 @@
-# Take a Look Back
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e53ac13a5b0fb20e880fae5f2ee6f51d11e28ab2
+title: H0881J-PDF-ENG
+---
+# Set the Stage for Collaboration
 
-During the conversation, take a moment to look back and understand the situation. You can kick this oﬀ by asking them to self-reﬂect and
+When there’s misalignment between what you expect of an employee
 
-assess their own performance. For example:
+and the work they’re delivering, start by deﬁning what success looks
 
-Let’s take a moment to understand how we arrived here and what
+like and who will be involved in turning around their performance. This
 
-factors inﬂuenced our path. I’d like to invite you to self-reﬂect and
+must be a shared goal between you and your employee for them to feel
 
-assess your own performance. Did you accomplish all your goals
+valued and supported. You can start by stating, “We should have an
 
-and meet the expectations set? Can you share your perspective on
+honest and open dialogue. My goal is to give you clear feedback and
 
-what’s working well and what isn’t? Looking back, if you had the
-
-opportunity to change or improve anything, what would you do
+ensure we are collectively working toward your development.”

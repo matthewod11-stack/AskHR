@@ -1,3 +1,17 @@
-# HUMAN RESOURCE DEVELOPMENT INTERNATIONAL
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: 383f65bb6a6358cc95a63690c0662665718ff0c1
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+## Propensity Score Matched Sample (n = 412)
 
-As hypothesised, participants who received formal coaching reported significantly higher levels of meaningful work (β = .31, p = .01) and OCBs individual (β = .30, p = .01) and organisational (β = .47, p < .01), supporting Hypothesis 1(a) and (b). Conversely, formally coached participants exhibited weaker turnover intentions and CWBs, but the latent mean differences were not statistically significant (p > .05for both). Thus, Hypothesis 2(a) and (b) were not supported.
+Variables 1. Meaningful Work 2. OCB (Individual) 3. OCB (Organisation) 4. Turnover Intentions 5. CWBs
+
+Group Diﬀerence β .31 .30 .47 −.07 −.08
+
+p-value .01 .01 <.01 .48 .49
+
+Note(s): Group Diﬀerence β is the standardised latent mean diﬀerence between the
+
+no-coach (reference group) and the coached group.

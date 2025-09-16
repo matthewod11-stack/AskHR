@@ -1,17 +1,29 @@
-## continue with it out of inertia and because costs like turnover, unstaﬀed
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2ba8fd84c171a0274ae310f75e24ec67e8a38150
+title: R2403F-PDF-ENG
+---
+# particularly among younger people.
 
-positions, and disengaged employees have no line item in the ﬁnancial
+. . .
 
-accounting systems of enterprises in the United States and many
+Responding to a long-term change like the shift from slack to tight labor
 
-other countries. (See “How Financial Accounting Screws Up HR,” HBR,
+markets usually takes a great deal of time. But no one wants to be at the
 
-January–February 2023.) To change harmful, outdated practices, HR
+end of the line of companies reacting to an important inﬂection point.
 
-will have to provide business leaders with that vital information.
+The question is, Who will be at the front of the line? Over the past 40
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+years companies have built HR practices and operating cultures based
 
-12
+on the notion that squeezing employment costs and HR resources had
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+little downside. Some of the cost cutting was indirect—by not ﬁlling
+
+vacancies and letting the remaining employees ﬁgure out how to get
+
+additional work done—and some was direct, like shrinking training and
+
+development budgets. That model is no longer working, yet companies

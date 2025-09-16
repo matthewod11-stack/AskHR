@@ -1,17 +1,37 @@
-## In fast-paced, high-pressure, highly competitive industries or
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd1075a9e14e5e758074da0a9f68373caaad7deb
+title: H05624-PDF-ENG
+---
+# adjust.
 
-companies, how do you persuade people — both women and men —
+Also: equal treatment for mothers and fathers. It can be longer for
 
-that it’s okay to use all the time made available to them?
+women if there are health complications related to the pregnancy or
 
-A big push for me is not just encouraging more private-sector leaders
+labor and delivery. But we’re deliberate about calling it “family leave”
 
-to adopt these policies, but also to urge fellow business dads, especially
+because I and lots of dads believe we have an equal responsibility
 
-those in executive positions, to take advantage of them. This gives air
+in parenting. And this sets us up for more equality in the workplace
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+because there’s less worrying — which, unfortunately, you do see — that
 
-4
+female hires will get pregnant. If we just assume that any man or woman
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+we bring on might one day have a kid and take time oﬀ for that kid,
+
+we’re in a nicer place.
+
+I want to be clear, though, that none of this means prescribing speciﬁc
+
+roles and responsibilities for any parent. It is more about the freedom
+
+to decide. The biggest criticism I see is tweets from people who say,
+
+“I don’t need more than a week oﬀ after having a kid.” That’s ﬁne. It’s
+
+your choice. But the opportunity should be extended to every single
+
+expecting parent.

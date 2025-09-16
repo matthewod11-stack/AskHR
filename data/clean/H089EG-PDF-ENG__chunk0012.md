@@ -1,17 +1,23 @@
-# learn and grow.
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5116ba6d97960339311610e09bd301eacd275526
+title: H089EG-PDF-ENG
+---
+# employee.
 
-Ideally you can align a task or project with your team member’s
+Once you’ve identiﬁed what work is “high level,” cross it oﬀ, and take a
 
-strengths, goals, or career development plan, which will advance both
+look at the rest of your list. The tasks or projects that are left are good
 
-the organization and the individual. For example, you may invite a
+candidates to delegate.
 
-team member who you consider to be a future people leader to head a
+Which tasks or projects might be learning opportunities that can help my team develop?
 
-brainstorming meeting on your behalf or present a pitch to your boss.
+Whether it’s a one-oﬀ request or more elaborate project, every item you
 
-By providing them with an opportunity like this, you’re giving them
+hand oﬀ should do one of the following: contribute in some way to the
 
-a chance to gain inﬂuence, build relationships, and contribute to an
+“high-level” work you’re responsible for, help your direct reports gain
 
-organizational initiative. In turn, these projects contribute to your team
+visibility (internally or externally), or challenge your direct reports to

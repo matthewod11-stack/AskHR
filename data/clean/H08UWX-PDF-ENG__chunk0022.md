@@ -1,19 +1,19 @@
-## Audit job descriptions against actual interviews. Organizations should
+---
+source_path: H08UWX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab08835b1814b3a44c0cb588013cea32a32bee3a
+title: H08UWX-PDF-ENG
+---
+# Recommendations for Leaders
 
-regularly review whether their interview processes actually assess the
+Our ﬁndings point to several concrete steps that organizations can take
 
-skills they claim to value. This audit should examine whether skills are not just mentioned but evaluated in suﬃcient depth.
+to align their hiring processes with their stated priorities:
 
-Integrate AI assessment into hiring practices. Given the technology’s
+Implement structured interview guides. Intentional questioning
 
-growing importance, companies should develop speciﬁc strategies
+matters: Companies should develop comprehensive interview guides
 
-for evaluating candidates’ AI capabilities, comfort with technological
+that ensure all critical skills receive explicit attention and include
 
-change, and potential for developing AI-related skills.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+mechanisms to track interviewers’ compliance during the process.

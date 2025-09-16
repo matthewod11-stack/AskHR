@@ -1,9 +1,25 @@
-## HBR / The Big Idea / A Leader’s Guide to Navigating Employee Activism
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6fa000240e3eccbcfef1037c3fb73706edd6dd15
+title: H08058-PDF-ENG
+---
+## During their strategy off-site, the executives at a global retail
 
-of speaking up publicly about their disappointment, highlighting what
+organization turn their attention away from the strategic plan to address
 
-they perceive to be a gap between what the company espouses and what
+a thorny issue. A junior employee has started vociferously criticizing, in
 
-it actually practices. Within the executive team there is a divide: Some
+meetings and on Slack, the organization’s commitment to sustainability
 
-want to shut the employee down while others want to invite them into
+objectives. The executives’ conversation has been precipitated by
+
+months of behind-the-scenes questioning by this person and others.
+
+In fact, senior leaders are concerned that this group is on the verge
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

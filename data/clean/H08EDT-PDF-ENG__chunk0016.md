@@ -1,23 +1,13 @@
-# diversity in the candidate pool.
+---
+source_path: H08EDT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6aef0df2a36e7866b29ee7a9eb693a03f95ba54b
+title: H08EDT-PDF-ENG
+---
+## other gender and racially identiﬁable information from resumes so
 
-Reducing bias in performance evaluations
+that women and people of color aren’t screened out in the ﬁrst stage;
 
-Men often get more actionable feedback at work than women do, and
+bringing consistency to the interview process by using standardized
 
-without standardized performance evaluations, it’s easy for managers to
-
-fall prey to gender and racial biases when making promotion decisions.
-
-This means the performance-evaluation process can harm not only
-
-women’s career advancement, but it can also be a drag on retention.
-
-As one respondent, a Latina senior manager, stated in the report: “I
-
-think about keeping women and women of color satisﬁed and staying
-
-with the organization, and I think the biggest thing companies could
-
-do is to make sure they are not being reviewed more harshly than their
-
-peers. Often, we are held to higher standards than our peers, which
+questions for candidates; and ensuring there’s gender and racial

@@ -1,9 +1,7 @@
-# To Promote a Mindset Shift
-
-You (Gen AI) will act as an expert in mindset change, providing
-
-methodological coaching on what is needed and how it can be
-
-practiced concretely.
-
-I want you (Gen AI) to guide me through the following steps. Always
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7dd8c5186ab00640b708234265030fb8b3c14448
+title: H08L2R-PDF-ENG
+---
+# engagement with each stakeholder.

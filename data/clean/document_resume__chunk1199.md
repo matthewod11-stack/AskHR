@@ -1,3 +1,13 @@
-# 4 Very Good
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 80e337a47bfc49ae89524cc8d20bcbb6c0854dee
+title: document_resume
+---
+# course or instructor.
 
-Implements objective of the day by encouraging students' suggestions as to how the objective could be achieved. Makes an effort to involve all students. Uses post conference to follow through with the objective in practice. Maintains flexible format to include unforeseen situations that may occur.
+- 5. Pre and Post Clinical Conferences (Nursing)
+
+Conducts pre and post conferences to prepare students for clinical experiences and to evaluate the day's activities.
+
+5 Exceptional Assumes the role of a group leader in conducting pre and post conferences. Uses creative strategies for gaining students' atten- tion. Promotes an understanding of important concepts. Demon- strates exceptional ability to inspire creative thinking among students. Expectations include a sophisticated level of active student participation. Facilitates students to integrate subject matter knowledge and theory into practical application. Students look forward to conferences anti eagerly participate.

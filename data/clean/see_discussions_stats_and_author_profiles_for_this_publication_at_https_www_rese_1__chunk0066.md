@@ -1,11 +1,9 @@
-# moderately satisfactory with realistic deadlines and adequate physical work conditions.
+---
+source_path: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1.md
+pages: n/a-n/a
+chunk_id: 6ef42a399c7abbe9f2b7aaabdb70c71764da0101
+title: see_discussions_stats_and_author_profiles_for_this_publication_at_https_www_rese_1
+---
+# Journal of Economic Development, Management, IT, Finance and Marketing, 4(1), 27-37, March 2012 34
 
-Sometimes work pressure interfered with personal life thereby causing some dissatisfaction to
-
-the respondents. Respondents showed very low satisfaction with teamwork as it caused
-
-confusions at work thereby slowing down the pace of work. They also felt that communication
-
-between the top management and employees were not clear and information on strategies and
-
-activities were not transparent on all occasions.
+needs were not adequately met through these programmes. The working conditions were

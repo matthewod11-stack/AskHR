@@ -1,9 +1,17 @@
-## in snarky jabs, their direct reports bicker relentlessly with one another
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80d22e3f1e160327fe1255c8cf84a40caebe4f4d
+title: H075PH-PDF-ENG
+---
+# Westend61/Getty Images
 
-over minutiae, and you, their supervisor, have just discovered that they
+Here’s a hypothetical scenario. Maybe you can relate.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Two department heads are leading a project for a tech startup on the
 
-1
+cusp of exponential growth. They don’t get along. In fact, they have
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+never gotten along. And working in close contact has exacerbated their
+
+problems. As a critical deadline looms, their Slack channels are awash

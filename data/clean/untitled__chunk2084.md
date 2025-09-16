@@ -1,9 +1,9 @@
-# Labels and Deﬁnitions
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 8c262b05495320ec93b17d4d87a040be6693660d
+title: untitled
+---
+## THE RISE OF INDUSTRIAL-ORGANIZATIONAL PSYCHOLOGY
 
-The history presented in this chapter is not intended to be a comprehensive description of I-O psychology content or a duplication of historical accounts previously written (e.g., Austin & Villanova, 1992; Baritz, 1960; Colarelli, 1998;
-
-During the early years, I-O psychology was labeled economic psychology (Münsterberg, 1914) or business psychology (Kingsbury, 1923; Münsterberg, 1917). Industrial psychol- ogy was used infrequently before World War I but became
-
-367
-
-368
+The growth of I-O psychology can be ascertained from ex- amining changes in labels and deﬁnitions, scope of content, education, employment, and organized I-O psychology.

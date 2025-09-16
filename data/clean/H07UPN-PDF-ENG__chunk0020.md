@@ -1,11 +1,19 @@
-## empathetic, knowledgeable, competent, responsible, and supportive. I
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29cce608405552b82424c15459ca0b6338e28a8c
+title: H07UPN-PDF-ENG
+---
+# after-action reviews.
 
-rarely hear someone share that they want to be perceived as a learner or
+- Put systems in place, such as daily standups, to remind individuals
 
-a work in progress — a person who is continuing to develop themselves.
+and teams of what they’re working to improve and how.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+- 3. Model being a learner.
 
-4
+At the beginning of my keynotes, I often ask attendees how they
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+want their colleagues to perceive them. Their answers encompass
+
+positive qualities such as being trustworthy, collaborative, accountable,

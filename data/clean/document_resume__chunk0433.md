@@ -1,3 +1,9 @@
-# MARGINAL
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 34cad85227a2ed4ddc624b4359801bda379987c1
+title: document_resume
+---
+# a
 
-Presents essential information. May use same method of presentation daily. Demonstrates basic knowledge in subject area. Answers student questions, but does not involve them in presentation. Is available for outside help when needed.
+Varies method of presentation to increase student interest. Uses class time on subject matter. Encourages student participation. Demonstrates overall knowledge of subject and presents material so that is understood by student. it Encourages students to seek help after class if needed.

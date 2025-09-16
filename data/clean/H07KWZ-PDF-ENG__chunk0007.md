@@ -1,7 +1,17 @@
-# wrong in real life all the time.
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9c2bd0d7327ba32180e94ec7b9b0b52bf486bd0f
+title: H07KWZ-PDF-ENG
+---
+# Claudette Barius/HBO
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Many TV watchers are abuzz about the return of the hit HBO series Succession. The prestige drama doubles as a withering lens into the
 
-1
+complex relationships, power dynamics, and jargon often found in
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+corporate America. The ﬁrst episode of season four, which aired on
+
+March 26, oﬀers a moment of reﬂection on the pitfalls to which business
+
+leaders often succumb in high-stakes negotiations. And negotiations go

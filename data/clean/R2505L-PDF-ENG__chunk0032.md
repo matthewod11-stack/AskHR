@@ -1,7 +1,25 @@
-## statements from other company leaders, and FAQs.
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 748af799224886c1bd4c85876ed7f238999cf88a
+title: R2505L-PDF-ENG
+---
+# organic farming standards.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Such transparency has been adopted by real companies in a range
 
-12
+of high-scrutiny industries. For example, to counter persistent urban
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+legends—such as claims that its burgers contained earthworms or “pink
+
+slime”—McDonald’s launched the transparency campaign “Our food.
+
+Your questions,” inviting customers to ask questions and providing
+
+clear answers. As part of the campaign, McDonald’s invited camera
+
+crews into its factories, hosted live Q&A sessions on social media, and
+
+published detailed information on its website. Similarly, Starbucks has
+
+a webpage, “Starbucks for the Record,” where the company directly addresses misinformation targeting the coﬀee maker, using CEO letters,

@@ -1,17 +1,17 @@
-# the ﬂow.
+---
+source_path: H081NE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: faab5fea0ff2b0c2981a04bcdb3e83ece4d5388b
+title: H081NE-PDF-ENG
+---
+## fast-track personal relationships in Germany as you might in the U.S.
 
-. . .
+or some South American countries. We similarly heard from a Japanese
 
-These core elements of building relationships across cultures aren’t
+expat interviewee in Jordan that he had come to expect many rounds
 
-meant to be a formula that can predict what someone from a given
+of tea and sweets as part of the local getting-acquainted dance. To him,
 
-culture will be like, nor are they meant to tell global workers like Partha
+the series of introductory conversations was superﬂuous to the tasks at
 
-exactly how to build relationships with colleagues across cultures.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hand, but because he understood the pacing code, he tried to go with

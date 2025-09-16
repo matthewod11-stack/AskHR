@@ -1,21 +1,13 @@
-## HBR / Digital Article / Why You’re Chronically Overcommitted
+---
+source_path: H08JFA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f148867a45820ea71652f08573687748bfb528c7
+title: H08JFA-PDF-ENG
+---
+## a therapist to clinical operations at a digital health start-up. Eager to
 
-prove my worth, I felt I had no other choice but to say yes to every
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-request that came my way.
+1
 
-How was I going to ﬁt all of this into my schedule? I had no idea.
-
-Everyone on the team had more experience than me in working in
-
-digital health. They had been embedded in the startup industry for
-
-longer, and they knew so many things I didn’t know.
-
-So, I believed that taking on more responsibility than I could handle
-
-would show others that I was competent, reliable, dedicated, and
-
-most importantly, valuable. What I didn’t realize at that time was that
-
-overcommitting came with two major costs: the quality of my work and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

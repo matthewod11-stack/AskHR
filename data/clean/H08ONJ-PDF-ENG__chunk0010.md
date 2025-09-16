@@ -1,13 +1,7 @@
-# How?
-
-DeepSeek prioritized creativity instead of brute-force scaling like the
-
-rest of the industry. The company saw that it could bypass the expense
-
-of the most advanced AI hardware by leveraging synthetic data and
-
-creative algorithms, and distilling knowledge from existing AI models,
-
-building on top of them rather than starting from scratch.
-
-Yet, resources are the metric most companies focus on to move the
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fe5ee8a97331e129e40bb726753e084504f03b0b
+title: H08ONJ-PDF-ENG
+---
+## HBR / Digital Article / What DeepSeek Can Teach Us About Resourcefulness

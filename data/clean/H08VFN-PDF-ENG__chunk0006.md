@@ -1,17 +1,39 @@
-## School, in North Carolina, that guide recruits through rigorously
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1758fdc3aebc7e914680a266b7e64e4fc002c678
+title: H08VFN-PDF-ENG
+---
+## HBR / Digital Article / Lessons from U.S. Army Special Ops on Becoming a Leader
 
-assessed experiential-learning exercises.
+But in this unpredictable new world, organizations are falling short
 
-Those exercises have never been incorporated into business school
+at training people how to lead. The $50 billion executive education
 
-or private education coursework—partly because they’re secret, but
+sector—as Warren Bennis ﬁrst pointed out in his 1961 HBR article “A
 
-also because they’re extremely specialized, relying on tasks and
+Revisionist Theory of Leadership”—has tended to conﬂate leadership
 
-environments particular to elite combat units. Over the past four
+with management. As a result, executive education is good at helping
 
-years, however, my lab at Ohio State has worked with the Army to
+people improve management skills such as accounting, active listening,
 
-convert its Special Ops curriculum into a general method of leadership
+and data-driven decision making. Yet it hasn’t developed a comparably
 
-training that has been transferred into the Medical Corps, the Corps of
+rich curriculum for cultivating initiative, strategic vision, and the other
+
+skills needed to lead in volatility.
+
+There is one organization, however, that has spent more than seven
+
+decades creating exactly that curriculum. The U.S. Army Special
+
+Operations has taught tens of thousands of soldiers who excel at
+
+managerial tasks (such as maintaining standards and optimizing
+
+operations) to successfully take on leadership tasks (such as seizing
+
+opportunities and launching innovations). It has done so by creating
+
+training pipelines, centered at the JFK Special Warfare Center and

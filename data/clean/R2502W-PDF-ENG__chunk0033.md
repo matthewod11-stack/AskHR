@@ -1,27 +1,13 @@
-## to improvements across the board—but especially with lower-skilled
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c191ded043790f9c4d79fe90c6ebab0c55beebd9
+title: R2502W-PDF-ENG
+---
+## HBR / Magazine Article / Strategy in an Era of Abundant Expertise
 
-consultants, whose scores rose 43% while the scores of the highest-
+a control group did. The AI-augmented consultants completed 12%
 
-skilled employees rose 17%.
+more tasks, on average, and did so 25% faster. When BCG scored the
 
-Using AI to augment the expertise and thus the capabilities of
-
-employees has multiple implications. It may reduce the time and cost to
-
-onboard new hires, broaden the pool of those who can perform speciﬁc
-
-processes, and provide more ﬂexibility in how employees are deployed
-
-to achieve outcomes. It also has implications for organizational
-
-structure if median performance levels can be achieved with less
-
-oversight from a manager and if any employee can eventually command
-
-a range of AI agents to get jobs done. Some companies may adopt wider
-
-managerial spans, while others may choose to operate with more tightly
-
-scoped teams, with each team member managing a ﬂeet of AI agents.
-
-More investment in activities that matter. As AI agents and bots
+quality of each consultant’s output, it found that the use of AI led

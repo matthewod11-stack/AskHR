@@ -1,23 +1,19 @@
-# accompany success?
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e700703b7027993539a8b660aa04a86fccd26fb7
+title: H08TKY-PDF-ENG
+---
+# Mankins and Richard Steele (2006)
 
-The answer lies in four broad attributes of a nation, attributes that
+. . .
 
-individually and as a system constitute the diamond of national
+Diamond of national advantage: Why are certain companies based
 
-advantage—the playing ﬁeld that each nation establishes and operates
+in certain nations capable of consistent innovation? Why do they
 
-for its industries. These attributes are:
+ruthlessly pursue improvements, seeking an ever-more-sophisticated
 
-- 1. Factor conditions: the nation’s position in factors of production,
+source of competitive advantage? And why are they able to overcome
 
-such as skilled labor or infrastructure, necessary to compete in a
-
-given industry
-
-- 2. Demand conditions: the nature of home-market demand for the
-
-industry’s product or service
-
-- 3. Related and supporting industries: the presence or absence in the
-
-nation of supplier industries and other related industries that are
+the substantial barriers to change and innovation that so often

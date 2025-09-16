@@ -1,35 +1,41 @@
-## HBR / Digital Article / Research: When Help Isn’t Helpful
+---
+source_path: H08RGL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77f719df53e583c3a6978c5602de827265346d49
+title: H08RGL-PDF-ENG
+---
+# Why Unhelpful Help Happens
 
-- 2. Optimistic Expectations and Lack of Accountability
+Our research identiﬁed three factors that contribute to unhelpful help:
 
-Fuzzy asks often led help-seekers to assume their needs were
+- 1. Fuzzy Asks and Murky Understandings
 
-understood—and would be met. This created what we describe as
+In a culture where helping is expected, people ask for help often—but
 
-optimistic expectations: the belief that givers could solve the problem.
+not always clearly. This was Glow’s ﬁrst trap. Strong norms encouraged
 
-Givers often felt pressure to say yes but didn’t always follow through. In
+asking for help, but people didn’t know how to ask for help eﬀectively.
 
-Amy’s case, many agreed to help, so Amy hoped they would solve the
+Speciﬁcally, people didn’t want to seem too demanding, so they made
 
-problem. She stopped working on other solutions. When givers failed to deliver, the problem had become that much more diﬃcult and urgent.
+what we call fuzzy asks—vague, open-ended requests like “I just wanted
 
-- 3. An Emotionally Charged Aftermath
+to get your input.”
 
-Unhelpful help doesn’t just derail projects—it damages relationships
+As one designer in our study reﬂected, “Helping somebody help you is often quite diﬃcult when you’re overwhelmed with information and
 
-and morale. Recipients often felt misled and unsupported. In Amy’s
+you don’t know how to narrow down the question.”
 
-case, the lack of follow-through made her feel undervalued. As she put
+Help-givers, in turn, were left guessing. One explained, “It was unclear
 
-it, “If Glow thinks this is what I’m all about, to make sense of things that
+what the team wanted from me…I think it was more like, ‘Can you
 
-are all crazy and just to hold it together, I don’t want to. That shouldn’t
+come in and just be part of this discussion?’” The result? Murky
 
-be my value here.”
+understandings that led to help that didn’t ﬁt the receivers’ needs.
 
-Givers didn’t fare much better. Some felt their contributions were
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-ignored or misused. Without feedback, they couldn’t know whether
+3
 
-they’d made a diﬀerence—or how to improve next time.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

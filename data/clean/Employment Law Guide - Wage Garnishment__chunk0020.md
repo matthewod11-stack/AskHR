@@ -1,3 +1,7 @@
-## Title III, Consumer Credit Protection Act (CCPA)
-
-(15 USC §1671 et seq. (PDF)(https://www.dol.gov/whd/regs/statutes/garn01.pdf); 29 CFR Part 870(/elaws/leave-
+---
+source_path: Employment Law Guide - Wage Garnishment.md
+pages: n/a-n/a
+chunk_id: a50369c9b6242604d54adeef8a1551572bb7204d
+title: Employment Law Guide - Wage Garnishment
+---
+# Updated: December 2016

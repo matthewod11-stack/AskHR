@@ -1,7 +1,13 @@
-# continuous, incremental improvements.
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d26a78ba06faa2d11cde80009321751fa3f0a0a0
+title: H08R2D-PDF-ENG
+---
+## an innovative culture—one in which creativity and imagination thrive.
 
-For example, Diageo introduced an innovation team that focuses
+Without such a culture, there is a risk that complacency sets in. Yet
 
-on integrating emerging technologies and experiences to enhance
+rather than chasing disruption or innovating to unlock new markets,
 
-their existing portfolio; this team developed the world’s lightest
+many of the stable ﬁrms in our sample highlight the power of

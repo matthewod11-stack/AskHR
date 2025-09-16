@@ -1,13 +1,15 @@
-# to Indian shelves.
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 41461d37f89486784c742abd45d53ac4a7128fa5
+title: H08IKX-PDF-ENG
+---
+## HBR / Digital Article / Is Your Company’s Problem Complicated? Or Complex?
 
-- 6. Prepare Leaders to Deal with Complex Problems
+bureaucratic and political dynamics. Recognizing the vital role of
 
-Leaders typically rise through the ranks by solving complicated
+retailers, many of whom depended on Maggi for their livelihoods,
 
-problems with logical approaches. Managing complex issues requires
+they tried to mobilize their support. By involving a wide array of
 
-leaders who can use intuitive skills built on years of experience in
-
-dealing with complex problems to navigate ambiguity, adapt to rapidly
-
-changing circumstances, and balance diverse stakeholder interests.
+stakeholders, Nestlé laid the groundwork for Maggi’s eventual return

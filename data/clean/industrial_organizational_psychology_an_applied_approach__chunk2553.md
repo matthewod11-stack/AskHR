@@ -1,5 +1,9 @@
-## Lack of Organizational Citizenship Behaviors
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: fee6c7d6f88e9e699edf0955943f0e366a6466bc
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Reducing Turnover at Bubba Gump Shrimp Co.
 
-Employees who engage in organizational citizenship behaviors (OCBs) are motivated to help the organization and their coworkers by doing the “little things” that they are not required to do. Examples of OCBs include staying late to get a project done, helping a coworker who is behind in her job, mentoring a new employee, volunteering for committees, and flying in coach when the employee might be entitled to first-class.
-
-Not surprisingly, a meta-analysis has demonstrated that job satisfaction is related to OCBs. That is, employees who are satisfied with their jobs and committed to the organization are more likely to “go the extra mile” than are employees who are dissatisfied with their jobs (LePine et al., ). Also not sur- prisingly, meta-analysis results show that there is a negative correlation between OCBs and employee counterproductive behavior (Dalal, ).
+For example, Cropanzano and Greenberg () found that employees who were unhappy with the way in which they were treated by their supervisors had an increased likelihood of stealing from their employers. The interesting finding of this study was that the employees tended to take things that were of value to the organization but not to them. That is, they didn’t steal because they wanted an item, they stole because they wanted to hurt the organization.

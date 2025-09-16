@@ -1,7 +1,7 @@
-# Photo_Concepts/Getty Images
-
-Lev’s promotion to senior project manager came with an unexpected
-
-challenge. Although he continued to report to his functional boss,
-
-Gina, the head of product development, he now also answered to
+---
+source_path: H08HUV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0eb517737512319e912e421b6ff84359b725d826
+title: H08HUV-PDF-ENG
+---
+## Published on HBR.org / December 6, 2024 / Reprint H08HUV

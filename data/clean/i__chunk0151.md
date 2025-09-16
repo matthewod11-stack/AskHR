@@ -1,31 +1,23 @@
-## 2.5 Analytics skills of HR Department in current landscape
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 09360b0a1c2e7030b66691cd5c4f20e8bc29ae82
+title: i
+---
+# Value (Ferrar. And. Green 2021))
 
-Ferrar and Greenaway (2021) argue that the significance of PA as a field is rapidly increasing
+In the scope of this thesis, Data Science element form Six Skills for Success is discussed.
 
-not only within the HR department x§ across the broader business functions. There are
+According to the table, to successfully leverage workforce data, various skills are required: the
 
-increasing numbers of individuals equipped with existing analytical skills and deepening their
+data science element indicates expertise in data engineering while the communication skill
 
-analytical skills in working in HR. Senior leaders are becoming increasingly aware of the
+refers to data analytics. Data science includes a wide range of advanced mathematics: statistics
 
-31
+and modeling, data management expertise to work with databases, programming knowledge,
 
-imperative for a data-driven approach within their HR operations. Human resources executives
+data modeling, and machine learning. Communication skills are also broad, which include
 
-who dedicate resources to people analytics are on their ways to discover innovative avenues to
+analyzing and visualizing data to figure out actionable insight. Communicating of findings in
 
-enhance their companies' competitive edge in the marketplace.
-
-However, Edwards and Edwards (2016) point out that <the majority of HR functions do not
-
-have the core capabilities to carry out predictive analytics activities=, which is an advanced
-
-analytics. In addition, the authors specify that there is a lack of training and education for HR
-
-specialists in terms of statistical and numerical knowledge. These skills are considered non-
-
-compulsory, and the HR function is a <safe haven= from numbers. The author argues that,
-
-within the context of the United Kingdom’s Chartered Institute of Personnel and Development
-
-syllabus, exist a deficiency in designated areas to develop HR student qualifications in
+a narrative that influences business strategy decisions is also a part of this element.

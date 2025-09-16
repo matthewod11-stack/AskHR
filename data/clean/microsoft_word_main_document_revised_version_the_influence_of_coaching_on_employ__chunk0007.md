@@ -1,3 +1,15 @@
-# 1.2 Purpose of the paper
+---
+source_path: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ.md
+pages: n/a-n/a
+chunk_id: 7d62ac14c8a97307425f12ac4ff57363b35886fc
+title: microsoft_word_main_document_revised_version_the_influence_of_coaching_on_employ
+---
+# 1.1 Research Problem
 
-The goal of this paper is to contribute to the literature investigating the impact of coaching on performance, by reporting the results from two international quantitative studies. One of the studies used a sample of business-to-business employees working in one of the central countries in Latin-America for an American industrial manufacturer. The other sample consisted of frontline employees, holding sales responsibilities at one of the biggest regional banks in Central Canada.
+The last few decades have shown an increasing pace of change in the business environment, with new competitors entering in and struggling for stagnant markets. This increasing competition has forced organizations to make additional efforts to develop and keep competitive advantages and to proactively respond to a more complex business environment (Hagen, 2012). In this context, research and transference of managerial tools aimed at increasing employee performance has become critical (Pousa, 2012; Pousa and Mathieru, 2010). One particular managerial tool, the coaching of the sales force, has been specially praised by practitioners and scholars as key to develop subordinates and help them achieve higher levels of performance (Corcoran et al., 1995; Deeter-Schmelz et al., 2002, 2008; Ellinger and Bostrom, 1999; Pousa, 2012; Richardson, 2009).
+
+The use of coaching in organizations started to appear in peer-reviewed journals in the late 1930s (Grant, 2011) and continued at a steady pace since then. However, since the 2000s the number of publications addressing different types of coaching in organizations increased dramatically (Grant, 2011; Hagen, 2012; Pousa, 2012).
+
+Despite the seeming abundance of research in coaching in organizational settings, several authors identified two important gaps. The first one, is the paucity of research on the impact of coaching on employee and organizational performance (Grant and Cavanaugh, 2004; Hamlin et al., 2006; McLean et al., 2005; Hagen, 2012). This gap led to recent calls to explore the effectiveness of coaching in improving performance (Cassidy and Medsker, 2009). A second gap is that the expected relationship between coaching and performance has not been adequately explained, in the sense that there are very few studies that identified mediating variables between coaching and performance (Pousa, 2012; Pousa and Mathieu, 2014).
+
+We decided to address the first gap in the literature, and explore whether coaching by the manager affects employee performance or not (research question). Accordingly, we conducted two field studies with the purpose of testing the relationship between the managerial coaching and employee performance.

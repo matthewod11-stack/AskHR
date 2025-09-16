@@ -1,7 +1,19 @@
-# An Introduction to Leadership
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6137e0420256e41b749e527b67096813b94e1460
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Focus on Ethics: Ethics and Leadership
 
-Many different theories about leadership have been developed over the last few decades. Although none of the theories “tells the whole story” about leadership, each has received at least some empirical support. Understanding the theories and research behind leadership is important because the theory that company executives believe about leadership will, for the most part, determine how an organization selects or develops its managers.
+437
 
-For example, if we believe that certain people are “born leaders” because of their personal traits, needs, or orientation, then managers could be selected partially on the basis of their scores on certain tests. But if we believe that leader- ship consists of specific skills or behaviors, then theoretically we should be able to train any employee to become an outstanding leader. If we believe that good leadership is the result of an interaction between certain types of behaviors and particular aspects of the situation, then we might choose certain types of people to be leaders at any given time, or we might teach leaders how to adapt their behavior to meet the situation.
+Imagine a company with thousands of workers that has seen sales drop in each
 
-The following pages provide brief explanations of the most popular lead- ership theories. When reading about each theory, think about what the theory would imply about the selection or development of leaders for an organization. In addition, think of how you manage and the type of leader you wish to be.
+of the past five years. The president of the company steps down, and a new president is installed. Several years later, the company makes a profit, and
+
+everyone hails the new president as the reason for the improvement.
+
+Now imagine a football team with a winning record in each of the last ten years. The team’s coach leaves for another school, and the team loses the majority of its games in the next few years.
+
+In both of these examples, a new leader took over. In the first example, the organization became more successful, whereas in the second example, the team went into decline. How much of the organization’s performance can be attributed to the leader? If the leader was the major cause of the changes in performance, why was one leader successful and the other a failure? These types of questions will be addressed in this chapter. To get you thinking about leadership, complete Exercise . in your workbook.

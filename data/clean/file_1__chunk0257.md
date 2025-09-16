@@ -1,13 +1,13 @@
-## Southern India. Social Science and Medicine, 55 (10), 1849-1869.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 6092b67cc7c3813e34f1daac062ef6add2d4f168
+title: file_1
+---
+# 61
 
-Neff K., Cooper K. and A. Woodruff. 2007. Children's and Adolescents' Developing
+Mitra, A., 2002. Mathematics Skill and Male-Female Wages. Journal of Socio-Economics,
 
-Perceptions of Gender Inequality. Social Development, 16 (4), 682–699.
+31, 443-56.
 
-Ngo, H., Foley, S., Wong, A. and R. Loi, 2003. Who Gets More of the Pie? Predictors of
-
-Perceived Gender Inequity at Work. Journal of Business Ethics, 45, 227-241.
-
-Nie, W., Hopkins, W. and S. Hopkins, 2002. Gender-based perceptions of equity in China’s state-owned enterprises. Thunderbird International Business Review, 44, 353-377.
-
-Nieminen, T., 2009. Gender Equality Barometer 2008. Helsinki: Publications of the
+Navaneetham, K. and A. Dharmalingam, 2002. Utilization of maternal health care services in

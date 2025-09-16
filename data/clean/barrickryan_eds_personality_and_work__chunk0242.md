@@ -1,5 +1,11 @@
-# Autonomy
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a4a98d1fa78576f6b32fd53352a725e4afccaa81
+title: barrickryan_eds_personality_and_work
+---
+# 72 PERSONALITY AND WORK
 
-In addition to cooperative and competitive demands, the level of autonomy in the situation is likely to have a fundamental impact on the relationship between personality traits and performance. The nature of this effect is quite different from that attributed to the inﬂuence of cooperative or competitive social demands at work, however. In this case, autonomy relates to the extent to which the external environment constrains a person’s freedom to behave in idiosyncratic ways (Barrick & Mount, 1993; Liu & Weiss, 2000). In strong situations, the organization exerts considerable pressure or demands to induce conformity. These controlling forces press the individual to behave in a speciﬁc way or exhibit a very narrow range of behaviors. In contrast, weak situations pre- sent few demands or presses to conform. In such settings, the in- dividual determines which behaviors, if any, to undertake. The magnitude of the relationship between personality traits and be- havior is thus greater in weak situations, or settings where people can perform their jobs in idiosyncratic ways.
+with others ((cid:1) = .27, n = 1,491), particularly when those jobs involve interacting in teams ((cid:1) = .35, n = 678). Results from Hough’s meta- analysis (1992) support this; she found that Agreeableness corre- lated with measures of teamwork (r = .17). Agreeableness thus appears to be an important predictor of behavior in cooperative settings.
 
-A few studies demonstrate that personality is more useful in predicting behavior when autonomy is high than when it is low.
+Barrick and Mount (1991) found Extraversion to be a valid predictor of performance in management and sales jobs, which have a high social component related to inﬂuencing or leading others (sales: (cid:1) = .15, n = 2,316; management: (cid:1) = .18, n = 11,335). Stewart (1996) also illustrated that Extraversion is quite sensitive to the situational inﬂuence of rewards. In this study, Extraversion was related to higher performance only on performance dimen- sions that were explicitly rewarded (new sales or customer rela- tions). Empirical ﬁndings thus suggest that Extraversion is related to performance in situations where one can acquire and maintain status (that is, in competitive situations).

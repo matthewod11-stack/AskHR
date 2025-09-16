@@ -1,7 +1,9 @@
-## communication during extreme-weather events.)
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a2fba9ccb4a97e8cd8167230b77f8679f588924
+title: H08C0J-PDF-ENG
+---
+## company with robust emergency response plans for equipment failures
 
-Also, larger, more dispersed companies will need to break down risks
-
-based on several additional factors. These include geographic diversity
-
-(i.e., local versus national versus international risks), industry (e.g.,
+could adapt these same plans to focus on employee evacuation and

@@ -1,3 +1,7 @@
-# Part II • System Implementation
-
-In spite of these challenges, there are situations in which a trait-oriented approach can be fruitful. For example, as part of its business strategy, an organization may anticipate drastic structural changes that will lead to the reorganization of most functions and the resulting reallocation of employees. In such a circumstance, it may be useful to assess the traits possessed by the various individuals so that fair and appropriate decisions are made regarding the allocation of human resources across the newly created organizational units. This is, of course, a fairly unique circumstance. In most organizations, performance is not measured using the trait approach. This is why two more popular approaches to measuring performance are based on behaviors and results, as we discussed earlier.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 563e0d48979a81f37f330d14bd56be78b93b7a46
+title: performance_management_3rd_edition_by_aguinis
+---
+# 100

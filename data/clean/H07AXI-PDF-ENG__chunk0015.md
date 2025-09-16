@@ -1,13 +1,13 @@
-# Test, re-test and adjust accordingly.
+---
+source_path: H07AXI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ea63e9b7181a410901f3030ee2938248b358538
+title: H07AXI-PDF-ENG
+---
+# personal comfort.
 
-People will use the oﬃce if it’s a space they want to be in.
+This was an important way to ensure that many of the employees
 
-That’s why we’ve adopted a mindset of testing and experimentation
+from underrepresented groups, who prefer to work from home because
 
-and adjustment throughout this process. We’re constantly soliciting
-
-feedback from employees to learn what’s working and what should
-
-change. This includes easels throughout the building where people can
-
-leave handwritten comments, frequent surveys, feedback forms, focus
+it involves less code-switching, also feel comfortable returning to the oﬃce.

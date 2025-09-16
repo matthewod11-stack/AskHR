@@ -1,11 +1,9 @@
-# events or meetings
+---
+source_path: H08EPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23368f6a323a698947c288630023ff586c1aad2b
+title: H08EPO-PDF-ENG
+---
+## incorporate into conversations or presentations
 
-- Customizable email templates for connecting you with diﬀerent
-
-stakeholders or promoting your work
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- A brief, polished script they could use to introduce you at company

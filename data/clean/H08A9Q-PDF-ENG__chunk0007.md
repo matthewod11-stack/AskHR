@@ -1,9 +1,27 @@
-## HBR / Digital Article / AI Success Depends on Tackling “Process Debt”
+---
+source_path: H08A9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f945e1501f58ca0e2f57ef0161ff34f5ab52343a
+title: H08A9Q-PDF-ENG
+---
+# Illustration by Antti Kalevi
 
-Organizations have already launched dozens (if not hundreds) of eﬀorts
+Much like the many digitization efforts that have come before, AI
 
-to harness the power of AI. In fact, PwC’s 2023 Emerging Technology
+brings tremendous potential to help transform how work is done, and
 
-Survey found that 54% of companies have implemented generative AI
+even access work that we didn’t think was possible. Consider that ER
 
-in some areas of their business, and our ﬁrm has identiﬁed more than
+doctors hit an average of 4,000 keystrokes in a 10-hour shift — imagine
+
+all the good that could be accomplished from repurposing that eﬀort,
+
+time, and mental energy by not just replacing some of this work, but
+
+also augmenting intelligence to help improve eﬀectiveness and speed.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

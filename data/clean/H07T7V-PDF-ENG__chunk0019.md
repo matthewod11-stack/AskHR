@@ -1,29 +1,25 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63e4896c5f9e09c297ac7fe636c1f9b8293fece5
+title: H07T7V-PDF-ENG
+---
+# for themselves.
 
-ANDREW MCAFEE:
+Geek for me is entirely separate from digital. You can be a non-digital
 
-Not listening to his peers, to his colleagues, to his advisor. He didn’t
+geek, and you can certainly be very digital and not geeky at all.
 
-appear to be a great listener, which is this kind of stereotypical trap that
+ADI IGNATIUS:
 
-a lot of industrial-era companies fall into. Tech leaders also fall into this
+The Quibi thing is an interesting example. I guess what was missing
 
-trap quite often. You become enamored of your own success and you
+from your framework was the openness. You had a powerful guy who
 
-really stop listening. It’s incredibly common.
+had been successful, who wasn’t listening.
 
-One of the things that is powerful, and that I respect about people like
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Reed Hastings at Netﬂix is that he was able to build a business that got
+5
 
-important decisions right when he himself was wrong about them. In
-
-the book I talk about a couple of them.
-
-He was dead-ﬂat wrong about the utility of downloading to the Netﬂix
-
-app. He thought it wouldn’t be very useful at all; it’s incredibly useful.
-
-He was wrong about the importance of kids’ programming for Netﬂix.
-
-And he admits this in the book, No Rules Rules that he wrote with Erin
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

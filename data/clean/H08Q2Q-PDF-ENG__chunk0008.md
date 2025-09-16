@@ -1,57 +1,51 @@
-# HBR / Digital Article / In Uncertain Times, Ask These Questions Before You Make a De…
+---
+source_path: H08Q2Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9400ab48da5a551d449803368d4d400261155403
+title: H08Q2Q-PDF-ENG
+---
+## resilience over quick wins and strategy over noise.
 
-transparently to employees, reinforcing the company’s long-term
+Alana, a senior leader at a global consumer brand, was under pressure
 
-commitment while acknowledging short-term constraints.
+to cut costs after a disappointing quarter. Her ﬁnance team presented
 
-The question helped Alana resist a reactive decision and instead choose
+a straightforward solution: Eliminate the company’s sustainability
 
-one that balanced immediate needs with long-term positioning.
+initiatives. The move would produce fast savings with minimal
 
-- 2. If a year from now this decision was used as an example of our leadership, what would it teach?
+operational disruption—just what the quarterly report seemed to call
 
-In uncertain times, when data is incomplete and outcomes feel
+for. But something about the recommendation gave her pause.
 
-unpredictable, this question helps leaders shift from reactive problem-
+After asking herself “What decision today will still make sense
 
-solving to intentional meaning-making.
+a year from now?”, Alana zoomed out to consider the long-term
 
-This is more than a reﬂection question—it’s a reframing device. It asks:
+consequences of this move. Sustainability had become a key part
 
-What kind of story are we writing with this decision? What would others
+of the brand’s identity—especially with its fastest-growing customer
 
-learn—not just about what we did, but about how we showed up?
+base: younger consumers who cared deeply about environmental and
 
-Unlike a question that focuses on whether a decision will stand the test
+social responsibility. Slashing those programs might help this quarter’s
 
-of time, this question is about what your decisions say about you—your
+margins, but it would send the wrong signal to the market and risk
 
-priorities, courage, and clarity. It’s strategic because it prompts leaders
+damaging hard-earned trust.
 
-to widen the lens and consider how their choices reﬂect the culture
+Instead of cutting the entire program, Alana identiﬁed which
 
-they’re building and the example they’re setting.
+sustainability eﬀorts were most visible and most valued—for example,
 
-Take Raj, a vice president at a fast-growing tech ﬁrm, who was leading a
+the company’s ethical sourcing partnerships. This enabled her to
 
-high-stakes product launch. One team member raised ethical concerns
+preserve what mattered most, while pausing or restructuring eﬀorts
 
-about how user data might not remain anonymous. While the legal team
-
-had signed oﬀ, a gray area remained. Delaying the launch would mean
-
-missing a major investor milestone. The team was split.
-
-Asking “If a year from now this decision was used as an example of our
-
-leadership, what would it teach?” shifted the conversation. It wasn’t just
-
-about timelines or risk anymore—it was about character. What lesson
-
-did they want to model? What did they want their team—and their users
+that had less direct consumer impact. She communicated the decision
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

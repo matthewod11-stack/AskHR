@@ -1,13 +1,13 @@
-# HBR / Digital Article / Research: Why Employees Work While Sick—and How Leaders C…
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54619f2d6f1bcf3822a40a064a8bac07a0203fa8
+title: H08R51-PDF-ENG
+---
+# organizational resilience.
 
-- 1. Map job demands and resources across roles to identify imbalances.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Start with a broad diagnostic to assess core pressures and supports
+5
 
-across major role categories. Map the degree of job demands (e.g.,
-
-workload, scheduling, expectations of responsiveness) alongside job resources (e.g., autonomy, ﬂexibility, backup staﬃng, managerial
-
-support) across roles. Use this diagnostic framework to identify where
-
-imbalances are most pronounced. Here are some strategies to gather
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

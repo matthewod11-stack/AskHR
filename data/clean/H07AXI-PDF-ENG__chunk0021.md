@@ -1,19 +1,21 @@
-# and their work more enjoyable.
+---
+source_path: H07AXI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4b12745733399a5b2aaa38983759208fba07a9f
+title: H07AXI-PDF-ENG
+---
+## space enable connectivity and productivity?
 
-We know we haven’t gotten everything right and we don’t expect
+In fact, since we opened our new HQ, we’ve found that, even though
 
-everything to work as planned — the key is to ask why, tweak the design,
+employees are free to work from home or on campus, 63% of people
 
-and then test again. Either way, this next step is less about ﬁguring out the end game and more about creating an oﬃce space dynamic enough
+technically assigned to other buildings now make their way to B1 since
 
-to adapt to our evolving world of work.
+opening in January, taking advantage of the variety of work zones,
 
-This article was originally published online on October 21, 2022.
+amenities and conﬁgurations the space provides. We’ll keep listening
 
-Lisa Britz is director of workplace design for LinkedIn
+to their suggestions to see what else might draw them in and how we
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+might experiment as a result in order to help them feel more eﬀective

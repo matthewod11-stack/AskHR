@@ -1,23 +1,27 @@
-# Laissez Faire/Passive
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 688d35ed679a1cc45cf025735cec3e2afd23af29
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Management-by-exception
 
-5
+4
 
-1134
+1009
 
-- .49
-
-- .58
+- .07
 
 - .39
 
-- .60
+.25
 
-.13
+- .08
 
-18.91
+.47
 
-- .76
+2.58
 
-- .43
+- .68
 
-Notes. Results are corrected for criterion and predictor unreliability. k = number of correlations; N = number of respondents; r = sample weighted mean correlation; ρ = corrected population correlation; SDρ = standard deviation of the corrected population correlation; % VE = percentage of variance attributed to sampling error in corrected population correlation; 90% CI = 90% confidence interval around the sample weighted mean correlation; 80% CV = 80% credibility interval around the corrected population correlation.
+.52

@@ -1,15 +1,13 @@
-# their speciﬁc organization.
+---
+source_path: H07Q3D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df8bf2f273b4434473e5b7b23a31181e19484880
+title: H07Q3D-PDF-ENG
+---
+## accessible to as many employees as possible, not just those lucky
 
-Capitalizing on Micro-Nature
+enough to work below a green roof or alongside a park. Companies
 
-Real is best, but artiﬁcial works too. Giving employees opportunities
+should provide employees with micro-nature experiences. Below, we oﬀer suggestions for incorporating micro-nature into the workplace,
 
-to access “the real thing” is ideal when it comes to nature: indoor water
-
-features, windows with views of nature or that open to let in natural
-
-sounds like birdsong. But just because it’s not the real thing does not
-
-mean that employees will not beneﬁt from nature. Research shows that
-
-even depictions of nature, such as murals and artiﬁcial ﬂowers, can give
+while also encouraging managers to take liberties and get creative in

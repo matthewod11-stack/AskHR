@@ -1,19 +1,9 @@
-## Techniques like weighted scoring or a value vs. eﬀort matrix help
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e3870e21d71f6fb5efa44505d783cf8c927f7fd
+title: H08OIO-PDF-ENG
+---
+# Use data-based scoring frameworks
 
-quantify an idea’s business value against the resources it requires.
-
-Netﬂix for instance employs the Prioritization by Innovation Outcome
-
-(PIO) framework which leverages customer usage data, market research,
-
-and ﬁnancial metrics to assess the potential impact of product
-
-innovations. Other organizations utilize frameworks like the RICE
-
-(Reach, Impact, Conﬁdence, Eﬀort) scoring model to systematically
-
-evaluate and prioritize products, ensuring that development eﬀorts
-
-are focused on high-impact initiatives. By integrating structured
-
-methodologies, companies can avoid strategy fatigue and maintain a
+Adopt a data-driven method to rank ideas by impact and feasibility.

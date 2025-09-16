@@ -1,13 +1,25 @@
-## What Enterprise AI Solutions Must Deliver
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68784f13545f5e67b103bda201b081110ef2cd51
+title: H08TQF-PDF-ENG
+---
+# HBR / Digital Article / Should Your Business Use a Generalist or Specialized AI Model?
 
-This shift represents more than a technical reﬁnement; it’s a
+and insurance coverage framework. This insight led us to replace a
 
-fundamentally diﬀerent philosophy. Rather than retrieving text and
+pattern-matching approach with one that starts by understanding the
 
-hoping the model parses it correctly, eﬀective specialized solutions
+prior authorization policy criteria, then searches clinical documents for
 
-extract structured professional facts ﬁrst, then apply domain-speciﬁc
+the speciﬁc evidence a clinician would use. We trained our generative
 
-reasoning to those facts.
+AI agents to follow how clinicians read—understanding the structure of
 
-Consider how experienced physicians approach a complex case. They
+charts, moving from sections to subsections, and identifying the right
+
+ﬁndings in context. To maintain clinical precision, we built specialized
+
+agents for distinct tasks, avoiding the cross-specialty overlap that
+
+general models often introduce.

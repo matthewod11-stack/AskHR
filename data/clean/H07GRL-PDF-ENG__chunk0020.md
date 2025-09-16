@@ -1,19 +1,17 @@
-## surveys, lunchtime focus groups, or even just informal check-ins. After
+---
+source_path: H07GRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1663c5734073aa847f19e76ccade366b72e45f6
+title: H07GRL-PDF-ENG
+---
+## HBR / Digital Article / How a Parent’s Experience at Work Impacts Their Kids
 
-all, it is often employees themselves who have the best solutions to the
+their communication skills. For example, there were supervisors in
 
-work-family challenges they are facing — they simply need to be asked.
+my studies who were so disconnected from their employees’ lives that
 
-Ultimately, to build a truly healthy and sustainable workplace,
+they weren’t even aware that some of their male workers had become
 
-employers must expand their deﬁnition of ROI to include returns not
+parents. Healthy organizations give employees the time and space to
 
-just for themselves or their employees, but for employees’ children,
-
-families, neighborhoods, and entire communities. How companies treat
-
-their workers today will determine how the next generation grows up
-
-tomorrow, and it’s up to all of us to invest in our shared future. That
-
-means building workplaces that value the wellbeing of working parents
+share their experiences and ideas, whether that’s through anonymous

@@ -1,21 +1,15 @@
-## measures of return on assets, proﬁt margin, and economic growth. The
+---
+source_path: H07EDU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6e248f65bfe4ef5e569a9270e9a2a7fcb934f115
+title: H07EDU-PDF-ENG
+---
+## eﬀects of layoﬀs undertaken during diﬀerent economic conditions.
 
-authors conclude, “For downsizing companies to gain a competitive
+Replicating earlier longitudinal studies, it found that layoﬀs do not,
 
-advantage to outperform their competitors, it probably will take even
+in general, oﬀer immediate ﬁnancial improvements. Firms conducting
 
-longer.”
+layoﬀs underperformed ﬁrms that did not conduct layoﬀs for the
 
-Layoﬀs have direct costs, including severance and the continuation of
-
-health beneﬁts which can lead to substantial restructuring charges that
-
-eat into hoped-for margin improvements. As a thought experiment,
-
-multiply the salary of 11,000 Meta employees by four months —
-
-increasing it perhaps to ﬁve to account for an open-ended extra week
-
-of severance for every year worked. Add to that the cost of extending
-
-health beneﬁts for six months … you can see how the numbers can add
+ﬁrst two years, achieving comparable performance by year three on

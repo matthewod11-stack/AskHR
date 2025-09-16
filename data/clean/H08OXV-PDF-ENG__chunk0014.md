@@ -1,13 +1,27 @@
-## feelings of personal autonomy, competence, and social connection, all
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8954bd3f8df82fd3785be8522a9d357cdac264a
+title: H08OXV-PDF-ENG
+---
+## The Science Behind Leisure Crafting and Well-Being
 
-of which contribute to well-being. Participants approaching their leisure
+To understand how leisure crafting compares to passive activities and
 
-in this manner were also more likely to say that they felt they had a
+approaching leisure without this mindset, we conducted 11 ﬁeld studies
 
-meaningful, engaging, and fulﬁlling life.
+with more than 2,400 working professionals. Participants reported
 
-But because those studies examined what people were already doing,
+how they spent their leisure time and the mindset in which they
 
-we decided to run another experiment, asking participants who didn’t
+approached their leisure. They also responded to a series of assessments
 
-previously craft their leisure to engage in these behaviors, and we tested
+that gauged their energy levels, moods, and overall well-being. The
+
+ﬁndings were striking. Individuals who reported engaging in leisure
+
+crafting reported higher energy levels, more positive moods, and
+
+stronger overall well-being compared to those who engaged primarily
+
+in passive leisure. Moreover, leisure crafting was associated with greater

@@ -1,11 +1,31 @@
-# happenstance.
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ae77017948410f2790cec43297b5300256f79da
+title: H082MI-PDF-ENG
+---
+## HBR / Digital Article / Fighting Loneliness on Remote Teams
 
-This article was originally published online on March 22, 2024.
+me, just like it is for you. I’ve been struggling with [opportunity for
 
-Rachel Montañez is a keynote speaker on burnout and self-advocacy in the workplace. Her clients include a range of Fortune companies including Google, General Mills, L’Oréal, and Under Armour. As a Millennial who has lived in the U.S., UK, South Korea, and Japan, her style and expertise resonate across borders and generations.
+transparency]. Did you know we have [beneﬁt that you can use for
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+support]? Here’s [link] where I found it.
 
-9
+The power here is in the follow-up. At the next opportunity, discuss your
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+message and continue the conversation around mental well-being.
+
+. . .
+
+Building a community in a remote environment requires innovation
+
+and intention, but getting started only takes one act. When followed
+
+through, the process and outcomes are transformative and rewarding
+
+from the standpoint of preventing burnout and impacting the bottom
+
+line, elevating the employer brand, and knowing that you made a diﬀerence in someone’s life. There is far too much at stake for
+
+individuals and corporations to hope in building communities by

@@ -1,7 +1,11 @@
-# The Innovation Spectrum
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9f7750e4bc95739a504ad6f9f7c817e1a5943244
+title: R2404K-PDF-ENG
+---
+## ﬁt the company’s needs, accelerator executives, with guidance from the
 
-This table compares three points along the innovation spectrum. Incremental
+ﬁrm, may sell it to an outside entity. And if a product design fails to gain traction, the product portfolio is suﬃciently robust to disperse risk; a
 
-innovation created within an incumbent firm is at one end, and entrepreneurial
-
-innovation created outside of an incumbent firm is at the other. In the middle is the
+few failures won’t curtail the overall eﬀort.

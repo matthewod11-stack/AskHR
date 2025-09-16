@@ -1,7 +1,13 @@
-## HBR / Digital Article / How a Parent’s Experience at Work Impacts Their Kids
+---
+source_path: H07GRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dad49dbd6cd106f72c0a82ab0abe0162ffb3183
+title: H07GRL-PDF-ENG
+---
+# children.
 
-To explore the impact of parents’ work on their children’s development,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-my team and I conducted a longitudinal study that followed more
+1
 
-than 370 low-wage, working-class families over more than ten years,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

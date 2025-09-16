@@ -1,19 +1,37 @@
-## What Sets Successful Cross-Functional Leaders Apart
+---
+source_path: H07Z1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35ff28c64f18f3b76261d1a091191ec534a3a4dd
+title: H07Z1A-PDF-ENG
+---
+## HBR / Digital Article / How to Lead Across a Siloed Organization
 
-Leaders who thrive cross functionally possess what we call “lateral
+Given our work with senior leaders and their increasing angst at
 
-agility,” or the ability to move side to side quickly while maintaining
+trying to get things done cross functionally, we set out to better
 
-their balance. They spend as much time leading across the organization
+understand how great leaders navigate these challenges to drive results.
 
-as they do with their own teams. In organizations, this means eﬀectively
+We interviewed dozens of senior leaders (VP level and above) who were
 
-partnering with leaders of diﬀerent departments to further enterprise
+nominated by their organizations as individuals who could get things
 
-goals, while maintaining a focus on their own group’s objectives. Here
+done across the business without damaging relationships along the way.
 
-are three traits these high-performing leaders have in common.
+Through our interviews, we found very clear and distinct patterns for
 
-Expanded mindsets. High-performing, cross-functional leaders
+how leaders do this well. Speciﬁcally, we found there are particular
 
-embrace expanded mindsets that lean on humility to activate bigger
+mindsets, skills, and practices top-performing leaders use to lead cross-
+
+enterprise eﬀorts and achieve signiﬁcant outcomes for the organization.
+
+We also found that leaders feel ill-equipped in how to lead across. Their
+
+experience and development is in traditional vertical leadership (i.e.,
+
+managing their own teams), but not in getting things done with peers
+
+who have diﬀerent agendas, priorities, and motivations. The skillsets
+
+are not the same.

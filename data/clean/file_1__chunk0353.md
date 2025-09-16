@@ -1,13 +1,15 @@
-## at Work. Academy of Management Journal, 38 (3), 589-634.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: b7d46803dd52732e0c851cf4684961d72ff68114
+title: file_1
+---
+# Press.
 
-Ely, R. and D. Meyerson, 2000. Advancing gender equity in organizations: the challenge and importance of maintaining a gender narrative. Organization, 7 (4), 589-608.
+Davis, N. and R. Robinson, 1991. Men’s and Women’s consciousness of gender inequality:
 
-Gutek, B. and B. Morasch, 1982. Sex-ratios, Sex-role Spillover, and Sexual Harassment of
+Austria, West Germany, Great Britain and the United States. American Sociological Review, 56 (1), 72-84.
 
-Women at Work. Journal of Social Issues, 38, 55-74.
+Durbin, S. and S. Fleetwood, 2010. Gender inequality in employment: Editors’ introduction. Equality, Diversity and Inclusion: An International Journal, 29 (3), 221-238.
 
-Hearn. J., Piekkari, R. and M. Jyrkinen, 2009. What Managers in Large Transnational
-
-Corporations Say About Gender Policies, Structures and Practices. Hanken School of Economics: Research Report.
-
-Howard, J. and D. Frink, 1996. The effects of organizational restructure on employee satisfaction. Group and Organization Management, 21 (3), 278-303.
+Ely, R., 1995. The Power in Demography: Women’s Social Constructions of Gender Identity

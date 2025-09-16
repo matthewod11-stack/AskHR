@@ -1,15 +1,31 @@
-## HBR / Spotlight Article / Teamwork at the Top
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17ef32897d5eb303ddbdabc9649f2a3083b13844
+title: S24053-PDF-ENG
+---
+# Four Steps to Success
 
-The price of not making this investment became clear to many
+Top teams seeking to become more eﬀective can take these four steps.
 
-companies during the Covid era. In the two years of remote work that
+- 1. Commit and invest. The ﬁrst step is to make a commitment that
 
-followed lockdowns, one leadership team watched its cohesion erode.
+teaming is a core skill at all levels of your organization—and that you
 
-“We lost our personal connections,” the CEO told us. “It felt like we
+and your team will model the right collective behaviors. Your team must
 
-had disbanded.” When subsequently drafting a new team charter, the
+make an explicit commitment to invest time and money establishing
 
-team committed to routinely meeting in person. A sprint team devised
+and nurturing the ﬁve traits discussed earlier. Four hours once a year during the executive oﬀ-site won’t cut it, and funding can’t be patched
 
-a budget for travel, accommodation, and other costs for two days every quarter, one half-day of which was devoted to team-eﬀectiveness
+together from other budgets. You’ll need to secure resources and make
+
+time on your calendar at regular intervals to work on capabilities so that
+
+they become routine behaviors.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+10
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

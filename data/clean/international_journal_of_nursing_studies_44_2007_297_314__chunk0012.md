@@ -1,19 +1,11 @@
-# individual ward level.
+---
+source_path: international_journal_of_nursing_studies_44_2007_297_314.md
+pages: n/a-n/a
+chunk_id: 541919e313f10c50475e0bc5d2b62fe9673a99cb
+title: international_journal_of_nursing_studies_44_2007_297_314
+---
+# B. Coomber, K. Louise Barriball / International Journal of Nursing Studies 44 (2007) 297–314
 
-(cid:2) Considers the contribution of qualitative research
+What this paper adds
 
-methods to develop insight.
-
-(cid:2) Reconﬁrms organisational factors (particularly stress and leadership) as more inﬂuential than individual factors (or demographics) on job satisfaction and turnover intentions.
-
-- 1. Introduction
-
-For 2003, the Ofﬁce of Manpower Economics (OME) (2003) reported that the rate of nursing staff leaving the National Health Service (NHS) in Britain was 9.4%. Given that nurses account for approximately 356,000 members of staff in the NHS, the scope of this ‘wastage’ amounts to approximately 33,500 nurses per annum. Nursing shortages have effects on many aspects of health care in Britain, not least constraining the effective delivery of services (Department of Health (DH), 2001). The problems associated with the shortage of registered nurses are compounded by an increasing demand for health care due to advances in medical technology, longer life expectancy, and the subsequent number of people living with serious illness and chronic disease (Buchan and Seccombe, 2003). Furthermore, there are increased demands for nurses as roles have widened to include those responsibilities formerly undertaken by medical staff, which emphasises the negative impact a nursing shortage may have on the quality of patient care (Aiken et al., 2002).
-
-A fundamental policy shift has occurred in the British NHS with the introduction of modernisation plans and the implementation of strategies for improving the working lives of health care staff (DH, 2000, 2001). The NHS Plan (DH, 2000) acknowledges workforce to recruitment, planning and effective approaches retention and motivation of NHS nurses as key elements to achieving a modernised health service. However, the health gain targets imposed by the NHS Plan are dependent on increasing the numbers of nurses in the NHS (Buchan and Seccombe, 2003).
-
-Borda and Norman, 1997). Additionally, the loss of performance and efﬁciency on part of the leaver prior to departure is a major consequence of turnover, and high absence is seen as a critical problem in times of high turnover (Cavanagh, 1989). This has the effect of increasing pressure on, and decreasing morale of the remaining staff, resulting in the possibility of further turnover (Gauci-Borda and Norman, 1997). The im- plications of this ‘vicious cycle’ serve to focus attention on retention as a means to inhibit turnover and address the burden of shortages.
-
-There are inconsistencies within the literature regard- ing turnover, which may be attributable to the uncertainty surrounding both deﬁnition and measure- ment (Cavanagh, 1989). Turnover is generally viewed as the movement of staff out of an organisation, yet this consistently presents problems within turnover research for two reasons. Firstly, the incongruent inclusion in sample populations of staff who are retiring or are dismissed alongside those who voluntarily leave; and secondly, distinction between intra- (i.e. movement between units within the same organisation) and extra- (i.e. movement across organisations) institutional turn- over is not made freely within the literature, which has particular resonance for the health service. Bluedorn (1978) viewed turnover as a two-dimensional concept, distinguishing between the act of leaving as voluntary or involuntary, and between the leaving and joining of an individual to an organisation. This deﬁned view is useful to consider when attempting to distinguish the variables that may have a relationship with voluntary turnover.
-
-To promote clarity, the theorists Fishbein and Ajzen (1975) sought to explain factors that predict actual turnover, summarising that behavioural intention is the primary antecedent to actual behaviour. This infers that the cognitive process of turnover intention (intent to leave) is an important predictor of actual turnover, a concept that has much empirical and theoretical support within turnover research (Mobley et al., 1978; Bluedorn, 1982; Steele and Ovalle, 1984; Prestholdt et al., 1987). Therefore, turnover intention (or intent to leave/stay) is consequently considered as an outcome of affective variables (such as job satisfaction) rather than actual turnover, which may be mediated by other variables such as age and tenure (Hellman, 1997). Actual turnover can thus be tested, but may not be subject to variables that are directly predictive.
+(cid:2) Reviews international research on job satisfaction exposing the factors most inﬂuential on turnover. (cid:2) Highlights the need to analyse job satisfaction at

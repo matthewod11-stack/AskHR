@@ -1,7 +1,15 @@
-# to the U.S. from Europe.
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03e4ff0abfd38256379757582ef61c6b6436f846
+title: H040YE-PDF-ENG
+---
+## foreign-trained executives to American companies with the UK as a distant
 
-Copyright © 2017 Harvard Business School Publishing Corporation. All rights reserved.
+second. 4.1 % of Chinese, 5% of MENA, and 2.1% of Indian executives in
 
-3
+the U.S. have received their education in Canada. MENA immigrant
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+executives’ routes appear a bit different in this regard from Chinese and
+
+Indian executives with about 10% of MENA immigrant executives arriving

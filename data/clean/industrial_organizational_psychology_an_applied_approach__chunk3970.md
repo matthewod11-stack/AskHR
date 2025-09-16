@@ -1,15 +1,17 @@
-## Point-of-purchase method A recruitment method in
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4f9f31ad93a278f5461fcc969d86efb5ce6e3aa3
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Peter Principle The idea that organizations tend to
 
-which help-wanted signs are placed so that they can be viewed by people who visit the organization.
+promote good employees until they reach the level at which they are not competent—in other words, their highest level of incompetence.
 
-Policy manual A formal method of downward
+Physical ability tests Tests that measure an applicant’s
 
-communication in which an organization’s rules and procedures are placed in a manual; legally binding by courts of law.
+level of physical ability required for a job.
 
-Polygraph An electronic test intended to determine
+Pleaser A type of person who wants to make everyone
 
-honesty by measuring an individual’s physiological changes after being asked questions.
-
-Position Analysis Questionnaire (PAQ) A structured job analysis method developed by McCormick. Position style A leadership style in which the leaders influence others by virtue of their appointed or elected authority; most effective in a climate of instability.
-
-Posttest A measure of job performance or knowledge taken after a training program has been completed.
+happy and is usually cooperative and helpful. Point method A job evaluation system in which jobs are assigned points across several compensable factors to determine the worth of the job.

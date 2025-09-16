@@ -1,29 +1,15 @@
-## employee, manager, freelancer, alumnus, and so on at or with an organization
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 69cb53b6077d6df842c7a880be155bd4a42123d7
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Definition of Employee Experience
 
-throughout their working life and personal life (exposed, observed, felt, and sensed)
+There are many interpretations and explanations for what employee experience is
 
-from the time the person hears about the organization, is employed, and has an
+and how it is different compared to employee engagement, which are better known
 
-everyday experience of the organization until the time the person leaves, becomes an
+terms today. Soren Smith in his book Mastering employee experience defined
 
-alumnus, and perhaps is employed again at a later time”. (Smit, 2020)
-
-Jacob Morgan wanted to avoid the simplistic definition of employee experience and
-
-he described it as strong connection between an organization and employee. He sees
-
-it as important to look from couple of different angles. The first is to look at employee
-
-experience though the perspective of the employee, the second puts us in the shoes
-
-of the organization, and the third is the connection between the first and second points
-
-of view. “For the people who are a part of your organization, their experience is simply
-
-the reality of what it's like to work there. From the perspective of the organization,
-
-employee experience is what is designed and created for employees, or put another
-
-way, it's what the organization believes the employee reality should be like”. (Morgan,
-
-2017). He defines employee experience as “the
+Employee Experience: “The sum of all the experiences a person has as a candidate,

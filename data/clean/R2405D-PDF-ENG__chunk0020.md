@@ -1,11 +1,15 @@
-## “The Balanced Scorecard: Measures That Drive Performance,” Robert
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b28de7570e9d873bd256fcdedda92a55865481c
+title: R2405D-PDF-ENG
+---
+## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
 
-S. Kaplan and David P. Norton opened with a simple observation: “What
+provides a range of values that the true eﬀect is likely to fall into, and
 
-you measure is what you get.” Although their article predates the era
+the degree to which one is certain it falls into that range. The answers
 
-of modern analytics, that idea is more apt than ever. Experiments and
+should shape the conversation about which course of action you’ll take.
 
-predictive analytics often focus on outcomes that are easy to measure
-
-rather than on those that business leaders truly care about but are diﬃcult or impractical to ascertain. As a result, outcome metrics often
+Focusing on the wrong outcomes. In their classic 1992 HBR article

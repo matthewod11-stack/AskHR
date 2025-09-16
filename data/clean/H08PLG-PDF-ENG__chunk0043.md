@@ -1,15 +1,25 @@
-# HBR / Digital Article / How Companies Can Mitigate the Harms of AI-Driven Inequality
+---
+source_path: H08PLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5219ec1d864f6b929d5a4caabd7835c89933fe3
+title: H08PLG-PDF-ENG
+---
+# Markets
 
-Many companies are already diﬀerentiating themselves on AI
+Companies that invest in trust-building tools will ﬁnd that trust
 
-trustworthiness: Microsoft emphasizes safety, security, and privacy,
+enhances demand. A study of AI voice assistants found that trust has a
 
-while Salesforce promises “humans at the helm” to engender trust.
+positive eﬀect on adoption, while trust was also key to users’ willingness
 
-Conversely, untrustworthiness comes at a cost: for instance, Zillow
+to persist with chatbots for health services. Customers are twice as likely
 
-experimented with buying homes based on its AI valuation model, only
+to engage with trustworthy AI, with workers being two-and-a-half times
 
-to shut the project down at a $300 million write-down eight months
+more likely to utilize employers’ AI tools at work if they trust them.
 
-later—a failure that led the company to lay oﬀ 25% of its staﬀ and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

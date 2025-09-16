@@ -1,19 +1,23 @@
-# other companies to their own workplace.
+---
+source_path: H07PS7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e8dbbe07aecaf957bb5b68c97932b42947092bc
+title: H07PS7-PDF-ENG
+---
+# basis.
 
-Redeﬁne what it means to be “good.”
+Consider your “not here” bias.
 
-Our research suggests that managers view their workplaces as equitable
+In another study, we had participants read a short article describing
 
-because they want to have positive views of their organization — and
+our research on a “not here” bias, and then we asked them to describe
 
-in their minds, “good” workplaces are those where inequity doesn’t
+the inequity in their workplace. Compared to a control group, we found
 
-exist. Such an outlook makes acknowledging inequity hard, even for
+that these managers rated inequity in their workplace as 10% higher
 
-people who believe in working against it. The solution here is to work to
+(as opposed to 3% higher from non-managers). This suggests to us that
 
-deﬁne a “good” organization diﬀerently — that is, as one that actively
+regularly asking managers to reﬂect on how the “not here” bias applies
 
-identiﬁes, acknowledges, and combats inequity. Such a change can help
-
-managers align their perceptions and actions with their organization’s
+to their workplace can help them apply the same standards they use for

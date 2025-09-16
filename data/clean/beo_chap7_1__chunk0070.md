@@ -1,15 +1,35 @@
-# CHAPTER SEVEN
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: bed8a6ace2615978a8e41e80ea0c465c8a38812f
+title: beo_chap7_1
+---
+# own.
 
-accounted for as part of the merger cost. For example, when General Electric (GE)
+Social comparison may also affect the boundaries of the firm. If people natu-
 
-bought the television network NBC, the high salaries of NBC employees angered
+rally compare their own wages to those who work in the same firm, then one of
 
-many successful engineers, who suddenly had an immediate reason to compare their
+the economic effects of a merger is a shift in the comparison sets of workers in
 
-wages with the highly paid “new neighbors.” Kole and Lehn (2000) make the same
+the newly merged company. Some workers will now be underpaid relative to their
 
-point about the takeover of Piedmont Aviation by U.S. Airways. The choice of the
+new colleagues. This creates turnover or influence costs, and those costs should be
 
-boundary of the firm, therefore, is also a choice of social comparison sets, which
+10Hall and Murphy (2003) wrote: “Although the new rules made option grants significantly more
 
-has economic consequences of its own.
+transparent—~which would lead companies to grant fewer options to the extent that options are used to
+
+‘hide’ compensation—we believe that the rules on net encouraged increased grants” (our italics). They
+
+note that the growth in option pay was already underway in the 1980s and conclude, “the new rule
+
+constituted an implicit government ‘blessing’ of stock options as appropriate performance-based pay,
+
+and this implicit endorsement may have further fueled the escalation of options” (Hall and Murphy 2003,
+
+p. 62). The subsequent growth of option-based packages is also consistent with the idea that self-serving
+
+comparison fueled growth in options grants.
+
+249

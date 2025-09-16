@@ -1,23 +1,21 @@
-# accurate results.
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26b69c78f00e8eca063d5a230d62afbfaf4c7eb2
+title: H07TEC-PDF-ENG
+---
+# Watch for outliers.
 
-Collect baseline data before applying training.
+As with any analytical approach, outliers in the data can have signiﬁcant eﬀects on the results of the analysis. This is even more
 
-As an extension of the above recommendation, we strongly recommend
+critical with balanced benchmarking because it is a relative analysis —
 
-that you collect data for your balanced benchmarking approach
+that is, the individuals or teams in the analysis are compared against
 
-over several time periods prior to making any assessment decisions.
+one another. Thus, it is important to pay attention to outliers in your
 
-Collecting and analyzing this data does two things. First, it helps you
+data, as they can cause inaccuracies in your ﬁndings. We’ve found
 
-become more comfortable with the data and determine whether you
+that it’s best to remove the team or individual with the outlying data
 
-are capturing the proper variables. Second, it provides a baseline for
-
-you to compare future performance against. While it will be tempting to
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+from the analysis for a speciﬁc time period, as this will generate more

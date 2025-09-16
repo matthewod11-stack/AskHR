@@ -1,5 +1,11 @@
-# Comparative Methods
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 206a8f858786e59ff7d065268d9cb1fb46f1dd88
+title: document_resume
+---
+# Essay Appraisals
 
-Comparative methods comp re indiv iduals against each other rather than against standards. Individuals may be compared on measures relating to overall job perfor- mance or on several traits or work characteristics. All comparative methods assume that job performance is distributed along a continuum from poor to outstanding. This idea is popular in the military and in the corporate world, where one hears such terms as "top five percenter" and "fast track." The results of these methods produce a listing of individuals from first to last in order of performance. Figure 3.4 illustrates how ranking involves placing individuals in order of overall performance, normally by first selecting the best and worst performers, then designating next be:A, and continuing until all indi- viduals have been ranked. Figure 3.5 shows how paired comparison requires that individuals be compared one at a time w ith every other individual, with the final task rank determined by the number of times an individual was rated better than the other individual. In the forced distribution method, the rater assigns a specific proportion of individuals to predetermined performance categories, as shown in Figure 3.6.
+The narrative essay is a. desLription of the individual's job performance in the rater's own words. Often, guidelines are pros ided. For example, the rater may be asked to describe such things as strengths, weaknesses, and potential and to make sug- gestions for improvement (see Figure 3.3). The essay approach to performance appraisal assumes that a candid statement from a knowledgeable supervisor about an individual's job performance is just as \ alid as more formal and quantitative methods.;
 
-The most elaborate of the comparative methods is founded on the principle of the normal distribution and is analogous to grading on the curve, in which there are a few A's and F's, slightly more B's and D's, and a large number of C's. That there is some proportion of outstanding, good, fair, and poor performers in a department or organiza- tion, however, is an unrealistic assumption.?
+Narrative essays can pros ide detailed feedback regarding job performance, par- ticularly if the rater uses an accurate job desLription to ensure that all areas are covered. Most essay appraisals, however, are unstructured and vary in length and content. Another problem w ith essay appraisals is that the individual's rating may depend more on the writing skills of the superior than on the individual's performance.5 Finally, this method is highly subjective, time-consuming, difficult to administer, and impractical for large groups.6 Most authorities agree that the essay is best used as a supplement to a more structured method such as the graphic rating scale.

@@ -1,9 +1,15 @@
-# Their Time.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c395a4c7978f525b2dd768a28e6e8cf2b2a7aa1b
+title: H08H7H-PDF-ENG
+---
+# More Resources:
 
-- 17 Team-Building Activities for In-Person, Remote, and Hybrid Teams
+- One Company A/B Tested Hybrid Work. Here’s What They Found.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+- We’re Still Lonely at Work
 
-8
+- What Employers Get Wrong About How People Connect at Work
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Research: People Still Want to Work. They Just Want Control Over

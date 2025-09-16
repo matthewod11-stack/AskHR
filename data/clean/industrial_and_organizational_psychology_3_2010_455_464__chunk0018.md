@@ -1,3 +1,11 @@
-# the ‘‘holy grail’’ of
+---
+source_path: industrial_and_organizational_psychology_3_2010_455_464.md
+pages: n/a-n/a
+chunk_id: aaedc2da0bed7ac668877181ba8009e674740e51
+title: industrial_and_organizational_psychology_3_2010_455_464
+---
+# S.Bonaccioetal.
 
-Unfortunately, a neglect of internal valid- ity is not limited to the above case but instead seems fairly pervasive in IOOB. We submit that internal validity is neces- sary not only for science but also—because
+importance of these theories to IOOB and would then go about testing these theories in workplace contexts. These demonstra- tions of the generalizability of JDM theories to IOOB contexts can be quite informative (Hodgkinson & Healey, 2008; Reb, 2010) and represent a good starting point for cross-fertilization. As Reb notes, however, they should ultimately evolve into a bidi- rectional emphasis on improving theory. For example, with regard to the cogni- tive heuristics and biases identiﬁed by JDM researchers, a focus on individual differ- ences and workplace contexts could be beneﬁcial in studying (at least) two related issues: (a) the relative importance of indi- vidual differences and workplace contexts versus heuristics and biases (see Goodwin, 2010) and (b) individual differences and workplace contexts as moderators of the effects of heuristics and biases. Thus, IOOB could build on JDM theories and thereby contribute to JDM.
+
+Internal validity. It seems fair to say that JDM has privileged internal validity over external validity, but it seems equally fair to say that IOOB has privileged external validity over internal validity. The example IOOB—namely, of the relationship between job satisfaction and job performance—should sufﬁce to demonstrate the deleterious consequences of neglecting internal validity. As Judge, Thoresen, Bono, and Patton (2001) power- fully illustrate, despite a staggering amount of research (more than 300 studies, com- posed of more than 50,000 employees, and conducted over more than 70 years), it is far from clear whether (a) satisfac- tion causes performance, (b) performance causes satisfaction, (c) satisfaction and per- formance are reciprocally related, or (d) the relationship is spurious. Indeed, plausible theoretical rationales exist for each of these four possibilities.

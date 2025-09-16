@@ -1,21 +1,19 @@
-# context.
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f321519a70001699f96694a7e6288ee69925b5c5
+title: H08MIG-PDF-ENG
+---
+# eyes of other employees.
 
-- 3. Take a look from others’ perspectives.
+Of course, managers may be aware of personal situations that other
 
-Although some managers may believe others are unaware of
+employees are not privy to, creating a potential gap in understanding
 
-misconduct events, they’d be surprised by how much other employees
+what the manager and other employees perceive as a need for
 
-see and know. Managers should recognize that their actions matter to
+compassion. Indeed, managers are often privy to personal information
 
-other employees outside of the misconduct event. To understand how
+about their employees that others are largely unaware of, so it’s
 
-your decision to address misconduct might impact other employees,
-
-managers need to evaluate the situation from their perspectives.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+necessary to pause and consider how much others may know of the

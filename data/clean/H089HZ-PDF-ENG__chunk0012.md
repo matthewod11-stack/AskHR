@@ -1,7 +1,7 @@
-## How to Reframe the Flexibility Conversation
-
-We know from social science research that how a problem is framed has
-
-a huge impact on outcomes. Framing an issue in terms of loss-versus-
-
-gain changes decision outcomes, just as thinking in terms of ﬁxed-pie
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cda6d38c79c1d3e26801f49c705d43f679db12d3
+title: H089HZ-PDF-ENG
+---
+# opportunity instead of a problem.

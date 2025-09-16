@@ -1,15 +1,11 @@
-## conditions, Daniel Kahneman, the pioneering behavioral economist and
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c39ee2e105db7b0bec645598c26b7b4632c53a58
+title: R2501K-PDF-ENG
+---
+# and necessary contract changes.
 
-psychologist, recommended “delaying” one’s intuitive response to a
+. . .
 
-question by breaking the decision down into smaller parts. Slicing is
-
-that art. It may seem counterintuitive to managers who are accustomed
-
-to starting with “low-hanging fruit” to ensure quick, low-cost gains.
-
-But in the early stages of most initiatives, there are so many areas
-
-of unpredictability that forging ahead without ﬁrst slicing into the
-
-murkiest parts of the project often results in costly changes at a later
+When asked for advice on how to make decisions under uncertain

@@ -1,47 +1,47 @@
-# HBR / Digital Article / How to Protect Your Boundaries When Your Company Is Strugg…
+---
+source_path: H07VTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71ab3b89c670303a966413d13684bda27dfd63af
+title: H07VTF-PDF-ENG
+---
+## boundaries around his personal and professional time.
 
-- “I’ve been in this industry for 15 years and can help with this pivotal
+When James brought these dilemmas to our coaching meetings, I
 
-decision.”
+shared the following strategies with him, which he was able to leverage
 
-- “My last company encountered a similar situation. I’m happy to share
+to keep his boundaries intact while also succeeding in his role.
 
-what worked for them.”
+Determine when to offer advice — and when to step back.
 
-Get specifics before taking on new assignments.
+Since James had been in the tech industry for more than 15 years
 
-One of James’s struggles with his executive team was their lack of
+working for several companies of diﬀerent sizes, he’d seen ﬁrsthand
 
-deﬁned goals. So, when they asked him to take on an additional
+what worked and what didn’t. He wondered if he should step beyond his
 
-assignment, he declined because it wasn’t clear what success would look
+deﬁned role to advise the executive team — and if so, how far he should
 
-like, and he was already concerned about achieving in his primary role.
+go — particularly since this would require entering territory where a
 
-Before agreeing to take on an extra assignment, seek speciﬁcs: What’s
+CEO with little experience might not welcome his views. It also would
 
-the objective? How will success be measured? How long will this
+absorb more of his time and energy to take on this additional legwork,
 
-assignment last? What exactly will be required of you? How many hours
+giving him less time for his core priorities.
 
-will it take? Once you have a clear understanding of what’s required,
+Your decision on whether or not to advise on matters of company
 
-then you can conﬁdently decide if it’s a good match.
+performance outside of your main role should hinge on if you possess the expertise to eﬀectively and eﬃciently oﬀer your advice. If you do
 
-If it’s not a good ﬁt, then decline positively and honestly by saying
+have signiﬁcant insight into your new company’s problem, then you
 
-something like: “Thank you for considering me for this project. I have to
+may be able to share that in a straightforward way without encountering
 
-decline, though. With my current responsibilities, I couldn’t give it my
+a major time suck. Here’s what that might sound like:
 
-full attention. It would be best to oﬀer it to someone with the bandwidth
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-to help it reach its potential.”
+2
 
-See if you can help in smaller, more manageable ways by providing
-
-input on the project plan or oﬀering to attend brainstorming sessions,
-
-for example. By contributing where you can, you’ll showcase your
-
-proactive nature and prove you’re a team player without overloading
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

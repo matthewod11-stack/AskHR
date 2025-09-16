@@ -1,9 +1,27 @@
-# HBR / Digital Article / Research: Why Companies Should Disclose Their Lack of Progre…
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53a494b5b6140d2098f86f19a732e1227e50ec9b
+title: H088Z4-PDF-ENG
+---
+# The Limits of Disclosure
 
-goals. Transparency is not a tactic; it a signal that the company is
+Our research points to the underappreciated beneﬁts to being open
 
-committed to their goals for better or worse.
+about a lack of progress around diversity, but there are likely limits
 
-It’s also important to consider what our ﬁndings mean in the current
+to any feelings of goodwill. For example, it’s probably the case that
 
-climate of increased DEI backlash. Following the recent U.S. Supreme
+the presumption of best intentions has an expiration date. People will
+
+not give organizations that disclose poor diversity numbers the beneﬁt
+
+of the doubt forever. In the long run, an organization’s reputation
+
+regarding diversity will hinge on its ability to actually deliver on its
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

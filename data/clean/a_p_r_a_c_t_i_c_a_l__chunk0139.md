@@ -1,1 +1,11 @@
-# For example, here’s how you’d implement the decentralized pattern using the Agents SDK for a customer service work(cid:16)ow that handles both sales and support:
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 190753f8638dade382da5c418848f69473581e7e
+title: a_p_r_a_c_t_i_c_a_l
+---
+# Orders
+
+21
+
+A practical guide to building agents

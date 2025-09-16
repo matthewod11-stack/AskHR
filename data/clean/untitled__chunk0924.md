@@ -1,5 +1,7 @@
-# Littleﬁeld Adams.
-
-Pinker, S. (1997). How the mind works. New York: Norton.
-
-Popper, K. R. (1959). The logic of scientiﬁc discovery. London:
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b96782db4ac39c0793553edad5b2ff851f1eb881
+title: untitled
+---
+## Piaget, J. (1972). The psychology of intelligence. Totowa, NJ:

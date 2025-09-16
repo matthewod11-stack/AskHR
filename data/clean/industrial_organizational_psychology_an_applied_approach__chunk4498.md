@@ -1,7 +1,11 @@
-## Viswesvaran, C., Ones, D. S., & Schmidt, F. L. (1996).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c535f046ce5903e54ac47f66e2cbbbd2322177f6
+title: industrial_organizational_psychology_an_applied_approach
+---
+# survey. Security Journal, 8, 167–169.
 
-Comparative analysis of the reliability of job performance ratings. Journal of Applied Psychology, 81(5), 557–574.
+Viswesvaran, C., & Ones, D. S. (2003). Measurement error in
 
-Viswesvaran, C., Sanchez, J. I., & Fisher, J. (1999). Th e role
-
-of social support in the process of work stress: A meta- analysis. Journal of Vocational Behavior, 54, 314–334.
+“big ﬁ ve factors” personality assessment. In B. Th ompson (Ed.), Score reliability: Contemporary thinking on reliability issues. Newbury Park, CA: Sage Publications.

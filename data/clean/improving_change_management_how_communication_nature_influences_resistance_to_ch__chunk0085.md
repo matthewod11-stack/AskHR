@@ -1,11 +1,21 @@
-# valuable.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 5c745a87b2676eddab019714c5d0a2fb018c4292
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# Conclusions
 
-As can be observed in Graphic 01, all dimensions of Dialogic Communication are
+By overlapping the data about communication characterization and resistance to
 
-going up and all dimensions of Resistance to change are going down over the time.
+change characterization in Organization X, respecting the limits of these analysis to
 
-Obviously, the period average indicator of both Communication and RTC follow the
+respondent views, during these two first years after acquisition, it can be noticed a direct
 
-same opposite path. It is clearly observed in Graphic 02, where the averages are
+opposite movement. While communication was becoming highly dialogic the resistance
 
-presented separately from their components.
+to change was descending. As it is not derived from statistical analysis, from a
+
+generalizable sample, it cannot be concluded that it is a cause-effect relationship. But,
+
+from a qualitative angle, of expressing how both constructs are related it is quite

@@ -1,7 +1,7 @@
-## Inclusive Leadership in Thought and Action: A Thematic Analysis
-
-With workforces characterized by countless differences, leaders have been increasingly challenged to not only lead across such differences but to ﬁnd ways for valuing and leveraging them for organizational functioning. To this end, organizations have explored programs and initiatives for the last 20 years that emphasize the removal of barriers that block employees from using the full range of their skills and experiences (see Harvey, 1999). While initially considered to be interventions for accepting diverse employees—particularly, women and underrepresented minorities—into interaction networks and upper echelons of organizations (Ibarra, 1993), such efforts have evolved into more expansive change efforts to embed a value for diversity in all forms into the culture of organizations. Organizations have come to focus on the con- ﬁguration of its structures and systems to value and leverage the potential of differences in the workforce, including the removal of obstacles to the full participation and contribution of all employees (Roberson, 2006).
-
-Early research on inclusive approaches to diversity management drew attention to diversity within organizations and the degree to which it is in- tegrated into organizational strategies, structures, and process as hallmarks (Cox, 1991; Thomas & Ely, 1996). Although not referred to using the term “inclusion,” researchers distinguished between initiatives to simply increase workforce diversity versus those that represented a more material change in organizations. More recent research has attempted to identify human resource practices and programs for facilitating climates for inclusion or the en- gagement of employees’ whole selves and learning from diverse perspectives (Nishii, 2013; Roberson, 2006). Still, other research suggests that inclusive environments are dynamic systems not only prescribed by the values, policies, and practices of an organization but enacted by people at all levels (Ferdman & Davidson, 2002). As such, leaders are considered to be essential to the creation of such environments given their direct inﬂuence on employee experiences within organizations (Ferdman, 2014).
-
-Research has given attention to the concept of inclusive leadership. Some researchers view inclusive leadership as a particular form of relational
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: fe7233aa7f7697a8fbd79003c49569a89263b2b1
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+## Keywords inclusion, leadership, diversity, qualitative

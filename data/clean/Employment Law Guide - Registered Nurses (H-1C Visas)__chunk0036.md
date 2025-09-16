@@ -1,5 +1,7 @@
-## Contact WHD(https://webapps.dol.gov/contactwhd/Default.aspx)
-
-Tel: 1-866-4-US-WAGE (1-866-487-9243)*
-
-- If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications relay services.
+---
+source_path: Employment Law Guide - Registered Nurses (H-1C Visas).md
+pages: n/a-n/a
+chunk_id: 3c830649a6184d5b730d3a866f3244d35cd04c8c
+title: Employment Law Guide - Registered Nurses (H-1C Visas)
+---
+## Wage and Hour Division(https://www.dol.gov/whd/)

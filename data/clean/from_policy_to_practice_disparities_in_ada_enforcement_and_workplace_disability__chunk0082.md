@@ -1,7 +1,9 @@
-## Populations: A Literature Review-based Comparative Study.
+---
+source_path: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability.md
+pages: n/a-n/a
+chunk_id: d14857cda155a03c96341edd7fd5e0cd09bbc0a0
+title: from_policy_to_practice_disparities_in_ada_enforcement_and_workplace_disability
+---
+## ISSN: 0976-7797 Impact Factor: 5.183 Index Copernicus Value (ICV) = 77.57
 
-11.(cid:32) Colker, R. (2021). The Americans with Disabilities Act's Unreasonable Focus on the Individual. U. Pa. L. Rev., *170*, 1813. 12.(cid:32) Dineen, K. K., & Pendo, E. (2022). Engaging disability rights law to address the distinct harms at the intersection of race
-
-and disability for people with substance use disorder. Journal of Law, Medicine & Ethics, *50*(1), 38–51.
-
-13.(cid:32) Dompey, L. P. (2025). Examining Discrimination Against Women With Disabilities: A Comparative Study of Inclusion and
+10.(cid:32) Chen, X. (2023). The US and Chinese Transportation Policies and Practices for the Transportation-Disadvantaged

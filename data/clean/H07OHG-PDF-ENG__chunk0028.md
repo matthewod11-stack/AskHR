@@ -1,27 +1,27 @@
-## sessions. Within this more structured format, participants still access
+---
+source_path: H07OHG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 245a1121b7d79b034df4d0130692b9e72ccb865b
+title: H07OHG-PDF-ENG
+---
+# The Rise of Cohort-Based Courses
 
-much of the learning material on their own time, making it easier for
+How to build real skills online
 
-them to complete the course and have the chance to apply what they
+When it comes to online learning, most participants don’t ﬁnish
 
-learn over its duration. One of the pioneers of this space, altMBA, says
+the courses they start, mainly because the learning experience is
 
-its learners have achieved a 96% completion rate.
+asynchronous. Individuals must be disciplined and diligent enough to
 
-Boston Consulting Group (BCG) is one leading employer that has
+complete large amounts of the learning material on their own. This is particularly diﬃcult in today’s workplace, where the number of
 
-embraced cohort-based courses, working in partnership with Emeritus
+meetings and distractions has ballooned in recent years.
 
-(where I work). Lidia Juszko, BCG’s executive director of global
+Now, a new delivery format called “cohort-based courses” has emerged
 
-learning and teaming, describes how the format works particularly
+as a way to improve completion rates. Groups of participants together
 
-well for a professional services ﬁrm like hers. “We’ve found that
+take a course with deﬁned start and end dates, regular homework
 
-cohort-based courses oﬀer a level of structure and support that makes
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+assignments, and an instructor to run periodic live online discussion

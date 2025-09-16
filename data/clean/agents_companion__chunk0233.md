@@ -1,9 +1,9 @@
-## Figure 14: A process diagram of the AI co-scientist system31
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 553ace6702c73a429b373939187132bd8260da5f
+title: agents_companion
+---
+# interdisciplinary cooperation.
 
-This approach exemplifies how multi-agent architectures move beyond static AI interactions,
-
-instead fostering dynamic, evolving intelligence capable of handling sophisticated tasks in
-
-research, enterprise automation, and knowledge management.
-
-53
+52

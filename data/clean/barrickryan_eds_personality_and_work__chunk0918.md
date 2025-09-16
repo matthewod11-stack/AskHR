@@ -1,5 +1,9 @@
-# Speciﬁcation of Criteria
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 05efcb27b91a2eeb54e63ebfb58485ffbe0b554d
+title: barrickryan_eds_personality_and_work
+---
+# RESEARCH THEMES FOR THE FUTURE 335
 
-A fourth theme that runs throughout nearly all of the chapters in this book is the need for greater explication of the criterion that researchers are interested in predicting. I/O psychologists are in- terested in personality because it predicts what we feel and do (that is, our behavior) at work. To deepen our understanding of per- sonality at work, researchers must adopt a behavioral focus. Ironi- cally, although we are now giving more thought to which speciﬁc personality traits are relevant in a work setting, there is consider- ably less theoretical or empirical work focused on which behaviors we are interested in predicting with personality constructs and why. The authors in this book have implicitly and explicitly recognized this criterion problem and thus have developed a number of propositions about ways in which personality traits are likely to af- fect how people perform and what activities involve them. More important, a careful reading of this book would help identify the basic kinds of behaviors and what ways are useful for assessing them. Thus, many of these behaviors are likely to be fundamental components of any behavioral taxonomy at work. Although we do not propose such a taxonomy here, the chapters in this book re- view many of the important components that such a model would have to consider.
-
-Job performance is obviously an important indicator of the value of an employee’s behavior because it indicates the over- all value of his or her contributions to the organization. Further- more, selection decisions tend to rely on a composite measure of individual performance. For this reason, a measure of overall per- formance dominates many of the models discussed here, such as
+tigative, Artistic, Social, Enterprising, Conventional) model may be a meaningful way to describe the “psychological” characteristics of a work setting. Such an approach underscores the importance of the attributes of the people in the situation. Both Chapters Three and Eleven suggest a different perspective on assessing the situa- tion than traditional job-analytic approaches that focus on the im- portance of the things people do on the job. Many other chapters in this book contain expanded thinking about the situation or pro- pose novel ways to assess contextual inﬂuences.

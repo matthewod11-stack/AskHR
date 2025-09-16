@@ -1,13 +1,17 @@
-# experiência profissional da pesquisadora na área de análise de dados, tendo acesso
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 9a2e2e0eb4729661701e354354b33ceaf0952d5f
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# 4.1 INSTRUMENTOS DE COLETA DE DADOS
 
-à organização em questão como funcionária. Assim sendo, o estudo de caso foi
+Neste trabalho,
 
-facilitado por este motivo. Sendo funcionária da empresa apresentada no estudo de
+foram utilizados: observação, entrevista semiestruturada,
 
-caso, a pesquisadora pôde empregar também a metodologia de observação,
+análise documental e questionários com lideranças e colaboradores. A seguir,
 
-complementando outros processos investigativos utilizados no estudo. De acordo
+explicar cada um destes que foram os instrumentos de coleta de dados:
 
-com Gil (1999), a observação é um método que permite conhecer os fatos e os
-
-fenômenos de forma direta, reduzindo, portanto, a subjetividade de um estudo. A
+a) Observação: a intenção inicial para a realização do trabalho vem da

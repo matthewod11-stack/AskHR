@@ -1,9 +1,7 @@
-# in the US
-
-is
-
-this most pressing 21st century dilemma, namely, diversity (Angelides et al., 2010; Lewis, 2016; Shore et
-
-(census.gov, 2020). in census date well represented The surge of diversity in higher education taken with
-
-al., 2018; Terenzini et al., 2001). Diversity, along with its
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: 6588b54fedbe88687a0b0365654fddb90ee677c8
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+# increasingly diverse student population

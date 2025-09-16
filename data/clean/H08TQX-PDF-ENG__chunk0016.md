@@ -1,11 +1,19 @@
-## HBR / Digital Article / New Research on How to Get Workplace Rituals Right
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 948dfc3ffa69bfd5d6f1f1a926f1bb0fa0945b87
+title: H08TQX-PDF-ENG
+---
+# activities, and casual mingling.
 
-selecting energizing and inspiring speakers for the event and crafting
+- 3. Do bring the positive energy.
 
-their messages. If it’s an onboarding event, think about ways to get new
+Employees who feel energized after a ritual tend to leave feeling
 
-employees excited about all that your company oﬀers and how it might
+more motivated about their work. Devote thought and preparation to
 
-help them grow. Also, don’t underestimate the power of simple games to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-put people in a good mood, especially if a prize is involved. On multiple occasions, employees mentioned that raﬄes were one of the highlights
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,43 @@
-## opportunity for continuous improvement in the tradition of kaizen.
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: edea25df26307bc31c15b87ca3afaa7ebf3c5e68
+title: S25012-PDF-ENG
+---
+# Ecosystems of Autonomous Agents
 
-Consider an experiment conducted by researchers from Google and
+Completing some tasks requires more than a single agent. In those
 
-Stanford in 2023. They created 25 digital human avatars, each endowed
+cases companies may custom-build a system of agents wherein each
 
-with a distinctive personality and a back story, and set them loose in a
+one is expert in a speciﬁc task. Take the mortgage-underwriting process.
 
-simulated online world. As the avatars interacted and went about their
+When a human underwriter provides the instruction “Review this
 
-daily “lives,” they created a credible facsimile of human behavior. They
+loan application based on our company’s lending policies,” one agent
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+might extract relevant information from the application. Another agent
 
-12
+might act as a librarian of bank policies, making them available to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+agents that compare the application against them. Yet another agent
+
+might generate a ﬁnal report, recommending a course of action to the
+
+underwriter considering the loan. A “connector” agent might oversee
+
+and orchestrate the activity of all these agents.
+
+Combining multiple agents and allowing them to communicate and
+
+collaborate with one another is critical to the development of AI systems
+
+that can autonomously manage end-to-end processes. Such solutions
+
+could transform entire functions like supply chain management,
+
+production, and marketing. At ﬁrst glance, this might seem to be
+
+about achieving automation on a huge scale (and more fuel for sci-ﬁ
+
+fantasists fearing world domination by AI). But the real story here is the

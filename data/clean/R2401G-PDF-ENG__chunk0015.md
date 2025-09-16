@@ -1,15 +1,33 @@
-# earlier entrants.
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3bef5f12a1a82b14fd3313ab21841d4921f0678a
+title: R2401G-PDF-ENG
+---
+# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone
 
-- 4. Do people have the bandwidth to take on more work, or are they
+studied, including composer, artist, and inventor, “the most successful
 
-overextended or burned-out? Too much of a good thing can be terrible.
+creators tend to be those with the most failures!”
 
-One exasperated service rep showed us that to serve just one customer,
+- 3. Will the fast eat the slow, or is it better to pause and learn from
 
-she had to switch among at least 15 applications and 20 windows on the
+others’ mistakes? Sometimes life is like a mousetrap: The first mouse
 
-13-inch screen of her laptop. Her company had adopted so many efficiency
+gets crushed and the second (or third or fourth) mouse gets the cheese.
 
-tools to “help” its workers that it rendered them inefficient. Making it
+Research on launching new businesses and products, for example, shows
 
-harder for that rep’s IT team to add apps would have reduced her digital
+that the so-called first-mover advantage is sometimes a myth. When
+
+markets are treacherous and uncertainty is high, first movers often flounder
+
+because consumers aren’t ready for their ideas yet or are put off by flawed
+
+early offerings. (continued)
+
+Companies that launch their products or services later win, in part, because
+
+they learn from the missteps of antsy early movers. Amazon, for example,
+
+wasn’t the first online bookstore; the defunct Books.com and Interloc were

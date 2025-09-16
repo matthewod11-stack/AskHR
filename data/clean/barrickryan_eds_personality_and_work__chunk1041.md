@@ -1,5 +1,9 @@
-# tudes toward counterproductive
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 9decaf5b75f3ecd46f95208dcc744dac3513233f
+title: barrickryan_eds_personality_and_work
+---
+# R
 
-workplace behaviors (CWBs), 161–164; described, 160
-
-Relationships: self-monitoring in, 207–211; in social networks, 211–217; ties in, 214–217; work, 205–207
+Reasoned action theory: and atti-

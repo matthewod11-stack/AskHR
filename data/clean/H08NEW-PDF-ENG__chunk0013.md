@@ -1,21 +1,29 @@
-# The Size of Gaps Matters to Stakeholders
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e2d03b18cfe3bc840d7f86d3ccfb00854fd578d
+title: H08NEW-PDF-ENG
+---
+## organization and your ﬁrm’s pay structure.
 
-Statistical signiﬁcance isn’t the only type of signiﬁcance that counts.
+The more employees there are, the more conﬁdent you can be about
 
-The average employee, investor, or manager is much more likely
+whether a pay gap happened by chance. To see why, imagine ﬂipping
 
-to focus on economic signiﬁcance, which is simply the size of the
+a coin. If it comes up heads 3 times out of 4, you might attribute that
 
-measured pay gap. For example, at a small ﬁrm, a 4% pay gap
+to chance. If it comes up heads 30 times out of 40, you would be more
 
-between employees of diﬀerent demographic backgrounds may be
+convinced the coin was weighted toward heads.
 
-economically signiﬁcant—and thus important to stakeholders—but
+For similar reasons, the more regimented a ﬁrm’s salary structure
 
-statistically insigniﬁcant. That does not mean this gap should not be
+—that is, the more precisely an employee’s job and qualiﬁcations
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+determine their pay—the more likely it is that a pay gap of a given
 
-3
+size will be considered signiﬁcant to a court. In other words, if jobs
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and qualiﬁcations closely predict employees’ pay at a ﬁrm, it’s harder to
+
+attribute a pay gap within that organization to chance.

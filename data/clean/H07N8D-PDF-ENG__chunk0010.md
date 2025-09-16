@@ -1,15 +1,27 @@
-## budgets and double down on proﬁtability, and with HR team members
+---
+source_path: H07N8D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38434b306fefd2acbc37da76d080a4e0be29d448
+title: H07N8D-PDF-ENG
+---
+# swap places.
 
-to enhance the digital employee experience.
+It worked. After just one week, the leaders were able to gain a deeper
 
-Think about which of your teams stand to gain the most from
+understanding of each other’s challenges and resolve the issues that had
 
-perspective swaps. Instructing members of diﬀerent teams to
+caused the spats.
 
-temporarily swap places can fuel a new level of empathy and
+In our latest research at The Work Innovation Lab, we’ve been studying
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+the evolving role of IT professionals, particularly CIOs and CTOs.
 
-3
+We’ve found that there are three groups whose business priorities
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+IT professionals are struggling to understand most right now: legal,
+
+ﬁnance, and HR. Yet cross-functional collaboration with these teams is
+
+critical: IT team members need to collaborate with legal team members
+
+to respond to cybersecurity threats, with ﬁnance team members to chop

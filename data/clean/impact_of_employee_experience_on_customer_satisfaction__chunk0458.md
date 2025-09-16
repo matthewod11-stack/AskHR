@@ -1,11 +1,7 @@
-# p-value
-
-0,9 What is your experience with Atlas Copco during recruitment process? 1,8 How accurate was your role described to you during your interview process? (i.e., Are you doing what you expected you'd be doing)? 1,6 Do you feel the materials and equipment provided in your start been adequate for you to perform your job effectively? 0,7 Overall, how well do you understand your role, including the responsibilities of your job? 1,7 Were you given an overview of your career path and progress in the company? 4,6 How satisfied are you with the training that you have received for you new role? 1,2 My manager (the person you report to) provides me with feedback that helps me improve 3,0 I feel empowered to make decisions regarding my work. 2,3 I would recommend my manager to the others 16,5 I am proud to work in Atlas Copco Group 4,4 I have a good opportunities to learn and grow at Atlas Copco Group 3,7 I know what skill I will need in future to be a valuable contributor to this company 1,9 I have the training I need to do my job effectively 2,9 I feel free to speak my mind without fear of negative consequences 2,8 I am treated with respect and dignity 1,3 You feel that the organization you work for is diverse and inclusive. 2,9 I can manage my job responsibilities in a way that enable a healthy work-life balance 1,6 I have the flexibility I need in my work schedule to meet both work and personal needs 2,1 My workload is manageable 2,8 My company takes a genuine interest in my well-being (physical, mental) 1,1 The work that I do is meaningful to me 11,4 I feel a sense of belonging at my company 2,3 I feel satisfied with the recognition or praise I receive for my work 8,1 People at my company behave ethically 7,1 I feel safe at my workplace 2,8 Teams at my company collaborate effectively to get things done Your organization offers employees multiple workspace options (e.g., open spaces, conference rooms, quiet areas, collaboration spaces, caffe style environments, etc.). The physical space reflects the values of your organization 3,3 Your organization offers flexible work options (such as the ability to work your own hours wherever you want) and encourages autonomy. 3,3
-
-0,0057 0,0115 0,0103 0,0045 0,0111 0,0302 0,0076 0,0196 0,0149 0,1080 0,0286 0,0242 0,0123 0,0193 0,0181 0,0085 0,0192 0,0106 0,0140 0,0185 0,0069 0,0748 0,0148 0,0533 0,0466 0,0186 0,0219 0,0216
-
-0,01 0,01 0,01 0,01 0,01 0,01 0,01 0,01 0,01 0,03 0,02 0,02 0,01 0,01 0,01 0,00 0,01 0,01 0,01 0,01 0,01 0,03 0,01 0,02 0,02 0,01 0,01 0,02
-
-1,1 1,1 1,4 0,8 1,2 2,1 1,0 1,8 1,3 3,3 1,9 1,5 1,6 1,7 1,8 2,0 1,6 1,2 1,6 1,6 1,3 2,8 1,8 2,3 2,1 2,0 1,9 1,4
-
-0,262 0,283 0,169 0,426 0,219 0,043 0,311 0,079 0,187 0,001 0,063 0,134 0,114 0,090 0,080 0,047 0,125 0,228 0,122 0,112 0,201 0,006 0,077 0,023 0,035 0,049 0,062 0,164
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 1b17582aa97d5e3bf5087603878704d4f16a2ece
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# t statistic

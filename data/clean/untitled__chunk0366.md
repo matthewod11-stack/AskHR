@@ -1,3 +1,13 @@
-# THE PRESCRIPTIVE AUTHORITY (RxP-) AGENDA
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e72175af8efc96718b00c4edfd097b7df7faa649
+title: untitled
+---
+# APAGS
 
-In November 1984, Senator Daniel K. Inouye addressed the annual meeting of the Hawaii Psychological Association and in closing suggested to them an entirely new legislative agenda that he proposed would ﬁt nicely into their conven- tion theme “Psychology in the 80’s: Transcending Traditional Boundaries” (e.g., seeking prescriptive authority in order to better serve their patients). After his challenge, the executive committee of the Hawaii Psychological Association agreed to pursue legislation that would study the “feasibility of allow- ing licensed psychologists to administer and prescribe med- ication in the treatment of nervous, mental and organic brain diseases.” At that time there was little enthusiasm for the
+In 1988, the APA Council of Representatives formally estab- lished the American Psychological Association of Graduate Students (APAGS). Over the years, psychology has contin- ued to be one of, if not the, most popular undergraduate majors. By 2001, the APA membership (and afﬁliate) num- bers had grown to 155,000, with the APAGS possessing 59,700 members.
+
+An APAGS representative attends the open portions of the APA board of directors meetings (and another individual is seated on the ﬂoor of the Council of Representatives as a nonvoting member). Increasingly, as with other professions, the student voice is being heard. Several divisions, state asso- ciations, and council caucuses provide the APAGS with a voting seat on their boards of directors.
+
+Student participation brings to the APA governance delib- erations a unique focus upon the “here and now” practical consequences. The APAGS’s presence constantly reminds those within the APA governance that their deliberations do have very real consequences on future generations of profes- sional psychologists.

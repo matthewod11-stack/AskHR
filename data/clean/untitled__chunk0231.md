@@ -1,5 +1,11 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 32f7a73eb9910338a9106cc476b87a78c4e28e95
+title: untitled
+---
+# Century-Crofts.
 
-Innis,N.K.(1999,August20–24).Expectationandhypotheses:E.C. Tolmanandanimalcognition.Paperpresentedatthe107thannual meeting of theAmerican PsychologicalAssociation, Boston.
+Hull, C. L. (1950). A primary social science law. Scientiﬁc Monthly,
 
-James, W. (1890). The principles of psychology (Vols. 1–2). New
+71, 221–228.

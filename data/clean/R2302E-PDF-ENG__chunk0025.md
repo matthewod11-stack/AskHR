@@ -1,17 +1,25 @@
-# or an occasion for input.
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d16be74bce1a62fcfbed1957bc2a4d4a3e660c00
+title: R2302E-PDF-ENG
+---
+# gatherings.
 
-Differentiate meetings. Another way to get employees to shift power
+Spell out shifts in agendas. If your team has trouble changing modes,
 
-modes is to stipulate the purpose of meetings. This is something
+look at the agendas for your last ﬁve or six meetings. Did they clearly
 
-Massimo Lombardo, who at the time was the director of the Codogno
+indicate when you wanted people to generate or discuss ideas and when
 
-Hospital in the Lombardy region of Italy, did in the early months of the
+it was time to make a decision? A good way to do that is to specify
 
-Covid-19 pandemic. The hospital was hit with a tsunami of patients,
+“debate” under an agenda item, with the amount of time that will be
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+devoted to the discussion, followed by “commit and act,” with the name
 
-9
+of the decision-maker. If a meeting is being held to announce a decision
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and answer questions about what it means for the team, state that in the
+
+invitation, and make it clear the meeting is not a brainstorming session

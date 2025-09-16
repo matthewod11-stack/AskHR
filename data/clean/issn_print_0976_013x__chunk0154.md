@@ -1,23 +1,15 @@
-## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: a407f5ad30f11bc1fc21aaf9a77da16d4fef8e29
+title: issn_print_0976_013x
+---
+# Performance of SMEs.
 
-Pefactor, 2018). The internal factor that plays a crucial role in the success of an organisation is
+The notion of proactiveness pertains to the capacity of an organisation to anticipate and take
 
-proactiveness. This factor allows organisations to capitalise on first movers in the industry,
+proactive measures in response to the demands of consumers by providing novel products and
 
-indicating a high level of entrepreneurial activity (Isichei et al., 2020; Lumpkin & Dess, 1996). The
+services that have yet to become familiar to any other entity in the industry (Kallmuenzer &
 
-capacity of an organisation to anticipate the future demands of consumers and effectively meet
-
-those demands is a crucial driver of business performance. The market analysis allows the
-
-organisation to assess present market demand and anticipate future expectations, potentially
-
-resulting in business expansion and enhanced performance (George & Marino, 2011). Hence,
-
-proactiveness encompasses not only current business operations but also those of the future.
-
-The attribute of proactiveness enables enterprises to forecast emerging concepts and recognise
-
-prospects within the market. (Lumpkin & Dess, 1996).
-
-H3: Proactiveness has a positive influence on achieving the target of Circular Practice target
+21

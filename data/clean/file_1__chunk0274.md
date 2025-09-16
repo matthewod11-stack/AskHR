@@ -1,5 +1,9 @@
-## effect? Current Directions in Psychological Science, 11 (5), 159-63.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: d62b57d2546e1ca8dbc23395a662e72b8fff9fe1
+title: file_1
+---
+## analysis. Personnel Psychology, 52 (3), 653-677.
 
-Sweeney, P. and D. McFarlin, 1997. Process and Outcome: Gender Differences in the Assessment of Justice. Journal of Organizational Behaviour, 18, 83-98.
-
-Sweeney, P. and D. McFarlin, 2004. Social comparisons and income satisfaction: A cross-
+Suls, J., Martin, R. and L. Wheeler, 2002. Social comparison: why, with whom and with what

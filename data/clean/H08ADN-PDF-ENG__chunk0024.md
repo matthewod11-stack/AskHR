@@ -1,21 +1,19 @@
-## demonstrates appreciation for ambiguity and uncertainty and fosters
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b851b37448237f056e1489acf2207f5e9bebedd5
+title: H08ADN-PDF-ENG
+---
+# losses among newcomers.
 
-shared expectations related to mutual learning.
+Framing the work
 
-Responding appreciatively
+Use framing to establish and reinforce the need for interpersonal risk-
 
-When colleagues and managers respond to newcomer questions, ideas,
+taking to do a good job at work. For example, framing work as complex
 
-or mistakes with curiosity and support, they can prevent the loss
+and uncertain clariﬁes the expectation that things will go wrong,
 
-of psychological safety. Appreciation is not about tolerating repeated
+and the sooner someone notices and speaks up about it, the better
 
-failures or incompetence, but rather about ensuring learning.
-
-. . .
-
-Psychological safety is not the default in any workplace, and those
-
-who need it most — newcomers — are also most vulnerable to losing
-
-it. Cultivating and reinforcing a climate favorable to learning requires
+oﬀ everyone is. Similarly, asking questions and listening attentively

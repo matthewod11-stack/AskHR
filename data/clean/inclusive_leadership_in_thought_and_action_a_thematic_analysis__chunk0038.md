@@ -1,21 +1,19 @@
-# interest in, others
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: 39283d48a45b0f8ef5d3e21a3d0e66ac5bd39905
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# Sample Comment
 
-“Avoiding narrow-minded thinking.” “Allowing everyone at the table to grow without judgment. Look at the reality and not the perception of someone’s skills.”
+Creating diverse teams
 
-Facilitating teamwork and collaboration “Knowing the staff, encouraging them to
+“Forming a team that has people from
 
-Listening to and learning from others
+different backgrounds and walks of life so that the perspective is diverse.”
 
-excel, bringing them together as a collaborative team, working together.” “Showing a willingness to learn from those
+Appreciating and utilizing diversity (e.g., talents, experiences, skills, opinions, etc.)
 
-you supervise.”
+“Utilizing unique skills and abilities of all team members to enhance the overall performance of the team.”
 
-Treating people fairly
-
-“Treating people equitably across your
-
-team. If employee A gets an opportunity, employee B should get comparable opportunity based on his/her performance.”
-
-Creating a welcome and constructive
-
-“Creating a culture/environment where
+Maintaining an open mind Relating to, and showing a genuine

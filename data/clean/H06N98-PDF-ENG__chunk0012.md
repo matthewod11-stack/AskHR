@@ -1,5 +1,37 @@
-## HBR / Digital Article / A User’s Guide to Open Strategy
+---
+source_path: H06N98-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5a94caa857229c5a14af5967a85e8dc047c140f3
+title: H06N98-PDF-ENG
+---
+## participants from both inside and outside their organizations for very
 
-its strategy (execution phase), its strategy-making will involve diﬀerent
+speciﬁc questions of strategic relevance, while retaining partial or even
 
-numbers and types of people, and requires diﬀerent amounts and type
+total secrecy. But open methods can also be applied at a more general
+
+and strategic level – and we have developed a framework for doing just
+
+that. By using the framework, strategy-makers can beneﬁt from outside
+
+perspectives while maintaining appropriate levels of secrecy.
+
+Identify where you are in your strategy-making
+
+A simple insight sits at the heart of our framework: strategy is developed
+
+in three distinct phases, each of them requiring a diﬀerent solution
+
+to get the balance between openness and secrecy right. Depending
+
+on whether a company wants to open up in order to determine the
+
+direction it wants to take (idea generation phase), work out the exact
+
+details of their strategy (formulation phase), or mobilize staﬀ around
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

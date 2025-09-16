@@ -1,19 +1,25 @@
-# organizational commitment, and proﬁt.
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15474c5442db15b11e05359159a212b5683da518
+title: H04FQE-PDF-ENG
+---
+# HBR / Digital Article / How Managers, Coworkers, and HR Pressure Women to Stay Sile…
 
-We oﬀer a few recommendations for organizations and employees. First,
+of various third-party actors. Each of these cases shows how managers,
 
-it is important to legitimize complaints about sex-based harassment.
+HR, and colleagues can be complicit in silencing people who experience
 
-Managers should proactively let people know that they can complain,
+harassment, encouraging them to trust the system and urging them to
 
-and companies should introduce policies that protect employees who
+keep these experiences to themselves.
 
-speak up.
+This complicity not only provided a safe haven for perpetrators to
 
-Second, it is important not only to have channels for people to
+operate, as they were spared punishment, but also made victims feel
 
-report harassment but also to have a policy that clearly deﬁnes what
+confused, unsupported, and, ultimately, compelled to acquiescence. As
 
-constitutes sex-based harassment, outlines the procedure for dealing
+victims felt demoralized, they disengaged from work and from the social
 
-with reported cases, and establishes mechanisms to support people
+fabric of the workplace, behavior that is known to hurt productivity,

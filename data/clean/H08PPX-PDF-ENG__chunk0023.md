@@ -1,17 +1,19 @@
-## deeper and more sustained learning experience.
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43bfd189c9ed72bcecab240ff10d88360a421c87
+title: H08PPX-PDF-ENG
+---
+## priority and a practical, relevant endeavor.
 
-Organizations like Mastercard have embraced this model by embedding
+Active micro-learning—short, frequent, and customized learning
 
-DEI learning into leadership development through role-relevant micro-
+sessions—aligns with the evolving attention spans of adult learners,
 
-learning modules. For example, leaders receive personalized feedback
+making the content more digestible and impactful. Technology plays a
 
-on inclusive behaviors drawn from employee surveys and then
+vital role as well, enabling personalized learning solutions that adjust in
 
-are oﬀered adaptive learning content tailored to address speciﬁc
+real time based on learner progress and feedback. Such solutions help
 
-developmental gaps. By integrating gamiﬁed elements and real-time
-
-interaction, Mastercard has created a scalable learning ecosystem that
-
-is not only engaging but also directly linked to leadership performance
+ensure that key concepts resonate with diverse learners, facilitating a

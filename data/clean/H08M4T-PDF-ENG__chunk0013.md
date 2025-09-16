@@ -1,35 +1,17 @@
-# Interrupt your autopilot.
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6ffc0fb9010bdab6a1fdf71bbbd634a6f246bd04
+title: H08M4T-PDF-ENG
+---
+## quiet moment on the couch with a book, or happily unwinding with
 
-Attention comes in diﬀerent forms, says Mark. There’s the intentional
+friends. By setting emotional goals, you’re creating a neurobiological
 
-kind, where we’re consciously focused on a speciﬁc task, such as
+roadmap that helps your brain seek balance and reduce stress. “Picture
 
-writing a complex report; and the automatic kind, where actions occur
+the end result,” Montminy advises. “Visualize what it looks like, sit in
 
-without deliberate thought — like when you reﬂexively grab your
+the feeling of it, and imagine the relief.” The aim is to preemptively
 
-phone, swipe it open, and scroll through Instagram mid-workday. To
-
-break these unconscious habits, Mark says you need to cultivate meta-
-
-awareness: observing your mental processes as they unfold. “It’s like
-
-slapping yourself awake and saying, ‘Pay attention!’” When you feel
-
-the impulse to check social media, pause, and ask yourself: What’s
-
-driving this behavior? Am I procrastinating? Am I avoiding challenging
-
-work? Asking these questions transforms an unconscious habit into
-
-a deliberate choice. “Meta-awareness is like a muscle — the more
-
-you practice catching and redirecting your attention, the stronger it
-
-becomes.”
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+savor a sense of accomplishment, which can sharpen your focus.

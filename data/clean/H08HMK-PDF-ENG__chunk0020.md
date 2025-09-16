@@ -1,17 +1,29 @@
-# HBR / Digital Article / Your Employees Are Also Caregivers. Here’s How to Support Th…
+---
+source_path: H08HMK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ad08644cb1398b7ca0b897a212eab30f3d303d53
+title: H08HMK-PDF-ENG
+---
+# Advocate for better public policy.
 
-. . .
+There’s a lot business can do in offering paid leave and supportive benefits and
 
-At some point in our lives, we will all be caring for someone else. As my colleague,
+culture, but the government plays a vital role as well. According to sociologist
 
-Amanda Kersey, writes, “sometimes we see the need coming and can plan for it,
+Caitlyn Collins, the “free-market approach has failed families spectacularly.” In
 
-but a lot of the time, we can’t.” And no one should be left hanging when that
+particular, “Americans are among the most stressed-out people on the planet.”
 
-occurs. There are still major gaps around care, but with gaps come plenty of room
+Collins suggests four key areas where policy can help support caregivers’ basic
 
-to find solutions and close them. So, take some time during this November, National
+needs: paid leave to manage family health and well-being; quality, affordable early
 
-Family Caregivers Month, to explore what your company actually knows, and is
+childcare during work hours; fair work schedules to accommodate routine family
 
-actually doing, to support the vast majority of employees who care for others.
+time; and living wages to meet basic material needs.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

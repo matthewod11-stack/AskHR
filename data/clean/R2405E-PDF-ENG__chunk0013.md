@@ -1,15 +1,27 @@
-## plan proof-of-concept tests with Aerones.
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57cb8f3d34c71d1d56f02259d15925d8cdcc4568
+title: R2405E-PDF-ENG
+---
+# Through the Enel Innovation Hub Europe
 
-After successful trials, Aerones began
+2018, the company discovered Aerones, a
 
-operations in 2021. By early 2023 it had
+Latvian start-up that uses automated
 
-secured $30 million in growth capital
+technology and robotics to do wind-turbine
 
-outside Enel, which reassured Enel that it
+maintenance. As wind turbines doubled in
 
-would remain a robust supplier for years and helped Aerones meet
+height, they became more powerful, but
 
-surging demand in a market that’s expected to reach $50 billion by 2028.
+maintaining them became more complex
 
-Using the start-up’s solution, Enel can inspect, maintain, and repair
+and dangerous, and operators needed a
+
+way to handle that task more safely and eﬃciently. During the Enel Green Power
+
+Gjon Mili was a pioneer of strobe and stop-action photography and rapid-fire sequencing techniques used to capture multiple exposures in one frame. His methods of por- traying movement led him to collab- orate with Pablo Picasso, who drew with light in this series for Life mag- azine in 1949.
+
+Bootcamp later that year Enel started to

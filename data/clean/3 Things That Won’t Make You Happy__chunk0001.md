@@ -1,5 +1,9 @@
-# more
+---
+source_path: "3 Things That Won\u2019t Make You Happy.md"
+pages: n/a-n/a
+chunk_id: 61a6da90d32135cc82a5ab7a52eb80f150f8358a
+title: "3 Things That Won\u2019t Make You Happy"
+---
+Personal Purpose And Values3 Things That Won’t Make YouHappyby John ColemanJune 7, 2022
 
-Surveys on happiness continue to show that joy and fulfillmentlevels in the U.S.
-
-have flattened or declined over time — even asmaterial prosperity grows — with a sharp drop as Covid shook theworld in 2020. Globally, there are
+HBR Staff/Getty Images/We AreSummary. Even with decades of research and thousands of years of ancientwisdom at our disposal, many of us continue to aspire to things that have noprospect of bringing us real meaning or joy. What are they?Money. Once a person’s needs are...

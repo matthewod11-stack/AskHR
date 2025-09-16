@@ -1,21 +1,9 @@
-# HBRStaff/Emma Innocenti/Getty Images
+---
+source_path: H052Q1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da9b276ca8fd80f3c48972fa126e86f586e0a4bf
+title: H052Q1-PDF-ENG
+---
+## Research: Executives’ English Skills Affect the Outcomes of Earnings Calls
 
-Investment has become global. That’s not news, of course, but the
-
-extent of the phenomenon might surprise you: Foreign funds today hold
-
-more than eight times more stock in listed companies than they did in
-
-2000.
-
-To reach this increasingly international group of investors and the analysts
-
-who follow their markets, many companies are turning to live earnings
-
-conference calls. The stakes are high: Earnings calls often prompt large
-
-Copyright © 2019 Harvard Business School Publishing Corporation. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+by François Brochet, Gwen Yu, and Patricia Naranjo Published on HBR.org / August 01, 2019 / Reprint H052Q1

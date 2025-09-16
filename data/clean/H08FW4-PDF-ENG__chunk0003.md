@@ -1,11 +1,13 @@
-## performance (revenue, proﬁtability, and shareholder return) and strong
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ce136d8e73a8e866cc8f4629434c2aa8e6e284ff
+title: H08FW4-PDF-ENG
+---
+# Thomas Barwick/Getty Images
 
-executive team performance. But only 20% of executive teams in that
+Executive teams have been a consuming focus of many CEOs and
 
-study were shown to be high performing.
+those leading parts of large enterprises for good reason. One study of
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+1,250 executive teams shows a clear correlation between a company’s

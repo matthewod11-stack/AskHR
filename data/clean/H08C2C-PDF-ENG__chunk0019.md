@@ -1,33 +1,15 @@
-## as an organizational “permission slip” for future interactions.
+---
+source_path: H08C2C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78f92b081e063d0d1b9c89b8b8712ae8981e681a
+title: H08C2C-PDF-ENG
+---
+## relationship with the expert as an ongoing resource for questions that
 
-- Give existing employees the heads up that new people will be reaching
+may come up down the road.
 
-out. For example, you might let Andrea in marketing know that a new
+Here are more tips for facilitating these connections:
 
-team member, Nigel, will be contacting her to set up an exploratory
+- Schedule a lunch meeting and invite both the new employee and the
 
-meeting to go over some of the lessons learned from recent social
-
-media campaigns. And if Nigel doesn’t reach out, Andrea should know
-
-to connect with him to set up a chat.
-
-- As a follow up, periodically ask new employees to list the co-workers
-
-with whom they’ve met and learned from. You can then look at the list
-
-to identify and close any obvious gaps in their relationship network.
-
-. . .
-
-If new hires are struggling to integrate, rather than piling on more
-
-formal training, consider how you can leverage the power of the
-
-people within your company to support their learning. As a manager
-
-there are strategies you can implement to provide organization-speciﬁc
-
-information and resources to help new employees build a meaningful
-
-network. People within this network are uniquely positioned to provide
+person you want them to connect with. This initial meeting can serve

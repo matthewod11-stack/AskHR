@@ -1,23 +1,17 @@
-## news.” Except for that diﬀerence, the content and length of both email
+---
+source_path: H08UMD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ed964b0193159991063071ecbeb4926fd8b0698b
+title: H08UMD-PDF-ENG
+---
+## for a trivial mistake by email leads to more-favorable customer
 
-campaigns were identical.
+evaluations than not apologizing for it. In one study the researchers
 
-More customers opened the email with an apology in the subject line
+partnered with Sacha, a large footwear company that operates in
 
-(38%) than the one touting good news (29%), which admitted the
+Belgium, Germany, Luxembourg, and the Netherlands and has a strong
 
-error but didn’t apologize for it. More customers also clicked on links
+online presence. Sacha sent out two versions of an email campaign:
 
-in the email with an apology header (5.29%) than in the one with
-
-the good-news subject line (4.67%). And ﬁnally, the apology email
-
-generated dramatically more revenue (€628.74) than the good-news
-
-email (€277.13).
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+In one the subject line was “sorry” and in the other it was “good

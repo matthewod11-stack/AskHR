@@ -1,11 +1,11 @@
-# from the start-ups of natives.
+---
+source_path: H0368R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1e18e0b86e872bac943c61d0a1bc41a150e0fa9
+title: H0368R-PDF-ENG
+---
+## — from “Main Street” businesses to VC-backed Silicon Valley ﬁrms. We
 
-Here are some key ﬁndings:
+can see what happens to these ﬁrms after they have been founded,
 
-- 1. Immigrants constitute 15% of the general U.S. workforce, but they
-
-account for around a quarter of U.S. entrepreneurs (which we deﬁne as
-
-the top three initial earners in a new business). This is comparable to
-
-what we see in innovation and patent ﬁlings, where immigrants also
+and whether, for example, immigrant-founded ﬁrms perform diﬀerently

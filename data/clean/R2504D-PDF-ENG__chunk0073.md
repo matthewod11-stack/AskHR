@@ -1,29 +1,25 @@
-## HBR / Magazine Article / The Conflict-Intelligent Leader
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7448002c925628bc1a887e01d48cef6713f53944
+title: R2504D-PDF-ENG
+---
+## Jimmy Carter’s use of personal diplomacy at Camp David during
 
-human implications of peace and war. Carter tapped his own religious
+Middle East peace negotiations in 1978 demonstrated this principle
 
-background to build bridges with both leaders, ﬁnding common ground
+in action. Isolating Egyptian president Anwar Sadat and Israeli prime
 
-in shared Abrahamic traditions. When formal negotiations stalled,
+minister Menachem Begin at Camp David for 13 days, Carter created
 
-Carter would take walks with each leader individually, using these
+a pressure-cooker environment that forced breakthrough moments.
 
-informal moments to explore new possibilities.
+He famously showed Begin pictures of his grandchildren at a crucial
 
-Jack Ma’s handling of the Alibaba-Yahoo partnership in 2005, when
+moment of deadlock, helping the Israeli leader reconnect with the
 
-he was the Chinese ﬁrm’s executive chairman, also illustrates this
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-approach. His personal relationship with Yahoo’s cofounder Jerry
+16
 
-Yang, built over several years, was instrumental in facilitating the U.S.
-
-company’s $1 billion investment in Alibaba. It gave Ma opportunities to
-
-meet Yang informally—for instance, on the Pebble Beach golf course,
-
-where they discussed the future of e-commerce and search engines and
-
-laid the groundwork for their partnership. Ma also established cultural
-
-exchange programs between American and Chinese teams to improve
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

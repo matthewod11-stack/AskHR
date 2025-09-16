@@ -1,3 +1,15 @@
-# May, 1988
+---
+source_path: successful_vs_effective_real_managers.md
+pages: n/a-n/a
+chunk_id: 4f51abc98273971d649f8dca1f108a2374c9ae03
+title: successful_vs_effective_real_managers
+---
+## How the Difference Between Successful and Ftfective Real Managers Was Determined
 
-We obviously would have liked to use “hard meas- ures” of effectiveness such as profits and quantity/quality of output or service, but again, because we were working with large samples of real managers from widely diverse jobs and organizations, this was not possible.
+Discovering the true nature of managerial work by exploding some of the myths of the past and extending the work of Mintzberg and Kotter undoubtedly contributes to our knowledge of management. However, of more critical importance in trying to understand and find solutions to our cutrent performance problems ts singling out successful and ef ective managers to see what they really do in their day-to- day activities. The successful-versus-effective phase of our real managers study consisted of analyzing the existing data based on the frequencies of the observed activities of the real managers. We did not start off with any preconceived notions or hypotheses concerning the relationships between successtul and effective managers In fact, making such a distinction seemed like “splitting hairs” because the twa words are so often used interchangeably Nevertheless, we decided to define succ ess operationally in terms of the speed of promotion within an organization We determined a suc- cess index on a sample of the real managers in our study. It was calculated by dividing a manager’s level in his or her organization by his or her tenure (length of service) there. Trus, a manager at the fourth level of management, who has been with his or her organization for five years, would be rated more successful than a manager at the third level who has been there for 25 years Obviously, there are some potential problems with such a measure of success, but for our large sample of managers this was an objective measure that ould be obtained
+
+The definition and measurement of effectiveness 1s even more elusive. The vast literature on managerial effec- tiveness offered little agreement on criteria or measures To overcome as many of the obstacles and disagreements as possible, we used a combined effectiveness index for a sample of the real managers in our study that represented the two major — and generally agreed upon — criteria of both management theory/research and practice. (1) getting the yob done through high quantity and quality standards of performance, and (2) getting the job done through people, which requires their satisfaction and commitment.”
+
+129
+
+Copyright © 2001. All rights reserved.

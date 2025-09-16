@@ -1,3 +1,17 @@
-## an important predictor of seller success and a natural focus of sales
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 337faebd2ef1ab16ba89e34f9defabfde5d63393
+title: H07BT4-PDF-ENG
+---
+# Seller Drive Isn’t The Issue
 
-leaders. As one might expect, higher drive is associated with higher
+Through our research, we were surprised to learn that motivation
+
+toward work is not the problem.
+
+In fact, 76% of sellers report high levels of motivation toward work,
+
+or what we call drive. Sellers experiencing drive are mentally engaged,
+
+ready to take action, and persistent in the face of obstacles. Drive is

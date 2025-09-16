@@ -1,13 +1,11 @@
-# Form LM-15A(https://www.dol.gov/agencies/olms/regs/compliance/GPEA_Forms/blanklmforms#FLM15a)
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: 7e4e9ea1a75c311bcb4104d982b5b203e258b30a
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+# organization.
 
-(Report on Selection of Delegates and Oﬃcers). Form LM-15A must be ﬁled with the initial or semiannual
+An initial Form LM-15 must be ﬁled when a parent body imposes a trusteeship on a subordinate body. Form
 
-trusteeship report, Form LM-15, or the terminal trusteeship report, Form LM-16. A Report on Selection of
-
-Delegates and Oﬃcers, Form LM-15A, must be ﬁled with an initial, semiannual, or terminal trusteeship report
-
-if, during the period covered by the report, (1) any convention or other policy-determining body met to which the trusteed labor organization sent delegates or would have sent delegates if not in trusteeship; or (2) the
-
-labor organization which imposed the trusteeship over the subordinate organization held an election of
-
-oﬃcers. Form LM-15A, if required, must be ﬁled with the initial or semiannual trusteeship report, Form LM-15,
+LM‑15 reports must also be ﬁled semiannually for the duration of the trusteeship.

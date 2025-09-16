@@ -1,11 +1,17 @@
-# resilient in the face of criticism.”
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e06f48089b27fc9099cce129b3f1df7f1c5982f
+title: R2505C-PDF-ENG
+---
+## HBR / Magazine Article / Now Is the Time for Courage
 
-With the main control panels down at the Daini plant, Masuda
+that seems most plausible. Continue to collect information and then
 
-sent team members out on a dangerous mission to inspect damaged
+build, reﬁne, or adjust. “Sensemaking is not about truth and getting
 
-equipment in person. Based on the information they gathered, they
+it right,” Weick and his coauthors have observed. “Instead, it is about
 
-hypothesized that the plant’s cooling system had lost power, so they
+continued redrafting of an emerging story so that it becomes more
 
-would need to bring in materials to ﬁx it and ﬁnd an alternative energy
+comprehensive, incorporates more of the observed data, and is more

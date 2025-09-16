@@ -1,1 +1,15 @@
-# HC BRIDGETMFRAMEWORK
+---
+source_path: talent_management_a_critical_review.md
+pages: n/a-n/a
+chunk_id: 84df96549310415047a47b08eaedcd6489ade962
+title: talent_management_a_critical_review
+---
+## R.E. Lewis, R.J. Heckman / Human Resource Management Review 16 (2006) 139–154
+
+In effect, research to date has not distinguished between the need to invest in methods of managing talent (via HR practices and processes) and the need to invest selectively in talent (by focusing on one talent pool over another) versus the need to select and develop talent in general. Strategic HRM research has focused on the first issue while research from the field of industrial/organizational psychology has traditionally focused on how to improve a talent pool once it is selected. Seemingly key decisions, such as, Which talent pool is critical?, To what level does it need to perform?, and Which set of practices best ensures that performance?, are left unaddressed.
+
+Boudreau and Ramstad (2005) bridge this gap by outlining a model that places the strategic management of talent resources on par with the theoretical frameworks that drive strategic decisions in other respected business functions, such as finance and marketing. They note that HR needs to develop “a ‘decision science’ that enhances decisions about talent resources” (Boudreau & Ramstad, 2005, p. 17) in the same way that finance has developed a decision science to facilitate business decisions separate from accounting measures. The value of doing so is that “talentship” becomes imbedded in talent decisions wherever they are made in the organization (much like financial decision tools are imbedded in HR investment decisions).
+
+The HC Bridge® Decision Framework (see Fig. 2) outlines decisions at three independent levels of analysis (impact, effectiveness, and efficiency) and the organizational tools, practices, and resources that affect those decisions. Impact refers to the strategic impact of changing a talent pool; that is, how improving the performance or depth of a particular talent pool affects the organization's ability to achieve important strategic goals. Central to the notion of impact is segmentation. Rather than treating all talent similarly (“40 hours of quality training for everyone”, p. 23), Boudreau and Ramstad argue that identifying pivotal talent pools – those jobs or groups of jobs for which small increments in improvement in quality or quantity yield large returns on measures of strategic interest – is critical to impact. They distinguish this pool from talent that has a “high average” value, and therefore is important to retain, but which will not generate significant strategic results if improved.
+
+Effectiveness refers to the degree to which interventions affect the behaviors of those in the targeted talent pool. Boudreau and Ramstad note interventions can address the capacity of the talent or the processes/practices (aligned actions) of the talent. Effectiveness measures (targeting improvement of a capability or process) are common measures in HR. The decision to invest in a given intervention because it is effective (it will it drive the behaviors the

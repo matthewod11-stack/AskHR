@@ -1,7 +1,7 @@
-# WWL Way Toolkit
-
-Measure Enablers and levels of staff engagement Measure performance and patient care outcomes
-
-22
-
-Institute for Employment Studies
+---
+source_path: measuring_employee.md
+pages: n/a-n/a
+chunk_id: 960371d4ed3f50e095154e8514118f55a0baf1d8
+title: measuring_employee
+---
+# Team Diagnostic Survey

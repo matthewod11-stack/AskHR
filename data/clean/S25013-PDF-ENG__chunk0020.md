@@ -1,27 +1,17 @@
-# People Believe AI Is Too Inflexible
+---
+source_path: S25013-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f3210a4290388027326f8808965be8ea57a45fe
+title: S25013-PDF-ENG
+---
+## than they would with a human telemarketer.
 
-People generally hold the view that mistakes help humans learn and
+While anthropomorphizing AI can often increase adoption, sometimes
 
-grow, instead of interpreting errors as a sign of unchangeable defects.
+it can be counterproductive, such as in sensitive or embarrassing
 
-But they frequently think AI tools are rigid and not adept at adjusting
+contexts like obtaining medicine for sexually transmitted diseases.
 
-and evolving—a belief that may stem from past experiences of machines
+In those situations, consumers often prefer AI without human traits
 
-as static devices that carry out limited functions.
-
-Perceptions like that can diminish trust in the technology and create concerns about its eﬃcacy in new scenarios. Studies have indicated,
-
-however, that consumer use of AI output rises when people are told that
-
-AI has the capacity for adaptive learning. Even nominal cues that imply
-
-learning potential, such as branding AI as “machine learning” instead
-
-of merely an “algorithm,” have boosted engagement. Netﬂix frequently
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+because they believe it will be less judgmental.

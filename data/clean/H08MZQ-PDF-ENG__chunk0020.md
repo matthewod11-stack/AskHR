@@ -1,9 +1,25 @@
-## Organizational Strategies for Ensuring Inclusive Merit
+---
+source_path: H08MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1c2a3b909e49536bbb1e8b2170ec47b4808ee874
+title: H08MZQ-PDF-ENG
+---
+# and inclusion.
 
-Creating a fair system that harmonizes merit and inclusion requires
+The ideal of a merit-based society is attractive. And it might
 
-intentional design and ongoing evaluation. Below are actionable
+possibly work—in a world where a homeless child has the same
 
-strategies organizations can adopt to ensure inclusivity of merit,
+opportunities as a trust-fund baby, everything is disability-accessible,
 
-practicing fairness while unlocking the full potential of their workforce.
+and women’s contributions are not ignored. But in the world we
+
+live in, true meritocracy, where everyone plays on an even ﬁeld,
+
+requires the removal of many unfair barriers. It requires inclusion.
+
+By removing systemic barriers, organizations can create environments
+
+where inclusion enhances meritocracy and merit mechanisms enhance
+
+inclusion, ensuring that talent and eﬀort genuinely determine success.

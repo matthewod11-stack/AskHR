@@ -1,17 +1,35 @@
-# the individual user?
+---
+source_path: H089ZD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: afe9168854e5a68961e5001fdcc73e472fa1d924
+title: H089ZD-PDF-ENG
+---
+# consuming.
 
-For entrepreneurs, marketers, and brand strategists alike, there is
+. . .
 
-an opportunity to apply and adapt South Korea’s approach to value
+Business leaders interested in applying the South Korean approach can
 
-creation. This can help your brands grow its appeal and reinforce its
+audit their brand strategy along four dimensions:
 
-competitive advantage as you expand into global markets.
+- 1. Discovery: What can be changed to make brand discovery faster and
 
-This article was originally published online on June 20, 2024.
+more fun? When, where, and how do people discover your brand?
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+How does this compare to your competitors?
 
-7
+- 2. Experience: How immersive is your brand? How can you enrich your
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+brand’s sensory value during introduction, distribution, and use?
+
+- 3. Experiment: What elements of your brand’s go-to-market strategy
+
+can be subjected to experimentation? What aspects of the customer
+
+journey can be optimized through AB testing?
+
+- 4. Production of content: What are your brand’s media assets? To what
+
+extent does your brand content overlap with your brand promise?
+
+How can you make your brand message more vibrant and relevant to

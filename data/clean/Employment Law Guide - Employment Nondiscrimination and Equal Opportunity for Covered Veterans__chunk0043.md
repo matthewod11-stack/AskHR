@@ -1,19 +1,25 @@
-# Penalties/Sanctions
+---
+source_path: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity
+  for Covered Veterans.md
+pages: n/a-n/a
+chunk_id: 7ba3ee94f606e6eb458a0e3e462de7867dd96df9
+title: Employment Law Guide - Employment Nondiscrimination and Equal Opportunity for
+  Covered Veterans
+---
+## record or personnel action, whichever occurs later.
 
-If a violation of VEVRAA is found a during compliance evaluation or complaint investigation, OFCCP will ask
+In addition, all contractors with a Federal contract or subcontract of $150,000 or more, and 50 or more
 
-the Federal contractor or subcontractor to enter into conciliation negotiations. If conciliation eﬀorts succeed,
+employees, must retain certain records related to outreach and recruitment, the hiring benchmark and data
 
-the contractor will enter into a binding conciliation agreement with OFCCP that includes corrective action the contractor will take and may also include the submission of follow-up reports from the contractor, for a ﬁxed
+analysis, for a period of three years from the date of the making of the record.
 
-period of time, to assure compliance. If conciliation eﬀorts fail, OFCCP may refer the matter to the Solicitor of
+Federal contractors or subcontractors with a Federal contract or subcontract of $150,000 or more have a
 
-Labor with a recommendation for the institution of enforcement proceedings to enjoin the violations, to seek
+separate requirement to complete and submit to the Department's Veterans' Employment and Training Service
 
-appropriate relief, and to impose appropriate sanctions, or any combination of these outcomes.
+(VETS) the VETS-4212 Report showing the numbers of protected veterans hired or employed during the
 
-If OFCCP ﬁles an administrative complaint, the matter will be referred to an Administrative Law Judge ("ALJ"), who hears the case and recommends a decision to the Department of Laborâ€™s Administrative Review Board (â€œBoardâ€). If the contractor, subcontractor, or OFCCP is dissatisﬁed with the ALJ's decision, they may appeal the decision to the Board. In both situations, the Board will then issue a ﬁnal agency decision.
+reporting period. The VETS-4212 Report may be completed online. OFCCP may verify whether the contractor
 
-Thereafter, either party may ﬁle a petition with the Board for further review by the Secretary. Where the
-
-Secretary accepts review, the Boardâ€™s decision does not become ﬁnal unless and until the Secretary completes the review. If the Secretary does not accept review, the Boardâ€™s decision becomes ﬁnal.
+has complied with this requirement during a VEVRAA compliance evaluation.

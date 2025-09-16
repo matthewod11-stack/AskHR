@@ -1,9 +1,7 @@
-# The Barriers You Face
-
-If you’re a person of color, barriers to mental health assistance
-
-include the impact of racism, being an “only,” cultural mistrust, and
-
-collectivism. Understanding racism and its impact is key to advocating
-
-for your mental health in the workplace and for raising the awareness of
+---
+source_path: H087DJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84d0b7eea6f01a663b80767808b831649ad69a68
+title: H087DJ-PDF-ENG
+---
+## HBR / Digital Article / Supporting the Mental Health of Employees of Color

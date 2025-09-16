@@ -1,11 +1,25 @@
-# rule of thumb.
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2916e89e17bfac4be105b63b5c1190ecc3de28b
+title: H07SHV-PDF-ENG
+---
+# evidence of your Thanksgiving dinner.
 
-Second is satisfaction. Satisfaction is the joy you get when you struggle
+Happiness is three things that we need to be thinking about and
 
-for something and you get that. Now fellow strivers, the striver’s curse
+managing in our lives. Enjoyment, satisfaction, and purpose. Those are
 
-is you get on something called the hedonic treadmill where you struggle
+the three big things that we need.
 
-and struggle and achieve it, but then it doesn’t give you very much
+Enjoyment is not pleasure, pleasure is an animal thing. Enjoyment is
 
-satisfaction for very long and so you keep trying and trying and trying
+the pleasure you get plus the people that you enjoy it with and the
+
+memories that you’re making. That’s why beer commercials don’t have
+
+a guy alone in his apartment pounding a 12 pack. They have people
+
+enjoying a few beers together because it’s pleasure plus people plus
+
+memory. Don’t do the stuﬀ that makes you feel good alone. That’s the

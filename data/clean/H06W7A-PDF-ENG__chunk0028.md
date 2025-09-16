@@ -1,15 +1,13 @@
-## HBR / Digital Article / How to Steer Clear of Groupthink
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03e7ca1196e636a1d41f52d304fd8da8c9e5c0b8
+title: H06W7A-PDF-ENG
+---
+# account?
 
-Ryan: I have a problem with the pure audit model. Where is the
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-patient’s control in this model? My knowing who has accessed my
+3
 
-records after the fact has no bearing on my ability to control who can
-
-have access and who cannot.
-
-Kevin: Say a patient gives Dr. Jones permission to view and
-
-incorporate their information. Once that permission is granted, you
-
-don’t need another audit trail, because the information is now the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

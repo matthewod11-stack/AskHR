@@ -1,11 +1,9 @@
-## opportunities among high-performing employees.
+---
+source_path: H07YLQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c09ce36a6a1d63ee256ebe1f3cebd4051549e5d2
+title: H07YLQ-PDF-ENG
+---
+## HBR / Digital Article / Are You a “Bottleneck Boss”?
 
-Right now, you may have a handful of high-potential employees on
-
-your payroll, or you may have employees that need an investment of
-
-attention to get there. From this point forward, start building a key
-
-group of people with the talent, determination, and abilities to be
-
-future superstars. Even if they’re not ready for all the responsibilities
+to do well. Therefore, it’s practical to distribute responsibilities and

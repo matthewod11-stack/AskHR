@@ -1,29 +1,31 @@
-## HBR / Digital Article / Developing a Successful Business Strategy in China
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6b911f06a523c89af74275ecac999e5360d7a47
+title: H07VZN-PDF-ENG
+---
+## Acknowledge the unfavorable perception gap.
 
-undermines trust. Acknowledging this perception gap will help both
+Globally, perceptions of China are at an all-time low. These perceptions
 
-teams navigate it.
+exert a continuously negative inﬂuence on global executives and teams,
 
-Global teams need recognize that there is a potentially large disconnect
+who feel more and more estranged from the country and market they’re
 
-between how China is perceived abroad and what your team
+meant to be working in.
 
-experiences on the ground. For China-based teams, recognize that
+Most China-based teams I speak with don’t understand the barrage of
 
-though negative perceptions of China may not be your fault, they
+negative news that their global colleagues are contending with — or
 
-are your burden. If you do not integrate this recognition into how
+how that’s aﬀecting them and their country. If, as is often the case,
 
-you advocate for your business within your global company, you will
+China-based teams submit over-positive market reports, it appears to
 
-continue to lose out on resources and inﬂuence, with or without merit.
+be irreconcilably at odds with the information HQ is taking in, which
 
-Transform general “China anxiety” into specific concerns, and then address those concerns as a global team.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Every headquarters we interact with right now has China anxiety — that
+3
 
-is, a hazy, free-ﬂoating discomfort with China and the China market
-
-as a whole. This has been the case for years, of course, but it’s more
-
-acute today than ever, and in many situations it’s leading to decision
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

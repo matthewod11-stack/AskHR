@@ -1,7 +1,17 @@
-## classic notions of discrimination, where the wage income of certain
+---
+source_path: H03LVO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2c85e6f0a3294725aa2d25ae66bfeb2104c1d23b
+title: H03LVO-PDF-ENG
+---
+# inventor, and U.S.-born engineers.
 
-Copyright © 2017 Harvard Business School Publishing. All rights reserved.
+Our study also shows that immigrants were paid less on average
 
-4
+than domestic inventors, despite being more productive in terms of patenting. The precise source of this wage penalty is diﬃcult to
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+pin down; however, inventors from other marginalized groups, such
+
+as black and female inventors, were also paid less than similarly
+
+productive white males. Our evidence is therefore consistent with

@@ -1,19 +1,21 @@
-## particular plant to an individual customer.
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 28ca843b72eab7855c9173e1b850aadc3f32cf90
+title: R0507Q-PDF-ENG
+---
+# mission.
 
-If the information system is unresponsive, however, it can be the
+Information systems play an invaluable role in helping managers
 
-Achilles’ heel of performance measurement. Managers at ECI are
+disaggregate the summary measures. When an unexpected signal
 
-currently limited by the absence of such an operational information
+appears on the balanced scorecard, executives can query their
 
-system. Their greatest concern is that the scorecard information
+information system to ﬁnd the source of the trouble. If the aggregate
 
-is not timely; reports are generally a week behind the company’s
+measure for on-time delivery is poor, for example, executives with
 
-routine management meetings, and the measures have yet to be
+a good information system can quickly look behind the aggregate
 
-linked to measures for managers and employees at lower levels of the
-
-organization. The company is in the process of developing a more
-
-responsive information system to eliminate this constraint.
+measure until they can identify late deliveries, day by day, by a

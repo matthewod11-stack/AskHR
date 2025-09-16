@@ -1,15 +1,19 @@
-## challenge in the next stage of my career.
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eee8dbf1b92434c6d12dc67b042778d92bb57e0c
+title: S24054-PDF-ENG
+---
+## upside here, not only for sports teams but for any other organization.
 
-Let’s go.
+If the corporate world creates more skilled team leaders, companies
 
-A version of this article appeared in the September–October 2024 issue of Harvard Business Review.
+will produce better results and employees will have more fun doing it.
 
-Tom Brady achieved great success in his 23-year NFL career, winning seven world championships. He is also an entrepreneur, a New York Times best-selling author, and a business adviser.
+Bad bosses, toxic coworkers, and “quiet quitting” will become far less
 
-Nitin Nohria is the George F. Baker Jr. and Distinguished Service University Professor. He served as the 10th dean of Harvard Business School, from 2010 to 2020.
+common. As much as I loved winning Super Bowls, I recognize that
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+the impact of helping organizations achieve success through teamwork
 
-18
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+could be far-reaching. That’s why I’m so excited about embracing this

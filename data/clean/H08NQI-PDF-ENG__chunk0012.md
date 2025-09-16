@@ -1,23 +1,31 @@
-## HBR / Digital Article / Leaders Can Move Fast and Fix Things
+---
+source_path: H08NQI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: baa8425ee83f2b7d18b0ddeaf03de85158e1aa90
+title: H08NQI-PDF-ENG
+---
+# deep state.
 
-- 2. Build more trust as you go.
+Distorting other people is a common response to conﬂict, but it also
 
-Trust in leadership is a byproduct of logic, authenticity, and empathy,
+makes leadership harder by severing your links to reality. As you turn
 
-a pattern that goes all the way back to Aristotle’s observation that
+other people into caricatures, you risk becoming one yourself.
 
-persuasion requires a combination of logos, pathos, and ethos.
+The way out of this muddled mental posture is a mix of humility and
 
-Our take on the American people’s trust in the current government eﬃciency campaign is that it gets high marks for authenticity (we
+curiosity. Don’t assume your take is necessarily right, particularly if
 
-believe we’re seeing the real Elon Musk in action), the beneﬁt of
+you’re surrounded by people with strong incentives to agree with you.
 
-the doubt on the logic of the cuts (reducing government waste is a
+Toyota’s famous “Five Whys” practice codiﬁes a way to expose the true
 
-reasonable goal), but decidedly low marks for empathy. As Rep. Rich
+origins of a problem faster. This approach, among other things, enabled
 
-McCormick (R-Ga.) told CNN’s Manu Raju, the GOP should do a better
+them to build one of the most eﬀective operating systems in the world.
 
-job of showing “compassion.” Compassion is also a core American value.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-We see ourselves as decent people and want our leaders to embody that
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

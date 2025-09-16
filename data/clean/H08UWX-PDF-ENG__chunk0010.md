@@ -1,19 +1,25 @@
-# candidate’s qualiﬁcations.
+---
+source_path: H08UWX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5ed3c64414f6de762c2c8815df7e24eea62f259
+title: H08UWX-PDF-ENG
+---
+## time, respectively, even after ﬁve interviews.
 
-One remarkable ﬁnding relates to the role of structured questioning.
+Moreover, the research found that even if skills are thoroughly covered
 
-Skills that interviewers explicitly asked about ended up being well-
+in an initial interview, they’re often revisited in subsequent interviews.
 
-covered during the interview process only 53% of the time. This is
+Across all skill categories, 72% of well-covered skills are addressed again
 
-compared with just 1.6% for skills that were never asked about—which
+later, with each skill revisited an average of 1.2 additional times. That
 
-suggests that candidates should make sure to mention signiﬁcant
+suggests that hiring teams don’t lack the time to evaluate more skills—
 
-attainments and emphasize points that they feel will advance their
+but instead are probing the same topics in diﬀerent interviews. Whether
 
-candidacies if interviewers aren’t asking about them in detail early
+that reﬂects an undisciplined process or an overfocus on a few skills that
 
-on. Looking more broadly, when both the “well-covered” and “partially
+are viewed as particularly critical to success, the end result is the same:
 
-covered” categories are combined, asked-about skills were addressed
+It puts the employer at risk of hiring a worker without fully vetting that

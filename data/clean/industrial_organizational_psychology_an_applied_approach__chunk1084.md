@@ -1,11 +1,7 @@
-# Rejecting Applicants
-
-On the Job: Applied Case Study: City of New London, Connecticut, Police Department
-
-Focus on Ethics: The Ethics of Tests of Normal Personality in Employee Selection
-
-157
-
-In Chapter , interviews and résumés were described as the most commonly
-
-used methods to screen and select employees. Although these methods are the most commonly used, they are certainly not the best. In this chapter, we discuss several other techniques that are preferred by industrial psychologists to select employees.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4dce71aeb74cf81fef7f428ee9a54584bab5cd5c
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Comparison of Techniques Validity Legal Issues

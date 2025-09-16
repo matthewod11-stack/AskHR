@@ -1,15 +1,21 @@
-# 4.2 Predictive analytics criticism
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: acbbc7ec4d5e960289b63dafb9fc76b8f266b4c3
+title: i
+---
+# growth.
 
-Predictive analytics can contribute to enhancing the additional business value for the company.
+Moreover, according to Tursunbanyera et al. (2018), companies tend to prioritize the
 
-Conversely, Oehler and Falletta (2015) argue that these advancements are game changers when
+technological aspects of Predictive Analytics, emphasizing the adoption and upgrading of IT
 
-78
+infrastructure in their quest for more efficient data mining methods. Conversely, the ethical
 
-creating new business tasks for the HR department. The authors argue instead of a human-to-
+dimensions of PA are receiving inadequate attention compared to their significance. The
 
-human relationship, HR when fueled with analytics emphasizes more on business value and
+authors also highlight the lack of literature regarding the ethical side of PA, or <near absence
 
-financial value, as well as profit creation. The authors also postulate discrimination against
+of ethical considerations in the corpus of academic, grey and online literature, despite the
 
-certain candidates or employees which is caused by the analytics and algorithm.
+significant risks to privacy and autonomy these innovations present for employees=

@@ -1,1 +1,7 @@
-# opportunities for IT firms in India.
+---
+source_path: bonfring_international_journal_of_industrial_engineering_and_management_science.md
+pages: n/a-n/a
+chunk_id: 74f3bf6d20b30326df7753e94d9b534e610b6e37
+title: bonfring_international_journal_of_industrial_engineering_and_management_science
+---
+# INTRODUCTION

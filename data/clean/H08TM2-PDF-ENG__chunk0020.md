@@ -1,11 +1,23 @@
-## HBR / Digital Article / Leading After Your Predecessor Fails
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5201f0182d19f11bcab44377872707f30c25ec31
+title: H08TM2-PDF-ENG
+---
+## employees across every part of the business within his ﬁrst 90 days.
 
-in a day; they can’t be ﬁxed in a day. We both have seen ambitious
+It seemed like a strong plan, but within the ﬁrst month, urgent crises
 
-and well-intentioned leaders expect too much of themselves, being
+demanded his attention. Determined to stick to his schedule, he pushed
 
-unrealistic with their own capacity. Following a failed leader is hard,
+himself to the brink, losing sleep and becoming exhausted.
 
-and the last thing the company needs is for you to fail, too. Self-care is
+It can be tempting to try to address every glaring issue all at once,
 
-a leadership must, scheduled into the overall plan rather than treated as
+but that just isn’t possible. Organizational breakdowns didn’t happen
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

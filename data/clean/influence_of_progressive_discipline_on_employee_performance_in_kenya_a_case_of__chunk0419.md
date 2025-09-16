@@ -1,5 +1,7 @@
-# Introduction
-
-The study sought to establish the influence of progressive discipline on employee performance in Kenya. The study examined theoretical and empirically how various variables are considered in progressive discipline. In progressive discipline, the study focused on how selected factors (employee reprimand, codes of conduct, employee disciplinary procedures and employee
-
-rules and regulations) relate to employee performance in Kenya. This chapter captures the summary of findings, from which conclusions were drawn and recommendations made.
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: c3a87a6b6a88d3b1cc646063aadd133796efa39f
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# SUMMARY, CONCLUSIONS AND RECOMMENDATIONS

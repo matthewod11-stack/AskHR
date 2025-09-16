@@ -1,25 +1,21 @@
-# scorecard.
+---
+source_path: H07M1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4549c6b300a1876e9e9f554f07a0589be64ef2c5
+title: H07M1A-PDF-ENG
+---
+## down to your principles, work ethic, and, sometimes, your ability to
 
-Even so, if you’re working to improve your executive functioning
+organize yourself.
 
-(organizing, prioritizing, etc.) or your skills in managing yourself,
+If you have strong principles and a steadfast work ethic, you naturally
 
-drafting a to-do list might not be suﬃcient. Instead, consider making
+want to do right by someone. You want to complete that task no matter
 
-meetings with yourself to block the time for each task on your calendar.
+what it takes because you committed to it, and not following through
 
-This can help you accomplish what you need to in the assigned
+would hurt you as much as it would disappoint someone else. I believe
 
-timeframe and will support you in delivering on your word.
+your word should mean something. When you say you’re going to do
 
-Despite the clear beneﬁt in doing what you say you will, how many
-
-times has someone promised you that they would make an introduction
-
-for you but then ghosted you? Can you count how often someone owed
-
-you something that was done incompletely or past a deadline? There
-
-are way too many instances to count. The risk of unfulﬁlled promises
-
-is that when you fail to deliver, you become labeled as someone who is
+something, following through is tallied and judged on your professional

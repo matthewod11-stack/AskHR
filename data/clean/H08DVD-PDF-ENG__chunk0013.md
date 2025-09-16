@@ -1,7 +1,15 @@
-# more attention to morale.
+---
+source_path: H08DVD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35f18d731af9fcc8d19528a8a14477eeb5a76f50
+title: H08DVD-PDF-ENG
+---
+## in times of uncertainty and in a highly competitive employment
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+environment. Oscar-winning Pixar director Brad Bird has a famous
 
-4
+quote that we fully endorse: “If you have low morale, for every $1 you
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+spend, you get about 25 cents of value. If you have high morale, for every
+
+$1 you spend, you get about $3 of value.” Companies should pay much

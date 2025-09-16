@@ -1,23 +1,35 @@
-# HBR / Digital Article / Keep Your Team Motivated When a Project Goes Off the Rails
+---
+source_path: H07VSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1536da701bb3945fe6ac3d1e4d90e505d69e5a4d
+title: H07VSV-PDF-ENG
+---
+# Connect regularly as a team.
 
-building session away from work can often reset the team’s energy and
+Scheduling a standing weekly project meeting can help create regular
 
-improve collaboration.”
+feedback loops about what’s working and what’s not working so course
 
-Celebrate small wins and provide recognition
+corrections can be made in a timely way, thereby keeping the project
 
-Recognizing small wins can help mark progress for the team and raise
+on track and increasing the chances of success. These regular check-
 
-their spirits. Celebrating project milestones as a team can not only boost
+ins will also allow the team to get important issues on the table for
 
-morale, but also gives the team a sense of traction against their goals
+key discussions, debate, and decisions – while straightforward status
 
-and feelings of optimism. Nieto-Rodriguez shared that achieving even
+updates can be done asynchronously on platforms like Slack.
 
-minor milestones can be a source of motivation.
+These meetings can also provide the opportunity to do some team
 
-In addition, providing individual recognition that is personalized can
+building in order to strengthen the relationships and connective tissue
 
-also help motivate team members, keeping in mind that introverts tend
+amongst team members, as well as ensure ongoing alignment. Nieto-
 
-to prefer more private, one-on-one recognition and extroverts tend to
+Rodriguez shared, “Depending on the project’s urgency, a short team-
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

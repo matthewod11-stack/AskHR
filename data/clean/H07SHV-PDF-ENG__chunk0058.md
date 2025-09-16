@@ -1,19 +1,37 @@
-## Every week in my column in the Atlantic, every Thursday morning, I
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f831c77acde195fc2f409cab79d13332f10085f0
+title: H07SHV-PDF-ENG
+---
+# than happy.”
 
-have a big topic and I do talk about the science, but then I always give
+Boom, man. It was like a knife to my heart, Adi. All these years when I was running a company and the 14th hour at the oﬃce before the ﬁrst
 
-three ways to live this thing.
+hour with my kids, well, news ﬂash man, they grew up. They grew up
 
-Just in general, since we’re on the meta topic of happiness, the way
+and I missed a lot of it. And I really, really regret that. Now I’m not going
 
-to think about happiness is that it’s not a feeling. If happiness were a
+to miss it with my grandkids, I get a do-over. I’m not going to screw that
 
-feeling, that would be very disappointing. It would depend on how you
+up twice. That’s a really important thing.
 
-slept last night and what you ate for breakfast and no good. If your
+If I could have had a little bit more perspective, I would not have been
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+less successful. The data don’t lie on this either. The 14th hour is not
 
-20
+productive. It’s just compulsive. Just like any other addiction, the 14th
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+drink doesn’t give you more joy. Stop at two, is the bottom line, because
+
+you need the balance in this part of your life as well.
+
+ADI IGNATIUS:
+
+At HBR we try to be super practical, so before you go, can you leave the
+
+audience shortcuts to happiness, or just things that viewers can think
+
+about or do today that can be a meaningful step in that direction?
+
+ARTHUR C. BROOKS:

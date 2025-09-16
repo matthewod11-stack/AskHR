@@ -1,17 +1,27 @@
-# MEAN_GP
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 6896d6e1568a692bbdc7d485f552de63f0cb39d2
+title: final_2019_jan_feb_jbs_pmd
+---
+## 95% Confidence Interval of the Difference
 
-Equal variances not assumed
+Equal variances assumed
 
-- 28.795
+7.660
 
-262.291
+.006
+
+- 26.254
+
+485
 
 .000
 
 - 1.50924
 
-.05241
+.05749
 
-- 1.61245
+Lower -1.62220
 
-- 1.40604
+Upper -1.39629

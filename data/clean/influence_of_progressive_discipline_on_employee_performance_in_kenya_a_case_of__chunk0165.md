@@ -1,3 +1,13 @@
-# Pilot Study
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 1f8a37c53341cb5ed86b12ce516b9b0fa7879960
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# to
 
-According to Bordens &Abbott (2008), pilot study is as a small-scale version of the study used to and establish procedures, materials parameters to be used in the full study. According to (Cooper and Schindler, 2010), pilot test is conducted to detect weaknesses in design and instrumentation and to provide proxy data for selection of a probability sample. The pilot study involved pre-testing the questionnaires on 6 respondents of Mukurweinin airy. is supported 2006) who recommends that a pilot test of 10% of the sample size can be used. The respondents were conveniently selected since statistical conditions are not necessary in the pilot study (Cooper &Schindler, 2008). The Purpose was to refine the questionnaires so that respondents in major study have no problem in answering the questions. The results of pilot test were not included in the actual study.
+- 1568 -
+
+and is widely spread geographically and it is free from the bias of the interviewer, answers are in respo(cid:374)de(cid:374)ts(cid:859) o(cid:449)(cid:374) (cid:449)ords.
+
+The questionnaire was administered through drop and pick method to the employee in various departments at Mukurwre-ini Wakulima Dairy Ltd. Questionnaires gave respondents freedom to express their views or opinion and also to make suggestions. Its anonymity helped to reduce more candid answer than is possible in an interview. Secondary was collected by a study of records and documents in various departments and data was collected concerning written records about variables understudy and reports with documentary evidence

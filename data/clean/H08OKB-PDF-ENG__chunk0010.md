@@ -1,13 +1,11 @@
-# The Main Problem with Hiring Stars
+---
+source_path: H08OKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: da2fcec03534ff24313a9f5d4f82af4b4e905ca1
+title: H08OKB-PDF-ENG
+---
+## to 10% lower performance in the following year than practice areas that
 
-There are a number of arguments against recruiting stars. First, there
+did not do so. Yet a closer look at our results reveals a more nuanced
 
-is the issue of portability of individual performance. Research has
-
-shown that organization and team factors are important contributors
-
-to the stars’ individual performance. When a star is recruited, these
-
-factors do not transfer as easily as the stars’ own knowledge and skills.
-
-Superior performance is often a collective endeavor, and dependent
+picture, with some instances in which hiring stars may work.

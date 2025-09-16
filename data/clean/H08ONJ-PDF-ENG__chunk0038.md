@@ -1,13 +1,21 @@
-## us of the importance of resourcefulness as a key component of strategy.
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 024a4eec8fdae664d5e6f9be863995a760871461
+title: H08ONJ-PDF-ENG
+---
+## trust, mutual commitments, or high-level aligned interests might you
 
-This article was originally published online on April 3, 2025.
+leverage to realize your business opportunity?
 
-W. Chan Kim is a professor of strategy and management at INSEAD and a codirector of the INSEAD Blue Ocean Strategy Institute, in Fontainebleau, France. He is a coauthor, with Renée Mauborgne, of the books Blue Ocean Strategy and Beyond Disruption: Innovate and Achieve Growth Without Displacing Industries, Companies, or Jobs (Harvard Business Review Press, 2023).
+. . .
 
-Renée Mauborgne is a professor of strategy and management at INSEAD and a codirector of the INSEAD Blue Ocean Strategy Institute, in Fontainebleau, France. She is a coauthor, with W. Chan Kim, of the books Blue Ocean Strategy and Beyond Disruption: Innovate and Achieve Growth Without Displacing Industries, Companies, or Jobs (Harvard Business Review Press, 2023).
+Resources are a key hurdle faced by many organizations—not
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+only small, bootstrapped ﬁrms, but also large ones where ﬁghting
 
-8
+for resources can be just as tough. Especially in today’s resource-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+constrained environment, mastering the paths to resourcefulness
+
+couldn’t be more valuable. Beyond AI, the success of DeepSeek reminds

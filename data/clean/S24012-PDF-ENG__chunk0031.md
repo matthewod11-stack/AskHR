@@ -1,63 +1,43 @@
-## HBR / Spotlight Article / Leaders Must React
+---
+source_path: S24012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64be79f7eea5fc6d5199a73667376123ce526d4f
+title: S24012-PDF-ENG
+---
+# run-of-the-mill intelligence chatter.
 
-Cultural crises also often begin with whisper warnings. Many leaders
+Whisper warnings can take various forms. They might be emerging
 
-ousted for #MeToo misbehavior had been subject to quiet allegations
+competitors that could disrupt market dynamics, murmurs of employee
 
-for years. At Uber signs of an arrogant, we’re-above-the-rules attitude
+dissatisfaction, nascent regulations with the potential to widen in scope, or seemingly insigniﬁcant operational ineﬃciencies that could
 
-and a toxic culture were evident before Susan Fowler, an Uber engineer
+balloon if unchecked. Quite often, major product or safety failures start
 
-who’d quit, wrote a 2017 blog post putting them in the public eye. She
+as whisper warnings. In the mid-1990s plaintiﬀs’ attorneys began ﬁling
 
-recounted being sexually harassed by her supervisor and experiencing
+lawsuits alleging that the tread on Firestone tires on Ford Explorer
 
-an egregious lack of support when she reported his behavior to HR. The
+SUVs tended to separate at high speeds, causing accidents. Several
 
-ensuring uproar led to the ouster of Uber’s cofounder and CEO, and it
+dealers, insurance agents, and other players received isolated reports of
 
-took the company years to rebuild its culture and reputation.
+problems during those years. But the larger problem remained hidden
 
-Leaders need to pay careful attention to small signs of discontent or
+until 2000, when media reports made its scope clear. Over time the
 
-distress that have the potential to fester and grow, especially among
+defective tires were implicated in 203 deaths (most of which occurred
 
-members of the board or the senior team or employees at large. When
+after the earliest whisper warnings) and caused signiﬁcant reputational
 
-they crop up, the best approach is to act quickly and nip problems in
+damage to Ford and Firestone. Leaders who were more attuned to
 
-the bud. With most whisper warnings, you can take steps to mitigate
+whisper warnings might have reacted earlier.
 
-the situation before it explodes into a crisis. Whether by announcing
-
-a voluntary product recall, pulling the proverbial Andon cord on a
-
-quality or safety issue, ﬁring a toxic executive, or reaching out to talk
-
-to someone who is upset, leaders who respond early are more eﬀective
-
-at tamping down simmering issues. Developing contingency plans to
-
-address potential escalation can also be helpful, as initial preemptive
-
-actions don’t always work.
-
-While every whisper warning doesn’t warrant a CEO’s undivided
-
-attention, discerning which minor issues could become much more
-
-troublesome is a form of judgment that deﬁnes eﬀective leaders.
-
-Siren songs: Signiﬁcant issues that are likely to diminish over time.
-
-The leader’s task: Don’t overreact. Watch and wait.
-
-In The Odyssey, alluring sirens sing to passing sailors, tempting them
-
-onto the shoals and into shipwrecks. Today many things likewise draw
+Leaders need to pay careful attention to small signs of discontent that have the potential to fester and grow.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

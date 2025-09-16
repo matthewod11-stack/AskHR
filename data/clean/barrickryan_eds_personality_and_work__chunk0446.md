@@ -1,7 +1,11 @@
-## DISPOSITIONAL INFLUENCES ON AFFECTIVE EXPERIENCES AT WORK 125
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 51a78fd435d54fbb9911f6e07aca14441a53b09e
+title: barrickryan_eds_personality_and_work
+---
+# Day
 
-and valleys, and the time span for movement from one state to an- other. Not observable but still present are distinct cycles to affective states, cycles whose frequencies or periods vary from one person to another. Affective experiences are state constructs that vary in di- rection, intensity, subjective experience, and length of time.
+in at random points during the day, we are unable to capture the holistic, episodic nature of any particular affective experience. We miss its beginning and its end, and thereby miss the meaning and coherence of the experience itself. In addition, by assessing only the positive or negative nature of the affective state, we miss the discrete emotional experience. Moods may be well captured by di- mensional reductions, but discrete emotions are not. In these kinds of data, we fail to discriminate among these different kinds of experiences.
 
-What kind of construct is personality? Let us ﬁrst say that for this discussion, we will be talking of personality in trait or disposi- tion terms. We recognize that there are personality researchers who ﬁnd this framework limiting (see Pervin, 1994, and accompa- nying commentaries as examples), but it is clear that in the I/O lit- erature generally and in the work affect literature in particular, the trait concept overwhelmingly predominates. So what kind of con- struct is a personality trait? Of most importance for us is that it is an attribute of a person that has no built-in time frame, no “on and off” element. We will not get into the issue of whether it can change or whether it is largely inherited, only that it is distinguished from state variables. State variables, by deﬁnition, come and go. Trait variables, by deﬁnition, do not.
-
-Immediately, we see a disconnect. By asking the general ques- tion of the relationship between affect and personality, we are in- quiring how a state like construct, characterized by its variability, can be explained by a trait construct deﬁned by its stability. This is no small problem. Yet we also believe that solutions are available. However, before we discuss what we think are appropriate so- lutions, it will be useful to provide an overview of the nature of I/O research on dispositions and affect. This will tell us how researchers have dealt with the disconnect and also what they have not done but could do.
+Nonetheless, these data can help us make a few points about af- fective states. Simple observation of these data illustrates the mo- mentary and transient nature of affective states. They also show that individual affective experiences examined over time have distinc- tive patterns and that various parameters can be used to describe these patterns. For example, observers can see that individuals ap- pear to vary in their average levels of positive and negative affect. They also vary in the variability of affect itself, the intensity of peaks

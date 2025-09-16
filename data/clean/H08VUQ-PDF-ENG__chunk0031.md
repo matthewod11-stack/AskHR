@@ -1,9 +1,13 @@
-## with our strategy, or will its impact on our value proposition risk
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52ee69280f47fc13e2e85fd05a763e501b5364a0
+title: H08VUQ-PDF-ENG
+---
+# proposition?
 
-undermining our proﬁtability?
+- Are we conﬂating AI’s technological innovation with real value and
 
-Ultimately, how you answer these questions will largely determine
+will customers be convinced of the value it delivers?
 
-whether AI will open new horizons for growth and proﬁtability, or
-
-whether it will lead your business into a familiar trap of inﬂated hopes,
+- Is AI helping us build a viable, sustainable business model aligned

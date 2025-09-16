@@ -1,15 +1,23 @@
-# HBR / Digital Article / The 4 Key Strengths of China’s Economy — and What They Mea…
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c47caff7506eff94a6cd6efaa652f844eea95c3
+title: H08D71-PDF-ENG
+---
+## A “whole-of-nation” approach to innovation marshals almost unlimited
 
-in producing high-impact papers and contributing to famous scientiﬁc
+state resources. From 1995 to 2021, China’s total R&D outlay soared
 
-publications selected after rigorous peer review.
+from $18.2 billion to $620.1 billion — a 3,299% increase compared
 
-No segment better illustrates China’s technological prowess than clean
+to America’s 277%, according to the Netherlands’ Rathenau Institute.
 
-tech. China now accounts for over 80% of global production capacity in
+China has become a leading global hub for advanced scientiﬁc research.
 
-11 essential technologies, including solar wafers and lithium-ion battery
+According to The Economist, Chinese scientists now lead the world
 
-components. Moreover, China dominates the rare-earth supply chain,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-accounting for 70% of global rare earth ore extraction and 90% of rare
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

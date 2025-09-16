@@ -1,41 +1,7 @@
-# Participative
-
-−0.63
-
-0.32
-
-0.54
-
-−0.63
-
-−1.02
-
-1.22
-
-0.83
-
-−0.90
-
-0.90
-
-0.90
-
-0.90
-
-−0.71
-
-0.49
-
-−0.24
-
-0.71
-
-−0.39
-
-0.68
-
-−0.88
-
-−1.66
-
-0.71
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 16b4ac3d20e9de0185e69406e1c0fae233a5196f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Leadership Style Standard Scores Self-protective

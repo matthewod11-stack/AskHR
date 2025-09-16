@@ -1,11 +1,49 @@
-# resolution.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 540656d77ba58b14117cb138ed299575a29bea83
+title: california_state_university_northridge_1
+---
+# ("EEOC Compliance Manual" 1998).
 
-External mechanisms, such as the EEOC and the courts exist for all employees. The
+Each organization may have a different internal mechanism in place to address
 
-EEOC is designed to assist employees with issue regarding termination and other
+employment related issues. The mechanisms are designed to assist the employee to rectify
 
-employment matters. An employee also has the option to bring a work related suit in a
+inappropriate behavior deemed by the company or work through the complexities of an
 
-court oflaw. However, some companies have mandatory binding arbitration, which may
+issue to assure fundamental fairness. Some companies may have a dispute resolution
 
-prohibit EEOC or court action as the first step. These are internal and external mechanism
+program in place; whether voluntary or mandatory. Again, some employees may not feel
+
+comfortable using internal avenues, which the author highly suggests for any person.
+
+Also, some employers, according to the size of a company, may not have any outlets for
+
+the employee. Communication between the parties involved is vital, in an effort to prevent
+
+escalated work issues that may result in termination. The communication climate may
+
+prevent such dialogue to take place, or if the employee has been discharged, then other
+
+avenues do exist. A person has the option to file a complaint with the EEOC, take legal
+
+action, utilize the internal mechanisms in place, or do nothing.
+
+In summation, an employee can utilize the internal mechanism within their
+
+organization to resolve employment issues. Employees of the Student Union can utilize
+
+the Grievance Procedures. At Host Marriott, the employees can seek the assistance of
+
+their union representative, since they are bound by a union contract. A union
+
+representative can look at the facts and determine the merits of management's actions.
+
+Employees at The Prndential Insuran.ce Compar,y of America can utilize Roads to
+
+Resolution. These three organizations have designed an internal mechanism that seeks to
+
+66
+
+be fair and allow the employee to work through the problem and eventually reach a

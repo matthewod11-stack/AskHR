@@ -1,13 +1,21 @@
-# 146 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: a58a5439e693fe76b5e7f16f5e4dc38e8300301a
+title: barrickryan_eds_personality_and_work
+---
+# Cambridge University Press.
 
-Judge, T. A., & Hulin, C. L. (1993). Job satisfaction as a reﬂection of dis- position: A multiple source causal analysis. Organizational Behavior and Human Decision Processes, 56, 388–421.
+Griner, L. A., & Smith, C. A. (2000). Contributions of motivational ori- entation to appraisal and emotion. Personality and Social Psychology Bulletin, 26, 727–740.
 
-Judge, T. A., Locke, E. A., & Durham, C. C. (1997). The dispositional causes of job satisfaction: A core evaluations approach. Research in Organizational Behavior, 19, 151–188.
+Gross, J. J. (1999). Emotion regulation: Past, present, future. Cognition
 
-Kurek, K. E., Le, B., & Weiss, H. M. (2001). Studying affective climates using Web-based experiential sampling methods. In H. Weiss (Chair), Ex- perience sampling methods (ESM) in organizational research. Symposium conducted at the Sixteenth Annual Conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
+and Emotion, 13, 551–573.
 
-Larsen, R. J. (2000a). Emotion and personality: Introduction to the spe- cial symposium. Personality and Social Psychology Bulletin, 26, 651–654. Larsen, R. J. (2000b). Toward a science of mood regulation. Psychological
+Gross, J. J., & John, O. P. (1998). Mapping the domain of expressivity: Multimethod evidence for a hierarchical model. Journal of Person- ality and Social Psychology, 74, 170–191.
 
-Inquiry, 11, 129–141.
+Hart, P. M. (1999). Predicting employee life satisfaction: A coherent model of personality, work and nonwork experiences, and domain satisfactions. Journal of Applied Psychology, 84, 564–584.
 
-Larsen, R. J. (2000c). Maintaining hedonic balance: Reply to commen-
+Higgins, E. T. (1998). Promotion and prevention: Regulatory focus as a motivational principle. In M. P. Zanna (Ed.), Advances in experimen- tal social psychology (Vol. 30, pp. 1–46). Orlando, FL: Academic Press. Jex, S. M., & Bliese, P. D. (1999). Efﬁcacy beliefs as a moderator of the impact of work-related stressors: A multilevel study. Journal of Ap- plied Psychology, 84, 349–361.
+
+Jex, S. M., & Gudanowski, D. M. (1992). Efﬁcacy beliefs and work stress: An exploratory study. Journal of Organizational Behavior, 13, 509–517. Jex, S. M., & Spector, P. E. (1996). The impact of negative affectivity on stressor-strain relations: A replication and extension. Work and Stress, 10, 36–45.

@@ -1,5 +1,29 @@
-# What Kind of People Skills Do You Need?
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8563beedf8d09a1d4c6e8f209cd2ab717880916d
+title: R2303G-PDF-ENG
+---
+## and developmental opportunities along the spectrum between directive
 
-Leaders need to work effectively with people in small groups, across
+and empowering styles. We also studied the executives’ ability to
 
-networks, and across the organization. Here are the skills most important in
+work through networks and to enhance organizational performance by
+
+instilling and leveraging people skills.
+
+In this article we’ll outline our ﬁndings. First, showcasing the stories
+
+of several of the candidates in our study, we’ll describe the extended
+
+journey that most aspiring CEOs must go through to properly develop
+
+the people skills necessary for leadership today. Then we’ll lay out a few
+
+guidelines for anyone embarking on such a journey. (We’ve disguised
+
+the identities of the people whose stories we share, at times combining
+
+them to protect their privacy and capture the full range of experiences
+
+we observed.)

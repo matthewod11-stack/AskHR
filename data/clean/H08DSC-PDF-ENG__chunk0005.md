@@ -1,5 +1,9 @@
-## technology in business, such a dizzying array of technology leaders can
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3aebfe143509cc508301da3445186f116a73798
+title: H08DSC-PDF-ENG
+---
+## rise of generative AI over the past few years.
 
-also lead to confusion.
-
-A recent study — sponsored by Thoughtworks (where one of us works)
+While the creation of these roles reﬂects the increasing importance of

@@ -1,11 +1,17 @@
-# luxury goods, and industrial equipment.
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c4e1b0e30d0c3cce808a57e783b74bd9c63e567
+title: H08D71-PDF-ENG
+---
+## output of the European Union — China’s economic trajectory poses
 
-China’s large tech-savvy consumer base, bolstered by an expanding
+signiﬁcant implications for global commerce. Should China’s GDP
 
-middle class and increasing disposable income, has driven substantial
+ascend at its growth target of 5% — a benchmark it achieved in 2023
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+— its incremental growth this decade alone would match the combined
 
-7
+2021 GDP of India, Indonesia, and Japan. Moreover, China already
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+constitutes 25% to 40% of global revenues in key industries such as cars,

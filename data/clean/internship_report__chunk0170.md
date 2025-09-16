@@ -1,11 +1,13 @@
-# I.(cid:32)Application For Employment:
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: a04ec0028c7934849ff75a012d5da76be9da81a2
+title: internship_report
+---
+# E.(cid:32)Pre-Employment:
 
-Applicants have to submit a standard Job Application along with complete Curriculum
+GENERAL REQUIREMENTS:
 
-Vitae/Resume to the Company. They must provide facts required by the Company on the
+Offer of employment is conditional upon satisfactory information from the potential employee
 
-application. Any applicant providing false information will result in the Application being set
-
-aside and in the event such false information is detected subsequently after appointment, may
-
-lead to legal/disciplinary action against them including termination forthwith.
+regarding the following:

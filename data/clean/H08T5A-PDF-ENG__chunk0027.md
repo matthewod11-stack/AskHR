@@ -1,17 +1,25 @@
-# dedication.
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5afe3dc727d66c7980625d25c784a4fd1b308483
+title: H08T5A-PDF-ENG
+---
+## employees in our study check and delete unnecessary emails during
 
-The U.S.–based marketing company Buﬀer oﬀers a good example of a
+holidays. One interviewee reported feeling the need to delete messages
 
-company that has made both systemic changes to address overwork
+even while in the queue to see the historic Sagrada Família in Barcelona.
 
-while continuing to monitor how its employees are feeling. In 2020,
+While this policy is optional at Mercedes Benz, it provides a good model
 
-it introduced a four-day workweek alongside weekly “energy check”
+for what organizations can do help interrupt harmful synchronization.
 
-surveys that ask employees about ﬂow, overwhelm, and engagement.
+Watch for warning signs—and keep making adjustments.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+One reason entrainment is so powerful is because it’s invisible. Over-
 
-6
+synchronized employees often appear committed and productive, but
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+beneath the surface, they may be struggling to disconnect, experiencing
+
+sleep problems, or losing a sense of purpose—compulsion disguised as

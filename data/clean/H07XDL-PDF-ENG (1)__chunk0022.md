@@ -1,9 +1,15 @@
-## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: a6d97999cc6ffb2072510cc4d33c460066ae7192
+title: H07XDL-PDF-ENG (1)
+---
+## track of time), Relationships (mutual feelings of caring, support, and
 
-Achievement (striving for success or mastery, reaching goals), and
+love), Meaning (contributing to making the world a better place),
 
-Vitality (being healthy and energetic).
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-To determine what makes a great life for you, start with each element
+7
 
-in PERMA-V, or even add your own categories, such as autonomy or
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

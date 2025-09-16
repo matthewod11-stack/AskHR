@@ -1,3 +1,7 @@
-## Has Sexual Harassment at Work Decreased Since #MeToo?
-
-Researchers studied women’s experiences over the last few years. by Stefanie K. Johnson, Ksenia Keplinger, Jessica F. Kirk, and Liza Barnes
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0ed64347874572a2dd165b348866b3863edc77ec
+title: H0522T-PDF-ENG
+---
+## HBR / Digital Article / Has Sexual Harassment at Work Decreased Since #MeToo?

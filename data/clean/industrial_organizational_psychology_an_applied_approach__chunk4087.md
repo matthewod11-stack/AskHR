@@ -1,7 +1,7 @@
-## Bluen, S. D., Barling, J., & Burns, W. (1990). Predicting sales
-
-performance, job satisfaction, and depression using the Achievement Strivings and Impatience-Irritability dimensions of Type A behavior. Journal of Applied Psychology, 75, 212–216.
-
-Blumenfeld, W. S. (1985). Appropriateness of readability of a
-
-Federal Aviation Agency regulation, a ﬂ ight crew manual, and a company pilot labor agreement for an airline’s pilots. Perceptual and Motor Skills, 61, 1189–1190.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2c1ad89e84960bdf81730795f08b9d0f9d70def7
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Fairﬁ eld County Business Journal, 40(19), 20.

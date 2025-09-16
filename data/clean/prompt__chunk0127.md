@@ -1,9 +1,29 @@
-## However, each type of prompt serves a slightly di(cid:441)erent primary purpose:
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 3ae2223134a8ec1170524d867564c98b0190e95d
+title: prompt
+---
+# System, contextual and role prompting
 
-- System prompt: De(cid:450)nes the model’s fundamental capabilities and overarching purpose.
+System, contextual and role prompting are all techniques used to guide how LLMs generate
 
-- Contextual prompt: Provides immediate, task-speci(cid:450)c information to guide the response.
+text, but they focus on di(cid:441)erent aspects:
 
-It’s highly speci(cid:450)c to the current task or input, which is dynamic.
+- System prompting sets the overall context and purpose for the language model. It
 
-- Role prompt: Frames the model’s output style and voice. It adds a layer of speci(cid:450)city
+de(cid:450)nes the ‘big picture’ of what the model should be doing, like translating a language,
+
+classifying a review etc.
+
+- Contextual prompting provides speci(cid:450)c details or background information relevant to
+
+the current conversation or task. It helps the model to understand the nuances of what’s
+
+being asked and tailor the response accordingly.
+
+- Role prompting assigns a speci(cid:450)c character or identity for the language model to adopt. This helps the model generate responses that are consistent with the assigned role and its associated knowledge and behavior.
+
+There can be considerable overlap between system, contextual, and role prompting. E.g. a
+
+prompt that assigns a role to the system, can also have a context.

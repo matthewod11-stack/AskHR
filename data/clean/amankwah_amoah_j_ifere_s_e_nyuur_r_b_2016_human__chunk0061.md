@@ -1,11 +1,9 @@
-# for some
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 9a3071834fd20e70073ff7ed8f243eb0f099eb5c
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# employees but more
 
-underperforming senior managers given the competition for such talent.
-
------------------------------- Insert Table 3 about here ------------------------------
-
-23
-
-Our findings here lead us to the following summary proposition:
-
-Proposition 5: Employees who enjoy special status are more likely to be retained
+importantly created some kind of “protection”

@@ -1,11 +1,13 @@
-## and defensive and provocative behavior between the parties, which in
+---
+source_path: H071B9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a0c1bf248819bb1bc529a4eee152ab6ad017d1a
+title: H071B9-PDF-ENG
+---
+# and strategic progress.
 
-turn harms the productive exchange of information that collaborative
+Another problem is when feelings of distrust cause established
 
-decision making depends on. Excluding behavior often comes from
+individuals to challenge a new person in ways that they don’t challenge
 
-individuals who believe they’re safeguarding and protecting their
-
-organization. Unfortunately, they fail to realize that their behavior is
-
-keeping the organization from accessing the information needed for
+other established collaborators. This can trigger feelings of exclusion

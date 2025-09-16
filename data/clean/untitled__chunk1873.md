@@ -1,3 +1,9 @@
-# The Rise of Behavior Modiﬁcation
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 93487a69f3d1d332ecd037fa7fbb54d4dbc1f449
+title: untitled
+---
+# The Rise of Psychopharmacology
 
-The ﬁrst to report extension of behavioral methods to hospi- talized psychosis patients were Allyon and Haughton (1962). Their approach consisted primarily of controlled application of rewards to patients when they behaved in an adaptive (i.e., “normal”) manner. The underlying concept was that tradi- tional treatment gave attention and care when a patient’s
+Public hospitals provided the most dramatic evidence for the development of medications that could effectively alleviate the symptoms of both the neuroses and the psychoses. Wortis (1959) reported a survey of the world’s medical literature be- tween 1930 and 1959. Before 1953, reports of pharmacolog- ical treatments comprised less than 10% of published papers. By 1959, they comprised more than 70%, and the number was rising rapidly. The World Health Organization (1958) is- sued a classiﬁcation of psychopharmacological compounds that covered seven categories, of which the most signiﬁcant category, the major tranquilizers chlorpromazine and reser- pine, were effective with psychoses. Psychoanalysts com- plained that medication merely removed the symptoms without curing the patient. Because they believed that the basic cause was psychological, they asserted that biological treatments were therefore inherently limited to palliative effects. As psychoanalysis itself was not achieving even pal- liative effects with psychotic patients, the argument was unimpressive. Amore important problem with the early med- ications was their frequent and unpleasant side effects. These included dryness of mouth, involuntary motor movements of the tongue and lips (tardive dyskinesia), occasional episodes of dizziness, and such. When the psychotic symptoms sub- sided, patients often discontinued taking the medication because of the side effects, and relapsed into their previous psychotic condition. Improved drugs and techniques of su- pervised administration and/or injection of long-lasting timed release compounds have been developed to eliminate this cyclical effect.

@@ -1,9 +1,21 @@
-## Treat meeting culture as an important part of company culture.
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5547772707e37e73df863c55f8cdb59d0aefe942
+title: H088OR-PDF-ENG
+---
+# Using This Data to Improve Meetings
 
-This is especially critical for hybrid and remote teams where a
+In addition to our analysis, we are also directly engaged with
 
-signiﬁcant portion of interaction is via an online meeting platform.
+a small group of companies to deﬁne and implement practical
 
-As with company culture, deﬁne the meeting culture you want —
+applications for this data. After several rounds of conversations
 
-determine best practices and deﬁne roles and responsibilities. This can also include expectations on when not to meet, such as scheduled focus
+with organizational leaders who’ve reviewed the insights from their
+
+company’s collaboration data, as well as the benchmarks and broader
+
+trends mentioned above, we’ve compiled some key takeaways you
+
+might consider applying at your own organization.

@@ -1,21 +1,21 @@
-# with your peers across the organization.
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 263f9459349b32bb8a9ccd81e98f977ffdfe0d08
+title: R2303G-PDF-ENG
+---
+# recovery from a setback—can help.
 
-Once you’ve identiﬁed a strength that you want to develop, experiment
+Map out your learning agenda. Remember that you might need to
 
-with using it in diﬀerent contexts. Recall Karen, whose roles on an
+work on your skills in particular settings. You might be great at
 
-external board and heading her ﬁrm’s DEI initiative helped her learn
+collaboratively navigating complex multistakeholder situations where
 
-to exert inﬂuence without having direct authority. Her experience was
+you have no direct authority over those you’re working with, but have
 
-akin to that of many executives we’ve worked with: Only after they
+a hard time doing the same with your own team. Or you might excel
 
-gained perspective in a new project, role, or setting did they truly
+at listening and fostering psychological safety with your team but ﬁnd
 
-understand the meaning of developmental advice they had received—
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+yourself unable to leverage those interpersonal skills to get things done

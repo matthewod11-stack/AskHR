@@ -1,25 +1,25 @@
-## LGBT “Pink Dot” festival, Dow hosted its own internal “Pink Dot Day.”
+---
+source_path: H053C9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3cf5cb277f6c02c662e7b87479b290d6aaec5a3
+title: H053C9-PDF-ENG
+---
+# HBR / Digital Article / How Multinationals Can Help Advance LGBT Inclusion Around th…
 
-Find small, symbolic ways to indicate support for LGBT rights, such
+Business. One interviewee took it upon himself to bring 14 companies together at Dow’s oﬃces in Turkey to hold a conference on LGBT
 
-as providing employees with Pride ﬂags or pins or oﬀering options to
+inclusion and share best practices. Once forged, such coalitions can
 
-add inclusive language or even preferred pronouns to email signatures
+then engage in advocacy at the country level. Dow, EY, and Microsoft
 
-— an eﬀort EY began rolling out in the U.S. last month. Such eﬀorts
+recently joined more than 200 businesses by signing onto a U.S.
 
-allow people to “come out of the closet” as more proactive allies, while
+Supreme Court amicus brief to show support for protecting LGBT
 
-also making the company’s support for LGBT rights visible externally.
+people from discrimination under existing federal civil rights law.
 
-In Hong Kong, some recent hires reported that they decided to join EY
+Engage in “Embassy-Advocacy.” Identify internal actions that drive
 
-because the partner interviewing them was wearing a rainbow pin.
+toward the Advocate model without fully embracing it. For example,
 
-It’s not easy for multinational corporations to move the needle on
-
-global LGBT rights. Yet we need to move beyond the When in Rome
-
-and Embassy models to achieve the goal of true global inclusion
-
-and acceptance. Businesses have a tremendous opportunity to make
+after Singapore prohibited foreign companies from funding the local

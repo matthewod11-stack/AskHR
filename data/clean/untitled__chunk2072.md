@@ -1,5 +1,11 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: c3abd2ad234bd21acc0329c2873791e1c217fe79
+title: untitled
+---
+## Taylor,F.W.(1911,May).Thegospelofefﬁciency.III:Theprinciples
 
-sponsored during the summer of 1959 by 50 colleges and universities under contract with the U.S. Ofﬁce of Education authorized by the National Defense Education Act of 1958. Washington, DC: Ofﬁce of Education.
+of scientiﬁc management. American Magazine, 101–113.
 
-Watts, G. A. (1994). Frank Parsons: Promoter of a progressive era.
+Tyler, L. E. (1960). The National Defense Counseling and Guidance Training Institutes Program: A report of the ﬁrst 50 institutes

@@ -1,15 +1,7 @@
-## Graphic rating scale A method of performance
-
-appraisal that involves rating employee performance on an interval or ratio scale.
-
-610
-
-glossary
-
-Graphology Also called handwriting analysis, a method of measuring personality by looking at the way in which a person writes.
-
-Grievance system A process in which an employee files a complaint with the organization and a person or committee within the organization makes a decision regarding the complaint.
-
-Group cohesiveness The extent to which members of a
-
-group like and trust one another.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0177f3a5d0e33bc1ba3abb0df04b3c0649a4f839
+title: industrial_organizational_psychology_an_applied_approach
+---
+# network.

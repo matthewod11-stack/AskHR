@@ -1,9 +1,9 @@
-# Paauwe, J. (2004) Human Resource Management and Performance, Oxford, Oxford University Press.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: 8e7b3bd4da81310c351b1d5d5fe0565021a02067
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# Organ, D.W. (1988) Organizational citizenship behavior: The good soldier syndrome, Lexington Books.
 
-Paauwe, J. and Boselie, P. (2003) “Challenging ‘strategic HRM’ and the relevance of institutional setting”, Human Resource Management Journal, 13, 56-70.
-
-32
-
-Pender, C.C. (1998) Motivation in work organizations, Upper Saddle River, NJ, Prentice Hall.
-
-Pfeffer, J. (1998) The Human Equation: Building Profits by Putting People First, Boston,
+Organ, D.W and Ryan, K. (1995) “A meta-analytic review of attitudinal and dispositional predictors of organizational citizenship behaviour”, Personnel Psychology, 84, 775–802

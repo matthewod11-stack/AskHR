@@ -1,31 +1,39 @@
-## and overprotective of their teams, client relationships, and resources
+---
+source_path: H07ZCR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93754ddf17a713073b1ba60eae2bf432b7cbdf91
+title: H07ZCR-PDF-ENG
+---
+# HBR / Digital Article / Becoming More Collaborative When Your Impulse Is to Be Territo…
 
-to preserve their ability to succeed. It’s not uncommon for talented
+acquisition came a change in leadership structure and ownership. This
 
-leaders to compete internally with their peers for people, investment,
+left Elena feeling vulnerable, as she would often see prior leadership
 
-and attention; in fact, it’s often that individual drive that made them
+teams — including her managers, mentors, and supporters — impacted.
 
-successful in the ﬁrst place. However, when you’re looking to scale your
+Elena felt deeply bruised if she was layered under a new boss or her
 
-leadership and reach the C-suite, this “fend for yourself” mentality will
+team was restructured.
 
-stop you in your tracks. Here are four strategies to help senior leaders
+In fact, in times like this, Elena’s territorial instincts would kick in. On
 
-redeﬁne “winning” as a shared goal.
+this occasion, after being promoted to EVP-Americas of client success,
 
-- 1. Enhance your self-awareness.
+she held on to a key client relationship that needed to be transitioned
 
-You must start by uncovering your role in the situation. Examine a given
+to one of her new peers. This territorial approach was preventing her
 
-circumstance from all sides to uncover what you may have overlooked
+from operating at her full potential in her new role. She was preoccupied
 
-that’s contributing to the problem. This includes increasing your self-
+with what she was “losing” to her sales counterpart by transitioning
 
-awareness. Research has shown that only 10% to 15% of people ﬁt
+these client relationships. Consequently, she struggled to capitalize on
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+the opportunity to make a broader impact on the customer experience
 
-2
+and gain the seat at the executive table she had long desired.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Elena’s experience is not unique. In our work as consultants and
+
+executive coaches, we’ve observed many leaders who become territorial

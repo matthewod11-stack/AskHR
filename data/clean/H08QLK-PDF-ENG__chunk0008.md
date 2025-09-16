@@ -1,7 +1,23 @@
-# HBR / Digital Article / How Gen AI Could Disrupt SaaS—and Change the Companies Th…
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dbfab908235db8336af1f34b6a32c3243f18861
+title: H08QLK-PDF-ENG
+---
+# predeﬁned parameters.
 
-Similarly, CRM systems like Salesforce deﬁne discrete sales stages,
+Consider Workday. Its data architecture centers on employee
 
-requiring teams to categorize leads, update status ﬁelds, and trigger
+records, enabling payroll processing, performance reviews, training
 
-follow-on actions. Over time, the CRM workﬂow becomes embedded in
+management, and beneﬁts administration. Completing a task like “add
+
+a new hire” or “change direct deposit” involves navigating this complex
+
+software system with explicit steps built into the user interface.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

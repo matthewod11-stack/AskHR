@@ -1,33 +1,31 @@
-# The Three Steps
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 505cc9ed9f262394d2585cffd1a0cb2de3b06676
+title: R2502D-PDF-ENG
+---
+# later its CEO).
 
-Stanford’s entrepreneurship course “Startup Garage” has helped
+Ford, Hastings, and Buﬀett achieved breakthroughs by creatively
 
-students launch more than 100 startups and attract more than $3
+combining prior innovations. From our experience helping student-
 
-billion dollars’ worth of venture capital. One of those startups was
+entrepreneurs launch startups and CEOs innovate their strategies, we’ve
 
-the food-delivery company DoorDash. The four students who became
+perfected a method of unlocking this powerful source of innovation:
 
-its founding management team had a broad goal of helping small
+precedents thinking. It involves three steps. First, frame your challenge
 
-businesses increase their revenue. They followed the three steps of
+and its key elements. Next, search for previous innovations—precedents
 
-precedents thinking to develop and implement their idea.
+—relevant to each element. Finally, combine some or all of those
 
-Frame. The students began by interviewing 60 small-business owners.
+precedents—in part or in whole—to generate your best ideas. This is
 
-In one interview they learned that a bakery in Menlo Park, California,
+what Albert Einstein called “combinatory play.”
 
-had to turn down 10 to 15 orders a week because the customers
+In practice each step can be revisited multiple times in light of learning
 
-wanted delivery but the owner lacked the time to make it. Interviews
+from subsequent steps. You iterate through this process until your
 
-with restaurant owners revealed the same problem: Other than pizza
-
-places and Chinese restaurants, few independent eateries have enough
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+intuition tells you that you have a breakthrough that will work.

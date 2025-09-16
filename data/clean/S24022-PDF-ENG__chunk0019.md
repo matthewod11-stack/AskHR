@@ -1,13 +1,11 @@
-## term focus on meeting cost objectives with a long-term focus on
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 23f6a78e6b104328e443c491035d9a0fdef27700
+title: S24022-PDF-ENG
+---
+## Nearly every aspect of a piece of furniture—from its dimensions to
 
-sustainability. To improve the design of its products, the company has
+material choices to the customer assembly process that’s integral to IKEA’s eﬃcient ﬂat packaging—is carefully modeled as part of the
 
-invested in a “privileged insights” capability to learn how customers
-
-go about their daily lives (including working with customers to
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+design process. IKEA’s materials-procurement process balances a short-

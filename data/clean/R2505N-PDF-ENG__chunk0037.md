@@ -1,21 +1,37 @@
-## through their individual subject matter expertise and activity-based
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: baa7a0b7225f2ab7a425965604204425a8d9eaba
+title: R2505N-PDF-ENG
+---
+# on routine calls.
 
-work—rather than their ability to lead teams and delegate. Training
+Over time, target the more complex work. Finally, wean your boss from
 
-yourself to place more value on managerial work, including handing oﬀ
+dictating your level of involvement in the details of larger projects. As
 
-key tasks, can be hard. But a few approaches can help:
+the head of operations in a major public utility put it: “I couldn’t have
 
-Recognize your limits. There is only so much work you can personally
+started with the big, complex stuﬀ. But now, with my team established
 
-produce. A surgeon, for example, can perform a ﬁnite number of
+and the trust built, I have more credibility when I say, ‘They’ve got
 
-operations a day. If she is to treat more patients and make more money,
+this.’”
 
-she must coach and teach others to operate at her standard in her stead.
+- 4. A limited deﬁnition of “work.” Ultimately, what derails many leaders
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+from eﬀectively delegating is their belief that real work is activity-based.
 
-9
+For example, a star lawyer who had been appointed head of his ﬁrm’s
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+M&A practice described how doing deals for clients still felt more
+
+meaningful to him than managing his team to do the same. This
+
+challenge is especially problematic for people who are skilled at highly
+
+technical work that constitutes a part of their identity. My research
+
+found that lawyers, surgeons, research scientists, and salespeople have
+
+the most trouble delegating, in part because they’d achieved seniority

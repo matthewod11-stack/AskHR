@@ -1,9 +1,15 @@
-## HBR / Magazine Article / The Uniqueness Trap
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81d2a751d9d46ffe3e0d0c4485abea9045a2d4d4
+title: R2502K-PDF-ENG
+---
+## as ARPANET. A systematic study of the diﬀusion of these and other
 
-an idea of the uncertainties and the S-curve growth pattern—with a
+new communication tools would have given the inventors of texting
 
-slow start and acceleration later—that they were likely to face. Had
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-anyone thought about that? No, because everyone saw texting as both
+8
 
-unique and unimportant and was therefore not motivated to look for
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

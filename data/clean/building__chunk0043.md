@@ -1,5 +1,9 @@
-# Phase 3: Strategic scaling (months 7–12)
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 48d7ec9010a534fb350d71b1c4a8232a84145433
+title: building
+---
+# enable rapid iteration
 
-As pilot projects demonstrate success, organizations enter a critical scaling phase. This period focuses on:
-
-- Expanding successful pilots across different business units
+Success in this phase depends on maintaining a balance between ambitious goals and practical limitations, allowing teams to learn and adapt quickly.

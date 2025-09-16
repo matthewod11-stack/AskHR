@@ -1,3 +1,9 @@
-# Organizational Development
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 576647e3b7f8ca5ca16139a3f9ade9270fae0b3c
+title: untitled
+---
+## Emergence of School Psychology as a Distinct Field (1920–1940)
 
-Psychologists in New York State formed the New YorkAsso- ciation of Consulting Psychologists in 1921. Interest in this group spread to other states, and in 1930 it was renamed the Association of Consulting Psychologists (ACP). In addition to several state afﬁliate groups, theACP published a newslet- ter and, in 1937, founded the Journal of Consulting Psychol- ogy(nowtheJournalofConsultingandClinicalPsychology). In 1937, theACPmerged with the Clinical Section of theAPA to form the American Association of Applied Psychologists (AAAP), which had speciﬁc sections for business and indus- try,clinical,consulting,andeducationalpsychology(English, 1938). Psychologists practicing in school settings belonged to the clinical and/or educational sections. The dual representa- tion reﬂected the origins of the ﬁeld and its growing identity as a blend of both educational and clinical psychology.As yet, however, there was no clear identity for school psychologists in any national organization, and it is likely that most school psychological practitioners still did not belong to a national group. Even by 1940, there were no state-level organizations speciﬁcally for school psychologists, although many practi- tionersprobablybelongedtostateafﬁliatesoftheAAAP(e.g., the Ohio Association of Applied Psychologists). Local psy- chology groups existed in some large cities as well.
+The factors speciﬁc to school psychology’s origins expanded during this period, and discernible trends for the future were established. Despite the ﬁnancial woes of education during the Great Depression, employment opportunities for psychol- ogists in schools expanded during this period. Although orga- nizational representation continued to be unclear, school psychology literature contributed to the discipline’s identity. Training opportunities and the emergence of speciﬁc creden- tials followed upon the growth of employment and special educational programs.

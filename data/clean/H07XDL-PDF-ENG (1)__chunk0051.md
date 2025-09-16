@@ -1,29 +1,19 @@
-## HBR / The Big Idea / Use Strategic Thinking to Create the Life You Want
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 04a24d2dfa87720d2dbebcdc55270425a1e3d99a
+title: H07XDL-PDF-ENG (1)
+---
+## move you toward a great life, and commit to them.
 
-in a weekly micro-adventure with one’s signiﬁcant other, changing jobs,
+Now you need to be speciﬁc about what you want to change.
 
-committing to a new sleep schedule, trying a meditation app, starting a
+Examples from our workshop attendees include reconnecting with
 
-gratitude journal, spending more time with one’s kids, exercising every
+three friends from school, visiting one’s grandpa every week, engaging
 
-day, supporting refugees, starting a social business, practicing religion
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-again, dedicating 15 minutes to learning every day, switching college
+18
 
-majors, converting a van into a camper to travel, and moving abroad.
-
-The possibilities are endless.
-
-On the other hand, you have only 168 hours each week, which means
-
-you must reduce, outsource, or bundle existing activities, or make them
-
-more eﬃcient through productivity strategies and tools. For example,
-
-when you work out with your boyfriend or volunteer for a good
-
-cause with your friends, you are bundling sports and signiﬁcant other
-
-or societal engagement and friendship. Life strategy is about setting
-
-priorities; it is not about ﬁlling every waking minute. Remember to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

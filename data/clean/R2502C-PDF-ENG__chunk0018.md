@@ -1,7 +1,11 @@
-## groups. In the 1960s Alfred D. Chandler Jr.
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 08a956301709b269b236b1311eaf9832e389c9b0
+title: R2502C-PDF-ENG
+---
+## survive, and that cohesive, collaborative
 
-showed how market changes and new
+teams outperform selﬁsh, contentious
 
-technologies necessitate strategy changes,
-
-which drive organizational changes—leading to his “structure follows
+Illustrator Max Drekker uses 2D and 3D software to create his contempo- rary graphic art.

@@ -1,19 +1,9 @@
-# Challenge binary thinking.
+---
+source_path: H07Q7F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 10b24c7f22fa867e4bb27bb7aaa908ca3adb1022
+title: H07Q7F-PDF-ENG
+---
+# grounds for low trust and disengagement.
 
-Many leaders who avoid confrontation carry assumptions like, “no one
-
-likes a micromanager,” or “bringing up this issue will ruin our working
-
-relationship.” While these beliefs may stem from past experiences
-
-with rejection and failure, they reﬂect inaccurate, binary thinking. In
-
-actuality, it’s possible to be both assertive and direct without damaging relationships or earning a reputation as the “diﬃcult manager.”
-
-Instead, focus on what you could gain by speaking up and the potential
-
-rewards of clear communication. Not only will voicing your thoughts
-
-help you feel more conﬁdent, but:
-
-- Your input may be exactly what’s needed to drive a challenging
+Here’s how to navigate the sense of discomfort and apprehension that comes with diﬃcult conversations, so you can say what needs to be said.

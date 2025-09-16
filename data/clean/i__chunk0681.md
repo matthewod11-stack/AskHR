@@ -1,5 +1,9 @@
-## https://abo.finna.fi/Record/abo_electronic_aa.9913645333205972?sid=
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 4a8b8db230948ed15b9212559cf220675814ce8b
+title: i
+---
+# Page
 
-4080122552
-
-(cid:111) Erdoğmuş, N., & Esen, M. (2011). An investigation of the effects of technology readiness on technology acceptance in e-HRM. Procedia -
+88

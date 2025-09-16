@@ -1,13 +1,11 @@
-## organization within one year of the sample period (attrition group)
+---
+source_path: H088OR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9d82d81e9f18995b615c7aa86a7ddec3f6ce4c13
+title: H088OR-PDF-ENG
+---
+## Camera use, no-participation rates, and retention.
 
-enabled their cameras in 18.4% of small group meetings, compared to
+Both camera enablement and no-participation rates show strong
 
-32.5% for those who stayed (retention group).
-
-See more HBR charts in Data & Visuals on HBR.org.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+correlations with retention. Employees who would leave their

@@ -1,7 +1,7 @@
-## Baxter, J. S., Manstead, A. S., Stradling, S. G., & Campbell, K.
-
-A. (1990). Social facilitation and driving behavior. British Journal of Psychology, 81(3), 351–360.
-
-references
-
-625
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6e142c3e696d60b281d8837b26622d135ea8952a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Development Journal, 48(6), 49–51.

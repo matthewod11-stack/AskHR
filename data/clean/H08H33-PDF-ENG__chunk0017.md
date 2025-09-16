@@ -1,21 +1,15 @@
-# standards.
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e62731f6485f842db4748cd87814a8fc20ed72b
+title: H08H33-PDF-ENG
+---
+# HBR / Digital Article / Boost Your Team’s Productivity by Hiring Force Multipliers
 
-Eventually, an organization may ﬁnd that despite hiring many
+Worst of all, over-hiring can diminish talent density by slowing
 
-employees, productivity continues to decline. At this point, the CEO
+down existing teams as they onboard new staﬀ. During periods of
 
-will be asking, “Why do we have so many people?”
+rapid growth, the responsibility for hiring gets delegated to lower-
 
-Enlightened leaders are beginning to understand that the size of
-
-the team is less important than the quality of its members’ skills,
-
-capabilities, and teamwork. In fact, in many companies, a few people
-
-generate the most value, with a long tail of people who perform at
-
-lower levels. For example, a study conducted on 198 teams with more
-
-than 600,000 employees revealed that a small number of individuals
-
-consistently outperform their peers, often delivering results that may be
+level managers, further diluting the focus on maintaining high talent

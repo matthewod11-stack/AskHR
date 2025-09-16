@@ -1,17 +1,25 @@
-## bureaucracies, often sclerotic and opaque.
+---
+source_path: H08U3Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38763d0c0f5aca3e878a222f1389a01d9602a629
+title: H08U3Y-PDF-ENG
+---
+# residents.
 
-Information is increasingly abundant and isn’t equally distributed.
+Three challenges tend to come to the fore in situations of collective
 
-Every decision (in this case, about speciﬁc developments or zoning
+decision-making, and Hamburg was no exception:
 
-laws) involves vast amounts of information across domains—from resident preferences and technical documents to traﬃc and usage
+Processes and incentives are broken.
 
-metrics. Furthermore, processes are often expressed in long, detailed,
+The traditional process to get things done (in this case, to get new
 
-technical documents that the average person cannot be expected to
+housing built) involves dozens of steps and institutions, each with
 
-understand. Those with more resources have the time, money, and
+its own procedural logic and internal culture. A single technical
 
-expertise to get the information they need to form an educated opinion
+impropriety can delay a project by months, if not years. Stakeholders
 
-while other community members do not.
+have no incentive to come together. In Hamburg, the city struggled to
+
+get anything built because each project required the approval of a dozen

@@ -1,7 +1,7 @@
-## Sample size and the precision of the results
-
-- What was the average effect of the change?
-
-- What was the sample size and the confidence interval (or range of likely values the true effect would fall into, and the degree to which one is certain it would fall into that range)?
-
-- How would our course of action change, depending on where the true effect might lie?
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a551337bed2dcd3a0f7bfe7548bdc36b1d2b8d2
+title: R2405D-PDF-ENG
+---
+## Misjudging The Potential Magnitude Of Effects

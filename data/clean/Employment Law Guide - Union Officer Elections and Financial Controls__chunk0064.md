@@ -1,27 +1,23 @@
-# Any person who, as a direct or indirect party(/elaws/ﬁrststep/glossary.htm?glossary_word=party) to any agreement
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: 384b1b226c83a05614f383b5c42d714731f5c41c
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+## 200 Constitution Avenue, NW, Room N-1519 Washington, DC 20210
 
-or arrangement with an employer, undertakes, pursuant to the agreement or arrangement, any activity of this
+Form LM-20 (Labor Relations Consultant Agreement and Activities Report). Every person, including a
 
-type must ﬁle a Form LM-20. A "person" is deﬁned to include, among others, labor relations consultants and
+labor relations consultant, who enters into an arrangement with an employer under which he or she
 
-other individuals and organizations. A person "undertakes" activities not only when he/she performs the
+undertakes activities where an object thereof is, directly or indirectly, to persuade employees about exercising
 
-activity but also when he/she agrees to perform the activity or to have them performed.
+their rights to organize and bargain collectively, or to obtain information about the activities of employees or a union in connection with a labor dispute involving the employer (except information solely for administrative,
 
-The information required to be reported on Form LM-20 includes: (1) the party or parties to the agreement or
+arbitral, or court proceedings) must ﬁle an Agreement and Activities Report, Form LM-20.
 
-arrangement; (2) the object and terms and conditions of the agreement or arrangement; and (3) the activities
+These reporting requirements only relate to the disclosure of speciﬁc agreements, arrangements, and/or
 
-performed or to be performed pursuant to the agreement or arrangement.
+activities. The reporting requirements do not address whether such agreements, arrangements, or activities
 
-Each person who has entered into any agreement or arrangement to undertake activities described in the form
-
-must ﬁle the report within 30 days after entering into such agreement or arrangement. Any changes to the
-
-information reported in Form LM-20 (excluding matters related to Item 11.c.) must be ﬁled in a report clearly
-
-marked "Amended Report" within 30 days of the change.
-
-The completed Form LM-20 and any required attachments and additional pages must be mailed to the
-
-following address:
+are lawful or unlawful. The fact that a particular agreement, arrangement or activity is or is not required to be reported does not indicate whether it is or is not subject to any legal prohibition.

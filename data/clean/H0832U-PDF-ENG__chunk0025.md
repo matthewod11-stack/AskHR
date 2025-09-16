@@ -1,19 +1,13 @@
-## a bottleneck of more seasoned workers in top positions who, as
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bda2e9357712c5f76f6a80014c230546503baf6d
+title: H0832U-PDF-ENG
+---
+# superiority.
 
-they approach “retirement age,” are either ﬁnancially unable or
+- 4. Reimagine the 6G talent pipeline.
 
-psychologically unwilling to retire and have nowhere else in the talent
+Another important challenge that leaders must confront is the
 
-pipeline to advance. At the other end is often younger talent impatiently
-
-waiting their turn for advancement into more challenging roles because
-
-the pipeline is clogged. In the middle are the so-called “sandwich
-
-generations,” sitting frustrated as the unwritten rules of the game
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+increasing congestion in the talent pipeline. At one end is often

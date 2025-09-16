@@ -1,21 +1,19 @@
-# and exploitation.
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df0de68aeb4924d608aacb3cd54c29293f207c0d
+title: R2502F-PDF-ENG
+---
+# from multiple backgrounds and cultures.
 
-We believe that one key to a successful cross-cultural negotiation is, to
+All negotiations should begin with the question, “Does my counterpart want to work with me or against me?”
 
-some extent, taking culture out of the equation. Business negotiators
+In such situations, it is nearly impossible to memorize and leverage
 
-often have much in common with their counterparts—maybe even
+all the cultural dimensions relevant for each interaction. What’s more,
 
-more than with their parents, partners, or children. After all, our
+trying to be all things to all people only encourages your counterparts
 
-international counterparts may be closer to us in age, education level,
+to question your integrity. You will constantly be outside your comfort
 
-professional interests, the corporate world they operate in, or functional
-
-expertise. For these reasons we advise negotiators in cross-cultural
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+zone, which makes you more vulnerable to ignorance, doubt, insecurity,

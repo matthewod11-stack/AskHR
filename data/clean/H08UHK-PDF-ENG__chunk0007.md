@@ -1,11 +1,25 @@
-## HBR / Digital Article / It’s Time to Streamline How We Communicate at Work
+---
+source_path: H08UHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d904b5efde14394a171cb55c8351bed758321ce2
+title: H08UHK-PDF-ENG
+---
+# Responsiveness Expectations
 
-To prevent these misalignments, organizations should establish clear norms for response times across diﬀerent communication channels. For
+One of the bigger stressors in workplace communication can be
 
-instance, a team might agree that emails require a 24-hour response,
+mismatched urgency expectations. Research on “email urgency bias”
 
-while Slack or Teams messages need acknowledgment within a few
+shows that recipients often feel pressured to respond faster than
 
-hours. Just as importantly, teams should have a shared practice for
+senders actually expect. Conversely, some messages requiring quick
 
-letting senders know when a timely response isn’t possible—preventing
+decisions go unnoticed for days. Both scenarios create unnecessary
+
+friction and slow teams down.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

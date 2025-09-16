@@ -1,5 +1,11 @@
-## and-beneﬁts program should at least oﬀer these basics:
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9afb2e5559f05e5974d3115aae81b5d413be56e2
+title: R2504F-PDF-ENG
+---
+# medical decisions or healthcare crises.
 
-- education to help employees anticipate and prepare for caregiving
+There’s no one-size-ﬁts-all approach to providing eldercare support. But
 
-responsibilities, and to learn as they go as their responsibilities
+as a general rule, companies that hope to institute an eﬀective practices-

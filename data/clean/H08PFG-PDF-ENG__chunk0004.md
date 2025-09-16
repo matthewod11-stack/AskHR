@@ -1,7 +1,13 @@
-# the hour.
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16372a9487390da64969ba76061f99369e991e91
+title: H08PFG-PDF-ENG
+---
+## key policies and formal processes around things like vacation time. But
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+employee manuals don’t teach other things, like whether you should
 
-1
+advocate for a promotion or wait to be asked, how quickly colleagues
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+expect email replies, or if meetings start on time or three minutes after

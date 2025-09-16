@@ -1,5 +1,9 @@
-## Wexley, K. N., Yukl, G. A., Kovacs, S. Z., & Sanders, R. E. (1972).
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 400af1ef52bb968277b7e06fc8261a495d68ea97
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Wexley, K. N., Sanders, R. E., & Yukl, G. A. (1973). Training
 
-Importance of contrast eﬀ ects in employment interviews. Journal of Applied Psychology, 56, 45–48.
-
-Whelchel, B. D. (1985). Use of performance tests to select craft
+interviewers to eliminate contrast eﬀ ects in employment interviews. Journal of Applied Psychology, 57, 233–236.

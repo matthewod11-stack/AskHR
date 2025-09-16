@@ -1,19 +1,15 @@
-## unlimited vacation, ﬂexible Fridays, daily gratitude prompts, and access
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d10912b0e157199e98f610879b4398359fd03a2
+title: H08VNO-PDF-ENG
+---
+## health apps, free lunches, recharge days, wellness stipends—these
 
-to mindfulness tools. On paper, it was generous. But within three
+oﬀerings are positioned as proof points of a supportive culture. But
 
-months, internal feedback scores fell sharply. Employees reported
+when perks are introduced in place of real operational change, they
 
-feeling more burned out, not less. The reason? Nothing about the
+don’t just miss the mark. They backﬁre.
 
-actual workﬂow had changed. Role clarity remained murky. Deadlines
-
-were still erratic. Slack pings continued after hours. The message was
-
-“unplug” — but the expectation was “stay responsive.”
-
-A similar pattern played out in a Southeast Asian media company,
-
-where management introduced digital detox days and wellness
-
-stipends. Despite the new initiatives, employees reported rising anxiety
+In our study, one European tech ﬁrm rolled out a full suite of beneﬁts:

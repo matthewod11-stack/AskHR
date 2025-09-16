@@ -1,3 +1,11 @@
-## works. Research in the Sociology of Organizations, 16, 3–30.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 59f8454ba28b618b9635a1581f387066c975fe5e
+title: barrickryan_eds_personality_and_work
+---
+# bridge, MA: Harvard University Press.
 
-Cialdini, R. B. (1989). Indirect tactics of image management: Beyond basking. In R. A. Giacalone & P. Rosenfeld (Eds.), Impression man- agement in the organization (pp. 45–56). Mahwah, NJ: Erlbaum. Coleman, J. S. (1988). Social capital in the creation of human capital.
+Caldwell, D. F., & O’Reilly, C. A., III. (1982). Boundary spanning and in- dividual performance: The impact of self-monitoring. Journal of Ap- plied Psychology, 67, 124–127.
+
+Carley, K. M. (1999). On the evolution of social and organizational net-

@@ -1,11 +1,13 @@
-## distribution, team dynamics, and overall organizational climate
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca31583c9c0c2c69253613bca70d40474ca46213
+title: H08T5A-PDF-ENG
+---
+## an AI-driven mental health platform, Teale, which, through various
 
-reported by employees. It allows managers to spot signs of stress,
+tools including an AI-powered coach, provides monthly anonymized
 
-disengagement, and burnout early, and respond before issues escalate.
+dashboards (with aggregated data to protect employee privacy). This
 
-. . .
-
-While our research focuses on professional service ﬁrms—particularly
-
-in law and accounting/consulting—many of the dynamics we observed,
+dashboard enables managers to gain strategic insight into workload

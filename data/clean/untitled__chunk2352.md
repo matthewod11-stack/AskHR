@@ -1,3 +1,9 @@
-# Literary Development
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fcde8f30a0883e5fde1090797d1f20dc95df92ad
+title: untitled
+---
+# 418 School Psychology
 
-The availability of professional literature is among the few symbols of professionalization observable in this period, though no journals or books appear to have existed speciﬁ- cally for school psychologists. To the extent practitioners sought professional information, they would have read the available psychology journals (e.g., American Journal of Psychology, Pedagogical Seminary, Psychological Bulletin) and education journals (e.g., School and Society, Journal of Educational Psychology). Perhaps the most relevant journal was The Psychological Clinic, founded by Witmer in 1907.
+degrees under Hall at Clark University contributed to the knowledge of some who practiced in school settings, but this was not a “school psychology” program. Practical experi- ences were often available beyond the training programs in localclinicsorinstitutions.Theﬁrstformalinternshipappears to have been available as early as 1908 at the Vineland Train- ing School in New Jersey (Morrow, 1946). Also absent were avenues for the formal granting of credentials to psycholo- gists in school or other settings.

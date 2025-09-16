@@ -1,23 +1,45 @@
-# HBR / Digital Article / How to Talk to an Employee Who Isn’t Meeting Expectations
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b550d9502f51ae0e5ca9c663538b6d9f37ad826
+title: H0881J-PDF-ENG
+---
+# conversation. For example:
 
-I architect a well-structured meeting. I prepare a clear agenda and
+You’re meeting your project deliverables, which is fantastic! However,
 
-assign sections of it to speciﬁc team members. Giving everyone a
+this success appears to come at the expense of your cross-functional
 
-role in how the meeting runs makes everyone feel involved, sets the
+relationships. Several team members have expressed concerns about
 
-expectation that everyone is accountable for coming prepared, and
+your ability to perform your project management responsibilities.
 
-ensures no one dominates the conversation. It also allows me to lead
+They have had to step in and cover for your missed deadlines by
 
-by example: The team sees what a well-run meeting looks like and
+accelerating their work to meet the project delivery. In addition,
 
-how they can adapt the structure for their own meetings.
+I’ve noticed that you seem distracted and aren’t engaging as much
 
-Ask your employee to share their honest opinion about what is leading
+as you could in virtual meetings. This behavior comes across as
 
-to this feedback, then sit in silence and give them space to share their
+disinterested and disrespectful to the rest of the team, and the 360
 
-thoughts. More often than not, they will take some accountability for
+feedback you’ve received reﬂects this perception.
 
-their results. If they don’t, they may not be coachable.
+Create the space for a vulnerable conversation, keeping in mind that
+
+non-work-related issues might be driving your employee’s lackluster
+
+performance. It’s essential to display empathy and openness. You can
+
+do that by sharing a relevant personal experience. For example:
+
+I don’t know if you realize I’m an introvert. Large meetings are very
+
+draining for me, especially when poorly organized. To self-manage,
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

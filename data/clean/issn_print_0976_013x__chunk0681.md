@@ -1,17 +1,27 @@
-# CONCLUSION
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 9743f0c3cca341dc06a5606e39bc1542c53e017e
+title: issn_print_0976_013x
+---
+# resources.
 
-The study focused on identifying workplace diversity and inclusion barriers and strategies to
+ Provide workers with a safe space to voice their concerns.
 
-increase inclusiveness and awareness. Discrimination, prejudice, and ethnocentrism were
+ Benchmark key aspects of your organization’s culture—and understand the employee
 
-identified as the most significant barriers to accepting workplace diversity, along with blaming
+experience—before making changes to promote inclusivity.
 
-the victim, stereotypes, harassment, and backlash. The preferred strategies for increasing
+ Remember that daily interactions are the most telling sign of whether or not your
 
-inclusiveness included learning about cultural differences and business practices in overseas
+company has an inclusive culture.
 
-assignments, encouraging employees to accept these assignments, and providing language
+According to Cox and Lancefield (2021), ‘There’s widespread agreement on the need to
 
-training. The study recommended admitting biases and prejudices, recognizing, and valuing
+improve diversity and inclusion in the workplace. But it’s not easy to deliver on the promises
 
-71
+made. It’s time to adopt a more systematic, coherent approach. By following these five
+
+strategies, leaders can make more progress and create a more representative, fair, and high-
+
+performing workforce’.

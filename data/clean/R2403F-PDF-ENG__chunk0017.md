@@ -1,11 +1,15 @@
-## 2017, and “‘You’ve Got to Set Your People Up to Succeed,’” May–June
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30481725cc9610f2879973d09ff8d1e688722fe8
+title: R2403F-PDF-ENG
+---
+# an extra $10 million each quarter.
 
-2023.) Among other moves, it increased pay, improved beneﬁts, invested
+Ten years ago, driven by better information on the true costs of turnover
 
-more in training, and redesigned jobs and schedules.
+and how the retention and performance of frontline workers aﬀect
 
-At Neiman Marcus, Eric Severson, the chief people oﬃcer, spearheaded
+operational and ﬁnancial results, Walmart embarked on an ambitious
 
-a similar transition by persuading the rest of the C-suite that the
-
-retail chain was investing too little in human capital. He presented top
+change program. (See “‘The Right Thing to Do,’” HBR.org, December 7,

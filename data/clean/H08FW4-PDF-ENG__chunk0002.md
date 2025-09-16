@@ -1,7 +1,7 @@
-# Thomas Barwick/Getty Images
-
-Executive teams have been a consuming focus of many CEOs and
-
-those leading parts of large enterprises for good reason. One study of
-
-1,250 executive teams shows a clear correlation between a company’s
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22118b9c90965963e315c480d092608888952226
+title: H08FW4-PDF-ENG
+---
+## Published on HBR.org / October 22, 2024 / Reprint H08FW4

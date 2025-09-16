@@ -1,13 +1,19 @@
-## leadership practices at every level of the company.
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4112ed20c097776586334eb654f716057058dfcd
+title: H088S2-PDF-ENG
+---
+## of strategic imperatives essential to the company’s transformation.
 
-The results speak volumes. By the close of 2023, the ongoing
+Addressing items on the Dell Agenda became a primary focus of ELT
 
-transformation at Dell had yielded a 10-fold return on Michael Dell’s
+meetings and other leadership sessions. The Dell Agenda remained
 
-initial investment in 2013. Our analysis of total shareholder returns for
+dynamic; as issues were resolved and integrated into the company’s
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+strategy, new issues were added, ensuring the transformation remained
 
-6
+an ongoing process. As the DMM became ingrained in the company’s
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+operating rhythm, transformation became an integral part of daily

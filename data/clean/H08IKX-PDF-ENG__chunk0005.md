@@ -1,17 +1,13 @@
-## safety of employees and customers Best Buy’s highest priority; 2) avoid
+---
+source_path: H08IKX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 37ab19472a90e35ba99a164221e61b214bc7e4c5
+title: H08IKX-PDF-ENG
+---
+## HBR / Digital Article / Is Your Company’s Problem Complicated? Or Complex?
 
-permanent layoﬀs as long as possible; and 3) make decisions based
+Rather than trying to solve a problem she could not understand,
 
-on long-term value creation. Most notably, there was no mention of
+Barry gathered her team to establish principles for decision-making
 
-preserving near-term earnings.
-
-Barry had the wisdom to recognize that such a complex problem as
-
-Covid-19 could not be solved with the company’s traditional approach to
-
-complicated problems— that is, to separate the challenge into its logical
-
-elements, create an approach to solving each of them, and then bring
-
-them together into a logical whole — as the company used in its pricing
+under uncertainty. The team agreed on three principles: 1) make the

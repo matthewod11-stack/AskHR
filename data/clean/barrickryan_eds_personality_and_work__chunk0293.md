@@ -1,1 +1,11 @@
-# 92 PERSONALITY AND WORK
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: ba075189495bd014d4d5dbe5c3606eefe91da7ba
+title: barrickryan_eds_personality_and_work
+---
+# Adaptive Performance
+
+Because of the increasingly dynamic nature of work environments, adaptive performance has recently received increased attention (Campbell, 1999; Hesketh & Neal, 1999; London & Mone, 1999; Pulakos, Arad, Donovan, & Plamondon, 2000). Adaptive perfor- mance is the proﬁciency with which a person alters his or her be- havior to meet the demands of the environment, an event, or a new situation (Pulakos et al., 2000). Hesketh and Neal (1999) suggested that adaptive performance is a component of the performance do- main that is separate from task and citizenship performance.
+
+Pulakos et al. (2000) developed and found support for a tax- onomy of adaptive performance consisting of eight dimensions. Johnson (2001) classiﬁed six of these dimensions as either task or citizenship performance. The other two dimensions are most sim- ilar to London and Mone’s (1999) and Hesketh and Neal’s (1999) conception of adaptive performance (self-managing learning ex- periences in anticipation of changing conditions, ﬂexibility to cope with change). The dimension of learning work tasks, technologies, and procedures in response to changing conditions contains as- pects of both task and citizenship performance. Learning new tasks, technologies, or procedures certainly inﬂuences task performance, and the aspect of seeking out learning opportunities in anticipa- tion of changing conditions overlaps with the self-development component of conscientious initiative. The dimension of dealing with uncertain and unpredictable work situations is the only com- ponent of Pulakos et al.’s taxonomy that may well be distinct from task and citizenship performance. Elements of this dimension in- clude taking action when necessary without having all the facts at hand; adjusting plans, actions, or priorities to deal with chang- ing situations; and imposing structure to provide focus in dynamic situations.

@@ -1,15 +1,43 @@
-# chain?”
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 488a5a770dabd72f444b0c024568abf450ac5fc4
+title: H08NJ7-PDF-ENG
+---
+# Collaborating (high pull + high push)
 
-Then, you can move to advising them: “Given your passion for building
+At the top right quadrant lies the Collaborating (or guided) coaching
 
-new businesses (and desire to move into general management), have
+style, which embodies high pull and high push and represents the sweet
 
-you considered applying for the deputy country head role in Bangladesh since we have just opened a new oﬃce there? I saw the job description
+spot in coaching. Ask a coaching expert and they will probably tell you
 
-and I think it aligns well with your skills. What do you think about that?”
+this should be the place most managers strive to be at.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Think of this style as a cross between traditional coaching (asking open-
 
-7
+ended questions) and mentoring (providing counseling and prescriptive
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+advice) and jointly coming up with a way forward. This approach, too,
+
+requires a fair bit of preparation.
+
+This style is most suited in situations that warrant a combination of
+
+guiding and advising, irrespective of your report’s experience level.
+
+Say your associate manager is working on a career development plan
+
+and aspires to move from supply chain to general management. Here,
+
+instead of simply telling them whether this would be good for their
+
+career or not, you’ll want to pursue a more collaborative approach. You
+
+might start the conversation by asking open-ended questions to aid
+
+reﬂection, such as, “What skills do you think you need to develop to
+
+be able to make the switch to general management?” or “Why do you
+
+think you should develop more competencies in AI in addition to supply

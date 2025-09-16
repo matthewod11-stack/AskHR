@@ -1,39 +1,29 @@
-## HBR / Magazine Article / Case Study: How Should a Start-Up Cut Its Burn Rate?
+---
+source_path: R2304M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 783aa2b8f4c394a221e1e0794141f81cb903de75
+title: R2304M-PDF-ENG
+---
+# accomplish less.”
 
-been low at 9%, Simone explained. But they could let that number move
+Ed pointed to one upside of this plan: Because they’d be saving
 
-up to 12%. The company could further reduce spending by cutting the
+money on salaries, they could preserve some budget for learning and
 
-budget for events and food, removing low-usage beneﬁts and perks,
+development, food, travel, and events to maintain morale. Still, Simone warned, doing layoﬀs twice within a year would have a negative impact
 
-and pulling back on other areas of spending on contract and vendor
+—and some star employees might head for the door.
 
-services and marketing, which had increased over the past few months.
+As an alternative to more layoﬀs, the trio discussed another, two-
 
-“If we communicate about this the right way, people will understand that we’re making these sacriﬁces to avoid more layoﬀs,” Simone said. “I
+pronged approach. To reduce head count, Puck could stop replacing
 
-think the damage to the culture and performance will be less than if we
+departing employees and do more to manage out weak performers.
 
-put more people out of a job.”
+Attrition the previous year among people Puck wasn’t sorry to lose had
 
-“But remember,” Ed chimed in, “when you cut people costs through
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-attrition, the savings come more slowly and less predictably, and the
+6
 
-increased workload for those who stay may lead to burnout, lack of trust, and unwanted departures.” 6
-
-He oﬀered a third option: “I love our new oﬃce space, but the reality is
-
-that it’s nearly empty two days a week. We could move to a remote-ﬁrst
-
-model, sublease the entire oﬃce, and ask people to work from home or
-
-from lower-cost coworking spaces. I think that could save us roughly
-
-$5.5 million to $6.5 million annually.”
-
-“Those cost savings are tempting,” Tyler said, “but I still worry about
-
-our culture and collaboration. We made it through the early days of the
-
-pandemic, but performance really picked up when we got back to the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

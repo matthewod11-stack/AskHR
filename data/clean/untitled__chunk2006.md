@@ -1,5 +1,9 @@
-## Washington, DC: American Psychological Association.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 80559b43c67a43730fc23b4708a32e2b0af34ccf
+title: untitled
+---
+## personality disorder. New York: Guilford Press.
 
-Meltzer, H. (1966). Psychology of the scientist: XVII. Research has a place in private practice. Psychological Reports, 19, 463–472.
-
-Menninger, W. C. (1950). The relationship of clinical psychology
+McReynolds, P. (1997). Lightner Witmer: His life and times.

@@ -1,19 +1,17 @@
-# and instruments. New York: Plenum Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 773beca9602208bb30fba912434d8be9f9cb1e10
+title: untitled
+---
+# American Psychologist, 38, 869–877.
 
-Grisso, T. (1991). A developmental history of the American Psychology-Law Society. Law and Human Behavior, 15, 213– 231.
+Gilbert v. California, 388 U.S. 263, 87 S. Ct. 1951 (1967).
 
-Grisso, T., & Appelbaum, P. (1998). Assessing competence to con-
+Goodman, G. S., Levine, M., & Melton, G. B. (1992). The best evi- dence produces the best law. Law and Human Behavior, 16, 244–251.
 
-sent to treatment. New York: Oxford University Press.
+Goodman, G. S., Levine, M., Melton, G., & Ogden, D. W. (1991). The American Psychological Association brief in Maryland v. Craig. Law and Human Behavior, 15, 13–29.
 
-Grisso, T., Cocozza, J., Steadman, H., Fisher, W., & Greer, A. (1994). The organization of pretrial forensic evaluation ser- vices: A national proﬁle. Law and Human Behavior, 18, 377– 393.
+Greenburg, J. (1956). Social scientists take the stand: A review and appraisal of their testimony in litigation. Michigan Law Review, 54, 953–970.
 
-Grisso, T., Sales, B., & Bayless, S. (1982). Law-related graduate courses and programs in psychology departments: A national survey. American Psychologist, 37, 267–278.
-
-Grisso, T., & Schwartz, R. (Eds.). (2000). Youth on trial: A develop- mental perspective on juvenile justice. Chicago: University of Chicago Press.
-
-Grove, W. M., & Barden, R. C. (1999). Protecting the integrity of the legal system: The admissibility of testimony from men- tal health experts under Daubert/Kumho analyses. Psychology, Public Policy, and Law, 5, 224–242.
-
-Hafemeister, T. L., & Melton, G. B. (1987). The impact of social science research on the judiciary. In G. B. Melton (Ed.), Reform- ing the law: The impact of developmental research (pp. 27–59). New York: Guilford Press.
-
-Hare, R. (1996). Psychopathy: A clinical construct whose time has
+Grisso, T. (1986). Evaluating competencies: Forensic assessments

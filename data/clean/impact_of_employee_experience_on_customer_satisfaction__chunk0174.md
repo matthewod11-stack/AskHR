@@ -1,17 +1,13 @@
-# % Promoters - % Detractors = eNPS
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 2c84e50ec90f8fe351c835579f4d6bc58ff0081b
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# experiences.
 
-The remainder of the survey is questions related to satisfaction, engagement, and
+Q10: I would recommend this company to people I know as a great place to work – is
 
-wellbeing of employees, which are evaluated on scale from 1 “strongly disagree” up
+the eNPS question. The methodology of the eNPS question is explained in 2.6.2.1,
 
-to 5 “strongly agree” or 1 “not satisfied” to 5 “strongly satisfied”. Note that score(s) are
-
-converted to a scale of 1-100 (as illustrated below) for easier comparison (fig. 17)
-
-where the answer of 1 (“not at all” or “strongly disagree”) represents 1 point and the
-
-answer 5 (“completely happy” or “strongly agree”) represents 100 points. The total
-
-score in different areas of employee experience is measured as their average score
-
-from questions related to the employee experience area.
+however the main metrics are calculated:

@@ -1,37 +1,13 @@
-## HBR / Digital Article / New Research on How Layoffs Affect the Labor Market
+---
+source_path: H08TPS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 049d99c2383e13c60f307929443890334ae58f83
+title: H08TPS-PDF-ENG
+---
+# long-term viability.
 
-But here’s the rub: recessions induce many business leaders, across a
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-broad array of geographies and industries, to simultaneously conclude
+2
 
-that it is a prudent time to cut employment. With so many laid-
-
-oﬀ workers desperate to ﬁnd a new job, even healthy ﬁrms may
-
-struggle to adjust their business plans to accommodate new employees.
-
-Unemployed workers, in turn, may be forced to endure a prolonged
-
-spell of joblessness that weakens their skills and attachment to the labor
-
-force. As a result, individually rational decision-making by companies can produce ineﬃcient collective outcomes in the market.
-
-We examined the signiﬁcance of these spillover eﬀects to better
-
-understand what might be done to prevent such rapid deterioration of
-
-labor markets. To do this, we used comprehensive administrative data
-
-from the U.S. Census Bureau on workers’ quarterly employment status
-
-and labor earnings between 1994 and 2020. We studied the variation
-
-in the employment cuts by large national ﬁrms that operate in many
-
-diﬀerent geographic markets and which tend to make company-wide
-
-layoﬀ decisions based on factors, like credit, that are unrelated to the
-
-conditions in any one local market. The large employment share of
-
-these ﬁrms means that their workforce decisions are key drivers of local
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

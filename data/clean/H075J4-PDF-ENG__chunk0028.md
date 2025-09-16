@@ -1,31 +1,41 @@
-# HBR / Digital Article / Coding Isn’t a Necessary Leadership Skill — But Digital Literacy…
+---
+source_path: H075J4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5621177c78f2ca594381016e98bab92cab533e95
+title: H075J4-PDF-ENG
+---
+# not addressed head-on.
 
-break things.” Both approaches are right for their own specialty; the key
+One of the core concepts of software development is releasing new
 
-is not to mix them up.
+features, seeing how people use them, and then iterating based on
 
-If you’re working on a digital product for the ﬁrst time, understand that
+results. Thus, the aim of releasing something new is to test a hypothesis,
 
-apps, sites, and algorithms are built using an experimental “build —
+rather than to create a perfect end product for a customer. On the
 
-measure — learn” cycle. The product team simply cannot tell you what
+other hand, non-technical teams usually focus on creating a perfect end
 
-features are going to be released in a year because they don’t know yet.
+product for a customer. This diﬀerence makes sense: Digital products
 
-This can cause frustration, especially in the ﬁnance department, which
+can be changed quickly when customers already have them, while
 
-understandably wants to forecast spend and revenues. This is where it
+traditional products cannot. For example, developers can release a new
 
-helps to learn from startups. Early-stage technology companies are by
+feature once an app is already on your phone, but a chocolate bar can’t
 
-nature experimental, but they have a very clear deadline: the amount of
+become less sweet or more nutty after you buy it.
 
-cash left in the bank. The question they’re answering is: What can we
+Thus, traditional products require more planning and forecasting before
 
-learn given the amount of funding we have? Given our runway, what
+release than digital products. Tension often arises when non-technical
 
-experiments can we do to get closer to our goal?
+teams want to discuss and plan every feature for every possible
 
-Thinking in terms of experimentation within a certain budget or time
+outcome, which frustrates technical teams, who want to “move fast and
 
-frame helps bring business realities to the scientiﬁc method used in
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

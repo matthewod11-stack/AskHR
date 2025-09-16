@@ -1,7 +1,9 @@
-# Discussion
+---
+source_path: microsoft_word_jole_8_2_fall_2009_doc.md
+pages: n/a-n/a
+chunk_id: 1773e2647350bde629f739d79abad97ce78c7d0b
+title: microsoft_word_jole_8_2_fall_2009_doc
+---
+# Summary
 
-The current research demonstrates only limited support for the adage that sports builds leaders. We posit three distinct reasons for this weak link. First, the primary purpose of participating on a sports team is not leadership development. The activities are designed to develop physical skills and the strategy associated with a particular sport. Kaagan (1998) points out that effectively designed leadership development activities consist of correctly selected learning challenges, ordered in a specific sequence. Team coaches select activities and order them in a manner to develop athletic, not leadership skills.
-
-231
-
-(cid:68)(cid:111)(cid:119)(cid:110)(cid:108)(cid:111)(cid:97)(cid:100)(cid:101)(cid:100)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:104)(cid:116)(cid:116)(cid:112)(cid:58)(cid:47)(cid:47)(cid:119)(cid:119)(cid:119)(cid:46)(cid:101)(cid:109)(cid:101)(cid:114)(cid:97)(cid:108)(cid:100)(cid:46)(cid:99)(cid:111)(cid:109)(cid:47)(cid:106)(cid:111)(cid:108)(cid:101)(cid:47)(cid:97)(cid:114)(cid:116)(cid:105)(cid:99)(cid:108)(cid:101)(cid:45)(cid:112)(cid:100)(cid:102)(cid:47)(cid:56)(cid:47)(cid:50)(cid:47)(cid:50)(cid:50)(cid:52)(cid:47)(cid:49)(cid:48)(cid:48)(cid:54)(cid:53)(cid:57)(cid:56)(cid:53)(cid:47)(cid:118)(cid:56)(cid:95)(cid:105)(cid:50)(cid:95)(cid:114)(cid:102)(cid:55)(cid:46)(cid:112)(cid:100)(cid:102)(cid:32)(cid:98)(cid:121)(cid:32)(cid:103)(cid:117)(cid:101)(cid:115)(cid:116)(cid:32)(cid:111)(cid:110)(cid:32)(cid:48)(cid:57)(cid:32)(cid:83)(cid:101)(cid:112)(cid:116)(cid:101)(cid:109)(cid:98)(cid:101)(cid:114)(cid:32)(cid:50)(cid:48)(cid:50)(cid:53)
+Few differences exist between sports participants and non-participants regarding the leadership skills measured in this study. Team participants differed significantly from non-participants in only two skills: teamwork and written communications. Sports team participants demonstrated higher teamwork skills. Those who did not participate in school sports demonstrated higher written communications skills. Increased levels of participation are not associated with differing levels of leadership skills. The nature of the sport is not generally associated with skill development.

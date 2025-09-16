@@ -1,11 +1,7 @@
-# Elizabeth Fraser/DVIDS
-
-Leading through volatility is now the most in-demand skill at U.S.
-
-companies (topping AI ﬂuency), according to dozens of senior human
-
-resources executives I polled recently at Fortune 100 companies from an
-
-array of industries, including healthcare, sales, ﬁnance, food service,
-
-manufacturing, tech, and biotech. The demand has been driven by
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aff239717950678358c3c0ff5ae4b991ad049c8a
+title: H08VFN-PDF-ENG
+---
+## Published on HBR.org / August 19, 2025 / Reprint H08VFN

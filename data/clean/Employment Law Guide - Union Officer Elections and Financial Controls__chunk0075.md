@@ -1,3 +1,7 @@
-# Form S-1(https://www.dol.gov/agencies/olms/regs/compliance/GPEA_Forms/blanklmforms#FLMS1) (Surety
-
-Company Annual Report). The LMRDA requires public disclosure of ﬁnancial information from any surety company which issues a bond required by the LMRDA or the Employee Retirement Income Security Act of
+---
+source_path: Employment Law Guide - Union Officer Elections and Financial Controls.md
+pages: n/a-n/a
+chunk_id: 9126d962987c6be00a5f843d4beb00c8211238d1
+title: Employment Law Guide - Union Officer Elections and Financial Controls
+---
+# otherwise.

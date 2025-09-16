@@ -1,7 +1,13 @@
-# The Business Psychologist
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 13d1e1bdcdc4188f3e7e58fa29bf40cea755e274
+title: untitled
+---
+## The Beginnings of the New Profession of Psychology
 
-At the beginning of the twentieth century, American business was changing America as well as being changed by the evo- lution of American society. With the “formation of large in- dustrial empires came new management problems and a growing problem with efﬁciency” (Napoli, 1981, p. 28). As efﬁciency became the watchword of new American business, psychologists would take up the challenges of increasing productivity, improving personnel selection, providing job analyses, and improving worker morale.
+was only a small step to move from applied research to establish a role for psychologists as consultants employed outside the university.
 
-Business psychology—later to be called industrial psy- chology in the 1920s, and then industrial-organizational (I-O) psychology in the 1960s—can be said to have originated with Gale’s advertising study in 1895. But Gale did not pur- sue that work. Instead, the ﬁrst sustained program in business psychology was that of Walter Dill Scott, who published many articles on the psychology of advertising in Mahin’s Magazine, a leading journal in the advertising ﬁeld. Scott also wrote about his advertising work in other magazines,
+The beginning of the twentieth century in America was marked by great social upheaval. American cities were grow- ing rapidly and with them the factories that were the home of the new urban labor. Immigrants came to America in even greater numbers, seeking a better life. Child labor laws and compulsory school attendance laws were passed in tandem to prevent abuses of children in the workplace but also to pro- vide an education needed for an urban workforce and to impart the values of American society important to the melt- ing pot of fully acculturated citizens. There were movements for a national reform in education and for the right to vote for women. As manufacturing capacity exceeded demand, busi- nesses looked beyond their regions to a national consumer base. Advertising became more important to create those broader markets. The types of jobs available expanded con- siderably as America moved from a largely agrarian/rural society to a factory/urban one; consequently, people sought more information about jobs leading to a new focus— arguably a more scientiﬁc one—on adjustment.
 
-29
+The changes in America at the turn of the century virtually clamored for an applied social science to solve the problems of the new society. And, there were psychologists both inside and outside of university settings who were ready to tackle those problems. We will next examine some of the early prac- tical applications of psychology in business, in counseling, in education, and in clinical settings.

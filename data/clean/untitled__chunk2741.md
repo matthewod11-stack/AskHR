@@ -1,3 +1,9 @@
-# NAU Libres.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f51a06bbff7463ac670d9efaf7241543bc02b7ae
+title: untitled
+---
+# References
 
-Casas, J. M. (1995). Counseling and psychotherapy with racial/ ethnic minority groups in theory and practice. In B. Bonger & L. E. Beutler (Eds.), Comprehensive textbook of psychotherapy: Theory and practice (pp. 311–335). New York: Oxford Univer- sity Press.
+Carpintero, H. (1987). Historia de la psicologica. Madrid, Spain:

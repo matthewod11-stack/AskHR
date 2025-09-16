@@ -1,17 +1,21 @@
-# Assoua as a trainee.”
+---
+source_path: R2405M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bddd77ce075cff8475155e78845e598eb957568d
+title: R2405M-PDF-ENG
+---
+# A Very Direct Proposal
 
-Koﬃ and Yao glanced at each other.
+Once they had settled at a table in their favorite restaurant in the
 
-“It would be even harder for me to return if we were restricting
+Plateau district of Abidjan, Aminata started to share the real reason
 
-Assoua’s growth by not taking advantage of the amazing assets that
+for her visit. “Papa and Uncle, I know you would like me to return
 
-you have assembled,” she continued. “Here is what I propose: I’ll join
+home. It’s clear what a great company you have built and how you worry
 
-the company, but only if it’s as COO. And I’ll take that position with
+about your legacy. But here’s my problem,” she said with uncommon
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+directness. “I’ve made a life in Europe. I’m respected for my talents and accomplishments, and I’ve just been oﬀered a substantial new position
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with P&L responsibilities. It would be a step backward to return to

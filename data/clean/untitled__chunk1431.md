@@ -1,5 +1,11 @@
-# versity of Chicago Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 587ca4544f134a7a2b18e74e45d358acd8f5a96b
+title: untitled
+---
+# Journal of Social Issues, 54, 79–118.
 
-Heider, F. (1959). On Lewin’s methods and theory. In G. Klein (Ed.), Psychological Issues (pp. 108–123). New York: Interna- tional Universities Press.
+Haskell, T. L. (1977). Emergence of a professional social science: The American Social science association and the nineteenth- century crisis of authority. Urbana, University of Illinois Press.
 
-Heims, S. (1993). Constructing a social science for postwar
+Hayles, N. K. (1999). How we became posthuman. Chicago: Uni-

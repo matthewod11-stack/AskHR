@@ -1,7 +1,17 @@
-# or extreme heat.
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8838464baf119b9fe4e83f31223331a16bd0a5b8
+title: H08C0J-PDF-ENG
+---
+## workforce engagement during wildﬁres due to poor air quality and
 
-The impact of climate change on employee health will be enormous;
+even eco-anxiety, a condition marked by fear and hopelessness in the
 
-one estimate found that the direct health costs alone of climate change
+face of environmental doom. As the eﬀects of climate change take
 
-already far exceed $800 billion per year in the U.S. The threat will
+hold, multilayered risks lie ahead — for instance, multiple studies
+
+have shown that worker attention and general cognitive performance
+
+declines dramatically after even short-term exposure to wildﬁre smoke

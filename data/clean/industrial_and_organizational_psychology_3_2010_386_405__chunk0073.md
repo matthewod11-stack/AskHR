@@ -1,13 +1,11 @@
-# Examples of areas where
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: 2dd6311fe8a63d96365e2d62570de8169c8053ba
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# Methodological traditions
 
-Examples of content areas include the policy-capturing method,
+JDM primarily uses well-crafted lab experiments or ‘‘paper’’
 
-JDM has already enriched IOOB
-
-heuristics and biases (including the escalation of commitment), teams (including team mental models and hierarchical teams), and expectancy theories of motivation.
-
-Examples of other ways in which IOOB could beneﬁt from JDM
-
-Examples of content areas include team decisionmaking and
-
-information sharing, discrete emotions (especially regret), and training programs to help managers make better decisions and avoid errors. More generally, IOOB could emulate JDM’s emphasis on the creativity of the research questions as well as its ability to apply psychology in a way that inﬂuences large-scale policy making.
+simulations involving undergraduate students as subjects. These designs are internally valid and allow for better comparison of ﬁndings across studies. IOOB places greater emphasis on context and external validity and tends to use ﬁeld studies involving employees as subjects. The two methodological approaches should be viewed as complementary. It is often difﬁcult to get lab research or simulations using undergraduate students published in IOOB journals, which is unfortunate. IOOB should be much more open to lab research because such research allows for stronger causal conclusions than correlational ﬁeld studies and because the theoriesoften generalize to applied issues.

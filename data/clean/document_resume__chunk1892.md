@@ -1,5 +1,9 @@
-# "Uniform Guidelines," Sec 14 (C) (4)
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 130794574f22b91fccf48ae7e9ed73d0cac9be3d
+title: document_resume
+---
+# How Addressed
 
-Performance criteria should developed for critical and important duties in each domain and weighted in accordance with the overall importance of the domain
-
-"The manner and setting of the (performance appraisal) procedure should closely approxi- mated the work situation."
+"To demonstrate content validity, a user should show that the behaviors demonstrated in the (performance appraisal) procedures are repre- sentative of behavior(s) work product(s) of the lob"

@@ -1,5 +1,9 @@
-# Y. Crowell.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f2811da3912bdedffd4e5652cf4dcb5d935d5ed5
+title: untitled
+---
+## psychologists. Journal of Applied Psychology, 2, 77–83.
 
-Gillespie, R. (1988). The Hawthorne experiments and the politics of experimentation. In J. G. Morawski (Ed.), The rise of experi- mentation in American psychology (pp. 114–137). New Haven, CT: Yale University Press.
-
-Goodwin, C. J. (1999). A history of modern psychology. New York:
+Gilbreth, F., Jr. (1970). Time out for happiness. New York: Thomas

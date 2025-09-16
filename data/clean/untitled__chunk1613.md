@@ -1,9 +1,9 @@
-## The Inﬂuences of Cognitive Psychology 273
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: f2b3c9f899877445ac0a2be3a254c1307fb518f0
+title: untitled
+---
+# THE INFLUENCES OF COGNITIVE PSYCHOLOGY
 
-discipline within psychology whose focus was on the psy- chology of all components of educational processes and practice. No longer was it only an application of other areas within psychology (although these other areas continue to inﬂuence it).
-
-One reason the cognitive psychology revolution is viewed by many as an improvement over the days of experimenting with rats and pigeons is that it helped to focus researchers’ attention on realistic rather than artiﬁcial contexts. This shift provided researchers with the opportunity to examine stu- dents in their own environment—the classroom (Mayer, 2001). As Mayer notes, psychology needed something real to study, and education provided it. This has, of course, proven to be a symbiotic relationship, because psychology was able to provide to education established scientiﬁc methodological frameworks that education had previously lacked. Mayer’s view of the historical relationship between education and psychology in the twentieth century seems to be quite apt: First, there was a time during which psychologists developed theories and left it to educators to apply the theories; next came a period during which psychology resolutely focused on theoretical issues that were unrelated to educational is- sues, and education resolutely focused primarily on practical issues; and, now, we have an era in which psychology and education seem to be working more hand-in-hand, combin- ing the strengths of both groups to work for the mutual bene- ﬁt of each group, as well as for the public (Mayer, 1992, cited in Mayer, 2001).
-
-Even though the advent of cognitive psychology in the 1970s encouraged researchers to examine more realistic con- texts and situations, many researchers still tended to decon- struct their ﬁndings into isolated parts. Rather than viewing students as a whole, they often broke students’behaviors into components, which might then be used to construct new models, or even to reconstruct old models (Paris & Paris, 2001). Even the didactic methods and suggestions derived from this work were often nothing more than isolated pieces of advice. For example, common didactic methods for im- proving students’ academic success included options such as summarizing text, direct instruction for using speciﬁc strate- gies, and a tendency to instruct students to employ the same tactics and strategies across subjects and situations. And, in spite of the rationale that cognitive psychology afforded for using realistic situations, much of the research was still con- ducted in laboratory contexts. It was only quite recently that these methods changed.
-
-Now, for example, the emphasis is more on examining text from within the reader’s frame of reference than it is on merely summarizing text; making strategies adaptive, func- tional, and tailored to the individual learner is considered to
+Cognitive psychology has had a major inﬂuence on the devel- opment of educational psychology. In a seminal chapter in the Annual Review of Psychology,1977,Wittrock and Lumsdaine pointed out the importance of a cognitive perspective and the somewhat bankrupt contributions of behaviorism for further development in instructional and educational psychology. Thechapterhadastrongimpactoneducationalpsychologists. Educational psychology was ﬁnally on the road to being a

@@ -1,17 +1,31 @@
-## HBR / Digital Article / To Help Your Team Grow, Give Them Space to Struggle
+---
+source_path: H07PLS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cc42fdd21dfc261b272fe3e3ccca3d10d8bfec7c
+title: H07PLS-PDF-ENG
+---
+## Embrace the discomfort of the learning process
 
-- Name your emotions, which according to psychologist Susan David,
+Many leaders tell me that, after witnessing an employee falter, taking
 
-oﬀers clarity and resiliency and can empower you to respond in an
+back the work felt like the most supportive thing to do. I’ve felt this
 
-intentional way, aligned with your values.
+tension too. But Valerie taught me the power of holding space for
 
-- Normalize being uncomfortable. Neuroscientists know that these are
+struggle. Yes, this creates discomfort for both leader and employee
 
-the periods in which learning happens and perseverance is developed.
+because it’s a new way of working for everyone. However, as Gallup
 
-- Reframe the situation. One potential reframe is: “I was allowed to
+reminds us, one of the keys to engagement at work is the opportunity for
 
-struggle and that’s where I gained conﬁdence in my skills. So I’m going
+stimulating challenges. And when you push through the struggle, the
 
-to give my employee the same gift of time to solve the problem on their
+result is growth for all parties.
+
+How can you embrace, rather than resist, the discomfort of learning?
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

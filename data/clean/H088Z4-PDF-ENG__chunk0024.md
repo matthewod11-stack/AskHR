@@ -1,21 +1,27 @@
-# this information).
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 02a2ae2eb829e26efddd9996b8572534ed14e4d8
+title: H088Z4-PDF-ENG
+---
+# HBR / Digital Article / Research: Why Companies Should Disclose Their Lack of Progre…
 
-The results were remarkable. When the diversity data were good, people
+to increasing diversity. We then presented people with one of two
 
-viewed the organization positively — and this was true regardless
+ﬁgures that visually depicted the change in the representation of
 
-of whether they had elected to be transparent in disclosing this or
+racial/ethnic minorities in the year following this commitment. Half of
 
-not. However, when the diversity data showed no increase, a diﬀerent
+people saw a positive trend, which portrayed an eight percentage-point
 
-pattern emerged: people were far more likely to view the organization
+increase, while the other half saw a line depicting zero change in the
 
-positively when it had transparently disclosed the stagnant diversity
+representation of minorities over the same time period. But there was
 
-numbers than when it had chosen not to. The results indicated
+one other wrinkle in the study: we told half the people in this study that
 
-that people felt that the organization’s transparency about its lagging
+it was the company who decided to disclose these diversity data, but
 
-diversity numbers signaled a genuine commitment to diversity, which
+told other half that it was a colleague in HR who privately showed them
 
-in turn, led them to take both the organization and its apparent
+these data (thus implying it was not the company’s decision to disclose

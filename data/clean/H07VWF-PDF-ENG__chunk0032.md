@@ -1,33 +1,17 @@
-## For dads without access to parental leave.
+---
+source_path: H07VWF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8ef48e7c2d021a00a8398c65be8bdb5a92e733e
+title: H07VWF-PDF-ENG
+---
+## around this, push back, and ﬁght for your leave.
 
-Not many employers in the U.S. provide paid paternity leave. If you
+Although scheduling some overlap time with your partner is nice for
 
-don’t have access to paid leave and cannot aﬀord unpaid leave, you can
+building a family bond, it’s important to use part of your leave to spend
 
-still train your brain by ﬁnding baby-engagement time outside of work.
+time with your baby alone — it’s the best opportunity for brain training.
 
-To maximize brain training, one-on-one time needs to be a priority
+When you’re the only adult at home, you tackle the challenges, so you
 
-during your baby’s infancy, so make the time to be alone with your
-
-baby. Will you be exhausted? Absolutely. Is it going to be worth it? 100%.
-
-Of course, if your partner is breastfeeding, the role of feeding the
-
-baby may be covered. But there are still plenty of other baby-focused
-
-roles you can take on: diaper duty, gas-bubble eradicator, tummy-time
-
-instructor, master soother, nap captain, expert swaddler, lullaby singer,
-
-scrubber and bather — or just strap on a baby carrier and head out for a
-
-walk. You don’t have to read your infant Proust; you don’t have to strive
-
-for perfection. You just have to spend time with them.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+learn how to solve those daily baby problems.

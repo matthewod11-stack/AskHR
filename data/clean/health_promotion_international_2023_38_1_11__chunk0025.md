@@ -1,3 +1,13 @@
-# AUTHORS’ CONTRIBUTIONS
+---
+source_path: health_promotion_international_2023_38_1_11.md
+pages: n/a-n/a
+chunk_id: dbabff1936a09c4b384d54186a4276b14f6b357a
+title: health_promotion_international_2023_38_1_11
+---
+# 10
 
-L.T. and D.B. were responsible for data collection and analysis. Together with A.M. and K.H. they were responsible for the study design. A.M. and K.H. reflected on data collection and interpretations dur- ing the analysis. L.T. was responsible for drafting the manuscript and D.B., A.M. and K.H. critically reviewed the manuscript, conceptualizations and the- oretical interpretations of the data. A.M. and K.H. supervised the study. All authors read and approved the manuscript.
+study with in-depth and valuable insights. On the other hand, including more organizations could have pro- vided more insight into other dimensions of belonging that we may have missed.
+
+Implications for WHP research and practice On the basis of our findings, we argue that experiences of (un)belonging at work should be regarded as impor- tant ingredients of workplace health. To accelerate WHP programmes focussing on the individual, organ- izations should take into account the dynamics that mobilize and mediate experiences and practices of (un) belonging, such as collegiality, task divisions, recogni- tion of employees’ expertise and role in organizations’ primary processes and employees’ involvement in deci- sion-making. Organizations could mobilize implicit knowledge by frequenting the work floor more often, paying sincere attention to employees, their expertise and worries. Furthermore, responsive leadership styles are essential to recognize and make use of employees’ expertise. In tandem, it would be good to turn away from project-based interventions with predefined goals and outcomes that are not apt to respond to contextual events and dynamics.
+
+While we agree with Gunnarsdóttir and Björnsdóttir (Gunnarsdóttir and Björnsdóttir, 2003, p. 72) that managers have ‘a responsibility in fostering a positive working morale’, it is important to stress that it is not just their responsibility to take care of the health of employees in lower ranks of the company. Our analy- sis shows that managers also need to belong in order to experience optimum health in the workplace them- selves. Hagerty et al.’s (Hagerty et al., 1992) under- standing of belonging as being valued, needed and important and the feeling to fit in into an integral sys- tem, also holds true for WHP practice. This calls for a radical participatory and inclusive approach of WHP in which, (i) managers do not stand above WHP but are employees themselves too, and (ii) where all forms of knowledge and expertise are taken into account in decision-making.

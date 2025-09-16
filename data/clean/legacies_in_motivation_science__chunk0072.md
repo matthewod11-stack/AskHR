@@ -1,3 +1,15 @@
-# . s r e h s i l b u p
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: 7cace88b0afc29b0c57014d1d37b99c267f4e1c4
+title: legacies_in_motivation_science
+---
+# incident
 
-d e i l l a
+In the summer of 1968, Ronan was hired by the American Pulpwood Association to ﬁnd ways to increase the productivity of pulpwood crews. Organizations such as International Pa- per were dependent on these crews for timber to make paper. Ronan accepted the consulting as- signment on the condition that I be hired as a research assistant for that summer to initiate and implement a project that would be of sufﬁcient quality to serve as a master’s thesis. I chose to conduct a job analysis, using the CIT, to iden- tify behaviors that differentiate effective from ineffective pulpwood crews. Among my discov- eries was that effective crews set speciﬁc pro- duction goals for the amount of wood that they would harvest in a day and/or week.
+
+During the second year of my master’s pro- gram, Ronan was factor analyzing the results of questionnaires that had been completed by for- esters regarding their observations of pulpwood crews. Fortuitously, the questionnaire included an item on setting a weekly goal for the amount of wood to be harvested. This item loaded on the same factor as an objective measure of crew productivity (i.e., cords per employee hour). Thus, two different methodologies, the CIT and a questionnaire, yielded the same conclusion: There is a goal-performance relationship.
+
+The very day in 1969 that I presented the results of my thesis to the American Pulpwood Association, the organization hired me to be its ﬁrst staff psychologist. On Saturdays I fre- quently returned to the Georgia Tech library where I perused the quarterly issues of Psycho- logical Abstracts. In issue after issue, I read abstracts of journal articles that described labo- ratory experiments in which people who had been assigned a speciﬁc, high goal brainstormed more ideas, solved more arithmetic problems, made more tinker toys, and so forth than did those who had been randomly assigned to a placebo (control) condition in which they had been urged to do their best. Racing into his ofﬁce the following week, I excitedly ex- claimed, “Dr. Ronan, an I-O psychologist by the name of Locke has found. . . .” Suddenly, we
+
+95

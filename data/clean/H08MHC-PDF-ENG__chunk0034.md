@@ -1,25 +1,27 @@
-## How to Implement the Designed Simplicity Approach
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd9c4419c7790a3961c745096bc0ca7aba5573b4
+title: H08MHC-PDF-ENG
+---
+# regulatory action?
 
-Leaders of any function wanting to ensure they increase their chances
+When these less-than-ideal and uncommon scenarios inevitably occur, a one-size-ﬁts-all workﬂow means staﬀ must ﬁgure out how to deal with
 
-of success with their next transformation should be guided by the
+the complexity of the work. Those complexities can be technical (what’s
 
-principles of designed simplicity by following these steps:
+the right way to do this?) or worse, organizational (what’s the right way
 
-- 1. Survey
+to do this given multiple stakeholders and their competing priorities,
 
-Map the current state of the workﬂows being transformed.
+existing policies, budget limitations, etc.?).
 
-- 2. Investigate
+With designed simplicity, time and energy is spent on comprehensive
 
-Interview workﬂow users to identify speciﬁc complexities in the
+completeness up front. Situational ambiguity is engineered out of the
 
-process. Organize them into categories representing the root causes of
+process by developing workﬂows that cover all reasonably foreseeable situations so staﬀ can easily navigate the less-common and less-
 
-complexity: “too many,” “too few,” and “too diﬃcult.” Continuing the
+than-ideal circumstances that will inevitably arise, even if they are
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+encountered very soon after implementation.

@@ -1,45 +1,19 @@
-## Richard L. Thomas Professor of Leadership and Organizational Change
+---
+source_path: H06D14-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b9202fa3fc2532e574d5ede1dcf6858f2165edf
+title: H06D14-PDF-ENG
+---
+## of business administration at The University of Illinois at Urbana-
 
-at Northwestern’s Kellogg School of Management. But when your job
+Champaign. “It is probably the single most common complaint: ‘I
 
-performance suﬀers because of your colleague’s behavior, you need to
+have a colleague who doesn’t do their work and I have to pick up the
 
-take action. It’s not worth “gritting your teeth and waiting it out,” he
+slack.’” Just because it’s a common problem doesn’t make it easy to
 
-says. Here are some thoughts on how to handle the situation.
+deal with, however. “You need to go back to your basic organizational
 
-Diagnose the problem. For starters, says Uzzi, you need to assess the
+behavior class from business school and pull out every tool in your kit,”
 
-situation to pinpoint the problem and its root cause. Look at the big
-
-picture, says White. Ask yourself: Why is your colleague falling short?
-
-Do they lack the bandwidth, ability, or resources to do the job? Do
-
-other people see your colleague’s underperformance as a problem? What
-
-impact is it having? And is this is a new situation? “If it’s been going on
-
-for a long time, it will be harder to deal with. Patterns are ﬁxed,” she
-
-says. But if not—maybe this person is junior or new to the organization
-
-and getting up to speed—it will be easier. Answering these questions
-
-will help you ﬁgure out how to address the issue. Remember, though,
-
-“you’re not going to be able to change your colleague.” Rather, you need
-
-to identify what you can do to change the situation.
-
-Be introspective. In that spirit, it’s also wise to reﬂect on your
-
-own behavior, says Uzzi. Make sure you’re not falling prey to the
-
-fundamental attribution error. “When we do well, we tend to credit all
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+she says. Even then, “there’s no quick solution,” says Brian Uzzi, the

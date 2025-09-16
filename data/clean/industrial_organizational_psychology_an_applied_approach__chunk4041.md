@@ -1,7 +1,19 @@
-# REFERENCES
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9386a6ff534cc2314d21f6b3b6a07bfe6e817e58
+title: industrial_organizational_psychology_an_applied_approach
+---
+## an individual’s orientation toward intrinsic versus extrinsic motivation.
 
-Aamodt, M. G. (1986). Validity of expert advice regarding the
+Work sample A method of selecting employees in
 
-employment interview. Paper presented at the annual meeting of the International Personnel Management Association Assessment Council, San Francisco.
+which an applicant is asked to perform samples of actual job-related tasks.
 
-Aamodt, M. G. (2004). Research in law enforcement selection.
+Work teams Groups of employees who manage
+
+themselves, assign jobs, plan and schedule work, make work-related decisions, and solve work-related problems.
+
+Worrier A person who always thinks the worst is going
+
+to happen.

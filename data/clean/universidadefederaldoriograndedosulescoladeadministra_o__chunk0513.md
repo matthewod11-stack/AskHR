@@ -1,15 +1,17 @@
-# pesquisas de eNPS como um bom processo?"
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 80fc925dacc8a5afb3704e1e4b7ee5b5e1e2fa61
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Sendo 1 = Muito insatisfeito e 5 = Muito satisfeito
 
 Fonte: respostas do questionário aplicado aos funcionários
 
-64
+De maneira geral, os líderes que responderam estão satisfeitos com o
 
-O questionário para as pessoas em posição de liderança se encerra com um
+processo que envolve a aplicação de eNPS na empresa X, tendo obtido 83,3% de
 
-espaço aberto opcional para coletar sugestões e/ou críticas ao processo de
+respostas sim à essa questão, retratada na figura 23 a seguir:
 
-aplicação do eNPS na empresa, o qual retornou vazio, não tendo contabilizado
-
-nenhuma resposta. No todo, pode-se depreender que eles consideram o eNPS uma
-
-ferramenta útil e se sentem satisfeitos com tudo que engloba o seu processo. Ainda
+Figura 23: Respostas à pergunta "De maneira geral, você qualifica a aplicação das

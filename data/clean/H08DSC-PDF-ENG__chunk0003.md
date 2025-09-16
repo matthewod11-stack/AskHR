@@ -1,3 +1,25 @@
-# HBR / Digital Article / Why Companies Should Consolidate Tech Roles in the C-Suite
+---
+source_path: H08DSC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c569debed25c5350788c4da6e6381fd3b3c487a
+title: H08DSC-PDF-ENG
+---
+# Jorg Greuel/Getty Images
 
-oﬃcers have appeared. Their numbers have greatly increased with the
+C-level technology roles have proliferated over the past few decades.
+
+Chief information oﬃcers ﬁrst appeared in the early 1980s. Next,
+
+chief technology oﬃcers became common in high-tech ﬁrms, and then
+
+spread to other types of businesses. These roles were followed by chief
+
+information security oﬃcers, chief data oﬃcers, chief analytics oﬃcers,
+
+and chief digital oﬃcers. Most recently, chief artiﬁcial intelligence
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

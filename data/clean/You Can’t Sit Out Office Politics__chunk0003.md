@@ -1,7 +1,7 @@
-# Privacy - Terms
-
-https://hbr.org/2021/07/you-cant-sit-out-ofﬁce-politics
-
-1/13
-
-don’t come to work to play games — I come to work to get thingsdone.”Given my approach, it’s unsurprising that I was entirelyunprepared and out of my depth when, several years into mycareer, I was laid off. It wasn’t because I was performing poorly orfailing to meet my goals. It was because I had neglected to formrelationships with people who had the power to advocate for myjob.I was let go under the guise of “budget cuts,” but in reality, I hadbeen gracefully and expensively fired without question orreproach because someone with authority wanted me gone. Thisis an example of “office politics” at their worst.The experience made me realize that my head-in-the-sandapproach needed updating. It was high time I became a littlemore politically intelligent at work. I immersed myself in thetopic. I read every article, book, and study I could lay my hands onand sought professional guidance from a fellow executive-turned-coach.The more I learned, the more I began to reflect on my career.Though I reached a great deal of success, there were also manyopportunities I had missed and many times that I had faltered as aresult of my lack of education around office politics. It’s notsubject covered in most colleges or business schools, despite thefact that it’s essential to surviving (and thriving) in every workenvironment.That’s why, in my work now, as a global consultant, I’ve made it apriority to educate professionals at every stage in their careers onorganizational politics and how to navigate them at work.
+---
+source_path: "You Can\u2019t Sit Out Office Politics.md"
+pages: n/a-n/a
+chunk_id: ea230e8f35157556cb315fb99202cf84503ffc3e
+title: "You Can\u2019t Sit Out Office Politics"
+---
+# You Can’t Sit Out Ofﬁce Politics

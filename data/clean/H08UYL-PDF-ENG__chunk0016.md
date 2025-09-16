@@ -1,11 +1,31 @@
-## HBR / Digital Article / The Best Leaders Edit What They Say Before They Say It
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ae95e756abfb2ae07883709ee25ac9652e1684d
+title: H08UYL-PDF-ENG
+---
+# and not to share.
 
-followed by the top three or four concise reasons why. As a result, his
+- 5. The Detailed Over-Explainer
 
-colleagues were more engaged and clear about his point of view, and
+This leader overloads meetings with unnecessary complexity. They equate thoroughness with clarity, oﬀering too much context or diving
 
-the conversation stayed on track. And, of course, he still had the details
+into technical details. In executive or board settings, this can lose
 
-in his back pocket if questions came up. Colleagues reported that his
+the audience, triggering side conversations about minor points and
 
-communication style became sharper and more impactful.
+becoming a distraction that derails meeting focus.
+
+One functional leader we worked with lost credibility in cross-
+
+functional meetings by diving into minutiae, explaining every nuance
+
+before arriving at a recommendation. We suggested he shift his style to lead with a clear synthesis of the issue and oﬀer detail only when
+
+asked. He practiced providing his headline recommendation ﬁrst,
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

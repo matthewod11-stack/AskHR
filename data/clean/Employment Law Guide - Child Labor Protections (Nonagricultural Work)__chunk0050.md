@@ -1,5 +1,11 @@
-## records of additions to or deductions from wages.
+---
+source_path: Employment Law Guide - Child Labor Protections (Nonagricultural Work).md
+pages: n/a-n/a
+chunk_id: 89fb7417ffdd6f67003d27d6b98a9362bfb9750f
+title: Employment Law Guide - Child Labor Protections (Nonagricultural Work)
+---
+# Sheet #21: Recordkeeping Requirements under the FLSA(https://www.dol.gov/whd/regs/compliance/whdfs21.pdf).
 
-The FLSA does not contain any speciﬁc reporting requirements; however, the above referenced records must be open for inspection by the Wage and Hour Division's representatives, who may ask the employer to make
+Employers are required to preserve for at least three years payroll records, collective bargaining agreements, and sales and purchase records. Records on which wage computations are based should be retained for two
 
-extensions, computations, or transcriptions. The records may be kept at the place of employment or in a
+years. These include time cards and piecework tickets, wage rate tables, work and time schedules, and

@@ -1,21 +1,33 @@
-## HBR / Digital Article / Research: When Extra Effort Makes You Worse at Your Job
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1030298f950905adfbe69a45eef9d2d64dd874c9
+title: H08PEA-PDF-ENG
+---
+# The Importance of Routine
 
-to protect yourself and others. Eventually, with time and practice, all
+Previous research has established that taking initiative at work—in addition to obvious gains in eﬃciency for companies—can help workers
 
-of this becomes routine and takes less mental eﬀort. The same goes for
+ﬁnd more meaning in their jobs and increases their engagement and
 
-work tasks. When the same task is completed repeatedly, using the same
+adaptability. But we wondered if it also depleted employees’ cognitive
 
-methods in the same order, over time, the task will become automatic
+reserves by presenting a departure from their daily routines.
 
-and require less mental eﬀort.
+Routines are important because they help people be more eﬃcient
 
-We hypothesized that, by contrast, individuals engaging in task proactivity—initiating better or more eﬃcient ways to perform one’s
+with their time and conserve mental energy. Think about cycling, for
 
-core tasks—will have to deviate from these established routines,
+example. When you are just beginning, it takes eﬀort to remember
 
-sacriﬁcing cognitive beneﬁts to take on additional mental demands.
+to keep your balance in movement, to slow down when turning, to
 
-This in turn would create greater mental fatigue, which previous
+transition between gears and to brake, to keep in mind and respect
 
-research has found makes it harder to focus, process information, or
+rules of the road, and to remain alert to what happens around you as
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

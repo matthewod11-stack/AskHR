@@ -1,21 +1,45 @@
-# HBR / Digital Article / How to Evaluate a Job Candidate’s Critical Thinking Skills in an…
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4875e7ad7cf7432aead860dcc165e55af96ba0cb
+title: H07T10-PDF-ENG
+---
+# path.
 
-every leader seeks, and many teams have in short supply. Thinking
+The path back to our young, inquisitive self is short. In fact, it
 
-analytically includes being clear about the purpose of the essential
+depends on asking ourselves one question that links our professional
 
-question rather than wandering in the forest of data, being inquisitive
+and personal lives: How do we grow? This question underpins every
 
-not from a statistical perspective but questioning the initial face value,
+project, every request, every meeting, and even where we choose to
 
-being able to connect the dots via synthesis, and eventually being able
+work and live. It is rarely asked as directly as this, but the answer to
 
-to tell an informed story that is based on deeper truths, judgment, and
+this underlying question is what shapes our careers and lives. We grow through questioning. Understanding this point creates the scaﬀolding
 
-context, not just restating the initial facts.
+that helps determine how to increase personal satisfaction or the
 
-- • •
+company’s market share, grow our customer base, help increase product
 
-Reactivity, insight, and ingenuity are needed for companies to
+usage, or drive renewals. If you seek growth, you need to stimulate
 
-thrive. You seek agile thinkers who can be growth champions,
+critical thinking. For that, you need powerful questions. This is the
+
+basis for the ﬂip interview model. While we are wired from a young age to ask questions, we are rarely taught to eﬀectively develop the skill
+
+of questioning. Too often in business, we overlook the importance of
+
+questioning. We fail to appreciate questioning as an integral skill for
+
+doing our jobs. We don’t invest enough time and energy in training ourselves and others to be eﬀective inquisitors.
+
+Successful candidates in the ﬂip interview will demonstrate a critical thinking mindset. This is diﬀerent from knowing analytic tools
+
+and methods. A critical thinking philosophy is a skill that almost
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+9
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,13 @@
-## hard-wiring (such as a formal matrix or coordination function) or soft-
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6863c51c32e1702a7480116cd0d0c2de29dd5da
+title: H06YIA-PDF-ENG
+---
+# Address your new silos.
 
-wiring (such as councils, planning processes, or knowledge networks).
+Switching an organization’s primary dimension doesn’t make silos
 
-Apply a strict comply-or-explain rule.
+go away — it just creates new ones. Leaders must ensure lateral
 
-When changing the organization’s primary dimension, usually a small
-
-CEO-sponsored group designs the new model. The subsequent detail
-
-design phase involves a much broader group of managers to ensure
+coordination between the new verticals, which can be done through

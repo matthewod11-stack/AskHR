@@ -1,7 +1,29 @@
-# Take Advantage of Virtual Messaging
+---
+source_path: H07P3X-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0986b75f5f51c68d6f43ecc25625956ae25cd8a2
+title: H07P3X-PDF-ENG
+---
+# Make Calls During Your Commute
 
-If you’re working exclusively remotely, the options for informal social
+If you commute into the oﬃce or travel for business, some of your
 
-connection will be limited. In these cases, you can simply send a quick
+travel times could oﬀer an ideal opportunity to catch up in an informal
 
-chat message or text asking how someone is doing or share a quick
+manner with colleagues. One of my clients who was an executive with
+
+a packed meeting schedule used his drive home to reach out and have
+
+informal conversations with his leaders. This helped him get a more
+
+personal view on their thoughts and concerns, as the company was
+
+going through a major transition.
+
+When you’re on the road, you can call from airports, Ubers, or hotels
+
+or send messages when you’re waiting in lines or on trains. Even a
+
+ﬁve- to 10-minute conversation can increase your rapport and, most
+
+importantly, show that you care.

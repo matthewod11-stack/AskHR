@@ -1,11 +1,9 @@
-# Applied Sports Sciences, 1978, 3, 85-92.
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: 95d57c278ddcda5db45bda37724eb28b20e2462b
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# Athletic Administration. 1978, 13, 6-9.
 
-Cratty, B.J. Psychology in contemporary sport. Englewood Cliffs, N.J.: Prentice-Hall,
-
-1973.
-
-Danielson, R.R., Zelhart, P.F., & Drake, D.J. Multidimensional scaling and factor
-
-analysis of coaching behavior as perceived by high school hockey players. Research Quarterly, 1975, 46, 323-334.
-
-Fiedler, F.E. A theory of leadership effectiveness. New York: McGraw-Hill, 1967. Fleishman, E.A. A leader behavior description for industry. In R.M. Stogdill & A.E. Coons (Eds.), Leader behavior: Its description and measurement. Columbus: The Ohio State University, Bureau of Business Research, 1957. (a)
+Chelladurai, P., & Saleh, S.D. Preferred leadership in sports. Canadian Journal of

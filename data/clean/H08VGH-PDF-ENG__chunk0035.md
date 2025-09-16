@@ -1,9 +1,7 @@
-## collaboration, problem-solving, and a solid grounding in math transfer
-
-across jobs and help teams adapt to new challenges. The key to
-
-eﬀective human resource management is to prioritize these skills in
-
-both hiring and employee development. This builds a workforce that is
-
-resilient, quick to adapt, and prepared to thrive in a constantly evolving
+---
+source_path: H08VGH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3206b0de65a76585cb13f0a225b820fac49b9233
+title: H08VGH-PDF-ENG
+---
+## few years, foundational skills matter more than ever. Abilities like

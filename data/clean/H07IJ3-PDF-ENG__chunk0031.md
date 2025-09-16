@@ -1,9 +1,9 @@
-# RH
+---
+source_path: H07IJ3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7e1f3cb0f8a6dd9cd4cd64d525e0f2981a651dd
+title: H07IJ3-PDF-ENG
+---
+# DC
 
-Ryan P. Hanlon, PhD, is the president and CEO of National Council For Adoption. His research focuses on adoption and foster care. He is an adoptive parent.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Dawn S. Carlson, PhD, is a professor of management at Baylor University. Her research focuses on the work–family interface, work breaks, and remote working arrangements.

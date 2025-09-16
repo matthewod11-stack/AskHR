@@ -1,5 +1,7 @@
-## Implications for Decision-Makers and Organizations
-
-Our ﬁndings have implications for CEOs and top executives of ﬁrms,
-
-policymakers, and boards of directors. They can each take the following
+---
+source_path: H08LN0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9fef08ee8e3163048bedea46e63684fc1b1d0aaf
+title: H08LN0-PDF-ENG
+---
+# authorities.

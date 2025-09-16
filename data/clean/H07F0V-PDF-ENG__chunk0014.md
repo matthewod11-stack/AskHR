@@ -1,27 +1,23 @@
-# Be Authentic
+---
+source_path: H07F0V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54beea0e35869bde0c6b787b91dec0a1201b828d
+title: H07F0V-PDF-ENG
+---
+## phrases. Ellen Galinsky, president and founder of the Families and
 
-Your instinct might be to conceal what you’re feeling in an eﬀort to
+Work Institute in New York, warns that children might hear “I got ﬁred”
 
-protect the kids, but it’s actually healthy for them to talk about real
+and think of guns. She also points out that “laid oﬀ” doesn’t hold any
 
-emotions. As clinical psychologist Dr. Julie Futrell explains, they know
+meaning for most little kids.
 
-if what you’re telling them doesn’t match the emotions they are sensing.
+Older kids, however, have a more nuanced understanding of the
 
-When parents model honest emotions, kids have an opportunity to see
+implications of job loss. And don’t be surprised if they have a lot of
 
-mom and dad as human and to witness resiliency and healthy coping
+follow-up questions about how they will be impacted. At the same time,
 
-mechanisms. You should share what you’re feeling, why, and how you
+realize it might take a while for their questions to come out. Reassure
 
-are managing those feelings. So you might say, “Daddy feels really sad
-
-today. And it’s ok to feel sad. But I’m going to be alright and will do what
-
-it takes to get back to feeling happy.”
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+them their questions are welcome at any time.

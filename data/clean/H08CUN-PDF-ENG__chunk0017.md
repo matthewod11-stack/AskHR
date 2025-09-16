@@ -1,17 +1,23 @@
-# during our worst moments.”
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6be202dc5c7f0c94a8f366e2183fe0726491756
+title: H08CUN-PDF-ENG
+---
+## HBR / Digital Article / When Resentment Is Building on Your Team
 
-- If your colleague is a recreational complainer: When the griping
+- If your colleague leans more toward outspoken and irritable:
 
-is constant with no particular cause other than everyday work
+Probe the source of their frustration and resentment, Klotz says. Do
 
-frustrations, be gentle but ﬁrm, says Carucci. He suggests saying
+they want more development? A bigger role in decision making? Do
 
-something like, “You have high expectations and freely express them
+they feel neglected? Then, he says, think about what you can do to
 
-when they’re not met, but I worry the team will tune out if it happens
+help and how you might adapt your leadership style to better suit their
 
-too often. They might miss real concerns.” Then suggest they be more
+needs. Be compassionate, but not indulgent, says Carruci. Explain how
 
-selective when voicing complaints. Otherwise, their negativity risks
+colleagues perceive their behavior. “We don’t all have to be best friends
 
-spreading resentment to others. “A bad apple spoils the barrel,” says
+but we have expectations for treating one another with respect, even

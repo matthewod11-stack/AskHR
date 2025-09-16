@@ -1,7 +1,15 @@
-## Figure 4.4 Examples of situation-wanted ads
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 032e17b268f88506df871e5be3ac2a9a12df663b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# S
 
-120
+Perhaps the best use of television recruitment in the private sector has been by McDonald’s, whose television commercials show the fast-food chain to be the ideal place for retirees to work part-time. In addition to generating applicants, the commercials are an excellent public relations vehicle.
 
-chapter 
+An interesting twist in television recruiting was developed by Videosearch, a California-based employment agency. Videosearch’s -minute television program, entitled “Meet Your Next Employer,” is paid for by organizations that advertise their job opportunities. The cost for this service is about $, per minute for national exposure. A similar program, called “CareerLine,” is broadcast weekly on the Finan- cial News Network. Although television advertising sounds promising, it is an area that needs much more empirical investigation to determine its actual effectiveness. The potential advantage to using electronic media for recruitment is that % of Americans listen to the radio at least weekly, and the average person spends four hours a day listening to the radio compared with  minutes reading the newspaper (Joinson, ). Furthermore, different types of radio stations (e.g., rock, rap, classical, country, oldies, news) reach different types of audiences, and thus radio ads can be more easily targeted to the desired audience.
 
-Harris Trucking often advertises its openings for drivers on radio stations playing country music. The radio ads are used not only to recruit new drivers but to thank current drivers for doing such a good job (Gibson, ). In Ohio, Reserves Network, a job- placement firm, and WCLV-FM, a classical-music radio station, also have had great success using radio to recruit employees. In fact, WCLV found radio advertising to be its best method of recruiting minority appli- cants. In an innovative use of the media, Prudential Insurance advertised its job openings in film clips that ran in local movie theaters prior to the start of major motion pictures (Fernandez, ).
+employee selection: recruiting and interviewing
+
+119

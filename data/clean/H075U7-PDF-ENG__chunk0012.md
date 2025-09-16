@@ -1,19 +1,25 @@
-## of behavior governs many man-man relationships, both personal and
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c98cfe267dbc4422e87d3283751e15f9ccb8311
+title: H075U7-PDF-ENG
+---
+## outpace all other science, technology, engineering, mathematics, and
 
-professional, and perpetuates a sexist workplace culture, compelling
+medicine (STEMM) ﬁelds. Although women comprise the majority of
 
-men to support other men — including their bad behavior — at all costs.
+the healthcare workforce, the majority of healthcare leaders are men.
 
-We deﬁne the “good guy” defense as minimizing, excusing, or deﬂecting
+The academic medicine culture in particular is historically permissive
 
-the sexist or harassing behavior of a man by appealing to the utility
+of sexual harassment and bias perpetuated by men. More so, the
 
-of this commonly used phrase. In calling someone a “good guy” as
+atmosphere of repercussion and retaliation makes it challenging for
 
-an explain-away defense, men and medical institutions are oﬀering
+women to speak up. Research suggests that men do not condone sexist
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+behavior, but at the same time, they are reluctant to confront other
 
-2
+men. Reasons include a fear of the wimp penalty (being seen as a wimp
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or weak by other men) or of violating the bro code. This implicit rule

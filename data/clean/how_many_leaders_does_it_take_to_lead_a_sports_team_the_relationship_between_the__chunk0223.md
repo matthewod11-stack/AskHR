@@ -1,3 +1,27 @@
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 024f525cc0f15bf6a145b1fbaddf906213c68b77
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
 ## Athlete Leadership and Team Effectiveness
 
-which a limited leadership group takes the lead, an argument that the present study can corroborate.
+In sum, we can conclude that shared leadership within each leadership role is beneficial for
+
+the team’s effectiveness. This finding is aligned with previous research showing that having multiple leaders in a leadership role is related to a higher team cohesion, stronger collective efficacy beliefs, and higher team identification [15]. Furthermore, the results of this study also went beyond the scope of previous studies by including indicators of detrimental team func- tioning, such as role conflict and team conflict. Given the scarcity of research examining ath- lete leadership roles and their association with negative outcomes, these findings extend knowledge about leadership roles and their relationship with positive and negative indicators of team functioning.
+
+Ideal leadership structure across the three leadership roles. After identifying the ideal
+
+leadership structure within each leadership role, the next aim is to bring these findings together and investigate the ideal leadership structure across all leadership roles. In fact having a high number of leaders in one leadership role may imply that it would be better to have fewer leaders in the other roles. To provide an answer to this question, we created several com- binations of the leadership structures in the three roles, depending on the existence of either a high extent of shared leadership (two or three leaders) or a low extent of shared leadership (zero or one leader) in each of the roles.
+
+In general, the results showed that the teams that had a high number of leaders in each of the roles showed greater team effectiveness. More specifically, these teams reported higher role clarity, stronger task cohesion, collective efficacy, intention to continue, and better perceived performance, while reporting less role conflict, task conflict, and relationship conflict com- pared to other teams. These results contrast with earlier findings of Eys et al. [20], who found that teams that perceived a similar number of task, social, and external leaders on their teams (regardless of whether this number was high or low) were more satisfied with their team’s per- formance and team cohesion. Our study went more into detail and showed that, for every lead- ership role separately, having more than one leader may be preferable to having one or zero leaders. Therefore, it seems logical that the advantages of having a shared leadership structure within each leadership role (i.e., sharing the burden, more commitment, and higher identifica- tion) also holds for the structure across the three leadership roles.
+
+The present findings lead to two important conclusions. First, each of these leadership roles is essential for the team’s functioning, and having leaders in each of these roles is clearly better for the team’s effectiveness than having zero leaders. These results are in line with previous research that linked the fulfillment of these different leadership roles to outcomes such as team identification, team confidence, shared purpose, goal commitment, and, ultimately, also to measures of perceived and objective performance [12, 17].
+
+Second, the findings reveal that it is not only important to have leaders occupy the different
+
+leadership roles, but it is also important to share leadership responsibilities about a specific role with more than one player. In other words, coaches should strive for a structure of shared leadership, not only across, but also within each leadership role [12, 15]. It is important to note that the maximum number of observed leaders within a team was limited to two or three, depending on the role. This means that the results do not imply that every player in the team should adopt a leadership role. Instead, our findings argue for a hybrid model of shared leader- ship, with the leadership responsibilities for every role shared among a limited number of play- ers. The results are in line with previous research [19] suggesting that, on the one hand, the greater the number of leaders in each leadership role, the more leadership qualities the team will have, which will lead to more task, social, and external support for the other team mem- bers. On the other hand, having more leaders might also hinder role clarity and lead to role conflict, as “too many cooks might spoil the broth”. Therefore, authors argue for a structure in
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0218167 June 10, 2019
+
+16 / 22

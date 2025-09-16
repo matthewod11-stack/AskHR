@@ -1,17 +1,27 @@
-## The power of sustained focus and determination.
+---
+source_path: H05CAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db99087ba914280b85e5cd16ebc7297d36824956
+title: H05CAR-PDF-ENG
+---
+# HBR / Digital Article / How One Person Can Change the Conscience of an Organization
 
-It’s easy to say, “This will take some doing; I’ll think about it later.”
+chance you have, even if small, to hone your skills of challenging the
 
-Combined with an unconscious “This could be dangerous for my
+status quo for the greater good. Train your “courage for challenging
 
-career,” it can be easy for tough challenges to gradually slip from focus.
+convention” muscle consistently, so that it’s ready when needed. At
 
-Over time the unacceptable can become the norm, and the energy
+GSK, he ﬁrst invited the input of his team, ultimately resulting in the
 
-for change dissipates. But Yamada didn’t accept the unacceptable; his
+plan to convert the Tres Cantos laboratory to a “not for proﬁt” disease
 
-focus and determination were well honed. He emigrated from Japan
+focus. He did not wait for someone else to speak out ﬁrst, or for a
 
-as a teenager and entered the demanding ﬁeld of medicine. Along
+committee to be formed to study the issue. He had built the skills to
 
-the way he took up marathon running and edited a seminal 3440-
+quickly recognize the problem, and also to advocate for a better way—a
+
+way GSK could become a leader in the ﬁght against diseases that might
+
+not be proﬁtable but would help countless individuals in dire need.

@@ -1,39 +1,29 @@
-## HBR / Magazine Article / The Power of Options
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 66c11fb625f542bfdbba8e9e46f187c1788bb015
+title: R2301H-PDF-ENG
+---
+# approach.
 
-Don’t Lean, she could take a moment to breathe, which could help her
+“But I need to be authentic,” she countered.
 
-neutralize her activation by the CEO and keep a clear head. We were all
+“Of course,” we responded, “but you can use other stances while still
 
-surprised that asking about Lean With was what pivoted Isobel into a
+being true to yourself.”
 
-new way of operating. Drawing on Harvard Business School professor
+We went through the stances one by one. In situations in which Lean
 
-Amy Edmondson’s groundbreaking work on psychological safety, we
+In was the best choice, she saw that she could be more skillful by
 
-asked, “What if your job at the board meeting was to make the CEO and
+better calibrating the intensity of her remarks. If she could learn to
 
-directors feel safe?”
+Lean Back and not rush into conﬂict, she could slow down her reactions
 
-Isobel immediately embraced that approach, which appealed to
+and be more strategic about when she would engage. If she applied
 
-her protective side. She spontaneously started thinking through the
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-implications. Supporting the CEO would probably help him calm down
+5
 
-and make the meetings less painful for everyone. In the Lean With
-
-stance, she could also tolerate his contradictions by understanding
-
-that his ﬁrst reaction wasn’t always his ﬁnal word. She decided that
-
-she would enthusiastically support his comments when they were
-
-in alignment with the executive committee’s assessment and refrain
-
-from reﬂexively challenging him when he veered oﬀ course, unless
-
-the board was close to a vote on that recommendation. After adopting
-
-this approach, her reputation with the board skyrocketed. She became
-
-known as a leader who made peace rather than war.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

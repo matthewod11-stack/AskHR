@@ -1,15 +1,13 @@
-# needs.
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bebbeb23f8ac6fdc2c0889924c31c2a95083357d
+title: H07BT4-PDF-ENG
+---
+# ideas.
 
-SAGE asked sellers to propose modiﬁcations to SAGE’s product set.
+SAGE, an academic publishing company, took a seller empowerment
 
-First, sellers drafted an initial product brief linking the new proposed
+approach rooted in these principles to address seller frustration and
 
-oﬀering to an unmet client need. Next, cross-functional partners
-
-worked with the seller to vet and further develop the proposal. High-
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+disengagement arising from the inability to meet customer product

@@ -1,17 +1,23 @@
-# hypothesis-driven in pursuit of a goal.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0f4476589ca462c140c68186cb276d6ce476795
+title: H07QOV-PDF-ENG
+---
+## discovery of dramatic diﬀerences across groups, even within the same
 
-But so is a really bad blind date. That’s intelligent failure. Maybe your
+organization, and their willingness to speak up about things that go
 
-friend thought you’d like each other. You are willing to go out and have a
+wrong rather than just things that go right.
 
-coﬀee. Smallest possible new territory in pursuit of a goal, all the rest. So
+Here’s the challenge more broadly than just people not necessarily
 
-a bad blind date and a failed clinical trial are clearly apples and oranges,
+speaking up: the category of intelligent failure covers vast territory.
 
-yet they both qualify under the category.
+I think the metrics have to be tailored to the context — and let me
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+illustrate vast territory. A well-run clinical trial on a new cancer drug is an intelligent failure when it turns out it doesn’t have the eﬃcacy that
 
-12
+we hoped. It was in new territory. There was no other way to ﬁnd out but
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to do a clinical trial. It’s the right size, it’s no bigger than it has to be. It’s

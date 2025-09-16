@@ -1,3 +1,9 @@
-# of Management Journal, 37, 656-669.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: a95abfd1adba8f343fe8aa57b7bb7ac374b2d5e7
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Psychological Measurement, 60, 301-313.
 
-Korsgaard, A. M., Brodt, E. S, & Whitener, M.E. (2002). Trust in the face of conflict: The
+Konovsky, M. A., & Pugh, S. D. (1994). Citizenship behavior and social exchange. Academy

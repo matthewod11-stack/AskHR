@@ -1,5 +1,9 @@
-# Rating 2 3 4
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 0fc37dbd36d3856f757c8cfab27227df8d86be59
+title: document_resume
+---
+# B INSTRUCTION
 
-5
-
-1 Schedule and Attendance 2 Method of Instruction 3 Presentation of Instruction 4 Student Evaluation 5 Pre and Post Clinical Conferences (Nursing) 6. Clinical Instruction (Nursing)
+(50%)

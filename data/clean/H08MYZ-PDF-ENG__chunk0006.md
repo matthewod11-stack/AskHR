@@ -1,15 +1,29 @@
-## building, decision-making, personalization, inﬂuence, and stakeholder
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ab21dae0f9a8ee0cc8e32ccdf4f5699b772eb1d
+title: H08MYZ-PDF-ENG
+---
+## surfaces to the top of the candidate pool.
 
-alignment. Identifying your skills outside of what can be automated will
+Change your narrative.
 
-help you clearly articulate how your capabilities can complement or
+When updating your resume, develop a strong narrative that shows
 
-even enhance new technologies as they proliferate your ﬁeld.
+recruiters and hiring managers your unique, AI-resistant capabilities.
 
-As AI and automation advance, you may need to adapt your expertise
+Start by mapping out your current work. Determine which tasks might
 
-to emerging ﬁelds. To understand what job and industry may interest
+soon be accomplished through AI and automation or whether your
 
-you, start by reﬂecting on what excites you about your current role.
+entire job could become obsolete.
 
-Going back to the investment analyst example, maybe you enjoy the fast
+For example, some big banks have said they’re looking to automation
+
+to replace much of junior investment analysts’ work. Therefore,
+
+current investment analysts may need to pivot within the ﬁnance
+
+sector to a new role by developing skills technology will likely never
+
+master: work that requires a human touch, such as relationship-

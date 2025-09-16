@@ -1,41 +1,25 @@
-# HBR / Digital Article / When You Want to Be Hybrid, But Your Boss Wants You in the O…
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c46257f9c71d06d7729838fbb569950f30cf0421
+title: H07Z4W-PDF-ENG
+---
+## skip manager), clients and customers, and your colleagues in Human
 
-insights signals you’re operating as an inclusive team player who’s
+Resources to learn their perspectives on the upsides and downsides of
 
-committed to the company’s success and growth.
+hybrid schedules. Gathering insights from the research and data that
 
-- Take care when crafting your questions. Psychologists sometimes
+your company may be using to inﬂuence work-from-home policies
 
-refer to “why” questions as philosophical and theoretical — an avenue
+will also help you build your business case for a shift to hybrid work.
 
-to discourage learning and keep us in the past. An alternative question
+Be sure to understand the CEO’s stance and plans around in-person,
 
-like “how come” may invite a less threatening, more solution-focused
+remote, and hybrid work. Being mindful of various perspectives and
 
-dialogue. Try to use words that prompt an emotional response,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-like “feel” or “thoughts.” You could ask, “How do you feel about
+3
 
-my productivity when working remotely?” If your manager voices a
-
-concern, you can ask, “What are your thoughts on how I might address
-
-this?” Or, better yet, proactively suggest a solution.
-
-- Finally, rewire yourself to listen and repeat. Your thoughts about
-
-your manager or coworkers may be clouded, especially if there’s
-
-tension or if you’ve worked with them for a long time. If that’s the case,
-
-you’ll need to be intentional about not letting your biases distort your
-
-understanding of a situation. Summarize what you’re hearing from
-
-others with phrasing like, “So what I’m understanding is…” or “What
-
-I hear you saying is…” By listening closely and repeating what you
-
-hear, you’ll increase the likelihood of being on the same page, be better
-
-prepared to empathize, and be able to go into future conversations
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

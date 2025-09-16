@@ -1,24 +1,27 @@
-### **[5. From performance management to potential maximization]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: 8367b6ed3a6509355d3b631d6263bafabf0ced75
+title: Gibbons
+---
+### **[4. From hierarchical authority to network influence]{.underline}**
 
-[We\'ve spent a century optimizing human performance. Time and motion
-studies. KPIs. Productivity metrics. Efficiency ratios.]{.underline}
+[Traditional org charts assumed knowledge flowed downward. Seniors knew
+more. Experience meant expertise. Authority came from
+position.]{.underline}
 
-[AI makes all of this less relevant. It will always be more efficient,
-more consistent, more scalable than humans at defined
-tasks.]{.underline}
+[AI destroys this assumption. When a junior employee with AI can
+outperform a senior executive\'s analysis, what happens to
+hierarchy?]{.underline}
 
-[But here\'s what AI systems can\'t do yet: dream beyond its training
-data. Feel genuine inspiration. Make leaps of illogical brilliance. Care
-deeply about outcomes. Find meaning in struggle.]{.underline}
+[It evolves into something radically different. Influence without
+position emerges in liquid, project-based structures. Credibility comes
+through your contribution and the ability to find yourself in the right
+places with the right problems where you can shine, not just title.
+Leadership becomes a matter of orchestration, not command of
+resources.]{.underline}
 
-[This demands a fundamental shift from managing performance to
-maximizing human potential. Stop measuring efficiency; start measuring
-innovation. Stop optimizing productivity; start unleashing creativity.
-Stop standardizing output; start celebrating uniqueness. Stop managing
-tasks; start cultivating genius.]{.underline}
-
-[The new performance paradigm isn\'t about doing more - it\'s about
-becoming more. It\'s about creating environments where human brilliance
-complements artificial intelligence, where people do what only humans
-can do, where potential is maximized rather than productivity
-measured.]{.underline}
+[You\'re no longer leading humans alone. You\'re leading hybrid Human-AI
+teams where the AI might be the smartest participant in the room. Your
+value isn\'t in being the expert - it\'s in being the integrator, the
+sense-maker, the wisdom-keeper.]{.underline}

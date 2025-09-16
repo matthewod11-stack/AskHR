@@ -1,3 +1,7 @@
-# A Textbook of Industrial Psychology
-
-- 4. Continuous Learning: Organizations that invest in employee development and provide opportunities for learning and growth tend to have more engaged teams. Employees appreciate organizations that prioritize their professional development.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: 23ac89218a62f889aeff52c4a96676a69492fa5d
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# 61

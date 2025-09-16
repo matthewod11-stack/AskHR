@@ -1,5 +1,13 @@
-# The Office of Strategy Management
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cabb83c835941a970b074a2b3bdac88bbdaf5305
+title: R0510D-PDF-ENG
+---
+# Communicate strategy.
 
-of its communication responsibilities, the OSM must cooperate with HR to ensure that education about the scorecard and its role is included in employee training programs.
+harvard business review • october 2005
 
-Strategic ini- tiatives—such as a TQM program or the im- plementation of CRM software—are discre- tionary programs that help companies accomplish strategic objectives. The executive team typically identiﬁes these initiatives as part of its annual planning process, although new initiatives may arise throughout the year. Ideally, the entire portfolio of such initiatives should be assessed and reprioritized several times annually. The screening, selection, and management of strategic initiatives are what drive change in the company and produce re- sults. Our experience suggests that such initia- tives should be managed separately from rou- tine operations. Typically, they are managed by the units most closely associated with them (a CRM project, for instance, is best managed
+page 7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

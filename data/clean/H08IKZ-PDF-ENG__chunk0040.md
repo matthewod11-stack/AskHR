@@ -1,17 +1,27 @@
-# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 47b210882b1a4826a192b30cc1b1962e29059130
+title: H08IKZ-PDF-ENG
+---
+# regulators.
 
-acknowledging and fostering experiential learning and having decision
+For example, Toyota’s “Genchi Genbutsu” philosophy, meaning “go
 
-markers participants reﬂect on questions like:
+and see for yourself,” encourages managers to visit the shop ﬂoor to observe processes ﬁrsthand. This practice helps identify ineﬃciencies
 
-- What was my initial reaction or gut feeling?
+and fosters a deeper understanding that data alone cannot provide.
 
-- Where did I rely on individual or collective experience?
+Make implicit human decision-making skills explicit.
 
-- Where did I supplement my experience or expertise?
+Human decisions are often shaped by intuition — our powerful,
 
-- What mental shortcuts did I rely on to simplify the decision?
+unconscious intelligence that’s based on our experience and heuristics.
 
-Another uniquely human skill is imagination — the ability to come up
+Companies can help employees develop their intuition through
 
-with what does not yet exist, but could. While often believed to be the
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

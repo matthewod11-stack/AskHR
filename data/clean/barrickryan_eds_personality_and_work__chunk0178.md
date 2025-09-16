@@ -1,3 +1,9 @@
-# Negative Feedback and Failure
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: d792f733ac00f2b20c4bd8fab928313f747c2e60
+title: barrickryan_eds_personality_and_work
+---
+# THE HAPPY WORKER 49
 
-Happy workers are more likely to feel self-conﬁdent and persist in their efforts, even in the face of failure. Jobs vary in the extent to which individuals are likely to experience failure or receive negative feedback. For jobs where such feedback is frequent, happy workers may be more resilient and persistent than unhappy workers. For ex- ample, trial lawyers regularly face situations that have a clear winner and a clear loser. Lawyers who can persist in spite of the potential for failure and the actual experience of failure will be more likely to succeed in the future. Whenever jobs have the potential for frequent experience of failure or negative feedback, happy workers may have an advantage over unhappy ones. Where there is little of this feed- back, happiness and self-conﬁdence may have little beneﬁt.
+Interestingly, it may often be the case that for the same task, in- creased sociability may be both beneﬁcial and detrimental at the same time. Happy sales employees probably beneﬁt from increased likeability and greater sensitivity to the needs of their customers, but their greater feelings of helpfulness and sociability may also prevent them from making self-serving deals that are in the best interest of the organization. Similarly, happy technical support staff working for computer software or hardware companies may pro- vide a more pleasant experience for customers seeking help, but these same workers may spend more time chatting, resulting in a less efﬁcient process. In this case, two measures of employee pro- ductivity, customer satisfaction and amount of time spent per call, may conﬂict. It is unclear which measure will be affected more by differences in happiness, and therefore it is essential that re- searchers pay careful attention to the speciﬁc measures of pro- ductivity that are used, along with the speciﬁc mechanisms that lead to higher or lower productivity for the happy worker.

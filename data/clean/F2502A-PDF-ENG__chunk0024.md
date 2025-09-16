@@ -1,19 +1,17 @@
-## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a8da7eebfe651210b9199f9aa2506a5788cff33
+title: F2502A-PDF-ENG
+---
+# to measure and remeasure accuracy and
 
-How have you asked your team to invest the extra time?
+security. However, every role and task has
 
-To better understand and serve our customers. By automating data
+benefited from gen AI.
 
-analysis, we can quickly gain insights into their preferences and behaviors.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-For example, AI helps us analyze customer interactions and feedback,
+5
 
-allowing us to tailor our products and services to their needs better. This
-
-has improved customer satisfaction and loyalty. We never would have been
-
-able to do it as well without gen AI.
-
-What has gen AI helped you learn?
-
-Customers, especially small-business owners, are particular about the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

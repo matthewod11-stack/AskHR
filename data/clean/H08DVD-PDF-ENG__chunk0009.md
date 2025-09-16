@@ -1,27 +1,13 @@
-## HBR / Digital Article / Research: The Long-Term Costs of Layoffs
+---
+source_path: H08DVD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 733dab1c6ab3ac531a4123dad65037a59584871e
+title: H08DVD-PDF-ENG
+---
+# layoﬀ rounds.
 
-High employee engagement prior to layoffs won’t protect you from the negative impact of doing layoffs.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-In fact, the higher your employee engagement is to start, the more likely
+2
 
-it is to plummet after layoﬀs, and the less committed your employees
-
-will be to staying with the business. The largest declines were from
-
-companies scoring in the top 10% prior to the layoﬀs. However, for some
-
-companies where employees were less engaged and committed to begin
-
-with, a layoﬀ can be perceived as addressing structural and systemic
-
-problems within the organization and can actually boost commitment.
-
-See more HBR charts in Data & Visuals on HBR.org.
-
-Recovery takes time.
-
-Our 2020–2022 research found it took 12–18 months for engagement to
-
-rebound after layoﬀs. And for 2023 layoﬀs, the recovery is looking even
-
-longer, at 18–24 months, and that’s only if you hire new employees to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,27 +1,13 @@
-# HBR / Digital Article / Why Some of Your Salespeople Are Dragging — and How to Fix It
+---
+source_path: H07BT4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e80a2b0925b537d7b4a3a7a2e55934e55f307fcd
+title: H07BT4-PDF-ENG
+---
+## career exploration feels reputationally risky.
 
-To address these concerns, FedEx changed how they structured their
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-seller leadership academy. Under the new program, selected applicants
+6
 
-could test drive a management role before fully committing, with
-
-no penalty for opting out and remaining in a frontline sales role.
-
-Unselected applicants were provided with supplemental development
-
-opportunities and individual coaching to help position them for success
-
-in the next application cycle, further mitigating perceived risk.
-
-FedEx didn’t limit program eligibility to a hand-selected few. Instead,
-
-they changed how they identiﬁed leadership academy candidates:
-
-Rather than requiring nomination from a manager, sellers could
-
-now signal their career aspirations and commitment by applying
-
-independently. According to FedEx’s European Sales VP, the Sales
-
-Leadership Academy (SLA) has been a valuable tool for the next
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,11 @@
-## personalidades destacadas. O objetivo, ao optar-se por tal estratégia, foi o de
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: a998ace9154aad7df053d2ceebc166b65e77b231
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## este tipo de entrevista é frequentemente realizada com informantes-chave, que
 
-garantir que a própria entrevistada encontrasse abertura para trazer assuntos não
+podem ser especialistas no tema em estudo,
 
-mapeados pela pesquisadora, expandindo a pesquisa e possibilitando, por vezes,
+líderes formais ou informais e

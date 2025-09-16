@@ -1,13 +1,7 @@
-# Part II • System Implementation
-
-- helping and cooperating with others (e.g., assisting and helping coworkers and customers)
-
-- following organizational rules and procedures (e.g., following orders and regula- tions, showing respect for authority, complying with organizational values and policies)
-
-- endorsing, supporting, and defending organizational objectives (e.g., organizational loyalty, representing the organization favorably to outsiders)
-
-Both task and contextual performance are important dimensions to take into account in performance management systems. Imagine what would happen to an organization in which all employees are outstanding regarding task performance but do not perform well regarding contextual performance. What if a colleague whose cubicle is next to yours needs to take a bathroom break and asks you to answer the phone if it rings because an important client will call at any moment? What if we said, “That is not MY job?”
-
-Many organizations now realize that there is a need to focus on both task and contextual performance because organizations cannot function properly without a minimum dose of positive contextual behaviors on the part of all employees. Consider the case of TRW Automotive Inc., one of the world’s 10 largest automotive suppliers and one of the top financial performers in the industry (http://www.trw.com). TRW had 2006 sales of $13.1 billion and employed approximately 63,800 people. With increasing market pressures and sluggish growth, TRW wanted to become more performance driven, experiment in new markets, and offer greater value to its share- holders. To do so, the senior management team developed what they labeled the “TRW behaviors.” These behaviors are communicated throughout the company and have a prominent role in the performance management process. The majority of the TRW behaviors actually focus on contextual performance. Specifically, the TRW behaviors emphasize many of the elements of contextual performance, including teamwork and trust.
-
-Table 4.2 summarizes the main differences between task and contextual perform- ance. First, task performance varies across jobs. For example, the tasks performed by an HR manager are different from those performed by a line manager. The tasks performed by a senior HR manager (i.e., more strategic in nature) differ from those performed by an entry-level HR analyst (i.e., more operational in nature). On the other hand, contextual performance is fairly similar across functional and hierarchical levels. All employees, regardless of job title, function, and responsibilities, are equally responsible for, for example, volunteering to carry out task activities that are not formally part of the job. Second, task performance is likely to be role prescribed, meaning
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 1059c92335e4d7e6ab839e8ff40b662f96ffb708
+title: performance_management_3rd_edition_by_aguinis
+---
+# 92

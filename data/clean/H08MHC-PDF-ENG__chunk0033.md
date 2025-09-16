@@ -1,21 +1,17 @@
-# regulatory action?
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 689aa2c27e682277708340f6c6a1c9a109d9c617
+title: H08MHC-PDF-ENG
+---
+# HBR / Digital Article / Design Your Transformation for Simplicity — Not Efficiency
 
-When these less-than-ideal and uncommon scenarios inevitably occur, a one-size-ﬁts-all workﬂow means staﬀ must ﬁgure out how to deal with
+Uncommon scenarios might be infrequent, but that’s precisely why they
 
-the complexity of the work. Those complexities can be technical (what’s
+tend to add more complexity than common ones. What if a mandatory
 
-the right way to do this?) or worse, organizational (what’s the right way
+sustainability metric applicable to the vast majority of suppliers isn’t
 
-to do this given multiple stakeholders and their competing priorities,
+applicable to a handful of them? What if a waiver can’t be granted? What
 
-existing policies, budget limitations, etc.?).
-
-With designed simplicity, time and energy is spent on comprehensive
-
-completeness up front. Situational ambiguity is engineered out of the
-
-process by developing workﬂows that cover all reasonably foreseeable situations so staﬀ can easily navigate the less-common and less-
-
-than-ideal circumstances that will inevitably arise, even if they are
-
-encountered very soon after implementation.
+if the supplier’s sustainability practices are the subject of litigation or a

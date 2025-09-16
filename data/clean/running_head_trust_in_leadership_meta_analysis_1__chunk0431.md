@@ -1,11 +1,17 @@
-# Effect .63**
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: e58115f69108864af88c8d9ceac6221a076dd422
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# ΔR2 Baseline = .49
 
-.50** .37**
+.06 (11%)
 
-.40** .42**
+.06 (11%)
 
-.59** .22**
+.06 (11%)
 
-.34** .40**
+.05 (9%)
 
-- .16** .54**
+.00 (0%)

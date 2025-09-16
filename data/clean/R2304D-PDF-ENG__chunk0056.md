@@ -1,13 +1,13 @@
-## HBR / Magazine Article / The Labor-Savvy Leader
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48d26f73d13ee5834f41cc135babef3ffca9c739
+title: R2304D-PDF-ENG
+---
+# teams at the plant level.
 
-Bargaining is emotional, and flare-ups on both sides are common. Expect this. Tolerate some of it. But call out personal attacks that violate the norms you agreed to at the outset.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-Companies achieve the best returns on investments in new technology
+12
 
-when they merge implementation with complementary changes in work
-
-processes, employee training, and worker input. Labor can help with
-
-this, too. The United Brotherhood of Carpenters union, for example, has
-
-created an expansive training center in Las Vegas that oﬀers courses to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

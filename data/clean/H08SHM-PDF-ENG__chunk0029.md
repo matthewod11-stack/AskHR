@@ -1,23 +1,17 @@
-## HBR / Digital Article / What Gets Measured, AI Will Automate
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f859b70f1ba7a5000c8ddc61f85a51fc8b16ab1b
+title: H08SHM-PDF-ENG
+---
+## card fraud, algorithmic market-making, jet-engine prognostics.
 
-beside the sensors, trimming bandwidth and latency, while synthetic
+But AI now slashes the cost of precise measurement, making
 
-data ﬁlls gaps when the real world is slow or awkward to capture.
+continuous, ﬁne-grained sensing the default. Lightweight models run
 
-Each extra decimal place quickly pays for itself: tiny error cuts
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-multiplied across millions of AI-driven decisions add up fast. As precise
+5
 
-measurement gets cheaper, ever-slimmer beneﬁt streams pencil out,
-
-and tasks once too minor to monitor slide into the automation net.
-
-Not only may we soon have intelligence too cheap to meter, we’ll also
-
-be measuring ever more of the world to expand—and continuously
-
-upgrade—what that intelligence can reach. We already live in the era
-
-of “artiﬁcial-metrics intelligence,” where anything we can quantify is
-
-swiftly queued for automation.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

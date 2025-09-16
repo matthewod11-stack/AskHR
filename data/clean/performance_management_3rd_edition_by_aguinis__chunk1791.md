@@ -1,3 +1,15 @@
-## 10.7 PERFORMANCE MANAGEMENT AND THE LAW34
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: ddca1d230d6d15975b5e6661e7c356a1f2d17006
+title: performance_management_3rd_edition_by_aguinis
+---
+## Part IV • Reward Systems, Legal Issues, and Team Performance Management
 
-Although we have not discussed legal issues in depth, several chapters have touched upon how to design and implement performance management systems to be fair and acceptable. Usually performance management systems that are fair and acceptable to employees are also legally sound. A basic principle that guides the design of a fair system is the application of standardized procedures to all employees. In other words, when the rules and procedures are known by everyone, and they are applied in the same way to everyone, the system is likely to be regarded as a fair one. This is also the basic principle that underlies the implementation of performance management systems that are legally sound. Legislation and court cases in the United States, the United Kingdom, and many other countries around the world indicate that discriminatory effects of a performance management system can be minimized by applying this basic principle: Treat everyone in exactly the same way. Unfortunately, this does not happen very often. As a consequence, there has been a 100% increase in the number of employment discrimination cases filed in the United States from 1995 to 2005, and many of these cases have involved issues around the design and implementation of the performance management system.35
+for a total of not more than five bands that would include all jobs, from security guards to professors to university president.
+
+Broad banding has become increasingly popular worldwide. For example, a survey distributed to 193 organizations by the Institute of Personnel and Development (IPD) showed that broad banding is the most commonly used pay structure.33 This same survey indicated that the foremost reason for implementing broad banding is that it provides more flexibility in rewarding people. Other rea- sons include the need to reflect changes in organizational structure, to provide a better base for rewarding growth in competence, to devolve more responsibility for pay decisions to managers, and to provide a better basis for rewarding career progression.
+
+The fact that so many organizations are embracing broad banding to design their pay structures is reflective of changes in the nature of work. Because of the democratization of information produced by the Internet, workers can gather data about what other organizations are paying employees with similar skills and experi- ence. Those workers who believe that they are underpaid can try to find work elsewhere. Organizations cannot afford to lose their most competent workers, and having a pay structure based on broad banding allows salary increases for individuals based on merit that do not require a change in job classification or even job title. In addition, organizations are becoming flatter and less hierarchical, and broad banding reflects these organizational changes. Because of this, the IPD report concluded that “whatever the many forms broad banding takes, it seems to be here to stay.”
+
+So far, this chapter has discussed the relationship between performance manage- ment and reward systems. Next, we turn to a different topic: the relationship between performance management and the law.

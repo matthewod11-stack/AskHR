@@ -1,3 +1,9 @@
-## Available at: https://cloud.google.com/model-garden.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 406766675053e894e60485db046dda889d3f6eab
+title: agents_companion
+---
+## Available at: https://cloud.google.com/apigee/docs/apihub/what-is-api-hub.
 
-- 36. Gemini family of LLMs, product documentation.
+- 35. Vertex AI Model Garden, product documentation.

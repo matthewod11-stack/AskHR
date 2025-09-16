@@ -1,13 +1,9 @@
-# effective review of the
+---
+source_path: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research.md
+pages: n/a-n/a
+chunk_id: 6742681a04e78023b947f64e1e0386bcec9588e1
+title: hthompson_unomaha_edu_doi_10_12806_v19_i3_r2_july_2020_research
+---
+# organizational
 
-literature before setting out
-
-to better frame the experience of inclusion as it is
-
-aided and developed by leadership. They go beyond
-
-their previous work to introduce a new model that
-
-represents an inclusive organization. As a review and
-
-theory building article, this work also provides a more
+framework. The article provides an

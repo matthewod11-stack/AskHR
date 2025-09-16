@@ -1,7 +1,7 @@
-## What We Learn from Natural Language Personality Descriptions
-
-The majority of lexical studies of personality descriptors have sought to test the most widely inﬂuential personality model of the past two decades: the Big Five factor structure (Goldberg, 1990, 1993b; John, 1990). The Big Five factors are customarily labeled Extraversion, Agreeableness, Conscientiousness, Emotional Sta- bility (or its opposite, Neuroticism), and Intellect (or, in one in- ventory representation, Openness to Experience). There were signs of the Big Five structure in some studies from an earlier era (as detailed by Digman, 1990; Goldberg, 1993b; John, 1990), but its identiﬁcation in studies of natural language descriptors in En- glish (Goldberg, 1990) was decisive.
-
-If we value cross-cultural generalizability, however, applicability to one language is not enough. As detailed in more lengthy reviews (Saucier & Goldberg, 2001; Saucier, Hampson, & Goldberg, 2000), lexical studies have yielded structures resembling the Big Five most consistently in languages originating in northern Europe, includ- ing German (Ostendorf, 1990) and Polish (Szarota, 1996), as well as English. Although a study in Turkish (Goldberg & Somer, 2000) also found a structure with much resemblance to the Big Five, stud- ies of other non–Northern European languages (Church, Katigbak, & Reyes, 1998; Church, Reyes, Katigbak, & Grimm, 1997; Di Blas & Forzi, 1998; Szirmák & De Raad, 1994) have led to results that are less clearly supportive. And because a majority of studies have re- lied exclusively on self-report, the degree of generality of the Big Five in peer ratings is less certain than for self-ratings.
-
-To this point, lexical studies have revealed a great deal about the relative robustness of the Big Five, as well as information about other less well-known candidate models, including some with fewer and some with more factors. We examine the most consistent ﬁndings from lexical studies to date by describing models with successively more factors.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f995655c986a0418eaee5ee6afda37c7ea5cec3a
+title: barrickryan_eds_personality_and_work
+---
+## THE STRUCTURE OF PERSONALITY ATTRIBUTES 7

@@ -1,11 +1,11 @@
-## productivity, eﬃciency, and proﬁtability.
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aee681e01d94594c7c1ef30f5086f4db072649c9
+title: H077VU-PDF-ENG
+---
+# Westend61/Getty Images
 
-Nothing could be further from the truth. A wealth of studies reveal
+At ﬁrst glance, workplace friendships can seem trivial — a nice
 
-that by fueling our basic human psychological need for belonging,
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to have that’s distinct from traditional organizational objectives like

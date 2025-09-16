@@ -1,9 +1,9 @@
-# yourself the following questions.
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0283d67a7cf244642730e3d0a59b1a546575b854
+title: H08IWP-PDF-ENG
+---
+# Questions to Ask
 
-First, would it be diﬃcult to substitute your stakeholders? If their contribution is diﬃcult to replace, that speaks to how important they
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+To assess how necessary these three mechanisms are for you, ask

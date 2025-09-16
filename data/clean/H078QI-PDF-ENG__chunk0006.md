@@ -1,5 +1,21 @@
-# on-one meetings with female colleagues.
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70f8fbfc0ebc14465d43a66dc6fa28f4844855aa
+title: H078QI-PDF-ENG
+---
+## representation in leadership positions for Black, Latine, and Asian
 
-It isn’t only people from privileged groups that contribute to backlash,
+employees of all genders, and white women, due to resistance
 
-either. When the “diversity” of candidates is mentioned as a reason
+from existing leaders. Backlash is well-documented in response to organizational equity eﬀorts like aﬃrmative action policies, as well as
+
+broader equity-related social movements. In what has since been called
+
+the “#MeToo Backlash,” a 2019 survey following up on the impact of
+
+the #MeToo movement found that 19% of men were less willing to
+
+hire attractive women, 21% were less willing to hire women for jobs
+
+involving close interpersonal interactions, and 27% now avoided one-

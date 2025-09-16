@@ -1,13 +1,11 @@
-# children at home.
+---
+source_path: H0866R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b297161b2b3e62fd4b8f27cd58bd8b4cf797da67
+title: H0866R-PDF-ENG
+---
+# Juan Moyano/Stocksy
 
-Now, with both kids in school and sports, and with hybrid work setups
+It’s been nearly four years since we ﬁrst met Amir and Ria as they
 
-and increased work travel, Amir and Ria have been trying to establish
-
-a routine that works. Despite their eﬀorts, they’ve been feeling like
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+were navigating the early months of Covid with two jobs and two young

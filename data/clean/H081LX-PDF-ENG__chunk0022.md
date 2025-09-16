@@ -1,31 +1,29 @@
-## HBR / Digital Article / 3 Ways Humility Can Undermine Your Leadership
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 556af8de353b8412bb2ac1e33f5c24fd68cc4209
+title: H081LX-PDF-ENG
+---
+# employees.
 
-respond with: “Thank you. I’m proud of what we have achieved. It was a
+When you’re seen as a successful and powerful force in the organization,
 
-collective eﬀort, and I want to highlight my team members’ innovative
+you’re far more likely to persuade others to support your agenda —
 
-approach that signiﬁcantly contributed to our success.” This way, you
+and you can ease the path for both ideas and staﬀ that you care
 
-acknowledge your role in the achievement while also uplifting your
+about. This requires ﬁnding the right balance between humility and
 
-team members’ contributions.
+conﬁdence. Research suggests that dual-promotion, in which you
 
-- 3. You may be limiting your team’s development.
+compliment a colleague, peer, team, or competitor while also sharing
 
-Humble leaders often perceive themselves as equals with their team in
+your own accomplishments, can be a powerful strategy. For instance,
 
-the trenches. They live by the ethos that their time is not more precious
+when you’re recognized for leading a successful project, you might
 
-than their colleagues’ time, and they worry that delegating could be
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-seen as oppressive or demotivating. This belief stems from a fear of
+4
 
-imposing on their team, but it can paradoxically stiﬂe their growth and
-
-development opportunities. Excessive modesty can prevent you from
-
-eﬀectively delegating tasks, leading to an unsustainable workload and
-
-eventual burnout. True humility in leadership means acknowledging
-
-your team’s capabilities and ensuring that you’re leveraging them
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,27 @@
-# HBR / Digital Article / Research: A Better Way to Keep Tabs on Your Remote Workforc…
+---
+source_path: H08MJK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18871ed56b54ed7a97025071bdce3d6ac4cb8079
+title: H08MJK-PDF-ENG
+---
+## trust and suppress communication, interactional monitoring builds
 
-Chase Thiel, Ph.D., is the Rile Chair of Leadership and a Full Professor of Management at the University of Wyoming. His research focuses on workplace ethics and leadership, examining the causes of unethical behavior, methods to foster ethical practices, and the role of ethical leadership.
+relationships, fosters collaboration, and encourages remote employees
 
-Sana Zafar, Ph.D., is an Assistant Professor of Management at the Parker College of Business, Georgia Southern University. Her research interests focus on gender issues, cognition, and behavior within the ﬁelds of organizational behavior and entrepreneurship.
+to speak up. In today’s remote work environment, managers have the
 
-Jeffrey LePine, Ph.D., is a Professor and the PetSmart Chair in Leadership at the W. P. Carey School of Business, Arizona State University, and a fellow of the Academy of Management, American Psychological Association and the Society for Industrial and Organizational Psychology. His research focuses broadly on the functioning and eﬀectiveness of individuals and teams in challenging work contexts.
+opportunity to rethink how they monitor their teams. By prioritizing
 
-Michael Wesson, Ph.D., is the Luck Professor and Associate Dean of Graduate and Executive Programs in the Harbert College of Business at Auburn University. His research focuses on organizational justice, leadership, and organizational entry (employee recruitment, selection, and socialization).
+trust and dialogue over passive surveillance, they can create a workplace
+
+where employees feel empowered to share their best ideas.
+
+This article was originally published online on February 12, 2025.
+
+Alexander B. Hamrick, Ph.D., is an Assistant Professor of Management at the University of Richmond. His research explores how individuals navigate the work-nonwork interface, with a particular focus on leisure behavior, stress and well-being, and workplace creativity and innovation.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

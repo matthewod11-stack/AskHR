@@ -1,17 +1,19 @@
-# Creating a Forced-Choice Scale
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e9bb5f95fe80885d9f048ae4357df4f5a8c01c27
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Forced-Choice Rating Scales
 
-To create a forced-choice scale, the first step is similar to that for BARS: Critical incidents and relevant job behaviors are generated. These incidents, of course, are available only when a job analysis has been conducted.
+One problem with BARS is that supervisors often do not use the anchors when rating employees. Instead, they choose a point on the scale and then quickly glance to see which anchor is associated with the number. Because of this tendency, BARS do not often reduce leniency in ratings.
 
-In the second step, employees rate all of the behaviors on the extent to which excellent employees perform them. After an approximately -month interval, the employees again rate the items. This time, however, they rate the extent to which bad employees perform the behaviors. Finally, after another month, the employees again rate the behaviors, this time for their desirability.
+282
 
-In the third step, the actual items for the rating scale are created. This is done by computing a value for each behavior by subtracting the average rat- ing given to each behavior that describes the bad employee from the average rating given to each behavior that describes the good employee. Behaviors with high positive values are considered to discriminate good from bad employees, items with high negative values are considered to discriminate bad from good employees, and behaviors with values near zero are considered neutral.
+chapter 
 
-The next step in creating the items is to pick good, bad, and neutral behaviors that have similar desirability ratings. Thus, each rating item has three behaviors: One indicates good performance, one indicates poor perfor- mance, and one indicates neither good nor bad performance. Furthermore, all of the behaviors for an item have the same level of desirability. This process is repeated until several items have been constructed for each of the relevant job dimensions.
+To overcome this problem, forced-choice rating scales have been developed. These scales use critical incidents and relevant job behaviors, as do BARS, but the scale points are hidden. An example of a forced-choice scale is shown in Figure ..
 
-The disadvantages of the forced-choice scale probably outweigh its advan- tages. First, evaluations on forced-choice scales can be “faked.” A supervisor who wants to give an employee a high rating need only think about a good employee when evaluating the employee in question. Second, supervisors often object to forced-choice scales because the scoring key is kept secret. Not only does this secrecy deprive a supervisor of any control over the rating pro- cess, but it can be seen by supervisors as a lack of trust in their abilities to evaluate their employees. Most important, however, because the key must be
+In using the forced-choice scale to evaluate employee performance, the supervisor chooses the behavior in each item that appears most typical of that performed by a given employee. The supervisor’s choices then are scored by a member of the personnel department to yield the employee’s rating on each dimension. The scores on each of the dimensions can be summed to form an overall rating.
 
-evaluating employee performance
-
-283
-
-kept secret, forced-choice scales make feedback almost impossible. Thus they should be used only when the major goal of the performance appraisal system is accurate employee evaluation for purposes such as promotion and salary increases.
+The development of a forced-choice rating scale is a long and compli- cated process, which partly explains why it is not commonly used. However, this method of evaluation does have its advantages. For example, because the supervisor must choose behaviors without knowing “the key,” common rating errors such as leniency and halo are less likely. Consequently, performance evalu- ations should be more accurate.

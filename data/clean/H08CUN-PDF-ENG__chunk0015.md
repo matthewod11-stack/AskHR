@@ -1,21 +1,21 @@
-# resilient.” For instance:
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8390a6ced816b57faa66c35c0dea73f6fa2bb31c
+title: H08CUN-PDF-ENG
+---
+# below.)
 
-- If your colleague is the reticent type: Klotz recommends starting
+If you see something, say something
 
-the discussion with an open-ended question, like “How’s it going?”
+When you spot signals of resentment within your team, whatever form
 
-or “Anything on your mind?” Then you might share an observation:
+it takes, what should you do? Klotz recommends following advice
 
-“You’ve seemed a little quiet lately,” or “I noticed there was conﬂict
+often seen on the subway: “If you see something, say something.”
 
-in the team meeting earlier, and you didn’t say much.” Show genuine
+These conversations are best handled one-on-one and they require a
 
-interest in their well-being and open the door for them to express their
+deft touch tailored to the person you’re talking with and what you’ve
 
-thoughts and feelings. “It’s an act of support,” he says.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+noticed. The goal, says Carucci, is to “build a team that’s conﬂict

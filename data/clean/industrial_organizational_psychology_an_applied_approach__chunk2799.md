@@ -1,5 +1,19 @@
-# Figure 12.3 Relationship between LPC (Least-Preferred Coworker) scores and group success
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1b665aafb244e113f85d1618858fc28a83e56618
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Situational Favorability
 
-448
+The best-known and most controversial situational theory was developed by Fred Fiedler in the mid-s (Fiedler, ). Fiedler believed that an individual’s lead- ership style is the result of a lifetime of experiences and thus is extremely difficult to change. Fiedler’s contingency model holds that any individual’s leadership style is effective only in certain situations. Thus, Fiedler would argue that rather than teaching people to change their leadership styles, leadership training should concentrate on helping people understand their style of leadership and learn how to manipulate a situation so that the two match. To help people understand their leadership style, Fielder developed the Least-Preferred Coworker (LPC) Scale.
 
-chapter 
+To complete the LPC Scale, leaders identify the subordinate or employee with whom they would least want to work. Leaders then rate that person on several semantic differential scales that range from nice to nasty and from friendly to unfriendly. The higher the leaders rate their least-preferred coworker, the higher the LPC score. This score is then compared with the favorableness of the situation to determine leader effectiveness. Low-scoring LPC leaders tend to be task oriented, whereas high-scoring LPC leaders tend to be more concerned with interpersonal relations (Fiedler, ; Rice, ). High-LPC leaders would fall in the same quad- rant in Figure . as Theory Y and consideration leaders. Low-LPC leaders would fall in the same quadrant as Theory X and initiating-structure leaders. To find your own LPC score, complete Section B of Exercise . in your workbook.
+
+The favorableness of a situation is determined by three variables. The first is task structuredness. Structured tasks have goals that are clearly stated and known by group members, have only a few correct solutions to a problem, and can be completed in only a few ways. The more structured the task, the more favorable the situation.
+
+The second variable is leader position power. That is, the greater the position or legitimate power of the leader, the more favorable the situation. Thus, a group or organizational setting in which there is no assigned leader is not considered to be a favorable leadership situation. The third variable is leader–member relations. The more the subordinates like their leader, the more favorable the situation. The leader–member relationship is considered the most important of the three variables.
+
+leadership
+
+447

@@ -1,9 +1,23 @@
-## HBR / Digital Article / 3 Ways to Make All Your Stakeholders Feel Heard
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1fb187055fcef8a5fe1f4b40468e3b63f5e16f2b
+title: H08IWP-PDF-ENG
+---
+## In an era when stakeholder expectations and interdependencies
 
-make success possible. The PGA Tour’s experience is a cautionary tale
+are increasingly central to success, the ability to navigate these
 
-that reminds us: Sidelining stakeholders may seem expedient in the
+relationships is not just a matter of fairness or optics — it’s a strategic
 
-moment, but the long-term cost can be immeasurable.
+imperative. When leaders embrace transparency, facilitate dialogue,
 
-This article was originally published online on January 2, 2025.
+and balance competing interests, they not only safeguard their business
+
+models but also strengthen the trust and engagement of those who
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

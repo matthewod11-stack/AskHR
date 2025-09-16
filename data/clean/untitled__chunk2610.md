@@ -1,11 +1,13 @@
-# The APA-sponsored
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 9fbb09b78b89e96880f8c51f27b796c6d9c5b9f6
+title: untitled
+---
+## H. Philosophy of mind. Six lectures. Mr. Strong.
 
-Scholars from the Carnegie Foundation for the Advance- ment of Teaching (1977) aptly described the post–World War II period of curricular expansion as “the academic shop- ping center” (p. 5). Keeping in mind Veysey’s (1973) analysis of the eras of expansion and their external stimuli, psychol- ogy was beneﬁting from the utilitarian demands from more
+Requisite: Psychology A, previously or simultaneously. (Columbia University in the City of New York Catalogue, 1900– 1901, p. 176)
 
-and different types of students and from the expansion of sci- entiﬁc programs at the graduate level that inﬂuenced teachers at the undergraduate level. Whether one looks at catalogs from 1900 or more recently, a common denominator is that new faculty, after a period of apprenticeship at an institution, create new courses that get absorbed into a department’s cur- riculum. For example, F. H. Sanford and Fleishman (1950) found 261 different course titles in their study. Lux and Daniel (1978) found 1,356 different course titles and concluded: “Thus, we have a ‘course title inﬂation’ of 519%, or about 19% per year on the average, from 1947 to 1975” (p. 178).An expanded breadth of psychology course titles accompanied expansion inAmerican higher education during this time.
+Rice’s (2000) analysis of reviews of this period by Garvey (1929) and Ruckmich (1912) suggested that ﬁve stages of institutional development for psychology departments were evident by 1900. In Stage 1, mental science or mental philos- ophy courses were being taught. In Stage 2, institutions were offering one or more courses labeled “psychology.” Stage 3 had institutions with psychological laboratories. Stage 4 de- partments were offering the PhD in psychology. Stage 5 rep- resented an independent department; Rice suggested that Clark, Columbia, Illinois, and Chicago were the only institu- tions at this level.
 
-Nevertheless, a parallel conservative force operates on the curriculumfrominsidetheinstitutionaswell.Rudolph(1977) reminded us of “the academic truism that changing a curricu- lum is harder than moving the graveyard” (p. 3). As a histo- rian, he knew that such resistance is a complex interaction of internal (departmental faculty and institutional priorities) and external forces (disciplinary groups and community/public constituencies). For psychology, Perlman and McCann (1999a) were led to conclude:
-
-Many frequently offered courses have been found for decades and 13 such courses ﬁrst listed by Henry (1938) are in the pre- sent Top 30. Some courses are slowly being replaced. Thus, the curriculum reﬂects both continuity and slow change, perhaps due to the time it takes for theory, research, and discourse to de- ﬁne new subdiscipline areas or perhaps due to department inertia and resistance to modifying the curriculum. (p. 181)
-
-In the next section, we focus on the concepts of conti- nuity and change in the curriculum, but with an eye to the boundary-setting agendas of disciplinary groups.
+reports by Calkins, Sanford, Seashore, and Whipple in 1910, and Henry’s (1938) exami- nation of 157 catalogs will take the reader almost to midcen- tury in describing the courses taught to undergraduate psychology students. Lux and Daniel (1978) consolidated these portraits with a table of the 30 most frequent under- graduate courses offered in 1947, 1961, 1969, and 1975. Perlman and McCann (1999a, p. 179) continued this tradition by identifying the 30 most frequently offered undergraduate courses, and the percentages of colleges requiring them, in their study of 400 catalogs for 1996–1997.

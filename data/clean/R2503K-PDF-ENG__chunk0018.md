@@ -1,13 +1,25 @@
-## members to share their ideas, such as one-on-one conversations, in
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a76582f6b58883269310e7833a5c297b2c7b84c9
+title: R2503K-PDF-ENG
+---
+# leadership style accordingly.
 
-writing, or through group submissions. For professional development
+In addition, Everfresh managers learned how to revamp team activities
 
-discussions, Everfresh moved from focusing solely on individual
+that were biased toward an individualist view of autonomy. Take
 
-achievements to also emphasizing group stability and collective
+brainstorming, for example. It might seem ideally suited to collectivists
 
-success. This approach aligned with the values of team members
+because it invites broad participation, but brainstorming is inherently
 
-from collectivist backgrounds, who prioritize group harmony over
+individualist because it is rooted in participants’ willingness to speak up
 
-individual accolades. Over time, Everfresh saw a signiﬁcant increase
+with unique ideas. To make brainstorming more culturally intelligent
+
+and eﬀective, managers asked team members to begin by writing down
+
+their ideas. This practice beneﬁted not only collectivists but also non-
+
+native speakers and introverts. They also oﬀered multiple ways for team

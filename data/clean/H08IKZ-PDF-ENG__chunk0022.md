@@ -1,11 +1,17 @@
-# process.
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb29fb0bba09204b3cfeee44c15ca6370c92f0f0
+title: H08IKZ-PDF-ENG
+---
+## decision-making framework aligns best with their objectives.
 
-- 7. Assessing competitiveness.
+In the car example, a cost-focused buyer might use a tool that calculates
 
-When purchasing a car, solving the functional problem — i.e., choosing a practical option that satisﬁes your objectives — may be suﬃcient,
+life-cycle-ownership costs, while another buyer who prioritizes
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+aesthetics might choose a very diﬀerent approach. Some buyers may
 
-5
+forego the expected value of perfect computation and opt for a fast and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+frugal set of heuristics, and another may prefer an exhaustive search

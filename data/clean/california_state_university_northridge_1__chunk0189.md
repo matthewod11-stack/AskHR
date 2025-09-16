@@ -1,9 +1,11 @@
-# Training
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: ebde061adfc087174b5a801dfd61ddef5d2f56f6
+title: california_state_university_northridge_1
+---
+# nonprofit organizations, public agencies and for profit business and any organization that
 
-Training all persons within management in regards to the law should be a
+has the capacity to terminate a person.
 
-requirement. It is taken for granted; since an employee may have had past managerial
-
-experience he or she knows all aspect of management. There are managers that have
-
-never terminated an employee and those who have on numerous occasions. At the
+68

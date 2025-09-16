@@ -1,5 +1,11 @@
-# Costs of dismissal procedures
+---
+source_path: emerald_rege_rege603931_84_101.md
+pages: n/a-n/a
+chunk_id: ab616e38166c0b08b2179b93c8189b058004195c
+title: emerald_rege_rege603931_84_101
+---
+# colleagues
 
-Shake in systems of social and familiar support Stress related to transition
+Increasing of the production coasts
 
-Shake in social and communicative structures Evasion of high performance employees Less satisfaction among who remains Regression in career flow Stimulus to use indifferenced strategies to control the turnover Source: Mobley (1992, p. 51)
+Inability of the region to keep and attract industries

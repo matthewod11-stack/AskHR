@@ -1,5 +1,27 @@
-## Online resources, such as the global edition of our “Employers’ Guide
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cffb16101b2e34c93ffdfee1b1f5228cb382db65
+title: H08BKU-PDF-ENG
+---
+# industries like technology.
 
-to Refugee Employment,” which features corporate examples, or this
+Reach out to industry peers.
 
-video guide to inclusive employment that we created are a great starting
+Beyond direct contact with NGOs, employers can learn from their
+
+peers. Many companies have shared their ﬁrsthand experience of
+
+refugee recruitment. IKEA’s ﬂagship Skills for Employment initiative
+
+has provided upskilling and employment opportunities to hundreds
+
+of people from a refugee background. The multinational corporation
+
+is committed to sharing its inclusive recruitment model with other
+
+corporations that are keen to take action. Reaching out to industry
+
+peers is a great way to learn about speciﬁc considerations and best
+
+practices while establishing your own path to inclusive recruitment.

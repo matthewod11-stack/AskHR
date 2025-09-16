@@ -1,19 +1,27 @@
-## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c17de18faf77f5eefccb8157a8d61685e089a5e8
+title: H08SLG-PDF-ENG
+---
+# bowels of a building.
 
-them to course-correct, keeping on track with customer demands rather
+One manager we worked with bought his team a new book every
 
-than losing sight of those amidst shorter-term tasks and targets. The
+quarter, which focused on a diﬀerent sector or a broader industry-
 
-conversations also strengthened relationships in the teams, through
+or society-wide issue, and then put some time aside to discuss what
 
-sharing experiences and listening to diﬀerent viewpoints.
+they’d read together. Other executives encourage their teams to get out of the oﬃce to experience the world as their customers do. When
 
-Value and reward spacious mode. Typically people who are visibly
+they do, the teams explain to us that these eﬀorts help them to
 
-busy and get things done get rewarded. While there is nothing wrong
+bring the wider context back into view, and that leads to valuable
 
-with this—certainly doing mode is vital to high-performing teams—it
+conversations about strategy and purpose. Encountering novelty jolts
 
-needs to be complemented with recognition of team members who
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-listen, explore, challenge, and invite the rest of the team to look up and
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

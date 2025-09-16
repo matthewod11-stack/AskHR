@@ -1,33 +1,17 @@
-# outcomes of customer satisfaction and organizational sales growth (Baehre et al., 2022).
+---
+source_path: university_of_dallas_dissertation_template.md
+pages: n/a-n/a
+chunk_id: 2d97fed53547b0211ef398c8f60ee2c243fb8ce9
+title: university_of_dallas_dissertation_template
+---
+# (cid:32)
 
-However, few studies focus on eNPS in employee loyalty and job satisfaction that measure
+(cid:97)(cid:110)(cid:100)(cid:32)(cid:101)(cid:110)(cid:103)(cid:97)(cid:103)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:46)(cid:32)(cid:84)(cid:104)(cid:105)(cid:115)(cid:32)(cid:114)(cid:101)(cid:115)(cid:101)(cid:97)(cid:114)(cid:99)(cid:104)(cid:32)(cid:119)(cid:105)(cid:108)(cid:108)(cid:32)(cid:101)(cid:120)(cid:112)(cid:108)(cid:111)(cid:114)(cid:101)(cid:32)(cid:116)(cid:104)(cid:101)(cid:115)(cid:101)(cid:32)(cid:102)(cid:97)(cid:99)(cid:116)(cid:111)(cid:114)(cid:115)(cid:32)(cid:116)(cid:111)(cid:32)(cid:103)(cid:97)(cid:105)(cid:110)(cid:32)(cid:97)(cid:32)(cid:109)(cid:111)(cid:114)(cid:101)(cid:32)(cid:99)(cid:111)(cid:109)(cid:112)(cid:114)(cid:101)(cid:104)(cid:101)(cid:110)(cid:115)(cid:105)(cid:118)(cid:101)(cid:32)
 
-employee experience within the organizational context. Based on these explanations as the
+(cid:117)(cid:110)(cid:100)(cid:101)(cid:114)(cid:115)(cid:116)(cid:97)(cid:110)(cid:100)(cid:105)(cid:110)(cid:103)(cid:32)(cid:111)(cid:102)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:99)(cid:111)(cid:109)(cid:112)(cid:108)(cid:101)(cid:120)(cid:32)(cid:100)(cid:121)(cid:110)(cid:97)(cid:109)(cid:105)(cid:99)(cid:115)(cid:32)(cid:105)(cid:110)(cid:102)(cid:108)(cid:117)(cid:101)(cid:110)(cid:99)(cid:105)(cid:110)(cid:103)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:108)(cid:111)(cid:121)(cid:97)(cid:108)(cid:116)(cid:121)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:105)(cid:116)(cid:115)(cid:32)(cid:111)(cid:117)(cid:116)(cid:99)(cid:111)(cid:109)(cid:101)(cid:115)(cid:46)(cid:32)
 
-theoretical and practical basis, this research study will address the question, “What is the
+(cid:70)(cid:117)(cid:114)(cid:116)(cid:104)(cid:101)(cid:114)(cid:109)(cid:111)(cid:114)(cid:101)(cid:44)(cid:32)(cid:116)(cid:104)(cid:105)(cid:115)(cid:32)(cid:98)(cid:114)(cid:111)(cid:97)(cid:100)(cid:101)(cid:114)(cid:32)(cid:112)(cid:101)(cid:114)(cid:115)(cid:112)(cid:101)(cid:99)(cid:116)(cid:105)(cid:118)(cid:101)(cid:32)(cid:99)(cid:111)(cid:117)(cid:108)(cid:100)(cid:32)(cid:101)(cid:110)(cid:97)(cid:98)(cid:108)(cid:101)(cid:32)(cid:111)(cid:114)(cid:103)(cid:97)(cid:110)(cid:105)(cid:122)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:115)(cid:32)(cid:116)(cid:111)(cid:32)(cid:105)(cid:109)(cid:112)(cid:108)(cid:101)(cid:109)(cid:101)(cid:110)(cid:116)(cid:32)(cid:116)(cid:97)(cid:114)(cid:103)(cid:101)(cid:116)(cid:101)(cid:100)(cid:32)
 
-likelihood that a loyal employee will promote their company to others if they are satisfied and
+(cid:115)(cid:116)(cid:114)(cid:97)(cid:116)(cid:101)(cid:103)(cid:105)(cid:101)(cid:115)(cid:32)(cid:116)(cid:104)(cid:97)(cid:116)(cid:32)(cid:102)(cid:111)(cid:115)(cid:116)(cid:101)(cid:114)(cid:32)(cid:108)(cid:111)(cid:121)(cid:97)(cid:108)(cid:116)(cid:121)(cid:46) (cid:32)
 
-engaged?”(cid:32)
-
-This study makes two theoretical contributions. The first contribution is knowledge
-
-about employee loyalty that can benefit organizations, managers, and employees directly. For
-
-example, when employees intend to stay with a company, they often demonstrate high
-
-performance and promote the company positively (Meschke, 2021). Therefore, loyal employees
-
-benefit managers and businesses. Second, this study could help practitioners drive eNPS by
-
-going beyond whether employees have shown loyalty behaviors and considering their
-
-willingness to recommend the company as a great workplace. Employees with a high eNPS score
-
-are highly engaged and satisfied with their workplace, while employees with a low score have
-
-room for improvement (Legerstee, 2013; Lynch, 2022; Meschke, 2021). Companies can use
-
-eNPS data to identify areas for improvement, increase employee retention, and attract top talent.
-
-These contributions can be valuable insights for practitioners and researchers seeking to initiate
+Several empirical studies have focused on the role of NPS in customer loyalty and the

@@ -1,17 +1,35 @@
-# HBR / Digital Article / Research: Gen AI Makes People More Productive—and Less Mo…
+---
+source_path: H08QEO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b2311b3e7ed13cdd46f6a9bd51c1366ca9089d86
+title: H08QEO-PDF-ENG
+---
+# collaboration:
 
-motivation and an increase in boredom. Across our studies, intrinsic
+- Immediate Performance Boost: Gen AI enhanced the quality and
 
-motivation dropped by an average of 11% and boredom increased by an
+eﬃciency of tasks. For instance, performance reviews written with
 
-average of 20%. In contrast, those who worked without AI maintained
+gen AI were signiﬁcantly longer, more analytical, and demonstrated
 
-a relatively steady psychological state. This ﬁnding reveals a critical
+a more helpful tone compared to reviews written without assistance.
 
-nuance to collaborations’ beneﬁts: While using gen AI tools can feel
+Similarly, emails drafted with gen AI tended to use warmer, more
 
-productive and empowering at ﬁrst, it may leave workers feeling less
+personable language, containing more expressions of encouragement,
 
-engaged when they shift to tasks that don’t involve AI support—a
+empathy, and social connection, compared to those written without
 
-common reality in workﬂows where not every task can or should be
+AI assistance. This highlights how gen AI can help workers deliver
+
+outputs that are polished, engaging, and well-structured.
+
+- Psychological Costs: Despite the performance beneﬁts, participants
+
+who collaborated with gen AI on one task and then transitioned to a diﬀerent, unaided task consistently reported a decline in intrinsic
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

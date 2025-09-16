@@ -1,9 +1,19 @@
-# out simulated roles.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 3ad5aa551e61c613c7da93c360c049148a13dae5
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Role ambiguity The extent to which an employee’s
 
-618
+roles and expectations are unclear.
 
-glossary
+Role conflict The extent to which an employee’s role
 
-Rorschach Ink Blot Test A projective personality test. Rotating shift A shift schedule in which employees periodically change the shifts that they work. Rule of three A variation on top-down selection in which the names of the top three applicants are given to a hiring authority who can then select any of the three.
+and expected role are the same.
 
-Rumor Poorly substantiated information that is passed
+Role overload The extent to which an employee is able
+
+to psychologically handle the number of roles and tasks assigned.
+
+Role play A training technique in which employees act

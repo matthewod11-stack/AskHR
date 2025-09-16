@@ -1,9 +1,9 @@
-## discussions about the relative merits of remote and hybrid work and
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f9caaf7b05b567485d38144ea72b9ed5765e222
+title: H08MUE-PDF-ENG
+---
+# employees.
 
-return-to-oﬃce policies. But these debates have largely focused on
-
-employees, without considering the implications of remotely based leaders and how they might need to work diﬀerently as they supervise
-
-performance and build culture from a distance. The challenges are real,
-
-but so are the beneﬁts—which I’ve seen in my work as a leadership
+To be clear, since the pandemic began there have been ongoing

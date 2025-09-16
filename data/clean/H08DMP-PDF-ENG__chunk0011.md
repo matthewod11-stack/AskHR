@@ -1,21 +1,25 @@
-# Managerial Lessons
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 691e4d2cff419e9f0935c3e7772fc95f649f27a5
+title: H08DMP-PDF-ENG
+---
+# HBR / Digital Article / One Company A/B Tested Hybrid Work. Here’s What They Foun…
 
-After our study came out in Nature, executives were very interested
+model had a higher satisfaction rate, and 35% lower attrition. Quit-rate
 
-in ﬁnding out more. We think there are three critical ingredients that
+reductions were largest for female employees. Non-managers and those
 
-contributed to the success of hybrid working at Trip.com.
+with the long commutes greater than 1.5 hours also had signiﬁcantly
 
-First, Trip.com has a rigorous performance management system that’s
+reduced quit rates under hybrid.
 
-on par with best practices around the world. Managers don’t hover
+According to the Society of Human Resource Management, each quit
 
-over employees at their desks to check their progress, or give ad-
+costs companies at least 50% of the employees’ annual salary, which for
 
-hoc feedback once a year. Instead, the company has an extensive
+Trip.com would mean $30,000 for each quit. In Trip.com’s experiment,
 
-performance review process every six months to help employees course
+employees liked hybrid so much that their quit rates fell by more than a
 
-correct in real time. Employee performance data, as well as feedback
-
-from co-workers, clients, direct reports and managers, are synthesized
+third — and saved the company millions of dollars a year.

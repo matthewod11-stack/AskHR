@@ -1,29 +1,23 @@
-## page textbook of Gastroenterology, among many other achievements.
+---
+source_path: H05CAR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c08a9ab97c2f64bd83e5713a0d1d1cf8727da77b
+title: H05CAR-PDF-ENG
+---
+## The power of sustained focus and determination.
 
-Attacking challenges was not just an occasional adventure—it’s been a
+It’s easy to say, “This will take some doing; I’ll think about it later.”
 
-way of being, as well as a highly successful career path. Assuring success
+Combined with an unconscious “This could be dangerous for my
 
-of the Tres Cantos lab was not accomplished with a simple signature
+career,” it can be easy for tough challenges to gradually slip from focus.
 
-on a document. The laboratory was initially funded by GSK with the
+Over time the unacceptable can become the norm, and the energy
 
-expectation that the researchers would soon obtain external grants so
+for change dissipates. But Yamada didn’t accept the unacceptable; his
 
-the output from the lab would not have expectations of making a proﬁt
+focus and determination were well honed. He emigrated from Japan
 
-for GSK. Partnerships with many organizations and universities were
+as a teenager and entered the demanding ﬁeld of medicine. Along
 
-also initiated and sustained to help support this work.
-
-The power of using privilege to support people with less privilege.
-
-While such a mindset is not required for transformation to occur,
-
-most would agree that it’s even better, and more rewarding, when
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the way he took up marathon running and edited a seminal 3440-

@@ -1,7 +1,11 @@
-# The Cognitive-Components Approach
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ab188d390afca7d08c48ecced8308dcb6e5a1f92
+title: untitled
+---
+## Intelligence as Arising from Cognitive Structures and Processes 147
 
-An alternative approach has come to be called the cognitive- components approach (Pellegrino & Glaser, 1979). In this approach, participants are tested in their ability to perform tasks of the kinds actually found on standard psychometric tests of mental abilities—for example, analogies, series com- pletions, mental rotations, and syllogisms. Participants typi- cally are timed, and response time is the principal dependent variable, with error rate and pattern-of-response choices serving as further dependent variables. This approach was suggested by R. J. Sternberg (1977; see also Royer, 1971). The proximal goal in this research is, ﬁrst, to formulate a model of information processing in performance on the types of tasks found in conventional psychometric tests of intelli- gence. Second, it is to test the model at the same time as parameters for the model are estimated. Finally, it is to inves- tigate the extent to which these components correlate across participants with each other and with scores on standard psy- chometric tests. Because the tasks that are analyzed are usu- ally taken directly from psychometric tests of intelligence or are very similar to such tasks, the major issue in this kind of research is not whether there is any correlation at all between cognitive task and psychometric test scores. Rather, the issue is one of isolating the locus or loci of the correlations that are obtained. One seeks to discover which components of infor- mation processing are the critical ones from the standpoint of the theory of intelligence (Carroll, 1981; Pellegrino & Glaser, 1979, 1980, 1982; Royer, 1971; R. J. Sternberg, 1977, 1980, 1983; R. J. Sternberg & Gardner, 1983).
+found that this parameter and similar parameters in other ex- perimental tasks typically correlate about (cid:4).3 with scores on psychometric tests of verbal ability.
 
-Consider the analogies task mentioned above. The partici- pant might be presented with an analogy such as WHITE : BLACK :: GOOD : (A) BAD, (B) BETTER. The task is to choose the better of the two response options as quickly as possible. Cognitive-components analysis might extract a number of components from the task, using an expanded version of Spearman’s theory (R. J. Sternberg, 1977). These components might include (a) the time to encode the stimulus
-
-148
+The precise tasks used in such research have varied. The letter-matching task has been a particularly popular one, as has been the short-term memory-scanning task originally proposed by S. Sternberg (1969). Other researchers have pre- ferred simple and choice reaction time tasks (e.g., Jensen, 1979, 1982). Most such studies have been conducted with adults, but some have been conducted developmentally with children of various ages (e.g., Keating & Bobbitt, 1978).

@@ -1,23 +1,19 @@
-# Individual Versus Group Performance
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 733491040ccc2f6f71f9f5b1203a0723e00f385d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Groupthink
 
-When several people individually work on a problem but do not interact, they are called a nominal group. When several individuals interact to solve a problem, they are called an interacting group. An important decision a leader must make is when to assign tasks to individuals, nominal groups, or interacting groups. After decades of research investigating group effectiveness, the consensus appears to be that interacting groups will usually outperform one individual, but interacting groups do not outperform nominal groups (Kerr & Tinsdale, ).
+The term groupthink was coined by Janis () after studying the disastrous Bay of Pigs invasion of . The Bay of Pigs was the Cuban landing site for , Cuban exiles who sought to overthrow the government of Fidel Castro. The plan called for the U.S. Navy and Air Force to covertly protect the invasion force and its supply ships. The invaders, however, were met unexpectedly by , Cuban troops and were quickly killed or captured. The help promised by the U.S. govern- ment never appeared. Janis () proposed the concept of groupthink to explain how some of the nation’s brightest men could hatch such an ill-conceived plan.
 
-488
+With groupthink, members become so cohesive and like-minded that they make poor decisions despite contrary information that might reasonably lead them to other options. Groupthink most often occurs when the group
 
-chapter 
+7 7 7 7 7 7 7
 
-Trust is important in jobs that involve working in groups
+is cohesive is insulated from qualified outsiders has an illusion of invulnerability, infallibility, or both believes that it is morally superior to its adversaries is under great pressure to conform has a leader who promotes a favorite solution has gatekeepers who keep information from other group members.
 
-The importance of the difference between nominal and interacting groups can be found in an interesting study by Liden et al. (). Liden and his col- leagues had managers, nominal groups of employees, and interacting groups of employees read scenarios about a group member’s poor performance and then determine how the employee should be disciplined. The interacting groups and the managers decided on more severe levels of discipline than did the nominal groups.
+Groupthink can be reduced in several ways. First, the group leader should not state his own position or beliefs until late in the decision-making process. Second, the leader should promote open discussion and encourage group members to speak. Third, a group or committee can be separated into sub- groups to increase the chance of disagreement. Finally, one group member can be assigned the job of devil’s advocate—one who questions and disagrees with the group.
 
-If the task involves creating ideas, individuals should be asked to indepen- dently create them and then meet as a group. Although brainstorming is a commonly used technique, it is not an effective one. In brainstorming, group members are encouraged to say aloud any and all ideas that come to mind and are not allowed to comment on the ideas until all have been given. When research compares a brainstorming group’s creativity with that of a single individual, the brainstorming group will almost always be more creative. However, when comparing the number and quality of ideas created by nominal groups with the quality and number of ideas created by an interacting group in a brainstorming session, the ideas of nominal groups are more creative and of higher quality than ideas of the interacting group (Kerr & Tinsdale, ). This difference may par- tially be due to interacting groups setting lower goals than individuals (Larey & Paulus, ).
-
-Due to the increasing cost of travel, it is increasingly common for groups to “meet” electronically (e.g., teleconference) rather than face-to-face. In fact, in my own consulting, it has become rare to fly to a company to participate in a meet- ing; almost everything is handled through email and teleconferences. The results of a meta-analysis by DeRosa, Smith, and Hantula () suggest that such a practice is not only cost effective, but results in more effective performance than face-to-face group meetings. DeRosa et al. found that electronic brainstorming groups outperform face-to-face interacting groups. The comparison with nomi- nal groups is more complicated. Overall, electronic brainstorming groups and
-
-group behavior, teams, and conflict
-
-489
-
-s e g a m
-
-y t t e G / a r o r u A / l e z A e s o J ©
+As with most things in psychology, the potential for groupthink is compli- cated. Though cohesive groups with strong leaders often result in groupthink, there are situations in which these two characteristics result in high levels of group performance (Kerr & Tinsdale, ).

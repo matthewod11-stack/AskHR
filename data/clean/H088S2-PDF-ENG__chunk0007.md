@@ -1,21 +1,23 @@
-## HBR / Digital Article / A New Model for Continuous Transformation
+---
+source_path: H088S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a34e5259faf726ce488e9de4a1b30e8fb97ac74b
+title: H088S2-PDF-ENG
+---
+# resolution.
 
-business coverage, State Farm had long been a trusted name in the
+By embracing an agile mindset, organizations unlock the potential
 
-industry. However, in 2019, the company’s leadership recognized a shift
+for sustained innovation and adaptation, thereby making continuous
 
-in the fundamentals of their business. The insurance landscape was
+change a core capability. The transformation of State Farm, a company
 
-evolving beyond merely oﬀering coverage; it was now about delivering
+we worked with, serves as a compelling example. As a leading provider
 
-personalized experiences, swift service, and seamless claims processing
+of various insurance services including auto, home, life, health, and
 
-within an intensifying pricing environment. Customers increasingly demanded convenience, eﬃciency, and tailored solutions. In response,
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-State Farm recognized the need to rethink its operations, processes,
+2
 
-and technology infrastructure to remain competitive in this swiftly
-
-changing market.
-
-A pivotal factor in State Farm’s successful transformation was the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

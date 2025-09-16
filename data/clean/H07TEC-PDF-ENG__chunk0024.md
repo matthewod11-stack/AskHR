@@ -1,21 +1,29 @@
-## ﬂat rate annual cost of $7,500/learner for the training, this investment
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1226cf5cec1c11e963c747885913c31faccc3c10
+title: H07TEC-PDF-ENG
+---
+# performance.
 
-would have yielded the law ﬁrm an annual rate of return of more than
+To do this, you must use variables in the analysis that can be directly
 
-950%!
+impacted by training. In our research within the law ﬁrm, we were able
 
-Expand your data beyond your organization.
+to readily identify the high and low performers utilizing the variables
 
-Balanced benchmarking provides a relative measure of performance for
+described above. The next step we took was providing the partners
 
-all teams or individuals included in the analysis. While it’s easiest to
+with leadership development training that taught them skills to help
 
-perform this analysis within the ﬁrm because that data is accessible, the
+them coach for performance. It wasn’t enough to demonstrate to the
 
-resultant analysis will only tell you who is performing better and worse
+partners who the high- and low-performing attorneys in the ﬁrm were;
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+we had to go one step further and give them the tools to help the
 
-6
+struggling attorneys. By combining balanced benchmarking and this skills training, the partners were able to more eﬀectively lead the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+attorneys, resulting in roughly a 15% annual increase in hours billed
+
+that generated additional revenues of nearly $1 million. Assuming a

@@ -1,7 +1,7 @@
-# THE CONTEXT OFAMERICAN HIGHER EDUCATION
-
-“The current pattern of American undergraduate education is a result of almost 2,500 years of historical evolution” (Levine & Nideffer, 1997, p. 53). A long look at higher edu- cation would begin in the Greek academy and trace its changes in Cicero’s humanitas and ars liberalis, through the scholarship of Constantinople and the Arab world, to Bologna and Paris, then to Oxford and Cambridge, before ar- riving in America. The study of the liberal arts was organized around the verbal arts of the trivium (logic, grammar, and rhetoric) and the mathematical arts of the quadrivium (arith- metic, geometry, astronomy, and music) and was the core curriculum of the medieval universities.
-
-“Curricular history is American history and therefore car- ries the burden of revealing the central purposes and driving directions of American society” (Rudolph, 1977, pp. 23–24). In the ﬁrst American curriculum at Harvard College, the lib- eral arts components were organized by the subject matter of the European trivium and quadrivium. This became the basis of an almost uniform course of study for America’s colonial liberal arts and state colleges in the eighteenth century and in the ﬁrst half of the nineteenth century. Individual institutions offered alternatives to this classical course of study in the forms of applied knowledge such as engineering and techni- cal and mechanical education (e.g., West Point in 1802 and
-
-472 473
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 692b1c7757992e77b06e76b22476489640ffa20e
+title: untitled
+---
+# American higher education.

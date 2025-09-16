@@ -1,29 +1,23 @@
-# Human Resource Management.
+---
+source_path: R2403F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0036d26b50ef0d4968036a233abab410bedffc54
+title: R2403F-PDF-ENG
+---
+## Indeed, one of the most astonishing characteristics of the contemporary
 
-Internal job markets not only cost very little but also save enormous amounts of money by reducing turnover and the need to hire from the outside.
+workplace is how little career advancement there is. Research suggests
 
-The beneﬁts of retraining are enormous because it prevents companies
+that only 10% to 20% of job vacancies are ﬁlled by current employees.
 
-from replacing good employees with people with diﬀerent skill sets,
+And like the McKinsey study we mentioned earlier, a Pew Foundation
 
-who often have to be paid more. Some companies have realized this.
+survey found lack of advancement to be a substantial cause of turnover:
 
-Several years ago, IBM oﬀered some employees who were about to be
+Sixty-three percent of people who’d left their jobs in 2021 cited it as
 
-restructured out of jobs the option of taking severance or moving into
+a reason for quitting. Lateral moves are even rarer than upward ones:
 
-roles requiring new skills that they would receive training in for one
+Only 1% of U.S. employees move laterally to diﬀerent businesses and
 
-day a week on their own time—a way of sharing the costs with them.
-
-This approach had a huge payoﬀ—including better productivity, better
-
-employee ﬁt, and lower turnover—and saved twice as much money
-
-as the retraining cost. In 2019 PwC committed $3 billion to retraining
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-10
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+operations in a given year, according to data from the Society for

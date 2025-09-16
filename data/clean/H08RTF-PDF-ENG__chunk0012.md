@@ -1,11 +1,23 @@
-# HBR / Digital Article / HBR’s Best Practices for Supporting Employee Mental Health
+---
+source_path: H08RTF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12742695235d14006a32e2e9abbe98fe2cf8bfad
+title: H08RTF-PDF-ENG
+---
+## wellness research, individual-level interventions like well-being apps
 
-Consider changes like increasing ﬂexibility (even trying a four-day
+and employee assistance programs are likely to be ineﬀective unless
 
-workweek) to give employees more control over their work-life balance,
+paired with systemic interventions.
 
-putting together volunteer-led “well-being champion networks” to
+To take a more holistic approach to workplace well-being, the authors
 
-provide them with peer support, and training managers to support their
+suggest leaders become “behavioral architects” by embedding well-
 
-team members’ mental health.
+being strategies—and support—into all levels of the organization.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

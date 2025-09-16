@@ -1,7 +1,9 @@
-# Lawrence (1921)
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 26feed0772348d808bc2f136e42c786046325c46
+title: file_1
+---
+# 5.1.3. Pay inequity and reactions to it
 
-The last objective of the thesis was to analyze how employees react to pay inequity. This objective was addressed in the fourth paper.
-
-The results of the this paper supported the hypotheses based on social comparison theory (Festinger, 1954) and the gender socialization perspective (Stockard, 1999) that male employees are more sensitive towards pay inequity by demonstrating a lower level of organizational commitment than their female counterparts. Comparing underpayment and overpayment conditions in these organizations, the higher the level of pay inequity, the less committed to the organization male employees were. This finding suggests that male and female employees react differently to underpayment and overpayment conditions, and, thus, gender might act as a boundary condition for equity theory (Adam, 1965). The main principle of equity theory does not work to the same extent with male and female employees, which goes along with earlier criticism of the theory (Carrell and Dittrich, 1978; Huseman et al., 1987). The study thus provided evidence that, despite pay disparities, female employees continue to be highly committed towards their organizations.
-
-The last paper also examined whether pay comparison (the degree to which respondents compare their pay to internal and external targets) and access to pay information would explain the interactive effect of gender and pay inequity on organizational commitment. The results suggested that both pay comparison and access to pay information partially mediated the interactive impact of gender and pay inequity on organizational commitment. This result contributes significantly to the area related to the topic, since, to the best of my knowledge,
+“One man is not any better than another, not because they are equal, but because … there is no term of comparison.”

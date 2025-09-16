@@ -1,17 +1,19 @@
-# outcome more likely.
+---
+source_path: H077EQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 67329c77a15928ad1072781c35463487e319eb3c
+title: H077EQ-PDF-ENG
+---
+# Use Anchors to Your Advantage
 
-Conversely, it is vital to resist this kind of anchoring when the other side
+My friend Alex Clavel, the Head of Corporate Strategy at Softbank,
 
-attempts to deploy it. Alex tells me that he recently worked to eliminate
+recognizes the usefulness of anchoring in negotiations. He encourages
 
-the anchor of a counterparty whose company’s valuation had dwindled
+his team “to use anchoring proactively to convince other parties at
 
-due to diligence issues. The counterparty still insisted on referring to
+the negotiating table that somehow our ‘anchor’ should be the basis
 
-the $500 million initial valuation in negotiations. But Alex reminded
+of discussions.” If it’s successful, this kind of anchoring can “keep the
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+discussion on your terms as much as possible,” making a favorable

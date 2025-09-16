@@ -1,5 +1,17 @@
-## competence. Psychological Review, 66, 297–333.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a53c689bef7ae774184fc8c7e8621b4087a86f33
+title: untitled
+---
+# References
 
-Whitman, T. L., White, R. D., O’Mara, K. M., & Goeke-Morey, M. C. (1999). Environmental aspects of infant health and illness. InT. L.Whitman &T.V. Merluzzi (Eds.), Live-span perspectives on health and illness (pp. 105–124). Hillsdale, NJ: Erlbaum.
+Weissberg, R. P., Caplan, M., & Harwood, R. L. (1991). Promoting competent young people in competence-enhancing environ- ments: A systems-based perspective on primary prevention. Journal of Consulting and Clinical Psychology, 59(6), 830–841.
 
-Wilson, S. (1955). The man in the grey ﬂannel suit. New York:
+Weissberg, R. P., Gesten, E. L., Carnrike, C. L., Toro, P., Rapkin, B. D., Davidson, E., et al. (1981). Social problem-solving skills training: A competence-building intervention with second- to fourth-grade children. American Journal of Community Psychol- ogy, 9(4), 411–423.
+
+White, R. W. (1952). Lives in progress: A study of the natural
+
+growth of personality. New York: Dryden Press.
+
+White, R. W. (1959). Motivation reconsidered: The concept of

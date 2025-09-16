@@ -1,7 +1,13 @@
-## exists in France — several centuries later, with about the same number
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f46b1a760ecb19a82a95f82da2603638d1ca1744
+title: H08HGJ-PDF-ENG
+---
+# knowledge, at best.
 
-of employees as the one about which Smith ambiguously claimed “I
+Given this fact, it’s hard not to wonder whether Adam Smith might have
 
-have seen a small manufactory of this kind where ten men only were
+missed something. To ﬁnd out, my coauthor Susannah Furr, Oxford
 
-employed.”
+economist Sir John Kay, and I decided to visit the last pin factory that

@@ -1,1 +1,7 @@
-## the review by Carter and Rogers (2008), several potential
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 75dc10757ee3aabdb8d0c764deadfd2d467f7e88
+title: issn_print_0976_013x
+---
+# In

@@ -1,5 +1,35 @@
-## 116.7 million monthly active users, 960 million total downloads, and 575
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16d23eda21524e4f09d3725799305262b51f71a1
+title: H08VUQ-PDF-ENG
+---
+# individual needs.
 
-million registered users, making it by far the largest language-learning
+So the founders set out to eliminate these pain points to create a
 
-platform in terms of user base and reach. As for revenue, it pulled in
+breakthrough in value. Their strategy was to create a language learning
+
+experience that would not only make geographic and scheduling
+
+constraints irrelevant but it would also be fun, interactive, and tailored
+
+to each person’s needs. Seeing the answer in an online platform with
+
+tailored gamiﬁcation, the founders leveraged AI to actualize their
+
+strategy. AI was the ideal tool to analyze and gamify user interactions,
+
+creating leaderboards to add engagement while tailoring language
+
+lessons and feedback dynamically to each user’s needs.
+
+Duolingo could thus deliver the beneﬁts of tailored education at scale,
+
+serving millions of learners simultaneously while making language
+
+learning fun and engaging. The result: Duolingo’s strategy to oﬀer
+
+unique value to the marketplace attracted a massive global user base
+
+and proﬁtable growth. By the end of 2024, Duolingo had more than

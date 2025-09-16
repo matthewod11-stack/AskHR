@@ -1,9 +1,13 @@
-# What is (cid:5)ne-tuning?
+---
+source_path: a_i_i_n_t_h_e.md
+pages: n/a-n/a
+chunk_id: b1ac7f38ed7e77c6bd6a7323d80426d25ce55f3e
+title: a_i_i_n_t_h_e
+---
+## Nishant Gupta Senior Director, Data, Analytics and Computational Intelligence
 
-If a GPT model is a store-bought suit, fine-tuning is the tailored option—the way you customize% the model to your organization’s specific data% and needs.
+Product Note: OpenAI has launched Vision Fine-Tuning to further improve ecommerce search and address challenges in medical imaging and autonomous driving.
 
-Why it matters:
+14
 
-Improved accuracy
-
-By training on your unique data—such as product% catalogs or internal FAQs—the model delivers more% relevant, on-brand results.
+AI in the Enterprise

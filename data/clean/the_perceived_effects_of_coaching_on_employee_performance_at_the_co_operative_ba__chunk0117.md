@@ -1,15 +1,19 @@
-## Figure 4.3.4: Learning and growth perspective
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: fcafc0b9ad78d51455d6529f41c7bd9b03c41103
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+## 4.3.4(cid:32) Learning and Growth Perspective
 
-The findings indicate that individuals are much more likely to regard coaching in a
+According to figure 4.3.4. below, about 70% of the respondents acknowledged that
 
-positive light if they associate coaching with learning, and are already enthusiastic
+through coaching they have been able to achieve their set career and performance
 
-about their own personal development. Coaching develops leaders not for
+goals. They have shown steady progress in attaining these set goals. Their attitudes
 
-leadership’s sake but for the purpose of improving both individual and
+have improved and also their leadership skills.
 
-organizational performance. Coaching has also enabled the coachees meet their
+(cid:51)(cid:48)(cid:32)
 
-training needs. Improvement in these skills and competencies are reflected in the
-
-performance of the employees. These responses were captured in the questions 3B,
+(cid:32)

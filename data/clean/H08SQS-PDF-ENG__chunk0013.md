@@ -1,19 +1,13 @@
-# indistinguishable forecasts for Nvidia.
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53fc211db2c47c34ecd65c0158ea1eb123b9c433
+title: H08SQS-PDF-ENG
+---
+# The Results
 
-After the consultation period, however, we found that executives
+AI led to more optimistic forecasts.
 
-who used ChatGPT became more optimistic in their forecasts. On
+The groups started with comparable baseline expectations: Before any
 
-average, the ChatGPT group raised their one-month price estimates by
-
-about $5.11.
-
-Peer discussion made forecasts more conservative.
-
-In contrast to the AI group, the peer-discussion group lowered their
-
-price estimates, on average, by about $2.20. Additionally, this group was
-
-more likely than the ChatGPT group to stick with their original estimate.
-
-If they did make a change, they were more likely to decrease their initial
+discussion or AI consultation, the two sets of executives had statistically

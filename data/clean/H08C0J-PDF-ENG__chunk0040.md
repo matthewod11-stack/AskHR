@@ -1,7 +1,25 @@
-## average return of 1.24x to 2.14x for manufacturing, transportation, and
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03929d2c125e0debef6434812b6733b48f51d5b9
+title: H08C0J-PDF-ENG
+---
+## public health tools as part of their health, safety, and wellness strategies.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Learning from data, pilots, and case studies.
 
-6
+Before you adopt an employee health strategy, you will want to collect
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and assess information about how it will help employees while also
+
+being ﬁscally responsible. Plus, you may need this type of data to
+
+convince company stakeholders that investing in employee health as
+
+it relates to climate risk is a good return on investment.
+
+To be sure, there is some data from the private sector that can
+
+help make your case. For example, research on the ﬁnancial beneﬁts
+
+of employer occupational health and safety expenditures shows an

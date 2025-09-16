@@ -1,39 +1,19 @@
-# within a week.
+---
+source_path: H07M1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94250ac6548a39e1e40b902fd806247f82549f35
+title: H07M1A-PDF-ENG
+---
+## HBR / Digital Article / Building Social Capital When You Work Remotely
 
-Once I conﬁrmed a project, I knew it was my job to communicate
+When it was time to pitch ideas or ask for favors, I wrote persuasive emails expressing my request and oﬀering support in return. I valued
 
-proactively. As a remote consultant, I needed to let management know
+people’s time and made sure to write succinctly and directly. I have
 
-that I was abreast of my work while also making meaningful
+always believed that being accessible makes you indispensable, so I
 
-connections with the team I was working with. In addition, that
+stayed on top of my inbox to guarantee my responsive communication
 
-ensured that I received up-to-the-minute information. When you are
+was swift. I knew being readily available for whatever came my way
 
-not physically present, it is easy for others to forget they need to
-
-communicate directives beyond their four walls. I needed to stay on
-
-people’s radars and demonstrate reliability. A good result with one
-
-client would naturally lead to a subsequent referral.
-
-The same issues can also aﬀect a corporate remote employee. When you
-
-don’t have the luxury of proximity, it’s easy to get left behind and feel a sense of loneliness. Remote employees need to make a greater eﬀort
-
-to actively participate in the company culture than people physically in
-
-the oﬃce. That means they, too, need to communicate proactively and sometimes overcommunicate, while also making a concerted eﬀort to have virtual coﬀees with teammates.
-
-Hybrid employees that straddle in-person and remote life typically have
-
-the bulk of the meeting load crammed into their in-oﬃce days. That requires them to balance their relationship-building eﬀorts and focus
-
-on more than just the colleagues they physically see.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+was vital. If my outreach met silence, I followed up again appropriately

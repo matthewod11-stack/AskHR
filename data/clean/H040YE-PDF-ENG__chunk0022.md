@@ -1,21 +1,13 @@
-# top universities.
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d7466fa472e38244809eab6cbbbce53625fa6d8
+title: H040YE-PDF-ENG
+---
+## Europe the largest source of foreign trained PhD executives in the U.S.
 
-Where do they work?
+Europe, followed by Canada, is also the largest source of foreign trained
 
-IT and healthcare are the two sectors with the highest concentration of
+MBA executives in the U.S. This is probably to be expected, since Europe
 
-foreign-trained executives of all ethnicities. Consumer Products and
-
-Banking and Finance are two other major concentration industries.
-
-About 42% (or 61) of executives who received their training in the
-
-Caribbean are employed in the Health sector; whereas 45% (or 328) of
-
-executives trained in the Middle East are employed in the IT sector.
-
-Copyright © 2017 Harvard Business School Publishing Corporation. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+comes second to the U.S. in terms of being home to some of the world’s

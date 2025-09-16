@@ -1,17 +1,25 @@
-# and expansive ways.
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8386ac7f3c02d1317fb4f639df0240c68f67ecf
+title: H08SI8-PDF-ENG
+---
+## HBR / Digital Article / How 6 Companies Approached Digital Transformation
 
-To enact these changes, Martin Coppola had to engineer signiﬁcant
+“[T]his process is a bit like an iceberg,” Martin Coppola told HBR in an
 
-buy-in from employees. “I had to ﬁrst become accepted as part of
+interview. “At the top of the iceberg, we have the customer needs and
 
-the community,” she said. “The company values are about hard work,
+adaptation—revamping everything around customer interaction and
 
-humbleness, being down to earth, and a strong entrepreneurial spirit—
+new purchasing journeys—and under the surface we are making huge
 
-people want to go the extra mile for the company. I had to show through
+changes to our business and operating model. And what is under the
 
-my behavior that I share the same values. Then, it was about meeting
+surface is a much bigger change than what we see above.” In practical
 
-people and communicating an inspiring vision. Finally, it was about
+terms, that meant rolling out new data policies and communicating
 
-putting forward simple steps that people can see themselves following.”
+them to customers, integrating the app into the retail experience,
+
+introducing new AR and VR tools, and broadly embracing data in new

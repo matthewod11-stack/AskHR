@@ -1,45 +1,59 @@
-# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
-
-from a manager of the buyer experience at eBay managing 18 product
-
-managers to being a nice individual contributor in product marketing.
-
-And along came my seventh manager at Facebook, and after two and a
-
-half years he said to me, “You’ll be a vice president here someday.” And
-
-I remember laughing at him because he wasn’t a vice president, and he
-
-had bet his career on me. And when you see that, you feel it, you can be
-
-nothing but grateful and want to pay that forward.
-
-ADI IGNATIUS:
-
-When you look inside and look at your own skills and capabilities, what
-
-counts as your superpower, what do you think has gotten you where you
-
-are?
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 749a16fed9f7d91cd68f3fba43e601310e5d4b05
+title: H07DLJ-PDF-ENG
+---
+# Deborah Liu, author and CEO of Ancestry?
 
 DEB LIU:
 
-So we talk about how your superpower is something that comes easy
+Well, I just remember when I joined PayPal, I actually accidentally
 
-to you, but really hard to other people. And as a result of it, people
+stumbled on a job at PayPal because I stopped by a career fair. And
 
-can’t see it. I love strategy. I love kind of unwinding and weaving
+when I ﬁrst became a product manager, I remember having to admit
 
-through, and saying, “Hey, here’s what we should do,” because it’s
+that I had no idea what the role was. And I went to the VP I worked for,
 
-gathering all the information, the customer research, the data, and then
+Amy Klement, and I said, “I got this job, and I have no idea what this is.”
 
-powering through and saying, “Here’s a recommendation.” I started my
+And she actually taught me the ropes. She showed me what it was to be
 
-work actually as a strategy consultant, and I have carried that through
+a successful product manager, and I was leading the buyer experience,
 
-products, through becoming a GM, and so on and so forth. It’s really a
+and we were at PayPal, and we were acquired by eBay. And suddenly,
 
-clarity of understanding of what our strategy should be. And so I have
+I was in charge of a big chunk of the integration. And she took a huge
 
-spent my career honing that and then building out teams to actually
+risk on me. I had only been a product manager maybe two or three years
+
+when she in fact chose me to run that team to lead the integration.
+
+She gave me such conﬁdence that she had a choice amongst many
+
+seasoned professionals. And she picked somebody who was really new
+
+and made me not only manager, but the head of the team, the biggest
+
+line of business at PayPal. And this is the kind of career accelerant that
+
+you can only dream of. It would’ve taken me 10 years to earn that role,
+
+but I didn’t want to fail her. I worked incredibly hard, and I built that
+
+team out and built that integration out.
+
+And the same thing was true. I was really stuck after six years of having
+
+kids. I was working at PayPal, then I went to eBay, and then I went
+
+to Facebook, and I felt really stuck for six years, and not only didn’t
+
+get promoted, I took a demotion to go to Facebook. And I had gone
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+11
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

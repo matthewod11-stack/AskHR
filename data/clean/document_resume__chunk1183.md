@@ -1,5 +1,9 @@
-# 1 Unacceptable
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 0721ee946351ba053f8669dd1cd72da974baaac7
+title: document_resume
+---
+# 2 Marginal
 
-Strays from subject matter during classes. Exhibits minimal knowledge of subject matter. Discourages student participation. Unavailable to students seeking help outside of class.
-
-- 3. Presentation of Instruction Provides formalized verbal instruction to students.
+Generally uses same method of presentation. Occasionally loses sight of objectives during class time. Demonstrates knowledge in subject area. Presents essential information. Answers student questions, but fails to involve students in presentations. Is avail- able for outside help when needed.

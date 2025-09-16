@@ -1,11 +1,7 @@
-# Ask for alternatives.
-
-If workers ﬁnd data collection programs to be overly intrusive, they may
-
-ask for alternative, less-intimate forms of data collection that achieve
-
-the same purpose. CONSOL Energy, a coal mining company, rolled out
-
-a biometric hand scanner to track attendance of its workers. One of its
-
-laborers, Beverly Butcher, asked for an alternative method of tracking
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3e355fefdde9356b22df94f7eed5b68e17583ca
+title: H08QRZ-PDF-ENG
+---
+## HBR / Digital Article / The Risks of Collecting Employees’ Biometric Data

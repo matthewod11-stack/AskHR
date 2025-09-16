@@ -1,25 +1,29 @@
-# performance outcomes.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 4c11bbdbe4f896ce7067a63b052fd3f7540a18c0
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## Mediating Mechanisms: Trust in the Leader and LMX Quality
 
-The second notable finding from our mediation analysis was that for most leadership
+Trust in the leader and LMX quality represent competing SET based variables that
 
-styles, trust in the leader explained a greater proportion of the overall indirect effect with
+can explain the link between leadership styles and follower outcomes. While LMX is one of
 
-performance and OCB compared to LMX quality. The exceptions were the relationship
+the most frequent operationalisations of SET, trust and particularly affective trust is among
 
-between empowering leadership and performance and between the moral and benevolent
+the most content valid (Colquitt et al., 2014). Overall, the results of our mediation analysis
 
-dimensions of paternalistic leadership and OCB; where LMX explained a larger proportion of
+provided two key findings. Firstly, LMX quality and trust in the leader were distinct
 
-the indirect effect. These findings are interesting, especially as previous meta-analyses
+mediators each demonstrating significant indirect effects between leadership and both
 
-comparing the mediating role of LMX and trust have generally found stronger indirect effects
+performance and OCB. The exception to this overall pattern relates to paternalistic
 
-between specific styles of leadership and follower outcomes via LMX compared to trust. In
+leadership. Specifically, we found that trust did not mediate the relationship between any of
 
-their meta-analysis, Nohe and Hertel (2017) found that LMX was the strongest mediator
+the dimensions of paternalistic leadership and OCB, while LMX did not mediate the
 
-between transformational leadership and OCB. Similarly, Lee and colleagues (2020) found
+authoritarian dimension of paternalistic leadership. Taken together these findings highlight
 
-LMX was the primary mediating mechanism for relationships between servant leadership and
-
-a range of employee outcomes as well as between empowering leadership and job
+that LMX and trust in the leader provide distinctive exploratory pathways for both other-rated

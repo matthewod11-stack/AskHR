@@ -1,25 +1,23 @@
-# mobile.
+---
+source_path: H087Y6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be72c44cafdc190df4c31381891e3c97a9d0d4cc
+title: H087Y6-PDF-ENG
+---
+## work as a law professor and labor policy expert, and my research-backed
 
-What’s in the FTC’s Action
+belief that noncompetes harm both workers and businesses.
 
-The FTC’s rule is broad in several ways. “Worker” is deﬁned not just
+Now that we’re here, questions still loom, as there are already challenges
 
-as an employee but also includes independent contractors, externs,
+in court to block the FTC’s action. But company leaders would be well
 
-interns, volunteers, apprentices, or a sole proprietor who provides a
+advised to understand what’s in the rule, its potential impact, and what
 
-service. The rule also broadly deﬁnes noncompete clauses not only as
+it could mean for employees. Far from being an anti-business rule, the
 
-terms or conditions of employment that explicitly prohibit a worker
+new FTC ban on noncompetes stands to actually spur innovation and
 
-from competing with a former employer, but also to mean any other
+grow markets. Employers should plan for a new landscape in which only
 
-clauses that “penalize a worker for” or “function to prevent a worker
-
-from” competing. With this deﬁnition, the FTC also prohibits clauses
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+true trade secrets are protected, while talent and creativity remain freely

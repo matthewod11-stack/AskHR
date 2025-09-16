@@ -1,7 +1,11 @@
-## 6.7 PREVENTING RATING DISTORTION THROUGH RATER TRAINING PROGRAMS
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: df4bdf4711bd86f935115722975e28c464b9fd9d
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 6 • Gathering Performance Information
 
-Rater training programs have the overall objective of providing raters with tools that will allow them to implement the performance management system effectively and efficiently. These training programs also help prevent rating distortion. Table 6.3 summarizes the reasons discussed earlier for why raters are likely to inflate or deflate ratings.
+within her unit, and communicating that performance management is a key part of a supervisor’s job. Also, supervisors need to have tools available to make their job of providing accurate ratings and feedback easier. This includes training on, for example, how to conduct the appraisal interview so that supervisors are able to provide both positive and negative feedback and are skilled at conveying both positive and, negative news regarding performance.
 
-How can training programs help mitigate the reasons causing intentional rating distortion listed in Table 6.3? Remedial programs include content related to informa- tion, motivation, and skills. Recall that, in addition to intentional errors, raters are likely to make unintentional errors in rating performance. Training programs, therefore, must address both types of errors and essentially, the goal is to align the goals of the rater with the goals of the performance management system so that raters are partners and active contributors to the process.45 Specifically, training programs may cover the following topics:
-
-- Reasons for implementing the performance management system. This includes an overview of the entire system, its purpose, and benefits for all employees.
+In addition to conscious and intentional errors in the rating process, raters are likely to make unintended errors. Observing information about performance, storing this information in memory, and then recalling it when it is time to fill out the appraisal form is a complex task. This task becomes more complex with more complex jobs that include several unrelated performance dimensions. Because of the cognitive complexity of the performance evaluation process, raters are likely to make not only intentional but also unintentional errors in evaluating performance. These errors are discussed in detail in Chapter 7. To a large extent, these errors can be minimized by improving the skills of those responsible for providing performance evaluations. These training programs, which target mostly supervisors, are discussed next.

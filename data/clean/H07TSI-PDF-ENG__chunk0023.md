@@ -1,39 +1,41 @@
-## HBR / Digital Article / Does Your Hybrid Strategy Need to Change?
+---
+source_path: H07TSI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4dac48733c5c2913c08236c5acc2a4beaab9dd51
+title: H07TSI-PDF-ENG
+---
+# Rethink How Work Gets Done
 
-Companies like Cisco and Dropbox are redesigning their oﬃce space
+“Place” is just another tool for getting work done. As HBS professor
 
-to make it more amenable to collaboration. Such moves are consistent
+Tsedal Neeley has observed, “I talk about using the oﬃce as a tool, the
 
-with their respective work model policies, which enable employees to do
+same way we use various technologies as tools to communicate and
 
-focus work remotely and encourage employees to come together for key
+engage. If you see the oﬃce as a tool, you determine what speciﬁc uses
 
-events such as all-hands meetings. As Cisco’s CEO Chuck Robbins put it, in today’s world you have to oﬀer a compelling “return on commute” to
+it has for collaborations that require people to be physically present
 
-get your employees bought into coming into the oﬃce.
+together.”
 
-Redesigned work models also need to consider the ways in which we
+Yet 62% of our survey respondents told us that they do not have a say in
 
-communicate. For example, we worked with Verizon to improve the
+their work model policy. Instead, it is dictated either by company-wide
 
-way they run meetings, such as scheduling 25- or 50-minute meetings
+guidelines or by their manager. Of all participants, 39% reported that
 
-with a 5- or 10-minute lagged start time to give people breathing room.
+their company decides where they work. In these companies, 24% of
 
-We also identiﬁed meetings that could be replaced by asynchronous modes of work (such as email, chat, shared documents, or oﬄine
+employees were unhappy with their work location policy; this ﬁgure
 
-review) and clariﬁed what “required” and “optional” meant. In our experiments, 90% of participants reported overall meeting eﬀectiveness
+decreases to 14% if the manager decides, and to 6% if the team decides.
 
-had improved and 78% felt they wasted less time sitting in meetings
+The closer to the executors of the work the policy gets set, the more
 
-where their live participation wasn’t required.
+satisﬁed employees are.
 
-Leaders will also need to monitor the impact of new technologies
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-that they introduce. The generative AI experiment mentioned above
+5
 
-also revealed that overreliance on generative AI can lead to a loss of
-
-collective diversity of ideas. As leaders seek to beneﬁt from the value
-
-creation opportunities of generative AI, they’ll need to consider where and how people collaborate most eﬀectively to ensure they retain their
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

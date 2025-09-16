@@ -1,9 +1,33 @@
-## functional teams with the right expertise.
+---
+source_path: S24022-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3ae53d6e8242bbd38170170308bff8d9c33d7ffa
+title: S24022-PDF-ENG
+---
+## HBR / Spotlight Article / Create a System to Grow Consistently
 
-Vertex is a global biotech ﬁrm that has grown by delivering on its
+glean insights from cameras placed in their homes) so that it can
 
-purpose to provide novel treatments in specialty disease areas such
+create innovative oﬀerings aimed at solving a wider set of customer
 
-as cystic ﬁbrosis, diabetes, sickle cell anemia, and acute pain. It
+challenges. Another linchpin is IKEA’s store set-up capability that improves customers’ browsing and shopping experience by eﬃciently
 
-has designed a novel end-to-end operating model that breaks down
+organizing collections of merchandise. Thanks to these carefully
+
+architected capabilities, IKEA has expanded its oﬀering globally while
+
+growing sales with existing customers.
+
+Create the right operating model. Operating models constrain growth
+
+when they promote silos around key functions such as marketing,
+
+sales, product development, pricing, and customer service. In too many
+
+companies, each function creates its own operating model, which
+
+impedes collaboration. To build the kind of integration necessary in
+
+a growth system, companies must rethink how they organize the most
+
+important parts of their businesses, setting up outcome-oriented, cross-

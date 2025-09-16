@@ -1,5 +1,9 @@
-# 1.5.4 Developmental Purpose
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 7f2a1beff86e1e7dbdfca18d7e538388cb5f2dd7
+title: performance_management_3rd_edition_by_aguinis
+---
+# 1.5.3 Informational Purpose
 
-As noted earlier, feedback is an important component of a well-implemented per- formance management system. This feedback can be used in a developmental man- ner. Managers can use feedback to coach employees and improve performance on an ongoing basis. This feedback allows for the identification of strengths and weak- nesses as well as the causes for performance deficiencies (which could be due to individual, group, or contextual factors). Of course, feedback is useful only to the extent that remedial action is taken and concrete steps are implemented to remedy any deficiencies. Feedback is useful only when employees are willing to receive it. Organizations should strive to create a “feedback culture” that reflects support for feedback, including feedback that is nonthreatening and is focused on behaviors and coaching to help interpret the feedback provided.39
-
-Another aspect of the developmental purpose is that employees receive information about themselves that can help them individualize their career paths. Thus, the develop- mental purpose refers to both short-term and long-term aspects of development.
+Performance management systems serve as an important communication device. First, they inform employees about how they are doing and provide them with information on specific areas that may need improvement. Second, related to the strategic purpose, they provide information regarding the organization’s and the supervisor’s expecta- tions and what aspects of work the supervisor believes are most important.

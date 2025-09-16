@@ -1,7 +1,17 @@
-# energy.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cf51f4ce783c3612711b3c39de40d8f10b3add90
+title: H08TK8-PDF-ENG
+---
+# leader, and relationships.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Emotional depletion is a real and signiﬁcant tax of modern leadership.
 
-2
+Recovery is no longer a luxury. Instead, it’s a leadership imperative,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+critical for protecting your well-being and sustaining your capacity to
+
+lead over the long haul. After a challenging event or period, use these
+
+three proven practices to process your emotions and replenish your

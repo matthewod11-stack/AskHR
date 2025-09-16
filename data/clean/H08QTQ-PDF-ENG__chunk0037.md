@@ -1,7 +1,25 @@
-## that support managers—through training, communication tools, and
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a49ca6e476fc1bb1d824f59aa6fd0863c099614b
+title: H08QTQ-PDF-ENG
+---
+# makers.
 
-systems for tracking and auditing assignments—more employees can
+As an example, at another company we studied, junior employees
 
-beneﬁt from stretch work. This not only accelerates individual career
+were matched with senior mentors who not only supported them
 
-growth, but also strengthens the organization’s ability to build a diverse
+through challenging projects but also helped translate that experience
+
+into broader career gains. This kind of mentorship, layered on top
+
+of day-to-day managerial support, demonstrated an organization-wide
+
+commitment to equitable development.
+
+Ultimately, our research underscores the importance of designing
+
+systems that make the value and rewards of stretch assignments clear,
+
+consistent, and accessible. When organizations invest in structures

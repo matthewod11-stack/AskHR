@@ -1,7 +1,9 @@
-# YOUNG PSYCHOLOGISTS INITIATIVE
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0548d9902f8b4c09d352098393aeeb728d38d602
+title: untitled
+---
+## THE U.S. CONGRESS THAT WAS HELD IN CANADA
 
-To encourage participation by younger colleagues, the steer- ing committee for the 1963 International Congress in Washington, DC, developed a Young Psychologists Program. It was oriented to persons under age 30 who had received their highest degree in psychology within the previous 5 years. Funds were raised from individual psychologists and from regional and state associations to support 22 young col- leagues, one from nearly each of the union’s member soci- eties. The Canadian Psychological Association supported one of their own. Psychologists residing in the Washington area generously provided lodging in their homes, logistical assis- tance, and a chance to become acquainted with the city.
-
-Special meetings were arranged with senior psychologists and journal editors.
-
-The steering committee expressed the hope that the Young Psychologists Program would establish a precedent and that similar endeavors would be organized at future congresses for promising younger psychologists not normally able to at- tend an International Congress of Psychology on their own. Happily, a Young Psychologists Program has been organized at each subsequent congress and has also become a feature of the quadrennial International Congress of Applied Psy- chology, further fostering international cooperation, commu- nication, and exchanges.
+One of the main purposes of international congresses is to encourage scientists and practitioners from diverse countries tomeetinanatmosphereoffriendlyrelaxation.Withrisingin- ternational tensions and growing ideological conﬂict in the post–World War II years, it was inevitable that these factors would affect international relations in psychology. North American psychologists remember with embarrassment the domestic political circumstances of the McCarthy era, which made it impractical to hold the 1954 International Congress in the United States as originally planned. The Canadian Psy- chologicalAssociationcametotherescuewithanoffertohold the congress in Montreal, organizing it jointly with the APA. To cope with anticipated ﬁnancial problems, the Congress Planning Committee created a category of honorary member- ship of $15 for those psychologists who wished to contribute despite their inability to attend. The names of the honorary members were listed in the proceedings. Disappointment at the small attendance was offset by the feeling of intimacy that developed and by the general atmosphere of relaxation (MacLeod,1957).Conceivedduringthecongresswastheﬁrst major volume to be published under the auspices of the Inter- national Union of Psychological Science (IUPsyS), with 22 contributors from nine countries.All royalties were allocated to the union to aid in the development of further international contacts and cooperation (David & von Bracken, 1957).

@@ -1,15 +1,23 @@
-## cess. Academy of Management Journal, 42, 641–651. doi:10.2307/256985
+---
+source_path: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio.md
+pages: n/a-n/a
+chunk_id: d3509085e3df0e33429dd11d078543b868436865
+title: facilitating_a_whole_life_approach_to_career_development_the_role_of_organizatio
+---
+# Jossey-Bass.
 
-Kanter, R. M. (1989). When giants learn to dance: Mastering the challenge of strategy, management, and careers
+Hall, D. T. (2004). The protean career: A quarter-century journey. Journal of Vocational Behavior, 65, 1–13. doi:
 
-in the 1990s. New York, NY: Simon and Schuster.
+10.1016/j.jvb.2003.10.006
 
-Kelly, E. L., Kossek, E. E., Hammer, L. B., Durham, M., Bray, J., & Chermack, K., ... Kaskubar, D. (2008). Getting there from here: Research on the effects of work–family initiatives on work–family conflict and business outcomes. The Academy of Management Annals, 2, 305–349. doi:10.1080/19416520802211610 Kendall, D. (2013). Mentoring: Building leaders in powerful developmental relationships. In C. McCauley, D. DeRue, P. Yost, & S. Taylor (Eds.), Experience-driven leader development models, tools, best practices, and advice for on-the-job development (pp. 405–411). San Francisco, CA: John Wiley.
+Hall, D. T., & Mirvis, P. H. (1996). The new protean career: Psychological success and the path with a heart. In D. T. Hall (Ed.), The career is dead: Long live the career (pp. 15–45). San Francisco, CA: Jossey-Bass Publishers.
 
-Kirchmeyer, C. (2000). Work-life initiatives: Greed or benevolence regarding workers’ time? In C. L. Cooper & D. M. Rousseau (Eds.), Trends in organizational behavior: Time in organizational behavior (Vol. 7, pp. 79–94). Chichester, England: Wiley.
+Hammer, L. B., Kossek, E. E., Yragui, N. L., Bodner, T. E., & Hanson, G. C. (2009). Development and validation of a multidimensional measure of family supportive supervisor behaviors (FSSB). Journal of Management, 35, 837–856. doi:10.1177/0149206308328510
 
-Kossek, E. E., & Ozeki, C. (1998). Work–family conflict, policies, and the job–life satisfaction relationship: A review and directions for organizational behavior–human resources research. Journal of Applied Psychology, 83, 139–149. doi:10.1037/0021-9010.83.2.139
+Hammer, L. B., Kossek, E. E., Zimmerman, K. L., & Daniels, R. (2007). Clarifying the construct of family- supportive supervisory behaviors (FSSB): A multilevel perspective. In P. L. Perrewe´ & D. C. Ganster (Eds.), Research in occupational stress and well being: Vol. 6. Exploring the work and non-work interface (pp. 165–204). Amsterdam, the Netherlands: Elsevier.
 
-Kossek, E. E., Pichler, S., Bodner, T., & Hammer, L. B. (2011). Workplace social support and work-family con- flict: A meta-analysis clarifying the influence of general and work-family-specific supervisor and organiza- tional support. Personnel Psychology, 64, 289–313. doi:10.1111/j.1744-6570.2011.01211.x
+Iles, P. (1997). Sustainable high-potential career development: A resource-based view. Career Development
 
-Kram, K. E., & Isabella, L. A. (1985). Mentoring alternatives: The role of peer relationships in career develop-
+International, 2, 347–353. doi:10.1108/13620439710187981
+
+Judiesch, M. K., & Lyness, K. S. (1999). Left behind? The impact of leaves of absence on managers’ career suc-

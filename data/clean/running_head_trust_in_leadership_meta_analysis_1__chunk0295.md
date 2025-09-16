@@ -1,3 +1,7 @@
-# Authentic Leadership
-
-A pattern of leader behaviour that draws upon and promotes both positive psychological capacities and a positive ethical climate, to foster greater self-awareness, an internalised moral perspective, balanced processing of information, and relational transparency on the part of leaders working with followers, fostering positive self- development.
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: fa7109b62ce7247e7f088633b290ad2646020ad0
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Leadership Style Definition

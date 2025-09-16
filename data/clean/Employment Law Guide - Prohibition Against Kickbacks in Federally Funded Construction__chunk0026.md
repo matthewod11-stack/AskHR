@@ -1,15 +1,24 @@
-# Basic Provisions/Requirements
+---
+source_path: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded
+  Construction.md
+pages: n/a-n/a
+chunk_id: 6d71049ff35dd2d61bb937d8c668b96160f1716c
+title: Employment Law Guide - Prohibition Against Kickbacks in Federally Funded Construction
+---
+# work on contracts for the construction, prosecution, repair, or completion of public buildings, public works, or
 
-The Copeland Act's Anti-Kickback provision prohibits contractors and subcontractors performing work on
+works which are ﬁnanced in whole or in part by loans or grants from the United States. This provision applies even where no labor standards statute covers the contract, but does not apply to contracts for which the only
 
-covered contracts from in any way inducing an employee to give up any part of the compensation to which he
+federal assistance is a loan guarantee.
 
-or she is entitled. The Copeland Act and implementing regulations also require contractors and
+The Copeland Act provisions pertaining to payroll deductions, the submission of weekly payroll reports, and
 
-subcontractors performing on covered contracts to pay their employees on a weekly basis and in cash or a negotiable instrument payable on demand and to submit weekly payroll reports of the wages paid to their
+the method by which contractors and subcontractors must pay their employees apply to contracts in excess
 
-laborers and mechanics during the preceding payroll period. Additionally, the Act's regulations at 29 CFR 3.5
+of $2,000 for the construction, prosecution, repair, or completion of public buildings, public works, or works which are supported by the United States, including buildings or works for which the federal assistance
 
-and 3.6 list payroll deductions that are permissible without the approval of DOL and those deductions that
+granted is in the form of loan guarantees or insurance.
 
-require consent of DOL and prohibit all other payroll deductions.
+A public building or public work is a building or work for whose construction, prosecution, completion, or
+
+repair a federal agency is a contracting party, regardless of whether title thereof is in a federal agency.

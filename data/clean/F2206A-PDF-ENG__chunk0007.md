@@ -1,7 +1,21 @@
-# operate under manager-directed norms.
+---
+source_path: F2206A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69f0701cbc6ecf4d61adc2e08db66b50148069f6
+title: F2206A-PDF-ENG
+---
+# the culture.”
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Companies should help employees see that their value comes from
 
-3
+the role they perform, not their physical location. For example, Virgin
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Money, a ﬁnancial-services company, identiﬁes its call center workers as
+
+the “voice of the company.” Employees use an app to pinpoint what they
+
+most value in their work and then talk with their managers about how
+
+to adjust their roles to reﬂect those priorities. Companies should also
+
+encourage teams to set the rhythms for how work gets done rather than

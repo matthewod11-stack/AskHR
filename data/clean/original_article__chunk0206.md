@@ -1,13 +1,25 @@
-# Causes of Scotland: A. and C. Black.
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: fe9a5016c8c875ca195bde19251c73a2adfbdf13
+title: original_article
+---
+# Shadab, H.B.
 
-Smith, M.P. (1996) Shareholder activism by institu- tional investors: Evidence from CalPERS. The Journal of Finance 51(1): 227–252.
+Innovation and corporate governance: The impact of Sarbanes-Oxley. University of Pennsylvania Journal of Business and Employment Law 10(4), available at SSRN: http://ssrn.com/abstract=1019589.
 
-Sonnenfeld,
+Neill, D. and Dulewicz, V. (2010) Inside the ‘black box’: The performance of boards of directors of unlisted companies. Corporate Governance 10(3): 293–306.
 
-great boards great. Harvard Business Review 80(9): 106–113.
+Nicholson, G. and Kiel, G. (2004) Breakthrough board performance: How to harness your board’s intellectual capital [1]. Corporate Gov- ernance 4(1): 5–23.
 
-J.A.
+O'Reilly,
 
-(2002) What makes
+III C.A., Williams, K.Y. and Barsade, S. (1998) Group demography and innovation: Does diversity help? In: D.H. Gruenfeld (ed.) Composition Research on Managing Groups and Teams, Vol. 1, USA: Elsevier Science/JAI Press, pp. xi, 272 ; pp. 183–207.
 
-Spellman, G. and Watson, R. (2009) Corporate governance ratings and corporate perfor- mance: An analysis of Governance Metrics International (GMI) ratings of US ﬁrms, 2003 to 2008, Available at SSRN: http://ssrn.com/ abstract=1392313; http://dx.doi.org/10.2139/ ssrn.1392313.
+Payne, G.T., Benson, G.S. and Finegold, D.L. (2009) Corporate board attributes, team effec- tiveness and ﬁnancial performance. Journal of Management Studies 46(4): 704–731.
+
+Pettigrew, A. (1992) On studying managerial elites.
+
+Slater, S.F. (1997) Developing a customer value- based theory of the ﬁrm. Journal of the Academy of Marketing Science 25(2): 162–167.
+
+Smith, A. (1863) An Inquiry into the Nature and the Wealth of Nations. Edinburgh,

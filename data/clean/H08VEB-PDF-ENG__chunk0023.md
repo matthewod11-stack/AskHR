@@ -1,27 +1,23 @@
-# things, too.
+---
+source_path: H08VEB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45b9ada65a2eede6f3345746f06193aa0ea9b03c
+title: H08VEB-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Normalize Emotion at Work
 
-When people feel safe naming what’s real, it beneﬁts their health, team
+There are small ways to do this. During crunch times, you might say: “I
 
-performance, and the culture you’re trying to build.
+know things are hectic. I’m feeling stressed too—but we’ll get through
 
-The best leaders don’t hide their emotions or overlook others’. They
+it together.” Acknowledging a shared “negative feeling” can help create
 
-notice, name, get curious, and normalize them. The more you value
+calm and show your team you’re in it with them. During one-on-ones
 
-and explore emotions, the healthier, more resilient, and eﬀective you
+or team meetings, ask questions that prompt people to reﬂect on their
 
-will become. And as AI takes on more technical tasks, your ability to
+state of mind, like: “What’s one thing you’re feeling good about, and one
 
-navigate the emotional will set you apart. Emotions aren’t a weakness;
+thing that’s weighing on you?” You might also share a past challenge
 
-they’re your most powerful leadership advantage.
-
-This article was originally published online on August 21, 2025.
-
-Dina Denham Smith is an executive coach to senior leaders and teams at top global companies such as Adobe, Netﬂix, PwC, Dropbox, Goldman Sachs, Stripe, and numerous high-growth startups. A former business executive, she is the lead author of the bestselling book Emotionally Charged: How to Lead in the New World of Work. Connect with her on LinkedIn or at dinadsmith.com, and subscribe to her newsletter for proven strategies to accelerate your success.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you’ve faced in your life or career to show you’ve been through hard

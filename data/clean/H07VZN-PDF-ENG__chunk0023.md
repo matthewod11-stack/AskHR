@@ -1,35 +1,19 @@
-# their global peers on their market.
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a855c321d30dda30c136dddcb4955236698df82
+title: H07VZN-PDF-ENG
+---
+# see here.)
 
-When we generate questions like these with global teams and then
+The questions we generated in this exercise with the global team were
 
-present them to China-based teams, they’re consistently surprised.
+speciﬁc: How does the tendering process work in China? How much
 
-Often, they realize that in the work they’ve been doing with their global
+give and take is there with your partners in government relations?
 
-team, they’ve been devoting time, energy, and resources to answering
+When talking to Chinese colleagues, how do you know when “yes” really
 
-diﬀerent questions — ones that the global team is not concerned with.
+means “no”? We then brought those questions to the China-based team,
 
-Similarly, global teams are often surprised to learn of the frustrations
-
-of their China-based counterparts. One is that as global organizations
-
-have had precipitous drops in HQ to local in-person interaction — a
-
-major draw for top local talent — and instead have swapped in an ever-
-
-increasing calendar of Zoom meetings. What this means, as we often tell
-
-HQs, is that China-based colleagues now have to work two jobs: the ﬁrst
-
-between 9:00 am and 6:00 pm, when they do their regular work, and
-
-then another from 6:00 pm to 11:00 pm, when they educate their global
-
-partners on why they’re doing what they’re doing during the regular
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+who had spent considerable time and resources working to educate

@@ -1,21 +1,19 @@
-## HBR / Magazine Article / Redesigning How We Work
+---
+source_path: R2302D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15089a5fa254005ed68c7dd0e1d71c83786bb598
+title: R2302D-PDF-ENG
+---
+# of us.
 
-organizations and employees alike are ﬁnding themselves in an
+I still believe that’s true. But ﬁguring it out will take time—
 
-uncomfortably liminal state, unmoored from past ways of working but
+perhaps longer than we expected. That’s because reimagining work
 
-lacking a sense of how best to move forward. There’s still so much we
+is complicated. As we move into the fourth year of the Covid era,
 
-just don’t know.
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-As I’ve thought about this problem and the opportunities it presents,
+1
 
-I’ve found myself returning to a model that was described decades
-
-ago by the organizational psychologist Kurt Lewin. The model predicts
-
-that when organizations are faced with an external threat, such as a
-
-merger or a new competitor, their ﬁrmly established assumptions and
-
-norms are put under pressure and begin to “unfreeze.” What follows is
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

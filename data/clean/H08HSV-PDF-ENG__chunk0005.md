@@ -1,11 +1,31 @@
-## HBR / Digital Article / When Your High Standards Derail Your Success
+---
+source_path: H08HSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a3651eb161506f839e82fb0b36cb351bf2a7fe0
+title: H08HSV-PDF-ENG
+---
+# Pause
 
-- What has worked with these standards in place?
+Instead of charging ahead, take a beat. Set aside 15 to 30 minutes in your
 
-- Why did I set these standards?
+week to ask yourself the following questions:
 
-- What do other people on my teams think about these standards?
+- How long have I had these standards in place?
 
-- Has the culture shifted? Should my goals shift?
+- Are they in line with the company’s goals and needs?
 
-Then, consider this question: What does “good enough” look like for
+- When did I last consider how I’m measuring success for the current
+
+situation? Do I need to recalibrate?
+
+- Have I ever discussed these standards with my team? (It’s not
+
+uncommon for leaders to have incredibly high standards…which
+
+they’ve never communicated.)
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

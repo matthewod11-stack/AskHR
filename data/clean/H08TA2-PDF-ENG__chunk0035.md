@@ -1,11 +1,11 @@
-## implied exclusivity or “private access” to the CEO.
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f667ef0e4ab4ed51a39ec42a0cbc2c806f4e954
+title: H08TA2-PDF-ENG
+---
+# Minimize executive rivalry.
 
-By moving operational discussions into small group formats, the
+Succession dynamics often create a subtle undercurrent of competition.
 
-executive team begins to operate with greater transparency and mutual
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+One-on-ones can exacerbate this by enabling power plays through

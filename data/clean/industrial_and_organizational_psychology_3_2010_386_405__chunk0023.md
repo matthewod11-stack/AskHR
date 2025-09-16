@@ -1,3 +1,11 @@
-# Salas
+---
+source_path: industrial_and_organizational_psychology_3_2010_386_405.md
+pages: n/a-n/a
+chunk_id: b71d637460e990272cc513edb9c97b10a8d79017
+title: industrial_and_organizational_psychology_3_2010_386_405
+---
+# R.S.Dalaletal.
 
-et al.,
+settings that are frequently characterized by high stakes, complexity, uncertainty, severe time pressure, and multiple goals that may nonetheless be ill-deﬁned, feedback loops, teams or crews of interacting individuals, and so forth (Pliske & Klein, 2003; Salas, Rosen, & DiazGranados, in press).
+
+The theoretical model most closely associated with NDM (Lipshitz, Klein, Orasanu, & Salas, 2001; Pliske & Klein, 2003; the recognition-primed decision model (Klein, 1998). This model, originally developed through the study of ﬁreﬁghter comman- ders, yielded several counter intuitive (from a traditional least) insights. For example, ﬁreﬁghter comman- rarely compared and then chose ders between multiple alternatives; instead, allegedly on the basis of their expertise and situation awareness, they very quickly (i.e., in a matter of moments) generated a single alternative and evaluated its worka- bility. A second alternative was generated only if the ﬁrst alternative was found to be unworkable.

@@ -1,9 +1,9 @@
-# approach things today?
+---
+source_path: H08TM2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ff3dfc60dc4ad583d4e9244c781d3a00823e08c
+title: H08TM2-PDF-ENG
+---
+# issue?
 
-- What stakeholders need to hear from me more often?
-
-- How much time do I have before a small ﬁre becomes a crisis?
-
-- What internal and external support do I need to make sure I meet my
-
-goals while serving the broader organization’s goals?
+- If we were starting over, free of past assumptions, how would we

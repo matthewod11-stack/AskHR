@@ -1,15 +1,15 @@
-## payment of the required overtime compensation.
+---
+source_path: Employment Law Guide - Hours and Safety Standards in Construction Contracts.md
+pages: n/a-n/a
+chunk_id: 7bfd574b3bf004c5077053ef672febef3ece1383
+title: Employment Law Guide - Hours and Safety Standards in Construction Contracts
+---
+# Penalties/Sanctions
 
-Accrued contract amounts may be withheld in sums necessary to satisfy the liabilities of the contractor for
+Contractors or subcontractors who intentionally violate the Contract Work Hours and Safety Standards Act
 
-unpaid wages and liquidated damages. Any contractor from whom contract monies have been withheld for liquidated damages may appeal to the head of the contracting agency. The agency head shall review the
+(CWHSSA) may be subject to ﬁnes, imprisonment, or both.
 
-administrative determination and issue a ﬁnal order. If the damages sum is determined to be incorrect, or the
+Contractors and subcontractors who violate CWHSSA's overtime wage provision are liable to the aﬀected worker(s) for the unpaid wages. Overtime wage violations may also result in the assessment of liquidated
 
-contractor or subcontractor inadvertently violated the provisions of the CWHSSA while exercising due care,
-
-the contracting agency head may recommend appropriate adjustments in the liquidated damages to the
-
-Administrator of the Wage and Hour Division, who shall issue an order with respect to the recommendation. Such order may be appealed to the Department's Administrative Review Board (Board). The contractor or
-
-subcontractor may ﬁle a claim in the U.S. Court of Federal Claims for all ﬁnal orders mandating a liability for
+damages for each calendar day a worker is allowed to work in excess of a 40-hour workweek without

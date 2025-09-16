@@ -1,7 +1,19 @@
-## Church, A. (1998), ``From both sides now: the
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 340b73be3e8cca9a2a72f3fb7878ebd917f72064
+title: journal_of_european_industrial_training
+---
+## Journal of European Industrial Training 25/1 [2001] 5±32
 
-power of teamwork ± fact or fiction?'', Team Performance Management, Vol. 4 No. 2, pp. 42-52.
+[28]
 
-Church, A. and Bracken D. (1997), ``Advancing the state-of-the-art of 3608 feedback: guest editors' comments on the research and practice of multi-rater assessment methods'', Group and Organization Management, Vol. 22 No. 2, June, pp. 149-61.
+productivity?'', Sloan Management Review, Vol. 28 No. 4, Summer, pp. 63-73.
 
-Coates, D. (1998), ``Don't tie 360 feedback to pay'', Training, Vol. 35 No. 9, September, pp. 68-75.
+Bernardin, H., Dahmus, S. and Redmon, G. (1993), ``Attitudes of first-line supervisors toward subordinate appraisals'', Human Resource Management, Vol. 32 Nos. 2 and 3, Summer/ Fall, pp. 315-24.
+
+Bettenhausen, K. and Fedor, D. (1997), ``Peer and upward appraisals: a comparison of their benefits and problems'', Group and Organization Management, Vol. 22 No. 2, June, pp. 236-63.
+
+Bracken, D. (1996), ``Multisource (3608) feedback: surveys for individual and organizational development'', in Kraut, A. (Ed.), Organizational Surveys: Tools for Assessment and Change, Jossey-Bass, San Francisco, CA.
+
+Cardy, R. and Dobbins, G. (1994), Performance Appraisal: Alternative Perspectives, South- Western Publishing, Cincinnati, OH. Cederblom, D. and Lounsbury, J. (1980), ``An investigation of user acceptance of peer evaluations'', Personnel Psychology, Vol. 33, pp. 567-79.

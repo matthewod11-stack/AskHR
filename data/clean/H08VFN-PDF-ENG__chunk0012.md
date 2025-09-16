@@ -1,9 +1,31 @@
-# accomplishment”)
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea292e0dd6f8665c449bbe7a5b6c0041aae16378
+title: H08VFN-PDF-ENG
+---
+# How Special Ops Trains Leadership
 
-Why was the training so eﬀective? Special Ops lacked a satisfactory
+According to internal Army assessments, recruits who completed
 
-theory—and seeking one, they contacted my lab in 2021. During the
+Special Ops training between 2005 and 2020 had a leadership success
 
-next three years we worked closely with the Army, guided by, among
+rate of more than 90%. That success was measured on multiple scales,
 
-others, Lieutenant Colonel Tom Gaines (Special Operations Command),
+including:
+
+- Integrity
+
+- Mental agility
+
+- Sound judgment
+
+- Innovation
+
+- Leads by example
+
+- Develops others
+
+- Gets results (deﬁned as “developing and executing plans while
+
+providing direction, guidance, and clear priorities towards mission

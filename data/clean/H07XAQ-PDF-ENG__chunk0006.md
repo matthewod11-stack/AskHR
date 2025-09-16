@@ -1,17 +1,13 @@
-# facing.
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2ded6ee4f3bd00b1bae4b420f92a5b4e7abaddc
+title: H07XAQ-PDF-ENG
+---
+## HBR / Digital Article / When Designing Employee Learning Programs, Less Is More
 
-We’ve come to think of this phenomenon as the “kitchen sink problem.”
+This is precisely how many employees feel when looking to upskill —
 
-Too often, employees are barraged with a huge catalog of learning
+adrift in a sea of content they can’t begin to wrap their heads around
 
-programs, many of which are saddled with so much content that it’s
-
-diﬃcult for them to know where to focus. And in connection with these
-
-programs, employees are provided exhaustive lists of resources, rather
-
-than carefully curated ones. Here are 100 courses! 70 hyperlinks! 35
-
-toolkits! Dozens of internal sites, all looped together like a Kafkaesque
-
-nightmare. Plus…videos from thought leaders! Random blogs from the
+that feels, at best, loosely related to the speciﬁc challenges they‘re

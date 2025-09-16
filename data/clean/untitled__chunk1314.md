@@ -1,5 +1,9 @@
-# New York: Guilford Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 525d9913cefed7276664b1df2d6c4a34a0ae37a6
+title: untitled
+---
+# Crofts.
 
-Harkness, S., & Super, C. M. (1983). The cultural construction of child development: A framework for the socialization of affect. Society for Psychological Anthropology, 4, 221–231.
-
-Harlow, H. F., & Harlow, M. K. (1962). Social deprivation in mon-
+Hanson, R. O., & Carpenter, B. N. (1994). Relationships in old age.

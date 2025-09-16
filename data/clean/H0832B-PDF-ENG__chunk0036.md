@@ -1,49 +1,19 @@
-# the program (73%).
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 122afadf06177e7e13160992ce5fa2268ef30777
+title: H0832B-PDF-ENG
+---
+# Integration with the Employment Cycle
 
-However, a more comprehensive approach can embed the alumni
+Given that employees transition into alumni as they leave the company,
 
-program throughout the employee lifecycle. In this situation, the
+most companies with a formal program make some eﬀort to integrate
 
-organization considers the alumni program to be an integrated part
+the alumni program into the exit process. A majority of organizations
 
-of the total employee experience. For example, some companies
+with a formal alumni program provide materials about the alumni
 
-introduce the alumni program during new employee orientation,
+network to employees during the exit process (76%) and/or send an
 
-while other companies, like McKinsey and McDonalds, introduce the
-
-alumni program as early as the recruitment stage to attract potential
-
-employees. In doing so, the organization positions the alumni program
-
-as another beneﬁt of becoming an employee and signals that they
-
-support employees in their career development even if that means
-
-taking them to a diﬀerent employer. This support ranges from enabling
-
-access to a broad network that includes current and former employees
-
-to opening up job opportunities at the organization if they choose to
-
-come back one day down the road.
-
-. . .
-
-Investing in employees and treating them well is a critical element
-
-for organizational success. But in today’s dynamic labor market
-
-environment, focusing only on retaining employees may be ﬁghting
-
-a losing battle. Instead, by developing relationships with alumni,
-
-organizations can continue to reap the beneﬁts of investments made
-
-in employees even after they’ve exited.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+email on the last day encouraging the departing employee to register in

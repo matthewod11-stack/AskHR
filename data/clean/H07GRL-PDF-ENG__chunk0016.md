@@ -1,17 +1,25 @@
-# Kaya.
+---
+source_path: H07GRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d30b99089effd241a24155d53c0b00220edd12b8
+title: H07GRL-PDF-ENG
+---
+## HBR / Digital Article / How a Parent’s Experience at Work Impacts Their Kids
 
-So what does this mean for employers? From a corporate social
+trust from his company and reported feeling highly stressed, despite
 
-responsibility standpoint, it’s clear that if work impacts employees’
+being a top performer. He described how he came home from work
 
-children, employers have a responsibility to ensure that the impact is
+tired and frustrated and, as a result, he explained that “I just don’t have
 
-as positive as possible. And from a business standpoint, it’s also in
+the energy for a needy baby.” Conversely, Sonya was a home health
 
-companies’ best ﬁnancial interests to pay attention to the eﬀects of work
+aide whose boss empowered her to manage her time independently and
 
-on their employees’ families. After all, when workers face challenges
+asked for her input on how best to support clients. Sonya felt respected
 
-with their partners or kids, this stress inevitably spills over into the
+by her supervisor, and this positivity spilled over into how she parented
 
-workplace, leading to lower productivity, more sick days and personal
+her ﬁrst-grade daughter, Kaya: When Sonya returned home from work,
+
+she was hands-on, engaged, warm, and joyful in her interactions with

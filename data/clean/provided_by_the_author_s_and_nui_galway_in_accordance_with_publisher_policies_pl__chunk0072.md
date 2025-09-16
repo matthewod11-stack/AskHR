@@ -1,25 +1,11 @@
-## talent management and firm performance relationship.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: c37d4378c41adc78e4101f358669d7501bcdb71c
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# relationship between effective talent management and overall organizational performance
 
-Highlighting the intervening variables that mediate the relationship between the inputs
+is highly relevant for our framework. We shed important light on the primary factors that
 
-and outputs in our overarching model is important for multiple reasons. First, it helps
-
-augment our understanding of the bridges that link the inputs and outputs in our model.
-
-We contend that it is through motivation, organizational commitment and extra-role
-
-behaviour that we can more fully understand and predict the effects of talent management
-
-on overall organizational performance. Specifically, we expect that effective talent
-
-management will have an indirect positive relationship with organizational performance,
-
-mediated by work motivation, organizational commitment, extra role behaviour acting
-
-separately or in combination with one another. Second, the structure of the framework
-
-provides an opportunity for a full and appropriate representation of the underlying
-
-mechanisms that moderate the talent management and performance relationship which
-
-should be incorporated in future research. In the following sections we discuss each of
+are proposed moderate

@@ -1,21 +1,35 @@
-## The disparity between improved operational performance and
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dc32fee926b8f47d9fd6f0374b28870bc6f27600
+title: R0507Q-PDF-ENG
+---
+## During the three-year period between 1987 and 1990, a NYSE electronics
 
-disappointing ﬁnancial measures creates frustration for senior
+company made an order-of-magnitude improvement in quality and on-
 
-executives. This frustration is often vented at nameless Wall Street
+time delivery performance. The outgoing defect rate dropped from 500
 
-analysts who allegedly cannot see past quarterly blips in ﬁnancial
+parts per million to 50, on-time delivery improved from 70% to 96%, and
 
-performance to the underlying long-term values these executives
+yield jumped from 26% to 51%. Did these breakthrough improvements
 
-sincerely believe they are creating in their organizations. But the hard
+in quality, productivity, and customer service provide substantial
 
-truth is that if improved performance fails to be reﬂected in the
+beneﬁts to the company? Unfortunately not. During the same three-
 
-bottom line, executives should reexamine the basic assumptions of
+year period, the company’s ﬁnancial results showed little improvement,
 
-Copyright © 2005 Harvard Business School Publishing. All rights reserved.
+and its stock price plummeted to one-third of its July 1987 value. The
 
-16
+considerable improvements in manufacturing capabilities had not been
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+translated into increased proﬁtability. Slow releases of new products
+
+and a failure to expand marketing to new and perhaps more demanding
+
+customers prevented the company from realizing the beneﬁts of its
+
+manufacturing achievements. The operational achievements were real,
+
+but the company had failed to capitalize on them.

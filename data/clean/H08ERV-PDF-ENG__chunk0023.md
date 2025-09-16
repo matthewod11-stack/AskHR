@@ -1,11 +1,23 @@
-## with diﬀerent concepts, strategies, and customer segments allows
+---
+source_path: H08ERV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6beab394cd4467a6653c13901e31dd270321ede
+title: H08ERV-PDF-ENG
+---
+## HBR / Digital Article / Research: When Should Startups Scale?
 
-entrepreneurs to gather valuable insights and validate assumptions
+growth and the prevailing narrative that fast and furious is the
 
-before committing to the costly process of scaling.
+best path to startup success, it’s crucial to approach early scaling
 
-A limitation of our research is that it examines only one dimension of
+with discernment. Avoid scaling your business and committing to a
 
-scaling — speciﬁcally, its timing — and how this dimension inﬂuences
+concept until you’ve achieved product-market ﬁt. Premature scaling
 
-startup success and failure. Other dimensions, such as mode (i.e.,
+can signiﬁcantly jeopardize your startup’s chances of success.
+
+- 2. Embrace experimentation. Secondly, it’s important to embrace
+
+a culture of experimentation and make strategic use of A/B
+
+testing. In the dynamic landscape of startup growth, experimenting

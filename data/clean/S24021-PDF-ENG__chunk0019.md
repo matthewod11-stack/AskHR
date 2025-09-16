@@ -1,11 +1,7 @@
-# Rate: What Is the Right Pace of Growth?
-
-The answer to this question seems obvious: as fast as possible.
-
-But taking a strategic perspective means that companies choose a
-
-target growth rate that reﬂects their capacity to eﬀectively exploit
-
-opportunities. Growth is a strategic choice with implications for a
-
-company’s operating processes, ﬁnancing, human resource strategy,
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85a1f947d542f91aebf0514a73c24aa02f5c1114
+title: S24021-PDF-ENG
+---
+# strategy.

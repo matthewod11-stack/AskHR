@@ -1,25 +1,31 @@
-## as a key mediating variable in our model.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: bf2086e42f1e43de98f7f3ae8fc83c9eca2f005b
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+# P= f(A,M,O)
 
-The AMO model is premised on the idea that organizational interests are best
+This equation reflects the fact that although the exact relationship between the
 
-served by an HR system that attends to employees’ interests, namely their skill
+variables has not been established, we do know that all three variables impact employee
 
-requirements, motivations and the quality of their job (Boselie et al, 2005). Given that the
+performance (Boxall and Purcell, 2008). With regard to strategic talent management, we
 
-strategic talent management system is premised on identifying high potential and high
+argue that ability should to a degree be predetermined. Given the individual was selected
 
-performing employees, deploying them in pivotal positions and supporting them with a
+as a high potential or high performing employee in being selected for the talent pool, they
 
-differentiated HR architecture, the AMO model suggest that higher levels of individual
+are likely to have a relatively high level of ability. Similarly, the fact that pivotal talent
 
-performance should be evident. In this regard it is well established that employee
+positions have been predetermined means that the incumbents should have the
 
-motivation will meditate the relationship between HRM practices and firm performance
+opportunity to contribute to organisational performance through their deployment in
 
-(Huselid, 1995; MacDuffie, 1995; Becker et al., 1997). Building on this body of literature
+pivotal talent roles. Hence motivation, defined as “a set of energetic forces that originates
 
-we recognize the key role of motivation as a meditating variable between strategic talent
+both within as well as beyond an individual’s being, to initiate work-related behaviour
 
-management and firm performance. However motivation theory has been largely
+22
 
-concerned with explaining task performance (see Locke, 1997) and says little about
+and to determine its form, direction, intensity and duration” (Pinder, 1998: 11), emerges

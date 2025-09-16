@@ -1,25 +1,23 @@
-## HBR / Digital Article / How Managers Can Dismantle “Benevolent Marginalization”
+---
+source_path: H07PM3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 044d2b13f10de702656d6e4c7173b9a60156bc80
+title: H07PM3-PDF-ENG
+---
+## experience feelings of patronization and occasional polite dismissal.
 
-Yet, a remarkable transformation can occur when women take charge of
+They also encountered instances of “mansplaining,” where men
 
-these initiatives and tailor them to meet their individual needs. This can
+condescendingly or patronizingly explain the intricacies of networking,
 
-be achieved through collaborating with women across diﬀerent levels of
+assuming women to have lesser or inferior knowledge of the subject.
 
-seniority to foster an inclusive networking environment that promotes
+These experiences can result in women feeling disillusioned and
 
-diverse voices, oﬀers mentorship and sponsorship opportunities, and
+disengaged from such initiatives.
 
-creates spaces where women can openly and genuinely engage. Our
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-research suggests that women need to adopt a strategic, long-term
+3
 
-perspective in their networking endeavors, prioritize follow-ups to
-
-build strong relationships, delineate tangible goals for professional
-
-advancement, and engage in ongoing evaluation and improvement of
-
-these initiatives. As a result, women can gain a sense of empowerment
-
-and ﬁnd their voices to collectively combat gender inequality head-on.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

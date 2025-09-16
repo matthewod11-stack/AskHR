@@ -1,17 +1,29 @@
-# HBR / Digital Article / Evaluating ROI on Your Company’s Learning and Development In…
+---
+source_path: H07TEC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bae817f4919dc1ee19804bd97abe5c0c6ca5856f
+title: H07TEC-PDF-ENG
+---
+# accurate results.
 
-act based on the outcomes of a balanced benchmarking approach, it is
+Collect baseline data before applying training.
 
-best to understand the data ﬁrst and apply the appropriate training only
+As an extension of the above recommendation, we strongly recommend
 
-after you have this understanding.
+that you collect data for your balanced benchmarking approach
 
-Connect the variables back to training.
+over several time periods prior to making any assessment decisions.
 
-It’s not enough to simply understand which teams or individuals in
+Collecting and analyzing this data does two things. First, it helps you
 
-your organization are performing at a higher or lower level relative
+become more comfortable with the data and determine whether you
 
-to the other teams or individuals. The next step is to apply training
+are capturing the proper variables. Second, it provides a baseline for
 
-to those low-performing teams and individuals to improve their
+you to compare future performance against. While it will be tempting to
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,21 @@
-# output quality.
+---
+source_path: H08QEO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c9cbce0a9fcd2766189b99ff8668d5fdf21fd46e
+title: H08QEO-PDF-ENG
+---
+# fulﬁllment in their tasks.
 
-- 5. Train Employees to Use AI Mindfully: To avoid an over-dependence on AI, organizations can oﬀer training to build employees’ ability to use gen AI thoughtfully and eﬀectively. This might include running workshops on prompt writing, engaging in critical evaluations of
+- 4. Rotate Between Tasks: Organizations can sustain both productivity
 
-AI-generated content, or introducing scenario-based exercises that
+and engagement by structuring workﬂows that alternate between
 
-highlight when human judgment should take the lead. Workers can
+AI-assisted and independent tasks. Rather than clustering similar
 
-learn how AI might complement their work and what part their own
+task types, managers can sequence the day to begin with cognitively
 
-skills have to play in their tasks—a perspective that fosters autonomy,
+demanding, solo work and shift to AI-supported tasks later for
+
+eﬃciency. For example, starting with strategy development and
+
+ending with AI-assisted editing balances mental stimulation with

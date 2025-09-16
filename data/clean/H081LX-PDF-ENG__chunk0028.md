@@ -1,9 +1,23 @@
-# TM
+---
+source_path: H081LX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8db908828bab0e9fdf2bda4e7befd9e88e11bbf
+title: H081LX-PDF-ENG
+---
+# potential.
 
-Tony Martignetti is the chief inspiration oﬃcer at Inspired Purpose Partners, where he advises leaders to stay grounded in chaotic times. He is the best-selling author of Climbing the Right Mountain: Navigating the Journey to An Inspired Life and Campﬁre Lessons for Leaders: How Uncovering Our Past Can Propel Us Forward.
+Being a humble leader is great — in most circumstances. But like
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+many things, taken to an extreme, it can end up harming your career
 
-6
+and the prospects of your team. Becoming aware of situations where
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+humility can extend too far enables you to guard against excesses
+
+and leverage the power of your genuine desire to highlight others —
+
+without sacriﬁcing too much along the way. The key lies in cultivating a
+
+balanced approach, combining humility with assertiveness.
+
+This article was originally published online on March 04, 2024.

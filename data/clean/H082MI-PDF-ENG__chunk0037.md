@@ -1,9 +1,7 @@
-# Talk about mental health
-
-Mental health is a growing concern across demographics, generations,
-
-and work models. As a leader, you have the power to create an
-
-environment where people feel safe talking about mental health at
-
-work. Here’s a practical example of a message a leader might send to
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d11345b2dc60e59db1e4b179b3a438f48d7afc8a
+title: H082MI-PDF-ENG
+---
+## fun icebreakers that auto-populate in Slack or a mobile app.

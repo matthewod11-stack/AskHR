@@ -1,11 +1,27 @@
-# HBR / Digital Article / Is Organizational Hierarchy Getting in the Way of Innovation?
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e7a09f222dd62a28ee5d6f31469ab8289d42e49d
+title: H07RXW-PDF-ENG
+---
+# process.
 
-- 1. Treat employees like intrapreneurs
+Second, there is clear and statistically signiﬁcant evidence to show
 
-- 2. Work in smaller independent units (MEs) rather than business units
+that companies who use elements of a looser RenDanHeYi model
 
-- 3. “Manage” MEs with decentralized marketplace structures rather than
+outperform their peers in terms of entrepreneurial activity, the ability
 
-centralized authority
+to attract and retain top talent, and ultimately ﬁnancial performance.
 
-- 4. Let MEs choose which support services (e.g. R&D, ﬁnance, IT) to work
+This research also brings into focus four clear characteristics of these
+
+organizations, most of which replace their traditional hierarchy. These
+
+characteristics are:
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,15 +1,13 @@
-## leverage smaller social events or informal networking opportunities.
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2551284b355e376dd3222f8feb227afd5939258
+title: H089KA-PDF-ENG
+---
+## relationships, whether organically or more structurally. Interview
 
-Stacey shared a simple idea to foster organic relationships. Her
+participants highlighted onboarding buddy programs, hosting cross-
 
-company pays for lunch delivery; everyone orders at the same time and
+functional events, ERGs, and mentoring programs.
 
-then everybody eats together. “Not necessarily [to] talk about work, but
-
-[to] be able to sit and eat together organically,” she shared.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Companies that may not have ERGs due to their size or budget can

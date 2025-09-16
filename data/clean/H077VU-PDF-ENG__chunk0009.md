@@ -1,11 +1,9 @@
-# to high-performing teams.
+---
+source_path: H077VU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8b7ceca5b9956187c4aff2c519413b004685866
+title: H077VU-PDF-ENG
+---
+# HBR / Digital Article / High-Performing Teams Don’t Leave Relationships to Chance
 
-For starters, employees with close connections at work are more
-
-productive, creative, and collaborative. They also report being more
-
-satisﬁed with their job, are less susceptible to burnout, and are less
-
-likely to leave their organization to pursue another role. In other words,
-
-not only are they better contributors, they provide more stability to a
+meaningful workplace connections drive many of the outcomes central

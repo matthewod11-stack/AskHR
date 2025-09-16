@@ -1,7 +1,7 @@
-## Ask an Expert: How Do I Ask for Time Off in a New Job?
-
-https://hbr.org/2022/04/ask-an-expert-how-do-i-ask-for-time-off-in-a-new-job
-
-6/9
-
-onboarding process, communicate openly, raise your hand andpitch in when you can, and meet your deliverables.Even better, use this time to get to know your colleagues on amore personal level: have virtual or in-person lunch or coffeechats, look to discover your mutual interests, and pay attention towhat they value. Doing so will help you become a more proactiveand helpful teammate.The goal of building a good rapport with your team isn’t to makeyourself “deserving” of a vacation. Rather, it’s to create a genuineconnection with people and build a good reputation. If you knowthat your boss and peers respect your character, it will inevitablyease some of the insecurities you may be feeling about beingjudged for taking a break. In addition, understanding your teammember’s unique working styles will you to support each other inthe best ways possible during those times.Let people know sooner rather than later.Once you commit to taking a vacation, ensure that you let yourmanager and team know at least two-three weeks ahead of time.Be considerate to not overlap your leaves with too many otherteam members and figure out who can cover for you when you’reout. When others are out on vacation, you can also volunteer tocover for them.3) You work in an “always on” and a “no breaks” culture.Recognize that it’s them, not you.Even if you notice that your manager, team, or the overallcompany culture isn’t very supportive of vacations, know that youhave nothing to be guilty or ashamed of. As long as your policystates that you’re entitled to days off, you can and should be ableto take them.
+---
+source_path: Ask an Expert_ How Do I Ask for Time Off in a New Job_.md
+pages: n/a-n/a
+chunk_id: 139a4c9371d8597db548f4e5f7d729452656838d
+title: Ask an Expert_ How Do I Ask for Time Off in a New Job_
+---
+# 9/10/25, 11:38 AM

@@ -1,27 +1,31 @@
-# businesses.
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 894eae3ee876c9d1a4d13ee10ffacd3d8c78d9d2
+title: H0785Z-PDF-ENG
+---
+## Alfred P. Sloan, Jr., CEO of Ford’s major competitor, General Motors
 
-In the 1950s, as industrial manufacturer General Electric (GE) prepared
+(GM), decided to pursue a new strategy by oﬀering diﬀerent makes and
 
-to adopt a P&L structure, it consulted with leading management thinker
+models of cars for every budget in a range of styles and colors. GM
 
-Peter Drucker, who pointed out that executives would need training to
+used consumer research to segment the market, but it always kept the
 
-make the new system work. That led GE to create a 16-week course on
+focus on markets large enough to ensure the manufacturing would be
 
-how to be a general manager, birthing its now-famous training center
+cost-eﬀective. To manage multiple products and brands, Sloan realized
 
-in Crotonville, New York. Soon after, Harvard Business School created
+that GM needed a diﬀerent organizational structure too — one with
 
-an Advanced Management Program course (which I taught for 30 years),
+divisions that each had a top leader responsible for proﬁt and loss (P&L).
 
-and consulting ﬁrms created product lines around leadership training.
+After World War II, large companies became even larger as they
 
-Companies continued to expand in size, breadth, and hierarchical
+extended their sales and production and built networks of suppliers
 
-levels, yet they also needed to coordinate across their existing
+(what we now call “ecosystems”) in countries and even on continents
 
-structures. A host of companies — including TRW, Bechtel, Citibank,
+other than their own. Many multinational corporations adopted a
 
-and Texas Instruments — began to use a matrix arrangement in which
-
-reporting relationships and accountability were shared across product,
+P&L organization structure to maintain control of their sprawling

@@ -1,7 +1,11 @@
-# How Leaders Can Make Hybrid Work
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f3f6a4bb8ade5cd918b2499d68e99244fba9fd58
+title: H087QD-PDF-ENG
+---
+## HBR / Digital Article / Using Data to Design Your Hybrid Work Policies
 
-At EY U.S., we recognized early on that the only way that we were going
+implicit message that employers send when they respect employee
 
-to get hybrid working right was to try to do so at the level of teams,
-
-with each team co-creating expectations and taking into consideration
+preferences as much as possible that creates such positive perceptions.

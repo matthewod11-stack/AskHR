@@ -1,31 +1,31 @@
-## HBR / Magazine Article / Learning Emerging Skills Doesn’t Always Pay Off
+---
+source_path: F2501A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: af8a526e06c803c1147d277b581bcf592fb595cf
+title: F2501A-PDF-ENG
+---
+## support through additional training and development programs.
 
-How do you recommend managers redesign their skills programs to
+How do you keep your workforce up to speed on emerging skills?
 
-realize the benefits of strengthening core skills?
+We do it by fostering a culture of continuous learning and empowering
 
-HR and leadership need to work together to understand job requirements
+employees to take charge of their own development. For rapidly changing
 
-and employee skills. Managers must focus on closing the gaps between
+skills, like those involving AI, we provide training on an aggressive
 
-skills supply and demand. It’s about supporting continuous development,
+schedule while ensuring employees balance their development with daily
 
-and it requires data gathering and analysis to understand the size and
+responsibilities. Managers play a crucial role in guiding their teams, helping
 
-nature of gaps across a team or unit. Once the gaps are identified,
+them navigate the challenge of staying current while meeting execution
 
-managers can work with HR to target strategies to close them. This may
+demands. The key is offering the right resources and support to help
 
-involve training, development programs, or hiring new talent. The goal is
-
-to ensure that the organization has the right skills—core and emerging—to
-
-meet its strategic objectives.
-
-A version of this article appeared in the January–February 2025 issue of Harvard Business Review.
+employees keep pace with evolving skill requirements.
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-6
+5
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

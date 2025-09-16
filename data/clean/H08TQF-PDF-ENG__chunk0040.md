@@ -1,5 +1,23 @@
-# Hybrid Architecture as the Path Forward
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 791f84bfca1801d2d13785721cc9eaeea9064ad6
+title: H08TQF-PDF-ENG
+---
+# professionals.
 
-Our experience suggests that the future of enterprise generative AI
+When evaluating AI vendors, leaders should prioritize those that
 
-implementation lies not only in choosing between generalist and
+understand the underlying structure of professional decision-making
+
+in their domain and can incorporate new information more eﬀectively
+
+than approaches requiring complete model retraining. The same
+
+principle applies whether you’re assessing solutions that understand
+
+how new legal precedents apply to particular factual circumstances or
+
+those that can quickly contextualize new ﬁnancial regulatory changes
+
+rather than simply optimizing for returns.

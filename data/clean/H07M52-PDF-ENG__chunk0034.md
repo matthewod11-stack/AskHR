@@ -1,17 +1,37 @@
-# teams.
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9baa8c26a9b9e4e4a18a7b1b51e64153af453df9
+title: H07M52-PDF-ENG
+---
+# insightful solutions.
 
-Notice others’ different sides — not just your own. Leaders shouldn’t
+In hybrid teams, the risk is that unique sources of strength are not even
 
-talk about themselves too much. They must also show interest in their
+uncovered, let alone put to their full use. Remote work is associated with
 
-employees’ complex competencies and viewpoints. If asking people
+more siloed working, which limits people’s opportunity to understand
 
-about themselves doesn’t get them energized, not much else will. And
+not just others’ knowledge bases and perspectives, but potentially to
 
-according to our research subjects, this interest can lead to a “morale
+uncover their own strengths as well.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Our research shows that energy multipliers:
 
-7
+Reveal their own idiosyncrasies — despite the vulnerability. By
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+speaking about the various aspects of their expertise, personality, and
+
+life experiences, leaders get others thinking and sharing about their
+
+own multidimensional proﬁles — which is generally a fun and exciting
+
+exercise for people to engage in.
+
+One survey taker gave this advice to his manager as the single biggest
+
+energy booster: “Talk to me about what’s going on in your life and who
+
+you really are.” While this self-revelation might feel risky, it’s actually
+
+a low-cost, proven way of building trust that’s often lacking in hybrid

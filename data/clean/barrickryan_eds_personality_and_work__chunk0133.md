@@ -1,7 +1,11 @@
-## THE STRUCTURE OF PERSONALITY ATTRIBUTES 27
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 1c773fab40e62f1f3eda483224a0eac5febc1ced
+title: barrickryan_eds_personality_and_work
+---
+## human universal. American Psychologist, 52, 509–516.
 
-Norman, W. T. (1967). 2800 personality trait descriptors: Normative operating characteristics for a university population. Ann Arbor: University of Michigan, Department of Psychology.
+Mershon, B., & Gorsuch, R. L. (1988). Number of factors in the person- ality sphere: Does increase in factors increase predictability of real- life criteria? Journal of Personality and Social Psychology, 55, 675–680. Moos, R. (1972). Assessment of the psychosocial environments of com- munity-oriented psychiatric treatment programs. Journal of Abnor- mal Psychology, 79, 9–18.
 
-Ones, D. S., & Viswesvaran, C. (1996). Bandwidth-ﬁdelity dilemma in per- sonality measurement for personnel selection. Journal of Organiza- tional Behavior, 17, 609–626.
-
-Osgood, C. E. (1962). Studies on the generality of affective meaning sys-
+Norman, W. T. (1963). Toward an adequate taxonomy of personality at- tributes: Replicated factor structure in peer nomination personal- ity ratings. Journal of Abnormal and Social Psychology, 66, 574–583.

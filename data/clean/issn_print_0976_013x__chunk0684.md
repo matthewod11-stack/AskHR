@@ -1,17 +1,23 @@
-# for competitive advantage.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 4128e34aa11ca515bd474503ed0acb5563ef3be3
+title: issn_print_0976_013x
+---
+# respects all employees.
 
-Leadership at all levels must genuinely commit to promoting diversity, equity, and inclusion
+In today's global market, organizations that embrace diversity among their employees are
 
-to create a workplace culture that fully embraces these values. While there may be a long
+better equipped to understand and meet the needs of a diverse range of customers. A recent
 
-road ahead, continuing the conversation and taking action to effect positive change is
+study in the IT industry has revealed that while most employees are open to diversity, a few
 
-imperative. There is vast scope for further study of the factors affecting diversity and inclusion
+are enthusiastic and have fully embraced the positive benefits of a diverse workplace. To
 
-in the workplace. Diversity management practices can be compared between industries, and
+foster inclusiveness, organizations implement strategies such as cross-cultural training,
 
-their impact on employee productivity and job satisfaction can be studied. There is also vast
+encouraging overseas assignments, and offering language training. Discrimination, prejudice,
 
-scope for studies of perceptions of workplace diversity in different ethnic groups, religion-
+and ethnocentrism remain barriers to workplace diversity despite progress. Organizations
 
-based groups, and marginalized groups.
+must take deliberate steps to manage diversity and leverage the potential of their employees

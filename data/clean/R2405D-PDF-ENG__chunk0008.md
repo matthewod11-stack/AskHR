@@ -1,17 +1,31 @@
-# study?
+---
+source_path: R2405D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab790a439fdd56db90b32ebdb76d5628b373f208
+title: R2405D-PDF-ENG
+---
+## HBR / Magazine Article / Where Data-Driven Decision-Making Can Go Wrong
 
-- Was an experiment conducted? If not, what approach was used
+Too often business leaders go in one of two directions in these
 
-to understand whether higher wages were driving the productivity
+moments: either taking the evidence presented as gospel or dismissing
 
-change or simply reﬂecting it?
+it altogether. Both approaches are misguided. Leaders instead should
 
-- What measures of productivity were used, and how long were the
+organize discussions that thoughtfully evaluate seemingly relevant
 
-eﬀects measured?
+evidence and its applicability to a given situation.
 
-- What other analyses or data might be relevant?
+In the scenario just described you should pose a series of questions
 
-Of course, tone matters. These questions must be asked in a
+aimed at assessing the potential impact of wage increases on your
 
-genuine spirit of curiosity, with a desire to learn and get sound
+company speciﬁcally. You might ask:
+
+- Can you tell us more about the setting of the research to help us
+
+evaluate whether it applies to our warehouse employees?
+
+- How do our wages stack up against those of other employers
+
+competing for our workers, and how does that compare with the

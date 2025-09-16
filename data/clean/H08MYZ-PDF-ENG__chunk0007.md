@@ -1,11 +1,21 @@
-## pace, complex problem-solving, or the impact of data-driven decisions.
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f28abaef3ef070cf831bb114c6e0768f291cc90d
+title: H08MYZ-PDF-ENG
+---
+## building, decision-making, personalization, inﬂuence, and stakeholder
 
-Understanding what drives you can help you identify new career
+alignment. Identifying your skills outside of what can be automated will
 
-paths that align with your interests. Explore opportunities in AI-related
+help you clearly articulate how your capabilities can complement or
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+even enhance new technologies as they proliferate your ﬁeld.
 
-2
+As AI and automation advance, you may need to adapt your expertise
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to emerging ﬁelds. To understand what job and industry may interest
+
+you, start by reﬂecting on what excites you about your current role.
+
+Going back to the investment analyst example, maybe you enjoy the fast

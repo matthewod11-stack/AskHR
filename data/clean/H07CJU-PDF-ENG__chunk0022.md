@@ -1,17 +1,13 @@
-## groups budgets, access to development and training, and compensate
+---
+source_path: H07CJU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7070262614c6a2115053b4675ec479d2dad77e30
+title: H07CJU-PDF-ENG
+---
+## HBR / Digital Article / 5 Things Employers Get Wrong About Caregivers at Work
 
-employees for this work through bonuses, raises, and/or factoring the
+caregiver-speciﬁc ERGs, or expanding their women’s or parents’ ERGs
 
-work into their performance reviews. For ideas on how to do this, check
+to include all caregivers.
 
-out The Parents in Tech Alliance’s new open-source database. I also
-
-recommend giving ERGs regular access to company leaders. Welcome
-
-them to make meaningful suggestions for the organization. Don’t think
-
-of ERGs as an inconsequential social club, but as having the potential to
-
-be a highly eﬀective focus group that lets your company know its blind
-
-spots and helps come up with ideas for solving them. Plus, they double
+So what does investing in ERGs look like? For starters, give these

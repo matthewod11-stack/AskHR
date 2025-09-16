@@ -1,7 +1,21 @@
-# nuances.
+---
+source_path: S24011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: acd1b50c3c60b95f4fb578d6654c9d40ab3fc94e
+title: S24011-PDF-ENG
+---
+# Mary Haasdyk Vooys
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Conventional wisdom holds that leadership can be developed through
 
-1
+extensive study and training. Many organizations invest a tremendous
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+amount of time and money in programs that teach executives how
+
+to inﬂuence, inspire, and coach others; build trust; have crucial
+
+conversations; give feedback; change people’s behavior; and more.
+
+Many aspiring leaders comb through books, attend seminars, and
+
+seek out mentors, all in an eﬀort to understand leadership’s intricate

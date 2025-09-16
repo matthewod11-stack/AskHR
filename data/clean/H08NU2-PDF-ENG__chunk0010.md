@@ -1,13 +1,7 @@
-## manifestations of the silo eﬀect across industries. Goal-Diﬀ Beverage
-
-Co. is a consumer-focused company blending and packaging diﬀerent
-
-types of teas. The sales team plans promotions and sets sales goals
-
-without conﬁrming with the manufacturing team, leading to cost
-
-overruns and reduced proﬁts. In EliteMed Pharma Co., the R&D team
-
-is reluctant to share data with the plant process design teams, resulting
-
-in missed opportunities for process optimization. Lastly, at ProtectParts
+---
+source_path: H08NU2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d729cab01443b8c6d62f19b87326f54fa804462
+title: H08NU2-PDF-ENG
+---
+# HBR / Digital Article / 3 Types of Silos That Stifle Collaboration—and How to Dismantle…

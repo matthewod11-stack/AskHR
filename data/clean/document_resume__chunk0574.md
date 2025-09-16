@@ -1,3 +1,7 @@
-# Communication Concepts
-
-Communication may be defined as the process of exchanging meaning between persons. Person A, the sender or encoder, convey s a message to Person B, the receiver or decoder, who interprets tne message and responds (encodes) in some way to let Person A know that the message has been received. When Person B decodes and inter- prets Ks message ilk: simplest form of interpersonal communication has taken place. For the purpose of reinforcing the fact that the Icader must take responsibility to insure that effective communication occurs in the performance appial;,a1 process, it will be helpful if readers identify themselves as persons encoding, or sending, verbal messages in the content that follow s, that is, as Person A. Figure 5.1 depicts the basic communi- cation transaction which occurs in any form of communication, including performance appraisal.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: aba96d1ab4b4e3df4b6e626c0ab6f846b908fb34
+title: document_resume
+---
+# Communication Factors

@@ -1,5 +1,11 @@
-# Chicago: University of Chicago Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 484d170018941b759313ca3ed7c1997c9b884dfd
+title: untitled
+---
+## ogy.” American Psychologist, 44, 979–986.
 
-Walsh, M. (1985). Academic professional women organizing for change: The struggle in psychology. Journal of Social Issues, 41, 17–28.
+van Drunen, P. (1997). Psychotechnics. In W. G. Bringmann, H. E. Luck, R. Miller, & C. E. Early (Eds.), A pictorial history of psychology (pp. 480–484). Chicago: Quintessence Books.
 
-Wiebe, R. H. (1967). The search for order, 1877–1920. New York:
+Veysey, L. R. (1965). The emergence of the American university.

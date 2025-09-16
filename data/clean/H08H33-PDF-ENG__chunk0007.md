@@ -1,11 +1,11 @@
-## the role of software engineering in the company’s growth. Instead, he
+---
+source_path: H08H33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 111314a31fbff4b133e1ffaf071e6cf8c7918d87
+title: H08H33-PDF-ENG
+---
+# Andriy Onufriyenko/Getty Images
 
-talked about the decisive impact of a key HR decision: hiring one of his
+When interviewed by the Smithsonian Institution in 1993 about the
 
-old school friends — a shy fellow called Steve Ballmer.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+early days of his company, Microsoft co-founder Bill Gates didn’t stress

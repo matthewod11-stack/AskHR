@@ -1,23 +1,27 @@
-# productive workplace environment.
+---
+source_path: H087XL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: baa47f5f160f1f10e6d77cada10aad83414d91d8
+title: H087XL-PDF-ENG
+---
+# management.
 
-Develop multifaceted check-in mechanisms and provide opportunities to disengage.
+Furthermore, given the evidence that recognition and incentives
 
-Due to the inherently demanding nature of cross-silo collaborations
+can mitigate the negative impact of burnout, oﬀering rewards for
 
-— both informal and formalized — engaging in boundary-spanning
+achievements in cross-silo collaboration can provide further motivation
 
-activities can lead to burnout among employees. Therefore, it is crucial
+and recognition. For example, consider introducing a “Cross-Function
 
-for organizations and managers to identify when their key boundary
+Collaboration Champion” award, accompanied by a ﬁnancial bonus,
 
-spanners are becoming overloaded and help them disengage regularly.
+to recognize individuals or teams who excel in cross-silo collaboration
 
-Detecting burnout in employees requires a multifaceted approach that
+between diﬀerent departments or geographical locations to enhance
 
-combines direct communication with observation to provide feedback
+work quality or knowledge exchange. By ensuring that employees are
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+both well-equipped and recognized in this manner, organizations can
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+signiﬁcantly mitigate the risk of burnout and foster a healthier, more

@@ -1,15 +1,13 @@
-## 1,000 CEOs, directors, and heads of HR about their key leadership
+---
+source_path: S24041-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 774c4d419641a1e39739fe41b49786cf28e16803
+title: S24041-PDF-ENG (1)
+---
+## them as the designated successor to the CEO of a consulting and
 
-lessons and covered high-proﬁle corporate successions. Since becoming
+software ﬁrm and then, after more than a decade as CEO and chairman,
 
-a leadership consultant, he has worked with many companies and
+while orchestrating the search for and handoﬀ to his own successor.
 
-individuals that were navigating this complex process.
-
-Our goal in this article is to illuminate and analyze the role of power
-
-and inﬂuence in succession and to oﬀer speciﬁc guidance on how new
-
-leaders can handle the period of overlap with their predecessors. We
-
-will bring these insights to life with two case studies—one involving a
+As a former business journalist, Adam has interviewed more than

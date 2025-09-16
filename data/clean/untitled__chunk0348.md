@@ -1,3 +1,11 @@
-## POSTWAR GROWTH OF THE PRACTICE OF PSYCHOLOGY
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 392adb9f1985a9d8448745b063a8a0f6769f8451
+title: untitled
+---
+## Postwar Growth of the Practice of Psychology 35
 
-Whereas American psychologists were caught napping by the First World War, they did not repeat that mistake for the sec- ond one. Both the APA and the AAAP had committees in place by 1939 to plan for psychology’s role should the United States enter the war. As noted earlier, in the ﬁrst war psychol- ogists worked largely in two areas: examination of recruits and personnel selection. However, in the Second World War, the involvement of psychologists was substantially more diverse—and it included recruitment, selection, training, equipment design, propaganda, surveying attitudes in the United States and abroad, examining and testing prisoners of war, morale studies, intelligence work, and personality stud- ies, including an analysis of Adolf Hitler (Capshew, 1999; Hoffman, 1992). The verdict on psychologists’ performance in the war was an incredibly favorable one. The legacy of that performance was a growth in scientiﬁc and professional opportunities for psychologists that was unprecedented in psychology’s history. The profession beneﬁted particularly, and no group beneﬁted more than clinical psychology.
+Issues, or SPSSI, and the Psychometric Society) but princi- pally steered by the two heavyweights, the APA and the AAAP, led to the establishment of a “new” American Psychological Association.
+
+The new APA began with 18 charter divisions, a model borrowed from the sectional structure of the AAAP; a new journal that was intended to be a journal of “professional psy- chology,” the American Psychologist (Benjamin, 1996); and a new central ofﬁce in Washington, D.C. (Capshew, 1999). The new APA also had a new statement of objectives which read: “to advance psychology as a science, as a profession, and as a means of promoting human welfare” (Wolﬂe, 1946/1997, p. 721). The “professional” goal had come, of course, from the AAAP, and the “human welfare” goal from the SPSSI. The APA looked and sounded like a new kind of organization, one that had ﬁnally acknowledged the presence of the profession of psychology. However, professional psy- chologists would soon learn that they had little real support (or power) within the new association. It would be almost 30 years before that situation changed in any dramatic way.

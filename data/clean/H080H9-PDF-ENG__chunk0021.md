@@ -1,23 +1,13 @@
-# Homkes.
+---
+source_path: H080H9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8d15e9cd2aa2d68d57984aeae699e5d054400fd
+title: H080H9-PDF-ENG
+---
+## HBR / Digital Article / How to Stay Grounded Through Organizational Chaos
 
-Reﬂect and reevaluate. The chaos and tumult could be a catalyst for
+you’re in the right place. While “pretending that certainty exists is
 
-reevaluating your current position and considering what you want out
+delusional,” it’s possible to ﬁnd an organization that’s more aligned with
 
-of your career, according to Roberts. “People don’t often take the time
-
-to assess their strengths, talents, and priorities as it relates to their
-
-work.” She suggests checking in with yourself. What do you want to
-
-accomplish? What’s important to you? You might ﬁnd that you’re mostly
-
-satisﬁed with your job and professional life; or you might decide it’s
-
-time to explore new opportunities or make changes. “There are so
-
-many things you don’t have control over, but you do have control over
-
-deﬁning success for yourself and how you position yourself to achieve
-
-it,” she says. “This might be the push you need to do that.”
+your values, and where work feels less like a constant whiplash, says

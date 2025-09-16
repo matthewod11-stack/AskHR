@@ -1,19 +1,45 @@
-## HBR / Magazine Article / You Need Two Leadership Gears
+---
+source_path: R2302E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6a4befd175ef12a278df01b74af44f197a1231b1
+title: R2302E-PDF-ENG
+---
+## such as Ratatouille, Finding Nemo, and Soul and the Incredibles and
 
-them to generate ideas, share information, debate possible solutions,
+Toy Story series. According to Ed Catmull, who cofounded Pixar and
 
-communicate decisions, steer implementation, and ﬁre people up. Sure,
+was its president for its ﬁrst 32 years, the company uses power shifting
 
-many organizations have too many meetings, but you always need
+in the meetings of a group dubbed “the brain trust.” At these meetings
 
-some, and eﬀective leaders know how to get the most out of them.
+ﬁlmmakers—including story artists, producers, and directors—help
 
-Once you understand how and where to shift power modes, you can
+directors develop their ﬁlms by oﬀering suggestions and criticism and
 
-increase your ability to do it by taking these four steps:
+debating diﬀerent solutions. Catmull recently told us, “While outside
 
-- 1. Revisit Your Mindset
+the room, one person may have more authority than another, inside the
 
-Many leaders hold ﬂawed beliefs about power that prevent them from
+brain-trust meeting everyone’s voice has equal weight. The people in
 
-alternating between exercising and delegating authority. Here’s how to
+the room must view one another as peers.” To help “remove power from
+
+the room,” he added, during these sessions the most prestigious people
+
+“keep quiet for the ﬁrst 10 or 15 minutes” and allow others to speak.
+
+At the end of the meeting, after the group has ﬁnished sharing and
+
+debating ideas as peers, the hierarchy kicks back in: “The ﬁnal decision
+
+on how to solve a problem is always the director’s,” Catmull said.
+
+Meetings are a good opportunity for leaders to shift power modes.
+
+Though people love to hate meetings, every organization needs
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

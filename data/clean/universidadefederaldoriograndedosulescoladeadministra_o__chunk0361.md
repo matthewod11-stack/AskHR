@@ -1,5 +1,29 @@
-## força de trabalho da empresa tem até dois anos.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 0b9b29501544edc443c4a51e62c77d39cb6e68e6
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# também
 
-Por fim, uma última característica relevante dos funcionários da empresa é
+conhecidos por millennials, termo usado para se referir a uma pessoa nascida entre
 
-que, do quadro geral, 50% das pessoas se identificam como mulheres cisgênero e
+1981 e 1996, apesar destes anos poderem variar de acordo com diferentes fontes
+
+por um ou dois anos. O termo foi utilizado pela primeira vez no livro Generations, de
+
+1991, por William Strauss e Neil Howe, que julgaram-no um nome apropriado para
+
+a primeira geração a atingir a fase adulta no novo milênio (ZELAZKO, 2023).
+
+Entre os funcionários da empresa estudada, 23% têm menos de um ano de
+
+vínculo empregatício com a empresa, estando cerca de metade deles ainda nos
+
+37
+
+seus primeiros seis meses (12%). Outros 37% dos funcionários estão no seu
+
+segundo ano de companhia, entre 13 e 24 meses. 22% têm entre 25 e 36 anos de
+
+casa e apenas 18% já estão na empresa há mais de três anos. Ou seja, 60% da

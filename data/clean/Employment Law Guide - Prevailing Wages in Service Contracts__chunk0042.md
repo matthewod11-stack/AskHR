@@ -1,5 +1,7 @@
-# Wage and Hour Division(https://www.dol.gov/whd/) Contact WHD(https://webapps.dol.gov/contactwhd/Default.aspx)
-
-Tel: 1-866-4-US-WAGE (1-866-487-9243)*
-
-- If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications
+---
+source_path: Employment Law Guide - Prevailing Wages in Service Contracts.md
+pages: n/a-n/a
+chunk_id: 3c668f3a4c24c6f0f4c118a535ebb6e97b555563
+title: Employment Law Guide - Prevailing Wages in Service Contracts
+---
+# DOL Contacts

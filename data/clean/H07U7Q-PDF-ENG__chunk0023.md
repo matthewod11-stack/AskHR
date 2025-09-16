@@ -1,17 +1,9 @@
-# with.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd9ae55f8ee7979c85023721b7128f2a971626a7
+title: H07U7Q-PDF-ENG
+---
+# HBR / Digital Article / Whole Foods CEO Jason Buechel on the Challenges and Opportu…
 
-Also, we’re helping redeﬁne what grocery is going to look like in this
-
-space. Having a parent company that has resources and expertise that
-
-we can plug into and utilize to support Whole Foods is really important.
-
-I also appreciate the same things where we’re able to be Whole Foods
-
-and maintain our culture. I mentioned earlier we still have the same
-
-higher purpose and core values. While we’re part of Amazon, it’s really
-
-a complementary relationship where we bring the very best of what we
-
-can oﬀer and we’re able to plug in and leverage the very best within
+customer experiences is one of the things that Amazon has been helpful

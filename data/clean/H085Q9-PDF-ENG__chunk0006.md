@@ -1,47 +1,29 @@
-## HBR / Digital Article / 6 Mistakes Leaders Make When Announcing Layoffs
+---
+source_path: H085Q9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c698b02fc3e8805ead28a988b9647572a455326a
+title: H085Q9-PDF-ENG
+---
+# relevant industry trends.
 
-They’re not clear on the path forward.
+This kind of forward-looking communication strategy should ensure
 
-As a former CHRO and corporate executive, I’ve both lived through and led layoﬀs enough to know that successfully reengineering your business through staﬀ cuts only works when it’s one part of an
+employees are not shocked during inevitable business downturns.
 
-overarching strategy to create greater value. Make sure you’re clear
+People understand challenging business conditions. They will not
 
-on that strategy and ready to share it before acting. Rebuilding
+forgive avoiding or obscuring the facts.
 
-your business requires communicating a compelling vision that will
+Angela Stopper, chief learning oﬃcer and director of people and
 
-inspire your remaining employees to forgive any mistakes in business
+organization development at UC Berkeley, observes that organizations sometimes delay communicating layoﬀs because they’re afraid “good”
 
-judgment, set aside doubts, and recommit to your organization.
+people will leave. “Why would you think that?” she asks. “All your
 
-They don’t get the tone right.
+people should be good people.”
 
-Healthy human beings don’t want to inﬂict pain on others. It’s
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-understandable that leaders may want to distance themselves from
+2
 
-their own guilt or feelings of failure. But there’s a big risk in emotionally
-
-detaching, ignoring, or downplaying the complex emotions, such as
-
-anger, sorrow, and confusion, that your employees may be feeling.
-
-Anticipate and plan for this. Envision how you would want to be treated,
-
-and be that leader. Think through how you will respond if someone
-
-starts crying on a call or is angry in a meeting. When employees leave,
-
-“you want them to have felt cared for,” says Stopper.
-
-You want to be empathetic, but you can’t be defensive, sentimental,
-
-or make excuses for the bad business situation you are in. Make
-
-compassion a key driver of your approach. Be direct and take it on the chin. (CEO’s posting crying selﬁes expressing their sadness over layoﬀs
-
-have not always gone over well.)
-
-Your employees need to feel you’re there and that you care. Treat them
-
-as intelligent partners who can understand the logic and rationality
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

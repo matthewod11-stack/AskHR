@@ -1,3 +1,9 @@
-## emotion. Psychological Review, 2, 19–42, 120–140.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d7252599d76eb2e7bbe85932e4fe063880ee0fe9
+title: untitled
+---
+# Königsberg, Germany: F. Nicolovius.
 
-Keltner, D., & Gross, J. J. (1999). Functional accounts of emotions.
+Kantor, J. R. (1921). An attempt toward a naturalistic description of

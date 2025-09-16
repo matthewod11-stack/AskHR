@@ -1,5 +1,7 @@
-# Clarendon Press.
-
-Prince, M. (1975). Psychotherapy and multiple personality: Selected essays (1885–1925). Cambridge, MA: Harvard Univer- sity Press.
-
-Quay, H. (1965). Psychopathic personality as pathological stimulus
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 4c5f84da64831120e564d20c803e2bef58d3a389
+title: untitled
+---
+## Plato. (1894). The republic (B. Jowett, Trans.). Oxford, England:

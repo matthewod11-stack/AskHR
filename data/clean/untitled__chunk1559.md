@@ -1,5 +1,11 @@
-# female sexuality. Signs, 19, 337–367.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 99a93147f0c62bb7aa87be0be7ed4be12018428b
+title: untitled
+---
+# York: HarperCollins.
 
-Grossman, F. K., Kruger, L., & Moore, R. P. (2000). Reﬂections on a feminist research project: Subjectivity and the wish for inti- macy and equality. In E. B. Kimmel & M. Crawford (Eds.), In- novations in feminist psychological research (pp. 117–135). New York: Cambridge University Press.
+Greene, B., White, J. C., Whitten, L., & Jackson, L. C. (Eds.). (2000). Psychotherapy with African American women: Innovations in psy- chodynamic perspective and practice. New York: Guilford Press.
 
-Gutek, B. A. (1985). Sex and the workplace. San Francisco: Jossey-
+Groneman, C. (1994). Nymphomania: The historical construction of

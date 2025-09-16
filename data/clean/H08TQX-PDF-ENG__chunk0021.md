@@ -1,35 +1,15 @@
-## accomplishments and express gratitude to employees for their
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 208d6d42d023e19a72e61c32d406966adbb89ee4
+title: H08TQX-PDF-ENG
+---
+# cost-eﬀective activities.
 
-contributions. If it’s an award ceremony, can you also include a
+- 3. Don’t waste an opportunity to show appreciation.
 
-gratitude wall that allows people to publicly share how other teammates
+Findings from our research showed that employees who felt
 
-have meaningfully contributed? If it’s an annual meeting, can you
+underappreciated during rituals often disengaged from work
 
-devote time to thanking individual units for speciﬁc accomplishments?
-
-As a leadership team, can you create a plan so that every employee
-
-at the party is personally thanked by at least one executive? Be sure
-
-to publicly acknowledge the accomplishments of all units so that all
-
-attendees are reminded that their eﬀorts and achievements are noticed
-
-and valued.
-
-- 4. Don’t make it hard for employees to be themselves.
-
-Employees react poorly to rituals that create pressure for them to
-
-show “fake” enthusiasm. Allow employees to engage authentically
-
-without requiring participation in activities that may feel contrived
-
-or uncomfortable. This includes forcing employees to attend in the
-
-ﬁrst place. Where possible, make attendance optional, with this policy
-
-explicitly communicated by leaders. This is especially critical if the
-
-ritual takes place during personal time.
+afterwards. Use your rituals as an opportunity to recognize

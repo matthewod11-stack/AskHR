@@ -1,9 +1,15 @@
-# trajectory of actions under the hood.
+---
+source_path: agents_companion.md
+pages: n/a-n/a
+chunk_id: 4e0eea7708aacf4de0a9c4f1d9380d46227402a1
+title: agents_companion
+---
+# Evaluating Trajectory and Tool Use
 
-Comparing the trajectory that you expect the agent to take vs the trajectory that the agent
+An agent usually does several actions before it responds back to the user. It might compare
 
-actually took, is particularly useful for developers who want to debug their application,
+the user input with session history to disambiguate a term, or lookup a policy document,
 
-identifying errors or inefficiencies, and ultimately improving performance.
+search a knowledge base or invoke an API to save a ticket. Each of those actions is a step on
 
-17
+a path, also called a “trajectory” of actions. Every time your agent does something, there’s a

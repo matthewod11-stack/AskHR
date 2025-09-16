@@ -1,3 +1,7 @@
-# Education
-
-B.A., Management University of Kentucky. May 2009. GPA: 3.44/4.0 Courses: Accounting, Economics, Marketing, Money & Banking, Principles of Management.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: cc53d1a4617cb84631bcb8fab28669f9d15078a8
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Member of Phi Kappa Phi Honor Society.

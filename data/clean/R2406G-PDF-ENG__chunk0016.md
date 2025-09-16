@@ -1,11 +1,33 @@
-## lower costs for insurers and better outcomes for patients.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 352c2ea7971409346772981a7e1bbd163998e041
+title: R2406G-PDF-ENG
+---
+## HBR / Magazine Article / Personalization Done Right
 
-Know me. Personalization leaders win their customers’ trust; they are
+of adults in the United States today struggle with mental health. It can
 
-granted permission to securely collect their data and use insights
+be confusing to navigate the various treatment options, so SonderMind
 
-culled from it to improve the customer experience. Here, we look at
+set out to empower its users to ﬁnd help more easily. SonderMind’s
 
-the number and depth of digital relationships a company has with
+app personalizes patient journeys on the basis of interactive experiences
 
-customers and its ability to retain them. We also look at the maturity
+that assess 12 brain functions (such as mental-processing speed and
+
+a predisposition to anxiety and depression), and patients log their
+
+progress against goals they set. While protecting individual patient
+
+privacy, the app learns from the experiences of its many users and can
+
+suggest simple actions for each user to take (in addition to connecting
+
+with a therapist)—for example, practicing a meditation exercise or
+
+keeping a diary of one’s feelings. It also arms therapists with tools to
+
+develop the optimal treatment plan, based on anonymized data about
+
+what has worked for similar patients. The result has been a win-win:

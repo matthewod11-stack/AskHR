@@ -1,7 +1,13 @@
-# he fact that each
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: 6cd44f4b93687a86f1d59714514d9ed75811000b
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+## 5.2 Future research paths, limitations and implications for managerial practice
 
-One final comment regarding the terms of the substantive contribution to the extant literature deals with the specific topics analyzed in this paper. Specifically, it should be noted that – as guardians of the well-being of staff and the organization’s climate – human resource managers will greatly benefit from the knowledge that attention must be given to the selecti on process for GVTs, with careful identification of entitled profiles. It is also posited that preliminary readiness tests should be adopted to identify such profiles.
+l Hence, future research might investigate the damages that an excessive focus on individua evaluation would produce to satisfaction and performance in GVTs. Recent literature on biases in peer performance evaluations and team cohesion (Tavoletti et al., 2019, 2022a, 2022b) suggest that GVTs comprise a fragile organizational setting in which the team-level dimension of performance and team cohesion should be given priority, as opposed to emphasizing the very biased individual level of performance. ET can be a promising frame to address the issue of measuring individual performance in GVTs beyond the limits of the present manuscript, whose empirical base is limited to a student sample from a consulting project that is especially useful as a w idely recognized “early-stage research lab” (Stahl and Maznevski, 2021, p. 12).
 
-Finally, the known personality traits of the Big Five model (Barrick and Mount, 1991) are for GVT
+Importantly, although we do not underestimate the importance of meritocracy as a ma jor different value
 
-a promising avenue of research to determine the best configuration of personalities collaboration across different national cultures.
+driver of organizational performance (as well as the notion that contributions of should rightly result in different outcomes), we do wish to underline t organizational setting has to find a balance between an individualistic orientation, and a common, team-level orientation, in which the individual interest has to take into account a superior mission and goals (Rousseau and Arthur, 1999).

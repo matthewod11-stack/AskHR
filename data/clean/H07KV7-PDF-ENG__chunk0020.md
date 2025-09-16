@@ -1,7 +1,15 @@
-# disturb” times
+---
+source_path: H07KV7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a647ab6128a3a330c39e2325c9becaf595f7fcae
+title: H07KV7-PDF-ENG
+---
+# consequences for your team and projects.
 
-- Allow for an audio-only option during certain meetings
+No one can work at an unsustainable pace, but the need for
 
-- Encourage sensory accommodations — like noise-canceling
+decompression is even more urgent for HSPs. Here are a few ways I’ve
 
-headphones and adjustable lighting — as well as periodic screen
+seen leaders and workplaces provide refuge:
+
+- Designate a “no meeting day” once a week and/or deﬁne “do not

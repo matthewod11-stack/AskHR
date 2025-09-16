@@ -1,3 +1,9 @@
-# Job Enrichment
+---
+source_path: microsoft_word_9_herzberg_s_motivation_theory_in_workplace.md
+pages: n/a-n/a
+chunk_id: 51a2210ace6f89a56f4de8c93a96eb6ab1147e13
+title: microsoft_word_9_herzberg_s_motivation_theory_in_workplace
+---
+# Methodology
 
-This theory has given too much emphasis on job enrichment and has totally ignored job satisfaction of the workers. He didn’t attach much importance to pay, status, or interpersonal relationships which are generally held as great motivators. Keeping in view all these points we can conclude that Herzberg’s theory has been widely read and there will be few people who are not familiar with these recommendations. This theory provides valuable guidelines to the managers for structuring their jobs in order to include such factors in the jobs which bring satisfaction.
+Another criticism of this theory is directed at the method of research and data collection. The interviewers were asked to report exceptionally good or exceptionally bad job experience. This methodology is defective because such information will always be subjective and biased.

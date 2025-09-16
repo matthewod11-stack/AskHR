@@ -1,45 +1,17 @@
-# Employees are Watching
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3951d2b601944071efe38f0f10133f09ada8eb90
+title: H08MIG-PDF-ENG
+---
+# HBR / Digital Article / Research: When Is Leniency the Right Response to Employee M…
 
-Managers might think that their handling of a situation is between them
+which makes leniency in this case a net positive. In this way, they are no
 
-and the oﬀender. Misconduct, however, creates ripples in the workplace
+longer guided by guilt and instead focus on the value of the grace they
 
-that sparks a lot of interest from other employees — even if they were
+showed the employee. If they haven’t forgiven the employee, however,
 
-not directly aﬀected by that employee’s actions. These onlookers closely
+managers stew on the problems of the situation, which feeds their guilt
 
-monitor managers’ responses to misconduct.
-
-Perceptions about misconduct can vary; the same behavior (such as a
-
-habitually showing up late) might be viewed as a serious problem by
-
-some and not much of an issue by others. However, all variations of
-
-misconduct seem to raise eyebrows. Employees are keenly interested in
-
-how managers respond to misconduct because the manager’s actions
-
-signal critical information about how things work.
-
-Employees expect leaders to punish oﬀenders, even for the minor
-
-wrongs, because it holds oﬀenders accountable, reduces future
-
-misconduct, and protects observers. For these reasons, lenient
-
-managers are generally seen as unfair and irresponsible. Our studies,
-
-which controlled for severity, demonstrated that observing employees
-
-expect misconduct to be punished. Leniency suggests the oﬀender is
-
-getting away with something and that those aﬀected by the misconduct
-
-have been disregarded. Observing employees perceived leniency in
-
-enforcing rules of accountability as unfair, which motivated them to
-
-punish the manager. They expressed their disapproval by withdrawing
-
-support, ignoring the manager’s requests, and engaging in retaliatory
+and leaves them exhausted by it.

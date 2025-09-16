@@ -1,19 +1,21 @@
-# and generational diversity.
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59a1d87243933abcd1143f32c03529633e88568b
+title: H0832U-PDF-ENG
+---
+## with mandatory retirement ages for executives and board members, age
 
-- 3. Look at generations as cultures.
+and generational diﬀerences take on renewed signiﬁcance. It can be
 
-Multigenerational teams often experience signiﬁcant interpersonal
+tricky to ensure that your organization’s playing ﬁeld is level for people
 
-tensions in collaborating across the generational divides: diﬀerences in
+of all ages/generations to thrive. It can be challenging to ensure that job
 
-norms regarding the use of technology, communication norms around
+applicants and employees alike don’t feel like they must hide their age
 
-giving and receiving feedback, perceptions of what “hard work” and
+or apologize for being a member of their generation just to get access to
 
-“good leadership” look like, just to name a few. When faced with these
+opportunity in your organization. In short, leaders in 6G organizations
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+must be prepared to manage the challenges created by both age-based

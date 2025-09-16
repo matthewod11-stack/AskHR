@@ -1,3 +1,7 @@
-# Time orientation
-
-Next, let’s evaluate the form shown in Figure 6.2 in relation to the desirable features listed in Table 6.2. First, it is simple because it is easy to administer, quick to complete, clear, and concise. This form is easier to administer than the form shown in Figure 6.1 because this form does not include an essay format. On the other hand, it scores low on the relevance dimension because it does not enumerate and specify the employee’s tasks and responsibilities of the job. Third, this form is not descriptive. Although the different levels of performance are described, the actual expectations of the individual employees are not clear. Fourth, the form is only somewhat adaptable. The beginning ratings regarding the competencies are exact, but the second half of the form can be adapted to each employee. This form is not comprehensive because it does not include all the major components that indicate performance for a particular position for the entire review period. This form does not provide definitional clarity because the competencies that are listed are not defined and there is no mention of the employee’s key responsibilities. All of the levels of perform- ance are explained well, but they are not tailored to each individual employee. Next, the form could not be communicated throughout the organization. Since the competencies are not defined, it would be hard to explain the process to all stakeholders. Finally, the form makes no mention of time, so it does not focus on past or future expectations. The table below summarizes this analysis:
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 1bff3a376276e4a3f048700abaf9cffb93b8b43d
+title: performance_management_3rd_edition_by_aguinis
+---
+# X

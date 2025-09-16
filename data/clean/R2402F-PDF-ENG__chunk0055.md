@@ -1,15 +1,27 @@
-## to a wide network of mentors, investors, and innovators. A thriving
+---
+source_path: R2402F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45a2da54d05758366e1ee9af77dddfe361be0f2e
+title: R2402F-PDF-ENG
+---
+## HBR / Magazine Article / Nurturing Innovation
 
-ecosystem will enable innovators to scale up their ventures. Alumni of
+the collaboration communicated well and had a trusting relationship,
 
-the programs stay connected with one another and form connections
+the people managing the daily operations of the venture had not yet
 
-with new fellows, sometimes becoming mentors themselves. Potential
+developed the same. Participating in the workshop was for many the
 
-investors build relationships with fellows, sometimes providing capital
+ﬁrst opportunity they had to build relationships and trust. One UI fellow
 
-for their ventures or helping them secure funding.
+told us at the end of the workshop that it gave team members the
 
-That’s what happened to 80 Acres Farms, an Ohio-based vertical farm
+“space to think about what worked, what did not, why rushing it was
 
-using 100% renewable energy. The cofounder of 80 Acres ﬁrst met a
+not helpful, what was our readiness level to make things happen, and in
+
+hindsight what we’d have done diﬀerent.”
+
+Nurturing the ecosystem. In addition to promoting collaborative
+
+eﬀorts, UI aims to create a community of social entrepreneurs linked

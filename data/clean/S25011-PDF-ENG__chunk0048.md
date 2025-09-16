@@ -1,15 +1,15 @@
-# optimize process design and ﬂow.
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c19c2d6ccb067dbd83ff002c3ee785cd5da8df1e
+title: S25011-PDF-ENG
+---
+# so at many other organizations.
 
-Step 7: Implement and monitor the process. As we mentioned earlier,
+Other tools that we have high expectations for are generative-AI-based
 
-rolling out new process designs requires considerable eﬀort. Though
+image-creation capabilities and generative design tools (which are
 
-software and AI-based tools can be used to automate key tasks within
+currently used by architects) and digital twins. We predict that they will
 
-the new process, employees will need training, data will need to be
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-12
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+help teams imagine new process designs, simulate them, and in time

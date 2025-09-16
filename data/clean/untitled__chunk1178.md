@@ -1,9 +1,13 @@
-# York: Wiley.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 312b5898306f08b2024fea4355dca209c17639d8
+title: untitled
+---
+## Greenstein,F.I.(1969).Personalityandpolitics.Chicago:Markham.
 
-Hall, G. S. (1904). Adolescence: Its psychology and its relations to physiology, anthropology, sociology, sex, crime, religion and education (Vols. 1–2). New York: D. Appleton.
+Guilford, J. P. (1938). [Review of the book Personality: A psycho- logical interpretation]. Journal of Abnormal and Social Psychol- ogy, 33, 414–420.
 
-Healy, J. M., Jr., & Stewart, A. J. (1991). On the compatibility of quantitative and qualitative methods for studying individual lives. In R. Hogan (Series Ed.), A. J. Stewart, J. M. Healy Jr., & D. J. Ozer (Vol. Eds.), Perspectives in personality: Approaches to understanding lives, Vol. 3, Part B (pp. 35–57). Bristol, PA: Jessica Kingsley.
+Hale, N. G. (1971). Freud and the Americans: The beginnings of psychoanalysis in the United States, 1876–1917. New York: Oxford University Press.
 
-Healy, W. (1915). The individual delinquent: A text-book of diagno- sis and prognosis for all concerned in understanding offenders. Boston: Little, Brown.
-
-199
+Hall, C. S., & Lindzey, G. (1957). Theories of personality. New

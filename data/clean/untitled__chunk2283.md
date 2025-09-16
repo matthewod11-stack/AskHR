@@ -1,3 +1,9 @@
-## Kumho Tire Co. v. Carmichael, 119 S. Ct. 1167 (1999).
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e5f412135d746c6c0e613a5bd65661e3d872c6f3
+title: untitled
+---
+## Kentucky v. Stincer, 482 U.S. 730 (1987).
 
-Kuna, D. P. (1978). One-sided portrayal of Münsterberg. American
+Kluger, R. (1976). Simple justice. New York: Knopf.

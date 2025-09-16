@@ -1,31 +1,25 @@
-# HBR / Digital Article / Watch Out for These 3 Gender Biases in Performance Reviews
+---
+source_path: H07P5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9ff5680196ba365fc71bf73110fb142d1a40406c
+title: H07P5A-PDF-ENG
+---
+## visible external tasks, such as speaking at industry conferences and
 
-taking place at the company. These tasks had longer timelines and were
+giving interviews to journalists, bloggers, and podcasters. These tasks
 
-harder to evaluate in the short term.
+were straightforward to review when it came to short-term measures
 
-These choices lent themselves to experience bias. It’s easy to
+of success. Meanwhile, women spent more time on much less visible
 
-understand, for example, how somebody who has presented at a
+internal tasks, such as boosting team cohesion to help get projects back
 
-major conference (probably a man) might have immediately provided
+on track and providing psychologically safe spaces for team members
 
-a measurable beneﬁt to the company. In fact, men were three times
+to ask questions and process elements of the reorganization that were
 
-more likely than women to speak at outside events. But how easy is it
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-to measure and evaluate the work that somebody (probably a woman)
+2
 
-has begun to do in a long-term eﬀort to repair team dynamics or
-
-prevent deep-rooted problems that might ultimately aﬀect hundreds or
-
-thousands of employees? Needless to say, given the nature of experience
-
-bias, reviewers at HAPI Consulting praised the men more regularly in
-
-their performance reviews for having succeeded in their work. More
-
-speciﬁcally, men who reviewed other men assessed them 12% higher
-
-than women, on average, as compared to when women reviewed both
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

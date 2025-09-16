@@ -1,11 +1,21 @@
-# possible.
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5060add098a14b3bb22a4c0ac7c5414b4468dee8
+title: H08TKY-PDF-ENG
+---
+## Watch “The Explainer: Blue Ocean Strategy” video
 
-To do this, start by mapping your customers’ entire experience with
+[ C ]
 
-a product, asking questions such as, “How do people become aware
+Consumption chain: Customers’ entire experience with a product or
 
-of their need for your product or service?” “How is your product
+service, from the moment they realize that they need it to the time they
 
-installed?” and “How is your product repaired or serviced?” Then,
+no longer want it and decide to dispose of it. By mapping and analyzing
 
-analyze your customer’s experience by considering how a series of
+a company’s consumption chain and understanding customers’ pain
+
+points, businesses can uncover opportunities to position their oﬀerings
+
+in ways that they, and their competitors, would never have thought

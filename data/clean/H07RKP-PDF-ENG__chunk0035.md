@@ -1,13 +1,11 @@
-## from the improved readability of text and the enhanced user experience
+---
+source_path: H07RKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 887c968c527d2ccb36fbe9e8340b14ddb3fb59ae
+title: H07RKP-PDF-ENG
+---
+## Color Contrast, Dyslexia-Friendly Fonts, and Clear Language
 
-when you use a plug-in like Dyslexie Font. In addition, it’s important
+Use a high-contrast design of the interface so visually impaired users
 
-to use clear and concise language in how to use the chatbot and in the
-
-chatbot’s responses (in the languages provided) to enable users with
-
-cognitive disabilities to understand the conversation easily.
-
-The rewards of designing for accessibility and inclusivity are signiﬁcant.
-
-As an individual living with multiple sclerosis, I have experienced eﬀects that include cognitive diﬃculties such as trouble with memory
+can diﬀerentiate among elements. People with dyslexia will beneﬁt

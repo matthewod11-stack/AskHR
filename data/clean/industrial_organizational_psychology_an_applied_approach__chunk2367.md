@@ -1,13 +1,25 @@
-# Exercise . in your workbook.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: e36bd950512fb1185c8da4c5a8d0cfbf4d78b25d
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Agreeableness Stability
 
-Culture As shown in Table ., workers in different countries have different levels of job satisfaction. Data from the International Social Survey Program indicate that of  countries surveyed, employees in Denmark were the most satisfied and employees in Hungary the least. U.S. employees ranked th in the survey, and employees in Great Britain ranked th (Sousa-Poza & Sousa-Poza, ). In a study of , employees in  countries by FDS International (FDS, ), employees in the UK and Ireland had the highest levels of job satisfaction () and employees in South America () and Asia () the lowest.
+.02c .26c .25c .17c .29c
 
-Intelligence In , a police department in New London, Connecticut, created controversy when it announced that applicants who were “too smart” would not be hired (see the Chapter  “On the Job” box). The police chief’s reasoning was that really smart people would be bored and have low job satisfaction. Though there has been little research on the topic, a study by Ganzach () suggests that bright people have slightly lower job satisfaction than do less intelligent employees in jobs that are not complex. In complex jobs, the relationship between intelligence and satisfac- tion is negligible. A meta-analysis of seven studies by Griffeth, Hom, and Gaert- ner () found that intelligence and turnover were not significantly related.
+.06a .24a .09a .12a .15a
 
-employee satisfaction and commitment
+.10g −.22g −.04g −.27g −.20g
 
-369
+.00f −.06f .08f .04f .04f
 
-370
+.14f −.26f .01f −.20f −.06f
 
-chapter 
+aHurtz and Donovan (2003), bJudge and Bono (2001), cJudge, Heller, and Mount (2002), dKaplan et al. (2008), eConnolly and Viswesvaran (2000), fSalgado (2002), gZimmerman (2008), hHershcovis et al. (2007)
+
+7
+
+A meta-analysis by Judge, Heller, and Mount () concluded that emotional stability and extraversion were significantly related to job and life satisfaction.
+
+To get an idea of your own predisposition to be satisfied at work, complete

@@ -1,15 +1,13 @@
-# HBR / Digital Article / Research: Performance Reviews That Actually Motivate Employ…
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 513aecbe5b1571426f5029094762f017a0279d06
+title: H08HAK-PDF-ENG
+---
+## “check-ins” instead. The argument for the shift away from numerical
 
-reviews is strong: narrative performance reviews allow for more context and can better oﬀer employees ways to improve while aﬃrming
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-their particular strengths. At the same time, some companies who’ve
+1
 
-eliminated numerical reviews have reverted to creating “shadow”
-
-rankings, where narrative feedback is oﬀered to employees, but internal
-
-numbers are used in order to track growth or to have a more objective
-
-way to tie performance to bonuses or raises. This can leave employees
-
-feeling like they’re being secretly judged in ways they can’t ﬁght or
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

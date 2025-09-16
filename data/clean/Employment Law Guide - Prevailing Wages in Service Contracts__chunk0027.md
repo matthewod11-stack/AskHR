@@ -1,19 +1,17 @@
-# Basic Provisions/Requirements
+---
+source_path: Employment Law Guide - Prevailing Wages in Service Contracts.md
+pages: n/a-n/a
+chunk_id: 727514a1dc97e2668744c067765da95cd7fd5420
+title: Employment Law Guide - Prevailing Wages in Service Contracts
+---
+# Contracts for public utility services;
 
-The SCA requires contractors and subcontractors performing services on covered contracts in excess of
+Employment contracts providing for direct services to a federal agency by an individual;
 
-$2,500 to pay service employees in various classes no less than the wage rates and fringe beneﬁts found
+Contracts with the United States Postal Service, the principal purpose of which is the operation of postal contract stations;
 
-prevailing in the locality, or the rates (including prospective increases) contained in a predecessor contractor's
+Services performed outside the United States, as that term is deﬁned in the Act; and
 
-collective bargaining agreement, as provided in wage determinations issued by the Department of Labor. These determinations are incorporated into the contract.
+Contracts administratively exempted by the Secretary of Labor in special circumstances because of the
 
-For contracts equal to or less than $2,500, contractors are required to pay the federal minimum wage of $7.25
-
-per hour eﬀective July 24, 2009. Contractors must also, under the provisions of the Contract Work Hours and
-
-Safety Standards Act and/or the Fair Labor Standards Act, generally pay employees at least one and one-half
-
-times their regular (or basic) rate of pay for all hours worked over 40 in a workweek.
-
-Finally, contractors must notify employees commencing work on a covered contract of the compensation due
+public interest or to avoid serious impairment of government business.

@@ -1,3 +1,7 @@
-# Gibson et
-
-al. (2009)
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: 3113a217701ad8584af514a5dfd2b1209ca4bd71
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+# Results

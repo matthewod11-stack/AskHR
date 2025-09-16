@@ -1,11 +1,19 @@
-## Lakhdar Brahimi’s work in Afghanistan on behalf of the United Nations
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 508d34a8aec55d6e9b351be649f588e59400295f
+title: R2504D-PDF-ENG
+---
+# Master Adaptivity
 
-showcases how great leaders move beyond one-size-ﬁts-all approaches
+Diﬀerent conﬂicts demand diﬀerent diplomatic tools. An approach
 
-to context-appropriate ones. His experience in Afghanistan led to a
+that works for resource disputes might fail utterly for identity-based
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+clashes. Expert mediators develop diverse intervention strategies—
 
-10
+such as shuttle diplomacy, where intermediaries carry messages
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+between disputing parties; multitrack engagement, which involves parallel eﬀorts across government, business, and civil society; and
+
+peace corridors, which create designated safe zones for dialogue and humanitarian eﬀorts amid active conﬂict.

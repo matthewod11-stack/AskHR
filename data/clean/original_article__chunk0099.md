@@ -1,3 +1,23 @@
-# Improving corporate performance
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: 5e26a19de3be21270944e946d93d05f31d363d8a
+title: original_article
+---
+# Charas
 
-to target participants, comprising board mem- bers of randomly selected public and private for-proﬁt organizations in the United States, of all sizes and industry types. Of the nearly 13 000 conﬁrmed receipts of the survey ques- tionnaire e-mails, 422 recipients completed the questionnaire, yielding a 3.5 per cent response rate. Rates this low are not uncommon including top management among samples (Stimpert, and, 1992), as these respondents are often overbur- time-pressed and generally unwilling dened, to share information about themselves or their boards. For each respondent, additional information was collected from secondary data
+that aspects essentially measure the impact external factors (namely, Sabanes-Oxley and other regulatory requirements) as well as inter- nal factors of corporate governance standards have on directors. These TTP aspects were captured through a board task performance audit scale developed by Bateman et al (2002) with questions clustered around six core themes. Because half of these themes were team dynamic measure captured in the (described above), we selected those items that directly reﬂected task performance and were not related to TIQ – skill, innovation and compliance quality. An EFA was performed as described above, and only one of the six items representing the skill factor was removed. The resulting Cronbach’s α=0.92 reﬂects the remaining items for TTP.
+
+TP is a measure of the team’s assessment of their capability spanning many domains (Guzzo et al, 1993) and was captured with a scale created by Guzzo et al, (1993) and adapted by Collins and Parker (2010), made up of eight questions employing a 5-point Likert scale (Guzzo et al, 1993; Collins and Parker, 2010). We used all items in the validated scale. The TP Cronbach α=0.92. The scale is presented in Table 3.
+
+measure allowed us to determine whether the proﬁtability of the participant’s company over- or under-performed the industry average and the magnitude of that relative performance.
+
+Control variables We control for several factors, including indus- try category, company size as measured by employee count, and the proportion of inside versus outside directors on the board. Because we used an industry- and size-adjusted calcula- tion for proﬁtability performance, we did not have an additional control for industry and ﬁrm size. There is an argument to include the total number of employees as a measure of size in a study that aims to predict ﬁrm ﬁnancial perfor- mance (Zajac and Westphal, 1996; Finkelstein and Boyd, 1998). In addition, there is precedent for considering the size of the board when predicting ﬁrm performance (Yermack, 1996; Dalton et al, 1998; Eisenberg et al, 1998). Recent studies have explored how the propor- tion of executive and independent directors and board composition impact ﬁrm performance (Wagner et al, 1998; Finegold et al, 2007).
+
+Firm-level outcome Proﬁtability Performance was the selected ﬁrm- level outcome measure. It was operationalized by comparing the participant organization’s proﬁt margin (as deﬁned by net income divided by total revenues) with the average of the size- adjusted comparable industry proﬁt margin index. The size adjustment was based on three size categories: revenues of under US$5 million, between $5 million and $50 million, and over $50 million. The company’s published ﬁnancial statements as well as rating agencies, namely, Hoovers, S&P and Mergent, were sourced both to collect information on the participant’s organization and to establish the average level of proﬁtability of all organizations in a given industry group and revenue size. This relative
+
+Instrument development We developed a survey using items from exist- ing and validated scales to gather information for our analysis. Given the limited potential target participants (board directors of public and private for-proﬁt organizations) and their disin- clination to participate in surveys (Wagner et al 1998), we did not run a pilot study so as not to exhaust the limited number of potential parti- cipants. In addition, we used validated scales and did not introduce any original survey ques- tions. Table 1 provides details on the sources of information and scales used to operationalize each construct in our research.
+
+Data collection and sample demographics An electronic-based survey was used to reach potential participants. Invitations were e-mailed
+
+© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131

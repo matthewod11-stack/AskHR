@@ -1,27 +1,41 @@
-# the diﬀerence in my life.
+---
+source_path: R2406P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9b60387c8f4eb63e60c5531ea9119044611b0cf9
+title: R2406P-PDF-ENG
+---
+## HBR / Magazine Article / Life’s Work: An Interview with Ketanji Brown Jackson
 
-After law school you moved on to clerkships, including one at the Supreme Court, which took a lot of stamina. How did you manage that early part of your career?
+to meetings and discussions were not taken as seriously as some of my
 
-It was hard, but I expected it to be. The Supreme Court clerkship was
+colleagues’, but I managed.
 
-literally a 24/7 kind of job. But I kept saying to myself, You can do
+When you saw that kind of unfairness or bias, how did you respond?
 
-anything for a year. And cases come to the Supreme Court because they are diﬃcult and extremely consequential—addressing issues that
+In my view, you have to pick and choose your battles. It’s not that
 
-aﬀect an enormous number of people in very signiﬁcant ways— so our
+you don’t see or know that these things are happening. The question
 
-baseline is that the work will be very challenging and the spotlight of
+is, how much time and energy do you have to invest in responding to
 
-public attention will be very, very hot. All that creates pressure, which
+this particular circumstance? It may be worth it. But it may also be
 
-you then have to balance with self-care. But your commitment is to do
+the case that recognizing the unfairness, which happens at all kinds
 
-your best to serve your justice and the institution, and it’s going to take
+of levels and in all kinds of ways in the workplace, will be taking you
 
-pretty much everything you have for that period.
+away from the task at hand in a way that won’t be beneﬁcial. So you
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+have to assess—“I see that, I know that, and I’m going to choose to set
 
-4
+it aside right now because I have more important things to worry about
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+or to focus on”—versus responding every time. The way in which my
+
+parents navigated the world was very instructive for me. People who had
+
+lived through the society they did could have been devoured by a rage
+
+that would have made it impossible for them to proceed. Instead they
+
+turned, and pivoted, and did what they needed to do, and that made all

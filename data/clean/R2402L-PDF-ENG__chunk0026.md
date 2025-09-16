@@ -1,27 +1,39 @@
-# discuss other options.
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7e9a46d0aeee4bb5ab3e5768b2f7970adb46a4c9
+title: R2402L-PDF-ENG
+---
+## HBR / Magazine Article / Negotiate Like a Pro
 
-Of course, the other person may misinterpret your repetition as a
+when possible, because they give the impression that you’re making
 
-challenge. But as an easy way to encourage elaboration, reﬂecting
+assumptions, judging, or rushing to an answer.
 
-should be part of your tool kit.
+Reﬂecting back, or mirroring the last few words or key phrases used
 
-Emotional labeling is a way to help your counterparts rein in their
+by your counterparts, is another way to demonstrate that you’ve
 
-feelings (along with their actions and biases or entrenched opinions),
+heard them, keep them talking, and create rapport. In heated, fast-
 
-thus preserving their ability to think objectively and rationally. In my ﬁeld we call this “name it to tame it.” It involves oﬀering a
+paced negotiations, it can also give you time to calm your emotions
 
-nonjudgmental observation about the emotions you think other people
+and formulate appropriate responses or open questions. Imagine a
 
-are experiencing, the problems they’re facing, the way they’re acting, or
+cyberattacker threatening to unleash a virus unless he’s paid by
 
-the views they have in a way that allows them to agree or disagree with
+midnight (“A virus?”) or a supplier yelling at you that your company
 
-you. For example, “It feels like you’re annoyed with me,” or “It sounds
+should pay its bills faster (“Faster?”).
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+By carefully choosing which words to mirror, you can also steer the
 
-7
+conversation in the direction you’d like. For example, imagine that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+you’re lobbying your boss to add another full-time employee to your
+
+team, and he tells you there’s no room in the budget this ﬁscal year.
+
+“Room in the budget?” would be a reﬂecting response that might
+
+prompt him to elaborate and provide both of you with an opportunity to

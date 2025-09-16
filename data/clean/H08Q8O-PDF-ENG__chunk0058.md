@@ -1,25 +1,23 @@
-# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b8bcd06fbd50c7840f602dbac3538600c7967c98
+title: H08Q8O-PDF-ENG
+---
+## informally and share thoughts, personal stories, and emotions. The key
 
-meetings on Fridays when you have team members six hours ahead in
+is to have conversations that go beyond the task at hand and get to what
 
-Singapore). Further, be careful to show that you trust people working
+people are feeling.
 
-remotely—don’t use technology to track them in ways you wouldn’t
+At the same time, relational proximity shouldn’t be forced or rigid.
 
-if they were in the oﬃce. Invite them to take breaks, and make
+You should respect your people’s time: Don’t, for example, schedule
 
-sure that meetings are not scheduled back-to-back; leave enough time
+meetings only with regard to your time zone (such as 2:00 p.m. CET
 
-between them that, if you were meeting in person, they could go to the
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-bathroom, catch up on email, or change conference rooms. In short,
+12
 
-show your remote workers at least the same respect for their time and
-
-availability as you would if they were in the oﬃce. Embracing relational
-
-proximity in any work context is about showing care to employees as
-
-individual people rather than cogs in the wheel. Doing that will allow
-
-managers to rebuild trust and strengthen the psychological contract.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

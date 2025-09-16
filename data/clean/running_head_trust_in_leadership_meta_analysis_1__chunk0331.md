@@ -1,21 +1,25 @@
-# Servant
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: ecb8fc0d68e90d09b29cedeee1dd6e019001af7f
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Transactional
 
-13
+18 268148
 
-3100
+.63
 
-.56
+.60
 
-.51
+.65
 
-.62
+.65
 
-.64
+.05
 
-.11
+1.15
 
-18.41
+.59
 
-.51
-
-.78
+.72

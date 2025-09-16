@@ -1,5 +1,9 @@
-## Personality as a Moderator of the Organizational Event–Perception Relationship
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: f8e83409f3f64391ec8c8f8bb11bdb2ef98a1004
+title: barrickryan_eds_personality_and_work
+---
+# 170 PERSONALITY AND WORK
 
-We hypothesize that one signiﬁcant moderator of the relationship between the stated organizational events and perceptual variables is neuroticism, or negative affect. Speciﬁcally, we hypothesize that individuals high on negative affect will be more likely to perceive organizational events as stressful, unjust, or unsatisfying than will individuals who are low on negative affect. Such individuals are predisposed to respond negatively to perceptual stimuli.
-
-Some research does demonstrate that individuals high on neg- ative affect interpret ambiguous stimuli in a threatening manner and may therefore see crises where others do not (Costa & McCrae, 1990; Watson & Clark, 1984). One particularly intriguing line of research in support of this position comes from mood-induction experiments, which have found that individuals higher in negative affect are more susceptible to a negative mood induction than in- dividuals with low negative affect (Levin & Stokes, 1989) and more resistant to a positive mood induction (Brief et al., 1995). Parkes (1990) found that negative affect moderated the relationship be- tween work demands and well-being, such that individuals high on negative affect perceived their work environment as being more stressful than individuals low on negative affect. Similarly, Moyle (1995) found that negative affect moderated the relationship be- tween control over the work environment, time constraints, and symptoms of stress. These relationships are supportive of the hy- pothesis that negative affect moderates the relationship between organizational events and perceptions of stress, injustice, and dis- satisfaction. However, research into these relationships is only in the initial stages, and further research is encouraged.
+distributive justice, which is concerned with perceptions of the fair- ness of the outcomes themselves. Perceptions of injustice are by deﬁnition caused by workplace policies and procedures. Research examining which types of policies and procedures can give rise to perceptions of injustice has burgeoned in recent years and in- cludes procedures relating to selection and stafﬁng, performance appraisal, compensation, and layoffs (Gilliland & Chan, 2001).

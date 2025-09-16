@@ -1,3 +1,13 @@
-# The Current Period (1985–Present) 213
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a84f08e0b2e617d583dbcd8777b161839cd4078c
+title: untitled
+---
+# Instead of
 
-of behavior, interest in the interdependency of cognition and emotion, recognition of the role of culture, and a move to- ward a mature interdisciplinary developmental science.
+Explanatory processes, too, were multifaceted in this pe- riod and included cognitive, social interactional, and affective processes. The grand claims of earlier eras were less evident, and more limited theories, which explained smaller bands of behavior rather than the full array of development achieve- ments, began to emerge. A glimmer of recognition that theo- ries may not be universally applicable appeared in this period, and interest in cross-cultural work intensiﬁed (Greenﬁeld, 1974;Harkness&Super,1983).Theroleofhistoricalandsec- ular changes, such as the Great Depression, as inﬂuences on development were recognized for the ﬁrst time (Elder, 1974). There was a return to an interest in applying basic knowledge to practical problems of child rearing and education unseen since the days of Gesell and Watson (e.g., research on the ef- fectsofearlypreschoolexperienceonchildren’sdevelopment by Ramey & Haskins, 1981). There was a shift toward a lifes- pan view of development, and, consistent with this shift, a reevaluation of the role of critical periods in development. Although considerable evidence to support the critical period hypothesis as it related to infant social development was col- lected (e.g., Harlow & Harlow, 1962; Sackett, 1968; L. J. Yarrow, 1961), it also became apparent in this period that sim- pleyes-or-noquestionsaboutwhetherearlyexperienceplayed a role in particular domains were inadequate to guide our thinking. Rather, it was important to understand the processes throughwhichexperiencesexertedtheirinﬂuenceonstructure and function and when they exerted that inﬂuence.
+
+THE CURRENT PERIOD (1985–PRESENT)
+
+In the current period, several themes characterize research and theory in developmental psychology. These include the rise of interest in the genetic and neurological underpinnings

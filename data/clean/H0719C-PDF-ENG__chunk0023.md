@@ -1,11 +1,7 @@
-# Start gently.
-
-Talking about mental health should be as normal as possible. Simply
-
-asking, “How are you feeling today?” or “How was your weekend?” or
-
-“How’s that assignment going?” can create space for a mental health
-
-discussion. Of course, you’ll want to strike an open, genuine, and
-
-empathic tone. A casual, nonconfrontational approach can facilitate a
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b234aef91306d55287865c00bba3c7b2673e582e
+title: H0719C-PDF-ENG
+---
+## handbook, available and easily accessible to all.

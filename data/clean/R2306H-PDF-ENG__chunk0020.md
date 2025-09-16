@@ -1,41 +1,25 @@
-# for out-of-the-ordinary ideas.
+---
+source_path: R2306H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd6392783e6494e2644433419f5559719dad3569
+title: R2306H-PDF-ENG
+---
+## HBR / Magazine Article / Harness Your Network to Unlock Innovation
 
-One business leader who can attest to the value of innovation catalysts
+Our research shows that leaders at genuinely innovative companies
 
-is Jaideep (not his real name), the head of digital transformation at a large health care trust in the UK. For many years its aﬃliated hospitals
+consciously avoid that trap by deliberately seeking and spending time
 
-had been coping with increasingly longer patient waiting lists and
+with people we call innovation catalysts: individuals who have a knack
 
-overcrowded emergency departments. A solution to the waiting lists in
+for cultivating networks that combine a sense of community and a
 
-radiology came from an innovation catalyst named Hannah in a group
+diversity of perspectives. Because these people have access to wide-
 
-of Jaideep’s friends from medical school, who for the past 15 years had
+ranging knowledge that is acutely relevant, they’re able to inspire new
 
-held weekend outings twice annually.
+ideas and enhance their development. What sets catalysts apart is that
 
-Warming up over a cup of tea after a mountain hike, Jaideep and
+they are unusually generous with their time, exceptionally skilled at
 
-Hannah got to talking about the waiting lists. Hannah, who’d been
-
-using artiﬁcial intelligence in her work developing new brain cancer
-
-therapies for a major pharmaceutical ﬁrm, suggested AI as an avenue for
-
-Jaideep to explore. She connected him with people in her network who
-
-had pioneered AI in other health care settings, putting him on a path
-
-that would eventually result in the UK’s ﬁrst cloud-based AI radiology
-
-device. Now deployed nationwide, it’s able to read and interpret results
-
-far more quickly than human radiologists, resulting in faster treatment
-
-times and shorter waiting lists.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+staying connected to people from many spheres, and always on the hunt

@@ -1,3 +1,9 @@
-# Concluding Comment
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 5a0f88a0ff1079eaa456509232ca22392d296939
+title: document_resume
+---
+# Instrumentation
 
-This discussion has raised a number of important issues regarding performance appraisal in postsecondary institutions and there arc obviously many others. It should be apparent that there is no perfect solution to the problem of measuring work-related contributions to objectives. But the point is that performance appraisal is an essential part of the management job. There is real value in the process and the forces pressing for performance appraisal w ill only become stronger. While it is important to seek help from the literature, it is also possible to be overwhelmed with conflicting information. Too often this leads to a feeling of futility and a decision to ax old facing the issue until a unified model has appeared. This will not happen. The task of institutions is to inte- grate proven concepts into their on model, aN old the mistakes of others, and move forward.
+Finally, there is a need to set concepts and theories into operation so that perfor- mance appraisa' can be implemented under standardized and controlled conditions. Instrumentation often does not receix e adequate attention. In too many cases, the actual performance appraisal forms are either "off-the-shelf' or poorly designed. Each organi- zation will, of coarse, have different requirements depending on the technique that is selected.

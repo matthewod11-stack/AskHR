@@ -1,31 +1,29 @@
-# properly vet him.”
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54e1ae2f7600a879a0cfb543885d3c62c2fc19c8
+title: H08EDN-PDF-ENG
+---
+# HBR / Digital Article / How to Learn from Your Mistakes and Make Better Decisions
 
-When it came to the second hire Stacey realized that she had ignored
+- 4. With 20/20 hindsight, what assumptions did you make that might have contributed to the outcome?
 
-signs of poor communication. “When we emailed the candidate, she
+Answering this question gives you an opportunity to extract lessons
 
-ghosted us until we followed up three times,” she said. “When we ﬁnally
+from your past decisions. Your answers may lead you to feel more
 
-connected, she admitted that she didn’t think we were serious about
+conﬁdent about some aspect of a decision you liked, and to make a change if you prefer to do something diﬀerently.
 
-her. I dismissed the red ﬂags that the response raised, and again missed
+With her previous hires, Stacey thought that she was choosing the best candidates from the pool that was oﬀered. So, when the hiring decisions
 
-a chance to properly vet the candidate.”
+didn’t work out, she blamed the broadness of the applicant pool.
 
-- 5. How might you apply your learning to the current decision you face?
+But as she reviewed her previous decisions, she realized the pool wasn’t
 
-This question allows you to turn what you learned into insight and
+the real problem. With the ﬁrst hire, Stacey acknowledged she didn’t ask
 
-action for a better future. By analyzing and explaining problems in the
+how the candidate would get up to speed on the industry. “I assumed
 
-past, you are now better positioned to see actions, habits and patterns
+that if he was applying for the job, he’d do what it takes to learn the
 
-that might otherwise be invisible in the present. This crucial perspective
-
-can help you avoid making the same mistakes again in the future.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+industry. By assuming and not asking, I didn’t give myself a chance to

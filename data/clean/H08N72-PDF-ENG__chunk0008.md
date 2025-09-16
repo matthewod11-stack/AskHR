@@ -1,13 +1,11 @@
-# not your imagination.
+---
+source_path: H08N72-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8d00a091b85ed8d3cb97c33fe592519b6cd99da
+title: H08N72-PDF-ENG
+---
+# accomplishments to others)?
 
-- 2. Understand why they’re jealous.
+If you’ve seen repeated evidence of hostility or passive-aggressiveness
 
-Once you’ve concluded that there really is a problem, the natural
-
-impulse might be to avoid them so as to avoid the conﬂict. But that’s
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+over time, it’s likely they’re actually feeling threatened by you and it’s

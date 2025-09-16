@@ -1,7 +1,21 @@
-## Invite founders and their team members to share their responses by
+---
+source_path: H08DDG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fd7a5483dc5937a338057cefece541b2be1c7fc
+title: H08DDG-PDF-ENG
+---
+# How to Implement NPS as a VC
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+So, what does this look like in practice? Below, I outline a four-step
 
-4
+approach to bring the NPS methodology to life in a VC fund:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 1. Solicit feedback.
+
+Start by asking the questions. Importantly, to demonstrate how much
+
+you value your customers’ input, this communication should come
+
+from the head of the organization. It should also be personalized to
+
+demonstrate a white-glove approach, and it should be low-friction:

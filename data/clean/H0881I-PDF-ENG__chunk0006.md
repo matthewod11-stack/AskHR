@@ -1,11 +1,17 @@
-# your thinking in the future.
+---
+source_path: H0881I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6d5cd9ae93b9110756a809f5a4397f172dc780a
+title: H0881I-PDF-ENG
+---
+# Anticipate reactions.
 
-You will likely need diﬀerent pitches for diﬀerent stakeholders. For
+When you return from your program, colleagues will be curious about
 
-example, your pitch to your direct reports might be about what you
+it. When they ask you how it went, don’t overwhelm them with too
 
-learned about empowering the team. At the same time, the one to your
+much information or gloss over your answer. Instead, have ready a
 
-boss might be targeted to executing the strategy or achieving business
+few 60-second elevator pitches – each highlighting a key takeaway, its
 
-results. A well-crafted reentry pitch will engage the heads and the
+strategic implications, why it’s important to you, and how it will shape

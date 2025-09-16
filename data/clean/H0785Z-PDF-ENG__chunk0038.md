@@ -1,21 +1,19 @@
-## HBR / The Big Idea / What Defines a Successful Organization?
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27b0bd8b1af76153c8935768bbac8ea926e8d382
+title: H0785Z-PDF-ENG
+---
+# analytics and e-commerce capabilities.
 
-businesses that are the most skilled in acquiring and developing these
+Recruiting the right people and deploying them in ways that allow them
 
-competencies will have a distinct competitive advantage.
+to apply their expertise and energy are core competencies themselves
 
-- 3. From hierarchical layers to a team-based structure. Nearly every
+and critical in the age of discontinuity. In an escalating war for talent,
 
-company needs to reduce the hierarchical layers that have accumulated
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-in their organizations over time and channel more work to teams.
+6
 
-The beneﬁts of doing so are manifold. When teams include people who
-
-are on the front lines, the information ﬂow is both faster and more
-
-accurate; with this increased speed comes greater ﬂexibility to respond
-
-to customer and market changes. The improved ﬂow of information also
-
-creates transparency that removes a lot of organizational politics and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

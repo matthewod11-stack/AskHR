@@ -1,13 +1,13 @@
-## From Lab Contest to Industrial Revolution
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09e2938aec1c913aac29ecb0e0d11f06602f796b
+title: H08SHM-PDF-ENG
+---
+# quality.
 
-Back in the mid-2000s, computer scientist Fei-Fei Li saw that the ﬁeld of
+So, how can we separate the tasks AI will automate next from those that
 
-computer vision, which is focused on enabling computers to “see” and
+will require new breakthroughs in AI technology to do so? To answer
 
-interpret images, was dealing with a bottleneck: algorithms were pixel-
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that, we must go back to ﬁrst principles and revisit where it all began.

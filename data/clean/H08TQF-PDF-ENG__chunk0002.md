@@ -1,9 +1,7 @@
-# HBR Staff/Getty Images
-
-The prevailing wisdom in artiﬁcial intelligence suggests that bigger
-
-models yield better results. In our work for health insurance companies
-
-and third-party administrators of health plans, we’ve discovered that
-
-this assumption holds in many cases but breaks down when AI moves
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 19d4784f0de9f6d7d3e210278fe9f1aab71bd747
+title: H08TQF-PDF-ENG
+---
+## Published on HBR.org / July 23, 2025 / Reprint H08TQF

@@ -1,19 +1,23 @@
-# Utilities
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85e06a8b1cf2cbace917466ac2697105d28b7026
+title: R2101J-PDF-ENG
+---
+# Materials
 
-78
+79
 
-22
+21
 
-60
+67
 
-40
+33
 
-47
+55
 
-53
+45
 
-63
+66
 
-37
-
-Note: Data reﬂects the compensation of the ﬁve highest-paid executives at each of the companies in the Russell 3000.
+34

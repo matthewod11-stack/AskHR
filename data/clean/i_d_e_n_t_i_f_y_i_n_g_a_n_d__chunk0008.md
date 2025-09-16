@@ -1,17 +1,33 @@
-# 03
+---
+source_path: i_d_e_n_t_i_f_y_i_n_g_a_n_d.md
+pages: n/a-n/a
+chunk_id: 537b428eadd9af6d57f5096a29fd03761026ca4f
+title: i_d_e_n_t_i_f_y_i_n_g_a_n_d
+---
+# Yet only
 
-02
+39%
 
-Collecting and prioritizing use cases that will have the biggest impact on your business.
+1.5x
 
-01
+1%
 
-Teaching your employees fundamental use cases that can speed up discovery across every department.
+of U.S. adults have already used AI. In comparison,) the internet reached just 20% adoption in its (cid:22)rst two years.
 
-Identifying opportunities to apply AI in your business by understanding what it excels at.
+Faster revenue growth, 1.6x higher shareholder returns, and 1.4x better return on invested capital than their less advanced peers.
 
-Throughout, you'll `nd customer stories, practical checklists, and use case examples tailored to di[erent departments to support your team’s progressg
+of a recent McKinsey survey believed their AI investments had reached full maturity.
 
-It’s important to recognize that AI adoption means much more than just `nding the right use cases. Beyond the scope of this guide are topics such as how you build an AI-`rst culture, cultivate higher value use cases, and inspire adoption across your company. We’ll share more on those issues in other guides, but for now, let’s zoom in on the process of `nding the right use cases for your company.
+In just two years, 39% of U.S. adults have already used AI. The internet reached only 20% adoption in the same time frame. The rise of AI is not only reshaping industries but also creating opportunities for individual employees. AI frees people up to do higher-value work, expand their skills, and advance their careersµ
 
-This is a time when you should be getting beneŠts [from AI] and hope that your competitors are just playing around and experimenting.
+In one study, BCG found that in the last three years, AI leaders have seen 1.5x faster revenue growth, 1.6x higher shareholder returns, and 1.4x better return on invested capital than their less advanced peers´
+
+According to McKinsey, 92% of companies plan to increase their investment in AI. Yet, many organizations still need guidance on how to realize tangible value, with only 1% believing their AI investments have reached full maturity´
+
+We’ve observed (cid:22)rsthand what sets successful AI projects apart. Our insights come from 300) of our most successful implementations, more than 4,000 adoption surveys, and over 2 million business users´
+
+This guide is designed to help your organization (cid:22)nd and scale AI use cases that deliver clear value. We break the process down into three steps:
+
+3
+
+Identifying and scaling AI use cases

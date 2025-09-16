@@ -1,51 +1,13 @@
-## HBR / Magazine Article / Life’s Work: An Interview with Ketanji Brown Jackson
+---
+source_path: R2406P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bf542f0513f85f0eb115874f88e2417c14153bf1
+title: R2406P-PDF-ENG
+---
+# conﬁrmation process.
 
-How did you handle the scrutiny, particularly during those contentious conﬁrmation hearings?
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-I tried to prepare my family to make sure we understood what was
+6
 
-coming and were ready. Of course, being a mom, if my girls had said,
-
-“We don’t want to be put through that,” then I would not have gone
-
-for it. But they were very supportive. And the White House was very
-
-helpful. There’s vetting to pick people who can withstand that kind
-
-of pressure. And if nominated, you’re put through intense questioning
-
-to practice how to respond in a way that is most informative and not
-
-emotional and to not take it personally. The advice was: “You can either
-
-be upset or you can be a Supreme Court Justice.” That’s the work.
-
-What are your views on the current debates over lifetime federal judicial appointments and a Supreme Court ethics code?
-
-I’m not going to comment on political issues currently being evaluated.
-
-But I am optimistic in that the debate is emblematic of democratic
-
-engagement, which is positive. We have people who are focused on,
-
-thinking about, and talking about this. As a branch of government, we
-
-answer to the people. As judges, we are public servants. And it is up to
-
-the people to determine what the structure and form and function of the
-
-courts should be. As for the ethics code, it’s an interesting topic that has
-
-recently come to the fore, and the Court has now adopted its own code,
-
-which is generally modeled on what the lower courts do.
-
-How do you and the other justices engage as colleagues? What do you do to make sure it feels like a good workplace, even when you’re disagreeing on big issues?
-
-Well, a part of the Court’s tradition is having lunch together. Pretty
-
-much every day the Court is sitting, which is a lot during the term, and
-
-any day that we have a conference or a meeting where we discuss cases,
-
-it’s bring-your-own to the justices’ dining room. That really does help
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

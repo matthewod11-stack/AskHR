@@ -1,17 +1,15 @@
-# Ashgate.
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: b7ef426bb80a6730821e51112c6f478505566ecb
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+## organisational events. Academy Management Journal, 33(1), 7–41.
 
-Langley, A. (1999). Strategies for theorizing from process data. Academy of Management
+Jackson, T. (2004). Management change in Africa: A cross cultural perspective. London, Routledge.
 
-review, 24(4), 691-710.
+Jensen, M. C. 2003. Paying people to lie: The truth about the budgeting process. European Financial
 
-29
+Management, 9, 379–406.
 
-Mamman, A., Baydoun, N. & Adeoye, B. (2009). Transferability of management innovation to Africa: A study of two multinational companies' performance management system in Nigeria. Global Business Review, 10(1), 1-31.
-
-Mekonan, M., & Mamman, A. (2003). Human resource management in Ethiopia. In Kamoche, K., Debrah, Y., Horwitz, F. and Muuka, G.N. (Eds), Human Resource Management in Africa (pp. 103-115), London: Routledge.
-
-Mellahi, K., & Collings, D. G. (2010). The barriers to effective global talent management: The
-
-example of corporate elites in MNEs. Journal of World Business, 45(2), 143-149.
-
-Miles, M.B. & Huberman, A.M. (1994). Qualitative data analysis: An expanded sourcebook.
+Kamoche, K. (2000). Sociological Paradigms and Human Resource: An African context. Aldershot:

@@ -1,27 +1,17 @@
-# than their actual performance justiﬁed.
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5a1cd29df6165eda14b1c6d85fc79eb7744b396
+title: H08B2N-PDF-ENG
+---
+## HBR / Digital Article / Research: How Passion Can Backfire at Work
 
-- 2. Passionate people rate themselves higher than performance data indicates they should. In our next study, we asked nearly 400 full-time U.S. employees to
+However, also in line with prior research, employees’ perceptions of
 
-imagine they were either highly passionate or highly punctual in a
+their performance were inﬂated beyond their actual improvement.
 
-hypothetical job. We told them all that their performance had been
+Thus, the passionate employees in our study may have been even more
 
-rated as “average” by their colleagues, and then we asked them to rate
+overconﬁdent than our data indicates, as their outward expressions of
 
-how well they thought they’d perform in their role.
-
-We found that despite all participants being told that their performance
-
-was only middling, the participants who we led to think of themselves
-
-as highly passionate predicted that their future performance would
-
-improve more than those who were told they are highly punctual.
-
-People who were led to feel more passionate about their job expected
-
-that they would also be more engaged at work, that they would work
-
-longer and harder, and that their performance would improve as a
-
-result, despite knowing that their performance had been rated as only
+passion may have biased their coworkers to rate them even more highly

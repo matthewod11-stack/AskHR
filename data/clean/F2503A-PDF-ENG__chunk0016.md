@@ -1,23 +1,17 @@
-# vacation.”
+---
+source_path: F2503A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c4bc5154fe4b9f593467b63d5dfc3f0782a85a0c
+title: F2503A-PDF-ENG
+---
+# LinkedIn.
 
-- 3. Triple-check your work. Don’t rely on gen AI to autonomously
+“The target use case today should really be communicating with
 
-produce answers. The technology is often wrong, and it tends to rely
+strangers or automating the drab parts of writing,” Choudhury says.
 
-too heavily on jargon and buzzwords. These challenges present big risks
+“You could use AI to answer questions about your pricing strategy or
 
-for CEOs, whose messages can have a dramatic impact on employees,
+what you expect to happen to interest rates for the next year. But I
 
-shareholders, and customers. Rather than simply copying and pasting
-
-AI’s responses into a document, review and fact-check every word—
-
-especially for important and sensitive messages. You should also ask
-
-an editor to review your technology-generated communications (or any
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+wouldn’t use it to write an email to a board member about your last

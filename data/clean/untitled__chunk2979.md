@@ -1,5 +1,9 @@
-## Brandt, L. W. (1970). American psychology. American Psycholo-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5140613039542c45d5967fdc9a7e5ceca95ec14b
+title: untitled
+---
+# American Psychologist, 22, 447–452.
 
-gist, 25, 1091–1093.
-
-Cantril, H. (1949). Psychology working for peace. American Psy-
+Berry, J. W., Poortinga, Y. H., Segall, M. H., & Dasen, P. R. (1992). Cross-cultural psychology: Research and applications. Cambridge, UK: Cambridge University Press.

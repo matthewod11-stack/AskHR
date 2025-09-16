@@ -1,7 +1,13 @@
-# terminal illness on your team.
+---
+source_path: H08EAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1fc50301c4b911e653d121051f18df540e7322d5
+title: H08EAJ-PDF-ENG
+---
+## With remarkable shifts in research and advances in medicine, life
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+expectancy more than doubled between 1900 and 2021. Yet, there are
 
-1
+many illnesses that still don’t have a cure. This means that, at some
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+point in your career as a manager, you may have someone with a

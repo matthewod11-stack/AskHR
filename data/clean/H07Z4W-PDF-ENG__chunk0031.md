@@ -1,13 +1,13 @@
-# so, when and on what conditions?
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0f5f8318cc570c749891b7dcb2d3c0b81d86e14d
+title: H07Z4W-PDF-ENG
+---
+# territory.
 
-. . .
+If your employer rejects your request for a hybrid schedule, turn it into
 
-The promising reality is that some companies are formalizing pathways
+a learning experience. Make sure you understand whether this is a “no,”
 
-to remote or hybrid work. Under Meta’s new policy, for example,
-
-some employees will be able to apply for fully remote positions after
-
-18 months with positive performance reviews. Many companies have
-
-employees who are solely focused on ﬂexible work. For example, Upwork has a director of Remote Organizational Eﬀectiveness,
+or a “not right now.” Is there an opportunity to revisit the discussion? If

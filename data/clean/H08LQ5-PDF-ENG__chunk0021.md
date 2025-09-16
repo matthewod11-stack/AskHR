@@ -1,9 +1,33 @@
-## HBR / The Big Idea / Everyone Deserves a Season to Step Back
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 64461fe27d2088b03f4c5b572c010fcb929040d5
+title: H08LQ5-PDF-ENG
+---
+## Sheryl Sandberg’s 2013 female empowerment manifesto, Lean In. The
 
-seasons. Will you work with your employees when they need to step
+notion that designing and rebalancing our lives to reﬂect the seasons
 
-back so that they can ﬂourish in the future?
+we are in would be considered giving up on our careers caught me oﬀ guard. I stammered out a ﬂat rejoinder in the moment, but here’s
 
-This article was originally published online on February 4, 2025.
+what I wish I had said: “I am, and remain, incredibly ambitious, but my
 
-Christina Wallace is a self-described “human Venn diagram” who has built a career at the intersection of business, technology, and the arts. She is a senior lecturer of entrepreneurial management at Harvard Business School, a Broadway producer through Nothing Ventured Productions, the author of The Portfolio Life (Balance, 2023), and a coauthor of New to Big (Crown Currency, 2019).
+ambition is not reserved for my career. I am ambitious for my young
+
+family, for my marriage, my health, my community. I am ambitious for
+
+meeting the demands of my life and thriving because I can rebalance
+
+my portfolio as my priorities change. A season of stepping back is not
+
+leaning out.”
+
+I believe this wholeheartedly, and I trust that organizations that adopt
+
+this mindset will have happier, more loyal workers. Everyone’s life has
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,15 @@
-## Europe the largest source of foreign trained PhD executives in the U.S.
+---
+source_path: H040YE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6142f3a0e2f08fca2dda0b0002cbf77e7517465b
+title: H040YE-PDF-ENG
+---
+# HBR / Digital Article / What the Data Tells Us About Immigrant Executives in the U.S.
 
-Europe, followed by Canada, is also the largest source of foreign trained
+In fact, Europe is an important source of immigrant executives to the U.S.
 
-MBA executives in the U.S. This is probably to be expected, since Europe
+Around 28% of all EU and 22% of all UK trained executives who have
 
-comes second to the U.S. in terms of being home to some of the world’s
+worked at some point in their lives as executives in corporate America held
+
+a doctorate degree. These include members of all ethnicities, making

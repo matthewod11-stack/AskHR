@@ -1,19 +1,19 @@
-## HBR / Digital Article / How a Parent’s Experience at Work Impacts Their Kids
+---
+source_path: H07GRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8e13076cfeefc9573e5e82126ab182a2d8bef181
+title: H07GRL-PDF-ENG
+---
+## development through infancy and early childhood.
 
-trust from his company and reported feeling highly stressed, despite
+For example, one father in the study — Tyson — worked for a shipping
 
-being a top performer. He described how he came home from work
+company that mandated he use a monitor that let his boss track his
 
-tired and frustrated and, as a result, he explained that “I just don’t have
+every move as he delivered packages. Tyson felt a complete lack of
 
-the energy for a needy baby.” Conversely, Sonya was a home health
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-aide whose boss empowered her to manage her time independently and
+2
 
-asked for her input on how best to support clients. Sonya felt respected
-
-by her supervisor, and this positivity spilled over into how she parented
-
-her ﬁrst-grade daughter, Kaya: When Sonya returned home from work,
-
-she was hands-on, engaged, warm, and joyful in her interactions with
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,27 +1,25 @@
-# around.
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79926c80009087e6168b8db574c3733e20810b86
+title: H08SLG-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
 
-Elaine was introduced to us by her peer, Ben, who had recommended
+them to course-correct, keeping on track with customer demands rather
 
-we speak to her for our research. He noted that in the high-pressured
+than losing sight of those amidst shorter-term tasks and targets. The
 
-transformation project they were leading, Elaine had, on several
+conversations also strengthened relationships in the teams, through
 
-occasions, challenged the team’s viewpoint in a meeting and forced
+sharing experiences and listening to diﬀerent viewpoints.
 
-them to consider alternative courses of action. At the time, he reﬂected,
+Value and reward spacious mode. Typically people who are visibly
 
-there was some frustration in the team at being held up, but the team
+busy and get things done get rewarded. While there is nothing wrong
 
-agreed that the decisions they ended up making in the spacious mode
+with this—certainly doing mode is vital to high-performing teams—it
 
-that Elaine had brought into the conversation were wiser than those
+needs to be complemented with recognition of team members who
 
-they had been about to make while in doing mode. Elaine and Ben’s
-
-manager recognized this not simply by complimenting Elaine, but by
-
-spending time explaining how her attention had beneﬁted the program.
-
-After this, when the team faced an important, adaptive challenge,
-
-they were more comfortable in pausing to examine and challenge key
+listen, explore, challenge, and invite the rest of the team to look up and

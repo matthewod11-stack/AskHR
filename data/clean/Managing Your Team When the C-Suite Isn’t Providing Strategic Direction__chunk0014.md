@@ -1,7 +1,15 @@
-# team
+---
+source_path: "Managing Your Team When the C-Suite Isn\u2019t Providing Strategic Direction.md"
+pages: n/a-n/a
+chunk_id: 0cdee4ee94d296512b59e4b0230d81225b4511bb
+title: "Managing Your Team When the C-Suite Isn\u2019t Providing Strategic Direction"
+---
+## Managing Your Team When the C-Suite Isn’t Providing Strategic Direction
 
-energized and focused on what’s within reach. Don’t letindecision at the executive level create
+https://hbr.org/2025/09/managing-your-team-when-the-c-suite-isnt-providing-strategic-direction
 
-paralysis on the frontlines. Shift your team’s attention to progress they can own.Prioritize operational wins, celebrate
+4/8
 
-small victories, and betransparent about what’s delayed and why. In these moments,your role becomes translator, motivator, and shock absorber.Help your team turn frustration into progress by setting clear,achievable short-term goals that connect to broader outcomes.Offer stretch assignments to challenge high performers and showtrust in their growth potential. When roadblocks arise, use themas learning opportunities, encouraging experimentation,reflection, and upskilling. This approach keeps teams engaged,builds momentum, and turns uncertainty into meaningfuldevelopment.When the budget is frozen or projects are in limbo, pivot theteam’s focus to low-resource efforts that can have big impacts. Forexample, a marketing team might boost engagement andretention by increasing the frequency of customer emails frombiweekly to weekly, or an operations team could audit existingworkflows to improve efficiency and readiness once companyresources are more robust.Momentum isn’t just about moving forward; it’s about findingmeaningful ways to make progress even in uncertain times. Keepreinforcing the “why” behind your team’s work, and
+as the greater risk, she shifted the executives’ mindset andsecured the green light within a week.
+
+When things are stuck at the top, your job is to keep your

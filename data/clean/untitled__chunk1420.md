@@ -1,7 +1,13 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5e6f27e912e82683944b2fd3519de6b81ce57b91
+title: untitled
+---
+## Dewey, J. (1900). Psychology and social practice. Psychological
 
-Dollard, J., Doob, L. W., Miller, N. E., Mowrer, O. H., & Sears, R. R. (1939). Frustration and aggression. New Haven, CT: Yale University Press.
+Review, 7, 105–124.
 
-Dunlap, K. (1928). The applications of psychology to social problems. In C. Murchison (Ed.), Psychologies of 1925 (pp. 353–379). Worchester, MA: Clark University Press.
+Dewey, J. (1922). Human nature and conduct. New York: Holt.
 
-Eagly, A. H. (1987). Sex differences in social behavior: Asocial-role
+Dinnerstein, D. (1976). The mermaid and the minotaur: Sexual arrangements and human malaise. New York: Harper & Row.

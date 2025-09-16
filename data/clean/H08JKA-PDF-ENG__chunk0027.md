@@ -1,25 +1,25 @@
-## together for candid discussions about development needs.
+---
+source_path: H08JKA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c835415877aea989760c18bd6d9fae82ed8b511
+title: H08JKA-PDF-ENG
+---
+# stakeholders.”
 
-Goldman Sachs has made a more formal tie between learning and
+At METRO, a leading wholesale operator headquartered in Germany,
 
-strategic priorities. Its Pine Street practice supports its senior-level
+Sangeeta Pandey, SVP of global talent & organizational development,
 
-employees and undertakes senior succession planning. Fulton, its head,
+makes it a priority to visit the company’s stores worldwide. Her goal is to
 
-reports directly to the president of Goldman Sachs, reﬂecting the
+build strong relationships with key executives and gain ﬁrsthand insight
 
-strategic importance of developing the ﬁrm’s leaders.
+into business needs. “During country visits, I rarely spend more than
 
-. . .
+half a day in the oﬃce,” she explains. “Instead, I focus on connecting
 
-Technology, geopolitics, and consumer habits are driving an
+with employees at all levels, engaging with customers, and visiting
 
-unprecedented rate of change at a time when organizations are already
+stores, depots, warehouses and platforms.” This hands-on approach has
 
-in ﬂux with the rise of generative AI, remote work, and an aging
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+enabled her to build the relational capital necessary to bring leaders

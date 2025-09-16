@@ -1,7 +1,29 @@
-## Decision : Should Dimensions Be Weighted?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 7d87290f74e9f4ad5507a47166c04aa5244306ca
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Cooperation
 
-Once the type of dimension has been determined, the next decision is whether the dimensions should be weighted so that some are more important than others. Grading systems in the classes you have taken provide good examples of weight- ing dimensions. For example, you may have had a class where the final exam was given more weight than other exams or a class in which a particular project carried more weight than others.
+evaluating employee performance
 
-Weighting dimensions makes good philosophical sense, as some dimensions might be more important to an organization than others. For example, the dimension of patient care would be more important for a nurse than would be keeping a pro- fessional appearance. Though both are important parts of the job, providing poor patient care has more of an impact for the organization than not wearing the proper clothing. Another advantage to differentially weighting dimensions is that it may reduce racial and other biases (McFarland, Wolf, & Nguyen, ).
+245
 
-Though differential weighting of dimensions makes sense and has some advantages, many organizations choose to weight all performance dimensions equally because it is administratively easier to compute and to explain to employees.
+246
+
+chapter 
+
+of a performance-review meeting in which the supervisor tells an employee that she received low ratings on responsibility and friendliness. Because traits are personal, the employee is likely to become defensive. Furthermore, the employee will want specific examples the supervisor may not have available. The only developmental advice the supervisor can offer would be to “be more responsible and friendly.” Such advice is not specific enough for the employee to change her behavior.
+
+Competency-Focused Performance Dimensions Rather than concentrating on an employee’s traits, competency-focused dimen- sions concentrate on the employee’s knowledge, skills, and abilities. For example, competency-focused dimensions might include writing skills, oral presentation skills, and driving skills. The advantage to organizing dimensions by competen- cies is that it is easy to provide feedback and suggest the steps necessary to correct deficiencies. That is, if an employee is evaluated as having poor writing skills, the obvious corrective measure would be for the employee to take a writing course.
+
+Task-Focused Performance Dimensions Task-focused dimensions are organized by the similarity of tasks that are per- formed. For a police officer, such dimensions might include following radio procedures or court testimony. Note that a task-focused dimension usually includes several competencies. For example, to receive a high rating on the dimension of court testimony, the officer would need the competencies of public speaking, organization, and knowledge of the law. The advantage of this approach is that because supervisors are concentrating on tasks that occur together and can thus visualize an employee’s performance, it is often easier to evaluate performance than with the other dimensions. The disadvantage is that it is more difficult to offer suggestions for how to correct the deficiency if an employee scores low on a dimension. That is, is the low score on court testimony due to a lack of knowledge or to poor public speaking skills?
+
+Goal-Focused Performance Dimensions The fourth type of performance dimension is to organize the appraisal on the basis of goals to be accomplished by the employee. Sticking with our police officer example, goals might include preventing crimes from occur- ring, finishing the shift without personal injury, and minimizing the number of citizen complaints. The advantage of a goal-focused approach is that it makes it easier for an employee to understand why certain behaviors are expected. Take, for example, the behavioral expectations of having a police officer wear a seat belt and body armor. If these expectations were listed under the dimension of Following Department Policy, the officer might not be too concerned about changing behavior about following “some stupid rule.” If, however, these two expectations were listed under the goal of staying alive, it would be clearer that they are there for an important purpose.
+
+Contextual Performance In the above discussion, the four ways to focus performance dimensions all concentrated on the technical aspects of performing a job. In recent years, psychologists have begun to study contextual performance, that is, the effort an employee makes to get along with peers, improve the organization, and perform
+
+tasks that are needed but are not necessarily an official part of the employee’s job description. Many organizations include rating scales addressing the technical aspects of the job as well as the contextual aspects. That is, they want employees who will be not only effective performers but good organizational citizens as well. In academia, it is not uncommon to deny tenure to a faculty member who is technically competent but does not “play well with others.”
+
+Contextual performance is important because not only are these prosocial organizational behaviors important to the success of an organization, but they also tend to be similar across jobs, whereas the dimensions involved in task performance differ across jobs (Borman & Motowidlo, ). Furthermore, the selection tests that might best predict task performance (e.g., cognitive ability, job knowledge) are not the same tests that might predict contextual performance (e.g., integrity tests, personality inventories). To better understand how to choose the type of dimension, complete Exercise . in your workbook.

@@ -1,19 +1,17 @@
-# Work Schedules
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2f908a50e2d09db4efca54b0cc71535e77bcd0d4
+title: industrial_organizational_psychology_an_applied_approach
+---
+# ahead.
 
-Survivors will be more productive and feel more secure if they are allowed to participate in decisions and make suggestions, are given a moderate level of job security, are supported by supervisors and the organization and if the layoff victims were treated well (Kernan & Hanges, ; Preston, ). It is impor- tant that the organization talk positively about the layoff victims, keep an open two-way communication policy with survivors, and communicate the company vision to the survivors. To reduce the negative effects on survivors, organizations must ensure that the procedure used to determine layoffs is fair and clearly com- municated to both victims and survivors (Sadri, ).
+. Plan a new course of action and go forward with confidence.
 
-Local Community Though not often considered, layoffs and plant closings have a tremendous impact on the local community. Local governments suffer as their tax base and revenues are reduced, local charities such as the United Way get fewer donations and often have increased demands for their services, retail stores lose business, banks have greater numbers of loan defaults, crime rates increase, and social problems (e.g., drinking, divorce) increase. On the positive side, layoffs result in an increase in the quality of the available workforce. This increased quality can help other employers and may even result in attracting new industry.
-
-The Organization Though many organizations continue to downsize, it is not clear that downsizing produces the desired increases in organizational effectiveness. For example:
-
-7
-
-7
-
-7
+Survivors At first, one might think that an organization need not worry about survivors— those employees not laid off. After all, these are people who still have their jobs. However, research indicates not only that survivors suffer psychological trauma but that their future productivity is related to the way in which they and their not- so-fortunate counterparts are treated during the downsizing process. Research (Cascio, ; Marks, ) indicates that survivors
 
 7
 
-Cascio () reports that organizations that downsized between  and  did not improve the financial success of their organizations. Henkoff () surveyed almost , downsized organizations and found that half reported lower productivity. A Wyatt Company () survey found that only % of downsized organizations reduced expenses, % increased productivity, and % improved quality. The Tierney Group (Peak, ) surveyed  organizations and found that disability claims and costs increased following downsizing.
+7 7 7 7 7
 
-To apply what you have learned about downsizing, complete Exercise . in
+become afraid of taking risks and are more apprehensive and narrow-minded are more stressed, anxious, secretive, skeptical, cynical, and distrustful have greater role conflict and ambiguity lose confidence in themselves and in management have lower levels of morale and job satisfaction feel a loss of control

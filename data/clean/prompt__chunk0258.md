@@ -1,9 +1,15 @@
-# **Conclusion:**
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 312eaa44655429e5b9125f06e89d67674e70ce02
+title: prompt
+---
+## **Step 2: Assess the potential impact of the bug.**
 
-Based on the above factors, the email should be classi(cid:450)ed as **IMPORTANT**. The bug in the contact form is a serious security risk, and the sender’s credibility is unknown. The recipient should take immediate action to (cid:450)x the bug and investigate the sender’s claims.
+The bug in the contact form could allow an a(cid:459)acker to execute arbitrary JavaScript code on the website. This could lead to the a(cid:459)acker being able to take control of the website, steal sensitive information, or deface the website.
 
-Table 14. An example of prompting for self consistency
+**Step 3: Consider the credibility of the sender.**
 
-You can use the above prompt and try to see if it returns a consistent classi(cid:450)cation.
+The sender of the email claims to be a hacker named Harry. However, there is no way to verify the sender’s identity. It is possible that the sender is a legitimate hacker who is trying to help the recipient, but it is also possible that the sender is
 
-Depending on the model that you are using and the temperature con(cid:450)guration, it might
+a malicious actor who is trying to exploit the bug for their own gain.

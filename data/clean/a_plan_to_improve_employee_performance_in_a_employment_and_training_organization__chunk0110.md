@@ -1,19 +1,19 @@
-# above.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: f2a3f476bb8c547a8a73ce1146f3d29b6af454bd
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# them?
 
-24
+d. Has any progress been made with respect to the improvement plan
 
-- 7) Make the necessary comments in the employee 's performance record.
+developed at the last performance evaluation?
 
-- 8) Set a follow-up date and/or date for the next performance evaluation .
+e. What performance standards are still appropriate in view of the ongoing
 
-Performance evaluations are important steps to ensure that the performance standards ·
+reviews and which should be changed/revised/added?
 
-remain valid and they add factual information to the day-to-day operations. The
+- 6) Take the steps necessary to develop a plan of action, i.e. the performance
 
-performance evaluation process is intended for change in performance , breakdown
-
-existing barriers and maintain open communication between management and employees.
-
-This communication is part of the ongoing process of monitoring and feedback necessary
-
-to producing successful performance evaluations.
+improvement plan, to satisfy the conclusions from discussion of each performance area

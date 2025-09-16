@@ -1,25 +1,21 @@
-# permits.
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 695dd6e951a941033127eb3a06a366ccb1b59bd9
+title: H08DYH-PDF-ENG
+---
+## brain’s cognitive control network — responsible for planning and
 
-Think about the last argument you had. As you walked away, what
+problem-solving — and the default mode network, which lights up
 
-popped into your head? The perfect comeback, right? But why didn’t it
+during mind-wandering or daydreaming. In fact, studies with creative
 
-come to you in the heat of the moment? Because during the argument,
+writers and physicists reveal that about a ﬁfth of their most important
 
-your brain was in overdrive, defending itself. At work, our brains are
+ideas occur when they’re mind-wandering, not focused on a speciﬁc
 
-similarly overloaded with emails, meetings, reports, training, and so
+task. This is why spending time in nature or simply gazing out of
 
-on. We often don’t have time to think. This is because our brains are
+a window can enhance creativity; these activities allow the mind
 
-stuck in what science calls the beta state — a state of constant busyness
-
-where creativity is blocked. When you’re in beta, the door between your
-
-conscious and subconscious mind is shut.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to wander freely, something a typical cubicle-bound workday rarely

@@ -1,1 +1,17 @@
-# 184 Personality
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: df28a1c5ba118f11b0ea32d0afdccc214e7d5098
+title: untitled
+---
+# Scientiﬁc Ethos
+
+As many historians have suggested, psychometric approaches reﬂected the positivistic, “natural science” ethos that had pre- vailed inAmerican psychology since the late 1800s (see, e.g., Danziger, 1990; see the chapter by Fuchs & Milar in this vol- ume; Hornstein, 1988; Porter, 1995). Psychologists were par- ticularly concerned with producing “objective” knowledge and eliminating sources of “subjectivity”:
+
+During the ﬁrst two decades of the twentieth century, as American psychologists became increasingly concerned with practical problems, “the primary goal of psychology became the prediction and control of the ‘other,’ a science of the acts (and by a short extension, the behavior) of people rather than of their mental experiences” (Tweney & Budzynski, 2000, p. 1015; see also the chapter by Benjamin et al. in this volume). Psychologists developed “mental tests” for selec- tion, diagnosis, and placement in an effort to establish their professional expertise in solving problems associated with educational institutions, labor unions, and immigration, and with the national war effort in 1917 and 1918 (Danziger, 1990; Parker, 1991; Sokal, 1984; Vernon, 1933). Designed to screen soldiers vulnerable to shell shock, Woodworth’s Per- sonal Data Sheet was probably the ﬁrst objective self-report personality “inventory” based on the mental test format (see Camﬁeld, 1969; Woodworth, 1919, 1932).
+
+For experimental psychologists, being scientiﬁc meant creating distance. It meant opening up a space, a “no man’s land,” be- tween themselves and the things they studied, a place whose boundary could be patrolled so that needs or desires or feelings could never inﬁltrate the work itself. Every aspect of the experi- mental situation was bent toward this goal—the “blind subjects,” the mechanized recording devices, the quantiﬁed measures, and statistically represented results. (Hornstein, 1992, p. 256)
+
+From this perspective, case studies and life histories, relying on subjective reports or interpretations, appeared unscientiﬁc. The tendency to consider case studies unscientiﬁc was al- ready clear just after the turn of the century in comments on the work of two respected psychologists who drew heavily on personal documents. While observing that the “personal con- fessions” in William James’s (1902) The Varieties of Reli- gious Experience were “extraordinary in range and fulness
+
+Following World War I, opportunities expanded for psy- chologists to administer mental tests in military, manager- industrial, and educational settings (Danziger, 1990; ial, O’Donnell, 1985; Samelson, 1985; Sokal, 1984). In the early 1920s, however, critics began to question the predictive util- ity of intelligence tests (Parker, 1991) and suggested that measures of personality or character traits would improve the prediction of performance (e.g., Fernald, 1920). Although early measures of character and personality took various forms, the less “efﬁcient” methods were soon replaced by tests based on the mental test model of adding scores on sep- arate multiple-choice or true/false items to get a total (see Parker, 1991). According to the psychometric approach to personality, individual differences, conceived as coefﬁcients in prediction equations, could be used to predict and control behavior. (Years later, Raymond B. Cattell’s “speciﬁcation equation” [1957, pp. 302–306] would become perhaps the most fully developed example of such prediction equations.)

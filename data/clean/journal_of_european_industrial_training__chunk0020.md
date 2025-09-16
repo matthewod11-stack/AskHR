@@ -1,11 +1,11 @@
-# Lepsinger and Lucia (1998) posit that
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 884ea4a77a4479216dc9f0a16b686710b26185d9
+title: journal_of_european_industrial_training
+---
+## Journal of European Industrial Training 25/1 [2001] 5±32
 
-increasing competition and a renewed focus on the customer were trends associated with the 1990s and these trends acted as a catalyst for the adoption and popularity of multi- source appraisal. They indicate that the shift from the bureaucratic and hierarchical to flatter organisation structures similarly encouraged the growth of 3608 feedback. Flatter organisation structures required more interdependence in the form of teamwork and communications. Lepsinger and Lucia (1998) argue that one of the consequences of flatter organisational structures is that managers are increasingly required to work with people in other parts of the organisation and are expected to achieve results, even though they have no direct authority over them. With such work structures in place, the traditional approach to appraisal proves less useful as a source of information and demands a more comprehensive process whereby peers and customers and other stakeholders can provide feedback to the individual.
+[8]
 
-Waldman et al. (1998) enumerate other possible reasons for the increased adoption of 3608 feedback processes. First, it is assumed that the provision of feedback to managers about how they are viewed by subordinates, peers, superiors and customers should prompt positive change in behaviour and performance. Second, it is assumed that the implementation of 3608 feedback processes will lead to increasing levels of trust and communication throughout the organisation, fewer grievances and greater customer satisfaction.
-
-Waldman et al. (1998) refer to institutional
-
-theory as playing an important role in the ever-increasing use of 3608 feedback.
-
-Institutional theory advocates that organisations make attempts to imitate their competitors. In one of the organisations where Waldman and his colleagues conducted research on the implementation of a 3608 feedback process, he found that the reason that was cited for deciding to use 3608 feedback was that the competition were doing it and so this particular organisation should also utilise it. Waldman et al. (1998) also suggest that ``politics'' is another factor that influences the adoption of 3608 feedback. They state that a company may embrace 3608 feedback in an attempt to give an impression of openness and participation in the organisation but the reality may be somewhat different.
+has been extended to include other raters such as subordinate and peers to develop a fairer and more accurate performance appraisal system in the organisation. They maintain that the need for managers to adjust to ever-changing business environments is a primary reason why 3608 feedback has become popular in the past decade. Rating sources from both inside and outside the organisation can provide key information which enables the organisation to be adaptive. Edwards and Ewen (1996) highlight that management by objectives (MBO) became popular in the 1960s and 1970s. As part of the MBO approach, employees were encouraged to participate in developing work objectives and in evaluating their own performance against these objectives. Therefore, the self-assessment component of the 3608 process is not a totally new concept but stemmed from the MBO culture of the 1960s and 1970s.

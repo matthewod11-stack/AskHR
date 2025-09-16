@@ -1,9 +1,15 @@
-## status or a demerit come promotion time, then the practice doesn’t
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 248e90102654e250ef43da6ff93a9b6d114526b5
+title: H08LQ5-PDF-ENG
+---
+# degree network.
 
-stand a chance. Further, if it fails to address long-held assumptions
+Will organizations get on board and recognize similar beneﬁts, such
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+as boosting retention? Corporate culture will be the deciding factor. If
 
-4
+taking a step back for a limited time is seen as an option only for those
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with less ambition, or if it is held up as evidence against high-potential

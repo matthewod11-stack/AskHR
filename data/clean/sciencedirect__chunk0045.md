@@ -1,3 +1,9 @@
-# Accepted
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: cb9337a5aa8da80d7d39fd649f6202d6061d51ec
+title: sciencedirect
+---
+# µ
 
-40.6 2.438 38.571 1.923 Accepted
+1.85 38.308 42.636 2.95 Accepted

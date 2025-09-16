@@ -1,9 +1,25 @@
-## engineers and other employees with speciﬁc and cumbersome hardware
+---
+source_path: H07AXI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d897a1aa495667f65daba5997ffa0817bcfb2c4
+title: H07AXI-PDF-ENG
+---
+# mapping
 
-needs. We now know from constant testing and iteration that the
+One area of investigation is the best types of conference and meeting
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+rooms: outdoor or indoor? Long table and chairs, or sofas, lounge
 
-4
+chairs, and stadium-style risers? Or all of the above?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Based on feedback from team so far, we’re making changes to the
+
+technology and AV systems to create an even better experience for our
+
+hybrid colleagues. We are also switching to lighter-weight chairs in our
+
+conference rooms to better support teams that need to adapt the space
+
+to ﬁt a range of diﬀerent meeting types.
+
+Another persistent challenge is how to help people navigate moving back and forth between in-oﬃce and remote work — particularly

@@ -1,11 +1,31 @@
-## big, long-term strategic goal for the organization but also an ambition
+---
+source_path: H07WQJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f751f0b335009ae4886548ef0a6f8cd3290ead5b
+title: H07WQJ-PDF-ENG
+---
+## together by, in the words of the sociologist Emile Durkheim, a “uniﬁed
 
-that has moral content, implies an elevated sense of duty, and appeals
+system of beliefs and practices relative to sacred things” as well as
 
-to a broad base of stakeholders. Such an ambition might alienate some
+a “common moral goal.” Companies can become moral communities
 
-with conﬂicting moral sensibilities. But it will inspire the majority who
+when stakeholders embrace goals, beliefs, and behaviors infused with
 
-remain, generating a sense of loyalty and cohesiveness that reﬂects
+a common moral perspective. A great deal of research outlines the
 
-commitment to an ideal and thus goes well beyond economic self-
+economic rationale for doing so: businesses built around an economic
+
+and also morally resonant purpose or mission outperform those that
+
+aren’t because they build trusting, loyal relationships with partners and
+
+customers and inspire employees to innovate and deliver their best.
+
+A clear purpose linked to the organization’s identity as a moral
+
+community can also help leaders know when to speak up on issues —
+
+and when not to. It can serve as a point of orientation for engaging with
+
+the world. For this to work, however, leaders must express not only a

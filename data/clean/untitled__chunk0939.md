@@ -1,9 +1,9 @@
-# Cambridge University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: dc37f98300249529247e749b3696031f3e36884c
+title: untitled
+---
+## Review of General Psychology, 3, 292–316.
 
-Sternberg, R. J. (2002). Contemporary theories of intelligence. In I. B. Weiner (Series Ed.) & W. M. Reynolds & G. M. (Vol. Eds.), Comprehensive handbook of psychology. Vol. 7: Educational psychology. New York: Wiley.
-
-Sternberg, R. J., & Berg, C. A. (1986). Quantitative integration: Deﬁnitions of intelligence: A comparison of the 1921 and 1986 symposia. In R. J. Sternberg & D. K. Detterman (Eds.), What is intelligence? Contemporary viewpoints on its nature and deﬁni- tion (pp. 155–162). Norwood, NJ: Ablex.
-
-155
-
-156
+Sternberg, R. J. (Ed.). (2000). Handbook of intelligence. New York:

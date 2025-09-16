@@ -1,9 +1,11 @@
-# Paul, Trench, Trubner.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 318a0d01d33dcaba9fd42d295b5d021a86c88246
+title: untitled
+---
+# McGraw-Hill.
 
-Mandler, G. (1964). The interruption of behavior. In E. Levine (Ed.), Nebraska symposium on motivation: 1964 (pp. 163–219). Lincoln: University of Nebraska Press.
+Lutz, C. (1988). Unnatural emotions: Everyday sentiments on a Mi- cronesian atoll and their challenge to Western theory. Chicago: University of Chicago Press.
 
-Mandler, G. (1975). Mind and emotion. New York: Wiley.
-
-Mandler, G. (1979). Emotion. In E. Hearst (Ed.), The ﬁrst century of experimental psychology (pp. 275–321). Hillsdale, NJ: Erlbaum.
-
-Mandler, G. (1984). Mind and body: Psychology of emotion and
+MacCurdy, J. T. (1925). The psychology of emotion. London: Kegan

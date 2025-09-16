@@ -1,21 +1,13 @@
-# HBR / Digital Article / How to Support Parents of Neurodivergent Children at Work
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9dbd6bb70aa8837424a83b3cfe250895410543f3
+title: H07MZQ-PDF-ENG
+---
+# their children.
 
-My (Kalifa’s) son was diagnosed educationally just before he turned
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-3, and medically, just after. He was a bubbly baby who reached most
+3
 
-developmental milestones really quickly. He was a funny little leader in
-
-daycare. But as time passed, I noticed two things: he preferred parallel
-
-play, meaning he didn’t really interact with his peers though they kept
-
-trying to interact with him, and he just wouldn’t speak. He was around 2-and-a-half when I became convinced that something felt diﬀerent
-
-about how he interacted. But as a new mother, I wasn’t sure what to look
-
-for. The internet was not helpful (and a scary place for a new parent).
-
-My doctor asked me to monitor him, but I was not sure what to monitor for. Most people around me shrugged it oﬀ as me being hyper-worried, insisting he would grow into it. But I knew something was diﬀerent.
-
-Fortunately, I am a research junkie and pored over research papers,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

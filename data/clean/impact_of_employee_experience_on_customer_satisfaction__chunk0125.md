@@ -1,11 +1,7 @@
-# Fig. 11 Employee journey
-
-The best explanation of employee journey is based on a study from Gallup, a global
-
-analytics and advice firm. Gallup defines the Seven Essential Stages of the Employee
-
-Life Cycle, the stages an employee goes through with an organization, from being
-
-interested to being hired to working there to leaving at some point, and interaction that
-
-employee has with managers and colleagues at each stage. (Gallup, 2021)
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 8e6b0b3be2fbf4393336fd0a57d652d6c9c8e8d7
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 23 | P a g e

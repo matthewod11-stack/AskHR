@@ -1,11 +1,21 @@
-## (30.8.2022; https://tradingeconomics.com/united-
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 3f636a57f5f444ecd7b154c97e1a914611fb7f23
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# Today’s challenges
 
-states/unemployment-rate) and a global talent shortage, also known as the Great
+Pandemic, chip shortage, climate change, supply chain crisis, war in Ukraine,
 
-Resignation, is making it difficult for companies to find qualified candidates to fill open
+economic instability. These are most frequently discussed topics in our everyday life
 
-positions. People want to feel that they are more valued and appreciated than
+that influence human reasoning and change our everyday routines. The pandemic
 
-machines and they want a working environment that promotes meaningful work and
+caused by COVID-19 has had a significant and long-lasting effect on business and
 
-personal satisfaction, as well as a growth mindset. On the other side, stated in Gartner
+future of work. Unemployment rates have fallen to historic lows, in Europe reported
+
+6,6%, US
+
+reported 3,7%

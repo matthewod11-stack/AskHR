@@ -1,29 +1,15 @@
-# business systems.
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f5eed2e48375e2f93cc563a441ee7c1149880037
+title: H08AOU-PDF-ENG
+---
+# The EAC Model for Sustainable Progress
 
-- Commitment: measuring progress and implementing stronger bias
+Interrupting bias sustainably requires three elements:
 
-interrupters until metrics improve.
+- Evidence: developing and tracking key metrics to pinpoint where bias
 
-The four companies we worked with are well on their way
+exists, establish baselines, and measure progress.
 
-with collecting evidence and taking action by implementing bias
-
-interrupters, but time will tell whether they retain the commitment
-
-to achieve year-over-year progress. Because bias is primed all the
-
-time, bias interrupters need to be built into normal business processes
-
-so that bias is interrupted all the time, too. The good news is that
-
-they’re already collecting the metrics they need to continue pinpointing
-
-inequality and identifying what needs to be ﬁxed.
-
-Interrupting bias in access to opportunities won’t accomplish a
-
-company’s goal of retaining talent if bias is allowed to ﬂourish in
-
-other business systems, from hiring to performance evaluations to
-
-compensation, and more. These business-system outcomes are often
+- Action: implementing evidence-based bias interrupters into existing

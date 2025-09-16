@@ -1,15 +1,7 @@
-## technologies in the operating system (a smart-planning app, perhaps)
-
-to enable continuous improvement.
-
-It’s important that teams be able to make their own improvements
-
-—something that requires transparency and trust between company
-
-leaders and managers. It also requires an operating system that
-
-is ﬂexible enough for team members to easily adapt in real time.
-
-Continuous improvement can occur only when all perspectives are
-
-considered and all teams have access to a centralized knowledge
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: c809c02010d2a52d1dfd1a4f54df7da41ffae7ba
+title: S24051-PDF-ENG (1)
+---
+# HBR / Spotlight / New Rules for Teamwork

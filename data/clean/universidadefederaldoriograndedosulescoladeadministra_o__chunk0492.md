@@ -1,5 +1,11 @@
-## de eficiência entre a pesquisa de eNPS e pesquisas de clima organizacional
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 1057107d61693218c4138b7add519881444c8002
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# e
 
-tradicionais. Neste caso, vimos que a maioria (66,7%) se eximiu de emitir uma
+Considero a ferramenta uma boa forma de transformar percepções qualitativas em valores quantitativos. Principalmente quando se é quebrado em outras perguntas mais direcionadas, com possibilidade de comentários abertos (Líder 2).
 
-opinião, alegando não saber fazê-lo, como mostra a figura 14. Apenas um líder
+Em seguida, perguntou-se a opinião dos respondentes quanto à comparação

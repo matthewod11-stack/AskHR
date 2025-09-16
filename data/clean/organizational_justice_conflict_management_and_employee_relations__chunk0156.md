@@ -1,3 +1,7 @@
-# Poon, J.M.L.
-
-justice, affective commitment, and turnover intention: a mediation-moderation framework”, Journal of Applied Social Psychology, Vol. 42 No. 6, pp. 1505-1532.
+---
+source_path: organizational_justice_conflict_management_and_employee_relations.md
+pages: n/a-n/a
+chunk_id: eadce6ecb2bd3f6bf4962546c939ab7a7343a1c2
+title: organizational_justice_conflict_management_and_employee_relations
+---
+## (2012), “Distributive justice, procedural

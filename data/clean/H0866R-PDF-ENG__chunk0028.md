@@ -1,23 +1,19 @@
-# HBR / Digital Article / Working Parents, Plan for the Week with This Simple Exercise
+---
+source_path: H0866R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6ec25d81f6bd7278c3a05058971bb9ec7f33e80b
+title: H0866R-PDF-ENG
+---
+# well.
 
-you already have groceries, or a regular weekly pick-up plan — I strongly
+To avoid this, identify your top 2–3 key logistical decision-making areas
 
-recommend you still cover these because it’s when things are assumed
+for the week. Then decide what the plan is and who is on for each. Even
 
-that issues crop up: “Oh, I thought you knew we had soccer and were
+if it seems obvious — if the after-school sitter is preparing a meal, or
 
-going to pick up dinner on the way home.”
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Finally, ﬁnish up by looking at the top 3–5 to-dos that you identiﬁed and
+5
 
-decide who the owner will be for each and a quick plan and timeslot to
-
-get it done.
-
-- 3. What’s the back-up plan?
-
-“No plan survives ﬁrst contact with the enemy,” as the saying goes. But
-
-without a safety net, every change in the plan feels like a ﬁre. Worse, it
-
-often falls to one “default parent” to change their plans to be on hand for
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

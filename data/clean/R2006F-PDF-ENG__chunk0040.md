@@ -1,3 +1,19 @@
-## provide better guidance and mentoring than a general manager would.
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 737b6336997788d61fe73edea50bf60de1ee0bf1
+title: R2006F-PDF-ENG
+---
+## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-Together, all can strive to do the best work of their lives in their chosen
+See more HBR charts in Data & Visuals on HBR.org.
+
+Having leaders who are experts in their areas and can go deep into
+
+the details has profound implications for how Apple is run. Leaders
+
+can push, probe, and “smell” an issue. They know which details
+
+are important and where to focus their attention. Many people at
+
+Apple see it as liberating, even exhilarating, to work for experts, who

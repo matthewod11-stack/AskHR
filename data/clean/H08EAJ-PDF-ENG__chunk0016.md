@@ -1,7 +1,13 @@
-# continuity.
+---
+source_path: H08EAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7215b366a0623ac734c2aed393b56360da611c52
+title: H08EAJ-PDF-ENG
+---
+## both the emotional and practical aspect of the impending loss of a
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+colleague. We hope that by integrating them, managers can create
 
-3
+a supportive environment that values and respects the needs of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+terminally ill employees, maintains team morale, and ensures business

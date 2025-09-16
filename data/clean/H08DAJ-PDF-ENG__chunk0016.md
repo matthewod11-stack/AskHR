@@ -1,7 +1,7 @@
-# Delegate choices with positive outcomes.
-
-In a controlled experiment, we asked 578 participants to imagine
-
-either being asked to make a decision or to give advice. For half of
-
-the participants, this decision concerned layoﬀs (a negative outcome),
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e114817b0decc3edfda35ad1489af05fcec80720
+title: H08DAJ-PDF-ENG
+---
+## HBR / Digital Article / Research: How to Delegate Decision-Making Strategically

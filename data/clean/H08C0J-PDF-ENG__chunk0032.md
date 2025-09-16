@@ -1,27 +1,29 @@
-## For companies with a complex global footprint, this type of response
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5bba4a0cba19c7c3aa43b1334b2eedbf9fead381
+title: H08C0J-PDF-ENG
+---
+## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
 
-may be especially challenging with multiple simultaneous climate
+Google has such a system in place. In 2020, the company’s CEO, Sundar
 
-health risks, such as overlapping extreme heat and wildﬁres during the
+Pichai, advised employees about an opt-in program that would track
 
-summer, or if companies have locations in both hemispheres, wildﬁre
+staﬀers’ locations through an emergency notiﬁcation system run by its
 
-season in Australia at the same time as ﬂooding season in Europe, for
+security team, known as the Global Security and Resilience Services
 
-example. To address this, organizations should consider repurposing
+(GSRS). The system tracks and reaches out to employees in areas
 
-their pandemic command center and cross-function teaming to address
+aﬀected by diﬀerent health, climate, and security risks to oﬀer guidance
 
-a new frontier of health-risk response. Companies can tap into security,
+and support, and the GSRS team organizes tips for employees on
 
-HR, communications, and other teams to lead the charge on early-
+preparing for poor air quality, evacuations, and power outages. During
 
-warning systems — as long as there is a clear owner responsible for both
+widespread wildﬁres in 2023, for example, Google advised employees on
 
-monitoring these systems and deploying solutions.
+personal safety measures, including work-from-home advisories to limit
 
-Companies will, however, need to be vigilant about data privacy. This is
-
-especially true where geolocation and health data is concerned, given
-
-the potential for data privacy issues over time. Firms should approach
+exposure to outdoor air.

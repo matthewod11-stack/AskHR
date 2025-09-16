@@ -1,11 +1,39 @@
-# HBR / Digital Article / Keep Your Team Motivated When a Project Goes Off the Rails
+---
+source_path: H07VSV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90892c89d067489f01e04935b7ba8b0575c30d6b
+title: H07VSV-PDF-ENG
+---
+# the project goals.
 
-Involve the team in trouble-shooting and defining the path forward.
+Getting the team together to re-establish or re-deﬁne these goals can
 
-Enlist the team in trouble-shooting in a collaborative way that doesn’t
+breathe a second life into the project — assuming the context hasn’t
 
-place blame, but seeks to get to the root cause and ﬁnd a better path
+changed so much that the project is no longer relevant. No one likes
 
-forward. Nieto-Rodriguez recommends holding a “state of the project”
+working on “road to nowhere.” Research from the Standish Group
 
-meeting where “everyone can express concerns and oﬀer solutions
+shows that more than 30% of projects will get cancelled prior to
+
+completion. According to Antonio Nieto-Rodriguez, author of HBR’s
+
+Project Management Handbook, “Consider revising the project charter
+
+if necessary.”
+
+As part of this process, make sure you have executive sponsorship for
+
+the project. The TeamStage study also shared that 62% of successfully
+
+completed projects had supportive sponsors. Nieto-Rodriguez shared
+
+that “Having a high-level executive articulate the project’s importance
+
+to the organization can give the team a renewed sense of purpose.”
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

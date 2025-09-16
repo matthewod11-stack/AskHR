@@ -1,7 +1,7 @@
-# Should You Fire a Bad Hire?
-
-https://hbr.org/2022/10/should-you-ﬁre-a-bad-hire
-
-3/7
-
-Reset expectations, reopen the lines of communication, andensure they have all the tools and support they need to succeed.2) Seek advice from a mentor.Before making any decisions, it’s helpful to consult a trustedmentor who can offer you an objective opinion from a place ofexperience. Share some of the difficulties you’re facing gettingyour new hire up to speed and let them know what steps you’vetaken so far.Ideally, this person should feel comfortable disagreeing with you,challenging your decision-making process, and offering feedbackthat might not be easy for you to hear. You don’t just want asounding board, but a seasoned leader who can push you to growinto your role as a manager. At the same time, remember that noone has all the answers — and just because someone gives youadvice, it doesn’t necessarily make them right. Get someperspective on the situation, and then use your own bestjudgment to make the right decision for your organization.3) Communicate with your manager.It might be tempting to keep your difficulties with a problememployee from your own manager, but this usually makes thingsworse for you in the long run.In addition to seeking the counsel of a mentor, it’s also importantto “manage up” through ongoing conversations with your boss tokeep them apprised of your concerns. This way, you’ll not only getthe benefit of their advice and support, but you’ll also ensurethey’re not caught off guard if you end up terminating the newhire’s employment. The last thing your manager wants is to besurprised by your request to fire someone at the 90-day mark withno prior warning.
+---
+source_path: Should You Fire a Bad Hire_.md
+pages: n/a-n/a
+chunk_id: 87bc77a252a6774541bfb44a20c77771cbc4b4d3
+title: Should You Fire a Bad Hire_
+---
+# 9/10/25, 11:51 AM

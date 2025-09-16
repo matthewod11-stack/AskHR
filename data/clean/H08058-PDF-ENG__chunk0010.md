@@ -1,21 +1,33 @@
-# by the next hot topic.
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 191b26c33aa37564d62bc544ea7a853b5e3cfa8e
+title: H08058-PDF-ENG
+---
+# A Taxonomy of Leadership Responses
 
-- Defensive engagement (“Do what the lawyers say we have to”):
+We’ve observed six common responses to activist issues, ranging from
 
-Leaders agree to engage on an issue but only up to the point of legal
+oblivious to proactive. As you read this list, consider various activist
 
-requirement — they do the minimum.
+issues in your organization — and how your leadership team reacted.
 
-- Dialogic engagement (“Let’s sit down, listen, and learn”): Leaders
+- Nonexistent (“Activism? What activism?”): Leaders are oblivious to
 
-understand that they don’t know enough about certain issues, are
+activist voices or so distanced that they are unaware of these voices
 
-curious to learn more, and take steps to share decision-making —
+and thus do nothing.
 
-marking a critical shift in the power dynamic.
+- Suppression (“Expel it before it spreads”): Leaders attempt to
 
-- Stimulating activism (“Let’s be the activist!”): Leaders identify
+quash voices either through directives that certain subjects are not
 
-themselves and their organization as activists. They publicly stand
+up for discussion or by making it clear (explicitly or implicitly) that if
 
-for a particular cause, and they recruit, reward, and retain employee
+employees speak up they will face negative consequences.
+
+- Facadism (“Let’s just say the right thing”): Leaders respond with
+
+positive words but take no meaningful action, either because they
+
+never really intend to do anything or because they become distracted

@@ -1,11 +1,13 @@
-## deleterious eﬀects on self-doubt and self-esteem.
+---
+source_path: H0522T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0814de7456e3e35810654b8f43838d66e5e184d3
+title: H0522T-PDF-ENG
+---
+## attention and both of these outcomes (lower self-esteem, higher self-
 
-Social psychological theories suggest that stigmatizing experiences, like
+doubt) was weaker in 2018. Likewise, the relationship between gender
 
-sexual harassment, can be very damaging to self-esteem, especially
+harassment and the outcomes decreased. We believe that the knowledge
 
-because the stigmatized individuals fear that they are alone and share
-
-in the blame for their mistreatment. Knowing how pervasive sexual
-
-harassment is, and hearing other women’s experiences, can help buﬀer
+that so many women experience sexual harassment has tempered its

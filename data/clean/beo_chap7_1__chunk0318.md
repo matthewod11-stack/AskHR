@@ -1,15 +1,33 @@
-# but not in $50s”).
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 95b52df88c97942380d520421189d2473de08f43
+title: beo_chap7_1
+---
+# ) s u (
 
-Skin conductance reveals the subjects’ emotional responses as their hands move
+s R C S f o
 
-over the cards. There are a number of things of note:
+Figure 7.4. Results of card drawing experiment. Reprinted with permission from Bechara
 
-(@) there is no SCR for any subjects in prepunishment;
+et al. 1997. “Deciding advantageously before knowing the advantageous strategy.” Science,
 
-Gi) SCR rises for controls in the pre-hunch phase, but stays down for patients,
+Volume 275, p. 1293. Copyright [1997] AAAS.
 
-who, in fact, never show significant SCR;
+draw from the deck was an expected value loss. In decks C and D, with payoffs half
 
-(iii) for controls, the initial preference for bad decks gives way in the pre-hunch
+the size, the penalties were small enough that they implied expected value gain. No
 
-288
+end of play was pre-announced. Play was stopped after 100 trials.
+
+First notice that across the top the data are distinguished for controls on the left
+
+and patients on the right. Below those labels this band indicates data separation
+
+into phases: prepunishment (before any penalty cards are drawn), pre-hunch phase
+
+(after some penalties, but before participants say “T like this deck”), hunch phase
+
+(expressed liking and anticipatory skin conductance response (SCR)), and concep-
+
+tual phase (articulating something like “penalties outweigh benefits in $100 decks,

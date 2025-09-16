@@ -1,37 +1,13 @@
-# 1.4 Motivation of the study
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 10b2e2d82169cce42ad9eec397e18ebf2476278c
+title: i
+---
+# analysis?
 
-First to contribute to the process of facilitating the integration of data analytics within the realm
+- 3. How is the collected data processed and prepared for attrition prediction modeling?
 
-of Human Resources (HR) in the contemporary era of digitalization. By embracing data
+Predictive modeling for attrition rate with three methods Logistic Regression,
 
-analytics, HR functions can effectively align themselves with the ongoing advancements,
-
-which can be observed across various other business sectors. This strategic alignment is crucial
-
-2
-
-to ensure that HR remains synchronized with the rapid evolution of modern business practices.
-
-Leveraging data analytics enables HR to extract actionable insights from the available
-
-information, thereby fostering informed decision-making and precision in workforce
-
-management. Embracing this transformative approach empowers HR to keep pace with other
-
-functional domains and proactively contribute to the organization's overarching objectives,
-
-ultimately bolstering operational efficiency and strategic efficacy.
-
-Secondly, To examine the strategic utilization of predictive analytics within the Human
-
-Resources (HR) domain and to ascertain the business value inherent in its application. The
-
-investigation seeks to delve into the methodologies and practices through which predictive
-
-analytics can be harnessed effectively within HR processes. By delving into this realm, the
-
-thesis intends to unravel the tangible benefits and potential gains that organizations attain by
-
-embracing predictive analytics in their HR operations.
-
-Thirdly, this study aims to make a meaningful contribution to the existing body of literature
+Classification Tree, and Random Forest, using a public dataset.

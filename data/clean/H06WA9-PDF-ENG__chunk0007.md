@@ -1,7 +1,27 @@
-## HBR / The Big Idea / Harnessing the Power of Age Diversity
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7540ea8e94f2c79b58742ec58c0d5e2f25d8a81
+title: H06WA9-PDF-ENG
+---
+# Anuj Shrestha
 
-the term “Boomer” is barely used outside of the United States. The
+Conﬂict between generations is an age-old phenomenon. But at the
 
-retort captured the yawning divide between the generations over
+end of 2019, when the retort “OK, Boomer” went viral, the vitriol — from
 
-seemingly every issue: political activism, climate change, social media,
+both young people who said it and older people who opposed it — was
+
+pointed and widespread.
+
+The sarcastic phrase was coined by a younger generation to push
+
+back on an older one they saw as dismissive and condescending,
+
+and it became popular from Korea to New Zealand even though
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

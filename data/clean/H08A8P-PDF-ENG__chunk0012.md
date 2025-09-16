@@ -1,13 +1,19 @@
-# aﬀront.
+---
+source_path: H08A8P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 06485f7d667dc962c434bf8951d4c136e0cb55dd
+title: H08A8P-PDF-ENG
+---
+# mind for the future.
 
-Directly ask for what you need.
+- Those are interesting thoughts. For consistency’s sake, we’re going to
 
-Be clear about the type of input you are open to. For example, “I value
+follow our current strategy until we have more data, but I’m open to
 
-your insight. For now, I’m speciﬁcally looking for feedback on managing
+revisiting your suggestions in our next phase.
 
-the budget, rather than exploring new features.” Or, “I’m excited to
+Pair one of these phrases with a non-verbal cue, like gently and brieﬂy
 
-share what I’ve been working on. I should mention that at this stage I’m
+raising your hand as if to say “stop” or “time out.” Just be mindful
 
-hoping to share about the progress we’ve made rather than brainstorm
+of who you’re talking to. Certain bosses or leaders may see this as an

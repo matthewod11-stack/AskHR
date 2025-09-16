@@ -1,7 +1,9 @@
-# Supervisiona (see also personal support)
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: e20bbeb6e6103336e2e4708e994b265fb2e05bb8
+title: barrickryan_eds_personality_and_work
+---
+# Management/administrationa
 
-Guiding, directing, and motivating subordinates and providing feedbackc Training, coaching, and developing subordinatesc Delegatingc
-
-Conscientious initiatived (see also citizenship performance)
-
-Learning work tasks, technologies, and proceduresb Demonstrate efforta (similar to persisting to reach goalsc)
+Planning and organizingc Administration and paperworkc Coordinating resourcesc Stafﬁngc Monitoring and controlling resourcesc

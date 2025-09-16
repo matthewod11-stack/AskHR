@@ -1,31 +1,27 @@
-# process.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 076f6aabab7fafeb5e04742c3754759d2e5f8b8a
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Recommendations
 
-At Employers ' Training Resource, there exist many issues confronting
+This plan will be presented to the Deputy Director of Client services at
 
-management , regarding employee performance and many angles this project could have
+Employers ' Training Resource, as a recommendation to improve existing conditions and
 
-taken. Given the necessary time, information and resources, the author would like to
+overall employee performance. A major barrier to implementation of this plan will be
 
-implement a policy providing for a standard, uniform Training program. ETR does not
+getting the support of upper-level management to implement the new Performance
 
-have a consistent training policy for all employees in the Intake and Assessment
+Evaluation System proposed in this study. It has been observed that management is
 
-department. A recommendation to develop a program that will provide full, proper and
+reluctant to drastic changes in the organization and what this plan is calling for is just c
 
-equal training for new and existing employees should be considered for a future project or
+that. In order to implement this plan, we would have to re-evaluate the current
 
-department committee. This can be done by, first, conduct a needs analysis of employee
+performance evaluation structure for the county and decide to replace the civil service
 
-training needs; secondly, develop an agenda for training; thirdly, develop areas of training
+evaluation form with the new forms presented in this study (see Appendices ).
 
-and outline a program that addresses each of those training areas; and lastly, publish a
-
-42
-
-training manual that can be referred to for future training of new and existing employees .
-
-In retrospect , developing a training program for all employees is an excellent option to
-
-improving employee performance in the Intake and Assessment department at ETR.
-
-43
+Performance evaluations will be conducted every three months and treated as an ongoing

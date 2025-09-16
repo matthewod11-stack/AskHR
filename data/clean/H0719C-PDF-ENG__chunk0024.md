@@ -1,7 +1,17 @@
-# more open dialogue.
+---
+source_path: H0719C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 169c736506f5f9d9b8ed4c240a355850c7f3feed
+title: H0719C-PDF-ENG
+---
+# Start gently.
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+Talking about mental health should be as normal as possible. Simply
 
-4
+asking, “How are you feeling today?” or “How was your weekend?” or
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+“How’s that assignment going?” can create space for a mental health
+
+discussion. Of course, you’ll want to strike an open, genuine, and
+
+empathic tone. A casual, nonconfrontational approach can facilitate a

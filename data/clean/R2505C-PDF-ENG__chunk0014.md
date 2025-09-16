@@ -1,13 +1,19 @@
-## HBR / Magazine Article / Now Is the Time for Courage
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0769fa6d8619f87d81130d5e7d41c0d2e073d3bb
+title: R2505C-PDF-ENG
+---
+# terrorist attack in Mumbai.
 
-make connections, and stay calm, employing a variety of techniques to
+In my research I found that individuals like these develop courage in
 
-do each.
+ﬁve ways: They create positive narratives, cultivate conﬁdence, take
 
-At a moment when 76% of S&P 500 companies are citing “uncertainty”
+small steps to boost their comprehension of the challenges they face,
 
-in their earnings calls (up from 37% in the three months prior, according
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to FactSet), these strategies are especially critical. What’s more, any
+3
 
-leader can learn and deploy them to become more courageous.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

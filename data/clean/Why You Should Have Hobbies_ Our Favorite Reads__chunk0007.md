@@ -1,9 +1,7 @@
-## Why You Should Have Hobbies: Our Favorite Reads
-
-https://hbr.org/2023/07/why-you-should-have-hobbies-our-favorite-reads
-
-2/4
-
-Odds are, you’ll be happy that you did.Recommended Reads
-
-Can Hobbies Actually Make You a Better Person?by Kelsey AlpaioThe research says “yes.”
+---
+source_path: Why You Should Have Hobbies_ Our Favorite Reads.md
+pages: n/a-n/a
+chunk_id: 6a48f8fc21e3cc60397e03240f24a69c0ce50e8e
+title: Why You Should Have Hobbies_ Our Favorite Reads
+---
+# 9/10/25, 11:34 AM

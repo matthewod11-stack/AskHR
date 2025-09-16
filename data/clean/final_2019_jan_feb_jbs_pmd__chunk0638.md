@@ -1,5 +1,9 @@
-# In
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: fc4590de609a28e25ee256849ced89684951f0ad
+title: final_2019_jan_feb_jbs_pmd
+---
+# ISSN 2393-9451
 
-ratio, cash earnings retention ratio.The computed multiple correlation co-efficient is tested with the help of ‘F’ test and computed multiple regression coefficient is tested help of ‘T’ test.In this analysis, Curren t ratio,quick ratio, cash earnings retention ratioare selected as independent variables and the EPS has been selected as dependent variable.Regression equation is EPS=â0+â1. current ratio+â 2. quick ratio+ . â3.cash earnings retention ratio.In case of Bajaj Finance a nd Shriram Transport Finance Corporationcoefficient of regression between EPS and cash earnings retention ratio is statistically significant at 5% level . In case of Mahindra & Mahindra Financial Servicescoefficient of regression between EPS and cash earnings retentionis statistically significant at 10% level.
-
-Table 13 is showing the multiple correlation and multiple regression of earnings on Current ratio, quick
+the EPS is statistically significant at 5% level. Regression between EPS and return on capital employed is statistically significant at 5% level and regression between EPS and return on assets is statistically significant at 10% level in case of Bajaj Finance. In Shriram Transport Finance Corporation regression between EPS and return on capital employed is statistically significant at 10% level. Sundaram Financeregression between EPS and net profit is statistically significant at 5% level. Cholamandalam Investment & Finance Company coefficient of regression between EPS and return on assets is statistically significant at 10% level.

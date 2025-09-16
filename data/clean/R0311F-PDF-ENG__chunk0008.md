@@ -1,23 +1,7 @@
-# How mindless or mendacious can managers
-
-be? Here are some examples:
-
-- One of the world’s top information-service providers began evaluating managers’ perfor- mance according to how many patents the company filed each year. Whether it might have made more sense to license someone else’s technology, whether the patents were ever put to work, or whether they ever earned back their cost was not considered. The reason for tracking patent awards? A more successful competitor owned a larger number.
-
-Mistake One: Not Linking Measures to Strategy Whether the goal of a performance measure- ment system is to help direct the allocation of resources, to assess and communicate progress toward strategic objectives, or to evaluate man- agerial performance, a major challenge for companies is determining which of the hun- dreds, if not thousands, of nonfinancial mea- sures to track.
-
-Christopher D. Ittner is a professor of accounting at the Wharton School of the University of Pennsylvania, in Phila- delphia. He Linking Quality to Profits: Quality-Based Cost (ASQC Press, 1994). Management David F. Larcker is the Ernst & Young Professor of Accounting at Wharton.
-
-is coauthor of
-
-- A large retail bank decided to base bo- nuses on customer satisfaction scores. But the polling company hired by the bank surveyed only those customers who physically entered bricks-and-mortar branches. So one branch manager who had received poor satisfaction scores in the past coaxed customers to visit and then put smiles on their faces by offering them free food and drinks on the premises.
-
-- Managers of an automobile components manufacturer reached the firm’s quality tar- gets by reclassifying as acceptable certain flaws that once would have caused a part to be re- jected. When such things happen, a company’s fi- nancial and nonfinancial performance di- verge—an ironic outcome, since the original reason for tracking nonfinancial performance was to fill out the picture provided by tradi- tional financial accounting. And yet, is it so surprising that nonfinancial measures would be equally, if not more, susceptible to manipu- lation as financial accounting? At least tradi- tional accounting has rules that govern it.
-
-In fact, the misuse of nonfinancial measures may be even more damaging because of the significant opportunity costs incurred. As the exhibit “The Difference It Makes” shows, the companies in our study that adopted nonfi- nancial measures and then established a causal link between those measures and financial outcomes produced significantly higher re- turns on assets and returns on equity over a five-year period than those that did not.
-
-In the following pages, we discuss our re- search findings, which reveal a number of common mistakes companies make when try- ing to measure nonfinancial performance. We then highlight a number of practices that, in our view, will allow companies to realize the
-
-Many companies believe that they have solved this problem by adopting a framework like the Balanced Scorecard, mistaking it for an off-the-shelf checklist or procedure that is universally applicable and completely compre- hensive. But using such a framework by itself won’t help identify which performance areas—and which drivers—make the greatest contribution to the company’s financial out- comes. In a number of companies we studied, middle managers sarcastically referred to the Balanced Scorecard as the “four bucket” or “smorgasbord” approach because top manage- ment ordered them to come up with some- thing for each of the scorecard’s four perspec- tives, regardless of their business unit’s strategy or objectives.
-
-More successful companies have attacked this problem by choosing their performance measures on the basis of causal models, also called value driver maps, which lay out the plausible cause-and-effect relationships that may exist between the chosen drivers of strate- gic success and outcomes. The exhibit “Which Measures Matter” shows how one very success- ful fast food chain diagrammed its drivers of strategic success. The diagram demonstrates how better employee selection and staffing should lead to higher employee satisfaction and thus improve employee performance. The latter in turn should increase customer satis- faction and thus purchase frequency, customer retention, and referrals, ultimately leading to sustained sales growth and increased share- holder value. This model became the basis for selecting performance measures directly tied to the goals of the strategic plan, which was to become the premier generator of free cash flow in the fast foods sector and lead stock- price performance in that industry.
+---
+source_path: R0311F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f4e81fc59c6d63d3c0967bbd1ba601e63c05444f
+title: R0311F-PDF-ENG
+---
+## genuine promise of nonfinancial performance measures.

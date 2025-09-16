@@ -1,9 +1,31 @@
-# (cid:36)(cid:39) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:2)(cid:6)(cid:2)(cid:8)(cid:13)(cid:35)(cid:10)(cid:14)(cid:15)(cid:13)(cid:2)(cid:3)(cid:7)(cid:13)(cid:16)(cid:3)(cid:2)(cid:10)(cid:17)(cid:2)(cid:18)(cid:15)(cid:2)(cid:19)(cid:10) (cid:10)
+---
+source_path: microsoft_word_performance_management_literature_review_doc.md
+pages: n/a-n/a
+chunk_id: 2d0b213f3c8217080125ca6d37f530ad188b0659
+title: microsoft_word_performance_management_literature_review_doc
+---
+# (cid:27)(cid:8)(cid:28)(cid:13)(cid:15)(cid:13)(cid:16)(cid:13)(cid:2)(cid:10)(cid:4)(cid:5)(cid:3)(cid:10)(cid:29)(cid:6)(cid:30)(cid:23)(cid:5)(cid:24)(cid:6)(cid:2)(cid:8)(cid:13)(cid:10)(cid:31)(cid:13)(cid:16)(cid:32)(cid:15)(cid:2)(cid:28) (cid:36)(cid:38)(cid:10) (cid:10)
 
-In respect of competency frameworks, we have profiled similar trends towards simplification and more user-friendly and user-driven approaches, with for example, only common core competencies often now being specified. Again, support from the top and through excellent training and communications are critical enablers. Personal development and a future focus on development, rather than on past performance rating and reward, are also commonly apparent.
+(cid:27)(cid:56) (cid:26)(cid:10)(cid:2)(cid:28)(cid:15)(cid:6)(cid:3)(cid:5)(cid:10)(cid:2)(cid:8)
 
-There are also many arguments when considering the link between performance management and reward. We have seen that a pay link may connect the actions of employees to organisational goals and this link can foster the right behaviours in employees, but in order to achieve a genuine link the practice of performance, competency or contribution related pay must be transparent and the link between pay and performance must not be compromised. Reward in this context can act as a direct incentive to some employees and can offer the flexibility to recognise individual achievements or contributions, however reward must not undermine the ‘felt fair’ perception of equity for employees.
+This paper has had the objective of profiling the trends in performance appraisal, competency and skills development and considering how appraisal systems can be more effectively implemented.
 
-Good practice in performance management is summarised by Armstrong and Baron (2005) through comments made by case study organisations that they visited. These provided some interesting insights into developments in performance management. For example:
+There is powerful evidence that performance appraisal and related staff development can have a major impact on service outcomes, and large employers almost universally have some type of performance management process. A significant proportion of large UK employers have changed their process in recent years and many plan further changes. But, although some American writers may herald the death of performance appraisal, some type of process with similar objectives typically remains in place, if in a different form and guise. Change is apparently almost inevitable amidst the realities, speed and pressure of organisational life today, and is a route to improved impact, rather than an admission of failure.
 
-‘We expect line managers to recognise it [performance management] as a useful contribution to the management of their teams rather than a chore.’
+Common changes and apparent keys to improvement in appraisal and development processes externally, highlighted in research, include:
+
+(cid:1) Simultaneously focusing more broadly on organisational performance and on initiatives required to support that, whilst also simplifying and speeding the core processes.
+
+(cid:1) Providing more support and training in the use of the system to line managers
+
+and ensuring senior management commitment and example-setting.
+
+(cid:1) Giving employees higher levels of understanding and involvement and allowing them to drive and shape the process to a much greater extent.
+
+(cid:1) Focusing on development and performance outcomes and measuring and
+
+demonstrating them.
+
+(cid:1) Allowing for greater adaptation and flexibility to tailor a simpler common
+
+framework to suit diverse local needs and cultures.

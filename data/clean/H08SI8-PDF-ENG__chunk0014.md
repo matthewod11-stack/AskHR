@@ -1,19 +1,13 @@
-## HBR / Digital Article / How 6 Companies Approached Digital Transformation
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c083886296e35c7df5412213678c99a753e23724
+title: H08SI8-PDF-ENG
+---
+# retail.
 
-“[T]his process is a bit like an iceberg,” Martin Coppola told HBR in an
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-interview. “At the top of the iceberg, we have the customer needs and
+4
 
-adaptation—revamping everything around customer interaction and
-
-new purchasing journeys—and under the surface we are making huge
-
-changes to our business and operating model. And what is under the
-
-surface is a much bigger change than what we see above.” In practical
-
-terms, that meant rolling out new data policies and communicating
-
-them to customers, integrating the app into the retail experience,
-
-introducing new AR and VR tools, and broadly embracing data in new
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

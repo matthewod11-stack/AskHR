@@ -1,23 +1,23 @@
-# Accept the feedback with a caveat.
+---
+source_path: H07638-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c3f188f1be4f6f47d8d265900098a3fa213afc4e
+title: H07638-PDF-ENG
+---
+## HBR / Digital Article / What to Do If Your Team Is Underperforming
 
-While you may feel defensive and angry about the feedback because you
+Realize you’re not in this alone.
 
-were evaluated on factors outside your control, recognize that you are
+If you’re managing an underperforming team and receive a problematic
 
-accountable for the team and their actions or inaction. Accept the input:
+review, you may feel like you’re on an island — but you’re not. It’s time
 
-acknowledge that now is the time for renewed eﬀort and a better plan.
+to enlist help. First, elicit support from your peers by asking for advice
 
-Being defensive won’t help matters.
+regarding what they’ve done with underperforming teams. Second, look
 
-Moving forward, ask your manager for support for your team
+outside the organization for guidance. Check in with mentors or other
 
-wherever necessary. In addition, focus on your strengths. Ensure you’re
+leaders and peers you respect and ask: “If your team underperformed
 
-highlighting what is going right in conversations with your manager.
-
-Remind your manager why you’re the right person to ﬁx the group.
-
-Remember that your boss is extremely busy and may not spend time
-
-recognizing things that are going well; remind your manager of the
+and you got a bad review, what would your next move be?”

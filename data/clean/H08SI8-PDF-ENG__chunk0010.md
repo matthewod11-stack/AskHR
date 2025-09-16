@@ -1,33 +1,27 @@
-## HBR / Digital Article / How 6 Companies Approached Digital Transformation
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4db16adf92656bd999247a3ae4a5354b3904e2cd
+title: H08SI8-PDF-ENG
+---
+# eﬀort.
 
-The company pursued a three-step plan to transform itself internally.
+This was a problem for a couple of reasons. For one, because
 
-First, it focused on simplifying and reorganizing its infrastructure,
+Honeywell contains so many businesses, the sprawl of tools and systems
 
-going from 150-plus ERPs to 10, from 1,700 websites to fewer than 100,
+heightened those internal divides. Second, as a result, that hindered
 
-and from 2,700 applications to fewer than 1,000. Second, it invested in
+Honeywell’s ability to create new value for its customers. “The question
 
-creating master databases for products, employees, and customers. And
+we asked ourselves,” writes Adamczyk, “was ‘Is it possible to use
 
-third, it developed a strategy for putting all that data to work.
+digitalization to transform a diversiﬁed industrial conglomerate into an
 
-The digital transformation also allowed Honeywell to oﬀer customers
+integrated company?’”
 
-new systems that would put their data to work in new ways. Because
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the company was already providing hardware and systems layers, it was
+3
 
-able to add a cloud-based software-as-a-service layer that captures data
-
-and oﬀers analytic insights—a new way of creating value built on top of
-
-existing services.
-
-“In a way, digital transformation is really a matter of being able to create
-
-a system to capture and harness data and then to unleash its power
-
-on whatever it is you’re doing,” writes Adamczyk. “But to achieve that,
-
-you have to understand all the intricate moving parts that make up the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

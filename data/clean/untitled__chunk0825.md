@@ -1,5 +1,9 @@
-# Guilford’s Structure-of-Intellect Model
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 260f8a37ea78ccde67c2d385d3401e534cf40155
+title: untitled
+---
+# Carroll’s Three-Stratum Theory
 
-Although many differential theorists followed the option of proposing a hierarchical model, not all did. J. P. Guilford (1967, 1982; Guilford & Hoepfner, 1971) proposed a model with 120 distinct abilities (increased to 150 in 1982 and to 180 in later manifestations). The basic theory organizes abilities along three dimensions: operations, products, and contents. In the best-known version of the model, there are ﬁve operations, six products, and four contents. The ﬁve op- erations are cognition, memory, divergent production, con- vergent production, and evaluation. The six products are units, classes, relations, systems, transformations, and impli- cations. The four contents are ﬁgural, symbolic, semantic, and behavioral. Because these dimensions are completely crossed with each other, they yield a total of 5 (cid:11) 6 (cid:11) 4 or 120 different abilities. For example, inferring a relation in a verbal analogy (such as the relation between BLACK and WHITE in BLACK : WHITE :: HIGH : LOW) would in- volve cognition of semantic relations.
-
-Guilford’s model has not fared well psychometrically. Horn and Knapp (1973) showed that random theories could generate support equal to that obtained by Guilford’s model when the same type of rotation was used that Guilford used— so-called “Procrustean rotation.” Horn (1967) showed that equal support could be obtained with Guilford’s theory, but with data generated randomly rather than with real data. These demonstrations do not prove the model wrong: They
+Today, perhaps the most widely accepted hierarchical model is one proposed by Carroll (1993) that is based on the re- analysis of (more than 450) data sets from the past. At the top of the hierarchy is general ability; in the middle of the hierar- chy are various broad abilities, including ﬂuid and crystal- lized intelligence, learning and memory processes, visual and auditory perception, facile production, and speed. At the bot- tom of the hierarchy are fairly speciﬁc abilities.

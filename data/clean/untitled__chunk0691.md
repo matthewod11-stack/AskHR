@@ -1,3 +1,9 @@
-# The Philosophical Period 115
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: fbc769d36412eb12f136967925598356c75da3aa
+title: untitled
+---
+## The Modern Period: Cognition after the Scientiﬁc Revolution
 
-with any conﬁdence? Asking this question created a degree of paranoia in subsequent philosophy. Descartes began his quest for a foundation upon which to erect science by suspecting the truth of every belief he had. Eventually he came upon the apparently unassailable assertion that “I think, therefore I am.” But Descartes’method placed everything else in doubt, including the existences of God and the world. Related to the philosophicalquestionsarepsychologicalones.Howandwhy does consciousness work as it does? Why do we experience the world as we do rather than some other way? Because the answers to the philosophical questions depend on the answers to the psychological ones, examining the mind—doing psychology—became the central preoccupation of philoso- phy before psychology split off as an independent discipline. Three philosophical-psychological traditions arose out of the new Cartesian questions: the modern empiricist, realist, and idealist traditions. They have shaped the psychology of cognition ever since.
+Several intertwined questions arose from the new scientiﬁc, Cartesian, view of mind and its place in nature. Some are philosophical. If I am locked up in the subjective world of consciousness, how can I know anything about the world

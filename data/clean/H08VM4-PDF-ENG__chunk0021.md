@@ -1,9 +1,47 @@
-## Meetings. Here’s What to Do.” by Luis Velasquez.
+---
+source_path: H08VM4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de9a80a9f0bf92cf8b0af50dcc3ec8217be4aa66
+title: H08VM4-PDF-ENG
+---
+# Boost Team Participation in Meetings
 
-. . .
+Low participation in meetings can harm your team’s productivity by
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+reducing collaboration, hampering decision-making, and eroding unity.
 
-4
+How can you encourage more fruitful engagement?
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Start by clarifying expectations. Outline the supportive behaviors you
+
+want to see in your meetings. For example, you could say, “As a team, we
+
+support each other, we tackle challenges together, and we communicate
+
+constructively.”
+
+Model these behaviors yourself, and be sure to celebrate when your
+
+team members do the same. For example, you might say, “I would
+
+like to recognize something. Alex, the way you just acknowledged
+
+Jordan’s contribution embodies the supportive culture we want to have
+
+on our team—one where every team member’s input is recognized
+
+and appreciated. Alex, thank you for demonstrating this and setting a
+
+positive example for us all.”
+
+It’s also helpful to oﬀer team members diﬀerent ways to contribute—for
+
+example, allow for written input before, during, or after meetings. And
+
+consider rotating the meeting facilitation among all team members to
+
+give everyone a chance to lead. Giving those who are typically less vocal
+
+a structured role can help empower them to speak.
+
+This tip is adapted from “Your Team Members Aren’t Participating in

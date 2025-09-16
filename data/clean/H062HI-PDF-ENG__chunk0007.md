@@ -1,7 +1,19 @@
-# leave.
+---
+source_path: H062HI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac57759c0738a81b6bd8e87cef8b243c63cda5cd
+title: H062HI-PDF-ENG
+---
+# RyanJLane/Getty Images
 
-Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
+The United States is the only industrialized country without a national
 
-1
+paid maternity leave policy, and one of six OECD countries without paid
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leave for fathers. That leaves U.S. ﬁrms to decide whether to provide paid
+
+leave to their employees who need time to care for themselves, new
+
+children, or loved ones. Just 21% of the civilian workforce, typically white
+
+collar workers at larger ﬁrms, have access to employer-provided paid

@@ -1,9 +1,7 @@
-# Implications for Strategy
-
-If companies derive value from providing a diﬀerentiated bundle of
-
-expertise, how can they continue to be relevant when improvements
-
-in AI’s core capabilities make some or all of that expertise more easily
-
-available to competitors and customers? What is the basis for value
+---
+source_path: R2502W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb41bc49186859b4bc27b5e6a4eb66701a0d4cf3
+title: R2502W-PDF-ENG
+---
+# become available.

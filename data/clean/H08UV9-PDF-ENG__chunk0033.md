@@ -1,15 +1,11 @@
-# needs help.
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2eecf9dcf70d778e02a01fb457c1cba0e89fe35
+title: H08UV9-PDF-ENG
+---
+# will:
 
-- 3. Become more committed to and accountable for the long-term
+- 1. Come to understand the ﬁrm’s strategy and culture.
 
-success of the executives they help ﬁnd.
-
-- 3. Get serious about succession planning.
-
-Boards, operating partners, and portfolio company leaders should
-
-commit to investing in succession planning, which is more important
-
-than ever as holding periods have increased. Only one in nine PE ﬁrms
-
-have conducted a formal analysis to identify can’t-lose players in the
+- 2. Become a resource who can coach (or replace) an executive who

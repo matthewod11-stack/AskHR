@@ -1,13 +1,11 @@
-## undergo the trouble of distributed decision making
+---
+source_path: H08GJ6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 891daa161b4e5da421bfe93aedb2c55f982edff5
+title: H08GJ6-PDF-ENG
+---
+# intervals
 
-Do you have an expert for each new idea?
+- Whether you expect the decision-making to be suﬃciently
 
-Most often the answer to this is no. If you conﬁdently knew who
-
-the right expert is for the evaluation of a project, you would already
-
-understand the project. In that case there is less need for additional
-
-deliberation. Therefore, delegating to experts is best suited to frequent,
-
-more routine decision tasks, involving incremental changes rather than
+complicated by uncertainty, or in need of broader legitimization, to

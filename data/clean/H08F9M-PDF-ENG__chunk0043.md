@@ -1,25 +1,17 @@
-## creativity and stretches both leaders and teams.
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 768f7aa0b39b1e63308361d7d34984767f999a7e
+title: H08F9M-PDF-ENG
+---
+## leadership all throughout the organization, from the C-suite to the
 
-But we also know there is joy in this work. Joy comes from working
+frontlines. It is a paradigm to help organizations thrive by unleashing
 
-together to make things better, seeing people grow and learn, and
+the power and potential of their people. Making that happen is work
 
-changing the organization so that it is more productive and more
+— the work of leadership. And we know this kind of work can be hard. Mobilizing people is not easy, and the path to solving diﬃcult problems
 
-purposeful. Eﬀective leadership opens up opportunities, gives people
+may be uphill and rocky. Yet, that is precisely why leadership is great
 
-meaning, and strengthens the health, energy and vigor of the
-
-organization. It is the promise of making things better that is the focus
-
-of the leading through paradigm.
-
-This article was originally published online on October 9, 2024.
-
-Kim B. Clark served as dean of the faculty at Harvard Business School from 1995 to 2005. He also served as the ﬁfteenth president of Brigham Young University–Idaho from 2005 to 2015 and Commissioner of Education for the Church of Jesus Christ of Latter-day Saints from 2015 to 2019. He is currently a Distinguished Professor of Management at Brigham Young University. He is the co-author of Leading Through: Activating the Soul, Heart, and Mind of Leadership (Harvard Business Review Press).
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+work. It is meaningful and fulﬁlling because it takes initiative and

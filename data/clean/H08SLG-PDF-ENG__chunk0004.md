@@ -1,21 +1,13 @@
-## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: db88aa963e502424b7594fc33a5fe6da1de20bb3
+title: H08SLG-PDF-ENG
+---
+# purpose and sustainability.
 
-The team’s conversation led to the recognition that there were
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-overlooked assets in the archive that might be used for a new
+1
 
-program. This idea eventually led to a top-line contribution of tens of
-
-millions, and reductions in workforce were avoided. In contrast, other
-
-departments in the institution simply moved forward with cycles of
-
-layoﬀs which reduced morale and led to burnout.
-
-For the last few years we have been researching two modes of
-
-attention that people use at work: doing mode, in which people
-
-pay narrow attention to a speciﬁc task in order to control, predict and get it done eﬃciently; and spacious mode, in which people
-
-pay attention more expansively, without hurry, making them more
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

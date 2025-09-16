@@ -1,27 +1,17 @@
-## about mental health issues in their workplaces.
+---
+source_path: H06IPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f45aa9783b913ee550bccccbab6e67ef2fca182b
+title: H06IPO-PDF-ENG
+---
+# HBR / Digital Article / Managers: Compassion and Accountability Aren’t Mutually Exc…
 
-What if you feel taken advantage of?
+make that go away. “It’s not going to be a stress-free world,” says Hirsh.
 
-If some of your team members have been requesting accommodations
+“There’s always going to be something going on in people’s lives.” He
 
-over the past year, such as extensions on deadlines, reduced workload,
+also cautions that the “old style” of dealing with mental health at work
 
-or time oﬀ to take care of their mental health, it’s possible that you
+— essentially keeping it hidden and pretending it doesn’t exist — just
 
-might feel taken advantage of, especially if you’ve been giving your job
-
-your all and getting your work done without such accommodations.
-
-There’s a temptation, says Hirsh, for managers to think, “If I can endure
-
-this, why can’t you?” But that line of thinking — and any attempt to
-
-compare suﬀering and resilience — isn’t helpful. Everyone’s situation
-
-is unique, of course. So don’t go down the rabbit hole wondering if
-
-particular employees are using the situation to their advantage. As Hill
-
-says, “You’re better oﬀ helping them with their burnout rather than
-
-focusing on whether that person is making inappropriate use of your
+doesn’t work. We know now that people want to be able to talk openly

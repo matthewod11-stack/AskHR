@@ -1,19 +1,23 @@
-## our journeys more interesting, enjoyable, and fulﬁlling.
+---
+source_path: H07UPN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 547dc949e2bc414bf208e17785eb10e324fb77db
+title: H07UPN-PDF-ENG
+---
+## HBR / Digital Article / Is Your Team Overworking But Underperforming?
 
-These ﬁve strategies can help managers equip your teams to move
+make us feel productive, but it leads to stagnation. When we’re focused
 
-from the performance zone to incorporating the learning zone, enabling
+only on execution, we respond to challenges by pedaling harder,
 
-them to work eﬀectively while driving change and growth.
+working more hours, hiring more people, and at times even cutting
 
-- 1. Set the stage for the learning zone.
+corners. None of this is enough to keep up with the fast pace of change,
 
-In everyday work and life, most of us tend to get stuck in the
+so we still feel behind.
 
-performance zone, ﬁxated on getting things done as ﬂawlessly as
+When we switch our lens to include eﬀorts to improve, entering what I
 
-possible. This might work ﬁne while we’re novices, but once we become
+call the “learning zone,” we can get things done in ways that make us
 
-proﬁcient, this single-minded focus leads to stagnation, or worse.
-
-For example, a Harvard Medical School meta-analysis concluded that,
+more eﬀective. Not only does this result in better outcomes, it makes

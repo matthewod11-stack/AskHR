@@ -1,5 +1,17 @@
-## empresas, vídeos de programas de televisão, etc” (FONSECA, 2002). Segundo
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 6f2f57871954efe65add524a169d596a01863470
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# “tais como:
 
-Mattar (1999), dados secundários são aqueles que já foram coletados, tabulados,
+tabelas estatísticas,
 
-ordenados e, às vezes, até analisados e que estão catalogados à disposição dos
+jornais,
+
+revistas,
+
+relatórios,
+
+documentos oficiais, cartas, filmes, fotografias, pinturas, tapeçarias, relatórios de

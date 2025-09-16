@@ -1,11 +1,13 @@
-# my manager?
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4c93a054b175dc62d689b4cef9ec73521d80237c
+title: H08HJ8-PDF-ENG
+---
+# relationship.
 
-- What is my responsibility in this situation?
+We invite clients to look at how they may be contributing to the
 
-- What is my resistance to my leader costing me?
+situation by asking the following:
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- What actions have I taken that have compounded the challenges with

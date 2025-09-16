@@ -1,11 +1,17 @@
-## his time and attendance—traditional punch cards—due to an aversion
+---
+source_path: H08QRZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e5b0a999b49c9a473976eb2f5b9f3216f145219
+title: H08QRZ-PDF-ENG
+---
+# Ask for alternatives.
 
-to the scanner stemming from his religious beliefs. CONSOL refused,
+If workers ﬁnd data collection programs to be overly intrusive, they may
 
-prompting Butcher to resign and ﬁle a discrimination lawsuit, which he
+ask for alternative, less-intimate forms of data collection that achieve
 
-won. Employees should know that there are legal precedents in their
+the same purpose. CONSOL Energy, a coal mining company, rolled out
 
-favor that can help inform discussions with managers.
+a biometric hand scanner to track attendance of its workers. One of its
 
-. . .
+laborers, Beverly Butcher, asked for an alternative method of tracking

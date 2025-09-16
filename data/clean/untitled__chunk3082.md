@@ -1,5 +1,17 @@
-## ogy.” American Psychologist, 44, 979–986.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: be83c260aa7d2893bea0a2cee0c7bce6f1c58f8d
+title: untitled
+---
+# New York: Basic Books.
 
-van Drunen, P. (1997). Psychotechnics. In W. G. Bringmann, H. E. Luck, R. Miller, & C. E. Early (Eds.), A pictorial history of psychology (pp. 480–484). Chicago: Quintessence Books.
+Stevens, G., & Gardner, S. (1982). The women of psychology: Pio- neers and innovators, Vol. 1. Cambridge, MA: Schenkman.
 
-Veysey, L. R. (1965). The emergence of the American university.
+Tiefer, L. (1991). A brief history of the Association for Women in Psychology. Psychology of Women Quarterly, 15, 635–649.
+
+Trimble, J. E. (2000). American Indian psychology. In A. E. Kazdin (Ed.), Encyclopedia of psychology (Vol. 1, pp. 139–144). Washington, DC: American Psychological Association.
+
+Trommsdorf, G., & Sprung, L. (2000). Germany. In A. E. Kazdin (Ed.), Encyclopedia of psychology (Vol. 3, pp. 474–481). Washington, DC: American Psychological Association.
+
+VandenBos, G. R. (1989). Loosely organized “organized psychol-

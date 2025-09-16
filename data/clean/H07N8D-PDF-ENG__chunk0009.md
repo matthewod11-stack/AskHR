@@ -1,21 +1,17 @@
-# swap places.
+---
+source_path: H07N8D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03bf0df87f91a5b153edb649eda45033c0b86981
+title: H07N8D-PDF-ENG
+---
+## diﬀerent teams, such as sales, marketing, and HR.
 
-It worked. After just one week, the leaders were able to gain a deeper
+Venture capitalist Ben Horowitz applied a perspective swap at one of
 
-understanding of each other’s challenges and resolve the issues that had
+his portfolio companies after he noticed that two teams — customer
 
-caused the spats.
+support and sales engineering — were spewing “blistering complaints”
 
-In our latest research at The Work Innovation Lab, we’ve been studying
+at one another and struggling to collaborate. Fresh from watching the
 
-the evolving role of IT professionals, particularly CIOs and CTOs.
-
-We’ve found that there are three groups whose business priorities
-
-IT professionals are struggling to understand most right now: legal,
-
-ﬁnance, and HR. Yet cross-functional collaboration with these teams is
-
-critical: IT team members need to collaborate with legal team members
-
-to respond to cybersecurity threats, with ﬁnance team members to chop
+ﬁlm “Freaky Friday,” Horowitz instructed the heads of the two teams to

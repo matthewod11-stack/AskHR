@@ -1,13 +1,7 @@
-# interpretation of organizational change.
-
-Furthermore, as faster and faster changes take place it is expected that
-
-overlapping efforts will occur, and in such situations the outcomes are only partially
-
-anticipated, as many interactions and interests will have to be accommodated. Actually,
-
-results would be only partially predicted as, with the intentionality of actions and
-
-discussions, proposed outcomes and several forces influencing it in different directions
-
-would coexist. Accordingly, the Sensemaking Theory of Change would be applicable
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: 3d4ed54226c447f6009fba99d06aa0978a59f9e4
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# constructionist/organicist - as an alternative to an instrumentalist/mechanistic -

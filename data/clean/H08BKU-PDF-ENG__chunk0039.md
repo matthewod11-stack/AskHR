@@ -1,11 +1,13 @@
-# environments.
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d729e4cdfb951bb1d1b7be9e6f11699ead4f18b
+title: H08BKU-PDF-ENG
+---
+## Our research and extensive immersion in the corporate domain
 
-Authors’ Note: This research was funded in part by the Australian government, The University of Sydney Business School, and the Crescent Foundation.
+show that change champions in refugee recruitment come from all
 
-This article was originally published online on August 27, 2024.
+organizational levels. We ﬁnd that all it takes is one person to raise an
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+interest to drive organizational momentum toward more inclusive work

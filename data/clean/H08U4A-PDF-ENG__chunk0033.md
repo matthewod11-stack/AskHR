@@ -1,31 +1,9 @@
-## pressure, fast-paced, or customer-facing environments.
+---
+source_path: H08U4A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5d44405b360b0fdacf7e0320dd6cfd63e9a790e
+title: H08U4A-PDF-ENG
+---
+## HBR / Digital Article / Why Kindness Isn’t a Nice to Have
 
-Managers at all levels should set the tone—by acting as a role model
-
-and by what they do and don’t allow. Organizations can support them
-
-by teaching them how to reinforce expectations, including what to do
-
-when people fall short.
-
-Some organizations can serve as models. One is the U.S. Department
-
-of Veterans Aﬀairs, where civility training is part of leadership
-
-development and includes learning to manage and respond to feedback
-
-loops about unprofessional conduct in real time. Another is Ritz-
-
-Carlton, the luxury hotel and resort chain. During induction training,
-
-new employees are given a “Credo Card” with a list of expectations,
-
-including greeting every guest warmly by name and showing genuine
-
-respect and appreciation for colleagues. These are further reinforced
-
-in daily team meetings, and when people do a good job, it is explicitly
-
-recognized.
-
-Here are some examples of kindness norms that can be embedded into
+for reporting concerns about unkind behaviors, especially in high-

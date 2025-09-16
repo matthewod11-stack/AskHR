@@ -1,9 +1,7 @@
-# Lack of Trusted Information
-
-- 78% of the land is unregistered in Ghana[9] ● In Haiti, a large earthquake in 2010 destroyed all the municipal buildings that stored documents[6]
-
-- In India, millions of rural families lack legal ownership of the land they work on.
-
-24
-
-IITM Journal of Business Studies (JBS)
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 42656c1c6cf45bdba4deade462701c41bcf3ed5f
+title: final_2019_jan_feb_jbs_pmd
+---
+# Verification of Source Data

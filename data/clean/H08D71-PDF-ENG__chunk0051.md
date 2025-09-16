@@ -1,7 +1,11 @@
-## by decades of Western technological leadership and understood that
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00da8234580567959fc434665031cdc28f89244e
+title: H08D71-PDF-ENG
+---
+# HBR / Digital Article / The 4 Key Strengths of China’s Economy — and What They Mea…
 
-China, for all its macro-economic challenges, has essential strengths to
+It is time for multinationals to ﬂip the paradigm. Companies like Tesla,
 
-be capitalized. Multinationals that fail to understand and follow their
-
-lead risk ceding global revenue and strategic opportunities to their
+Cummins, Invenergy, and Ford have all adjusted a worldview shaped

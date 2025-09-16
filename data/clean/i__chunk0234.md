@@ -1,9 +1,7 @@
-# Employee Selection:
-
-Employee selection refers to the recruitment process for the best fit of the position and
-
-organization. Selection is done by interviews, personality tests, cognitive ability tests, work
-
-samples or simulations, application blanks, or recommendations. The author introduces various
-
-linear regression method, which is predictive method to conduct employee selection.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 741266b9b478dc2a0c7db37925b76ec8fcbd4a3f
+title: i
+---
+# comparison groups.

@@ -1,13 +1,31 @@
-# our guest.
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df2fb5efc02219750d654996231dbc439d5ff069
+title: H07DLJ-PDF-ENG
+---
+# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
 
-DEB LIU:
+That doesn’t mean that we can’t change things. One of the things I
 
-Thank you so much for inviting me.
+did and advocated for across the entire industry was removing the
 
-This article was originally published online on November 23, 2022.
+computer science requirement. I advocated for removing the technical
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+degree, the technical interview. And over time you see more people
 
-22
+of diverse backgrounds actually entering the ﬁeld. So each individual
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+person, we can make a diﬀerence. We can change the arc of history. You
+
+don’t have to be very senior to do that. I did that when I was actually a
+
+relatively junior employee. And so there are things that we can do, but
+
+it’s going to take time and it’s going to take people saying, “This is the
+
+set of problems and here’s how we’re going to solve it.”
+
+ADI IGNATIUS:
+
+That is a great note to end on. Deb Liu, thank you very much for being

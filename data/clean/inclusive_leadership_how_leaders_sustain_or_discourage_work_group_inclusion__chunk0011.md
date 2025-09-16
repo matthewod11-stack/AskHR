@@ -1,5 +1,7 @@
-# Prior Research on Leader Inclusion
-
-Most leader inclusion research focuses on the inclusiveness of the immediate supervisor or manager of employees. One of the ﬁrst empirical studies was conducted by Nembhard and Edmondson (2006) who deﬁned leader in- clusiveness as “words and deeds exhibited by leaders that invite and ap- preciate others’ contributions” (p. 941). They showed that average leader inclusiveness in the team helped cross-disciplinary medical teams (primarily doctors and nurses) deal with profession-derived status differences effectively. Speciﬁcally, the perceived presence of an inclusive leader was related to the psychological safety of low professional status team members encouraging engagement in quality improvement work.
-
-Building on Nembhard and Edmondson (2006) and Edmondson’s (2004) ideas about psychological safety, Carmeli et al. (2010) sought to explicate how an inclusive leadership style encourages creativity through building an in- dividual employee’s psychological safety. Carmeli et al. (2010) devised a measure of leader inclusion consisting of items measuring leadership openness, availability, and accessibility. The items in the Carmeli et al. (2010) scale ask about behavior of the leader, some of which describes generally displayed behavior (e.g., “The manager is open to hearing new ideas”) and some of which is treatment received by the individual employee (e.g., “The
+---
+source_path: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion.md
+pages: n/a-n/a
+chunk_id: 50171d6c8b83b196c293d31b9126b75a2b2be61d
+title: inclusive_leadership_how_leaders_sustain_or_discourage_work_group_inclusion
+---
+# The Leader Emphasizing Inclusion

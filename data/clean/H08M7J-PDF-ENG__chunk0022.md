@@ -1,15 +1,7 @@
-# Reinvent
-
-While the changes may feel discouraging, in the midst of upheaval,
-
-there is often an opportunity to innovate or contribute meaningfully
-
-to the organization’s future. Use this time to reﬂect on your own value
-
-proposition and goals within the new organization. What renewed skills,
-
-experience, and value can you contribute? Are there opportunities
-
-to take on new challenges or responsibilities that align with your
-
-ambitions? Are there speciﬁc skills that will position you for growth in a
+---
+source_path: H08M7J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 193b718b0470de54df23b23337af3f14f0053591
+title: H08M7J-PDF-ENG
+---
+## HBR / Digital Article / When Your Coworkers Got Laid Off — But You Didn’t

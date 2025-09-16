@@ -1,3 +1,13 @@
-# 18
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 694702ef64e1f14e07c070d8bdd57518d7a44334
+title: file_1
+---
+# Anonymous
 
-The existence of the gender pay gap almost all over the world has also generated the need to better understand various factors contributing to it (Blau and Kahn, 2006; Rubery, Grimshaw and Figueiredo, 2005). Auster (1989) grouped the main explanations of the gender pay gap into two main categories: macro level, where women are seen as a homogeneous group, and micro level, which concentrates on psychological approaches viewing women as a heterogeneous diverse group. At the macro level the focus is on economic theories, which provide explanations of the phenomenon based on such factors as differences in education, work experience, amount of starting salary as well as general explanations such as different types of discrimination (e.g., Grybaite, 2006; Keaveny et al., 2007; Mitra, 2002). Micro level explanations of the gender pay gap include such personal factors as individual preferences and forces, which change values and attitudes towards working conditions and compensation practices (e.g., Bren and Garcia-Penalosa 2002; Hakim, 2000; Giapponi and McEvoy, 2006).
+The gender pay gap is one of the basic aspects of gender inequality in working life. It has attracted a diverse set of literatures, including economics (e.g., Groshen, 1991; Blau and Kahn, 2006), sociology (e.g., Hannan et al., 1990), psychology (e.g., Stroh, Brett and Reilly, 1992), and human resource management 1985). The European Commission, the United States government and the general populate of many countries have also been keen on struggling against it.
+
+(e.g., Heneman,
+
+There are a number of different ways of calculating the gender pay gap. The choice of measure is important as it can affect not only the reported size of the gap, but, also, its pattern. The most common measure is the difference between the mean gross hourly earnings of men and women expressed as a percentage of men's mean gross hourly earnings (Anderson, Forth, Metcalf and Kirby, 2001). Comparison of medians is also utilized as is comparison of gross weekly earnings (Anderson et al., 2001). For instance, the Office for National Statistics of the United States government recommends the use of the median when calculating the gender pay gap because it avoids distortions caused by extreme values that afflict calculations using the mean. Although the gender pay gap can be defined and measured differently, in this thesis, it refers to the difference in average hourly earnings of male and female employees after controlling for human capital factors such as education and tenure (adapted from various papers of Blau and Kahn; see, for instance, Blau and Kahn, 2006).

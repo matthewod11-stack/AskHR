@@ -1,15 +1,19 @@
-## (EEOC) report on harassment and this model policy on domestic
+---
+source_path: H06YRB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f50e80946126d4c5f3fc46c93e1e83ea325aa1f
+title: H06YRB-PDF-ENG
+---
+# Trust
 
-violence, sexual violence, and stalking) and ensure that those policies
+We all feel more confident when we understand the rules. If the
 
-are widely known and followed. Policies should robustly implement the
+policies and values an organization has in place are in name only,
 
-organization’s stated values, and training on them must be thorough,
+it creates a sense of unease at best and moral injury at worst. Thus,
 
-effective, and ongoing. (See here for some good advice.)
+the trauma-informed organization should have policies and procedures
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+that are genuinely supportive of employees in need (some good places
 
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to start are this U.S. Equal Employment Opportunity Commission

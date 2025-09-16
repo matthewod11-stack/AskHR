@@ -1,17 +1,13 @@
-## their philosophies on capitalism, climate, and company values like
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 398a9c14ee057bfdb9ce450b710a6a34d89cec3a
+title: H08UGX-PDF-ENG
+---
+## complete with curated aesthetics, communal kitchens, and wall-to-wall
 
-corporate shamans, while micromanaging team channels with fatherly
+motivational quotes, sell the illusion of connection while engineering
 
-fervor. Others conﬂate personal ideology with brand identity, pouring
+curated loneliness under the guise of community.
 
-politics, marketing, and ambition into a single, steaming cup of
-
-performative leadership. These aren’t just magnetic personalities,
-
-they’re evidence of a larger phenomenon: When personal branding
-
-eclipses professional discipline, organizations are left with a front-row
-
-seat to their leader’s inner monologue. And the rest of us often have no
-
-choice but to listen.
+Even the more polished types aren’t immune. Some CEOs broadcast

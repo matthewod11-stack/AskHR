@@ -1,7 +1,11 @@
-## Intelligence as Arising from Cognitive Structures and Processes 145
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 27648f48c797ff77fc9c27ca6609ff871368da34
+title: untitled
+---
+# Vygotsky and Feuerstein’s Theories
 
-child attempting to grasp an object, she comes to his aid and is likely to point to the object. He thereby learns to do the same. Thus, the child’s unsuccessful attempt engenders a re- action from the mother or some other individual, which leads to his being able to perform that action. Note that it is the so- cial mediation rather than the object itself that provides the basis for the child’s learning to point.
+Whereas Piaget has emphasized primarily biological matura- tion in the development of intelligence, other theorists inter- ested in structures, such as Vygotsky (1978) and Feuerstein (1979), have emphasized more the role of interactions of in- dividuals with the environment. Vygotsky suggested that basic to intelligence is internalization, which is the internal reconstruction of an external operation. The basic notion is that we observe those in the social environment around us acting in certain ways and we internalize their actions so that they become a part of ourselves.
 
-Vygotsky also proposed the important notion of a zone of proximal development, which refers to functions that have not yet matured but are in the process of maturation. The basic idea is to look not only at developed abilities but also at abil- ities that are developing. This zone is often measured as the difference between performance before and after instruction. Thus, instruction is given at the time of testing to measure the individual’s ability to learn in the testing environment (Brown & French, 1979; Feuerstein, 1980; Grigorenko & Sternberg, 1998). The research suggests that tests of the zone of proximal development tap abilities not measured by con- ventional tests.
-
-Related ideas have been proposed by Feuerstein (1979, 1980). Feuerstein has suggested that much of intellectual de- velopment derives from the mediation of the environment by the mother or other adults. From Feuerstein’s point of view, parents serve an important role in development not only for the experiences with which they provide children but also for the way they help children understand these experiences. For example, what would be important would be not so much encouraging children to watch educational television or tak- ing children to museums but rather helping children interpret what they see on television or in museums.
+Vygotsky (1978) gave as an example of internalization the development of pointing. He suggested that, initially, point- ing is nothing more than an unsuccessful attempt to grasp something. The child attempts to grasp an object beyond his reach and, initially, is likely to fail. When the mother sees the

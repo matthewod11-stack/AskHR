@@ -1,3 +1,7 @@
-## Working Parents, Plan for the Week with This Simple Exercise
-
-To avoid surprises and decision fatigue, take 20 minutes to preview your family’s commitments. by Avni Patel Thompson
+---
+source_path: H0866R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12063eb674184347000b9ebd432f0673aa27addb
+title: H0866R-PDF-ENG
+---
+# HBR / Digital Article / Working Parents, Plan for the Week with This Simple Exercise

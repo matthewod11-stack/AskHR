@@ -1,13 +1,39 @@
-## HBR / The Big Idea / Every Employee Should Have Access to Paid Parental Leave
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4feaaac93421e2eb7e7ce67e14b9902d174674e6
+title: H05624-PDF-ENG
+---
+# Reddit?
 
-How do you demonstrate the return on investment?
+When I came back to the company in 2014, after stepping back from
 
-Well, we know that when Google expanded its paid leave [from 12 to
+a full-time executive role for several years, we had no HR. Katelin
 
-18 weeks], attrition decreased by 50%. Of course, that’s correlation,
+Holloway was willing to come on as head of people and culture, and she
 
-not causation, but it’s a material change. And when you consider the
+brought with her a plan, including paid leave, and I thought it seemed
 
-expense of recruitment and training new workers, it would amount
+reasonable. Within the tech industry, 16 weeks of leave is table stakes.
 
-to a fantastic cost savings. We saw in one survey from the advocacy
+But that speaks to an important issue. Tech companies have these
+
+beneﬁts because we’re in a war for talent. The reason tech companies
+
+are able to grow hundreds of millions of dollars in revenue and billion-
+
+dollar valuations is because they’re attracting and retaining people
+
+who are high performers. I’m proud that tech is on the frontline of
+
+supporting paid leave. And it should be a bellwether for other industries
+
+that want top talent, especially with technology skills. You’re going to
+
+have to attract them by oﬀering as much or better.
+
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

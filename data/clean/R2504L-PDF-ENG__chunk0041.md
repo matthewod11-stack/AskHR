@@ -1,9 +1,23 @@
-## boundaries between work and personal lives, especially about the hours
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cda9090866c2b88bbcd0bf2de78470caa0f18344
+title: R2504L-PDF-ENG
+---
+## occasional glimpses of a team member on a computer screen. Even
 
-for scheduling meetings.
+when a manager does learn that a remote employee is not doing
 
-Make connecting and communicating a management priority. Many
+well, it can be tricky to navigate discussions about getting help from
 
-of our recommendations have one overarching implication for how
+employee assistance programs or other resources. Due to growing
 
-managers do their jobs: Managers must spend more time connecting
+concerns about employee mental health, managers should be required
+
+to have routine employee check-ins, and if these have to be done
+
+remotely, supervisors need training and access to resources on how
+
+to better assess employees’ well-being in a virtual context. Managers
+
+can also promote their reports’ well-being by establishing and enforcing

@@ -1,7 +1,15 @@
-## volunteer information about certain skills during their interviews may
+---
+source_path: H08UWX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e464d17f9585abeeb383fa031d20d3100e1d06b
+title: H08UWX-PDF-ENG
+---
+## 95.9 % of the time, versus only 11.5 % for unasked skills.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The risk this creates is clear: At best, we ﬁnd that almost half of the
 
-3
+oﬀers extended through such a process will rely on incomplete or biased
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+information. At worst, when a skill is never asked about explicitly,
+
+that share is over 90%. In this context, candidates who happen to

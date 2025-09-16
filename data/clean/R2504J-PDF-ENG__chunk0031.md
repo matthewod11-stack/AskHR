@@ -1,23 +1,13 @@
-# alike.
+---
+source_path: R2504J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3b89b104920f7e04eb3600d1f9a282fbfa88bd6d
+title: R2504J-PDF-ENG
+---
+# Ryan Carl
 
-In addition, the value proposition deﬁned the internal culture the bank
+(Capitec stands for “capital” and
 
-needed to foster. Traditionally, ﬁnancial institutions in South Africa
+“technology”) that would make activities
 
-favored a formal, almost stiﬀ, and often hierarchical culture—perhaps
-
-because they wanted to convey a sense of seriousness to employees and
-
-customers. This was reﬂected in their interactions with customers and
-
-the design of their branches. Capitec wanted its employees to present
-
-an informal, welcoming face to low-income customers, who might feel
-
-uncomfortable, even scared, going into a bank.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+like opening an account extremely simple for the staﬀ and customers

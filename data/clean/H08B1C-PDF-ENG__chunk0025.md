@@ -1,15 +1,21 @@
-# Be decisive
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14c0fe6d0b177a6a38214c7f99214de28fcbbed2
+title: H08B1C-PDF-ENG
+---
+# collaboration.
 
-To reassure stakeholders of your competence and leadership
+Instead of: Asking basic questions, such as “How do you see Y evolving
 
-capabilities, it’s critical to display conﬁdence in your knowledge and
+over the next year?” or undermining your own expertise by prefacing
 
-decisiveness in your actions while signaling an open mind and inclusive
+remarks with “This might be a simple question, but…”
 
-leadership style. After soliciting input and exploring options, set a self-
+Try: Posing the question in a way that highlights your deep
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+understanding of the subject and contributes value to the discussion.
 
-5
+For example, “Considering trends A and B in Y, how do you see Y
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+evolving over the next year?”

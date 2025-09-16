@@ -1,5 +1,13 @@
-# Americans with Disabilities Act of
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a136fea0be503a7624328104ea568f1659024795
+title: performance_management_3rd_edition_by_aguinis
+---
+# rating scales (BARS)
 
-1990, 284
+Bartol, K. M., 129 Base pay, 10 Basic employee information,
 
-Annual anniversary date, 143 Antonioni, D., 166 Appeals process, 174–175, 175b–176b, 190, 192
+131, 133t
+
+115, 115t

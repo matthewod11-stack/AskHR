@@ -1,7 +1,15 @@
-## Train interviewers on comprehensive assessment. The research
+---
+source_path: H08UWX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6032e2a9ae570471a85277c1ee6b4c94655c0a0
+title: H08UWX-PDF-ENG
+---
+## HBR / Digital Article / Job Interviews Aren’t Evaluating the Right Skills
 
-suggests that many interviewers may lack the tools or training to
+Reduce redundancy while increasing coverage. Rather than conducting
 
-systematically evaluate candidates against job requirements. Investing
+more interviews, organizations should focus on making each interview
 
-in interviewer development could yield signiﬁcant returns in hiring
+more comprehensive and targeted. This might involve assigning speciﬁc
+
+skill categories to diﬀerent interviewers or interview rounds.

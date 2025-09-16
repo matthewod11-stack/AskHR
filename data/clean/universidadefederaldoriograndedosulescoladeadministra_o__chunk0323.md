@@ -1,7 +1,7 @@
-## processados, cabendo, agora, analisá-los de acordo com o problema de pesquisa.
-
-Com estes dados em mãos, no capítulo Análise de Resultados, é realizada a
-
-discussão acerca dos dados encontrados e sua análise à luz das teorias
-
-referenciadas ao longo da revisão bibliográfica.
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 872909caac34d6ed68d5c97f34175a2ce9ac0f6d
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## dados secundários utilizados neste trabalho foram anteriormente coletados e

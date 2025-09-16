@@ -1,13 +1,23 @@
-# Ask the Big Questions
+---
+source_path: H08H1D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d073e73e17df2efb13dc4ffee9abc05a96b8b31
+title: H08H1D-PDF-ENG
+---
+## question by hybrid working and the anticipated impact of generative AI.
 
-As a leader, what can you do to help colleagues who are struggling
+All of these challenges, needless to say, have made many of us feel
 
-through liminal times? And what can you do to help yourself? A good
+unsettled or anxious. Where do we stand when the ground underneath
 
-place to start is with three basic but very big questions:
+us is shifting? What if the ground doesn’t stop shifting and an
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+acceptable “new normal” never emerges?
 
-2
+In the course of our work, we’ve spoken to many leaders and who have
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+described feeling confused and anxious about these questions in our
+
+current era of uncertainty and liminality. The problem is, leaders are
+
+supposed to know what to do about this — and most simply don’t.

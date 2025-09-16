@@ -1,3 +1,17 @@
-# selection in, 4
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 9c2ff2191aca47ece3323bded5479b020ed00c09
+title: barrickryan_eds_personality_and_work
+---
+# California Psychological Inventory
 
-Conscientiousness: and counterpro- ductive workplace behaviors (CWBs), 153, 173, 175; facets of, 86; and personal striving, 67–68, 76, 78; relationship between job performance and, 60, 63, 67–68, 84; and teams, 184, 185, 194–195
+(CPI): and International Person- ality Item Pool (IPIP), 19; mid- dle-level constructs of, 18; and relationship between personality and adaptability, 96; variable selection in, 4 Centrality, 212–213 Citizenship performance, 89–91, 93,
+
+94–95, 96
+
+Civil Rights Act of 1964, 83 Cognitive processes: on-line, 102,
+
+105–106; proactive, 102, 104–105 Communion Striving: Agreeableness linked to, 68, 74; deﬁned, 66; and job performance, 74; as psycho- logical motive, 104
+
+Competition, effect on personality- performance link, 69–72, 74 Compound variables, 298–300 Comrey Personality Scales, variable

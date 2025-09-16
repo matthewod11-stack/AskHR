@@ -1,7 +1,15 @@
-## restorative beneﬁts that spillover into the workplace.
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b88781f23770b559895cb7a0aa7130eeabddd77b
+title: H08OXV-PDF-ENG
+---
+## Much of the advice around work-life balance and leisure time centers
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+on picking the “right” activity—meditation, exercise, creative pursuits,
 
-4
+or other structured hobbies. However, our research suggests that it’s
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+not about the speciﬁc hobby but rather the approach to it. The right
+
+approach to gaming, cooking, or hanging out with friends can have

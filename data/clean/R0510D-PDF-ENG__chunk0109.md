@@ -1,1 +1,17 @@
-# To Order
+---
+source_path: R0510D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b768693fc81cddce6c745b4368c1d06d1783e872
+title: R0510D-PDF-ENG
+---
+# The Office of Strategy Management
+
+Further Reading A R T I C L E S Turning Great Strategy into Great Performance by Michael C. Mankins and Richard Steele Harvard Business Review July 2005 Product no. R0507E
+
+Transforming Corner-Office Strategy into Frontline Action by Orit Gadiesh and James L. Gilbert Harvard Business Review May 2001 Product no. R0105D
+
+The authors provide additional guidelines for coupling strategy formulation with execu- tion: 1) Articulate your company’s strategy in clear, simple terms describing what your com- pany will and won’t do. 2) Challenge the as- sumptions underlying your strategic plans to ensure that they reflect real market econom- ics and your organization’s capacities. 3) Use common, agreed-on approaches—such as benchmarking—to assess strategic perfor- mance. 4) Discuss resource deployments among business units early to create feasible forecasts. 5) Identify key actions that must be taken to deliver planned performance, and determine when they must be taken. 6) Track real-time results against your strategic plan, revising assumptions and reallocating re- sources where needed. 7) Strengthen execu- tion ability, by making selection and develop- ment of managers a top priority.
+
+Gadiesh and Gilbert argue that managers can improve strategy execution by clarifying and communicating strategy. To that end, they strategic principle —a recommend crafting a pithy, memorable, action-oriented phrase that distills your company’s strategy and commu- nicates it throughout the workforce. Examples include AOL’s “Consumer connectivity—any- time, anywhere,” The Vanguard Group’s “Creat- ing unmatchable value for investors/owners,” and Southwest’s “Meet customers’ short-haul travel needs at fares competitive with the cost of automobile travel.”
+
+An effective strategic principle helps people make trade-offs between competing re- sources, links leaders’ strategic insights with line operators’ pragmatic sense, and sets clear boundaries within which employees operate and experiment. Communicate your strategic principle consistently, simply, and repeatedly.

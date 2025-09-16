@@ -1,5 +1,9 @@
-## Chapter 1 • Performance Management and Reward Systems in Context
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 606c0cc12e62957305f76b2a40cad3c3d126d864
+title: performance_management_3rd_edition_by_aguinis
+---
+# 1.5.5 Organizational Maintenance Purpose
 
-the talent inventory, which is information on current resources (e.g., skills, abilities, promotional potential, and assignment histories of current employees). Performance management systems are the primary means through which accurate talent invento- ries can be assembled.
-
-Other organizational maintenance purposes served by performance management systems include assessing future training needs, evaluating performance achievements at the organizational level, and evaluating the effectiveness of HR interventions (e.g., whether employees perform at higher levels after participating in a training program). These activities cannot be conducted effectively in the absence of a good performance management system.
+A fifth purpose of performance management systems is to provide information to be used in workforce planning. Workforce planning comprises a set of systems that allows organizations to anticipate and respond to needs emerging within and outside the organization, to determine priorities, and to allocate human resources where they can do the most good.40 An important component of any workforce planning effort is

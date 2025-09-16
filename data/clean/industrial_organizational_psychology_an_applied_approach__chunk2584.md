@@ -1,7 +1,9 @@
-# handbooks.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 06c8871c100558c12c96a37e09894e4dedba8c51
+title: industrial_organizational_psychology_an_applied_approach
+---
+# all-inclusive.
 
-. The handbook can be changed only in writing by the president of the
-
-organization, and it can be changed unilaterally at any time.
-
-. Employees are subject to provisions of any amendments, detentions,
+. The material in the present handbook supersedes material in previous

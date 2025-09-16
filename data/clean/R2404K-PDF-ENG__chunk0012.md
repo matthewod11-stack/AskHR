@@ -1,21 +1,23 @@
-# buying.
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6e5f43f7db8ecc0770316cebf3cf110075823ff
+title: R2404K-PDF-ENG
+---
+## company for an eventual M&A or IPO, the entrepreneurial team behind
 
-For that reason, we suggest targeting the large gap in the middle of
+the innovation is forced to devote considerable time and energy to
 
-the innovation spectrum. This space is considered too risky for large
+building up a range of functional and operational capabilities. The exit
 
-ﬁrms, which worry about analysts’ disapproval when failures drag down
+prices that venture capitalists require to generate the returns they need,
 
-short-term proﬁtability. And it’s not risky enough for venture capitalists,
+and the bidding wars to acquire the start-ups that arise, mean that a
 
-who avoid investing in a return proﬁle that’s unsatisfying to their
+large ﬁrm must pay a hefty price to purchase a successfully launched
 
-own investors. Yet the middle is precisely where large ﬁrms are best
+innovative start-up. Although observers tend to celebrate when a start- up is acquired by an established company, there’s some ineﬃciency
 
-positioned to execute their innovation eﬀorts.
+to this transaction. From an economic standpoint, it would be better
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+if established companies did more innovation in-house—building, not

@@ -1,5 +1,9 @@
-# private business sector
+---
+source_path: the_importance_of_competency_model_development.md
+pages: n/a-n/a
+chunk_id: 13c00170fd5bf323899bd683021948a428a6929a
+title: the_importance_of_competency_model_development
+---
+# academic field
 
-- Contribution to the development of an organisation ● Basis for the development of a human resources management system
-
-- Improvement in company performance ● Positive impact on the competitive advantage of acompany
+- Development of skills and abilities of students ● Improvement of quality and e(cid:4231)ectiveness of teaching ● Process optimisation of the development of standards

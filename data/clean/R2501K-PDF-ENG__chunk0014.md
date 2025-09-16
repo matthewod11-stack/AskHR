@@ -1,13 +1,25 @@
-# brand awareness.
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1479778ff282403b1abd211d43a5d00f6c3d1040
+title: R2501K-PDF-ENG
+---
+## HBR / Magazine Article / How Project Leaders Can Tame Unpredictability
 
-Kirsten’s second slice involved three larger service providers, one of
+the initiative: Drivers wanted a selection of styles to choose from (some
 
-which operated in a diﬀerent country. This slice revealed the challenges
+wanted T-shirts; others, polos), and all the drivers needed double the
 
-associated with scaling up the initiative: It took longer to negotiate
+number of shirts initially provided. The test also revealed guidelines
 
-processes with the larger service providers, and drivers’ compliance in
+for usage that had to be hammered out, including pickup and drop-oﬀ
 
-wearing the shirts was spotty. It was clear that a lot more time and eﬀort
+locations, laundry services, and what to do when substitute drivers
 
-would be needed to advance the project more broadly.
+ﬁlled in or routes changed. And she learned that the material chosen
+
+for the shirts was not suitable for long-term use (many shirts looked
+
+worn out very quickly). Most important, through customer surveys she
+
+conﬁrmed that the eﬀort had led to a small but measurable increase in

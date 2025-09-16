@@ -1,25 +1,23 @@
-# rate each imaginary person’s competence.
+---
+source_path: H04U47-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5f91665f8082f5d2d503b29cdc835b33226445e
+title: H04U47-PDF-ENG
+---
+# your abilities.
 
-Lo and behold, the person’s prediction had a strong inﬂuence on
+A pioneering study from 1982 explored this connection between
 
-how subjects perceived their competence: Observers evaluated those
+conﬁdence and perceptions of competence. Psychologists Barry
 
-who made optimistic predictions as much more competent than their
+Schlenker and Mark Leary asked 48 subjects to rate the competence
 
-modest contemporaries — no matter how accurate those predictions
+(among other characteristics) of 60 imaginary people who were facing
 
-were and how well they actually performed. Even with an optimistic
+a tennis tournament or a class ﬁnal examination. Subjects received two
 
-forecast and a horrible result, they were still rated as almost twice as
+crucial pieces of information: they learned what the imaginary people
 
-competent as those who accurately forecasted their poor performance.
+predicted their performance to be — from very poor to very good; then
 
-This seems to suggest that if someone asks how you expect to perform,
-
-you should give a positive, conﬁdent response. A negative forecast may
-
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+they learned the people’s “actual” performance. After that, they had to

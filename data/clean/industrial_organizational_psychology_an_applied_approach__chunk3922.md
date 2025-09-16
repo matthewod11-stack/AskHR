@@ -1,11 +1,19 @@
-## performance, work habits, character, or potential for success.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 935a93df0cd7ccfdb20e4d75a656ccf2109f1d74
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Least-Preferred Coworker (LPC) Scale A test used
 
-Leveled Describes a message from which unimportant informational details have been removed before the message is passed from one person to another.
+in conjunction with Fiedler’s contingency model to reveal leadership style and effectiveness.
 
-Liaison A person who acts as an intermediary
+Legitimate power The power that individuals have
 
-between employees and management; or the type of employee who both sends and receives most grapevine information.
+because of their elected or appointed position. Leisure listening The listening style of a person who
 
-Linear A straight-line relationship between the test
+cares about only interesting information. Leniency error A type of rating error in which a
 
-score and the criterion of measurement. Living case A case study based on a real situation
+rater consistently gives all employees high ratings, regardless of their actual levels of performance. Letter of recommendation A letter expressing an
+
+opinion regarding an applicant’s ability, previous

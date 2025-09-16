@@ -1,35 +1,33 @@
-# 7.7 CONCLUSION
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: e5c763b426e65138ae2a069cc23a0a36d5c80dae
+title: beo_chap7_1
+---
+# CHAPTER SEVEN
 
-This chapter is about both applying behavioral economics to organizations, and
+labor contracts, especially with sorting among high-ability and low-ability workers.
 
-enriching behavioral economics by asking questions that are specific to the roles
+Their argument is strengthened (and more robust) if we introduce heterogeneity
 
-of workers and managers in organizations. This chapter is less of a review of what
+in self-confidence among workers. If some workers are overly convinced of their
 
-is known than it is a research agenda, with more questions than answers. This
+own abilities (and their overconfidence is not negatively correlated with ability),
 
-conclusion recaps some of the common themes.
+tournaments become a particularly cheap form of compensation. Overconfident
 
-The first question is how to complicate the basic agency model. One complication
+individuals will overestimate the expected value of entering the tournament outcome
 
-is that agents’ preferences (i.e., effort disutility and reservation wages) may be sensi-
+and will be willing to accept lower current compensation.
 
-tive to how jobs are described or how wage offers and job choices are elicited. Limits
+Option-based compensation and rank-order based promotion are two examples
 
-on greed and self-interest imply that people often like to help their friends and harm
+of how firms can reduce their compensation costs at the expense of employees who
 
-their enemies, and dislike unequal treatment. Precise models of social preference
+are too optimistic about the firm’s prospects. These examples assume implicitly that
 
-that have been carefully honed on experimental data from simple games would need
+the organization itself—or the top management teams of an organization—is not
 
-to be plugged into organizational economics applications. In the laboratory, prefer- ences are often sensitive to reference points, such as previous wages (due perhaps to habit formation) and wages of other workers. There is evidence of such effects from labor practices (e.g., two-tier wage deals in financially distressed firms) and executive compensation. Workers also seem to care about fair or just procedures for
+affected by biases observed in individuals further down the hierarchy or outside the
 
-determining outcomes. The strength of these preferences in field data and organi-
-
-zational design responses has, however, not been studied thoroughly. Psychological
-
-influences on judgments of causality (in agency-theory terms, inferring agent effort from output) are also important. Hindsight bias, overattribution of cause to workers rather than luck, asymmetric attribution (taking credit and exporting blame), dif- fusion of blame across a large group, and overconfidence about skill may all play
-
-important roles, and these have not been studied much in organizational contexts.
-
-272
+organization, but may remedy or even exploit them.

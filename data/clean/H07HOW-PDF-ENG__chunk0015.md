@@ -1,5 +1,23 @@
-## HBR / Digital Article / Navigating Uncertainty About Your Role During a Reorg
+---
+source_path: H07HOW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d35e1e392cffc3fe34756f32c46eed36edbad50
+title: H07HOW-PDF-ENG
+---
+# externally.
 
-And try not to personalize any reorg-related conversations and decisions. The reality is that companies undertake restructuring eﬀorts
+Manage your emotions, and be kind to yourself.
 
-purely for business reasons. Thinking otherwise only adds to your
+It’s normal to feel stressed, angry, or fearful about your future during
+
+this period of limbo. To manage your emotions, notice and brieﬂy name
+
+them; for example, “I feel stressed I might lose my job.” Labeling your
+
+feelings can help you feel calmer and reduce the risk of being reactive.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

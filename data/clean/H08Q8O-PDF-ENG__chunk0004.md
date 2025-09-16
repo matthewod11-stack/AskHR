@@ -1,19 +1,39 @@
-## reﬂects a larger breakdown in the unspoken psychological contract
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e5418ada1249fcbe8944d43db6caa3c571b2b6b2
+title: H08Q8O-PDF-ENG
+---
+# HBR / Digital Article / The Workplace Psychological Contract Is Broken. Here’s How to…
 
-employees thought they had with their organization—and speciﬁcally
+Amazon’s CEO, Andy Jassy, is not alone in struggling against strong
 
-a growing divergence between employers and employees in their
+pushback when trying to bring workers back into the oﬃce post-
 
-understanding of what is fair. To close this gap, we believe that
+pandemic. Dell Technologies resorted to threatening people who
 
-employers need to move away from establishing formal workplace
+continued working from home, stating that they wouldn’t be eligible
 
-policies based on what’s called the ethics of justice—a rational and
+for promotion. At JPMorgan Chase, CEO Jamie Dimon has sharply
 
-one-size-ﬁts-all way of thinking about fairness—to a more ﬂexible,
+criticized employees who resisted coming into the oﬃce ﬁve days a
 
-personalized approach based on the ethics of care. We’ll explain what
+week. And Starbucks set up an “accountability process” to ensure that
 
-ethics of care means, demonstrating how some companies that we
+its three-day-a-week policy was adhered to, including by their new CEO,
 
-work with in our research and executive programs have successfully operationalized a caring approach, and oﬀer guidance on how to create
+who commutes to Seattle from Southern California.
+
+The battle between companies pushing for a return to oﬃce (RTO)
+
+and employees who increasingly claim a right to work from home if
+
+they choose can easily be dismissed as overreaction on both sides: out-
+
+of-touch senior executives who don’t understand that the world has
+
+changed versus pampered, entitled, and unmotivated employees. But
+
+the fury the debates produce suggests that there is a deeper problem.
+
+In this article, we suggest that the outrage over workplace policies

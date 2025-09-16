@@ -1,3 +1,9 @@
-## by Duc Duy Nguyen, Jens Hagendorff, and Arman Eshraghi
+---
+source_path: H048OW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20ba489a9cb17fde12fcf73431a2d9540ea85da0
+title: H048OW-PDF-ENG
+---
+# Demographics
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Study: A CEO’s Decision Making Is Shaped by Whether Their Parents Were Immigrants

@@ -1,11 +1,21 @@
-# hole.
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58e4cdbc9abbc164918d2ad989d2de4cb0f8cd29
+title: H08MYZ-PDF-ENG
+---
+# Understand AI-assisted resume screens.
 
-With 83% of companies reporting they’re using AI features to screen
+While AI isn’t expected to entirely replace recruiters, many
 
-resumes, if your resume doesn’t incorporate nearly all the keywords
+organizations are relying on AI-powered applicant-tracking systems
 
-from the job description, it may never be seen. For example, if
+to screen potential candidates for applicable skills. Systems such
 
-you’re applying for a job in business operations and leave out the
+as Workday, Oracle HCM, and Greenhouse will surface qualiﬁed
 
-most obvious core competencies (i.e., keywords) for this type of role—for example, strategic planning, operational eﬃciency, process
+candidates from internal and external talent sources and then evaluate
+
+and rank those candidates for the strongest ﬁt. That’s why it may feel
+
+like you’re sending hundreds of resumes and cover letters to a black

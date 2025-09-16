@@ -1,3 +1,15 @@
-# De ne clear actions
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: ed9bda26a8c08bb8a3ff3844f5f157dac1fc7a82
+title: a_p_r_a_c_t_i_c_a_l
+---
+# Best practices for agent instructions
 
-Make sure every step in your routine corresponds to a speciÃc action or output. For example, a step might instruct the agent to ask the user for their order number or to call an API to retrieve account details. Being explicit about the action (and even the wording of a user-facing message) leaves less room(cid:144) for errors in interpretation.
+Use existing documents
+
+When creating routines, use existing operating procedures, support scripts, or policy documents to create LLM-friendly routines. In customer service for example, routines can roughly map to individual articles in your knowledge base.
+
+Prompt agents to breakp down tasks
+
+Providing smaller, clearer steps from dense resources(cid:144) helps minimize ambiguity and helps the model better(cid:144) follow instructions.

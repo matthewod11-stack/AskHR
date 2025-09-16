@@ -1,7 +1,7 @@
-# HBR Staff/Klaus Vedfelt/Getty Images
-
-Managers and organizational leaders are currently exploring the best
-
-ways to conduct in-person and hybrid work, striving to make the oﬃce
-
-as inviting as possible while leveraging in-oﬃce time for collaborative
+---
+source_path: H07UT7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 968f378feb8ed02755cded6f7652b84b1a6cb2e8
+title: H07UT7-PDF-ENG
+---
+## Published on HBR.org / November 13, 2023 / Reprint H07UT7

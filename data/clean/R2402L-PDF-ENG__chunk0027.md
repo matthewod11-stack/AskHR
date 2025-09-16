@@ -1,9 +1,33 @@
-## HBR / Magazine Article / Negotiate Like a Pro
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de7388bf676fa977a943885bc58e2a0c490252df
+title: R2402L-PDF-ENG
+---
+# discuss other options.
 
-like the money is important to you.” (Other phrase starters include “It
+Of course, the other person may misinterpret your repetition as a
 
-seems like…,” “I sense that you…,” and “I get the impression that….”)
+challenge. But as an easy way to encourage elaboration, reﬂecting
 
-Even if you label the emotion, behavior, or view incorrectly, you’re
+should be part of your tool kit.
 
-indicating that you’re paying attention and want to better understand
+Emotional labeling is a way to help your counterparts rein in their
+
+feelings (along with their actions and biases or entrenched opinions),
+
+thus preserving their ability to think objectively and rationally. In my ﬁeld we call this “name it to tame it.” It involves oﬀering a
+
+nonjudgmental observation about the emotions you think other people
+
+are experiencing, the problems they’re facing, the way they’re acting, or
+
+the views they have in a way that allows them to agree or disagree with
+
+you. For example, “It feels like you’re annoyed with me,” or “It sounds
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

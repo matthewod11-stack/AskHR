@@ -1,23 +1,7 @@
-# Technological Environment
-
-A recommendation for a technological environment is based on the author’s 15 years
-
-of professional experience in Atlas Copco company. Currently, Atlas Copco uses too
-
-many platforms across different parts of organization. SAP and more versions of this
-
-system in different customer centers, Cloud for customer, SharePoint, Teams,
-
-Yammer, Workfront, Clevork. While most of them should make life easier for
-
-employees, it leads to inefficiency and employee frustration. A suggestion is to review
-
-available platforms and see from employee’s perspective which platforms are the
-
-most efficient for them and unify their usage. A second suggestion is link to employee
-
-expectation regarding technological platforms to the available working device. The
-
-author strongly recommends that employees working equipment should match their
-
-private equipment, which today is not the case in every market.
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 5f88e83096d9f41ea1c41df629f1a0b71f242e7b
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# with their coworkers.

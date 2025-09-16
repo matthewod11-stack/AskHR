@@ -1,15 +1,13 @@
-# 2.2.3. Delayed Retirement
+---
+source_path: international_journal_of_global.md
+pages: n/a-n/a
+chunk_id: 385a97ad7759719358577666f16991645b3bb965
+title: international_journal_of_global
+---
+## 2.2.1. Vacant positions due to unexpected events
 
-Some employees decide to postpone retirement due to financial obligations, Career satisfaction and
+Organizations need to be prepared for unexpected events such as death, illness, termination, resignations and promotions. Succession planning is a systematic approach which is ready for unexpected events.
 
-institutional flexibility. These factors are important to discuss during the succession planning process.
+2.2.2. Vacant positions due to baby boomers Retirements
 
-2.2.4. Expected retirement
-
-The number of potential retirements is also increasing due to the expected retirement age. The role of
-
-the human resources department is to keep track of all expected retirements for the near future.
-
-41
-
-International Journal of Global Optimization and Its Application Vol 1, No 1, March 2022, pp.39-48.
+The large number of baby boomers is creating a big risk for many organizations. These risks include loss of organizational knowledge, skills and experience. The number of potential retirees is growing due to baby boomers. When baby boomers start thinking about leaving the organization, there will be an urgent need to fill the position. Similarly, when baby boomers are heading into their retirement years, most organizations do not have a signed succession plan. Succession planning only ensures these replacements are prepared to be promoted in a shorter time (Ibarra, 2005).

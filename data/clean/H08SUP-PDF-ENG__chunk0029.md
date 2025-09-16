@@ -1,13 +1,19 @@
-## test assumptions throughout the discussion.
+---
+source_path: H08SUP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dbfbed292d4ae708e58d171d76c18fc831451a63
+title: H08SUP-PDF-ENG
+---
+## HBR / Digital Article / Set Your Committees Up for Success
 
-We further investigated what kinds of behaviors drove this expansion
+Why did discussions change so markedly? By removing the possibility
 
-in discussion breadth and found clear evidence that experts actively
+of viewing their peers’ leanings before voting, the revised protocol
 
-changed their interaction patterns. Members began to “pull” more
+realigned individual incentives towards engaging in information
 
-information from one another by purposefully directing a higher
+sharing and fact ﬁnding. Without the possibility to glean other
 
-proportion of questions to peers. They also redistributed speaking time
+members’ votes before having to cast their own, the experts now had
 
-more evenly amongst themselves, and they adopted language that felt
+a stronger motivation to probe, share their own privately-held data, and

@@ -1,9 +1,17 @@
-## of Organizational Behaviour, 20, 133-143.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 56db578a9aec85e5d22c817761a539ed945c5999
+title: file_1
+---
+# National Biography of Finland.
 
-Lehto, A., 1999. Towards equality in working life. In A. Lehto and H. Sutela, eds, Gender
+Lange, T., 2008. Communist Legacies, Gender and the Impact on Job Satisfaction in Central and Eastern Europe. European Journal of Industrial Relations, 14 (3), 327-346.
 
-Equality in Working Life. Helsinki: Statistics Finland.
+Lawrence, D. 1921. Woman in Love. London: M. Secker.
 
-Lenoir, N., 2001. The Representation of Women in Politics: From Quotas to Parity in Elections. International and Comparative Law Quarterly, 50, 217-247.
+Leary, M., 1999. Making Sense of Self-Esteem Current Directions. Psychological Science, 8
 
-Leung, C., 2005. Convivial communication: recontextualizing communicative competence.
+(1), 32–35.
+
+Lee, C. and J. Farh, 1999. The effects of gender in organizational justice perception. Journal

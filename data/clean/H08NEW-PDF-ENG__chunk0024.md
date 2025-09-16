@@ -1,23 +1,13 @@
-# HBR / Digital Article / Your Company Wants to Close Pay Gaps. Here’s Where to Start.
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 78d0101dae5de891d4a24af75d70531c9a4747ab
+title: H08NEW-PDF-ENG
+---
+# oversight.
 
-- 3. Build thresholds into compensation practices
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Once a pay gap is closed, pay equity needs to be integrated into
+6
 
-the organization’s compensation processes to prevent the gap from
-
-reappearing. This is because every compensation decision that a
-
-manager makes—hiring, ﬁring, or ad hoc salary adjustments—aﬀects
-
-the pay gap. Unless an organization is unusually static, such decisions
-
-happen on a rolling basis.
-
-As a result, an organization’s pay gap is a dynamic metric. A ﬁrm thus
-
-needs to build in a tolerance margin around its target pay gaps.
-
-The size of this margin depends on a few factors, including the size of
-
-the organization and the regimentation of the pay structure. We know
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

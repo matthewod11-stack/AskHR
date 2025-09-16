@@ -1,11 +1,9 @@
-# long term.
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f8e3b2ca08685501bc04c72f04e4038bff7dbac
+title: H08DO8-PDF-ENG
+---
+## of traditional cemeteries.” These oﬀered alternative out-of-the-box
 
-Some gen AI tools, such as you.com, oﬀer “retrieval augmented
-
-generation,” or RAG, blending large language model outputs with most-
-
-current internet data. This approach provides up-to-date information
-
-and can potentially incorporate internal company data, addressing
-
-issues like those in Keith’s case. However, such capabilities require
+suggestions for Fitzroy Cemetery and Crematorium to consider in the

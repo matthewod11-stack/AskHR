@@ -1,5 +1,7 @@
-## ARTICLE COMPENSATION Compensation Packages That Actually Drive Performance
-
-Principles for designing executive pay by Boris Groysberg, Sarah Abbott, Michael R. Marino, and Metin Aksoy
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d1859732074e16c1952cfc24da156ab8ee568d0d
+title: R2101J-PDF-ENG
+---
+## REPRINT R2101J PUBLISHED IN HBR JANUARY–FEBRUARY 2021

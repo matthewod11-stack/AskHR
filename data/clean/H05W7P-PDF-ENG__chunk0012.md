@@ -1,15 +1,21 @@
-# HBR / Digital Article / Do Your Employees Feel Safe Reporting Abuse and Discriminatio…
+---
+source_path: H05W7P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e89a4a55f13c249c833724cb99762662039465a9
+title: H05W7P-PDF-ENG
+---
+## retaliation. (Because the EEOC considers charges of retaliation a
 
-One is the likelihood that victims receive any beneﬁt from reporting
+separate “issue” from charges of discrimination on the basis of race, sex,
 
-in the ﬁrst place. While companies encourage victims to go through
+national origin, and other protected classes, reliable data showing both
 
-internal reporting channels, these are often legalistic grievance
+retaliation and these other forms of discrimination together is sparse.)
 
-procedures meant to reduce the risk of a lawsuit against the company.
+There are several additional factors that drive low reporting rates.
 
-Forced arbitration, a policy adopted by many companies, requires
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
 
-that employees go through mandatory arbitration to resolve disputes
+2
 
-and waive their right to sue. And even if they do, reporting to the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

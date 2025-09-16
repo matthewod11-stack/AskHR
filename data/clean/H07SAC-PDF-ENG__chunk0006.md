@@ -1,15 +1,7 @@
-# Williams+Hirakawa/Getty Images
-
-Vacations are meant to be rejuvenating. Time oﬀ can not only help you
-
-restore your mind, body, and soul, it also has a positive impact on your
-
-work life: One study found that employees who take 11 or more vacation
-
-days are more likely to receive a raise or bonus.
-
-However, not all vacations are as restorative or energizing as we
-
-hope they’ll be. Chronic work stress can interfere with our plans. The
-
-phenomenon of getting sick as soon as you start to relax even has a
+---
+source_path: H07SAC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16e6e717be98af59c91320acdb1c77a838df771d
+title: H07SAC-PDF-ENG
+---
+## Published on HBR.org / September 05, 2023 / Reprint H07SAC

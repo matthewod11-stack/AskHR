@@ -1,13 +1,19 @@
-# their company.
+---
+source_path: H08UL7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 927dce9391faa54cdce4726b60212051628646c4
+title: H08UL7-PDF-ENG
+---
+# the ﬁve most important right now.
 
-. . .
+Ambassadors met their stakeholders and collected feedback and
 
-Team success is best predicted by the norms and routines that team
+insights from each. Their actions improved their relationships with
 
-members use to integrate the knowledge, ideas, and talents inside and
+their top three customers. Upper management shared information
 
-outside the team into daily decisions. Emotionally intelligent routines
+about exactly how the team’s work connected with the company’s larger
 
-shift the focus from individual performers to the development of a
+strategic goals. These conversations provided important learning for the
 
-robust collective brain that outperforms virtuosos working in silos every
+team and helped members feel more connected to their customers and

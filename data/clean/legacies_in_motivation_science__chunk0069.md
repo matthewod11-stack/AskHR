@@ -1,7 +1,11 @@
-# DEVELOPMENT OF GOAL SETTING THEORY
+---
+source_path: legacies_in_motivation_science.md
+pages: n/a-n/a
+chunk_id: b2260941d07a813f76eb24616d8875ce553902f3
+title: legacies_in_motivation_science
+---
+# s i
 
-sic aspects of the job, that is motivating vari- ables (e.g., such as the work itself) inﬂuence job satisfaction but not dissatisfaction. This theory was based on only two studies and did not focus directly on performance. The methodology used in both studies was the critical incident tech- nique (CIT), a technique originally developed for conducting a job analysis, not for identifying sources of job satisfaction (Flanagan, 1954). Research that used different methodologies did not replicate Herzberg’s ﬁndings (e.g., Locke, 1976).
+e l c i t r a
 
-Another competitor to goal setting in the 1960s–1980s was the expectancy theory (Vroom, 1964). This theory states that an em- ployee’s decisions are made by multiplying va- lence (value) of a Task (cid:2) Expectancy of per- forming a Task Effectively (cid:2) Instrumentality to the individual for doing so, and the product of these in turn leads to making choices. This theory was developed through deduction. How- ever, it turned out that people do not typically make choices by performing such multiplica- tions and Vroom later admitted this fact (Latham, 2012).
-
-Another motivation theory, the prospect the- ory, is based on Kahneman and Tversky’s re- search. Heath, Larrick, and Wu (1999) and Wu, Heath, and Larrick (2008) claimed that the pros- pect theory parsimoniously explains goal set- ting results when, in fact, few if any of its claims about goals and goal setting theory are correct (Locke & Latham, in press). The claims of prospect theorists include misstatements about goal setting such as: (a) the theory does not take into account reference standards, even though a goal is a standard for self-evaluation; (b) it cannot explain the effect on performance of setting a difﬁcult-to-attain goal; (c) claiming goal difﬁculty and speciﬁcity are the same; (d) failing to take into account the theory’s moder- ators (e.g., goal commitment) and goal determi- nants (e.g., values, self-efﬁcacy); and (e) an over- reliance on paper people experiments in which an individual’s actual performance is not mea- sured.
+s i h T

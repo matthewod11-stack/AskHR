@@ -1,5 +1,13 @@
-# techniques, and lesion studies; and
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 61a1693e2cd90d7ec9e51b27eee030152ac52a20
+title: beo_chap7_1
+---
+# (Damasio et al. 1994)
 
-Gi) fundamental abilities of memory and calculation that have received so much
+The case serves to demonstrate two points:
 
-of our attention in work on choice (or decision) are not sufficient to produce
+G@) softer clinical observations involving emotions, feelings and social respon-
+
+sibilities can now be aligned with much more precise results from imaging

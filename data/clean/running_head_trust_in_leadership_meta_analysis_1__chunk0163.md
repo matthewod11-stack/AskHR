@@ -1,11 +1,7 @@
-# TRUST IN LEADERSHIP(cid:32)META-ANALYSIS
-
-currently possible to disentangle such effects. More studies focusing on the specific
-
-subdimensions can help remedy this and the table in Appendix C may serve as a useful guide.
-
-We also did not find sufficient studies which examined (or reported examining) trust in senior
-
-leadership, making comparisons across leader level impossible. The relative homogeneity of
-
-studies in the field in terms of leader level is a limitation as well as a potential area for future
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: f335cdc1cb59408ce1571f1abdd0b9cb3921829d
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# (cid:32)(cid:51)(cid:57)(cid:32)

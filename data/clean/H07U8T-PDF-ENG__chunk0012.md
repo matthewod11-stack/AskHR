@@ -1,47 +1,31 @@
-## HBR / Digital Article / Do You Manage Too Many People?
+---
+source_path: H07U8T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f58d09f193454be325911ce64d517783ab98a496
+title: H07U8T-PDF-ENG
+---
+# Delegate decision-making
 
-them develop new skills. And you’ll be able to focus on big-picture,
+One of the biggest challenges of managing a large team is keeping up
 
-high-level strategy, instead of being bogged down in routine problems.
+with the number of decisions and trade-oﬀs that need to be made, says
 
-“It’s one of the most freeing things you can do” as a leader.
+Gupta. Trying to handle them all on your own can slow everything
 
-Leverage the power of groups
+down and cause a bottleneck. That’s why you need to “give your team
 
-Individual autonomy is critical, but it’s not enough on its own. Teams
+members as much decision-making autonomy as possible,” according
 
-need a culture that encourages everyone to hold each other accountable
+to McDowell. The key, she says, is to keep the high-stakes decisions
 
-and learn from one another. “Be intentional about asking people
+for yourself and delegate the rest. You should still guide and advise
 
-to collaborate,” says McDowell. “Have your people form teams with
+your team members. But giving them the latitude to make their own
 
-speciﬁc goals, give them the clarity and freedom to accomplish these
+decisions will not only increase their productivity, but it will also help
 
-goals, and amazing things can happen even without you there.” Say,
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-for instance, you manage a marketing team of 30 and your job is to
+2
 
-oversee the content they produce. Rather than reviewing every piece
-
-individually, you can create a system of peer review, where senior team
-
-members critique the work of junior members, and everyone gives each
-
-other feedback. Your goal is to “push decision-making into the group as
-
-opposed to having all decisions ﬂow up to you.”
-
-Then, get out of the way
-
-Trust is a crucial part of the equation, says McDowell. Without it, you
-
-can delegate as much as you want, but it won’t result in the outcomes
-
-you’re looking for. “If you give people autonomy, and then swoop in
-
-and take over, they are going to learn helplessness,” she says. It’s also a
-
-recipe for frustration for both parties. Your team members will resent
-
-your meddling and “you’ll be left wondering why no one is taking
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,11 @@
-# Building a Curious Culture
+---
+source_path: H07T10-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fcd8c04e698f196ad41bfa80c366f3bbee24197
+title: H07T10-PDF-ENG
+---
+# HBR / Digital Article / How to Evaluate a Job Candidate’s Critical Thinking Skills in an…
 
-Great leaders build great cultures. Great cultures are built on curiosity.
+he a critical thinker? Did he dive right in with a sales pitch or pause,
 
-Building a team with balanced curiosity is the path to winning. A team
+pivot, and learn? In case you are wondering, the candidate got the job.

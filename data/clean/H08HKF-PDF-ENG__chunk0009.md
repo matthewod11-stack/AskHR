@@ -1,15 +1,19 @@
-## 8 Questions to Determine RAI Program Readiness
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1e46027929254f62e810602d653ccde3b7bda7f
+title: H08HKF-PDF-ENG
+---
+# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist
 
-- 1. Have you determined the strategic objectives of your RAI program?
+to implement, scale, and maintain an enterprise-wide RAI program. If
 
-It’s important to deﬁne what counts as successfully designing and
+your organization can answer “yes” to all of these questions, it’s likely
 
-implementing your RAI program. Are you aiming to be best in class?
+in a good position to implement. If you answer “no” to any of them,
 
-To skate by existing regulatory requirements? To be ready for pending
+we highly recommend slowing down the implementation of your RAI
 
-or upcoming regulations? Answers to these questions will have large
+program and waiting to complete the design until the answer is yes.
 
-impacts on how the RAI program gets rolled out — for instance, how
-
-you design risk assessments, augment workﬂows, conduct internal
+While this may feel like a step backwards, it will ultimately propel implementation faster and more eﬀectively than charging ahead.

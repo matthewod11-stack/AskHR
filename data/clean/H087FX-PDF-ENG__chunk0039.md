@@ -1,9 +1,17 @@
-## hiring, retention, and productivity across their workforces.
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 22a8e046508c64587be2d2f351d5ed1b90c7188c
+title: H087FX-PDF-ENG
+---
+## A menu of accommodations along with individual job redesign eﬀorts
 
-Here are some recommendations. Many are best suited to oﬃce jobs,
+will help employers retain employees with long Covid and other chronic
 
-but some can also be used to support frontline workers (e.g., food and
+illnesses and enable these workers to contribute more than they could
 
-beverage services, retail, nursing, etc.). Employers that need to ﬁnd
+otherwise. But organizations that take a more comprehensive approach
 
-accommodations for frontline workers may want to focus on providing
+— building inclusion into the entire talent cycle, as explained in
+
+Ludmila’s book, The Canary Code — will have the true advantage in

@@ -1,15 +1,19 @@
-# labor intensive.
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4fd7263a074b35244afae774aae1fb39b337db06
+title: H08OSN-PDF-ENG
+---
+# whenever possible.
 
-If you and your team are too busy, it’s essential to take time to ﬁgure out
+Another executive client now asks her direct reports to share quick,
 
-how to work diﬀerently.
+ﬁrst-draft plans with her for work that is not overly complex or risky,
 
-Ask yourself and discuss with your team:
+instead of perfect, multi-page documents. She also encourages her team
 
-- Where could you do B-quality work, cut corners, or streamline
+to send bullet-point emails, when possible, instead of long narratives,
 
-processes to save yourself time and energy? For example, can
+with the understanding that she will follow up if she has questions. The
 
-you shorten weekly updates? Can you send bullet points instead of
-
-narratives? Do you really need a full project plan if the situation is
+team is also looking into how they can leverage AI to make work less

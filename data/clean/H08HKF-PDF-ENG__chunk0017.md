@@ -1,13 +1,47 @@
-# thresholds?
+---
+source_path: H08HKF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 89fbf0b0ab677a73aa4fbc4614f9d89cc89535a8
+title: H08HKF-PDF-ENG
+---
+# HBR / Digital Article / Designing a Responsible AI Program? Start with this Checklist
 
-- At what rate will metrics be deployed? For example, quality assurance
+There is an important diﬀerence between metrics for the RAI program
 
-and quality improvement metrics can only be collected once the
+itself and metrics for speciﬁc AI models or solutions. It is not just
 
-program has been operational, otherwise there’s nothing to measure.
+the models themselves that need to be measured — the RAI program
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+itself must be tracked for the purposes of ensuring compliance and
 
-5
+improvement. Establishing metrics that track the rollout and impact of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the RAI program, as well as whether and how employees are complying
+
+with it, is critical.
+
+Metrics should measure the extent to which:
+
+- Employees are aware of the RAI program, including the policies and
+
+procedures that pertain to their role
+
+- Each employee is abiding by the RAI program, including situations
+
+in which an employee is either using the AI themselves or overseeing
+
+someone else using AI
+
+- The RAI program is producing the desired impacts • Eﬀorts at improving the RAI program are successful
+
+Designing RAI metrics is as complex as it is important. Important high-
+
+level decisions include:
+
+- What is it worthwhile to measure, and what metrics will be used?
+
+- Who is responsible for collecting and evaluating them?
+
+- What is the frequency at which the metrics will be collected?
+
+- What are the appropriate measurement targets, benchmarks, and

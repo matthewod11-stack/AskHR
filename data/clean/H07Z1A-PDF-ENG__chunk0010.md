@@ -1,9 +1,37 @@
-# Obstacles to Cross-Functional Leadership
+---
+source_path: H07Z1A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 00c231ea2ab8d8d5d85d23182a9566787b7449d0
+title: H07Z1A-PDF-ENG
+---
+# across the business.
 
-Organizational complexity, more work spanning multiple functions,
+Sadly, this is not an isolated example. In a recent CEO research study
 
-and the need for faster decision-making have made cross-business
+we conducted, we interviewed a dozen CEOs of mid- to large-size
 
-collaboration table stakes for staying competitive. Massive changes
+companies. There was one key challenge every CEO mentioned: their
 
-caused by the pandemic, more geographically dispersed teams, less in-
+frustration at not being able to get their executive teams to work
+
+together. “I’m the only one who thinks about the entire company,” one
+
+CEO lamented, “and despite my best eﬀorts, each of my executives is
+
+only concerned with their own function or team.”
+
+It’s long been recognized that cross-functional collaboration is
+
+essential. Still, stubborn silos that bog down execution, hamper
+
+innovation, and slow decision-making are still a common and persistent
+
+challenge. In our work with company leaders, we’ve found that without
+
+leaders working together at the top, silos and dysfunction are inevitable.
+
+The onus is therefore on senior leaders to knock down these silos —
+
+moving beyond their ability to lead their own teams to also prioritize
+
+leading across the organization.

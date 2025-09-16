@@ -1,7 +1,23 @@
-# stronger association with antecedents like procedural justice and attitudinal outcomes such as
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: fc7b115b2aadfb354ee9109fab502da9414090ad
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## The Differential Role of Cognitive and Affective Trust
 
-intention to quit compared to overall trust and showed a weaker relationship than overall trust
+As noted, trust can be categorised according to whether it is more cognitively or
 
-with performance. Unfortunately, their meta-analysis had an insufficient number of studies to
+affectively oriented. Implicit in this multidimensional view of trust is the assumption that
 
-conduct analyses exploring the antecedents and outcomes of cognitive versus affective trust.
+affective and cognitive forms of trust ought to be to functionally different in terms of their
+
+nomological network. In the case of trust in leaders, it follows that affective and cognitive
+
+trust in the leader might have partially different antecedents and outcomes. For example,
+
+certain leadership styles may be more conducive to building affective trust than others.
+
+However, the empirical evidence for the affective-cognitive distinction is by no means
+
+indisputable. Dirks and Ferrin’s (2002) meta-analysis found that cognitive trust had a

@@ -1,11 +1,9 @@
-# driven generative AI tools.
+---
+source_path: H08QLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0e0fb256584d176559b6416aa832d56bba8208cc
+title: H08QLK-PDF-ENG
+---
+# HBR / Digital Article / How Gen AI Could Disrupt SaaS—and Change the Companies Th…
 
-The scale of potential disruption is immense. In 2023, global spending
-
-on enterprise software reached $913 billion—up 12.4% year over year. Venture capital has poured billions into SaaS startups. Yet both
-
-legacy vendors and insurgent SaaS players now face existential risk. (Disclosure: both authors have aﬃliations with venture capital ﬁrms
-
-that hold investments in both AI and enterprise software companies.)
-
-The initial wave will target single-purpose, high-volume processes such
+augmenting rigid, enterprise-wide software systems with ﬂexible, user-

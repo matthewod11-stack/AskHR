@@ -1,9 +1,17 @@
-## mental shift inhibits rumination, exasperation, resentment, and other
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f671d941414da69a941713df77e71e5b10643b25
+title: H08VFN-PDF-ENG
+---
+## (like “Make a Hasty Plan” or “Target Victory”).
 
-counterproductive psychological responses to stress.
+If managers struggle with stress during training, here’s a Special Ops
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+tip: Have gratitude for crisis, chaos, broken plans, nasty surprises,
 
-17
+missed objectives, unreasonable expectations, team conﬂict, friendly ﬁre,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and the other progeny of volatility. They’re providing an opportunity
+
+to lead, handing you the chance to create a better future. This

@@ -1,23 +1,9 @@
-# major accomplishment.
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 2ddc625e214b1b2b95c83c0d8cbb59568f3d227a
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Miscellaneous
 
-- 2. Lunch outings for the entire unit (can be a pay your own way) but the value is
-
-placed on the individual and the outing.
-
-- 3. Dinner out for two for the "Emplo yee of the Month. "
-
-- 4. Free coffee or soft drink delivered to the employee 's desk (one day or several).
-
-- 5. Doughnuts or bagels as a morning starter valuing the employee 's efforts.
-
-- 6. A box of candy, nuts or fruit.
-
-These suggestions can serve as a basis to establish a recognition program and to develop
-
-a strategy for recognition at ETR. Making a recognition program successful requires the
-
-37
-
-personal commitment of team leaders and managers to make it valuable and meaningful
-
-to their employees. Putting the recognition program in place is only the first part.
+- 1. Once-a-month/quarter potluck or lunch in someone 's honor to recognize a

@@ -1,11 +1,7 @@
-# Martin Barraud/Getty Images
-
-The stakes in C-suite hiring are existential. After all, talent risk is value-
-
-creation risk. Nowhere is this truer than in the middle market, where
-
-leadership’s impact is most directly felt and executives are unlikely
-
-to be supported by layers of management and squads of subject-
-
-matter experts. But when leadership changes are necessary—because of
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e2c372bdf2b9081c253b0369db1022bdc7da5f1
+title: H08UV9-PDF-ENG
+---
+## Published on HBR.org / August 13, 2025 / Reprint H08UV9

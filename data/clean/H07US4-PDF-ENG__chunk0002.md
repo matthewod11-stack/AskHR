@@ -1,5 +1,7 @@
-# The Business Case for Love
-
-It’s the most powerful driver of consumer and employee behavior — and yet, businesses don’t study it or have a strategy to harness it. by Marcus Buckingham
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07US4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0a6040cd98e9b24fc9552944d6064c1e67dddd96
+title: H07US4-PDF-ENG
+---
+# Organizational Culture

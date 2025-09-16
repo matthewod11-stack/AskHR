@@ -1,9 +1,17 @@
-# best candidate.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 2aba9ea04c8162172c08cb839e11790367af1c7e
+title: i
+---
+# approach and organizational strategies.
 
-2.4 Skill sets of HR specialist in order to perform PA
+Besides a clear vision and outsourcing cost, there needs to be other technology used in the
 
-Discussing skills for PA, Johnson-Murray et al. (2018) postulate that there are three
+selection process to ensure talent acquisition optimization. The PA can be used <as a
 
-fundamental knowledge domains that a Human Resources (HR) expert should possess to
+29
 
-implement People Analytics (PA) effectively, which are People skill, Business knowledge and
+predictive tool.= At the same time, it builds a <template= for future hires and <see the
+
+candidate three-dimensionally,= a <democratic, impartial= and decision support to achieve the

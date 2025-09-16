@@ -1,13 +1,21 @@
-## in the design of our one-on-ones and retrospectives.
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f8e2ae7e0951b12e30a7b1c89f2b4255b7d635f8
+title: S24051-PDF-ENG
+---
+# HBR / Spotlight / New Rules for Teamwork
 
-When we ask our highest-performing teams what they attribute their
+bank did: hold kickoﬀs, conduct one-on-ones, and take stock of progress
 
-success to, their answer is: building trust in client relationships. This
+using retrospectives. For our part, we also close out with comprehensive
 
-is what the WWW operating model is meant to facilitate—and we have
+handovers, documenting our work so that the client, and future
 
-plenty of evidence that it does. Frequently collecting client feedback,
+teams, can build on what we did. We recommend that companies use
 
-conducting client retrospectives, and holding one-on-ones—our teams
+these practices as the foundation of their teamwork operating system,
 
-listed all these as practices that helped them build trusting client
+tailoring them to reﬂect their important cultural norms. For example,
+
+the “obligation to dissent,” one of McKinsey’s core values, is embedded

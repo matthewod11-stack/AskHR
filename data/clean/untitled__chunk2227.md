@@ -1,5 +1,13 @@
-# Journals and Textbooks
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e0048b8f0a40aba1a66f7670dd43da71f3308368
+title: untitled
+---
+# Professional Organizations
 
-The 1970s saw the development of the ﬁrst journals in law and psychology. The American Psychology-Law Society began publishing Law and Human Behavior, and the American Association of Correctional Psychologists devel- oped Criminal Justice and Behavior. They were joined by the Law and Psychology Review, then in the 1980s by Behavioral Sciences and the Law, and ﬁnally the APA’s new journal, Psychology, Public Policy, and Law, in the 1990s. Several new journals also appeared in Great Britain in the 1990s: Criminal Behaviour and Mental Health, Legal and Crimino- logical Psychology, and Psychology, Crime and Law.
+The American Psychology-Law Society was chartered in 1969, and it soon became the organizational support for enor- mous growth in psychology and law research and for forensic psychology practitioners (Grisso, 1991). From an initial 12 founders, the organization grew to over 100 members within its ﬁrst year. Although most of its early members spe- cialized in clinical forensic practice, during the 1970s the focus of the organization swung primarily to research and ap- plications of social, developmental, and experimental psy- chology to legal issues.
 
-One of the ﬁrst forensic psychology texts in this modern era of forensic psychology was Brodsky’s Psychologists in the Criminal Justice System (1973). Few texts in psychology and law were available until the American Psychology-Law Society developed a book series in the mid-1970s, but by the 1980s the ﬁeld had spawned enough texts to provide the ﬁeld with a body of recognized knowledge that began to forge the ﬁeld’s identity.
+When a number of members wished to develop a way to certify clinical forensic psychologists, the society provided the ﬁnancial support for the development of a separate organization, the American Board of Forensic Psychology, in 1976. This board developed a process of examination leading to a diplomate in forensic psychology, and the board eventu- ally became a specialty board of the American Board of Professional Psychology.
+
+Led by John Monahan, several psychologists in the soci- ety successfully petitioned the American Psychological As- sociation for a Division of Psychology and Law, which began in 1980. Within a few years the American Psychology-Law Society merged with the division, which is now formally named APA Division 41—the American Psychology-Law Society.

@@ -1,5 +1,9 @@
-# JB
+---
+source_path: H07VVF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77de45e32349c4d9bb13cfd6b1c25100e8af6300
+title: H07VVF-PDF-ENG
+---
+# during climate disasters.
 
-John Bai is an Associate Professor of Finance at the D’Amore-McKim School of Business at Northeastern University.
-
-Erik Brynjolfsson is the director of the Stanford Digital Economy Lab, a professor at the Stanford Institute for Human-Centered AI, a research associate at the National Bureau of Economic Research, and a cofounder of Workhelix, which creates generative AI strategies and implementation plans for companies.
+This article was originally published online on November 15, 2023.

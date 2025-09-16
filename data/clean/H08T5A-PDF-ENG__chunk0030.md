@@ -1,7 +1,13 @@
-## an AI-driven mental health platform, Teale, which, through various
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 980833516745cd0f9c65e716d418e4b5753b6328
+title: H08T5A-PDF-ENG
+---
+# weeks.
 
-tools including an AI-powered coach, provides monthly anonymized
+Another thing large companies can do to stay attentive to employees’
 
-dashboards (with aggregated data to protect employee privacy). This
+well-being is to start leveraging the data to proactively detect and address early signs of over-entrainment in diﬀerent teams or
 
-dashboard enables managers to gain strategic insight into workload
+departments. For example, the auditing/consulting ﬁrm PwC uses

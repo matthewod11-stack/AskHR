@@ -1,11 +1,7 @@
-# Good-Riddance Reviews
-
-Savvy friction ﬁxers assess what they should and can remove from their
-
-organizations and identify where and how to create mechanisms such
-
-as rules, review processes, and ﬁnancial penalties that make it harder to
-
-add unnecessary stuﬀ. Here are some methods they employ.
-
-Ask colleagues and customers to identify unnecessary obstacles. When Melinda Ashton was the chief quality oﬃcer at Hawaii Paciﬁc
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1dacb2d58c3bbe02b1f97ca5d1a544a51bcf9bc6
+title: R2401G-PDF-ENG
+---
+# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone

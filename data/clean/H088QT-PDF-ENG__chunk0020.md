@@ -1,9 +1,17 @@
-## HBR / Digital Article / 3 Challenges to Hybrid Work — and How to Overcome Them
+---
+source_path: H088QT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d73b723b9c5dfedc50938d13e029ff7a537cf21
+title: H088QT-PDF-ENG
+---
+## employees to share thoughts and opinions about which aspects of their
 
-should be reconsidered and reimagined in order to attract, motivate,
+return-to-oﬃce policies are working — and which need improvement.
 
-and retain employees.
+Such conversations can help organizations determine what practices
 
-This article was originally published online on May 30, 2024.
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-Mark C. Bolino is the David L. Boren Professor and the Michael F. Price Chair in International Business at the University of Oklahoma’s Price College of Business. His research focuses on understanding how an organization can inspire its employees to go the extra mile without compromising their personal well-being.
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

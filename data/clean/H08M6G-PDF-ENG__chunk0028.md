@@ -1,9 +1,17 @@
-# AA
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e3b29769ad6645136e9b746bcb3dab283daca905
+title: H08M6G-PDF-ENG
+---
+## brings together creative abrasion, social collaboration, and emotional
 
-Alistair Aitchison is a senior partner at LeaderFactor and is based in Oxfordshire, UK. He is a facilitator, coach, and consultant, advising senior leaders in the areas of organizational and cultural transformation, emotional intelligence, psychological safety, and strategic agility. He holds an MSc from Edinburgh University and an MBA from the Marriott School of Business at BYU.
+regulation. If a team can’t ﬁnd a way to engage in constructive dissent,
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+it will default to preserving the status quo. But if it can, that norm will
 
-8
+unleash the team’s innovative capability.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This article was originally published online on February 12, 2025.
+
+Timothy R. Clark is an Oxford-trained social scientist and founder and CEO of LeaderFactor, a global leadership consulting and training ﬁrm. He works with CEOs and their teams, helping them achieve data-driven cultural transformation and is the developer of the EQindex emotional intelligence assessment. His most recent book is The 4 Stages of Psychological Safety: Deﬁning the Path to Inclusion and Innovation (Berrett-Koehler 2020).

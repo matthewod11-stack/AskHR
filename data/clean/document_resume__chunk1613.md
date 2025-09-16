@@ -1,9 +1,9 @@
-# Almost Never
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: a92d544e3b5386e66376a430dbc84026b6de94a8
+title: document_resume
+---
+# Almost Always
 
-2
-
-3
-
-4
-
-5
+Assigns weights to assessment measures congruent with course objectives.

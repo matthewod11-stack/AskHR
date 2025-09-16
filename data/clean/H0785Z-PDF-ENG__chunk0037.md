@@ -1,13 +1,15 @@
-# analytics and e-commerce capabilities.
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0dc8754b279ca2d263bb233e0eecd0bd1d991ab
+title: H0785Z-PDF-ENG
+---
+# toward?
 
-Recruiting the right people and deploying them in ways that allow them
+Right now, for example, if you don’t have a core competence in using
 
-to apply their expertise and energy are core competencies themselves
+algorithms, you will need to acquire or develop this capacity. Amazon
 
-and critical in the age of discontinuity. In an escalating war for talent,
+eclipsed many retailers that were too slow to adapt, but now we
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+see brick-and-mortar competitors such as Walmart building their data

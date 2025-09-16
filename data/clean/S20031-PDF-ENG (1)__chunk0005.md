@@ -1,1 +1,7 @@
-## Frank Dobbin Professor, Harvard University
+---
+source_path: S20031-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 645f07e9b950f6e958c2de2a31bfe1f275062e52
+title: S20031-PDF-ENG (1)
+---
+## FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG

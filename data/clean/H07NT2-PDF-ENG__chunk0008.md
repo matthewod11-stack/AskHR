@@ -1,13 +1,29 @@
-# What Is “Blind Hiring”?
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5fe28d4c72c506855c67a204864e77118e9625b8
+title: H07NT2-PDF-ENG
+---
+## HBR / Digital Article / When Blind Hiring Advances DEI — and When It Doesn’t
 
-As a decision-making strategy more broadly, “blinding” involves
+practitioners indicated that about 20% worked for organizations that
 
-blocking evaluators from receiving potentially biasing information
+used blind hiring and about 60% were familiar with it.
 
-about a target of evaluation until after an evaluation is complete. Blind
+What many practitioners may be unaware of, however, is the large span
 
-hiring policies typically implement this strategy at the initial screening
+of new research on blind hiring that has been published since that
 
-stage of the hiring pipeline, when hiring managers or other decision-
+orchestra study in 2000. Over the past two decades, the eﬃcacy of blind
 
-makers decide which applicants to interview and which to screen out of
+hiring as a strategy to boost hiring outcomes for members of historically
+
+disadvantaged groups has been tested in the “ﬁeld” — that is, in real
+
+hiring decisions in real organizations — in various settings across
+
+Europe, Canada, and the U.S. By understanding the results of these
+
+recent studies, decision-makers in organizations can now determine, at
+
+a very granular level, whether a blind hiring strategy is likely to help or hinder their organizations’ eﬀorts to diversify pools of new hires.

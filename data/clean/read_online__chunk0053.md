@@ -1,7 +1,11 @@
-# Media
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 8da584c878f40d5f564ac8a43328768b60c9ac43
+title: read_online
+---
+# Government
 
 11
 
 3
-
-individual’s satisfaction with a broad range of influences. This scale has previously been used in the South African context with acceptable reliability (for example, by Visser and Coetzee 2005, who obtained an alpha of 0.88 for these items). The alpha for this item in this study was 0.877.

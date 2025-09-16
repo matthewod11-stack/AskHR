@@ -1,13 +1,9 @@
-# 96
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 15c637b977028a90f1d62060a68b709a009a1a07
+title: file_1
+---
+# DISCUSSION AND CONCLUSION
 
-these questions by analyzing perceptions of students, employed, and retired people of overall gender inequality. Examining factors that have an impact on whether and to what extent individuals perceive overall gender inequality to exist may help answering the question of why gender inequality persists and how to overcome it. For this purpose, the current study provides a theoretical model of factors hypothesized to influence individuals’ perceptions of overall gender inequality and tests it by applying the data of the Finnish Gender Equality Barometer 2008.
-
-The empirical evidence of the current study suggests some additions to the existing literature. The study supports prior research emphasizing that men and women often differ in the perceptions (Rotundo et al., 2001, Ngo et al., 2003). The study supports the gender socialization perspective (Stockard, 1999), according to which men and women may be socialized to perceive behaviours differently in a way that women perceive overall gender inequality to a greater extent than men.
-
-The finding that employed and retired people perceived overall gender inequality to a greater extent than others is also noteworthy. To the best of my knowledge, none of the previous studies included occupational categorization as a factor predicting individuals’ opinions concerning gender inequality. This provides a unique contribution.
-
-In the theoretical part of the paper, employed and retired people were hypothesized to perceive overall gender inequality to a greater extent than students. This reasoning was based on earlier empirical studies. The results of the paper showed that both employed and retired people perceived overall gender inequality to a greater extent than students. The finding that employed people perceived overall gender inequality to a greater extent than student might be explained by occupational socialization theory (Smith and Rogers, 2000), according to which employed people are socialized within their work environment through training, organizational culture, and workplace rewards. Thus, they might be more conscious of the cases where men and women are treated differently while performing similarly.
-
-This result also may mean that labor market experience leads to greater perceptions of gender inequality among people. While both employed and retired people tend to be more conscious of overall gender inequality, students might face less gender inequality or they may not yet have experienced it. Shapiro’s and Kirkman’s (2001) anticipatory injustice model might be helpful in explaining this tendency. According to the model, people’s perceptions match their schemata, which are based on their prior experience. The more experience people gain, the more is the likelihood that they have experienced injustice and thus continually sees it. In contrast, the less experience people have, the less formed attitudes they possess, and the less is the likelihood that they perceive overall gender inequality. Since both employed and retired people in general have more experience than students, they were found to perceive overall gender inequality to a greater extent than students.
-
-Overall, the finding that employed and retired people perceived overall gender inequality to a greater extent than students calls for additional qualitative research aiming at analyzing whether people with different occupational categorization perceive gender inequality
+Existing research on gender inequality has examined the phenomenon and the reasons for it in depth but has not yet thoroughly examined individuals’ perceptions of overall gender inequality. To what extent do Finnish students, employed, and retired people perceive overall gender inequality? What has an impact on the way they perceive it? Is it their life experiences or some demographical background factors? This study attempts to answer

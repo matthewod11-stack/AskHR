@@ -1,9 +1,11 @@
-# Total
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: 8cf4d905fe8a976a6bb777dd6950245ac5e0fc6b
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# No
 
-38
+10
 
-100
-
-.
-
-The study went further to establish employee reprimand system in Mukurwe-ini Dairy Ltd. The the study
+26.32

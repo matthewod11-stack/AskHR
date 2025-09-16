@@ -1,13 +1,7 @@
-## 3.2.3. Individual performance of human resources
-
-We used variables from Chand and Katou (2007) and Huselid, Becker and Beatty (2005) to
-
-measure the individual performance of human resources: “The workers are committed to the
-
-organisation”, with a weight of 0.755; “The workers achieve their individual objectives”, with a
-
-weight of 0.912; and “The workers improve their efficiency”, with a weight of 0.884. The
-
-variance explained is 52.341, and the value of the KMO test is 0.771. The reliability of this
-
-scale is α=0.711, and r=0.725.
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: 08a5ce67a39e0c8a2167e496265787898e390e53
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+## With regard to the scale reliability, α=0.946, and r=0.954.

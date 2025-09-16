@@ -1,7 +1,13 @@
-## Velma M. Williams, PhD Counseling Center Ball State University Muncie, Indiana
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e04147e5a08a3beb71b392023f8187ec8af7986a
+title: untitled
+---
+# Gary R. VandenBos, PhD Ofﬁce of Communications American Psychological Association Washington, DC
 
-Bianca D. M. Wilson, MA Department of Psychology University of Illinois at Chicago Chicago, Illinois
+Pamela J. Way, PhD Department of Educational Psychology University of Texas Austin, Texas
 
-David G. Winter, PhD Department of Psychology University of Michigan Ann Arbor, Michigan
+Irving B. Weiner, PhD Department of Psychology University of South Florida Tampa, Florida
 
-Stuart M. Zola, PhD Yerkes Primate Research Center Department of Psychiatry and Behaviorial Science Emory University Atlanta, Georgia
+Claire Ellen Weinstein, PhD Department of Educational Psychology University of Texas Austin, Texas

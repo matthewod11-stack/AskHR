@@ -1,9 +1,7 @@
-## Making Sabbaticals Equitable and Successful
-
-Is your organization ready to start reaping the beneﬁts of employee
-
-sabbaticals? Although there is no single playbook for designing a
-
-program, my research has found that all successful and equitable
-
-sabbatical programs rest on three pillars: eligibility, support, and
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5981e6c84ba695298d67bdb79756d33678c35257
+title: H08LQA-PDF-ENG
+---
+# across the country.

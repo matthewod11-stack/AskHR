@@ -1,23 +1,19 @@
-## HBR / Digital Article / An Intersectional Approach to Inclusion at Work
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f900f43d1d89bbd32e67767ae2e7d7e490d25670
+title: H072GW-PDF-ENG
+---
+## Include individual employees in the work-design process — in
 
-Not only is this suboptimal for any analyst because data analysis
+particular, those who think diﬀerently or are intersectionally
 
-requires deep work, but it would be a major barrier for autistic people,
+marginalized. For example, I’ve helped rewrite a research analyst job
 
-who pay a higher psychological price for distraction. Many autistic
+description that initially included working with frequent interruptions.
 
-professionals have lost their jobs because their responsibilities were
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-changed to include excessive multitasking, they were moved into noisy
+6
 
-areas, or they were otherwise precluded from exercising their strengths
-
-— without their input. It’s more eﬀective to involve individuals in
-
-crafting their jobs than attempting to design for them, even if using
-
-empathy. Empathy is constrained by similarity, and those who have
-
-not experienced autistic focus may think of an interruption as a minor
-
-inconvenience, not the sensation of being hit with a baseball bat.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

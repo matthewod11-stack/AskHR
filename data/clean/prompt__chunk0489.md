@@ -1,19 +1,9 @@
-# such as:
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 2324ed7f0f4acf97393b574a55227b475e23a144
+title: prompt
+---
+# Summary
 
-- Zero prompting
-
-- Few shot prompting
-
-- System prompting
-
-- Role prompting
-
-- Contextual prompting
-
-- Step-back prompting
-
-- Chain of thought
-
-- Self consistency
-
-- Tree of thoughts
+This whitepaper discusses prompt engineering. We learned various prompting techniques,

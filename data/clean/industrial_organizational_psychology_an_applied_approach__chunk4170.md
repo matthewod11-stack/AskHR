@@ -1,7 +1,11 @@
-## nearly 1,000 applicants. Montgomery Advisor.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 9c01306876fd430d221778eaba9ef826dc1f5b1f
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Duchon, J. C., Keran, C. M., & Smith, T. J. (1994). Extended
 
-Dunham, R. B. (1977). Shiftwork: A review and theoretical analysis. Academy of Management Review, 2, 626–634. Dwight, S. A., & Feigelson, M. E. (2000). A quantitative review of the eﬀ ect of computerized testing on the measurement of social desirability. Educational and Psychological Measurement, 60(3), 340–360.
+workdays in an underground mine: A work performance analysis. Human Factors, 36(2), 258–268.
 
-Dye, D. A., & Reck, M. (1989). College grade point average as
-
-a predictor of adult success: A reply. Public Personnel Management, 18(2), 239–240.
+Dugan, K. M. (2001, October 24). Montgomery, AL fair attracts

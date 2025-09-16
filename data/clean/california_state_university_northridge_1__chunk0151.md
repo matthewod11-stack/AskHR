@@ -1,5 +1,9 @@
-## productive work environment; and" (Roads to Resolution, 1999).
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: 634cad5075701a88db41612933663fcd1fa84dfc
+title: california_state_university_northridge_1
+---
+# Resolution, 1999).
 
-1.3. "Even when we cannot resolve conflict internally, we are committed to
-
-resolving issues quickly and fairly through the use of an independent outside
+1.2. "The early resolution of issues is the best way to maintain a positive,

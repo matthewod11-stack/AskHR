@@ -1,13 +1,9 @@
-# Job
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 2d4d8d18931dcdce9997ba58044808b962097e34
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Actual turnover Turnover intentions Absenteeism
 
-.56 .47
-
-.20
-
-−.08 −.46
-
-One’s coworkers can affect job satisfaction.
-
-7 7
-
-begins to ask for new projects appears bored or unchallenged
+−.14 −.35 −.05

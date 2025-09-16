@@ -1,3 +1,7 @@
-# Appraisal Accuracy
-
-Appraisals are more often a reﬂection of the appraiser’s overall biases than they are of the performance of an employee. Appraisers from different populations (e.g., supervisors vs. subordinates) attach different weights to the same aspects of performance that they observe as a result of their different perspec- tives in the organization. A massive study involving over 4000 managers with apprai- two sals from at peers, two subordinates plus self-appraisals indicated that the idiosyncrasies of an appraiser affect the appraisals given to an employee.
+---
+source_path: performance_management.md
+pages: n/a-n/a
+chunk_id: 5af12a5a44c2f39af347ebaa96e5e3a9adb4b132
+title: performance_management
+---
+# TRAINING APPRAISERS/ COACHES

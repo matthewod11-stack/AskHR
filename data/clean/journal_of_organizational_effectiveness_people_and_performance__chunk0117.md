@@ -1,1 +1,11 @@
-# Aon Hewitt
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 8e22eb02dee0695d834c0173977c51ac5b42af8a
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+## strengths-based approach”, Business Horizons, Vol. 55, pp. 105-111.
+
+Albrecht,S.L.(2013),“Workengagementandthepositivepowerofmeaningfulwork”,inBakker,A.B. (Ed.), Advances in Positive Organizational Psychology, Emerald, Bingley, pp. 237-260. Albrecht, S.L. (2014), “A climate for engagement: some theory, models, measures, research, and practical applications”, in Schneider, B. and Barbera, K. (Eds), The Oxford Handbook of Organizational Climate and Culture, Oxford University Press, Oxford, pp. 400-414. Alfes, K., Shantz, A.D., Truss, C. and Soane, E.C. (2013a), “The link between perceived human resource management practices, engagement and employee behavior: a moderated mediation model”, The International Journal of Human Resource Management, Vol. 24 No. 2, pp. 330-351.
+
+Alfes, K., Truss, C., Soane, E.C., Rees, C. and Gatenby, M. (2013b), “The relationship between line manager behavior, perceived HRM practices and individual performance. Examining the mediating role of engagement”, Human Resource Management, Vol. 52 No. 6, pp. 839-859. (2013), 2013 Trends in Global Employee Engagement Report, Aon Hewitt,

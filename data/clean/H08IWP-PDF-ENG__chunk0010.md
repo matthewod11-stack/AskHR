@@ -1,19 +1,17 @@
-## a long-term to a short-term relationship with the tour (Royal Bank
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cd605b348dbdce7af153ecdd49b420e504800606
+title: H08IWP-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways to Make All Your Stakeholders Feel Heard
 
-of Canada told the tour it would renew its sponsorship annually, in
+also forced executives to steeply increase tournament prizes (money
 
-contrast to previous multi-year agreements) and others discontinued
+that would be paid in part by sponsors), a response that stemmed from
 
-their relationship altogether (Wells Fargo and Farmers Insurance had
+some of those players having previously turned down multimillion-
 
-been tour sponsors for more than a decade).
+dollar oﬀers from LIV Golf because of the PGA Tour’s moral stance.
 
-The eﬀect of all of this was that the once-successful PGA Tour business
-
-model, which had taken decades to build, began to fall apart. Today,
-
-a year and a half after the initial announcement, men’s professional
-
-golf appears more divided than ever, with a ﬁnal agreement yet to be
-
-reached between the PGA Tour and Saudi Arabia’s PIF, due in part to
+In response, sponsors reduced their commitment: Some moved from

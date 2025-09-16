@@ -1,47 +1,23 @@
-## as robotic process automation (RPA) help to structure the ﬂow of work
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd573fe5b47e58805373c6dc13155b771e9856b7
+title: H07IG2-PDF-ENG
+---
+## HBR / Digital Article / How AI Is Helping Companies Redesign Processes
 
-and automate information-intensive back-oﬃce processes. RPA is rule-
+While the methods fueling this growth of AI have been around for
 
-based, which limits its ability to employ data-based decisions. But
+decades, the cost of implementing them has dropped precipitously.
 
-combined with machine learning as “intelligent process automation,”
+Previously the domain of data scientists only, modern AI-based solutions are now mature enough to be oﬀered “oﬀ the shelf,” greatly
 
-it can deal with much a greater variation of tasks.
+lowering the technical barriers to entry. Falling computing costs —
 
-This AI-driven reengineering is already taking place. Banks are using
+driven by the wide availability of the cloud, the growth of low-cost
 
-it to transform wealth management advice for clients. Insurance
+bandwidth, and reduced cost of sensors — have drastically lowered
 
-companies are using AI to make client onboarding and underwriting
+the price of model-driven prediction. AI-based decisions can also be
 
-much easier, and automating claims estimates for auto and home
-
-damage with deep learning analysis of photos taken by the insured.
-
-Industrial ﬁrms are reshaping maintenance and engineering processes.
-
-Even in health care, where there is considerable research on AI
-
-but much less clinical adoption, diagnosis and treatment are being
-
-reshaped by AI-based telemedicine in some countries.
-
-All of this has important ramiﬁcations for the way we use AI, how work
-
-is being performed, and how companies are being organized. To take
-
-advantage of these potential beneﬁts, companies need to bring back an
-
-end-to-end process perspective on their businesses, and think carefully
-
-about how AI can transform them. In essence, companies need to
-
-explore where they are generating suﬃcient data to extract patterns that
-
-could be used to support operational decisions.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+included within the wider context of automation. Technologies such

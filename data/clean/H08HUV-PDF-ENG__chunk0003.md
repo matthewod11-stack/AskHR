@@ -1,11 +1,13 @@
-## a project-speciﬁc boss, Navin, the leader of a critical new software
+---
+source_path: H08HUV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e967cda4d04e1bfb9050f46eaeeb25ac6d212681
+title: H08HUV-PDF-ENG
+---
+# Photo_Concepts/Getty Images
 
-implementation. This dual reporting structure was meant to speed up
+Lev’s promotion to senior project manager came with an unexpected
 
-delivery, but Lev soon noticed that his two bosses hardly talked to
+challenge. Although he continued to report to his functional boss,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Gina, the head of product development, he now also answered to

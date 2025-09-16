@@ -1,5 +1,27 @@
-# business strategy?”
+---
+source_path: H08DO8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1a1ba5b0ae1f6329836e39c6564677f48a038a12
+title: H08DO8-PDF-ENG
+---
+# environmentally friendly
 
-While the tool oﬀered a few recommendations of trends that covered
+While Angeline was satisﬁed with the outcome, she wondered how
 
-what Angeline’s team had considered, it also posed four that were more
+gen AI might assist in addressing these changes and trends. She had
+
+two questions: 1) Did her team’s list reﬂect the current trends in the
+
+industry? And 2) what was the likely future for the industry, given the
+
+shortage of land and the increased interest in environmental practices?
+
+How gen AI can — and can’t — help.
+
+To help Fitzroy with the ﬁrst question, we gave a gen AI tool the
+
+list developed by Angeline’s team and asked: “Act as a strategic
+
+management consultant. Based on industry challenges, provide
+
+recommendations on what is missing from the list relevant to our

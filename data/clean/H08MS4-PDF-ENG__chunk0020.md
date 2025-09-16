@@ -1,7 +1,11 @@
-# people.
+---
+source_path: H08MS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b13812d52c6aa6935732c035fa19150497587aae
+title: H08MS4-PDF-ENG
+---
+# Diversity training
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+We’re seeing a small number of lawsuits from employees challenging
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+DEI training programs, claiming that they discriminate against white

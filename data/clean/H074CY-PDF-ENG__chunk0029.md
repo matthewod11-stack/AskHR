@@ -1,9 +1,23 @@
-## HBR / Digital Article / How to Conduct a Great Performance Review
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f086f66210a421cb237a6bda0dec552a1075c046
+title: H074CY-PDF-ENG
+---
+# diﬀerently.
 
-resources or something else? Here are the priorities in our unit: Do you
+Dialogue is important, therefore, not just because it’s polite and
 
-understand, and do you agree? If not, why not?
+typically characteristic of eﬀective organizational cultures, but also,
 
-Dialogue also opens other relevant purposes of a review: the possibility
+because it tests assumptions and reasoning. Does my view of your
 
-that the manager’s behaviors, policies or management style may be part
+interactions with colleagues make sense? Here is the data or other input
+
+I’m using to make this assessment: What am I missing? Is it an issue of
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

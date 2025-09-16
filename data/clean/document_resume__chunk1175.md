@@ -1,3 +1,9 @@
-# 4 very Good
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 17d32a3e82ad37efacfdc30bdf506c695a9cdfb6
+title: document_resume
+---
+# Performance Appraisal
 
-Almost always meets class for full time period. Arrives early to class to ensure that instruction can begin on time. Encourages attendance throughout the quarter and records daily attendance. Willingly accepts teaching assignments as scheduled.
+scheduled time. Adheres strictly to college's policy on atten- dance and records absences daily. Willingly accepts teaching assignments and responsibilities as scheduled.

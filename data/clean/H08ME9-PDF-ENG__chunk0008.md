@@ -1,31 +1,35 @@
-# analyze customer feedback.
+---
+source_path: H08ME9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e1d7febd7977aeb359eae5de65ab471a3d716bd
+title: H08ME9-PDF-ENG
+---
+## HBR / Digital Article / 7 Questions to Decode Your Manager’s Priorities
 
-Try to ﬁnd a win-win — a way your boss can reclaim time while you
+process improvements, or take work oﬀ their plate in stressful areas,
 
-get a growth opportunity. You might suggest: “I know you want to focus
+turning you into a trusted advisor who helps them sleep better at night.
 
-on planning next year’s conference. Why don’t I run our team meetings
+- 3. What actions or changes would allow you to look back in 90 days and say “Wow, that really made a difference?”
 
-for the next few weeks to help you create space to do that?” or “I’d love
+The timeframe is key. Ninety days is long enough to accomplish
 
-to work with the board more closely. I could prepare our department
+something meaningful, but short enough to feel tangible and speciﬁc.
 
-updates so you can work on the budget they asked for.”
+If your boss gives a vague answer like “reﬁne our strategy,” ask, “What’s
 
-- 5. What does good performance look like? Great performance?
+one change we could make to our roadmap that would have the biggest
 
-Let your boss lay out “good” expectations without jumping in. Then
+impact by the end of the quarter?” If they’re still unclear, oﬀer a binary:
 
-pause and say, “Thank you. That’s helpful. Now tell me — what does
+“Would you be more impressed if we doubled our enterprise clients or
 
-great performance look like?” That pause and emphasis often leads to
+increased revenue per customer by 40%?”
 
-a discussion about how to exceed expectations and reveals what really
+- 4. What do you wish you had more time to work on?
 
-matters beyond technical skills. Your boss might start talking about how
+This question uncovers what matters to your manager but keeps getting
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+pushed aside by urgent tasks. Maybe they wish they had more time
 
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to create documentation, build relationships with another team, or

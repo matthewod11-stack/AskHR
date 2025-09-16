@@ -1,25 +1,23 @@
-# its mirror neurons.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 5ac9b72e35ab86aec75c9a1128013ff50fc884f3
+title: beo_chap7_1
+---
+# Figure 7.3. Setup of card-drawing decks.
 
-This mirror system is implicated in understanding the actions of others by partially
+review by Rizzolatti et al, (2001) of work on such cells. Mirror neurons are active
 
-activating the same systems within ourselves that would be involved in carrying out
+both in motor acts, such as grasping an apple, and in observing the same motor act
 
-the observed act. AndI should add that there is considerable evidence that the mirror
+being carried out by another. Many techniques are involved, but among the most
 
-neuron systems connect to areas responsible for emotions, such as the amygdala.
+striking is firing data at the individual neuron level recorded from monkeys watching
 
-So, for example, a congenital nerve malformation gives rise to Mobius syndrome.
+food being placed on a platter and then taking the food off the platter themselves.
 
-Those suffering it have difficulty moving their facial muscles. These patients also
+The monitored neurons fired both on observing food placement by the experi-
 
-have difficulty learning to understand the emotions expressed in the faces of others.
+menter’s hand and in the execution of the motor act by the monkey’s hand. But when
 
-Results of this kind suggest that emotional responses to experiences of others
-
-may be a fundamental predisposition of our normal biological “equipment,” that
-
-our understanding and evaluation of actions of others arises to some extent through
-
-rather detailed mapping onto our own experience, which our body develops spe-
-
-cial circuitry to carry out. Further work along these lines will presumably have
+the monkey observed the food being placed using pliers, there was no response from

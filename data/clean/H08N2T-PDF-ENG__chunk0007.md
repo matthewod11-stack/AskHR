@@ -1,25 +1,19 @@
-## quality of their leaders and managers; that between 30–60% of leaders
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de6fbd95dc28d560dd5454274366b126057cdc59
+title: H08N2T-PDF-ENG
+---
+## that care enough about employee morale and engagement to actually
 
-act “destructively”; that people tend to “join organizations but quit their
+poll employees about their experience. We could expect things to be
 
-bosses”; and that many managers are simply incompetent in their roles.
+even bleaker for other workers. Second, although managers and leaders
 
-Third, career moves can be a tricky and complex endeavor, with many
+play a major role in driving employee motivation and performance
 
-factors determining the ﬁt between our interests, abilities, and choices.
+(or lack thereof), most people are disenchanted with their boss, if not
 
-Add to this the recent disruption in jobs and skills caused by AI, and it is
+traumatized by them: Research shows that people trust strangers more
 
-hard to disagree with Tom Peters’ rule: “If you are not confused, you are
-
-not paying attention.”
-
-Although it would be ludicrous to pretend that there’s a magic bullet to
-
-improve your job situation or address your career concerns (precisely
-
-because things are complex), it is nevertheless possible to think through
-
-a foundational self-assessment of the potential motives driving your
-
-interest in diﬀerent jobs or careers, and where there might be a potential
+than their manager; that merely 20% of boards feel conﬁdent in the

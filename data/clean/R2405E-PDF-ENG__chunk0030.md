@@ -1,5 +1,29 @@
-## 50% of the material in the new Gore-Tex laminate with the recycled
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4bf8cf3307f3d8488e83f3a4bfe18b2405b43cce
+title: R2405E-PDF-ENG
+---
+# questions:
 
-textile is supplied through Bionic Yarn’s operations in Costa Rica, and
+Is the business model viable? Incumbents need to test each innovation,
 
-the outdoor apparel brand Patagonia has already begun using the textile
+asking, What will it do, how will we supply its production, and how will
+
+we make a proﬁt with it? W.L. Gore & Associates, owner of the Gore-Tex
+
+brand, did just that with Bionic Yarn, a start-up with a novel approach
+
+for creating textile-grade recycled polymers from ocean-bound plastics,
+
+much of which it gathers by working with coastal communities in Costa
+
+Rica. The two partners had to ensure that the sourcing and quality
+
+of the plastic was reliable, identify a manufacturer that could adapt
+
+its facilities to produce the new textile on a large scale, and develop
+
+a market strategy positioning it as a premium product to support the
+
+higher price needed to cover the additional manufacturing costs. Today

@@ -1,11 +1,31 @@
-# from the process.
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d52a68e2063bda28568c96f6b65f95d49346d010
+title: H08M6G-PDF-ENG
+---
+# questions like:
 
-- 8. Model the behavior you want to see from your team.
+- Why do you feel that way?
 
-If you’re the leader of a team, remember that team members learn
+- Have you ever considered such and such? Would you consider another
 
-primarily from your modeling behavior, through observation and
+way to look at this?
 
-imitation. Positional power is both an asset and a liability. Be the ﬁrst
+- May I share my experience, which may be a little diﬀerent? • If I walk you through a diﬀerent approach, would you tell me what you think?
 
-mover in the generation of ideas and the last mover in the collision of
+Finally, always show good faith, and keep in mind how team members
+
+act around an individual who relishes their reputation as a contrarian.
+
+For example, in one traditional manufacturing organization we worked
+
+with, a highly experienced and overbearing individual took on the
+
+self-appointed role of devil’s advocate for any divergent idea that was
+
+suggested. Over time, colleagues and direct reports stopped generating ideas, but for diﬀerent reasons. Highly competent employees found the contrarian behavior oﬀ-putting and a frustrating waste of time. Newer
+
+and less-conﬁdent employees found the behavior intimidating and fear-
+
+inducing. In both cases, employees withdrew, removing themselves

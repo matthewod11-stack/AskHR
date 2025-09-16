@@ -1,11 +1,15 @@
-# Sociological Review, 42, 491-504.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: a2454c4d16cd835e672326946076842f02b64a68
+title: file_1
+---
+# 62
 
-Rosette, A. and L. Thompson, 2005. The camouflage effect: separating achieved status and unearned privilege in organizations. Research on Managing Groups and Teams, 7, 259-281.
+Rantalaiho, L. 1997. Contextualizing Gender. Gendered Practices in Working Life. In L. Rantalaiho and T. Heiskanen, eds, Gendered Practices in Working Life. London: Macmillan Press Ltd.
 
-Rubery, J., Grimshaw, D. and H. Figueiredo, 2005. How to close the gender pay gap in Europe: towards the gender mainstreaming of pay policy. Industrial Relations Journal, 36 (3), 184-213.
+Rantalaiho, L., Heiskanen, T. and P. Korvajärvi, 1997. Studying Gendered Practices. In L.
 
-Saari, M., 2011. Promoting gender equality without a gender perspective: Problem
+Rantalaiho and T. Heiskanen, eds, Gendered Practices in Working Life. London: Macmillan Press Ltd.
 
-representations of equal pay in Finland. Gender, Work and Organization, online version. DOI: 10.1111/j.1468-0432.2011.00554.x [Accessed 30 March 2012]
-
-Salimäki, A., 2009. Psychological Mechanisms Explaining Merit Pay Acceptance and
+Reskin, B., 2003. Including mechanisms in our models of ascriptive inequality. American

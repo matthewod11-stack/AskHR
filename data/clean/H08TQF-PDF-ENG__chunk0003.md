@@ -1,7 +1,15 @@
-## from general tasks to specialized professional domains.
+---
+source_path: H08TQF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0bd5e7c886affbc269bad0695bed6244f106f164
+title: H08TQF-PDF-ENG
+---
+# HBR Staff/Getty Images
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+The prevailing wisdom in artiﬁcial intelligence suggests that bigger
 
-1
+models yield better results. In our work for health insurance companies
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and third-party administrators of health plans, we’ve discovered that
+
+this assumption holds in many cases but breaks down when AI moves

@@ -1,7 +1,9 @@
-## lectual abilities. Intelligence, 8, 179–203.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b54f31201b685babcd5aac0035ab6619d361fa0e
+title: untitled
+---
+# New York: McGraw-Hill.
 
-Gustafsson, J. E. (1988). Hierarchical models of the structure of cognitive abilities. In R. J. Sternberg (Ed.), Advances in the psy- chology of human intelligence (Vol. 4, pp. 35–71). Hillsdale, NJ: Erlbaum.
-
-153
-
-154
+Gustafsson, J. E. (1984). Aunifying model for the structure of intel-

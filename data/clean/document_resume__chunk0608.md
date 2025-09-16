@@ -1,5 +1,7 @@
-## Performance Appraisal Situations With Inherent Communication Problems
-
-The performance appraisal interview is rife with Sallati'MS wfilch have potential for
-
-communication breakdown. These include the hierarchical nature of such events, 25 inherently evaluative aspek is of performance appraisal, multiple purposes of some appraisal interview s,26 influence of the environmental climate, including non-verbal aspects of performance appraisal linen s,2' Each of these special situations is dis- cussed below in terms of the unique communication problem(s) posed, together with suggestions for mitigating communication breakdown.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 158402598ff10318befc92e8021e064bde80ecd1
+title: document_resume
+---
+## Fig. 5.3. Factors Affecting the Flow of Messages Between Persons

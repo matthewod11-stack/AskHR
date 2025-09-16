@@ -1,11 +1,11 @@
-# References
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e6bec7bf4ca9b192b10e3eac9517727eda701a50
+title: untitled
+---
+## ing? Harvard Business Review, 36, 139–143.
 
-Kingsbury, F.A. (1923).Applying psychology to business. Annals of theAmericanAcademyofPoliticalandSocialSciences,110,2–12.
+Katzell, R. A. (1994). Contemporary meta-trends in industrial and organizational psychology. In H. C. Triandis, M. D. Dunnette, & L. M. Hough (Eds.), The handbook of industrial and organiza- tional psychology (2nd ed., Vol. 4, pp. 1–89). Palo Alto, CA: Consulting Psychologists Press.
 
-Klimoski, R. J. (1992, May). Revitalizing the interface between sci- ence and practice. Presidential address given at the 7th annual conference of the Society for Industrial and Organizational Psychology, Montreal, Quebec, Canada.
-
-Koppes, L. L. (1997). American female pioneers of industrial and organizational psychology during the early years. Journal of Applied Psychology, 82(4), 500–515.
-
-Koppes, L. L. (1999). Ideals of science: Persons behind the SIOP awards. Industrial-Organizational Psychologist, 36(4), 75–86.
-
-Koppes, L. L. (2000). A history of the SIOP administrative ofﬁce.
+Katzell, R. A., & Austin, J. T. (1992). From then to now: The devel- opment of industrial-organizational psychology in the United States. Journal of Applied Psychology, 77, 803–835.

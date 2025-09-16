@@ -1,15 +1,13 @@
-# naturally as breathing.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d85d6d3895a170f47bab11f6da72de89820c8353
+title: H07T7V-PDF-ENG
+---
+## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
 
-ADI IGNATIUS:
+Science is this inherently, deeply social, deeply argumentative process
 
-One of the examples in your book of geek culture triumphing is
+with a ground rule. Evidence is the queen here. That’s what we’re going
 
-Microsoft, and speciﬁcally when Satya Nadella came in and rekindled
-
-that early success and more. Talk a bit about what he got right,
-
-particularly in the framework that you’ve created.
-
-ANDREW MCAFEE:
-
-Can you think of a more impressive corporate turnaround story in living
+to follow. And a lot of the geek companies that I respect do that as

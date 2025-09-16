@@ -1,21 +1,13 @@
-# following:
+---
+source_path: H08R20-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d410434d4f68f4383182a240669f2326b058464d
+title: H08R20-PDF-ENG
+---
+## HBR / Digital Article / Great Leaders Make People Feel Noticed
 
-- Ask meaningful questions. Go beyond the greetings like “How are
+as mundane, it’s unlikely she would have had the details she needed to
 
-you?” or “How’s your day?” Ask questions that reveal the details of
+address their concerns.
 
-people’s lives and work. Your questions should be clear, open, and
-
-exploratory. For example, “What has your attention today?” or “What’s
-
-been most meaningful today?” or “What is challenging you right now?”
-
-Ask questions that allow for more than a “yes” or “no” response.
-
-Instead of, “Did the meeting go well?” you might ask, “What was
-
-most interesting to you in that meeting?” Finally, be exploratory, not
-
-evaluative. Instead of, “What’s the status on the project?” you might
-
-ask, “What’s been working well on that project? Any roadblocks I can
+To gather better information so you can truly see others, try the

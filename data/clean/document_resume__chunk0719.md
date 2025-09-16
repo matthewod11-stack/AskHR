@@ -1,17 +1,11 @@
-## Adapted from Sauser, A Comparative Evaluation,. pp. 216-217.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 3eecc0ab26834ed13127ae2060ff26b3c79db050
+title: document_resume
+---
+# Minimizing Rater Errors
 
-6.
+- 3. William I. Sauser, tr., A Comparative Evaluation if the Effects of Rater Participation and Rater Training on Chat acteristic.s if Employee Performance Appraisal Ratings and Related Mediating I atiables (Doctoral Dissertation). (Atlanta. Georgia Institute of Technology, 1978). pp. 16-20 Patricia C. Smith, "The Problem of Criteria," in Handbook of Industrial and Organizational Psychology,. ed. Mary in D. Mimetic. (Chicago. Rand McNally, 1976), pp. 757-758.
 
-Ronald Taft, "The Ability to Judge People," Ps.',( hological Bulletin 52
-
-(January 1955), p. 20
-
-- 7. Walter C Borman, "Indy, idual Differences Correlates of Accuracy in Evalu- ating Others' Performance Effectiveness," Apphtd Ps.v( ho/ogu a/ Measurement 3 (Winter 1979), pp. 103-115. 8.
-
-Kenneth N. Wexley and Richard Khmoski, "Performance Appraisal: An Update," in Managing Human Resources in Rf.tail Organizations, ed. Arthut F. Brief (Lexington,. MA: Lexington Books, 1984), p 34.
-
-- 9. William I. Sauser, Jr., "Evaluating Employee Performance. Needs, Problems, and Possible Solutions," Public Personnel Management 9 (January February 1980), pp, 1 1 . 1 8 .
-
-- 10. Wallace G. Lonergan, "Appraisal, Performance," in Handbook for Profes- sional Managers, eds. Lester R. Bittell and Jackson E. Ramsey (New York. McGraw- Hill, 1985), p. 33. 11.
-
-- 10. Wallace G. Lonergan, "Appraisal, Performance," in Handbook for Profes- sional Managers, eds. Lester R. Bittell and Jackson E. Ramsey (New York. McGraw- Hill, 1985), p. 33. Bernardin and Beatty, op. cit., p. 268.
+5.

@@ -1,29 +1,13 @@
-## HBR / Digital Article / When a Coworker You Don’t Like Becomes Your Boss
+---
+source_path: H08DIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3737cd8a940402907b63a7e122c8427cc0bde578
+title: H08DIY-PDF-ENG
+---
+## micromanagement, or, worse, demotion or dismissal.
 
-“Charles and I have worked together for 13 years and never seen eye-to-
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-eye,” she told me in a coaching session. “Now is his chance to get rid of
+1
 
-me.” She even considered preemptively looking for other jobs.
-
-Anika’s reaction was understandable. When a colleague you dislike or
-
-who dislikes you becomes your new leader, it’s natural to feel anxiety
-
-or despair, worry about the fallout, and think about leaving. After all,
-
-research shows that having a good relationship and reputation with
-
-your manager is critical to job satisfaction and engagement. Gallup
-
-Workplace Reports has repeatedly found that one of the most common
-
-reasons quit is because they don’t like their manager.
-
-But it’s important not to throw up your hands too quickly, especially if
-
-you genuinely enjoy your organization and your job. Instead, you need
-
-to use the transition as a catalyst for resetting the troubled relationship
-
-and ﬁgure out a better way to work together. Here’s how:
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

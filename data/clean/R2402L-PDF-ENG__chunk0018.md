@@ -1,17 +1,23 @@
-# Tools of the Trade
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f9f90fa160640553bef820a884f80448225dd350
+title: R2402L-PDF-ENG
+---
+## HBR / Magazine Article / Negotiate Like a Pro
 
-But how, exactly, can you prove to negotiating partners that you’re
+so that you can begin to exert inﬂuence and achieve cooperation or
 
-paying this level of attention to their logic, emotions, perspective,
+collaboration, which should be the outcome of all negotiations.
 
-and, ultimately, wants and needs so that they begin to see you as
+Some call this “active listening,” a term coined by the psychologist Carl
 
-a collaborator rather than an adversary? In my world we use the
+Rogers and his colleague Richard Farson to describe a process whereby
 
-mnemonic MORE PIES to remember the techniques for both ensuring
+we “get inside” the minds of our counterparts and truly grasp what
 
-and demonstrating level-ﬁve listening. This is not a box-ticking exercise
+they’re communicating. “More than that,” the two wrote in their 1957
 
-but a way to train your focus so that you’re better able to understand and
+book Active Listening, “we must convey to the speaker that we are
 
-empathize with your counterpart.
+seeing things from his point of view.”

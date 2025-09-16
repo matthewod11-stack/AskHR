@@ -1,7 +1,9 @@
-## Source: Towers Watson 2014 Managers and Stress Survey
+---
+source_path: people_strategy38.md
+pages: n/a-n/a
+chunk_id: e68b709b2f9a526ef03f3f25cf81e5b75aeee5a1
+title: people_strategy38
+---
+# Risk propensity
 
-Long-term-focused Think far ahead and pan to perform well in the future
-
-Innovative Are always looking for new solutions to problems
-
-Flexible Do things without worrying about set procedures or precedent
+Risk-avoiding Spend a lot of energy to avoid making mistakes

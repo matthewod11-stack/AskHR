@@ -1,27 +1,17 @@
-# The Employee Journey
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: b162c14d926fa5d64438e9ec14d5b7c7f6955320
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 22 | P a g e
 
-In chapter 2.3 author already described definition of employee experience as sum of
+don't have enough opportunities, don't have enough control over their goals, or are
 
-all an employee's interactions with an employer, from the time they are hired until they
+not making as much progress as they want. Motivation also has a direct effect on well-
 
-leave. It includes everything from major events and personal relationships to the use
+being because it helps people reach their goals. Well-being may be considered a main
 
-of technology and the physical work environment. Soren Smit in his book Mastering
+or secondary outcome of motivation, as well as a source or driver of motivation.
 
-Employee Experience defines Employee life cycle as “An employee journey (EJ) is
-
-the path an employee takes through an organization, from A to Z, that is, from the
-
-time they hear about the organization, get an interview, and are hired through their
-
-everyday lives as employees until they leave and become alumni.” (Smit, 2020, p. 34)
-
-He explains that during the employee journey there are +250 employee touchpoints,
-
-for example: first impression on an interview, lunch, or first day at a work. One
-
-subjourney can contain hundreds of small touchpoints. Smit also identified and
-
-described the high emotional value of touchpoints which are critical to the employee
-
-experience. He called
+2.5.

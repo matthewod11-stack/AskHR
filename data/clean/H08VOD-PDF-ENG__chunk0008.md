@@ -1,23 +1,21 @@
-## HBR / Digital Article / Should You Delegate That Decision? Ask These 4 Questions
+---
+source_path: H08VOD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 14e2d93bd23b4a7ce6b7ed8e5c5efc194ceeefe6
+title: H08VOD-PDF-ENG
+---
+## communication cadences, or handoﬀ points between teams. The people
 
-- 2. Is this a decision we’ve made before—and could it be routinized?
+doing the work often know best how to improve it.
 
-Pattern decisions—like approving discount requests, prioritizing bug
+Why it helps: This question shifts attention from hierarchy to insight.
 
-ﬁxes, or evaluating vendor proposals—repeat over time. You’ve likely
+It reminds leaders that proximity is a form of expertise, and honoring it
 
-seen the same issue before and already have guardrails in place.
+can yield faster, more grounded decisions.
 
-Someone else can use historical data or follow a clearly communicated
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-procedure to solve the problem.
+2
 
-Why it helps: This question reveals where you’re spending time on
-
-decisions that could be systematized. Once you deﬁne the criteria, you
-
-can create a checklist—and a handoﬀ opportunity.
-
-- 3. Whose perspective would lead to a better answer than mine?
-
-Sometimes, someone else can bring a unique lens, whether it’s lived
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

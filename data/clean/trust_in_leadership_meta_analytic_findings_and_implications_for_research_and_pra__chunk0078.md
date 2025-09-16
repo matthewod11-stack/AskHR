@@ -1,29 +1,27 @@
-# Correlates: Leader–member exchange
+---
+source_path: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra.md
+pages: n/a-n/a
+chunk_id: 0131bc6034af5ef359147a19956dfe757d18e6b3
+title: trust_in_leadership_meta_analytic_findings_and_implications_for_research_and_pra
+---
+# Qb
 
-7 (2,321) 12 (3,140) 5 (1,398) 3 (511)
+Hypothesized outcomes Job performance OCB—Altruism OCB—Civic virtue Intent to quit Job satisfaction Organizational commitment
 
-.49 .68 .64 .59
+5 (1,089) 4 (766) 3 (670) 8 (2,174) (cid:4).45 (cid:4).41 to (cid:4).48 .58 13 (1,196) .54 16 (3,061)
 
-.46 to .52 .66 to .69 .61 to .67 .53 to .64
+.05 to .17 .11 .19 .12 to .26 .01 (cid:4).06 to .08
 
-52.95** 88.90** 178.90** 40.58**
+.54 to .58 .52 to .57
 
-8 (1,370) 17 (2,735) 4 (763) 5 (672)
+7.07 8.12 4.53 36.41** 46.99** 119.24**
 
-.51 .54 .66 .76
+15 (4,457) .18 7 (2,912) .20 6 (3,301) .12 8 (1,658) (cid:4).35 (cid:4).30 to (cid:4).39 .51 19 (3,754) .46 23 (6,420)
 
-.48 to .56 .51 to .56 .62 to .69 .73 to .78
+.15 to .21 .16 to .23 .09 to .16
 
-52.18** 140.52** 86.91** 109.62**
+.49 to .53 .44 to .48
 
-0.69
+4.98* 79.82** 0.01 32.63** 19.86** 7.70** 25.50** 13.30** 313.45** 11.68** 176.73** 30.70**
 
-0.36
-
-65.34** 36.12**
-
-k (cid:1) number of samples; N (cid:1) total number of individuals in the samples; r (cid:1) mean weighted correlation; CI (cid:1) confidence interval; Qw (cid:1) chi-square
-
-Note. test for homogeneity within class; Qb (cid:1) chi-square test for homogeneity between classes; OCB (cid:1) organizational citizenship behavior. * p (cid:5) .05.
-
-** p (cid:5) .01.
+Hypothesized antecedents Distributive justice Procedural justice Interactional justice

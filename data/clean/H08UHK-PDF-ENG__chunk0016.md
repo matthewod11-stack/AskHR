@@ -1,9 +1,29 @@
-## HBR / Digital Article / It’s Time to Streamline How We Communicate at Work
+---
+source_path: H08UHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a58f6e48b371cbc80bb020ff3cbb862373d3d871
+title: H08UHK-PDF-ENG
+---
+# rate.
 
-to resetting the organizational norms. Without buy-in, less could still be more eﬀective, but more could be seen as better.
+However, brevity isn’t always the ideal approach. A team at the United
 
-. . .
+Nations that one of us (Todd) worked with encountered an unexpected
 
-Eﬀective communication isn’t just about writing less—it’s about making reading easier. But ease looks diﬀerent in diﬀerent settings. That’s why
+challenge: Reports were capped at 6,500 words, and most submissions
 
-teams should explicitly deﬁne their communication norms, ensuring
+predictably reached that limit. While a shorter, 3,000-word report might
+
+be more reader-friendly, it could also be perceived as the writer not
+
+doing a thorough job. In this case, the word limit unintentionally
+
+became a word-length expectation—reinforcing the idea that anything
+
+shorter was incomplete. This is why leaders must be publicly committed
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

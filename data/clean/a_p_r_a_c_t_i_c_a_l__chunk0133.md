@@ -1,5 +1,13 @@
-# Decentralized pattern
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 2a0db5821dba3c1769c8750b33c88a6ede5356a6
+title: a_p_r_a_c_t_i_c_a_l
+---
+## Declarative vs non-declarative graph(cid:157)
 
-In a decentralized pattern, agents can ‘hando(cid:31)’ work$ow execution to one another. Hando(cid:31)s are a one way transfer that allow an agent to delegate to another agent. In the Agents SDK, a hando(cid:31) is a type of tool, or function. If an agent calls a hando(cid:31) function, we immediately start execution on that new agent that was handed o(cid:31) to while also transferring the latest conversation state.4
+Some frameworks are declarative, requiring developers to explicitly de]ne every branch, loop, and conditional in the work[ow upfront through graphs consisting of nodes (agents) and edges (deterministic or dynamic handoYs). While bene]cial for visual clarity, this approach can quickly become cumbersome and challenging as work[ows grow more dynamic and complex, often necessitating the learning of specialized domain-speci]c languagesW
 
-This pattern involves using many agents on equal footing, where one agent can directly hand3 o(cid:31) control of the work$ow to another agent. This is optimal when you don’t need a single agent maintaining central control or synthesis—instead allowing each agent to take over execution and interact with the user as needed.
+In contrast, the Agents SDK adopts a more Zexible, code-\rst approach. Developers canŒ directly express workZow logic using familiar programming constructs without needing toŒ pre-de\ne the entire graph upfront, enabling more dynamic and adaptable agent orchestration.
+
+A practical guide to building agents

@@ -1,3 +1,7 @@
-# A Textbook of Industrial Psychology
-
-[4] D. I. Nelson, R. Y. Nelson, M. Concha-Barrientos, and M. Fingerhut, “The global burden Ind. Med., 2005, doi:
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: fcd41e8457febed5ba3302ad2dae1ccc6da07667
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# 97

@@ -1,7 +1,9 @@
-## the headphone jack on the iPhone or any smartphone. Because the
+---
+source_path: H08ONJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 824d9f82949543f8ea531d156ea9be0636b55b06
+title: H08ONJ-PDF-ENG
+---
+# process credit cards?
 
-headphone jack is a universal and open standard, Square didn’t need to
-
-partner with or pay Apple or Samsung for the use of their device. In this
-
-way, what could easily have been a costly element to build came at a
+That’s exactly what Square did. The Square Reader plugs straight into

@@ -1,11 +1,7 @@
-# Work samples
-
-.26 .26
-
-.43 .39
-
-32 54
-
-2,815 10,469
-
-Huff cutt et al. (2003) Roth et al. (2005)
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 0aadb19d7bf0bd4f0c8451d6f467c48911683d7c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Situational interviews

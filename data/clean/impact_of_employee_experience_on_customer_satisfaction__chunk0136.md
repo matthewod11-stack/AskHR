@@ -1,11 +1,17 @@
-## customer loyalty and, thus, sales performance (Barber, Hayday, & Bevan, 1999).
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 8360574dd2e90776a8343089954778eabe67bb76
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 26 | P a g e
 
-According to IES, customer happiness alone is insufficient to increase corporate
+definition refers to the psychological and emotional engagement employees have to
 
-success without also fostering customer loyalty. Over time, employee engagement
+their company, their tasks or activities, and their colleagues. The rise of engagement
 
-became the most important measurement metric with the rise of importance of
+started in 1990’s, first appearing in an academic journal published by the Institute of
 
-tracking the whole employee life cycle from recruiting, onboarding, retaining, until
+Employment Studies (IES) in article “From People to Profits, the HR link to the service-
 
-exiting the company. A new aspect of measurement had to be added for employee
+profit chain” which demonstrates how employee behavior and attitude can improve

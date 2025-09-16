@@ -1,13 +1,29 @@
-# a pathway to happiness.
+---
+source_path: R2304N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d31289aa49cbe6a0dfcee272c47706f2c8286ae
+title: R2304N-PDF-ENG
+---
+## And yet, amid so much admiration for the power of words, the
 
-Lyons helped me pinpoint another thing I love about my tap class—it’s
+screenwriter and journalist Dan Lyons reminds us in STFU that
 
-60 minutes a week when I can let my shoes do the talking.
+sometimes our best move is to stop using them. When you sit back
 
-A version of this article appeared in the July–August 2023 issue of Harvard Business Review.
+and let people talk, he explains, you get more and better information.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Listening is a leadership superpower.
 
-4
+Lyons’s book brims with speciﬁc suggestions for how to shut oﬀ—on
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+social media, at work, at home, in love. We can delete apps from our
+
+phone, keep meetings small and short, stop nagging about chores, and
+
+pause and breathe before saying something that we’ll regret. “All of us,
+
+not just overtalkers, stand to gain by speaking less, listening more, and
+
+communicating with intention,” Lyons writes. We can appreciate words
+
+and language but realize that our sparing and intentional use of them is

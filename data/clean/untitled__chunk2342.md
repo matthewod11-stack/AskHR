@@ -1,3 +1,9 @@
-# Educational Psychology
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: aca3c5561b048b68ce4e1794e282e4a7accb90d9
+title: untitled
+---
+# Child Study Movement
 
-Hall’s efforts and those of other psychologists of the period (e.g., E. L. Thorndike) fostered the emergence of educational psychology as a major ﬁeld of psychological application. Educational psychology built upon the normative notions of child study and sought to provide educators broader under- standing of how children learn, how curricula could be more efﬁciently arranged, and how schools could be better orga- nized. Educational psychology also served to sensitize edu- cators and parents to the contributions that psychology could make in the mass education movement (see e.g., Cubberly, 1909; Thorndike, 1912).
+Another potent factor in the origin of school psychological services was the child study movement. Inﬂuenced primarily by G. Stanley Hall, this movement served to sensitize parents and teachers to the importance of childhood and to the knowledge gained about children from research through observational and questionnaire methods. Hall was interested primarily in the normative aspects of the development of nor- mal children and youth. By the beginning of the twentieth century, he had supervised or conducted dozens of normative research studies that helped to deﬁne the typical or normal child. The child study movement had chapters in several states, and conventions were held on child study topics. Hall founded several professional journals and is credited with founding the American Psychological Association (APA) in 1892 (Ross, 1972).

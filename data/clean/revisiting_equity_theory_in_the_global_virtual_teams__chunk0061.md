@@ -1,5 +1,13 @@
-## groups”, Academy of Management Proceedings, Vol. 2003 No. 1, pp. A1-A6.
+---
+source_path: revisiting_equity_theory_in_the_global_virtual_teams.md
+pages: n/a-n/a
+chunk_id: 51e7e9e82676dd9884bd5a6d253c24cf500227a8
+title: revisiting_equity_theory_in_the_global_virtual_teams
+---
+## (Ed.), TheoryHub Book, available at: http://open.ncl.ac.uk/ISBN:9781739604400
 
-Deutsch, M. (1975), “Equity, equality, and need: what determines which value will be used as the
+Davaei, M., Gunkel, M., Veglio, V. and Taras, V. (2022), “The influence of cultural intelligence and emotional intelligence on conflict occurrence and performance in global virtual teams”, Journal of International Management, Vol. 28 No. 4, p. 100969.
 
-basis of distributive justice?” Journal of Social Issues, Vol. 31 No. 3, pp. 137-149.
+Davison, H.K. and Bing, M.N. (2008), “The multidimensionality of the equity sensitivity construct: integrating separate benevolence and entitlement dimensions for enhanced construct measurement”, Journal of Managerial Issues, Vol. 20 No. 1, pp. 131-150.
+
+Dawson, J.F. (2003), “Do We have enough? The accuracy of incomplete data from small

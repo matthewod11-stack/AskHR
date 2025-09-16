@@ -1,13 +1,13 @@
-## products group, the information appliances division, and the server
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5010bbef8e89374ffd22e3e05119f8b65ff07e53
+title: R2006F-PDF-ENG
+---
+## HBR / Magazine Article / How Apple Is Organized for Innovation
 
-products division, among others. As is often the case with decentralized
+When Jobs arrived back at Apple, it had a conventional structure for a
 
-business units, managers were inclined to ﬁght with one another, over
+company of its size and scope. It was divided into business units, each
 
-transfer prices in particular. Believing that conventional management
-
-had stiﬂed innovation, Jobs, in his ﬁrst year returning as CEO, laid oﬀ
-
-the general managers of all the business units (in a single day), put the
-
-entire company under one P&L, and combined the disparate functional
+with its own P&L responsibilities. General managers ran the Macintosh

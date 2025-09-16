@@ -1,13 +1,19 @@
-## emotions, such as fear, shame, and guilt (although sometimes the threat
+---
+source_path: H08MIG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 48eb684bd77939bd8b53099a4bfb2347941c6dea
+title: H08MIG-PDF-ENG
+---
+# HBR / Digital Article / Research: When Is Leniency the Right Response to Employee M…
 
-to self-preservation can activate anger as a defensive way of coping).
+of leniency and avoid the negatives. Crucially, managers should start by
 
-When given leniency, though, these employees likely feel gratitude for
+analyzing various factors associated with the event before acting.
 
-their manager’s kindness.
+- 1. Anticipate the presence of big emotions.
 
-For managers, our research suggests that anticipating the pride and
+Misconduct events are emotional — for managers, the oﬀender, and
 
-guilt they may experience as a consequence of their leniency is critical
+other employees. Managers should be ready to understand their
 
-because each have a strong and unique impact on their engagement
+own and others’ emotions. Oﬀenders may feel self-focused negative

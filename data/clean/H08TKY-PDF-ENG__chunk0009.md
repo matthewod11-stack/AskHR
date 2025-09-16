@@ -1,7 +1,17 @@
-## performance in several areas simultaneously:
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f3ea77f83bd682ea8b40676adb1b9dc1a26793c
+title: H08TKY-PDF-ENG
+---
+## Go deeper: “Growth Outside the Core,” by Chris Zook and James Allen
 
-- Customer perspective: How do customers see us?
+(2003)
 
-- Internal perspective: What must we excel at?
+[ B ]
 
-- Innovation and learning perspective: Can we continue to improve and
+Balanced scorecard: A set of measures that gives top managers a fast
+
+but comprehensive view of the business. The scorecard includes four
+
+perspectives and corresponding questions, allowing managers to view

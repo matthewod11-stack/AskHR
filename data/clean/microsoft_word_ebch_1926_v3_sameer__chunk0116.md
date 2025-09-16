@@ -1,1 +1,9 @@
-# 24
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: ba676aa32ea9bc498d0220ee8b393c73ba37fb4c
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# Methods of Training and Development
+
+The basic goal of the various training and development techniques is to guide learners' growth in terms of knowledge, information, skills, and attitudes. These techniques' principal goal is to effectively direct the workers so they can carry out their job tasks. Most of the time, many training approaches are integrated during the programmes. The methods chosen depend on the learning objectives, the size of the target audience, the learners' learning preferences, the course material, the length of the training programme, and the learners' capacity and interest. On-the-job training and off-the-job training are two different sorts of training and development techniques. On-the-job training refers to education or training received while working. On-the-job training includes mentoring, job rotation, understudy, and multiple management as methods. The individuals receiving off-the-job training are located outside of the workplace. Case method, incident method, role playing, in basket method, business game, sensitivity training, simulation, grid training, conferences, and lectures are a few of them.

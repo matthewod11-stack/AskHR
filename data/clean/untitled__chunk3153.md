@@ -1,1 +1,7 @@
-# active/passive (Aristotle’s distinction), 113 architectures of cognition, 127–128 biological psychology, 47–48
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 511e190ab773efda0d82b835aa48d2d2edde86e4
+title: untitled
+---
+## Millon Clinical Multiaxial Inventory (MCMI), 285 Mind:

@@ -1,15 +1,13 @@
-# and inclusion in global teamwork.
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77a9a1241c789c1448c7d61a7fa30cb76e1b5900
+title: H08GNF-PDF-ENG
+---
+## Result: Through effective communication and cultural
 
-(Takeaway): Most conﬂicts result from a lack of understanding
+understanding, I successfully resolved the conﬂict and helped the
 
-regarding another person’s perspective. But when you add cultural
+team regain momentum quickly. The project was completed on time
 
-differences that are also not understood, it throws in an added layer
-
-of complexity. The unique value I would bring to your company is
-
-that I not only speak multiple languages, but I have immersed myself
-
-in those cultures and understand cultural nuances, which gives me
-
-the ability to resolve conﬂict quickly and drive successful outcomes in
+and within budget, while also demonstrating the value of diversity

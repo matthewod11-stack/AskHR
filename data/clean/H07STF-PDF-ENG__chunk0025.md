@@ -1,59 +1,37 @@
-## HBR / Digital Article / How to Think Strategically About a Career Transition
+---
+source_path: H07STF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f427eac72f1948cb6da5da6c7639cb5327c04e5e
+title: H07STF-PDF-ENG
+---
+# of concern.
 
-which is how it’s used. Is the organization able to use it? Are people
+Are you thinking about this, how this changes or accelerates everything
 
-able to adapt and make the most of it? All of those things remain to be
-
-seen. But certainly, it is worth experimenting with, keeping an eye on it,
-
-studying, asking the good questions.
-
-ADI IGNATIUS:
-
-So here’s a question related to technology. This is from Bhaskaran in
-
-Bangalore. Bhaskaran says that after working for 21 years in HR they
-
-decided to move to a smaller organization, expecting it to be nimble,
-
-agile and all that. It turned out to be highly toxic. Bhaskaran longs for
-
-a new role and organization, but has this constant fear of uncertainty.
-
-How does one deal with this inevitable fear of uncertainty when one is
-
-thinking about making a move?
+you’re thinking about?
 
 HERMINIA IBARRA:
 
-Completely understandable. Unfortunately, often the process of making
+We’re thinking about it as an institution at London Business School. I’m
 
-a career change can be one step forward, two steps back. Now you’ve
+trying to use it as much as I can. I’m interested in how it’s changing
 
-learned something, and I think part of what you’ve learned is that you
+people’s jobs.
 
-need to really research much more carefully the context you’re going
+From my perspective, what I’m interested in is how it’s going
 
-to, and get a ﬂavor of them as much as you possibly can. Now you’ve
+to transform how people work together. Who does what? What
 
-learned to inquire much more about culture, to talk to the people, to
+organizations emerge? We don’t know the answers to those questions.
 
-research the organization. All of that is really important.
+We know we need to be asking big questions about alignment with
 
-It’s one of the reasons why, in studies I’ve done, oftentimes the
+values. We know, from the whole wave of digital transformation, that
 
-uncertainty of “I don’t know what I want, I don’t know how long this
-
-is going to take,” starts to get at people. And then all of a sudden an
-
-option comes up, an oﬀer, with this smaller, more nimble ﬁrm, and it’s
-
-the savior. So they take it, because otherwise they’re still in the throes of
-
-“What am I going to do?”, without researching it as much as they might.
+there’s the technological part, but then there’s the whole other part,
 
 Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-10
+9
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

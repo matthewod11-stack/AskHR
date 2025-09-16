@@ -1,17 +1,11 @@
-# our activities
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: eab13f6a91f09b189800ec61d37fc0320f9b4022
+title: internship_report
+---
+# We will:
 
-- Continuously improve our performance to achieve our objectives
+- Comply with all applicable legal, regulatory, internal and industry requirements
 
-- Share our knowledge and experience in safety, health and care for the environment
-
-- Show our accountability for our performance by regularly measuring, reviewing and reporting
-
-- Require our contractors and partners to manage in line with this policy
-
-- Expect our clients and suppliers to cooperate actively in achieving our objectives
-
-- Provide training, standards, equipment and support to ensure compliance with this policy
-
-- Maintain open communication with our local communities and stakeholders
-
-This policy is a key part of Karnaphuli‟s overall strategy and is reviewed on a regular basis by
+- Pro-actively identify, eliminate or minimize potential sources of harm or risk arising from all

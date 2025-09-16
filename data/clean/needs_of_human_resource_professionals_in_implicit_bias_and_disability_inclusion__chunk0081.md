@@ -1,3 +1,9 @@
-# Bezyak et al.
+---
+source_path: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion.md
+pages: n/a-n/a
+chunk_id: c2ee106380bc1bd9e0b22ea75c54f9ac9eb675fd
+title: needs_of_human_resource_professionals_in_implicit_bias_and_disability_inclusion
+---
+# A u t h o r
 
-developed with the needs and preferences of HR professionals as a guiding framework. In order to more effectively increase awareness of implicit bias and reduce the impact of stigma on employment opportunities for people with disabilities, training interventions must be developed with careful attention to the findings from the current study. Sharing evidence regarding implicit and explicit bias, along with current information on disability inclusion, while using varied instructional strategies may lead to a reduction in disability-related stigma and discrimination in the workplace.
+M a n u s c r i p t

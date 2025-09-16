@@ -1,13 +1,17 @@
-## performance assessment, and team cohesion.
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17c056d6df031a0017d70d3c0b45d6f958fe50b7
+title: H08N0B-PDF-ENG
+---
+# informal relationships remotely.
 
-- Provide targeted, hands-on training. Oﬀer structured programs
+To understand what your managers may (or may not) know, and areas
 
-like Pinterest’s “Manager Kickstart,” with practical workshops on
+they struggle with:
 
-coaching remote employees, fostering engagement, and setting clear
+- Assess current management gaps. Conduct surveys or structured
 
-performance expectations. Pair training with real-world case studies
+interviews with managers and employees to identify challenges
 
-and peer learning.
-
-- Measure and evaluate leadership eﬀectiveness. Track key
+in leading remote and hybrid teams—focusing on communication,

@@ -1,1 +1,23 @@
-## Chapter 6 • Gathering Performance Information
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 42979baf3fd5f7c185869391994670ca456c4c3d
+title: performance_management_3rd_edition_by_aguinis
+---
+# Part II • System Implementation
+
+Michael Dell himself, every six months, using “Tell Dell” surveys. Michael Dell said, “If you are a manager and you’re not addressing [employee] issues, you’re not going to get compensation. And if you consistently score in the bottom rungs of the surveys, we’re going to look at you and say ‘Maybe this isn’t the right job for you.’ ”24
+
+The intended purpose of the evaluation provided by subordinates has an impact on the accuracy of the information provided. Overall, performance informa- tion provided by subordinates is more accurate when the resulting ratings are to be used for developmental purposes rather than administrative purposes. When evaluation data are intended for administrative purposes (i.e., whether the manager should be promoted), subordinates are likely to inflate their ratings.25 Most likely, this is because subordinates may fear retaliation if they provide low performance scores. Confidentiality is key if subordinates are to be used as a source of perform- ance information.
+
+6.5.4 Self
+
+As discussed earlier, self-appraisals are an important component of any performance management system. When employees are given the opportunity to participate in the performance management process, their acceptance of the resulting decision is likely to increase, and their defensiveness during the appraisal interview is likely to decrease. An additional advantage associated with self-appraisals is that the employee is in a good position to keep track of activities during the review period, whereas a supervisor may have to keep track of the performance of several employees. On the other hand, self- appraisals should not be used as the sole source of information in making administrative decisions because they are more lenient and biased than are ratings provided by other sources such as a direct supervisor.26,27 This may explain why the vast majority of Fortune 500 companies do not include self-appraisals as part of their performance management systems.28 Fortunately, self-ratings tend to be less lenient when they are used for developmental as opposed to administrative purposes. In addition, the follow- ing suggestions may improve the quality of self-appraisals:
+
+- Use comparative as opposed to absolute measurement systems. For example, instead of asking individuals to rate themselves using a scale ranging from “poor” to “excellent,” provide a relative scale that allows them to compare their performance with that of others (e.g., “below average,” “average,” “above average”). Other options in terms of comparative systems were discussed in Chapter 5.
+
+- Allow employees to practice their self-rating skills. Provide multiple opportunities for self-appraisal because the skill of self-evaluation may well be one that im- proves with practice.
+
+- Assure confidentiality. Provide reassurance that performance information collected from oneself will not be disseminated and shared with any one other than the direct supervisor and other relevant parties (e.g., members of the same work group).
+
+- Emphasize the future. The developmental plan section of the form should receive substantial attention. The employee should indicate his plans for future develop- ment and accomplishments.

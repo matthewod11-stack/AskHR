@@ -1,11 +1,11 @@
-# shift recommendations among a range of
+---
+source_path: R2501K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1ac605d1338b8b63a9f1a368bbcb42f919c1c1ad
+title: R2501K-PDF-ENG
+---
+## Oliver, the head of sales at a large European
 
-oﬀerings when selling to client doctors,
+medical-device provider, wanted his
 
-hospitals, and patients. His goal was to
-
-adapt to price and availability changes,
-
-supporting the company’s proﬁts while
-
-ensuring top-notch care. Transitioning
+hundreds of reps to be able to more quickly

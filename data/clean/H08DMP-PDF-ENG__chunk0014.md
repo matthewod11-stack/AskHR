@@ -1,21 +1,21 @@
-# hybrid policies.
+---
+source_path: H08DMP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0198fa8825d568fb2f7f9f16a890196437c6d142
+title: H08DMP-PDF-ENG
+---
+# HBR / Digital Article / One Company A/B Tested Hybrid Work. Here’s What They Foun…
 
-Finally, Trip.com’s CEO and the full executive suite are supportive of
+Second, in Trip.com’s approach to hybrid work, employees have a clear,
 
-a hybrid policy. As common in many modern management practices,
+coordinated schedule of when their team will be in the oﬃce together.
 
-from lean manufacturing to organizational agility, having leadership
+This prevents the frustration of coming into an empty oﬃce only to
 
-buy-in is critical to support a successful strategy.
+participate in Zoom calls they could have easily done from home.
 
-“At Trip.com Group, we are dedicated to unlocking the full potential
+Trip.com enables all employees to work from home on Wednesdays and
 
-of our employees,” said Jane Sun, CEO of Trip.com Group, the parent
+Fridays. Other businesses might choose to set their in-oﬃce days at the
 
-company listed on NASDAQ. “Our hybrid work model, reﬁned over a
-
-decade of innovation and experimentation, is designed to support both
-
-personal and professional excellence. We remain committed to fostering
-
-an environment where everyone can thrive.”
+team or company level, but schedule clarity is critical for successful

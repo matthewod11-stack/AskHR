@@ -1,17 +1,17 @@
-## HBR / Digital Article / When You’re Asked to Meet Impossible Goals
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 673cd818c7690268f796b70e86b87f0b7af8cabe
+title: H08PKP-PDF-ENG
+---
+# The Strategic Refusal Matrix
 
-structured way to assess whether to commit to, renegotiate, deprioritize,
+Prioritizing work under competing demands can be diﬃcult, especially
 
-or decline a request based on both strategic importance (i.e., how
-
-critical is this initiative to long-term business success?) and execution
-
-feasibility (i.e., do we have the capacity, resources, and timeline to execute eﬀectively?).
-
-See more HBR charts in Data & Visuals on HBR.org.
+when pushing back feels risky. The strategic refusal matrix provides a
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-3
+2
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

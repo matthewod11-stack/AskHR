@@ -1,7 +1,11 @@
-## Melton, G., Koocher, G., & Saks, M. (Eds.). (1983). Children’s com-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 558cc91bccfabc76d6f15f050aa08063e8c72882
+title: untitled
+---
+# court. American Psychologist, 11, 8–13.
 
-petence to consent. New York: Plenum Press.
+Mechem, P. (1936). The jurisprudence of despair. Iowa Law Review,
 
-Melton, G., Petrila, J., Poythress, N., & Slobogin, C. (1987). Psychological evaluations for the courts. New York: Guilford Press.
-
-Monahan, J. (1981). Predicting violent behavior: An assessment of
+21, 669–692.

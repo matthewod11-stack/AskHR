@@ -1,9 +1,23 @@
-## In two studies—one with 102 innovation teams in a Fortune Global
+---
+source_path: H08T7B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bdd485739ac637d099e68a5670edf4850689becc
+title: H08T7B-PDF-ENG
+---
+## HBR / Digital Article / New Research on the Link Between Learning and Innovation
 
-500 company and another with 61 MBA project teams—we found that
+actionable knowledge. Just as sleep helps consolidate daily experiences
 
-all combinations of team learning were not equally eﬀective. When
+into long-term memory, structured reﬂection allows teams to integrate
 
-teams paired reﬂexive learning with vicarious learning, performance
+insights gained during exploration phases into strategies and plans.
 
-improved. But when teams mixed reﬂexive learning with more
+Without these deliberate rhythms, teams risk becoming overwhelmed
+
+by continual information intake—akin to endlessly inhaling without
+
+pausing to exhale—leading to confusion and burnout. By intentionally
+
+embedding reﬂective pauses within structured learning cycles, teams
+
+can harness their full innovative potential.

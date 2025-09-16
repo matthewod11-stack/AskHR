@@ -1,19 +1,7 @@
-# drive evolution across large teams.
-
-- Provide stretch assignments: Give potential successors
-
-opportunities to lead major initiatives or manage critical accounts to
-
-build their skills and visibility. Consider their involvement in M&A
-
-integration, launching new products or markets, sponsoring major
-
-enablement initiatives, or deeply partnering with external consulting
-
-workstreams to gain such experiences quickly.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8dce2f151ef032c5b98c39660fb45bbed9491f89
+title: H08FE6-PDF-ENG
+---
+## thinking, operational clarity, and the change management skills to

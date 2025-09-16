@@ -1,3 +1,11 @@
-## Basso-Machado e Benevides-Pereira (2013) demonstraram em sua revisão teórica
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 8bd9e80b40bfc1c3bb7a7a6f19273c8e98007499
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# cognitivo (absorção).
 
-que o Brasil ainda apresenta pesquisas incipientes sobre o tema, e reforçaram a
+17
+
+Sobre o panorama nacional de pesquisas na área, Porto-Martins,

@@ -1,17 +1,15 @@
-## health situation; or any number of other sources of acute stress. The
+---
+source_path: H08LQ5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4385e54aafdd4e17d2c27aed77e07411c61fdc8e
+title: H08LQ5-PDF-ENG
+---
+## HBR / The Big Idea / Everyone Deserves a Season to Step Back
 
-catalyst could also be an opportunity rather than a crisis: starring in a
+Often this framework is suﬃcient. But there are plenty of times that
 
-play, for instance, or competing in an athletic tournament. In all these
+it falls short: when a ﬁrst-time parent returns from leave and is still
 
-cases, a brief adjusted work schedule could be invaluable.
+adjusting to new family rhythms; when an adult child suddenly must
 
-My work, inspired by my professor and mentor, the late Clayton
-
-Christensen, focuses on how to answer his question, “How will you
-
-measure your life?” It recognizes that our time and energy are always
-
-being allocated and adjusted across work, creative projects, family time,
-
-community, health, and spiritual commitments — a mix of purposefully
+assume eldercare responsibilities; when an individual faces a legal or

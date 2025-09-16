@@ -1,29 +1,27 @@
-## HBR / Digital Article / Is Your Hybrid Team Losing Steam?
+---
+source_path: H07M52-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32deafdb9497c3a5c73e7652bdff774b7dca5ee1
+title: H07M52-PDF-ENG
+---
+# generate energy:
 
-your own purpose something you force onto others (or even politely
+Co-create a sense of meaning — don’t force your own vision. People
 
-impose on them); this kind of egotistical or self-serving behavior is one
+often get caught up in the minutiae of their ﬁelds or customer
 
-of the biggest energy drains our survey respondents identiﬁed, whereas
+engagements, but adopting a bigger-picture view of how they’re helping
 
-co-creation is respectful and empowering.
+clients, patients, or other stakeholders has measurable and lasting
 
-Elevate others’ dignity and worth — not just their utility. Leaders need
+eﬀects on motivation and performance. Leaders trying to increase
 
-to treat their people as multifaceted individuals who are integral to the
+a group’s energy should work with employees to unearth these
 
-company’s success. Acknowledging their special attributes can ﬁll them
+connections between their work and a greater purpose. Don’t make
 
-with a deeper sense of value and determination. As one survey taker
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-noted, these leaders “ask how you are with a smile, listen to what you
+5
 
-have to say, and make eye contact.”
-
-The opposite behavior is using employees as a mere means to an
-
-end, which can be a bigger trap in a remote context — where email, eﬃciency, and the quantity of output tend to be overemphasized.
-
-Focus on momentum — not only the end goal. As shown by Teresa
-
-Amabile’s research, frequent progress in one’s work boosts positive
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

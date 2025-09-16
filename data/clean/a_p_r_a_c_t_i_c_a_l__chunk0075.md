@@ -1,7 +1,21 @@
-# Manager pattern
+---
+source_path: a_p_r_a_c_t_i_c_a_l.md
+pages: n/a-n/a
+chunk_id: 2c912ca250609bda7186f634029825691bbad4c8
+title: a_p_r_a_c_t_i_c_a_l
+---
+# Manager (agents as tools)
 
-The manager pattern empowers a central LLM—the “manager”—to orchestrate a network of specialized agents seamlessly through tool calls. Instead of losing context or control, the manager intelligently delegates tasks to the right agent at the right time, e(cid:12)ortlessly synthesizing the results into a cohesive interaction. This ensures a smooth, uni(cid:10)ed user experience, with specialized capabilities always available on-demand(cid:15)
+A central “manager” agent coordinates multiple specialized agents via tool calls, each handling a speci(cid:19)c task or domain.
 
-This pattern is ideal for work(cid:11)ows where you only want one agent to control work(cid:11)ow execution and have access to the user.
+Decentralized (agents handing oT to agents)
 
-Translate ‘hello’ to Spanish, French and Italian for me!
+Multiple agents operate as peers, handing os tasks to one another based on their specializations.
+
+Multi-agent systems can be modeled as graphs, with agents represented as nodes. In the manager pattern, edges represent tool calls whereas in the decentralized pattern, edges represent handoss that transfer execution between agents(cid:143)
+
+Regardless of the orchestration pattern, the same principles apply: keep components (cid:17)exible, composable, and driven by clear, well-structured prompts.
+
+17
+
+A practical guide to building agents

@@ -1,5 +1,11 @@
-## When Good PO Fit Is Bad and Bad PO Fit Is Good
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 64a8d1100afd150197aedccf4157cb5d6fce0d43
+title: barrickryan_eds_personality_and_work
+---
+## PERSONALITY IN PERSON-ORGANIZATION FIT RESEARCH 271
 
-Juan recalls his short tenure at XYZ Inc. as an unpleasant time but a valu- able experience. Juan naturally strives to get along with others, so he was surprised to ﬁnd himself in a workplace where criticism, backbiting, and overt hostility were the substance of interpersonal interactions. Juan was glad to leave XYZ, though he notes that he learned a lot about dealing with difﬁcult coworkers. He says that now he can more quickly spot what the difﬁculties will be in working with a particular client and has devel- oped strategies for more effectively handling disagreeable clients.
+et al. (2001) assessed the team’s extraversion by using the average of team members minus the person whose ﬁt was being assessed. However, results by Barrick et al. (1998) suggest additional ways in which team personality may be modeled. They described three methods of operationalizing team personality composition: mean score for the group, variability (variance, proportion of members possessing a particular trait), and minimum and maximum scores on a trait. Whether these methods could be applied to the assess- ment of PG or even PO ﬁt with any meaning is another question worth pursuing.
 
-Schneider, Smith, and Goldstein (2000) argued that traditional PE ﬁt theory argues for positive, individual-level outcomes (higher job satisfaction, lower turnover, greater commitment) from good ﬁt, but that the attraction-selection-attrition (ASA) model suggests neg- ative, organizational-level outcomes from good ﬁt (for example,
+One ﬁnal issue is that the question of whether personality- based PO ﬁt matters may be too simplistic. Given our knowledge of the usefulness of certain personality traits as predictors of per- formance, we could ask whether any organization cares about ﬁt on conscientiousness and emotional stability; instead, ﬁrms want to hire individuals high on these traits regardless of the current lev- els in the workforce. However, PO ﬁt on these two traits will still matter for outcomes such as satisfaction, as the highly conscien- tious individual will be less satisﬁed when there is low ﬁt. Thus, it is overly simplistic to talk about PO ﬁt on personality affecting out- comes. We must consider what traits we are talking about and what outcomes we are hoping to predict. We expand on this more fully in the next section.

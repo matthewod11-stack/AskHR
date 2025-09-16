@@ -1,7 +1,11 @@
-## banking-and-credit-management-of-the-city-bank-ltd/
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 8d8754358fc2dcaf12ad71a5e0558055b2bed447
+title: an_overview_of_performance_management_policy_pmp_and
+---
+## profiles.the_city_bank_limited.2dba0acb3f07067cba0c682d1a46d261.html
 
-- (cid:32) Home / Policy Library. (2021). Retrieved from https://policies.scu.edu.au/
+- (cid:32) General Banking and Credit Management” of The City Bank Ltd | Educarnival.
 
-- (cid:32) Our History. (2021). Retrieved from https://www.thecitybank.com/our-history
-
-- (cid:32) Performance Management For Banking and Financial Sector. (2021). Retrieved 17
+(2012). Retrieved 31 December 2020, from https://www.educarnival.com/general-

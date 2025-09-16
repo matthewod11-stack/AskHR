@@ -1,7 +1,11 @@
-# course or instructor.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: b61aec009e1ccde603240b3f2a0dc1438e8bec0b
+title: document_resume
+---
+# 2 Marginal
 
-- 5. Pre and Post Clinical Conferences (Nursing)
+Generally follows established procedures in process of evalu- ation. Fails to utilize the results of students' responses.
 
-Conducts pre and post conferences to prepare students for clinical experiences and to evaluate the day's activities.
-
-5 Exceptional Assumes the role of a group leader in conducting pre and post conferences. Uses creative strategies for gaining students' atten- tion. Promotes an understanding of important concepts. Demon- strates exceptional ability to inspire creative thinking among students. Expectations include a sophisticated level of active student participation. Facilitates students to integrate subject matter knowledge and theory into practical application. Students look forward to conferences anti eagerly participate.
+1 Unacceptable Fails to follow established procedures for students to evaluate

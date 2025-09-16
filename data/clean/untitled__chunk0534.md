@@ -1,5 +1,11 @@
-# Scituate, MA: Duxbury.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a67b43a51f94cf82f748233137e606d70b430186
+title: untitled
+---
+# 82 Comparative Psychology
 
-Darwin, C. (1859). On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life. London: John Murray.
+The latest on the best: Essays on evolution and optimality (pp. 277–306). Cambridge, MA: MIT Press.
 
-Darwin, C. (1871). The descent of man and selection in relation to
+Daly, M., & Wilson, M. (1978). Sex, evolution, and behavior. North

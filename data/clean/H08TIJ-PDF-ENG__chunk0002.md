@@ -1,7 +1,7 @@
-# HBR Staff Using AI
-
-Sven, a sales leader, received a call from a major customer who was
-
-furious. Their order arrived late, the product was damaged, and to top
-
-it oﬀ, their invoice didn’t reﬂect the volume discount promised in the
+---
+source_path: H08TIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63a07d9e442fe7a70efc53e3246cdd03c029db5a
+title: H08TIJ-PDF-ENG
+---
+## Published on HBR.org / July 14, 2025 / Reprint H08TIJ

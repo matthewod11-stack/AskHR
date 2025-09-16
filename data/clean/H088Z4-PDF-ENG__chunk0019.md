@@ -1,13 +1,19 @@
-## the act of transparency signals something beyond the particulars of
+---
+source_path: H088Z4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45ea74957ec2ee6603b0b1bb7cb38c8294592274
+title: H088Z4-PDF-ENG
+---
+## works in the context of interpersonal relationship building. We
 
-numerical representation. It signals that the organization is genuinely
+know from decades of research that when people disclose personal
 
-committed to the goal of advancing diversity because they are willing to
+information, they are more apt to be liked and trusted. One reason for
 
-be honest about their current standing, even if its risky to do so.
+this is that when we disclose sensitive information that exposes our
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+vulnerabilities, we communicate something more profound than the
 
-3
+content of the information itself — that we are willing to be genuine
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+even if means taking a risk. In the case of lagging diversity numbers,

@@ -1,13 +1,13 @@
-## HBR / Digital Article / How AI Is Helping Companies Redesign Processes
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7b8e947144fcc629c1125c6c1085470140c2ad1e
+title: H07IG2-PDF-ENG
+---
+## cash and conception to commercialization of new products.
 
-But while technology did bring major updates, implementations often
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-failed to live up to the sky-high expectations. For example, large-scale
+1
 
-ERP systems like SAP or Oracle provided a useful IT backbone to
-
-exchange data, yet also created very rigid processes that were hard to
-
-change past the IT implementation. Since then, process management
-
-typically involved only incremental change to local processes — Lean
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,25 +1,13 @@
-## many high-performing women who over the long term — if properly
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ca1782aaa3213bba280119cff80967be45398c5
+title: H080JA-PDF-ENG
+---
+## HBR / Digital Article / It’s Time to Redefine Our Gendered Idea of “Ambition”
 
-supported by a ﬂexible growth mindset — have vital skills and
+For far too long, women have had no choice but to submit to this
 
-experience to oﬀer the organizations they serve. These women are
+male blueprint. But smart companies and managers today recognize
 
-ambitious. They want to advance their careers along a ﬂexible and
-
-sustainable path that takes into account the disproportionate demands that are made on them outside of the oﬃce. It’s time to make it possible
-
-for them to do that.
-
-That’s a change we’ll all beneﬁt from.
-
-This article was originally published online on February 08, 2024.
-
-Rachel Simmons is an executive coach, learning-and-development specialist, and the bestselling author of Odd Girl Out and The Curse of the Good Girl.
-
-Adrienne Kortas is an executive coach and leadership-development consultant who specializes in designing and delivering women’s leadership-development programs.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that this blueprint thwarts the career advancement and development of

@@ -1,13 +1,23 @@
-## focus in management literature on company purpose and meaning.
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f0fb4d3ee6d4428665ba2609e7e8d2dbba3ce57d
+title: H08Q8O-PDF-ENG
+---
+## their employees: no more job for life, no more company deﬁned-beneﬁt
 
-Companies must also show that they care about the individual doing the work. The trouble is that diﬀerent employees and diﬀerent companies think about caring in very diﬀerent ways. One size doesn’t ﬁt all, and
+pensions. By the 2010s, employees never expected that if they worked
 
-ﬁnding which sizes ﬁt which people is tricky. The fact that psychological
+hard and made work-life sacriﬁces, they would necessarily have a secure
 
-contracts are tacit further complicates this issue—they are not just
+job and beneﬁts. There remained the purely transactional contract: I
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+follow your rules, you pay me for my time.
 
-4
+But how could this contract entice employees to do more than the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+minimum—to care enough about their job and company to put in extra eﬀort, thought, and creativity; to be proactive; to engage in extra-role
+
+behaviors? Today, if companies want an employee to care, they need
+
+to show that the work is worth caring about—hence the intensifying

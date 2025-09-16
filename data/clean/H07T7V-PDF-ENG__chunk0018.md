@@ -1,19 +1,11 @@
-# for themselves.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e0d42d22d5a9a7c20ff923382569ef6364abe8dd
+title: H07T7V-PDF-ENG
+---
+# enterprise.
 
-Geek for me is entirely separate from digital. You can be a non-digital
+Netﬂix is a geek company. They follow all four of my great geek norms of
 
-geek, and you can certainly be very digital and not geeky at all.
-
-ADI IGNATIUS:
-
-The Quibi thing is an interesting example. I guess what was missing
-
-from your framework was the openness. You had a powerful guy who
-
-had been successful, who wasn’t listening.
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+science, ownership, speed and openness. And I think their results speak

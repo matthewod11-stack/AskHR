@@ -1,7 +1,19 @@
-## HBR / Digital Article / How to Conduct a Great Performance Review
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ffe575e178fc3d1df7a40d9d5cb092194153c698
+title: H074CY-PDF-ENG
+---
+# signals about performance.
 
-that leave people feeling confused or unvalued. Managers must also
+Second, performance reviews are about what people do for a living and
 
-take the time to pay attention to peoples’ behaviors far in advance of
+often their pay and job assignments. These important topics take time
 
-the actual review date if they’re going to be helpful about the impact
+to discuss. You must make time on your calendar to avoid quick reviews
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

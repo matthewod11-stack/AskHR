@@ -1,13 +1,31 @@
-# design and implement in-house programs.
+---
+source_path: R2504P-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6cd125a17c7f8e24ead633ad8756b815a72a0a48
+title: R2504P-PDF-ENG
+---
+## HBR / Magazine Article / Case Study: Do We Reskill or Replace Our Workforce?
 
-While investors might focus on the cost savings from head count
+developed, to reduce uncertainty. For instance, when we rolled out
 
-reduction if people opt out of the reskilling program and leave
+reskilling at Unilever, we showed how the procurement team could take
 
-the company, Alex should focus on the beneﬁts. Reskilling ensures
+on sales roles with just a little training. We focused on helping people
 
-retention of institutional experience, reduced recruitment costs, and
+see opportunity, not threat.
 
-improved employee engagement. Other companies have proven this to
+Finally, leverage trusted internal resources. Train respected inﬂuencers
 
-be the successful strategy to follow.
+in your organization, such as union representatives or experienced
+
+employees, to mentor and coach others on thinking through their career
+
+options. This approach builds trust.
+
+Though it may seem more cost-eﬀective to have external providers
+
+run reskilling courses, such partners often can’t provide the relevance
+
+and speciﬁcity needed for a company’s unique situation. Instead,
+
+organizations should leverage their existing resources and expertise to

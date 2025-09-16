@@ -1,11 +1,13 @@
-# you (at home and at work) healthier.
+---
+source_path: H06AR9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ac73a7cf060dc3553a82937765d30aa943f3158d
+title: H06AR9-PDF-ENG
+---
+# use it on themselves.
 
-- Taking the necessary time to recover will shorten your sickness, so you
+Yet, there are good reasons for working parents to take the time they
 
-can get back on your feet faster.
+need to recuperate and take care of themselves:
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- You’ll prevent the spread of germs, which will help keep those around

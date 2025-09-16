@@ -1,13 +1,17 @@
-# Basic Provisions/Requirements
+---
+source_path: Employment Law Guide - Child Labor Protections (Nonagricultural Work).md
+pages: n/a-n/a
+chunk_id: 96e4a13fc0d0755f1b1395f5b161072046554f41
+title: Employment Law Guide - Child Labor Protections (Nonagricultural Work)
+---
+# and institutions of higher education; and Federal, state, and local government agencies.
 
-The child labor provisions of the Act include restrictions on hours of work and occupations for youths under
+While 16 is the minimum age for most nonfarm work, minors aged 14 and 15 may work outside of school
 
-age 16. These provisions also set forth 17 hazardous occupations orders for jobs that the Secretary has
+hours in certain occupations under certain conditions. Minors may, at any age: deliver newspapers; perform in
 
-declared too dangerous for those under age 18 to perform.
+radio, television, movies, or theatrical productions; work for their parents in their solely owned nonfarm
 
-The permissible jobs and hours of work, by age, in nonfarm work are as follows:
+businesses (except in mining, manufacturing, or in any other occupation declared hazardous by the
 
-Minors age 18 or older are not subject to restrictions on jobs or hours
-
-Minors age 16 and 17 may perform any job not declared hazardous by the Secretary, and are not subject to
+Secretary); or gather evergreens and make evergreen wreaths.

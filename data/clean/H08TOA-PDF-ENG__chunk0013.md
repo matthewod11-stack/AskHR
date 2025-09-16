@@ -1,9 +1,13 @@
-# them over.
+---
+source_path: H08TOA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 46eddc861f86f255db15452d0adcf08bb1f9e47e
+title: H08TOA-PDF-ENG
+---
+# Delegate
 
-Begin by selecting someone whose strengths, interests, and/or
+Armed with this data, it is time to create a list of responsibilities that
 
-developmental goals align with the task. Then, make some notes on the
+you need to delegate. My clients usually start with what is in the “should
 
-task and gather examples or materials that would help the person get up
-
-to speed. Finally, schedule a little time to gauge interest, review the task,
+delegate” category and make a plan to bring someone else in to take

@@ -1,7 +1,11 @@
-# make use of services
+---
+source_path: R2504F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a51a6b6390c6085c1c7540938e123bc312fa0593
+title: R2504F-PDF-ENG
+---
+## HBR / Magazine Article / Your Company Needs an Eldercare Policy
 
-Companies don’t have to do all of this themselves. They can avail
+- training for managers, supervisors, and HR counselors to help them
 
-themselves of third-party providers of eldercare education, assessment,
-
-and navigation, oﬀered by such organizations as Bright Horizons Family
+understand caregivers’ situations and encourage and enable them to

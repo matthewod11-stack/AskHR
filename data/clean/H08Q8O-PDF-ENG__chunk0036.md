@@ -1,5 +1,9 @@
-## place a data collection plan with experimental and control groups. The
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d96c2df863852094cb6871ce7fc711d61611bfb
+title: H08Q8O-PDF-ENG
+---
+# some of the most important concerns.
 
-data will include measures of productivity, energy costs, well-being, and
-
-psychosocial risks in the pre-intervention period, intervention periods,
+To accurately measure outcomes from these initiatives, CMG has put in

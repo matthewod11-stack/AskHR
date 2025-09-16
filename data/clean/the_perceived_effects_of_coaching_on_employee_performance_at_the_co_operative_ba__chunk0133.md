@@ -1,13 +1,19 @@
-# 5.6(cid:32) Area of further studies
+---
+source_path: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba.md
+pages: n/a-n/a
+chunk_id: a87bb33d380393cb9f98544b096b6f1876874e52
+title: the_perceived_effects_of_coaching_on_employee_performance_at_the_co_operative_ba
+---
+# objectives.
 
-This study will pave the way to a clearer understanding of the possibilities of
+(cid:51)(cid:54)(cid:32)
 
-employee coaching and its practice. Further research should be conducted into the
+(cid:32)
 
-barriers line managers face in giving feedback on, and offering support in,
+The impact of coaching program should be evaluated. The line managers should
 
-leadership development. Given the importance of the line manager/developing
+compare the benefits of coaching with the objectives that were set before coaching
 
-leader relationship, follow up strategies should be implemented to reduce these
+commenced. This can be reflected through performance ratings, and employees’
 
-barriers. Also further studies need to be done on measuring the success of coaching
+reaction to the benefits of coaching

@@ -1,5 +1,15 @@
-# Employee Surveys
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: f81c57a9e4f6e45ada26fefe14f8191e7ec3b5dd
+title: i
+---
+# Job status
 
-Employee Surveys are a typical data source to understand employee’s feeling, attitude,
+- Quantity required
 
-engagement… The response can be in Likert-type data, which is on a one to five scale or in
+- Quality of hire
+
+- Diversity
+
+- Financial implication, cost per hire, compensation and benefit

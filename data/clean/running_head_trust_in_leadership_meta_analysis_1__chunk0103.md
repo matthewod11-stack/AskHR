@@ -1,9 +1,7 @@
-# Table 6 highlights the meta-analytic correlations between trust in the leader and
-
-performance and OCB (other-rated). As can be seen in the table, trust in the leader was
-
-significantly correlated with both performance (p = .30) and OCB (p = .34). To address
-
-Hypothesis 1 regarding the mediation effects of trust in relation to LMX, we conducted path
-
-analysis (MASEM), which required additional meta-analytic correlations between the
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: d3532866a134db56bbd80d111d49d33f98d42e0b
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## Mediating Mechanisms: The Role of Trust in the Leader and LMX Quality

@@ -1,7 +1,9 @@
-# Reinforcement
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 48c49f50c46c82edd15ea3faf04a9604cf75e294
+title: performance_management_3rd_edition_by_aguinis
+---
+# Resources
 
-- 4. Resources. Supervisors should provide employees with resources and opportu- nities to participate in developmental activities. Thus, they should encourage (and sponsor) participation in training, classes, and special assignments. Overall, supervisors have a responsibility to ensure that the employee has the necessary supplies and funding to perform the job properly.
-
-- 5. Reinforcement. Supervisors must let employees know that their outstanding performance is noticed by reinforcing effective behaviors and progress toward goals. Also, supervisors should provide feedback regarding negative performance and how to remedy the observed problem. Observation and communication are not sufficient. Performance problems must be diagnosed early, and appropriate steps must be taken as soon as the problem is discovered.
-
-The summary list included in Table 2.1 makes it clear that both the employee and the manager are responsible for performance execution. As an example of this shared responsibility in an actual organization, consider the case of Lockheed Martin Corporation. Lockheed Martin Corporation, an advanced technology company, was formed in March 1995 with the merger of two of the world’s premier technology companies: Lockheed Corporation and Martin Marietta Corporation. Lockheed Martin has approximately 140,000 employees worldwide. They are engaged in the research, design, development, manufacture, and integration of advanced technology systems, products, and services (www.lockheedmartin.com). Lockheed Martin’s performance management system includes the active participation of both employees and their supervisors. Specifically, employees write their own performance management objectives based on organization and unit objectives. Then, managers approve the objectives and are encouraged to give ongoing feedback about the progress toward meeting the objectives. The actual per- formance appraisal form is an electronic, one-page computer screen. The program was designed to “involve employees in setting their own goals, to make those goals clear and to provide regular feedback on their progress toward achieving those goals.”15
+Preparing for performance reviews

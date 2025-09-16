@@ -1,7 +1,8 @@
-## Recordkeeping, Reporting, Notices and Posters
-
-Notices and poster requirements vary by the classiﬁcation of alien or foreign worker being hired. Please see the speciﬁc INA chapters to determine the notices and poster requirements for each immigration category.
-
-Recordkeeping requirements vary by the classiﬁcation of alien or foreign worker being hired. Please see the speciﬁc INA chapters
-
-to determine the recordkeeping requirements for each immigration category.
+---
+source_path: Employment Law Guide - General Information on Immigration, Including
+  I-9 Forms.md
+pages: n/a-n/a
+chunk_id: c9b0f5bc76cc3030c98904608d713c0a0ed74554
+title: Employment Law Guide - General Information on Immigration, Including I-9 Forms
+---
+## on the basis of national origin and citizenship status.

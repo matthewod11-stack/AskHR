@@ -1,7 +1,7 @@
-# Administration, 92, 727-743.
-
-Newman, A., Kiazad, K., Miao, Q., & Cooper, B. (2014). Examining the cognitive and
-
-affective trust-based mechanisms underlying the relationship between ethical
-
-leadership and organizational citizenship: a case of the head leading the
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 23f1eaf375074ce0ac24b9073b69b3ae4fec920c
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+## organizational commitment of public sector employees in China. Public

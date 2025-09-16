@@ -1,17 +1,17 @@
-# HBR / Magazine Article / Rid Your Organization of Obstacles That Infuriate Everyone
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f61adeed79f89fa01c2ff29784b6c87e696914ee
+title: R2401G-PDF-ENG
+---
+## What Ought to Be Easy or Hard in Your Company?
 
-accomplishing creative work, deciding to adopt measures that would heap
+Not all inefficiencies are bad. Many challenges in organizational life
 
-yet more burdens on employees and customers—often are best dealt with
+—making tough trade-offs, building deep and enduring relationships,
 
-slowly and by difficult and sometimes complicated methods. Eliminating
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-friction in those situations can be soul-crushing for the people who do the
+2
 
-work and can undermine productivity, safety, innovation, and commitment.
-
-Answering the following five questions can help you decide where to
-
-remove versus inject organizational friction.
-
-- 1. Are you certain or uncertain about the right things to do? In his book
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

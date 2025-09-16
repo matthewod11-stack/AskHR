@@ -1,17 +1,17 @@
-## disability, or the intersection of multiple stigmatized identities.
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 43003f6301b3c393377c60428f5d27263e726ebe
+title: H08HIY-PDF-ENG
+---
+## positive reception of the work and the person.
 
-Resources are available for gathering this type of information, such as
+- 4. Conducting regular inventories of workplace practices
 
-the “Disability Inclusion Blueprint” (a toolkit for companies to curate
+To ensure that inclusion eﬀorts are sustainable and frequently
 
-questions for an internal audit), or suggestions for tracking the metrics
+improved upon, managers need to know where the pain points are
 
-relevant to success (selection, retention, promotion, pay, representation,
+and what might help resolve them — especially for issues that might
 
-etc.). Additionally, employee resource groups can be a valuable source
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+otherwise ﬂy under the radar, such as bias against a mental health

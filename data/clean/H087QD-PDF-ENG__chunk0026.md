@@ -1,25 +1,13 @@
-## HBR / Digital Article / Using Data to Design Your Hybrid Work Policies
+---
+source_path: H087QD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 54f26e2474f6967e6bc96d5ae8fb3568a3e79e33
+title: H087QD-PDF-ENG
+---
+# apart
 
-- A plan to revisit the norms and habits to which you commit at some
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-point in the future, to see if they’re working for everyone
+5
 
-. . .
-
-Figuring out the right ways of working to support our new hybrid model
-
-at EY U.S. hasn’t always been smooth sailing, and we still consider our
-
-approach a work in progress. But that’s the point: Real innovation is
-
-always an experiment that requires an open mind, a commitment to
-
-communication and collaboration, and a lot of ﬁne-tuning. We believe
-
-that it starts by putting your intuitions aside and really understanding
-
-how hybrid work is impacting your people — in practice, not theory.
-
-The views expressed are those of the author(s) and do not necessarily
-
-represent the views of Ernst & Young LLP or any other member ﬁrm of the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

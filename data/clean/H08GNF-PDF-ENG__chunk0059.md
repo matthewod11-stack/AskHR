@@ -1,15 +1,13 @@
-## HBR / Digital Article / Use the STAR Interview Method to Land Your Next Job
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6372c35b38d0fd2588a899c1d4c92dfef286b42e
+title: H08GNF-PDF-ENG
+---
+# questions and interviewers.
 
-- 5. Know your talking points and use them for unexpected questions.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Since you’ve prepared and practiced for common STAR interview
+9
 
-questions ahead of time, you’ll no doubt walk into your interview
-
-feeling conﬁdent that you can present yourself in the best light. But
-
-what happens if you encounter a question you haven’t prepared for?
-
-Don’t panic. You can still fall back on your prepared responses by
-
-modifying them a bit to tailor your answer to the unexpected question.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

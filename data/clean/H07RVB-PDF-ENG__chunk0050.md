@@ -1,7 +1,19 @@
-# behind me.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a78021854e29a6cfa91b8836afaee0f5d9802fe4
+title: H07RVB-PDF-ENG
+---
+# it.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+I’m getting ready to go out on the road, the book just came out this week.
 
-16
+I’m sure that I’m going to get confronted in certain places. I really hope
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+it’s healthy, honest discussion. And in some cases, that it’s a debate,
+
+because I’m not here to change people’s minds. I’m trying just to expose
+
+people to the realities of how I live and what it’s meant in my life. And
+
+I’m also trying to make it better for the generations that are coming

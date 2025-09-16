@@ -1,27 +1,17 @@
-# expertise.
+---
+source_path: H08B1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6617ca7387306ad8723f2951ebd728ead7f8563
+title: H08B1C-PDF-ENG
+---
+# collaboration.
 
-In Paul’s case, his well-intentioned eﬀorts to learn and gain insights by
+- 2. Undermined expertise
 
-asking questions without providing context gave the impression that
+Leaders need to exude conﬁdence and demonstrate their expertise
 
-he lacked expertise. Paul tended to pose overly broad questions (for
+to maintain their authority in a subject matter. In corporate cultures
 
-example, “What are the current trends in our industry?” or “How do
+where conﬁdence is equated with having answers, a leader’s persistent
 
-you see our product evolving?”) without explaining his reasoning or
-
-connecting them to a speciﬁc challenge or opportunity. His questions
-
-lacked depth, and it’s depth that gives authority and credibility.
-
-- 3. Lower efﬁciency Eﬀective leaders must balance learning with decisive action to maintain eﬃciency. Constantly questioning and seeking more information can
-
-be perceived as indecisiveness and delay decision-making. Trying
-
-to understand and learn all angles might lead to analysis paralysis, harming both eﬃciency and career advancement.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+questioning can be perceived as a lack of self-assurance in their

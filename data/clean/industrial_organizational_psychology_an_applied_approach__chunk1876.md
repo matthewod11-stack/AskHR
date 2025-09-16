@@ -1,65 +1,35 @@
-# skill level.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a66ede8a0a9f6c68c1144073de645a84f4aef447
+title: industrial_organizational_psychology_an_applied_approach
+---
+# y s e t r u o C
 
-Know the material. It is very important that you have a thorough understand- ing of the material prior to pre- senting. I have been to training sessions that have bombed because the trainer sat and read from notes during the entire session. There is nothing worse than attending a seminar like this. Review your material prior to the training until you know it inside out. It is one thing to understand material and another to actually teach/present it. Keep practicing until you can do it in your sleep.
+I am the president of DCI
 
-Don’t make up answers. You will quickly lose the credibility of your participants if you provide answers that are not true. If you are unsure about a question that may come up—and you will be—tell the participant that you don’t know the answer to that question but will look into it and get back to him or her with an answer. Or, you can always turn
+Consulting, a human resources (HR) consulting and software-development company that specializes in HR risk management. We work with clients in assuring compli- ance with federal employment laws and help them identify and prevent potential liability in employment discrimina- tion issues. Our practice areas include affirmative action compliance; nondiscrimina-
 
-the question back to the group to see if anyone in the audience has the answer. Never make up an answer on the spot just to answer the question. This will come back to haunt you!
-
-Use different formats while presenting. I like to use several formats when presenting. I find that variety keeps the participants interested and engaged during the entire training program. Nobody likes attending a seminar where the person lec- tures to them for eight hours. Use such things as PowerPoint, group activities, videos, group exercises, roundtable discussions, Web dem- os, and case studies. This not only will make your training program more interesting, but it will help participants learn the materials.
-
-Wear good shoes. It may sound funny, but it’s true. I bought a cheap pair of shoes prior to a training program, and I paid the price: back pain and a sore neck. Remember, when you train you will be standing for a
-
-long period of time. A poor pair of shoes will make for an ex- tremely uncomfortable training experience.
-
-Be prepared. Always check that you have all of your materials and information prior to walking out the door. I like to use a checklist of all the things I need to take with me prior to the training.
-
-Use stories and experiences. People love to hear different war stories and experiences when you present the material. It helps to present the material and apply it to real-life settings. When I conduct a training program on employment dis- crimination, I share actual cases I have been involved in and the outcomes. This helps me drive home the importance of the training material.
-
-Humor goes a long way. I once asked a colleague what made him such a great trainer. He said, “I may not be the
-
-brightest person in the world, but people find me funny.” His point was well taken. People like to be amused and entertained when they come to a training session. Effective use of humor can be a great way to engage and entertain your audience. This will help break up the monotony of the session.
-
-Oh, yeah, one more piece of good advice. Always supply good snacks and drinks. The caffeine will keep them awake, and the food will keep them happy.
-
-Every training session you conduct will be different. Differ- ent audiences lead to different experiences. This is what makes training such fun. Remember, the most effective way to foster an environment of learning is when you entertain and educate participants at the same time. Your audience will remember you for that!
-
-slow pace to help the lower-ability trainees, the higher-ability trainees become bored. If the trainer caters to the higher-ability trainees, the other trainees fall behind. For these reasons, most trainers present material at a moderate pace. Not surprisingly, the research evidence is clear that employees who perform well in training are bright, believe they can perform well (have high self-efficacy), are motivated, and are goal oriented (Salas & Cannon-Bowers, ).
-
-Developing the Training Curriculum Putting together a training program can take a great deal of time. The trainer must research a topic, develop a training outline, create visuals (e.g., PowerPoint slides), create handouts, and obtain or create supporting materials such as videos and role play exercises. Though some authors use an estimate of  hours of prepara- tion for every hour of training (Zemke, ) and others use  hours (Diekmann, ), I use an estimate of  hours of preparation for every hour of training. Of course, the actual time needed to develop a training seminar is a function of the
-
-designing and evaluating training systems
-
-301
-
-302
+300
 
 chapter 
 
-trainer’s knowledge of the topic, the amount of talking a trainer expects to do, and the ready availability of videos, exercises, and role plays related to the topic.
+tion in hiring, promotion, termination, and pay; proactive training; salary equity analysis; and a host of other things. It is our job to keep our clients out of trouble as well as to assist them when they are under investigation by the Depart- ment of Labor or the Equal Employment Opportunity Commission.
 
-Creating Handouts An important part of any training presentation is the handouts to the audience. The purpose of handouts is to provide material that the trainees can take back to their jobs. Providing comprehensive notes is important because people forget about half the training content once they leave the room and then forget another % within  hours (Nichols & Stevens, ). Handouts should include the following:
+As one of the many hats I wear as president of the firm, I conduct training seminars and speaking sessions on HR risk management. The training seminars range from highly technical and statistical to non- technical issues that are softer in content. I find training to be one of the most interesting and challenging aspects of my job. Each time I conduct a training program, something new and different comes up based upon the participants and the orga- nization’s culture.
 
-7
+One thing I have learned over the years is that not every- one is born to be an effective
 
-7 7 7 7
+trainer. There are tips, however, that you can follow that, with practice, can help facilitate your performance as a trainer. With that being said, here is my top 10 list of things that will help make you a good trainer.
 
-7
+There is a difference between technical and nontechnical training. Soft-skills training and techni- cal training are very different types of training. I find it much more challenging to present technical material over soft- skills material. Eight hours of statistics training can be quite boring. Use exercises, case studies, and other things to keep people engaged. A joke here and there also goes a long way. Know the technical mate- rial of your training and plan accordingly.
 
-7 7
+Trainers are like wine—they get better over time. It takes lots of time and experi- ence to be a really good trainer.
 
-A cover sheet with the title of the training program as well as the date and location in which the training took place. A list of goals and objectives. A schedule for the training (e.g., breaks, ending times). A biographical sketch of the trainer. The notes themselves in outline form, full text, or copies of the PowerPoint slides. Activity sheets such as personality inventories, free writes, or group activity information. References and suggestions for further reading. A form to evaluate the quality of the training program.
+Be patient. You will have your fair share of times when you don’t perform well. For your first training program, start by practicing in front of a mirror, then making the move to pres- ent in front of your friends or family, and finally taking the plunge into your first training. It gets easier as you get more experience and practice.
 
-Delivering the Training Program Introducing the Trainer and the Training Session Training sessions usually begin with the introduction of the trainer. This can be done by the trainer introducing himself or by another person doing the intro- duction. The introduction should be short and should establish the credentials of the trainer. The length of the introduction depends on the time allocated for the training and the extent to which the audience already knows the trainer. If necessary, a more complete biography of the trainer can be placed in the training materials so that the audience can see the trainer’s credentials without the trainer appearing to be bragging.
+Get to know your audience prior to the training. It is very important to have a firm understanding of who is going to be in the training session. Prior to your training, find out the knowledge level of the participants, number of participants, their attitude toward attending the seminar, organizational culture, issues within the company that may relate to your training, and so forth. This will help you get an understanding of the company and the participants and will enable you to tailor the training to their needs and
 
-After the introduction of the trainer, the objectives of the training semi- nar, the training schedule (e.g., starting times, break times, meal times, quitting times), and seminar rules (e.g., turning off cell phones, not smoking, not criti- cizing audience members) are covered. When possible, it is a good idea for the schedule to include a -minute break at the end of each hour and one and a half hours for lunch.
+Preparing for Classroom Training Adjusting for the Audience The characteristics of the audience play an important role in developing a train- ing program. A trainer must consider the size, demographics, and ability of the audience. For example, with a large audience, not only will the trainer need to use a microphone, but it becomes difficult to supplement lecture material with such exercises as role play, simulation, and group discussion. An audience of women often will react differently to certain examples and types of exercises than will an audience of men. Likewise, examples used for a younger audience might not work on an older audience.
 
-The Career Workshop box gives tips on etiquette for audience members.
-
-Using Icebreakers and Energizers Following the introduction of the trainer, most training programs start with some sort of icebreaker or energizer. Types of icebreakers include:
-
-7
-
-7 7
-
-Introductions such as asking each trainee to introduce the person next to him or her, or having a scavenger hunt in which trainees are given a list of questions (e.g., “Who likes baseball?” “Who has a daughter?”) and are asked to mingle with the other trainees to obtain answers to the questions. Jokes or stories. Activities in which trainees, either individually or in small groups, are given a question or problem to solve.
+The ability level of the audience members is another important factor. If they are low on experience or ability, the training will need to proceed at a slower pace than if they were more experienced or more skilled. The toughest situation for a trainer is when the audience has mixed levels of ability. If the trainer sets a

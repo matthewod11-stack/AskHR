@@ -1,17 +1,19 @@
-# engagement.
+---
+source_path: H08IWB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c88358007488acbf302280cc0f0fec6ad2b8213e
+title: H08IWB-PDF-ENG
+---
+## engagement, retention, and productivity, the reality on the ground
 
-Two of us (Lopata and Gotian) have both spent many years working with
+often falls short. Programs are frequently conﬁned to a small group
 
-large organizations and have found that many employees are unaware
+of employees or lack the necessary communication and visibility to
 
-of the presence of mentoring programs, how to access them, or even if
+attract participation. As a result, many employees are unaware of or
 
-they qualify. Many employees would have welcomed the opportunity to
+uninterested in participating in mentoring opportunities. Moreover,
 
-beneﬁt from a guide through the next stage of their career but simply
+potential mentors might be too overwhelmed with their own workloads
 
-didn’t realize the support was there for them. Others would have been
-
-delighted to mentor but were never asked.
-
-These are simple obstacles that can be ﬁxed with relative ease.
+to commit to meaningful mentorship, leading to a cycle of under-

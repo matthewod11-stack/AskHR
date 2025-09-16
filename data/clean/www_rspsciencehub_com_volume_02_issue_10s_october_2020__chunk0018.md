@@ -1,3 +1,7 @@
-# important
-
-The data gathered by the American Bar Association (ABA) to analyse the employment trends of lawyers. Authors designed survey and participants for more understanding and Panel Respondent Demographics of Employment for testing the job attraction – selection – Attrition model.
+---
+source_path: www_rspsciencehub_com_volume_02_issue_10s_october_2020.md
+pages: n/a-n/a
+chunk_id: ab0675067aab8b2b3cc169e4e82f835934426137
+title: www_rspsciencehub_com_volume_02_issue_10s_october_2020
+---
+# lawyers. The other

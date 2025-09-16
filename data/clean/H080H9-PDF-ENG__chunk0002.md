@@ -1,5 +1,7 @@
-## How to Stay Grounded Through Organizational Chaos
-
-Six strategies to help you navigate layoffs, reorgs, and economic instability. by Rebecca Knight
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H080H9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bec50c556970e3ab253f1c04f75e2cb5809165ac
+title: H080H9-PDF-ENG
+---
+# Organizational Change

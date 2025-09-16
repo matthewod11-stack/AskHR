@@ -1,25 +1,27 @@
-## through a differentiated HR architecture.
+---
+source_path: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl.md
+pages: n/a-n/a
+chunk_id: aa7c7ef34ce44c9e2d2245bfa4ee0ba461c60ad5
+title: provided_by_the_author_s_and_nui_galway_in_accordance_with_publisher_policies_pl
+---
+## some academic studies between exempt and non-exempt workers (Huselid, 1995) or
 
-Lepak and Snell (2002) differentiate between four differentiators. First,
+managerial versus non-managerial employees (Jackson et al., 1989). Tsui et al (1997) are
 
-knowledge based employment, when workers are both valuable and unique and thus have
+generally considered to be the first to distinguish between multiple HR systems within
 
-the potential to contribute to the firm’s strategic objectives. Such firms are likely to rely
+organisations and the potential for these HR systems to yield different outcomes
 
-on a knowledge based employment mode which emphasises internal development and
+(Legnick-Hall et al, 2009). Lepak and Snell (1999) developed the contingent
 
-long-term employee commitment for this core group of workers (Lepak and Snell, 1999).
+configurational view in the context of SHRM and demonstrated that specific HR systems
 
-Second, job-based employment, when workers have strategic value but limited
+are unlikely to be appropriate in all situations but rather depend on the uniqueness of the
 
-uniqueness. These workers are also often employed internally. Although recognising that
+human capital. They differentiate between four categories (explained below) of
 
-these employees can contribute to the success of the firm their skills are widely
+17
 
-transferable. Thus these workers are hired to perform pre-determined tasks. Third,
+employees based on the uniqueness and value of the worker skill and their contribution to
 
-contract work- these workers are neither strategically important nor unique. Hence jobs in
-
-this bracket are often targets for outsourcing. Fourth, alliances/partnership- these workers
-
-are relatively unique but are of insufficient strategic value to employ internally.
+the organization and argue that unique and valued performers should be supported

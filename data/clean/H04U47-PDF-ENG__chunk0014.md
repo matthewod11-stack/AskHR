@@ -1,13 +1,19 @@
-# how could anyone else?
+---
+source_path: H04U47-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1947c10c5bde77bfcbf7faa62e45c554ee93945
+title: H04U47-PDF-ENG
+---
+# their initial impression.
 
-In order to convince others of your abilities, you should make it a habit
+While it’s unwise to project fake conﬁdence when you know you won’t
 
-to communicate that you are good at what you do — without any self-
+perform well, being too modest likely won’t serve you well either. As we
 
-deprecation regarding your core competencies.
+saw in Schlenker & Leary’s study, people tend to penalize humble actors
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+by deciding against them and choosing the conﬁdent ones. Modesty
 
-3
+is regarded as hedging against possible failure, an attempt to take the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+wind out of critics’ sails. If the expert doesn’t trust in his or her abilities,

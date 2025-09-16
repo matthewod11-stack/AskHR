@@ -1,9 +1,15 @@
-# York: Norton.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d6dfb4eb140b26a4dacbaf4d5a999eb151db6037
+title: untitled
+---
+# York: Wiley.
 
-Kent, G. H., & Rosanoff, A. (1910). A study of association in insanity. American Journal of Insanity, 67, 37–96, 317–390.
+Kaufman, A. S., & Kaufman, N. L. (1983). Interpretive manual for the Kaufman Assessment Battery for Children. Circle Pines, MN: American Guidance Service.
 
-Koppitz, E. M. (1968). Psychological evaluation of children’s
+Kaufman, A. S., & Kaufman, N. L. (1990). Kaufman Brief Intelligence Test. Circle Pines, MN: American Guidance Service.
 
-human ﬁgure drawings. New York: Grune & Stratton.
+Kaufman, A. S., & Kaufman, N. L. (1993). Interpretive manual for the Kaufman Adolescent and Adult Intelligence Test. Circle Pines, MN: American Guidance Service.
 
-299
+Kelley, G. A. (1955). The psychology of personal constructs. New

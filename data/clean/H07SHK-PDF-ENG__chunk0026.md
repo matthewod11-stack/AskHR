@@ -1,5 +1,25 @@
-## potential loss, legal implications, or harm to the company’s reputation.
+---
+source_path: H07SHK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: df72cc8c2f293e97b8502d30181c2f49c46581bf
+title: H07SHK-PDF-ENG
+---
+## Factors to Consider in Choosing How Much to be Engaged
 
-If a decision involves the allocation or reallocation of signiﬁcant
+CEOs often use various criteria to determine the level of personal
 
-resources — like capital investments or human resources — it may
+involvement they have across the decision-making landscape. These
+
+include the decision’s strategic importance: Does it matter for the
+
+CEO’s key priorities and have long-term implications for the company’s
+
+direction, vision, or mission? High-level strategy decisions almost
+
+always warrant the CEO’s direct engagement. Other factors that may
+
+inﬂuence the CEO’s involvement include the decision’s impact on
+
+the company’s ﬁnancial health, either in terms of revenue, costs, or
+
+proﬁtability; or the risk associated with the decision, either in terms of

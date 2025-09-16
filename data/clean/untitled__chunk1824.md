@@ -1,5 +1,9 @@
-# The Clinico-Anatomic Method
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 79dc5c0cd8ec273f09e94449aa4425f45037c2cb
+title: untitled
+---
+## Theory of the Evolution of the Brain and Psychopathology
 
-The discovery of cerebral localization of motor, sensory, and even integrative psychological functions supported the thesis that psychological functions are localized in the brain. If particular psychological functions are localized in different parts of the brain, it follows that various manifestations of psychopathology might be caused by diseases of speciﬁc parts of the brain. In this view, the domain of psychopathol-
-
-ogy represents various speciﬁc diseases to be described in order to establish descriptive categories. The diseases can then be related to speciﬁc underlying diagnosable neurologi- cal pathologies. This is conceptually a “pathogen model” of psychopathology. This view was largely hereditarian but not necessarily so, as organically based psychopathology could be caused by innate or acquired brain dysfunctions.
+J. Hughlings Jackson (1835–1911), an English neurologist who specialized in neuropathology, conﬁrmed Broca’s dis- covery of the speech center, ﬁnding in most cases that aphasia in right-handed persons is associated with disease of the left cerebral hemisphere. In 1863, he observed epileptic convul- sions that progress through the body in a series of spasms; such convulsions are now known as “Jacksonian epilepsy.” He theorized that the lower functional levels of the human in all mind are dynamically and unconsciously present healthy individuals and are temporarily released from control of the higher cortical centers whenever the cortex is relatively inactive, as during sleep, and in cases of cortical damage. Jackson concluded that the behavioral symptoms of brain damage are determined by the functioning of one or more lower centers that have been freed from the inhibitory control normally imposed on them by the higher brain centers. He pointedoutthatthisevolutionarysequencecanbeobservedin individual mental development and suggested that in old age, in various neurological diseases, and in most forms of in- sanity there occurs a general reversal of this developmental/ evolutionary process (Jackson, 1887).

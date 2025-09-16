@@ -1,5 +1,11 @@
-# 2.6.2.2. Employee Satisfaction (eSAT)
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 05417c7d6e5967733fbaed2a19eaf7443fcc4e73
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# % Promoters - % Detractors = eNPS
 
-Employee satisfaction (eSAT) measures the level of happiness of employee in their
+A good eNPS score is between 10 and 30 and above 30 is excellent. The average
 
-work or in their company. This metric will generally track factors such as company
+global eNPS score across all industries is 12.

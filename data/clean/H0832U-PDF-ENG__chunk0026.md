@@ -1,21 +1,25 @@
-## HBR / Digital Article / Leading the 6-Generation Workforce
+---
+source_path: H0832U-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bde9bc4f641ccc9dd036e968de72ac906d8762ab
+title: H0832U-PDF-ENG
+---
+## a bottleneck of more seasoned workers in top positions who, as
 
-change right before their eyes. While these challenges are not entirely
+they approach “retirement age,” are either ﬁnancially unable or
 
-new, the 6G workplace exacerbates them.
+psychologically unwilling to retire and have nowhere else in the talent
 
-To create healthy 6G organizations, leaders must reimagine their
+pipeline to advance. At the other end is often younger talent impatiently
 
-talent pipelines altogether. One of the most pressing opportunities to
+waiting their turn for advancement into more challenging roles because
 
-decongest the talent pipeline is to create meaningful opportunities
+the pipeline is clogged. In the middle are the so-called “sandwich
 
-for senior talent to remain engaged in post-executive roles. Such
+generations,” sitting frustrated as the unwritten rules of the game
 
-positions must include more than honoriﬁc titles, be positioned as
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-a positive step forward instead of a step aside (or a step back),
+5
 
-and carry real value in transferring knowledge, sharing experiences
-
-and expertise, and mentoring younger colleagues without the weight
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,33 +1,23 @@
-# event of a layoﬀ.
+---
+source_path: H07POT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 431d67c1d935866d3f6743c17b142db254b0230f
+title: H07POT-PDF-ENG
+---
+## HBR / Digital Article / Worried About Impending Layoffs?
 
-Develop a list of what you value most.
+diﬀerence to your employer, review past performance reviews or ask
 
-Part of creating your personal brand should involve self-reﬂection. But
+co-workers to recall situations where you made an impact. Here are
 
-this isn’t just about uncovering and communicating the value you can
+some questions you can pose to your colleagues:
 
-bring to an employer — you also want to proactively identify what
+- Why did this event stand out in their mind?
 
-you’re ideally looking for from an employer. Don’t wait until you’ve
+- What role did you play that was memorable and why?
 
-been laid oﬀ and are applying for jobs to ask yourself questions like: Do
+- What strengths did they notice you using?
 
-you need scheduling ﬂexibility to make it to coach your child’s softball
+You can also proactively draft a generic cover letter as a template,
 
-team? Are you looking for a culture that promotes from within? Do you
-
-value ﬁnding meaning in the work you do?
-
-It’s critical to understand if an organization can give you the
-
-opportunity and lifestyle you’re looking for, and you can’t accurately
-
-determine this if you don’t ﬁrst develop a list of your own top values.
-
-This self-knowledge gives you the lens through which to evaluate ﬁt
-
-as you look at a company. Reﬂect on how your current or previous
-
-employers have fallen short of identifying what was critical to you
-
-and what you’d look for the next time, and try to visualize your ideal
+and create a one-minute professional introduction to have ready in the

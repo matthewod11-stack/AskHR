@@ -1,7 +1,9 @@
-## Ellis, A. (1958). Rational psychotherapy. Journal of General Psy-
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 274c78b854a8c4610edcb67d06ba49055481b107
+title: untitled
+---
+# References
 
-chology, 59, 35–49.
-
-Erikson, E. H. (1950). Childhood and society. New York: Norton.
-
-Erikson, E. H. (1959). Identity and the life cycle. Psychological
+psychology training in Europe and the United States. Profes- sional Psychology: Research and Practice, 31, 423–428.

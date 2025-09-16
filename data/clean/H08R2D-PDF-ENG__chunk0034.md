@@ -1,29 +1,19 @@
-## HBR / Digital Article / Growth Isn’t the Only Way for Companies to Create Value
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f4e22a5433befaf543ae5dc181cf75228911275
+title: H08R2D-PDF-ENG
+---
+# What About Talent and Innovation?
 
-actively growing, these opportunities may be more limited, which could
+Pursuing low growth-strategies does come with challenges. For one,
 
-make it challenging to attract and retain top talent.
+growth typically means opportunity—for career progression, new skill
 
-To counter this, companies executing a low-growth approach must
+development, and other means of advancement. If a company isn’t
 
-be intentional in how they design their talent strategy. Some of
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the companies in our study leverage their stability to invest in long-
+6
 
-term initiatives and partnerships to attract and develop talent. These
-
-eﬀorts might include targeted recruiting programs, apprenticeship
-
-opportunities focused on specialized skills, industry certiﬁcations, or
-
-partnerships with local educational institutions. Such channels build
-
-community ties and create a consistent stream of candidates.
-
-For example, UK home builder Persimmon launched the Persimmon
-
-Academy in collaboration with local colleges to tap into overlooked
-
-labor markets in the regions where it operates. The program, which
-
-enables the company to access new talent, shape skill development to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,13 +1,35 @@
-# Honeywell
+---
+source_path: H08SI8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ec635dbbf47de2d8395312e55902f0a45c97e862
+title: H08SI8-PDF-ENG
+---
+## HBR / Digital Article / How 6 Companies Approached Digital Transformation
 
-To understand the distinction between digital adoption and digital
+Toby E. Stuart, of UC Berkley’s Haas School of Business. “The tech was
 
-transformation, consider the problem that Honeywell faced at the
+evolving incredibly quickly and there were no proven use cases for how
 
-beginning of its recent eﬀort to transform itself. “We had more than 150
+it could be applied to create value. [Moody’s CEO Rob] Fauber likened
 
-enterprise resource planning systems (ERPs), some 2,700 applications,
+the initiative to sprinting into the fog—it might be possible to see a few
 
-1,700 websites, and no overarching plan for collecting and using data,”
+steps ahead, but no further.”
 
-writes Darius Adamczyk, who was CEO of Honeywell at the outset of the
+In spite of not having a precise endpoint, leadership had an idea of what
+
+they wanted to achieve: a sweeping cultural shift that would enable the
+
+company to take advantage of this new technology, however it evolved.
+
+So, they decided on three guidelines. First, they wanted every employee,
+
+at every level, to be involved—a goal that required buy-in from 14,000
+
+employees. Second, they wanted to resist the instinct to reject new
+
+ideas, and encourage legal, compliance, and risk staﬀ in particular to
+
+take a “yes, and…” approach. And third, the aim throughout this eﬀort
+
+needed to be contributing measurable value to the business.

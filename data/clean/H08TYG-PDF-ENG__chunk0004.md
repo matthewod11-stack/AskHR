@@ -1,11 +1,13 @@
-# HBR / Digital Article / Q&A: Professor Robert Sutton on Communicating Difficult Decis…
+---
+source_path: H08TYG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8365609b719848dd003314128ffaf77aee645b7
+title: H08TYG-PDF-ENG
+---
+# damage to morale.
 
-Robert Sutton began thinking about this challenge as a doctoral student
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-at the University of Michigan in the early 1980s. For his dissertation,
+1
 
-he studied how managers dealt with workers during plant and store
-
-closings. With a series of colleagues, including Robert Kahn and Jeﬀrey Pfeﬀer, Sutton further developed these ideas, and in 2009, he
-
-articulated them in a classic HBR article: “How to Be a Good Boss in a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,7 @@
-# attacks.
-
-- 2. How should the risk of a CrowdStrike update be mitigated in an optimal manner? (Should it be applied immediately or delayed?) The answer depends on the nature of the update and the nature of the
-
-target system (and its potential business impact). It requires a nuanced,
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e9d31e03e69452fc3704aecb1a5dfa773f38d5d0
+title: H08KUZ-PDF-ENG
+---
+## that period in the form of enhanced protection against potential cyber-

@@ -1,37 +1,33 @@
-# Colander, 2005).
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 839721c408d5a9efb8698113ac6461350d54670a
+title: behavioral_economics_1
+---
+# naturally-occurring field data.
 
-For example, Adam Smith believed there was a disproportionate aversion to losses which is a central
+Section II is a brief digression reminding us that behavioral economics is something of a return to old
 
-feature of Kahneman and Tversky’s prospect theory. Smith wrote (1759, III, ii, pp. 176-7):
+paths in economic thought which were not taken. Section III reviews the tools and ideas that are the current
 
-Pain ... is, in almost all cases, a more pungent sensation than the opposite and correspondent pleasure.
+canon of what is best established (see also Conlisk, 1996, Camerer, Loewenstein, and Rabin, 2004). Section IV
 
-The one almost always depresses us much more below the ordinary, or what may be called the natural state of
+is a reminder that aggregate outcomes—behavior in firms, and markets—matter and considers how
 
-our happiness, than the other ever raises us above it.
+imperfections in rationality cumulate or disappear at those levels. Section V discussing “franchises” of
 
-Smith (1759, II, ii, ii, p. 121) also anticipates Thaler’s (1980) seminal2 analysis of the insensitivity to
+behavioral economics in applied areas, and some examples of growth in theory and field empirics. Section VI
 
-opportunity costs, compared to out-of-pocket costs:
+discusses neuroeconomics and section VII concludes.
 
-…breach of property, therefore, theft and robbery, which take from us what we are possessed of, are
+II. Behavioral paths not taken
 
-greater crimes than breach of contract, which only disappoints us of what we expected.
+3
 
-Why did behavioral insights like these get left out of the neoclassical revolution? A possible answer,
+Why did behavioral economics not emerge earlier in the history of economic thought? The answer is
 
-suggested by Bruni and Sugden (2005), is that Vilfredo Pareto won an argument among economists in the early
+that it did: Jeremy Bentham, Adam Smith, Irving Fisher, William Jevons and many others drew heavily on
 
-1900’s about how deeply economic theories should be anchored in psychological reality. Pareto thought
+psychological intuitions. But those intuitions were largely left behind in the development of mathematical tools
 
-ignoring psychology was not only acceptable, but was also necessary. In an 1897 letter he wrote:
-
-It is an empirical fact that the natural sciences have progressed only when they have taken secondary
-
-principles as their point of departure, instead of trying to discover the essence of things. ... Pure
-
-2 Many people regard Thaler’s 1980 paper as the starting point of behavioral economics per se, since it drew on psychology but was clearly focused on the economics of consumer choice (see Thaler, 1999 for an update on the same topic).
-
-4
-
-political economy has therefore a great interest in relying as little as possible on the domain of
+of economic analysis, consumer theory and general equilibrium (e.g., Ashraf, Camerer and Loewenstein, 2005;

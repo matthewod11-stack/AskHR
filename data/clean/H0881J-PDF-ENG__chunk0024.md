@@ -1,13 +1,7 @@
-# Reset Expectations
-
-Clearly communicate what your expectations are moving forward.
-
-Ensure the employee understands the standards and is aligned with the
-
-organization’s goals. As author, sales expert, and motivational speaker
-
-Zig Ziglar said, “A goal properly set is halfway reached.”
-
-To encourage dialogue, consider asking questions like:
-
-- What speciﬁc actions or behaviors do you think are needed to align
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8ceace769b2dc6261de6edf05cb8fdfb205cc1ae
+title: H0881J-PDF-ENG
+---
+# HBR / Digital Article / How to Talk to an Employee Who Isn’t Meeting Expectations

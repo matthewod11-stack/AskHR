@@ -1,15 +1,11 @@
-## health declines, lower employee engagement, and reduced productivity;
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 01122baf5032358bb3a97aadf59d74be56202520
+title: H08C0J-PDF-ENG
+---
+## also impact corporate ﬁnances, from higher healthcare-coverage costs
 
-injury and disability costs; and reduced labor availability. Climate
+borne by employers, including from asthma, mental health, and chronic
 
-events such as extreme heat already cost an estimated 2.5 billion hours
-
-of labor in the U.S. and 490 billion hours globally on an annual basis.
-
-I’m one of the few researchers studying this aspect of climate change
-
-from a business lens and identifying organizational best practices.
-
-Drawing from both the public and private sectors, I have gleaned ﬁve
-
-key preventative steps that can help organizations prepare for the
+conditions; performance and engagement costs given climate-driven

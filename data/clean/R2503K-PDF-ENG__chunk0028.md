@@ -1,41 +1,59 @@
-## HBR / Magazine Article / Leading Global Teams Effectively
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b90ac9ffdfd08f476f8d18bf4cb640ec92ae0798
+title: R2503K-PDF-ENG
+---
+## for trust-building activities and discussions on collaboration, but the
 
-don’t want to be the one to say it. The second question acknowledges that
+bonding didn’t last. So she tried a diﬀerent approach: To address
 
-issues have likely been overlooked and should be brought forward.
+conﬂicting priorities, the team developed some norms—for example,
 
-When I ﬁrst started teaching, I frequently stopped throughout my
+“Any product launch campaign needs to be tested in at least three
 
-lectures to ask, “Do you have any questions?” Inevitably, the same few
+markets within six weeks.” This allowed the team to balance two
 
-students responded, while the majority stayed silent. But when I graded
+diﬀering priorities: speed and thoroughness.
 
-their assignments, it became clear that many didn’t fully understand
+To ensure that norms are explicitly inclusive, rather than defaulting to
 
-the material. Eventually, I stopped asking if they had questions and
+the dominant culture’s preferences, leaders can co-create norms with
 
-started asking what questions they had and began to say things like,
+their teams—soliciting input from everyone, identifying where cultural
 
-“This is a challenging concept. I’m sure you have questions, so now
+diﬀerences come into play, and negotiating adjustments to gain the
 
-is a great time to ask them.” This tactic is particularly eﬀective when
+most from the diverse approaches. Isabella’s team developed a variety of
 
-dealing with people from collectivist cultures or a mix of cultural
+acceptable ways to meet the norm of gaining stakeholder support before
 
-backgrounds because it normalizes the act of asking questions and
+launching a campaign. Some team members preferred gathering input
 
-fosters a more inclusive environment. So, instead of asking, “Are you
+early in the process while others felt more comfortable securing buy-in
 
-facing any challenges?” try something like, “We just ﬁnished a tough
+after the design was nearly ﬁnal. The team agreed that both were viable
 
-quarter. Everyone is facing signiﬁcant challenges. I want to hear about
+ways to follow the six-week rule of thumb.
 
-yours.” This shift signals that sharing challenges is not only safe but
+Many global teams have become places where safety, inclusion, and belonging are emphasized at the expense of intellectual honesty.
 
-expected.
+Another tactic leaders can use is to adjust the types of questions
 
-Psychological safety is critical, but it must be developed with cultural
+they ask their teams. For instance, instead of asking a closed
 
-intelligence to ensure that diversity moves beyond being a politically
+question that prompts a yes or no answer (such as, “Are we missing
 
-correct bonus to becoming a genuine source of improved performance
+anything?”), rephrase it as an open-ended question that encourages
+
+participation: “What are we missing?” This simple adjustment supports
+
+both psychological safety and intellectual honesty. The ﬁrst question
+
+may cause a team member to think, No one else has brought this up, so I
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+8
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

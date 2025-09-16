@@ -1,19 +1,9 @@
-# Graduation from high school
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4a3ca7bc2e4fdde736b4ecf043c09a5bfb6d4d83
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Young Adults (Age 17–21)
 
-2.
-
-Starting college
-
-3.
-
-Moving away from home
-
-4.
-
-Starting a new job
-
-5.
-
-Nagging parents
-
-6.
+1.

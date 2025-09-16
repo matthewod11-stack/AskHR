@@ -1,9 +1,17 @@
-# KO
+---
+source_path: H06DD3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 121541996c3677c633942abcd59d21c536457b53
+title: H06DD3-PDF-ENG
+---
+## HBR / Digital Article / Let Your Top Performers Move Around the Company
 
-Kevin Oakes is the CEO of The Institute for Corporate Productivity (i4cp) and is the author of Culture Renovation: 18 Leadership Actions to Build an Unshakeable Company.
+An active culture of talent mobility can help minimize complacency and
 
-Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
+create an environment of healthy change — and with it an agile
 
-6
+environment that can handle the unexpected. If you are interested in
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+improving agility, it’s time to include some healthy internal mobility and
+
+create more talent magnets throughout your organization.

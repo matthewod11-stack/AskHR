@@ -1,5 +1,9 @@
-# ONBOARDING SCORE
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: eb26133826e94cd2ab212f494deb8f2cd4bbb402
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# RECRUITMENT SCORE
 
-Q2: How accurate was your role described to you during your interview process?
-
-Q5: Were you given an overview of your career path and progress in the company?
+Q1: What is your experience with Atlas Copco during recruitment process?

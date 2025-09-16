@@ -1,7 +1,9 @@
-## which results in a <shortage of HR analytics talents=.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 05d792cfa461544f69145910397a6ccea1d1c0ea
+title: i
+---
+# solution.
 
-Harris et al. (2011) postulate that <success with human capital analytics will depend, in large
-
-part, on HR’s ability to find and nurture analytical talent – the people who produce the data,
-
-the quantitative analysis, and statistical models you need to make better decisions and achieve
+Caughlin (2022) states that there is a lack of emphasis on HR students’ data literacy skills,

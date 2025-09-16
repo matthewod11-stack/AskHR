@@ -1,21 +1,17 @@
-# Three Leadership Characteristics
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6d5b25fe009507044dc34804f02f7ec83f58266
+title: R2006F-PDF-ENG
+---
+# rights.
 
-Ever since Steve Jobs implemented the functional organization, Apple’s
+Thus the link between how Apple is organized and the type of
 
-managers at every level, from senior vice president on down, have
+innovations it produces is clear. As Chandler famously argued,
 
-been expected to possess three key leadership characteristics: deep
+“structure follows strategy”—even though Apple doesn’t use the
 
-expertise that allows them to meaningfully engage in all the work
+structure that he anticipated large multinationals would adopt.
 
-being done within their individual functions; immersion in the details
-
-of those functions; and a willingness to collaboratively debate other
-
-functions during collective decision-making. When managers have
-
-Copyright © 2020 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Now let’s turn to the leadership model underlying Apple’s structure.

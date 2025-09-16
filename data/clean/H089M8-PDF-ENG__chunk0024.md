@@ -1,29 +1,13 @@
-# HBR / Digital Article / Why Cofounder Partnerships Fail — and How to Make Them Last
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0969c9cfb02087cb4edaab48dbfee0b357257fe0
+title: H089M8-PDF-ENG
+---
+# the line.
 
-On that note, it is worth noting that the results of our analysis may not
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-apply to these types of situations in which cofounders meet organically
+6
 
-(prior friends, coworkers, etc.) and come up with the idea together.
-
-In these situations, interpersonal compatibility is likely already high
-
-given the two cofounders already know each other. At the same time,
-
-two cofounders who met organically may be less likely to possess
-
-complementary skillsets as the match was likely more serendipitous
-
-rather than thought-out and deliberate. Our ﬁndings are likely most
-
-relevant to situations where one founder comes up with an idea and
-
-then searches out cofounders to help.
-
-. . .
-
-In short, ﬁnding a business partner is never easy. However, better
-
-understanding the mindsets and motivations of your counterpart —
-
-whether you are a lead founder or cofounder — will help you in the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

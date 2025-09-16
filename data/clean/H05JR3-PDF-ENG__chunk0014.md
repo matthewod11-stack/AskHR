@@ -1,43 +1,25 @@
-# Overcommunicate Overcommunicate your aspirations with your employer, colleagues, and
+---
+source_path: H05JR3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d52004deaf666f68e2275c9067b075e2ad6a0db9
+title: H05JR3-PDF-ENG
+---
+## HBR / Digital Article / Ramp Up Your Career After Parental Leave
 
-family openly and honestly. Share a detailed maternity plan with your boss
+Concentrate on what you can do within the time you have, and excel at
 
-that lays out what you want to achieve and the clients and areas that you
+that. When I returned to work following my second maternity leave, I gave
 
-want to cover. Schedule meetings with your boss before you leave, about a
+up supporting a major part of our business in order to focus purely on
 
-month before you come back, and monthly afterward to discuss how
+building out our economic crime advisory work with the public sector.
 
-things are going. That way, they can step in to offer support when needed.
+Narrowing my focus in this way allowed me to devote the time necessary
 
-It’s also important to have continual conversations with your partner at
+to develop much more insightful content in my speciﬁc area. As a result,
 
-home. Persistently check on how your balance of work and home life is
+we’ve been able to support the most sophisticated ﬁnancial centers in
 
-going. In my house, this changes every week. We constantly talk — or
+improving their ﬁnancial crime defenses. I miss supporting the other part
 
-frantically text in the middle of the day — about who will pick up our
-
-oldest from daycare and who can travel on which dates.
-
-Course Correct Then, be prepared to adjust. It’s impossible to know what it’s like to juggle
-
-your family and your career until you’re in the thick of it. So be open to
-
-reassessing your goals and course correct as required.
-
-You may ﬁnd that you can do more than you expected. When I ﬁrst came
-
-back from maternity leave, I was convinced that I wouldn’t be able to
-
-commit to multiple client-facing roles. But once I set boundaries and
-
-became better at delegating, I found I had more time in my day than
-
-anticipated and could gradually take on more.
-
-Copyright © 2020 Harvard Business School Publishing Corporation. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of our business. But I would make the same decision again.

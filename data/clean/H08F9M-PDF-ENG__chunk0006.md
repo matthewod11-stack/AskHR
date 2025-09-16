@@ -1,11 +1,9 @@
-## Erin, a management consultant, call for the end of a power-focused
+---
+source_path: H08F9M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c28c9ec555d0cc6559e4f50878df5a69c4defac7
+title: H08F9M-PDF-ENG
+---
+## Harvard Business School Kim Clark, his son, Jonathan, a professor of
 
-leadership model and introduce a new approach: the “leading through”
-
-paradigm. This new leadership model consciously seeks to do good and to
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+management at the University of Texas at San Antonio, and his daughter,

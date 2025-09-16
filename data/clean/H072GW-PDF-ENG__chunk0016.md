@@ -1,15 +1,29 @@
-# most employees.
+---
+source_path: H072GW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d3db8530c5f05f4ec0e54b709dd466e61e155657
+title: H072GW-PDF-ENG
+---
+# groups.
 
-Breaking the cycle of systemic discrimination
+This is why I call my model of creating inclusive organizations
 
-Access and success barriers make up the self-perpetuating cycle
+the “Canary Code” for building better workplaces. Before there were
 
-of systemic discrimination. Access barriers limit the pipeline of
+electronic carbon monoxide detectors, canaries were used to detect the
 
-marginalized individuals into the organization. Multiple rungs of
+deadly gas in coal mines. Toxic gases impact the canary ﬁrst, but all
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+others are harmed eventually. And healthy air beneﬁts all.
 
-4
+I reviewed over 150 academic articles on inclusion and best
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+practices that help employee experience and performance. My ﬁndings
+
+converge with marginalized individuals’ lived-experience accounts:
+
+characteristics of work that are essential for including autistic talent
+
+(e.g., skills-based hiring, transparency of procedures, normalizing
+
+remote work) help all marginalized people and are highly desired by

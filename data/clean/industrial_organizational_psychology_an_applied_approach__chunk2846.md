@@ -1,25 +1,21 @@
-# Specific Leader Skills
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 20a9ccd578da7613cfe33a3e68a8709163d50b6b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Relationships with Subordinates
 
-Another way to think about leadership is that excellent leaders possess specific skills or engage in behaviors that poor leaders do not. After observing thousands of leaders in a variety of situations, Yukl (), Carter (), Hemphill and Coons (), and Gibbs () have proposed a behavioral “theory.” According to these researchers, leaders do the following:
+Leader–member exchange (LMX) theory was developed by Dansereau, Graen, and Haga () and was originally called vertical dyad linkage (VDL) theory. LMX theory is a unique situational theory that makes good intuitive sense. The situational theories discussed earlier concentrate on interactions between leaders and situations, and between leaders and employees with differing levels of abil- ity. LMX theory, however, concentrates on the interactions between leaders and subordinates. These interactions are called leader–member exchanges (LMX). The theory originally took its name from the relationship between two people (a dyad), the position of the leader above the subordinate (vertical), and their inter- related behavior (linkage).
 
-. Initiate ideas . Informally interact with subordinates . Stand up for and support subordinates . Take responsibility . Develop a group atmosphere . Organize and structure work . Communicate formally with subordinates . Reward and punish subordinates . Set goals . Make decisions . Train and develop employee skills . Solve problems . Generate enthusiasm
+LMX theory states that leaders develop different roles and relationships with the people under them and thus act differently with different subordi- nates. Dansereau and his colleagues believed that subordinates fall into one of two groups—the in-group, characterized by a high-quality relationship with the leader, or the out-group, characterized by a low-quality relationship with the leader.
 
-In a job analysis of first-line supervisors at the Maryland Department of Transportation, Cooper, Kaufman, and Hughes () found the following skills to be essential:
+In-group subordinates are those who have developed trusting, friendly rela- tionships with the leader. As a result, the leader deals with in-group members by allowing them to participate in decisions and by rarely disciplining them. Out- group subordinates are treated differently from those in the in-group and are more likely to be given direct orders and to have less say about how affairs are conducted (Graen & Uhl-Bien, ). As one would imagine, employees with a high-quality LMX are more satisfied with their jobs, are less likely to leave the organization, perform at higher levels, and engage in organizational citizenship behaviors than do employees with a low-quality LMX (Colella & Varma, ; Griffeth, Hom, & Gaertner, ; Ilies, Nahrgang, & Morgeson, ). To become members of the in-group, employees often engage in such ingratiating behaviors as complimenting their leader. The extent to which these ingratiation attempts work is a function of such factors as the number of employees being supervised (Schriesheim, Castro, & Yammarino, ) and whether the employee is disabled (Colella & Varma, ).
 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7
+In general, research on LMX theory has been supportive (Erdogan & Enders, ). Though in-group employees often receive higher performance ratings than out-group employees, the relationship between performance and LMX is complicated. Supervisors and employees often have different per- ceptions of the leader–member exchange, and such factors as the number of employees being supervised and impression-management attempts by employ- ees moderate the relationship between LMX and performance (Schriesheim et al., ).
 
-Organizing Analysis and decision making Planning Communication (oral and written) Delegation Work habits (high-quality work) Carefulness Interpersonal skill Job knowledge Organizational knowledge Toughness Integrity Development of others Listening
+To complicate matters further, supervisors can only help members of the in-group when the supervisors themselves have a good relationship with their bosses. That is, if a supervisor is well-liked by her boss and feels supported by the organization, she is better able to help or hurt her subordinates (Erdogan & Enders, ; Tangirala, Green, & Ramanujam, ).
 
-This theory is not particularly exciting and is the least described in text- books, but it is the way leadership is most often practiced in industry. If this theory is true, then leadership and management are something learned; if the specific behaviors and skills important for effective leadership can be identified, then almost anyone can be trained to become an effective leader. There are many examples of such training programs currently in use.
+leadership
 
-The City of San Diego has its own management academy that provides inter- ested employees with the skills necessary to become managers. On weeknights and weekends, employees learn skills such as oral communication, report writ- ing, decision making, conflict management, and performance appraisal. After an employee is trained and tested in each of these important skill areas, he or she
-
-454
-
-chapter 
-
-receives a certificate of completion. Even though graduates of the management academy are not promised managerial positions, more often than not they are the employees who are promoted.
-
-If you have ever attended a leadership conference, you probably have noticed that the training involves specific leadership skills such as time management, goal setting, persuasion, and communication. Such an agenda typifies the idea that leadership consists of specific and learnable skills and behaviors.
-
-Although it is beyond the scope of this chapter to discuss each of the behav- iors and skills listed in Table ., many are covered throughout this text. A dis- cussion of a few additional skills follows.
+453

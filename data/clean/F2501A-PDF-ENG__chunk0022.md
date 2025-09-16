@@ -1,25 +1,19 @@
-## support through additional training and development programs.
+---
+source_path: F2501A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 17187038a088052c2e2416802ce856b7983acf08
+title: F2501A-PDF-ENG
+---
+# up on core skills?
 
-How do you keep your workforce up to speed on emerging skills?
+If an employee is resistant, it’s their manager’s job to help them understand
 
-We do it by fostering a culture of continuous learning and empowering
+the requirements and hone their skills. This involves a combination of
 
-employees to take charge of their own development. For rapidly changing
+development and selection. We try to start with people who have a
 
-skills, like those involving AI, we provide training on an aggressive
+growth-oriented mindset. They’re more likely to positively receive a training
 
-schedule while ensuring employees balance their development with daily
+program, core or emerging, because they understand the direct link
 
-responsibilities. Managers play a crucial role in guiding their teams, helping
-
-them navigate the challenge of staying current while meeting execution
-
-demands. The key is offering the right resources and support to help
-
-employees keep pace with evolving skill requirements.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+between training and future success. For those who struggle, we provide

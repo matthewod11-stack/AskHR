@@ -1,21 +1,19 @@
-## that in our new data-driven, tech-enabled world, competitive advantage
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f526effbaf8f575b00299e72a665f411fc5c9fd4
+title: H07RXW-PDF-ENG
+---
+# alternatives.
 
-decays about 10 times faster than previously, making it imperative
+Our research shows many of the organizations adopting elements of
 
-for companies to keep up with the game. And futures specialist Mark
+such open structures are experiencing higher levels of entrepreneurial
 
-Esposito says ﬁrms that have not yet investigated new technologies
+behavior, are proving better at attracting and retaining top talent,
 
-need to be aware they are becoming ubiquitous, and if they don’t get on
+and delivering superior ﬁnancial performance as a result. We also
 
-board, they will get left behind.
+believe that there is a danger that those who don’t adapt will get left
 
-Evolving into a new organizational model is not easy. It involves
-
-unlearning and deconstructing management norms, processes,
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+behind. Strategy thought leader Martin Reeves points out, for example,

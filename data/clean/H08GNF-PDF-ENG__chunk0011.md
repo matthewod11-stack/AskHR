@@ -1,9 +1,13 @@
-# generally start with:
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb564f8247758e58d59f58474f1955f50bf72e5c
+title: H08GNF-PDF-ENG
+---
+# (one to two sentences).
 
-- Tell me about a time when…
+- (Takeaways) is an add-on to the STAR method to remind you to
 
-- Have you ever had to deal with….
+include what you learned from the experience.
 
-- Give me an example of…
-
-- Describe a situation where…
+Expect at least one STAR interview question in every interview. They

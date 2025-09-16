@@ -1,11 +1,13 @@
-## Leadership Development and Communications Program at the Kellogg
+---
+source_path: H08VEI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3187a67619661645d771cce606cbeb8c70aae848
+title: H08VEI-PDF-ENG
+---
+# What the Experts Say
 
-School of Management at Northwestern University. “It depends on
+Being the messenger of change is often challenging. How hard this
 
-your team’s attitude,” she says “Can your team see how this change is
+communication gets comes down to how much or how little resistance
 
-positive? Or will they struggle with it, push back, or fail to see how it
-
-aﬀects them?”
-
-That disconnect is common, notes Justin Willett, research director for
+you face, according to Shana Carroll, a professor and co-director of the

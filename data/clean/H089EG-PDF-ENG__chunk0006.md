@@ -1,11 +1,15 @@
-# that.
+---
+source_path: H089EG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3c98f73880be1392dcf944dfeb0fd4a9095f404
+title: H089EG-PDF-ENG
+---
+## HBR / Digital Article / Learning to Delegate as a First-Time Manager
 
-I encounter this situation often when coaching new leaders, particularly
+As we continued the conversation, however, he revealed this wasn’t
 
-people who are in their ﬁrst few months of the job. While some of the
+necessarily true. In reality, Tom was hesitant to delegate because he
 
-pressures they put on themselves are rooted in real expectations, others
+wanted his boss to feel conﬁdent that she had chosen the right leader.
 
-are driven by their own perceptions of what leaders are “supposed to
-
-do.” My job is to break down those false perceptions and help them see
+He believed that taking on every task himself was the best way to prove

@@ -1,23 +1,15 @@
-# search.
+---
+source_path: H08N2T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0345db1c37c188eca92b43942152a0f4ae1ca58f
+title: H08N2T-PDF-ENG
+---
+## compensation? (More on ﬁnancial considerations below.)
 
-Ideally, your non-negotiables should boil down to just one or two
+These questions should help you assess your foundational needs,
 
-factors, which may be best understood when you consider them “in
+such as ﬁnancial security or the ability to manage your personal life
 
-reverse.” For example, you may wish to ask yourself whether you would
+alongside your career. Being clear about your priorities, especially the
 
-ever work in a job that: is extremely stressful/high-pressure, has a
-
-questionable moral/ethical impact on society, is seen negatively by
-
-others (including those you care about), is extremely boring, is at odds
-
-with your personal beliefs/values, is extremely unpredictable/unstable,
-
-lacks a positive social/interpersonal component, doesn’t pay well, etc.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+one or two non-negotiables, is a great starting point to guide you in your

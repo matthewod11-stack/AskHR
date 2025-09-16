@@ -1,9 +1,19 @@
-# 472 Undergraduate Education
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e8e67ff5e2968a61c7517049934ea25c937e0d3b
+title: untitled
+---
+# Teaching
 
-diversity, breadth and depth of knowledge, methodological competence, practical experience and applications, commu- nications skills, and sensitivity to ethical issues. To accom- plish these goals, a sequence of four levels of courses was recommended: introductory course, methodology courses, content courses, and an integrative or capstone experience. Content courses should be balanced between the natural sci- ence and social science knowledge bases of an increasingly complex discipline. Aspecial section was devoted to the inte- gration of the community college curriculum with upper- division courses in the major taken at another institution.
+to the discipline and to campuses—would play an even more important role in setting the timetables and parameters for changes in the curriculum.
 
-Perlman and McCann’s (1999b) review of the structures of the undergraduate curriculum in 500 catalogs indicated that the St. Mary’s Conference, like its predecessors, had some intended consequences and speciﬁc areas of minimal inﬂuence. Although a senior capstone experience has been advocated since the Cornell Conference, this recommenda- tion has gone unheeded, particularly in doctoral institutions. The same is true for the teaching of psychometric methods as part of a core methodology trio of courses with statistics and experimental psychology. Fiscal, stafﬁng, and space prob- lems were often cited as obstacles to the development and maintenance of laboratory facilities. These authors drew the following overall conclusions about the status of the curricu- lum at the end of the twentieth century:
+The 1991 St. Mary’s College of Maryland Conference had a long history in development, an ambitious agenda, and di- versity in its participants. Its processes and outcomes reﬂect the continuing evolution of the discipline’s attention to un- dergraduate education. A resolution introduced to the APA Council of Representatives by the Massachusetts Psycho- logical Association asked the Committee on Undergraduate Education (CUE) to examine
 
-The Cornell report’s (Buxton et al., 1952) emphasis on teaching psychology as a scientiﬁc discipline in the liberal arts tradition remains current. The required core as recommended by the St. Mary’s report (Brewer et al., 1993) as implemented by de- partments seems to cover “both natural science and social sci- ence aspects of psychology.” (p. 439, pp. 175–176)
+(1) the role and purpose of the undergraduate psychology major in relation to traditional liberal arts education (and prepara- tion for graduate school in psychology) and preparation for a bachelor-degree-level job in a psychology-related ﬁeld, and (2) whether APAshould set forth guidelines for curriculum mod- els in undergraduate psychology (with an accompanying ratio- nale). (As cited in Lloyd & Brewer, 1992, pp. 272–273)
 
-We now turn to the ways in which psychologists evaluated
+The CUE formulated a response, approved by the Council of Representatives in August 1985, that reafﬁrmed the psychol- ogy baccalaureate as a liberal arts degree, that no prescribed curriculum should be developed, but that guidelines or mod- els could be considered based on continuing, periodic sur- veys of undergraduate education. Continuing discussion led to a conference proposal. Sixty psychologists met for one week in a highly structured group dynamic designed to pro- duce draft chapters of a handbook on seven topics: assess- ment, advising, recruitment and retention of ethnic minority faculty and students, faculty development, faculty networks, curriculum, and active learning practices. Among the 60 par- ticipants at St. Mary’s, 28 (47%) were women and 11 (18%) were ethnic minority persons (neither the 1951 nor the 1960 conference had such representation). In addition to partici- pants from liberal arts colleges and universities, there were ﬁve faculty members from community colleges, two from high school psychology programs, and two representatives from Canada and Puerto Rico. As planned, a comprehensive handbook was produced (McGovern, 1993); at the urging of Ludy T. Benjamin, a Quality Principles document was also produced by the steering committee and eventually approved as APA policy by the Council of Representatives (McGovern & Reich, 1996).
+
+In their chapter on the curriculum, Brewer et al. (1993) reafﬁrmed the importance of psychology as a liberal arts dis- cipline. “The fundamental goal of education in psychology, from which all the others follow, is to teach students to think as scientists about behavior” (p. 168). They ampliﬁed this statement with six speciﬁc goals: attention to human
+
+471

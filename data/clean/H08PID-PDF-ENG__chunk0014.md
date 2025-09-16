@@ -1,21 +1,25 @@
-# process.
+---
+source_path: H08PID-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2ea0d025a419f91e791c6d0450a93dd3ace27e9
+title: H08PID-PDF-ENG
+---
+# Recommendations for Leaders
 
-- 2. The best time for negative feedback might be the midpoint
+Our research provides useful insights for leaders who hope to inspire
 
-Our research found, perhaps unsurprisingly, that leaders who express
+their teams and unlock their employees’ potential.
 
-constant negativity hurt team members’ performance. However, our
+- 1. Take advantage of early opportunities to express genuine positivity
 
-study also revealed that some mid-term negativity might just inspire
+Our research dispels the theory that showing harsh emotions at the start
 
-your team to go the extra mile. Put simply, genuine tough love (that is,
+of a project drives performance (picture Bobby Knight). Instead, those
 
-an abundance of love early on, sprinkled with a little toughness at the
+leaders who hope to inspire strong performance should thoughtfully express how much they care about their staﬀ, enjoy working with them,
 
-midpoint) works well as a performance-enhancer. Indeed, past research
+and value their speciﬁc contributions—and they should do this early.
 
-ﬁnds that when employees feel they received tough love, it increases
+Even the late Steve Jobs, who is notorious for embracing a more
 
-their perceptions of their ability to grow and be promoted. Examples
-
-of leader tough love could include sharing feedback about areas for
+negative emotional leadership style, made sure to express enthusiasm to engineers during the kick-oﬀ meeting for the iPhone’s development

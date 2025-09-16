@@ -1,27 +1,11 @@
-# teenagers in Latin America?
+---
+source_path: R2502D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 66b897289aae0fccf6b1662a2cc0df27635231cc
+title: R2502D-PDF-ENG
+---
+## teenagers from around Africa at a facility on the outskirts of
 
-But he soon discovered that Latin American donors were skeptical of
+Johannesburg—in Medellín. Ontaneda framed his challenge as How
 
-the donor-supported, high-fee ALA model. So fees in his model would
-
-need to be modest, and the program would have to be much leaner and
-
-more decentralized. He reframed the challenge as How can I launch an
-
-affordable, scalable, and decentralized lifelong leadership-development
-
-program to bring together promising teenagers from across the continent?
-
-That led him to add online learning to the precedents and to develop a
-
-virtual-learning model with satellites in multiple countries that scaled
-
-up quickly and transformed donor skepticism into enthusiasm.
-
-The more novel and evolved your framing, the more likely you are
-
-to ﬁnd an innovative solution to your problem. Perhaps that’s why
-
-Einstein claimed, “If I had an hour to solve a problem, I’d spend 55
-
-minutes thinking about the problem and ﬁve minutes thinking about
+can I launch a successful high-touch leadership-development program for

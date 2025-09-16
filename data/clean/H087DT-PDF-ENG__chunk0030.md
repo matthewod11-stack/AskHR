@@ -1,9 +1,27 @@
-# productive things.
+---
+source_path: H087DT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 262ced5a1076951a5d989997f4db004082d3d837
+title: H087DT-PDF-ENG
+---
+# and stress.
 
-Use an unfocused mind to get things done
+Your work and your patterns of attacking it might be diﬀerent
 
-A huge part of why work can feel so overwhelming is the false idea that
+from mine. What’s important is that you observe your patterns and
 
-we should be focused and undistracted all day. That’s not possible, and
+sequence tasks accordingly. For example, say that realistically you’re
 
-not necessary or desirable, especially if you’re trying to do anything
+only productive for four days a week. Consider accepting that rather
+
+than ﬁghting it. If you notice that all you manage to do on Fridays is
+
+phone it in, see what happens if you’re honest about it. Experiment
+
+with organizing your schedule accordingly — get your must-dos
+
+done Monday to Thursday — rather than criticizing yourself for the
+
+limitations of your focus and discipline. Accepting our limitations can sometimes have a paradoxical eﬀect: Self-criticism takes up a lot of
+
+energy, so when we stop doing it, we have more energy for more

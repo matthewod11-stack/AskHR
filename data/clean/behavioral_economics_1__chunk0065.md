@@ -1,9 +1,9 @@
-# Economic Perspectives 19(3): 131-145.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 05f194dbca200c6c3cb48b960508fe28fd965163
+title: behavioral_economics_1
+---
+## Bounded Rationality." The American Economic Review 81(2): 353-359.
 
-Baker, M. P., R. S. Ruback and J. Wurgler (2004). Behavioral Corporate Finance: A Survey, NBER.
-
-Barberis, N., A. Shleifer and R. Vishny (1998). "A model of investor sentiment." Journal of Financial
-
-Economics 49(3): 307-343.
-
-Barberis, N. and R. Thaler (in press). A Survey of Behavioral Finance. Handbook of the Economics of Finance.
+Ashraf, N., C. F. Camerer and G. Loewenstein (2005). "Adam Smith, Behavioral Economist." Journal of

@@ -1,25 +1,27 @@
-# The Nature of CLEAR Connections
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1521a49d75ff1ff24bbd12e5a0a8e1f98e3c572b
+title: H08FH3-PDF-ENG
+---
+# Role Connection
 
-Akamai and NLI have been gathering and analyzing data to test
+Psychologist Mihaly Csikszentmihalyi researched and wrote about the
 
-and reﬁne this framework using a combination of questionnaires and employee data. Early results suggest that diﬀerent employees have
+idea of “ﬂow”: the experience of being so absorbed in an activity that
 
-unique needs surrounding each type of connection. One employee
+other things seem to almost fade away. While most of us won’t ﬁnd a
 
-might deeply value leader connection, spending a lot of time one-on-
+role where we spend the majority of our time in a ﬂow state, we can
 
-one with their manager, not collaborating much with their peers, and
+deﬁnitely gather insights about what motivates us and ﬁnd ourselves in
 
-barely thinking about their organization’s mission. Their focus might be
+satisfying roles.
 
-on building a strong partnership with their leader and working together
+When we experience role connection, we have a clear understanding of
 
-to explore advancement opportunities. Motivating this person requires a diﬀerent path than the path for another employee who most highly
+what our job is, we’re engaged in what we’re doing, and we have insight
 
-values colleague connection.
+into how we can advance. When we have role connection, we are lifted
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+up by the work we do.

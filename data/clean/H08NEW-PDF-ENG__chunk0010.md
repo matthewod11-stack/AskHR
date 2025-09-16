@@ -1,9 +1,17 @@
-# HBR / Digital Article / Your Company Wants to Close Pay Gaps. Here’s Where to Start.
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ca4ae24483ab82be91b7e6e75a5ba898781cc9c2
+title: H08NEW-PDF-ENG
+---
+# discrimination or inequity.
 
-signiﬁcance is 5%. (Note that we are discussing two diﬀerent numbers
+Statistical signiﬁcance denotes the likelihood that something (like a pay
 
-here, one is the size of the pay gap (e.g. 1.5%) the other is its statistical
+gap) happened by chance. In many settings, the threshold for statistical
 
-signiﬁcance (e.g. 5%)). Companies whose gaps are deemed statistically
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-signiﬁcant are likely discriminating against a group of employees in the
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

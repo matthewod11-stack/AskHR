@@ -1,51 +1,47 @@
-# citation.
+---
+source_path: Employment Law Guide - Occupational Safety and Health.md
+pages: n/a-n/a
+chunk_id: b3161ffb0f3c7adbbed12545e0186cad446f9961
+title: Employment Law Guide - Occupational Safety and Health
+---
+## issue citations for de minimis violations.
 
-Employees may not contest citations, amendments to citations, penalties, or lack of penalties. They may
+Other than serious violation: A violation that has a direct relationship to job safety and health, but probably
 
-contest the time allowed in the citation for abatement of a hazardous condition. They also may contest an employer's Petition for Modiﬁcation of Abatement (PMA), which requests an extension of the abatement
+would not cause death or serious physical harm.
 
-period. Employees who wish to contest the PMA must do so within 10 working days of its posting or within 10
+Serious violation: A violation where a substantial probability that death or serious physical harm could result and where the employer knew, or should have known, of the hazard.
 
-working days after an authorized employee representative has received a copy.
+Willful violation: A violation that the employer intentionally and knowingly commits. The employer either
 
-Within 15 working days of the employer's receipt of the citation, the employer may submit a written objection
+knows that what he or she is doing constitutes a violation, or is aware that a condition creates a hazard and
 
-to OSHA. If the PMA requests an abatement date that is two years or less from the issuance date of the citation, the Area Director has the authority to approve or object to the petition.
+has made no reasonable eﬀort to eliminate it. Proposed penalties for other-than-serious and serious violations
 
-Any PMA requesting an abatement date that is more than two years from the issuance date of the citation
+may be adjusted downward depending on the employer's good faith (demonstrated eﬀorts to comply with the Act through the implementation of an eﬀective health and safety program), history of violations, and size of
 
-requires the approval of the Regional Administrator as well as the Area Director. If the PMA is approved, the
+business. Proposed penalties for willful violations may be adjusted downward depending on the size of the
 
-Area Director shall notify the employer and the employee representatives by letter.
+business. Usually no credit is given for good faith.
 
-The Area Director or Regional Administrator (as appropriate), after consultation with the Regional Solicitor's Oﬃce, shall object to a PMA where the evidence supports non-approval (e.g., employer has taken no
+If an employer is convicted of a willful violation of a standard that has resulted in the death of an employee,
 
-meaningful abatement action at all or has otherwise exhibited bad faith). In such cases, all relevant
+the oﬀense is punishable by a court imposed ﬁne or by imprisonment for up to six months, or both. A ﬁne of up to $250,000 for an individual, or $500,000 for an organization [authorized under the Omnibus Crime Control
 
-documentation shall be sent to the Review Commission in accordance with Â§1903.14a(d). Both the employer
+Act of 1984 (1984 OCCA), not the OSH Act], may be imposed for a criminal conviction.
 
-and the employee representatives shall be notiﬁed of this action by letter, with return receipt requested.
+Repeat violation: A violation of any standard, regulation, rule, or order where, upon re-inspection, a
 
-Letters notifying the employer or employee representative of the objection shall be mailed on the same date that the agency objection to the PMA is sent to the Review Commission.
+substantially similar violation is found. To serve as the basis for a repeat citation, the original citation must be
 
-Employees may request an informal conference with OSHA to discuss any issues raised by an inspection,
+ﬁnal; a citation under contest may not serve as the basis for a subsequent repeat citation.
 
-citation, notice of proposed penalty, or the employer's notice of intention to contest.
+Failure to abate violation: Failure to correct a prior violation may bring a civil penalty for each day the
 
-Informal conferences: When issued a citation or notice of a proposed penalty, an employer may request an
+violation continues beyond the prescribed abatement date.
 
-informal conference with OSHA's Area Director to discuss the case. Employee representatives may be invited to attend the meeting. To avoid prolonged legal disputes, the Area Director is authorized to enter into
+The following outlines procedures for appealing OSHA citations and penalties.
 
-settlement agreements that may revise citations and penalties.
+Appeals by employees and employers: If a complaint from an employee prompted the inspection, the
 
-Notice of contest: If the employer decides to contest the citation, the time set for abatement or the proposed
-
-penalty, he or she has 15 working days from the time the citation and proposed penalty are received in which
-
-to notify the OSHA Area Director in writing. An orally expressed disagreement will not suﬃce. This written notiﬁcation is called a "Notice of Contest." There is no speciﬁc format for the Notice of Contest. However, it
-
-must clearly identify the employer's basis for contesting the citation, notice of proposed penalty, abatement
-
-period, or notiﬁcation of failure to correct violations. To better identify the scope of the contest, it also should
-
-identify the inspection number and citation number(s) being contested.
+employee or authorized employee representative may request an informal review of any decision not to issue a

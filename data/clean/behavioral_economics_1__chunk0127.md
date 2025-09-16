@@ -1,9 +1,17 @@
-# Decision Making 2(1): 1-23.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: f017f2ac8dd9418ecc9997e584708f881b9f2dca
+title: behavioral_economics_1
+---
+## Bandits." Journal of Economic Theory 78(1): 130-156.
 
-Shiv, B. and A. Fedorikhin (1999). "Heart and mind in conflict: The interplay of affect and cognition in
+Schmeidler, D. (1989). "Subjective Probability and Expected Utility without Additivity." Econometrica 57(3):
 
-consumer decision making." Journal of Consumer Research 26(3): 278-292.
+571-587.
 
-Shizgal, P. (1999). On the Neural Computation of Utility: Implications from Studies of Brain Reward. Well-
+Segal, U. and A. Spivak (1990). "First Order Versus Second Order Risk Aversion." Journal of Economic
 
-Being: The Foundations of Hedonic Psychology. D. Kahneman, E. Diener and N. Schwarz: 502-526.
+Theory 51(1): 111-125.
+
+Shafir, E., D. N. Osherson and E. E. Smith (1989). "An Advantage Model of Choice." Journal of Behavioral

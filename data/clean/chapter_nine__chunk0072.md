@@ -1,3 +1,21 @@
-# Box 3 cont’d.
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: e670d421e8d77d20b20fb2fb1beae80e6c4fe93b
+title: chapter_nine
+---
+# http://www.fons.org/library/journal.aspx
 
-17
+Based on the framework presented we define an effective workplace culture as:
+
+‘A local workplace characterised by the experience of three value sets by all who come into contact with it: a focus on person-centredness, collaborative, inclusive and participative ways of working; and a focus on providing effective care. These values are embedded in local formal systems of evaluation, learning, development and stakeholder participation that reflect and sustain them. Effective workplace cultures are recognised by flourishing of all involved, consistent achievement of standards and goals, evidence-based and continuous development, improvement and innovation in practice linked to the needs of patients, and, empowered and committed staff. These cultures are enabled by transformational leaders, skilled facilitation and role clarity and are complemented by organisational readiness with a flattened and transparent management structure and supportive human resource department.’
+
+Effective workplace cultures can be illustrated in different ways for example; see the vignette in Box 3.
+
+Box 3. Working towards an effective culture (adapted from Webster, 2007)
+
+Specific enabling factors, (EF), attributes (A) and consequences (C) are italicised in brackets. These refer to Table 3. Values comprising Attribute 1 (A1) are abbreviated as follows: PCC – person centredness; LLL – lifelong learning; HSHS – high support high Challenge; LD - leadership development; CIP – collaborative, inclusive, participative; EUD – evidence use and development; PAC positive attitude to change; OC – open communication; T – teamwork; S- safety
+
+As a practice development nurse new in post I was asked to review the number of incidents reported on one of the wards I worked with (EF2b,c). I saw that monthly the number of patients falling was high. On talking with staff and the ward sister there appeared to be a resigned acceptance that ‘this happens to people when they get old’, it was considered the ‘norm’ and was just accepted. I sensed that nothing appeared to change and that no one seemed to own the issue. Staff appeared ‘neutral’ and ‘unmoved’ to this situation, and I experienced a strong sense that people just wanted to maintain the status-quo and not to question, critically reflect or change practice. There was no proactive, partnership working with older people. There was no creativity in how people worked, each staff group worked in a professional silo, and there was little communication between professional disciplines or shared decision making and risk taking. There were no goals for practice or understanding of the values underpinning how the team worked. But nobody saw this as an issue; it was just ‘how things were’.
+
+After working with the ward for a few months I saw that the new Ward Sister was collaborative and transparent in her decision making, she was clear about her role including responsibility and accountability and the roles that team members held (EF1a/EF1c). As a practice development nurse she saw me as providing (and developing in others) facilitation skills (EF1b) to help develop practice and improve care for patients. Having worked with team members and observed practice I felt that the ward and team were now willing and committed to improve care for patients (PAC); I sensed an energy and excitement in the team to think and work in new and different ways (A3). Having had contact with the ward before I came into post, I knew that they had (over a period of time) experienced a number of challenges – a succession of leadership changes (clinical and operational), merging with another ward and a reputation that it was a ‘difficult’ place to work. I knew also that there had been a number of ‘performance’ issues that had been addressed by the new Ward Sister.

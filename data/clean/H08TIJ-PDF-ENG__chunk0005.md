@@ -1,27 +1,23 @@
-# #143 to her daily to-do list.
+---
+source_path: H08TIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e71e9f5ac0ab5f347c1b11f47b824dcd2e233b6c
+title: H08TIJ-PDF-ENG
+---
+## HBR / Digital Article / Stop Solving Your Team’s Problems for Them
 
-In that moment, each felt a sense of temporary relief: Sven was relieved
+organizational red tape. Plus, recent layoﬀs and economic uncertainty
 
-that Laura was going to solve this, and Laura was relieved that Sven
+had him paranoid about making a mistake. Sven decided to bring the
 
-felt supported in a rough moment. Yet, over time, the dynamic repeated
+problem to my client Laura, his manager and the organization’s chief revenue oﬃcer.
 
-itself, and relief faded. Laura was burning out fast, Sven felt powerless
+Laura listened attentively as Sven waded through the details. She asked,
 
-with his own customers, and results were starting to dip.
+“What support do you need from me?”
 
-It’s a pattern I see repeatedly in my coaching practice, and one that’s
+“Could you reach out to the customer?” Sven asked.
 
-been well documented in research on learned helplessness and decision
+Laura knew Sven was capable of managing the problem, but she didn’t
 
-fatigue. This dynamic creates decision-making bottlenecks, diminishes
-
-team ownership, and accelerates managerial burnout.
-
-Many leaders today are struggling to balance the aspiration of being a
-
-supportive leader with the reality of being overwhelmed. If you ﬁnd
-
-yourself wishing problems would stop landing on your desk—even
-
-though you care deeply about the people bringing the problems—you’re
+want him to feel unsupported or dismissed. So, she agreed, adding item

@@ -1,13 +1,13 @@
-## Can the Employer Prove That the Requirement Is Job Related?
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ac208487f5c0dea457f9a4d496f4e96366b36851
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Was the Requirement Designed to Intentionally Discriminate against a Protected Class?
 
-As shown in the flowchart in Figure ., if our employment practice does not result in adverse impact, it is probably legal. If adverse impact does result, then the burden of proof shifts to the employer to demonstrate that the employment practice is either job related or exempt from adverse impact. Before discussing these two strategies, two points need to be made. First, adverse impact is a fact of life in personnel selection. Almost any hiring test is going to have adverse impact on some protected class, though some may have less adverse impact than others. Second, the burden of proof in employment law is different than in criminal law. In criminal law, a defendant is innocent until proven guilty. In employment law, both the  Civil Rights Act and the court’s ruling in Griggs v. Duke Power () shift the burden of proof: Once adverse impact is established, an employer (the defen- dant) is considered guilty unless it can prove its innocence by establishing the job relatedness of the test. That employers are treated more harshly than criminals by Congress and the courts is a constant source of frustration among HR professionals.
+If an employment practice does not refer directly to a member of a protected class but adversely affects a protected class, the courts will look closely at whether the practice was initiated to intentionally reduce the pool of qualified minority applicants. For example, suppose a city requires all of its employees to live within the city limits. The city believes that this is a justifiable requirement because
 
-Valid Testing Procedures An employment practice resulting in adverse impact may still be legal as long as the test is job related (valid) and as long as reasonable attempts have been made to find other tests that might be just as valid but have less adverse impact (refer to the flowchart in Figure .). For example, if an employer uses a cognitive abil- ity test to select employees, there is a strong possibility that adverse impact will occur. If the employer can demonstrate, however, that the cognitive ability test predicts performance on the job and that no other available test with less adverse impact will predict performance as well, the use of the test is probably justified.
+salaries are paid by tax dollars, and town employees should contribute to that tax base. Though such a requirement is not illegal, the court might look deeper to see if the tax base was in fact the reason for the residency requirement. That is, if the city population was % White and the population of the surrounding area was % African American, the court might argue that the residency requirement was a subtle way of discriminating against minorities.
 
-Validating tests can be quite expensive: Estimates of the average cost to vali- date a test range from $, to $, per job (Seberhagen, ). A more in- depth discussion of validity strategies is found in Chapter .
-
-An interesting example of adverse impact and job relatedness comes from the town of North Miami, Florida. For  years, North Miami required that police recruits be able to swim. Although the requirement seemed logical given that the town is located next to the ocean, it had adverse impact against African Ameri- cans. When the town looked further at the job relatedness of the requirement, it discovered that North Miami officers seldom entered the water for rescues: only eight times from  to . Because swimming was an infrequent activity and the swimming requirement resulted in adverse impact, in  North Miami eliminated the swimming ability as a requirement for the job of police officer.
-
-legal issues in employee selection
-
-93
+Though such subtle requirements are probably no longer common in the employment sector, they have been used throughout history. For example, before the s, some states required voters to pass a “literacy test” to be eligible to vote. Though the stated purpose of the test was to ensure that voters would make intelligent and educated decisions, the real purpose was to reduce the number of minority voters.

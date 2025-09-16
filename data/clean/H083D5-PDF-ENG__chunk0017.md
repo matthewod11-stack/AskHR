@@ -1,17 +1,15 @@
-## their place in the grand scheme of things.
+---
+source_path: H083D5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7d355c826e6304a1b2587171c02170a1df157ee
+title: H083D5-PDF-ENG
+---
+## A third, and critical, component of a good onboarding experience
 
-One of the surest ways to torpedo a new hire’s sense of belonging is
+involves making sure new hires feel welcome and a sense of belonging.
 
-the use of insider-jargon or acronyms without explanation. Assuming
+There is a real danger that new employees won’t be able to learn about
 
-universal understanding of business terms like “LOE” (level of eﬀort),
+their job and your organization if they are distracted by worrying about
 
-or “RCA” (root cause analysis), organization-speciﬁc names like TPS
-
-report (which can mean many diﬀerent things), or the staﬀ’s routine
-
-attendance at the “AERA conference” (these are real examples) is
-
-misguided. New hires are not necessarily in the know about these terms,
-
-and their lack of knowledge slows down understanding and can create
+ﬁtting in, ﬁnding like-minded people to connect with, or questioning

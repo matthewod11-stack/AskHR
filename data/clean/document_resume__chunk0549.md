@@ -1,5 +1,9 @@
-# (Chicago: Dryden, 1987), p. 231.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 8104ea2756815774ef6fb7f003684f2db8cfa0b1
+title: document_resume
+---
+# and Associates, 1982).
 
-- 14. American Psychological Association, op. cit., p. 5.
-
-- 15. Kenneth Pearlman, "Job Families. A Review and Discussion of Their Impli-
+- 13. Robert D. Gatewood and Hubert L. Field, Human Resource Selection

@@ -1,44 +1,26 @@
-# APPROXIMATE GRADE LEVEL
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: cffa7c5948f7ba5ba0c36ba1d50660e8138f137f
+title: industrial_organizational_psychology_an_applied_approach
+---
+# o
 
-136
+r e b m u N e g a r e v A
 
-140
+25.0 20.0 16.7 14.3 12.5 11.1 10.0 9.1 8.3 7.7 7.1 6.7 6.3 5.9 5.6 5.2 5.0 4.8 4.5 4.3 4.2 4.0 3.8 3.7 3.6 3.5 3.3 3.0 2.5 2.0
 
-9
+108- 112 +
 
-144
+1
 
-148
-
-10
-
-152
-
-11
-
-156
-
-12
-
-160 164 168
-
-13
-
-14
-
-172
-
-15
-
-176 180 182+
-
-16
-
-17+
-
-108- 112
+2
 
 116
+
+3
+
+4
 
 120
 
@@ -46,20 +28,10 @@
 
 128 132
 
-136
+5
 
-140
+6
 
-144
+7
 
-148
-
-152
-
-156
-
-160 164 168
-
-172
-
-176 180 182+
+8

@@ -1,7 +1,9 @@
-# Moderator Effects
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 949b26e8b0a232d70d5ae2806d95c13550c5f026
+title: barrickryan_eds_personality_and_work
+---
+# 200 PERSONALITY AND WORK
 
-The inﬂuence of the team setting on relationships between indi- vidual traits and individual performance represents a moderator model. The team setting, which can be viewed as either a team or an organization-level construct, creates a setting that magniﬁes the importance of cooperative social relationships. Agreeable people have a natural tendency to cooperate with others, making agree- ableness an important predictor of individual performance in team settings. The higher-level construct of team-based organizational structure thus moderates the relationship between individual-level agreeableness and individual performance.
-
-Another interesting moderator effect appears to occur when team structure moderates the relationship between one individ- ual’s traits and another person’s individual behavior. Based on the work of LePine and Van Dyne (2001), team members adjust their behavior dependent on how they perceive the traits of their team- mates. Because this effect is predicted only in an interdependent team setting, the higher-order construct of team structure again moderates the relationship between two individual-level variables. Various theoretical perspectives also suggest that team-level con- structs such as cohesion and conﬂict may inﬂuence relationships between traits and individual behavior.
-
-Perhaps the key lesson learned from the moderator perspec- tive is that the higher-level construct of teams has the potential to alter individual-level relationships. Most of our research in the ﬁeld of industrial/organizational psychology has focused on perfor- mance in individually oriented settings, suggesting that we need to revisit many of our currently held assumptions. Although the focus of this chapter has been on personality, these assumptions are as- sociated with several core ideas of human resource management such as job analysis, selection, and compensation. How can job analysis inform and guide organizations that assign relatively large
+into an increase in performance at the team level. An important cross-level conclusion is thus that organizations need to think of team- level effects when they make individual selection decisions. In many cases, the impact on collective performance is likely to go well beyond what might be determined through measuring only individual performance.

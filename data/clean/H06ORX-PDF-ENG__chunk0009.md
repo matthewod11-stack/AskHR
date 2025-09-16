@@ -1,7 +1,13 @@
-## and education, innovation, community building, and hybrid work
+---
+source_path: H06ORX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20272e01d11ad15bf27b3ae02daa4b5b1fa1cd0e
+title: H06ORX-PDF-ENG
+---
+# deﬁnition of we.
 
-health and were composed of members from numerous functions and
+In one organization, to break down unhealthy tribalism, we established
 
-regions, all resourced and empowered to act. Creating an aﬃnity to a
+cross-functional teams to take responsibility for various aspects of the
 
-team with broader purpose immediately helped improve cohesion and
+organization’s cultural health. Teams focused on things like learning

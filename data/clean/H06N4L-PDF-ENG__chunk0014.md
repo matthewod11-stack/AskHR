@@ -1,41 +1,23 @@
-## on a particular religious tradition, spiritual orientation, non-religious
+---
+source_path: H06N4L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8dc4f0691bd27df2d72732f711a94450ac6becbe
+title: H06N4L-PDF-ENG
+---
+# HBR / Digital Article / Are Non-Christian Employees Represented in Your Holiday Polic…
 
-perspective, or some combination of these). The ideal is a step beyond
+third of those holidays would be a nonstarter for most organizations.
 
-just “accommodation” — it’s to show employees that company leaders
+Another potential strategy is picking and choosing speciﬁc religious
 
-value them and respect and welcome this aspect of their identity.
+holidays to observe as a company, but this strategy quickly becomes
 
-Below are some practical and meaningful ways that your organization
+complicated at best, and problematic at worst. This would, by default,
 
-can support its religiously diverse employees:
+leave certain community members and traditions out, and therefore
 
-Consider oﬀering your employees ﬂoating holidays: Our organization’s holiday policy is simple. We oﬀer 5 ﬂoating holidays, to
+would not meet the ultimate goal of showing respect for worldview
 
-be used however the employee chooses to use them. Companies can oﬀer ﬂoating holidays alongside other paid time oﬀ. Our organization
+diversity. (At IFYC, we intentionally use the term “worldview” to
 
-provides employees paid federal holidays, with the exception of
-
-Christmas Day (since Christmas Day is also a religious holiday). As a
-
-committed Christian, at ﬁrst I found it strange to have to put in a time-oﬀ request for Christmas, but this experience helped me gain a
-
-deeper appreciation for my non-Christian colleagues who are used to
-
-such procedures to observe their holiest days.
-
-Pair any ﬂoating holiday policies with generous PTO: Pairing our
-
-ﬂoating holidays with a generous PTO policy is important, especially
-
-because some religious traditions have more than ﬁve holidays. For
-
-example, there are up to 13 Jewish holidays per year that can require
-
-missing work. One of my colleagues observes all 13 each year, so she
-
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+describe a guiding philosophy or outlook on life, which may be based

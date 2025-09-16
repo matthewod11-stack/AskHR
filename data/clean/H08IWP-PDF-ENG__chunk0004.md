@@ -1,3 +1,13 @@
-## HBR / Digital Article / 3 Ways to Make All Your Stakeholders Feel Heard
+---
+source_path: H08IWP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7096a5b1499fb34dc22fb5664e0b5f4332e6eecf
+title: H08IWP-PDF-ENG
+---
+## from them? More often than not, the outcome isn’t good.
 
-Consider the case of the PGA Tour, the most prestigious golf circuit in
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,23 @@
-# HBR / Digital Article / Making Mental Health Programs Work at Multinational Compan…
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c4e837a3fc3c37f49a2760d643179457ea39aa0
+title: H08NVC-PDF-ENG
+---
+## of mental health initiatives or interventions without thorough
 
-To avoid a low return on their investment, multinationals must have
+strategic planning about how they will be adapted globally. Without
 
-a comprehensive understanding of employees’ diverse needs and lived
+understanding the diﬀerent “end users,” any product or program,
 
-experiences related to mental health.
+however well-designed, will not ﬁt their needs or solve the problems
 
-This was the challenge faced by a multinational investment institution
+that hinder progress. Worse, this wastes company resources and
 
-that employs over 50 diﬀerent nationalities. Instead of just copying best
+people’s energy, leading to exasperation and exhaustion.
 
-practices from other banks, the institution decided to take a customized
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-path for its mental health initiative. It surveyed and interviewed representative employees from a variety of roles, positions, oﬃces, ages,
+6
 
-and language spoken to understand the varying levels of awareness and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

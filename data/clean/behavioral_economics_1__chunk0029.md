@@ -1,27 +1,43 @@
-# bad investments.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 90907edca4076a32b8d694d944247f97bea2e911
+title: behavioral_economics_1
+---
+# division of labor.
 
-12 Becker conjectures that “it doesn’t matter if 90 percent of people can’t do the complex analysis required to calculate probabilities. The 10 percent of people who can will end up in jobs where it’s required”. A good example is insurance actuaries or analysts who price derivative assets.
+Recent evidence shows substantial effects of basic intelligence on the tendency to make the kind of
 
-15
+judgment mistakes documented in the heuristics literature, and on risk-aversion and immediacy preference
 
-Finally, note that sorting is difficult to study in the field, but it is easy to study experimentally—because
+(Benjamin and Shapiro, 2005; Frederick, 2005). This kind of evidence invites the possibility that “smarter”
 
-agents’ characteristics can be measured, and self-selection can be measured too (e.g., Lazear, Malmendier, and
+people will be sorted into jobs where their decisions minimize or repair mistakes by others. In a magazine
 
-Weber, 2005).
+interview Gary Becker opined that “division of labor…’strongly attenuates if not eliminates’ any effects caused
 
-Organizational repairs: An interesting supply-side response to managerial rationality limits is what
+by bounded rationality” (Stewart, 2005).12
 
-Heath, Larrick and Klayman (1998) call “organizational repairs”. They suggest that some organizational
+Becker’s conjecture should be explored theoretically and empirically. The power of division of labor to
 
-practices can be seen as responses to managerial errors. Microsoft had a hard time getting its programmers to
+necessarily produce organizational efficiency may be limited by various factors. First of all, large organizations
 
-take customer complaints seriously (despite statistical evidence from customer help-lines), because the
+demand some skills at a very high level (e.g., extreme honesty when there are huge opportunities for theft). A
 
-programmers thought the software was easy to use and couldn’t believe that customers found it difficult (a
+limited supply of agents with enough skill will then limit the size of the firm.
 
-“curse of knowledge”). So Microsoft created a screening room with a one-way mirror, so programmers could
+Second, the sorting process requires a human resources department or other mechanism to identify
 
-literally see for themselves how much trouble normal-looking consumers had using software. The trick was to
+talent. If the ability to spot talent is itself a scarce talent, or self-selection is limited by optimism (for example),
 
-use one judgment bias—the power of visually “available” evidence, even in small samples— to overcome
+those forces will limit how much talent is spotted.
+
+Third, what happens if managers are biased in one dimension but excellent at another? Hard-driving
+
+CEO’s, for example, may be superb at motivating people and creating an inspiring vision, precisely because
+
+they are wildly optimistic and genuinely convinced they can’t fail. So it is possible that the sorting process of
+
+managerial selection actually selects for optimism rather than selects for realism. The organizational challenge
+
+is to design job structure that harnesses a CEO’s optimism as motivation, but keeps that optimism from making

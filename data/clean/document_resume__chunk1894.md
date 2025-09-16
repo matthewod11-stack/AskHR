@@ -1,17 +1,23 @@
-# Andrews, Hans A., 7
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 95a0dc1c27872c1c4ab04f07331315908dcad573
+title: document_resume
+---
+# "Uniform Guidelines," Sec 14 (C) (4)
 
-Bailey, Catherine T., 52, 53 Baker, George, A., III, 104, 109 Baker, Robin Z., 8 Banks, Christina G., 65, 70, 82, 91 Beatty, Richard W., 41, 73, 76, 77, 84,
+Performance criteria should be described in terms of actual lob conditions
 
-88, 89, 90, 91, 98
+The performance appraisal process should be administered under controlled and standardized conditions
 
-Belensky, Ann H., 45, 53 Bellman, Geoff, 63, 69, 70 Bemis, Stephen E., 45, 53 Bender, Henry E., 7, 40 Bennett, John B., 41, 63, 64, 70 Berk, Ronald A., 49, 50, 51, 53 Bernardin, H. John, 73, 76, 77, 84, 88,
+Brito v Zia Company, 478 F 2d 1200 (1973) A performance appraisal instrument should be developed The instrument should facilitate the rating process and be keyed to both the criteria and method Provisions should be made for weighting the ratings according to the rules of combination Indentification, comments, and signatory sections should be included
 
-89, 90, 91, 98
+A report or memorandum of how the system was developed should be prepared
 
-Biddle, Richard E., 47, 53, 114, 115 Borman, Walter C., 40, 53, 74, 89 Brawer, Florence B., 1, 7, 109 Buford, James A., Jr., 81, 90 Bureau of National Affairs, 8 Burke, Kenneth, 63, 70 Burns, Robert K., 91
+Vulcan Pioneers, Inc v New Jersey Department of Caw, Service, 588 F Supp 732 (D C N J 1984) "Uniform Guidelines," Sec 15 (C)(1-9)
 
-Campbell, Donald T., 53 Champion, Cecilia H., 90 Chater, Shirley S., 41, 63, 64, 70 Clampitt, Phillip G., 57, 58, 64, 69, 70,
+A content validity report should be prepared This report should include as a minimum user(s), locahon(s), and date(s), job analysis - content of the job, performance appraisal procedure and its content, relationship between performance appraisal procedure and the job, alternative procedures investigated, uses and applications, contact person, accuracy and completeness
 
-71
+Developed by James A Buford, Jr and Bettye B. Burkhalter (1988), Auburn, University, Alabama 36849
 
-Cohen, Arthur M., 1, 7, 8, 109 Collins, Sonya T., 81, 90 Cousins, Norman, 57, 69 Cronbach, Lee J., 53 Cummings, L. L., 41
+184;

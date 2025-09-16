@@ -1,15 +1,13 @@
-## company and satisfaction with management and employee programs.
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d798736151bff4376dc042ba96a9dbae3fc8b971
+title: R2403D-PDF-ENG
+---
+# HBR / Magazine Article / Highly Skilled Professionals Want Your Work But Not Your Jo…
 
-In 2022, Microsoft decided to abandon its annual “engagement” survey
+behavior such as disrespectful and noninclusive treatment. This is often
 
-when managers realized that it consistently generated very positive
+missed in company engagement surveys that focus on aggregate scores
 
-feedback despite reports that employee well-being was suﬀering in
-
-some areas. They decided to dig deeper into areas where people were
-
-clearly struggling. Their more frequent survey measures how much
-
-employees are “thriving,” which they deﬁne as “being energized and
-
-empowered to do meaningful work.”
+covering a range of topics such as pride in and connection with the

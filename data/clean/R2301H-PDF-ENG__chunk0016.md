@@ -1,23 +1,21 @@
-# approach.
+---
+source_path: R2301H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ead82fd3f031b2560d36a585377131feb6e7c11b
+title: R2301H-PDF-ENG
+---
+## HBR / Magazine Article / The Power of Options
 
-“But I need to be authentic,” she countered.
+Berlin-based photographer Matthias Heiderich is interested in architectural patterns and colors he finds in the city, especially in overlooked functional spaces and in the multitude of ways that inhabitants design and shape their surroundings.
 
-“Of course,” we responded, “but you can use other stances while still
+As we talked, we identiﬁed a clear gap between her own and others’
 
-being true to yourself.”
+perceptions. Leaning In—way in—was her default stance. As a former
 
-We went through the stances one by one. In situations in which Lean
+lawyer, she was a world-class debater, and her impact was far more
 
-In was the best choice, she saw that she could be more skillful by
+powerful than she realized. It was clear she needed to overcome her
 
-better calibrating the intensity of her remarks. If she could learn to
+reﬂexive behavior and ﬁnd other viable ways to win. We described
 
-Lean Back and not rush into conﬂict, she could slow down her reactions
-
-and be more strategic about when she would engage. If she applied
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the four stances and asked her to consider alternatives to her default

@@ -1,11 +1,11 @@
-## Don’t Put the AI Cart Before the Strategy Horse
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: be629f3576f3238c4f9c521220429aae4bdf838e
+title: H08VUQ-PDF-ENG
+---
+## the company’s core appeal—a high-touch, high-end personalized
 
-As the experiences of Snapchat and Nordstrom reveal, just adding AI
+experience—triggering high return rates and sluggish sales. Unable to
 
-to your products doesn’t guarantee success; whether or not it creates
-
-value rests on what companies do with it. When companies lead with
-
-AI or treat it as the answer, they put the cart before the horse and risk
-
-compromising their company’s strategy and the value it provides to the
+cover operational costs, Nordstrom ﬁnally decided to pull the plug.

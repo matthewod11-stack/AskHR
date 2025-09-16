@@ -1,15 +1,9 @@
-# achieve pre-deal expectations.
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f6ceb337d177d6d608fb8e7ea50f34c02fe988ba
+title: H08ON1-PDF-ENG
+---
+# HBR / Digital Article / A Guide to Building a Unified Culture After a Merger or Acquisiti…
 
-Why is that the case? Through our research and work with
-
-organizations, we have found that while companies’ pre-deal due
-
-diligence is often strong, there tends to be a lack of focus on the day-
-
-to-day experiences of the acquired employees, which can have serious
-
-negative implications for the success of the deal. For acquiring ﬁrms,
-
-planning for the employee integration experience is just as important
-
-for achieving deal value as other, more traditional, steps of the due
+signiﬁcant investment of time and resources, many M&As do not

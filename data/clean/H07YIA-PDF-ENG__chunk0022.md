@@ -1,11 +1,21 @@
-## educational modules and ill-deﬁned team-building activities will never
+---
+source_path: H07YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aba7bc82220592e835a46b2d73542318e005dcc3
+title: H07YIA-PDF-ENG
+---
+# mentorship.
 
-generate the return on investment that proper mentorship can.
+To promote equal access to opportunity and investment in such
 
-By the end of our careers, we realize that our legacy is ﬁrmly rooted in
+obligations, institutions must recruit a diverse body of mentors and
 
-the relationships we have nurtured and the careers we have cultivated.
+avoid preferentially assigning unpaid tasks to underrepresented, early-
 
-But in order to achieve those end-of-career goals, we must enhance the
+or mid-career managers (or, in the case of academic institutions,
 
-current state of mentorship to make it more palatable, eﬃcient, and
+faculty). Next, institutions must formulate objective metrics for
+
+evaluating mentorship. Finally, it is important for them to dedicate
+
+ﬁnancial resources to support and develop good mentors. Online

@@ -1,9 +1,19 @@
-## achievement outcomes, parent loyalty, and student attendance.
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b85e50ff98e4afa29516c86e8e8738196c10e849
+title: R2405H-PDF-ENG
+---
+## accountability, from the shop ﬂoor to the boardroom.
 
-Sharon Beals photographs the nest and egg specimens of extinct and endangered birds, bringing attention to the challenges birds face in protecting their next generation.
+A school district in Texas we advised took a similar approach. The
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+district had been experiencing outbreaks of bullying, and concern was
 
-7
+growing that they were aﬀecting educational outcomes and attendance.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+To address the problem, the superintendent and the school board
+
+decided to put students’ physical and psychological safety on campus
+
+at the core of the district’s strategy, framing it as a driver of academic-

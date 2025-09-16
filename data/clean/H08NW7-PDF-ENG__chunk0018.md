@@ -1,21 +1,17 @@
-# some imposed expectations of perfection.
+---
+source_path: H08NW7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c2fe7fcd0ce9686618581f79afc76cf390f0d4c
+title: H08NW7-PDF-ENG
+---
+# credibility:
 
-Reﬂect on that voice telling you, “If people really knew you weren’t that
+Identify the perceived risk of the truth.
 
-good…” How does that sentence ﬁnish in your mind? What is the threat
+Your choice to exaggerate isn’t random. It’s learned behavior.
 
-you’re avoiding? By clarifying the perceived risk, you can interrogate the
+Somewhere you learned that an accurate perception of your abilities
 
-origin story where you ﬁrst experienced it.
+from others held risk: of being seen as less than competent, missing out
 
-In Ben’s case, many of his formative years were spent competing for
-
-opportunities he was chided for not winning. He literally had a high
-
-school coach pushing him to win a track scholarship say those words to
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+on opportunities, being perceived as just “average,” or not living up to

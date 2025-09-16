@@ -1,1 +1,9 @@
-# rules and
+---
+source_path: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of.md
+pages: n/a-n/a
+chunk_id: b785b993d363a64e0fc6b01e90ba0b10a4ac5697
+title: influence_of_progressive_discipline_on_employee_performance_in_kenya_a_case_of
+---
+# Employee Rules and Regulation
+
+regulations management The establishes in the workplaces are necessary so management remains in compliance with the law. The rules and regulations enable the employees to abide to the rules and regulations set and this enables to improve the performance of an organization (Hassan, 2005) and grievance procedures. However, the introduction of unfair dismissal and discrimination legislation and the consequent threat of defending employment tribunal applications were argued to have provided employers with a significant impetus to adopt more formal processes though the regulations effective employee (Edwards et al., 2004). Nonetheless, the greater use of formal procedure failed to halt the rapid increase in employment tribunal applications from 1988 onwards, with the rate more than trebling between 1988 and 1996 (Burgess et. al, 2007).

@@ -1,25 +1,29 @@
-## HBR / Digital Article / How the Geeks Rewrote the Rules of Management
-
-ADI IGNATIUS:
-
-As I read the book, some of those attributes you talked about, they
-
-had to do with speed, they had to do with experimentation. Is this just
-
-another term for being digital, or for applying design thinking of the
-
-business? Are we talking the same thing here?
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bb67d18e9156b2318161cc0ddf8331f27caeaf5d
+title: H07T7V-PDF-ENG
+---
+# Processes of management.
 
 ANDREW MCAFEE:
 
-No, I don’t think so. Adi, you remember Quibi, right, the Jeﬀrey
+“Obsessive maverick” is my preferred phrase for a geek. And the
 
-Katzenberg-led video startup? It was going to do short-form videos and
+obsessive mavericks that I got really interested in were the ones who
 
-it was going to change the way we consume entertainment.
+dove in, again, on this problem of, “How do we run a company and
 
-Quibi was entirely digital. It was a completely digital enterprise. It was a
+keep doing well in our markets and avoid the dysfunctions that seem to
 
-miserable failure. They raised $1.75 billion. They shut down within 200
+plague so many successful companies as they get older and bigger? How
 
-days of their launch. It was just a catastrophe. It was a completely digital
+do we avoid those dysfunctions? How do we do something that’s higher
+
+performing, more sustainable, and a better place to work?”
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

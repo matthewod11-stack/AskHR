@@ -1,25 +1,13 @@
-## HBR / Digital Article / Looking for a Sense of Purpose? Volunteer.
+---
+source_path: H08NSA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ae1ed12c49c60514925008aea823808ae7f6c74
+title: H08NSA-PDF-ENG
+---
+# underresourced.
 
-What volunteer activities do my friends or colleagues participate in?
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-If you’re struggling to ﬁnd the right opportunities, but are still eager
+5
 
-to get involved, consider tapping into your network. Your friends and
-
-colleagues may participate in volunteering eﬀorts that you can join to
-
-gain ﬁrsthand experience and explore what feels like the right ﬁt.
-
-- 3) Save room for inspiration.
-
-Over time, like Lee and many other people I’ve connected with, you
-
-may ﬁnd that your volunteer experiences start inﬂuencing your career
-
-choices. Volunteering gives you the freedom to explore new interests
-
-and passions outside your job. This can help you uncover (or rediscover)
-
-what truly fulﬁlls you. As your values evolve, you may even ﬁnd a cause
-
-worth pursuing professionally—leading to a career that aligns with your
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

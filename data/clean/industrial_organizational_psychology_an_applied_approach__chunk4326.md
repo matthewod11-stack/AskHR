@@ -1,11 +1,11 @@
-## McEvoy, G. M. (1988). Evaluating the boss. Personnel
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1d4f40b5ff6f6f062ab7dcb91a454ac72f7d51de
+title: industrial_organizational_psychology_an_applied_approach
+---
+## McElroy, J. C., Morrow, P. C., & Ackerman, R. J. (1983).
 
-Administrator, 33(9), 115–120.
+Personality and interior oﬃ ce design: Exploring the accuracy of visitor attributions. Journal of Applied Psychology, 68, 541–544.
 
-McEvoy, G. M. (1990). Public sector managers’ reactions to
-
-appraisals by subordinates. Public Personnel Management, 19(2), 201–212.
-
-McFarland, L. A., Sacco, J. M., Ryan, A. M., & Kriska, S. D.
-
-(2000). Racial similarity and composition eﬀ ects on structured pane interview ratings. Poster presented at the 15th annual conference of the Society for Industrial and Organizational Psychology, New Orleans, LA.
+McElroy, J. C., Morrow, P. C., & Wall, L. C. (1983). Generalizing impact of object language to other audiences: Peer response to oﬃ ce design. Psychological Reports, 53, 315–332.

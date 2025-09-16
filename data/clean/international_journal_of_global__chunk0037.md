@@ -1,3 +1,9 @@
-## practice. Journal of Leadership Studies, 2(3), 100–123.
+---
+source_path: international_journal_of_global.md
+pages: n/a-n/a
+chunk_id: 0e162d30d3596f1be23ef98a8bd50683a961aa83
+title: international_journal_of_global
+---
+# Management.
 
-Eskierka, J. A. (2011). Proposing a succession planning and leadership development program for the St. Paul fire
+Egan, R. F. C., Sarros, J. C., & Santora, J. C. (1995). Putting transactional and transformational leadership into

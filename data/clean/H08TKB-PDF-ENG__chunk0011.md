@@ -1,27 +1,13 @@
-# HBR / Digital Article / Planning an Offsite for Your Leadership Team? Ask These 5 Que…
+---
+source_path: H08TKB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 65fd92845059ad2789d73c5b6e7f8c81e7dfe3c7
+title: H08TKB-PDF-ENG
+---
+# planning, not as an afterthought.
 
-Allocate time at the end of the oﬀsite to align with the team on a
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-handful of commitments. Set expectations that all participants will be
+4
 
-held accountable, and track the team’s progress vs. commitments on a
-
-quarterly basis. Intervene when progress isn’t demonstrated and reward
-
-continuing eﬀorts when they are.
-
-Another approach to ensuring follow through is to establish champions
-
-who will hold the team accountable for certain commitments. For
-
-example, a media company’s leadership team developed new operating norms at their oﬀsite to improve decision-making eﬃciency. To ensure
-
-the norms stuck, they assigned a “norms champion” for each team
-
-meeting—a rotating role responsible for monitoring adherence and
-
-gently calling out deviations. They also scheduled a 30-day follow-up
-
-session to reﬂect on what was working, adjust the norms, and reinforce
-
-their commitment. These steps helped embed the changes into their
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,17 @@
-# research
+---
+source_path: sciencedirect.md
+pages: n/a-n/a
+chunk_id: 64d1f721a7d3f70ac4f7f914e44cb8e381bbf59f
+title: sciencedirect
+---
+# the brain, as in an
 
-and theorizing [1].
+e on the negative than on the positive side of patients’ analysis state of mind. Psychologists develop an understanding of the mental state of the patient and identify the problem to cure it. Currently, mental anxiety and stress are the most common problems affecting the state and behavior of individuals. It is believed that these states and behaviors affect the individual’s performance and productivity. In traditional psychology, the a recognizing the emotional well-being of individuals, patients, such as depression and tackling the state with conventional methods and drugs. This is fundamentally essential for those facing psychological illness, it g ives a deficient picture of emotional well-being. Positive psychology is a generally new branch of psychology that shifts the concentration from what is clinically wrong, to the advancement of prosperity and the making o f a satisfying life loaded with significance, happiness, delight, engagement, positive relationship and achievement.
 
-Positive Psychology is a current branch of psychology which stresses ordinary, successful advancement instead of the treatment of psychological sickness. The field promises to strengthen traditional psychology rather than replacing it as PS fundamentally focuses on what is “good” in the individual, positive traits, and strengthen them.
+Psychology is the study of human behavior and mind state. Traditional psychology has been effectiv
 
-Martin Seligman is considered the father of Positive Psychology, although the term is coined to Abraham Maslow, 1951, and he concentrated on the individuals’ happiness, prosperity, well-being and how the individual’s mental state could be improved by focusing on these traits. Seligman successfully amalgamated thoughts an researchers, philosophers and scientists and related them to the consciousness. The concept of practical importance of positive psychology has been originated in late 90s in its cotemporary form. This took place when Martin Seligman as the president of American Psychological Association invigorated the necessity of i ncluding a strength-based approach to the field of Psychology [2].
+ttention has been focusing on
+
+- 2. Positive psychology
+
+Positive Psychology is the branch which comes into existence after learning useful lessons from earlier

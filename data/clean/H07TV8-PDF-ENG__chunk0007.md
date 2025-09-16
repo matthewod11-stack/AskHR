@@ -1,19 +1,21 @@
-# HBR / Digital Article / Businesses Need to Bring Younger Employees into Their Leaders…
+---
+source_path: H07TV8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7c963214819b09b2c703b38a2e427b5fc408148e
+title: H07TV8-PDF-ENG
+---
+# RichVintage/Getty Images
 
-Organizations are being hampered on both fronts by their leadership
+Addressing challenges like climate change and biodiversity loss will
 
-structures, as those with the most power to drive change may not be
+require technical innovations. As such, a strong curiosity for unearthing
 
-the most eager to do so — and vice versa. A seasoned leader may
+new approaches is key. But just as crucial is that we are willing, even
 
-favor short-term results over long-term beneﬁts that won’t manifest
+eager, to change our beliefs and behaviors accordingly.
 
-during their tenure. Moreover, they may be reluctant to challenge the
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-mental models or organizational structures that have underpinned
+1
 
-their success. Conversely, younger professionals may be more open to
-
-pursuing new paths leading to long-term payoﬀs, given their longer
-
-career horizons. Yet, they are usually not in the position to eﬀect change
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

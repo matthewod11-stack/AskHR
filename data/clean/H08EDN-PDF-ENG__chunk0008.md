@@ -1,19 +1,13 @@
-# HBR / Digital Article / How to Learn from Your Mistakes and Make Better Decisions
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d8f3db678b4d4be5c8bba2758785d186ff57c37b
+title: H08EDN-PDF-ENG
+---
+# outcomes.
 
-To apply lessons from your past decisions to your current situation, I
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-recommend asking the following questions:
+2
 
-- 1. What is the decision you’re facing now?
-
-The ﬁrst step in a thoughtful decision process is to get clear on
-
-the current problem that you want to solve. While this may sound
-
-straightforward, I often ﬁnd that people skip this step which may lead
-
-to an incomplete or unsatisfactory solution. At times people begin
-
-problem solving from inside the problem and deﬁne it too narrowly,
-
-or they even skip over the problem itself to a solution they’d like to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

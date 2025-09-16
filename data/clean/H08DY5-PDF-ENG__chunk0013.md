@@ -1,39 +1,17 @@
-# HBR / Digital Article / How Companies Can Use AI to Better Serve Deaf and Hard-of-H…
+---
+source_path: H08DY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d5e228162d16f7197762a852436ff13b0bede71d
+title: H08DY5-PDF-ENG
+---
+## on private matters such as banking or healthcare, as the conversation
 
-partially or fully automated systems that many companies use to
+is relayed back and forth while interfacing with interactive customer
 
-streamline their customer services.
+service systems. TRS is not designed to eﬀectively navigate the complex,
 
-What’s more, complex voice recognition systems and the proliferation
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-of AI-enabled bots can often be confusing and fail to accommodate the
+2
 
-unique needs of deaf and hard of hearing customers who primarily
-
-and natively communicate in sign language. While chatbots can be
-
-programmed to communicate in a multitude of languages, there is no
-
-mechanism at present for them to support customers that depend on
-
-sign language to communicate. Thus, they undermine the equivalency
-
-that Title IV of the ADA not only envisioned but mandated: that the
-
-communications experience for deaf people should be the same as the
-
-experience enjoyed by people who are not deaf.
-
-The global call center market, ranging from business process
-
-outsourcers to ﬁnancial institutions to airlines, is estimated to reach
-
-more than $740 billion by 2030. Providers are rapidly accelerating
-
-toward total automation through the implementation of AI-supported customer service applications. While this desire for eﬃciency is
-
-understandable given the enormous costs involved with customer
-
-service, it is crucial that innovations do not leave anyone behind,
-
-especially considering the signiﬁcant spending power of deaf and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

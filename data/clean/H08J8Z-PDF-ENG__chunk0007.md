@@ -1,25 +1,25 @@
-# label.
+---
+source_path: H08J8Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8fbd340669cabdc4cb490789941675e172f3d18c
+title: H08J8Z-PDF-ENG
+---
+## illustrate. Employees at a large telecommunications company who
 
-In each of these cases, an employee’s or client’s legal consent was
+initially agreed to carry company-issued phones that tracked their
 
-secured, but their feeling of consent was not. In other words, these
+location eventually sued their employer upon realizing this meant
 
-organizations succeeded in getting the signatures they needed on
+they were being tracked both on and oﬀ company property. Reality
 
-their legal documents, but they failed to ensure that the signatories
+TV contestants who signed away their right to privacy on hastily
 
-themselves were fully aware of and committed to whatever it was
+administered legal agreements ultimately ended up suing the network.
 
-they were agreeing to. As these examples illustrate, the strategy of
+Even recording superstar Taylor Swift eventually came to regret legal
 
-expeditiously locking in a legal agreement can ultimately backﬁre when
+terms she had initially agreed to when six of her albums were sold
 
-one party ends up feeling duped and the relationship between the two
+“without her knowledge and consent.” Swift retaliated by re-recording
 
-parties is irreparably damaged.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+her catalog and funneling millions of dollars away from her old record

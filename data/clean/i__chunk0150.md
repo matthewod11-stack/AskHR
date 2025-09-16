@@ -1,17 +1,9 @@
-# Value (Ferrar. And. Green 2021))
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: ebde401232f34504deb30badcaf73ba93a9248a4
+title: i
+---
+## Figure 14:Six elements of an excellent People Analytics Expert
 
-In the scope of this thesis, Data Science element form Six Skills for Success is discussed.
-
-According to the table, to successfully leverage workforce data, various skills are required: the
-
-data science element indicates expertise in data engineering while the communication skill
-
-refers to data analytics. Data science includes a wide range of advanced mathematics: statistics
-
-and modeling, data management expertise to work with databases, programming knowledge,
-
-data modeling, and machine learning. Communication skills are also broad, which include
-
-analyzing and visualizing data to figure out actionable insight. Communicating of findings in
-
-a narrative that influences business strategy decisions is also a part of this element.
+(Source: Excellence in People Analytics: How to Use Workforce Data to Create Business

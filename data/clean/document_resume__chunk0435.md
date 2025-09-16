@@ -1,7 +1,7 @@
-# a
-
-Uses class time poorlystrays from subject. Is not available for help outside class. Does not demonstrate adequate knowledge in subject area Does not encourage student participation.
-
-Figure 3 11 Example of a behavioral scale based on expanding the performance standard for Method of Instruction." The scale is not behaviorally anchored.
-
-A
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 7a384346fa21874598dbc88f99aab4f7d55e6294
+title: document_resume
+---
+# UNACCEPTABLE

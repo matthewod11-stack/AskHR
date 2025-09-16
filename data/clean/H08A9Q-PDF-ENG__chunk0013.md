@@ -1,27 +1,11 @@
-# complexity.
+---
+source_path: H08A9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6d23100c2756e4b837d579373cec23013859a50
+title: H08A9Q-PDF-ENG
+---
+## HBR / Digital Article / AI Success Depends on Tackling “Process Debt”
 
-The good news is that because AI inspires us to rethink the very nature
+well-intended eﬀorts, each of them trying to address a unique business
 
-of what we’re able to do with our customers and alliance relationships, it
-
-can give organizations a fresh chance to get out from under antiquated
-
-process debt. And even better, we can now redesign these fundamental
-
-processes with the power of AI and many other tools ready to help
-
-transform how we can work.
-
-This consumer products company decided to initiate a global program
-
-to help tackle their process debt. Instead of rushing to use technology
-
-to automate existing reports, they asked fundamental questions about
-
-what reporting is needed, why, and how they could pivot this set of
-
-activities to growth while reducing costs. This meant the company
-
-revisited what work is being done, how it was being done, and
-
-how technologies, including AI, could radically transform the overall
+need but creating not only more technical debt, but tremendous process

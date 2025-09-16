@@ -1,31 +1,29 @@
-# and propose solutions.
+---
+source_path: H08HVS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80d0596dcdd02d8060c0cb524e8ac7c66ae8a076
+title: H08HVS-PDF-ENG
+---
+## The New Boss Visits All 180 DMV Field Offices
 
-We call Gordon’s method “management by driving around” because it’s
+Gordon explained to us that because the DMV was in crisis and he faced
 
-reminiscent of “management by wandering around” (MBWA), a term
+intense pressure to ﬁx it quickly, he lacked the luxury of taking 100 days
 
-HP executive John Doyle coined in the early 1960s. As Doyle wrote
+“just to learn what’s going on” as he had in past leadership roles. His
 
-in an email to Robert in 2019, he invented it after HP cofounders Bill
+team went straight to work on updating the DMV’s ancient technologies
 
-Hewlett and David Packard visited his manufacturing facility in the
+and improving customer experiences.
 
-United Kingdom in 1961. The duo “wandered around chatting with
+Yet he slowed way down in one crucial way. During his ﬁrst months on
 
-people, asking what they were doing, etc.” According to Doyle, these
+the job, Gordon visited all 180 DMV ﬁeld oﬃces, putting some 50,000
 
-conversations motivated workers because Bill and Dave showed interest
+miles on his car in the process. That meant, for example, visiting the
 
-in them and came across as “normal folk.”
+Crescent City oﬃce near the Oregon border, as well as the Chula Vista
 
-MBWA was embedded in the HP culture a couple years later when,
+oﬃce some 850 miles away near the Mexican border. During each 30-
 
-at a senior leadership meeting, Doyle complained that “the rather
-
-quantitative MBAs [they] were hiring” were missing subtle and diﬃcult-
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+minute to one-hour visit, Gordon described his plans for easing burdens on customers and employees and asked staﬀers to identify problems

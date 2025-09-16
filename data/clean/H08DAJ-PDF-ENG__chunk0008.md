@@ -1,17 +1,23 @@
-## relationship — as well as potential remedies for the negative impacts of
+---
+source_path: H08DAJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 515965667f49e8ea511e93447358edd4a6306ad7
+title: H08DAJ-PDF-ENG
+---
+## HBR / Digital Article / Research: How to Delegate Decision-Making Strategically
 
-passing responsibility.
+shown that employees can view delegated decision-making as a burden
 
-Across our studies, which included 2,478 U.S. participants in a mix
+that they would prefer to avoid.
 
-of controlled experiments and surveys, we found that delegating
+Given the managerial importance of delegation, we wanted to better
 
-decision-making responsibilities, compared with asking employees for
+understand the costs employers incur when they pass decision-making
 
-advice and maintaining decision-making responsibility, had signiﬁcant
+tasks to their employees. To examine this, we conducted a series of
 
-interpersonal costs for delegators. But we also found material ways
+studies in a paper recently published in Organizational Behavior and
 
-that managers can alter how and when they delegate decisions, so that
+Human Decision Processes. We looked speciﬁcally at the interpersonal
 
-employees feel empowered rather than burdened.
+costs of delegation — how delegation impacts the delegator-delegate

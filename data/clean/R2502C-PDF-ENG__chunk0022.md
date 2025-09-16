@@ -1,25 +1,21 @@
-# How to Create and Sustain Strategic Fit
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eae1e73cdbe5a6adc010bbe9b96c7a673c878b6e
+title: R2502C-PDF-ENG
+---
+## agility (see Doing Agile Right: Transformation Without Chaos, Harvard
 
-Throughout the article, we’ll use the example of Self Esteem Brands
+Business Review Press, 2020); and how to increase value creation for
 
-(SEB) to illustrate how strategic ﬁt works. (SEB has never been a client
+the beneﬁt of all stakeholders, including how individual companies can
 
-of our ﬁrm. At the time of writing, it was in the process of changing
+model and measure it (see “How to Create a Stakeholder Strategy,” HBR,
 
-its name to Purpose Brands, following its merger with Orangetheory
+May–June 2023). In this article we will explain how executives can tie
 
-Fitness.) We were introduced to SEB’s CEO a few months ago—after a
+these and other essential components of a successful strategy together,
 
-mutual friend, a longtime investor in the company, read several of our
+creating a synergistic system that continually increases company value
 
-articles and recognized SEB’s approach to strategy. The introduction led
-
-to multiple interviews with Chuck Runyon, SEB’s CEO and cofounder,
-
-followed by a deep analysis of the company’s business system.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+by improving strategic ﬁt.

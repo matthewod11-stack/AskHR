@@ -1,11 +1,7 @@
-# Correspondence: Solange Charas Case Western Reserve University, New York, USA E-mail: sc@charasconsulting.com
-
-INTRODUCTION Board performance has been at the center of modern corporate governance research for more than two decades, with the majority of exclusively on economic inquiry
-
-relying
-
-© 2015 Macmillan Publishers Ltd. 1741-3591 International Journal of Disclosure and Governance Vol. 12, 2, 107–131
-
-www.palgrave-journals.com/jdg/
-
-108
+---
+source_path: original_article.md
+pages: n/a-n/a
+chunk_id: e69b14031b5bd400662f5a71390914f68acc2484
+title: original_article
+---
+## Keywords: board of directors; team dynamics; corporate ﬁnancial performance

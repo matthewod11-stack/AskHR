@@ -1,9 +1,15 @@
-# chain).
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: d997eabc7a647c7a84d6c418d722b6ced1647bf4
+title: issn_print_0976_013x
+---
+# SC in resilient paradigm and further extension of these concepts towards performance
 
-A common consensus towards reconfiguration as the highest level of development in the
+improvement under TBL (Triple bottom line) aspects of sustainable thinking, a more holistic
 
-supply chain paradigm with all-inclusive paradigms has been ascertained. The developments
+view of integrated SCM was obtained. The aspects of sustainability and further inclusion of
 
-in the reconfiguration field have led to the identification of several overlapping paradigms,
+redundancy units and collaboration ability enabled SCF (Supply chain flexibility) and aligned
 
-covering almost all
+as per the industrial aspects of the present context resulting in RSC (Reconfigurable supply

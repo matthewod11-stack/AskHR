@@ -1,11 +1,23 @@
-# Lessons for Negotiators
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 981eef8a5fbdacbeceafeb73d1580e4a550f866c
+title: H08DXZ-PDF-ENG
+---
+## 4,500 open-ended questions from negotiators — and the responses
 
-Our research provides compelling evidence that negotiators can achieve
+they elicited. Our language models extracted both strategic information
 
-signiﬁcantly better outcomes by incorporating more open-ended
+disclosure (italicized) and emotional tone (bolded) from the responses.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+We found that asking “Why” questions often elicited longer, more
 
-6
+detailed responses, revealing useful information but also leading
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to more negative sentiment. In contrast, “How” questions tended
+
+to generate positive sentiment but less detailed responses. “What”
+
+questions fell in between, providing a balance between gathering
+
+information and maintaining a neutral or positive tone.

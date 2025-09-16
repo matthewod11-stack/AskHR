@@ -1,5 +1,9 @@
-# PloyhartRE,MoliternoTP.2011.Emergenceofthehumancapitalresource:amultilevelmodel.Acad.Manag.
+---
+source_path: arop1noe_245_275.md
+pages: n/a-n/a
+chunk_id: 87c66956767f6b80aa633ffb26446f804e1bc9c6
+title: arop1noe_245_275
+---
+# Ployhart RE. 2012. The psychology of competitive advantage: an adjacent possibility. Ind. Organ. Psychol.
 
-Rev. 36:127–50
-
-Preenen PT, De Pater IE, Van Vianen AE, Keijzer L. 2011. Managing voluntary turnover through challenging
+5:62–81

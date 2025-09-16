@@ -1,5 +1,11 @@
-# ```bash #!/bin/bash
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 0a092e6e3098ed4c0fd68fd5ad88a906e03328f1
+title: prompt
+---
+# Top-P
 
-echo "Enter the folder name: " read folder_name
+1
 
-if [ ! -d "$folder_name" ]; then echo "Folder does not exist." exit 1 fi
+Translate the below Bash code to a Python snippet.

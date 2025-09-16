@@ -1,11 +1,13 @@
-# informal relationships remotely.
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 86011b245f867abc54f67a5d620f09be8b289ff3
+title: H08N0B-PDF-ENG
+---
+# HBR / Digital Article / Does Returning to the Office Support Your Company’s Strategy?
 
-To understand what your managers may (or may not) know, and areas
+performance, holding employee onboarding discussions to choose
 
-they struggle with:
+the best hybrid conﬁguration, and supporting employee well-being.
 
-- Assess current management gaps. Conduct surveys or structured
-
-interviews with managers and employees to identify challenges
-
-in leading remote and hybrid teams—focusing on communication,
+And Gitlab trains leaders how to support company culture and build

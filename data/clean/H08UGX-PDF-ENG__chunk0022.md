@@ -1,29 +1,31 @@
-# moderation, but toxic in excess.
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3995023f349794aa16cac5ecda96f5a8a74b285a
+title: H08UGX-PDF-ENG
+---
+## Meta-analytic research conﬁrms that emotional intelligence and
 
-Unfortunately, power tends to unmask these traits. The more senior
+impression management are conceptually and empirically intertwined.
 
-your role, the more license you have to indulge your worst instincts,
+In fact, the best leaders are those who act like skilled performers,
 
-unless you’re actively managing them. Studies suggest that many
+calibrating their tone, demeanor, and message to ﬁt the moment. This
 
-executives display dark side traits, such as being overly bold (a
+isn’t manipulative; it’s professional.
 
-euphemism for psychopathic) or self-important (to the point of being
+Being true to yourself sounds noble until your “true self” is irritable,
 
-narcissistic). That doesn’t mean they’re evil. But it does mean their
+arrogant, or impulsive. Your colleagues are not responsible for enduring
 
-natural impulses need to be tightly regulated. Indeed, 40% of leaders
+your mood swings, no matter how real they are. Leadership is a
 
-score high enough on one or two dark side traits to risk derailing their
+performance. The stakes are too high for improv.
 
-careers (and the careers of the people they manage).
+- 4. Everyone has a dark side—best keep it contained.
 
-Your whole self includes your biases, your pettiness, your need to win
+Every personality has a shadow. Known in organizational psychology as
 
-arguments at dinner. At home, that might be tolerable (if you’re lucky,
+the “dark side,” these are traits like narcissism, paranoia, or aggression
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+that may emerge under stress or pressure. They can be adaptive in

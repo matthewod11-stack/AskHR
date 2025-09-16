@@ -1,25 +1,23 @@
-# Recruitment and On-boarding
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 230c311e94443b985054ca2449578bd157a0c773
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 4.1.2. Practical Implications
 
-This area of EX was one the worst rated among all questions from author specific
+The main objective of this document was to understand the relationship between
 
-survey. Based on this statistic, company has a significant gap starting with interview
+employee experience and customer satisfaction, and whether regional cultural,
 
-setup. A suggestion is to educate managers and HR personal on how to conduct
+historical, or national differences can influence employee happiness in their whole
 
-interviews to give the potential employee the best feeling about the company culture
+employment journey. The author studied many published works, used his professional
 
-and leadership style. Emotions and feelings play a significant role in employee
+experience, and conduct empirical research with the author’s model of Employee
 
-experience and participants of the recruitment process have to feel comfortable in
+experience and Net promoter score surveys in three different regions. All findings are
 
-order to match their personal values with their potential organization. The onboarding
+summarized in this document and few practical recommendations for Atlas Copco are
 
-process also has a gap where analysis shows that employees did not have
-
-opportunities for career progression explained sufficiently. During f2f meetings and
-
-regular personal & development reviews during the onboarding phase, the author
-
-suggests inclusion of employee potential career path discussions and an explanation
-
-of which skills are needed for specific positions.
+described in following section.

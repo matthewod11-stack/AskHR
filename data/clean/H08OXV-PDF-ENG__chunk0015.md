@@ -1,13 +1,19 @@
-# the results.
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13fa9ffa90506b041ea30fb9640040dbf75515dd
+title: H08OXV-PDF-ENG
+---
+## feelings of personal autonomy, competence, and social connection, all
 
-In a four-week randomized trial, we divided 257 employee participants
+of which contribute to well-being. Participants approaching their leisure
 
-into two groups: Half were assigned to a leisure crafting intervention,
+in this manner were also more likely to say that they felt they had a
 
-where they completed a brief training on how to structure their free
+meaningful, engaging, and fulﬁlling life.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+But because those studies examined what people were already doing,
 
-3
+we decided to run another experiment, asking participants who didn’t
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+previously craft their leisure to engage in these behaviors, and we tested

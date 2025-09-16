@@ -1,3 +1,9 @@
-# MS
+---
+source_path: H08DXZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b2ad88a98b974c0a08ec850447ad772745f53274
+title: H08DXZ-PDF-ENG
+---
+# gain as a result.
 
-Matteo Di Stasi is an assistant professor of management at CUNEF University. He uses modern machine learning tools to study the verbal and non-verbal negotiation micro behaviors that can make or break a deal.
+This article was originally published online on September 17, 2024.

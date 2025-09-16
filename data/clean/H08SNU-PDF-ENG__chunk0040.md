@@ -1,15 +1,23 @@
-# (prominence).
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 26fb51a6d8e5cdb34fe4f6d79ab2b2947d13c353
+title: H08SNU-PDF-ENG
+---
+# leadership (prominence).
 
-- Abstraction: Create a single patient portal that abstracts all
+- Hiding: Implement smart triage systems that hide complexity from
 
-healthcare interactions behind a uniﬁed interface, simplifying access
+patients while ensuring they reach appropriate care levels, reducing
 
-(eﬃciency), ensuring continuity across services (resilience), and
+wait times (eﬃciency), maintaining care quality (resilience), and
 
-positioning [Company] as a digitally advanced provider (prominence).
+improving patient satisfaction (prominence).
 
-By explicitly directing the AI model to consider subtractive options of
+- Pausing: Introduce ﬂexible appointment scheduling that allows
 
-various types, organizations can overcome the human tendency to add
+patients to pause and reschedule appointments without
 
-and discover more elegant solutions that balance multiple performance
+penalty, reducing no-shows (eﬃciency), maintaining doctor–patient
+
+relationships (resilience), and demonstrating patient-centric care

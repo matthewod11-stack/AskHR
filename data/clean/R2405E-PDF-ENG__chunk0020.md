@@ -1,9 +1,35 @@
-## control infrastructure of an Enel hydroelectric facility in Italy. That pilot
+---
+source_path: R2405E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b6bd35962d87f6df3e5fb8803c3233c179858bad
+title: R2405E-PDF-ENG
+---
+# CEO of Amazon in late 2021.
 
-enabled Nozomi to implement improvements to the system, which were
+Establish hubs. Smart incumbents create innovation hubs that help
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+venture teams connect to the company’s middle management and
 
-5
+front lines. The Enel hubs, for example, identify about 4,000 potential
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+collaboration opportunities each year, from which, as we’ve seen, some
+
+200 proof-of-concept projects emerge. Unlike R&D units, accelerators,
+
+and incubators, which tend to isolate innovation activities from regular
+
+business activities, hubs are designed to spread new ideas throughout
+
+an organization. Consider the start-up Nozomi Networks, which
+
+provides cybersecurity to critical infrastructure. The ﬁrst version of its
+
+cybersecurity product was based on the novel idea of identifying threats
+
+by monitoring normal network behavior and spotting deviations, but
+
+its founders struggled to ﬁnd a partner that was willing to try it out.
+
+They had almost given up when they were introduced to an Enel hub
+
+in 2014. The hub arranged for them to test their solution on the remote-

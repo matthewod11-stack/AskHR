@@ -1,31 +1,23 @@
-## High-Performing Teams Proactively Address Tension
+---
+source_path: H07YWJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c02397dc49cfaf52875c710578376438f12210bc
+title: H07YWJ-PDF-ENG
+---
+# disagreements.
 
-Members of high-performing teams don’t just interpret conﬂict more
+Our ﬁndings indicate that high-performing teams are more likely
 
-adaptively — they’re also more prone to taking the initiative in resolving
+to believe that workplace disagreements lead to better decisions (as
 
-it. In our study, we found that they are signiﬁcantly more interested
+opposed to damaging relationships). They also rate their teammates as more eﬀective at preventing disagreements from getting personal.
 
-in “hearing if they upset a teammate,” and more willing to proactively
+These two observations are likely connected. A workplace disagreement
 
-reach out if “something didn’t feel right between me and a teammate.”
+can be perceived as an opportunity or a threat, and our interpretation
 
-Both responses reﬂect a broader tendency among high-performing
+inﬂuences the way we respond. Among high-performing teams, viewing
 
-teams to embrace a growth mindset when it comes to colleague
+conﬂict as a source of strength makes disagreement less harrowing,
 
-relationships. This term is typically used to describe the way successful
-
-people respond to setbacks: by believing that outcomes can be improved through eﬀort, learning, and perseverance.
-
-Members of high-performing teams hold a similar perspective when it
-
-comes to workplace relationships. In our survey, they were signiﬁcantly
-
-more likely to agree with the statements “even the best work
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-5
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+reducing the frequency with which colleagues lash out.

@@ -1,19 +1,9 @@
-## thermal resistance, electrical insulation, and mechanical strength to
+---
+source_path: H08R2D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1d018d0c8cdf6dedb9e75c9109234954de70ad71
+title: H08R2D-PDF-ENG
+---
+## For example, Morgan Advanced Materials, a UK-based manufacturer
 
-better serve its customers in sectors such as aerospace, semiconductors,
-
-and electric vehicles, where components must operate reliably under
-
-extreme conditions. We found that the company’s superior products led
-
-to an improved pricing power, doubling its margins over the 20-year
-
-period, and achieving an annual TSR over 3% above the FTSE 100—
-
-while not growing revenues in real terms.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of ceramics and carbon materials, developed products with superior

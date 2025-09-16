@@ -1,5 +1,7 @@
-# 3 METHODS
-
-In the previous chapter, I explained why this thesis is mainly based on the ideas of liberal feminist theory. I also described individuals’ and employees’ perceptions of gender inequality and the gender pay gap and factors, which might have an impact on those perceptions. I concluded the chapter by illustrating why male and female employees may react differently to pay inequity.
-
-I start this chapter by explaining why survey technique and quantitative methods were chosen for this thesis. I then proceed to the description of the data. The thesis consists of four papers. Two of them are based on the data of the Finnish Gender Equality Barometer 2008, which were conducted by the Finnish Ministry of Social Affairs and Health together with Statistics Finland. I will here describe validity, reliability, and the construction of the key variables of this unique data set. My third paper is conceptual. The last thesis paper is based on Finnish university, which were collected by Aino Tenhiälä (previously Salimäki) through web-based questionnaires in February 2007. Validity, reliability, and the design of the main variables of these sets of data are described in the last subsection of the methods chapter.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: a1583a889bf3f232ada96c9c6adacc9a26f7f263
+title: file_1
+---
+# 30

@@ -1,16 +1,6 @@
-#!/bin/bash
-# scripts/run_api.sh
-# Start the FastAPI backend for HR Ask Local
-
-set -e
-
-# Load environment variables from .env if present
-if [ -f .env ]; then
-  export $(grep -v '^#' .env | xargs)
-fi
-
-PORT=${API_PORT:-8000}
-
-echo "[HR-Ask] Starting FastAPI server on port $PORT..."
-uvicorn app.main:app --reload --port $PORT
+#!/usr/bin/env bash
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+source "$ROOT/.venv/bin/activate" 2>/dev/null || true
+exec uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 

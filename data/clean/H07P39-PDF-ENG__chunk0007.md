@@ -1,33 +1,31 @@
-## HBR / Digital Article / 6 Ways to Become a More Collaborative Leader
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0dabd1c861375626fb737f50640a525933425e9e
+title: H07P39-PDF-ENG
+---
+# MirageC/Getty Images
 
-or more junior team members. While on occasion these pitches landed
+When “Kathy,” a former client of Luis’s, got hired as a VP at a ﬁntech
 
-and led to short-term change, she was much more frequently frustrated
+company, she wanted to have an impact. She saw things that could be
 
-at the lack of action that resulted. Worse, this approach made her
+better, had ideas about how to change them, and was hungry to get
 
-increasingly isolated in the organization, feeding a vicious cycle that made it increasingly diﬃcult for her to aﬀect change.
+down to the business of making those changes. She approached change-
 
-In today’s fast-paced corporate landscape, most highly experienced
+making like a crusader, driven by her passion for what she believed in.
 
-leaders entering an organization are driven by a desire to make a
+She expressed her ideas fervently, making impassioned speeches during
 
-signiﬁcant impact and drive meaningful change. However, the approach they adopt in championing new ideas becomes the diﬀerentiating factor
+team meetings. She fearlessly pointed out what was going wrong and
 
-between success and failure. Unfortunately, when faced with resistance,
+what could be better. And as someone who was seen as not being afraid
 
-some leaders become frustrated and disengaged or even choose to
+to “speak truth to power,” she adopted the role of advocate for less-vocal
 
-leave the organization. Research shows that this is particularly true for
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-leaders who are hired speciﬁcally to be “change agents.” Moreover, the
+1
 
-leadership training and research ﬁrm Leadership IQ found that 46% of
-
-newly hired executives fail within the ﬁrst 18 months.
-
-Recognizing the need for a transformative approach that would allow
-
-her to advocate for her ideas without alienating others, Kathy needed to
-
-shift her mental model from that of a crusader to that of a collaborative
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

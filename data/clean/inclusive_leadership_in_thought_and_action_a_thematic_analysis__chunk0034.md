@@ -1,3 +1,7 @@
-# 765
-
-themes (see Table 1). As anticipated, the results highlighted themes related to reducing status differences in teams. Speciﬁcally, relational themes, such as relating to and showing a genuine interest in others, generating trust, and treating people fairly, emerged. Although these themes seemed to focus on relationships between leaders and followers, other themes associated with fostering team climates in which people feel motivated to engage, such as
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: de55e288a4c94b9e1a0c093658a5d331bad5bc55
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# Roberson and Perry

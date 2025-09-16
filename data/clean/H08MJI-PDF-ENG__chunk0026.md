@@ -1,9 +1,13 @@
-# RK
+---
+source_path: H08MJI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a831c92d7241f3119e8dcd0d7b04b99954dbd641
+title: H08MJI-PDF-ENG
+---
+# progress and roadblocks.
 
-Rebecca Knight is a journalist who writes about all things related to the changing nature of careers and the workplace. Her essays and reported stories have been featured in The Boston Globe, Business Insider, The New York Times, BBC, and The Christian Science Monitor. She was shortlisted as a Reuters Institute Fellow at Oxford University in 2023. Earlier in her career, she spent a decade as an editor and reporter at the Financial Times in New York, London, and Boston.
+- Micromanage the outcome. Delegate with the understanding that 80%
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+done by someone else is inﬁnitely better than 100% done solely by you.
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+This article was originally published online on March 3, 2025.

@@ -1,37 +1,23 @@
-## but within Kaspi the pace—of both product launches and development
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b63a6ec92fde8340f0f5cf547fa3f95c250c12f2
+title: R2504A-PDF-ENG
+---
+# Launch and Enhance
 
-—feels measured and deliberate.
+The ﬁrst step was building online payment services that would allow
 
-Consider e-commerce. The impetus for getting into this business was
+people to pay household bills—electricity, gas, water—online instead
 
-my 2013 attempt to buy a new computer. I went to a store and found one
+of with cash or checks, which usually required service fees. Our goal
 
-I liked, but when the salesperson mentioned that a sister store nearby
+was to make the process fast and free, and we did. Over time we’ve
 
-was oﬀering a grand-opening discount, I decided to go there instead.
+gotten increasingly ambitious. In 2014 we launched an e-commerce
 
-By the time I arrived, the model I wanted was gone. I returned to the
+marketplace, and most recently we’ve introduced government services,
 
-original store, but now the only option available was a display model—
+from birth registrations to driver’s license renewals.
 
-so I went to a third store, which had the computer I wanted but not
-
-the matching printer. For that, I had to go to a fourth store. The whole
-
-process took several days, and I still wasn’t completely conﬁdent that I’d
-
-bought the right model at the right price. Then and there, I knew this
-
-kind of hassle was a consumer pain point Kaspi should tackle.
-
-We initially kept it simple, creating a marketplace for electronics—
-
-mostly smartphones—and oﬀering only the ability to buy now and
-
-pay later, with one merchant at a time, only via store pickup. Later,
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+To an outsider it might seem like we’re moving at breakneck speed,

@@ -1,17 +1,13 @@
-## HBR / Digital Article / What to Do If Your Team Is Underperforming
+---
+source_path: H07638-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 550198558fa620f6a0f2ac90d1b7519c069269c0
+title: H07638-PDF-ENG
+---
+# up to par.
 
-Realize you’re not in this alone.
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-If you’re managing an underperforming team and receive a problematic
+1
 
-review, you may feel like you’re on an island — but you’re not. It’s time
-
-to enlist help. First, elicit support from your peers by asking for advice
-
-regarding what they’ve done with underperforming teams. Second, look
-
-outside the organization for guidance. Check in with mentors or other
-
-leaders and peers you respect and ask: “If your team underperformed
-
-and you got a bad review, what would your next move be?”
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

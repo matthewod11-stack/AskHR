@@ -1,13 +1,21 @@
-## viable solutions progress to full-scale implementation. This approach
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 531ff22882319e0f8c509a636f7edeac3fe5e10b
+title: H08OIO-PDF-ENG
+---
+# Employ proof-of-concept experiments
 
-has two beneﬁts: it prevents the entire company from being dragged
+One reason companies fall into strategy fatigue is the fear of missing
 
-into every unproven venture, and it maintains an innovative culture by
+out on the Next Big Thing. So, they greenlight numerous projects hoping
 
-encouraging a test-and-learn mindset.
+one succeeds. A smarter way to go is to adopt a proof-of-concept (PoC)
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+approach—a small-scale test of an idea to validate its feasibility before
 
-4
+major resources are committed. For instance, in software development,
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+a PoC can help determine the viability of a new product by assessing
+
+its functionality and alignment with user needs, ensuring that only

@@ -1,5 +1,9 @@
-## small groups and one-on-one interactions).
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fece140ba5d6e8a45a930e08f8792bbf45608581
+title: R2303G-PDF-ENG
+---
+# each situation.
 
-These skills allow leaders to draw wisdom, insight, and creativity out
-
-of their people, solve problems collectively, and foster a sense of
+Asking good questions, listening, empathizing, and empowering (in

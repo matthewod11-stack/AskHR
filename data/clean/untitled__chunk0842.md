@@ -1,5 +1,15 @@
-## Intelligence as Arising from Cognitive Structures and Processes 147
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b6350b61c67c84468a45f8d7a43a5201d8241eda
+title: untitled
+---
+# The Cognitive-Correlates Approach
 
-found that this parameter and similar parameters in other ex- perimental tasks typically correlate about (cid:4).3 with scores on psychometric tests of verbal ability.
+Lee Cronbach (1957) tried to revive interest in the cognitive approach with an article on “the two disciplines of scientiﬁc psychology,” and efforts to revive this approach in the 1960s proceeded by ﬁts and starts. But serious revival can probably be credited in large part to the work of Earl Hunt. Hunt (1978, 1980; Hunt et al., 1973; Hunt, Lunneborg, & Lewis, 1975) was the originator of what has come to be called the cognitive-correlates approach to integrating the study of cognitive processing with the study of intelligence (Pellegrino & Glaser, 1979).
 
-The precise tasks used in such research have varied. The letter-matching task has been a particularly popular one, as has been the short-term memory-scanning task originally proposed by S. Sternberg (1969). Other researchers have pre- ferred simple and choice reaction time tasks (e.g., Jensen, 1979, 1982). Most such studies have been conducted with adults, but some have been conducted developmentally with children of various ages (e.g., Keating & Bobbitt, 1978).
+Theproximalgoalofthisresearchistoestimateparameters representing the durations of performance for information- processing components constituting experimental tasks com- monly used in the laboratories of cognitive psychologists. These parameters are then used to investigate the extent to which cognitive components correlate across participants with each other and with scores on psychometric measures commonly believed to measure intelligence, such as the Raven Progressive Matrices tests. Consider an example.
+
+In one task—the Posner and Mitchell (1967) letter- matching task—participants are shown pairs of letters such as “A A” or “A a.” After each pair, they are asked to respond as rapidly as possible to one of two questions: “Are the let- ters a physical match?” or “Are the letters a name match?” Note that the ﬁrst pair of letters provides an afﬁrmative an- swer to both questions, whereas the second pair of letters provides an afﬁrmative answer only to the second of the two questions. That is, the ﬁrst pair provides both a physical and a name match, whereas the second pair provides a name match only.
+
+The goal of such a task is to estimate the amount of time a given participant takes to access lexical information—letter names—in memory. The physical-match condition is in- cluded to subtract out (control for) sheer time to perceive the letters and respond to questions. The difference between name and physical match time thus provides the parameter estimate of interest for the task. Hunt and his colleagues

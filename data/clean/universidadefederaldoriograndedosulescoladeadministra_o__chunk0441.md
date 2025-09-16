@@ -1,15 +1,7 @@
-## 5.2 ANÁLISE DE DADOS OBTIDOS PELO eNPS E AÇÕES DECORRENTES
-
-Findo o período de coleta, que dura geralmente dez dias corridos, o
-
-tratamento dos dados é realizado pelo time de Pesquisa, e os resultados plotados
-
-em gráficos e visualizações geralmente dispostos em dashboards e relatórios para
-
-serem entregues aos gestores da companhia. Há, portanto, a necessidade de uma
-
-etapa de definição de usuários que devem ter acesso à ferramenta com visualização
-
-de gestor e da hierarquia que deve ser respeitada para definição dos recortes de
-
-dados a que cada um deve ter acesso. É importante frisar, no entanto, que apenas
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: aca3f85e49a053a8eff48660d0b8153f0a9038d2
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## apontam Rajasekaran e Dinesh (2018) e Moreira (2012).

@@ -1,3 +1,9 @@
-# 262 Psychology of Women and Gender
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 78106c92e3a35e832f09636605b2e147d2026f45
+title: untitled
+---
+# The APAWomen’s Programs Ofﬁce
 
-Women’s Programs Ofﬁce in 1977. The ofﬁce coordinates re- sources for research and collects information and reference material. It also gathers statistical data concerning women’s employment in the various scientiﬁc and professional ﬁelds. The ofﬁce has compiled directories of graduate programs that offer training in the psychology of women and gender. It has also compiled bibliographies of research reports and pam- phlets for the general public.
+The volume and magnitude of the projects initiated by the CWPinitsearlyyearsquicklyexceededwhatavolunteercom- mittee could accomplish. In response, theAPAestablished the

@@ -1,11 +1,23 @@
-# this essay over the weekend.
+---
+source_path: R2406N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 79ff914d60095f38b3ac8eb44388097a3db9aea2
+title: R2406N-PDF-ENG
+---
+## HBR / Magazine Article / Getting Over Overwork
 
-Too often our attitudes and behaviors about work are dichotomized:
+Do you interrupt your weekend to write the essay or wait and do it on
 
-Either we’re overcommitted to our jobs or we’re quiet quitting or quiet
+Monday? And does your decision—and rumination about it—determine
 
-vacationing or whatever the phrase of the moment is. I suspect it’s more
+whether you’ve got a problem with overwork?
 
-nuanced, however, and ﬁnding the right balance involves more than
+Disclosure: It’s me. I’m the person who is torn about how to spend my
 
-willpower. Four new books provide evidence of this.
+day oﬀ. But I suspect that I’m not alone. As an American who was raised
+
+to value head-down hard work, I know I’ve been consumed by tasks at
+
+all hours of the day and night. But over the years I’ve also developed
+
+hobbies that I prioritize, and my editor explicitly told me not to write

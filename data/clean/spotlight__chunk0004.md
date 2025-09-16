@@ -1,1 +1,27 @@
-# ARTICLE TITLE
+---
+source_path: spotlight.md
+pages: n/a-n/a
+chunk_id: 3925ee3480273a8aea86c19abcb7949e823fd9fa
+title: spotlight
+---
+# SPOTLIGHT ON TOPIC
+
+Back then the idea of abandoning the tradi- tional appraisal process—and all that followed from it—seemed heretical. But now, by some estimates, more than one-third of U.S. companies are doing just that. From Silicon Valley to New York, and in offices across the world, firms are replacing annual reviews with frequent, informal check-ins between manag- ers and employees.
+
+As you might expect, technology companies such as Adobe, Juniper Systems, Dell, Microsoft, and IBM have led the way. Yet they’ve been joined by professional services firms (Deloitte, Accenture, PwC), early adopters in other industries (Gap, Lear, OppenheimerFunds), and even General Electric, the longtime role model for traditional appraisals.
+
+Without question, rethinking performance man- agement is at the top of many executive teams’ agen- das, but what drove the change in this direction? Many factors. In a recent article for People + Strategy, a Deloitte manager referred to the review process as “an investment of 1.8 million hours across the firm that didn’t fit our business needs anymore.” One Washington Post business writer called it a “rite of corporate kabuki” that restricts creativity, gener- ates mountains of paperwork, and serves no real purpose. Others have described annual reviews as a last-century practice and blamed them for a lack of collaboration and innovation. Employers are also fi- nally acknowledging that both supervisors and sub- ordinates despise the appraisal process—a perennial problem that feels more urgent now that the labor market is picking up and concerns about retention have returned.
+
+But the biggest limitation of annual reviews—and, we have observed, the main reason more and more companies are dropping them—is this: With their heavy emphasis on financial rewards and punish- ments and their end-of-year structure, they hold people accountable for past behavior at the expense of improving current performance and grooming tal- ent for the future, both of which are critical for or- ganizations’ long-term survival. In contrast, regular conversations about performance and development change the focus to building the workforce your or- ganization needs to be competitive both today and years from now. Business researcher Josh Bersin es- timates that about 70% of multinational companies are moving toward this model, even if they haven’t arrived quite yet.
+
+1502  Harvard Business Review October 2016
+
+The tension between the traditional and newer approaches stems from a long-running dispute about managing people: Do you “get what you get” when you hire your employees? Should you focus mainly on motivating the strong ones with money and getting rid of the weak ones? Or are employees malleable? Can you change the way they perform through effective coaching and management and in- trinsic rewards such as personal growth and a sense of progress on the job?
+
+With traditional appraisals, the pendulum had swung too far toward the former, more transactional view of performance, which became hard to support in an era of low inflation and tiny merit-pay budgets. Those who still hold that view are railing against the recent emphasis on improvement and growth over accountability. But the new perspective is unlikely to be a flash in the pan because, as we will discuss, it is being driven by business needs, not imposed by HR. First, though, let’s consider how we got to this point—and how companies are faring with new approaches.
+
+How We Got Here Historical and economic context has played a large role in the evolution of performance management over the decades. When human capital was plenti- ful, the focus was on which people to let go, which to keep, and which to reward—and for those purposes, traditional appraisals (with their emphasis on indi- vidual accountability) worked pretty well. But when talent was in shorter supply, as it is now, developing people became a greater concern—and organiza- tions had to find new ways of meeting that need.
+
+From accountability to development. Appraisals can be traced back to the U.S. military’s “merit rating” system, created during World War I to identify poor performers for discharge or transfer. After World War II, about 60% of U.S. companies were using them (by the 1960s, it was closer to 90%). Though seniority rules determined pay increases and promotions for unionized workers, strong merit scores meant good advancement prospects for man- agers. At least initially, improving performance was an afterthought.
+
+And then a severe shortage of managerial tal- ent caused a shift in organizational priorities: Companies began using appraisals to develop em- ployees into supervisors, and especially managers into executives. In a famous 1957 HBR article, social

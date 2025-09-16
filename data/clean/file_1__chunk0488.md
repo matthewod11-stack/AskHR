@@ -1,5 +1,11 @@
-## gender. New York, NY: Plenum Publishers, 215-227.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 0b790578dbd6b4159c5a3ca436665c98754ff010
+title: file_1
+---
+## dominance. Cambridge University Press, 31-57.
 
-Stroh, L., Brett, J. and A. Reilly, 1992. All the right stuff: a comparison of female and male managers' career progression. Journal of Applied Psychology, 77, 251-60.
+Smith, A. and V. Rogers, 2000. Ethics-related Responses to Specific Situation Vignettes: Evidence of Gender-based Differences and Occupational Socialization. Journal of Business Ethics, 28 (1), 73-86.
 
-Suls, J., Martin, R. and L. Wheeler, 2002. Social comparison: why, with whom and with what
+Stockard, J., 1999. Gender Socialization. In J. Chaftez, eds, The handbook of the sociology of

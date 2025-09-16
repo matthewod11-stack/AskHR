@@ -1,7 +1,7 @@
-# What About Non-Birthing Parents?
-
-Although our study focused on birthing mothers returning to work, we
-
-believe that several of these behaviors can be helpful for non-birthing
-
-parents returning to work, too (e.g., adoptive parents, non-birthing
+---
+source_path: H08BI0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5b67d8399c50f1772651c162467d80ff67caf203
+title: H08BI0-PDF-ENG
+---
+# within the organization.

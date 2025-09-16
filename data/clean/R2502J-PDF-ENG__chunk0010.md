@@ -1,23 +1,45 @@
-# promotion.
+---
+source_path: R2502J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45052a21e7fd390837330602569446b692a345e4
+title: R2502J-PDF-ENG
+---
+# The Most Common Schemes
 
-- 3. Squandering sales. This tactic involves misleading customers in ways
+When managers design incentive plans, too often they focus only on
 
-that beneﬁt the salesperson but not the organization or the customer.
+gaming techniques they’ve encountered in the past without taking into
 
-One interviewee recounted an example from a previous employer: Sales
+account the wide range of behaviors they might face. To broaden their
 
-reps would give customers discounts to upsell them to unneeded service
+perspective, we’ve developed a typology of eight distinct categories of
 
-levels in order to earn the higher commission associated with the higher
+sales incentive gaming—each of which can be fairly benign or high-risk,
 
-tier of service. Though the salespeople came out ahead, the upsell hurt
+depending on the circumstances.
 
-the organization’s bottom line and the customers: The company paid
+- 1. Sandbagging. This technique involves postponing the completion of
 
-out a higher commission as a result of the upsell, and the customers
+sales to a later measurement period to optimize incentive earnings. One
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+of our interviewees told us that every other year some sales reps at his
 
-3
+company would hold as many orders as possible from October through
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+December and submit them in January. The extra sales translated into
+
+outstanding sales performance—and a very high commission for far
+
+exceeding established quotas.
+
+- 2. Partners in proﬁt. Salespeople may team up with customers
+
+to manipulate company processes to secure a better deal for the
+
+customer and a higher bonus for themselves. We heard in one of our
+
+interviews about personal bankers who coached customers to sign
+
+up for accounts to take advantage of promotional deals (earning the
+
+bankers a commission) and then close the accounts at the end of the

@@ -1,7 +1,35 @@
-# New York stock exchanges.
+---
+source_path: improving_change_management_how_communication_nature_influences_resistance_to_ch.md
+pages: n/a-n/a
+chunk_id: bba950b259f09efa33bddfe3107e6bf3ef2e4d63
+title: improving_change_management_how_communication_nature_influences_resistance_to_ch
+---
+# Organization Description
 
-The announcement of the deal was done in April, 2009 inthe, headquarters of
+Organization X is a company froma large multinational group nowadays, from
 
-the conglomerate. The acquisition strengthens market strategies of two groups: betting
+now on referred to as The Group. The company is amarket leader in Generic Medicines
 
-on emerging markets - and in Brazil and Latin America in particular - and growth in
+in Brazil since 2002, with a portfolio of more than 150products. In 2008, the company
+
+sales amounted to R$ 458 million. Organization X was the third largest pharmaceutical
+
+company in Brazil. Their good performance is due mainly to the generic medicines
+
+market, where the company achieved 55% growth versus 38% of the market during
+
+2010.
+
+The Group is a world leader in the pharmaceutical industry and research,
+
+developing and publicizing therapeutic solutions to improve the lives of people. Present
+
+in over 100 countries, The Group is a global company, diversified in health care. With
+
+over 100,000 employees, The Group is the world's one of thelargest pharmaceutical
+
+companies in the world, and is leading the so-called emerging countries.The vaccines
+
+business of the group, is a world leader in the production and marketing of human
+
+vaccines. The Group is an open-capital enterprise with shares traded in the Paris and

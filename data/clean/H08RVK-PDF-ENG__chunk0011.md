@@ -1,37 +1,17 @@
-## HBR / Digital Article / Is Your Flexible Schedule Burning You Out?
+---
+source_path: H08RVK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 544fc5f1576e9719cad36fcb9b09003e6fa073ae
+title: H08RVK-PDF-ENG
+---
+# Clarify Where You Add the Most Value
 
-not with his family, and guilty when he was with his family and not
+Tim came to me as an executive, husband, and father of a large, blended
 
-working.
+family. He was always feeling guilty—guilty when he was working and
 
-I worked with Tim on deﬁning what was enough in diﬀerent parts of his
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-schedule, as I did with Sean—but we took it a step further. To actually
+3
 
-compress his work hours to a less ﬂexible timeframe, he needed to
-
-radically clarify where he added the most value. As a senior leader, he
-
-had to ensure that he was producing results for his corporation.
-
-Although he had ﬂexibility with his work hours, Tim found that almost
-
-all of his scheduled workday was spent in back-to-back meetings, which
-
-forced him to work on nights and weekends to get his work done as
-
-an independent contributor. To free up time, we did a meeting audit,
-
-where we took a look at the meetings he was accepting to determine
-
-which were really necessary to attend. After this assessment, he started
-
-to reduce how many meetings he went to by declining them, delegating
-
-them to other team members, emailing his thoughts, or attending
-
-only the decision-making part of the meetings and leaving once the
-
-execution part began.
-
-This allowed Tim to open up hours during the day to focus on strategic
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

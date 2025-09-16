@@ -1,17 +1,19 @@
-# In %
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 3fbff231ee1ad6b32dafbcfdfc5dfc5f969f61be
+title: internship_report
+---
+# Sample Size
 
-18%
+2
 
-55%
+6
 
-18%
+2
 
-9%
+1
 
-0%
+0
 
-100%
-
-(cid:32)
-
-Analysis of HR Policy Modernization on the demand of the employees (Figure 8)
+11

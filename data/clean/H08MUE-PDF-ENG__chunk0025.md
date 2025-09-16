@@ -1,13 +1,17 @@
-## rely more on technology-generated reports and pre-scheduled virtual
+---
+source_path: H08MUE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d054e1c05fc58da1cbeb379b485a20ba4ecf2d15
+title: H08MUE-PDF-ENG
+---
+## quarter so he and other leaders can share information with each other
 
-meetings to monitor employees’ performance and output—without the eﬀorts backﬁring.
+and have unscripted time with their teams. He has also shaped the team
 
-One senior leader I work with holds a weekly Monday morning virtual
+so that he has strong business and HR leaders at each site to help him
 
-meeting with his direct reports, who are located around the world. They
+consult with them ahead of a visit about how to best leverage his time.
 
-go around the “room” quickly with each person giving an update on key
+Monitoring performance through technology and greater structure
 
-performance goals and any issues that need attention. It’s a major time
-
-commitment every week but it means the team won’t get out of sync
+Without immediate visual cues and interaction, leaders need to

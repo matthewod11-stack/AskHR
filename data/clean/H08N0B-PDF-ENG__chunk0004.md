@@ -1,5 +1,11 @@
-## and retention, productivity gains, new market expansion, and more.
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5984591b74a663937a1f974d6168862c17764729
+title: H08N0B-PDF-ENG
+---
+# HBR / Digital Article / Does Returning to the Office Support Your Company’s Strategy?
 
-But some organizations aren’t realizing these beneﬁts. Our research and
+While this may be the right decision for some organizations, we advise
 
-experience working with dozens of companies navigating remote and
+caution before making a knee-jerk decision. There are many companies for whom aspects of remote work are paying oﬀ—for talent acquisition

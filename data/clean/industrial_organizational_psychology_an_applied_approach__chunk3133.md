@@ -1,3 +1,9 @@
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 32f1e456f962966217ee6c13c91e963ba7a60f17
+title: industrial_organizational_psychology_an_applied_approach
+---
 # S
 
-If you or your team is given an assignment or project, be sure that you fully understand the goal of that assignment and what is expected of you. To do this, go to your manager or another colleague to get clarification. Ask about the goal and the expectations. Will you and/or your team be responsible just for gathering and submitting information? Will you serve as an advisory group, giving recommendations or suggestions? Or do you have full authority to carry out all decisions regarding the project or assignment?
+Don’t gossip or engage in talk about other people. That is, if another employee comes to you with some gossip or a complaint about another employee, politely tell him or her that you don’t feel comfortable talking behind another person’s back. Also, suggest that if that person has concerns about someone, it would be best to share them directly with that employee. Being respected is very important to being perceived as a good group or team member. This is one of the best ways to build that respect!

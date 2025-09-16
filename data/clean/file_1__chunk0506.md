@@ -1,3 +1,9 @@
-# 123
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 8af987b87dfa3ac06d53ebecaddf3399106c4660
+title: file_1
+---
+# Participants
 
-Using the university records data on the whole sample, we performed an analysis of missing data using paired t-tests comparing the means of respondents and non- respondents with regard to gender, prior monthly pay level, and pay changes (i.e., level of pay increases and proportion of pay guarantee). No statistically significant differences emerged in any of these comparisons, thereby alleviating concerns that our respondents may have differed on relevant dimensions as compared to non- respondents. However, due to the missing information in some of the responses, the effective sample size for regression analyses is N=455.
+The data for this study were gathered in February 2007 through a web-based questionnaire, which was sent to a random sample of 1,000 academic and administrative personnel of two universities in Finland using a double-blind procedure. The survey data were supplemented with pay data from university records. The respondents were informed that the members of the research team would not have access to person identifiers and that the employer representatives, who provided records-based data for the sample, would not have an access to the completed questionnaires. The number of responses was 495, corresponding to the overall response rate of 49.5 %.

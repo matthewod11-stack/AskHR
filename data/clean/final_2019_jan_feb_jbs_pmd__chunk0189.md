@@ -1,3 +1,9 @@
-# Brazil
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 7177dc3676a30f806c137bca66d4f40bfcdeb17b
+title: final_2019_jan_feb_jbs_pmd
+---
+# Land Registries Georgia[20]
 
-Bitcoin Blockchain to Mirror Land records. Hash records of the original records is kept to ensure that they become tamper proof.
+Land Registration process in Georgia cost varied from 50-200$ and a Minimum of 1 Days. The average price of Registration is expected to come down to 5-10 cents per Registry after the pilot launch. Georgia had maintained a verified account of land titles in its NAPR database, which was crucial for the success of a Blockchain project. Bitfury did not attempt to build a brand new Blockchain based land registry. It only created a time stamping layer on top of the existing digital land records of NAPR. As part of the proposed Phase 2, Georgian citizens will be able to access their property information on the NAPR website and put it up for sale. The network nodes verify that the buyer has sufficient funds and that the seller owns the property before the transaction is concluded.

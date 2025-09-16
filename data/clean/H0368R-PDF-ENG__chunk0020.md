@@ -1,15 +1,23 @@
-# HBR / Digital Article / Immigrants Play a Disproportionate Role in American Entrepren…
+---
+source_path: H0368R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07a502b628ea293b65bc07b063db5114f57540d0
+title: H0368R-PDF-ENG
+---
+# our growth metrics.
 
-Sergey Brin, who is frequently used as an example to advocate for
+- 5. We are just starting to be able to separate types of immigrant —
 
-expansion of H-1B visas under the assumption that this would boost
+e.g., those coming to the U.S. as children versus adults, those initially
 
-American high-tech entrepreneurship. There are several problems with
+working in large companies versus in universities versus in startups.
 
-the argument, one of which being that H-1B visas are mostly issued
+This will vastly improve policy making, which has so far suﬀered from
 
-to skilled employees working in large ﬁrms, which means that any
+having too little information to work with. For instance, let’s look at
 
-entrepreneurial stimulus would come with a time lag. Further, Brin
+Copyright © 2016 Harvard Business School Publishing. All rights reserved.
 
-came to the U.S. as a child, and is thus not representative of adult skilled
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

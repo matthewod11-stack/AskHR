@@ -1,11 +1,13 @@
-## Rex v. Arnold (Kingston upon Thames Assizes), 16 State Trials 695
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6344998c1cc3f7a8bf832d84815a741dd18046db
+title: untitled
+---
+## Price Waterhouse v. Hopkins, 109 S. Ct. 1775 (1989).
 
-(1812).
+Quen, J. (1994). The psychiatrist in the courtroom: Selected papers of Bernard L. Diamond, M.D. Hillsdale, NJ: Analytic Press.
 
-Rieber, R. W., & Green, M. (Eds.). (1981). Milestones in the history of forensic psychology and psychiatry. New York: DaCapo Press.
+Quinsey, V., Harris, G., Rice, M., & Cormier, C. (1998). Violent offenders: Appraising and managing risk. Washington, DC: American Psychological Association.
 
-Robinson, E. S. (1935). Law and the lawyers. NewYork: Macmillan.
-
-Rock v. Arkansas, 107 S. Ct. 2804 (1987).
-
-Roesch, R., & Golding, S. (1980). Competency to stand trial.
+Ray, I. (1983). A treatise on the medical jurisprudence of insanity. New York: DaCapo Press. (Original work published 1838)

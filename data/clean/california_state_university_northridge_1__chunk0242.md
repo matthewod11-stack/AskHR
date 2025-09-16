@@ -1,7 +1,9 @@
-# www.searchbank.com.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: a79a7ccce6098ea782919aa3773328e12a8c76dd
+title: california_state_university_northridge_1
+---
+# under www.searchbank.com.
 
-Frieson, J. (1994). Preventing Employment Lawsuits, An Employer's Guide to Hiring,· Discipline and Discharge. Massachusetts: Bureau ofNationai Affairs, Inc.
-
-86
-
-Goldberg, C. A (1997, December). Top 8 legal issues affecting HR. HR Focus, p.1-6.
+Falcone, P. (1999, May). A legal dichotomy? HR Magazine, p. 11-15.

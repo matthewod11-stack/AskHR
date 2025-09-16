@@ -1,11 +1,35 @@
-# HBR / Digital Article / Middle Managers Should Drive Your Business Transformation
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fdbcf8840acf72e0ab6f92dadc6b22742bb7a1f0
+title: H085EX-PDF-ENG
+---
+# wholesale changes.
 
-In our article featured in the Harvard Business Review, titled
+Successful transformations strike a balance — a sweet spot of
 
-“Transformations That Work,” we delve into the middle-out strategy
+experience that identiﬁes areas for improvement without succumbing
 
-adopted by Bob Bradway and his team at Amgen, a $27 billion
+to entrenched routines. This equilibrium frequently resides within the
 
-biopharmaceutical company. From the outset of the transformation eﬀort, senior leadership ﬂooded the scene with Amgen’s best talent.
+middle layers of an organization. By harnessing the collective wisdom of
 
-For every initiative, two mid-level leaders were handpicked — a VP-level
+middle managers and teams, companies can instigate transformations with enduring eﬀects.
+
+Drawing from our research and experience, we identify three strategies as pivotal to eﬀective middle-out transformation:
+
+Enlist your very best middle managers
+
+Transforming a business demands a blend of creativity and ingenuity
+
+— attributes that only the very best managers possess. Mediocrity won’t
+
+suﬃce; it’s the cream of the crop who can bring the necessary acumen
+
+and experience to spearhead transformative change.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

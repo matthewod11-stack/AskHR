@@ -1,15 +1,19 @@
-## HBR / Digital Article / Research: How to Build Consensus Around a New Idea
+---
+source_path: H08COG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e170556d1902acaa4f052663e5ac4575f16656b5
+title: H08COG-PDF-ENG
+---
+# of art.
 
-sandwich ideas and 19 low-novelty sandwich ideas, determined through
+We also tested whether associating value with novelty would impact
 
-a previous survey. We sorted the participants into two groups: baseline
+variability. In our fourth experiment, we asked 200 U.S. participants
 
-and novelty-as-value. We asked both groups to evaluate the sandwiches’
+who had experience working in hospitality to review 19 highly novel
 
-value, but in the novelty-as-value group, we asked, “At a restaurant
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-specializing in sandwiches no one has tried before, how successful
+3
 
-would this sandwich be as a menu item?”
-
-We found that, consistent with our other studies, there was high
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

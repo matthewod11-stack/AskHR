@@ -1,19 +1,13 @@
-## HBR / Digital Article / How to Talk to Your Team the Day After the Election
+---
+source_path: H08H56-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 079e8ecd1c54963b411f4b0d4dc3ded43af2bd7c
+title: H08H56-PDF-ENG
+---
+## uncertainty with recounts and disputes. For instance:
 
-If there’s a clear winner, Clark recommends saying something like:
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-“Good morning, everyone. I imagine many of you stayed up late last
+2
 
-night, and we all likely have personal feelings about the results of
-
-the election. Some of you may feel pleased, while others might be
-
-very upset. I want to emphasize that one of our core values as an
-
-organization is to be thoughtful and respectful toward one another.
-
-Let’s all be mindful of how we express our feelings, recognizing the
-
-diversity within our team. Regardless of how we each feel about politics,
-
-there’s one thing we can all agree on: our commitment to creating a
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

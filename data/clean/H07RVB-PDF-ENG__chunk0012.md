@@ -1,7 +1,35 @@
-# low as well.
+---
+source_path: H07RVB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 237291d58d5f63bc62e13f5abbe341f5d76b0ff1
+title: H07RVB-PDF-ENG
+---
+# HBR / Digital Article / Jim Fielding, Ex-Head of Disney Stores, on the Struggles of Mak…
 
-It makes me kind of sad because I think that means there’s wasted
+JIM FIELDING:
 
-talent, because I know in my community how many bright, creative,
+Thank you for having me. Incredible honor.
 
-innovative, talented people there are that deserve their shot in the C-
+ADI IGNATIUS:
+
+Your book is, as you put it, a queer executive’s journey. Fortune
+
+magazine recently calculated that there are four openly gay CEOs in
+
+the Fortune 500. That’s up from zero in 2014 when Tim Cook came out
+
+or was outed, however you view that. But when you hear that number,
+
+what do you think?
+
+JIM FIELDING:
+
+Not surprising, frustrating, and I think partially part of the message of
+
+the book. If you just use the law of averages and you say, OK, 10% of the
+
+country is queer, LGBTQ, that percentage doesn’t make sense. But I also
+
+think, Adi, if you talked about women, people of color, minorities, the
+
+other minorities or marginalized communities, the numbers would be

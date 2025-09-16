@@ -1,19 +1,21 @@
-# HBR.ORG
+---
+source_path: reinventing_performance.md
+pages: n/a-n/a
+chunk_id: e3dbc8c07c7f6efd9f21adde27b257c2bcd3cea6
+title: reinventing_performance
+---
+## THE BIG IDEA REINVENTING PERFORMANCE MANAGEMENT
 
-Idea in Brief THE PROBLEM Not just employees but their managers and even HR departments are by now questioning the conventional wisdom of performance management, including its common reliance on cascading objectives, backward-looking assessments, once-a-year rankings and reviews, and 360-degree-feedback tools.
+At Deloitte we’re redesigning our performance management system. This may not surprise you. Like many other companies, we realize that our current process for evaluating the work of our people—and then training them, promoting them, and paying them accordingly—is increasingly out of step with our objectives.
 
-THE GOAL Some companies have ditched the rankings and even annual reviews, but they haven’t found better solutions. Deloitte resolved to design a system that would fairly recognize varying performance, have a clear view into performance anytime, and boost performance in the future.
+In a public survey Deloitte conducted recently, more than half the executives questioned (58%) be- lieve that their current performance management approach drives neither employee engagement nor high performance. They, and we, are in need of something nimbler, real-time, and more individual- ized—something squarely focused on fueling per- formance in the future rather than assessing it in the past.
 
-THE SOLUTION Deloitte’s new approach separates compensation decisions from day-to-day performance management, produces better insight through quarterly or per-project “performance snapshots,” and relies on weekly check-ins with managers to keep performance on course.
+What might surprise you, however, is what we’ll include in Deloitte’s new system and what we won’t. It will have no cascading objectives, no once-a-year reviews, and no 360-degree-feedback tools. We’ve arrived at a very different and much simpler design for managing people’s performance. Its hallmarks are speed, agility, one-size-fits-one, and constant learning, and it’s underpinned by a new way of col- lecting reliable performance data. This system will make much more sense for our talent-dependent business. But we might never have arrived at its de- sign without drawing on three pieces of evidence: a simple counting of hours, a review of research in the
 
-fair. We realize, however, that it’s no longer the best design for Deloitte’s emerging needs: Once-a-year goals are too “batched” for a real-time world, and conversations about year-end ratings are generally less valuable than conversations conducted in the moment about actual performance.
+science of ratings, and a carefully controlled study of our own organization.
 
-But the need for change didn’t crystallize until we decided to count things. Specifically, we tallied the number of hours the organization was spending on performance management—and found that com- pleting the forms, holding the meetings, and creat- ing the ratings consumed close to 2 million hours a year. As we studied how those hours were spent, we realized that many of them were eaten up by leaders’ discussions behind closed doors about the outcomes of the process. We wondered if we could somehow shift our investment of time from talking to our- selves about ratings to talking to our people about their performance and careers—from a focus on the past to a focus on the future.
+Counting and the Case for Change More than likely, the performance management system Deloitte has been using has some charac- teristics in common with yours. Objectives are set for each of our 65,000-plus people at the beginning of the year; after a project is finished, each person’s manager rates him or her on how well those objec- tives were met. The manager also comments on where the person did or didn’t excel. These evalu- ations are factored into a single year-end rating, ar- rived at in lengthy “consensus meetings” at which groups of “counselors” discuss hundreds of people in light of their peers.
 
-We tallied the number of hours the organization was spending on performance management and found that creating the ratings consumed close to 2 million hours a year.
+Internal feedback demonstrates that our people like the predictability of this process and the fact that because each person is assigned a counselor, he or she has a representative at the consensus meetings. The vast majority of our people believe the process is
 
-The Science of Ratings Our next discovery was that assessing someone’s skills produces inconsistent data. Objective as I may try to be in evaluating you on, say, strategic think- ing, it turns out that how much strategic thinking I do, or how valuable I think strategic thinking is, or how tough a rater I am significantly affects my as- sessment of your strategic thinking.
-
-How significantly? The most comprehensive research on what ratings actually measure was conducted by Michael Mount, Steven Scullen, and Maynard Goff and published in the Journal of Applied Psychology in 2000. Their study—in which 4,492 managers were rated on certain per- formance dimensions by two bosses, two peers, and two subordinates—revealed that 62% of the variance in the ratings could be accounted for by individual raters’ peculiarities of perception. Actual
-
-April 2015 Harvard Business Review 43
+42  Harvard Business Review April 2015

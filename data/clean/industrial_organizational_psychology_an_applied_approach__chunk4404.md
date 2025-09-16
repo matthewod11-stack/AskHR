@@ -1,25 +1,17 @@
-## of Applied Behavioral Science, 27(3), 294–315.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: efaefa03eefcaa1b656011a13d1bd882dc01f3c3
+title: industrial_organizational_psychology_an_applied_approach
+---
+## work groups. Journal of Applied Psychology, 78(3), 450–462.
 
-Sadri, G. (1996). Reﬂ ections: Th e impact of downsizings on
+Sacco, J. M., Scheu, C. R., Ryan, A. M., & Schmitt, N. (2003). An investigation of race and sex similarity eﬀ ects in interviews: A multilevel approach to relational demography. Journal of Applied Psychology, 88(5), 852–865.
 
-survivors—some ﬁ ndings and recommendations. Journal of Managerial Psychology, 11(4), 56–59.
+Sacco, J. M., & Schmitt, N. (2005). A dynamic multilevel model of demographic diversity and misﬁ t eﬀ ects. Journal of Applied Psychology, 90(2), 203–231.
 
-Saks, A. M., Wiesner, W. H., & Summers, R. J. (1996). Eﬀ ects
+Sackett, P. R., & Roth, L. (1991). A Monte Carlo examination of banding and rank order methods of test score use in personnel selection. Human Performance, 4(4), 279–295.
 
-of job previews and compensation policy on applicant attraction and job choice. Journal of Vocational Behavior, 49(1), 68–85.
+Sackett, P. R., & Wanek, J. E. (1996). New developments in the use of measures of honesty, integrity, conscientiousness, dependability, trustworthiness, and reliability for personnel selection. Personnel Psychology, 49(4), 787–829.
 
-Salancik, G., & Pfeﬀ er, J. (1977). An examination of need-
-
-satisfaction models of job satisfaction and job attitudes. Administrative Science Quarterly, 22, 427–456.
-
-Salas, E., & Cannon-Bowers, J. A. (2001). Th e science of training:
-
-A decade of progress. Annual Review of Psychology, 471–499.
-
-Salas, E., Mullen, B., Rozell, D., & Driskell, J. E. (1997). Th e eﬀ ects of team building on performance: An integration. Poster presented at the 12 annual conference of the Society for Industrial and Organizational Psychology, St. Louis, MO.
-
-Salgado, J. F. (1997). Th e ﬁ ve-factor model of personality and job performance in the European community. Journal of Applied Psychology, 82(1), 30–43.
-
-Salgado, J. F., Anderson, N., Moscoso, S., Bertua, C., & De Fruyt, F. (2003). International validity generalization of GMA and cognitive abilities: A European Community meta-analysis. Personnel Psychology, 56, 573–605.
-
-Salkind, N. J. (2006). Exploring research (6th ed.). Upper Saddle
+Sackman, S. (1991). Uncovering culture in organizations. Journal

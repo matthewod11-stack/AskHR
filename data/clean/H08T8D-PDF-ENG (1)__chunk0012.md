@@ -1,63 +1,43 @@
-## HBR / Digital Article / 4 Strategies to Help New Leaders Give Feedback
+---
+source_path: H08T8D-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 89db4e08a516aa5b0e51e365348719bc291eed42
+title: H08T8D-PDF-ENG (1)
+---
+## In your ﬁrst few weeks, schedule one-on-one meetings with your direct
 
-creating space for others’ ideas to shine. Let’s work on strategies to
+reports that are focused on getting to know them, their aspirations,
 
-build that skill now.” Maria took the feedback to heart. In subsequent
+and their perspectives. What motivates them? What are their career
 
-meetings, she shifted her approach—asking more questions, drawing
+aspirations? What kind of support do they need from you to thrive? Ask
 
-out quieter voices, and consistently enrolling her team before oﬀering
+them about their best bosses and what those leaders did to help them
 
-her own perspective. When Divya checked in with a few of Maria’s
+succeed. These conversations lay the groundwork for trust and make
 
-colleagues, they shared that they felt more heard and included. By
+future feedback easier to deliver, as it can be positioned around helping
 
-aligning feedback with Maria’s aspirations, Divya made it easier to
+them achieve their goals.
 
-receive and more motivating to act on.
+When my client Divya became the head of global sales, she
 
-- 4. Set aside your ego.
+scheduled one-on-one career talks with each team member. During one
 
-It’s natural for a new leader to want to prove they were the right hire. But
+conversation Maria, a top-performing regional sales leader, shared her
 
-this can lead to an ego-driven feedback trap, such as being overly blunt or aggressive to score quick wins, or overly passive to avoid ruﬄing
+ambition to one day lead a larger sales organization.
 
-feathers. Exceptional leaders understand that you can be clear and
+A few weeks later, Divya noticed that Maria tended to dominate
 
-direct while showing care and respect— it’s not an either/or choice.
+discussions in team meetings, unintentionally stiﬂing input from
 
-Take my client Michael, a recently promoted director at a tech startup.
+others. When Divya gave her feedback, she framed it in terms of Maria’s
 
-One of his senior engineers, Shana, had missed several deadlines,
-
-putting a key product launch at risk. Michael couldn’t avoid addressing
-
-the issue, but he also didn’t want to come across as harsh in his
-
-ﬁrst major feedback conversation. In their one-on-one, he began by
-
-acknowledging Shana’s expertise and her signiﬁcant contributions to
-
-past successes. Then, he shared his observations: “Shana, I’ve noticed
-
-the missed deadlines on your recent deliverables. I know you’re
-
-committed to the success of this product, and I want to make sure you
-
-have what you need to get back on track. Can you share what’s been
-
-challenging, and let’s talk about how I can support you?”
-
-This combination of direct feedback and empathetic inquiry led to
-
-an honest conversation. Shana explained that a new process had
-
-created bottlenecks in her workﬂow. Together, they developed a plan to
-
-adjust her responsibilities and streamline the process, preventing future
+goals: “Leading on a larger stage will mean fostering collaboration and
 
 Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-5
+4
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

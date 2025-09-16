@@ -1,17 +1,15 @@
-# End Notes
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 211a252ae6f456f8c5735bb65101705bfe33075f
+title: performance_management_3rd_edition_by_aguinis
+---
+## Minimizing Biases in Performance Evaluation at Expert Engineering, Inc.
 
-- 1. Tannenbaum, S. I. (2006). Applied perform- ance measurement: Practical issues and challenges. In W. Bennett, C. E. Lance, & D. J. Woehr (Eds.), Performance measure- ment: Current perspectives and future challenges (pp. 297–318). Mahwah, NJ: Lawrence Erlbaum.
+Under various engineer titles, veteran engineer Demetri worked for Expert Engineering, Inc., for almost 15 years. The firm’s performance evaluation history is both unique and long. He has recently been promoted to the position of Principal at the engineering firm. All principals are involved in evaluating engineers because the founders of the firm believed in multiple source evaluation and feedback to prevent favoritism and promote a merit-based culture. At the same time, the firm has a long history of using quality performance appraisal forms and review meetings to better ensure accu- rate performance evaluations. Several months ago, however, the firm initiated a big hiring initiative of a dozen new engi- neers, nine of whom turned out to be graduates from Purdue
 
-- 2. Adapted from Grote, D. (1996). The complete guide to performance appraisal. New York: AMACOM.
+University, which is the same university from which Demetri graduated. Indeed, Demetri was active in moving forward the hiring initiative. There is tension and discontent among the other principals, who fear that a time of unchecked favoritism, biased performance ratings, and unfair promotion decisions is on the rise.
 
-- 3. Grote, D. (1996). The complete guide to per- formance appraisal. New York: AMACOM. 4. Adapted from Workforce Research Center (2003, April). “Busch Performance Evalua- tions,” Workforce Online. Available online at http://www.workforce.com/archive/article/ 23/42/03.php. Retrieval date: May 1, 2011. 5. Ganzach, Y., Kluger, A. N., & Klayman, N. (2000). Making decisions from an interview: Expert measurement and mechanical com- bination. Personnel Psychology, 53, 1–20. 6. Kraiger, K., & Aguinis, H. (2001). Training effectiveness: Assessing training needs, motivation, and accomplishments. In M. London (Ed.), How people evaluate others in organizations (pp. 203–220). Mahwah, NJ: Lawrence Erlbaum.
+- 1. Provide a detailed discussion of the intentional and unintentional rating distortion factors that may come into play in this situation.
 
-- 7. Brutus, S. (2010). Words versus numbers: A theoretical exploration of giving and receiving narrative comments in perform- ance appraisal. Human Resource Management Review, 20, 144–157.
-
-- 8. Short, J. C., Broberg, J. C., Cogliser, C. C., & Brigham, K. (2010). Construct validation using computer-aided text analysis (CATA): An illustration using entrepreneurial orientation. Organizational Research Methods, 13, 320–347. 9. Milliman, J. F., Zawacki, R. A., Schulz, B., Wiggins, S., & Norman, C. A. (1995). Customer service drives 360-degree goal setting. Personnel Journal, 74, 136–142.
-
-- 10. Workforce Research Center. ED: April 29, 2001 The new thinking in performance appraisals: Writing effective co-worker comments. Workforce Online. Available online at http:/ /www.workforce.com/archive/feature/22/ 28/68/223579.php. Retrieval date: May 1, 2011.
-
-- 11. Adapted from Grote, D. (1996). The complete guide to performance appraisal. New York: AMACOM.
-
-- 12. Talbott, S. P. (1994). Peer review drives com- pensation at Johnsonville. Personnel Journal, 73, 126–132.
+- 2. Evaluate the kinds of training programs that could minimize the factors you have described. What do you recommend and why? (cid:2)

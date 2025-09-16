@@ -1,11 +1,13 @@
-## HBR / Digital Article / Research: How “Leisure Crafting” Can Help You Recharge
+---
+source_path: H08OXV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6c2dd8afc0a5b40ccc7625462f4a2f7a7625c777
+title: H08OXV-PDF-ENG
+---
+# community of other movie watchers.
 
-Or consider a fantasy football enthusiast who instead of doing the bare
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-minimum to stay involved, decides to enroll in a negotiation workshop
+2
 
-to improve their trade strategies while also learning predictive modeling
-
-techniques to optimize their lineup decisions.
-
-But are these models really better then vegging out? Here’s what we
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,5 +1,15 @@
-# York: New York University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e0ff1f04e8988840ad41e0a9ac14c4c2915c4cc3
+title: untitled
+---
+# trial psychology. New York: McGraw-Hill.
 
-Cattell, J. M. (1923). Psychological corporation. Annals of the American Academy of Political and Social Science, 110, 165– 171.
+Capshew, J. H. (1999). Psychologists on the march: Science, prac- tice, and professional identity in America, 1929–1969. New York: Cambridge University Press.
 
-Cattell, J. M. (1946). Retrospect: Psychology as a profession. Jour-
+Cascio, W. F. (1991). Costing human resources: The ﬁnancial im- pact of behavior in organizations (3rd ed.). Boston: PWS-Kent.
+
+Cascio, W. F. (1995). Whither industrial and organizational psychol- ogy in a changing world of work? American Psychologist, 50, 928–939.
+
+Cashman, S. D. (1989). America in the twenties and thirties. New

@@ -1,29 +1,23 @@
-## HBR / Digital Article / New Research on How to Get Workplace Rituals Right
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8dcb0c4614b8f1c557d645e2ffe2437398736ce3
+title: H08TQX-PDF-ENG
+---
+# The Research
 
-one study, we asked employees to describe how they felt at these
+In a series of studies, we examined the dynamics of complex
 
-events. In line with previous work, we found that complex rituals can
+organizational rituals—those that take place over extended periods
 
-make employees feel more connected to their colleagues and have more
+of time and involve extensive social interaction. Think holiday
 
-positive feelings about their company. But we also found that they can
+parties, team-building retreats, annual meetings, award ceremonies,
 
-make employees feel excluded, inauthentic, underappreciated, and like
+onboarding or leaving events, and company-speciﬁc celebrations. In
 
-they’re making a personal sacriﬁce.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-To examine how these positive and negative responses to complex
+2
 
-rituals impact subsequent employee engagement and behavior, we
-
-conducted two additional studies in the U.S. and Germany. Both studies
-
-examined the eﬀects that complex rituals had in the weeks and months
-
-following the ritual event. Consistent with prior research, we found that
-
-when employees reported having more positive experiences at the event
-
-(such as having meaningful social interactions or being recognized by
-
-leaders for their work), they were subsequently more engaged, more
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

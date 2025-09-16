@@ -1,7 +1,17 @@
-## simple questions—what, where, who, when, and how—apply at each link
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0c7147708c20afcb9416e807de2a0c780a4b0352
+title: H08TKY-PDF-ENG
+---
+# possible.
 
-in the consumption chain. For example, “What are customers doing at
+To do this, start by mapping your customers’ entire experience with
 
-each point in the consumption chain?” or “How are your customers’
+a product, asking questions such as, “How do people become aware
 
-needs being addressed?”
+of their need for your product or service?” “How is your product
+
+installed?” and “How is your product repaired or serviced?” Then,
+
+analyze your customer’s experience by considering how a series of

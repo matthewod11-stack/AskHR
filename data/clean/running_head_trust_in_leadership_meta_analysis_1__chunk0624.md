@@ -1,14 +1,20 @@
-# Cognitive Trust
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 59ce3e438ee25f0cbf2acf8970a5d76b83a5b128
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Affective Trust
 
-- .41**
+- .46**
 
-- .07**
+.27**
 
-.03**
+- .13**
 
-.01
+- .15
 
-.04
+- .11
 
 - .08**
 

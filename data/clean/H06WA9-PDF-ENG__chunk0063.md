@@ -1,29 +1,41 @@
-# services.
+---
+source_path: H06WA9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 27c7d19fceb2721e26c6ebcb03af6f1db75d8885
+title: H06WA9-PDF-ENG
+---
+## HBR / The Big Idea / Harnessing the Power of Age Diversity
 
-Activity: Mutual Mentoring. To start building a
+support employees’ development of competencies and skills and
 
-mentorship culture on your team, create an informal
+increase both individual involvement and collective motivation.
 
-mutual mentoring network. Begin by asking team
+Mutual learning can also happen organically when people of diﬀerent
 
-members of all ages what they want to learn and what
+generations have good relationships and are on the lookout for
 
-they want to teach. Potential teachers can be
+opportunities. BuildWitt Media, a digital storytelling ﬁrm we’ve studied,
 
-surprisingly shy when it comes to their expertise; it
+helps its clients in the construction and mining industries attract great
 
-may help if you make suggestions about what you see as their strengths.
+talent. Its founder and CEO is 26-year-old Aaron Witt; its president,
 
-Identify where there are natural connections: employees who are versed
+Dan Briscoe, is 53. While cross-generational learning was never an
 
-in TikTok and those who want to learn to create selﬁe videos, or
+explicit reason for their partnership, they have come to value how
 
-employees who have an established roster of clients and those who
+Briscoe’s 30 years of experience in leadership, sales, and marketing
 
-want to expand their networks. While not all pairings need to be cross-
+complement Witt’s impulsive energy, sense of business trends, and
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+lifelong immersion in mobile media. For example, Briscoe credits Witt
 
-13
+with teaching him to look beyond academic degrees and GPA when
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hiring and to consider leadership potential and alignment with culture
+
+and values in addition to a work portfolio. Witt says Briscoe is good
+
+at relating to clients and putting deals together. This partnership, they
+
+agree, has led to rapid growth and the opportunity to diversify their

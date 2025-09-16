@@ -1,65 +1,49 @@
-# HBR / Digital Article / Research: How Family Motivates People to Do Their Best Work
+---
+source_path: H08AI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 94d3f5a27575674d9ff397e75ed8636cbc91c8a6
+title: H08AI6-PDF-ENG
+---
+# Family as a Source of Motivation at Work
 
-again found that family motivation increased employees’ work eﬀort in
+Research on motivation has suggested that people work harder if work
 
-ways that led to enhanced productivity.
+provides them with money and status (extrinsic motivation), joy and
 
-The reasons why family energizes extra work eﬀort are manifold. The
+fulﬁllment (intrinsic motivation), and a sense of making a diﬀerence
 
-most straightforward is that employees want to ensure that they have
+to others in the world (prosocial motivation). However, one reason why
 
-the ﬁnancial resources to sustain their family. But family motivates
+people work is often neglected: their family. Many people are motivated
 
-many to work hard for reasons beyond ﬁnances. Parents describe
+to get up every morning and go about their work because they care
 
-wanting to do their best at their job because they care about being a
+about supporting their family and because their family beneﬁts from
 
-role model, to illustrate the value of a strong work ethic, or to teach their
+their job. This family motivation can boost employees’ performance at
 
-children positive career strategies—like Serena Williams’ desire to show
+work, inspiring them to do their best.
 
-her daughters how to embrace diﬀerent interests across careers. These
+The low-income employees we studied spend their workdays scanning
 
-dynamics emerged in qualitative interviews researchers conducted in
+discount coupons that are shipped to Mexico from retailers located
 
-South Asia to explore the nature of family motivation further. One
+in the U.S.—a monotonous, manual process that involves taking each
 
-employee said: “My kids are everything to me. I want to give them
+coupon out of its shipping container, scanning the barcode, and double
 
-the best and also want to be [a] role model for them. I want to teach
+checking that the system processes the coupon correctly. We found that
 
-them that one should [honor] their responsibility and earn a respectable
+those who were more motivated by their family to do their work had
 
-living.”
+more energy for their work. This energy, in turn, increased employees’
 
-Work can also be a source of pride, as employees share their
+ability to meet their target goals for work each day. Subsequent studies
 
-accomplishments to make family members proud. As another South
-
-Asian employee shared, “My family feels pride in my work, my earning
-
-capabilities, and my growth in my career. It is the encouragement and
-
-backing from my family that motivate me to grow.” Just as Serena
-
-Williams looked forward to her daughter watching her work, these
-
-employees delighted in seeing the pride in their accomplishments
-
-reﬂected in their families’ eyes.
-
-Family can also give employees a bigger-picture perspective that
-
-can help them to overcome challenges at work. For instance, Mark
-
-Buckingham, a physiotherapist who worked with athletes as they
-
-became new parents, noted: “Babies put a bad day or a poor
-
-training session into context. Oddly, they make athletes better at time
+among both lower-income and higher-income employees in China have
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-4
+3
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,7 @@
-# Shaping the Job to Fit the Need
-
-My observations of how this position has evolved in business
-
-organizations suggest that it entails three levels of responsibility.
-
-Level 1. A CoS at level one has typically been promoted from an
-
-executive assistant role. An example is Susan, who was the more senior
-
-of two EAs to the CEO of a large energy-related corporation before she
-
-became his CoS. Her replacement as senior EA and the other assistant
-
-now report to her. In addition to overseeing use of the CEO’s time
-
-and ensuring his focus on the most important issues, she manages
+---
+source_path: R2003G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a17769580857f7824e1ca7948ac228a73357cc2
+title: R2003G-PDF-ENG
+---
+## HBR / Magazine Article / The Case for a Chief of Staff

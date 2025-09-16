@@ -1,13 +1,11 @@
-# backlash against supervisors.
+---
+source_path: H0813H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 394ce255c98aad776e47e3282f59d5b175fc1a4d
+title: H0813H-PDF-ENG
+---
+# productivity.
 
-- 1. Be transparent about using monitoring for developmental feedback.
+Based on our research, we oﬀer three suggestions to help organizational
 
-First, organizational leaders — particularly decision-makers — should
-
-set up monitoring systems to be developmental, and they should
-
-be fully transparent about that purpose. Giving employees advance
-
-notice helps them to mentally prepare for surveillance and to develop
-
-expectations that put pressure on employers to use monitoring in a
+leaders achieve the beneﬁts of these systems while preventing the

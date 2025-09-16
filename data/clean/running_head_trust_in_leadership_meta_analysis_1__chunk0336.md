@@ -1,21 +1,27 @@
-# Paternalistic - Benevolence
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 87430dc6a8cfc1d97207f175eedbfc23efc4633c
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Paternalistic - Moral
 
 5
 
 1793
 
-.67
+.64
 
-.65
+.57
 
-.69
+.70
 
-.77
+.74
 
-.00
+.09
 
-99.15
+15.14
 
-.76
+.63
 
-.77
+.85

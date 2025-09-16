@@ -1,5 +1,25 @@
-# HBR / Digital Article / Harvard’s Arthur C. Brooks on the Secrets to Happiness at Work
+---
+source_path: H07SHV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 997f493e8def864ff3327e05dd70eeae8e32a627
+title: H07SHV-PDF-ENG
+---
+## Every week in my column in the Atlantic, every Thursday morning, I
 
-spouse yelled at you this morning, no good. Don’t chase the feeling.
+have a big topic and I do talk about the science, but then I always give
 
-Feelings are evidence of happiness, like the smell of the turkey is
+three ways to live this thing.
+
+Just in general, since we’re on the meta topic of happiness, the way
+
+to think about happiness is that it’s not a feeling. If happiness were a
+
+feeling, that would be very disappointing. It would depend on how you
+
+slept last night and what you ate for breakfast and no good. If your
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+20
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

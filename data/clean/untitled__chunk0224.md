@@ -1,9 +1,11 @@
-# Allyn & Bacon.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0679c49896997d6ae30e87c9b528745d053295c7
+title: untitled
+---
+# applications. Boston:Allyn & Bacon.
 
-Hall, G. S. (1901). The new psychology. Harper’s Monthly Maga-
+Guthrie, E. R. (1960). The psychology of learning (Rev. ed.). Gloucester, MA: Peter Smith. (Original work published 1935)
 
-zine, 103, 727–732.
-
-Hall, G. S. (1904). Adolescence: Its psychology and its relations to physiology, anthropology, sociology, sex, crime, religion, and education (Vols. 1–2). New York: Appleton.
-
-Hall, G. S. (1923). Life and confessions of a psychologist. NewYork:
+Guthrie, R. (1998). Even the rat was white (2nd ed.). Boston:

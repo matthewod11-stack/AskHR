@@ -1,9 +1,13 @@
-# Overcoming Fears and Apprehension
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: c4d135c26329fbbc1a402c54e837ecc77e25829f
+title: document_resume
+---
+# A President's Perspective
 
-All members of the institutional community need to be sold on the performance appraisal program. Participatory management is itself a long-term performance strat- egy; on the other hand, a "top down" view invites failure.
+progress has been made in developing an efficient, Lost effeLin e, and psychometrically sound technique of performance appraisal.5
 
-One essential feature is an administrative mechanism for higher levels of manage- ment to review performance ratings, reinfon by an appeals procedure. A committee or group should be established to adjudicate disputed ratings and the group should include peers. The appeals procedure is particularly important in cases of demotion, suspension, or discharge for poor performance. It is also necessary to hold free and open discussions w ith all segments of an institution. It is at forums such as these that fears can be allayed and apprehensions addressed. These come in the form of the inevitable "what if?" questions and almost always involve a worst case scenario. It is usually possible to turn these negatives around. For example, an instructor might ask, "What if my department chair gives me a low rating because he dislikes me?" It can be pointed out that the rating criteria represent items that can be observed or measured, and that the department chair will be rated on how well he/she observes and measures per- formance. In fact, it can be clearly shown that a good performance, appraisal system makes it difficult to award ratings on likes and dislike s. I t is in the absence of such a system that biased ratings are likely to occur.
+Consider, however, a different perspective. There are few, if any. other adminis- trative functions and processes in which there are proven methods. In fact the state-of- the-art in management is just as much a "jungle" as when Harold Koontz wrote his classic article.' But that doesn't seem to stop us in other activities. For example, the personnel selection process has the most far reaching consequences of any activity in administration. No researcher has ever devised a "perfect" selection test for any job; the best predictors of job success are only slightly better than chance. Yet we hire people like we know what we are doing. In fact, we also pay, promote and develop people based on imperfect theories.
 
-Superiors are often concerned that subordinates will resent being given low ratings on those aspects of the job where performance is deficient or will be uncooperative and
-
-1
+This is not to disparage the literature. Revit w it but do not be intimidated by it. There are a numt_r of behavioral and outcome concepts and techniques that have been shown to work reasonably well. In fact, such authorities as Redfern and Scriven have developed models for public school systems and much of their work is useful in post- secondary education.' There are other methods such as trait rating scales, unstructured and impressionistic systems. and other non- job related approaches which work poorly, if at all. An examination of the different approaches should lead to a program that best fits the needs of the institution.

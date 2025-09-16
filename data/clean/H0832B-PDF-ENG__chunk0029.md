@@ -1,21 +1,23 @@
-## HBR / Digital Article / Designing a Corporate Alumni Program? Start Here.
+---
+source_path: H0832B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d855962e13e980d20ac9009b9de7815f0dc8966c
+title: H0832B-PDF-ENG
+---
+# Alumni Feedback
 
-organization does survey alumni, they generally do so on an annual or
+While some organizations consider an alumni program to be a top-
 
-semi-annual basis. Broadly, these surveys should aim to gauge what the
+down eﬀort, others make considerable eﬀorts to gather feedback from
 
-company could do to better engage alumni as well as whether there are
+alumni. This often takes the form of issuing surveys, though even
 
-untapped opportunities for alumni to support their former employer.
+this practice isn’t nearly as common as it should be: Only half of
 
-For example, surveys generally include questions that ask alumni about
+organizations with formal programs implement a survey. When an
 
-which beneﬁts they already use or would like to see oﬀered, how
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-often they interact with the company, and whether they support the
+5
 
-organization by recommending it to others or bringing back business.
-
-Particularly progressive alumni programs go a step further on alumni
-
-feedback by creating an alumni advisory board. For example, the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

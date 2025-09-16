@@ -1,7 +1,23 @@
-## anxious about the Chinese market, where price controls, volume-based
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d0b588099a73dcd6307a5944f4d5b603d89012a4
+title: H07VZN-PDF-ENG
+---
+# speciﬁc about their concerns.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Consider the world of medical devices. Global companies hold major
 
-4
+market share in many product classes, including those that focus on
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the deterioration of the body. Those devices matter a lot to the Chinese,
+
+whose life expectancy has increased from around 51 to 78 in the past
+
+70 years, opening the door for old-age disease, and whose hundreds of
+
+millions of baby boomers — the largest cohort in history — are rounding
+
+into retirement age. The government has explicitly labeled the sector
+
+a priority, but many executives we speak with are nonetheless feeling

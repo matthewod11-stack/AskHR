@@ -1,9 +1,17 @@
-# Sacred Cow Hunts
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 21cd6954eb0fd97dc5cf038ee7c0a8a211e0e79c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Managing Change
 
-Perhaps the first step toward organizational change is what Kriegel and Brandt () called a sacred cow hunt. Organizational sacred cows are practices that have been around for a long time and invisibly reduce productivity. A sacred cow hunt, then, is an organization-wide attempt to get rid of practices that serve no useful purpose. Merck Pharmaceutical and Tractor Supply Stores have peri- odic sacred cow hunts in which cow bells are rung when a sacred cow is found, monthly sacred cow barbecues are held, and employees receive awards and money for finding a sacred cow. In a sacred cow hunt, an organization looks at all of its practices and policies and asks questions like these:
+514
 
-7 7 7 7 7
+chapter 
 
-Why are we doing it? Does it add value, quality, service, or productivity? What if it didn’t exist? Is it already being done by someone else? How and when did we start doing this? Can it be done better by another person, department, or company?
+You learned about increasing an individual employee’s skills through
 
-According to Kriegel and Brandt, common types of sacred cows include the
+training in Chapter . In this chapter, you will learn about organization development—the process of improving organizational performance by mak- ing organization-wide, rather than individual, changes (Burke, ). Though there are many aspects to organization development, this chapter will focus on four major issues: managing change, empowering employees, downsizing, and implementing innovative work schedules.
+
+In organizations, change occurs for many reasons and takes on many forms. Some changes are due to such organization development efforts as downsizing, reorga- nization, or the introduction of teams. Some changes are the result of external mandates like managed care or new government regulations. Still other changes occur due to new leadership or new personnel.

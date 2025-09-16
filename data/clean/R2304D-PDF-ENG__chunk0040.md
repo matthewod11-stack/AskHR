@@ -1,19 +1,19 @@
-## attitudes…listen to others’ perspective on an issue, explore many
+---
+source_path: R2304D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 12226c06ea4bf1a6f53c9cf87124abb48f6dad1d
+title: R2304D-PDF-ENG
+---
+## HBR / Magazine Article / The Labor-Savvy Leader
 
-alternatives, eschew a reﬂexive retreat to the homey conﬁnes of your
+We are not so naive as to believe that our mutual interest in
 
-preconceived ideals or traditions.
+a peaceful, equitable settlement will automatically produce a
 
-Bargaining is emotional, and ﬂare-ups, walkouts, and showboating on
+consensus on how such an agreement should be deﬁned. If we both see
 
-both sides of the table are common. Expect this. Tolerate some of it. But
+the world in precisely the same relief and hues, one of us is probably
 
-call out personal attacks or actions that violate the norms and rules of
+unnecessary. We recognize that the world is wide, and there is room
 
-the game that you agreed to at the outset.
-
-Decide what to bargain over. Labor law mandates only a few topics for
-
-bargaining—notably, wages, hours, and working conditions. However,
-
-workers today interpret “working conditions” to include not only
+enough in it to accommodate an expansive range of opinions and

@@ -1,19 +1,21 @@
-## product team without direct experience living in rural communities
+---
+source_path: H08LGU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 303332b2467dd388ff0ca73f738b6d131f6ea196
+title: H08LGU-PDF-ENG
+---
+## HBR / Digital Article / What Comes After DEI
 
-might be very representative of rural communities due to frequent
+Representation is a matter of trust, not tokenism. While people may be
 
-communication, active outreach, and ongoing eﬀorts to understand and
+slightly more inclined to trust those who share identities in common
 
-advocate for rural communities’ needs.
+with them, trust is more dependent on the behavior and track record
 
-Focusing on representation as an issue of trust rather than an issue
+of those in power. It’s possible for a leadership team made up entirely
 
-of identity allows us to avoid zero-sum conversations that can come
+of women to be non-representative of women if none of the leaders
 
-from ﬁxating on demographics. Assuming no change in team size,
+take the eﬀort to understand and advocate for the needs of the women
 
-teams populated only with white men must necessarily lose white men
-
-if they are to gain women or people of color. This framing instantly
-
-activates the common fear that eﬀorts to increase diversity are “coming
+they supposedly represent. On the other hand, it’s possible that a

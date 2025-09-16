@@ -1,15 +1,9 @@
-## corporate knowledge management without the need for extra process
+---
+source_path: R2403D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 59249f1880d9b45058a2a313a4ba2aa6d0f55131
+title: R2403D-PDF-ENG
+---
+## highly digitized workplaces, such as at J&J, the internal knowledge-
 
-steps or human eﬀort. “We try to ensure that all the data sits in what
-
-we call the ‘operating room,’” says Fasolo. “It’s a digital workspace where
-
-we can track critical project data in one place. It’s visible to everyone
-
-—employees and freelancers—and managers can observe the ﬂow of
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+management systems are facilitated by AI, enabling skills transfer and

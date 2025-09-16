@@ -1,23 +1,25 @@
-# organizational habits.
+---
+source_path: H08VBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 09cced468a63e111404665c50a877e4f2d29e12f
+title: H08VBA-PDF-ENG
+---
+# Building the Habit of Stopping
 
-Annual reviews and a stated commitment to keeping project portfolios
+Launching projects is fun. Kickoﬀs generate energy and visibility.
 
-small may help around the edges, but these approaches fail to deliver
+Meanwhile, killing projects feels quiet, awkward, and politically
 
-true organizational focus. A senior ﬁnance executive at a European
+charged. It’s no wonder that organizational overload is common, and
 
-industrial group once admitted to me: “We do big portfolio discussions
+why, despite recognizing the problem, leaders struggle to stop projects
 
-once a year, but by then it’s too late. Zombie projects keep running
+even when the case to do so is obvious.
 
-because nobody wants to be the one to stop them.”
+There’s the sunk-cost trap: “We’ve already spent too much to quit,
 
-Those zombie initiatives that drain resources without delivering value
+and we’re almost there.” Also reputational risk, emotional attachment,
 
-are deadly. They slow down strategic transformations and exhaust
+pet projects, vanity projects—we all know them when we see them.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The problem isn’t awareness, it’s human nature and ingrained

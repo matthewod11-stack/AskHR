@@ -1,11 +1,23 @@
-## counterproductive in VUCA, especially for young leaders.
+---
+source_path: H08VFN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5515f293bab03d122994dfdf20e74f0e192387d9
+title: H08VFN-PDF-ENG
+---
+# shame
 
-Solution 1: Emotion reset. To brace your conﬁdence against
+- Root Cause: A leader has a plan—but lacks conﬁdence to try it
 
-unexpected shocks, recall an occasion when you responded eﬀectively
+Hesitation is a learned behavior. It’s triggered by memories of failure
 
-to an instance of volatility or uncertainty. Prime the memory in your
+(or perceived failure) that suﬀuse the brain with shame. Shame makes
 
-brain by writing down everything you remember about the event,
+you think: I am useless. And when past shame surfaces in the present, it
 
-vividly visualizing each detail, including every step of your response
+makes you think: Here we go again. I am going to mess this up, just like I
+
+did before.
+
+Shame isn’t inherently bad; it evolved to prompt us to learn from
+
+our missteps. But shame is so psychologically powerful that it can be

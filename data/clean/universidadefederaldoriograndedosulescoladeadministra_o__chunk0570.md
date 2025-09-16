@@ -1,7 +1,15 @@
-## da empresa entrevistada, atendendo ao primeiro objetivo específico proposto pelo
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 69ccc8731a6d8faee5c66c4167a4b3f17252ebd9
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## Utilizamo-nos de estudo de caso em uma empresa para atender ao objetivo
 
-presente trabalho. A justificativa da opção pelo uso da metodologia do eNPS por
+geral deste projeto, que era o de descrever e analisar como a organização utiliza o
 
-parte da empresa estudada encontra resposta tanto no relato da funcionária
+eNPS na sua gestão de RH. Para isso, primeiramente, descrevemos e analisamos a
 
-entrevistada quanto na bibliografia em que se ancora a revisão que precede a
+definição desta corporação pela utilização do eNPS em lugar das tradicionais
+
+pesquisas de clima organizacional na seção 5.1 a partir do relato de uma funcionária

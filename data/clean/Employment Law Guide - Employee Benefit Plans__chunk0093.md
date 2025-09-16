@@ -1,3 +1,7 @@
-## Employee Beneﬁts Security Administration (EBSA)
-
-Contact EBSA Tel: 1-866-444-EBSA (1-866-444-3272); TTY: 1-877-889-5627
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: 79cc60c6a4e1548ecf932b61cf3b2ed1a9c243c9
+title: Employment Law Guide - Employee Benefit Plans
+---
+# DOL Contacts

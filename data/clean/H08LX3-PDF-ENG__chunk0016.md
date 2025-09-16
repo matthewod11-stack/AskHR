@@ -1,31 +1,21 @@
-## modes of collaboration and work-related activities.
+---
+source_path: H08LX3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 760d0fda1340a6c418f59d04228cade1bdf198bc
+title: H08LX3-PDF-ENG
+---
+# Collaboration in the Metaverse
 
-The beneﬁt here is the improvement in well-being and eﬃciency that
+As the concept of the metaverse ebbs and ﬂows in the mainstream
 
-comes from a more engaging and less monotonous work environment. The metaverse oﬀers countless opportunities to simulate environments
+media, the idea of a collective, virtual, shared space is still highly
 
-that can boost creativity and well-being simultaneously. Imagine,
+intriguing to workers across the globe. Various companies are
 
-for instance, brainstorming sessions held on virtual beaches, team
+experimenting with metaverse platforms to hold meetings, brainstorm,
 
-meetings atop simulated mountain peaks, or individual focus time in
+and even host corporate events. According to a report from PwC, virtual
 
-serene, virtual gardens. Virtual oﬃces like SoWork and Virbela are
+reality and augmented reality could add as much as $1.79 trillion to
 
-expanding these possibilities.
-
-The metaverse also allows for a form of social interaction that’s been
-
-severely limited in the age of remote work. The metaverse could
-
-replicate, and even enhance, the social aspects of an oﬃce, like a
-
-virtual Ping-Pong table or a digital kitchen where you can sit with
-
-colleagues. Team members with disabilities, who might ﬁnd traditional
-
-oﬃce settings limiting, can engage more freely in a virtual environment
-
-tailored to their needs. Meta, for example, showcased its Horizon
-
-Workrooms through the lens of a man with no legs who could roam
+the global economy by 2030, much of which will be through improved

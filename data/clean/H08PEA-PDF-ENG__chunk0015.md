@@ -1,15 +1,17 @@
-# performance.
+---
+source_path: H08PEA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7ac5cad3f7713b32b162a3faa36294ddc236915
+title: H08PEA-PDF-ENG
+---
+## 93 French workers both in the morning and evening over three to
 
-In follow-up experiments with 637 workers in the United Kingdom,
+seven workdays. This gave us an accurate baseline of daily cognitive
 
-we asked participants to describe both a routine task and a task
+performance. We also included questions about workload, conﬂict
 
-they believed they could improve, including how they would improve
+with coworkers, and multitasking to exclude other factors that may
 
-it. They then rated the mental eﬀort each task required and how
+explain our ﬁndings. Even after accounting for these factors, we still
 
-much it deviated from their usual routine. These results supported
-
-our hypothesis: proactive work breaks from established routines and
-
-demands more mental eﬀort, compared to simply completing a routine
+found that proactivity was associated with poorer end-of-day cognitive

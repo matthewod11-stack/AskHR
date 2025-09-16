@@ -1,7 +1,9 @@
-# References
+---
+source_path: title.md
+pages: n/a-n/a
+chunk_id: da803885a4bc7d05a4edc86e6801f5d568fee723
+title: title
+---
+## The helpful comments of the Editor and two anonymous
 
-Al-Ubaydli, O., G. Jones, and J. Weel (2013). Patience, cognitive skill, and coordination in the repeated stag hunt. Journal of Neuroscience, Psychology, and Eco- nomics 6(2), 71.
-
-Almlund, M., A. L. Duckworth, J. J. Heckman, and T. D. Kautz (2011). Personality psychology and economics. Technical Report w16822.
-
-Ariely, D. (2009). The end of rational economics. Harvard
+reviewers are gratefully acknowledged

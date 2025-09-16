@@ -1,15 +1,33 @@
-# conﬁdence, conviction, and clarity.
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38638200fe095b452eefaa082ee4ef068b781d2a
+title: H07I7D-PDF-ENG
+---
+## HBR / Digital Article / How to Help Superstar Employees Fulfill Their Potential
 
-- 2. Help high potentials increase their emotional intelligence.
+the conditions that enable the team to operate eﬀectively without their
 
-As one moves up in their career, they must often rely on others to
+daily presence. This involves developing the operational platforms and
 
-get the work done, and that requires trust, support, and guidance.
+incentives to reinforce positive behaviors; supporting and cultivating a
 
-In essence, it requires emotional intelligence, and two central tenets
+vibrant and healthy culture; and creating a context that enables team
 
-of emotional intelligence that are critical for high potentials are self-
+members to grow, develop, and produce.
 
-awareness and empathy. Numerous research studies have identiﬁed a
+Managers can support this eﬀort by tracking high potentials’ progress
 
-link between self-aware leaders and climates that are open, supportive,
+against key leadership competencies, such as team management,
+
+relationship building, and communication. In particular, a high
+
+potential’s ability to lead eﬀective teams, inspire and motivate others,
+
+and articulate a compelling vision are dependent on their ability
+
+to successfully communicate. While they may be eﬀective in small
+
+team meetings or one-on-one interactions, they must also excel
+
+at communicating at scale and scope. This requires demonstrating

@@ -1,15 +1,31 @@
-# HBR / Digital Article / You Don’t Need a Mentor to Get the Career Advice You Need
+---
+source_path: H08NS4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d7afcd61ff78460833e702e68eed6641a0dba83
+title: H08NS4-PDF-ENG
+---
+# Embrace Self Reflection
 
-to trust your own instincts—important skills to cultivate early in your
+Micro-mentors can ﬁll the mentorship gap, but when you’re taking
 
-career. Over time, the ability to understand what’s right for you—and
+advice from someone who doesn’t know you as an individual, their
 
-discard what’s not—can become a critical competitive advantage when
+guidance may be helpful in general (“Deﬁnitely go back to graduate
 
-making career decisions. For instance, you might feel pressure to simply
+school!”) but not appropriate for your personal situation (for instance,
 
-accept the highest-paid job oﬀer that you receive, but understanding
+needing to work full-time to help support your family). So, it’s important
 
-where your long-term professional interests lie can help you choose
+to balance out the advice with your own self-reﬂection.
 
-a position that, while it may pay less initially, is a better ﬁt over the
+When you build a network of micro-mentors, you have to rely on your
+
+gut and self-knowledge, rather than simply taking the word of someone
+
+more experienced. You’re forced to actually listen to yourself and learn
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

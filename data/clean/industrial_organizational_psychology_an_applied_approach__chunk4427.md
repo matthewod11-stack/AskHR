@@ -1,15 +1,17 @@
-# expectancy-value theory. Personality and Social Psychology Bulletin, 25(9), 1147–1158.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 51e43b23265989271ddbb79167da2de287dc40f9
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Academy of Management Executive, 18(4), 139–142.
 
-Sherriton, J., & Stern, J. (1997). HR’s role in culture change.
+Shaw, M. E., & Shaw, I. M. (1962). Some eﬀ ects of social
 
-HR Focus, 74(4), 27.
+grouping upon learning in a second grade classroom. Journal of Social Psychology, 57, 453–458.
 
-Shetzer, L., & Stackman, R. (1991). Th e career path component
+Shen, W., Davies, S. E., Rasch, R. L., & Bono, J. E. (2008, April). Th e development of a taxonomy of ineﬀ ective leadership behaviors. Paper presented at the 23rd annual meeting of the Society for Industrial-Organizational Psychology, San Francisco, CA.
 
-in realistic job previews: A meta-analysis and proposed integration. Applied H.R.M. Research, 2(2), 153–169.
+Shepperd, J. A. (1993). Productivity loss in performance groups: A motivation analysis. Psychological Bulletin, 113(1), 67–81.
 
-Shih, Y. C., & Wang, M. J. (1997). Th e inﬂ uence of gloves
-
-during maximum volitional torque exertion of supination. Ergonomics, 40(4), 465–475.
-
-Shih, Y. C., & Wang, M. J. (1996). Th e eﬀ ects of weight levels and gloves on the ability to discriminate weight diﬀ erences. Ergonomics, 39(5), 729–739.
+Shepperd, J. A., & Taylor, K. M. (1999). Social loaﬁ ng and

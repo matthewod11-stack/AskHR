@@ -1,7 +1,23 @@
-## adviser. “The committee deals with cases and themes with an ethical
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b29dc9471cdde4009c56db5f60593a2478881016
+title: H07ZZW-PDF-ENG
+---
+## HBR / The Big Idea / Corporate Advocacy in a Time of Social Outrage
 
-character in the ‘gray area.’ Often, there is not yet an internal policy
+organizational values are robust. Ethics is a process that must involve
 
-or legislation or regulations in such dilemmas. The outcome of the
+everyone, from the C-suite to frontline employees.
 
-dialogue can serve as a moral precedent for similar cases or contribute
+Consider Dutch bank Rabobank’s dynamic approach to ethical
+
+challenges. Its Global Ethics Committee, which includes young
+
+employees, considers the ethics surrounding emerging issues such as
+
+AI and cryptocurrencies and sustainability dilemmas such as whether to
+
+source solar panels from Xinjiang. “Every employee can raise a question
+
+or ethical dilemma,” explains Francoise Rost, Rabobank’s senior ethics

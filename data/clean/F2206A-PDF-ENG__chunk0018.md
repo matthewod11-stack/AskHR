@@ -1,37 +1,19 @@
-# hybrid work.
+---
+source_path: F2206A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a1b999e4f9c8277166a075e431e5f7c504dcde25
+title: F2206A-PDF-ENG
+---
+# Doug Levy
 
-How do you define “hybrid”?
+office-based associates, we have always
 
-Our goal is a productive, engaged, and passionate workforce and a
+empowered our leaders around the world
 
-workplace that encourages meaningful collaboration. We’re not designing
+to make decisions in the context of their local businesses. So as things
 
-things so that associates will bump into each other in the hall; we’re
+began to improve, we let them use their own judgment about associates’
 
-designing them so that groups come together for specific types of tasks.
+returns, as long as they were in accordance with global health and safety
 
-You can share a prototype of a shoe remotely, but at a certain point team
-
-members need to hold the shoe and feel the leather and so on. A special
-
-piece of our culture happens when we gather, and we want to continue
-
-that. Some of our associates, particularly in manufacturing and R&D, will be
-
-on-site because their jobs require it. Others will come in every day because
-
-they prefer it or occasionally for meetings or to use office resources. Hybrid
-
-work balances the requirements of the job with personal flexibility.
-
-So full-time office work is not essential to culture?
-
-Every company is different. But hybrid doesn’t mean business as usual
-
-except with only half the associates present. You need to create a new
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+guidelines. We determined at the corporate level that our future was with

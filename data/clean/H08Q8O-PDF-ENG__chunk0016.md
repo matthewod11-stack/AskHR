@@ -1,7 +1,13 @@
-## mismatches between the expectations of them and the people they
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8103a908144fbd4fe26b54daa99417c4996436c5
+title: H08Q8O-PDF-ENG
+---
+# the policy.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+So how should organizations construct a workable psychological
 
-5
+contract now? The answer is rooted in what is known as the ethics
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+of care. This concept allows leaders to understand the tensions and

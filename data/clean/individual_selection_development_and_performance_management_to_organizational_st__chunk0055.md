@@ -1,3 +1,9 @@
-# Developing Competency Models to Promote Integrated Human Resource Practices • 319
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: 3a875959931e19d4537033c76481842978220866
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+## Forming Partnerships: A Consortium Approach
 
-the occupational studies to pool financial and human resources, benchmark best practices, and facilitate the exchange of information. These groups have grown to include federal agencies, state and local governments, and nonprofit associations and public institutions (e.g., libraries, public colleges and training institutes). The organizations participating in the consortia realize a return on their invest- ment as the data are applied to programmatic and policy initiatives, as well to various HR processes (e.g., development of succession planning models, development of vacancy or job announcements).
+OPM has established consortia of interested parties for both the automated systems and

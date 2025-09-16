@@ -1,15 +1,27 @@
-# HBR / Digital Article / How to Help an Employee Who Struggles with Time Management
+---
+source_path: H071S2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93d90bf5de5112d040b3f5c998f02e67a319f311
+title: H071S2-PDF-ENG
+---
+# Illustration: Lucy Jones
 
-can be to respond in obvious annoyance at the lack of follow through
+The tell-tale signs are there: Tasks done at the last minute, completed
 
-or even to consider writing them up. On the other hand, you want to
+late, or even forgotten. Tardiness at meetings. No response to e-mails or
 
-develop your team members. You may have truly brilliant individuals
+replies at weird times, like 2 a.m. And more explanation of why items
 
-who you know have the potential to be exceptional contributors if they
+aren’t done than action to ﬁnish them.
 
-could only ﬁgure out how to use their time eﬀectively.
+You’ve got a direct report struggling with time management. As a
 
-As a time management coach, I talk with people who struggle in this
+manager, it can be challenging to know how to address the issue. On the
 
-area every day. I know how their brains work, and I help them to move
+one hand, you need them to get things done, and your natural tendency
+
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

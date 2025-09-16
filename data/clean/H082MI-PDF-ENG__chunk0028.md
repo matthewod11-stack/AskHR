@@ -1,9 +1,15 @@
-## Other forms of career support and community building for remote
+---
+source_path: H082MI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1f17ce418abd81a54595259bd29140b242980fe5
+title: H082MI-PDF-ENG
+---
+## and connection with employees across the company. Cross-functional
 
-teams include coordinating skill-based learning sessions presented
+projects, where employees take on tasks outside of their area of
 
-by external experts, publicizing industry conferences, announcing
+expertise, is another popular method of career development that can
 
-workplace events associated with signiﬁcant days like World Mental
+be done remotely. Take caution, though, to be sure these projects aren’t
 
-Health Day, or hosting an internal podcast where people discuss what
+added on top of already heavy workloads.

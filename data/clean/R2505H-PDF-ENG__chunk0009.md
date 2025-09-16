@@ -1,7 +1,9 @@
-# Global Family Business Survey.
+---
+source_path: R2505H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ffb81d0c66633214c7f548d2aa00f6087e1b8dd1
+title: R2505H-PDF-ENG
+---
+## term consequences of this decision, up to 70% of family-business CEOs
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+across the globe have no succession plan, according to the 2019 STEP

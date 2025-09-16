@@ -1,15 +1,27 @@
-## HBR / Digital Article / Should You Record That Meeting?
+---
+source_path: H08P2A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a3043f26de85e747e5babd1def952b5cf0c8246e
+title: H08P2A-PDF-ENG
+---
+# Juan Moyano/Getty Images
 
-transcribes that recording into easily savable and searchable text. Now,
+This meeting is being recorded…
 
-thanks to the rapid expansion of generative AI, that content can be
+If you’re like me, when you read that phrase, you could hear that
 
-instantly summarized, with key themes identiﬁed and to-dos assigned.
+automated voice in your head. Recording meetings has become the
 
-In these ways, such technologies absolutely facilitate our ability to
+default behavior for many of us as we seek to better manage the ever-
 
-capture what happens in online meetings, which for most workers
+increasing volume of things we must do and keep track of. What could
 
-increased in frequency since the Covid-19 pandemic. However, leaders
+be better? With a click of a button, software captures and saves every
 
-must recognize that these tools aﬀect the social fabric of those meetings
+scrap of information from that meeting. Better yet, with a second click it
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

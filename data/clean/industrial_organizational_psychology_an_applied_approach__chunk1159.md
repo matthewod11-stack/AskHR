@@ -1,21 +1,19 @@
-# Biodata
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: aa2134bce51fc0bcf2917b3ad24193674e8d7f3b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Experience Ratings
 
-Biodata is a selection method that considers an applicant’s life, school, military, community, and work experience. Meta-analyses have shown that biodata is a good predictor of job performance, as well as the best predictor of future employee tenure (Beall, ; Schmidt & Hunter, ).
+The basis for experience ratings is the idea that past experience will predict future experience. Support for this notion comes from a meta-analysis by Quiñones, Ford, and Teachout () that found a significant relationship between experience and future job performance (r = .). In giving credit for experience, one must consider the amount of experience, the level of performance dem- onstrated during the previous experience, and how related the experience is to the current job. That is, experience by itself is not enough. Having ten years of
 
-In a nutshell, a biodata instrument is an application blank or questionnaire containing questions that research has shown measure the difference between suc- cessful and unsuccessful performers on a job. Each question receives a weight that indicates how well it differentiates poor from good performers. The better the dif- ferentiation, the higher the weight. Biodata instruments have several advantages:
+employee selection: references and testing
 
-7
+181
 
-7
+182
 
-7
+chapter 
 
-7
-
-Research has shown that they can predict work behavior in many jobs, including sales, management, clerical, mental health counseling, hourly work in processing plants, grocery clerking, fast-food work, and supervising. They have been able to predict criteria as varied as supervisor ratings, absenteeism, accidents, employee theft, loan defaults, sales, and tenure. Biodata instruments result in higher organizational profit and growth (Terpstra & Rozell, ). Biodata instruments are easy to use, quickly administered, inexpensive, and not as subject to individual bias as interviews, references, and résumé evaluation.
-
-Development of a Biodata Instrument In the first step, information about employees is obtained in one of two ways: the file approach or the questionnaire approach. With the file approach, we obtain information from personnel files on employees’ previous employment, education, interests, and demographics. As mentioned in the discussion of archival research in Chapter , the major disadvantage of the file approach is that information is often missing or incomplete.
-
-Second, we can create a biographical questionnaire that is administered to all employees and applicants. An example is shown in Figure .. The major drawback to the questionnaire approach is that information cannot be obtained from employees who have quit or been fired.
-
-After the necessary information has been obtained, an appropriate criterion is chosen. As will be discussed in detail in Chapter , a criterion is a measure of work behavior such as quantity, absenteeism, or tenure. It is essen- tial that a chosen criterion be relevant, reliable, and fairly objective. To give an example of developing a biodata instrument with a poor criterion, I was once asked to help reduce absenteeism in an organization by selecting applicants who had a high probability of superior future attendance. When initial data were gathered, it was realized that absenteeism was not an actual problem for this company. Less than half of the workforce had missed more than one day
+low-quality unrelated experience is not the same as ten years of high-quality related experience. Sullivan () suggests that there be a cap on credit for experience (e.g., no credit for more than five years of experience) because knowl- edge obtained through experience has a shelf life, and paying for experience is expensive. For example, given the rapid changes in technology, would a computer programmer with  years of experience actually have more relevant knowledge than one with five years of experience?

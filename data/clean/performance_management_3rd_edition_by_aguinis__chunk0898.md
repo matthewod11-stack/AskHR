@@ -1,13 +1,9 @@
-# 6.1 APPRAISAL FORMS
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: dcb8bd67e3c75ae1e3cde20b71d184636af9e992
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 6 • Gathering Performance Information
 
-At the core of any performance management system is the assessment of performance. Information on performance is collected by using forms, which can be filled out on paper or electronically. One advantage of filling out forms electronically is that the information is stored and can easily be shared, for example, between the manager filling out the form and the human resources (HR) department. Also, having the data available in electronic form can help in subsequent analyses, for example, in making comparisons of the relative average performance levels of various units within the organization. Finally, using electronic forms is beneficial because, as change take place in the organization or job in question, forms need to be revised and updated,1 and electronic forms are usually easier to modify than paper forms.
-
-Regardless of whether they are electronic or paper, appraisal forms usually
-
-include a combination of the following components2:
-
-- Basic employee information. This section of the form includes basic employee infor- mation such as job title, division, department and other work group information, employee number, and pay grade or salary classification. In addition, forms usually include the dates of the evaluation period, the number of months and years the rater has supervised or worked with the employee, an employee’s starting date with the company and starting date in the current job, the reason for the appraisal, current salary and position in range, and the date of the next scheduled evaluation.
-
-- Accountabilities, objectives, and standards.
-
-If the organization adopts a results approach, this section of the form would include the name and description of each accountability, objectives agreed upon by manager and employee, and the extent to which the objectives have been achieved. In many instances, the objectives are weighted in terms of importance, which facilitates the calculation of an overall performance score. Finally, this section can also include a subsection describing conditions under which performance was achieved, which may help explain why the employee achieved the (high or low) performance level described. For exam- ple, a supervisor may have the opportunity to describe specific circumstances
+As discussed in Chapter 2, the performance management process includes several stages: prerequisites, performance planning, performance execution, performance assessment, performance review, and performance renewal and recontracting. An important component of the performance assessment stage is the use of appraisal forms. These forms are instruments used to document and evaluate performance. Chapters 4 and 5 provided a description of the various approaches and techniques that can be used to measure performance, but this chapter provides a more exhaustive description of the use of appraisal forms and their content. In addition, this chapter describes other issues related to the administration of appraisal forms, such as how often the supervisor and subordinate should meet to discuss performance issues and how to choose the source(s) of performance data (e.g., supervisors, self, subordinates, peers, or customers). The chapter concludes with a discussion of reasons why raters are likely, either intentionally or unintentionally, to distort performance ratings and what can be done to improve the accuracy of ratings.

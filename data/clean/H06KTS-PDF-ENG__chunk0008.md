@@ -1,15 +1,19 @@
-# Develop Your Own “Re-onboarding” Plan
+---
+source_path: H06KTS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7d8bc7fc85d64d35ff61bece201c08d8870b8e01
+title: H06KTS-PDF-ENG
+---
+## HBR / Digital Article / When Everyone’s Quitting … Except You
 
-The new hires around you are likely to have been provided a consistent
+role. You may ﬁnd that you’re motivated by a diﬀerent set of criteria
 
-onboarding plan of intentional activities with colleagues to enable
+than your company, or that with a bit more adaptability you could ﬁnd a
 
-knowledge sharing and make sure they ﬁt in with cultural norms that
+way to be fulﬁlled by staying.
 
-preceded their arrival. If they have a playbook designed to help them
+The key is to engage in some patient introspection and observation
 
-excel, why not follow suit and “re-onboard” yourself? Doing so may not
+before acting. In this way you objectively evaluate whether your employer will suﬃciently respond to your growth and nurture your
 
-only open your eyes to strategic opportunities to add more value and
-
-keep you competitive with your peers, but also reinvigorate your sense
+career the way it supports your new colleagues or not.

@@ -1,11 +1,13 @@
-## volume, restricted price movement, and inconsistent analyst forecasts.
+---
+source_path: H052Q1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1b23bbeb31812ddfae40b905d1bb1b107100191
+title: H052Q1-PDF-ENG
+---
+## use of non-plain English and erroneous expressions, which together we
 
-To assess the economic signiﬁcance of these effects, we benchmarked them
+classiﬁed as linguistic opacity, had real consequences. Controlling for the
 
-against the effects of issuing management earnings guidance, another
+actual earnings news, we found that executives who spoke opaquely
 
-important disclosure event for ﬁrms. And what we found was remarkable:
-
-If you lower your linguistic complexity by one standard deviation, you can
-
-achieve a greater uptick in trading volume than you can by issuing
+suffered various capital market consequences, including lower trading

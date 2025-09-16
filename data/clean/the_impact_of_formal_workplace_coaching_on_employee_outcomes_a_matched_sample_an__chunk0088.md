@@ -1,19 +1,23 @@
-# Hall.
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: 666f5ca79c24092580a9440dfe373f184a82543b
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+# J. W. MOWAT ET AL.
 
-Hammack-Brown, B., Nimon, K., & Ellinger, A. (2024). Examining measurement invariance of a managerial coaching scale across traditional and virtual employee groups: Implications for expanding managerial coaching research. Human Resource Development International, ahead of print. 1–26. https://doi.org/10.1080/13678868.2024.2361181
+Grant, A. (2017). The third ‘generation’ of workplace coaching: Creating a culture of quality conversations. Coaching: An International Journal of Theory, Research & Practice, 10(1), 37–53. https://doi.org/10.1080/17521882.2016.1266005
 
-Hom, P., Lee, T., Shaw, J., & Hausknecht, J. (2017). One hundred years of employee turnover theory and research. Journal of Applied Psychology, 102(3), 530–545. https://doi.org/10.1037/ apl0000103
+Gregory, J., & Levy, P. (2010). Employee coaching relationships: Enhancing construct clarity and measurement. Coaching: An International Journal of Theory, Research & Practice, 3(2), 109–123. https://doi.org/10.1080/17521882.2010.502901
 
-Hsieh, H., & Huang, J. (2018). Exploring factors influencing employees’ impression management feedback-seeking behavior: The role of managerial coaching skills and affective trust. Human Resource Development Quarterly, 29(2), 163–180. https://doi.org/10.1002/hrdq.21311
+Grijalva, E., & Newman, D. (2015). Narcissism and counterproductive work behavior (CWB): Meta-analysis and consideration of collectivist culture, big five personality, and narcissism’s facet structure. Applied Psychology, 64(1), 93–126. https://doi.org/10.1111/apps.12025
 
-Kapoutzis, N., Whiley, L., Lewis, R., & Yarker, J. (2024). Developing coaching cultures: An exploration of the enacting practitioner perspective. Journal of Work-Applied Management, ahead of print. https://doi.org/10.1108/JWAM-06-2024-0079
+Haar, J. (2023). What are the odds of burnt-out risk and leaving the job? Turnover intent consequences of worker burnout using a two sample New Zealand study. International Journal of Selection and Assessment, 31(1), 189–197. https://doi.org/10.1111/ijsa.12393
 
-Keiffer, G., & Lane, F. (2016). Propensity score analysis: An alternative statistical approach for HRD researchers. European Journal of Training & Development, 40(8/9), 660–675. https://doi. org/10.1108/EJTD-06-2015-0046
+Haar, J., O’Kane, C., & Daellenbach, U. (2022). High performance work systems and innovation in New Zealand SMEs: Testing firm size and competitive environment effects. International Journal of Human Resource Management, 33(16), 3324–3352. https://doi.org/10.1080/ 09585192.2021.1894213
 
-Kelloway, E., Gottlieb, B., & Barham, L. (1999). The source, nature, and direction of work and family conflict: A longitudinal investigation. Journal of Occupational Health Psychology, 4(4), 337–346. https://doi.org/10.1037/1076-8998.4.4.337
+Haar, J., & Spell, C. (2004). Programme knowledge and value of work-family practices and organizational commitment. International Journal of Human Resource Management, 15(6), 1040–1055. https://doi.org/10.1080/09585190410001677304
 
-Kim, B., & Lee, J. (2024). The safety implications of work overload: The sequential mediating roles of the meaningfulness of work and perceived organizational support, and the moderating effect of coaching leadership. Current Psychology, 43(41), 31933–31954. https://doi.org/10.1007/ s12144-024-06710-1
+Hagen, M., & Peterson, S. (2014). Coaching scales: A review of the literature and comparative analysis. Advances in Developing Human Resources, 16(2), 222–241. https://doi.org/10.1177/ 1523422313520203
 
-Kim, S., Egan, T., Kim, W., & Kim, J. (2013). The impact of managerial coaching behavior on employee work-related reactions. Journal of Business & Psychology, 28(3), 315–330. https://doi. org/10.1007/s10869-013-9286-9
-
-Kim, S., & Kuo, M. (2015). Examining the relationships among coaching, trustworthiness, and role behaviors: A social exchange perspective. The Journal of Applied Behavioral Science, 51(2), 152–176. https://doi.org/10.1177/0021886315574884
+Hair, J., Black, W., Babin, B., & Anderson, R. (2014). Multivariate data analysis (7th ed.). Prentice

@@ -1,23 +1,19 @@
-## HBR / Digital Article / How to Prevent Strategy Fatigue
+---
+source_path: H08OIO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 99dea39bfb76c76c1a9ab1898a5611c93d09cb5c
+title: H08OIO-PDF-ENG
+---
+## viable solutions progress to full-scale implementation. This approach
 
-Maintain a single, visible pipeline
+has two beneﬁts: it prevents the entire company from being dragged
 
-Keep an idea or project pipeline where all non-business-as-usual
+into every unproven venture, and it maintains an innovative culture by
 
-initiatives are listed and tracked to avoid strategy fatigue. This provides
+encouraging a test-and-learn mindset.
 
-visibility into how many ideas are in play and avoids duplicate or
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-competing eﬀorts. Regularly review this list with senior leadership to
+4
 
-cull lower-priority projects. When organizations map out all ongoing
-
-projects and change initiatives, they’re often shocked by the sheer
-
-number and must then stop or postpone some initiatives to let higher
-
-priorities succeed. Some companies adopt a rule like “one in, one out”
-
-for major projects to enforce this balance. Creating a project tracking
-
-system not only provides visibility for prioritizing projects it also fosters
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

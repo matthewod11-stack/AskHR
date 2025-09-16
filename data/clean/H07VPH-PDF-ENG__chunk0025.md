@@ -1,41 +1,41 @@
-## HBR / Digital Article / When Your Go-To Problem-Solving Approach Fails
+---
+source_path: H07VPH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb08866476262faa8e8a228e9feb714038af97c3
+title: H07VPH-PDF-ENG
+---
+# in the past.
 
-in the collaborative world of a start-up. Further, with no real experience
+Miriam realized that, in her situation as a CEO, she needed to bring
 
-in behaving like a CEO, Miriam had fallen back on the decision-making
+forward her listener behavior. Better communication with her one
 
-style that worked in her previous professional experience: situationality
+employee wasn’t just “nice,” it was necessary. She knew she could be a
 
-had taken over.
+good listener — that’s her dominant proﬁle and that’s who she was with
 
-By taking the time to look at a problematic work situation, Miriam
+her friends. “I have the skills I need to improve my work relationship
 
-was able to see something that was right in front of her but that her
+with Andre: curiosity, active listening, and trust building. I want to
 
-cognitive biases had blinded her to: She wasn’t listening to anyone.
+hear Andre’s ideas about the company. I’ll suggest we have a regular
 
-Miriam needed to bring her strong listener skills into her work world.
+meeting where I can oﬀer a company update to provide greater clarity
 
-. . .
+and communication, and where I can listen to his ideas.”
 
-We like to think we are mindful of the world around us and that we
+Although Miriam was a listener in her personal life, in her professional
 
-will make the best decision in any situation, but situationality teaches
+life she thought listening wasn’t necessary — deciding was. In a lab,
 
-us otherwise. Eﬀective decision-making requires us to pause and ask
+working on her own, her adventurer habits led to professional success
 
-the right questions about a situation. Taking the time to ponder these
+and made what could have been a lonely job deeply satisfying. But those
 
-questions can show us the habits, cognitive biases, and patterns of
+adventurer habits, while comfortable in a lab, were counterproductive
 
-decision-making that are getting in our way. Once these are revealed
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
 
-to us, we can work to remove them and make better decisions together.
+8
 
-Miriam and Andre now have a regular weekly meeting to discuss work
-
-and a monthly meeting focused on building their relationship. Whether
-
-it’s talking about a breakthrough in the science world or a book they’ve
-
-both read, taking the time to connect as people has been a win for both
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

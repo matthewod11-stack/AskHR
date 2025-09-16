@@ -1,15 +1,17 @@
-# distribution center as leverage.
+---
+source_path: R2402M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d14c5a949fe1bca75664ebf3e966abb3ea7fe0c
+title: R2402M-PDF-ENG
+---
+# week and complain about our in-laws?”
 
-But because he was a consensus builder by nature, Paulo believed that
+Lucia sent back a thumbs-up emoji.
 
-true strength lay in unity, not division. He also realized that Luna’s
+Paulo leaned back on the couch and sighed. Before him now lay
 
-management had been at least partly at fault for the present rift—
+two paths, each of which presented its own set of risks and rewards.
 
-and wondered if capitulating to some of the union’s demands might
+He could adopt a hard stance, pressuring Lucia with the very real
 
-foster the partnership he yearned for. It would be a gamble, since
-
-compromising on near-term technological advancements could make
-
-Luna Brazil uncompetitive, hamstringing the plant and his own career. But might it also pave the way for a more resilient operation? Kaizen was
+possibility of closing the plant and using Takeshi’s oﬀer to turn it into a

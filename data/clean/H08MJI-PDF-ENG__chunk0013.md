@@ -1,19 +1,25 @@
-## HBR / Digital Article / How to Get Better at Delegating
+---
+source_path: H08MJI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3d5561dbcb8c4bd724bd0ec963c8a059c4f486d3
+title: H08MJI-PDF-ENG
+---
+# process.”
 
-blank, it might be your control issues talking. “You don’t always need to
+Find your people
 
-be the hero,” says Morgan. Besides, adds Kerpen, “If you don’t think you
+Next, you need someone to delegate to. Think expansively, says Morgan.
 
-have the right person to delegate to, it’s your job to ﬁnd them.” There
+Start by asking: Who are your emerging leaders? Who has the interest,
 
-are plenty of options beyond your team and even your organization:
+bandwidth, and talents for the task? Who needs to learn something
 
-contractors, part-timers, freelancers from Upwork, or even AI, he says.
+new? And, of course: Who do you trust? Focus ﬁrst on dependable team
 
-“Get creative and don’t let perceived roadblocks hold you back.”
+members who meet deadlines and are eager to learn. If you’re drawing a
 
-Direct, but allow for autonomy Be upfront about your expectations and oﬀer direction, but don’t overdo
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-it, says Morgan. Explain the assignment, set a deadline, and provide a rough time estimate. “Things can go oﬀ-course when someone spends
+3
 
-their week on something you thought would take a few hours.” Share
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

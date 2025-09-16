@@ -1,5 +1,7 @@
-## Reading Writing Speaking Listening Customer Service Organizational Awareness
-
-Reading Writing Speaking Listening Customer Service Organizational Awareness Manages and Organizes Information Decision Making Reasoning
-
-Clerical/Technical Basic Competencies (associated with all four clusters)
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: 92f29e15faf1a8eafca3a4ea0d2ea3ee25d022fd
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+# Stamina

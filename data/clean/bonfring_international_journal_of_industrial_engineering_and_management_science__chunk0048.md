@@ -1,5 +1,11 @@
-# REFERENCE
+---
+source_path: bonfring_international_journal_of_industrial_engineering_and_management_science.md
+pages: n/a-n/a
+chunk_id: 6e5b89dad4d5cb9eee442e4e442babf5fdf6838e
+title: bonfring_international_journal_of_industrial_engineering_and_management_science
+---
+# Human
 
-[1] Aguinis.H and Printice Hall, “Performance management”, 2007. [2] Ashwathappa.K, “Human Resource and personnel management”, 1997. [3] Boswell W. R. and Boudreau J. W.,“Employee satisfaction with performance appraisals and appraisers: The role of perceived appraisal use. Human Resource Development”, vol. 11, 2000.
+resources are
 
-[4] Boswell W. R. and Boudreau J.W., “Separating the developmental and evaluative performance appraisal uses. Journal of Business & Psychology”, Vol. 16, 2002.
+Both 360 degree feedback and balanced score card has its own loopholes, though these methods are being used by top IT companies. The satisfaction level of employees towards these appraisal methods are very low (source: discussions in the HR forums like citeHR.com) and there is a need of a new appraisal method which prevents these errors and have the advantages of these methods.

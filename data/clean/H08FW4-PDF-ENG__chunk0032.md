@@ -1,19 +1,13 @@
-## HBR / Digital Article / What the Best Leadership Teams Do Right
+---
+source_path: H08FW4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d2b8ec0722cf8cab8ccbc929480a6c09c44f288
+title: H08FW4-PDF-ENG
+---
+# consistently double and triple booked.
 
-For one global consumer products client we worked with, our
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-assessment revealed an unusually intense degree of frustration over
+7
 
-the amount of time consumed by useless meetings, leaving “only
-
-evenings to do our day jobs,” according to one interviewee. The top 500
-
-leaders collectively spent more than 57,000 hours per year in recurring
-
-meetings, the equivalent of six and a half years! The executive team had
-
-unwittingly abandoned their governance responsibilities. Motivated by
-
-the assessment, they eliminated hundreds of unnecessary standing
-
-meetings, redeploying thousands of hours of capacity toward clearly
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

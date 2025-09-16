@@ -1,25 +1,17 @@
-# gather more information.
+---
+source_path: R2402L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5e393bbefd51c24edb8414e521f2b4a184252534
+title: R2402L-PDF-ENG
+---
+# of your counterpart’s.
 
-That happens with level-four listening, when you begin to tune in to
+In level-three listening you’re looking for logic: using inference to pin
 
-the emotions as well as the logic behind the other person’s position
+down the substance of and reasons for what the other person is saying.
 
-and respond in ways that show you’re aware of them. You also begin to
+This is an improvement, because you’re trying to understand that
 
-prompt more dialogue with a comment such as “It sounds like you’re frustrated with our counteroﬀer” or “You seem passionate about this
+person’s argument, but since it’s happening only in your head, it’s not
 
-proposal.”
-
-Level ﬁve takes that empathetic curiosity a step further. Now you’re
-
-listening to better understand and interpret your counterpart’s self-
-
-perception and perspective. That allows you to ask questions that
-
-promote discovery and insight on both sides and establish rapport
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+enough. The goal is to shift your full attention to your counterpart and

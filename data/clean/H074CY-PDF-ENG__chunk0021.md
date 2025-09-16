@@ -1,15 +1,35 @@
-# What to Convey During the Review
+---
+source_path: H074CY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4ceee1136a18c6e8491172f5e5e81b5956ad357
+title: H074CY-PDF-ENG
+---
+# something else.
 
-Here are ﬁve steps useful in guiding a performance review conversation:
+Third, eﬀective reviews require a judgment about causes of a person’s
 
-Convey your positive intent.
+performance. For example, are performance issues the consequence
 
-A review is about feedback aimed at increasing the recipient’s
+of deﬁciencies in motivation or ability? Some people may work hard,
 
-eﬀectiveness. If you don’t really have this intent— for example, if you
+but lack certain capabilities: Can training and coaching enhance those
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+capabilities? Others may have the abilities but lack motivation: Can
 
-4
+diﬀerent incentives or processes increase motivation? Still others may
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+seemingly lack both motivation and relevant ability: Is this the right
+
+job for that person? Can a performance improvement plan help, or a
+
+diﬀerent role where their abilities can be better utilized? Or is it time to
+
+replace this person?
+
+Finally, stars often have both high motivation and ability: What can be
+
+done to reward, retain and learn from the stars’ behaviors?
+
+These are not easy judgments to make about human beings. But they’re necessary and imply diﬀerent action plans. Without them, it’s diﬃcult
+
+to be mutually productive during the review.

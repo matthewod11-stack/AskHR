@@ -1,11 +1,9 @@
-# respect.
+---
+source_path: H07T7V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ee2c9d9917b9e6f9b9f4de7a6abb9f5db877a1b
+title: H07T7V-PDF-ENG
+---
+## on geeks in business, not just for their technological innovation, but
 
-Let’s start with a deﬁnition. How do you deﬁne a geek?
-
-ANDREW MCAFEE:
-
-I’m walking away from the computer-based deﬁnition of a geek, which
-
-was kind of where it started. My deﬁnition has two parts. For me a geek
-
-is somebody who gets obsessed with a hard problem and is willing to
+also for developing an approach to business itself that you’ve come to

@@ -1,13 +1,25 @@
-# perform.
+---
+source_path: H08SLG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4921454c82d5bbbcc160be5234ea95ad6f78f2ad
+title: H08SLG-PDF-ENG
+---
+## HBR / Digital Article / The Best Leaders Encourage “Spacious Thinking”
 
-This article was originally published online on July 1, 2025.
+continue moving up the managerial hierarchy. If you are dismayed to
 
-Megan Reitz is an associate fellow at Saïd Business School, University of Oxford, and adjunct professor of leadership and dialogue at Hult International Business School. She is the author of Dialogue in Organizations (2015) and the coauthor of Mind Time (2018), Speak Up (2019), and the second edition of Speak Out, Listen Up (2024). Follow her on LinkedIn or meganreitz.com.
+see a team member step back from doing mode, ask yourself whether
 
-John Higgins is a researcher, author, and coach. He is a research fellow at GameShift and the director of research at The Right Conversation. John has worked in close collaboration with Megan Reitz for over a decade, and their latest book is Speak Out, Listen Up (2024).
+they’re actually engaged in spacious mode.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+We have created managerial and organizational norms which over-
 
-7
+privilege doing mode and hide the value of spacious mode. But only
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+when insights from spacious mode guide teams’ actions in doing mode
+
+can leaders be sure that team members are focused on doing the
+
+right work in the right ways. There needs to be a rebalancing of the
+
+relationship between these modes if organizations are to thrive and

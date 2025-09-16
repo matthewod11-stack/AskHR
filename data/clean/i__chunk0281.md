@@ -1,7 +1,13 @@
-# employee themselves.
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 84213b12d4efb7ea0ef90cc95213673ceda5a26b
+title: i
+---
+# in October 2023
 
-According to Edwards and Edwards (2016), who summarized PA data sources into : HR
+According to data source classification of Isson et al. ( 2016, page 59), which put data into
 
-database, Employee attitude survey data, Customer satisfaction survey data, Sales performance
+three sources: Talent data, Company data and Labour market data. These data come from talent
 
-54
+data group, which refers to data of the HR department and organization as a whole, and the

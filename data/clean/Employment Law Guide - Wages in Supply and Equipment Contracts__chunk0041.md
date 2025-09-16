@@ -1,11 +1,13 @@
-# Name, address, sex, and occupation
+---
+source_path: Employment Law Guide - Wages in Supply and Equipment Contracts.md
+pages: n/a-n/a
+chunk_id: 720bfd9038aaabbaebd1dc39b1e54707b76e9398
+title: Employment Law Guide - Wages in Supply and Equipment Contracts
+---
+# Recordkeeping
 
-Date of birth of each employee under 19 years of age. If the employer has obtained a certiﬁcate of age, the
+Under the PCA, contractors and subcontractors are required to maintain certain records which must be
 
-following must be recorded: the title and address of the oﬃce issuing the certiﬁcate; the number of the
+available for inspection by the Wage and Hour Division. Records providing the following information for each
 
-certiﬁcate; the date of issuance; the name, address and date of birth of the minor as the name appears on
-
-the certiﬁcate Wage and hour records, which include the rate of wages and the amount paid each pay period, the hours
-
-worked each day and each week, and the period during which the employee worked on a government
+covered employee must be kept on ﬁle for at least three years from their last date of entry:

@@ -1,7 +1,19 @@
-# Basic Wage Standards
+---
+source_path: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department
+  of Labor.md
+pages: n/a-n/a
+chunk_id: 5554e9b7d4d02eb1d413a7fdd9e05415a3f6303f
+title: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department of
+  Labor
+---
+## New: Interactive Handy Reference Guide to the Fair Labor Standards Act (PDF)
 
-Covered, nonexempt workers are entitled to a minimum wage of $7.25 per hour e(cid:211)ective July 24, 2009. Special provisions apply to workers in American Samoa and the Commonwealth of the Northern Mariana Islands. Nonexempt workers must be paid overtime
+(For best printout, see the PDF version (Spanish).) Revised November 2023
 
-pay at a rate of not less than one and one-half times their regular rates of pay a(cid:212)er 40 hours of work in a workweek.
+The Fair Labor Standards Act (FLSA) establishes minimum wage, overtime pay, recordkeeping, and child labor standards a(cid:211)ecting full-time and part-time workers in the private sector and in Federal, State, and local governments.
 
-https://www.dol.gov/agencies/whd/compliance-assistance/handy-reference-guide-ﬂsa
+The Wage and Hour Division (WHD) of the U.S. Department of Labor (DOL) administers and enforces the FLSA with respect to private employment, State and local government employment, and Federal employees of the Library of Congress, U.S. Postal Service,
+
+Postal Rate Commission, and the Tennessee Valley Authority. The FLSA is enforced by the U.S. O(cid:211)ice of Personnel Management for employees of other Executive Branch agencies, and by the U.S. Congress for covered employees of the Legislative Branch.
+
+Special rules apply to State and local government employment involving fire protection and law enforcement activities, volunteer services, and compensatory time o(cid:211) instead of cash overtime pay.

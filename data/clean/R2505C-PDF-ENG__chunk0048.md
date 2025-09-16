@@ -1,37 +1,19 @@
-## as citizens, employees, or leaders—as well as their obligations to
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c8d5f694ac0c6824ee406942961207d5db3a48d3
+title: R2505C-PDF-ENG
+---
+## less visible—but extremely important—supporters, as well as an array
 
-others, making them feel more duty bound to act. The brave leaders
+of constructive critics, including employees and customers. I found that
 
-I encountered often had great mentors they could turn to in moments
+bold leaders connect with others in three ways.
 
-of struggle. Others were able to ﬁnd courage by simply imagining what
+Turn to allies for an emotional boost. We all want to feel loved and
 
-their allies expected they would accomplish.
+respected. If you’re facing uncertainty, that kind of support becomes
 
-Consider Nair, who was the chief human resources oﬃcer of Unilever
+even more important. When you surround yourself with people who
 
-before taking the helm of Chanel. She told me that when people
-
-questioned her competence as a woman in the workplace or as an
-
-HR (that is, “soft skills”) leader, she would remember the conﬁdence
-
-that female family members, whose own ambitions had been stiﬂed,
-
-instilled in her. “They would say things like, ‘Let Leena get the
-
-opportunity. She’s intelligent. She’s talented.’” She also told me about
-
-a conversation she had with her longtime mentor, Nooyi, about a new
-
-job Nair felt she wasn’t ready for. The former PepsiCo CEO advised her
-
-to think not about her limitations but about the key strengths she could
-
-bring to the role, which gave Nair the push she needed to take it.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-12
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+think that you have what it takes to be bold, you start to believe it yourself. Relationships also aﬃrm people’s identities—for example

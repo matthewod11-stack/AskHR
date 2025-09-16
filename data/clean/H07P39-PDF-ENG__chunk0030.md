@@ -1,5 +1,27 @@
-## HBR / Digital Article / 6 Ways to Become a More Collaborative Leader
+---
+source_path: H07P39-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1bfb49a08e46a24abf8b47484fb201c035c2ea04
+title: H07P39-PDF-ENG
+---
+# along the way.
 
-This article was originally published online on July 10, 2023.
+. . .
 
-Luis Velasquez, MBA, PhD, is an executive coach who works with senior leaders and their teams to become more cohesive, eﬀective, and resilient. He is the author of Ordinary Resilience: Rethinking How Effective Leaders Adapt and Thrive and the founder and managing partner of Velas Coaching LLC. He is also a leadership facilitator at the Stanford University Graduate School of Business, and a former university professor and research scientist. Connect with him on LinkedIn.
+The need for change is inevitable in any organization, but the approach
+
+to driving change is a determinant of its success or failure, as Kathy, our passionate crusader, realized. Aﬀecting lasting change is not a solitary quest, but an inherently shared eﬀort. It requires embracing
+
+a collaborative mindset that respects and includes diverse perspectives,
+
+maintains a strategic focus, and patiently navigates the complexities
+
+of organizational dynamics. It’s not about surrendering your passion
+
+or advocacy but leveraging them in a more inclusive, strategic, and ultimately eﬀective way.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

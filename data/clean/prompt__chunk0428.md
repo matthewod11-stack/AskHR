@@ -1,11 +1,19 @@
-# Use Instructions over Constraints
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 56e78b2df8e75d8c8d66f0c35c753edc7d7e1630
+title: prompt
+---
+# Examples:
 
-Instructions and constraints are used in prompting to guide the output of a LLM.
+DO:
 
-- An instruction provides explicit instructions on the desired format, style, or content of the
+Generate a 3 paragraph blog post about the top 5 video game consoles.
 
-response. It guides the model on what the model should do or produce.
+The blog post should be informative and engaging, and it should be
 
-- A constraint is a set of limitations or boundaries on the response. It limits what the model
+written in a conversational style.
 
-should not do or avoid.
+DO NOT:
+
+Generate a blog post about video game consoles.

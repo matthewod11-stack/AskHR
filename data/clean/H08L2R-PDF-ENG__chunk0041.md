@@ -1,35 +1,33 @@
-# Don’ts
+---
+source_path: H08L2R-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63048463217125aecdf60c6699d71bb250333883
+title: H08L2R-PDF-ENG
+---
+# questions.
 
-- Go it alone: When people work predominantly alone with
+- Participate actively: You must engage with the machine in a back-
 
-generative AI, rather than actively involving and engaging with
+and-forth interaction. Both parties contribute with feedback and
 
-human teammates, it can reduce interpersonal communication and
+mutual challenges, and ultimately co-create the output together. To
 
-knowledge sharing within the team. This can hinder team-based
+receive appropriate advice, tailored answers, and helpful suggestions,
 
-judgment and the ability to prevent and mitigate risks. Take breaks
+start by providing a brief and accurate overview of your situation with
 
-from solo AI interactions to engage face-to-face with teammates,
+clear context. Then, build on it by engaging actively — share your
 
-involve other colleagues in the AI-aided process, seek feedback from
+reﬂections and personal experiences, and ask follow-up questions.
 
-experts, integrate diverse viewpoints, and encourage peer learning.
+- Challenge the AI: As in a dialogue with a human, some friction
 
-- Go too fast: You may tend to type, click, or advance too hastily. The
+in the thinking process is valuable. Ask the AI to provide diﬀerent
 
-speed at which gen AI executes can lead humans to rush through
+perspectives, ideas, or overlooked options. Don’t stop at the ﬁrst
 
-without reﬂection. Request AI to help you pause and reﬂect: Explicitly
+generated output or conform too quickly to what the AI gives you. For
 
-prompt AI to ask for your feedback, ensuring you have time to reﬂect
+example, ask “Are we missing any important aspects?” Or, “What if we
 
-and validate before moving forward.
-
-. . .
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+looked at this problem from the point of view of …?”

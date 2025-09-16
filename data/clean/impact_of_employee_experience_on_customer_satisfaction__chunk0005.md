@@ -1,9 +1,15 @@
-# Acknowledgements
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: 128f8e22e392a939ed92c54868aac3c746a574b4
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# I, ING. TOMÁŠ PASOVSKÝ, hereby declare
 
-I would like to thank to Mgr. Ján Uriga PhD., for his review, comments, and
+- 1. that I am the sole author of the present Master’s Thesis, "IMPACT OF EMPLOYEE EXPERIENCE ON CUSTOMER SATISFACTION", 83 pages, bound, and that I have not used any source or tool other than those referenced or any other illicit aid or tool, and
 
-encouragement on this thesis project. I would also like to thank my company, Atlas
+- 2. that I have not prior to this date submitted the topic of this Master’s Thesis or parts of it in any form for assessment as an examination paper, either in Austria or abroad.
 
-Copco, and colleagues who supported me with scientific research and contributed
+Vienna, 12.10.2022
 
-with their participation in employee surveys and interviews. Furthermore, I would like to thank TU Vienna and STU for giving me chance to participate in this great program.
+_______________________ Signature

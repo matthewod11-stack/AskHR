@@ -1,13 +1,17 @@
-# Supporting a Fundamental Asset
+---
+source_path: H07MZQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bcd54727277eb2a12b13f7ea3a5063fdecb19068
+title: H07MZQ-PDF-ENG
+---
+# Resources for Parents
 
-Learning how to be more inclusive is a key lesson that comes with neurodiverse parenting. It is easy to categorize people who are diﬀerent
+- Tilt Parenting
 
-as “them,” or to describe people we choose to other as “weird” or “odd.”
+- Brain Body Parenting Collective
 
-When caring for neurodivergent children, you quickly begin to better
+- The Explosive Child
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+- The Mehrit Centre
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Understood.org

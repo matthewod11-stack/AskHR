@@ -1,5 +1,11 @@
-## Shepherd et al. BMC Health Services Research (2019) 19:135
+---
+source_path: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare.md
+pages: n/a-n/a
+chunk_id: dbe31a5fba866b757f100703c4a36a08438f6faa
+title: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare
+---
+# Keywords: Cultural competence, Cultural safety, Cultural humility, Diversity training, Public health
 
-Background In recent decades, several key public health care reports and research studies on health care experiences have in- dicated that particular cultural groups are more likely to be underserved, perceive negative treatment, and receive In response, differential health care systems in North America and other CANZUS nations, have endeavored to adapt their ser- vice delivery practices and policies to improve the qual- ity and linguistically diverse groups [4–7]. Industry objectives in health care settings contemporaneously aspire to, i) im- prove cross-cultural communication ii) enhance respon- siveness to the health care needs of diverse patients iii) reduce health care provider discrimination and iv) re- duce health care disparities. Health care organizations have embraced and enlisted a variety of cross-cultural educational approaches (e.g., cultural awareness, cultural competence etc.) to achieve these objectives.
+- Correspondence: sshepherd@swin.edu.au 1Centre for Forensic Behavioural Science, Swinburne University of Technology, 1/582 Heidelberg Rd, Alphington, Melbourne, Victoria, Australia Full list of author information is available at the end of the article
 
-[1–3].
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.

@@ -1,13 +1,11 @@
-## programs with high returns on investment, especially if the programs
+---
+source_path: H08NVC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1e3fa2d197b5ff0fd946c28b3f42779b6bf84f6f
+title: H08NVC-PDF-ENG
+---
+## For multinationals, employee diﬀerences in mental health awareness
 
-are relatable to the employees’ direct experiences. Just as multinational
+and experiences don’t need to hinder the development of successful
 
-companies would approach any new product launch or business
-
-implementation, they should invest time in understanding their
-
-employees’ well-being needs and experiences, plan tiered mental
-
-health programs, and consider incorporating mental health awareness
-
-workshops into onboarding processes—because employees are their
+initiatives. Instead, they can be the catalyst for planning impactful

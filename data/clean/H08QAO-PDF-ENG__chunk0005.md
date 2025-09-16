@@ -1,15 +1,17 @@
-# The Research
+---
+source_path: H08QAO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b93455bc6af5773a786e7bb93aa7327d1aae99b6
+title: H08QAO-PDF-ENG
+---
+## gender diversity among its male-dominated workforce.
 
-In 2018, Alpha introduced a change to its hiring process. In the old
+Why? It turns out that HR professionals and managers approached
 
-system HR forwarded all applications to a line manager, who narrowed
+the task of shortlisting much diﬀerently—which had ripple eﬀects into
 
-down the pool and conducted interviews. In the new process, managers
+who ended up ﬁlling a role. Our ﬁndings have major implications for
 
-would provide the job requirements to HR, then let HR select an initial
+companies looking for a simple way to reduce some of the inadvertent
 
-seven applicants for the manager to interview (managers retained the
-
-ﬁnal hiring decision). The company made the switch for one reason: to
-
-reduce unnecessary delays in the hiring process that might turn oﬀ top
+biases that can creep into the selection process.

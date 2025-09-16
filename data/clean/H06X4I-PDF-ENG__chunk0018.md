@@ -1,25 +1,27 @@
-# value most.
+---
+source_path: H06X4I-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a987598b26828163b56b426e0da11d788913d591
+title: H06X4I-PDF-ENG
+---
+# HBR / Digital Article / Remote Work Has Opened the Door to a New Approach to Hiring
 
-In a series of Upwork surveys, respondents reported both opportunities
+willingness to utilize remote freelancers, both during the pandemic and
 
-for and interest in using more freelance options. Respondents who had worked with or hired independent staﬀ in the last year said that,
+going forward.
 
-without the external help, they would have done the work themselves
+The supply of workers interested in these models has simultaneously
 
-(35%) or asked their teams to do it (28%) — options that could contribute
+swelled. Self-employment rates have surged over the past year,
 
-to burnout. Twenty percent said they would have hired an outside
+supporting anecdotal reports that many considering adding to the Great
 
-service company; 3% would have hired a staﬃng ﬁrm. Just 8% said
+Resignation were seeking more ﬂexibility and control over their lives.
 
-they would have made new full-time hires, and 6% said the work simply
+In a representative survey of working-age people in the U.S., one out of
 
-wouldn’t have been done.
+ﬁve respondents who could work mostly remotely during the pandemic
 
-Respondents also reported having contracted signiﬁcantly more
+reported considering freelancing to stay remote. Among those who
 
-freelancers during the pandemic (53% said they made more use of
-
-remote freelancers compared to their pre-pandemic baseline, vs. just
-
-6% who hired fewer freelancers) and planned to make more use of it
+would consider freelancing, a more ﬂexible schedule was what they

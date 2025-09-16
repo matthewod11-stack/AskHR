@@ -1,7 +1,9 @@
-## meaningful moments from their favorite podcasts and videos. Once
+---
+source_path: H07RKN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab2dec8980768825f272a1c7e5b2effe40c6fe6d
+title: H07RKN-PDF-ENG
+---
+## HBR / Digital Article / How to Make a Compelling Pitch
 
-clipped, the product saves, sorts, and aggregates them in one place. You
-
-want to develop a pitch for your audience. Your pitch might be:
-
-What if you could capture, collect, and categorize short-form audio and
+Imagine you have a new product that helps users clip and organize

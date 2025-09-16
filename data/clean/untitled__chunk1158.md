@@ -1,9 +1,19 @@
-# language. Thousand Oaks, CA: Sage.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 40940d9142da4a3286da52e027b18876992df949
+title: untitled
+---
+## perspective. Journal of Personality, 54, 18–51.
 
-Demorest, A. P., & Siegel, P. F. (1996). Personal inﬂuences on pro- fessional work: An empirical case study of B. F. Skinner. Journal of Personality, 64, 243–261.
+Craik, K. H. (1988). Assessing the personalities of historical ﬁgures. In W. M. Runyan (Ed.), Psychology and historical interpretation (pp. 196–218). New York: Oxford University Press.
 
-Denzin, N. K., & Lincoln, Y. S. (2000). Handbook of qualitative re-
+Crider, B. (1936). Who is a psychologist? School and Society, 43,
 
-search (2nd ed.). Thousand Oaks, CA: Sage.
+370–371.
 
-Dewey, R. (1907). A case of disordered personality. Journal of Ab-
+Crosby, F., & Crosby, T. L. (1981). Psychobiography and psy- chohistory. In S. L. Long (Ed.), Handbook of political behavior (Vol. 1, pp. 195–254). New York: Plenum Press.
+
+Danziger, K. (1990). Constructing the subject: Historical origins of psychological research. New York: Cambridge University Press.
+
+Danziger, K. (1997). Naming the mind: How psychology found its

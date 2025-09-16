@@ -1,7 +1,9 @@
-# Applications of Competency Modeling
+---
+source_path: individual_selection_development_and_performance_management_to_organizational_st.md
+pages: n/a-n/a
+chunk_id: b35d7b0deea82b4ca9ae881e8cb71e21f2bcc0d5
+title: individual_selection_development_and_performance_management_to_organizational_st
+---
+# Developing Competency Models to Promote Integrated Human Resource Practices • 319
 
-There are two primary levels for use of com- petency models. The first uses competency models for specific occupations to facilitate HR activities. The second level uses compe- tency models of occupational groups to maxi- mize use of resources. Once developed, these models can then be applied “as is” or tailored to facilitate the accomplishment of organiza- tional objectives. This section will discuss the development and application of these models to showcase the flexibility and range of use of competencies from programmatic and opera- tional perspectives.
-
-the importance of the new Standard Occupa- tional Classification (SOC) that will provide a standard classification of jobs that will be used by all federal agencies in their data col- lection efforts (Pollack, Simons, Romero, & Hauser, 2002; U.S. Office of Management and Budget, 2000). This system will enable pri- vate and public sector organizations to share labor market information, such as pay surveys. Additionally, organizations that provide infor- mation to the Equal Employment Opportu- nity Commission will use the SOC as a re- porting framework. The SOC working groups, responsible for the design of the new SOC, identified occupations that are based on work- ers who perform similar job tasks at similar skill levels. OPM provided occupational pro- files (i.e., critical competencies and tasks) for clerical, technical, administrative, and profes- sional occupations to the working groups to assist in this work. Clusters of occupations based on tasks and competencies were also provided to the working groups to help iden- tify higher level categories in the SOC. For all new occupational studies, OPM will collect data according to the new SOC structure and provide the data to the SOC working groups. These data will contribute to the empirical foundation for future revisions of the SOC.
-
-OPM has established consortia of interested parties for both the automated systems and the occupational studies to pool financial and human resources, benchmark best practices, and facilitate the exchange of information.
+the occupational studies to pool financial and human resources, benchmark best practices, and facilitate the exchange of information. These groups have grown to include federal agencies, state and local governments, and nonprofit associations and public institutions (e.g., libraries, public colleges and training institutes). The organizations participating in the consortia realize a return on their invest- ment as the data are applied to programmatic and policy initiatives, as well to various HR processes (e.g., development of succession planning models, development of vacancy or job announcements).

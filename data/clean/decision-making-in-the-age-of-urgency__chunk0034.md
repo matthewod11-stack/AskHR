@@ -1,13 +1,15 @@
-# 20% or more
+---
+source_path: decision-making-in-the-age-of-urgency.md
+pages: n/a-n/a
+chunk_id: 44a30abbb6d25238547d826aa1a29ecfcc8d0cb3
+title: decision-making-in-the-age-of-urgency
+---
+# Exhibit 4
 
-36
+Respondents at winning organizations are twice as likely as others to say their recent decisions have delivered returns of 20 percent or more.
 
-43
+Financial returns from organizations’ most recent decisions,1 % of respondents
 
-31
+Further analyses reveal the importance of making decisions that are both high quality and fast, a combination that is much more common at the winning organizations. One might expect that consistently excellent decisions involve much delib- eration and therefore take longer to make, so companies must compromise quality if they want to make decisions more quickly. However, the results indicate that speed and quality outcomes are highly interrelated. According to respondents, the organizations that make decisions quickly are twice as likely to make high-quality decisions, compared with the slow decision makers.
 
-10%–19%
-
-To understand how the winning organizations make decisions differently from all others, we ran logistic regressions to identify the specific decision-making practices that are most associated with being a winner (Exhibit 5).
-
-51
+18

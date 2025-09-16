@@ -1,23 +1,11 @@
-## surfaces to the top of the candidate pool.
+---
+source_path: H08MYZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 294dee82fe92663ec4c81d0faac6f12b55e3d675
+title: H08MYZ-PDF-ENG
+---
+# Applications, Resumes, and Cover Letters
 
-Change your narrative.
+With such a competitive market, recruiters don’t have time to look
 
-When updating your resume, develop a strong narrative that shows
-
-recruiters and hiring managers your unique, AI-resistant capabilities.
-
-Start by mapping out your current work. Determine which tasks might
-
-soon be accomplished through AI and automation or whether your
-
-entire job could become obsolete.
-
-For example, some big banks have said they’re looking to automation
-
-to replace much of junior investment analysts’ work. Therefore,
-
-current investment analysts may need to pivot within the ﬁnance
-
-sector to a new role by developing skills technology will likely never
-
-master: work that requires a human touch, such as relationship-
+at every application. Consider these tips to help ensure your resume

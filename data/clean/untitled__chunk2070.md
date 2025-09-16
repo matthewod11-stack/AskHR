@@ -1,9 +1,11 @@
-# Englewood Cliffs, NJ: Prentice-Hall.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7787fd7fb86f0497645e5161d4fc1b64469ade6a
+title: untitled
+---
+# cational Record, 19, 36–46.
 
-Routh, D. K. (1994). Clinical psychology since 1917: Science, prac-
+Pepinsky, H. B., Hill-Frederick, K., & Epperson, D. L. (1978). Journal of Counseling Psychology as a matter of policies. Journal of Counseling Psychology, 25, 483–498.
 
-tice, and organization. New York: Plenum Press.
-
-Stephens, W. R. (1970). Social reform and the origins of vocational guidance. Washington, DC: Monograph of the National Voca- tional Guidance Association.
-
-Super, D. E. (1955). Transition: From vocational guidance to coun- selingpsychology.JournalofCounselingPsychology,2,3–9.
+Raimy, V. C. (Ed.). (1950). Training in clinical psychology.

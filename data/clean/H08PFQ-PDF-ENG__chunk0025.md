@@ -1,17 +1,19 @@
-# believe in.
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2f429f751cbe05012bea47c4daeccd517e261499
+title: H08PFQ-PDF-ENG
+---
+# HBR / Digital Article / Executive Teams Are Losing Stakeholders’ Confidence. Here’s H…
 
-During one recent global transformation I worked on, three executives
+High-functioning teams break down barriers and align eﬀorts across
 
-leading critical adjacencies—data analytics and AI, cybersecurity,
+functions, fostering unity in times of external discord. When teams
 
-and information technology—had been contending with signiﬁcant
+operate as one unit rather than loosely aﬃliated ﬁefdoms, they
 
-boundary conﬂicts in their departments. The executives went on a
+model the alignment they want others in the organization to follow.
 
-worldwide roadshow to meet with their teams, model alignment, and
+Especially under stress, seamless collaboration signals shared purpose
 
-help increase understanding of how the teams would collaborate.
-
-Instead of presenting their own department’s contribution, they each
-
-presented each other’s, signaling their shared ownership. It took
+and coordinated execution—two things people desperately want to

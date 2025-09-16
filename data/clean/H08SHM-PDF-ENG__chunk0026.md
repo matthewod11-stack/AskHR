@@ -1,5 +1,35 @@
-# Measurement Too Cheap to Meter
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 336c270d120fc2c3c4bb73df8b22eb5c8c256fd2
+title: H08SHM-PDF-ENG
+---
+# system iterate.
 
-Economist Zvi Griliches’s landmark 1957 study of hybrid corn adoption
+Stack those three ingredients and you get a general-purpose automation
 
-gives us a sharp lens on what comes next. Farmers ﬁrst planted the
+engine. Two data trends now accelerate the ﬂywheel. First, models
+
+can mint limitless synthetic examples—for instance, generating virtual
+
+“driving miles” that cover every oddball scenario, rather that relying
+
+on data from real world drivers. And second, AI is increasingly
+
+ﬁelded across a variety of devices and sensors—on phones, in cars,
+
+and elsewhere—as a low-cost surveyor, capturing and quantifying real-
+
+world signals that were once too expensive or impractical to measure.
+
+If you can shoehorn a phenomenon into numbers, AI will learn it and
+
+reproduce it back at scale—and the tech keeps slashing the cost of that
+
+conversion, so measurement gets cheaper, faster, and quietly woven
+
+into everything we touch. More things become countable, the circle
+
+resets, and the model comes back for seconds. That means that any job
+
+that can be measured can, in theory, be automated.

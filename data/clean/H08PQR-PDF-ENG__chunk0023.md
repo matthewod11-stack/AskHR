@@ -1,11 +1,19 @@
-# HBR / Digital Article / The Formal Policies That Protect Family Businesses from Interp…
+---
+source_path: H08PQR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b0a1a6b195ed825ce1c90d256261c8b40be24f5
+title: H08PQR-PDF-ENG
+---
+# generational transitions.
 
-which someone wants to sell their share, or what happens if someone
+Although the documents and structures are the end result of this
 
-divorces, tend to surface diﬀerences in the way people view the kind
+process, the discussions that are required to put them in place are
 
-of relationship, commitment, and duty that family members have to
+valuable, too. The way families decide how to handle situations in
 
-the business—and to each other. The open dialogue it takes to put
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-these policies in place can be beneﬁcial to get issues and diﬀerent
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

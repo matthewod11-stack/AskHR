@@ -1,7 +1,11 @@
-## mapeado, optou-se por deixar correr livremente, a fim de captar mais informações
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 2adee243bd3a483da5aaf62c00bb7704e8caf003
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## abordar temas não levantados em um primeiro momento pela autora. Foi preparado
 
-não antecipadas no roteiro. A entrevista foi realizada por chamada de vídeo online
+roteiro inicial para a entrevista, que é encontrado no apêndice I deste trabalho, mas
 
-com duração aproximada de uma hora e 40 minutos e teve seu conteúdo gravado
-
-com o aceite da pessoa entrevistada, para posterior consulta no momento da
+sempre que uma resposta levava a um novo questionamento não previamente

@@ -1,11 +1,13 @@
-# 3.17 Promotion Review Committee:
+---
+source_path: an_overview_of_performance_management_policy_pmp_and.md
+pages: n/a-n/a
+chunk_id: 92f926c78727d5b261dda2d2c1ad00da52b43572
+title: an_overview_of_performance_management_policy_pmp_and
+---
+## assessment archives after due endorsement from the division head.
 
-Promotion Review board of trustees will be set up to manage all advancement matter. While
+25
 
-surveying the advancement assignment, audit board of trustees will zero in on whether the
+(cid:32)
 
-selection is inside the CBL strategy system and furthermore whether the advancement is
-
-being proposed for an adjustment in job which is of higher evaluation or for expansion in
-
-obligations to representative's present job.
+(cid:32)

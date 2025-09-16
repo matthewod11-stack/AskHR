@@ -1,5 +1,9 @@
-# Essay Appraisals
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 4aad8f005831fe99ff2c886b430ecd0f4042f9ed
+title: document_resume
+---
+# Considerations in Selecting
 
-The narrative essay is a. desLription of the individual's job performance in the rater's own words. Often, guidelines are pros ided. For example, the rater may be asked to describe such things as strengths, weaknesses, and potential and to make sug- gestions for improvement (see Figure 3.3). The essay approach to performance appraisal assumes that a candid statement from a knowledgeable supervisor about an individual's job performance is just as \ alid as more formal and quantitative methods.;
-
-Narrative essays can pros ide detailed feedback regarding job performance, par- ticularly if the rater uses an accurate job desLription to ensure that all areas are covered. Most essay appraisals, however, are unstructured and vary in length and content. Another problem w ith essay appraisals is that the individual's rating may depend more on the writing skills of the superior than on the individual's performance.5 Finally, this method is highly subjective, time-consuming, difficult to administer, and impractical for large groups.6 Most authorities agree that the essay is best used as a supplement to a more structured method such as the graphic rating scale.
+can be highly job- related and can be Lombmed with other methods such as behav- iorally-phrased essay s. To make ratings more meaningful. the rater, along with com- pleting the scale, may be asked or required to justify the rating and to discuss suggestions for improvement in space pros ided for w ritten Lommems.

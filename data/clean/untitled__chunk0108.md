@@ -1,5 +1,9 @@
-## Ira Iscoe, PhD Department of Psychology University of Texas Austin, Texas
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 57b93de40f47e40316ea66a7b2d0ce995bd78571
+title: untitled
+---
+## Rachel T. Hare-Mustin, PhD Amherst, Massachusetts
 
-Adelbert M. Jenkins, PhD Department of Psychology New York University New York, New York
-
-James G. Kelly, PhD Department of Psychology University of Illinois at Chicago Chicago, Illinois
+Erin P. Hayes, MA Department of Psychology at Chicago University of Illinois Chicago, Illinois

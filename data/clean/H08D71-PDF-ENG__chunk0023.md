@@ -1,19 +1,19 @@
-# trucks and other EVs.
+---
+source_path: H08D71-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a97ee24833534c1fe2236ec1cf01ca9620133484
+title: H08D71-PDF-ENG
+---
+## sustainable competitiveness in U.S. manufacturing.
 
-- 2. Its Investment in the Global South
+Ford is another U.S. company that has recognized that Chinese
 
-China’s strength in emerging markets is reshaping global business
+technology is indispensable to its green ambitions. To make the diﬃcult
 
-dynamics. Traditionally, Western multinationals have focused on
+transition from gas-guzzling SUVs and trucks to electric vehicles (EVs),
 
-mature markets with highly engineered products at high price points,
+the Detroit giant has teamed up with CATL, China’s dominant EV
 
-while China conquered growth markets.
+battery manufacturer. Ford is investing $3.5 billion into an EV battery
 
-China excels at tailoring aﬀordable, innovative solutions to local
-
-needs. For instance, Chinese smartphone companies, led by Transsion
-
-Holdings, Xiaomi, and Huawei, captured 76% of the smartphone
-
-market in India and more than 60% of the African market by 2021.
+factory in Michigan that will use licensed CATL technology to cost eﬀectively produce lithium-ion batteries for Ford’s F-150 Lightning

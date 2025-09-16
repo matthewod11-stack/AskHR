@@ -1,11 +1,7 @@
-## The Transition towards Industry 5.0 and Evolving Sustainable Dimensions
-
-A new paradigm of the digital supply chain is under discussion, i.e., Industry 5.0, which
-
-focuses on incorporating societal and environmental perspectives. The dehumanization aspect
-
-of Industry 4.0 concerns society, individuals as well as government and the urge to include
-
-significant human contributions in future industrial revolutions, their return to workplaces,
-
-36
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 2502f6cf1be54e2af4b9a701c75726557a22f883
+title: issn_print_0976_013x
+---
+## other technological tools (Novais et al., 2019).

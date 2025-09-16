@@ -1,7 +1,9 @@
-## why… https://www.growthforce.com/blog/business-workplace-diversity-revenue
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 968e828a6ddb61e96b0d1533619860c1c2f9d8cc
+title: issn_print_0976_013x
+---
+## https://www.glassdoor.com/employers/blog/diversity/
 
-Knippenberg D. V., de Dreu C. K. W., Homan A. C. (2004). Work group diversity and group
-
-performance: An integrative model and research agenda. Journal of Applied Psychology,
-
-89, 1008-1022.
+GrowthForce. (n.d.). Businesses with workplace diversity have 19% higher revenue. Here’s

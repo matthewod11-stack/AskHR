@@ -1,19 +1,11 @@
-## on a large scale—even with a boost from artiﬁcial intelligence.
+---
+source_path: S25011-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: eea3a10cc6fe345a3fc14d54e5da69c946f86af6
+title: S25011-PDF-ENG (1)
+---
+## entire organization and even company boundaries.
 
-AI supports narrow tasks or subprocesses, rather than end-to-end
+Done correctly, process management is extremely eﬀective. Better-
 
-processes, so organizations must string together multiple AI use cases
-
-to improve an entire process. Process management requires massive
-
-amounts of change management—persuading stakeholders, retraining
-
-workers, and integrating many moving parts. Moreover, it’s often at
-
-odds with traditional hierarchical management because it cuts across departments to boost eﬃciency. And its reputation took a hit when
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+managed processes mean higher productivity: Error rates, cycle times, and low-value work are all reduced. But it can be diﬃcult to implement

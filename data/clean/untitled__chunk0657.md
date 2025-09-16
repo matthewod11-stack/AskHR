@@ -1,3 +1,9 @@
-## The Premodern Period: Cognition before the Scientiﬁc Revolution
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: b8053955a763e7a90f6f80e98510b0a6574055de
+title: untitled
+---
+# THE PHILOSOPHICAL PERIOD
 
-Thinking about cognition began with the ancient Greeks. As Greek thought took ﬂight beyond the bounds of religion, philosophers began to speculate about the nature of the phys- ical world. Political disputes within the poleis and encounters with non-western societies provoked debates about the best human way of life. These social, ethical, and protoscientiﬁc inquiries in turn raised questions about the scope and limits of human knowledge, and how one could decide between rival theories of the world, morality, and the best social order. The epistemological questions the ancient philosophers posed are perennial, and they proposed the ﬁrst—though highly specu- lative—accounts of how cognition works psychologically.
+During the Premodern period, inquiries into cognition focused on philosophical rather than psychological issues. The chief concerns of those who studied cognition were determining how to separate truth from falsity and building systems of epistemology that would provide sure and solid foundations for other human activities from science to politics.

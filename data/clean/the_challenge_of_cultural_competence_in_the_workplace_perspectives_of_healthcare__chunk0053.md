@@ -1,51 +1,39 @@
-## Shepherd et al. BMC Health Services Research (2019) 19:135
+---
+source_path: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare.md
+pages: n/a-n/a
+chunk_id: 1a5be73f862b1aacde241bf44192aacce5bc57a1
+title: the_challenge_of_cultural_competence_in_the_workplace_perspectives_of_healthcare
+---
+# References 1.
 
-- 20. Blasco M, Egholm Feldt L, Jakobsen M. If only cultural chameleons could fly too: a critical discussion of the concept of cultural intelligence. Int J Cross- cult Manag. 2012;12:229–45.
+Johnson RL, Saha S, Arbelaez JJ, Beach MC, Cooper LA. Racial and ethnic differences in patient perceptions of bias and cultural competence in health care. J Gen Intern Med. 2004;19:101–10. Smedley BD, Stith AY, Unequal Treatment NAR. Confronting racial and ethnic disparities in health care. Washinton, D.C: the: National Academies Press; 2002. U.S. Department of Health and Human Services. 2016 National Healthcare Quality and Disparities Report. (Publication No. 17–0001). Maryland, MD: Agency for Healthcare Research and Quality; 2017. Commonwealth of Australia. Cultural Competency in health: A guide for policy, partnerships and participation. Canberra, ACT: Commonwealth of Australia, National Health and Medical Research Council; 2006. Government of Canada. Clinical practice guidelines for nurses in primary care. 2015. https://www.canada.ca/en/indigenous-services-canada/services/ first-nations-inuit-health/health-care-services/nursing/clinical-practice- guidelines-nurses-primary-care/introduction-clinical-practice-guidelines.html. Accessed Feb 10 2018. Nursing Council of New Zealand. Guidelines for Cultural Safety, the Treaty of Waitangi and Maori Health in Nursing Education and Practice. Wellington, NZ: Nursing Council of New Zealand; 2012. Office of Minority Health. National Standards for Culturally and Linguistically Appropriate Services (CLAS) in Health and Health Care. Rockville, MD: Office of Minority Health. U.S: Department of health and human services; 2018. Dobbin F, Kalev A. Why diversity programs fail. Harv Bus Rev. 2016; https:// hbr.org/2016/07/why-diversity-programs-fail. Accessed 5 April 2018. Shepherd SM. Cultural awareness workshops should be abandoned (paper submitted for review); 2018.
 
-- 21. Carey M. The limits of cultural competence: an indigenous studies perspective. Higher Education Research & Development. 2015;34:828–40. 22. Gregg J, Saha S. Losing culture on the way to competence: the use and misuse of culture in medical education. Acad Med. 2006;81:542–7. Shepherd S. Cultural awareness training for health professionals may have unintended consequences. The British Medical Journal Opinion http://blogs. bmj.com/bmj/2018/01/22/stephane-m-shepherd-cultural-awareness- training-for-health-professionals-can-have-unintended-consequences/. Accessed March 15 2018.
+2.
 
-- 21. Carey M. The limits of cultural competence: an indigenous studies perspective. Higher Education Research & Development. 2015;34:828–40. 22. Gregg J, Saha S. Losing culture on the way to competence: the use and misuse of culture in medical education. Acad Med. 2006;81:542–7. Shepherd S. Cultural awareness training for health professionals may have unintended consequences. The British Medical Journal Opinion http://blogs. bmj.com/bmj/2018/01/22/stephane-m-shepherd-cultural-awareness- training-for-health-professionals-can-have-unintended-consequences/. Accessed March 15 2018.
+3.
 
-- 24. Causadias JM, Vitriol JA, Atkin AL. Do we overemphasize the role of culture in the behavior of racial/ethnic minorities? Evidence of a cultural (mis)attribution bias in American psychology. The American Psychologist. 2018;73:243–55.
+4.
 
-- 25. Downing R, Kowal E. A postcolonial analysis of indigenous cultural awareness training for health workers. Health Sociol Rev. 2011;20:5–15. Stuart RB. Multiculturalism: Questions, not answers. Professional Psychology Research and Practice. 2004;35:3–9.
+5.
 
-- 25. Downing R, Kowal E. A postcolonial analysis of indigenous cultural awareness training for health workers. Health Sociol Rev. 2011;20:5–15. Stuart RB. Multiculturalism: Questions, not answers. Professional Psychology Research and Practice. 2004;35:3–9.
+6.
 
-- 27. Hughson J, Marshall F, Daly JO, Woodward-Kron R, Hajek J, Story D. Health professionals’ views on health literacy issues for culturally and linguistically diverse women in maternity care: barriers, enablers and the need for an integrated approach. Aust Health Rev. 2018;42:10–20. Truong M, Fuscaldo G. Optometrists’ perspectives on cross-cultural encounters in clinical practice: a pilot study. Clin Exp Optom. 2012;95:37–42. Truong M, Gibbs L, Paradies Y, Priest N. “Just treat everybody with respect”: health service providers’ perspectives on the role of cultural competence in community health service provision. The ABNF Journal. 2017;28:34–43. Truong M, Gibbs L, Paradies Y, Priest N, Tadic M. Cultural competence in the community health context: ‘we don’t have to reinvent the wheel. Australian Journal of Primary Health. 2017;23:342–7. Leishman J. Perspectives of cultural competence in health care. Nurs Stand. 2004;19:33–8.
+7.
 
-28.
+8.
 
-29.
+9.
 
-30.
+- 10. Paniagua FA. Multicultural aspects of counseling series, Vol. 4. Assessing and treating culturally diverse clients: A practical guide. Thousand oaks, CA, US: sage publications, Inc; 1994.
 
-31.
+- 11. Papps E, Ramsden I. Cultural safety in nursing: the New Zealand experience. Int J Qual Health Care. 1996;8:491–7. Tervalon M, Murray-Garcia J. Cultural humility versus cultural competence: a critical distinction in defining physician training outcomes in multicultural education. J Health Care Poor Underserved. 1998;9:117–25.
 
-- 32. Markey K, Tilki M, Taylor G. Understanding nurses’ concerns when caring for patients from diverse cultural and ethnic backgrounds. J Clin Nurs. 2017. https://doi.org/10.1111/jocn.13926.
+- 11. Papps E, Ramsden I. Cultural safety in nursing: the New Zealand experience. Int J Qual Health Care. 1996;8:491–7. Tervalon M, Murray-Garcia J. Cultural humility versus cultural competence: a critical distinction in defining physician training outcomes in multicultural education. J Health Care Poor Underserved. 1998;9:117–25.
 
-- 33. Almutairi AF, Adlan AA, Nasim M. Perceptions of the critical cultural competence of registered nurses in Canada. BMC Nurs. 2017. https://doi. org/10.1186/s12912-017-0242-2. Starr S, Wallace DC. Self-reported cultural competence of public health nurses in a southeastern U.S. public health department. Public Health Nurs. 2009;26:48–57.
+- 13. Ng KY, Van Dyne L, Ang S. Cultural intelligence: a review, reflections, and recommendations for future research. In: Ryan AM, Leong FTL, Oswald FL, editors. Conducting multinational research: applying organizational psychology in the workplace. Washington, DC: American Psychological Association; 2012. p. 29–58. 14. Cross TL, Bazron BJ, Dennis KW, competent system of care: a monograph on effective Services for Minority Children who are Severely Emotionally Disturbed. Washington, DC: CASSP Technical Assistance Center, Georgetown University Child Development Center; 1989.
 
-- 33. Almutairi AF, Adlan AA, Nasim M. Perceptions of the critical cultural competence of registered nurses in Canada. BMC Nurs. 2017. https://doi. org/10.1186/s12912-017-0242-2. Starr S, Wallace DC. Self-reported cultural competence of public health nurses in a southeastern U.S. public health department. Public Health Nurs. 2009;26:48–57.
+- 15. Betancourt JR, Green AR, Carrillo JE, Ananeh-Firempong O. Defining cultural competence: a practical framework for addressing racial/ethnic disparities in health and health care. Public Health Rep. 2003;118:293–302.
 
-- 35. Mobula LM, Okoye MT, Boulware LE, Carson KA, Marsteller JA, Cooper LA. Cultural competence and perceptions of community health workers’ effectiveness for reducing health care disparities. J Prim Care Community Health. 2015;6:10–5.
+- 16. Beach MC, Price EG, Gary TL, Robinson KA, Gozu A, Palacio A, et al. Cultural competence: a systematic review of health care provider educational interventions. Med Care. 2005;43:356–73. Jongen C, McCalman J, Bainbridge R. Health workforce cultural competency interventions: a systematic scoping review. BMC Health Serv Res. 2018. https://doi.org/10.1186/s12913-018-3001-5. Truong M, Paradies Y, Priest N. Interventions to improve cultural competency in healthcare: a systematic review of reviews. BMC Health Serv Res. 2014;14:99. Legault L, Gutsell JN, Inzlicht M. Ironic effects of anti-prejudice messages: how motivational intervention reduces (but also increases) prejudice. Psychol Sci. 2011;22:1472–7. 18.
 
-- 36. Olt H. Healthcare providers’ perceptions of diversity and cultural competence. Stockholm, Sweden: Karolinska Institutet; 2013.
-
-- 37. Casillas A, Paroz S, Green AR, Wolff H, Weber O, Faucherre F, et al. Cultural competency of health-care providers in a Swiss University hospital: self- assessed cross-cultural skillfulness in a cross-sectional study. BMC Med Educ. 2014;14:19.
-
-- 38. Ohana S, Mash R. Physician and patient perceptions of cultural competency and medical compliance. Health Educ Res. 2015;30:923–34. Fossey E, Harvey C, McDermott F, Davidson L. Understanding and evaluating qualitative research. Aust N Z J Psychiatry. 2002;36:717–32. Kirmayer LJ, Sartorius N. Cultural models and somatic syndromes. Psychosom Med. 2007;69:832–40. Lewis-Fernández R, Aggarwal NK, Bäärnhielm S, Rohlof H, Kirmayer LJ, Weiss MG, et al. Culture and psychiatric evaluation: operationalizing cultural formulation for DSM–5. Psychiatry. 2014;77:130–54.
-
-- 38. Ohana S, Mash R. Physician and patient perceptions of cultural competency and medical compliance. Health Educ Res. 2015;30:923–34. Fossey E, Harvey C, McDermott F, Davidson L. Understanding and evaluating qualitative research. Aust N Z J Psychiatry. 2002;36:717–32. Kirmayer LJ, Sartorius N. Cultural models and somatic syndromes. Psychosom Med. 2007;69:832–40. Lewis-Fernández R, Aggarwal NK, Bäärnhielm S, Rohlof H, Kirmayer LJ, Weiss MG, et al. Culture and psychiatric evaluation: operationalizing cultural formulation for DSM–5. Psychiatry. 2014;77:130–54.
-
-39.
-
-40.
-
-- 42. Aggarwal NK, Cedeno K, Guarnaccia P, Kleinman L-FR. The meanings of cultural competence in mental health: an explanatory focus group study with patients, clinicians, and administrators. Springerplus. 2016;5:384. 43. Richardson S, Williams T. Why is cultural safety essential in health care? Med
-
-Law. 2007;26:699–707.
-
-- 44. Downing R, Kowal E, Paradies Y. Indigenous cultural training for health workers in Australia. Int J Qual Health Care. 2011;23:247–57.
-
-- 45. Goode TD, Jones W, Dunne C, Bronheim S. And the journey continues... Achieving cultural and linguistic competence in systems serving children
+17.

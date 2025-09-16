@@ -1,27 +1,27 @@
-# HBR / Digital Article / 6 Common Leadership Styles — and How to Decide Which to Us…
+---
+source_path: H085MC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58589f4ad76ff59e11d4652145d700580c0a2287
+title: H085MC-PDF-ENG
+---
+# and responsibility.
 
-both for their personal and professional development. “Asking
+When to use the democratic leadership style
 
-questions like, ‘What do you want from your life, your career, this job?
+This style is ideal when you’re unsure about the best course of action
 
-And, how can I help you?’ encourages your employees to reﬂect on their
+and want to generate ideas. But it’s not a good strategy when your team
 
-aspirations and work towards achieving them,” says Goleman. By taking
+members lack experience or information, or in times of crisis.
 
-a genuine interest in their development, you help your employees feel
+- 6. Coaching leadership style
 
-valued and motivated.
+The coaching style is focused on individual growth, and involves
 
-When to use the coaching leadership style
+dedicating time to understand your team members’ long-term goals,
 
-This style is especially useful during one-on-one performance
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-evaluations, but you can also slip it into everyday conversations, he
+5
 
-says. A leader in coach-mode might say, “You’re great at XYZ, but when
-
-you do ABC, it doesn’t work as well because of these reasons. Have you
-
-considered trying this other approach instead?” This real-time feedback
-
-helps employees grow and learn, rather than letting potential problems
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

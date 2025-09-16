@@ -1,47 +1,81 @@
-# Q
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: fa61809359ffb17a44b6826940330a8f820c8af2
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# Trainine
 
-presents a four-step process in workplace training: 1) Prepare the worker. Find out what
+Training can increase employee productivity and contribute to achieving
 
-he already knows and stimulate interest in it. 2) Present the operation . Show and tell
+organizational goals. According to Nilson, training plays an important role in developing
 
-exactly what each step is and how to do it. 3) Try out the worker ' s performance . Let
+a productive work force and getting operations so effective that they contribute more
 
-employees perform the operation and have them explain the steps and key points of the
+directly to outputs/goals of the organization (1990:1). She explains productivity as
 
-operation. 4) Follow up. Put a trainee on his own, observe his performance to ensure he
+outputs exceeding inputs, and the productive employee strives consistently to get more
 
-is following correct methods. I believe when training an individual , we must focus on
+units of output per unit of input. If all employees have this mentality , to optimize
 
-accuracy , clarity, completeness of doing it right the first time, consistency and open to
+resources and maintain a positive net profit of outputs over inputs, organizations can be
 
-continual improvement of tasks performed.
+highly effective in achieving their goals. Nevertheless , we all know we have productive
 
-Training can be a powerful tool for maintaining work and for improving work
+9
 
-(Nilson, 1990: 10). According to Nilson , training that addresses standard of acceptable
+and unproductive , high performing and low performing , and motivated and unmotivated
 
-performance , clarify the procedures of the job, instruct workers in the skills required and
+employees. As Scientific Management teaches us, a "mental revolution" has to occur in
 
-the new tools available for doing a job, encourages communication and provides
+workers' minds to foster high productivity in every employee within the organization. As
 
-feedback, can all help keep workers on the job (1990: 10). In view of this statement,
+to what methods accomplishes this, there are many. Training is an excellent option for
 
-training is perhaps the most direct way of improving employee performance, overall
+increased productivity , personal growth, and enhanced employee performance . Training
 
-work, and ensures the proper use of organizational resources. Therefore , effective
+should be selected for the right reasons and for the right people.
 
-11
+Training contributes in a majot; way to the quality and effectiveness of each
 
-training can be expected to significantly improve productivity and quality of work.
+process involved in performing the job (Nilson, 1990:8-9). I believe well-trained
 
-Adequate and timely training is an important responsibility that can have a quick and
+employees can provide high quality work, high productivity rates and quality customer
 
-substantial payoff (Nilson, 1990:14). Managers who choose training as a solution for
+service. The personal satisfaction of being competent and able to do a good job is a
 
-improved employee performance , productivity , growth and development , need to know
+powerful motivator to do a better job in the future. Training is one major approach to
 
-ways to plan and implement it to avoid wasted resources (time, money, personnel) that do
+helping people control or manage change, because an employee who leaves training with
 
-not add value to the organization . Nilson (1990) provides excellent guidelines as a
+confidence in new knowledge and skills can handle a changing work place (Nilson,
 
-starting point for public managers : a) Build in quality from the beginning. Do not teach
+1990:1). We all need to know and learn new information to acquire new skills and
+
+develop new attitudes to cope with changes in the environment . Nilson provides three
+
+tasks essential for public managers to know if training is the right method to pursue in
+
+any organization. First, a manager must precisely define what are the employees'
+
+training needs. Secondly, figure out the best way to present the training information, so
+
+that such training as required is presented and learned in an appropriate amount of time.
+
+Thirdly, as a manager, get the right training to the right people, so that the resources it
+
+uses are an investment in productivity (1990:3) .
+
+An effective training program will provide endless opportunities for practice in
+
+solving problems directly related to the skill that they are teaching (Stokes, 1966:27). I
+
+believe employees are continually faced with problems in their jobs and it is the mark of
+
+their competence to be able to solve problems with minimum supervision or outside help.
+
+Performing the work is the only way a trainee can get the necessary practice, and most of
+
+this is done on the job. Many authors conclude that practice is a factor which leads to
+
+smooth work patterns and the method by which employees develop skill. Stokes (1966)

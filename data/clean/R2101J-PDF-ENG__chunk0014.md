@@ -1,5 +1,7 @@
-## Harvard Business Review January–February 2021
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
-
-3
+---
+source_path: R2101J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 07cc80e35111e94cc55c439e19a7f3cc6d100b2b
+title: R2101J-PDF-ENG
+---
+## FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG

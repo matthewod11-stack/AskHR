@@ -1,9 +1,21 @@
-## that, upon further examination, actually aren’t essential. Bonus tip:
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2b34735cb9f6457f923bc31d8dedf73598e7d4e2
+title: H08KYH-PDF-ENG
+---
+# relaxation and peace.
 
-Don’t add another to-do to your list before crossing one oﬀ.
+Use a tool to help you prioritize.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+Hurry sickness can mask what is truly high priority by leading you to
 
-6
+believe that everything is, so bring some objectivity to your to-do list.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Many of my coaching clients like the tried-and-true 4D method. Assign
+
+each of your tasks to one of four categories: Do tasks are essential and
+
+high-priority; Defer (or Delay) tasks can be done a little later; Delegate
+
+tasks can be handed oﬀ to someone else; and Delete tasks are the ones

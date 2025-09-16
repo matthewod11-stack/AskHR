@@ -1,11 +1,11 @@
-## gender. New York, NY: Plenum Publishers, 215-227.
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: fcf511f35fe0795b19dc317f3fa950ac1db2c8e3
+title: file_1
+---
+# strategies. Ashgate Publishing Company.
 
-Stone-Romero, E. and Stone, 2005. How do organizational justice concepts relate to
+Smith, A. and V. Rogers, 2000. Ethics-related Responses to Specific Situation Vignettes: Evidence of Gender-based Differences and Occupational Socialization. Journal of Business Ethics, 28 (1), 73-86.
 
-discrimination and prejudices? In J. Greenberg and J. Colquitt, eds, Handbook of organizational justice. Mahwah, NJ: Lawrence Erlbaum, 339-469.
-
-Teigen, M. and L. Wängnerud, 2009. Tracing Gender Equality Cultures: Elite Perceptions of
-
-Gender Equality in Norway and Sweden. Politics & Gender, 5, 21-44
-
-Tepper, B., 2001. Health consequences of organizational injustice: Tests of main and
+Stockard, J., 1999. Gender Socialization. In J. Chaftez, eds, The handbook of the sociology of

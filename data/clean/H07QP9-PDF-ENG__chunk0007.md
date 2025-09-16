@@ -1,7 +1,7 @@
-## Taylor, a seasoned manager at a midsize tech company, recently
-
-completed a training on how to have diﬃcult conversations. Taylor
-
-found the training valuable. She learned a new model, practiced a
-
-diﬃcult conversation she needed to have with a peer, and got feedback
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 97014d67b2dd482bf90e71d5366874077ce91c12
+title: H07QP9-PDF-ENG
+---
+# Tom Fowlks/Getty Images

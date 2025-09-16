@@ -1,17 +1,23 @@
-# relationship.
+---
+source_path: H08L6Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f751eca2b13ba208ef9cf396641972c9ee325147
+title: H08L6Z-PDF-ENG
+---
+# elsewhere.
 
-Power structures shift. New stakeholders emerge. Priorities change.
+- 5. Regularly update as new information arises and projects evolve.
 
-When you treat your power map as a living document rather than a
+Sarah got approval for her campaign within three months because she
 
-one-time exercise, you’ll be better equipped to navigate organizational
+had strategically involved people in the right ways. She also kept a close
 
-politics and dynamics as tides change.
+eye on how power dynamics evolved during that time. For instance,
 
-This article was originally published online on February 10, 2025.
+when one of her Quadrant 3 supporters got promoted, she adjusted her
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+engagement strategy to match their new inﬂuence level. Similarly, when
 
-6
+she discovered that a seemingly low-inﬂuence IT manager actually had
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the ear of the digital operations head, she revised her map and built that

@@ -1,17 +1,15 @@
-# Percentage
+---
+source_path: journal_of_european_industrial_training.md
+pages: n/a-n/a
+chunk_id: 3372fd668d29b87bd676e97e009c22b2abb41f83
+title: journal_of_european_industrial_training
+---
+## Reason for ineffective managerial appraisals
 
-83.0 79.0 75.0 67.0 63.0 54.0 42.0 50.0 33.0 29.0
+1 Unclear performance criteria/ineffective rating instruments 2 Poor working relationship with the boss 3 Superior lacks information on actual performance 4 Lack of ongoing performance feedback 5 Overly negative/second guessing review 6 Perceived political reviews 7 Lack of focus on management development/improvement 8 An ineffective link to reward systems 9 Superior lacks rating skills/motivation 10 Review process lacks structure/consistency
 
-[9]
+Source: Longenecker (1997)
 
-) T P (
+Longenecker's (1997) work is poor working relationships with the boss. If this is the case, having a number of other sources rate performance, such as peers and subordinates, should help alleviate to some degree the problem with a single source rating of performance if that source is not perceived in a positive light. The lack of information on actual performance is another problem cited by Longenecker (1997) as a barrier for effective managerial appraisals. It is argued that managers typically do not have the opportunity to observe some behaviours in the workplace, such as leadership, for example, and thus they are not in a position accurately to rate such behaviour. The issue of rater opportunity to observe ratee behaviour points to the beneficial use of multiple raters but also perhaps to one of its limitations. Multi-source appraisal and top-down supervisory appraisal are similar in that both can be used to assess training and development needs. While the supervisor was the only rating source in top-down appraisals, he/she is still a significant rater in a multi-rater system representing a ``908'' view of the individual's performance. In addition, both performance appraisal strategies involve reports of behaviour as well as judgements of performance based on work unit results. Both contain the potential to use rating scales and therefore are subject to traditional problems of data validity and bias, such as leniency, halo and stereotyping (London and Beatty, 1993).
 
-5 1 0 2
-
-h c r a
-
-M 8 0
-
-1 0 : 5 1 t
-
-A K R O C E G E L L O C Y T I S R E V N U y b
+Differences between 36088 and traditional performance appraisal There are a number of important differences between 3608 feedback and the more traditional appraisal process. London and Beatty (1993, p. 359) argue that performance appraisal is conducted primarily for performance evaluation purposes and has

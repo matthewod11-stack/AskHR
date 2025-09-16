@@ -1,29 +1,41 @@
-## connections. Systematically free up time on your calendar for coﬀee
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c9606783f7b07215152b6e37253f9099b7ef33e3
+title: R2502E-PDF-ENG
+---
+## HBR / Magazine Article / How Women Can Win in the Workplace
 
-chats, lunches, and so on, and use this time to talk to people in areas
+Stretch yourself. Make sure you’re reaching for roles with a high skill
 
-you’re interested in. Ask them about their roles, about other people they
+distance. If you go after jobs that require only the skills you already
 
-think you should talk to, and—if you feel comfortable with it—whether
+possess, you won’t maximize your experience capital.
 
-they can connect you directly to those people. Continue doing this until
+Build your narrative. Before starting your search, know what story you
 
-you understand exactly what kind of opportunity you’re looking for and
+plan to tell. Even if you feel that your previous role or roles didn’t
 
-what truly interests you. Once you know where you want to go, ﬁgure
+work out or were a bad ﬁt, ﬁgure out how to describe them as learning
 
-out how best to get there. Be straightforward and clear as you continue
+opportunities that provided you with valuable skills. This is key: To
 
-to reach out to people: “I’m really interested in this area. How can I best
+persuade companies and hiring managers to make a bet on you, you
 
-prepare myself and build the right skills?” As you make progress and
+need to talk about what you’ve liked and learned in your previous roles,
 
-start to apply for positions, update the people in your network who’ve
+not what made you unhappy or frustrated.
 
-been helpful. This is especially important in the case of sponsors or
+Activate your network. Because big moves often require crossing over
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+into new industries or functions, and because bold moves often involve
 
-7
+getting people to take a chance on you even though you may not yet
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+have all the necessary skills for a job, networking is key. You’ll need
+
+a network that’s broad and diverse enough to facilitate cross-industry
+
+moves—and includes sponsors who can encourage leaders who don’t
+
+know you to give you a shot. Start by strengthening your personal

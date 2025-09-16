@@ -1,27 +1,23 @@
-## HBR / Digital Article / When Your Manager Is Ineffective — and You Feel Stuck
+---
+source_path: H08HJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6d0eae3d1ac2f42a22d10c30faca91f879b0921
+title: H08HJ8-PDF-ENG
+---
+# adaptability.”
 
-support your leader. For instance, can you help ease their transition
+Reframe the story you’re telling yourself.
 
-if they’re new by teaching them about the industry, navigating
+You may not agree with the reporting hierarchy. You can, however,
 
-the organizational culture, or sharing insight into team dynamics.
+change your perspective and internal narrative.
 
-Questions to consider are:
+Look for places where the diﬀerences with your manager are
 
-- In what ways do my skills diﬀer from my manager’s, and how can I
+complimentary or identify ways in which you are uniquely qualiﬁed to
 
-leverage those diﬀerences to create a more cohesive team?
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-- What challenges is my manager facing, and how can my experience
+4
 
-help them overcome?
-
-- In what areas can I proactively oﬀer support where my manager might
-
-not be fully acclimated or skilled?
-
-When you ﬁnd common ground with your manager, you increase
-
-productivity and improve your relationship, as well as decrease your
-
-stress level. Identify what your manager is contributing that is unique to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

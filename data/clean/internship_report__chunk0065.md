@@ -1,11 +1,13 @@
-# Hossain Chowdhury, a prominent industrialist, philanthropist, and eminent social worker. Its
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: b31f6469f3c7e343ec4b562f5c34e1325e974f10
+title: internship_report
+---
+# 2.2(cid:32) About Karnaphuli Group
 
-growth has been characterized by a single minded and dedicated pursuit of excellence and a
+Karnaphuli Group is one of the oldest and largest business houses in Bangladesh which was
 
-professional urge to be the market leader in everything it is involved and engaged in. Helping to
+established in 1954. The Group is named after „Karnaphuli‟, a traditional river situated on the
 
-realize the above are independently managed companies manned by a pool of enterprising and
-
-progressive managers and executives, backed by strong finances, substantial resources and all the
-
-expertise, experience and knowledge you would expect from a business house that has been in
+banks of the port city of Chittagong. The Founder Chairman of Karnafuli Group is Mr. Hedayet

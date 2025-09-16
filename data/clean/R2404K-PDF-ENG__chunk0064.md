@@ -1,15 +1,13 @@
-## costs, long timelines, signiﬁcant technical complexity, and regulatory
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7892db75d7673913aa8358de795824eab5190804
+title: R2404K-PDF-ENG
+---
+# The Model in Practice
 
-hurdles. A recent McKinsey analysis found that large med-tech
+Medical technology is a $500 billion industry characterized by a
 
-companies respond to those hurdles by focusing on incremental
+polarized approach to innovation. Large med-tech companies face
 
-innovations to maintain market share in mature but low-growth
-
-markets. At the other end of the spectrum, there has been an increase
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+substantial barriers to internal innovation, including high development

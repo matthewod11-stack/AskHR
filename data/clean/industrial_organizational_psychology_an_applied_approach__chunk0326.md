@@ -1,5 +1,7 @@
-## Education Private sector Public sector Consulting Other
-
-0.8 44.0 10.5 37.3 7.4
-
-40.0 23.3 8.2 25.0 3.5
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: ccbfd47032664bce10d17096c35c843a7a23e2d1
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Highest Degree Obtained Ph.D. M.A.

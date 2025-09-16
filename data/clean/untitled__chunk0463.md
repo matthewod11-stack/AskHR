@@ -1,3 +1,15 @@
-## Archives of Neurology and Psychiatry, 38, 725–743.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 833a766c60a473f6ed3ba890de8c0c8d22074e12
+title: untitled
+---
+# Progress in Neurobiology, 13, 419–439.
 
-Pavlov, I. P. (1927). Conditioned reﬂexes (G. V. Anrep, Trans.).
+Olds, J. (1956). Pleasure centers in the brain. Scientiﬁc American,
+
+195, 105–116.
+
+Packard, M. G., Hirsh, R., & White, N. M. (1989). Differential ef- fects of fornix and caudate nucleus lesions on two radial maze tasks: Evidence for multiple memory systems. Journal of Neuro- science, 9, 1465–1472.
+
+Papez, J. W. M. (1937). A proposed mechanism of emotion.

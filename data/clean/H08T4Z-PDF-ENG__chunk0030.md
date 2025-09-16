@@ -1,3 +1,9 @@
-# CL
+---
+source_path: H08T4Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f03ccb48f7ac80b5527cbf75a1928d0e2ead8971
+title: H08T4Z-PDF-ENG
+---
+# EY
 
-Christopher Lochhead is co-author of Play Bigger, The Existing Market Trap, The 22 Laws of Category Design host of the Follow Your Diﬀerent podcast and co-founder of Category Pirates. He started his ﬁrst tech company at 18, has been an advisor/investor to over 50 venture-backed startups, and is a former chief marketing oﬃcer of three public tech ﬁrms. Follow him on Twitter @lochhead.
+Eddie Yoon is the founder of Eddie Would Grow, a growth strategy advisory, a partner in Greyspace ,and co-founder of Category Pirates, a top business Substack and digital education company. His book, Superconsumers, was published by HBR Press in December 2016. Follow him on Twitter @eddiewouldgrow.

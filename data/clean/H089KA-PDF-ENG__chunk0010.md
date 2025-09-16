@@ -1,9 +1,23 @@
-## Interestingly, the only notable factor in both the survey and interview
+---
+source_path: H089KA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d808a717d12156a383fa8f59f3d1f65c2c06a763
+title: H089KA-PDF-ENG
+---
+# HBR / Digital Article / Breaking Down Barriers to Belonging for Women of Color in Tech
 
-participants was that sense of belonging scores increased over time as
+See more HBR charts in Data & Visuals on HBR.org.
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+The twelve participant interviews yielded higher scores generally, with
 
-3
+Black women interviewees indicating an average score of 6.7 and mixed-
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+race women a higher average of 8.6. Hispanic and Latina women came
+
+in at a 4.3 average, lower than among those surveyed. Catalina, a Latina,
+
+commented on her company’s internal data, “I feel like…we are the
+
+forgotten minority, especially in tech, where there’s not a lot of us…
+
+[Latinos are] a small piece of the pie.”

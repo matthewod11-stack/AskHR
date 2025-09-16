@@ -1,19 +1,23 @@
-## HBR / Magazine Article / The Power of Strategic Fit
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f37659f67763088fe8df4b449332e6aea294fa1e
+title: R2502C-PDF-ENG
+---
+## strategy” principle. In his 1996 HBR article “What Is Strategy?” Michael
 
-Unfortunately, strategic ﬁt has been more easily described by academics
+Porter advanced the concept of strategic ﬁt, emphasizing that the
 
-than done by executives. Even leaders who appreciate the value of
+system of activities is more critical than individual parts, and warning
 
-strategic ﬁt struggle to understand how to achieve and sustain it. Which
+against attributing success to individual competencies alone. Roger L.
 
-components must align? Is the process a cascading sequence of strategic
+Martin and A.G. Laﬂey’s “strategy choice cascade” broke strategy
 
-choices? How often should our strategic ﬁt be reviewed?
+formulation into ﬁve key choices, with each reinforcing the others.
 
-In previous books and articles, we have oﬀered executives methods to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-improve components of their strategy. We have described, for example,
+5
 
-ways to develop a clear and compelling corporate purpose (see “What Successful Purpose Statements Do Diﬀerently,” HBR.org, March 1,
-
-2024); how to create an operating model that increases organizational
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

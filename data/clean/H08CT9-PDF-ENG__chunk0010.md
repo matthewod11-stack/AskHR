@@ -1,11 +1,7 @@
-# the change.
-
-But perhaps the ubiquity of turning points shouldn’t have been such
-
-a surprise. After all, when a transformation program is launched, the
-
-organization is tipped into liminal space between an old operating
-
-model and a new one that’s yet to be implemented. It’s hardly going
-
-to be a linear process.
+---
+source_path: H08CT9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de281467b5028edd77f50426d6aa1736c53db99d
+title: H08CT9-PDF-ENG
+---
+## or human dynamics, such as employee conﬁdence in or ownership of

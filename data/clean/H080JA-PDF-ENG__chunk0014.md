@@ -1,15 +1,21 @@
-# manager.
+---
+source_path: H080JA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5ded1e7ef511ea04bdd79b1479adb2750c960cae
+title: H080JA-PDF-ENG
+---
+# male colleagues.
 
-So, he came up with alternatives. “I know you can achieve a lot of
+They offer development opportunities.
 
-things,” he told her. “I don’t want this to be a barrier for you.” He
+We coached a pregnant mid-level manager from a Fortune 100 company
 
-advised her to be strategic about projects she chose to work on and
+who had a toddler at home. Her manager wanted to promote her, but
 
-encouraged her to turn down certain opportunities as she navigated the
+she was hesitant, which seemed to frustrate him. But then she made
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+clear to him that her hesitation was less about her ambition than her
 
-4
+life circumstances, and he started to understand. His own wife had
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+battled stereotypes while pregnant, and he didn’t want the same for this

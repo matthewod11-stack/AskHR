@@ -1,35 +1,37 @@
-# the holder upon inquiry. An honest
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: e9dc03ebccbf295e77754c88ab84d42a667ef51f
+title: california_state_university_northridge_1
+---
+## Employment contract - An agreement or contract between employer and
 
-intention to abstain from taking any unconscientious
+employee in which the terms and conditions of one's employment are provided.
 
-advantage of another, even through technicalities oflaw, together with absence of all
+For Cause - With respect to removal from office "for cause", means for reasons
 
-information, notice, or benefit or belief of facts which render transaction unconcientious.
+which law and public policy recognize as sufficient warrant for removal and such cause is
 
-In con1mon usage tl1is term is ordi.11arily used to describe that state of wind denoting
+"legal cause" and not merely a cause which the appointing power in the exercise of
 
-honesty of purpose, freedom form intention to defraud, and, generally speaking, means
+discretion may deem sufficient. They do not mean removal by arbitrary or capricious
 
-being faithful to one's duty or obligation.
+83
 
-Petitioner - One who presents a petition to a court, officer, or legislative body.
+action but there must be some cause affecting and concerning ability and fitness of official
 
-The one who starts an equity proceeding or the one who takes an appeal from a judgment.
+to perform duty imposed on him. The cause must be one in which the law and sound
 
-In legal proceeding or the one who takes an appeal from a judgment. In legal proceedings
+public policy will recognize as a cause for official no longer occupying his office.
 
-commenced by petition, the person against whom action or relief is prayed, or who
+Good faith - Good faith is an intangible and abstract quality with no technical
 
-opposes the prayer of the petition, is called the "respondent."
+meaning or statutory definition, and it encompasses, among other things, an honest belief,
 
-84
+the absence of malice and the absence of design to defraud or to seek an unconscionable
 
-Plaintiff- A person who brings action; the party who complains or sues in a civil
+advantage, and an individual's personal good faith is concept of his own mind and inner
 
-action and is so named on the record. A person who seeks remedial relief for an injury to
+spirit and, therefore, may not conclusively be determined by his protestations alone.
 
-rights; it designates a complaint.
-
-Termination of Employment - Within policies providing that insurance should
-
-cease immediately upon termination of employment, means a complete severance of
+Honesty of intention, and freedom from knowledge of circumstances which ought to put

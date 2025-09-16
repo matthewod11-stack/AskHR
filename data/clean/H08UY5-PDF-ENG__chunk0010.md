@@ -1,11 +1,13 @@
-# board members, analysts, and community.
+---
+source_path: H08UY5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c0a9f595cc78fd63fa0d902d3e051699130ee2f7
+title: H08UY5-PDF-ENG
+---
+# Engaging Stakeholders
 
-Leading CEOs often start with a few critical priorities and form working
+Real trust and alignment doesn’t happen by accident—it needs to be
 
-groups of inﬂuential voices—those culture carriers who can shape
+intentionally built. A key task for new CEOs is to build relationships
 
-opinions, rally teams, build trust, and ease concerns during change. By
-
-engaging the right voices early, the best CEOs foster alignment and real
-
-input, building momentum from within rather than relying solely on
+with stakeholders including your employees, customers, shareholders,

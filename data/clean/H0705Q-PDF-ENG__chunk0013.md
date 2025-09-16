@@ -1,29 +1,21 @@
-# any option other than a single move.
+---
+source_path: H0705Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 38b007a96882a02ce0611afd7bb2739074901d10
+title: H0705Q-PDF-ENG
+---
+## assumptions about your own behavior, as well as the behavior of anyone
 
-In examining his behavior, Bill recognized that his acquiescence with
+else involved in your decision-making.
 
-his parents’ focus on eldercare facilities was partly driven by his desire
+Bill had never had to help his parents with a decision of this magnitude.
 
-to avoid diﬃcult conversations. Bill identiﬁed an anchoring and a
+He was ﬂattered that they had asked him but having tangled with them
 
-framing bias in his behavior that could lead him — and his parents —
+on other high-stakes decisions, he was eager to be supportive. Bill also
 
-astray. The decision they needed to make was not about simplifying the
+recognized his discomfort with diﬃcult, emotional conversations. So,
 
-moving process; it needed to be about the kind of lifestyle Bill’s parents
+when his parents focused their search only on eldercare facilities that oﬀered a continuum of care because they didn’t want to face multiple
 
-wanted now, and what they might need in the future.
-
-To more clearly understand how your expectations around behavior
-
-impact your decision-making, ask yourself:
-
-- Is there a behavior around your upcoming decision that may impact
-
-your ability to see the situation more objectively?
-
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+future moves, Bill happily joined them. He assumed they would reject

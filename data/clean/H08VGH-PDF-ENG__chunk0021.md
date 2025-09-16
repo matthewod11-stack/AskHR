@@ -1,25 +1,15 @@
-## managerial job postings, along with millions of résumés and employee
+---
+source_path: H08VGH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13f10bb5d3918a0ada443941554f758748252d0e
+title: H08VGH-PDF-ENG
+---
+# HBR / Digital Article / Soft Skills Matter Now More Than Ever, According to New Rese…
 
-reviews—shows that since 2007, employers have tripled the share of
+that blend cognitive ability and social skill pay the highest premiums
 
-postings that emphasize collaboration, coaching, and inﬂuence, while
+according to his study.
 
-language related to traditional supervision has steadily declined.
+This trend is even more pronounced within the ﬁeld of management.
 
-Concrete examples show why. Amazon’s Upskilling 2025 initiative
-
-invests over a billion dollars to help hundreds of thousands of
-
-employees build new capabilities—from technical training to programs
-
-that strengthen language skills—highlighting how soft skills are as
-
-critical to advancement as technical know-how. Spotify’s “squad”
-
-model likewise rewards engineers who can bridge design, product, and
-
-marketing in autonomous, cross-functional teams. Google reached the
-
-same conclusion in its Project Oxygen study: after analyzing thousands
-
-of performance reviews, it found that its best managers excel at
+A recent paper by one of us—a large-scale analysis of 34 million U.S.

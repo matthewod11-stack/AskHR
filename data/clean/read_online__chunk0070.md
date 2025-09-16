@@ -1,17 +1,23 @@
-# Gender
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 94fd0c8ea60e1184c9ae1a13f1d6a1a50d19d7e2
+title: read_online
+---
+# Age
 
-0
+19
 
-1
+57
 
-0.63
+32.43
 
-0.483
+7.133
 
-- 0.544
+0.860
 
-0.138
+0.142
 
-- 1.715
+0.700
 
-0.274
+0.284

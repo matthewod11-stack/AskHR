@@ -1,7 +1,29 @@
-# of time, energy, and money.
+---
+source_path: H08TQX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: eb89c5fbe4f34ae2b772770fec81fb3b62fa3983
+title: H08TQX-PDF-ENG
+---
+## helpful toward coworkers, more likely to share positive feelings about
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+the organization, and less likely to search for a new job. However, when
 
-3
+employees encountered a greater share of negative experiences at the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+event (stating that some groups of employees were excluded or that they personally felt insuﬃciently appreciated, for example), these beneﬁts
+
+disappeared.
+
+The takeaway is clear: for workplace rituals to eﬀectively drive
+
+positive outcomes, the presence of positive experiences is necessary, but not suﬃcient. When planning a complex ritual event, like the
+
+annual holiday party, it may be easy to focus on a great location,
+
+awesome food, and a fun atmosphere—and all of this is important.
+
+But it is equally important to make sure that negative experiences
+
+(such as asking employees to make personal sacriﬁces to attend and insuﬃciently expressing appreciation toward them) are prevented.
+
+Otherwise, organizations risk getting zero return on their investment

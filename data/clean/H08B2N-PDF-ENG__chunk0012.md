@@ -1,11 +1,13 @@
-## HBR / Digital Article / Research: How Passion Can Backfire at Work
+---
+source_path: H08B2N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b88da05a84acfd6e89eb79d8239de49a3dacc925
+title: H08B2N-PDF-ENG
+---
+# performance.
 
-However, also in line with prior research, employees’ perceptions of
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-their performance were inﬂated beyond their actual improvement.
+2
 
-Thus, the passionate employees in our study may have been even more
-
-overconﬁdent than our data indicates, as their outward expressions of
-
-passion may have biased their coworkers to rate them even more highly
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,7 +1,7 @@
-# Omaha.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18cda060f07c8ff32b6434b9e18934254e5a2774
+title: R2503K-PDF-ENG
+---
+## in Shanghai and Dubai but also of immigrant talent in Copenhagen and

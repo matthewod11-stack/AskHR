@@ -1,15 +1,25 @@
-# investors and other stakeholders.
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fbdde17ee6c4b3875e2ea2502c80829e86defba8
+title: H08OET-PDF-ENG
+---
+# to 12% for those with gaps.
 
-For publicly held ﬁrms, this added visibility can increase sensitivity to
+- In North America, pay raises for executives without career gaps
 
-visible signals in hiring. We were curious if this translated to higher
+average 23%; this fell to 17% for those with gaps.
 
-penalties for those with resume gaps. Our data shows that appears to be
+- In Europe, pay raises for executives without career gaps average 19%;
 
-the case. Among executives hired by public companies, raises for those
+this fell to 12% for those with gaps.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- In Australia and New Zealand, the raises for both those with and
 
-4
+without gaps remained about the same—20%.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Publicly traded companies are less forgiving of career gaps.
+
+Public companies are under more scrutiny compared to privately
+
+held ones, as they must communicate and justify their approaches to

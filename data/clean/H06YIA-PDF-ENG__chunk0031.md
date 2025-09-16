@@ -1,7 +1,7 @@
-# Address your new silos.
-
-Switching an organization’s primary dimension doesn’t make silos
-
-go away — it just creates new ones. Leaders must ensure lateral
-
-coordination between the new verticals, which can be done through
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 33c1a57551d8d21b620870e9e8bec2ba3b7daffd
+title: H06YIA-PDF-ENG
+---
+# attitudes and behavioral patterns.

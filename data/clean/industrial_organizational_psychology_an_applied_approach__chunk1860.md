@@ -1,17 +1,35 @@
-# 7
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: df9b5aa0e43b6c3f6035b52c84d2753d75605445
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Motivating Employees
 
-Reduce the stress associated with attending. Frequently, employees want to attend training but don’t because they can’t afford to take time away from their scheduled duties. To encourage employees to attend training, organizations should provide workload reductions or staffing assistance.
+For a training program to be effective, employees must be motivated to attend training, perform well in training, and apply their training to their jobs.
 
-Motivating Employees to Perform Well in Training Providing Incentives for Learning. Employees motivated to learn perform better in training than their less motivated counterparts (Mathieu, Tannenbaum, & Salas, ). This motivation to learn is often related to the perception that there is an incentive (e.g., a pay raise or job advancement) to learning. That is, an electronics assembler who is taking a course in electronics will probably not study and learn unless he can see how that knowledge will improve his performance enough to result in a desirable outcome, such as a salary increase or chance of promotion. Types of incentives that can be used to motivate learning include money, job security, self-improvement, advancement, fun (an interesting training program), and opportunity to enter a new career. The incentives can be made contingent on a variety of factors, including completion of a training course, demonstration of new knowledge, demonstration of a new skill, or an increase in actual job perfor- mance.
-
-A common financial incentive method is skill-based pay, which is used by % of major U.S. organizations (Mercer Consulting, ). With skill-based pay, an employee participates in a training program that is designed to increase a particular skill an employee needs either to be promoted or to receive a pay raise. For example, employees who are currently in the position of Printer II, must learn to set their own type before they can be promoted to Printer III. The employees must be able to demonstrate their mastery of the newly taught skill rather than just attend training sessions. Similarly, in situations where promo- tion is not possible, pay increases alone are given to employees who master new skills. There are four common skill-based pay plans. Vertical skill plans pay for skill in a single job, horizontal skill plans focus on skills used across multiple jobs, depth skill plans reward employees for learning specialized skills, and basic skill plans focus on such basic skills as math and English (Recardo & Pricone, ).
-
-At FedEx each year, employees are required to watch eight hours of interac- tive video training on customer contact. Employees must score % on exams given on this material to pass. Ten percent of the employees’ performance review (salary increase) is then based on their test scores.
-
-Skill-based pay not only provides incentives for employees to successfully complete training but also results in increased savings for an organization. For example, a General Foods plant in Kansas found a % decrease in its quality reject rate and a % decrease in fixed overhead costs after introducing a skill- based pay program.
-
-Interest. Employees will be more motivated to learn when the training program is interesting. As a result, trainers who are not effective presenters do not last long. Some training topics are naturally interesting and a trainer doesn’t need to do much to spice up the material. For example, the topic of detecting deception is intrinsically interesting to most people, but the topic of performance appraisal is not. A topic can be made interesting by making it relevant to the employees’
+Motivating Employees to Attend Training The most obvious way to “motivate” employees to attend training is to require them to attend training “on the clock.” However, the majority of training opportu- nities are optional, and % of training opportunities take place on the employee’s own time (Galvin, ). Here are some strategies to motivate employees to attend training:
 
 designing and evaluating training systems
 
-295
+293
+
+Can common sense be trained?
+
+294
+
+chapter 
+
+7
+
+7
+
+7
+
+7
+
+7
+
+Relate the training to an employee’s immediate job. Employees are more likely to attend when the material covered in training will directly affect their immediate job performance. For example, employees would be more motivated to attend a training session on a computer program that the organization will begin using in two weeks than a training session on “Future Trends in Office Automation.” Thus, training should be provided “just in time” rather than “just in case.” Make the training interesting. Employees are more likely to attend when they know they will have a good time as well as learn something useful. Increase employee buy-in. When employees play a role in choosing and planning the types of training offered, they are more likely to attend. Baldwin, Magjuka, and Loher () found that employees given a choice about training programs were more motivated than employees not given a choice. Employees given a choice, but then not given the program they chose, were the least motivated. Provide incentives. Common incentives for attending training include certificates, money, promotion opportunities, and college credit. Microsoft increased employee participation in voluntary training by ,% when it created a program, “Ready, Set, Go,” in which employees who participated in voluntary training received points that could be exchanged for merchandise, travel, and gift certificates (Renk, ). Provide food. Medeco Security Locks in Salem, Virginia, has optional monthly training sessions in which a topic is presented while the employees eat lunch provided by the company. Consultants Bobbie Raynes and Ge Ge Beall both have used free pizza as incentives to get employees to attend short training sessions during lunch or dinner.
+
+y m a l A / m a l u o C r e g o R ©

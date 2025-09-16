@@ -1,15 +1,35 @@
-# sales.
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: a8c53549d92da3d72114678c2cfb710fe5374f6b
+title: prompt
+---
+# Prompt Engineering
 
-DO NOT:
+Growing research suggests that focusing on positive instructions in prompting can be more
+
+e(cid:441)ective than relying heavily on constraints. This approach aligns with how humans prefer
+
+positive instructions over lists of what not to do.
+
+Instructions directly communicate the desired outcome, whereas constraints might leave the
+
+model guessing about what is allowed. It gives (cid:453)exibility and encourages creativity within the
+
+de(cid:450)ned boundaries, while constraints can limit the model’s potential. Also a list of constraints
+
+can clash with each other.
+
+Constraints are still valuable but in ce(cid:457)ain situations. To prevent the model from generating
+
+harmful or biased content or when a strict output format or style is needed.
+
+If possible, use positive instructions: instead of telling the model what not to do, tell it what to
+
+do instead. This can avoid confusion and improve the accuracy of the output.
+
+DO:
 
 Generate a 1 paragraph blog post about the top 5 video game consoles.
 
-Do not list video game names.
-
-As a best practice, sta(cid:457) by prioritizing instructions, clearly stating what you want the model
-
-to do and only use constraints when necessary for safety, clarity or speci(cid:450)c requirements.
-
-Experiment and iterate to test di(cid:441)erent combinations of instructions and constraints to (cid:450)nd
-
-what works best for your speci(cid:450)c tasks, and document these.
+Only discuss the console, the company who made it, the year, and total

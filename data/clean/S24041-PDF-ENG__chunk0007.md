@@ -1,27 +1,29 @@
-## HBR / Spotlight Article / Power, Influence, and CEO Succession
+---
+source_path: S24041-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bfb20ebd1e4ba3557de91d9d2cbe80de97c690b1
+title: S24041-PDF-ENG
+---
+# Michel de Broin
 
-annually among the S&P 1500 alone. On average, companies that have
+Of all the decisions that a company’s board of directors makes,
 
-to ﬁre their CEOs sacriﬁce $1.8 billion each in shareholder value, a 2015
+choosing the next CEO is arguably the most crucial. A failed CEO
 
-study by PwC found. The handoﬀs from Bob Iger to Bob Chapek and
+succession can disrupt employees’ work, cause senior talent to jump
 
-then back to Iger at Disney and from Jeﬀ Immelt to John Flannery to
+ship, damage the company’s reputation, erase enormous value, and
 
-Larry Culp at General Electric serve as powerful reminders of the cost of
+ruin the careers and legacies of the outgoing CEO, the board, and the
 
-mishandling successions.
+designated successor.
 
-In theory the key parties in the process would be fully aligned on getting
+According to research by Claudio Fernández-Aráoz and colleagues, the
 
-a succession right. In reality there are multiple agendas at play.
+cost of failed CEO and C-suite successions is close to a trillion dollars
 
-The outgoing CEO may be eager to burnish his legacy by promoting
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-his accomplishments rather than helping his successor achieve hers. Or
+1
 
-he may push to continue his favorite initiatives; for the successor to
-
-retain his top team; to leave on his own terms (and his own timeline)
-
-rather than the board’s; or to play a more signiﬁcant role in choosing his
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

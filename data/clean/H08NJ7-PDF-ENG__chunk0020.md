@@ -1,27 +1,23 @@
-## HBR / Digital Article / 4 Styles of Coaching—and When to Use Them
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9313ce50f6280a5e829781f6c110254dcbd68cce
+title: H08NJ7-PDF-ENG
+---
+# Hands-off (low push + low pull)
 
-Use the hands-oﬀ style when your team members are experienced and
+At the bottom-left quadrant lies the Hands-oﬀ coaching style. Here,
 
-competent at carrying out their tasks or a project at hand. Sometimes,
+the coach acts as an advisor and gives the coachee a great amount of
 
-this can mean an employee with a lot of experience, or an employee who
+autonomy and decision-making freedom. The coachee is provided with
 
-has mastered the task. It requires you to put some checks and balances
+the tools and resources they would need to succeed at something and
 
-in place—like regular catch-ups to ensure everything is on track—while
+oﬀered support when they need it.
 
-being comfortable letting people work with little or no supervision.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-For example, say a senior product manager comes to you and says, “Our
+5
 
-new project requires us to do a couple focus group discussions. I did
-
-these for the product launch for [brand]. I think we’re okay.” As a hands-
-
-oﬀ coach, you could say, “Great. I trust you to deliver this. Maybe you
-
-could share a broad plan with me, and keep me posted on milestones? If
-
-you need any support on, say, internal budgets or approvals, I’m happy
-
-to intervene.”
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

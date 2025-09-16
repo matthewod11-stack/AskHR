@@ -1,23 +1,19 @@
-# workspaces in this rebuilding?
+---
+source_path: H08OPG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb7c70541b1ec1eda8c873dc0d5d21cd31850c27
+title: H08OPG-PDF-ENG
+---
+## After the pandemic, and its impact on our epidemic of loneliness
 
-First, for hybrid work contexts, I would encourage the use of the
+and isolation, it seems timely to acknowledge that we need to make
 
-physical oﬃce to align with project development phases for teams,
+a signiﬁcant investment in rebuilding the social fabric and social
 
-instead of a set number of days a week for the entire work population.
+infrastructure of our organizations ﬁrst, or at least in parallel with evaluating eﬀorts for the return to the oﬃce. In this respect, the physical
 
-Prior to the pandemic, most remote/distributed teams considered it good practice to have yearly team oﬀ-sites: in-person gatherings that
+workspace is seen as a unique tool to be strategically leveraged in
 
-focused the collective group’s activities around a speciﬁc purpose
+enabling that long rebuilding process.
 
-that also strengthened the overall group’s bonding and socialization.
-
-Something similar often happens at conferences, where the physical
-
-experience of the event brings together the group of attendees as a
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+What are your recommendations for the role of physical

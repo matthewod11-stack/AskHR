@@ -1,11 +1,9 @@
-# into law.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: dbdc232456ae97913e3a05a741561b81cdd55411
+title: untitled
+---
+# ers in California.
 
-- 20,000 faculty and students attended a teach-in, organized by the Vietnam Day committee on the University of California–Berkeley campus.
-
-- The ﬁrst draft card was publicly burned at a New York
-
-protest organized by the War Resister’s League.
-
-- Malcolm X was assassinated (Glennon, 1995; Morgan,
-
-1991).
+- President Johnson signed the Voting Rights Act of 1965

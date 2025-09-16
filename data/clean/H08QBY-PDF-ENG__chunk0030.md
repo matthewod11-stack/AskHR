@@ -1,7 +1,11 @@
-# mistake?
+---
+source_path: H08QBY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2d5ed1a421ba64cd0d5204cd500a5dd3a240205f
+title: H08QBY-PDF-ENG
+---
+## capabilities, you or the owner of the AI model or agent?
 
-- Are there oversight and equity questions that remain unresolved?
+- Are new legal frameworks needed, including employment-like
 
-- What guidelines exist for choosing between humans and AI for certain
-
-jobs, especially when ethics, brand reputation, or job protection are on
+contracts for AI agents, and who bears liability if the AI makes a

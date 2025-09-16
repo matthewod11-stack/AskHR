@@ -1,29 +1,37 @@
-## HBR / Magazine Article / Leaders Shouldn’t Try to Do It All
+---
+source_path: R2501E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 96fc4a3942fd41baec5e748989040c826b5ce132
+title: R2501E-PDF-ENG
+---
+## and Jon Moeller; the current CEOs of most of P&G’s business units;
 
-Like A.G., Roger also invested in future leadership. To motivate
+and the heads of many of its functions. Virtually any other CEO would
 
-individual professors and give them a clearer view of how they could
+have viewed putting the program together and teaching each subject
 
-best contribute to Rotman’s success, he met with them individually
+as requiring an impossibly large allocation of scarce time. For A.G.,
 
-once a year—something not done by previous Rotman deans (or by
+investment in this endeavor was essential for P&G’s future prosperity,
 
-any other University of Toronto dean). At ﬁrst that took two weeks a
+and he was uniquely qualiﬁed to make it.
 
-year, when Rotman had 36 full-time, tenure-stream professors. But by
+A crucial task for Roger was building Rotman’s intellectual proﬁle
 
-the end of his time there, Roger needed eight weeks a year to meet
+outside the academy. He didn’t have a comparative advantage, or even
 
-with 120 of them and the 50 adjunct professors who clamored to meet
+parity, in building its intellectual proﬁle inside—that is, by publishing
 
-as well. Nevertheless, he and his professors felt that it was one of the
+in refereed academic journals. But with the time he reclaimed from
 
-most valuable uses of his time as dean—during which turnover among
+activities that others could be doing better or that he shouldn’t have
 
-professors and faculty grievances were at historical lows. No one else
+been doing at all, he was able to write all those popular books and
 
-could have accomplished that task.
+articles while building a world-class faculty.
 
-For Knudstorp, the key task in this category was extending and
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-enlarging the Lego brand vision, which entailed stepping back from
+12
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

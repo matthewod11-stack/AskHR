@@ -1,9 +1,7 @@
-## Uma definição de psicologia positiva é, para Scorsolini-Comin (2012), a
-
-ciência que investiga o bem-estar. De acordo com Seligman e Csikszentmihalyi
-
-(2000), o bem-estar pode ser mensurado em cinco fatores: emoção positiva,
-
-engajamento, sentido,
-
-relacionamentos positivos e realização. Desse modo,
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 9ba7387832ec6ed8a434fe480be17a79f1ec67a6
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## acadêmicos" a se beneficiarem de suas práticas (SCORSOLINI-COMIN, 2012).

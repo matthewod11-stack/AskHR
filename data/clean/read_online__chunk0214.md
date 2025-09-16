@@ -1,21 +1,31 @@
-# Johannesburg.
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 42c976888a70d9e551c43092434330f2ae678424
+title: read_online
+---
+# Original Research
 
-Samuel, M. & Chipunza, C., 2009, ‘Employee retention and turnover: Using motivational variables as a panacea’, African Journal of Business Management 3(9), 410–115.
+Nakigudde, J., Seggane, M., Airaksinen, E. & Agren, H., 2009, ‘Adaptation of the multidimensional scale of perceived social support in a Ugandan setting’, African Health Sciences 9(2), S35–S41.
 
-Sarra, B., Benabou, D. & Tabeti, H., 2013, ‘The role of strategic human capital management in achieving the competitive advantage’, Academic Journal of Interdisciplinary Studies 2(3), 361. https://doi.org/10.5901/ajis.2013.v2n3p361
+Nohe, C. & Sonntag, K., 2014, ‘Work–family conflict, social support, and turnover intentions: A longitudinal study’, Journal of Vocational Behavior 85(1), 1–12. https://doi.org/10.1016/j.jvb.2014.03.007
 
-Schilling, K., 2014, ‘The relationship between job engagement, work interference with personal life, and turnover intentions’, PhD thesis, Middle Tennessee State University, Murfreesboro, TN.
+Noor, K., 2011, ‘Work-life balance and intention to leave among academics in Malaysian public higher education institutions’, International Journal of Business and Social Science 2(11), 240–248.
 
-Stanz, K. & Greyling, J., 2010, ‘Turnover of nursing employees in a Gauteng hospital group’, SA Journal of Industrial Psychology 36(1), 1–11. https://doi.org/10.4102/ sajip.v36i1.850
+Omotayo, F., 2015, ‘Knowledge Management as an important tool in Organisational Management: A Review of Literature’, Library Philosophy and Practice 1, 1–23.
 
-Stevens, S., 1946, ‘On the theory of scales of measurement’, Science 103(2684),
+Oosthuizen, R., Coetzee, M. & Munro, Z., 2016, ‘Work-life balance, job satisfaction and turnover intention amongst information technology employees’, Southern African Business Review 20(1), 446–467. https://doi.org/10.25159/1998-8125/6059
 
-677–680. https://doi.org/10.1126/science.103.2684.677
+Özbağ, G.K. & Ceyhun, G.Ç., 2014. ‘Does job satisfaction mediate the relationship between work-family conflict and turnover? A study of Turkish marine pilots’, Procedia-Social and Behavioral Sciences, 140, 643–649.
 
-Visser, D. & Coetzee, S., 2005, ‘Affective-cognitive consistency of attitude as a moderator of the job satisfaction-performance relationship’, SA Journal of Industrial Psychology 31(3), 62–69.
+Papageorgiou, E. & Callaghan, C., 2014, ‘Resource scarcity and information technology: Issues and trends among first-year accounting students’, South African Journal of Higher Education 28(5), 1575–1592.
 
-Weiss, D., Dawis, R. & England, G., 1967, Manual for the Minnesota Satisfaction Questionnaire, vol. 22, Work Adjustment Project, Industrial Relations Center, University of Minnesota, Minneapolis, MN.
+Papageorgiou, E., Callaghan, C., Coldwell, D. & Joosub, T., 2014, ‘Perceptions among professional Accounting students of self, job attractiveness and academic reputation’, Journal of Accounting Research 28(1), 25–40.
 
-Wilcox, S., 2010, ‘Social relationships and PTSD symptomatology in combat veterans’, Psychological Trauma: Theory, Research, Practice, and Policy 2(3), 175. https://doi.org/10.1037/a0019062
+Peltokorpi, V., Allen, D. & Froese, F., 2015, ‘Organizational embeddedness, turnover intentions, and voluntary turnover: The moderating effects of employee demographic characteristics and value orientations’, Journal of Organizational Behavior 36(2), 2292–312. https://doi.org/10.1002/job.1981
 
-Wilson, K., 2009. A survey of employee engagement (Doctoral dissertation, University
+Pradhan, G., 2016, Conceptualising work-life balance, Institute for Social and Economic Change, ISEC Working Paper 36, viewed 08 February 2019, from http://www.isec. ac.in/WP%20368%20-%20Gayathri%20Pradhan%20-%20Final.pdf.
+
+Riley, D., 2006, ‘Turnover intentions: The mediation effects of job satisfaction, affective commitment and continuance commitment’, PhD thesis, University of Waikato, Hamilton, New Zealand.
+
+Roodt, G., 2004, ‘Turnover intentions’, Unpublished document, Johannesburg University,

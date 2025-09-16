@@ -1,41 +1,55 @@
-# HBR / Digital Article / How Women Can Develop — and Promote — Their Personal Bran…
+---
+source_path: H046PA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 919a1c1e323ed3f9eb6dcb05f9c34cdb6146544b
+title: H046PA-PDF-ENG
+---
+# organization.
 
-might disrupt the hard-fought reputational capital you’ve built. Your
+A crisp elevator pitch isn’t useful just for times when you’re job hunting.
 
-new boss or colleagues, lacking personal experience with you, may have
+There are often opportunities to shape the way you’re perceived by
 
-no idea whether you’re any good.
+others, but most people miss them. For instance, new acquaintances
 
-Many women may feel uncomfortable talking about their
+will often ask how long you’ve been at your job or how you came to
 
-accomplishments and promoting themselves directly. But there are
+your current ﬁeld. Having a pithy answer ready means you can turn
 
-other ways to show your areas of expertise when building a brand.
+their question into an opportunity to subtly highlight your skills: “I
 
-Content creation is a good way to share your ideas and build a positive
+started out in HR and worked my way up to director. But I became
 
-reputation at scale. The precise mechanics will diﬀer based on company
+fascinated by the sales process, and realized the listening skills and
 
-policies (your ability to use social media may be limited in certain
+ability to connect with people that I’d developed in HR would enable
 
-regulated industries, for instance), but in almost any organization, there
+me to add real value to the company, so I transitioned last year and am
 
-are ways that you can you demonstrate your knowledge and help others.
+now the head of northeast sales.” You haven’t just laid out your job titles;
 
-For instance, you could volunteer to host a lunch-and-learn about a
+you’ve provided context that conveys a strong personal brand.
 
-topic you’ve been researching, start writing for the company newsletter,
+Similarly, during performance reviews, you can make a point of
 
-or oﬀer advice or respond to queries on the corporate intranet. Many
+reminding your boss about how you’re leveraging key strengths you’ve
 
-professionals ignore these opportunities, assuming they’re distractions that take them away from their “real work” or scoﬃng that no one
+developed over time. For instance, you could connect this year’s
 
-really pays attention to them. Even if these opportunities are not
+increase in client upsells to your work developing your team’s listening
 
-popular among your colleagues, higher-ups are almost always paying
+skills so that they’re more attuned to client needs.
 
-attention, since they view these channels as important vehicles for
+Share your ideas publicly. If you keep a low proﬁle and let your work
 
-transferring knowledge and sharing best practices. One college friend of
+speak for itself, you may indeed develop a good reputation among the
 
-mine, for example, while working as a sales clerk at a large retailer, got
+people you work closely with. But that’s a relatively limited number of
+
+people. Individuals in other departments or leaders many levels above you may not be aware of your contributions. And any staﬃng changes
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

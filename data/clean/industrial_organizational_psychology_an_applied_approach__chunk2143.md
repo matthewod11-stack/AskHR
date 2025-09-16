@@ -1,21 +1,15 @@
-# the “Bueno Way”:
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: a9b3e0b86d5d95a2660cb2b9099119f7886af321
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Faster Service at Taco Bueno Restaurants
 
-7
+Taco Bueno is a fast-
 
-Integrity: We base our actions and words on the highest level of honesty.
+casual Mexican-food restaurant chain. It opened its first restaurant in 1967 in Abilene, Texas, and now has over 185 locations throughout Texas, Oklahoma, Nebraska, Missouri, Louisiana, Kansas, Indiana, and Arkansas. Taco Bueno emphasizes fresh quality food, afford- able prices, and fast service times. Rather than bringing in prepared food, items such as salsa, guacamole, and seasoned beef are prepared fresh at each location—a policy that increases the food preparation time but results in higher-quality food. Menu items include burritos, tacos, muchacos, nachos, tostadas, quesadillas, and salads. Cus- tomers can order food inside the restaurant or through the
 
-7
+drive-thru lane. Both cash and credit cards are accepted.
 
-Customer focus: We strive to deliver 100% guest satisfaction.
-
-7
-
-Teamwork: We act as one, encourage communication, and respect diversity.
-
-7
-
-Accountability: We see it, own it, and take charge!
-
-7
-
-Spirit: We have fun, cel- ebrate victories, and share our success.
+Five principles constitute

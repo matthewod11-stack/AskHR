@@ -1,29 +1,25 @@
-# of the day or night.
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 87feb3c7b0388f644cd71d02cfd845c6727c72c9
+title: R2502C-PDF-ENG
+---
+## boost investor conﬁdence, enhance resilience, and create signiﬁcant
 
-Many gyms had complicated membership contracts and used high-
+barriers to entry for new competitors.
 
-pressure sales tactics that deterred potential customers. Those gyms
+When the founders started SEB, they saw many opportunities to achieve its higher purpose through competitive diﬀerentiation. Traditional
 
-signed up thousands of members, hoping most would never show
+gyms had limited hours and inconvenient locations, making it diﬃcult
 
-up to work out. Runyon and Mortensen wanted to simplify the membership process, make it more aﬀordable without compromising
+for people with busy schedules to work out. The founders decided to oﬀer a 24/7 ﬁtness solution that would cater to people who needed
 
-quality, and make signing up more customer-friendly. They introduced
+ﬂexibility in their workout schedules. They focused on opening smaller,
 
-straightforward membership plans without long-term contracts,
+simpler neighborhood gyms that eliminated little-used racquetball
 
-providing ﬂexibility and reducing the pressure on potential members.
+courts and had only the equipment that people most frequently wanted
 
-They noticed that many gyms lacked a sense of community and
+to use. They implemented high-tech security systems and access
 
-personal attention—members felt like just a number. Those gyms
-
-turned away people with health challenges. Runyon and Mortensen
-
-aimed to create a strong community feel. They focused on creating a
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-18
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+controls, ensuring that members felt safe while working out at any time

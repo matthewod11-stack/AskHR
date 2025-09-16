@@ -1,17 +1,35 @@
-# HBR / Digital Article / Leaders Can’t Make Up for Bad Behavior by Being Nice Later
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb1c4623338360412ff47efbedb3ddc6700724b6
+title: H08GNP-PDF-ENG
+---
+## poor emotional regulation, techniques such as mindfulness, stress
 
-accountable. Organizations must adopt zero-tolerance policies for
+management, and cognitive-behavioral strategies can help leaders
 
-abusive behavior, with strong protocols for handling such instances to
+better manage their emotional responses and thus prevent abusive
 
-ensure their employees’ safety and well-being.
+supervision from happening, particularly in high-pressure situations.
 
-Finally, although the lion’s share of responsibility for preventing Jekyll
+For organizations, it is essential to use all available HR tools — such
 
-and Hyde leadership falls on leaders and organizations, employees
+as training, selection, rewards, and disciplinary actions — to address
 
-also have an important role to play. Some leaders may believe that
+and reduce instances of Jekyll and Hyde leadership. Leaders across hierarchical levels should receive training on eﬀective self-regulation
 
-“good makes up for bad,” leading to repeated instances of Jekyll and
+to prevent abusive behavior that might follow their ethical actions,
 
-Hyde behavior. In such instances, it is crucial for employees to address
+or the other way around. Additionally, selecting individuals with high
+
+self-control and emotional stability can help ensure consistent, fair
+
+leadership. Organizations should also create channels for employees to
+
+report abusive behavior and have clear protocols for holding leaders
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

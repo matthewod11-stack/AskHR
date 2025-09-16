@@ -1,11 +1,25 @@
-# destruction.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: fdfe37898c6ce87936e4f29232d194fc19587292
+title: beo_chap7_1
+---
+## 74.2.3 Empire Building and Capital Suppression
 
-The same psychology, then, could help a better understanding of the reverse
+The tendency of top managers to “build empires’”—to create divisions which are too
 
-tendency—suppression of capital—in business units that are speculative but grow-
+large in an economic sense, benefiting managers at the expense of shareholders—is
 
-ing rapidly and have huge potential. As an example of capital suppression, Holm-
+often discussed as an agency cost within the standard, rational framework. Behav-
 
-strom and Kaplan (2001) note that it is hard to imagine how internal capital alloca-
+ioral economics offers a reinterpretation: when managers grow their firms at the
 
-tion could have created the kind of fast-growing technology-based firms that grew
+detriment of shareholders, they may do so not (only) because of their desire to reign
+
+a larger empire and in fuli awareness of the resulting value destruction. Rather, they
+
+may (also) overestimate how much value will be created under their leadership,
+
+as discussed in Section 7.2.6.3 on overconfidence. Or they may feel competitive
+
+towards top managers of other firms, without full awareness of the resulting value

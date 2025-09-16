@@ -1,7 +1,7 @@
-# Top-K and top-P
-
-Pu(cid:459)ing it all together
-
-Prompting techniques
-
-General prompting / zero shot
+---
+source_path: prompt.md
+pages: n/a-n/a
+chunk_id: 81857606d2a43858a4431534f9523a18d60e2623
+title: prompt
+---
+# Temperature

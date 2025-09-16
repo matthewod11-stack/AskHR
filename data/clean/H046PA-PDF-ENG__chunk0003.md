@@ -1,7 +1,29 @@
-# HBR / Digital Article / How Women Can Develop — and Promote — Their Personal Bran…
+---
+source_path: H046PA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aadcc64130f0dfcc4ff66d6067bf06fbc9786217
+title: H046PA-PDF-ENG
+---
+# Yulia Reznikov/Getty Images
 
-brand is also a powerful hedge against professional misfortune. If there
+We all know developing a personal brand is valuable, since a strong
 
-are layoﬀs or cutbacks at your company, being recognized in your ﬁeld
+reputation can put you on the radar for exciting career opportunities.
 
-makes it far more likely that you’ll be snapped up quickly by another
+When your true talents are understood, it’s far more likely you’ll be
+
+tapped for relevant and interesting assignments — and it helps you
+
+stand out in a ﬁeld of competitors. Research by Sylvia Ann Hewlett at
+
+the Center for Talent Innovation shows that cultivating your personal
+
+brand is one of the best ways to attract a sponsor — and professionals
+
+with sponsors are 23% more likely than their peers to be promoted. Your
+
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,27 @@
-# 2.3.5 Adoption Framework of PA
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 1c31a8679bfed0d6b98dbd721fc49982a6732544
+title: i
+---
+# Value
 
-PA should start with a business problem (Isson et al., Fit-Enz et al., Ferrar and Greenaway,
+The core value of people analytics is to be delivered to the organization regarding business
 
-Edwards &Edwards). Isson et al. (2016) explain the <migration= from Business Analytics to
+performance and organizational data analytics culture and to its employees regarding their
 
-People Analytics as a <switch= from the research subject for the same analysis from <customer=
+working lives.
 
-to <talent= while making efforts to answer three questions and find solutions:
+Workforce Experience refers to employees as a pillar for a successful PA. The role of PA as
 
-- 1. What happened?
+a value-creator for workforce experience is as essential as it is to the organization.
 
-- 2. What is happening and why?
+Business Outcome This typically refers to the organization’s financial performance and
 
-- 3. What will happen?
+other tangible outcomes, which were realized as a result of PA implementation
 
-The authors also recommend focusing on the IMPACT framework for adopting People
+23
+
+Culture. This pillar focuses on fostering a culture within the HR function that encourages and
+
+empowers professionals to embrace analytics.

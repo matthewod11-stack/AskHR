@@ -1,5 +1,7 @@
-# Office Politics Don’t Have to Be Toxic
-
-Done well, they can be a powerful force for inclusion. by Madeleine Wyatt and Elena Doldor
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H07268-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 210bf6bf52baf1da6d90ba25f6e658be2e975a09
+title: H07268-PDF-ENG
+---
+# Office Politics

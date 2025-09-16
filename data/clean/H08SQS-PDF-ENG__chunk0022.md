@@ -1,13 +1,17 @@
-# untampered.
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dd94ed1fde3682139df0903604f65615655c2eb6
+title: H08SQS-PDF-ENG
+---
+# HBR / Digital Article / Research: Executives Who Used Gen AI Made Worse Predictions
 
-- 4. Peer calibration and social dynamics
+soaring. The AI oﬀers an analysis uncolored by anxiety, which can
 
-The act of discussing with peers introduced a diﬀerent set of biases and
+be useful, but also means it might not second guess an optimistic
 
-behaviors, generally pushing toward caution and consensus. In a group
+trend. Users who rely on the AI’s output alone don’t get the beneﬁt
 
-discussion, individuals hear diverse viewpoints and often discover that
+of that cautious gut-check. In our experiment, the absence of “fear of
 
-others’ expectations diﬀer from their own. In our peer groups, this
-
-dynamic often led to moderating extreme views and ﬁnding a middle
+being wrong” on the AI side may have allowed bolder forecasts to go

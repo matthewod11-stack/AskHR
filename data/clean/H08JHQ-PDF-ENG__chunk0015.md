@@ -1,45 +1,15 @@
-## Mistake 3: Not Asking the Right Questions
+---
+source_path: H08JHQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ee4160157aa8e3413c86be24e37d9cf3f1f1ec9b
+title: H08JHQ-PDF-ENG
+---
+## HBR / Digital Article / 5 Mistakes Managers Make When Giving Negative Feedback
 
-Your performance conversation should be a two-way street, particularly
+Project X. I am quite disappointed in you,” you could say, “I feel that you
 
-when it comes to critical feedback. To provide your employee with
+could have done much better on the trend analysis for Project X. Had
 
-useful guidance, you need to uncover what’s driving their poor
+we reviewed the data more deeply, we would have noticed the gap in our oﬀering and our team would have won the bid. I know you can do better,
 
-performance. Asking the right questions will help you do that.
-
-Instead of starting the conversation by making conclusive statements
-
-like, “You’re not fully focused on your work these days,” ask open-
-
-ended questions such as, “How are you feeling about the job?” or
-
-“How are things going in your role?” Questions like these can help you
-
-understand the other person’s perspective, including any concerns or
-
-challenges they may be struggling with. Knowing where they’re coming
-
-from will allow you to give advice that addresses the actual problem —
-
-rather than what you think the problem is.
-
-When your employee speaks, suspend judgement and listen actively.
-
-There are many possible reasons for poor performance, and each demands a diﬀerent course of action. In my experience, some common
-
-causes include:
-
-- Personal issues such as poor health or family problems
-
-- A lack of skills or experience needed to do the job
-
-- A lack of clear direction around your expectations
-
-- A poor attitude or lack of motivation
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+so I am disappointed in how that report came out.”

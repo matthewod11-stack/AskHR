@@ -1,15 +1,45 @@
-## The Role of Leadership in Breaking the Cycle
+---
+source_path: H08GC0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 90e978194aac0b480a719101a597e462e192e892
+title: H08GC0-PDF-ENG
+---
+# to higher burnout.
 
-Leaders play a crucial role in either perpetuating or breaking the
+“During the pandemic organizations showed employees what they
 
-cycle of toxic productivity. Unfortunately, many leaders model the very
+could do when the rubber hit the road and change was required,” says
 
-behaviors that contribute to this unhealthy culture — sending emails
+Rachel Thomas, CEO and cofounder of LeanIn.org. “Today, women are
 
-late at night, forgoing time oﬀ, and glorifying overwork.
+witnessing a reversal and they’re saying, we don’t want to go backward,
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+we want to go forward. Women no longer think that prioritizing one’s
 
-6
+personal life and being ambitious and being deeply committed to work
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are somehow antithetical,” Thomas told me.
+
+Could this explain why the growth in women’s representation among
+
+all senior leadership positions in the U.S. dropped to the lowest rate
+
+in more than a decade? Or could it be a result of 2022 data from
+
+Lean In that shows that for every woman at the director level who
+
+gets promoted to the next level, two women directors are choosing
+
+to leave their company? S&P Global Market Intelligence found that in
+
+the C-suite, women lost seats for the ﬁrst time over the study period
+
+(2005-2023). They now only hold 11% of the over 15,000 CEO seats of
+
+publicly-traded companies in the U.S. With women continuing to make
+
+only incremental gains in executive and C-level positions, it’s time we
+
+recognize that work isn’t working for women. And toxic productivity
+
+isn’t helping.

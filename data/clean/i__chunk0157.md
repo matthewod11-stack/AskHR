@@ -1,9 +1,19 @@
-## 2.6 Business Analytics to People Analytics
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: ecf891b015bc79a46333bbcade7801ad654da50e
+title: i
+---
+## Figure 15: People Data Analyst skills (Source: Pease (2015))
 
-Isson et al. (2016) highlight the reliance on creativity, instinct, and the experience of marketing
+An interview by Pease (2015, page 90) also reveals the top three barriers to PA success which
 
-professionals rather than data-driven decision-making. However, as competition grew, the
+reflect the importance of Data infrastructure and skills of the HR. 65% of interviewees agree
 
-marketing industry underwent a significant transformation by integrating analytics into its
+Data Collection is a hindrance to their PA. This is also the biggest hindrance reported.
 
-operations. This shift aimed to make marketing a more strategic and accountable business
+Secondly, 59% of respondents’ organizations stated Data Integration as their hindrance. The
+
+third primary challenge of PA to organizations reported is a lack of data skills, which was
+
+reported by 53%

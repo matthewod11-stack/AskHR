@@ -1,23 +1,15 @@
-## productivity, client impact, apprenticeship, and personal experience.
+---
+source_path: S24051-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 929123ab2640e5a653dfe78414db6cc61de8a4c1
+title: S24051-PDF-ENG
+---
+# Rob Tringali
 
-The results were unequivocal: The sweet spot for in-person time is
+Internally, we’ve used real-time measurement to ﬁgure out whether it
 
-about 50%. When teams colocate half the time over the course of a
+makes a diﬀerence if our teams work in person or remotely. To answer
 
-project, they’re 10 times as likely to believe they collaborated eﬀectively
+that question, we studied 40 teams, consisting of 217 consultants, across
 
-compared with those above or below that level. Team members are
-
-25% more likely to be satisﬁed with the quality of their support, and
-
-team leaders are signiﬁcantly more likely to say that they built solid
-
-client relationships. For example, 77% of our team leaders said that they
-
-had built meaningful connections with their clients when they held
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+geographies and sectors, to understand how each model contributed to

@@ -1,29 +1,27 @@
-# Figure 1: Employee Satisfaction Analysis
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: b5b3d328035b2bee504ba6e51aae405fc03ccb7b
+title: internship_report
+---
+# 4.1.1 Employee Satisfaction Analysis
 
-In case of employee satisfaction regarding HR policy (Fig: 1) of the group, find that 46%
+(cid:69)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:83)(cid:97)(cid:116)(cid:105)(cid:115)(cid:102)(cid:97)(cid:99)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:65)(cid:110)(cid:97)(cid:108)(cid:121)(cid:115)(cid:105)(cid:115)(cid:32) (cid:48)(cid:37)(cid:32)
 
-employees are satisfied. On the other hand, 45% employees don‟t like to express their opinion in
+(cid:48)(cid:37)(cid:32)
 
-this regard. However, 9% employees are not satisfied about the HR policy of the group. The
+(cid:57)(cid:37)(cid:32)
 
-happiness that employees feel when they are satisfied with their job, work conditions and HR
+(cid:52)(cid:54)(cid:37)(cid:32)
 
-policy, used as one way of measuring a company‟s success. So, it is essential for the HR
+(cid:52)(cid:53)(cid:37)(cid:32)
 
-department to work closely with the un satisfied employees so that the HR department can find
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
 
-out the real reason behind the dissatisfaction and work to resolve the issue to make a at least 80%
+(cid:65)(cid:103)(cid:114)(cid:101)(cid:101)
 
-satisfied employee. If the HR department can make the said rate of employee satisfied then the
+(cid:78)(cid:101)(cid:117)(cid:116)(cid:114)(cid:97)(cid:108)
 
-individuals hardly think of leaving their current jobs and they ensure higher revenues for the
+(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)
 
-organization, they tend to adjust more and handle pressure with ease as compared to frustrated
-
-ones, they deal with customers in a better way and builds strong relations with them. Finally,
-
-they can achieve company‟s desire goal.
-
-HR Planning & Policy Development (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:80) (cid:97) (cid:103) (cid:101) (cid:32) (cid:52)(cid:52)(cid:32)(cid:124) (cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32)(cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32) (cid:32)
-
-(cid:32) (cid:32) (cid:32) (cid:32)
+(cid:83)(cid:116)(cid:114)(cid:111)(cid:110)(cid:103)(cid:108)(cid:121)(cid:32)(cid:68)(cid:105)(cid:115)(cid:97)(cid:103)(cid:114)(cid:101)(cid:101)

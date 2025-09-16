@@ -1,17 +1,13 @@
-## HBR / The Big Idea / The Case for Sabbaticals — and How to Take a Successful One
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 36c7ad001aa2da9fcb26567f804c303582ef2476
+title: H08LRM-PDF-ENG
+---
+## child, marriage, or other life-deﬁning event.
 
-In an eﬀort to encourage more people to pursue sabbaticals — and to
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-reap the career and life rewards — I have spent the past seven years
+2
 
-studying the ins and outs of successful sabbaticals. Here I’ll answer the
-
-most common questions about them: What distinguishes a sabbatical
-
-from a long vacation? Who takes them and why? What challenges must
-
-be overcome to do so, and how do you ensure a meaningful experience?
-
-(To share your sabbatical experience and be included in my research,
-
-take this survey.)
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

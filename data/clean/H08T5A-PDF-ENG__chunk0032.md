@@ -1,11 +1,17 @@
-## such as organizational entrainment and the costs of constant
+---
+source_path: H08T5A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c7280d55503b3c18822540d61fc17a2433016c7f
+title: H08T5A-PDF-ENG
+---
+## distribution, team dynamics, and overall organizational climate
 
-synchronization, are highly relevant to any high-tempo, project-based
+reported by employees. It allows managers to spot signs of stress,
 
-organization. If leaders want sustainable performance, they must break
+disengagement, and burnout early, and respond before issues escalate.
 
-the link between speed and success—and help their teams ﬁnd a more
+. . .
 
-human pace. This implies creating a new collective rhythm at a more
+While our research focuses on professional service ﬁrms—particularly
 
-human-centered tempo, rather than forcing individuals to follow the
+in law and accounting/consulting—many of the dynamics we observed,

@@ -1,19 +1,15 @@
-# rules of the process crystal clear.
+---
+source_path: H075PH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 415ef3b1d89434b1950226790514d04b4e8ef85a
+title: H075PH-PDF-ENG
+---
+# The Referee
 
-The referee does this by carefully evaluating the fairness and viability of both sides’ proposals. And also facilitating compromise and trade-oﬀs
+The next task for the mediator is to assess whether the dispute is
 
-or ﬁnding ways to expand the pie to move the parties out of a win-lose
+primarily a win-lose competition. If so, you need to be prepared to
 
-mentality. There may be more common ground than you think. For
+support ﬁrm and fair negotiations between them. The referee models how to eﬀectively bargain and horse trade and eﬃciently settles
 
-instance, in the hypothetical example above, it may be that the budget
-
-allocated to the project isn’t suﬃcient for either of the department
-
-heads to get their jobs done. That shared perspective can help align
-
-them toward working on a resolution together. One caution: Approach
-
-this role carefully — the evaluative nature of the approach requires high
-
-credibility to execute successfully.
+outcomes. The referee also gives guidance and direction and makes the

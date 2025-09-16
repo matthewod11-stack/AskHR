@@ -1,1 +1,11 @@
-# 1Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia 2Singapore Institute of Technology, Singapore
+---
+source_path: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review.md
+pages: n/a-n/a
+chunk_id: a79d860eb1a9ecbb9805269fda85dd26cae760a1
+title: impacts_of_workplace_culture_on_deviant_workplace_behavior_a_systematic_review
+---
+# Plain Language Summary
+
+A systematic literature review on Impact of Workplace Culture on Deviant Workplace Behaviour. Using PRISMA method, 19 publications that passed the eligibility criteria regarding the impact of workplace culture on deviant workplace behaviour has been selected from Scopus, Sage, MEDLINE and Web of Science Journals dated from 2012 to 2022. Original research, samples, or gendered employee subsamples were considered for this evaluation of workplace culture that have an impact on deviant workplace behaviour, and the research must be completed in English. This review’s results showed that deviant workplace behaviour is significantly influenced by workplace culture with different interpretation of culture and measurement used. This study has the potential to make a contribution to the body of research that focuses on workplace culture as a possible instigator of employee deviant behaviour in the workplace. The gathering of data on workplace culture and its effect on deviances will be beneficial to both public and private sector organisations because it has been established that workplace culture plays a vital role in preventing the manifestation of deviant workplace behaviour. Future studies could afford to explore other criteria to expand the sample size for systematic review to attain a larger sample in order to advance research on the effect of workplace culture on deviant workplace behaviour.
+
+Keywords behavioral sciences, humanities, social sciences, social anthropology, anthropology, organizational communication, human communication, communication studies, communication, criminology

@@ -1,11 +1,13 @@
-## Collaboration Overload, Rob Cross describes “Scott” as an executive
+---
+source_path: R2401G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e77d33fc2e9ff3f07c2497ae6dd078a2306e80b
+title: R2401G-PDF-ENG
+---
+## through Friday, on weekends, and on all Vynamic holidays.
 
-who was “ﬂying up the hierarchy” of a large company until he took
+Count how many people report to each leader. An unfortunate side
 
-charge of three big units—some 5,000 people. Scott had had just a few
+eﬀect of ﬂat structures is that executives sometimes have so many
 
-direct reports in past roles; he had 16 this time. He wanted to be “less
-
-hierarchical,” so he urged people “to bring him problems and concerns
-
-or to include him in discussions.”
+people reporting to them that their jobs become impossible. In Beyond

@@ -1,19 +1,13 @@
-## Over the past decade at Harvard University, more than 50 major capital
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3791634a53d682680dec072d72bd79d6db8f9104
+title: H08P2F-PDF-ENG
+---
+# A Healthier Materials Playbook
 
-projects covering more than 5 million square feet of real estate on
+So forever chemicals are toxic, they’re widely used in buildings, are in
 
-our campus—plus many interior renovation projects—have followed a
+our bodies, and regulation alone isn’t solving the problem. However,
 
-simple, two-part playbook. And along the way, we’ve collaborated with
-
-several major corporations that are working toward the same.
-
-- 1. Demand transparency.
-
-When your organization buys products for its buildings, manufacturers
-
-seldom provide an ingredient label like you get with food. And those
-
-that do provide building materials labels rarely, if ever, indicate whether
-
-they contain forever chemicals. As a result, we’re essentially ﬂying
+getting forever chemicals out of your buildings isn’t hard or costly.

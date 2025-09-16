@@ -1,7 +1,9 @@
-# ward psychology. Science, 20, 299–307.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 0ad75df97b4fff90013c1499e048ddbe86ca9ed6
+title: untitled
+---
+# New York: New York University Press.
 
-Morgan, C. L. (1898). Animal intelligence: An experimental study.
-
-Nature, 58, 249–250.
-
-Morgan, C. L. (1890–1891). Animal life and intelligence. London:
+Miner, B. (1904). The changing attitude of American universities to-

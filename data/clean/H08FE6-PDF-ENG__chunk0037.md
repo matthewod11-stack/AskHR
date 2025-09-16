@@ -1,19 +1,19 @@
-## patience, internal development, and strategic realignment often yield
+---
+source_path: H08FE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f861c613f19929ade4fcaa7e7947cf58546b154b
+title: H08FE6-PDF-ENG
+---
+## and related decisions such as ICP deﬁnition, market and account
 
-better results than a hasty replacement. By focusing on these four
+segmentation, coverage, and territory design. In these organizations,
 
-actions, you can create an environment where your current CRO — or a
+the CRO’s role focuses on commercial execution, people management
 
-well-prepared internal successor — can drive sustained growth, even in
+and driving change management, whereas the rev ops remit is centered
 
-challenging market conditions.
+on determining and executing commercial strategy and initiatives.
 
-This article was originally published online on October 10, 2024.
+In uncertain times, the temptation to make sweeping changes can
 
-Nick Toman is the President & Managing Partner at SBI. He is a coauthor (with Brent Adamson, Matthew Dixon, and Pat Spenner) of The Challenger Customer: Selling to the Hidden Inﬂuencer Who Can Multiply Your Results.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+be strong. But when it comes to your CRO, our data suggests that

@@ -1,15 +1,15 @@
-# HBR / Digital Article / To Make Your DEI Efforts More Effective, Challenge Outdated M…
+---
+source_path: H08PPX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8d2d10071eaaa8690e4662839692fd4ef9f57d94
+title: H08PPX-PDF-ENG
+---
+# constructively.
 
-The most widely adopted DEI models to date have often focused
+. . .
 
-on the wrong metrics, relied on siloed and overly general training,
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-and failed to clearly communicate how DEI practices are aligned
+8
 
-with speciﬁc operational goals and value. Rather than following the
-
-growing trend of blanket calls to end DEI initiatives—an approach we
-
-believe is misguided—we urge organizational leaders to take bold action
-
-in redeﬁning and reﬁning their DEI models for greater impact and
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

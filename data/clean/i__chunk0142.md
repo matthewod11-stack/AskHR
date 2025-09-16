@@ -1,11 +1,23 @@
-# referral program, high cost per hire; other recruiting process and talent management
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: 2c5dcfbf77bd7490a67d1d34b341b7e2dbca04d8
+title: i
+---
+# Source: Sierra-Cedar (2019)
 
-challenges lead to low quality of hire, low engagement of human resource; weak relationships
+In their white paper, Sierra-Cedar (2019) summarized the perspectives of 1892 respondent
 
-with hiring managers and internal applicants, and a lack of key performance indicators (KPI)
+organizations regarding their attitudes toward the use of PA. More than half of respondents
 
-or individual development plans (IDP) for the talent acquisition team. Notably, the absence
+agreed that the cost management factor was achieved by employing PA.
 
-of PA is, according to the author, one of the organization's core strategies. These factors can
+Specifically, recruiting costs, workforce alternates, and the cost of hiring may expand, and
 
-impact the company's financial resources and necessitate reevaluating its recruitment
+the company's strategy may be reshaped. According to Walford-Wright and Scott-Jackson
+
+(2018), talent acquisition is challenging. These challenges include a lack of strategy or a clear
+
+vision; absence of technology, for example, an application tracking system or lack of other
+
+automation processes, which leads to lengthy time to hire; reliance on external agencies: no

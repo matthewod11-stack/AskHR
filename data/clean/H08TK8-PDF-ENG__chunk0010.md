@@ -1,17 +1,13 @@
-## HBR / Digital Article / Leading Is Emotionally Draining. Here’s How to Recover.
+---
+source_path: H08TK8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 70da9d499bdf3d30b76c1f34cd999dc6e7dc677d
+title: H08TK8-PDF-ENG
+---
+# energy.
 
-Reflect: Don’t just move on—make meaning.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-While revisiting weighty times may sound undesirable, taking the
+2
 
-time to reﬂect on them is key to moving forward. When we ignore
-
-or suppress our emotions, they don’t disappear—they accumulate in
-
-the background, resurfacing later as increased stress, reactivity, and
-
-health issues. Reﬂection helps us process and metabolize what we’ve
-
-experienced so that we don’t unintentionally carry it around.
-
-Carve out a few minutes after a challenging moment or day, and ask
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

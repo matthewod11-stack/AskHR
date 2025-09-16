@@ -1,17 +1,11 @@
-# demographics forms more inclusive.
+---
+source_path: H082RI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6f190cf60664ec30543a76ce887992348a40559d
+title: H082RI-PDF-ENG
+---
+## Rethinking Organizational Demographics Forms
 
-- 1. Err on the side of inclusivity.
+Based on the research that we and others have conducted, here
 
-Research on identity omission suggests that, when organizations are
-
-designing demographics forms, they should err on the side of inclusivity
-
-when selecting response options. Including response options for groups
-
-in the numerical minority in a given setting — such as gender
-
-minorities — may pay big dividends in terms of signaling to members of
-
-those groups that they are valued. To achieve this goal, diﬀerent steps
-
-might be taken for external demographics forms, like job applications,
+are two concrete steps that decision makers can take to make their

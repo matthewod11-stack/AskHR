@@ -1,9 +1,11 @@
-## under uncertainty. Yet that insight hands us an impossible homework
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 03f2d165cab3b3c60ea129ddbc05717194b434bf
+title: H08SHM-PDF-ENG
+---
+## AI research pioneers Ajay Agrawal, Joshua Gans, and Avi Goldfarb
 
-assignment: pinning down exactly what qualiﬁes as judgment at any
+argued in 2018 that as AI advances, the last bastion of human advantage
 
-given moment.
-
-Tasks that demand human judgment today—choosing a medical
-
-treatment, reviewing a legal contract, scripting a ﬁlm that nails the
+will be judgment—the ability to weigh options and make decisions

@@ -1,25 +1,23 @@
-## HBR / Digital Article / When Expressing Gratitude to Employees, Timing Matters
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a2dcf05169dad93e8229011c2890a987227091d0
+title: H08HK5-PDF-ENG
+---
+## Imagine this scenario: in response to ﬁnancial pressures, your
 
-and another employee who is currently on maternity leave. You are
+company has been going through a series of downsizing rounds. With
 
-tossing and turning the night before and cannot sleep due to the ﬂood
+each round, a larger number of employees on your team are impacted.
 
-of negative emotions you have about these upcoming conversations.
+Team morale is at an all-time low and you can tell everyone is on
 
-You receive a message from your boss asking if you’re ready for the
+edge. In this latest round, you are tasked with laying oﬀ half your
 
-conversations the next day. You tell your boss that it has been really diﬃcult having these conversations every few weeks and you’re really
+team, including one employee who recently bought their ﬁrst home
 
-not looking forward to doing it yet again, especially considering the
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-circumstances of the employees on your team. What should your boss
+1
 
-say to you in this moment?
-
-According to our recently published research, the most skillful thing
-
-your boss could do is to express genuine gratitude to you in advance
-
-of this unpleasant task. In a series of studies, we analyzed four years’
-
-worth of emails and conducted interviews with employees in the
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

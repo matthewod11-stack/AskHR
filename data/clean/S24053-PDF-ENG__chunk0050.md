@@ -1,7 +1,37 @@
-# reviews, for example.
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b66309d8d5a69681c17a63f514f3274e3708de4
+title: S24053-PDF-ENG
+---
+## HBR / Spotlight Article / Teamwork at the Top
 
-Measure. Regular measurement of the team’s progress will keep the
+Build habits. In your regular meetings, dedicate a few moments
 
-journey headed in the right direction. After six to 12 months, survey or
+for team learning. And during your monthly or quarterly meetings,
 
-interview team members and others again. Then celebrate progress and
+dedicate an hour—or even a day—to yourselves as a team. The continual
+
+dedication of time is more important than the amount of time.
+
+Be opportunistic. Top teams struggle with time famine, so take
+
+advantage of meetings that have been convened for other purposes to
+
+work on teaming.
+
+Be adaptable. Team members should agree on what skills and habits they need to learn and be ready to call on diﬀerent ones as the business
+
+environment changes. When a team needs to power through a sudden adverse event, for example, it should pivot toward drive behaviors.
+
+Make teaming real and applicable. Integrate the building of skills
+
+with the execution of work activities. Practice constructive debate and
+
+listening in the context of speciﬁc questions facing the business (about,
+
+say, where to build a new factory).
+
+Reinforce. Between working sessions, encourage subgroups to form
+
+sprint teams to reinforce what they’ve learned—through after-action

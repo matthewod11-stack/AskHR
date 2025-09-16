@@ -1,23 +1,17 @@
-## less preparation than some of the other coaching styles.
+---
+source_path: H08NJ7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0d5798fc6eca0adb3b91de44f8876749e93337e0
+title: H08NJ7-PDF-ENG
+---
+# Telling (high push + low pull)
 
-The Telling style is best used when you’re coaching an employee
+At the bottom-right quadrant is the Telling (or instructive) coaching
 
-whose job is standardized and includes repetitive tasks (for example,
+style. For most managers, this is their default mode. In this style, the
 
-a call center associate or an assembly line manager). It is also suitable
+leader typically draws on their experience with the aim of passing on
 
-for when the task or individual requires more oversight, like a new
+their knowledge and helping the employee achieve their goals. Since it’s
 
-data entry executive or a recently hired social media associate. This
-
-Telling style can also be beneﬁcial in situations that require urgent
-
-or immediate action. However, you should use it sparingly and with
-
-caution. A directive style can stiﬂe creativity and demotivate your
-
-employees, as it can make them feel that they lack the autonomy
-
-to learn and grow. When you overuse this style, you could also be
-
-perceived as micromanaging your employees.
+“directive” in nature, coaching an employee using this style takes a lot

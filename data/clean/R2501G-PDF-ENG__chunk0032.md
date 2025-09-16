@@ -1,9 +1,23 @@
-## HBR / Magazine Article / Want Your Company to Get Better at Experimentation?
+---
+source_path: R2501G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3466ad4ef9ddb1e338697f522a32083061fc8c8f
+title: R2501G-PDF-ENG
+---
+# Hypothesis-Driven Innovation
 
-data-driven decisions—such as whether a particular change is better
+As organizations adopt and scale up experimentation throughout the
 
-than the status quo—by hypothesizing why that is so. The experiment
+enterprise and transition to an incentive model that rewards overall
 
-allows them to test the theory; by considering additional metrics,
+business impact, product leaders should be able to extract signiﬁcantly
 
-they can understand the mechanism that drove the result. Crucially, a
+more value by focusing on understanding the why behind test results.
+
+That requires managers to use experimentation for more than making
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

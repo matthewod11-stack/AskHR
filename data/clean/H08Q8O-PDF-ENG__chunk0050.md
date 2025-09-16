@@ -1,19 +1,15 @@
-## individual variations—and not just logic and reason but also emotions.
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 478b1f2fc79bbef72b4abff2d8d7a3dab909b653
+title: H08Q8O-PDF-ENG
+---
+## bringing managers and employees back to the oﬃce—sometimes
 
-However, with hybrid or remote work, one might wonder what
+against their will—will automatically mean that people feel more cared
 
-happens to relational proximity and how it might be achieved. When
+for and care more about their work is misplaced. From a care lens, the
 
-communication takes place only remotely, the connection is weakened
+important aspect of proximity is relational, stressing the need, when
 
-and nonverbal signals are less easy to pick up on, even when people
-
-are sitting nearby or can see each other on a screen. While relational
-
-proximity might be more diﬃcult to achieve, it still matters, and even
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+interacting and making decisions, to take into account contextual and

@@ -1,3 +1,39 @@
-## HBR / Digital Article / Should You Delegate That Decision? Ask These 4 Questions
+---
+source_path: H08VOD-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8cfb713d6a22935f3a0c2de0493c25aacd330569
+title: H08VOD-PDF-ENG
+---
+## experience, technical expertise, or direct exposure to the customer’s
 
-ownership with structure and intention, the ripple eﬀects are
+world. Other times, the right person has little to no direct contact to the
+
+customer’s world, but still has the insight or know-how to ﬁnd the right
+
+solution. Even if you outrank them, their view may be sharper.
+
+Why it helps: This question surfaces underused insight and creates
+
+space for others to bring forward what only they can contribute.
+
+- 4. Where is momentum stalled, and who could move it forward with a decision? These are stuck points—places where work is delayed either because no
+
+one feels empowered to move it forward or because there is no obvious
+
+role or responsibility that oversees this work stream. The risk isn’t a bad
+
+call; it’s no call at all.
+
+Why it helps: Leaders often try to step in and push the work. But asking
+
+this question gives someone else the authority to unblock the path.
+
+Asking yourself these four questions isn’t just about reclaiming
+
+hours. It’s about reclaiming leadership. When you hand over decision
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

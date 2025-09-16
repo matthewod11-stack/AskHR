@@ -1,5 +1,9 @@
-# clear mandates
+---
+source_path: building.md
+pages: n/a-n/a
+chunk_id: 819c6a119cb5ef2f3fd61d497c66c0d3ee9bf66c
+title: building
+---
+# with business objectives
 
-12
-
-This foundational phase is critical because it prevents the three most common causes of AI project failure: misaligned governance, technical debt, and talent gaps. By establishing clear oversight structures, technical standards, and team capabilities early, organizations avoid the costly practice of retrofitting these essential elements after problems emerge.
+- Building and empowering a core team with diverse skills and

@@ -1,13 +1,9 @@
-## roles and clear decision-making bottlenecks:
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 836b88891ce41cd74771490ffec44f476350eca7
+title: H08TKY-PDF-ENG
+---
+# inside versus outside partners.
 
-- Recommend. People in this role are responsible for making a
-
-proposal, gathering input, and providing the right data and analysis
-
-to make a sensible decision in a timely fashion.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-24
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+To make better strategic decisions, use the RAPID framework to clarify

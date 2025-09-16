@@ -1,15 +1,17 @@
-## communicator, despite her 10 years of practice expertise. Six colleagues
+---
+source_path: H075U7-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de2e40bee34cae28d062bae31ae1ca41a2f20014
+title: H075U7-PDF-ENG
+---
+## HBR / Digital Article / Stop Protecting “Good Guys”
 
-witnessed the heated verbal exchange, including his personal attacks.
+At a national committee meeting, a woman physician proposed a policy
 
-They remained silent. The meeting ended, and the committee chair pulled
+on patient safety and the challenges of hospital crowding. She presented
 
-her aside: “Don’t take it personally. Cut him some slack. I know he didn’t
+data and suggested language for the committee’s statement. Her male
 
-mean it. He’s a good guy.”
+colleague interrupted her mid-presentation, talked over her, and usurped
 
-These two vignettes are composites, based on real accounts, that
-
-illustrate a common strategy for enabling and protecting perpetrators of
-
-sexism and sexual harassment. Rates of sexual harassment in medicine
+the conversation. He called her naïve, inexperienced, and an ineffective

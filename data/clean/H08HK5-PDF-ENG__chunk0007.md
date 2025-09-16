@@ -1,17 +1,21 @@
-# The Need for Gratitude
+---
+source_path: H08HK5-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9fa1b0ca1a211f003e065a77ab04db7cc81ba016
+title: H08HK5-PDF-ENG
+---
+## ran two experiments with more than 600 online gig workers across
 
-Even under the best of circumstances, people yearn to receive gratitude
+multiple industries. Our ﬁnding: when you express gratitude to others
 
-from their bosses. In a survey of 2,000 employees, 70% reported that
+before they engage in a distressing task it helps counteract some of
 
-they would feel better about themselves if their boss were more grateful,
+the negative emotions associated with the task. Expressing gratitude early also makes employees more likely to persist through diﬃculty and
 
-and 81% said that they would work harder for a grateful boss. This
+bounce back and be resilient following failure.
 
-research also shows a “gratitude gap”: While employees wish for more
+Our ﬁndings oﬀer insight into ways to provide meaningful gratitude
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+and create a culture where your employees feel their work is seen,
 
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+supported, and valued.

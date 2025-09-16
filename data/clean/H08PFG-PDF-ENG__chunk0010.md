@@ -1,39 +1,25 @@
-## underestimate the level of support among others.
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b3f7e094cdf6dbdbe6f2c3ef637cc492dcb27a47
+title: H08PFG-PDF-ENG
+---
+# accept as normal.
 
-At work, such “pluralistic ignorance” often happens because we
+Here are three ways leaders can inﬂuence workplace norms and
 
-don’t have complete information about people’s private beliefs, and
+encourage employees to act as norm entrepreneurs to build a fairer
 
-the information we do have—observations of other people’s outward
+environment for all to thrive.
 
-behavior—is not necessarily reﬂective of how they truly feel. However,
+Change perceptions of “how we do things here.”
 
-mistaken beliefs should not keep people from utilizing opportunities at
+Our perceptions of what others around us think and do are not always
 
-their disposal, so fairness entails providing the information people need
+well calibrated, leading to inaccurate beliefs about what is acceptable or
 
-to act.
+desirable—in other words, what the social norm is in a given context.
 
-Take parental leave, something that has only relatively recently become
+For example, recent research reveals that a majority of Americans
 
-available to men in some countries. As such, the social norm regarding
-
-uptake is still evolving, and men might not avail themselves of the
-
-parental leave they’re entitled to because they fear negative reactions
-
-from their colleagues. At Santander bank in the United Kingdom, for
-
-example, a survey revealed that only 65% of male employees expected
-
-their colleagues to be supportive of ﬂexible work—even though when
-
-asked about their personal opinions, almost every man at Santander
-
-was in support of ﬂexible work.
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are in favor of diversity and inclusion initiatives, but they tend to

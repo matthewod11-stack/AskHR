@@ -1,13 +1,21 @@
-# their jobs.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 4a7e068d7dcbb3ba00854ee251ee48e3a8164248
+title: industrial_organizational_psychology_an_applied_approach
+---
+# level of job satisfaction.
 
-Job sharing A work schedule in which two employees
+Job knowledge test A test that measures the amount of job-related knowledge an applicant possesses.
 
-share one job by splitting the work hours.
+Job participation A job analysis method in which the job analyst actually performs the job being analyzed.
 
-Job specifications A relatively dated term that refers to the knowledge, skills, and abilities needed to successfully perform a job. Competencies is the more common term used today.
+Job related The extent to which a test or measure taps
 
-Job Structure Profile (JSP) A revised version of the Position Analysis Questionnaire (PAQ) designed to be used more by the job analyst than by the job incumbent.
+a knowledge, skill, ability, behavior, or other characteristic needed to successfully perform a job.
 
-Journal A written collection of articles describing the
+Job rotation A system in which employees are given
 
-methods and results of new research. Jurisdictional ambiguity Conflict caused by a
+the opportunity to perform several different jobs in an organization.
+
+Job satisfaction The attitude employees have toward

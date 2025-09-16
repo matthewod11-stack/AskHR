@@ -1,9 +1,7 @@
-# INTRODUCTION
-
-The drivers of supply chain practices in the contemporary business world are continuously
-
-evolving. As a result, the supply chain is also under continuous improvement to maintain a
-
-competitive edge under such diverse market scenarios. Although the practices and policies
-
-are market-dependent and
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: a6ab2783068e574424df114cbacafb42a82489bb
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023

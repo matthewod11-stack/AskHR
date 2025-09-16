@@ -1,7 +1,11 @@
-## cultural intelligence. Group and Organization Management, 34, 100–123.
+---
+source_path: chapter_6.md
+pages: n/a-n/a
+chunk_id: 774653bbbcc38941446e86f4b23fe390a24ba475
+title: chapter_6
+---
+# References
 
-Black, S. J., & Mendenhall, M. (1990). Cross-cultural training effectiveness: A review and a theoretical framework for future research. Academy of Management Review, 15, 113–136. Briscoe, J., & Hall, D. (1999). Grooming and picking leaders using competency frameworks: Do they work? An alternative approach and new guidelines for practice. Organizational Dynamics, 28, 37–52.
+Abbe, A., Gulick, L. M. V., & Herman, J. L. (2007). Cross-cultural competence in Army leaders: A conceptual and empirical foundation. (ARI Study Report 2008-01). Arlington, VA: U.S. Army Research Institute for the Behavioral and Social Sciences.
 
-Camiah, N., & Hollinshead, G. (2003). Assessing the potential for effective cross-cultural working between “new” Russian managers and western expatriates. Journal of World Business, 3, 245–261.
-
-Deardorff, D. K. (2006). Identiﬁcation of intercultural competence as a student outcome of
+Ang, S., Van Dyne, L., & Koh, C. (2006). Personality correlates of the four-factor model of

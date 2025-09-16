@@ -1,1 +1,19 @@
-# 35
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 7a9976b5729601f40291de79283b0aa065d03d16
+title: file_1
+---
+# 34
+
+of men and women in Finland today, which of the following statements best corresponds to your own view’. Response categories for the item were (1) the status of men in society is on average clearly higher than that of women; (2) the status of men in society is on average slightly higher than that of women; (3) men and women are equal. Secondly, the respondents were asked whether: (b) ‘women’s opportunities in working life are as good as men’s’. Response categories for the item were from 1 = fully agree to 4 = fully disagree.
+
+‘Perceptions of Workplace Gender Inequality’ were measured by a one-item index. This item measures both status and opportunities of men and women in their workplaces in one question. Respondents were asked: (c) ‘is gender equality realized at your workplace?’ Response categories were from 1 = very well to 5 = very badly.
+
+While the first dependent variable was measured by a two-item scale and the second one by a one-item scale, both variables were comparable and parallel; they both observed status and opportunities of Finnish employees related to gender inequality. Since the scales for the dependent variables were different, they were standardized.
+
+In the second thesis paper, the dependent variable ‘Perceptions of Overall Gender Inequality’ was measured by questions concerning individuals’ perceptions of gender inequality not only in family, but also in business, economy, and politics in order to obtain a comprehensive measure of individuals’ perception of overall gender inequality. Based on other country- specific surveys (Day and Devlin, 1998; Fortin, 2005, Guiso, Sapienza and Zingales, 2003; Vella, 1994) that ask similar questions, questions for the following study were developed. A factor analysis also revealed that out of the thirteen perception items measuring the general status of men and women in Finland the depicted seven items were distinct dimensions of perceptions of overall gender inequality (Table 2, Factor 1). Response categories were from 1 = fully agree to 4 = fully disagree.
+
+For the following study neither employees’ perceptions concerning family’s income and its sources (Factor 2) nor questions about equal working conditions for men and women in Finland (Factor 3) were examined since the study aimed at analyzing only perceptions of employees concerning overall gender inequality. However, in future all set of factors are planned to be examined in order to provide a broader picture of the general status of men and women in Finland.
+
+A number of independent variables were included into the first two papers. They include gender, age, marital status, education, living area, sexual harassment, psychological harassment, sector gender composition, reconciliation of work and family, family leave for male employees, family leave for female employees, employment sector, employment position, employment contract, employment relationship, requests for pay increase, and occupational categorization. The description of these independent variables are provided in papers 1 and 2 (see Appendixes 1 and 2).

@@ -1,29 +1,23 @@
-### **[What it means for CHROs: the evolution from human resources to human cultivation]{.underline}**
+---
+source_path: Gibbons.md
+pages: n/a-n/a
+chunk_id: d9e55f69f2186b4e5d0a6297d5953a1491be06fc
+title: Gibbons
+---
+### **[The existential questions every leader must face]{.underline}**
 
-[The traditional CHRO role was built on predictable assumptions: defined
-job roles, linear career paths, stable skill requirements, and humans as
-the only workers. These assumptions are dissolving.]{.underline}
+[Before you can lead others through transformation, you must confront
+fundamental questions about your own leadership:]{.underline}
 
-[Every framework underlying talent strategy now requires fundamental
-rethinking. Succession planning assumes stable roles that may not exist
-in two years. Leadership development programs train for a world that\'s
-already changed. Performance management systems measure human output
-against human benchmarks, ignoring that AI colleagues are redefining
-what \"good\" looks like. Talent pipelines prepare people for jobs while
-the definition of those jobs shifts monthly.]{.underline}
+- [About your organization: What is our organization\'s purpose when
+ > AI can do the work? How do we create meaning for our people? What
+ > makes us irreplaceably human?]{.underline}
 
-[But here\'s the deeper shift: CHROs must evolve from managing human
-resources to cultivating human potential in a hybrid workforce. This
-means thinking about AI systems not as tools but as colleagues --- team
-members with their own capabilities, limitations, and development
-trajectories. Your workforce now includes both human and artificial
-intelligence, and your role is to help them work together
-effectively.]{.underline}
+- [About humans in the age of AI: How do we honor human dignity while
+ > embracing efficiency? What becomes of careers and growth? How do
+ > we prepare people for jobs that don\'t exist yet?]{.underline}
 
-[Consider what this means practically. You\'re no longer just developing
-human leaders --- you\'re helping them learn to lead hybrid teams where
-an AI might be the most knowledgeable member. You\'re not just building
-culture among humans --- you\'re architecting collaboration patterns
-between human and artificial colleagues. You\'re not just managing
-change --- you\'re shepherding a fundamental redefinition of work
-itself.]{.underline}
+- [About yourself as a leader: What is my role when AI might make
+ > better decisions? How do I lead through others\' existential
+ > anxiety? What unique value do I bring as a human
+ > leader?]{.underline}

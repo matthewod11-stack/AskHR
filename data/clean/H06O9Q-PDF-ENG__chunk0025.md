@@ -1,23 +1,11 @@
-# Communicate
+---
+source_path: H06O9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bff0d8dacd43138f88858075df43f4e4de35865b
+title: H06O9Q-PDF-ENG
+---
+## HBR / Digital Article / A Measured Approach to Making a Drastic Change
 
-Many of these ideas require an open and honest dialogue with your
+enough that you’re willing to incur it if things go wrong and you walk
 
-current employer — which may be scary and itself comes with some
-
-risk. Remember, if your current employer truly values you, it’s in their
-
-best interest to help you resolve your uncertainty and work with you
-
-to negotiate a good resolution, as the alternative is a resignation letter
-
-that leaves little room for a mutually beneﬁcial solution. One lesson I’ve
-
-learned after watching 20 years of MBAs go through the recruitment
-
-process is that we often underestimate our power and ability to outline
-
-our own needs, negotiate, and ﬁnd a workable middle ground. There
-
-is no guarantee, but learning how seriously your employer takes your
-
-well-being is itself good data to have and very relevant to this whole
+away, you’ve in eﬀect made it a two-way door decision.

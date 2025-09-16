@@ -1,5 +1,9 @@
-# 1. Hourly rate (regular pay rate for an employee paid by the hour) - If more than 40 hours are worked, at least one and one-half
-
-times the regular rate for each hour over 40 is due.
-
-Example: An employee paid $8.00 an hour works 44 hours in a workweek. The employee is entitled to at least one and one- half times $8.00, or $12.00, for each hour over 40. Pay for the week would be $320 for the first 40 hours, plus $48.00 for the
+---
+source_path: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department
+  of Labor.md
+pages: n/a-n/a
+chunk_id: ddefe8b03901ccc400ffc8b814c806549e77d771
+title: Handy Reference Guide to the Fair Labor Standards Act _ U.S. Department of
+  Labor
+---
+## on a maximum 40-hour workweek applicable to most covered nonexempt employees.

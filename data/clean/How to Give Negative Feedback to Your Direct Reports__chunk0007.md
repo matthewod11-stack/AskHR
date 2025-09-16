@@ -1,5 +1,11 @@
-# the common
+---
+source_path: How to Give Negative Feedback to Your Direct Reports.md
+pages: n/a-n/a
+chunk_id: 8bd145d3d84668cbb3d5e171a31985e84f34d5b7
+title: How to Give Negative Feedback to Your Direct Reports
+---
+# With one foot
 
-negative emotions that come with such conversations can beamplified. The individual may feel blindsided, ashamed,betrayed, and even defensive. Instead of being able to take theconstructive feedback and make the changes you suggested, theymay just shut down.
+already out the door, it might even demotivate them to act onyour feedback. It’s a lose-lose situation for both your employeeand the organization.
 
-Your identity at work often plays an essential role in your life.When that identity is challenged by delayed negative feedback, itcan impact everything around you, including how you seeyourself.Take Patrick — he thought he was up for a promotion, but thefeedback he received proved otherwise. Someone in his position
+Think about it: Do you like to be surprised by sudden negativenews? How well are you keeping your emotions in check in thosesituations? When constructive feedback is overdue,

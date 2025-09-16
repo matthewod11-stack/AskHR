@@ -1,11 +1,15 @@
-## Dansereau, F., Graen, G., & Haga, W. J. (1975). A vertical
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 85f63547ebf35e9fd267006c96b93d8b0fbe58c7
+title: industrial_organizational_psychology_an_applied_approach
+---
+## readability. Educational Research Bulletin, 27, 37–54.
 
-dyad linkage approach to leadership within the formal organization. Unpublished report, State University of New York, Buﬀ alo.
+Daley, A. J., & Parﬁ tt, G. (1996). Good health—is it worth it?
 
-Darnold, T., & Zimmerman, R. (2006, May). Performance and intent to quit: A meta-analysis and path model. Poster presented at the annual meeting of the Society for Industrial and Organizational Psychology, Dallas, TX. Davidson, O. B., & Eden, D. (2000). Remedial self-fulﬁ lling
+Mood states, physical well-being, job satisfaction and absenteeism in members and non-members of a British corporate health and ﬁ tness club. Journal of Occupational and Organizational Psychology, 69(2), 121–134.
 
-prophecy: Two ﬁ eld experiments to prevent Golem eﬀ ects among disadvantaged women. Journal of Applied Psychology, 85(3), 386–398.
+Dalton, D. R., & Mesch, D. J. (1991). On the extent and
 
-Davidson, R., & Henderson, R. (2000). Electronic performance monitoring: A laboratory investigation of the inﬂ uence of monitoring and diﬃ culty on task performance, mood state, and self-reported stress levels. Journal of Applied Social Psychology, 30(5), 906–920.
-
-Davies, E. (1922). Transactions of the Institute of Mining
+reduction of avoidable absenteeism: An assessment of absence policy provisions. Journal of Applied Psychology, 76(6), 810–817.

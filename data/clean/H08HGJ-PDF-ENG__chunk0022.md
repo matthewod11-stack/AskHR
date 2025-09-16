@@ -1,25 +1,29 @@
-# Alternatives to Scaling
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: de66664a0726c515563267072aa133aee5b6055f
+title: H08HGJ-PDF-ENG
+---
+## HBR / Digital Article / It’s Time to Reimagine Scale
 
-We recently worked with Blue Hill at Stone Barns, one of the world’s
+What are these human diseconomies? As an example, scaling farming has proven eﬃcient, but an increasing number of voices — including
 
-top restaurants, to understand how they are trying to rearchitect the
+those in big agriculture — are warning that it is devastating our long-
 
-food industry to support life and nutrition in the long run. Their biggest
+term health and the future of the planet. Today you need to eat between
 
-challenge in getting attention in the business world for an approach as
+eight and 21 oranges to get the nutrients your grandparents received in
 
-audacious as Space X or Tesla? Critics who immediately dismiss it with
+a single orange because soil has been stripped by fertilizer, pesticide,
 
-the question, “Does it scale?” Ironically, one of the challenges Blue Hill
+and monocrops of the microbiological community that creates ﬂavor
 
-faces is to reinvent the food industry to be smaller, rather than bigger.
+and nutrition. Anyone who has tasted mass-produced strawberries
 
-In an ecological community, a system that integrates multiple types of
+and tomatoes knows ﬁrsthand that they often taste like bags of water
 
-crops, animals, and systems works better with nature and provides more
+compared to their more delicate, ﬂavorful cousins raised in good soil. In the pursuit of scale, we have created eﬃcient food that can be shipped
 
-nutrients and long-term viability. So what are the alternatives to our
+long distances but is not delicious. How can we bring these measures
 
-traditional view of scaling? Here is what leaders may want to consider as
-
-they think about their reasons for taking a given path.
+into the conversation — not just in food, but across all of business?

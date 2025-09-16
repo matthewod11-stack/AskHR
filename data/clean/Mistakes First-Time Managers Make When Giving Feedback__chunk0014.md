@@ -1,5 +1,11 @@
-# 9/10/25, 10:39 AM
+---
+source_path: Mistakes First-Time Managers Make When Giving Feedback.md
+pages: n/a-n/a
+chunk_id: 6587b2b1aa76ed87e40e025e2243e50774c62867
+title: Mistakes First-Time Managers Make When Giving Feedback
+---
+## Mistakes First-Time Managers Make When Giving Feedback
 
-Brooke Olson Vuckovic is aClinical Professor of Leadership at the KelloggSchool of Management, where she teaches on awide variety of leadership topics includingthe Moral Complexity in Leadership.
+https://hbr.org/2023/09/mistakes-ﬁrst-time-managers-make-when-giving-feedback
 
-Brookereceived Kellogg’s most prestigious teachingaward, the L.G. Lavengood Professor of theYear, in 2021.
+6/7

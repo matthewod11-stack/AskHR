@@ -1,5 +1,13 @@
-# HBR / Digital Article / Research: The Stigma Disabled People Face During Negotiations
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 415a9bb897a296b97504a451f021a14efdfec14c
+title: H08HIY-PDF-ENG
+---
+# speciﬁcally.
 
-Even when disabled employees demonstrate the same skills and
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-behaviors as their nondisabled peers, they may still be subjected to
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

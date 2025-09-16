@@ -1,15 +1,11 @@
-# today?”
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3589f152940209e097f1191383536dba3757324d
+title: H08VIB-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
 
-Marc paused, surprised. “I hadn’t even thought about using AI in our
+At the end of the workshop, Marc asked for our feedback. We responded
 
-teamwork,” he admitted. Marc isn’t alone. Again and again, we see even
-
-the most AI-savvy individuals reverting to pre-AI practices and routines
-
-when they work in group settings like daily standups, brainstorming
-
-sessions, oﬀsites, planning meetings, strategy reviews. This isn’t merely
-
-a missed opportunity, it’s a systemic blind spot that spans every corner
-
-of the organization. Teams are leaving value on the table: not only in
+with a simple question: “Did you notice that AI wasn’t in the room

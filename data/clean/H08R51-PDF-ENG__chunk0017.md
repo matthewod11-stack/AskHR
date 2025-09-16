@@ -1,19 +1,11 @@
-# success, and career advancement.
+---
+source_path: H08R51-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 53adae6d3c847262ce8f61f176c034099349afb8
+title: H08R51-PDF-ENG
+---
+## in highly ﬂexible work arrangements, some employees—particularly
 
-- 2. Working while sick reﬂects gendered job roles and pressures.
+men—may feel pressure to remain constantly available, reinforcing
 
-Occupational sorting (the tendency for men and women to cluster into
-
-diﬀerent sectors) further compounds these gendered pressures. Female-
-
-dominated sectors, such as education, healthcare and social services,
-
-and administration, often feature rigid schedules, strict attendance requirements, limited autonomy, and chronic understaﬃng, creating
-
-structural barriers that discourage sick leave use. Male-dominated
-
-sectors, such as engineering, ﬁnance, and tech, while typically oﬀering
-
-more formal schedule ﬂexibility, frequently perpetuate an availability
-
-culture that rewards visible responsiveness, paradoxically increasing
+cultural norms that equate being “always on” with commitment,

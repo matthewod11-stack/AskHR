@@ -1,21 +1,19 @@
-# Role Connection
+---
+source_path: H08FH3-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7a8b8a0406e83605dd75c71d8072c343fb5e75a5
+title: H08FH3-PDF-ENG
+---
+# HBR / Digital Article / What Employers Get Wrong About How People Connect at Work
 
-Psychologist Mihaly Csikszentmihalyi researched and wrote about the
+what you did. If you’ve had an opportunity to work with an organization
 
-idea of “ﬂow”: the experience of being so absorbed in an activity that
+that met those needs, you likely felt a boost of employer connection.
 
-other things seem to almost fade away. While most of us won’t ﬁnd a
+When there’s low employer connection, going to work can feel like the
 
-role where we spend the majority of our time in a ﬂow state, we can
+proverbial “clocking in.” Lack of employer connection can not only
 
-deﬁnitely gather insights about what motivates us and ﬁnd ourselves in
+inﬂuence an employee’s job performance, but it can also inﬂuence the
 
-satisfying roles.
-
-When we experience role connection, we have a clear understanding of
-
-what our job is, we’re engaged in what we’re doing, and we have insight
-
-into how we can advance. When we have role connection, we are lifted
-
-up by the work we do.
+talent an organization attracts.

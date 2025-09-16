@@ -1,9 +1,7 @@
-## 6.Performance assessment and development and employee lifetime value
-
-As the biggest asset for organizations, Human Resources is also considered as the <source of
-
-innovation=. The dedication and enthusiasm of the people grant organizations a competitive
-
-edge. To fully unlock this potential value, organizations must take proactive steps to harmonize
-
-48
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: df376f88f9665a14ea65610c99ffa530da759305
+title: i
+---
+# performance and engagement metrics

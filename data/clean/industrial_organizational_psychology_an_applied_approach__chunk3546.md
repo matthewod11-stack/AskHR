@@ -1,19 +1,27 @@
-# Chapter Summary
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: eda7b5bc524e4ea3f9a6a04077177307d9bb5945
+title: industrial_organizational_psychology_an_applied_approach
+---
+# What Do You Think? 7
 
-In this chapter you learned: 7
+In situation A, did you see any ethical problems? If so, what were they and why do you say that? What
 
-Employees react to change by going through the stages of denial, defense, discarding, adaptation, and finally, internalization. Employees best accept change if the reason behind the change makes sense and the person making the change is trusted and respected. Change is best implemented by creating an atmosphere for change, com- municating details, making the change over a reasonable period of time, and training employees. Employees can best accept change if they speed up, take initiative, and spend energy on solutions rather than complaining. The five levels of employee input are: following, ownership of own product, advisory, shared, and absolute. Layoffs can be avoided by using temporary employees, outsourcing, offer- ing early retirement programs, and creating alternative work schedules. There is a proper way to conduct a layoff. Layoffs have negative effects on victims, survivors, the organization, and the community. Compressed work schedules and flextime increase job satisfaction and decrease absenteeism. Although shift work often is economically necessary, research indicates that it has negative effects on physical health, performance, and leisure time.
+7
+
+7
+
+would you do differently, if anything, if you faced this situation as a leader?
+
+What was the “end” in this case and what was the “means”? That is, what was the change the company wanted to make and what steps did they take to make the change? Did the end justify the means?
+
+In Situation B, were there any ethical problems? If so, what were they and why do you think that?
 
 7
 
 7
 
-7
+What was the “end” in Case B and what was the “means?” That is, what was the change the company wanted to make and what steps did they take? Did the ends justify the means? What would you do, as a leader, if you faced this situation?
 
-7
-
-7 7
-
-7
-
-7
+What was the change that the department manager wanted to make and how did she do it? Did the end justify the means?

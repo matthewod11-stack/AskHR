@@ -1,11 +1,11 @@
-# Upper Saddle River, NJ: Prentice Hall.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: f808deead935d5b551a1022a4b88d4ad9a65f2fa
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Amsbary, J. H., & Staples, P. J. (1991). Improving administrator/
 
-Anderson, N., & Witvliet, C. (2008). Fairness reactions to
+nurse communication: A case study of “management by walking around.” Journal of Business Communication, 28(2), 101–112.
 
-personnel selection methods: An international comparison between the Netherlands, the United States, France, Spain, Portugal, and Singapore. International Journal of Selection & Assessment, 16(1), 1–13.
-
-Anderson, N. H. (1965). Adding versus averaging as a stimulus combination rule in impression formation. Journal of Experimental Psychology, 70, 394–400.
-
-Andersson, B. E., & Nilsson, S. G. (1964). Studies in the
-
-reliability and validity of the critical incident technique. Journal of Applied Psychology, 48, 398–403. Andrews, L. W. (2005). Hiring people with intellectual
+Anastasi, A., & Urbina, S. (1997). Psychological testing (7th ed.).

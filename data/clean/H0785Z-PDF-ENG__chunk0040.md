@@ -1,13 +1,29 @@
-## Societal issues around sustainability, racial justice, and geopolitics
+---
+source_path: H0785Z-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6613fc0fb83e2f411f8bd007f1826dcf78a69e41
+title: H0785Z-PDF-ENG
+---
+# encourages collaboration.
 
-aﬀect many aspects of business, from strategy to the ability to hire
+Fidelity Investments, the ﬁnancial services ﬁrm, recently restructured
 
-the best talent. Today, for example, it is impossible to ignore the
+its personal investing group in a team format. Each team has a clear
 
-tricky issues raised by China’s intermixing of business and the Chinese
+mission and much autonomy in how to accomplish it. The roughly
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+5,000-person organization now has just three layers below the president
 
-7
+and operates at lower cost and with shorter cycle times for innovation.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+The control function that managerial layers used to perform is now
+
+done through software that generates detailed metrics. Reports are
+
+produced 24/7 and highlight any red ﬂags in the data.
+
+- 4. From inside-out to outside-in management. To keep a company
+
+competitive over the long term, leaders must know what is happening
+
+far beyond their own industry, geography, and existing customers.

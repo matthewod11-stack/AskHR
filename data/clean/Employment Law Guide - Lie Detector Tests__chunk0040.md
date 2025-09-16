@@ -1,11 +1,11 @@
-## during each day, and the duration of each test period.
+---
+source_path: Employment Law Guide - Lie Detector Tests.md
+pages: n/a-n/a
+chunk_id: 32526d2700fb75649c2e6aec1ee8922dd6f7c58e
+title: Employment Law Guide - Lie Detector Tests
+---
+# examinations
 
-All exempt private sector employers and polygraph examiners retained to administer examinations to persons
+All polygraph examiners must maintain all opinions, reports, charts, written questions, lists, and other records
 
-identiﬁed by employers must keep the required records safe and accessible at the place or places of
-
-employment or business or at one or more established central recordkeeping oﬃces where employment or
-
-examination records are customarily maintained. If the records are maintained at a central recordkeeping
-
-oﬃce, other than in the place or places of employment or business, such records must be made available within 72 hours following notice from the Secretary of Labor or an authorized representative such as Wage
+relating to polygraph tests of such persons, as well as records of the number of examinations conducted

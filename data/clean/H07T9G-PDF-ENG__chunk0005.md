@@ -1,23 +1,43 @@
-# improvements.
+---
+source_path: H07T9G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6821b25f5ba81900d95376abc8d79f4ce4d964af
+title: H07T9G-PDF-ENG
+---
+## HBR / Digital Article / Help Your Employees Develop the Skills They Really Need
 
-Compare that with Wipro, where Abhijit was previously chief learning oﬃcer. Business leaders from the insurance unit were trained in a
+Yet we need to do better. We know that, after decades of trying,
 
-speciﬁc skill: storytelling. Executives went to a literary festival in which
+skills related to lean manufacturing, agile development and overcoming
 
-they were exposed to professional storytellers over three days. Each
+unconscious bias, just to name a few, are woefully under-adopted in
 
-night they also attended a structured workshop that helped them process what they observed. After returning to the oﬃce, they received
+most organizations. In fact, a recent report by McKinsey found that 87%
 
-continued peer mentoring for an extended period and were encouraged,
+of ﬁrms surveyed expect to have a skills gap in the next ﬁve years.
 
-in turn, to train their own teams on storytelling. This not only helped
+More training is not the answer. We can’t simply send employees
 
-spread the skills, but gave the leaders the opportunity to further deepen
+to workshops focused on whatever proﬁciency is fashionable at the
 
-their own proﬁciency as they taught others. The result: a dramatic
+moment and expect to get results. What is essential is to build coherent
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+skills-based strategies. We must think seriously about which speciﬁc
 
-2
+skills are to be targeted, who has to learn them, and what mix of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+education, experience, and exposure will be eﬀective to create the skills-
+
+based organizations we need to meet the challenges of the future.
+
+For example, at the software company PKWARE, where Todd was
+
+executive vice president, the company invested more than 1% of
+
+revenues on sales training focused on aligning the team around a
+
+particular process. While the staﬀ was educated, it failed to yield the
+
+expected impact because the employees weren’t consistently getting the
+
+mentoring and real-time coaching they needed to sustain the initial

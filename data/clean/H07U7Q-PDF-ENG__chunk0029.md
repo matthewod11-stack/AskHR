@@ -1,27 +1,23 @@
-# customers in new ways.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16467e44f4dcd16d4144c9531c0c8124d6193b76
+title: H07U7Q-PDF-ENG
+---
+# some other way?
 
-We’re also really focused on ways we can help support our higher
+JASON BUECHEL:
 
-purpose in nourishing people on the planet. It’s not just growth for
+It’s really ﬁguring out how we expand our reach and impact. One of the
 
-growth’s sake, but how do we help be the force for change?
+ways we’ll do that obviously is adding new stores, but it’s also ﬁnding
 
-One of the things I’m really passionate about is regenerative agriculture.
+new ways that we can serve customers.
 
-This is an opportunity that’s ultimately going to allow us to take the
+One of the things we launched earlier this year is the ability to have
 
-products that we know and love today and make sure that we can
+items directly shipped to our customer’s homes through Amazon. We
 
-continue to produce those for future generations.
+currently have over 800 products available within our exclusive brands,
 
-ADI IGNATIUS:
-
-For people who aren’t familiar with the idea of regenerative products or
-
-agriculture, what does that that mean?
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-8
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+our 365 brand as an example. That’s something we can serve more

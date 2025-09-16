@@ -1,15 +1,25 @@
-## Why AI Created Overconfidence and Optimism
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8d1f825bec0a5f803cc4cadcfbf03803bfd700d
+title: H08SQS-PDF-ENG
+---
+## Among all of our participants, about a third oﬀered pin-point
 
-What might explain these very diﬀerent outcomes? Why would
+predictions in their initial estimates (meaning they oﬀered ﬁgures with
 
-consulting an AI tool lead to inﬂated estimates and overconﬁdence,
+one or more decimals) which previous research has established as an
 
-while peer discussions provoked greater humility and conservatism? We
+indicator of overconﬁdence. What surprised us was that after consulting
 
-have isolated ﬁve reasons:
+with peers or ChatGPT, participants’ overconﬁdence in the accuracy of
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+their forecasts systematically changed.
 
-4
+Conversing with ChatGPT signiﬁcantly increased the participants’
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+tendency to oﬀer pin-point predictions, while participants in the peer
+
+discussion group became signiﬁcantly less likely to use pinpoints in
+
+their revised estimate. In other words, their overconﬁdence decreased.

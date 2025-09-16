@@ -1,3 +1,7 @@
-## How to Self-Promote (When You Don’t Like to Self-Promote)
-
-can even tag your boss, key stakeholders, and influencers.If you’re feeling really ambitious, you might even seek outspeaking opportunities as a panelist at industry or school alumniconferences. Participation in these external communicationschannels will help you garner social proof and build your “expert”reputation externally. This will shape how those within theorganization see you.As you look into these different methods of self-promotion, justbe sure to keep your brand and messaging consistent. A strongreputation is built by consistently proving that you’re punchingabove your weight and delivering at the level you want to move to.. . .To advance in your career, you need to make the case for yourpromotion — even and especially when it’s uncomfortable.Taking control of the narrative is key. Own your story and craft acompelling vision of your future self — one that positions you as achange agent able to accomplish your goals in a new role andinspire others along the way. Only then can you attract thenecessary sponsorship and support for career advancement.
+---
+source_path: "How to Self-Promote (When You Don\u2019t Like to Self-Promote).md"
+pages: n/a-n/a
+chunk_id: d71f92dbf2432956ecdcada5464c7318d845f6f6
+title: "How to Self-Promote (When You Don\u2019t Like to Self-Promote)"
+---
+# 9/10/25, 11:57 AM

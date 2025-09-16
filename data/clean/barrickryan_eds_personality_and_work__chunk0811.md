@@ -1,13 +1,13 @@
-# Jossey-Bass.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 990ac397af47d7bded98f56bfff24c753266245b
+title: barrickryan_eds_personality_and_work
+---
+## ity and Social Psychology Review, 4, 255–277.
 
-Schneider, B. (2001). E = f(P, B) + e: Evolution of the ASA Model. Paper pre- sented at the Annual Conference of the Society for Industrial and Organizational Psychology, San Diego, CA.
+Rokeach, M. (1973). The nature of human values. New York: Free Press. Rowe, D. (1987). Resolving the person-situation debate: Invitation to an interdisciplinary dialogue. American Psychologist, 42, 218–227. Rynes, S. L., & Gerhart, B. (1990). Interviewer assessments of applicant
 
-Schneider, B., Goldstein, H. W., & Smith, D. B. (1995). The ASA frame-
+“ﬁt”: An exploratory investigation. Personnel Psychology, 43, 13–35.
 
-work: An update. Personnel Psychology, 48, 747–773.
-
-Schneider, B., Smith, D. B., & Goldstein, H. W. (2000). Attraction-selection- attrition: Toward a person-environment psychology of organizations. In W. B. Walsh, K. H. Craik, & R. H. Price (Eds.), Person-environment psychology: New directions and perspectives (pp. 61–85). Mahwah, NJ: Erlbaum.
-
-Schwartz, S. H. (1994). Are there universal aspects in the structure and contents of human values? Journal of Social Issues, 50, 19–45. Schwartz, S. H., & Sagiv, L. (1995). Identifying culture-speciﬁcs in the con- tent and structure of values. Journal of cross-cultural psychology, 26, 92–116.
-
-Simon, H. A. (1973). The organization of complex systems. In H. H. Patee (Ed.), Hierarchy theory (pp. 1–27). New York: Braziller. Slaughter, J. E., Zickar, M. J., Highhouse, S., Mohr, D. C., Steinbrenner, D.,
+Saks, A. M., & Ashforth, B. (1997). A longitudinal investigation of the re- lationships between job information sources, applicant perceptions of ﬁt, and work outcomes. Personnel Psychology, 50, 395–426. Schein, E. (1992). Organizational culture and leadership. San Francisco:

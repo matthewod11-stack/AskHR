@@ -1,3 +1,9 @@
-## Chapter 2 • Performance Management Process
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: a813eb4461b58831331c9152a09f139b2e954225
+title: performance_management_3rd_edition_by_aguinis
+---
+## 2.6 PERFORMANCE RENEWAL AND RECONTRACTING
 
-The performance management process includes a cycle which starts with pre- requisites and ends with performance renewal and recontracting. The cycle is not over after the renewal and recontracting stage. In fact, the process starts all over again: there needs to be a discussion of prerequisites, including the organization’s mission and strategic goals and the job’s KSAs. Because markets change, customers’ preferences and needs change, and products change, there is a need to continuously monitor the pre- requisites so that performance planning and all the subsequent stages are consistent with the organization’s strategic objectives. Recall that, in the end, one of the main goals of any performance management system is to promote the achievement of organization- wide goals. Obviously, if managers and employees are not aware of these strategic goals, it is unlikely that the performance management system will be instrumental in accomplishing the strategic goals.
+The final stage in the performance process is renewal and recontracting. Essentially, this is identical to the performance planning component. The main difference is that the renewal and recontracting stage uses the insights and information gained from the other phases. For example, some of the goals may have been set unrealistically high given an unexpected economic downturn. This would lead to setting less ambitious goals for the upcoming review period.

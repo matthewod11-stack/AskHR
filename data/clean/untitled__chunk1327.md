@@ -1,5 +1,9 @@
-# Hillsdale, NJ: Erlbaum.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 833ca092db86a6f17c08afd391f44e5a4ac09b54
+title: untitled
+---
+# Harcourt, Brace.
 
-Plomin, R. (1994). Genetic research and identiﬁcation of environ- mental inﬂuences. Journal of Child Psychology and Psychiatry, 35, 817–834.
-
-Plomin, R., & DeFries, J. C. (1985). Origins of individual differ- ences in infancy: The Colorado adoption project. Orlando, FL: Academic Press.
+Plomin, R. (1986). Development, genetics and psychology.

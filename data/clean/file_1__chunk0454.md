@@ -1,3 +1,17 @@
-# 105
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 5ed37cfe0434c32c9abe9293cb81310929078868
+title: file_1
+---
+# 104
 
-Drawing on the literature, the next section presents an extensive theoretical analysis of each factor which is suggested to have an impact on individuals’ perceptions of the gender pay gap. The last section provides conclusions, limitations, and directions for future research.
+Differences in findings of academic research and the Eurobarometer may lie in the explanations of the gender pay gap. If the gender pay gap is mainly a result of observable differences among individuals such as differences in education, skills, length of work experience, it is not surprising that individuals do not perceive the existence of the gender pay gap. Quite the opposite, if the gender pay gap is due to unexplained variables such as various types of discrimination, individuals might perceive to a greater extent and struggle against it.
+
+Generally speaking, there is a visible gap between the gender pay gap and the way individuals distinguish and perceive it regardless of the reasons of the gap. Investigating the perceived gender pay gap, which refers to the way individuals perceive the differences in average hourly earnings of male and female employees after controlling for human capital factors such as education and tenure, is crucial because failing to see it can be costly (Okpara, 2006). For instance, if a woman gets lower salary for the same work made by a man, she is worse off economically. In contrast, if an individual perceives the existence of the gender pay gap that does not occur statistically, it can cause stress, worry, and job dissatisfaction.
+
+Several explanations have been offered to account for individuals’ perceptions of the gender pay gap. Lange (2008) argued that the gender pay gap might not be perceived as such if it does not match a stereotype. The fact that many female employees consistently perceive less pay as fair in comparison with their male counterparts could be another reason why victims of the gender pay gap might not perceive the existence of the gap (Gerhart and Rynes, 2003). Alternatively, women may recognize the gender pay gap but accept it by considering other aspects of work as more important. According to Jackson and Grabski (1988), women may restore psychological equity in the face of actual gender pay gap, which they may view as beyond their power to redress.
+
+Given these explanations, most research focused on why women and men perceive the gender pay gap differently (Judge and Livingston, 2008). However, in practice, not only gender has an impact on the way individuals in various organizations, industries and societies perceive the gap. More theoretical and empirical work is needed to shed light on the question of how individuals understand the phenomenon of the gender pay gap and why they perceive the phenomenon differently across different workplaces and countries. A thorough study is required to explore the whole range of individual and organizational factors that may have an impact on whether and to what extent individuals perceive the gender pay gap to exist.
+
+This paper broadens the domain of the gender pay gap research by developing a conceptual model of the factors that influence individuals' perceptions of the gender pay gap. By scrutinizing social comparison (Festinger, 1954), equity (Adam, 1965), occupational socialization (Smith and Rogers, 2000), relative deprivation (Crosby, 1982), expectancy (Vroom, 1964) and social dominance theories (Sidanius and Pratto, 1999) as well as the gender socialization perspective (Stockard, 1999), the current paper links a number of theories and perspectives in order to identify individual and organizational antecedents of individuals’ perceptions of the gender pay gap.

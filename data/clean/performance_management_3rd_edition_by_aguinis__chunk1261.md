@@ -1,3 +1,11 @@
-# TRAINING PROGRAMS, AND PILOT TESTING
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 0976496e93573d3f96aa06549f1dd21819880a4d
+title: performance_management_3rd_edition_by_aguinis
+---
+# online.
 
-As should be evident by now, the implementation of a performance management system requires the involvement of many players. Specifically, the successful implementation of the system requires a clear understanding of how the system works and a clear understanding of its benefits from the different perspectives of all involved. In other words, successful implementation requires wide organizational support and acceptance. Initially, it may be that each organizational layer and unit will include only one or just a handful of individuals who are knowledgeable and supportive of the system. These “champions” are likely to serve as advocates and resources for the system. Eventually,
+Chapters 4 and 5 described operational details about how to measure performance. Chapter 6 described operational details about appraisal forms and the process of providing performance ratings. This chapter, the last one in Part II, continues to address operational issues in implementing a performance management system. Specifically, it addresses the steps needed before the system is put in place, such as setting up good communication and appeals procedures that will gain system acceptance, implementing training programs to minimize rating errors, and pilot testing the system. Finally, the chapter describes how to monitor the system once it is in place to make sure it is working properly as well as the possibility of implementing the system online.
+
+7.1 PREPARATION: COMMUNICATION, APPEALS PROCESS,

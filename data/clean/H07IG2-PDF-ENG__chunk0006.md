@@ -1,17 +1,7 @@
-## for development — all without any assistance from technology.
-
-Now, a version of this idea is making a comeback in some companies,
-
-and we expect to see it in more. It will require not only an
-
-appreciation and understanding of AI, but also a renewed appreciation
-
-of business processes as a structure for improving work. As AI emerges
-
-as a universally applicable, general-purpose technology, it appears
-
-increasingly possible that it can enable the kind of radical redesign of
-
-business processes originally envisaged by reengineering’s proponents.
-
-(One of us — Davenport — wrote the ﬁrst book on the topic.)
+---
+source_path: H07IG2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 93f047d804cf7d94a0cb9319415f27dc27ad2eb2
+title: H07IG2-PDF-ENG
+---
+## and Six Sigma for repetitive processes, and Agile Lean Startup methods

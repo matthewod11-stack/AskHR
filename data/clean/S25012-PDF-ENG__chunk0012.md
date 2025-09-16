@@ -1,25 +1,17 @@
-## Jan Brecht, then the chief information oﬃcer of Mercedes-Benz
+---
+source_path: S25012-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 15f648b9005ea2773f15e0cf0666f6e9e60e6cec
+title: S25012-PDF-ENG
+---
+## ﬂoor, in the supply chain function, and in software design.
 
-Group, noted earlier this year. “Data is becoming everyone’s business
+The company’s MO360 Data Platform connects its passenger-car plants
 
-at Mercedes-Benz. Our colleagues on the shop ﬂoor have access to
+worldwide to the cloud, enhancing transparency and predictability
 
-production and management-related real-time data. They can work
+across its production and supply chain operations and enabling the
 
-with drill-down dashboards and make data-based decisions.”
+deployment of AI and analytics on a global scale. “With the MO360
 
-As more operations become digitized, kaizen—augmented by generative AI and other advanced technologies—is once again reshaping process management.
-
-Using prompts in everyday language, rather than technical database
-
-queries, a production employee can ask about assembly-line
-
-bottlenecks or hard-to-notice opportunities for streamlining processes
-
-and receive data-rich insights from the AI. Such insights amplify, rather
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Data Platform, we democratize technology and data in manufacturing,”

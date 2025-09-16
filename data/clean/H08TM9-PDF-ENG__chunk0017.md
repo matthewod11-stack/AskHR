@@ -1,17 +1,23 @@
-## HBR / Digital Article / 3 Ways to Mitigate Executive Turnover
+---
+source_path: H08TM9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e4198b305cf40a0921392458394557868fefbe3c
+title: H08TM9-PDF-ENG
+---
+# equally to organizational performance.
 
-- High performer retention. An emphasis on keeping higher
+Targeting retention eﬀorts can ensure organizations don’t overspend to
 
-performing executives may be the best approach to maintaining
+retain less essential executives. There is no single “right” criteria to use
 
-overall performance, but it is often the costliest as these executives
+when deciding which executives to try and retain, rather the CHRO and
 
-have more exit options.
+CEO should select what best ﬁts their organizational priorities, goals,
 
-- Critical capability retention. Executives who have capabilities that
+and strategy. Examples of potential criteria include:
 
-are critical to organizational success, such as technical acumen or
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-institutional knowledge, may be costlier to replace.
+3
 
-- High potential retention. Focusing on retaining executives who can
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

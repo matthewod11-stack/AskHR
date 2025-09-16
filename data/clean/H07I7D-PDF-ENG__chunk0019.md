@@ -1,15 +1,13 @@
-# potentials.
+---
+source_path: H07I7D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6dabddc812b69e423742aa6c5aa1ee3996de1ec2
+title: H07I7D-PDF-ENG
+---
+# What Got You Here Will Not Get You There
 
-But to reach the next level, high potentials who’ve been rewarded for
+Transforming from individual contributor to team leader can be quite diﬃcult. Over the past 20 years, sponsors pointed to two key strengths
 
-personal accomplishments must learn to recalibrate to a deﬁnition
+— an ability to drive results and functional or technical expertise — as
 
-of success based on the team’s collective performance. Relying on a
-
-past track record of success will not be enough as high potentials
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the central reasons for identifying and nominating employees as high

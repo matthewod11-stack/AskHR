@@ -1,11 +1,13 @@
-# partnerships?
+---
+source_path: H089M8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0440c62e2e5c26fb5b73533041ab09c54f596df1
+title: H089M8-PDF-ENG
+---
+# skillsets.
 
-We found that these two types of people approach the cofounder formation process with diﬀerent mindsets, with lead founders more
+This mismatch between lead founders and cofounders was evident
 
-focused on immediate execution and potential cofounders more
+across all our datasets and studies. Why is this the case? And what
 
-focused on whether joining the entrepreneur would be preferable to
-
-whatever they are currently doing. This creates a mismatch between
-
-priorities in terms of cofounder compatibility, which complicates the
+can lead founders do to overcome this mismatch and successfully form

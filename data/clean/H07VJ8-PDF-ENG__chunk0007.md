@@ -1,13 +1,11 @@
-## Fairness Act (PWFA) and the Providing Urgent Maternal Protections
+---
+source_path: H07VJ8-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 40aca2eb6fae2cdf72bb566c1e99c0be2ff0cfa2
+title: H07VJ8-PDF-ENG
+---
+# Image Source/Getty Images
 
-for Nursing Mothers (PUMP) Act. How has your company met the
+Two bills to provide protections for pregnant and nursing employees
 
-regulations in both bills? Has it simply complied, or has it taken extra
-
-steps to support pregnant and nursing employees?
-
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+were signed into law at the end of last year: the Pregnant Workers

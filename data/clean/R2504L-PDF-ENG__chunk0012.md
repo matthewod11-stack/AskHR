@@ -1,21 +1,17 @@
-## collective tasks not explicitly part of their KPIs.
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb382a3bf48222eaa04d67dfdffd7d5c2c0087bc
+title: R2504L-PDF-ENG
+---
+## or more than one-third of the workforce per year.
 
-In hybrid or remote arrangements, employees cannot stop by a
+Collaboration and learning suffer. The usual advice to supervisors of
 
-colleague’s desk and get a quick answer, so they must ping one another
+remote workers is to be concrete about what you want them to be
 
-electronically for help. But in our interviews we found that people
+doing. We found exactly that happening, with a perverse outcome:
 
-often indicated online that they were unavailable because they were
+Employees focused on meeting their individual KPIs and accomplishing
 
-focused on their KPIs. They typically responded to requests for help
-
-only after they had ﬁnished their own tasks—unless they had a personal
-
-relationship with the employee asking for help, in which case they were
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+their required tasks at the expense of helping colleagues or working on

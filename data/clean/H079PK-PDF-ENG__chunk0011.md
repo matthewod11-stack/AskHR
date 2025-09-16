@@ -1,9 +1,7 @@
-# Myth #1: Men Negotiate and Women Don’t
-
-The truth is that both men and women have a hard time negotiating for
-
-resources that are counter-stereotypical for them, particularly because
-
-they are more likely to encounter resistance for doing so. Following
-
-traditional gender roles (that are in many respects outdated), men are
+---
+source_path: H079PK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d099b4f81e3d49f9256c2e615352f67ba29fe4a3
+title: H079PK-PDF-ENG
+---
+# negotiations more equitable.

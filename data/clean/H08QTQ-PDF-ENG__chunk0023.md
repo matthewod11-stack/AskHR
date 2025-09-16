@@ -1,15 +1,25 @@
-## a broader lack of communication from managers about what it really
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 016dd8be1e9915fdba2be765477bf38a9a5a64a1
+title: H08QTQ-PDF-ENG
+---
+# strong, diverse leadership pipeline.
 
-takes to advance.
+Below, we outline each issue and oﬀer practical steps senior leaders can
 
-One woman we interviewed, for example, explained that stretch
+take to build fairer systems for assigning, supporting, and rewarding
 
-assignments on her team were often framed as optional or extra. She
+early-career stretch work. While our analysis focuses on the engineering
 
-and her peers only realized their importance after being passed over
+industry, these lessons can be applied across sectors and functions.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+- 1) Under-communicating the importance of a stretch assignment.
 
-5
+In our qualitative study, several participants knew what a “stretch
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+assignment” was but had diﬃculty describing how these opportunities
+
+functioned in their organization. Many were even less aware of how
+
+vital stretch assignments could be to their career growth. This reﬂected

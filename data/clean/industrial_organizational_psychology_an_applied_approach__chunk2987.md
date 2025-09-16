@@ -1,5 +1,7 @@
-# Imagine the following four situations:
-
-7
-
-A professor with a policy of failing students who miss more than six days of class in one semester decides not to fail one particular student with high absenteeism, even though two other students
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d868a8f69705976e786c00f6c19689df61951dc7
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Ethics and Leadership

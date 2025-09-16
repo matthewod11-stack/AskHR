@@ -1,19 +1,15 @@
-# much of the latter.
+---
+source_path: S25011-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 33b34c78899be6259b6cc3fb25106e20b09e43bc
+title: S25011-PDF-ENG (1)
+---
+# organization.
 
-And there’s another challenge that makes process management diﬃcult: Because it tends to be aligned with the priorities of customers
+Naming the right process owner is important. That can be tricky
 
-while day-in, day-out line management tends to be aligned with
+because it’s an entirely new senior management role in most cases.
 
-the priorities of the boss, conﬂicts are sure to arise. Employees will
+The best owners will know how to exercise inﬂuence without formal
 
-inevitably need guidance on how to answer the question “When time
-
-is short, who’s more important, my boss or the process owner?”
-
-Salespeople, for instance, encouraged by their managers to enter orders
-
-for which the buyer demands delivery in 10 days so that they can meet
-
-their sales quotas, will be in a tough spot when the process owner
-
-advises that inventory is low and a more realistic delivery date is 20
+authority; at the beginning of the process journey they may not have

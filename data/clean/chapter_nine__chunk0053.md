@@ -1,3 +1,11 @@
-## C3. Positive influence on other workplace cultures
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 567a0f3e412327595e1c425c061c3624cafd3ac4
+title: chapter_nine
+---
+# team and organisational effectiveness)
 
-A2. All the above values are realised in practice, there is a shared vision and mission
+d) Knowledge/evidence is developed, used and shared
+
+C2. Human flourishing for all

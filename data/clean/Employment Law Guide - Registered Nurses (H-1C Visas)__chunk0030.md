@@ -1,9 +1,17 @@
-# action.
+---
+source_path: Employment Law Guide - Registered Nurses (H-1C Visas).md
+pages: n/a-n/a
+chunk_id: 7c62ac2d273ba22e9d64839182f9c6270247db42
+title: Employment Law Guide - Registered Nurses (H-1C Visas)
+---
+# Department of Labor."
 
-There are no reporting requirements.
+Within 30 days of the date of the ﬁling of the Attestation, a copy must be provided to all registered nurses employed at the facility
 
-The Department of Labor may assess a civil money penalty not to exceed $1,000 per nurse per violation, with the total penalty not to exceed $10,000 per violation. The Department also may impose appropriate remedies, including the payment of back wages,
+either by individual e-mail, or by posting and delivering the nurse a hard copy.
 
-the performance of attested obligations such as providing training, and reinstatement and/or wages for laid oﬀ U.S. nurses.
+The facility must maintain a separate ﬁle available to any interested parties within 72 hours upon written or oral request containing a copy of various documents, including the attestation, the prevailing wage determination, description of the facility's pay system
 
-Various Federal, state, and local labor standards, such as the Fair Labor Standards Act, will apply to foreign workers employed in the U.S.
+(or copy of the pay schedule), and copies of all notices required by the regulations.
+
+The facility must maintain its payroll records for at least three years, and make the records available if there is an enforcement

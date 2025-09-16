@@ -1,29 +1,59 @@
-# BRICS
+---
+source_path: final_2019_jan_feb_jbs_pmd.md
+pages: n/a-n/a
+chunk_id: 29d6d9adfe07fb43c5e0d16e2dc4ec7b83d302fb
+title: final_2019_jan_feb_jbs_pmd
+---
+# SAARC
 
-116116
+11292.9
 
-149618
+26271.9
 
-204915.7
+32576.8
 
-285537
+54617
 
-191836.8
+39495.73
 
-261203.6
+31262.83
 
-297438.5
+40049.95
 
-256120.2
+27704.74
 
-267372.1
+32547.62
 
-271374.
+39333.7
 
-257552.6
+49129.9
 
-275600
+50825.0
 
-265557.4
+47028.2
 
-Source: UNCTADFDI–TNC–GVC information system, FDI/TNC Database (www.unctad.org/fdistattistics). Note : SAARC South Asia association of regional council, ASEAN Association of southeast Asian Nation, BRICS Brazil Russia, India, China, South Africa, SADC
+ASAEAN 42738.1
+
+63794.18
+
+78584.7
+
+49508
+
+41386.31
+
+112977.4
+
+86012.2
+
+111823.5
+
+118913.5
+
+129544.
+
+117278.6
+
+120607.
+
+133764.2

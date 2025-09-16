@@ -1,15 +1,23 @@
-# the new technology.
+---
+source_path: H07MI6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 63216f0a69c6e316b8b15a9065d68a2d84c73840
+title: H07MI6-PDF-ENG
+---
+# down the system.
 
-“There were kickoﬀ sessions with our senior managers to bring them in
+In the underperforming transformations we studied, we saw the
 
-at the beginning of the process,” a vice president of a company in the
+narrative shift away from the vision to focus on the technology
 
-media/advertising industry explained. “These sessions aimed to show
+itself. Whereas in the successful transformations, leaders ensured
 
-them that what was being built was something that they had helped
+that technology was seen as the means to achieve the strategic
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+vision. Furthermore, they prioritized quick implementations of new
 
-6
+technology — focusing on a minimum viable product rather than
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+perfect implementation. Lastly, they invested resources into skill
+
+development to ensure the workforce was ready to create value using

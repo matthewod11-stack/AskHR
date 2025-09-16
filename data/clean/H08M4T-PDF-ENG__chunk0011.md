@@ -1,13 +1,7 @@
-# Direct your emotions.
-
-Goal setting isn’t just about accomplishing tasks; it’s also a powerful
-
-strategy for regulating and managing emotions. “People who feel more
-
-positive can actually focus better, do more, and be more creative,” says
-
-Mark. She recommends envisioning your desired emotional state to
-
-guide behavior. So, ask yourself: “At 7 PM, how do I want to feel?” You
-
-might, for instance, picture yourself peaceful and relaxed, enjoying a
+---
+source_path: H08M4T-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c1b9a3240e7b4a102dd6a9056ce25412711b35a5
+title: H08M4T-PDF-ENG
+---
+## HBR / Digital Article / 7 Habits to Stay Focused in a World Full of Distractions

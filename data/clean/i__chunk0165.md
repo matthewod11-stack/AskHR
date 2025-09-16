@@ -1,29 +1,39 @@
-## 2.8 Predictive analysis for organization performance
+---
+source_path: i.md
+pages: n/a-n/a
+chunk_id: fc0b88a98e04c8adb082b33db278314c2db11d4c
+title: i
+---
+# each level
 
-Several research studies have discovered that companies possessing advanced capabilities in
+Level 1 - Operational Reporting: As a groundwork level for data analysis,
 
-people analytics generally exhibit superior performance in various financial indicators. These
+organizations with this maturity level use data and metrics primarily to understand past
 
-improvements encompass a 30% increase in stock prices over a three-year span (Bersin by
+events and possibly the reasons behind them. The focus is on comprehending the
 
-Deloitte, 2013), a 79% rise in return on equity (Sierra-Cedar, 2014), a 96% surge in revenues
+available data and gaining consensus on its interpretation.
 
-over a three-year period (Chakrabarti, 2017), and a 56% augmentation in profit margins
+Level 2 - Advanced Reporting: advanced reporting means to be more <proactive or
 
-(Martin, 2018) when compared to their counterparts.
+routine= by employing automated reporting systems and data visualization dashboards.
 
-According to the U.S . Department of Labor, a replacement costs 41% of an employee's annual
+Relationships among variables are also explored and analyzed.
 
-salary. The result of research by Kostman and Schiemann reveals that a manufacturing
+Level 3 - Strategic Analytics: Organizations at this level move beyond understanding
 
-company with 11,526 employees can save $18.8 million just by cutting the turnover rate from
+past events and relationships to developing causal models, root cause identification, and
 
-17.8% to 6.8%.
+determining the impact on business outcomes. An example of this analysis is
 
-2.9 What data have been used
+identifying the drivers of turnover or employee engagement.
 
-PA employs three types of data (Isson et al., 2016, page 59):
+Level 4 - Predictive Analytics: The highest level involves forecasting future events,
 
-Talent data: which refers to data of the HR department and organization as a whole, and the
+trends, or outcomes and using those predictions for business planning. An instance from
 
-employee themselves. The organization’s and HR department’s talent data are cost for
+Murray et al. (2018) is to utilize data on turnover, promotions, and market trends to
+
+create scenarios that inform workforce planning.
+
+35

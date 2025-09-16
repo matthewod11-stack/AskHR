@@ -1,29 +1,33 @@
-## HBR / Digital Article / In Turbulent Times, Consider “Strategic Subtraction”
+---
+source_path: H08SNU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfc955d0892f54d8e02baf8b5c112f978d300f6f
+title: H08SNU-PDF-ENG
+---
+# Introduce subtractive design challenges
 
-easier to troubleshoot. Design challenges make subtraction a creative
+Subtractive design challenges shift problem-solving away from
 
-constraint rather than a limiting one.
+accumulation and toward essential value. Rather than asking teams how
 
-Celebrate subtraction done well
+to improve a process by adding new elements, ask how the same result
 
-Subtraction is frequently overlooked, which makes its beneﬁts easy to
+can be achieved with fewer steps, features, or constraints.
 
-ignore. Leaders can encourage recognition by asking teams not only
+Consolidation allows teams to condense workﬂows into fewer steps
 
-to log what they’ve stopped doing, but also to celebrate that as an
+without loss of quality. Substitution invites smaller, more elegant
 
-achievement. This simple habit turns subtraction into an acknowledged
+solutions that are easier to use and maintain. Abstraction encourages
 
-source of value worthy of praise. Techniques such as elimination
+replacing complex interfaces with simpler alternatives. Each of these
 
-and pausing help make these removals deliberate accomplishments.
+approaches supports eﬃciency by reducing operational drag. They also
 
-Eliminating a redundant task can improve eﬃciency by reducing time
+support resilience, since simpler systems are less prone to failure and
 
-wasted and deserves recognition as a meaningful contribution. Pausing
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-low-impact projects keeps future options open while concentrating on current eﬀorts—another strategic decision worth celebrating.
+6
 
-Recognizing and honoring subtraction reinforces the idea that removal
-
-with strategic intent is a sign of progress, not neglect.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

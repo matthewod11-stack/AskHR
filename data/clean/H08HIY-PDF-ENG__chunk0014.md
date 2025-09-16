@@ -1,19 +1,15 @@
-## that contrast with previous research about disability perception, which
+---
+source_path: H08HIY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 882ba8074cf1c2b3399c97f86fbdf47fb13b5755
+title: H08HIY-PDF-ENG
+---
+# HBR / Digital Article / Research: The Stigma Disabled People Face During Negotiations
 
-has shown that while disabled people are often considered to be warmer
+Somewhat surprisingly, participants who saw Alex as male and seated in
 
-and more likable, they may be considered less competent than others.
+a wheelchair rated him as having more integrity and more negotiation
 
-Interestingly, this eﬀect disappeared when Alex was a woman, where
+competence than any of the other versions. This character was
 
-the wheelchair did not seem to inspire the same bump in positive
-
-perceptions. It’s possible that the stereotype of a man in a wheelchair as
-
-strong and able to overcome obstacles was activated for participants. We
-
-saw comments describing the male Alex as “conscientious,” “capable,”
-
-“eﬀective,” and “competent.” By contrast, when Alex was a woman in
-
-a wheelchair, the comments described her as “nervous,” “soft,” and “in
+perceived to be more warm, likable, and competent than others, results

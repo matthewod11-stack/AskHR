@@ -1,9 +1,13 @@
-# to action.
+---
+source_path: H08Q2Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0bf9ab2e0549cbcd1743f81e782dbadc52fb05fa
+title: H08Q2Q-PDF-ENG
+---
+## The result: fewer delays, better quality control, and a stronger position
 
-- 4. What’s the cost of waiting?
+with retailers. The procurement lead’s question kept Darryl’s company
 
-In a crisis, the instinct to pause—to wait for more data, for more
+from waiting for things to “go back to the way they were.” The question
 
-certainty, for the fog to clear—can feel responsible and prudent. Leaders
-
-are taught to avoid rushing, to reduce risk, and to base decisions on
+didn’t oﬀer a prediction, it forced a new frame. And that reframing led

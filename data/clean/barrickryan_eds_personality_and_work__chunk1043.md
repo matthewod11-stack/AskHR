@@ -1,3 +1,9 @@
-# Revised NEO Personality Inventory
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: 64363d09e8cf37fe0bdb8dfc331621fa0adc04ac
+title: barrickryan_eds_personality_and_work
+---
+## Remote Associates Test, 45 Research setting, as situational vari-
 
-(NEO-PI-R): factors in, 13; gener- alizability of, 6; and International Personality Item Pool (IPIP), 19; Openness to Experience in, 300; subcomponents (facets) added to, 17
+able, 308–309

@@ -1,17 +1,35 @@
-# ﬂexibility
+---
+source_path: H052W1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0943d929fd3ee2e6624a9e9e29f1d7aa28f7f80f
+title: H052W1-PDF-ENG
+---
+## thought of herself as ambitious, conscientious, and hardworking. She
 
-Courtney Lazzari’s ﬁrst maternity leave in 2014 involved a lot of change.
+was still all of those things, of course, but she realized that the birth of
 
-During her time away, Courtney, a partner at EY, relocated from New
+her son heralded a shift in how she thought about her career goals.
 
-York to Texas, and got promoted to a new role. “I was a new mom in
+“I thought about what I wanted to accomplish,” she says.
 
-a new job in a new city. At the time I thought, ‘Let’s make all these
+She talked to her boss about where she should focus her eﬀorts and
 
-transitions at once,’” she says with a laugh.
+“areas where I could contribute and add value.”
 
-Copyright © 2019 Harvard Business School Publishing. All rights reserved.
+She also realized she needed to adjust how she did her job and the
 
-8
+parameters she put around work. In a way, she was “setting the bar too
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+high,” she says. “For the sake of my sanity, I realized that not every
+
+email needed an immediate response. I didn’t need to return a phone
+
+call as soon as I got the voicemail.”
+
+Today Ericka has found a good balance between work and parenthood.
+
+“I realized I needed to redeﬁne the expectations I had for myself [within
+
+the context of] my new normal,” she says.
+
+Case Study #2: Set expectations with others while leaving room for

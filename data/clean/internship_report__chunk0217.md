@@ -1,31 +1,19 @@
-# any emergency.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 054d44dc4e2d528e245ecc8560c8ba4bb9e5b9ca
+title: internship_report
+---
+# I.(cid:32) Leave Administration:
 
-II. Absence without prior sanction of leave will be treated as an unauthorized absence. Individual
+Departments should complete their Annual Leave Plan during the start of the year in January and
 
-can avail his/her leave after getting clearance by HRD. All absentees without prior approval shall
+have it approved by the Management.
 
-be marked as absent in the HRMIS Software and will be shown as absent until their leave
+I. Staff will be required to complete and have approved his/her „Leave Notification Form‟ by the
 
-applications are duly approved by the appropriate authority. Leave for absente may or may not
+Team Head and Human Resources Department at least 01 (one) working day (without
 
-be approved by the competent authority, depending on merit of individual case.
+emergency case/sudden/unforeseen circumstances) before proceed on leave. Staff must inform
 
-III. All applications for regularization of absence must be submitted within 2 working days on
-
-the date of joining in the office without any excuse whatsoever. After two days if the application
-
-is not submitted, the absence will be treated as LWP automatically by the HRMIS software.
-
-IV. If a staff is unable to come for any special reason, he/she should immediately inform about
-
-his/her unexpected absence to his/her HOD. This should be done, either by telephone or other
-
-means, explaining why he/she is absent and when he/she hopes to return. If this tendency is
-
-repeated more than 3 times HOD/In Charge will reflect it in his/her PAR. Without information
-
-and specific reason, availed leave will be treated as LWP depends on HOD/In Charge decision.
-
-V. Any staff member if found not complying with the laid-down procedure for three times in any
-
-calendar year may be terminated from service.
+his/her Team Head of leave contact details. This is to ensure that staff can be contacted in case of

@@ -1,5 +1,11 @@
-# transformational leadership and transactional leadership (i.e., Research Question 1). Rather
+---
+source_path: running_head_trust_in_leadership_meta_analysis_1.md
+pages: n/a-n/a
+chunk_id: 7c48335389a8f27a169881636dd75514e1e9a621
+title: running_head_trust_in_leadership_meta_analysis_1
+---
+# Relative Effects of Leadership on Trust
 
-than focus on overall transactional leadership, based on our findings, we decided to focus on
+The first aim of this meta-analysis was to determine the extent to which various
 
-contingent reward as our measure of transactional leadership given this dimension had much
+contemporary leadership styles predicted trust in the leader above the effects of

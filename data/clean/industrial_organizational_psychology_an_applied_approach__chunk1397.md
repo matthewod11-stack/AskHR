@@ -1,9 +1,7 @@
-## Conscientiousness Extraversion Agreeableness Stability
-
-.76
-
-.80 .83 .81 .74 .82
-
-.73 .76 .78 .75 .73
-
-Barrick & Mount (1991) Viswesvaran & Ones (2003) Viswesvaran & Ones (2003) Viswesvaran & Ones (2003) Viswesvaran & Ones (2003) Viswesvaran & Ones (2003) McDaniel et al. (2001)
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 48097201c3a852302e73bf3c00cf1f701f9c57a2
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Personality inventories Openness

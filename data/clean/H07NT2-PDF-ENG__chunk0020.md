@@ -1,13 +1,17 @@
-## address biases during interviews and selection decisions afterward.
+---
+source_path: H07NT2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfca0e6f629d471c28e983a6a379c4abacdb6c7d
+title: H07NT2-PDF-ENG
+---
+## companies that typically under-select applicants from these groups for
 
-Conversely, in organizations that have a history of selecting mostly
+interviews. This makes sense intuitively — blind hiring will only help
 
-members of advantaged social groups (e.g., men, white people) for
+if there is bias to eliminate. Thus, if decision-makers are operating in
 
-interviews, using blind hiring at the initial screening stage could help.
+organizations that are failing to diversify pools of new hires overall
 
-Question 2: Is the job in question one where being from an advantaged group predicts having the preferred credentials?
+but are succeeding at diversifying pools of interviewees, adoption of a
 
-Blind hiring blocks unconscious biases by ensuring that decisions
-
-about whom to interview are based on credentials alone. However,
+blind hiring policy to govern the initial screening stage will not help diversity hiring eﬀorts. Instead, they should focus on solutions that

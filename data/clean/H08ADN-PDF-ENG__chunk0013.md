@@ -1,17 +1,7 @@
-## Why Would New Hires Lose Psychological Safety?
-
-Starting a new job is exciting. After making it through the hiring
-
-process, you feel conﬁdent you were hired for a reason, eager to do
-
-a good job. Surely your colleagues and manager want to hear from
-
-you! Soon, however, you may ﬁnd things aren’t quite as you imagined;
-
-a single problematic interaction can kill the psychological safety you
-
-initially experienced.
-
-To prevent this from happening, leaders need to understand why
-
-newcomers are vulnerable to this loss:
+---
+source_path: H08ADN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3a9b3087518b3eb0abc3e7a2e980b1e0a76bf503
+title: H08ADN-PDF-ENG
+---
+# conditions.

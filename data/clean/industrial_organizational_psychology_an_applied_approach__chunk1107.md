@@ -1,17 +1,19 @@
-# Signature/Date
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: d7ddeee7ccee93e94954c3ddc01c52cdcc493c9a
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Marcus A. Kildare, Ph.D./Date
 
-employee selection: references and testing
+Figure 5.2c Employee’s consent to obtain information
 
-165
+Figure 5.2d Employee’s consent to release information
 
-Figure 5.3 A reference writer often lacks competent knowledge of an employee’s behavior
+I, , authorize the Bundy Shoe Company to contact any or all of my former employers or any or all of the references I have supplied to Bundy Shoe Company for the purpose of verifying any of the information I have provided to Bundy Shoe Company and/or for the purpose of obtaining any information whatsoever, whether favorable or unfavorable, about me or my employment with any former employer.
 
-166
+A number of years ago, on the basis of several letters of recommendation, our department hired a part-time instructor. Two weeks after he started the job, we discovered that he had to return to his home in another state to face charges of stealing drugs from his former employer, a psychology department at another university. We were upset because neither of the references from his former job mentioned the charges. After a rather heated conversation with one of the references, we learned that the applicant was the son of the department chairman and that the faculty were afraid to say anything that would anger their boss.
 
-chapter 
+These last examples show why providing references and letters of recommen- dations can be so difficult. On the one hand, a former employer can be charged with slander or libel if it says something bad about an applicant that cannot be proven. On the other hand, an employer can be held liable if it does not provide information about a potentially dangerous applicant. Because of these compet- ing responsibilities, many organizations will confirm only employment dates and salary information unless a former employee has been convicted of a criminal offense that resulted in termination. The use of professional reference-checking companies can help alleviate this problem.
 
-Knowledge of the Applicant. A second problem with letters of recommendation is that the person writing the letter often does not know the applicant well, has not observed all aspects of an applicant’s behavior, or both. Professors are often asked to provide recommendations for students whom they know only from one or two classes. Such recommendations are not likely to be as accurate and complete as those provided by professors who have had students in several classes and per- haps worked with them outside the classroom setting.
-
-Even in a work setting in which a supervisor provides the recommendation, he often does not see all aspects of an employee’s behavior (Figure .). Employees often act very differently around their supervisors than they do around cowork- ers and customers. Furthermore, as Figure . shows and as will be discussed in greater detail in Chapter , those behaviors that a reference writer actually recalls are only a fraction of the behaviors actually occurring in the presence of the person writing the recommendation.
-
-Reliability. The third problem with references and letters of recommendation involves the lack of agreement between two people who provide references for the same person. Research reveals that reference reliability is only . (Aamodt & Williams, ). The problem with reliability is so severe that there is more agreement between recommendations written by the same person for two different applicants than between two people writing recommendations for the same person (Aamodt & Williams, ). Thus, letters of recommendation may say more about the person writing the letter than about the person for whom it is being written.
+I, , am applying for a position with the Bundy Shoe Company and authorize any of my former employers to provide a representative of Bundy Shoe Company with any and all information pertaining to my previous employment and/or other related behavior. I agree to waive any future defamation or other legal claims arising from information provided to the Bundy Shoe Company.

@@ -1,15 +1,25 @@
-# HBR / Digital Article / When New Hires Get Paid More, Top Performers Resign First
+---
+source_path: H081SB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 60b72736412dc219d023824542e0172a010325f1
+title: H081SB-PDF-ENG
+---
+# Paul Taylor/Getty Images
 
-while a global survey of more than 30,000 employees found that salaries
+To attract top talent, employers often pay new hires more than they
 
-are expected to increase by an average of 4% in 2024, suggesting that
+pay existing employees in equivalent roles. This isn’t new. But today,
 
-these pay gaps will likely continue to expand.
+regulatory changes and technological advances have dramatically
 
-But how does this inﬂux of higher-paid workers impact
+increased pay transparency in many sectors, making employees more
 
-existing employees, especially top-performing ones? And what can
+aware of these pay disparities. Moreover, data from the U.S. Chamber of
 
-organizations do to balance the need to recruit new talent with
+Commerce indicates that the workforce is expected to shrink in 2024,
 
-mitigating the risks of creating increasingly visible pay disparities on
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

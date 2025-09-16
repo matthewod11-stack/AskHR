@@ -1,10 +1,12 @@
-# Chapter Summary
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 1a19793b475d1db72e87b3f22853cfbace7e0f4c
+title: industrial_organizational_psychology_an_applied_approach
+---
+# What Do You Think? 7
 
-In this chapter you learned: 7
-
-The first step in the training process is to conduct a training needs assessment that includes an organizational analysis, task analysis, and person analysis. Training methods take many forms. Classroom learning techniques include seminars, audiovisual aids, programmed instruction, case studies, and critical incidents. Sample job performance techniques include simula- tion, role play, behavior modeling, and job rotation. Informal training tech- niques include apprentice training, coaching, and performance appraisal. Such psychological principles as modeling, distributed practice, and trans- fer of training must be considered when conducting a training program. It is important to evaluate training success by measuring trainee attitudes, knowledge, ability to apply newly learned material, and improved performance.
-
-7
+What are some of the other ethical concerns of using role plays to teach skills? Do you think organizations should implement poli- cies on the type of strategies trainers can use when conducting training? Should role plays be a mandatory part of training?
 
 7
 

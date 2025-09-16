@@ -1,11 +1,25 @@
-# rest of my career.
+---
+source_path: H07U7Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f208d1799f3440956bd5e71257f227de27eb4bb
+title: H07U7Q-PDF-ENG
+---
+## Foods Market, our former Co-CEO, Walter Robb and CFO, Glenda
 
-As I joined Whole Foods, I was responsible for technology as well as
+Flanagan. As they were looking to hire a new CIO or CTO, they had
 
-our digital businesses. Helping stand up both our delivery and pickup
+reached out to me. I had provided some names of some clients that I
 
-businesses, which we hadn’t yet launched. During that timeframe, I
+thought would be good folks to go for the job, and they reached back out
 
-also helped looked at ways for us to establish some organizations and
+and said, “Why aren’t you putting your name on? We’d really love for
 
-support practices we didn’t have before like our ﬁrst operations support
+you to consider joining Whole Foods.”
+
+I came to Austin, spent two days here, and just really had an amazing
+
+appreciation for the fact that the higher purpose and core values weren’t
+
+just words on a wall. They were being lived out day-to-day. That was the
+
+awakening that this is the right place for me to go work and spend the

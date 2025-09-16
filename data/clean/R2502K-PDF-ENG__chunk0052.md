@@ -1,39 +1,37 @@
-## HBR / Magazine Article / The Uniqueness Trap
+---
+source_path: R2502K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2111f73fe11ba11f5dd6f1d50db8c84dbdc87826
+title: R2502K-PDF-ENG
+---
+## but also by “noise”—factors unrelated and irrelevant to the decision
 
-These methods, and their eﬀectiveness, are well documented in
+being made. A noise audit helps them measure the eﬀects of those
 
-management literature. Anyone interested in eliminating uniqueness
+factors. It involves presenting multiple decision-makers with a set of
 
-bias and other preconceptions that distort decision-making—which
+similar hypothetical situations and asking them to predict outcomes.
 
-is to say, anyone interested in running projects and organizations
+For instance, you might ask a group of judges to predict the sentences
 
-successfully—should become versed in them.
+for a set of similar criminal convictions. The objective is to assess how
 
-. . .
+the predicted sentences of each judge vary across cases as well as how
 
-It’s easy to understand why people think their projects are unique.
+they vary across the group of judges as a whole. Typically, the noise
 
-It stems from what Kahneman called “fast thinking,” which is
+level is the standard deviation of predictions across cases and across the
 
-humans’ mental default mode. Fast thinking saves project planners and
+predictors. If it’s high, then the judges need to revisit how they make
 
-managers the considerable eﬀort of ﬁguring out which class of project
+sentencing decisions. The tool can be applied to help project managers
 
-a new undertaking belongs to, what the averages and extremes are
+identify whether they’re likely to be swayed by irrelevant factors in
 
-for that class, how those values translate into risk, and how that risk
+making key decisions in, say, purchasing services or hiring.
 
-may be mitigated. But very few, if any, projects are unique, no matter
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-how complex they are. Unless you accept that and invest in identifying
+10
 
-similar endeavors and learning from them, your own project will most
-
-likely come in late and well over budget and underdeliver on beneﬁts.
-
-A version of this article appeared in the March–April 2025 issue of Harvard Business Review.
-
-Bent Flyvbjerg is a professor emeritus at the University of Oxford’s Saïd Business School. He is a senior research fellow of St. Anne’s College at the University of Oxford and the Villum Kann Rasmussen Professor and Chair in Major Program Management at the IT University of Copenhagen.
-
-Alexander Budzier is a fellow in management practice in information systems at Saïd Business School.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

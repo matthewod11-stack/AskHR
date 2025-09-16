@@ -1,15 +1,33 @@
-# assessment to junior analysts.”
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 018c3f8c1318784b123e1e782428003fa89a3968
+title: H08GUL-PDF-ENG
+---
+## from humans to machines and back to humans like never before. We
 
-The problem is that the junior analysts simply don’t have the experience
+examine three cases of where this has occurred and suggest how these
 
-to spot a potential winner and often overlook good proposals. This
+advances in technology could boost the eﬀectiveness of your strategic
 
-happens even when they follow the decision-making template deﬁned
+decision making to improve competitiveness.
 
-by Bavaria Ventures’ managing partners.
+Evaluating high-return investment opportunities
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+A German venture capital organization that we’ll call Bavaria Ventures
 
-2
+is always on the lookout for ﬁnancially attractive startups. However, as
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Josef, one of the business partners explains, “We’ve seen double-digit
+
+growth in the number of applications we receive per analyst.” This has
+
+put pressure on the company as the decision-making process involves
+
+vetting each application. “It’s both time consuming and complex,”
+
+Josef continues, “numerous contextual factors must be considered, and
+
+personal judgement based on experience plays a huge role. But the
+
+sheer volume of applications means that we must delegate the ﬁrst stage

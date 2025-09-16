@@ -1,19 +1,21 @@
-# Making Headway
+---
+source_path: H08OL1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8b10502e9cdb1054821dd08bae88dfc22b1c9dcb
+title: H08OL1-PDF-ENG
+---
+## HBR / Digital Article / Research: The Gender Wage Gap Tipping Point
 
-Despite a slowdown in the closure of the gender wage gap after the
+However, once these initial gains are achieved and the pressure lessens,
 
-tipping point, there is some good news. Our analysis found that by
+organizations may assume the problem is resolved and scale back their
 
-2002, there were meaningful improvements in the wage gap across
+eﬀorts too soon. As women become better represented, it can create a
 
-almost all occupations compared to 1997. This improvement continued
+perception that gender barriers are breaking down and that equity is
 
-throughout the rest of the years studied, and by 2018 the wage gap
+improving. Akin to reaching a “false summit,” where a hiker mistakenly
 
-was smaller for 36 of 40 occupations. As noted by Harvard economist
+believes they have reached the top of a mountain when there is still
 
-and recent Nobel laureate Claudia Goldin, “equalizing earnings within
-
-each occupation matters far more than equalizing the proportions by
-
-each occupation.” If pay equity within occupations is achieved, the
+more to climb, organizations might make the hasty determination that pay equity has been suﬃciently achieved and cease making changes.

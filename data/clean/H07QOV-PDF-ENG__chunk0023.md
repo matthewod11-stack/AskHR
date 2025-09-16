@@ -1,9 +1,11 @@
-## business media contexts, maybe LinkedIn and elsewhere.
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 76ea0baa52e9b28b9e30a04ea0621d6cd28e969f
+title: H07QOV-PDF-ENG
+---
+## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
 
-One thing I think I can say for sure is that the anxiety is real, and
+and so many other outlets, to see how people are doing. So really, in a
 
-people are worried about the future. They’re worried about it on so
-
-many fronts. They’re worried about climate change. They’re worried
-
-about AI. They’re worried about burnout, as you mentioned. I’ll come
+way, I’m commenting on the conversation in HBR and so many other

@@ -1,41 +1,15 @@
-# incorrect.”
+---
+source_path: F2404A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d978a4c4e3965a3b20ddb40f39df84a40e5456d4
+title: F2404A-PDF-ENG
+---
+## HBR / Magazine Article / Why Entrepreneurs Should Think Like Scientists
 
-Deﬁne the critical dependencies underlying the hypotheses and
+placed around campus were used, and by whom, could the entrepreneur
 
-investigate them. Leonardo Del Vecchio, the founder of Luxottica, a
+have realized that he was wrong.
 
-maker of eyeglasses, did this when he came up with a theory about
+Begin with the idea that your intuition tells you is most plausible. “You
 
-how to grow the company (although it wasn’t a start-up at the time).
-
-He posited that eyeglasses could be more than a means of vision
-
-correction—they could be a form of fashion. He believed that people
-
-would pay extra for stylish glasses and that some people would purchase
-
-more than one pair and create a wardrobe of eyewear. Before going to
-
-market with his hypothesis, he wanted to explore two uncertainties:
-
-Could Luxottica even produce fashionable eyewear? And could it move
-
-from a market controlled by independent retailers to a more direct-to-
-
-consumer approach? Del Vecchio believed both were possible.
-
-To resolve those uncertainties, Luxottica partnered with fashion houses,
-
-such as Armani, to produce designs, which immediately increased
-
-demand. And the company started to invest in direct marketing to
-
-test its ability to sell to consumers rather than to optometrists. Today
-
-EssilorLuxottica, as it’s currently known, is the world’s largest eyewear
-
-company, valued at more than $95 billion.
-
-You can do unstructured brainstorming to identify the uncertainties
-
-your hypothesis involves, but you should focus on the top few—let’s say
+have to start somewhere,” Gambardella says. “But you should have other potential theories you can use if you determine that your ﬁrst theory is

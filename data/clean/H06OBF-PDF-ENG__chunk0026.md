@@ -1,13 +1,19 @@
-## to both business development and corporate engineering.
+---
+source_path: H06OBF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9acf3aa8e99784d2bfc33d14500bef21d6ffe2fe
+title: H06OBF-PDF-ENG
+---
+## the manager also report to a supervisor within vertical B. Traditional
 
-- Governance. Assign critical decisions requiring a cross-vertical
+corporate support functions (such as HR, ﬁnance, and legal) can play
 
-purview to an existing or new cross-verticals body. For example, the
+an important role in deﬁning, rolling out, and supporting compliance
 
-power company instituted a new investment committee to review
+of cross-vertical standards, policies and methods — in particular
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+when the managers in charge of those functions are matrixed to
 
-5
+the verticals and their corporate function. For example, the power
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+company we worked with assigned its commercial-technical manager

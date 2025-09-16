@@ -1,11 +1,15 @@
-# loss of more than $500 million.
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 80d8f6561d7c44ecbaa543ac942ebe66bfe461c3
+title: H08KUZ-PDF-ENG
+---
+## In October 2024, Delta, one of the many aﬀected businesses in the
 
-CrowdStrike in response, while admitting the root cause was a fault in
+incident, ﬁled a lawsuit against CrowdStrike claiming that the outage
 
-its software update, claimed that “Delta’s claims are based on disproven
+was “catastrophic.” They claimed it was the result of CrowdStrike’s
 
-misinformation, demonstrate a lack of understanding of how modern
+“forced untested updates to its customers” and led to disruption of
 
-cybersecurity works, and reﬂect a desperate attempt to shift blame for
-
-its slow recovery away from its failure to modernize its antiquated IT
+7,000 ﬂights and 1.3 million customers over 5 days. The airline claimed a

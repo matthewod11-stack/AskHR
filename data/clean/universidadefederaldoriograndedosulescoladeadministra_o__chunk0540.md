@@ -1,9 +1,9 @@
-# organizacional
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 244b88d5adcf8113744f899f0075ad6a9b1037bb
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## eNPS, apesar dos pontos negativos citados na última questão, que os líderes
 
-tradicionais. Enquanto apenas 16,7% dos gestores de pessoas
-
-consideraram o eNPS mais eficiente, neste novo universo, temos quase metade das
-
-respostas com viés favorável: foram 17 respostas positivas (47,4%). Somam-se a
-
-elas, outras 15 que não souberam opinar (41,7%), restando apenas 4 negativas
+quando questionados a respeito da comparação desta com as pesquisas de clima

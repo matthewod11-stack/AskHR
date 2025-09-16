@@ -1,7 +1,29 @@
-# gaps.
+---
+source_path: H08OET-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29a24e6df69149441c7a7376ff7de02a683a8804
+title: H08OET-PDF-ENG
+---
+## The impact of career gaps varies by functional role.
 
-The impact for sales and marketing executives was negative but less
+We expected the impact of career gaps to vary depending on the
 
-severe. The 29% raises among sales executives without career gaps were
+role and how readily transferrable their skills are to a new setting or
 
-cut nearly in half to 15% for resumes with gaps. Marketing experienced a
+employer. Those with highly portable skills may suﬀer less, since they
+
+are ready to plug into many settings. Moreover, the more enduring an
+
+individual’s skills or expertise is over time, the less risk there is when it
+
+comes to career breaks.
+
+We found that a resume gap can be a big deal for those in general
+
+management positions. Those without gaps had an average raise of 17%,
+
+while those with gaps did not get any raise at all. Resume gaps also
+
+had a signiﬁcant negative impact for those who worked in operations,
+
+dropping from 25% raises for those without gaps to 8% for those with

@@ -1,7 +1,43 @@
-## historical patterns of systemic racism — then these few employees may
+---
+source_path: H07TPI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f08fe52c2af3332260b4141e0eb2134be560b577
+title: H07TPI-PDF-ENG
+---
+## ways — and potentially undermine hard-won progress on equity-
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+and equality-related outcomes — it is important for managers to
 
-4
+anticipate such issues. My research, and complementary research by
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+other scholars (some of which I detail below) presents three key
+
+suggestions for how managers can limit the chance of their policies
+
+backﬁring. These suggestions are all rooted in taking a systems-level
+
+view of inequality when designing and implementing DEI policies.
+
+- 1. Consider subgroups.
+
+When designing a DEI policy, think about variation within the group
+
+of people the policy is aimed at helping. In my research, there was an important diﬀerence between the experiences of most women
+
+employees (who beneﬁted from the policy) and women managers (who
+
+were harmed).
+
+As another example, imagine if managers attempted to help Black
+
+employees through creating a peer mentorship program. This program
+
+might provide vital help, advice, and connection at work for enrolled
+
+Black employees, who researchers ﬁnds are much less likely to have
+
+internal sponsors when compared to white workers, despite the fact that
+
+such aid is vital for career success. However, if there are relatively few
+
+senior Black employees in a company — a common occurrence given

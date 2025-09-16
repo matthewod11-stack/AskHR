@@ -1,15 +1,7 @@
-# http://www.fons.org/library/journal.aspx
-
-Box 2 cont’d. High support and high challenge are key factors for enabling the achievement of potential, learning and increased productivity (Titchen, 2000; Haworth, 2000; Ward, 2002; Gould, 1998; Manley, 2001). Workplace culture must first be supportive of staff before staff can support others (Boyer, 2005). Individuals need to be encouraged to question and challenge and this is manifested in the giving and receiving of feedback (Kalisch and Aebersold, 2006). It is alright to ‘rock the boat’ (Coccia, 1998) as this is characteristic of a therapeutic rather than a harmonious team (Johns, 1992; 1995). The provision of high support and high challenge has continued to be a key value underpinning practice development approaches (Manley and Titchen, 2011).
-
-Leadership development refers to the development of leadership skills, these include the ability to enable others to be effective as well as find creative and innovative solutions (Stordeur et al., 2000; Manley, 2001; Ward, 2002; Haworth, 2000; Manojlovich and Ketefian, 2002; Scott et al., 2003). The leader being any person with professional responsibility for leading positive change (Grindel, 2006).
-
-Involvement, participation and collaboration with all stakeholders including service users involves formal systems enabling participation in decision-making processes relevant to each stakeholder group and the implementation of decided changes (Clark, 2002; Gough, 2001; Bevington et al., 2004b; Huq and Martin, 2000). Staff are trusted and valued for their contribution (Haworth, 2000; Shimko et al., 2004; Mulchay and Betts, 2005; Jones and Redman, 2000; Davies et al., 2000; Manley 2001); and there are a diversity of voices (Davies et al., 2000).Individuals’ views are heard and taken seriously and there is integration of clinical and managerial agendas (Bevington et al., 2004b). These values engender ways of working that have since become the identified key principles underpinning practice development arising from an extensive evaluation of practice development as a specific methodology (McCormack et al., 2006).
-
-Evidence-use and development. The role-modelling of evidence-based practice by clinical staff is valued (Mahony, 2000; Manley, 2001; Rycroft-Malone, 2004; Newman et al., 2000) and is linked to facilitation expertise and leadership (Manley, 2001; Peplar et al., 2005; Rycroft-Malone, 2004). Its importance within the culture will rely on whether there is active use of information to improve effectiveness (Clark, 2002); a focus on evaluation (Rycroft-Malone, 2004) as well as the skills and personal mastery of staff (Chan, 2002) with opportunities to rigorously research one’s own practice (Titchen, 2000). Implementing evidence into practice is a key international movement that focuses on using the best evidence to support clinical effectiveness which is influenced in turn by contextual factors and facilitation expertise (Rycroft-Malone et al., 2004; Kitson et al., 2010). Drawing on evidence from practice complements this movement and reflects the multiple knowledges used in practice to support decision-making and identify the strategies that are effective in transformation of practice (Manley and Titchen, 2011).
-
-Positive attitude to change and commitment to continuous development. Change is perceived as positive (Ingersoll et al., 2000; Marshall et al., 2002), and there is a ‘can do’ approach (Bevington et al., 2004b). Change is embraced actively (Manley, 2001), ideas are recognised (Thyer, 2003) and innovation welcomed (Manley, 2001). It is alright to ‘rock the boat’ (Coccia 1998; Johns 1995). There is a focus and commitment to continual improvement and development and learning from work- based change (Huq and Martin, 2000; Manley, 2001; Gibb et al., 2005).
-
-Open communication. Open, direct and honest communication between different groups is valued (Martin, 2000; Welford, 2002; Clark, 2002; Northcott, 1999). Processes are transparent (Bevington et al., 2004b). Individuals are encouraged to speak out (Kalish and Aebersold, 2006).
-
-11
+---
+source_path: chapter_nine.md
+pages: n/a-n/a
+chunk_id: 33c69e6a446bf1e85b20890c19137dab0a57f97c
+title: chapter_nine
+---
+## © FoNS 2011 International Practice Development Journal 1 (2) [1]

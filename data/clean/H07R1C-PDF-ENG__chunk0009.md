@@ -1,19 +1,35 @@
-# in childcare deserts.
+---
+source_path: H07R1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 84c32374994ec393a196f5e16ac20af7132a7fd2
+title: H07R1C-PDF-ENG
+---
+# HBR / Digital Article / Research: Caregiver Employees Bring Unique Value to Companie…
 
-Given these shortcomings and the fact that 73% of U.S. employees are
+When we asked James if his caregiving roles have helped him perform
 
-caregivers, in order to have a productive and sustainable workforce,
+professionally, he didn’t hesitate:
 
-companies must create the infrastructure to support them. The hidden
+One hundred percent. What I have learned is highly transferable to
 
-cost to companies for not supporting caregivers can also be high when
+the workforce. I am a relationship manager for external clients…And
 
-factoring in turnover, lost institutional knowledge, and absenteeism.
+the better we can understand them, the better we perform…At the
 
-However, the conversation about supporting caregivers at work
+end of the day, asset management is asset management. But those
 
-has typically focused on employee well-being, not the beneﬁts to
+relationships that we build? Those are what sets us apart. That’s
 
-employers. We conducted original research to collect stories from
+what makes me so good at my job.
 
-employees like James and found that they bring unique skillsets that
+There is no lack of data and information about why organizations
+
+should oﬀer caregiver-friendly employee policies and beneﬁts. We’re
+
+aware of the “mommy penalty” women face when they take time
+
+away from work to care for family members. We know that the U.S.
+
+lacks the infrastructure to support caregivers, and in fact is the only
+
+industrial nation without federal paid parental leave. Many people live

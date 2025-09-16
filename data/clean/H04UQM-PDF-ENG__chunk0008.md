@@ -1,43 +1,27 @@
-# take.
+---
+source_path: H04UQM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c513832b90f93430228c9abf47f674720e0e509a
+title: H04UQM-PDF-ENG
+---
+# HBR / Digital Article / To Make the Case for Paternity Leave, Dads Will Have to Work T…
 
-Seek a change in advance
+But men in this situation need to know they’re not alone. After I launched
 
-Unlike other forms of leave, time off to care for a newborn is something
+a legal ﬁght against CNN/Time Warner for fair paternity leave, people all
 
-you can usually plan for. Find out the policies in your workplace, and the
+over the country and around the world issued public statements of
 
-protocols for requesting a change. Start off with the optimistic assumption
+support. Numerous colleagues of mine were openly supportive as well,
 
-that your organization will want to do the right thing. Show executives the
+even hugging me in the newsroom. All this made a huge difference.
 
-research demonstrating that paternity leave saves them money by
+(Ultimately, the company changed its policy, in a win-win for both sides.)
 
-attracting and retaining employees, including women and men.
+So to ﬁght this battle — for the sake of women, men, businesses, all of
 
-Come out of the shadows
+society, and most importantly children who need time with both their
 
-If, as with me, your business puts off a decision, only to say no after your
+mothers and fathers — we need to stick together.
 
-child is born, share your story publicly. When I went public with my case,
-
-men — including some I didn’t know — called me to share their
-
-experiences. Some cried on the phone, describing heartbreaking stories of
-
-having to leave their wives alone at home and rush back to work. One man
-
-had twins in the ICU. In virtually all these cases, they hadn’t discussed it
-
-publicly. For us to take on this issue, we need to help everyone see how
-
-widespread the problem it is, and the impact it has on our families.
-
-Learn the laws
-
-I discovered through my experience that most workers don’t know their
-
-Copyright © 2019 Harvard Business School Publishing Corporation. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+For fellow dads who ﬁnd themselves in this situation, here are steps to

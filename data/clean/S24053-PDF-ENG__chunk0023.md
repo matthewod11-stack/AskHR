@@ -1,13 +1,9 @@
-# not those of its individual members.
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8c3eb5891b9b2fa1c2c9eb2af35001bf0bb0381c
+title: S24053-PDF-ENG
+---
+## direction, discipline, drive, dynamism, and collaboration. These traits
 
-Let’s consider each trait in turn.
-
-Direction. How a top team works together to set the organization’s
-
-direction—its purpose, vision, and strategy—is a cornerstone of its eﬀectiveness. Team members must be aligned on and share ownership
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+are collective: They characterize the behaviors of the team as a whole,

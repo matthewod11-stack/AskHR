@@ -1,13 +1,35 @@
-## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a351e9a64656f0ea4a1e70917f473b096af3e5e7
+title: H08VIB-PDF-ENG
+---
+## miss opportunities for deeper transformation of work—not just in a
 
-quality of their output improved when they used AI in team-based
+single workshop, but at scale. Multiply this by the dozens of workshops,
 
-settings. A similar proportion noted that risks were mitigated more
+meetings, and collaborative sessions happening across an organization,
 
-eﬀectively. They were more likely to challenge the AI (“We questioned
+and the cost of inaction becomes clear. Until these collective moments
 
-AI output more proactively”), they experimented more (“We tried
+are reimagined with AI, its impact in the workplace will remain limited.
 
-diﬀerent approaches and compared prompts”), and they reﬂected more
+The potential of AI to elevate collaboration isn’t just theoretical.
 
-deeply (“Team discussion encouraged a more thoughtful and less hasty
+Some managers are already challenging traditional approaches and
+
+embedding AI into the way teams collaborate, think, and make
+
+decisions. In an eﬀort to discover the emerging best practices, we
+
+conducted qualitative research and ﬁeld experiments, observing more
+
+than 100 managers working in small groups of 3-4 people. What
+
+emerged was striking: two thirds of these managers reported that the
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

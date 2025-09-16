@@ -1,23 +1,23 @@
-## HBR / The Big Idea / Every Employee Should Have Access to Paid Parental Leave
+---
+source_path: H05624-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0052174ab4ae9ef159239ad0e9ad5d9e2df3728c
+title: H05624-PDF-ENG
+---
+## In fast-paced, high-pressure, highly competitive industries or
 
-cover to people in the rest of the organization, so they can take time
+companies, how do you persuade people — both women and men —
 
-oﬀ without thinking it will hurt their careers. Instead, it lets them know
+that it’s okay to use all the time made available to them?
 
-it will be the best decision they’ll ever make. I think social media has
+A big push for me is not just encouraging more private-sector leaders
 
-helped to normalize this. Men being proud to be dads is as old as
+to adopt these policies, but also to urge fellow business dads, especially
 
-time, but historically it’s a thing we didn’t always talk about. That’s
+those in executive positions, to take advantage of them. This gives air
 
-changing. This generation is more able to be vocal and open. A good
+Copyright © 2019 Harvard Business School Publishing. All rights reserved.
 
-example is the “Dad Reﬂexes“ subreddit, which hundreds of thousands
+4
 
-of people are on every day, sharing and watching videos of things like
-
-a kid almost falling oﬀ a sofa and the father catching him without his
-
-partner even realizing it happened. We now have ways to share these
-
-little vignettes of dads protecting, playing with, feeding, spending time
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

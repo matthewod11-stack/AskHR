@@ -1,7 +1,11 @@
-# The Idea of Existential Equality
+---
+source_path: equality_theory_as_a_counterbalance_to_equity_theory.md
+pages: n/a-n/a
+chunk_id: f25bf7fed672b7ab2a485a15dd01c4618724d9bc
+title: equality_theory_as_a_counterbalance_to_equity_theory
+---
+# 136
 
-To ﬂesh out this construal of equality of inputs, we draw on notions of equality rooted in Enlightenment philosophy. For example, the belief that ‘‘all [people] are created equal’’—that all enjoy a natural equality—is a central tenet ‘‘invention’’ of of Western culture. The fundamental enlightenment philosophy was to put all individuals, for the ﬁrst time in Western History (for even the Greeks had slaves), on one and the same footing as existentially equal beings. Within the context of historicultural thought (i.e., the history of humankind’s representations of self in rela- tion to society), this represents a rather break from the past. Such is the essential thesis of Rousseau’s famous discourse on the origin of inequality among people (Rousseau 1775/ 1992). It is the message conveyed by Jefferson in the Declaration of Independence with the well-known words: ‘‘We hold these truths to be self-evident, that all [people]
+otherwise treat inputs ‘‘as if’’ they are equal. While inputs to equity-based distribution are of course fundamental schemes, there appears to be an implicit, unspoken assumption that under distributive equality inputs really do not matter. (i.e., that since inputs will always vary to some degree, what principally deﬁnes an equality of distribution is simply one’s choice of equality as a reward structure.) Taking issue with this unspoken assumption, we suggest that inputs matter very much and are most certainly not irrelevant. For there exists a third logical possibility for conceptualizing inputs within distributive equality. This entails that all inputs are de facto equal. Accordingly, while one can always envision some sort of unequal distribution of individual differences or abilities relative to one’s potential contributions to a company; at a fundamental level, it can certainly be said that all human beings have and merit a fundamental sense of respect and of self-worth. Translated into the input/outcome terminology of equity theory, an individual’s basic humanity comprises an input in and of itself (and by deﬁnition all such inputs are equivalent). We do not have to ‘‘pretend’’ or ‘‘assume’’ that inputs are equal. They are. In short: equality-based dis- tributive decisions can be theoretically grounded in the notion of equal contributions in an existential sense—not simply in the sense of measurement.1
 
-1 Our use of the rather mechanistic ‘‘inputs’’ represents an attempt to be consistent with wider justice literature. Yet, construing ‘‘inputs’’ as existential equality clearly enters into an ethical dimension.
-
-123
+This is in some ways a simple, some might say a sim- plistic, distinction. Yet this distinction introduces a con- ceptual shift that has the potential to profoundly inﬂuence our understanding of claims to distributive equality, as well as the potential applications of such.

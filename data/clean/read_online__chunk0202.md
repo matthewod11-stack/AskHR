@@ -1,3 +1,9 @@
-# Page 12 of 12
+---
+source_path: read_online.md
+pages: n/a-n/a
+chunk_id: 26ef5fdb724019a0c1701971afff94cff731876e
+title: read_online
+---
+## students in South Africa’, Gender and Behaviour 13(1), 6632–6639.
 
-Fayyazi, M. & Aslani, F., 2015, ‘The impact of work-life balance on employees’ job satisfaction and turnover intention; the moderating role of continuance commitment’, International Letters of Social and Humanistic Sciences 51, 33–41. https://doi.org/10.18052/www.scipress.com/ILSHS.51.33
+Open Access

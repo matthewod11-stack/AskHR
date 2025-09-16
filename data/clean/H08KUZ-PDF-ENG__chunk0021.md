@@ -1,9 +1,7 @@
-# Four Open Questions About Cyber Risk
-
-- 1. What is the level of risk of a CrowdStrike content update? (Does it reduce or increase overall risk?) CrowdStrike’s Falcon software is one of the leading cybersecurity
-
-solutions in the market. Content updates are CrowdStrike’s mechanism
-
-for rapidly upgrading all its endpoint deployments to reﬂect emerging
-
-patterns of new cyber threats. They are designed to improve overall
+---
+source_path: H08KUZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3425f0ce573a39030edcbb1edf8581221b44cf44
+title: H08KUZ-PDF-ENG
+---
+# HBR / Digital Article / What the 2024 CrowdStrike Glitch Can Teach Us About Cyber R…

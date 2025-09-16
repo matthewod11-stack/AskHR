@@ -1,3 +1,13 @@
-# 47
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: b700161652ded603a020438555a04634ca439e73
+title: file_1
+---
+# Lawrence (1921)
 
-none of the previous studies examined the impact of pay comparison and access to pay information on the relationship between pay inequity and organizational commitment. Following the gender socialization perspective, female employees were found to be less likely to know about some pay and related issues. In contrast, male employees were concerned about their dominant position and existing privileges in the organization; they were particularly sensitive to being treated financially fairly. As Peng et al. (2009) suggested, when these concerns are not met, male employees are likely to have a lower level of commitment to the employer, while female employees are not.
+The last objective of the thesis was to analyze how employees react to pay inequity. This objective was addressed in the fourth paper.
+
+The results of the this paper supported the hypotheses based on social comparison theory (Festinger, 1954) and the gender socialization perspective (Stockard, 1999) that male employees are more sensitive towards pay inequity by demonstrating a lower level of organizational commitment than their female counterparts. Comparing underpayment and overpayment conditions in these organizations, the higher the level of pay inequity, the less committed to the organization male employees were. This finding suggests that male and female employees react differently to underpayment and overpayment conditions, and, thus, gender might act as a boundary condition for equity theory (Adam, 1965). The main principle of equity theory does not work to the same extent with male and female employees, which goes along with earlier criticism of the theory (Carrell and Dittrich, 1978; Huseman et al., 1987). The study thus provided evidence that, despite pay disparities, female employees continue to be highly committed towards their organizations.
+
+The last paper also examined whether pay comparison (the degree to which respondents compare their pay to internal and external targets) and access to pay information would explain the interactive effect of gender and pay inequity on organizational commitment. The results suggested that both pay comparison and access to pay information partially mediated the interactive impact of gender and pay inequity on organizational commitment. This result contributes significantly to the area related to the topic, since, to the best of my knowledge,

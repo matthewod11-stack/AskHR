@@ -1,5 +1,21 @@
-## out the internship report under your supervision.
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: f8294ddf350fd2d1f9ca22b7fd302729734b7225
+title: internship_report
+---
+# Letter of Transmittal
 
-The report focuses on the implementations of some of the key elements in Human Resource
+24 NOV, 2016. Dr. Md. Mamun Habib Associate Professor BRAC Business School BRAC University.
 
-Management. I hope this report will give an actual scenario of the present HR practice of
+Sub: Submission of Internship Report on HR Planning & Policy Development of Karnaphuli Group.
+
+Dear Sir,
+
+It is a great pleasure for me to submit the Internship report, while preparing this Internship; I
+
+have tried my level best to maintain the required standard. In the making of this report, I have
+
+followed all your specific instructions involving report writing so as to present my views and in
+
+the easiest manner. I hope that this paper will fulfill your expectation.It is my pleasure to carry

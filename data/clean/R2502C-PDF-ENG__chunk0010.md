@@ -1,7 +1,27 @@
-## HBR / Magazine Article / The Power of Strategic Fit
+---
+source_path: R2502C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ebf48f556a5f3038b7a0502ac636129a385e264b
+title: R2502C-PDF-ENG
+---
+# ﬂow until 2002.
 
-might persuasively predict that market share should soon return to
+Facing heavy pressure to improve the worth of their company, many managers have turned to what we call “spreadsheet strategies.” That approach is flawed.
 
-its upward-sloping trend line. Simplistic extrapolations overlook the
+Second, spreadsheet strategies typically extrapolate positive linear
 
-realities of diminishing returns and the complexities of competitive
+relationships ad inﬁnitum. For instance, if a $10 million reduction in
+
+R&D spending correlated with improved proﬁts last year, then this
+
+approach suggests that a $20 million cut would double the ﬁnancial
+
+beneﬁts in the following year. If market share increased for eight
+
+years but recently declined for two, spreadsheet regression functions
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

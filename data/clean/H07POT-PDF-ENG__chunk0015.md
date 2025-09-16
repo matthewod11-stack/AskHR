@@ -1,13 +1,23 @@
-# Divorce your personal and work data.
+---
+source_path: H07POT-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f99bccd30b55164aaebd199e7084c2c73a8c4e1
+title: H07POT-PDF-ENG
+---
+## rent, transportation, food, and health care.
 
-The pandemic forced many workers to blend their professional and
+To be ﬁnancially ready, you don’t necessarily need to save a substantial
 
-personal lives — working at kitchen tables or bedrooms and using
+amount of money from each paycheck — start small and increase your
 
-work devices for personal tasks. Though convenient and cost-eﬀective,
+savings rate occasionally. For example, you might begin with socking
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+away 5% of your pay, then gradually increase that percentage. For your
 
-4
+emergency fund, consider investing the money in a high-yield savings
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+account, which oﬀers a signiﬁcantly higher interest rate or annual
+
+percentage yield than a traditional savings account but is less volatile
+
+than investing in the stock market.

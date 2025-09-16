@@ -1,5 +1,7 @@
-# B
-
-Visionary See all possibilities Not as good at implementing “Trust me”
-
-14 12 10 8 6 4 2 2 4 6 8 10 12 14
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b1bd705f1eea1f455ec6c52df40eb7715a7b5660
+title: performance_management_3rd_edition_by_aguinis
+---
+# Driver

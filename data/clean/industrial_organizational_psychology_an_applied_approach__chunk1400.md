@@ -1,7 +1,13 @@
-## test: content, criterion, construct, face, and known-group.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 13a678b4c07dde13f6e6a81aea62c17a1646bc54
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Validity
 
-Content Validity One way to determine a test’s validity is to look at its degree of content validity— the extent to which test items sample the content that they are supposed to mea- sure. Again, let us use your final exam as an example. Your instructor tells you that the final exam will measure your knowledge of Chapters , , and . Each chapter is the same length, and your instructor spent three class periods on each chapter. The test will have  questions. For the test to be content valid, the items
+Validity is the degree to which inferences from scores on tests or assessments are justified by the evidence. As with reliability, a test must be valid to be useful. But just because a test is reliable does not mean it is valid. For example, suppose that we want to use height requirements to hire typists. Our measure of height (a ruler) would certainly be a reliable measure; most adults will get no taller, and two people measuring an applicant’s height will probably get very similar measurements. It is doubtful, however, that height is related to typing perfor- mance. Thus, a ruler would be a reliable measure of height, but height would not be a valid measure of typing performance.
 
-evaluating selection techniques and decisions
+Even though reliability and validity are not the same, they are related. The potential validity of a test is limited by its reliability. Thus, if a test has poor reliability, it cannot have high validity. But as we saw in the example above, a test’s reliability does not imply validity. Instead, we think of reliability as having a necessary but not sufficient relationship with validity.
 
-209
+There are five common strategies to investigate the validity of scores on a

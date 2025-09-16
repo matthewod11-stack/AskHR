@@ -1,9 +1,7 @@
-# Step 2: Visit Your Operational Budget
-
-Typically, operational budgets will be categorized into “accounts” with
-
-each line item in your budget being an income or expense category.
-
-I have one in front of me, and it shows the following line items for
-
-expenses – “materials and supplies; indirect labor; employee beneﬁts;
+---
+source_path: H08V5N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4db39c8d5a2c43fd3fca4710dccb677a62fbc97d
+title: H08V5N-PDF-ENG
+---
+## operational plans, in particular your budget.

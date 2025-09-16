@@ -1,19 +1,23 @@
-## result of uncontrollable strokes of genius, organizations can actually
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b7d5e77fde5d7f77110ee075ce57753c27e2e703
+title: H08IKZ-PDF-ENG
+---
+# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
 
-systematically harness imagination through tactics like seeking out
+acknowledging and fostering experiential learning and having decision
 
-anomalies (rather than focusing on averages), questioning previously
+markers participants reﬂect on questions like:
 
-held assumptions, and conducting experiments.
+- What was my initial reaction or gut feeling?
 
-Foster an environment where human skills can thrive. It may be diﬃcult for intuition and imagination to shine in a
+- Where did I rely on individual or collective experience?
 
-technocratic culture dominated by rational justiﬁcation. To create
+- Where did I supplement my experience or expertise?
 
-an environment that promotes unique human decision-making skills,
+- What mental shortcuts did I rely on to simplify the decision?
 
-organizations must begin with a culture of psychological safety in which
+Another uniquely human skill is imagination — the ability to come up
 
-employees can express diverse perspectives, debate ideas openly, and
-
-challenge the status quo.
+with what does not yet exist, but could. While often believed to be the

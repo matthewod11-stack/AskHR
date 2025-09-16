@@ -1,15 +1,11 @@
-## collaborations with suppliers, customers, universities, startups, or
+---
+source_path: H08D7W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56b68ddcb67f0792a54d276418d6e8470494db9e
+title: H08D7W-PDF-ENG
+---
+# Strategic Partnerships
 
-companies using relevant technology in a totally diﬀerent way.
+You don’t have to contain yourself to your team or the organization
 
-For example, the jeans company Levi Strauss has been collaborating
-
-with Google to ﬁgure out what “smart” clothing might accomplish for
-
-users. But doing so needs focused and dedicated work. That means
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+when it comes to innovation. Great innovations can come from

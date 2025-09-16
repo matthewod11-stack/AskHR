@@ -1,11 +1,27 @@
-## HBR / Magazine Article / Does Gamified Training Get Results?
+---
+source_path: F2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 77bfc67660751e4e1394848214ca9979d8dedaf2
+title: F2302A-PDF-ENG
+---
+# participation of users.
 
-How can leaders help?
+How do you persuade employees to play?
 
-It’s important that they are seen engaging with the trainings themselves.
+First, make sure the experience is fun! Most employees—83% of them—
 
-Otherwise, junior employees might worry about being perceived as shirking
+say they enjoy playing Globerunner. Second, emphasize that it’s a time-
 
-if they play while at work. Some of our CEOs have personally rolled out the
+efficient way for people to improve in their roles. Third, be aware of cultural
 
-platforms in their member firms, and that’s led to some great interactions
+considerations. For instance, gambling elements of any kind are prohibited
+
+in some countries. Finally, avoid a male bias, which is a real risk with game
+
+design. We always include female designers.
+
+Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+
+4
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,31 @@
-## HBR / The Big Idea / A Leader’s Guide to Navigating Employee Activism
+---
+source_path: H08058-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 45f79bbfcb9cf064ed270ff5f87f97b032d7087c
+title: H08058-PDF-ENG
+---
+# moments of crisis.
 
-Megan Reitz is an associate fellow at Saïd Business School, University of Oxford, and adjunct professor of leadership and dialogue at Hult International Business School. She is the author of Dialogue in Organizations (2015) and the coauthor of Mind Time (2018), Speak Up (2019), and the second edition of Speak Out, Listen Up (2024). Follow her on LinkedIn or meganreitz.com.
+Employee activism challenges our assumptions about what leaders can
 
-John Higgins is a researcher, author, and coach. He is a research fellow at GameShift and the director of research at The Right Conversation. John has worked in close collaboration with Megan Reitz for over a decade, and their latest book is Speak Out, Listen Up (2024).
+and should attend to when running a business — and the extent to
+
+which organizations can stand apart from the social, economic, and
+
+environmental issues that are part of a noisy public sphere.
+
+Leaders must come to terms with this shift, cede some control, and work
+
+with stakeholders to reﬂect on the case for action — and nonaction.
+
+The tools we’ve described help them to do this and to learn, rather than
+
+continuing to make the same mistakes.
+
+This article was originally published online on February 6, 2024.
 
 Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-8
+7
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,11 +1,27 @@
-## HBR / Magazine Article / How Apple Is Organized for Innovation
+---
+source_path: R2006F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 535c775d36a29dae02adc9dc4a0126984224853a
+title: R2006F-PDF-ENG
+---
+# Leadership at Scale
 
-responsibility of the CEO. The adjustments Tim Cook has implemented
+Apple’s way of organizing has led to tremendous innovation and success
 
-in recent years include dividing the hardware function into hardware
+over the past two decades. Yet it has not been without challenges,
 
-engineering and hardware technologies; adding artiﬁcial intelligence
+especially with revenues and head count having exploded since 2008.
 
-and machine learning as a functional area; and moving human interface
+As the company has grown, entering new markets and moving into
 
-out of software to merge it with industrial design, creating an integrated
+new technologies, its functional structure and leadership model have
+
+had to evolve. Deciding how to organize areas of expertise to best
+
+enable collaboration and rapid decision-making has been an important
+
+Copyright © 2020 Harvard Business School Publishing. All rights reserved.
+
+15
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

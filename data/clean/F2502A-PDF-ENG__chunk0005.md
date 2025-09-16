@@ -1,15 +1,13 @@
-## HBR / Magazine Article / How Is Your Team Spending the Time Saved by Gen AI?
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a7df341bd8d581135843c7762d9634c24632e558
+title: F2502A-PDF-ENG
+---
+# for instance.
 
-How should workers use such time windfalls? Experts have been
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-debating that ever since OpenAI introduced ChatGPT, in November
+1
 
-- 2022. Boston Consulting Group, for example, found that many people
-
-devote their extra hours to problem-solving, interacting with others,
-
-or learning new things. Christopher Pissarides, a Nobel Prize–winning
-
-economist, has diﬀerent ideas: He believes that we should leverage this
-
-new free time to improve our well-being and even to move to a four-day
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

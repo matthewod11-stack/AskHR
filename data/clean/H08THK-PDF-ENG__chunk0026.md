@@ -1,9 +1,15 @@
-# HBR / Digital Article / Our Favorite Management Tips on Communicating Like a Leader
+---
+source_path: H08THK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 88e106b9c4dbd500164a7b9adc6fc725f1373ac6
+title: H08THK-PDF-ENG
+---
+## transparent as possible, use plain language (not corporate-speak), and
 
-is incomplete or not what they want to hear. Be precise about what
+respond to questions. People appreciate honesty, even if the message
 
-you can say now and when you’ll say more, providing an overall
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-timeline for the process. But avoid giving people running commentary
+5
 
-as developments unfold; it can lead to unhelpful distractions and take
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,23 +1,19 @@
-## communicate with executive-level precision.
+---
+source_path: H08UYL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 75a553e2c2ed47f15cede7398ea5e79e70f1ab88
+title: H08UYL-PDF-ENG
+---
+# Five Types of Overcommunicating Leaders
 
-- 1. The Straight Shooter
+In high-stakes environments, people look to senior leaders for clarity,
 
-This leader shares unﬁltered thoughts in the name of honesty. They
+conﬁdence, and stability. When communication is unﬁltered or unclear,
 
-value candor and believe in “telling it like it is.”
+it creates confusion or fear, even if the intent is transparency.
 
-But without thoughtful framing, blunt statements can damage morale
+Through our work coaching C-suite clients, we’ve identiﬁed
 
-and shut down growth. Especially at the executive level, how comments
+ﬁve common overcommunication styles. Importantly, these aren’t
 
-about the business or people are delivered is just as important as what’s
-
-being said.
-
-A CEO one of us (Jordan) worked with had a tendency to share direct, unbuﬀered thoughts about segments of the business at all-hands
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+personality ﬂaws; they’re signs of a missing skill: the ability to

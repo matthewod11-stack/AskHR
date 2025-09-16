@@ -1,15 +1,17 @@
-# Non-tan~bles
+---
+source_path: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization.md
+pages: n/a-n/a
+chunk_id: 091e30566635081591310970f28ce724060efb11
+title: a_plan_to_improve_employee_performance_in_a_employment_and_training_organization
+---
+# employee ' s accomplishment.
 
-- 1. An extra long morning or lunch break.
+- 4. A special "Wall of Fame" to recognize people and their accomplishments
 
-- 2. Special apparel day for the employee recognized - jeans , tennis shoes, etc.
+posted in the front lobby.
 
-- 3. Ask the employee to teach or share his/her accomplishment with others as a
+36
 
-way of recognizing the person 's ability an.d role.
+- 5. A company Certificate of Achievement or Employee of the month plaque .
 
-- 4. Give the person increased or changed responsibility.
-
-- 5. Recognize the individual 's accomplishments in front of peers.
-
-- 6. Ask the employee for advice or opinion which demonstrates respect.
+- 6. Something engraved with the person 's name, i.e., pen set, paperweight or cup

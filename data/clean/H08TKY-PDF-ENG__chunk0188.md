@@ -1,9 +1,13 @@
-## Go deeper: “Strategy and the Internet,” by Michael E. Porter (March
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c6aa1870e8f9bd64108d11ea5a9aa2be2ea804d
+title: H08TKY-PDF-ENG
+---
+## marketing, human resource management, and so on diﬀerently from
 
-2001)
+rivals and tailored to its unique value proposition. If a company
 
-. . .
+focuses only on adopting best practices, it will end up performing most
 
-Value stick: A value-based strategy follows a simple principle:
-
-Companies can achieve enduring ﬁnancial success by creating
+activities similarly to competitors, making it hard to gain an advantage.

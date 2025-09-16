@@ -1,41 +1,35 @@
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: ecd85b08d21bc3ad8d6d1010de6ab36c0c0ae267
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
 # A N
 
 (
 
-(cid:3)
-
-(cid:3)
-
-(cid:3) (cid:3)
-
-6 0 0 (cid:2)
+2 0 0
 
 .
 
-8 1 0 (cid:2)
+1 0 0
 
 .
 
-7 1 0 (cid:2)
+2 0 0
 
 .
 
-6 2 0 (cid:2)
+3 0 0
 
 .
 
-5 1 0 (cid:2)
+8 0 0 (cid:2)
 
 .
 
-7 0 0
+5 0 0
 
 .
 
-9 0 0 (cid:2)
-
-.
-
-(cid:3) (cid:3)
-
-(cid:3) (cid:3)
+)

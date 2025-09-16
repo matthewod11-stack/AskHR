@@ -1,39 +1,25 @@
-## something from these new measurements about choices.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 12390c88e2d7337a2164b4122509135f454aea7e
+title: behavioral_economics_1
+---
+# E. Neuroeconomics
 
-28
+Neuroeconomics is the grounding of microeconomics in details of neural functioning. It is natural to be
 
-Some basic facts about the brain can guide economic modeling (and already have, in “dual-process”
+skeptical about whether economists need to know precisely where in the brain computations occur to make
 
-models). The brain is divided into four lobes—frontal, parietal, occipital and temporal. Regions of these lobes
+predictions about economic behavior such as responses to prices. But keep in mind that the revealed preferences
 
-are interconnected and create specialized “circuits” for performing various tasks.
+approach which deliberately avoided “trying to discover the essence of things” (in Pareto’s phrase) was adopted
 
-The human brain is a primate brain with more neocortex. To deny this important fact is akin to
+about a hundred years ago. At that time it really was impossible to make all the measurements and causal
 
-creationism. The fact that many human and anima brain structures are shared means that human behavior
+interventions that can be made today, with PET, TMS, MEG, pharmacological and hormone changes, genetic
 
-generally involves interaction between “old” brain regions and more newly-evolved ones. The descent of
+testing in all species and gene knockouts in mice (actually engineering the genes), and fMRI. The fact that there
 
-humans from other species also means we might learn something about human behavior from other species.
+are so many tools means that limits of one method can be compensated for by strengths of other methods (they
 
-For example, rats become addicted to all drugs that humans become biologically addicted to, which implies that
-
-old reward circuitry shared by rat and human brains is part of human addiction.
-
-While we often think of complex behavior as deliberate, resources for “executive function” or
-
-“cognitive control” are rather scarce (concentrated in the cingulate). As a result, the brain and body are very
-
-good at delegating components of complex behavior into automatic processes. For example, a student driver is
-
-overwhelmed by visual cues, verbal commands, memory required for navigation, and mastery of motor skills.
-
-Many accidents result during this learning process. But within a few years, driving becomes so effortless that
-
-drivers can eat and talk (perhaps on a cell phone) while driving safely.17
-
-Methodologically, neuroeconomics is not intended to test economic theory in a traditional way
-
-(particularly under the view that utilities and beliefs are only revealed by choices). Instead, the goal is to
-
-establish the neural circuitry underlying economic decisions, for the eventual purpose of making better
+are complements). Technological substitution from 100 years ago to now suggest economists might learn

@@ -1,21 +1,17 @@
-# rationality limits.
+---
+source_path: behavioral_economics_1.md
+pages: n/a-n/a
+chunk_id: 5abdc076ba7b138db474c3e9682fe7d6bf5d0e1b
+title: behavioral_economics_1
+---
+## I. The themes and philosophy of behavioral economics
 
-In one sense, behavioral economics is the inevitable result of relaxing the assumption of perfect
+Behavioral economics applies models of systematic imperfections in human rationality, to the study and
 
-rationality. Like perfect competition and perfect information, the assumption of perfect agent rationality is a
+engineering of organizations, markets and policy. These imperfections include limits on rationality, willpower
 
-useful limiting case in economic theory. Generalizing those assumptions to account for imperfect competition
+and self-interest (Rabin, 1998; Mullainathan and Thaler, 2000), and any other behavior resulting from an
 
-and costly information was challenging, slow, and proved to be powerful; weakening the assumption of perfect
+evolved brain with limited attention. The study of individual differences in rationality, and learning, is also
 
-rationality will be too.
-
-One property of models of human rationality, which largely distinguishes them from studies of
-
-economic competition, is that other social sciences have cumulated a lot of ideas and empirical facts about
-
-human rationality. The approach to behavioral economics that I will describe chooses to pay careful attention to
-
-those constructs and facts. In this empirically-driven approach to behavioral economics, assumptions are chosen
-
-to fit what is known from other sciences. This approach can be thought of as scientifically humble, or it can be
+important for understanding whether social interaction and economic aggregation minimizes effects of

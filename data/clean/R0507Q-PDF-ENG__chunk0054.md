@@ -1,19 +1,13 @@
-## HBR / Magazine Article / The Balanced Scorecard: Measures That Drive Performance
+---
+source_path: R0507Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 653676af881429e2d936360f03cdd0561098d622
+title: R0507Q-PDF-ENG
+---
+# shareholder value.
 
-ECI’s innovation measures focus on the company’s ability to develop
+Copyright © 2005 Harvard Business School Publishing. All rights reserved.
 
-and introduce standard products rapidly, products that the company
+13
 
-expects will form the bulk of its future sales. Its manufacturing
-
-improvement measure focuses on new products; the goal is to achieve
-
-stability in the manufacturing of new products rather than to improve
-
-manufacturing of existing products. Like many other companies, ECI
-
-uses the percentage of sales from new products as one of its innovation
-
-and improvement measures. If sales from new products are trending
-
-downward, managers can explore whether problems have arisen in new-
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

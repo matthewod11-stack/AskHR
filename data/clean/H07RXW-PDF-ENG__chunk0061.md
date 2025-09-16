@@ -1,9 +1,33 @@
-## management systems, as well as shift culture and leadership behaviors.
+---
+source_path: H07RXW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 18f4b6d0ac2f8c4dd20369b7f0b44b25a320973e
+title: H07RXW-PDF-ENG
+---
+# quickly.
 
-This may seem a daunting task, but the ﬁrst step is relatively
+Step two — breaking down units into microenterprises — can get
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+complicated, as you must rethink reporting structures to pull smaller
 
-12
+units out of larger units. But there is a good chance that your IT
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+department has already implemented some form of smaller team-based
+
+approach having adopted “lean” or “scrum” approaches — and as
+
+those IT teams have interacted the business side, they too have started
+
+shifting toward teams at least as regards speciﬁc projects. Product and
+
+marketing teams may already be reorienting toward “growth teams”
+
+popularized by tech companies like AirBNB, Meta, and Uber. What is
+
+left to do is evolve such project teams into permanent team structures.
+
+Step three — allowing management of small teams to be governed
+
+by a marketplace — adds an additional layer of complexity as you
+
+must untangle and redesign budgeting processes and performance

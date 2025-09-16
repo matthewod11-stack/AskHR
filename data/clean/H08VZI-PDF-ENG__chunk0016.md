@@ -1,9 +1,7 @@
-## Family Culture: High Connection, Low Courage
-
-When a culture has high connection but low courage, we call it a family
-
-culture. It exists in the lower right-hand quadrant of the map and is
-
-characterized by being “nice” but unwilling or unable to do difficult
-
-things. We found that 37% of the people in our survey, the largest
+---
+source_path: H08VZI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d7094e7ce683e28e046d802877ed053cd774f848
+title: H08VZI-PDF-ENG
+---
+## HBR / Digital Article / The Secret to Building a High-Performing Team

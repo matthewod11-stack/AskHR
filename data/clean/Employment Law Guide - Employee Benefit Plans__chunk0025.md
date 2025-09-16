@@ -1,7 +1,11 @@
-## jointly by one or more such employers and an employee organization.
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: 4f5bd2a13935e5033e9d04774672fba8ab525a35
+title: Employment Law Guide - Employee Benefit Plans
+---
+# Who is Covered
 
-Retirement plans, a type of employee beneﬁt plan, are established or maintained to provide retirement income
+Title I of the Employee Retirement Income Security Act (ERISA) is administered by the Employee Beneﬁts Security Administration (EBSA). The provisions of Title I of ERISA cover most private sector employee beneﬁt
 
-or to defer income until termination of covered employment or beyond. Other employee beneﬁt plans, called welfare plans, are established or maintained to provide health beneﬁts, disability beneﬁts, death beneﬁts,
-
-prepaid legal services, vacation beneﬁts, day care centers, scholarship funds, apprenticeship and training
+plans. Such plans are voluntarily established or maintained by an employer, an employee organization, or

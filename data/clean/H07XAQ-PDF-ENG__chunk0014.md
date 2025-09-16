@@ -1,15 +1,17 @@
-# How to Avoid the Kitchen Sink
+---
+source_path: H07XAQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ffc3a4dad459fc27c142b01d945d61ef8272772
+title: H07XAQ-PDF-ENG
+---
+# their skills.
 
-To provide employees with learning content that’s relevant, curated,
+People can lack the expertise to make good choices.
 
-and ﬁndable, try these two strategies:
+How, exactly, are non-experts supposed to decide which of the options
 
-Understand why learning gets unwieldy.
+available to them are useful for their speciﬁc problem? Giving the novice
 
-Most L&D professionals have a seminal story about when they said
+gardener the responsibility of ﬁguring out the best combination of pest
 
-something like: “I can’t believe this is where this program ended up!”
-
-They certainly don’t set out to throw everything but the kitchen sink
-
-at their people, so how does it happen? Mostly this is the result of
+solutions certainly isn’t sensible — yet isn’t that exactly what we’re doing when we take the kitchen-sink approach to learning oﬀerings?

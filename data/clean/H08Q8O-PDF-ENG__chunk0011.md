@@ -1,3 +1,9 @@
-## the Covid pandemic, at least in Europe and North America. By the
+---
+source_path: H08Q8O-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aa2430d16351d32ffc81fe358dfa603bf850fee8
+title: H08Q8O-PDF-ENG
+---
+# innovative?
 
-end of the 20th century, companies had forced new expectations on
+This shift in what employees understand as fair goes back to well before

@@ -1,7 +1,25 @@
-## HBR / Digital Article / Collaboration Overload Is Sinking Productivity
+---
+source_path: H06K3M-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cb1a3a84a9c2e6809ae64e5673a6a08d42982279
+title: H06K3M-PDF-ENG
+---
+## Organizational Actions That Can Reduce Self-Driven Overload
 
-This created a collaborative context unlike anything the company had
+General Mills has shown how forward-looking organizations can help
 
-experienced in the past. The average time employees spent per week
+employees combat anxiety-driven overload. The move to remote work
 
-in collaboration at the start of March 2020 was 21.4 hours (based on
+during the pandemic presented a unique challenge for General Mills.
+
+Not only were employees getting used to this new way of working,
+
+but demand for General Mills’ core products went through the roof as
+
+grocery store shelves emptied due to panic buying.
+
+Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+
+7
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

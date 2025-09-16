@@ -1,11 +1,17 @@
-# Selection ratio =
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 8652aad27f9a75a1e64e2b0b6107b33a1e2e75b4
+title: industrial_organizational_psychology_an_applied_approach
+---
+# I
 
-number hired ___________________ number of applications
+y t t e G / t p o o c S ©
 
-The lower the selection ratio, the greater the potential usefulness of the test.
+216
 
-The final piece of information needed is the base rate of current perfor- mance—the percentage of employees currently on the job who are considered successful. This figure is usually obtained in one of two ways. The first method is the most simple but the least accurate. Employees are split into two equal groups based on their scores on some criterion such as tenure or performance. The base rate using this method is always . because one half of the employees are con- sidered satisfactory.
+chapter 
 
-The second and more meaningful method is to choose a criterion measure score above which all employees are considered successful. For example, at one real estate agency, any agent who sells more than $, of properties makes a profit for the agency after training and operating expenses have been deducted. In this case, agents selling more than $, of properties would be consid- ered successes because they made money for the company. Agents selling less than $, of properties would be considered failures because they cost the company more money than they brought in. In this example, there is a clear point at which an employee can be considered a success. Most of the time, how- ever, there are no such clear points. In these cases, managers will subjectively choose a point on the criterion that they feel separates successful from unsuc- cessful employees.
+useful before investing time and money in a criterion validity study. This is where validity generalization comes into play. On the basis of findings by researchers such as Schmidt and Hunter (), we have a good idea of the typical validity coefficients that will result from various methods of selection. To estimate the validity coefficient that an organization might obtain, one of the coefficients from Table . in the previous chapter is used. The higher the validity coefficient, the greater the possibility the test will be useful.
 
-After the validity, selection ratio, and base rate figures have been obtained, the Taylor-Russell tables are consulted (Table .). To understand how they are used, let us take the following example. Suppose we have a test validity of ., a selection ratio of ., and a base rate of .. Locating the table corresponding to the . base rate, we look along the top of the chart until we find the . selection ratio. Next, we locate the validity of . on the left side of the table. We then trace across the table until we locate the intersection of the selection ratio column and the validity row; we have found .. If the organization uses that particular selec- tion test, % of future employees are likely to be considered successful. This figure is compared with the previous base rate of ., indicating a % increase in successful employees (. ÷ . = .).
+The second piece of information that must be obtained is the selection ratio, which is simply the percentage of people an organization must hire. The ratio is determined by the formula

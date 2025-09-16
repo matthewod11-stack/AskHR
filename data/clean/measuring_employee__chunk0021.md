@@ -1,9 +1,19 @@
-# 1 Introduction
+---
+source_path: measuring_employee.md
+pages: n/a-n/a
+chunk_id: 05bb2660a5780b62fbe047256b327915a196dcf0
+title: measuring_employee
+---
+## Steven Weeks, Policy Manager, NHS Employers
 
-Employee engagement is an important part of the organisational mission of the NHS. It has been positioned as:
+This report is independent research funded by the National Institute for Health Research (Health Services and Delivery Research, 12/5004/01 – Enhancing and Embedding Staff Engagement in the NHS: Putting Theory into Practice). The views expressed in this publication are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research or the Department of Health.
 
-(cid:515)a key ingredient in helping the NHS meet the range of current challenges that it faces. Effective staff engagement will be essential to help meet the financial challenges and improve productivity…The importance of staff engagement is recognised by its inclusion in the staff pledges which are part of the NHS constitution” (taken from www.nhsemployers.org).
+Contents Introduction ...................................................................................................................................... 3 1 2 Defining Engagement ..................................................................................................................... 4 3 Measuring Engagement .................................................................................................................. 5 Presenting and Interpreting Engagement (cid:513)scores(cid:514) ..................................................................... 9 4 Categorising and Benchmarking Engagement (cid:513)levels(cid:514) ........................................................... 11 5 Identifying Actions to Foster Engagement via the NHS Staff Survey ................................ 14 6 Organisational-level actions ................................................................................................. 15 Team/Workgroup-level actions ............................................................................................ 16 Individual-level actions ......................................................................................................... 17 Summary .......................................................................................................................................... 19
 
-Thus, employee engagement is considered a crucial driver of staff morale and performance within the NHS, and has been shown to be important to the performance of NHS Trusts, e.g. reduced absenteeism and better quality of services (West and Dawson, 2012). If engagement has the potential to increase the morale and performance of employees, then NHS Trusts should carefully examine engagement scores across its workforce and the key factors that influence these scores. In particular, it is important to consider how the results of engagement surveys can be interpreted and used to identify actions that managers can take to foster engagement within their teams and departments. Therefore this paper is aimed at those (within HR, OD or internal communications) involved in the interpretation and communication of NHS staff survey results within their Trusts. The purpose of the paper is to discuss key issues of defining, measuring and understanding engagement, and to position the NHS staff engagement measure within these discussions. Ultimately it aims to give evidence-based advice to those who use the results from the NHS staff survey on how to develop suitable engagement strategies based on annual engagement scores.
+6.1 6.2 6.3
 
-3
+7 8
+
+9
+
+Case Study on (cid:513)The WWL Way(cid:514) at Wrightington, Wigan and Leigh NHS Foundation Trust ................................................................................................................. 20 References ....................................................................................................................................... 23

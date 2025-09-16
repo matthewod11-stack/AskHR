@@ -1,5 +1,43 @@
-## unsatisfied with their organization.(cid:32)
+---
+source_path: university_of_dallas_dissertation_template.md
+pages: n/a-n/a
+chunk_id: dd78b6c9f3ec4554c5450b1593a1d5174cb3f228
+title: university_of_dallas_dissertation_template
+---
+# (cid:32)
 
-(cid:57)(cid:54)(cid:32)
+(cid:52)(cid:46)(cid:51)(cid:32)(cid:69)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:78)(cid:101)(cid:116)(cid:32)(cid:80)(cid:114)(cid:111)(cid:109)(cid:111)(cid:116)(cid:101)(cid:114)(cid:32)(cid:83)(cid:99)(cid:111)(cid:114)(cid:101)(cid:32)(cid:40)(cid:101)(cid:78)(cid:80)(cid:83)(cid:41)(cid:32)
 
-(cid:32)
+(cid:84)(cid:104)(cid:101)(cid:32)(cid:101)(cid:78)(cid:80)(cid:83)(cid:32)(cid:119)(cid:97)(cid:115)(cid:32)(cid:99)(cid:97)(cid:108)(cid:99)(cid:117)(cid:108)(cid:97)(cid:116)(cid:101)(cid:100)(cid:32)(cid:119)(cid:105)(cid:116)(cid:104)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)employees’ responses on a scale of 0(cid:45)(cid:49)(cid:48)(cid:32)(cid:100)(cid:105)(cid:118)(cid:105)(cid:100)(cid:101)(cid:100)(cid:32)(cid:105)(cid:110)(cid:116)(cid:111)(cid:32)
+
+(cid:116)(cid:104)(cid:114)(cid:101)(cid:101)(cid:32)(cid:99)(cid:97)(cid:116)(cid:101)(cid:103)(cid:111)(cid:114)(cid:105)(cid:101)(cid:115)(cid:58)(cid:32)(cid:112)(cid:114)(cid:111)(cid:109)(cid:111)(cid:116)(cid:101)(cid:114)(cid:115)(cid:32)(cid:40)(cid:57)(cid:45)(cid:49)(cid:48)(cid:41)(cid:44)(cid:32)(cid:112)(cid:97)(cid:115)(cid:115)(cid:105)(cid:118)(cid:101)(cid:115)(cid:32)(cid:40)(cid:55)(cid:45)(cid:56)(cid:41)(cid:44)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:100)(cid:101)(cid:116)(cid:114)(cid:97)(cid:99)(cid:116)(cid:111)(cid:114)(cid:115)(cid:32)(cid:40)(cid:48)(cid:45)(cid:54)(cid:41)(cid:46)(cid:32)(cid:84)(cid:97)(cid:98)(cid:108)(cid:101)(cid:32)(cid:52)(cid:46)(cid:52)(cid:32)(cid:115)(cid:104)(cid:111)(cid:119)(cid:115)(cid:32)(cid:116)(cid:104)(cid:97)(cid:116)(cid:32)
+
+(cid:112)(cid:114)(cid:111)(cid:109)(cid:111)(cid:116)(cid:101)(cid:114)(cid:115)(cid:32)(cid:97)(cid:114)(cid:101)(cid:32)(cid:104)(cid:105)(cid:103)(cid:104)(cid:108)(cid:121)(cid:32)(cid:115)(cid:97)(cid:116)(cid:105)(cid:115)(cid:102)(cid:105)(cid:101)(cid:100)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:108)(cid:111)(cid:121)(cid:97)(cid:108)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:115)(cid:32)(cid:119)(cid:104)(cid:111)(cid:32)(cid:119)(cid:105)(cid:108)(cid:108)(cid:32)(cid:108)(cid:105)(cid:107)(cid:101)(cid:108)(cid:121)(cid:32)(cid:114)(cid:101)(cid:99)(cid:111)(cid:109)(cid:109)(cid:101)(cid:110)(cid:100)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:99)(cid:111)(cid:109)(cid:112)(cid:97)(cid:110)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)
+
+(cid:111)(cid:116)(cid:104)(cid:101)(cid:114)(cid:115)(cid:46)(cid:32)(cid:80)(cid:97)(cid:115)(cid:115)(cid:105)(cid:118)(cid:101)(cid:115)(cid:32)(cid:97)(cid:114)(cid:101)(cid:32)(cid:103)(cid:101)(cid:110)(cid:101)(cid:114)(cid:97)(cid:108)(cid:108)(cid:121)(cid:32)(cid:115)(cid:97)(cid:116)(cid:105)(cid:115)(cid:102)(cid:105)(cid:101)(cid:100)(cid:32)(cid:98)(cid:117)(cid:116)(cid:32)(cid:110)(cid:111)(cid:116)(cid:32)(cid:97)(cid:115)(cid:32)(cid:101)(cid:110)(cid:116)(cid:104)(cid:117)(cid:115)(cid:105)(cid:97)(cid:115)(cid:116)(cid:105)(cid:99)(cid:44)(cid:32)(cid:119)(cid:104)(cid:105)(cid:108)(cid:101)(cid:32)(cid:100)(cid:101)(cid:116)(cid:114)(cid:97)(cid:99)(cid:116)(cid:111)(cid:114)(cid:115)(cid:32)(cid:97)(cid:114)(cid:101)(cid:32)(cid:100)(cid:105)(cid:115)(cid:115)(cid:97)(cid:116)(cid:105)(cid:115)(cid:102)(cid:105)(cid:101)(cid:100)(cid:32)
+
+(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:115)(cid:32)(cid:119)(cid:104)(cid:111)(cid:32)(cid:109)(cid:97)(cid:121)(cid:32)(cid:115)(cid:112)(cid:114)(cid:101)(cid:97)(cid:100)(cid:32)(cid:110)(cid:101)(cid:103)(cid:97)(cid:116)(cid:105)(cid:118)(cid:101)(cid:32)(cid:119)(cid:111)(cid:114)(cid:100)(cid:45)(cid:111)(cid:102)(cid:45)(cid:109)(cid:111)(cid:117)(cid:116)(cid:104)(cid:32)(cid:97)(cid:98)(cid:111)(cid:117)(cid:116)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:99)(cid:111)(cid:109)(cid:112)(cid:97)(cid:110)(cid:121)(cid:46)(cid:32)(cid:84)(cid:104)(cid:101)(cid:32)(cid:101)(cid:78)(cid:80)(cid:83)(cid:32)(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:32)(cid:105)(cid:115)(cid:32)
+
+(cid:99)(cid:97)(cid:108)(cid:99)(cid:117)(cid:108)(cid:97)(cid:116)(cid:101)(cid:100)(cid:32)(cid:98)(cid:121)(cid:32)(cid:115)(cid:117)(cid:98)(cid:116)(cid:114)(cid:97)(cid:99)(cid:116)(cid:105)(cid:110)(cid:103)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:112)(cid:101)(cid:114)(cid:99)(cid:101)(cid:110)(cid:116)(cid:97)(cid:103)(cid:101)(cid:32)(cid:111)(cid:102)(cid:32)(cid:100)(cid:101)(cid:116)(cid:114)(cid:97)(cid:99)(cid:116)(cid:111)(cid:114)(cid:115)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:112)(cid:101)(cid:114)(cid:99)(cid:101)(cid:110)(cid:116)(cid:97)(cid:103)(cid:101)(cid:32)(cid:111)(cid:102)(cid:32)(cid:112)(cid:114)(cid:111)(cid:109)(cid:111)(cid:116)(cid:101)(cid:114)(cid:115)(cid:44)(cid:32)
+
+(cid:112)(cid:114)(cid:111)(cid:118)(cid:105)(cid:100)(cid:105)(cid:110)(cid:103)(cid:32)(cid:97)(cid:110)(cid:32)(cid:111)(cid:118)(cid:101)(cid:114)(cid:97)(cid:108)(cid:108)(cid:32)(cid:109)(cid:101)(cid:97)(cid:115)(cid:117)(cid:114)(cid:101)(cid:32)(cid:111)(cid:102)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:115)(cid:97)(cid:116)(cid:105)(cid:115)(cid:102)(cid:97)(cid:99)(cid:116)(cid:105)(cid:111)(cid:110)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:108)(cid:111)(cid:121)(cid:97)(cid:108)(cid:116)(cid:121)(cid:46)(cid:32)(cid:84)(cid:104)(cid:101)(cid:32)(cid:101)(cid:109)(cid:112)(cid:108)(cid:111)(cid:121)(cid:101)(cid:101)(cid:32)(cid:110)(cid:101)(cid:116)(cid:32)(cid:112)(cid:114)(cid:111)(cid:109)(cid:111)(cid:116)(cid:101)(cid:114)(cid:32)
+
+(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:32)(cid:109)(cid:97)(cid:121)(cid:32)(cid:114)(cid:97)(cid:110)(cid:103)(cid:101)(cid:32)(cid:102)(cid:114)(cid:111)(cid:109)(cid:32)(cid:45)(cid:49)(cid:48)(cid:48)(cid:32)(cid:116)(cid:111)(cid:32)(cid:49)(cid:48)(cid:48)(cid:46)(cid:32)(cid:71)(cid:111)(cid:111)(cid:100)(cid:32)(cid:101)(cid:78)(cid:80)(cid:83)(cid:32)(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:115)(cid:32)(cid:102)(cid:97)(cid:108)(cid:108)(cid:32)(cid:98)(cid:101)(cid:116)(cid:119)(cid:101)(cid:101)(cid:110)(cid:32)(cid:49)(cid:48)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:51)(cid:48)(cid:44)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:101)(cid:120)(cid:99)(cid:101)(cid:108)(cid:108)(cid:101)(cid:110)(cid:116)(cid:32)
+
+(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:115)(cid:32)(cid:102)(cid:97)(cid:108)(cid:108)(cid:32)(cid:98)(cid:101)(cid:116)(cid:119)(cid:101)(cid:101)(cid:110)(cid:32)(cid:53)(cid:48)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:55)(cid:48)(cid:46)(cid:32)(cid:73)(cid:102)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:101)(cid:78)(cid:80)(cid:83)(cid:32)(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:32)(cid:105)(cid:115)(cid:32)(cid:97)(cid:98)(cid:111)(cid:118)(cid:101)(cid:32)(cid:56)(cid:48)(cid:44)(cid:32)(cid:105)(cid:116)(cid:32)(cid:105)(cid:115)(cid:32)(cid:108)(cid:105)(cid:107)(cid:101)(cid:108)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)(cid:98)(cid:101)(cid:32)(cid:97)(cid:109)(cid:111)(cid:110)(cid:103)(cid:32)(cid:116)(cid:104)(cid:101)(cid:32)(cid:104)(cid:105)(cid:103)(cid:104)(cid:101)(cid:115)(cid:116)(cid:32)
+
+(cid:115)(cid:99)(cid:111)(cid:114)(cid:101)(cid:115)(cid:32)(cid:105)(cid:110)(cid:32)(cid:97)(cid:108)(cid:109)(cid:111)(cid:115)(cid:116)(cid:32)(cid:97)(cid:110)(cid:121)(cid:32)(cid:105)(cid:110)(cid:100)(cid:117)(cid:115)(cid:116)(cid:114)(cid:121)(cid:32)(cid:40)(cid:69)(cid:108)(cid:101)(cid:116)(cid:105)(cid:118)(cid:101)(cid:44)(cid:32)(cid:50)(cid:48)(cid:50)(cid:51)(cid:59)(cid:32)(cid:87)(cid:111)(cid:114)(cid:107)(cid:108)(cid:101)(cid:97)(cid:112)(cid:32)(cid:79)(cid:102)(cid:102)(cid:105)(cid:99)(cid:101)(cid:118)(cid:105)(cid:98)(cid:101)(cid:44)(cid:32)(cid:110)(cid:46)(cid:100)(cid:46)(cid:41)(cid:46)(cid:32)(cid:73)(cid:110)(cid:32)(cid:116)(cid:104)(cid:105)(cid:115)(cid:32)(cid:115)(cid:116)(cid:117)(cid:100)(cid:121)(cid:44)(cid:32)(cid:116)he
+
+overall eNPS score was 36, which indicates that there are more promoters than detractors and
+
+that most participants are (cid:108)(cid:105)(cid:107)(cid:101)(cid:108)(cid:121)(cid:32)(cid:116)(cid:111)(cid:32)(cid:114)(cid:101)(cid:99)(cid:111)(cid:109)(cid:109)(cid:101)(cid:110)(cid:100)(cid:32)(cid:116)(cid:104)(cid:101)(cid:105)(cid:114)(cid:32)(cid:99)(cid:111)(cid:109)(cid:112)(cid:97)(cid:110)(cid:121)(cid:46)(cid:32)
+
+Also, Table 4.4 depicts the eNPS of the 400 surveyed participants. Employees over 40
+
+years old had the highest employee net promoter score (64). Females had the highest employee
+
+net promoter score (97) when compared to males (63) and others (2). Employees who work in
+
+the office had the highest (91). Employees with less than 10 years of work experience had the
+
+highest employee promoter score (108). The result also indicates that 32% of participants are

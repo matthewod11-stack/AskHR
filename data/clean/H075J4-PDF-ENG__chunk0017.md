@@ -1,9 +1,17 @@
-# for you.
+---
+source_path: H075J4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4ccc0eaa6f6949f517384626c74ec9064c5987b9
+title: H075J4-PDF-ENG
+---
+# HBR / Digital Article / Coding Isn’t a Necessary Leadership Skill — But Digital Literacy…
 
-Remember that while your team may be concerned that they don’t
+While the data science team might not have solutions right away, this
 
-“speak tech,” technical teams are often concerned that they don’t
+conversation will lay the foundation for eﬀective collaboration. In turn,
 
-understand the business side. See these meetings as a coming together
+ask the technical team to tell you what problems they’re working on,
 
-of two equal partners sharing knowledge, not one Luddite seeking the
+how they measure success, and who is involved. Seeing how engineers
+
+and data scientists solve problems will educate you on what’s possible

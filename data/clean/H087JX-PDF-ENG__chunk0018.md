@@ -1,17 +1,63 @@
+---
+source_path: H087JX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58aa55aff4f28b34060eaa28ec94411fe917e540
+title: H087JX-PDF-ENG
+---
 # HBR / Digital Article / When Someone You Manage Isn’t Following the Return-to-Offic…
 
-There’s no need for excessive optimism, but a simple acknowledgment
+Make coming in worthwhile. “Nothing will tick oﬀ an employee more than coming all the way into the oﬃce and being on a Zoom all day,”
 
-such as, “Wasn’t this better than a Zoom meeting?” serves as a reminder
+says Markman. It’s crucial, he says, to create an engaging in-person
 
-of the special advantages that come with working alongside each other
+work environment by providing team members with opportunities to
 
-in person, even for those who may have been less than thrilled about the
+learn from colleagues, participate in high-level meetings, or collaborate
 
-idea of coming back. “It’s a recognition that we had a good time working
+with diﬀerent teams. Early-career workers particularly beneﬁt from
 
-together in person to solve problems, as opposed to the Hollywood
+observing experienced colleagues, he says. “It’s harder to internalize the
 
-squares of virtual meetings,” says Markman. “We spend an enormous
+goals of what the next job entails if you’re not able to see how others
 
-percentage of our waking hours at work, on some level, it needs to be
+work.”
+
+Kulik suggests motivating skeptical team members by focusing on
+
+building strong individual relationships, providing tailored feedback,
+
+oﬀering exposure to clients, and assigning them to challenging, high-
+
+proﬁle projects that can help them see the impact of their work. The goal is to “help employees see that there are things they get at the oﬃce
+
+they don’t get at home,” Kulik says. She advises talking to your bosses
+
+about using discretionary budget to launch events and initiatives to make going back to the oﬃce more enticing, including social events that
+
+build a sense of community.
+
+Markman also suggests emphasizing to your bosses and boss’s bosses
+
+the signiﬁcance of being visible to the rank and ﬁle. “Prior to the
+
+pandemic, a lot of upper-level management disappeared into higher
+
+ﬂoors. But they need to walk the halls, show their presence, and
+
+engage,” he says.
+
+Celebrate the wins. The downsides of returning to work are about as inevitable as ﬁnding fragrant leftovers in the oﬃce fridge. Which is why,
+
+according to Markman, you need to be extra vigilant about celebrating
+
+the positive moments of bringing everyone back together. That could
+
+be an energetic and productive team meeting or a spontaneous idea
+
+sparked by casual conversations over donuts in the breakroom.
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

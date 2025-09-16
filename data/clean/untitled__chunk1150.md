@@ -1,11 +1,13 @@
-## related disciplines. Chichester, England: Wiley.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 7fb997701b37f8a5cc06d7b61be5874534f5f50d
+title: untitled
+---
+# American Psychologist, 37, 180–189.
 
-Bulmer, M. (1984). The Chicago school of sociology: Institutional- ization, diversity and the rise of sociological research. Chicago: University of Chicago Press.
+Bray, D. W. (1985). Fifty years of assessment centres: A retrospec- tive and prospective view. Journal of Management Develop- ment, 4(4), 4–12.
 
-Burgess, E. W. (1927). Statistics and case studies as methods of sociological research. Sociology and Social Research, 12, 103–120.
+Brigham, C. C. (1931). Proceedings of the thirty-eighth annual meeting of the American Psychological Association, Iowa City, Iowa, December 29, 30, 31, 1930. Psychological Bulletin, 28, 181–250.
 
-Burnham, J. C. (1968a). Historical background for the study of personality. In E. F. Borgatta & W. W. Lambert (Eds.), Handbook of personality theory and research (pp. 3–81). Chicago: Rand McNally.
-
-Burnham, J. C. (1968b). The new psychology: From narcissism to social control. In J. Braeman, R. H. Bremner, & D. Brody (Eds.), Change and continuity in twentieth-century America: The 1920’s (pp. 351–398). Columbus: Ohio State University Press.
-
-Burton, A., & Harris, R. E. (1947). Case histories in clinical and ab-
+Bromley, D. B. (1986). The case-study method in psychology and

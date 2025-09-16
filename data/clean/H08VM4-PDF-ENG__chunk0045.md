@@ -1,5 +1,13 @@
-## elsewhere. Center executive meeting agendas around questions like
+---
+source_path: H08VM4-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: aecab55fdd3314edf6ea5d62a55bd01135e16635
+title: H08VM4-PDF-ENG
+---
+# retroactively.
 
-“What are the few issues that require the full weight of this team?” or
+Free up executive team time. When capability meetings handle cross-
 
-“Where does our system need realignment?”
+functional work, your full executive team can focus on enterprise
+
+strategy and long-term priorities instead of replaying decisions made

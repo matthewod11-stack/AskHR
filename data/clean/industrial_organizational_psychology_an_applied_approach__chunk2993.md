@@ -1,7 +1,15 @@
-# Questions for Review
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: cf42ae191164260892f2d30a7213f998e21b1557
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Chapter Summary
 
-. Do those who seek leadership roles, those who emerge as leaders, and those
+In this chapter you learned: 7
 
-who are successful leaders share similar traits?
+Intelligence, interpersonal adjustment, self-monitoring, a leadership motive pattern (high power, low affiliation), and the combination of a task and person orientation are related to high levels of leadership performance. Leadership effectiveness is also a function of the interaction between the leader and the situation. Important situational aspects include situational favorability (Fiedler), organizational climate (IMPACT theory), subordinate ability (path-goal theory, situational leadership theory), and the relationship between leaders and their subordinates (vertical dyad linkage, LMX theory). Effective leaders possess specific skills, such as persuasion, motivation, and decision making, that ineffective leaders do not.
 
-. Which of the situational theories seems to provide the best explanation for
+7
+
+7

@@ -1,9 +1,11 @@
-# situation?
+---
+source_path: H08GNF-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e753b64dbe3b36a3640b783463f6e313241ab831
+title: H08GNF-PDF-ENG
+---
+# answer these additional questions:
 
-- 2. How do you inspire your team to produce desired results? 3. Describe a situation where you had to make a diﬃcult decision that was not popular with the senior management team.
+- 1. Have you ever had to develop a product or business model from
 
-- 4. Give me an example of someone who was promoted on your team and
-
-how you directly contributed to their development.
-
-- 5. How do you stay connected to the details while focusing on the bigger
+scratch or dramatically change a business model in a turnaround

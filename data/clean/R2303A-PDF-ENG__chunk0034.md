@@ -1,11 +1,21 @@
-# Lasting Impact
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5f513c901e92a4abe290fa251f242156e5198909
+title: R2303A-PDF-ENG
+---
+## buildings where Thermo Fisher Scientiﬁc and nCino, a cloud banking
 
-As you can imagine, our entire family is invested in Bitty & Beau’s. Beau,
+company, are headquartered. Salesforce has also been a strong partner,
 
-now a junior in high school, and Bitty, a seventh-grader, are still too
+serving our coﬀee at its world headquarters and sending it to clients
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+during the pandemic. We’re in discussions with numerous hospitals and
 
-10
+universities that are interested in Bitty & Beau’s shops as well. We’d love
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to see every commercial or government building have one in its lobby—
+
+in part because we think it would inspire other organizations to realize
+
+that they, too, can successfully employ people with disabilities.

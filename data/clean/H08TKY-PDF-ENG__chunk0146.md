@@ -1,17 +1,13 @@
-## HBR / Digital Article / The Definitive HBR Strategy Glossary
+---
+source_path: H08TKY-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e66df5b374416656bab35dac8c34a88d04acb048
+title: H08TKY-PDF-ENG
+---
+## of agencies like the Drucker Institute and Just Capital. Then, they
 
-must bolster this data with inside insights and gain an understanding
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-of the interdependencies among their particular stakeholders. Armed
+26
 
-with that, they can develop a clear description of their purpose,
-
-establish criteria for evaluating progress toward it, set priorities among
-
-stakeholders, and start measuring value creation for each group. The
-
-last step is to sustain the new strategy through cultural change and the
-
-development of supporting processes and organizational structure.
-
-Go deeper: “How to Create a Stakeholder Strategy,” by Darrell Rigby,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

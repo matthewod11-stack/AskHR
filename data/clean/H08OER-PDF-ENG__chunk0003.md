@@ -1,11 +1,25 @@
-## HBR / Digital Article / What It Takes to Fix a “Mean” Workplace
+---
+source_path: H08OER-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cfeebec6530e4cc6173b957b1def75517c256bd6
+title: H08OER-PDF-ENG
+---
+# Maarten Wouters/Getty Images
 
-what to say—or whether to say anything at all. Even casual remarks,
+Not surprisingly, nearly six in 10 workers say U.S. society is uncivil.
 
-lighthearted jokes, or well-meaning feedback can spark conﬂicts or
+Polarized political discourse, changing social norms during the
 
-smolder resentment. With some major companies mandating a ﬁve-day
+pandemic, and ill-mannered online interactions have all played a role.
 
-return to the oﬃce, the tension is likely to escalate.
+This means walking into the oﬃce these days can feel like stepping
 
-Which is a shame, because the consequences of incivility are profound.
+into a mineﬁeld. Social and political polarization divides colleagues into
+
+camps with “us-versus-them” mentalities. People are uncertain about
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,9 +1,13 @@
-## Move when in calm seas (as much as possible).
+---
+source_path: H06YIA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7ad82b03248aadecc6cfe66a23a4c72865e3734c
+title: H06YIA-PDF-ENG
+---
+## HBR / Digital Article / When to Change Your Company’s P&L Responsibilities
 
-Major structural changes are sometimes foisted onto the organization
+comply-or-explain rule: Any proposed deviation must be explained very
 
-when the company is already suﬀering from other ills, such as
+well and can only be accepted after approval by the governance body
 
-leadership strife or strategic vacillation. For example, food company
-
-Danone’s “local-ﬁrst” initiative of 2020 implied a change of the primary
+that approved the target model.

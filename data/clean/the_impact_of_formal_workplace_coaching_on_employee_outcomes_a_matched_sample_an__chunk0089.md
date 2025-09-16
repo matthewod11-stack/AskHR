@@ -1,19 +1,25 @@
-# HUMAN RESOURCE DEVELOPMENT INTERNATIONAL
+---
+source_path: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an.md
+pages: n/a-n/a
+chunk_id: fbb5a5046e275269022008507dfdba3840ce0cd9
+title: the_impact_of_formal_workplace_coaching_on_employee_outcomes_a_matched_sample_an
+---
+# Hall.
 
-Koskinen, K., & Anderson, K. (2023). Managerial mind-set and behaviours that shape effective relationship building in employee coaching: An integrative literature review. International Journal of Evidence Based Coaching & Mentoring, 21(1), 129–146.
+Hammack-Brown, B., Nimon, K., & Ellinger, A. (2024). Examining measurement invariance of a managerial coaching scale across traditional and virtual employee groups: Implications for expanding managerial coaching research. Human Resource Development International, ahead of print. 1–26. https://doi.org/10.1080/13678868.2024.2361181
 
-Labban, A., & Bizzi, L. (2022). Are social media good or bad for employees? It depends on when they use them. Behaviour & Information Technology, 41(4), 678–693. https://doi.org/10.1080/ 0144929X.2020.1830174
+Hom, P., Lee, T., Shaw, J., & Hausknecht, J. (2017). One hundred years of employee turnover theory and research. Journal of Applied Psychology, 102(3), 530–545. https://doi.org/10.1037/ apl0000103
 
-Lee, K., & Allen, N. (2002). Organizational citizenship behavior and workplace deviance: The role of affect and cognitions. Journal of Applied Psychology, 87(1), 131–142. https://doi.org/10.1037/ 0021-9010.87.1.131
+Hsieh, H., & Huang, J. (2018). Exploring factors influencing employees’ impression management feedback-seeking behavior: The role of managerial coaching skills and affective trust. Human Resource Development Quarterly, 29(2), 163–180. https://doi.org/10.1002/hrdq.21311
 
-Lips-Wiersma, M., Haar, J., & Cooper-Thomas, H. (2023). Is meaningful work always a resource toward wellbeing? The effect of autonomy, security and multiple dimensions of subjective meaningful work on wellbeing. Personnel Review, 52(1), 321–341. https://doi.org/10.1108/PR- 10-2020-0754
+Kapoutzis, N., Whiley, L., Lewis, R., & Yarker, J. (2024). Developing coaching cultures: An exploration of the enacting practitioner perspective. Journal of Work-Applied Management, ahead of print. https://doi.org/10.1108/JWAM-06-2024-0079
 
-Matsuo, M. (2018). How does managerial coaching affect individual learning? The mediating roles of team and individual reflexivity. Personnel Review, 47(1), 118–132. https://doi.org/10.1108/ PR-06-2016-0132
+Keiffer, G., & Lane, F. (2016). Propensity score analysis: An alternative statistical approach for HRD researchers. European Journal of Training & Development, 40(8/9), 660–675. https://doi. org/10.1108/EJTD-06-2015-0046
 
-McCarthy, G., & Milner, J. (2020). Ability, motivation and opportunity: Managerial coaching in practice. Asia Pacific Journal of Human Resources, 58(1), 149–170. https://doi.org/10.1111/ 1744-7941.12219
+Kelloway, E., Gottlieb, B., & Barham, L. (1999). The source, nature, and direction of work and family conflict: A longitudinal investigation. Journal of Occupational Health Psychology, 4(4), 337–346. https://doi.org/10.1037/1076-8998.4.4.337
 
-Melguizo, T., Kienzl, G., & Alfonso, M. (2011). Comparing the educational attainment of com- munity college transfer students and four-year college rising juniors using propensity score matching methods. Journal of Higher Education, 82(3), 265–291. https://doi.org/10.1080/ 00221546.2011.11777202
+Kim, B., & Lee, J. (2024). The safety implications of work overload: The sequential mediating roles of the meaningfulness of work and perceived organizational support, and the moderating effect of coaching leadership. Current Psychology, 43(41), 31933–31954. https://doi.org/10.1007/ s12144-024-06710-1
 
-Milner, J., Milner, T., McCarthy, G., & da Motta Veiga, S. (2023). Leaders as coaches: Towards a code of ethics. The Journal of Applied Behavioral Science, 59(3), 448–472. https://doi.org/10. 1177/00218863211069408
+Kim, S., Egan, T., Kim, W., & Kim, J. (2013). The impact of managerial coaching behavior on employee work-related reactions. Journal of Business & Psychology, 28(3), 315–330. https://doi. org/10.1007/s10869-013-9286-9
 
-Müller, P., & Schäfer, S. (2017). Latent mean (comparison). The International Encyclopedia of Communication Research Methods, 1–7. https://doi.org/10.1002/9781118901731.iecrm0132 Nguyen, V., & Haar, J. (2024). When work-life balance fails to boost organizational citizenship behaviors: The moderating role of leader-member exchange. Evidence-Based HRM: A Global Forum for Empirical Scholarship. ahead of print. https://doi.org/10.1108/EBHRM-02-2024-0043 Organ, D., MacKenzie, S., & Podsakoff, P. (2006). Organizational citizenship behavior: Its nature,
+Kim, S., & Kuo, M. (2015). Examining the relationships among coaching, trustworthiness, and role behaviors: A social exchange perspective. The Journal of Applied Behavioral Science, 51(2), 152–176. https://doi.org/10.1177/0021886315574884

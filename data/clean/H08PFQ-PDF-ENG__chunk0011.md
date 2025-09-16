@@ -1,15 +1,17 @@
-# for evaluation.
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ea2ac9926e557f96211b376e47289dd4da9175fa
+title: H08PFQ-PDF-ENG
+---
+# HBR / Digital Article / Executive Teams Are Losing Stakeholders’ Confidence. Here’s H…
 
-- When communicating decisions, start with “Here’s the value we
+a hard conversation that took a longer view of their options and focused
 
-prioritized in making this choice,” followed by the rationale. Linking
+on the needs of their stakeholders, including their employees.
 
-action to principle builds credibility.
+To ensure your team’s decision-making is aligned with your values:
 
-Model fast learning.
+- Begin every strategic decision discussion by explicitly identifying
 
-It’s no secret you’re facing things for the ﬁrst time, so don’t try
-
-to hide it. A team that visibly evolves in response to change gives
-
-others conﬁdence that they’ll stay adaptive, not defensive, when
+which organizational values are most at stake and use those as criteria

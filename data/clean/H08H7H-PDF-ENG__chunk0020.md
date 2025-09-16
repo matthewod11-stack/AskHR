@@ -1,17 +1,19 @@
-# professionally.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 29be39102d23dbdeeb9a51d3518529c2dd03799f
+title: H08H7H-PDF-ENG
+---
+# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
 
-In our ﬁrst study, we sought to examine employees’ real-life experiences
+Imagine for example that a colleague’s toddler bounds into view during
 
-regarding what they learn about their colleagues when working from
+a video meeting, vividly bringing attention to that colleague’s role as a
 
-home. We asked 286 full-time, U.S.-based employees to describe a time
+parent. We hypothesized that learning about a coworker’s nonwork life
 
-when they were working from home and learned something new about
+in this unintentional and vivid way would lead employees to see their
 
-their coworkers. What did they learn? How did they learn it? How did it
+coworkers as more authentic, trustworthy, and human, thus motivating
 
-make them feel about their colleague?
-
-We also systematically analyzed online comments related to remote
-
-work and interpersonal relationships, including 8,150 on Reddit, 5,772
+them to invest in that coworker both personally (i.e., friendship) and

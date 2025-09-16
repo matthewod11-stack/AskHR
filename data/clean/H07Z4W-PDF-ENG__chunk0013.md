@@ -1,13 +1,17 @@
-## a caregiver to a young child or a parent with Alzheimer’s. Perhaps
+---
+source_path: H07Z4W-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a6776d1550127464d44942e602bf4217f5829a32
+title: H07Z4W-PDF-ENG
+---
+# with an open mind.
 
-you’re managing your own medical condition. Leesman, an employee-
+- 2. Own your rationale(s)
 
-experience research ﬁrm, ﬁnds “between 15-18% of workers self-select
+A long commute is often top of mind as a reason not to go into the
 
-as having an impairment that impacts them at work.” Maybe you’re
+oﬃce, but there are other rationales. Think through your rationale(s) and own them. Maybe your team is based across diﬀerent global or
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+U.S. time zones and it would make sense to conduct some of your 40-
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+hour workweek during times when the oﬃce is closed. Perhaps you’re

@@ -1,7 +1,15 @@
-# eyes of the court.
+---
+source_path: H08NEW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 60d9ff30b89419194aab78ce55e836c44a48ded3
+title: H08NEW-PDF-ENG
+---
+# HBR / Digital Article / Your Company Wants to Close Pay Gaps. Here’s Where to Start.
 
-If you conduct a pay equity analysis, one of the outputs—in addition
+signiﬁcance is 5%. (Note that we are discussing two diﬀerent numbers
 
-to the size of the gaps—will be your gaps’ statistical signiﬁcance. This
+here, one is the size of the pay gap (e.g. 1.5%) the other is its statistical
 
-ﬁgure is inﬂuenced by a number of factors, including the size of your
+signiﬁcance (e.g. 5%)). Companies whose gaps are deemed statistically
+
+signiﬁcant are likely discriminating against a group of employees in the

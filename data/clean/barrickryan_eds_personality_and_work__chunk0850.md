@@ -1,3 +1,13 @@
-# Fit
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: e56114819e451456cb035904ddf3b414115690cc
+title: barrickryan_eds_personality_and_work
+---
+# 306 PERSONALITY AND WORK
 
-Instead of conceptualizing the work environment as a moderator variable, many researchers have conceptualized its role in terms of ﬁt between the individual and the environment. “Fit” indexes thus involve measurement of both the individual and the situation, re- sulting in a variable indicating degree of congruence between the
+performance (Frei & McDaniel, 1998; MacLane, 1996; Mount et al., 1998). Another example of a job characteristic that can mod- erate relationships between personality characteristics and per- formance is autonomy. In managerial jobs, degree of job autonomy moderates the validity of Conscientiousness, Extraversion, and Agreeableness (Barrick & Mount, 1993). Conscientiousness and Extraversion are more highly positively correlated with perfor- mance in high-autonomy jobs than in low-autonomy jobs; Agree- ableness is more highly negatively correlated with performance in high-autonomy jobs than in low-autonomy jobs. This study high- lights the importance of situations and their impact on both the type (moderator) and direction (positive versus negative) of rela- tionships in our models.
+
+Researchers conducting meta-analyses often summarize validi- ties within job (manager, police ofﬁcer, sales job), and often va- lidities are found to differ depending on the job. However, the number of jobs in any economy is enormous, and in today’s econ- omy, many are changing. Building separate theories about the de- terminants of performance for each job is unhelpful to the science and practice of I/O psychology. Theory building requires better strategies to deﬁne situations.
+
+Some researchers have used Holland’s RIASEC model as a tax- onomic structure for classifying work environments and educa- tional specialty. When criterion-related validities of personality variables are examined within the six job types, validities differ, in- dicating the importance of type of job as a moderator variable (Fritzsche, McIntire, & Yost (2002; Hogan, Hogan, & Roberts, 1996). Hough and Furnham (2003), however, provide a caution to this interpretation. They suggest that if, instead of overall job performance, speciﬁc performance constructs were the criteria, the apparent moderating effects of the RIASEC job types would disappear.

@@ -1,19 +1,13 @@
-## organization (such as training, continuous feedback, check-ins, etc.)?
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd94d2b42fb350ac2ab5b2fa5af2b40b82808c44
+title: H0881J-PDF-ENG
+---
+## your performance with the organization’s goals and expectations?
 
-. . .
+- How can we collaborate to ensure a clear understanding of
 
-Approaching a conversation about improving an employee’s
+performance standards going forward?
 
-performance requires preparation, empathy, and a focus on
-
-collaboration. Creating the space for self-reﬂection and an
-
-understanding that change is possible can help the employee move
-
-from feeling victimized to feeling empowered. Even though hearing the
-
-truth about their current performance will be tough and potentially
-
-hurtful, it’s a teaching moment managers must embrace to help them
-
-become more resilient and adept at problem-solving and developing
+- How can I support you, and what resources do you require from the

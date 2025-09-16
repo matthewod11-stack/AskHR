@@ -1,25 +1,21 @@
-# door decision into a two-way door one.
+---
+source_path: H06O9Q-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 58dfad6e0d55813535c8c5303f0bc1801616adde
+title: H06O9Q-PDF-ENG
+---
+# learn.
 
-Is there a way to achieve a similar set of career objectives within the
+However, if that’s not the case and you think the costs make the
 
-context of your current ﬁrm or job? Could you take a sabbatical or
+door one-way, ask yourself if there’s a way to turn that one-way door
 
-transition to part time to try something out or collect more data? Can
+decision into a two-way door decision. In one oft-cited example, when
 
-you build or strengthen your ties and professional network to increase
+Sir Richard Branson was launching Virgin Atlantic, he negotiated a
 
-your options if your intended course of action turns out not to be all that
+clause in his contract with Boeing that would allow him to return the
 
-you were hoping?
+plane he bought if the airline didn’t take oﬀ. He ultimately didn’t have
 
-Recognize that the one-way/two-way door distinction is a decision
-
-heuristic — identifying something as one- or two-way is itself a
-
-judgment call that depends on your own level of risk tolerance and the
-
-costs you’re willing to bear. What’s too costly to roll back for one person
-
-might be within reason for another.
-
-Also keep in mind that you don’t need a costless “undo” button to turn
+to exercise that clause, but in negotiating it, he helped turned a one-way

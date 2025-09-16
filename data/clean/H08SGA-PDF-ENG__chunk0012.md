@@ -1,35 +1,33 @@
-## HBR / Digital Article / 5 Steps for Leading a Team You’ve Inherited
+---
+source_path: H08SGA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4b0716f0e4686c1956062f1b20c9bf393c309b0b
+title: H08SGA-PDF-ENG
+---
+# culture.
 
-triggering unnecessary emotional or operational disruption, it’s equally
+This approach protects against oversights and ensures that any changes
 
-important to invest in building trust with the existing team you’ve
+you choose to make are grounded in evidence, which builds credibility
 
-inherited.
+with your team, shows fairness, and reinforces a culture of performance
 
-Start by leading with transparency. Clearly communicate your
+and accountability. Fairness doesn’t guarantee that everyone will stay,
 
-expectations, the process you’ll use to evaluate the team’s capabilities,
+but it does mean everyone gets a fair review and evaluation.
 
-and the values that will guide your decision-making. As you begin
+- 3. Invest in trust, even if you plan to make changes.
 
-identifying what needs to change, engage in open dialogue. Share
+Bringing in leaders you’ve worked with in the past can create a sense
 
-feedback, provide developmental context, and give your team members
+of psychological safety for you—after all, they already understand your
 
-a meaningful opportunity to step up under your leadership. This kind
+leadership style, share your language, and are predisposed to support
 
-of performance-based runway not only earns you credibility, but it gives
+your vision. But if your goal is to lead transformational change without
 
-your team clarity, dignity, and a fair chance to contribute.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-This may feel counterintuitive if your early assessment suggests that
+3
 
-some current team members won’t be part of the long-term picture.
-
-But even short-term allies, when treated with dignity, respect, and
-
-transparency, can become powerful advocates for your leadership and
-
-the culture you’re trying to shape. Their support can be instrumental
-
-in stabilizing morale and maintaining continuity during uncertain
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,3 +1,9 @@
-# Plan 61
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: cffcacb963a7d2042088e33dd00e7c29bbe44535
+title: performance_management_3rd_edition_by_aguinis
+---
+## Chapter 3 Performance Management and Strategic Planning
 
-3.2.1 Strategic Planning 65 3.2.2 Developing Strategic Plans at the Unit Level 74 3.2.3 Job Descriptions 76 3.2.4 Individual and Team Performance 77
+59 3.1 Definition and Purposes of Strategic Planning 60 3.2 Process of Linking Performance Management to the Strategic

@@ -1,13 +1,11 @@
-## and collaborative problem-solving between workers and employers
+---
+source_path: H07EE6-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fb356e193153003c18970d902ed3970c94eeec9d
+title: H07EE6-PDF-ENG
+---
+# handles complaints.
 
-where possible, drawing on personal relationships with workers
+While MD staﬀ retain the option of resorting to a more formal
 
-and supervisors cultivated during farm visits. By shortening and
-
-informalizing the resolution process where possible, the MD program
-
-helps employers avoid lengthy investigations and work disruptions,
-
-while also quickly addressing worker concerns and fundamentally
-
-shifting the grievance burden.
+investigative complaint process, they also broker conversations

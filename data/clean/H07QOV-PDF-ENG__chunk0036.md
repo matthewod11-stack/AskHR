@@ -1,17 +1,27 @@
-## discovery of dramatic diﬀerences across groups, even within the same
+---
+source_path: H07QOV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2fe33ff0a958b40da9f0223c8601417d25345f8b
+title: H07QOV-PDF-ENG
+---
+## HBR / Digital Article / It’s OK to Fail, but You Have to Do It Right
 
-organization, and their willingness to speak up about things that go
+But I don’t think they’re going to be simple solutions to the dramatic
 
-wrong rather than just things that go right.
+shakeup of what’s possible.
 
-Here’s the challenge more broadly than just people not necessarily
+ADI IGNATIUS:
 
-speaking up: the category of intelligent failure covers vast territory.
+Here’s a question from Omar from Monterrey, Mexico. What kind of
 
-I think the metrics have to be tailored to the context — and let me
+metrics can be used to measure smart failures?
 
-illustrate vast territory. A well-run clinical trial on a new cancer drug is an intelligent failure when it turns out it doesn’t have the eﬃcacy that
+AMY EDMONDSON:
 
-we hoped. It was in new territory. There was no other way to ﬁnd out but
+My ﬁrst response is that it’s a good idea to have metrics. One of the
 
-to do a clinical trial. It’s the right size, it’s no bigger than it has to be. It’s
+things that I’ve spent the most time studying is how many failures just
+
+don’t even get the chance to be measured, because people don’t speak
+
+up about them. This was how I got into this topic in the ﬁrst place: the

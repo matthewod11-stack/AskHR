@@ -1,13 +1,9 @@
-## with $25 million of funding capital still unspent—Color Labs’ investors
+---
+source_path: F2505A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9e0cbccc29410da29891bd14ce5c150bb698cf22
+title: F2505A-PDF-ENG
+---
+## HBR / Magazine Article / Why Startups Benefit When Big Investments Come Later
 
-and board members voted to cease operations.
-
-Where did Color Labs go wrong? Most analysts concluded that its
-
-massive early funding worked against it, creating pressure for the
-
-company to scale up quickly instead of reﬁning the product. To put
-
-it another way, Color Labs shifted too quickly from experimentation to
-
-exploitation—and its large early investment probably played a major
+on signing up more users. Usage plummeted. By December 2012—and

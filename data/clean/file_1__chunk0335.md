@@ -1,13 +1,19 @@
-# Psychological harassment (non experience(cid:2)experience of psychological harassment)
+---
+source_path: file_1.md
+pages: n/a-n/a
+chunk_id: 604de8c899262e44321221cc02ecca8296fc8c7c
+title: file_1
+---
+## Sexual harassment (experience of sexual harassment(cid:2)non-experience)
 
-.085
+- .009
 
-2.022*
+- .200
 
-1.222
+1.337
 
-.094
+- .002
 
-2.218*
+- .050
 
-1.230
+1.340

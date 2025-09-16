@@ -1,17 +1,13 @@
-## ambiguous situations. Equally qualiﬁed individuals from historically
+---
+source_path: H08QTQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d2ef998fb39a76968bfdf06f101b967c49a77eb0
+title: H08QTQ-PDF-ENG
+---
+# like engineering.
 
-less-advantaged groups face more scrutiny and skepticism. Over time,
+Decades of sociological research show that people perceived as highly
 
-these advantages can become internalized, making some groups more
+competent in a given ﬁeld—often those from historically-advantaged
 
-likely to expect career rewards, while others may be less certain that the same eﬀorts will lead to advancement.
-
-Our ﬁndings also raise questions about why early-career women
-
-engineers, in particular, reported doing more new area stretch
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+groups—are more likely to be given the beneﬁt of the doubt in

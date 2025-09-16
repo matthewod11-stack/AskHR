@@ -1,23 +1,27 @@
-# in.
+---
+source_path: H06SBB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e6aab206b9389ef14c32e5d1651aa7a4f1c6acd3
+title: H06SBB-PDF-ENG
+---
+## different for all different types of companies.
 
-ADI IGNATIUS: You’re talking about the office place. I think what
+I’ll tell you one of the things that we’re starting to think about is, what
 
-you’re saying implicitly is the office isn’t necessarily conducive to
+can only uniquely be done in the physical spaces that we have? We’re
 
-working more efficiently. This is my view: that we’ve learned how to
+doing a lot of work around food and beverage. One of our offices has a
 
-do that pretty effectively from home, many of us, white collar workers
+prototyping kitchen. We have machine shops. We have production areas
 
-anyway, knowledge workers. So then the office is where we get together.
+where we’re making things. And those really are a way to optimize the
 
-Maybe the office is where we do culture, almost different from work. Is
+space. So how can our spaces become even more of a learning lab for the
 
-that what you’re thinking? That the office, it’s maybe not even a place
+areas that we’re focusing on, building classrooms, building, like I say,
 
-for work as much as it is for interaction?
+prototyping kitchens and other types of prototyping and build spaces?
 
-Copyright © 2021 Harvard Business School Publishing. All rights reserved.
+So we’re kind of looking at how to turn those into the center of our
 
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+spaces so that there’s reason to come in rather than regulation to come

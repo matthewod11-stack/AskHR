@@ -1,5 +1,7 @@
-## Opennesswasnotfoundtobecorrelatedwithburnoutor
-
-were associated with lower levels of burnout while neuroticism was correlated with greater levels of burnout. Extraversion was also correlated with greater job satisfaction while neuroticism was correlated with lower job satisfaction (Hurt et al. 2013).
-
-job satisfaction (Hurt et al. 2013).
+---
+source_path: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work.md
+pages: n/a-n/a
+chunk_id: d9bde44411981627c8556fe45fedd0bcb432372a
+title: predictors_of_burnout_job_satisfaction_and_turnover_in_behavior_technicians_work
+---
+## Extraversion, agreeableness, and conscientiousness

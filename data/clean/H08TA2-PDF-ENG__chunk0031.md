@@ -1,11 +1,11 @@
-# realignment?”
+---
+source_path: H08TA2-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 559743a66f2d473a2e81b2537459fc0a440178f9
+title: H08TA2-PDF-ENG
+---
+## strategic sensemaking, cultural stewardship, and long-horizon bets.
 
-One Fortune 100 company overhauled its monthly executive team
+Center agendas around questions like “What are the few issues that
 
-meeting after realizing that too much time was spent relitigating
-
-decisions made elsewhere. By reassigning operational decision-making
-
-to triads tied to core capabilities, they cleared the decks for their senior
-
-team to focus on systemic enterprise priorities—like cultural resilience,
+require the full weight of this team?” or “Where does our system need

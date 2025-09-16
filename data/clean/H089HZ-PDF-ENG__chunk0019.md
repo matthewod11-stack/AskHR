@@ -1,13 +1,11 @@
-## above — RTO versus WFH, the “battle over RTO,” etc. — solidiﬁes
+---
+source_path: H089HZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16be5a95fba8fc5a966e4cc88bfe50c696d3d169
+title: H089HZ-PDF-ENG
+---
+# HBR / Digital Article / Leaders Need to Reframe the Return-to-Office Conversation
 
-the framing that this is a winner-take-all contest. If we frame work
+As you do this, be mindful of the language you use. Framing the
 
-design instead as a collaborative, community problem-solving process,
-
-we stand a much better chance of starting the discussion on the right
-
-foot. Changing language is deceptively challenging, so don’t hesitate to
-
-use some of the tricks of the presentation trade that have been proven to
-
-work in eliminating other unwanted language.
+ﬂexibility conversation using adversarial language like we mentioned

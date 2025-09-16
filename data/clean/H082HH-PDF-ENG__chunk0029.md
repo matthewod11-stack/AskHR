@@ -1,5 +1,7 @@
-## translate this into a strategy for their own level of the business.
-
-Strategy should be regularly revisited (I suggest a brief quarterly review,
-
-and deeper annual review) to update priorities or adjust to changes in
+---
+source_path: H082HH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a9baf4174bb6169dea08a0ebb10585747ab3735d
+title: H082HH-PDF-ENG
+---
+## business unit and each function (marketing, supply chain, etc.) should

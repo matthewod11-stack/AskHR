@@ -1,3 +1,7 @@
-# 2 Marginal
-
-Generally uses same method of presentation. Occasionally loses sight of objectives during class time. Demonstrates knowledge in subject area. Presents essential information. Answers student questions, but fails to involve students in presentations. Is avail- able for outside help when needed.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 07790feeb08cb59b22f7a666afc31378063f3d4c
+title: document_resume
+---
+# Appendix A 141

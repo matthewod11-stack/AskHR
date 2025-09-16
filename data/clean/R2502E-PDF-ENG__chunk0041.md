@@ -1,15 +1,19 @@
-# overall.
+---
+source_path: R2502E-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 72555ee11b4e34ab7122376436ed89bb79591be5
+title: R2502E-PDF-ENG
+---
+# consider:
 
-Shrinking occupations. Automation and generative AI will lead
+Growing occupations. In the United States the industry that will
 
-to declining opportunities primarily in four categories of jobs— customer service and sales, food service, oﬃce support (administrative
+experience the greatest job growth is healthcare, where employment
 
-assistants), and production (manufacturing). People working in them
+is expected to increase 30% by 2030. The second-largest increases will
 
-will account for roughly 85% of the 12 million occupational shifts, or
+be in jobs in science, technology, engineering, and math, collectively
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+referred to as STEM, for which demand will increase 23%. The
 
-11
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+transportation-services sector is expected to see job growth of 9%

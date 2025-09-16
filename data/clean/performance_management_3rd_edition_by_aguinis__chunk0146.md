@@ -1,21 +1,11 @@
-## 1.3 DISADVANTAGES/DANGERS OF POORLY IMPLEMENTED PM SYSTEMS
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 3a417d910800c681a7e1b96c68331ae9d0d9d222
+title: performance_management_3rd_edition_by_aguinis
+---
+## What CEOs Say About the Contribution of Performance Management Systems
 
-What happens when performance management systems do not work as intended, as in the case of Sally’s organization? What are some of the negative consequences associated with low-quality and poorly implemented systems? Consider the following list:
+A study conducted by Development Dimensions International (DDI), a global human resources consulting firm specializing in leadership and selection, found that performance management systems are a key tool that organizations use to translate business strategy into business results. Specifically, performance management systems influence “financial performance, productivity, product or service quality, customer satisfaction, and employee job satisfaction.” In addition, 79% of the CEOs surveyed say that the performance management system implemented in their organizations drives the “cultural strategies that maximize human assets.”21
 
-- 1. Increased turnover.
-
-If the process is not seen as fair, employees may become upset and leave the organization. They can leave physically (i.e., quit) or withdraw psychologically (i.e., minimize their effort until they are able to find a job elsewhere).
-
-- 2. Use of misleading information.
-
-If a standardized system is not in place, there are multiple opportunities for fabricating information about an employee’s performance.
-
-- 3. Lowered self-esteem.
-
-Self-esteem may be lowered if feedback is provided in an inappropriate and inaccurate way. This, in turn, can create employee resentment.
-
-- 4. Wasted time and money. Performance management systems cost money and quite a bit of time. These resources are wasted when systems are poorly designed and implemented.
-
-- 5. Damaged relationships. As a consequence of a deficient system, the relationship among the individuals involved may be damaged, often permanently.
-
-- 6. Decreased motivation to perform. Motivation may be lowered for many reasons, including the feeling that superior performance is not translated into meaningful tangible (e.g., pay increase) or intangible (e.g., personal recognition) rewards.
+insight and understanding of her employees’ contributions to the organization? Is Sally’s organization now better protected in the face of potential litigation? Unfortunately, the system implemented at Sally’s organization is not a true perform- ance management system but simply an administrative nuisance. Consequently, many, if not most, of the potential contributions of the performance management system are not realized. In fact, poorly implemented systems, as in the case of Sally’s organization, not only do not make positive contributions but also can be very dangerous and lead to several negative outcomes.

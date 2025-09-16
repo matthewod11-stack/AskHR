@@ -1,13 +1,11 @@
-# MA: Harvard University Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 744a10107feb25868a7ce38c831a27c0ea30107a
+title: untitled
+---
+# ist. Philadelphia: Lippincott.
 
-Wundt, W. (1901). Lectures on human and animal psychology (2nd ed., J. E. Creighton & E. B. Titchener, Trans.). London: Swan Sonnenschein.
+Watson, J. B., & Lashley, K. S. (1915). An experimental and histor- ical study of homing. Carnegie Institution Publication, 211, 7–60.
 
-Yerkes, R. M. (1907). The dancing mouse. New York: Macmillan.
-
-Yerkes, R. M. (1916). Provision for the study of monkeys and apes.
-
-Science, 43, 231–234.
-
-Yerkes, R. M. (1925). Almost human. London: Jonathan Cape.
-
-Yerkes, R. M. (1943). Chimpanzees: A laboratory colony. New
+Wilson, E. O. (1975). Sociobiology: The new synthesis. Cambridge,

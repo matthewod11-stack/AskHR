@@ -1,9 +1,9 @@
-## of Washington, DC: American Psychological Association.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: d7e5a5c587a843f7e2202ed7956644a6b208c056
+title: untitled
+---
+# ical Psychology Review, 8, 477–498.
 
-Worell, J., & Remer, P. (1992). Feminist perspectives in therapy: An
-
-empowerment model for women. New York: Wiley.
-
-Wyche,K.F.,&Rice,F.J.(1997).Feministtherapy:Fromdialogueto tenets. In J. Worell & N. G. Johnson (Eds.), Shaping the future of feminist psychology: Education, research, and practice (pp. 57– 71).Washington,DC:AmericanPsychologicalAssociation.
-
-Yllo, K., & Bograd, M. (Eds.). (1988). Feminist perspectives on
+Worell, J., & Johnson, N. G. (Eds.). (1997). Shaping the future feminist psychology: Education, research, and practice.

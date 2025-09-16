@@ -1,41 +1,25 @@
-## participants share and serves as a moral norm of action.
+---
+source_path: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the.md
+pages: n/a-n/a
+chunk_id: cf40e394121f6ca74e41900f4f580e5a0077b90d
+title: redalyc_the_effects_of_coaching_in_employees_and_organizational_performance_the
+---
+# in the standardised solution.
 
-In the first part of this work, we presented coaching as a process of improvement that
+- 5. Discussion
 
-develops and improves the skills of coachees and whose core is the relationship that
+The first contribution of the current work is its novel incorporation of theoretical support for the
 
-participants establish during the process. The second contribution of this work is related to the
+implementation of the coaching process, which enriches and complements the existing model.
 
-effects of organisational support and the coaching process on the individual performance of
+This theoretical support enabled us to explain how firms should develop coaching processes to
 
-coachees. The transactions that occur during the coaching process generate a number of
+improve their human resources and to justify the utility for businesses and workers. Thus, we
 
-benefits and costs for those involved in such a relationship. According to our research results,
+believe that our work identifies a method by which research can progress with respect to this
 
-we can conclude that when the coaching process is conducted according to the criteria
+issue. Specifically, social exchange theory explains the exchanges that occur between coach
 
-proposed here, both the coach and coachee perceive important benefits, and the coachees
+and coachee throughout the process, in which reciprocity appears and a series of transactions
 
-demonstrates improved individual performance, as Hypotheses 1 and 2 postulate.
-
-The third contribution of this work is that it provides insight into the question of whether this
-
-improvement in individual performance as a result of coaching has an effect on organisational
-
-performance, sales increases and productivity growth. We study these relationships from the
-
-most recent perspective of the RBV. Coaching processes confer on individuals a number of
-
-attributes that are converted into valuable capital for firms, making it difficult for competitors
-
-to imitate or copy them and thus making the competitive advantage generated more
-
-sustainable. These research results provide evidence that the individual benefits derived from
-
-the coaching process will translate into benefits for organisations because individual benefits
-
-indeed have an effect on organisational performance, sales increases and productivity growth,
-
-as Hypotheses 3 and 4 postulate. Consequently, on the basis of this theoretical framework and
-
--180-
+occurs between both parties. This relationship reciprocity is an expectation that both

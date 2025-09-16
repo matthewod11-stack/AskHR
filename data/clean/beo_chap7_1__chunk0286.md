@@ -1,11 +1,15 @@
-## The Perspective Starting from “How the Brain Works”
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: d7a7d09667a53f8a976aa51151830871b1d6b55e
+title: beo_chap7_1
+---
+# economics.
 
-My method for illustrating the possibilities now emerging for the second approach
+At bottom, the relationship to psychology has been a major feature distinguishing
 
-will be to consider a few examples of striking developments in psychology and
+organization theory from organizational economics. Roughly, one might say that many organizational theorists have been closer to the second approach described here, feeling obliged to take psychological (and social psychological) results on their
 
-their possible significance for economists’ views of organization. I have focused in
+own terms, and build up organization theory with those results as starting points,
 
-33] think this distinction raises important choices for economics: the economics of organization that meets the needs of economics’ other fields (finance, health, labor, macro, ...) may not need to take into account the full richness of contemporary psychological research, or the full complexity of what we see going on in real organizing. Or it may.... But “real economists” have far more wisdom about this question than I do, and so I will devote myself to extending the portrait of what I believe is going on, leaving for those within economics the problems of judging how much of the development needs to be assimilated, and of how that can be done without losing the inferential power of current theoretical formalizations.
-
-284
+while economists have asked—and rightly se—how psychological results may be assimilated to the needs and theories of economics. In consequence, organization theory has far less formalized theoretical development than does organizational economics, though it addresses a broader array of significant issues.°9

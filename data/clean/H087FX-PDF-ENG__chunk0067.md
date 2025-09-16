@@ -1,33 +1,21 @@
-## Respiratory issues, increased allergies, and environmental sensitivities
+---
+source_path: H087FX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b617540b26b012d4f0d5dc0217432010404f7276
+title: H087FX-PDF-ENG
+---
+## HBR / The Big Idea / Long Covid at Work: A Manager’s Guide
 
-- Improved office ventilation and air filtration (e.g., open windows, HEPA filters, air quality sensors)
+Chronic pain (including but not limited to headaches and joint, muscle, and chest pain)
 
-- Allowing employees to wear a mask of their choosing at work
+- For photosensitivity, allowing employees to wear sunglasses or blue-light-blocking glasses; providing screen-glare reduction tools such as software or screen protectors; keeping overhead lighting lower and adjustable; allowing cameras to be off in meetings
 
-- Using unscented, nontoxic, and zero-fragrance cleaning products
+- For sound sensitivity, offering quiet workspaces or providing earplugs or noise-canceling headphones
 
-- Creating no-fragrance office policies, or asking employees not to wear scented products
+- Talk-to-text software to replace typing
 
-- Inspecting the office for mold or water damage
+- Ergonomic workstation setups
 
-- Using no-VOC (volatile organic compound) paints and materials in the office
+- Mobility devices to use in the office
 
-The need to avoid infectious illness (Covid or otherwise)
-
-- Offering remote-work options for immunocompromised or vulnerable employees
-
-- Allowing employees to wear a mask of their choosing at work
-
-- Improving office ventilation and air filtration (e.g., open windows, HEPA filters)
-
-This article was originally published online on May 07, 2024.
-
-Katie Bach works with companies to improve job quality and employee experience. She has written extensively about the labor market impact of long Covid, including as a former nonresident senior fellow at the Brookings Institution, and serves as board chair of PolyBio Research Foundation, which focuses on complex chronic conditions. Follow her on LinkedIn.
-
-@kathrynsbach
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-14
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- Letting employees work in the physical position most comfortable to them (e.g., reclining, supine, or sitting up, with supports like pillows or braces)

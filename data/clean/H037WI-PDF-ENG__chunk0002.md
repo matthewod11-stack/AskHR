@@ -1,5 +1,7 @@
-# Why Are Immigrants More Entrepreneurial?
-
-Research shows cross-cultural experience may help people spot opportunities. by Peter Vandor and Nikolaus Franke
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+---
+source_path: H037WI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 081fd5543d7580a93a68faa161ecbed66d9d0bf6
+title: H037WI-PDF-ENG
+---
+# Entrepreneurs and Founders

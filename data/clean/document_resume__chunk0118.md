@@ -1,7 +1,9 @@
-# not a major factor in EEO litigation;
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 407438e5c69b749eccd8dba894c1ec49435ced5c
+title: document_resume
+---
+## Policy statements endorse illegal practices such as job segregation.
 
-however, evidence of such actions will discredit any defense raised by an employer.
-
-Disparate treatment °cus when members of protected groups are treated differ-
-
-ently from other employees. Examples of this include:
+At the present time, intent to discriminate

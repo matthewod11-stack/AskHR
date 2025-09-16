@@ -1,51 +1,53 @@
+---
+source_path: H08MHC-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d26ff60551cdcdd59d71a2cafe2aec24d4f7873c
+title: H08MHC-PDF-ENG
+---
 # HBR / Digital Article / Design Your Transformation for Simplicity — Not Efficiency
 
-occurs when workﬂows are being designed and can have a meaningful,
+created to accomplish the objectives are complete and workable before the new sustainability rules are put into eﬀect.
 
-even determinative, impact on the ﬁnal output. Feedback, on the other
+For example, part of the new workﬂow is getting existing and
 
-hand, is received after transformation leaders have put in signiﬁcant eﬀort and believe the workﬂow design to be done or nearly so. That
+prospective suppliers to agree to abide by the new requirements.
 
-makes them understandably averse to acting on any feedback, short of
+Procurement and legal should work together to write model contract language. Within procurement, leaders, managers, and staﬀ should
 
-a terminal defect, that requires them to substantially redo their work or
+collaboratively devise practical negotiation strategies for reaching
 
-that means their work is farther from completion than they believed.
+acceptable agreements with suppliers who are initially unwilling or
 
-Anyone who has ever been someone else’s employee has at some point been invited to oﬀer feedback on a misguided initiative only for the ﬁnal
+unable to abide by the new contract language.
 
-output to be nearly identical to the draft.
+This solves two challenges. First, it ensures that users have what they
 
-Seeking feedback — rather than input — is a fatal ﬂaw in workﬂow
+need to complete the workﬂow at the time the new sustainability mandate takes eﬀect. By doing this work in advance, staﬀ are not
 
-design because simplicity is always relative. It’s not enough that
+simultaneously trying to write their own contract language, decide
 
-transformation leaders believe they’ve designed a simple workﬂow
+for themselves if variations to that language are acceptable, and
 
-because they’re not the ones who will be carrying it out. This is why
+make up negotiation strategies on the spot, all of which blunt the
 
-user experience and input are at the very center of designed simplicity.
+transformation’s eﬃcacy and cause frustration for all involved.
 
-All reasonable scenarios are planned for.
+Second, it ensures not just that staﬀ have tools, but that they have eﬀective tools. If the legal department, in its zeal to protect
 
-In the race to design minimum viable workﬂows as part of the eﬃciency
+the company’s interests, writes contract language tilted too far in their favor, they’ve put procurement staﬀ at a disadvantage when
 
-approach, the result tends to be one-size-ﬁts-all outputs that address only the ideal and most common scenarios staﬀ will ﬁnd themselves in.
+negotiations start; some suppliers, for instance, won’t bother entering
 
-Even in ideal, common scenarios, transformations add complexity.
+into negotiations if the starting point is too far from what they can agree to. And when procurement leaders, managers, and staﬀ collaborate
 
-Returning to the sustainability example, an ideal scenario — the
+on negotiation strategies, it ensures that these strategies reﬂect the ﬁrsthand staﬀ knowledge about their suppliers and counterparts that
 
-supplier has the requested sustainability metrics and is pleased to hand
+would otherwise be absent.
 
-them over — still adds additional steps, activities, and considerations
+It’s worth reiterating that, core to the designed simplicity approach, is understanding the diﬀerence between input and feedback. Input
 
-that complicate the workﬂow.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-The more realistic scenario is a less-than-ideal one — perhaps some
+8
 
-suppliers don’t have or are unwilling to share metrics. This not only
-
-adds more disruptive complexity to the process (e.g., negotiations), it
-
-creates new subprocesses with their own workﬂows (e.g., the waiver
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

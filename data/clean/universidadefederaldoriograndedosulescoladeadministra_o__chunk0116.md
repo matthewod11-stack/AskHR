@@ -1,7 +1,9 @@
-# De acordo com Pastana (2020), o avanço posterior da intitulada “psicologia positiva”
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 9a6e03b2e15a9e0c1044960fc40db143dbebfd18
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+# já vêm sendo
 
-trouxe uma nova perspectiva para a análise da performance humana no trabalho.
-
-Além do conhecimento da pesquisa tradicional, a psicologia positiva permite uma
-
-visão sistemática do trabalho e das organizações que considera a saúde e o
+explorados profundamente desde pelo menos a década de 1960 (RIZZATTI, 2002).

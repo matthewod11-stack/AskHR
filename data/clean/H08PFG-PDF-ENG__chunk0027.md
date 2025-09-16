@@ -1,23 +1,23 @@
-# the norm.
+---
+source_path: H08PFG-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 620b4513a607efb28745beca21a8610012772204
+title: H08PFG-PDF-ENG
+---
+# meaningful action.
 
-Try it. Confer with your team to create a set of norms that you
+This is what happened when students from randomly selected
 
-collectively agree to uphold, such as starting and ending meetings on
+American middle schools were encouraged to publicly advocate against
 
-time, scheduling social events during work hours, or doing weekly
+bullying as part of an anticonﬂict intervention. Reported conﬂicts
 
-feedback check-ins. Then, make those norms visible and top-of-mind,
+decreased dramatically, especially when the students who happened
 
-such as by documenting them on posters in meeting rooms (for
+to be part of the intervention were socially inﬂuential. These so-called
 
-in-person meetings) or sharing them in email reminders for weekly
+“social referents” tended to be closely watched by their peers for cues
 
-feedback check-ins to create momentum. Team members could even
+on how to behave, and when they took a stance against conﬂict, their
 
-take turns being the “norm champion” who helps everyone uphold the
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+actions had outsized inﬂuence in shaping other students’ perceptions of

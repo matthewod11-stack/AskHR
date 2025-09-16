@@ -1,55 +1,23 @@
-## HBR / The Big Idea / When Employees Take Sabbaticals, Organizations Benefit
+---
+source_path: H08LQA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 32fad6e2bc778e3fec1a0a8cea2dc30a210d4c9b
+title: H08LQA-PDF-ENG
+---
+# on two fronts: ﬁnances and beneﬁts.
 
-they have suﬃcient time to plan and save. Or companies could oﬀer
+The best possible scenario is giving employees full pay and beneﬁts
 
-full pay for a shorter period of time — say three months — and allow
+during their time oﬀ. That’s what McDonald’s, widely considered to
 
-employees to use unpaid leave or accrued vacation days for the rest.
+be the ﬁrst U.S. company to provide a paid sabbatical to its salaried
 
-Obviously, the less ﬁnancial help you oﬀer, the more likely it is that only
+employees, has done since 1977. If that’s not feasible, partial pay — or
 
-privileged employees will be able to take advantage of the policy.
+even a stipend — can give leave-takers enough cushion, especially if
 
-In countries where healthcare is linked to employment, such as
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-the United States, retaining insurance for your employees is also
+7
 
-nonnegotiable. Although it’s possible for people to buy supplemental
-
-policies for work breaks, having to navigate that system even once can
-
-trigger enough stress to reduce the positive beneﬁts of time oﬀ.
-
-To diﬀerentiate themselves from competitors, companies might also
-
-consider oﬀering coaching to sabbatical-takers. A trained, independent
-
-third party can help them ﬁgure out the details of transferring
-
-work responsibilities and putting the learnings from their time oﬀ
-
-into practice upon return. For example, McKinsey oﬀers coaching to
-
-employees during breaks, and HubSpot gives bonuses that employees
-
-may spend on any kind of career development.
-
-Disconnection. The ﬁnal pillar for a successful sabbatical program is
-
-perhaps the most important: ensuring that those who take time oﬀ
-
-do so for long enough and truly disconnect. You’ll need to establish
-
-a minimum time-oﬀ policy and actually prevent them from working.
-
-This is because habituated patterns can lead to what I call “functional
-
-workaholism,” which requires time and space to recover from.
-
-Most of the people I interviewed said it took them six to eight weeks to
-
-fully disengage from their professional identities and become open to
-
-new experiences and thinking. That’s why three months is the baseline
-
-length for a proper sabbatical, and my team’s survey results indicate it
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,23 +1,41 @@
-## The Consequences of Working for a Toxic Boss
+---
+source_path: H08HUR-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2a0532715dcaf284b05b6e82d5512989897169cf
+title: H08HUR-PDF-ENG
+---
+## HBR / Digital Article / 10 Signs of a Toxic Boss — and How to Protect Yourself
 
-If you’re working for a toxic boss, you’re likely well aware of just how
+- 8. They belittle and demoralize.
 
-damaging it can be. Here are some of the most common impacts:
+Toxic bosses will “joke” at the expense of others and talk negatively
 
-- 1. Increased feelings of fear and anxiety
+behind people’s backs. They will rarely have good things to say about
 
-Feelings of fear will permeate not only through your workplace but also
+people and will look to generate agreement from others that their
 
-into your home. Research shows that as many as one in four employees
+opinion is true.
 
-dread going to work in the morning. Your boss’s toxicity may also lead
+- 9. They seek to blame others.
 
-you to constantly feeling anxious as they undermine your conﬁdence,
+When issues arise or mistakes are made, toxic bosses will look to
 
-leaving you worried about your job.
+blame everyone but themselves. They will go to great lengths to explain
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+how others are culpable for the outcomes arising from errors, while
 
-4
+exonerating themselves.
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+- 10. They’re overconﬁdent about their knowledge.
+
+Toxic bosses routinely overestimate their skills and knowledge, leading
+
+them to believe that they are better at their job than they actually
+
+are. They continually think that they have the knowledge required and
+
+reject any suggestions of self-development.
+
+It only takes one of these traits to generate toxicity in the workplace and
+
+their impact can be felt across teams and the organization.

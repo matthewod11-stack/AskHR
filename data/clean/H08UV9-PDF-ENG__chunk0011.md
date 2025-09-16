@@ -1,19 +1,11 @@
-## institutional knowledge and accountability.
+---
+source_path: H08UV9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 688bfe521961f9977b94a863266c0b6326552f22
+title: H08UV9-PDF-ENG
+---
+## assess those candidates, conﬂicts of interest arise, because search ﬁrms
 
-On the other end of the spectrum, large psychometric providers oﬀer
+get paid when an executive is placed. Furthermore, most mid-sized companies—even PE ﬁrms—cannot oﬀer the deal ﬂow that qualiﬁes
 
-standardized assessments like personality tests designed to predict
-
-executive performance, identify risks and weaknesses, evaluate a
-
-person’s teamwork skills, and so on. The reports they provide are
-
-data-rich but interpretation-poor—algorithmic outputs that often miss
-
-nuance, context, and the human element. While they assess the
-
-candidate, it’s left to the hiring team to determine whether that
-
-candidate actually ﬁts what the job requires.
-
-This is where middle-market companies and PE ﬁrms confront the
+them for the best, most customized support from search ﬁrms; they’re often served by diﬀerent people for each search, which can reduce

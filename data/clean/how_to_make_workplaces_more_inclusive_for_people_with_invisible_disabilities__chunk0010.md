@@ -1,1 +1,13 @@
-# 9/8/25, 8:18 PM
+---
+source_path: how_to_make_workplaces_more_inclusive_for_people_with_invisible_disabilities.md
+pages: n/a-n/a
+chunk_id: d1cadb3c0d246326c9bb1035898e9f8bd1a30f0d
+title: how_to_make_workplaces_more_inclusive_for_people_with_invisible_disabilities
+---
+## How to Make Workplaces More Inclusive For People with Invisible Disabilities
+
+https://hbr.org/2023/04/how-to-make-workplaces-more-inclusive-for-people-with-invisible-disabilities
+
+4/9
+
+hours on certain days to manage doctor appointments, look forways to make it happen. If you need to speak with your bossbefore approving a request, let your team member know thatyou’ll get back to them, and make sure you follow up as soon aspossible.In general, make it a habit to check in on all of your employees’wellbeing from time to time. During one-on-ones, you could saysomething like, “How have you been doing this quarter? I want tomake sure you have all the resources you need to be successful atwork. Can you tell me what support or accommodations youmight need?”Finally, if your team member requests your confidentiality,respect their decision, and do not push them to open up ordisclose their health conditions with others. Let them know thatevery conversation you have with them will be private, and willnot be shared with the wider team unless they wish to open upthemselves. If you’re obligated to inform HR per your companypolicy, let your team member know.3) Advocate for inclusive policies and practices. If your company lacks a policy surrounding disabilities andaccommodations, an important part of your job as a manager is toadvocate for one or to make your current policies more inclusive.While this may seem challenging as a middle manager, you canbegin by sharing your ideas and suggestions with your boss or theleadership team. You now have the (positional) power to bringnew ideas to the table.Set up a meeting with your boss to discuss some ways to prioritizeinclusion within your company and share what you learnedthrough your conversations with your team members. Forexample, maybe you know that some workers could benefit from

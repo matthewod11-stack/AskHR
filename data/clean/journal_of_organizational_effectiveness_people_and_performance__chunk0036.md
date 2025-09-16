@@ -1,13 +1,13 @@
-# r e s o u r c e
+---
+source_path: journal_of_organizational_effectiveness_people_and_performance.md
+pages: n/a-n/a
+chunk_id: 525c9dcff409b67e1c3752e4477865c09081dbfe
+title: journal_of_organizational_effectiveness_people_and_performance
+---
+# Outcomes
 
-H u m a n
+9
 
-) T P (
+p r a c t i c e s
 
-5 1 0 2
-
-h c r a
-
-M 9 0
-
-0 0 : 8 0
+m a n a g e m e n t

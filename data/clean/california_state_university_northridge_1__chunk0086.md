@@ -1,15 +1,47 @@
-## discharge for poor performance, and disciplinary discharge (McGreevy, 1992). The
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: faa7e1eec37a45db6a8e819c051ba3db2e28c9db
+title: california_state_university_northridge_1
+---
+# Court Cases
 
-Alabama Supreme Court which said as apart of its majority opinion, that the language
+It is important to point out that each case is based on the totality of the
 
-used in Hoffinan-La Roche was clear enough that an employee reading it could reasonably
+circumstances. Courts in some cases to be a binding contract have interpreted the
 
-believe that he would not be terminated until all the procedures in the hand book had been
+language used in the employee handbook. "In the landmark case Toussaint vs. Blue Cross
 
-followed (McGreevy, 1992). In addition, since Hoffinan-La Rouhe, Inc. had clearly stated
+and Blue Shield ofMichigan (1980), the Michigan Supreme Court rule in favor of an
 
-five ways an employee could be terminated, the company could not terminate an
+employee when the company failed to follow the disciplinary procedure outlined in its
 
-employee, if did not fall into one of the five categories.
+21
 
-22
+employee handbook prior to firing the individual" (Jenner, 1994, p. 23). The courts
+
+position was it recognized statements created a contract of employment according to the
+
+handbook. So, if the handbook clearly delineated the termination process and any action
+
+that did not comply with what was written was a violation of corporate policy.
+
+In another case, according to Jenner (1994), the New Jersey Supreme Court, in
+
+Woolley vs. Hoffinann-La Roche, Inc. (1985) ruled that the company's policy written
+
+statement on job security created a binding contractual obligation. One reason the court
+
+may have ruled this way is because the employee had reasonable expectation of job
+
+security, and that termination would not occur. It is also possible that said company may
+
+have terminated employees in the past but never had verbiage that existed in their manual
+
+challenged.
+
+Another case involving Hoflinan-La Roche, Inc., which is a pharmaceutical firm
+
+that had in its employee ha.ndbook five reasons an employee could be terw.inated. The five
+
+reasons for termination from the pharmaceutical firm are retirement, resignation, layoff,

@@ -1,7 +1,7 @@
-# How to Start
-
-We hope these examples give you many ideas to inspire you to bring
-
-AI to the table, beyond your individual use. As you start building team
-
-chemistry with AI in various group settings, remember to:
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: fd6c5ad276cbc4e96f74b168021d95e27569fecc
+title: H08VIB-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings

@@ -1,9 +1,31 @@
-# behavior changes.
+---
+source_path: H07QP9-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d4297e805182a98574112c0b716ffbcc45a824dc
+title: H07QP9-PDF-ENG
+---
+# HBR / Digital Article / Don’t Let Your Company’s Culture Stifle Leadership Developme…
 
-However, this focus on individual development doesn’t account for another key variable in any behavior change eﬀort: the context or
+But Taylor never had the conversation. It felt risky, and she worried how
 
-environment in which an individual is working. Across nearly all
+the person would respond. While Taylor knew this conversation was
 
-domains, a person’s context plays a large role in shaping their behavior.
+important, her own manager rarely communicated so directly, nor did
 
-The design of our environment impacts our choices and consequent
+most of the leaders at her company who were regularly recognized and
+
+promoted.
+
+“Taylor” is a composite of many motivated leaders I’ve worked with
+
+throughout the years who are encouraged and developed to lead in ways
+
+that they don’t see modeled or rewarded at their company.
+
+I’ve previously written about the power in using behavioral science to increase the eﬀectiveness of employee development programs. When,
+
+after completing a training, individuals deﬁne exactly when they will
+
+take action and plan for the inevitable obstacles they will encounter,
+
+they are more likely to achieve their goals and make meaningful

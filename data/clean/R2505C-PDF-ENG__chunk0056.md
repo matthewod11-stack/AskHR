@@ -1,15 +1,23 @@
-## outbreak as another unexpected crisis that would, of course, force him
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e14c4960e81b079f6cbe523f649f26707f2bffe9
+title: R2505C-PDF-ENG
+---
+## HBR / Magazine Article / Now Is the Time for Courage
 
-to conserve cash yet again—but also push the company to explore new
+In Fink’s annual letter, he practiced reframing, writing: “We have lived
 
-areas of growth, including acquisitions to build its presence in train and
+through moments like this before. And somehow, in the long run, we
 
-bus travel, which laid the groundwork for its successful IPO last year.
+ﬁgure things out.” Foulkes has done the same throughout her career:
 
-. . .
+“My brain sometimes goes to what could go wrong, and I think that’s
 
-As the pace of change and disruption accelerates, courage—or the lack
+good [business school] training, but I also think it’s important to ask
 
-of it—can make or break careers, organizations, and society. That’s not
+ourselves, ‘What could go right?’” And just as the thriving companies
 
-to say leaders should take outsize risks. But most of us tend to be too
+in my 2008 study with my coauthors saw recessions not as existential
+
+threats but as opportunities, Ixigo’s Bajpai reframed the Covid-19

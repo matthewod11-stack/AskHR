@@ -1,7 +1,15 @@
-## through inconvenient hub-and-spoke models.
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 168614573f984c389f31d1930040fbb1a6510073
+title: S24021-PDF-ENG
+---
+## market (in terms of “revenue passenger miles,” or the number of miles
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+traveled by paying passengers) was a modest 5.3%. Southwest Airlines,
 
-9
+however, enjoyed a brisk average CAGR of 15.3%. It accomplished that
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+by developing unique operating capabilities (such as fast turnaround of aircraft) that enabled it to eﬃciently provide point-to-point service
+
+on routes that traditional competitors either ignored or served only

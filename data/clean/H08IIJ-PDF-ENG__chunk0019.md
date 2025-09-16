@@ -1,21 +1,27 @@
-# for their kids.
+---
+source_path: H08IIJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e35571616862d552833d72475c0d80a81fef45d9
+title: H08IIJ-PDF-ENG
+---
+# demands.
 
-There are only so many hours in the day, and parents often cut
+- 2. Structure relationships in a way that works for parents. In our
 
-casual interactions to make time for their children. While this has
+research, parents most preferred pre-arranged formal relationships,
 
-clear beneﬁts, there is of course a relational cost. Both managers and
+such as mentorship programs, because this cut down on the time, eﬀort, and small-talk required to build these connections more
 
-professionals should consider ways to develop workplace relationships
+organically. This type of relationship can provide parents with a way
 
-that are amenable to the demands of caregiving.
+to get advice on both professional and personal (e.g., managing work
 
-This article was originally published online on January 2, 2025.
+and family) issues, while saving time for their family.
 
-Vanessa M. Conzon is an assistant professor of management and organization at Boston College, Carroll School of Management (conzon@bc.edu). Her research focuses on the intersections between work, autonomy, and diversity. She received her Ph.D. from MIT Sloan School of Management.
+- 3. Focus on results, not hours. Managers sometimes focus on hours
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+put in rather than results achieved. Focusing on how well your
 
-5
+employees are performing — rather than the hours they put in — will
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+help you to reward parents instead of dinging them for making time

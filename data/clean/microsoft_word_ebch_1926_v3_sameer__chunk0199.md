@@ -1,3 +1,7 @@
-# DISCUSSION
-
-Organizational culture is a vital aspect of any company, shaping its values, beliefs, and behaviors. It is the collective personality of an organization, encompassing its shared values, traditions, and norms. This culture plays a pivotal role in determining the organization's identity and influences how employees interact, make decisions, and perceive their roles within the company.Organizational culture is often compared to the DNA of a company. It is not something that can be easily changed, and it often develops organically over time as a result of the organization's history, leadership, and external influences. It's the invisible force that guides the actions and decisions of everyone within the organization.
+---
+source_path: microsoft_word_ebch_1926_v3_sameer.md
+pages: n/a-n/a
+chunk_id: be75ab094307edca31980927bc70649331f2a6b5
+title: microsoft_word_ebch_1926_v3_sameer
+---
+# A Textbook of Industrial Psychology

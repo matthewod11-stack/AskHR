@@ -1,7 +1,15 @@
-## employee satisfaction, higher retention rates and productivity, better
+---
+source_path: H08BKU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9a7e8e605d6ede0631191e9875209e8504d79a02
+title: H08BKU-PDF-ENG
+---
+## HBR / Digital Article / Research: Why Inclusive Hiring Must Include Refugees
 
-market positioning, and a boost in creativity. Yet, refugee recruitment is
+Our study, and evidence from across the world, demonstrates that
 
-not without challenges and even those managers who overcome biases
+these negative assumptions stand in contrast with the experience of
 
-face hurdles when trying to hire from this talent pool.
+employers who have recruited refugees and raved about the beneﬁts
+
+they provided to the workforce, including outcomes like increased

@@ -1,49 +1,43 @@
-## HBR / Magazine Article / How to Counter Fake News
+---
+source_path: R2505L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 20c0a15268cfadbad90f0cc0c124f16e514f5c4e
+title: R2505L-PDF-ENG
+---
+# Joseph Ernst/The Sideline Collective
 
-Now consider the example of a company that didn’t recognize the
+The importance of early monitoring is seen in the case mentioned above
 
-spread of fake news quickly enough. In November 2024, the Danish-
+of Wayfair, which in July 2020 became aware of a conspiracy theory
 
-Swedish dairy company Arla Foods became aware of fake news
+alleging that the company was involved in child traﬃcking. Social
 
-spreading about its use of the cow-feed additive Bovaer, which the
+media posts claimed that extremely high-priced cabinets and pillows on
 
-company trialed to reduce methane emissions in dairy herds on UK
+Wayfair’s site were actually fronts for selling missing children, pointing
 
-farms. The supplement had been approved by the European Food Safety
+to product names that coincidentally matched the names of missing
 
-Authority and the UK’s Food Standards Agency, and it had been in
+kids. What started as a conversation on Reddit quickly spread across
 
-commercial use since 2021. Despite scientiﬁc evidence that Bovaer
+Facebook, Instagram, TikTok, and YouTube. Wayfair monitored social
 
-didn’t pose a health risk to humans or animals, social media posts on
+media chatter and trending keywords as the story gained traction, with
 
-X accused Arla Foods of poisoning consumers. Videos showed angry
+“Wayfair” being mentioned alongside traﬃcking claims and hashtags
 
-customers pouring Arla milk down the sink and throwing Arla butter
+like #WayfairGate. Within a few days, the conspiracy posts amassed
 
-in the trash. The baseless concerns were ampliﬁed and legitimized by
+millions of views on TikTok and other platforms. An analysis showed
 
-farmers, many of whom posted on social media that they opposed the
+that ampliﬁers were known information inﬂuencers who had previously
 
-use of Bovaer, and by a member of the UK parliament, who demanded
+spread conspiracy theories, conﬁrming the need to respond—rather
 
-on X that authorities carry out an urgent review of it. Although other
+than remain silent—to avoid long-lasting reputational damage.
 
-dairy brands also used the additive, the fake news targeted mainly Arla
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Foods. The company eventually responded but only after the story had
+10
 
-been widely ampliﬁed.
-
-- 2. Ensure transparency. To eﬀectively ﬁght fake news, companies must
-
-demonstrate their credibility. The best way to do that is to expose their
-
-processes to customers’ and other stakeholders’ scrutiny before a crisis hits. Companies can then enlist those stakeholders, who can oﬀer their personal validation to eﬀorts to dispel false information.
-
-Here’s how Vero successfully orchestrates this. As a preemptive strategy,
-
-Vero has cultivated relationships with key allies across the organic
-
-food ecosystem: agricultural scientists, sustainable-farming advocates,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

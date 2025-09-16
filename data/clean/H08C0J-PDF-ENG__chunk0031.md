@@ -1,23 +1,27 @@
-## HBR / Digital Article / The Hidden Costs of Climate Change on the Workforce
+---
+source_path: H08C0J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8190c695c327fc70937386888874a0526574c39
+title: H08C0J-PDF-ENG
+---
+# Develop and Deploy Early-Warning Systems
 
-Google has such a system in place. In 2020, the company’s CEO, Sundar
+The importance of timely information cannot be overstated when it
 
-Pichai, advised employees about an opt-in program that would track
+comes to climate change and employee health. Preventing an issue is far
 
-staﬀers’ locations through an emergency notiﬁcation system run by its
+more eﬀective than treating its consequences. For example, an email,
 
-security team, known as the Global Security and Resilience Services
+text, or app notice in advance of poor air quality can protect those with
 
-(GSRS). The system tracks and reaches out to employees in areas
+chronic conditions such as asthma. Just as companies have systems to
 
-aﬀected by diﬀerent health, climate, and security risks to oﬀer guidance
+warn of immediate security threats, similar early-warning systems are
 
-and support, and the GSRS team organizes tips for employees on
+needed for the growing public-health risks linked to climate change.
 
-preparing for poor air quality, evacuations, and power outages. During
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-widespread wildﬁres in 2023, for example, Google advised employees on
+4
 
-personal safety measures, including work-from-home advisories to limit
-
-exposure to outdoor air.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

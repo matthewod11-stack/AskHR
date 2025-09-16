@@ -1,1 +1,13 @@
-# 6 Harvard Business Review
+---
+source_path: R2106K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 168782661cc8a2cfb143b73c3d06fc23fbee2795
+title: R2106K-PDF-ENG
+---
+## INSTITUTIONALIZE GROUP DISCUSSIONS ABOUT ETHICS
+
+Research has identiﬁed three core features of systematic reﬂection that lead to learning. The ﬁrst is self- explanation— a process in which learners analyze their behavior to under- stand what happened and why. The second is data veriﬁca- tion, whereby learners think through multiple interpretations of a given experience or experiences. The third is feedback, meaning both reactions to past performance and recom- mendations for future improvement.
+
+To turn your organization into a moral laboratory, however, you must move beyond scenarios and simulations and let
+
+To maximize learning, managers can make ethics an explicit part of postmortem meetings, also known as

@@ -1,7 +1,11 @@
-## solutions with little discussion or deliberation.
+---
+source_path: H06W7A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cfc25ccdf26516794c4c0655b6b3f6bf6a5b139f
+title: H06W7A-PDF-ENG
+---
+## Unfortunately, research shows that consensus-based problem-solving
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+groups are often where innovative ideas go to die. These groups are
 
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+highly prone to groupthink – quick agreement around status quo

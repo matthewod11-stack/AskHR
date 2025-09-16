@@ -1,25 +1,31 @@
-# butions.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: 02f76ab7a94274380124ed21be9de92c5c60799b
+title: beo_chap7_1
+---
+# 7.3.2 Peers and Groups
 
-Falk and Ichino (2003) measured peer effects on output in an experiment, exploit-
+One place in which social preferences have entered labor economics is in the con-
 
-ing the ability to assign workers to pairs randomly, which avoids the problem of
+cept of “peer pressure.” Peer pressure is often invoked to explain why group-based
 
-endogenous peer selection that is typical in most (though not all) field data sets.
+incentives are surprisingly successful despite the incentive to free ride. For example,
 
-They recruited subjects to stuff letters into envelopes for four hours for a fixed fee
+Knez and Simester (2001) note that a $65/month bonus for all Continental Airlines
 
-(with no performance bonus). Some subjects did the activity by themselves; others
+employees, for improved on-time-arrival rates, actually worked, even though any
 
-did it in the presence of a randomly assigned peer. Random pairing led to closely
+one employee’s performance has a minuscule effect on the firm’s overall on-time
 
-matched output. The absolute deviation of output within each actual peer group
+performance. They note the important influence of immediate pressure by peers to
 
-averaged 20.6—much smaller than 99% of simulated absolute deviations within
+improve performance (see also Kandel and Lazear 1992). The experimental litera-
 
-artificial pairs composed of solo subjects. Pairing workers also raised output on
+ture on public goods games with sanctions also shows the power of peer pressure
 
-average (about 10%). Pairs were more likely to escalate each others’ output than to
+(see, for example, Yamagishi 1988; Fehr and Gachter 2000). When subjects can
 
-tacitly collude by goofing off. The estimated effect of a one-unit increase in output
+punish others at a cost to themselves, they often do so, which drives contributions
 
-on the peer’s output was 0.14 units, close to the 0.14-0.18 estimated from field data
+up. Note that not every subject punishes, but enough do so to create higher contri-

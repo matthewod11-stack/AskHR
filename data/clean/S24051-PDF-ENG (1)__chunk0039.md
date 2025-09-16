@@ -1,29 +1,29 @@
-# HBR / Spotlight / New Rules for Teamwork
+---
+source_path: S24051-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 829fa8ac791e25b8d0e35b040e79d181a7556c52
+title: S24051-PDF-ENG (1)
+---
+## productivity, client impact, apprenticeship, and personal experience.
 
-problem-solving sessions in person, compared with 59% of those who
+The results were unequivocal: The sweet spot for in-person time is
 
-ran them remotely.
+about 50%. When teams colocate half the time over the course of a
 
-The data also shows that these beneﬁts aren’t linear. Teams that colocate more than 50% of the time increasingly have to make diﬃcult
+project, they’re 10 times as likely to believe they collaborated eﬀectively
 
-trade-oﬀs when it comes to work-life balance and the ability to conduct
+compared with those above or below that level. Team members are
 
-focused work. At McKinsey and at other organizations, we’ve found that
+25% more likely to be satisﬁed with the quality of their support, and
 
-teams working remotely about 50% of the time are twice as likely to have suﬃcient recovery from work and are signiﬁcantly more likely to
+team leaders are signiﬁcantly more likely to say that they built solid
 
-ﬁnd their jobs sustainable.
+client relationships. For example, 77% of our team leaders said that they
 
-Knowing what to measure is critical. For example, trauma centers
+had built meaningful connections with their clients when they held
 
-determine team eﬀectiveness by measuring how long it takes to
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-stabilize a patient—a major factor in survival. When experimenting
+8
 
-with methods to reduce stabilization time, some centers tried placing
-
-timers in each trauma bay. Research showed that this simple action
-
-signiﬁcantly reduced stabilization time. The point is that when the right
-
-metrics are identiﬁed and collected, it becomes clear what practices to
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

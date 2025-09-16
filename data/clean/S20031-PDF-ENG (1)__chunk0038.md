@@ -1,15 +1,7 @@
-# Harvard Business Review
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
-
-States to address the problem of sexual harassment directly. In 1973 the univer- sity created an ombuds office to handle harassment and related complaints, and by the early 1980s the office was receiv- ing 500 complaints a year. In the 1980s, when the program was well established, more than 90% of those who took their claims to the office wanted an informal, confidential process; 75% worried that a formal complaint would bring reprisal, rejection, or the silent treatment from their bosses, coworkers, or even their own families, and said they didn’t want their harassers punished—they just wanted the problem to stop.
-
-MIT worked with complainants to give them what they wanted. As a result, the university today brings forward lots of complaints, many of which it resolves to the victims’ satisfaction. According to Mary Rowe, a labor economist and adjunct professor of negotiation who served for 42 years as the head of MIT’s ombuds office, employers who genuinely want to expose and address harassment in the workplace must offer this sort of alternative to formal griev- ance systems. Why? Because victims don’t want to bring formal complaints, and only one in 100 complaints, Rowe says, can survive the rigors of a legalistic grievance process. If such a process is the only option, most victims simply won’t come forward.
-
-Ombuds offices have spread across academia, law firms, and major news organizations over the past few decades. To help resolve harassment problems, these offices should make explicit that employees can come to them confiden- tially with their claims and concerns. When the University of Pennsylvania
-
-announced that victims of harassment could use its existing ombuds office, complaints and resolutions jumped. These offices are becoming more pop- ular in the rest of the corporate world: Thirteen percent of U.S. companies have them, to handle issues ranging from bullying to termination. Among these are American Express, The Cheesecake Factory, McKinsey, Nike, Chevron, Mars, and Uber. The Cheesecake Factory created its office in response to sexual harassment complaints in 2009. In 2017, after an Uber employee published a scath- ing blog about the company’s culture of harassment, Uber hired the former U.S. attorney general Eric Holder to investi- gate. Holder recommended creating an ombuds office to encourage employees to bring problems forward, and Uber’s board did just that. The rise of #MeToo has brought a sea change in the attitudes of executives: See no evil has been replaced by Bring it on, as they realize that it’s better to know about problems than to pretend they don’t exist.
-
-What’s most important about the ombuds system is that it puts victims in the driver’s seat. If they don’t want the accused to know they’re talking, that’s OK—the ombuds can hear them out confidentially and help them think through their options. Ombuds offices hold no formal hearings, are guided by no rules of evidence, and impose no restrictions on discussing the problem with others. Moreover, by tracking complaints by department and location, they can identify problem spots that need attention and alert leaders. They track complaints more effectively than grievance officers can, because people actually bring complaints to them.
-
-Setting up an ombuds office isn’t hard. You need ground rules for com- plaint handling, which a professional officer can help you design, working along International Ombudsman Asso- ciation guidelines. (A tip: You should be explicit about the fact that the ombuds will help with harassment.) You can even turn to one of the Silicon Valley start-ups that now offer online complaint systems. One of them, tEQuitable, operates a virtual ombuds office. Employers can subscribe to the service, which is confidential and gives their employees access to written advice online. If they need more than that, the company makes trained experts available for phone conversations. It doesn’t report individual harassment complaints to employers, but it sends aggregate stats to executives, allowing them to identify hot spots. Corporate ombuds offices do the same.
+---
+source_path: S20031-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 757dd16738bee1828237e30e7b35e1f39996df9a
+title: S20031-PDF-ENG (1)
+---
+# May–June 2020  7

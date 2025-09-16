@@ -1,21 +1,45 @@
-# leadership requirements.
+---
+source_path: R2303G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: adde83699b1deb238ab427132cfe90cd51d41c1a
+title: R2303G-PDF-ENG
+---
+# critical for leaders.
 
-In our analysis we studied 75 CEO successions, involving 235
+We’ve observed ample evidence of this new reality in our work as
 
-candidates, that took place at large-cap companies in the United States
+researchers, coaches, and leadership advisers. And we’ve also observed
 
-and Europe from 2009 to 2019. Forty-seven of those companies were
+that executives are having a hard time adapting to it. For starters, the
 
-public. We examined the correlation between CEO skills and ﬁrm
+terms “soft skills” and “people skills” are used to refer to a wide range of
 
-performance, as measured by shareholder return, revenue growth, and
+competencies and capabilities, leaving many executives confused about
 
-operating margins. We also interviewed a subset of leaders about their
+what exactly they entail. (For more on this, see the sidebar “What Kind
 
-development experiences to understand the variety of styles they used
+of People Skills Do You Need?”) In addition, few aspiring CEOs entering
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+the succession process have mastered the complete array of these skills,
 
-2
+and few newly appointed CEOs have them fully ready to deploy. That
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+shouldn’t be surprising. No leader who has built a career on making
+
+expert contributions and exercising hands-on control can be expected
+
+to make the leap overnight to a people-centric style.
+
+Yet reliable information about how to acquire people skills is scant. To
+
+ﬁnd out more—about what skills executives struggle to learn and what
+
+learning strategies pay oﬀ—we analyzed assessment, development,
+
+and interview data gathered by Spencer Stuart, one of the world’s
+
+top leadership advisory ﬁrms. Most Fortune 500 companies partner
+
+with advisers like Spencer Stuart to discover and develop succession
+
+candidates, so this data can be considered strong evidence of today’s

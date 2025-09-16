@@ -1,23 +1,19 @@
-# intimidate or assert dominance.
+---
+source_path: R2502F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7f6b070b438ae7d098d915f93300a49ddcaa7ee6
+title: R2502F-PDF-ENG
+---
+## HBR / Magazine Article / The Secret to Cross-Cultural Negotiations
 
-If you go in with a ﬁrm handshake and see
+Is the person correctly interpreting and communicating back what I’ve
 
-a negative reaction, explain the intention
+said or done so far?
 
-behind your gesture: “It seems that I
+Let’s look at how you might do that in a speciﬁc instance. When shaking
 
-squeezed your hand unexpectedly hard. In
+hands in a ﬁrst negotiation encounter, many people believe they should
 
-my culture, strong handshakes are usually
+shake hands ﬁrmly to signal their commitment to working together. But
 
-a way to show enthusiasm and an intention
-
-to collaborate. Until now, I thought it was
-
-something everyone did. I apologize if my
-
-actions sent the wrong message.”
-
-Heiko Hellwig photographed the complex choreography of Siamese fighting fish for his series Grand Ballet.
-
-Conversely, if you were on the receiving
+in some cultures, a strong handshake may be seen as an attempt to

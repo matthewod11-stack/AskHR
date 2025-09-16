@@ -1,7 +1,25 @@
-# forecast.
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0037136844e8d7e1e17d43d6c8c6b222993a59e1
+title: H08SQS-PDF-ENG
+---
+# indistinguishable forecasts for Nvidia.
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+After the consultation period, however, we found that executives
 
-3
+who used ChatGPT became more optimistic in their forecasts. On
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+average, the ChatGPT group raised their one-month price estimates by
+
+about $5.11.
+
+Peer discussion made forecasts more conservative.
+
+In contrast to the AI group, the peer-discussion group lowered their
+
+price estimates, on average, by about $2.20. Additionally, this group was
+
+more likely than the ChatGPT group to stick with their original estimate.
+
+If they did make a change, they were more likely to decrease their initial

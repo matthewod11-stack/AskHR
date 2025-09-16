@@ -1,23 +1,19 @@
-## HBR / Digital Article / A Data-Based Approach to Delegating
+---
+source_path: H08TOA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3e944284bca622019d42f6ac763797fe6cef25c1
+title: H08TOA-PDF-ENG
+---
+## communicate expectations, and invite questions.
 
-times to touch base. You may actually perform the task together the ﬁrst
+The time such a transition will take depends on both the task and the
 
-few times before you start to back out of doing it.
+employee’s readiness to take it on. More complex tasks, especially those
 
-In addition, you may want to delegate meetings that you have
+on the “could delegate” list, probably need a longer plan with additional
 
-historically been a part of, but don’t really need to be at anymore.
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-Meetings also merit some preparation and explanation. So, you may
+5
 
-want to prepare notes on what the overall purpose of the meeting
-
-is, what is expected of the employees who attend it, why you have
-
-continued to attend the meeting, or what you’d like to be made aware of
-
-after the meeting once you stop attending it. Like the “could delegate”
-
-tasks, you may attend a few meetings with the person you’re delegating
-
-the meeting(s) to and answer any questions they may have before you
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

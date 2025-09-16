@@ -1,7 +1,7 @@
-## intended employment, whichever is more frequent.
-
-The employer must provide a copy of the job order to the H-2B worker no later than the time at which the worker applies for the H-2B visa (or at the time of the job oﬀer if the H-2B worker is already in the U.S.) and to
-
-a worker in corresponding employment no later than on the day the work commences. The job order must be
-
-provided in a language understood by the worker, as necessary or reasonable.
+---
+source_path: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas).md
+pages: n/a-n/a
+chunk_id: 839bdd20d27b96450085f0bced3c35bf04fdb9d5
+title: Employment Law Guide - Temporary Nonagricultural Workers (H-2B Visas)
+---
+# Employees must be paid at least every other week, or according to the prevailing practice in the area of

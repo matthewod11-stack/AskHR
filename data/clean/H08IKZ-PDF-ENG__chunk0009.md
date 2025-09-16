@@ -1,13 +1,35 @@
-# long-term brand reputation.
+---
+source_path: H08IKZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a4870ae3177ac37704ec0446331412d70ec33fed
+title: H08IKZ-PDF-ENG
+---
+# HBR / Digital Article / The Irreplaceable Value of Human Decision-Making in the Age o…
 
-This kind of decision framing cannot be derived from data and
+buyer might be signaling their status with a luxury vehicle, or ensuring
 
-analytic tools alone since it involves trading oﬀ individual and
+their children have a safe way to travel to and from school.
 
-collective preferences. Human involvement is crucial in identifying
+Businesses too have ultimate goals — from achieving economic
 
-these objectives and balancing them. Quite often, they need to be
+prosperity to contributing to society to protecting the environment —
 
-reﬁned through iterative interactions, as humans often discover “what
+which can diﬀer markedly. Given the subjectivity of human values,
 
-they really want” by pursuing an objective and adjusting as they
+deﬁning the human end cannot be outsourced to machine intelligence.
+
+- 2. Framing the immediate objectives.
+
+To achieve your ultimate goal, you often have to make smaller, more
+
+immediate, and tangible decisions along the way. In our car-buying
+
+example, the ultimate goal may be to purchase a vehicle that meets
+
+certain safety standards, but you also want to make sure that the car
+
+ﬁts within a given budget. For a business, the ultimate goal might be
+
+to achieve 10% sales growth over the previous year, but you also have
+
+to ensure that optimizing short-term sales growth doesn’t compromise

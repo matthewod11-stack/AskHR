@@ -1,35 +1,27 @@
-# AI in the Boardroom
+---
+source_path: H08NNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b843e32c758a3598ca17b44cac07c2cbf79e4387
+title: H08NNP-PDF-ENG
+---
+## HBR / Digital Article / When AI Gets a Board Seat
 
-Our engagement with Giesswein started in October 2023. We designed three types of interventions and conducted at least two diﬀerent
+Impressive though such results are, the studies we are aware of have
 
-variations of each to test for replicability. After each intervention, we
+all been conducted under artiﬁcial laboratory conditions. Extrapolating
 
-conducted follow-up interviews with the two brothers who run the family ﬁrm to gather their perceptions of eﬀectiveness.
+these to real-world conditions is far from straightforward. Executives in
 
-The interventions happened during a period when the executive team
+the wild face unframed and shifting challenges, often with insuﬃcient
 
-decided to make several big strategic moves, allowing us to see AI
+or inaccurate data.
 
-at work when the future of the ﬁrm was being forged. The ﬁrm
+We wanted to understand: What happens if we take AI out of the lab
 
-had decided to outsource production entirely, closing down their
+into a real company? Over the past year we joined a series of executive
 
-longstanding manufacturing facilities in Austria and transforming them
+team meetings at Giesswein, an $85 million revenue company based in
 
-into a logistics hub. They also decided to sell a sewing factory in
+Austria, that sells organic, eco-friendly wool sneakers. Our idea was to experiment with diﬀerent ways of integrating AI into their executive
 
-Slovakia and to enter the U.S. market.
-
-Our ﬁrst type of intervention was to over the course of several meetings
-
-simply feed the agenda of the executive team into ChatGPT 4.0 asking
-
-for suggestions on which questions and issues to discuss. The output
-
-was shared with the team during the meeting as each of the agenda
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+meetings to understand what works and how.

@@ -1,3 +1,9 @@
-# Treatment Approaches
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 120cbfd8a8ace6967d767d5719ae12a923388463
+title: untitled
+---
+# THE TWENTIETH CENTURY
 
-One signiﬁcant development involved attempts to treat the patient by direct intervention in the structure and function of the nervous system. Brain surgery was among the ﬁrst of these interventions.
+The twentieth century saw the development of major changes in the treatment of psychopathology and in the understanding of the biological and psychological processes that are invol- ved in its development.

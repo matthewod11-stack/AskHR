@@ -1,9 +1,17 @@
-# board.
+---
+source_path: R2504A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 81e10291552344d368ec08f13993db62bdc963f5
+title: R2504A-PDF-ENG
+---
+## HBR / Magazine Article / The CEO of Kaspi.kz on Designing an Essential Superapp
 
-We are proud to have become a symbol of national pride in Kazakhstan.
+credentials. As our makeup shifted from 90% retail bank to an even split
 
-We believe we can ﬁnd success in other areas of our region by
+among ﬁntech, marketplace, and payments, we have helped to shift
 
-continuing to focus relentlessly on improving customers’ lives. And we
+the country’s economy from 85% cash-based to 85% cashless, and we
 
-hope to inspire other companies to do the same in their own parts of the
+are one the top ﬁve corporate taxpayers there. And most important, we
+
+make our customers happy—with NPS ratings of 80 to 90 across the

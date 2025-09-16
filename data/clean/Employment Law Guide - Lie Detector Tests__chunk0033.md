@@ -1,19 +1,11 @@
-# act) and Spanish(https://www.dol.gov/agencies/whd/posters/employee-polygraph-protection-act/espanol). Posting of
+---
+source_path: Employment Law Guide - Lie Detector Tests.md
+pages: n/a-n/a
+chunk_id: 33fcda12c19c1921642de45fe0fdbbe26fec7eb4
+title: Employment Law Guide - Lie Detector Tests
+---
+# Act. The notice must be posted in a prominent and conspicuous place in every establishment of the employer
 
-the EPPA poster in Spanish is optional.
+where it can readily be observed by employees and applicants for employment. There is no size requirement for the poster.
 
-Notices. There are speciﬁc notices that must be given to examinees and examiners in instances where polygraph tests are permitted:
-
-When a polygraph test is administered pursuant to the economic loss or injury exemption, the employer is
-
-required to provide the examinee with a statement prior to the test, in a language understood by the
-
-examinee, which fully explains the speciﬁc incident or activity being investigated and the basis for testing
-
-particular employees. The statement must contain, at a minimum, the following information:
-
-An identiﬁcation with particulars of the speciﬁc economic loss or injury to the business of the employer
-
-A description of the employee's access to the property that is the subject of the investigation
-
-A detailed description of the basis of the employer's reasonable suspicion that the employee was involved
+The EPPA poster is available in English(https://www.dol.gov/agencies/whd/posters/employee-polygraph-protection-

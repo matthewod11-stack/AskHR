@@ -1,59 +1,53 @@
-# HBR / Digital Article / Ancestry CEO Deb Liu Says Women Need to Reframe Their Rela…
+---
+source_path: H07DLJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 42f6603d06228fc65f0886de1103f63d8918e0d9
+title: H07DLJ-PDF-ENG
+---
+## note about “Queen Bee syndrome,” in the middle of the allies chapter.
 
-DEB LIU:
+And it’s because it’s something we hear a lot: women are terrible
 
-Well, ﬁrst, I want to deﬁne what a sponsor is. We often hear about
+mentors and leaders, and they push other women down. And actually,
 
-mentors, people who give you advice, and there’s tons of women who
+I was reading a number of studies. One of them, the most salient said
 
-are over-mentored and under-sponsored. Women are given a lot of
+that that’s only true in a circumstance where there’s only one slot. When
 
-mentors. People give them advice. But a sponsor is someone who puts
+women are competing for the one slot, say, in a law ﬁrm partnership or
 
-their career on the line to open doors for you to actually say, “I vouch
+in the C-suite, then yes, it’s absolutely competitive. But actually, if you
 
-for this person at my own expense should this go wrong.” And women
+look at all the studies, when women make it onto boards, when they’re
 
-actually have fewer sponsors. Part of the issues with sponsors is that
+the CEO or in the C-suite, when they run organizations, they actually
 
-people tend to sponsor people who are most like them. When I sponsor
+bring more women, more diversity in.
 
-somebody, I’m much more likely, any individual is more likely, to
+So, if you look at it on a broad scale, it actually is the opposite. And
 
-sponsor somebody who I can say, “I can see myself in that person 10,
+I hate the idea of “Queen Bee syndrome” because it’s saying, “Women
 
-20 years ago. I can see them becoming me someday, and I can remember
+push each other down.” But that’s absolutely not true unless it’s set
 
-what it felt like to be in their position.”
+up in a competitive way. Instead, you actually see transformation
 
-But in a workplace where we’re not equal in a number of diﬀerent ways,
+happening because women are in leadership positions.
 
-it means that those who get sponsored tend to look like the people who
+ADI IGNATIUS:
 
-are already there. So, it’s so important to cultivate sponsors. And I often
+One of the takeaways from your book is that women really will beneﬁt
 
-ask, “How many of you in the audience have a sponsor?” And when
+from having allies, and particularly, sponsors in the workplace. I think
 
-you look around, a lot of people don’t know. And the answer is, if you
+there’s some people who feel like, yeah, I’ve had that or I’ve had that all
 
-don’t know, you don’t have one. Because a sponsor is like a tailwind in
+my career, and some people who ask how to do it? And so, what is your
 
-your career. You can feel it. You can feel people pushing you towards
-
-something greater, giving you opportunities you never thought, opening
-
-doors for you. And I greatly beneﬁted from that. I absolutely would not
-
-be where I am today but for the handful of people I wrote about in my
-
-book, who actually accelerated my careers in ways that I could never
-
-have imagined. And without each of those individuals giving me the
-
-tailwinds I needed to get to here, I would not be here. Absolutely.
+advice: how do you get a sponsor who can help you in your career?
 
 Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-10
+9
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

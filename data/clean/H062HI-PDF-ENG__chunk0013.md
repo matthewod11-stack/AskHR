@@ -1,19 +1,41 @@
-# September.
+---
+source_path: H062HI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 276276837610518494289c17a2e3e453499bc06a
+title: H062HI-PDF-ENG
+---
+# Hopper Conference.
 
-But until such a policy is in place, what can tech ﬁrms and small
+But many small ﬁrms, especially cash-strapped tech start-ups, often don’t
 
-businesses do to address their disadvantage in paid leave, so they can
+have the resources to offer paid leave. The Department of Labor reports
 
-attract and retain top tech talent? Here are six suggestions from long-time
+that just 15% of companies with 99 or fewer employees have access to
 
-human resources professionals and small business leaders who have been
+employer-provided paid leave, compared to nearly one-third of workers at
 
-navigating this mineﬁeld:
+large companies. “But many small employers view their employees as
 
-Do a cost-beneﬁt analysis. Providing a paid leave beneﬁt can be expensive, but so can not providing it. Failed recruiting efforts are expensive. For example, Resumelab.com reports that 43% of new hires
+family,” says Katie Vlietstra Wonnenberg, a principal with public policy
 
-Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
+ﬁrm Public Private Strategies. “They want to take care of their people.”
 
-3
+That’s a big reason why a coalition of small businesses in the United
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+States, led by organizations like the Small Business Majority and Main
+
+Street Alliance, have been calling for a national public paid leave policy to
+
+help them compete for talent with bigger ﬁrms. SBM’s polling found that
+
+70% of small businesses support a national policy. Another survey in
+
+October of 600 small business owners found widespread bipartisan
+
+support for a national public policy. “Paid leave would allow small
+
+businesses to compete with larger companies that have the resources to
+
+provide such a beneﬁt while taking care of their employees,” John
+
+Arensmeyer, SBM founder and CEO, wrote to the Department of Labor in

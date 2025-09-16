@@ -1,23 +1,11 @@
-# resumes and interviews.”
+---
+source_path: H078QI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 61a434be5ad4aa6d7777c0ffa6ea5df8ad440409
+title: H078QI-PDF-ENG
+---
+# HBR / Digital Article / To Avoid DEI Backlash, Focus on Changing Systems — Not Peop…
 
-Backlash risk: “Employees with disabilities and those who are
+and gender makeup of the candidate pool through each stage, and
 
-neurodivergent aren’t able to navigate the workplace as well as their
-
-non-disabled or neurotypical peers. To address this, we should give
-
-disabled and neurodivergent employees coaches and run a campaign to
-
-help all employees build empathy for these experiences.”
-
-Systems framing: “The employee experience is built around narrow
-
-assumptions about the ‘ideal’ employee that no longer hold true for
-
-our current workforce, which, among other things, is more disabled
-
-and neurodivergent than the workforce of the past. To address this, we
-
-should revisit employee onboarding, job design, and the manager-direct
-
-report experience to be more accessible, then integrate these changes
+coming together to agree on how to make decisions fairly based on

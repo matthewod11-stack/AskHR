@@ -1,31 +1,35 @@
-# under its old multi-year programs.
+---
+source_path: H08VBA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 005b581e61074c2912fbc69fa67e3af9631b035e
+title: H08VBA-PDF-ENG
+---
+# HBR / Digital Article / Your Company Needs to Focus on Fewer Projects. Here’s How.
 
-- 5. Reward leaders who stop, not just those who start.
+focused on high-value initiatives. Leaders described it as “one of the
 
-In most organizations, careers are built on launching new initiatives,
+most liberating changes we’ve ever made.”
 
-not ending them. High-performing companies change that narrative.
+- 4. Time-box projects to three or six months.
 
-At a global luxury company I advised, the CEO added a new KPI to
+Long, open-ended projects are where focus goes to die. They create
 
-senior leaders’ scorecards: resources freed from low-value initiatives.
+sunk-cost inertia, locking organizations into outdated priorities.
 
-Leaders had to publicly share, every quarter, which projects they had
+An energy corporation I worked with shifted to a time-boxed approach:
 
-stopped and how those resources were reinvested.
+All new initiatives were structured as three- or six-month projects, with
 
-At ﬁrst, executives were skeptical. But within two cycles, the mood
+continuation decided at the end of each cycle.
 
-shifted—leaders began competing to demonstrate their strategic
+This made it easier for executives to pivot—or stop—without political
 
-judgment. One senior executive proudly told me, “Stopping that big
+fallout. Leaders could simply say, “This cycle ends here; we’re
 
-IT project freed 15 engineers; they’re now accelerating our core digital
+redirecting resources elsewhere.” The approach gave the company
 
-oﬀering. That’s the impact I want to be known for.”
+remarkable agility; for example, when customer behavior shifted
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+sharply during a regulatory change, the ﬁrm was able to redirect
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+investment within weeks, something that would have been unthinkable

@@ -1,9 +1,29 @@
-# marketing.
+---
+source_path: H08TZO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 85dd3fe18a5b0b7641fc796589cac9ab9d54edb2
+title: H08TZO-PDF-ENG
+---
+# The Demographic Tipping Point
 
-Yet many companies still treat aging as a risk to be managed, not
+The numbers are stark. Globally, according to the United Nations, one in
 
-a consumer and talent opportunity to be embraced. Internal KPIs
+six people is now over the age of 60, and this ﬁgure is expected to double
 
-prioritize short-term wins. Leadership pipelines overlook the potential
+by 2050. In the United States, adults aged 65 and older are expected to
 
-of late-career professionals. Advertising often defaults to youthful
+outnumber children under 18 by 2034. Fertility rates have fallen below
+
+replacement level in more than 100 countries. China, Japan, Italy, and
+
+South Korea are already experiencing population decline.
+
+As life expectancy has increased, so have the capabilities and
+
+aspirations of older adults. Today’s 60- and 70-year-olds are starting
+
+businesses, caregiving for family members, and running marathons.
+
+They’re not fringe cases—they’re the future mainstream, and
+
+they’re underrepresented in workforce planning, product design, and

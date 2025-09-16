@@ -1,5 +1,9 @@
-## AI research pioneers Ajay Agrawal, Joshua Gans, and Avi Goldfarb
+---
+source_path: H08SHM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a5a6c3a98b8e211e9b76457351fbff4853d2c486
+title: H08SHM-PDF-ENG
+---
+## protocols, or streams of sensor data—face the greatest near-term risk of
 
-argued in 2018 that as AI advances, the last bastion of human advantage
-
-will be judgment—the ability to weigh options and make decisions
+being handed over to machines.

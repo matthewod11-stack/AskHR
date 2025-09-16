@@ -1,15 +1,15 @@
-# on one-size-ﬁts-all methods.
+---
+source_path: H08GLN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c5afb092d6a0eb66b2792a49211e1d478248f461
+title: H08GLN-PDF-ENG
+---
+## the most popular products to every user, even though this strategy
 
-- 7. Encourage exploration and manage the struggle.
+has been shown to result in poor user engagement and satisfaction
 
-Once the team encounters roadblocks, it is essential that managers
+in previous iterations. This roadblock encourages the team to rethink
 
-resist the temptation to step in and solve problems for them. The
+personalization and explore more nuanced, data-driven approaches
 
-struggle is where real learning happens, and employees should be
-
-encouraged to collaborate and try diﬀerent architectures (e.g., neural
-
-networks vs. decision trees) to ﬁnd a solution. This does not mean there is no feedback during the process. Instead, the feedback is to aﬃrm the
-
-goal of learning task, assure psychological safety, and encourage greater
+that take into account individual user preferences rather than relying

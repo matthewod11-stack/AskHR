@@ -1,11 +1,19 @@
-# rates among all demographic groups.
+---
+source_path: H088ND-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b76dbced0bbb4664e881dd6857265ee8ddaaede8
+title: H088ND-PDF-ENG
+---
+## and respect for authority — essential for leadership in collectivist
 
-Such isolation and exclusion not only negatively aﬀects Asian
+and hierarchical Asian societies. However, leaders often prioritize
 
-professionals, it also has concrete business impacts. Asian employees
+colleagues who embody the individualistic and assertive styles of
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+Western cultures. As a result, Asians are often relegated to the fringes of corporate networks, where they may stagnate throughout their careers.
 
-4
+This marginalization breeds a deep sense of alienation. Only 16% of
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Asian men and 20% of Asian women feel a sense of belonging in their
+
+workplaces, according to a study from Bain & Company — the lowest

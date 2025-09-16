@@ -1,1 +1,15 @@
-## Chapter 8 • Performance Management and Employee Development
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 20b78631e1d4a3e4aaaff579bcb1942ad38e5097
+title: performance_management_3rd_edition_by_aguinis
+---
+# 8.1 PERSONAL DEVELOPMENTAL PLANS
+
+Personal developmental plans specify courses of action to be taken to improve performance. Achieving the goals stated in the developmental plan allows employees to keep abreast of changes in their fields or professions. Such plans highlight an employee’s strengths and the areas in need of development, and they provide an action plan to improve in areas of weaknesses and further develop areas of strength.1 In a nutshell, personal developmental plans allow employees to answer the following questions:
+
+- How can I continually learn and grow in the next year? • How can I do better in the future? • How can I avoid performance problems faced in the past?
+
+Developmental plans can be created for every job, ranging from entry level to the executive suite. No matter how high up the position within the organization and how simple or complex the nature of the job in question, there is always room for improvement. Information to be used in designing developmental plans comes from the appraisal form. Specifically, a developmental plan can be designed based on each of the performance dimensions evaluated. For example, if the performance dimension “communication” is rated as substandard, this area would be targeted by the devel- opmental plan. In addition, however, developmental plans focus on the knowledge and skills needed for more long-term career aspirations.
+
+In addition to improved performance, the inclusion of development plans and, in more general terms, the identification of employee strengths and weaknesses as part of the performance management system have another important benefit: employees are more likely to be satisfied with the system.2 For example, a study including 137 employ- ees at a production equipment facility in the southern United States showed that the greater the extent to which employees believed that the system was being used for developmental purposes, the more satisfied they were with the system. On the other hand, perceptions of the extent to which the system was used for evaluative purposes did not relate to employee satisfaction with the system. In other words, using the system for evaluative purposes did not relate to employee satisfaction with the system, but using the system for developmental purposes had a positive relationship with satisfaction.

@@ -1,7 +1,29 @@
-## HBR / Digital Article / When Resentment Is Building on Your Team
+---
+source_path: H08CUN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dc3d899bd83d79e5f813fc844cfdac3361f8fe31
+title: H08CUN-PDF-ENG
+---
+# Focus on common goals
 
-Clearly communicate your purpose and mission. The objective is to
+As humans, we’re hardwired to focus on threats and negative events
 
-cultivate optimism and drive, he adds. “Say: ‘Here’s what we’re doing,
+more than positive ones. “Psychologists call this positive-negative
 
-why we’re doing it, and where we’re going.’”
+asymmetry, and it explains why even small negative events wield such
+
+power,” according to Klotz. To mitigate this, he suggests amplifying
+
+positive events. “Take the time to celebrate wins, acknowledge
+
+accomplishments, and focus your team on a common goal,” he says.
+
+This way, instead of looking inward and ﬁghting, the team’s attention
+
+shifts outward toward the future. “It helps cleanse the negative vibes.”
+
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

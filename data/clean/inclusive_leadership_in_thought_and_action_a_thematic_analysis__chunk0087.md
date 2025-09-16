@@ -1,11 +1,13 @@
-# Thousand Oaks, CA: Sage.
+---
+source_path: inclusive_leadership_in_thought_and_action_a_thematic_analysis.md
+pages: n/a-n/a
+chunk_id: 41b0def7be48b8d1ad7e7b877e6e2460ea3e06eb
+title: inclusive_leadership_in_thought_and_action_a_thematic_analysis
+---
+# lationship. New York: Routledge.
 
-Maslow,A.H.(1943).A theory of humanmotivation. Psychological Review, 50,370-396. Miles, M. B., & Huberman, A. M. (1994). An expanded sourcebook: Qualitative data
+Holvino, E., Ferdman, B. M., & Merrill-Sands, D. (2004). Creating and sustaining diversity and inclusion in organizations: Strategies and approaches. In M. S. Stockdale, & F. J. Crosby (Eds.), The psychology and management of workplace diversity (pp. 245-276). Malden, MA: Blackwell.
 
-analysis (2nd ed.). Thousand Oaks, CA: Sage.
+Ibarra, H. (1993). Personal networks of women and minorities in management: A conceptual framework. Academy of Management Review, 18, 56-87. doi:10.5465/ amr.1993.3997507.
 
-Mor-Barak, M. E., & Cherin, D. A. (1998). A tool to expand organizational un- derstanding of workforce diversity: Exploring a measure of inclusion-exclusion. Administration in Social Work, 22, 47-64. doi:10.1300/J147v22n01_04.
-
-Nembhard, I. M., & Edmondson, A. C. (2006). Making it safe: The effects of leader inclusiveness and professional status on psychological safety and improvement efforts in health care teams. Journal of Organizational Behavior, 27, 942-966. doi: 10.1002/job.413.
-
-Nishii, L. H. (2013). The beneﬁts of climate for inclusion for gender-diverse groups. Academy of Management Journal, 56, 1754-1774. doi:10.5465/amj.2009.0823.
+Javed,B.,Naqvi,S.M.M.R.,Khan,A.K.,Arjoon,S.,&Tayyeb,H.H.(2017).Impact of inclusive leadership on innovative work behavior: The role of psychological safety. Journal of Management & Organization, 25, 117-136. doi:10.1017/jmo.2017.3. Krippendorf, K. (1980). Content analysis: An introduction to its methodology.

@@ -1,17 +1,19 @@
-# Journal of Pacific Rim Psychology
+---
+source_path: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media.md
+pages: n/a-n/a
+chunk_id: 954bd8a9df627cf84bd4207753025637b025a1a2
+title: effects_of_inclusive_leadership_on_organizational_citizenship_behavior_the_media
+---
+## transactional Marketing Science Journal, 29, 115–134.
 
-Naqshbandi M.M. and Tabche I. (2018). The interplay of leadership, absorp- tivecapacity,andorganizationallearningcultureinopeninnovation:Testing a moderated mediation model. Technological Forecasting and Social Change, 133, 156–167.
+Masterson S.S., Lewis-McClear K., Goldman B.M. and Taylor M.S. (2000). Integrating justice and social exchange: The differing effects of fair proce- dures and treatment on work relationships. Academy of Management Journal, 43, 738–748.
 
-Nembhard I.M. and Edmondson A.C. (2006). Making it safe: The effects of leader inclusiveness and professional status on psychological safety and improvement efforts in health care teams. Journal of Organizational Behavior, 27, 941–966.
+Moorman R.H. (1991). Relationship between organizational
 
-Neter J., Wasserman W. and Kutner M.H. (1989). Applied Linear Regression
+justice and organizational citizenship behaviors: Do fairness perceptions influence employee citizenship? Journal of Applied Psychology, 76, 845–855.
 
-Models (2nd ed.). Homewood, IL: Irwin.
+Moorman R.H., Blakely G.L. and Niehoff B.P. (1998). Does perceived organi- zational support mediate the relationship between procedural justice and organizational citizenship behavior? Academy of Management Journal, 41, 351–357.
 
-Nguyen C.T. (2011). Impacts of socio-culture on the development of autono- mouslearning:Alensof Vietnamese context.JournalofStudiesinEducation, 1, 1–10.
+Motowidlo S.M. (2003). Job performance. In W.C. Borman, D.R. Ilgen and R. Klimoski (Eds.), Comprehensive Handbook of Psychology. Industrial and Organizational Psychology (vol. 12, pp. 39–53). New York, NY: Wiley. Muhammad A.H. (2014). Perceivedorganizational support and organizational citizenship behavior: The case of Kuwait. International Journal of Business Administration, 5, 59–72.
 
-Nguyen T.D. and Nguyen T.T.M. (2012). Psychological capital, quality of work life, and quality of life of marketers. Journal of Macromarketing, 32, 87–95.
-
-Nishii L.H. and Mayer D.M. (2009). Do inclusive leaders help to reduce turn- over in diverse groups? The moderating role of leader-member exchange in the diversity to turnover relationship. Journal of Applied Psychology, 94, 1412–1426.
-
-Organ D.W. (1988). Organizational Citizenship Behavior: The Good Soldier
+Nabatchi T., Bingham L.B. and Good D.H. (2007). Organizational justice and workplace mediation: A six factor model. International Journal of Conflict Management, 18, 148–176.

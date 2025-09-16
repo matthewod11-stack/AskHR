@@ -1,9 +1,9 @@
-## Evaluation Systems in Higher educatio (Littleton: Ireland, 1978), p. 1.
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: e6fc6c5bb1f283850f2ad552696a94ee58dad980
+title: document_resume
+---
+## Gerald L. McManis and L. James Harvey, Planning, Management and
 
-2.
-
-John W. Kingdon, Agendas Alternative and Public Policies, (Boston, Little,
-
-Brown, 1984), p. 173.
-
-- 3. Hill, 1960).
+1.

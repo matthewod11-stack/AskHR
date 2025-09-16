@@ -1,13 +1,9 @@
-## leader justice through fair treatment and reinforcement of appropriate
+---
+source_path: H08GNP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 539df757defe17c02168ce56a6e6220d45e306c9
+title: H08GNP-PDF-ENG
+---
+# HBR / Digital Article / Leaders Can’t Make Up for Bad Behavior by Being Nice Later
 
-conduct. Although these behaviors seem unlikely to coexist in the same
-
-leader, evidence shows that leaders can alternate between these fair and unfair behaviors in their interactions with employees across diﬀerent
-
-times and situations. For instance, a leader may respond abusively to
-
-an employee’s project mistakes but show care toward that employee the
-
-next day. While this may seem manageable in the short term, repeated
-
-swings between these behaviors can have signiﬁcant consequences — a
+represent leader injustice. Conversely, ethical leadership exempliﬁes

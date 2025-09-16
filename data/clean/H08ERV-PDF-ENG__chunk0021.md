@@ -1,17 +1,19 @@
-# What Entrepreneurs Should Consider
+---
+source_path: H08ERV-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 13af7795c03dd852350ea3099143e5019dcec721
+title: H08ERV-PDF-ENG
+---
+# greater success.
 
-By unpacking how the timing of scaling impacts startup outcomes,
+Similarly, take Convoy, which ceased operations in October 2023. The
 
-our research provides insight into what entrepreneurs should prioritize
+discounts and incentives they oﬀered during their initial attempt to
 
-when formulating their scaling strategy:
+dominate the market resulted in disloyal customers when market
 
-- 1. Don’t rush into scaling early. First and foremost, startups should
+dynamics changed. A more patient approach of focusing on sustainable
 
-exercise caution when scaling early. Despite the allure of rapid
+pricing, rather than establishing market dominance, could have
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-4
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+potentially led to greater success.

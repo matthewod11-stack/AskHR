@@ -1,15 +1,15 @@
-# What Can Employers Do?
+---
+source_path: R2205G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2644a200b66b0c8a0fe5754f8d64a5992fa0b61f
+title: R2205G-PDF-ENG
+---
+# WORK/LIFE BALANCE
 
-If work/life programs are good for not only productivity and well-being but also workforce diversity, then why aren’t they more common? And why aren’t ﬁrms encouraging employ- ees to use them?
+of managers increases for all four groups of women and for Black, Hispanic, and Asian American men.
 
-In some cases the problem is conceptual: Many managers believe that employees who take advantage of work/life sup- port will do less work and that overseeing them will become harder. In other cases the problem is practical: Managers simply don’t have the tools to administer systems of support for everyone and to push people to use them.
+Childcare vouchers. Another approach is to oﬀer employees vouchers that subsidize childcare, usually at independent centers. Vouchers accommodate changes in demand better than company centers with ﬁxed enrollment do. And when vouchers are administered through ﬂexible spending accounts, both employers and employees save on payroll taxes, and employees save on income taxes. The ﬁrms in our analysis that introduced vouchers saw double-digit increases in the share of Black men and women and Hispanic and Asian American women in management.
 
-The following practices can help address those issues. Put policies in writing. Firms should oﬀer all employ- ees, from janitors to C-suite executives, the same work/life support options—and should make them oﬃcial. One bank executive told us that when her organization oﬀered ﬂex- time informally, people didn’t take it seriously. By putting it in writing, she explained, the bank signaled that “ﬂexibility is part of our culture.” And one professional services ﬁrm found that it wasn’t until it produced a brochure about the ﬂexible arrangements it oﬀered that employees began to understand the policy was real and take advantage of it.
+Company childcare centers. One of the ﬁrst corporate daycare centers was opened in 1971 by Stride Rite’s president Arnold Hiatt at a shoe factory in Boston’s predominantly Black neighborhood of Roxbury. At the time, the New York Times deemed the move “radically countercultural for a titan of commerce.” In 1983 Patagonia’s cofounder Malinda Chouinard also made a pioneering move—by parking a trailer in front of the oﬃce to provide a place for the compa- ny’s chief of marketing to nurse her colicky infant. Patagonia now has a child-learning center at its headquarters, in Ventura, California, and another at its distribution center in Reno. According to Patagonia’s former CEO Rose Marcario, the company recoups 91% of calculable costs for its centers through tax refunds, decreased turnover, and increased engagement. Add to that such intangibles as heightened employee loyalty and trust, Marcario ﬁgures, and the centers more than pay for themselves. JPMorgan Chase and the con- sulting ﬁrm KPMG also argue that their full-time and backup childcare centers pay for themselves.
 
-Today about one out of every six big companies has at least one childcare center, including Fannie Mae, Walgreens, Boeing, and Home Depot. These programs, too, boost diver- sity in management: The ﬁrms we studied that established them saw increases in the share of management jobs held by Black, Hispanic, and Asian American women. There was no eﬀect on white women here, perhaps because their career decisions are less often determined by childcare costs.
-
-It’s worth noting that although on-site childcare centers are usually subsidized, they’re nonetheless out of reach for many workers. As one line manager in an Atlanta hospital put it to us when explaining why the hospital had closed its
-
-Have leaders do the messaging. That’s how it’s done at PwC. Anne Donovan, who oversaw strategy for cultural change at the ﬁrm, has described the process this way: “We gave permission at the top to allow for ﬂexibility [among the entire staﬀ], and then we went to the bottom and said, ‘This is your right, this is what you’re allowed to have, now go get it.’” Having leaders talk up work/life programs kept the company’s new approach front and center. “It helps to start infusing the culture with the words, to hear leadership use the terminology, and start to get everybody comfortable with the thing we’re going to do,” Donovan explained.
-
-Have leaders walk the walk. Modeling is important. If supervisors see the top brass working ﬂexibly, they may ask
+center: “It was extremely pricey. I don’t think anybody at $8, $9 an hour could aﬀord to leave one let alone two kids there while they worked.” A combination of income-based vouchers and a center can help make childcare available to all employees, however.

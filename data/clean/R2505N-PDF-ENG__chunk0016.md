@@ -1,17 +1,27 @@
-# Overcoming the Four Challenges
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7aaa16450400cf1e2446134d46a9fe2af28e002d
+title: R2505N-PDF-ENG
+---
+# execution decisions to their teams.
 
-Even leaders who understand what work to delegate and how to hand it
+When a managing director in a large global bank I worked with used
 
-oﬀ with skill still struggle against four challenges.
+this “best, cheapest” test to consider her portfolio of work, she ended
 
-- 1. The dopamine hit of personal productivity. MRI brain scans show that
+up ceding 40% of her meetings and 25% of her tasks to the directors
 
-when humans accomplish something, our brains release a tiny hit of
+and VPs who reported to her. She found that everyone was happier:
 
-dopamine that produces feelings of pleasure, motivating us to take on and complete diﬃcult tasks. Unfortunately, activity-based work oﬀers
+clients, because her team was just as strong as her on most issues
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+and more responsive than she had been; her employees, because
 
-4
+they enjoyed the exposure, development, and career progression; and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+the managing director herself, because she could reﬂect, learn, and
+
+ultimately contribute to a high-visibility strategy project that she hadn’t
+
+previously had time for.

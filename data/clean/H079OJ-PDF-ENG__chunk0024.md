@@ -1,7 +1,33 @@
-# family issues.
+---
+source_path: H079OJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2102b48b7a2a88d078547094995293284c6b5b0d
+title: H079OJ-PDF-ENG
+---
+# Tools for Overcoming Fake Harmony
 
-Copyright © 2022 Harvard Business School Publishing. All rights reserved.
+- 1. Start with easier issues.
 
-5
+If your family is struggling with fake harmony, you don’t have to dive
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+right into the most challenging issues. Start with conversations and
+
+decisions that won’t incite highly emotional reactions.
+
+We worked with one family that had an extraordinarily fraught family
+
+history, so they had defaulted to a fake harmony as a survival strategy.
+
+That left many issues unaddressed. To begin to move away from fake
+
+harmony, they started discussing simple business decisions, instead of
+
+diving into their list of emotionally charged issues. As a family, they
+
+were all on the same page about wanting the business to thrive, so
+
+discussing business strategy was a safe place to debate one another.
+
+Once they had established that they could disagree with one another
+
+respectfully, they were able to begin to work through some of the other

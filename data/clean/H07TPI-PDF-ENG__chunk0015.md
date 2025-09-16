@@ -1,17 +1,9 @@
-# women speaker series.
+---
+source_path: H07TPI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3aa35c25492f50cd2b679abc062df6ba0f083cf0
+title: H07TPI-PDF-ENG
+---
+# HBR / Digital Article / How to Avoid the Unexpected Consequences of Your DEI Policy
 
-How did this happen? My research found that many women managers
-
-had developed a managerial style focused on close, day-to-day
-
-interactions with subordinates. For instance, many would regularly
-
-stop by the oﬃces of each of their subordinates daily, asking them how they were doing and if they could oﬀer any help or guidance
-
-with their work. Others would work with their doors open so that
-
-subordinates could stop by their oﬃce whenever they needed help. Employees appreciated these managers’ eﬀorts, not only because they
-
-provided more immediate task-based assistance but also because, over
-
-time, these managers came to know their employees very well and could oﬀer custom-tailored advice on project staﬃng, career training, and so
+friendly initiatives, including backup childcare, onsite daycare, and a

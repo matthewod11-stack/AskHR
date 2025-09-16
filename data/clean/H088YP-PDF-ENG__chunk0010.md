@@ -1,11 +1,23 @@
-# inclusive.
+---
+source_path: H088YP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f1986a1fa5e27e53d4d2bbae26f598ed2d8ee9ba
+title: H088YP-PDF-ENG
+---
+## Praslova, professor of organizational psychology at Vanguard University
 
-Increase your understanding of disability. First things ﬁrst: You need
+and the author of The Canary Code: A Guide to Neurodiversity, Dignity,
 
-to break free from your preconceived ideas about disability, says Bach.
+and Intersectional Belonging at Work. “We’ve been using the same
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+methods for years without considering what’s truly needed for a speciﬁc
 
-2
+job and how to identify the right candidate,” she says. After all, the
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+goal of job interviews is to uncover a candidate’s potential and “assess
+
+whether that individual has the necessary skills for the role; everything
+
+else creates unnecessary barriers.”
+
+Here are some strategies for making your job interviews fairer and more

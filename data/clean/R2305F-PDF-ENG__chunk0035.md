@@ -1,15 +1,41 @@
-## it emotional power over the person on the receiving end. One study
+---
+source_path: R2305F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 95cee995718bc6830c26a976c4ffbb876ee9cb79
+title: R2305F-PDF-ENG
+---
+## HBR / Magazine Article / When Diversity Meets Feedback
 
-has found that when people get spontaneous feedback, their heart rate
+make or break the project. Despite her fears, she felt she’d aced the
 
-jumps to a level that indicates moderate or extreme duress. It’s no
+presentation and, elated, made her way to the speakers’ lounge to wait
 
-wonder that when one person oﬀers feedback to another, the recipient’s
+for the second presentation. There she bumped into her colleague Miles,
 
-composure is shaken.
+who had spoken earlier that morning.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+Here’s what happened next: “I was pleased to relax and have a chat,”
 
-12
+Cassandra recalls. “After a few friendly exchanges, Miles surprised me
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+with feedback: ‘Your presentation was 90% perfect. The audience was
+
+eating it up! I do think you spoke a little too fast, which made you sound
+
+nervous. Also, maybe your mouth was too close to the mic because your
+
+voice somehow sounded tinny.’ Although Miles’s feedback in retrospect
+
+was actionable and meant to help before I went back onstage, I felt like
+
+he had hijacked my self-conﬁdence. I had been feeling great about what
+
+I’d accomplished, and now I felt like an inexperienced child receiving
+
+coaching from a teacher. I noticed my body physically shifting back in
+
+my chair to get as far away from Miles as possible.”
+
+As Cassandra’s story demonstrates, even when feedback is provided
+
+with a genuine desire to help, it clearly gives the person dispensing

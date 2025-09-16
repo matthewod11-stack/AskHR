@@ -1,15 +1,15 @@
-## for future growth, either through scaling in core markets or through
+---
+source_path: S24021-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d18d97fa0148382ba924af351c3f4aaeaa162f23
+title: S24021-PDF-ENG
+---
+# period of time.
 
-entry into other markets. They see investments in training, processes,
+Great growth strategists, however, go beyond avoiding traps and
 
-systems, technology, and culture as means to break growth bottlenecks
+accepting trade-oﬀs. They proactively look for ways to augment the
 
-and raise a company’s sustainable growth rate. They are comfortable
+resources that constrain short-term growth and focus on the continuous
 
-with leading organizational change. Finally, they are obsessed with
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-13
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+accumulation of new resources and capabilities that open options

@@ -1,21 +1,65 @@
-# exchange earnings (Agbiboa, 2012).
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 8131cbe70d8a22fa3438b9a116a0b0d8a9599417
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# Research context
 
-Moreover, Nigeria has a population of 182 million people which positions it as the
+In this section, we provide brief background information on Ghana and Nigeria as context
 
-fifth most populated country in the world, and is projected to have 397 million people by
+and in help positioning the findings. Since gaining independences in the last century, both
 
-2050 as the third most populated country after India, China, and the USA (Population
+countries have emerged as leading forces in West African economic and political
 
-Reference Bureau, 2015). Ghana’s population of 27.7 million people in 2015 also is projected
+development (Jackson, 2004; Serkin, 2015). They have a flourishing private sector,
 
-to reach 37.7 million and 52.6 million people by 2030 and 2050 respectively (Population
+experiencing economic growth. More importantly, they have been recognised as amongst the
 
-Reference Bureau, 2015). Majority of the current population in both countries are under 25
+most promising emerging markets of this century (Serkin, 2015). Over the past two decades,
 
-years old and are therefore projected to constitute the economic workforce in the next decade.
+African countries have recorded an unprecedented and sustained economic growth of 4.5
 
-These demographics in both countries present an attractive environment for businesses in
+percent annual average. Beegle et al. (2016) referred to these growths as “remarkably robust”
 
-terms of a good source of labour force and an effective market for consumers. In the 2015
+especially when compared with the declining periods of the 1970s and 1980s when the
 
-World Banking ranking of 189 economies on the ease of doing business, Ghana and Nigeria
+continent was perceived as deeply entrenched in poverty and endemic in wars and famine
+
+(Beegle et al., 2016). This performance is stimulated by the institutionalisation of democratic
+
+dispensations, liberalisations, and efforts at good governance which together have culminated
+
+to the current focus on the continent as “Africa rising” (Amankwah-Amoah et al., 2016;
+
+Beegle et al., 2016). Both countries have been among the favourite destination of substantial
+
+FDI inflows into the sub-West African region over the years (Nyuur & Debrah, 2014).
+
+Ghana and Nigeria gained independence in 1957 and 1960 respectively from the
+
+British government. Shortly after this, these two countries recorded good economic growth
+
+up until the late 1960s. However, spates of political upheavals in the form of coup d’état
+
+contributed to the dwindling economic fortunes of these countries in the 1970s and 1980s
+
+(Moja, 2000). Ghana’s GDP has been hovering around 7% per annum since the early 2000s,
+
+only dipping to o 4% and 3.4% in 2014 and 2015 respectively, it is projected to recover and
+
+record a stronger growth rate of 8.2% in 2017 and 2018 (Beegle et al., 2016). Nigeria is
+
+9
+
+projected to maintain a 5.3 % GDP growth in 2017 and 2018 despite a dip to 3.3% GDP in
+
+2015 (Beegle et al., 2016). Ghana like other African countries is endowed with valuable
+
+minerals, such as gold and diamonds and its economy has been reliant on cocoa, gold,
+
+diamond and to some extent the recent discovery of oil in 2007 (Nyame & Grant, 2014).
+
+Nigeria on the other hand is the world’s eighth largest oil producer and the economy has been
+
+reliant on its huge oil wealth which still account for over 95% of the country’s foreign

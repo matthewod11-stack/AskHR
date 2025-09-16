@@ -1,5 +1,7 @@
-## ORIGINS OF ASSESSMENT PSYCHOLOGY 279 EVALUATING INTELLECTUALABILITY 280 280
-
-The Binet Scales Group-Administered Tests 281 The Wechsler Scales The Kaufman Scales Brief Methods 282 Frequency of Test Use 282
-
-281 282
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 167b9f9c7249911ccfecc397530a6e7aed9c9d3c
+title: untitled
+---
+# IRVING B. WEINER

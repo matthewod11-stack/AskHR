@@ -1,21 +1,17 @@
-## help at this particular moment, for several reasons.
+---
+source_path: H07ZZW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 646f84f6c94d9b9a73d4e52c8ff0bdb37776c237
+title: H07ZZW-PDF-ENG
+---
+# value.
 
-Most important, the Guiding Principles focus on individual agency,
+Base your commitments on how you impact human beings. Your ethical
 
-bodily autonomy, and dignity — they don’t attempt to impose values
+commitments should be based not solely on legal obligations but also
 
-on people who may not share them. A key advantage of the human
+on human rights principles. Although the UN Guiding Principles on
 
-rights platform is that it encompasses the spectrum of economic, civil,
+Business and Human Rights are relatively new, and most corporate
 
-political, security, and environmental issues. In 2022, for instance, the
-
-UN General Assembly recognized the right to a clean, healthy, and
-
-sustainable environment. Next, your corporation’s impact on human
-
-beings is at the very root of your legal, operational, and reputational
-
-risks, even if how those risks might manifest is unpredictable. The
-
-Guiding Principles consider the respective roles of business and
+implementation eﬀorts are still nascent, they can oﬀer business unique

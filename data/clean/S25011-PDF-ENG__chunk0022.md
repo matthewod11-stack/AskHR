@@ -1,5 +1,13 @@
-## HBR / Spotlight / How to Marry Process Management and AI
+---
+source_path: S25011-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4f8deb97661ddb4f3f9511d18a181b4ad53ba850
+title: S25011-PDF-ENG
+---
+# essential aspect of their operations.
 
-In North America, in contrast, companies generally have taken a much
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-more incremental approach. Uber focused ﬁrst on customer service,
+5
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

@@ -1,17 +1,15 @@
-# burden.
+---
+source_path: F2502A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9154dcc7b240facdd432dd00c29cc4b85d80f5a9
+title: F2502A-PDF-ENG
+---
+# up.
 
-Develop a blueprint for reallocating time. Once you have a handle
+Asking employees to track time requires that they have the bandwidth
 
-on how many hours your team will save with gen AI, design a plan
+to engage in this process in the ﬁrst place. If they are already
 
-to use them in a meaningful way—for instance, in activities that
+overwhelmed with tasks, they are more likely to move straight to the
 
-promote employee well-being, productivity, and personal growth. Ask
-
-your people how they’ve traditionally spent time savings and where
-
-investing more time would beneﬁt them most. But keep in mind that
-
-as the manager, you are responsible for setting the direction—whether
-
-by urging employees to recharge or prompting them to tackle new
+next item on their list and tracking time gains may feel like just another

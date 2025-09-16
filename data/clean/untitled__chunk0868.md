@@ -1,13 +1,13 @@
-# ever. Human Development, 33, 362–365.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: a7b36eec7770420dbcdfd3b55eda76c7cbf5b7f7
+title: untitled
+---
+# MA: Harvard University Press.
 
-Belmont, J. M., & Butterﬁeld, E. C. (1971). Learning strategies as determinants of memory deﬁciencies. Cognitive Psychology, 2, 411–420.
+Au, T. K., Sidle, A. L., & Rollins, K. B. (1993). Developing an intu- itive understanding of conservation and contamination: Invisible particles as a plausible mechanism. Developmental Psychology, 29, 286–299.
 
-Belmont, J. M., Butterﬁeld, E. C., & Ferretti, R. (1982). To secure transfer of training, instruct self-management skills. In D. K. Detterman & R. J. Sternberg (Eds.), How and how much can in- telligence be increased? (pp. 147–154). Norwood, NJ: Ablex.
+Baillargeon, R. L. (1987). Young infants’reasoning about the phys- ical and spatial properties of a hidden object. Cognitive Develop- ment 2(3), 179–200.
 
-Berry, J. W. (1974). Radical cultural relativism and the concept of intelligence. In J. W. Berry & P. R. Dasen (Eds.), Culture and cognition: Readings in cross-cultural psychology (pp. 225–229). London: Methuen.
-
-Binet, A., & Simon, T. (1916a). The development of intelligence in children. Baltimore: Williams & Wilkins. (Original work pub- lished 1905)
-
-Binet, A., & Simon, T. (1916b). The intelligence of the feeble- minded (E. S. Kite, Trans.). Baltimore: Williams & Wilkins.
-
-Boring, E. G. (1923, June 6). Intelligence as the tests test it. New
+Beilin, H. (1990). Piaget’s theory: Alive and more vigorous than

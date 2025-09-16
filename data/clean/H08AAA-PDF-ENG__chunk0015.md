@@ -1,13 +1,9 @@
-# quarter?
+---
+source_path: H08AAA-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57efede8374cee4c34f1085ed44662aef24405d1
+title: H08AAA-PDF-ENG
+---
+# questions like the following:
 
-- What might be causing them anxiety or pressure?
-
-- What habits does the team want to improve?
-
-- What are some speciﬁc ideas to improve those habits?
-
-- What did we do really well last quarter that we should maintain?
-
-Similar to the goal check, teams should conduct a quarterly health
-
-check where they answer questions like the above and craft an
+- What are teammates excited about working on in the upcoming

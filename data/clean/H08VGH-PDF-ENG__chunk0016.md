@@ -1,23 +1,19 @@
-# HBR / Digital Article / Soft Skills Matter Now More Than Ever, According to New Rese…
+---
+source_path: H08VGH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e022ebbb2f7e83b9cbccf5376ff958bada11959b
+title: H08VGH-PDF-ENG
+---
+## recently, niche technical skills like Hadoop engineering and blockchain
 
-activity have dropped by over 40% in just one year as investment and
+development have experienced steep rises and falls. HackerRank’s 2025
 
-interest shifted toward AI.
+Developer Skills Report lists Hadoop among the fastest-declining skills,
 
-These rapid cycles are no longer rare. Researchers estimate that the
+and LinkedIn data show blockchain-related job postings and developer
 
-“half-life” of technical skills—the time it takes for half of what you know
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-to become outdated—has dropped from about 10 years in the 1980s to
+3
 
-four years today, and may soon fall below two.
-
-Specialized skills can spike and vanish this quickly, but our ﬁndings
-
-suggest that the people who ride out each wave shared the same toolkit:
-
-strong abilities to problem-solve, clear communication styles, and the
-
-ability to work well with teams. These core strengths help workers
-
-relearn faster, let companies redeploy talent without starting from
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

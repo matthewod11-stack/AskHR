@@ -1,7 +1,37 @@
-# context.
+---
+source_path: H07VZN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: acf5148f369d57aedc84e05e5f09ecf729938cd6
+title: H07VZN-PDF-ENG
+---
+# market updates.
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+This is especially true for China. Looking at China from far away, it’s
 
-7
+easy to focus on risks, but to see it from up close is to have the potential
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+to be excited by it. It’s that simple.
+
+What does this mean for global teams? Expand your travel to China
+
+when possible — and go with an open mind. Whenever we’ve with
+
+global executives who are returning to China for the ﬁrst time since
+
+the pandemic, we’ve found them surprised by the discrepancy between
+
+what they expected and what they see. Over breakfast, a leader of a
+
+billion-dollar public relations ﬁrm kept reiterating how surprised he
+
+was by the crowds in shopping malls, restaurants, and subways. The
+
+perception of China now, he said, is “essentially a failing state.” I asked
+
+what surprised him most. He replied, “I didn’t expect it to seem so
+
+normal.” China has plenty of problems, and doing business there has
+
+plenty of risks, but leaders need to spend time on the ground so that
+
+they can place the headlines and reports they read at home into a larger

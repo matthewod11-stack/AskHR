@@ -1,3 +1,7 @@
+---
+source_path: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph.md
+pages: n/a-n/a
+chunk_id: 4c3ebaf693165649f3b6146126649e10f3411615
+title: organizational_belonging_proposing_a_new_scale_and_its_relationship_to_demograph
+---
 #
-
-9 1

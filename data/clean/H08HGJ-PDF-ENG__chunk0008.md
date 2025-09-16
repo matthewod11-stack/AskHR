@@ -1,17 +1,29 @@
-# How We Think About Scale
+---
+source_path: H08HGJ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 35383371a99fd754564bf5ea2eeab20ce81cfb4c
+title: H08HGJ-PDF-ENG
+---
+## HBR / Digital Article / It’s Time to Reimagine Scale
 
-Many of our ideas about scaling rest on foundational economic ideas
+experimentation process that led to Rent the Runway, but because this
 
-eloquently espoused by Adam Smith in The Wealth of Nations, such as
+business has inherent limits to scale tied to renting physical assets,
 
-the division of labor and specialization. Smith opens this canonical text
+some have pushed back on the example because “it didn’t really scale.”
 
-with a description of a pin factory in France, where he argues that the division of labor has enabled unprecedented eﬃciency and increased
+While we all understand the motivation for these questions, somehow,
 
-production with scale. In Smith’s example, one worker pulls a wire to
+these critiques also feel slightly misplaced. But can we say it out
 
-create the body of the pin, another worker hammers out the head, and
+loud? Can we say why getting bigger does not always equal success?
 
-so forth, using division of labor to produce many times more pins than
+Others have done so, including famed economist E.F. Schumacher in
 
-one worker could produce alone. The beneﬁts of the approach are self-
+his book, Small Is Beautiful. There is a ﬂaw at the heart of the concept
+
+of scaling, though it can be hard to articulate in the face of “bigger is
+
+better.” Looking back to the roots of “scale” can help us pinpoint what
+
+conventional wisdom might be missing.

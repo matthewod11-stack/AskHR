@@ -1,19 +1,21 @@
-## interactions, and even external triggers such as ﬁnancial news.
+---
+source_path: R2406G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b095ec10a3970cacbaec779960ae3d73bfce5608
+title: R2406G-PDF-ENG
+---
+## HBR / Magazine Article / Personalization Done Right
 
-Coordinating all this data has made Cisco a personalization leader. Its
+Karen Knorr’s series India Song digitally combines interiors of religious and secular significance with images of animals to interrogate notions of hierarchy and heritage.
 
-sales team knows whom to contact, when, and about what, and comes
+Although Cisco focuses primarily on B2B customer experiences, it
 
-armed with relevant content and demos. Because Cisco’s sales and
+turned to personalization to enable its account teams and customers to
 
-marketing teams are closely linked, customers get coordinated exposure
+navigate its ever-growing range of products and services. It recognizes
 
-to content that supports their needs and that opens up sales dialogues.
+that every client has a diﬀerent context and that clients’ situations
 
-Leveraging data on interactions around the world, Cisco uses AI models
+can change rapidly. So it combined a wide range of data sources
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+across the company, including product use, service requests, marketing

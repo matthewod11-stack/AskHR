@@ -1,15 +1,11 @@
-## articulation of purpose, the rollout of values, the tone of internal
+---
+source_path: H08VNO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 30457c19a6d0b5dad6362f389b69ee3be0764677
+title: H08VNO-PDF-ENG
+---
+# and everyday decisions.
 
-campaigns. But culture doesn’t shift because a new narrative is
+A consistent pattern emerged: many leaders treat culture as a
 
-introduced. It shifts when systems change. When leaders take personal
-
-risks. When norms are not just declared but demonstrated.
-
-Our inquiry focused on four key questions:
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-2
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+communication strategy. They believe it lives in messaging—in the

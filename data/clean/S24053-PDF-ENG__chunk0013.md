@@ -1,7 +1,17 @@
-## HBR / Spotlight Article / Teamwork at the Top
+---
+source_path: S24053-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d19d936d953ce4b1a62e414761bf48c341cf7b4
+title: S24053-PDF-ENG
+---
+# together.
 
-study of 1,250 companies found that organizations led by highly eﬀective executive teams had revenue growth, proﬁtability, and total
+Root’s investment in its top team had a big impact on organizational
 
-shareholder returns that were three times higher than the study group’s average. Research also shows that highly eﬀective leadership teams are
+performance. This is not surprising: A recent Bain & Company
 
-correlated with consistently high employee retention, productivity, and morale. In short, they are force multipliers: Eﬀectiveness radiates from
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+
+2
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

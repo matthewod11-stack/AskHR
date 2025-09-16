@@ -1,15 +1,17 @@
-# address the discrepancy.
+---
+source_path: H08N0B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 922d48ac0bce9d635a80d886edb923a4888da287
+title: H08N0B-PDF-ENG
+---
+# HBR / Digital Article / Does Returning to the Office Support Your Company’s Strategy?
 
-Often, data measured across common jobs and the team level is key.
+demographics, and location to look for disparities between employees with diﬀerent work conﬁgurations. Managers and their teams then
 
-When Northern Trust decided to migrate work teams by functions to
+adjust their remote/hybrid work approach to address any inequities the
 
-hybrid work, it used data and experimentation to guide the process.
+data reveal. For example, lower levels of reported well-being among a
 
-They ﬁrst assessed risks of moving tasks and jobs from fully onsite
+certain demographic (e.g., new hires) or work arrangement (e.g., on site,
 
-to hybrid, focusing on business processes in whole teams rather than
-
-for individuals. Selected teams served as hybrid pilots, with team
-
-charters outlining expectations, along with extensive pre- and post-
+remote) of employees would trigger further analysis to understand and

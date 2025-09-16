@@ -1,13 +1,27 @@
-## HBR / Digital Article / Make Sure Your AI Strategy Actually Creates Value
+---
+source_path: H08VUQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 91cb4d9a128fe2f8b11d92aad766c50b209adc76
+title: H08VUQ-PDF-ENG
+---
+# Illustration by Harriet Lee-Merrion
 
-Amid the growing enthusiasm, many see AI as an integral part of their
+AI entered mainstream consciousness in November 2022 when
 
-future. One estimate suggests corporate investments in AI will triple by
+ChatGPT burst onto the scene and scooped up more than a million
 
-2028.
+active users in one month. No longer just for tech giants and scientists,
 
-But an unquestioning belief in the power of AI to radically transform
+AI was suddenly pitched as a transformative force that anyone
 
-business is risky. It may cause leaders to make suboptimal decisions
+could use. The proliferation of advanced AI models like DeepSeek
 
-that undermine their company’s potential for proﬁtable growth.
+that lowered costs and made AI integration easier has only further
+
+heightened expectations of what AI might be able to do for companies.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

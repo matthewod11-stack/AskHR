@@ -1,15 +1,19 @@
-# four locations by the end of 2023.
+---
+source_path: R2303A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2560394e744737ef674f618cdacf6b68eb23a2fa
+title: R2303A-PDF-ENG
+---
+## another in Savannah, then one in Annapolis, and then two more in
 
-Our headquarters staﬀ has grown in tandem: We now have franchise
+Wilmington. Now we had a playbook to oﬀer franchisees, and we knew
 
-liaison teams, creative services, and a much larger roasting operation
+that would be the fastest route to bringing a Bitty & Beau’s to—and
 
-and fulﬁllment group that sends our coﬀee beans around the country.
+carrying out our mission in—as many cities and towns as possible.
 
-We may eventually add more corporate-owned shops, but that takes
+We embarked on that process in 2021, in the midst of the Covid-19
 
-time; meanwhile, franchising helps us capitalize on the momentum
+pandemic, but we’ve still managed to open 11 franchises across the
 
-we’ve created. Indeed, international expansion may also be on the
-
-horizon. We’ve had people from Australia, Canada, England, Ireland,
+United States in the past two years, and we will have opened another

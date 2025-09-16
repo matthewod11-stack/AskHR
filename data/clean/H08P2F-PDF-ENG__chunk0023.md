@@ -1,11 +1,17 @@
-# largely without added costs.
+---
+source_path: H08P2F-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5c2cde07d4a24f4ae3b45ec10e6aab9e3e7ffb69
+title: H08P2F-PDF-ENG
+---
+# chemical coating.
 
-As for the health impact of these changes, our studies have found that
+We’re making these changes across campus when we renovate or
 
-spaces reﬁtted to follow our playbook had nearly 80% lower levels of
+replace products, and the materials are holding up well. We don’t
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+need to replace them any earlier than we did the versions with forever
 
-5
+chemicals. Moreover, we’re sourcing from many of the same suppliers
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+and brands we always have, and they’re able to meet our requirements

@@ -1,7 +1,17 @@
-## position yourself for success in private sector roles.
+---
+source_path: H08O5Y-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 83f01d8ffe8aa5a8da462df3c64a0727cbc2fc90
+title: H08O5Y-PDF-ENG
+---
+## competitive edge. A deep understanding of government regulations and
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+policies can be very valuable in highly regulated industries like ﬁnance,
 
-4
+healthcare, and technology. While conﬁdentiality may preclude you
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+from sharing all the details of what you worked on, showing which
+
+transferable skills you used to accomplish the work, as well as the
+
+unique insights you can bring to the job, will allow you to eﬀectively

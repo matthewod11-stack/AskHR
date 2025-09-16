@@ -1,13 +1,29 @@
-# interpretation of vegetation indices.
+---
+source_path: H08GUL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6448b68fa416e1d0c6f9eb99a9224005f953f93c
+title: H08GUL-PDF-ENG
+---
+# ﬁt.
 
-What the company did: The company’s executives analyzed the
+Coping with excessive customer demands
 
-situation and decided that classic process automation based on ﬁxed
+An Indian satellite data analytics company that we’ll call Sat Vista
 
-rules wouldn’t work. So, as Rohan explains, “We decided to create
+Analytics oﬀers “decision intelligence from space.” As Rohan, the company’s Chief Technology Oﬃcer describes, “We provide results for
 
-‘analysis avatars,’” which are AI-based clones of their best specialists.
+banks to assess possible loans to small-hold farmers by understanding
 
-This involved monitoring the data analysis practices of the company’s
+how much each farmer is likely to earn. We also assist agribusinesses
 
-best remote sensing specialists and turning these behavioral patterns
+to establish contracts and set prices of their own products [cocoa, rice,
+
+wheat] based on likely crop yields.”
+
+However, Sat Vista Analytics has struggled with overload from the
+
+number of analyses demanded by its clients. These analyses required
+
+the company’s remote sensing specialists to perform multiple tasks
+
+ranging from data preprocessing and spectral signature analysis to the

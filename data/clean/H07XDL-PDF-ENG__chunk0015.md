@@ -1,13 +1,17 @@
-# societal impact?
+---
+source_path: H07XDL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 477f0a5771e689c7763eef1010a8c6377b55cf14
+title: H07XDL-PDF-ENG
+---
+# The Seven Steps
 
-What are the right metrics in an individual’s life? Our social norms and
+The process begins with a simple yet profound question:
 
-hierarchies might suggest we measure ourselves with money, fame, and
+- 1. How do I deﬁne a great life?
 
-power. But studies have shown that money leads to greater happiness
+The starting point of any corporate strategy process is to deﬁne
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+fundamental metrics for success. For instance, does the organization
 
-6
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+want its strategy to focus on driving sales, shareholder value, or positive

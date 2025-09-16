@@ -1,7 +1,13 @@
-# p. 96-97. www.searchbank.com.
+---
+source_path: california_state_university_northridge_1.md
+pages: n/a-n/a
+chunk_id: db2f837b04ebbeb9e4759b7a3fd7bcfadffeaab9
+title: california_state_university_northridge_1
+---
+## Building Design & Construction, p. 41-42. www.searchbank.com.
 
-Millon, D. (1998). Default rules, wealth distribution, and corporate law reform: employment at will versus job security. University of Pennsylvania Law Review, 146, 975-1041. www.sea.rchba_n.lc.com.
+McGreevy, L. S. (1992, May). Employee handbook: policy or pitfall? Be careful not to
 
-Mullins, R. (1997). Employers need rules for office e-mail; attorneys suggest policies to prevent employer liability. The Business Journal-Milwaukee. 14 26-29. www.searchbank.com.
+make well-intentioned promises now that you don't want a court to make you keep later. Contractor, p. 60-62. www.searchbank.com.
 
-Pelland, D. (1998, January). Exploring employment practices and polices. Risk
+McMurry, K. (1998, December). California whistleblower ruling favors plaintiffs. Trial

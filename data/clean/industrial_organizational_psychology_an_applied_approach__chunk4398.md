@@ -1,17 +1,9 @@
-## Roth, P. L., & Clarke, R. L. (1998). Meta-analyzing the
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 6806ce728aa1ee8492479d7adcaee8c9f66d181e
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Roth, P. L., Bobko, P., McFarland, L. A., & Buster, M. (2008).
 
-relationship between grades and salary. Journal of Vocational Behavior, 53, 386–400.
-
-Roth, P. L., Huﬀ cutt, A. I., & Bobko, P. (2003). Ethnic group
-
-diﬀ erences in measures of job performance: A New meta- analysis. Journal of Applied Psychology, 88(4), 694–706.
-
-Rothstein, H. R., & McDaniel, M. A. (1992). Diﬀ erential validity by sex in employment settings. Journal of Business and Psychology, 7(1), 45–62.
-
-Rothstein, H. R., Schmidt, F. L., Erwin, F. W., Owens, W. A.,
-
-& Sparks, C. P. (1990). Biographical data in employment selection: Can validities be made generalizable? Journal of Applied Psychology, 75, 175–184.
-
-Rotundo, M., Nguyen, D. H., & Sackett, P. R. (2001). A meta- analytic review of gender diﬀ erences in perceptions of sexual harassment. Journal of Applied Psychology, 86(5), 914–922.
-
-Rouleau, E. J., & Krain, B. F. (1975). Using job analysis to design
+Work sample tests in personnel selection: A meta-analysis of black-white diﬀ erences in overall and exercise scores. Personnel Psychology, 61(3), 637–662.

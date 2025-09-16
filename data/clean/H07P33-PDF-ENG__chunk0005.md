@@ -1,5 +1,7 @@
-# The AI opportunity
-
-Our review of the ﬁeld indicates that AI-based managerial coaching is not yet commonplace, so we oﬀer two case examples to demonstrate
-
-how it might work in your organization:
+---
+source_path: H07P33-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 0881831efee7df3e0cc31102c49d64a6e88991fb
+title: H07P33-PDF-ENG
+---
+# managers!) want.

@@ -1,7 +1,7 @@
-# assistance on how to comply with the Employee Retirement Income Security Act. Compliance assistance
-
-related to the Act, includes:
-
-Small Business Retirement Savings Advisor: The Advisor provides answers to a variety of questions about
-
-retirement savings options for small business employers and determines which program is most
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: b197c99aeb66a40c1263b737d90513f900fd7995
+title: Employment Law Guide - Employee Benefit Plans
+---
+# The Department of Labor provides employers and others with clear and easy-to-access information and

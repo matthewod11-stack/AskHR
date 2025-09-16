@@ -1,9 +1,31 @@
-## less close relationships with their coworkers.
+---
+source_path: H08H7H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c60e84cc75dff4840b1eb57638707fbfd2b22d9a
+title: H08H7H-PDF-ENG
+---
+# HBR / Digital Article / Research: How WFH Can Actually Strengthen Bonds Between C…
 
-Yet the decision to bring employees back into the oﬃce is not a simple
+When announcing this change, leaders often say they are doing so to
 
-one. Other research shows — and many employees came to realize during the pandemic — that productivity and performance do not suﬀer
+enable collaboration that can only happen in person. When Starbucks’
 
-when working remotely. Further, employees are actually happier and
+former CEO Howard Schultz called for his employees to return to
 
-less likely to leave their jobs when they have remote or hybrid work
+their oﬃces for at least three days of the week, he said the decision
+
+was motivated by work that demanded “the kind of thinking, daring
+
+collaboration, [and] courageous conversations that cannot be done on
+
+Teams calls, or in just pre-scheduled meetings.”
+
+Behind statements like Schultz’s is a strong body of research
+
+in communications and social psychology that provides evidence
+
+supporting the notion that remote communication is less rich than in-
+
+oﬃce communication. And some management research suggests that
+
+employees who primarily work remotely tend to have less trusting and

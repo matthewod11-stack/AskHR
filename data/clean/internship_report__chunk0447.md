@@ -1,3 +1,9 @@
-## Strongly Agree Agree Neutral Disagree Strongly Disagree
+---
+source_path: internship_report.md
+pages: n/a-n/a
+chunk_id: 83ac559c99dd30eff73ff868887da608bccf0412
+title: internship_report
+---
+# b. No
 
-3.(cid:32) HR department is helpful while you are confused about any company policy.
+2.(cid:32) You are satisfied with current HR policy of Karnaphuli Group.

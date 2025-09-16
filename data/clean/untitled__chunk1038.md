@@ -1,9 +1,9 @@
-# University of Chicago Press.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 78d54907334a76dce13b97c87c72c3b85153a3ff
+title: untitled
+---
+# England: Cambridge University Press.
 
-Mowrer, O. H. (1939). Stimulus-response analysis of anxiety and its role as a reinforcing agent. Psychological Review, 46, 553–565.
-
-Ortony, A., Clore, G. L., & Collins, A. (1988). The cognitive struc-
-
-ture of emotions. New York: Cambridge University Press.
-
-Ortony, A., & Turner, T. J. (1990). What’s basic about basic emo-
+Meyer, L. B. (1956). Emotion and meaning in music. Chicago:

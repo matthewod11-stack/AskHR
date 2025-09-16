@@ -1,27 +1,13 @@
-# tactic.
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: b1cf891f42a0f6cce95d2fe8f1fc19f8e0460f7f
+title: H08KYH-PDF-ENG
+---
+## HBR / Digital Article / The Insidious Effects of Hurrying
 
-Write down the consequences of saying yes.
+energy, or resources? Does it support your own goals and reﬂect your values? Once hurry sickness has become a lifestyle it will be diﬃcult to
 
-Pausing to write down what will happen if you say yes to an incoming
+slow down before saying yes, so you may need to enlist the help of an
 
-request is a natural forcing function that compels you to slow down and
-
-prevents you from saying yes automatically. I prefer doing this exercise
-
-in longhand for the deeper thoughtfulness the extra time allows. Is the
-
-amount of stress associated with this task tolerable? Will the request
-
-take too much time away from activities outside of work or simply
-
-recharging? Seeing the consequences literally spelled out before you not
-
-only slows you down, it can be a great wake-up call.
-
-Write down the beneﬁts of slowing down.
-
-For extra accountability and inspiration, try the ﬂip side: Make a list
-
-of all the positives you can enjoy if you slow down even a little. For
-
-many, it’s extra sleep, more time for relationships, and a greater sense of
+objective advisor whose feedback you trust. You can also use the next

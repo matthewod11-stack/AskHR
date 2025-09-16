@@ -1,7 +1,9 @@
-# References
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 53c58cf63393a88c248316facd809b871b8ee4ab
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# this area.
 
-Acquaah, M. (2007). Managerial social capital, strategic orientation, and organizational performance
-
-in an emerging economy. Strategic Management Journal, 28, 1235–1255.
-
-Agbiboa, D. E. (2012). Between corruption and development: The political economy of state robbery
+27

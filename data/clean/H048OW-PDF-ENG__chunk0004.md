@@ -1,9 +1,11 @@
-# agalma/Getty Images
+---
+source_path: H048OW-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a06ebba6040ccf5fa271872dc46e4f08e9ba49d8
+title: H048OW-PDF-ENG
+---
+# HBR / Digital Article / Study: A CEO’s Decision Making Is Shaped by Whether Their Pa…
 
-Does cultural background affect a leader’s decision making? There’s a
+Study: A CEO’s Decision Making Is Shaped by Whether Their Parents Were Immigrants
 
-lot of research on how leaders living in different cultures behave, but little
-
-on how cultural heritage shapes leaders — even though this would seem to
-
-be just as meaningful for business performance as other factors like
+by Duc Duy Nguyen, Jens Hagendorff, and Arman Eshraghi Published on HBR.org / March 28, 2018 / Reprint H048OW

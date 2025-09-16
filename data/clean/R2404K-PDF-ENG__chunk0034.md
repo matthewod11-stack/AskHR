@@ -1,7 +1,21 @@
-## drivers with one speciﬁc acquirer in mind and an understanding of
+---
+source_path: R2404K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3299d7777f9b670e51565e973bbad62734d57361
+title: R2404K-PDF-ENG
+---
+## HBR / Magazine Article / The Middle Path to Innovation
 
-how that ﬁrm will manufacture, distribute, and sell it. While design
+By externalizing innovation in this way, corporations reap several
 
-and engineering challenges exist, of course, the products chosen are
+beneﬁts. First, they gain access to new products more quickly and with
 
-technically feasible, and their eventual acquisition is nearly assured. The process is more eﬃcient than acquiring a start-up. The corporation
+lower risk than they would using typical internal R&D eﬀorts. They also
+
+can reduce their dependence on M&As, which often fail. In addition, the
+
+model increases the likelihood that a good idea gets commercialized:
+
+Unlike a venture-backed start-up, which builds a product that needs
+
+to appeal to many potential buyers, the accelerator develops growth

@@ -1,3 +1,9 @@
-# 4 Very Good
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 914d6b2d906caca37432a0db088ace94e7c908d9
+title: document_resume
+---
+# 5 Exceptional
 
-Demonstrates excellent classroom presence. Communicates using a wide range of verbal skills which greatly enhance the learning environment. Students look forward to his/her classes. Students respond to instructional style gaining conceptual knowl- edge of material.
+Demonstrates exceptional verbal communications with students. Gains students' attention quickly. Usually presentations are both captivating and highly informative. Instructional style is praised by students and is conducive to student learning.

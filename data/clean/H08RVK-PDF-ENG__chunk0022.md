@@ -1,9 +1,21 @@
-# ES
+---
+source_path: H08RVK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4d52ce6b405a2d9b25487df3d29e9005c7e6786e
+title: H08RVK-PDF-ENG
+---
+## HBR / Digital Article / Is Your Flexible Schedule Burning You Out?
 
-Elizabeth Grace Saunders is a time management coach and the founder of Real Life E Time Coaching & Speaking. She is the author of How to Invest Your Time Like Money and Divine Time Management. Find out more at RealLifeE.com.
+As a leader, there will be times when a truly urgent situation calls
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+for being available to work after hours. There will also be times when
 
-7
+you can and want to ﬂex for your personal priorities. But by being
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+more strategic and proactive with your schedule, you can increase
+
+your conﬁdence that you’re investing your time in alignment with your
+
+priorities and reduce your probability of burnout.
+
+This article was originally published online on June 9, 2025.

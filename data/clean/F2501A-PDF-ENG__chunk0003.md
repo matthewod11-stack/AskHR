@@ -1,23 +1,29 @@
-## HBR / Magazine Article / Learning Emerging Skills Doesn’t Always Pay Off
+---
+source_path: F2501A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: bd52bbee8857157058e3f1d7fa795462b20fc842
+title: F2501A-PDF-ENG
+---
+# Joseph Carrington
 
-fewer hours of training per year per employee, on average, while the
+If your ﬁrst inclination is to hire and train with an eye toward cutting-
 
-expenses for conducting training continued to climb. With less time and
+edge skills that your company might have to deploy in the future, you’re
 
-money available, it’s crucial that your company invest in skills that will
+not alone. In 2023 the World Economic Forum reported that 44% of
 
-have a lasting and meaningful impact on your organization. But where
+workers’ skills would need to be updated within the next ﬁve years and
 
-should you start?
+that 60% of employees would require retraining before 2027. Despite
 
-A recent Gartner survey of 3,375 employees found that training workers
+those needs, the average training investment for large companies fell
 
-in the core skills essential to their roles right now has ﬁve times
+from $19.2 million in 2022 to $16.1 million in 2023, according to Training
 
-more impact on their performance than teaching “emerging” skills that
+magazine’s 2023 industry report. Companies of all sizes oﬀered ﬁve
 
-don’t have a clear here-and-now application. It’s important to note
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that core skills will be diﬀerent for every role, and certain emerging
+1
 
-skills may actually be immediately needed in some jobs. AI-prompt
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

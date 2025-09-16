@@ -1,3 +1,9 @@
-## Link to publication record on the Bristol Research Portal PDF-document
+---
+source_path: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human.md
+pages: n/a-n/a
+chunk_id: 75f92a3d3ebbfb3e675beb8fac0408d9ca3db98d
+title: amankwah_amoah_j_ifere_s_e_nyuur_r_b_2016_human
+---
+# License (if available): CC BY-NC-ND
 
-This is the author accepted manuscript (AAM). The final published version (version of record) is available online via Elsevier at http://www.sciencedirect.com/science/article/pii/S0148296316302259.
+Link to published version (if available): 10.1016/j.jbusres.2016.04.063

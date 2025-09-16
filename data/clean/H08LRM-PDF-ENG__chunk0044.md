@@ -1,5 +1,15 @@
-## trek or yoga retreat, for instance) and work with your hands (maybe
+---
+source_path: H08LRM-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: cdf04a0f6431a8cb92d5ffc5f6850f1052670319
+title: H08LRM-PDF-ENG
+---
+# your life at work.
 
-a ceramics or art class) instead. Prioritize getting into nature for long
+Second, get out of your head and into your body. Consider the ﬁrst
 
-stretches and otherwise putting yourself in a position to be in awe of life
+portion of your sabbatical to be a space for healing and restoration.
+
+Instead of immediately striving to learn another language or work on a
+
+startup idea, allow yourself some time to move your body (a multiday

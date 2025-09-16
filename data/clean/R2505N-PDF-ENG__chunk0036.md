@@ -1,31 +1,13 @@
-# on routine calls.
+---
+source_path: R2505N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 9761e29a6415d0d6e6dcad79045dd8206de09cbc
+title: R2505N-PDF-ENG
+---
+## senior-level conversations as possible so that your boss or client sees
 
-Over time, target the more complex work. Finally, wean your boss from
+that they have a strong command of the details. For example, a senior
 
-dictating your level of involvement in the details of larger projects. As
+lawyer I worked with always gave her team members key roles in client
 
-the head of operations in a major public utility put it: “I couldn’t have
-
-started with the big, complex stuﬀ. But now, with my team established
-
-and the trust built, I have more credibility when I say, ‘They’ve got
-
-this.’”
-
-- 4. A limited deﬁnition of “work.” Ultimately, what derails many leaders
-
-from eﬀectively delegating is their belief that real work is activity-based.
-
-For example, a star lawyer who had been appointed head of his ﬁrm’s
-
-M&A practice described how doing deals for clients still felt more
-
-meaningful to him than managing his team to do the same. This
-
-challenge is especially problematic for people who are skilled at highly
-
-technical work that constitutes a part of their identity. My research
-
-found that lawyers, surgeons, research scientists, and salespeople have
-
-the most trouble delegating, in part because they’d achieved seniority
+meetings. As a result, her clients grew more comfortable not having her

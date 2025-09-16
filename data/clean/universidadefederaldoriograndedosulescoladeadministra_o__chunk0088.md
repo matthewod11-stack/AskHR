@@ -1,3 +1,11 @@
-## favorável beneficia tanto a organização quanto os trabalhadores. Pinho (2014)
+---
+source_path: universidadefederaldoriograndedosulescoladeadministra_o.md
+pages: n/a-n/a
+chunk_id: 9dce86c86fbdfdc68177ae56aee647275c96156c
+title: universidadefederaldoriograndedosulescoladeadministra_o
+---
+## desmotivação, absenteísmo, alta rotatividade e o aparecimento de doenças
 
-afirma que o clima nas organizações é influenciado por variáveis, as quais são
+psicossomáticas. Em paralelo, estudos contemporâneos (MANTOVANI; GREATTI,
+
+2010; ABREU et al., 2013) reforçam essas análises constatando que um clima

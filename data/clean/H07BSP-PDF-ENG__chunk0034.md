@@ -1,53 +1,37 @@
-## HBR / Digital Article / Using Simulations to Upskill Employees
+---
+source_path: H07BSP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: ab4005739bb4239d8c4547cb4c3e14d469ebbc44
+title: H07BSP-PDF-ENG
+---
+# leadership team.”
 
-when preparing for a sales call or coaching session or during those
+The reasons for that success are relevant to other upskilling situations.
 
-conversations. The simulations allow for just-in-time learning in
+Compared to training in a classroom setting, Buaria says this new
 
-contexts and time frames connected to actual job tasks.
+approach “reduced the training time by 70%, saving over 2,000 working
 
-Finally, upskilling typically involves frequent updating of content to
+days of frontline managers’ time.” That’s important in professional development, especially in functions like sales. An eﬀective learning
 
-changing circumstances. Sales training is an example. Training here
+process should not take net time away from productive selling activities.
 
-must be a process, not an event. At any point in time, sales reps
+The approach also motivated participant engagement. Some managers
 
-and managers are dealing with multiple accounts and a changing
+devoted dozens of additional hours of their personal time to the
 
-array of people and buying criteria. And the learning must recognize diﬀerences across countries and categories. Compared to other training
+simulations — a remarkable feat for busy sales managers with quotas,
 
-initiatives, a virtual simulation can be more easily modiﬁed and in
+one that is not typically observed in e-learning initiatives. A simulation
 
-formats conducive to the manager accessing and practicing skills when
+approach recognizes a key facet of adult learning: Professionals tend
 
-that practice has the most impact.
+to pay attention to information when they need it, not weeks earlier
 
-Simulation opportunities are expanding. The so-called “metaverse” may
-
-or may not deliver on its current hype, but the investments being
-
-made by companies in virtual reality increase training and simulation
-
-options. Meanwhile, outside a classroom, which is where most adults
-
-earn a living, learning is itself a learned behavior. These examples,
-
-grounded in sound theory and supported by increasingly accessible and
-
-ﬂexible technologies, indicate how companies can take advantage of
-
-these developments and address a major societal workforce issue while
-
-getting more from their training investments.
-
-Editor’s Note (11/16/22): We have changed some details to anonymize one of the companies studied.
-
-This article was originally published online on November 15, 2022.
-
-Frank V. Cespedes is a senior lecturer at Harvard Business School and the author of Sales Management That Works: How to Sell in a World That Never Stops Changing (Harvard Business Review Press, 2021).
+or later in a training seminar. In sales, for example, this is typically
 
 Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-7
+6
 
 This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

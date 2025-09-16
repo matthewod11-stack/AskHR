@@ -1,9 +1,9 @@
-# NP
+---
+source_path: H0813H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e63c2840ac0c74ecae6296523a8dca1f18fda02c
+title: H0813H-PDF-ENG
+---
+# JH
 
-Nick Prince is an assistant professor of management at the University of Wyoming. He teaches the MBA OB/HR class and undergraduate HR classes. His research focuses on international and strategic human resource management.
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-7
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Jaron Harvey is an assistant professor of management at Utah Valley University’s Woodbury School of Business. His research focuses on employees’ engagement at work through the lenses of citizenship behavior and manager-employee interactions.

@@ -1,5 +1,11 @@
-# Routledge & Kegan Paul.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: e4747bdf7c5783caf4a48585a956e3ba2139f40c
+title: untitled
+---
+# Lyle Stuart.
 
-Eysenck, H. J. (1952). The effects of psychotherapy: An evaluation. Journal of Clinical and Consulting Psychology, 16, 319–324. Foucault, M. (1965). Madness and civilization: A history of insanity in the age of reason (R. Howard, Trans.). New York: Mentor Book/New American Library.
+Encyclopedia Britannica. (1771). Dictionary of arts and sciences compiled upon a new plan by a society of gentlemen in Scotland (Vol. 3, p. 59). Edinburgh, Scotland: A. Bell & C. MacFarquhar. Esquirol, J. E. D. (1838). Des maladies mentales considérée sous les rapports médical, hygienique et médico-legal [Mental illnesses considered in their medical, hygienic, and medico-legal aspects] (Vols. 1–2). Paris: Ballière.
 
-Frankl, V. E. (1953). Logos and existence in psychotherapy.
+Eysenck, H. J. (1947). The dimensions of personality. London:

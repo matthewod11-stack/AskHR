@@ -1,7 +1,23 @@
-# differently and why?
+---
+source_path: H0881J-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d730d9387458c4225df4c354abb32fb128474d99
+title: H0881J-PDF-ENG
+---
+# Take a Look Back
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+During the conversation, take a moment to look back and understand the situation. You can kick this oﬀ by asking them to self-reﬂect and
 
-2
+assess their own performance. For example:
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+Let’s take a moment to understand how we arrived here and what
+
+factors inﬂuenced our path. I’d like to invite you to self-reﬂect and
+
+assess your own performance. Did you accomplish all your goals
+
+and meet the expectations set? Can you share your perspective on
+
+what’s working well and what isn’t? Looking back, if you had the
+
+opportunity to change or improve anything, what would you do

@@ -1,9 +1,11 @@
-## of accountabilities, objectives, and standards.
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: b56c94e3a7958e7fdc6b1cf985a4ef2c218ad808
+title: performance_management_3rd_edition_by_aguinis
+---
+# LEARNING OBJECTIVES
 
-(cid:2) Determine accountabilities and their relative importance. (cid:2) Identify objectives that are specific and clear, challenging, agreed upon, significant, prioritized, bound by time, achievable, fully communicated, flexible, and limited in number.
+By the end of this chapter, you will be able to do the following:
 
-(cid:2) Identify performance standards that are related to the position, concrete, specific,
-
-measurable, practical to measure, meaningful, realistic and achievable, and reviewed regularly.
-
-(cid:2) Adopt a behavior approach to measuring performance, including the identification
+(cid:2) Adopt a results approach to measuring performance, including the development

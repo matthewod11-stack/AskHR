@@ -1,5 +1,9 @@
-# Educational Sociology, 3, 150–164.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: ef3acc8330b3882f4368a1b9dcbba8f7d5f8c51f
+title: untitled
+---
+# motivation. New York: Wiley.
 
-Baldwin, A. L. (1942). Personal structure analysis: A statistical method for investigating the single personality. Journal of Ab- normal and Social Psychology, 37, 163–183.
-
-Barenbaum, N. B. (1997a). The case(s) of Gordon Allport. Journal
+Bain, R. (1929). The validity of life histories and diaries. Journal of

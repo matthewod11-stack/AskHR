@@ -1,11 +1,9 @@
-# candidates and companies.
+---
+source_path: H08A30-PDF-ENG copy.md
+pages: n/a-n/a
+chunk_id: 6cafe5b87fccd9dc28a30f28cfce5998855b48ce
+title: H08A30-PDF-ENG copy
+---
+## Despite recent record employment gains for disabled employees in the
 
-Disabled job candidates want to know where to work and whom to
-
-trust, but they must also manage concerns about bias and when to
-
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
-
-1
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+U.S., the hiring of disabled people continues to be a pain point for both

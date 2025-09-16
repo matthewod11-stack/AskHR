@@ -1,11 +1,11 @@
-# concept.
+---
+source_path: H08VIB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e00ae6fed050cbcddcffed18ca45c2d77ae5dc70
+title: H08VIB-PDF-ENG
+---
+## HBR / Digital Article / 3 Ways AI Can Improve Team Meetings
 
-- When critiquing ideas, it can become a “challenger” representing the
+- When articulating business concepts, AI might take on the role of a
 
-other side of the argument, or an “expert.”
-
-- When pitching a concept, AI can act as a “storyteller” or a
-
-“communications coach” for the team to craft a more compelling
-
-narrative, or as “jury member” to strengthen the concept’s value
+“Business Model Innovation Expert” helping the team structure their

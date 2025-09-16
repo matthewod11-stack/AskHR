@@ -1,23 +1,25 @@
-# with me throughout my NFL career.
+---
+source_path: S24054-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 16c6efbd411af0cccc0f06b6a0338b98688ff7a4
+title: S24054-PDF-ENG
+---
+## HBR / Spotlight / Tom Brady on the Art of Leading Teammates
 
-If you spent time in professional sports locker rooms, you might be
+I’ve always tried to be an ideal teammate. Much of my approach
 
-surprised that players don’t always behave that way. Some players take
+came from being born into an amazing family and having a strong
 
-all the credit when things go right, but when things go wrong, they
+upbringing, and this orientation deepened when I was in high school
 
-make excuses and place the blame on everyone else, including referees,
+and college. Playing football at the University of Michigan, we had a
 
-teammates, and coaches. They focus too much on individual statistics
+team-centric philosophy that became central to who I am today. There’s
 
-or records or awards. They are self-serving, and their teammates
+an old saying in sports: Do you want to be a star, or do you want to
 
-recognize it. When I see players like that, who seem to care more about
+be a champion? At Michigan, I was focused on our team goals—on
 
-themselves than the team, I can also see how that makes the people
+winning games and championships for our school, and on being a great
 
-around them less motivated to give their best eﬀort. In a way, I was
-
-lucky those behaviors are so pervasive, because if they weren’t, many of the teams I played against would have been more diﬃcult to beat.
-
-So what exactly do great team leaders do? I believe there are seven key
+teammate rather than achieving individual goals. That attitude stayed

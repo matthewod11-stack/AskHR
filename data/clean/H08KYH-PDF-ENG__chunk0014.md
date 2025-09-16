@@ -1,11 +1,35 @@
-## reward in the form of potent feelings of pleasure and satisfaction —
+---
+source_path: H08KYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 69c602b82c7d07fb83901e416f062cec79e2098f
+title: H08KYH-PDF-ENG
+---
+# schedule.
 
-and that motivates us to repeat a pleasurable action to experience the reward again. For those who love productivity and eﬃciency, there
+- You’re low on patience and easily irritated. Even minor delays can
 
-may be no greater reward than getting things done.
+trigger stress and frustration, and you can lose your temper when
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+something (or someone) comes between you and completing a task.
 
-4
+- You deprioritize your own well-being in favor of eﬃciency and
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+productivity. Getting things done is always on your mind and takes
+
+precedence over everything else. You sacriﬁce sleep, meals, exercise,
+
+time with loved ones, time away from work, or hobbies in favor of
+
+accomplishing things — and the quicker, the better.
+
+- You’re uncomfortable with downtime and rarely take time to rest.
+
+You consider slowing down or taking a break a waste of time. Being
+
+unoccupied can make you anxious, irritable, impatient, or ﬁdgety.
+
+- You get pleasure from getting things done. Pleasurable experiences
+
+trigger the release of dopamine, the neurotransmitter known
+
+colloquially as the feel-good hormone. It’s dopamine that delivers a

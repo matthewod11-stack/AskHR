@@ -1,9 +1,15 @@
-# compromises.
+---
+source_path: R2504D-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 51db56dd74e4872d7cbb79761020a20558de9e52
+title: R2504D-PDF-ENG
+---
+# Balance Discipline with Creativity
 
-The Norwegian diplomat Jan Egeland exempliﬁed neutral but
+If you watch master negotiators work, you’ll notice that they seamlessly
 
-principled diplomacy during the peace negotiations in Colombia,
+shift between ﬁrm boundary setting and collaborative problem-solving,
 
-which ended one of Latin America’s longest-running civil wars.
+between public strength and private ﬂexibility. One moment they’re
 
-Egeland understood that peace processes needed to address not
+establishing clear red lines, the next they’re exploring innovative

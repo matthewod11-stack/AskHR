@@ -1,15 +1,11 @@
-# Theory of the Evolution of the Brain
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 5c11da2e97a092061904741d8ca913b2ddb34870
+title: untitled
+---
+# CENTURY 318
 
-and Psychopathology Social Darwinism 319 Degeneracy Theory Eugenics Early Role of Hypnosis Sigmund Freud and Psychoanalysis Morton Prince and Multiple Personality
+In this chapter we present a history of abnormal psychology, now commonly called psychopathology. This must be a par- tial history, because, although contemporary psychopathol- ogy science and practice are amply archived in scientiﬁc journals, epidemiological surveys, hospital reports, and gov- ernment statistics, little of the ﬁeld’s history is well docu- mented. Modern scientiﬁc method was not applied to the investigation of disease until the nineteenth century, and it was applied even later to the study of psychopathology. Knowledge was authenticated by the teacher’s experience, not by producing objective empirical evidence, impartially gathered, and opened to criticism. Theories about psy- chopathology and the ways to treat it during earlier periods of history were developed by physicians, philosophers, theolo- gians, and lawyers. Our knowledge is derived from their extant writings, medical treatises, church and legal docu- ments, historical narratives, diaries, and literature.
 
-318
-
-319
-
-320
-
-320
-
-322
-
-324
+303

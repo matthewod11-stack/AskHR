@@ -1,11 +1,17 @@
-# my most important project in life!”
+---
+source_path: H07XDL-PDF-ENG (1).md
+pages: n/a-n/a
+chunk_id: 4b974de8f0e48cd6ce5209c6343d2160c3f95114
+title: H07XDL-PDF-ENG (1)
+---
+# recover from missteps.
 
-Now, go and do the same. Your life is your top strategic priority.
+Sophia, a doctor who suﬀered from a serious chronic illness, wrote
 
-This article was originally published online on December 5, 2023.
+to us after attending a workshop: “I realized I want to make more
 
-Copyright © 2023 Harvard Business School Publishing. All rights reserved.
+decisions, do really crazy things, enjoy small and big moments,
 
-23
+celebrate successes, go to places I’ve never been, meet people I’ve never
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+seen before, take breaks in between, follow my ﬂow, and make myself

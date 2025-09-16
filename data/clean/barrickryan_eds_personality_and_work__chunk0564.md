@@ -1,9 +1,23 @@
-## manual. Odessa, FL: Psychological Assessment Resources.
+---
+source_path: barrickryan_eds_personality_and_work.md
+pages: n/a-n/a
+chunk_id: da2604d4e968fddcb2a8b5c173c5ea36fc900a4d
+title: barrickryan_eds_personality_and_work
+---
+## PERSONALITY AND COUNTERPRODUCTIVE WORKPLACE BEHAVIOR 177
 
-Covey, M. K., Saladin, S., & Killen, P. J. (1989). Self-monitoring, surveil- lance, and incentive effects on cheating. Journal of Social Psychology, 129, 673–679.
+Cloninger, C. R., Svrakic, D. M., & Przybeck, T. R. (1993). A psychobio- logical model of temperament and character. Archives of General Psy- chiatry, 50, 975–990.
 
-Cropanzano, R., James, K., & Konovsky, M. A. (1993). Dispositional af- fectivity as a predictor of work attitudes and job performance. Jour- nal of Organizational Behavior, 14, 595–606.
+Collins, J. M., & Schmidt, F. L. (1993). Personality, integrity, and white collar crime: A construct validity study. Personnel Psychology, 46, 295–311.
 
-Dalessio, A., Silverman, W. H., & Schuck, J. R. (1986). Paths to turnover: A re-analysis and review of existing data on the Mobley, Horner, and Hollingsworth turnover model. Human Relations, 39, 245–263. Depue, R. A., & Collins, P. F. (1999). Neurobiology of the structure of per- sonality: Dopamine, facilitation of incentive motivation, and extra- version. Behavioral Brain Sciences, 22, 491–517.
+Colquitt, J. A., Conlon, D. E., Wesson, M. J., Porter, C. O., & Ng, K. Y. (2001). Justice at the millennium: A meta-analytic review of 25 years of organizational justice research. Journal of Applied Psychology, 86, 425–445.
 
-Digman, J. M. (1997). Higher-order factors of the Big Five. Journal of Per-
+Connolly, J. J., & Viswesvaran, C. (2000). The role of affectivity in job sat- isfaction: A meta-analysis. Personality and Individual Differences, 29, 265–281.
+
+Costa, P. T., & McCrae, R. R. (1989). Personality, stress and coping: Some lessons from a decade of research. In K. S. Markides & C. L. Cooper (Eds.), Aging, stress, social support and health (pp. 267–283). New York: Wiley.
+
+Costa, P.T.J., & McCrae, R. R. (1990). Personality: Another “hidden fac-
+
+tor” in stress research. Psychological Inquiry, 1, 22–24.
+
+Costa, P.T.J., & McCrae, R. R. (1992). The revised NEO Personality Inventory

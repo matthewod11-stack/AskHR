@@ -1,5 +1,15 @@
-# line.
+---
+source_path: H07KWZ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 1462da3ebe22ceb0f6b73f04d035de056a8f4e68
+title: H07KWZ-PDF-ENG
+---
+## HBR / Digital Article / What HBO’s “Succession” Can Teach Us About Negotiating
 
-This article was originally published online on March 31, 2023.
+While the idea of throwing around billions of dollars in bids as the
 
-Francesca Gino is a behavioral scientist and the Tandon Family Professor of Business Administration at Harvard Business School. She is the author of Rebel Talent and Sidetracked.
+characters do in this show may seem far from reality, some of the basics
+
+of what it takes to navigate negotiation still run true. You might want to
+
+check yourself against these tenets the next time your business is on the

@@ -1,9 +1,17 @@
-## project clarity, competence, and conﬁdence—especially under pressure.
+---
+source_path: H08UGX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: c614ec7b023cc9d157712b793fdeb9aa7cfa9a6a
+title: H08UGX-PDF-ENG
+---
+## Why Boundaries Between Leaders’ Personal and Professional Identities Are Crucial
 
-Emotional vulnerability can be humanizing in small, controlled doses.
+Being authentic isn’t the same as being eﬀective. In fact, psychological science suggests that the most eﬀective leaders are anything but
 
-But regular oversharing creates confusion, erodes credibility, and can
+unﬁltered. Here are four key, evidence-based reasons why boundaries
 
-even undermine organizational stability. To be sure, no leader will
+between personal and professional identity are critical in the C-suite:
 
-convince people they are worthy of following if they regularly engage
+- 1. Oversharing dilutes authority.
+
+Leaders are not paid to process their feelings in public. Their job is to

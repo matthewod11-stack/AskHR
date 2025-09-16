@@ -1,19 +1,15 @@
-# HBR / Digital Article / Research: Performance Reviews That Actually Motivate Employ…
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: a8a793022a1accfaaef4e12bf339209f8a12742c
+title: H08HAK-PDF-ENG
+---
+## leading organizations. However, performance management should not
 
-to continually reﬁne performance management practices to assess
+be neglected simply because it is not perfect. Instead, it is crucial
 
-employees’ performance more holistically and make decisions that are
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-as fair and transparent as possible. In alignment with this perspective,
+8
 
-we support the recent trend of incorporating narrative components
-
-into employee feedback, moving away from purely numeric ratings. As
-
-organizations evolve, so too should their methods for evaluating and
-
-communicating performance. By eﬀectively leveraging both numerical
-
-and narrative feedback, companies can ensure they are not only
-
-measuring performance accurately but also engaging and motivating
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

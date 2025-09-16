@@ -1,11 +1,43 @@
-## HBR / Digital Article / An International Travel Checklist for U.S. Employers
+---
+source_path: H08SRL-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5506eab522d1de189080c66510bf33ddd9a55273
+title: H08SRL-PDF-ENG
+---
+# thereof—at ports of entry.”
 
-oﬀ adjustments, even redrawing territorial jurisdictions to ensure
+Establish a framework for weighing the necessity of each trip
 
-employees had equal opportunity.”
+Krishnan recommends putting in place a process to evaluate travel
 
-Brief employees on entry requirements and provide guidance on potential challenges
+opportunities based on how essential the trip is and whether there are
 
-If employees are visiting the U.S. for business, they’re required by law
+other ways to meet the same need. In other words, he says: “Is this
 
-to have proper documentation, which could include a visa or a valid
+trip customer-facing and critical to top-line growth—and is being there
+
+in-person going to make the diﬀerence between winning a contract or losing it to a competitor?” Or could a Zoom meeting suﬃce?
+
+Other factors come into play, like equity and fairness, Krishnan adds.
+
+Consider two sales managers: one holds an American passport that
+
+allows them to travel freely, while the other holds a passport from
+
+another country that might not aﬀord the same privilege. “Are both
+
+being given equal access to do their jobs and reach their potential?”
+
+The solutions are not always straightforward, and leaders need to be
+
+ﬂexible. Krishnan likens the situation to what happened during the
+
+Covid-19 pandemic when some borders were open while others closed.
+
+“Companies had to adapt: tweaking reward mechanisms, making one-
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

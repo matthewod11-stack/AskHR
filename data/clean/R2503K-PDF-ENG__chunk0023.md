@@ -1,15 +1,23 @@
-## HBR / Magazine Article / Leading Global Teams Effectively
+---
+source_path: R2503K-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8a3bb4b851e64ac9e6c050dbcee6c057911958a6
+title: R2503K-PDF-ENG
+---
+## According to Harvard Business School’s Amy Edmondson, teams need
 
-psychological safety had lower turnover rates, implemented diverse
+environments where members feel accepted and comfortable enough
 
-ideas more eﬀectively, and generated more revenue. However, the teams
+to take risks and share concerns without fear of embarrassment or
 
-included in Google’s study often lacked signiﬁcant diversity—members
+retribution. (For more on this topic, see “What People Get Wrong
 
-were mostly white or South Asian men steeped in Silicon Valley’s
+About Psychological Safety,” in this issue.) Google, an early adopter
 
-culture. On these teams, “psychologically safe” meant that people felt
+of Edmondson’s work, found that teams with higher levels of
 
-comfortable openly disagreeing with and debating one another, but
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-that kind of open conﬂict is incongruent with what most of the global
+6
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

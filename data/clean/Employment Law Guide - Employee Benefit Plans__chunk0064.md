@@ -1,9 +1,15 @@
-# Recordkeeping
+---
+source_path: Employment Law Guide - Employee Benefit Plans.md
+pages: n/a-n/a
+chunk_id: 3ddb88f68b296060965dc3ad5627b393ec864e85
+title: Employment Law Guide - Employee Benefit Plans
+---
+# Guide for Employee Beneﬁt Plans(https://www.dol.gov/sites/dolgov/ﬁles/ebsa/about-ebsa/our-activities/resource-
 
-ERISA contains recordkeeping requirements. An accurate recordkeeping system will track and properly attribute contributions, earnings and losses, plan investments, expenses, and beneﬁt distributions. If a
+center/publications/reporting-and-disclosure-guide-for-employee-beneﬁt-plans.pdf) has been prepared by EBSA with
 
-contract administrator or ﬁnancial institution assists in managing the plan, that entity typically will help keep
+assistance from PBGC. It is intended to be used as a quick reference tool for certain basic disclosure
 
-the required records. In addition, a recordkeeping system will help you, your plan administrator, or ﬁnancial
+requirements under ERISA. Not all ERISA disclosure requirements are reﬂected in this guide. For example, the guide, as a general matter, does not focus on disclosures required by the Internal Revenue Code or the
 
-provider prepare the plan's annual return/report that must be ﬁled with the Federal Government. For more
+provisions of ERISA for which the IRS has regulatory and interpretive authority.

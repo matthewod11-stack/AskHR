@@ -1,15 +1,23 @@
-# Task conflict
+---
+source_path: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the.md
+pages: n/a-n/a
+chunk_id: 3b79e4bdb13d3ab21850892973435dc1560a94bf
+title: how_many_leaders_does_it_take_to_lead_a_sports_team_the_relationship_between_the
+---
+# Role conflict
 
-2.91 (.93)
+2.33 (.86)
 
-2.74 (1.26)
+1.78 (.69)
 
-3.36 (1.46)
+2.22 (.87)
 
-3.33
+3.75
+
+�
+
+.10
 
 1.00
 
-.69
-
-.06
+.02

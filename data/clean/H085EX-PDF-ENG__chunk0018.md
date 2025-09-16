@@ -1,7 +1,13 @@
-# planning.
+---
+source_path: H085EX-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dbe624ef27bce9df06cf85f22060cb733220f74a
+title: H085EX-PDF-ENG
+---
+## implement signiﬁcant changes to the business and strategy of both
 
-Copyright © 2024 Harvard Business School Publishing. All rights reserved.
+bioMérieux and BioFire. Furthermore, middle managers at BioFire were
 
-4
+encouraged to collaborate with their peers, leaders, and direct reports to discuss proposed changes openly and oﬀer direct feedback to senior
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+leadership in Lyon. This inclusive approach facilitated the identiﬁcation of potential areas of resistance, thereby enabling eﬀective mitigation

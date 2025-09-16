@@ -1,11 +1,15 @@
-# stress. New York: Norton.
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 499c63adf47bc2c9d719cbd49a29eb67bcdca0a8
+title: untitled
+---
+# Paul, Trench, Trubner.
 
-Mandler, G. (1990). A constructivist theory of emotion. In N. S. Stein, B. L. Leventhal, & T. Trabasso (Eds.), Psychological and biological approaches to emotion (pp. 21–43). Hillsdale, NJ: Erlbaum.
+Mandler, G. (1964). The interruption of behavior. In E. Levine (Ed.), Nebraska symposium on motivation: 1964 (pp. 163–219). Lincoln: University of Nebraska Press.
 
-Mandler, G. (1992). Emotions, evolution, and aggression: Myths and conjectures. In K. T. Strongman (Ed.), International Review of Studies on Emotion (pp. 97–116). Chichester, England: Wiley.
+Mandler, G. (1975). Mind and emotion. New York: Wiley.
 
-Mandler, G. (1993). Thought, memory, and learning: Effects of emotional stress. In L. Goldberger & S. Breznitz (Eds.), Hand- book of stress (pp. 40–55). New York: Free Press.
+Mandler, G. (1979). Emotion. In E. Hearst (Ed.), The ﬁrst century of experimental psychology (pp. 275–321). Hillsdale, NJ: Erlbaum.
 
-Mandler,G.(1999).Emotion.InB.M.Bly&D.E.Rumelhart(Eds.), Cognitive science (pp. 367–384). San Diego, CA: Academic Press.
-
-Mandler, G., & Kremen, I. (1958). Autonomic feedback: A correla-
+Mandler, G. (1984). Mind and body: Psychology of emotion and

@@ -1,31 +1,13 @@
-## HBR / Digital Article / Using Fiction to Find Your Strategy
+---
+source_path: H0734V-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 3c40ec87a8308379863be8708ce88759373a5550
+title: H0734V-PDF-ENG
+---
+## on important opportunities to envision, and design, possible futures.
 
-Over the past seven years in working with about 50 executive teams
+Copyright © 2022 Harvard Business School Publishing. All rights reserved.
 
-around the world, we’ve been experimenting with an alternative
+1
 
-approach to strategy: design fiction. Design fiction is a technique that
-
-immerses executives and employees deeply in various possible futures,
-
-and uses artifacts such as short movies, fictitious newspaper articles,
-
-and imaginary commercials to generate transformation roadmaps.
-
-Rooted in the future but helping to act in the present, design fiction
-
-results in concrete actions taken to adjust companies’ visions, strategies,
-
-and activities to create a better future.
-
-Unlike many strategic foresight tools, design fiction does not attempt
-
-to identify what is more likely to happen. Nor does it limit strategy
-
-conversations to the C-suite; in fact a core component is the
-
-participation of a wide range of stakeholders. Consequently, the teams
-
-that we’ve seen deploy design fiction are able to formulate and shape
-
-desirable futures that other tools do not enable people to see.
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

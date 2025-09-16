@@ -1,15 +1,11 @@
-# motivation.
+---
+source_path: H08OSN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8203971a17f8c18d790f516ca2290b44f2739708
+title: H08OSN-PDF-ENG
+---
+# instead of longer meetings?
 
-. . .
+Be creative in removing yourself where you can (and helping your
 
-When you are overloaded and delegating more to your team isn’t an
-
-option, there are still ways to free up capacity. Now is the time to
-
-reassess and be intentional about what you do and how you do it.
-
-Working in a ﬁt-for-purpose way that matches appropriate eﬀort with
-
-true need, removing habitual low-value work, and being strategically
-
-unavailable will enable you and your team to free up vital time and
+team do the same), and tell colleagues why, so they understand your

@@ -1,13 +1,21 @@
-# motives.
+---
+source_path: H08M6G-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 331804b0b0660da66d36cc92a53377939f1cabcb
+title: H08M6G-PDF-ENG
+---
+# signiﬁcantly.
 
-One team we saw do this eﬀectively assigned team members to
+- 5. Cultivate deep trust and tolerance for candor.
 
-interview each other using a standard interview protocol with a set
+When team members develop deeper personal connections with each other, they tend to gain the courage to speak their minds and oﬀer
 
-of penetrating questions that quickly moved the relationship from
+unvarnished feedback. Deep trust between colleagues gives them
 
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+positive predictability concerning the motives and behaviors of others,
 
-5
+which helps them develop a high tolerance for candor and encourages
 
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+them to engage in vulnerable acts of idea generation and clariﬁcation.
+
+Dissent is almost always more easily accepted when fueled by pure

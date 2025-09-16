@@ -1,5 +1,7 @@
-# Graphic rating scales
-
-Forced distribution
-
-Table 5.3 lists the various types of comparative and absolute systems that could be used. Let’s discuss how to implement each of these systems and point out some advan- tages and disadvantages of each.13
+---
+source_path: performance_management_3rd_edition_by_aguinis.md
+pages: n/a-n/a
+chunk_id: 260a97fbc01edbfcc718f2dc21434b8b8931b3aa
+title: performance_management_3rd_edition_by_aguinis
+---
+# Relative percentile

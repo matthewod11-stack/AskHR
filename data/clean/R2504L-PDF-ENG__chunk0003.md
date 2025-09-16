@@ -1,21 +1,29 @@
-## HBR / Magazine Article / Hybrid Still Isn’t Working
+---
+source_path: R2504L-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 10f7760205354015ca82a3cbd81a7164fab14232
+title: R2504L-PDF-ENG
+---
+# Ricky Adam
 
-article is aimed at enterprises that want to keep remote or hybrid work
+Over the past year, organizations large and small have been forcing
 
-arrangements, at least for the time being.
+their employees to return to the oﬃce for the entire workweek. They are
 
-Leaders of such companies must face this reality: You cannot eﬀectively
+responding to growing evidence that remote and hybrid arrangements
 
-manage teams of remote or hybrid workers using the methods you
+result in lower worker performance. But many companies don’t have
 
-relied on when all employees were in the oﬃce together. Doing so
+that option, for several reasons: They no longer have the oﬃce space
 
-creates major problems for organizational culture, for how people are
+to house all their employees and either can’t quickly expand it or don’t
 
-managed day-to-day, for how they are promoted, and for performance
+want to spend the money to do so; their employees are now dispersed
 
-overall. Re-creating the cooperation and collaboration that happens in
+geographically; or they fear a rebellion by hard-to-replace talent. This
 
-the oﬃce in a virtual context requires new rules and policies—as well as
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-mandates that reel in some current practices.
+1
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

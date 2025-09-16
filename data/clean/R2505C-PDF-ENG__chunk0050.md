@@ -1,19 +1,33 @@
-## yourself with not just cheerleaders but also constructive critics who
+---
+source_path: R2505C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 7169d510b731c306a148cb49b66406ab751c9472
+title: R2505C-PDF-ENG
+---
+## HBR / Magazine Article / Now Is the Time for Courage
 
-will honestly assess how you’re doing. When you allow others to judge
+Access resources. Your connections can provide tangible help,
 
-your choices and point out contradictory signals, you’ll have more
+including money and manpower—a safety net that will allow you to
 
-conﬁdence in your ultimate course of action. So ﬁnd people willing to
+feel more in control and thus more courageous. The investors who
 
-discuss and then validate or challenge your narratives, interpretations,
+gave Ixigo’s Bajpai bridge funding are a good example. So are two
 
-and competencies. Knudstorp, for example, emphasized the importance
+organizations that Haugen turned to for support when releasing the
 
-of candid customer feedback at Lego; one of his slogans was “Listen
+information she had about Facebook: eBay founder Pierre Omidyar’s
 
-to the complainer.” Likewise, GE’s Culp is known for taking and
+Luminate and the nonproﬁt Whistleblower Aid. Your network can also
 
-encouraging “gemba walks,” a practice in which managers go to the
+oﬀer knowledge that can help you make sense of chaos and surmount
 
-factory ﬂoor to hear directly from frontline employees.
+obstacles. As Nooyi said in an interview with McKinsey, “You can’t
+
+know everything about everything. Bring in the expert. Let them coach
+
+you….Sitting down one-on-one and learning everything there is to learn
+
+is a good thing.”
+
+Accept feedback. When taking any kind of risk, it’s critical to surround

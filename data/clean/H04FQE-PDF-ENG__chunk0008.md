@@ -1,19 +1,25 @@
-## business schools at nine research-intensive universities in the UK.
+---
+source_path: H04FQE-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8f0af56b6c67079141cdf1c28c5e5ab4774ba799
+title: H04FQE-PDF-ENG
+---
+# HBR / Digital Article / How Managers, Coworkers, and HR Pressure Women to Stay Sile…
 
-We asked women whether they or others they knew had experienced
+their sex. One study of women in the military and law found that nine
 
-insulting, hostile, and degrading attitudes that made them feel bullied,
+out of 10 had experienced gender-based harassment in their careers.
 
-excluded, or both due to their gender. We encouraged them to describe
+Most victims stay silent about their experiences. Studies suggest that
 
-events as vividly as possible and to reﬂect on how they and others they
+victims stay silent because they fear consequences at work or feel that
 
-knew felt at each moment.
+nothing will happen as a result of speaking up. What has been studied
 
-Our interviewees described a plethora of incidents that they or others
+less is how this silencing occurs.
 
-they knew had experienced, including sexist remarks, harassment
+In 2016 we set out to learn about how female victims are silenced —
 
-during pregnancy and after giving birth, gender-based bullying, and
+who inﬂuences them and what exactly happens when they try to speak
 
-sexually motivated advances. We asked them whether they stayed silent
+up. We interviewed 31 early and mid-career academics employed in

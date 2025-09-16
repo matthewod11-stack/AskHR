@@ -1,9 +1,15 @@
-# inquiry, not the ﬁnal word.
+---
+source_path: H08SQS-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e455708004e54dfff90d47ed349bc3e42e341559
+title: H08SQS-PDF-ENG
+---
+# HBR / Digital Article / Research: Executives Who Used Gen AI Made Worse Predictions
 
-This also applies to our very own study. This study was conducted in a controlled executive‐education setting with a limited sample of managers and may not fully capture the complexity or emotional stakes of real‐world trading environments. We also focused exclusively on a single stock (Nvidia) and a one-month forecasting horizon, so results may diﬀer for other securities or longer‐term predictions. Finally, the ChatGPT model we used lacked access to up-to-the-minute market data
+drawing on? Could there be recent factors it is missing? With peers, one
 
-and alternative AI tools or more current model versions might yield
+might ask: Are we being too conservative because we’re all uncertain?
 
-diﬀerent eﬀects. Understanding limitations or possible confounders
+Especially with AI, which can sound authoritative, it is crucial not to
 
-(both in our study) and with AI can help you apply a critical lens to
+accept recommendations at face value. Treat AI as a starting point for

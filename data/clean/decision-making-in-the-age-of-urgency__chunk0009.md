@@ -1,7 +1,13 @@
-# All three decision types
+---
+source_path: decision-making-in-the-age-of-urgency.md
+pages: n/a-n/a
+chunk_id: 20eec838518b4b75023f51c74c0851caf07aab42
+title: decision-making-in-the-age-of-urgency
+---
+# Cross-cutting decisions
 
-30
+78
 
-1 Respondents who said “none of the above” are not shown; total n = 1,259.
+Delegated decisions
 
-5 Aaron De Smet, Gerald Lackey, and Leigh M. Weiss, “Untangling your organization’s decision making,” McKinsey Quarterly,
+61

@@ -1,3 +1,7 @@
-## Research: Caregiver Employees Bring Unique Value to Companies
-
-A new study shows how the act of caregiving helps people develop skills that positively impact culture, retention, and the bottom line. by Lisa S. Kaplowitz and Kate Mangino
+---
+source_path: H07R1C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f91d073a72003ef94401d73de0eddedabddf5dd2
+title: H07R1C-PDF-ENG
+---
+# HBR / Digital Article / Research: Caregiver Employees Bring Unique Value to Companie…

@@ -1,33 +1,25 @@
-# HBR / Digital Article / Kickstart Your New Hire’s Success by Connecting them to the R…
+---
+source_path: H08C2C-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 24a73fc0e018da2fd42753e6ef09ab2999182a95
+title: H08C2C-PDF-ENG
+---
+# Bernhard Lang/Getty Images
 
-and not all companies are tapping into this valuable resource. One study
+A standard operating procedure for onboarding is to front-load
 
-found that 20% of employees reported that their company didn’t do
+new employees with presentations and written resources, such as
 
-anything to facilitate networking between them and their coworkers.
+handbooks, e-learning modules, or manuals. These can be helpful
 
-New employees who haven’t had a chance to develop suﬃcient strategic
+— but only to a point. Learning new processes and navigating new
 
-relationships may struggle to integrate into your organization. They
+environments is not just about content acquisition. Much of your
 
-often don’t know who to turn to for relevant information, may not feel
+organization’s important knowledge and expertise resides in people,
 
-conﬁdent enough to contribute in meetings, may demonstrate a slower
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-than expected learning curve, or show overall low levels of engagement.
+1
 
-This isn’t just about cultivating oﬃce friendships (those are
-
-certainly valuable); it’s about helping employees engage in internal
-
-networking to cultivate connections with allies who can provide
-
-information, relevant resources, and support. Those who form these
-
-relationships beneﬁt from the facilitated sharing of ideas and expertise,
-
-improved communication, and greater opportunities for innovation and
-
-collaboration. Longer-term, establishing connections with co-workers
-
-boosts learning, productivity, job embeddedness, sense of belonging,
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

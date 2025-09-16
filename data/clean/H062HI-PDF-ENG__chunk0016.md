@@ -1,51 +1,55 @@
-## HBR / Digital Article / How Small Companies Can Offer Great Paid-Leave Programs
+---
+source_path: H062HI-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 6971d46d1ead1ff94cde6dc96a17d6df91a047c3
+title: H062HI-PDF-ENG
+---
+## count the boost to productivity, engagement, morale, and ﬁrm reputation
 
-Be consistent and communicate openly. Don’t just sweeten paid leave
+that can come with a paid leave policy, too.
 
-beneﬁts for new recruits, Sias advised. Make sure the same beneﬁt is available to new talent and current employees. “As employers, it’s not just what you do to get people in the door, it’s the lifecycle of the employee,
+Talk to your employees. “I think executives really need to listen to the
 
-and…people talk.” If you communicate about these and other policy issues
+feedback they receive from their staff,” Sias insisted, “you really truly have
 
-openly as they evolve and demonstrate you are being responsive to your
+to have a plan of action on how you’re going to address what those [pain]
 
-team’s feedback and needs, you’ll build a culture of trust.
+points are. And if it’s … leave and beneﬁts, do them. It’s the low-hanging
 
-Be a voice in the public policy debate. Small businesses employ 49.2%
+fruit, and it goes such a distance. Staff feel heard. Staff feel appreciated.
 
-of the U.S. workforce and 43% of high-tech talent. As more states craft
+Staff feel acknowledged…and if you’ve missed it, you’ve lost their trust.” If
 
-statewide paid leave policies and momentum builds for a national paid
+you just listen but don’t act on their feedback or explain why you can’t,
 
-leave policy, small businesses must become educated and involved in
+they won’t believe you care, and they won’t trust you.
 
-crafting these policies to ensure their needs are addressed. Vlietstra
+Include men. Paid leave policies shouldn’t be reserved just for women.
 
-Wonnenberg said, “They have to ﬁnd a way to insert themselves in the
+Todd Olson, founder and CEO of Pendo, a software services ﬁrm in
 
-conversation — by they themselves being an advocate, or joining a
+Raleigh-Durham, North Carolina, pointed out that making their paid parental leave available to all parents has been key to maintaining a diverse talent pool: “Supporting men also helps women get back to work, if that’s
 
-business organization that aligns with their view.”
+what they choose to do.”
 
-It’s important to remember your organization’s leave policy affects your
+Plan handoffs in advance. The work goes on, even while employees are on leave. Plan ahead and get buy-in from those who will be covering
 
-reputation. Human resources executive Diane Irving, who has spent more
+projects and tasks. The new team might need to be trained or brought up
 
-than 25 years in STEM ﬁelds, put it plainly: “Is this a generous
+to speed, too. Dan Najjum, CFO at edtech ﬁrm Signal Vine in Alexandria,
 
-organization or is this not a generous organization? You get a reputation…
+Virginia, said it’s not hard, but is important: “With enough time and
 
-There’s a competition for talent and it may tip the scale.”
+planning, you can ﬁgure out how this can be done….You want your
 
-As the pandemic rages on, it’s becoming increasingly clear that if small
+coworkers to care about each other.” If you don’t plan ahead, you risk
 
-businesses and tech ﬁrms want to recruit and retain the best talent
+resentment that can backﬁre, or the work may be done improperly, which
 
-possible, they need a competitive paid leave policy. As Nicholas Christakis
+could have seriously deleterious effects on your business.
 
-of Yale University states, “The dynamics of a contagious disease made it
+Copyright © 2021 Harvard Business School Publishing Corporation. All rights reserved.
 
-abundantly clear…[that] paid sick leave…[and] such policies are likely to
+4
 
-endure after the virus subsides, either because companies see the wisdom
-
-of it, lawmakers enforce it, or workers demand it.”
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

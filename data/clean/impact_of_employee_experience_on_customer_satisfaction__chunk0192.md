@@ -1,15 +1,13 @@
-# % Promoters - % Detractors = NPS
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: fa3650f4dfa3318fb6ebb14b04b2c17dc1e8a027
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# 3.2.2.1. Methodology of evaluation
 
-Detractors (score 0-6) – those are customers who are not loyal to company, a high
+Q1: How likely are you to recommend Atlas Copco company to a friend or colleague?
 
-probability that they will not buy products or services again, and do not consider Atlas
+– is the NPS question. The methodology of NPS question was explained in 2.6.2.3,
 
-Copco as potential supplier. They can potentially damage the brand reputation
-
-Passives (score 7-8) – those are neutral customers, typically satisfied but
-
-unenthusiastic and who are open to competitive offerings.
-
-Promoters (score 9-10) – loyal customer who intent to promote Atlas Copco, they will
-
-keep buying products and services and have strong partnership behavior
+however main metrics are calculated:

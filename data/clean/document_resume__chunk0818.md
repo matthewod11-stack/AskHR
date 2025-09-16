@@ -1,3 +1,11 @@
-# Legality
+---
+source_path: document_resume.md
+pages: n/a-n/a
+chunk_id: 178f323205fbf858bf101a442baac0f7580356db
+title: document_resume
+---
+# Who is Covered
 
-When used as input to decisions such as retention, promotion, and merit increases, performance appraisal results have important legal implications. Even when used only for developmental purposes, it might be difficult to establish the fact that ratings have no bearing on administrative decisions. People are protected by federal laws and court decisions from discrimination based on race, color, sex, religion, national origin, age, physical handicap, and Veteran status. Moreover, the common law doctrine of employment-at-will has been significantly eroded in state courts. is extremely important that the performance appraisal sy stem be validated in accordance with appropriate regulations.8
+The major goal in performance appraisal should be to access individual work related contributions within the total institution--not just the faculty, nor the administra- tion, nor the support staff. A performance appraisal program should be for everyone, beginning with the president. There should be, of course, different procedures for dif- ferent job families. The performance of a dean is measured in terms of outcomes such as goals achieved and expectations net while the performance a library technician is expressed in temis of appropriate job-related behaviors. But in the final analysis, each person's performance is rated against a standard.
+
+While there is disagreement in the literature on rating formats and rating scales, it is necessary to develop appropriate instrumentation. At Southern Union there are three subsystems, however, they each follow the same rules of combination and produce a rating on a 5-point scale. Thusi department chair, instructor, and custodian who receive an overall rating of "3.5" are performing at the same level, albeit in vastly different roles.

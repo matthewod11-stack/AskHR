@@ -1,17 +1,23 @@
-# HBR / Digital Article / Executive Teams Are Losing Stakeholders’ Confidence. Here’s H…
+---
+source_path: H08PFQ-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 5908c1515da76bb87d528b76531701069c069303
+title: H08PFQ-PDF-ENG
+---
+## keeps interdependencies visible and relevant.
 
-but here’s what I know,” “Let’s step back and keep in mind that..,” or “I
+Lead out loud with context.
 
-know you may be tempted to interpret this in this way, but here’s what
+Letting people into your own cognitive process allows them to learn
 
-I’d encourage you to think instead…”
+from you while learning about you—seeing you as human, vulnerable,
 
-Context-setting can help you get in front of people making up stories
+and therefore more worthy of their conﬁdence. “Leading out loud”
 
-to ﬁll information gaps. When people understand not just what you’ve
+means saying things like, “Here’s what I’m still working out for myself,
 
-decided but how and why you decided it, their trust deepens, even if
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
 
-they don’t agree. In the absence of transparency, made-up narratives
+7
 
-form quickly and often unfairly. “Leading out loud” is how you preempt
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

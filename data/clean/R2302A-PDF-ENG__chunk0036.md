@@ -1,13 +1,11 @@
-# for years now.
+---
+source_path: R2302A-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: befb03efa91223b08f3f3120dd7f50cb64dd7275
+title: R2302A-PDF-ENG
+---
+# HBR / Magazine Article / GitLab’s CEO on Building One of the World’s Largest All-Rem…
 
-We also encourage in-person meetings. Diﬀerent teams do it with
+with no agenda so that the conversation can unfold naturally, as if in an
 
-varying frequencies, but during the ﬁrst month of every quarter we
-
-invite team members to use a “get-together grant” to meet up with a
-
-team member either in person or virtually. Before the pandemic the
-
-entire company gathered once a year in a destination such as Cape
-
-Town or New Orleans for a week of workshops and activities focused on
+elevator or at a watercooler. That’s been standard practice across GitLab

@@ -1,17 +1,13 @@
-# respects all employees.
+---
+source_path: issn_print_0976_013x.md
+pages: n/a-n/a
+chunk_id: 6ef27271f9fa33e4e179b846a1d4fcdd32ace649
+title: issn_print_0976_013x
+---
+## Journal of Management & Public Policy, Vol. 14, No. 2, June 2023
 
-In today's global market, organizations that embrace diversity among their employees are
+fundamental differences, and dispelling myths about diverse individuals in a group setting
 
-better equipped to understand and meet the needs of a diverse range of customers. A recent
+with friends or colleagues to reduce prejudices and stereotypes. By implementing these
 
-study in the IT industry has revealed that while most employees are open to diversity, a few
-
-are enthusiastic and have fully embraced the positive benefits of a diverse workplace. To
-
-foster inclusiveness, organizations implement strategies such as cross-cultural training,
-
-encouraging overseas assignments, and offering language training. Discrimination, prejudice,
-
-and ethnocentrism remain barriers to workplace diversity despite progress. Organizations
-
-must take deliberate steps to manage diversity and leverage the potential of their employees
+strategies, organizations can foster a more inclusive workplace culture that values and

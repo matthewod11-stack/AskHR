@@ -1,13 +1,13 @@
-## Smith, B. N., Hornsby, J. S., Benson, P. G., & Wesolowski, M.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: 839b6c4b91178608639cdb799fb07402d5f1bf6b
+title: industrial_organizational_psychology_an_applied_approach
+---
+# Knopf.
 
-(1989). What is in a name: Th e impact of job titles on job evaluation results. Journal of Business and Psychology, 3(3), 341–351.
+Slage, J. K. (1997). Attack on violence. Industry Week, 246(4),
 
-Smith, C., Reilly, C., & Midkiﬀ , K. (1988, August). Psychometric evaluation of circadian rhythm questionnaires with suggestions for improvement. Paper presented at the annual meeting of the American Psychological Association, Atlanta, GA.
+15–17.
 
-Smith, D. E. (1986). Training programs for performance
-
-appraisal: A review. Academy of Management Review, 11, 22–40.
-
-660
-
-references
+Smith, A., & Jones, D. M. (1992). Noise and performance. Handbook of human performance (Vol. 1, pp. 1–28). London: Academic Press.

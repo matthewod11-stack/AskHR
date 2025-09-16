@@ -1,11 +1,21 @@
-## HBR / Digital Article / The Best Leaders Normalize Emotion at Work
+---
+source_path: H08VEB-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: dfc00a943a94839e1dd7001d364b7d70d6f6fae0
+title: H08VEB-PDF-ENG
+---
+# Name
 
-A richer emotional vocabulary allows you to describe how you feel
+Emotional concepts aren’t innate—they’re learned through
 
-more precisely, which increases self-awareness and helps you respond
+socialization, education, and culture. Strengthening your ability to
 
-more eﬀectively. Labeling your feelings more speciﬁcally can also help
+identify and articulate complex feelings starts with expanding the
 
-you reduce distress and reactivity, improve decision-making, manage
+number of emotion words you know.
 
-stressful interactions more eﬀectively, and enhance your ability to both
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

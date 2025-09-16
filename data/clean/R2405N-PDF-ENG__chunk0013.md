@@ -1,11 +1,13 @@
-## depression, addiction, and other conditions (which many scientists
+---
+source_path: R2405N-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e8b21ff14999d0ab65ba887e5e6f5c2579cedad7
+title: R2405N-PDF-ENG
+---
+# sale.
 
-believe they are), but as tools for businesspeople to unleash receptivity,
+Perusing the recent literature on these drugs, I hoped to ﬁnd a
 
-creativity, and enlightenment. Instead I found a diverse and sometimes
+consensus about their utility—not as party aids that give short bursts of
 
-contentious array of opinions regarding what psychedelics can and
-
-cannot do for us.
-
-First, for a little history, let’s turn to Luminous, a series on psychedelics
+euphoria, or as eﬀective treatments for post-traumatic stress disorder,

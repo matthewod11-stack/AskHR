@@ -1,5 +1,7 @@
-# Calculating NPS
-
-NPS respondents give a rating between 0 (not a likely) and 10 (extremely likely) and,
-
-responses are divided into three categories:
+---
+source_path: impact_of_employee_experience_on_customer_satisfaction.md
+pages: n/a-n/a
+chunk_id: f466c1edfb6e81e635fcc32c6303c223b326e572
+title: impact_of_employee_experience_on_customer_satisfaction
+---
+# company to a friend or colleague?”

@@ -1,9 +1,11 @@
-# 10% of the total impact.
+---
+source_path: R2405H-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 57bcd8d2c4bd16388c0f9248b210c8758e07f70a
+title: R2405H-PDF-ENG
+---
+## company with $1.7 billion in annual sales and 10,000 employees that
 
-To deﬁne and align around the meaning of safety, the SVP visited some
+manages more than 2,000 client sites, they initiated a project to uncover
 
-200 client sites to gather feedback from site managers and clients. On
-
-the basis of those visits, the company deﬁned safety as safe operations
-
-by employees (preventing lacerations from sharp tools such as kitchen
+the drivers of customer value. They discovered that safety accounted for

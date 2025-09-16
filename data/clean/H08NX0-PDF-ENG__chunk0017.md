@@ -1,25 +1,19 @@
-# and innovation.
+---
+source_path: H08NX0-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 4633a196119a873b3082ffeacff43dd439a8231f
+title: H08NX0-PDF-ENG
+---
+# physical presence in an oﬃce.
 
-Starbucks’ Tryer Center exempliﬁes this mindset. The innovation lab
+- 3. Test new ideas quickly.
 
-was created in 2018 to serve as a rapid prototyping facility where teams
+In a world of constant change, the ability to quickly test and reﬁne
 
-can quickly test new product ideas, service concepts, and store designs.
+new ideas becomes crucial. Successful organizations have moved
 
-More importantly, it embodies a culture where experimentation is
+beyond traditional planning cycles to create environments where
 
-expected and iteration is constant. Since the pandemic, the Tryer
+experimentation is continuous and learning from failure is valued. This
 
-Center has been focused on rebuilding the in-store experience to meet
-
-increasing customer demands from mobile ordering while also making
-
-it an easier place to work. More recently, Starbucks developed more
-
-sustainable cold cups, designed speciﬁcally to use 10–20% less plastic
-
-while maintaining durability. Ideas like this move from concept to
-
-testing in days rather than months, allowing the company to respond
-
-quickly to changing customer preferences, market conditions, and
+approach requires a fundamental shift in how leaders think about risk

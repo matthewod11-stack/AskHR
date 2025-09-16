@@ -1,19 +1,13 @@
-# numerical reviews?
+---
+source_path: H08HAK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 71de4df34d20aef7cf46633f7251b33bfe9c90be
+title: H08HAK-PDF-ENG
+---
+# speak to.
 
-In new research, published in the Academy of Management Discoveries,
+So how should companies conduct performance reviews? Do employees
 
-we conducted a series of studies to determine which feedback format
+actually ﬁnd narrative structures to be more encouraging and
 
-employees ﬁnd most fair and motivating. While our ﬁndings suggest
-
-that narrative feedback is often the most well-perceived, we also
-
-found that there are circumstances in which numerical reviews are
-
-considered equally fair by employees — including when they are used
-
-determine monetary incentives, like bonuses. We plumb our ﬁndings to
-
-oﬀer considerations for organizations and managers looking to fairly
-
-and accurately motivate, encourage, and improve engagement and
+motivating? Are there some circumstances where employees prefer

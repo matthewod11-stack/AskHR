@@ -1,13 +1,11 @@
-## visible support from my boss and the rest of the leadership team.”
+---
+source_path: H08EPO-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 68bb0a71597a82bb8f4c1087d4f723c029d61962
+title: H08EPO-PDF-ENG
+---
+## HBR / Digital Article / 5 Ways to Ask Your Boss to Advocate for You
 
-Maybe you’ve been in Emily’s shoes, wishing your manager would
+sensed a lack of urgency and buy-in. “They see this workgroup as just
 
-advocate for you, whether through the public endorsement of an idea,
-
-introductions to key stakeholders, publicizing team achievements, or
-
-positioning you as a subject matter expert. Your leader’s support can
-
-lend credibility, open doors, and rally resources in a way that’s hard to
-
-do on your own — but it’s often up to you to ask for it.
+another burden,” Emily said. “I know we’d move faster if there was more

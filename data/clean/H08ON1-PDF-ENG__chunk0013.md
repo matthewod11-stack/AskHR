@@ -1,13 +1,9 @@
-## survey, focus groups across departments, and interviews with
+---
+source_path: H08ON1-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: d9329fbffdc9a0f82a5c9e4fe161174b61218a70
+title: H08ON1-PDF-ENG
+---
+# Conduct a Culture Assessment
 
-key leaders to learn about the cultural compatibility of the two
-
-organizations. These don’t need to be M&A-focused instruments; we’ve
-
-used Denison Organizational Culture Survey and GlobeSmart (a for-pay
-
-Copyright © 2025 Harvard Business School Publishing. All rights reserved.
-
-3
-
-This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+A robust culture assessment should include an organization-wide

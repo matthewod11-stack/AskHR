@@ -1,27 +1,19 @@
-# reference checks.”
+---
+source_path: H08EDN-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: f70dde76be843c7682d726328cb7f5729da2c119
+title: H08EDN-PDF-ENG
+---
+# HBR / Digital Article / How to Learn from Your Mistakes and Make Better Decisions
 
-- 6. What is your solution now?
+Upon reﬂection, Stacey saw that the broadness of the applicant
 
-As you answer this question, you should see your growth in decision-
+pool wasn’t her real problem. Responsibility also lay with how she
 
-making. You’ve inspected and evaluated your thoughts, feelings, and
+interviewed and assessed candidates — actions she had a lot more
 
-behavior, enabling you to make observations about your past that
+control and inﬂuence over. “The past-decision review showed me that
 
-provide clarity and insight to move forward in a new direction.
+my actions contributed to the poor outcome,” she reﬂected. “It was
 
-As she geared up for another hiring process, Stacey decided not to
-
-narrow her applicant pool to only candidates who had held the same
-
-position previously. She wanted to cast a wide net.
-
-Instead, she made two changes to her vetting process. “First, I plan
-
-to ask candidates for detailed speciﬁcs about how they will get up to
-
-speed for the role they’re interviewing for so that I’ll have a better
-
-sense of their understanding of the position, their skill set, and their
-
-commitment to succeeding in the role,” she said. “Second, I will more
+within my power to conduct more in-depth interviews and make better

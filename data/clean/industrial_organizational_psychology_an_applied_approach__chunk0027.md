@@ -1,11 +1,9 @@
-## Cengage Learning products are represented in Canada by Nelson Education, Ltd.
+---
+source_path: industrial_organizational_psychology_an_applied_approach.md
+pages: n/a-n/a
+chunk_id: c726bfdcac4b0b72ad52686eadc9bd6366dde2cb
+title: industrial_organizational_psychology_an_applied_approach
+---
+## Wadsworth 10 Davis Drive Belmont, CA 94002-3098 USA
 
-To learn more about Wadsworth, visit www.cengage.com/Wadsworth
-
-Purchase any of our products at your local college store or at our preferred online store www.ichapters.com.
-
-This edition is dedicated to my wife, Bobbie, and son, Josh, whose love, support, and encouragement have made six editions possible.
-
-contents
-
-iii
+Cengage Learning is a leading provider of customized learning solutions with oﬃ ce locations around the globe, including Singapore, the United Kingdom, Australia, Mexico, Brazil, and Japan. Locate your local oﬃ ce at www.cengage.com/international.

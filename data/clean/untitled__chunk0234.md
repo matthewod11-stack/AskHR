@@ -1,9 +1,7 @@
-## James,W.(1892b).Psychology:Thebriefercourse.NewYork:Holt.
-
-James, W. (1920). Letter to Thomas Ward, Nov., 1867. In H. James (Ed.),TheLettersofWilliamJames(Vol.1,pp.118–119).Boston: Atlantic Monthly Press.
-
-Jastrow, J. (1886). Experimental psychology in Leipzig. Science, 8,
-
-459–462.
-
-Judd, C. H. (1907). Laboratory manual of psychology (Vol. 2). New
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: cea4294b032b5880791553e29b3dd8314ddfaa57
+title: untitled
+---
+# Philosophical Review, 1, 146–153.

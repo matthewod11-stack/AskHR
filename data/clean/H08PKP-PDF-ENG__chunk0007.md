@@ -1,11 +1,23 @@
+---
+source_path: H08PKP-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 2e3f0a6d7e92cd4ad010a8116ed3f932beb84931
+title: H08PKP-PDF-ENG
+---
 ## HBR / Digital Article / When You’re Asked to Meet Impossible Goals
 
-- Low Strategic Importance + Low Feasibility → Decline & Justify:
+structured way to assess whether to commit to, renegotiate, deprioritize,
 
-“This initiative is unlikely to drive meaningful results, and we don’t have the capacity to execute it eﬀectively. Let’s focus our resources on higher-priority eﬀorts.”
+or decline a request based on both strategic importance (i.e., how
 
-- High Strategic Importance + Low Feasibility → Renegotiate: “This
+critical is this initiative to long-term business success?) and execution
 
-initiative is critical, but we don’t currently have the resources to
+feasibility (i.e., do we have the capacity, resources, and timeline to execute eﬀectively?).
 
-execute it well. Can we adjust the timeline or allocate additional
+See more HBR charts in Data & Visuals on HBR.org.
+
+Copyright © 2025 Harvard Business School Publishing. All rights reserved.
+
+3
+
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

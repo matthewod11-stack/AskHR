@@ -1,9 +1,23 @@
-# Don’t Get Too Personal
+---
+source_path: H08GLK-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: e376c4fe5ac574e28b26852f051e8b646fb928bc
+title: H08GLK-PDF-ENG
+---
+# important or valuable in their role.
 
-A common feedback trap is giving personality-based feedback. You may
+Try: “In last week’s strategy meeting, your probing questions about
 
-be more likely to fall into this trap with high performers whom you
+the new product roadmap opened up an important discussion that
 
-trust or have a comfortable rapport with. For example, telling someone:
+helped us reﬁne our Q4 direction. I appreciate how you showed up with
 
-“You’re the most helpful person on our team,” centers on a personality
+curiosity and team spirit and helped us all reach a better plan.”
+
+This anchors the feedback in concrete examples. It’s speciﬁc and
+
+explains what about the questions was successful, and why. Providing
+
+feedback in this manner will help not only build trust and credibility
+
+but also build a foundation for growth for your high performer.

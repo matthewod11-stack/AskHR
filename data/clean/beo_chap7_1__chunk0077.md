@@ -1,13 +1,17 @@
-# productive activities.
+---
+source_path: beo_chap7_1.md
+pages: n/a-n/a
+chunk_id: d7a72313af05406ff87648a2b64b8eb51d72de8b
+title: beo_chap7_1
+---
+## an interesting role for management of group boundaries.
 
-In the context of the organization, note first that the firm would most like its
+To fix ideas, suppose there is a component of effort which is productive for the
 
-own workers to help each other, but to not help competitors’ workers. But group
+firm but does not increase an employee’s own measured output. Call this “helping”
 
-affiliations that determine helping probably do not map neatly onto legal boundaries.
+and think of it as a contribution to the firm-wide public good. In order to focus
 
-Friendship, ethnicity and language, geography and architecture (which workers live
+attention on group identification rather than multitasking (Holmstré6m and Milgrom
 
-or work nearby), marital status (who hang out after work together at happy hour, or
-
-during their children’s play dates), and other distinctions create an archipelago of
+1991), assume that choosing to help does not cut too deeply into a worker’s other

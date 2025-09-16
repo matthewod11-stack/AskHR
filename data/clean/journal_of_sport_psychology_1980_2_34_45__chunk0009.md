@@ -1,3 +1,21 @@
-# Results and Discussion
+---
+source_path: journal_of_sport_psychology_1980_2_34_45.md
+pages: n/a-n/a
+chunk_id: a851ec1593735d51c0759fb508c67e1d8a138242
+title: journal_of_sport_psychology_1980_2_34_45
+---
+# LEADERSHIP SCALE 37
 
-Because the second stage of the study was an attempt to confirm the factor structure predicted by the earlier factor analysis, five factors were extracted from each set of data. It must be pointed out that the five factors account for only
+sions of leader behavior on the basis of their high loading on one factor (.40 or more) and low loadings on any other factor (.30 or less).
+
+Subsequently, it was noted that none of the 99 items in the original pool tapped the behavior of the coach in teaching the skills and strategies of the sport. Although the term "training" connotes a certain degree of teaching, none of the items in the dimension of Training Behavior reflected the teaching behavior of the coach. Hence, in the second stage of development of the LSS, seven more items were included to tap the "instruction" behavior of a coach. Further, because Social Support is a dimension of leader behavior that is close to the traditional "Consideration" (Halpin & Winer, 1957) and because Social Support is a direct correlate of leader's orientation toward interpersonal relations (Fiedler, 1967) six more social support items were included. With the addition of these 13 items, the revised scale was increased to 50 items.
+
+In the revised version, the response categories were quantified in order to
+
+present a common frame of reference to all respondents. Accordingly, the response categories of "often," "occasionally," and "seldom" were anchored at 75%, 50%, and 25% of the time, respectively.
+
+The revised questionnaire was then administered to a different sample of 102
+
+physical education students (males = 45, females = 57) and to a male sample of 223 varsity athletes (81 basketball players, 62 wrestlers, 57 track and field athletes, and 23 oarsmen) from different Canadian universities. The physical education students responded to the questionnaire in a class setting. For the athletes, a member of the faculty of physical education (or the athletic depart- ment) was contacted and requested to help in the collection of data. The set of questionnaires was sent to the contact who administered, collected, and returned them to the investigator. In most instances the administration was in a group setting, although in the case of a few wrestlers, the questionnaire was directly mailed to their home address.
+
+The physical education students were asked to indicate their preference for specific leader behavior in relation to their favorite sport. The athletes were asked to express their preference in relation to the sport in which they were currently competing. In addition, the athletes responded to a version of the scale in which they recorded their perceptions of the actual behavior of their current coaches. For the preference version, the items were preceded by "I prefer my coach to . . ."; and for the second version, the items were preceded by "My coach. . ."The three sets of data from physical education students' preference, athletes' prefer- ence, and athletes' perception were factor analyzed separately. The technique of principal factoring with iteration (Nie et al., 1975) which was used in the original version of the LSS was also used in analyzing the revised scales.

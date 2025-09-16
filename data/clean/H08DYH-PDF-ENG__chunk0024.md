@@ -1,17 +1,19 @@
-## HBR / Digital Article / How a Playful Mindset Can Boost Creativity on Your Team
+---
+source_path: H08DYH-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 8aea763d11a6a1e6b9f82684fac1b12100092773
+title: H08DYH-PDF-ENG
+---
+## promote creativity and spontaneous interactions between people who
 
-conversations and new ideas. Speciﬁc rooms, like the one in which
+wouldn’t normally meet. The campus’s central lobby houses all the
 
-Pixar’s BrainTrust meets to provide feedback on creative work, are
+necessities — restaurants, coﬀee shops, merchandise stores, and more
 
-deliberately set aside and designed to signal that they’re safe spaces.
+— creating a hub where employees can meet serendipitously, sparking
 
-This deliberate playfulness has been integral to Pixar’s continuous
+Copyright © 2024 Harvard Business School Publishing. All rights reserved.
 
-stream of groundbreaking ideas.
+4
 
-Organizations can mimic this model. Of course, not every company
-
-can replicate Pixar’s extensive investment in a new campus, but the
-
-principle can be scaled to ﬁt any budget. For example, transforming
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

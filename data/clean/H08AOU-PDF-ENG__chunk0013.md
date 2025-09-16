@@ -1,3 +1,11 @@
-## oﬃce housework between white men and Asian women decrease by
+---
+source_path: H08AOU-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 56d0e53bb076fdfa3c0db5313d3f5fde6d12dd1d
+title: H08AOU-PDF-ENG
+---
+## of this kind of housework for all groups.
 
-21 percentage points. An energy company saw a 13-point drop in the
+The other three companies also saw more equality in oﬃce housework
+
+after the workshop: A ﬁnancial institution saw the disparity in literal

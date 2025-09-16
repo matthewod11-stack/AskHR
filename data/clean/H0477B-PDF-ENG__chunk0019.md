@@ -1,35 +1,27 @@
-# HBR / Digital Article / Why Walmart Expanded Parental Leave — and How to Convince…
+---
+source_path: H0477B-PDF-ENG.md
+pages: n/a-n/a
+chunk_id: 52cf9e212e4e07af0737330bf7962f2bdca81d0f
+title: H0477B-PDF-ENG
+---
+## While there’s more to a comprehensive policy than a certain number
 
-PL+US surveyed the largest employers in America a couple of years
+of paid weeks, that is often the central question. What’s the ideal
 
-ago, many refused to disclose their policies. Websites like Fairygodboss
+length, then? Some experts have put it at between six months and a
 
-or Glassdoor can help, but are often incomplete since the information
+year. That’s the point at which babies are (often) sleeping through the
 
-on those sites is crowdsourced. And the state of paid leave in the U.S.
+night, smiling, remembering faces and interacting with their caregivers,
 
-is so dismal, advocates may have a hard time making the case that
+and eating solid foods. But since almost no U.S. companies are that
 
-“we should do this because everyone’s doing it.” Instead, would-be
+generous, employee advocates will have to decide what they can settle
 
-changemakers can try to make the case that their companies should
+for. Collecting data on what competitor firms offer is tough: when
 
-be leaders on this issue rather than laggards.
+Copyright © 2018 Harvard Business School Publishing. All rights reserved.
 
-Persistence. Any successful change effort requires more than a single
+5
 
-meeting. Bethell estimates that it took about a year of concentrated
-
-effort on the part of employees and activists to convince Walmart
-
-management to change their policy. That would not be out of line with
-
-efforts I’ve heard about at other companies. For example, when women
-
-at the New York Times lobbied for an expanded leave policy, they spent
-
-months researching other companies’ policies and building a business
-
-case. “I’d be lying if I said it was a smooth road from the time five of
-
-us decided to write a proposal over lunch to its ultimate approval by
+This document is authorized for use only by Matt O'Donnell (matthew.od11@gmail.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

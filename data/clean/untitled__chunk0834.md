@@ -1,5 +1,21 @@
-# Vygotsky and Feuerstein’s Theories
+---
+source_path: untitled.md
+pages: n/a-n/a
+chunk_id: 6303db79a5b24772651843514767a3c54a6b4d98
+title: untitled
+---
+# Stages of Intellectual Development
 
-Whereas Piaget has emphasized primarily biological matura- tion in the development of intelligence, other theorists inter- ested in structures, such as Vygotsky (1978) and Feuerstein (1979), have emphasized more the role of interactions of in- dividuals with the environment. Vygotsky suggested that basic to intelligence is internalization, which is the internal reconstruction of an external operation. The basic notion is that we observe those in the social environment around us acting in certain ways and we internalize their actions so that they become a part of ourselves.
+Piaget (1972) suggested that the intelligence of children ma- tures through four discrete stages, or periods of development. Each of these periods builds upon the preceding one, so that development is essentially cumulative.
 
-Vygotsky (1978) gave as an example of internalization the development of pointing. He suggested that, initially, point- ing is nothing more than an unsuccessful attempt to grasp something. The child attempts to grasp an object beyond his reach and, initially, is likely to fail. When the mother sees the
+The ﬁrst period is the sensorimotor period, which occu- pies birth through roughly 2 years of age. By the end of the sensorimotor period, the infant has started to acquire object permanence, or the realization that objects can exist apart from him or herself. In early infancy, the infant does not as- cribe a separate reality to objects. Thus, if a toy is hidden under a pillow or behind a barrier, the infant will not search for the toy because as far as he or she is concerned, it no longer exists when it goes out of sight. By the end of the pe- riod, the infant knows that a search will lead to ﬁnding the object.
+
+The second period is the preoperational period, which emerges roughly between ages 2 and 7. The child is now be- ginning to represent the world through symbols and images, but the symbols and images are directly dependent upon the immediate perception of the child. The child is still essen- tially egocentric: He or she sees objects and people only from his or her own point of view. Thus, to the extent that thinking takes place, it is egocentric thinking.
+
+The third period is the concrete-operational period, which occupies roughly ages 7 through 11. In this period, the child is able to perform concrete mental operations. Thus, the child now can think through sequences of actions or events that previously had to be enacted physically. The hallmark of concrete-operational thought is reversibility. It now is possi- ble for the child to reverse the direction of thought. The child comes to understand, for example, that subtraction is the
+
+reverse of addition and division is the reverse of multiplica- tion. The child can go to the store and back home again or trace out a route on a map and see the way back.
+
+The period is labeled as one of “concrete” operations be- cause operations are performed for objects that are physically present. A major acquisition of the period is conservation, which involves a child’s recognizing that objects or quanti- ties can remain the same despite changes in their physical ap- pearance. Suppose, for example, that a child is shown two glasses, one of which is short and fat and the other of which is tall and thin. If a preoperational child watches water poured from the short, fat glass to the tall, thin one, he or she will say that the tall, thin glass has more water than the short, fat one had. But the concrete-operational child will recognize that the quantity of water is the same in the new glass as in the old glass, despite the change in physical appearance.
+
+The period of formal operations begins to evolve at around 11 years of age and usually will be fairly fully devel- oped by 16 years of age, although some adults never com- pletely develop formal operations. In the period of formal operations, the child comes to be able to think abstractly and hypothetically, not just concretely. The individual can view a problem from multiple points of view and can think much more systematically than in the past. For example, if asked to provide all possible permutations of the numbers 1, 2, 3, and 4, the child can now implement a systematic strategy for listing all of these permutations. In contrast, the concrete- operational child will have essentially listed permutations at random, without a systematic strategy for generating all of the possible permutations. The child can now think scientiﬁ- cally and use the hypothetico-deductive method to generate and test hypotheses.
